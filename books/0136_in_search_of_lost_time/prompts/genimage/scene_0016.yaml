@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Single moment extended infinitely, afternoon in Parisian apartment
+    location: Narrator's apartment hallway leading to Albertine's room
+    weather: Harsh afternoon light frozen in geometric patterns through windows
+  characters:
+  - appearance: Narrator aged 35, pale from indoor confinement and jealous obsession, caught in moment of horrified realization
+    clothing: Dark afternoon suit wrinkled from anxious pacing, collar loosened, hair disheveled from running hands through
+      it
+    position: Frozen mid-step in hallway, one hand reaching toward door handle, body twisted in sudden comprehension
+    action: Suspended in instant of discovering compromising letter, facial expression capturing transition from hope to devastation
+  scene:
+    mainElements: Apartment hallway frozen in temporal suspension while world continues around static central figure. Letter
+      falling from nerveless fingers suspended in mid-air, dust motes hanging motionless in sunbeam.
+    details: Door handle reflecting frozen hand approaching. Letter paper caught mid-flutter showing partial glimpse of devastating
+      words. Carpet pattern sharp in supernatural focus. Clock hands paused at exact moment of discovery.
+    background: 'Through windows, normal time continues: trees swaying, carriages moving, people walking. Inside apartment,
+      everything suspended except narrator''s consciousness processing revelation.'
+    atmosphere: Traumatic temporal suspension where devastating emotional realization stops personal time while universe continues.
+      Jealousy's power to freeze perception in unbearable moment of truth, no text or letters visible
+  composition:
+    cameraAngle: Dutch angle emphasizing disorientation and temporal disruption of discovery moment
+    focus: Narrator's suspended figure as center of temporal distortion with normal time visible through windows
+    depth: Sharp focus throughout scene emphasizing hyper-reality of traumatic suspension, no selective focus blur
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

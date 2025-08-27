@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Three generations of women at same domestic ritual"
+  setting:
+    time: "Triple exposure: 1917, 1935, 1950s (projected future)"
+    location: "Kitchen area of traditional Cairene house during bread preparation"
+    weather: "Early morning light through small kitchen window across all periods"
+  characters:
+    - appearance: "40-year-old Egyptian woman, medium height, slender delicate build, chestnut hair hidden under brown headscarf, small dreamy eyes, elongated face with delicate features, small thin nose, distinctive black mole on cheek"
+      clothing: "Simple long domestic dress, brown headscarf covering hair completely"
+      position: "Moving quietly and gracefully, gestures restrained and modest"
+      action: "1917: Kneading bread dough with experienced hands, teaching daughter"
+    - appearance: "20-year-old Egyptian woman, short and plump with strong build, large nose inherited from father, small eyes from mother, unattractive but intelligent and sharp expression"
+      clothing: "Modest domestic dresses appropriate for middle-class household"
+      position: "Assertive posture, often with sharp gestures reflecting her wit"
+      action: "1935: Teaching same bread-making technique to her own daughter with more confidence"
+  scene:
+    mainElements: "Same kitchen workspace showing three generations performing identical bread-making ritual, demonstrating continuity of domestic traditions across changing times"
+    details: "Kitchen elements consistent: stone oven (kanun) for baking, wooden bread boards, measuring cups, same window providing morning light. Progressive changes: 1917 traditional oil lamps, 1935 early electric lighting, 1950s modern kitchen appliances beginning to appear. Hand movements identical across generations, same circular kneading motions, same care in shaping loaves, no text or letters visible"
+    background: "Same stone walls and kitchen architecture showing accumulated wear but fundamental structure unchanged, representing domestic stability amid historical upheaval"
+    atmosphere: "Temporal continuity of female domestic wisdom, sense of unbroken chain connecting past to future, sacred nature of daily bread preparation transcending political changes"
+  composition:
+    cameraAngle: "Over-shoulder view showing hands working dough across three time periods"
+    focus: "Hands performing identical gestures across generations, emphasizing skill transmission"
+    depth: "Foreground: bread-making implements in various states of modernity, middle ground: generational hand positions, background: evolving kitchen technology"

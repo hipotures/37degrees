@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Mediterranean coastal beach in French colonial Algiers, Algeria
+    weather: Bright sunny morning with gentle sea breeze
+  characters:
+  - appearance: Elderly man over 70 years old, stooped posture, reddish scabs on face, sparse yellow hair
+    clothing: Old, worn, somewhat disheveled clothing including faded vest and patched trousers
+    position: Standing hunched over, holding leather leash, looking down at ground
+    action: Muttering complaints while tugging leash, occasionally looking up with watery eyes
+  scene:
+    mainElements: Present beach scene with young couple swimming, overlaid with Salamano's memories of his own youth and lost
+      love decades earlier
+    details: Current beach scene showing Marie and Meursault's joyful swimming, transparently overlaid with ghostly images
+      of Salamano as young man with his deceased wife, same Mediterranean sun and waves spanning generations. Old Salamano's
+      eyes seeing past romance in present couple's happiness.
+    background: Algiers coastline unchanged over decades, same white buildings and harbor that witnessed previous generation's
+      love stories
+    atmosphere: Melancholic beauty of recognizing eternal patterns of youth and love, present joy shadowed by knowledge of
+      time's passage and inevitable loss
+  composition:
+    cameraAngle: Medium wide shot from Salamano's perspective seeing present overlaid with past
+    focus: Young couple in water with transparent overlay of Salamano's memories of his own lost youth and love
+    depth: Foreground shows Salamano's aged hands and dog leash connecting him to present, middle ground shows current young
+      lovers, background shows timeless Mediterranean landscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

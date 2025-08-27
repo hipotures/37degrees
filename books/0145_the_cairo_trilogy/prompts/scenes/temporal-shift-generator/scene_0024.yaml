@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Generational conflict - same arguments across different decades"
+  setting:
+    time: "Multiple generational conflicts: 1919, 1935, 1944"
+    location: "Family reception room during heated ideological family discussions"
+    weather: "Evening interior lighting during family confrontations across decades"
+  characters:
+    - appearance: "45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue eyes, large prominent nose, commanding presence that fills space"
+      clothing: "At home: white cotton galabija"
+      position: "Standing with authority and dignity, movements heavy and measured"
+      action: "1919: Arguing with son about political involvement, 1935: Debating with adult children about social changes, 1944: Confronting grandsons about radical ideologies"
+    - appearance: "Different generations of family members across decades showing similar rebellious energy"
+      clothing: "Period-appropriate attire showing generational evolution"
+      position: "Defiant postures repeated across generations"
+      action: "Each generation challenging patriarch with contemporary issues but identical emotional intensity"
+  scene:
+    mainElements: "Same family reception room hosting repeated generational conflicts with different specific issues but identical emotional patterns"
+    details: "Conflict elements: Similar gestures of authority challenged by similar gestures of rebellion across decades. 1919: Father vs. son over political activism, 1935: Patriarch vs. adult children over social modernization, 1944: Grandfather vs. grandsons over radical ideologies. Same furniture arrangement witnessing cyclical family tensions. Body language and emotional intensity remarkably consistent despite different historical contexts, no text or letters visible"
+    background: "Same Persian Shiraz carpet and traditional furniture providing stable setting for repeating generational dramas"
+    atmosphere: "Cyclical nature of generational conflict, temporal pattern showing how family authority structures repeatedly challenge emerging ideologies, emotional consistency across changing historical contexts"
+  composition:
+    cameraAngle: "Wide view showing repeated confrontational formations across different time periods"
+    focus: "Central patriarch position challenged by different generations with similar defiant energy"
+    depth: "Foreground: contemporary materials from different conflicts, middle ground: repeating generational confrontation patterns, background: consistent family authority architecture"

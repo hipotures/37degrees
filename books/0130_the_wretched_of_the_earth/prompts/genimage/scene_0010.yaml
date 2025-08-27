@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, late afternoon
+    location: Public library in French colonial district, sterile interior with controlled information
+    weather: Indoor setting with filtered daylight
+  characters:
+  - appearance: Educated Algerian man in his 30s, wearing European-style glasses, well-groomed appearance, conflicted expression
+      showing internal alienation
+    clothing: Impeccably tailored European suit, white shirt, tie, attempting to mirror colonial elite dress
+    position: Standing before empty library shelves
+    action: Searching desperately for books, finding only gaps where works have been removed
+  - appearance: Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying
+      fear of revolt
+    clothing: Elegant civilian suit typical of 1950s colonial administration
+    position: Supervising from library entrance
+    action: Watching intellectuals with suspicion, ensuring compliance with censorship policies
+  scene:
+    mainElements: Library with numerous empty shelves, removed books creating obvious gaps, remaining volumes showing only
+      approved French colonial literature
+    details: Empty shelf spaces with dust outlines showing where books once stood, remaining titles only French authors and
+      colonial histories, locked glass cases containing forbidden works, signs reading 'Section Fermée - Accès Interdit',
+      wastebaskets filled with torn pages, librarian removing additional volumes
+    background: Sterile library interior with French colonial artwork, portraits of French intellectuals, maps showing French
+      empire
+    atmosphere: Intellectual suffocation and cultural erasure, knowledge controlled as weapon of domination
+  composition:
+    cameraAngle: Medium shot focusing on empty shelves and searching figure
+    focus: Gaps in knowledge represented by empty shelves, intellectual hunger meeting systematic censorship
+    depth: Empty bookshelves in foreground, searching intellectual in middle ground, supervising authority in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

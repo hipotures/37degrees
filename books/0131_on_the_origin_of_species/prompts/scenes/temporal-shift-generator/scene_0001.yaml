@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Young Scholar's Room Becomes Scientific Study"
+  setting:
+    time: "1820s transforming to 1850s, afternoon light"
+    location: "Single room at Cambridge University and later Down House, Kent countryside, England"
+    weather: "Overcast autumn light filtering through leaded windows"
+  characters:
+    - appearance: "British gentleman in his early twenties, 183cm tall, athletic build, straight dark brown hair combed to side, clean-shaven with sharp intelligent features, bright blue-gray eyes showing curiosity and enthusiasm"
+      clothing: "Practical explorer attire: cream cotton shirt with rolled sleeves, brown wool vest, dark trousers, sturdy leather boots, wide-brimmed canvas hat for sun protection"
+      position: "Seated at simple wooden desk near window, overlaid with older figure in same position"
+      action: "Young hand writing theology notes transforms to aged hand penning species observations, same window light illuminating different pursuits"
+  scene:
+    mainElements: "Room showing temporal layers: sparse student quarters with theology books evolving into cluttered naturalist's study with specimen jars covering every surface"
+    details: "Wooden desk accumulates scientific instruments over decades, walls transform from bare to covered with botanical prints and specimen cabinets, single crucifix replaced by microscope and magnifying glasses, prayer book becomes open notebook filled with evolutionary sketches, same chair worn smooth by years of study, no text or letters visible"
+    background: "Window view unchanged - English countryside with oak trees growing taller, seasons cycling rapidly, distant church spire remaining constant landmark"
+    atmosphere: "Peaceful scholarly transformation showing shift from religious to scientific worldview, afternoon light connecting past and future, dust motes floating between temporal layers"
+  composition:
+    cameraAngle: "Medium shot from doorway looking into room"
+    focus: "The desk as focal point of transformation with overlapping time periods"
+    depth: "Foreground: modern specimen jars, middle: transforming furniture, background: timeless countryside view through window"

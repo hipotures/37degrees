@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Knowledge - Secret Book Exchange"
+  setting:
+    time: "1760s, midnight"
+    location: "Hidden basement in Paris where forbidden books are secretly passed between citizens seeking truth"
+    weather: "Underground space illuminated only by single candle creating atmosphere of conspiracy"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Huddled together in circle around single candle, passing forbidden text with extreme care"
+      action: "Secretly reading banned book by candlelight, whispering revolutionary ideas to trusted companions, risking punishment to access forbidden knowledge"
+  scene:
+    mainElements: "Banned book open to page discussing natural rights and social contracts, frightened but determined faces illuminated by flickering candlelight, hands trembling as forbidden text is passed"
+    details: "Book contains dangerous ideas about legitimate government requiring consent of governed. Readers show mixture of fear and excitement at accessing forbidden knowledge. Secret meeting organized through coded messages"
+    background: "Hidden entrance to underground meeting space, listening posts to detect approaching authorities, plans for distributing forbidden ideas to others"
+    atmosphere: "Intellectual hunger despite extreme danger, truth seeking despite official suppression, underground network of resistance forming through shared forbidden knowledge"
+  composition:
+    cameraAngle: "Intimate close-up emphasizing danger and determination of secret knowledge sharing"
+    focus: "Forbidden book being read by candlelight with fearful but determined expressions"
+    depth: "Foreground shows detail of banned text and reading hands, middle ground displays conspiratorial group, background suggests hidden network of resistance"

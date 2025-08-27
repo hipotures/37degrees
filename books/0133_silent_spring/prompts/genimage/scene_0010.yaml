@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: June 4, 1963, morning
+    location: U.S. Senate hearing chamber during Rachel Carson's testimony, Washington D.C.
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent,
+      penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness
+    clothing: Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author,
+      clothing style appropriate to early 1960s America
+    position: Seated at witness table facing panel of senators
+    action: Calmly testifying while surrounded by chaotic media attention and political theater
+  scene:
+    mainElements: Senate hearing chamber filled with chaotic overlapping motion - camera flashes creating explosive bursts
+      of light, reporters scribbling frantically, lobbyists gesturing intensely, senators shuffling papers, all movement converging
+      on single calm figure of Rachel Carson at witness table
+    details: Multiple camera flashes firing simultaneously creating strobing light effects, reporters' hands moving in blur
+      of note-taking activity, lobbyists leaning forward in urgent whispered conversations, senators' heads turning between
+      papers and witness, microphones capturing overlapping sounds of democratic process, motion blur effects from rapid movement
+      contrasting with Carson's steady composure, papers flying and hands gesturing in political theater
+    background: Formal government hearing room in Washington D.C., imposing chamber with dark wooden paneling, raised platform
+      for senators, witness table below, representing confrontation between truth and power
+    atmosphere: Democratic cacophony surrounding single voice of scientific truth, overwhelming sensory chaos of political
+      process, media frenzy creating visual and auditory overload, no text or letters visible
+  composition:
+    cameraAngle: Wide shot capturing full chaos of hearing room activity
+    focus: Contrast between calm Carson and chaotic political environment surrounding her
+    depth: Complex layered composition with multiple planes of activity, foreground shows media chaos, middle ground emphasizes
+      Carson's testimony, background reveals formal government setting
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

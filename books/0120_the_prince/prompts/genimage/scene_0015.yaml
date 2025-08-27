@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1513, twilight gathering
+    location: Public assembly where individual conscience conflicts with collective pressure
+    weather: Dim evening light creating shadows on faces
+  characters:
+  - appearance: 44 year old lean man with high forehead, receding hair, thin lips, and penetrating, intelligent gaze reflecting
+      years of political experience and observation.
+    clothing: Simple, coarse rural clothing, dirty with mud and dust during day. In evening study, symbolic 'royal and courtly
+      robes' representing intellectual transformation.
+    position: Standing alone in crowd, physically present but intellectually isolated
+    action: Observing mass behavior with critical eye while maintaining appearance of participation
+  scene:
+    mainElements: Single thoughtful individual surrounded by unthinking crowd. Contrast between intellectual isolation and
+      social conformity pressure.
+    details: Machiavelli's face showing complex emotions - understanding, sadness, resignation - while crowd displays uniform
+      enthusiasm. His eyes reflecting knowledge that separates him from collective illusion.
+    background: Mass of citizens responding emotionally to political theater while one man sees through performance to underlying
+      mechanisms of control.
+    atmosphere: Intellectual loneliness of those who understand political reality while masses remain deceived by appearances.
+      Price of wisdom in corrupt system.
+  composition:
+    cameraAngle: Close-up on individual face contrasted with crowd
+    focus: Machiavelli representing intellectual honesty amid political deception
+    depth: Foreground shows individual contemplation, middle ground reveals crowd enthusiasm, background displays political
+      spectacle being staged
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

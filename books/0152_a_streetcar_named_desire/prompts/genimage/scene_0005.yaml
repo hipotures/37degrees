@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, late evening in May
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Cooling evening air, slight breeze through open windows
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Now in simple white blouse and dark skirt, more relaxed appearance but still maintaining dignity
+    position: Sitting close to sister on makeshift seating, leaning forward with emotional intensity
+    action: Speaking earnestly about family losses, occasionally touching sister's hand for comfort and connection
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple, practical home clothing - cotton dresses, skirts, blouses without pretensions to elegance. Modest, functional
+      attire reflecting acceptance of working-class life
+    position: Sitting beside sister, turned toward her with full attention
+    action: Listening with growing concern and guilt, occasionally reaching out to comfort sister
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Softer lighting with main bulb turned off, relying on gentle lamp light creating more intimate atmosphere. Sisters
+      positioned close together showing emotional bond. Empty coffee cups suggesting long conversation. Gentle breeze stirring
+      portières slightly. No text or letters visible
+    background: Quieter neighborhood sounds in evening, distant blue piano music providing melancholy soundtrack
+    atmosphere: Poignant intimacy between sisters sharing painful family history. Mixture of grief, guilt, and mutual support.
+      Temporary peace before larger conflicts emerge
+  composition:
+    cameraAngle: Medium shot capturing emotional connection between sisters
+    focus: Hand gestures and facial expressions showing depth of shared pain and bond
+    depth: 'Foreground: sisters in conversation; middle ground: intimate apartment setting; background: gentle evening light
+      filtering through windows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

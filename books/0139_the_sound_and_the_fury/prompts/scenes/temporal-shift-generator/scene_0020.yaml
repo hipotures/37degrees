@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Time Bleeding - Past and Present Occupying Same Space"
+  setting:
+    time: "1898, 1910, and 1928 occurring simultaneously in same location"
+    location: "Formal front room of Compson mansion with high ceilings showing three distinct time periods bleeding into each other"
+    weather: "Indoor lighting showing gaslight, early electric, and mature electric illumination overlapping"
+  characters:
+    - appearance: "White female child age 6-12, generally described as beautiful and rebellious, fearless and often dirty, muddy bottom of undergarments from playing in stream, flowers in hair for wedding"
+      clothing: "Simple children's dresses often muddied from outdoor play, wedding dress with long flowing veil like shining wind"
+      position: "Active adventurous poses - climbing trees, sitting in muddy stream, exploring forbidden areas"
+      action: "Bold transgressive behavior - climbing pear tree to peek in windows, deliberately soiling dress, defying adult authority"
+    - appearance: "Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless"
+      clothing: "Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit his large frame"
+      position: "Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements"
+      action: "Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed"
+  scene:
+    mainElements: "Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano, formal seating arrangement with three temporal periods occupying same physical space"
+    details: "Temporal bleeding visualization where three critical family moments occur simultaneously: 1898 funeral scene with child climbing outside window visible through glass, mourning relatives in Victorian dress surrounding coffin; 1910 wedding ceremony with bride in flowing veil, family tension visible, adult with disability bellowing in distress; 1928 empty room with dust particles, abandoned furniture, no family presence - all three realities occupying identical space with translucent overlapping figures and events no text or letters visible"
+    background: "Same parlor architecture showing three states simultaneously - fresh 1898 condition, worn 1910 state, and deteriorated 1928 abandonment"
+    atmosphere: "Supernatural temporal convergence where past events haunt present space, showing how traumatic family moments echo eternally in locations where they occurred"
+  composition:
+    cameraAngle: "Wide shot from parlor doorway showing all three temporal layers simultaneously"
+    focus: "Central parlor space where funeral, wedding, and abandonment occur as overlapping translucent realities"
+    depth: "Foreground: 1928 empty present reality; middle ground: 1910 wedding ceremony; background: 1898 funeral with child's transgressive observation"

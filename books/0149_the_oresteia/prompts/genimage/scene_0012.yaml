@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, twilight approaching
+    location: Palace interior passages and corridors as seen through prophetic sight
+    weather: Interior lighting from oil lamps and torches creating flickering shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Prophetic vision perspective showing dark palace corridors with ghostly suggestions of murdered innocents,
+      shadows and light creating supernatural atmosphere, stone architecture seeming to breathe with ancient crimes
+    details: Oil lamps and torches creating dancing shadows that suggest horrific shapes, partial glimpses of spectral figures
+      in peripheral vision, bloodstains that may be real or visionary on ancient stone floors, echoing footsteps and whispers
+      that exist only in prophetic perception
+    background: Complex maze of corridors smaller rooms workshops and storerooms, palace architecture becoming labyrinthine
+      and threatening under supernatural perception, walls seeming to close in with weight of historical guilt
+    atmosphere: Supernatural horror of prophetic vision revealing palace's cursed past, intersection of present reality with
+      ghostly history, sense of ancient crimes echoing through stone corridors, inevitability of approaching addition to palace's
+      catalog of murders
+  composition:
+    cameraAngle: Subjective POV through supernatural prophetic sight revealing hidden horrors
+    focus: Ghostly shadows and suggested presences visible only to prophetic vision
+    depth: Foreground shows reaching hands of visionary perceiver, middle ground reveals supernatural shadows and spectral
+      suggestions, background extends into dark palace depths where ancient horrors lurk, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

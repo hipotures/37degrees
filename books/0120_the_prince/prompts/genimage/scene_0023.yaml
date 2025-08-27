@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Allegorical representation, dramatic lighting
+    location: Symbolic space representing struggle between human will and fate
+    weather: Swirling winds and changing conditions
+  characters:
+  - appearance: Allegorical figure representing Fortune as powerful, capricious woman
+    clothing: Flowing robes that change color and texture unpredictably
+    position: Elevated position controlling wheel of fortune and fate
+    action: Dispensing rewards and punishments according to her whims rather than merit
+  - appearance: Bold ruler attempting to master fortune
+    clothing: Armor and royal regalia representing human authority
+    position: Reaching toward Fortune with determination
+    action: Attempting to dominate and control Fortune through audacity and strength
+  scene:
+    mainElements: Visual representation of Machiavelli's controversial metaphor about Fortune favoring bold action over cautious
+      planning. Struggle between human agency and uncontrollable fate.
+    details: Wheel of fortune showing rise and fall of human plans. Symbols of chance and unpredictability contrasted with
+      symbols of human determination and will.
+    background: Allegorical landscape where abstract concepts of power and fate become visually concrete.
+    atmosphere: Machiavelli's teaching that Fortune, like a woman, responds better to bold action than to timid respect.
+  composition:
+    cameraAngle: Dynamic composition showing struggle for control
+    focus: Controversial metaphor about relationship between audacity and success
+    depth: Foreground shows human will asserting itself, middle ground reveals struggle for control, background displays consequences
+      of both success and failure
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

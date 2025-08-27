@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1870s handwritten correspondence era evolving into 1928 telegraph age
+    location: Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory
+      furnishings showing communication methods across decades
+    weather: Indoor lamplight showing evolution from gaslight to electric illumination
+  characters:
+  - appearance: Slender, unimposing white male age 20, lean build suggesting physical weakness from fights with stronger men,
+      sensitive intellectual features, neurotically intense expression, often described in relation to his shadow
+    clothing: Harvard student attire from 1910 - formal suit jacket, white collared shirt, necktie, well-dressed appearance
+      maintained even on day of death
+    position: Methodical, ritualistic movements especially when arranging personal effects, often walking with measured pace
+    action: Obsessively checking pocket watch, cleaning clothing, organizing belongings with precise methodical motions
+  scene:
+    mainElements: Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory
+      furnishings serving as workspace for different communication technologies
+    details: 'Triple temporal overlay showing communication evolution at same desk: background layer depicts 1870s letter-writing
+      scene with quill pen, inkwell, thick stationery paper, gaslight illumination, formal penmanship, sealed letters ready
+      for post; middle layer shows 1900s fountain pen technology, improved paper quality, electric lighting, telegram forms
+      beginning to appear; foreground reveals 1910 Harvard student writing final letters with modern pen, telegraph messages
+      received about family crisis, multiple communication methods available but all carrying burden of family tragedy no
+      text or letters visible'
+    background: Same desk workspace showing technological progression - gas fixtures replaced by electric, ink wells superseded
+      by fountain pens, letter formats evolving with changing social customs
+    atmosphere: Technological advancement in communication ironically highlighting increasing emotional isolation and inability
+      to bridge human understanding
+  composition:
+    cameraAngle: Medium close-up shot focusing on desk surface showing communication evolution
+    focus: Writing implements and correspondence methods showing technological progression across four decades
+    depth: 'Foreground: modern 1910 communication tools; middle ground: evolving writing technology; background: traditional
+      1870s letter-writing customs'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

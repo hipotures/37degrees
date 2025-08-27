@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1572, during religious conflict
+    location: Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots
+    weather: Clear daylight revealing details normally hidden
+  characters:
+  - appearance: Various figures engaged in religious conflict, some hidden behind buildings or trees
+    clothing: Mixed religious and civilian attire showing complex loyalties beyond simple faction divisions
+    position: Some visible in main conflict, others concealed or fleeing, revealing full scope of situation
+    action: Complex range of activities beyond simple religious warfare - looting, settling personal scores, protecting family
+  scene:
+    mainElements: Complete view revealing economic and personal motivations hidden behind religious rhetoric
+    details: Main conflict in village square conceals secondary activities - individuals settling personal debts under cover
+      of religious war, merchants protecting valuable goods regardless of religious affiliation, families of both faiths fleeing
+      together when violence escalates beyond control, abandoned religious banners revealing opportunistic rather than devotional
+      motivations, empty houses being looted by figures from both sides, local officials negotiating private truces while
+      public conflict continues, no text or letters visible
+    background: Countryside showing mixed evidence of genuine religious conviction and opportunistic violence exploiting ideological
+      cover
+    atmosphere: Complex reality where personal, economic and political motivations operate alongside and often override religious
+      convictions
+  composition:
+    cameraAngle: Elevated perspective revealing activities and motivations hidden from ground-level participants
+    focus: Full scope of conflict showing economic and personal factors beyond religious ideology
+    depth: Foreground shows visible conflict, middle ground captures hidden activities, background reveals broader social
+      complexity, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

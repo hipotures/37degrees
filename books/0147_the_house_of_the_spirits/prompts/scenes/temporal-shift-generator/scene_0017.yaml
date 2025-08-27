@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Critical Instant - Esteban's Violence Against Clara Suspended in Time"
+  setting:
+    time: "1940s, afternoon moment frozen at instant of maximum violence"
+    location: "dining room at Tres Marías hacienda during family confrontation"
+    weather: "harsh afternoon sunlight streaming through windows, emphasizing brutality of scene"
+  characters:
+    - appearance: "man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and anger, graying hair, stern dark eyes that command respect and fear"
+      clothing: "impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding boots, wool vest, white cotton shirt"
+      position: "frozen mid-strike with raised hand, face twisted in uncontrolled rage"
+      action: "caught in moment of ultimate patriarchal violence, hand suspended inches from Clara's face"
+    - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+      clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+      position: "suspended in moment of impact, head turning from force of blow"
+      action: "frozen at instant when eternal silence begins, spiritual withdrawal from violent husband becoming permanent"
+    - appearance: "woman aged fifteen to fifty, practical appearance more earthbound than ethereal mother, sturdy build suited for physical work, determined expression often showing internal conflict"
+      clothing: "simple functional dresses, often work clothes stained with clay from pottery making, modest attire appropriate for artistic pursuits"
+      position: "caught protecting mother while cowering from father's brutality"
+      action: "frozen in defensive posture, face showing terror and determination to shield Clara"
+  scene:
+    mainElements: "moment of violence suspended in time to emphasize its devastating impact - Esteban's patriarchal rage frozen at peak intensity, Clara's spiritual essence already beginning withdrawal from physical world, Blanca witnessing destruction of family harmony through male violence"
+    details: "domestic violence captured in terrible detail - blood droplets from Clara's broken teeth suspended in air, furniture knocked over by struggle frozen mid-fall, afternoon sunlight creating harsh shadows that emphasize brutality, family portraits on walls seeming to witness destruction, no text or letters visible"
+    background: "dining room of hacienda frozen in moment of family crisis, formal furniture and elegant settings rendered meaningless by explosion of patriarchal violence, windows showing peaceful countryside contrasting with interior brutality"
+    atmosphere: "terrible suspension of time emphasizing irreversible nature of violence, moment when family love dies and permanent silence begins, patriarchal power destroying what it claims to protect"
+  composition:
+    cameraAngle: "dramatic close-up emphasizing violence frozen in critical instant"
+    focus: "central attention on Clara's face at moment of spiritual withdrawal from marriage"
+    depth: "foreground shows detailed violence aftermath, middle ground captures three figures at crisis moment, background reveals domestic setting destroyed by male rage"

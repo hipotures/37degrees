@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1792, artificial evening light from chandeliers creating theatrical illumination
+    location: Grand ballroom where society women perform their scripted roles in social machinery
+    weather: Indoor evening setting with controlled lighting that emphasizes artificial nature of social performance
+  characters:
+  - appearance: Multiple women in elaborate ballgowns moving in synchronized patterns like clockwork figures
+    clothing: Identical in their artificiality - tight corsets, elaborate hairstyles, heavy cosmetics creating doll-like uniformity
+    position: Arranged in geometric patterns around ballroom, positioned like decorative objects
+    action: Performing identical gestures of flirtation, conversation, and social grace with mechanical precision
+  scene:
+    mainElements: Ballroom interior designed like elaborate clockwork mechanism with women as decorative moving parts rather
+      than autonomous individuals
+    details: Visual metaphors of mechanization - women's movements follow predictable patterns like clockwork. Their expressions
+      show practiced charm rather than genuine emotion. Social interactions follow scripts rather than authentic communication.
+      Everything choreographed for male pleasure
+    background: Ornate ballroom architecture that frames women as decorative elements rather than active participants
+    atmosphere: Atmosphere of beautiful but soulless performance, showing how women have been reduced to ornamental functions
+      in social machinery
+  composition:
+    cameraAngle: High angle shot showing the mechanical patterns of women's movement and positioning
+    focus: The reduction of women to decorative objects performing predetermined social functions
+    depth: Foreground shows individual mechanical movements, middle ground reveals the larger pattern, background suggests
+      the social system that creates this dehumanization
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

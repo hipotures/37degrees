@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "St. Petersburg at Dawn - Mississippi River Town"
+  setting:
+    time: "1840s Missouri, early morning dawn"
+    location: "St. Petersburg, Missouri overlooking Mississippi River from hilltop"
+    weather: "Clear morning with mist rising from river"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Small Mississippi River town spread along riverbank with steamboat docks, main street leading uphill from water, mix of wooden and brick buildings"
+    details: "Two-story houses built of brick and wood in simple Federal and Greek Revival styles. White-painted houses with front porches and columns. Church steeples rising above treeline. Muddy, unpaved main street. Wooden docks extending into river with moored flatboats and canoes"
+    background: "Wide Mississippi River stretching to Illinois shore, morning mist rising from water surface, distant forests on opposite bank"
+    atmosphere: "Peaceful small town awakening, sense of frontier community on great river, warm morning light revealing orderly civilization built on river commerce, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position overlooking town"
+    focus: "Overview of entire St. Petersburg showing relationship between town and river"
+    depth: "River docks in foreground, town buildings in middle ground, river and distant shore in background"

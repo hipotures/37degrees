@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Expressionless Faces of Labor"
+  setting:
+    time: "1776, end of long working day"
+    location: "Long rectangular ground-floor workshop in brick industrial building, British Midlands"
+    weather: "Fading daylight through dusty windows"
+  characters:
+    - appearance: "25-year-old male laborer, lean but muscular from physical work, weathered hands with calluses, tired expression in brown eyes, short unkempt dark hair"
+      clothing: "coarse unbleached linen shirt, patched wool breeches, thick woolen stockings, heavy leather shoes, thick leather apron stained with metal dust"
+      position: "bent over workbench in focused concentration on repetitive task"
+      action: "continuing same repetitive motion hour after hour, face showing no emotion or thought, eyes vacant from monotonous work"
+  scene:
+    mainElements: "Extended wooden workbench running length of room with ten workstations, each with specific tools for pin-making stages, hand-operated machinery including wire-drawing apparatus and grinding stones"
+    details: "Close focus on worker faces reveals blank, emotionless expressions showing mental exhaustion from repetitive labor. Eyes appear vacant, showing loss of intellectual engagement. Hands move automatically without conscious thought, demonstrating how humans have adapted to serve machinery. Dust and grime on faces suggests harsh working conditions"
+    background: "Rhythmic industrial sounds of hammering and grinding, metallic dust particles floating in cold light from large utilitarian windows, smell of heated metal and oil"
+    atmosphere: "Mental numbness from repetitive labor, loss of human consciousness and creativity, workers appearing more like machines than people, intellectual stagnation"
+  composition:
+    cameraAngle: "Close-up focusing on expressionless worker faces"
+    focus: "Vacant expression of worker showing mental impact of repetitive labor, loss of individual consciousness"
+    depth: "Worker's emotionless face fills foreground, hands performing automatic motions in middle ground, industrial machinery in background"

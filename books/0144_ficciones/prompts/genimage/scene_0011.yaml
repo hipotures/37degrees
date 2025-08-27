@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1920s Ireland then 1940s rural Uruguay, evening twilight
+    location: Remote estancia farmhouse in Uruguay with view of endless pampas
+    weather: Clear evening with last light fading over grasslands
+  characters:
+  - appearance: Mature Irish exile with commanding presence, distinctive crescent-shaped scar running from temple to cheek
+      like gray arc, weathered face showing authority mixed with shame, piercing eyes holding secrets
+    clothing: 'Simple gaucho attire of rural landowner: cotton shirt, leather vest, riding boots, traditional ranch clothing
+      adopted by immigrant'
+    position: Standing in doorway of farmhouse, silhouetted against evening sky
+    action: Touching scar on face while recounting tale of Irish revolution, unknowingly revealing own role as traitor
+  scene:
+    mainElements: Crescent-shaped facial scar catches last light of sunset, silver line against weathered skin forming perfect
+      arc from temple to jaw, scar both badge of honor and mark of shame, physical proof of violence that tells contradictory
+      story depending on perspective
+    details: Scar transforms from heroic war wound into sign of divine justice, same physical mark carrying opposite meanings
+      as story unfolds. Silver line appears to glow in twilight, suggesting supernatural significance. Facial disfigurement
+      becomes beautiful in its honesty, finally revealing truth after years of deception
+    background: Rural Uruguay estancia with endless pampas stretching to horizon, simple farmhouse with thatched roof, horses
+      grazing in distance, evening stars beginning to appear
+    atmosphere: Tragic revelation and moral complexity, sunset light creating dramatic shadows, weight of confession hanging
+      in evening air, honor and shame existing simultaneously in single person, no text or letters visible
+  composition:
+    cameraAngle: Profile shot emphasizing scar against evening sky
+    focus: The silver crescent scar catching light as symbol of moral ambiguity
+    depth: Speaker's scarred profile in foreground, farmhouse doorway in middle ground, vast pampas landscape fading into
+      background distance
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

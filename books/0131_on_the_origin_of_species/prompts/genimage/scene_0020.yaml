@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1870s photograph time bleeding into present day, indoor museum lighting
+    location: Natural History Museum London display case transitioning to living Down House scene
+    weather: Controlled museum environment becoming natural outdoor conditions
+  characters:
+  - appearance: Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture,
+      completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire
+      lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins
+    clothing: 'Comfortable elderly gentleman''s dress: loose black woolen coat, thick gray shawl around shoulders, soft felt
+      hat, heavy walking boots, woolen mittens in cold weather'
+    position: Stepping out of photograph frame into three-dimensional reality
+    action: Darwin emerging from sepia photograph into full color living scene, reaching across time barrier
+  scene:
+    mainElements: Vintage photograph in museum display case showing Darwin in his garden, with figure stepping out of frame
+      into real garden environment
+    details: Sepia photograph showing elderly Darwin in Down House garden gradually becoming full-color three-dimensional
+      scene, glass display case dissolving to allow movement between photograph and reality, museum label and frame becoming
+      garden gate, artificial museum lighting transforming to natural sunlight, static pose in photograph becoming living
+      movement, other family members visible in photograph also beginning to move and gain color, no text or letters visible
+      on museum labels or photograph
+    background: Museum interior with display cases and educational exhibits transforming into actual Down House garden with
+      greenhouse, paths, and mature plantings
+    atmosphere: Magical transition between preserved memory and living experience, breaking barriers between past documentation
+      and present reality, scientific history becoming accessible and immediate
+  composition:
+    cameraAngle: Medium shot showing transition from photograph to reality
+    focus: The moment of crossing from preserved image to living presence
+    depth: 'Foreground: museum display dissolving, middle: Darwin emerging from photograph, background: garden coming to life'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

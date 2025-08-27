@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "The Crown in Two Realms"
+  setting:
+    time: "1922, evening"
+    location: "Opulent private chamber in wealthy London residence, interior designed in historicizing style reminiscent of Louis XV period"
+  characters:
+    - appearance: "Wealthy woman aged 30-35, tense face with expression of neurotic anxiety, distinctive red or chestnut hair spreading in fiery points in firelight, refined features marked by fear and desperation"
+      clothing: "Luxurious evening gown or silk peignoir in rich fabrics like velvet or satin, adorned with glittering jewelry reflecting candlelight"
+      position: "Seated on chair resembling polished throne"
+      action: "Speaking frantically in one-sided desperate pleas for communication, brushing hair with agitated gestures"
+  scene:
+    mainElements: "Ornate golden crown sits on marble mantelpiece, but its reflection in mirror below shows the same crown buried deep in mud and filth"
+    details: "The physical crown gleams with jewels - emeralds, rubies, and diamonds - perfectly polished and radiating wealth and power in the candlelight. However, the mirror's reflection reveals the identical crown half-buried in dark swamp mud, its gold tarnished black, gems missing or cracked, symbolizing the decay beneath surface luxury. The contrast between material splendor and spiritual corruption is absolute, showing two states of the same object existing simultaneously."
+    background: "Chair resembling polished throne, seven-branched candelabra casting flickering light, marble surfaces reflecting flames"
+    atmosphere: "Suffocating claustrophobic luxury, air thick with synthetic perfumes, neurotic tension filling ornate space with desperate energy, revelation of hidden corruption, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both crown on mantel and its corrupted reflection in mirror"
+    focus: "The stark contrast between the gleaming crown and its muddy reflection"
+    depth: "Crown and mirror reflection in foreground, neurotic lady in middle ground, luxurious chamber details in background"

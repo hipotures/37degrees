@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Plansza Początkowa</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;600&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Inter', sans-serif;
+            background: #000;
+        }
+        
+        .intro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1e 50%, #16213e 100%);
+        }
+        
+        /* Animated background pattern */
+        .bg-pattern {
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            top: -50%;
+            left: -50%;
+            opacity: 0.05;
+            background-image: 
+                repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(255,255,255,.05) 35px, rgba(255,255,255,.05) 70px),
+                repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(255,255,255,.03) 35px, rgba(255,255,255,.03) 70px);
+            animation: drift 20s linear infinite;
+        }
+        
+        @keyframes drift {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(50px, 50px); }
+        }
+        
+        /* Logo section */
+        .logo-section {
+            position: absolute;
+            top: 200px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: fadeInDown 0.8s ease-out 0.3s forwards;
+        }
+        
+        .podcast-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 156px;
+            font-weight: 700;
+            background: linear-gradient(135deg, #f5f5f5 0%, #d4af37 50%, #f5f5f5 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+            letter-spacing: -2px;
+            margin-bottom: 20px;
+            text-shadow: 0 4px 20px rgba(212, 175, 55, 0.3);
+        }
+        
+        .tagline {
+            font-size: 31px;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.7);
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+        
+        /* Divider line */
+        .divider {
+            position: absolute;
+            top: 500px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #d4af37, transparent);
+            animation: expandWidth 1s ease-out 0.8s forwards;
+            z-index: 1;
+        }
+        
+        @keyframes expandWidth {
+            to { width: 600px; }
+        }
+        
+        /* Book info section */
+        .book-section {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 900px;
+            opacity: 0;
+            animation: fadeInUp 1s ease-out 1.2s forwards;
+            z-index: 2;
+        }
+        
+        .book-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 125px;
+            font-weight: 700;
+            color: #f5f5f5;
+            line-height: 1.2;
+            margin-bottom: 40px;
+            text-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+        }
+        
+        .book-author {
+            font-size: 55px;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.9);
+            letter-spacing: 2px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .book-author::before,
+        .book-author::after {
+            content: '—';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #d4af37;
+            font-weight: 300;
+            opacity: 0;
+            animation: fadeIn 0.5s ease-out 1.8s forwards;
+        }
+        
+        .book-author::before {
+            left: -60px;
+        }
+        
+        .book-author::after {
+            right: -60px;
+        }
+        
+        /* Episode number */
+        .episode-number {
+            position: absolute;
+            bottom: 300px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 36px;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.6);
+            letter-spacing: 3px;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 2s forwards;
+        }
+        
+        /* Decorative elements */
+        .corner-decoration {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 2.2s forwards;
+        }
+        
+        .corner-decoration::before,
+        .corner-decoration::after {
+            content: '';
+            position: absolute;
+            background: #d4af37;
+        }
+        
+        .corner-top-left {
+            top: 50px;
+            left: 50px;
+        }
+        
+        .corner-top-left::before {
+            width: 100px;
+            height: 2px;
+            top: 0;
+            left: 0;
+        }
+        
+        .corner-top-left::after {
+            width: 2px;
+            height: 100px;
+            top: 0;
+            left: 0;
+        }
+        
+        .corner-bottom-right {
+            bottom: 50px;
+            right: 50px;
+            transform: rotate(180deg);
+        }
+        
+        .corner-bottom-right::before {
+            width: 100px;
+            height: 2px;
+            top: 0;
+            left: 0;
+        }
+        
+        .corner-bottom-right::after {
+            width: 2px;
+            height: 100px;
+            top: 0;
+            left: 0;
+        }
+        
+        /* Animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translate(-50%, -45%);
+            }
+            to {
+                opacity: 1;
+                transform: translate(-50%, -50%);
+            }
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+        
+        /* Pulse effect for logo */
+        .logo-glow {
+            position: absolute;
+            top: 200px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 200px;
+            background: radial-gradient(ellipse at center, rgba(212, 175, 55, 0.2) 0%, transparent 70%);
+            filter: blur(40px);
+            animation: pulse 3s ease-in-out infinite;
+            animation-delay: 2.5s;
+            opacity: 0;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 0.6; }
+        }
+    </style>
+</head>
+<body>
+    <div class="intro-container">
+        <!-- Background pattern -->
+        <div class="bg-pattern"></div>
+        
+        <!-- Logo glow effect -->
+        <div class="logo-glow"></div>
+        
+        <!-- Logo section -->
+        <div class="logo-section">
+            <h1 class="podcast-name">37stopni</h1>
+            <p class="tagline">Gorączka czytania</p>
+        </div>
+        
+        <!-- Divider -->
+        <div class="divider"></div>
+        
+        <!-- Book information -->
+        <div class="book-section">
+            <h2 class="book-title">Pan Tadeusz</h2>
+            <p class="book-author">Adam Mickiewicz</p>
+        </div>
+        
+        <!-- Decorative corners -->
+        <div class="corner-decoration corner-top-left"></div>
+        <div class="corner-decoration corner-bottom-right"></div>
+    </div>
+    
+    <script>
+        // Przykład jak dynamicznie zmieniać dane
+        function updateBookInfo(title, author, episode) {
+            document.querySelector('.book-title').textContent = title;
+            document.querySelector('.book-author').textContent = author;
+            document.querySelector('.episode-number').textContent = `ODCINEK ${episode}`;
+        }
+        
+        // Test z różnymi długościami tytułów
+        setTimeout(() => {
+            // updateBookInfo("Mistrz i Małgorzata", "Michaił Bułhakow", 31);
+        }, 5000);
+    </script>
+</body>
+</html>

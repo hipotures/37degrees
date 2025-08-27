@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Construction and decay overlapping in same moment, all lighting conditions
+    location: Down House stone foundation and basement, Kent countryside
+    weather: Dry construction day overlaid with wet decay conditions
+  characters:
+  - appearance: Victorian-era stonemasons and builders in work clothes
+    clothing: Rough work shirts, leather aprons, sturdy boots, caps
+    position: Building foundation stones overlaid with modern archaeologists examining ruins
+    action: Laying foundation stones overlapping with measuring and documenting deteriorated remains
+  scene:
+    mainElements: Stone foundation showing simultaneous construction and archaeological excavation of same structure
+    details: Foundation stones being precisely laid by skilled masons overlaid with same stones weathered, cracked, and partially
+      buried, mortar fresh and white becoming aged and crumbling, construction tools overlapping with archaeological equipment,
+      foundation trenches being dug overlaid with excavation revealing buried remains, wooden scaffolding aging and rotting
+      in compressed time, building materials fresh and orderly becoming scattered archaeological artifacts, no text or letters
+      visible on stones or tools
+    background: Down House structure rising above foundation overlaid with ruins and grown-over landscape, mature trees replacing
+      construction staging areas
+    atmosphere: Simultaneous creation and entropy, human construction efforts overlaid with inexorable natural reclamation,
+      circular nature of building and decay
+  composition:
+    cameraAngle: Low angle from foundation level showing construction and ruins simultaneously
+    focus: The foundation stones as symbols of human permanence and impermanence
+    depth: 'Foreground: detailed stonework in both states, middle: workers across time, background: building in various states
+      of completion and decay'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

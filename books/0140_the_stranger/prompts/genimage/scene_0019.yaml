@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Prison corridor adjacent to small stone cell in French colonial prison facility
+    weather: Dim interior lighting from small windows
+  characters:
+  - appearance: Prison guard in uniform, middle-aged, carrying keys and maintaining routine watch
+    clothing: Standard colonial prison guard uniform with keys and equipment
+    position: Walking corridor performing regular duties
+    action: Conducting routine cell checks and prisoner management without personal involvement
+  scene:
+    mainElements: Objective view of prison operations showing institutional routine, guard's professional detachment, mechanical
+      nature of imprisonment system
+    details: Prison corridor showing actual conditions, guard performing standardized procedures, institutional architecture
+      designed for efficient human storage, mechanical sound of keys and footsteps on stone floors. Multiple cell doors showing
+      scale of prison system.
+    background: Stone corridor architecture typical of colonial prison construction, narrow windows providing minimal natural
+      light, echoing sounds of institutional routine
+    atmosphere: Impersonal institutional machine processing human lives through bureaucratic procedures, showing system's
+      mechanical operation without individual consideration
+  composition:
+    cameraAngle: Objective side angle showing guard's routine and institutional environment
+    focus: Prison guard's mechanical performance of duties in institutional setting
+    depth: Foreground shows stone corridor architecture, middle ground shows guard's routine activities, background shows
+      multiple cell doors and institutional scale, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

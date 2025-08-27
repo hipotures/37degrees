@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, afternoon
+    location: French colonial district in Algeria with wide tree-lined boulevards, Haussmanian architecture mixed with neo-Moorish
+      elements, clean illuminated streets
+    weather: Bright afternoon light
+  characters:
+  - appearance: Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying
+      fear of revolt
+    clothing: Khaki military uniform with beret, or elegant civilian suit typical of 1950s colonial administration
+    position: Standing before large propaganda display
+    action: Pointing to poster elements while addressing small gathering, explaining colonial benefits
+  scene:
+    mainElements: Massive propaganda poster mounted on building wall showing idealized scenes of French-Algerian cooperation,
+      modernization projects, happy integrated communities
+    details: Poster depicts smiling Algerians working alongside French engineers building roads and schools, modern machinery
+      bringing progress, French and Algerian flags intertwined, text reading 'Algérie Française - Progrès pour Tous'. Clean
+      European-style street with propaganda kiosk displaying multiple colonial achievement posters
+    background: Monumental colonial buildings, manicured parks, elegant shop windows, organized urban planning
+    atmosphere: Sterile orderliness masking underlying tension and control, geometric precision symbolizing colonial domination
+  composition:
+    cameraAngle: Eye level capturing both official and poster
+    focus: Propaganda poster as central element, colonial official explaining imperial narrative
+    depth: Poster wall in foreground, official and small crowd in middle ground, European district background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

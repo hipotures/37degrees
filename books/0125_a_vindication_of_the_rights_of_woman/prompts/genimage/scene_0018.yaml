@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1792, dim candlelight providing secrecy for clandestine intellectual activity
+    location: Private room where woman secretly reads serious literature forbidden to her sex
+    weather: Nighttime secrecy allowing for hidden intellectual rebellion
+  characters:
+  - appearance: Intelligent woman in her 20s-30s showing concentrated attention to serious reading despite social prohibition
+    clothing: Simple dress suitable for private study, contrasting with elaborate public attire required for social display
+    position: Seated at small table with candle, positioned for both reading and concealment if discovered
+    action: Reading philosophical or political text while keeping embroidery work nearby as camouflage for acceptable feminine
+      activity
+  scene:
+    mainElements: Private domestic space converted into secret classroom for forbidden learning
+    details: Serious books hidden behind acceptable feminine reading materials. Writing materials concealed for taking notes
+      on prohibited subjects. Evidence of intellectual hunger despite social prohibition - philosophical works, political
+      pamphlets, serious literature
+    background: Domestic environment that should confine women to trivial concerns but serves as hiding place for intellectual
+      rebellion
+    atmosphere: Atmosphere of dangerous intellectual hunger and clandestine learning, showing women's suppressed capacity
+      for serious thought
+  composition:
+    cameraAngle: Close-up emphasizing the secrecy and intensity of forbidden learning
+    focus: The contrast between prohibited serious reading and acceptable feminine occupations
+    depth: Foreground shows hidden serious books, middle ground shows reading woman, background suggests domestic space that
+      should confine rather than liberate
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

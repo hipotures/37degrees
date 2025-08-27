@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Narrator First Sees Mustafa Sa'eed - Mysterious Stranger"
+  setting:
+    time: "1960s, evening"
+    location: "Village gathering area outside traditional houses, communal space for evening socializing"
+    weather: "Cooling evening air with gentle breeze from Nile"
+  characters:
+    - appearance: "Handsome Sudanese man around fifty years old, noble broad forehead, wide-set eyebrows forming crescents over eyes, sharply defined nose with hair growing from nostrils, thick graying hair, head in perfect proportion to neck and shoulders"
+      clothing: "Simple farmer's djellaba in earth tones"
+      position: "Standing slightly apart from village group, observing with detached interest"
+      action: "Speaking with enigmatic smile as if conversing with himself, occasionally displaying mysterious demeanor"
+    - appearance: "Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven face showing traces of internal struggle"
+      clothing: "Clean white traditional djellaba with matching turban"
+      position: "Among village group but attention drawn to the stranger"
+      action: "Studying the newcomer with growing fascination and unease"
+  scene:
+    mainElements: "Group of village men gathered in informal circle, oil lamps creating pools of warm light, traditional houses forming backdrop"
+    details: "Through narrator's increasingly unsettled perspective, Mustafa appears as disturbing anomaly in peaceful village scene - his handsome features seem too refined for simple farmer, enigmatic smile suggests hidden knowledge that threatens narrator's newfound peace. Other villagers appear trusting and simple in comparison, their honest faces glowing in lamplight while Mustafa's remains mysteriously shadowed. Village sounds of evening conversation, children playing nearby, seem suddenly fragile against this stranger's silent presence, no text or letters visible"
+    background: "Clay houses with wooden doors, date palms swaying in evening breeze, Nile glinting in distance"
+    atmosphere: "Narrator's growing unease as perfect village harmony feels threatened by mysterious presence, lamplight creating intimate circle that Mustafa somehow stands outside of, sense of foreboding disrupting narrator's peaceful homecoming"
+  composition:
+    cameraAngle: "Narrator's eye level, focusing on the contrast between stranger and familiar villagers"
+    focus: "Mustafa's enigmatic face with its mysterious smile, partially shadowed despite lamplight"
+    depth: "Village group in warm lamplight in foreground, Mustafa standing slightly apart in middle ground, dark village houses in background, no text or letters visible"

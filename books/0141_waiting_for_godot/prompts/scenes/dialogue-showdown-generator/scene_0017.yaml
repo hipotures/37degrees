@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Estragon's Sleep - Escape from Reality"
+  setting:
+    time: "Mid-20th century, evening"
+    location: "Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Man around 50-60 years old, shorter and stockier than his companion, with disheveled dirty hair. Face is more rounded, possibly swollen, bearing traces of beatings he mentions. Expression often apathetic or confused, occasionally animated by childish enthusiasm or anger. Eyes usually directed downward at his aching feet."
+      clothing: "Worn dark suit and bowler hat in much worse condition than Vladimir's - more torn and dirty. Struggles constantly with tight, painful boots that torment him."
+      position: "Often sitting on the low mound, hunched over. When standing, moves slowly and awkwardly, frequently limping"
+      action: "Wrestling with his boots in painful struggle, massaging his feet, holding his stomach, prone to sudden sleeping as escape from reality"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "Estragon has fallen asleep on the mound, curled up in fetal position as his ultimate escape from the harsh reality of their situation. The camera captures the peaceful expression on his face - the only time he appears free from pain and confusion. His sleep represents the only true refuge available in their world."
+    background: "The bare tree provides shelter and creates protective shadows around his sleeping form."
+    atmosphere: "A moment of peace and protection within the harsh emptiness, showing the restorative power of unconsciousness as escape from absurd existence."
+  composition:
+    cameraAngle: "Gentle close-up on sleeping figure"
+    focus: "Estragon's peaceful expression in sleep, free from suffering"
+    depth: "Foreground: Estragon's sleeping form; Middle ground: the protective mound; Background: tree providing shelter"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, evening
+    location: Multi-story residential building in European quarter of French colonial Algiers, Algeria
+    weather: Hot evening with lingering heat from day
+  characters:
+  - appearance: Short man around 30 years old, broad shoulders, boxer's broken nose, well-built muscular frame
+    clothing: Well-fitted, slightly flashy clothing such as double-breasted jacket, pressed trousers, polished shoes
+    position: Standing with confident, assertive posture, chest slightly puffed out
+    action: Making emphatic gestures with hands, speaking with animated expressions
+  scene:
+    mainElements: Narrow staircase with worn stone steps, Raymond speaking confidentially to Meursault, dim hallway lighting
+      creating intimate conspiratorial atmosphere
+    details: Raymond gesturing emphatically while explaining his plan, Meursault listening with neutral expression that Raymond
+      interprets as agreement, shadows from weak hallway bulb creating dramatic lighting. Worn wooden door frames and peeling
+      paint showing building's modest condition.
+    background: Narrow building hallway with other apartment doors, sounds of domestic life from neighboring units, cooking
+      smells and muffled conversations
+    atmosphere: Conspiratorial intimacy with Raymond feeling he's found perfect partner for his schemes, dim lighting creating
+      sense of secrecy and male bonding
+  composition:
+    cameraAngle: Medium shot from Raymond's perspective looking at Meursault as ideal listener
+    focus: Meursault's neutral face which Raymond reads as sympathetic understanding and masculine solidarity
+    depth: Foreground shows Raymond's gesticulating hands, middle ground shows Meursault's impassive response, background
+      shows dim hallway with other apartment doors, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

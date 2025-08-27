@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: Ancient Greece, temple interior or sacred precinct
+    location: Temple sanctuary where Orestes seeks refuge from supernatural pursuers
+    weather: Interior sacred space with flickering torchlight and supernatural shadows
+  characters:
+  - appearance: Young man aged 20-22 years sent into exile as child now returned as adult, slim but athletic and agile build,
+      lacks father's powerful frame, strength more in agility than mass, young body full of energy but posture hunched under
+      weight of divine mission, long dark hair cut with knife at father's tomb symbolizing entry into manhood and vengeance
+      duty, dark eyes full of youthful determination but also fear and inner conflict, often restless gaze as if seeking confirmation
+      of action's righteousness, face retains boyish features but marked by gravity and suffering, characteristic feature
+      is constant tension visible in posture and movements
+    clothing: In Libation Bearers disguised as Phocis traveler wearing simple short chiton leather sandals and traveler's
+      cloak chlamys pinned at shoulder, functional attire devoid of ornaments, in Eumenides as temple suppliant wears simple
+      perhaps torn and dirty robe while holding olive branch wrapped in wool symbol of asylum seeker
+    position: Small vulnerable figure at center of frame, surrounded by circling supernatural threats
+    action: Son bound by Apollo's divine command to avenge father's murder, tragically torn between sacred duty to father
+      and fundamental taboo against matricide, transforms from determined though hesitant avenger to tormented fugitive seeking
+      purification
+  - appearance: Ancient chthonic vengeance deities before transformation, appearance designed to inspire horror and disgust,
+      described by Pythia as black and hideous wingless beings that snore with disgusting discharge oozing from their eyes,
+      later tradition and art often show them as winged female-shaped demons with serpents woven into hair and blood-dripping
+      eyes, aged beyond measure representing primordial forces
+    clothing: Black tattered robes befitting underworld origins
+    position: Circling around central figure like predators stalking prey, shown from above emphasizing hunter-prey dynamic
+    action: Embodiment of old inexorable blood revenge law especially within family, their relentless pursuit of Orestes is
+      driving force of Eumenides and materialization of his tormenting guilt
+  scene:
+    mainElements: Temple sanctuary interior with sacred objects and altar, supernatural beings circling vulnerable suppliant,
+      shadows and torchlight creating menacing atmosphere
+    details: Olive branch and white wool in Orestes' hands marking him as sacred suppliant, temple altar and religious objects
+      providing sanctuary context, supernatural beings casting unnatural shadows, flickering torchlight creating constantly
+      shifting threats
+    background: Sacred temple interior with columns altars and religious architecture, supernatural darkness pressing in from
+      edges of light, divine protection symbols and sacred boundaries
+    atmosphere: Supernatural terror and divine judgment, vulnerable humanity facing primordial forces of vengeance, sacred
+      sanctuary providing only temporary protection from supernatural justice, hunter-prey dynamic with cosmic stakes
+  composition:
+    cameraAngle: High angle making subject appear vulnerable and small while emphasizing threatening circle
+    focus: Vulnerable central figure surrounded by circling supernatural threats creating predator-prey dynamic
+    depth: Foreground shows temple floor and sacred objects, middle ground captures vulnerable suppliant at center, background
+      reveals circling threats and supernatural shadows, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1660s France, afternoon
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: partly cloudy afternoon with shifting light and shadows
+  characters:
+  - appearance: impetuous young man aged twenty, athletic build, angular face with strong jaw, thick dark hair under fashionable
+      shorter periwig, eyes that flash with anger or indignation
+    clothing: fashionable burgundy velvet justaucorps worn with youthful casualness, white linen shirt partially unlaced,
+      buff-colored leather sword belt with ornate rapier, riding boots instead of court shoes
+    position: concealed behind partially opened door or heavy curtain, body tense with barely contained rage
+    action: gripping door frame or curtain with white knuckles while listening to Tartuffe's advances on his stepmother, jaw
+      clenched with murderous fury
+  - appearance: man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair
+      under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire
+    clothing: plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather
+      shoes, large wooden rosary beads hanging from belt, carries small prayer book
+    position: seated very close to Elmire, leaning forward with increasing boldness
+    action: reaching toward her dress fabric, speaking in low urgent tones while completely unaware of hidden observer
+  - appearance: elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive
+      dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments
+    clothing: fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with
+      silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan
+    position: seated on sofa trying to maintain distance while appearing receptive to his spiritual counsel
+    action: moving fan nervously while attempting to redirect his inappropriate advances back to religious matters
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, heavy
+      curtains and doorways providing concealment opportunities
+    details: shifting afternoon light creating dramatic shadows perfect for concealment, expensive furniture arranged to allow
+      both intimate conversation and hidden observation, religious symbols ironically witnessing moral corruption
+    background: multiple doorways and alcoves suggesting various hiding places, family portraits seeming to watch the unfolding
+      deception with ancestral disapproval
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, electric tension as secret witness observes predator
+      stalking prey
+  composition:
+    cameraAngle: complex composition showing both the seduction scene and hidden observer
+    focus: Damis's horrified reaction to Tartuffe's betrayal of trust while predator remains unaware of witness to his crimes
+    depth: foreground showing Tartuffe's assault on virtue, middle ground revealing luxury setting, background dominated by
+      concealed observer gathering evidence
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

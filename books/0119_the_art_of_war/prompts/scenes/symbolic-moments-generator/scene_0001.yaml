@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Bamboo Scroll's Silent Wisdom"
+  setting:
+    time: "506 BCE, morning light filtering through palace windows"
+    location: "Private study chamber within Wu royal palace complex, ancient Chinese Zhou dynasty architecture"
+    weather: "Clear morning with gentle breeze stirring silk curtains"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Seated cross-legged on reed mat, hunched over writing materials on low wooden table"
+      action: "Carefully inscribing characters with brush on bamboo strips, periodically pausing to contemplate"
+  scene:
+    mainElements: "Simple bamboo scroll lies partially unrolled on polished wooden writing desk, black ink still wet on the strips, creating shadows that form patterns resembling military formations, sunbeam illuminates the fresh characters"
+    details: "Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case positioned nearby. Ink stone with grinding stick beside ceramic water vessel, white crane feather quill resting on inkstone edge, small bronze weight holding down corner of bamboo strips"
+    background: "Wooden shelving containing other scrolls and military texts, bronze vessels on stands, silk tapestry depicting mountain landscape hanging on far wall"
+    atmosphere: "Contemplative silence broken only by soft scratch of brush on bamboo, morning light creating long shadows across floor, scent of fresh ink and sandalwood incense, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Low angle looking up at the writing process, emphasizing the sacred nature of knowledge creation"
+    focus: "Bamboo scroll with fresh wet ink characters catching the morning light, brush suspended above next character"
+    depth: "Foreground shows detailed bamboo strips and ink, middle ground shows writer's concentrated face, background reveals shelved scrolls suggesting vast accumulated wisdom"

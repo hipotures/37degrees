@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Time-Lapse of True Prison Experience"
+  setting:
+    time: "1940-1941, multiple time periods"
+    location: "Small stone cell in French colonial prison facility in Algiers"
+    weather: "Seasonal changes visible through small window over months"
+  characters:
+    - appearance: "Young man aged 25-30 years, European features, average build, distant expression in eyes"
+      clothing: "Simple prison clothing, gradually becoming more worn over time"
+      position: "Various positions on stone cot showing adaptation to confinement"
+      action: "Daily routine activities showing actual psychological adaptation to imprisonment"
+  scene:
+    mainElements: "Documentation of actual psychological changes over months in prison, showing real adaptation rather than dramatic crisis or revelation"
+    details: "Physical changes in prisoner's posture and routine over time, gradual adaptation to small space, development of new daily habits, actual effects of confinement on human behavior. Season changes visible through window showing passage of real time."
+    background: "Same cell viewed across multiple time periods, showing seasonal light changes, gradual wear on prison furnishings, accumulated evidence of long habitation"
+    atmosphere: "Actual human adaptation to confinement over time rather than dramatic emotional journey, showing realistic psychological adjustment to institutional life"
+  composition:
+    cameraAngle: "Fixed position showing cell across multiple time periods with changing seasons"
+    focus: "Gradual changes in prisoner's behavior and cell environment over extended time"
+    depth: "Foreground shows accumulated personal adaptations to space, middle ground shows prisoner's evolving routine, background shows seasonal changes through window, no text or letters visible"

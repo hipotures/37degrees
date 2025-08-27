@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Indoctrination Chamber - Mass Ideology Absorption"
+  setting:
+    time: "1760s, morning"
+    location: "Grand lecture hall in Paris where citizens receive mandatory political education in royal ideology"
+    weather: "Controlled interior lighting designed to focus attention on indoctrination process"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Seated in amphitheater-style rows facing elevated platform where official doctrine is delivered"
+      action: "Absorbing official ideology through repetitive exposure, taking notes on approved thoughts, demonstrating visible acceptance of state propaganda"
+  scene:
+    mainElements: "Massive portrait of king overlooking assembly, speaker at podium delivering official doctrine, citizens mechanically recording approved information"
+    details: "Speaker uses dramatic gestures and hypnotic rhetoric to implant state ideology. Citizens show glazed expressions of mental submission. Official texts are distributed containing only approved thoughts. No questions or discussion permitted"
+    background: "Government symbols and royal emblems dominating visual space, guards ensuring complete attention to indoctrination process"
+    atmosphere: "Systematic manipulation of human consciousness through repeated exposure to state ideology, critical thinking eliminated through propaganda, minds shaped to serve power"
+  composition:
+    cameraAngle: "Wide shot showing mass of citizens receiving ideological programming"
+    focus: "Elevated speaker delivering official doctrine to absorbed audience below"
+    depth: "Foreground shows details of propaganda materials, middle ground displays mass indoctrination process, background reveals state symbols and control mechanisms"

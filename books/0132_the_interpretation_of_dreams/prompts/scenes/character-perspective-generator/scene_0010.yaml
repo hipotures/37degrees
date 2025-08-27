@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conservative Medicine's Self-Righteous View"
+  setting:
+    time: "1899 afternoon during medical establishment meeting"
+    location: "Prestigious Viennese medical institution interior with portraits of distinguished physicians"
+    weather: "Bright clear day symbolizing clarity of proper medical thinking"
+  characters:
+    - appearance: "Distinguished elderly medical professors and established physicians"
+      clothing: "Formal dark suits with ceremonial academic regalia, medals and honors displayed"
+      position: "Seated in positions of authority around conference table"
+      action: "Conducting serious discussion about maintaining medical standards and protecting patients"
+  scene:
+    mainElements: "Medical establishment viewing itself as heroic guardians of scientific rigor and patient welfare against dangerous psychological speculation that threatens medical profession's integrity"
+    details: "Formal conference room with portraits of distinguished medical pioneers, heavy wooden furniture, medical texts and journals, certificates and diplomas covering walls. The assembled physicians appear noble and responsible, bearers of centuries of medical wisdom. Their discussion focuses on protecting patients from unproven treatments and maintaining medicine's reputation as rigorous science rather than mystical speculation."
+    background: "Atmosphere of institutional gravitas with symbols of medical achievement and scientific progress displayed prominently"
+    atmosphere: "Noble sense of duty to preserve medical ethics and scientific standards, established medicine seeing itself as bastion of reason against dangerous innovation, responsibility to protect vulnerable patients from experimental psychological theories, no text or letters visible"
+  composition:
+    cameraAngle: "Heroic angle emphasizing dignity and authority of established medical leadership"
+    focus: "Group of distinguished physicians as protectors of medical science and patient welfare"
+    depth: "Foreground: symbols of medical authority and scientific achievement, Middle: responsible physicians in serious consultation, Background: portraits of medical pioneers who built profession's reputation"

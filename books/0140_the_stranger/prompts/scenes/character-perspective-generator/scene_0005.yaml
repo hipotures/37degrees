@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Meursault's Reflection in Apartment Window"
+  setting:
+    time: "1940, evening"
+    location: "Multi-story residential building in European quarter of French colonial Algiers, Algeria"
+    weather: "Warm evening with fading sunlight"
+  characters:
+    - appearance: "Young man aged 25-30 years, European features, average build, distant expression in eyes"
+      clothing: "Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions"
+      position: "Standing with shoulders slightly slouched, hands often in pockets or holding cigarette"
+      action: "Moving with deliberate, economical gestures, frequently squinting against bright sunlight"
+  scene:
+    mainElements: "Small balcony overlooking busy Algiers street, apartment window reflecting Meursault's image, evening light creating shadows and reflections"
+    details: "Window glass showing Meursault's face with neutral expression, cigarette smoke drifting up, reflection slightly distorted by window imperfections, balcony railing casting geometric shadows. Street sounds rising from below - tramways, conversations, evening activities."
+    background: "Busy European quarter street with colonial architecture, other apartment buildings with lit windows, people walking on sidewalks, occasional motor vehicle"
+    atmosphere: "Quiet moment of self-observation without self-judgment, evening light creating contemplative mood, urban life continuing below while individual remains detached observer"
+  composition:
+    cameraAngle: "Close-up view from Meursault's perspective looking at his own reflection"
+    focus: "Meursault's face reflected in window glass, showing neutral expression and distant eyes"
+    depth: "Foreground shows window surface with reflection, middle ground shows balcony elements, background shows evening street scene through glass, no text or letters visible"

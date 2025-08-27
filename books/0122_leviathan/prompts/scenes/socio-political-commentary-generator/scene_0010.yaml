@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Erased Knowledge - Empty Library Shelves"
+  setting:
+    time: "1651, late afternoon with dust-filled light"
+    location: "University or public library in London with evidence of recent censorship"
+    weather: "Overcast day with filtered interior light"
+  characters:
+    - appearance: "Man around 60 years old, 175cm tall, gaunt build, face twisted with fanatic passion or shrouded in conspiratorial cunning"
+      clothing: "Rich Catholic vestments, academic scholar robes, or austere Puritan black - representing authority separate from Sovereign"
+      position: "Standing in defiant pose or lurking in shadows, representing challenge to unified authority"
+      action: "Holding religious text or philosophical manuscript, preaching or whispering seditious doctrines"
+  scene:
+    mainElements: "Library with conspicuously empty shelves where books have been removed, remaining volumes bearing official state approval seals, scholars huddled over permitted texts, evidence of recent censorship activity"
+    details: "Dust outlines on shelves showing where forbidden books once stood, remaining books all bearing identical state approval stamps, scholars working only with officially sanctioned materials. Large parchment scrolls with regulations posted on walls. Heavy solid crown symbols on all official documents and seals."
+    background: "Gothic library interior with high arched windows, reading desks arranged in monitored formation, official guards present but discrete"
+    atmosphere: "Intellectual oppression masked as order, hushed tones of controlled scholarly activity, underlying fear about forbidden knowledge"
+  composition:
+    cameraAngle: "Wide shot showing the systematic emptiness of once-full shelves"
+    focus: "The visible evidence of intellectual censorship and control of knowledge"
+    depth: "Foreground shows scholars with limited materials, middle displays empty shelves, background reveals supervisory presence"

@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Banished Son - The Family Fractured"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "dark evening with dramatic shadows from candlelight"
+  characters:
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "standing rigidly erect pointing toward main doorway with theatrical authority"
+      action: "denouncing his own son as ungrateful villain while ordering him from house forever, face red with righteous indignation"
+    - appearance: "impetuous young man aged twenty, athletic build, angular face with strong jaw, thick dark hair under fashionable shorter periwig, eyes that flash with anger or indignation"
+      clothing: "fashionable burgundy velvet justaucorps worn with youthful casualness, white linen shirt partially unlaced, buff-colored leather sword belt with ornate rapier, riding boots instead of court shoes"
+      position: "backing toward doorway with expression of shock and betrayal"
+      action: "staring at father with mixture of hurt and rage, hand on sword but knowing he cannot draw it against his own parent"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "standing between father and son trying to mediate the terrible scene"
+      action: "reaching toward both men with imploring gestures, torn between loyalty to stepson who defended her and husband who refuses reason"
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "standing to one side with head piously bowed but eyes gleaming with satisfaction"
+      action: "maintaining pose of humble sorrow while secretly celebrating complete victory over household"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, doorway dramatically lit by candles showing path of exile"
+    details: "flickering candlelight creating theatrical atmosphere for family destruction, shadows dancing on walls like demons celebrating triumph of evil, expensive furniture witnessing dissolution of family bonds"
+    background: "doorway leading to dark night where son must now go, family portraits of ancestors watching their bloodline torn apart by fanaticism"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, heartbreaking tragedy of father choosing false saint over own flesh and blood"
+  composition:
+    cameraAngle: "dramatic wide shot emphasizing the finality of banishment and family division"
+    focus: "doorway as symbol of irreversible separation, with father's pointing finger sealing son's fate while Tartuffe savors victory"
+    depth: "foreground showing family torn apart, middle ground revealing household conquered by deception, background suggesting dark future for banished heir"

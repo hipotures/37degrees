@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Symbol - Broken Chains Becoming Golden Bonds"
+  setting:
+    time: "Timeless moment of transformation"
+    location: "Allegorical space where the fundamental truth of legitimate political authority is revealed"
+    weather: "Dramatic contrast between darkness of tyranny and light of legitimate consent"
+  characters:
+    - appearance: "Eternal, timeless being manifesting as colossal luminous figure composed of thousands of semi-transparent citizen silhouettes in constant harmonious motion within. Alternative appearance: majestic androgynous figure in neoclassical style reminiscent of Roman goddess Roma or Athena, with serene face expressing calm strength and impartial justice"
+      clothing: "Simple white heavy toga or peplos in Greco-Roman style, draped in classical folds. No crown as symbol of monarchical power. Garment emphasizes dignity and republican virtue over royal luxury"
+      position: "Standing at center of transformation between tyranny and legitimate authority"
+      action: "Transforming iron chains of oppression into golden bonds of voluntary association, demonstrating difference between force and legitimate consent"
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Arranged in perfect circle around Sovereign, participating voluntarily in social contract"
+      action: "Willingly accepting golden bonds of law they themselves have created through general will, demonstrating transformation from subjects to citizens"
+  scene:
+    mainElements: "Iron chains of tyranny dissolving into golden bonds of voluntary association, social contract document glowing with inner light, scales of justice perfectly balanced"
+    details: "Heavy iron fetters representing illegitimate force crumble and transform into flowing golden cords representing laws created by general will. Citizens reach out willingly to accept these bonds because they represent their own collective decision"
+    background: "Darkness of tyranny giving way to light of legitimate authority, architectural transformation from prison to forum of free assembly"
+    atmosphere: "Revelation of fundamental truth about legitimate political authority, transformation from oppression to freedom through voluntary association, hope for escape from chains of illegitimate power"
+  composition:
+    cameraAngle: "Dramatic low angle emphasizing transformation and triumph of legitimate authority"
+    focus: "Moment of transformation as iron chains become golden bonds while Sovereign facilitates voluntary association"
+    depth: "Foreground shows detailed transformation of chains to bonds, middle ground displays participating citizens, background reveals architectural change from prison to forum"

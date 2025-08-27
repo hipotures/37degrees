@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1840s Missouri, late evening
+    location: Huck's bedroom at Widow Douglas's house, St. Petersburg, Missouri
+    weather: Dark night with no moonlight
+  characters:
+  - appearance: Around 50 years old, gaunt but wiry man. Stooped posture from hard living. Long, greasy black hair and beard
+      partially concealing face. Corpse-like pale skin with unhealthy 'fish-belly' whiteness. Bloodshot eyes peering from
+      behind tangled hair.
+    clothing: Filthy rags and tatters. Disintegrating boots with toes showing through. Old, dented black hat. All clothing
+      dirty and falling apart.
+    position: Sitting in chair beside bed, having been waiting in darkness
+    action: Leaning forward menacingly when Huck enters room, eyes gleaming with drunken anger and resentment
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+      Freckled face with boyish but wary expression.
+    clothing: Stiff new clothes that don't fit properly. Clean white shirt, dark pants with suspenders, uncomfortable shoes
+      on feet instead of usual bare feet.
+    position: Standing frozen in doorway, hand still on door handle
+    action: Recoiling in shock and fear at sight of father's sudden appearance
+  scene:
+    mainElements: Modest bedroom suddenly made threatening by Pap's presence, single oil lamp casting eerie shadows, furniture
+      seeming to shrink around menacing figure
+    details: Overturned chair where Pap has been waiting, smell of stale whiskey and unwashed body filling air, Huck's school
+      books scattered on floor, broken window latch
+    background: Open window showing escape route to outside world, religious pictures on wall looking down disapprovingly
+    atmosphere: Terror and revulsion, civilized order shattered by brutal intrusion, past violence returning to claim innocent
+      present, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from behind Huck in doorway, showing his perspective of threatening father
+    focus: Contrast between Pap's menacing presence and Huck's vulnerable shock
+    depth: Huck in foreground at doorway, Pap looming in middle of room, window escape route in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

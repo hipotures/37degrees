@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, evening
+    location: Public square during colonial celebration, organized gathering of citizens
+    weather: Evening light with artificial illumination
+  characters:
+  - appearance: Multiple identical figures representing assimilated colonial subjects, same height, same posture, same expressions
+    clothing: Identical European-style clothing, standardized colonial subject dress, uniform colors and cuts
+    position: Standing in perfect grid formation
+    action: Applauding in unison, turning heads simultaneously, displaying synchronized enthusiasm for colonial celebration
+  scene:
+    mainElements: Crowd of people dressed identically, moving in perfect synchronization, individuality completely suppressed
+      by colonial conformity
+    details: Hundreds of figures in identical dress, same facial expressions of forced enthusiasm, synchronized clapping rhythm,
+      uniform head movements following official speeches, identical posture and gestures, no variation in individual expression,
+      colonial officials reviewing mass conformity with satisfaction
+    background: Colonial architecture creating ordered backdrop for mass uniformity, French flags and colonial symbols reinforcing
+      message
+    atmosphere: Complete loss of individual identity, humanity reduced to interchangeable units in colonial system
+  composition:
+    cameraAngle: Wide shot emphasizing scale of uniformity across entire crowd
+    focus: Repetitive human patterns showing loss of individuality
+    depth: Uniform crowd filling entire frame, colonial symbols creating authoritative background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

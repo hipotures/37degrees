@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1939 Prague, one second before execution expanded to contain one full year
+    location: Suspended moment between life and death in Nazi courtyard
+    weather: Single raindrop frozen in air like crystal sculpture
+  characters:
+  - appearance: Jewish intellectual in his 40s, medium build with scholarly bearing, wearing simple prison garments, face
+      showing mixture of fear and intellectual concentration
+    clothing: Plain gray prison uniform, worn leather shoes, no personal effects or jewelry
+    position: Standing before firing squad but existing in expanded time of divine grace
+    action: Completing entire verse drama in his mind while physical time remains frozen
+  scene:
+    mainElements: Invisible masterpiece takes shape in frozen air around condemned man, complete verse drama existing only
+      in suspended moment between heartbeats, artistic creation achieving permanence through divine intervention rather than
+      physical preservation
+    details: Unwritten play transforms from incomplete manuscript into eternal masterpiece, drama completed in mind becomes
+      more real than physical books that can burn. Every character, every line, every stage direction perfected in expanded
+      second of grace. Artistic completion achieved through miraculous time-gift
+    background: Nazi courtyard frozen in perfect stillness, rifles aimed but not yet fired, raindrops suspended like diamonds,
+      cobblestones wet with impossible tears that haven't fallen
+    atmosphere: Sacred suspension of natural law allowing artistic completion, divine mercy manifested through gift of time,
+      profound silence of world holding breath for art, miracle hidden within moment of tragedy, no text or letters visible
+  composition:
+    cameraAngle: Close-up on prisoner's face showing intense creative concentration
+    focus: The invisible completion of masterpiece existing only in expanded consciousness
+    depth: Concentrated face in foreground, suspended raindrops in middle distance, frozen execution scene creating dramatic
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, magical golden hour in enchanted forest
+    location: Deep forest clearing where golden deer appears, surrounded by ancient trees and dappled sunlight, moment of
+      supernatural temptation
+    weather: Perfect lighting with sunbeams creating magical atmosphere through forest canopy
+  characters:
+  - appearance: Golden magical deer with lustrous fur like pure gold, silver spots decorating its hide, jeweled horns and
+      hooves that glitter in sunlight, supernatural beauty designed to enchant
+    clothing: Natural creature with jeweled decorations on horns and hooves
+    position: Center of vision moving gracefully through forest clearing
+    action: Dancing and leaping with supernatural grace to captivate observer
+  scene:
+    mainElements: POV shot seeing exactly what Sita sees - magical golden deer in forest clearing with hands partially visible
+      at frame bottom reaching toward the enchanting creature. Supernatural beauty of demonic illusion designed to captivate
+      through impossible perfection
+    details: Hands visible at bottom of frame showing feminine fingers reaching toward deer in gesture of wonder and desire,
+      golden deer's jeweled form creating prismatic light effects, forest clearing transformed into magical space by creature's
+      presence, sunbeams highlighting supernatural aspects
+    background: Enchanted forest setting with sun rays streaming through canopy, ancient trees seeming to lean in watching
+      the supernatural encounter, peaceful hermitage visible in distance
+    atmosphere: Magical enchantment mixed with underlying danger, golden light creating dreamy atmosphere, sense of being
+      drawn into beautiful trap, wonder and desire overriding caution
+  composition:
+    cameraAngle: First-person POV shot from Sita's exact viewing position
+    focus: Golden deer in sharp focus as object of fascination, hands at frame edge slightly soft
+    depth: Hands in immediate foreground, golden deer in middle ground sharp focus, enchanted forest background, no text or
+      letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

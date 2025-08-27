@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Victory and Defeat Perspectives"
+  setting:
+    time: "1960s, time of judgment and reflection"
+    location: "Village spaces showing same events interpreted differently by different groups"
+    weather: "Harsh sunlight creating sharp contrasts and clear divisions"
+  characters:
+    - appearance: "Traditional male authorities showing satisfaction at social order maintained"
+      clothing: "Formal traditional garments emphasizing their authority and righteousness"
+      position: "Standing in positions of command and social control"
+      action: "Discussing successful preservation of traditional values and social stability"
+    - appearance: "Women and younger villagers showing conflicted or suppressed reactions"
+      clothing: "Traditional garments worn with subdued demeanor"
+      position: "Positioned respectfully but showing signs of internal disagreement"
+      action: "Maintaining public compliance while privately questioning justice of outcome"
+  scene:
+    mainElements: "Same village spaces simultaneously representing victory for traditional authority and defeat for individual rights, depending on perspective"
+    details: "Community divided by invisible lines of interpretation - traditionalists seeing successful protection of social order and proper punishment of rebellion, while others see tragic failure to protect vulnerable community member. Same physical spaces, same events, but completely different meanings: marriage arrangement seen as proper family responsibility versus forced subjugation, violent resistance seen as unforgivable crime versus desperate self-defense, community response seen as moral clarity versus cruel blindness, no text or letters visible"
+    background: "Village structures remaining physically unchanged while serving as backdrop for fundamentally different moral universes"
+    atmosphere: "Community existing in multiple realities simultaneously - official narrative of traditional justice maintained alongside suppressed narrative of individual tragedy, social order preserved at cost of individual dignity and life"
+  composition:
+    cameraAngle: "Split or contrasting angles showing same events from different moral perspectives"
+    focus: "Different faces and postures revealing completely different interpretations of same events"
+    depth: "Authority figures confident in foreground, conflicted community members in middle ground, unchanged village setting in background, no text or letters visible"

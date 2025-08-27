@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Establishing Shot - Descent to Piraeus Port"
+  setting:
+    time: "375 BCE, late afternoon"
+    location: "bustling port city 7 kilometers southwest of Athens, primary harbor of Athenian empire"
+    weather: "clear Mediterranean afternoon with sea breeze"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "walking downhill path approaching port district"
+      action: "striding purposefully toward harbor with young companion, gesturing as they discuss the festival"
+    - appearance: "handsome aristocratic young man, athletic build from military service, intelligent eyes"
+      clothing: "refined himation and chiton indicating high social status, polished bronze accessories"
+      position: "walking alongside Socrates down sloping street"
+      action: "listening attentively while observing bustling port activity around them"
+  scene:
+    mainElements: "stone fortifications and Long Walls connecting to Athens, three natural harbors with warships and merchant vessels, crowded marketplaces with goods from across Mediterranean"
+    details: "Trireme warships moored in protected naval yards, merchant vessels from across known world unloading exotic goods, mix of languages and cultures creating cosmopolitan atmosphere, workshops and warehouses lining harbor streets, smell of salt water and pine tar from shipbuilding"
+    background: "white limestone buildings ascending hills above port, Saronic Gulf stretching to horizon, smoke from forges and cooking fires"
+    atmosphere: "cosmopolitan energy with mix of languages and cultures, smell of salt water and pine tar, sounds of commerce and shipbuilding"
+  composition:
+    cameraAngle: "wide establishing shot from elevated position looking down at port"
+    focus: "two philosophers descending toward harbor district where conflict will unfold"
+    depth: "philosophers in foreground, bustling port in middle ground, ships and sea in background"

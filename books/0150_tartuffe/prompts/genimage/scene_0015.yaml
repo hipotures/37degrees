@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 1660s France, evening
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: somber evening with soft candlelight casting gentle shadows
+  characters:
+  - appearance: delicate young woman aged eighteen, petite slender build, heart-shaped face with large innocent eyes, pale
+      complexion, blonde hair arranged in simple girlish curls with blue silk ribbons
+    clothing: modest but fine pale blue silk dress with higher neckline, white lace collar and cuffs, simple silver cross
+      on ribbon, soft leather shoes, carries small embroidered handkerchief
+    position: kneeling at father's feet with hands clasped in supplication, tears streaming down face
+    action: begging father to reconsider forced marriage, voice breaking with emotion as she offers to enter convent rather
+      than marry Tartuffe
+  - appearance: wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular
+      face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing
+    clothing: expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath,
+      white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles
+    position: standing stiffly over kneeling daughter, fighting internal battle between paternal love and fanatic conviction
+    action: looking down at weeping child with momentary flicker of doubt before steeling himself and turning away from her
+      tears
+  - appearance: elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive
+      dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments
+    clothing: fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with
+      silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan
+    position: standing nearby with tears in own eyes, torn between intervention and knowledge it will worsen situation
+    action: twisting handkerchief in hands while watching husband destroy daughter's happiness, face showing anguish at her
+      own helplessness
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, Persian
+      carpet beneath providing soft surface for daughter's anguished kneeling
+    details: gentle candlelight illuminating tear-stained face of innocent girl, religious artifacts on walls seeming to mock
+      sacred bonds of family love, expensive furnishings witnessing destruction of natural affection
+    background: portraits of family ancestors who arranged loving marriages for their children, doorways through which happier
+      wedding preparations should be happening
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, heartbreaking scene of paternal tyranny crushing innocent
+      love
+  composition:
+    cameraAngle: low angle emphasizing Mariane's vulnerability and desperation while showing father's inflexible authority
+    focus: contrast between daughter's natural anguish and father's unnatural hardness, with stepmother's powerless compassion
+    depth: foreground showing innocent suffering, middle ground revealing luxury household turned prison, background suggesting
+      marriage altar transformed into sacrificial altar
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Mid-20th century, evening
+    location: Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions.
+      Road surface of packed, dusty earth shows no signs of recent travel.
+    weather: Cool evening air with fading daylight
+  characters:
+  - appearance: Man around 50-60 years old, shorter and stockier than his companion, with disheveled dirty hair. Face is more
+      rounded, possibly swollen, bearing traces of beatings he mentions. Expression often apathetic or confused, occasionally
+      animated by childish enthusiasm or anger. Eyes usually directed downward at his aching feet.
+    clothing: Worn dark suit and bowler hat in much worse condition than Vladimir's - more torn and dirty. Struggles constantly
+      with tight, painful boots that torment him.
+    position: Often sitting on the low mound, hunched over. When standing, moves slowly and awkwardly, frequently limping
+    action: Wrestling with his boots in painful struggle, massaging his feet, holding his stomach, prone to sudden sleeping
+      as escape from reality
+  scene:
+    mainElements: Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried
+      nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other
+      feature breaking the horizontal emptiness.
+    details: Extreme close-up on Estragon's eyes as his usual apathy momentarily gives way to genuine terror - the fear of
+      being alone, of Vladimir actually leaving him. For a brief moment, his defensive amnesia cracks and raw vulnerability
+      shows through. The camera captures this fleeting moment of honest emotion.
+    background: Blurred emptiness behind him emphasizes the isolation he fears.
+    atmosphere: Atmosphere saturated with silence, stagnation, and sense of vastness. Cold and exposure to elements pervades
+      despite undefined weather. Overwhelming presence of emptiness and absence fills the space.
+  composition:
+    cameraAngle: Extreme close-up on eyes
+    focus: The moment of genuine fear breaking through Estragon's apathy
+    depth: 'Foreground: Estragon''s fearful eyes in sharp focus; Background: blurred emptiness'
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

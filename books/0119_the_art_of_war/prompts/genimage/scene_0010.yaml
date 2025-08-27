@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, noon with sun directly overhead
+    location: Riverside meditation spot away from main army camp, private moment before major battle
+    weather: Clear day with strong midday sun creating sharp shadows
+  characters:
+  - appearance: Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat
+      training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache
+    clothing: Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves
+      with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist
+    position: Kneeling beside still water, holding sword blade angled to catch light
+    action: Examining sword's reflection while contemplating multiple perspectives on coming conflict
+  scene:
+    mainElements: Bronze ritual sword held at different angles shows varying reflections - sky, earth, water, enemy territory
+      - each angle revealing different truth about the same weapon and situation
+    details: 'Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk
+      cord, bronze crossguard with geometric designs, worn as symbol of military authority reflects different images depending
+      on angle: when horizontal shows sky clouds, when vertical shows earth below, when angled toward river shows flowing
+      water, when pointed toward enemy territory shows distant Chu positions. Blade surface polished mirror-bright reveals
+      these shifting perspectives'
+    background: Broad river with muddy brown water reflecting sky, marshy banks with tall reeds, wooden posts marking shallow
+      fording points, military supply wagons and equipment on riverbank distant but visible
+    atmosphere: Contemplative moment before decisive action, multiple truths existing simultaneously, sound of gently flowing
+      river water, warm sun on shoulders, philosophical understanding through visual metaphor, no text or letters visible
+      to viewer
+  composition:
+    cameraAngle: Close perspective showing sword blade capturing multiple simultaneous reflections
+    focus: Bronze sword surface acting as mirror revealing different aspects of reality depending on viewing angle
+    depth: Foreground emphasizes sword reflection details, middle ground shows contemplating king, background provides context
+      of river crossing and approaching conflict
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

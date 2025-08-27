@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Brutal World as Stage for Fanaticism"
+  setting:
+    time: "1572, during religious wars, day of violence"
+    location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+    weather: "Harsh overcast sky suggesting impending storm"
+  characters:
+    - appearance: "Various French civilians in 16th century dress, faces twisted by religious fanaticism and fear"
+      clothing: "Mixed Catholic and Protestant identifiers, torn and bloodstained garments from conflict"
+      position: "Scattered throughout scene in various poses of violence and flight"
+      action: "Armed patrols marching, crowds gathered around execution sites, people fleeing in terror"
+  scene:
+    mainElements: "Beautiful landscape shadowed by violence and fanaticism, peaceful nature contrasting with human brutality. Forest paths suitable for horseback riding, stone bridges over streams, medieval villages with armed patrols, evidence of warfare and religious persecution"
+    details: "Dark smoke rises from burned buildings, armed soldiers patrol with weapons drawn, makeshift gallows or stakes visible in village square, religious banners flutter torn and stained, abandoned cart with scattered belongings shows hasty flight, pools of blood darken cobblestones, faces show expressions of hatred and fear, natural beauty of countryside scarred by human cruelty, no text or letters visible"
+    background: "French countryside's inherent beauty - rolling hills, ancient forests, stone architecture - all violated by evidence of religious warfare"
+    atmosphere: "Oppressive weight of fanaticism crushing human decency, beautiful natural world corrupted by ideological hatred, sense of civilization destroying itself through absolute certainty"
+  composition:
+    cameraAngle: "Wide establishing shot showing scope of violence across peaceful landscape"
+    focus: "Contrast between natural beauty and human-created destruction, emphasizing the tragedy of religious wars"
+    depth: "Foreground shows immediate violence, middle ground captures fleeing figures, background reveals beautiful but scarred countryside, no text or letters visible"

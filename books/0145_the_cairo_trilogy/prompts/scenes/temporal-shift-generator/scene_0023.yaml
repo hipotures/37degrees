@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Political demonstrations - historical repetition in same Cairo square"
+  setting:
+    time: "Multiple protest periods: 1919 anti-British, 1935 anti-monarchy, 1940s wartime resistance"
+    location: "Public square in historic Cairo near Al-Jamaliyya district during different political uprisings"
+    weather: "Bright political demonstration weather across all periods"
+  characters:
+    - appearance: "Different generations of Egyptian protesters spanning 25 years"
+      clothing: "Period-appropriate protest attire evolving across decades"
+      position: "Crowd formations similar across different political movements"
+      action: "Identical patterns of political demonstration despite different historical causes"
+  scene:
+    mainElements: "Same public square hosting different political movements across decades, showing cyclical nature of Egyptian political resistance"
+    details: "Protest elements repeated: Similar crowd formations and protest tactics, flags and banners (without readable text) using same colors and symbols for different causes. 1919: Anti-British independence demonstrations, 1935: Anti-monarchy republican movements, 1940s: Anti-occupation wartime resistance. Same architectural backdrop witnessing multiple generations of political passion. Protest energy and crowd dynamics remarkably similar despite different specific causes, no text or letters visible"
+    background: "Historic Cairo architecture including mosque minarets and traditional buildings providing unchanging witness to repeating political cycles"
+    atmosphere: "Cyclical nature of political resistance, temporal pattern showing how different generations repeat same struggle forms, architectural permanence contrasting with recurring human political passion"
+  composition:
+    cameraAngle: "Elevated view showing crowd patterns repeated across different political periods"
+    focus: "Central square space hosting cyclical political movements with different specific goals but similar energy"
+    depth: "Foreground: different period protest materials and symbols, middle ground: repeating crowd formation patterns, background: unchanging architectural witnesses to political cycles"

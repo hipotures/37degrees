@@ -1,0 +1,137 @@
+canon:
+  characters:
+    - id: "clarissa_dalloway"
+      name: "Clarissa Dalloway"
+      description_block: |
+        characters:
+          - appearance: "52-year-old woman, slender and filigranous build with delicate frame, sharp aristocratic facial features with prominent hooked nose like bird's beak, very white hair from illness, small face with bright intelligent eyes, moves with natural grace and elegance"
+            clothing: "Simple elegant day dress in light color, cloche hat and gloves for morning walk, evening dress in shimmering green silk in mermaid style for party, well-dressed but not ostentatious according to modest spending habits"
+            posture: "Erect dignified bearing, precise and decisive movements"
+
+    - id: "septimus_warren_smith"
+      name: "Septimus Warren Smith"
+      description_block: |
+        characters:
+          - appearance: "30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame"
+            clothing: "Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male characters, clothing reflecting his psychological isolation"
+            posture: "Nervous unpredictable movements, can freeze motionless in terror or suddenly speak to invisible figures"
+
+    - id: "peter_walsh"
+      name: "Peter Walsh"
+      description_block: |
+        characters:
+          - appearance: "53-year-old man, slightly asymmetrical face that is thinner and more weathered than in youth, restless energy despite age, well-dressed but less formal than establishment figures"
+            clothing: "Plaid suit with soft collar suggesting colonial informality, less rigid than London conventions"
+            posture: "Nervous habit of playing with penknife, constantly opening and closing it"
+
+    - id: "richard_dalloway"
+      name: "Richard Dalloway"
+      description_block: |
+        characters:
+          - appearance: "55-year-old Member of Parliament, solid dependable build, fair hair and blue eyes, distinguished bearing of British establishment, somewhat stiff formal posture"
+            clothing: "Conservative three-piece suit in dark wool, possibly with stiff detachable collar, impeccable tailoring befitting his political position"
+            posture: "Formal measured movements reflecting his role as pillar of tradition"
+
+    - id: "sally_seton_young"
+      name: "Sally Seton (Young)"
+      description_block: |
+        characters:
+          - appearance: "Young woman in early twenties, striking rebellious beauty, unconventional attractive features suggesting freedom from social constraints"
+            clothing: "Simple loose-fitting clothes reflecting her bohemian nature, often smoking cigars in defiance of convention"
+            posture: "Bold confident movements, habit of cutting off flower heads in gardens"
+
+    - id: "elizabeth_dalloway"
+      name: "Elizabeth Dalloway"
+      description_block: |
+        characters:
+          - appearance: "17-year-old girl with quiet dark oriental beauty contrasting with her fair-haired parents, pale complexion, great composure for her age"
+            clothing: "Simple modest clothing, prefers countryside to parties and fashionable society"
+            posture: "Characteristic movement of escape such as jumping onto omnibus"
+
+    - id: "doris_kilman"
+      name: "Doris Kilman"
+      description_block: |
+        characters:
+          - appearance: "Woman over 40, heavy ungraceful build, gooseberry eyes, forehead like egg, face expressing bitterness and resentment"
+            clothing: "Cheap unattractive green mackintosh coat worn as symbol of rejecting worldly vanity and reflecting her poor status"
+            posture: "Folded hands as in prayer, greedy eating habits"
+
+    - id: "rezia_smith"
+      name: "Lucrezia 'Rezia' Warren Smith"
+      description_block: |
+        characters:
+          - appearance: "24-year-old beautiful Italian woman, milliner from Milan, face marked by worry for Septimus, hands often busy with work"
+            clothing: "Simple modest clothing possibly with touch of Italian style reflecting her profession and origins"
+            posture: "Hands frequently in motion creating something, working on hat she tries to sew"
+
+  locations:
+    - id: "westminster_streets"
+      name: "Westminster Streets"
+      description_block: |
+        setting:
+          location: "Westminster district in London, heart of British Empire establishment, Georgian terraced houses with white porticoes and black wrought iron balustrades, symmetrical windows, dominated by monumental historic architecture"
+        mainElements: "Portland stone buildings often darkened by soot, Parliament buildings and Big Ben tower in background, red double-decker buses, black taxis and carriages on cobblestone streets"
+        atmosphere: "Dynamic pulsing with life, mixture of vitality and oppressive order, sounds of motor engines, horse hooves on cobbles, footsteps of pedestrians, regular striking of clocks"
+
+    - id: "clarissa_salon"
+      name: "Clarissa's Drawing Room"
+      description_block: |
+        setting:
+          location: "Formal drawing room in Georgian terraced house in Westminster, high ceilings with tall French windows opening to garden"
+        mainElements: "Elegant dark wood furniture, cretonne-covered sofas and armchairs, silver vases for flowers, old engravings on walls, polished surfaces reflecting meticulous order"
+        atmosphere: "Controlled formal but with sense of history, during party becomes lively but superficial with doors removed from hinges to create open space"
+
+    - id: "clarissa_bedroom"
+      name: "Clarissa's Attic Bedroom"
+      description_block: |
+        setting:
+          location: "Small room on upper floor of Westminster house, sparse almost monastic appearance"
+        mainElements: "Narrow single bed, simple furniture, austere white and grey color palette"
+        atmosphere: "Quiet intimate solitary, place of refuge and escape from social world, private sanctuary"
+
+    - id: "regents_park"
+      name: "Regent's Park"
+      description_block: |
+        setting:
+          location: "Large public park in central London with wide tree-lined avenues, geometrically arranged flower beds, fountains, nature carefully arranged by human design"
+        mainElements: "Neatly trimmed lawns, colorful flower displays, old spreading trees casting shadows, benches, children playing, distant city sounds muffled"
+        atmosphere: "Peaceful meditative pastoral setting offering respite from urban chaos, but with underlying tension in Septimus scenes"
+
+    - id: "mulberrys_flower_shop"
+      name: "Mulberry's Flower Shop"
+      description_block: |
+        setting:
+          location: "Small intimate flower shop on Bond Street, interior filled to brim with flowers in vases and buckets"
+        mainElements: "Explosion of vivid saturated colors including delphiniums, sweet peas, lilacs, masses of carnations, large window allowing soft diffused light"
+        atmosphere: "Calm fragrant sensual oasis of beauty in midst of city, cool earthy scents contrasting with street noise"
+
+  items:
+    - id: "peters_penknife"
+      name: "Peter's Penknife"
+      description_block: |
+        details: "Small folding knife that Peter Walsh constantly opens and closes in nervous habit, metallic blade catching light, sharp edge representing his restless masculinity and indecision"
+
+    - id: "clarissas_sewing_scissors"
+      name: "Clarissa's Sewing Scissors"
+      description_block: |
+        details: "Steel tailoring scissors held while mending her green evening dress, sharp domestic tool serving as feminine counterpart to Peter's penknife, representing both creation and potential defense"
+
+    - id: "big_ben"
+      name: "Big Ben Clock Tower"
+      description_block: |
+        details: "Massive Victorian clock tower dominating London skyline, dark stone construction with prominent clock faces, source of regular thunderous chimes that create leaden circles of sound dissolving in air"
+
+    - id: "green_evening_dress"
+      name: "Clarissa's Green Evening Dress"
+      description_block: |
+        details: "Shimmering green silk gown in mermaid style for evening party, color connecting her to nature and water symbolism, requiring mending which she does herself while sitting by window"
+
+    - id: "red_white_roses"
+      name: "Richard's Rose Bouquet"
+      description_block: |
+        details: "Large bouquet of red and white roses purchased by Richard to express love he cannot speak aloud, held somewhat awkwardly like weapon, symbolizing their restrained but deep relationship"
+
+    - id: "mackintosh_coat"
+      name: "Miss Kilman's Mackintosh"
+      description_block: |
+        details: "Cheap unattractive green waterproof coat worn by Doris Kilman as symbol of her rejection of feminine vanity and her impoverished status, armor protecting her bitterness"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1898 autumn afternoon during elder's reflective walk
+    location: Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, layered with decades of memory
+    weather: Melancholy autumn afternoon with golden light and falling leaves
+  characters:
+  - appearance: Elderly man in his 70s with white beard and deeply lined face showing wisdom of years
+    clothing: Old-fashioned formal attire from earlier decades, well-maintained but showing age
+    position: Walking slowly along familiar streets, leaning slightly on walking stick
+    action: Observing present Vienna while remembering multiple previous versions of same locations
+  scene:
+    mainElements: Current Vienna streets overlaid with ghostly images of previous decades, revolutionary changes of recent
+      years appearing as mere surface modifications of eternal imperial patterns
+    details: Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses,
+      gas street lamps, elegant shop windows, coffee house terraces. Elder sees through present facade to remember when same
+      streets hosted different buildings, different fashions, different political movements. Current bourgeois prosperity
+      appears as latest variation on eternal themes of human ambition and social display. Young people hurrying past seem
+      to replay same dramas their grandparents lived.
+    background: Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity
+      and emerging political anxieties, ordered facades concealing cultural nervousness
+    atmosphere: Profound sense of historical continuity beneath surface change, current social anxieties appearing as familiar
+      patterns repeated across generations, wisdom of recognizing eternal human dramas playing out in new costumes, no text
+      or letters visible
+  composition:
+    cameraAngle: Elder's measured pace allowing careful observation of both present and past overlaying same locations
+    focus: Current street scene with ghostly suggestions of previous eras visible in same spaces
+    depth: 'Foreground: elder''s experienced gaze recognizing patterns across decades, Middle: current Vienna citizens unaware
+      they replay ancient dramas, Background: architectural layers suggesting multiple historical periods occupying same space'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,157 @@
+canon:
+  characters:
+    - id: "mary_wollstonecraft"
+      name: "Mary Wollstonecraft"
+      description_block: |
+        characters:
+          - appearance: "33-year-old woman with intense, direct gaze and deep-set dark eyes that convey intelligence and determination. Strong, expressive facial features with ciemnobrązowe hair worn naturally without powder, often partially covered by simple white cap. Not conventionally beautiful but possessing great strength of character visible in her bearing"
+            clothing: "Simple but clean robe à l'anglaise or jacket and skirt made from practical materials like wool or printed cotton in muted colors. White linen or cotton fichu modestly covering neckline. Her attire is a visual manifesto of her identity as a working woman rather than idle society lady"
+            posture: "Energetic and passionate bearing with lively gesticulation during debates. When writing, she leans forward in concentration, occasionally frowning in deep thought or looking directly at her interlocutor when making key arguments"
+
+    - id: "tender_being_woman"
+      name: "The 'Tender Being' Archetype"
+      description_block: |
+        characters:
+          - appearance: "18-20 years old with porcelain-pale complexion artificially enhanced with rouge on cheeks. High powdered hairstyle decorated with ribbons or feathers. Waist unnaturally constricted by corset creating artificial silhouette"
+            clothing: "Fashionable silk gown in pastel colors with numerous ruffles and lace trim. The restrictive garment limits movement to small, studied steps. Every element designed for display rather than function"
+            posture: "Moves with constrained grace due to restrictive clothing. Gestures are delicate and affected. Often holds fan or embroidery tambour. Facial expression mixing learned charm with emotional fragility, lacking intellectual depth"
+
+    - id: "rational_companion"
+      name: "The Rational Companion Ideal"
+      description_block: |
+        characters:
+          - appearance: "25-35 years old with face expressing intelligence and competence. Clean, natural hair arranged simply or covered with cap. Hands are capable and purposeful rather than merely decorative"
+            clothing: "Neat, practical dress of printed cotton or simple wool that doesn't restrict movement. Natural styling without artifice. Clothing enables rather than constrains activity"
+            posture: "Confident and free movement. Purposeful gestures without affectation. Can manage household finances, read serious books, teach children geography or botany, and engage in intelligent conversation as equal partner"
+
+    - id: "gallant_soldier"
+      name: "The Gallant Soldier Archetype"
+      description_block: |
+        characters:
+          - appearance: "20-30 year old handsome man with excessively groomed appearance and rigid, studied military bearing. Every detail of appearance carefully maintained for show rather than function"
+            clothing: "Striking red wool military uniform with shining brass buttons and white breeches. Every element polished and pristine, designed to impress rather than for practical military use"
+            posture: "Stiff, ceremonial military posture. Preens before mirrors, engages in frivolous ballroom conversation. His 'masculinity' proves superficial, based on external attributes rather than inner strength and virtue"
+
+    - id: "jean_jacques_rousseau"
+      name: "Jean-Jacques Rousseau"
+      description_block: |
+        characters:
+          - appearance: "Elderly philosopher with calm, contemplative facial expression that appears blind to contradictions in his own work. Represents the 'enlightened' misogynist whose liberation ideas paradoxically strengthen women's enslavement"
+            clothing: "Simple, dark 18th-century attire with philosophical wig. Dressed as befitting serious thinker"
+            posture: "Seated in rustic study surrounded by books about nature and education. Expression of philosophical conviction mixed with unconscious hypocrisy regarding women's place"
+
+    - id: "dr_gregory_fordyce"
+      name: "Dr. Gregory and Dr. Fordyce Archetype"
+      description_block: |
+        characters:
+          - appearance: "Stern, clerical figures with severe expressions representing paternalistic moral authority that preaches women's strength lies in weakness"
+            clothing: "Black ecclesiastical robes appropriate for pulpit preaching. Formal religious attire emphasizing moral authority"
+            posture: "Standing at pulpit or in position of moral instruction. Their sermons and guidebooks serve as instruments of training that Wollstonecraft seeks to destroy"
+
+  locations:
+    - id: "london_wealthy_district"
+      name: "London Wealthy District Streets"
+      description_block: |
+        setting:
+          location: "Prosperous district of London, England in 1792 - equal rows of Georgian townhouses with light brick facades, symmetrical windows, and black iron railings"
+        mainElements: "Cobblestone streets with sound of horse hooves and carriage wheels. Gas lamp illumination creating uneven lighting with deep shadows at night. Atmosphere of order and prosperity in heart of British Empire's commercial center"
+        atmosphere: "Blend of elegance and urban energy typical of wealthy London neighborhoods during height of Georgian architecture period"
+
+    - id: "bourgeois_salon"
+      name: "Bourgeois Drawing Room"
+      description_block: |
+        setting:
+          location: "First-floor reception room in Georgian London townhouse - tall-ceilinged space with large sash windows overlooking street, central marble fireplace with carved mantelpiece"
+        mainElements: "Elegant but restrictive feminine space with Hepplewhite furniture, harpsichord or pianoforte in corner, embroidery tambour by window for light, small ladies' writing desk for correspondence. Walls painted in fashionable muted colors like sage green or pale blue"
+        atmosphere: "Gilded cage atmosphere of cultural refinement and stultifying boredom. Space designed for self-presentation and waiting rather than action or intellectual effort. Warm candlelight creating intimate but confining environment"
+
+    - id: "girls_boarding_school"
+      name: "Girls' Boarding School Classroom"
+      description_block: |
+        setting:
+          location: "Simple classroom in English boarding school for young ladies - long wooden benches and desks arranged in rows, single fireplace inadequate to heat entire room"
+        mainElements: "Whitewashed walls bare except for embroidered sampler with moralizing sentiment. Utilitarian furnish lacking comfort or inspiration. Equipment includes slate boards and styluses for basic arithmetic, primers for reading, sewing and embroidery supplies but few actual books"
+        atmosphere: "Forge of mediocrity with atmosphere of rigid discipline and mechanical memorization. Cold, austere environment that stifles rather than nurtures intellectual development"
+
+    - id: "newington_green"
+      name: "Newington Green Dissenter Community"
+      description_block: |
+        setting:
+          location: "Rural settlement on London outskirts serving as intellectual center for religious dissenters and radical thinkers - central green lawn surrounded by 17th and 18th century brick houses"
+        mainElements: "Simple, unadorned Unitarian chapel built 1708 with stark brick facade lacking spire, manifesting rejection of Anglican ostentation. Oldest surviving terraced house in London among surrounding buildings"
+        atmosphere: "Oasis of serious intellectual and theological debate contrasting sharply with fashionable social life of London's West End. Atmosphere saturated with gravity of serious discourse and nonconformist values"
+
+    - id: "mary_study"
+      name: "Mary Wollstonecraft's London Study"
+      description_block: |
+        setting:
+          location: "Modest working room in rented London lodgings - small space furnished simply with solid wooden desk, chair, and bookshelves sagging under weight of volumes"
+        mainElements: "Creative disorder of intellectual workspace with papers scattered across desk, open books and pamphlets including Burke's Reflections and Talleyrand's report. Inkwell, sharpened goose quill pens, sand shaker for drying ink. Single candle providing focused light on work surface"
+        atmosphere: "Intense intellectual focus and passionate engagement. Scent of paper, ink, and melted wax. Atmosphere of creative struggle and moral urgency in pursuit of revolutionary ideas"
+
+    - id: "ballroom_scene"
+      name: "Georgian Ballroom Setting"
+      description_block: |
+        setting:
+          location: "Crowded, brilliantly lit ballroom in fashionable London venue - high ceilings with crystal chandeliers casting warm light over dancing couples"
+        mainElements: "Musicians providing dance music, elegantly dressed society figures engaged in courtship rituals and social display. Atmosphere of glitter, movement, and superficial pleasure"
+        atmosphere: "Showcase of social vanity and empty gallantry where both military officers and society ladies perform elaborate games of appearance over substance. Scene epitomizing the superficial values Wollstonecraft critiques"
+
+    - id: "future_national_school"
+      name: "Wollstonecraft's Ideal National School"
+      description_block: |
+        setting:
+          location: "Imagined progressive educational institution of the future - simple but elegant neoclassical building surrounded by gardens, representing reason and order of Enlightenment ideals"
+        mainElements: "Spacious, well-lit classroom with boys and girls studying together without segregation. Quality educational materials including maps, botanical charts, books, globe, and scientific instruments rather than embroidery equipment. Mixed-class enrollment with children from different social backgrounds in similar simple, clean clothing"
+        atmosphere: "Bright, hopeful vision of new era filled with positive energy. Children actively engaged in learning, asking questions, discussing freely. Natural playground where boys and girls play together in 'jostlings of equality' - atmosphere of intellectual freedom and authentic joy in learning"
+
+  items:
+    - id: "writing_implements"
+      name: "18th Century Writing Materials"
+      description_block: |
+        details: "Goose quill pen carefully sharpened for writing, ceramic or glass inkwell filled with iron-gall ink, sand shaker (pounce pot) for drying wet ink quickly, sheets of handmade paper with slightly rough texture characteristic of 18th century manufacture"
+
+    - id: "corset"
+      name: "Restrictive Corset"
+      description_block: |
+        details: "Tightly laced stays made of whalebone or cane that artificially shapes feminine silhouette, symbol of physical constraint and artificial modification of natural female form. Represents broader theme of social restrictions imposed on women's bodies and lives"
+
+    - id: "embroidery_tambour"
+      name: "Embroidery Tambour Frame"
+      description_block: |
+        details: "Small wooden circular frame for holding fabric taut during decorative needlework, representing mindless 'feminine accomplishments' that occupy women's time without developing their intellectual faculties or practical skills"
+
+    - id: "harpsichord_pianoforte"
+      name: "Keyboard Instrument"
+      description_block: |
+        details: "Harpsichord or early pianoforte in domestic setting, representing superficial musical 'accomplishments' taught to young ladies as ornamental skills designed to attract male attention rather than develop genuine artistic or intellectual ability"
+
+    - id: "philosophical_books"
+      name: "Enlightenment Philosophy Texts"
+      description_block: |
+        details: "Leather-bound volumes of contemporary philosophical and political works including Burke's 'Reflections on the Revolution in France', Talleyrand's educational report, Rousseau's 'Emile', and various pamphlets of the revolutionary controversy - materials for serious intellectual engagement"
+
+    - id: "mirror_vanity"
+      name: "Vanity Mirror"
+      description_block: |
+        details: "Reflecting glass in ornate frame used by both fashionable women and gallant soldiers for excessive attention to appearance, symbolizing focus on external beauty over inner development of character and reason"
+
+    - id: "military_regalia"
+      name: "Parade Military Equipment"
+      description_block: |
+        details: "Ceremonial sword, polished brass buttons, white dress gloves, and other ornamental military accessories designed for display rather than combat effectiveness, representing Wollstonecraft's critique of superficial masculine performance"
+
+    - id: "educational_materials"
+      name: "Progressive Educational Tools"
+      description_block: |
+        details: "World maps showing geographical knowledge, botanical charts for natural science study, quality books for serious reading, scientific instruments for practical learning, globe for geography - materials supporting genuine intellectual development rather than ornamental accomplishments"
+
+    - id: "domestic_keys"
+      name: "Household Management Keys"
+      description_block: |
+        details: "Set of iron keys representing practical domestic authority and competent household management by rational woman capable of real responsibility rather than merely ornamental presence in home"
+
+    - id: "candle_lighting"
+      name: "18th Century Candle"
+      description_block: |
+        details: "Beeswax or tallow candle providing flickering light for evening work and study, creating intimate pools of warm illumination in otherwise dark rooms. Symbol of reason's light dispelling darkness of ignorance, and of solitary intellectual labor"

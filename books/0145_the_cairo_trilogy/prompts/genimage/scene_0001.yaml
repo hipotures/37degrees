@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 'Split time: 1917 evening and 1944 evening'
+    location: Master bedroom of traditional Cairene house on Palace Walk street in Al-Jamaliyya district, historic Cairo
+    weather: Clear evening both periods
+  characters:
+  - appearance: 45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue
+      eyes, large prominent nose, commanding presence that fills space
+    clothing: 'At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt
+      fez (tarbush) with black tassel'
+    position: Standing with authority and dignity, movements heavy and measured
+    action: '1917: Standing powerfully in center of room, 1944: Lying frail on ground floor bed, authority diminished'
+  scene:
+    mainElements: Same bedroom shown in temporal split - left side 1917 with patriarch in prime commanding from upper floor
+      master bedroom, right side 1944 with aged patriarch confined to ground floor sickroom
+    details: '1917 side: massive brass bed with mosiężne zdobienia, Persian Shiraz carpet with rich multicolored patterns,
+      brass trays gleaming, oil lamps providing warm flickering light, dark polished wooden walking stick standing proudly.
+      1944 side: simple ground floor bed, faded carpet, tarnished brass, dim lighting, walking stick leaning unused against
+      wall, accumulated dust of years, no text or letters visible'
+    background: Upper floor bedroom architecture versus ground floor converted bedroom, same stone walls showing different
+      states of maintenance and wear
+    atmosphere: Powerful contrast between peak authority and declined power, temporal weight of 27 years compressed into single
+      frame, sense of inevitable aging and mortality
+  composition:
+    cameraAngle: Wide split-screen view showing temporal transformation
+    focus: Central patriarch figure in both time periods showing dramatic change
+    depth: 'Foreground: patriarch in different states, middle ground: room furnishings in various conditions, background:
+      architectural elements showing time''s passage'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

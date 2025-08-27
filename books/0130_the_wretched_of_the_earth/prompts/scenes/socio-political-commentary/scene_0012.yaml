@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Assembly Line of Colonial Education"
+  setting:
+    time: "1950s Algeria, morning"
+    location: "French colonial school classroom with rigid arrangement of desks and colonial imagery"
+    weather: "Filtered morning light through institutional windows"
+  characters:
+    - appearance: "Algerian children aged 8-12, wearing identical school uniforms, sitting rigidly upright"
+      clothing: "Standardized French school uniforms, identical blue and white garments, hair neatly combed"
+      position: "Sitting in perfectly aligned rows of desks"
+      action: "Reciting French lessons in unison, writing identical assignments, mimicking exact gestures demonstrated by teacher"
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "French academic dress, formal suit with teaching credentials"
+      position: "Standing at front of classroom"
+      action: "Leading recitation of French colonial history, pointing to map of French empire"
+  scene:
+    mainElements: "Classroom with identical desks arranged in military precision, children performing synchronized educational activities, colonial propaganda materials covering walls"
+    details: "Students sitting with identical posture, hands folded in same position, reciting French phrases in perfect unison, chalkboard showing French colonial achievements, maps highlighting French empire, portraits of French leaders, French flag prominently displayed, students writing identical essays praising colonial civilization"
+    background: "Institutional classroom environment designed to suppress individual expression and cultural identity"
+    atmosphere: "Educational machinery producing conformity and cultural erasure, childhood creativity suppressed by colonial indoctrination"
+  composition:
+    cameraAngle: "Elevated view showing rows of identical student positions"
+    focus: "Synchronized student behavior creating pattern of educational conformity"
+    depth: "Student rows in foreground, teacher and propaganda materials in middle ground, colonial symbols in background"

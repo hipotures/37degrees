@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Accelerated Decay - Odette's Beauty Blooming and Withering"
+  setting:
+    time: "Compressed lifetime from age 25 to 65 in single accelerated image"
+    location: "Elegant Parisian salon mirror reflecting temporal compression"
+    weather: "Unchanging afternoon light maintaining consistent illumination across age compression"
+  characters:
+    - appearance: "Odette de Crécy showing simultaneous youth and age: left side of face youthful beauty, right side elderly deterioration, center blending both states"
+      clothing: "Garments shifting from luxurious courtesan silks to respectable bourgeois attire to elderly widow's simple dress"
+      position: "Standing before full-length mirror, pose identical but body showing age progression"
+      action: "Primping gestures accelerated across decades: applying rouge becoming powder becoming medicinal creams"
+  scene:
+    mainElements: "Salon mirror reflecting compressed aging process. Beauty treatments and cosmetics evolving across decades. Furniture showing corresponding wear and replacement around static figure."
+    details: "Mirror surface showing temporal stratification: clear reflection becoming slightly clouded with age. Cosmetic bottles multiplying and changing contents. Jewelry becoming more conservative as beauty fades."
+    background: "Salon window view showing Paris evolving across decades in time-lapse: buildings constructed, fashions changing, transportation evolving. Clock hands spinning rapidly while figure ages."
+    atmosphere: "Beauty's temporal fragility compressed into single devastating image. Physical decay's relentless progression contrasted with human vanity's persistent attempts at preservation, no text or letters visible"
+  composition:
+    cameraAngle: "Straight-on view of mirror reflection showing temporal compression effect clearly"
+    focus: "Mirror reflection as primary temporal stage with aging process visible in layers"
+    depth: "Foreground shows cosmetic tools evolution, middle ground captures aging figure, background reveals time-lapse window view"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Viewing Carthage Through Temple Arch"
+  setting:
+    time: "Mythical era around XII century BCE, morning reconnaissance of foreign city"
+    location: "Temple colonnade overlooking Carthage harbor and construction projects"
+    weather: "Bright Mediterranean morning with clear visibility"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "travel-worn tunic and cloak, no armor while observing neutral city"
+      position: "standing within temple archway surveying city below"
+      action: "studying Carthaginian construction projects while hidden from view by architecture"
+    - appearance: "younger warrior companion in travel gear"
+      clothing: "simple traveling garments appropriate for reconnaissance"
+      position: "beside leader within architectural frame"
+      action: "pointing toward specific construction projects while discussing observations"
+  scene:
+    mainElements: "Temple archway framing view of Carthaginian harbor and city construction, active building projects visible through architectural opening, Mediterranean setting"
+    details: "Stone archway carved with religious symbols, harbor filled with Phoenician trading vessels, construction crews visible working on major buildings, temple of Juno rising with bronze appointments, royal palace complex under development"
+    background: "Mediterranean coastline extending beyond city limits, North African landscape with mountains in distance, trading routes and caravans approaching city"
+    atmosphere: "Hidden observation of powerful civilization, architectural frame suggesting both concealment and revelation, promise of alliance or potential threat"
+  composition:
+    cameraAngle: "Natural frame using temple archway to contain view of foreign city"
+    focus: "Carthaginian construction and prosperity viewed through protective architectural frame"
+    depth: "Observers within temple archway in foreground, city construction in detailed middle ground, Mediterranean and North African landscape in background frame, no text or letters visible"

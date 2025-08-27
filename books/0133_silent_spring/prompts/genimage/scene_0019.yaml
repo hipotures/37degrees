@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1962 morning
+    location: Research laboratory where food contamination studies are conducted
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting
+      dedication to scientific truth over corporate interests
+    clothing: White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating
+      scientific profession
+    position: Standing at laboratory bench with coffee sample analysis equipment
+    action: Testing coffee samples for chemical residue contamination, documenting findings about pesticide presence in everyday
+      beverages
+  scene:
+    mainElements: Dark coffee grounds scattered across white laboratory surface for chemical analysis, researcher examining
+      samples with scientific instruments, coffee grounds showing potential contamination from agricultural chemicals
+    details: Dark roasted coffee grounds spread across sterile white laboratory bench creating stark contrast, grounds arranged
+      in testing patterns for chemical analysis, scientific measuring equipment positioned around coffee samples, researcher
+      using magnifying glass to examine individual coffee particles, small glass containers holding ground coffee samples,
+      bitter coffee aroma suggested by researcher's focused expression and laboratory notes
+    background: Clinical research environment with chemical analysis equipment, fluorescent lighting creating harsh shadows,
+      scientific instruments for detecting chemical contamination in food samples
+    atmosphere: Scientific investigation revealing chemical contamination in everyday beverages, bitter reality of environmental
+      pollution affecting common foods, laboratory documentation of widespread contamination, no text or letters visible
+  composition:
+    cameraAngle: Close-up showing coffee grounds arrangement and scientific analysis
+    focus: Scattered coffee grounds representing contamination testing and bitter discoveries
+    depth: Immediate foreground shows detailed coffee ground patterns, middle ground includes research equipment, background
+      suggests broader laboratory investigation
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

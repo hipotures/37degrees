@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1890s young manhood overlaid with 1910s middle age, afternoon study light
+    location: Private art collection room in Swann's residence, elegant Parisian townhouse
+    weather: Soft afternoon light filtering through silk curtains both periods
+  characters:
+  - appearance: 'Charles Swann aged 30 overlaid with same man at 50: tall, slender, dark hair becoming silver, intelligent
+      dark eyes gaining weariness'
+    clothing: 'Young: immaculate dark morning coat and gray striped trousers, older: same style but fabric showing subtle
+      wear, monocle more frequently used'
+    position: Identical pose examining Botticelli reproduction, standing before easel in same spot
+    action: Young hands smooth and steady holding magnifying glass to analyze brushwork, aged hands slightly tremulous but
+      more reverent in touch
+  scene:
+    mainElements: Same art-filled study showing temporal accumulation. Original paintings remain but frames show patina. New
+      acquisitions added over decades. Leather-bound catalogues multiplied on mahogany desk.
+    details: Magnifying glass handle worn smooth by years of use. Persian rug path worn by decades of contemplation walks.
+      Leather armchair indented to Swann's form. Wine stains on desk blotter where aesthetic discussions occurred.
+    background: Bookshelves filled with additional art history volumes. Window view unchanged but curtains showing fade from
+      sun exposure. Same cattleya orchid species but different blooms in Chinese porcelain vases.
+    atmosphere: Contemplative refinement deepened by time where youthful aesthetic enthusiasm matures into profound connoisseurship.
+      Beauty's power to transcend temporal decay made visible through consistent devotion, no text or letters visible
+  composition:
+    cameraAngle: Medium shot over shoulder showing hands examining artwork across time
+    focus: Botticelli reproduction as constant while Swann's hands show passage of decades
+    depth: Foreground captures dual-age hands detail, middle ground shows easel and artwork, background reveals accumulated
+      collection changes
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

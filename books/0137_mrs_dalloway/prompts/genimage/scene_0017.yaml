@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: June 1923, early afternoon around 1:15 PM
+    location: Specific park bench in Regent's Park showing same moment from different positions
+    weather: Bright sunny afternoon with consistent lighting across all viewpoints
+  characters:
+  - appearance: 30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear
+      that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame
+    clothing: Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male
+      characters, clothing reflecting his psychological isolation
+    position: Seated on bench in catatonic state
+    action: Motionless staring, occasionally speaking to invisible presence
+  - appearance: 24-year-old beautiful Italian woman, milliner from Milan, face marked by worry for Septimus, hands often busy
+      with work
+    clothing: Simple modest clothing possibly with touch of Italian style reflecting her profession and origins
+    position: Seated beside Septimus, leaning toward him in concern
+    action: Trying to engage him with needlework, speaking softly in mixture of English and Italian
+  scene:
+    mainElements: Single park bench scene revealed from multiple simultaneous angles showing hidden elements invisible from
+      any single perspective
+    details: Multi-angle revelation shows what's behind bench (discarded newspaper, feeding pigeons), what other parkgoers
+      actually see (couple on bench, woman working, man staring), what's in shadows invisible to frontal view (child's forgotten
+      toy, elderly man feeding birds just out of frame), simultaneous perspectives revealing complete spatial reality of single
+      moment, no text or letters visible
+    background: Park setting with trees, paths, and other visitors visible from different angles, each viewpoint revealing
+      previously hidden spatial relationships
+    atmosphere: Objective spatial reality of park moment without psychological interpretation, multiple perspectives creating
+      complete three-dimensional understanding of single scene
+  composition:
+    cameraAngle: Multiple simultaneous viewpoints - front, side, behind, above - revealing complete spatial reality
+    focus: The couple on bench as seen from multiple physical positions simultaneously
+    depth: Each viewpoint shows different spatial relationships between foreground, middle ground, and background elements
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

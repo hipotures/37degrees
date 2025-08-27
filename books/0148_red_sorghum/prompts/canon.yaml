@@ -1,0 +1,121 @@
+canon:
+  characters:
+    - id: "yu_zhanao"
+      name: "Yu Zhan'ao (Grandfather/Commander Yu)"
+      description_block: |
+        characters:
+          - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+            clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+            posture: "Moves with predator's confidence, economical but decisive gestures, rarely shows emotions except anger or determination, imposing presence that commands attention"
+
+    - id: "dai_fenglian"
+      name: "Dai Fenglian (Grandmother/Little Ninth)"
+      description_block: |
+        characters:
+          - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+            clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+            posture: "Despite bound feet requiring small swaying gait, moves with dignity and hidden strength, facial expression often showing gravity, calm and sadness reminiscent of bodhisattva image, concealing inner determination and fire"
+
+    - id: "douguan"
+      name: "Douguan (Father)"
+      description_block: |
+        characters:
+          - appearance: "Fifteen-year-old youth with relatively small build, black hair, dark eyes, youthful face mixing features of both parents Yu Zhan'ao and Dai Fenglian"
+            clothing: "Simple peasant clothing consisting of tunic and trousers, partisan outfit similar to father's unit when fighting"
+            posture: "Moves with nervous energy of adolescence, observant and eager to prove himself worthy of legendary parents, face shows mixture of determination and trauma from witnessing violence"
+
+    - id: "arhat_liu"
+      name: "Arhat Liu (Uncle Arhat/Grandfather Luo Han)"
+      description_block: |
+        characters:
+          - appearance: "Elderly man over 50 years old with face lined with deep wrinkles from hard labor, weathered hands bearing calluses from decades of physical work, appearance of experienced hardworking peasant who has spent lifetime in fields and distillery"
+            clothing: "Rough work clothes made from coarse thick canvas cloth, simple practical garments suited for heavy labor in distillery"
+            posture: "Moves with slow deliberate motions of age and experience, represents loyalty and deep spiritual connection to land and work, carries himself with dignity of respected elder"
+
+    - id: "pocky_leng"
+      name: "Pocky Leng (Commander Leng)"
+      description_block: |
+        characters:
+          - appearance: "Adult man aged 30-40 years with face covered in deep scars from smallpox creating distinctive pocked appearance that gives him his nickname, build and other features not specified but bearing of military commander"
+            clothing: "Partisan outfit mixing various styles of military and civilian garments, practical fighting attire"
+            posture: "Carries himself with authority of competing partisan commander, movements suggest unreliability and corrupted nature reflected in his scarred face"
+
+    - id: "shan_bianlang"
+      name: "Shan Bianlang"
+      description_block: |
+        characters:
+          - appearance: "Young man approximately 20 years old with skin marked by leprosy showing discolored patches, nodules, and in advanced stages facial and limb deformities creating physically repulsive appearance"
+            clothing: "Rich silk garments befitting wealthy family status, possibly neglected due to illness"
+            posture: "Moves with hesitation and shame of diseased person, represents decay of patriarchal system that created him"
+
+  locations:
+    - id: "sorghum_fields"
+      name: "Red Sorghum Fields"
+      description_block: |
+        setting:
+          location: "Vast rolling fields of red sorghum in Northeast Gaomi District, Shandong Province, eastern China, stretching endlessly like shimmering sea of blood when mature"
+        mainElements: "Dense maze of tall sorghum stalks reaching 2-3 meters high creating claustrophobic labyrinthine paths, plants swaying in wind creating green waves when young, deep blood-red color when mature"
+        atmosphere: "Dual nature - place of shelter, love and life but also danger, violence and death, silence broken only by wind rustling through stalks, serves as witness to crucial events from conception to battles"
+
+    - id: "shan_distillery"
+      name: "Shan Family Distillery"
+      description_block: |
+        setting:
+          location: "Fortified complex of rammed earth and brick buildings surrounding central courtyard in Northeast Gaomi District, much larger than typical farmstead"
+        mainElements: "Residential quarters, storage warehouses, open sun-drenched threshing floors for drying grain, covered workshops with fermentation pits carved into earth and lined with stone or brick, primitive distillation apparatus, massive clay vats for aging wine"
+        atmosphere: "Place of heavy physical labor with intense sweet-sour smell of fermenting grain, smoke and alcohol in air, sharp sunlight on courtyards contrasting with deep shadows inside buildings, throbbing heart of community life"
+
+    - id: "black_river_bridge"
+      name: "Black River and Bridge"
+      description_block: |
+        setting:
+          location: "Simple wooden or stone bridge crossing wide slow-flowing river with dark murky water in Northeast Gaomi District, strategic crossing point on Jiao-Ping road"
+        mainElements: "Muddy banks overgrown with reeds and wild vegetation, dark almost black river water, bridge structure providing tactical advantage, surrounding area of endless sorghum fields"
+        atmosphere: "Liminal boundary place of strategic importance, mysterious and tense in fog, hellish landscape of death during battle with burning vehicles and scattered bodies"
+
+    - id: "village_roads"
+      name: "Village Roads and Paths"
+      description_block: |
+        setting:
+          location: "Narrow beaten paths winding through barren dusty hills leading to scattered villages in Northeast Gaomi District, connecting rural settlements"
+        mainElements: "Dusty yellow-ochre colored tracks carved by cart wheels and footsteps, sparse vegetation, occasional rest stops, paths vulnerable to bandit attacks"
+        atmosphere: "Harsh bright southern sun bleaching colors and creating deep shadows, sense of isolation and danger, roads witness to wedding processions and violent encounters"
+
+    - id: "family_cemetery"
+      name: "Family Cemetery"
+      description_block: |
+        setting:
+          location: "Small hillock with several simple earthen graves in middle of fields near Gaomi, traditional Chinese burial ground for family ancestors"
+        mainElements: "Simple mounded graves without elaborate markers, positioned according to feng shui principles among fields that have changed from wild red sorghum to ordered rows of hybrid green sorghum"
+        atmosphere: "Place of memory and nostalgia, late afternoon golden but cold light, clouds in sky, silence and contemplation, visual symbol of lost past replaced by modern uniformity"
+
+  items:
+    - id: "red_wedding_palanquin"
+      name: "Red Wedding Palanquin"
+      description_block: |
+        details: "Bright red ornately decorated bridal sedan chair carried on long poles by four men, only vivid color accent in monotonous landscape, symbol of tradition, femininity and imprisonment, lacquered wood with intricate carved decorations and silk curtains"
+
+    - id: "mauser_pistol"
+      name: "Mauser C96 Pistol"
+      description_block: |
+        details: "Semi-automatic pistol with distinctive wooden holster-stock, characteristic weapon with wooden grip that doubles as shoulder stock, symbol of power, violence and bandit/commander status, German-manufactured precision firearm popular among Chinese military leaders"
+
+    - id: "dadao_sword"
+      name: "Dadao Sword"
+      description_block: |
+        details: "Large heavy single-edged Chinese sword used in close combat, symbol of brutal primitive force and Chinese resistance against modern weapons, traditional blade requiring great strength to wield effectively"
+
+    - id: "clay_wine_vats"
+      name: "Clay Wine Vats and Stews"
+      description_block: |
+        details: "Large earthenware vessels used in distillery for fermentation and aging of sorghum wine, represents cycle of life, fermentation, transformation of raw material into life-giving spirit, traditional ceramic craftsmanship in earth tones"
+
+    - id: "bound_feet_shoes"
+      name: "Embroidered Shoes for Bound Feet"
+      description_block: |
+        details: "Small embroidered silk shoes designed for bound feet known as three-inch golden lotuses, symbol of oppressive tradition but also paradoxically source of feminine power and uniqueness, intricate needlework in bright colors concealing deformed feet"
+
+    - id: "fistcakes"
+      name: "Fistcakes (Quanmo)"
+      description_block: |
+        details: "Flat bread cakes with egg and onion rolled into cylinder shape, simple food of partisans that Dai Fenglian carries in baskets on her final journey, represents basic sustenance and connection to community, traditional peasant food wrapped for portability"

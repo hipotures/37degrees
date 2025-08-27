@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Scientific Debates Echoing Across Centuries"
+  setting:
+    time: "1860 Oxford debate overlaid with 1925 Scopes trial overlaid with modern university lecture, multiple time periods"
+    location: "Oxford University Museum of Natural History transforming through Royal Society London to modern university auditorium"
+    weather: "Indoor controlled environments across different eras of artificial lighting"
+  characters:
+    - appearance: "Victorian-era academics and clergy in formal evening wear of 1860s"
+      clothing: "Black formal suits, white shirts with high collars, some in academic robes and clerical dress"
+      position: "Seated in tiered lecture hall debating evolution"
+      action: "Heated Victorian debate about Darwin's theory overlaid with later scientific discussions"
+    - appearance: "1920s American lawyers, scientists, and educators in period dress"
+      clothing: "Three-piece suits, bow ties, formal courtroom attire of prohibition era"
+      position: "In courtroom setting overlaid with lecture hall"
+      action: "Legal and educational debates about teaching evolution"
+    - appearance: "Modern scientists and students in contemporary academic setting"
+      clothing: "Contemporary professional and casual academic wear"
+      position: "In modern lecture hall with multimedia presentation"
+      action: "Current scientific education and discussion of evolutionary biology"
+  scene:
+    mainElements: "Academic venues transforming across time periods showing continuity of scientific debate and education"
+    details: "Lecture hall architecture evolving from Victorian Gothic to modern design while maintaining same basic function, seating arrangements showing different periods of academic formal, lighting progressing from gaslight to electric to modern multimedia, blackboards evolving to whiteboards to digital displays, scientific instruments and teaching aids advancing through technological eras, audience dress codes reflecting changing social norms, same fundamental questions being discussed across all time periods, no text or letters visible on teaching displays"
+    background: "University buildings showing architectural evolution while maintaining academic purpose, campus settings changing through historical periods"
+    atmosphere: "Continuity of scientific inquiry and education across generations, same fundamental questions approached with advancing knowledge and technology"
+  composition:
+    cameraAngle: "Wide shot showing multiple time periods of academic debate simultaneously"
+    focus: "The podium as constant focal point for scientific education across eras"
+    depth: "Foreground: contemporary audience, middle: overlapping historical periods, background: evolving academic architecture"

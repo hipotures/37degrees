@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Queen's Manipulation - Kaikeyi's Fateful Demand"
+  setting:
+    time: "Treta Yuga ancient era, late night in palace chambers"
+    location: "Royal private chambers in Ayodhya palace, ornate room with luxury furnishings and royal appointments, intimate setting for royal family drama"
+    weather: "Night scene with oil lamp and fire lighting creating dramatic shadows"
+  characters:
+    - appearance: "Mature beautiful woman aged forty to fifty years, youngest beloved wife of the king, facial expression cold determined and unforgiving, transformation from loving to ruthless"
+      clothing: "Finest silk sari and most precious royal jewels as the king's favored queen"
+      position: "Standing imperiously over seated king, positioned in frame to show power dynamic"
+      action: "Making implacable demand for exile, gesture commanding and uncompromising"
+    - appearance: "Elderly king over sixty years old, majestic but aged bearing, gray-haired with regal features, face expressing tragic despair, body collapsed in grief"
+      clothing: "Rich royal silk garments, crown and royal jewels symbolizing his powerful kingdom"
+      position: "Collapsed in chair showing defeat and anguish"
+      action: "Pleading desperately but bound by honor to fulfill promise"
+  scene:
+    mainElements: "Two-shot showing dramatic power dynamic with Kaikeyi standing dominant over collapsed Dasaratha. Height difference and positioning emphasizing her control over situation, his powerlessness despite royal status, dramatic lighting creating strong shadows and emotional intensity"
+    details: "Oil lamps creating flickering light and shadow patterns across both faces, royal chamber furnishings showing wealth and comfort now turned to scene of family destruction, queen's jewelry catching light as she gestures commandingly, king's crown seeming heavy burden on his bowed head"
+    background: "Luxurious royal chamber with beds, cushions and palace appointments, doorway showing palace corridors beyond, windows showing night sky"
+    atmosphere: "Tense confrontational mood with dramatic chiaroscuro lighting, sense of fate being determined by human weakness and manipulation, tragic irony of royal comfort becoming scene of family destruction"
+  composition:
+    cameraAngle: "Two-shot with slight low angle emphasizing queen's dominance over king"
+    focus: "Both figures in sharp focus showing contrast between her determination and his despair"
+    depth: "Foreground shows immediate confrontation between royal couple, background reveals palace setting, dramatic lighting creating depth, no text or letters visible"

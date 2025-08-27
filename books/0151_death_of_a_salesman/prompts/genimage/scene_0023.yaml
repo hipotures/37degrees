@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1949, afternoon several days later
+    location: sparse cemetery setting with freshly dug grave, open sky above emphasizing final solitude and the gap between
+      dreams and reality
+    weather: overcast afternoon with soft diffused light
+  characters:
+  - appearance: approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed
+      with deep worry, lines around eyes from years of concern, gentle but tired expression
+    clothing: simple black dress and hat for mourning, practical shoes, mourning attire showing family's modest circumstances
+    position: standing close to graveside, supported by son's arm
+    action: leaning slightly on son for physical and emotional support, creating new family dynamic
+  - appearance: 34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal
+      conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness
+    clothing: simple dark suit that seems uncomfortable on him, cleaned and pressed for funeral
+    position: standing beside mother with protective arm around her shoulders
+    action: providing strength and support, taking on new role as family protector and decision-maker
+  - appearance: approximately 60 years old, large and solidly built man, calm steady face with kind eyes, speaks slowly and
+      deliberately, expression of practical wisdom
+    clothing: simple well-made dark suit, plain tie, practical black shoes, clothing solid and unpretentious
+    position: standing slightly apart from family group but nearby
+    action: offering quiet presence and support, representing continuity and friendship beyond family boundaries
+  scene:
+    mainElements: simple graveside with fresh earth, minimal headstone, few mourners standing at distance, bare trees or simple
+      landscape, cemetery setting emphasizing finality
+    details: Fresh grave with simple headstone marking end of family patriarch. Small gathering showing limited social connections.
+      Flowers arranged simply reflecting family's modest means. Open sky providing honest but harsh illumination.
+    background: cemetery landscape extending to horizon, few other graves and monuments, bare trees suggesting autumn or winter
+      season
+    atmosphere: somber and final setting emphasizing isolation and failure, natural daylight providing honest but harsh illumination,
+      sense of ending but also potential for new beginning
+  composition:
+    cameraAngle: medium wide shot showing small funeral gathering and vast cemetery landscape
+    focus: reconfigured family relationships with son now in protective role, mother accepting new dependence
+    depth: foreground shows fresh grave and funeral flowers, middle ground captures family in new formation around loss, background
+      reveals cemetery extending to open horizon suggesting both ending and possibility
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

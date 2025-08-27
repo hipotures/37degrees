@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1911, late night
+    location: Hidden basement beneath village shop, secret meeting place for revolutionaries
+    weather: Underground space unaffected by weather
+  characters:
+  - appearance: Small group of conspirators huddled around single candle
+    clothing: Dark, nondescript clothing to avoid detection
+    position: Seated in circle around flickering candle light
+    action: Passing forbidden book from hand to hand, reading in whispers, taking notes on scraps of paper
+  - appearance: Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style
+      but wears fake braided queue poorly attached. Represents failed modernization
+    clothing: Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village
+      attire. Clothes mark him as pretentious outsider
+    position: Standing at edge of group, separate from others
+    action: Observing the meeting with calculating expression, not participating in reading but clearly planning something
+  scene:
+    mainElements: Low-ceilinged basement with stone walls, accessed through hidden entrance. Single candle providing minimal
+      light, creating dramatic shadows. Forbidden books and revolutionary pamphlets hidden in wooden crate
+    details: Modern Western firearms brought by revolutionaries, stark contrast to traditional village. Represent intrusion
+      of modern warfare technology into pre-industrial world. Maps spread on rough table showing planned activities
+    background: Stone walls with moisture stains, wooden support beams, hidden entrance covered by carpet above. Supplies
+      for revolution carefully concealed
+    atmosphere: Dangerous conspiracy brewing in shadows. Mix of genuine revolutionaries and opportunists planning to exploit
+      chaos. Hope for change contaminated by personal ambition and greed
+  composition:
+    cameraAngle: Low angle emphasizing the underground, secretive nature of the meeting
+    focus: The forbidden book as symbol of dangerous ideas, with the calculating opportunist observing from shadows
+    depth: Foreground shows the forbidden revolutionary materials, middle ground captures the conspiring group, background
+      reveals the false revolutionary planning his own agenda
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

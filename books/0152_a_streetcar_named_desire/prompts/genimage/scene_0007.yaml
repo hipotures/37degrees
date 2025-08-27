@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in May
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Hot, humid afternoon with oppressive heat
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Flowing feminine fabrics in soft colors, red or scarlet satin robes at home
+    position: Moving closer to man with calculated charm, adjusting posture to appear more alluring
+    action: Attempting flirtatious behavior and coquettish gestures to manipulate and disarm hostile male
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Rough blue denim work clothes stained with grease. Tight, sweat-stained undershirts at home. Brightly colored
+      silk shirts for bowling and poker (green-scarlet, purple, red-white checkered). Bright silk pajamas during climactic
+      scene
+    position: Standing unmoved by feminine wiles, maintaining suspicious and contemptuous stance
+    action: Remaining immune to seductive attempts, showing disdain for manipulative behavior
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Woman's desperate attempt at using femininity as weapon against masculine brutality. Contrast between refined
+      seductive techniques and crude environment. Harsh afternoon light exposing the artifice of her performance. Man's complete
+      resistance to charm offensive. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Failed manipulation creating more tension. Woman's increasing desperation as traditional feminine power proves
+      useless. Growing sense of her inadequate survival skills for this environment
+  composition:
+    cameraAngle: Medium shot showing attempted seduction and rejection
+    focus: Woman's artificial charm meeting man's contemptuous resistance
+    depth: 'Foreground: interacting figures; middle ground: scattered belongings still evident; background: unforgiving apartment
+      setting'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

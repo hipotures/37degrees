@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Media Control - Broadcast of Manufactured Reality"
+  setting:
+    time: "1760s, evening"
+    location: "Public announcement area in Paris where official news and interpretation of events is distributed to citizens"
+    weather: "Artificial lighting from torches creating dramatic staging for propaganda delivery"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Gathered around official announcer receiving prescribed interpretation of current events"
+      action: "Listening passively to government version of reality, accepting official explanations without question, spreading approved narratives to others"
+  scene:
+    mainElements: "Official announcer with government seal reading from prepared text, citizens listening without critical evaluation, posted notices with official version of events"
+    details: "Announcer presents only information that supports government interests, omits inconvenient facts, frames all events to justify state power. Citizens show no skepticism or independent analysis. Alternative viewpoints are forbidden"
+    background: "Government offices controlling information flow, censorship apparatus preventing alternative narratives, distribution network for approved messages"
+    atmosphere: "Reality manufactured and controlled by state power, truth sacrificed to political convenience, citizens deprived of accurate information necessary for democratic participation"
+  composition:
+    cameraAngle: "Medium shot showing information control and passive reception by citizens"
+    focus: "Official announcer delivering manufactured version of reality to accepting audience"
+    depth: "Foreground shows details of propaganda apparatus, middle ground displays information delivery process, background reveals censorship and control systems"

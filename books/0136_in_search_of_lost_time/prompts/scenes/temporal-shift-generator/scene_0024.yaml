@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Warfare's Eternal Return - Same Valley, Different Conflicts"
+  setting:
+    time: "Multiple war periods overlapping: medieval battles, Napoleonic campaigns, Franco-Prussian War, World War I"
+    location: "French countryside valley showing accumulated military history"
+    weather: "Different seasons of conflict: spring medieval charge, summer Napoleonic march, autumn 1870 retreat, winter 1917 trenches"
+  characters:
+    - appearance: "Soldiers from different centuries transparently overlapping: medieval knights, Napoleonic infantry, 1870 cavalry, WWI infantry"
+      clothing: "Military evolution: chain mail and surcoats, Napoleonic blue uniforms, 1870 red trousers, WWI horizon blue, all overlapping"
+      position: "Different military formations in same valley space, ghostly historical armies sharing terrain"
+      action: "Various combat postures across centuries: knights charging, infantry marching, cavalry retreating, soldiers in trenches"
+  scene:
+    mainElements: "Valley terrain showing accumulated warfare evidence: medieval earthworks, Napoleonic cannon positions, 1870 battlefield markers, WWI trench systems all overlapping."
+    details: "Weapons from different periods scattered and overlapping: swords, muskets, rifles, artillery shells. Military equipment evolution visible through transparent historical layers."
+    background: "Valley hills showing strategic importance across centuries. Same river crossing, same high ground, same natural advantages exploited by different armies. Village rebuilt multiple times."
+    atmosphere: "War's eternal recurrence in strategic locations where geography determines repeated human conflict. Military necessity transcending historical periods through terrain advantage, no text or letters visible"
+  composition:
+    cameraAngle: "High panoramic view showing full valley with multiple military periods overlapping"
+    focus: "Valley terrain as eternal military stage accommodating centuries of warfare"
+    depth: "Multiple historical military layers occupying strategic positions throughout valley geography"

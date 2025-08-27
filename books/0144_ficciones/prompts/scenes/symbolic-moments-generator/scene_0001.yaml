@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Impossible Encyclopedia Volume"
+  setting:
+    time: "1940s Buenos Aires, late evening"
+    location: "Modest hotel room in Adrogué suburb, Argentina, among deceased man's belongings"
+    weather: "Still autumn night with gentle breeze through open window"
+  characters:
+    - appearance: "Argentinian intellectual in his early 40s, medium height, slender build slightly stooped from years of reading, thin face with sharp intellectual features, dark penetrating eyes behind round wire-rimmed spectacles, dark hair neatly combed back"
+      clothing: "Conservative dark wool suit of 1940s Buenos Aires intellectual, crisp white shirt, subdued tie, well-maintained but not fashionable attire reflecting focus on ideas rather than appearance"
+      position: "Kneeling beside open wooden trunk, surrounded by scattered books and papers"
+      action: "Carefully lifting heavy leather-bound volume from trunk bottom, eyes widening with recognition and wonder"
+  scene:
+    mainElements: "Heavy volume bound in yellow leather sits among ordinary books, its golden spine reading 'A First Encyclopedia of Tlön Vol. XI Hlaer to Jangr', impossible weight defying its modest size, pages filled with maps of nonexistent continents and illustrations of impossible geometries"
+    details: "Dust motes dance in lamplight as scholar's trembling hands open ancient-seeming book containing descriptions of world that should not exist. Volume appears authentic and authoritative despite describing planet where idealism reigns supreme. Text includes diagrams of crystalline structures, architectural plans of buildings that cannot stand, botanical illustrations of plants following mathematical rather than biological laws"
+    background: "Simple hotel room with worn wooden furniture, single electric bulb casting harsh shadows, trunk spilling papers and mundane mathematical texts onto threadbare carpet, window showing darkened suburban street"
+    atmosphere: "Electric tension of impossible discovery, scholar's excitement mixed with cosmic dread, weight of holding fiction that claims to be fact, moment when reality becomes negotiable, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slightly above, looking down at kneeling figure"
+    focus: "The impossible yellow-bound encyclopedia volume glowing with authority in lamplight"
+    depth: "Scattered ordinary books in foreground, scholar examining impossible volume in middle ground, dark window and empty room fading into background shadows"

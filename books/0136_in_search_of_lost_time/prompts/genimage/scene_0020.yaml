@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1920s post-war present with 1900s Belle Époque past bleeding through simultaneously
+    location: Champs-Élysées boulevard showing temporal overlay of two eras
+    weather: Present day overcast sky overlaid with past period's golden afternoon light
+  characters:
+  - appearance: Modern 1920s pedestrians in simple post-war clothing walking through ghostly Belle Époque figures in elaborate
+      period dress
+    clothing: 'Present: practical suits and short skirts overlapping with past''s elaborate gowns and formal tailcoats'
+    position: Two temporal periods occupying same sidewalk space, past figures translucent but fully detailed
+    action: Modern figures walking purposefully while historical figures promenade leisurely, different temporal rhythms sharing
+      space
+  scene:
+    mainElements: 'Boulevard showing dual temporal occupancy: modern automobiles sharing space with ghostly horse-drawn carriages,
+      electric street lamps coexisting with gas lighting, contemporary shop fronts overlaid with period architecture.'
+    details: Cobblestones visible through modern asphalt. Historical café tables translucent beneath contemporary street furniture.
+      Past period's elaborate shop signs bleeding through modern commercial displays.
+    background: Arc de Triomphe constant in both periods but surrounding buildings showing temporal layers. Trees showing
+      both periods' growth stages overlapping.
+    atmosphere: Temporal permeability where past remains present through memory's power. Historical Paris coexisting with
+      modern reality, time as layered experience rather than linear progression, no text or letters visible
+  composition:
+    cameraAngle: Street level perspective showing both temporal layers equally detailed and important
+    focus: Boulevard itself as temporal stage accommodating past and present simultaneously
+    depth: All depths contain both temporal periods with equal visual weight and narrative importance
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

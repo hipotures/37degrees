@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, symbolic moment of revelation
+    location: French colonial psychiatric hospital in Algeria with sterile clinical interior contrasting peaceful exterior
+      gardens
+    weather: Harsh clinical lighting revealing hidden truths
+  characters:
+  - appearance: Middle-aged Black man in his 30s, intense penetrating gaze, intellectual demeanor emanating revolutionary
+      passion and authority
+    clothing: European dark suit or white medical coat, professional attire of a psychiatrist and theorist
+    position: Standing before large mirror showing dual reflection
+    action: Examining reflection that reveals both colonized patient and colonial doctor, understanding psychological violence
+      of system
+  - appearance: Multiple figures representing both colonial victims and perpetrators reflected in mirror
+    clothing: Various colonial period attire showing both oppressed and oppressors
+    position: Emerging from mirror reflection
+    action: Revealing how colonial system creates psychological trauma in both colonized and colonizer
+  scene:
+    mainElements: Large mirror reflecting the dual nature of colonial psychological violence, showing how system damages both
+      oppressor and oppressed
+    details: Fanon's reflection showing him simultaneously as psychiatric doctor treating colonial trauma and as colonized
+      subject experiencing it, mirror fragments revealing multiple faces of colonial violence, medical files documenting psychological
+      damage, broken glass reflecting fragmented colonial identities
+    background: Sterile clinical environment of Blida hospital where colonial psychiatric pathology becomes visible
+    atmosphere: Clinical revelation of colonial system's total psychological violence, mirror as metaphor for understanding
+      systemic trauma
+  composition:
+    cameraAngle: Direct frontal view of mirror with multiple reflected truths
+    focus: Mirror reflection revealing dual nature of colonial psychological damage
+    depth: Fanon figure in foreground, mirror reflection in middle ground, clinical setting revealing colonial pathology in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

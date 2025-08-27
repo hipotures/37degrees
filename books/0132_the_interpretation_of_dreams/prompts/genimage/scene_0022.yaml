@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1898 autumn during formal imperial funeral ceremony
+    location: Vienna cathedral and surrounding streets during state funeral, representing collective mourning
+    weather: Solemn gray autumn day appropriate to mourning ceremony
+  characters:
+  - appearance: Thousands of Viennese citizens from all social classes united in ceremonial mourning
+    clothing: Formal black mourning attire appropriate to imperial funeral, transcending usual class distinctions
+    position: Gathered in cathedral and lining streets in organized ceremonial formation
+    action: Participating in collective ritual of imperial mourning, unified by shared ceremony
+  scene:
+    mainElements: Mass gathering united by shared grief ritual, individual differences disappearing into collective ceremonial
+      experience, entire city participating in formal recognition of historical ending
+    details: Gothic cathedral interior filled with black-clad mourners, ornate funeral decorations, formal ceremony with imperial
+      regalia, streets lined with citizens observing procession. Individual faces merge into sea of shared expression, personal
+      identities subsumed into collective participation in historical moment. Rich and poor stand together in democratic grief,
+      unified by ceremonial recognition of major transition.
+    background: Solemn cathedral atmosphere with formal imperial ceremonial traditions creating sacred space for collective
+      mourning
+    atmosphere: Profound collective solidarity transcending individual differences, shared recognition of historical significance,
+      entire community unified in acknowledging end of era, democratic participation in imperial ceremony, no text or letters
+      visible
+  composition:
+    cameraAngle: Elevated perspective showing mass participation in collective ritual
+    focus: Sea of unified faces sharing same ceremonial experience regardless of individual background
+    depth: 'Foreground: individual participants losing personal identity in collective experience, Middle: formal ceremony
+      uniting all social classes, Background: architectural spaces filled with democratic participation'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

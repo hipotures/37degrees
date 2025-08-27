@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1819, evening
+    location: Corridor outside private room where family confrontation occurs
+    weather: Cold evening with minimal lighting revealing concealed drama
+  characters:
+  - appearance: Beautiful blonde with sensual, provocative beauty rather than aristocratic elegance. Always dressed in ostentatiously
+      luxurious clothing following latest fashions to display her husband's wealth
+    age: 20-25 years old approximately
+    hair: Golden blonde hair styled fashionably
+    clothing: Constantly wears newest, most expensive fashions with costly jewelry, fans, and accessories - living mannequin
+      of her banker husband's fortune
+    posture: Graceful movements that blend genuine warmth with calculated charm. Her smile often masks unhappiness and longing
+      for true acceptance and love
+    position: Inside room, visible through keyhole, desperately demanding money from father
+    action: Revealing her true mercenary nature hidden from public social performances
+  - appearance: Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale,
+      worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive
+      facial expression that shows his simple, honest nature.
+    age: 69 years old
+    hair: Originally powdered daily by barber, now thin and unkempt grey hair
+    clothing: Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts,
+      broken shoes - each piece reflecting his progressive financial decline
+    posture: Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated
+      slouuch. In final scenes, spasmatic movements as he clutches golden locket to chest
+    position: Inside room, visible through partial opening, being emotionally manipulated
+    action: Surrendering last resources to daughter's financial demands
+  scene:
+    mainElements: View from corridor reveals private family drama normally hidden from public observation - daughter's brutal
+      financial manipulation of father, his pathetic willingness to sacrifice everything, the calculated cruelty disguised
+      as filial affection in public settings.
+    details: Hidden vantage point exposes truth invisible from normal social angles - Delphine's mask of elegant daughter
+      falling away to reveal desperate gold-digger, Goriot's public dignity crumbling under private exploitation, evidence
+      of systematic financial abuse carefully concealed from outside observers.
+    background: Private interior space where true family dynamics operate without social performance or public disguise
+    atmosphere: Shocking revelation of brutal reality carefully hidden from social observation and public knowledge
+  composition:
+    cameraAngle: Through partially opened door or keyhole, showing forbidden view of private family exploitation
+    focus: Contrast between hidden reality and public performance, revealing truth normally concealed from social observation
+    depth: Concealed viewing position in foreground, brutal private exploitation in middle ground, public social spaces in
+      background where this truth remains carefully hidden, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

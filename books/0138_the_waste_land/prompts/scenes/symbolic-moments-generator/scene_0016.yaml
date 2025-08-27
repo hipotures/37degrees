@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Maze of Broken Mirrors"
+  setting:
+    time: "1922, perpetual twilight"
+    location: "Psychological landscape representing confusion and lost direction"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Labyrinth constructed entirely of tall mirror fragments, each reflecting different distorted versions of reality, paths leading in circles with no apparent exit"
+    details: "The maze walls consist of mirror shards of various sizes - some as tall as doorways, others small as handkerchiefs - all cracked and reflecting fractured images. Each mirror shows something different: some reflect empty spaces, others show scenes from memory, still others show impossible landscapes or multiple versions of the same corridor. The paths between mirrors curve and twist, creating optical illusions where straight lines appear bent. Footprints in the sand lead in circles, showing previous unsuccessful attempts at navigation."
+    background: "Sky above shows no sun or moon, just perpetual gray twilight that provides sourceless illumination"
+    atmosphere: "Profound disorientation and loss of direction, psychological state of confusion made physical, endless searching without progress, no text or letters visible"
+  composition:
+    cameraAngle: "Ground-level view through the maze corridors showing infinite reflections"
+    focus: "The endless reflections and circular paths that lead nowhere"
+    depth: "Mirror fragments and twisted paths in foreground, recursive reflections creating false depth in middle ground, gray twilight sky in background"

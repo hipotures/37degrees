@@ -1,0 +1,79 @@
+canon:
+  characters:
+    - id: "sun_tzu"
+      name: "Sun Tzu"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+            clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+            posture: "Stands with perfect military bearing, hands often clasped behind back in contemplative pose, moves with measured deliberate steps"
+    
+    - id: "king_helu"
+      name: "King Helü of Wu"
+      description_block: |
+        characters:
+          - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+            clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+            posture: "Royal bearing with chin held high, often stands with hands behind back or gestures commandingly with extended arm, quick decisive movements when agitated"
+    
+    - id: "wu_zixu"
+      name: "Wu Zixu"
+      description_block: |
+        characters:
+          - appearance: "Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes with determined expression, graying hair at temples"
+            clothing: "Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt, wears small jade pendant indicating court rank"
+            posture: "Carries himself with quiet dignity despite tragic past, often stands at slight angle as if ready to move quickly, gestures emphatically when speaking of revenge"
+
+  locations:
+    - id: "wu_palace_throne_hall"
+      name: "Wu Palace Throne Hall"
+      description_block: |
+        setting:
+          location: "Ceremonial throne hall in Wu royal palace, ancient Chinese Zhou dynasty architecture with massive wooden pillars supporting high ceiling, located in Wu capital city Gusu in eastern China"
+        mainElements: "Elevated throne platform with ornate carved wooden throne featuring dragon motifs, flanked by bronze braziers, red silk banners hanging from ceiling beams, polished wooden floor"
+        atmosphere: "Formal and imposing with warm golden light from oil lamps reflecting off lacquered pillars, scent of sandalwood incense in air"
+    
+    - id: "wu_palace_garden_courtyard"
+      name: "Wu Palace Garden Courtyard"
+      description_block: |
+        setting:
+          location: "Private royal garden courtyard within Wu palace complex, surrounded by covered walkways with upturned ceramic tile roofs, ancient Chinese architectural style"
+        mainElements: "Central stone pavilion surrounded by carefully manicured gardens with pine trees, flowering peonies in season, ornamental pond with stone bridge, gravel paths between planted areas"
+        atmosphere: "Serene and contemplative with gentle sound of water flowing, dappled sunlight through tree branches, air fragrant with garden flowers"
+    
+    - id: "han_river_crossing"
+      name: "Han River Crossing"
+      description_block: |
+        setting:
+          location: "Strategic river crossing point on Han River in central China, wide muddy river with gentle current, essential passage between Wu and Chu territories, surrounded by flat countryside"
+        mainElements: "Broad river with muddy brown water reflecting sky, marshy banks with tall reeds, wooden posts marking shallow fording points, military supply wagons and equipment on riverbank"
+        atmosphere: "Tense military anticipation with morning mist rising from water surface, sound of flowing water and creaking leather from army equipment"
+    
+    - id: "chu_capital_ying"
+      name: "Chu Capital City Ying"
+      description_block: |
+        setting:
+          location: "Fortified capital city of Chu state in central China, surrounded by high earthen walls with wooden palisades, multiple defensive gates, located in fertile river valley in modern Hubei province"
+        mainElements: "Massive defensive walls constructed of rammed earth and stone, wooden watchtowers at regular intervals, heavy timber gates reinforced with bronze fittings, dense urban settlement within walls"
+        atmosphere: "Imposing fortress city under siege conditions, smoke rising from within walls, tension of impending military action, dust stirred by movement of troops"
+
+  items:
+    - id: "bronze_strategy_scrolls"
+      name: "Bronze Strategy Scrolls"
+      description_block: |
+        details: "Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case"
+    
+    - id: "royal_war_fan"
+      name: "Royal War Fan"
+      description_block: |
+        details: "Ceremonial military command fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by generals to signal troop movements during battle"
+    
+    - id: "bronze_ritual_sword"
+      name: "Bronze Ritual Sword"
+      description_block: |
+        details: "Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority"
+    
+    - id: "military_standard_banner"
+      name: "Military Standard Banner"
+      description_block: |
+        details: "Large silk banner in deep red color with golden embroidered emblem, mounted on tall wooden pole with bronze spearpoint, used to identify military units and signal commands during battle formations"

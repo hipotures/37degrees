@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Georgian Family Ideal - Domestic Harmony Under Patriarchal Order"
+  setting:
+    time: "1792, peaceful evening with warm candlelight"
+    location: "Elegant Georgian drawing room in prosperous London home with fine furnishings and family portraits"
+    weather: "Calm evening with gentle light filtering through curtained windows"
+  characters:
+    - appearance: "Prosperous middle-aged father in fine evening dress, representing benevolent patriarchal authority"
+      clothing: "Well-tailored dark coat and waistcoat with silk stockings, powdered hair - attire of successful merchant or professional"
+      position: "Seated in wing-back chair by fireplace with newspaper and books, position of domestic authority"
+      action: "Reading serious literature while occasionally glancing approvingly at his well-ordered family"
+    - appearance: "Elegant wife in her 30s with serene expression, representing ideal of feminine domestic virtue"
+      clothing: "Fine silk gown in soft colors with modest décolletage, natural hair simply dressed - refined but not ostentatious"
+      position: "Seated on sofa with embroidery work, positioned to show deference to husband while maintaining own dignity"
+      action: "Working on delicate needlework while supervising children's evening activities"
+    - appearance: "Several children aged 5-15, boys and girls in evening dress showing good breeding"
+      clothing: "Simple but quality clothing appropriate to their station - boys in miniature versions of father's attire, girls in modest gowns"
+      position: "Gathered around mother or playing quietly near parents"
+      action: "Boys reading or discussing lessons with father, girls helping mother or practicing feminine accomplishments"
+  scene:
+    mainElements: "Comfortable drawing room with quality mahogany furniture, family portraits on walls, books and musical instruments suggesting cultural refinement"
+    details: "Warm firelight illuminates scene of domestic contentment. Mother's embroidery shows skillful work. Father's books suggest serious reading. Children's toys and school materials indicate proper education. Everything arranged to show ideal family order"
+    background: "Elegant interior details including marble mantelpiece, quality paintings, well-stocked bookshelf suggesting prosperity and cultural achievement"
+    atmosphere: "Atmosphere of peaceful domestic order, suggesting this is the natural and desirable result of proper social organization under enlightened male leadership"
+  composition:
+    cameraAngle: "Medium wide shot capturing entire family scene in their domestic setting"
+    focus: "The harmonious family group with father as clear center of authority and wisdom"
+    depth: "Foreground shows children at play and learning, middle ground shows parents in their respective roles, background suggests comfortable prosperity of well-ordered household"

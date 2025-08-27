@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Agricultural Chemical Application Sensory Overload"
+  setting:
+    time: "1962 spring, crop treatment day"
+    location: "Large agricultural field during intensive pesticide application operation"
+    weather: "Clear spring day allowing maximum chemical dispersal"
+  characters:
+    - appearance: "Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting dedication to scientific truth over corporate interests"
+      clothing: "White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating scientific profession"
+      position: "Observing from safe upwind distance, documenting chemical application effects"
+      action: "Recording environmental impact data while protecting himself from chemical exposure"
+  scene:
+    mainElements: "Crop duster aircraft creating overwhelming sensory experience with engine noise, chemical fog, and environmental disruption, researcher documenting multi-sensory chemical assault on agricultural ecosystem"
+    details: "Low-flying crop duster creating intense engine noise vibrating ground and air, massive white chemical cloud obscuring landscape and creating visual chaos, chemical mist settling on all vegetation and soil creating unnaturally shiny surfaces, absence of bird sounds suggesting wildlife displacement, researcher wearing protective mask and covering ears, chemical fog creating artificial rainbow effects in sunlight, ground vibrations from aircraft passes affecting entire ecosystem"
+    background: "Expansive agricultural landscape showing scale of chemical treatment, distant farm buildings, clear sky emphasizing visibility of chemical dispersal"
+    atmosphere: "Overwhelming technological assault on natural environment, multi-sensory chemical overload affecting entire ecosystem, industrial agriculture creating sensory chaos, no text or letters visible"
+  composition:
+    cameraAngle: "Wide dramatic shot showing aircraft and chemical cloud dominating landscape"
+    focus: "Complete sensory overload from agricultural chemical application affecting researcher and environment"
+    depth: "Foreground shows chemical settling effects, middle ground includes aircraft and researcher, background reveals scope of agricultural chemical operation"

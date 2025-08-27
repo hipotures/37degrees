@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Turning Away - Body Language of Growing Disconnection"
+  setting:
+    time: "1949, evening"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "evening darkness settling over house"
+  characters:
+    - appearance: "63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation"
+      clothing: "worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing signs of constant travel, suit wrinkled from carrying heavy sample cases"
+      position: "standing near kitchen entrance, back partially turned to family"
+      action: "gesticulating with one hand raised, speaking emphatically while avoiding direct eye contact"
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "seated at table, body turned away from standing figure"
+      action: "arms crossed defensively, head turned aside, refusing to engage in conversation"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, family confrontation in domestic space"
+    details: "Distance between two family members showing emotional gulf. One chair pushed back from table suggesting someone has stood up abruptly during tense conversation. Kitchen lighting creating harsh shadows between the two figures."
+    background: "kitchen extending toward living room entrance, stairs leading to upper floor where other family members may be listening, domestic space becoming arena for family conflict"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, family harmony breaking down into separate worlds of frustration"
+  composition:
+    cameraAngle: "medium shot from side angle, capturing both figures and distance between them"
+    focus: "body language showing rejection and defensive positioning, two people in same room but emotionally isolated"
+    depth: "foreground shows physical space between family members, middle ground captures defensive postures and turned backs, background reveals domestic setting that should unite but instead divides"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1949, early morning
+    location: small fragile-looking wooden house in Brooklyn, New York, surrounded by towering angular apartment buildings
+      that cast oppressive shadows, feeling of being trapped and enclosed
+    weather: overcast morning with heavy gray clouds pressing down
+  characters:
+  - appearance: 63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked
+      by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation
+    clothing: worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing
+      signs of constant travel, suit wrinkled from carrying heavy sample cases
+    position: standing in doorway of house, silhouetted against interior light
+    action: gripping door frame with one hand, other hand holding two large worn leather suitcases with metal corners, pausing
+      as if gathering strength to enter
+  scene:
+    mainElements: modest two-story frame house with weathered siding, small front yard with struggling plants, apartment towers
+      looming on all sides like walls of a canyon, man frozen in threshold moment
+    details: two large worn leather suitcases with metal corners and leather handles darkened by years of grip, containing
+      product samples for sales calls, cases show scratches and wear from constant travel, heavy burden both literal and symbolic.
+      Door threshold creating symbolic boundary between outer world of work and inner sanctuary of home. Struggling plants
+      in yard mirror human struggle for growth in hostile environment.
+    background: towering angular apartment buildings creating canyon-like enclosure, windows of neighboring buildings suggesting
+      watching eyes, urban landscape pressing inward
+    atmosphere: oppressive and claustrophobic, orange glow from city lights creates harsh illumination while blue light from
+      sky provides only faint relief, sense of urban pressure closing in, morning stillness heavy with unspoken dread
+  composition:
+    cameraAngle: medium shot from slightly below, emphasizing looming buildings and man's small stature
+    focus: exhausted figure silhouetted in doorway, weighted down by cases and invisible burdens
+    depth: foreground shows weathered house entrance, middle ground focuses on burdened man, background filled with oppressive
+      apartment towers creating walls of urban canyon
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1962 late spring, midday
+    location: Suburban flower garden before neighborhood pesticide treatments begin
+    weather: Warm sunny day perfect for flower blooming and bee activity
+  characters:
+  - appearance: Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism,
+      age varying by scene context
+    clothing: Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business
+      attire, children in simple play clothes
+    position: Kneeling beside flower bed, tending to blooming plants
+    action: Caring for flowers while observing active bee population, unconscious deep breathing suggesting rich floral fragrances
+  scene:
+    mainElements: Abundant flower garden at peak bloom with multiple bee species actively collecting nectar, gardener taking
+      unconscious deep breaths suggesting rich natural fragrances, flowers showing perfect health before chemical treatments
+    details: Roses, lavender, and wildflowers in full spectacular bloom creating natural color palette, dozens of bees moving
+      between flowers in complex pollination dance, gardener's relaxed posture and deep breathing suggesting intoxicating
+      floral perfumes, pollen visible on bee bodies indicating active flower interaction, morning dew still clinging to petals
+      enhancing natural fragrance release, no signs of chemical intervention or pest control
+    background: Archetypal small American town in heartland, white clapboard houses with front porches, red gambrel-roofed
+      barns, manicured gardens, tree-lined streets representing American dream of harmony with nature
+    atmosphere: Natural paradise of floral abundance and pollinator activity, pure ecological relationship before chemical
+      disruption, celebration of natural perfumes and garden beauty, no text or letters visible
+  composition:
+    cameraAngle: Low angle showing flowers from bee perspective with human caretaker
+    focus: Active relationship between flowers, bees, and human appreciation of natural fragrances
+    depth: Immediate foreground shows detailed flower and bee interaction, middle ground includes gardener, background suggests
+      broader suburban garden context
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

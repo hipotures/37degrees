@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Control Through Fear - Guards on Every Corner"
+  setting:
+    time: "1513, late evening"
+    location: "City streets after curfew with armed patrols"
+    weather: "Dark night with flickering torchlight"
+  characters:
+    - appearance: "Armed guards in military gear patrolling empty streets"
+      clothing: "Complete plate armor in Milanese style characterized by smooth, rounded surfaces designed to deflect blows. Gleaming steel with possible decorative etching, gilding, and embossed ancient motifs like lion heads or mythological scenes."
+      position: "Moving in formation through streets, stationed at key intersections"
+      action: "Enforcing curfew, questioning late travelers, demonstrating state's monopoly on violence"
+  scene:
+    mainElements: "Empty streets patrolled by armed forces. Torches and braziers providing pools of light that create dramatic shadows. Shuttered windows suggesting citizens hiding inside homes."
+    details: "Various weapons on display - pikes, swords, arquebuses creating atmosphere of threat. Official proclamations posted on walls declaring martial law or emergency powers. Evidence of recent arrests - broken doors, scattered possessions."
+    background: "Darkened city with only patrol lights visible. Churches and civic buildings looming in darkness. Sound of marching boots echoing off stone walls."
+    atmosphere: "Climate of fear where state controls movement through threat of violence. Citizens imprisoned in their homes by nighttime martial law."
+  composition:
+    cameraAngle: "Ground-level shot emphasizing imposing presence of guards"
+    focus: "Armed patrol as symbol of state's violent control over citizen movement"
+    depth: "Foreground shows weapon details, middle ground centers on guard formation, background reveals empty, controlled streets"

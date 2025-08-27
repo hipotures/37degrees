@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1911, morning
+    location: Traditional Chinese courtyard house (siheyuan) of wealthy Chao clan, center of power in Weizhuang village
+    weather: Bright morning light emphasizing architectural grandeur
+  characters: No characters present in this scene
+  scene:
+    mainElements: Imposing vermillion red gate of traditional Chinese compound, flanked by stone lions and ornate carvings.
+      High grey brick walls topped with curved tiles stretch in both directions, creating fortress-like barrier
+    details: Intricate door gods painted on gate panels, brass door knockers polished to gleaming, stone threshold worn smooth
+      by generations of visitors. Red paper with auspicious characters pasted beside entrance. Heavy wooden doors reinforced
+      with iron studs stand closed and forbidding
+    background: Glimpse of inner courtyard through partially open gate shows stone paving, ornamental plants in ceramic pots,
+      and shadowy doorways leading to inner chambers
+    atmosphere: Overwhelming sense of power, tradition, and exclusivity. The architecture itself communicates social hierarchy
+      and warns common people of their place. The red color symbolizes imperial authority while the closed gates suggest secrecy
+      and inaccessibility
+  composition:
+    cameraAngle: Low angle looking up at the imposing gate structure
+    focus: The massive red gate as symbol of institutional power and social barriers
+    depth: Foreground emphasizes the threshold and gate details, middle ground shows the gate's full height and grandeur,
+      background hints at the mysterious compound interior
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

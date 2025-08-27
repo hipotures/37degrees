@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1839 wedding ceremony to 1882 funeral service, daylight to somber afternoon
+    location: St. Mary's Church Downe village, Kent countryside, England
+    weather: Bright January wedding day becoming overcast April funeral day
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: At church altar in both ceremonies, young groom overlaid with elderly deceased
+    action: Young Darwin taking wedding vows becoming memorial service honoring his life's work
+  - appearance: Gentle English lady in her forties to fifties, average height 165cm, matronly figure softened by childbearing,
+      light brown hair graying at temples and pinned in neat Victorian chignon, warm brown eyes with kind expression, pleasant
+      round face with gentle smile
+    clothing: 'Modest Victorian lady''s dress: dark blue or brown woolen day dress with high neckline, white lace collar,
+      small cameo brooch, white cotton apron when in kitchen, delicate shawl over shoulders, simple black boots'
+    position: Young bride at altar becoming elderly widow in front pew
+    action: Emma in white wedding dress overlaid with same woman in black mourning dress
+  scene:
+    mainElements: Village church interior with stone arches, wooden pews, stained glass windows, altar with flowers
+    details: 'Church interior showing temporal continuity: same stone architecture with slight weathering over decades, wooden
+      pews gaining patina from decades of worship, altar flowers changing from white wedding blooms to dark funeral arrangements,
+      congregation shifting from young wedding guests to elderly funeral attendees, same stained glass windows casting colored
+      light but in different seasons, church register showing entries from wedding to burial, memorial plaques on walls increasing
+      over time, no text or letters visible on headstones or plaques'
+    background: Village of Downe visible through church windows showing growth from rural hamlet to more established community,
+      same pastoral landscape with maturing trees
+    atmosphere: Sacred continuity of human life cycle within church community, celebration of beginning becoming honor of
+      completion, village church as witness to full life lived
+  composition:
+    cameraAngle: From rear of church looking toward altar showing both ceremonies
+    focus: The altar as focal point for both celebration and commemoration
+    depth: 'Foreground: congregation across time periods, middle: church interior spanning decades, background: altar with
+      seasonal flowers'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

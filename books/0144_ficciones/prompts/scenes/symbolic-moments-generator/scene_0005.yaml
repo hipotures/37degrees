@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Knife's Ancient Contract"
+  setting:
+    time: "1940s Argentina, twilight hour"
+    location: "Remote country store and tavern on endless Argentine pampas plains, isolated outpost in grassland"
+    weather: "Clear evening with first stars appearing, gentle wind across prairie grass"
+  characters:
+    - appearance: "Middle-aged librarian 40-50 years, pale complexion typical of city intellectual, medium build slightly soft from sedentary life, wearing spectacles, weakened and gaunt after recent illness"
+      clothing: "City gentleman's attire: wool suit and overcoat unsuitable for countryside, formal shoes, clothing marking him as outsider in rural setting"
+      position: "Standing frozen in tavern doorway, staring down at knife embedded in earthen floor"
+      action: "Hesitating at threshold between civilization and primitive honor code, hand trembling"
+    - appearance: "Very old man, small and dried like desert earth, dark weathered face deeply lined, existing outside time in eternal quality, embodiment of mythical South"
+      clothing: "Traditional worn gaucho attire: loose bombachas pants, high leather boots, woolen poncho with geometric patterns, wide-brimmed hat, leather belt with silver buckle and sheathed knife"
+      position: "Sitting in corner shadows of tavern, watching with ancient eyes"
+      action: "Having thrown the knife, now waiting with fatalistic patience for destiny to unfold"
+  scene:
+    mainElements: "Long straight-bladed facón knife stands upright in packed earth floor, sharp steel gleaming in oil lamp light, handle of bone and dark leather still vibrating slightly from impact, blade perfectly vertical as if marking sacred boundary between worlds"
+    details: "Knife represents choice between comfortable urban life and authentic violent death according to ancient gaucho code. Weapon appears both tool and totem, its presence transforming humble tavern into arena of honor. Oil lamp flame flickers, casting dancing shadows that make blade seem alive with ancestral spirits"
+    background: "Simple tavern interior with white adobe walls blackened by smoke, wooden bar counter, rough tables and stools, iron-barred window showing endless pampas, guitar leaning silent in corner"
+    atmosphere: "Fatalistic tension and inevitable violence hanging in smoky air, weight of ancient traditions demanding blood sacrifice, moment of truth where man must choose his authentic nature, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle shot from floor level looking up at knife with figures on either side"
+    focus: "The upright knife blade gleaming in lamplight as symbol of inescapable destiny"
+    depth: "Embedded knife in immediate foreground, hesitant city man in middle ground, ancient gaucho watching from background shadows"

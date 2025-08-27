@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era in timeless underworld realm
+    location: Banks of river Acheron with supernatural ferryman's boat
+    weather: Supernatural mists and otherworldly atmosphere beyond mortal weather
+  characters:
+  - appearance: ancient ferryman with terrifying supernatural authority
+    clothing: tattered robes stained by ages of underworld service
+    position: standing in boat with long oar while examining living passengers
+    action: scrutinizing mortal visitors with eyes blazing supernatural fire while deciding their fate
+  scene:
+    mainElements: Dark supernatural river flowing through underworld caverns, ancient boat constructed for spiritual transport,
+      crowds of souls waiting on misty banks
+    details: Supernatural waters reflecting otherworldly light, boat crafted from unknown materials and ancient beyond measure,
+      oar worn smooth by endless centuries, souls of dead reaching desperately toward transport, mist swirling with spiritual
+      energy, golden bough glowing with divine authorization
+    background: Vast underworld caverns extending beyond vision, other regions of afterlife visible through supernatural mists,
+      entrance to deeper underworld realms
+    atmosphere: Supernatural threshold requiring divine permission, ancient authority predating mortal civilization, fear
+      and wonder at otherworldly power
+  composition:
+    cameraAngle: POV shot from boat seeing supernatural ferryman's perspective on mortal passengers
+    focus: Divine golden bough glowing as key to underworld passage while supernatural authority evaluates living souls
+    depth: Glowing golden bough and divine authorization in immediate foreground, supernatural ferryman in middle distance,
+      vast underworld realms in mysterious background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

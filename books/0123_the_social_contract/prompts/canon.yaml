@@ -1,0 +1,121 @@
+canon:
+  characters:
+    - id: "jean_jacques_rousseau"
+      name: "Jean-Jacques Rousseau"
+      description_block: |
+        characters:
+          - appearance: "50-year-old man with pensive, pociągła face marked by intense, restless dark eyes. Ciemne włosy with signs of silvering, worn without powdered wig contrary to period fashion. High forehead, straight nose, full lips set in expression of deep contemplation. Build is średni height and rather szczupły but sturdy frame"
+            clothing: "Distinctive Armenian-style attire: long, loose caftan robe in violet-purple heavy material with dark fur trim at collar and cuffs. Simple white linen shirt underneath with small collar. Soft, round black fur cap on head. This unconventional dress is deliberate rejection of Parisian fashion"
+            posture: "Often shown with right hand pressed firmly to chest in gesture of sincerity and conviction. Movements are energetic and sometimes impulsive when explaining ideas, contemplative when reflecting"
+
+    - id: "the_sovereign" 
+      name: "The Sovereign (Suweren)"
+      description_block: |
+        characters:
+          - appearance: "Eternal, timeless being manifesting as colossal luminous figure composed of thousands of semi-transparent citizen silhouettes in constant harmonious motion within. Alternative appearance: majestic androgynous figure in neoclassical style reminiscent of Roman goddess Roma or Athena, with serene face expressing calm strength and impartial justice"
+            clothing: "Simple white heavy toga or peplos in Greco-Roman style, draped in classical folds. No crown as symbol of monarchical power. Garment emphasizes dignity and republican virtue over royal luxury"
+            posture: "Movements are slow, dignified, and inevitable. When enacting law, gestures are final and irrevocable. Stands with authority that comes from collective will of all citizens"
+
+    - id: "general_will"
+      name: "The General Will (Wola Powszechna)" 
+      description_block: |
+        characters:
+          - appearance: "Semi-transparent, genderless figure with indistinct features, or manifestation as pure column of intense light. When visible as figure, tall and slender with face veiled or featureless to emphasize impersonal and universal character"
+            clothing: "Simple gray, shapeless robe, or appears as immaterial being of light without physical form. When robed, garment is utterly plain without decoration"
+            posture: "Never speaks directly. Will manifests through actions of Sovereign. Movements are measured and impartial. Blindfolded like Justice personification to show absolute neutrality. Holds perfectly balanced scales"
+
+    - id: "the_legislator"
+      name: "The Legislator (Prawodawca)"
+      description_block: |
+        characters:
+          - appearance: "Ancient-seeming elder with long silver beard and hair. Tall, dignified bearing despite advanced age. Face is deeply lined but eyes remain sharp and penetrating. Resembles Old Testament prophets like Moses or ancient lawgivers like Solon"
+            clothing: "Heavy, coarse tunic in earth tones - brown or gray rough-woven fabric. Barefoot to symbolize connection with earth and common people. No ornaments or symbols of power beyond simple wooden staff"
+            posture: "Carries simple wooden staff or stone tablets inscribed with fundamental laws. Speaks with powerful but calm voice. After completing mission of giving laws to people, turns and departs, disappearing into distance"
+
+    - id: "natural_man"
+      name: "Natural Man (Człowiek Pierwotny)"
+      description_block: |
+        characters:
+          - appearance: "Adult man around 30 years old with strong, healthy, agile body shaped by nature rather than exercise or fashion. Sun-tanned skin, long unkempt hair and beard. Direct, uncomplicated gaze free from social cunning and calculation"
+            clothing: "Minimal attire of animal skins around waist or complete nudity. No jewelry or ornaments of any kind. Completely self-sufficient without artificial aids"
+            posture: "Moves with natural grace and self-confidence like wild animal in its environment. Actions are simple and direct, driven by basic needs and instincts of self-preservation and natural pity"
+
+    - id: "the_citizen"
+      name: "The Citizen (Obywatel)"
+      description_block: |
+        characters:
+          - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+            clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+            posture: "During assemblies holds voting tablets or stones for casting into urns. Collective strength symbolized by image of fasces - bundle of rods representing unity giving strength to political community"
+
+    - id: "the_aristocrat"
+      name: "The Aristocrat (Arystokrata)"
+      description_block: |
+        characters:
+          - appearance: "Person aged 25-60 with smooth powdered face showing haughty or bored expression. Posture is stiff and studied according to court etiquette requirements. Represents corruption of Ancien Régime"
+            clothing: "Extravagant Rococo-style dress - man in bright silk justaucorps coat, lace shirt, knee-length culottes, silk stockings, powdered wig. Woman in enormous panniers-supported gown with tightly laced corset and elaborate coiffure. Clothing is uncomfortable and restricting but displays status"
+            posture: "Carries ornate snuffbox, decorative walking stick, fan. Movements are artificial and constrained by fashion. Represents visual contrast to simplicity and virtue of Natural Man and Citizen"
+
+  locations:
+    - id: "parisian_salon"
+      name: "Parisian Salon (18th century)"
+      description_block: |
+        setting:
+          location: "Interior of aristocratic hôtel particulier in Paris, France during 1760s Enlightenment period"
+        mainElements: "Rococo-style interior with intricately carved boiseries featuring asymmetrical shell and floral motifs, gilded surfaces, crystal chandeliers, numerous mirrors in gold frames"
+        atmosphere: "Warm flickering candlelight multiplied in mirrors, soft sounds of refined conversation, rustle of silk dresses, clink of porcelain teacups, delicate harpsichord music. Air filled with expensive perfumes and beeswax polish. Space of luxury and social gaming but also artificiality and enclosure"
+
+    - id: "genevan_council_chamber"
+      name: "Genevan Council Chamber (idealized)"
+      description_block: |
+        setting:
+          location: "Idealized interior inspired by republican austerity, based on Neoclassical principles representing Geneva as Rousseau envisioned it"
+        mainElements: "Simple geometric forms emphasizing symmetry and order. Walls lined with dark polished wood paneling or smooth plaster in muted colors. Sparse decoration limited to classical motifs like laurel wreaths and simple cornices"
+        atmosphere: "Natural sharp light entering through tall rectangular unadorned windows. Functional iron candlesticks for evening illumination. Sounds of silence broken by formal, carefully weighed speeches. Scent of old wood and paper. Space of public debate focused on civic duty rather than private entertainment"
+
+    - id: "state_of_nature"
+      name: "State of Nature (Hypothetical Primordial Landscape)"
+      description_block: |
+        setting:
+          location: "Vast untouched wilderness or prehistoric plains representing pre-social condition of humanity"
+        mainElements: "Extensive primeval forest with ancient trees, lush undergrowth, crystal-clear streams. No roads, buildings, cultivated fields - no traces of civilization whatsoever. Landscape is majestic but not threatening, resembling Eden before the Fall"
+        atmosphere: "Deep, almost absolute silence broken only by natural sounds - bird songs, wind in leaves, flowing water, calls of wild animals. Air is fresh and pure. Natural lighting from sun filtering through forest canopy, golden dawn and sunset light, mysterious silver moonlight, white morning mist over clearings"
+
+    - id: "republic_forum"
+      name: "Forum of the Allegorical Republic"
+      description_block: |
+        setting:
+          location: "Central public square of ideal small city-state inspired by Geneva and ancient Sparta, designed according to Neoclassical principles"
+        mainElements: "Monumental Neoclassical architecture built from white or light gray stone (marble, granite). Clean austere style characterized by symmetry, harmonic proportions, straight lines, colonnades in Doric or Tuscan order, smooth walls without excessive ornamentation"
+        atmosphere: "Bright, clear, almost shadowless sunlight symbolizing reason, transparency and openness of public life. Pure colors - white stone, blue sky, possibly red banners symbolizing readiness for patriotic sacrifice. Sounds of organized civic activity - formal voting procedures, public declarations of laws, youth choirs during civic festivals"
+
+  items:
+    - id: "chains_shackles"
+      name: "Chains and Shackles (Les Fers)"
+      description_block: |
+        details: "Central visual motif appearing literally as iron manacles on peasants' wrists or metaphorically as tight corsets of aristocracy, golden chains of wealth binding both poor and rich. Can be crude iron fetters or ornate golden bonds, representing various forms of illegitimate enslavement"
+
+    - id: "fasces"
+      name: "Lictor's Rods (Fasces)"
+      description_block: |
+        details: "Bundle of birch rods bound with leather straps, sometimes including axe head. Roman symbol representing power flowing from unity of citizens and legitimate authority of state. Single rod can be easily broken, but bundle bound together creates powerful force. Attribute of Sovereign and republican magistrates"
+
+    - id: "scales_of_justice"
+      name: "Scales of Justice"
+      description_block: |
+        details: "Perfectly balanced bronze or stone scales symbolizing impartiality, justice and equilibrium between competing interests. Attribute of General Will, emphasizing absolute neutrality in determining common good versus particular interests"
+
+    - id: "stone_tablets"
+      name: "Stone Law Tablets"
+      description_block: |
+        details: "Heavy stone tablets inscribed with fundamental laws of the state. Symbolize permanence and foundational character of law as expression of general will. Attribute of Legislator and Sovereign, representing immutable principles of political right"
+
+    - id: "voting_urn"
+      name: "Voting Urn"
+      description_block: |
+        details: "Large stone urn used for casting votes in citizen assemblies. Symbol of active citizenship and direct democracy. Citizens drop white stones (yes votes serving common good) or black stones (no votes motivated by private interest) to discover general will through collective deliberation"
+
+    - id: "plow"
+      name: "Agricultural Plow"
+      description_block: |
+        details: "Simple wooden plow symbolizing honest agricultural labor idealized by Rousseau as basis of healthy, virtuous society in contrast to corrupt urban life. Represents connection to earth and honest work that forms moral foundation of republic"

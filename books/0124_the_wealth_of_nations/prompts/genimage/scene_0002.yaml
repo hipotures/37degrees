@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1776, afternoon golden light
+    location: Public square in London with monument to British commerce
+    weather: Bright autumn day with golden sunlight
+  characters:
+  - appearance: Well-dressed citizens in Georgian attire, mix of merchants and middle class, looking prosperous and confident
+    clothing: Quality wool coats in dark colors, tricorn hats, respectable middle-class dress of the era
+    position: gathered around imposing statue celebrating British trade
+    action: admiring monument while discussing business prospects with animated gestures
+  scene:
+    mainElements: Large bronze statue depicting allegorical figures of British Commerce and Industry, holding symbols of trade
+      and manufacturing, surrounded by carved representations of colonial goods and ships, pedestal inscribed with tribute
+      to national prosperity
+    details: Monument base shows relief carvings of sugar barrels, tobacco leaves, tea chests, and manufactured goods, representing
+      colonial trade wealth. Inscription reads tribute to British commercial supremacy. Well-dressed merchants and their families
+      stand admiring, some children playing nearby, suggesting general prosperity and confidence in the system
+    background: Elegant Georgian town houses surrounding square, other monuments visible, busy but orderly urban scene suggesting
+      stable commercial society
+    atmosphere: Public celebration of commercial success, confidence in British economic system, sense of national pride in
+      mercantile achievements masking underlying problems
+  composition:
+    cameraAngle: Medium shot capturing both monument and admiring citizens
+    focus: Bronze statue celebrating commerce with approving citizens gathered around base
+    depth: Monument dominates middle ground with citizens in foreground, Georgian architecture frames background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

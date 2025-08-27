@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: Busy European quarter street in French colonial Algiers
+    weather: Hot Mediterranean afternoon with intense sunlight
+  characters:
+  - appearance: Young man aged 20-30 years, face often in shadow or seen from distance, lean build
+    clothing: Blue worker's coveralls, simple clothing suitable for manual labor
+    position: Sitting or lying in shade of large rock, often motionless
+    action: Remaining still, occasionally reaching for knife, mostly observed from afar
+  scene:
+    mainElements: Colonial street scene with clear division between European and Arab quarters, Raymond observing group of
+      Arab men with hostile suspicion
+    details: Arab men gathering in small group, speaking in Arabic which Raymond cannot understand, their working-class clothing
+      marking them as laborers, afternoon shadows creating areas of concealment. Street architecture showing colonial period
+      construction with clear social segregation.
+    background: European colonial buildings with characteristic architecture, clear social boundaries visible in urban planning,
+      sounds of different languages and cultures coexisting tensely
+    atmosphere: Raymond's paranoid view of Arabs as unified threat against European colonists, harsh afternoon light emphasizing
+      cultural and racial divisions
+  composition:
+    cameraAngle: Medium wide shot from Raymond's perspective viewing Arabs as dangerous group
+    focus: Group of Arab men seen as threatening collective rather than individuals
+    depth: Foreground shows Raymond's position in European quarter, middle ground shows Arab men in their area, background
+      shows colonial city architecture with clear divisions, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

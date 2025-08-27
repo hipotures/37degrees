@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Handkerchief of False Modesty"
+  setting:
+    time: "1660s France, mid-morning"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "bright clear morning with natural light filling room"
+  characters:
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "standing with exaggerated recoil from Dorine, averting eyes in theatrical disgust"
+      action: "pulling white linen handkerchief from pocket with elaborate gesture of shock, extending it toward Dorine while turning face away as if pained by sight of her neckline"
+    - appearance: "sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with bright alert eyes, practical manner, brown hair completely concealed under white linen cap"  
+      clothing: "plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments"
+      position: "standing with hands planted firmly on hips in defiant stance"
+      action: "staring at handkerchief with open contempt and amusement, making no move to take it while delivering cutting response about his hypocrisy"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, large wooden crucifix mounted on wall above fireplace, leather-bound prayer books on side table"
+    details: "bright morning light exposing every detail of this ridiculous confrontation, religious artifacts arranged prominently creating ironic backdrop for false piety, expensive furnishings witnessing moral theater"
+    background: "doorways through which other family members might appear to witness this absurd scene, family portraits looking down on domestic comedy"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, comedic tension as false sanctity meets practical skepticism"
+  composition:
+    cameraAngle: "medium shot focusing on the handkerchief exchange and character reactions"
+    focus: "white handkerchief as symbolic prop in battle between Tartuffe's performed virtue and Dorine's authentic moral clarity"
+    depth: "foreground capturing absurd moral theater, middle ground showing religious artifacts as ironic commentary, background suggesting household watching this comedy of manners"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Feast and Famine"
+  setting:
+    time: "1911, dinner hour"
+    location: "Split view showing interior of Chao compound dining hall and exterior poor district simultaneously"
+    weather: "Evening light filtering through windows and cracks"
+  characters:
+    - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+      clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+      position: "Seated at laden table in ornate dining hall"
+      action: "Eating elaborate meal with porcelain chopsticks, servants attending his every need"
+    - appearance: "Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny ringworm scars on scalp that turn scarlet red when angry or humiliated"
+      clothing: "Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven cloth typical of rural laborers"
+      position: "Crouched outside hovel, searching through scraps"
+      action: "Examining handful of turnips stolen from monastery garden, calculating if they will last another day"
+  scene:
+    mainElements: "Dramatic split composition showing simultaneous banquet and starvation separated by compound wall. Ornate dining hall with carved furniture contrasts with bare earth and makeshift shelter"
+    details: "Multiple dishes, wine cups, silk napkins on wealthy side. Stolen vegetables, cracked bowls, dirty water on poor side. The wall between them seems to pulse with moral significance"
+    background: "Servants bringing more food to the wealthy while poor children press against walls hoping for scraps"
+    atmosphere: "Grotesque moral contradiction made visible. The abundance and waste of the wealthy gains obscene quality when contrasted with desperate hunger mere steps away. System that creates such extremes is exposed as fundamentally unjust"
+  composition:
+    cameraAngle: "Split screen or through-wall perspective showing both scenes simultaneously"
+    focus: "The moral contrast between excess and want, with the wall as symbol of the system that maintains this division"
+    depth: "Foreground shows the hungry poor with their meager food, middle ground captures the separating wall, background reveals the feasting wealthy in their luxury"

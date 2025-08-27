@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Timeless era, dawn breaking
+    location: Circular stone temple ruins in dense malarial jungle beside muddy river, ancient pre-Columbian sacred site
+    weather: Humid dawn with mist rising from river, gentle rain beginning to fall
+  characters:
+  - appearance: Ageless figure appearing 50-60 years old, lean ascetic build, weathered face from sun and hardship, long gray
+      hair and beard unkempt from solitude, eyes of extraordinary intensity focused inward, deeply lined skin
+    clothing: Simple worn gray cloth tunic or loincloth, barefoot, garments weathered by elements and time, no ornamentation
+      or jewelry
+    position: Lying prostrate before carved stone tiger statue in center of circular plaza
+    action: Deep in trance-like sleep, body perfectly still, breathing in rhythm with cosmic forces
+  scene:
+    mainElements: Massive stone tiger statue carved from single block of dark stone, eyes hollow yet seeming to watch, fanged
+      mouth forever open in silent roar, weathered by centuries but maintaining divine authority, surrounded by circle of
+      broken stone columns marking sacred boundary
+    details: Ancient carving shows tiger in moment of eternal pounce, muscles tensed in stone forever, rain beginning to darken
+      its surface. Circular ruins form perfect geometry even in decay, stone blocks fitted so precisely that jungle vines
+      cannot penetrate joints. Tiger's eyes are deep shadows that seem to hold intelligence, mouth carved to suggest both
+      destruction and creation
+    background: Dense green jungle pressing against ruins, mist rising from muddy river beyond temple walls, broken steps
+      leading down to water, carved stone platforms overgrown with moss, filtered dawn light through canopy
+    atmosphere: Sacred timelessness and divine presence, jungle sounds muffled by mist and reverence, sense of cosmic forces
+      converging on this spot, ancient power sleeping in stone, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot from ground level looking up at tiger statue with prone figure
+    focus: The stone tiger's intense carved gaze and powerful frozen form
+    depth: Prostrate dreamer in foreground, dominant tiger statue in middle ground, misty jungle ruins fading into atmospheric
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

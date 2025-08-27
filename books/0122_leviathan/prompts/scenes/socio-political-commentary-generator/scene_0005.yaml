@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monument of Absolute Power - The State Building"
+  setting:
+    time: "1651, dramatic sunset hour"
+    location: "Parliament House or Royal Palace complex, Westminster, London, architectural symbol of sovereign authority"
+    weather: "Clear evening with dramatic golden light"
+  characters:
+    - appearance: "Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority, stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard"
+      clothing: "Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather boots, crown of heavy gold or iron symbolizing weighty authority"
+      position: "Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which the state revolves"
+      action: "One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without personal emotion"
+  scene:
+    mainElements: "Massive government building dominating the skyline, imposing architecture with towers and fortified walls, state flags flying from multiple points, small figures of citizens dwarfed by the structure"
+    details: "Gothic and baroque architectural elements combined, heavy stone construction suggesting permanence, royal heraldry carved into facades, guards stationed at entrances. Large two-handed 17th century ceremonial sword with steel blade prominently displayed as architectural ornament. Bishop's crosier made of dark iron matching the sword visible in heraldic designs."
+    background: "London cityscape spreading below, Thames River reflecting the building's imposing silhouette, other structures appearing small in comparison"
+    atmosphere: "Overwhelming sense of state power and permanence, dramatic lighting emphasizing architectural dominance, citizens appearing insignificant against governmental might"
+  composition:
+    cameraAngle: "Low angle emphasizing the building's imposing height and dominance"
+    focus: "The massive government structure as symbol of absolute sovereign power"
+    depth: "Foreground shows small human figures for scale, middle displays the building's full majesty, background shows the city under its shadow"

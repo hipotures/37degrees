@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Erasure of Identity"
+  setting:
+    time: "1911, midday"
+    location: "Village barber shop in Weizhuang where traditional hairstyles are enforced"
+    weather: "Bright daylight streaming through open shop front"
+  characters:
+    - appearance: "Multiple village men of various ages waiting in line"
+      clothing: "Simple work clothes in muted colors"
+      position: "Standing in orderly queue, heads uniformly showing identical mandatory hairstyle pattern"
+      action: "Waiting patiently to maintain regulation appearance, discussing the importance of proper grooming in subdued voices"
+    - appearance: "Traditional Chinese barber with precise movements"
+      clothing: "Simple work apron over regular clothes"
+      position: "Working on customer in barber chair"
+      action: "Carefully shaving front of man's head while preserving queue, following exact governmental regulations for approved appearance"
+  scene:
+    mainElements: "Traditional barber shop with simple wooden chair, mirrors, and shaving implements. Walls display official posters showing approved hairstyles and government regulations regarding personal appearance"
+    details: "Traditional Manchu-imposed hairstyle with front of head shaved and remaining hair braided into long braid down back. Political symbol of loyalty to Qing Dynasty. Multiple queues hanging like trophies, all identical in style and maintenance"
+    background: "Government notices about appearance requirements, official seals approving the establishment, queue hair clippings swept into neat piles"
+    atmosphere: "Personal appearance as political statement enforced through daily ritual. Individual expression eliminated through mandated conformity. The most intimate aspect of identity - physical appearance - controlled by state power"
+  composition:
+    cameraAngle: "Interior view showing both the process of hair styling and the waiting men with identical results"
+    focus: "The barber's precise work creating uniformity and the line of men already showing identical appearance"
+    depth: "Foreground shows the barber enforcing regulations, middle ground captures men undergoing transformation, background reveals others who have already been standardized"

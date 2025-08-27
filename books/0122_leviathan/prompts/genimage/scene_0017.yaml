@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1651, evening mass gathering
+    location: Large public assembly space in London for state political events
+    weather: Clear evening with dramatic torch lighting
+  characters:
+  - appearance: Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority,
+      stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard
+    clothing: Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather
+      boots, crown of heavy gold or iron symbolizing weighty authority
+    position: Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which
+      the state revolves
+    action: One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without
+      personal emotion
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Massive crowd gathered before elevated platform where state officials deliver political doctrine, thousands
+      of faces turned upward in identical expressions of receptive attention, banners and symbols creating overwhelming visual
+      unity
+    details: Sea of citizens with uniform expressions of absorbed attention, all facing same direction toward speakers, torches
+      creating dramatic lighting effects, state banners creating visual rhythm across the assembly. Large two-handed ceremonial
+      sword prominently displayed on platform. Heavy solid crown symbols repeated throughout decorative elements.
+    background: Vast assembly space designed to accommodate mass gatherings, architectural elements directing attention toward
+      central platform, state symbols integrated into structural design
+    atmosphere: Collective absorption of political messaging, powerful sounds of unified response, individual identity dissolved
+      in mass political emotion
+  composition:
+    cameraAngle: High wide shot showing the scale of mass political gathering
+    focus: The systematic indoctrination of masses through political spectacle
+    depth: Foreground shows individual faces in crowd, middle displays the vast assembly, background reveals controlling architecture
+      and official platform
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

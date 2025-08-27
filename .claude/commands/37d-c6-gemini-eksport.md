@@ -92,7 +92,18 @@ Jeśli operacja się nie udała, wróć do punktu 1 w tym kroku i ponów operacj
 
 ---
 
-### Krok 5: Pobranie dokumentu jako TXT
+### Krok 5: Zmień nazwę pliku
+Nazwę pliku należy zmienić na [BOOK_FOLDER]  (Przykładowo 0001_alice_in_wonderland - rozszerzeniem pliku nie nalezy się przejmować, bedzie zachowane aktualne))
+
+Są dwie możliwości zmiany nazwy pliku:
+ - Poprzez klikniecie w aktualną nazwę (zwyle jest to nazwa zawierająca wyrazy "streszczenie" i/lub "wizualizacja".
+   Po kliknieciu w nazwę należy ją zazanczyć Ctlr+a i wpisać nową
+albo
+ - Poprzez menu -> Plik (clik) -> Zmień nazwę (click). Stara nazwa będzie już zaznaczona, wystarczy wpisać nową.
+
+---
+
+### Krok 6: Pobranie dokumentu jako TXT
 
 1. **Przełącz na nową kartę Google Docs**
    - Użyj: `browser_tab_select` z indeksem `1`
@@ -105,7 +116,7 @@ Jeśli operacja się nie udała, wróć do punktu 1 w tym kroku i ponów operacj
 
 ---
 
-### Krok 6: Przeniesienie pliku do struktury projektu
+### Krok 7: Przeniesienie pliku do struktury projektu
 
 1. **Weryfikacja zawartości**
    - Sprawdź tytuł i autora w pierwszych liniach pliku
@@ -124,16 +135,8 @@ Jeśli operacja się nie udała, wróć do punktu 1 w tym kroku i ponów operacj
 mv "/tmp/playwright-mcp-output/[timestamp]/nazwa-pliku.txt" \
    "/home/xai/DEV/37degrees/books/0001_alice_in_wonderland/docs/review.txt"
 ```
+
 ---
-
-### Krok 7: Zmień nazwę pliku
-Nazwę pliku należy zmienić na [BOOK_FOLDER]  (Przykładowo 0001_alice_in_wonderland - rozszerzeniem pliku nie nalezy się przejmować, bedzie zachowane aktualne))
-
-Są dwie możliwości zmiany nazwy pliku:
- - Poprzez klikniecie w aktualną nazwę (zwyle jest to nazwa zawierająca wyrazy "streszczenie" i/lub "wizualizacja".
-   Po kliknieciu w nazwę należy ją zazanczyć Ctlr+a i wpisać nową
-albo
- - Poprzez menu -> Plik (clik) -> Zmień nazwę (click). Stara nazwa będzie już zaznaczona, wystarczy wpisać nową.
 
 ### Krok 8: Oznaczenie zadania jako ukończone
 

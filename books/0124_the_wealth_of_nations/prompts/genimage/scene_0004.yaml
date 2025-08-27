@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1776, afternoon workshop activity
+    location: Long rectangular ground-floor workshop in brick industrial building, British Midlands
+    weather: Overcast with steady industrial light
+  characters:
+  - appearance: 25-year-old male laborer, lean but muscular from physical work, weathered hands with calluses, tired expression
+      in brown eyes, short unkempt dark hair
+    clothing: coarse unbleached linen shirt, patched wool breeches, thick woolen stockings, heavy leather shoes, thick leather
+      apron stained with metal dust
+    position: bent over workbench in focused concentration on repetitive task
+    action: performing single specialized operation in pin-making process with mechanical precision
+  scene:
+    mainElements: Extended wooden workbench running length of room with ten workstations, each with specific tools for pin-making
+      stages, hand-operated machinery including wire-drawing apparatus and grinding stones
+    details: 'Each worker performs one specialized operation: drawing wire through dies, straightening with rollers, cutting
+      to length, pointing ends on grinding stones, flattening heads. Tools include pliers, hammers, files, cutting devices.
+      Metal dust fills air, creating visible particles in window light. Workers move with rhythmic efficiency, each focused
+      on single repetitive task'
+    background: Rhythmic industrial sounds of hammering and grinding, metallic dust particles floating in cold light from
+      large utilitarian windows, smell of heated metal and oil
+    atmosphere: Mechanical efficiency and specialized productivity, workers appearing as components in larger machine, sense
+      of progress through systematic organization
+  composition:
+    cameraAngle: Long tracking shot following assembly line process
+    focus: Workers performing specialized operations in sequence, showing systematic division of labor
+    depth: Foreground shows detailed hand work, middle ground captures full assembly line, background reveals industrial setting
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

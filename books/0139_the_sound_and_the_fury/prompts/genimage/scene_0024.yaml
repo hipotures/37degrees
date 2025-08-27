@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1863 Civil War battle, 1898 military training, 1928 peaceful farming showing land's cycling through conflict and
+      peace
+    location: Former Compson pastureland and surrounding Jefferson countryside showing how same geographic areas experience
+      recurring military use
+    weather: Different seasons across sixty-five years showing land's transformation through war and peace cycles
+  characters: No characters present in this scene
+  scene:
+    mainElements: Open countryside around Jefferson showing same geographic area serving different military purposes across
+      three generations
+    details: 'Triple temporal exposure showing same valley and field areas across military history: background layer depicts
+      1863 Civil War skirmish with Confederate and Union forces, cannon smoke, cavalry charges, temporary field hospitals,
+      battlefield debris; middle layer shows 1898 Spanish-American War training with local militia drilling, tents, supply
+      wagons, preparation for overseas service; foreground reveals 1928 peaceful agricultural use with same fields now planted
+      with crops, farming equipment, no military presence, land returned to civilian productivity no text or letters visible'
+    background: Distant Jefferson town visible showing community development while countryside alternates between military
+      and civilian use across generations
+    atmosphere: Cyclical relationship between war and peace where same geographic areas repeatedly serve military purposes
+      then return to peaceful civilian use
+  composition:
+    cameraAngle: Wide panoramic shot showing valley and field areas across three military periods
+    focus: Central field area showing transformation from battlefield to training ground to farmland
+    depth: 'Foreground: 1928 peaceful farming; middle ground: 1898 military training; background: 1863 Civil War battle scene'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

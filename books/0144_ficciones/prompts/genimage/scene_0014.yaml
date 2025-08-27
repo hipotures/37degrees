@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Timeless mythical era, night of conflagration
+    location: Ancient circular stone temple ruins engulfed in supernatural flames
+    weather: Windless night with no natural weather, only divine fire
+  characters:
+  - appearance: Ageless figure appearing 50-60 years old, lean ascetic build, weathered face from sun and hardship, long gray
+      hair and beard unkempt from solitude, eyes of extraordinary intensity focused inward, deeply lined skin
+    clothing: Simple worn gray cloth tunic or loincloth, barefoot, garments weathered by elements and time, no ornamentation
+      or jewelry
+    position: Standing calmly in center of burning temple, surrounded by wall of flames
+    action: Walking directly into divine fire that touches but does not harm, realizing own nature as dream
+  scene:
+    mainElements: Walls of supernatural fire rise around circular temple, flames bright orange and red but casting no heat
+      on central figure, fire burning without consuming, creating perfect circle of divine light, dreamer's body becoming
+      translucent in fire revealing true nature
+    details: Fire transforms from destructive force into revealer of truth, flames that should kill instead illuminate reality
+      of existence. Supernatural fire burns away illusion rather than flesh, revealing dreamer's discovery that he too exists
+      only in another's dream. Flames create cathedral of light around moment of cosmic revelation
+    background: Circular stone ruins silhouetted against fire, jungle beyond temple walls, stone tiger statue visible through
+      flames, river reflecting firelight, night sky made brilliant by conflagration
+    atmosphere: Divine revelation through fire, supernatural light making shadows dance, moment of ultimate truth where illusion
+      meets reality, sacred terror mixed with acceptance of cosmic joke, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing figure surrounded by circle of fire
+    focus: The unburning dreamer standing serenely within supernatural flames
+    depth: Wall of fire in foreground, translucent figure in middle ground, burning temple ruins creating dramatic background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

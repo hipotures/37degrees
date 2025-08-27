@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Prison of Observation - Society as Panopticon"
+  setting:
+    time: "1760s, all hours simultaneously"
+    location: "Allegorical representation of society as circular prison where all citizens can be observed from central tower"
+    weather: "Artificial lighting designed to eliminate privacy and enable constant surveillance"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Isolated in individual cells arranged in circle around central observation tower"
+      action: "Living under constant potential observation, modifying behavior based on possibility of being watched, losing capacity for authentic private action"
+  scene:
+    mainElements: "Circular prison design with central watchtower, individual cells arranged around perimeter, guards with telescopes maintaining surveillance"
+    details: "Citizens cannot see into central tower but know they may be watched at any moment. This uncertainty forces constant self-regulation and conformity. No private space exists where authentic behavior is possible"
+    background: "Architecture designed for maximum surveillance efficiency, control systems extending beyond visible frame, administrative apparatus recording and analyzing observed behavior"
+    atmosphere: "Freedom eliminated through constant potential observation, privacy destroyed by systematic surveillance, authentic human behavior impossible under perpetual watching"
+  composition:
+    cameraAngle: "View from central observation tower showing circular arrangement of monitored citizens"
+    focus: "Central watchtower with sight lines extending to all citizen cells arranged in perfect circle"
+    depth: "Foreground shows surveillance equipment and observation post, middle ground displays monitored citizen cells, background extends surveillance network beyond visible limits"

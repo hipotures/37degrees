@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Arrival at Kefalos House - The Symposium Begins"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "very elderly man with white hair and beard, weathered face showing wisdom and contentment of age"
+      clothing: "fine woolen himation befitting wealthy metojk, ceremonial wreath on head from recent sacrifice"
+      position: "seated regally on cushioned chair in andron"
+      action: "welcoming guests with peaceful dignity, hands gesturing in gracious hospitality"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "entering andron with respectful bearing"
+      action: "greeting elderly host with courteous bow, eyes already alert for philosophical discussion"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Olive oil lamps casting warm dancing shadows on walls, bronze krater for mixing wine with water, painted pottery cups and serving vessels, incense creating fragrant atmosphere, wooden couches arranged for intimate conversation"
+    background: "household servants preparing wine service, glimpses of central courtyard through doorway"
+    atmosphere: "warm intimate lighting from olive oil lamps casting dancing shadows, scent of wine and incense, civilized refinement of educated conversation"
+  composition:
+    cameraAngle: "medium shot from inside andron showing social hierarchy"
+    focus: "contrast between dignified wealth of host and humble wisdom of philosopher guest"
+    depth: "host's chair in foreground, Socrates in middle ground, domestic preparations in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silenced Voices and Censored Truth"
+  setting:
+    time: "1950s Algeria, late afternoon"
+    location: "Public library in French colonial district, sterile interior with controlled information"
+    weather: "Indoor setting with filtered daylight"
+  characters:
+    - appearance: "Educated Algerian man in his 30s, wearing European-style glasses, well-groomed appearance, conflicted expression showing internal alienation"
+      clothing: "Impeccably tailored European suit, white shirt, tie, attempting to mirror colonial elite dress"
+      position: "Standing before empty library shelves"
+      action: "Searching desperately for books, finding only gaps where works have been removed"
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Elegant civilian suit typical of 1950s colonial administration"
+      position: "Supervising from library entrance"
+      action: "Watching intellectuals with suspicion, ensuring compliance with censorship policies"
+  scene:
+    mainElements: "Library with numerous empty shelves, removed books creating obvious gaps, remaining volumes showing only approved French colonial literature"
+    details: "Empty shelf spaces with dust outlines showing where books once stood, remaining titles only French authors and colonial histories, locked glass cases containing forbidden works, signs reading 'Section Fermée - Accès Interdit', wastebaskets filled with torn pages, librarian removing additional volumes"
+    background: "Sterile library interior with French colonial artwork, portraits of French intellectuals, maps showing French empire"
+    atmosphere: "Intellectual suffocation and cultural erasure, knowledge controlled as weapon of domination"
+  composition:
+    cameraAngle: "Medium shot focusing on empty shelves and searching figure"
+    focus: "Gaps in knowledge represented by empty shelves, intellectual hunger meeting systematic censorship"
+    depth: "Empty bookshelves in foreground, searching intellectual in middle ground, supervising authority in background"

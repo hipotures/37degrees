@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brothers in Shadows - Shared Disappointment in Familiar Space"
+  setting:
+    time: "1949, late night"
+    location: "upstairs bedroom where adult sons still sleep in childhood space, emphasizing their failure to fully mature and move forward"
+    weather: "night with distant city lights filtering through window"
+  characters:
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "sitting on edge of one bed, elbows on knees"
+      action: "staring down at his hands, lost in troubled thoughts about failed opportunities"
+    - appearance: "32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner emptiness, well-groomed appearance, practiced charming smile"
+      clothing: "slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project image of success"
+      position: "lying on other bed, hands behind head"
+      action: "gazing up at slanted ceiling, speaking quietly to avoid waking parents below"
+  scene:
+    mainElements: "two single beds close together, slanted ceiling with dormer window, sparse furnishings, remnants of adolescence mixed with adult presence, cramped space representing stunted growth"
+    details: "Dormer window letting in faint light from city beyond. Simple wooden furniture worn from years of use. Clothes draped over chair suggesting temporary nature of their stay. Space feels too small for grown men."
+    background: "slanted ceiling creating sense of enclosure, single dormer window showing distant lights of more successful world, shadows emphasizing confinement"
+    atmosphere: "cramped space representing stunted growth and unfulfilled potential, shadows emphasizing limitation, late night intimacy of shared troubles between brothers, quiet desperation masked by familiarity"
+  composition:
+    cameraAngle: "low angle from floor level, emphasizing cramped ceiling and confined space"
+    focus: "two adult men reduced to childhood sleeping arrangements, highlighting their failure to achieve independence"
+    depth: "foreground shows worn floor and scattered belongings, middle ground focuses on two figures in different poses of contemplation, background reveals confining slanted ceiling and small window to outer world"

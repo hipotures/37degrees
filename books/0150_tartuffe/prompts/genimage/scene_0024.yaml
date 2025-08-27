@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1660s France, morning
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: clearing morning with sunlight breaking through clouds like divine intervention
+  characters:
+  - appearance: tall imposing royal officer with military bearing, middle-aged with weathered face showing experience and
+      authority, steel-gray hair under official hat, penetrating intelligent eyes
+    clothing: blue wool military coat with gold braiding and royal insignia, white linen shirt with military collar, matching
+      blue breeches with gold stripe, polished black boots, ceremonial sword at side, carries official warrant with royal
+      seal
+    position: standing with natural authority in center of room, commanding immediate respect and attention
+    action: speaking with calm measured authority while revealing king's justice, one hand resting on sword hilt, other holding
+      royal warrant
+  - appearance: man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair
+      under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire
+    clothing: plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather
+      shoes, large wooden rosary beads hanging from belt, carries small prayer book
+    position: backing toward wall with expression of dawning terror as his schemes collapse
+    action: attempting to maintain innocent expression while calculating escape routes, sweat beading on forehead as royal
+      authority closes in
+  - appearance: wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular
+      face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing
+    clothing: expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath,
+      white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles
+    position: rising from chair with growing hope and amazement at unexpected reprieve
+    action: listening with increasing joy as officer reveals king's knowledge of his loyalty during the Fronde, face transforming
+      from despair to grateful wonder
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, sunlight
+      streaming through windows like blessing from heaven
+    details: dramatic morning light illuminating royal officer like divine messenger, expensive furnishings restored to rightful
+      owners by royal justice, documents of fraud scattered as evidence of Tartuffe's crimes
+    background: doorways through which other family members gather to witness miraculous salvation, family portraits of loyal
+      ancestors vindicated by royal memory
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, transcendent sense of divine justice working through
+      earthly king to restore moral order
+  composition:
+    cameraAngle: heroic shot emphasizing royal officer's authority and moral righteousness
+    focus: contrast between royal justice's calm strength and Tartuffe's crumbling deception, with Orgon's transformation
+      from despair to salvation
+    depth: foreground showing triumphant justice, middle ground revealing restored domestic order, background suggesting moral
+      universe where good ultimately prevails
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

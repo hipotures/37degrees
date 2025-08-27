@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fire and Water Dance at Dawn"
+  setting:
+    time: "506 BCE, dawn breaking during decisive battle preparation"
+    location: "Battlefield near Chu positions, open grassland with scattered water pools from recent rains"
+    weather: "Clear dawn following night rain, mist rising from wet grass"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Standing between fire beacon and water pool, orchestrating tactical balance"
+      action: "Coordinating use of opposing elements - fire signals and water barriers - in unified strategy"
+  scene:
+    mainElements: "Military signal fire burns bright orange beside calm water pool reflecting morning sky, demonstrating how opposing forces can work together rather than cancel each other"
+    details: "Signal beacon built from dried grass and wood creates controlled flame sending tactical messages to distant units, while natural water pool formed by recent rains provides mirror-like reflection of sky and fire. Ceremonial military command fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by generals to signal troop movements during battle rests beside fire, feathers untouched by flames due to careful positioning"
+    background: "Open battlefield with scattered pools of standing water from recent rain, distant Wu army units visible in formation, Chu positions hidden behind low hills"
+    atmosphere: "Strategic balance between opposing natural forces, crackling fire sounds contrasting with silent water surface, morning mist rising from wet ground, sense of harmony achieved through understanding rather than dominance, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Medium angle showing strategist positioned between fire and water elements"
+    focus: "Contrast and cooperation between flame and reflection, both serving strategic purposes"
+    depth: "Foreground emphasizes fire and water interaction, middle ground shows strategist managing both elements, background reveals battlefield context and tactical objectives"

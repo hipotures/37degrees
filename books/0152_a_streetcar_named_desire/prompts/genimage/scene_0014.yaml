@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, morning continuing from previous confrontation
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Building heat creating oppressive tension
+  characters:
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Work clothes, preparing to leave for job but lingering to listen
+    position: Concealed behind portières leading to bedroom, perfectly still and listening
+    action: Eavesdropping on women's conversation, face hardening with each insulting word
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: White blouse and skirt, continuing emotional tirade
+    position: Still pacing and gesturing, unaware of hidden listener
+    action: Speaking contemptuously about masculine brutality, using degrading animal comparisons
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Portières concealing dangerous presence while allowing complete auditory access. Woman's words becoming increasingly
+      harsh and insulting. Hidden figure's body language showing growing rage and determination for revenge. Morning light
+      creating sharp shadows that emphasize concealment. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Sinister tension of secret surveillance. Growing threat invisible to victim. Seeds of destruction being planted
+      through overheard insults. Dangerous masculine pride wounded by feminine contempt
+  composition:
+    cameraAngle: Split perspective showing both speaking figure and hidden listener
+    focus: Contrast between open contempt and concealed murderous rage
+    depth: 'Foreground: concealed threatening figure; middle ground: unknowing speaker; background: apartment emphasizing
+      no escape'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

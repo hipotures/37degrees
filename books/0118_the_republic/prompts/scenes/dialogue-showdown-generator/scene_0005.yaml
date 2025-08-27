@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Kefalos Withdraws - The First Round Conceded"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "very elderly man with white hair and beard, weathered face showing wisdom and contentment of age"
+      clothing: "fine woolen himation befitting wealthy metojk, ceremonial wreath on head from recent sacrifice"
+      position: "rising slowly from chair with dignity intact"
+      action: "gracefully acknowledging Socrates' point while withdrawing to attend religious duties"
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "stepping forward as father departs"
+      action: "eagerly inheriting the philosophical debate with youthful confidence and determination"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Empty chair still warm from Kefalos's presence symbolizing wisdom of age departing, oil lamps continuing to burn as philosophical torch passes to next generation, wine vessels ready for continued symposium"
+    background: "Kefalos moving toward household altar for evening prayers, other guests settling in for extended discussion"
+    atmosphere: "transition from respectful deference to elder wisdom toward more aggressive philosophical wrestling between equals"
+  composition:
+    cameraAngle: "wide shot showing changing dynamics as generation shifts"
+    focus: "empty chair representing departed traditional wisdom while son steps into debate arena"
+    depth: "departing elder in background, empty chair in middle ground, eager son in foreground"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Illusion of Natural Order - Monarch's Divine Authority"
+  setting:
+    time: "1760s, midday"
+    location: "Grand ceremonial hall of Versailles palace, France during absolute monarchy of Louis XV"
+    weather: "Clear, bright day with sunlight streaming through tall windows"
+  characters:
+    - appearance: "Person aged 25-60 with smooth powdered face showing haughty or bored expression. Posture is stiff and studied according to court etiquette requirements. Represents corruption of Ancien Régime"
+      clothing: "Extravagant Rococo-style dress - man in bright silk justaucorps coat, lace shirt, knee-length culottes, silk stockings, powdered wig. Woman in enormous panniers-supported gown with tightly laced corset and elaborate coiffure. Clothing is uncomfortable and restricting but displays status"
+      position: "Standing in rigid formal arrangement around throne room, bowing in perfect synchronization"
+      action: "Performing elaborate ceremonial gestures of submission to royal authority, movements choreographed and artificial"
+  scene:
+    mainElements: "Colossal golden throne elevated on marble steps, massive portrait of king in divine glory, ornate ceiling fresco depicting monarch receiving crown from God's hand"
+    details: "Gilded surfaces reflecting light create dazzling display of wealth and power. Royal guards in pristine uniforms stand motionless at attention. Courtiers hold poses of reverence toward empty throne, as if royal presence itself commands worship. Elaborate candelabras and crystal chandeliers emphasize luxury"
+    background: "Marble columns and archways decorated with royal emblems, tapestries depicting military victories, mirrors multiplying the scene endlessly"
+    atmosphere: "Oppressive grandeur designed to overwhelm and intimidate, artificial perfection hiding the mechanism of domination, silence broken only by whispered court protocol"
+  composition:
+    cameraAngle: "Low angle emphasizing the crushing height and weight of royal authority"
+    focus: "Empty golden throne towering over bowed figures of aristocratic courtiers"
+    depth: "Foreground shows prostrate nobles, middle ground displays throne on elevated platform, background reveals endless halls of power stretching into distance"

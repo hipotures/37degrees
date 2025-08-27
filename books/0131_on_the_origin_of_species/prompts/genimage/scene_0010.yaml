@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Complete yearly cycle visible simultaneously, all times of day layered
+    location: Private estate garden in Downe village, Kent countryside, 20 kilometers southeast of London, England
+    weather: Spring rain, summer sun, autumn mist, winter snow all present in different quadrants
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: Walking Sandwalk path visible in all four seasonal conditions simultaneously
+    action: 'Darwin''s figure appearing in appropriate seasonal clothing for each quadrant: light spring coat, summer shirtsleeves,
+      autumn overcoat, winter fur collar and walking stick'
+  scene:
+    mainElements: Manicured English country garden with greenhouse, experimental plant beds, gravel walking path called Sandwalk
+      winding through copse of trees, well-maintained lawns stretching toward house
+    details: 'Garden divided into seasonal quadrants: spring section with budding trees and emerging bulbs, summer section
+      with full bloom and fruit trees heavy with apples, autumn section with falling leaves and harvest preparations, winter
+      section with bare branches and snow-covered beds, each showing different lighting conditions from dawn to dusk, experimental
+      plots demonstrating plant growth cycles, greenhouse maintaining tropical warmth in all seasons, Sandwalk path showing
+      mud, dust, leaves, and snow in respective sections, no text or letters visible'
+    background: 'Down House showing different seasonal appearances: spring cleaning, summer garden parties, autumn preservation
+      work, winter firelight through windows'
+    atmosphere: Peaceful Victorian country estate setting with sense of scholarly retreat, domesticated nature serving as
+      outdoor laboratory for scientific study
+  composition:
+    cameraAngle: Elevated wide shot showing entire garden in seasonal quadrants
+    focus: The complete natural cycle as unified scientific observation
+    depth: 'Foreground: detailed seasonal plant studies, middle: garden paths and features, background: Down House in all
+      seasonal conditions'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

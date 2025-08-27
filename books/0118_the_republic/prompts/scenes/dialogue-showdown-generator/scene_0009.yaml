@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Standing Over Sitting - Power Dynamic Shifts"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "rising to standing position for emphasis"
+      action: "gesturing downward with authority while explaining that craftsmen serve their subjects, not themselves"
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "remaining seated on couch, looking up"
+      action: "craning neck upward with growing recognition of being intellectually outmaneuvered"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Dramatic height difference emphasizing shift in intellectual authority, shadows of standing figure falling across seated opponent, oil lamps creating theatrical lighting from below"
+    background: "other symposium guests remaining seated while observing change in debate dynamics"
+    atmosphere: "palpable shift in intellectual authority as philosophical method demonstrates its power over conventional wisdom"
+  composition:
+    cameraAngle: "low angle from seated opponent's perspective looking up at philosopher"
+    focus: "towering intellectual authority contrasted with diminished conventional position"
+    depth: "gesturing philosopher dominating foreground, seated opponent in middle ground, witnessing audience in background"

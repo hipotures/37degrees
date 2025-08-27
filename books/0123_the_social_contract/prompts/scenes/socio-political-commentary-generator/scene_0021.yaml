@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Puppets of Power - Society as Marionette Theater"
+  setting:
+    time: "1760s, evening"
+    location: "Allegorical space representing society as giant puppet theater with citizens as marionettes"
+    weather: "Theatrical lighting creating dramatic shadows and highlighting strings of control"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Suspended by strings like marionettes, unable to move independently of controlling forces above"
+      action: "Dancing to movements dictated by invisible puppeteers, performing actions not chosen by their own will, showing mechanical rather than human behavior"
+  scene:
+    mainElements: "Giant theater stage with citizens as marionettes controlled by strings from above, puppet masters hidden in elevated booth manipulating every movement"
+    details: "Strings attached to hands, feet, and heads of citizens control every gesture and expression. Puppet masters above remain invisible but clearly direct all action below. Citizens cannot act independently or express individual will"
+    background: "Theater architecture emphasizing artificial nature of social performance, hidden control mechanisms, audience observing the manipulated display"
+    atmosphere: "Complete loss of human agency through hidden manipulation, society revealed as elaborate performance controlled by unseen powers, authentic human action replaced by mechanical compliance"
+  composition:
+    cameraAngle: "High angle revealing puppet strings and hidden control mechanisms"
+    focus: "Citizens suspended by strings with puppet masters barely visible in elevated control booth"
+    depth: "Foreground shows detail of puppet strings and controlled movements, middle ground displays performing marionettes, background reveals hidden controllers and theater architecture"

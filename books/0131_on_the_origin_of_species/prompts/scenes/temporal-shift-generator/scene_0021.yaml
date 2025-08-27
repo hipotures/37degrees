@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Daily Dawn Walk from Young Man to Elder"
+  setting:
+    time: "Same dawn hour across 40 years, early morning golden light"
+    location: "Private estate garden in Downe village, Kent countryside, 20 kilometers southeast of London, England"
+    weather: "Consistent dawn mist and golden sunrise light across all time periods"
+  characters:
+    - appearance: "British gentleman in his early twenties, 183cm tall, athletic build, straight dark brown hair combed to side, clean-shaven with sharp intelligent features, bright blue-gray eyes showing curiosity and enthusiasm"
+      clothing: "Practical explorer attire: cream cotton shirt with rolled sleeves, brown wool vest, dark trousers, sturdy leather boots, wide-brimmed canvas hat for sun protection"
+      position: "Walking briskly along Sandwalk path in morning light"
+      action: "Young Darwin striding energetically on daily contemplation walk"
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "Walking thoughtfully along same path in middle age"
+      action: "Middle-aged Darwin walking at measured pace, deep in scientific contemplation"
+    - appearance: "Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture, completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins"
+      clothing: "Comfortable elderly gentleman's dress: loose black woolen coat, thick gray shawl around shoulders, soft felt hat, heavy walking boots, woolen mittens in cold weather"
+      position: "Walking slowly with walking stick along familiar path"
+      action: "Elderly Darwin leaning on oak walking stick, taking careful steps on well-known route"
+  scene:
+    mainElements: "Manicured English country garden with greenhouse, experimental plant beds, gravel walking path called Sandwalk winding through copse of trees, well-maintained lawns stretching toward house"
+    details: "Sturdy English oak walking stick with iron ferrule tip, worn smooth from years of daily use on garden paths, creating rhythmic tapping sound during contemplative walks, becoming essential support for Darwin's aging gait showing wear patterns from decades of same daily routine, gravel path worn into familiar depressions, trees growing taller with each temporal layer, experimental plots expanding and maturing, greenhouse enlarging, garden benches aging and requiring replacement, same dawn light consistently illuminating ritual across decades, no text or letters visible on path markers"
+    background: "Down House showing different stages of expansion and improvement, sunrise always from same direction creating consistent golden light and shadow patterns"
+    atmosphere: "Peaceful Victorian country estate setting with sense of scholarly retreat, domesticated nature serving as outdoor laboratory for scientific study"
+  composition:
+    cameraAngle: "Following shot tracking Darwin along Sandwalk across time periods"
+    focus: "The walking figures at different life stages maintaining same daily ritual"
+    depth: "Foreground: gravel path details, middle: walking figures across time, background: maturing garden and consistent sunrise"

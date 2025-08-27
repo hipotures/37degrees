@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1563, afternoon legal session
+    location: Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority
+    weather: Standard afternoon lighting from tall windows
+  characters:
+  - appearance: Two magistrates in formal robes engaged in professional consultation about legal case
+    clothing: Standard judicial attire appropriate for parliament members, properly maintained and formal
+    position: Standing beside case documents, reviewing legal precedents together
+    action: Discussing technical legal matters with professional collegiality, sharing expertise on complex case
+  scene:
+    mainElements: Routine professional consultation between legal colleagues during normal courthouse operations
+    details: Legal documents spread systematically on oak table showing case details requiring expert consultation, courthouse
+      architecture provides standard formal setting for judicial work, afternoon light from tall windows illuminates legal
+      texts requiring careful reading, both magistrates maintain appropriate professional distance while sharing expertise,
+      other court personnel continue normal activities in background, stone floor shows wear patterns from decades of legal
+      proceedings, no text or letters visible
+    background: Standard courthouse operations continuing around professional consultation, architectural elements serving
+      practical judicial functions
+    atmosphere: Normal professional environment where legal expertise is shared routinely between qualified colleagues
+  composition:
+    cameraAngle: Multiple viewpoints showing normal professional interaction from various courthouse positions
+    focus: Professional collegiality in standard legal consultation without emotional interpretation
+    depth: Foreground shows legal documents, middle ground captures professional consultation, background reveals normal courthouse
+      operations, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

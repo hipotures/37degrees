@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: Modest apartment in European quarter of French colonial Algiers, Algeria
+    weather: Hot Mediterranean afternoon with harsh sunlight streaming through window
+  characters:
+  - appearance: Young man aged 25-30 years, European features, average build, distant expression in eyes
+    clothing: Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions
+    position: Sitting at simple wooden table near window
+    action: Holding small yellow telegram, reading with neutral expression, no visible emotional reaction
+  scene:
+    mainElements: Small cramped apartment with basic furniture, yellow telegram paper in hands, sunlight creating harsh geometric
+      shadows on table and floor
+    details: Telegram text barely visible but official-looking, apartment sparsely furnished with single bed visible in background,
+      simple chair and table, no decorative items. Dust motes floating in shaft of sunlight from window. Clock on wall showing
+      afternoon hour. Small stack of unopened mail on table corner.
+    background: Balcony door slightly open with sounds of street life below - tramways, vendors calling, general urban bustle
+      of colonial Algiers
+    atmosphere: Detached, matter-of-fact mood contrasting with tragic content of message, harsh afternoon light creating stark
+      shadows, sense of emotional disconnection from significant news
+  composition:
+    cameraAngle: Medium close-up from Meursault's perspective looking down at telegram
+    focus: Yellow telegram paper with official text, hands holding it steadily without trembling
+    depth: Foreground shows telegram and hands, middle ground shows simple table surface with other papers, background shows
+      sparse apartment interior with harsh sunlight patterns, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

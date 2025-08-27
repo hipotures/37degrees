@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Stepping Into Shadow - The Tyrant's Happiness"
+  setting:
+    time: "375 BCE, late evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+      clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+      position: "stepping out of firelight into deeper shadow"
+      action: "voice growing darker as he describes perfect injustice and tyrannical happiness, eyes gleaming with malicious satisfaction"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "remaining in circle of lamplight"
+      action: "maintaining steady gaze while opponent embraces intellectual darkness"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Trasymach's golden jewelry catching occasional glints from darkness, his shadow looming larger on wall, philosophical conversation taking on sinister undertones"
+    background: "audience members shifting uncomfortably as pleasant evening transforms into exploration of evil"
+    atmosphere: "growing sense of moral danger as cynical philosophy leads toward celebration of tyranny and injustice"
+  composition:
+    cameraAngle: "dramatic shot showing figure stepping into shadows while maintaining menacing presence"
+    focus: "transition from light to darkness symbolizing philosophical journey toward nihilism"
+    depth: "shadowed figure in foreground, illuminated philosopher in middle ground, nervous audience in background"

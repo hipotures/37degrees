@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Catholic Victory Versus Protestant Defeat"
+  setting:
+    time: "1572, battle conclusion"
+    location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+    weather: "Same battlefield lighting interpreted differently by opposing sides"
+  characters:
+    - appearance: "Catholic forces celebrating victory with faces showing triumphant joy and divine vindication"
+      clothing: "Catholic religious and military symbols, banners flying triumphantly, armor polished and proud"
+      position: "Standing elevated on battlefield, arms raised in victory celebration"
+      action: "Singing Te Deum, embracing in celebration, displaying captured Protestant banners as trophies"
+    - appearance: "Protestant survivors witnessing martyrdom with faces showing tragic nobility and divine testing"
+      clothing: "Protestant symbols worn as badges of faithful suffering, torn garments showing honorable sacrifice"
+      position: "Grouped together in protective circle, supporting wounded and grieving"
+      action: "Praying for fallen comrades, maintaining dignity in defeat, interpreting loss as divine trial"
+  scene:
+    mainElements: "Single battlefield simultaneously interpreted as Catholic triumph and Protestant martyrdom"
+    details: "Identical physical evidence creating opposite interpretations - fallen bodies seen as either defeated heretics or noble martyrs, burning buildings interpreted as purifying fire or destructive persecution, religious banners appearing as symbols of victory or suffering depending on viewpoint, same blood-soaked earth serving as proof of divine justice or injustice, survivors' tears seen as either just punishment or righteous sorrow, no text or letters visible"
+    background: "Single landscape serving as stage for completely contradictory religious interpretations of identical events"
+    atmosphere: "Simultaneous celebration and tragedy occupying same physical space, showing how absolute convictions transform identical reality into opposite meanings"
+  composition:
+    cameraAngle: "Split screen or overlapping perspectives showing identical scene interpreted as opposite realities"
+    focus: "Contrast between triumphant Catholic celebration and tragic Protestant martyrdom of same events"
+    depth: "Foreground shows opposing interpretations, middle ground captures shared battlefield, background reveals single landscape supporting contradictory meanings, no text or letters visible"

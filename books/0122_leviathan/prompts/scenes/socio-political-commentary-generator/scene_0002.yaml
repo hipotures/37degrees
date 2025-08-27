@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Perfect Order - Citizens in Synchronized March"
+  setting:
+    time: "1651, morning state ceremony"
+    location: "Main thoroughfare through London, Commonwealth England, wide street between uniform buildings"
+    weather: "Bright clear morning with crisp air"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+    - appearance: "Man around 25 years old, 180cm tall, muscular from military training, disciplined face with short-cropped hair"
+      clothing: "Leather jerkin with steel breastplate and helmet, practical military attire"
+      position: "Standing at attention with weapon at ready, facing toward Sovereign"
+      action: "Holding musket or pike, gaze directed to commander, expression of trained discipline and loyalty"
+  scene:
+    mainElements: "Perfectly aligned rows of citizens marching in unison down the street, each maintaining identical pace and posture, creating a human geometric pattern"
+    details: "Citizens carry identical banners with state symbols, wear similar modest clothing in muted colors, march with mechanical precision. Clumsy smoke-belching 17th century firearms with wooden stocks and metal barrels carried by soldiers. Simple white clay smoking pipes visible in some citizens' hands representing peaceful civilian life."
+    background: "Uniform Tudor-style buildings with consistent architecture, clean swept streets, state emblems mounted on building facades"
+    atmosphere: "Mechanical perfection and social harmony, rhythmic sound of synchronized footsteps, sense of collective purpose under state guidance"
+  composition:
+    cameraAngle: "High angle showing the geometric patterns formed by marching citizens"
+    focus: "The synchronized movement and perfect order of the procession"
+    depth: "Foreground shows detailed individual faces in formation, middle shows the geometric patterns, background reveals ordered architecture"

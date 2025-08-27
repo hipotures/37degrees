@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, deep night illuminated by fires
+    location: Royal palace courtyard in Troy during final assault, architectural complex with Eastern influences
+    weather: Clear night made apocalyptic by massive fires consuming the city
+  characters:
+  - appearance: elderly, frail patriarch with divine authority
+    clothing: simple robes of Trojan elder, ornate royal vestments now torn and bloodied
+    position: standing at altar in palace courtyard with arms raised in supplication
+    action: attempting final desperate prayer to gods while donning ancient armor with trembling hands
+  scene:
+    mainElements: Trojan palace with distinctive Eastern architectural elements under attack, massive stone walls breached
+      and crumbling, ornate columns supporting porticos, sacred altar in courtyard center
+    details: Greek warriors pouring through broken gates with bronze weapons gleaming, palace treasures scattered and trampled,
+      royal tapestries burning, marble columns cracked from battering rams, golden ornaments reflecting firelight, abandoned
+      weapons and shields
+    background: Troy's skyline engulfed in flames with smoke columns reaching night sky, other burning buildings visible through
+      archways, distant sounds of battle and destruction
+    atmosphere: Sacred space violated by brutal warfare, divine order collapsing into chaos, majesty of ancient civilization
+      meeting violent end
+  composition:
+    cameraAngle: Wide architectural shot showing palace complex from courtyard perspective with dramatic upward angle
+    focus: Central altar with elderly king attempting final ritual while architecture crumbles around him
+    depth: Altar and figures in sharp foreground focus, collapsing palace architecture in middle ground, burning cityscape
+      beyond walls in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Leviathan's Majesty - Official State Portrait"
+  setting:
+    time: "1651, midday formal ceremony"
+    location: "Royal portrait hall in Westminster Palace, London, Commonwealth period England"
+    weather: "Clear ceremonial day with golden sunlight"
+  characters:
+    - appearance: "Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority, stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard"
+      clothing: "Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather boots, crown of heavy gold or iron symbolizing weighty authority"
+      position: "Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which the state revolves"
+      action: "One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without personal emotion"
+  scene:
+    mainElements: "Gigantic official portrait of the Sovereign displayed prominently, smaller figures of subjects arranged in perfect formation below, all facing toward the central authority figure"
+    details: "Golden frame surrounding the portrait, state banners hanging symmetrically, geometric floor patterns directing eye toward throne, subjects maintaining identical respectful postures. Large two-handed 17th century ceremonial sword with steel blade, ornate hilt bearing state heraldry, symbolizing Sovereign's power to enforce law and order held prominently."
+    background: "Royal portrait hall in Westminster Palace with high stone walls, gothic arched windows filtering golden light, royal heraldry carved into pillars"
+    atmosphere: "Overwhelming sense of order and hierarchy, silent reverence, golden light emphasizing divine-like authority of the state personified"
+  composition:
+    cameraAngle: "Low angle looking up at the towering portrait and throne"
+    focus: "The imposing figure of the Sovereign dominating the frame, with subjects as smaller elements"
+    depth: "Foreground shows respectful subjects, middle ground displays throne platform, background reveals architectural grandeur of state power"

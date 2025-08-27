@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Forbidden Symbol - First Sign of Resistance"
+  setting:
+    time: "1760s, night"
+    location: "Dark alley in Paris where citizen secretly paints symbol of resistance on wall"
+    weather: "Dark night providing cover for clandestine act of defiance against royal authority"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Crouched against wall in shadows, working quickly to avoid detection by authorities"
+      action: "Painting forbidden symbol on wall with trembling hands, constantly looking over shoulder for approaching guards, demonstrating first act of conscious rebellion"
+  scene:
+    mainElements: "Partially completed symbol of resistance appearing on stone wall, paint bucket and brush hidden in shadows, distant torchlight of approaching patrol"
+    details: "Symbol represents ideas forbidden by state - perhaps broken chain, scales of justice, or simple word 'Freedom'. Painter works in fear but with determination. Paint is still wet and vulnerable to discovery"
+    background: "Network of surveillance and patrol routes making resistance extremely dangerous, other walls showing evidence of previous symbols painted over by authorities"
+    atmosphere: "Courage required for first act of resistance, danger of expressing forbidden ideas, small beginning of organized opposition to tyranny"
+  composition:
+    cameraAngle: "Low angle emphasizing danger and courage of clandestine resistance activity"
+    focus: "Hand painting forbidden symbol while shadowy figure watches for danger"
+    depth: "Foreground shows detail of resistance symbol being created, middle ground displays fearful painter, background reveals approaching threat of discovery"

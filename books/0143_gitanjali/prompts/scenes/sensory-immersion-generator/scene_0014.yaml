@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "River Salt - Memory of the Sea"
+  setting:
+    time: "1910, late afternoon during river navigation"
+    location: "Wooden boat on river Padma with old weathered planks, rural Bengal, British colonial India"
+    weather: "Humid river air with gentle breeze carrying water moisture"
+  characters:
+    - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+      clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+      position: "Seated in weathered boat touching salt-stained wooden planks"
+      action: "Running fingers over boat wood where salt crystals have accumulated from years of river service"
+  scene:
+    mainElements: "Prosta, drewniana łódź rybacka z jednym, charakterystycznym, kwadratowym żaglem showing accumulated salt deposits and mineral stains that create visible aromatic history of river journeys"
+    details: "Weathered boat planks show white salt crystal accumulations in wood grain creating visible mineral deposits that suggest decades of river salt absorption. Water droplets on boat surfaces evaporate leaving tiny salt residue rings that catch afternoon light like microscopic diamonds. Protagonist's fingers trace salt-stained wood surfaces where accumulated minerals create textural changes in smoothness. River spray carries visible moisture particles that will dry to more salt deposits, creating continuous cycle of aromatic accumulation. Rope rigging shows salt staining with crystalized deposits highlighting every fiber twist. Old fishing nets have white mineral crusts from repeated river drying cycles. Wooden surfaces show different colored stains from various mineral contents - white salt, brown iron, green algae residues. Water lapping against boat sides creates fresh spray that begins new salt crystal formation process. No text or letters visible."
+    background: "River Padma with muddy waters containing dissolved minerals that will become tomorrow's aromatic salt deposits"
+    atmosphere: "Maritime memory chamber where accumulated river salts create visible testimony to countless journeys and water's mineral essence"
+  composition:
+    cameraAngle: "Close-up on weathered wood surface showing detailed salt crystal accumulations"
+    focus: "Salt deposits and mineral stains that visualize accumulated aromatic history of river boat's journeys"
+    depth: "Foreground: detailed salt crystals on wood grain. Middle: protagonist touching aromatic surfaces. Background: river waters providing source of future mineral deposits"

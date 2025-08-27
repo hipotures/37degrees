@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1572, during religious wars, day of violence
+    location: Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots
+    weather: Harsh overcast sky suggesting impending storm
+  characters:
+  - appearance: Various French civilians in 16th century dress, faces twisted by religious fanaticism and fear
+    clothing: Mixed Catholic and Protestant identifiers, torn and bloodstained garments from conflict
+    position: Scattered throughout scene in various poses of violence and flight
+    action: Armed patrols marching, crowds gathered around execution sites, people fleeing in terror
+  scene:
+    mainElements: Beautiful landscape shadowed by violence and fanaticism, peaceful nature contrasting with human brutality.
+      Forest paths suitable for horseback riding, stone bridges over streams, medieval villages with armed patrols, evidence
+      of warfare and religious persecution
+    details: Dark smoke rises from burned buildings, armed soldiers patrol with weapons drawn, makeshift gallows or stakes
+      visible in village square, religious banners flutter torn and stained, abandoned cart with scattered belongings shows
+      hasty flight, pools of blood darken cobblestones, faces show expressions of hatred and fear, natural beauty of countryside
+      scarred by human cruelty, no text or letters visible
+    background: French countryside's inherent beauty - rolling hills, ancient forests, stone architecture - all violated by
+      evidence of religious warfare
+    atmosphere: Oppressive weight of fanaticism crushing human decency, beautiful natural world corrupted by ideological hatred,
+      sense of civilization destroying itself through absolute certainty
+  composition:
+    cameraAngle: Wide establishing shot showing scope of violence across peaceful landscape
+    focus: Contrast between natural beauty and human-created destruction, emphasizing the tragedy of religious wars
+    depth: Foreground shows immediate violence, middle ground captures fleeing figures, background reveals beautiful but scarred
+      countryside, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

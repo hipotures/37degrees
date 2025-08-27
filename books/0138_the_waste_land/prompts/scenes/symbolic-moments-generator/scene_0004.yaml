@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Withered Rose and Fresh Seed"
+  setting:
+    time: "1922, evening"
+    location: "Lush garden full of blooming hyacinth flowers, scene of failed romantic encounter"
+    weather: "Recent rain leaving flowers and girl's hair wet"
+  characters:
+    - appearance: "Young woman aged 18-22, slender youthful build, face full of ecstatic sensitive emotion, wet hair from recent rain"
+      clothing: "Simple light-colored dress dampened by moisture, fabric clinging softly"
+      position: "Kneeling among flower beds with arms full of blossoms"
+      action: "Gathering hyacinth flowers while unaware of symbolic contrast at her feet"
+  scene:
+    mainElements: "Single black withered rose lies next to bright green seed that has just begun to sprout, both resting on rain-soaked earth among vibrant hyacinth blooms"
+    details: "The dead rose has petals like burned paper, completely desiccated and brittle, its thorny stem cracked and gray. Beside it, a single seed has cracked open revealing a tiny green shoot reaching toward light, its root just penetrating the dark soil. Rainwater pools around both, reflecting the garden's colors while the contrast between death and new life creates a meditation on the cycles of nature and love."
+    background: "Abundant purple and white hyacinth blooms, garden paths, evening light creating romantic atmosphere"
+    atmosphere: "Intense unfulfilled romantic tension, moment of potential love ending in paralysis and silence, juxtaposition of death and rebirth, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up ground-level view focusing on the rose-seed contrast"
+    focus: "The stark juxtaposition between withered rose and sprouting seed"
+    depth: "Dead rose and living seed in sharp foreground, girl gathering flowers in middle ground, garden abundance in background"

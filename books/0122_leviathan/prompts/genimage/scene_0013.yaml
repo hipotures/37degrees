@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, morning assembly time
+    location: Public square in London for daily citizen gathering and instruction
+    weather: Clear morning with formal lighting
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Large crowd of citizens dressed in nearly identical clothing, all performing the same respectful gestures
+      simultaneously, creating visual uniformity that erases individual identity
+    details: Citizens in matching dark wool clothing with white collars, all bowing at identical angles, hands positioned
+      identically, facial expressions showing same respectful attention. Simple clay pipes tucked away uniformly in identical
+      pockets. State symbols repeated on clothing and accessories.
+    background: Public square with official platform for announcements, uniform architecture surrounding the space, state
+      banners hanging at regular intervals
+    atmosphere: Collective identity overwhelming individual personality, synchronized sounds of unified movement, social conformity
+      masquerading as harmony
+  composition:
+    cameraAngle: Wide shot showing the mass uniformity of appearance and gesture
+    focus: The elimination of individual identity through enforced conformity
+    depth: Foreground shows individual citizens lost in crowd uniformity, middle displays the mass geometric pattern, background
+      reveals controlling architecture
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

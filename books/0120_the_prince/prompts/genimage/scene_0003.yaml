@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1513, morning ceremonial hour
+    location: Main piazza of Renaissance Italian city-state with cathedral and government palace
+    weather: Crisp morning with dramatic shadows
+  characters:
+  - appearance: Citizens of various ages and social classes arranged in organized groups
+    clothing: Period-appropriate Renaissance clothing indicating social hierarchy - wealthy merchants in fine fabrics, artisans
+      in quality wool, laborers in simpler garments
+    position: Standing in orderly formations facing government buildings
+    action: Participating in civic ceremony with synchronized gestures of loyalty and submission
+  scene:
+    mainElements: Stone-paved piazza surrounded by impressive civic and religious architecture. Citizens arranged in geometric
+      patterns before authority symbols. Banners and heraldic symbols prominently displayed.
+    details: Guild banners representing different trades and professions. Religious icons mixed with civic symbols. Guards
+      positioned strategically around perimeter. Official proclamations being read from elevated platform.
+    background: Cathedral spires and palace towers dominating skyline. Market stalls temporarily cleared for ceremony. Windows
+      of surrounding buildings filled with observing residents.
+    atmosphere: Carefully orchestrated display of civic unity and submission to authority. Underlying tension beneath surface
+      harmony.
+  composition:
+    cameraAngle: Elevated wide shot showing organized crowd patterns
+    focus: Geometric arrangement of citizens as symbol of controlled society
+    depth: Foreground shows individual faces in crowd, middle ground reveals organized patterns, background displays imposing
+      architecture of power
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

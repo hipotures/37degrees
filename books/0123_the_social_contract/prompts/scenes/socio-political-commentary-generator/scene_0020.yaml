@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Systematic Violence - Public Humiliation and Destruction"
+  setting:
+    time: "1760s, noon"
+    location: "Public square in Paris where authorities demonstrate consequences of resistance through public punishment"
+    weather: "Harsh midday sun providing no shadows or concealment for state violence"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Forced to watch public punishment as warning against resistance, standing in fearful silence around execution platform"
+      action: "Witnessing brutal arrest and public humiliation of fellow citizen, showing visible terror and submission to state power, learning lesson about cost of defiance"
+  scene:
+    mainElements: "Platform where citizen is publicly punished for possession of forbidden book, guards destroying confiscated materials, crowd forced to witness state violence"
+    details: "Forbidden books are burned while author is publicly humiliated. Guards use excessive force to demonstrate state power. Citizens are forced to watch as warning. Any expression of sympathy for victim is noted by observers"
+    background: "Government buildings overseeing scene, additional guards preventing crowd from leaving, recording clerks noting those who fail to show sufficient approval of punishment"
+    atmosphere: "Terror used to maintain control through public demonstration of state violence, intellectual freedom crushed through systematic intimidation, citizens reduced to fearful submission"
+  composition:
+    cameraAngle: "Wide shot showing mass forced witnessing of state violence and intimidation"
+    focus: "Public punishment platform with victim being brutalized while crowd watches in terror"
+    depth: "Foreground shows details of violence and destruction, middle ground displays forced audience, background reveals state apparatus of control and intimidation"

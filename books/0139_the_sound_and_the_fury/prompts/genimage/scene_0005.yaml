@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1850s creation through 1910 destruction across sixty years
+    location: Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory
+      furnishings
+    weather: Indoor lamplight and natural light showing timepiece across different settings
+  characters: No characters present in this scene
+  scene:
+    mainElements: Gold pocket watch inherited from grandfather with broken crystal face and hands removed by Quentin, but
+      internal mechanism continues relentless ticking, represents oppressive nature of linear time and family legacy
+    details: 'Temporal progression showing watch''s complete lifecycle in overlapping stages: leftmost shows 1850s craftsman''s
+      hands finishing pristine gold timepiece, crystal face perfect, hands precisely positioned, internal mechanism newly
+      assembled; center layer reveals watch in grandfather''s possession 1880s, worn but maintained, carried in formal vest
+      pocket, crystal lightly scratched but functional; rightmost shows 1910 Harvard room where watch sits with crystal deliberately
+      smashed by Quentin, hands torn off but mechanism still audibly ticking, representing failed attempt to escape temporal
+      tyranny no text or letters visible'
+    background: Settings transform from craftsman's workshop to grandfather's formal study to Quentin's sparse Harvard dormitory,
+      showing watch's journey through family generations and social decline
+    atmosphere: Haunting visualization of how family heirlooms carry weight of expectation and inherited burden, ultimately
+      becoming instruments of psychological torture rather than cherished legacy
+  composition:
+    cameraAngle: Close-up macro shot focusing on watch face showing temporal progression
+    focus: Pocket watch crystal and hands showing transformation from perfection through use to deliberate destruction
+    depth: 'Foreground: watch face in various states of repair and damage; middle ground: different hands holding or setting
+      aside timepiece; background: evolving settings from creation to final rejection'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

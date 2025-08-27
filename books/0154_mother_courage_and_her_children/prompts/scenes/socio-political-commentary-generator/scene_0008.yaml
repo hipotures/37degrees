@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Economic Inequality - Officers versus Common Soldiers"
+  setting:
+    time: "1629 winter, stark class divisions within military hierarchy"
+    location: "Military camp showing extreme contrast between officer quarters and common soldier conditions"
+    weather: "Harsh winter conditions affecting only lower ranks"
+  characters:
+    - appearance: "Military officers dining in comfort while common soldiers shiver in background"
+      clothing: "Officers in warm fur-lined uniforms, soldiers in threadbare rags inadequate for winter"
+      position: "Officers seated at tables with fine food, soldiers standing at distance begging for scraps"
+      action: "Officers feasting on elaborate meals while soldiers share thin gruel and fight over bread crusts"
+  scene:
+    mainElements: "Sharp visual contrast between luxurious officer quarters and miserable common soldier accommodations"
+    details: "Officers' heated tents with fine furniture expensive food and warm clothing, common soldiers huddled around inadequate fires wearing rags sharing single blankets, vast inequality of treatment within same military organization"
+    background: "Hierarchical military system creating extreme class divisions and suffering among those serving same cause"
+    atmosphere: "Bitter cold affecting only the powerless, hunger and deprivation as tools of class control, resentment building among common soldiers"
+  composition:
+    cameraAngle: "Split composition showing simultaneous luxury and deprivation within single frame"
+    focus: "Extreme economic inequality within military hierarchy revealing systemic exploitation"
+    depth: "Foreground shows starving soldiers, middle ground barrier between classes, background officer luxury"

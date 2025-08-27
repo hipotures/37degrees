@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: June 1923, early afternoon around 2:30 PM
+    location: Westminster government buildings and corridors of power
+    weather: Afternoon sunlight streaming through tall governmental windows
+  characters:
+  - appearance: 55-year-old Member of Parliament, solid dependable build, fair hair and blue eyes, distinguished bearing of
+      British establishment, somewhat stiff formal posture
+    clothing: Conservative three-piece suit in dark wool, possibly with stiff detachable collar, impeccable tailoring befitting
+      his political position
+    position: Walking purposefully through government building corridors
+    action: Formal measured movements reflecting his role as pillar of tradition
+  scene:
+    mainElements: Westminster government building interiors with marble columns, portraits of statesmen, ceremonial spaces
+      of British power
+    details: Through Richard's establishment perspective, government buildings appear as temples of legitimate authority,
+      marble columns representing pillars of civilization, portraits of past leaders forming pantheon of worthy predecessors,
+      corridors echoing with historical significance, fellow politicians appearing as fellow servants of empire, paperwork
+      representing sacred duty to nation, sunlight through tall windows blessing governmental work, no text or letters visible
+    background: Grand governmental architecture with ceremonial staircases, official portraits, symbols of British imperial
+      power and parliamentary tradition
+    atmosphere: Reverent respect for institutional power and tradition, Richard's conservative psychological filter making
+      government buildings into sacred spaces of legitimate authority and historical continuity
+  composition:
+    cameraAngle: From Richard's respectful eye level, showing governmental space as noble and historically significant
+    focus: Symbols of British governmental authority and tradition appearing dignified through his establishment perspective
+    depth: Ceremonial government details in foreground, Richard's figure moving through halls of power in middle ground, grand
+      architecture representing historical authority in background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

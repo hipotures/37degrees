@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1962, late afternoon
+    location: Chemical research laboratory during active pesticide development work
+    weather: Indoor controlled environment
+  characters:
+  - appearance: Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting
+      dedication to scientific truth over corporate interests
+    clothing: White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating
+      scientific profession
+    position: Standing at laboratory bench, observing equipment operation
+    action: Watching microscopic particles respond to mechanical vibrations from research apparatus
+  scene:
+    mainElements: Fine dust particles and powder residue on laboratory bench jumping and dancing in response to vibrations
+      from centrifuge and other mechanical equipment, creating visible rhythm patterns that mirror machine operations
+    details: Delicate chemical powders arranged on black laboratory bench surface responding to equipment vibrations, particles
+      forming geometric patterns as they bounce with mechanical rhythm, glass apparatus trembling slightly with machine operation,
+      fluorescent lighting illuminating dust movement creating mini light shows, oscilloscope screens showing vibration patterns
+      that match particle movement
+    background: Sterile 1960s research facility with functional design prioritizing scientific work over aesthetics, representing
+      both promise and danger of chemical innovation
+    atmosphere: Clinical fascination with mechanical precision and scientific measurement, visible manifestation of invisible
+      forces, laboratory environment where chemical innovations are developed without full understanding of consequences,
+      no text or letters visible
+  composition:
+    cameraAngle: Close-up macro view of laboratory bench surface showing particle movement
+    focus: Dust particles creating visible patterns from equipment vibrations
+    depth: Extreme foreground shows detailed particle behavior, middle ground includes laboratory equipment, background suggests
+      broader research facility
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

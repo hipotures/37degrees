@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Mask Slips - Polemarch's Defeat Revealed"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "slumped on couch in defeated posture"
+      action: "hand covering face in moment of intellectual vulnerability, shoulders sagging with realization"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "remaining standing with gentle but firm presence"
+      action: "observing young man's emotional response to logical defeat with mixture of compassion and determination"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Lamp flames casting deep shadows across defeated figure's partially hidden face, wine cup tilted precariously in nerveless fingers, silence filling space after intellectual collapse"
+    background: "other guests maintaining respectful quiet during moment of philosophical reckoning"
+    atmosphere: "brief moment of human vulnerability piercing through formal debate, mixture of defeat and enlightenment"
+  composition:
+    cameraAngle: "intimate close-up revealing hidden emotion behind public composure"
+    focus: "moment of genuine pain and recognition replacing confident debating stance"
+    depth: "covered face in sharp focus foreground, observing philosopher in middle ground, silent witnesses in background"

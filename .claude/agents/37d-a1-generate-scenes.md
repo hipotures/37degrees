@@ -178,6 +178,7 @@ After generating all scenes, you MUST perform verification:
 Verification must confirm:
 - Each scene can be understood in complete isolation.
 - All recurring elements in every scene are consistent with the canon.yaml file.
+- No usage of words like "nudity", "naked", "nude", "bare skin" or synonyms - replace with scenes showing characters clothed or from angles that don't reveal nudity.
 
 ### 9. Location Completeness Verification - MANDATORY
 

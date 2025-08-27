@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1910, late afternoon
+    location: Interior of private study room in educated Bengali household, British colonial India
+    weather: Still air inside closed room with dust motes visible in window light
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Seated in meditation pose surrounded by ancient manuscripts and books
+    action: Reading silently while dust motes float undisturbed in afternoon light beams creating visible stillness
+  scene:
+    mainElements: Profound scholarly silence made visible through dust motes floating in perfect, undisturbed patterns while
+      pages turn without sound and shadows remain completely static
+    details: Ancient room filled with manuscripts and bound books where silence has acquired physical presence. Dust motes
+      drift in afternoon sunbeams following lazy, undisturbed patterns showing air's complete stillness. Protagonist turns
+      manuscript pages so gently that not even slightest air current disturbs floating particles. Shadows of window frames
+      remain perfectly sharp and motionless on floor. Even protagonist's breathing is so controlled that nearby loose papers
+      don't flutter. Ink on pages seems to absorb light rather than reflect it, contributing to room's sound-absorbing quality.
+      Fabric of his robes hangs without movement. Small oil lamp flame burns straight up without flicker showing absolute
+      air stillness. Manuscripts show no page movement despite being unbound. No text or letters visible clearly enough to
+      read.
+    background: Scholarly chamber where accumulated knowledge creates atmosphere of reverent silence deeper than temple quiet
+    atmosphere: Intellectual and spiritual silence where accumulated wisdom seems to absorb even thought itself, creating
+      visual meditation on sacred nature of learning
+  composition:
+    cameraAngle: Medium shot showing floating dust motes as visible proof of perfect stillness
+    focus: Undisturbed dust patterns in light beams that visualize complete absence of sound or movement
+    depth: 'Foreground: floating dust motes in light beams. Middle: quietly reading figure. Background: shelved manuscripts
+      in shadow'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

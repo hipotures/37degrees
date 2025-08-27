@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Duke and King Arrive - Con Men Board the Raft"
+  setting:
+    time: "1840s Mississippi River, late morning"
+    location: "Raft docked at secluded riverbank"
+    weather: "Warm, humid morning with light breeze"
+  characters:
+    - appearance: "Around 30 years old, lean and agile man. Sharp, cunning face with quick, darting eyes. Clean-shaven or small mustache. Energetic, nervous movements."
+      clothing: "Worn but pretentious clothing meant to suggest respectability. Old frock coat, battered top hat, scuffed shoes. Clothing shows past better times but now shabby."
+      position: "Standing on raft arguing dramatically with older companion"
+      action: "Gesturing theatrically while claiming to be rightful Duke of Bridgewater"
+    - appearance: "Around 70 years old, heavyset man with protruding belly. Balding head with gray side whiskers. Face capable of false piety or righteous indignation as needed for schemes."
+      clothing: "Old, worn blue frock coat. Damaged white beaver hat. Dirty shirt. All clothing once formal but now shabby and stained."
+      position: "Sitting heavily on raft edge, feet dangling in water"
+      action: "Weeping crocodile tears while claiming to be lost French Dauphin"
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt."
+      clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot."
+      position: "Standing at edge of raft with Jim, both looking skeptical"
+      action: "Exchanging doubtful glances with Jim while listening to increasingly absurd royal claims"
+  scene:
+    mainElements: "Platform of lashed logs with steering oar, canvas shelter, new unwelcome passengers disrupting peaceful river life"
+    details: "Raft supplies and fishing equipment, small bundle of possessions belonging to new arrivals, canvas wigwam now crowded with four occupants"
+    background: "Quiet riverbank with overhanging willow trees, peaceful water reflecting morning sky"
+    atmosphere: "Invasion of civilization's corruption into natural sanctuary, comedy mixed with growing unease, false theatricality disrupting honest simplicity, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from riverbank showing all characters on raft"
+    focus: "Contrast between theatrical con men and skeptical but helpless Huck and Jim"
+    depth: "Raft with all characters in foreground, calm river in middle, peaceful shore in background"

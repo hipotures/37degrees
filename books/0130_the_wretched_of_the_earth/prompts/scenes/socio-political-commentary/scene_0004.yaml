@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Technological Progress Display"
+  setting:
+    time: "1950s Algeria, early afternoon"
+    location: "French colonial district in Algeria with wide tree-lined boulevards, Haussmanian architecture mixed with neo-Moorish elements, clean illuminated streets"
+    weather: "Bright sunlight illuminating modern equipment"
+  characters:
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Elegant civilian suit typical of 1950s colonial administration"
+      position: "Standing beside modern machinery"
+      action: "Demonstrating new agricultural equipment to assembled crowd, gesturing toward mechanical innovations"
+    - appearance: "Weather-beaten Algerian man in his 40s-50s, deep furrows on sun-scorched face, large calloused hands from agricultural work, dignified despite hardship"
+      clothing: "Traditional djellaba or gandoura, woolen burnous for protection, simple earth-toned garments"
+      position: "Standing in crowd observing demonstration"
+      action: "Watching with skeptical expression, arms crossed, unmoved by technological display"
+  scene:
+    mainElements: "Modern French agricultural machinery and construction equipment displayed in public square, tractors, bulldozers, and irrigation systems representing colonial modernization"
+    details: "Gleaming metal machinery with French manufacturer labels, demonstration signs in French explaining technical benefits, colonial officials in clean suits contrasting with traditional-dressed Algerians, backdrop of modern buildings and infrastructure projects"
+    background: "Monumental colonial buildings, manicured parks, elegant shop windows, organized urban planning"
+    atmosphere: "Sterile orderliness masking underlying tension and control, geometric precision symbolizing colonial domination"
+  composition:
+    cameraAngle: "Wide shot showing technology display and mixed audience"
+    focus: "Modern machinery as symbol of colonial progress, contrasting reactions of Europeans and Algerians"
+    depth: "Machinery display in foreground, mixed crowd in middle ground, colonial infrastructure in background"

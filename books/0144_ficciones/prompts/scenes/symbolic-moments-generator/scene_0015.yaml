@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Lottery Ticket That Rewrites Fate"
+  setting:
+    time: "Ancient Babylon, eternal present of mythical city"
+    location: "Grand marketplace of Babylon with crowds and merchants, center of universal lottery system"
+    weather: "Hot desert sun creating sharp shadows and brilliant light"
+  characters:
+    - appearance: "Babylonian citizen of indeterminate age, representing everyman caught in system beyond comprehension, weathered face showing resignation mixed with hope, eyes reflecting lifetime of uncertainty"
+      clothing: "Simple linen tunic and sandals of ancient Mesopotamian style, clothing showing wear but not poverty"
+      position: "Standing in marketplace crowd, holding small clay tablet with lottery symbols"
+      action: "Reading lottery results that will determine his fate, surrounded by other citizens doing same"
+  scene:
+    mainElements: "Small clay tablet bearing mysterious symbols becomes key to entire existence, cuneiform markings determining not just wealth or poverty but every aspect of life including duration of existence, tablet both insignificant object and cosmic decree"
+    details: "Lottery ticket transforms from simple gambling token into divine judgment, clay tablet holding power over life and death itself. Symbols appear to shift and change as citizen reads, suggesting reality itself being rewritten by cosmic lottery system. Simple cuneiform becomes hieroglyphic scripture of fate"
+    background: "Bustling Babylonian marketplace with merchants selling goods, crowds of citizens checking lottery results, ziggurats rising in distance, desert heat creating shimmer effects, ancient city at height of power"
+    atmosphere: "Cosmic uncertainty made mundane through routine, desert heat emphasizing harsh reality of arbitrary fate, crowd noise contrasting with individual moment of destiny, system so complex it becomes indistinguishable from chaos, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on hands holding clay tablet with face visible above"
+    focus: "The clay tablet with mysterious symbols determining citizen's fate"
+    depth: "Hands holding tablet in foreground, citizen's anxious face in middle ground, crowded marketplace creating busy background"

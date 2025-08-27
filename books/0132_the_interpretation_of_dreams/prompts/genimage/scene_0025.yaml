@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: January 1, 1900 at sunrise marking transition to new century
+    location: Vienna cityscape viewed from elevated position showing entire imperial capital awakening to new era
+    weather: Clear dawn with golden light breaking across city, symbolizing new beginning
+  characters:
+  - appearance: Entire population of Vienna from all social classes, ages, and backgrounds
+    clothing: Mixed attire representing full spectrum of Viennese society awakening to new century
+    position: Throughout cityscape in homes, streets, and public spaces experiencing universal moment
+    action: Collectively transitioning from 19th to 20th century, sharing historic moment regardless of individual differences
+  scene:
+    mainElements: Entire city unified by universal experience of temporal transition transcending all individual perspectives,
+      personal conflicts temporarily suspended by shared historic moment
+    details: Panoramic view of Vienna with Ringstrasse, St. Stephen's Cathedral, Danube River, residential districts, and
+      institutional buildings all illuminated by same dawn light. Church bells, clock towers, and public clocks marking simultaneous
+      moment. People emerging from buildings, looking toward sky, sharing recognition of historic transition. Individual differences
+      in wealth, education, and belief temporarily united by universal experience of time passage.
+    background: Complete Vienna cityscape representing entire imperial capital participating in same historic moment
+    atmosphere: Universal transcendence of individual perspective through shared temporal experience, moment when personal
+      conflicts become irrelevant before larger historical significance, collective recognition of entering unknown future,
+      democratic participation in cosmic transition, no text or letters visible
+  composition:
+    cameraAngle: Elevated panoramic perspective showing entire city united in single moment
+    focus: Dawn light touching all parts of city simultaneously, erasing individual differences in shared illumination
+    depth: 'Foreground: individual buildings and people participating in universal moment, Middle: citywide participation
+      in historic transition, Background: sunrise representing forces greater than human perspective affecting all equally'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

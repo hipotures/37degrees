@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, early evening in May
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Humid heat intensifying, sweat beginning to show
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Elegant but inexpensive clothing attempting to maintain facade of refinement. White suit with fluffy bodice,
+      pearl necklace and earrings, white gloves and hat for arrival. Often wears flowing feminine fabrics in soft colors,
+      red or scarlet satin robes at home, tattered white evening gown with rhinestone tiara in climactic scenes
+    position: Pressed against wall near bedroom entrance, clutching purse defensively
+    action: Shrinking back from male presence, attempting to maintain composure while clearly disturbed by his directness
+      and physicality
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Rough blue denim work clothes stained with grease. Tight, sweat-stained undershirts at home. Brightly colored
+      silk shirts for bowling and poker (green-scarlet, purple, red-white checkered). Bright silk pajamas during climactic
+      scene
+    position: Dominating center of kitchen space, hands on hips in aggressive stance
+    action: Sizing up the newcomer with calculating, predatory gaze, removing shirt in deliberate act of dominance
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Tension crackling in humid air between two opposing forces. Woman's refined mannerisms clashing with man's crude
+      directness. Sweat stains and work clothes versus pristine white garments. Single harsh bulb illuminating the confrontation
+      with unforgiving light. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Electric tension and mutual hostility. Cultural and class warfare beginning immediately. Primal sizing-up
+      between predator and prey. Temperature seeming to rise with emotional heat
+  composition:
+    cameraAngle: Medium shot alternating between participants, emphasizing opposition
+    focus: Confrontational body language and contrasting social positions
+    depth: 'Foreground: dominating male figure; middle ground: shrinking female figure; background: cramped apartment emphasizing
+      no escape'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

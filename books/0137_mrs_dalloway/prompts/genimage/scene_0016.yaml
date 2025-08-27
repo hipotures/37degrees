@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: June 1923, midday around 12:30 PM
+    location: Westminster district street intersection, neutral observational viewpoint
+    weather: Clear June day with measured sunlight and shadow patterns
+  characters:
+  - appearance: Mixed pedestrians of various ages and social classes moving through Westminster district
+    clothing: Range of 1920s clothing from working class to upper middle class
+    position: Moving through street intersection in normal daily patterns
+    action: Ordinary pedestrian activities without emotional interpretation
+  scene:
+    mainElements: Westminster district street intersection with Georgian architecture, mixed vehicle traffic, pedestrian crossings
+    details: Neutral documentary view without psychological filtering shows street at actual scale with measured proportions,
+      buildings appearing as constructed stone and brick without symbolic significance, pedestrians moving at normal human
+      speeds without dramatic interpretation, vehicles creating standard urban traffic patterns, shadows falling according
+      to sun's actual position, sounds registering at realistic volume levels, no text or letters visible
+    background: Standard London architecture of 1920s appearing without enhancement or symbolic meaning, ordinary urban landscape
+      without psychological projection
+    atmosphere: Neutral urban environment without emotional coloring, objective recording of city life as it exists independent
+      of character perspectives, no psychological filters distorting reality
+  composition:
+    cameraAngle: Neutral eye-level perspective providing documentary record of street scene
+    focus: Overall street scene with equal attention to all elements rather than subjective emphasis
+    depth: Balanced composition showing foreground, middle ground, and background in realistic proportions without dramatic
+      emphasis
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

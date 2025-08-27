@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Time-lapse Truth of Goriot's Decline" 
+  setting:
+    time: "1819-1820, months compressed into single view"
+    location: "Goriot's boarding house room showing temporal progression"
+    weather: "Seasonal changes from autumn through winter showing passage of time"
+  characters:
+    - appearance: "Jean Joachim Goriot"
+      age: "69 years old showing temporal deterioration"
+      appearance: "Time-lapse view of transformation from originally robust and well-built man to final emaciated and stooped figure, showing progressive financial and physical ruin. Facial deterioration from broad, naive expression to gaunt, pale, worn face with sunken cheeks"
+      hair: "Transformation from daily powdered hair to thin and unkempt grey hair"
+      clothing: "Progressive deterioration from wealthy merchant's fine clothes through various stages of decline to final worn, cheap, dirty garments"
+      posture: "Gradual change from confident merchant's bearing through increasingly defeated slouch to final spasmatic movements"
+      position: "Multiple temporal positions showing progression from comfortable residence to impoverished attic exile"
+      action: "Time-compressed view of systematic sacrifice of possessions and dignity for daughters' benefit"
+  scene:
+    mainElements: "Objective time-lapse reveals true progression of Goriot's exploitation - systematic removal of furniture, clothing, possessions, dignity, and finally health, all transferred to daughters who never visit or acknowledge sacrifices."
+    details: "Compressed temporal view shows actual rate of exploitation - weekly loss of possessions, monthly decline in clothing quality, seasonal deterioration of nutrition and health, annual progression from respected resident to despised pauper."
+    background: "Room's contents systematically disappearing over time while resident's physical condition deteriorates proportionally"
+    atmosphere: "Inexorable progression of exploitation and decline proceeding at measurable rate regardless of emotional interpretation"
+  composition:
+    cameraAngle: "Fixed position showing temporal changes in same space, documenting objective progression of decline"
+    focus: "Time-compressed documentation of systematic exploitation proceeding at measurable rate"
+    depth: "Layered temporal view showing beginning state in background, progressive stages in middle ground, final devastation in foreground, no text or letters visible"

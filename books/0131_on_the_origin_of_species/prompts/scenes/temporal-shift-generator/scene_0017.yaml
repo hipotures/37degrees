@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Scientific Paper Mid-Flight While Darwin Ages Around It"
+  setting:
+    time: "1859 publication moment with decades flowing past, suspended afternoon"
+    location: "Ground floor study room in Down House, Kent countryside residence, with large windows overlooking garden"
+    weather: "Consistent afternoon light with decades of seasonal changes flowing past"
+  characters:
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "Aging rapidly from middle age to elderly while manuscript remains suspended"
+      action: "Darwin releasing finished manuscript into air while aging from clean-shaven to full white beard, manuscript frozen in moment of release"
+    - appearance: "Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture, completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins"
+      clothing: "Comfortable elderly gentleman's dress: loose black woolen coat, thick gray shawl around shoulders, soft felt hat, heavy walking boots, woolen mittens in cold weather"
+      position: "Final aged form still in same gesture of releasing manuscript"
+      action: "Elderly Darwin maintaining same pose while decades have passed around frozen manuscript"
+  scene:
+    mainElements: "Massive wooden desk cluttered with papers and specimens, floor-to-ceiling bookshelves filled with scientific volumes, microscope and magnifying glasses, specimen jars and dried plants, leather armchair on wheels, fireplace with family portraits above mantel"
+    details: "Manuscript pages suspended in mid-air showing 'On the Origin of Species' while room ages around them: books accumulating on shelves, specimens multiplying in jars, furniture gaining wear patterns, portraits changing on mantel to show family aging, oil lamps replaced by gas fixtures, seasons cycling rapidly through windows, scientific instruments advancing, all while manuscript remains perfectly frozen in publication moment, no text or letters visible on suspended pages"
+    background: "Garden view through windows showing decades of growth: young trees becoming mature, greenhouse expanding, experimental plots evolving, all in accelerated time around frozen manuscript moment"
+    atmosphere: "Timeless significance of scientific breakthrough captured in single publication moment while life and world continue changing around it"
+  composition:
+    cameraAngle: "Medium shot showing Darwin aging around suspended manuscript"
+    focus: "The frozen manuscript as eternal moment of scientific achievement"
+    depth: "Foreground: suspended manuscript pages, middle: aging Darwin, background: decades of change flowing past"

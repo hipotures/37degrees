@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Winter 1919 revolutionary fervor to winter 1944 wartime resignation
+    location: Palace Walk street during political demonstrations versus wartime curfew
+    weather: Cold winter days with same harsh light revealing different realities
+  characters:
+  - appearance: 20-year-old Egyptian law student, serious intelligent expression, idealistic bearing
+    clothing: Student's European-style suit with fez, carrying law books or pamphlets
+    position: Upright posture suggesting moral conviction and determination
+    action: '1919: Leading demonstration with passionate conviction, 1944: Walking alone with defeated posture'
+  scene:
+    mainElements: Same narrow medieval street in Al-Jamaliyya district showing transformation from revolutionary uprising
+      to wartime oppression
+    details: '1919: Streets filled with demonstrators carrying green flags with crescent and cross symbols, crowds energized
+      with independence hopes, British military presence as opposition. 1944: Same streets nearly empty under wartime restrictions,
+      different foreign military presence (Allied forces), scattered debris of broken dreams, political graffiti weathered
+      and faded, no readable text visible'
+    background: Ghostly silhouettes of slender mosque minarets rising above rooftops unchanged, same ancient architecture
+      witnessing both hope and despair
+    atmosphere: Bitter contrast between revolutionary optimism and wartime cynicism, winter cold emphasizing harsh reality
+      of unfulfilled political promises, temporal tragedy of idealistic generation's disillusionment
+  composition:
+    cameraAngle: Street-level view showing crowd energy versus solitary isolation
+    focus: Central figure embodying generational shift from hope to resignation
+    depth: 'Foreground: contrasting crowd dynamics, middle ground: individual transformation, background: unchanging historic
+      architecture bearing witness to political cycles'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

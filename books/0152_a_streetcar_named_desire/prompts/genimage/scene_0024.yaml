@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, late afternoon departure day
+    location: Working-class street in New Orleans French Quarter, between L&N railroad tracks and Mississippi River. Two-story
+      corner building with weathered white wooden frame turned gray, rickety external stairs, galleries with ornate gables
+    weather: Heavy, oppressive heat continuing relentlessly
+  characters:
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple housedress, holding newborn child protectively
+    position: Standing on external stairs, torn between opposing loyalties
+    action: Crying while holding baby, watching sister being led away, choosing family survival over sisterly loyalty
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Clean shirt for occasion, attempting respectability during removal
+    position: Standing beside distraught wife, offering comfort while ensuring victory
+    action: Comforting wife while watching threatening rival being permanently removed from his domain
+  scene:
+    mainElements: Cosmopolitan, racially mixed neighborhood with raffish charm. Street life spills onto sidewalks, verandas,
+      and stairways. Nearby bar with blue piano music, railroad tracks, river warehouses
+    details: Family torn apart by impossible choices between love and survival. New mother holding innocent child while making
+      devastating decision. Man's satisfaction at eliminating threat to his control. Neighborhood watching another family
+      tragedy unfold. Distant sound of departing vehicle taking away broken family member. No text or letters visible
+    background: Mix of vitality and decay, humid heat, sounds of blue piano, train whistles, street vendors calling, smells
+      of coffee, bananas, and mustiness from river
+    atmosphere: Tragic family sacrifice for survival. Love proving insufficient against practical necessities. Heartbreaking
+      choice between sister and child's future safety
+  composition:
+    cameraAngle: Wide shot emphasizing family division and difficult choices
+    focus: Mother's anguished face holding child while watching sister disappear
+    depth: 'Foreground: grieving mother with baby; middle ground: comforting but triumphant husband; background: neighborhood
+      witnessing family destruction'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

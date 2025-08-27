@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, late afternoon with golden light turning ominous
+    location: Palace courtyard near bronze war chariot, stone paving reflecting harsh light
+    weather: Golden afternoon light creating dramatic contrasts and deep shadows
+  characters:
+  - appearance: Young Trojan princess and Apollo priestess aged 20-25 years, brought to Argos as war captive and Agamemnon's
+      concubine, tragic exotic beauty, medium height with chestnut hair described by Dares of Phrygia, appearance marked by
+      suffering and gift of prophecy which is her curse, long disheveled hair symbolizing madness or divine inspiration in
+      Greek art, eyes with wild absent gaze as if seeing things invisible to others, face shows pain of foreseeing her own
+      death
+    clothing: Trojan garments perhaps more colorful and decorated than Greek women wear visually distinguishing her, Aeschylus
+      mentions saffron robe possibly referencing color worn by maidens destined for sacrifice foreshadowing her fate
+    position: Medium shot showing waist up, leaning forward with hands reaching toward palace as if touching invisible horrors
+    action: Voice of truth no one wishes to hear, her prophetic visions in ecstatic trance state reveal dark past of House
+      of Atreus and foretell approaching slaughter with terrifying accuracy, embodies powerlessness of knowledge before inevitable
+      fate
+  scene:
+    mainElements: Marked by prophetic gift burden, in ecstatic trance body convulses as if possessed, movements violent and
+      uncontrolled, tears off priestly insignia and tramples them, finally walks toward palace with resignation and dignity
+      knowing she goes to death
+    details: Exotic Trojan fabric patterns and colors contrasting with Greek architectural setting, golden jewelry and ornaments
+      catching light, prophetic gestures reaching toward visions only she can see, torn priestly insignia scattered at her
+      feet, facial expression mixing terror with tragic acceptance
+    background: Bronze war chariot and weapons suggesting her captive status, palace walls looming ominously with dark doorway
+      leading to fate, afternoon shadows creating sense of approaching doom
+    atmosphere: Tragic inevitability and powerless knowledge, exotic foreign presence in hostile environment, divine curse
+      manifesting as terrible gift, approaching doom that only she can see clearly
+  composition:
+    cameraAngle: Medium shot capturing body language and relationship to immediate environment
+    focus: Reaching gesture and prophetic expression as she perceives invisible supernatural horrors
+    depth: Subject in sharp focus with war chariot and palace architecture providing context, scattered sacred objects in
+      foreground suggesting rejected divine protection, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

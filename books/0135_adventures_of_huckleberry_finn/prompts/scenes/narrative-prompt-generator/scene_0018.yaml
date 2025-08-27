@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wilks Sisters' Grief - Orphans' Inheritance Stolen"
+  setting:
+    time: "1840s Arkansas river town, afternoon"
+    location: "Parlor of deceased Peter Wilks's house during funeral preparations"
+    weather: "Overcast day with somber light through windows"
+  characters:
+    - appearance: "Around 70 years old, heavyset man with protruding belly. Balding head with gray side whiskers. Face capable of false piety or righteous indignation as needed for schemes."
+      clothing: "Black funeral attire borrowed for the occasion, attempting to look like grieving brother"
+      position: "Standing beside coffin with arms outstretched"
+      action: "Delivering flowery, fake eulogy while secretly planning to steal family fortune"
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt."
+      clothing: "Clean clothes borrowed for funeral, looking uncomfortable in formal setting"
+      position: "Standing at back of crowded parlor"
+      action: "Watching with growing disgust as con men exploit grieving sisters"
+  scene:
+    mainElements: "Formal parlor arranged for funeral with open coffin, mourning decorations, crowd of townspeople paying respects to deceased"
+    details: "Black crepe draped over mirrors and pictures, flower arrangements around casket, wooden chairs arranged for visitors, family Bible on side table"
+    background: "Three grieving sisters - Mary Jane, Susan, and Joanna - weeping genuinely while surrounded by false mourners, windows draped in black cloth"
+    atmosphere: "Authentic grief exploited by calculating criminals, sacred family ceremony corrupted by greed, innocence preyed upon by experienced evil, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from Huck's position showing contrast between real and fake emotion"
+    focus: "King's theatrical mourning contrasted with sisters' genuine sorrow and Huck's moral outrage"
+    depth: "Huck observing in foreground, fake funeral scene in middle, grieving family in background"

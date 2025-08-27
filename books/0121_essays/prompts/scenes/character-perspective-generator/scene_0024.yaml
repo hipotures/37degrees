@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Civilization Versus Natural Wisdom"
+  setting:
+    time: "Eternal present, conceptual space"
+    location: "Symbolic representation showing European courthouse beside Brazilian Tupinambá village"
+    weather: "Neutral lighting allowing equal examination of both cultures"
+  characters:
+    - appearance: "European magistrates in formal judicial robes representing civilized justice and legal order"
+      clothing: "Elaborate judicial attire with symbols of royal authority, expensive materials showing cultural refinement"
+      position: "Standing in formal courthouse setting, elevated above common people"
+      action: "Administering complex legal procedures, maintaining social hierarchies, punishing moral transgressions"
+    - appearance: "Tupinambá warriors and community members living in harmony with natural law"
+      clothing: "Bright red feather cape made entirely from bright red feathers of Guara bird (scarlet ibis), worn by Tupinambá warriors during important rituals, symbol of natural beauty and harmony with environment"
+      position: "Gathered in circular community arrangement showing equality and consensus"
+      action: "Making decisions through communal discussion, resolving conflicts through ritual combat, living according to natural cycles"
+  scene:
+    mainElements: "Parallel presentation of European legal civilization contrasted with Tupinambá natural wisdom"
+    details: "European side shows complex institutional architecture, written laws, hierarchical authority, punishment mechanisms, separation from nature, accumulated wealth and power structures; Tupinambá side shows circular communal longhouses, oral tradition, consensual decision-making, ritual resolution of conflicts, integration with natural environment, shared resources and egalitarian relationships, no text or letters visible"
+    background: "Split landscape showing civilized European city contrasted with natural Brazilian rainforest environment"
+    atmosphere: "Simultaneous presentation of European institutional complexity versus Tupinambá natural simplicity, questioning which represents true wisdom"
+  composition:
+    cameraAngle: "Parallel framing allowing equal examination of both cultural approaches to justice and social organization"
+    focus: "Contrast between institutional civilization and natural wisdom, questioning assumptions about progress"
+    depth: "Foreground shows cultural practices, middle ground captures social organization, background reveals environmental relationship, no text or letters visible"

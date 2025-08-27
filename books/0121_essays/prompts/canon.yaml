@@ -1,0 +1,124 @@
+canon:
+  characters:
+    - id: "montaigne"
+      name: "Michel de Montaigne"
+      description_block: |
+        characters:
+          - appearance: "Man in his 40s-50s with intelligent, contemplative eyes, high slightly receding forehead, carefully trimmed beard and mustache, calm expression showing depth of thought and observer's distance"
+            clothing: "French nobleman's attire - fitted doublet with triangular breastplate cutout, puffy short breeches (pludry), silk stockings, stiff ruff collar around neck, golden chain of Order of Saint Michael across chest"
+            posture: "Thoughtful poses - hand supporting chin while contemplating, walking slowly with hands clasped behind back, seated at writing desk with quill pen, gazing through tower window with distant perspective"
+    
+    - id: "la_boetie"
+      name: "Étienne de La Boétie"
+      description_block: |
+        characters:
+          - appearance: "Young man in his 30s with refined intellectual features, warm eyes showing deep friendship and understanding, noble bearing"
+            clothing: "French magistrate's formal robes, dark scholarly attire appropriate for Bordeaux parliament member"
+            posture: "Engaged in intimate conversation, leaning forward during discussions, lying weak on deathbed with peaceful expression, appearing as memory or ghostly presence in library"
+
+    - id: "sokrates"
+      name: "Socrates"
+      description_block: |
+        characters:
+          - appearance: "Elderly man with famously unattractive features - broad flat face, bulging eyes, turned-up potato nose, thick lips, bald head with thick beard, resembling satyr Silenus"
+            clothing: "Simple Greek philosopher's robe, worn and patched, bare feet"
+            posture: "Sitting by fireplace asking ironic questions with knowing smile, standing in library shadows as philosophical guide"
+
+    - id: "cato_younger" 
+      name: "Cato the Younger"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Roman man with ascetic sharp features, tight-pressed lips, determined uncompromising gaze, austere expression"
+            clothing: "Simple Roman toga without ornamentation, deliberately plain dress"
+            posture: "Standing motionless like statue in library shadow as silent moral reproach, rigid upright bearing"
+
+    - id: "julius_caesar"
+      name: "Julius Caesar" 
+      description_block: |
+        characters:
+          - appearance: "Tall man with pale complexion, penetrating black eyes, elongated skull shape, balding head with thin hair combed forward, wearing laurel wreath to hide baldness, elegant and vain about appearance"
+            clothing: "Luxurious Roman general's armor with purple cloak, meticulously groomed and decorated"
+            posture: "Charismatic commanding presence with hint of vanity and physical imperfection, gesturing dramatically"
+
+    - id: "tupinamba_warrior"
+      name: "Tupinambá Warrior"
+      description_block: |
+        characters:
+          - appearance: "Strong healthy man with bronze skin, muscular harmonious build, completely naked body painted with intricate black red yellow geometric patterns"
+            clothing: "Feather ornaments - elaborate diadem and cape made entirely of bright red Guara bird feathers, necklaces of shells bones and wooden beads"
+            posture: "Proud warrior stance holding long bow, participating in communal village activities, dignified bearing during ritual ceremonies"
+
+  locations:
+    - id: "montaigne_tower"
+      name: "Tower at Château de Montaigne"
+      description_block: |
+        setting:
+          location: "Round stone tower at family castle in Aquitaine region of France, countryside on border between Périgord and Bordelais"
+        mainElements: "Three-level medieval tower - ground floor chapel with stone vaulted ceiling, first floor bedroom with acoustic pipes in walls, top floor circular library with books covering all walls and square writing study with fireplace"
+        atmosphere: "Sanctuary of contemplation, intellectual refuge from chaotic world, filled with wisdom and solitude"
+
+    - id: "montaigne_library"
+      name: "Circular Library in Tower"
+      description_block: |
+        setting:
+          location: "Top floor circular room of Montaigne's tower in French countryside castle"
+        mainElements: "Walls completely covered with bookshelves containing over thousand volumes of Greek and Latin classics, 57 philosophical inscriptions carved on oak ceiling beams, smell of old leather and parchment, natural light from tower windows"
+        atmosphere: "Sacred space of knowledge, overwhelming richness of intellectual tradition, silent except for rustling pages"
+
+    - id: "montaigne_study"
+      name: "Writing Study Adjacent to Library"
+      description_block: |
+        setting:
+          location: "Small square room connected to circular library in Montaigne's tower, French castle"
+        mainElements: "Fireplace with crackling fire, writing desk with inkwell quill pens and scattered papers, walls and ceiling completely covered with mannerist frescoes showing mythological scenes of Venus Adonis Mars"
+        atmosphere: "Intimate creative space where abstract thought becomes written word, warm and personal"
+
+    - id: "french_countryside_1570s"
+      name: "French Countryside During Religious Wars"
+      description_block: |
+        setting:
+          location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+        mainElements: "Forest paths suitable for horseback riding, stone bridges over streams, medieval villages with armed patrols, evidence of warfare and religious persecution"
+        atmosphere: "Beautiful landscape shadowed by violence and fanaticism, peaceful nature contrasting with human brutality"
+
+    - id: "bordeaux_parliament"
+      name: "Parliament Building in Bordeaux"
+      description_block: |
+        setting:
+          location: "Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority"
+        mainElements: "Stone courtroom with high ceilings, judge's bench, formal proceedings, legal documents, architectural grandeur representing royal justice"
+        atmosphere: "Formal intimidating space of law and judgment, weight of institutional authority"
+
+    - id: "tupinamba_village"
+      name: "Tupinambá Village in Brazil"
+      description_block: |
+        setting:
+          location: "Indigenous settlement in Brazilian rainforest along Atlantic coast, surrounded by lush tropical vegetation"
+        mainElements: "Four to eight large rectangular communal longhouses (maloca) arranged around central plaza, houses built with wooden frame and palm leaf thatch reaching ground, double palisade for defense, communal fires and hanging hammocks"
+        atmosphere: "Harmonious community living in balance with nature, sounds of jungle and village life, colorful feather decorations"
+
+  items:
+    - id: "philosophical_inscriptions"
+      name: "Ceiling Beam Inscriptions"
+      description_block: |
+        details: "57 Latin and Greek philosophical sentences carved into oak ceiling beams of library, including famous 'Que sais-je?' (What do I know?), quotations from Bible, Horace, Lucretius, Seneca, and skeptical philosophers especially Sextus Empiricus"
+
+    - id: "order_saint_michael"
+      name: "Golden Chain of Order of Saint Michael"
+      description_block: |
+        details: "Prestigious golden chain and medallion representing highest French nobility decoration, received from King Charles IX in 1571, symbol of Montaigne's aristocratic status and royal favor"
+
+    - id: "wooden_war_club"
+      name: "Tupinambá War Club (Iwirapema)"
+      description_block: |
+        details: "Ceremonial wooden club used for ritual execution of war prisoners, precisely crafted weapon symbolizing honor-based warfare and symbolic revenge rather than mere killing"
+
+    - id: "feather_cape"
+      name: "Bright Red Feather Cape"
+      description_block: |
+        details: "Spectacular ceremonial garment made entirely from bright red feathers of Guara bird (scarlet ibis), worn by Tupinambá warriors during important rituals, symbol of natural beauty and harmony with environment"
+
+    - id: "quill_and_inkwell"
+      name: "Writing Materials"
+      description_block: |
+        details: "Goose quill pen and ceramic inkwell on wooden writing desk, scattered papers with handwritten French text, sealing wax and letters, tools for transforming thought into permanent written form"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1840s Kentucky, afternoon
+    location: Riverbank woods where feud battle takes place
+    weather: Hot, sunny afternoon with no breeze
+  characters:
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+      Freckled face with boyish but wary expression.
+    clothing: Borrowed clothes from Grangerford family, now torn and dirty from climbing tree
+    position: Hidden high in cottonwood tree, peering down through leaves
+    action: Watching in horror as his young friend Buck is shot and killed in senseless family violence
+  scene:
+    mainElements: Wooded riverbank with tall trees providing cover, gunsmoke drifting between tree trunks, bodies of young
+      men fallen in water and on shore
+    details: Buck Grangerford and his cousin lying dead in shallow water, white linen suits now stained with blood and mud,
+      rifles abandoned on muddy bank, powder smoke hanging in still air
+    background: Mississippi River flowing peacefully past scene of violence, thick forest providing concealment, distant sound
+      of retreating horses
+    atmosphere: Senseless brutality destroying youth and innocence, beautiful natural setting contrasted with human evil,
+      waste of life over meaningless honor, no text or letters visible
+  composition:
+    cameraAngle: High angle from Huck's position in tree looking down at carnage
+    focus: Young victims of ancient hatred lying still while nature continues unchanged
+    depth: Tree branches and Huck in foreground, battle scene in middle, peaceful river in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

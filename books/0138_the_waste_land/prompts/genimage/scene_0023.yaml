@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1922, moment of integration
+    location: Shoreline where land meets water, symbolic space of transition and healing
+  characters:
+  - appearance: Ancient, androgynous figure with wrinkled female breasts on aged male frame, thin ascetic build, deeply lined
+      face bearing weight of centuries of wisdom and suffering, blind clouded eyes, long sparse gray hair
+    clothing: Simple rough cloth robes in neutral earth tones, gray and brown, timeless garments that suggest both antiquity
+      and universality
+    position: Seated on shore with fishing line in water
+    action: Gathering scattered fragments and arranging them into meaningful pattern
+  scene:
+    mainElements: Broken symbolic objects - mirror shards, compass pieces, toy ship fragments, key parts, rose petals - slowly
+      float together from sand and water, reassembling into new integrated forms
+    details: The broken mirror pieces rise from the sand and water, fitting together not into their original form but into
+      a new kind of wholeness - some fragments become windows, others form mosaics that tell stories. Compass parts reassemble
+      into a sundial that actually tells time accurately. Toy ship pieces merge with real driftwood to create a seaworthy
+      vessel. Rose petals press themselves into pages of a book that writes itself. The integration is not restoration but
+      transformation into something previously unimaginable.
+    background: Sucha równina, arid plain behind, but now showing first signs of green growth, Thames or symbolic river flowing
+      toward the sea
+    atmosphere: Spokój, rezygnacja, but also determination and creative power, the moment when destruction becomes the foundation
+      for new creation, fragments finding new purpose, no text or letters visible
+  composition:
+    cameraAngle: Medium view showing Tiresias orchestrating the integration of fragments
+    focus: The moment of creative synthesis as broken pieces find new unified purpose
+    depth: Reassembling fragments in foreground, Tiresias as wise orchestrator in middle ground, healing landscape extending
+      toward horizon in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

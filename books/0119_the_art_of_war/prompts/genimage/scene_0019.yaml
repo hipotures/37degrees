@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, timeless moment during deepest strategic contemplation
+    location: Abstract temporal space where strategic thinking transcends normal time flow
+    weather: Environment without temporal weather, existing outside normal causation
+  characters:
+  - appearance: Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years
+      of military training, sharp intelligent dark eyes, high cheekbones
+    clothing: Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft
+      leather boots, occasionally wears light bronze scale armor when in military settings
+    position: Seated in meditation before impossible timepiece
+    action: Contemplating bronze water clock that measures strategic moments rather than temporal hours
+  scene:
+    mainElements: Ancient bronze water clock with no conventional hands or markings, water flows upward and downward simultaneously,
+      measuring strategic timing rather than chronological time
+    details: Bronze clock mechanism shows water flowing in impossible patterns - upward streams indicating preparation phases,
+      horizontal flows suggesting tactical timing, downward streams marking execution phases. Ceremonial military command
+      fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by generals
+      to signal troop movements during battle rests beside clock, feathers moving without wind to indicate strategic rhythm
+    background: Abstract space where time becomes visible as flowing patterns, strategic moments materializing as geometric
+      shapes rather than numerical measurements
+    atmosphere: Timeless contemplation where strategic thinking transcends temporal limitations, sound of water flowing in
+      multiple directions simultaneously, sense of perfect timing being more important than speed, no text or letters visible
+      to viewer
+  composition:
+    cameraAngle: Close view of impossible clock mechanism with contemplating strategist
+    focus: Water clock with impossible flow patterns representing strategic time versus chronological time
+    depth: Foreground shows detailed clock mechanism and water flows, middle ground captures strategist in timeless meditation,
+      background suggests abstract temporal space
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

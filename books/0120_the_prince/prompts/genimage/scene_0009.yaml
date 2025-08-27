@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1513, golden hour emphasizing contrasts
+    location: Border between wealthy palace district and common laborers' quarters
+    weather: Bright sunlight creating harsh shadows that emphasize social divisions
+  characters:
+  - appearance: 25-28 year old man, tall and powerfully built. Dark brown wavy hair to shoulders with carefully trimmed beard
+      and mustache. Dark, intense, intelligent eyes. Long, aristocratic face with prominent straight nose and strongly defined
+      jawline. Contemporary sources describe him as 'most handsome man in Italy'.
+    clothing: Known for luxury and magnificent clothing. Rich, dark velvets with possible red accents subtly referencing papal
+      connections. In battle, finest, richly decorated Milanese parade armor serving both protection and status manifestation.
+    position: Standing on elevated palace balcony overlooking the city below
+    action: Surveying territory and subjects with calculating gaze of absolute ruler
+  - appearance: Common workers and their families in the streets below
+    clothing: Worn, patched clothing showing effects of hard physical labor
+    position: Crowded into narrow streets and small dwellings beneath palace walls
+    action: Struggling with daily survival while elite observe from above
+  scene:
+    mainElements: Dramatic vertical separation between ruler's elevated position and subjects below. Palace architecture emphasizing
+      height and dominance over surrounding common buildings.
+    details: Elaborate palace decorations and luxury goods visible through windows contrasted with simple tools and meager
+      possessions of workers. Food scraps from palace feasts scattered near starving families.
+    background: City sprawling below showing clear social stratification through architecture and living conditions.
+    atmosphere: Visual representation of Machiavelli's analysis of social forces - the grandi (powerful) literally above the
+      popolo (people), embodying his description of society as arena of conflict between those who wish to oppress and those
+      who wish not to be oppressed.
+  composition:
+    cameraAngle: Dramatic vertical composition emphasizing power hierarchy
+    focus: Cesare Borgia as embodiment of Machiavellian prince ruling over divided society
+    depth: Foreground shows palace luxury, middle ground reveals social barriers, background displays masses of common people
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

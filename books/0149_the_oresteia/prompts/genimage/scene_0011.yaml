@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, late afternoon
+    location: Palace courtyard from elevated position on war chariot, looking toward palace entrance
+    weather: Strong afternoon light creating harsh shadows on stone surfaces
+  characters: No characters present in this scene
+  scene:
+    mainElements: Point-of-view perspective showing warrior's hands in frame gripping chariot rail, looking down at long strips
+      of precious fabric in deep purple color unnaturally intense against rough stone background visually resembling stream
+      of crimson liquid flowing into house interior
+    details: Bronze-armored hands visible at bottom of frame showing Agamemnon's perspective, purple textiles spread in straight
+      pathway leading to dark palace entrance, stone courtyard paving worn smooth by generations, servants positioned along
+      fabric edges awaiting royal decision, shadows of palace walls creating ominous darkness around entrance
+    background: Palace facade with massive bronze-reinforced doors open like mouth ready to swallow victim, architectural
+      details of Cyclopean masonry visible in harsh afternoon light, courtyard extending to defensive walls
+    atmosphere: Moment of fatal decision disguised as honor, visual trap baited with luxury and pride, sense of inevitable
+      progression toward doom, hubris about to receive divine punishment
+  composition:
+    cameraAngle: Point-of-view shot showing exactly what character sees from elevated chariot position
+    focus: Purple textiles as pathway leading to dark palace entrance, hands in frame establishing personal perspective
+    depth: Foreground shows armored hands gripping chariot, middle ground reveals textile pathway and servants, background
+      leads eye toward dark palace interior and approaching fate, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

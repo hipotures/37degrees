@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Desert Heat Scorching Through Wedding Palanquin"
+  setting:
+    time: "1923 summer, midday"
+    location: "Dusty hillside path through barren landscape, Northeast Gaomi District, Shandong Province, eastern China"
+    weather: "Blazing hot summer day with merciless sun and heat waves"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Front left bearer of red wedding palanquin, gripping wooden poles"
+      action: "Struggling against intense heat while carrying palanquin, sweat pouring down face and chest"
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Inside red palanquin behind silk curtains"
+      action: "Pressing palms against heated wood interior, feeling temperature through fabric"
+  scene:
+    mainElements: "Bright red ornately decorated bridal sedan chair carried on long poles by four men, only vivid color accent in monotonous landscape, symbol of tradition, femininity and imprisonment, lacquered wood with intricate carved decorations and silk curtains being transported across scorching terrain"
+    details: "Heat shimmers rising from yellow-ochre dusty ground, men's faces dripping with perspiration, wooden palanquin poles burning hot to touch, silk wedding dress clinging to body from humidity, dried earth cracking beneath feet, shadows providing only minimal relief, dust clouds following procession, no text or letters visible"
+    background: "Endless barren hills stretching to horizon under bleaching sun, sparse vegetation wilting in heat, azure sky without clouds"
+    atmosphere: "Oppressive heat making every surface untouchable, physical endurance tested by merciless environment, temperature as character itself threatening everyone present"
+  composition:
+    cameraAngle: "Low angle emphasizing struggle against overwhelming heat"
+    focus: "Hands gripping burning wooden poles and sweat-soaked faces"
+    depth: "Foreground shows detailed palanquin and bearers, middle ground reveals dusty path, background fades into heat mirage"

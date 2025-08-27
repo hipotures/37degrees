@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1922, noon with dramatic lighting
+    location: Vast symbolic wasteland of stony rubbish under burning sun, landscape of spiritual drought
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone crossroads in desert where one path is brilliantly illuminated in golden sunlight while the perpendicular
+      path lies in deep black shadow, with no visible source for the shadows
+    details: Four paths meet at a simple stone marker in the desert center. Two paths running east-west are bathed in warm,
+      golden sunlight that makes every pebble and crack visible, sand gleaming like precious metal, air shimmering with heat
+      and promise. The paths running north-south are plunged in complete darkness, shadows so deep they seem solid, no features
+      visible beyond a few feet, creating an abyss of uncertainty. At the exact center where paths meet, light and shadow
+      divide in a perfect line, neither side affecting the other.
+    background: Heap of broken classical stone images, red rock casting sharp shadow, endless desert extending in all directions
+    atmosphere: Crushing heat and silence broken only by cicadas, moment of cosmic choice between illumination and darkness,
+      knowledge and ignorance, hope and despair, no text or letters visible
+  composition:
+    cameraAngle: High overhead view showing the perfect division of light and shadow at crossroads
+    focus: The stark division between illuminated and shadowed paths
+    depth: Crossroads junction in foreground, four diverging paths in middle ground, desert wasteland extending to horizons
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

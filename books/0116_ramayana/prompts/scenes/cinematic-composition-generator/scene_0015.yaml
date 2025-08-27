@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror of Dharma - Rama's Reflection of Inner Conflict"
+  setting:
+    time: "Treta Yuga ancient era, dawn light in forest hermitage"
+    location: "Simple forest dwelling beside clear stream, natural mirror surface reflecting morning light, peaceful hermitage setting before day's dharmic challenges"
+    weather: "Clear dawn with still air creating perfect reflection in water"
+  characters:
+    - appearance: "Tall athletic man in his twenties, broad chest and long muscular arms reaching to his knees, noble facial features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like rain clouds or blue lotus"
+      clothing: "Simple rough tree bark garments (valkala), hair in ascetic's knot (jata) on top of head"
+      position: "Kneeling by stream edge, face reflected in water surface"
+      action: "Looking at his own reflection while contemplating difficult dharmic decisions"
+  scene:
+    mainElements: "Mirror/reflection POV showing Rama seeing himself in stream surface, character facing camera through water reflection while actual figure is seen from behind. Dual perspective showing both external appearance and internal contemplation through reflective surface"
+    details: "Perfect water surface creating clear mirror reflection, Rama's noble features visible in reflection showing contemplative expression, forest hermitage reflected in background of water surface, morning light creating natural illumination for reflection, ascetic garments and hairstyle clearly visible"
+    background: "Simple forest hermitage buildings and natural woodland setting reflected in stream surface, creating layered imagery of exile life"
+    atmosphere: "Peaceful contemplative moment of self-examination, sense of prince examining both his external form and internal dharmic responsibilities, quiet introspection before facing difficult choices"
+  composition:
+    cameraAngle: "Mirror POV showing reflection in water surface from subject's perspective"
+    focus: "Reflection image sharp and clear in water surface mirror"
+    depth: "Water surface reflection in foreground, background environment reflected in water, no text or letters visible"

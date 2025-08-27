@@ -1,0 +1,161 @@
+canon:
+  characters:
+    - id: "narrator_marcel"
+      name: "Marcel (Narrator)"
+      description_block: |
+        characters:
+          - appearance: "Deliberately undefined physical appearance. Narrator is consciously depicted without specific physical traits to maintain universal identification. Figure remains transparent throughout the work."
+            clothing: "Age-dependent attire: simple childhood clothing in Combray, elegant bourgeois suits and formal evening wear (tailcoats) in Parisian society as young adult"
+            posture: "Contemplative and observational stance, often seated or reclining due to chronic asthma and nervous disposition. Demonstrates hypersensitive, introspective demeanor"
+
+    - id: "charles_swann"
+      name: "Charles Swann"
+      description_block: |
+        characters:
+          - appearance: "Distinguished gentleman aged 35-40 years. Tall, slender build with refined aristocratic bearing. Dark hair meticulously styled with carefully trimmed mustache. Intelligent, slightly weary dark eyes. Often wears monocle as characteristic accessory."
+            clothing: "Epitome of discrete elegance. Perfectly tailored tailcoats, morning coats, and dress coats. Signature cattleya orchid flower in buttonhole during romance with Odette. Top hat, walking stick, and white gloves complete the ensemble"
+            posture: "Impeccable, restrained manners reflecting highest social refinement. Movements display cultural sophistication and aesthetic sensitivity of art connoisseur"
+
+    - id: "odette_de_crecy"
+      name: "Odette de Crécy"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 28-30 years at first meeting with Swann. Slender figure with pale complexion and large, melancholic eyes. Oval face with abundant, flowing hair (color unspecified). Distinctive resemblance to Zipporah from Botticelli's Sistine Chapel fresco"
+            clothing: "Style evolves with social status: initially ostentatious courtesan fashion (luxurious silks, velvets, laces, floral decorations especially cattleya orchids). Post-marriage transformation to refined aristocratic elegance with restrained, sophisticated garments"
+            posture: "Graceful, somewhat studied movements reflecting practiced sensuality. Studied gestures demonstrate calculated charm and social adaptability"
+
+    - id: "baron_charlus"
+      name: "Baron Palamède de Charlus"
+      description_block: |
+        characters:
+          - appearance: "Aristocrat in middle age with imposing, commanding stature. Contradiction between masculine pride and effeminate gestures. Dark hair graying with age. Penetrating, investigative gaze described as 'spy or madman's look.' Becomes corpulent in later volumes, using heavy makeup to conceal aging"
+            clothing: "Aristocratic elegance with eccentric touches. Impeccably tailored dark suits enhanced by unexpected details: vivid flower in buttonhole, unusual necktie, or fantasy waistcoat. Barely perceptible red spot on tie or dark green thread harmonizing with sock stripes"
+            posture: "Mixture of masculine arrogance and feminine gestures. Proud, dominating demeanor masking deep vulnerability and need for affection"
+
+    - id: "albertine_simonet"
+      name: "Albertine Simonet"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 16-18 years at first encounter in Balbec. Medium height with athletic, energetic build. Tanned complexion, full cheeks, laughing eyes. Short dark hair. Distinctive moving mole on face (symbol of elusiveness) - location shifts in narrator's memory between under eye and on chin"
+            clothing: "In Balbec: casual, sporty attire (beret, short skirts, sweater) emphasizing freedom and vitality. In Paris imprisonment: luxurious, flowing gowns by designer Fortuny resembling Venetian robes, elegant silk bathrobes, Japanese kimonos - beautiful but symbolizing captivity"
+            posture: "Initially energetic, tomboyish demeanor with natural vitality. Later becomes listless, bored expression reflecting loss of freedom and suppressed longing for escape"
+
+    - id: "robert_saint_loup"
+      name: "Robert de Saint-Loup"
+      description_block: |
+        characters:
+          - appearance: "Narrator's best friend, nephew of Duchess de Guermantes. Embodiment of aristocratic grace and physical fitness. Tall, slender, athletic cavalry officer build. Characteristic golden hair and 'green, sea-transparent eyes.' Quick, agile, graceful movements"
+            clothing: "As civilian: elegant, comfortable English-style suits. Military uniform: cavalry officer's light blue coat with red facings and golden buttons accentuating noble bearing. Monocle frequently falls from eye as signature gesture"
+            posture: "Extremely rapid, nimble, graceful movements. Impulsive and passionate temperament with loyal, warm-hearted demeanor toward friends despite aristocratic reserve toward others"
+
+    - id: "duchess_guermantes"
+      name: "Duchess Oriane de Guermantes"
+      description_block: |
+        characters:
+          - appearance: "Considered most beautiful and intelligent woman in Paris, aged 35-40 years. Tall, slender, statuesque figure with blonde hair and famous azure-blue eyes. Slightly curved 'Guermantes nose' as hereditary family trait. Distinctive, slightly hoarse voice quality"
+            clothing: "Pinnacle of Parisian elegance. Gowns by finest designers, ancestral jewelry. In opera scene: dazzling white ball gown, diadem, pearl necklace. Each outfit represents masterpiece of haute couture artistry"
+            posture: "Supremely refined aristocratic manners. Every gesture (head nod, smile, fan movement) executed with perfect grace and meaning. Legendary wit and conversational brilliance"
+
+    - id: "madame_verdurin"
+      name: "Madame Sidonie Verdurin"
+      description_block: |
+        characters:
+          - appearance: "Nouveau riche snob of indeterminate middle age, energetic and domineering personality. Physical description minimal but emphasizes theatrical, exaggerated gestures and emotions"
+            clothing: "Fashionable but tasteless attire. Overly bright colors and styles, excessive jewelry. Represents pretentious attempt to create artistic atmosphere without genuine refinement"
+            posture: "Theatrical, exaggerated gestures and emotions. Famous for forced laughter outbursts where she 'cries with laughter.' Caricatural representation of pretension and falseness"
+
+    - id: "francoise_servant"
+      name: "Françoise (Family Servant)"
+      description_block: |
+        characters:
+          - appearance: "Elderly woman from Combray embodying rural France. Described with dignity and gentleness despite stern demeanor. Physical appearance simple and modest, befitting servant class"
+            clothing: "Traditional servant attire: cap and apron. Simple, practical garments reflecting contempt for fashion and luxury. Dress represents moral austerity and traditional values"
+            posture: "Severe, conservative bearing with own rigid moral code. Demonstrates extreme loyalty to narrator's family while capable of cruelty toward perceived inferiors"
+
+    - id: "grandmother_narrator"
+      name: "Narrator's Grandmother"
+      description_block: |
+        characters:
+          - appearance: "Elderly woman embodying selfless love, wisdom, and morality. Physical description emphasizes dignity and gentleness rather than specific features. Represents moral anchor of narrator's childhood"
+            clothing: "Simple, modest garments reflecting disdain for fashion and luxury. Plain dress represents inner virtue and moral superiority over material concerns"
+            posture: "Graceful, dignified bearing expressing unconditional love and moral guidance. Gentle demeanor masks profound wisdom and strength of character"
+
+  locations:
+    - id: "combray_hometown"
+      name: "Combray"
+      description_block: |
+        setting:
+          location: "Provincial market town in Beauce region of central France, reconstructed from fragmentary sensory memories"
+        mainElements: "Compact stone buildings with dark tile roofs. Narrow, quiet streets centered around old Romanesque church of Saint-Hilaire whose bell tower dominates skyline. Aunt Léonie's two-story house with garden forms emotional center"
+        atmosphere: "Warm, muted color palette: beige and gray stone walls, brown woodwork, interrupted by intense garden greens and flower colors especially white and pink hawthorn blossoms. Natural, soft, changing light creates childhood security and magical meaning"
+
+    - id: "paris_belle_epoque"
+      name: "Belle Époque Paris"
+      description_block: |
+        setting:
+          location: "Paris at turn of 19th-20th century, dominated by Baron Haussmann's urban architecture and broad boulevards"
+        mainElements: "Imposing six-story limestone buildings with characteristic mansard roofs and continuous wrought-iron balconies. Wide tree-lined boulevards create impression of monumentality and order. Gas street lamps create mysterious evening atmosphere"
+        atmosphere: "Exterior dominated by beige Parisian stone and gray rooftops. Aristocratic salon interiors (Guermantes) bright with gilding, whites, pastel blues. Bourgeois salons (Verdurins) heavy with dark colors: burgundy, bottle green, deep browns and violets"
+
+    - id: "balbec_seaside_resort"
+      name: "Balbec"
+      description_block: |
+        setting:
+          location: "Fictional seaside resort inspired by Cabourg on Norman coast, fictional Grand-Hôtel overlooks beach"
+        mainElements: "Monumental Grand-Hôtel with long white façade featuring numerous balconies and Belle Époque ornamentation. Enormous glazed dining room provides panoramic views of beach and waves. Wooden boardwalk (promenade) extends along beach serving as main social theater"
+        atmosphere: "Bright, luminous palette: various shades of sea and sky blue, dazzling white hotel façade and wave foam, warm sandy beach color enlivened by colorful summer visitor costumes. Sharp, changing sunlight creates spectacular sunrise and sunset displays over ocean"
+
+    - id: "guermantes_salon"
+      name: "Hôtel de Guermantes (Aristocratic Salon)"
+      description_block: |
+        setting:
+          location: "Aristocratic mansion in Faubourg Saint-Germain district of Paris, representing pinnacle of French high society"
+        mainElements: "Spacious, harmonious rooms in Louis XIV and XV styles with authentic antiques and priceless old master paintings. Silk wall coverings and wooden paneling. Fewer objects than bourgeois homes but each piece authentic and highest quality"
+        atmosphere: "Bright, luminous space dominated by gold, white, and pastel blue colors. Impression of historical continuity and effortless luxury. Formal, elegant, restrained atmosphere governed by strict etiquette"
+
+    - id: "verdurin_salon"
+      name: "Verdurin Salon"
+      description_block: |
+        setting:
+          location: "Nouveau riche bourgeois home in Paris, attempting to create artistic enclave competing with aristocratic salons"
+        mainElements: "Overloaded, eclectic, pretentious décor with heavy velvet curtains in dark colors. Walls covered with paintings in golden frames (often by 'protégé' artists), numerous bibelots, Chinese porcelain, leather armchairs"
+        atmosphere: "Deliberately darkened to create 'intimate' and 'artistic' atmosphere. Color palette of heavy, saturated tones: burgundy, bottle green, deep browns and purples create oppressive environment masking artistic pretensions"
+
+    - id: "opera_garnier"
+      name: "Opéra Garnier"
+      description_block: |
+        setting:
+          location: "Grand opera house in central Paris during gala evening performance, representing pinnacle of Belle Époque cultural life"
+        mainElements: "Overwhelmingly rich interior: gilding, red velvet, ceiling frescoes, crystal chandeliers. Aristocratic boxes arranged like aquarium where mythical sea deities float. Orchestra floor and multiple tiers create amphitheater of social hierarchy"
+        atmosphere: "Magical spectacle atmosphere with warm, uneven lighting from mix of early electric lamps, gas lamps, and candles. Perfect setting to emphasize luxury of fabrics and jewelry while concealing imperfections and true emotions"
+
+  items:
+    - id: "madeleine_cake"
+      name: "Madeleine Cake"
+      description_block: |
+        details: "Small, plump shell-shaped cake with golden color and characteristic ridged surface. Dipped in lime-blossom tea, becomes key to involuntary memory and gateway to recovering lost past"
+
+    - id: "magic_lantern"
+      name: "Magic Lantern"
+      description_block: |
+        details: "Simple 19th-century projector using glass slides to cast colorful, moving images on bedroom wall depicting story of Geneviève de Brabant. Represents narrator's first contact with art transforming reality and birth of artistic imagination"
+
+    - id: "cattleya_orchid"
+      name: "Cattleya Orchid"
+      description_block: |
+        details: "Exotic, large flower typically in shades of purple and pink with sensual, complex shape. Becomes symbol of eroticism and physical aspect of Swann's love for Odette after expression 'faire catleya' becomes their euphemism for lovemaking"
+
+    - id: "monocle_accessory"
+      name: "Monocle"
+      description_block: |
+        details: "Single lens in frame worn in eye, symbol of aristocratic pose, social distance, and keen observation. Characteristic accessory of aristocrats like Swann and Saint-Loup, frequently falls out creating signature gesture"
+
+    - id: "fortuny_gowns"
+      name: "Fortuny Gowns"
+      description_block: |
+        details: "Long, flowing, pleated dresses made of silk and velvet, inspired by ancient and Venetian art. Symbolize luxurious enslavement of Albertine in narrator's Parisian apartment, beautiful but representing loss of natural vitality"
+
+    - id: "hawthorn_flowers"
+      name: "Hawthorn Blossoms"
+      description_block: |
+        details: "White and pink flowers blooming on bushes near Combray church and in Swann's park. Evoke narrator's first intense aesthetic experiences in childhood, symbolizing innocence, natural beauty, and awakening artistic sensitivity"

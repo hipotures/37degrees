@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Facade of Village Order"
+  setting:
+    time: "1911, midday"
+    location: "Main street of Weizhuang village in rural Zhejiang Province, eastern China under Qing Dynasty"
+    weather: "Clear autumn day with harsh sunlight creating sharp shadows"
+  characters:
+    - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+      clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+      position: "Standing prominently in center of street, hands clasped behind back"
+      action: "Surveying his domain with satisfied expression, nodding approvingly at passing villagers who bow respectfully"
+    - appearance: "Various villagers in simple cotton work clothes, heads lowered in deference"
+      clothing: "Indigo-dyed cotton garments, clean but humble"
+      position: "Walking past with heads bowed, some kneeling briefly"
+      action: "Performing ritualized gestures of respect, maintaining proper social distance"
+  scene:
+    mainElements: "Traditional Chinese village street with low grey-tiled buildings, wooden shop fronts, and well-swept earthen road. Everything appears orderly and harmonious under the landowner's benevolent gaze"
+    details: "Neat arrangements of farming tools, tidy shop displays, children playing quietly nearby. The architecture shows clear hierarchy - the landowner's compound walls are higher and better maintained than surrounding structures. A sense of everything in its proper place"
+    background: "Traditional courtyard houses with grey brick walls and curved tile roofs extending into distance. Glimpse of rice fields beyond village boundaries"
+    atmosphere: "Surface tranquility masking rigid social control. The apparent harmony conceals underlying tension and fear. Golden sunlight bathes the scene in deceptive warmth while deep shadows hint at hidden darkness"
+  composition:
+    cameraAngle: "Eye level, slightly elevated to show the street layout and social positioning"
+    focus: "The commanding figure of the landowner as focal point, with villagers arranged in respectful patterns around him"
+    depth: "Foreground shows the dominant landowner, middle ground reveals the deferential villagers, background displays the ordered village architecture stretching toward distant fields"

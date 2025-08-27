@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, pre-dawn
+    location: Dense labyrinth of narrow winding streets in traditional Algerian quarter, organic architecture with houses
+      pressing against each other
+    weather: Dark early morning with first hints of light
+  characters:
+  - appearance: Young Algerian man in his 20s, moving carefully through shadows, determined expression showing revolutionary
+      awakening
+    clothing: Dark simple clothing allowing movement through shadows, traditional items mixed with practical gear
+    position: Crouched against wall holding makeshift painting materials
+    action: Secretly painting resistance symbol on colonial building wall, working quickly in darkness
+  scene:
+    mainElements: Forbidden symbol being painted on colonial authority building, first visual sign of resistance appearing
+      in controlled space
+    details: Crescent and star symbol emerging on government building wall, paint dripping fresh from hasty application, revolutionary
+      looking over shoulder for patrols, other resistance symbols barely visible on nearby walls, colonial propaganda posters
+      being defaced or covered
+    background: Steep stone pathways, bustling souks with spice vendors, shadowy alleyways, traditional Arabic architecture
+    atmosphere: Crowded authentic life contrasting with colonial sterility, community warmth amid poverty and oppression
+  composition:
+    cameraAngle: Close shot focusing on symbol being painted and hands creating it
+    focus: Act of resistance through forbidden symbol, contrast between authority wall and rebellious mark
+    depth: Painting hand in foreground, symbol on wall in middle ground, watching figure in shadowy background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Memory Palace Becomes Prison"
+  setting:
+    time: "1880s rural Uruguay, early dawn"
+    location: "Simple rural bedroom with single barred window, home of paralyzed young man"
+    weather: "Clear dawn with first light filtering through iron bars"
+  characters:
+    - appearance: "Young man 19 years old with indigenous features, sharp immobile face bronze-like in dawn light, eyes that see everything but seem distant and inward-focused, body paralyzed from waist down"
+      clothing: "Simple white nightshirt, thin blanket covering paralyzed legs, no shoes or socks, basic rural garments"
+      position: "Lying motionless in narrow bed, only head able to move, staring intently at iron window bars"
+      action: "Cataloging and remembering precise shape of every shadow, every dust mote, every detail with perfect accuracy"
+  scene:
+    mainElements: "Iron window bars casting precise shadow pattern on opposite wall, shadows shifting minutely as sun rises, each bar creating distinct geometric shape that transforms gradually, paralyzed figure's eyes tracking every microscopic change with supernatural attention to detail"
+    details: "Window bars transform from simple barrier into instrument of temporal measurement, their shadows becoming clock hands marking passage of time with inhuman precision. Each shadow holds infinite detail that normal minds would ignore, but perfect memory transforms ordinary prison bars into complex symphony of light and geometry"
+    background: "Sparse rural bedroom with earthen floor, simple wooden furniture, fig tree visible through window, spider web in corner catching morning light, basic rustic environment"
+    atmosphere: "Overwhelming intensity of perfect perception, dawn light creating dramatic shadow play, sense of mind too powerful for mortal body to contain, gift of memory becoming curse of infinite detail, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from foot of bed showing figure against barred window"
+    focus: "The shifting shadow patterns on wall created by iron window bars"
+    depth: "Paralyzed figure in foreground, geometric shadow patterns in middle ground, fig tree and morning sky visible through window in background"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1792, theatrical lighting suggesting artificial performance rather than authentic life
+    location: Grand theater or ballroom transformed into metaphorical puppet stage showing social manipulation
+    weather: Artificial indoor lighting emphasizing the manufactured nature of social roles
+  characters:
+  - appearance: Women dressed as elaborate marionettes with visible strings connecting them to unseen controllers
+    clothing: Beautiful but restrictive period dress modified to show puppet strings and artificial nature
+    position: Positioned as dancing puppets moving in patterns determined by their controllers
+    action: Performing prescribed feminine behaviors with mechanical precision, their movements controlled by invisible puppet
+      masters
+  - appearance: Suggestion of male puppet masters through shadows or partial visibility, representing social control
+    clothing: Dark controlling figures whose power is evident through their manipulation of the feminine puppets
+    position: Above or behind the puppet stage, in positions of control and manipulation
+    action: Pulling strings that control women's movements, words, and behaviors in social performance
+  scene:
+    mainElements: Theatrical space transformed into giant puppet theater where women perform roles scripted by male-dominated
+      society
+    details: Visible puppet strings connecting women to controllers. Stage machinery showing artificial nature of gender performance.
+      Scripts and cue cards showing prescribed feminine responses. Audience of approving males watching the performance
+    background: Ornate theater setting emphasizing the artificial, performed nature of feminine social roles
+    atmosphere: Atmosphere of beautiful but sinister control, showing how women's seemingly free choices are actually manipulated
+      performances
+  composition:
+    cameraAngle: Wide theatrical shot showing both the puppet performance and the controlling apparatus
+    focus: The metaphor of women as beautiful puppets dancing to scripts written by male-dominated society
+    depth: Foreground shows puppet performance, middle ground reveals controlling mechanisms, background suggests theater
+      audience approving the show
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

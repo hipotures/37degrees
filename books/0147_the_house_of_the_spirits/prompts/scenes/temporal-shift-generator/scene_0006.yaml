@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Big House Courtyard - From Clara's Spring to Alba's Summer"
+  setting:
+    time: "1935 early spring transitioning to 1970 full summer"
+    location: "three-level internal courtyard within Big House, same architectural space across thirty-five years"
+    weather: "gentle spring rain giving way to blazing summer heat, seasonal transformation showing time's passage"
+  characters:
+    - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+      clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+      position: "kneeling gracefully among spring plantings, hands in dark soil"
+      action: "planting exotic seeds and bulbs while multiple colorful birds sing from ornate cages surrounding courtyard"
+    - appearance: "young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion"
+      clothing: "1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting political consciousness"
+      position: "standing among fully mature flowering plants that Clara planted decades earlier"
+      action: "reading revolutionary texts beneath shade of towering plants Clara nurtured, surrounded by empty released birdcages"
+  scene:
+    mainElements: "courtyard transformation from Clara's spring garden beginning to Alba's summer paradise - tiny seedlings grown into magnificent flowering trees, small bird cages multiplied into elaborate aviary now standing empty after Clara's symbolic release, fountain evolved from simple basin to elaborate water feature"
+    details: "botanical timeline visible through plant growth stages - Clara's original plantings now towering overhead providing shade for Alba's revolutionary studies, empty ornate birdcages represent Clara's final act of liberation, courtyard tiles show decades of wear and root damage, no text or letters visible"
+    background: "same three-level architecture but surfaces weathered by time, paint faded and vines climbing walls, sounds evolve from Clara's bird songs to political radio broadcasts Alba listens to"
+    atmosphere: "temporal continuity through natural growth cycles, spring hope of Clara's era maturing into summer urgency of Alba's political awakening, liberation theme connecting Clara's freed birds to Alba's revolutionary spirit"
+  composition:
+    cameraAngle: "elevated view showing full courtyard evolution across decades"
+    focus: "central emphasis on botanical growth representing passage of time and family legacy"
+    depth: "foreground shows detailed plant maturation, middle ground captures figures separated by time, background reveals architectural aging"

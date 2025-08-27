@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: June 1923, midday around 12:00 PM
+    location: Westminster district streets viewed through trauma-distorted consciousness
+    weather: Bright June day appearing oppressive and threatening through PTSD filter
+  characters:
+  - appearance: 30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear
+      that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame
+    clothing: Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male
+      characters, clothing reflecting his psychological isolation
+    position: Walking stiffly through Westminster crowds, hypervigilant and isolated
+    action: Nervous unpredictable movements, can freeze motionless in terror or suddenly speak to invisible figures
+  scene:
+    mainElements: Westminster district streets transformed into battlefield through trauma lens, familiar architecture becoming
+      threatening and oppressive
+    details: Through Septimus's PTSD perception, Georgian buildings loom like prison walls, black iron railings become bars
+      and spears, red buses appear as military vehicles, pedestrians move like enemy patrol, shadows conceal snipers, automobile
+      backfire echoes like artillery, Big Ben's chimes sound like air raid sirens, pavement cracks become trenches, no text
+      or letters visible
+    background: Parliament buildings appearing as military fortifications, Thames glimpsed like no-man's land, London transformed
+      into war zone through psychological filter
+    atmosphere: Dynamic pulsing with life transformed into paranoid surveillance state, every sound potential threat, psychological
+      filter of trauma turning civilian space into combat zone, sense of being hunted and exposed
+  composition:
+    cameraAngle: Low angle from Septimus's perspective, buildings towering menacingly overhead
+    focus: Threatening details that trigger war memories - sharp edges, sudden movements, loud sounds
+    depth: Immediate foreground shows cracked pavement like battlefield terrain, middle ground captures threatening crowd,
+      background reveals oppressive architecture
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

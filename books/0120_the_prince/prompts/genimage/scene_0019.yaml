@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1513, moment of surveillance
+    location: Public space where citizens interact with authority figures
+    weather: Harsh daylight revealing expressions clearly
+  characters:
+  - appearance: Common citizen showing barely controlled anger
+    clothing: Simple working clothes that cannot hide inner rebellion
+    position: Forced to show deference while harboring resentment
+    action: Giving authority figure look of pure hatred while maintaining outward compliance
+  - appearance: Authority figure representing state power
+    clothing: Official regalia indicating governmental authority
+    position: Expecting submission and respect from subjects
+    action: Demanding obedience while remaining unaware of citizen's true feelings
+  scene:
+    mainElements: Moment of psychological rebellion where true feelings break through required performance. Contrast between
+      enforced submission and inner resistance.
+    details: Eyes revealing hatred and contempt that voice cannot express. Body language showing tension between required
+      deference and inner defiance. Witness to scene understanding dangerous nature of such expressions.
+    background: Public space where private feelings must be hidden but occasionally break through social controls.
+    atmosphere: Dangerous moment where citizen's true feelings toward authority threaten to overcome social controls. Internal
+      rebellion against external compliance.
+  composition:
+    cameraAngle: Close-up on facial expression showing inner resistance
+    focus: Moment when individual spirit rebels against systemic oppression
+    depth: Foreground shows hateful expression, middle ground reveals authority figure, background displays public space requiring
+      performance of submission
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

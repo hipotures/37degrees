@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1962 late summer, morning
+    location: Traditional beehive operation in rural area before pesticide contamination affects bee colonies
+    weather: Warm sunny morning perfect for honey harvest
+  characters:
+  - appearance: Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism,
+      age varying by scene context
+    clothing: Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business
+      attire, children in simple play clothes
+    position: Standing beside beehive boxes, extracting natural honey combs
+    action: Harvesting pure honey before chemical treatments contaminate bee colonies
+  scene:
+    mainElements: Pure golden honey flowing in thick streams from natural honeycomb, beekeeper's anticipation visible through
+      careful handling and satisfied facial expression, liquid gold catching sunlight as it drips
+    details: Amber honey flowing in continuous golden streams from fresh honeycomb, liquid catching morning sunlight creating
+      jewel-like effects, honey's natural viscosity creating slow, mesmerizing drip patterns, beekeeper's mouth unconsciously
+      indicating anticipation of natural sweetness, wooden honey extraction equipment traditional and chemical-free, active
+      bees still working nearby hives, honey pooling in collection containers showing perfect clarity and color
+    background: Rural beekeeping operation with multiple white hive boxes, flowering meadow providing nectar sources, traditional
+      farm buildings representing pre-industrial agriculture
+    atmosphere: Pure natural sweetness before chemical contamination, traditional agricultural practices celebrating natural
+      food production, golden abundance representing nature's generosity, no text or letters visible
+  composition:
+    cameraAngle: Close-up macro view emphasizing honey's golden flow and light effects
+    focus: Streaming honey suggesting natural sweetness and purity
+    depth: Immediate foreground shows detailed honey streams, middle ground includes beekeeper appreciation, background reveals
+      rural beekeeping context
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

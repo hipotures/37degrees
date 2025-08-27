@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations of Hands Writing Family History"
+  setting:
+    time: "1925 through 1974, transitioning from gaslight to electric illumination"
+    location: "writing desk in Big House library, same wooden surface across five decades"
+    weather: "consistent indoor lighting changing from warm gas flames to harsh electric bulbs"
+  characters:
+    - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+      clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+      position: "seated gracefully at writing desk with perfect posture, appearing to listen to invisible voices"
+      action: "writing in notebooks with delicate precise handwriting recording family prophecies and spirit communications"
+    - appearance: "young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion"
+      clothing: "1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting political consciousness"
+      position: "leaning over same desk but posture shows urgency and determination"
+      action: "frantically writing testimonies of torture and political persecution while referencing Clara's notebooks"
+    - appearance: "man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom"
+      clothing: "elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline"
+      position: "seated weakly beside Alba, both figures hunched over collaborative writing"
+      action: "dictating memories while Alba writes, their hands occasionally touching over shared manuscript"
+  scene:
+    mainElements: "same wooden writing desk surfaces bears witness to three generations of family historians - Clara recording mystical experiences, Alba documenting political horror, elderly Esteban sharing final confessions, multiple transparent layers show all three writers simultaneously"
+    details: "desk accumulates temporal layers - Clara's delicate notebooks pile beneath Alba's urgent testimonies topped by collaborative manuscript, writing implements evolve from fountain pens to ballpoint pens, ink stains deepen across decades marking family trauma, no text or letters visible"
+    background: "library shelves remain constant but books multiply and change, lighting sources evolve from gas fixtures to electric lamps, window views show changing political climate outside"
+    atmosphere: "sacred continuity of family memory preservation across generations, increasing urgency as political situation deteriorates, overlapping translucent figures suggest eternal nature of storytelling"
+  composition:
+    cameraAngle: "overhead view emphasizing hands and writing surfaces across time"
+    focus: "central attention on intergenerational transmission of family history through written word"
+    depth: "foreground shows detailed hand movements and writing tools, middle ground captures temporal layers of figures, background reveals evolving library context"

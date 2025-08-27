@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, pre-dawn hour of reckoning
+    location: Trojan commander's tent with polished bronze mirror reflecting preparation
+    weather: Still pre-dawn darkness before day of decisive combat
+  characters:
+  - appearance: tall, powerfully built warrior with noble bearing
+    clothing: divine armor of Vulcan with supernatural radiance, helmet with noble plume
+    position: standing before polished bronze mirror examining transformation
+    action: studying reflection while divine armor transforms mortal warrior into instrument of fate
+  scene:
+    mainElements: Command tent with military furnishings, polished bronze mirror reflecting divine armor's radiance, weapons
+      and campaign equipment
+    details: Divine armor gleaming with supernatural light, prophetic shield reflecting cosmic scenes, mirror showing transformation
+      from mortal leader to divine champion, campaign maps and tactical plans, personal items from Troy and wandering, oil
+      lamps creating dramatic lighting
+    background: Military camp preparing for final battle, soldiers making dawn preparations, Italian countryside under pre-battle
+      tension
+    atmosphere: Mortal becoming divine instrument, final preparation before cosmic destiny fulfillment, transformation from
+      refugee to founder of empire
+  composition:
+    cameraAngle: Mirror reflection POV showing character seeing themselves as others might
+    focus: Reflection showing warrior transformed by divine armor while preparing for fate-determining combat
+    depth: Mirror reflection in sharp foreground showing divine transformation, tent interior in middle ground, camp activity
+      in softly lit background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

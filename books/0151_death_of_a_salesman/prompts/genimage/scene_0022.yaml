@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1949, early morning
+    location: central room of Loman house, practical working kitchen with worn furniture showing years of family life and
+      financial struggle
+    weather: soft morning light filtering through windows
+  characters:
+  - appearance: approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed
+      with deep worry, lines around eyes from years of concern, gentle but tired expression
+    clothing: modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing
+      clean but showing wear from careful mending
+    position: sitting at kitchen table, shoulders no longer tense
+    action: slowly sipping coffee from chipped cup, gazing peacefully out window, first calm moment in long time
+  - appearance: 34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal
+      conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness
+    clothing: work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple
+      dark suit that seems uncomfortable on him
+    position: sitting across table in chair that was previously empty
+    action: eating simple breakfast slowly, no longer rushed or agitated, peaceful presence at family table
+  scene:
+    mainElements: wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen
+      living room, stairs leading to bedrooms upstairs, restored family gathering space
+    details: Three chairs now occupied by family members, restoring proper family circle. Simple breakfast of coffee and toast
+      suggesting return to normal routine. Morning light creating natural warmth in kitchen. Sense of family unit partially
+      healed.
+    background: kitchen extending into living room where normal family life continues, stairs leading to upper floor, domestic
+      appliances humming with ordinary life
+    atmosphere: heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows
+      of conflict, exhausted peace after emotional storm, breathing space in family crisis
+  composition:
+    cameraAngle: medium shot across table showing restored family gathering
+    focus: two family members sharing quiet peaceful moment, no longer in conflict or crisis
+    depth: foreground shows simple breakfast and restored family routine, middle ground captures two figures in exhausted
+      but genuine peace, background reveals domestic setting returning to normal family rhythms
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

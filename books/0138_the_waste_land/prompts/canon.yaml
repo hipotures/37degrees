@@ -1,0 +1,147 @@
+canon:
+  characters:
+    - id: "tiresias"
+      name: "Tiresias"
+      description_block: |
+        characters:
+          - appearance: "Ancient, androgynous figure with wrinkled female breasts on aged male frame, thin ascetic build, deeply lined face bearing weight of centuries of wisdom and suffering, blind clouded eyes, long sparse gray hair"
+            clothing: "Simple rough cloth robes in neutral earth tones, gray and brown, timeless garments that suggest both antiquity and universality"
+            position: "Standing motionless as passive observer"
+            action: "Witnessing scenes with supernatural awareness, remaining detached yet comprehending all"
+    
+    - id: "marie"
+      name: "Marie"
+      description_block: |
+        characters:
+          - appearance: "European aristocrat, 25-30 years old, slender elegant build, refined features bearing expression of weariness and melancholy, dark hair and eyes suggesting German heritage"
+            clothing: "Fashionable 1920s day dress in silk or linen reaching knee length, cloche hat, elegant travel coat with fur collar typical of wealthy women of the era"
+            position: "Seated at outdoor cafe table"
+            action: "Drinking coffee while lost in nostalgic memories, speaking of childhood winter sledding in mountains"
+    
+    - id: "neurotichose_lady"
+      name: "Neurotic Lady from Game of Chess"
+      description_block: |
+        characters:
+          - appearance: "Wealthy woman aged 30-35, tense face with expression of neurotic anxiety, distinctive red or chestnut hair spreading in fiery points in firelight, refined features marked by fear and desperation"
+            clothing: "Luxurious evening gown or silk peignoir in rich fabrics like velvet or satin, adorned with glittering jewelry reflecting candlelight"
+            position: "Seated on chair resembling polished throne"
+            action: "Speaking frantically in one-sided desperate pleas for communication, brushing hair with agitated gestures"
+    
+    - id: "lil"
+      name: "Lil"
+      description_block: |
+        characters:
+          - appearance: "Working-class woman exactly 31 years old but appearing much older, worn face and body showing effects of poverty and multiple pregnancies, characteristic missing and damaged teeth, expression of resignation and exhaustion"
+            clothing: "Simple worn dress typical of working-class women in early 1920s, made of cotton or cheap fabric, functional and unadorned"
+            position: "Standing in pub among other working-class women"
+            action: "Being discussed by friends who gossip about her health and appearance with mixture of concern and judgment"
+    
+    - id: "typist"
+      name: "The Typist"
+      description_block: |
+        characters:
+          - appearance: "Young working woman, tired and bored expression, plain features showing indifference and emotional emptiness, hair disheveled from day's work"
+            clothing: "Simple practical dress of middle-class office worker, combinations and camisoles visible in modest one-room flat"
+            position: "Moving about small rented room"
+            action: "Mechanically clearing away meal from tin cans, preparing for unwelcome visitor's advances with complete emotional detachment"
+    
+    - id: "young_clerk"
+      name: "Young Man Carbuncular"
+      description_block: |
+        characters:
+          - appearance: "Small house agent's clerk in early twenties, slight build, face disfigured with acne and carbuncles, bold insolent stare attempting false confidence"
+            clothing: "Cheap aspirational suit trying to appear fashionable, silk top hat worn pretentiously in imitation of Bradford millionaire style"
+            position: "Entering typist's flat with aggressive posture"
+            action: "Making unwelcome sexual advances with mechanical boldness, showing no regard for consent or genuine emotion"
+
+  locations:
+    - id: "london_bridge"
+      name: "London Bridge"
+      description_block: |
+        setting:
+          location: "London Bridge spanning Thames River, massive stone construction with five solid arches designed by John Rennie in 1831, early winter morning"
+          time: "1922, 9 AM sharp"
+          weather: "Dense brown fog of winter dawn limiting visibility, cold morning mist"
+        mainElements: "Stone bridge structure with commuter crowd flowing like zombies toward financial district"
+        atmosphere: "Hellish monotonous oppression, complete alienation of urban masses, individuals isolated despite physical proximity"
+    
+    - id: "luxury_boudoir" 
+      name: "Neurotic Lady's Boudoir"
+      description_block: |
+        setting:
+          location: "Opulent private chamber in wealthy London residence, interior designed in historicizing style reminiscent of Louis XV period"
+          time: "1922, evening"
+        mainElements: "Chair resembling polished throne, seven-branched candelabra casting flickering light, marble surfaces reflecting flames"
+        atmosphere: "Suffocating claustrophobic luxury, air thick with synthetic perfumes, neurotic tension filling ornate space with desperate energy"
+    
+    - id: "typist_flat"
+      name: "Typist's Bedsit"
+      description_block: |
+        setting:
+          location: "Small single-room rented flat typical of lower middle-class London accommodation, combined bedroom and living space"
+          time: "1922, violet hour of twilight"
+        mainElements: "Divan serving as both sofa and bed, window where undergarments dry, small table with remains of tinned food"
+        atmosphere: "Emptiness and resignation, functional poverty without warmth, mechanical existence devoid of genuine emotion"
+    
+    - id: "working_class_pub"
+      name: "London Working-Class Pub"
+      description_block: |
+        setting:
+          location: "Improved public house interior in mock-Tudor style typical of 1920s London, clean simple design departing from Victorian gin palace excess"
+          time: "1922, evening near closing time"
+        mainElements: "Wooden bar counter, simple tables and chairs, electric lighting creating warm but harsh illumination"
+        atmosphere: "Gossipy but joyless social interaction, cigarette smoke filling air, underlying desperation masked by forced community"
+    
+    - id: "symbolic_desert"
+      name: "The Desert"
+      description_block: |
+        setting:
+          location: "Vast symbolic wasteland of stony rubbish under burning sun, landscape of spiritual drought"
+        mainElements: "Heap of broken classical stone images, dead tree providing no shade, red rock casting sharp shadow"
+        atmosphere: "Crushing heat and silence broken only by cicadas, fear and spiritual emptiness, handful of dust representing mortality"
+    
+    - id: "hyacinth_garden"
+      name: "Hyacinth Garden"  
+      description_block: |
+        setting:
+          location: "Lush garden full of blooming hyacinth flowers, scene of failed romantic encounter"
+          time: "Late evening in past memory"
+          weather: "Recent rain leaving flowers and girl's hair wet"
+        mainElements: "Abundant purple and white hyacinth blooms, garden paths, evening light creating romantic atmosphere"
+        atmosphere: "Intense unfulfilled romantic tension, moment of potential love ending in paralysis and silence"
+
+  items:
+    - id: "tarot_cards"
+      name: "Madame Sosostris's Wicked Pack of Cards"
+      description_block: |
+        details: "Pack of tarot cards in Rider-Waite-Smith style popular in 1920s, featuring specific cards mentioned: Drowned Phoenician Sailor with pearls for eyes, Belladonna Lady of the Rocks, Man with Three Staves, Wheel of Fortune, One-eyed Merchant carrying something on back"
+    
+    - id: "gramophone"
+      name: "Gramophone"
+      description_block: |
+        details: "Mechanical gramophone typical of 1920s with large horn speaker, playing recorded music that represents mechanized soulless entertainment replacing authentic artistic expression"
+    
+    - id: "typewriter"
+      name: "Typewriter"
+      description_block: |
+        details: "Heavy manual typewriter with black metal frame and round keys, symbol of modern automated work that reduces human creativity to mechanical repetition"
+    
+    - id: "tinned_food"
+      name: "Food in Tins"
+      description_block: |
+        details: "Canned food representing modern artificial sustenance stripped of natural connection, metallic containers with paper labels, eaten straight from tins without ceremony"
+    
+    - id: "broken_images"
+      name: "Heap of Broken Images" 
+      description_block: |
+        details: "Fragmented pieces of classical statuary and cultural artifacts scattered in desert, representing shattered civilization and lost cultural unity"
+    
+    - id: "red_rock"
+      name: "Red Rock"
+      description_block: |
+        details: "Large red stone formation in desert providing sharp-edged shadow, ambiguous symbol offering both shelter and fear, spiritual refuge that terrifies"
+    
+    - id: "dead_tree"
+      name: "Dead Tree"
+      description_block: |
+        details: "Leafless dried tree in desert providing no shade or comfort, symbol of absent spiritual guidance and protection"

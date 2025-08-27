@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Leather and Parchment in Study Corner"
+  setting:
+    time: "1925 winter, late afternoon"
+    location: "Private study corner in distillery owner's residence, Northeast Gaomi District"
+    weather: "Cold winter day with interior warmth from brazier"
+  characters:
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Seated at low wooden desk with business records"
+      action: "Handling leather-bound ledgers and examining business documents"
+  scene:
+    mainElements: "Private study area within traditional Chinese residence, business record-keeping space"
+    details: "Thick leather-bound account books with visible aging and wear, paper documents with subtle discoloration from age, dust motes floating in afternoon light beam through window, fingers tracing along paper surfaces, leather covers showing cracks and patina from handling, ink stains creating permanent marks on wood desk surface, brazier smoke creating slight atmospheric haze, old paper edges curling slightly from moisture, no text or letters visible"
+    background: "Simple wooden furniture and clay storage vessels creating domestic interior, traditional architectural elements"
+    atmosphere: "Scholarly atmosphere suggested through aged materials, business responsibility made tangible through worn record-keeping materials, connection to literacy and commerce in rural setting"
+  composition:
+    cameraAngle: "Close-up focusing on documents and hands"
+    focus: "Detailed view of aged paper and leather textures"
+    depth: "Immediate foreground shows document details, middle ground includes seated figure, background suggests interior space"

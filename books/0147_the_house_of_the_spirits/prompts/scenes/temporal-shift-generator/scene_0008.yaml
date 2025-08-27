@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Big House Dining Room - From Abundance to Revolutionary Emptiness"
+  setting:
+    time: "1960 autumn evening to 1973 autumn night, thirteen years of political transformation"
+    location: "formal dining room in Big House during changing political seasons"
+    weather: "autumn chill deepening from comfortable to harsh, windows showing darkening political climate"
+  characters:
+    - appearance: "man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and anger, graying hair, stern dark eyes that command respect and fear"
+      clothing: "impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding boots, wool vest, white cotton shirt"
+      position: "seated at head of abundant family dinner table surrounded by multiple generations"
+      action: "presiding over lavish family feast with patriarchal authority and conservative satisfaction"
+    - appearance: "man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom"
+      clothing: "elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline"
+      position: "sitting alone at same dining table now empty and shadowy"
+      action: "eating simple meal in solitude, surrounded by ghostly empty chairs of departed family members"
+  scene:
+    mainElements: "dining room transformation from warm family gathering place to lonely patriarchal isolation - abundant harvest feast replaced by meager solitary meal, multiple occupied chairs becoming empty seats haunted by absent family, crystal and silver service reduced to simple pottery"
+    details: "temporal contrast shows impact of political upheaval on family structure - elaborate autumn centerpieces withered to bare branches, family portraits on walls now darkened by grief and loss, dining table bearing scars and water stains from years of neglect, no text or letters visible"
+    background: "same ornate dining room but lighting dramatically reduced, windows now barred or shuttered against political violence, sounds of family conversation replaced by oppressive silence and distant military patrols"
+    atmosphere: "autumn abundance degenerating into winter isolation, warmth of family gathering replaced by chill of political terror, Esteban's triumphant conservatism collapsed into lonely regret"
+  composition:
+    cameraAngle: "formal dining room perspective emphasizing emptiness versus abundance"
+    focus: "central emphasis on Esteban's transformation from patriarch to isolated survivor"
+    depth: "foreground shows detailed table settings across time, middle ground captures solitary figure versus family gathering, background reveals changing political atmosphere"

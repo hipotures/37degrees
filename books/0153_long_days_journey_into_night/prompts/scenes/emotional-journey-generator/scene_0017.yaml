@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mother's Drug-Induced Tranquility"
+  setting:
+    time: "August 1912, evening, around 6:30 PM"
+    location: "Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling raised to impressive height of over 11 feet creating illusion of spaciousness and elegance."
+    weather: "Thick fog completely enveloping house, no visibility beyond windows"
+  characters:
+    - appearance: "54-year-old woman of medium height with young, graceful figure that is somewhat plump but shows no signs of middle-aged spread. Thick, pure white hair arranged with pedantic care. Distinctly Irish-type face that must have been extremely pretty and still is striking. Thin, pale face with clearly-marked bone structure contrasting with healthy figure. Long straight nose, wide mouth with full, sensitive lips. Uses no rouge or makeup. Very large and beautiful dark brown eyes that appear black, with black eyebrows and long, curled lashes."
+      clothing: "Dressed simply but with sense of what becomes her. Long ankle-length dress with raised waistline typical of 1912 fashion, in muted colors like dove grey or powder blue that emphasize her delicacy and withdrawal."
+      position: "Seated gracefully at table, posture unnaturally serene"
+      action: "Moving with dreamy, detached movements, speaking to someone who isn't there"
+    - appearance: "Woman in early twenties described as sturdy Irish peasant with ruddy, pretty face, black hair and blue eyes. Good-natured but ignorant, awkward and possessed of dense, well-meaning stupidity."
+      clothing: "Typical servant's attire of period: simple dark dress (probably black or navy blue) with white starched apron and small cap on hair."
+      position: "Standing uncertainly beside table with tray"
+      action: "Looking confused and concerned by employer's strange behavior"
+  scene:
+    mainElements: "Round table in center with four chairs: three wicker armchairs and one oak rocker belonging to James. Green glass-shaded reading lamp standing on central table, connected by cord to chandelier above. Creates intimate but claustrophobic circle of light where most important confrontations occur. Thick green glass shade typical of period, providing focused illumination."
+    details: "Mother's movements are slow and dreamlike under influence of morphine, creating eerie contrast with servant's normal behavior, whisky glasses present suggesting mother is drinking with servant, atmosphere of unreality and dissociation"
+    background: "Portrait of Shakespeare hangs over sons' bookshelf. Three main exits: double doors left to rarely-used front parlor, similar doors rear to dark back parlor leading to dining room, right side to front hall with entrance doors and stairs to upper floor."
+    atmosphere: "Surreal calm created by drugs contrasting with underlying family tragedy, artificial peace masking deeper pain, morphine fog matching literal fog outside, servant as unwitting enabler, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on contrast between drugged employer and confused servant"
+    focus: "Drug-induced serenity creating false peace while tragedy continues"
+    depth: "Foreground confused servant with tray, middle ground tranquil mother at table, background empty family space"

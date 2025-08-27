@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1513, dawn of new possibility
+    location: Symbolic landscape where new growth breaks through seemingly impossible barriers
+    weather: Morning light revealing new possibilities
+  characters:
+  - appearance: 21 year old young man with aristocratic, delicate features representing powerful Medici family. Face shows
+      youth but also weight of responsibility as ruler.
+    clothing: Finest quality Florentine garments of silk and brocade following latest fashion trends.
+    position: Standing before map of unified Italy, contemplating future possibilities
+    action: Considering whether to accept challenge of Italian unification outlined in Machiavelli's appeal
+  scene:
+    mainElements: Small but determined plant growing through crack in stone pavement, representing possibility of change even
+      in apparently hopeless circumstances. Symbol of hope that proper leadership could overcome seemingly impossible obstacles
+      to Italian unity.
+    details: Modest leather-bound manuscript, simple binding contrasting with luxury of Medici palace. Written on thick, handmade
+      paper with cream, uneven tone. Lorenzo holding book while contemplating future. Maps showing both current fragmentation
+      and potential unity.
+    background: Political landscape showing both current problems and future possibilities if proper leadership emerges.
+    atmosphere: Question mark ending - is change possible? Can Lorenzo become the prince Machiavelli envisioned? Will proper
+      leadership overcome centuries of division?
+  composition:
+    cameraAngle: Medium shot showing contemplation of future possibilities
+    focus: Lorenzo de' Medici as potential redeemer of Italy, holding key to national salvation
+    depth: Foreground shows symbolic plant breaking through stone, middle ground centers on Lorenzo's decision, background
+      displays both current fragmentation and potential unity
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

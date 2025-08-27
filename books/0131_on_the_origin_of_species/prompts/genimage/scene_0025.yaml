@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Geological time spanning millennia, all seasons and weather patterns
+    location: Single location in Kent countryside showing complete civilizational cycle
+    weather: 'All climate patterns across millennia: ice age, temperate periods, drought cycles'
+  characters:
+  - appearance: 'Various human civilizations across time: prehistoric hunter-gatherers, Roman soldiers, medieval peasants,
+      Victorian gentlemen, modern scientists'
+    clothing: 'Period-appropriate dress showing cultural evolution: animal skins to togas to medieval robes to Victorian suits
+      to modern clothing'
+    position: Different human groups interacting with same ancient tree across millennia
+    action: Hunting, worshipping, building, studying same tree showing changing human relationship with nature
+  scene:
+    mainElements: Massive ancient oak tree as witness to complete cycle of human civilization in same location
+    details: 'Oak tree growing from seedling to ancient giant over millennia while human settlements rise and fall around
+      it: prehistoric camps becoming Roman villa becoming medieval village becoming Victorian estate becoming modern preservation
+      site, tree showing growth rings corresponding to historical periods, human structures built and crumbling while tree
+      endures, archaeological layers accumulating around tree base, same tree providing shelter, worship site, landmark, and
+      scientific study object across all human cultures, root system constant while surface settlements change, no carved
+      initials or human text visible on ancient bark'
+    background: Landscape showing geological features enduring while human modifications appear and disappear, distant hills
+      and river valleys providing consistent geographic reference points
+    atmosphere: Cosmic perspective on human time versus natural time, ancient tree as silent witness to full scope of human
+      civilization, continuity of natural processes underlying cultural change
+  composition:
+    cameraAngle: Wide establishing shot showing tree as central constant with human activity cycling around it
+    focus: The ancient oak as measure of deep time versus human cultural cycles
+    depth: 'Foreground: human activities across time periods, middle: enduring oak tree, background: consistent geological
+      landscape across millennia'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Eternal present, neither day nor night
+    location: Single hexagonal gallery in infinite Library of Babel, geometrical structure containing all possible knowledge
+    weather: No weather exists in this enclosed universe
+  characters:
+  - appearance: Elderly man in final years, stooped and emaciated from endless wandering, deeply wrinkled face, long unkempt
+      gray hair and beard, eyes weak and tired from reading, skeletal frame
+    clothing: Worn gray-brown monk-like robe, frayed and stained from years of use, no other possessions or adornments
+    position: Standing before wall of identical books, hand raised toward one volume
+    action: Hesitating before pulling book from shelf, knowing it likely contains only meaningless letters
+  scene:
+    mainElements: Twenty bookshelves line four walls of hexagonal chamber, each shelf holding identical leather-bound volumes
+      in uniform format, all books appearing exactly the same size and binding, central ventilation shaft surrounded by low
+      stone balustrade, two spherical lamps providing inadequate eternal light
+    details: Every book spine identical brown leather without title markings, each volume containing exactly 410 pages with
+      same number of lines per page, vast majority filled with random letter combinations but somewhere among infinite possibilities
+      lies every truth ever written. Hexagonal geometry creates sense of infinite repetition, each gallery identical to countless
+      others
+    background: Narrow corridors leading to other hexagonal chambers, spiral staircases descending into darkness and ascending
+      beyond sight, geometric shadows cast by spherical lamps, endless rows of books extending beyond vision
+    atmosphere: Mathematical perfection creating existential despair, weak lamplight emphasizing infinite sameness, crushing
+      weight of total knowledge that remains forever inaccessible, silence broken only by distant footsteps echoing through
+      corridors, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from corner of hexagon showing geometric space and solitary figure
+    focus: The wall of identical books with elderly librarian's hand reaching toward one volume
+    depth: Central balustrade and lamps in foreground, figure at bookshelf in middle ground, corridors and stairs disappearing
+      into infinite background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

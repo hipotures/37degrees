@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1960s, midday
+    location: Traditional Sudanese village beside bend of Nile River, observed without subjective interpretation
+    weather: Harsh midday sun creating sharp shadows, temperature around 40 degrees Celsius
+  characters: No characters present in this scene
+  scene:
+    mainElements: Clay-brick houses in various states of repair, some cracked walls, practical irrigation channels with metal
+      pumps, date palms showing signs of seasonal stress
+    details: Objective documentation reveals village's true physical condition without romantic filtering - houses show weathering
+      from decades of sun and sand, some roofs need repair, irrigation system mixes old and new technology efficiently but
+      not aesthetically. Date palms bear fruit but also show brown fronds requiring removal, water channels function properly
+      but carry muddy water with visible debris, paths worn smooth by use show practical traffic patterns rather than picturesque
+      charm, no text or letters visible
+    background: Nile River flowing at seasonal level, banks showing erosion patterns, agricultural fields in various stages
+      of cultivation cycle
+    atmosphere: Neutral documentation of working rural community - practical rather than romantic, functional rather than
+      beautiful, showing real conditions of agricultural life without emotional interpretation
+  composition:
+    cameraAngle: Straight documentary angle showing actual proportions and conditions
+    focus: Clear view of village infrastructure and real living conditions
+    depth: Village buildings and infrastructure in middle ground, working agricultural systems visible throughout, Nile and
+      fields in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

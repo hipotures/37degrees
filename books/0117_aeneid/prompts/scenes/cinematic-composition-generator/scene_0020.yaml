@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Focus Shifts to Pallas's War-Belt"
+  setting:
+    time: "Mythical era around XII century BCE, climactic moment of final duel"
+    location: "Italian battlefield with two warriors in decisive single combat"
+    weather: "Clear day with dramatic tension reaching breaking point"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "divine armor of Vulcan gleaming with supernatural radiance"
+      position: "standing over defeated enemy with weapon raised for final strike"
+      action: "hesitating in moment of potential mercy while gaze shifts to provocative trophy"
+    - appearance: "handsome young warrior described as second Achilles"
+      clothing: "Italian king's armor now bloodied and torn from defeat"
+      position: "fallen on knees pleading for life from victorious enemy"
+      action: "wearing ornate war-belt of murdered youth as trophy while begging for mercy"
+  scene:
+    mainElements: "Italian battlefield cleared for single combat, two armies watching from formation lines, decisive moment of personal choice affecting historical destiny"
+    details: "Divine armor contrasting with bloodied Italian equipment, ornate war-belt visible as trophy from earlier victim, weapons scattered from combat, disturbed earth showing struggle, army standards and banners marking formal duel boundaries"
+    background: "Two massive armies in formation waiting for duel conclusion, Italian city walls and countryside, Mediterranean sky witnessing fate-determining moment"
+    atmosphere: "Divine mercy confronting human vengeance, personal grief overcoming cosmic duty, individual choice determining imperial destiny"
+  composition:
+    cameraAngle: "Rack focus moment shifting attention from mercy to revenge trigger"
+    focus: "Visual attention shifting from fallen enemy's face to war-belt trophy that transforms mercy into fury"
+    depth: "War-belt trophy coming into sharp focus in foreground, warriors in middle distance, armies and landscape in background blur, no text or letters visible"

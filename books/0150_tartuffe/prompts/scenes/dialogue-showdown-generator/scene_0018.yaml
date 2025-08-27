@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Seduction Scene - Tartuffe's Final Gambit"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "intimate evening with flickering candlelight creating romantic atmosphere"
+  characters:
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "seated very close to Elmire on sofa, leaning forward with increasing boldness"
+      action: "speaking urgently about earthly love being path to divine love while reaching for her dress fabric, completely absorbed in conquest attempt"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "seated on sofa maintaining careful balance between encouraging and discouraging his advances"
+      action: "speaking with feigned interest while beginning to cough periodically as signal to hidden husband, using fan to maintain some barrier"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive rectangular oak dining table in center covered with heavy burgundy velvet tablecloth where husband remains hidden"
+    details: "romantic candlelight flickering across scene of manipulation, heavy table cloth concealing witness to unfolding deception, religious artifacts providing bitter irony as false saint reveals true nature"
+    background: "closed doors ensuring privacy for what Tartuffe believes is successful seduction, family portraits watching over scene of domestic betrayal"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, suffocating tension as predator closes in on prey while hidden witness struggles with overwhelming revelation"
+  composition:
+    cameraAngle: "intimate close shot emphasizing psychological manipulation and growing physical threat"
+    focus: "Tartuffe's complete transformation from holy man to lustful predator while Elmire desperately tries to control dangerous situation"
+    depth: "foreground showing seduction turning aggressive, middle ground revealing table hiding traumatized witness, background suggesting isolation from help"

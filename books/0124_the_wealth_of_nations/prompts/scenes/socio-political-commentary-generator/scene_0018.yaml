@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Symbol of Intellectual Rebellion"
+  setting:
+    time: "1776, secretive evening hour"
+    location: "Dark alley behind Georgian townhouses with hidden meeting place"
+    weather: "Dim evening with shadows providing concealment"
+  characters:
+    - appearance: "55-year-old Scottish philosopher, medium build, thin scholarly frame, pociągła twarz with high forehead and thoughtful expression, heavy drooping eyelids giving contemplative look"
+      clothing: "dark wool Georgian suit consisting of frock coat, long waistcoat, and breeches in charcoal gray, white linen shirt with simple white cravat, black leather shoes with silver buckles"
+      position: "seated at writing desk or walking in contemplation with scholarly bearing"
+      action: "secretly writing by candlelight, occasionally glancing toward window as if concerned about surveillance"
+  scene:
+    mainElements: "Floor-to-ceiling bookshelves filled with leather-bound volumes, large mahogany writing desk positioned near sash window, marble fireplace with brass fittings, standing globe in corner"
+    details: "Philosopher works by candlelight on manuscript questioning established economic doctrine, occasionally hiding papers when footsteps pass outside. Books on desk include forbidden works challenging mercantile theory. His writing represents dangerous ideas about natural liberty and free trade opposing official policy"
+    background: "Quiet scholarly environment with ticking clock, scent of old paper and leather bindings, warm candlelight mixing with natural daylight from window"
+    atmosphere: "Intellectual rebellion developing in secret, dangerous ideas forming in opposition to official doctrine, scholar risking reputation to question established authority"
+  composition:
+    cameraAngle: "Close shot emphasizing secretive nature of intellectual work"
+    focus: "Philosopher writing forbidden ideas by candlelight, showing courage to challenge official doctrine"
+    depth: "Writing materials and candlelight in foreground, philosopher at work in middle ground, scholarly environment extending to background"

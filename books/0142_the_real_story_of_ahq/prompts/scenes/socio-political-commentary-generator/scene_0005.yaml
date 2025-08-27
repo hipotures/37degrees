@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Seat of Imperial Authority"
+  setting:
+    time: "1911, noon"
+    location: "Official government building in county town, seat of imperial bureaucracy and legal proceedings"
+    weather: "Bright sunlight creating stark architectural shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Massive traditional Chinese government complex with multiple courtyards, imposing gates, and official halls. Dragon motifs and imperial yellow accents mark this as seat of Qing Dynasty power"
+    details: "Stone lions guarding entrances, vermillion columns supporting curved roofs, bronze ceremonial vessels flanking doorways. Official seals and imperial portraits visible through open doors. Meticulously maintained grounds with geometric landscaping"
+    background: "Smaller administrative buildings radiating outward, creating visual hierarchy. Flagpoles bearing imperial banners, walls decorated with moral exhortations in elegant calligraphy"
+    atmosphere: "Overwhelming architectural assertion of imperial permanence and divine mandate. The scale and grandeur designed to intimidate subjects and remind them of their insignificance. Yet there is something brittle about this display of power, as if compensating for growing weakness"
+  composition:
+    cameraAngle: "Low angle emphasizing the monumental scale and intimidating presence"
+    focus: "The central government hall as embodiment of imperial authority"
+    depth: "Foreground shows ceremonial elements and guards' posts, middle ground features the main administrative complex, background reveals the extending bureaucratic apparatus"

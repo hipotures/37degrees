@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, late afternoon in palace training grounds
+    location: Military training courtyard adjacent to Wu palace complex, ancient Chinese architecture with wooden practice
+      posts and earthen combat circles
+    weather: Clear sky with lengthening shadows suggesting day's end approaching
+  characters:
+  - appearance: Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes
+      with determined expression, graying hair at temples
+    clothing: Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt,
+      wears small jade pendant indicating court rank
+    position: Kneeling beside broken iron shackles on ground, one hand touching the metal
+    action: Examining remnants of chains while contemplating the nature of freedom versus duty
+  scene:
+    mainElements: Broken iron chains lie scattered in dust beside pristine golden chain of court rank, creating stark visual
+      contrast between oppression and willing service, late sunlight glinting off both metals
+    details: Iron shackles show rust and stress fractures where they were broken, links still connected in some places, completely
+      severed in others. Golden chain displays intricate craftsmanship with small jade pendant indicating court rank suspended
+      from fine links. Training weapons stuck in wooden posts nearby, practice targets showing wear from repeated use
+    background: Wooden practice posts for sword training, straw targets for archery, racks holding training weapons, view
+      of palace walls beyond courtyard
+    atmosphere: Contemplative moment examining the duality of bondage, late afternoon light creating long shadows that connect
+      the two chain types, dust motes floating in sunbeams, distant sounds of military preparation, no text or letters visible
+      to viewer
+  composition:
+    cameraAngle: Ground level view emphasizing the chains as central symbolic elements
+    focus: Contrast between broken iron chains and golden court chain, both catching the slanted sunlight
+    depth: Foreground shows detailed chain textures and differences, middle ground reveals kneeling figure in contemplation,
+      background shows military training environment
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

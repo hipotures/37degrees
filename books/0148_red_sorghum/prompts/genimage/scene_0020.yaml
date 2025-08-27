@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1924 autumn, evening
+    location: Main courtyard of distillery prepared for harvest celebration, Northeast Gaomi District
+    weather: Cool autumn evening perfect for outdoor feast
+  characters:
+  - appearance: Multiple villagers and workers of various ages, representing distillery community in celebration
+    clothing: Festival clothing, best available garments for harvest celebration
+    position: Gathered around multiple low tables arranged in courtyard
+    action: Preparing to share community feast, observing rising steam from dishes
+  scene:
+    mainElements: Community harvest celebration with abundant food preparation, traditional Chinese feast setting
+    details: Steam rising from multiple hot dishes creating overlapping vapor patterns, different steam densities suggesting
+      variety of foods, aromatic vapors swirling together in evening air, ceramic dishes with condensation forming on surfaces,
+      wooden serving vessels with heat radiating upward, faces illuminated by warm steam glow, complex layer of mingled food
+      aromas made visible through steam patterns, celebration abundance suggested through multiple steaming dishes, communal
+      sharing atmosphere visible through steam convergence, no text or letters visible
+    background: Distillery courtyard decorated for festival, traditional architecture creating celebration backdrop
+    atmosphere: Community abundance and shared prosperity, complex flavors suggested through mingling steam patterns, harvest
+      celebration and gratitude made tangible
+  composition:
+    cameraAngle: Wide shot capturing multiple steam sources and community gathering
+    focus: Overlapping steam patterns and community feast preparation
+    depth: Foreground shows steam detail, middle ground reveals feast tables, background includes celebrating community
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

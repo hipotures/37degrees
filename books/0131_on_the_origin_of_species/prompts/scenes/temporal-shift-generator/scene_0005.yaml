@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Specimen Jar Journey from Collection to Museum"
+  setting:
+    time: "1835 field collection to 1900s museum display, various lighting conditions"
+    location: "Remote Galapagos archipelago 1000km west of Ecuador, volcanic island shoreline with black lava rock formations and dark sand beaches transforming to Natural History Museum London, England"
+    weather: "Tropical equatorial heat becoming controlled museum environment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Clear glass jars of various sizes with cork stoppers, containing preserved biological specimens in alcohol solution, handwritten paper labels with scientific names and collection locations, arranged on wooden shelves"
+    details: "Single specimen jar containing Galapagos finch progressing through time: fresh collection in field tent, careful preservation aboard ship, arrangement in Down House study, formal cataloguing in scientific collection, final display in museum cabinet with brass nameplate, jar glass becoming slightly clouded with age, alcohol solution darkening, specimen remaining perfectly preserved, handwritten field label fading but still legible, no text or letters visible on labels"
+    background: "Volcanic Galapagos landscape becoming ship's cabin becoming country house study becoming grand museum hall with marble columns and gas lighting"
+    atmosphere: "Scientific preservation across decades, specimen maintaining its significance while context elevates from personal collection to public knowledge, journey from remote discovery to cultural institution"
+  composition:
+    cameraAngle: "Close-up tracking shot following jar through different environments"
+    focus: "The preserved finch specimen as constant element through changing contexts"
+    depth: "Foreground: detailed specimen jar, middle: changing storage systems, background: evolving architectural settings from tent to museum"

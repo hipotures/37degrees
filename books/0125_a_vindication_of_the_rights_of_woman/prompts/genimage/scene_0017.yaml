@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1792, multiple light sources suggesting various forms of information distribution
+    location: Public spaces where popular literature and moral instruction reach the masses
+    weather: Mixed lighting conditions showing various venues where ideological messages spread
+  characters:
+  - appearance: Groups of people absorbing popular literature about gender roles and feminine nature from various sources
+    clothing: Mixed dress representing different social classes all receiving similar messages about women's place
+    position: Gathered around various sources of information - pamphlets, sermons, popular books
+    action: Reading, listening to, and discussing popular ideas about feminine nature and proper gender roles
+  scene:
+    mainElements: Multiple venues and methods for distributing ideas about gender - bookshops, churches, social gatherings,
+      popular publications
+    details: Popular books by authors like Dr. Gregory and Dr. Fordyce promoting feminine weakness as virtue. Pamphlets and
+      sermons teaching women to cultivate artificial helplessness. Social reinforcement of gender myths through popular culture
+    background: Urban environment where ideas circulate rapidly through various media and social networks
+    atmosphere: Atmosphere of pervasive ideological saturation, where harmful ideas about women circulate as popular wisdom
+      and moral truth
+  composition:
+    cameraAngle: Wide shot showing multiple venues and methods of ideological distribution
+    focus: The mass distribution and social absorption of ideas that justify women's subordination
+    depth: Foreground shows individual absorption of ideology, middle ground shows distribution methods, background suggests
+      urban networks that spread these ideas
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

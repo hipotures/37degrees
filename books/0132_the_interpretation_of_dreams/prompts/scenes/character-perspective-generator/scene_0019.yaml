@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hidden Elements Behind Doors"
+  setting:
+    time: "1897 evening revealing spaces usually unseen"
+    location: "Connected rooms and hallways of Berggasse 19 apartment, showing areas beyond main study"
+    weather: "Evening light revealing domestic spaces behind professional facade"
+  characters:
+    - appearance: "Woman around 34 years old, slender petite build, delicate regular features, pale complexion, dark hair arranged in neat updo"
+      clothing: "Modest but elegant dress of middle-class housewife, often with apron, practical but well-made garments in darker colors"
+      position: "Standing in doorway or moving through domestic space"
+      action: "Organizing household items or serving tea with quiet efficiency"
+    - appearance: "Young children of various ages with curious expressions"
+      clothing: "Victorian children's clothing appropriate to middle-class family"
+      position: "Playing quietly in family areas separate from father's professional space"
+      action: "Normal childhood activities in domestic environment"
+  scene:
+    mainElements: "Apartment areas hidden from professional view revealing normal family life occurring simultaneously with psychological sessions, showing what patients and colleagues never see"
+    details: "Family dining room with simple furniture and children's toys, kitchen area with cooking preparation, hallway connecting professional and domestic spaces, Martha Freud managing household activities. Children's drawings on walls, family photographs, everyday domestic objects. Normal middle-class apartment living arrangements showing contrast between public professional image and private family reality."
+    background: "Standard bourgeois apartment interior with family furniture, domestic implements, and personal belongings"
+    atmosphere: "Ordinary family life continuing behind scenes of professional practice, revealing human normalcy behind public intellectual image, domestic routine supporting professional work, no text or letters visible"
+  composition:
+    cameraAngle: "Perspective from behind usually closed doors showing hidden family spaces"
+    focus: "Contrast between formal professional areas and informal domestic life"
+    depth: "Foreground: domestic activities usually concealed from professional visitors, Middle: transition spaces between public and private areas, Background: glimpses of professional workspace from family perspective"

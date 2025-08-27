@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mass Absorption of Economic Ideology"
+  setting:
+    time: "1776, public rally afternoon"
+    location: "Public square with government speakers addressing crowd"
+    weather: "Bright afternoon with strong sun and sharp shadows"
+  characters:
+    - appearance: "Mixed crowd of citizens including merchants, workers, and middle-class families, showing varying degrees of enthusiasm"
+      clothing: "Range of Georgian dress from working clothes to respectable middle-class attire, representing different social levels"
+      position: "gathered in large crowd facing official speakers on raised platform"
+      action: "listening to official presentation of economic policy, some appearing enthusiastic while others seem uncertain"
+  scene:
+    mainElements: "Large outdoor gathering with government officials on raised platform, crowd arranged before speakers, banners and displays promoting official economic policies, atmosphere of public persuasion"
+    details: "Officials present mercantile policies as benefiting all citizens, using patriotic language and impressive statistics. Some crowd members cheer approvingly while others appear skeptical. Banners display slogans about national prosperity through trade control and imperial strength"
+    background: "Public square surrounded by Georgian buildings, other citizens observing from windows and balconies, suggesting wide reach of official messaging"
+    atmosphere: "Public persuasion campaign promoting official economic doctrine, mixture of genuine enthusiasm and manufactured consent, citizens receiving selective information"
+  composition:
+    cameraAngle: "Medium wide shot showing speakers and responsive crowd"
+    focus: "Government officials presenting economic policy to mixed crowd showing varying levels of acceptance"
+    depth: "Speakers on platform in middle ground, crowd reactions in foreground, urban setting extending to background"

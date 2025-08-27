@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1938 winter, late afternoon
+    location: Abandoned pharmacy corner after Japanese raids, Northeast Gaomi District
+    weather: Cold overcast day with gray light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Destroyed medical facility with remaining evidence of traditional Chinese medicine
+    details: Dark glass medicine bottles with burnt edges, liquid contents turned black from heat damage, ceramic vessels
+      cracked and discolored, bitter medicinal residue coating interior surfaces, charred wooden shelving with medicine stains,
+      bottles containing dark mysterious liquids, medicine dregs creating permanent stains on surfaces, acrid smoke damage
+      visible on walls, bitter herbs scattered on floor creating dark patches, traditional medicine grinding stones darkened
+      with residue, no text or letters visible
+    background: Damaged interior walls and broken furniture suggesting recent destruction
+    atmosphere: Bitterness of loss and destruction made visible through damaged medicine containers, traditional healing arts
+      disrupted by warfare, knowledge and healing destroyed
+  composition:
+    cameraAngle: Close-up focusing on damaged medicine containers
+    focus: Burnt bottles and bitter medicinal residue
+    depth: Immediate foreground shows medicine damage, middle ground reveals scattered containers, background suggests destroyed
+      interior
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

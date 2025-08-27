@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Isolation in the Crowd"
+  setting:
+    time: "1911, evening"
+    location: "Public drinking establishment in Weizhuang during busy social hour"
+    weather: "Lantern light creating intimate but shadowy atmosphere"
+  characters:
+    - appearance: "Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny ringworm scars on scalp that turn scarlet red when angry or humiliated"
+      clothing: "Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven cloth typical of rural laborers"
+      position: "Sitting alone at corner table, hunched over empty cup"
+      action: "Staring into space with expression of doubt and sadness, occasionally glancing at laughing groups but making no attempt to join"
+    - appearance: "Various villagers engaged in loud conversation and drinking"
+      clothing: "Work clothes similar to main figure but in better condition"
+      position: "Clustered in animated groups around other tables"
+      action: "Laughing, drinking, and socializing while completely ignoring the isolated figure"
+  scene:
+    mainElements: "Thick air from smoke, alcohol smell and sweat. Dim lighting from street entrance creates shadows in back. Multiple oil lamps casting flickering light and dancing shadows. Crowded tavern full of social interaction"
+    details: "Empty cup before the isolated figure contrasts with full drinks at other tables. Physical proximity highlighting emotional distance. The man's scarred scalp catches lamplight, marking him as different"
+    background: "Busy tavern life continues around the lonely figure - servers carrying drinks, money changing hands, loud conversations about daily concerns"
+    atmosphere: "Profound loneliness in midst of community. Social systems that create belonging for some inevitably create exclusion for others. The isolated figure represents all those who don't fit, who exist on margins of society"
+  composition:
+    cameraAngle: "Close-up capturing the lonely figure with busy tavern life blurred in background"
+    focus: "The contrast between the isolated individual and the socializing crowd"
+    depth: "Foreground emphasizes the lonely figure's emotional isolation, middle ground shows the physical proximity to others, background reveals the continuing social life that excludes him"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1760s, evening
+    location: Public square in Paris during mandatory loyalty demonstration where one individual begins to question the system
+    weather: Twilight shadows creating atmosphere of inner conflict and emerging doubt
+  characters:
+  - appearance: Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public
+      affairs. Posture shows transformation from individual to member of political body
+    clothing: All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without
+      ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality
+    position: Standing within conforming crowd but beginning to show signs of individual consciousness
+    action: Initially participating in mass demonstration but gradually showing hesitation, doubt, and internal conflict while
+      others continue automated responses
+  scene:
+    mainElements: Individual figure in center of frame showing different expression while surrounded by thousands of identical
+      conforming faces
+    details: Single person's face shows sadness, doubt, or questioning while all others around show blank mechanical compliance.
+      This individual's posture differs slightly from perfect uniformity of crowd. Eyes show awakening consciousness
+    background: Endless mass of conforming citizens extending to horizon, government authorities on distant platform controlling
+      mass behavior
+    atmosphere: Profound isolation of individual consciousness within dehumanized mass, beginning of critical thinking despite
+      social pressure to conform, courage required to maintain humanity
+  composition:
+    cameraAngle: Close-up focusing on single questioning face surrounded by sea of identical expressions
+    focus: Individual showing signs of doubt and independent thought within mass of automated compliance
+    depth: Foreground shows detailed individual expression of doubt, middle ground displays contrast with conforming crowd,
+      background extends to controlling authorities
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

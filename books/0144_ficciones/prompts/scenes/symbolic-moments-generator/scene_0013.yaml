@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Garden Path That Divides Forever"
+  setting:
+    time: "1916 England, rainy afternoon during World War I"
+    location: "Chinese pavilion in English countryside estate with labyrinthine garden paths"
+    weather: "Steady rain pattering on roof and windows, mist rising from garden"
+  characters:
+    - appearance: "Chinese professor working as German spy, medium height, discrete build, intelligent controlled face hiding inner tension, dark alert eyes, appearance designed not to attract attention"
+      clothing: "Dark simple suit appropriate for blending into English crowd, plain overcoat and hat, clothing marking him as foreigner trying to appear invisible"
+      position: "Standing at pavilion window, looking out at garden maze while rain falls"
+      action: "Contemplating labyrinthine paths while holding loaded revolver, preparing for inevitable choice between paths of action"
+    - appearance: "Elderly English sinologist, very tall with sharp features, gray eyes and silver beard, face showing timeless almost immortal quality, intellectual bearing of lifetime scholar"
+      clothing: "Comfortable scholar's attire: silk Chinese robe or tweed jacket, appropriate for Oriental studies enthusiast"
+      position: "Seated at table with books and papers, explaining philosophical concepts"
+      action: "Describing infinite time theory while rain patters, unaware of approaching death"
+  scene:
+    mainElements: "Garden maze visible through rain-streaked windows, multiple paths branching and converging, each route leading to different outcome, labyrinth becoming physical metaphor for infinite possibilities of time and choice, paths appearing to fork endlessly into misty distance"
+    details: "Garden paths transform from simple walkways into philosophical diagram of infinite time, each fork representing moment where reality splits into multiple futures. Rain makes paths gleam like silver rivers, mist obscuring destinations so all choices lead into uncertainty. Maze becomes living illustration of time as branching structure rather than single line"
+    background: "Chinese pavilion interior with lacquered furniture, Oriental books and scrolls, paper lanterns, gramophone playing softly, Ming vase holding flowers, scholarly atmosphere of East-West cultural fusion"
+    atmosphere: "Philosophical revelation mixed with approaching violence, rain creating contemplative mood, mist suggesting infinite possibilities, moment of choice between understanding and action, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from inside pavilion looking through window at maze"
+    focus: "The branching garden paths disappearing into misty uncertainty"
+    depth: "Window frame in foreground, garden maze in middle ground, rain and mist creating atmospheric depth in background"

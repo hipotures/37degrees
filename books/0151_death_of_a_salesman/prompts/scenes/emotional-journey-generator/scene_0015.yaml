@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Split Composition - Character Between Light and Shadow"
+  setting:
+    time: "1949, late night"
+    location: "modest bedroom on raised platform in Loman house, sparse furnishings reflecting financial constraints and practical needs"
+    weather: "night with streetlight casting uneven illumination through window"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "simple nightgown and worn robe, practical slippers, appearance of someone woken from sleep by family crisis"
+      position: "sitting on edge of brass bed, body positioned between window light and room shadow"
+      action: "hands folded in lap, face turned partly toward light and partly in darkness, reflecting internal conflict between hope and despair"
+  scene:
+    mainElements: "brass bed dominating space, simple wooden chair, small dresser with mirror, single window providing limited natural light, room divided by contrasting illumination"
+    details: "Window casting harsh streetlight into half the room while other half remains in deep shadow. Mirror on dresser reflecting fragmented light. Simple silver trophy from son's athletic past catching glint of light on dresser top."
+    background: "bedroom extending into shadows, door leading to hallway where family conflict continues, modest furnishings emphasizing economic limitations"
+    atmosphere: "intimate but strained space where private fears and tensions surface, soft lighting emphasizing vulnerability, woman caught between competing loyalties and impossible choices"
+  composition:
+    cameraAngle: "medium shot emphasizing split lighting and divided composition"
+    focus: "woman's face and posture showing internal division between protecting family and facing truth"
+    depth: "foreground shows brass bed and intimate bedroom setting, middle ground captures figure divided between light and shadow representing internal conflict, background reveals private space extending into darkness of family crisis"

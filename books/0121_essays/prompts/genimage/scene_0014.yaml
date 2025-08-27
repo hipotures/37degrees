@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1580s, observing young zealots
+    location: Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots
+    weather: Weary afternoon light showing passage of time
+  characters:
+  - appearance: Elderly observer in 70s with deeply lined face, eyes showing accumulated wisdom of witnessing many conflicts
+    clothing: Worn traveler's clothes, neutral colors avoiding religious identification
+    position: Standing apart from conflict, leaning on walking staff, watching with detached sadness
+    action: Observing young fighters with expressions of weary recognition, seeing patterns repeated across generations
+  - appearance: Young religious fighters on both sides, faces bright with fanatical certainty
+    clothing: Religious or military insignia showing absolute partisan commitment
+    position: Engaged in heated argument or preparation for violence
+    action: Shouting slogans, brandishing weapons, displaying perfect confidence in their cause
+  scene:
+    mainElements: Battlefield scene observed through lens of long experience, showing cyclical nature of human folly
+    details: Young faces appear almost transparent with their certainty while elder's vision shows ghostly images of previous
+      conflicts fought by their fathers and grandfathers in same landscape, religious banners seem to flicker between different
+      symbols representing endless succession of absolute causes, weapons appear both threatening and pathetically futile,
+      blood-soaked ground shows layers of previous battles fought for identical convictions, elder's eyes reflect knowledge
+      that current passion will pass like all others, no text or letters visible
+    background: Landscape scarred by generations of identical conflicts, showing futility of recurring human folly
+    atmosphere: Profound sadness at human inability to learn from experience, recognition of eternal patterns of fanaticism,
+      wisdom that comes from outliving one's own certainties
+  composition:
+    cameraAngle: Elder's detached perspective showing both current conflict and historical repetition
+    focus: Contrast between youthful certainty and elderly wisdom, emphasizing cyclical nature of human folly
+    depth: Foreground shows wise observer, middle ground captures current conflict, background reveals historical repetition,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

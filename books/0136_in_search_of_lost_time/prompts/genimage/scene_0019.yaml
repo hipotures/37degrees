@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Compressed social evolution from 1890s nouveau riche to 1920s established aristocrat
+    location: Same salon space transforming through accelerated social ascension
+    weather: Lighting evolving from gas lamps to electric chandelier elegance across compressed time
+  characters:
+  - appearance: Madame Sidonie Verdurin aging while simultaneously gaining social polish, theatrical gestures becoming refined
+      mannerisms
+    clothing: 'Fashion evolution compressed: gaudy nouveau riche ostentation becoming understated aristocratic elegance across
+      single figure'
+    position: Same throne-like chair but furniture quality improving while occupant ages
+    action: Gestures evolving from exaggerated pretension to genuine aristocratic authority, 'crying with laughter' becoming
+      dignified amusement
+  scene:
+    mainElements: 'Salon showing accelerated refinement: pretentious decorations evolving into genuine antiques, fake art
+      becoming authentic masterpieces, theatrical lighting becoming sophisticated illumination.'
+    details: 'Furniture upgrading while showing wear: gilded frames becoming authentic gold, imitation tapestries becoming
+      real historicals, Chinese porcelain becoming museum quality.'
+    background: Guest chairs filling with increasingly prestigious visitors across temporal compression. Windows showing view
+      elevation from middle-class district to aristocratic neighborhood.
+    atmosphere: Social ambition's temporal success compressed into single devastating achievement. Nouveau riche pretension
+      becoming authentic power through time's transformation of artificial into real, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing complete salon transformation with central figure aging into authority
+    focus: Madame Verdurin as temporal constant while everything around her evolves to match her ambitions
+    depth: Foreground shows furniture upgrading, middle ground captures figure's social evolution, background reveals class
+      elevation through window
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

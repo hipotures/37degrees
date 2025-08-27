@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Apparent Harmony of Regulated Trade"
+  setting:
+    time: "1776, morning organized activity"
+    location: "London customs house at port with ships being inspected"
+    weather: "Clear morning with soft light"
+  characters:
+    - appearance: "Customs officers in official uniform with brass buttons and tricorn hats, appearing efficient and authoritative"
+      clothing: "Navy blue wool uniforms with brass fittings, white crossbelts, official insignia of customs service"
+      position: "inspecting cargo from merchant vessel with systematic precision"
+      action: "checking manifests against actual goods, measuring and weighing items, stamping official documents"
+  scene:
+    mainElements: "Organized customs inspection with officials systematically checking cargo from merchant ship, wooden crates and barrels arranged in neat rows for inspection, official weighing scales and measuring devices, clipboards with forms and stamps"
+    details: "Customs officers methodically inspect colonial goods including tobacco bundles, sugar barrels, and tea chests. Official scales weigh items precisely while clerks record weights in ledgers. Ship captain presents manifest documents for verification. Everything appears orderly and systematic, suggesting smooth functioning of regulated trade"
+    background: "Thames River with multiple merchant vessels waiting their turn, warehouse buildings along waterfront, other cargo being processed in similar systematic fashion"
+    atmosphere: "Efficiency and order in commercial regulation, sense of systematic control over trade, appearance of fair and thorough inspection process"
+  composition:
+    cameraAngle: "Medium wide shot showing systematic inspection process"
+    focus: "Customs officers examining cargo with merchant ship captain observing"
+    depth: "Foreground shows inspection scales and documents, middle ground captures officials at work, background reveals waiting ships and warehouses"

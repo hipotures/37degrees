@@ -1,0 +1,134 @@
+canon:
+  characters:
+    - id: "main_protagonist"
+      name: "The Lyrical I (Protagonist)"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+            clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+            posture: "Porusza się powoli, z namysłem, jakby każdy krok był aktem medytacji. Postawa wyprostowana, ale nie sztywna. Gesty oszczędne ale pełne znaczenia: dłonie często złożone w geście modlitewnym (anjali), otwarte w geście ofiarowania, czy podniesione w akcie ekstatycznego śpiewu."
+
+    - id: "working_man_tiller"
+      name: "The Tiller (Oracz/Kamieniarz)"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna około 30-35 lat o potężnej, muskularnej budowie wynikającej z ciężkiej pracy fizycznej. Nagi tors, skóra ciemna i spalona słońcem. Twarz poorana zmarszczkami i często zroszona potem, ma wyraz stoickiego spokoju i godności. Dłonie wielkie i stwardniałe od pracy."
+            clothing: "Proste, zniszczone, poplamione ziemią dhoti. Całe ciało i ubranie pokryte świętym pyłem pracy."
+            posture: "Ruchy rytmiczne i pewne, wynikające z lat doświadczenia. Całe ciało wyraża godność w trudzie."
+
+    - id: "royal_child"
+      name: "The Child in Prince's Robes"
+      description_block: |
+        characters:
+          - appearance: "Mały chłopiec około 7-8 lat o dużych, niewinnych, ale smutnych oczach. Drobna, dziecięca budowa. Ciemne, krótkie włosy. Twarz wyraża zagubienie w swoim bogactwie."
+            clothing: "Bogato zdobione, jedwabne szaty w jaskrawych kolorach, które są dla niego za duże i wyraźnie krępują mu ruchy. Na szyi ciężkie, złote naszyjniki i girlandy z klejnotów. Strój nieskazitelnie czysty."
+            posture: "Porusza się ostrożnie, bojąc się pobrudzić. Wygląda na odizolowanego i nieszczęśliwego w swoim bogactwie."
+
+    - id: "temple_priest"
+      name: "The Temple Priest"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna powyżej 60 lat, chuda, ascetyczna sylwetka. Ogolona głowa według tradycji bramińskiej. Twarz wychudzona, poorana zmarszczkami. Oczy często zamknięte w medytacji."
+            clothing: "Proste, szafranowe szaty. Na czole znaki religijne (tilaka). Całość podkreśla tradycyjną duchowość."
+            posture: "Ruchy powolne, rytualne. Siedzi w pozycji medytacyjnej, często z zamkniętymi oczami."
+
+    - id: "waiting_bride"
+      name: "The Bride (Panna Młoda)"
+      description_block: |
+        characters:
+          - appearance: "Młoda kobieta około 18-20 lat, smukła budowa pełna wdzięku. Długie, ciemne, rozpuszczone włosy. Twarz wyraża mieszankę tęsknoty, niepokoju i nadziei."
+            clothing: "Proste, domowe sari w stonowanym kolorze (błękit lub biel). Bez biżuterii, podkreślając prostotę oczekiwania."
+            posture: "Siedzi na progu lub przy oknie, wpatrzona w noc, nasłuchując kroków nadchodzącego oblubieńca. Symbol duszy oczekującej na Boga."
+
+    - id: "earthly_king"
+      name: "The King"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna około 50 lat, wysoki, postawny, majestatyczny. Twarz często w cieniu, co czyni go bardziej symbolem władzy niż konkretną osobą."
+            clothing: "Ciężkie, ceremonialne szaty z brokatu i jedwabiu. Może nosić bogato zdobiony turban lub koronę."
+            posture: "Siedzi na tronie w wielkiej, mrocznej sali. Uosobienie ziemskiej, przemijającej władzy w kontraście do wiecznej władzy Boga."
+
+  locations:
+    - id: "rural_bengal_village"
+      name: "Wiejski Bengal"
+      description_block: |
+        setting:
+          location: "Wieś w regionie Bengalu, wschodnie Indie, początek XX wieku pod panowaniem brytyjskim"
+        mainElements: "Proste chaty z ubitej gliny zmieszanej ze słomą i krowim nawozem, o ciepłym kolorze ochry. Dachy kryte grubą warstwą strzechy z trawy lub liści palmowych. Małe okna bez szyb, gliniane podłogi. Wioski nieregularnie rozrzucone wśród gajów bambusowych, drzew mango i bananowców."
+        atmosphere: "Organiczny krajobraz dźwiękowy: śpiew ptaków, cykanie cykad, szum wiatru w liściach palm, rechot żab po deszczu. Zapachy: wilgotna ziemia po deszczu (petrichor), słodka woń jaśminu wieczorem, ostry zapach dymu z palenisk."
+
+    - id: "padma_river_bank"
+      name: "Brzegi Rzeki Padma"
+      description_block: |
+        setting:
+          location: "Brzeg rzeki Padma (główny nurt Gangesu) w regionie Bengalu, Indie brytyjskie początek XX wieku"
+        mainElements: "Szeroka, wolno płynąca rzeka o mleczno-brązowym kolorze od mułu. Niskie, piaszczyste lub gliniaste brzegi nieustannie kształtowane przez nurt. Piaszczyste łachy (chars) pojawiające się i znikające, kępy wysokich traw (kash) które jesienią pokrywają się białym puchem. Proste drewniane łodzie rybackie z kwadratowymi żaglami."
+        atmosphere: "Centralne miejsce kontemplacji, gdzie granica między światem fizycznym a duchowym staje się płynna. Bezustanny, powolny przepływ symbolizuje czas, życie i wieczność. Szum wody, plusk wioseł, daleki śpiew przewoźnika tworzą medytacyjną atmosferę."
+
+    - id: "temple_interior"
+      name: "Symboliczna Świątynia"
+      description_block: |
+        setting:
+          location: "Wnętrze małej, lokalnej świątyni (deul) w wiejskim Bengalu, Indie początek XX wieku"
+        mainElements: "Mała kapliczka z ciemnoczerwonej cegły typowej dla architektury Bengalu, mury porośnięte mchem i pnączami. Niskie wejście, ciężkie drewniane drzwi zamknięte. Wnętrze małe, ciemne i chłodne. Jedyne światło z niewielkich otworów lub pojedynczej lampy olejnej."
+        atmosphere: "Gęsty, słodkawy zapach kadzidła, oleju i zwiędłych kwiatów zmieszany z wonią wilgoci i stęchlizny. Miejsce symbolizujące zinstytucjonalizowaną religijność zamkniętą na świat i prawdziwe życie. Atmosfera stagnacji, mroku i odosobnienia."
+
+    - id: "village_market"
+      name: "Symboliczny Rynek (Haat)"
+      description_block: |
+        setting:
+          location: "Wiejski rynek (haat) w Bengalu, Indie pod panowaniem brytyjskim początek XX wieku"
+        mainElements: "Tętniąca życiem, chaotyczna otwarta przestrzeń często w cieniu wielkiego drzewa Banyan. Proste, bambusowe konstrukcje lub maty rozłożone na ziemi z towaru: piramidy kolorowych warzyw i owoców, worki z ryżem i przyprawami, stosy ręcznie tkanych tkanin. Wszechobecny pył wzbijany przez stopy ludzi i kopyta zwierząt."
+        atmosphere: "Intensywna interakcja społeczna - gwar rozmów, targowanie się, śmiech dzieci, nawoływania sprzedawców mieszające się z pobekiwaniem kóz i gdakaniem kur. Kakofonia zapachów: słodkie owoce, ostre przyprawy, smażone potrawy, pot i kurz. Simbolizuje świat doczesny gdzie również można odnaleźć Boga."
+
+    - id: "rural_field"
+      name: "Pole (Suche/Monsunowe)"
+      description_block: |
+        setting:
+          location: "Rozległe pola uprawne w wiejskim Bengalu, Indie początku XX wieku"
+        mainElements: "Rozległa, płaska przestrzeń. W porze suchej - spękana, wypalone słońcem ziemia w kolorach żółci i brązów. W porze monsunowej - zalane wodą pola z rzędami zielonych sadzonek ryżu pod ołowianym niebem. Pojedyncze drzewo Banyan dające cień."
+        atmosphere: "Cykliczność życia i zależność od natury. W porze suchej - ostre, bezlitosne słońce, odgłosy wiatru i śpiewu ptaków. W porze deszczowej - rozproszone szare światło, bębnienie deszczu na liściach. Para wołów ciągnąca drewniany pług."
+
+    - id: "rural_hut_interior"
+      name: "Wnętrze Chaty"
+      description_block: |
+        setting:
+          location: "Wnętrze prostej chaty wiejskiej w Bengalu, Indie początku XX wieku"
+        mainElements: "Jedno pomieszczenie ze ścianami z ubitej gliny, gliniana podłoga. Wnętrze ciemne, rozświetlone jedynie migoczącym płomieniem małej glinynej lampy olejnej rzucającym drżący, ciepły blask na ściany. Prosta mata do spania, kilka glinianych naczyń, palenisko."
+        atmosphere: "Spokój, prostota, ubóstwo, intymność. Zapach: ziemia, dym z paleniska. Miejsce kontemplacji i duchowej transformacji, szczególnie podczas burzy monsunowej gdy wiatr i deszcz tworzą dramatyczne tło."
+
+  items:
+    - id: "bamboo_flute"
+      name: "Bambusowy Flet"
+      description_block: |
+        details: "Prosty, surowy flet z bambusa bez żadnych ozdób. Symbol ludzkiej duszy jako instrumentu przez który przepływa boska muzyka/tchnienie życia. Reprezentuje pasywność i poddanie się wyższej woli. Może być wizualizowany z oddechem/wiatrem przepływającym przez niego, tworzącym widzialne fale dźwiękowe."
+
+    - id: "clay_vessel"
+      name: "Gliniane Naczynie"
+      description_block: |
+        details: "Prosty, gliniany dzban lub miska, być może z widocznymi pęknięciami i śladami użytkowania. Symbol skończonego, ograniczonego 'ja' (ego), które musi być wielokrotnie opróżniane ze swoich treści aby mogło zostać napełnione boskim życiem/łaską. Może być wizualnie napełniane czystą wodą która przelewa się przez brzegi."
+
+    - id: "oil_lamp"
+      name: "Lampa Olejna (Diya)"
+      description_block: |
+        details: "Mała, migocząca, gliniana lampa olejna. Symbol wewnętrznej świadomości, duchowego oświecenia, poszukiwania prawdy i boskiego przewodnictwa. Symbol nadziei w ciemności. Płomień mały i delikatny, walczy z otaczającą go ciemnością, oświetlając jedynie niewielki, skupiony obszar."
+
+    - id: "simple_flower"
+      name: "Prosty Kwiat"
+      description_block: |
+        details: "Pojedynczy, skromny kwiat (biały jaśmin, pomarańczowy nagietek), być może lekko niedoskonały. Symbol aktu ofiarowania samego siebie, piękna, miłości, a także przemijającej, kruchej natury życia które należy ofiarować zanim zwiędnie. Często trzymany w otwartych, złożonych w geście ofiarnym dłoniach."
+
+    - id: "royal_chains"
+      name: "Złote Łańcuchy"
+      description_block: |
+        details: "Grube, lśniące, złote łańcuchy które nie są przymocowane do ścian ale do ciężkich skrzyń ze skarbami. Symbol materialnych przywiązań i bogactwa jako formy zniewolenia. Muszą być ciężkie, lśniące, ale jednocześnie wyglądać jak kajdany więzienia własnego ego."
+
+    - id: "wooden_boat"
+      name: "Drewniana Łódź"
+      description_block: |
+        details: "Prosta, drewniana łódź rybacka z jednym, charakterystycznym, kwadratowym żaglem. Symbol podróży przez życie, duchowej wędrówki i przeprawy między światem doczesnym a wiecznością. Powierzchnia łodzi pokazuje ślady użytkowania, tworząc poczucie autentyczności i bliskości z codziennym życiem."
+
+    - id: "ox_cart"
+      name: "Wóz Zaprzężony w Woły"
+      description_block: |
+        details: "Dwukołowy, drewniany wóz zaprzężony w parę spokojnych, ciemnych wołów. Symbol powolnego, cyklicznego rytmu wiejskiego życia i tradycji. Woły poruszają się powoli, rytmicznie, ich dzwonki przy uprzęży pobrzękują delikatnie. Wóz jest prosty, funkcjonalny, bez ozdób."

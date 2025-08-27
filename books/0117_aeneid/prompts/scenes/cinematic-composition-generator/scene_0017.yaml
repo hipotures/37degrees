@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wooden Horse Enters Doomed Troy"
+  setting:
+    time: "Mythical era around XII century BCE, deceptive moment of false peace"
+    location: "Trojan main gates with massive defensive walls showing architectural complexity"
+    weather: "Deceptively calm day masking approaching catastrophe"
+  characters:
+    - appearance: "Trojan citizens of various ages celebrating apparent Greek withdrawal"
+      clothing: "festive garments and ceremonial dress showing relief from siege"
+      position: "crowding around massive wooden construction with mixture of celebration and unease"
+      action: "pulling gigantic wooden horse through city gates while some express doubt and others celebrate"
+  scene:
+    mainElements: "Gigantic wooden horse construction towering over city gates, massive Trojan defensive walls showing decade of siege damage, crowds of citizens celebrating end of war"
+    details: "Wooden horse crafted from massive fir beams appearing as religious offering, hidden wheels and rope systems for moving enormous weight, Trojan gates opened wide for first time in years, celebration banners and festival decorations, abandoned Greek camps visible beyond walls"
+    background: "Troy's architecture showing siege damage but still magnificent, defensive walls and towers, Mediterranean landscape beyond showing Greek ships departing"
+    atmosphere: "False security masking impending disaster, celebration built on deception, doom approaching in disguise of victory"
+  composition:
+    cameraAngle: "Extreme Dutch angle making wooden horse appear monumentally threatening and unstable"
+    focus: "Massive wooden horse dominating composition while tilted perspective suggests hidden danger"
+    depth: "Enormous wooden horse in threatening foreground, celebrating crowds in middle distance, tilted cityscape suggesting impending doom in background, no text or letters visible"

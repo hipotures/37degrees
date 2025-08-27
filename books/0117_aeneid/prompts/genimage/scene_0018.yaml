@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, supernatural revelation during Troy's destruction
+    location: Aerial view above burning Troy showing divine intervention in mortal war
+    weather: Supernatural storm mixing divine fire with earthly destruction
+  characters:
+  - appearance: divine beings revealing themselves in cosmic scale and power
+    clothing: supernatural radiance and divine majesty beyond mortal clothing
+    position: manifesting above burning city in positions of judgment and destruction
+    action: actively dismantling city walls and sacred buildings with divine power while revealing cosmic purpose
+  scene:
+    mainElements: Divine figures of immense scale manipulating destruction of Troy, city viewed from impossible aerial perspective,
+      gods revealed as architects of mortal catastrophe
+    details: Divine hands tearing down temple walls and fortifications, supernatural fire mixing with earthly flames, city's
+      sacred buildings being personally destroyed by offended deities, mortal architecture appearing fragile before divine
+      power
+    background: Mediterranean landscape stretching to horizon showing cosmic scale of divine intervention, other cities and
+      lands dwarfed by supernatural destruction, divine realm visible beyond mortal world
+    atmosphere: Cosmic justice operating beyond mortal understanding, divine wrath expressed through earthly catastrophe,
+      insignificance of human ambition before divine will
+  composition:
+    cameraAngle: Extreme high angle from impossible aerial position showing god-like perspective
+    focus: Divine figures actively destroying city while mortal conflicts appear insignificant from cosmic viewpoint
+    depth: Divine beings in supernatural foreground, burning city in middle distance appearing small, vast world and cosmic
+      realms in infinite background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Elmire's Strategic Decision - The Trap is Set"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "quiet evening with intimate candlelight creating atmosphere for private conversation"
+  characters:
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "seated facing husband with expression of determined resolve mixed with reluctant cunning"
+      action: "speaking with quiet intensity as she proposes dangerous plan to open his eyes through direct proof, fan held still in lap showing her focused concentration"
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "seated across from wife with skeptical expression gradually changing to reluctant curiosity"
+      action: "listening with growing interest despite himself as she outlines how he can witness Tartuffe's true nature with his own eyes and ears"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive rectangular oak dining table in center covered with heavy burgundy velvet tablecloth embroidered with gold threads, cloth hangs to floor on all sides creating perfect hiding space underneath"
+    details: "intimate candlelight creating conspiratorial atmosphere for dangerous planning, heavy table cloth reaching to floor providing obvious hiding place for witness, religious artifacts providing ironic backdrop to plot against false saint"
+    background: "doorways through which Tartuffe will soon enter unknowingly into carefully prepared trap, family portraits watching over desperate wife's risky stratagem"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, electric tension as intelligent woman prepares to sacrifice her reputation to save her family"
+  composition:
+    cameraAngle: "intimate two-shot emphasizing the conspiracy between husband and wife"
+    focus: "Elmire's brave determination to risk everything contrasted with Orgon's dawning willingness to see proof"
+    depth: "foreground showing dangerous alliance forming, middle ground revealing table that will conceal witness, background suggesting high stakes of upcoming confrontation"

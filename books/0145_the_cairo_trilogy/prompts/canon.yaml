@@ -1,0 +1,169 @@
+canon:
+  characters:
+    - id: "al_sayyid_ahmad"
+      name: "Al-Sayyid Ahmad Abd al-Jawad"
+      description_block: |
+        characters:
+          - appearance: "45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue eyes, large prominent nose, commanding presence that fills space"
+            clothing: "At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt fez (tarbush) with black tassel"
+            position: "Standing with authority and dignity, movements heavy and measured"
+            
+    - id: "amina"
+      name: "Amina"
+      description_block: |
+        characters:
+          - appearance: "40-year-old Egyptian woman, medium height, slender delicate build, chestnut hair hidden under brown headscarf, small dreamy eyes, elongated face with delicate features, small thin nose, distinctive black mole on cheek"
+            clothing: "Simple long domestic dress, brown headscarf covering hair completely, when outside: black enveloping cloak (milaja) and face veil"
+            position: "Moving quietly and gracefully, gestures restrained and modest"
+            
+    - id: "yasin"
+      name: "Yasin Abd al-Jawad"
+      description_block: |
+        characters:
+          - appearance: "22-year-old Egyptian man, tall strong build resembling his father, handsome face, black hair, confident bearing, physically attractive"
+            clothing: "European suit with fez when formal, sometimes more casual attire"
+            position: "Standing with self-assured posture, confident stride"
+            
+    - id: "fahmy"
+      name: "Fahmy Abd al-Jawad"  
+      description_block: |
+        characters:
+          - appearance: "20-year-old Egyptian law student, serious intelligent expression, idealistic bearing"
+            clothing: "Student's European-style suit with fez, carrying law books or pamphlets"
+            position: "Upright posture suggesting moral conviction and determination"
+            
+    - id: "kamal_child"
+      name: "Kamal Abd al-Jawad (child)"
+      description_block: |
+        characters:
+          - appearance: "8-10 year old Egyptian boy, thin reed-like build, large head with prominent forehead, small deep-set eyes, large nose, physically unattractive but intellectually curious"
+            clothing: "Traditional child's galabija"
+            position: "Energetic and lively movements, often in motion"
+            
+    - id: "kamal_young"
+      name: "Kamal Abd al-Jawad (young man)"
+      description_block: |
+        characters:
+          - appearance: "17-20 year old Egyptian student, thin build, large head with prominent forehead, small deep-set eyes, large nose, intellectual but melancholic expression"
+            clothing: "Student's European-style suit, somewhat old-fashioned"
+            position: "More reserved and contemplative posture, often lost in thought"
+            
+    - id: "kamal_adult"
+      name: "Kamal Abd al-Jawad (adult)"
+      description_block: |
+        characters:
+          - appearance: "28-37 year old Egyptian teacher and writer, thin build, large head with prominent forehead, small deep-set eyes, large nose, face showing melancholy and intellectual concentration"
+            clothing: "Conservative European-style suit, possibly with glasses"
+            position: "Thoughtful, reserved posture reflecting inner struggles"
+            
+    - id: "khadija"
+      name: "Khadija Abd al-Jawad"
+      description_block: |
+        characters:
+          - appearance: "20-year-old Egyptian woman, short and plump with strong build, large nose inherited from father, small eyes from mother, unattractive but intelligent and sharp expression"
+            clothing: "Modest domestic dresses appropriate for middle-class household"
+            position: "Assertive posture, often with sharp gestures reflecting her wit"
+            
+    - id: "aisha_young"
+      name: "Aisha Abd al-Jawad (young)"
+      description_block: |
+        characters:
+          - appearance: "16-year-old Egyptian girl, slender ethereal figure, face beautiful as moon, white complexion with rosy reflections, blue eyes inherited from father, small nose from mother, classical beauty"
+            clothing: "Light flowing dresses that family tries to make more full-figured"
+            position: "Graceful gentle movements befitting her beauty"
+            
+    - id: "aisha_tragic"
+      name: "Aisha Abd al-Jawad (after tragedy)"
+      description_block: |
+        characters:
+          - appearance: "34-year-old Egyptian woman, once beautiful now prematurely aged and worn, face marked by suffering, ethereal figure now gaunt from grief"
+            clothing: "Black mourning clothes, somber appearance"
+            position: "Withdrawn posture showing psychological devastation"
+
+  locations:
+    - id: "family_home_interior"
+      name: "Al-Jawad family home interior"
+      description_block: |
+        setting:
+          location: "Interior of traditional Cairene middle-class house on Palace Walk street in Al-Jamaliyya district, early 20th century Egypt"
+        mainElements: "Multi-story traditional Islamic house built of stone and brick, organized around small open courtyard (hosh) providing light and ventilation"
+        atmosphere: "Dark klaustrophobic interior with thick walls, whitewashed walls contrasting with dark massive wooden furniture, Persian Shiraz carpet, brass vessels and trays gleaming in half-light, oil lamps providing warm flickering light casting long shadows"
+        
+    - id: "family_home_mashrabiya"
+      name: "Mashrabiya balcony"
+      description_block: |
+        setting:
+          location: "Upper floor balcony of traditional Cairene house on Palace Walk, enclosed by intricate wooden screen"
+        mainElements: "Masterfully carved wooden lattice screen (mashrabiya) allowing observation while maintaining privacy, geometric patterns filtering sunlight"
+        atmosphere: "Filtered daylight creating moving geometric shadow patterns on floor, sense of enclosed observation point overlooking narrow street below"
+        
+    - id: "palace_walk_street" 
+      name: "Palace Walk street"
+      description_block: |
+        setting:
+          location: "Narrow medieval street in Al-Jamaliyya district, historic Fatimid Cairo, Egypt"
+        mainElements: "Dense network of narrow winding alleys forming true labyrinth, multi-story stone and brick buildings with overhanging mashrabiya balconies nearly touching across street"
+        atmosphere: "Shaded tunnel-like street with mashrabiya creating shade below, ghostly silhouettes of slender mosque minarets rising above rooftops, constant urban sounds mixing voices with donkey hooves and cart wheels on cobblestones"
+        
+    - id: "cairo_streets_general"
+      name: "Historic Cairo streets"
+      description_block: |
+        setting:
+          location: "Traditional Islamic quarter streets of Al-Jamaliyya district, medieval Cairo under British protectorate"
+        mainElements: "Winding cobblestone alleys between ancient stone buildings, small workshops and shops with open doors displaying goods, mix of traditional transport (donkey carts, horse carriages) with early modern trams in distance"
+        atmosphere: "Desert color palette of ochre, beige, and gray stone facades with bright splashes of colorful merchandise, intense mixture of spice aromas from nearby Khan el-Khalili bazaar, fresh bread, coffee with cardamom, incense, and urban dust"
+        
+    - id: "ahmad_shop"
+      name: "Al-Sayyid Ahmad's shop"
+      description_block: |
+        setting:
+          location: "Traditional Middle Eastern bazaar shop in heart of souk, near Khan el-Khalili bazaar, Cairo"
+        mainElements: "Open-fronted shop with wooden counters, large sacks and jars containing goods, brass scale for weighing, merchandise displayed outside"
+        atmosphere: "Bright natural light from street creating contrast with darker interior, warm browns and beiges with colorful spices and grains, intense mixture of spice aromas (cumin, coriander, cinnamon), sounds of bargaining and vendor calls"
+        
+    - id: "traditional_coffeehouse"
+      name: "Traditional Egyptian coffeehouse (ahwa)"
+      description_block: |
+        setting:
+          location: "Traditional male-only coffeehouse in historic Cairo district"
+        mainElements: "Small round wooden tables, simple wooden chairs, ornately decorated water pipes (shisha), walls yellowed from tobacco smoke"
+        atmosphere: "Dim smoky interior with tobacco smoke dispersing lamplight, thick air filled with sweet tobacco smoke from water pipes, sounds of loud conversations, laughter, backgammon and dominoes games"
+        
+    - id: "husayn_mosque"
+      name: "Al-Hussein Mosque area" 
+      description_block: |
+        setting:
+          location: "Historic Al-Hussein Mosque in Islamic Cairo, important pilgrimage site"
+        mainElements: "Majestic mosque facade with Islamic architectural details, crowds of worshippers and pilgrims, surrounding plaza"
+        atmosphere: "Sacred atmosphere with calls to prayer echoing, mixture of devotion and bustling religious activity"
+
+  items:
+    - id: "ahmad_walking_stick"
+      name: "Al-Sayyid Ahmad's walking stick"
+      description_block: |
+        details: "Dark polished wooden walking stick with worn brass or metal tip, creates distinctive tapping sound on stone steps announcing patriarch's return home"
+        
+    - id: "oil_lamps"
+      name: "Oil lamps"
+      description_block: |
+        details: "Traditional oil-burning lamps providing main interior lighting, creating warm flickering light that casts dancing shadows, giving atmosphere of mystery and intimacy"
+        
+    - id: "brass_vessels"
+      name: "Brass household items"
+      description_block: |
+        details: "Brass trays for serving coffee, brass vessels and kitchen utensils gleaming in lamplight, representing middle-class household prosperity"
+        
+    - id: "persian_carpet"
+      name: "Persian carpet"
+      description_block: |
+        details: "Shiraz Persian carpet with rich multicolored patterns, valuable household item showing family's comfortable financial status"
+        
+    - id: "fez_tarbush"
+      name: "Red fez (tarbush)"
+      description_block: |
+        details: "Red felt conical cap with black tassel, symbol of Ottoman cultural heritage and middle-class status, gradually disappearing from fashion after 1952 revolution"
+        
+    - id: "mashrabiya_screen"
+      name: "Mashrabiya wooden screen"
+      description_block: |
+        details: "Intricately carved wooden lattice screen allowing women to observe street life while remaining unseen, symbol of women's restricted perspective and social isolation"

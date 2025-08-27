@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1819, late November morning
+    location: Vauquer boarding house dining room, Rue Neuve-Sainte-Geneviève, Paris under Bourbon Restoration
+    weather: Cold, damp winter morning with gray light
+  characters:
+  - appearance: Slender young man with refined bearing and natural elegance. Southern French features with fair complexion,
+      blue eyes, black hair. Handsome and charming with youthful energy and determination
+    age: 21-22 years old
+    hair: Black hair, well-groomed in fashionable style
+    clothing: Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes
+      fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools
+    posture: Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive
+      or thoughtful and torn by internal conflict
+    position: Standing at threshold of dining room, surveying the scene with youthful determination
+    action: Entering room with visible energy and ambition, contrasting sharply with the apathetic residents
+  - appearance: Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale,
+      worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive
+      facial expression that shows his simple, honest nature.
+    age: 69 years old
+    hair: Originally powdered daily by barber, now thin and unkempt grey hair
+    clothing: Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts,
+      broken shoes - each piece reflecting his progressive financial decline
+    posture: Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated
+      slouch. In final scenes, spasmatic movements as he clutches golden locket to chest
+    position: Seated at far end of dining table, isolated and ignored
+    action: Eating mechanically while lost in thoughts of his daughters
+  scene:
+    mainElements: Through Rastignac's eyes, the dining room appears as both opportunity and challenge. The long table with
+      stained tablecloth stretches like a battlefield where he must prove himself. Other residents appear as obstacles or
+      stepping stones to his ambitions. The shabby furniture and peeling wallpaper represent the poverty he's determined to
+      escape.
+    details: Rastignac's vision focuses intensely on details that might serve his goals - he notices Goriot's mysterious isolation
+      with sharp curiosity, sees potential allies and enemies among residents, observes social hierarchies even in this humble
+      setting. The morning light streaming through dirty windows illuminates his path forward like a spotlight on his destiny.
+    background: Shabby boarding house interior with worn furniture and faded wallpaper, but through ambitious young eyes it
+      appears conquerable rather than depressing
+    atmosphere: Charged with possibility and determination, where others see resignation Rastignac sees opportunity. The air
+      feels electric with his youthful energy and dreams of conquest
+  composition:
+    cameraAngle: Eye level from Rastignac's perspective, looking across room with clear, determined gaze
+    focus: Central focus on Rastignac's face showing intense ambition, with Goriot's mysterious figure drawing secondary attention
+    depth: Foreground shows Rastignac's confident stance, middle ground reveals the dining table as his arena, background
+      fades as unimportant obstacles to overcome, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

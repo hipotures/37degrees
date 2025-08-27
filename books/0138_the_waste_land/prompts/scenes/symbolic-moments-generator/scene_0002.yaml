@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Compass That Points Nowhere"
+  setting:
+    time: "1922, afternoon"
+    location: "London financial district office, sparse interior with single desk and window overlooking Thames"
+    weather: "Overcast sky casting grey light through window"
+  characters:
+    - appearance: "Middle-aged office clerk, tired expression, thinning hair, pale complexion from indoor work"
+      clothing: "Standard three-piece wool suit in dark grey, white shirt with detachable collar, simple necktie"
+      position: "Standing at window looking out"
+      action: "Holding brass compass while staring at river below with expression of confusion and loss"
+  scene:
+    mainElements: "Antique brass pocket compass held in clerk's palm, its needle spinning wildly without settling on any direction, while desk calendar shows torn and scattered pages"
+    details: "The compass needle spins continuously, never finding true north, while its brass case is tarnished and dented from years of use. Scattered calendar pages on the floor show different months and years mixed together - some from 1914, others from 1922, suggesting time itself has lost meaning. Ink from the torn pages has run together, creating abstract patterns resembling maps of unknown territories."
+    background: "Thames River visible through window with industrial smokestacks releasing dark smoke into grey sky"
+    atmosphere: "Profound disorientation and loss of direction in modern urban existence, where traditional guidance systems have failed, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from side showing clerk's profile and compass in his outstretched hand"
+    focus: "The wildly spinning compass needle as symbol of lost guidance and direction"
+    depth: "Spinning compass in foreground, clerk's contemplative figure in middle ground, smoky Thames and cityscape in background"

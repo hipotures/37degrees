@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1571, evening firelight
+    location: Small square room connected to circular library in Montaigne's tower, French castle
+    weather: Cool evening requiring fireplace warmth
+  characters:
+  - appearance: Man in his 40s-50s with intelligent, contemplative eyes, high slightly receding forehead, carefully trimmed
+      beard and mustache, calm expression showing depth of thought and observer's distance
+    clothing: Simple loose robe suitable for private scholarly work, golden chain of Order of Saint Michael visible but relaxed
+      attire showing retreat from formal world
+    position: Seated at wooden writing desk beside crackling fireplace
+    action: Writing intently with goose quill pen, pausing to contemplate, occasionally gazing at mythological frescoes for
+      inspiration
+  scene:
+    mainElements: Intimate creative space where abstract thought becomes written word, warm and personal. Fireplace with crackling
+      fire, writing desk with inkwell quill pens and scattered papers
+    details: Orange firelight dances across stone walls creating moving shadows, heat from flames makes air shimmer slightly,
+      walls and ceiling completely covered with mannerist frescoes showing mythological scenes of Venus Adonis Mars, desk
+      scattered with manuscript pages showing flowing handwriting, ceramic inkwell catches firelight, goose feathers scattered
+      around workspace, burning logs crack and pop rhythmically, no text or letters visible
+    background: Mythological frescoes come alive in flickering firelight, suggesting sensual and philosophical themes that
+      inspire the writer's contemplations
+    atmosphere: Cozy intellectual warmth contrasting with cold stone tower, creative fire matching literal fire, sense of
+      ideas being born in golden light and shadow
+  composition:
+    cameraAngle: Low angle from fireplace level looking toward desk
+    focus: Writer's hands holding quill over paper, illuminated by firelight creating dramatic chiaroscuro
+    depth: Foreground shows fire flames, middle ground captures writing scene, background reveals mythological wall paintings
+      dancing in shadows, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

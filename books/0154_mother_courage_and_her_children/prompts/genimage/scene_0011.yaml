@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1630 summer, dehumanization of military service fully visible
+    location: Military training ground showing soldiers reduced to mechanical functions
+    weather: Scorching summer heat emphasizing physical brutalization
+  characters:
+  - appearance: Common soldiers drilling in perfect formation with expressionless faces
+    clothing: Identical worn military uniforms creating uniformity and loss of individuality
+    position: Arranged in precise mechanical formation moving as single unit
+    action: Performing identical mechanical movements with no individual expression or thought
+  - appearance: Drill sergeants treating soldiers as machinery requiring maintenance
+    clothing: Military uniforms with authority markings for human machine operation
+    position: Standing apart directing human machinery with commands and corrections
+    action: Shouting mechanical instructions, correcting individual deviation, maintaining human machine efficiency
+  scene:
+    mainElements: Military drilling ground with soldiers arranged like mechanical components in vast human machine
+    details: Soldiers moving in perfect synchronization without individual thought or expression, faces blank and emotionless,
+      bodies trained to respond automatically to commands, individuality completely suppressed for military efficiency
+    background: Military system designed to eliminate human individuality and create mechanical obedience
+    atmosphere: Complete dehumanization of military service, soldiers treated as interchangeable mechanical parts rather than
+      human beings
+  composition:
+    cameraAngle: High angle showing soldiers as components in vast mechanical system
+    focus: Dehumanization of military service reducing soldiers to mechanical functions
+    depth: Foreground shows individual soldiers losing identity, middle ground mechanical formation, background vast dehumanizing
+      system
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

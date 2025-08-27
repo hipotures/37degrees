@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: June 1923, late morning around 11:30 AM
+    location: Formal drawing room in Georgian terraced house, Westminster district, London
+    weather: Bright midday sunlight streaming through tall French windows
+  characters:
+  - appearance: 52-year-old woman, slender and filigranous build with delicate frame, sharp aristocratic facial features with
+      prominent hooked nose like bird's beak, very white hair from illness, small face with bright intelligent eyes, moves
+      with natural grace and elegance
+    clothing: Simple elegant day dress in light color, cloche hat and gloves for morning walk, evening dress in shimmering
+      green silk in mermaid style for party, well-dressed but not ostentatious according to modest spending habits
+    position: Seated by window with sewing, then rising in startled recognition
+    action: Mending green evening dress when interrupted, dropping needlework in shock and rising to greet unexpected visitor
+  - appearance: 53-year-old man, slightly asymmetrical face that is thinner and more weathered than in youth, restless energy
+      despite age, well-dressed but less formal than establishment figures
+    clothing: Plaid suit with soft collar suggesting colonial informality, less rigid than London conventions
+    position: Standing in doorway having entered unexpectedly
+    action: Nervous habit of playing with penknife, constantly opening and closing it
+  scene:
+    mainElements: Formal drawing room in Georgian terraced house in Westminster, high ceilings with tall French windows opening
+      to garden
+    details: Through Clarissa's shocked perception, familiar room transforms into stage for emotional drama, Peter appearing
+      like ghost from past, his weathered face telling story of decades in India, sunlight catching metallic flash of his
+      penknife creating threatening gleams, dust motes in window light becoming visible symbols of time's passage, furniture
+      seeming to lean inward as witnesses, no text or letters visible
+    background: Elegant dark wood furniture, cretonne-covered sofas and armchairs, silver vases for flowers, old engravings
+      on walls, garden visible through French windows
+    atmosphere: Controlled formal space suddenly charged with psychological tension, familiar sanctuary invaded by past, emotional
+      atmosphere thick with unspoken history and complex feelings of recognition, guilt, and buried affection
+  composition:
+    cameraAngle: From Clarissa's seated position initially, then rising to eye level as emotional dynamics shift
+    focus: Peter's weathered face and restless hands with penknife, capturing both familiarity and strangeness of his return
+    depth: Foreground shows Clarissa's abandoned sewing and scissors, middle ground captures the emotional space between them,
+      background frames domestic stability being disrupted
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

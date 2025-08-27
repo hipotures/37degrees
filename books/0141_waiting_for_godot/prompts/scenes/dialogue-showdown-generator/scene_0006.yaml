@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Body Language of Desperation - Clenched Hands"
+  setting:
+    time: "Mid-20th century, evening"
+    location: "Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Man around 50-60 years old, taller and more slender than his companion, with thinning gray hair somewhat tidily combed. Face is elongated with sharp, intellectual features and restless eyes that frequently gaze toward the horizon. Expression constantly shifts between hope, irritation, and deep melancholy."
+      clothing: "Worn dark suit and black bowler hat, dirty and torn but maintained in better condition than his companion's attire. Keeps trying to straighten his hat and clothing. Pockets stuffed with food scraps like carrots or radishes."
+      position: "Standing upright with nervous, restless posture, frequently pacing back and forth like a caged animal"
+      action: "Pacing anxiously, gesticulating broadly with his hands to emphasize arguments, constantly fiddling with his bowler hat - removing it, looking inside, dusting it off, replacing it"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "Extreme close-up on Vladimir's hands as he clenches them into tight fists, knuckles white with tension and frustration. The camera captures the physical manifestation of his internal struggle - his desperate need to make Estragon understand and remember their purpose."
+    background: "Out of focus behind the hands, the empty landscape stretches endlessly, emphasizing their isolation."
+    atmosphere: "Atmosphere saturated with silence, stagnation, and sense of vastness. Cold and exposure to elements pervades despite undefined weather. Overwhelming presence of emptiness and absence fills the space."
+  composition:
+    cameraAngle: "Extreme close-up on hands"
+    focus: "The white knuckles and tension in Vladimir's clenched fists"
+    depth: "Foreground: clenched hands in sharp detail; Background: blurred empty landscape"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rezia's foreign perspective on English social customs"
+  setting:
+    time: "June 1923, early afternoon around 1:30 PM"
+    location: "Regent's Park bench with English families and couples around"
+    weather: "Bright sunny afternoon highlighting cultural differences"
+  characters:
+    - appearance: "24-year-old beautiful Italian woman, milliner from Milan, face marked by worry for Septimus, hands often busy with work"
+      clothing: "Simple modest clothing possibly with touch of Italian style reflecting her profession and origins"
+      position: "Sitting on park bench next to Septimus, trying to engage with English social environment"
+      action: "Hands frequently in motion creating something, working on hat she tries to sew"
+    - appearance: "30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame"
+      clothing: "Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male characters, clothing reflecting his psychological isolation"
+      position: "Sitting rigidly beside Rezia, disconnected from surroundings"
+      action: "Staring blankly, occasionally speaking to invisible presences"
+  scene:
+    mainElements: "English park scene with proper families, nannies with children, elderly couples, all maintaining social distance and reserve"
+    details: "Through Rezia's Italian perspective, English park society appears cold and formal, families maintaining artificial distances unlike warm Italian gatherings, children playing quietly instead of with Mediterranean exuberance, elderly couples sitting in silence rather than animated conversation, her husband's madness making her feel doubly foreign, hat-making supplies in her lap representing her useful trade contrasting with English idleness, no text or letters visible"
+    background: "Neatly trimmed lawns and geometric flower beds representing English order, distant London architecture reminding her of exile from Milan"
+    atmosphere: "Isolation within foreign culture amplified by husband's mental illness, Rezia's Mediterranean warmth contrasting with English social reserve, psychological filter of cultural displacement making familiar park activities seem alien and unwelcoming"
+  composition:
+    cameraAngle: "From Rezia's position showing her outsider perspective on English social customs"
+    focus: "English families and social interactions appearing formal and cold through her foreign eyes"
+    depth: "Her needlework in foreground representing Italian craftsmanship, isolated couple in middle ground, distant English society in background"

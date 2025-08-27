@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Madame Pernelle's Departure - The House Divided"
+  setting:
+    time: "1660s France, mid-morning"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "clear autumn day with bright sunlight streaming through tall windows"
+  characters:
+    - appearance: "elderly woman aged seventy to eighty years, tall gaunt frame leaning heavily on walking stick, severe angular face with deeply lined skin, sharp gray eyes filled with righteous indignation, thin lips pressed into disapproving line"
+      clothing: "formal black wool dress in outdated style with high collar and long sleeves, heavy dark cloak over shoulders, severe black bonnet concealing all hair, sturdy walking stick with carved wooden handle"
+      position: "standing in center of room near main doorway, body turned toward exit but head swiveled back to address family"
+      action: "delivering final authoritative pronouncement while pointing accusingly at various family members with her walking stick"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "standing near fireplace attempting to maintain diplomatic posture"
+      action: "extending one hand in placating gesture toward Madame Pernelle while maintaining composed expression despite visible tension"
+    - appearance: "impetuous young man aged twenty, athletic build, angular face with strong jaw, thick dark hair under fashionable shorter periwig, eyes that flash with anger or indignation"
+      clothing: "fashionable burgundy velvet justaucorps worn with youthful casualness, white linen shirt partially unlaced, buff-colored leather sword belt with ornate rapier, riding boots instead of court shoes"
+      position: "positioned near window with hand resting on sword hilt"
+      action: "glaring at his grandmother with barely contained fury, jaw clenched and shoulders tensed for confrontation"
+    - appearance: "sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with bright alert eyes, practical manner, brown hair completely concealed under white linen cap"
+      clothing: "plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments"
+      position: "standing boldly in direct line with Madame Pernelle despite social hierarchy"
+      action: "crossing arms defiantly across chest and raising chin in open challenge to authority"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive rectangular oak dining table in center covered with heavy burgundy velvet tablecloth"
+    details: "morning light creates sharp shadows across polished wooden floors, family portraits in gilded frames hang on paneled walls, ornate bronze chandelier suspended from decorated ceiling, Turkish carpet with intricate patterns beneath main seating area, silver candlesticks and religious artifacts arranged on mantelpiece"
+    background: "tall windows reveal glimpses of private courtyard with formal garden, heavy curtains partially drawn to frame the light, doorways leading to other parts of house visible on opposite walls"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, palpable sense of household torn between two incompatible worldviews"
+  composition:
+    cameraAngle: "wide establishing shot showing full scope of family conflict"
+    focus: "Madame Pernelle's imperious figure commanding attention while family members react with varying degrees of submission and rebellion"
+    depth: "foreground dominated by Madame Pernelle's dramatic exit gesture, middle ground showing family arranged in defensive positions, background revealing elegant domestic setting now charged with conflict"

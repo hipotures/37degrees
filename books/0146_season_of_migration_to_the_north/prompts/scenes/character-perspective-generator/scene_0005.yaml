@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Narrator's Self-Reflection - Mirror of Identity Crisis"
+  setting:
+    time: "1960s, late night"
+    location: "Interior of narrator's childhood bedroom, simple clay-walled room with minimal furnishing"
+    weather: "Still night air, coolness before dawn"
+  characters:
+    - appearance: "Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven face showing traces of internal struggle"
+      clothing: "Simple nightclothes, djellaba loosened"
+      position: "Standing before small mirror or reflecting surface, leaning forward intently"
+      action: "Studying own reflection with growing confusion and self-doubt, touching face as if testing reality"
+  scene:
+    mainElements: "Simple bedroom with straw mat on floor, small water basin, oil lamp providing minimal light, cracked mirror or reflective metal surface"
+    details: "Through narrator's perspective of mounting identity crisis, his own reflection appears increasingly foreign - the face that felt so at home in village now seems marked by seven years of European education, features that should be familiar appear somehow changed. Shadows from flickering oil lamp create multiple versions of his face, each one questioning who he really is. Simple room that should provide comfort now feels like interrogation chamber, familiar objects seeming to ask whether he truly belongs here anymore, no text or letters visible"
+    background: "Clay walls with traditional niches, doorway leading to family courtyard, window showing night sky"
+    atmosphere: "Narrator experiencing first crack in his peaceful homecoming, internal doubt beginning to poison his sense of belonging, late night silence amplifying his psychological unease, mirror reflection becoming symbol of fractured identity"
+  composition:
+    cameraAngle: "Close-up over narrator's shoulder, showing his reflection and the doubt in his eyes"
+    focus: "Narrator's face in mirror, showing confusion and self-questioning"
+    depth: "Mirror reflection in immediate foreground, narrator's shadowed profile in middle ground, dark bedroom in background, no text or letters visible"

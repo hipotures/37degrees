@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1897 midday with clear neutral lighting
+    location: Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, documented without emotional
+      interpretation
+    weather: Clear day with even lighting showing actual urban conditions
+  characters:
+  - appearance: Mixed population of Vienna citizens representing various social classes and occupations
+    clothing: Period-appropriate clothing showing actual fashion and economic status without romanticizing
+    position: Moving through city conducting ordinary daily business
+    action: Normal urban activities - shopping, commuting, conducting business, socializing
+  scene:
+    mainElements: Ringstrasse area documented as major urban development project of 1860s-1880s, showing actual architectural
+      styles and traffic patterns typical of European capital city
+    details: Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses,
+      gas street lamps, elegant shop windows, coffee house terraces. Streets show normal wear patterns from heavy traffic.
+      Building facades display mixture of architectural styles popular during construction period. Commercial activity includes
+      typical shops, restaurants, professional offices. Pedestrian traffic moves at normal urban pace with standard social
+      interactions.
+    background: Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity
+      and emerging political anxieties, ordered facades concealing cultural nervousness
+    atmosphere: Standard European capital city environment showing typical mixture of commercial activity, residential life,
+      and institutional functions without mystical or threatening interpretation, no text or letters visible
+  composition:
+    cameraAngle: Neutral street-level perspective showing accurate proportions and normal urban activity
+    focus: Even documentation of architectural details and typical daily traffic patterns
+    depth: 'Foreground: normal pedestrian and vehicle traffic, Middle: standard commercial and residential buildings, Background:
+      typical urban horizon with institutional buildings'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

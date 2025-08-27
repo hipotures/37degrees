@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Children Learning Submission - Education as Indoctrination"
+  setting:
+    time: "1513, morning lesson"
+    location: "Educational facility where young citizens learn obedience"
+    weather: "Controlled indoor environment"
+  characters:
+    - appearance: "Children of various ages from wealthy and common families"
+      clothing: "Simple, uniform educational garments eliminating class distinctions"
+      position: "Seated in rigid rows facing instructor"
+      action: "Memorizing and reciting lessons emphasizing duty to state rather than independent thinking"
+  scene:
+    mainElements: "Classroom organized to prevent individual expression or questioning. Lessons focused on obedience rather than critical thinking. Children learning identical responses to political situations."
+    details: "Standardized texts promoting state ideology. Maps showing ruler's territories as natural and permanent. Religious and civic symbols intermingled to suggest divine approval of current system."
+    background: "Educational institution serving state power rather than student development."
+    atmosphere: "Systematic preparation of future citizens to accept authority without question. Education weaponized for political control."
+  composition:
+    cameraAngle: "Medium shot showing uniformity of educational indoctrination"
+    focus: "Children being shaped into compliant future subjects"
+    depth: "Foreground shows individual young faces, middle ground reveals uniform instruction, background displays state symbols and propaganda"

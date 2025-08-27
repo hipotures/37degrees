@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1632 winter, moment of individual doubt within mass conformity
+    location: Chaotic Swedish or Catholic army encampment with canvas tents wooden barracks supply wagons and artillery pieces
+    weather: Cold winter night emphasizing isolation of individual doubt
+  characters:
+  - appearance: Young man aged 18-21, medium build less physically imposing than his brother, honest straightforward face
+      with naive expression
+    clothing: Simple peasant clothing, later plain military uniform as regimental paymaster with distinguishing colored jacket
+      or sash
+    position: Standing calmly with composed posture or carefully handling the heavy metal regimental cashbox
+    action: Performing honest administrative duties, counting regimental funds, or attempting to hide the military cashbox
+  - appearance: Mass of soldiers surrounding individual with expressions of conformity and obedience
+    clothing: Identical military uniforms showing mass conformity and loss of individual identity
+    position: Arranged in crowd formation ignoring individual expression of doubt or conscience
+    action: Continuing military duties without questioning orders while ignoring moral doubt expressed by individual
+  scene:
+    mainElements: Heavy metal military cashbox containing regimental payroll funds, responsibility of Schweizerkas as regimental
+      paymaster, symbol of his fatal honesty when he tries to hide it rather than surrender to enemy forces
+    details: Single individual showing expression of doubt sadness or moral questioning while surrounded by mass of conforming
+      soldiers, one face displaying individual conscience while others show mechanical obedience
+    background: Military system continuing to function despite individual moral questioning, majority conformity drowning
+      out individual conscience
+    atmosphere: Isolation of individual conscience within mass conformity, moral doubt ignored by military machine, individual
+      humanity struggling against systematic dehumanization
+  composition:
+    cameraAngle: Close-up highlighting individual doubt surrounded by mass conformity
+    focus: Single individual conscience struggling against overwhelming mass conformity and military system
+    depth: Foreground shows individual moral questioning, middle ground crowd ignoring conscience, background military machine
+      continuing operation
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

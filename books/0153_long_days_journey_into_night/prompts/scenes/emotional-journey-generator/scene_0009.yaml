@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Whispered Suspicions Between Men"
+  setting:
+    time: "August 1912, early afternoon, around 1:15 PM"
+    location: "Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling raised to impressive height of over 11 feet creating illusion of spaciousness and elegance."
+    weather: "Grey, overcast afternoon with no direct sunlight"
+  characters:
+    - appearance: "65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure. Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably handsome."
+      clothing: "Worn grey ready-made sack suit with non-shining black shoes. Often wears shirt without collar with thick white neckerchief loosely tied around neck. Everything deliberately worn to limits of usefulness but not picturesquely shabby."
+      position: "Leaning toward son conspiratorially, near the bookshelf"
+      action: "Speaking in low, urgent tones while glancing nervously toward stairway"
+    - appearance: "33-year-old man about an inch taller than his father with same broad-shouldered build but appears shorter and stockier due to lack of father's bearing and poise. Hair thinning with beginning of father's type of baldness. Face still handsome despite signs of premature dissipation, resembling father but never as good-looking. Beautiful brown eyes, color between father's lighter eyes and mother's darker ones. Prominent aquiline nose that with habitual expression of cynicism gives face Mephistophelean look."
+      clothing: "Old suit not as worn as father's, with collar and tie. Typical costume of Broadway habitué attempting to maintain appearances of elegance undermined by general neglect."
+      position: "Standing close to father, bodies turned toward each other"
+      action: "Nodding grimly, confirming shared fears with bitter expression"
+  scene:
+    mainElements: "Round table in center with four chairs: three wicker armchairs and one oak rocker belonging to James. Four-bulb chandelier above table with cord to green glass reading lamp on table surface. Under walls: sofa, small wicker table, oak desk. Two distinct bookcases - smaller one with contemporary 'subversive' authors (Balzac, Zola, Nietzsche, Ibsen, Swinburne) read by sons, larger one with 'respectable sets' of classics (three Shakespeare sets, Dumas, Hugo) favored by James."
+    details: "Two men huddled in secretive conversation, creating sense of conspiracy and shared burden, afternoon shadows making their conference seem more clandestine, empty table between them and absent family member"
+    background: "Portrait of Shakespeare hangs over sons' bookshelf. Three main exits: double doors left to rarely-used front parlor, similar doors rear to dark back parlor leading to dining room, right side to front hall with entrance doors and stairs to upper floor."
+    atmosphere: "Atmosphere of secrets and shared masculine burden, growing sense of family crisis, grey afternoon light creating somber mood of conspiracy and concern, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot showing intimate conspiratorial conference"
+    focus: "Two generations of men sharing fearful knowledge"
+    depth: "Foreground father and son in secret conversation, middle ground empty family space, background stairway representing unspoken fears"

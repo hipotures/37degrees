@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fresh Bread Steam Rising at Dawn"
+  setting:
+    time: "1924 spring, early morning"
+    location: "Kitchen courtyard of distillery complex, Northeast Gaomi District"
+    weather: "Cool spring morning with gentle warming sunlight"
+  characters:
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Standing beside outdoor clay oven"
+      action: "Removing freshly baked flat bread cakes, observing rising steam"
+  scene:
+    mainElements: "Traditional Chinese kitchen area with clay oven and food preparation space within distillery complex"
+    details: "Flat bread cakes with egg and onion rolled into cylinder shape, simple food of partisans cooling on wooden boards, thick curling steam rising in visible columns from hot bread surface, vapor condensing in cool morning air, woman's face illuminated by warm steam glow, moisture droplets forming on nearby surfaces, flour dust particles dancing in steam currents, golden-brown crust crackling as it cools, visible heat waves rising from bread, no text or letters visible"
+    background: "Distillery buildings and courtyard creating domestic backdrop, morning light filtering through architecture"
+    atmosphere: "Warm domestic comfort suggested through visible steam and heat, nourishment and care made tangible through bread preparation, community sustenance visualized"
+  composition:
+    cameraAngle: "Medium shot capturing steam patterns and bread preparation"
+    focus: "Rising steam columns and warm bread surfaces"
+    depth: "Foreground shows bread and steam, middle ground includes preparing figure, background suggests domestic setting"

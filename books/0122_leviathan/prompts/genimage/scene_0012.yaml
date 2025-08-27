@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, evening shift change
+    location: Factory or workshop exit in London, workers departing after long day
+    weather: Dusk with fading light creating shadowy atmosphere
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Stream of workers leaving workshop with identical blank expressions, moving in uniform formation, their
+      faces showing no individuality or emotion, mechanical gait suggesting automated movement
+    details: Workers with expressionless faces walking in synchronized steps, wearing similar work clothing stained with identical
+      patterns, carrying identical tools or belongings. Simple clay pipes held but not lit, suggesting personal pleasures
+      suppressed during work. State emblems visible on workshop buildings.
+    background: Industrial architecture with smoking chimneys, uniform worker housing visible in distance, street lamps beginning
+      to illuminate the controlled urban environment
+    atmosphere: Spiritual deadness beneath physical organization, mechanical sounds of synchronized movement, loss of human
+      warmth in efficient labor system
+  composition:
+    cameraAngle: Eye-level shot focusing on individual faces within the crowd
+    focus: The absence of human emotion and individuality in organized labor
+    depth: Foreground shows detailed expressionless faces, middle displays the uniform crowd movement, background reveals
+      industrial control environment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1960s, evening
+    location: Village gathering area viewed from child's low perspective, traditional houses forming protective walls
+    weather: Warm evening air with gentle sounds of settling day
+  characters:
+  - appearance: Young Sudanese child around seven years old, bright curious eyes, small bare feet
+    clothing: Simple traditional child's garment, possibly oversized djellaba
+    position: Sitting on ground among adults' legs and feet
+    action: Looking up at towering adult figures with mixture of wonder and slight apprehension
+  scene:
+    mainElements: Forest of adult legs and robes from child's ground level view, oil lamps appearing like distant suns, voices
+      echoing from impossibly high above
+    details: From child's perspective, village gathering becomes magical yet intimidating realm - adult villagers appear as
+      gentle giants whose faces are distant as mountain peaks, their voices rumbling like thunder from sky. Oil lamps held
+      high create pools of golden light far overhead, casting dancing shadows that transform familiar neighbors into mysterious
+      beings. Simple mats on ground become vast carpeted landscape, water glasses seem like crystal towers, grandfather's
+      prayer beads clicking sound like magical incantation, no text or letters visible
+    background: Clay house walls appearing as fortress battlements from ground level, doorways like cave mouths, night sky
+      visible as narrow strip between giant shoulders
+    atmosphere: Child experiencing mixture of safety and awe among protective adult community, familiar village transformed
+      into wonderland of towering protectors, evening sounds amplified and made magical by low perspective
+  composition:
+    cameraAngle: Extremely low angle from child's sitting position on ground
+    focus: Upward view of adult figures appearing massive and protective against evening sky
+    depth: Child's small hands and feet in immediate foreground, towering adult robes in middle ground, high oil lamps and
+      faces in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

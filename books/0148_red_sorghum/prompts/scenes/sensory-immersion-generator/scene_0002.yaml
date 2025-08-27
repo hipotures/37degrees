@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Icy River Water Shocking Warm Bodies"
+  setting:
+    time: "1923 autumn, early evening"
+    location: "Black River banks near wooden bridge, Northeast Gaomi District during cold season"
+    weather: "Cool autumn evening with sharp temperature contrast"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Standing waist-deep in dark river water"
+      action: "Recoiling from shock of cold water against sun-warmed skin, muscles tensing"
+  scene:
+    mainElements: "Simple wooden or stone bridge crossing wide slow-flowing river with dark murky water in Northeast Gaomi District, strategic crossing point on Jiao-Ping road with muddy banks overgrown with reeds and wild vegetation"
+    details: "Steam rising from warm body meeting cold river water, goosebumps forming on exposed arms and chest, shocked expression from temperature contrast, ripples spreading outward from sudden movement, reeds bending in evening breeze, bridge casting long shadows, mud squelching between toes, no text or letters visible"
+    background: "Dense sorghum fields creating maze-like backdrop, darkening autumn sky with first evening stars"
+    atmosphere: "Sharp sensory shock of temperature extremes, body's immediate physical response to environmental change, primitive connection between human and natural elements"
+  composition:
+    cameraAngle: "Medium shot capturing body's reaction to temperature shock"
+    focus: "Contrast between warm skin and cold water, visible body tension"
+    depth: "Foreground shows figure in water, middle ground captures river surface, background reveals bridge and distant fields"

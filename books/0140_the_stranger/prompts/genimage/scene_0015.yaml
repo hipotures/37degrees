@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: Small neighborhood restaurant in European quarter of French colonial Algiers
+    weather: Hot afternoon with customers seeking shade indoors
+  characters:
+  - appearance: Middle-aged man 45-55 years, portly build with prominent belly, thick white mustache
+    clothing: White restaurant apron over simple shirt and dark trousers, sleeves rolled up
+    position: Standing behind restaurant counter or at table, wiping hands on apron
+    action: Serving food with friendly gestures, stroking mustache while talking
+  scene:
+    mainElements: Restaurant interior during busy lunch service, Céleste observing subtle tensions between different customer
+      groups while maintaining friendly service
+    details: Céleste's experienced eye noticing how European customers avoid sitting near Arab workers, unspoken social hierarchies
+      playing out over shared meals, his diplomatic navigation of colonial social tensions while serving everyone equally.
+      Kitchen aromas masking underlying social discomfort.
+    background: Mixed clientele representing different levels of colonial society, afternoon light through windows revealing
+      social dynamics invisible to participants
+    atmosphere: Working-class wisdom recognizing social undercurrents that educated people ignore, practical understanding
+      of how ordinary people navigate complex colonial relationships
+  composition:
+    cameraAngle: Medium wide shot from Céleste's position behind counter observing entire restaurant dynamics
+    focus: Subtle social tensions between different groups of customers eating in same space
+    depth: Foreground shows Céleste's observant face and serving gestures, middle ground shows mixed clientele with invisible
+      barriers, background shows restaurant interior hosting complex social dynamics, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

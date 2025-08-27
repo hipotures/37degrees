@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Medical Revolution vs. Traditional Authority"
+  setting:
+    time: "1899 spring during heated medical conference debate"
+    location: "Prestigious Viennese medical institution lecture hall during controversial presentation"
+    weather: "Bright spring day contrasting with indoor tension"
+  characters:
+    - appearance: "Mixed audience of medical professionals representing different generational and theoretical positions"
+      clothing: "Formal academic attire and medical professional dress showing institutional authority"
+      position: "Seated in lecture hall divided between progressive and conservative factions"
+      action: "Engaged in passionate debate about new psychological theories versus established medical practice"
+    - appearance: "Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual forehead, dark full beard, hair thinning on crown"
+      clothing: "Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible watch chain"
+      position: "Standing at podium presenting controversial theories to divided audience"
+      action: "Defending psychological approach against traditional medical criticism"
+  scene:
+    mainElements: "Medical community split between those who see psychological innovation as scientific breakthrough versus those who view it as dangerous departure from proven medical methods"
+    details: "Formal lecture hall with raised podium, tiered seating, medical charts and anatomical displays, formal academic atmosphere. Audience visibly divided with some leaning forward with interest, others sitting back with skeptical expressions. Same facts interpreted completely differently by opposing groups - supporters seeing revolutionary discovery, opponents seeing medical irresponsibility. Physical space reflecting intellectual division."
+    background: "Traditional academic institution representing established medical authority confronting revolutionary challenge to conventional practice"
+    atmosphere: "Intense intellectual conflict where same evidence supports opposite conclusions, scientific community experiencing fundamental disagreement about nature of medical knowledge, split reality where truth appears different to opposing groups, no text or letters visible"
+  composition:
+    cameraAngle: "Central perspective showing divided audience with contrasting reactions to same presentation"
+    focus: "Split audience reactions demonstrating how same information creates opposite interpretations"
+    depth: "Foreground: presenter offering revolutionary ideas, Middle: audience divided between acceptance and rejection, Background: institutional authority being challenged by new knowledge"

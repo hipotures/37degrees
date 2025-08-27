@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Cornered Beast - Tartuffe's Threat Revealed"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "stormy evening with dramatic candlelight creating ominous atmosphere"
+  characters:
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "standing with back to wall, cornered but defiant, all pretense of humility abandoned"
+      action: "dropping religious mask completely to reveal cold calculating predator beneath, speaking with open contempt and menace about legal ownership of house"
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "advancing on Tartuffe with murderous intent but stopped by legal reality"
+      action: "reaching toward throat of false saint but freezing as he realizes the legal trap he has walked into through his own generosity"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "standing between the two men with growing alarm at Tartuffe's revelations"
+      action: "listening in horror as Tartuffe reveals his legal ownership of house and threatens to use secret documents against them"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, scattered furniture from earlier confrontation creating chaotic battlefield"
+    details: "ominous candlelight revealing Tartuffe's true predatory nature finally unleashed, expensive furnishings that no longer belong to Orgon creating bitter irony, rolled parchment scrolls tied with red ribbon containing deed of gift visible on side table"
+    background: "doorways through which other family members gather to witness final destruction of their security, family portraits watching ancestral home being legally stolen"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, apocalyptic sense of complete destruction as legal trap closes around helpless family"
+  composition:
+    cameraAngle: "tense confrontation shot emphasizing the reversal of power dynamics"
+    focus: "Tartuffe's complete transformation into open enemy contrasted with Orgon's helpless realization of his legal powerlessness"
+    depth: "foreground showing predator victorious over prey, middle ground revealing stolen luxury, background suggesting family facing homelessness"

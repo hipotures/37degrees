@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1651, early morning patrol hours
+    location: London street corners and public spaces with discrete observation points
+    weather: Misty morning with filtered light
+  characters:
+  - appearance: Man around 25 years old, 180cm tall, muscular from military training, disciplined face with short-cropped
+      hair
+    clothing: Leather jerkin with steel breastplate and helmet, practical military attire
+    position: Standing at attention with weapon at ready, facing toward Sovereign
+    action: Holding musket or pike, gaze directed to commander, expression of trained discipline and loyalty
+  scene:
+    mainElements: Guards positioned at strategic points throughout the street, elevated watchtowers with clear sightlines,
+      official notices posted on buildings requiring citizen compliance
+    details: Armed sentries at building corners, watchtowers with guards scanning the area, official proclamations mounted
+      on posts, citizens moving carefully and quietly past observation points. Clumsy smoke-belching 17th century firearms
+      with wooden stocks held by guards. State emblems on guard uniforms and watch posts.
+    background: Tudor architecture with narrow streets creating natural surveillance corridors, church bells visible suggesting
+      time regulation, official buildings with government insignia
+    atmosphere: Subtle tension and awareness of constant observation, muted sounds of cautious movement, sense of security
+      through control
+  composition:
+    cameraAngle: High angle showing the network of surveillance points
+    focus: The systematic placement of guards and observation posts creating comprehensive coverage
+    depth: Foreground shows citizens under observation, middle reveals guard positions, background displays the controlled
+      urban environment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

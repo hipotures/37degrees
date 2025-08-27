@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chemical Smoke Tendrils Before Agricultural Fire"
+  setting:
+    time: "1962 autumn, late afternoon"
+    location: "Agricultural field where chemical residue burning creates toxic smoke"
+    weather: "Still autumn air allowing smoke to accumulate and linger"
+  characters:
+    - appearance: "Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting dedication to scientific truth over corporate interests"
+      clothing: "White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating scientific profession"
+      position: "Standing at safe distance upwind from chemical smoke, documenting environmental hazard"
+      action: "Observing and documenting toxic smoke patterns while protecting respiratory health"
+  scene:
+    mainElements: "Thin tendrils of chemical-tainted smoke rising from agricultural debris before full combustion begins, researcher maintaining safe distance while documenting environmental contamination, early warning signs of toxic fire hazard"
+    details: "Delicate smoke tendrils beginning to rise from pile of chemical-contaminated plant material, unusual blue-gray coloration suggesting chemical combustion rather than natural burning, researcher covering nose and mouth while taking scientific measurements, wind patterns carrying smoke away from populated areas, early stages of controlled burn revealing chemical residue contamination, monitoring equipment recording air quality changes"
+    background: "Rural agricultural landscape with harvested fields, scattered farm buildings, autumn colors in distant trees, clear sky allowing smoke dispersal patterns to be visible"
+    atmosphere: "Environmental warning system in action, scientific documentation of agricultural chemical hazards, tension between farm productivity and environmental safety, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing smoke patterns and researcher documentation"
+    focus: "Early warning smoke indicating chemical contamination hazard"
+    depth: "Foreground emphasizes smoke details, middle ground shows researcher safety measures, background reveals agricultural landscape context"

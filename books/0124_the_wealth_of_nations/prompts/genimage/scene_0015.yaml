@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1776, evening end of work day
+    location: Busy urban marketplace like Covent Garden surrounded by Georgian brick buildings
+    weather: Gray twilight with fading light
+  characters:
+  - appearance: 25-year-old male laborer, lean but muscular from physical work, weathered hands with calluses, tired expression
+      in brown eyes, short unkempt dark hair
+    clothing: coarse unbleached linen shirt, patched wool breeches, thick woolen stockings, heavy leather shoes, thick leather
+      apron stained with metal dust
+    position: standing alone in crowded marketplace, surrounded by people but emotionally isolated
+    action: looking around with expression of doubt and sadness while crowd moves past ignoring him completely
+  scene:
+    mainElements: Wooden stalls and tables displaying goods, horse-drawn carts and wagons, crowds of people from all social
+      classes, variety of merchandise from food to manufactured goods
+    details: Single worker stands motionless in center of bustling market activity, his face showing sadness and confusion
+      while crowd flows around him without acknowledgment. Market continues its busy commerce while worker appears disconnected
+      and invisible despite being surrounded by people. His expression suggests questioning the system he serves
+    background: Lively commercial bustle with vendors calling wares, haggling voices, mixture of urban smells from food, animals,
+      and human activity
+    atmosphere: Profound loneliness despite crowded surroundings, individual questioning the system while society ignores
+      his concerns, emotional isolation within commercial activity
+  composition:
+    cameraAngle: Medium close-up isolating individual worker within crowd movement
+    focus: Worker's expression of doubt and sadness while surrounded by indifferent crowd
+    depth: Worker's emotional state prominent in foreground, crowd activity in middle ground, market commerce continuing in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

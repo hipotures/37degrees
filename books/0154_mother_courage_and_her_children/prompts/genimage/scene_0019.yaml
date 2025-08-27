@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1634 spring, individual resistance consciousness emerging
+    location: Public military area where individual defiance must remain hidden
+    weather: Spring morning suggesting renewal of resistance spirit
+  characters:
+  - appearance: Mute young woman aged 16-28, disfiguring scar above eye, expressive eyes and gestures compensating for inability
+      to speak
+    clothing: Simplest most modest garments in the family, plain dark dress, work apron, headscarf, occasionally trying on
+      Yvette's flashy red boots
+    position: Often positioned near the wagon or children, communicating through gestures and facial expressions
+    action: Caring for children, performing domestic tasks, showing defiant expression toward authority
+  - appearance: Military guard or authority figure representing oppressive system
+    clothing: Military uniform with authority markings representing systematic oppression
+    position: Standing in position of authority attempting to maintain control through intimidation
+    action: Exercising authority over civilian population, attempting to suppress individual resistance through intimidation
+  scene:
+    mainElements: Moment of individual defiance expressed through facial expression and body language despite extreme danger
+    details: Single individual showing hateful or defiant expression directed at military authority, brief moment of resistance
+      spirit breaking through fear and oppression, dangerous act of individual consciousness
+    background: Military control system continuing to operate while individual resistance consciousness emerges
+    atmosphere: Individual human dignity asserting itself despite systematic oppression, spark of resistance spirit emerging
+      from dehumanizing conditions
+  composition:
+    cameraAngle: Close-up on individual face showing defiant expression despite danger
+    focus: Individual resistance consciousness emerging despite systematic oppression and extreme danger
+    depth: Foreground shows defiant individual, middle ground oppressive authority, background systematic control continuing
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

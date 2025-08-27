@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bitter Medicine - Healing's Harsh Truth"
+  setting:
+    time: "1910, morning in village healer's chamber"
+    location: "Traditional medicine preparation room, rural Bengal, British Colonial India"
+    weather: "Dim interior with filtered morning light"
+  characters:
+    - appearance: "Traditional village healer, elderly woman with knowledge of herbal medicines"
+      clothing: "Simple cotton sari with medicinal herb stains on fabric"
+      position: "Grinding bitter herbs with mortar and pestle"
+      action: "Preparing dark, bitter medicinal paste while steam rises from boiling herbs"
+    - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+      clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+      position: "Seated waiting to receive bitter herbal medicine"
+      action: "Accepting small clay cup containing dark, bitter liquid while facial expression shows anticipation of harsh taste"
+  scene:
+    mainElements: "Traditional medicine preparation showing dark, bitter herbal liquids and pastes that suggest harsh taste through color intensity and protagonist's reluctant but accepting expression"
+    details: "Dark herbal medicine in small clay cup shows almost black color intensity suggesting concentrated bitterness while surface tension creates slight meniscus that catches light revealing liquid's dense consistency. Steam rises from boiling medicinal herbs creating visible aromatic particles that suggest harsh, astringent flavors. Protagonist's facial expression shows willing acceptance mixed with anticipation of bitter taste - slightly pursed lips, determined but gentle expression acknowledging healing's sometimes harsh nature. Medicine bottles contain various colored liquids from deep brown to dark green, each color suggesting different levels of taste intensity. Grinding process has created fine herb particles floating in liquid creating texture that implies gritty, bitter mouth sensation. Healer's stained fingers show long contact with strong medicinal substances. Mortar and pestle shows residue stains from repeated bitter herb processing. No text or letters visible on medicine containers."
+    background: "Traditional healing chamber with dried herbs and medicine bottles creating repository of concentrated bitter healing wisdom"
+    atmosphere: "Sacred healing moment where medicine's bitter truth becomes visible through dark colors and willing acceptance of harsh but necessary taste"
+  composition:
+    cameraAngle: "Close-up on clay cup containing dark medicine with protagonist's accepting but apprehensive expression"
+    focus: "Dark, bitter liquid and facial expressions that visualize anticipated harsh medicinal taste"
+    depth: "Foreground: detailed bitter medicine in clay cup. Middle: protagonist accepting healing necessity. Background: medicinal herbs and preparation tools"

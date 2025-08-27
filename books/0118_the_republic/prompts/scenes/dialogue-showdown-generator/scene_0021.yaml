@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Eyes of the Cave - Prisoner's First Glimpse"
+  setting:
+    time: "timeless allegorical realm"
+    location: "vast underground chamber serving as metaphor for ignorance and illusion"
+    weather: "still underground air"
+  characters:
+    - appearance: "human figure with pale skin from underground confinement, neck strained from forced position"
+      clothing: "simple worn garments suitable for imprisonment, chains around neck and legs"
+      position: "immobilized facing wall, head unable to turn"
+      action: "eyes wide with shock and disbelief as reality of shadows is questioned for first time"
+    - appearance: "human figure with pale skin from underground confinement, eyes squinting against bright light, expression of amazement and confusion"
+      clothing: "simple worn garments suitable for imprisonment but chains removed, clothing disheveled from struggle"
+      position: "partially freed, able to turn head toward fire"
+      action: "squinting painfully at flame while struggling to understand that shadows are mere reflections"
+  scene:
+    mainElements: "fire burning on elevated platform behind prisoners, wall screen where shadows are cast, chains securing prisoners in fixed positions, pathway for shadow-casters"
+    details: "Flickering firelight revealing carved puppet figures carried by unseen manipulators, prisoner's eyes watering and straining against unaccustomed brightness, chains making metallic sounds during struggle"
+    background: "other prisoners remaining immobilized and unaware of liberation happening beside them"
+    atmosphere: "dim smoky lighting with flickering firelight, echo of voices, oppressive confinement, mysterious shapes and movement"
+  composition:
+    cameraAngle: "extreme close-up on eyes experiencing first moment of painful enlightenment"
+    focus: "transition from shadow-watching to recognition of fire as source of illumination"
+    depth: "strained eyes in sharp focus foreground, revealing fire in middle ground, ignorant prisoners in background"

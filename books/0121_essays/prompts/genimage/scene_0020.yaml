@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1571-1592, progression across decades
+    location: Small square room connected to circular library in Montaigne's tower, French castle
+    weather: Changing light patterns showing passage of seasons and years
+  characters:
+  - appearance: Single figure aging from 38 to 59 years across time, hair graying, face gaining lines of experience
+    clothing: Clothing styles shifting subtly across decades, fabrics wearing and being replaced, formal attire gradually
+      simplified
+    position: Same writing desk maintained across decades, posture gradually changing with age
+    action: Writing process evolving from tentative early attempts to confident mature expression, revising earlier work
+  scene:
+    mainElements: Single space showing accumulated changes across two decades of intellectual development
+    details: Manuscript pages accumulating in stacks showing progression from sparse early essays to voluminous later additions,
+      ink stains and wear patterns developing on desk surface, fireplace stones darkening from years of use, wall frescoes
+      slowly fading with age and smoke exposure, book collection expanding gradually, furniture showing accumulated wear,
+      seasonal light changes revealing rhythm of decades, no text or letters visible
+    background: Tower room maintaining structural consistency while showing gradual effects of time and weather
+    atmosphere: Patient accumulation of intellectual work across decades, showing how philosophical insight develops through
+      sustained effort rather than sudden inspiration
+  composition:
+    cameraAngle: Fixed position showing same space across time, revealing gradual changes through temporal layering
+    focus: Continuity and change in intellectual development, emphasizing gradual nature of wisdom acquisition
+    depth: Foreground shows accumulated manuscripts, middle ground captures aging philosopher, background reveals consistent
+      but weathering architecture, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

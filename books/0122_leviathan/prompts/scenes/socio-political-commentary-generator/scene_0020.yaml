@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "State Violence - Public Humiliation and Control"
+  setting:
+    time: "1651, midday public demonstration"
+    location: "Public square in London designed for state demonstrations of power"
+    weather: "Harsh bright sunlight emphasizing public spectacle"
+  characters:
+    - appearance: "Man around 25 years old, 180cm tall, muscular from military training, disciplined face with short-cropped hair"
+      clothing: "Leather jerkin with steel breastplate and helmet, practical military attire"
+      position: "Standing at attention with weapon at ready, facing toward Sovereign"
+      action: "Holding musket or pike, gaze directed to commander, expression of trained discipline and loyalty"
+    - appearance: "Man around 35 years old, 175cm tall, lean and sinewy build from deprivation but still strong, weathered face with sharp cheekbones and prominent forehead, disheveled brown shoulder-length hair, rough untrimmed beard"
+      clothing: "Worn leather jerkin over coarse linen shirt, wool breeches patched and faded, damaged leather boots, all in earth tones - browns, grays, muted greens for survival camouflage"
+      position: "Crouched defensively or moving cautiously, constantly alert and ready to fight or flee"
+      action: "Eyes constantly scanning surroundings, hand on crude knife, body language of perpetual mistrust and fear"
+  scene:
+    mainElements: "Public arrest or punishment being carried out by state guards, citizen being forcibly restrained, crowd of onlookers forced to witness, demonstration of state power over individual resistance"
+    details: "Guards in full military gear restraining individual, crowd maintaining frightened silence, official reading charges or proclamation, evidence of systematic intimidation. Clumsy smoke-belching firearms prominently displayed. State symbols visible on guard uniforms and official documents."
+    background: "Public square designed for civic gatherings, official platform for announcements, architecture emphasizing state authority over individual rights"
+    atmosphere: "Systematic intimidation through public demonstration, sounds of official proceedings, collective fear disguised as civic order"
+  composition:
+    cameraAngle: "Medium shot showing both state violence and citizen witness"
+    focus: "The use of public violence as tool of political control"
+    depth: "Foreground shows state enforcement action, middle displays citizen response, background reveals architecture of control"

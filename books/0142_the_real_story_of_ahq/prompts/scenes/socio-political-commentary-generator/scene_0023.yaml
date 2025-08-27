@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Society as Panopticon"
+  setting:
+    time: "1911, morning"
+    location: "View from watchtower overlooking entire Weizhuang village layout"
+    weather: "Clear morning light revealing complete village surveillance network"
+  characters:
+    - appearance: "Government observer in official uniform"
+      clothing: "Dark official robes with surveillance insignia"
+      position: "Standing in elevated watchtower with telescope and recording materials"
+      action: "Systematically observing and recording all village activities, making notes in official ledger"
+  scene:
+    mainElements: "Elevated circular tower providing complete view of village below. All streets, courtyards, and gathering places visible from central observation point. Village layout designed to eliminate private spaces"
+    details: "Telescope and observation equipment, detailed maps marking all buildings and residents, recording books tracking daily activities of villagers. No corner of village hidden from view"
+    background: "Complete village spread below showing geometric street layout designed for surveillance. Every building positioned for maximum visibility, no hidden areas or private spaces"
+    atmosphere: "Perfect surveillance state where privacy impossible and all behavior monitored. Architecture itself becomes tool of control. Villagers live knowing they are always watched, creating internalized self-censorship"
+  composition:
+    cameraAngle: "High angle from watchtower showing both the observer and the observed village below"
+    focus: "The all-seeing observer as embodiment of surveillance state, with complete village visible as object of control"
+    depth: "Foreground shows the surveillance apparatus and observer, middle ground captures the geometric precision of the controlled village, background reveals the complete absence of private space or escape"

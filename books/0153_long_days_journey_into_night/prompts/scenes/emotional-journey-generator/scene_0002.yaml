@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Family Breakfast Remnants"
+  setting:
+    time: "August 1912, morning, around 8:45 AM"
+    location: "Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling raised to impressive height of over 11 feet creating illusion of spaciousness and elegance."
+    weather: "Bright sunlight streaming through large windows"
+  characters:
+    - appearance: "65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure. Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably handsome."
+      clothing: "Worn grey ready-made sack suit with non-shining black shoes. Often wears shirt without collar with thick white neckerchief loosely tied around neck. Everything deliberately worn to limits of usefulness but not picturesquely shabby."
+      position: "Seated in oak rocker at round table, relaxed posture"
+      action: "Finishing coffee, looking toward his wife with affection"
+    - appearance: "54-year-old woman of medium height with young, graceful figure that is somewhat plump but shows no signs of middle-aged spread. Thick, pure white hair arranged with pedantic care. Distinctly Irish-type face that must have been extremely pretty and still is striking. Thin, pale face with clearly-marked bone structure contrasting with healthy figure. Long straight nose, wide mouth with full, sensitive lips. Uses no rouge or makeup. Very large and beautiful dark brown eyes that appear black, with black eyebrows and long, curled lashes."
+      clothing: "Dressed simply but with sense of what becomes her. Long ankle-length dress with raised waistline typical of 1912 fashion, in muted colors like dove grey or powder blue that emphasize her delicacy and withdrawal."
+      position: "Standing near table, hands resting on back of wicker chair"
+      action: "Collecting breakfast dishes, moving with graceful efficiency"
+  scene:
+    mainElements: "Round table in center with four chairs: three wicker armchairs and one oak rocker belonging to James. Four-bulb chandelier above table with cord to green glass reading lamp on table surface. Under walls: sofa, small wicker table, oak desk. Two distinct bookcases - smaller one with contemporary 'subversive' authors (Balzac, Zola, Nietzsche, Ibsen, Swinburne) read by sons, larger one with 'respectable sets' of classics (three Shakespeare sets, Dumas, Hugo) favored by James."
+    details: "Breakfast remnants on table - coffee cups, plates with crumbs, morning newspaper folded neatly, green glass-shaded reading lamp standing on central table, connected by cord to chandelier above. Creates intimate but claustrophobic circle of light where most important confrontations occur. Thick green glass shade typical of period, providing focused illumination. Fresh flowers in simple vase, suggesting domestic harmony and normalcy"
+    background: "Portrait of Shakespeare hangs over sons' bookshelf. Three main exits: double doors left to rarely-used front parlor, similar doors rear to dark back parlor leading to dining room, right side to front hall with entrance doors and stairs to upper floor."
+    atmosphere: "Warm, comfortable domestic scene with golden morning light, sense of family contentment and routine pleasures, no tension yet visible, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from beside bookshelf showing intimate family space"
+    focus: "Couple at breakfast table in harmonious morning ritual"
+    depth: "Foreground table and chairs, middle ground bookcases and furniture, background doorways leading to other rooms"

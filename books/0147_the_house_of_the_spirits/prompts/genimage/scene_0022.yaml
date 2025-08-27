@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1930-1973, daily opening and closing rituals spanning four decades
+    location: Big House main entrance showing family's relationship with outside world
+    weather: morning welcoming light transitioning to evening protective closure
+  characters:
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: welcoming guests and spiritual visitors at threshold during Clara's era
+    action: opening doors wide to receive family, friends, spirits, and strangers with equal hospitality
+  - appearance: man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face
+      deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom
+    clothing: elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline
+    position: standing at heavily barred entrance during dictatorship period
+    action: securing multiple locks and checking windows during nightly curfew enforcement
+  scene:
+    mainElements: house entrance transformation from welcoming threshold to fortress barrier - Clara's era shows doors open
+      wide with constant stream of visitors, later period reveals barricaded entrance with security measures against political
+      violence, daily rhythm changing from hospitality to survival
+    details: entrance evolution reflecting political climate - simple wooden doors replaced by reinforced barriers, welcome
+      mats removed for security reasons, flower arrangements at threshold replaced by surveillance equipment, visitors changing
+      from social guests to dangerous political contacts, no text or letters visible
+    background: street view showing changing political atmosphere - peaceful neighborhood becoming site of political demonstrations
+      then military patrols, house windows evolving from open and bright to shuttered and dark
+    atmosphere: daily rhythms reflecting family's relationship with outside world, opening and closing patterns showing political
+      transformation from social engagement to fearful isolation, house breathing with political seasons
+  composition:
+    cameraAngle: threshold perspective showing entrance evolution across political periods
+    focus: central emphasis on house as barometer of political climate through daily rituals
+    depth: foreground shows detailed entrance security changes, middle ground captures figures across decades, background
+      reveals changing street politics
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

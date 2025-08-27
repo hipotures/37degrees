@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fresh Sorghum Grain Overflowing Baskets"
+  setting:
+    time: "1924 autumn, harvest time"
+    location: "Threshing ground at distillery complex, Northeast Gaomi District"
+    weather: "Clear autumn day perfect for grain processing"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Standing beside overflowing grain baskets"
+      action: "Running hands through fresh sorghum grain, lifting handfuls above basket"
+  scene:
+    mainElements: "Harvest processing area with abundant grain collection, agricultural abundance at peak season"
+    details: "Ripe sorghum grain flowing through fingers like liquid, individual kernels catching sunlight like precious gems, grain cascading back into woven baskets with gentle rainfall sound, hands cupped to hold maximum grain volume, kernels spilling over basket edges onto ground, rich reddish-brown grain color suggesting ripeness and nutrition, grain dust creating slight haze in air, abundance suggested through overflowing containers, tactile pleasure visible in handling gesture, no text or letters visible"
+    background: "Open-air threshing ground with traditional processing equipment, distillery buildings providing industrial backdrop"
+    atmosphere: "Harvest abundance and agricultural success made tangible, connection between human labor and natural bounty, satisfaction of successful growing season"
+  composition:
+    cameraAngle: "Medium shot capturing grain handling and abundance"
+    focus: "Flowing grain streams and overflowing baskets"
+    depth: "Foreground shows grain detail, middle ground includes harvesting figure, background reveals processing area"

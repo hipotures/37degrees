@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Escape Through Troy's Burning Doorway"
+  setting:
+    time: "Mythical era around XII century BCE, desperate escape during city's destruction"
+    location: "Residential doorway in Troy with family home burning behind fleeing refugees"
+    weather: "Clear night transformed by massive fires consuming the city"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "hastily donned armor over civilian tunic, helmet secured for escape"
+      position: "carrying elderly father on shoulders while leading child through doorframe"
+      action: "moving through household doorway for final time while flames destroy ancestral home"
+    - appearance: "elderly, frail patriarch with divine authority"
+      clothing: "simple robes of Trojan elder clutching sacred household gods"
+      position: "being carried on son's shoulders while protecting divine relics"
+      action: "holding sacred Penates while looking back at burning civilization"
+  scene:
+    mainElements: "Stone doorframe of Trojan house framing escape scene, burning interior visible beyond threshold, architectural details showing domestic life about to be lost forever"
+    details: "Doorframe carved with household protective symbols, flames consuming furniture and family possessions behind figures, sacred Penates figurines protected in elderly arms, abandoned household treasures, smoke pouring through opening"
+    background: "Troy's residential district burning throughout, other families fleeing in similar circumstances, citadel and major buildings collapsing with massive flames and smoke"
+    atmosphere: "Sacred threshold between past and future, domestic security destroyed by war, family bonds surviving civilizational collapse"
+  composition:
+    cameraAngle: "Natural frame using doorway to contain escaping family group"
+    focus: "Multi-generational family group framed by doorway representing transition from past to uncertain future"
+    depth: "Family figures in doorframe in foreground, burning home interior in middle ground, blazing cityscape beyond in background frame, no text or letters visible"

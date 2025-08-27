@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Colleagues Through Revolutionary's Eyes"
+  setting:
+    time: "1897 evening at Viennese medical society gathering"
+    location: "Traditional Viennese coffeehouse interior, late 19th century Habsburg Vienna, intellectual gathering place"
+    weather: "Cold winter evening outside"
+  characters:
+    - appearance: "Older man around 53 years old, patriarchal appearance with graying full beard and hair, gentler features than Freud, emanates calm authority and established position"
+      clothing: "Conservative dark suit typical of Viennese medical professor, white shirt, formal vest with watch chain"
+      position: "Standing with hands clasped behind back or seated in consultation"
+      action: "Speaking with measured authority or examining patient documents"
+    - appearance: "Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual forehead, dark full beard, hair thinning on crown"
+      clothing: "Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible watch chain"
+      position: "Seated at marble table, slightly apart from main group"
+      action: "Observing colleagues with mixture of frustration and intellectual superiority"
+  scene:
+    mainElements: "Medical colleagues viewed through Freud's perspective of revolutionary isolation, their conservative attitudes appearing as willful blindness to psychological truth he has discovered"
+    details: "High ornate ceilings, marble-topped tables, red plush banquettes, enormous mirrors, newspaper racks, waiters in black tailcoats, clouds of tobacco smoke. Breuer appears as father figure who has abandoned him, glowing with lost mentorship but shadowed by conservative limitations. Other colleagues seem frozen in outdated thinking, their faces appearing closed to new ideas, their conversations echoing with empty conventional wisdom."
+    background: "Intellectual ferment and animated discussion, clinking of coffee cups and newspaper rustling, warm gaslight creating intimate pools of conversation among scholars and artists"
+    atmosphere: "Sense of being lone visionary among the intellectually timid, colleagues appearing as obstacles to scientific progress rather than allies, revolutionary truth-teller surrounded by comfortable conformists who prefer ignorance to disturbing discoveries, no text or letters visible"
+  composition:
+    cameraAngle: "Freud's isolated perspective from corner table looking across coffeehouse"
+    focus: "Breuer's figure highlighted as symbol of lost scientific partnership and conservative resistance"
+    depth: "Foreground: Freud's solitary coffee cup and scattered papers, Middle: animated colleagues in comfortable discussion groups, Background: mirror reflections multiplying conservative faces into endless repetition"

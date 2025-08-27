@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1580, afternoon inventory
+    location: Top floor circular room of Montaigne's tower in French countryside castle
+    weather: Neutral daylight providing accurate visibility
+  characters: No characters present in this scene
+  scene:
+    mainElements: Precise architectural documentation of circular library showing exact dimensions and contents
+    details: Stone walls measure approximately 20 feet in diameter with 8-foot ceiling height, 1,047 volumes arranged systematically
+      on shelves reaching from floor to ceiling, 57 inscriptions carved precisely into oak ceiling beams using specific Latin
+      and Greek letterforms, wooden floor shows wear patterns from decades of scholarly pacing, single writing desk positioned
+      near east window for optimal morning light, fireplace opening measures 3 feet wide with stone hearth extending 2 feet
+      into room, dust accumulation visible on less-frequently accessed upper shelves, no text or letters visible
+    background: Medieval stone construction showing standard 14th-century masonry techniques, walls 3 feet thick for structural
+      integrity
+    atmosphere: Neutral academic environment organized for scholarly efficiency, showing accumulated wear from decades of
+      intellectual work without emotional interpretation
+  composition:
+    cameraAngle: Architectural survey angle providing comprehensive documentation of space and contents
+    focus: Systematic organization of library showing practical arrangements for scholarly work
+    depth: Foreground shows desk and reading area, middle ground captures book organization, background reveals structural
+      elements, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

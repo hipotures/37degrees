@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Faces in Shadow - Conflict Without Resolution"
+  setting:
+    time: "1949, night"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "dark night outside windows, single harsh light inside"
+  characters:
+    - appearance: "63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation"
+      clothing: "worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing signs of constant travel, suit wrinkled from carrying heavy sample cases"
+      position: "standing near wall, partially in shadow"
+      action: "turning face away from family, one hand pressed against wall for support, avoiding confrontation"
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "standing in center of room, illuminated by single overhead light"
+      action: "hands raised in gesture of frustrated explanation, face tense with anger and disappointment"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, harsh single light creating dramatic shadows"
+    details: "short length of rubber tubing with metal fitting designed to connect to gas appliance, found hidden in basement, stark physical evidence of desperation and final option - lying on table between the two men as evidence of family crisis"
+    background: "kitchen extending into darkness, stairs leading to upper floor where other family members may be listening to confrontation, shadows dominating domestic space"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, family confrontation reaching point of no return"
+  composition:
+    cameraAngle: "medium shot with dramatic lighting, emphasizing contrast between light and shadow"
+    focus: "two figures in emotional conflict, one illuminated and confrontational, other retreating into shadows"
+    depth: "foreground shows evidence of family crisis on table, middle ground captures two men in heated confrontation, background reveals domestic space transformed into arena for family breakdown"

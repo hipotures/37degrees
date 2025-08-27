@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, late night
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Warm humid night air
+  characters:
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Brightly colored silk shirts for bowling and poker (green-scarlet, purple, red-white checkered)
+    position: Seated at poker table in dominant position, commanding the game
+    action: Dealing cards with aggressive confidence, drinking heavily, asserting masculine dominance
+  - appearance: Man 30-35 years old, tall and solidly built but moves awkwardly like dancing bear. More sensitive expression
+      than other men, often shy and gentle
+    clothing: Brightly colored shirt for poker night, less confident in posture than others
+    position: Seated at poker table, slightly separate from others in group dynamic
+    action: Playing cards but showing more restraint and gentleness than other men
+  scene:
+    mainElements: Kitchen table covered with yellow linoleum, used for poker games. Surrounded by chairs for Stanley, Mitch,
+      Steve, and Pablo. Cards, poker chips, cash, and whiskey bottles scattered across surface
+    details: Harsh electric light casting sharp shadows over masculine gathering. Cigarette smoke filling air. Multiple whiskey
+      bottles and beer scattered around. Playing cards and poker chips creating chaotic tableau. Sweat-stained shirts and
+      loosened collars. Raw masculine energy dominating space. No text or letters visible
+    background: Single harsh bulb illuminating scene with green glass shade casting eerie glow, sounds of neighborhood nightlife
+      filtering through windows
+    atmosphere: Primitive tribal gathering with drinking, gambling, and male bonding. Testosterone-heavy environment excluding
+      feminine influence. Growing rowdiness and potential for violence
+  composition:
+    cameraAngle: Wide shot showing full masculine gathering and territorial dominance
+    focus: Poker table as center of male tribal activity
+    depth: 'Foreground: poker table with cards and money; middle ground: seated men in colorful shirts; background: harsh
+      lighting emphasizing raw environment'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

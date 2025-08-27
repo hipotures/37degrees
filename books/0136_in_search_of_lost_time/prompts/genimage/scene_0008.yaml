@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: October soirée warmth transitioning to February evening chill
+    location: Nouveau riche salon in Verdurin residence, bourgeois district Paris
+    weather: Mild autumn evening becoming harsh winter night with frost patterns on windows
+  characters:
+  - appearance: 'Madame Sidonie Verdurin: energetic middle-aged woman with theatrical gestures, showing seasonal mood change'
+    clothing: 'Autumn: rich burgundy velvet gown with excessive jewelry, winter: heavier dark wool dress with fur stole for
+      warmth'
+    position: Same throne-like chair by fireplace but posture changes from animated hostess to solitary brooding
+    action: 'Autumn: gesticulating wildly during famous ''crying with laughter'' episode, winter: staring pensively into dying
+      fire coals'
+  scene:
+    mainElements: Pretentious salon showing seasonal mood transformation. Heavy velvet curtains unchanged but fireplace shifts
+      from decorative autumn arrangement to necessary winter blaze. Guest chairs arranged but empty.
+    details: 'Autumn: fresh chrysanthemums in Chinese porcelain vases, wine glasses recently used, piano showing sheet music
+      scattered from evening''s entertainment. Winter: dried flower arrangements, dusty stemware, piano closed with accumulated
+      letters.'
+    background: Windows showing autumn garden with golden leaves becoming winter view of bare branches against gray sky. Street
+      sounds diminishing from autumn's social activity to winter's muffled quiet.
+    atmosphere: Social pretension's vulnerability to seasonal isolation where artificial artistic atmosphere cannot sustain
+      winter's natural solitude. Nouveau riche enthusiasm dampened by temporal reality, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from salon entrance showing Madame Verdurin across seasonal moods
+    focus: Fireplace as central element showing seasonal necessity versus decorative warmth
+    depth: Foreground shows furniture arrangement changes, middle ground captures hostess transformation, background reveals
+      window view seasonal shift
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

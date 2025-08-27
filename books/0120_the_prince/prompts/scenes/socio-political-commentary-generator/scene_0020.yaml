@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Public Execution in Senigallia - Systematic State Violence"
+  setting:
+    time: "Winter 1502, cold morning"
+    location: "Main square of fortress city Senigallia with Rocca Roveresca fortress dominating background"
+    weather: "Cold, misty winter morning"
+  characters:
+    - appearance: "27 year old young man, physically strong. Face expressing arrogance and cruelty. Bold, impudent gaze of someone who gained power through brutality."
+      clothing: "Ostentatious, richly decorated armor more flashy than old aristocracy would wear, designed to manifest newly acquired wealth and status."
+      position: "Bound and helpless, about to be executed"
+      action: "Facing death as consequence of political miscalculation"
+    - appearance: "Executioner and guards carrying out state violence"
+      clothing: "Functional military gear for conducting executions"
+      position: "Surrounding condemned prisoner"
+      action: "Demonstrating state's monopoly on legitimate violence"
+  scene:
+    mainElements: "Thick walls of brick or stone with narrow arrow slits and battlements. Surrounded by deep moat. Sparse interior furnishings with simple wooden tables, stools, soldiers' bunks. Weapons everywhere: pikes leaning against walls, arquebuses, helmets. Central parade ground (piazza d'armi)."
+    details: "Simple, brutal murder instrument used in Senigallia consisting of rope noose and iron rod. Symbol of ruthless effectiveness and calculated elimination of enemies without honor or ceremony."
+    background: "War-marked landscape where violence and pragmatism dominate. Air filled with smoke from campfires, moist earth, horses. Silence broken by marching soldiers, creaking leather harnesses, distant hammer strikes in forge."
+    atmosphere: "Demonstration that state power ultimately rests on capacity for violence. Public execution as warning to others who might challenge authority."
+  composition:
+    cameraAngle: "Wide shot showing state violence as public spectacle"
+    focus: "Oliverotto da Fermo's execution demonstrating consequences of political miscalculation"
+    depth: "Foreground shows execution details, middle ground reveals crowd witnessing state power, background displays fortress architecture representing permanent threat of violence"

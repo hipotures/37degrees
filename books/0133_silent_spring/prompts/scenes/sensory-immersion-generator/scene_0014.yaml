@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ocean Salt Crystallizing on Weathered Dock Wood"
+  setting:
+    time: "1962 afternoon"
+    location: "Coastal Maine dock where Rachel Carson conducted marine research, representing her connection to pure natural environments"
+    weather: "Clear coastal day with steady ocean breeze"
+  characters:
+    - appearance: "Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent, penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness"
+      clothing: "Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author, clothing style appropriate to early 1960s America"
+      position: "Standing on weathered dock examining marine specimens"
+      action: "Collecting seawater samples and observing natural coastal ecosystem before chemical contamination"
+  scene:
+    mainElements: "Weathered gray dock planks showing white salt crystal deposits from ocean spray, Rachel Carson breathing deeply of clean sea air while conducting marine research, visual evidence of pure oceanic environment"
+    details: "Rough wooden dock planks aged silver-gray by constant salt exposure, intricate patterns of white salt crystals deposited in wood grain, Carson taking deep satisfied breaths suggesting clean sea air and ocean brine, tide pools reflecting clear seawater, seaweed arrangements suggesting natural coastal fragrances, absence of any chemical contamination or industrial pollution, pristine marine environment representing Carson's beloved natural world"
+    background: "Maine coastline with rocky shores, clear ocean water extending to horizon, seabirds active in natural coastal habitat, lighthouse visible in distance representing maritime tradition"
+    atmosphere: "Pure maritime environment representing natural world Carson fought to protect, clean ocean air and salt spray creating refreshing natural experience, coastal serenity before chemical contamination, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle showing dock surface details with coastal context"
+    focus: "Salt crystal patterns and Carson's appreciation of clean marine environment"
+    depth: "Immediate foreground shows detailed salt deposits on wood, middle ground includes Carson's research activity, background reveals expansive coastal seascape"

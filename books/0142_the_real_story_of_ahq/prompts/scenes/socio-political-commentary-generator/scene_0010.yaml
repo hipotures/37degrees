@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Silencing Voices"
+  setting:
+    time: "1911, late evening"
+    location: "Small Buddhist monastery outside Weizhuang with vegetable garden, isolated religious retreat"
+    weather: "Dusk shadows creating mysterious atmosphere"
+  characters:
+    - appearance: "Young Chinese girl around sixteen to eighteen years old, small delicate frame. Most distinctive feature is freshly shaved head typical of Buddhist nuns"
+      clothing: "Simple grey Buddhist nun's habit, plain and unadorned monastic robes"
+      position: "Kneeling before damaged Buddhist statues in temple"
+      action: "Attempting to clean defaced religious artwork with cloth and water, working with desperate dedication"
+  scene:
+    mainElements: "Buddhist temple interior showing deliberate vandalism - statues with chiseled faces, torn sutras scattered on floor, overturned offering bowls. White-washed walls contrasting with surrounding green fields now marred by official graffiti"
+    details: "Sacred texts with pages torn out, meditation cushions slashed, incense burners overturned. Official notices pasted over religious inscriptions, replacing spiritual guidance with state propaganda"
+    background: "Through temple doorway, view of vegetable garden where plants have been trampled, suggesting systematic destruction of self-sufficient religious community"
+    atmosphere: "Desperate attempt to preserve spiritual and intellectual heritage in face of systematic suppression. The violence against ideas made tangible through destruction of books and sacred objects. Cultural assassination"
+  composition:
+    cameraAngle: "Interior view emphasizing the scale of destruction and the lone figure trying to preserve what remains"
+    focus: "The young nun's futile but heroic effort to restore what has been deliberately destroyed"
+    depth: "Foreground shows damaged religious texts and artifacts, middle ground captures the dedicated nun working to preserve them, background reveals the extent of systematic cultural destruction"

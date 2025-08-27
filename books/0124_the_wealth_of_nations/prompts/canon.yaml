@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "philosopher_smith"
+      name: "The Philosopher (Adam Smith)"
+      description_block: |
+        characters:
+          - appearance: "55-year-old Scottish philosopher, medium build, thin scholarly frame, pociągła twarz with high forehead and thoughtful expression, heavy drooping eyelids giving contemplative look"
+            clothing: "dark wool Georgian suit consisting of frock coat, long waistcoat, and breeches in charcoal gray, white linen shirt with simple white cravat, black leather shoes with silver buckles"
+            posture: "seated at writing desk or walking in contemplation with scholarly bearing"
+    
+    - id: "factory_worker"
+      name: "The Factory Worker"
+      description_block: |
+        characters:
+          - appearance: "25-year-old male laborer, lean but muscular from physical work, weathered hands with calluses, tired expression in brown eyes, short unkempt dark hair"
+            clothing: "coarse unbleached linen shirt, patched wool breeches, thick woolen stockings, heavy leather shoes, thick leather apron stained with metal dust"
+            posture: "bent over workbench in focused concentration on repetitive task"
+    
+    - id: "entrepreneur_manufacturer"
+      name: "The Entrepreneur"
+      description_block: |
+        characters:
+          - appearance: "45-year-old male business owner, stocky well-fed frame, square jaw and alert gray eyes, natural dark hair with gray streaks at temples, confident bearing"
+            clothing: "quality practical wool suit in dark navy, matching waistcoat, clean white linen shirt with neat cravat, high riding boots"
+            posture: "standing upright with authority, often checking pocket watch or examining his manufacturing operations"
+    
+    - id: "landed_gentleman"
+      name: "The Landed Gentleman"
+      description_block: |
+        characters:
+          - appearance: "60-year-old aristocrat, portly frame with ruddy complexion from outdoor life and good food, round pleasant face, powdered wig for formal occasions"
+            clothing: "riding coat of fine wool in brown, leather breeches, tall riding boots, practical country gentleman attire rather than court dress"
+            posture: "relaxed aristocratic bearing, often holding riding crop or examining his estate"
+    
+    - id: "colonial_merchant"
+      name: "The Colonial Merchant"
+      description_block: |
+        characters:
+          - appearance: "50-year-old merchant trader, medium build slightly stooped from desk work, serious calculating expression, wears spectacles in metal frames"
+            clothing: "respectable dark wool suit similar to entrepreneur but more stationary style, no riding boots, practical business attire"
+            posture: "seated at counting house desk bent over ledger books with quill pen in hand"
+
+    - id: "artisan_baker"
+      name: "The Baker"
+      description_block: |
+        characters:
+          - appearance: "35-year-old craftsman, lean wiry build from physical work, face and hair dusted with flour, callused baker's hands"
+            clothing: "white linen shirt, canvas apron tied at waist, simple wool breeches, leather shoes suitable for standing long hours"
+            posture: "working at wooden table kneading dough or using long wooden peel to manage bread ovens"
+
+    - id: "artisan_butcher"
+      name: "The Butcher"
+      description_block: |
+        characters:
+          - appearance: "40-year-old tradesman, powerfully built muscular frame, red weathered face from physical work, practical no-nonsense demeanor"
+            clothing: "open linen shirt, leather apron stained from work, wool breeches, heavy work boots"
+            posture: "standing at butcher block with cleaver in hand or sharpening knives on steel"
+
+    - id: "government_official"
+      name: "The Tax Collector"
+      description_block: |
+        characters:
+          - appearance: "50-year-old civil servant, thin austere build, stern expressionless face showing bureaucratic authority, graying hair"
+            clothing: "modest black wool suit somewhat worn at elbows, white shirt, simple black shoes, practical clerk's attire"
+            posture: "seated at plain wooden desk reviewing tax records with official seal and quill pen"
+
+  locations:
+    - id: "pin_manufactory"
+      name: "Pin Manufacturing Workshop"
+      description_block: |
+        setting:
+          location: "Long rectangular ground-floor workshop in brick industrial building, British Midlands"
+        mainElements: "Extended wooden workbench running length of room with ten workstations, each with specific tools for pin-making stages, hand-operated machinery including wire-drawing apparatus and grinding stones"
+        atmosphere: "Rhythmic industrial sounds of hammering and grinding, metallic dust particles floating in cold light from large utilitarian windows, smell of heated metal and oil"
+
+    - id: "scholar_study"
+      name: "Philosopher's Study"
+      description_block: |
+        setting:
+          location: "Georgian townhouse study in Edinburgh or London, wood-paneled room with high ceiling"
+        mainElements: "Floor-to-ceiling bookshelves filled with leather-bound volumes, large mahogany writing desk positioned near sash window, marble fireplace with brass fittings, standing globe in corner"
+        atmosphere: "Quiet scholarly environment with ticking clock, scent of old paper and leather bindings, warm candlelight mixing with natural daylight from window"
+
+    - id: "london_port"
+      name: "Port of London"
+      description_block: |
+        setting:
+          location: "Thames River docks in 18th-century London, forest of ship masts and warehouse buildings"
+        mainElements: "Multi-story brick warehouses with hoisting equipment, ocean-going sailing ships anchored in river, smaller barges and lighters transferring cargo, cobblestone wharves lined with barrels and crates"
+        atmosphere: "Cacophony of maritime commerce with shouting stevedores, creaking rigging, heavy smells of tar, salt water, exotic spices and colonial goods"
+
+    - id: "english_estate"
+      name: "Georgian Country Estate"
+      description_block: |
+        setting:
+          location: "Palladian manor house set in landscaped parkland in English countryside"
+        mainElements: "Symmetrical stone mansion with columned facade, manicured gardens with geometric patterns, grazing sheep in rolling green fields, artificial lake reflecting the building"
+        atmosphere: "Peaceful rural tranquility with sounds of nature, fresh country air, sense of established wealth and social hierarchy"
+
+    - id: "counting_house"
+      name: "Merchant's Counting House"
+      description_block: |
+        setting:
+          location: "Commercial office in Georgian merchant building near London docks"
+        mainElements: "Dark wood-paneled walls, large mahogany desk with brass fittings and multiple compartments, tall wooden filing cases filled with ledgers and documents, iron strongbox for valuables"
+        atmosphere: "Orderly business environment with sounds of scratching quills and rustling papers, smell of ink and sealing wax, focused commercial activity"
+
+    - id: "market_square"
+      name: "London Market Square"
+      description_block: |
+        setting:
+          location: "Busy urban marketplace like Covent Garden surrounded by Georgian brick buildings"
+        mainElements: "Wooden stalls and tables displaying goods, horse-drawn carts and wagons, crowds of people from all social classes, variety of merchandise from food to manufactured goods"
+        atmosphere: "Lively commercial bustle with vendors calling wares, haggling voices, mixture of urban smells from food, animals, and human activity"
+
+  items:
+    - id: "manufacturing_pin"
+      name: "The Pin"
+      description_block: |
+        details: "Small brass straight pin approximately two inches long with round head, representing the product of specialized manufacturing process through eighteen distinct operations"
+
+    - id: "silver_shilling"
+      name: "Silver Shilling"
+      description_block: |
+        details: "Georgian silver coin bearing profile of King George III, worn from circulation, fundamental unit of commercial exchange representing medium of trade and store of value"
+
+    - id: "leather_ledger"
+      name: "Merchant's Ledger Book"
+      description_block: |
+        details: "Large leather-bound account book with marbled endpapers, filled with handwritten entries in brown ink, representing careful tracking of capital and commercial transactions"
+
+    - id: "trade_goods"
+      name: "Colonial Trade Goods"
+      description_block: |
+        details: "Wooden barrels, hemp sacks, and wooden crates containing exotic merchandise like tobacco, sugar, tea, and spices, representing global commerce and division of labor"
+
+    - id: "manufacturing_tools"
+      name: "Artisan Tools"
+      description_block: |
+        details: "Collection of specialized hand tools including hammers, pliers, files, grinding stones, and wire-drawing apparatus, representing skilled craftsmanship and manufacturing capability"

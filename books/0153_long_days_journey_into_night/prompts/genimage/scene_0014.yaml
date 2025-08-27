@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: August 1912, late afternoon, around 4:45 PM
+    location: Stairway leading from living room to upper floor of Monte Cristo Cottage, New London, Connecticut, August 1912
+    weather: Heavy grey fog beginning to surround house, natural light fading rapidly
+  characters:
+  - appearance: 54-year-old woman of medium height with young, graceful figure that is somewhat plump but shows no signs of
+      middle-aged spread. Thick, pure white hair arranged with pedantic care. Distinctly Irish-type face that must have been
+      extremely pretty and still is striking. Thin, pale face with clearly-marked bone structure contrasting with healthy
+      figure. Long straight nose, wide mouth with full, sensitive lips. Uses no rouge or makeup. Very large and beautiful
+      dark brown eyes that appear black, with black eyebrows and long, curled lashes.
+    clothing: Dressed simply but with sense of what becomes her. Long ankle-length dress with raised waistline typical of
+      1912 fashion, in muted colors like dove grey or powder blue that emphasize her delicacy and withdrawal.
+    position: Midway up staircase, one hand trailing on banister
+    action: Climbing stairs slowly with defeated posture, shoulders slumped, seeking escape upstairs
+  scene:
+    mainElements: Steep wooden staircase with worn banister leading to upper floor bedrooms and spare room. Steps disappearing
+      into darkness above, symbolizing retreat from family confrontation into private addiction. Lower level visible showing
+      abandoned living room space
+    details: Heavy shadows on staircase suggesting transition from family space to private hell, each step representing deeper
+      withdrawal from reality, banister worn smooth by years of desperate ascents, growing darkness above suggesting unknown
+      but feared destination
+    background: Living room below showing aftermath of family crisis, abandoned furniture and scattered family space, windows
+      beginning to show first wisps of fog
+    atmosphere: Profound sense of retreat and defeat, staircase representing escape route to private addiction, growing darkness
+      symbolizing deepening crisis, weight of inevitability in every step, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot from bottom of stairs looking up at retreating figure
+    focus: Solitary woman retreating from family crisis toward private destruction
+    depth: Foreground abandoned living room space, middle ground staircase and climbing figure, background dark upper floor
+      promising escape and damnation
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

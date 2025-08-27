@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Colonial administrative office in French Algiers business district
+    weather: Bright Mediterranean morning with strong sunlight through office windows
+  characters:
+  - appearance: Young man aged 25-30 years, European features, average build, distant expression in eyes
+    clothing: Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions
+    position: Standing at boss's desk, requesting time off
+    action: Speaking calmly about mother's death with no visible emotion, observing boss's awkward response
+  scene:
+    mainElements: Typical 1940s colonial office with wooden desks, filing cabinets, papers scattered across surfaces, other
+      clerks at their desks pretending not to listen
+    details: Boss shifting uncomfortably in leather chair, stack of documents on desk, inkwells and pens arranged formally,
+      calendar on wall showing current date, electric fan rotating slowly overhead creating intermittent breeze. Other employees
+      glancing nervously from their work stations.
+    background: Large windows overlooking busy Algiers street, sounds of traffic and street activity, office clerks at desks
+      with typewriters, telephone ringing occasionally
+    atmosphere: Professional environment made awkward by discussion of death, harsh morning light exposing uncomfortable social
+      dynamics, bureaucratic indifference to personal tragedy
+  composition:
+    cameraAngle: View from Meursault's perspective looking across boss's desk
+    focus: Boss's uncomfortable facial expression and fidgeting hands, stack of official papers requiring attention
+    depth: Foreground shows edge of desk with papers and office supplies, middle ground shows boss's reaction, background
+      shows other clerks pretending to work while listening, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

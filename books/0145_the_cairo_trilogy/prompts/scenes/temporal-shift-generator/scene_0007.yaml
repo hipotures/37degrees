@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Traditional coffeehouse from gathering place to memory"  
+  setting:
+    time: "Summer 1917 bustling to summer 1944 wartime"
+    location: "Traditional male-only coffeehouse in historic Cairo district near Palace Walk"
+    weather: "Hot summer afternoons across both periods"
+  characters:
+    - appearance: "45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue eyes, large prominent nose, commanding presence that fills space"
+      clothing: "At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt fez (tarbush) with black tassel"
+      position: "Standing with authority and dignity, movements heavy and measured"
+      action: "1917: Dominating conversations with friends, laughing heartily, smoking water pipe. 1944: Absent from scene, empty chair suggesting his decline"
+  scene:
+    mainElements: "Small round wooden tables, simple wooden chairs, ornately decorated water pipes (shisha), walls yellowed from tobacco smoke - showing progression from vibrant social hub to nearly empty wartime establishment"
+    details: "1917: Tables full of animated men playing backgammon and dominoes, ornately decorated shisha pipes (fajki wodne) actively used, brass coffee service gleaming, walls fresh with social energy. 1944: Most tables empty, fewer customers, worn furniture showing decades of use, same shisha pipes but dusty, coffee service tarnished, wartime shortages evident, no text or letters visible"
+    background: "Same stone walls and architectural elements but showing significant aging, accumulated tobacco stains deeper, economic hardship visible in reduced maintenance"
+    atmosphere: "Temporal contrast between social abundance and wartime scarcity, thick air filled with sweet tobacco smoke from water pipes in 1917 versus thin atmosphere in 1944, sounds diminished from loud conversations to quiet murmurs"
+  composition:
+    cameraAngle: "Wide interior view showing occupancy and activity changes"
+    focus: "Central empty chair where patriarch once dominated conversations"
+    depth: "Foreground: worn table surfaces and aging furniture, middle ground: contrast in human activity levels, background: walls showing accumulated time and hardship"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Underground Book of Liberation"
+  setting:
+    time: "1950s Algeria, late night"
+    location: "Hidden basement room in traditional Algerian quarter, secret meeting space"
+    weather: "Indoor setting with minimal candlelight"
+  characters:
+    - appearance: "Educated Algerian man in his 30s, wearing European-style glasses, well-groomed appearance, conflicted expression showing internal alienation"
+      clothing: "Simplified clothing, less formal than usual colonial subject dress, showing commitment to resistance"
+      position: "Seated at table with hidden manuscript"
+      action: "Reading forbidden political text by candlelight, sharing revolutionary ideas with small group"
+    - appearance: "Small group of Algerian men and women gathered around table"
+      clothing: "Various simple clothing styles, workers and intellectuals together"
+      position: "Leaning in close to hear whispered reading"
+      action: "Listening intently to forbidden words, taking turns reading revolutionary passages"
+  scene:
+    mainElements: "Secret gathering sharing banned political literature, candles providing only light source, revolutionary texts being read and discussed"
+    details: "Handwritten manuscripts passed between participants, covers of forbidden books hidden under cloth, revolutionary slogans in Arabic script, maps showing liberation territories, weapons concealed nearby, lookouts posted at entrance"
+    background: "Hidden basement space with stone walls, minimal furniture, revolutionary materials carefully concealed"
+    atmosphere: "Dangerous knowledge being shared in secret, intellectual resistance growing in hidden spaces"
+  composition:
+    cameraAngle: "Intimate close shot of faces illuminated by candlelight"
+    focus: "Forbidden book as center of revolutionary gathering, faces showing enlightenment and determination"
+    depth: "Book and candle in foreground, reading circle in middle ground, shadowy concealed space in background"

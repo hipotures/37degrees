@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, twilight
+    location: Public gathering in colonial square, crowd participating in official ceremony
+    weather: Dusky light creating shadows and isolated pools of illumination
+  characters:
+  - appearance: Single Algerian man in his 30s, different expression from surrounding crowd, doubt and sadness visible in
+      his eyes
+    clothing: Same colonial subject attire as others, but worn with less conviction, slight dishevelment suggesting internal
+      conflict
+    position: Standing within crowd but psychologically separate
+    action: Looking around with confusion and growing awareness while others participate automatically in ceremony
+  - appearance: Surrounding crowd of identical colonial subjects performing synchronized actions
+    clothing: Uniform colonial compliance dress
+    position: Surrounding the isolated individual
+    action: Engaged in collective ritual while ignoring the questioning individual among them
+  scene:
+    mainElements: Single individual experiencing moment of psychological awakening surrounded by mass of unthinking conformity
+    details: One face showing genuine emotion and questioning doubt while hundreds around display automatic compliance, his
+      body language slightly different from synchronized crowd, subtle lighting emphasizing his psychological isolation, crowd
+      continuing ritual oblivious to his internal struggle
+    background: Colonial ceremony continuing around isolated figure, official symbols and authority maintaining control over
+      masses
+    atmosphere: Psychological awakening beginning within system of mass control, individual consciousness emerging from collective
+      conformity
+  composition:
+    cameraAngle: Close-up focus on individual face surrounded by blurred crowd
+    focus: Single questioning expression contrasting with surrounding automatic compliance
+    depth: Individual face in sharp foreground focus, crowd in softer middle ground, colonial authority in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

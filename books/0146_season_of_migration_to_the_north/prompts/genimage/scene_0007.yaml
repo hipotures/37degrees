@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1960s, evening
+    location: Village gathering area where men socialize, informal circle near traditional houses
+    weather: Cool evening air, gentle breeze carrying scents of cooking fires
+  characters:
+  - appearance: Handsome Sudanese man around fifty years old, noble broad forehead, wide-set eyebrows forming crescents over
+      eyes, sharply defined nose with hair growing from nostrils, thick graying hair, head in perfect proportion to neck and
+      shoulders
+    clothing: Simple farmer's djellaba in earth tones
+    position: Seated slightly apart from group, watching narrator intently
+    action: Studying narrator with sharp recognition and predatory interest
+  - appearance: Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven
+      face showing traces of internal struggle
+    clothing: Clean white traditional djellaba with matching turban
+    position: Among village group, participating in conversation
+    action: Speaking about his years abroad, unaware of being studied
+  scene:
+    mainElements: Circle of village men seated on mats, oil lamps providing warm light, traditional houses forming backdrop
+    details: Through Mustafa's predatory perspective, narrator appears as fascinating mirror image - educated abroad but returned
+      seeking roots, sophisticated mind trapped in simple village setting, eyes showing same displacement Mustafa once felt.
+      Other villagers appear as background figures while narrator glows with dangerous familiarity, his gestures and expressions
+      betraying Western influence that others cannot see. Mustafa recognizes kindred alienation beneath narrator's performance
+      of belonging, sees potential victim or accomplice in village harmony, no text or letters visible
+    background: Clay houses with traditional wooden doors, cooking fires creating distant glow, night sky emerging
+    atmosphere: Mustafa experiencing hunter's excitement at finding worthy prey, narrator unknowingly exposing his vulnerability
+      through educated mannerisms, evening gathering becoming stage for psychological stalking rather than community bonding
+  composition:
+    cameraAngle: Over Mustafa's shoulder, showing his intense focus on the narrator
+    focus: Narrator speaking earnestly while Mustafa watches with calculating attention
+    depth: Mustafa's shadowed profile in foreground, narrator illuminated by lamplight in middle ground, other villagers forming
+      circle in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

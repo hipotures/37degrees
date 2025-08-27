@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Arrival of elegant stranger in decaying neighborhood"
+  setting:
+    time: "Late 1940s, early evening in May"
+    location: "Working-class street in New Orleans French Quarter, between L&N railroad tracks and Mississippi River. Two-story corner building with weathered white wooden frame turned gray, rickety external stairs, galleries with ornate gables"
+    weather: "Warm humid evening, gentle spring air"
+  characters:
+    - appearance: "Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain and nervous, moves with moth-like nervousness and theatrical gestures"
+      clothing: "Elegant but inexpensive clothing attempting to maintain facade of refinement. White suit with fluffy bodice, pearl necklace and earrings, white gloves and hat for arrival. Often wears flowing feminine fabrics in soft colors, red or scarlet satin robes at home, tattered white evening gown with rhinestone tiara in climactic scenes"
+      position: "Standing alone on street corner, holding suitcase, looking at piece of paper with address"
+      action: "Comparing address on paper to building numbers, expression of shock and disbelief at surroundings"
+  scene:
+    mainElements: "Cosmopolitan, racially mixed neighborhood with raffish charm. Street life spills onto sidewalks, verandas, and stairways. Nearby bar with blue piano music, railroad tracks, river warehouses"
+    details: "Contrast between woman's pristine white clothing and weathered gray building. Neighbors sitting casually on steps observing newcomer. Sound of distant blue piano music from nearby bar. Steam rising from nearby river warehouses carrying scents of coffee and bananas. Electric streetlights beginning to flicker on in gathering dusk"
+    background: "Mix of vitality and decay, humid heat, sounds of blue piano, train whistles, street vendors calling, smells of coffee, bananas, and mustiness from river"
+    atmosphere: "Initial calm of evening disrupted by presence of overdressed, anxious woman completely out of place in working-class environment. Sense of worlds colliding - refined past meeting rough present"
+  composition:
+    cameraAngle: "Wide establishing shot showing full contrast between figure and environment"
+    focus: "Elegantly dressed woman's shocked expression as she takes in her surroundings"
+    depth: "Foreground: woman with suitcase; middle ground: weathered building with external stairs; background: neighboring buildings and industrial elements"

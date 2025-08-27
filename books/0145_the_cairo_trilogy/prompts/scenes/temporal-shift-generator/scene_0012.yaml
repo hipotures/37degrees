@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wedding preparations across three family generations"
+  setting:
+    time: "Multi-temporal: 1918, 1935, 1960s (projected)"
+    location: "Women's preparation room in traditional Cairene house during marriage ceremonies"
+    weather: "Celebratory afternoon light through decorated windows"
+  characters:
+    - appearance: "16-year-old Egyptian girl, slender ethereal figure, face beautiful as moon, white complexion with rosy reflections, blue eyes inherited from father, small nose from mother, classical beauty"
+      clothing: "Light flowing dresses that family tries to make more full-figured"
+      position: "Graceful gentle movements befitting her beauty"
+      action: "1918: Being prepared for marriage with traditional henna ceremony"
+    - appearance: "20-year-old Egyptian woman, short and plump with strong build, large nose inherited from father, small eyes from mother, unattractive but intelligent and sharp expression"
+      clothing: "Modest domestic dresses appropriate for middle-class household"
+      position: "Assertive posture, often with sharp gestures reflecting her wit"
+      action: "1935: Overseeing daughter's wedding preparations with practical efficiency"
+  scene:
+    mainElements: "Same room used for wedding preparations showing evolution of marriage customs while maintaining core family traditions across decades"
+    details: "Wedding elements: 1918 traditional henna patterns, elaborate gold jewelry, heavy silk fabrics, oil lamp lighting. 1935 some modern elements mixed with traditional - photographs replacing some rituals, electric lighting, but same basic ceremony structure. 1960s projection shows further modernization but essential family blessing rituals continue. Same mirrors, brass vessels, and ceremonial items used across generations, no text or letters visible"
+    background: "Same architectural space decorated differently for each generation's wedding - traditional Islamic patterns consistent, modern touches gradually added"
+    atmosphere: "Temporal bridge between traditional and modern marriage customs, continuity of family blessing rituals despite changing social contexts, sacred nature of generational transitions"
+  composition:
+    cameraAngle: "Wide view showing ceremonial preparations across multiple time periods"
+    focus: "Central bridal preparation area showing evolution of customs while maintaining core meaning"
+    depth: "Foreground: ceremonial objects in various states of tradition/modernity, middle ground: generational preparation activities, background: consistent architectural blessing space"

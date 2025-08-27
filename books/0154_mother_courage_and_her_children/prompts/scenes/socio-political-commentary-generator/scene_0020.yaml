@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Systematic Violence - Public Execution as Control"
+  setting:
+    time: "1634 autumn, systematic violence used for population control"
+    location: "Public execution ground demonstrating state violence as control mechanism"
+    weather: "Gray autumn day emphasizing brutality of systematic violence"
+  characters:
+    - appearance: "Military executioners carrying out systematic violence for population control"
+      clothing: "Military uniforms designed for systematic violence and intimidation"
+      position: "Standing in positions of authority demonstrating state power through violence"
+      action: "Carrying out public execution to intimidate population and demonstrate consequences of resistance"
+    - appearance: "Civilian population forced to witness systematic violence"
+      clothing: "Simple civilian clothes showing vulnerability to state violence"
+      position: "Arranged as forced audience for demonstration of state violence and control"
+      action: "Witnessing systematic violence designed to eliminate resistance through terror and intimidation"
+  scene:
+    mainElements: "Public execution ground designed to demonstrate state power through systematic violence"
+    details: "Execution apparatus displaying state capacity for violence, forced audience witnessing intimidation through systematic brutality, violence used as tool for population control and resistance suppression"
+    background: "State violence system designed to maintain control through terror and systematic brutalization of population"
+    atmosphere: "Terror and intimidation through systematic state violence, population control through demonstration of brutal consequences for resistance"
+  composition:
+    cameraAngle: "Wide shot showing systematic state violence as population control mechanism"
+    focus: "State violence as tool for maintaining control and suppressing resistance through terror"
+    depth: "Foreground shows individual victims, middle ground systematic violence apparatus, background terrorized population"

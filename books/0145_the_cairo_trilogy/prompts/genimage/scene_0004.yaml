@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 'Dual exposure: 1917 radiant youth and 1927 grief-stricken'
+    location: Women's quarters of traditional Cairene house, same mirror and dressing area
+    weather: Morning light through window, same quality both periods
+  characters:
+  - appearance: 16-year-old Egyptian girl, slender ethereal figure, face beautiful as moon, white complexion with rosy reflections,
+      blue eyes inherited from father, small nose from mother, classical beauty
+    clothing: Light flowing dresses that family tries to make more full-figured
+    position: Graceful gentle movements befitting her beauty
+    action: '1917: Looking into mirror with joy and vanity, arranging hair with delight'
+  - appearance: 34-year-old Egyptian woman, once beautiful now prematurely aged and worn, face marked by suffering, ethereal
+      figure now gaunt from grief
+    clothing: Black mourning clothes, somber appearance
+    position: Withdrawn posture showing psychological devastation
+    action: '1927: Staring at reflection with hollow recognition of lost self'
+  scene:
+    mainElements: Same ornate hand mirror showing dual reflections across decade, identical brass-framed mirror positioned
+      at same angle, personal items accumulated and changed
+    details: 'Mirror surface reflecting two different faces: luminous youth versus grief-ravaged maturity. Surrounding items:
+      1917 colorful ribbons and jewelry, small bottles of perfume, bright fabrics. 1927 black mourning veils, unused cosmetics
+      gathering dust, faded photographs of lost family members, no text or letters visible'
+    background: Same stone wall and wooden furniture showing subtle aging, identical window casting same morning light revealing
+      dramatic personal transformation
+    atmosphere: Tragic contrast between youthful vanity and mature sorrow, sense of beauty as temporary blessing, temporal
+      cruelty of personal loss
+  composition:
+    cameraAngle: Over shoulder view showing mirror reflections of both time periods
+    focus: Mirror surface revealing two different selves separated by decade of tragedy
+    depth: 'Foreground: hands holding mirror in different emotional states, middle ground: contrasting personal items, background:
+      unchanging room architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

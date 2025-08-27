@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Three Weddings in One Sacred Space"
+  setting:
+    time: "1885 grandmother's wedding, 1910 Caddy's wedding, 1928 implied future generation"
+    location: "Formal front room of Compson mansion with high ceilings, used for important family events including grandmother's funeral and Caddy's wedding"
+    weather: "Indoor ceremony lighting consistent across three generations"
+  characters:
+    - appearance: "White female teenager age 16-18, beautiful and rebellious, no longer has natural tree scent but wears perfume which distresses family"
+      clothing: "Period appropriate teenage dresses from early 1900s, begins wearing perfume and more mature styling"
+      position: "Increasingly independent posture, meeting with young men, showing signs of romantic involvement"
+      action: "Kissing boys, staying out late, behaviors that alarm her brothers and threaten family honor"
+  scene:
+    mainElements: "Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano, formal seating arrangement serving as backdrop for three generations of family wedding ceremonies"
+    details: "Triple generational overlay in same parlor space: background layer shows 1885 grandmother's wedding with Victorian ceremony arrangements, bride in elaborate bustle gown, formal portraits, gas lighting fixtures; middle layer depicts 1910 Caddy's wedding with simpler Edwardian style, bride with long flowing veil like shining wind, electric lighting mixed with natural light, family tension visible in postures; foreground suggests future 1928 generation with modern elements creeping in, shorter wedding styles, different social customs, same room showing accumulated wear no text or letters visible"
+    background: "Identical parlor architecture across forty-three years showing progressive aging - wallpaper patterns fading, furniture becoming more worn, paint darkening, but essential formal dignity maintained"
+    atmosphere: "Sacred ritual repetition across generations where marriage ceremonies echo through same space, each reflecting contemporary social changes while maintaining family tradition continuity"
+  composition:
+    cameraAngle: "Medium wide shot from parlor entrance showing ceremonial space across generations"
+    focus: "Central wedding ceremony area showing three brides in same location forty years apart"
+    depth: "Foreground: modern 1920s wedding elements; middle ground: 1910 Caddy's wedding ceremony; background: 1885 Victorian grandmother's wedding with period details"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Infinite Library's Hexagonal Promise"
+  setting:
+    time: "Eternal present, neither day nor night"
+    location: "Single hexagonal gallery in infinite Library of Babel, geometrical structure containing all possible knowledge"
+    weather: "No weather exists in this enclosed universe"
+  characters:
+    - appearance: "Elderly man in final years, stooped and emaciated from endless wandering, deeply wrinkled face, long unkempt gray hair and beard, eyes weak and tired from reading, skeletal frame"
+      clothing: "Worn gray-brown monk-like robe, frayed and stained from years of use, no other possessions or adornments"
+      position: "Standing before wall of identical books, hand raised toward one volume"
+      action: "Hesitating before pulling book from shelf, knowing it likely contains only meaningless letters"
+  scene:
+    mainElements: "Twenty bookshelves line four walls of hexagonal chamber, each shelf holding identical leather-bound volumes in uniform format, all books appearing exactly the same size and binding, central ventilation shaft surrounded by low stone balustrade, two spherical lamps providing inadequate eternal light"
+    details: "Every book spine identical brown leather without title markings, each volume containing exactly 410 pages with same number of lines per page, vast majority filled with random letter combinations but somewhere among infinite possibilities lies every truth ever written. Hexagonal geometry creates sense of infinite repetition, each gallery identical to countless others"
+    background: "Narrow corridors leading to other hexagonal chambers, spiral staircases descending into darkness and ascending beyond sight, geometric shadows cast by spherical lamps, endless rows of books extending beyond vision"
+    atmosphere: "Mathematical perfection creating existential despair, weak lamplight emphasizing infinite sameness, crushing weight of total knowledge that remains forever inaccessible, silence broken only by distant footsteps echoing through corridors, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from corner of hexagon showing geometric space and solitary figure"
+    focus: "The wall of identical books with elderly librarian's hand reaching toward one volume"
+    depth: "Central balustrade and lamps in foreground, figure at bookshelf in middle ground, corridors and stairs disappearing into infinite background"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1513, public announcement hour
+    location: Town crier and public announcement system of Renaissance period
+    weather: Clear day for maximum public visibility
+  characters:
+  - appearance: Official town criers and heralds in governmental livery
+    clothing: Formal civic regalia indicating official authority
+    position: Positioned at strategic public locations
+    action: Announcing official version of events, carefully controlling information flow to population
+  scene:
+    mainElements: Public information system controlled by state authority. Official announcements designed to shape public
+      perception of events. Alternative viewpoints suppressed or discredited.
+    details: Written proclamations posted only at designated locations. Citizens required to gather at specific times to receive
+      information. Guards ensuring no alternative narratives circulate.
+    background: Information environment completely controlled by those in power. Truth becomes whatever serves state interests.
+    atmosphere: Systematic control of narrative and perception. Reality defined by those with power to control information.
+  composition:
+    cameraAngle: Medium shot showing information control mechanisms
+    focus: State monopoly on defining truth and reality
+    depth: Foreground shows official announcements, middle ground reveals controlled crowd, background displays enforcement
+      systems
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

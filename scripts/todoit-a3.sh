@@ -22,6 +22,7 @@ declare -a book_directories=(
   "0064_the_metamorphosis"
   "0065_the_castle"
   "0066_doctor_zhivago"
+  "0077_the_god_of_small_things"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
@@ -230,7 +231,7 @@ for book_dir in "${book_directories[@]}"; do
             wake_time=$(date -d "+6 hours" "+%Y-%m-%d %H:%M:%S %Z")
             echo "⏰ Wznowienie przetwarzania o: $wake_time"
             
-            sleep 3600  # 6 godzin
+            sleep 300  # 6 godzin
 	    rm "$LAST_SCENE_FILE"
             echo "🚀 Kontynuowanie przetwarzania po 6h sleep..."
             

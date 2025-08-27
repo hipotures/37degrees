@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, mid-morning
+    location: Main courtyard before palace in Argos with view of great bronze-reinforced doors and megaron entrance
+    weather: Bright clear morning with strong Mediterranean sun casting sharp shadows
+  characters:
+  - appearance: Elderly weathered man aged 50-60 years, body showing effects of year-long watch duty, grizzled beard and lined
+      face expressing exhaustion and anxiety
+    clothing: Thick woolen cloak wrapped around shoulders over simple undyed linen chiton, leather sandals, practical garments
+      for long outdoor vigil
+    position: Descending from rooftop into courtyard, moving urgently across stone paving
+    action: Hurrying to announce signal fire news, gesturing toward distant mountains, calling out to palace inhabitants
+  - appearance: Mature woman aged 40-50 years, tall with imposing royal posture, powerful build suggesting inner strength,
+      ciemne dark hair with streaks of gray misternie intricately arranged in complex royal hairstyle with gold nets or diadems,
+      dark penetrating intelligent eyes that rarely reveal emotions, strong angular facial features with pronounced jawline
+      and full often pressed lips, face like controlled mask hiding decade of revenge planning, surowa majestic beauty rather
+      than delicate
+    clothing: Richly decorated multilayered robes peplos over chiton in royal power colors deep purple crimson black with
+      gold embroidery, made from finest materials, heavy gold jewelry necklaces bracelets earrings that chime with movement,
+      attire always impeccable reflecting her control over herself and kingdom
+    position: Emerging from palace doors, standing elevated on threshold steps
+    action: Queen who ruled Argos for ten years during husband's absence, master manipulator using words as weapons, woman
+      with masculine heart and mind according to chorus, both architect and executioner of revenge
+  scene:
+    mainElements: Stone palace courtyard with smooth worn paving stones, central sacrificial altar with bloodstained surface
+      from repeated offerings, bronze-reinforced wooden palace doors leading to interior shadows, defensive walls surrounding
+      courtyard space
+    details: Morning shadows creating dramatic contrasts across stone surfaces, carved architectural details on palace facade,
+      bronze door fittings reflecting sunlight, courtyard well or fountain for water supply, storage areas and workshops visible
+      along perimeter, palace guards beginning to gather responding to commotion
+    background: Massive Cyclopean walls rising behind palace structure, Lion Gate entrance visible in distance, olive groves
+      and agricultural lands beyond fortress walls, clear blue sky with excellent visibility
+    atmosphere: Moment of anticipation before decade-long wait ends, mixture of hope and dread as news arrives, sense of historical
+      forces converging on royal household, undercurrent of tension between relief at war's end and fear of returning king
+  composition:
+    cameraAngle: Master shot showing entire scene geography with all players' positions
+    focus: Courtyard as stage where royal drama will unfold, positioning of characters revealing power dynamics
+    depth: Foreground shows detailed courtyard paving and altar, middle ground captures character positions and interactions,
+      background reveals palace architecture and fortress walls, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

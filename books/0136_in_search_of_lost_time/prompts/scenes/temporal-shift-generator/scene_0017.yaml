@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Saint-Loup's Final Charge - Heroic Moment in Eternal Suspension"
+  setting:
+    time: "Single moment of courage during WWI battle, 1917, late afternoon"
+    location: "French battlefield trench system, Western Front, earth and barbed wire"
+    weather: "Autumn mist and smoke creating dreamlike atmosphere around frozen action"
+  characters:
+    - appearance: "Robert de Saint-Loup aged 30, cavalry officer in infantry uniform, golden hair under military cap, green eyes blazing with determination"
+      clothing: "Muddy French army uniform with officer's insignia, rifle in hand, bayonet fixed, military decorations visible"
+      position: "Frozen mid-leap going over trench wall, body suspended in perfect athletic grace"
+      action: "Caught in moment of heroic sacrifice, leading charge with inspiring gesture, face showing noble courage"
+  scene:
+    mainElements: "Battlefield frozen in moment of attack. Saint-Loup suspended above trench while other soldiers remain in motion around static central figure. Smoke and mist creating ethereal atmosphere."
+    details: "Mud clods suspended in air from explosion. Rifle cartridges frozen mid-ejection. Saint-Loup's military decorations catching last light. Barbed wire gleaming with morning dew despite afternoon timing."
+    background: "War continuing around frozen heroic moment: other soldiers moving, artillery shells arcing overhead, distant battle sounds echoing. French countryside visible beyond battlefield chaos."
+    atmosphere: "Heroic idealism suspended in eternal moment before mortality. Aristocratic grace transcending war's brutality through noble gesture frozen in time, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle emphasizing Saint-Loup's heroic stature against sky and battlefield chaos"
+    focus: "Saint-Loup as magnificent suspended figure while war continues in motion around him"
+    depth: "Foreground shows trench detail, middle ground captures suspended hero, background reveals continuing battle"

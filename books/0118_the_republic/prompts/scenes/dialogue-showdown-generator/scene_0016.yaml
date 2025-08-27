@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Solitude - Glaukon's Private Doubt"
+  setting:
+    time: "375 BCE, late evening"
+    location: "quiet corner of courtyard in wealthy metojk residence, away from main symposium"
+    weather: "cool night air with gentle breeze"
+  characters:
+    - appearance: "handsome aristocratic young man, athletic build from military service, intelligent eyes"
+      clothing: "refined himation and chiton indicating high social status, polished bronze accessories"
+      position: "seated alone on stone bench in moonlit courtyard"
+      action: "staring thoughtfully at empty wine cup, processing the evening's philosophical revelations"
+  scene:
+    mainElements: "peaceful courtyard with stone benches, potted plants, small altar to household gods, fountain or water feature"
+    details: "Moonlight filtering through courtyard creating contemplative atmosphere, shadows of columns creating geometric patterns, distant sounds of continued discussion in andron"
+    background: "household slaves quietly cleaning up from evening's symposium, occasional laughter from other guests"
+    atmosphere: "quiet moment of reflection and uncertainty after witnessing destruction of conventional moral assumptions"
+  composition:
+    cameraAngle: "wide shot showing solitary figure processing philosophical implications"
+    focus: "young aristocrat grappling with questions about justice that Socrates has raised but not answered"
+    depth: "contemplative figure in foreground, peaceful courtyard in middle ground, household activity in background"

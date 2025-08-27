@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Human Machinery"
+  setting:
+    time: "1911, dawn"
+    location: "Rice threshing ground outside Weizhuang village during harvest season"
+    weather: "Morning mist creating ethereal atmosphere around labor"
+  characters:
+    - appearance: "Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny ringworm scars on scalp that turn scarlet red when angry or humiliated"
+      clothing: "Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven cloth typical of rural laborers"
+      position: "Working alongside other laborers in precise formation"
+      action: "Beating rice bundles with wooden flails in mechanical rhythm, sweat mixing with chaff dust, movements synchronized with others like machine parts"
+    - appearance: "Multiple laborers with identical postures and movements, faces obscured by dust and exhaustion"
+      clothing: "Similar ragged work clothes, all in various stages of wear and repair"
+      position: "Arranged in geometric pattern around threshing floor"
+      action: "Moving in perfect unison, each stroke timed to collective rhythm, individuality subsumed into mechanical function"
+  scene:
+    mainElements: "Large circular threshing floor with geometric arrangement of workers. Piles of rice sheaves, wooden flails moving in synchronized patterns, clouds of golden chaff filling air like industrial smoke"
+    details: "Worn wooden tools polished smooth by countless hands, bodies bent at identical angles, faces blank with exhaustion and repetition. The human form reduced to its purely functional components"
+    background: "Overseer with counting beads tracking productivity, walls of rice bundles awaiting processing, suggesting endless cycle of labor"
+    atmosphere: "Dehumanizing transformation of people into production units. The beauty of collective work perverted into mechanical exploitation. Individual consciousness dissolved into group function, creating eerie harmony that masks human cost"
+  composition:
+    cameraAngle: "Overhead view emphasizing the geometric pattern and mechanical nature of human labor"
+    focus: "The synchronized movements that reveal humans functioning as interchangeable machine components"
+    depth: "Foreground shows individual laborers losing identity in collective motion, middle ground captures the mechanical rhythm of production, background reveals the overseer monitoring human productivity like machine efficiency"

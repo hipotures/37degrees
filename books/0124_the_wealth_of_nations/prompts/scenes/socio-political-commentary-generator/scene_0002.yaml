@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Propaganda of National Wealth"
+  setting:
+    time: "1776, afternoon golden light"
+    location: "Public square in London with monument to British commerce"
+    weather: "Bright autumn day with golden sunlight"
+  characters:
+    - appearance: "Well-dressed citizens in Georgian attire, mix of merchants and middle class, looking prosperous and confident"
+      clothing: "Quality wool coats in dark colors, tricorn hats, respectable middle-class dress of the era"
+      position: "gathered around imposing statue celebrating British trade"
+      action: "admiring monument while discussing business prospects with animated gestures"
+  scene:
+    mainElements: "Large bronze statue depicting allegorical figures of British Commerce and Industry, holding symbols of trade and manufacturing, surrounded by carved representations of colonial goods and ships, pedestal inscribed with tribute to national prosperity"
+    details: "Monument base shows relief carvings of sugar barrels, tobacco leaves, tea chests, and manufactured goods, representing colonial trade wealth. Inscription reads tribute to British commercial supremacy. Well-dressed merchants and their families stand admiring, some children playing nearby, suggesting general prosperity and confidence in the system"
+    background: "Elegant Georgian town houses surrounding square, other monuments visible, busy but orderly urban scene suggesting stable commercial society"
+    atmosphere: "Public celebration of commercial success, confidence in British economic system, sense of national pride in mercantile achievements masking underlying problems"
+  composition:
+    cameraAngle: "Medium shot capturing both monument and admiring citizens"
+    focus: "Bronze statue celebrating commerce with approving citizens gathered around base"
+    depth: "Monument dominates middle ground with citizens in foreground, Georgian architecture frames background"

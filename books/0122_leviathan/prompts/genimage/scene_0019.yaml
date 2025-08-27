@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, pre-dawn clandestine meeting
+    location: Hidden basement or secret room in London, location for forbidden intellectual activity
+    weather: Interior candlelight creating dramatic shadows
+  characters:
+  - appearance: Man around 60 years old, 175cm tall, gaunt build, face twisted with fanatic passion or shrouded in conspiratorial
+      cunning
+    clothing: Rich Catholic vestments, academic scholar robes, or austere Puritan black - representing authority separate
+      from Sovereign
+    position: Standing in defiant pose or lurking in shadows, representing challenge to unified authority
+    action: Holding religious text or philosophical manuscript, preaching or whispering seditious doctrines
+  scene:
+    mainElements: Two figures secretly exchanging forbidden books or manuscripts, hidden in basement or cellar space, surrounded
+      by concealed texts and documents, working by minimal candlelight
+    details: Hands carefully passing prohibited texts, nervous expressions showing fear of discovery, stacks of forbidden
+      books hidden under covers, candles providing minimal lighting. Books showing signs of hidden circulation and careful
+      preservation. Simple clay pipes set aside during urgent work.
+    background: Underground space with stone walls, concealed entrance, storage areas for hidden materials, minimal furnishing
+      suggesting temporary hiding place
+    atmosphere: Intellectual conspiracy and dangerous knowledge sharing, whispered conversations, constant fear of state discovery
+      and punishment
+  composition:
+    cameraAngle: Close-up emphasizing the secretive nature of forbidden knowledge exchange
+    focus: The dangerous preservation and transmission of prohibited ideas
+    depth: Foreground shows hands exchanging books, middle displays hidden gathering space, background suggests concealment
+      from state authority
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

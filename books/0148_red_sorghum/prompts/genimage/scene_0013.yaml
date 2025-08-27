@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1924 autumn, evening
+    location: Underground wine storage cellar, Shan distillery, Northeast Gaomi District
+    weather: Stable underground temperature, insulated from surface conditions
+  characters:
+  - appearance: Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion
+      with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms
+    clothing: Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan
+      suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)
+    position: Standing among rows of aging wine vessels
+    action: Breathing deeply while examining fermentation progress, nostalgic expression
+  scene:
+    mainElements: Large earthenware vessels used in distillery for fermentation and aging of sorghum wine, underground storage
+      area with traditional ceramic craftsmanship
+    details: Ancient ceramic vessels with visible condensation suggesting internal fermentation, moisture beading on clay
+      surfaces, wooden shelving aged dark from decades of use, dust particles floating in single shaft of light from above,
+      cobwebs in corners undisturbed for seasons, man's facial expression showing deep inhalation and memory recognition,
+      thick atmosphere visible as slight haze, traditional distillery tools darkened with age and use, no text or letters
+      visible
+    background: Stone walls and wooden beams creating underground chamber, rows of aging vessels extending into darkness
+    atmosphere: Deep ancestral memory triggered by invisible scents, tradition and craftsmanship made tangible through environmental
+      age, connection to past generations through sensory experience
+  composition:
+    cameraAngle: Medium shot in atmospheric underground setting
+    focus: Figure's nostalgic expression and visible atmospheric conditions
+    depth: Foreground shows figure breathing deeply, middle ground reveals aging vessels, background suggests chamber depth
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

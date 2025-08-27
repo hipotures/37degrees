@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1898 afternoon during actual patient session
+    location: Treatment room connected to study at Berggasse 19, Vienna, viewed from multiple perspectives simultaneously
+    weather: Afternoon light through windows showing realistic lighting conditions
+  characters:
+  - appearance: Woman around 30 years old, intelligent and attractive face with serious expression, dark hair arranged in
+      elaborate updo typical of 1890s, after February 1895 shows visible disfigurement with collapsed left side of face
+    clothing: Elegant but modest bourgeois dress with high collar, long sleeves with puffy shoulders, dark colors, long skirt
+      to floor
+    position: Seated in chair facing away from analyst or lying on analytical couch
+    action: Speaking hesitantly while touching handkerchief to face, or resisting examination
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Seated behind mahogany desk or in leather armchair positioned behind analytical couch
+    action: Writing notes with fountain pen while holding cigar, or listening intently with fingers steepled
+  scene:
+    mainElements: Consultation session revealed from multiple viewpoints showing what each participant actually sees - patient's
+      limited view of ceiling and wall, analyst's view of patient's profile, external observer's view of two people in conversation
+    details: 'The famous analytical couch covered entirely with thick patterned Persian rug and plush cushions, matching carpet
+      hung on wall behind couch, analyst''s leather chair positioned out of patient''s sight, glass display cases containing
+      ancient artifacts. From patient''s position: ceiling molding details and wall tapestry visible. From analyst''s position:
+      patient''s profile and body language observable. From doorway: two people in conversation with formal professional distance
+      maintained.'
+    background: Intimate sacred space for revealing secrets, warm Oriental textiles creating cave-like environment, afternoon
+      light filtered through heavy curtains, air thick with tobacco smoke and ceramic humidifier moisture
+    atmosphere: Standard professional consultation showing actual spatial relationships and normal therapeutic conversation
+      without mystical interpretation, revealing practical aspects of analytical setup, no text or letters visible
+  composition:
+    cameraAngle: Split perspective showing scene from patient's, analyst's, and neutral observer's viewpoints simultaneously
+    focus: Actual physical arrangement revealing what each person can and cannot see during session
+    depth: Multiple depth planes showing how same room appears different from various positions within space
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

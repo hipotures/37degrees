@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lucky's Monologue - Destruction of Language"
+  setting:
+    time: "Mid-20th century, evening"
+    location: "Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Age indeterminate but appears old and exhausted by life. Physically broken, posture hunched under weight of baggage he carries. Long, probably gray hair falls across his face. Visible painful wound on neck from the rope. Most of the time his face lacks expression, eyes empty and absent, comes alive only during his monologue when his face contorts with effort and eyes flash with madness."
+      clothing: "Servant's or porter's attire, possibly some form of livery, but dirty and torn. Wears a battered bowler hat."
+      position: "Bent double under the weight of luggage, connected to Pozzo by a rope around his neck"
+      action: "Carrying heavy bags, suitcase, folding stool, and picnic basket for Pozzo, performing degrading acts on command, delivering chaotic intellectual monologue when hat is placed on his head"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "Extreme close-up on Lucky's face during his chaotic intellectual monologue. Black bowler hats worn by all male characters, dusty and maintaining their shape despite wear. Vladimir's hat becomes obsessive focus - he removes it, peers inside, dusts it off, replaces it repeatedly, symbolizing his mental preoccupation and attempt to maintain dignity placed on his head has triggered this torrential outpouring. His face contorts with effort and eyes flash with madness as fragments of academic discourse tumble out incoherently."
+    background: "The world becomes a blur behind his speaking face, as if his words are breaking down the very structure of reality."
+    atmosphere: "The static world explodes into verbal chaos, showing how accumulated knowledge can become meaningless babble when divorced from human context."
+  composition:
+    cameraAngle: "Extreme close-up on Lucky's face during speech"
+    focus: "The transformation from empty vessel to overflowing fountain of broken language"
+    depth: "Foreground: Lucky's face in intense detail; Background: world blurring as language breaks down"

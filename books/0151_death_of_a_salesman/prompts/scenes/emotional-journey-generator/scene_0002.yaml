@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Domestic Sanctuary - Gentle Refuge from the World's Weight"
+  setting:
+    time: "1949, evening"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "evening settling into night"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "sitting at kitchen table, leaning forward slightly with hands folded"
+      action: "quietly darning silk stockings by lamplight, careful precise movements showing years of practice making do"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, warm domestic setting despite modest circumstances"
+    details: "women's silk stockings, some with careful darning and mending representing Linda's frugality, others new representing Willy's gifts to his mistress, symbol of betrayal and family financial struggle. Single lamp casting warm circle of light over careful handiwork. Third chair at table remains empty, suggesting absent family member."
+    background: "kitchen cabinets with worn paint showing years of use, stairs ascending to upper floor where family sleeps, doorway leading to darkened living room"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, peaceful yet melancholic mood of woman maintaining home despite struggles"
+  composition:
+    cameraAngle: "medium shot from across table, creating intimate domestic view"
+    focus: "woman's careful hands working with needle and stocking in circle of lamplight"
+    depth: "foreground shows detailed needlework, middle ground centers on caring figure, background reveals modest kitchen extending into shadows of larger house"

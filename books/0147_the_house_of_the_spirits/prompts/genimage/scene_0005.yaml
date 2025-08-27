@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1930 to 1973, spanning forty-three years of use and meaning
+    location: riverside spot near Tres Marías estate where clandestine meetings occurred
+    weather: consistent golden sunset light emphasizing object's journey through time
+  characters:
+  - appearance: man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders,
+      most distinctive feature is mutilated right hand missing three fingers from violent punishment
+    clothing: simple peasant work clothes - rough cotton shirts, patched trousers, sometimes traditional poncho, occasionally
+      disguises as priest or vagrant
+    position: seated cross-legged on riverbank, cradling guitar with reverent care
+    action: playing acoustic guitar with damaged hand clearly visible, singing songs that evolve from love ballads to revolutionary
+      anthems
+  scene:
+    mainElements: single acoustic guitar shown across four decades of transformation - pristine new instrument becoming weathered
+      revolutionary symbol, wood darkening and gaining character, strings replaced countless times, surface acquiring scratches
+      and stains from outdoor performances and political meetings
+    details: guitar serves as temporal anchor showing progression from simple love songs to powerful protest anthems, instrument
+      bears witness to secret romantic meetings, peasant rebellions, political rallies, and underground resistance, wear patterns
+      tell story of decades of passionate use, no text or letters visible
+    background: same riverside location remains constant while background subtly changes - Tres Marías evolving from traditional
+      hacienda to site of peasant uprisings, distant sounds shift from rural tranquility to political unrest
+    atmosphere: nostalgic continuity of musical tradition transforming into revolutionary urgency, golden light emphasizes
+      guitar's evolution from personal expression to political weapon, Pedro's hands age and become more scarred but maintain
+      gentle touch with instrument
+  composition:
+    cameraAngle: close-up intimate view emphasizing guitar's worn surfaces and Pedro's damaged hands
+    focus: central emphasis on instrument as witness to personal and political transformation
+    depth: foreground shows detailed guitar wear patterns, middle ground captures Pedro's evolving face and hands, background
+      reveals changing political landscape
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1898 morning during respectable business hours
+    location: Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, representing established order
+    weather: Clear bright morning with sharp shadows
+  characters:
+  - appearance: Multiple well-dressed Viennese citizens, medical colleagues, and bourgeois families
+    clothing: Formal Victorian attire appropriate to social status - top hats, tailcoats, elegant dresses
+    position: Moving in orderly fashion along established routes to respectable destinations
+    action: Conducting proper business, maintaining social proprieties, avoiding unseemly discussions
+  scene:
+    mainElements: Ringstrasse architecture perceived as symbol of established civilization and rational order that must be
+      protected from disturbing psychological theories that threaten social stability
+    details: Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses,
+      gas street lamps, elegant shop windows, coffee house terraces. The grand buildings represent triumph of civilization
+      over primitive instincts. Orderly traffic flows show proper social organization. Respectable citizens conduct themselves
+      with dignity appropriate to their station. Everything appears clean, moral, and rationally organized.
+    background: Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity
+      and emerging political anxieties, ordered facades concealing cultural nervousness
+    atmosphere: Pride in civilized achievement and fear that psychological speculation threatens social fabric, established
+      order feeling precious and fragile, need to protect decent society from dangerous ideas about unconscious desires, no
+      text or letters visible
+  composition:
+    cameraAngle: Elevated perspective from established institutional building, looking down on well-ordered society
+    focus: Harmonious flow of respectable citizens conducting proper business in civilized environment
+    depth: 'Foreground: symbols of institutional authority and social order, Middle: citizens maintaining proper decorum,
+      Background: monuments to civilized achievement and rational progress'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

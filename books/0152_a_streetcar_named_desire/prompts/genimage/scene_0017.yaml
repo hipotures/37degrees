@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in September
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Oppressive late summer heat, stifling indoor air
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Carefully chosen dress for birthday celebration, now appearing tragic and inappropriate
+    position: Seated at makeshift birthday table, isolated and abandoned
+    action: Staring in horror at cruel 'gift' while birthday preparations mock her devastation
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Clean shirt for occasion, but demeanor celebratory in cruel way
+    position: Standing triumphantly beside table, enjoying victim's shock
+    action: Presenting devastating 'gift' with mock ceremony and obvious satisfaction
+  scene:
+    mainElements: One-way Greyhound bus ticket back to Laurel, Mississippi, that Stanley cruelly gives Blanche as birthday
+      present, representing her exile and defeat
+    details: Birthday cake with unlit candles creating bitter irony. Table set for celebration now scene of humiliation. Bus
+      ticket lying opened showing one-way destination away from hope. Paper lantern casting mockingly gentle light on harsh
+      reality. Woman's face frozen in shock and despair. No text or letters visible
+    background: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling with
+      green glass shade over dining area. Portières instead of solid doors to bedroom
+    atmosphere: Celebration perverted into exile ceremony. Cruel triumph of masculine power over feminine vulnerability. Birthday
+      marking end rather than beginning. Complete isolation and abandonment
+  composition:
+    cameraAngle: Medium shot emphasizing contrast between celebration setting and cruel reality
+    focus: Devastating bus ticket and victim's horrified reaction
+    depth: 'Foreground: cruel ''gift'' and shocked victim; middle ground: mock celebration setting; background: inescapable
+      apartment prison'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

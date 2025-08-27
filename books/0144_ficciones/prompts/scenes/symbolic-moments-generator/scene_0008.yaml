@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Clock That Measures Eternity"
+  setting:
+    time: "1939 Prague, moment before execution"
+    location: "Nazi execution courtyard in Prague fortress, surrounded by ancient stone walls"
+    weather: "Gray morning with light rain falling"
+  characters:
+    - appearance: "Jewish intellectual in his 40s, medium build with scholarly bearing, wearing simple prison garments, face showing mixture of fear and intellectual concentration"
+      clothing: "Plain gray prison uniform, worn leather shoes, no personal effects or jewelry"
+      position: "Standing against execution wall, facing firing squad but eyes fixed on clock tower"
+      action: "Watching clock face intently as time freezes at moment of divine intervention"
+  scene:
+    mainElements: "Large medieval clock tower dominates courtyard, clock face showing hands frozen at exact moment of supposed death, rain droplets suspended motionless in air like crystal beads, single raindrop on prisoner's cheek stopped in time, world become perfect still photograph"
+    details: "Clock transforms from time-keeper to symbol of divine mercy, its stopped hands marking boundary between mortal time and eternal consciousness. Frozen rain creates crystalline sculpture of moment, each suspended drop catching light like diamonds. Clock face becomes mandala of stopped time where one second expands to contain entire year of creative work"
+    background: "Medieval fortress courtyard with high stone walls, execution squad with rifles raised, Nazi officers waiting, cobblestone ground reflecting gray sky"
+    atmosphere: "Sacred suspension of natural law, divine intervention made manifest through stopped time, profound silence of world holding its breath, miracle hidden within tragic moment, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on prisoner with clock tower prominent above"
+    focus: "The stopped clock face with suspended raindrops creating magical realism"
+    depth: "Prisoner's intense gaze in foreground, frozen clock and suspended rain in middle ground, motionless execution scene in background"

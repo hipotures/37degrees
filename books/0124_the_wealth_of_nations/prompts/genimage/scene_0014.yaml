@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1776, afternoon lesson time
+    location: Simple schoolroom in working-class district
+    weather: Dim indoor light from small windows
+  characters:
+  - appearance: Working-class children of various ages, dressed in simple patched clothing, sitting rigidly at wooden benches
+    clothing: Simple wool and linen garments appropriate to poor families, patched and mended, showing economic constraints
+    position: sitting in straight rows at wooden desks, all maintaining identical posture
+    action: reciting lessons in unison, performing identical hand gestures, copying same exercises exactly
+  scene:
+    mainElements: Simple wooden schoolroom with children arranged in rigid rows at plain wooden desks, schoolmaster at front
+      with pointer and slate, all children performing identical actions simultaneously
+    details: Children sit at uniform wooden benches performing identical motions in perfect synchronization. All copy same
+      lesson from slate board with identical penmanship. Teacher uses pointer to ensure uniform attention. Room shows minimal
+      decoration, emphasizing functional education rather than creative development
+    background: Simple schoolroom with bare walls, few books, basic educational materials suggesting limited resources for
+      working-class education
+    atmosphere: Educational conformity suppressing individual creativity, children trained for obedience rather than independent
+      thought, preparation for future role as obedient workers
+  composition:
+    cameraAngle: Medium shot showing rows of identical student behavior
+    focus: Children performing identical actions in unison, emphasizing educational conformity
+    depth: Student desks and uniform behavior in foreground, teacher with authority in middle ground, bare classroom in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

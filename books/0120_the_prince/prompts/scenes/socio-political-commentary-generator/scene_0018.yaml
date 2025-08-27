@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hidden Manuscript - Secret Knowledge and Forbidden Truth"
+  setting:
+    time: "1513, midnight secrecy"
+    location: "Modest room in rural house in Sant'Andrea in Percussina, south of Florence. Simple chamber in family estate where Machiavelli lives in political exile."
+    weather: "Dark night with single candle illumination"
+  characters:
+    - appearance: "44 year old lean man with high forehead, receding hair, thin lips, and penetrating, intelligent gaze reflecting years of political experience and observation."
+      clothing: "Simple, coarse rural clothing, dirty with mud and dust during day. In evening study, symbolic 'royal and courtly robes' representing intellectual transformation."
+      position: "Seated at simple wooden desk with books and manuscripts"
+      action: "Writing dangerous truths about power that cannot be spoken publicly"
+  scene:
+    mainElements: "Stone floor, whitewashed walls. Simple wooden desk and chair. Bookshelves full of books - only luxury in room. Single candle or oil lamp providing illumination during evening work sessions."
+    details: "Modest leather-bound manuscript, simple binding contrasting with luxury of Medici palace. Written on thick, handmade paper with cream, uneven tone. Printed in classic Renaissance font - antique or italic creating dense text blocks. Symbol of knowledge, strategy, and desperate attempt to regain political favor."
+    background: "Place of intellectual asylum and desperate work. Contrast between poverty of surroundings and richness of thought. Evening transformation from daytime rural drudgery to nighttime scholarly communion with ancient minds."
+    atmosphere: "Dangerous knowledge being preserved despite political persecution. Truth-telling as act of rebellion against official lies."
+  composition:
+    cameraAngle: "Close-up on manuscript creation as act of resistance"
+    focus: "Writing truth as form of political rebellion"
+    depth: "Foreground shows detailed manuscript work, middle ground reveals Machiavelli's concentration, background displays humble surroundings concealing profound insights"

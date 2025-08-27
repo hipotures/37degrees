@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1624 spring morning, moments of apparent prosperity
+    location: Empty muddy military road through war-torn Central European countryside during Thirty Years War
+    weather: Brief moment when spring sun breaks through clouds
+  characters:
+  - appearance: Woman aged 40-52, medium height, stocky robust build with wiry resilient frame, weather-beaten face deeply
+      lined with wrinkles, sharp calculating eyes, graying hair practically pinned up often hidden under headscarf
+    clothing: Multi-layered worn peasant clothing in earth tones, thick brown wool skirt, linen shirt, fitted bodice, work
+      apron, heavy cloak or shawl, patched and stained but functional garments
+    position: Standing beside or pulling the covered wagon, hands often counting coins or handling merchandise
+    action: Conducting business transactions, counting money, negotiating prices, or maintaining her wagon and goods
+  - appearance: Strong well-built young man aged 20-32, tall with broad chest and solid leg muscles, bold impetuous face expressing
+      arrogance and bravado
+    clothing: Initially simple peasant clothes, later mercenary outfit with leather jerkin, breeches and tall boots, progressively
+      better quality garments from war spoils
+    position: Standing in confident aggressive stance or performing violent demonstrations
+    action: Displaying martial prowess, performing wild war dance with knife, or engaging in brutal military actions
+  - appearance: Young man aged 18-21, medium build less physically imposing than his brother, honest straightforward face
+      with naive expression
+    clothing: Simple peasant clothing, later plain military uniform as regimental paymaster with distinguishing colored jacket
+      or sash
+    position: Standing calmly with composed posture or carefully handling the heavy metal regimental cashbox
+    action: Performing honest administrative duties, counting regimental funds, or attempting to hide the military cashbox
+  - appearance: Mute young woman aged 16-28, expressive eyes and gestures compensating for inability to speak
+    clothing: Simplest most modest garments in the family, plain dark dress, work apron, headscarf, occasionally trying on
+      Yvette's flashy red boots
+    position: Often positioned near the wagon or children, communicating through gestures and facial expressions
+    action: Caring for children, performing domestic tasks, communicating through expressive gestures
+  scene:
+    mainElements: Large four-wheeled wooden merchant wagon covered with canvas canopy, filled with military supplies and household
+      goods for sale to soldiers, serves as both shop and home for the family, represents both livelihood and curse that leads
+      to children's deaths
+    details: Family arranged in idealized composition suggesting prosperity and unity, wagon loaded with goods appearing successful,
+      children strong and healthy pulling wagon like draft animals, momentary illusion of war as profitable enterprise
+    background: Road stretching toward imagined profitable future, suggesting endless opportunity for military commerce
+    atmosphere: False optimism and dangerous illusions about war profiteering, temporary moment before reality intrudes, seductive
+      promise of capitalizing on conflict
+  composition:
+    cameraAngle: Medium group shot presenting family as united successful enterprise
+    focus: Illusion of prosperity through war commerce, family as functioning business unit
+    depth: Foreground shows idealized family arrangement, middle ground loaded wagon suggesting wealth, background promising
+      road to success
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

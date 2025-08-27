@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1890s physical prime transforming into 1928 spiritual authority
+    location: Heart of Compson household, Dilsey's domain representing warmth and order in contrast to rest of house
+    weather: Indoor morning light streaming through kitchen window across three decades
+  characters:
+  - appearance: Elderly black female, once large woman now her skeleton rises loosely draped in skin without padding that
+      stretches tight again over nearly swollen abdomen, face is countless and sunken, moves slowly but surely, described
+      as indomitable skeleton and ruin or landmark of family
+    clothing: 'Daily wear: simple blue percale dress; Easter attire: royal but worn outfit consisting of maroon velvet cape
+      with lining of faded anonymous fur, purple silk dress, stiff black straw hat perched on turban, dirty white elbow-length
+      gloves'
+    position: Steady deliberate movements showing dignity despite age, stands as moral backbone of household
+    action: Practical household tasks, caring for family members with patient endurance, maintaining order and moral strength
+  scene:
+    mainElements: Large wood-burning stove, simple wooden table, basic functional furniture, scents of cooked food serving
+      as temporal constant while central figure transforms from physical power to spiritual authority
+    details: 'Double exposure showing Dilsey at kitchen table across thirty years: left side reveals younger woman in 1890s,
+      large-framed and physically powerful, kneading bread with strong arms, face unlined but determined, wearing simple work
+      dress, surrounded by signs of busy household - multiple pots steaming, children''s plates set out, abundant food preparation.
+      Right side shows 1928 reality: same woman now gaunt but dignified, skeleton loosely draped in aged skin, moves slowly
+      but deliberately, wearing blue percale dress, face countless and sunken but emanating moral strength, preparing simpler
+      meal for reduced family no text or letters visible'
+    background: Same kitchen architecture showing wear - wooden table more scarred from decades of use, stove showing rust
+      spots, window glass hazier, but essential warmth and order maintained
+    atmosphere: Powerful visualization of how physical strength transforms into spiritual authority, showing endurance that
+      transcends bodily decay through unwavering moral purpose
+  composition:
+    cameraAngle: Medium shot from across kitchen table showing full figure transformation
+    focus: Dilsey's hands at work - strong young hands overlapping with aged but steady elderly hands at same table
+    depth: 'Foreground: kitchen table scarred by decades of service; middle ground: figure showing temporal transformation
+      from physical to spiritual strength; background: constant kitchen environment representing stability amid family chaos'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

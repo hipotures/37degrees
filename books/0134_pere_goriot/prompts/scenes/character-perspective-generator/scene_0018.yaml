@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Multiple Angles: Goriot's Sacrifice Revealed"
+  setting:
+    time: "1819, afternoon"
+    location: "Goriot's attic room viewed from multiple physical positions simultaneously"
+    weather: "Gray afternoon light revealing details hidden from single viewpoints"
+  characters:
+    - appearance: "Jean Joachim Goriot"
+      age: "69 years old"
+      appearance: "Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale, worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive facial expression that shows his simple, honest nature."
+      hair: "Originally powdered daily by barber, now thin and unkempt grey hair"
+      clothing: "Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts, broken shoes - each piece reflecting his progressive financial decline"
+      posture: "Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated slouch. In final scenes, spasmatic movements as he clutches golden locket to chest"
+      position: "Sitting on bed counting remaining coins"
+      action: "Calculating how much he can send to daughters while hiding receipts for sold possessions"
+  scene:
+    mainElements: "Multiple viewing angles simultaneously reveal what single perspectives miss - hidden receipts for pawned silverware visible from floor level, daughters' demanding letters concealed under pillow visible from above, remaining valuables secretly cached behind loose floorboard visible from side angle."
+    details: "Different physical positions reveal complete truth - from doorway shows public dignity, from window reveals private tears, from floor level exposes hidden poverty, from above shows strategic concealment of financial documents, from behind shows physical deterioration hidden from frontal view."
+    background: "Room's actual contents and hidden storage spaces revealed only through combination of multiple viewing angles"
+    atmosphere: "Complete revelation of truth impossible to see from any single position, requiring multiple perspectives to understand full reality"
+  composition:
+    cameraAngle: "Composite view combining simultaneous perspectives from doorway, window, floor, ceiling, and behind subject"
+    focus: "Integration of multiple viewing angles revealing complete truth hidden from individual perspectives"
+    depth: "Layered revelation showing how different positions reveal different aspects of same reality, creating complete picture impossible from single viewpoint, no text or letters visible"

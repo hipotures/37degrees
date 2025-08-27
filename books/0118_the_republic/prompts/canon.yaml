@@ -1,0 +1,162 @@
+canon:
+  characters:
+    - id: "socrates"
+      name: "Socrates"
+      description_block: |
+        characters:
+          - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+            clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+            posture: "upright and alert, hands animated during discussion, direct eye contact that contrasts with his humble appearance"
+    - id: "kefalos"
+      name: "Kefalos"
+      description_block: |
+        characters:
+          - appearance: "very elderly man with white hair and beard, weathered face showing wisdom and contentment of age"
+            clothing: "fine woolen himation befitting wealthy metojk, ceremonial wreath on head from recent sacrifice"
+            posture: "seated regally on cushioned chair, slow deliberate movements, hands resting peacefully"
+    - id: "polemarch"
+      name: "Polemarch"
+      description_block: |
+        characters:
+          - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+            clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+            posture: "animated and eager, leaning forward in conversation, quick gestures when speaking"
+    - id: "trasymach"
+      name: "Trasymach"
+      description_block: |
+        characters:
+          - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+            clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+            posture: "aggressive stance, theatrical movements, finger pointing during arguments, dominates physical space"
+    - id: "glaukon"
+      name: "Glaukon"
+      description_block: |
+        characters:
+          - appearance: "handsome aristocratic young man, athletic build from military service, intelligent eyes"
+            clothing: "refined himation and chiton indicating high social status, polished bronze accessories"
+            posture: "respectful but confident, thoughtful gestures, maintains dignity while engaging seriously"
+    - id: "adejmantos"
+      name: "Adejmantos"
+      description_block: |
+        characters:
+          - appearance: "slightly older than Glaukon, noble bearing, serious demeanor, well-groomed appearance"
+            clothing: "aristocratic dress with subtle elegance, quality fabrics in muted colors"
+            posture: "composed and reflective, measured movements, hands clasped when listening intently"
+    - id: "philosopher_king"
+      name: "Philosopher King"
+      description_block: |
+        characters:
+          - appearance: "mature ruler combining wisdom and authority, penetrating gaze suggesting deep contemplation"
+            clothing: "simple but dignified robes without ostentation, golden diadem as symbol of righteous rule"
+            posture: "balanced stance showing both humility and command, hands positioned to convey reasoned authority"
+    - id: "guardian_warrior"
+      name: "Guardian Warrior"
+      description_block: |
+        characters:
+          - appearance: "physically fit defender in prime of life, alert eyes, disciplined bearing"
+            clothing: "practical tunic for training, bronze armor for duty, simple military cloak"
+            posture: "ready stance balancing vigilance and restraint, controlled movements showing training"
+    - id: "cave_prisoner"
+      name: "Cave Prisoner"
+      description_block: |
+        characters:
+          - appearance: "human figure with pale skin from underground confinement, neck strained from forced position"
+            clothing: "simple worn garments suitable for imprisonment, chains around neck and legs"
+            posture: "immobilized facing wall, head unable to turn, body adapted to constraint"
+    - id: "liberated_prisoner"
+      name: "Liberated Prisoner"
+      description_block: |
+        characters:
+          - appearance: "same person as cave prisoner but with eyes squinting against bright light, expression of amazement and confusion"
+            clothing: "same worn garments but chains removed, clothing disheveled from struggle"
+            posture: "unsteady movement after long immobilization, hands shielding eyes, hesitant steps"
+    - id: "er_the_soldier"
+      name: "Er the Soldier"
+      description_block: |
+        characters:
+          - appearance: "dead warrior with battle wounds, peaceful expression despite fatal injuries"
+            clothing: "bloodied military gear and armor from final battle"
+            posture: "lying motionless on funeral pyre, body prepared for cremation but preserved for return"
+  locations:
+    - id: "piraeus_port"
+      name: "Piraeus Port"
+      description_block: |
+        setting:
+          location: "bustling port city 7 kilometers southwest of Athens, primary harbor of Athenian empire"
+        mainElements: "stone fortifications and Long Walls connecting to Athens, three natural harbors with warships and merchant vessels, crowded marketplaces with goods from across Mediterranean"
+        atmosphere: "cosmopolitan energy with mix of languages and cultures, smell of salt water and pine tar, sounds of commerce and shipbuilding"
+    - id: "kefalos_house_interior"
+      name: "Kefalos House Interior"
+      description_block: |
+        setting:
+          location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+        mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+        atmosphere: "warm intimate lighting from olive oil lamps casting dancing shadows, scent of wine and incense, civilized refinement of educated conversation"
+    - id: "ideal_city_kallipolis"
+      name: "Ideal City Kallipolis"
+      description_block: |
+        setting:
+          location: "perfectly planned city-state implementing philosophical principles of justice and harmony"
+        mainElements: "geometrically ordered streets, specialized districts for each class, communal facilities for guardians, educational institutions, temples to approved deities"
+        atmosphere: "serene efficiency and purposeful activity, clean lines and balanced proportions reflecting rational design, sense of collective harmony"
+    - id: "cave_interior"
+      name: "Cave Interior"
+      description_block: |
+        setting:
+          location: "vast underground chamber serving as metaphor for ignorance and illusion"
+        mainElements: "fire burning on elevated platform behind prisoners, wall screen where shadows are cast, chains securing prisoners in fixed positions, pathway for shadow-casters"
+        atmosphere: "dim smoky lighting with flickering firelight, echo of voices, oppressive confinement, mysterious shapes and movement"
+    - id: "outside_world_surface"
+      name: "Outside World Surface"
+      description_block: |
+        setting:
+          location: "bright natural world above the cave representing realm of true knowledge and forms"
+        mainElements: "brilliant sun illuminating landscape, real trees animals and objects casting natural shadows, clear sky and flowing water reflecting genuine reality"
+        atmosphere: "overwhelming brightness requiring gradual adjustment, fresh air and natural sounds, sense of authentic beauty and truth"
+    - id: "cosmic_realm"
+      name: "Cosmic Realm"
+      description_block: |
+        setting:
+          location: "celestial center of universe where souls encounter divine justice and cosmic order"
+        mainElements: "Spindle of Necessity with eight nested celestial spheres rotating at different speeds, judgment portals leading to heaven and underworld, meadow where souls gather"
+        atmosphere: "divine harmony of spheres creating cosmic music, ethereal light emanating from celestial mechanics, sense of eternal justice and predetermined order"
+    - id: "gymnasium_training_ground"
+      name: "Gymnasium Training Ground"
+      description_block: |
+        setting:
+          location: "open athletic facility in ideal state for physical and mental education of guardians"
+        mainElements: "sandy exercise areas for wrestling and running, stone colonnades providing shade, equipment for various physical training, areas for musical instruction"
+        atmosphere: "disciplined energy of systematic training, dust and sweat of physical exertion, sounds of instruction and coordinated movement"
+  items:
+    - id: "gyges_ring"
+      name: "Ring of Gyges"
+      description_block: |
+        details: "bronze ring of magical power discovered by shepherd in underground tomb, grants invisibility to wearer when turned inward on finger"
+    - id: "cave_fire"
+      name: "Cave Fire"
+      description_block: |
+        details: "flame burning on raised platform behind prisoners, only source of light in underground chamber, creates dancing shadows that prisoners mistake for reality"
+    - id: "shadow_objects"
+      name: "Shadow Objects"  
+      description_block: |
+        details: "carved figures of humans animals and tools carried by unseen puppeteers above wall, cast shadows that cave prisoners perceive as only reality"
+    - id: "philosopher_chains"
+      name: "Philosopher Chains"
+      description_block: |
+        details: "metal restraints around neck and legs preventing prisoners from turning head or moving freely, symbols of mental bondage to ignorance"
+    - id: "spindle_of_necessity"
+      name: "Spindle of Necessity"
+      description_block: |
+        details: "cosmic axis of brilliant rainbow light piercing center of universe, supporting eight nested spheres of different colors and speeds representing celestial bodies"
+    - id: "lots_of_life"
+      name: "Lots of Life"
+      description_block: |
+        details: "numbered tokens drawn by souls to determine order of choosing next incarnation, scattered on ground before patterns of possible lives"
+    - id: "life_patterns"
+      name: "Life Patterns"
+      description_block: |
+        details: "luminous representations of different possible lives spread before souls for selection, showing key moments and character of each potential existence"
+    - id: "lethe_waters"
+      name: "Waters of Lethe"
+      description_block: |
+        details: "river of forgetfulness flowing through barren plain under starless sky, erases memory of afterlife before souls return to mortal incarnation"

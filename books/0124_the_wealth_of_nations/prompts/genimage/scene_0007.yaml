@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1776, evening candlelight
+    location: Government printing office with presses and stacks of approved publications
+    weather: Indoor evening scene with warm candlelight
+  characters:
+  - appearance: Government censors in official dress, middle-aged men with stern expressions, holding stamped documents
+    clothing: Black wool suits with official insignia, white stocks, formal government attire appropriate to regulatory authority
+    position: examining printed materials at large wooden table covered with papers
+    action: stamping documents with official seals, reviewing texts, rejecting certain publications by setting them aside
+  scene:
+    mainElements: Large printing press with approved government publications, stacks of pamphlets and broadsides awaiting
+      approval, official censorship stamps and seals, rejected materials piled separately, candlelit work table covered with
+      documents under review
+    details: Censors systematically review printed materials, stamping approved items with official seals while setting aside
+      rejected works. Large printing press shows only government-approved materials being produced. Pile of rejected pamphlets
+      suggests restricted information flow. Official stamps and seals represent authority to control what citizens may read
+    background: Government printing office with multiple presses, stacks of approved official publications, other clerks working
+      at similar review processes
+    atmosphere: Systematic control over information, bureaucratic restriction of ideas, atmosphere of intellectual constraint
+      and regulated thought
+  composition:
+    cameraAngle: Medium shot focusing on censorship process
+    focus: Official stamping approved document while pile of rejected materials sits nearby
+    depth: Stamping action in foreground, review table in middle ground, printing press and stacked publications in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

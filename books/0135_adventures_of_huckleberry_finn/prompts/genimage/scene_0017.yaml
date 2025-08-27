@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1840s Arkansas, evening
+    location: Makeshift stage in rented hall before audience of townspeople
+    weather: Warm evening indoors
+  characters:
+  - appearance: Around 30 years old, lean and agile man. Sharp, cunning face with quick, darting eyes. Clean-shaven or small
+      mustache. Energetic, nervous movements.
+    clothing: Ridiculous costume attempt at Shakespearean actor. Mismatched theatrical garments, fake sword, absurd crown
+      or wig.
+    position: On improvised stage attempting dramatic pose
+    action: Badly reciting mangled Shakespeare while audience grows increasingly restless
+  - appearance: Around 70 years old, heavyset man with protruding belly. Balding head with gray side whiskers. Face capable
+      of false piety or righteous indignation as needed for schemes.
+    clothing: Equally absurd costume for Juliet or other female role despite his age and gender
+    position: Standing beside Duke on stage
+    action: Attempting theatrical performance with complete lack of skill or preparation
+  scene:
+    mainElements: Crude wooden stage with simple curtain backdrop, oil lamps for footlights, rows of wooden chairs filled
+      with increasingly hostile audience
+    details: Makeshift theatrical props, flickering lamp light casting dramatic shadows, collection basket for donations,
+      bottles and tin cans starting to appear in audience hands
+    background: Angry townspeople rising from chairs, exits blocked by confederates, windows showing night outside
+    atmosphere: Mounting tension as fraud becomes obvious, comic incompetence turning dangerous, rural audience's fury at
+      being swindled, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from audience perspective showing failing performance
+    focus: Ridiculous theatrical attempts contrasted with growing audience anger
+    depth: Crude stage and performers in foreground, hostile audience in middle, blocked exits in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

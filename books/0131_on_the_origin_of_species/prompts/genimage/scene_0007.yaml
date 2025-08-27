@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1842 construction to 1860s full cultivation, morning greenhouse light
+    location: Private estate garden in Downe village, Kent countryside, 20 kilometers southeast of London, England
+    weather: Cool English morning light filtered through glass panels
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: Inside greenhouse examining plants at different stages of garden development
+    action: Early Darwin planning empty greenhouse space overlaid with mature Darwin studying fully grown orchid specimens
+  scene:
+    mainElements: Glass greenhouse structure progressing from empty iron framework to lush tropical environment filled with
+      exotic specimens
+    details: Bare greenhouse frame with scattered building materials evolving into sophisticated growing environment with
+      graduated shelving systems, heating pipes, and humidity controls, empty soil beds becoming home to hundreds of orchid
+      varieties from around world, simple wooden benches transforming into specialized growing stations, single window thermometer
+      multiplying into comprehensive climate monitoring, construction tools replaced by scientific instruments and specimen
+      labels, morning condensation on glass connecting both time periods, no text or letters visible
+    background: English countryside garden visible through glass panels, showing seasonal cycles and oak trees growing taller
+      over years
+    atmosphere: Transformation from utilitarian construction project to scientific paradise, warm humid tropical environment
+      contrasting with cool English climate outside
+  composition:
+    cameraAngle: Interior view looking through greenhouse showing construction to cultivation
+    focus: The greenhouse interior as developing scientific laboratory
+    depth: 'Foreground: detailed plant specimens, middle: greenhouse infrastructure, background: garden view through glass'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

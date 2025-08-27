@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Eyes Everywhere"
+  setting:
+    time: "1911, evening"
+    location: "Public drinking establishment in Weizhuang, center of male social interaction and gossip"
+    weather: "Dim twilight requiring oil lamp illumination"
+  characters:
+    - appearance: "Various villagers in work clothes, some drinking, others listening intently"
+      clothing: "Simple indigo-dyed cotton garments, showing wear from daily labor"
+      position: "Clustered around rough wooden tables in shadowy corners"
+      action: "Speaking in hushed tones, frequently glancing toward door and windows, cutting conversations short when footsteps approach"
+    - appearance: "Tavern keeper with alert, watchful expression"
+      clothing: "Stained apron over simple shirt and pants"
+      position: "Behind counter, positioned to observe all conversations"
+      action: "Wiping cups while straining to overhear conversations, occasionally moving closer to specific groups"
+  scene:
+    mainElements: "Thick air from smoke, alcohol smell and sweat. Dim lighting from street entrance creates shadows in back. Multiple oil lamps casting flickering light and dancing shadows"
+    details: "Ears turned toward conversations, meaningful glances exchanged between patrons, abrupt silence when strangers enter. Paper talismans and official notices pasted on walls serve as reminders of authority even in this social space"
+    background: "Open front allows view of street where occasional official or constable passes by, causing visible tension among drinkers"
+    atmosphere: "Paranoid social environment where friendship is dangerous and trust is luxury. Even in their gathering place, villagers cannot escape the feeling of being monitored. Self-censorship has become so internalized it operates automatically"
+  composition:
+    cameraAngle: "Interior view capturing the web of suspicious glances and strained conversations"
+    focus: "The network of watching eyes - both the tavern keeper's surveillance and the patrons' mutual suspicion"
+    depth: "Foreground shows intimate conversations being monitored, middle ground captures the listening tavern keeper, background reveals the exposed connection to the surveilled street"

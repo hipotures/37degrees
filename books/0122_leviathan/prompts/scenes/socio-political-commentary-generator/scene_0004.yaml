@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Prosperous Peace - Citizens in Harmonious Commerce"
+  setting:
+    time: "1651, busy market day morning"
+    location: "London marketplace near Thames, organized commercial district under state regulation"
+    weather: "Pleasant spring day with gentle breeze"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Well-organized market stalls arranged in neat rows, merchants conducting orderly business, customers browsing goods peacefully, no signs of conflict or poverty"
+    details: "Abundant fresh produce displayed symmetrically, merchants weighing goods on balanced scales, customers paying with identical coins bearing state symbols. Simple white clay smoking pipes being sold alongside other goods. Heavy oak tables with pewter dishes visible in food stalls representing domestic prosperity."
+    background: "Neat Tudor buildings housing shops, church spire visible in distance, Thames River with organized shipping activity"
+    atmosphere: "Commercial prosperity and social contentment, sounds of polite bargaining, sense of economic stability under state protection"
+  composition:
+    cameraAngle: "Wide shot capturing the orderly marketplace activity"
+    focus: "The peaceful commercial interactions and visible prosperity"
+    depth: "Foreground shows detailed market transactions, middle shows organized stall layout, background reveals urban prosperity"

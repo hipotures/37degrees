@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1776, formal presentation day
+    location: Grand lecture hall in government building with official speakers
+    weather: Formal indoor lighting with candles and lanterns
+  characters:
+  - appearance: Government officials and established economists in formal dress, representing official economic doctrine
+    clothing: Black formal coats with white stocks, powdered wigs, official insignia representing authority
+    position: standing at raised podium before large audience
+    action: delivering formal lecture on benefits of mercantile system, gesturing toward charts showing imperial trade statistics
+  - appearance: Audience of merchants, officials, and educated citizens in formal attire
+    clothing: Respectable wool coats and formal dress appropriate to social position
+    position: seated in organized rows facing speaker with attentive expressions
+    action: listening respectfully to official doctrine, taking notes, nodding approval at appropriate moments
+  scene:
+    mainElements: Formal lecture hall with raised podium, official speakers presenting charts and diagrams supporting mercantile
+      theory, audience arranged in orderly rows, display boards showing trade statistics and imperial success
+    details: Official speaker presents elaborate charts showing benefits of colonial trade restrictions, protective tariffs,
+      and imperial control. Audience appears convinced by authoritative presentation of selective statistics. Visual displays
+      emphasize national wealth through control rather than free exchange
+    background: Formal institutional setting with portraits of monarchs and officials, suggesting governmental authority behind
+      economic doctrine
+    atmosphere: Systematic indoctrination through authoritative presentation, official economic doctrine presented as unquestionable
+      truth, audience accepting official interpretation without critical examination
+  composition:
+    cameraAngle: Wide shot showing authoritative speaker and receptive audience
+    focus: Official presenting selective economic data to convince audience of mercantile benefits
+    depth: Speaker and official charts prominent in foreground, attentive audience in middle ground, institutional authority
+      symbols in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

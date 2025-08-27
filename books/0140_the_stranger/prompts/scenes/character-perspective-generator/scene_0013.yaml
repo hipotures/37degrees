@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elder's View of Courtroom as Past Echo"
+  setting:
+    time: "1940, afternoon"
+    location: "French colonial justice building in Algiers with high-ceilinged formal courtroom"
+    weather: "Hot afternoon with dusty sunlight through tall windows"
+  characters:
+    - appearance: "Elderly man over 70 years old, stooped posture, reddish scabs on face, sparse yellow hair"
+      clothing: "Old, worn, somewhat disheveled clothing including faded vest and patched trousers"
+      position: "Standing hunched over, holding leather leash, looking down at ground"
+      action: "Muttering complaints while tugging leash, occasionally looking up with watery eyes"
+  scene:
+    mainElements: "Courtroom overlaid with memories of previous legal proceedings, current trial blending with echoes of past colonial justice"
+    details: "Salamano's weathered face seeing courtroom through decades of colonial legal system, prosecutor's arguments echoing previous cases where Europeans judged locals, wooden benches worn smooth by generations of observers. Shadows of past trials ghosting over current proceedings."
+    background: "Same colonial architecture that housed decades of similar trials, gallery filled with faces that blur between present attendees and memories of past spectators"
+    atmosphere: "Weary recognition of recurring patterns in colonial justice, present trial seen as inevitable repetition of systemic inequality, dusty afternoon light emphasizing passage of time"
+  composition:
+    cameraAngle: "Medium shot from Salamano's aged perspective viewing courtroom with historical weight"
+    focus: "Legal proceedings overlaid with transparent memories of similar past trials"
+    depth: "Foreground shows Salamano's gnarled hands remembering past injustices, middle ground shows current trial proceedings, background shows ghostly echoes of historical cases, no text or letters visible"

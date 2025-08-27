@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Communication Evolution - Letters to Radio to Underground Networks"
+  setting:
+    time: "1920 to 1973, technological progression across five decades"
+    location: "Big House communication center, same corner room adapted for different technologies"
+    weather: "consistent afternoon light showing technological rather than seasonal change"
+  characters:
+    - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+      clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+      position: "seated at writing desk composing lengthy letters by hand"
+      action: "writing spiritual correspondence to distant relatives using fountain pen and elaborate calligraphy"
+    - appearance: "man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and anger, graying hair, stern dark eyes that command respect and fear"
+      clothing: "impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding boots, wool vest, white cotton shirt"
+      position: "standing beside large wooden radio cabinet listening to political broadcasts"
+      action: "adjusting radio dials while absorbing news about European war and domestic political developments"
+    - appearance: "young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion"
+      clothing: "1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting political consciousness"
+      position: "crouched beside hidden shortwave radio equipment during curfew hours"
+      action: "receiving coded messages from underground resistance network while monitoring for military patrol sounds"
+  scene:
+    mainElements: "communication technology evolution in same room - Clara's handwritten letters and spiritual correspondence replaced by Esteban's political radio broadcasts replaced by Alba's clandestine resistance communications, showing progression from personal mysticism through public politics to underground survival"
+    details: "room artifacts transform across decades - elegant writing desk with ink wells and letter paper evolved to radio cabinet with vacuum tubes and speaker cloth evolved to hidden shortwave equipment with antenna wires, lighting changes from oil lamps to electric bulbs to battery-powered torches, no text or letters visible"
+    background: "window views show changing political climate - Clara's era of peaceful gardens replaced by Esteban's period of political rallies replaced by Alba's time of military patrols and curfew enforcement"
+    atmosphere: "technological progression parallels political transformation - Clara's mystical communication with spirits replaced by Esteban's connection to conservative politics replaced by Alba's dangerous contact with revolutionary resistance"
+  composition:
+    cameraAngle: "interior room view emphasizing technological evolution across time"
+    focus: "central attention on communication methods reflecting changing political needs"
+    depth: "foreground shows detailed communication equipment, middle ground captures users across generations, background reveals evolving external political context"

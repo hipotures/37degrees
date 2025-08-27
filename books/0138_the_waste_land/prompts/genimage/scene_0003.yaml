@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1922, morning
+    location: London Bridge spanning Thames River, massive stone construction with five solid arches designed by John Rennie
+      in 1831, early winter morning
+    weather: Dense brown fog of winter dawn limiting visibility, cold morning mist
+  characters:
+  - appearance: Ancient, androgynous figure with wrinkled female breasts on aged male frame, thin ascetic build, deeply lined
+      face bearing weight of centuries of wisdom and suffering, blind clouded eyes, long sparse gray hair
+    clothing: Simple rough cloth robes in neutral earth tones, gray and brown, timeless garments that suggest both antiquity
+      and universality
+    position: Standing motionless as passive observer
+    action: Witnessing scenes with supernatural awareness, remaining detached yet comprehending all
+  scene:
+    mainElements: Small wooden toy sailing ship lies broken on bridge stones, its mast snapped in half, tiny sails torn and
+      hanging like battle flags
+    details: The child's toy ship has been trampled by countless commuter feet, its hull cracked open revealing tiny wooden
+      figures that once represented crew members, now scattered and headless. One broken piece shows painted letters that
+      have worn away to illegible marks. The toy's bright red and blue paint has faded to dull browns, and muddy footprints
+      cover its surface. Despite being merely a plaything, it carries the weight of maritime dreams destroyed by urban reality.
+    background: Stone bridge structure with commuter crowd flowing like zombies toward financial district
+    atmosphere: Hellish monotonous oppression, complete alienation of urban masses, childhood innocence crushed underfoot
+      by modern mechanized existence, no text or letters visible
+  composition:
+    cameraAngle: Low angle close-up of broken toy with Tiresias's robed feet visible at edge of frame
+    focus: The crushed toy ship as symbol of destroyed dreams and innocence
+    depth: Broken toy ship in sharp foreground, Tiresias's ancient presence in middle ground, fog-shrouded bridge and crowd
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

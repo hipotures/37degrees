@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1760s, morning
+    location: School courtyard in Paris where children are trained in obedience and conformity to royal authority
+    weather: Clear morning with rigid discipline imposed on natural youthful energy
+  characters:
+  - appearance: Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public
+      affairs. Posture shows transformation from individual to member of political body
+    clothing: All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without
+      ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality
+    position: Arranged in perfect rows facing forward with identical posture and expression
+    action: Performing synchronized salutes to royal portrait, reciting identical phrases in perfect unison, showing no individual
+      personality or creative thinking
+  scene:
+    mainElements: Large portrait of king overlooking courtyard, children in matching uniforms standing at attention, instructor
+      with baton directing synchronized movements
+    details: Every child wears identical uniform, stands in identical position, makes identical gestures. No individual expression
+      or creativity permitted. Instructor uses military-style commands to control group movement
+    background: School building with barred windows, administrative offices monitoring compliance, punishment areas for nonconforming
+      students
+    atmosphere: Systematic destruction of individual creativity in favor of mass obedience, natural childhood curiosity suppressed
+      through regimentation, future citizens trained for unquestioning submission
+  composition:
+    cameraAngle: Wide shot emphasizing uniformity and suppression of individual difference
+    focus: Mass of identically dressed children performing synchronized obedience ritual
+    depth: Foreground shows details of uniform compliance, middle ground displays coordinated mass movement, background reveals
+      institutional control systems
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

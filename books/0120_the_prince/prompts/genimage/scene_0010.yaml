@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1513, dim afternoon light
+    location: City library and scribal workshops showing effects of intellectual control
+    weather: Overcast sky creating subdued, oppressive atmosphere
+  characters:
+  - appearance: Scholars and scribes working under supervision
+    clothing: Simple academic robes, ink-stained from careful work
+    position: Seated at writing desks with official monitors nearby
+    action: Carefully editing texts, removing dangerous passages, replacing forbidden ideas with approved alternatives
+  - appearance: Official censors and supervisors
+    clothing: Formal governmental or clerical attire indicating authority
+    position: Standing over workers, examining their output
+    action: Reviewing manuscripts for dangerous content, marking passages for removal
+  scene:
+    mainElements: Library shelves with visible gaps where books have been removed. Scribal workshops with piles of banned
+      manuscripts awaiting destruction. Official lists of prohibited ideas and authors.
+    details: Crossed-out text in manuscripts, burned book piles outside windows, scholars whispering furtively when supervisors
+      aren't listening. Official seals on approved texts contrasted with unmarked dangerous volumes being hidden.
+    background: Previously rich intellectual environment now controlled and diminished. Empty shelves, reduced activity, atmosphere
+      of intellectual fear.
+    atmosphere: Suppression of dangerous knowledge and ideas. Truth controlled by those in power, intellectual freedom sacrificed
+      to political stability.
+  composition:
+    cameraAngle: Medium shot showing both censors and censored working in same space
+    focus: Process of intellectual control and manipulation of truth
+    depth: Foreground shows detailed censorship work, middle ground reveals supervised scholars, background displays depleted
+      library shelves
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

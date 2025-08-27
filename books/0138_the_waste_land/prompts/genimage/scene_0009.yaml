@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1922, day and night simultaneously
+    location: Split scene showing both grand library and street fire, representing dual contexts of knowledge
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single leather-bound book exists in two places at once - pristinely shelved in elegant library on left,
+      burning in street fire on right
+    details: In the library setting, the book stands perfectly preserved among countless volumes, its leather binding rich
+      brown, gold lettering crisp and readable, spine uncracked and pages pristine white, representing preserved knowledge
+      and culture. Simultaneously, the identical book burns in a street fire among debris, its pages curling and blackening,
+      words disappearing in smoke and flame, binding cracking from heat, representing the destruction of civilization and
+      learning. Both versions are equally real and present.
+    background: Left side shows mahogany shelves extending upward filled with volumes, reading lamp casting warm light; right
+      side shows urban street with rubble and smoke rising against dark sky
+    atmosphere: Profound meditation on the dual nature of knowledge - its potential for preservation and its vulnerability
+      to destruction, tension between civilization and chaos, no text or letters visible
+  composition:
+    cameraAngle: Split screen composition with sharp vertical division down center
+    focus: The same book existing in preservation and destruction simultaneously
+    depth: Book in both states occupying foreground, library shelves and street debris extending into respective backgrounds
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

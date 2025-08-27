@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eternal Sunset Silhouette - Fisherman's Daily Return"
+  setting:
+    time: "Every evening at sunset across multiple seasons and years"
+    location: "Seine riverbank near Combray with wooden dock and fishing spot"
+    weather: "Consistent evening light across different seasons: spring rain, summer heat, autumn mist, winter cold"
+  characters:
+    - appearance: "Same elderly fisherman across all seasons and years, silhouette constant but details showing seasonal and annual changes"
+      clothing: "Seasonal adaptation: light shirt to heavy coat, consistent fishing hat and boots across all periods"
+      position: "Identical silhouette position on dock end, fishing rod at same angle, posture unchanged"
+      action: "Same evening ritual: packing fishing gear, watching sunset reflection, walking home with measured steps"
+  scene:
+    mainElements: "Dock and riverbank showing seasonal changes while maintaining essential geometry. Seine flowing consistently but reflecting different skies. Same fishing spot worn smooth by years of use."
+    details: "Dock wood showing progressive weathering across years. Fishing equipment evolving but routine unchanged. Water level varying seasonally but dock relationship constant."
+    background: "Combray village silhouette consistent across seasons. Church tower eternal reference point. Trees showing full seasonal cycle repeatedly. Sky colors changing but sunset timing consistent."
+    atmosphere: "Human routine's eternal quality where daily practice transcends temporal change. Individual mortality against natural permanence, ritual as connection to universal rhythm, no text or letters visible"
+  composition:
+    cameraAngle: "Wide silhouette shot from riverbank showing figure against consistent sunset position"
+    focus: "Fisherman silhouette as temporal constant against changing seasonal backgrounds"
+    depth: "Foreground shows dock wear patterns, middle ground captures eternal silhouette, background reveals seasonal transformations"

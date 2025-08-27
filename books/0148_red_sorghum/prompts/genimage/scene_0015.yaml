@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1939 early morning, before battle
+    location: Hilltop observation point overlooking sorghum fields, Northeast Gaomi District
+    weather: Clear morning with distant smoke clouds approaching
+  characters:
+  - appearance: Fifteen-year-old youth with relatively small build, black hair, dark eyes, youthful face mixing features of
+      both parents Yu Zhan'ao and Dai Fenglian
+    clothing: Simple peasant clothing consisting of tunic and trousers, partisan outfit similar to father's unit when fighting
+    position: Standing on elevated position scanning horizon
+    action: Observing distant smoke signals, expression showing growing alarm
+  scene:
+    mainElements: Elevated vantage point providing view across vast sorghum fields toward approaching danger
+    details: Thin smoke tendrils rising from distant horizon, dark columns suggesting burning structures, smoke patterns dispersing
+      in specific wind directions, youth's nostrils flared as if detecting invisible warning scents, clothing rippling from
+      wind carrying distant smoke, atmospheric haze growing thicker toward horizon, birds flying away from smoke source, subtle
+      color changes in distant sky suggesting fire, vegetation appearing to wilt in smoke path direction, no text or letters
+      visible
+    background: Endless sorghum fields extending to horizon, distant villages barely visible through atmospheric haze
+    atmosphere: Invisible danger made visible through smoke signals, approaching threat suggested through environmental warning
+      signs, tension building through distant visual cues
+  composition:
+    cameraAngle: Wide shot emphasizing distance and scale of threat
+    focus: Distant smoke columns and observing figure's reaction
+    depth: Foreground shows observing youth, middle ground reveals sorghum fields, background displays threatening smoke horizon
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

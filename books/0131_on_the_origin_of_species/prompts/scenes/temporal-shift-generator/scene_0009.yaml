@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scientific Library from Single Volume to Complete Collection"
+  setting:
+    time: "1820s sparse collection to 1870s comprehensive library, winter firelight"
+    location: "Ground floor study room in Down House, Kent countryside residence, with large windows overlooking garden"
+    weather: "Cold winter evening with frost on windows"
+  characters:
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "Reading by firelight at different stages of library development"
+      action: "Young scholar with single book evolving to mature scientist surrounded by towering bookshelves"
+  scene:
+    mainElements: "Floor-to-ceiling bookshelves filled with scientific volumes, microscope and magnifying glasses, specimen jars and dried plants, leather armchair on wheels, fireplace with family portraits above mantel"
+    details: "Bookshelves showing gradual accumulation over decades: single shelf with theological texts growing to floor-to-ceiling collection of scientific works, leather volumes multiplying and aging, bindings showing wear from frequent consultation, handwritten notes and bookmarks appearing between pages, scientific journals stacking in chronological order, correspondence files expanding, reference materials organizing into systematic arrangement, firelight consistently illuminating the growing collection, no text or letters visible on book spines"
+    background: "Fireplace maintaining steady warmth while seasons change outside windows, garden view showing bare winter trees consistent across time periods"
+    atmosphere: "Scholarly sanctuary with warm lamplight, scent of old paper and preserved specimens, quiet concentration broken only by garden sounds through windows"
+  composition:
+    cameraAngle: "Wide shot showing full library development from sparse to comprehensive"
+    focus: "The expanding bookshelves as measure of accumulating knowledge"
+    depth: "Foreground: reading area with firelight, middle: growing book collection, background: consistent winter garden view"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Jim in Miss Watson's Kitchen - Servant's Daily Life"
+  setting:
+    time: "1840s Missouri, early morning"
+    location: "Kitchen of Miss Watson's house, St. Petersburg, Missouri"
+    weather: "Morning light filtering through small windows"
+  characters:
+    - appearance: "35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family. Strong, work-hardened hands."
+      clothing: "Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched and worn. Clothing purely utilitarian without any ornaments."
+      position: "Standing at large wooden table in center of kitchen"
+      action: "Preparing breakfast, kneading dough with strong hands while glancing toward window with distant, thoughtful expression"
+  scene:
+    mainElements: "Large kitchen with stone fireplace, wooden work table, hanging pots and pans, shelves lined with ceramic crocks and jars"
+    details: "Cast iron cookstove with fire burning inside, wooden buckets for water, flour sacks, mixing bowls, rolling pin, bunches of dried herbs hanging from ceiling beams"
+    background: "Small windows showing view of backyard, doorway leading to main house, brick chimney and hearth"
+    atmosphere: "Quiet domestic industry masking inner longing for freedom, warm kitchen comfort contrasted with underlying bondage, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from kitchen doorway showing Jim at work"
+    focus: "Jim's strong hands working with dough while his eyes show distant thoughts"
+    depth: "Jim and work table in foreground, kitchen implements in middle, windows and doorways in background"

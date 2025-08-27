@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Watchman's dawn vigil on palace rooftop awaiting signal"
+  setting:
+    time: "Late Bronze Age Mycenaean Greece, just before dawn"
+    location: "Flat rooftop of fortified palace in Argos Greece, view overlooking Cyclopean limestone walls and courtyard with sacrificial altar below"
+    weather: "Cold pre-dawn darkness with last stars visible, clear sky beginning to lighten on eastern horizon"
+  characters:
+    - appearance: "Elderly weathered man aged 50-60 years, body showing effects of year-long watch duty, grizzled beard and lined face expressing exhaustion and anxiety"
+      clothing: "Thick woolen cloak wrapped around shoulders over simple undyed linen chiton, leather sandals, practical garments for long outdoor vigil"
+      position: "Seated leaning on elbows at rooftop edge, body positioned toward distant horizon"
+      action: "Scanning distant hilltops for signal fire, shifting restlessly between sitting and standing positions showing fatigue and anticipation"
+  scene:
+    mainElements: "Stone palace rooftop with rough limestone surface, distant mountainous horizon where signal fires would appear, massive palace walls dropping away below"
+    details: "Weathered stone parapet at roof edge, scattered roof tiles, distant view of palace courtyard with altar and main gates, cold morning air creating visible breath, oil lamp or torch for light providing small circle of illumination, leather water pouch and simple food suggesting long vigil preparations"
+    background: "Mycenaean citadel walls and towers silhouetted against lightening sky, olive groves and fields visible in valley below, distant hills and mountains on horizon where Troy signal fires would originate"
+    atmosphere: "Tense expectant mood of decade-long waiting coming to climax, cold isolation of solitary duty, mixture of hope for war's end and fear of what peace might bring to troubled palace, sense of historical moment approaching"
+  composition:
+    cameraAngle: "Extreme wide establishing shot from elevated position showing vast landscape scale"
+    focus: "Solitary human figure small against enormous landscape emphasizing isolation and epic scope"
+    depth: "Foreground shows watchman on rooftop, middle ground reveals palace structures and walls, background extends to distant mountains and horizon where fate approaches, no text or letters visible"

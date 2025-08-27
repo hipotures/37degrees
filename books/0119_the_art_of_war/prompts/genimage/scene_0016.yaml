@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, night before decisive battle for Chu capital
+    location: Commander's dream-like mental landscape, abstract representation of strategic complexity
+    weather: Surreal environment without normal weather patterns
+  characters:
+  - appearance: Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years
+      of military training, sharp intelligent dark eyes, high cheekbones
+    clothing: Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft
+      leather boots, occasionally wears light bronze scale armor when in military settings
+    position: Walking through maze-like structure formed by military equipment and strategic concepts
+    action: Navigating abstract landscape representing complexity of military decision-making
+  scene:
+    mainElements: Maze walls constructed from bronze spear shafts, shield rims, and banner poles create labyrinthine path
+      with multiple dead ends and hidden passages, representing confusion inherent in complex strategy
+    details: Large silk banner in deep red color with golden embroidered emblem, mounted on tall wooden pole with bronze spearpoint,
+      used to identify military units and signal commands during battle formations serves as maze wall elements, fabric stretched
+      between spear poles creating barriers. Ancient Chinese military treatise written on thin bamboo strips bound with silk
+      cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case
+      appears at various maze intersections, offering guidance but requiring choice of interpretation
+    background: Abstract landscape mixing military camp elements with impossible geometry, paths that loop back on themselves,
+      walls that extend beyond normal perspective
+    atmosphere: Dreamlike confusion with underlying order, echoing sounds of military activity from unknown directions, sense
+      of multiple solutions existing simultaneously, intellectual challenge requiring intuitive navigation, no text or letters
+      visible to viewer
+  composition:
+    cameraAngle: Perspective following maze walker through complex pathways showing both confusion and potential clarity
+    focus: Maze structure created from military implements, representing ordered complexity rather than chaos
+    depth: Foreground shows immediate maze path choices, middle ground reveals strategist navigating complexity, background
+      suggests infinite strategic possibilities
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1513, dramatic evening
+    location: Large public gathering designed to overwhelm individual judgment
+    weather: Torchlight creating dramatic shadows and emotional atmosphere
+  characters:
+  - appearance: Political leader addressing massive crowd from elevated platform
+    clothing: Magnificent ceremonial robes designed to inspire awe and submission
+    position: Elevated above crowd, using height to emphasize authority
+    action: Delivering emotional speech designed to bypass rational thought and create emotional response
+  - appearance: Crowd of citizens caught up in collective enthusiasm
+    clothing: Various social classes unified by shared emotional experience
+    position: Packed together in mass formation
+    action: Responding emotionally to political theater, individual judgment overwhelmed by group psychology
+  scene:
+    mainElements: Carefully orchestrated political spectacle using architecture, lighting, and staging to manipulate crowd
+      emotion. Banners, symbols, and pageantry creating overwhelming sensory experience.
+    details: Strategic use of religious and patriotic symbols. Music and ritual creating emotional rather than rational response.
+      Guards positioned to identify and suppress dissent.
+    background: Architecture and staging designed to make individuals feel small and powerless while making state seem overwhelming
+      and inevitable.
+    atmosphere: Political manipulation through emotional spectacle. Individual reason sacrificed to collective hysteria.
+  composition:
+    cameraAngle: Wide shot showing scale of political manipulation
+    focus: Mass psychology techniques used to control political opinion
+    depth: Foreground shows individual faces losing themselves in crowd emotion, middle ground reveals staged spectacle, background
+      displays symbols of power
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

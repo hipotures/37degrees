@@ -1,0 +1,100 @@
+canon:
+  characters:
+    - id: "rachel_carson"
+      name: "Rachel Carson"
+      description_block: |
+        characters:
+          - appearance: "Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent, penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness"
+            clothing: "Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author, clothing style appropriate to early 1960s America"
+            posture: "Composed, dignified bearing despite physical frailty, hands often holding notebook or papers, stance conveying quiet authority and intellectual gravitas"
+    
+    - id: "industry_executive"
+      name: "Chemical Industry Executive"  
+      description_block: |
+        characters:
+          - appearance: "Well-groomed man in his 40s-50s, confident bearing, clean-shaven with neatly combed hair, corporate appearance suggesting wealth and authority"
+            clothing: "Impeccably tailored dark business suit with narrow lapels, white dress shirt, narrow tie with tie clip, polished leather shoes - epitome of 1960s corporate power"
+            posture: "Self-assured stance, often with hands clasped behind back or gesture of dismissive authority, movements suggesting privilege and control"
+
+    - id: "concerned_scientist"
+      name: "Research Scientist"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting dedication to scientific truth over corporate interests"
+            clothing: "White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating scientific profession"
+            posture: "Alert, observant stance, often examining specimens or taking notes, movements conveying scientific curiosity and growing concern"
+
+    - id: "ordinary_citizen"
+      name: "American Family Member"
+      description_block: |
+        characters:
+          - appearance: "Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism, age varying by scene context"
+            clothing: "Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business attire, children in simple play clothes"
+            posture: "Initially relaxed and carefree, gradually becoming more concerned and alert as environmental dangers become apparent"
+
+  locations:
+    - id: "idyllic_town"
+      name: "Idealized American Town" 
+      description_block: |
+        setting:
+          location: "Archetypal small American town in heartland, white clapboard houses with front porches, red gambrel-roofed barns, manicured gardens, tree-lined streets representing American dream of harmony with nature"
+        mainElements: "Classic small-town architecture, church spire visible above treeline, well-maintained homes and farms, clear streams running through community, abundant bird life in mature elm and maple trees"
+        atmosphere: "Picture-perfect representation of American prosperity and natural harmony, embodying 1950s suburban ideal before environmental awakening"
+
+    - id: "university_campus"
+      name: "Midwestern University Campus"
+      description_block: |
+        setting:
+          location: "Prestigious university grounds in American Midwest, expansive green lawns beneath towering elm trees, red brick academic buildings covered with ivy, representing centers of learning and scientific inquiry"
+        mainElements: "Majestic elm trees creating natural cathedral, well-maintained grass quadrangles, solid brick buildings suggesting permanence of knowledge, benches and pathways for scholarly contemplation"
+        atmosphere: "Academic serenity and intellectual pursuit, embodying faith in scientific progress and human knowledge, later contrasted with environmental destruction"
+
+    - id: "senate_hearing_room"
+      name: "U.S. Senate Hearing Chamber"
+      description_block: |
+        setting:
+          location: "Formal government hearing room in Washington D.C., imposing chamber with dark wooden paneling, raised platform for senators, witness table below, representing confrontation between truth and power"
+        mainElements: "Semi-circular arrangement of senators' desks on elevated platform, single witness chair facing questioning panel, gallery seating packed with reporters and lobbyists, formal government architecture"
+        atmosphere: "Tension-filled atmosphere of democratic accountability, where scientific truth confronts political and corporate power, bright camera lights creating stark contrast between illuminated truth and shadowed interests"
+
+    - id: "research_laboratory"
+      name: "Scientific Laboratory" 
+      description_block: |
+        setting:
+          location: "Sterile 1960s research facility with functional design prioritizing scientific work over aesthetics, representing both promise and danger of chemical innovation"
+        mainElements: "Long black laboratory benches covered with glass apparatus, rows of chemical bottles with warning labels, microscopes and technical equipment, fluorescent lighting creating clinical atmosphere"
+        atmosphere: "Clinical environment suggesting both scientific progress and potential for uncontrolled experimentation, cold efficiency masking dangerous consequences of chemical development"
+
+    - id: "wilderness_river"
+      name: "Canadian Wilderness River"
+      description_block: |
+        setting:
+          location: "Pristine Miramichi River flowing through dense Canadian boreal forest, clear rocky waters surrounded by spruce and fir trees, representing untouched natural ecosystem vulnerable to chemical contamination"
+        mainElements: "Fast-flowing river over stone and gravel bed, thick coniferous forest creating natural corridor, wildlife habitat supporting salmon runs and diverse aquatic life"
+        atmosphere: "Wild natural beauty embodying ecological interconnectedness, pure environment that becomes tragic victim of distant human decisions about pesticide use"
+
+  items:
+    - id: "pesticide_container"
+      name: "DDT Pesticide Package"
+      description_block: |
+        details: "Colorful commercial packaging from 1950s-60s featuring optimistic graphics and cheerful marketing promises, metallic container or paper bag with bright illustrations of happy housewives and perfect gardens, text promising miraculous pest control, deceptive exterior concealing toxic contents"
+
+    - id: "crop_duster_plane" 
+      name: "Agricultural Spray Aircraft"
+      description_block: |
+        details: "Yellow or red biplane aircraft adapted for pesticide application, low-flying over forests and fields while releasing white chemical cloud, typically Boeing Stearman or similar vintage aircraft converted from military use, representing technological invasion of natural spaces"
+
+    - id: "dead_robin"
+      name: "Poisoned American Robin"
+      description_block: |
+        details: "Once-healthy songbird now lying motionless on manicured lawn, distinctive red breast contrasting with perfect green grass, small body representing innocence destroyed by invisible chemical contamination, symbol of spring silence replacing natural harmony"
+
+    - id: "broken_eagle_egg"
+      name: "Fragmented Eagle Eggshell"
+      description_block: |
+        details: "Pale blue eggshell fragments scattered in massive eagle nest high in tree, shells abnormally thin and cracked under parent bird's weight, representing destruction of America's national symbol and future generations through chemical interference with reproduction"
+
+    - id: "contaminated_stream"
+      name: "Polluted Water System"
+      description_block: |
+        details: "Once-clear waterway now showing signs of chemical contamination, dead fish floating on surface or scattered along banks, water losing its crystal clarity, aquatic life absent where once abundant, representing ecosystem collapse from chemical runoff"

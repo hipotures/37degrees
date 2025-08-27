@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1898 winter evening during period of political tension
+    location: Traditional Viennese coffeehouse interior, late 19th century Habsburg Vienna, filled with anxious intellectuals
+    weather: Cold winter night creating desire for warm indoor gathering
+  characters:
+  - appearance: Multiple groups of Viennese intellectuals, professors, artists, and bourgeois citizens
+    clothing: Various styles of late 19th century formal attire reflecting different social positions and professions
+    position: Gathered around marble tables in animated discussion groups
+    action: Engaging in heated debates about changing times, uncertain future, and social tensions
+  scene:
+    mainElements: Crowded coffeehouse serving as barometer of collective social anxiety, multiple conversations revealing
+      shared fears about political instability, cultural change, and uncertain future of Habsburg Empire
+    details: High ornate ceilings, marble-topped tables, red plush banquettes, enormous mirrors, newspaper racks, waiters
+      in black tailcoats, clouds of tobacco smoke. Multiple conversation groups discussing similar themes - political uncertainty,
+      social change, fear of revolution, concern about declining traditional values. Newspapers spread on tables showing disturbing
+      headlines. Mirrors multiply worried faces into infinity, creating sense of shared collective concern.
+    background: Intellectual ferment and animated discussion, clinking of coffee cups and newspaper rustling, warm gaslight
+      creating intimate pools of conversation among scholars and artists
+    atmosphere: Palpable collective anxiety about changing world, shared sense of living at end of stable era, intellectuals
+      struggling to understand social transformations beyond their control, unified worry transcending individual differences,
+      no text or letters visible
+  composition:
+    cameraAngle: Overview showing multiple conversation groups sharing similar concerns
+    focus: Repeated patterns of worried gestures and anxious expressions across different tables
+    depth: 'Foreground: individual conversations revealing personal fears, Middle: multiple groups discussing same universal
+      concerns, Background: mirrors reflecting collective anxiety multiplying into infinity'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

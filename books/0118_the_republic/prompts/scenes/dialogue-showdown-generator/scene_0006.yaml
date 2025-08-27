@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Polemarch's Challenge - Justice as Helping Friends and Harming Enemies"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "standing with animated gestures while arguing"
+      action: "clenching fist while passionately defending Greek warrior code of loyalty to friends and enmity to foes"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "remaining seated on couch observing intently"
+      action: "watching with calculating expression as he prepares to dismantle conventional morality"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Young man's shadow cast large on wall behind him during passionate speech, wine cups trembling slightly from emphatic gestures, other guests leaning forward with interest, atmosphere of tribal warrior values"
+    background: "evening deepening outside courtyard windows, household continuing around philosophical battle"
+    atmosphere: "escalating tension as traditional Greek martial values confront philosophical scrutiny"
+  composition:
+    cameraAngle: "low angle shot emphasizing Polemarch's passionate conviction"
+    focus: "clenched fists and determined expression showing warrior mentality about justice"
+    depth: "speaker's animated body language in foreground, attentive Socrates in middle ground, engaged audience in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Wine Cellar Memory Scents"
+  setting:
+    time: "1924 autumn, evening"
+    location: "Underground wine storage cellar, Shan distillery, Northeast Gaomi District"
+    weather: "Stable underground temperature, insulated from surface conditions"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Standing among rows of aging wine vessels"
+      action: "Breathing deeply while examining fermentation progress, nostalgic expression"
+  scene:
+    mainElements: "Large earthenware vessels used in distillery for fermentation and aging of sorghum wine, underground storage area with traditional ceramic craftsmanship"
+    details: "Ancient ceramic vessels with visible condensation suggesting internal fermentation, moisture beading on clay surfaces, wooden shelving aged dark from decades of use, dust particles floating in single shaft of light from above, cobwebs in corners undisturbed for seasons, man's facial expression showing deep inhalation and memory recognition, thick atmosphere visible as slight haze, traditional distillery tools darkened with age and use, no text or letters visible"
+    background: "Stone walls and wooden beams creating underground chamber, rows of aging vessels extending into darkness"
+    atmosphere: "Deep ancestral memory triggered by invisible scents, tradition and craftsmanship made tangible through environmental age, connection to past generations through sensory experience"
+  composition:
+    cameraAngle: "Medium shot in atmospheric underground setting"
+    focus: "Figure's nostalgic expression and visible atmospheric conditions"
+    depth: "Foreground shows figure breathing deeply, middle ground reveals aging vessels, background suggests chamber depth"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Underworld Gateway at Volcanic Cumae"
+  setting:
+    time: "Mythical era around XII century BCE, twilight at mystical threshold"
+    location: "Volcanic landscape at Cumae with temple of Apollo and cave entrance to underworld"
+    weather: "Sulfurous mists rising from earth with eerie supernatural atmosphere"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunic with longer sleeves in Eastern style"
+      position: "standing before temple steps with sacred guide"
+      action: "holding golden bough that glows with supernatural light while preparing for descent"
+    - appearance: "ancient priestess with mystical authority"
+      clothing: "flowing robes of temple oracle marked by divine inspiration"
+      position: "standing at cave entrance gesturing toward dark passage"
+      action: "raising arms in ritual preparation while supernatural power emanates from her form"
+  scene:
+    mainElements: "Temple of Apollo built from local volcanic stone with classical columns, dark cave mouth leading into earth carved from living rock, active volcanic landscape with steaming vents"
+    details: "Golden bough radiating divine light in hero's grasp, temple adorned with bronze doors depicting mythological scenes, sulfur crystals around cave entrance, ritual implements and offerings, ancient Greek architectural details, supernatural mist swirling around cave mouth"
+    background: "Volcanic hills of Cumae with visible steam vents, Bay of Naples stretching to horizon, other temples and sacred groves, Mediterranean landscape under mystical twilight sky"
+    atmosphere: "Sacred threshold between mortal world and supernatural realm, divine power made manifest, awe-inspiring preparation for impossible journey"
+  composition:
+    cameraAngle: "Wide shot from elevated position showing temple complex and landscape scale"
+    focus: "Temple architecture and cave entrance as gateway between worlds, with glowing golden bough as focal point"
+    depth: "Heroes and temple in detailed foreground, cave mouth and volcanic features in middle ground, Mediterranean landscape in distant background, no text or letters visible"

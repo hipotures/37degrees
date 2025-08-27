@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, moonlit night in Ashoka garden
+    location: Beautiful captive garden within Lanka where Sita is imprisoned, heavenly garden filled with blooming ashoka
+      trees meaning without sorrow, rare plants and fragrant flowers, pavilions and gem-edged ponds and lakes, small bells
+      hanging from trees chiming in wind
+    weather: Clear moonlit night with gentle breeze moving through garden
+  characters:
+  - appearance: Young woman aged eighteen to twenty, ideally proportioned with slender waist and graceful build, golden complexion
+      like molten gold, long thick black hair in single braid, large dark lotus-shaped eyes, face showing deep sorrow
+    clothing: Single worn and soiled garment showing her rejection of demon king's gifts
+    position: Seated beneath ashoka tree in center of garden clearing
+    action: Weeping in solitude, occasionally looking up at moon with hope and despair
+  - appearance: Humanoid monkey-like being with muscular diamond-hard body, red face like ruby, size reduced to small form
+      for stealth
+    clothing: Simple loincloth (langot) around hips
+    position: Hidden in tree branches above, watching protectively
+    action: Observing Sita's suffering while remaining concealed, preparing to reveal himself
+  scene:
+    mainElements: Over-the-shoulder shot from Hanuman's hidden position in tree, looking down at suffering Sita in moonlit
+      garden. View partially obscured by leaves and branches creating natural frame, showing both observer and observed in
+      same composition
+    details: Hanuman's muscular form partially visible as silhouette among leaves, Sita clearly visible in moonlight showing
+      her distress and captivity conditions, beautiful garden contrasting with her suffering, ashoka flowers around her emphasizing
+      irony of beauty amid sorrow
+    background: Lush flowering paradise garden with moonlight creating silvery light on flowers and water features, palace
+      buildings of Lanka visible in distance beyond garden walls
+    atmosphere: Melancholy moonlit or soft natural lighting to reflect Sita's sadness mixed with growing hope as rescue approaches,
+      place of silence and sorrow about to transform with messenger's arrival
+  composition:
+    cameraAngle: Over-the-shoulder from Hanuman's concealed position looking down at Sita
+    focus: Sita in clear focus in garden clearing, Hanuman's form partially visible but secondary
+    depth: Tree branches and Hanuman in foreground, Sita in middle ground sharp focus, garden paradise background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

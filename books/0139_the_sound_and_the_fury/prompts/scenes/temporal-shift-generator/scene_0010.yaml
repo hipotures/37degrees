@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Four Seasons of Sorrow - Complete Temporal Cycle"
+  setting:
+    time: "Full year cycle 1898 through 1928 showing thirty years of seasonal repetition"
+    location: "Shallow flowing water with muddy banks, surrounding trees and vegetation, stones for sitting or playing, site of children's innocent play and later site of memory and loss"
+    weather: "Complete seasonal progression from spring renewal through winter death repeated across three decades"
+  characters:
+    - appearance: "Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless"
+      clothing: "Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit his large frame"
+      position: "Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements"
+      action: "Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed"
+  scene:
+    mainElements: "Single creek location showing all four seasons simultaneously: spring budding trees with young children at play, summer lush vegetation with adolescents wading, autumn golden leaves with family members aging, winter bare branches with solitary adult figure"
+    details: "Quadruple exposure showing thirty years of seasonal cycles at same creek location: upper left quadrant displays spring 1898 with budding trees, fresh green grass, children playing in shallow water; upper right shows summer 1906 with full canopy, lush bank vegetation, adolescents exploring deeper water; lower left reveals autumn 1912 with golden falling leaves, mature family members in contemplation; lower right depicts winter 1928 with bare skeletal trees, frozen stream edges, solitary adult figure with mental disability experiencing same innocent wonder across all seasons no text or letters visible"
+    background: "Creek environment showing natural aging - tree trunks thicker, bank erosion patterns deeper, stone arrangements shifted by decades of seasonal floods"
+    atmosphere: "Profound meditation on time's cyclical nature where seasons repeat but human experience accumulates loss, innocence persisting only in those protected from temporal understanding"
+  composition:
+    cameraAngle: "Medium wide shot showing full creek scene divided into seasonal quadrants"
+    focus: "Central stream flowing through all seasons with figure experiencing eternal present amid temporal cycles"
+    depth: "Foreground: seasonal stream conditions from flowing to frozen; middle ground: figures aging through seasonal repetition; background: natural environment showing accumulated aging beneath cyclical renewal"

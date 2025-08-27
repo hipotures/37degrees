@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, morning after violent incident
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Hot, oppressive morning heat building
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: White blouse and skirt, appearance agitated and disheveled from emotional distress
+    position: Pacing frantically around kitchen, gesturing wildly with desperate energy
+    action: Pleading desperately with sister to leave dangerous situation, using increasingly harsh language about male threat
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple housedress, showing signs of recent physical trauma
+    position: Seated defensively, turning away from sister's accusations
+    action: Defending violent partner with passionate conviction, rejecting sister's warnings
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Evidence of previous night's violence still visible - overturned objects, scattered items. Morning light harsh
+      and unforgiving. Sister's pregnancy visible, adding urgency to conflict. Emotional temperature rising with physical
+      heat. Sharp contrast between sister's perspectives on same situation. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Desperate urgency and growing panic. Fundamental disagreement about reality and safety. Love versus self-preservation
+      conflict. Growing alienation between sisters despite shared blood
+  composition:
+    cameraAngle: Medium shot alternating between pleading and rejecting positions
+    focus: Emotional chasm growing between sisters over fundamental values
+    depth: 'Foreground: gesturing, pleading figure; middle ground: defensive, rejecting figure; background: evidence of dangerous
+      domestic environment'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

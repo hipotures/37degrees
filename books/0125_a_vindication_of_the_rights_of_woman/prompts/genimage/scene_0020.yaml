@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1792, harsh daylight that exposes social judgment and ostracism
+    location: Public social space where intellectual woman faces punishment for her mental development
+    weather: Bright, unforgiving light that emphasizes social exposure and vulnerability
+  characters:
+  - appearance: Intelligent woman who has developed her mind despite social prohibition, now facing social consequences
+    clothing: Simple, practical dress that emphasizes her focus on substance over appearance
+    position: Standing isolated while others maintain distance, showing social exclusion
+    action: Attempting to engage in serious conversation while others react with suspicion and avoidance
+  - appearance: Other women and social figures showing disapproval and rejection of intellectual female
+    clothing: Fashionable dress emphasizing their conformity to acceptable feminine standards
+    position: Turned away or maintaining physical distance from the intellectual woman
+    action: Whispering, pointing, showing expressions of disapproval and moral judgment
+  scene:
+    mainElements: Public social space where nonconformist woman faces consequences of intellectual development
+    details: Body language and positioning showing social exclusion and moral judgment. Evidence of intellectual woman's difference
+      - books, serious conversation attempts, practical rather than decorative focus
+    background: Social environment that punishes deviation from prescribed feminine role
+    atmosphere: Atmosphere of social punishment and isolation for intellectual aspiration, showing how society enforces feminine
+      conformity through ostracism
+  composition:
+    cameraAngle: Wide shot showing the isolation of nonconformist woman within disapproving social environment
+    focus: The social punishment system that enforces feminine intellectual limitation through fear of exclusion
+    depth: Foreground shows isolated intellectual woman, middle ground shows disapproving social group, background suggests
+      broader social forces that punish nonconformity
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

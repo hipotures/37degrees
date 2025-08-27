@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Divine Music Made Visible - The Sacred Flute"
+  setting:
+    time: "1910, golden hour evening"
+    location: "Open meadow beside river Padma with tall kash grass, rural Bengal, British colonial India"
+    weather: "Still evening air with gentle breeze moving through grass"
+  characters:
+    - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+      clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+      position: "Sitting cross-legged in grass clearing with flute raised to lips"
+      action: "Playing bamboo flute while surrounding environment responds rhythmically to invisible musical vibrations"
+  scene:
+    mainElements: "Invisible music made visible through environmental response - tall kash grass swaying in perfect rhythm despite still air, river surface creating concentric ripples without wind, birds frozen mid-flight in formation patterns"
+    details: "Prosty, surowy flet z bambusa bez żadnych ozdób held at protagonist's lips while nearby grass blades bend and straighten in synchronized waves following unheard melody. River Padma's surface shows expanding circles of ripples emanating from shore in time with breath patterns. Dust motes in evening light dance in spiraling formations around player creating visible music paths through air. Birds overhead arrange themselves in geometric flight patterns responding to musical phrases. Evening light seems to pulse brighter and dimmer following rhythmic breathing. Fabric of robes moves gently with each exhaled note. Shadows of grass create shifting patterns on ground like visual notation. No text or letters visible."
+    background: "Bengal landscape responding musically - distant trees swaying without wind, water birds lifting off river surface in coordinated timing"
+    atmosphere: "Sacred moment where divine music transforms physical world into responsive instrument, making spiritual harmony visible through synchronized natural movement"
+  composition:
+    cameraAngle: "Medium shot showing both flute player and environmental response patterns around him"
+    focus: "Rhythmic environmental movement patterns that visualize unheard divine music flowing from simple bamboo flute"
+    depth: "Foreground: rhythmically moving grass. Middle: musician creating invisible vibrations. Background: synchronized landscape movements extending to horizon"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transportation Evolution - Horse to Automobile"
+  setting:
+    time: "1890s horse and buggy era transitioning through 1928 automobile age"
+    location: "Circular town square in small Mississippi town with Confederate monument at center, surrounded by shop fronts including general merchandise store and telegraph office"
+    weather: "Clear day with strong shadows showing technological progression over four decades"
+  characters:
+    - appearance: "White male age 34, as child was fat and slow with puffy eyes, as adult shows tension and bitterness in facial features, frequently suffers from severe headaches shown through muscle tension, temple rubbing, and eye squinting"
+      clothing: "Practical store clerk attire - simple somewhat worn business suit or shirt and trousers, uninterested in fashion or appearance"
+      position: "Quick nervous purposeful movements, always hurrying, running in and out of buildings"
+      action: "Sharp impatient gestures, reckless driving, chasing after people with hostile intent"
+  scene:
+    mainElements: "Round plaza layout, tall white stone pedestal with Confederate soldier statue at center, surrounding commercial building facades, likely unpaved or poorly bricked streets showing transportation evolution"
+    details: "Double temporal exposure showing same town square with transportation revolution: left portion displays 1890s scene with horse-drawn carriages, buggies, pedestrians in formal attire moving at leisurely pace, horses tied to hitching posts, buggy traffic moving clockwise around monument; right portion reveals 1928 reality with automobiles, faster pace, same figure now driving car recklessly around square, exhaust fumes replacing horse breath, parking spaces instead of hitching posts, modern dress styles, increased urban bustle no text or letters visible"
+    background: "Identical town square architecture with same Confederate monument and surrounding buildings, but showing four decades of modernization - electric lines, paved sections, updated storefronts"
+    atmosphere: "Rapid technological transformation showing how Southern communities adapted to modernity while maintaining traditional symbols and social structures"
+  composition:
+    cameraAngle: "Wide elevated shot showing full town square transportation patterns"
+    focus: "Central Confederate monument serving as temporal anchor while transportation circles evolve from horse to automobile"
+    depth: "Foreground: modern 1928 automobile traffic; middle ground: unchanging Confederate monument; background: evolved but recognizable town architecture"

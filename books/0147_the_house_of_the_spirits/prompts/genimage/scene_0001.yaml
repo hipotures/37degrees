@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1920s, afternoon sunlight transitioning to warm golden hour
+    location: grand mansion in unnamed South American capital city, architectural transformation spanning decades
+    weather: bright clear day with gentle warm breeze carrying scent of flowers
+  characters:
+  - appearance: man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates
+      others, strong jawline, determined dark eyes
+    clothing: impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding
+      boots, wool vest, white cotton shirt
+    position: standing proudly before original rational cubic structure of newly built house
+    action: gesturing with authority while surveying his architectural achievement, representing patriarchal order
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: standing within same location but house now transformed into organic labyrinth around her
+    action: writing in notebooks with delicate precise handwriting or tending to exotic plants and colorful caged birds
+  scene:
+    mainElements: single location showing architectural evolution from imposing cubic mansion to enchanted labyrinth with
+      towers, twisted staircases, doors suspended in air, demonstrating how Clara's spirit transformed rigid patriarchal space
+      into organic magical realm
+    details: split composition reveals house's dual nature - left side shows Esteban's original pompous geometric design with
+      sharp angles and intimidating bulk, right side displays Clara's influence creating architectural chaos with curving
+      passages, impossible rooms, flowering courtyards, no text or letters visible
+    background: same South American capital city vista, but time's passage shown through changing vehicle styles and evolving
+      urban landscape visible through windows
+    atmosphere: dramatic contrast between cold masculine authority of original design and warm feminine magic of transformed
+      space, sunlight quality changes from harsh commanding brightness to soft golden enchantment
+  composition:
+    cameraAngle: wide establishing shot capturing architectural transformation across time
+    focus: central emphasis on house's metamorphosis from rational fortress to magical sanctuary
+    depth: foreground shows detailed architectural elements, middle ground frames human figures representing opposing forces,
+      background depicts changing cityscape across decades
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

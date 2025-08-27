@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Classroom Indoctrination - Absorbing State Ideology"
+  setting:
+    time: "1651, formal lesson hour"
+    location: "State academy for civic education, London, designed for ideological instruction"
+    weather: "Controlled interior lighting creating formal academic atmosphere"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Formal classroom with instructor at podium teaching principles of state obedience, students taking identical notes, official portraits of the Sovereign prominently displayed, textbooks containing approved political doctrine"
+    details: "Students with expressions of absorbed concentration, all writing identical notes in synchronized fashion, official state texts open to same pages, instructor pointing to diagrams of proper civic behavior. Large parchment scrolls with state laws and regulations posted prominently. Heavy solid crown symbols integrated into educational diagrams and charts."
+    background: "Academic interior with formal wooden furnishing, state symbols carved into architectural details, windows arranged to provide serious scholarly lighting"
+    atmosphere: "Intellectual manipulation presented as education, sounds of synchronized note-taking, systematic replacement of critical thinking with approved doctrine"
+  composition:
+    cameraAngle: "Medium shot showing both instructor's authority and student absorption"
+    focus: "The systematic transmission of state ideology through formal education"
+    depth: "Foreground shows students receiving instruction, middle displays educational authority, background reveals institutional control environment"

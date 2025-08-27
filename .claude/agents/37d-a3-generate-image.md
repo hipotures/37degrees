@@ -342,7 +342,8 @@ if (responseText.includes("can't create that image") ||
     status: "failed"
   });
   
-  // Raportuj błąd
+  // Raportuj błąd i zrób screenshot
+  mcp__playwright-headless__browser_take_screenshot(fullPage: true)
   console.log(`BŁĄD: ${sceneKey} image_gen - ChatGPT generation error. Thread ID: ${threadId}`);
   console.log(`Error details: ${errorMessage}`);
   return;
@@ -370,7 +371,9 @@ await mcp__todoit__todo_update_item_status({
   status: "completed"
 });
 
-// Raportuj sukces
+
+// Raportuj sukces i zrob zapis udanej generacji robiąc screenshot
+mcp__playwright-headless__browser_take_screenshot(fullPage: true)
 console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 ```
 
@@ -389,6 +392,9 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 - **CRITICAL:** Używaj contenteditable div, NIE textarea dla promptu
 - **Element refs** są dynamiczne - zawsze rób snapshot przed interakcją
 - NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie
+- Jeśli napotkasz jakiś problem z generacją obrazu, zrób screenshot:
+  mcp__playwright-headless__browser_take_screenshot(fullPage: true)
+  a potem kontynuuj zgodnie z planem
 
 ## Stan końcowy zadania:
 

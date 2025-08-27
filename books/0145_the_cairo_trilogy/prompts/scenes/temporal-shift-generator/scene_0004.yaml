@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Aisha's beauty through tragedy - same mirror reflecting transformation"
+  setting:
+    time: "Dual exposure: 1917 radiant youth and 1927 grief-stricken"
+    location: "Women's quarters of traditional Cairene house, same mirror and dressing area"
+    weather: "Morning light through window, same quality both periods"
+  characters:
+    - appearance: "16-year-old Egyptian girl, slender ethereal figure, face beautiful as moon, white complexion with rosy reflections, blue eyes inherited from father, small nose from mother, classical beauty"
+      clothing: "Light flowing dresses that family tries to make more full-figured"
+      position: "Graceful gentle movements befitting her beauty"
+      action: "1917: Looking into mirror with joy and vanity, arranging hair with delight"
+    - appearance: "34-year-old Egyptian woman, once beautiful now prematurely aged and worn, face marked by suffering, ethereal figure now gaunt from grief"
+      clothing: "Black mourning clothes, somber appearance"
+      position: "Withdrawn posture showing psychological devastation"
+      action: "1927: Staring at reflection with hollow recognition of lost self"
+  scene:
+    mainElements: "Same ornate hand mirror showing dual reflections across decade, identical brass-framed mirror positioned at same angle, personal items accumulated and changed"
+    details: "Mirror surface reflecting two different faces: luminous youth versus grief-ravaged maturity. Surrounding items: 1917 colorful ribbons and jewelry, small bottles of perfume, bright fabrics. 1927 black mourning veils, unused cosmetics gathering dust, faded photographs of lost family members, no text or letters visible"
+    background: "Same stone wall and wooden furniture showing subtle aging, identical window casting same morning light revealing dramatic personal transformation"
+    atmosphere: "Tragic contrast between youthful vanity and mature sorrow, sense of beauty as temporary blessing, temporal cruelty of personal loss"
+  composition:
+    cameraAngle: "Over shoulder view showing mirror reflections of both time periods"
+    focus: "Mirror surface revealing two different selves separated by decade of tragedy"
+    depth: "Foreground: hands holding mirror in different emotional states, middle ground: contrasting personal items, background: unchanging room architecture"

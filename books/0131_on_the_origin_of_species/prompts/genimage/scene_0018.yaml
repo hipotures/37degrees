@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Centuries compressed into single view, all seasons simultaneously
+    location: Down House garden grounds, single oak tree location across time
+    weather: 'All weather patterns overlapping: rain, sun, snow, storms cycling rapidly'
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: Multiple versions of Darwin at different ages around tree showing his lifetime in relation to tree's growth
+    action: Young Darwin planting oak sapling overlaid with mature Darwin sitting in its shade overlaid with ghostly presence
+      contemplating mature tree
+  scene:
+    mainElements: 'Single oak tree showing complete life cycle: sapling to mature giant to eventual decline, all stages visible
+      simultaneously in overlapping transparency'
+    details: 'Oak tree displaying entire lifespan compressed: tiny seedling with first leaves, young sapling with delicate
+      branches, mature tree with massive trunk and full canopy, ancient oak with gnarled bark and spreading crown, eventual
+      decay and new growth sprouting from fallen trunk, seasons cycling rapidly showing spring buds, summer foliage, autumn
+      colors, winter bare branches all simultaneously, root system visible underground expanding and contracting, fallen leaves
+      accumulating and decomposing in accelerated time, no carved initials or text visible on bark'
+    background: Down House aging and changing architecture across centuries, stone weathering, ivy growth, roof repairs, garden
+      evolving around constant tree location
+    atmosphere: Temporal compression showing natural cycles far exceeding human lifespan, perspective on geological versus
+      biological time, continuity of place across centuries
+  composition:
+    cameraAngle: Wide shot showing complete tree life cycle with human figures for scale
+    focus: The oak tree as measure of deep time versus human observation
+    depth: 'Foreground: tree growth stages, middle: Darwin at different ages, background: house and garden across centuries'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Moral Guardians - Pulpit Authority Prescribing Women's Weakness"
+  setting:
+    time: "1792, solemn Sunday morning with filtered light through church windows"
+    location: "Church interior with imposing pulpit elevated above congregation, emphasizing clerical authority"
+    weather: "Dim, controlled interior lighting that creates atmosphere of moral gravitas"
+  characters:
+    - appearance: "Stern clergyman in his 50s representing moral authority that preaches feminine submission as virtue"
+      clothing: "Black clerical robes and white bands, ceremonial dress that marks religious and moral authority"
+      position: "Elevated in high pulpit looking down upon congregation, position symbolizing spiritual and moral superiority"
+      action: "Preaching sermon about women's natural delicacy and proper submission, gesturing to emphasize moral points"
+    - appearance: "Congregation of women and girls listening with downcast eyes and submissive postures"
+      clothing: "Dark, modest dress with heads covered, clothing that demonstrates acceptance of prescribed feminine virtue"
+      position: "Seated in pews below pulpit, positioned to receive moral instruction from elevated authority"
+      action: "Listening with apparent acceptance to teaching about their natural weakness and duty of obedience"
+  scene:
+    mainElements: "Gothic church interior with high pulpit, rows of pews filled with women, religious imagery reinforcing themes of submission and hierarchy"
+    details: "Pulpit decorated with carved images of female saints known for submission and suffering. Religious texts open to passages about women's duties. Stained glass windows show biblical scenes of feminine obedience. Everything reinforces message of divinely ordained feminine weakness"
+    background: "Church architecture with soaring heights that dwarf individual humans, suggesting divine authority behind social order"
+    atmosphere: "Atmosphere of religious solemnity and moral authority, where divine sanction is claimed for women's social subordination and supposed natural weakness"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the elevation of clerical authority over the congregation"
+    focus: "The power dynamic between elevated moral authority and submissive feminine audience"
+    depth: "Foreground shows submissive congregation, middle ground shows commanding pulpit, background suggests divine authority behind social hierarchy"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Two Worlds Divided - Extreme Inequality in Single Frame"
+  setting:
+    time: "1760s, midday"
+    location: "Boundary between aristocratic quarter and poor district in Paris showing stark social division"
+    weather: "Bright sunshine illuminating contrast between luxury and misery"
+  characters:
+    - appearance: "Person aged 25-60 with smooth powdered face showing haughty or bored expression. Posture is stiff and studied according to court etiquette requirements. Represents corruption of Ancien Régime"
+      clothing: "Extravagant Rococo-style dress - man in bright silk justaucorps coat, lace shirt, knee-length culottes, silk stockings, powdered wig. Woman in enormous panniers-supported gown with tightly laced corset and elaborate coiffure. Clothing is uncomfortable and restricting but displays status"
+      position: "On elevated platform or in ornate carriage separated from common people by physical barriers"
+      action: "Looking down with disdain at poor district while being protected by guards from contact with poverty"
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Crowded in narrow muddy streets below aristocratic elevation"
+      action: "Struggling with daily survival, carrying heavy burdens, looking upward at unreachable luxury with expression of hopeless longing"
+  scene:
+    mainElements: "Sharp physical division between marble palaces and wooden hovels, ornate gardens adjacent to refuse heaps, gilded carriages passing beggars"
+    details: "Aristocratic side features fountains, manicured lawns, imported flowers, marble statues. Poor side shows broken cobblestones, open sewers, collapsing buildings, hungry children. Iron fence separates the two worlds"
+    background: "Stark architectural contrast extending to horizon - palace spires on one side, smoke from hovels on other"
+    atmosphere: "Violent inequality creating social tension, artificial paradise built on foundation of human suffering, system maintained through force and ignorance"
+  composition:
+    cameraAngle: "Split screen effect emphasizing the dramatic contrast between social classes"
+    focus: "Physical barrier separating the two worlds with figures representing each class on opposite sides"
+    depth: "Foreground shows detailed contrast in living conditions, middle ground displays human figures from both classes, background extends the division to entire cityscape"

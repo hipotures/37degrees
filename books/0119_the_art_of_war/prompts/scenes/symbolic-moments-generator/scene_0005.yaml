@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Constellation of Strategic Elements"
+  setting:
+    time: "506 BCE, evening dusk with last light fading"
+    location: "Ceremonial throne hall in Wu royal palace, ancient Chinese Zhou dynasty architecture with massive wooden pillars supporting high ceiling"
+    weather: "Clear evening with stars beginning to appear through open palace windows"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Standing at center of hall surrounded by arranged symbolic objects"
+      action: "Surveying the assembled elements while considering their interconnected meanings"
+  scene:
+    mainElements: "Multiple symbolic objects arranged in ceremonial pattern: bronze compass pointing north on wooden table, broken chain links beside golden court chain, fresh bamboo scroll partially unrolled, sprouted seed in small ceramic pot, all positioned around bronze ritual sword as centerpiece"
+    details: "Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority lies horizontal across wooden table surface. Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case positioned to catch evening light. Bronze compass needle remains steady despite proximity to iron chains"
+    background: "Elevated throne platform with ornate carved wooden throne featuring dragon motifs, flanked by bronze braziers, red silk banners hanging from ceiling beams, polished wooden floor"
+    atmosphere: "Formal and imposing with warm golden light from oil lamps reflecting off lacquered pillars, scent of sandalwood incense in air, sense of gathering power and preparation for momentous decision, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Wide angle showing full ceremonial arrangement with figure contemplating the assembled symbols"
+    focus: "Bronze ritual sword as central anchor point with other symbols arranged in meaningful pattern around it"
+    depth: "Foreground details individual symbolic objects, middle ground shows contemplating strategist, background reveals formal palace architecture emphasizing ceremony's importance"

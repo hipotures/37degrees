@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1960s, night
+    location: Interior of village house during men's gathering, documented without emotional interpretation
+    weather: Cool night air, temperature approximately 20 degrees Celsius
+  characters:
+  - appearance: Group of Sudanese village men ranging in age from twenties to seventies, various physical builds and conditions
+    clothing: Traditional djellabas in different states of cleanliness and repair, some more worn than others
+    position: Seated in rough circle on woven mats, positions determined by age and social status
+    action: Engaging in typical evening conversation - agricultural concerns, family news, local politics
+  scene:
+    mainElements: Single oil lamp providing limited illumination, traditional mats showing wear patterns, simple clay walls
+      with practical niches
+    details: Neutral documentation shows ordinary village social gathering - men discussing practical concerns like crop yields
+      and irrigation maintenance, some drinking tea, others merely socializing after day's work. Conversation patterns follow
+      established social hierarchy with older men speaking more than younger, oil lamp creates functional lighting rather
+      than romantic atmosphere, room serves practical social purpose without mystical significance, no text or letters visible
+    background: Clay walls with cracks from settling, doorway showing dark courtyard, basic household items stored in wall
+      niches
+    atmosphere: Documentary record of routine rural social gathering - practical community function serving communication
+      and social bonding needs of agricultural community
+  composition:
+    cameraAngle: Neutral eye-level documentation of social arrangement
+    focus: Clear view of actual social interactions and physical conditions
+    depth: Men's gathering in middle ground, oil lamp illumination in center, room structure and furnishings in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Isolated Soul in Conforming Masses"
+  setting:
+    time: "1950s Algeria, twilight"
+    location: "Public gathering in colonial square, crowd participating in official ceremony"
+    weather: "Dusky light creating shadows and isolated pools of illumination"
+  characters:
+    - appearance: "Single Algerian man in his 30s, different expression from surrounding crowd, doubt and sadness visible in his eyes"
+      clothing: "Same colonial subject attire as others, but worn with less conviction, slight dishevelment suggesting internal conflict"
+      position: "Standing within crowd but psychologically separate"
+      action: "Looking around with confusion and growing awareness while others participate automatically in ceremony"
+    - appearance: "Surrounding crowd of identical colonial subjects performing synchronized actions"
+      clothing: "Uniform colonial compliance dress"
+      position: "Surrounding the isolated individual"
+      action: "Engaged in collective ritual while ignoring the questioning individual among them"
+  scene:
+    mainElements: "Single individual experiencing moment of psychological awakening surrounded by mass of unthinking conformity"
+    details: "One face showing genuine emotion and questioning doubt while hundreds around display automatic compliance, his body language slightly different from synchronized crowd, subtle lighting emphasizing his psychological isolation, crowd continuing ritual oblivious to his internal struggle"
+    background: "Colonial ceremony continuing around isolated figure, official symbols and authority maintaining control over masses"
+    atmosphere: "Psychological awakening beginning within system of mass control, individual consciousness emerging from collective conformity"
+  composition:
+    cameraAngle: "Close-up focus on individual face surrounded by blurred crowd"
+    focus: "Single questioning expression contrasting with surrounding automatic compliance"
+    depth: "Individual face in sharp foreground focus, crowd in softer middle ground, colonial authority in background"

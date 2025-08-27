@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1920s London, late night
+    location: Private study area within Oriental apartment, mirrors reflecting Mustafa's image
+    weather: Cold London night, frost forming on windows
+  characters:
+  - appearance: Handsome Sudanese man in his twenties, sharp features, intense calculating eyes, impeccably groomed
+    clothing: Partially undressed, expensive shirt open, revealing body as weapon of conquest
+    position: Standing before multiple mirrors, studying own reflection with satisfaction
+    action: Examining himself with pride as instrument of historical justice and racial revenge
+  scene:
+    mainElements: Multiple mirrors positioned to show different angles, exotic decor creating backdrop, books about Africa
+      and colonialism on shelves
+    details: Through Mustafa's grandiose self-perception, his reflection appears as heroic avenger - body sculpted by destiny
+      to reclaim Africa's honor through intimate conquest of European women, face bearing noble burden of representing entire
+      colonized continent. Multiple mirrors show him as handsome warrior using beauty as weapon, each reflection confirming
+      his role as agent of historical justice turning colonial desire against itself. Room's exotic elements frame him as
+      magnificent specimen of African manhood, no text or letters visible
+    background: Shadows of London night through frosted windows, suggestion of sleeping city outside
+    atmosphere: Mustafa experiencing intoxicating sense of historical mission fulfilled through personal revenge, mirrors
+      reflecting not just physical appearance but imagined noble purpose, late night solitude amplifying grandiose self-image
+      as warrior poet of anti-colonial resistance
+  composition:
+    cameraAngle: Multiple mirror angles showing Mustafa's self-admiring poses
+    focus: Mustafa's proud reflection showing him as he sees himself - noble avenger
+    depth: Mustafa's heroic reflection in foreground mirrors, exotic apartment in middle ground, cold London night in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

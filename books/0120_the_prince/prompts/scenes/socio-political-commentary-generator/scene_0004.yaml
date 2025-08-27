@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Technology of Control - Renaissance Surveillance State"
+  setting:
+    time: "Early 16th century, late afternoon"
+    location: "Fortified city walls and watchtowers of Italian city-state with view over surrounding territory"
+    weather: "Golden hour lighting casting long shadows"
+  characters:
+    - appearance: "Guards and sentries positioned at strategic points throughout fortifications"
+      clothing: "Military uniforms with heraldic symbols, functional armor and weapons"
+      position: "Posted at regular intervals along walls and towers"
+      action: "Maintaining vigilant watch over city and countryside, recording observations in ledgers"
+  scene:
+    mainElements: "Complex system of watchtowers connected by walls with clear sight lines. Signal fires and banner systems for communication. Strategic positioning overlooking all approaches to city."
+    details: "Written logs and records of citizen movement. Signal mirrors and fire beacons for long-distance communication. Maps marking territories and boundaries. Weapons positioned for both external threats and internal control."
+    background: "Countryside with villages and roads all visible from elevated positions. Other city-states visible in distance, each with their own defensive systems."
+    atmosphere: "Systematic observation and control of population and territory. Technology serving power maintenance rather than citizen welfare."
+  composition:
+    cameraAngle: "Dramatic high angle showing scope of surveillance network"
+    focus: "Interconnected system of observation points creating web of control"
+    depth: "Foreground shows detailed guard posts, middle ground reveals wall system, background displays territory under observation"

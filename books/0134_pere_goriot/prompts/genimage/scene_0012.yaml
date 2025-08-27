@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1819, evening
+    location: Corridor outside Goriot's attic room
+    weather: Cold winter evening with single candle providing flickering light
+  characters:
+  - appearance: Pale, slender young woman with sad, gentle eyes. Modest, unremarkable appearance that radiates innocence and
+      melancholy
+    age: 19 years old approximately
+    hair: Simple, modest styling
+    clothing: Very simple, poor, modest dresses in dark colors reflecting her status as disinherited daughter
+    posture: Quiet, subdued bearing. Often seen with downcast eyes, doing needlework or reading prayer book. Embodies virtue
+      and innocence in corrupt boarding house environment
+    position: Peeking around corner of staircase, witnessing private moment of suffering
+    action: Watching Goriot's pain with innocent empathy and recognition of shared abandonment
+  - appearance: Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale,
+      worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive
+      facial expression that shows his simple, honest nature.
+    age: 69 years old
+    hair: Originally powdered daily by barber, now thin and unkempt grey hair
+    clothing: Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts,
+      broken shoes - each piece reflecting his progressive financial decline
+    posture: Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated
+      slouch. In final scenes, spasmatic movements as he clutches golden locket to chest
+    position: Sitting on his bed, holding daughters' letters or looking at their portrait
+    action: Weeping quietly over his daughters' coldness and his own helplessness
+  scene:
+    mainElements: Through Victorine's innocent perspective, Goriot's suffering appears as profound mystery - she recognizes
+      the pain of parental abandonment but cannot understand how children could cause such anguish. His tears seem like holy
+      water to her innocent eyes, his love appearing pure and incomprehensible in its selflessness.
+    details: From Victorine's naive viewpoint, Goriot appears as saintly figure suffering for others' sins. His attic room
+      seems like hermit's cave where he practices mysterious devotions to ungrateful goddesses. She sees his love as she would
+      view religious miracle - beautiful, inexplicable, and somehow sacred.
+    background: Dim corridor with flickering candlelight creating cathedral-like atmosphere around witnessing innocent suffering
+    atmosphere: Sacred recognition of pure love and incomprehensible suffering. The air feels charged with religious mystery
+      and the communion of abandoned children
+  composition:
+    cameraAngle: From Victorine's hidden position, showing both her empathetic witnessing and Goriot's private anguish
+    focus: The connection between two abandoned souls - innocent observer and suffering father figure
+    depth: Victorine's empathetic witnessing in foreground, Goriot's sacred suffering in middle ground, dim attic room creating
+      shrine-like atmosphere for pure love's martyrdom, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

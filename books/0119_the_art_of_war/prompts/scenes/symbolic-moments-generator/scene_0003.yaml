@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chains of Honor and Bondage"  
+  setting:
+    time: "506 BCE, late afternoon in palace training grounds"
+    location: "Military training courtyard adjacent to Wu palace complex, ancient Chinese architecture with wooden practice posts and earthen combat circles"
+    weather: "Clear sky with lengthening shadows suggesting day's end approaching"
+  characters:
+    - appearance: "Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes with determined expression, graying hair at temples"
+      clothing: "Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt, wears small jade pendant indicating court rank"
+      position: "Kneeling beside broken iron shackles on ground, one hand touching the metal"
+      action: "Examining remnants of chains while contemplating the nature of freedom versus duty"
+  scene:
+    mainElements: "Broken iron chains lie scattered in dust beside pristine golden chain of court rank, creating stark visual contrast between oppression and willing service, late sunlight glinting off both metals"
+    details: "Iron shackles show rust and stress fractures where they were broken, links still connected in some places, completely severed in others. Golden chain displays intricate craftsmanship with small jade pendant indicating court rank suspended from fine links. Training weapons stuck in wooden posts nearby, practice targets showing wear from repeated use"
+    background: "Wooden practice posts for sword training, straw targets for archery, racks holding training weapons, view of palace walls beyond courtyard"
+    atmosphere: "Contemplative moment examining the duality of bondage, late afternoon light creating long shadows that connect the two chain types, dust motes floating in sunbeams, distant sounds of military preparation, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Ground level view emphasizing the chains as central symbolic elements"
+    focus: "Contrast between broken iron chains and golden court chain, both catching the slanted sunlight"
+    depth: "Foreground shows detailed chain textures and differences, middle ground reveals kneeling figure in contemplation, background shows military training environment"

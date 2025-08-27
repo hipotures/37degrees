@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Omnipresent Watchers - The Eyes of the State"
+  setting:
+    time: "1513, morning shadows"
+    location: "City streets and market squares with strategic observation points"
+    weather: "Overcast sky creating shadowy atmosphere"
+  characters:
+    - appearance: "Plainclothes informants and official observers positioned throughout crowd"
+      clothing: "Nondescript clothing allowing them to blend with common citizens"
+      position: "Strategically placed at street corners, market stalls, and gathering places"
+      action: "Observing citizen interactions, taking mental notes, whispering reports to superiors"
+  scene:
+    mainElements: "Network of watchers operating throughout daily civic life. Guard posts at key intersections. Officials monitoring conversations and transactions in markets and taverns."
+    details: "Hidden observation points behind market stalls and building corners. Written reports being passed between informants. Citizens unconsciously modifying behavior when watched. Merchants carefully weighing words during business discussions."
+    background: "Normal daily life continuing under layer of surveillance. Market activities, street conversations, children playing - all monitored by watchful eyes."
+    atmosphere: "Pervasive sense of being observed even during mundane activities. Trust eroded by knowledge that neighbors might be informants."
+  composition:
+    cameraAngle: "Medium shot showing multiple layers of observation"
+    focus: "Network of watchers creating web of surveillance over daily life"
+    depth: "Foreground shows casual observers, middle ground reveals hidden watchers, background displays unaware citizens going about their business"

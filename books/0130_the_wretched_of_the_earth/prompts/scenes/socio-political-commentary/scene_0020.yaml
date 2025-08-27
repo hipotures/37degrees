@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Systemic Violence Exposed"
+  setting:
+    time: "1950s Algeria, noon"
+    location: "Public square in traditional Algerian quarter during colonial enforcement action"
+    weather: "Harsh midday sun creating stark shadows"
+  characters:
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Khaki military uniform with beret"
+      position: "Leading arrest operation in public space"
+      action: "Directing systematic detention of civilians, demonstrating colonial power through public humiliation"
+    - appearance: "Multiple Algerian civilians being detained, men and women of various ages"
+      clothing: "Traditional and simple clothing torn from rough treatment"
+      position: "Forced into submission positions, hands bound"
+      action: "Being publicly humiliated and detained, dignity stripped through systematic abuse"
+  scene:
+    mainElements: "Mass detention operation in public square, colonial forces demonstrating power through systematic violence against civilian population"
+    details: "Military vehicles surrounding square, soldiers forcing civilians to ground, identification papers scattered on pavement, traditional musical instruments being destroyed, books and personal belongings confiscated and burned, families separated during arrests"
+    background: "Traditional Algerian architecture witnessing systematic oppression, community spaces violated by colonial force"
+    atmosphere: "Raw display of colonial violence, systematic destruction of human dignity and cultural identity"
+  composition:
+    cameraAngle: "Wide shot showing scale of systematic oppression"
+    focus: "Public humiliation and systematic violence as tools of colonial control"
+    depth: "Detention action in foreground, surrounding military force in middle ground, traditional community architecture in background"

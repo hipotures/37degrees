@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Key Opens Victory's Gate"
+  setting:
+    time: "506 BCE, dawn of decisive victory at Chu capital"
+    location: "Main gate of fortified capital city of Chu state, massive wooden doors reinforced with bronze fittings"
+    weather: "Clear dawn with first light revealing successful siege conclusion"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+      position: "Standing before massive city gate, holding symbolic key of strategic wisdom"
+      action: "Using knowledge accumulated throughout campaign to unlock final victory"
+  scene:
+    mainElements: "Bronze compass transformed throughout campaign now serves as symbolic key, its accumulated tactical markings align perfectly with gate mechanism, wisdom earned through experience opening what force alone could not"
+    details: "Bronze compass shows all modifications gained during campaign - tactical markings, strategic notches, battle wear - now function as key elements fitting into complex gate lock mechanism. Massive defensive walls constructed of rammed earth and stone support heavy timber gates reinforced with bronze fittings, now yielding to understanding rather than assault. Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority remains undrawn, victory achieved through wisdom not violence"
+    background: "Fortified capital city walls with defensive watchtowers at regular intervals, Wu army formations waiting beyond siege positions, morning light revealing successful strategic conclusion"
+    atmosphere: "Triumphant but measured victory, sound of heavy gates opening without battle noise, dawn light symbolizing new beginning, sense of earned success through patience and planning, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Dramatic view showing moment of gate opening with key mechanism alignment"
+    focus: "Compass-key fitting into gate mechanism, representing knowledge unlocking what force cannot"
+    depth: "Foreground shows detailed key-gate interaction, middle ground captures victorious king, background reveals successful siege conclusion without destruction"

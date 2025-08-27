@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1893 evening romance to 1920 solitary remembrance, progression from vibrant to sepia
+    location: Parisian carriage interior transitioning to narrator's writing desk
+    weather: Gas-lit Parisian night becoming quiet study afternoon
+  characters: No characters present in this scene
+  scene:
+    mainElements: 'Single cattleya orchid showing complete lifecycle journey: fresh purple bloom pinned to Odette''s black
+      velvet gown becoming aged pressed flower in leather-bound journal. Carriage interior dissolves into study setting.'
+    details: 'Fresh orchid: deep purple petals with sensual curves and morning dew, creating intimate shadows on velvet fabric.
+      Middle stage: wilting flower browning at edges. Final: perfectly preserved pressed specimen between journal pages, color
+      faded to brown transparency but form intact.'
+    background: Carriage windows showing gas-lit boulevards becoming study windows with mature trees. Luxurious carriage upholstery
+      becoming worn leather desk chair. Distant sounds of hoofbeats becoming scratch of fountain pen on paper.
+    atmosphere: Poignant transformation where passionate symbol becomes memorial artifact. Eroticism preserved in art while
+      flesh fades, love's physical tokens transcending temporal decay through careful preservation, no text or letters visible
+  composition:
+    cameraAngle: Extreme close-up macro view following orchid through temporal states
+    focus: Flower itself as protagonist showing time's effect on natural beauty and human memory
+    depth: Shallow depth of field maintaining orchid as constant center while backgrounds blur and transform across decades
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

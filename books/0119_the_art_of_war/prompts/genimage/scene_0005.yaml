@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, evening dusk with last light fading
+    location: Ceremonial throne hall in Wu royal palace, ancient Chinese Zhou dynasty architecture with massive wooden pillars
+      supporting high ceiling
+    weather: Clear evening with stars beginning to appear through open palace windows
+  characters:
+  - appearance: Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years
+      of military training, sharp intelligent dark eyes, high cheekbones
+    clothing: Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft
+      leather boots, occasionally wears light bronze scale armor when in military settings
+    position: Standing at center of hall surrounded by arranged symbolic objects
+    action: Surveying the assembled elements while considering their interconnected meanings
+  scene:
+    mainElements: 'Multiple symbolic objects arranged in ceremonial pattern: bronze compass pointing north on wooden table,
+      broken chain links beside golden court chain, fresh bamboo scroll partially unrolled, sprouted seed in small ceramic
+      pot, all positioned around bronze ritual sword as centerpiece'
+    details: Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk
+      cord, bronze crossguard with geometric designs, worn as symbol of military authority lies horizontal across wooden table
+      surface. Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed
+      with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case positioned to catch evening
+      light. Bronze compass needle remains steady despite proximity to iron chains
+    background: Elevated throne platform with ornate carved wooden throne featuring dragon motifs, flanked by bronze braziers,
+      red silk banners hanging from ceiling beams, polished wooden floor
+    atmosphere: Formal and imposing with warm golden light from oil lamps reflecting off lacquered pillars, scent of sandalwood
+      incense in air, sense of gathering power and preparation for momentous decision, no text or letters visible to viewer
+  composition:
+    cameraAngle: Wide angle showing full ceremonial arrangement with figure contemplating the assembled symbols
+    focus: Bronze ritual sword as central anchor point with other symbols arranged in meaningful pattern around it
+    depth: Foreground details individual symbolic objects, middle ground shows contemplating strategist, background reveals
+      formal palace architecture emphasizing ceremony's importance
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Chess Game of Power"
+  setting:
+    time: "1911, late evening"
+    location: "Private study in Chao compound where political strategy is planned"
+    weather: "Indoor oil lamp lighting creating calculating atmosphere"
+  characters:
+    - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+      clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+      position: "Seated at large wooden table covered with maps and documents"
+      action: "Moving carved pieces across large board representing village territory, calculating political maneuvers with cold precision"
+    - appearance: "Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style but wears fake braided queue poorly attached. Represents failed modernization"
+      clothing: "Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village attire. Clothes mark him as pretentious outsider"
+      position: "Standing at table examining the strategic layout"
+      action: "Pointing to specific locations on map while discussing how to exploit revolutionary chaos for personal gain"
+  scene:
+    mainElements: "Large wooden table functioning as game board with carved pieces representing different village factions. Maps of local area marked with strategic locations. Stacks of documents and ledgers tracking political alliances"
+    details: "Carved wooden pieces representing villagers as game tokens - some painted to look like rebels, others like officials, still others like common people. Silver coins marking territories to be captured"
+    background: "Bookshelves lined with classical texts and administrative records, ancestral portraits overseeing the strategic planning, expensive furnishings showing power and wealth"
+    atmosphere: "Human lives reduced to game pieces in larger political strategy. Revolution becomes calculated opportunity for existing powers to maintain control under new labels. People's hopes manipulated for elite advantage"
+  composition:
+    cameraAngle: "Overhead view showing the game board layout with human pieces being moved strategically"
+    focus: "The carved figures representing real people being manipulated as strategic resources"
+    depth: "Foreground captures the game pieces symbolizing human lives, middle ground shows the calculating players, background reveals the institutional power structure enabling this manipulation"

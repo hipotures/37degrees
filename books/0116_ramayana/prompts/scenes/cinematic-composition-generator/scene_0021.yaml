@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gateway to Exile - Sita's Final Departure"
+  setting:
+    time: "Treta Yuga ancient era, melancholy afternoon during second exile"
+    location: "Palace doorway in Ayodhya where Sita must leave again, ornate royal entrance becoming frame of tragic separation"
+    weather: "Overcast day reflecting the sorrow of unjust exile"
+  characters:
+    - appearance: "Young woman now showing maturity and quiet strength, golden complexion like molten gold, long thick black hair, pregnant form showing coming motherhood"
+      clothing: "Simple traveling garments for exile, carrying few possessions"
+      position: "Standing in doorway threshold between palace and exile"
+      action: "Walking away from royal life toward forest exile, not looking back"
+  scene:
+    mainElements: "Natural architectural frame created by palace doorway containing Sita's figure as she leaves royal life behind. Doorway creates symbolic frame between two worlds - luxury and exile, past and future, justice and injustice"
+    details: "Ornate palace doorway with carved pillars and royal decorations framing departing figure, contrast between rich palace architecture and simple exile clothing, dignified posture showing inner strength despite unjust treatment, threshold symbolically marking transition between worlds"
+    background: "Palace interior visible through doorway showing luxury being abandoned, forest path beyond showing destination of exile, royal courtyard where decision was made"
+    atmosphere: "Tragic dignity of unjust punishment accepted with grace, doorway framing emphasizing the threshold between royal comfort and forest hardship, sense of moral injustice disguised as royal duty"
+  composition:
+    cameraAngle: "Framing shot using palace doorway as natural frame for subject"
+    focus: "Sita clearly focused within doorway frame, architectural details providing compositional structure"
+    depth: "Palace interior in background, Sita in doorway middle ground, exile path in distant background, no text or letters visible"

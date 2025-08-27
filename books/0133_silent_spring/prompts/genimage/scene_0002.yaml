@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1962 summer, intense midday heat
+    location: Agricultural field in American Midwest recently treated with pesticide chemicals, barren soil showing effects
+      of chemical treatment
+    weather: Scorching summer heat creating visible heat distortion
+  characters:
+  - appearance: Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting
+      dedication to scientific truth over corporate interests
+    clothing: White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating
+      scientific profession
+    position: Kneeling on sun-baked soil, examining ground conditions
+    action: Testing soil temperature with scientific instruments while documenting chemical effects on earth
+  scene:
+    mainElements: Intense heat waves visibly rising from chemically-treated farmland, researcher's feet sinking into hot,
+      hardened soil cracked from both heat and chemical damage, shimmer patterns distorting air above barren ground
+    details: Soil surface showing deep cracks and unusual discoloration from chemical treatment, heat distortion creating
+      wavy visual effects above ground, scientific equipment showing extreme temperature readings, absence of plant life where
+      chemicals have sterilized earth, researcher's clothing showing perspiration from intense heat, measuring instruments
+      too hot to handle without protection
+    background: Expansive agricultural landscape showing patchwork of chemically treated and untreated areas, distant farm
+      buildings wavering in heat distortion, cloudless sky suggesting prolonged drought conditions
+    atmosphere: Overwhelming intensity of chemical-enhanced heat, sense of environmental hostility and unnatural barrenness,
+      scientific documentation of ecological damage, no text or letters visible
+  composition:
+    cameraAngle: Low angle showing heat waves rising from ground level
+    focus: Visible heat distortion and researcher's interaction with scorching soil
+    depth: Foreground emphasizes hot soil surface and heat effects, middle ground shows researcher documentation, background
+      reveals broader landscape damage
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

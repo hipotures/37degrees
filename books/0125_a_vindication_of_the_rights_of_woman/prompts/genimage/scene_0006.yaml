@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1792, late morning with harsh, scrutinizing light
+    location: Public promenade in fashionable London district where society gathers for social display
+    weather: Bright, unforgiving daylight that reveals every detail of appearance and behavior
+  characters:
+  - appearance: Young women walking carefully under constant observation, showing awareness of being perpetually judged
+    clothing: Restrictive fashionable dress requiring careful movement, every detail of appearance subject to social evaluation
+    position: Walking in prescribed patterns along promenade, movements constrained by social expectations
+    action: Moving with studied grace while being acutely aware of multiple observers watching for any breach of propriety
+  - appearance: Various authority figures including matrons, clergymen, and social arbiters positioned to observe feminine
+      behavior
+    clothing: Dark, authoritative dress that marks them as judges of social propriety and moral guardians
+    position: Stationed at key points along the promenade like sentries monitoring social order
+    action: Watching women's every gesture, expression, and interaction, ready to note any deviation from proper feminine
+      behavior
+  scene:
+    mainElements: Public walkway with designated areas for social display, benches positioned for optimal observation, carefully
+      maintained public space designed for social surveillance
+    details: Multiple sight lines allow comprehensive observation of women's behavior. Social hierarchy visible in positioning
+      and dress codes. Written and unwritten rules govern every aspect of feminine public presence. Architecture itself facilitates
+      surveillance
+    background: Georgian buildings with windows that serve as additional observation points, suggesting pervasive social monitoring
+      of women's conduct
+    atmosphere: Atmosphere of constant scrutiny and social control, where women cannot move or speak without awareness that
+      they are being evaluated against strict standards of propriety
+  composition:
+    cameraAngle: High angle shot showing the surveillance network and how women are positioned as objects of observation
+    focus: The system of social surveillance that monitors and controls women's public behavior
+    depth: Foreground shows women being watched, middle ground shows the observers in position, background suggests the broader
+      architecture of social control
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

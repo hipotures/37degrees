@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery on Jackson's Island - Meeting Jim the Runaway"
+  setting:
+    time: "1840s Missouri, early morning dawn"
+    location: "Dense forest clearing on Jackson's Island in Mississippi River"
+    weather: "Cool morning with mist rising through trees"
+  characters:
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+      clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim."
+      position: "Creeping carefully through undergrowth, rifle in hands"
+      action: "Stalking cautiously toward distant campfire smoke, face alert and suspicious"
+    - appearance: "35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family. Strong, work-hardened hands."
+      clothing: "Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched and worn. Clothing purely utilitarian without any ornaments."
+      position: "Rising suddenly from sleeping position beside dying campfire"
+      action: "Jumping to feet in terror, falling to knees thinking he sees ghost, hands raised in fear and amazement"
+  scene:
+    mainElements: "Wild forest clearing with large oak and maple trees, small campfire with glowing embers, makeshift sleeping area with blanket"
+    details: "Morning mist filtering through tree branches, fishing equipment nearby, remnants of cooked fish, pile of gathered firewood, clear spring water nearby"
+    background: "Dense forest stretching in all directions, sound of river lapping at island shore, birds beginning morning songs"
+    atmosphere: "Mutual shock and recognition, two outcasts discovering each other in wilderness sanctuary, fear giving way to amazed relief, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from forest edge showing both characters in clearing"
+    focus: "Moment of mutual discovery and recognition between two refugees"
+    depth: "Forest undergrowth in foreground, both characters in clearing in middle, deeper forest in background"

@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "vladimir_didi"
+      name: "Vladimir (Didi)"
+      description_block: |
+        characters:
+          - appearance: "Man around 50-60 years old, taller and more slender than his companion, with thinning gray hair somewhat tidily combed. Face is elongated with sharp, intellectual features and restless eyes that frequently gaze toward the horizon. Expression constantly shifts between hope, irritation, and deep melancholy."
+            clothing: "Worn dark suit and black bowler hat, dirty and torn but maintained in better condition than his companion's attire. Keeps trying to straighten his hat and clothing. Pockets stuffed with food scraps like carrots or radishes."
+            position: "Standing upright with nervous, restless posture, frequently pacing back and forth like a caged animal"
+            action: "Pacing anxiously, gesticulating broadly with his hands to emphasize arguments, constantly fiddling with his bowler hat - removing it, looking inside, dusting it off, replacing it"
+
+    - id: "estragon_gogo"
+      name: "Estragon (Gogo)"
+      description_block: |
+        characters:
+          - appearance: "Man around 50-60 years old, shorter and stockier than his companion, with disheveled dirty hair. Face is more rounded, possibly swollen, bearing traces of beatings he mentions. Expression often apathetic or confused, occasionally animated by childish enthusiasm or anger. Eyes usually directed downward at his aching feet."
+            clothing: "Worn dark suit and bowler hat in much worse condition than Vladimir's - more torn and dirty. Struggles constantly with tight, painful boots that torment him."
+            position: "Often sitting on the low mound, hunched over. When standing, moves slowly and awkwardly, frequently limping"
+            action: "Wrestling with his boots in painful struggle, massaging his feet, holding his stomach, prone to sudden sleeping as escape from reality"
+
+    - id: "pozzo_act1"
+      name: "Pozzo (Act I)"
+      description_block: |
+        characters:
+          - appearance: "Man around 60 years old, powerfully built and well-fed with a commanding, booming voice. Face is ruddy, expressing arrogance and self-satisfaction. Radiates energy and dominance."
+            clothing: "Dressed like a wealthy landowner - elegant coat, waistcoat, fashionable hat. Carries a whip as symbol of his power, elegant pipe, and pocket watch."
+            position: "Moves with sweeping, dominant gestures, commands the entire space"
+            action: "Striding confidently across the stage, cracking his whip, eating chicken and drinking wine while forcing Lucky to perform degrading acts"
+
+    - id: "pozzo_act2"
+      name: "Pozzo (Act II)"
+      description_block: |
+        characters:
+          - appearance: "Same man as Act I but now blind, his movements uncertain as he stumbles and falls. Face expresses fear and helplessness where once was arrogance."
+            clothing: "Same elegant attire as Act I but now dirty and disheveled after falling"
+            position: "Stumbling, falling, dependent on the short rope connecting him to Lucky"
+            action: "Struggling to stand after falling, crying out in panic and pain, completely dependent on his former slave"
+
+    - id: "lucky"
+      name: "Lucky"
+      description_block: |
+        characters:
+          - appearance: "Age indeterminate but appears old and exhausted by life. Physically broken, posture hunched under weight of baggage he carries. Long, probably gray hair falls across his face. Visible painful wound on neck from the rope. Most of the time his face lacks expression, eyes empty and absent, comes alive only during his monologue when his face contorts with effort and eyes flash with madness."
+            clothing: "Servant's or porter's attire, possibly some form of livery, but dirty and torn. Wears a battered bowler hat."
+            position: "Bent double under the weight of luggage, connected to Pozzo by a rope around his neck"
+            action: "Carrying heavy bags, suitcase, folding stool, and picnic basket for Pozzo, performing degrading acts on command, delivering chaotic intellectual monologue when hat is placed on his head"
+
+    - id: "boy_messenger"
+      name: "Boy Messenger" 
+      description_block: |
+        characters:
+          - appearance: "Child around 10-12 years old, small and delicate. Appears frightened and shy, movements are cautious."
+            clothing: "Simply dressed, possibly in shepherd's clothing, may be barefoot which emphasizes his modesty and connection to nature as goat herder."
+            position: "Keeps safe distance from Vladimir and Estragon, ready to flee"
+            action: "Delivering Godot's message with timid voice, maintaining distance from the two men"
+
+  locations:
+    - id: "country_road_evening"
+      name: "Country Road at Evening"
+      description_block: |
+        setting:
+          location: "Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+        mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+        atmosphere: "Atmosphere saturated with silence, stagnation, and sense of vastness. Cold and exposure to elements pervades despite undefined weather. Overwhelming presence of emptiness and absence fills the space."
+
+    - id: "moonlit_night_scene"
+      name: "Night Scene Under Moon"
+      description_block: |
+        setting:
+          location: "Same desolate country road transformed by nightfall, now under cold white moonlight"
+        mainElements: "Bare tree (or tree with few leaves in Act II) casts sharp, graphic shadow on ground. Low mound barely visible in moonlight. Road disappears into darkness in both directions."
+        atmosphere: "Cold, pale moonlight creates almost surreal, ghostly atmosphere. Sharp contrast between light and shadow emphasizes isolation and otherworldliness of the scene."
+
+  items:
+    - id: "rope_act1"
+      name: "Long Rope (Act I)"
+      description_block: |
+        details: "Thick, rough rope connecting Pozzo and Lucky. In Act I the rope is long, allowing Pozzo to control Lucky from distance while emphasizing his dominance and Lucky's subjugation."
+
+    - id: "rope_act2"  
+      name: "Short Rope (Act II)"
+      description_block: |
+        details: "Same thick rope but now much shorter, creating new intimate dependency between blind Pozzo and his guide Lucky. Symbolizes reversal of power dynamic."
+
+    - id: "lucky_baggage"
+      name: "Lucky's Baggage"
+      description_block: |
+        details: "Heavy collection of worn luggage including old suitcase, folding stool, picnic basket with food and wine. All items are battered and heavy, representing the literal burden of Lucky's servitude and metaphorical weight of existence and accumulated culture."
+
+    - id: "bowler_hats"
+      name: "Bowler Hats"
+      description_block: |
+        details: "Black bowler hats worn by all male characters, dusty and maintaining their shape despite wear. Vladimir's hat becomes obsessive focus - he removes it, peers inside, dusts it off, replaces it repeatedly, symbolizing his mental preoccupation and attempt to maintain dignity."
+
+    - id: "boots_estragon"
+      name: "Estragon's Boots"
+      description_block: |
+        details: "Old, worn leather boots that are too tight and cause constant pain. Dark, faded color from age and wear. These boots become Estragon's personal enemy and symbol of his attachment to physical suffering and earth-bound nature."
+
+    - id: "pozzo_whip"
+      name: "Pozzo's Whip"
+      description_block: |
+        details: "Long leather whip with handle, well-used tool of dominance and control. Pozzo cracks it to command Lucky and demonstrate his power over his slave."
+
+    - id: "food_scraps"
+      name: "Food Scraps"
+      description_block: |
+        details: "Simple, basic foods including one orange carrot and one white radish, both somewhat wilted possibly with traces of earth still on them. Represents basic sustenance, poverty, and remains of life. Used for communion between Vladimir and Estragon."

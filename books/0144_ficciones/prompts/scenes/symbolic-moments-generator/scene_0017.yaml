@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Desert of Crystalline Logic"
+  setting:
+    time: "Eternal noon in landscape of pure reason"
+    location: "Vast desert where sand grains are geometric crystals and dunes follow mathematical patterns"
+    weather: "Blazing sun that illuminates without warmth, light of pure logic"
+  characters:
+    - appearance: "Tall imposing figure matching Lönnrot in height, dark mirror image of the detective, intense eyes burning with hatred and cunning intelligence, possibly reddish hair suggesting his name"
+      clothing: "Well-tailored gangster suit with red accent (tie, pocket square, or lapel pin), expensive but menacing appearance, dark colors with single red element"
+      position: "Standing on crystalline dune, arms spread wide in gesture of triumph"
+      action: "Surveying perfect geometric landscape of his creation, trap made manifest as beautiful mathematical reality"
+  scene:
+    mainElements: "Desert composed entirely of perfect geometric crystals instead of sand, each grain a tiny prism reflecting light in calculated patterns, dunes arranged in mathematical spirals and golden ratios, landscape of pure logic made physical, every surface reflecting light according to optical laws"
+    details: "Desert transforms from natural formation into manifestation of mathematical thought, crystalline sand creating rainbow prismatic effects as light refracts through millions of geometric shapes. Beauty of perfect logic becomes hostile environment where human emotion cannot survive. Geometric patterns hypnotize while threatening to trap viewer in crystal maze"
+    background: "Infinite crystalline desert stretching to horizon, geometric mountains in distance following fractal patterns, sky like polished mirror reflecting mathematical perfection, no organic life visible"
+    atmosphere: "Cold beauty of pure logic, prismatic light creating spectacular but inhuman display, silence of space where emotion has been calculated away, triumph of reason over human warmth, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing figure against vast geometric landscape"
+    focus: "The crystalline desert dunes arranged in perfect mathematical patterns"
+    depth: "Prismatic sand in foreground, triumphant figure in middle ground, infinite geometric landscape extending to background horizon"

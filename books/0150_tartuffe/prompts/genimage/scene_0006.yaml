@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1660s France, morning
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: bright morning with strong sunlight streaming through windows
+  characters:
+  - appearance: man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair
+      under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire
+    clothing: plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather
+      shoes, large wooden rosary beads hanging from belt, carries small prayer book
+    position: entering through main doorway with theatrical humility, pausing to address invisible servant
+    action: speaking loudly to unseen servant about hiding hair shirt and whips, performing elaborate gestures of false piety
+      for maximum effect on any observers
+  - appearance: sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with
+      bright alert eyes, practical manner, brown hair completely concealed under white linen cap
+    clothing: plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering
+      all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments
+    position: standing near side table arranging flowers but watching Tartuffe's performance with undisguised skepticism
+    action: pausing in her work to observe his theatrical entrance with raised eyebrows and cynical expression, clearly unimpressed
+      by his holy act
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, large
+      wooden crucifix mounted on wall above fireplace, leather-bound prayer books on side table, wooden rosary beads with
+      worn smooth finish from handling, small religious paintings in gilded frames, heavy brass candlesticks for prayer vigils
+    details: morning sunlight illuminating religious artifacts recently given prominence in room since Tartuffe's arrival,
+      contrast between luxury of household and his ostentatious simplicity, fresh flowers wilting in vase suggesting neglect
+      of normal household routines
+    background: doorways leading to other parts of house where Orgon presumably waits to greet his spiritual guide, family
+      portraits now overshadowed by religious imagery
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, palpable sense of performance and deception as false
+      piety enters elegant domestic space
+  composition:
+    cameraAngle: wide shot establishing Tartuffe's theatrical entrance into the household domain
+    focus: Tartuffe's ostentatious humility contrasted with Dorine's practical skepticism and clear-eyed judgment
+    depth: foreground dominated by Tartuffe's performance, middle ground showing luxury household he aims to possess, background
+      suggesting religious transformation of secular space
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

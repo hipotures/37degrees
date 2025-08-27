@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Media Broadcast - Controlling Truth Through Information"
+  setting:
+    time: "1513, public announcement hour"
+    location: "Town crier and public announcement system of Renaissance period"
+    weather: "Clear day for maximum public visibility"
+  characters:
+    - appearance: "Official town criers and heralds in governmental livery"
+      clothing: "Formal civic regalia indicating official authority"
+      position: "Positioned at strategic public locations"
+      action: "Announcing official version of events, carefully controlling information flow to population"
+  scene:
+    mainElements: "Public information system controlled by state authority. Official announcements designed to shape public perception of events. Alternative viewpoints suppressed or discredited."
+    details: "Written proclamations posted only at designated locations. Citizens required to gather at specific times to receive information. Guards ensuring no alternative narratives circulate."
+    background: "Information environment completely controlled by those in power. Truth becomes whatever serves state interests."
+    atmosphere: "Systematic control of narrative and perception. Reality defined by those with power to control information."
+  composition:
+    cameraAngle: "Medium shot showing information control mechanisms"
+    focus: "State monopoly on defining truth and reality"
+    depth: "Foreground shows official announcements, middle ground reveals controlled crowd, background displays enforcement systems"

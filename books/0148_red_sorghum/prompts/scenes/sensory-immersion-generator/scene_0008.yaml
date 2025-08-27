@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Snow Muffling All Movement"
+  setting:
+    time: "1924 winter, late afternoon"
+    location: "Distillery courtyard covered in fresh snowfall, Northeast Gaomi District"
+    weather: "Heavy snowfall creating sound-absorbing blanket"
+  characters:
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Standing motionless in center of snow-covered courtyard"
+      action: "Moving through snow with exaggerated slow careful steps"
+  scene:
+    mainElements: "Fortified complex courtyard transformed by heavy snowfall, traditional architecture muffled by white blanket"
+    details: "Footsteps making no visible impression in deep snow, figure moving in slow motion through sound-absorbing environment, breath visible in cold air but no other signs of vocalization, snow-covered surfaces eliminating all echoes, padded silence suggested by thick snow accumulation, movement appearing suspended and dreamlike, shadows softened by white reflection, complete absence of dust or particles in still air, no text or letters visible"
+    background: "Snow-laden distillery buildings creating muffled architectural backdrop, heavy sky promising more snowfall"
+    atmosphere: "Profound silence made visible through environmental stillness, world transformed into hushed cathedral of quiet, movement slowed by sound-absorbing conditions"
+  composition:
+    cameraAngle: "Wide shot emphasizing isolating silence"
+    focus: "Solitary figure moving through sound-deadening environment"
+    depth: "Foreground shows silent footsteps, middle ground reveals muffled figure, background suggests snow-silenced architecture"

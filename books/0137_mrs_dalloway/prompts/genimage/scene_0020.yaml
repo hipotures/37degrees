@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: June 1923, entire day compressed from dawn to midnight
+    location: Multiple London locations showing objective passage of time
+    weather: Natural progression from morning through afternoon to evening lighting
+  characters:
+  - appearance: All major characters appearing at their actual relative scales and significance in time-lapse view
+    clothing: Period appropriate attire shown in natural progression throughout day
+    position: Moving through actual space and time relationships across London
+    action: Real activities stripped of psychological interpretation and dramatic emphasis
+  scene:
+    mainElements: London cityscape showing objective time passage with Big Ben marking hours, shadows moving across buildings,
+      traffic patterns changing, light conditions shifting naturally
+    details: 'Time-lapse revealing what actually happened versus character memories: actual duration of meetings, real distances
+      traveled, objective timing of events, natural light progression, normal pace of pedestrian movement, accurate scale
+      of crowds, factual weather conditions, mechanical clock time governing all events, no text or letters visible'
+    background: London architecture appearing in natural time progression without psychological emphasis, city functioning
+      according to actual temporal rhythms
+    atmosphere: Objective temporal reality showing events as they occurred in real time rather than psychological time, mechanical
+      time progression revealing truth of day's events
+  composition:
+    cameraAngle: Time-lapse view showing objective passage of single day across London landscape
+    focus: Clock time and natural light progression as organizing principles rather than character emotions
+    depth: Multiple London locations shown in temporal sequence revealing actual spatial and temporal relationships between
+      events
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

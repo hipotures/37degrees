@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1922, perpetual twilight
+    location: Psychological landscape representing confusion and lost direction
+  characters: No characters present in this scene
+  scene:
+    mainElements: Labyrinth constructed entirely of tall mirror fragments, each reflecting different distorted versions of
+      reality, paths leading in circles with no apparent exit
+    details: 'The maze walls consist of mirror shards of various sizes - some as tall as doorways, others small as handkerchiefs
+      - all cracked and reflecting fractured images. Each mirror shows something different: some reflect empty spaces, others
+      show scenes from memory, still others show impossible landscapes or multiple versions of the same corridor. The paths
+      between mirrors curve and twist, creating optical illusions where straight lines appear bent. Footprints in the sand
+      lead in circles, showing previous unsuccessful attempts at navigation.'
+    background: Sky above shows no sun or moon, just perpetual gray twilight that provides sourceless illumination
+    atmosphere: Profound disorientation and loss of direction, psychological state of confusion made physical, endless searching
+      without progress, no text or letters visible
+  composition:
+    cameraAngle: Ground-level view through the maze corridors showing infinite reflections
+    focus: The endless reflections and circular paths that lead nowhere
+    depth: Mirror fragments and twisted paths in foreground, recursive reflections creating false depth in middle ground,
+      gray twilight sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

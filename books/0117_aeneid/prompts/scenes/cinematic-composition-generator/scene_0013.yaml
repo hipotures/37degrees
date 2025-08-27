@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dido's Final Moments on Pyre"
+  setting:
+    time: "Mythical era around XII century BCE, dawn breaking over Carthage"
+    location: "Palace courtyard in Carthage with massive funeral pyre constructed for ritual suicide"
+    weather: "Clear dawn with morning light beginning to illuminate tragic scene"
+  characters:
+    - appearance: "exceptionally beautiful young widow, tall with statuesque bearing"
+      clothing: "royal robes partially torn in anguish, golden jewelry gleaming in firelight"
+      position: "climbing funeral pyre with sword of departed lover in hand"
+      action: "raising blade toward heart while speaking final words of love and curse"
+  scene:
+    mainElements: "Massive funeral pyre built in palace courtyard, shared bed and personal possessions of lovers arranged on wooden platform, palace architecture surrounding intimate tragedy"
+    details: "Trojan sword gleaming in dawn light, luxury items from passionate affair scattered on pyre, purple royal robes and golden clasps catching early light, palace servants watching in horror, smoke beginning to rise from kindling, abandoned wine cups and love letters"
+    background: "Carthaginian palace architecture with columns and royal apartments, city construction visible beyond walls, Mediterranean harbor with distant ships"
+    atmosphere: "Royal dignity destroyed by ungovernable passion, love transformed into destructive fury, tragic waste of imperial potential"
+  composition:
+    cameraAngle: "Over-the-shoulder shot following queen's gaze toward approaching death and departed lover"
+    focus: "Trojan sword as instrument of tragic fate while lover's possessions surround final moments"
+    depth: "Sword and immediate pyre details in sharp foreground, palace courtyard and observers in middle distance, Carthage and harbor in soft background, no text or letters visible"

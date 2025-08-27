@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Transportation Evolution - Horses to Cars to Military Vehicles"
+  setting:
+    time: "1910 to 1973, sixty-three years of transportation changes"
+    location: "main street leading to Big House, same urban thoroughfare across six decades"
+    weather: "morning commute light consistent across time periods, emphasizing technological rather than natural change"
+  characters:
+    - appearance: "man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates others, strong jawline, determined dark eyes"
+      clothing: "simple worn mining work clothes, rough brown cotton shirt, patched dark trousers, heavy leather boots"
+      position: "walking purposefully along cobblestone street toward distant Big House"
+      action: "striding with determination while horse-drawn carriages and early automobiles share roadway"
+    - appearance: "man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and anger, graying hair, stern dark eyes that command respect and fear"
+      clothing: "impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding boots, wool vest, white cotton shirt"
+      position: "seated in back of chauffeur-driven luxury automobile"
+      action: "reading political newspapers while being driven to senate meetings in established conservative style"
+    - appearance: "young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion"
+      clothing: "1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting political consciousness"
+      position: "pressed against wall as military convoy passes during curfew enforcement"
+      action: "hiding from armored vehicles and troop transports while attempting to reach safe house"
+  scene:
+    mainElements: "street transportation evolution showing power dynamics - young Esteban walking among horse carriages and early Ford Model T cars representing emerging middle class, established Esteban riding in luxury sedan representing conservative elite, Alba dodging military trucks and tanks representing oppressive dictatorship"
+    details: "road surface evolves from cobblestones to asphalt to damaged pavement with tank tracks, street lighting progresses from gas lamps to electric poles to military searchlights, buildings show increasing political graffiti and bullet damage across decades, no text or letters visible"
+    background: "same urban architecture but political context completely transformed - peaceful commercial district becomes site of conservative political power then military occupation zone, shop windows evolve from luxury goods to political propaganda to boarded protection"
+    atmosphere: "transportation methods reflect changing social power - pedestrian mobility to elite privilege to military intimidation, street sounds evolve from horse hooves and early engines to luxury car comfort to threatening military machinery"
+  composition:
+    cameraAngle: "street-level perspective showing human relationship to changing transportation technology"
+    focus: "central emphasis on how transportation reflects and reinforces social power structures"
+    depth: "foreground shows detailed vehicle evolution, middle ground captures figures across time periods, background reveals changing urban political context"

@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1900, 1935, 1970 - three generations across seventy years
+    location: secluded riverside spot near Tres Marías estate, traditional meeting place for García family
+    weather: golden sunset light consistent across decades, emphasizing eternal nature of location
+  characters:
+  - appearance: elderly peasant man with deeply weathered face showing decades of field labor, bent posture from lifetime
+      of agricultural work, wise eyes that have witnessed social transformation
+    clothing: traditional peasant clothing - rough cotton work shirt, patched trousers, rope belt, worn leather sandals
+    position: seated on riverbank teaching traditional folk wisdom to grandson
+    action: sharing ancient stories about fighting ants and peasant resistance while whittling simple wooden toy
+  - appearance: middle-aged peasant man with strong build, sun-weathered features, cautious expression showing awareness of
+      social boundaries, hands callused from estate management
+    clothing: estate overseer attire - better quality work clothes, clean cotton shirt, sturdy boots indicating trusted position
+    position: standing respectfully while receiving instructions from patron Esteban Trueba
+    action: listening to estate management orders with diplomatic deference while internally maintaining peasant solidarity
+  - appearance: man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders,
+      most distinctive feature is mutilated right hand missing three fingers from violent punishment
+    clothing: simple peasant work clothes - rough cotton shirts, patched trousers, sometimes traditional poncho, occasionally
+      disguises as priest or vagrant
+    position: seated by river with acoustic guitar, posture showing revolutionary confidence
+    action: playing protest songs for clandestine political meetings, using music to organize peasant resistance
+  scene:
+    mainElements: riverside location serves as temporal anchor for three generations of García men - grandfather teaching
+      traditional resistance through folklore, father serving as diplomatic bridge between classes, son leading open rebellion
+      through revolutionary music, same river stones and flowing water witness family evolution
+    details: generational artifacts show changing resistance methods - Old Pedro's carved wooden animals representing folk
+      wisdom, Pedro Segundo's estate ledgers showing institutional cooperation, Pedro Tercero's guitar symbolizing direct
+      political action, river flowing constantly while human strategies evolve, no text or letters visible
+    background: Tres Marías estate visible across river showing architectural evolution from neglected ruin to prosperous
+      hacienda to site of peasant uprising, distant mountains remain constant while foreground shows three approaches to social
+      justice
+    atmosphere: eternal golden sunset light emphasizing continuity of peasant struggle across generations, river sounds constant
+      while human voices evolve from whispered folklore to diplomatic discussion to revolutionary songs
+  composition:
+    cameraAngle: riverside perspective showing three figures in temporal sequence
+    focus: central emphasis on evolving peasant resistance strategies across generations
+    depth: foreground shows detailed generational artifacts, middle ground captures three Pedro figures across time, background
+      reveals changing estate power dynamics
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

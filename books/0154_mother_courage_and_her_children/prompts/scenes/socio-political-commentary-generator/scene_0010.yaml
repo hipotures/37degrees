@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Censorship Evidence - Banned Books and Silenced Voices"
+  setting:
+    time: "1630 spring, intellectual suppression becoming visible"
+    location: "Library or education facility within military territory showing intellectual control"
+    weather: "Gray overcast day suggesting intellectual oppression"
+  characters:
+    - appearance: "Military censors and book burners destroying forbidden knowledge"
+      clothing: "Military uniforms with special insignia for intellectual control duties"
+      position: "Standing among burning books and empty shelves removing dangerous ideas"
+      action: "Burning prohibited books, removing dangerous texts, maintaining intellectual conformity through suppression"
+    - appearance: "Scholars and civilians speaking only in whispers or remaining silent"
+      clothing: "Simple civilian clothes showing fear and intimidation"
+      position: "Cowering in corners or speaking in hushed tones afraid of surveillance"
+      action: "Whispering carefully, avoiding dangerous topics, self-censoring to avoid punishment"
+  scene:
+    mainElements: "Empty library shelves where books once stood, smoke from burning texts, silenced conversations"
+    details: "Books being thrown into fires, empty shelves where knowledge once resided, people afraid to speak freely, intellectual discourse reduced to whispered conversations, education replaced by propaganda"
+    background: "Systematic destruction of knowledge and free thought as military control strategy"
+    atmosphere: "Intellectual oppression and fear, knowledge treated as dangerous weapon, free speech eliminated as threat to authority"
+  composition:
+    cameraAngle: "Medium shot showing destruction of intellectual freedom and knowledge"
+    focus: "Systematic suppression of knowledge and free expression revealing totalitarian control"
+    depth: "Foreground shows book burning, middle ground empty shelves, background silenced population"

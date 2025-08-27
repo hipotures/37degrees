@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1840s Arkansas plantation, morning
+    location: Front porch of Phelps farmhouse
+    weather: Bright, clear morning after night's events
+  characters:
+  - appearance: 13-14 year old white boy, average height and build. Clean, well-groomed appearance. Lively, intelligent face
+      now showing embarrassment and defensive justification.
+    clothing: Clean clothes with bandaged leg propped up on chair
+    position: Sitting in chair on porch with wounded leg elevated
+    action: Sheepishly explaining that Miss Watson had freed Jim in her will two months ago
+  - appearance: 35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark
+      skin, short curly black hair. Gentle, often worried expression now mixed with relief and dignity.
+    clothing: Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched
+      and worn. Clothing purely utilitarian without any ornaments.
+    position: Standing on porch steps, no longer in chains
+    action: Receiving news of his legal freedom with quiet dignity and restrained joy
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face showing mixture of relief and disgust at Tom's game.
+    clothing: Rumpled clothes from night's adventure
+    position: Standing beside porch railing
+    action: Staring at Tom with dawning understanding of the cruel game that was played
+  scene:
+    mainElements: Simple farmhouse porch with wooden chairs, morning sunlight revealing aftermath of unnecessary adventure
+    details: Bandages and medical supplies for Tom's wound, coffee cups on porch rail, family members gathering to hear explanation,
+      peaceful farm morning scene
+    background: Arkansas cotton plantation in morning light, outbuildings and fields stretching to horizon, normal farm activity
+      resuming
+    atmosphere: Revelation of cruel futility of elaborate escape, Jim's dignity in face of systematic dehumanization, Tom's
+      romantic adventure exposed as callous game, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from farmyard showing all characters on porch
+    focus: Jim's quiet dignity contrasted with Tom's embarrassed justifications and Huck's moral awakening
+    depth: Characters on porch in foreground, farmyard activities in middle, peaceful countryside in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

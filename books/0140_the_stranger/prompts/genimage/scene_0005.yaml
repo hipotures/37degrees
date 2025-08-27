@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, evening
+    location: Multi-story residential building in European quarter of French colonial Algiers, Algeria
+    weather: Warm evening with fading sunlight
+  characters:
+  - appearance: Young man aged 25-30 years, European features, average build, distant expression in eyes
+    clothing: Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions
+    position: Standing with shoulders slightly slouched, hands often in pockets or holding cigarette
+    action: Moving with deliberate, economical gestures, frequently squinting against bright sunlight
+  scene:
+    mainElements: Small balcony overlooking busy Algiers street, apartment window reflecting Meursault's image, evening light
+      creating shadows and reflections
+    details: Window glass showing Meursault's face with neutral expression, cigarette smoke drifting up, reflection slightly
+      distorted by window imperfections, balcony railing casting geometric shadows. Street sounds rising from below - tramways,
+      conversations, evening activities.
+    background: Busy European quarter street with colonial architecture, other apartment buildings with lit windows, people
+      walking on sidewalks, occasional motor vehicle
+    atmosphere: Quiet moment of self-observation without self-judgment, evening light creating contemplative mood, urban life
+      continuing below while individual remains detached observer
+  composition:
+    cameraAngle: Close-up view from Meursault's perspective looking at his own reflection
+    focus: Meursault's face reflected in window glass, showing neutral expression and distant eyes
+    depth: Foreground shows window surface with reflection, middle ground shows balcony elements, background shows evening
+      street scene through glass, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1840s Kentucky, Sunday morning
+    location: Small country church with wooden pews
+    weather: Bright, peaceful Sunday morning
+  characters:
+  - appearance: Around 60 years old, tall and imposing man with military bearing. Gray hair and beard. Stern, proud facial
+      features. Penetrating gaze showing authority and family pride.
+    clothing: Immaculate white linen suit, perfectly clean and pressed. Represents Southern plantation owner's status and
+      refinement.
+    position: Sitting in front pew with family, rifle leaning between his knees
+    action: Listening intently to sermon about brotherly love while keeping weapon within reach
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+    clothing: Borrowed Sunday clothes from Grangerford family, clean but uncomfortable
+    position: Sitting beside Buck Grangerford in family pew
+    action: Observing with growing unease the contradiction between sermon and armed congregation
+  scene:
+    mainElements: Simple wooden church interior with plain pews, pulpit at front, congregation of well-dressed families all
+      carrying weapons
+    details: Rifles and shotguns leaning against pews, prayer books open on wooden seats, sunlight streaming through clear
+      glass windows, simple wooden cross above pulpit
+    background: Other feuding families sitting in separate sections, all similarly armed, peaceful country churchyard visible
+      through windows
+    atmosphere: Grotesque contradiction between Christian message and violent reality, surface piety masking murderous hatred,
+      weapons of war in house of peace, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from side pew showing armed congregation
+    focus: Juxtaposition of weapons with religious worship, peaceful sermon with prepared violence
+    depth: Armed families in pews in foreground, preacher at pulpit in middle, church windows and peaceful outdoors in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Economic Chains - The Marriage Market as Women's Only Path to Security"
+  setting:
+    time: "1792, late afternoon light suggesting end of day and limited options"
+    location: "Fashionable drawing room where marriageable daughters are displayed to prospective suitors like commodities"
+    weather: "Golden but fading light suggesting urgency and limited time for securing advantageous match"
+  characters:
+    - appearance: "Young women aged 16-22 arranged as if for inspection, representing commodities in marriage market"
+      clothing: "Finest gowns and elaborate hairstyles designed to attract male attention and demonstrate family wealth"
+      position: "Positioned strategically around room to display their beauty and accomplishments to best advantage"
+      action: "Performing feminine accomplishments - playing music, displaying embroidery, conversing with studied charm"
+    - appearance: "Prospective suitors and their families evaluating the women as potential acquisitions"
+      clothing: "Fine masculine attire suggesting wealth and social position necessary for supporting wives"
+      position: "Standing or seated in positions of evaluation and judgment, clearly in position of choosing"
+      action: "Assessing the women's beauty, accomplishments, and family connections as economic and social assets"
+  scene:
+    mainElements: "Elegant room arranged as showroom for feminine display, with musical instruments, embroidery work, and other evidence of feminine accomplishments on prominent display"
+    details: "Visual cues of economic transaction - family wealth displayed through furnishings, women's dress and accomplishments serving as advertisement of their value. Parents hovering anxiously, suggesting financial stakes involved. Young women performing rather than being authentic"
+    background: "Portraits of previous generations suggesting this economic system has operated for generations"
+    atmosphere: "Atmosphere of economic negotiation disguised as social gathering, where women's future security depends entirely on their success in attracting male approval"
+  composition:
+    cameraAngle: "Medium wide shot showing both the displayed women and their evaluators in same frame"
+    focus: "The economic nature of marriage arrangements and women's position as commodities rather than autonomous agents"
+    depth: "Foreground shows women performing for approval, middle ground shows evaluating men, background suggests institutional nature of marriage market"

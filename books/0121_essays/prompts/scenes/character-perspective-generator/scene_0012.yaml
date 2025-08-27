@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Child's Terror at Adult Cruelty"
+  setting:
+    time: "1572, afternoon of violence"
+    location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+    weather: "Harsh light creating frightening shadows"
+  characters:
+    - appearance: "Small child of 5-7 years with terrified eyes, face streaked with tears, cowering posture"
+      clothing: "Torn and dirty child's clothing, shoes lost in flight"
+      position: "Hiding behind wooden cart or building, peering out at incomprehensible adult violence"
+      action: "Covering ears to block screams, closing eyes against horrible sights, trembling with fear"
+  scene:
+    mainElements: "Adult world transformed into landscape of giants performing incomprehensible acts of cruelty"
+    details: "Adults appear as terrifying giants wielding enormous weapons, their faces distorted by anger into monster-like expressions, buildings loom threateningly overhead, pools of blood appear vast and deep from child's low perspective, sounds echo and amplify creating overwhelming sensory assault, smoke and fire seem to reach toward sky like grasping demon fingers, scattered belongings appear as remains of other children who didn't escape, no text or letters visible"
+    background: "Familiar countryside transformed into hellscape where trusted adults become monsters"
+    atmosphere: "Complete incomprehension of adult motives for violence, terror at collapse of safe world, sense of abandonment in landscape where protection has vanished"
+  composition:
+    cameraAngle: "Child's eye level emphasizing vulnerability and enormity of adult violence"
+    focus: "Child's terrified perspective on incomprehensible adult cruelty and destruction"
+    depth: "Foreground shows child's hiding place, middle ground captures threatening adult figures, background reveals devastated landscape, no text or letters visible"

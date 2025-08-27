@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1776, morning assembly
+    location: Factory courtyard with workers gathering for daily instructions
+    weather: Cold gray morning with harsh light
+  characters:
+  - appearance: Multiple workers of different ages but similar appearance from hard labor, wearing nearly identical rough
+      clothing
+    clothing: Standardized work garments of coarse linen and wool, practical aprons, worn shoes, clothing showing conformity
+      rather than individual choice
+    position: standing in organized rows like soldiers, all facing same direction
+    action: listening to daily instructions with identical posture and attention, individual personalities suppressed
+  scene:
+    mainElements: Factory workers arranged in precise geometric rows, all wearing similar work clothes and maintaining identical
+      postures, supervisor addressing them from elevated platform, industrial buildings providing uniform backdrop
+    details: Workers stand in perfect formation wearing nearly identical rough clothing, their individual characteristics
+      suppressed by uniformity of dress and posture. Supervisor delivers instructions from raised platform, emphasizing hierarchy.
+      Workers maintain same stance and expression, suggesting loss of individual identity through systematic organization
+    background: Industrial courtyard surrounded by identical factory buildings, smokestacks emitting uniform streams of smoke,
+      suggesting systematic replication of industrial control
+    atmosphere: Suppression of individuality through systematic organization, workers treated as interchangeable units, loss
+      of personal identity in industrial system
+  composition:
+    cameraAngle: High angle showing geometric arrangement of identical workers
+    focus: Uniformly dressed workers in formation, emphasizing loss of individual identity
+    depth: Workers arranged in geometric patterns fill foreground and middle ground, supervisor and industrial buildings in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

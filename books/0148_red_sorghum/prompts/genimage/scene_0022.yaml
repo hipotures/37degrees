@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1924 spring, morning
+    location: Central courtyard of distillery during wine consecration ceremony, Northeast Gaomi District
+    weather: Clear spring morning with gentle warming sunlight
+  characters:
+  - appearance: Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion
+      with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms
+    clothing: Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan
+      suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)
+    position: Standing beside large ceremonial wine vat
+    action: Participating in ritual wine blessing, observing golden liquid
+  - appearance: Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white
+      forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds,
+      large breasts and wide hips indicating maternal strength
+    clothing: Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon
+      at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)
+    position: Standing opposite the ceremonial vat
+    action: Observing wine surface patterns and color changes
+  scene:
+    mainElements: Large earthenware vessel used for ceremonial wine blessing, sacred ritual combining multiple sensory elements
+    details: Golden wine surface reflecting sunlight like liquid mirror, subtle ripples suggesting gentle movement and sound,
+      steam rising from fermented liquid suggesting warmth and complex scents, ceremonial atmosphere visible through careful
+      postures and concentrated expressions, wine color shifting from gold to amber in changing light, ceramic vessel surface
+      showing condensation suggesting temperature, traditional ritual objects creating sacred space, sunlight creating prisms
+      through liquid surface, peaceful concentrated expressions suggesting spiritual connection, no text or letters visible
+    background: Fortified distillery courtyard with traditional architecture creating sacred ceremonial space
+    atmosphere: Spiritual synthesis combining visual beauty, implied scent, suggested taste, warmth, and ceremonial sound,
+      sacred transformation of agricultural product into spiritual substance, community blessing ritual
+  composition:
+    cameraAngle: Medium shot capturing ritual participants and sacred wine vessel
+    focus: Golden wine surface and concentrated ceremonial expressions
+    depth: Foreground shows wine vessel detail, middle ground includes ritual participants, background provides ceremonial
+      courtyard setting
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1935 early spring transitioning to 1970 full summer
+    location: three-level internal courtyard within Big House, same architectural space across thirty-five years
+    weather: gentle spring rain giving way to blazing summer heat, seasonal transformation showing time's passage
+  characters:
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: kneeling gracefully among spring plantings, hands in dark soil
+    action: planting exotic seeds and bulbs while multiple colorful birds sing from ornate cages surrounding courtyard
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: standing among fully mature flowering plants that Clara planted decades earlier
+    action: reading revolutionary texts beneath shade of towering plants Clara nurtured, surrounded by empty released birdcages
+  scene:
+    mainElements: courtyard transformation from Clara's spring garden beginning to Alba's summer paradise - tiny seedlings
+      grown into magnificent flowering trees, small bird cages multiplied into elaborate aviary now standing empty after Clara's
+      symbolic release, fountain evolved from simple basin to elaborate water feature
+    details: botanical timeline visible through plant growth stages - Clara's original plantings now towering overhead providing
+      shade for Alba's revolutionary studies, empty ornate birdcages represent Clara's final act of liberation, courtyard
+      tiles show decades of wear and root damage, no text or letters visible
+    background: same three-level architecture but surfaces weathered by time, paint faded and vines climbing walls, sounds
+      evolve from Clara's bird songs to political radio broadcasts Alba listens to
+    atmosphere: temporal continuity through natural growth cycles, spring hope of Clara's era maturing into summer urgency
+      of Alba's political awakening, liberation theme connecting Clara's freed birds to Alba's revolutionary spirit
+  composition:
+    cameraAngle: elevated view showing full courtyard evolution across decades
+    focus: central emphasis on botanical growth representing passage of time and family legacy
+    depth: foreground shows detailed plant maturation, middle ground captures figures separated by time, background reveals
+      architectural aging
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

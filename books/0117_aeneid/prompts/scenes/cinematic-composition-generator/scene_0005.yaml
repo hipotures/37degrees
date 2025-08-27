@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Italian Battlefield - Armies Arrayed for Final Combat"
+  setting:
+    time: "Mythical era around XII century BCE, clear morning before decisive battle"
+    location: "Open plain before walls of Latin capital city in central Italian countryside"
+    weather: "Bright, cloudless day with morning light illuminating armies in formation"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunika with longer sleeves in Eastern style"
+      position: "standing at front of Trojan formation with divine shield visible"
+      action: "raising sword toward enemy while addressing troops before single combat"
+    - appearance: "handsome young warrior described as second Achilles"
+      clothing: "Italian king's armor with distinctive helmet crowned by high plume with fire-breathing chimera"
+      position: "positioned at head of Italian forces across battlefield"
+      action: "pointing weapon defiantly while war-fury blazes in his expression"
+  scene:
+    mainElements: "Two vast armies arranged in formal battle lines across Italian plain, fortified city walls rising behind one force, organized military formations with banners and standards, clear separation between opposing forces"
+    details: "Trojan warriors with Eastern-style equipment in disciplined ranks, Italian fighters with local weapons and shields, cavalry units on flanks, bronze armor gleaming in sunlight, colorful military banners identifying units, spears creating forest of points, war chariots at formation edges"
+    background: "Italian hill town with defensive walls and towers, rolling countryside of Latium with forests and river valley, distant mountains under clear Mediterranean sky"
+    atmosphere: "Tension before inevitable conflict, formal military honor and ceremony, fate of nations hanging in balance, divine destiny approaching fulfillment"
+  composition:
+    cameraAngle: "Master shot showing entire battlefield geography from elevated central position"
+    focus: "Two champions positioned opposite each other with armies as massive supporting elements"
+    depth: "Detailed military formations in foreground and middle distance, fortified city and Italian landscape in background, no text or letters visible"

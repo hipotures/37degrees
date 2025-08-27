@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Post-independence Algeria, 1960s, afternoon
+    location: Former colonial government palace, now housing national leadership
+    weather: Bright afternoon light revealing harsh realities
+  characters:
+  - appearance: Well-fed Algerian man in his 40s-50s showing signs of wealth, arrogant posture mimicking former colonial masters
+    clothing: Expensive Western business suit, luxury accessories like gold watch and signet ring
+    position: Seated at colonial-era desk in government office
+    action: Signing agreements with European businessmen, perpetuating economic dependency despite political independence
+  scene:
+    mainElements: Visual metaphor of puppet strings connecting new Algerian leadership to European corporate interests, independence
+      revealed as illusion
+    details: Invisible strings extending from hands and head of Algerian officials toward European businessmen, contracts
+      written in European languages, maps showing continued foreign resource extraction, portraits of European leaders still
+      influencing policy, telephone lines connecting to Paris
+    background: Imposing French colonial government building in Algeria, grand architecture symbolizing imperial power
+    atmosphere: Overwhelming display of colonial authority designed to intimidate and assert dominance over subject population
+  composition:
+    cameraAngle: High angle showing puppet string metaphor from above
+    focus: Strings of control connecting apparent independence to continued foreign domination
+    depth: Algerian officials in foreground, control strings in middle ground, European puppet masters in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

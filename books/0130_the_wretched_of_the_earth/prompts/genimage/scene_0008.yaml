@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, midday
+    location: Border zone between European colonial district and traditional Algerian quarter, marked by checkpoint and barriers
+    weather: Harsh noon sun creating stark contrasts
+  characters:
+  - appearance: European colonist in Algeria, well-dressed, displaying superiority and contempt toward local population
+    clothing: Fashionable 1950s European attire, quality fabrics, modern styling
+    position: Stepping out of luxury car in European district
+    action: Adjusting sunglasses while chauffeur opens door, gazing across divide toward Algerian quarter with disdain
+  - appearance: Gaunt desperate Algerian man in his 20s-30s, feverish unpredictable gaze, emaciated from urban poverty
+    clothing: Tattered mixture of European and traditional garments, worn-out shoes, clothing patched and dirty
+    position: Standing at checkpoint barrier looking toward European wealth
+    action: Gripping barrier fence, staring with mixture of longing and suppressed rage at unreachable prosperity
+  scene:
+    mainElements: Physical border dividing two worlds - European luxury district on one side, impoverished Algerian quarter
+      on other, checkpoint controlling movement between zones
+    details: Left side shows pristine European villas with swimming pools, manicured lawns, luxury cars, well-dressed figures.
+      Right side reveals crowded slums, tin-roof shacks, unpaved streets, malnourished children. Concrete barrier with barbed
+      wire, armed guards, and identification checkpoint separating the two worlds
+    background: Sharp architectural contrast between organized European planning and organic Algerian community structure
+    atmosphere: Manichean division between colonizer and colonized worlds, stark inequality made visible through spatial segregation
+  composition:
+    cameraAngle: Wide panoramic shot capturing dramatic contrast between two sides
+    focus: Central barrier dividing frame, contrasting figures representing each world
+    depth: Checkpoint barrier in center, European luxury in left background, Algerian poverty in right background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

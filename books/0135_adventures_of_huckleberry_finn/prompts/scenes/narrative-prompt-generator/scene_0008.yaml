@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Staging His Own Murder - Elaborate Escape Plan"
+  setting:
+    time: "1840s Illinois, mid-day"
+    location: "Interior of Pap's cabin while father is away in town"
+    weather: "Bright sunny day outside cabin"
+  characters:
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+      clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim."
+      position: "Kneeling on cabin floor, methodically working"
+      action: "Sawing through log near floor level with old rusty saw, face showing grim determination and desperate cleverness"
+  scene:
+    mainElements: "Cabin interior being methodically prepared for fake murder scene, with blood from slaughtered pig spread on floor and axe"
+    details: "Dead pig lying near door, blood splattered on walls and floor, broken door hanging open, overturned furniture, old rusty saw and axe, sack filled with rocks ready to drag toward river"
+    background: "Hole cut in cabin wall near ground level for escape route, bright sunlight streaming through open door showing freedom beyond"
+    atmosphere: "Desperate ingenuity and cold calculation, methodical preparation for survival, gruesome staging contrasted with hope for freedom, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing Huck's careful work and fake crime scene"
+    focus: "Huck's determined face and methodical staging of his own death"
+    depth: "Huck and immediate work area in foreground, staged murder scene in middle, escape hole and bright outdoors in background"

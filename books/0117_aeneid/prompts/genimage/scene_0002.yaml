@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, bright morning sunlight
+    location: Phoenician city of Carthage in North Africa on Mediterranean coast, bustling construction site of new imperial
+      capital
+    weather: Clear, brilliant North African sunshine with gentle Mediterranean breeze
+  characters:
+  - appearance: exceptionally beautiful young widow, tall with statuesque bearing
+    clothing: luxurious Phoenician royal robes in purple and gold, gold fibula clasping purple cloak, golden jewelry
+    position: standing on elevated platform overseeing construction
+    action: gesturing commandingly toward building projects while architects present plans
+  scene:
+    mainElements: Active quarries with workers cutting stone, masons shaping blocks and laying foundations, magnificent temple
+      of Juno with bronze steps and doors, luxurious royal palace under construction
+    details: Phoenician workers hauling dressed stones up ramps, bronze gleaming on temple doors, purple banners marking royal
+      presence, Mediterranean harbor visible with trading ships, smoke rising from metalworking forges, detailed architectural
+      plans being consulted
+    background: Mediterranean coastline stretching to horizon, partially completed city walls, organized street grid being
+      laid out, mountains of North Africa in distant haze
+    atmosphere: Energy, ambition and civilized order of great empire in birth, optimistic sense of progress and divine favor,
+      bustling prosperity of international trade
+  composition:
+    cameraAngle: Wide architectural shot from elevated position showing city scope and organization
+    focus: Massive construction project with Queen Dido as central commanding figure directing imperial vision
+    depth: Royal platform and figures in foreground, active construction in middle ground, Mediterranean horizon in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

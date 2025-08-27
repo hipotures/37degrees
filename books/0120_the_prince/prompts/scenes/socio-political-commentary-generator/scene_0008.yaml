@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Elite Quarter - Visible Inequality"
+  setting:
+    time: "1513, mid-afternoon luxury"
+    location: "Wealthy district of Renaissance city contrasted with poor quarters visible beyond"
+    weather: "Bright sunlight highlighting the contrast between wealth and poverty"
+  characters:
+    - appearance: "Wealthy nobility and merchants in luxurious attire"
+      clothing: "Finest silks, velvets, and brocades with gold thread, jeweled accessories, exotic furs"
+      position: "Leisurely strolling through manicured gardens and marble courtyards"
+      action: "Enjoying banquet and entertainment while servants attend to every need"
+    - appearance: "Poor laborers and servants visible in background"
+      clothing: "Rough wool, patched clothing, bare feet, signs of manual labor"
+      position: "Working in service to the wealthy or visible through district boundaries"
+      action: "Carrying goods, cleaning, maintaining the luxury of the elite"
+  scene:
+    mainElements: "Sharp visual divide between pristine wealthy quarter with marble fountains, manicured gardens, and fine architecture versus visible slums with cramped wooden buildings and muddy streets."
+    details: "Elaborate feasts with exotic foods and wines while servants survive on scraps. Fine art and luxury goods displayed alongside evidence of the labor that created such wealth. Guard barriers separating social classes."
+    background: "Poor districts clearly visible beyond walls or barriers, creating stark visual contrast between opulence and squalor."
+    atmosphere: "Blatant inequality justified by social hierarchy. Luxury built on exploitation of lower classes."
+  composition:
+    cameraAngle: "Split composition showing both worlds simultaneously"
+    focus: "Visual contrast between extreme wealth and extreme poverty in same frame"
+    depth: "Foreground shows luxury details, middle ground reveals social barriers, background displays poverty and hardship"

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1830s basic field equipment to 1870s advanced laboratory instruments, afternoon study light
+    location: Ground floor study room in Down House, Kent countryside residence, with large windows overlooking garden
+    weather: Warm afternoon sunlight streaming through windows consistently
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: Using scientific instruments at different stages of technological development
+    action: Young Darwin with simple magnifying glass evolving to mature scientist with sophisticated microscope and measuring
+      devices
+  scene:
+    mainElements: Scientific instrument collection progressing from basic field tools to comprehensive laboratory setup
+    details: Polished brass-handled magnifying glass with clear crystal lens, used for examining tiny specimens and botanical
+      details, reflecting light when held up to window, essential tool for Victorian naturalist studies expanding to include
+      compound microscope, precision scales, measuring calipers, specimen preparation tools, chemical analysis equipment,
+      photography apparatus for documentation, barometer and thermometer for environmental monitoring, all arranged on custom-built
+      instrument tables with felt-lined drawers, afternoon sunlight creating consistent reflection patterns across decades,
+      no text or letters visible on instrument faces
+    background: Massive wooden desk cluttered with papers and specimens, floor-to-ceiling bookshelves filled with scientific
+      volumes, microscope and magnifying glasses, specimen jars and dried plants, leather armchair on wheels, fireplace with
+      family portraits above mantel
+    atmosphere: Evolution of scientific methodology from amateur naturalist collecting to professional research laboratory,
+      advancement of precision and accuracy in natural science
+  composition:
+    cameraAngle: Close-up on instruments showing technological progression
+    focus: The scientific instruments as markers of advancing research capabilities
+    depth: 'Foreground: detailed instrument collection, middle: Darwin using tools, background: expanding scientific library
+      and specimens'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

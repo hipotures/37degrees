@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: November 1899 on publication day of Die Traumdeutung
+    location: Franz Deuticke bookshop in Vienna and surrounding intellectual community
+    weather: Cold autumn day marking historic publication moment
+  characters:
+  - appearance: Various groups representing different perspectives on revolutionary publication
+    clothing: Late 19th century formal attire appropriate to intellectual and professional classes
+    position: Gathered around bookshop and in reading spaces examining controversial new work
+    action: Responding to publication with dramatically different interpretations of its significance
+  scene:
+    mainElements: Same book publication experienced as either revolutionary breakthrough that will transform human understanding
+      or dangerous pseudoscience that threatens medical profession's credibility
+    details: Bookshop windows displaying new volume with date 1900 on cover, groups of readers examining contents with opposing
+      reactions. Progressive intellectuals see historic moment comparable to Darwin or Copernicus. Conservative medical establishment
+      sees threat to scientific rigor and patient safety. Same pages inspire excitement in some readers, horror in others.
+      Physical book identical, but meaning completely different for different communities.
+    background: Traditional Viennese bookshop representing collision between established intellectual order and revolutionary
+      new ideas
+    atmosphere: Historic moment where single publication divides intellectual community into opposing camps, same words creating
+      opposite meanings for different readers, revolutionary knowledge appearing as either salvation or catastrophe, no text
+      or letters visible
+  composition:
+    cameraAngle: Perspective showing contrasting reactions to same publication moment
+    focus: Single book creating dramatically different responses from various intellectual communities
+    depth: 'Foreground: physical book as neutral object, Middle: readers interpreting contents through opposing frameworks,
+      Background: intellectual communities divided by revolutionary publication'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

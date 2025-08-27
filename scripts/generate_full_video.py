@@ -10,6 +10,7 @@ import os
 import sys
 import subprocess
 import yaml
+import uuid
 from datetime import datetime
 from pathlib import Path
 
@@ -72,19 +73,25 @@ def create_personalized_intro_html(book_dir: str, book_data: dict):
     return target_path
 
 
-def generate_intro_frames(book_dir: str, intro_html_path: Path):
+def generate_intro_frames(book_dir: str, intro_html_path: Path, force: bool = False):
     """Generate intro frames for the specific book."""
     frames_dir = Path(f"books/{book_dir}/intro_frames")
     
-    if frames_dir.exists() and list(frames_dir.glob("*.png")):
+    if not force and frames_dir.exists() and list(frames_dir.glob("*.png")):
         print(f"✓ Intro frames already exist: {frames_dir}")
         return frames_dir
     
+    if force and frames_dir.exists():
+        print(f"🔥 Force mode: removing existing intro frames: {frames_dir}")
+        for png_file in frames_dir.glob("*.png"):
+            png_file.unlink()
+    
     print(f"🎬 Generating intro frames...")
+    temp_video = f"temp_intro_{uuid.uuid4().hex[:8]}.mp4"
     cmd = [
         "python", "scripts/html_to_video_30fps.py",
         str(intro_html_path),
-        "temp_intro.mp4",  # temp file (not used)
+        temp_video,  # unique temp file
         "3",  # duration
         "30",  # fps
         "1080", "1920",  # resolution
@@ -102,19 +109,25 @@ def generate_intro_frames(book_dir: str, intro_html_path: Path):
     return frames_dir
 
 
-def generate_outro_frames():
+def generate_outro_frames(force: bool = False):
     """Generate shared outro frames (once for all books)."""
     frames_dir = Path("shared_assets/outro_frames")
     
-    if frames_dir.exists() and list(frames_dir.glob("*.png")):
+    if not force and frames_dir.exists() and list(frames_dir.glob("*.png")):
         print(f"✓ Outro frames already exist: {frames_dir}")
         return frames_dir
     
+    if force and frames_dir.exists():
+        print(f"🔥 Force mode: removing existing outro frames: {frames_dir}")
+        for png_file in frames_dir.glob("*.png"):
+            png_file.unlink()
+    
     print(f"🎬 Generating outro frames...")
+    temp_video = f"temp_outro_{uuid.uuid4().hex[:8]}.mp4"
     cmd = [
         "python", "scripts/html_to_video_30fps.py",
         "shared_assets/www/podcast-outro-screen.html",
-        "temp_outro.mp4",  # temp file (not used)
+        temp_video,  # unique temp file
         "3",  # duration
         "30",  # fps
         "1080", "1920",  # resolution
@@ -179,6 +192,7 @@ def generate_final_video(book_dir: str, intro_frames_dir: Path, outro_frames_dir
 def main():
     parser = argparse.ArgumentParser(description="Generate complete video for a book")
     parser.add_argument("book_dir", help="Book directory name (e.g., 0024_pan_tadeusz)")
+    parser.add_argument("--force", action="store_true", help="Force regeneration of intro/outro frames even if they exist")
     args = parser.parse_args()
     
     book_dir = args.book_dir
@@ -200,10 +214,10 @@ def main():
         intro_html_path = create_personalized_intro_html(book_dir, book_data)
         
         # 4. Generate intro frames
-        intro_frames_dir = generate_intro_frames(book_dir, intro_html_path)
+        intro_frames_dir = generate_intro_frames(book_dir, intro_html_path, args.force)
         
         # 5. Generate outro frames (shared)
-        outro_frames_dir = generate_outro_frames()
+        outro_frames_dir = generate_outro_frames(args.force)
         
         # 6. Find audio file
         print("🔊 Finding audio file...")

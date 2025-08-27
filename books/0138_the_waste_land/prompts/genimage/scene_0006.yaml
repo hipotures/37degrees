@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1922, midday
+    location: Small single-room rented flat typical of lower middle-class London accommodation, combined bedroom and living
+      space
+    weather: Harsh sunlight streaming through window
+  characters:
+  - appearance: Young working woman, tired and bored expression, plain features showing indifference and emotional emptiness,
+      hair disheveled from day's work
+    clothing: Simple practical dress of middle-class office worker, combinations and camisoles visible in modest one-room
+      flat
+    position: Moving about small rented room
+    action: Mechanically clearing away meal from tin cans, preparing for unwelcome visitor's advances with complete emotional
+      detachment
+  scene:
+    mainElements: Large brass key lies on windowsill, half covered in rust and corrosion, but where sunlight strikes it directly,
+      the metal shows bright golden polish
+    details: The key tells two stories in one object - the rusted portions are green with verdigris and brown with oxidation,
+      suggesting years of neglect and abandonment, while the polished areas gleam like new brass, as if touched by transformative
+      light. Intricate Victorian scrollwork is visible only in the cleaned sections, revealing hidden beauty beneath corruption.
+      The key's teeth are partially restored, suggesting it might yet open something important.
+    background: Divan serving as both sofa and bed, window where undergarments dry, small table with remains of tinned food
+    atmosphere: Emptiness and resignation, functional poverty without warmth, yet hint of potential transformation through
+      unexpected illumination, no text or letters visible
+  composition:
+    cameraAngle: Close-up side view showing the dramatic contrast between rusted and polished sections
+    focus: The transforming key as symbol of hidden potential revealed by light
+    depth: Key in sharp foreground catching sunlight, typist's movements in middle ground, sparse room details in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

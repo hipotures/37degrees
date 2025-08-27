@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Shattered Divine Bow - Prince's Impossible Strength"
+  setting:
+    time: "Treta Yuga ancient era, ceremonial afternoon"
+    location: "Great ornate audience hall in Mithila palace, majestic architecture with carved columns and colorful drapes, filled with assembled kings and princes from across ancient India"
+    weather: "Indoor scene with natural light streaming through palace windows"
+  characters:
+    - appearance: "Tall athletic man in his twenties, broad chest and long muscular arms reaching to his knees, noble facial features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like rain clouds or blue lotus"
+      clothing: "Royal: rich silk dhoti and uttariya shawl decorated with gold threads and gems, golden jewelry"
+      position: "Standing beside the massive broken divine bow, calm and respectful"
+      action: "Just completed impossible feat of not just stringing but breaking the divine bow with thunderous sound"
+  scene:
+    mainElements: "Extreme wide shot of enormous palace hall with towering columns, showing the massive scale of the divine bow ceremony and assembled royalty. Gigantic divine bow of god Shiva made of indestructible dark material possibly decorated with gold and divine symbols, now broken in two pieces with thunderous crack echoing through hall"
+    details: "Thousands of unsuccessful suitors sitting in stunned silence after witnessing impossible feat. Flower petals falling from heaven in divine blessing. Eight-wheeled chest that transported the bow visible in background. Sita holding victory garland approaching with radiant smile. King Janaka on throne expressing amazement and joy. Sage Vishwamitra watching with knowing satisfaction"
+    background: "Ornate palace architecture extending into shadows, crowds of royal witnesses, ceremonial banners and decorations throughout vast hall"
+    atmosphere: "Moment of supernatural awe and divine intervention, silence broken only by celestial sounds and falling flowers, transformation from anticipation to wonder, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated gallery position showing entire hall"
+    focus: "Broken divine bow as central element with Rama standing beside it, Sita approaching with garland"
+    depth: "Foreground shows broken bow pieces, middle ground features Rama and approaching Sita, background reveals amazed royal assembly and palace architecture, no text or letters visible"

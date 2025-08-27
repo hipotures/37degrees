@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Mansion's Decline - Glory to Ruin"
+  setting:
+    time: "Late 1880s prosperity merging into 1928 decay"
+    location: "Large two-story white wooden mansion in Greek Revival style with four-column tetrastyle portico in Jefferson, Mississippi, once grand but now showing severe decay with peeling paint and overall air of faded magnificence"
+    weather: "Clear day with strong shadows revealing architectural changes over forty years"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Imposing square house structure, four prominent columns supporting front portico, five-window facade arrangement, four-slope roof, white painted wood siding now weathered and peeling shown in temporal split revealing past glory and present decay"
+    details: "Left portion shows 1880s mansion in pristine condition: brilliant white paint, manicured grounds extending for miles, ornate landscaping, servants maintaining extensive gardens, horse-drawn carriages in circular drive, property boundaries marked by elegant fencing. Right portion reveals 1928 reality: paint peeling in long strips, overgrown vegetation choking foundation, property reduced to house and small garden, broken fence posts, weeds growing through gravel drive, shutters hanging askew, roof tiles missing, columns showing wood rot at base no text or letters visible"
+    background: "Same Jefferson town skyline visible in distance, but left side shows fewer buildings in pastoral setting while right side reveals more developed but economically depressed community"
+    atmosphere: "Profound sense of temporal erosion where architectural grandeur surrenders to inexorable decay, visualizing how family fortune and social status crumble across decades"
+  composition:
+    cameraAngle: "Wide establishing shot from across the street showing full facade"
+    focus: "Four-column portico serving as central architectural anchor between two time periods"
+    depth: "Foreground: same street view forty years apart; middle ground: the transforming mansion facade; background: evolving Jefferson townscape reflecting regional economic changes"

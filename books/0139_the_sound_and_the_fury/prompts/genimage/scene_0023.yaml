@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1865 Civil War aftermath, 1898 Spanish-American War, 1918 World War I showing cyclical military conflict
+    location: Circular town square in small Mississippi town with Confederate monument serving as witness to repeating war
+      cycles
+    weather: Various seasons across fifty years of recurring military mobilization
+  characters: No characters present in this scene
+  scene:
+    mainElements: Round plaza layout, tall white stone pedestal with Confederate soldier statue at center, surrounded by shop
+      fronts showing recurring patterns of military mobilization across three wars
+    details: 'Triple temporal overlay showing recurring war patterns around same monument: background layer depicts 1865 Confederate
+      veterans returning from Civil War defeat, tattered uniforms, defeated postures, monument not yet built; middle layer
+      shows 1898 Spanish-American War mobilization with younger men departing, families gathered for farewell, patriotic bunting,
+      monument now present as reminder of previous war; foreground reveals 1918 World War I departure scene with another generation
+      of young men leaving, modern military uniforms, automobiles replacing horses, same families experiencing cyclical loss
+      no text or letters visible'
+    background: Town square architecture evolving across fifty years while monument remains constant reminder of previous
+      military sacrifice and loss
+    atmosphere: Tragic visualization of how communities experience recurring cycles of war, sacrifice, and loss with each
+      generation repeating patterns of previous generations
+  composition:
+    cameraAngle: Wide shot showing full town square with three generations of military mobilization
+    focus: Confederate monument serving as temporal anchor witnessing repeated cycles of war and community sacrifice
+    depth: 'Foreground: 1918 WWI departure scene; middle ground: 1898 Spanish-American War mobilization; background: 1865
+      Civil War aftermath with monument construction'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

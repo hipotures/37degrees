@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Compass That Points to Nowhere"
+  setting:
+    time: "1940s Buenos Aires, afternoon"
+    location: "Elegant European-style salon in wealthy Buenos Aires mansion belonging to Duchess"
+    weather: "Clear autumn afternoon with golden sunlight streaming through tall windows"
+  characters:
+    - appearance: "Argentinian intellectual in his early 40s, medium height, slender build slightly stooped from years of reading, thin face with sharp intellectual features, dark penetrating eyes behind round wire-rimmed spectacles, dark hair neatly combed back"
+      clothing: "Conservative dark wool suit of 1940s Buenos Aires intellectual, crisp white shirt, subdued tie, well-maintained but not fashionable attire reflecting focus on ideas rather than appearance"
+      position: "Standing beside opened ornate chest, holding small metallic object in palm"
+      action: "Examining concave compass with wonder and trepidation, watching alien needle tremble"
+  scene:
+    mainElements: "Small concave metallic compass of unearthly design rests in scholar's palm, blue magnetic needle trembling and pointing to unknown directions, letters on dial belong to unknown alphabet of Tlön, object impossibly heavy for its size with subtle alien geometric patterns etched into surface"
+    details: "Ornate chest reveals collection of precious objects from imaginary world - silver cups with impossible curves that hurt eyes to follow, coins bearing profile of kings who never lived, books with pages made of unknown material. Compass draws eye with its wrongness, magnetic needle pointing not to magnetic north but to conceptual directions that exist only in world of pure thought"
+    background: "Luxurious salon with Persian carpets, crystal chandelier, oil paintings of European landscapes, tall windows draped with silk curtains, mahogany furniture gleaming with polish"
+    atmosphere: "Cultured refinement hiding cosmic horror, afternoon light making metallic surfaces gleam unnaturally, growing sense that ordinary physics no longer apply, fiction invading reality through beautiful objects, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on hands holding compass with face visible above"
+    focus: "The impossible compass with its trembling blue needle and alien markings"
+    depth: "Open chest with mysterious objects in foreground, scholar examining compass in middle ground, elegant salon furnishings fading into soft background"

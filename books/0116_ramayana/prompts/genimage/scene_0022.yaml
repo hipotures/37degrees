@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, dawn light through palace window
+    location: Palace in Ayodhya with window overlooking courtyard where Hanuman serves
+    weather: Clear dawn with pure natural light streaming through window
+  characters:
+  - appearance: Humanoid monkey-like being with muscular diamond-hard body, red face like ruby, long powerful tail, in normal
+      size showing his devotional service
+    clothing: Simple loincloth (langot) around hips
+    position: Framed perfectly by palace window, engaged in devotional service
+    action: Performing some task of devotion and service in palace courtyard
+  scene:
+    mainElements: Natural frame created by palace window containing Hanuman's figure as he performs devotional service. Window
+      frame emphasizes the sacred nature of bhakti and service, creating temple-like viewing frame for divine devotion
+    details: Palace window with ornate carved frame creating natural compositional border, Hanuman engaged in selfless service
+      within frame, morning light streaming through window creating halo effect around devotee, palace architecture providing
+      sacred setting
+    background: Palace courtyard visible through window showing area of service, other royal buildings creating depth and
+      context of palace life
+    atmosphere: Sacred devotional atmosphere with window frame creating sense of viewing divine service, morning light sanctifying
+      the scene, sense of perfect bhakti and selfless service
+  composition:
+    cameraAngle: Shot framed through palace window opening
+    focus: Hanuman clearly focused within window frame showing devotional activity
+    depth: Window frame in immediate foreground, Hanuman in middle ground, palace courtyard background, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

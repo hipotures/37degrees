@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, peaceful evening twilight in forest hermitage
+    location: Simple forest dwelling in Dandaka forest, bamboo and leaf hermit dwelling with thatched roof beside lotus-covered
+      stream, peaceful ashram setting
+    weather: Calm evening with gentle breeze and golden twilight filtering through trees
+  characters:
+  - appearance: Tall athletic man in his twenties, broad chest and long muscular arms reaching to his knees, noble facial
+      features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like
+      rain clouds or blue lotus
+    clothing: Simple rough tree bark garments (valkala), hair in ascetic's knot (jata) on top of head
+    position: Seated in contemplation outside hermitage, waist-up in frame
+    action: Deep in thought about dharma and duty, expression showing inner strength and resolve
+  - appearance: Man in his twenties, tall athletic build similar to Rama with noble features and lotus-shaped eyes, light
+      golden complexion (gaura) contrasting with Rama's dark skin, identical facial features to Rama
+    clothing: Tree bark garments (valkala) identical to Rama's ascetic dress, always carries bow and arrows
+    position: Standing alert nearby in protective stance, waist-up in frame
+    action: Vigilant guardian posture watching forest perimeter, bow ready for any threat
+  scene:
+    mainElements: Medium two-shot showing both brothers in forest setting with emphasis on their contrasting natures and deep
+      bond. Immediate forest environment around hermitage visible with lotus pond and meditation area, simple dwelling showing
+      their ascetic life
+    details: Contrast between Rama's dark contemplative demeanor and Lakshmana's lighter protective energy, their different
+      skin tones clearly visible, bow and quiver positioned for quick access, peaceful hermitage details like meditation mats
+      and ritual fire altar
+    background: Dense forest setting with evening light filtering through canopy, lotus pond reflecting twilight, small shrine
+      or meditation area visible
+    atmosphere: Peaceful forest serenity mixed with underlying alertness, warm twilight creating golden rim lighting on both
+      figures, sense of brotherhood transcending royal exile
+  composition:
+    cameraAngle: Medium shot capturing both figures from waist up with forest environment
+    focus: Both brothers equally in focus showing their partnership and contrast
+    depth: Foreground shows immediate hermitage area, middle ground features both brothers clearly, background reveals deeper
+      forest setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

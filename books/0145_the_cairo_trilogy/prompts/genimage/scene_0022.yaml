@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 'Evening return time across years: 1917, 1925, 1935, 1944'
+    location: Stone stairway of traditional Cairene house during patriarch's daily homecoming
+    weather: Evening dusk light through narrow stairwell, consistent across all periods
+  characters:
+  - appearance: 45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue
+      eyes, large prominent nose, commanding presence that fills space
+    clothing: Well-tailored European suit with waistcoat, white shirt, red felt fez (tarbush) with black tassel
+    position: Standing with authority and dignity, movements heavy and measured
+    action: '1917: Climbing stairs with powerful confidence, 1944: Struggling with same stairs due to age and illness'
+  scene:
+    mainElements: Same stone stairway showing patriarch's daily homecoming ritual across decades, demonstrating temporal decline
+      of physical authority
+    details: 'Stair elements: Dark polished wooden walking stick creating distinctive tapping sound on stone steps in different
+      rhythms - confident heavy strikes in 1917, hesitant cautious taps by 1944. Stone steps showing progressive wear from
+      decades of identical daily ritual. Lighting evolution from oil lamps to electric fixtures but same shadows cast. Family
+      responses: immediate fearful silence in 1917, gradual reduction of intimidation response by 1944, no text or letters
+      visible'
+    background: Same stone stairwell architecture providing unchanging framework for dramatically changing physical presence
+      and authority
+    atmosphere: Daily ritual continuity emphasizing temporal decline of patriarchal power, sound of walking stick serving
+      as temporal measure of authority's erosion, architectural permanence contrasting with human diminishment
+  composition:
+    cameraAngle: Low angle looking up stairway showing imposing presence declining to struggling figure
+    focus: Walking stick and footsteps on stone showing progression from power to frailty
+    depth: 'Foreground: stone steps showing decades of wear, middle ground: changing physical presence, background: unchanging
+      architectural authority context'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

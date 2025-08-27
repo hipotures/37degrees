@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mechanical Gestures of Colonial Compliance"
+  setting:
+    time: "1950s Algeria, midday"
+    location: "Government office building where colonial subjects receive official services"
+    weather: "Harsh institutional lighting"
+  characters:
+    - appearance: "Multiple Algerian adults waiting in line, identical submissive postures, defeated expressions"
+      clothing: "Simple colonial subject attire, worn but clean clothing showing attempt at respectability"
+      position: "Standing in perfectly straight line, heads bowed"
+      action: "Performing identical gestures of submission - removing hats, bowing heads, extending documents with both hands"
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Colonial administrative uniform with official badges and insignia"
+      position: "Behind official desk processing documents"
+      action: "Reviewing papers with dismissive attitude, stamping documents with mechanical precision"
+  scene:
+    mainElements: "Long line of colonial subjects performing identical submissive rituals, learning precise gestures required for interaction with colonial authority"
+    details: "People practicing same respectful bow, identical hand positions when presenting documents, synchronized removal of head coverings, uniform distance maintained from authority figures, rehearsed phrases spoken with identical intonation, children observing and copying adult submission behaviors"
+    background: "Sterile government office with colonial bureaucratic efficiency, official portraits and regulations posted on walls"
+    atmosphere: "Systematic training in subservience, human dignity reduced to performed compliance with colonial hierarchy"
+  composition:
+    cameraAngle: "Side view showing line of identical submissive postures"
+    focus: "Repetitive submission gestures demonstrating learned colonial behavior"
+    depth: "Line of subjects in foreground, official authority in middle ground, institutional setting in background"

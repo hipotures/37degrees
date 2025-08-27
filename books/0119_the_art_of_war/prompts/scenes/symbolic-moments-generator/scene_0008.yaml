@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scrolls of War Replace Palace Luxury" 
+  setting:
+    time: "506 BCE, evening by firelight in field camp"
+    location: "Campaign commander's tent in Wu army field encampment, basic military shelter equipped for strategic planning"
+    weather: "Cool evening with gentle wind rustling tent fabric"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Practical military garb replacing ceremonial robes - leather armor over simple tunic, bronze helmet nearby, ceremonial sword replaced with battle-tested blade"
+      position: "Seated cross-legged on simple campaign mat, hunched over military documents"
+      action: "Reading tactical scrolls by flickering oil lamp light, palace luxury replaced by military necessity"
+  scene:
+    mainElements: "Bamboo military scrolls spread across rough wooden campaign table, replacing elegant palace furnishings, oil lamp casting flickering light on tactical diagrams and troop deployment plans"
+    details: "Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case now shows wear from campaign travel, edges slightly frayed, case bearing dust from march. Simple bronze oil lamp provides working light instead of palace lanterns, ceramic fuel reservoir showing practical military design"
+    background: "Basic military tent interior with campaign furniture, weapons rack, map chest, bedroll on ground, practical equipment replacing palace comfort"
+    atmosphere: "Focused determination in austere military environment, sound of wind against tent fabric, flickering shadows from oil lamp flame, scent of leather equipment and lamp oil, sense of purpose overriding comfort, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Interior view emphasizing contrast between current military setting and implied former palace luxury"
+    focus: "Worn bamboo scrolls and simple oil lamp representing practical wisdom over ceremonial display"
+    depth: "Foreground shows detailed scroll work and lamp light, middle ground captures king adapted to military life, background reveals sparse campaign tent environment"

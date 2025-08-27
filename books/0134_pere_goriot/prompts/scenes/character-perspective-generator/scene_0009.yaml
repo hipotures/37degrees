@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Society Through Criminal Philosopher's Eyes"
+  setting:
+    time: "1819, late evening"
+    location: "Neglected garden behind Vauquer boarding house, Paris during Bourbon Restoration"
+    weather: "Misty early morning creating atmosphere of conspiracy and revelation"
+  characters:
+    - appearance: "Vautrin"
+      age: "40 years old"  
+      appearance: "Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent gaze that can be 'terrible' and seems to see through people completely"
+      hair: "True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part of his masquerade"
+      clothing: "Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house"
+      posture: "Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder"
+      position: "Standing dominantly in center of neglected garden, appearing larger and more menacing than usual"
+      action: "Delivering his philosophy of social corruption with evangelical fervor and diabolic wisdom"
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Standing uncertainly, torn between fascination and revulsion at Vautrin's revelations"
+      action: "Wrestling with the terrible logic of Vautrin's criminal wisdom"
+  scene:
+    mainElements: "Through Vautrin's revolutionary perspective, the garden becomes pulpit for his dark gospel. He sees through all social pretenses to reveal the brutal mechanics of power and exploitation. From his viewpoint, honest crime is merely undisguised version of society's universal corruption."
+    details: "From Vautrin's philosophical criminal perspective, every aspect of society appears as elaborate criminal conspiracy - marriage as prostitution, inheritance as theft, justice as organized vengeance. He sees himself not as deviant but as honest practitioner of universal principles that others practice hypocritically."
+    background: "Neglected garden with bare trees and heavy mist creating cathedral-like atmosphere for Vautrin's dark sermon"
+    atmosphere: "Charged with diabolic revelation and terrible truth. The air seems to vibrate with the power of forbidden knowledge and the intoxication of moral rebellion"
+  composition:
+    cameraAngle: "Low angle making Vautrin appear towering and prophetic while Rastignac appears vulnerable to his corrupting influence"
+    focus: "Vautrin's mesmerizing presence as he unveils the brutal truth about society's criminal foundation"
+    depth: "Vautrin's commanding philosophical presence dominating foreground, Rastignac's conflicted response in middle ground, misty garden providing ethereal backdrop for moral crisis, no text or letters visible"

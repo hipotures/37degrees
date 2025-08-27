@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Enlightenment's Grand Promise - Male Philosophers in Noble Discourse"
+  setting:
+    time: "1792, late afternoon golden light"
+    location: "Grand library hall in London with soaring shelves and classical architecture, representing temples of reason and knowledge"
+    weather: "Clear autumn day with warm sunlight streaming through tall windows"
+  characters:
+    - appearance: "Group of distinguished middle-aged and elderly men in powdered wigs and formal 18th-century attire, representing the philosophical establishment"
+      clothing: "Dark wool coats with ornate waistcoats, white stockings, buckled shoes - the uniform of serious intellectual discourse"
+      position: "Seated in comfortable leather chairs arranged in dignified circle around marble table"
+      action: "Engaging in animated discussion with books and papers, gesturing eloquently while debating the rights of man and principles of liberty"
+  scene:
+    mainElements: "Impressive library interior with leather-bound volumes reaching to ceiling, classical busts of ancient philosophers, ornate reading table with manuscripts about natural rights and social contracts"
+    details: "Sunlight illuminates floating dust motes and highlights golden lettering on book spines. Papers bear titles like 'Rights of Man' and 'Social Contract.' Crystal decanters and tea service suggest civilized discourse. Notable absence of any women in this temple of universal human reason"
+    background: "Endless rows of books representing accumulated wisdom of ages, classical columns and architectural details suggesting permanence and authority of male intellectual tradition"
+    atmosphere: "Atmosphere of gravitas and intellectual authority, suggesting this is where the fate of human liberty is being decided through rational discourse among enlightened minds"
+  composition:
+    cameraAngle: "Wide establishing shot showing the grandeur and scale of the intellectual space"
+    focus: "The gathering of male philosophers as representatives of Enlightenment ideals and universal human rights"
+    depth: "Foreground shows the discussion group, middle ground reveals the vast library resources, background suggests infinite reach of human knowledge and reason"
