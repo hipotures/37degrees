@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Futuristic Intro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@200;400;600&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Exo 2', sans-serif;
+            background: #000;
+        }
+        
+        .intro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: radial-gradient(ellipse at center, #0a0e27 0%, #000000 100%);
+        }
+        
+        /* Animated grid background */
+        .cyber-grid {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(cyan 1px, transparent 1px),
+                linear-gradient(90deg, cyan 1px, transparent 1px);
+            background-size: 100px 100px;
+            opacity: 0.03;
+            animation: gridMove 10s linear infinite;
+        }
+        
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(100px, 100px); }
+        }
+        
+        /* Holographic effect */
+        .holo-overlay {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                45deg,
+                transparent 30%,
+                rgba(0, 255, 255, 0.02) 50%,
+                transparent 70%
+            );
+            animation: holo 3s linear infinite;
+        }
+        
+        @keyframes holo {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+        
+        /* Tech frame */
+        .tech-frame {
+            position: absolute;
+            top: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 880px;
+            height: 200px;
+            opacity: 0;
+            animation: glitchIn 0.8s ease-out 0.3s forwards;
+        }
+        
+        @keyframes glitchIn {
+            0% {
+                opacity: 0;
+                transform: translateX(-50%) skewX(20deg);
+            }
+            50% {
+                opacity: 0.5;
+                transform: translateX(-50%) skewX(-5deg);
+            }
+            100% {
+                opacity: 1;
+                transform: translateX(-50%) skewX(0);
+            }
+        }
+        
+        .tech-border {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border: 2px solid #00ffff;
+            clip-path: polygon(0 0, calc(100% - 50px) 0, 100% 50px, 100% 100%, 50px 100%, 0 calc(100% - 50px));
+        }
+        
+        .logo-futuristic {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        
+        .logo-text {
+            font-family: 'Orbitron', monospace;
+            font-size: 120px;
+            font-weight: 900;
+            background: linear-gradient(180deg, #00ffff 0%, #0080ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+            letter-spacing: -4px;
+            text-shadow: 0 0 30px rgba(0, 255, 255, 0.5);
+        }
+        
+        .logo-subtitle {
+            font-size: 18px;
+            font-weight: 400;
+            color: #00ffff;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            margin-top: 10px;
+            opacity: 0.8;
+        }
+        
+        /* Main content */
+        .content-futuristic {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 900px;
+            text-align: center;
+            opacity: 0;
+            animation: dataStream 1s ease-out 0.8s forwards;
+        }
+        
+        @keyframes dataStream {
+            from {
+                opacity: 0;
+                transform: translate(-50%, -50%) translateY(50px);
+                filter: blur(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translate(-50%, -50%) translateY(0);
+                filter: blur(0);
+            }
+        }
+        
+        .data-label {
+            font-family: 'Orbitron', monospace;
+            font-size: 16px;
+            font-weight: 400;
+            color: #00ffff;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin-bottom: 30px;
+        }
+        
+        .book-title-future {
+            font-family: 'Orbitron', monospace;
+            font-size: 92px;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1.1;
+            margin-bottom: 40px;
+            position: relative;
+        }
+        
+        .glitch-effect {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            animation: glitch 2s linear infinite;
+        }
+        
+        @keyframes glitch {
+            0%, 100% { opacity: 0; }
+            92% { opacity: 0; }
+            93% {
+                opacity: 1;
+                transform: translateX(2px);
+                color: #ff00ff;
+            }
+            94% { opacity: 0; }
+        }
+        
+        .author-future {
+            font-size: 36px;
+            font-weight: 200;
+            color: #80ffff;
+            letter-spacing: 3px;
+        }
+        
+        /* Data bars */
+        .data-bars {
+            position: absolute;
+            bottom: 250px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 15px;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 1.4s forwards;
+        }
+        
+        .data-bar {
+            width: 4px;
+            height: 60px;
+            background: linear-gradient(180deg, transparent, #00ffff);
+            animation: pulse 1s ease-in-out infinite;
+        }
+        
+        .data-bar:nth-child(2) { animation-delay: 0.2s; height: 80px; }
+        .data-bar:nth-child(3) { animation-delay: 0.4s; height: 50px; }
+        .data-bar:nth-child(4) { animation-delay: 0.6s; height: 70px; }
+        .data-bar:nth-child(5) { animation-delay: 0.8s; height: 55px; }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+        
+        /* HUD elements */
+        .hud-corner {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            border: 1px solid rgba(0, 255, 255, 0.3);
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 1.6s forwards;
+        }
+        
+        .hud-tl {
+            top: 60px;
+            left: 60px;
+            border-right: none;
+            border-bottom: none;
+        }
+        
+        .hud-br {
+            bottom: 60px;
+            right: 60px;
+            border-left: none;
+            border-top: none;
+        }
+        
+        .scan-line {
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00ffff, transparent);
+            top: 0;
+            animation: scan 4s linear infinite;
+        }
+        
+        @keyframes scan {
+            0% { top: 0; }
+            100% { top: 100%; }
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="intro-container">
+        <div class="cyber-grid"></div>
+        <div class="holo-overlay"></div>
+        <div class="scan-line"></div>
+        
+        <div class="tech-frame">
+            <div class="tech-border"></div>
+            <div class="logo-futuristic">
+                <div class="logo-text">37°</div>
+                <div class="logo-subtitle">System Online</div>
+            </div>
+        </div>
+        
+        <div class="content-futuristic">
+            <div class="data-label">/// Initializing Content Stream ///</div>
+            <h1 class="book-title-future">
+                [BOOK-TITLE]
+                <span class="glitch-effect">[BOOK-TITLE]</span>
+            </h1>
+            <div class="author-future">[BOOK-AUTHOR]</div>
+        </div>
+        
+        <div class="data-bars">
+            <div class="data-bar"></div>
+            <div class="data-bar"></div>
+            <div class="data-bar"></div>
+            <div class="data-bar"></div>
+            <div class="data-bar"></div>
+        </div>
+        
+        <div class="hud-corner hud-tl"></div>
+        <div class="hud-corner hud-br"></div>
+    </div>
+</body>
+</html>

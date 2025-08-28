@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Youth Intro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;600;800;900&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Poppins', sans-serif;
+            background: #000;
+        }
+        
+        .intro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #ffc0cb 75%, #ffaa00 100%);
+        }
+        
+        /* Animated shapes background */
+        .floating-shapes {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .shape {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(40px);
+            animation: float 15s ease-in-out infinite;
+        }
+        
+        .shape1 {
+            width: 400px;
+            height: 400px;
+            background: rgba(255, 0, 128, 0.3);
+            top: -100px;
+            left: -100px;
+        }
+        
+        .shape2 {
+            width: 300px;
+            height: 300px;
+            background: rgba(0, 255, 255, 0.3);
+            bottom: -50px;
+            right: -50px;
+            animation-delay: -5s;
+        }
+        
+        .shape3 {
+            width: 250px;
+            height: 250px;
+            background: rgba(255, 255, 0, 0.3);
+            top: 40%;
+            left: 60%;
+            animation-delay: -10s;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0) rotate(0deg); }
+            25% { transform: translate(100px, -100px) rotate(90deg); }
+            50% { transform: translate(-50px, 100px) rotate(180deg); }
+            75% { transform: translate(-100px, -50px) rotate(270deg); }
+        }
+        
+        /* Logo with emoji vibe */
+        .logo-youth {
+            position: absolute;
+            top: 180px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: bounceIn 0.8s ease-out 0.3s forwards;
+        }
+        
+        @keyframes bounceIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.3);
+            }
+            50% {
+                opacity: 1;
+                transform: scale(1.1);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+        
+        .logo-main {
+            font-family: 'Bebas Neue', cursive;
+            font-size: 180px;
+            color: #fff;
+            text-shadow: 
+                6px 6px 0px rgba(0, 0, 0, 0.2),
+                8px 8px 20px rgba(0, 0, 0, 0.3);
+            letter-spacing: 4px;
+            position: relative;
+        }
+        
+        .fire-emoji {
+            font-size: 120px;
+            position: absolute;
+            top: -60px;
+            right: -80px;
+            transform: rotate(15deg);
+            animation: wiggle 2s ease-in-out infinite;
+        }
+        
+        @keyframes wiggle {
+            0%, 100% { transform: rotate(15deg); }
+            50% { transform: rotate(-15deg); }
+        }
+        
+        .tagline-youth {
+            font-size: 32px;
+            font-weight: 800;
+            color: #fff;
+            margin-top: -20px;
+            letter-spacing: 2px;
+            text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2);
+        }
+        
+        /* Book content */
+        .content-youth {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 900px;
+            text-align: center;
+            opacity: 0;
+            animation: slideUp 0.8s ease-out 0.8s forwards;
+        }
+        
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translate(-50%, -40%);
+            }
+            to {
+                opacity: 1;
+                transform: translate(-50%, -50%);
+            }
+        }
+        
+        .book-badge {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            padding: 8px 24px;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 40px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .book-title-youth {
+            font-family: 'Poppins', sans-serif;
+            font-size: 105px;
+            font-weight: 900;
+            color: #fff;
+            line-height: 0.95;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            text-shadow: 
+                4px 4px 0px rgba(0, 0, 0, 0.1),
+                8px 8px 30px rgba(0, 0, 0, 0.2);
+            transform: perspective(500px) rotateY(-5deg);
+        }
+        
+        .author-youth {
+            font-size: 42px;
+            font-weight: 600;
+            color: #fff;
+            padding: 15px 40px;
+            background: rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 100px;
+            display: inline-block;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        /* Fun decorative elements */
+        .sticker {
+            position: absolute;
+            font-size: 80px;
+            opacity: 0;
+            animation: popIn 0.5s ease-out forwards;
+        }
+        
+        .sticker1 {
+            top: 600px;
+            left: 100px;
+            animation-delay: 1.2s;
+            transform: rotate(-20deg);
+        }
+        
+        .sticker2 {
+            top: 1200px;
+            right: 120px;
+            animation-delay: 1.4s;
+            transform: rotate(25deg);
+        }
+        
+        .sticker3 {
+            bottom: 400px;
+            left: 150px;
+            animation-delay: 1.6s;
+            transform: rotate(-15deg);
+        }
+        
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0) rotate(0deg);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) rotate(var(--rotation, 0deg));
+            }
+        }
+        
+        /* Bottom CTA */
+        .cta-youth {
+            position: absolute;
+            bottom: 200px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 1.8s forwards;
+        }
+        
+        .swipe-up {
+            font-size: 28px;
+            font-weight: 800;
+            color: #fff;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            position: relative;
+        }
+        
+        .arrow-up {
+            display: block;
+            font-size: 40px;
+            margin-top: 10px;
+            animation: bounce 1s ease-in-out infinite;
+        }
+        
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-15px); }
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+        
+        /* Sparkles effect */
+        .sparkle {
+            position: absolute;
+            color: #fff;
+            font-size: 24px;
+            animation: sparkle 2s linear infinite;
+        }
+        
+        .sparkle:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
+        .sparkle:nth-child(2) { top: 30%; right: 15%; animation-delay: 0.5s; }
+        .sparkle:nth-child(3) { bottom: 35%; left: 20%; animation-delay: 1s; }
+        .sparkle:nth-child(4) { bottom: 25%; right: 10%; animation-delay: 1.5s; }
+        
+        @keyframes sparkle {
+            0%, 100% { opacity: 0; transform: scale(0); }
+            50% { opacity: 1; transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <div class="intro-container">
+        <div class="floating-shapes">
+            <div class="shape shape1"></div>
+            <div class="shape shape2"></div>
+            <div class="shape shape3"></div>
+        </div>
+        
+        <div class="sparkle">✨</div>
+        <div class="sparkle">✨</div>
+        <div class="sparkle">✨</div>
+        <div class="sparkle">✨</div>
+        
+        <div class="logo-youth">
+            <div class="logo-main">
+                37stopni
+                <span class="fire-emoji">🔥</span>
+            </div>
+            <div class="tagline-youth">#GorączkaCzytania</div>
+        </div>
+        
+        <div class="content-youth">
+            <div class="book-badge">📚 Klasyka na TikToku</div>
+            <h1 class="book-title-youth">[BOOK-TITLE]</h1>
+            <div class="author-youth">[BOOK-AUTHOR]</div>
+        </div>
+        
+        <div class="sticker sticker1">💯</div>
+        <div class="sticker sticker2">🎯</div>
+        <div class="sticker sticker3">⚡</div>
+        
+        <div class="cta-youth">
+            <div class="swipe-up">
+                Swipe Up
+                <span class="arrow-up">⬆️</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

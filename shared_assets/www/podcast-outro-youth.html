@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Youth Outro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;600;800;900&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Poppins', sans-serif;
+            background: #000;
+        }
+        
+        .outro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(135deg, #ffc0cb 0%, #f093fb 25%, #764ba2 50%, #667eea 75%, #ffaa00 100%);
+        }
+        
+        /* Animated blobs */
+        .blob-container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .blob {
+            position: absolute;
+            border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+            filter: blur(40px);
+            animation: morphing 8s ease-in-out infinite;
+        }
+        
+        .blob1 {
+            width: 500px;
+            height: 500px;
+            background: rgba(255, 0, 200, 0.3);
+            top: -100px;
+            right: -100px;
+        }
+        
+        .blob2 {
+            width: 400px;
+            height: 400px;
+            background: rgba(0, 255, 200, 0.3);
+            bottom: -100px;
+            left: -50px;
+            animation-delay: -3s;
+        }
+        
+        @keyframes morphing {
+            0%, 100% { border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%; }
+            33% { border-radius: 70% 40% 50% 60% / 30% 60% 40% 70%; }
+            66% { border-radius: 50% 60% 30% 70% / 50% 40% 70% 30%; }
+        }
+        
+        /* Header with emoji */
+        .header-youth {
+            position: absolute;
+            top: 150px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: bounceDown 0.8s ease-out 0.3s forwards;
+        }
+        
+        @keyframes bounceDown {
+            0% {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            60% {
+                opacity: 1;
+                transform: translateY(10px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .bye-message {
+            font-size: 72px;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        
+        .wave-emoji {
+            display: inline-block;
+            font-size: 80px;
+            animation: wave 1s ease-in-out infinite;
+        }
+        
+        @keyframes wave {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(20deg); }
+            75% { transform: rotate(-20deg); }
+        }
+        
+        /* Social cards */
+        .social-cards {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 800px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+        }
+        
+        .social-card {
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(20px);
+            padding: 35px;
+            border-radius: 30px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            text-align: center;
+            flex: 0 0 calc(50% - 15px);
+            opacity: 0;
+            animation: popUp 0.6s ease-out forwards;
+            transition: all 0.3s ease;
+        }
+        
+        .social-card:nth-child(1) { animation-delay: 0.8s; }
+        .social-card:nth-child(2) { animation-delay: 1s; }
+        .social-card:nth-child(3) { animation-delay: 1.2s; }
+        .social-card:nth-child(4) { animation-delay: 1.4s; }
+        
+        .social-card:hover {
+            transform: translateY(-10px) scale(1.05);
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        @keyframes popUp {
+            0% {
+                opacity: 0;
+                transform: scale(0.5) rotate(-10deg);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) rotate(0deg);
+            }
+        }
+        
+        .social-emoji {
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        .social-name {
+            font-size: 32px;
+            font-weight: 800;
+            color: #fff;
+            text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Website bubble */
+        .website-bubble {
+            position: absolute;
+            bottom: 400px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #fff;
+            padding: 25px 60px;
+            border-radius: 100px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            opacity: 0;
+            animation: slideUp 0.8s ease-out 1.6s forwards;
+        }
+        
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateX(-50%) translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(-50%) translateY(0);
+            }
+        }
+        
+        .website-text {
+            font-family: 'Bebas Neue', cursive;
+            font-size: 48px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+        }
+        
+        /* Call to action */
+        .cta-footer {
+            position: absolute;
+            bottom: 200px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 1.8s forwards;
+        }
+        
+        .follow-text {
+            font-size: 36px;
+            font-weight: 800;
+            color: #fff;
+            text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        
+        .hashtag {
+            font-size: 28px;
+            font-weight: 600;
+            color: #fff;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 10px 30px;
+            border-radius: 50px;
+            display: inline-block;
+        }
+        
+        /* Decorative stickers */
+        .sticker-cloud {
+            position: absolute;
+            font-size: 60px;
+            opacity: 0;
+            animation: float-sticker 3s ease-in-out infinite, fadeIn 0.5s ease-out forwards;
+        }
+        
+        .sticker1 { top: 350px; left: 100px; animation-delay: 2s, 2s; }
+        .sticker2 { top: 800px; right: 100px; animation-delay: 2.2s, 2.2s; }
+        .sticker3 { bottom: 600px; left: 120px; animation-delay: 2.4s, 2.4s; }
+        .sticker4 { bottom: 350px; right: 120px; animation-delay: 2.6s, 2.6s; }
+        
+        @keyframes float-sticker {
+            0%, 100% { transform: translateY(0) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(10deg); }
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+        
+        /* Sparkle animation */
+        .sparkles {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+        
+        .sparkle {
+            position: absolute;
+            color: #fff;
+            font-size: 30px;
+            animation: sparkle 3s linear infinite;
+        }
+        
+        .sparkle:nth-child(1) { top: 15%; left: 20%; animation-delay: 0s; }
+        .sparkle:nth-child(2) { top: 25%; right: 25%; animation-delay: 0.5s; }
+        .sparkle:nth-child(3) { top: 70%; left: 15%; animation-delay: 1s; }
+        .sparkle:nth-child(4) { bottom: 30%; right: 20%; animation-delay: 1.5s; }
+        
+        @keyframes sparkle {
+            0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+            50% { opacity: 1; transform: scale(1) rotate(180deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="outro-container">
+        <div class="blob-container">
+            <div class="blob blob1"></div>
+            <div class="blob blob2"></div>
+        </div>
+        
+        <div class="sparkles">
+            <div class="sparkle">✨</div>
+            <div class="sparkle">✨</div>
+            <div class="sparkle">✨</div>
+            <div class="sparkle">✨</div>
+        </div>
+        
+        <div class="header-youth">
+            <div class="bye-message">Do zobaczenia! <span class="wave-emoji">👋</span></div>
+        </div>
+        
+        <div class="social-cards">
+            <div class="social-card">
+                <div class="social-emoji">📘</div>
+                <div class="social-name">@37stopni</div>
+            </div>
+            <div class="social-card">
+                <div class="social-emoji">📸</div>
+                <div class="social-name">@37stopni</div>
+            </div>
+            <div class="social-card">
+                <div class="social-emoji">🎬</div>
+                <div class="social-name">@37stopni</div>
+            </div>
+            <div class="social-card">
+                <div class="social-emoji">🎵</div>
+                <div class="social-name">@37stopni</div>
+            </div>
+        </div>
+        
+        <div class="website-bubble">
+            <div class="website-text">37STOPNI.PL</div>
+        </div>
+        
+        <div class="cta-footer">
+            <div class="follow-text">Obserwuj nas!</div>
+            <div class="hashtag">#GorączkaCzytania</div>
+        </div>
+        
+        <div class="sticker-cloud sticker1">💖</div>
+        <div class="sticker-cloud sticker2">🌟</div>
+        <div class="sticker-cloud sticker3">🔥</div>
+        <div class="sticker-cloud sticker4">📚</div>
+    </div>
+</body>
+</html>

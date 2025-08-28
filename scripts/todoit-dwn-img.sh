@@ -11,25 +11,6 @@
 # Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 declare -a book_directories=(
-  "0038_iliad"
-  "0039_odyssey"
-  "0040_hamlet"
-  "0041_macbeth"
-  "0042_king_lear"
-  "0043_crime_and_punishment"
-  "0044_the_brothers_karamazov"
-  "0045_war_and_peace"
-  "0046_madame_bovary"
-  "0047_les_miserables"
-  "0048_the_hunchback_of_notredame"
-  "0049_the_count_of_monte_cristo"
-  "0050_the_three_musketeers"
-  "0051_mobydick"
-  "0052_uncle_toms_cabin"
-  "0053_the_scarlet_letter"
-  "0054_the_catcher_in_the_rye"
-  "0055_of_mice_and_men"
-  "0056_the_grapes_of_wrath"
   "0057_east_of_eden"
   "0058_for_whom_the_bell_tolls"
   "0059_a_farewell_to_arms"
@@ -40,6 +21,17 @@ declare -a book_directories=(
   "0064_the_metamorphosis"
   "0065_the_castle"
   "0066_doctor_zhivago"
+  "0067_the_gulag_archipelago"
+  "0068_one_day_in_the_life_of_ivan_denisovich"
+  "0069_lolita"
+  "0070_on_the_road"
+  "0071_beloved"
+  "0072_the_color_purple"
+  "0073_their_eyes_were_watching_god"
+  "0074_invisible_man"
+  "0075_native_son"
+  "0076_things_fall_apart"
+  "0077_the_god_of_small_things"
 )
 
 # Plik z komendą/promptem dla modelu Claude.

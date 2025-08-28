@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Minimalist Outro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;400;600&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Work Sans', sans-serif;
+            background: #000;
+        }
+        
+        .outro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: #fafafa;
+        }
+        
+        /* Logo */
+        .logo-section {
+            position: absolute;
+            top: 200px;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 0.3s forwards;
+        }
+        
+        .logo-minimal {
+            font-size: 120px;
+            font-weight: 200;
+            color: #111;
+            letter-spacing: -5px;
+        }
+        
+        .degree-symbol {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            border: 2px solid #111;
+            border-radius: 50%;
+            vertical-align: super;
+            margin-left: -3px;
+        }
+        
+        /* Central message */
+        .thank-you-section {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            opacity: 0;
+            animation: fadeIn 1s ease-out 0.8s forwards;
+        }
+        
+        .thank-you-text {
+            font-size: 48px;
+            font-weight: 600;
+            color: #111;
+            margin-bottom: 60px;
+        }
+        
+        .divider {
+            width: 80px;
+            height: 1px;
+            background: #111;
+            margin: 0 auto;
+        }
+        
+        /* Social links */
+        .social-minimal {
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0;
+            animation: fadeIn 1s ease-out 1.2s forwards;
+        }
+        
+        .social-list {
+            list-style: none;
+            text-align: center;
+        }
+        
+        .social-item {
+            margin: 25px 0;
+            font-size: 24px;
+            color: #333;
+            font-weight: 400;
+            opacity: 0;
+            animation: slideIn 0.5s ease-out forwards;
+        }
+        
+        .social-item:nth-child(1) { animation-delay: 1.3s; }
+        .social-item:nth-child(2) { animation-delay: 1.4s; }
+        .social-item:nth-child(3) { animation-delay: 1.5s; }
+        .social-item:nth-child(4) { animation-delay: 1.6s; }
+        
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        .social-platform {
+            font-weight: 600;
+            color: #111;
+        }
+        
+        .social-handle {
+            font-weight: 200;
+            color: #666;
+        }
+        
+        /* Website */
+        .website-minimal {
+            position: absolute;
+            bottom: 280px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: fadeIn 0.8s ease-out 1.8s forwards;
+        }
+        
+        .website-text {
+            font-size: 32px;
+            font-weight: 400;
+            color: #111;
+            letter-spacing: 2px;
+        }
+        
+        /* Corner elements */
+        .corner-element {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            opacity: 0;
+            animation: fadeIn 0.6s ease-out 2s forwards;
+        }
+        
+        .corner-element::before,
+        .corner-element::after {
+            content: '';
+            position: absolute;
+            background: #111;
+        }
+        
+        .corner-element::before {
+            width: 30px;
+            height: 1px;
+        }
+        
+        .corner-element::after {
+            width: 1px;
+            height: 30px;
+        }
+        
+        .corner-tl {
+            top: 60px;
+            left: 60px;
+        }
+        
+        .corner-tr {
+            top: 60px;
+            right: 60px;
+            transform: rotate(90deg);
+        }
+        
+        .corner-bl {
+            bottom: 60px;
+            left: 60px;
+            transform: rotate(-90deg);
+        }
+        
+        .corner-br {
+            bottom: 60px;
+            right: 60px;
+            transform: rotate(180deg);
+        }
+        
+        /* Footer */
+        .footer-minimal {
+            position: absolute;
+            bottom: 120px;
+            width: 100%;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 400;
+            color: #999;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            opacity: 0;
+            animation: fadeIn 0.6s ease-out 2.2s forwards;
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="outro-container">
+        <div class="logo-section">
+            <div class="logo-minimal">37<span class="degree-symbol"></span></div>
+        </div>
+        
+        <div class="thank-you-section">
+            <div class="thank-you-text">Dziękujemy</div>
+            <div class="divider"></div>
+        </div>
+        
+        <div class="social-minimal">
+            <ul class="social-list">
+                <li class="social-item">
+                    <span class="social-platform">FB</span> 
+                    <span class="social-handle">/ @37stopni</span>
+                </li>
+                <li class="social-item">
+                    <span class="social-platform">IG</span> 
+                    <span class="social-handle">/ @37stopni</span>
+                </li>
+                <li class="social-item">
+                    <span class="social-platform">YT</span> 
+                    <span class="social-handle">/ @37stopni</span>
+                </li>
+                <li class="social-item">
+                    <span class="social-platform">TT</span> 
+                    <span class="social-handle">/ @37stopni</span>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="website-minimal">
+            <div class="website-text">37stopni.pl</div>
+        </div>
+        
+        <div class="footer-minimal">Gorączka czytania</div>
+        
+        <div class="corner-element corner-tl"></div>
+        <div class="corner-element corner-tr"></div>
+        <div class="corner-element corner-bl"></div>
+        <div class="corner-element corner-br"></div>
+    </div>
+</body>
+</html>

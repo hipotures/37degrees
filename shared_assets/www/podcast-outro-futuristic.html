@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>37stopni - Futuristic Outro</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@200;400;600&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            overflow: hidden;
+            font-family: 'Exo 2', sans-serif;
+            background: #000;
+        }
+        
+        .outro-container {
+            width: 1080px;
+            height: 1920px;
+            position: relative;
+            overflow: hidden;
+            background: radial-gradient(ellipse at center, #0a0e27 0%, #000000 100%);
+        }
+        
+        /* Animated cyber grid */
+        .cyber-grid {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(cyan 1px, transparent 1px),
+                linear-gradient(90deg, cyan 1px, transparent 1px);
+            background-size: 100px 100px;
+            opacity: 0.03;
+            animation: gridMove 10s linear infinite;
+        }
+        
+        @keyframes gridMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(100px, 100px); }
+        }
+        
+        /* Header with glitch */
+        .header-tech {
+            position: absolute;
+            top: 150px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: glitchIn 0.8s ease-out 0.3s forwards;
+        }
+        
+        @keyframes glitchIn {
+            0% {
+                opacity: 0;
+                filter: hue-rotate(90deg);
+            }
+            50% {
+                opacity: 0.5;
+                transform: skewX(5deg);
+            }
+            100% {
+                opacity: 1;
+                transform: skewX(0);
+                filter: hue-rotate(0deg);
+            }
+        }
+        
+        .logo-tech {
+            font-family: 'Orbitron', monospace;
+            font-size: 80px;
+            font-weight: 900;
+            background: linear-gradient(180deg, #00ffff 0%, #0080ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+            text-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+            margin-bottom: 15px;
+        }
+        
+        .tagline-tech {
+            font-size: 16px;
+            font-weight: 400;
+            color: #00ffff;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+        }
+        
+        /* Social connections */
+        .connection-hub {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 700px;
+            height: 700px;
+        }
+        
+        .central-node {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 150px;
+            height: 150px;
+            border: 2px solid #00ffff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            font-size: 24px;
+            font-weight: 700;
+            color: #00ffff;
+            background: rgba(0, 255, 255, 0.05);
+            animation: pulse 2s ease-in-out infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(0, 255, 255, 0.5); }
+            50% { box-shadow: 0 0 40px rgba(0, 255, 255, 0.8); }
+        }
+        
+        .social-node {
+            position: absolute;
+            width: 160px;
+            height: 100px;
+            border: 1px solid rgba(0, 255, 255, 0.5);
+            background: rgba(0, 255, 255, 0.02);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', monospace;
+            opacity: 0;
+            animation: nodeAppear 0.6s ease-out forwards;
+            clip-path: polygon(15% 0%, 85% 0%, 100% 50%, 85% 100%, 15% 100%, 0% 50%);
+        }
+        
+        .social-node:nth-child(2) { 
+            top: 0; 
+            left: 50%; 
+            transform: translateX(-50%);
+            animation-delay: 0.8s;
+        }
+        .social-node:nth-child(3) { 
+            top: 50%; 
+            right: 0; 
+            transform: translateY(-50%);
+            animation-delay: 1s;
+        }
+        .social-node:nth-child(4) { 
+            bottom: 0; 
+            left: 50%; 
+            transform: translateX(-50%);
+            animation-delay: 1.2s;
+        }
+        .social-node:nth-child(5) { 
+            top: 50%; 
+            left: 0; 
+            transform: translateY(-50%);
+            animation-delay: 1.4s;
+        }
+        
+        @keyframes nodeAppear {
+            from {
+                opacity: 0;
+                transform: scale(0.5) translateX(var(--tx, 0)) translateY(var(--ty, 0));
+            }
+            to {
+                opacity: 1;
+                transform: scale(1) translateX(var(--tx, 0)) translateY(var(--ty, 0));
+            }
+        }
+        
+        .node-icon {
+            font-size: 32px;
+            color: #00ffff;
+            margin-bottom: 8px;
+        }
+        
+        .node-label {
+            font-size: 11px;
+            color: #00ffff;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+        
+        /* Connection lines */
+        .connection-line {
+            position: absolute;
+            background: linear-gradient(90deg, transparent, #00ffff, transparent);
+            height: 1px;
+            opacity: 0;
+            animation: lineGrow 0.5s ease-out forwards;
+        }
+        
+        .line-top {
+            top: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 2px;
+            height: 175px;
+            background: linear-gradient(180deg, transparent, #00ffff);
+            animation-delay: 1.6s;
+        }
+        
+        .line-right {
+            top: 50%;
+            right: 160px;
+            transform: translateY(-50%);
+            width: 160px;
+            background: linear-gradient(90deg, #00ffff, transparent);
+            animation-delay: 1.7s;
+        }
+        
+        .line-bottom {
+            bottom: 100px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 2px;
+            height: 175px;
+            background: linear-gradient(180deg, #00ffff, transparent);
+            animation-delay: 1.8s;
+        }
+        
+        .line-left {
+            top: 50%;
+            left: 160px;
+            transform: translateY(-50%);
+            width: 160px;
+            background: linear-gradient(90deg, transparent, #00ffff);
+            animation-delay: 1.9s;
+        }
+        
+        @keyframes lineGrow {
+            to { opacity: 0.5; }
+        }
+        
+        /* Website display */
+        .website-display {
+            position: absolute;
+            bottom: 300px;
+            width: 100%;
+            text-align: center;
+            opacity: 0;
+            animation: dataStream 0.8s ease-out 2s forwards;
+        }
+        
+        @keyframes dataStream {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+                filter: blur(5px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+                filter: blur(0);
+            }
+        }
+        
+        .website-frame {
+            display: inline-block;
+            padding: 15px 40px;
+            border: 1px solid #00ffff;
+            background: rgba(0, 255, 255, 0.05);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .website-frame::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(0, 255, 255, 0.3), transparent);
+            animation: scan 3s linear infinite;
+        }
+        
+        @keyframes scan {
+            to { left: 100%; }
+        }
+        
+        .website-url {
+            font-family: 'Orbitron', monospace;
+            font-size: 36px;
+            font-weight: 700;
+            color: #00ffff;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* Status bar */
+        .status-bar {
+            position: absolute;
+            bottom: 150px;
+            width: 100%;
+            text-align: center;
+            font-family: 'Orbitron', monospace;
+            font-size: 14px;
+            color: #00ffff;
+            letter-spacing: 2px;
+            opacity: 0;
+            animation: fadeIn 0.6s ease-out 2.3s forwards;
+        }
+        
+        @keyframes fadeIn {
+            to { opacity: 1; }
+        }
+        
+        /* Corner HUD */
+        .hud-element {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border: 1px solid rgba(0, 255, 255, 0.2);
+            opacity: 0;
+            animation: fadeIn 0.6s ease-out 2.5s forwards;
+        }
+        
+        .hud-tl {
+            top: 50px;
+            left: 50px;
+            border-right: none;
+            border-bottom: none;
+        }
+        
+        .hud-br {
+            bottom: 50px;
+            right: 50px;
+            border-left: none;
+            border-top: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="outro-container">
+        <div class="cyber-grid"></div>
+        
+        <div class="header-tech">
+            <div class="logo-tech">37°</div>
+            <div class="tagline-tech">/// Connection Established ///</div>
+        </div>
+        
+        <div class="connection-hub">
+            <div class="central-node">CONNECT</div>
+            
+            <div class="social-node" style="--tx: -50%; --ty: 0;">
+                <div class="node-icon">▲</div>
+                <div class="node-label">FACEBOOK</div>
+            </div>
+            
+            <div class="social-node" style="--tx: 0; --ty: -50%;">
+                <div class="node-icon">◆</div>
+                <div class="node-label">INSTAGRAM</div>
+            </div>
+            
+            <div class="social-node" style="--tx: -50%; --ty: 0;">
+                <div class="node-icon">▼</div>
+                <div class="node-label">YOUTUBE</div>
+            </div>
+            
+            <div class="social-node" style="--tx: 0; --ty: -50%;">
+                <div class="node-icon">●</div>
+                <div class="node-label">TIKTOK</div>
+            </div>
+            
+            <div class="connection-line line-top"></div>
+            <div class="connection-line line-right"></div>
+            <div class="connection-line line-bottom"></div>
+            <div class="connection-line line-left"></div>
+        </div>
+        
+        <div class="website-display">
+            <div class="website-frame">
+                <div class="website-url">WWW.37STOPNI.PL</div>
+            </div>
+        </div>
+        
+        <div class="status-bar">[[ TRANSMISSION COMPLETE ]]</div>
+        
+        <div class="hud-element hud-tl"></div>
+        <div class="hud-element hud-br"></div>
+    </div>
+</body>
+</html>
