@@ -164,12 +164,23 @@ if [[ ${#INCORRECT_FILES[@]} -gt 0 ]]; then
                 echo "📝 Processing: $book_folder -> $scene"
                 echo "   File: $file"
                 
-                # Use TODOIT CLI to set image_gen status to pending
+                # Use TODOIT CLI to set both image_gen and image_dwn status to pending
+                echo "   Setting image_gen to pending..."
                 todoit item status --list "$book_folder" --item "$scene" --subitem "image_gen" --status pending 2>/dev/null
-                if [[ $? -eq 0 ]]; then
-                    echo "   ✅ Status updated successfully"
+                gen_result=$?
+                
+                echo "   Setting image_dwn to pending..."
+                todoit item status --list "$book_folder" --item "$scene" --subitem "image_dwn" --status pending 2>/dev/null
+                dwn_result=$?
+                
+                if [[ $gen_result -eq 0 && $dwn_result -eq 0 ]]; then
+                    echo "   ✅ Both image_gen and image_dwn updated successfully"
+                elif [[ $gen_result -eq 0 ]]; then
+                    echo "   ⚠️  image_gen updated, but image_dwn failed"
+                elif [[ $dwn_result -eq 0 ]]; then
+                    echo "   ⚠️  image_dwn updated, but image_gen failed"
                 else
-                    echo "   ❌ Failed to update status via TODOIT CLI"
+                    echo "   ❌ Both updates failed via TODOIT CLI"
                 fi
             else
                 echo "   ❌ Could not extract book_folder or scene from: $filename"
