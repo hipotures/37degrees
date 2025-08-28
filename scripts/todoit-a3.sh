@@ -22,6 +22,16 @@ declare -a book_directories=(
   "0064_the_metamorphosis"
   "0065_the_castle"
   "0066_doctor_zhivago"
+  "0067_the_gulag_archipelago"
+  "0068_one_day_in_the_life_of_ivan_denisovich"
+  "0069_lolita"
+  "0070_on_the_road"
+  "0071_beloved"
+  "0072_the_color_purple"
+  "0073_their_eyes_were_watching_god"
+  "0074_invisible_man"
+  "0075_native_son"
+  "0076_things_fall_apart"
   "0077_the_god_of_small_things"
 )
 

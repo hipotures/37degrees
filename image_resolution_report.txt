@@ -1,0 +1,20 @@
+=== IMAGE RESOLUTION CHECK & FIX REPORT ===
+Expected resolution: 1024x1536
+Date: czw, 28 sie 2025, 19:28:30 CEST
+
+✗ INCORRECT: /home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png - Resolution: 1024x1024
+  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png
+✗ INCORRECT: /home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png - Resolution: 1024x1024
+  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png
+✗ INCORRECT: /home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png - Resolution: 1024x1024
+  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png
+
+=== SUMMARY ===
+Files automatically fixed: 0
+Files still need regeneration: 3
+Unreadable files: 0
+
+=== FILES THAT NEED REGENERATION ===
+/home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png
+/home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png
+/home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png

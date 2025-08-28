@@ -33,7 +33,10 @@
       "mcp__playwright-cdp__browser_navigate",
       "mcp__playwright-cdp__browser_type",
       "Bash(grep:*)",
-      "Read(//home/xai/.claude/projects/-home-xai-DEV-37degrees/**)"
+      "Read(//home/xai/.claude/projects/-home-xai-DEV-37degrees/**)",
+      "mcp__todoit__todo_get_list_property",
+      "mcp__todoit__todo_find_subitems_by_status",
+      "mcp__playwright-headless__browser_evaluate"
     ],
     "deny": [],
     "additionalDirectories": [
