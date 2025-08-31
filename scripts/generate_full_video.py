@@ -73,7 +73,7 @@ def create_personalized_intro_html(book_dir: str, book_data: dict):
     return target_path
 
 
-def generate_intro_frames(book_dir: str, intro_html_path: Path, force: bool = False):
+def generate_intro_frames(book_dir: str, intro_html_path: Path, force: bool = False, method: str = "improved"):
     """Generate intro frames for the specific book."""
     frames_dir = Path(f"books/{book_dir}/intro_frames")
     
@@ -86,19 +86,36 @@ def generate_intro_frames(book_dir: str, intro_html_path: Path, force: bool = Fa
         for png_file in frames_dir.glob("*.png"):
             png_file.unlink()
     
-    print(f"🎬 Generating intro frames...")
+    print(f"🎬 Generating intro frames (method: {method})...")
     temp_video = f"temp_intro_{uuid.uuid4().hex[:8]}.mp4"
-    cmd = [
-        "python", "scripts/html_to_video_30fps.py",
-        str(intro_html_path),
-        temp_video,  # unique temp file
-        "3",  # duration
-        "30",  # fps
-        "1080", "1920",  # resolution
-        "1",  # DPR
-        "--frames-only",
-        f"--frames-dir={frames_dir}"
-    ]
+    
+    if method == "improved":
+        # Use improved script with better rendering
+        cmd = [
+            "python", "scripts/html_to_video_improved.py",
+            str(intro_html_path),
+            temp_video,  # unique temp file
+            "3",  # duration
+            "30",  # fps
+            "1080", "1920",  # resolution
+            "2",  # DPR=2 for better quality
+            "--method=recording",  # Use recording method for natural animations
+            "--frames-only",
+            f"--frames-dir={frames_dir}"
+        ]
+    else:
+        # Use original script with GPU flags fix
+        cmd = [
+            "python", "scripts/html_to_video_30fps.py",
+            str(intro_html_path),
+            temp_video,  # unique temp file
+            "3",  # duration
+            "30",  # fps
+            "1080", "1920",  # resolution
+            "2",  # DPR=2 for better quality
+            "--frames-only",
+            f"--frames-dir={frames_dir}"
+        ]
     
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
@@ -109,7 +126,7 @@ def generate_intro_frames(book_dir: str, intro_html_path: Path, force: bool = Fa
     return frames_dir
 
 
-def generate_outro_frames(force: bool = False):
+def generate_outro_frames(force: bool = False, method: str = "improved"):
     """Generate shared outro frames (once for all books)."""
     frames_dir = Path("shared_assets/outro_frames")
     
@@ -122,19 +139,36 @@ def generate_outro_frames(force: bool = False):
         for png_file in frames_dir.glob("*.png"):
             png_file.unlink()
     
-    print(f"🎬 Generating outro frames...")
+    print(f"🎬 Generating outro frames (method: {method})...")
     temp_video = f"temp_outro_{uuid.uuid4().hex[:8]}.mp4"
-    cmd = [
-        "python", "scripts/html_to_video_30fps.py",
-        "shared_assets/www/podcast-outro-screen.html",
-        temp_video,  # unique temp file
-        "3",  # duration
-        "30",  # fps
-        "1080", "1920",  # resolution
-        "1",  # DPR
-        "--frames-only",
-        f"--frames-dir={frames_dir}"
-    ]
+    
+    if method == "improved":
+        # Use improved script with better rendering
+        cmd = [
+            "python", "scripts/html_to_video_improved.py",
+            "shared_assets/www/podcast-outro-screen.html",
+            temp_video,  # unique temp file
+            "3",  # duration
+            "30",  # fps
+            "1080", "1920",  # resolution
+            "2",  # DPR=2 for better quality
+            "--method=recording",  # Use recording method for natural animations
+            "--frames-only",
+            f"--frames-dir={frames_dir}"
+        ]
+    else:
+        # Use original script with GPU flags fix
+        cmd = [
+            "python", "scripts/html_to_video_30fps.py",
+            "shared_assets/www/podcast-outro-screen.html",
+            temp_video,  # unique temp file
+            "3",  # duration
+            "30",  # fps
+            "1080", "1920",  # resolution
+            "2",  # DPR=2 for better quality
+            "--frames-only",
+            f"--frames-dir={frames_dir}"
+        ]
     
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
@@ -193,6 +227,8 @@ def main():
     parser = argparse.ArgumentParser(description="Generate complete video for a book")
     parser.add_argument("book_dir", help="Book directory name (e.g., 0024_pan_tadeusz)")
     parser.add_argument("--force", action="store_true", help="Force regeneration of intro/outro frames even if they exist")
+    parser.add_argument("--method", choices=["improved", "original"], default="improved", 
+                        help="Method for generating intro/outro frames (default: improved)")
     args = parser.parse_args()
     
     book_dir = args.book_dir
@@ -214,10 +250,10 @@ def main():
         intro_html_path = create_personalized_intro_html(book_dir, book_data)
         
         # 4. Generate intro frames
-        intro_frames_dir = generate_intro_frames(book_dir, intro_html_path, args.force)
+        intro_frames_dir = generate_intro_frames(book_dir, intro_html_path, args.force, args.method)
         
         # 5. Generate outro frames (shared)
-        outro_frames_dir = generate_outro_frames(args.force)
+        outro_frames_dir = generate_outro_frames(args.force, args.method)
         
         # 6. Find audio file
         print("🔊 Finding audio file...")

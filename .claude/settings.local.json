@@ -37,7 +37,9 @@
       "mcp__todoit__todo_get_list_property",
       "mcp__todoit__todo_find_subitems_by_status",
       "mcp__playwright-headless__browser_evaluate",
-      "mcp__todoit__todo_find_items_by_property"
+      "mcp__todoit__todo_find_items_by_property",
+      "mcp__playwright-show-browser__browser_navigate",
+      "mcp__playwright-show-browser__browser_press_key"
     ],
     "deny": [],
     "additionalDirectories": [

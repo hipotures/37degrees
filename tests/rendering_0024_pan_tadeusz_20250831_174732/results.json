@@ -1,0 +1,56 @@
+[
+  {
+    "config": "basic",
+    "dpr": 1,
+    "file": "basic_dpr1.png",
+    "size_kb": 701.98828125
+  },
+  {
+    "config": "basic",
+    "dpr": 2,
+    "file": "basic_dpr2.png",
+    "size_kb": 2240.296875
+  },
+  {
+    "config": "basic",
+    "dpr": 3,
+    "file": "basic_dpr3.png",
+    "size_kb": 4263.8642578125
+  },
+  {
+    "config": "high_quality",
+    "dpr": 1,
+    "file": "high_quality_dpr1.png",
+    "size_kb": 701.98828125
+  },
+  {
+    "config": "high_quality",
+    "dpr": 2,
+    "file": "high_quality_dpr2.png",
+    "size_kb": 2240.296875
+  },
+  {
+    "config": "high_quality",
+    "dpr": 3,
+    "file": "high_quality_dpr3.png",
+    "size_kb": 4263.8642578125
+  },
+  {
+    "config": "gpu_enhanced",
+    "dpr": 1,
+    "file": "gpu_enhanced_dpr1.png",
+    "size_kb": 543.712890625
+  },
+  {
+    "config": "gpu_enhanced",
+    "dpr": 2,
+    "file": "gpu_enhanced_dpr2.png",
+    "size_kb": 1429.2509765625
+  },
+  {
+    "config": "gpu_enhanced",
+    "dpr": 3,
+    "file": "gpu_enhanced_dpr3.png",
+    "size_kb": 2672.5751953125
+  }
+]

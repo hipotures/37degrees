@@ -3,12 +3,14 @@
 # Script to check PNG image resolutions and validate image completeness
 # Phase 1: Check and fix image resolutions by swapping with correct variants
 # Phase 2: Check image completeness (25 files per book with correct naming)
+# Phase 3: Check for and remove duplicate images (same size variants)
 # Expected resolution: 1024x1536
 #
 # Usage:
-#   ./check_and_fix_resolutions.sh          # Run both phases
+#   ./check_and_fix_resolutions.sh          # Run all phases
 #   ./check_and_fix_resolutions.sh --phase 1   # Run only Phase 1
 #   ./check_and_fix_resolutions.sh --phase 2   # Run only Phase 2
+#   ./check_and_fix_resolutions.sh --phase 3   # Run only Phase 3
 
 # Parse command line arguments
 PHASE_TO_RUN="all"
@@ -20,16 +22,16 @@ while [[ $# -gt 0 ]]; do
             ;;
         *)
             echo "Unknown option: $1"
-            echo "Usage: $0 [--phase 1|2]"
+            echo "Usage: $0 [--phase 1|2|3]"
             exit 1
             ;;
     esac
 done
 
 # Validate phase parameter
-if [[ "$PHASE_TO_RUN" != "all" && "$PHASE_TO_RUN" != "1" && "$PHASE_TO_RUN" != "2" ]]; then
-    echo "Error: --phase must be 1, 2, or omitted for all phases"
-    echo "Usage: $0 [--phase 1|2]"
+if [[ "$PHASE_TO_RUN" != "all" && "$PHASE_TO_RUN" != "1" && "$PHASE_TO_RUN" != "2" && "$PHASE_TO_RUN" != "3" ]]; then
+    echo "Error: --phase must be 1, 2, 3, or omitted for all phases"
+    echo "Usage: $0 [--phase 1|2|3]"
     exit 1
 fi
 
@@ -39,6 +41,7 @@ INCORRECT_FILES=()
 FIXED_FILES=()
 UNFIXABLE_FILES=()
 INCOMPLETE_BOOKS=()
+DUPLICATE_FILES=()
 
 echo "=== IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===" > "$REPORT_FILE"
 echo "Expected resolution: $EXPECTED_RESOLUTION" >> "$REPORT_FILE"
@@ -199,6 +202,35 @@ if [[ ${#INCORRECT_FILES[@]} -gt 0 ]]; then
 
     echo ""
     echo "🔧 Found ${#INCORRECT_FILES[@]} files that still need regeneration."
+    
+    # Create detailed breakdown by book for files needing regeneration
+    echo ""
+    echo "📋 SUMMARY: Files that need regeneration by book:"
+    
+    # Group incorrect files by book
+    declare -A book_incorrect_files
+    for file in "${INCORRECT_FILES[@]}"; do
+        filename=$(basename "$file")
+        book_folder=$(echo "$filename" | sed 's/_scene_.*\.png$//')
+        scene_part=$(echo "$filename" | grep -o 'scene_[0-9]\{4\}' | grep -o '[0-9]\{4\}')
+        
+        if [[ -n "$book_folder" && -n "$scene_part" ]]; then
+            if [[ -z "${book_incorrect_files[$book_folder]}" ]]; then
+                book_incorrect_files["$book_folder"]="$scene_part"
+            else
+                book_incorrect_files["$book_folder"]="${book_incorrect_files[$book_folder]}, $scene_part"
+            fi
+        fi
+    done
+    
+    # Display grouped results
+    for book_folder in $(printf '%s\n' "${!book_incorrect_files[@]}" | sort); do
+        scenes="${book_incorrect_files[$book_folder]}"
+        scene_count=$(echo "$scenes" | tr ',' '\n' | wc -l)
+        echo "📚 $book_folder: $scene_count scenes needing regeneration ($scenes)"
+    done
+    
+    echo ""
     echo "📄 Full report saved to: $REPORT_FILE"
     echo ""
 
@@ -269,6 +301,33 @@ if [[ ${#FIXED_FILES[@]} -gt 0 || ${#INCORRECT_FILES[@]} -gt 0 || ${#UNFIXABLE_F
     
     if [[ ${#INCORRECT_FILES[@]} -gt 0 ]]; then
         echo "   🔧 NEED REGENERATION (${#INCORRECT_FILES[@]} files): No suitable replacement variants found"
+        
+        # Create detailed breakdown by book for files needing regeneration
+        echo ""
+        echo "📋 SUMMARY: Files that need regeneration by book:"
+        
+        # Group incorrect files by book
+        declare -A book_incorrect_files
+        for file in "${INCORRECT_FILES[@]}"; do
+            filename=$(basename "$file")
+            book_folder=$(echo "$filename" | sed 's/_scene_.*\.png$//')
+            scene_part=$(echo "$filename" | grep -o 'scene_[0-9]\{4\}' | grep -o '[0-9]\{4\}')
+            
+            if [[ -n "$book_folder" && -n "$scene_part" ]]; then
+                if [[ -z "${book_incorrect_files[$book_folder]}" ]]; then
+                    book_incorrect_files["$book_folder"]="$scene_part"
+                else
+                    book_incorrect_files["$book_folder"]="${book_incorrect_files[$book_folder]}, $scene_part"
+                fi
+            fi
+        done
+        
+        # Display grouped results
+        for book_folder in $(printf '%s\n' "${!book_incorrect_files[@]}" | sort); do
+            scenes="${book_incorrect_files[$book_folder]}"
+            scene_count=$(echo "$scenes" | tr ',' '\n' | wc -l)
+            echo "📚 $book_folder: $scene_count scenes needing regeneration ($scenes)"
+        done
     fi
     
     if [[ ${#UNFIXABLE_FILES[@]} -gt 0 ]]; then
@@ -595,6 +654,199 @@ echo "📄 Complete report available at: $REPORT_FILE"
 
 fi # End of Phase 2 condition
 
+# Phase 2 to Phase 3 transition (only when running all phases)
+if [[ "$PHASE_TO_RUN" == "all" ]]; then
+    echo ""
+    echo "Do you want to proceed to PHASE 3: Duplicate image detection and removal?"
+    echo "This will find and remove duplicate images (copies with same size but different names)."
+    echo -n "Continue to Phase 3? (y/N): "
+    read -r answer_phase3
+
+    if [[ "$answer_phase3" != "y" && "$answer_phase3" != "Y" ]]; then
+        echo "❌ Phase 3 cancelled. Script complete."
+        echo "📄 Report available at: $REPORT_FILE"
+        exit 0
+    fi
+fi
+
+# Phase 3: Duplicate image detection and removal
+if [[ "$PHASE_TO_RUN" == "all" || "$PHASE_TO_RUN" == "3" ]]; then
+
+echo ""
+echo "🔍 PHASE 3: Checking for duplicate images..."
+echo "" >> "$REPORT_FILE"
+echo "=== PHASE 3: DUPLICATE IMAGE DETECTION ===" >> "$REPORT_FILE"
+
+# Function to get file size in bytes
+get_file_size() {
+    local file="$1"
+    if [[ -f "$file" ]]; then
+        stat -f%z "$file" 2>/dev/null || stat -c%s "$file" 2>/dev/null
+    else
+        echo "0"
+    fi
+}
+
+# Function to find duplicates for a given base pattern
+find_duplicates() {
+    local base_file="$1"
+    local base_name="${base_file%.png}"
+    local base_size=$(get_file_size "$base_file")
+    local duplicates=()
+    
+    # Skip if base file doesn't exist or is empty
+    if [[ ! -f "$base_file" || "$base_size" -eq 0 ]]; then
+        return 0
+    fi
+    
+    # Look for variants with pattern: base_name_XXXX.png (where XXXX is suffix)
+    local search_pattern="${base_name}_*.png"
+    local dir_path=$(dirname "$base_file")
+    
+    while IFS= read -r -d '' variant_file; do
+        if [[ -f "$variant_file" && "$variant_file" != "$base_file" ]]; then
+            local variant_size=$(get_file_size "$variant_file")
+            
+            # Check if sizes match
+            if [[ "$variant_size" -eq "$base_size" && "$variant_size" -gt 0 ]]; then
+                duplicates+=("$variant_file")
+            fi
+        fi
+    done < <(find "$dir_path" -maxdepth 1 -name "$(basename "$base_name")_*.png" -print0 2>/dev/null)
+    
+    # If duplicates found, add to global array
+    if [[ ${#duplicates[@]} -gt 0 ]]; then
+        local base_filename=$(basename "$base_file")
+        local duplicate_list=""
+        for dup in "${duplicates[@]}"; do
+            if [[ -z "$duplicate_list" ]]; then
+                duplicate_list="$(basename "$dup")"
+            else
+                duplicate_list="$duplicate_list, $(basename "$dup")"
+            fi
+            DUPLICATE_FILES+=("$dup")
+        done
+        
+        # Store info for later display
+        echo "DUPLICATE_SET: $base_filename -> $duplicate_list" >> "$REPORT_FILE"
+    fi
+}
+
+# Scan all main scene files (originals, not variants)
+duplicate_sets_found=0
+while IFS= read -r -d '' png_file; do
+    if [[ -f "$png_file" ]]; then
+        filename=$(basename "$png_file")
+        
+        # Check if it's a main file (not a variant)
+        # Main files match: NNNN_xxx_scene_NNNN.png
+        # Variants match: NNNN_xxx_scene_NNNN_yyyy.png
+        if [[ "$filename" =~ ^[0-9][0-9][0-9][0-9]_.*_scene_[0-9][0-9][0-9][0-9]\.png$ ]] && [[ ! "$filename" =~ _scene_[0-9][0-9][0-9][0-9]_[0-9a-f]+\.png$ ]]; then
+            find_duplicates "$png_file"
+        fi
+    fi
+done < <(find /home/xai/DEV/37degrees/books -path "*/images/*.png" -name "*scene_*.png" -not -path "*/alt/*" -print0)
+
+# Count unique duplicate sets by grouping
+declare -A duplicate_groups
+for duplicate_file in "${DUPLICATE_FILES[@]}"; do
+    # Extract base pattern (everything before the last underscore and extension)
+    base_pattern=$(basename "$duplicate_file" | sed 's/_[^_]*\.png$//')
+    duplicate_groups["$base_pattern"]=1
+done
+duplicate_sets_found=${#duplicate_groups[@]}
+
+echo "" >> "$REPORT_FILE"
+echo "=== PHASE 3 SUMMARY ===" >> "$REPORT_FILE"
+echo "Duplicate sets found: $duplicate_sets_found" >> "$REPORT_FILE"
+echo "Total duplicate files found: ${#DUPLICATE_FILES[@]}" >> "$REPORT_FILE"
+
+if [[ ${#DUPLICATE_FILES[@]} -eq 0 ]]; then
+    echo ""
+    echo "🎉 No duplicate images found!"
+else
+    echo "" >> "$REPORT_FILE"
+    echo "=== DUPLICATE FILES TO BE REMOVED ===" >> "$REPORT_FILE"
+    
+    # Group duplicates by original file for display
+    declare -A display_groups
+    for duplicate_file in "${DUPLICATE_FILES[@]}"; do
+        base_pattern=$(basename "$duplicate_file" | sed 's/_[^_]*\.png$//')
+        original_file="${base_pattern}.png"
+        dup_name=$(basename "$duplicate_file")
+        
+        if [[ -z "${display_groups[$original_file]}" ]]; then
+            display_groups["$original_file"]="$dup_name"
+        else
+            display_groups["$original_file"]="${display_groups[$original_file]}, $dup_name"
+        fi
+        
+        echo "$duplicate_file" >> "$REPORT_FILE"
+    done
+    
+    echo ""
+    echo "📊 PHASE 3 SUMMARY:"
+    echo "📂 Duplicate sets found: $duplicate_sets_found"
+    echo "🗂️  Total duplicate files: ${#DUPLICATE_FILES[@]}"
+    echo ""
+    echo "📋 DUPLICATE GROUPS:"
+    
+    for original in $(printf '%s\n' "${!display_groups[@]}" | sort); do
+        echo "📄 $original -> ${display_groups[$original]}"
+    done
+    
+    echo ""
+    echo "Do you want to remove these ${#DUPLICATE_FILES[@]} duplicate files?"
+    echo "⚠️  WARNING: This will permanently delete the duplicate copies (NOT the originals)!"
+    echo -n "Remove duplicates? (y/N): "
+    read -r answer_remove
+
+    if [[ "$answer_remove" == "y" || "$answer_remove" == "Y" ]]; then
+        echo ""
+        echo "🗑️  Removing duplicate files..."
+        
+        removed_count=0
+        failed_count=0
+        
+        for duplicate_file in "${DUPLICATE_FILES[@]}"; do
+            if [[ -f "$duplicate_file" ]]; then
+                echo "   Removing: $(basename "$duplicate_file")"
+                if rm "$duplicate_file" 2>/dev/null; then
+                    ((removed_count++))
+                else
+                    ((failed_count++))
+                    echo "   ❌ Failed to remove: $(basename "$duplicate_file")"
+                fi
+            else
+                echo "   ⚠️  File not found: $(basename "$duplicate_file")"
+                ((failed_count++))
+            fi
+        done
+        
+        echo ""
+        echo "✅ Removal complete!"
+        echo "🗑️  Successfully removed: $removed_count files"
+        if [[ $failed_count -gt 0 ]]; then
+            echo "❌ Failed to remove: $failed_count files"
+        fi
+        
+        echo "" >> "$REPORT_FILE"
+        echo "=== DUPLICATE REMOVAL RESULTS ===" >> "$REPORT_FILE"
+        echo "Successfully removed: $removed_count files" >> "$REPORT_FILE"
+        echo "Failed to remove: $failed_count files" >> "$REPORT_FILE"
+        
+    else
+        echo "❌ Duplicate removal cancelled."
+        echo "" >> "$REPORT_FILE"
+        echo "=== DUPLICATE REMOVAL CANCELLED ===" >> "$REPORT_FILE"
+    fi
+fi
+
+echo ""
+echo "✅ PHASE 3 COMPLETE!"
+
+fi # End of Phase 3 condition
+
 # Script completion message
 echo ""
 if [[ "$PHASE_TO_RUN" == "all" ]]; then
@@ -603,5 +855,7 @@ elif [[ "$PHASE_TO_RUN" == "1" ]]; then
     echo "🎉 Phase 1 completed!"
 elif [[ "$PHASE_TO_RUN" == "2" ]]; then
     echo "🎉 Phase 2 completed!"
+elif [[ "$PHASE_TO_RUN" == "3" ]]; then
+    echo "🎉 Phase 3 completed!"
 fi
 echo "📄 Final report available at: $REPORT_FILE"
