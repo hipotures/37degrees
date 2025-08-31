@@ -36,7 +36,8 @@
       "Read(//home/xai/.claude/projects/-home-xai-DEV-37degrees/**)",
       "mcp__todoit__todo_get_list_property",
       "mcp__todoit__todo_find_subitems_by_status",
-      "mcp__playwright-headless__browser_evaluate"
+      "mcp__playwright-headless__browser_evaluate",
+      "mcp__todoit__todo_find_items_by_property"
     ],
     "deny": [],
     "additionalDirectories": [

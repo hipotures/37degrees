@@ -8,32 +8,42 @@
 # skrypt pobiera pending zadania z TODOIT i wykonuje je jedno po drugim.
 # ---
 
-# Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
-# Każda nazwa katalogu odpowiada nazwie listy TODOIT.
-# Unikalna lista katalogów, posortowana rosnąco po numerze
-declare -a book_directories=(
-  "0057_east_of_eden"
-  "0058_for_whom_the_bell_tolls"
-  "0059_a_farewell_to_arms"
-  "0060_the_sun_also_rises"
-  "0061_one_flew_over_the_cuckoos_nest"
-  "0062_catch22"
-  "0063_slaughterhousefive"
-  "0064_the_metamorphosis"
-  "0065_the_castle"
-  "0066_doctor_zhivago"
-  "0067_the_gulag_archipelago"
-  "0068_one_day_in_the_life_of_ivan_denisovich"
-  "0069_lolita"
-  "0070_on_the_road"
-  "0071_beloved"
-  "0072_the_color_purple"
-  "0073_their_eyes_were_watching_god"
-  "0074_invisible_man"
-  "0075_native_son"
-  "0076_things_fall_apart"
-  "0077_the_god_of_small_things"
-)
+# =============================================================================
+# KONFIGURACJA ZAKRESU KSIĄŻEK
+# =============================================================================
+# Ustaw zakres książek do przetworzenia:
+# - Pozostaw puste aby przetworzyć wszystkie książki
+# - Ustaw liczby aby ograniczyć zakres (np. od 33 do 44)
+
+BOOK_START_RANGE="75"      # Początek zakresu (np. 33 dla 0033_xxx)
+BOOK_END_RANGE="100"        # Koniec zakresu (np. 44 dla 0044_xxx)
+
+# =============================================================================
+# ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
+# =============================================================================
+
+# Ładuj bibliotekę funkcji do obsługi książek
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$SCRIPT_DIR/lib/book_utils.sh"
+
+# Walidacja parametrów zakresu
+if ! validate_book_range "$BOOK_START_RANGE" "$BOOK_END_RANGE"; then
+    show_book_range_help
+    exit 1
+fi
+
+# Zainicjalizuj tablicę book_directories z dynamicznie pobranymi katalogami
+declare -a book_directories
+mapfile -t book_directories < <(populate_book_directories "$BOOK_START_RANGE" "$BOOK_END_RANGE")
+
+# Sprawdź czy znaleziono książki do przetworzenia
+if [[ ${#book_directories[@]} -eq 0 ]]; then
+    echo "❌ Error: No books found in specified range"
+    exit 1
+fi
+
+# Pokaż informacje o znalezionych książkach
+show_book_directories_info
 
 # Plik z komendą/promptem dla modelu Claude.
 COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-a3-generate-image.md"
