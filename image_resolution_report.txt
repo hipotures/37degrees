@@ -1,20 +1,29 @@
-=== IMAGE RESOLUTION CHECK & FIX REPORT ===
+=== IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: czw, 28 sie 2025, 19:28:30 CEST
+Date: nie, 31 sie 2025, 11:28:09 CEST
+Phases to run: 2
 
-✗ INCORRECT: /home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png - Resolution: 1024x1024
-  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png
-✗ INCORRECT: /home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png - Resolution: 1024x1024
-  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png
-✗ INCORRECT: /home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png - Resolution: 1024x1024
-  🔧 NEEDS REGENERATION: /home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png
 
-=== SUMMARY ===
-Files automatically fixed: 0
-Files still need regeneration: 3
-Unreadable files: 0
+=== PHASE 2: IMAGE COMPLETENESS CHECK ===
+0081_the_jungle_book - 21
+0083_lord_of_the_flies - 24
+0084_a_clockwork_orange - 23
+0085_the_handmaids_tale - 24
+0086_frankenstein - 16
 
-=== FILES THAT NEED REGENERATION ===
-/home/xai/DEV/37degrees/books/0002_animal_farm/images/0002_animal_farm_scene_0017.png
-/home/xai/DEV/37degrees/books/0010_great_gatsby/images/0010_great_gatsby_scene_0019.png
-/home/xai/DEV/37degrees/books/0061_one_flew_over_the_cuckoos_nest/images/0061_one_flew_over_the_cuckoos_nest_scene_0025.png
+=== PHASE 2 SUMMARY ===
+Books with incomplete/incorrect images: 5
+
+=== BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
+0081_the_jungle_book
+0083_lord_of_the_flies
+0084_a_clockwork_orange
+0085_the_handmaids_tale
+0086_frankenstein
+
+=== MISSING SCENES TO BE SET TO PENDING ===
+0081_the_jungle_book: 4 missing scenes (0004, 0006, 0017, 0024)
+0083_lord_of_the_flies: 1 missing scenes (0005)
+0084_a_clockwork_orange: 2 missing scenes (0011, 0022)
+0085_the_handmaids_tale: 1 missing scenes (0022)
+0086_frankenstein: 9 missing scenes (0004, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025)
