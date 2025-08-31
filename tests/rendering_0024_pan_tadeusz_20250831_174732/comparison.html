@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rendering Test Comparison</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            background: #1a1a1a; 
+            color: #fff;
+            padding: 20px;
+        }
+        h1 { text-align: center; color: #d4af37; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .test-item {
+            background: #2a2a2a;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .test-item img {
+            width: 100%;
+            height: auto;
+            border: 1px solid #444;
+            cursor: pointer;
+        }
+        .test-item h3 { 
+            color: #d4af37; 
+            margin: 10px 0;
+        }
+        .info {
+            font-size: 14px;
+            color: #aaa;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.95);
+        }
+        .modal img {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 90%;
+            max-height: 90%;
+        }
+        .modal.active { display: block; }
+    </style>
+</head>
+<body>
+    <h1>Intro/Outro Rendering Test Results</h1>
+    <div class="info" style="text-align: center; margin: 20px;">
+        Click on any image to view full size | Generated: 2025-08-31 17:48:11
+    </div>
+    
+    <div class="grid">
+
+        <div class="test-item">
+            <h3>BASIC - DPR 1</h3>
+            <img src="basic_dpr1.png" onclick="showModal(this.src)" alt="basic DPR=1">
+            <div class="info">Size: 702.0KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>BASIC - DPR 2</h3>
+            <img src="basic_dpr2.png" onclick="showModal(this.src)" alt="basic DPR=2">
+            <div class="info">Size: 2240.3KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>BASIC - DPR 3</h3>
+            <img src="basic_dpr3.png" onclick="showModal(this.src)" alt="basic DPR=3">
+            <div class="info">Size: 4263.9KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>HIGH_QUALITY - DPR 1</h3>
+            <img src="high_quality_dpr1.png" onclick="showModal(this.src)" alt="high_quality DPR=1">
+            <div class="info">Size: 702.0KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>HIGH_QUALITY - DPR 2</h3>
+            <img src="high_quality_dpr2.png" onclick="showModal(this.src)" alt="high_quality DPR=2">
+            <div class="info">Size: 2240.3KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>HIGH_QUALITY - DPR 3</h3>
+            <img src="high_quality_dpr3.png" onclick="showModal(this.src)" alt="high_quality DPR=3">
+            <div class="info">Size: 4263.9KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>GPU_ENHANCED - DPR 1</h3>
+            <img src="gpu_enhanced_dpr1.png" onclick="showModal(this.src)" alt="gpu_enhanced DPR=1">
+            <div class="info">Size: 543.7KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>GPU_ENHANCED - DPR 2</h3>
+            <img src="gpu_enhanced_dpr2.png" onclick="showModal(this.src)" alt="gpu_enhanced DPR=2">
+            <div class="info">Size: 1429.3KB</div>
+        </div>
+
+        <div class="test-item">
+            <h3>GPU_ENHANCED - DPR 3</h3>
+            <img src="gpu_enhanced_dpr3.png" onclick="showModal(this.src)" alt="gpu_enhanced DPR=3">
+            <div class="info">Size: 2672.6KB</div>
+        </div>
+
+    </div>
+    
+    <div id="modal" class="modal" onclick="hideModal()">
+        <img id="modalImg" src="">
+    </div>
+    
+    <script>
+        function showModal(src) {
+            document.getElementById('modalImg').src = src;
+            document.getElementById('modal').classList.add('active');
+        }
+        function hideModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+    </script>
+</body>
+</html>

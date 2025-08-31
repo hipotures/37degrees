@@ -75,11 +75,16 @@ def create_animated_video_from_html(
             args=[
                 '--force-color-profile=srgb',
                 '--enable-gpu-rasterization',
+                '--enable-accelerated-2d-canvas',
+                '--enable-features=VaapiVideoDecoder',
+                '--use-angle=gl',
+                '--enable-unsafe-swiftshader',
+                '--disable-web-security',
+                '--disable-low-res-tiling',
+                '--high-dpi-support=1',
                 '--disable-background-timer-throttling',
                 '--disable-renderer-backgrounding',
                 '--disable-backgrounding-occluded-windows',
-                '--enable-unsafe-swiftshader',
-                '--disable-web-security',
             ],
         )
 
