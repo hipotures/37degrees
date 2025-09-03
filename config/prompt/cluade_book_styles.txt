@@ -11,7 +11,7 @@
 0011_gullivers_travels,children-book-illustration-style.yaml,world-building-focus-generator.md
 0012_harry_potter,illuminated-manuscript-style.yaml,narrative-prompt-generator.md
 0013_hobbit,celtic-knotwork-style.yaml,world-building-focus-generator.md
-0014_jane_eyre,gothic-fantasy-style.yaml,emotional-journey-generator.md
+0014_jane_eyre,gothic-horror-style.yaml,emotional-journey-generator.md
 0015_lady_of_the_camellias,romanticism-art-style.yaml,emotional-journey-generator.md
 0016_lalka,realism-art-style.yaml,socio-political-commentary-generator.md
 0017_little_prince,watercolor-style.yaml,symbolic-moments-generator.md
@@ -34,7 +34,7 @@
 0034_to_kill_a_mockingbird,ashcan-school-style.yaml,character-perspective-generator.md
 0035_tom_sawyer,vintage-offset-print-style.yaml,narrative-prompt-generator.md
 0036_treasure_island,vintage-travel-poster-style.yaml,narrative-prompt-generator.md
-0037_wuthering_heights,gothic-art-style.yaml,atmospheric-moments-generator.md
+0037_wuthering_heights,gothic-horror-style.yaml,atmospheric-moments-generator.md
 0038_iliad,fresco-painting-style.yaml,cinematic-composition-generator.md
 0039_odyssey,fresco-painting-style.yaml,world-building-focus-generator.md
 0040_hamlet,baroque-tenebrism-style.yaml,dialogue-showdown-generator.md
@@ -45,7 +45,7 @@
 0045_war_and_peace,realism-art-style.yaml,temporal-shift-generator.md
 0046_madame_bovary,impressionism-style.yaml,sensory-immersion-generator.md
 0047_les_miserables,realism-art-style.yaml,socio-political-commentary-generator.md
-0048_the_hunchback_of_notredame,gothic-art-style.yaml,atmospheric-moments-generator.md
+0048_the_hunchback_of_notredame,gothic-horror-style.yaml,atmospheric-moments-generator.md
 0049_the_count_of_monte_cristo,romanticism-art-style.yaml,temporal-shift-generator.md
 0050_the_three_musketeers,baroque-tenebrism-style.yaml,cinematic-composition-generator.md
 0051_mobydick,woodcut-linocut-style.yaml,symbolic-moments-generator.md
@@ -83,8 +83,8 @@
 0083_lord_of_the_flies,art-brut-style.yaml,descent-into-madness-generator.md
 0084_a_clockwork_orange,pop-art-style.yaml,evil-perspective-generator.md
 0085_the_handmaids_tale,dystopian-futurism-style.yaml,socio-political-commentary-generator.md
-0086_frankenstein,gothic-fantasy-style.yaml,character-perspective-generator.md
-0087_dracula,gothic-art-style.yaml,atmospheric-moments-generator.md
+0086_frankenstein,gothic-horror-style.yaml,character-perspective-generator.md
+0087_dracula,gothic-horror-style.yaml,atmospheric-moments-generator.md
 0088_the_strange_case_of_dr_jekyll_and_mr_hyde,noir-pulp-fiction-style.yaml,character-perspective-generator.md
 0089_twenty_thousand_leagues_under_the_sea,steampunk-style.yaml,world-building-focus-generator.md
 0090_around_the_world_in_eighty_days,vintage-travel-poster-style.yaml,world-building-focus-generator.md

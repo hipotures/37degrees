@@ -22,8 +22,11 @@ UWAGA: Używaj MCP todoit (subtasks system) i playwright-headless do automatyzac
 - TODOIT_LIST: "[BOOK_FOLDER]" (np. "0011_gullivers_travels")
 
 ## Kroki worker subagenta:
+Uzyj tools TodoWrite, stwórz listę TODO i dodaj na listę wszystkie fazy wykonania po czym je zrealizuj.
+Masz miec 10 punktów na liscie TODO. Lista TODO (wewnętrzny tool) to nie to samo co lista TODOIT (zewnętrzny MCP).
 
-### 1. Odczyt konfiguracji z TODOIT
+### Faza 1. Odczyt konfiguracji z TODOIT
+Wykonaj:
 
 ```javascript
 // Odczytaj BOOK_FOLDER z właściwości listy TODOIT
@@ -40,7 +43,8 @@ if (!bookFolder.success) {
 console.log(`Processing book: ${bookFolder.property_value}`);
 ```
 
-### 2. Znajdź następne zadanie do generowania
+### Faza 2. Znajdź następne zadanie do generowania
+Wykonaj:
 
 ```javascript
 // Używa zoptymalizowanego todo_find_subitems_by_status do znajdowania image_gen subtasków
@@ -68,7 +72,8 @@ console.log(`Processing ${sceneKey} for image generation`);
 console.log(`Found ${readyImageTasks.matches_count} total image_gen tasks ready`);
 ```
 
-### 3. Rozpocznij przetwarzanie
+### Faza 3. Rozpocznij przetwarzanie
+Wykonaj:
 
 ```javascript
 // Subtask pozostaje pending podczas przetwarzania - nie ma potrzeby ustawiania in_progress
@@ -76,7 +81,8 @@ console.log(`Found ${readyImageTasks.matches_count} total image_gen tasks ready`
 console.log(`Starting image generation for ${sceneKey}`);
 ```
 
-### 4. Odczytaj ścieżkę pliku YAML
+### Faza 4. Odczytaj ścieżkę pliku YAML
+Wykonaj:
 
 ```javascript
 // Znajdź odpowiedni scene_style subtask aby odczytać ścieżkę pliku
@@ -99,7 +105,20 @@ const yamlFilename = stylePathProperty.property_value.split('/').pop(); // np. "
 console.log(`Using YAML file: ${yamlFilename}`);
 ```
 
-### 5. Nawigacja do projektu ChatGPT
+### Faza 5. Nawigacja do projektu ChatGPT
+Uzywany model, to o4-mini - TYLKO TEN MODEL MA BYC UZYWANY! Nie testuj innych modeli, nie sprawdzaj, nie szukaj!
+Uwaga: projectId.property_value może byc zapisany jako (przykład): 
+  68b7e9551f8081919511b1ce73c242ca
+albo
+  g-p-68b7e9551f8081919511b1ce73c242ca
+Więc jeśli masz taki string 68b7e9551f8081919511b1ce73c242ca musisz do niego dokleić przedrostek "g-p-"
+
+Pełna poprawna ścieżka wygląda wtedy tak:
+  https://chatgpt.com/g/g-p-68b7e9551f8081919511b1ce73c242ca/project
+  albo tak
+  https://chatgpt.com/g/g-p-68b7e9551f8081919511b1ce73c242ca-0098-the-man-in-the-high-castle/project
+Obydwie prowadzą na tą samą stronę!
+
 
 ```javascript
 // Sprawdź czy PROJECT_ID istnieje w właściwościach listy
@@ -111,7 +130,7 @@ const projectId = await mcp__todoit__todo_get_list_property({
 if (projectId.success && projectId.property_value) {
   // Użyj bezpośredniej nawigacji do istniejącego projektu z modelem o4-mini
   await mcp__playwright-headless__browser_navigate({
-    url: `https://chatgpt.com/g/${projectId.property_value}/project?model=o4-mini`
+    url: `https://chatgpt.com/g/g-p-${projectId.property_value}/project?model=o4-mini`
   });
 } else {
   // Utwórz nowy projekt ChatGPT z modelem o4-mini
@@ -158,7 +177,8 @@ if (projectId.success && projectId.property_value) {
 }
 ```
 
-### 6. Oczyszczenie widoku projektu
+### Faza 6. Oczyszczenie widoku projektu
+Wykonaj:
 
 ```javascript
 // Ukryj mylące elementy projektowe przed analizą
@@ -168,7 +188,7 @@ await mcp__playwright-headless__browser_evaluate({
     let addFilesSection = null;
     
     for (let button of buttons) {
-      if (button.textContent?.includes('Add files') && button.textContent?.includes('Chats in this project can access')) {
+      if (button.textContent?.includes('Add files')) {
         addFilesSection = button.parentElement;
         break;
       }
@@ -184,22 +204,24 @@ await mcp__playwright-headless__browser_evaluate({
 });
 ```
 
-### 7. Załączenie pliku YAML
+### Faza 7. Załączenie pliku YAML
 Sprawdz, czy wybrany model to o4-mini, jesli nie, ustaw ten model.
 
+W snapshocie znajdziesz taki kawałek tekstu (przykład, refy będą miały inne id):
+  - button "Add files" [ref=e43] [cursor=pointer]:
+    - generic [ref=e44] [cursor=pointer]: Add files
+    On nas NIE interesuje, to dodaje pliki do projektu a tego NIE chcemy!
 
-```javascript
-// Kliknij przycisk "Add photos & files"
-await mcp__playwright-headless__browser_click({
-  element: "Add photos & files button",
-  ref: "REF_FROM_SNAPSHOT"
-});
+    Interesuje nas ten przycisk pomiędzy "New chat in.." a kolejnym generickiem, w tym przykładzie to jest ref=e55:
+    - generic [ref=e48]:
+      - paragraph [ref=e52]: New chat in 0098_the_man_in_the_high_castle
+      - button [ref=e55] [cursor=pointer]:
+        - img
+      - generic [ref=e59]
 
-// Wybierz "Add files" z menu
-await mcp__playwright-headless__browser_click({
-  element: "Add files menu option",
-  ref: "REF_FROM_SNAPSHOT"
-});
+Klikasz w to 2 razy, po kolei:
+ - za pierwszym wybierasz "Create image"
+ - za drugim "Add files" (tylko w tym miejscu!) i załaczasz plik yaml
 
 // Załącz plik YAML z zadania
 await mcp__playwright-headless__browser_file_upload({
@@ -210,27 +232,12 @@ await mcp__playwright-headless__browser_file_upload({
 await mcp__playwright-headless__browser_wait_for({ time: 3 });
 ```
 
-### 8. Wybór narzędzia "Create image"
-
-```javascript
-// Kliknij przycisk "Choose tool"
-await mcp__playwright-headless__browser_click({
-  element: "Choose tool button",
-  ref: "REF_FROM_SNAPSHOT"
-});
-
-// Wybierz "Create image" z menu dropdown
-await mcp__playwright-headless__browser_click({
-  element: "Create image option",
-  ref: "REF_FROM_SNAPSHOT"
-});
-```
-
-### 9. Wpisanie promptu
+### Faza 8. Wpisanie promptu
+Wykonaj:
 
 ```javascript
 // CRITICAL: ChatGPT używa contenteditable div, NIE textarea!
-const promptText = `${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.`;
+const promptText = `[TODOIT_LIST]:${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. Think carefully: the YAML is a blueprint, not the content!`;
 
 await mcp__playwright-headless__browser_evaluate({
   function: `() => {
@@ -246,7 +253,8 @@ await mcp__playwright-headless__browser_evaluate({
 });
 ```
 
-### 10. Uruchomienie generacji
+### Faza 9. Uruchomienie generacji
+Wykonaj:
 
 ```javascript
 // Kliknij przycisk "Send prompt" (czarne koło ze strzałką)
@@ -259,11 +267,13 @@ Czekaj na jakąkolwiek odpowiedź ChatGPT
 CRITICAL: Może być "Getting started" LUB komunikat błędu
 "Getting started" oznacza poprawne rozpoczęcie generacji obrazu!!! Nie oznaczaj tego jako błąd!
 
+Wykonaj dokładnie to polecenie, nie zmieniaj go na inne:
 ```
-bash(sleep 15)
+Bash(sleep 30)
 ```
 
-### 11. Sprawdzenie rezultatu i finalizacja
+### Faza 10. Sprawdzenie rezultatu i finalizacja
+Wykonaj:
 
 ```javascript
 const snapshotAfterSend = await mcp__playwright-headless__browser_snapshot();
@@ -379,22 +389,19 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 
 ## Uwagi techniczne:
 
-- **CRITICAL:** Worker przetwarza TYLKO JEDNO zadanie na wywołanie
 - **System subtasks:** image_gen subtask status (pending → completed/failed, ale przy limitach ChatGPT Plus pozostaje pending)
 - **Brak in_progress:** Subtaski pozostają pending podczas przetwarzania, przechodzą bezpośrednio do completed/failed
 - **ChatGPT Plus limit:** Gdy wystąpi limit, subtask pozostaje pending do ponownej próby
 - **BOOK_FOLDER** jest odczytywany z właściwości listy TODOIT
 - **PROJECT_ID** jest zapisywany w liście przy pierwszym utworzeniu projektu
 - **Thread ID** jest zapisywany w właściwościach image_gen subtaska
-- **Worker** kończy działanie po ukończeniu jednego zadania
-- **Orchestrator** wywołuje worker w pętli dopóki są zadania do generowania
 - **Nazwa projektu** ChatGPT = BOOK_FOLDER (np. "0011_gullivers_travels")
 - **CRITICAL:** Używaj contenteditable div, NIE textarea dla promptu
 - **Element refs** są dynamiczne - zawsze rób snapshot przed interakcją
-- NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie
+- NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie, możesz przeładować stronę, jeśli nie masz pewności co się dzieje
 - Jeśli napotkasz jakiś problem z generacją obrazu, zrób screenshot:
   mcp__playwright-headless__browser_take_screenshot(fullPage: true)
-  a potem kontynuuj zgodnie z planem
+  a potem kontynuuj zgodnie z planem, możesz przeładować stronę
 
 ## Stan końcowy zadania:
 
@@ -405,5 +412,3 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 - Thread ID zapisany w właściwościach image_gen subtaska
 - PROJECT_ID zapisany w właściwościach listy (jeśli projekt był tworzony)
 - Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML (sukces) lub wykryto limit
-- Worker zakończył działanie - można wywołać następne zadanie
-- Zadanie główne pozostaje in_progress do czasu ukończenia pobierania
