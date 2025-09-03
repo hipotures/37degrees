@@ -373,9 +373,20 @@ check_book_completeness() {
     local book_name=$(basename "$book_dir")
     local images_dir="$book_dir/images"
     
-    # Skip if images directory doesn't exist or is empty
-    if [[ ! -d "$images_dir" ]] || [[ -z "$(ls -A "$images_dir" 2>/dev/null)" ]]; then
-        return 0  # Not an error - book hasn't been generated yet
+    # Check if images directory doesn't exist
+    if [[ ! -d "$images_dir" ]]; then
+        # Directory doesn't exist - mark as incomplete (all 25 scenes missing)
+        echo "$book_name - 0 (no images directory)" | tee -a "$REPORT_FILE"
+        INCOMPLETE_BOOKS+=("$book_name")
+        return 0
+    fi
+    
+    # Check if images directory is completely empty
+    if [[ -z "$(ls -A "$images_dir" 2>/dev/null)" ]]; then
+        # Directory exists but is completely empty - mark as incomplete
+        echo "$book_name - 0 (empty directory)" | tee -a "$REPORT_FILE"
+        INCOMPLETE_BOOKS+=("$book_name")
+        return 0
     fi
     
     # Count main scene files (not variants)
@@ -482,12 +493,17 @@ if [[ ${#INCOMPLETE_BOOKS[@]} -gt 0 ]]; then
                 fi
             done < <(find "$images_dir" -maxdepth 1 -name "*.png" -print0 2>/dev/null)
             
-            # Check if directory is truly empty (no PNG files found)
+            # Check if directory is completely empty (no files at all) or has no PNG files
+            total_files=$(ls -A "$images_dir" 2>/dev/null | wc -l)
             total_pngs=$(find "$images_dir" -maxdepth 1 -name "*.png" 2>/dev/null | wc -l)
-            if [[ $total_pngs -eq 0 ]]; then
-                # Directory exists but is empty
+            if [[ $total_files -eq 0 ]]; then
+                # Directory exists but is completely empty
                 missing_count=25
-                missing_list="0001-0025 (all - empty directory)"
+                missing_list="0001-0025 (all - completely empty directory)"
+            elif [[ $total_pngs -eq 0 ]]; then
+                # Directory has files but no PNG files
+                missing_count=25
+                missing_list="0001-0025 (all - no PNG files)"
             else
                 # Check all scenes from 0001 to 0025
                 for i in {1..25}; do
@@ -599,27 +615,34 @@ if [[ ${#INCOMPLETE_BOOKS[@]} -gt 0 ]]; then
                 if [[ -d "$images_dir" ]]; then
                     # Find existing scene numbers
                     existing_scenes=()
-                    while IFS= read -r -d '' png_file; do
-                        filename=$(basename "$png_file")
-                        if [[ "$filename" =~ ^[0-9][0-9][0-9][0-9]_.*_scene_[0-9][0-9][0-9][0-9]\.png$ ]] && [[ ! "$filename" =~ _scene_[0-9][0-9][0-9][0-9]_[0-9a-f]+\.png$ ]]; then
-                            scene_num=$(echo "$filename" | grep -o 'scene_[0-9]\{4\}' | grep -o '[0-9]\{4\}')
-                            existing_scenes+=("$scene_num")
-                        fi
-                    done < <(find "$images_dir" -maxdepth 1 -name "*.png" -print0 2>/dev/null)
+                    total_files=$(ls -A "$images_dir" 2>/dev/null | wc -l)
+                    
+                    # Only scan for PNG files if directory is not completely empty
+                    if [[ $total_files -gt 0 ]]; then
+                        while IFS= read -r -d '' png_file; do
+                            filename=$(basename "$png_file")
+                            if [[ "$filename" =~ ^[0-9][0-9][0-9][0-9]_.*_scene_[0-9][0-9][0-9][0-9]\.png$ ]] && [[ ! "$filename" =~ _scene_[0-9][0-9][0-9][0-9]_[0-9a-f]+\.png$ ]]; then
+                                scene_num=$(echo "$filename" | grep -o 'scene_[0-9]\{4\}' | grep -o '[0-9]\{4\}')
+                                existing_scenes+=("$scene_num")
+                            fi
+                        done < <(find "$images_dir" -maxdepth 1 -name "*.png" -print0 2>/dev/null)
+                    fi
                     
                     # Check all scenes from 0001 to 0025
                     for i in {1..25}; do
                         scene_num=$(printf "%04d" $i)
                         scene_key="scene_$scene_num"
                         
-                        # Check if this scene exists
+                        # Check if this scene exists (if directory is empty, no scenes exist)
                         scene_exists=false
-                        for existing in "${existing_scenes[@]}"; do
-                            if [[ "$existing" == "$scene_num" ]]; then
-                                scene_exists=true
-                                break
-                            fi
-                        done
+                        if [[ $total_files -gt 0 ]]; then
+                            for existing in "${existing_scenes[@]}"; do
+                                if [[ "$existing" == "$scene_num" ]]; then
+                                    scene_exists=true
+                                    break
+                                fi
+                            done
+                        fi
                         
                         if [[ "$scene_exists" == false ]]; then
                             echo "   Missing: $scene_key - setting to pending..."
@@ -636,6 +659,28 @@ if [[ ${#INCOMPLETE_BOOKS[@]} -gt 0 ]]; then
                             else
                                 echo "   ⚠️  $scene_key update failed"
                             fi
+                        fi
+                    done
+                else
+                    # Directory doesn't exist - set all 25 scenes to pending
+                    echo "   Images directory doesn't exist - setting all scenes to pending..."
+                    for i in {1..25}; do
+                        scene_num=$(printf "%04d" $i)
+                        scene_key="scene_$scene_num"
+                        
+                        echo "   Missing: $scene_key - setting to pending..."
+                        
+                        # Set both image_gen and image_dwn to pending
+                        todoit item status --list "$book_name" --item "$scene_key" --subitem "image_gen" --status pending 2>/dev/null
+                        gen_result=$?
+                        
+                        todoit item status --list "$book_name" --item "$scene_key" --subitem "image_dwn" --status pending 2>/dev/null
+                        dwn_result=$?
+                        
+                        if [[ $gen_result -eq 0 && $dwn_result -eq 0 ]]; then
+                            echo "   ✅ $scene_key updated successfully"
+                        else
+                            echo "   ⚠️  $scene_key update failed"
                         fi
                     done
                 fi

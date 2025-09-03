@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie książki
 # - Ustaw liczby aby ograniczyć zakres (np. od 33 do 44)
 
-BOOK_START_RANGE="38"      # Początek zakresu (np. 33 dla 0033_xxx)
-BOOK_END_RANGE="100"        # Koniec zakresu (np. 44 dla 0044_xxx)
+BOOK_START_RANGE="50"      # Początek zakresu (np. 33 dla 0033_xxx)
+BOOK_END_RANGE="102"        # Koniec zakresu (np. 44 dla 0044_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
@@ -52,7 +52,7 @@ COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-a3-generate-image.md"
 MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
 
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
-SLEEP_DURATION=103
+SLEEP_DURATION=73
 
 #  Usuń jeśli został status
 rm -f /tmp/todoit-a3-last-scenes.txt
