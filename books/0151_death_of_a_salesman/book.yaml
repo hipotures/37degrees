@@ -1,6 +1,21 @@
-book_info:
-  title: "Death of a Salesman"
-  title_pl: "Śmierć komiwojażera"
-  author: "Arthur Miller"
-  year: 1949
-  genre: "Tragedy,Play"
+title: "Death of a Salesman"
+author: "Arthur Miller"
+year: 1949
+language: "en"
+genre: "Drama"
+description: "A tragedy of a common man pursuing the American Dream. Willy Loman's struggle with reality, success, and family relationships reveals the dark side of American capitalism and the cost of chasing illusions."
+themes:
+  - "The American Dream"
+  - "Family dysfunction"
+  - "Success and failure"
+  - "Reality vs. illusion"
+  - "Death and legacy"
+  - "Capitalism critique"
+  - "Masculine identity"
+  - "Memory and time"
+cultural_significance: "Pulitzer Prize-winning play that established Miller as a major American dramatist"
+target_age: "16+"
+complexity: "high"
+reading_time_hours: 3
+page_count: 139
+isbn: "978-0140481341"

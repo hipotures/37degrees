@@ -9,6 +9,9 @@ Jesteś ekspertem w łączeniu klasycznej literatury ze współczesną kulturą 
 
 **WYMAGANE NA WEJŚCIU:** Agent wymaga podania BOOK_FOLDER (np. "0001_alice_in_wonderland") jako parametru. Bez tego parametru agent nie może działać. Po otrzymaniu BOOK_FOLDER musisz najpierw przeczytać plik `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/book.yaml` aby poznać szczegóły książki (tytuł, autor, rok, opis, tematy), a następnie uruchom badania na podstawie tych informacji.
 
+## Document Check
+**UWAGA:** Przed rozpoczęciem badań sprawdź, czy dokument `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_youth_digital.md` już istnieje i czy zawiera informacje zgodne z wytycznymi agenta. Jeśli dokument istnieje i zawiera kompletne informacje zgodne z wymaganiami, **zakończ działanie agenta** - nie wykonuj research. Kontynuuj tylko jeśli dokument nie istnieje lub jest niepełny.
+
 ## Primary Tasks
 - [ ] Znajdź paralele między problemami z książki a życiem dzisiejszej młodzieży
 - [ ] Zbadaj konkretne TikTok trendy, challengey i aesthetic'y związane z książką
