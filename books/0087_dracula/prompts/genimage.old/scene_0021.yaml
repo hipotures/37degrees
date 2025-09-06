@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, autumn afternoon with seasonal transition evident
+    location: Whitby cemetery on clifftop showing dramatic autumn transformation with fallen leaves
+    weather: Cool, crisp autumn air with gentle breeze stirring fallen leaves
+  characters: No characters present in this scene
+  scene:
+    mainElements: Cemetery clifftop location carpeted with fallen autumn leaves in brilliant reds, oranges, and golds. Bare
+      tree branches creating delicate tracery against gray sky. Headstones partially buried in drifts of colorful leaves
+    details: Individual leaves showing perfect autumn coloration from deep red to golden yellow. Leaves accumulated in corners
+      and against headstone bases creating natural arrangements. Bare oak and maple branches revealing cemetery structure
+      previously hidden by foliage. Stone monuments appearing warmer against colorful leaf carpet
+    background: Abbey ruins now fully visible through bare trees. Sea appearing steel gray under autumn sky with more austere,
+      melancholy character
+    atmosphere: Melancholy beauty of seasonal death and renewal cycle. Time passage made visible through natural transformation.
+      Romantic sadness of autumn in sacred space. Connection between human mortality and natural cycles. Beauty emerging from
+      decay and ending. No text or letters visible
+  composition:
+    cameraAngle: Ground level view through autumn leaves toward familiar headstones
+    focus: Seasonal transformation with emphasis on autumn leaf colors against stone monuments
+    depth: Foreground detailed leaf arrangements, middle ground headstones among autumn colors, background bare trees and
+      abbey ruins
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

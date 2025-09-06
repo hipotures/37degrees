@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conflicting Views of Social Reform versus Corruption"
+  setting:
+    time: "Late 14th century England, sunset during final approach to Canterbury creating symbolic moment"
+    location: "Hilltop view of Canterbury Cathedral where pilgrimage's end forces evaluation of journey's meaning"
+    weather: "Dramatic sunset light emphasizing conflicting interpretations of same approaching destination"
+  characters:
+    - appearance: "All pilgrims viewing identical cathedral destination but seeing completely different symbolic meanings"
+      clothing: "Same travel-worn garments but body language reflecting individual assessment of pilgrimage's success"
+      position: "Arranged by personal conviction rather than social status as journey's end approaches"
+      action: "Contemplating journey's meaning through incompatible moral and social frameworks"
+  scene:
+    mainElements: "Same magnificent cathedral appearing simultaneously as beacon of corruption to reformers, source of salvation to faithful, commercial opportunity to merchants, social advancement to ambitious, proving each group's preconceptions rather than changing them"
+    details: "Identical visual stimulus creating opposite conclusions: Pardoner seeing profitable gullibility, Parson seeing spiritual hunger, Knight seeing institutional decay, Wife seeing male clerical privilege, Miller seeing elite hypocrisy, each confirmed in original worldview"
+    background: "Canterbury Cathedral standing unchanged while serving as projection screen for each pilgrim's predetermined beliefs about religion, society, and human nature"
+    atmosphere: "Final reckoning revealing how identical experiences reinforce rather than challenge existing beliefs, pilgrimage confirming rather than transforming individual perspectives, same destination meaning liberation to some and oppression to others, no text or letters visible"
+  composition:
+    cameraAngle: "Multiple simultaneous viewpoints showing same cathedral through incompatible interpretive filters"
+    focus: "Single religious destination serving as blank screen for projection of conflicting ideologies and social positions"
+    depth: "Unchanged cathedral in eternal foreground, conflicting human interpretations in temporal middle space, unbridgeable worldview differences in permanent background"

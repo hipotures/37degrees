@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening as pilgrims settle for serious conversation
+    location: Tabard Inn hall where religious discussions naturally develop among faithful
+    weather: Comfortable interior warmth encouraging intimate religious fellowship
+  characters:
+  - appearance: Thin effeminate man with long straight yellow hair like wax, bulging eyes like hare, no beard, high goat-like
+      voice
+    clothing: Small cap with Veronica cloth sewn on it, wallet full of fake relics on knees, deliberately shows his yellow
+      hair
+    position: Strategically positioned to observe potential victims among pious pilgrims
+    action: Mentally evaluating each pilgrim's wealth and gullibility for future exploitation
+  scene:
+    mainElements: Through Pardoner's predatory eyes, devout pilgrims become potential prey - he calculates their purse weights,
+      notes their superstitious gestures, identifies those most likely to purchase false salvation through his relics and
+      indulgences
+    details: 'Pardoner sees what others miss: which pilgrims cross themselves most frequently showing deep faith, who wears
+      expensive religious jewelry indicating wealth, whose eyes linger on his fake relics with hungry devotion, mapping psychological
+      weaknesses for future manipulation'
+    background: Pious conversations about salvation and sin creating perfect hunting ground for spiritual fraud
+    atmosphere: Calculating predatory assessment replacing religious fellowship, professional con artist sizing up marks,
+      corrupt clergyman viewing faith as commodity to exploit for profit, no text or letters visible
+  composition:
+    cameraAngle: Predatory low angle showing Pardoner's calculating superiority over naive victims
+    focus: Subtle signs of wealth and gullibility among pious pilgrims that narrator's innocence missed
+    depth: Pardoner's shrewd evaluation in cynical foreground, unsuspecting faithful pilgrims in vulnerable middle space,
+      false religious atmosphere in deceptive background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

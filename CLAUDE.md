@@ -15,6 +15,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **No linting/formatting**: Project doesn't use formal linting tools - follow existing code style
 
 ### Main CLI Commands
+Używaj dokumentacji docs/TODOIT_CLI_GUIDE.md docs/TODOIT_MCP_TOOLS.md docs/TODOIT_API.md dla TODOIT
+ 
+
 ```bash
 # Book Management
 python main.py collections                      # List all collections

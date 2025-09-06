@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Servant's Hidden Labor Behind Pilgrimage Comfort"  
+  setting:
+    time: "Late 14th century England, evening from perspective of invisible working class"
+    location: "Kitchen and service areas of Tabard Inn, behind-scenes spaces supporting pilgrimage gathering"
+    weather: "Heat from cooking fires and steam creating different climate from comfortable hall"
+  characters:
+    - appearance: "Hardworking inn servant, weathered hands and tired expression showing constant labor"
+      clothing: "Simple working tunic stained from kitchen duties, practical garments for invisible service"
+      position: "Moving efficiently between kitchen and hall, carrying laden platters and clearing dishes"
+      action: "Serving pilgrims who barely notice their presence, maintaining comfort through invisible labor"
+  scene:
+    mainElements: "Through servant's perspective, pilgrims appear as demanding customers requiring constant attention - plates to clear, ale to refill, comfort to maintain while remaining unseen by those they serve"
+    details: "Servant notices what pilgrims ignore: which guests tip generously, who treats servants with respect, whose demands are reasonable versus unreasonable, Miller's crude jokes making work uncomfortable, Prioress's refined manner still expecting immediate service"
+    background: "Kitchen chaos of preparation, cleaning, and constant work supporting pilgrimage comfort through invisible labor"
+    atmosphere: "Exhausting physical reality of service work supporting others' leisure and spiritual journey, social invisibility of working class enabling others' comfort and contemplation, no text or letters visible"
+  composition:
+    cameraAngle: "Low working angle emphasizing servant's humble position and constant labor"
+    focus: "Invisible service work that enables pilgrimage comfort through unrecognized sacrifice"
+    depth: "Servant's backbreaking labor in selfless foreground, demanding pilgrims in privileged middle space, comfortable inn setting enabled by hidden work in background"

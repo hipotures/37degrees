@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Documentary View of Morning Departure"
+  setting:
+    time: "Late 14th century England, dawn light revealing objective reality without emotional filter"
+    location: "Tabard Inn courtyard in clear morning light showing actual conditions and arrangements"
+    weather: "Cool April morning with neutral light revealing true colors and proportions"
+  characters:
+    - appearance: "Twenty-nine pilgrims of varying social classes preparing for departure, each showing realistic proportions and actual appearance"
+      clothing: "Period-appropriate clothing showing real wear, stains, and practical travel preparations without romantic enhancement"
+      position: "Arranged by practical considerations of horse quality and travel needs rather than social drama"
+      action: "Efficiently preparing for journey with practical focus on supplies, weather protection, and route planning"
+  scene:
+    mainElements: "Objective documentation shows inn as typical medieval coaching establishment - two-story timber construction with functional courtyard, modest accommodations, standard commercial operation serving mixed clientele"
+    details: "Neutral observation reveals actual details: specific number of horses, real quality of equipment, accurate proportions of building, factual inventory of supplies, documented weather conditions, measured distances to Canterbury"
+    background: "Working inn with normal staff performing routine morning duties, other travelers and local business creating typical commercial activity"
+    atmosphere: "Clear morning light eliminating shadows and emotional coloring, practical travel preparation without romance or drama, documentary accuracy replacing subjective interpretation, no text or letters visible"
+  composition:
+    cameraAngle: "Neutral documentary perspective recording facts without emotional interpretation"
+    focus: "Accurate physical reality of pilgrimage departure without subjective enhancement or dramatic emphasis"
+    depth: "Factual inventory in objective foreground, documented pilgrim preparations in neutral middle space, typical inn operations in realistic background"

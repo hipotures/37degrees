@@ -1,0 +1,182 @@
+=== IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
+Expected resolution: 1024x1536
+Date: sob, 6 wrz 2025, 20:18:15 CEST
+Phases to run: 2
+
+
+=== PHASE 2: IMAGE COMPLETENESS CHECK ===
+0081_the_jungle_book - 21
+0089_twenty_thousand_leagues_under_the_sea - 24
+0091_journey_to_the_center_of_the_earth - 20
+0100_the_left_hand_of_darkness - 24
+0103_one_thousand_and_one_nights - 24
+0104_the_canterbury_tales - 0 (empty directory)
+0105_a_christmas_carol - 21
+0107_journey_to_the_west - 19
+0108_candide - 0 (empty directory)
+0109_faust - 0 (empty directory)
+0110_oedipus_rex - 0 (empty directory)
+0111_a_dolls_house - 0 (empty directory)
+0112_ulysses - 0 (empty directory)
+0113_all_quiet_on_the_western_front - 0 (empty directory)
+0114_the_diary_of_anne_frank - 0 (empty directory)
+0115_mahabharata - 0 (empty directory)
+0116_ramayana - 0 (empty directory)
+0117_aeneid - 0 (empty directory)
+0118_the_republic - 0 (empty directory)
+0119_the_art_of_war - 0 (empty directory)
+0120_the_prince - 0 (empty directory)
+0121_essays - 0 (empty directory)
+0122_leviathan - 0 (empty directory)
+0123_the_social_contract - 0 (empty directory)
+0124_the_wealth_of_nations - 0 (empty directory)
+0125_a_vindication_of_the_rights_of_woman - 0 (empty directory)
+0126_the_communist_manifesto - 0 (empty directory)
+0127_on_liberty - 0 (empty directory)
+0128_thus_spoke_zarathustra - 0 (empty directory)
+0129_the_second_sex - 0 (empty directory)
+0130_the_wretched_of_the_earth - 0 (empty directory)
+0131_on_the_origin_of_species - 0 (empty directory)
+0132_the_interpretation_of_dreams - 0 (empty directory)
+0133_silent_spring - 0 (empty directory)
+0134_pere_goriot - 0 (empty directory)
+0134_père_goriot - 0 (empty directory)
+0135_adventures_of_huckleberry_finn - 0 (empty directory)
+0136_in_search_of_lost_time - 0 (empty directory)
+0137_mrs_dalloway - 0 (empty directory)
+0138_the_waste_land - 0 (empty directory)
+0139_the_sound_and_the_fury - 0 (empty directory)
+0140_the_stranger - 0 (empty directory)
+0141_waiting_for_godot - 0 (empty directory)
+0142_the_real_story_of_ahq - 0 (empty directory)
+0143_gitanjali - 0 (empty directory)
+0144_ficciones - 0 (empty directory)
+0145_the_cairo_trilogy - 0 (empty directory)
+0146_season_of_migration_to_the_north - 0 (empty directory)
+0147_the_house_of_the_spirits - 0 (empty directory)
+0148_red_sorghum - 0 (empty directory)
+0149_the_oresteia - 0 (empty directory)
+0150_tartuffe - 0 (empty directory)
+0151_death_of_a_salesman - 0 (empty directory)
+0152_a_streetcar_named_desire - 0 (empty directory)
+0153_long_days_journey_into_night - 0 (empty directory)
+0154_mother_courage_and_her_children - 0 (empty directory)
+
+=== PHASE 2 SUMMARY ===
+Books with incomplete/incorrect images: 56
+
+=== BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
+0081_the_jungle_book
+0089_twenty_thousand_leagues_under_the_sea
+0091_journey_to_the_center_of_the_earth
+0100_the_left_hand_of_darkness
+0103_one_thousand_and_one_nights
+0104_the_canterbury_tales
+0105_a_christmas_carol
+0107_journey_to_the_west
+0108_candide
+0109_faust
+0110_oedipus_rex
+0111_a_dolls_house
+0112_ulysses
+0113_all_quiet_on_the_western_front
+0114_the_diary_of_anne_frank
+0115_mahabharata
+0116_ramayana
+0117_aeneid
+0118_the_republic
+0119_the_art_of_war
+0120_the_prince
+0121_essays
+0122_leviathan
+0123_the_social_contract
+0124_the_wealth_of_nations
+0125_a_vindication_of_the_rights_of_woman
+0126_the_communist_manifesto
+0127_on_liberty
+0128_thus_spoke_zarathustra
+0129_the_second_sex
+0130_the_wretched_of_the_earth
+0131_on_the_origin_of_species
+0132_the_interpretation_of_dreams
+0133_silent_spring
+0134_pere_goriot
+0134_père_goriot
+0135_adventures_of_huckleberry_finn
+0136_in_search_of_lost_time
+0137_mrs_dalloway
+0138_the_waste_land
+0139_the_sound_and_the_fury
+0140_the_stranger
+0141_waiting_for_godot
+0142_the_real_story_of_ahq
+0143_gitanjali
+0144_ficciones
+0145_the_cairo_trilogy
+0146_season_of_migration_to_the_north
+0147_the_house_of_the_spirits
+0148_red_sorghum
+0149_the_oresteia
+0150_tartuffe
+0151_death_of_a_salesman
+0152_a_streetcar_named_desire
+0153_long_days_journey_into_night
+0154_mother_courage_and_her_children
+
+=== MISSING SCENES TO BE SET TO PENDING ===
+0081_the_jungle_book: 4 missing scenes (0005, 0006, 0017, 0024)
+0089_twenty_thousand_leagues_under_the_sea: 1 missing scenes (0002)
+0091_journey_to_the_center_of_the_earth: 5 missing scenes (0001, 0005, 0006, 0012, 0021)
+0100_the_left_hand_of_darkness: 1 missing scenes (0017)
+0103_one_thousand_and_one_nights: 1 missing scenes (0024)
+0104_the_canterbury_tales: 25 missing scenes (0001-0025 (all - completely empty directory))
+0105_a_christmas_carol: 4 missing scenes (0012, 0020, 0021, 0025)
+0107_journey_to_the_west: 6 missing scenes (0007, 0014, 0015, 0021, 0024, 0025)
+0108_candide: 25 missing scenes (0001-0025 (all - completely empty directory))
+0109_faust: 25 missing scenes (0001-0025 (all - completely empty directory))
+0110_oedipus_rex: 25 missing scenes (0001-0025 (all - completely empty directory))
+0111_a_dolls_house: 25 missing scenes (0001-0025 (all - completely empty directory))
+0112_ulysses: 25 missing scenes (0001-0025 (all - completely empty directory))
+0113_all_quiet_on_the_western_front: 25 missing scenes (0001-0025 (all - completely empty directory))
+0114_the_diary_of_anne_frank: 25 missing scenes (0001-0025 (all - completely empty directory))
+0115_mahabharata: 25 missing scenes (0001-0025 (all - completely empty directory))
+0116_ramayana: 25 missing scenes (0001-0025 (all - completely empty directory))
+0117_aeneid: 25 missing scenes (0001-0025 (all - completely empty directory))
+0118_the_republic: 25 missing scenes (0001-0025 (all - completely empty directory))
+0119_the_art_of_war: 25 missing scenes (0001-0025 (all - completely empty directory))
+0120_the_prince: 25 missing scenes (0001-0025 (all - completely empty directory))
+0121_essays: 25 missing scenes (0001-0025 (all - completely empty directory))
+0122_leviathan: 25 missing scenes (0001-0025 (all - completely empty directory))
+0123_the_social_contract: 25 missing scenes (0001-0025 (all - completely empty directory))
+0124_the_wealth_of_nations: 25 missing scenes (0001-0025 (all - completely empty directory))
+0125_a_vindication_of_the_rights_of_woman: 25 missing scenes (0001-0025 (all - completely empty directory))
+0126_the_communist_manifesto: 25 missing scenes (0001-0025 (all - completely empty directory))
+0127_on_liberty: 25 missing scenes (0001-0025 (all - completely empty directory))
+0128_thus_spoke_zarathustra: 25 missing scenes (0001-0025 (all - completely empty directory))
+0129_the_second_sex: 25 missing scenes (0001-0025 (all - completely empty directory))
+0130_the_wretched_of_the_earth: 25 missing scenes (0001-0025 (all - completely empty directory))
+0131_on_the_origin_of_species: 25 missing scenes (0001-0025 (all - completely empty directory))
+0132_the_interpretation_of_dreams: 25 missing scenes (0001-0025 (all - completely empty directory))
+0133_silent_spring: 25 missing scenes (0001-0025 (all - completely empty directory))
+0134_pere_goriot: 25 missing scenes (0001-0025 (all - completely empty directory))
+0134_père_goriot: 25 missing scenes (0001-0025 (all - completely empty directory))
+0135_adventures_of_huckleberry_finn: 25 missing scenes (0001-0025 (all - completely empty directory))
+0136_in_search_of_lost_time: 25 missing scenes (0001-0025 (all - completely empty directory))
+0137_mrs_dalloway: 25 missing scenes (0001-0025 (all - completely empty directory))
+0138_the_waste_land: 25 missing scenes (0001-0025 (all - completely empty directory))
+0139_the_sound_and_the_fury: 25 missing scenes (0001-0025 (all - completely empty directory))
+0140_the_stranger: 25 missing scenes (0001-0025 (all - completely empty directory))
+0141_waiting_for_godot: 25 missing scenes (0001-0025 (all - completely empty directory))
+0142_the_real_story_of_ahq: 25 missing scenes (0001-0025 (all - completely empty directory))
+0143_gitanjali: 25 missing scenes (0001-0025 (all - completely empty directory))
+0144_ficciones: 25 missing scenes (0001-0025 (all - completely empty directory))
+0145_the_cairo_trilogy: 25 missing scenes (0001-0025 (all - completely empty directory))
+0146_season_of_migration_to_the_north: 25 missing scenes (0001-0025 (all - completely empty directory))
+0147_the_house_of_the_spirits: 25 missing scenes (0001-0025 (all - completely empty directory))
+0148_red_sorghum: 25 missing scenes (0001-0025 (all - completely empty directory))
+0149_the_oresteia: 25 missing scenes (0001-0025 (all - completely empty directory))
+0150_tartuffe: 25 missing scenes (0001-0025 (all - completely empty directory))
+0151_death_of_a_salesman: 25 missing scenes (0001-0025 (all - completely empty directory))
+0152_a_streetcar_named_desire: 25 missing scenes (0001-0025 (all - completely empty directory))
+0153_long_days_journey_into_night: 25 missing scenes (0001-0025 (all - completely empty directory))
+0154_mother_courage_and_her_children: 25 missing scenes (0001-0025 (all - completely empty directory))

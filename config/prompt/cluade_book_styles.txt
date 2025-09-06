@@ -101,7 +101,7 @@
 0101_the_epic_of_gilgamesh,aztec-codex-style.yaml,symbolic-moments-generator.md
 0102_the_divine_comedy,illuminated-manuscript-style.yaml,world-building-focus-generator.md
 0103_one_thousand_and_one_nights,persian-miniature-style.yaml,narrative-prompt-generator.md
-0104_the_canterbury_tales,illuminated-manuscript-style.yaml,character-perspective-generator.md
+0104_the_canterbury_tales,tapestry-weaving-style.yaml,character-perspective-generator.md
 0105_a_christmas_carol,victorian-book-illustration-style.yaml,temporal-shift-generator.md
 0106_the_tale_of_genji,japanese-ukiyo-e-style.yaml,sensory-immersion-generator.md
 0107_journey_to_the_west,ink-wash-painting-style.yaml,world-building-focus-generator.md

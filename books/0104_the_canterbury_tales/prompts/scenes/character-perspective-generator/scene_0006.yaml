@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wife of Bath's Practical View of the Inn"
+  setting:
+    time: "Late 14th century England, evening as darkness settles over Southwark"
+    location: "The Tabard Inn courtyard and galleries, same space as narrator first observed"
+    weather: "Cool spring evening with practical considerations of comfort and security"
+  characters:
+    - appearance: "Robust woman about 40 years old, broad hips, bold and beautiful red-faced complexion, gap between front teeth indicating sensuality"
+      clothing: "Expensive fine linen head-coverings weighing ten pounds, scarlet red stockings, soft new leather shoes, enormous hat broad as shield"
+      position: "Surveying the inn with experienced traveler's eye, assessing practical arrangements"
+      action: "Evaluating inn's facilities with shrewd commercial understanding, noting quality and value"
+  scene:
+    mainElements: "Through Wife's experienced perspective, inn appears as business establishment - she notices quality of straw in stables, cleanliness of sleeping chambers, fairness of pricing, security of her valuable possessions"
+    details: "Wife sees what narrator missed: how Host calculates profits from each guest, which corners offer best protection from thieves, quality of ale compared to other establishments, cleanliness of bedding, strength of locks on chamber doors, practical concerns of seasoned traveler"
+    background: "Servants working efficiently under Host's supervision, other guests settling practical arrangements"
+    atmosphere: "Sharp commercial awareness replacing romantic wonder, inn as practical stopping point on profitable pilgrimage journey, experienced traveler's knowledge of road hazards and comforts, no text or letters visible"
+  composition:
+    cameraAngle: "Confident eye-level perspective of experienced businesswoman surveying territory"
+    focus: "Practical details narrator overlooked - quality of construction, security measures, commercial efficiency"
+    depth: "Wife's commanding presence in foreground, inn's business operations in middle ground, naive pilgrims unaware of commercial realities in background"

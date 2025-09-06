@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Split Reality - Tale Contest as Salvation versus Entertainment"
+  setting:
+    time: "Late 14th century England, evening during climactic storytelling moment revealing divided interpretations"
+    location: "Pilgrimage circle where same event creates completely different meanings for different participants"
+    weather: "Neutral conditions allowing focus on interpretive rather than atmospheric differences"
+  characters:
+    - appearance: "Same group of pilgrims experiencing identical event but interpreting through completely different frameworks"
+      clothing: "Individual garments revealing social background determining interpretation of shared experience"
+      position: "Physically together but mentally inhabiting different worlds based on class and personal history"
+      action: "Participating in identical tale-telling but extracting contradictory meanings from same performance"
+  scene:
+    mainElements: "Single tale-telling event simultaneously experienced as spiritual instruction by Parson, commercial opportunity by Host, social climbing by Cechmistrze, moral corruption by Knight, entertainment by Miller - identical event creating multiple realities"
+    details: "Conflicting interpretations showing how same words mean different things: religious pilgrims hearing moral lessons, merchants calculating profit potential, nobility detecting social criticism, commoners enjoying crude humor, each group convinced their interpretation is obviously correct"
+    background: "Same physical pilgrimage setting containing multiple ideological worlds that barely intersect despite shared experience"
+    atmosphere: "Multiple simultaneous realities occupying identical space and time, shared experience fragmenting into incompatible interpretations based on individual worldview and social position, no text or letters visible"
+  composition:
+    cameraAngle: "Split screen effect showing same scene interpreted through radically different perspectives simultaneously"
+    focus: "Single shared event creating multiple incompatible realities based on individual social and moral frameworks"
+    depth: "Unified physical experience in shared foreground, fragmented interpretations in conflicting middle space, unbridgeable worldview differences in incompatible background"
