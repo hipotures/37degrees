@@ -25,51 +25,51 @@ sceneDescription:
 visualElements:
   colorPalette:
     primary:
-    - deep blue
-    - gold leaf
-    - crimson red
+    - black
+    - charcoal gray
+    - blood red
     secondary:
-    - rich purple
-    - forest green
-    - ivory white
-    background: gold backgrounds or architectural settings
-    usageNotes: Rich, jewel-like colors often with gold accents
-    saturation: high (rich medieval pigments)
-    contrast: medium to high (dramatic religious scenes)
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
   lineArt:
-    style: linear, decorative outlines
-    weight: consistent, defining contours
-    color: dark outlines defining forms
-    texture: flat, decorative treatment
-    edgeTreatment: clean, defined edges
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
   lighting:
-    type: symbolic rather than naturalistic lighting
-    direction: divine light from above
-    intensity: spiritual, not physical
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
     shadows:
-      style: minimal, symbolic shadows
-      color: darker versions of base colors
-      opacity: subtle
-    highlights: gold leaf highlights, divine radiance
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
   rendering:
-    technique: flat, decorative painting
-    texture: smooth with decorative patterns
-    detailLevel: high in decoration, simplified in form
-    finish: often matte with gold leaf accents
-  perspective: hierarchical perspective, not linear
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
   mood:
-    overall: spiritual, majestic, transcendent
-    emotion: reverence, awe, devotion
-    tempo: solemn, timeless
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
     keywords:
-    - spiritual
+    - dark
+    - ornate
+    - haunting
     - majestic
-    - transcendent
-    - devotional
-    - hierarchical
+    - mysterious
   stylePrecedents:
-  - Chartres Cathedral windows
-  - Gothic illuminated manuscripts
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
 technicalSpecifications:
   resolution:
     aspectRatio: '9:16'

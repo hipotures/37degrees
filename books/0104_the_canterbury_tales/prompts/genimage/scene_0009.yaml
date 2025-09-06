@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening as ale flows freely and inhibitions lower
+    location: Central area of Tabard Inn hall where Miller commands attention with loud presence
+    weather: Growing warmth from fire and bodies as evening revelry increases
+  characters:
+  - appearance: Enormously strong and muscular man 30-40 years, broad red beard wide as spade or shovel, wart on nose tip
+      with red hairs
+    clothing: White coat with blue hood, carries sword and buckler at side, rough working man's attire
+    position: Standing boldly in center of hall, dominating space with physical presence and loud voice
+    action: Playing bagpipes and telling crude jokes, deliberately challenging refined company's social pretensions
+  scene:
+    mainElements: Through Miller's rebellious perspective, refined pilgrims appear as pompous frauds deserving mockery - their
+      elegant manners seem affected, their religious devotion hypocritical, their social status unearned privilege that honest
+      labor should challenge
+    details: 'Miller sees class pretensions narrator accepted: Prioress''s French accent as silly affectation, Monk''s hunting
+      as lazy indulgence, Knight''s humility as weakness, merchant''s dignity as empty posturing, revealing social tensions
+      beneath pilgrimage''s surface unity'
+    background: Uncomfortable tension as Miller's crude energy disrupts polite social gathering, some pilgrims scandalized,
+      others secretly amused
+    atmosphere: Disruptive working-class energy challenging established hierarchy, honest labor confronting unearned privilege,
+      crude vitality opposing refined hypocrisy, subversive humor undermining social order, no text or letters visible
+  composition:
+    cameraAngle: Bold upward angle showing Miller's physical dominance and social challenge
+    focus: Miller's intimidating presence disrupting the comfortable social assumptions narrator celebrated
+    depth: Miller's commanding rebellion in aggressive foreground, discomfited refined pilgrims in defensive middle space,
+      threatened social order in unstable background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

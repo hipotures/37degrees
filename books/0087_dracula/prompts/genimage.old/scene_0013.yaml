@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, golden hour before sunset
+    location: Castle Dracula exterior walls and towers illuminated by warm evening light
+    weather: Clear evening with warm, golden sunlight striking stone surfaces
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive stone castle walls and towers bathed in warm golden evening light. Ancient masonry showing rich
+      texture and color in angled sunlight. Long dramatic shadows cast by battlements and architectural details across courtyard
+    details: Stone surfaces glowing with warm honey-colored light revealing every crack, joint and weathering detail. Carved
+      stone decorations and window frames creating intricate shadow patterns. Golden light highlighting vertical surfaces
+      while creating deep purple shadows in recesses. Crumbling mortar and worn edges emphasized by dramatic lighting angle
+    background: Sky transitioning from golden yellow near horizon to deeper blue overhead. Distant mountain peaks silhouetted
+      against evening sky
+    atmosphere: Romantic, majestic quality despite fortress's dark history. Warm golden light temporarily softening harsh
+      medieval architecture. Sense of timeless beauty in ancient stone craft. Peaceful end-of-day feeling conflicting with
+      castle's ominous purpose. Magic hour creating visual poetry from stark fortress. No text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing castle height and golden light on walls
+    focus: Golden evening light on stone castle walls with emphasis on texture and shadows
+    depth: Foreground castle courtyard in shadow, middle ground illuminated walls and towers, background evening sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

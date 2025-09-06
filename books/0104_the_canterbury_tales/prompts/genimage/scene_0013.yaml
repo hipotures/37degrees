@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening with depth of years of similar gatherings
+    location: Tabard Inn hall seen through eyes that have witnessed decades of social change
+    weather: Familiar comfort of countless evenings in countless inns across lifetime of travels
+  characters:
+  - appearance: Older man past 50 years with white beard like daisy, sanguine ruddy complexion showing good living
+    clothing: Rich but comfortable attire of successful country gentleman, white silk purse and dagger at belt
+    position: Seated with expansive comfort of man accustomed to hospitality and social leadership
+    action: Observing current gathering while memories of similar past encounters overlay present moment
+  scene:
+    mainElements: Through Franklin's experienced eyes, current pilgrims echo previous generations - he sees departed friends
+      in present faces, recognizes social types from decades of observation, notes how England's changes reflect in this gathering's
+      composition
+    details: 'Layered vision where present overlaps with memory: young faces remind him of sons now grown, similar gatherings
+      from years past, how social classes have shifted, which trades prosper now versus past decades, seeing patterns invisible
+      to younger observers'
+    background: Ghostly presence of past gatherings, departed friends, and social changes witnessed over lifetime of social
+      leadership
+    atmosphere: Wise perspective that sees present moment as part of larger historical pattern, gentle melancholy of age recognizing
+      time's passage, satisfaction of witnessing England's continuing social vitality, no text or letters visible
+  composition:
+    cameraAngle: Experienced eye-level perspective with depth of accumulated social wisdom
+    focus: Present gathering overlaid with memories of similar past social occasions
+    depth: Franklin's seasoned observation in wise foreground, current pilgrims in familiar middle space, ghostly echoes of
+      past gatherings in memory's background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

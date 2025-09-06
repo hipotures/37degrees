@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Reeve's Suspicious Assessment of Fellow Pilgrims"
+  setting:
+    time: "Late 14th century England, evening in main hall during socializing"
+    location: "Tabard Inn's great hall, same gathering narrator viewed with wonder"
+    weather: "Warmth from central fire doing little to thaw Reeve's cold observations"
+  characters:
+    - appearance: "Elderly thin man with very long lean legs thin as sticks, closely cropped beard and hair cut like priest's"
+      clothing: "Long blue coat, rusty blade at side, rides at back of group away from others"
+      position: "Seated apart from main group, observing from shadowy corner with calculating eyes"
+      action: "Cataloging each pilgrim's weaknesses and potential for deception, especially watching Miller with hostility"
+  scene:
+    mainElements: "Through Reeve's cynical gaze, same gathering becomes den of potential thieves and liars - he sees Miller's jovial manner as cover for dishonesty, notices Pardoner's obvious fraud, suspects Merchant's claims of wealth, distrusts everyone's motives"
+    details: "Reeve's sharp estate manager eyes detect signs narrator missed: worn patches on supposedly rich clothing, nervous gestures suggesting hidden debts, false laughter masking desperation, calculating glances between potential conspirators, every smile hiding potential betrayal"
+    background: "Same warm gathering now appearing as collection of suspects and rivals, every conversation potentially plotting against him"
+    atmosphere: "Paranoid suspicion replacing communal joy, estate manager's trained distrust seeing corruption everywhere, cold isolation of man who trusts no one, anticipating cheats and fraudsters at every turn, no text or letters visible"
+  composition:
+    cameraAngle: "Narrow suspicious perspective from Reeve's isolated corner position"
+    focus: "Detected signs of deception and dishonesty in pilgrim behavior that narrator's trust overlooked"
+    depth: "Reeve's solitary shadow in foreground, potentially duplicitous pilgrims in suspicious middle distance, false warmth of fire in deceptive background"

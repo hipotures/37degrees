@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, late afternoon with sun slanting through trees
+    location: Dense forest of ancient oak and pine trees in Carpathian Mountains
+    weather: Clear afternoon with golden sunlight filtering through canopy
+  characters: No characters present in this scene
+  scene:
+    mainElements: Tall forest trees creating cathedral-like canopy with dramatic shafts of golden afternoon sunlight penetrating
+      through gaps in leaves and branches. Light beams visible as bright columns filled with floating dust particles and pollen
+    details: Individual sunbeams creating distinct columns of golden light angling through forest darkness. Dust motes and
+      pollen particles dancing and swirling within light shafts. Tree trunks appearing as dark silhouettes against bright
+      background light. Forest floor dappled with moving patterns of light and shadow as branches sway. Fallen leaves on ground
+      illuminated in patches where light reaches
+    background: Deep forest interior fading into darkness between light columns. Suggestion of forest paths winding between
+      massive tree trunks
+    atmosphere: Mystical, cathedral-like quality of ancient forest. Golden hour lighting creating magical ambiance. Sense
+      of being in sacred natural space. Dynamic interplay of light and shadow creating constantly changing patterns. Peaceful
+      yet mysterious mood in deep woodland. No text or letters visible
+  composition:
+    cameraAngle: Ground level view looking up toward canopy with emphasis on light beams
+    focus: Dramatic sunbeams penetrating forest canopy with particles visible in light columns
+    depth: Foreground forest floor details, middle ground tree trunks and light beams, background deep forest canopy
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

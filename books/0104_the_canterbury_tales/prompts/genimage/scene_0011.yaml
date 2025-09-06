@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening as tavern servants complete their duties
+    location: Floor level perspective in Tabard Inn hall among the forest of adult legs and furniture
+    weather: Floor drafts and shadows creating different climate than adults experience above
+  characters:
+  - appearance: Small tavern servant child aged 8-10 years, quick movements and wide curious eyes
+    clothing: Simple rough tunic, bare feet, practical working clothes of inn servant
+    position: Weaving between adult legs carrying messages and clearing trenchers from low vantage point
+    action: Navigating forest of towering adults while observing their mysterious adult behaviors from below
+  scene:
+    mainElements: From child's low perspective, adult pilgrims become giants - Miller's massive frame blocks out ceiling timbers,
+      Wife of Bath's broad skirts create fabric mountains, Knight's sword appears enormous hanging near child's eye level,
+      every adult gesture magnified and mysterious
+    details: 'Child sees adult world from unique angle: shoes and boots revealing true social status, purses hanging temptingly
+      within reach, whispered conversations floating overhead like foreign languages, spilled ale creating treacherous puddles,
+      dropped food becoming treasures'
+    background: Vast landscape of adult legs, table supports, and bench legs creating maze-like environment with hidden passages
+    atmosphere: Adults as mysterious giants speaking in riddles, their concerns incomprehensible from child's practical survival
+      perspective, magic in ordinary adult behaviors viewed from ground level, no text or letters visible
+  composition:
+    cameraAngle: Extremely low angle from child's eye level looking up at towering adult world
+    focus: Overwhelming scale of adult pilgrims and furniture from child's ground-level perspective
+    depth: Child's small figure in vulnerable foreground, forest of giant adult legs in imposing middle ground, distant ceiling
+      and adult conversations in unreachable background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

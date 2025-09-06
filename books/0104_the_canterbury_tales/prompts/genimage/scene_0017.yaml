@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, midday under clear skies providing even illumination
+    location: Historic Watling Street pilgrimage route through Kent countryside, ancient Roman road leading southeast from
+      London to Canterbury Cathedral
+    weather: Partly cloudy spring day with good visibility for accurate observation of landscape and travelers
+  characters:
+  - appearance: Group of 30 medieval travelers including narrator, representing standard cross-section of English society
+    clothing: Authentic 14th century garments showing normal wear patterns and practical adaptations for travel
+    position: Arranged in loose formation along road according to horse quality and social protocols
+    action: Making steady progress toward Canterbury at normal travel pace for mixed group with varying mounts
+  scene:
+    mainElements: Wide beaten earth track with gravel sections, deep wheel ruts from carts, grassy verges alongside, open
+      fields and scattered woodlands, distant church spires marking villages
+    details: Documentary precision records actual road conditions, specific landscape features, measured distances between
+      landmarks, real travel challenges including mud, stones, and uneven surfaces creating genuine travel difficulties
+    background: English countryside showing typical agricultural patterns, field boundaries, forest management, and scattered
+      settlements of 14th century Kent
+    atmosphere: Open countryside under changing English sky, sense of pilgrimage journey and fellowship, occasional dangers
+      from robbers making group travel necessary, no text or letters visible
+  composition:
+    cameraAngle: Wide neutral angle documenting pilgrimage progress without dramatic emphasis
+    focus: Accurate representation of medieval travel conditions and authentic pilgrimage group dynamics
+    depth: Road surface details in factual foreground, pilgrim group in documented middle distance, Kent countryside in geographical
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

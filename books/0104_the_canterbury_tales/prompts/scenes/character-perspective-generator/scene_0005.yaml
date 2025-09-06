@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Narrator's Reflection in Wine Cup"
+  setting:
+    time: "Late 14th century England, late evening as conversations deepen"
+    location: "Narrator's place at table in Tabard Inn, intimate moment of self-observation"
+    weather: "Cozy warmth from dying fire, evening settling into comfortable dimness"
+  characters:
+    - appearance: "Middle-aged man approximately 45-55 years old, likely corpulent build, observant and curious expression"
+      clothing: "Modest brown wool tunic and dark cloak appropriate for prosperous merchant or court official"
+      position: "Leaning slightly forward over wooden table, studying his reflection"
+      action: "Contemplating his own image in polished pewter cup, moment of self-awareness amid social observation"
+  scene:
+    mainElements: "Narrator's reflection wavers in dark wine, appearing and disappearing as firelight shifts, creating double image of observer becoming observed, his face multiplied in the curved metal surface showing different angles of his contemplative nature"
+    details: "Through this moment of self-perception, narrator sees himself as both participant and chronicler, his reflection fragmented yet complete, eyes bright with curiosity in pewter mirror, hands steady around cup showing confidence in his observational mission"
+    background: "Muted conversations of fellow pilgrims creating gentle backdrop, shadows lengthening as fire burns lower"
+    atmosphere: "Introspective moment where narrator recognizes his role as witness to this remarkable gathering, sense of responsibility to record truth, quiet satisfaction at finding himself among such diverse company, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up intimate view focusing on narrator's face and reflection"
+    focus: "The wavering reflection in wine cup showing narrator's contemplative expression"
+    depth: "Pewter cup and reflection in sharp foreground, narrator's actual face in middle ground, softly blurred tavern scene in background"

@@ -1,0 +1,219 @@
+canon:
+  characters:
+    - id: "chaucer_narrator"
+      name: "Chaucer the Pilgrim Narrator"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man approximately 45-55 years old, likely corpulent build, observant and curious expression"
+            clothing: "Modest brown wool tunic and dark cloak appropriate for prosperous merchant or court official"
+            posture: "Attentive listening posture, slightly leaning forward with hands folded, watchful eyes taking in every detail"
+    
+    - id: "knight"
+      name: "The Knight"
+      description_block: |
+        characters:
+          - appearance: "Battle-hardened veteran aged 50-60 years, strong weathered build, deeply tanned face with wrinkles from campaign hardships"
+            clothing: "Practical gypon (short fitted tunic) made of fustian in beige or brown, heavily stained and darkened from wearing mail armor beneath, simple leather belt"
+            posture: "Dignified upright bearing of an experienced commander, movements economical and purposeful, quiet authority in stance"
+    
+    - id: "squire"
+      name: "The Squire"
+      description_block: |
+        characters:
+          - appearance: "Young man about 20 years old, athletic and agile build, curly brown hair, youthful energetic face full of vigor"
+            clothing: "Short fashionable tunic with wide sleeves embroidered with red and white flowers, bright colors befitting a courtier"
+            posture: "Graceful movement of trained dancer and musician, lively gestures, head held high with youthful confidence"
+    
+    - id: "yeoman"
+      name: "The Yeoman"
+      description_block: |
+        characters:
+          - appearance: "Sturdy man aged 25-40 years, robust outdoorsman build, closely cropped hair, face deeply tanned brown as a nut from forest life"
+            clothing: "Green woolen cloak and hood, brown leather belt with silver medallion of St. Christopher, practical forest garments"
+            posture: "Alert woodsman stance, moves silently and efficiently, carries himself with quiet professional pride"
+    
+    - id: "prioress"
+      name: "The Prioress Madame Eglentyne"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman 35-45 years, well-built and slightly plump figure, grey eyes, small red lips, broad smooth forehead"
+            clothing: "Immaculate black religious habit with elegantly arranged white wimple, coral rosary with green beads, golden brooch with 'Amor vincit omnia'"
+            posture: "Studied graceful movements mimicking courtly manners, delicate gestures when eating, simple and coy smile"
+    
+    - id: "monk"
+      name: "The Monk"
+      description_block: |
+        characters:
+          - appearance: "Corpulent middle-aged man 40-50 years, completely bald head gleaming like glass, protruding rolling eyes that shine like fire under cauldron"
+            clothing: "Luxurious brown habit with sleeves lined with finest grey squirrel fur, golden love-knot pin fastening his hood under chin"
+            posture: "Energetic movement of passionate hunter, vigorous gestures, head held high with worldly confidence"
+    
+    - id: "friar"
+      name: "The Friar Huberd"
+      description_block: |
+        characters:
+          - appearance: "Strong man aged 30-40 years, white neck like lily flower, twinkling eyes bright as stars on frosty night"
+            clothing: "High-quality double worsted wool habit that looks like master's or pope's robes rather than poor friar's garments"
+            posture: "Charming gestures and seductive movements, lisping speech to sound sweeter, jovial and free bearing"
+    
+    - id: "merchant"
+      name: "The Merchant"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man 35-50 years, forked beard, solemn and dignified bearing suggesting great wealth and importance"
+            clothing: "Multicolored motley cloak, beaver hat from Flanders, elegant boots with beautiful clasps, sits high on horse"
+            posture: "Dignified posture of important businessman, speaks with gravity and ceremony about profits"
+    
+    - id: "oxford_clerk"
+      name: "The Oxford Clerk"
+      description_block: |
+        characters:
+          - appearance: "Very thin young man 20-30 years, hollow and serious expression, threadbare appearance showing extreme poverty"
+            clothing: "Worn and patched outer coat so threadbare it's nearly transparent, simple scholar's garments showing devotion to learning over comfort"
+            posture: "Quiet contemplative bearing, speaks little but when he does his words carry moral wisdom"
+    
+    - id: "wife_of_bath"
+      name: "The Wife of Bath"
+      description_block: |
+        characters:
+          - appearance: "Robust woman about 40 years old, broad hips, bold and beautiful red-faced complexion, gap between front teeth indicating sensuality"
+            clothing: "Expensive fine linen head-coverings weighing ten pounds, scarlet red stockings, soft new leather shoes, enormous hat broad as shield"
+            posture: "Confident bearing sitting securely on her pacer horse, loud laughter and bold gestures, completely self-assured manner"
+    
+    - id: "parson"
+      name: "The Parson"
+      description_block: |
+        characters:
+          - appearance: "Poor rural priest with humble bearing, simple appearance reflecting devotion to spiritual rather than material wealth"
+            clothing: "Very plain, threadbare clerical robes without any ornaments, stark contrast to corrupt wealthy clergy"
+            posture: "Humble and patient bearing, gentle movements showing compassion, leads by example rather than harsh words"
+    
+    - id: "plowman"
+      name: "The Plowman"
+      description_block: |
+        characters:
+          - appearance: "Honest laborer showing effects of hard manual work, brother to the Parson, simple rural appearance"
+            clothing: "Coarse tunic without sleeves called tabard, practical working man's garments showing honest poverty"
+            posture: "Simple sincere bearing of hardworking peasant, moves with dignity of honest labor"
+    
+    - id: "miller"
+      name: "The Miller Robin"
+      description_block: |
+        characters:
+          - appearance: "Enormously strong and muscular man 30-40 years, broad red beard wide as spade or shovel, wart on nose tip with red hairs"
+            clothing: "White coat with blue hood, carries sword and buckler at side, rough working man's attire"
+            posture: "Loud boisterous movement, plays bagpipes, swaggering confident bearing of man who can break down doors with his head"
+    
+    - id: "reeve"
+      name: "The Reeve"
+      description_block: |
+        characters:
+          - appearance: "Elderly thin man with very long lean legs thin as sticks, closely cropped beard and hair cut like priest's"
+            clothing: "Long blue coat, rusty blade at side, rides at back of group away from others"
+            posture: "Choleric temperament shown in quick anger, rides apart showing antisocial nature, sharp calculating movements"
+    
+    - id: "summoner"
+      name: "The Summoner"
+      description_block: |
+        characters:
+          - appearance: "Fire-red face covered with pimples and sores, narrow eyes, scabby black eyebrows, thin beard, appearance that frightens children"
+            clothing: "Garland of flowers worn on head, loves garlic onions and strong wine"
+            posture: "Loud offensive behavior, drunk and crude bearing, repulsive presence that makes people recoil"
+    
+    - id: "pardoner"
+      name: "The Pardoner"
+      description_block: |
+        characters:
+          - appearance: "Thin effeminate man with long straight yellow hair like wax, bulging eyes like hare, no beard, high goat-like voice"
+            clothing: "Small cap with Veronica cloth sewn on it, wallet full of fake relics on knees, deliberately shows his yellow hair"
+            posture: "Somewhat feminine movements suggesting gender ambiguity, piercing gaze, extremely persuasive when preaching"
+    
+    - id: "host"
+      name: "The Host Harry Bailly"
+      description_block: |
+        characters:
+          - appearance: "Large imposing innkeeper with bright penetrating eyes, commanding presence and natural leadership"
+            clothing: "Prosperous innkeeper's attire appropriate for successful businessman running busy tavern"
+            posture: "Jovial commanding presence, moves through tavern with authority, natural leader organizing pilgrimage contest"
+
+  locations:
+    - id: "tabard_inn"
+      name: "The Tabard Inn Southwark"
+      description_block: |
+        setting:
+          location: "Medieval galleried inn in Southwark district south of Thames River, 14th century English tavern architecture"
+        mainElements: "Large timber-framed coaching inn built around central cobblestone courtyard, heavy dark oak beams forming framework filled with wattle and daub, two or three stories with open wooden galleries accessing guest chambers"
+        atmosphere: "Smoky interior lit by great central hearth throwing orange firelight and dancing shadows, air thick with wood smoke, smell of roasted meat and spilled ale, sounds of conversation and laughter echoing off timber walls"
+    
+    - id: "canterbury_road"
+      name: "Medieval Road to Canterbury"
+      description_block: |
+        setting:
+          location: "Historic Watling Street pilgrimage route through Kent countryside, ancient Roman road leading southeast from London to Canterbury Cathedral"
+        mainElements: "Wide beaten earth track with gravel sections, deep wheel ruts from carts, grassy verges alongside, open fields and scattered woodlands, distant church spires marking villages"
+        atmosphere: "Open countryside under changing English sky, sense of pilgrimage journey and fellowship, occasional dangers from robbers making group travel necessary"
+    
+    - id: "canterbury_cathedral"
+      name: "Canterbury Cathedral"
+      description_block: |
+        setting:
+          location: "Magnificent Gothic cathedral in Canterbury, destination of medieval pilgrimage to shrine of martyred Saint Thomas Becket"
+        mainElements: "Soaring English Gothic architecture with massive stone walls, pointed arches, ribbed vaulting, enormous stained glass windows, central tower visible from great distance"
+        atmosphere: "Sacred space of colored light from stained glass, vast echoing interior like stone forest, sense of divine presence and centuries of prayer"
+    
+    - id: "carpenter_house"
+      name: "Oxford Carpenter's House"
+      description_block: |
+        setting:
+          location: "Modest timber-framed house in medieval Oxford, home of carpenter John with student lodger Nicholas"
+        mainElements: "Small two-story timber and daub construction typical of medieval craftsman, narrow rooms with low ceilings, solar chamber upstairs for sleeping"
+        atmosphere: "Intimate domestic space with creaking wooden floors, small windows providing limited light, private chambers where comic intrigue unfolds"
+    
+    - id: "athens_amphitheater"
+      name: "Classical Amphitheater in Ancient Athens"
+      description_block: |
+        setting:
+          location: "Magnificent circular marble amphitheater constructed by Duke Theseus for great tournament, mythical classical Greek architecture"
+        mainElements: "Perfect circular arena surrounded by white marble tiers, three temples at cardinal points dedicated to Venus, Mars, and Diana, elaborate classical columns and statuary"
+        atmosphere: "Epic ceremonial grandeur bathed in Mediterranean sunlight, sense of divine powers watching over mortal conflicts, classical heroic scale"
+
+  items:
+    - id: "yeoman_bow"
+      name: "Yeoman's Longbow and Arrows"
+      description_block: |
+        details: "Mighty English longbow of yew wood professionally maintained, quiver filled with peacock-feathered arrows sharp and bright, silver medallion of St. Christopher patron of travelers"
+    
+    - id: "monk_bridle"
+      name: "Monk's Ornate Horse Bridle"
+      description_block: |
+        details: "Richly decorated horse bridle with many small bells that jingle loudly with every movement, symbol of worldly vanity contradicting monastic vows of simplicity"
+    
+    - id: "wife_stockings"
+      name: "Wife of Bath's Scarlet Stockings"
+      description_block: |
+        details: "Fine scarlet red stockings made of expensive cloth, bold color symbolizing passionate nature and material prosperity from successful cloth trade"
+    
+    - id: "pardoner_relics"
+      name: "Pardoner's False Relics"
+      description_block: |
+        details: "Collection of fraudulent religious relics including pig bones claimed as saint's bones, old pillowcase presented as Virgin Mary's veil, shabby glove supposedly from saint's hand"
+    
+    - id: "summoner_garland"
+      name: "Summoner's Flower Garland"
+      description_block: |
+        details: "Wreath of flowers worn on head in grotesque parody of classical celebration, incongruous decoration on diseased and repulsive face"
+    
+    - id: "merchant_boots"
+      name: "Merchant's Elegant Boots"
+      description_block: |
+        details: "Fine leather boots with beautiful decorated clasps, expensive footwear befitting successful international trader, practical yet luxurious design"
+    
+    - id: "miller_bagpipes"
+      name: "Miller's Bagpipes"
+      description_block: |
+        details: "Traditional English bagpipes played with loud enthusiasm, rustic musical instrument matching miller's boisterous personality and rural background"
+    
+    - id: "knight_sword"
+      name: "Knight's War Sword"
+      description_block: |
+        details: "Practical medieval longsword showing wear from actual battle use, functional weapon of experienced warrior rather than ceremonial decoration"

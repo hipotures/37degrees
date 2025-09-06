@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening firelight in tavern hall
+    location: Corner of Tabard Inn's main hall where nobility naturally groups together
+    weather: Warm interior atmosphere with drafts from high windows
+  characters:
+  - appearance: Battle-hardened veteran aged 50-60 years, strong weathered build, deeply tanned face with wrinkles from campaign
+      hardships
+    clothing: Practical gypon (short fitted tunic) made of fustian in beige or brown, heavily stained and darkened from wearing
+      mail armor beneath, simple leather belt
+    position: Seated with quiet dignity, naturally drawing respect from nearby pilgrims
+    action: Speaking quietly with his son, exemplifying noble bearing through understatement
+  - appearance: Young man about 20 years old, athletic and agile build, curly brown hair, youthful energetic face full of
+      vigor
+    clothing: Short fashionable tunic with wide sleeves embroidered with red and white flowers, bright colors befitting a
+      courtier
+    position: Beside his father but leaning forward with youthful enthusiasm
+    action: Gesturing expressively while recounting courtly adventures, full of life and romance
+  scene:
+    mainElements: Through narrator's admiring eyes, Knight appears bathed in golden aureole of virtue despite humble clothing,
+      his battle-stains transformed into badges of honor, while Squire seems surrounded by springtime energy, flowers on his
+      tunic appearing to glow with inner light
+    details: 'Narrator''s perception elevates these figures: Knight''s modest posture becomes regal humility, his quiet voice
+      carries weight of wisdom, Squire''s bright clothing catches every flicker of firelight like captured sunshine, their
+      relationship demonstrates perfect father-son harmony'
+    background: Other pilgrims unconsciously defer to Knight's presence, creating respectful space around nobility
+    atmosphere: Narrator sees these characters through lens of courtly romance and chivalric ideals, transforming reality
+      into literary perfection, warm reverence for true nobility shining through, no text or letters visible
+  composition:
+    cameraAngle: Respectful eye-level view from narrator's position, showing proper social distance
+    focus: Knight's dignified bearing and Squire's youthful energy creating complement of experience and vitality
+    depth: Narrator's observing position in foreground, noble pair in intimate conversation at middle distance, respectful
+      crowd in soft background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening as Host surveys his successful enterprise
+    location: Tabard Inn hall from Host's proprietorial perspective, viewing his domain and customers
+    weather: Profitable warmth as comfortable paying guests enjoy his establishment
+  characters:
+  - appearance: Large imposing innkeeper with bright penetrating eyes, commanding presence and natural leadership
+    clothing: Prosperous innkeeper's attire appropriate for successful businessman running busy tavern
+    position: Moving confidently through hall, master of his domain, evaluating customer satisfaction and profit
+    action: Orchestrating pilgrimage contest while calculating business opportunities and managing customer relationships
+  scene:
+    mainElements: Through Host's entrepreneurial eyes, pilgrims become customers to satisfy - he sees who pays promptly, who
+      needs extra ale, whose stories will keep the evening profitable, whose nobility requires special attention, whose common
+      background needs firm management
+    details: 'Host recognizes what narrator missed: this gathering represents significant commercial opportunity, pilgrimage
+      contest serves dual purpose of entertainment and customer retention, each pilgrim''s social status requires different
+      service approach, religious devotion must be balanced with tavern profits'
+    background: Servants responding to Host's subtle signals, inn operating as smooth commercial enterprise serving diverse
+      clientele
+    atmosphere: Practical business wisdom replacing romantic pilgrimage ideals, successful entrepreneur viewing social diversity
+      as customer base requiring skillful management, no text or letters visible
+  composition:
+    cameraAngle: Confident proprietorial perspective of successful businessman surveying his profitable domain
+    focus: Host's commanding presence organizing both social gathering and commercial enterprise simultaneously
+    depth: Host's central authority in controlling foreground, well-managed customers in profitable middle space, successful
+      business operation in prosperous background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

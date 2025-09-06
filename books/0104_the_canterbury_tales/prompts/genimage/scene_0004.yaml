@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, evening in tavern during after-dinner socializing
+    location: Section of Tabard Inn hall where religious figures naturally congregate
+    weather: Comfortable warmth from hearth fire, evening shadows lengthening
+  characters:
+  - appearance: Middle-aged woman 35-45 years, well-built and slightly plump figure, grey eyes, small red lips, broad smooth
+      forehead
+    clothing: Immaculate black religious habit with elegantly arranged white wimple, coral rosary with green beads, golden
+      brooch with 'Amor vincit omnia'
+    position: Seated with practiced grace, every gesture refined and courtly
+    action: Delicately dabbing lips with cloth, speaking French with studied elegance
+  - appearance: Corpulent middle-aged man 40-50 years, completely bald head gleaming like glass, protruding rolling eyes that
+      shine like fire under cauldron
+    clothing: Luxurious brown habit with sleeves lined with finest grey squirrel fur, golden love-knot pin fastening his hood
+      under chin
+    position: Lounging expansively, taking up generous space with confident bearing
+    action: Gesturing broadly while describing hunting exploits, worldly enthusiasm evident
+  scene:
+    mainElements: Through narrator's naive perspective, these religious figures appear splendidly devout - Prioress glows
+      with saintly refinement, her elegant French marking her as educated and cultured, while Monk's prosperity suggests God's
+      blessing on his worldly success
+    details: Narrator admires Prioress's delicate eating habits as spiritual discipline, her golden brooch as appropriate
+      devotional ornament, Monk's fine clothing as deserved comfort for religious service, his hunting stories as harmless
+      recreation, missing irony entirely
+    background: Other religious figures nearby, creating sense of ecclesiastical gathering within secular pilgrimage
+    atmosphere: Narrator's perspective transforms obvious hypocrisy into admirable worldliness, seeing wealth as divine favor,
+      refinement as spiritual elevation, completely missing satirical implications of worldly religious figures, no text or
+      letters visible
+  composition:
+    cameraAngle: Respectful upward angle showing narrator's deference to religious authority
+    focus: Prioress's refined gestures and Monk's confident bearing, both appearing blessed and successful
+    depth: Narrator's lower social position in foreground, elevated religious figures commanding middle space, other pilgrims
+      deferring in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

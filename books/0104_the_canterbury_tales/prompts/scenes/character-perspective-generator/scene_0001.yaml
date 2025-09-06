@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Narrator's First Glimpse of the Tabard Inn"
+  setting:
+    time: "Late 14th century England, evening twilight in April"
+    location: "The Tabard Inn courtyard in Southwark district south of Thames River, medieval galleried tavern"
+    weather: "Cool spring evening with gentle April breeze"
+  characters:
+    - appearance: "Middle-aged man approximately 45-55 years old, likely corpulent build, observant and curious expression"
+      clothing: "Modest brown wool tunic and dark cloak appropriate for prosperous merchant or court official"
+      position: "Standing at entrance to courtyard, taking in the bustling scene with wonder"
+      action: "Observing the inn with keen interest, mentally cataloging details for future recollection"
+  scene:
+    mainElements: "Large timber-framed coaching inn built around central cobblestone courtyard, heavy dark oak beams forming framework filled with wattle and daub, two or three stories with open wooden galleries accessing guest chambers"
+    details: "Through narrator's curious eyes, every architectural detail appears significant - the way firelight from great hearth spills golden through doorway, how voices create warm human music, how shadows dance invitingly on cobblestones, suggesting stories waiting to unfold within these walls"
+    background: "Busy courtyard with horses being tended, servants carrying luggage, other travelers arriving as pilgrimage season begins"
+    atmosphere: "Smoky interior lit by great central hearth throwing orange firelight and dancing shadows, air thick with wood smoke, smell of roasted meat and spilled ale, sounds of conversation and laughter echoing off timber walls, no text or letters visible"
+  composition:
+    cameraAngle: "Eye level view from narrator's perspective at courtyard entrance"
+    focus: "The welcoming doorway framed by timber beams, with warm light spilling out"
+    depth: "Cobblestone courtyard in foreground, inn facade in middle ground, glimpse of great hall's firelight in background"

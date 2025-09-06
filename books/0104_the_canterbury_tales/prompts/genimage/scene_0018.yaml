@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 14th century England, afternoon during storytelling session on roadside
+    location: Roadside clearing where pilgrims pause for rest and tale-telling, revealing different physical perspectives
+    weather: Clear afternoon light providing visibility from multiple angles simultaneously
+  characters:
+  - appearance: Miller standing prominently in center telling his crude tale while other pilgrims react from various positions
+    clothing: White coat with blue hood, rough working attire contrasting with refined pilgrims around circle
+    position: Central position commanding attention while others arrange themselves according to comfort and social preference
+    action: Gesticulating dramatically while telling scandalous story of Oxford carpenter, student, and unfaithful wife
+  scene:
+    mainElements: Same storytelling scene revealed from multiple simultaneous angles - what listeners see, what Miller misses
+      behind him, side conversations he cannot hear, private reactions hidden from his direct view
+    details: Revealing angles show Knight's uncomfortable expression, Reeve's growing anger, Wife's amused approval, Prioress's
+      shocked face turned away, Host's calculating entertainment value, reactions Miller cannot see while performing
+    background: English countryside continuing around story circle, other travelers passing on road, normal life proceeding
+      during tale performance
+    atmosphere: Complex social dynamics revealed through multiple perspectives showing how same performance creates different
+      reactions based on viewing position and social background, no text or letters visible
+  composition:
+    cameraAngle: Multiple simultaneous perspectives showing same scene from various physical and social positions
+    focus: Hidden reactions and side conversations that single perspective storyteller cannot observe
+    depth: Miller's performance in commanding foreground, varied audience reactions in revealing middle space, continuing
+      normal world in contextual background
+visualElements:
+  colorPalette:
+    primary:
+    - rich burgundy
+    - royal blue
+    - gold thread
+    secondary:
+    - forest green
+    - ivory white
+    - deep purple
+    background: woven textile backgrounds with narrative scenes
+    usageNotes: Rich, saturated colors typical of medieval dyes and threads
+    saturation: high (rich textile dyes)
+    contrast: medium (woven texture softens contrasts)
+  lineArt:
+    style: woven thread outlines, textile construction
+    weight: defined by thread thickness
+    color: colored threads forming outlines
+    texture: woven thread texture throughout
+    edgeTreatment: soft, textile edges
+  lighting:
+    type: flat, decorative lighting (not naturalistic)
+    direction: even, decorative illumination
+    intensity: consistent, textile-appropriate
+    shadows:
+      style: minimal, decorative shadows
+      color: darker thread colors
+      opacity: woven into textile
+    highlights: lighter colored threads
+  rendering:
+    technique: woven thread construction
+    texture: visible woven thread texture throughout
+    detailLevel: moderate (limited by weaving technique)
+    finish: textile surface with visible weave
+  perspective: medieval perspective, often hierarchical
+  mood:
+    overall: narrative, crafted, historical
+    emotion: storytelling, craftsmanship, tradition
+    tempo: measured, narrative
+    keywords:
+    - narrative
+    - crafted
+    - historical
+    - traditional
+    - storytelling
+  stylePrecedents:
+  - Bayeux Tapestry
+  - Unicorn Tapestries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
