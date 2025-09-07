@@ -2,40 +2,61 @@
 name: 37d-a7-notebook-audio
 description: |
   NotebookLM Audio Generation Orchestrator - automated audio generation using MCP playwright-cdp.
-  Orchestrates complete audio generation workflow from TODOIT task retrieval to generation completion.
-execution_order: 7
-min_tasks: 1
-max_tasks: 3
-todo_list: false
+  Orchestrates complete audio generation workflow from TODOIT task retrieval to generation completion
+todo_list: true
 ---
 
 UWAGA: Używaj MCP playwright-cdp do automatyzacji interfejsu NotebookLM
 
 Dane wejściowe:
 
-- Lista TODOIT: "notebooklm-audio" (automatyczne pobieranie kolejnego zadania)
-- URL NotebookLM: https://notebooklm.google.com/notebook/700b4b7c-976f-4026-96f0-f1240bd69530?authuser=2
+- Lista TODOIT: "cc-au-notebooklm" (automatyczne pobieranie zadań z subitemami audio_gen)
+- URL NotebookLM: Dynamiczny wybór na podstawie numeru książki (SOURCE_NAME zawiera nazwę książki (np. "0055_of_mice_and_men") a numer ksiązki to 0055):
+  - 0001-0050: https://notebooklm.google.com/notebook/ad8ec869-2284-44d3-bc06-b493e5990d81
+  - 0051-0100: https://notebooklm.google.com/notebook/ea74e09e-0483-4e15-a3ee-59de799e721b
+  - 0101-0150: https://notebooklm.google.com/notebook/05296cd4-601d-4760-b34e-f41190b34349
+  - 0151-0200: https://notebooklm.google.com/notebook/e87e6c2c-f56e-49e9-8216-6c3eb1c107cc
 - Tekst instrukcji TikTok-style (stały dla wszystkich generacji)
 
 Kroki orchestratora:
 
-0. Inicjalizacja MCP playwright-cdp i otwarcie NotebookLM
+0. Pobranie zadania i określenie odpowiedniego NotebookLM
 
-// Uruchom MCP playwright-cdp i otwórz stronę NotebookLM
-mcp__playwright-cdp__browser_navigate(url: "https://notebooklm.google.com/notebook/700b4b7c-976f-4026-96f0-f1240bd69530")
-mcp__playwright-cdp__browser_snapshot()
+// Znajdź zadania gdzie audio_gen jest pending (używamy find_subitems_by_status)
+pending_audio_tasks = mcp__todoit__todo_find_subitems_by_status(
+  list_key: "cc-au-notebooklm",
+  conditions: {"audio_gen": "pending"},
+  limit: 1
+)
 
-1. Pobranie następnego zadania z listy TODOIT
-
-// Pobierz następne pending zadanie z listy notebooklm-audio
-next_task = mcp__todoit__todo_get_next_pending(list_key: "notebooklm-audio")
-
-if (next_task exists):
-  SOURCE_NAME = next_task.item_key
-  echo "📋 Pobrano zadanie: " + SOURCE_NAME + " - " + next_task.content
+if (pending_audio_tasks exists && pending_audio_tasks.matches.length > 0):
+  // Pobierz pierwszy matching parent item
+  SOURCE_NAME = pending_audio_tasks.matches[0].parent.item_key
+  
+  // Wyodrębnij numer książki z SOURCE_NAME (format: NNNN_xxx)
+  book_number = parseInt(SOURCE_NAME.substring(0, 4))
+  
+  // Określ odpowiedni URL NotebookLM na podstawie numeru
+  notebook_url = ""
+  if (book_number >= 1 && book_number <= 50):
+    notebook_url = "https://notebooklm.google.com/notebook/ad8ec869-2284-44d3-bc06-b493e5990d81"
+  elif (book_number >= 51 && book_number <= 100):
+    notebook_url = "https://notebooklm.google.com/notebook/ea74e09e-0483-4e15-a3ee-59de799e721b"
+  elif (book_number >= 101 && book_number <= 150):
+    notebook_url = "https://notebooklm.google.com/notebook/05296cd4-601d-4760-b34e-f41190b34349"
+  elif (book_number >= 151 && book_number <= 200):
+    notebook_url = "https://notebooklm.google.com/notebook/e87e6c2c-f56e-49e9-8216-6c3eb1c107cc"
+  else:
+    return // Numer książki poza zakresem
+    
 else:
-  echo "ℹ️ Brak pending zadań w liście notebooklm-audio"
-  return
+  return // Brak pending zadań
+
+1. Inicjalizacja MCP playwright-cdp i otwarcie NotebookLM
+
+// Uruchom MCP playwright-cdp i otwórz odpowiednią stronę NotebookLM
+mcp__playwright-cdp__browser_navigate(url: notebook_url)
+mcp__playwright-cdp__browser_snapshot()
 
 2. Przejście do źródeł i wybór źródła
 
@@ -51,10 +72,8 @@ mcp__playwright-cdp__browser_click(element: "Wybierz wszystkie źródła checkbo
 target_source = find_source_by_name(SOURCE_NAME)
 if (target_source exists):
   mcp__playwright-cdp__browser_click(element: SOURCE_NAME + " checkbox", ref: target_source.ref)
-  echo "✅ Źródło " + SOURCE_NAME + " zaznaczone"
 else:
-  echo "❌ BŁĄD: Nie znaleziono źródła " + SOURCE_NAME
-  return
+  return // Nie znaleziono źródła
 
 3. Przejście do Studio
 
@@ -155,27 +174,30 @@ selected_format = ""
 if (has_controversy && has_philosophy):
   // Książki z kontrowersyjnymi tematami i głębią filozoficzną
   selected_format = TIKTOK_FORMAT_CRITICAL
-  echo "📚 Wybrano format: KRYTYCZNA ANALIZA (kontrowersje + filozofia)"
   
 elif (SOURCE_NAME contains ["crime", "murder", "death"] || has_controversy):
   // Książki z dylematami moralnymi, przemocą, trudnymi wyborami
   selected_format = TIKTOK_FORMAT_DEBATE
-  echo "⚔️ Wybrano format: DEBATA PERSPEKTYW (dylematy moralne)"
   
 elif (has_youth_content || SOURCE_NAME contains ["adventure", "fantasy", "young"]):
   // Książki młodzieżowe, przygodowe, fantasy
   selected_format = TIKTOK_FORMAT_CONVERSATION
-  echo "💬 Wybrano format: DYNAMICZNA ROZMOWA (młodzieżowa/przygodowa)"
   
 else:
   // Domyślny wybór dla pozostałych książek
   selected_format = TIKTOK_FORMAT_CONVERSATION
-  echo "💬 Wybrano format domyślny: DYNAMICZNA ROZMOWA"
 
 // Dodaj uniwersalną stopkę do wybranego formatu
 UNIVERSAL_FOOTER = """
 
 UNIWERSALNE ZASADY (dla wszystkich formatów):
+• BRANDING: "37stopni" to nazwa systemu medialnego podcastów o literaturze - wymowa: "trzydzieści siedem stopni"
+• WPROWADZENIE: MUSI zawierać nazwę podcastu "trzydzieści siedem stopni" w pierwszych zdaniach. Przykłady:
+  - "Dzisiaj w trzydziestu siedmiu stopniach omawiamy [tytuł] - kultową lekturę, która..."
+  - "Trzydzieści siedem stopni gorączki czytania! Dziś rozprawiamy o [tytuł] i zastanawiamy się..."  
+  - "Witajcie w trzydziestu siedmiu stopniach - miejscu gdzie klasyka spotyka się z TikTokiem! Dziś na warsztat bierzemy [tytuł]..."
+  - Możesz tworzyć własne warianty, ale ZAWSZE musisz wspomnieć "trzydzieści siedem stopni" na początku
+• ZAKOŃCZENIE: "Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako @37stopni - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!"
 • Mówcie po polsku, naturalnie, bez tłumaczenia angielskich zwrotów na siłę
 • Odniesienia do polskiej rzeczywistości 2025 - TikTok, szkoła, popkultura PL
 • Fakty i liczby tylko gdy naprawdę coś wnoszą, nie na siłę
@@ -202,18 +224,15 @@ mcp__playwright-cdp__browser_snapshot()
 
 generation_started = check_for_generation_indicators()
 if (generation_started):
-  echo "✅ Generacja audio dla źródła " + SOURCE_NAME + " rozpoczęta pomyślnie"
-  echo "Status: Nowe audio w trakcie generowania..."
-  
-  // Oznacz zadanie jako completed w liście TODOIT
-  mcp__todoit__todo_mark_completed(
-    list_key: "notebooklm-audio",
-    item_key: SOURCE_NAME
+  // Oznacz subitem audio_gen jako completed
+  mcp__todoit__todo_update_item_status(
+    list_key: "cc-au-notebooklm",
+    item_key: SOURCE_NAME,
+    subitem_key: "audio_gen",
+    status: "completed"
   )
-  echo "✅ Zadanie " + SOURCE_NAME + " oznaczone jako completed w liście notebooklm-audio"
 else:
-  echo "❌ BŁĄD: Nie udało się rozpocząć generacji dla " + SOURCE_NAME
-  return
+  return // Nie udało się rozpocząć generacji
 
 7. Status końcowy
 
@@ -221,18 +240,15 @@ else:
 audio_count = count_generated_audio()
 generating_count = count_generating_audio()
 
-echo "Status NotebookLM:"
-echo "- Wygenerowane audio: " + audio_count  
-echo "- W trakcie generowania: " + generating_count
-echo "- Ostatnie źródło: " + SOURCE_NAME
+// Status końcowy zapisany w zmiennych - agent działa w trybie silent
 
 Uwagi techniczne:
 
 - CRITICAL: URL NotebookLM musi być aktywny i dostępny
-- CRITICAL: Lista notebooklm-audio musi istnieć z pending zadaniami
+- CRITICAL: Lista cc-au-notebooklm musi istnieć z itemami i subitemami audio_gen w statusie pending
 - CRITICAL: Źródło pobrane z TODOIT musi istnieć w liście źródeł NotebookLM
 - CRITICAL: NotebookLM domyślnie ma wszystkie źródła zaznaczone - użyj głównego checkboxa "Wybierz wszystkie źródła" do odznaczenia
-- CRITICAL: Nazwa źródła w NotebookLM musi pasować 1:1 z item_key z TODOIT (np. 0007_dune)
+- CRITICAL: Nazwa źródła w NotebookLM musi pasować 1:1 z parent.item_key z TODOIT (np. 0007_dune)
 - WARNING: Główny przycisk "Podsumowanie audio" od razu rozpoczyna generację - NIE KLIKAJ GO!
 - WARNING: Używaj tylko przycisku trzech kropek (⋮) obok "Podsumowanie audio" do customizacji
 - Tekst instrukcji TikTok-style jest stały dla wszystkich generacji
@@ -253,6 +269,6 @@ Stan końcowy:
 
 - Źródło [SOURCE_NAME] zaznaczone w zakładce Źródła
 - Nowa generacja audio rozpoczęta z instrukcjami TikTok-style  
-- Zadanie [SOURCE_NAME] oznaczone jako completed w liście notebooklm-audio
+- Subitem audio_gen dla [SOURCE_NAME] oznaczony jako completed w liście cc-au-notebooklm
 - Interfejs NotebookLM gotowy do kolejnych operacji
 - Raport o statusie generacji i aktualnym stanie systemu
