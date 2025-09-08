@@ -3,6 +3,7 @@ name: 37d-a7-notebook-audio
 description: |
   NotebookLM Audio Generation Orchestrator - automated audio generation using MCP playwright-cdp.
   Orchestrates complete audio generation workflow from TODOIT task retrieval to generation completion
+model: sonnet-4
 todo_list: true
 ---
 
@@ -117,17 +118,17 @@ has_youth_content = check_file_exists(book_findings_path + "au-research_youth_di
 
 // FORMAT 1: DYNAMICZNA ROZMOWA (domyślny dla książek przygodowych/młodzieżowych)
 TIKTOK_FORMAT_CONVERSATION = """
-CEL: 5-7 min dynamicznej rozmowy dwójki przyjaciół o książce. Naturalny flow, organiczne przejścia, energia typowa dla TikToka.
+CEL: 6-8 min dynamicznej rozmowy dwójki przyjaciół o książce. Naturalny flow, organiczne przejścia, energia typowa dla TikToka.
 
 PROWADZĄCY: Dwoje przyjaciół - naturalna chemii, czasem się nie zgadzają, używają prostego języka młodzieżowego (ale nie przesadzają).
 
 STRUKTURA ELASTYCZNA:
 • HAK (0:00-0:15): Mocne otwarcie - kontrowersyjne stwierdzenie lub zaskakujące pytanie
-• ESENCJA (0:15-1:00): O czym książka + dlaczego wciąż aktualna w 2025
-• PING-PONG (1:00-4:30): Naturalna wymiana zdań, anegdoty, spory, przykłady z życia
+• ESENCJA (0:15-1:30): O czym książka + dlaczego wciąż aktualna w 2025
+• PING-PONG (1:30-5:00): Naturalna wymiana zdań, anegdoty, spory, przykłady z życia
 • FAKTY: Wplatane ORGANICZNIE co 60-90s (nie co 30s!) - tylko gdy pasują do rozmowy
 • POLSKI KONTEKST: Odniesienia do polskiej popkultury, memy, sytuacje z polskiego życia
-• ZAMKNIĘCIE (4:30-5:00): Mocny punchline + pytanie do widzów
+• ZAMKNIĘCIE (5:30-6:00): Mocny punchline + pytanie do widzów
 
 TON: Lekki, energiczny, autentyczny. Jak rozmowa na korytarzu w szkole.
 """
@@ -191,13 +192,13 @@ else:
 UNIVERSAL_FOOTER = """
 
 UNIWERSALNE ZASADY (dla wszystkich formatów):
-• BRANDING: "37stopni" to nazwa systemu medialnego podcastów o literaturze - wymowa: "trzydzieści siedem stopni"
+• BRANDING: "37stopni" to nazwa systemu medialnego podcastów o literaturze, filmie, muzyce i grach - wymowa: "trzydzieści siedem stopni"
 • WPROWADZENIE: MUSI zawierać nazwę podcastu "trzydzieści siedem stopni" w pierwszych zdaniach. Przykłady:
   - "Dzisiaj w trzydziestu siedmiu stopniach omawiamy [tytuł] - kultową lekturę, która..."
   - "Trzydzieści siedem stopni gorączki czytania! Dziś rozprawiamy o [tytuł] i zastanawiamy się..."  
   - "Witajcie w trzydziestu siedmiu stopniach - miejscu gdzie klasyka spotyka się z TikTokiem! Dziś na warsztat bierzemy [tytuł]..."
   - Możesz tworzyć własne warianty, ale ZAWSZE musisz wspomnieć "trzydzieści siedem stopni" na początku
-• ZAKOŃCZENIE: "Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako @37stopni - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!"
+• ZAKOŃCZENIE: "Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako "37stopni" - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!"
 • Mówcie po polsku, naturalnie, bez tłumaczenia angielskich zwrotów na siłę
 • Odniesienia do polskiej rzeczywistości 2025 - TikTok, szkoła, popkultura PL
 • Fakty i liczby tylko gdy naprawdę coś wnoszą, nie na siłę

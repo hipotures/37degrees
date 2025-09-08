@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie książki
 # - Ustaw liczby aby ograniczyć zakres (np. od 33 do 44)
 
-BOOK_START_RANGE="81"      # Początek zakresu (np. 33 dla 0033_xxx)
-BOOK_END_RANGE="111"        # Koniec zakresu (np. 44 dla 0044_xxx)
+BOOK_START_RANGE="113"      # Początek zakresu (np. 33 dla 0033_xxx)
+BOOK_END_RANGE="113"        # Koniec zakresu (np. 44 dla 0044_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA
@@ -176,7 +176,7 @@ execute_claude_with_retry() {
             {
                 cat "$COMMAND_FILE"
                 echo "Katalog książki: $book_dir"
-            } | claude --dangerously-skip-permissions -p --mcp-config "$MCP_CONFIG" --allowedTools "*" 2>&1
+            } | claude --dangerously-skip-permissions --model sonnet -p --mcp-config "$MCP_CONFIG" --allowedTools "*" 2>&1
         )
         
         local exit_code=$?

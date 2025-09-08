@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "todoit": {
+      "command": "python",
+      "args": ["-m", "interfaces.mcp_server"],
+      "env": {
+        "TODOIT_FORCE_TAGS": "37d",
+        "TODOIT_DB_PATH": "${HOME}/.todoit/todoit.db"
+      }
+    }
+  }
+}
