@@ -1,0 +1,8 @@
+book_folder_id,title,year,translations_count,A_kontrowersyjnosc,B_glebia,C_fenomen,D_rezonans,E_polski_kontekst,F_aktualnosc,G_innowacyjnosc,H_zlozonosc,I_gender,B_jung_3plus,B_symbolika_relig_mit,B_warstwy_3plus,B_metafory_egzyst,last3_formats
+0001_alice_in_wonderland,"Alice's Adventures in Wonderland",1865,9,4,5,5,4,4,4,5,5,3,1,1,1,1,""
+0002_animal_farm,"Animal Farm",1945,9,4,5,5,4,5,5,5,5,0,1,1,1,1,"Mistrz i Uczeń"
+0003_anna_karenina,"Anna Karenina",1877,10,4,5,5,4,4,4,5,5,4,1,1,1,1,"[\"Adwokat i Sceptyk\"
+0004_brave_new_world,"Brave New World",1932,40,5,5,5,4,3,5,5,5,5,1,1,1,1,"[\"Adwokat i Sceptyk\"
+0005_chlopi,"The Peasants",1904,27,4,5,5,3,5,4,5,5,5,1,1,1,1,"[\"Przyjacielska wymiana\"
+0006_don_quixote,"Don Quixote",1605,140,4,5,5,4,5,5,5,5,4,1,1,1,1,"[\"Lokalny i Globalny\"
+0007_dune,"Dune",1965,40,5,5,5,5,4,5,5,5,4,1,1,1,1,"[\"Reporter i Świadek\"

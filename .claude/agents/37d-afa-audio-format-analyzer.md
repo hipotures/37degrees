@@ -140,117 +140,92 @@ Read(file_path=review_path, offset=801, limit=400)
 - 3: Elementy obecne
 - 0: Neutralne
 
-## ETAP 4: Wybór formatu z rotacją
+## ETAP 4: Przygotowanie last3_formats
 
-### 4.1 Sprawdzenie eligibility dla 12 formatów
+### 4.1 Odczyt ostatnich użytych formatów
 ```python
-formats_eligibility = {
-    1: C >= 3 and (D >= 3 or suma < 20),  # Przyjacielska wymiana
-    2: B >= 4 and E >= 3 and G >= 3,      # Mistrz i Uczeń
-    3: A >= 4 or (A >= 3 and F < 2),      # Adwokat i Sceptyk
-    4: H >= 4 and A >= 3 and is_narrative, # Reporter i Świadek
-    5: (F >= 3 and C >= 3) or (year < 1980 and D >= 4), # Współczesny i Klasyk
-    6: B >= 4 and G >= 3,                  # Emocja i Analiza
-    7: E >= 4 and C >= 3,                  # Lokalny i Globalny
-    8: C >= 4 and D >= 3,                  # Fan i Nowicjusz
-    9: I >= 4,                              # Perspektywa Ona/On
-    10: G >= 5 and B >= 4,                 # Wykład filologiczny
-    11: E >= 3 and translations >= 3,      # Glosa do przekładów
-    12: H >= 4 and year < 1950             # Komentarz historyczno-literacki
+# Odczytaj ostatnie 3 użyte formaty z poprzednich wierszy CSV
+# Aby skrypt format_selector.py mógł zastosować rotację
+if existing_rows:
+    last3_formats_list = []
+    for row in existing_rows[-3:]:  # ostatnie 3 wiersze
+        chosen = row.get('chosen_format', '')
+        if chosen:
+            last3_formats_list.append(chosen)
+    last3_formats_json = json.dumps(last3_formats_list)
+else:
+    last3_formats_json = '[]'
+```
+
+### UWAGA: Wybór formatu i obliczenia
+```
+NIE OBLICZAMY SAMI:
+- eligibility dla formatów
+- weighted scores
+- chosen_format
+- duration_min
+
+Te obliczenia wykona format_selector.py w ETAPIE 7!
+Naszym zadaniem jest tylko zebranie surowych danych.
+```
+
+## ETAP 5: Zbieranie danych do dokumentu AFA
+
+### Przygotuj dane, które będą użyte w ETAPIE 8:
+
+```python
+# Zbierz wszystkie dane potrzebne do dokumentu:
+afa_data = {
+    # Metryka dzieła
+    'title': book_title,
+    'author': book_author,
+    'year': book_year,
+    'genre': book_genre,
+    'translations_count': translations,
+    
+    # Punktacja (A-I) z uzasadnieniami
+    'scores': {
+        'A': (score_A, justification_A),
+        'B': (score_B, justification_B),
+        'C': (score_C, justification_C),
+        'D': (score_D, justification_D),
+        'E': (score_E, justification_E),
+        'F': (score_F, justification_F),
+        'G': (score_G, justification_G),
+        'H': (score_H, justification_H),
+        'I': (score_I, justification_I),
+    },
+    
+    # Kluczowe wątki (5 najważniejszych)
+    'key_threads': [
+        {
+            'title': thread_title,
+            'label': 'FAKT/SPÓR/HIPOTEZA',
+            'type': 'BOMBSHELL/CONTEXT/ANALYSIS',
+            'source': research_doc_name,
+            'certainty': percentage
+        },
+        # ... kolejne 4 wątki
+    ],
+    
+    # Blok edukacyjny (jeśli polska lektura)
+    'educational': {
+        'definitions': [...],  # definicje pojęć
+        'exam_questions': [...],  # 3 pytania maturalne
+        'canonical_quotes': [...]  # 5 cytatów
+    }
 }
-```
 
-### 4.2 Tie-breaker z rotacją
-```python
-# Preferuj formaty nieużywane w ostatnich 3 odcinkach
-available = [f for f in eligible if f not in last3_formats]
-if not available:
-    available = eligible
-
-# Wybierz format z najwyższym wynikiem ważonym
-chosen = max(available, key=lambda f: weighted_score(f))
-
-# Zaktualizuj last3_formats w CSV
-```
-
-### 4.3 Obliczenie długości
-```python
-def calculate_duration(suma, H):
-    if suma >= 38 and H >= 4: return 14
-    elif suma >= 35: return 12
-    elif suma >= 30: return 10
-    elif suma >= 25: return 8
-    else: return 5
-```
-
-## ETAP 5: Generowanie dokumentu AFA
-
-### Szablon dokumentu `books/[BOOK_FOLDER]/docs/[book_folder]-afa.md`:
-
-```markdown
-# ANALIZA FORMATU AUDIO — [TYTUŁ]
-================================
-
-## METRYKA DZIEŁA
-- **Tytuł/Autor**: [title] / [author]
-- **Gatunek/Forma**: [genre] / [form]
-- **Język/Daty**: [language] / [year]
-- **Objętość**: [pages/verses]
-- **Przekłady**: [translations_count]
-- **Tradycja komentarza**: [critical_editions]
-
-## PUNKTACJA SZCZEGÓŁOWA
-- A. Kontrowersyjność: [X]/5 — [uzasadnienie]
-- B. Głębia filozoficzna: [X]/5 — [checklist]
-- C. Fenomen kulturowy: [X]/5 — [uzasadnienie]
-- D. Współczesna recepcja: [X]/5 (edu: [X], cyfrowe: [Y])
-- E. Polski kontekst: [X]/5 — [uzasadnienie]
-- F. Aktualność: [X]/5 — [uzasadnienie]
-- G. Innowacyjność: [X]/5 — [uzasadnienie]
-- H. Złożoność strukturalna: [X]/5 — [uzasadnienie]
-- I. Relacje i role społeczne: [X]/5 — [uzasadnienie]
-**SUMA: [XX]/45 | Percentyl: [XX]%**
-
-## FORMAT
-- **Główny**: [NAZWA] — użyty [X]/10 ostatnich | Wynik ważony: [XX.X]
-- **Alternatywny**: [NAZWA] — cooldown: [X] odcinków
-- **Długość**: [XX] min (suma=[XX], H=[X])
-- **Uzasadnienie**: [kluczowe przesłanki wyboru]
-
-## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
-1. [tytuł wątku] [FAKT/SPÓR/HIPOTEZA] [BOMBSHELL/CONTEXT/ANALYSIS]
-   Źródło: [research doc] | Pewność: [XX]%
-2-5. [kolejne wątki]
-
-## PROMPTY A/B DLA FORMATU
-
-### Prowadzący A — [rola]
-[prompt A z docs/audio_format/system_wyboru_formatu_audio.md]
-
-### Prowadzący B — [rola]
-[prompt B z docs/audio_format/system_wyboru_formatu_audio.md]
-
-## MAPOWANIE WĄTKÓW NA STRUKTURĘ
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Część 1: [Tytuł] ([X] min) — rola: [A/B] — wątek: "[...]"
-Część 2-5: [analogicznie]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## BLOK EDUKACYJNY (jeśli lektura)
-- Definicje pojęć (≤50 słów)
-- 3 pytania maturalne
-- 5 cytatów kanonicznych
-
-## METADANE PRODUKCYJNE
-- Tempo: 120-140 słów/min
-- Pauzy: [znaczniki]
-- Dżingle: Intro/Przejścia/Outro
+# Te dane będą użyte w ETAPIE 8 do wygenerowania kompletnego dokumentu
+# po otrzymaniu wyboru formatu z format_selector.py
 ```
 
 ## ETAP 6: Aktualizacja CSV i TODOIT
 
 ### 6.1 Dodanie wiersza do CSV
 ```python
+# WAŻNE: Dodajemy TYLKO surowe dane punktacji!
+# Skrypt format_selector.py obliczy wszystkie pozostałe pola
 new_row = {
     'book_folder_id': BOOK_FOLDER,  # np. "0111_a_dolls_house"
     'title': book_title,
@@ -269,38 +244,22 @@ new_row = {
     'B_symbolika_relig_mit': b_symbolika,  # 1 lub 0
     'B_warstwy_3plus': b_warstwy,  # 1 lub 0
     'B_metafory_egzyst': b_metafory,  # 1 lub 0
-    'last3_formats': updated_last3_formats,
-    'SUMA_points': suma_points,
-    'duration_min': duration,
-    'eligible_01_przyjacielska': eligible_01,
-    'eligible_02_mistrz_uczen': eligible_02,
-    'eligible_03_adwokat_sceptyk': eligible_03,
-    'eligible_04_reporter_swiadek': eligible_04,
-    'eligible_05_wspolczesny_klasyk': eligible_05,
-    'eligible_06_emocja_analiza': eligible_06,
-    'eligible_07_lokalny_globalny': eligible_07,
-    'eligible_08_fan_nowicjusz': eligible_08,
-    'eligible_09_ona_on': eligible_09,
-    'eligible_10_wyklad_filologiczny': eligible_10,
-    'eligible_11_glosa_przeklady': eligible_11,
-    'eligible_12_kom_hist_lit': eligible_12,
-    'weighted_01': weighted_01,
-    'weighted_02': weighted_02,
-    'weighted_03': weighted_03,
-    'weighted_04': weighted_04,
-    'weighted_05': weighted_05,
-    'weighted_06': weighted_06,
-    'weighted_07': weighted_07,
-    'weighted_08': weighted_08,
-    'weighted_09': weighted_09,
-    'weighted_10': weighted_10,
-    'weighted_11': weighted_11,
-    'weighted_12': weighted_12,
-    'chosen_format': chosen_format_name,
-    'alt_format': alt_format_name,
-    'chosen_reason': chosen_reason
+    'last3_formats': last3_formats_json  # Format: '["Format 1", "Format 2", "Format 3"]'
 }
-append_to_csv(CSV_PATH, new_row)
+
+# PRAWIDŁOWY sposób dodawania do CSV (unika problemów z formatowaniem):
+import csv
+with open(CSV_PATH, 'a', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames=new_row.keys())
+    writer.writerow(new_row)
+
+# Alternatywnie, jeśli CSV ma już nagłówki:
+# with open(CSV_PATH, 'a', newline='') as f:
+#     writer = csv.writer(f)
+#     writer.writerow(new_row.values())
+
+# NIE UŻYWAJ echo >> w bashu - może to powodować problemy z formatowaniem!
+# NIE DODAJEMY pól obliczeniowych - format_selector.py je obliczy
 ```
 
 ### 6.2 Aktualizacja statusu w TODOIT
@@ -313,13 +272,108 @@ mcp__todoit__todo_update_item_status(
 )
 ```
 
-## ETAP 7: Uruchomienie format_selector.py
+## ETAP 7: Uruchomienie format_selector.py i odczyt wyników
 
+### 7.1 Uruchomienie skryptu
 ```bash
-# Uruchom skrypt Pythona do weryfikacji wyboru
+# Uruchom skrypt Pythona do obliczenia wyboru formatu
 python $CLAUDE_PROJECT_DIR/docs/audio_format/format_selector.py \
     $CLAUDE_PROJECT_DIR/config/audio_format_scores.csv \
     $CLAUDE_PROJECT_DIR/config/audio_format_output.csv
+```
+
+### 7.2 Odczyt wyników z audio_format_output.csv
+```python
+# Odczytaj wyniki dla naszej książki
+import csv
+OUTPUT_CSV = "$CLAUDE_PROJECT_DIR/config/audio_format_output.csv"
+
+with open(OUTPUT_CSV, 'r', encoding='utf-8') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        if row['book_folder_id'] == BOOK_FOLDER:
+            chosen_format = row['chosen_format']
+            alt_format = row['alt_format']
+            duration_min = row['duration_min']
+            suma_points = row['SUMA_points']
+            chosen_reason = row['chosen_reason']
+            # Zapisz wszystkie potrzebne dane
+            break
+```
+
+## ETAP 8: Generowanie kompletnego dokumentu AFA
+
+### 8.1 Odczyt promptów dla wybranego formatu
+```python
+# Znajdź prompty A/B dla chosen_format w docs/audio_format/system_wyboru_formatu_audio.md
+# Formaty są numerowane 1-12:
+format_map = {
+    "Przyjacielska wymiana": 1,
+    "Mistrz i Uczeń": 2,
+    "Adwokat i Sceptyk": 3,
+    "Reporter i Świadek": 4,
+    "Współczesny i Klasyk": 5,
+    "Emocja i Analiza": 6,
+    "Lokalny i Globalny": 7,
+    "Fan i Nowicjusz": 8,
+    "Perspektywa Ona/On": 9,
+    "Wykład filologiczny": 10,
+    "Glosa do przekładów": 11,
+    "Komentarz historyczno-literacki": 12
+}
+format_num = format_map[chosen_format]
+# Odczytaj prompty A i B z dokumentacji
+```
+
+### 8.2 Wygeneruj kompletny dokument AFA
+```markdown
+# ANALIZA FORMATU AUDIO — [TYTUŁ]
+================================
+
+## METRYKA DZIEŁA
+[wszystkie dane z ETAPU 2-3]
+
+## PUNKTACJA SZCZEGÓŁOWA
+[wszystkie punkty A-I z uzasadnieniami]
+**SUMA: {suma_points}/45 | Percentyl: {percentyl}%**
+
+## FORMAT
+- **Główny**: {chosen_format} — {chosen_reason}
+- **Alternatywny**: {alt_format}
+- **Długość**: {duration_min} min (suma={suma_points}, H={H_score})
+- **Uzasadnienie**: [na podstawie chosen_reason i kryteriów]
+
+## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
+[5 głównych wątków z research]
+
+## PROMPTY A/B DLA FORMATU
+
+### Prowadzący A — {rola_A}
+{prompt_A_dla_chosen_format}
+
+### Prowadzący B — {rola_B}
+{prompt_B_dla_chosen_format}
+
+## MAPOWANIE WĄTKÓW NA STRUKTURĘ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Część 1: [Tytuł] ({duration_min/5} min) — rola: A — wątek: "{wątek_1}"
+Część 2: [Tytuł] ({duration_min/5} min) — rola: B dopytuje — wątek: "{wątek_2}"
+[itd. dla wszystkich części]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## BLOK EDUKACYJNY (jeśli lektura)
+[definicje, pytania maturalne, cytaty]
+
+## METADANE PRODUKCYJNE
+- Tempo: 120-140 słów/min
+- Pauzy: [znaczniki]
+- Dżingle: Intro/Przejścia/Outro
+```
+
+### 8.3 Zapisz dokument AFA
+```python
+afa_path = f"books/{BOOK_FOLDER}/docs/{BOOK_FOLDER}-afa.md"
+Write(afa_path, complete_afa_content)
 ```
 
 ## Uwagi techniczne
