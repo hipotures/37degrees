@@ -1,102 +1,116 @@
-# ANALIZA FORMATU AUDIO — Alice's Adventures in Wonderland
+# ANALIZA FORMATU AUDIO — ALICE'S ADVENTURES IN WONDERLAND
 ================================
 
 ## METRYKA DZIEŁA
-- **Tytuł/Autor**: Alice's Adventures in Wonderland / Lewis Carroll (Charles Dodgson)
-- **Gatunek/Forma**: Fantasy/Nonsens literacki / Proza
-- **Język/Daty**: Angielski / 1865
-- **Objętość**: 12 rozdziałów, ~27,000 słów
-- **Przekłady**: 174+ języków (9 polskich przekładów od 1910)
-- **Tradycja komentarza**: 160+ lat analiz akademickich, setki edycji krytycznych
+
+**Tytuł**: Alice's Adventures in Wonderland  
+**Autor**: Lewis Carroll (Charles Lutwidge Dodgson)  
+**Rok wydania**: 1865  
+**Gatunek**: Literatura dziecięca, fantasy, nonsens literacki  
+**Liczba tłumaczeń**: 174 języki  
 
 ## PUNKTACJA SZCZEGÓŁOWA
-- A. Kontrowersyjność: **4/5** — Liczne kontrowersje biograficzne (zarzuty pedofilii, teorie narkotykowe, missing diary pages, ban w Chinach 1931)
-- B. Głębia filozoficzna: **5/5** — [✓ Archetypy Junga ≥3, ✓ Symbolika religijna/mitologiczna, ✓ Warstwy ≥3, ✓ Metafory egzystencjalne]
-- C. Fenomen kulturowy: **5/5** — Druga najczęściej cytowana książka po Biblii, 60+ adaptacji literackich, 40+ filmów
-- D. Współczesna recepcja: **4/5** (edu: 4, cyfrowe: 4) — Wysokie zaangażowanie TikTok (2B+ wyświetleń), VR games, memy viralne
-- E. Polski kontekst: **4/5** — Lektura uzupełniająca w szkołach, 9 przekładów, teatr Groteska, wpływ na Brzechwy/Tuwima
-- F. Aktualność: **4/5** — Przewidywania AI/logiki sprawdzone, tematy tożsamości i authority questioning ultra-aktualne
-- G. Innowacyjność: **5/5** — Rewolucja w literaturze dziecięcej, stworzenie gatunku nonsense, portmanteau words
-- H. Złożoność strukturalna: **5/5** — Struktura senna, episodyczna kompozycja, metapoziomy (satyr społeczna + logika matematyczna)
-- I. Relacje i role społeczne: **3/5** — Feministyczne interpretacje obecne, ale nie dominujące
 
-**SUMA: 39/45 | Percentyl: 87%**
+### A. KONTROWERSYJNOŚĆ (4/5)
+**Uzasadnienie**: Książka otoczona jest licznymi kontrowersjami biograficznymi dotyczącymi autora, w tym zdyskredytowanymi, ale wciąż popularnymi teoriami o nieodpowiednich relacjach z dziećmi (30 fotografii nagich dzieci w jego kolekcji, nagłe zakończenie relacji z rodziną Liddell w 1863). Psychoanalityczne interpretacje z lat 30. XX wieku sugerowały ukryte treści seksualne. Dodatkowo książka była zakazana w Chinach w 1931 roku za "bluźnierstwo" (mówiące zwierzęta).
+
+### B. GŁĘBIA FILOZOFICZNA (5/5)
+**Uzasadnienie**: Dzieło zawiera wszystkie kluczowe elementy: archetypy Junga (Bohater, Cień, Trickster), symbolikę religijną (Ogród Eden), co najmniej 3 warstwy interpretacyjne (psychoanalityczna, filozoficzna, społeczna) oraz głębokie metafory egzystencjalne dotyczące tożsamości ("Kim jestem?"). To wielowarstwowe dzieło funkcjonujące jako "kulturowy test Rorschacha".
+
+### C. FENOMEN KULTUROWY (5/5)
+**Uzasadnienie**: Druga najczęściej cytowana książka na świecie po Biblii. 160 lat nieprzerwanej recepcji, 60 literackich przeróbek, 40 filmów, ponad 30 adaptacji teatralnych. Wpływ na całą literaturę dziecięcą i fantasy. Kultowa pozycja w kulturze światowej.
+
+### D. WSPÓŁCZESNA RECEPCJA (4/5)
+**Uzasadnienie**: Silna obecność w kulturze cyfrowej: #AliceInWonderland ma ponad 2 miliardy wyświetleń na TikToku, trendy Mad Hatter Tea Party, liczne VR experiences, seria gier American McGee's Alice. "Rabbit hole" jako metafora internetu i social mediów.
+
+### E. POLSKI KONTEKST (4/5)
+**Uzasadnienie**: Lektura uzupełniająca w klasie V szkoły podstawowej, 9 różnych polskich tłumaczeń (od 1910), tradycja teatralna (Groteska Kraków od 1979), wpływ na polską literaturę nonsensową (Brzechwa, Tuwim).
+
+### F. AKTUALNOŚĆ (4/5)
+**Uzasadnienie**: Metafora "rabbit hole" idealnie opisuje doświadczenie social mediów. Tematy AI i relatywności rzeczywistości rezonują z erą post-prawdy. Alice in Wonderland Syndrome jako rozpoznawane zaburzenie neurologiczne.
+
+### G. INNOWACYJNOŚĆ (5/5)
+**Uzasadnienie**: Rewolucja w literaturze dziecięcej - zakończenie epoki dydaktyzmu. Stworzenie gatunku nonsensowej literatury. Wynalezienie słów-walizek (portmanteau words). Pionierska integracja logiki matematycznej z narracją fantastyczną.
+
+### H. ZŁOŻONOŚĆ STRUKTURALNA (5/5)
+**Uzasadnienie**: 12 epizodycznych rozdziałów połączonych logiką snu, skomplikowana rama narracyjna (sen w rzeczywistości), metapoziomy interpretacji, paradoksy logiczne, gry językowe na wielu poziomach.
+
+### I. RELACJE I ROLE SPOŁECZNE (3/5)
+**Uzasadnienie**: Alicja kwestionuje wiktoriańskie oczekiwania wobec kobiet, satyra na hierarchię społeczną (Królowa Kier), krytyka arbitralnej władzy, ale tematyka gender nie dominuje w narracji.
+
+**SUMA: 39/45 | Percentyl: 86.7%**
 
 ## FORMAT
-- **Główny**: WYKŁAD FILOLOGICZNY W DUECIE — użyty 0/10 ostatnich | Wynik ważony: 20.5
-- **Alternatywny**: MISTRZ I UCZEŃ — cooldown: N/A | Wynik ważony: 18.8
-- **Długość**: 15 min (suma=39, H=5, format wymaga 15-20 min)
-- **Uzasadnienie**: Najwyższa innowacyjność (G=5) i głębia filozoficzna (B=5) wymagają akademickiego podejścia filologicznego do pełnego rozpakowania rewolucyjnych technik Carrolla.
+
+- **Główny**: Wykład filologiczny — Format idealny dla książki o rewolucyjnej innowacyjności pisarskiej (G=5) i głębokiej warstwie filozoficznej (B=5), wymagającej eksperta do wyjaśnienia niuansów językowych i matematycznych
+- **Alternatywny**: Mistrz i Uczeń
+- **Długość**: 14 min (suma=39, H=5)
+- **Uzasadnienie**: Książka o najwyższej innowacyjności pisarskiej i filozoficznej głębi wymaga akademickiego podejścia. Wykład filologiczny pozwoli wydobyć ukryte warstwy matematyczne, językowe gry słów oraz kontekst literacki epoki wiktoriańskiej.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
-1. **Carroll jako matematyk-satyryk** [FAKT] [ANALYSIS]
-   Źródło: au-research_facts_history.md | Pewność: 95%
-   Nonsensowna logika Krainy Czarów to świadoma satyra na nową matematykę symboliczną XIX wieku.
+### 1. Matematyczna satyra ukryta w nonsensie [FAKT] 
+**Typ**: CONTEXT | **Źródło**: au-research_writing_innovation | **Pewność**: 95%
+Carroll jako konserwatywny matematyk z Oxfordu używał Alicji do krytyki "nowej matematyki" XIX wieku - kwaterniony Hamiltona, algebra symboliczna De Morgana. Szalona Herbatka to dyskurs o abstrakcyjnej arytmetyce.
 
-2. **Druga najczęściej cytowana książka świata** [FAKT] [BOMBSHELL]
-   Źródło: au-research_culture_impact.md | Pewność: 90%
-   Po Biblii, Alice generuje najwięcej cytatów i odniesień w literaturze angielskiej.
+### 2. Portmanteau words i rewolucja językowa [FAKT]
+**Typ**: ANALYSIS | **Źródło**: au-research_writing_innovation | **Pewność**: 100%
+Carroll wynalazł termin i technikę słów-walizek, które weszły do języka angielskiego: "chortle" (chuckle+snort), "galumph" (gallop+triumph). Technika fundamentalna dla modernizmu literackiego.
 
-3. **Rewolucja w literaturze dziecięcej** [FAKT] [CONTEXT]
-   Źródło: au-research_writing_innovation.md | Pewność: 100%
-   Pierwsza książka dla dzieci bez morału, inaugurująca erę czystej fantazji.
+### 3. Kontrowersje biograficzne vs współczesna nauka [SPÓR]
+**Typ**: BOMBSHELL | **Źródło**: au-research_dark_drama | **Pewność**: 85%
+Alegacje pedofilii całkowicie zdyskredytowane przez współczesnych badaczy (Karoline Leach 1999). "Mit Carrolla" wynika z niezrozumienia norm wiktoriańskich. Fotografie nagich dzieci były normą artystyczną epoki.
 
-4. **Polska Alice w kulturze** [FAKT] [LOCAL]
-   Źródło: au-research_local_context.md | Pewność: 85%
-   9 przekładów, wpływ na Brzechwy i Tuwima, stałe wystawienia w teatrze Groteska.
+### 4. Alice jako pierwsza strong female protagonist [FAKT]
+**Typ**: ANALYSIS | **Źródło**: au-research_culture_impact | **Pewność**: 90%
+Alicja wyprzedziła Disney Princesses o 90 lat. Pierwsza dziecięca bohaterka kwestionująca autorytety, samodzielnie podejmująca decyzje, odrzucająca absurdalne reguły dorosłych.
 
-5. **TikTok i mental health connection** [SPÓR] [MODERN]
-   Źródło: au-research_youth_digital.md | Pewność: 75%
-   Gen Z interpretuje Alice jako metaforę dissociation i identity crisis (89M+ views).
+### 5. Wpływ na surrealizm i psychodelię [FAKT]
+**Typ**: CONTEXT | **Źródło**: au-research_symbols_meanings | **Pewność**: 95%
+Salvador Dalí stworzył 12 heliograwiur do Alicji (1969). Jefferson Airplane "White Rabbit" (1967) - hymn kontrkultury. Alice jako naturalna muza ruchu surrealistycznego i psychodelicznego.
 
-## BLOK KONTROWERSJI (oddzielony)
-⚠️ **Teoria pedofilii Carroll'a** — status: [ZDYSKREDYTOWANE przez Karoline Leach, 1999]
-⚠️ **Interpretacje narkotykowe (LSD/opium)** — status: [LEGENDA, brak dowodów historycznych]
+## BLOK EDUKACYJNY (POLSKA LEKTURA)
+
+### Definicje kluczowych pojęć:
+- **Nonsens literacki**: Gatunek oparty na logicznych paradoksach i grach językowych, nie brak sensu, ale "sprytne podważenie go"
+- **Portmanteau word**: Słowo-walizka powstałe z połączenia dwóch innych (np. "slithy" = lithe + slimy)
+- **Literatura wiktoriańska**: Okres 1837-1901, charakteryzujący się moralizatorstwem, którego Alicja jest satyrą
+
+### Pytania maturalne:
+1. W jaki sposób Carroll wykorzystuje motywy transformacji fizycznej do przedstawienia procesu dorastania?
+2. Omów satyryczne przedstawienie systemu edukacji wiktoriańskiej w "Alicji w Krainie Czarów"
+3. Przeanalizuj rolę nonsensu jako narzędzia krytyki społecznej w powieści Carrolla
+
+### Kanoniczne cytaty:
+1. "Curiouser and curiouser!" - o paradoksach dorastania
+2. "We're all mad here" - Kot z Cheshire o naturze Krainy Czarów
+3. "Who are you?" - Gąsienica, pytanie o tożsamość
+4. "Off with their heads!" - Królowa Kier, symbol tyranii
+5. "You're nothing but a pack of cards!" - Alicja, moment wyzwolenia
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — Filolog
-„Jesteś specjalistą od poetyki i edytorstwa literatury wiktoriańskiej. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne Carrolla. Każda wypowiedź 4–6 zdań, precyzyjnie. Analizujesz innowacje językowe (portmanteau words), struktury narracyjne (sen w ramie), techniki satyryczne. Kończ pytaniem do B o klarowność: 'czy ten aspekt nonsensu jest zrozumiały?'."
+**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
 
-### Prowadzący B — Asystent/Student
-„Jesteś moderatorem-uczniem, tłumaczysz trudne pojęcia własnymi słowami dla współczesnego słuchacza. Prosisz o przykład/cytat ilustrujący teorię A. Pilnujesz tempa dla laika - gdy A używa terminów jak 'focalizacja' czy 'metapoziom', prosisz o wyjaśnienie przez analogię do znanych tekstów. Podsumowujesz punktami przed kolejnym blokiem."
+### Prowadzący A — Profesor Jerzy (Filolog)
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
+
+### Prowadzący B — Natalia (Asystent/Student)
+Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Część 1: Geneza i kontekst** (3 min) — rola: A wprowadza — wątek: „Golden afternoon i matematyczna satyra" [CONTEXT]
-
-**Część 2: Rewolucja literacka** (3 min) — rola: B pyta o przełom — wątek: „Koniec moralizatorstwa, narodziny nonsense" [ANALYSIS]
-
-**Część 3: Filozofia tożsamości** (3 min) — rola: A wykłada — wątek: „Who are you? - kryzys identity w social media age" [MODERN]
-
-**Część 4: Polski ślad i adaptacje** (2 min) — rola: B odkrywa — wątek: „Od Tuwima do Teatru Groteska" [LOCAL]
-
-**Część 5: Fenomen kulturowy** (3 min) — rola: dialog — wątek: „2 miliardy views na TikToku - dlaczego Alice nie starzeje się?" [BOMBSHELL]
+Część 1: Rewolucja w literaturze dziecięcej (3 min) — rola: A wprowadza — wątek: "Koniec epoki dydaktyzmu"
+Część 2: Wynalazek portmanteau words (3 min) — rola: B dopytuje o przykłady — wątek: "Innowacje językowe Carrolla"
+Część 3: Matematyczna satyra w nonsensie (3 min) — rola: A wyjaśnia kontekst — wątek: "Ukryta krytyka nowej matematyki"
+Część 4: Archetypy i warstwy interpretacyjne (3 min) — rola: B porządkuje poziomy — wątek: "Od Junga do współczesności"
+Część 5: Polski kontekst i przekłady (2 min) — rola: A i B dyskutują — wątek: "9 tłumaczeń, problem nonsensu"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (lektura uzupełniająca)
-
-### Definicje pojęć (≤50 słów)
-- **Nonsens literacki**: Gatunek wykorzystujący absurd i paradoks do kwestionowania logiki języka i rzeczywistości.
-- **Portmanteau words**: Słowa-walizki łączące dwa znaczenia w jedno (np. "chortle" = chuckle+snort).
-- **Literatura wiktoriańska**: Twórczość z okresu panowania królowej Wiktorii (1837-1901), często moralizatorska.
-
-### 3 pytania maturalne
-1. Jak struktura snu w "Alice" kwestionuje wiktoriańskie normy społeczne?
-2. Porównaj transformacje Alicji do procesu dorastania w literaturze młodzieżowej.
-3. Omów rolę nonsensu jako narzędzia krytyki społecznej u Carrolla.
-
-### 5 cytatów kanonicznych
-1. "Curiouser and curiouser!" — o niemożności wyrażenia doświadczenia
-2. "We're all mad here" — Kot z Cheshire o względności normalności
-3. "Who are you?" — Gąsienica, fundamentalne pytanie o tożsamość
-4. "Off with their heads!" — Królowa, symbol arbitralnej władzy
-5. "You're nothing but a pack of cards!" — Alicja, moment wyzwolenia
-
 ## METADANE PRODUKCYJNE
-- Tempo: 130-140 słów/min
-- Pauzy: Po każdym pytaniu B (2s), przed cytatami (1s)
-- Dżingle: Intro teatralne, przejścia harfa, outro pozytywka
-- Balans głosów: 55% Mistrz, 45% Uczeń
-- Ton: Akademicki ale przystępny, z nutą humoru przy nonsensach
+- Tempo: 120-140 słów/min
+- Pauzy: [krótka pauza] po definicjach, [muzyka przejścia] między częściami
+- Dżingle: Intro klasyczne (15s), Przejścia subtelne (5s), Outro nostalgiczne (20s)
+- Styl muzyczny: Klasyczna muzyka kameralna z elementami whimsical

@@ -2,74 +2,172 @@
 ================================
 
 ## METRYKA DZIEŁA
-- **Tytuł/Autor**: Chłopi / Władysław Reymont
-- **Gatunek/Forma**: Powieść realistyczna / Epopeja chłopska
-- **Język/Daty**: Polski / 1904–1909
-- **Objętość**: 4 tomy (Jesień, Zima, Wiosna, Lato)
-- **Przekłady**: 27 języków
-- **Tradycja komentarza**: Obszerna (Wyka, Brzozowska, Krzyzanowski)
+
+**Tytuł:** Chłopi (The Peasants)  
+**Autor:** Władysław Stanisław Reymont  
+**Rok powstania:** 1904-1909  
+**Gatunek:** Epopeja chłopska, powieść realistyczna  
+**Forma:** 4-tomowa powieść (Jesień, Zima, Wiosna, Lato)  
+**Język oryginału:** Polski  
+**Liczba przekładów:** 27 języków  
+**Nagroda Nobla:** 1924
 
 ## PUNKTACJA SZCZEGÓŁOWA
-- A. Kontrowersyjność: **4/5** — Teoria spiskowa o Noblu, okultyzm Reymonta, cenzura carska/nazistowska/komunistyczna, silny erotyzm
-- B. Głębia filozoficzna: **5/5** — ✓ Archetypy Junga (Patriarchy, Kobiety Fatale, Młodości) ✓ Symbolika religijna i mitologia słowiańska ✓ Warstwy interpretacyjne (realizm, symbolizm, feminizm, postkolonializm) ✓ Metafory egzystencjalne
-- C. Fenomen kulturowy: **5/5** — Nobel 1924, liczne adaptacje filmowe (1922, 1973, 2023), lektura szkolna, muzeum Reymonta
-- D. Współczesna recepcja: **3/5** (edu: 3, cyfrowe: 3) — Cottagecore trends, farming games connections, film 2023, ograniczona obecność BookTok
-- E. Polski kontekst: **5/5** — Lektura obowiązkowa, polskie memy, adaptacje teatralne, łowickie tradycje
-- F. Aktualność: **4/5** — Trafne przewidywania o modernizacji wsi i konfliktach pokoleń, chybione o rolach płci
-- G. Innowacyjność: **5/5** — System trzech narratorów, cykliczna struktura, dialektyzacja, stworzenie gatunku "eposu chłopskiego"
-- H. Złożoność strukturalna: **5/5** — Struktura 4-tomowa, polifoniczność, skomplikowana hierarchia, mowa pozornie zależna
-- I. Relacje i role społeczne: **5/5** — Silne wątki przemocy domowej, ekonomicznego przymusu, patriarchatu, archetyp kobiety fatale
+
+**A. KONTROWERSYJNOŚĆ:** 4/5
+- Okultystyczne i ezoteryczne zainteresowania Reymonta (seanse spirytystyczne, teozofia)
+- Antysemickie podteksty w twórczości 
+- Silne treści erotyczne cenzurowane przez władze carskie
+- Teorie spiskowe dotyczące przyznania Nagrody Nobla
+- Prohibicja nazistowska (1939-1945) i komunistyczna ("Bunt" zakazany 1945-1989)
+- Rating R dla adaptacji 2023 za przemoc, gwałt, pełną nagość
+
+**B. GŁĘBIA FILOZOFICZNA:** 5/5
+- Archetypy Junga (≥3): Boryna (Król-Patriarcha), Jagna (Femme Fatale), Antek (Zbuntowany Syn), Hanka (Kopciuszek-Królowa) [+2]
+- Symbolika religijna/mitologiczna: elementy słowiańskie (południca, strzygi), chrześcijańskie obrzędy [+1]
+- Warstwy interpretacyjne (≥3): realistyczna, symboliczna, psychologiczna, antropologiczna [+1]
+- Metafory egzystencjalne: śmierć Boryny jako kosmiczne zjednoczenie z ziemią [+1]
+
+**C. FENOMEN KULTUROWY:** 5/5
+- Nagroda Nobla 1924, 27 tłumaczeń
+- Kultowy status w Polsce, lektura obowiązkowa
+- Liczne adaptacje: filmy 1922, 1973, 2023 (kandydat do Oscara)
+- Ciągłość recepcji przez wiele epok
+- Inspiracja dla światowych twórców (Eugene O'Neill - "Desire Under the Elms")
+
+**D. WSPÓŁCZESNA RECEPCJA:** 3/5
+- Popularność farming games (Stardew Valley 41M kopii) i cottagecore trend
+- Film 2023 zwiększył zainteresowanie młodych (milion widzów w Polsce)
+- Bariera językowa, brak wiralu na BookTok globalnie
+- Memy w polskim internecie (#chłopi #jagna)
+
+**E. POLSKI KONTEKST:** 5/5
+- Lektura szkolna obowiązkowa (tylko tom I od 2024)
+- Kultowy status filmu z 1973 (Hańcza jako Boryna)
+- Obecność w memach i kulturze internetowej
+- Film 2023 pierwszy z milionem widzów w Polsce
+
+**F. AKTUALNOŚĆ:** 4/5
+- Przewidywania o modernizacji wsi się sprawdziły
+- Uniwersalne prawdy o naturze ludzkiej aktualne
+- Konflikt pokoleń - ponadczasowy
+- Role gender całkowicie się nie sprawdziły
+
+**G. INNOWACYJNOŚĆ:** 5/5
+- System trzech narratorów (teoria Kazimierza Wyki)
+- Cykliczna struktura sezonowa - wpływ na cały gatunek
+- Stworzenie gatunku "eposu chłopskiego"
+- Dialektalna proza artystyczna - uniwersalny język chłopów
+
+**H. ZŁOŻONOŚĆ STRUKTURALNA:** 5/5
+- Wielowątkowość: 4 tomy, dziesiątki postaci
+- Skomplikowana kompozycja: czas cykliczny vs linearny
+- Metapoziomy: realizm + naturalizm + symbolizm + impresjonizm
+- Orkiestralne efekty masowe
+
+**I. RELACJE I ROLE SPOŁECZNE:** 5/5
+- Silne wątki patriarchatu vs emancypacja Hanki
+- Jagna jako ofiara/femme fatale - różnice w odbiorze płci
+- Przemoc domowa (Antek-Hanka), ekonomiczne przymusy w małżeństwie
+- Samosąd nad Jagną - mechanizmy wykluczenia społecznego
+
 **SUMA: 41/45 | Percentyl: 91%**
 
 ## FORMAT
-- **Główny**: LOKALNY I GLOBALNY — użyty 0/3 ostatnich | Wynik ważony: 95.5
-- **Alternatywny**: FAN I NOWICJUSZ — cooldown: 0 odcinków
+
+- **Główny**: Wykład filologiczny — Spełnia kryteria G≥5 i B≥4, idealny dla analizy innowacji warsztatowych i głębi filozoficznej
+- **Alternatywny**: Fan i Nowicjusz (C≥4, D≥3) lub Lokalny i Globalny (E≥4, C≥3)
 - **Długość**: 14 min (suma=41, H=5)
-- **Uzasadnienie**: Wysoki polski kontekst (E=5) i fenomen kulturowy (C=5) idealnie pasują do zestawienia lokalnych tradycji łowickich z uniwersalnymi tematami. Format nieużywany w ostatnich 3 odcinkach, wysoka innowacyjność (G=5) wzmacnia wybór.
+- **Uzasadnienie**: Dzieło wymaga akademickiego podejścia ze względu na rewolucyjne techniki narracyjne (system trzech narratorów), głębokie warstwy symboliczne i wpływ na literaturę światową
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
-1. Nobel 1924 jako polityczna intryga [SPÓR] [BOMBSHELL]
-   Źródło: au-research_dark_drama.md | Pewność: 75%
-2. Okultystyczne fascynacje Reymonta - medium spirytystyczny [FAKT] [CONTEXT]
-   Źródło: au-research_dark_drama.md | Pewność: 90%
-3. System trzech narratorów jako innowacja literacka [FAKT] [ANALYSIS]
-   Źródło: au-research_writing_innovation.md | Pewność: 95%
-4. Film 2023 - milion widzów, technika malarska [FAKT] [BOMBSHELL]
-   Źródło: au-research_culture_impact.md | Pewność: 100%
-5. Cottagecore i Stardew Valley jako współczesne echo [HIPOTEZA] [CONTEXT]
-   Źródło: au-research_youth_digital.md | Pewność: 70%
+
+### 1. **Wypadek kolejowy jako geneza arcydzieła** [FAKT]
+**Typ:** CONTEXT | **Źródło:** au-research_facts_history | **Wiarygodność:** 100%
+13 lipca 1900 - Reymont otrzymał 40,000 rubli odszkodowania od Kolei Warszawsko-Wiedeńskiej, co umożliwiło mu poświęcenie się pisaniu "Chłopów" bez troski o byt.
+
+### 2. **Okultystyczne fascynacje autora** [FAKT]
+**Typ:** BOMBSHELL | **Źródło:** au-research_dark_drama | **Wiarygodność:** 95%
+Reymont był medium spirytystycznym około 1890 roku, uczestniczył w kongresie Towarzystwa Teozoficznego w Anglii, co wpłynęło na mistyczne warstwy powieści.
+
+### 3. **Film 2023 z ratingiem R** [FAKT]
+**Typ:** BOMBSHELL | **Źródło:** au-research_dark_drama | **Wiarygodność:** 100%
+Najnowsza adaptacja otrzymała rating R za przemoc włącznie z gwałtem, seksualność i pełną nagość - co pokazuje brutalność oryginału często pomijaną w dyskusjach.
+
+### 4. **System trzech narratorów** [FAKT]
+**Typ:** ANALYSIS | **Źródło:** au-research_writing_innovation | **Wiarygodność:** 100%
+Kazimierz Wyka wyróżnił przełomową strukturę: wsiowy gaduła (gwarowy), stylizator młodopolski (poetycki) i realistyczny obserwator - technika wyprzedzająca epokę.
+
+### 5. **Polityczna intryga wokół Nobla** [SPÓR]
+**Typ:** BOMBSHELL | **Źródło:** au-research_dark_drama | **Wiarygodność:** 70%
+Stefan Żeromski został rzekomo odrzucony przez Szwedzką Akademię za "antyniemieckie sentymenty", podczas gdy Reymont był "bezpieczniejszy" politycznie.
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — LOKALNY (Polski ekspert)
-Jesteś Katarzyną, polską etnografką i badaczką kultury ludowej z Uniwersytetu Warszawskiego. Masz 42 lata, pochodzisz z Łowicza, twoja babcia nosiła tradycyjny strój łowicki. Znasz każdy szczegół polskiej tradycji wiejskiej, dialekty regionalne, obrzędy i zwyczaje. Fascynuje cię, jak Reymont uchwycił duszę polskiej wsi. Mówisz z pasją o łowickich pasiastych spódnicach, koralach, tradycyjnych weselach. Używasz polskich wyrażeń typu "No proszę!", "Ależ to ciekawe!", czasem cytujesz fragmenty po polsku. Twój ton jest ciepły, nostalgiczny, pełen miłości do rodzimej kultury. Przedstawiasz Chłopów jako skarb narodowy, który świat dopiero odkrywa.
+**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
 
-### Prowadzący B — GLOBALNY (Międzynarodowy krytyk)
-Jesteś Jamesem, brytyjskim krytykiem literackim i profesorem comparative literature z Oxfordu. Masz 38 lat, specjalizujesz się w literaturze środkowoeuropejskiej. Fascynuje cię uniwersalność tematów Reymonta - jak lokalna historia staje się globalną. Porównujesz Chłopów do Hardy'ego, Zoli, Steinbecka. Mówisz o cottagecore movement, Stardew Valley, współczesnym powrocie do natury. Twój brytyjski akcent i akademicki styl kontrastuje z emocjonalnością Katarzyny. Używasz zwrotów jak "Fascinating parallel", "Rather intriguing", "One might argue". Widzisz w Chłopach nie polski fenomen, ale uniwersalną opowieść o człowieku i ziemi, która rezonuje od TikToka po gaming culture.
+### Prowadzący A — Profesor Jerzy (Filolog)
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+
+"Jesteś specjalistą od poetyki i edytorstwa. Analizujesz rewolucyjny system trzech narratorów Reymonta - wsiowego gaduły, stylizatora młodopolskiego i realistycznego obserwatora. Definiujesz terminy precyzyjnie: czym jest 'epopeja chłopska', jak działa 'cykliczność sezonowa' w strukturze narracji. Wskazujesz warianty tekstu między wydaniami, cytujesz edycje krytyczne. Szczególnie podkreślasz innowacje: dialektalna proza artystyczna, orkiestralne efekty masowe, synkretyzm stylistyczny. Odnosisz się do teorii Kazimierza Wyki. Mówisz blokami 4-6 zdań, precyzyjnie. Kończysz pytaniem do Natalii o klarowność lub prośbą o przykład dla laika."
+
+### Prowadzący B — Natalia (Asystentka/Studentka)
+Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+
+"Jesteś moderatorką-studentką filologii. Tłumaczysz trudne pojęcia Profesora własnymi słowami dla zwykłego słuchacza. Prosisz o konkretne przykłady z tekstu - jak wygląda 'wsiowy gaduła' w praktyce? Czym różni się opis Jagny przez stylizatora młodopolskiego od realistycznego obserwatora? Dopytuj o kontrowersje: okultyzm Reymonta, teorie o Noblu, cenzurę carską. Pilnuj tempa - gdy Profesor za bardzo się zagłębia, prosisz o podsumowanie dla laika. Zwracasz uwagę na współczesną recepcję: film 2023 z ratingiem R, farming games, cottagecore. Podsumowujesz kluczowe punkty przed oddaniem głosu."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Część 1: Łowickie korzenie i Nobel (3 min) — rola: A — wątek: "Jak wieś pod Łowiczem stała się światowym fenomenem"
-Część 2: Uniwersalne archetypy i innowacje (3 min) — rola: B — wątek: "Od Junga do trzech narratorów - rewolucja literacka"
-Część 3: Polski folklor vs światowe adaptacje (3 min) — rola: A+B — wątek: "Pasiaste spódnice na ekranach świata"
-Część 4: Cottagecore i gaming - nieoczekiwany renesans (3 min) — rola: B — wątek: "Gdy Stardew Valley spotyka Reymonta"
-Część 5: Lokalne muzeum vs globalne kino (2 min) — rola: A+B — wątek: "Od Lipiec Reymontowskich do Sony Pictures"
+
+**Część 1: Geneza i kontrowersje** (3 min)
+- Rola: Jerzy wprowadza, Natalia dopytuje
+- Wątek: Wypadek kolejowy 1900, okultyzm Reymonta, polityka wokół Nobla
+
+**Część 2: Rewolucja warsztatowa** (4 min)
+- Rola: Jerzy wykłada system trzech narratorów
+- Wątek: Teoria Wyki, przykłady z tekstu, synkretyzm stylistyczny
+
+**Część 3: Archetypy i symbole** (3 min)
+- Rola: Natalia pyta o postacie, Jerzy analizuje
+- Wątek: Jagna-Femme Fatale, Boryna-Patriarcha, śmierć jako zjednoczenie z ziemią
+
+**Część 4: Brutalność pod powierzchnią** (2 min)
+- Rola: Natalia o filmie 2023, Jerzy o naturalizmie
+- Wątek: Rating R, samosąd nad Jagną, przemoc w oryginale
+
+**Część 5: Dziedzictwo i aktualność** (2 min)
+- Rola: Dialog o wpływie na literaturę
+- Wątek: Eugene O'Neill, współczesne farming games, uniwersalne prawdy
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## BLOK EDUKACYJNY (lektura szkolna)
-- **Definicje pojęć**: Dialektyzacja - artystyczne wykorzystanie gwary; Mowa pozornie zależna - narrator przyjmuje perspektywę bohatera; Synkretyzm - łączenie elementów chrześcijańskich i pogańskich
-- **3 pytania maturalne**:
-  1. Omów rolę przyrody w strukturze "Chłopów" Reymonta
-  2. Porównaj postaci Jagny i Hanki jako reprezentacje różnych modeli kobiecości
-  3. Wyjaśnij symbolikę śmierci Macieja Boryny na tle cyklu pór roku
-- **5 cytatów kanonicznych**:
-  1. "Ziemia, to nie kawałek pola tylko, to przecie jak matka rodzona"
-  2. "A dyć to chłop polski, gospodarz!"
-  3. "Nie ma to jak swój kąt i swoja zagroda"
-  4. "Jagna była jak ta wiosna..."
-  5. "Siał, jak mu ojce i dziady siały"
+
+### Kluczowe definicje:
+- **Epopeja chłopska** - gatunek stworzony przez Reymonta, łączący cechy eposu (bohater zbiorowy, monumentalność) z realizmem wiejskim
+- **System trzech narratorów** - technika narracyjna wyróżniona przez K. Wykę: wsiowy gaduła (gwarowy), stylizator młodopolski (poetycki), obserwator realistyczny
+- **Czas cykliczny vs linearny** - struktura powieści oparta na powtarzalnym rytmie natury (pory roku) vs nieodwracalnym biegu życia bohaterów
+
+### Pytania maturalne:
+1. Omów synkretyzm stylistyczny w "Chłopach" na przykładzie opisu śmierci Boryny
+2. Jak struktura sezonowa powieści wpływa na interpretację losów bohaterów?
+3. Porównaj kreację Jagny i Hanki jako przykład różnych strategii emancypacyjnych
+
+### Kanoniczne cytaty:
+1. "Ziemia, to jest religia chłopa" - esencja filozofii Boryny
+2. "W gromadzie żyję, to i z gromadą trzymam!" - Antek wyrzeka się Jagny
+3. "Sieję! Sieję!" - ostatnie słowa Boryny
+4. "Urodna kiej jałowica" - dosadny język opisu Jagny
+5. "Ziemia krwi potrzebuje" - brutalna prawda o życiu wsi
 
 ## METADANE PRODUKCYJNE
-- Tempo: 130 słów/min
-- Pauzy: [0:00 intro] [3:00 przejście] [6:00 dialog] [9:00 przejście] [12:00 climax] [14:00 outro]
-- Dżingle: Intro z motywem ludowym / Przejścia z dźwiękami natury / Outro z oberkiem łowickim
+
+- **Tempo mówienia:** 130-140 słów/min (dynamiczny dialog akademicki)
+- **Pauzy dramatyczne:** Po cytatach kluczowych, przed przykładami
+- **Dżingle:** Intro z motywem ludowym (3 sek), przejścia między częściami (2 sek), outro (5 sek)
+- **Efekty dźwiękowe:** Subtelne tło wiejskie przy cytatach (pianie koguta, szum wiatru)
+- **Balans głosów:** 55% Jerzy (wykład), 45% Natalia (pytania i podsumowania)
+
+---
+*Dokument AFA wygenerowany dla odcinka #005 serii NotebookLM*  
+*Format: Wykład filologiczny | Długość: 14 min | Data: 2025-09-09*

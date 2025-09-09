@@ -69,7 +69,7 @@ research_docs = [
 for doc in research_docs:
     doc_path = f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/{doc}"
     if exists(doc_path):
-        content = Read(doc_path, offset=1, limit=500)
+        content = Read(doc_path, offset=1, limit=400)
         ultrathink analyze_document(content, criteria_mapping[doc])
 
 
@@ -78,13 +78,13 @@ for doc in research_docs:
 review_path = f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/review.txt"
 
 # Część 1
-Read(file_path=review_path, offset=1, limit=400)
+Read(file_path=review_path, offset=1, limit=300)
 
 # Część 2
-Read(file_path=review_path, offset=401, limit=400)
+Read(file_path=review_path, offset=401, limit=300)
 
 # Część 3
-Read(file_path=review_path, offset=801, limit=400)
+Read(file_path=review_path, offset=801, limit=300)
 
 
 ## ETAP 3: Scoring według kryteriów A-I
@@ -305,24 +305,34 @@ with open(OUTPUT_CSV, 'r', encoding='utf-8') as f:
 
 ### 8.1 Odczyt promptów dla wybranego formatu
 ```python
-# Znajdź prompty A/B dla chosen_format w docs/audio_format/system_wyboru_formatu_audio.md
-# Formaty są numerowane 1-12:
-format_map = {
-    "Przyjacielska wymiana": 1,
-    "Mistrz i Uczeń": 2,
-    "Adwokat i Sceptyk": 3,
-    "Reporter i Świadek": 4,
-    "Współczesny i Klasyk": 5,
-    "Emocja i Analiza": 6,
-    "Lokalny i Globalny": 7,
-    "Fan i Nowicjusz": 8,
-    "Perspektywa Ona/On": 9,
-    "Wykład filologiczny": 10,
-    "Glosa do przekładów": 11,
-    "Komentarz historyczno-literacki": 12
-}
-format_num = format_map[chosen_format]
-# Odczytaj prompty A i B z dokumentacji
+# CRITICAL: Odczytaj DOKŁADNE imiona i role z docs/audio_format/system_wyboru_formatu_audio.md
+# Host A to ZAWSZE mężczyzna, Host B to ZAWSZE kobieta (WYJĄTEK: format 9 "Perspektywa Ona/On")
+
+# Odczytaj dokumentację systemu
+system_doc_path = "$CLAUDE_PROJECT_DIR/docs/audio_format/system_wyboru_formatu_audio.md"
+system_doc = Read(system_doc_path, offset=1, limit=500)
+
+# Znajdź sekcję z formatem chosen_format w dokumentacji
+# Wydobądź imiona i role dla prowadzących A i B
+# Format w dokumentacji:
+# **Host A = [Imię] ([płeć] - mów w pierwszej osobie w rodzaju [rodzaj]) „[Rola]"**
+# **Host B = [Imię] ([płeć] - mów w pierwszej osobie w rodzaju [rodzaj]) „[Rola]"**
+
+# Parsuj imiona i role z dokumentacji dla chosen_format
+# Przykład dla formatu "Wykład filologiczny":
+# Host A = Profesor Jerzy (mężczyzna) „Filolog"
+# Host B = Natalia (kobieta) „Asystent/Student"
+
+# Wszystkie formaty mają teraz spójne przypisanie:
+# Host A = zawsze mężczyzna
+# Host B = zawsze kobieta
+
+plec_A = "mężczyzna"
+rodzaj_A = "męskim"
+plec_B = "kobieta"
+rodzaj_B = "żeńskim"
+
+# Wydobądź prompty A i B z sekcji 2A dokumentacji
 ```
 
 ### 8.2 Wygeneruj kompletny dokument AFA
@@ -348,10 +358,14 @@ format_num = format_map[chosen_format]
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — {rola_A}
+**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta (WYJĄTEK: format "Perspektywa Ona/On" gdzie A=kobieta, B=mężczyzna)**
+
+### Prowadzący A — {imię_A} ({rola_A})
+Host A = {imię_A} ({płeć_A}). Mów w pierwszej osobie w rodzaju {rodzaj_A}.
 {prompt_A_dla_chosen_format}
 
-### Prowadzący B — {rola_B}
+### Prowadzący B — {imię_B} ({rola_B})
+Host B = {imię_B} ({płeć_B}). Mów w pierwszej osobie w rodzaju {rodzaj_B}.
 {prompt_B_dla_chosen_format}
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ

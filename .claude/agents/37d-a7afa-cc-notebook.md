@@ -1,10 +1,10 @@
 ---
 name: 37d-a7-notebook-audio
 description: |
-  NotebookLM Audio Generation Orchestrator - automated audio generation using MCP playwright-cdp.
+  NotebookLM Audio Generation Orchestrator - AFA generation using MCP playwright-cdp.
   Orchestrates complete audio generation workflow from TODOIT task retrieval to generation completion
-model: sonnet-4
-todo_list: true
+model: claude-sonnet-4-20250514
+todoit: true
 ---
 
 UWAGA: Używaj MCP playwright-cdp do automatyzacji interfejsu NotebookLM
@@ -26,7 +26,10 @@ Kroki orchestratora:
 // Znajdź zadania gdzie audio_gen jest pending (używamy find_subitems_by_status)
 pending_audio_tasks = mcp__todoit__todo_find_subitems_by_status(
   list_key: "cc-au-notebooklm",
-  conditions: {"audio_gen": "pending"},
+  conditions: {
+    "afa_gen": "completed",
+    "audio_gen": "pending"
+  },
   limit: 1
 )
 
@@ -95,98 +98,158 @@ ZAWSZE używaj TYLKO przycisku trzech kropek (⋮) dla customizacji!
 
 ⚠️ CRITICAL: NIE KLIKAJ w główny przycisk "Podsumowanie audio" - to rozpocznie generację z domyślnymi ustawieniami!
 
-// KROK 1: Znajdź przycisk trzech kropek (⋮ more_vert) OBOK "Podsumowanie audio"
-// Ten przycisk jest po prawej stronie głównego przycisku "Podsumowanie audio"
-mcp__playwright-cdp__browser_click(element: "Przycisk trzech kropek (more_vert) obok Podsumowanie audio", ref: "audio_more_vert_ref")
+// KROK 1: Znajdź przycisk EDIT (ikona ołówka) WEWNĄTRZ głównego przycisku "Podsumowanie audio"
+// Ten przycisk edit znajduje się wewnątrz struktury głównego przycisku "Podsumowanie audio"
+mcp__playwright-cdp__browser_click(element: "Edit button for audio customization", ref: "ref ze snapshota")
 
-// KROK 2: Po kliknięciu trzech kropek pojawi się menu - kliknij "Dostosuj" w tym menu: menuitem "Dostosuj"
-mcp__playwright-cdp__browser_click(element: "Dostosuj w rozwiniętym menu", ref: "dostosuj_ref")
-
-// KROK 3: Pojawi się formularz customizacji - poczekaj na jego załadowanie
+// KROK 2: Po kliknięciu przycisku edit otworzy się dialog "Dostosuj podsumowanie audio"
+// Poczekaj na załadowanie formularza customizacji
 mcp__playwright-cdp__browser_snapshot()
 
-5. Wybór formatu i wpisanie instrukcji
+5. Wybór formatu i wpisanie instrukcji - integracja z AFA
 
-// Analiza źródła i wybór odpowiedniego formatu audio
-// SOURCE_NAME zawiera nazwę książki (np. "0055_of_mice_and_men")
+// ETAP 5A: Odczyt analizy AFA dla książki
+afa_document_path = "books/" + SOURCE_NAME + "/docs/" + SOURCE_NAME + "-afa.md"
 
-// Sprawdź czy istnieją findings dla tej książki
-book_findings_path = SOURCE_NAME + "/docs/findings/"
-has_controversy = check_file_exists(book_findings_path + "au-research_dark_drama.md")
-has_philosophy = check_file_exists(book_findings_path + "au-research_symbols_meanings.md") 
-has_youth_content = check_file_exists(book_findings_path + "au-research_youth_digital.md")
+if (file_exists(afa_document_path)):
+  // Odczytaj dokument AFA aby wydobyć format i prompty
+  afa_content = Read(afa_document_path)
+  
+  // Wyodrębnij z AFA:
+  // 1. chosen_format (np. "Mistrz i Uczeń")
+  // 2. duration_min (np. 14)
+  // 3. Sekcja "## PROMPTY A/B DLA FORMATU"
+  // 4. Sekcja "## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ"
+  
+  chosen_format = extract_chosen_format(afa_content)  // np. "Mistrz i Uczeń"
+  duration_min = extract_duration(afa_content)        // np. 14
+  prompt_A = extract_prompt_A(afa_content)            // prompt dla prowadzącego A
+  prompt_B = extract_prompt_B(afa_content)            // prompt dla prowadzącego B
+  key_threads = extract_key_threads(afa_content)      // 5 głównych wątków
+  
+  // Zbuduj instrukcje na podstawie AFA
+  TIKTOK_INSTRUCTIONS_FROM_AFA = build_afa_instructions(chosen_format, duration_min, prompt_A, prompt_B, key_threads)
+  
+  selected_instructions = TIKTOK_INSTRUCTIONS_FROM_AFA
 
-// FORMAT 1: DYNAMICZNA ROZMOWA (domyślny dla książek przygodowych/młodzieżowych)
-TIKTOK_FORMAT_CONVERSATION = """
-CEL: 6-8 min dynamicznej rozmowy dwójki przyjaciół o książce. Naturalny flow, organiczne przejścia, energia typowa dla TikToka.
+else:
+  // FALLBACK: Jeśli brak AFA, użyj uproszczonej logiki
+  
+  book_findings_path = "books/" + SOURCE_NAME + "/docs/findings/"
+  has_controversy = check_file_exists(book_findings_path + "au-research_dark_drama.md")
+  has_philosophy = check_file_exists(book_findings_path + "au-research_symbols_meanings.md") 
+  has_youth_content = check_file_exists(book_findings_path + "au-research_youth_digital.md")
 
-PROWADZĄCY: Dwoje przyjaciół - naturalna chemii, czasem się nie zgadzają, używają prostego języka młodzieżowego (ale nie przesadzają).
+  // FALLBACK FORMAT: PRZYJACIELSKA WYMIANA (format 1)
+  FALLBACK_FORMAT = """
+CEL: """ + duration_estimate + """ min dynamicznej rozmowy dwójki przyjaciół o książce. Naturalny flow, organiczne przejścia, energia typowa dla TikToka.
+
+PROWADZĄCY: Dwoje przyjaciół - naturalna chemia, czasem się nie zgadzają, używają prostego języka młodzieżowego (ale nie przesadzają).
 
 STRUKTURA ELASTYCZNA:
 • HAK (0:00-0:15): Mocne otwarcie - kontrowersyjne stwierdzenie lub zaskakujące pytanie
 • ESENCJA (0:15-1:30): O czym książka + dlaczego wciąż aktualna w 2025
 • PING-PONG (1:30-5:00): Naturalna wymiana zdań, anegdoty, spory, przykłady z życia
-• FAKTY: Wplatane ORGANICZNIE co 60-90s (nie co 30s!) - tylko gdy pasują do rozmowy
+• FAKTY: Wplatane ORGANICZNIE co 60-90s - tylko gdy pasują do rozmowy
 • POLSKI KONTEKST: Odniesienia do polskiej popkultury, memy, sytuacje z polskiego życia
-• ZAMKNIĘCIE (5:30-6:00): Mocny punchline + pytanie do widzów
+• ZAMKNIĘCIE: Mocny punchline + pytanie do widzów
 
 TON: Lekki, energiczny, autentyczny. Jak rozmowa na korytarzu w szkole.
 """
+  
+  duration_estimate = "6-8"  // domyślny czas
+  selected_instructions = FALLBACK_FORMAT
 
-// FORMAT 2: KRYTYCZNA ANALIZA (dla klasyków i książek kontrowersyjnych)
-TIKTOK_FORMAT_CRITICAL = """
-CEL: 6-8 min pogłębionej analizy z konstruktywną krytyką. Balans między dostępnością a głębią, bez akademickiego tonu.
+// ETAP 5B: Funkcje pomocnicze do parsowania AFA
 
-PROWADZĄCY: Jeden analityk (rzeczowy, konkretny) + jeden sceptyk (zadaje trudne pytania, kwestionuje).
+function extract_chosen_format(afa_content):
+  // Znajdź linię: "- **Główny**: [NAZWA FORMATU] — [uzasadnienie]"
+  // Wyodrębnij nazwę formatu między "**: " a " —"
+  pattern = /\*\*Główny\*\*:\s*(.+?)\s*—/
+  match = afa_content.match(pattern)
+  return match ? match[1] : "Przyjacielska wymiana"
 
-STRUKTURA:
-• TEZA (0:00-0:30): Główna kontrowersja lub problem książki - od razu do rzeczy
-• KONTEKST (0:30-1:30): Historyczny/społeczny background - dlaczego to było ważne wtedy
-• ARGUMENTY ZA (1:30-3:00): Co działa, uniwersalne wartości, ponadczasowe tematy
-• ARGUMENTY PRZECIW (3:00-4:30): Problematyczne aspekty, co się zestarzało, krytyka
-• WSPÓŁCZESNOŚĆ (4:30-6:00): Jak to się ma do Polski 2025, paralele z Gen Z
-• WERDYKT (6:00-6:30): Zbalansowana ocena - czy warto czytać + pytanie do widzów
+function extract_duration(afa_content):
+  // Znajdź linię: "- **Długość**: XX min"
+  pattern = /\*\*Długość\*\*:\s*(\d+)\s*min/
+  match = afa_content.match(pattern)
+  return match ? parseInt(match[1]) : 8
 
-TON: Rzeczowy ale przystępny. Jak dobry podcast ale skondensowany.
-FAKTY: Konkretne dane, cytaty, liczby wspierające argumenty.
+function extract_prompt_A(afa_content):
+  // Znajdź sekcję "### Prowadzący A — [rola]" i wyodrębnij prompt
+  pattern = /### Prowadzący A[^`]*```([^`]+)```/s
+  match = afa_content.match(pattern)
+  return match ? match[1] : "Standardowy prompt A"
+
+function extract_prompt_B(afa_content):
+  // Znajdź sekcję "### Prowadzący B — [rola]" i wyodrębnij prompt
+  pattern = /### Prowadzący B[^`]*```([^`]+)```/s
+  match = afa_content.match(pattern)
+  return match ? match[1] : "Standardowy prompt B"
+
+function extract_key_threads(afa_content):
+  // Znajdź sekcję "## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ" i wyodrębnij 5 wątków
+  threads_section = extract_section(afa_content, "KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ")
+  // Parsuj wątki z format: "### N. Tytuł wątku"
+  return parse_threads(threads_section)
+
+function build_afa_instructions(format_name, duration, promptA, promptB, threads):
+  return """
+CEL: """ + duration + """ min rozmowy w formacie: """ + format_name + """
+
+PROWADZĄCY A: """ + promptA + """
+
+PROWADZĄCY B: """ + promptB + """
+
+KLUCZOWE WĄTKI DO OMÓWIENIA:
+""" + format_threads_for_notebooklm(threads) + """
+
+STRUKTURA CZASOWA:
+• Wprowadzenie (0:00-0:30): Przedstawienie tematu i formatu
+• Rozwój wątków (0:30-""" + (duration-2) + """:00): Omówienie kluczowych wątków
+• Zamknięcie (""" + (duration-2) + """:00-""" + duration + """:00): Podsumowanie i CTA
+
+TON: Dopasowany do wybranego formatu, naturalny dialog bez długich monologów.
 """
 
-// FORMAT 3: DEBATA PERSPEKTYW (dla książek z dylematami moralnymi)
-TIKTOK_FORMAT_DEBATE = """
-CEL: 5-6 min ostrej debaty z przeciwnych perspektyw. Edgy ale merytoryczne, emocjonujące starcie opinii.
+// ETAP 5D: Funkcje pomocnicze - implementacja
 
-PROWADZĄCY: "Adwokat" (broni książki/bohatera) vs "Prokurator" (atakuje/krytykuje). Ostre ale fair play.
-
-STRUKTURA:
-• STARCIE (0:00-0:20): Dwa przeciwne stanowiska wypowiedziane jednocześnie/na przemian
-• RUNDA 1 (0:20-1:30): Pierwszy mocny argument każdej strony + przykład
-• RUNDA 2 (1:30-3:00): Kontrargumenty - "ale przecież..." + nowe dowody
-• TWIST (3:00-3:30): Nieoczekiwany fakt lub perspektywa zmieniająca wszystko
-• RUNDA 3 (3:30-4:30): Ostatnie, najmocniejsze argumenty obu stron
-• ROZSTRZYGNIĘCIE (4:30-5:00): "Sędzią jesteście wy" - oddanie głosu widzom + CTA
-
-TON: Intensywny, pasjonujący. Jak prawdziwa kłótnia ale z szacunkiem.
-DYNAMIKA: Szybkie przejścia, przerywanie sobie (ale nie chaotycznie), emocje.
-"""
-
-// Logika wyboru formatu na podstawie analizy źródła
-selected_format = ""
-
-if (has_controversy && has_philosophy):
-  // Książki z kontrowersyjnymi tematami i głębią filozoficzną
-  selected_format = TIKTOK_FORMAT_CRITICAL
+function extract_section(content, section_name):
+  // Znajdź sekcję po nazwie i zwróć jej zawartość do następnej sekcji ##
+  start_pattern = "## " + section_name
+  end_pattern = "## "
   
-elif (SOURCE_NAME contains ["crime", "murder", "death"] || has_controversy):
-  // Książki z dylematami moralnymi, przemocą, trudnymi wyborami
-  selected_format = TIKTOK_FORMAT_DEBATE
+  start_index = content.indexOf(start_pattern)
+  if (start_index == -1) return ""
   
-elif (has_youth_content || SOURCE_NAME contains ["adventure", "fantasy", "young"]):
-  // Książki młodzieżowe, przygodowe, fantasy
-  selected_format = TIKTOK_FORMAT_CONVERSATION
+  next_section = content.indexOf(end_pattern, start_index + start_pattern.length)
+  if (next_section == -1) next_section = content.length
   
-else:
-  // Domyślny wybór dla pozostałych książek
-  selected_format = TIKTOK_FORMAT_CONVERSATION
+  return content.substring(start_index, next_section)
+
+function parse_threads(threads_section):
+  // Wyodrębnij wątki w formacie: "### 1. Tytuł wątku"
+  pattern = /###\s*\d+\.\s*(.+)/g
+  threads = []
+  let match
+  
+  while ((match = pattern.exec(threads_section)) !== null) {
+    threads.push(match[1])
+  }
+  
+  return threads.slice(0, 5)  // maksymalnie 5 wątków
+
+function format_threads_for_notebooklm(threads):
+  if (!threads || threads.length == 0) {
+    return "• Omówcie kluczowe aspekty książki zgodnie z waszą wiedzą"
+  }
+  
+  formatted = ""
+  for (i = 0; i < threads.length; i++) {
+    formatted += "• " + threads[i] + "\n"
+  }
+  
+  return formatted
 
 // Dodaj uniwersalną stopkę do wybranego formatu
 UNIVERSAL_FOOTER = """
@@ -195,7 +258,8 @@ UNIWERSALNE ZASADY (dla wszystkich formatów):
 • BRANDING: "37stopni" to nazwa systemu medialnego podcastów o literaturze, filmie, muzyce i grach - wymowa: "trzydzieści siedem stopni"
 • WPROWADZENIE: MUSI zawierać nazwę podcastu "trzydzieści siedem stopni" w pierwszych zdaniach. Przykłady:
   - "Dzisiaj w trzydziestu siedmiu stopniach omawiamy [tytuł] - kultową lekturę, która..."
-  - "Trzydzieści siedem stopni gorączki czytania! Dziś rozprawiamy o [tytuł] i zastanawiamy się..."  
+  - "Trzydzieści siedem stopni! Dziś rozprawiamy o [tytuł]..."  
+  - "Goorączki czytania! Dziś rozprawiamy o [tytuł]..."
   - "Witajcie w trzydziestu siedmiu stopniach - miejscu gdzie klasyka spotyka się z TikTokiem! Dziś na warsztat bierzemy [tytuł]..."
   - Możesz tworzyć własne warianty, ale ZAWSZE musisz wspomnieć "trzydzieści siedem stopni" na początku
 • ZAKOŃCZENIE: "Jeśli podobał wam się ten odcinek trzydziestu siedmiu stopni, koniecznie zostawcie komentarz! Znajdziecie nas na wszystkich platformach jako "37stopni" - Facebook, Instagram, YouTube i oczywiście TikTok. Więcej materiałów czeka na was na www.37stopni.info. Do usłyszenia w kolejnym odcinku gorączki czytania!"
@@ -206,7 +270,8 @@ UNIWERSALNE ZASADY (dla wszystkich formatów):
 • Humor mile widziany ale nie wymuszony - naturalne żarty gdy pasują
 """
 
-TIKTOK_INSTRUCTIONS = selected_format + UNIVERSAL_FOOTER
+// ETAP 5C: Finalizacja instrukcji z uniwersalną stopką
+TIKTOK_INSTRUCTIONS = selected_instructions + UNIVERSAL_FOOTER
 
 mcp__playwright-cdp__browser_type(
   element: "text area for audio customization",
@@ -252,7 +317,9 @@ Uwagi techniczne:
 - CRITICAL: Nazwa źródła w NotebookLM musi pasować 1:1 z parent.item_key z TODOIT (np. 0007_dune)
 - WARNING: Główny przycisk "Podsumowanie audio" od razu rozpoczyna generację - NIE KLIKAJ GO!
 - WARNING: Używaj tylko przycisku trzech kropek (⋮) obok "Podsumowanie audio" do customizacji
-- Tekst instrukcji TikTok-style jest stały dla wszystkich generacji
+- NEW: Instrukcje są dynamiczne i bazują na analizie AFA lub fallback dla książek bez AFA
+- NEW: Preferowany format i długość odcinka określane przez system AFA (12 formatów z rotacją)
+- NEW: Prompty A/B dostosowane do specyfiki książki i wybranego formatu dialogowego
 - Orchestrator wykonuje JEDEN pełny cykl generacji
 - NotebookLM pozwala na równoległe generowanie wielu audio
 - Weryfikacja opiera się na obecności wskaźników generacji w interfejsie
@@ -261,6 +328,9 @@ Uwagi techniczne:
 Obsługa błędów:
 
 - Brak źródła [SOURCE_NAME] → komunikat błędu i zakończenie
+- Brak dokumentu AFA → użycie fallback formatu "Przyjacielska wymiana"
+- Błędny format AFA → użycie fallback z logowaniem ostrzeżenia
+- Błąd parsowania promptów AFA → użycie standardowych promptów
 - Problemy z nawigacją → retry z browser_snapshot
 - Błędy kliknięcia → sprawdzenie overlay i retry z Escape
 - Brak wskaźników generacji → komunikat o niepowodzeniu
@@ -269,7 +339,9 @@ Obsługa błędów:
 Stan końcowy:
 
 - Źródło [SOURCE_NAME] zaznaczone w zakładce Źródła
-- Nowa generacja audio rozpoczęta z instrukcjami TikTok-style  
+- Nowa generacja audio rozpoczęta z instrukcjami opartymi na analizie AFA lub fallback
+- Format audio dobrany zgodnie z systemem AFA (12 formatów) lub fallback "Przyjacielska wymiana"
+- Prompty A/B dostosowane do specyfiki książki i wybranego formatu dialogowego
 - Subitem audio_gen dla [SOURCE_NAME] oznaczony jako completed w liście cc-au-notebooklm
 - Interfejs NotebookLM gotowy do kolejnych operacji
-- Raport o statusie generacji i aktualnym stanie systemu
+- Raport o statusie generacji, wybranym formacie i aktualnym stanie systemu

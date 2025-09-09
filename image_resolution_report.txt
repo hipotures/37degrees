@@ -1,26 +1,10 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: nie, 7 wrz 2025, 19:20:20 CEST
+Date: wto, 9 wrz 2025, 21:48:36 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
-0081_the_jungle_book - 22
-0089_twenty_thousand_leagues_under_the_sea - 22
-0103_one_thousand_and_one_nights - 24
-0104_the_canterbury_tales - 23
-0105_a_christmas_carol - 24
-0108_candide - 22
-0109_faust - 23
-0110_oedipus_rex - 20
-0111_a_dolls_house - 1
-0112_ulysses - 0 (empty directory)
-0113_all_quiet_on_the_western_front - 0 (empty directory)
-0114_the_diary_of_anne_frank - 0 (empty directory)
-0115_mahabharata - 0 (empty directory)
-0116_ramayana - 0 (empty directory)
-0117_aeneid - 0 (empty directory)
-0118_the_republic - 0 (empty directory)
 0119_the_art_of_war - 0 (empty directory)
 0120_the_prince - 0 (empty directory)
 0121_essays - 0 (empty directory)
@@ -60,25 +44,9 @@ Phases to run: 2
 0154_mother_courage_and_her_children - 0 (empty directory)
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 53
+Books with incomplete/incorrect images: 37
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0081_the_jungle_book
-0089_twenty_thousand_leagues_under_the_sea
-0103_one_thousand_and_one_nights
-0104_the_canterbury_tales
-0105_a_christmas_carol
-0108_candide
-0109_faust
-0110_oedipus_rex
-0111_a_dolls_house
-0112_ulysses
-0113_all_quiet_on_the_western_front
-0114_the_diary_of_anne_frank
-0115_mahabharata
-0116_ramayana
-0117_aeneid
-0118_the_republic
 0119_the_art_of_war
 0120_the_prince
 0121_essays
@@ -118,22 +86,6 @@ Books with incomplete/incorrect images: 53
 0154_mother_courage_and_her_children
 
 === MISSING SCENES TO BE SET TO PENDING ===
-0081_the_jungle_book: 3 missing scenes (0005, 0006, 0024)
-0089_twenty_thousand_leagues_under_the_sea: 3 missing scenes (0002, 0021, 0025)
-0103_one_thousand_and_one_nights: 1 missing scenes (0024)
-0104_the_canterbury_tales: 2 missing scenes (0002, 0005)
-0105_a_christmas_carol: 1 missing scenes (0012)
-0108_candide: 3 missing scenes (0005, 0017, 0024)
-0109_faust: 2 missing scenes (0014, 0015)
-0110_oedipus_rex: 5 missing scenes (0002, 0006, 0015, 0016, 0021)
-0111_a_dolls_house: 24 missing scenes (0002, 0003, 0004, 0005, 0006, 0007, 0008, 0009, 0010, 0011, 0012, 0013, 0014, 0015, 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025)
-0112_ulysses: 25 missing scenes (0001-0025 (all - completely empty directory))
-0113_all_quiet_on_the_western_front: 25 missing scenes (0001-0025 (all - completely empty directory))
-0114_the_diary_of_anne_frank: 25 missing scenes (0001-0025 (all - completely empty directory))
-0115_mahabharata: 25 missing scenes (0001-0025 (all - completely empty directory))
-0116_ramayana: 25 missing scenes (0001-0025 (all - completely empty directory))
-0117_aeneid: 25 missing scenes (0001-0025 (all - completely empty directory))
-0118_the_republic: 25 missing scenes (0001-0025 (all - completely empty directory))
 0119_the_art_of_war: 25 missing scenes (0001-0025 (all - completely empty directory))
 0120_the_prince: 25 missing scenes (0001-0025 (all - completely empty directory))
 0121_essays: 25 missing scenes (0001-0025 (all - completely empty directory))

@@ -3,190 +3,156 @@
 
 ## METRYKA DZIEŁA
 
-**Tytuł**: The Great Gatsby / Wielki Gatsby
-**Autor**: F. Scott Fitzgerald
-**Rok wydania**: 1925
-**Gatunek**: Powieść modernistyczna
-**Czas czytania**: 6-8 godzin
-**Liczba tłumaczeń**: ~100 (klasyka światowa)
+- **Tytuł**: The Great Gatsby / Wielki Gatsby
+- **Autor**: F. Scott Fitzgerald
+- **Rok wydania**: 1925
+- **Gatunek**: Powieść modernistyczna
+- **Tłumaczenia**: 100 wersji językowych
+- **Polski kontekst**: Liczne tłumaczenia (Demkowska-Bohdziewicz, Jacek Dehnel), adaptacje teatralne (Kraków 2024, Bydgoszcz 2011), lektura szkolna
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
-### A. Kontrowersyjność (4/5)
-- Liczne kontrowersje biograficzne (alkoholizm, próby samobójcze Fitzgeralda)
-- Skandale małżeńskie i romans Zeldy
-- Cenzura w USA (Baptist College 1987, Alaska 2020)
-- Przemoc domowa w fabule (Tom-Myrtle)
-**Uzasadnienie**: Wielowymiarowe kontrowersje, ale głównie w USA, nie globalnie.
+**A. KONTROWERSYJNOŚĆ**: 4/5
+- Alkoholizm Fitzgeralda (8 hospitalizacji 1933-1937)
+- Próby samobójcze autora (wielokrotne, szczególnie po artykule 1936)
+- Plagiat prac żony Zeldy (całe fragmenty z listów i pamiętnika)
+- Choroba psychiczna Zeldy (schizophrenia, instytucje psychiatryczne)
+- Homofobiczne oskarżenia o romans z Hemingwayem
+- Cenzura w szkołach USA (Baptist College 1987, Alaska 2020)
 
-### B. Głębia filozoficzna (5/5)
-- Archetypy Junga: ≥3 (Anima/Animus, tragiczny bohater, monomit)
-- Symbolika religijna/mitologiczna: Oczy Eckleburga jako Bóg, Eden, Faust
-- Warstwy interpretacyjne: ≥3 (społeczna, psychologiczna, feministyczna, postkolonialna)
-- Metafory egzystencjalne: śmierć, czas, nostalgia, pustka
-**Uzasadnienie**: Maksymalna głębia interpretacyjna, wielopoziomowa symbolika.
+**B. GŁĘBIA FILOZOFICZNA**: 5/5
+- ✓ Archetypy Junga ≥3: Tragiczny bohater (Fajton, Odyseusz), Anima (Daisy jako projekcja), Samostworzenie
+- ✓ Symbolika religijna/mitologiczna: Oczy dr. Eckleburga jako nieobecny Bóg, Eden, Faust, Narcyz
+- ✓ Warstwy interpretacyjne ≥3: Krytyka amerykańskiego snu, tragedia modernistyczna, studium psychologiczne, analiza mitologiczna
+- ✓ Metafory egzystencjalne: "boats against the current", zielone światło, Dolina Popiołów
 
-### C. Fenomen kulturowy (5/5)
-- Adaptacje filmowe (1926, 1949, 1974, 2013)
-- Broadway 2024, muzyka (Jay-Z, Beyoncé)
-- #GreatGatsbyAesthetic - 9.9M postów TikTok
-- Turystyka literacka na Long Island
-**Uzasadnienie**: Kultowa pozycja z ciągłą recepcją przez wiele epok.
+**C. FENOMEN KULTUROWY**: 5/5
+- Liczne adaptacje filmowe (1926, 1949, 1974, 2013 z DiCaprio)
+- Broadway musical 2024 z muzyką Florence Welch
+- Soundtrack z Jay-Z, Kanye West, Beyoncé
+- Symbol Ery Jazzu, memy internetowe, Old Money Aesthetic
 
-### D. Współczesna recepcja (4/5)
-- #OldMoneyAesthetic trend (83M views)
-- Paralele do Gen Z (housing crisis, wealth gap)
-- Immersive theater experiences
-- Edukacja (lektury, matura)
-**Uzasadnienie**: Silna obecność edukacyjna i tematyczna, umiarkowana w social media.
+**D. WSPÓŁCZESNA RECEPCJA**: 4/5
+- Umiarkowana obecność na BookTok (nie mainstream)
+- Silne paralele Gen Z: housing crisis, wealth inequality, student debt
+- Old Money Aesthetic trend (83M wyświetleń TikTok)
+- #GreatGatsbyAesthetic (9.9M postów)
 
-### E. Polski kontekst (4/5)
-- Pierwsze wydanie 1965, tłumaczenia Demkowska-Bohdziewicz, Dehnel
-- Adaptacje teatralne (Kraków 2024, Bydgoszcz 2011)
-- Poziom liceum/technikum, maturalne analizy
-- "Gatsby-owski" jako polski przymiotnik
-**Uzasadnienie**: Uznana pozycja z adaptacjami, ale nie obowiązkowa lektura.
+**E. POLSKI KONTEKST**: 4/5
+- Wielokrotne tłumaczenia wysokiej jakości
+- Teatr Słowackiego Kraków 2024, reż. Jakub Roszkowski
+- Lektura szkolna, analiza na maturze
+- "Gatsby-owski" w polszczyźnie
 
-### F. Aktualność (5/5)
-- Trafne przewidywania (koncentracja bogactwa, krach 1929)
-- Great Gatsby Curve - teoria ekonomiczna
-- Kultura influencerów = Gatsby's parties
-- Red flags w związkach - uniwersalne wzorce
-**Uzasadnienie**: Tematy bardziej aktualne niż kiedykolwiek.
+**F. AKTUALNOŚĆ**: 5/5
+- Great Gatsby Curve - teoria ekonomiczna nazwana od książki
+- Przewidywania o kryzysie spełnione (1929, 2008)
+- Social media jako współczesne performatywne tożsamości
+- Nierówności większe niż w latach 20.
 
-### G. Innowacyjność (5/5)
-- Rewolucyjna dual perspective narratora
-- Techniki kinematograficzne w prozie
-- System symboliki kolorów
-- T.S. Eliot: "pierwszy krok od Henry'ego Jamesa"
-**Uzasadnienie**: Przełom techniczny i wpływ na cały gatunek.
+**G. INNOWACYJNOŚĆ**: 5/5
+- Rewolucyjne techniki narracyjne (podwójna perspektywa)
+- Pierwsze techniki kinematograficzne w literaturze
+- Kompleksowy system symboliki kolorów
+- Wpływ na całe pokolenia pisarzy
 
-### H. Złożoność strukturalna (5/5)
-- 9 rozdziałów z precyzyjną strukturą dramatyczną
-- Retrospekcje i fragmentaryczna narracja
-- Meta-poziomy (Nick opowiada o Gatsbym tworzącym siebie)
-- Kontrolowane tempo i napięcie
-**Uzasadnienie**: Wielowątkowość, skomplikowana kompozycja, metapoziomy.
+**H. ZŁOŻONOŚĆ STRUKTURALNA**: 5/5
+- Niechronologiczna narracja z retrospekcjami
+- Problem wiarygodności narratora
+- 9 rozdziałów o strukturze dramatycznej
+- Gęsta sieć symboli i motywów
 
-### I. Relacje i role społeczne (4/5)
-- Przemoc domowa (Tom-Myrtle)
-- Toxic relationships jako główny temat
-- Różnice w odbiorze płci (Daisy vs Jordan)
-- Platform sensitivity wobec gender issues
-**Uzasadnienie**: Silne wątki gender, ale nie dominujące nad klasą.
+**I. RELACJE I ROLE SPOŁECZNE**: 4/5
+- Daisy w "złotej klatce" patriarchatu
+- Jordan Baker jako "nowa kobieta" lat 20.
+- Przemoc domowa Tom-Myrtle
+- Klasowe bariery i gender dynamics
 
-**SUMA: 41/45 | Percentyl: 91%**
+**SUMA: 41/45 | Percentyl: 85%**
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — Maksymalna głębia analityczna dla dzieła o rewolucyjnej innowacyjności
-- **Alternatywny**: Glosa do przekładów
-- **Długość**: 14 minut (suma=41, H=5)
-- **Uzasadnienie**: Połączenie rewolucyjnej innowacyjności (G=5) i głębi filozoficznej (B=5) idealnie nadaje się do akademickiej analizy
+- **Główny**: Wykład filologiczny — G=5 (innowacyjność) i B=5 (głębia) idealnie pasują do akademickiej analizy
+- **Alternatywny**: Mistrz i Uczeń
+- **Długość**: 14 min (suma=41, H=5)
+- **Uzasadnienie**: Rewolucyjne techniki pisarskie Fitzgeralda (narracja, symbolika, struktura) oraz filozoficzna głębia (archetypy, mitologia) wymagają filologicznego podejścia
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
-### 1. Gatsby jako influencer avant la lettre
-- **Tytuł**: "Instagram parties w latach 20."
-- **Label**: [FAKT]
-- **Type**: BOMBSHELL
-- **Source**: au-research_youth_digital.md
-- **Certainty**: 95%
+1. **Narrator jako kreator mitu** [FAKT] — BOMBSHELL — Nick Carraway nie jest obiektywnym świadkiem, lecz twórcą romantycznego mitu "Wielkiego Gatsby'ego" (źródło: symbols_meanings, 95%)
 
-### 2. Prohibicja jako źródło fortuny
-- **Tytuł**: "Bootlegging - mroczna strona American Dream"
-- **Label**: [FAKT]
-- **Type**: CONTEXT
-- **Source**: au-research_facts_history.md
-- **Certainty**: 100%
+2. **Spinki z ludzkich zębów** [FAKT] — CONTEXT — Meyer Wolfsheim, pierwowzór Arnold Rothstein, który naprawił World Series 1919, nosi spinki z "najlepszych okazów ludzkich zębów trzonowych" (źródło: facts_history, 100%)
 
-### 3. Fitzgerald przewidział krach 1929
-- **Tytuł**: "Prorocza wizja upadku prosperity"
-- **Label**: [HIPOTEZA]
-- **Type**: ANALYSIS
-- **Source**: au-research_reality_wisdom.md
-- **Certainty**: 70%
+3. **Fitzgerald plagiatował żonę** [FAKT] — BOMBSHELL — Systematycznie używał całych fragmentów z listów i pamiętnika Zeldy bez jej zgody, sama nazwała to "plagiatem zaczynającym się w domu" (źródło: dark_drama, 100%)
 
-### 4. Nick Carraway jako queer character
-- **Tytuł**: "Ukryta seksualność narratora"
-- **Label**: [SPÓR]
-- **Type**: BOMBSHELL
-- **Source**: au-research_symbols_meanings.md
-- **Certainty**: 60%
+4. **Prohibicja jako fundament fabuły** [FAKT] — ANALYSIS — Gatsby mógł zdobyć fortunę tylko dzięki prohibicji i przemytowi alkoholu, co czyni całą historię produktem konkretnego momentu historycznego (źródło: facts_history, 95%)
 
-### 5. Zelda jako prawdziwa autorka
-- **Tytuł**: "Plagiat czy współautorstwo?"
-- **Label**: [SPÓR]
-- **Type**: CONTEXT
-- **Source**: au-research_dark_drama.md
-- **Certainty**: 50%
+5. **Queer reading Nicka** [HIPOTEZA] — ANALYSIS — Współczesna teoria queer interpretuje Nicka jako zakochanego w Gatsbym, scena z McKee w rozdziale 2 sugeruje homoseksualne napięcie (źródło: symbols_meanings, 75%)
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — Akademik-Literaturoznawca
-Jesteś profesorem literatury amerykańskiej, specjalistą od modernizmu. Analizujesz "Wielkiego Gatsby'ego" przez pryzmat technik narracyjnych, innowacji stylistycznych i kontekstu historycznego. Używasz precyzyjnego języka akademickiego, ale potrafisz go przełożyć na zrozumiałe przykłady. Fascynuje cię warsztat Fitzgeralda - dual perspective, symbolika kolorów, fragmentaryczna narracja. Cytuj kluczowe fragmenty i omawiaj ich konstrukcję.
+**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
 
-### Prowadzący B — Krytyk-Kulturoznawca
-Jesteś krytykiem kulturowym, badaczem współczesnej recepcji klasyki. Interesuje cię, jak "Gatsby" rezonuje z Gen Z, paralele do influencer culture, TikTok trends (#OldMoneyAesthetic). Analizujesz uniwersalne wzorce - toxic relationships, obsesja, performatywna tożsamość. Zadajesz prowokacyjne pytania o aktualność tekstu. Wskazujesz na housing crisis, wealth gap jako współczesne wcielenia tematów książki.
+### Prowadzący A — Profesor Jerzy (Filolog)
+
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+
+„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
+
+Analizuj rewolucyjne techniki Fitzgeralda: podwójną perspektywę narratora-świadka, fragmentaryczną kompozycję, system symboliki kolorów. Cytuj konkretne fragmenty pokazujące innowacje stylistyczne. Podkreślaj wpływ na rozwój powieści modernistycznej.
+
+### Prowadzący B — Natalia (Asystentka/Studentka)
+
+Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+
+„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
+
+Dopytuj o praktyczne zastosowanie teorii literackich. Proś o wyjaśnienie związku między technikami pisarskimi a uniwersalnymi tematami. Łącz analizę akademicką ze współczesnymi odniesieniami (social media, performatywność tożsamości).
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Część 1: Wprowadzenie i kontekst** (3 min) — rola: A
-- Fitzgerald jako kronikarz Jazz Age
-- Innowacje techniczne: dual narrator, cinematic techniques
-- Recepcja: od porażki do klasyka
+**Część 1: Narrator jako konstruktor mitu** (3 min) — rola: A — wątek: "Nick nie jest wiarygodny"
+- Profesor analizuje pierwszoosobową narrację i jej ograniczenia
+- Natalia dopytuje o konsekwencje dla interpretacji
 
-**Część 2: Anatomia American Dream** (3 min) — rola: B dopytuje
-- Gatsby jako self-made myth
-- Prohibicja i dark money
-- Paralele: tech billionaires, crypto fortunes
+**Część 2: System symboliczny** (3 min) — rola: B dopytuje — wątek: "Zielone światło i kolory"
+- Natalia pyta o znaczenie kolorów
+- Profesor wyjaśnia kompleksowy system: zielony, żółty, biały, szary
 
-**Część 3: Symbolika i warsztat** (3 min) — rola: A prowadzi
-- System kolorów (zielone światło, żółty samochód)
-- Oczy Eckleburga - absent God
-- Fragmentaryczna narracja jako metoda
+**Część 3: Techniki kinematograficzne** (3 min) — rola: A — wątek: "Montaż i cięcia"
+- Profesor pokazuje pierwsze użycie technik filmowych w literaturze
+- Natalia łączy z współczesnym storytellingiem
 
-**Część 4: Relacje toksyczne** (3 min) — rola: B analizuje
-- Tom-Myrtle: przemoc i władza
-- Gatsby-Daisy: obsesja vs miłość
-- Red flags uniwersalne dla Gen Z
+**Część 4: Archetypy i mitologia** (3 min) — rola: B dopytuje — wątek: "Gatsby jako Fajton"
+- Natalia pyta o uniwersalność postaci
+- Profesor analizuje archetypy Junga i mity
 
-**Część 5: Polski kontekst i podsumowanie** (2 min) — dialog A+B
-- Adaptacje teatralne (Kraków 2024)
-- Transformacja lat 90. jako parallel
-- Dlaczego warto czytać w 2025?
+**Część 5: Wpływ i dziedzictwo** (2 min) — rola: A+B — wątek: "Od Hemingwaya po TikTok"
+- Dialog o wpływie na literaturę i kulturę popularną
+- Podsumowanie: dlaczego wciąż aktualne
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (LEKTURA SZKOLNA)
 
-### Definicje kluczowych pojęć:
-1. **Dual perspective narrator** - narrator jednocześnie uczestnik i obserwator
-2. **Nouveau riche** - nowi bogacze bez klasowego obycia
-3. **Bootlegging** - przemyt alkoholu w czasach prohibicji
-4. **American Dream** - mit o nieograniczonych możliwościach awansu
-5. **Lost Generation** - pokolenie stracone po I wojnie światowej
+### Kluczowe definicje:
+- **Narrator pierwszoosobowy uczestniczący** - opowiada historię, w której sam uczestniczy, ale nie jest głównym bohaterem
+- **Symbolika kolorystyczna** - użycie kolorów jako nośników znaczeń (zielony=nadzieja/pieniądze, biały=pozorna czystość)
+- **Amerykański sen** - mit o możliwości sukcesu przez ciężką pracę, niezależnie od pochodzenia
 
 ### Pytania maturalne:
-1. Omów funkcję symboliki kolorów w kreowaniu znaczeń w "Wielkim Gatsbym"
-2. Przeanalizuj postać Nicka Carraway'a jako narratora niewiarygodnego
-3. Jak Fitzgerald przedstawia konflikt między "starymi" a "nowymi pieniędzmi"?
+1. Omów rolę narratora w konstrukcji mitu "Wielkiego Gatsby'ego"
+2. Zanalizuj symbolikę zielonego światła w kontekście amerykańskiego snu
+3. Porównaj techniki narracyjne Fitzgeralda z innymi modernistami
 
 ### Kanoniczne cytaty:
 1. "So we beat on, boats against the current, borne back ceaselessly into the past"
 2. "Her voice is full of money"
 3. "I hope she'll be a fool—that's the best thing a girl can be in this world, a beautiful little fool"
 4. "They're a rotten crowd... You're worth the whole damn bunch put together"
-5. "Can't repeat the past? Why of course you can!"
+5. "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since"
 
 ## METADANE PRODUKCYJNE
-
-- **Tempo**: 130-140 słów/min
-- **Pauzy**: [2s] po cytatach, [1s] między wątkami
-- **Dżingle**: Intro jazzowe (20s), przejścia Charleston (5s), Outro melancholijne (15s)
-- **Efekty**: Echo na cytaty, ambient Jazz Age w tle
-- **Ton**: Akademicki z elementami popkulturowymi, balans między analizą a dostępnością
-
----
-*Dokument wygenerowany: 2025-09-08*
-*Agent: 37d-afa-audio-format-analyzer*
-*Status: Completed*
+- Tempo: 130 słów/min (akademickie, ale przystępne)
+- Pauzy: [0:45] po definicjach, [2:30] zmiana tematu, [5:00] przykład
+- Dżingle: Intro klasyczne/Przejścia subtelne/Outro refleksyjne
+- Edycje krytyczne: Fitzgerald, F.S. (1991). *The Great Gatsby: The Cambridge Edition*. Ed. Matthew J. Bruccoli

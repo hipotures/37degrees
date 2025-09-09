@@ -3,174 +3,138 @@
 
 ## METRYKA DZIEŁA
 
-**Tytuł**: Emma  
-**Autor**: Jane Austen  
-**Rok publikacji**: 1815  
-**Gatunek**: Powieść obyczajowa, romans  
-**Przekłady**: 174 języki  
-**Czas czytania**: 12-14 godzin  
+- **Tytuł / Autor**: Emma / Jane Austen
+- **Gatunek**: Powieść obyczajowa, romans
+- **Forma**: Proza
+- **Język oryginału**: Angielski
+- **Daty**: 1814-1815 (powstanie), grudzień 1815 (publikacja)
+- **Objętość**: 155,887 słów, 55 rozdziałów, 3 tomy
+- **Przekłady**: 174 tłumaczenia na języki świata
+- **Tradycja komentarza**: Liczne edycje krytyczne, główne szkoły interpretacyjne: feministyczna, postkolonialna, psychologiczna, LGBTQ+
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
 **A. KONTROWERSYJNOŚĆ**: 3/5
-- Teorie spiskowe o autorstwie (Nicholas Ennos)
-- Zniszczone listy przez siostrę Cassandrę
-- Ukrywany niepełnosprawny brat George
-- Skandale rodzinne (aresztowanie ciotki)
-*Uzasadnienie: Umiarkowane kontrowersje, głównie biograficzne, bez ciężkich skandali*
+- Teoria spiskowa o autorstwie (Nicholas Ennos) [HIPOTEZA]
+- Tajemniczy romans nad morzem 1801-1804 [SPÓR]
+- Zniszczone listy przez Cassandrę Austen [FAKT]
+- Teoria otrucia arsenem (2017) [HIPOTEZA]
+- Niechciana dedykacja dla znienawidzonego Księcia Regenta [FAKT]
+*Uzasadnienie: Jedna główna kontrowersja (zniszczone listy), pojedyncze teorie alternatywne.*
 
-**B. GŁĘBIA FILOZOFICZNA**: 4/5  
-- ✓ Archetypy Junga: integracja Anima/Animus, praca z Cieniem (Mrs. Elton)
-- ✓ Symbolika religijna/mitologiczna: motywy ratunkowe, symbolika miejsc
-- ✓ 3+ warstwy interpretacyjne: błędne postrzeganie, ograniczony świat kobiet, przedmioty-katalizatory
-- ✓ Metafory egzystencjalne: samopoznanie jako klucz do szczęścia
-*Uzasadnienie: Bogata symbolika i psychologiczne warstwy, ale nie na poziomie dzieł filozoficznych*
+**B. GŁĘBIA FILOZOFICZNA**: 4/5
+- Archetypy Junga ≥3: TAK (+2) - Emma/animus, Mrs. Elton jako Cień, rozwój psychospołeczny
+- Symbolika religijna/mitologiczna: TAK (+1) - inspiracje klasyczne, motywy antyczne
+- Warstwy interpretacyjne ≥3: TAK (+1) - feministyczna, postkolonialna, psychologiczna, LGBTQ+
+- Metafory egzystencjalne: NIE (0)
+*Uzasadnienie: Głęboka analiza psychologiczna, wielowarstwowość interpretacji.*
 
 **C. FENOMEN KULTUROWY**: 5/5
-- "Clueless" (1995) - fenomen kulturowy z własnym serialem TV
-- Liczne adaptacje (1996, 2009, 2020) 
+- "Clueless" (1995) - fenomen kulturowy trwający do dziś
+- Dziesiątki adaptacji filmowych i teatralnych (1948-2020)
 - #AustenTok - 16 milionów wyświetleń
-- Ciągła recepcja przez 200+ lat
-*Uzasadnienie: Absolutny fenomen z nieprzerwaną popularnością od XIX wieku*
+- Jane Austen Centre w Bath, festiwale, turystyka literacka
+*Uzasadnienie: Kultowa pozycja z ciągłością recepcji przez 200+ lat.*
 
 **D. WSPÓŁCZESNA RECEPCJA**: 5/5
-- BookTok revival - jeden z najpopularniejszych klasyków
-- Emma jako "original influencer" - silne parallele z social media
-- Viral content: "Emma red flags in modern dating"
-- Therapy TikTok analizuje jej "main character syndrome"
-*Uzasadnienie: Ekstremalnie aktualna dla Gen Z, idealne dopasowanie do kultury digital*
+- BookTok - 181,7 miliarda wyświetleń dla #BookTok
+- Emma jako archetype "social media influencer"
+- Therapy speak culture connections
+- "Clueless" jako most do Gen Z
+*Uzasadnienie: Bardzo wysoka edukacja/popularyzacja i wysokie media cyfrowe.*
 
 **E. POLSKI KONTEKST**: 2/5
-- Dostępna w polskim przekładzie
-- Nie jest lekturą szkolną
-- Brak znaczących polskich adaptacji
-- Ograniczona obecność w polskiej kulturze
-*Uzasadnienie: Minimalna obecność poza kręgiem miłośników literatury angielskiej*
+- Brak statusu lektury szkolnej
+- Ograniczona znajomość wśród polskiej młodzieży
+- Rozpoznawalność głównie przez "Clueless" i kulturę zachodnią
+*Uzasadnienie: Słaba obecność w polskim kontekście edukacyjnym.*
 
 **F. AKTUALNOŚĆ**: 5/5
-- Przewidywania o niezależności kobiet ✓
-- Małżeństwo z miłości ✓
-- Manipulacja w związkach - nadal aktualne
-- Social media influencer parallels
-*Uzasadnienie: Zaskakująco trafne przewidywania i uniwersalne prawdy o naturze ludzkiej*
+- Przewidywania o niezależności finansowej kobiet - sprawdzone
+- Toxic relationship patterns - uniwersalne
+- Dating red flags - ponadczasowe
+- Mental health themes - bardzo współczesne
+*Uzasadnienie: Tematy bardzo aktualne, szczególnie w kontekście relacji międzyludzkich.*
 
 **G. INNOWACYJNOŚĆ**: 4/5
-- Rewolucyjna technika wolnego dyskursu pośredniego
-- Pierwsza "nielubiana" bohaterka w literaturze
-- Wpływ na cały gatunek romance
-- Złożona struktura 3-tomowa
-*Uzasadnienie: Przełomowe innowacje narracyjne, ale w ramach istniejącego gatunku*
+- Rewolucja w narracji - wolny dyskurs pośredni
+- Wpływ na Joyce'a i Woolf
+- Niewiarygodny narrator
+- Koncentracja na psychologii postaci
+*Uzasadnienie: Przełom techniczny w literaturze.*
 
 **H. ZŁOŻONOŚĆ STRUKTURALNA**: 4/5
-- Trójdzielna struktura z jasnymi aktami dramatycznymi
-- Wielowątkowa fabuła z licznymi nieporozumieniami
-- Mistrzowskie wykorzystanie ironii
-- 55 rozdziałów, 155,887 słów
-*Uzasadnienie: Złożona, ale czytelna struktura, nie tak skomplikowana jak np. modernizm*
+- Trzy tomy = trzy akty dramatyczne
+- Wielowątkowość: Emma-Knightley, Harriet-Martin/Elton, Frank-Jane
+- Błędne postrzeganie jako główny temat strukturalny
+*Uzasadnienie: Umiarkowana do wysokiej złożoności.*
 
 **I. RELACJE I ROLE SPOŁECZNE**: 5/5
-- Emma jako studium "męskiej władzy" u kobiety
-- Głęboka analiza hierarchii klasowych
-- Manipulacja w przyjaźniach kobiecych
-- Toxic relationship patterns przed erą psychologii
-*Uzasadnienie: Wyjątkowo bogata eksploracja dynamiki płci i klas społecznych*
+- Silne wątki klasowego elitaryzmu
+- Emma jako problematyczna protagonistka z męską władzą
+- Gender dynamics - Emma vs tradycyjne role
+- Manipulacja w przyjaźniach kobieta-kobieta
+*Uzasadnienie: Bardzo silne wątki ról społecznych i różnic w odbiorze płci.*
 
-**SUMA: 37/45 | Percentyl: 71%**
+**SUMA: 37/45 | Percentyl: 82%**
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Naturalna rozmowa dwóch przyjaciółek odkrywających uniwersalne prawdy Emmy
-- **Alternatywny**: Fan i Nowicjusz
+- **Główny**: Przyjacielska wymiana — Eligible=[1, 4, 5, 6, 8, 9, 12]; max_weighted=19.0
+- **Alternatywny**: Reporter i Świadek
 - **Długość**: 12 min (suma=37, H=4)
-- **Uzasadnienie**: Format idealny dla współczesnej recepcji Emmy jako "original influencer" i jej aktualności dla kultury digital. Pozwala na lekkie, ale głębokie podejście do tematów manipulacji, social media parallels i toxic friendships.
+- **Uzasadnienie**: Format idealny dla pokazania Emma jako "original influencer" - lekki ton pozwoli na swobodne porównania z social media i kulturą digital, podczas gdy realizm partnera wprowadzi niezbędny kontekst historyczny i krytyczny.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
-### 1. Emma jako prekursorka influencerów (90% pewności)
-- **Tytuł**: "Original Social Media Queen"
-- **Label**: [FAKT]
-- **Type**: BOMBSHELL
-- **Source**: au-research_youth_digital.md
-- Emma's matchmaking = dzisiejsze lifestyle coaching na TikToku, jej manipulacje = toxic influencer behaviors
-
-### 2. Teoria spiskowa o prawdziwym autorze (45% pewności)
-- **Tytuł**: "Czy Jane naprawdę napisała Emmę?"
-- **Label**: [HIPOTEZA]
-- **Type**: CONTEXT
-- **Source**: au-research_dark_drama.md
-- Nicholas Ennos sugeruje, że prawdziwą autorką była hrabina Eliza de Feuillide
-
-### 3. Box Hill jako psychologiczny punkt zwrotny (95% pewności)
-- **Tytuł**: "Publiczne upokorzenie i przemiana"
-- **Label**: [FAKT]
-- **Type**: ANALYSIS
-- **Source**: review.txt
-- Scena okrutnej obrazy Miss Bates jako katalizator moralnego przebudzenia Emmy
-
-### 4. Clueless jako kulturowy reset Emmy (100% pewności)
-- **Tytuł**: "Od Highbury do Beverly Hills"
-- **Label**: [FAKT]
-- **Type**: BOMBSHELL
-- **Source**: au-research_culture_impact.md
-- Film z 1995 wprowadził Emmę do kultury popularnej na 30 lat
-
-### 5. Zniszczone listy i ukryte skandale (70% pewności)
-- **Tytuł**: "Co ukrywała rodzina Austen?"
-- **Label**: [SPÓR]
-- **Type**: CONTEXT
-- **Source**: au-research_dark_drama.md
-- Cassandra zniszczyła większość listów Jane po jej śmierci
+1. **Emma jako prototyp influencera** [FAKT] — "manipulatory matchmaker" = dzisiejsze dating coaches na TikToku (certainty: 95%)
+2. **"Clueless" jako kulturowy most** [FAKT] — adaptacja z 1995 nadal definiuje odbiór Emmy przez Gen Z (certainty: 100%)
+3. **Toxic friendship patterns** [FAKT] — Emma-Harriet = codependency, love bombing, gaslighting (certainty: 90%)
+4. **Mr. Knightley jako "green flag"** [FAKT] — szczerość > harmony, growth-oriented, consistent character (certainty: 85%)
+5. **Box Hill incident = viral drama** [HIPOTEZA] — dzisiaj byłby TikTok scandal z apology video (certainty: 70%)
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — Entuzjastyczna Przyjaciółka
-"Jestem energiczną, ciekawską osobą, która uwielbia odkrywać ukryte znaczenia w klasycznej literaturze. Mówię żywym, współczesnym językiem, często używam porównań do social media i popkultury. Zadaję dużo pytań, czasem przewrotnych. Lubię znajdować parallele między Emmą a współczesnym życiem - widzę w niej pierwszą influencerkę, toxic friend, ale też kogoś, kto przeszedł prawdziwą przemianę. Jestem jak ta przyjaciółka, która zawsze znajdzie głębsze znaczenie w pozornie prostej historii."
+**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
 
-### Prowadzący B — Refleksyjna Obserwatorka  
-"Jestem spokojniejsza, bardziej analityczna, ale też ciepła i empatyczna. Dostrzegam niuanse i złożoność postaci Emmy. Potrafię bronić kontrowersyjnych bohaterów, ale też wskazać ich wady. Lubię psychologiczne interpretacje i zastanawiam się nad uniwersalnymi prawdami o naturze ludzkiej. Często gram adwokata diabła, pokazując drugą stronę medalu. Mówię o Emmie jak o prawdziwej osobie, którą można spotkać dziś na Instagramie."
+### Prowadzący A — Andrzej (Entuzjasta)
+Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
+
+### Prowadzący B — Beata (Realista)
+Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-**Część 1: "Emma czy Influencerka?"** (2.5 min) — rola: A rozpoczyna — wątek: "Original Social Media Queen"
-*A entuzjastycznie przedstawia teorię Emmy jako pierwszej influencerki, B dodaje głębię psychologiczną*
-
-**Część 2: "Tajemnice Jane Austen"** (2.5 min) — rola: B prowadzi — wątek: "Zniszczone listy i teorie spiskowe"  
-*B eksploruje mroczne teorie, A dopytuje o dowody i wiarygodność*
-
-**Część 3: "Box Hill - cancel culture 1815?"** (2.5 min) — rola: A analizuje — wątek: "Publiczne upokorzenie"
-*A porównuje scenę do dzisiejszego public shamingu, B o przemianie i accountability*
-
-**Część 4: "Od Clueless do TikToka"** (2.5 min) — rola: B reflektuje — wątek: "Kulturowy fenomen"
-*B o ewolucji recepcji, A o tym dlaczego Emma wciąż trafia do Gen Z*
-
-**Część 5: "Czego Emma uczy o związkach?"** (2 min) — rola: Obie podsumowują — uniwersalne lekcje
-*Wspólna refleksja o red flags, toxic friendships i prawdziwej przemianie*
+**Część 1: Emma jako influencer** (3 min) — rola: A wprowadza — wątek: "manipulatory matchmaker = TikTok dating coach"
+**Część 2: Clueless connection** (2 min) — rola: B dopytuje — wątek: "Beverly Hills 1995 = Highbury 1815"
+**Część 3: Toxic patterns** (3 min) — rola: A rozwija — wątek: "red flags Emmy które Gen Z by zauważył"
+**Część 4: Mr. Knightley ideal** (2 min) — rola: B balansuje — wątek: "green flag boyfriend przed epoką therapy speak"
+**Część 5: Box Hill = cancel culture** (2 min) — rola: A+B wymiana — wątek: "public shaming wtedy i dziś"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (brak statusu lektury)
 
-### Kluczowe pojęcia:
-- **Free indirect discourse** - rewolucyjna technika narracyjna Austen
-- **Regency era** - kontekst historyczny (1811-1820)
-- **Social climbing** - dążenie do awansu społecznego (Harriet Smith)
-- **Matchmaking** - swatanie jako forma kontroli społecznej
+### Definicje pojęć:
+- **Wolny dyskurs pośredni**: technika narracyjna łącząca perspektywę narratora z myślami bohaterki
+- **Niewiarygodny narrator**: Emma błędnie interpretuje rzeczywistość, czytelnik musi sam ocenić prawdę
+- **Empire style**: moda epoki regencji - talia pod biustem, inspiracje antyczne
 
-### Cytaty kanoniczne:
+### Pytania do dyskusji:
+1. Czy Emma jest feministyczną bohaterką czy antyfeministyczną?
+2. Jak manipulacja w przyjaźni Emmy-Harriet odnosi się do współczesnych toksycznych relacji?
+3. Dlaczego "Clueless" tak dobrze przetłumaczyło Emmę na lata 90.?
+
+### Kanoniczne cytaty:
 1. "I am going to take a heroine whom no one but myself will much like"
-2. "If I loved you less, I might be able to talk about it more" 
+2. "If I loved you less, I might be able to talk about it more"
 3. "One half of the world cannot understand the pleasures of the other"
 4. "Silly things do cease to be silly if they are done by sensible people in an impudent way"
-5. "There are people who the more you do for them, the less they will do for themselves"
+5. "I always deserve the best treatment because I never put up with any other"
 
 ## METADANE PRODUKCYJNE
-
-- **Tempo**: 130-140 słów/min (dynamiczna wymiana)
-- **Pauzy**: [śmiech] przy odkryciach, [cisza] przy refleksjach
-- **Dżingle**: Lekki, nowoczesny - jak podcast lifestyle'owy
-- **Ton**: Swobodny, ale nie powierzchowny; zabawny, ale z głębią
-- **Dynamika**: Szybka wymiana zdań, naturalne przerywanie, autentyczne "aha moments"
-
----
-
-*Dokument AFA wygenerowany dla książki "Emma" Jane Austen*  
-*Format: Przyjacielska wymiana | Czas: 12 minut | Suma punktów: 37/45*
+- Tempo: 120-140 słów/min
+- Pauzy: [śmiech] po analogiach do TikToka, [cisza] po Box Hill
+- Dżingle: Intro upbeat/Przejścia dynamiczne/Outro refleksyjne
+- Ton: Swobodny, konwersacyjny, z elementami humoru i krytycznej refleksji
