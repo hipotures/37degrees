@@ -125,6 +125,8 @@ Guidelines for prohibited content and terms to avoid when creating scene descrip
 - Show consequences rather than acts
 - Use metaphor and symbolism
 
+**DLA OPISÓW SCEN 37d-a1 – METAFORY I SYMBOLIZM SĄ ZABRONIONE; stosuj wyłącznie elementy fizyczne**
+
 ### 2. Historical Context
 - When depicting historical events, focus on educational value
 - Avoid graphic details even in historical contexts

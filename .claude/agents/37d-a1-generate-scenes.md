@@ -175,10 +175,24 @@ After generating all scenes, you MUST perform verification:
 - For every scene, compare the character, location, and item descriptions with the entries in the canon.yaml file.
 - Verify that the description in the scene is an EXACT MATCH of the description_block from the corresponding entry in canon.yaml.
 
+**Third Verification (Abstract Concept Check) - CRITICAL:**
+Search ALL generated scenes for forbidden abstract patterns:
+- Use grep to find red flag words: "represents", "symbolizes", "reflects aspects", "metaphorically", "embodying"
+- Search for temporal abstractions: "past.*present.*future", "different periods", "stages of", "aspects of"
+- Look for divided objects: "divided into.*sections", "each.*reflecting", "parts showing"
+- Check for conceptual descriptions: "journey of", "representing", "symbolizing"
+
+If ANY abstract concepts are found:
+1. STOP immediately
+2. Replace abstract description with concrete physical details
+3. Focus on what's actually visible, not what it means
+4. Re-verify after corrections
+
 Verification must confirm:
 - Each scene can be understood in complete isolation.
 - All recurring elements in every scene are consistent with the canon.yaml file.
 - No usage of words like "nudity", "naked", "nude", "bare skin" or synonyms - replace with scenes showing characters clothed or from angles that don't reveal nudity.
+- NO abstract or metaphorical descriptions exist in any scene.
 
 ### 9. Location Completeness Verification - MANDATORY
 
@@ -273,6 +287,50 @@ Time Verification must confirm:
 
 This step ensures temporal accuracy and prevents AI from receiving contradictory time/weather information.
 
+## COMMON MISTAKES TO AVOID - CRITICAL SECTION
+
+### Frequently Occurring Errors in Scene Generation:
+
+**1. Abstract Surface Divisions:**
+❌ WRONG: "Mirror surface divided into three sections, each showing different aspect"
+✅ CORRECT: "Ornate bronze mirror with engraved border patterns"
+
+**2. Symbolic Time Representations:**
+❌ WRONG: "Clock face where numbers represent stages of life"
+✅ CORRECT: "Antique clock showing 3:15, Roman numerals on ivory face"
+
+**3. Metaphorical Object Arrangements:**
+❌ WRONG: "Books arranged to represent the journey from ignorance to wisdom"
+✅ CORRECT: "Stack of leather-bound books on mahogany desk"
+
+**4. Conceptual Visual Compositions:**
+❌ WRONG: "Scene composed to show the duality of human nature"
+✅ CORRECT: "Two figures facing each other across marble table"
+
+**5. Objects "Telling Stories":**
+❌ WRONG: "Painting that tells the story of the family's rise and fall"
+✅ CORRECT: "Oil painting of elderly man in military uniform"
+
+**6. Multiple Realities in Single Frame:**
+❌ WRONG: "Room where past and present coexist visually"
+✅ CORRECT: "Victorian parlor with faded wallpaper and dusty furniture"
+
+**7. Symbolic Light/Shadow:**
+❌ WRONG: "Light representing hope cutting through darkness of despair"
+✅ CORRECT: "Sunbeam entering through stained glass window"
+
+**8. Abstract Emotional Landscapes:**
+❌ WRONG: "Landscape reflecting character's inner turmoil"
+✅ CORRECT: "Storm clouds gathering over wheat field"
+
+### Quick Checklist Before Finalizing Any Scene:
+- [ ] Can this be photographed exactly as described?
+- [ ] Are all elements physically present and visible?
+- [ ] Does description avoid all red flag words?
+- [ ] Are mirrors/reflections showing only real objects that are physically in front of them, following laws of optics?
+- [ ] Is each detail concrete and observable?
+- [ ] Would an AI image generator understand this without interpretation?
+
 ## Important Guidelines
 
 Generate YAML data that will be used as prompts for AI image generation
@@ -343,6 +401,73 @@ Each scene represents a completely different moment from the story.
 **PHYSICAL ELEMENTS ONLY:** Describe what camera lens would capture
 - Good: "rope bridge spanning 50-foot gorge"
 - Bad: "moral dilemma"
+- Good: "bronze mirror reflecting soldier's face and armor"  
+- Bad: "mirror divided into sections showing past, present, future"
+- Good: "map with red pins marking cities"
+- Bad: "map representing the journey of life"
+- NO temporal concepts that can't be photographed (past/future in single frame)
+- NO metaphorical divisions or symbolic sections in objects
+- NO abstract representations of concepts through visual arrangement
+
+**CRITICAL ANTI-PATTERNS - ABSOLUTELY FORBIDDEN:**
+These abstract concepts MUST NEVER appear in scenes:
+
+**IMPORTANT DISTINCTION: The scene itself CAN be metaphorical, but its DESCRIPTION must be purely physical.**
+
+Example:
+- ✅ SCENE CONCEPT: "Soul tormented by anguish" (metaphorical concept)
+- ✅ PHYSICAL DESCRIPTION: "Storm-battered trees bending in fierce wind, branches snapping and falling to muddy ground"
+- ❌ ABSTRACT DESCRIPTION: "Trees representing the soul's torment, wind symbolizing inner anguish"
+
+**The rule: Describe WHAT you see, not WHAT IT MEANS.**
+
+❌ **Temporal Abstractions:**
+- "reflecting different aspects of time/campaign/life"
+- "showing past, present, and future simultaneously"  
+- "divided into sections representing different periods"
+- Any object "representing" or "symbolizing" abstract concepts
+
+❌ **Red Flag Words - If you write these, STOP and revise:**
+- "represents", "symbolizes", "reflects aspects of"
+- "metaphorically", "conceptually", "philosophically"
+- "divided into sections showing", "each part reflecting"
+- "simultaneously visible", "aspects of", "embodying"
+
+❌ **Abstract Visual Concepts:**
+- Objects divided to show multiple time periods
+- Mirrors showing anything except actual physical reflections
+- Arrangements "representing" ideas rather than being physical layouts
+- Visual metaphors or symbolic compositions
+
+❌ **REAL EXAMPLES FROM GENERATED SCENES - NEVER DO THIS:**
+- "Wax candle with dancing flame that flares and dies, metaphor for Anna's life"
+- "Locomotive represents destructive force of industrial modernity crushing traditional Russian life"
+- "Book represents Anna's intellectual hunger and dissatisfaction with empty social life"
+- "Beautiful thoroughbred mare, represents Anna herself - vulnerable creature destroyed"
+- "Young woman framed by elegant doorway, embodying domestic harmony"
+- "Figure embodying courage to change"
+- "Standing with arms outstretched toward infinite stars, embodying complete transcendence"
+- "Natural chaos reflecting emotional turmoil, the storm as metaphor for coming changes"
+- "Mechanical toys as metaphor for human fate"
+
+✅ **Instead, use concrete physical descriptions:**
+- Actual objects that exist in the scene
+- Real reflections of what's physically present
+- Tangible arrangements without symbolic meaning
+- Observable details without interpretive overlay
+
+**MIRROR AND REFLECTION RULES:**
+- Mirrors show ONLY what is physically in front of them at that moment
+- Reflections must obey laws of physics and optics
+- NO "magical" mirrors showing different times or places
+- NO divided surfaces showing multiple realities
+- If describing a reflection, describe the actual reflected object, not concepts
+
+Examples:
+- Good: "mirror reflecting woman's tired face and disheveled hair"
+- Bad: "mirror reflecting her past innocence and current wisdom"
+- Good: "polished shield surface showing distorted battlefield behind warrior"
+- Bad: "shield surface divided showing stages of the campaign"
 
 - Follow the exact structure and field requirements from scene-description-template.yaml
 - Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
