@@ -50,17 +50,41 @@ for book_dir in books/*/; do
         continue
     }
     
-    # Add audio_gen subitem
-    echo "  Adding audio_gen subitem..."
-    todoit item add --list "$TARGET_LIST" --item "$book_key" --subitem "audio_gen" --title "Audio generation" > /dev/null 2>&1 || true
+    # Language configuration
+    LANGUAGES=("pl" "en" "es" "pt" "hi" "ja" "ko" "de" "fr")
+    declare -A LANGUAGE_NAMES=(
+        ["pl"]="Polish"
+        ["en"]="English"
+        ["es"]="Spanish"
+        ["pt"]="Portuguese"
+        ["hi"]="Hindi"
+        ["ja"]="Japanese"
+        ["ko"]="Korean"
+        ["de"]="German"
+        ["fr"]="French"
+    )
     
-    # Add audio_dwn subitem  
-    echo "  Adding audio_dwn subitem..."
-    todoit item add --list "$TARGET_LIST" --item "$book_key" --subitem "audio_dwn" --title "Audio download" > /dev/null 2>&1 || true
-    
-    # Add afa_gen subitem
+    # Add afa_gen subitem (generates both PL and EN versions)
     echo "  Adding afa_gen subitem..."
     todoit item add --list "$TARGET_LIST" --item "$book_key" --subitem "afa_gen" --title "Audio format analysis generation" > /dev/null 2>&1 || true
+    
+    # Add audio_gen_XX subitems for each language
+    for lang in "${LANGUAGES[@]}"; do
+        lang_name="${LANGUAGE_NAMES[$lang]}"
+        echo "  Adding audio_gen_${lang} subitem (${lang_name})..."
+        todoit item add --list "$TARGET_LIST" --item "$book_key" \
+            --subitem "audio_gen_${lang}" \
+            --title "Audio generation - ${lang_name}" > /dev/null 2>&1 || true
+    done
+    
+    # Add audio_dwn_XX subitems for each language
+    for lang in "${LANGUAGES[@]}"; do
+        lang_name="${LANGUAGE_NAMES[$lang]}"
+        echo "  Adding audio_dwn_${lang} subitem (${lang_name})..."
+        todoit item add --list "$TARGET_LIST" --item "$book_key" \
+            --subitem "audio_dwn_${lang}" \
+            --title "Audio download - ${lang_name}" > /dev/null 2>&1 || true
+    done
     
     echo "  Completed: $book_key"
     ((count++))

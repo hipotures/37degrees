@@ -131,11 +131,30 @@ fi
 echo ""
 echo "2️⃣ Tworzę zadanie audio..."
 safe_add_item "audio" "Audio for video"
-safe_add_subitem "audio" "audio_dwn" "Audio download"
-safe_add_subitem "audio" "audio_gen" "Audio generation"
 
-# Set audio properties
-safe_set_property "audio" "audio_dwn" "dwn_pathfile" "books/$BOOK_FOLDER/audio/${BOOK_FOLDER}.m4a"
+# Language configuration
+LANGUAGES=("pl" "en" "es" "pt" "hi" "ja" "ko" "de" "fr")
+declare -A LANGUAGE_NAMES=(
+    ["pl"]="Polish"
+    ["en"]="English"
+    ["es"]="Spanish"
+    ["pt"]="Portuguese"
+    ["hi"]="Hindi"
+    ["ja"]="Japanese"
+    ["ko"]="Korean"
+    ["de"]="German"
+    ["fr"]="French"
+)
+
+# Add multilingual audio subitems
+for lang in "${LANGUAGES[@]}"; do
+    lang_name="${LANGUAGE_NAMES[$lang]}"
+    safe_add_subitem "audio" "audio_gen_${lang}" "Audio generation - ${lang_name}"
+    safe_add_subitem "audio" "audio_dwn_${lang}" "Audio download - ${lang_name}"
+    
+    # Set audio download path for each language
+    safe_set_property "audio" "audio_dwn_${lang}" "dwn_pathfile" "books/$BOOK_FOLDER/audio/${BOOK_FOLDER}_${lang}.m4a"
+done
 
 # Step 3: Create scene tasks (scene_0001 to scene_0025)
 echo ""
@@ -172,10 +191,10 @@ echo ""
 echo "📊 Podsumowanie utworzonej struktury:"
 echo "   📋 Lista: $BOOK_FOLDER ($BOOK_TITLE - $BOOK_AUTHOR)"
 echo "   📁 Właściwość book_folder: $BOOK_FOLDER"
-echo "   🎵 1x Audio (2 subtasks)"
+echo "   🎵 1x Audio (18 subtasks - 9 languages × 2)"
 echo "   🎬 25x Scenes (100 subtasks)"
 echo "   📹 1x Video"
-echo "   📝 Razem: 27 głównych zadań, 102 subtasks"
+echo "   📝 Razem: 27 głównych zadań, 118 subtasks"
 echo ""
 echo "🔍 Sprawdź strukturę poleceniem:"
 echo "   todoit list show --list $BOOK_FOLDER"

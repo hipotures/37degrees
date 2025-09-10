@@ -76,7 +76,7 @@ for doc in research_docs:
         ultrathink analyze_document(content, criteria_mapping[doc])
 
 
-### 2.3 Odczyt review.txt (3 części ze względu na limit tokenów w API)
+### 2.3 Odczyt review.txt (3 części)
 
 review_path = f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/review.txt"
 
@@ -264,7 +264,7 @@ afa_data = {
         # ... kolejne 4 wątki
     ],
     
-    # Blok edukacyjny (jeśli polska lektura)
+    # Blok edukacyjny
     'educational': {
         'definitions': [...],  # definicje pojęć
         'exam_questions': [...],  # 3 pytania maturalne
@@ -359,41 +359,54 @@ with open(OUTPUT_CSV, 'r', encoding='utf-8') as f:
             break
 ```
 
-## ETAP 8: Generowanie kompletnego dokumentu AFA
+## ETAP 8: Generowanie kompletnych dokumentów AFA (PL i EN)
 
-### 8.1 Odczyt promptów dla wybranego formatu
+### 8.1 Odczyt promptów dla wybranego formatu z audio_format_roles.yaml z placeholderami których nie wypełniasz!
 ```python
-# CRITICAL: Odczytaj DOKŁADNE imiona i role z docs/audio_format/system_wyboru_formatu_audio.md
-# Host A to ZAWSZE mężczyzna, Host B to ZAWSZE kobieta (WYJĄTEK: format 9 "Perspektywa Ona/On")
+# Odczytaj role i instrukcje z config/audio_format_roles.yaml i pod żadnym pozorem nie wypełniaj placeholderów! To robi inny skrypt!
+roles_config_path = "$CLAUDE_PROJECT_DIR/config/audio_format_roles.yaml"
+roles_config = Read(roles_config_path)
 
-# Odczytaj dokumentację systemu
-system_doc_path = "$CLAUDE_PROJECT_DIR/docs/audio_format/system_wyboru_formatu_audio.md"
-system_doc = Read(system_doc_path, offset=1, limit=500)
+# Konwersja chosen_format na klucz w YAML
+# Przykład: "Przyjacielska wymiana" → "friendly_exchange"
+format_key_mapping = {
+    "Przyjacielska wymiana": "friendly_exchange",
+    "Mistrz i Uczeń": "master_and_student",
+    "Adwokat i Sceptyk": "advocate_and_skeptic",
+    "Reporter i Świadek": "reporter_and_witness",
+    "Współczesny i Klasyk": "contemporary_and_classic",
+    "Emocja i Analiza": "emotion_and_analysis",
+    "Lokalny i Globalny": "local_and_global",
+    "Perspektywa Ona/On": "gender_perspective",
+    "Wykład filologiczny w duecie": "philological_lecture",
+    "Fan i Nowicjusz": "fan_and_newcomer",
+    "Glosa do przekładów": "translation_commentary",
+    "Komentarz historyczno-literacki": "historical_literary_commentary"
+}
 
-# Znajdź sekcję z formatem chosen_format w dokumentacji
-# Wydobądź imiona i role dla prowadzących A i B
-# Format w dokumentacji:
-# **Host A = [Imię] ([płeć] - mów w pierwszej osobie w rodzaju [rodzaj]) „[Rola]"**
-# **Host B = [Imię] ([płeć] - mów w pierwszej osobie w rodzaju [rodzaj]) „[Rola]"**
+format_key = format_key_mapping.get(chosen_format)
 
-# Parsuj imiona i role z dokumentacji dla chosen_format
-# Przykład dla formatu "Wykład filologiczny":
-# Host A = Profesor Jerzy (mężczyzna) „Filolog"
-# Host B = Natalia (kobieta) „Asystent/Student"
-
-# Wszystkie formaty mają teraz spójne przypisanie:
-# Host A = zawsze mężczyzna
-# Host B = zawsze kobieta
-
-plec_A = "mężczyzna"
-rodzaj_A = "męskim"
-plec_B = "kobieta"
-rodzaj_B = "żeńskim"
-
-# Wydobądź prompty A i B z sekcji 2A dokumentacji
+# Pobierz role i instrukcje dla formatu
+# UWAGA: format "gender_perspective" ma odwrócone role płci!
+if format_key == "gender_perspective":
+    # Host A = female, Host B = male (wyjątek)
+    male_role = roles_config[format_key]["male_role"]
+    female_role = roles_config[format_key]["female_role"]
+    host_A_instruction = roles_config[format_key]["female_instruction"]  # A = female
+    host_B_instruction = roles_config[format_key]["male_instruction"]    # B = male
+    host_A_gender = "female"
+    host_B_gender = "male"
+else:
+    # Standardowe przypisanie: Host A = male, Host B = female
+    male_role = roles_config[format_key]["male_role"]
+    female_role = roles_config[format_key]["female_role"]
+    host_A_instruction = roles_config[format_key]["male_instruction"]    # A = male
+    host_B_instruction = roles_config[format_key]["female_instruction"]  # B = female
+    host_A_gender = "male"
+    host_B_gender = "female"
 ```
 
-### 8.2 Wygeneruj kompletny dokument AFA
+### 8.2 Generuj wersję polską (-afa-pl.md) z lokalnym kontekstem
 ```markdown
 # ANALIZA FORMATU AUDIO — [TYTUŁ]
 ================================
@@ -402,7 +415,7 @@ rodzaj_B = "żeńskim"
 [wszystkie dane z ETAPU 2-3]
 
 ## PUNKTACJA SZCZEGÓŁOWA
-[wszystkie punkty A-I z uzasadnieniami]
+[wszystkie punkty A-I z uzasadnieniami WŁĄCZNIE Z POLSKIM KONTEKSTEM]
 **SUMA: {suma_points}/45 | Percentyl: {percentyl}%**
 
 ## FORMAT
@@ -412,19 +425,19 @@ rodzaj_B = "żeńskim"
 - **Uzasadnienie**: [na podstawie chosen_reason i kryteriów]
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
-[5 głównych wątków z research]
+[5 głównych wątków z research WŁĄCZNIE Z POLSKIMI WĄTKAMI]
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta (WYJĄTEK: format "Perspektywa Ona/On" gdzie A=kobieta, B=mężczyzna)**
+**CRITICAL dla NotebookLM: Host A to {host_A_gender}, Host B to {host_B_gender}**
 
-### Prowadzący A — {imię_A} ({rola_A})
-Host A = {imię_A} ({płeć_A}). Mów w pierwszej osobie w rodzaju {rodzaj_A}.
-{prompt_A_dla_chosen_format}
+### Prowadzący A — {male_name} ({male_role})
+Host A = {male_name} ({host_A_gender}). 
+{host_A_instruction}
 
-### Prowadzący B — {imię_B} ({rola_B})
-Host B = {imię_B} ({płeć_B}). Mów w pierwszej osobie w rodzaju {rodzaj_B}.
-{prompt_B_dla_chosen_format}
+### Prowadzący B — {female_name} ({female_role})
+Host B = {female_name} ({host_B_gender}). 
+{host_B_instruction}
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -433,8 +446,15 @@ Część 2: [Tytuł] ({duration_min/5} min) — rola: B dopytuje — wątek: "{w
 [itd. dla wszystkich części]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (jeśli lektura)
-[definicje, pytania maturalne, cytaty]
+## BLOK EDUKACYJNY (jeśli polska lektura szkolna)
+### Definicje kluczowych pojęć:
+[definicje związane z książką]
+
+### Pytania maturalne:
+[3 przykładowe pytania maturalne]
+
+### Kanonicze cytaty:
+[5 najważniejszych cytatów]
 
 ## METADANE PRODUKCYJNE
 - Tempo: 120-140 słów/min
@@ -442,15 +462,68 @@ Część 2: [Tytuł] ({duration_min/5} min) — rola: B dopytuje — wątek: "{w
 - Dżingle: Intro/Przejścia/Outro
 ```
 
-### 8.3 Zapisz dokument AFA
+### 8.3 Generuj wersję angielską (-afa-en.md) bez lokalnego kontekstu
+```markdown
+# AUDIO FORMAT ANALYSIS — [TITLE]
+================================
+
+## WORK METADATA
+[wszystkie dane z ETAPU 2-3]
+
+## DETAILED SCORING
+[punkty A-D, F-I ale BEZ POLSKIEGO KONTEKSTU - kryterium E=0 lub całkowicie pominięte]
+**TOTAL: {suma_points_en}/40 | Percentile: {percentyl_en}%**
+
+## FORMAT
+- **Primary**: {chosen_format} — {chosen_reason}
+- **Alternative**: {alt_format}
+- **Duration**: {duration_min} min (total={suma_points_en}, H={H_score})
+- **Justification**: [based on chosen_reason and criteria]
+
+## KEY THEMES WITH CREDIBILITY
+[5 głównych wątków ale BEZ POLSKICH ODNIESIEŃ - pomiń wątki związane z polskim kontekstem]
+
+## HOST PROMPTS FOR FORMAT
+
+**CRITICAL for NotebookLM: Host A is {host_A_gender}, Host B is {host_B_gender}**
+
+### Host A — {male_name} ({male_role})
+Host A = {male_name} ({host_A_gender}). 
+{host_A_instruction}
+
+### Host B — {female_name} ({female_role})
+Host B = {female_name} ({host_B_gender}). 
+{host_B_instruction}
+
+## THREAD MAPPING TO STRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Part 1: [Title] ({duration_min/5} min) — role: A — thread: "{thread_1}"
+Part 2: [Title] ({duration_min/5} min) — role: B inquires — thread: "{thread_2}"
+[etc. for all parts]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## PRODUCTION METADATA
+- Pace: 120-140 words/min
+- Pauses: [markers]
+- Jingles: Intro/Transitions/Outro
+```
+
+**UWAGA**: Wersja EN nie zawiera bloku edukacyjnego
+
+### 8.4 Zapisz oba dokumenty AFA
 ```python
-afa_path = f"books/{BOOK_FOLDER}/docs/{BOOK_FOLDER}-afa.md"
-Write(afa_path, complete_afa_content)
+# Zapisz wersję polską
+afa_pl_path = f"books/{BOOK_FOLDER}/docs/{BOOK_FOLDER}-afa-pl.md"
+Write(afa_pl_path, complete_afa_content_pl)
+
+# Zapisz wersję angielską
+afa_en_path = f"books/{BOOK_FOLDER}/docs/{BOOK_FOLDER}-afa-en.md"
+Write(afa_en_path, complete_afa_content_en)
 ```
 
 ## Uwagi techniczne
 
-- **CRITICAL**: Zawsze czytaj review.txt w 3 częściach (offset 1/401/801, limit 400)
+- **CRITICAL**: Zawsze czytaj review.txt w 3 częściach (offset 1/301/601, limit 300)
 - **CRITICAL**: Sprawdzaj istnienie dokumentów przed odczytem
 - **WARNING**: Rotacja formatów - nie powtarzaj częściej niż 2× w 3 odcinkach
 - **WARNING**: Etykiety wiarygodności - używaj tylko [FAKT], [SPÓR], [HIPOTEZA]

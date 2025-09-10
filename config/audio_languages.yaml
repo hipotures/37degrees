@@ -1,0 +1,157 @@
+# Audio Language Configuration for NotebookLM
+# This file contains language mappings, NotebookLM codes, and host names for multilingual audio generation
+
+languages:
+  # English - Base language for all content
+  en:
+    name: English
+    native_name: English
+    notebooklm_code: "English"
+    male_host: Andrew
+    female_host: Beth
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Polish - Original project language
+  pl:
+    name: Polish
+    native_name: Polski
+    notebooklm_code: "polski"
+    male_host: Andrzej
+    female_host: Beata
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Spanish (Latin America) - Most universal Spanish variant
+  es:
+    name: Spanish
+    native_name: Español
+    notebooklm_code: "español (Latinoamérica)"
+    male_host: Andrés
+    female_host: Beatriz
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Portuguese (Brazil) - Larger audience than Portugal
+  pt:
+    name: Portuguese
+    native_name: Português
+    notebooklm_code: "português (Brasil)"
+    male_host: André
+    female_host: Beatriz
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Hindi
+  hi:
+    name: Hindi
+    native_name: हिन्दी
+    notebooklm_code: "हिन्दी"
+    male_host: अर्जुन
+    male_host_romanized: Arjun
+    female_host: भावना
+    female_host_romanized: Bhavna
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Japanese
+  ja:
+    name: Japanese
+    native_name: 日本語
+    notebooklm_code: "日本語"
+    male_host: 明
+    male_host_romanized: Akira
+    female_host: 紅子
+    female_host_romanized: Beniko
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # Korean
+  ko:
+    name: Korean
+    native_name: 한국어
+    notebooklm_code: "한국어"
+    male_host: 안
+    male_host_romanized: Ahn
+    female_host: 보라
+    female_host_romanized: Bora
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # German
+  de:
+    name: German
+    native_name: Deutsch
+    notebooklm_code: "Deutsch"
+    male_host: Andreas
+    female_host: Brigitte
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+    
+  # French (European)
+  fr:
+    name: French
+    native_name: Français
+    notebooklm_code: "français"
+    male_host: Antoine
+    female_host: Béatrice
+    # Instructions are now format-specific and defined in audio_format_roles.yaml
+    # This allows each format to have unique host personalities and roles
+
+# Alternative NotebookLM language codes (for reference)
+# These are available in NotebookLM but not in our initial 9-language set
+alternative_languages:
+  # European variants
+  es_eu:
+    notebooklm_code: "español"
+    note: "European Spanish"
+  pt_pt:
+    notebooklm_code: "português (Portugal)"
+    note: "European Portuguese"
+  fr_ca:
+    notebooklm_code: "français (Canada)"
+    note: "Canadian French"
+    
+  # Nordic languages
+  sv:
+    notebooklm_code: "svenska"
+    note: "Swedish"
+  no_nb:
+    notebooklm_code: "norsk bokmål"
+    note: "Norwegian Bokmål"
+  da:
+    notebooklm_code: "dansk"
+    note: "Danish"
+  fi:
+    notebooklm_code: "suomi"
+    note: "Finnish"
+    
+  # Other major languages
+  zh_cn:
+    notebooklm_code: "中文（简体）"
+    note: "Simplified Chinese"
+  zh_tw:
+    notebooklm_code: "中文（繁體）"
+    note: "Traditional Chinese"
+  ar:
+    notebooklm_code: "العربية"
+    note: "Modern Standard Arabic"
+  ru:
+    notebooklm_code: "русский"
+    note: "Russian"
+  it:
+    notebooklm_code: "italiano"
+    note: "Italian"
+  nl:
+    notebooklm_code: "Nederlands"
+    note: "Dutch"
+  tr:
+    notebooklm_code: "Türkçe"
+    note: "Turkish"
+
+# Configuration metadata
+metadata:
+  version: "1.0"
+  last_updated: "2025-09-10"
+  primary_languages_count: 9
+  total_notebooklm_languages: 80

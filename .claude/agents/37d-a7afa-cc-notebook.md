@@ -21,21 +21,33 @@ Dane wejściowe:
 
 Kroki orchestratora:
 
-0. Pobranie zadania i określenie odpowiedniego NotebookLM
+0. Pobranie zadania i określenie odpowiedniego NotebookLM oraz języka
 
-// Znajdź zadania gdzie audio_gen jest pending (używamy find_subitems_by_status)
+// Znajdź zadania gdzie audio_gen_XX jest pending (XX to kod języka)
+// Przykład: audio_gen_pl, audio_gen_en, audio_gen_hi, itd.
 pending_audio_tasks = mcp__todoit__todo_find_subitems_by_status(
   list_key: "cc-au-notebooklm",
   conditions: {
-    "afa_gen": "completed",
-    "audio_gen": "pending"
+    "afa_gen": "completed"
+    // Znajdź dowolny audio_gen_XX w statusie pending
   },
   limit: 1
 )
 
+// UWAGA: Musimy znaleźć konkretny subitem audio_gen_XX który jest pending
+// i wyciągnąć z niego kod języka
+
 if (pending_audio_tasks exists && pending_audio_tasks.matches.length > 0):
   // Pobierz pierwszy matching parent item
   SOURCE_NAME = pending_audio_tasks.matches[0].parent.item_key
+  
+  // NOWE: Znajdź który konkretnie audio_gen_XX jest pending
+  // i wyciągnij kod języka
+  for subitem in pending_audio_tasks.matches[0].matching_subitems:
+    if (subitem.item_key.startsWith("audio_gen_") && subitem.status == "pending"):
+      LANGUAGE_CODE = subitem.item_key.replace("audio_gen_", "")  // np. "pl", "en", "hi"
+      PENDING_SUBITEM_KEY = subitem.item_key
+      break
   
   // Wyodrębnij numer książki z SOURCE_NAME (format: NNNN_xxx)
   book_number = parseInt(SOURCE_NAME.substring(0, 4))
@@ -108,24 +120,45 @@ mcp__playwright-cdp__browser_snapshot()
 
 5. Wybór formatu i wpisanie instrukcji - integracja z AFA
 
-// ETAP 5A: Odczyt analizy AFA dla książki
-afa_document_path = "books/" + SOURCE_NAME + "/docs/" + SOURCE_NAME + "-afa.md"
+// ETAP 5A: Odczyt analizy AFA dla książki - wybór wersji na podstawie języka
+// Dla PL używamy -afa-pl.md (z polskim kontekstem)
+// Dla innych języków używamy -afa-en.md (bez polskiego kontekstu)
+if (LANGUAGE_CODE == "pl"):
+  afa_document_path = "books/" + SOURCE_NAME + "/docs/" + SOURCE_NAME + "-afa-pl.md"
+else:
+  afa_document_path = "books/" + SOURCE_NAME + "/docs/" + SOURCE_NAME + "-afa-en.md"
 
 if (file_exists(afa_document_path)):
   // Odczytaj dokument AFA aby wydobyć format i prompty
   afa_content = Read(afa_document_path)
   
+  // NOWE: Odczytaj imiona z config/audio_languages.yaml dla danego języka
+  languages_config = Read("config/audio_languages.yaml")
+  language_data = parse_yaml(languages_config).languages[LANGUAGE_CODE]
+  
+  // Pobierz imiona dla danego języka
+  if (language_data.male_host_romanized):  // Dla języków z niełacińskimi alfabetami
+    male_name = language_data.male_host_romanized
+    female_name = language_data.female_host_romanized
+  else:
+    male_name = language_data.male_host
+    female_name = language_data.female_host
+  
   // Wyodrębnij z AFA:
   // 1. chosen_format (np. "Mistrz i Uczeń")
   // 2. duration_min (np. 14)
-  // 3. Sekcja "## PROMPTY A/B DLA FORMATU"
+  // 3. Sekcja "## PROMPTY A/B DLA FORMATU" (z placeholderami)
   // 4. Sekcja "## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ"
   
   chosen_format = extract_chosen_format(afa_content)  // np. "Mistrz i Uczeń"
   duration_min = extract_duration(afa_content)        // np. 14
-  prompt_A = extract_prompt_A(afa_content)            // prompt dla prowadzącego A
-  prompt_B = extract_prompt_B(afa_content)            // prompt dla prowadzącego B
+  prompt_A_raw = extract_prompt_A(afa_content)        // prompt z placeholderami
+  prompt_B_raw = extract_prompt_B(afa_content)        // prompt z placeholderami
   key_threads = extract_key_threads(afa_content)      // 5 głównych wątków
+  
+  // Podmień placeholdery na konkretne imiona
+  prompt_A = prompt_A_raw.replace("{male_name}", male_name).replace("{female_name}", female_name)
+  prompt_B = prompt_B_raw.replace("{male_name}", male_name).replace("{female_name}", female_name)
   
   // Zbuduj instrukcje na podstawie AFA
   TIKTOK_INSTRUCTIONS_FROM_AFA = build_afa_instructions(chosen_format, duration_min, prompt_A, prompt_B, key_threads)
@@ -290,11 +323,11 @@ mcp__playwright-cdp__browser_snapshot()
 
 generation_started = check_for_generation_indicators()
 if (generation_started):
-  // Oznacz subitem audio_gen jako completed
+  // Oznacz konkretny subitem audio_gen_XX jako completed
   mcp__todoit__todo_update_item_status(
     list_key: "cc-au-notebooklm",
     item_key: SOURCE_NAME,
-    subitem_key: "audio_gen",
+    subitem_key: PENDING_SUBITEM_KEY,  // np. "audio_gen_pl", "audio_gen_en"
     status: "completed"
   )
 else:

@@ -1,15 +1,11 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: wto, 9 wrz 2025, 21:48:36 CEST
+Date: śro, 10 wrz 2025, 22:06:26 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
-0119_the_art_of_war - 0 (empty directory)
-0120_the_prince - 0 (empty directory)
-0121_essays - 0 (empty directory)
-0122_leviathan - 0 (empty directory)
-0123_the_social_contract - 0 (empty directory)
+0123_the_social_contract - 17
 0124_the_wealth_of_nations - 0 (empty directory)
 0125_a_vindication_of_the_rights_of_woman - 0 (empty directory)
 0126_the_communist_manifesto - 0 (empty directory)
@@ -44,13 +40,9 @@ Phases to run: 2
 0154_mother_courage_and_her_children - 0 (empty directory)
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 37
+Books with incomplete/incorrect images: 33
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0119_the_art_of_war
-0120_the_prince
-0121_essays
-0122_leviathan
 0123_the_social_contract
 0124_the_wealth_of_nations
 0125_a_vindication_of_the_rights_of_woman
@@ -86,11 +78,7 @@ Books with incomplete/incorrect images: 37
 0154_mother_courage_and_her_children
 
 === MISSING SCENES TO BE SET TO PENDING ===
-0119_the_art_of_war: 25 missing scenes (0001-0025 (all - completely empty directory))
-0120_the_prince: 25 missing scenes (0001-0025 (all - completely empty directory))
-0121_essays: 25 missing scenes (0001-0025 (all - completely empty directory))
-0122_leviathan: 25 missing scenes (0001-0025 (all - completely empty directory))
-0123_the_social_contract: 25 missing scenes (0001-0025 (all - completely empty directory))
+0123_the_social_contract: 8 missing scenes (0006, 0013, 0020, 0021, 0022, 0023, 0024, 0025)
 0124_the_wealth_of_nations: 25 missing scenes (0001-0025 (all - completely empty directory))
 0125_a_vindication_of_the_rights_of_woman: 25 missing scenes (0001-0025 (all - completely empty directory))
 0126_the_communist_manifesto: 25 missing scenes (0001-0025 (all - completely empty directory))

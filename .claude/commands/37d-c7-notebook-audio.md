@@ -18,17 +18,58 @@ Kroki orchestratora:
 mcp__playwright-cdp__browser_navigate(url: "https://notebooklm.google.com/notebook/700b4b7c-976f-4026-96f0-f1240bd69530")
 mcp__playwright-cdp__browser_snapshot()
 
-1. Pobranie następnego zadania z listy TODOIT
+1. Pobranie zadania i określenie języka
 
-// Pobierz następne pending zadanie z listy notebooklm-audio
-next_task = mcp__todoit__todo_get_next_pending(list_key: "notebooklm-audio")
+// Określ język docelowy (parametr lub znajdź pending audio_gen_XX)
+TARGET_LANG = get_parameter("lang", default="pl")
 
-if (next_task exists):
-  SOURCE_NAME = next_task.item_key
-  echo "📋 Pobrano zadanie: " + SOURCE_NAME + " - " + next_task.content
+// Znajdź zadanie z pending audio_gen_{TARGET_LANG}
+pending_tasks = mcp__todoit__todo_find_subitems_by_status(
+    list_key="cc-au-notebooklm",
+    conditions={f"audio_gen_{TARGET_LANG}": "pending"},
+    limit=1
+)
+
+if (pending_tasks exists):
+  SOURCE_NAME = pending_tasks.matches[0].parent.item_key
+  echo "📋 Pobrano zadanie: " + SOURCE_NAME + " dla języka: " + TARGET_LANG
 else:
-  echo "ℹ️ Brak pending zadań w liście notebooklm-audio"
+  echo "ℹ️ Brak pending zadań audio_gen_" + TARGET_LANG
   return
+
+// Określ plik AFA i imiona hostów na podstawie języka
+if (TARGET_LANG == "pl"):
+  AFA_FILE = SOURCE_NAME + "-afa-pl.md"
+  HOST_A_NAME = "Andrzej"
+  HOST_B_NAME = "Beata"
+else:
+  AFA_FILE = SOURCE_NAME + "-afa-en.md"
+  // Załaduj imiona z konfiguracji dla wybranego języka
+  // config/audio_languages.yaml
+  if (TARGET_LANG == "en"):
+    HOST_A_NAME = "Andrew"
+    HOST_B_NAME = "Beth"
+  elif (TARGET_LANG == "es"):
+    HOST_A_NAME = "Andrés"
+    HOST_B_NAME = "Beatriz"
+  elif (TARGET_LANG == "pt"):
+    HOST_A_NAME = "André"
+    HOST_B_NAME = "Beatriz"
+  elif (TARGET_LANG == "hi"):
+    HOST_A_NAME = "Arjun"
+    HOST_B_NAME = "Bhavna"
+  elif (TARGET_LANG == "ja"):
+    HOST_A_NAME = "Akira"
+    HOST_B_NAME = "Beniko"
+  elif (TARGET_LANG == "ko"):
+    HOST_A_NAME = "Ahn"
+    HOST_B_NAME = "Bora"
+  elif (TARGET_LANG == "de"):
+    HOST_A_NAME = "Andreas"
+    HOST_B_NAME = "Brigitte"
+  elif (TARGET_LANG == "fr"):
+    HOST_A_NAME = "Antoine"
+    HOST_B_NAME = "Béatrice"
 
 2. Przejście do źródeł i wybór źródła
 
@@ -80,47 +121,27 @@ mcp__playwright-cdp__browser_snapshot()
 
 5. Wpisanie instrukcji i generacja
 
-// Wklej tekst instrukcji TikTok-style
+// Odczytaj plik AFA i pobierz instrukcje
+AFA_PATH = "books/" + SOURCE_NAME + "/docs/" + AFA_FILE
+afa_content = Read(AFA_PATH)
 
-TIKTOK_INSTRUCTIONS = """
-CEL
-Stwórzcie 5–7-minutowy, dynamiczny odcinek audio-wideo na TikToka, w którym dwoje przyjaciół rozbiera na czynniki pierwsze wybraną książkę. Zero długich wstępów. Natychmiastowy hak, napięcie, cliffhangery, fakty „stop-scroll” co ~30 s, proste słowa i odniesienia do polskiej popkultury.
+// Wydobądź całą zawartość AFA
+// AFA zawiera format, długość, prompty i strukturę - wszystko czego potrzebujemy
 
-ROLA PROWADZĄCYCH
-Dwie osoby: „Prowadzący_A” i „Prowadzący_B”. Brzmią jak dobrzy znajomi przy nocnej rozmowie. Czasem się nie zgadzają. Spierają się rzeczowo, bez obrażania. Używają prostego języka i młodzieżowego slangu 15–25, ale oszczędnie i naturalnie.
+// Podstaw imiona hostów w miejsca {imię_A} i {imię_B} w całym dokumencie AFA
+afa_content = afa_content.replace("{imię_A}", HOST_A_NAME)
+afa_content = afa_content.replace("{imię_B}", HOST_B_NAME)
 
-TON I STYL
-• Mówcie po polsku. Zdania krótkie. Zero akademickiego tonu. 
-• Wplatacie memy i referencje do PL popkultury. Unikajcie hermetycznych żartów.
-• Co ~30 s dorzucacie „fakt-przerywnik” (zaskakujący, liczbowy, kontrowersyjny albo ciekawostka).
-• Tworzycie napięcie i mini-cliffhangery między segmentami.
-• Opinie mogą być ostre, ale zawsze oznaczajcie je jako opinie.
-
-STRUKTURA (5–7 min, 12–14 beatów po 20–30 s)
-1) HAK 0:00–0:15 — odważne zdanie otwarcia. Przykład formy: 
-   „Tego nie uczą w szkołach, bo…”, „Możecie pożałować, jeśli przeczytacie, ale…”, 
-   „Nie odzobaczę tego, co znalazłem w…”. Wymyślcie własną wersję.
-2) O CO CHODZI 0:15–0:40 — 1-zdaniowe streszczenie książki, dlaczego ma znaczenie dziś.
-3) FAKT #1 0:40–1:00 — „stop-scroll” (liczba, cytat tezy, kontekst historyczny bez spojlera).
-4) KONFLIKT TEZ 1:00–1:30 — A vs B, krótka różnica zdań.
-5) FAKT #2 1:30–2:00 — ciekawostka, porównanie do współczesności.
-6) SCENA/OBRAZ 2:00–2:30 — obrazowe porównanie, mem, analogia z życia w PL.
-7) FAKT #3 2:30–3:00 — kontrowersyjny wniosek lub liczba.
-8) „CO BYŚ ZROBIŁ?” 3:00–3:15 — pytanie do widzów (moralny dylemat, wybór).
-9) MID-CTA 3:15–3:25 — dosłownie: „A wy co o tym myślicie? Dajcie znać w komentarzach!”
-10) ROZWINIĘCIE SPORU 3:25–4:15 — krótkie argumenty A i B, przykład z życia.
-11) FAKT #4 4:15–4:45 — zaskakujący kontrprzykład lub błąd myślenia.
-12) PRAKTYCZNY TAKEAWAY 4:45–5:30 — jak wykorzystać myśl książki jutro w Polsce.
-13) FAKT #5 5:30–6:00 — najmocniejsza ciekawostka lub odczarowanie mitu.
-14) ZAMKNIĘCIE 6:00–6:30 — jedno zdanie „po tym nie spojrzycie tak samo na…”. 
-    Finałowe wezwanie: „Piszcie w komentarzach czy się zgadzacie czy jesteśmy totalnie w błędzie!”
-
-"""
+// Dla języków innych niż polski, możemy dodać nagłówek
+if (TARGET_LANG != "pl"):
+  language_note = "Language: " + TARGET_LANG.toUpperCase() + "\n"
+  language_note += "Hosts: " + HOST_A_NAME + " & " + HOST_B_NAME + "\n\n"
+  afa_content = language_note + afa_content
 
 mcp__playwright-cdp__browser_type(
   element: "text area for audio customization",
   ref: "textarea_ref", 
-  text: TIKTOK_INSTRUCTIONS,
+  text: afa_content,
   slowly: false
 )
 
@@ -137,12 +158,14 @@ if (generation_started):
   echo "✅ Generacja audio dla źródła " + SOURCE_NAME + " rozpoczęta pomyślnie"
   echo "Status: Nowe audio w trakcie generowania..."
   
-  // Oznacz zadanie jako completed w liście TODOIT
-  mcp__todoit__todo_mark_completed(
-    list_key: "notebooklm-audio",
-    item_key: SOURCE_NAME
+  // Oznacz zadanie audio_gen_{TARGET_LANG} jako completed w TODOIT
+  mcp__todoit__todo_update_item_status(
+    list_key: "cc-au-notebooklm",
+    item_key: SOURCE_NAME,
+    subitem_key: "audio_gen_" + TARGET_LANG,
+    status: "completed"
   )
-  echo "✅ Zadanie " + SOURCE_NAME + " oznaczone jako completed w liście notebooklm-audio"
+  echo "✅ Zadanie " + SOURCE_NAME + "/audio_gen_" + TARGET_LANG + " oznaczone jako completed"
 else:
   echo "❌ BŁĄD: Nie udało się rozpocząć generacji dla " + SOURCE_NAME
   return
