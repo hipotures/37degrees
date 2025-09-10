@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — TO KILL A MOCKINGBIRD (ZABIĆ DROZDA)
+# ANALIZA FORMATU AUDIO — TO KILL A MOCKINGBIRD
 ================================
 
 ## METRYKA DZIEŁA
@@ -72,10 +72,10 @@
 
 ## FORMAT
 
-- **Główny**: PRZYJACIELSKA WYMIANA — popularyzacja klasyki przez dialog dwóch perspektyw
-- **Alternatywny**: Mistrz i Uczeń (przy ponownej analizie)
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Fenomen kulturowy (C=5) wymaga przystępnego formatu. Współczesna recepcja (D=4) pokazuje potencjał edukacyjny. Format pozwala na balans między wartością historyczną a aktualnością.
+- **Główny:** Mistrz i Uczeń — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -106,17 +106,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Andrzej (Mężczyzna)
+Host A = Profesor Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś doświadczonym filologiem. Cel: porządkować pojęcia i budować mosty między dziełami. Używaj porównań, definicji 1-2 zdania. Każdy termin wyjaśnij krótko. Po każdym bloku oddaj głos B: „co w tym niejasne?"."
 
-### Prowadzący A — Wojciech „Entuzjasta"
-Host A = Wojciech (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?". Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadząca B — Beata „Realistka"
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Julia (Kobieta)
+Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś bystrą studentką. Zadajesz precyzyjne pytania „czy to znaczy, że…?". Prosisz o przykłady z tekstu. Gdy coś niejasne, prosisz o parafrazę. Zwięźle podsumowujesz, zanim oddasz głos A."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -131,7 +127,7 @@ Część 4: „Zakazana i kochana - paradoks Ameryki" (3 min) — rola: B kontek
 Część 5: „Polski drozd bez kanonu" (2 min) — rola: A+B dialog — wątek: "Polska czyta drozda mimo braku w kanonie"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia do wyjaśnienia:
 1. **Southern Gothic** - mroczny nurt literatury amerykańskiego Południa
@@ -161,6 +157,5 @@ Część 5: „Polski drozd bez kanonu" (2 min) — rola: A+B dialog — wątek:
 - **Balans głosów**: 55% A (entuzjazm) / 45% B (analiza)
 
 ---
-*Dokument AFA wygenerowany przez agenta 37d-afa-audio-format-analyzer*
-*Data: 2025-09-09*
-*Status: COMPLETED*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0034_to_kill_a_mockingbird | Format: Mistrz i Uczeń | Czas: 14 min*

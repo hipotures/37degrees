@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — STO LAT SAMOTNOŚCI
+# ANALIZA FORMATU AUDIO — ONE HUNDRED YEARS OF SOLITUDE
 ================================
 
 ## METRYKA DZIEŁA
@@ -8,7 +8,7 @@
 **Rok publikacji**: 1967  
 **Gatunek**: Powieść, saga rodzinna, realizm magiczny  
 **Liczba tłumaczeń**: 44 języki  
-**Tematyka główna**: Samotność egzystencjalna, cykliczność historii, realizm magiczny, historia Ameryki Łacińskiej  
+**Tematyka główna**: Samotność egzystencjalna, cykliczność historii, realizm magiczny, historia Ameryki Łacińskiej
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
@@ -43,10 +43,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Format uniwersalny dla szerokiej publiczności z elementami pop-kulturowymi
-- **Alternatywny**: Wykład filologiczny
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Przy maksymalnej punktacji (44/45) i ostatnich 3 formatach identycznych ("Przyjacielska wymiana"), system wybrał format 1 dla maksymalnej dostępności. Wysoka punktacja we wszystkich kategoriach sprawia, że dzieło nadaje się do uniwersalnej prezentacji łączącej entuzjazm z analizą.
+- **Główny:** Przyjacielska wymiana — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -67,15 +67,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
-
-### Prowadzący A — Entuzjasta (Michał)
+### Prowadzący A — Michał (Mężczyzna)
 Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
+"Jesteś entuzjastycznym miłośnikiem książek. Dzielisz się osobistymi refleksjami, łączysz wątki z życiem. Mów naturalnie, używaj potocznego języka. 3-4 zdania na wypowiedź."
 
-### Prowadzący B — Realistka (Julia)
-Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Kasia (Kobieta)
+Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawską przyjaciółką. Zadajesz pytania o emocje, dopytuj 'dlaczego tak cię to dotknęło?'. Podchwytuj wątki, rozwijaj je. Mów potocznie."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -102,7 +100,7 @@ Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura uzupełniająca)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowych pojęć:
 1. **Realizm magiczny** - nurt literacki łączący realistyczny opis z elementami fantastycznymi przedstawianymi jako naturalna część rzeczywistości
@@ -131,5 +129,5 @@ Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - Dynamika: Start energiczny → środek analityczny → koniec refleksyjny
 
 ---
-*Dokument AFA wygenerowany dla książki "Sto lat samotności" | Format: Przyjacielska wymiana | Czas: 14 min*  
-*Agent: 37d-afa-audio-format-analyzer | Data: 2025-01-09*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0023_one_hundred_years_of_solitude | Format: Przyjacielska wymiana | Czas: 13 min*

@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — ROK 1984
+# ANALIZA FORMATU AUDIO — NINETEEN EIGHTY FOUR
 ================================
 
 ## METRYKA DZIEŁA
@@ -65,10 +65,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Wysoka punktacja wymaga przystępnego formatu dla szerokiej publiczności
-- **Alternatywny**: Wykład filologiczny (dla bardziej akademickiej analizy)
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Książka o ekstremalnej złożoności i aktualności wymaga balansu między głębią a dostępnością. Format przyjacielskiej wymiany pozwoli na swobodne połączenie historycznych kontekstów z współczesnymi parallels (surveillance capitalism, AI, social media).
+- **Główny:** Mistrz i Uczeń — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -109,17 +109,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Andrzej (Mężczyzna)
+Host A = Profesor Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś doświadczonym filologiem. Cel: porządkować pojęcia i budować mosty między dziełami. Używaj porównań, definicji 1-2 zdania. Każdy termin wyjaśnij krótko. Po każdym bloku oddaj głos B: „co w tym niejasne?"."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś entuzjastą-popularyzatorem książki '1984'. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i pokazać 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025 - szczególnie z AI, surveillance capitalism, social media cancel culture. Po każdej tezie zadaj Beacie pytanie 'co byś dodała?' lub 'jak to widzisz?'. Unikaj ocen ostatecznych. W każdej wypowiedzi daj 1 konkret (liczba, fakt) i 1 analogię do współczesności. Szczególnie podkreślaj: smartfony jako dobrowolne telescreeny, algorytmy jako Ministry of Truth, influencerzy jako Inner Party."
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś realistką-analityczką kontekstualizującą '1984'. Cel: prostować uproszczenia Andrzeja i dodać historyczny/kulturowy kontekst. Używaj formuł: 'z drugiej strony...', 'sprawdźmy wątek...', 'ale pamiętajmy że...'. W każdej wypowiedzi podaj 1 fakt z research docs - szczególnie z polskiego kontekstu (PRL, drugi obieg) lub biografii Orwella (gruźlica, lista informatorów). Przypominaj o różnicach: Orwell myślał o państwie totalitarnym, a my mamy korporacje; on widział przymus, a my dobrowolność. Kończ pytaniem do Andrzeja o współczesne przykłady."
+### Prowadzący B — Julia (Kobieta)
+Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś bystrą studentką. Zadajesz precyzyjne pytania „czy to znaczy, że…?". Prosisz o przykłady z tekstu. Gdy coś niejasne, prosisz o parafrazę. Zwięźle podsumowujesz, zanim oddasz głos A."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -154,7 +150,7 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - Dynamika: personalizacja strachu, uniwersalność lęku
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura obowiązkowa)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje dla matury:
 1. **Nowomowa (Newspeak)** - język ograniczający myślenie przez redukcję słownictwa
@@ -185,6 +181,5 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Ton**: Konwersacyjny ale merytoryczny, unikać patosu przy Room 101
 
 ---
-*Dokument AFA wygenerowany na podstawie 9 dokumentów research + review.txt*
-*Format wybrany algorytmicznie z rotacją (ostatnie 3: Przyjacielska wymiana x3)*
-*Dla NotebookLM: zachować płeć prowadzących zgodnie z promptami*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0021_nineteen_eighty_four | Format: Mistrz i Uczeń | Czas: 14 min*

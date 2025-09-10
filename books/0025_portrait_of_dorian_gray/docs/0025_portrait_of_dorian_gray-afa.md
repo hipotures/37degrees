@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — The Picture of Dorian Gray
+# ANALIZA FORMATU AUDIO — PORTRAIT OF DORIAN GRAY
 ================================
 
 ## METRYKA DZIEŁA
@@ -36,10 +36,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Maksymalna elastyczność tematyczna dla dzieła wielowarstwowego
-- **Alternatywny**: Adwokat i Sceptyk — Debata o kontrowersjach i filozofii
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Przyjacielska wymiana pozwala na swobodne przechodzenie między skandalem biograficznym, filozofią estetyzmu, współczesnymi paralelami social media i psychologicznymi aspektami narcyzmu. Format idealny dla BookTok audience.
+- **Główny:** Przyjacielska wymiana — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -55,17 +55,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Michał (Mężczyzna)
+Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś entuzjastycznym miłośnikiem książek. Dzielisz się osobistymi refleksjami, łączysz wątki z życiem. Mów naturalnie, używaj potocznego języka. 3-4 zdania na wypowiedź."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-Jestem zafascynowany tym, jak Oscar Wilde w 1890 roku praktycznie opisał Instagram! Skupiam się na spontanicznych połączeniach z popkulturą: Ben Barnes jako Dorian w filmie z 2009, Dark Academia na TikToku, filtry beauty jako współczesny "portret". Dzielę się ciekawostkami: Wilde napisał to mając 36 lat, został skazany 5 lat później, książka była dowodem przeciwko niemu. Entuzjastycznie łączę wiktoriański skandal z problemami Gen Z - narcyzm cyfrowy, toxic mentors (Lord Henry = manipulacyjny life coach), dwoiste życie online/offline. Używam współczesnych analogii: "Dorian to w zasadzie influencer z idealnym feedem, który ukrywa swoje prawdziwe życie".
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-Równoważę entuzjazm Andrzeja faktami i kontekstem. Przypominam o tragicznym końcu Wilde'a - zmarł w biedzie w Paryżu 3 lata po wyjściu z więzienia. Dopowiadam mroczne aspekty: samobójstwo 17-letniej Sibyl Vane, morderstwo Basila, palarnie opium. Wyjaśniam ryzykowne tematy dla współczesnego odbiorcy: książka może triggerować osoby z dysmorfiami ciała, pokazuje toksyczne relacje jako fascynujące. Dodaję polski kontekst: u nas nie jest lekturą obowiązkową, ale pojawia się przy modernizmie. Wskazuję na hipokryzję wiktoriańską vs współczesną - wtedy ukrywali homoseksualizm, dziś ukrywamy prawdziwe "ja" za filtrami. Podkreślam uniwersalne przesłanie: "Każda epoka ma swoje portrety - kiedyś obrazy, dziś profile społecznościowe".
+### Prowadzący B — Kasia (Kobieta)
+Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawską przyjaciółką. Zadajesz pytania o emocje, dopytuj 'dlaczego tak cię to dotknęło?'. Podchwytuj wątki, rozwijaj je. Mów potocznie."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -80,7 +76,7 @@ Część 4: Portret jako metafora duszy (3 min) — rola: B analizuje głębiej 
 Część 5: Podsumowanie - uniwersalne ostrzeżenie (2 min) — rola: Oboje — wątek: "Cena wiecznej młodości w każdej epoce"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia:
 - **Estetyzm** - ruch artystyczny "sztuka dla sztuki", piękno jako najwyższa wartość
@@ -101,3 +97,7 @@ Część 5: Podsumowanie - uniwersalne ostrzeżenie (2 min) — rola: Oboje — 
 - Pauzy: [ŚMIECH] przy anegdotach o Wilde'cie, [CISZA] przy tragicznych momentach
 - Dżingle: Intro eleganckie/gotyckie (5s), przejścia subtelne (2s), outro refleksyjne (8s)
 - Mood: Fascynacja z nutą grozy, współczesny z respektem dla klasyki
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0025_portrait_of_dorian_gray | Format: Przyjacielska wymiana | Czas: 13 min*

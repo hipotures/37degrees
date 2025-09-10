@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — THE HOBBIT
+# ANALIZA FORMATU AUDIO — HOBBIT
 ================================
 
 ## METRYKA DZIEŁA
@@ -48,10 +48,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — użyty 3/3 ostatnich
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Wysokie wyniki we wszystkich kategoriach kwalifikują do najwyższego progu czasowego. Format "Przyjacielska wymiana" wybrano mimo powtórzeń ze względu na najwyższy wynik ważony (22.0) i brak innych eligible formatów z wyższym priorytetem.
+- **Główny:** Przyjacielska wymiana — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -77,29 +77,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Michał (Mężczyzna)
+Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś entuzjastycznym miłośnikiem książek. Dzielisz się osobistymi refleksjami, łączysz wątki z życiem. Mów naturalnie, używaj potocznego języka. 3-4 zdania na wypowiedź."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia.
-
-Twoje główne wątki:
-- Pierścień = smartfon (uzależnienie, niewidzialność online)
-- Hobbiton jako Instagram destination nr 1
-- Bilbo = współczesny millennial opuszczający strefę komfortu
-
-### Prowadzący B — Beata (Realista)
-
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A.
-
-Twoje główne wątki:
-- Kontekst nazistowski i list Tolkiena z 1938
-- Prawdziwe batalii prawne o 80 mln USD
-- Krytyka braku kobiecych postaci
+### Prowadzący B — Kasia (Kobieta)
+Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawską przyjaciółką. Zadajesz pytania o emocje, dopytuj 'dlaczego tak cię to dotknęło?'. Podchwytuj wątki, rozwijaj je. Mów potocznie."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -110,7 +94,7 @@ Część 4: Fenomen turystyczny (2 min) — rola: B konkretyzuje — wątek: "10
 Część 5: Podsumowanie i teorie (3 min) — rola: A/B wymiana — wątek: "Od Illuminati do TikToka"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia:
 - **Quest fantasy** - podgatunek fantasy oparty na wyprawie bohatera
@@ -148,3 +132,7 @@ Część 5: Podsumowanie i teorie (3 min) — rola: A/B wymiana — wątek: "Od 
 - Cytowania: monitorować fragmenty o nazistach i smartfonach
 - Pytania słuchaczy: przygotować FAQ o teoriach spiskowych
 - Dokładność czasu: ±30 sekund od 14 min
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0013_hobbit | Format: Przyjacielska wymiana | Czas: 13 min*

@@ -64,10 +64,10 @@
 
 ## FORMAT
 
-- **Główny**: WYKŁAD FILOLOGICZNY — najwyższy wynik ważony (20.5) przy pełnej eligible
-- **Alternatywny**: Przyjacielska wymiana (19.8)
-- **Długość**: 14 min (suma=40, H=5)
-- **Uzasadnienie**: Innowacyjność pisarska (G=5) i głębia filozoficzna (B=5) predestynują do akademickiej analizy. Złożoność strukturalna (H=5) wymaga eksperta filologicznego.
+- **Główny:** Adwokat i Sceptyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=40)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -93,17 +93,13 @@ Kolej jako niszczycielska siła modernizacji, metafora nieuchronności losu.
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Tomasz (Mężczyzna)
+Host A = Tomasz (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś adwokatem dzieła. Bronisz kontrowersyjnych wątków, znajdujesz uzasadnienia dla trudnych tematów. Używaj argumentów i faktów. Odnosisz się do kontekstu historycznego."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy literackie, wskazujesz warianty tekstu, cytujesz edycje krytyczne. Szczególnie skupiasz się na pionierskich technikach narracyjnych Tołstoja - monologu wewnętrznym, strumieniu świadomości, użyciu elips. Analizujesz dualną strukturę Anna/Lewin. Odwołujesz się do tłumaczeń Iłłakowiczówny (1952) i Cichockiego (2023). Mówisz 4-6 zdań, precyzyjnie. Kończysz pytaniem do Natalii o klarowność pojęć dla słuchaczy."
-
-### Prowadząca B — Natalia (Asystentka/Studentka)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś moderatorką-studentką filologii. Tłumaczysz trudne pojęcia własnymi słowami, prosisz Profesora o konkretne przykłady i cytaty z tekstu. Pilnujesz tempa dla laika - gdy Profesor używa terminów jak 'fokalizacja' czy 'proto-modernizm', prosisz o wyjaśnienie. Szczególnie interesujesz się tym, jak innowacje Tołstoja wpłynęły na Joyce'a i Woolf. Zadajesz pytania o symbolikę pociągu, czerwonej torebki, portretu Michajłowa. Podsumowujesz kluczowe punkty dla słuchaczy."
+### Prowadzący B — Marta (Kobieta)
+Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś sceptyczną krytyczką. Kwestionujesz założenia, wskazujesz problemy moralne i anachronizmy. Pytasz „ale czy to nie jest problematyczne?". Dbasz o współczesną wrażliwość."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -135,7 +131,7 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia literackie:
 - **Monolog wewnętrzny** - technika oddająca myśli postaci bezpośrednio
@@ -166,4 +162,5 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 4. **Opracowanie**: Nabokov, V. (1981). *Lectures on Russian Literature*. New York: Harcourt
 
 ---
-*Dokument AFA wygenerowany 2025-09-09 dla systemu NotebookLM Audio*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0003_anna_karenina | Format: Adwokat i Sceptyk | Czas: 14 min*

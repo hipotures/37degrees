@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — MAŁY KSIĄŻĘ
+# ANALIZA FORMATU AUDIO — LITTLE PRINCE
 ================================
 
 ## METRYKA DZIEŁA
@@ -82,10 +82,10 @@
 
 ## FORMAT
 
-- **Główny:** MISTRZ I UCZEŃ — format filozoficzno-edukacyjny z pogłębioną analizą
-- **Alternatywny:** Wykład filologiczny (gdyby nie rotacja)
-- **Długość:** 14 min (suma=40, H=4)
-- **Uzasadnienie:** Książka wymaga format pozwalający na głęboką analizę filozoficzną (B=5) przy zachowaniu przystępności dla szerokiej publiczności. Format Mistrz-Uczeń idealnie łączy erudycję z dostępnością, pozwalając na wyjaśnienie złożonych symboli przez dialog.
+- **Główny:** Reporter i Świadek — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=40)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -126,11 +126,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-### Prowadzący A — Profesor Andrzej (Mistrz)
-„Jesteś doświadczonym filologiem. Cel: porządkować pojęcia i budować mosty między dziełami. Używaj porównań, definicji 1–2 zdania. Każdy termin wyjaśnij krótko. Po każdym bloku oddaj głos B: „co w tym niejasne?"."
+### Prowadzący A — Marek (Mężczyzna)
+Host A = Marek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś reporterem relacjonującym wydarzenia. Opisujesz sceny, rekonstruujesz fakty, zadajesz pytania świadkowi. Mów dynamicznie, buduj napięcie."
 
-### Prowadzący B — Julia (Uczeń)
-„Jesteś bystrym studentem. Zadawaj precyzyjne pytania „czy to znaczy, że…?". Proś o przykłady z tekstu. Gdy coś niejasne, prosisz o parafrazę. Zwięźle podsumowuj, zanim oddasz głos A."
+### Prowadzący B — Anna (Kobieta)
+Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś świadkiem wydarzeń z książki. Opowiadasz z perspektywy uczestniczki, dodajesz detale sensoryczne. Mów emocjonalnie, jakbyś tam była."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -180,5 +182,5 @@
 - **Balans:** 60% Mistrz (wiedza), 40% Uczeń (pytania i podsumowania)
 
 ---
-*Dokument wygenerowany przez system AFA dla projektu 37degrees*
-*Book ID: 0017_little_prince | Format: Mistrz i Uczeń | Czas: 14 min*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0017_little_prince | Format: Reporter i Świadek | Czas: 13 min*

@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — CHŁOPI
+# ANALIZA FORMATU AUDIO — CHLOPI
 ================================
 
 ## METRYKA DZIEŁA
@@ -75,10 +75,10 @@
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — Spełnia kryteria G≥5 i B≥4, idealny dla analizy innowacji warsztatowych i głębi filozoficznej
-- **Alternatywny**: Fan i Nowicjusz (C≥4, D≥3) lub Lokalny i Globalny (E≥4, C≥3)
-- **Długość**: 14 min (suma=41, H=5)
-- **Uzasadnienie**: Dzieło wymaga akademickiego podejścia ze względu na rewolucyjne techniki narracyjne (system trzech narratorów), głębokie warstwy symboliczne i wpływ na literaturę światową
+- **Główny:** Współczesny i Klasyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=41)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -104,17 +104,13 @@ Stefan Żeromski został rzekomo odrzucony przez Szwedzką Akademię za "antynie
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jan (Mężczyzna)
+Host A = Profesor Jan (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś klasykiem, znasz kontekst historyczny. Wyjaśniasz oryginalne intencje autora, konwencje epoki. Bronisz wartości ponadczasowych."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-"Jesteś specjalistą od poetyki i edytorstwa. Analizujesz rewolucyjny system trzech narratorów Reymonta - wsiowego gaduły, stylizatora młodopolskiego i realistycznego obserwatora. Definiujesz terminy precyzyjnie: czym jest 'epopeja chłopska', jak działa 'cykliczność sezonowa' w strukturze narracji. Wskazujesz warianty tekstu między wydaniami, cytujesz edycje krytyczne. Szczególnie podkreślasz innowacje: dialektalna proza artystyczna, orkiestralne efekty masowe, synkretyzm stylistyczny. Odnosisz się do teorii Kazimierza Wyki. Mówisz blokami 4-6 zdań, precyzyjnie. Kończysz pytaniem do Natalii o klarowność lub prośbą o przykład dla laika."
-
-### Prowadzący B — Natalia (Asystentka/Studentka)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-"Jesteś moderatorką-studentką filologii. Tłumaczysz trudne pojęcia Profesora własnymi słowami dla zwykłego słuchacza. Prosisz o konkretne przykłady z tekstu - jak wygląda 'wsiowy gaduła' w praktyce? Czym różni się opis Jagny przez stylizatora młodopolskiego od realistycznego obserwatora? Dopytuj o kontrowersje: okultyzm Reymonta, teorie o Noblu, cenzurę carską. Pilnuj tempa - gdy Profesor za bardzo się zagłębia, prosisz o podsumowanie dla laika. Zwracasz uwagę na współczesną recepcję: film 2023 z ratingiem R, farming games, cottagecore. Podsumowujesz kluczowe punkty przed oddaniem głosu."
+### Prowadzący B — Ola (Kobieta)
+Host B = Ola (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Reprezentujesz współczesną perspektywę. Łączysz książkę z obecnymi trendami, social media, popkulturą. Używaj współczesnych analogii."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -169,5 +165,5 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Balans głosów:** 55% Jerzy (wykład), 45% Natalia (pytania i podsumowania)
 
 ---
-*Dokument AFA wygenerowany dla odcinka #005 serii NotebookLM*  
-*Format: Wykład filologiczny | Długość: 14 min | Data: 2025-09-09*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0005_chlopi | Format: Współczesny i Klasyk | Czas: 14 min*

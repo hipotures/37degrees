@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — Harry Potter i Kamień Filozoficzny
+# ANALIZA FORMATU AUDIO — HARRY POTTER
 ================================
 
 ## METRYKA DZIEŁA
@@ -72,10 +72,11 @@
 **SUMA: 45/45 | Percentyl: 100%**
 
 ## FORMAT
-- **Główny**: Przyjacielska wymiana — Spontaniczna rozmowa entuzjasty i realistki o fenomenie kulturowym
-- **Alternatywny**: Wykład filologiczny
-- **Długość**: 14 min (suma=45, H=5)
-- **Uzasadnienie**: Przy maksymalnej punktacji format "Przyjacielska wymiana" idealnie oddaje fenomenalny charakter książki, łącząc entuzjazm dla magicznego świata z krytycznym spojrzeniem na kontrowersje.
+
+- **Główny:** Glosa do przekładów — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=45)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -96,15 +97,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Krzysztof (Mężczyzna)
+Host A = Krzysztof (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś tłumaczem. Porównujesz różne przekłady, wyjaśniasz wybory translatorskie, pokazujesz jak zmienia się sens."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Beata (Realista)
+### Prowadzący B — Beata (Kobieta)
 Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+"Jesteś czytelniczką różnych wersji. Pytasz o różnice, dopytuj o niuanse. Dziwisz się rozbieżnościom."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -115,7 +114,7 @@ Część 4: Symbolika i głębia (3 min) — rola: B analizuje — wątek: "Zwie
 Część 5: Współczesna aktualność (2 min) — rola: A podsumowuje — wątek: "Rita Skeeter = fake news, Ministerstwo = surveillance"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura opcjonalna)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje:
 - **Mugole** — niemagiczni ludzie, metafora wykluczenia społecznego
@@ -142,6 +141,5 @@ Część 5: Współczesna aktualność (2 min) — rola: A podsumowuje — wąte
 - Age rating: 13+ (mature themes discussion)
 
 ---
-*Wygenerowano: 2025-09-09*
-*Agent: 37d-afa-audio-format-analyzer*
-*Status: COMPLETED*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0012_harry_potter | Format: Glosa do przekładów | Czas: 14 min*

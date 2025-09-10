@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — CIERPIENIA MŁODEGO WERTERA
+# ANALIZA FORMATU AUDIO — SORROWS OF YOUNG WERTHER
 ================================
 
 ## METRYKA DZIEŁA
@@ -70,10 +70,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — uniwersalny format dla wysokiej sumy punktów
-- **Alternatywny**: Wykład filologiczny (przy G=5, B=5)
-- **Długość**: 14 min (suma=42, H=4)
-- **Uzasadnienie**: Książka o ekstremalnym wpływie kulturowym i psychologicznym wymaga przystępnego formatu, który pozwoli na dialog między entuzjastycznym przedstawieniem fenomenu a krytyczną analizą jego konsekwencji.
+- **Główny:** Wykład filologiczny w duecie — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=42)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -104,15 +104,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jerzy (Mężczyzna)
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4-6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
 
-### Prowadzący A — Wojciech (Entuzjasta)
-Host A = Wojciech (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Beata (Realistka)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Dr Monika (Kobieta)
+Host B = Dr Monika (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś filolożką-moderatorką. Tłumaczysz trudne pojęcia, prosisz o przykłady, pilnujesz tempa dla laika. Podsumowujesz punktami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -123,7 +121,7 @@ Część 4: TikTok i sad boy culture (3 min) — rola: B analizuje — wątek: "
 Część 5: Polski Werter - Gustaw (2 min) — rola: A/B dialog — wątek: "Mickiewicz i Goethe w Weimarze"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura uzupełniająca)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowych pojęć
 - **Sturm und Drang** - "Burza i napór", niemiecki preromantyzm gloryfikujący uczucia ponad rozum
@@ -150,3 +148,7 @@ Część 5: Polski Werter - Gustaw (2 min) — rola: A/B dialog — wątek: "Mic
 - Dżingle: Intro - tajemnicze / Przejścia - napięcie / Outro - melancholijne
 - Ostrzeżenia: Content warning o tematyce samobójczej obowiązkowy
 - Zasoby: Linie pomocy psychologicznej w opisie odcinka
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0032_sorrows_of_young_werther | Format: Wykład filologiczny w duecie | Czas: 14 min*

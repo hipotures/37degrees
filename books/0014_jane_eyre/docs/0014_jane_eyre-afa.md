@@ -8,7 +8,7 @@
 **Rok wydania**: 1847  
 **Gatunek**: Novel, Gothic  
 **Liczba tłumaczeń**: 174 (600+ razy na 60+ języków)  
-**Przekład polski**: Teresa Świderska (1930) - "Dziwne losy Jane Eyre"  
+**Przekład polski**: Teresa Świderska (1930) - "Dziwne losy Jane Eyre"
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
@@ -43,10 +43,10 @@ Walka o równość płci jako centralny temat. Bertha Mason jako symbol represjo
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — Wysokie G (5) i B (5) kwalifikują do formatu eksperckiego
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=42, H=5)
-- **Uzasadnienie**: Innowacyjność warsztatu pisarskiego i głębia filozoficzna wymagają akademickiego podejścia z elementami edukacyjnymi
+- **Główny:** Perspektywa Ona/On — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=42)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -72,15 +72,13 @@ Walka o równość płci jako centralny temat. Bertha Mason jako symbol represjo
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Adam (Mężczyzna)
+Host A = Adam (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Przedstawiasz męską perspektywę odbioru. Zwracasz uwagę na inne aspekty fabuły, bohaterów, konfliktów."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność. Twój ton jest akademicki ale przystępny. Skupiasz się na innowacjach technicznych Brontë: pierwszoosobowej narracji kobiecej, połączeniu gotyku z realizmem, bezpośrednim zwrocie do czytelnika. Analizujesz strukturę pięciofazową powieści i symbolikę przestrzeni."
-
-### Prowadzący B — Natalia (Asystent/Student)
+### Prowadzący B — Natalia (Kobieta)
 Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami. Wprowadzasz współczesny kontekst: jak Gen Z interpretuje Rochestera jako red flag, BookTok phenomenon, dark academia aesthetic. Łączysz analizę akademicką z popkulturową recepcją."
+"Analizujesz książkę z perspektywy kobiecej. Zwracasz uwagę na role płciowe, reprezentację kobiet, relacje między postaciami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -105,7 +103,7 @@ A: Wskazuje na wyprzedzenie epoki o 70 lat
 B: Podsumowuje punktami, co Jane Eyre daje współczesnemu czytelnikowi  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (dla polskich słuchaczy)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia literackie:
 1. **Bildungsroman** — powieść o dojrzewaniu, śledząca rozwój bohaterki od dzieciństwa
@@ -130,3 +128,7 @@ B: Podsumowuje punktami, co Jane Eyre daje współczesnemu czytelnikowi
 - Pauzy: [0:00 intro] [3:00 przejście] [6:00 przejście] [9:00 przejście] [12:00 przejście] [14:00 outro]
 - Dżingle: Klasyczna muzyka kameralna między segmentami
 - Styl: Akademicki ale przystępny, balans między analizą literacką a popkulturową
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0014_jane_eyre | Format: Perspektywa Ona/On | Czas: 14 min*

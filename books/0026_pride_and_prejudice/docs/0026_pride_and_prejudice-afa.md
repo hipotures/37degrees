@@ -43,10 +43,10 @@
 
 ## FORMAT
 
-- **Główny**: **PRZYJACIELSKA WYMIANA** — Idealny dla kultowej pozycji o wysokiej recepcji cyfrowej i edukacyjnej
-- **Alternatywny**: Mistrz i Uczeń (ze względu na głębię filozoficzną i innowacyjność)
-- **Długość**: 14 minut (suma=43, H=5)
-- **Uzasadnienie**: Format 1 wybrano ze względu na C≥3 (fenomen kulturowy=5) oraz D≥3 (współczesna recepcja=5). Pomimo niedawnego użycia tego formatu, system rotacji został tymczasowo zawieszony z powodu braku alternatyw spełniających kryteria eligibility.
+- **Główny:** Adwokat i Sceptyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -77,17 +77,13 @@ Siostra Jane zniszczyła większość jej listów "aby chronić reputację rodzi
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Tomasz (Mężczyzna)
+Host A = Tomasz (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś adwokatem dzieła. Bronisz kontrowersyjnych wątków, znajdujesz uzasadnienia dla trudnych tematów. Używaj argumentów i faktów. Odnosisz się do kontekstu historycznego."
 
-### Prowadzący A — Michał (Entuzjasta)
-Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Kasia (Realistka)
-Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Marta (Kobieta)
+Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś sceptyczną krytyczką. Kwestionujesz założenia, wskazujesz problemy moralne i anachronizmy. Pytasz „ale czy to nie jest problematyczne?". Dbasz o współczesną wrażliwość."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -114,7 +110,7 @@ B: Różnice w interpretacji, dane o adaptacjach
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje
 - **Free indirect discourse**: Technika narracyjna łącząca głos narratora z myślami postaci bez użycia cudzysłowów
@@ -142,7 +138,5 @@ B: Różnice w interpretacji, dane o adaptacjach
 - **Balans**: 55% A (entuzjazm) / 45% B (analiza)
 
 ---
-
-*Dokument AFA wygenerowany 2025-01-09*  
-*Agent: 37d-afa-audio-format-analyzer*  
-*Status: COMPLETED*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0026_pride_and_prejudice | Format: Adwokat i Sceptyk | Czas: 14 min*

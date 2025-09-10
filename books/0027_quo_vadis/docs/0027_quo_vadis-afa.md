@@ -72,10 +72,11 @@
 **SUMA: 41/45 | Percentyl: 85%**
 
 ## FORMAT
-- **Główny**: Wykład filologiczny — format najbardziej adekwatny dla dzieła o przełomowej innowacyjności warsztatowej (G=5) i głębokiej symbolice (B=5)
-- **Alternatywny**: Komentarz historyczno-literacki
-- **Długość**: 14 min (suma=41, H=5)
-- **Uzasadnienie**: Powieść wymaga eksperckiego omówienia innowacji narracyjnych, wpływu na literaturę światową oraz bogatej symboliki. Format pozwala na cytowanie źródeł i edycji krytycznych.
+
+- **Główny:** Reporter i Świadek — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=41)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -101,15 +102,13 @@ Roman Empire trend osiągnął 1.6 miliarda wyświetleń. Mężczyźni przyznaj�
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Marek (Mężczyzna)
+Host A = Marek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś reporterem relacjonującym wydarzenia. Opisujesz sceny, rekonstruujesz fakty, zadajesz pytania świadkowi. Mów dynamicznie, buduj napięcie."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-"Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność. Omów innowacje narracyjne Sienkiewicza: technikę serialową z cliffhangerami, proto-kinematograficzne podejście, multiperspektywiczność. Cytuj opinię Hemingwaya i Faulknera. Wskaż wpływ na rozwój powieści historycznej."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-"Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami. Dopytuj o związek z malarstwem Siemiradzkiego, alegorię polską pod rzymskimi kostiumami, współczesny fenomen Roman Empire na TikToku. Proś o wyjaśnienie archetypów Junga w postaciach."
+### Prowadzący B — Anna (Kobieta)
+Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś świadkiem wydarzeń z książki. Opowiadasz z perspektywy uczestniczki, dodajesz detale sensoryczne. Mów emocjonalnie, jakbyś tam była."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -173,6 +172,5 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 4. Bujnicki T., "Sienkiewicz i historia", WSiP, Warszawa 1981
 
 ---
-*Dokument AFA wygenerowany przez Claude Code - Agent 37d-afa-audio-format-analyzer*
-*Data: 2025-09-09*
-*Status: Kompletny do produkcji audio*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0027_quo_vadis | Format: Reporter i Świadek | Czas: 13 min*

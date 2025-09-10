@@ -67,10 +67,10 @@
 
 ## FORMAT
 
-• **Główny**: Przyjacielska wymiana — użyty 0/3 ostatnich | Wynik ważony: 21.0
-• **Alternatywny**: Wykład filologiczny — cooldown: 1 odcinek | Wynik ważony: 19.3
-• **Długość**: 14 min (suma=39, H=4, korekta gatunkowa=0)
-• **Uzasadnienie**: Eligible=[1, 2, 3, 4, 5, 6, 8, 10]; Przyjacielska wymiana wybrana przez wysoką recepcję współczesną (D=5) i fenomen kulturowy (C=5), format nie używany w ostatnich 3 odcinkach
+- **Główny:** Wykład filologiczny w duecie — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=39)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -91,17 +91,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jerzy (Mężczyzna)
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4-6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
 
-### Prowadzący A — Entuzjasta (mężczyzna)
-Host A = Entuzjasta (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadząca B — Realistka (kobieta)
-Host B = Realistka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Dr Monika (Kobieta)
+Host B = Dr Monika (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś filolożką-moderatorką. Tłumaczysz trudne pojęcia, prosisz o przykłady, pilnujesz tempa dla laika. Podsumowujesz punktami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -116,7 +112,7 @@ Host B = Realistka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 **Część 5: Ucieczka i odrodzenie** (3 min) — rola: A i B wspólnie — wątek: "Ludzie-książki, symbol Feniksa, nadzieja na odbudowę" [ANALYSIS]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (opcjonalny - nie lektura szkolna)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 • **Definicje pojęć**: 
   - Dystopia - wizja przyszłości przedstawiająca społeczeństwo totalitarne lub zdegenerowane
@@ -134,10 +130,6 @@ Host B = Realistka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
   3. "Musimy być wszyscy do siebie podobni"
   4. "Sito i piasek" - metafora niemożności zatrzymania wiedzy
   5. "A liście drzewa służą do uzdrawiania narodów" - finał
-
-## PORÓWNANIE KANONICZNE
-
-Most do: **"1984" Orwella** — podobieństwo: dystopia kontroli, różnica: u Orwella kontrola odgórna przez Partię, u Bradbury'ego oddolna przez społeczeństwo
 
 ## METADANE PRODUKCYJNE
 
@@ -162,6 +154,5 @@ Pytania słuchaczy: _do uzupełnienia_
 Dokładność czasu: _do uzupełnienia_
 
 ---
-
-*Dokument wygenerowany przez 37d-afa-audio-format-analyzer*
-*Data: 2025-09-09*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0009_fahrenheit_451 | Format: Wykład filologiczny w duecie | Czas: 14 min*

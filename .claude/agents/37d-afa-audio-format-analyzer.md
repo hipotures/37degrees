@@ -35,12 +35,15 @@ CSV_PATH = "$CLAUDE_PROJECT_DIR/config/audio_format_scores.csv"
 if not os.path.exists(CSV_PATH):
     # Utwórz nowy plik CSV z nagłówkami
     create_csv_with_headers(CSV_PATH)
+    format_history = []
     last3_formats = []
 else:
     # Odczytaj istniejący CSV
     df = read_csv(CSV_PATH)
-    # Pobierz ostatnie 3 użyte formaty
-    last3_formats = get_last_3_formats(df)
+    # Pobierz CAŁĄ historię formatów dla analizy dystrybucji
+    format_history = get_all_formats(df)
+    # Pobierz ostatnie 3 dla kompatybilności wstecznej
+    last3_formats = format_history[-3:] if len(format_history) >= 3 else format_history
 
 
 ## ETAP 2: Analiza dokumentów research
@@ -140,33 +143,86 @@ Read(file_path=review_path, offset=801, limit=300)
 - 3: Elementy obecne
 - 0: Neutralne
 
-## ETAP 4: Przygotowanie last3_formats
+## ETAP 4: Przygotowanie historii formatów i analizy dystrybucji
 
-### 4.1 Odczyt ostatnich użytych formatów
+### 4.1 Analiza pełnej dystrybucji formatów
 ```python
-# Odczytaj ostatnie 3 użyte formaty z poprzednich wierszy CSV
-# Aby skrypt format_selector.py mógł zastosować rotację
+# Analizuj CAŁĄ historię dla lepszej dystrybucji
 if existing_rows:
-    last3_formats_list = []
-    for row in existing_rows[-3:]:  # ostatnie 3 wiersze
+    # Zbierz statystyki wszystkich użytych formatów
+    from collections import Counter
+    all_formats = []
+    for row in existing_rows:
         chosen = row.get('chosen_format', '')
         if chosen:
-            last3_formats_list.append(chosen)
+            all_formats.append(chosen)
+    
+    # Oblicz dystrybucję
+    format_counts = Counter(all_formats)
+    total_books = len(all_formats)
+    
+    # Znajdź nieużywane lub rzadko używane formaty
+    all_possible_formats = [
+        "Przyjacielska wymiana", "Mistrz i Uczeń", "Adwokat i Sceptyk",
+        "Reporter i Świadek", "Współczesny i Klasyk", "Emocja i Analiza",
+        "Lokalny i Globalny", "Fan i Nowicjusz", "Perspektywa Ona/On",
+        "Wykład filologiczny w duecie", "Glosa do przekładów",
+        "Komentarz historyczno-literacki"
+    ]
+    
+    unused_formats = [f for f in all_possible_formats if format_counts.get(f, 0) == 0]
+    underused_formats = [f for f in all_possible_formats 
+                         if 0 < format_counts.get(f, 0) < total_books * 0.05]
+    
+    # Przygotuj dane dla format_selector z pełną historią
+    format_history_json = json.dumps(all_formats)
+    distribution_stats = {
+        'total': total_books,
+        'counts': dict(format_counts),
+        'unused': unused_formats,
+        'underused': underused_formats
+    }
+    distribution_json = json.dumps(distribution_stats)
+    
+    # Zachowaj też last3 dla kompatybilności
+    last3_formats_list = all_formats[-3:] if len(all_formats) >= 3 else all_formats
     last3_formats_json = json.dumps(last3_formats_list)
 else:
+    format_history_json = '[]'
+    distribution_json = '{}'
     last3_formats_json = '[]'
+```
+
+### 4.2 Inteligentne wymuszenie różnorodności
+```python
+# Jeśli jakiś format dominuje (>30% wszystkich), wymuś alternatywę
+if format_counts and total_books > 10:
+    most_common = format_counts.most_common(1)[0]
+    if most_common[1] / total_books > 0.30:
+        # Ten format jest nadużywany - dodaj flagę wymuszenia alternatywy
+        force_alternative = True
+        overused_format = most_common[0]
+    else:
+        force_alternative = False
+        overused_format = None
+        
+    # Jeśli są nieużywane formaty, priorytetyzuj je
+    if unused_formats:
+        priority_format = unused_formats[0]  # Weź pierwszy nieużywany
+    elif underused_formats:
+        priority_format = underused_formats[0]  # Lub pierwszy niedoużywany
+    else:
+        priority_format = None
 ```
 
 ### UWAGA: Wybór formatu i obliczenia
 ```
-NIE OBLICZAMY SAMI:
-- eligibility dla formatów
-- weighted scores
-- chosen_format
-- duration_min
+Format_selector.py wykona ostateczne obliczenia, ALE:
+- Przekazujemy mu pełną historię dystrybucji
+- Sygnalizujemy problemy z nadużyciem formatów
+- Sugerujemy priorytetowe formaty do użycia
 
-Te obliczenia wykona format_selector.py w ETAPIE 7!
-Naszym zadaniem jest tylko zebranie surowych danych.
+To pozwoli na inteligentniejszy wybór!
 ```
 
 ## ETAP 5: Zbieranie danych do dokumentu AFA
@@ -244,7 +300,9 @@ new_row = {
     'B_symbolika_relig_mit': b_symbolika,  # 1 lub 0
     'B_warstwy_3plus': b_warstwy,  # 1 lub 0
     'B_metafory_egzyst': b_metafory,  # 1 lub 0
-    'last3_formats': last3_formats_json  # Format: '["Format 1", "Format 2", "Format 3"]'
+    'last3_formats': last3_formats_json,  # Format: '["Format 1", "Format 2", "Format 3"]'
+    'format_history': format_history_json,  # Pełna historia wszystkich formatów
+    'distribution_stats': distribution_json  # Statystyki dystrybucji
 }
 
 # PRAWIDŁOWY sposób dodawania do CSV (unika problemów z formatowaniem):

@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — DAMA KAMELIOWA
+# ANALIZA FORMATU AUDIO — LADY OF THE CAMELLIAS
 ================================
 
 ## METRYKA DZIEŁA
@@ -60,10 +60,11 @@
 **SUMA: 42/45 | Percentyl: 93%**
 
 ## FORMAT
-- **Główny**: Przyjacielska wymiana — użyty 3/3 ostatnich | Wynik ważony: 20.8
-- **Alternatywny**: Mistrz i Uczeń (cooldown zalecany)
-- **Długość**: 14 min (suma=42, H=4)
-- **Uzasadnienie**: Mimo użycia w ostatnich 3 odcinkach, format ma najwyższy wynik ważony. Idealny dla fenomenu kulturowego (C=5) i współczesnej recepcji (D=4).
+
+- **Główny:** Wykład filologiczny w duecie — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=42)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -84,15 +85,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jerzy (Mężczyzna)
+Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4-6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
 
-### Prowadzący A — Wojciech (Entuzjasta)
-Host A = Wojciech (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadząca B — Beata (Realistka)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Dr Monika (Kobieta)
+Host B = Dr Monika (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś filolożką-moderatorką. Tłumaczysz trudne pojęcia, prosisz o przykłady, pilnujesz tempa dla laika. Podsumowujesz punktami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -107,7 +106,7 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 **Część 5**: Poświęcenie czy słabość? (2 min) — rola: A+B podsumowanie — wątek: „Współczesna krytyka feministyczna vs romantyzacja"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (lektura szkolna w Polsce)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje pojęć
 • **Demi-monde**: Francuski "półświatek" - ekskluzywny świat luksusowych kurtyzan XIX wieku
@@ -125,9 +124,6 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 3. "Kocham cię bardziej niż życie, ale nie mogę ci tego powiedzieć"
 4. "Byłam kurtyzaną, ale nigdy nie byłam kobietą bez serca"
 5. "Społeczeństwo, które nie przebacza, samo potrzebuje przebaczenia"
-
-## PORÓWNANIE KANONICZNE
-Most do: **"Anna Karenina"** — podobieństwo: kobieta wykluczona społecznie za złamanie norm, tragiczny finał jako jedyne wyjście
 
 ## METADANE PRODUKCYJNE
 - **Tempo**: 130 słów/min
@@ -147,3 +143,7 @@ Most do: **"Anna Karenina"** — podobieństwo: kobieta wykluczona społecznie z
 - Cytowania: [do uzupełnienia]
 - Pytania słuchaczy: [do uzupełnienia]
 - Dokładność czasu: 14:00 target
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0015_lady_of_the_camellias | Format: Wykład filologiczny w duecie | Czas: 14 min*

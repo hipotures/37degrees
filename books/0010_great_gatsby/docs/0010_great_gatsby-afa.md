@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — THE GREAT GATSBY
+# ANALIZA FORMATU AUDIO — GREAT GATSBY
 ================================
 
 ## METRYKA DZIEŁA
@@ -72,10 +72,10 @@
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — G=5 (innowacyjność) i B=5 (głębia) idealnie pasują do akademickiej analizy
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=41, H=5)
-- **Uzasadnienie**: Rewolucyjne techniki pisarskie Fitzgeralda (narracja, symbolika, struktura) oraz filozoficzna głębia (archetypy, mitologia) wymagają filologicznego podejścia
+- **Główny:** Fan i Nowicjusz — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=41)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -91,23 +91,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Bartek (Mężczyzna)
+Host A = Bartek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś superfanem książki. Z entuzjazmem opowiadasz o ulubionych fragmentach, ciekawostkach, teoriach fanowskich. Zarażasz pasją."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
-
-Analizuj rewolucyjne techniki Fitzgeralda: podwójną perspektywę narratora-świadka, fragmentaryczną kompozycję, system symboliki kolorów. Cytuj konkretne fragmenty pokazujące innowacje stylistyczne. Podkreślaj wpływ na rozwój powieści modernistycznej.
-
-### Prowadzący B — Natalia (Asystentka/Studentka)
-
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
-
-Dopytuj o praktyczne zastosowanie teorii literackich. Proś o wyjaśnienie związku między technikami pisarskimi a uniwersalnymi tematami. Łącz analizę akademicką ze współczesnymi odniesieniami (social media, performatywność tożsamości).
+### Prowadzący B — Magda (Kobieta)
+Host B = Magda (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Nie znasz książki. Zadajesz podstawowe pytania, prosisz o wyjaśnienia. Reagujesz zaskoczeniem na zwroty akcji."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -132,7 +122,7 @@ Dopytuj o praktyczne zastosowanie teorii literackich. Proś o wyjaśnienie zwią
 - Podsumowanie: dlaczego wciąż aktualne
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (LEKTURA SZKOLNA)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje:
 - **Narrator pierwszoosobowy uczestniczący** - opowiada historię, w której sam uczestniczy, ale nie jest głównym bohaterem
@@ -156,3 +146,7 @@ Dopytuj o praktyczne zastosowanie teorii literackich. Proś o wyjaśnienie zwią
 - Pauzy: [0:45] po definicjach, [2:30] zmiana tematu, [5:00] przykład
 - Dżingle: Intro klasyczne/Przejścia subtelne/Outro refleksyjne
 - Edycje krytyczne: Fitzgerald, F.S. (1991). *The Great Gatsby: The Cambridge Edition*. Ed. Matthew J. Bruccoli
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0010_great_gatsby | Format: Fan i Nowicjusz | Czas: 13 min*

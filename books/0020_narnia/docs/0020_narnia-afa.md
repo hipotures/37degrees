@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+# ANALIZA FORMATU AUDIO — NARNIA
 ================================
 
 ## METRYKA DZIEŁA
@@ -44,10 +44,10 @@
 
 ## FORMAT
 
-- **Główny**: WYKŁAD FILOLOGICZNY W DUECIE — Najwyższa wartość ważona (20.5) spośród formatów eligible
-- **Alternatywny**: Mistrz i Uczeń (jako drugi najwyższy eligible)
-- **Długość**: 14 minut (suma=39, H=5)
-- **Uzasadnienie**: Głębia filozoficzna (B=5) i innowacyjność pisarska (G=5) predysponują do akademickiej analizy. Format pozwala na eksplorację warstw symbolicznych, technik portal fantasy i wpływu na literaturę przy zachowaniu przystępności dla szerokiej publiczności.
+- **Główny:** Fan i Nowicjusz — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=39)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -68,17 +68,13 @@ Sceny nad zamarzniętym jeziorem w filmie Disney kręcono nad Zalewem Siemianów
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Bartek (Mężczyzna)
+Host A = Bartek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś superfanem książki. Z entuzjazmem opowiadasz o ulubionych fragmentach, ciekawostkach, teoriach fanowskich. Zarażasz pasją."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-"Jesteś doświadczonym filologiem i specjalistą od poetyki. Twoim zadaniem jest prowadzenie wykładu o innowacjach literackich C.S. Lewisa w 'Opowieściach z Narnii'. Definiujesz terminy literackie, wskazujesz na technikę 'suppositional fantasy' vs alegoria, analizujesz strukturę portal fantasy. Cytujesz fragmenty tekstu i edycje krytyczne. Mówisz precyzyjnie, 4-6 zdań na wypowiedź. Po każdym bloku teoretycznym pytasz Natalię o klarowność dla słuchaczy. Używasz przykładów: szafa jako archetyp progu, Aslan jako figura Chrystusa w świecie Narnii, synteza mitologii. Odwołujesz się do wpływu na Rowling, Pullmana, współczesną fantasy."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-"Jesteś bystrą asystentką-studentką literatury. Twoim zadaniem jest moderowanie wykładu Profesora, dbanie o zrozumiałość dla nie-specjalistów. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o konkretne przykłady z tekstu gdy Profesor teoretyzuje. Dopytuj o Mr. Tumnus phenomenon na TikToku, związek z cottagecore aesthetic, dlaczego Gen Z odnajduje się w escapism Narnii. Pilnujesz tempa - gdy wykład staje się zbyt akademicki, prosisz o 'przykład dla laika'. Podsumowujesz kluczowe punkty przed przejściem do nowego tematu. Zadajesz pytania o kontrowersje (okultyzm, Problem Susan) aby pokazać różne perspektywy."
+### Prowadzący B — Magda (Kobieta)
+Host B = Magda (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Nie znasz książki. Zadajesz podstawowe pytania, prosisz o wyjaśnienia. Reagujesz zaskoczeniem na zwroty akcji."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -93,7 +89,7 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 **Część 5: Polski kontekst i wpływ globalny** (2.5 min) — rola: Podsumowanie — wątek: "Od Polkowskiego do Netflixa"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura szkolna)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje dla uczniów:
 1. **Portal fantasy** — gatunek, gdzie bohaterowie przechodzą z realnego świata do magicznego przez portal (szafa, peron 9¾)
@@ -123,6 +119,5 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Dynamika**: Profesor prowadzi 60%, Natalia moderuje 40%
 
 ---
-*Dokument AFA wygenerowany: 2025-01-09*  
-*Format wybrany algorytmicznie na podstawie punktacji i rotacji*  
-*Czas trwania dostosowany do złożoności strukturalnej (H=5)*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0020_narnia | Format: Fan i Nowicjusz | Czas: 13 min*

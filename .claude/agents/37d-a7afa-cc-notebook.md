@@ -1,5 +1,5 @@
 ---
-name: 37d-a7-notebook-audio
+name: 37d-a7afa-notebook-audio
 description: |
   NotebookLM Audio Generation Orchestrator - AFA generation using MCP playwright-cdp.
   Orchestrates complete audio generation workflow from TODOIT task retrieval to generation completion

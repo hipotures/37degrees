@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — Romeo i Julia
+# ANALIZA FORMATU AUDIO — ROMEO AND JULIET
 ================================
 
 ## METRYKA DZIEŁA
@@ -62,10 +62,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Eligible=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; max_weighted=22.0
-- **Alternatywny**: Wykład filologiczny
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Najwyższa punktacja (44/45) sugeruje dzieło o wyjątkowej głębi i znaczeniu. Format "Przyjacielska wymiana" pozwoli na swobodne eksplorowanie kontrowersji wieku bohaterów, współczesnych paralleli z mental health i dating apps, przy zachowaniu lekkości potrzebnej do dyskusji o tak ciężkich tematach.
+- **Główny:** Lokalny i Globalny — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -86,15 +86,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Robert (Mężczyzna)
+Host A = Robert (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Przedstawiasz perspektywę globalną. Mówisz o światowej recepcji, różnych interpretacjach kulturowych, uniwersalnych tematach."
 
-### Prowadzący A — Marcin (Entuzjasta)
-Host A = Marcin (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodał?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Aga (Realistka)
-Host B = Aga (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Agnieszka (Kobieta)
+Host B = Agnieszka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Znasz polski kontekst. Opowiadasz o polskich przekładach, recepcji, adaptacjach. Łączysz z polską kulturą i edukacją."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -133,3 +131,7 @@ Część 5: Polski kontekst i podsumowanie (2 min) — rola: dialog — wątek: 
 - Dżingle: Intro energiczne, przejścia subtelne, outro refleksyjne
 - Balans: 60% Marcin entuzjazm, 40% Aga kontekst
 - Ton: Swobodny, ale z szacunkiem dla tragedii nastolatków
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0030_romeo_and_juliet | Format: Lokalny i Globalny | Czas: 14 min*

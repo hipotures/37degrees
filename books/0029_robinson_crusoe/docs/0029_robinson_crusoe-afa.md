@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — Robinson Crusoe
+# ANALIZA FORMATU AUDIO — ROBINSON CRUSOE
 ================================
 
 ## METRYKA DZIEŁA
@@ -46,10 +46,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — max_weighted=17.6
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 12 min (suma=37, H=3)
-- **Uzasadnienie**: Format pozwala na lekkie podejście do ciężkich tematów kolonialnych, umożliwia balansowanie między fascynacją survival story a krytyką problematycznych aspektów
+- **Główny:** Emocja i Analiza — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=37)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -85,15 +85,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Piotr (Mężczyzna)
+Host A = Piotr (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś analitykiem. Rozkładasz strukturę, analizujesz techniki narracyjne, symbolikę. Zachowujesz dystans, używasz precyzyjnych terminów."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Beata (Realista)  
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Ewa (Kobieta)
+Host B = Ewa (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Reagujesz emocjonalnie na książkę. Mówisz o uczuciach, które wzbudza, identyfikujesz się z bohaterami. Używaj języka uczuć i wrażeń."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -125,7 +123,7 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (dla polskiej lektury)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia:
 - **Robinsonada** - gatunek literacki o rozbitkach na bezludnej wyspie
@@ -151,3 +149,7 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Dżingle**: Intro (dźwięki morza) / Przejścia (odgłosy dżungli) / Outro (powrót statku)
 - **Dynamika**: Żywa wymiana, krótkie wypowiedzi (max 30 sekund), częste przekazywanie głosu
 - **Ton**: Swobodny, konwersacyjny, z elementami humoru przy omawianiu anachronizmów
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0029_robinson_crusoe | Format: Emocja i Analiza | Czas: 14 min*

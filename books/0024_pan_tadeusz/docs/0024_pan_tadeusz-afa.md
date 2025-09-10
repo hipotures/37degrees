@@ -41,10 +41,10 @@ Silne kontrasty ról płciowych: Zosia (naturalna niewinność) vs Telimena (szt
 
 ## FORMAT
 
-- **Główny**: WYKŁAD FILOLOGICZNY W DUECIE — Innowacyjność warsztatowa (G=5) i głębia filozoficzna (B=5) predestynują do akademickiej analizy
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 minut (suma=40, H=5)
-- **Uzasadnienie**: Dzieło o rewolucyjnych technikach pisarskich i bogatej warstwie symbolicznej wymaga eksperckiego omówienia z jednoczesnym przekładem na język zrozumiały dla laika
+- **Główny:** Komentarz historyczno-literacki — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=40)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -75,15 +75,13 @@ Silne kontrasty ról płciowych: Zosia (naturalna niewinność) vs Telimena (szt
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Prof. Łukasz (Mężczyzna)
+Host A = Prof. Łukasz (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś historykiem literatury. Osadzasz dzieło w kontekście epoki, wyjaśniasz konwencje, obyczaje, realia historyczne."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
+### Prowadzący B — Barbara (Kobieta)
+Host B = Barbara (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawą słuchaczką. Dopytuj o kontekst, zaskakujące fakty historyczne, związki z innymi dziełami epoki."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -120,3 +118,7 @@ Część 5: Kulturowy fenomen po 190 latach (2 min) — rola: wspólne podsumowa
 - Pauzy: [po definicjach], [przed cytatami], [między segmentami]
 - Dżingle: Intro klasyczne/Przejścia akademickie/Outro nostalgiczne
 - Ton: Akademicki ale przystępny, balans między erudycją a zrozumiałością
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0024_pan_tadeusz | Format: Komentarz historyczno-literacki | Czas: 14 min*

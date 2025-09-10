@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — CZERWONE I CZARNE
+# ANALIZA FORMATU AUDIO — RED AND BLACK
 ================================
 
 ## METRYKA DZIEŁA
@@ -67,10 +67,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — najwyższy wynik ważony (20.8) pomimo powtórzeń
-- **Alternatywny**: Współczesny i Klasyk (drugi najwyższy wynik 20.5)
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Dzieło o uniwersalnych tematach ambicji i manipulacji idealnie nadaje się do swobodnej, przystępnej rozmowy łączącej klasykę z popkulturą. Format pozwala na dynamiczne przeskoki między epokami i naturalne wprowadzenie współczesnych analogii.
+- **Główny:** Współczesny i Klasyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -101,29 +101,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jan (Mężczyzna)
+Host A = Profesor Jan (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś klasykiem, znasz kontekst historyczny. Wyjaśniasz oryginalne intencje autora, konwencje epoki. Bronisz wartości ponadczasowych."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia.
-
-Kluczowe połączenia do wykorzystania:
-- Julian Sorel = XIX-wieczny LinkedIn influencer
-- Matylda de la Mole = villain era na TikToku
-- Czerwone i czarne = swipe left or right w życiowych wyborach
-- Seminarium = toxic workplace z XIX wieku
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A.
-
-Kluczowe fakty do podkreślenia:
-- Stendhal sam był oskarżony o szpiegostwo i plagiat
-- Książka spalona przez wojskowych w Brazylii
-- Boy-Żeleński przetłumaczył tytuł jako walkę wewnętrzną
-- 174 tłumaczenia na świecie, ale dopiero doceniona po 50 latach
+### Prowadzący B — Ola (Kobieta)
+Host B = Ola (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Reprezentujesz współczesną perspektywę. Łączysz książkę z obecnymi trendami, social media, popkulturą. Używaj współczesnych analogii."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -148,7 +132,7 @@ Część 5: "Czy warto być Julianem?" (2 min) — rola: A+B — podsumowanie
 - Zakończenie: autentyczność vs strategia życiowa
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowych pojęć:
 - **Beylizm** — filozofia Stendhala o racjonalnym dążeniu do szczęścia przez intensywne przeżywanie
@@ -176,6 +160,5 @@ Część 5: "Czy warto być Julianem?" (2 min) — rola: A+B — podsumowanie
 - Balans: 55% Andrzej (entuzjazm) / 45% Beata (kontekst)
 
 ---
-*Dokument wygenerowany przez Audio Format Analyzer v2.0*
-*Data analizy: 09.09.2025*
-*Agent: 37d-afa-audio-format-analyzer*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0028_red_and_black | Format: Współczesny i Klasyk | Czas: 14 min*

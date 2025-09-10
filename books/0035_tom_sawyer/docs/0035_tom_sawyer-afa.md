@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — The Adventures of Tom Sawyer
+# ANALIZA FORMATU AUDIO — TOM SAWYER
 ================================
 
 ## METRYKA DZIEŁA
@@ -44,10 +44,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Format eligibilny z największym weighted score (19.8)
-- **Alternatywny**: Mistrz i Uczeń (eligibilny, weighted 18.8)
-- **Długość**: 14 min (suma=40, H=4)
-- **Uzasadnienie**: Fenomen kulturowy (C=5) i wysoka współczesna recepcja (D=4) predysponują do formatu przyjaznego, który pozwoli połączyć nostalgię za klasyczną amerykańską literaturą z współczesnymi odniesieniami do psychologii manipulacji i lost childhood freedom.
+- **Główny:** Glosa do przekładów — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=40)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -73,15 +73,13 @@ Hemingway: „All modern American literature comes from Huckleberry Finn". Twain
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Krzysztof (Mężczyzna)
+Host A = Krzysztof (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś tłumaczem. Porównujesz różne przekłady, wyjaśniasz wybory translatorskie, pokazujesz jak zmienia się sens."
 
-### Prowadzący A — Tomek (Entuzjasta)
-Host A = Tomek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Kasia (Realistka)
-Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Beata (Kobieta)
+Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś czytelniczką różnych wersji. Pytasz o różnice, dopytuj o niuanse. Dziwisz się rozbieżnościom."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -139,3 +137,7 @@ Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Styl muzyczny**: Americana, folk, odrobina współczesnego beatu przy współczesnych odniesieniach
 - **Balans głosów**: 50/50, szybka wymiana, maksymalnie 30 sekund na jedną wypowiedź
 - **Referencje kulturowe**: TikTok trends, helicopter parenting, ADHD awareness, influencer marketing, gamifikacja
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0035_tom_sawyer | Format: Glosa do przekładów | Czas: 14 min*

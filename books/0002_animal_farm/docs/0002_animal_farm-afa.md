@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — ANIMAL FARM (FOLWARK ZWIERZĘCY)
+# ANALIZA FORMATU AUDIO — ANIMAL FARM
 ================================
 
 ## METRYKA DZIEŁA
@@ -70,10 +70,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Najwyższa wartość ważona (20.8) spośród formatów eligible
-- **Alternatywny**: Wykład filologiczny (20.5)
-- **Długość**: 14 min (suma=39, H=5)
-- **Uzasadnienie**: Format przyjacielski idealny dla połączenia wysokiej kontrowersyjności z uniwersalnym przesłaniem, pozwala na swobodne łączenie alegorii historycznej z współczesnymi analogiami do social media i autorytaryzmu.
+- **Główny:** Mistrz i Uczeń — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=38)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -114,15 +114,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Andrzej (Mężczyzna)
+Host A = Profesor Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś doświadczonym filologiem. Cel: porządkować pojęcia i budować mosty między dziełami. Używaj porównań, definicji 1-2 zdania. Każdy termin wyjaśnij krótko. Po każdym bloku oddaj głos B: „co w tym niejasne?"."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia.
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A.
+### Prowadzący B — Julia (Kobieta)
+Host B = Julia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś bystrą studentką. Zadajesz precyzyjne pytania „czy to znaczy, że…?". Prosisz o przykłady z tekstu. Gdy coś niejasne, prosisz o parafrazę. Zwięźle podsumowujesz, zanim oddasz głos A."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -161,3 +159,7 @@ Część 5: Aktualność w erze social media (2 min) — rola: A+B podsumowanie 
 - Dynamika: Żywa wymiana, krótkie wypowiedzi (20-30 sekund na osobę)
 - Balans: 50/50 między prowadzącymi
 - Ton: Swobodny ale merytoryczny, przyjacielski spór o interpretacje
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0002_animal_farm | Format: Mistrz i Uczeń | Czas: 14 min*

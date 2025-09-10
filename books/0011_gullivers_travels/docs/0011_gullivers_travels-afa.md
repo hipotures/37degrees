@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — GULLIVER'S TRAVELS
+# ANALIZA FORMATU AUDIO — GULLIVERS TRAVELS
 ================================
 
 ## METRYKA DZIEŁA
@@ -65,10 +65,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Eligible=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; max_weighted=20.8
-- **Alternatywny**: Wykład filologiczny
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Maksymalna punktacja (44/45) pozwala na pełną paletę formatów. "Przyjacielska wymiana" wybrana ze względu na rotację (unikanie powtórzeń) i wysoką wagę weighted. Format idealny dla dzieła łączącego klasykę z popkulturą.
+- **Główny:** Lokalny i Globalny — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -104,15 +104,13 @@ Odrażające, zdegenerowane Jahusy są interpretowane jako pierwszy literacki ob
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Robert (Mężczyzna)
+Host A = Robert (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Przedstawiasz perspektywę globalną. Mówisz o światowej recepcji, różnych interpretacjach kulturowych, uniwersalnych tematach."
 
-### Prowadzący A — Tomek (Entuzjasta)
-Host A = Tomek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Anna (Realistka)
-Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Agnieszka (Kobieta)
+Host B = Agnieszka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Znasz polski kontekst. Opowiadasz o polskich przekładach, recepcji, adaptacjach. Łączysz z polską kulturą i edukacją."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -137,7 +135,7 @@ Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - Anna: Z drugiej strony, Swift opisywał swoją wizję zdegradowanej ludzkości...
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (jeśli lektura)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### DEFINICJE KLUCZOWYCH POJĘĆ:
 1. **Satyra menippejska** - gatunek łączący powagę z groteską, atakujący całe spektrum ludzkich wad
@@ -164,4 +162,5 @@ Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - Target: Słuchacze 16-35 lat zainteresowani klasyką i popkulturą
 
 ---
-*Dokument utworzony na podstawie analizy 9 dokumentów research oraz algorytmu format_selector.py*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0011_gullivers_travels | Format: Lokalny i Globalny | Czas: 14 min*

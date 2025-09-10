@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — DIUNA
+# ANALIZA FORMATU AUDIO — DUNE
 ================================
 
 ## METRYKA DZIEŁA
@@ -62,10 +62,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — Najwyższy weighted score (22.0), format pozwala na dostępne omówienie złożonych tematów ekologicznych i politycznych
-- **Alternatywny**: Adwokat i Sceptyk (wysoka kontrowersyjność A=5)
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Format łączy dostępność z głębią, idealny dla wprowadzenia młodzieży w złożone tematy Diuny
+- **Główny:** Lokalny i Globalny — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -81,15 +81,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Robert (Mężczyzna)
+Host A = Robert (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Przedstawiasz perspektywę globalną. Mówisz o światowej recepcji, różnych interpretacjach kulturowych, uniwersalnych tematach."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Agnieszka (Kobieta)
+Host B = Agnieszka (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Znasz polski kontekst. Opowiadasz o polskich przekładach, recepcji, adaptacjach. Łączysz z polską kulturą i edukacją."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -126,7 +124,7 @@ Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia do wyjaśnienia:
 1. **Spice/Melange** - metafora uzależnienia od zasobów (ropa, dane, social media)
@@ -164,5 +162,5 @@ Podcast powinien zachować równowagę między celebrowaniem wpływu "Diuny" na 
 Format "Przyjacielska wymiana" pozwala na dostępne wprowadzenie złożonych tematów bez infantylizacji, co jest idealne dla młodej publiczności, która może nie znać książki, ale zna filmy Villeneuve'a lub memy z TikToka.
 
 ---
-*Dokument wygenerowany przez system AFA v2.0 dla projektu 37degrees*
-*Data analizy: 2025-09-09*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0007_dune | Format: Lokalny i Globalny | Czas: 14 min*

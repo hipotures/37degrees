@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — WUTHERING HEIGHTS (WICHROWE WZGÓRZA)
+# ANALIZA FORMATU AUDIO — WUTHERING HEIGHTS
 ================================
 
 ## METRYKA DZIEŁA
@@ -43,10 +43,10 @@ Silne wątki toxic relationships & romanticization. Gender roles transformation.
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — maksymalna dostępność, dialog naturalny
-- **Alternatywny**: Wykład filologiczny (dla głębi analitycznej)
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Najwyższa suma punktów (44/45) wskazuje na arcydzieło wymagające pogłębionej analizy, ale format „Przyjacielska wymiana" zapewni dostępność dla szerokiej publiczności przy zachowaniu merytorycznej głębi.
+- **Główny:** Komentarz historyczno-literacki — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -77,15 +77,13 @@ Silne wątki toxic relationships & romanticization. Gender roles transformation.
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Prof. Łukasz (Mężczyzna)
+Host A = Prof. Łukasz (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś historykiem literatury. Osadzasz dzieło w kontekście epoki, wyjaśniasz konwencje, obyczaje, realia historyczne."
 
-### Prowadzący A — Michał (Entuzjasta)
-Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia.
-
-### Prowadzący B — Iga (Realistka)
-Host B = Iga (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A.
+### Prowadzący B — Barbara (Kobieta)
+Host B = Barbara (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawą słuchaczką. Dopytuj o kontekst, zaskakujące fakty historyczne, związki z innymi dziełami epoki."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -96,7 +94,7 @@ Część 4: Psychologia (2.8 min) — rola: B analizuje — wątek: "Trauma cycl
 Część 5: Podsumowanie (2.8 min) — rola: A+B — wątek: "Dlaczego wciąż aktualne"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (lektura obowiązkowa)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowe:
 - **Bohater byroniczny**: mroczny, tajemniczy outsider o tragicznej przeszłości (Heathcliff)
@@ -120,3 +118,7 @@ Część 5: Podsumowanie (2.8 min) — rola: A+B — wątek: "Dlaczego wciąż a
 - Pauzy: [0:00 intro] [7:00 zwrot] [14:00 outro]
 - Dżingle: Intro gotyckie/Przejścia wiatr/Outro melancholijne
 - Dynamika: Start energiczny → budowanie napięcia → kulminacja emocjonalna → refleksja
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0037_wuthering_heights | Format: Komentarz historyczno-literacki | Czas: 14 min*

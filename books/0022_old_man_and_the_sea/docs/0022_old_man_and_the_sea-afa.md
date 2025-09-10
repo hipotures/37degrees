@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — The Old Man and the Sea
+# ANALIZA FORMATU AUDIO — OLD MAN AND THE SEA
 ================================
 
 ## METRYKA DZIEŁA
@@ -71,10 +71,10 @@
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — najwyższa innowacyjność (G=5) i głębia filozoficzna (B=5) predysponują do akademickiej analizy warsztatu
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=39, H=4)
-- **Uzasadnienie**: Hemingway stworzył przełomowe techniki narracyjne (teoria góry lodowej, minimalizm), które wymagają filologicznego omówienia. Bogactwo archetypów i warstw interpretacyjnych idealnie pasuje do formatu wykładowego.
+- **Główny:** Glosa do przekładów — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=39)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -110,15 +110,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Krzysztof (Mężczyzna)
+Host A = Krzysztof (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś tłumaczem. Porównujesz różne przekłady, wyjaśniasz wybory translatorskie, pokazujesz jak zmienia się sens."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność. Analizujesz teorię góry lodowej Hemingwaya, minimalizm narracyjny, archetypy Junga w tekście. Pokazujesz jak każde słowo ma wagę, jak przemilczenia budują napięcie. Cytuj fragmenty pokazujące technikę."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami. Łączysz teorię z praktyką - jak teoria góry lodowej wpływa na odbiór? Pytasz o współczesne zastosowania minimalizmu. Wskazujesz paralele z TikTokiem i social media (krótka forma, sugestywność). Przypominasz o kontrowersjach biograficznych gdy trzeba kontekstu."
+### Prowadzący B — Beata (Kobieta)
+Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś czytelniczką różnych wersji. Pytasz o różnice, dopytuj o niuanse. Dziwisz się rozbieżnościom."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -148,7 +146,7 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - A/B: Dialog o aktualności przesłania w 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowe:
 - **Teoria góry lodowej** - technika narracyjna gdzie 7/8 znaczeń pozostaje niewypowiedziane
@@ -175,3 +173,7 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - **Dżingle**: Intro klasyczne (10s), przejścia subtelne (3s), outro refleksyjne (15s)
 - **Efekty**: Szum morza w tle podczas cytatów o walce z marlinem
 - **Muzyka**: Minimalistyczna, fortepian solo w stylu Satie podczas części o teorii góry lodowej
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0022_old_man_and_the_sea | Format: Glosa do przekładów | Czas: 14 min*

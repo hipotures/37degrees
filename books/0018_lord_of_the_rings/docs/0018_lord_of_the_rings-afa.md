@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — THE LORD OF THE RINGS
+# ANALIZA FORMATU AUDIO — LORD OF THE RINGS
 ================================
 
 ## METRYKA DZIEŁA
@@ -8,7 +8,7 @@
 **Rok**: 1954-1955  
 **Gatunek**: High Fantasy, Epic Fantasy  
 **Liczba przekładów**: 60+ języków  
-**Status**: Kultowa pozycja, definiująca gatunek fantasy  
+**Status**: Kultowa pozycja, definiująca gatunek fantasy
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
@@ -43,10 +43,10 @@
 
 ## FORMAT
 
-- **Główny**: PRZYJACIELSKA WYMIANA — Najwyższa ważona punktacja (22.0) wśród eligible formatów, idealny dla wysokiej punktacji i złożoności tematycznej
-- **Alternatywny**: Wykład filologiczny (weighted: 20.5)
-- **Długość**: 14 minut (suma=44, H=5)
-- **Uzasadnienie**: Format najlepiej balansuje między przystępnością a głębią, pozwalając na eksplorację kontrowersji z lekkim podejściem
+- **Główny:** Współczesny i Klasyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -77,15 +77,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Profesor Jan (Mężczyzna)
+Host A = Profesor Jan (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś klasykiem, znasz kontekst historyczny. Wyjaśniasz oryginalne intencje autora, konwencje epoki. Bronisz wartości ponadczasowych."
 
-### Prowadzący A — Maciej (Entuzjasta)
-Host A = Maciej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadzący B — Kasia (Realistka)
-Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Ola (Kobieta)
+Host B = Ola (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Reprezentujesz współczesną perspektywę. Łączysz książkę z obecnymi trendami, social media, popkulturą. Używaj współczesnych analogii."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -110,7 +108,7 @@ Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 - wątek: "Czemu w Polsce tłumaczenie z 1961 jest kultowe?"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (dla polskiej młodzieży)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe pojęcia do wyjaśnienia:
 - **Mytopoeia** - tworzenie nowych mitologii
@@ -156,5 +154,5 @@ Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 Format pozwala na żartobliwe podejście do poważnych kontrowersji (rasizm, okultyzm) przez dialog przyjacielski, co obniża napięcie i zwiększa przyswajalność dla młodej publiczności.
 
 ---
-*Dokument wygenerowany przez 37d-afa-audio-format-analyzer*  
-*Data: 2025-09-08*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0018_lord_of_the_rings | Format: Współczesny i Klasyk | Czas: 14 min*

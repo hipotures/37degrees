@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — PROCES (THE TRIAL)
+# ANALIZA FORMATU AUDIO — THE TRIAL
 ================================
 
 ## METRYKA DZIEŁA
@@ -71,10 +71,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — najwyższa wartość ważona (22.0), uniwersalny format dla dzieła o maksymalnej złożoności
-- **Alternatywny**: Mistrz i Uczeń — drugi najwyższy wynik, świetny dla wyjaśniania symboliki
-- **Długość**: 14 min (suma=44, H=5)
-- **Uzasadnienie**: Dzieło o najwyższych notach we wszystkich kategoriach wymaga przystępnego formatu, który pozwoli słuchaczom zrozumieć jego wielowarstwowość bez przytłoczenia.
+- **Główny:** Fan i Nowicjusz — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=44)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -105,15 +105,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Bartek (Mężczyzna)
+Host A = Bartek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś superfanem książki. Z entuzjazmem opowiadasz o ulubionych fragmentach, ciekawostkach, teoriach fanowskich. Zarażasz pasją."
 
-### Prowadzący A — Wojciech (Entuzjasta)
-Host A = Wojciech (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadząca B — Katarzyna (Realistka)
-Host B = Katarzyna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Magda (Kobieta)
+Host B = Magda (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Nie znasz książki. Zadajesz podstawowe pytania, prosisz o wyjaśnienia. Reagujesz zaskoczeniem na zwroty akcji."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -143,7 +141,7 @@ Część 5: Co zostaje po Kafce? (3 min) — rola: wspólne podsumowanie
 - Call to action: przeczytaj lub obejrzyj adaptację
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (polska lektura)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Kluczowe definicje:
 - **Kafkowski** - absurdalny, biurokratyczny koszmar bez logiki
@@ -168,3 +166,7 @@ Część 5: Co zostaje po Kafce? (3 min) — rola: wspólne podsumowanie
 - Dżingle: Intro z dźwiękiem sądowego młotka, outro z echem kroków
 - Efekty: echo w częściach o katedrze, zniekształcenie przy AI
 - Balans: 60% Wojciech entuzjazm, 40% Katarzyna analiza
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0033_the_trial | Format: Fan i Nowicjusz | Czas: 13 min*

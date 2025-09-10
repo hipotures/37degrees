@@ -69,10 +69,11 @@
 **SUMA: 43/45 | Percentyl: 89%**
 
 ## FORMAT
-- **Główny**: Wykład filologiczny w duecie — rotacja OK (ostatnie 3: Przyjacielska wymiana ×3)
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Wysokie G (innowacyjność=5) i B (głębia=5) predestynują do formatu filologicznego. Dualna narracja i złożona struktura wymagają eksperckiej analizy.
+
+- **Główny:** Adwokat i Sceptyk — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -98,15 +99,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Tomasz (Mężczyzna)
+Host A = Tomasz (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś adwokatem dzieła. Bronisz kontrowersyjnych wątków, znajdujesz uzasadnienia dla trudnych tematów. Używaj argumentów i faktów. Odnosisz się do kontekstu historycznego."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność. Zacznij od wyjaśnienia dualnej narracji w Lalce - obiektywny narrator vs pamiętnik Rzeckiego. Potem przejdź do symboliki czerwonych rąk Wokulskiego jako wizualnego piętna klasowego. Cytuj scenę z pociągu jako kulminację techniki lustrzanego odbicia."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami. Dopytuj o theatrum mundi - jak mechaniczne zabawki Rzeckiego symbolizują ludzki los. Poproś o wyjaśnienie, dlaczego Prus używa żółtego koloru jako ukrytej krytyki zaboru. Zwróć uwagę na nowatorstwo otwartego zakończenia."
+### Prowadzący B — Marta (Kobieta)
+Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś sceptyczną krytyczką. Kwestionujesz założenia, wskazujesz problemy moralne i anachronizmy. Pytasz „ale czy to nie jest problematyczne?". Dbasz o współczesną wrażliwość."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -140,9 +139,6 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 4. "...ostatni to romantyk!" - epitafium Rzeckiego i całej epoki
 5. "Życie, którego początku nie pamiętamy, a końca nie znamy"
 
-## PORÓWNANIE KANONICZNE
-Most do: **"Czerwone i czarne" Stendhala** — podobieństwo: plebejusz dążący do awansu przez miłość do arystokratki; kontrast: Julien Sorel osiąga cel przez cynizm, Wokulski pozostaje idealistą
-
 ## METADANE PRODUKCYJNE
 - Tempo: 120-140 słów/min
 - Pauzy: [DEFINICJA - 2s] [CYTAT - 3s] [PRZEJŚCIE - 1s]
@@ -162,3 +158,7 @@ Most do: **"Czerwone i czarne" Stendhala** — podobieństwo: plebejusz dążąc
 - Cytowania: Scena z czerwonymi rękami, marionetki Rzeckiego
 - Pytania słuchaczy: Czy Wokulski naprawdę umarł? Co oznacza żółty kolor?
 - Dokładność czasu: 14:02 (target: 14:00) ✓
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0016_lalka | Format: Adwokat i Sceptyk | Czas: 14 min*

@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — MISTRZ I MAŁGORZATA
+# ANALIZA FORMATU AUDIO — MASTER AND MARGARITA
 ================================
 
 ## METRYKA DZIEŁA
@@ -47,10 +47,10 @@
 
 ## FORMAT
 
-• **Główny**: Wykład filologiczny — użyty 1/3 ostatnich | Wynik ważony: 20.5
-• **Alternatywny**: Mistrz i Uczeń — cooldown: 2 odcinki | Wynik ważony: 20.0
-• **Długość**: 14 min (suma=42, H=5, korekta gatunkowa=0)
-• **Uzasadnienie**: Najwyższy wynik ważony wśród eligible formatów, spełnia kryteria G≥5 i B≥4, format idealny dla analizy wielowarstwowej struktury i innowacji literackich
+- **Główny:** Emocja i Analiza — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=42)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -76,15 +76,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Piotr (Mężczyzna)
+Host A = Piotr (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś analitykiem. Rozkładasz strukturę, analizujesz techniki narracyjne, symbolikę. Zachowujesz dystans, używasz precyzyjnych terminów."
 
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
-
-### Prowadząca B — Natalia (Asystentka/Studentka)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
+### Prowadzący B — Ewa (Kobieta)
+Host B = Ewa (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Reagujesz emocjonalnie na książkę. Mówisz o uczuciach, które wzbudza, identyfikujesz się z bohaterami. Używaj języka uczuć i wrażeń."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -99,7 +97,7 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 **Część 5**: "Polski odbiór: Holoubek i memy z Behemotem" (2 min) — rola: A/B dialog — wątek: "Polski serial '88" [LOCAL]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (lektura obowiązkowa)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje pojęć (≤50 słów każda)
 
@@ -133,10 +131,6 @@ Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 Klasa: IV LO/5 Technikum (poziom rozszerzony)
 Zagadnienia: groteska, satyra polityczna, powieść filozoficzna, intertekstualność, realizm magiczny
 
-## PORÓWNANIE KANONICZNE
-
-Most do: **"Faust" Goethego** — podobieństwo: pakt z diabłem, motto powieści, postać Małgorzaty | kontrast: u Bułhakowa diabeł ratuje, nie gubi
-
 ## METADANE PRODUKCYJNE
 
 Tempo: 120–140 słów/min | Pauzy: [0:30 intro] [3:00, 6:00, 9:00, 12:00 przejścia] [13:30 outro]
@@ -159,3 +153,7 @@ Retencja 1/5/koniec: [do uzupełnienia]
 Cytowania: [do uzupełnienia]
 Pytania słuchaczy: [do uzupełnienia]
 Dokładność czasu: [do uzupełnienia]
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0019_master_and_margarita | Format: Emocja i Analiza | Czas: 14 min*

@@ -72,10 +72,10 @@
 
 ## FORMAT
 
-- **Główny**: Przyjacielska wymiana — max_weighted=20.8
-- **Alternatywny**: (wszystkie formaty eligible)
-- **Długość**: 14 min (suma=43, H=5)
-- **Uzasadnienie**: Fenomen kulturowy (C=5) i współczesna recepcja (D=4) sprawiają, że dzieło świetnie nadaje się do popularyzatorskiej wymiany zdań między entuzjastą a realistką
+- **Główny:** Perspektywa Ona/On — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 14 min (suma=43)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -106,17 +106,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Adam (Mężczyzna)
+Host A = Adam (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Przedstawiasz męską perspektywę odbioru. Zwracasz uwagę na inne aspekty fabuły, bohaterów, konfliktów."
 
-### Prowadzący A — Andrzej (Entuzjasta)
-Host A = Andrzej (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-
-Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodał?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia.
-
-### Prowadzący B — Beata (Realista)
-Host B = Beata (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-
-Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A.
+### Prowadzący B — Natalia (Kobieta)
+Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Analizujesz książkę z perspektywy kobiecej. Zwracasz uwagę na role płciowe, reprezentację kobiet, relacje między postaciami."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -127,7 +123,7 @@ Część 4: "Prorok technologii" (3 min) — rola: B dopytuje — wątek: "Przew
 Część 5: "Lem w polskiej szkole" (2 min) — rola: A — wątek: "Polski kontekst edukacyjny"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (lektura uzupełniająca)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje pojęć
 - **Solarystyka**: Fikcyjna nauka badająca Ocean planety Solaris, metafora bezradności poznania naukowego
@@ -152,3 +148,7 @@ Część 5: "Lem w polskiej szkole" (2 min) — rola: A — wątek: "Polski kont
 - Pauzy: [krótkie po każdym wątku, dłuższa przed podsumowaniem]
 - Dżingle: Intro/Przejścia/Outro w stylu cosmic ambient
 - Wymowa: Solaris [so-LA-ris], Lem [lem], Harey [HA-rey]
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0031_solaris | Format: Perspektywa Ona/On | Czas: 14 min*

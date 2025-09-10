@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — "BRAVE NEW WORLD"
+# ANALIZA FORMATU AUDIO — BRAVE NEW WORLD
 ================================
 
 ## METRYKA DZIEŁA
@@ -70,10 +70,10 @@
 
 ## FORMAT
 
-- **Główny**: PRZYJACIELSKA WYMIANA — format elastyczny dla wysokiej kontrowersyjności i złożoności
-- **Alternatywny**: Mistrz i Uczeń (drugi najwyższy wynik)
-- **Długość**: 14 minut (suma=42, H=5)
-- **Uzasadnienie**: Wysoka punktacja umożliwia większość formatów. Przyjacielska wymiana najlepsza dla kontrowersyjnych tematów eugeniki i kontroli społecznej - pozwala na lekki ton przy ciężkich tematach.
+- **Główny:** Reporter i Świadek — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=42)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -109,15 +109,13 @@
 
 ## PROMPTY A/B DLA FORMATU
 
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
+### Prowadzący A — Marek (Mężczyzna)
+Host A = Marek (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś reporterem relacjonującym wydarzenia. Opisujesz sceny, rekonstruujesz fakty, zadajesz pytania świadkowi. Mów dynamicznie, buduj napięcie."
 
-### Prowadzący A — Michał (Entuzjasta)
-Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś entuzjastą-popularyzatorem. Mów językiem potocznym, krótkimi zdaniami. Cel: wzbudzić ciekawość i dać obraz 'dlaczego to działa dziś'. Łącz wątki z popkulturą 2020–2025. Po każdej tezie zadaj B pytanie „co byś dodała?" Unikaj ocen ostatecznych. 1 konkret, 1 analogia."
-
-### Prowadząca B — Marta (Realistka)
-Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś realistką-analityczką. Cel: prostować uproszczenia A i dodać kontekst. Używaj formuł: „z drugiej strony…", „sprawdźmy wątek…". W każdej wypowiedzi podaj 1 fakt z research docs. Kończ pytaniem do A."
+### Prowadzący B — Anna (Kobieta)
+Host B = Anna (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś świadkiem wydarzeń z książki. Opowiadasz z perspektywy uczestniczki, dodajesz detale sensoryczne. Mów emocjonalnie, jakbyś tam była."
 
 ## MAPOWANIE WĄTKÓW NA STRUKTURĘ
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -149,7 +147,7 @@ Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BLOK EDUKACYJNY (gdyby była lektura)
+## BLOK EDUKACYJNY (lektura szkolna)
 
 *Uwaga: "Brave New World" nie jest lekturą szkolną w Polsce, ale może być omawiana fakultatywnie*
 
@@ -202,6 +200,5 @@ Host B = Marta (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
 5. **Educational value**: Podkreślać aktualność przestróg Huxleya
 
 ---
-*Dokument wygenerowany: 2025-09-09*
-*Agent: 37d-afa-audio-format-analyzer*
-*Status: Do produkcji audio w NotebookLM*
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0004_brave_new_world | Format: Reporter i Świadek | Czas: 13 min*

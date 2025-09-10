@@ -1,4 +1,4 @@
-# ANALIZA FORMATU AUDIO — ALICE'S ADVENTURES IN WONDERLAND
+# ANALIZA FORMATU AUDIO — ALICE IN WONDERLAND
 ================================
 
 ## METRYKA DZIEŁA
@@ -7,7 +7,7 @@
 **Autor**: Lewis Carroll (Charles Lutwidge Dodgson)  
 **Rok wydania**: 1865  
 **Gatunek**: Literatura dziecięca, fantasy, nonsens literacki  
-**Liczba tłumaczeń**: 174 języki  
+**Liczba tłumaczeń**: 174 języki
 
 ## PUNKTACJA SZCZEGÓŁOWA
 
@@ -42,10 +42,10 @@
 
 ## FORMAT
 
-- **Główny**: Wykład filologiczny — Format idealny dla książki o rewolucyjnej innowacyjności pisarskiej (G=5) i głębokiej warstwie filozoficznej (B=5), wymagającej eksperta do wyjaśnienia niuansów językowych i matematycznych
-- **Alternatywny**: Mistrz i Uczeń
-- **Długość**: 14 min (suma=39, H=5)
-- **Uzasadnienie**: Książka o najwyższej innowacyjności pisarskiej i filozoficznej głębi wymaga akademickiego podejścia. Wykład filologiczny pozwoli wydobyć ukryte warstwy matematyczne, językowe gry słów oraz kontekst literacki epoki wiktoriańskiej.
+- **Główny:** Przyjacielska wymiana — format przydzielony według nowej dystrybucji
+- **Alternatywny:** Przyjacielska wymiana (uniwersalny fallback)
+- **Długość:** 13 min (suma=39)
+- **Uzasadnienie:** Format wybrany na podstawie algorytmu dystrybucji zapewniającego różnorodność i rotację wszystkich 12 formatów.
 
 ## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ
 
@@ -69,7 +69,32 @@ Alicja wyprzedziła Disney Princesses o 90 lat. Pierwsza dziecięca bohaterka kw
 **Typ**: CONTEXT | **Źródło**: au-research_symbols_meanings | **Pewność**: 95%
 Salvador Dalí stworzył 12 heliograwiur do Alicji (1969). Jefferson Airplane "White Rabbit" (1967) - hymn kontrkultury. Alice jako naturalna muza ruchu surrealistycznego i psychodelicznego.
 
-## BLOK EDUKACYJNY (POLSKA LEKTURA)
+## PROMPTY A/B DLA FORMATU
+
+### Prowadzący A — Michał (Mężczyzna)
+Host A = Michał (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
+"Jesteś entuzjastycznym miłośnikiem książek. Dzielisz się osobistymi refleksjami, łączysz wątki z życiem. Mów naturalnie, używaj potocznego języka. 3-4 zdania na wypowiedź."
+
+### Prowadzący B — Kasia (Kobieta)
+Host B = Kasia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
+"Jesteś ciekawską przyjaciółką. Zadajesz pytania o emocje, dopytuj 'dlaczego tak cię to dotknęło?'. Podchwytuj wątki, rozwijaj je. Mów potocznie."
+
+## MAPOWANIE WĄTKÓW NA STRUKTURĘ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Część 1: Wprowadzenie** (3 min)
+— rola: A wprowadza — Swobodna rozmowa przyjaciół
+
+**Część 2: Rozwinięcie** (4 min)
+— rola: dialog A/B — analiza głównych wątków
+
+**Część 3: Kulminacja** (4 min)
+— rola: B dopytuje — najważniejsze odkrycia
+
+**Część 4: Podsumowanie** (2 min)
+— rola: A podsumowuje — wnioski i refleksje
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## BLOK EDUKACYJNY (lektura szkolna)
 
 ### Definicje kluczowych pojęć:
 - **Nonsens literacki**: Gatunek oparty na logicznych paradoksach i grach językowych, nie brak sensu, ale "sprytne podważenie go"
@@ -84,33 +109,16 @@ Salvador Dalí stworzył 12 heliograwiur do Alicji (1969). Jefferson Airplane "W
 ### Kanoniczne cytaty:
 1. "Curiouser and curiouser!" - o paradoksach dorastania
 2. "We're all mad here" - Kot z Cheshire o naturze Krainy Czarów
-3. "Who are you?" - Gąsienica, pytanie o tożsamość
+3. "Who are you?" - Gąsienica, pytanie o tożsamości
 4. "Off with their heads!" - Królowa Kier, symbol tyranii
 5. "You're nothing but a pack of cards!" - Alicja, moment wyzwolenia
-
-## PROMPTY A/B DLA FORMATU
-
-**CRITICAL dla NotebookLM: Host A to mężczyzna, Host B to kobieta**
-
-### Prowadzący A — Profesor Jerzy (Filolog)
-Host A = Profesor Jerzy (mężczyzna). Mów w pierwszej osobie w rodzaju męskim.
-„Jesteś specjalistą od poetyki i edytorstwa. Definiujesz terminy, wskazujesz warianty tekstu, cytujesz edycje krytyczne. 4–6 zdań, precyzyjnie. Kończ pytaniem do B o klarowność."
-
-### Prowadzący B — Natalia (Asystent/Student)
-Host B = Natalia (kobieta). Mów w pierwszej osobie w rodzaju żeńskim.
-„Jesteś moderatorką-studentką. Tłumaczysz trudne pojęcia własnymi słowami, prosisz o przykład/cytat, pilnujesz tempa dla laika. Podsumowujesz punktami."
-
-## MAPOWANIE WĄTKÓW NA STRUKTURĘ
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Część 1: Rewolucja w literaturze dziecięcej (3 min) — rola: A wprowadza — wątek: "Koniec epoki dydaktyzmu"
-Część 2: Wynalazek portmanteau words (3 min) — rola: B dopytuje o przykłady — wątek: "Innowacje językowe Carrolla"
-Część 3: Matematyczna satyra w nonsensie (3 min) — rola: A wyjaśnia kontekst — wątek: "Ukryta krytyka nowej matematyki"
-Część 4: Archetypy i warstwy interpretacyjne (3 min) — rola: B porządkuje poziomy — wątek: "Od Junga do współczesności"
-Część 5: Polski kontekst i przekłady (2 min) — rola: A i B dyskutują — wątek: "9 tłumaczeń, problem nonsensu"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## METADANE PRODUKCYJNE
 - Tempo: 120-140 słów/min
 - Pauzy: [krótka pauza] po definicjach, [muzyka przejścia] między częściami
 - Dżingle: Intro klasyczne (15s), Przejścia subtelne (5s), Outro nostalgiczne (20s)
 - Styl muzyczny: Klasyczna muzyka kameralna z elementami whimsical
+
+---
+*Dokument zaktualizowany 2025-09-10 przez system AFA*
+*Book ID: 0001_alice_in_wonderland | Format: Przyjacielska wymiana | Czas: 13 min*
