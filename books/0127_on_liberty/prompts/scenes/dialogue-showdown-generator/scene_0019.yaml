@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parliamentary Reform Bill Passed After Heated Debate"
+  setting:
+    time: "1861, evening"
+    location: "Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows"
+    weather: "Storm outside matching interior tension"
+  characters:
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Standing triumphant at dispatch box"
+      action: "Holding passed reform bill aloft, exhausted but victorious"
+    - appearance: "Mixed group of MPs, various ages"
+      clothing: "Parliamentary formal wear in blacks and browns"
+      position: "Some standing applauding, others seated in defeat"
+      action: "Division clearly visible between supporters and opponents"
+  scene:
+    mainElements: "Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass, press gallery above"
+    details: "Voting tally board shows narrow victory for reform. Papers scattered showing intense debate. Some MPs shake hands across aisle while others turn away. Press gallery scribes writing furiously. Thunder audible through windows."
+    background: "Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling"
+    atmosphere: "Historic change achieved through democratic process, ideas becoming law, reason triumphing over tradition"
+  composition:
+    cameraAngle: "Wide shot of entire chamber showing division"
+    focus: "Mill holding reform bill as lightning flashes through window"
+    depth: "Mill at center, divided chamber around him, press gallery above documenting history"

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1848, noon
+    location: Central city square in 1840s European industrial city
+    weather: Cold clear day with harsh sunlight
+  characters:
+  - appearance: Young worker being made example of, man in mid-20s, defiant despite fear
+    clothing: Torn work clothes, hands bound, forced to kneel
+    position: Center of square on wooden platform
+    action: Having his tools ceremonially broken before him
+  - appearance: Stern man in his 50s, gray hair and mustache, rigid military bearing, cold calculating eyes
+    clothing: Dark blue military-style uniform with gold buttons and epaulettes, white gloves, ceremonial sword at hip, peaked
+      cap with insignia
+    position: Standing over the accused
+    action: Breaking worker's tools with ceremonial hammer
+  - appearance: Crowd of workers forced to watch
+    clothing: Work clothes, varying states of wear
+    position: Gathered in square under guard
+    action: Watching in enforced silence, some with hidden anger
+  scene:
+    mainElements: Cobblestone plaza surrounded by government buildings and banks, central monument or statue, wide open space
+      for gatherings
+    details: Worker's personal tools - hammer, saw, measures - being systematically destroyed. Sign reading 'Punishment for
+      Organizing'. Guards with rifles ensuring crowd watches. Some workers secretly clenching fists in pockets
+    background: Government buildings with officials watching from windows, industrial smokestacks visible beyond
+    atmosphere: Public humiliation as control mechanism, destruction of means of independent labor, fear mixed with growing
+      rage
+  composition:
+    cameraAngle: Ground level from crowd's perspective looking up at platform
+    focus: The breaking of tools as symbolic destruction of worker autonomy
+    depth: Platform and figures in foreground, watching crowd, imposing buildings behind
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

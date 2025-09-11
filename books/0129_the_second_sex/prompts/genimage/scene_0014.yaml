@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1948, evening
+    location: Teenage girl's bedroom in bourgeois Parisian home, floral wallpaper and heavy curtains
+    weather: Dusk light fading outside
+  characters:
+  - appearance: adolescent girl around 15 years old, slender build in midst of transformation, delicate features showing mixture
+      of curiosity and resignation
+    clothing: pleated wool skirt in plaid pattern, fitted cashmere sweater over white cotton blouse with rounded collar visible
+      at neckline, white ankle socks folded down, brown leather loafers
+    position: sitting at vanity table before triple mirror
+    action: practicing facial expressions and postures as instructed by mother's handbook
+  scene:
+    mainElements: Triple mirror reflecting multiple angles of girl studying herself, mother's handbook open showing 'Proper
+      Expressions for Young Ladies', practice items scattered on vanity
+    details: 'Book pages showing illustrated guide - ''Smile #1: Greeting'', ''Smile #2: Listening to Men'', ''Smile #3: Accepting
+      Compliments''. Girl''s natural expression of concentration being replaced with artificial pleasantness. Diary pushed
+      aside with entry ''I wanted to study mathematics but...'' List titled ''How to Appear Attractive'' in mother''s handwriting'
+    background: Childhood dolls abandoned in corner, school books neglected on shelf, dress for upcoming dance hanging on
+      wardrobe
+    atmosphere: Self-surveillance being internalized, authentic self replaced with performance, mirror as tool of imprisonment
+  composition:
+    cameraAngle: Over shoulder view into triple mirror showing multiple reflections
+    focus: The multiplication of the girl's image as she practices being observed
+    depth: Girl and mirrors in foreground, fading childhood visible in room's corners
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

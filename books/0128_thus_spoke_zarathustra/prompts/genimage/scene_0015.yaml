@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: mythical era, storm approaching at dusk
+    location: edge of deep mountain abyss where three paths meet
+    weather: dark storm clouds gathering, first drops of rain
+  characters:
+  - appearance: man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features
+      marked by years of mountain solitude
+    clothing: rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground
+    position: standing at chasm edge where three paths end
+    action: looking down into bottomless darkness while rain begins
+  scene:
+    mainElements: three mountain paths converging at cliff edge, bottomless chasm
+    details: three worn paths through rock approaching from different angles, all ending abruptly at sheer drop, small stones
+      falling into void making no sound, ancient stone marker at convergence point worn smooth by weather, eagle feather caught
+      on rock at edge, first lightning illuminating depths revealing nothing but darkness, rain droplets falling into abyss,
+      no text or letters visible
+    background: storm clouds rolling in from all directions, mountains disappearing in darkness
+    atmosphere: electric tension before storm, wind rising from depths, vertigo of infinite fall
+  composition:
+    cameraAngle: high angle looking down past figure into black void
+    focus: moment of ultimate choice where all paths lead to leap into unknown
+    depth: figure at cliff edge foreground, paths behind mid-ground, storm and void background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

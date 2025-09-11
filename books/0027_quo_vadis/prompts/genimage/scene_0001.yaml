@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 63 CE, early dawn
+    location: Rome from Aventine Hill overlooking the city, Roman Empire capital during Nero's reign
+    weather: Clear morning with golden sunrise light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vast panoramic view of Rome sprawling across seven hills, monumental architecture dominating the landscape
+      with marble temples, basilicas, and imperial palaces gleaming in dawn light. Tiber River curves through the city like
+      silver ribbon.
+    details: Palatine Hill rises dramatically with Nero's Golden House visible as golden speck, Forum Romanum spreading between
+      hills with forest of columns and porticos, smoke columns from countless hearths creating atmospheric haze, aqueducts
+      spanning valleys on massive stone arches, insulae (apartment blocks) crowding poorer districts like Subura, no text
+      or letters visible.
+    background: Seven hills of Rome extending to horizon, countryside beyond city walls, distant mountains on the horizon
+      line
+    atmosphere: Majestic and overwhelming scale showing power and grandeur of Roman Empire at its height, morning mist creating
+      dreamy quality, golden light suggesting both glory and foreboding
+  composition:
+    cameraAngle: Extreme wide shot from elevated position, eye level with horizon
+    focus: Entire cityscape as protagonist, no single focal point but rather the totality of imperial power
+    depth: Deep focus showing layers from nearest hills through city center to distant mountains, creating sense of infinite
+      Roman dominance
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Cage with Open Door, Wings Still Bound"
+  setting:
+    time: "mythical era, golden hour before sunset"
+    location: "medieval German town square with half-timbered buildings, muddy cobblestones"
+    weather: "warm evening light casting long shadows"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "crowded market stalls, wooden pillory in center, rope stretched between two church towers"
+    details: "ornate brass birdcage hanging from market stall post, cage door wide open swinging in breeze, inside a dove with wings bound by silk threads, bird sitting on perch not attempting escape, golden evening light streaming through cage bars creating pattern on ground, market stalls empty and abandoned, single red rose growing through cobblestone crack beneath cage, no text or letters visible"
+    background: "empty town square, shuttered windows, church spires catching last light"
+    atmosphere: "chaotic noise of vendors and crowds, smell of unwashed bodies and rotting vegetables"
+  composition:
+    cameraAngle: "eye level with cage showing both freedom and bondage"
+    focus: "open cage door contrasting with bird's bound wings"
+    depth: "cage in foreground, empty square mid-ground, buildings and sky background"

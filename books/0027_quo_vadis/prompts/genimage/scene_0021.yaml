@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 64 CE, evening in prison
+    location: Underground prison chambers beneath Roman amphitheater
+    weather: Underground, lit by guttering torch flames
+  characters:
+  - appearance: 16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily
+      lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence
+      but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed
+      for a kiss'.
+    clothing: Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry,
+      perhaps simple pearl necklace. Hair often braided or partially loose.
+    position: Behind iron prison bars that frame her figure, kneeling in prayer
+    action: Praying peacefully despite imprisonment, hands clasped, eyes closed in serene faith
+  - appearance: Other Christian prisoners of various ages visible in background
+    clothing: Simple robes and tunics, worn and dirty from captivity
+    position: Scattered throughout cell, some praying, others comforting each other
+    action: Creating community of faith even in captivity
+  scene:
+    mainElements: Ligia framed by thick iron prison bars, her spiritual beauty contrasting with brutal imprisonment, other
+      Christian prisoners creating background community of faith behind same bars.
+    details: Heavy iron bars creating vertical frame elements across entire image, Ligia's white robes bright against dark
+      stone walls, peaceful expression showing unbroken faith, hands delicately clasped in prayer, other prisoners visible
+      through gaps between bars, torch flames casting moving shadows through iron grid, rough stone walls and straw on floor,
+      small carved Christian symbols hidden in stone, no text or letters visible.
+    background: Dark stone prison walls with Christian prisoners in adjacent cells
+    atmosphere: Faith imprisoned but unbroken, spiritual light shining through physical darkness, community persisting despite
+      persecution
+  composition:
+    cameraAngle: Straight-on view through prison bars creating natural frame
+    focus: Ligia in sharp focus through bars, other prisoners softly focused in depth
+    depth: Iron bars in immediate foreground, Ligia in middle distance, other prisoners in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

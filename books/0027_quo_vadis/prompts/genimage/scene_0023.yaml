@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 65 CE, late afternoon during execution
+    location: Nero's gardens near circus, imperial execution ground
+    weather: Dramatic late sun creating long shadows
+  characters:
+  - appearance: Christian martyrs of various ages hanging on burning crosses, silhouetted against flames
+    clothing: Minimal garments or bound in cloth, bodies becoming human torches
+    position: Silhouetted figures arranged across background, creating human constellation
+    action: Some still alive and praying, others already consumed by flames
+  - appearance: 50-60 years old, thin hunched man with slovenly appearance broken by life. Characteristic missing two fingers
+      on hand - mark of his dark past. After torture becomes terrifyingly emaciated, 'through transparent skin one could almost
+      see his bones', face pale as corpse.
+    clothing: Variable dress reflecting his changing fortunes - from dirty rags of beggar-philosopher, to rich augustinian
+      robes when favored by Nero, finally simple loincloth of martyr.
+    position: Foreground, surrounded by geometric shadow pattern of cross
+    action: Falling to knees in spiritual revelation, casting perfect cross shadow
+  scene:
+    mainElements: Chilon illuminated by cross-shaped shadow pattern cast by burning martyrs behind him, geometric shadow framing
+      his moment of redemption while 'living torches' create apocalyptic background.
+    details: Perfect cross-shaped shadow falling across Chilon's kneeling figure, created by intersection of flames and wooden
+      execution posts, his emaciated form showing signs of previous torture, face transforming from cruelty to spiritual awakening,
+      burning figures creating dramatic backlighting, smoke and flames creating atmospheric effects, shadow pattern creating
+      natural frame around his conversion, imperial gardens visible beyond execution area, no text or letters visible.
+    background: Nero's elaborate gardens with burning crosses creating forest of human torches
+    atmosphere: Divine revelation through ultimate suffering, redemption emerging from horror, sacred geometry created by
+      human sacrifice
+  composition:
+    cameraAngle: Low angle emphasizing shadow pattern and dramatic backlighting
+    focus: Chilon sharp in cross-shadow frame, burning figures creating dramatic silhouettes
+    depth: Kneeling figure in foreground, shadow pattern in middle plane, burning crosses in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

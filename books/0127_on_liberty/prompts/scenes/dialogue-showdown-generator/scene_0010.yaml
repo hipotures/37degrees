@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Victorian Gentleman's Mask Slips Revealing Fear"
+  setting:
+    time: "1859, evening"
+    location: "Corner pub in London's East End, ground floor of brick building, frosted glass windows with brewery name"
+    weather: "Gaslight glow through fog outside"
+  characters:
+    - appearance: "Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club dinners"
+      clothing: "Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain across waistcoat, white gloves"
+      position: "Backed against bar, surrounded by workers"
+      action: "Face showing momentary terror, hand clutching top hat to chest"
+    - appearance: "Group of five working men in their 30s-40s"
+      clothing: "Rough wool jackets, caps, work boots, no gloves"
+      position: "Semi-circle closing in on gentleman"
+      action: "Not threatening but animated discussion about workers' rights"
+  scene:
+    mainElements: "Long wooden bar with brass rail, beer pumps, smoke-stained ceiling, sawdust on floor, crude wooden tables and benches"
+    details: "The gentleman's usual commanding presence crumbles as workers discuss universal suffrage. His knuckles white gripping his hat. One worker holds pamphlet titled 'On Liberty'. Spilled beer on bar reflects gaslight. The gentleman's reflection in bar mirror shows naked fear."
+    background: "Noisy working class gathering place, thick tobacco smoke, smell of ale and gin, gaslight reflecting off bottles"
+    atmosphere: "Class boundaries breaking down, authority questioned, privileged comfort disrupted by democratic ideas"
+  composition:
+    cameraAngle: "Close-up on gentleman's frightened face"
+    focus: "Fear breaking through composed Victorian mask"
+    depth: "Terrified face in foreground, workers' earnest faces behind, mirror showing full scene"

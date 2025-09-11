@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 64 AD, mid-afternoon, slanted golden light
+    location: Private villa garden, peristyle courtyard with fountain
+    weather: Clear afternoon with warm slanted sunlight creating patterns
+  characters:
+  - appearance: Gaius Petronius, refined man in his forties, intelligent cynical eyes, perfect Roman aristocratic bearing
+    clothing: Finest white silk tunic with gold thread embroidery, jeweled rings, expensive sandals with silver buckles
+    position: Reclining on marble bench in his exquisite private gardens, arbiter of taste and beauty
+    action: Composing his famous suicide letter to Nero, writing with elegant stylus, creating final masterpiece of literary
+      defiance
+  scene:
+    mainElements: Rectangular courtyard with colonnade, central fountain with water jets, geometric garden beds with herbs
+      and flowers
+    details: Slanted afternoon light streaming between columns creating alternating bright strips and deep shadows, dust motes
+      dancing in sunbeams, water droplets from fountain catching light like diamonds, shadows of vine leaves creating shifting
+      patterns on marble floor, bronze sundial showing afternoon hour, bees visiting flower beds
+    background: Painted wall frescoes partially illuminated by angled light, doorways leading to villa rooms in shadow, blue
+      sky visible above colonnade
+    atmosphere: Peaceful final afternoon of a condemned aesthete, gentle sound of fountain contrasting with approaching death,
+      air scented with roses and approaching doom, contemplative quiet before ultimate act of elegant rebellion against tyranny
+  composition:
+    cameraAngle: Medium shot from across courtyard showing figure in dappled light
+    focus: Reader surrounded by geometric patterns of light and shadow
+    depth: Foreground fountain with light-catching water, middle ground figure on bench with scroll, background colonnade
+      with deep shadows
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

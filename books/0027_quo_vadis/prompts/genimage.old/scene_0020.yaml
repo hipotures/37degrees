@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 64 AD, midnight, violent thunderstorm
+    location: Alban Hills outside Rome, exposed hilltop with scattered trees
+    weather: Severe thunderstorm with lightning, driving rain, strong winds
+  characters:
+  - appearance: Emperor Nero in his thirties, corpulent build now showing fear, cruel face distorted by terror of approaching
+      death
+    clothing: Purple imperial robes disheveled and stained, golden laurel crown askew, jeweled rings on trembling hands
+    position: Cowering in modest villa outside Rome, abandoned by Praetorian Guard
+    action: Preparing for suicide as rebels approach, dagger in shaking hands, reciting theatrical lines about artist's death
+  scene:
+    mainElements: Dramatic lightning bolt illuminating entire landscape for split second, bent trees lashing in wind, sheep
+      huddled together for protection
+    details: World visible only in brief lightning flashes then plunging back to darkness, rain falling in sheets at sharp
+      angle, thunder immediately following lightning showing storm center overhead, wind so strong grass and bushes flattened,
+      temporary rivers forming from rainfall, air electric with storm energy
+    background: Hills and valleys revealed momentarily in lightning then disappearing, Rome invisible in distance behind storm,
+      sky filled with churning black clouds
+    atmosphere: Divine justice unleashed through human rebellion, tyrant's vulnerability exposed, world transformed by overthrow
+      of evil, dramatic end of imperial madness amid storm of retribution
+  composition:
+    cameraAngle: Wide shot capturing lightning bolt illuminating entire scene
+    focus: Crouched figure and flock revealed in brief lightning flash
+    depth: Foreground wind-lashed vegetation, middle ground huddled figures behind boulder, background hills visible in lightning
+      moment
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

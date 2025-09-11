@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "john_stuart_mill"
+      name: "John Stuart Mill"
+      description_block: |
+        characters:
+          - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+            clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+            posture: "Upright but slightly stiff bearing, hands often clasped behind back when thinking, shoulders slightly hunched from years of writing at desk"
+    
+    - id: "harriet_taylor_mill"
+      name: "Harriet Taylor Mill"
+      description_block: |
+        characters:
+          - appearance: "Woman in her 40s with intelligent direct gaze, dark hair parted in center and styled in low bun, refined features showing strength of character, bright observant eyes"
+            clothing: "Deep blue silk day dress with fitted bodice, moderate bell-shaped skirt without excessive crinoline, simple white collar, minimal jewelry except wedding ring and small cameo brooch"
+            posture: "Confident seated position, back straight without rigid Victorian formality, hands folded but relaxed, head held high with natural grace"
+    
+    - id: "victorian_gentleman"
+      name: "Conservative Victorian Gentleman"
+      description_block: |
+        characters:
+          - appearance: "Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club dinners"
+            clothing: "Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain across waistcoat, white gloves"
+            posture: "Rigid military bearing, chest thrust forward, walking stick held precisely, disapproving frown lines around mouth"
+    
+    - id: "working_class_speaker"
+      name: "Working Class Orator"
+      description_block: |
+        characters:
+          - appearance: "Man in his 30s with weathered face from outdoor labor, strong build, calloused hands, earnest expression, clean-shaven except for mustache"
+            clothing: "Brown corduroy jacket showing wear at elbows, coarse cotton shirt, dark wool vest, sturdy leather boots, cloth cap"
+            posture: "Standing on wooden crate, one arm raised in passionate gesture, leaning forward toward crowd, animated speaking position"
+    
+    - id: "nonconformist_woman"
+      name: "Artistic Dress Movement Woman"
+      description_block: |
+        characters:
+          - appearance: "Woman in her 20s with long auburn hair worn loose to shoulders, clear complexion, expressive green eyes, slender artistic build"
+            clothing: "Flowing sage green wool dress without corset, medieval-inspired wide sleeves, embroidered leather belt at natural waist, soft leather shoes"
+            posture: "Natural unrestricted movement, walking with long strides, arms swinging freely, head turned to observe surroundings"
+    
+    - id: "parliament_member"
+      name: "Member of Parliament"
+      description_block: |
+        characters:
+          - appearance: "Man in his 40s with neatly trimmed beard, professional demeanor, average build, sharp attentive eyes behind wire spectacles"
+            clothing: "Dark brown wool suit with matching waistcoat, white shirt with turndown collar, conservative dark tie, polished oxford shoes"
+            posture: "Standing at podium gripping edges, body angled toward opposition benches, controlled gestures emphasizing points"
+
+  locations:
+    - id: "victorian_drawing_room"
+      name: "Victorian Middle-Class Drawing Room"
+      description_block: |
+        setting:
+          location: "Interior of London townhouse parlor, heavy mahogany furniture, dark green wallpaper with repeating floral pattern"
+        mainElements: "Horsehair sofa with antimacassars, marble fireplace with coal fire, heavy velvet curtains blocking daylight, glass-fronted bookcase, ornate mantelpiece clock"
+        atmosphere: "Oppressive enclosed space, air thick with coal smoke and beeswax polish, dim gaslight creating deep shadows"
+    
+    - id: "speakers_corner"
+      name: "Speaker's Corner Hyde Park"
+      description_block: |
+        setting:
+          location: "Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary"
+        mainElements: "Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack flags and protest banners"
+        atmosphere: "Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression"
+    
+    - id: "westminster_parliament"
+      name: "House of Commons Chamber"
+      description_block: |
+        setting:
+          location: "Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows"
+        mainElements: "Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass, press gallery above"
+        atmosphere: "Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling"
+    
+    - id: "underground_print_shop"
+      name: "Secret Printing Press Basement"
+      description_block: |
+        setting:
+          location: "Hidden cellar beneath London shop, stone walls seeping moisture, narrow stairs leading to street level"
+        mainElements: "Large iron printing press dominating space, cases of movable type, stacks of paper, bottles of black ink, single gas lamp"
+        atmosphere: "Clandestine urgency, smell of printer's ink and damp stone, shadows dancing from flickering gaslight"
+    
+    - id: "mill_study"
+      name: "Mill's Private Study"
+      description_block: |
+        setting:
+          location: "Book-lined study in Blackheath residence, southeast London suburb, view of heath through tall windows"
+        mainElements: "Large oak writing desk covered with manuscripts, floor-to-ceiling bookshelves, leather armchair, globe on wooden stand, inkwell and quill pens"
+        atmosphere: "Intellectual sanctuary, morning light filtering through curtains, quiet broken only by scratching of pen on paper"
+    
+    - id: "victorian_pub"
+      name: "Working Class Public House"
+      description_block: |
+        setting:
+          location: "Corner pub in London's East End, ground floor of brick building, frosted glass windows with brewery name"
+        mainElements: "Long wooden bar with brass rail, beer pumps, smoke-stained ceiling, sawdust on floor, crude wooden tables and benches"
+        atmosphere: "Noisy working class gathering place, thick tobacco smoke, smell of ale and gin, gaslight reflecting off bottles"
+    
+    - id: "nonconformist_chapel"
+      name: "Dissenting Chapel Interior"
+      description_block: |
+        setting:
+          location: "Simple brick chapel in London suburb, plain rectangular building without steeple or ornamentation"
+        mainElements: "Rows of plain wooden pews, raised pulpit at front, clear glass windows, whitewashed walls, no religious imagery"
+        atmosphere: "Austere Protestant simplicity, natural daylight, focus on spoken word rather than ritual, democratic seating arrangement"
+    
+    - id: "london_street_1859"
+      name: "Victorian London Commercial Street"
+      description_block: |
+        setting:
+          location: "Busy thoroughfare in central London, four-story brick buildings lining both sides, cobblestone road"
+        mainElements: "Horse-drawn omnibuses and carriages, gas street lamps, shop fronts with painted signs, iron railings, pedestrians in Victorian dress"
+        atmosphere: "Urban bustle and noise, clip-clop of horses, street vendors calling, coal smoke from chimneys creating hazy atmosphere"
+
+  items:
+    - id: "on_liberty_manuscript"
+      name: "On Liberty Manuscript Pages"
+      description_block: |
+        details: "Cream-colored foolscap pages covered with neat handwriting in black ink, corrections and additions in margins, some passages in different hand suggesting collaboration"
+    
+    - id: "printing_type"
+      name: "Movable Type Letters"
+      description_block: |
+        details: "Individual lead type pieces in wooden compartments, backwards letters gleaming dully in gaslight, printer's hands stained with black ink arranging them"
+    
+    - id: "parliamentary_dispatch_box"
+      name: "Parliamentary Dispatch Box"
+      description_block: |
+        details: "Red leather box with brass corners and lock, containing proposed legislation documents, symbol of governmental authority and formal debate"
+    
+    - id: "protest_banner"
+      name: "Reform Movement Banner"
+      description_block: |
+        details: "White canvas banner on wooden poles, black painted letters demanding voting rights or social reform, held aloft by multiple protesters"
+    
+    - id: "pocket_watch"
+      name: "Gold Pocket Watch"
+      description_block: |
+        details: "Engraved gold hunter case watch on chain, Roman numerals on ivory face, mechanical movement visible through crystal, symbol of Victorian respectability"

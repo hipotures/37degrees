@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1947, afternoon
+    location: Grand salon of Dior fashion house on Avenue Montaigne in Paris, crystal chandeliers and gilded mirrors
+    weather: Bright spring day visible through tall windows
+  characters:
+  - appearance: group of elegantly dressed women in their 30s and 40s, perfectly coiffed hair, flawless makeup
+    clothing: New Look silhouettes - cinched waists with wide crinoline skirts, pearl necklaces, white gloves, small pillbox
+      hats
+    position: seated in neat rows on gilded chairs
+    action: applauding politely as models parade past, maintaining rigid posture and practiced smiles
+  scene:
+    mainElements: Fashion runway with models displaying extreme feminine silhouettes, audience of upper-class women in identical
+      poses of approval, male fashion designer taking bow at podium
+    details: Champagne flutes on silver trays untouched, programs held in gloved hands at precise angles, every woman's ankles
+      crossed identically, not a hair out of place despite hours of sitting. Wall posters proclaim 'The Return of French Elegance'
+      and 'Woman as Flower'
+    background: Ornate salon with baroque details, fashion journalists taking notes, waiters in formal attire standing at
+      attention
+    atmosphere: Orchestrated perfection, synchronized feminine performance, underlying tension beneath polished surface
+  composition:
+    cameraAngle: Wide establishing shot from back of salon
+    focus: The uniform rows of women viewed from behind, all heads turned at same angle
+    depth: Models on runway in foreground, audience in middle ground, ornate architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

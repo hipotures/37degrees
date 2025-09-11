@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Perfect Family Portrait Studio"
+  setting:
+    time: "1947, afternoon"
+    location: "Professional photography studio in central Paris, elaborate backdrop setup"
+    weather: "Not applicable - indoor studio"
+  characters:
+    - appearance: "family of four - father in 40s with authoritative bearing, mother in 30s with practiced smile, two children aged 8 and 10"
+      clothing: "father in dark suit and tie, mother in elegant dress with pearls, children in Sunday best - boy in short pants and blazer, girl in ruffled dress"
+      position: "arranged in formal pose - father standing, mother seated, children positioned at sides"
+      action: "holding perfectly still for photograph, maintaining fixed expressions"
+  scene:
+    mainElements: "Photography studio with painted backdrop of idealized home interior, large format camera on tripod, photographer under black cloth adjusting focus"
+    details: "Mother's hand positioned precisely on daughter's shoulder, father's hand on back of wife's chair showing ownership, children's hands folded identically. Studio walls covered with similar family portraits all following same composition. Photographer's assistant holds sign reading 'Smile Number 3'"
+    background: "Studio equipment, bright lights creating harsh shadows, rows of sample portraits on walls"
+    atmosphere: "Artificial construction of happiness, manufactured family ideal, suffocating perfection"
+  composition:
+    cameraAngle: "View from beside the photographer, showing both family pose and camera setup"
+    focus: "The frozen tableau of the family maintaining rigid positions"
+    depth: "Family group in center, camera and photographer in foreground, wall of portraits in background"

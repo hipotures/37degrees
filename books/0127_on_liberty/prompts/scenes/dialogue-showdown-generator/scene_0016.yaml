@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mill Alone with Harriet's Portrait After Her Death"
+  setting:
+    time: "1858, evening"
+    location: "Book-lined study in Blackheath residence, southeast London suburb, view of heath through tall windows"
+    weather: "November rain against windows"
+  characters:
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Seated at desk facing portrait"
+      action: "Writing dedication to Harriet, tears on cheeks"
+  scene:
+    mainElements: "Large oak writing desk covered with manuscripts, floor-to-ceiling bookshelves, leather armchair, globe on wooden stand, inkwell and quill pens"
+    details: "Portrait of Harriet prominently placed where she used to stand. Her handwritten pages of 'On Liberty' spread on desk. Empty chair beside his where she would sit. Dedication page reads 'To the beloved and deplored memory of her who was the inspirer...'"
+    background: "Intellectual sanctuary, morning light filtering through curtains, quiet broken only by scratching of pen on paper"
+    atmosphere: "Profound grief mixed with determination, solitude after partnership, continuing their shared work alone"
+  composition:
+    cameraAngle: "Over shoulder view toward portrait"
+    focus: "Mill's hand writing dedication, portrait watching"
+    depth: "Hand and dedication in foreground, portrait in middle, empty room beyond"

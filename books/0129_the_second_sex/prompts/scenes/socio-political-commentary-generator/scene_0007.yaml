@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Confessional Interrogation"
+  setting:
+    time: "1947, morning"
+    location: "Gothic Catholic church in Paris, dark wood confessional booth"
+    weather: "Dim light filtering through stained glass"
+  characters:
+    - appearance: "young married woman in late 20s, anxious expression, fidgeting hands"
+      clothing: "conservative black dress, lace mantilla covering hair, rosary beads"
+      position: "kneeling in confessional booth"
+      action: "speaking through wooden screen, head bowed"
+  scene:
+    mainElements: "Ornate confessional booth with carved religious imagery, thin wooden screen separating penitent from priest, shadow of priest visible through screen"
+    details: "Woman's wedding ring catching light as she clutches rosary, tears on her cheeks, priest's shadow leaning forward to hear better. Carved angels on confessional seem to watch. List of sins posted on wall includes 'refusing marital duties' and 'preventing conception'. Other women waiting in line outside, heads bowed"
+    background: "Church interior with vaulted ceilings, stations of the cross on walls, candles flickering"
+    atmosphere: "Spiritual surveillance, intimate thoughts extracted as obligation, guilt as control mechanism"
+  composition:
+    cameraAngle: "Side view through open church, showing profile through confessional's carved openwork"
+    focus: "Woman's face in profile through wooden screen, priest's shadow beyond"
+    depth: "Confessional booth in foreground, church nave receding into darkness"

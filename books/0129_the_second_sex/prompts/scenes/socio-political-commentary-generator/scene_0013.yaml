@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Girl's School Uniformity Training"
+  setting:
+    time: "1947, morning"
+    location: "Catholic girls' school in Paris, stone courtyard surrounded by austere buildings"
+    weather: "Cold morning, breath visible in air"
+  characters:
+    - appearance: "group of 30 girls aged 12-14, identical postures and expressions"
+      clothing: "matching navy blue pinafores, white blouses, black shoes, hair in same style braids"
+      position: "standing in perfect rows in courtyard"
+      action: "practicing synchronized curtsy and 'proper' walking with books on heads"
+  scene:
+    mainElements: "Nun with ruler directing movements, girls moving in perfect unison like military drill, windows of classrooms showing more girls in identical positions"
+    details: "Sign on wall reads 'A Lady's Grace is Her Virtue', girls who stumble must start over, books balanced on heads are about domestic skills and religious duty. One girl's individuality showing through - slightly different hair ribbon - being corrected by nun. Metronome keeping time for synchronized movements"
+    background: "Imposing school buildings, religious statues watching from alcoves, boys' school across street with students playing active games"
+    atmosphere: "Childhood spontaneity crushed into conformity, natural movement replaced with artificial grace, training for ornamental existence"
+  composition:
+    cameraAngle: "Elevated view from school building showing geometric pattern of girls"
+    focus: "The mechanical precision of synchronized feminine training"
+    depth: "Courtyard drill in foreground, contrasting boys' playground visible beyond wall"

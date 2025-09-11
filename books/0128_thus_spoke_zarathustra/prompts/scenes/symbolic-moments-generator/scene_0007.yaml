@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shattered Tablets Becoming Stepping Stones"
+  setting:
+    time: "mythical era, midday"
+    location: "mountain stream crossing on alpine trail"
+    weather: "bright sunshine, clear skies"
+  characters:
+    - appearance: "elderly man in his sixties with deeply lined face, white hair flowing to shoulders, white beard reaching chest, penetrating pale gray eyes"
+      clothing: "weathered brown woolen robe with visible patches, frayed hemp rope belt, worn leather sandals"
+      position: "crossing stream by stepping on stone fragments"
+      action: "carefully placing foot on broken tablet piece while using staff for balance"
+  scene:
+    mainElements: "rushing mountain stream, scattered stone fragments forming path across water"
+    details: "granite tablet fragments with partial ancient engravings still visible, now serving as stepping stones across swift current, moss growing on edges of broken stones, crystal clear water flowing around fragments, trout visible in deeper pools, mountain flowers blooming between rocks on banks, no text or letters visible"
+    background: "steep canyon walls rising on both sides, snow melt cascading down cliffs"
+    atmosphere: "sound of rushing water, cool spray from stream, bright alpine light"
+  composition:
+    cameraAngle: "low angle from water level showing transformation of law into path"
+    focus: "broken commandments now serving practical purpose as bridge"
+    depth: "stream and stones in foreground, figure crossing mid-ground, canyon walls background"

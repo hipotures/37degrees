@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Endless Stairway Carved into Mountain"
+  setting:
+    time: "mythical era, noon with vertical sun"
+    location: "sheer cliff face with ancient carved steps"
+    weather: "blazing sun, no shadows at noon"
+  characters:
+    - appearance: "small agile figure with white painted face, exaggerated red smile painted on lips, black circles around eyes"
+      clothing: "patchwork costume of yellow and purple diamond patterns, pointed cap with three brass bells"
+      position: "sitting on steps halfway up endless stairway"
+      action: "laughing while pointing both up and down simultaneously"
+  scene:
+    mainElements: "stone steps carved into vertical cliff, no visible top or bottom"
+    details: "weathered stone steps ascending into clouds above and descending into mist below, each step worn smooth by countless feet, occasional steps crumbling or missing entirely, small plants growing from cracks, water seeping from rock creating slippery patches, bones of small animals on various ledges, carved symbols on cliff face eroded beyond recognition, no text or letters visible"
+    background: "sheer granite cliff extending infinitely upward and downward"
+    atmosphere: "vertigo from endless vertical perspective, futility of infinite climb"
+  composition:
+    cameraAngle: "dramatic vertical shot showing stairs disappearing both directions"
+    focus: "endless ascent and descent with no beginning or end"
+    depth: "stairs in sharp detail center, fading into haze above and below"

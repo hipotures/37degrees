@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1948, rush hour evening
+    location: Paris Metro platform and train car, underground station
+    weather: Not applicable - underground
+  characters:
+  - appearance: crowd of commuters, clear division between well-dressed men and tired women
+    clothing: men in business suits reading newspapers, women in worn coats carrying shopping bags
+    position: men seated in train car, women standing holding overhead straps
+    action: men reading papers ignoring standing women, women balancing bags while swaying with train
+  scene:
+    mainElements: Crowded metro car with clear gender division - all seats occupied by men, women standing despite heavy bags
+      and obvious fatigue
+    details: Advertisement posters above seats showing happy housewives with cleaning products, men's newspapers with headlines
+      about business and politics, women's worn shoes visible from standing all day. One elderly woman struggling with heavy
+      groceries while young businessman remains seated reading stock reports. Sign reads 'Priority Seating' but ignored
+    background: Dark tunnel visible through windows, station names flashing by, fluorescent lighting creating harsh shadows
+    atmosphere: Everyday inequality made visible, exhaustion as feminine burden, privilege assumed as natural right
+  composition:
+    cameraAngle: View down the length of metro car
+    focus: The stark division between seated men and standing women
+    depth: Interior of car in full view, tunnel darkness through windows
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Book That Burns in Secret Hands"
+  setting:
+    time: "1848, late evening"
+    location: "Overcrowded tenement district in industrial Manchester, narrow alleyways between brick buildings"
+    weather: "Cold drizzle, smoke from chimneys mixing with fog"
+  characters:
+    - appearance: "Exhausted man in his 30s, gaunt face with hollow cheeks, muscular but lean build from hard labor, rough hands with calluses, tired eyes with dark circles"
+      clothing: "Worn blue cotton work shirt stained with oil and sweat, patched brown wool trousers held with rope belt, scuffed leather boots with holes, flat cloth cap"
+      position: "Hunched in doorway"
+      action: "Secretly passing small wrapped package to another worker"
+    - appearance: "Weary woman in her 20s, pale complexion from lack of sunlight, thin frame, hair pulled back in simple bun, prematurely aged face"
+      clothing: "Dark brown cotton dress with long sleeves, stained white apron, worn leather shoes, simple headscarf"
+      position: "Receiving package with trembling hands"
+      action: "Quickly hiding forbidden text under her shawl"
+  scene:
+    mainElements: "Cramped brick row houses blackened with soot, open sewage channels running down cobblestone streets, piles of refuse and waste"
+    details: "Small book wrapped in rough cloth to hide its nature. Title partially visible: 'The Condition of...' before being covered. Windows with residents quickly closing curtains when transaction noticed. Posted warning about seditious materials with reward for informants"
+    background: "Perpetual twilight from smoke-filled air, stench of decay and human waste, sounds of crying children and coughing"
+    atmosphere: "Knowledge as contraband, literacy as rebellion, sharing ideas as revolutionary act"
+  composition:
+    cameraAngle: "Street level, intimate view of secret exchange"
+    focus: "The moment of dangerous transfer of forbidden knowledge"
+    depth: "Figures in doorway, dark alley, watchful windows above"

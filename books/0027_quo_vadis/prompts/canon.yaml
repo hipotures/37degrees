@@ -1,0 +1,137 @@
+canon:
+  characters:
+    - id: "marek_winicjusz"
+      name: "Marek Winicjusz"
+      description_block: |
+        characters:
+          - appearance: "25-28 years old, tall athletic man with powerful harmoniously built physique, muscular arms and legs hardened by military campaigns. Regular masculine features with defined jaw, beautiful expressive eyes under dark bushy brows. Dark short curly hair typical of Romans. Olive-toned skin tanned from Asian war campaigns. Moves with springy energetic soldier's stride."
+            clothing: "Roman patrician in military tunika and gleaming armor with purple military cloak (paludamentum), or rich colorful tunicas with snow-white toga in civilian settings. Later adopts simpler, more modest garments reflecting spiritual transformation."
+            posture: "Initially impetuous, violent and possessive gestures - grabs people, strikes slaves. Face easily expresses desire, anger, fury, then desperation, pain and finally spiritual peace."
+    
+    - id: "ligia_kallina"
+      name: "Ligia Kallina"
+      description_block: |
+        characters:
+          - appearance: "16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed for a kiss'."
+            clothing: "Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry, perhaps simple pearl necklace. Hair often braided or partially loose."
+            posture: "Natural grace and elegance. Restrained modest gestures, often lowers gaze in shyness. Face mirrors her soul - easily shows fear, wonder, love or deep faith."
+
+    - id: "petronius"
+      name: "Gajusz Petronius Arbiter"
+      description_block: |
+        characters:
+          - appearance: "40-45 years old, tall slender elegant man with somewhat effeminate but graceful posture. More handsome than Winicjusz. Intelligent expressive face often bearing ironic smile or expression of weariness. Sharp witty hazel eyes 'gleaming with wit and merriment'. Well-groomed hands."
+            clothing: "Impeccable refined attire as 'arbiter of elegance'. Perfectly draped toga of finest fabrics (soft karbas). Always harmonious, avoiding Nero's vulgar ostentation."
+            posture: "Elegant deliberate gestures. Often rests head on hand in contemplative gesture. Every movement reflects his philosophy of beauty and disdain for coarseness."
+
+    - id: "neron"
+      name: "Neron (Ahenobarbus)"
+      description_block: |
+        characters:
+          - appearance: "26-29 years old, medium height corpulent man with thick neck supporting disproportionately large head. Broad short face swollen despite youth, sickly complexion described as 'face of ape, drunkard and comedian' under 'forehead of demigod'. Dark hair arranged in four rows of carefully styled curls. Most characteristic feature: bulging blue 'glassy, thoughtless eyes like those of the dead' often squinting in light."
+            clothing: "Ostentatious theatrical attire in imperial colors - amethyst tunica, abundant gold and precious stones, diamond necklaces."
+            posture: "Exaggerated theatrical capricious gestures. Constantly holds large polished emerald to his eye when observing world, symbolizing his artistic pretensions and detachment from reality."
+
+    - id: "ursus"
+      name: "Ursus the Ligian"
+      description_block: |
+        characters:
+          - appearance: "30-40 years old, gigantic man of superhuman strength with powerful broad-shouldered build. Arms and hands 'like clubs', muscles hard as stone. Contrasts with his simple honest face and gentle 'childlike' blue eyes expressing mildness and loyalty."
+            clothing: "Simple functional servant's garment - short woolen tunika that doesn't restrict movement. Often bare-chested during combat."
+            posture: "Slow deliberate movements of enormous strength. His gestures are careful and gentle despite his physical power."
+
+    - id: "chilon"
+      name: "Chilon Chilonides"  
+      description_block: |
+        characters:
+          - appearance: "50-60 years old, thin hunched man with slovenly appearance broken by life. Characteristic missing two fingers on hand - mark of his dark past. After torture becomes terrifyingly emaciated, 'through transparent skin one could almost see his bones', face pale as corpse."
+            clothing: "Variable dress reflecting his changing fortunes - from dirty rags of beggar-philosopher, to rich augustinian robes when favored by Nero, finally simple loincloth of martyr."
+            posture: "Servile cringing gestures full of falseness. Eyes small and shifty. After conversion, face carved by suffering but peaceful."
+
+    - id: "poppea"
+      name: "Poppea Sabina"
+      description_block: |
+        characters:
+          - appearance: "33-34 years old, tall statuesque woman with ideal figure embodying sensual beauty. Classically beautiful but cold haughty face. Golden hair elaborately arranged. Eyes expressing cruelty and contempt."
+            clothing: "Luxurious often translucent and low-cut silk garments. Rich jewelry including large pearls. Colors: gold and purple."
+            posture: "Haughty bearing with disdainful smile. Carries fan of ostrich feathers as signature accessory."
+
+    - id: "apostle_peter"
+      name: "Apostle Peter"
+      description_block: |
+        characters:
+          - appearance: "Elderly man with face furrowed by wrinkles but expressing inspiration and spiritual authority. Gray-bearded with penetrating eyes full of divine wisdom."
+            clothing: "Simple poor robes of humble Christian leader - rough woolen garments in earth tones."
+            posture: "Movements reflecting spiritual authority and deep compassion. Gestures of blessing and prayer."
+
+  locations:
+    - id: "petronius_villa"
+      name: "Villa of Petronius on Carinae"
+      description_block: |
+        setting:
+          location: "Elegant residential district of Carinae in central Rome, exclusive patrician neighborhood on hillside"
+        mainElements: "Luxurious but harmonious villa featuring private bath complex with tepidarium (warm room), frigidarium (cold room), and unctuarium (massage room). Central courtyard with violet-scented fountain. Cyprus wood furniture, Egyptian byssus fabrics, rainbow marble walls, bronze statuary."
+        atmosphere: "Peaceful intellectual sanctuary with bright natural lighting, soft sounds of fountains, aroma of violets and Arabian massage oils. Perfect order and aesthetic refinement."
+
+    - id: "domus_aurea"
+      name: "Golden House of Nero on Palatine"
+      description_block: |
+        setting:
+          location: "Palatine Hill, center of imperial power in Rome, site of Caesar's palace"
+        mainElements: "Colossal palace manifestation of Nero's megalomania. Bronze quadriga above monumental entrance gate. Gigantic colonnade of Numidian marble gleaming golden in sunlight. Interior dripping with wealth - gold, mother-of-pearl, ivory, precious stones. Famous dining hall with revolving ceiling dropping rose petals."
+        atmosphere: "Oppressive luxury with nervous flickering light of thousands of oil lamps creating fevered atmosphere. Air heavy with mixture of flowers, perfumes, wine, food and human bodies. Constant noise, chaos, forced merriment hiding fear and uncertainty."
+
+    - id: "trastevere_christian_quarter"
+      name: "Trastevere Christian District"
+      description_block: |
+        setting:
+          location: "Trans Tiberim (across the Tiber), poor densely populated district of Rome inhabited by foreigners, freedmen and slaves"
+        mainElements: "Labyrinth of narrow dirty unpaved streets. Multi-story insulae (tenements) of poor construction built from wood, sun-dried brick and clay, threatening collapse. Underground meeting places in arenaria (quarries) and catacombs - rough damp caves and corridors carved from soft tufa rock."
+        atmosphere: "Street level: half-light from tall buildings blocking sun, noise, stench, despair. Underground: profound silence, concentration, sacred mystery illuminated by simple oil lamps and torches casting long moving shadows."
+
+    - id: "roman_amphitheater"
+      name: "Roman Amphitheater"
+      description_block: |
+        setting:
+          location: "Major amphitheater in Rome (likely Circus Maximus or proto-Colosseum structure)"
+        mainElements: "Gigantic elliptical structure with rows of seats rising steeply upward. Arena covered with fresh yellow sand. Underground carceres (beast cages). Imperial box (pulvinar) decorated with purple and gold. Massive crowd capacity."
+        atmosphere: "Deafening roar of bloodthirsty crowd, harsh afternoon sun casting long shadows, tension and anticipation of violence. Contrast between white togas in stands and brutal sand of arena."
+
+    - id: "ostrianum_catacombs"
+      name: "Ostrianum Underground Cemetery"
+      description_block: |
+        setting:
+          location: "Underground cemetery complex outside Rome city walls, network of burial tunnels and chambers"
+        mainElements: "Narrow corridors carved from soft rock, burial niches in walls, simple Christian symbols carved in stone. Secret meeting chambers large enough for congregations."
+        atmosphere: "Sacred silence broken only by whispered prayers and softly sung hymns. Damp earth smell, flickering torchlight, sense of hidden community and spiritual refuge from persecution above."
+
+  items:
+    - id: "fish_symbol"
+      name: "Ichthys Fish Symbol"
+      description_block: |
+        details: "Simple fish outline drawn with finger in sand or dust. Secret recognition sign of early Christians. Greek word ICHTHYS forms acronym for 'Jesus Christ, Son of God, Savior'."
+
+    - id: "boxwood_cross"
+      name: "Small Boxwood Cross"
+      description_block: |
+        details: "Tiny simple cross carved from pale boxwood, worn smooth by handling. Fits in palm of hand. Symbol of Ligia's faith that becomes object of meditation for Winicjusz during his spiritual journey."
+
+    - id: "nero_emerald"
+      name: "Nero's Viewing Emerald"
+      description_block: |
+        details: "Large perfectly cut round emerald that Nero holds to his eye like monocle when observing world. Symbolizes his distorted 'artistic' perception and emotional coldness."
+
+    - id: "nero_lyre"
+      name: "Nero's Golden Lyre"
+      description_block: |
+        details: "Elaborately gilded and decorated musical instrument. Symbol of Nero's artistic pretensions and delusion. He plays it while Rome burns, seeking inspiration for his poetry."
+
+    - id: "roman_toga"
+      name: "Roman Citizen's Toga"
+      description_block: |
+        details: "Large oval piece of woolen fabric draped around body in complex fashion. White toga for ordinary citizens, toga with purple stripe (latus clavus) for senators. Symbol of Roman citizenship status and social position."
+
+    - id: "gladiator_armor"
+      name: "Gladiator Combat Gear"
+      description_block: |
+        details: "Minimal protective armor designed for arena combat - typically arm guards, small shield, helmet with face protection. Varies by gladiator type (retiarius with net, secutor with sword and large shield, etc.)."

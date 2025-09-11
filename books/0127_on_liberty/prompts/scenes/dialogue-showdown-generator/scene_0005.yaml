@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mill's Moment of Doubt After Public Rejection"
+  setting:
+    time: "1859, late evening"
+    location: "Book-lined study in Blackheath residence, southeast London suburb, view of heath through tall windows"
+    weather: "Rain streaking dark windows"
+  characters:
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Slumped in leather armchair by dying fire"
+      action: "Head in hands, shoulders sagging with exhaustion and defeat"
+  scene:
+    mainElements: "Large oak writing desk covered with manuscripts, floor-to-ceiling bookshelves, leather armchair, globe on wooden stand, inkwell and quill pens"
+    details: "Crumpled rejection letter from publisher lies on floor beside chair. Empty teacup cold on side table. Fire reduced to glowing embers. Portrait of Harriet on mantel seems to watch with encouragement. Rain traces paths down window panes like tears."
+    background: "Intellectual sanctuary, morning light filtering through curtains, quiet broken only by scratching of pen on paper"
+    atmosphere: "Profound solitude and temporary defeat, weight of opposition pressing down, questioning whether society ready for his ideas"
+  composition:
+    cameraAngle: "High angle looking down at isolated figure"
+    focus: "Mill's dejected posture and hidden face"
+    depth: "Dark empty room surrounds small figure in chair, books looming like silent judges"

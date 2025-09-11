@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1848, Sunday afternoon
+    location: Grand civic hall, Munich
+    weather: Bright day outside, heavy curtains drawn
+  characters:
+  - appearance: Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with
+      prominent sideburns
+    clothing: Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold
+      watch chain, black trousers with satin stripe, polished leather boots, tall black top hat
+    position: Speaking from ornate podium with passion
+    action: Arms raised, preaching about divine right of capital
+  - appearance: Audience of mixed bourgeoisie and forced attendance workers
+    clothing: Front rows in fine dress, back rows in work clothes
+    position: Seated in hierarchical arrangement by class
+    action: Wealthy applauding enthusiastically, workers sitting silent
+  scene:
+    mainElements: Opulent hall with gilded decorations, massive chandelier, stage with industrial and religious symbols merged
+    details: Banner reading 'God Blessed the Industrious' hanging above stage. Stained glass windows depicting factories as
+      cathedrals. Collection plates being passed for 'worker education fund' (actually owner profits). Workers in back forced
+      to stand for anthem about joy of labor
+    background: Portraits of industrial magnates painted like saints with halos of gold coins
+    atmosphere: Perverse merger of capitalism and religion, wealth worship disguised as righteousness
+  composition:
+    cameraAngle: Side view showing class stratification in seating
+    focus: The preacher-capitalist as false prophet of prosperity gospel
+    depth: Podium and speaker, divided audience, ostentatious decorations
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

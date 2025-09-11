@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 65 CE, sunset during planned suicide
+    location: Upper chamber of Petronius villa, Carinae district Rome
+    weather: Golden sunset light through villa windows
+  characters:
+  - appearance: 40-45 years old, tall slender elegant man with somewhat effeminate but graceful posture. More handsome than
+      Winicjusz. Intelligent expressive face often bearing ironic smile or expression of weariness. Sharp witty hazel eyes
+      'gleaming with wit and merriment'. Well-groomed hands.
+    clothing: Impeccable refined attire as 'arbiter of elegance'. Perfectly draped toga of finest fabrics (soft karbas). Always
+      harmonious, avoiding Nero's vulgar ostentation.
+    position: Centered in large villa window opening, framed by ornate architecture
+    action: Standing calmly with cup of poison, looking out at Rome one final time
+  - appearance: 18-20 years old, young Grecian woman of smukła, harmonious figure and natural grace
+    clothing: Beautiful Greek garments in white and blue, freed slave wearing finest robes
+    position: Behind Petronius, also framed by window, devoted to her master
+    action: Preparing to die alongside him, showing absolute love and loyalty
+  scene:
+    mainElements: Petronius and Eunice framed by elaborate villa window as they prepare for voluntary death rather than submit
+      to Nero's tyranny, sunset light creating tragic beauty around their final moments.
+    details: Ornate Roman window frame with decorative stonework creating architectural border, golden sunset light streaming
+      through opening, Petronius holding jeweled cup with deadly poison, his face showing philosophical calm and aesthetic
+      appreciation, Eunice behind him with expression of devoted love, villa's luxury visible in frame edges, Rome visible
+      through window in distance, shadows and light creating chiaroscuro effect, no text or letters visible.
+    background: Rome's seven hills visible through window opening, sunset sky
+    atmosphere: Tragic beauty and philosophical death, love choosing death over separation, window framing final view of world
+      being abandoned
+  composition:
+    cameraAngle: Medium shot with architectural window creating perfect frame
+    focus: Both figures sharp within window frame, Rome softly visible beyond
+    depth: Window frame in foreground, figures in middle distance, cityscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

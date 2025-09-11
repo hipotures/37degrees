@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Department Store Class Divisions"
+  setting:
+    time: "1949, afternoon"
+    location: "Luxury department store Galeries Lafayette in Paris, multiple floor views"
+    weather: "Bright day visible through glass dome"
+  characters:
+    - appearance: "wealthy woman in 40s examining gloves, haughty expression"
+      clothing: "fur stole, designer dress, jewelry, expensive hat"
+      position: "at luxury goods counter on upper floor"
+      action: "having saleswoman display multiple pairs of gloves"
+    - appearance: "young shopgirl in early 20s, tired but attentive"
+      clothing: "black uniform dress, white collar, worn shoes"
+      position: "behind counter, standing for hours"
+      action: "repeatedly fetching items, forcing smile"
+  scene:
+    mainElements: "Opulent store interior with marble columns and gilt fixtures contrasting with exhausted workers, clear separation between customer and service spaces"
+    details: "Price tags showing shopgirl's monthly salary equals one pair of gloves, servants' staircase hidden behind elegant facade, workers' break room visible through service door - cramped and dingy. Customer drops glove carelessly, expects immediate retrieval. Sign reads 'Staff must remain standing during shift'"
+    background: "Glass dome ceiling, elaborate displays, other wealthy shoppers browsing"
+    atmosphere: "Luxurious consumption built on invisible labor, class boundaries reinforced through commercial space"
+  composition:
+    cameraAngle: "Two-level view showing both luxury floor and glimpse of service areas"
+    focus: "The contrast between customer leisure and worker exhaustion"
+    depth: "Ornate shopping floor in foreground, service corridors visible in background"

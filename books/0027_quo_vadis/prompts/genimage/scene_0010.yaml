@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 64 CE, evening
+    location: Garden courtyard of Aulus Plautius house, aristocratic Roman villa
+    weather: Golden evening light with long shadows
+  characters:
+  - appearance: 25-28 years old, tall athletic man with powerful harmoniously built physique, muscular arms and legs hardened
+      by military campaigns. Regular masculine features with defined jaw, beautiful expressive eyes under dark bushy brows.
+      Dark short curly hair typical of Romans. Olive-toned skin tanned from Asian war campaigns. Moves with springy energetic
+      soldier's stride.
+    clothing: Roman patrician in military tunika and gleaming armor with purple military cloak (paludamentum), or rich colorful
+      tunicas with snow-white toga in civilian settings. Later adopts simpler, more modest garments reflecting spiritual transformation.
+    position: Left side of frame, standing facing right with aggressive posture
+    action: Gesturing forcefully with obvious desire and frustration, reaching toward Ligia
+  - appearance: 16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily
+      lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence
+      but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed
+      for a kiss'.
+    clothing: Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry,
+      perhaps simple pearl necklace. Hair often braided or partially loose.
+    position: Right side of frame, drawing back with defensive posture
+    action: Recoiling from his advances while drawing fish symbol in garden sand with finger
+  scene:
+    mainElements: Dramatic confrontation between Roman pagan desire and Christian purity, two figures separated by invisible
+      spiritual gulf despite physical proximity, ancient symbol being traced in sand as barrier.
+    details: Winicjusz leaning forward aggressively with hands outstretched, muscles tensed with desire and frustration, Ligia
+      gracefully withdrawing with expression mixing fear and pity, simple fish symbol (ichthys) visible in sand between them,
+      garden setting with columns and flowering plants, late sunlight creating dramatic chiaroscuro lighting, space between
+      characters telling story of unbridgeable divide, no text or letters visible.
+    background: Roman villa architecture with columns, garden elements, and evening sky
+    atmosphere: Tension between opposing worldviews, physical desire confronting spiritual purity, cultural collision creating
+      dramatic conflict
+  composition:
+    cameraAngle: Medium wide two-shot at eye level showing relationship dynamics
+    focus: Both figures in sharp focus with fish symbol clearly visible in sand
+    depth: Characters in foreground, garden elements in middle ground, villa architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

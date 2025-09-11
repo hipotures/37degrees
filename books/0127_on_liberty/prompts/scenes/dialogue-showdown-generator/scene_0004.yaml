@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Working Class Speaker Confronts Establishment at Hyde Park"
+  setting:
+    time: "1859, Sunday afternoon"
+    location: "Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary"
+    weather: "Overcast with breaks of sunlight"
+  characters:
+    - appearance: "Man in his 30s with weathered face from outdoor labor, strong build, calloused hands, earnest expression, clean-shaven except for mustache"
+      clothing: "Brown corduroy jacket showing wear at elbows, coarse cotton shirt, dark wool vest, sturdy leather boots, cloth cap"
+      position: "Standing on wooden crate, elevated above crowd"
+      action: "Arm extended pointing at well-dressed heckler, mouth open mid-shout"
+    - appearance: "Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club dinners"
+      clothing: "Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain across waistcoat, white gloves"
+      position: "Standing at crowd edge with two companions"
+      action: "Raising walking stick in protest, face red with indignation"
+    - appearance: "Mixed crowd of 30 people, workers and middle class"
+      clothing: "Variety of caps, bonnets, work clothes and Sunday best"
+      position: "Gathered in rough semicircle around speaker"
+      action: "Some cheering speaker, others arguing among themselves"
+  scene:
+    mainElements: "Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack flags and protest banners"
+    details: "Banner behind speaker reads 'UNIVERSAL SUFFRAGE NOW'. The gentleman's walking stick points accusingly while the speaker's weathered hands gesture passionately. Crowd divides between supporters in work clothes and skeptics in better dress. Police constable watches from distance."
+    background: "Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression"
+    atmosphere: "Raw democratic energy, class tension visible in clothing and postures, freedom and conflict coexisting"
+  composition:
+    cameraAngle: "Medium shot from crowd level looking up at speaker"
+    focus: "Speaker's passionate face and pointing gesture"
+    depth: "Speaker elevated in foreground, hostile gentleman in middle, mixed crowd and trees in background"

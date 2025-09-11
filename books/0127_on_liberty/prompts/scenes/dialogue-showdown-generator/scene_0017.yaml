@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conservative Gentleman Contemplates Change in Empty Club"
+  setting:
+    time: "1860, late evening"
+    location: "Gentlemen's club smoking room, Pall Mall, London, leather and mahogany interior"
+    weather: "Fog outside tall windows"
+  characters:
+    - appearance: "Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club dinners"
+      clothing: "Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain across waistcoat, white gloves"
+      position: "Alone in large leather chair by dying fire"
+      action: "Staring at open book in lap, brow furrowed in thought"
+  scene:
+    mainElements: "Empty leather chairs arranged around fireplace, paintings of conservative heroes, brandy decanters, Persian rug"
+    details: "Copy of 'On Liberty' open in his lap, partially hidden by newspaper. Other chairs empty - his peers have left. Fire dying to embers. His brandy untouched. Gas lamps turned low. Portrait of Edmund Burke seems to watch him reading Mill."
+    background: "Silent exclusive club, ticking of grandfather clock, distant London sounds muffled by fog"
+    atmosphere: "Old certainties questioned, solitary reconsideration, establishment forced to think"
+  composition:
+    cameraAngle: "Wide shot emphasizing his isolation"
+    focus: "Gentleman's conflicted face illuminated by dying fire"
+    depth: "Empty chairs surrounding lone figure, vast dark room beyond"

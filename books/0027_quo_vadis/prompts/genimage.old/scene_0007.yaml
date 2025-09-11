@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 64 AD, early afternoon, sun high and blazing
+    location: Hillside grove outside Rome, ancient olive orchard
+    weather: Scorching summer heat with shimmering air and no breeze
+  characters:
+  - appearance: Marcus Vinicius, young Roman patrician with intense dark eyes, and Lygia, blonde Lygian princess with gentle
+      expression showing inner conflict
+    clothing: Vinicius in light linen tunic showing his growing humility, Lygia in modest blue stola with Christian fish pendant
+      visible
+    position: Seated beneath ancient olive tree outside Rome, maintaining respectful distance
+    action: Vinicius speaking of his growing love and understanding of Christianity, Lygia torn between affection and faith
+  scene:
+    mainElements: Ancient olive trees with twisted trunks and silver-green leaves providing dappled shade, dry grass and scattered
+      olives on ground
+    details: Heat waves rising from sun-baked earth beyond shade, silver olive leaves rustling faintly in minimal breeze,
+      ceramic water vessel sweating with condensation, leather sandals kicked off on dusty ground, fabric clinging to bodies
+      from perspiration, cicadas droning in afternoon heat, patterns of light and shadow shifting on ground
+    background: Rome visible in distance shimmering through heat haze, barren hills burnt golden brown, no movement in landscape
+      except heat distortion
+    atmosphere: Overwhelming heat intensifying emotional tension, blessed shade providing sanctuary for forbidden love, air
+      thick with unspoken longing, drowsy warmth of growing passion, intimate refuge where pagan and Christian hearts meet
+  composition:
+    cameraAngle: Medium shot from edge of shade looking toward figures
+    focus: Two figures sheltering together under protective canopy of leaves
+    depth: Foreground dappled shade patterns, middle ground resting figures against tree, background heat-hazed landscape
+      and distant city
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1948, morning
+    location: Newsstand kiosk on Boulevard Saint-Germain in Paris, typical Parisian street corner
+    weather: Clear morning light
+  characters:
+  - appearance: middle-aged male vendor with mustache, weathered face
+    clothing: brown wool cap, worn vest over shirt, fingerless gloves
+    position: standing behind counter arranging magazines
+    action: carefully displaying women's magazines with covers facing outward
+  scene:
+    mainElements: Rows of women's magazines displayed prominently - Elle, Marie Claire, Femmes Françaises - all featuring
+      identical smiling housewife imagery, headlines about perfect homes and happy families
+    details: Every magazine cover shows same archetype - woman in apron holding mixing bowl or woman with children, all with
+      bright red lipstick and pearl necklaces. Headlines read 'Secret to Happy Marriage', 'Perfect Mother's Guide', '50 Ways
+      to Please Your Husband'. Male customer purchasing newspaper ignores the display entirely
+    background: Busy Parisian street with pedestrians, classic Haussmann buildings, morning commuters
+    atmosphere: Commercial normality masking propaganda, cheerful facades hiding prescribed roles
+  composition:
+    cameraAngle: Front view of newsstand at eye level
+    focus: The wall of identical magazine covers creating pattern of repetition
+    depth: Magazine display in sharp focus, vendor in middle ground, street life blurred in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

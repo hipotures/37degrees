@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Doll Factory"
+  setting:
+    time: "1949, afternoon"
+    location: "Doll manufacturing workshop in Paris, assembly line setup"
+    weather: "Industrial skylight providing harsh overhead lighting"
+  characters:
+    - appearance: "young woman in early 20s, vacant expression, mechanical movements"
+      clothing: "factory smock, hair tied back, identification number on collar"
+      position: "seated at workstation in production line"
+      action: "painting identical smiles on doll faces in endless repetition"
+  scene:
+    mainElements: "Assembly line where women paint faces on dolls that look exactly like idealized women, creating their own replacements"
+    details: "Dolls dressed as brides, mothers, and housewives, all with same frozen smile being painted by women with increasingly frozen expressions. Sign reads 'Perfect Woman Doll - Teaching Girls Their Future'. Mirror positioned so workers see their own faces becoming like dolls they create. Supervisor checking that each smile is identical. Rejected dolls with 'wrong' expressions thrown in waste bin"
+    background: "Rows of completed dolls packaged for sale, advertisements showing happy girls playing with them"
+    atmosphere: "Women manufacturing their own oppression, creating the very images that imprison them, cycle of reproduction"
+  composition:
+    cameraAngle: "Parallel view showing woman's face and doll face side by side"
+    focus: "The moment where woman's expression matches the doll she's painting"
+    depth: "Worker and doll in foreground, endless line of both receding into distance"

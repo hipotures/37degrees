@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Technology Serving All - The Great Lie"
+  setting:
+    time: "1848, late afternoon"
+    location: "New railway station in industrial Paris, France"
+    weather: "Golden sunset light filtering through industrial smoke"
+  characters:
+    - appearance: "Mixed group of bourgeois families - men, women, and children, well-fed, healthy complexions"
+      clothing: "Men in top hats and tailcoats, women in silk dresses with parasols, children in miniature versions of adult formal wear"
+      position: "Boarding first-class railway carriage"
+      action: "Assisted by porters, settling into plush compartments"
+    - appearance: "Mass of workers - men and women, exhausted faces, thin bodies"
+      clothing: "Rough work clothes, patched and worn, carrying bundles of belongings"
+      position: "Crowded on platform for third-class cars"
+      action: "Pushing and shoving to fit into overcrowded wooden benches"
+  scene:
+    mainElements: "Gleaming new steam locomotive with polished brass fittings, segregated passenger cars showing extreme class divisions"
+    details: "First-class carriages with velvet seats and crystal lamps. Third-class cars are essentially cattle wagons with rough wooden benches. Station clock tower prominently displaying time. Propaganda poster showing locomotive with text 'Progress for All Citizens'"
+    background: "Grand iron and glass station roof, architectural marvel of industrial age, city skyline with factory chimneys"
+    atmosphere: "Bitter irony of 'progress for all' while showing brutal class segregation in supposed marvel of modern technology"
+  composition:
+    cameraAngle: "Side view along platform showing stark contrast between carriages"
+    focus: "The divide between luxury first-class and overcrowded third-class sections"
+    depth: "Locomotive in foreground, separated passengers in middle, station architecture in background"

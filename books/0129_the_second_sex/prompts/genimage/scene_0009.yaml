@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1949, afternoon
+    location: Luxury department store Galeries Lafayette in Paris, multiple floor views
+    weather: Bright day visible through glass dome
+  characters:
+  - appearance: wealthy woman in 40s examining gloves, haughty expression
+    clothing: fur stole, designer dress, jewelry, expensive hat
+    position: at luxury goods counter on upper floor
+    action: having saleswoman display multiple pairs of gloves
+  - appearance: young shopgirl in early 20s, tired but attentive
+    clothing: black uniform dress, white collar, worn shoes
+    position: behind counter, standing for hours
+    action: repeatedly fetching items, forcing smile
+  scene:
+    mainElements: Opulent store interior with marble columns and gilt fixtures contrasting with exhausted workers, clear separation
+      between customer and service spaces
+    details: Price tags showing shopgirl's monthly salary equals one pair of gloves, servants' staircase hidden behind elegant
+      facade, workers' break room visible through service door - cramped and dingy. Customer drops glove carelessly, expects
+      immediate retrieval. Sign reads 'Staff must remain standing during shift'
+    background: Glass dome ceiling, elaborate displays, other wealthy shoppers browsing
+    atmosphere: Luxurious consumption built on invisible labor, class boundaries reinforced through commercial space
+  composition:
+    cameraAngle: Two-level view showing both luxury floor and glimpse of service areas
+    focus: The contrast between customer leisure and worker exhaustion
+    depth: Ornate shopping floor in foreground, service corridors visible in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Forbidden Book"
+  setting:
+    time: "1949, late night"
+    location: "Young woman's small attic room in Paris, slanted ceiling with single window"
+    weather: "Moonlight through window"
+  characters:
+    - appearance: "woman in early 20s, determined expression despite fatigue, calloused hands"
+      clothing: "simple nightgown, shawl wrapped around shoulders, hair loose"
+      position: "huddled by window for moonlight"
+      action: "reading hidden book by moonlight, taking secret notes"
+  scene:
+    mainElements: "Woman reading concealed philosophy book under covers, hidden notebook with her thoughts, official 'approved' books visible on shelf"
+    details: "Book hidden inside cover of 'Household Management Guide', her handwritten notes questioning prescribed roles, candle she dare not light for fear of discovery. Bookshelf showing approved titles: 'The Obedient Wife', 'Joy in Submission', 'Finding Fulfillment Through Service'. Real book is Wollstonecraft or similar, pages worn from secret reading. Door locked from inside, chair wedged under handle"
+    background: "Narrow servant's room with bare walls, single bed, crucifix watching from wall"
+    atmosphere: "Knowledge as rebellion, thinking as dangerous act, mind asserting freedom despite constraints"
+  composition:
+    cameraAngle: "Intimate close-up from above, moonlight illuminating page and face"
+    focus: "The hidden book and woman's intense concentration"
+    depth: "Reading woman in sharp focus, approved books blurred on shelf, door in shadow"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Paradise and Perdition - Adjacent Realities"
+  setting:
+    time: "1848, summer evening"
+    location: "Luxury hotel overlooking factory district, Vienna"
+    weather: "Golden sunset contrasting with industrial smoke"
+  characters:
+    - appearance: "Group of bourgeois diners, mixed ages, glowing with health"
+      clothing: "Men in evening dress with white bow ties, women in silk gowns with jewels"
+      position: "Seated at tables on rooftop restaurant terrace"
+      action: "Dining on multiple courses, champagne glasses raised in toast"
+    - appearance: "Mass of workers visible in factory courtyard below"
+      clothing: "Identical gray work uniforms, covered in industrial grime"
+      position: "Crowded in factory yard during shift change"
+      action: "Queuing for water pump, collapsing from exhaustion"
+  scene:
+    mainElements: "Elegant rooftop terrace with crystal chandeliers and white tablecloths directly above squalid factory complex"
+    details: "Orchestra playing waltz on terrace, candelabras and flowers on every table, silver serving dishes. Below, workers drinking from single rusty pump, sleeping on ground during break, children searching through waste for food"
+    background: "City panorama showing clear division - church spires and government buildings on one side, forest of factory smokestacks on other"
+    atmosphere: "Vertical stratification of society, paradise literally built on top of hell, willful blindness of privileged class"
+  composition:
+    cameraAngle: "Diagonal view showing both levels simultaneously"
+    focus: "The vertical separation between luxury above and misery below"
+    depth: "Terrace in upper frame, factory yard below, city sprawl in background"

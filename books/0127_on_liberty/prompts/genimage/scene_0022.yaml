@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1865, Sunday afternoon
+    location: Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary
+    weather: Clear summer day, bright sunshine
+  characters:
+  - appearance: Woman in her 30s, confident bearing, simple dress
+    clothing: Practical gray dress without excessive ornament, speaking bonnet
+    position: Standing on platform addressing large crowd
+    action: Arms raised, quoting from 'On Liberty' from memory
+  - appearance: Diverse crowd of over 200 people
+    clothing: Full spectrum from working clothes to Sunday best
+    position: Gathered in concentric circles, all classes mixed
+    action: Listening intently, many holding copies of Mill's works
+  scene:
+    mainElements: Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack
+      flags and protest banners
+    details: Woman speaker quotes Mill's harm principle word for word. Banners read 'LIBERTY OF THOUGHT', 'EXPERIMENTS IN
+      LIVING', 'TYRANNY OF THE MAJORITY'. Books being passed hand to hand through crowd. Police standing by but not interfering.
+    background: Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression
+    atmosphere: Ideas fully democratized, philosophy as public property, Mill's vision realized in practice
+  composition:
+    cameraAngle: Elevated wide shot showing entire assembly
+    focus: Speaker as focal point with crowd radiating outward
+    depth: Platform and speaker in foreground, expanding crowd, London skyline beyond
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

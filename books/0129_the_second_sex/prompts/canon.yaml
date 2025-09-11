@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "young_girl"
+      name: "Young Girl"
+      description_block: |
+        characters:
+          - appearance: "adolescent girl around 15 years old, slender build in midst of transformation, delicate features showing mixture of curiosity and resignation"
+            clothing: "pleated wool skirt in plaid pattern, fitted cashmere sweater over white cotton blouse with rounded collar visible at neckline, white ankle socks folded down, brown leather loafers"
+            posture: "shoulders slightly hunched forward in self-conscious manner, arms often crossed protectively over chest"
+    
+    - id: "married_woman"
+      name: "Married Woman"
+      description_block: |
+        characters:
+          - appearance: "woman in her 30s with neat appearance, medium build, tired eyes with forced smile, practical short brown hair pinned back"
+            clothing: "practical cotton day dress in muted floral print, white apron tied at waist, low-heeled brown shoes, simple gold wedding band visible on left hand"
+            posture: "upright but weary stance, hands often clasped in front or smoothing fabric"
+    
+    - id: "independent_woman"
+      name: "Independent Woman"
+      description_block: |
+        characters:
+          - appearance: "woman in her late 30s, confident bearing, intelligent eyes behind round tortoiseshell glasses, dark hair pulled into neat chignon"
+            clothing: "tailored charcoal gray wool suit with fitted jacket and knee-length skirt, white silk blouse, black leather oxford shoes, minimal jewelry"
+            posture: "straight spine, shoulders back, direct gaze, animated hand gestures when speaking"
+    
+    - id: "mother_figure"
+      name: "Mother"
+      description_block: |
+        characters:
+          - appearance: "woman in her late 20s, exhausted features with dark circles under eyes, disheveled brown hair hastily pinned up, soft maternal body"
+            clothing: "loose cotton housedress in pale blue, comfortable flat slippers, no makeup or jewelry except wedding ring"
+            posture: "slightly stooped from carrying children, protective arm positions, gentle but tired movements"
+    
+    - id: "factory_worker"
+      name: "Factory Worker"
+      description_block: |
+        characters:
+          - appearance: "young woman in early 20s, determined expression despite fatigue, calloused hands, hair covered by practical headscarf"
+            clothing: "dark blue work smock over simple dress, sturdy brown work boots, protective cloth wrapped around hands"
+            posture: "steady stance from long hours standing, efficient economical movements"
+
+  locations:
+    - id: "paris_cafe"
+      name: "Parisian Intellectual Cafe"
+      description_block: |
+        setting:
+          location: "Saint-Germain-des-Prés district cafe in Paris, mahogany wood paneling with art deco mirrors, red leather banquettes, marble-topped round tables"
+        mainElements: "crowded interior filled with tobacco smoke, intellectuals engaged in animated discussions, waiters in black vests and white aprons navigating between tables"
+        atmosphere: "buzzing with conversation and clinking coffee cups, thick cigarette smoke creating hazy atmosphere, sense of intellectual ferment"
+    
+    - id: "sorbonne_lecture"
+      name: "Sorbonne Lecture Hall"
+      description_block: |
+        setting:
+          location: "grand amphitheater lecture hall at Sorbonne University in Paris, neo-classical architecture with high vaulted ceilings"
+        mainElements: "rows of steep wooden benches rising in tiers, large blackboard at front, tall arched windows letting in natural light"
+        atmosphere: "academic solemnity, echoing acoustics, dust motes visible in shafts of sunlight"
+    
+    - id: "bourgeois_apartment"
+      name: "Bourgeois Apartment"
+      description_block: |
+        setting:
+          location: "Haussmann-style apartment in 16th arrondissement of Paris, high ceilings with ornate moldings, parquet floors in herringbone pattern"
+        mainElements: "heavy inherited furniture, lace curtains at tall windows, marble fireplace with ornate mirror above, family photographs in silver frames"
+        atmosphere: "ordered and immaculate but impersonal, muffled street sounds from boulevard below, ticking of mantle clock"
+    
+    - id: "factory_floor"
+      name: "Factory Floor"
+      description_block: |
+        setting:
+          location: "textile factory on outskirts of Paris, industrial brick building with rows of high windows"
+        mainElements: "rows of sewing machines and looms, bins of fabric and thread, overhead lighting casting harsh shadows"
+        atmosphere: "constant mechanical noise, lint particles floating in air, smell of machine oil and cotton"
+    
+    - id: "public_library"
+      name: "Public Library Reading Room"
+      description_block: |
+        setting:
+          location: "Bibliothèque Sainte-Geneviève reading room in Latin Quarter of Paris, iron and glass architecture"
+        mainElements: "long wooden reading tables with green-shaded lamps, tall bookshelves creating corridors, card catalogs along walls"
+        atmosphere: "hushed concentration, rustling of pages, footsteps on wooden floors, filtered light through tall windows"
+
+  items:
+    - id: "typewriter"
+      name: "Typewriter"
+      description_block: |
+        details: "black Remington typewriter with round keys, sheet of paper rolled into carriage, ribbon spool visible through glass panel"
+    
+    - id: "mirror_vanity"
+      name: "Vanity Mirror"
+      description_block: |
+        details: "triple-panel vanity mirror on carved wooden stand, surrounded by crystal perfume bottles, powder compacts, and lipstick tubes"
+    
+    - id: "book_collection"
+      name: "Philosophy Books"
+      description_block: |
+        details: "stack of well-worn books with titles visible on spines - works by Hegel, Marx, and Freud, pages marked with paper strips"
+    
+    - id: "household_items"
+      name: "Domestic Tools"
+      description_block: |
+        details: "collection of household implements - wooden-handled broom, cast iron pressing iron, wicker laundry basket, ceramic mixing bowls"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Vast Roman Legion on March - Military Might of Empire"
+  setting:
+    time: "63 CE, midday"
+    location: "Via Appia approaching Rome, ancient Roman road stretching toward city walls"
+    weather: "Bright clear day with harsh Mediterranean sun"
+  characters:
+    - appearance: "Thousands of Roman legionaries in perfect formation, individual soldiers tiny against landscape scale"
+      clothing: "Red cloaks, polished bronze armor, plumed helmets creating sea of metallic gleam"
+      position: "Stretching in column formation along stone road as far as eye can see"
+      action: "Marching in perfect synchronized rhythm toward distant Rome"
+  scene:
+    mainElements: "Endless column of Roman soldiers marching along ancient stone road, their formation creating geometric precision against wild Italian countryside, banners and standards marking legion positions."
+    details: "Individual soldiers rendered tiny by distance but collectively forming unstoppable force, stone road stretching ruler-straight toward Rome's walls visible on horizon, dust clouds rising from thousands of marching feet, bronze armor and weapons creating countless points of reflected light, eagles and other legion standards carried high, cypress trees lining road like sentinels, no text or letters visible."
+    background: "Rolling hills of Latium, Rome's walls and buildings visible as distant smudge on horizon"
+    atmosphere: "Overwhelming military power and organization, sense of inexorable advance, individual human diminished by collective imperial might"
+  composition:
+    cameraAngle: "Extreme wide shot from elevated position showing endless column"
+    focus: "Linear formation of troops creating leading line toward distant Rome"
+    depth: "Maximum depth with sharp detail from foreground soldiers through middle distance to city on horizon"

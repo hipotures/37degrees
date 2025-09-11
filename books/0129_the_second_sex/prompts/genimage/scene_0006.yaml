@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1948, evening
+    location: Entrance courtyard of Parisian apartment building, typical Haussmann architecture
+    weather: Drizzling rain, dim streetlight
+  characters:
+  - appearance: elderly female concierge with sharp eyes, thin build, perpetual frown
+    clothing: black dress, worn shawl, comfortable slippers
+    position: positioned at her lodge window with curtain partially pulled back
+    action: writing in a ledger while watching young woman enter building
+  - appearance: young woman in early 20s, trying to appear casual
+    clothing: modest coat over simple dress, small hat, carrying books
+    position: crossing courtyard toward staircase
+    action: hurrying past concierge lodge, avoiding eye contact
+  scene:
+    mainElements: Concierge's lodge with window facing courtyard, ledger open showing detailed notes about tenants' comings
+      and goings, young woman trying to pass unnoticed
+    details: 'Ledger pages visible with entries: ''Mme Dubois - returned 11pm alone'', ''Mlle Laurent - male visitor 3pm-5pm''.
+      Concierge''s pen poised to record. Clock on wall shows 9:30pm. Multiple mailboxes with names visible. Notice board with
+      building rules emphasizing ''proper conduct'''
+    background: Dark courtyard with wet cobblestones reflecting gaslight, narrow staircase leading up, other curtained windows
+    atmosphere: Suffocating surveillance, judgment disguised as propriety, privacy invaded under guise of security
+  composition:
+    cameraAngle: View from courtyard showing both concierge window and woman crossing
+    focus: The watching eyes of concierge and the ledger of surveillance
+    depth: Concierge lodge in foreground, woman in middle ground, dark stairway in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

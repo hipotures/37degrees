@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Church Doorway Frame - Apostle's Final Teaching"
+  setting:
+    time: "65 CE, dawn before Peter's martyrdom"
+    location: "Hidden Christian church in Trastevere, simple meeting room"
+    weather: "Soft morning light filtering through doorway"
+  characters:
+    - appearance: "Elderly man with face furrowed by wrinkles but expressing inspiration and spiritual authority. Gray-bearded with penetrating eyes full of divine wisdom."
+      clothing: "Simple poor robes of humble Christian leader - rough woolen garments in earth tones."
+      position: "Framed perfectly within arched stone doorway, hands raised in blessing"
+      action: "Giving final blessing to Christian community before his martyrdom"
+    - appearance: "Christian followers of various ages kneeling before doorway"
+      clothing: "Simple humble garments in earth tones, heads covered in reverence"
+      position: "Arranged in semicircle before doorway, creating worship formation"
+      action: "Receiving apostolic blessing, some weeping, all showing deep reverence"
+  scene:
+    mainElements: "Apostle Peter framed by carved stone doorway arch as he gives final blessing to his flock, architectural frame creating sacred space around spiritual leader preparing for martyrdom."
+    details: "Ancient stone doorway with Christian symbols carved in arch, Peter's figure perfectly centered in opening, morning light creating halo effect around his head, worn stone showing age and sanctity, kneeling followers creating foreground composition, simple wooden cross visible on wall behind Peter, carved fish symbols and other early Christian iconography in stone, no text or letters visible."
+    background: "Simple Christian meeting room with humble furnishings and religious symbols"
+    atmosphere: "Sacred farewell and apostolic authority, architectural frame emphasizing spiritual significance, morning light suggesting divine presence"
+  composition:
+    cameraAngle: "Eye level view with doorway creating perfect natural frame"
+    focus: "Peter sharp in doorway frame, followers clear in foreground"
+    depth: "Kneeling figures in foreground, Peter in doorway middle distance, church interior in background"

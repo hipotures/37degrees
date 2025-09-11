@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1858, afternoon
+    location: Book-lined study in Blackheath residence, southeast London suburb, view of heath through tall windows
+    weather: Bright autumn day, leaves visible through window
+  characters:
+  - appearance: Woman in her 40s with intelligent direct gaze, dark hair parted in center and styled in low bun, refined features
+      showing strength of character, bright observant eyes
+    clothing: Deep blue silk day dress with fitted bodice, moderate bell-shaped skirt without excessive crinoline, simple
+      white collar, minimal jewelry except wedding ring and small cameo brooch
+    position: Standing beside desk, papers in hand
+    action: Reading aloud from manuscript, passionate gesture with free hand
+  - appearance: Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven
+      face showing signs of intellectual strain, high forehead
+    clothing: Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark
+      gray waistcoat with subtle pattern, black wool trousers without crease
+    position: Seated at desk, turned toward Harriet
+    action: Listening intently, pen poised over paper, eyes following her movements
+  - appearance: Older woman in her 60s, disapproving expression, thin pursed lips
+    clothing: Black bombazine mourning dress, white widow's cap, jet jewelry
+    position: Standing in doorway
+    action: Hand on doorframe, shocked expression at unconventional scene
+  scene:
+    mainElements: Large oak writing desk covered with manuscripts, floor-to-ceiling bookshelves, leather armchair, globe on
+      wooden stand, inkwell and quill pens
+    details: Harriet holds manuscript pages of 'On Liberty' while John takes notes on her suggestions. The visiting relative
+      in doorway shows conventional society's shock at their intellectual partnership. Sunlight illuminates Harriet while
+      shadows fall on the disapproving visitor.
+    background: Intellectual sanctuary, morning light filtering through curtains, quiet broken only by scratching of pen on
+      paper
+    atmosphere: Intellectual electricity between the Mills contrasts with cold disapproval from doorway, creative collaboration
+      versus social judgment
+  composition:
+    cameraAngle: Medium shot from side angle showing all three figures
+    focus: Harriet's animated face and gesture while reading
+    depth: Harriet in foreground light, John in middle ground, visitor in dark doorway background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

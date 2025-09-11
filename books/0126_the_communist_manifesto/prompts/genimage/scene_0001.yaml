@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1848, morning
+    location: Central square in Manchester, England, industrial city center
+    weather: Overcast sky with factory smoke creating permanent haze
+  characters:
+  - appearance: Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with
+      prominent sideburns
+    clothing: Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold
+      watch chain, black trousers with satin stripe, polished leather boots, tall black top hat
+    position: Standing proudly beside monument base
+    action: Gesturing grandly toward the statue while addressing small crowd of well-dressed observers
+  scene:
+    mainElements: Colossal bronze statue of industrialist holding factory blueprints and mechanical gear, standing atop pedestal
+      inscribed 'PROGRESS', surrounded by decorative iron fence
+    details: Base of monument decorated with relief carvings showing idealized scenes of industry - workers and machines in
+      harmonious operation. Fresh flowers placed at base by civic committee. Clean swept plaza with perfectly aligned cobblestones.
+      Gas lamps on ornate iron posts frame the monument symmetrically
+    background: Row of impressive bank and commercial buildings with classical facades, factory smokestacks visible in far
+      distance creating dark pillars against gray sky
+    atmosphere: Manufactured grandeur and civic pride, celebrating industrial achievement while smoke from distant factories
+      creates ominous backdrop
+  composition:
+    cameraAngle: Low angle looking up at monument to emphasize its imposing scale
+    focus: The bronze industrialist statue dominating the frame with the living bourgeois figure dwarfed beside it
+    depth: Monument in foreground, assembled dignitaries in middle ground, smoky industrial skyline in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

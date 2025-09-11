@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mother's Indoctrination of Daughter"
+  setting:
+    time: "1948, evening"
+    location: "Bourgeois dining room in Paris apartment, formal table setting"
+    weather: "Rain against windows"
+  characters:
+    - appearance: "mother in 40s, rigid posture, fixed smile, perfectly coiffed hair"
+      clothing: "conservative dress with brooch, pearl necklace, wedding ring prominent"
+      position: "seated at head of table instructing daughter"
+      action: "demonstrating 'proper' table service to husband's empty chair"
+    - appearance: "daughter aged 16, conflicted expression, fidgeting hands"
+      clothing: "school uniform with white collar, knee socks"
+      position: "standing beside mother, holding serving tray"
+      action: "reluctantly practicing serving invisible husband"
+  scene:
+    mainElements: "Formal dining table set for male head of household who hasn't arrived, mother teaching daughter elaborate serving ritual, empty chair as center of attention"
+    details: "Mother's instruction book 'The Perfect Wife's Guide' open on sideboard, diagram showing proper angle for serving from left, removing from right. Father's chair larger than all others, his place setting more elaborate. Daughter dropping fork, mother's sharp correction. Clock showing 8pm, dinner growing cold waiting for man who may not come"
+    background: "Family portraits showing generations of similar scenes, rain-streaked windows reflecting two women serving empty chair"
+    atmosphere: "Generational transmission of servitude, empty ritual elevated to sacred duty, rebellion being systematically crushed"
+  composition:
+    cameraAngle: "Side view showing both women and the empty patriarchal throne"
+    focus: "The contrast between mother's conviction and daughter's reluctance"
+    depth: "Dining ritual in foreground, ancestral portraits watching from walls"

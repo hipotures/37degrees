@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Synchronized Domestic Ballet"
+  setting:
+    time: "1948, morning"
+    location: "Row of identical apartment buildings in suburban Paris, view through multiple windows"
+    weather: "Overcast day with flat lighting"
+  characters:
+    - appearance: "multiple women in their 30s visible through different apartment windows, similar neat hairstyles"
+      clothing: "identical floral print housedresses, aprons, house slippers"
+      position: "each at their respective kitchen windows"
+      action: "all performing synchronized domestic tasks - hanging laundry, washing dishes, beating rugs"
+  scene:
+    mainElements: "Grid of apartment windows showing identical domestic scenes playing out simultaneously, creating visual rhythm of repetitive motion"
+    details: "Through each window frame: same checkered kitchen curtains, same potted geraniums on sills, same movements at same time - 9am dishwashing, 10am rug beating, 11am preparing lunch. One woman pauses to look out but quickly returns to task. Clock tower visible showing exact time"
+    background: "Gray apartment facade with uniform windows, empty street below, industrial skyline in distance"
+    atmosphere: "Mechanical precision of domestic routine, choreographed monotony, lives running on invisible schedule"
+  composition:
+    cameraAngle: "Straight-on view of building facade"
+    focus: "The pattern of windows with women performing identical tasks"
+    depth: "Building facade flat in frame, activities visible through windows, city skyline beyond"

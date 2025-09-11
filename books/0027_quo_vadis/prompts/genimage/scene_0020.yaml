@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 65 CE, afternoon during gladiatorial games
+    location: Roman amphitheater arena floor, center of life-and-death struggle
+    weather: Harsh afternoon sun with sharp shadows
+  characters:
+  - appearance: 30-40 years old, gigantic man of superhuman strength with powerful broad-shouldered build. Arms and hands
+      'like clubs', muscles hard as stone. Contrasts with his simple honest face and gentle 'childlike' blue eyes expressing
+      mildness and loyalty.
+    clothing: Simple functional servant's garment - short woolen tunika that doesn't restrict movement. Often bare-chested
+      during combat.
+    position: Background initially blurred, coming into sharp focus during rack focus shift
+    action: Wrestling with massive bull in deadly combat to save Ligia
+  - appearance: 16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily
+      lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence
+      but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed
+      for a kiss'.
+    clothing: Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry,
+      perhaps simple pearl necklace. Hair often braided or partially loose.
+    position: Foreground initially in sharp focus, becoming soft as focus shifts
+    action: Unconscious and bound, white form contrasting with yellow arena sand
+  scene:
+    mainElements: Rack focus shot beginning with Ligia's unconscious form in sharp detail, then dramatically shifting focus
+      to Ursus battling bull in background, moment when death transforms to possibility of life.
+    details: Initial focus on white robes and alabaster skin against yellow sand, delicate features peaceful in unconsciousness,
+      hair spread like halo, then focus pulls to reveal massive Ursus grappling with enormous bull, muscles straining against
+      beast's power, arena sand flying from struggle, crowd visible as soft shapes around arena edge, dramatic shift showing
+      change from victim to victor narrative, no text or letters visible.
+    background: Amphitheater seating filled with crowd, imperial box with Nero watching
+    atmosphere: Tension and miraculous reversal, weakness transformed to strength, divine intervention through human courage
+  composition:
+    cameraAngle: Ground level shot allowing dramatic rack focus between foreground and background
+    focus: Sharp focus shifting from foreground Ligia to background combat, everything else soft
+    depth: 'Three distinct planes: Ligia foreground, Ursus middle distance, crowd background'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

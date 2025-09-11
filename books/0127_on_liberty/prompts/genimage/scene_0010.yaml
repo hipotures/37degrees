@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1859, evening
+    location: Corner pub in London's East End, ground floor of brick building, frosted glass windows with brewery name
+    weather: Gaslight glow through fog outside
+  characters:
+  - appearance: Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club
+      dinners
+    clothing: Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain
+      across waistcoat, white gloves
+    position: Backed against bar, surrounded by workers
+    action: Face showing momentary terror, hand clutching top hat to chest
+  - appearance: Group of five working men in their 30s-40s
+    clothing: Rough wool jackets, caps, work boots, no gloves
+    position: Semi-circle closing in on gentleman
+    action: Not threatening but animated discussion about workers' rights
+  scene:
+    mainElements: Long wooden bar with brass rail, beer pumps, smoke-stained ceiling, sawdust on floor, crude wooden tables
+      and benches
+    details: The gentleman's usual commanding presence crumbles as workers discuss universal suffrage. His knuckles white
+      gripping his hat. One worker holds pamphlet titled 'On Liberty'. Spilled beer on bar reflects gaslight. The gentleman's
+      reflection in bar mirror shows naked fear.
+    background: Noisy working class gathering place, thick tobacco smoke, smell of ale and gin, gaslight reflecting off bottles
+    atmosphere: Class boundaries breaking down, authority questioned, privileged comfort disrupted by democratic ideas
+  composition:
+    cameraAngle: Close-up on gentleman's frightened face
+    focus: Fear breaking through composed Victorian mask
+    depth: Terrified face in foreground, workers' earnest faces behind, mirror showing full scene
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

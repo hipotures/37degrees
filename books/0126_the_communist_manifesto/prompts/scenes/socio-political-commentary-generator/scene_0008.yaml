@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Great Divide - Two Worlds, One Frame"
+  setting:
+    time: "1848, Sunday afternoon"
+    location: "Border between Mayfair and East End, London"
+    weather: "Same gray sky over both districts"
+  characters:
+    - appearance: "Wealthy family - father, mother, and two children, all well-fed and healthy"
+      clothing: "Father in silk top hat and fur-collared coat, mother in velvet dress with ermine trim, children in fine wool coats"
+      position: "Walking on west side of iron fence"
+      action: "Strolling leisurely after church, avoiding looking through fence"
+    - appearance: "Poor family - father, mother, and three children, all malnourished"
+      clothing: "Threadbare coats, patched repeatedly, bare feet on smaller children despite cold"
+      position: "Huddled on east side of fence"
+      action: "Eldest child extending hand through fence bars, begging"
+  scene:
+    mainElements: "Tall ornate iron fence with sharp spikes dividing the street, gas lamps only on wealthy side, stark architectural contrast"
+    details: "West side has swept pavements, window boxes with flowers, painted doors. East side shows broken windows, sewage in gutters, crumbling brick. Same street split into two realities by single fence"
+    background: "Elegant Georgian townhouses with white facades, iron railings, manicured gardens, wide clean pavements"
+    atmosphere: "Shocking juxtaposition of extreme wealth and poverty separated by mere inches of iron"
+  composition:
+    cameraAngle: "Perpendicular to fence showing both sides equally"
+    focus: "The iron fence as physical manifestation of class division"
+    depth: "Fence running through center, contrasting worlds on either side, receding down street"

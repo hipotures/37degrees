@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "industrial_bourgeois"
+      name: "Industrial Bourgeois"
+      description_block: |
+        characters:
+          - appearance: "Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with prominent sideburns"
+            clothing: "Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold watch chain, black trousers with satin stripe, polished leather boots, tall black top hat"
+            position: "Standing with authoritative stance"
+    
+    - id: "factory_worker_male"
+      name: "Male Factory Worker"
+      description_block: |
+        characters:
+          - appearance: "Exhausted man in his 30s, gaunt face with hollow cheeks, muscular but lean build from hard labor, rough hands with calluses, tired eyes with dark circles"
+            clothing: "Worn blue cotton work shirt stained with oil and sweat, patched brown wool trousers held with rope belt, scuffed leather boots with holes, flat cloth cap"
+            position: "Standing or working position"
+    
+    - id: "factory_worker_female"
+      name: "Female Factory Worker"
+      description_block: |
+        characters:
+          - appearance: "Weary woman in her 20s, pale complexion from lack of sunlight, thin frame, hair pulled back in simple bun, prematurely aged face"
+            clothing: "Dark brown cotton dress with long sleeves, stained white apron, worn leather shoes, simple headscarf"
+            position: "Working or standing position"
+    
+    - id: "child_laborer"
+      name: "Child Laborer"
+      description_block: |
+        characters:
+          - appearance: "Small child aged 8-10 years, undernourished thin body, dirty face with coal dust or textile fibers, bare feet"
+            clothing: "Oversized torn shirt hanging loose, ragged short trousers, no shoes"
+            position: "Working or crouching position"
+    
+    - id: "government_official"
+      name: "Government Official"
+      description_block: |
+        characters:
+          - appearance: "Stern man in his 50s, gray hair and mustache, rigid military bearing, cold calculating eyes"
+            clothing: "Dark blue military-style uniform with gold buttons and epaulettes, white gloves, ceremonial sword at hip, peaked cap with insignia"
+            position: "Standing at attention"
+
+  locations:
+    - id: "industrial_factory"
+      name: "Industrial Factory Interior"
+      description_block: |
+        setting:
+          location: "Massive industrial factory hall in Manchester, England, filled with mechanical looms and steam engines"
+        mainElements: "Rows of cast-iron machinery with spinning wheels and leather drive belts, steam pipes running overhead, dim gas lamps providing minimal light"
+        atmosphere: "Oppressive heat and humidity, air thick with cotton dust and machine oil, deafening mechanical noise"
+    
+    - id: "working_class_slums"
+      name: "Working Class Slums"
+      description_block: |
+        setting:
+          location: "Overcrowded tenement district in industrial Manchester, narrow alleyways between brick buildings"
+        mainElements: "Cramped brick row houses blackened with soot, open sewage channels running down cobblestone streets, piles of refuse and waste"
+        atmosphere: "Perpetual twilight from smoke-filled air, stench of decay and human waste, sounds of crying children and coughing"
+    
+    - id: "bourgeois_district"
+      name: "Bourgeois Residential District"
+      description_block: |
+        setting:
+          location: "Wealthy residential area in Victorian London, tree-lined boulevards with grand townhouses"
+        mainElements: "Elegant Georgian townhouses with white facades, iron railings, gas street lamps, manicured gardens, wide clean pavements"
+        atmosphere: "Orderly quiet prosperity, clean air, sounds of horse carriages on cobblestones"
+    
+    - id: "government_building"
+      name: "Government Building"
+      description_block: |
+        setting:
+          location: "Imposing neoclassical government building in central European capital"
+        mainElements: "Massive stone columns, grand marble staircase, high arched windows, ornate carved facades with state symbols"
+        atmosphere: "Cold institutional power, echoing marble halls, intimidating scale designed to dwarf individuals"
+    
+    - id: "public_square"
+      name: "Public Square"
+      description_block: |
+        setting:
+          location: "Central city square in 1840s European industrial city"
+        mainElements: "Cobblestone plaza surrounded by government buildings and banks, central monument or statue, wide open space for gatherings"
+        atmosphere: "Tense anticipation, space for both state ceremonies and popular demonstrations"
+
+  items:
+    - id: "propaganda_poster"
+      name: "State Propaganda Poster"
+      description_block: |
+        details: "Large lithographic poster with bold typography and idealized imagery, bright primary colors, depicting workers in heroic poses with nationalist symbols"
+    
+    - id: "factory_machinery"
+      name: "Industrial Machinery"
+      description_block: |
+        details: "Massive cast-iron steam engine with exposed pistons and flywheel, leather drive belts, brass pressure gauges, dripping oil and steam"
+    
+    - id: "surveillance_camera"
+      name: "Surveillance Apparatus"
+      description_block: |
+        details: "Observation tower with guards, watchtower overlooking factory floor or public space, uniformed sentries with notebooks"
+    
+    - id: "red_banner"
+      name: "Revolutionary Red Banner"
+      description_block: |
+        details: "Simple red cloth flag on wooden pole, no text or symbols, rough homemade fabric, frayed edges from use"

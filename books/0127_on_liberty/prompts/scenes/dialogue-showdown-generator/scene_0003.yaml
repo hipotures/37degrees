@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parliament Member Defends Censorship Laws Against Mill's Arguments"
+  setting:
+    time: "1859, afternoon"
+    location: "Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows"
+    weather: "Gray day outside tall gothic windows"
+  characters:
+    - appearance: "Man in his 40s with neatly trimmed beard, professional demeanor, average build, sharp attentive eyes behind wire spectacles"
+      clothing: "Dark brown wool suit with matching waistcoat, white shirt with turndown collar, conservative dark tie, polished oxford shoes"
+      position: "Standing at dispatch box, facing opposition"
+      action: "Pounding dispatch box with fist, face flushed with righteous anger"
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Standing on opposite bench, hand raised to speak"
+      action: "Rising to counter-argue, controlled but passionate expression"
+  scene:
+    mainElements: "Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass, press gallery above"
+    details: "Red leather dispatch box contains proposed censorship legislation. The defending MP's face shows certainty in moral righteousness while Mill prepares logical refutation. Other MPs lean forward in anticipation of verbal duel. Gothic architecture looms overhead like weight of tradition."
+    background: "Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling"
+    atmosphere: "Charged political tension, echoing chamber amplifying confrontation, institutional power versus individual liberty"
+  composition:
+    cameraAngle: "Low angle emphasizing gothic height and confrontation"
+    focus: "Close-up on defending MP's angry face and pounding fist"
+    depth: "MP at dispatch box in foreground, Mill rising in middle ground, Speaker's chair looming in background"

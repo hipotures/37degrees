@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1947, midday
+    location: Town square in suburban Paris, in front of municipal building
+    weather: Harsh sunlight creating sharp shadows
+  characters:
+  - appearance: young woman in early 20s, defiant despite tears, chin raised
+    clothing: dress torn at shoulder, hair forcibly cut short and uneven, no shoes
+    position: standing on platform in town square
+    action: facing crowd with mixture of shame and defiance
+  - appearance: crowd of townspeople, mixed ages, variety of expressions
+    clothing: typical bourgeois and working class attire
+    position: gathered in semicircle around platform
+    action: some jeering, some looking away, few showing silent sympathy
+  scene:
+    mainElements: Woman publicly humiliated for 'improper behavior' (working at night, living alone, refusing marriage), officials
+      reading charges, crowd as enforcer of social norms
+    details: 'Sign around her neck reading ''Immoral Woman'', her university degree torn up at her feet, books from her room
+      burning in metal drum nearby. Official reading charges: ''Refusing proper woman''s role'', ''Pursuing man''s education'',
+      ''Corrupting feminine virtue''. One young girl in crowd watching with horror, seeing her own possible future. Cut hair
+      on ground like fallen freedom'
+    background: Government building with flag, church steeple visible, normal life continuing around edges
+    atmosphere: Violence of social control made visible, community as enforcement mechanism, example made to terrify others
+      into compliance
+  composition:
+    cameraAngle: Low angle making woman appear dignified despite humiliation
+    focus: Woman's defiant face contrasted with burning books below
+    depth: Woman elevated on platform, crowd at middle level, symbols of authority in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

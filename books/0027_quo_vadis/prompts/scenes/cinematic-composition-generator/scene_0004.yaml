@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Trastevere Slums - Hidden Christian Quarter"
+  setting:
+    time: "64 CE, evening twilight"
+    location: "Trans Tiberim district across Tiber River, poor densely populated area of Rome"
+    weather: "Overcast evening with thick urban atmosphere"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Labyrinth of narrow dirty streets between tall crumbling insulae (tenements), multi-story buildings of poor construction creating canyon-like passages, laundry lines stretched between buildings."
+    details: "Tall wooden and brick apartment blocks threatening collapse, narrow unpaved streets with muddy puddles and refuse, buildings so close together they block natural light creating perpetual twilight, rough wooden balconies jutting from upper floors, small shops and workshops at street level, oil lamps beginning to flicker in windows as darkness approaches, smoke rising from countless hearths, no text or letters visible."
+    background: "More insulae extending into distance, smoke and haze obscuring far buildings"
+    atmosphere: "Claustrophobic poverty and urban decay, mysterious shadows hiding secrets, sense of hidden life and underground activity"
+  composition:
+    cameraAngle: "Ground level wide shot looking down narrow street canyon"
+    focus: "Perspective lines of tall buildings creating vanishing point depth"
+    depth: "Building walls in foreground, street receding to background, architectural details at multiple levels"

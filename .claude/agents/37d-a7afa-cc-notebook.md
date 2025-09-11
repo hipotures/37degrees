@@ -23,31 +23,35 @@ Kroki orchestratora:
 
 0. Pobranie zadania i określenie odpowiedniego NotebookLM oraz języka
 
-// Znajdź zadania gdzie audio_gen_XX jest pending (XX to kod języka)
-// Przykład: audio_gen_pl, audio_gen_en, audio_gen_hi, itd.
-pending_audio_tasks = mcp__todoit__todo_find_subitems_by_status(
-  list_key: "cc-au-notebooklm",
-  conditions: {
-    "afa_gen": "completed"
-    // Znajdź dowolny audio_gen_XX w statusie pending
-  },
-  limit: 1
-)
+// UWAGA: API todo_find_subitems_by_status nie obsługuje wildcards
+// Musimy iterować przez wszystkie możliwe języki aby znaleźć pending zadania
 
-// UWAGA: Musimy znaleźć konkretny subitem audio_gen_XX który jest pending
-// i wyciągnąć z niego kod języka
+supported_languages = ["pl", "en", "es", "pt", "hi", "ja", "ko", "de", "fr"]
+SOURCE_NAME = null
+LANGUAGE_CODE = null
+PENDING_SUBITEM_KEY = null
 
-if (pending_audio_tasks exists && pending_audio_tasks.matches.length > 0):
-  // Pobierz pierwszy matching parent item
-  SOURCE_NAME = pending_audio_tasks.matches[0].parent.item_key
+// Iteruj przez każdy język aby znaleźć pierwsze pending zadanie
+for (lang of supported_languages):
+  conditions = {
+    "afa_gen": "completed",
+    "audio_gen_" + lang: "pending"
+  }
   
-  // NOWE: Znajdź który konkretnie audio_gen_XX jest pending
-  // i wyciągnij kod języka
-  for subitem in pending_audio_tasks.matches[0].matching_subitems:
-    if (subitem.item_key.startsWith("audio_gen_") && subitem.status == "pending"):
-      LANGUAGE_CODE = subitem.item_key.replace("audio_gen_", "")  // np. "pl", "en", "hi"
-      PENDING_SUBITEM_KEY = subitem.item_key
-      break
+  pending_audio_tasks = mcp__todoit__todo_find_subitems_by_status(
+    list_key: "cc-au-notebooklm",
+    conditions: conditions,
+    limit: 1
+  )
+  
+  if (pending_audio_tasks.success && pending_audio_tasks.matches.length > 0):
+    // Znaleziono zadanie dla tego języka
+    SOURCE_NAME = pending_audio_tasks.matches[0].parent.item_key
+    LANGUAGE_CODE = lang
+    PENDING_SUBITEM_KEY = "audio_gen_" + lang
+    break  // Zakończ pętlę po znalezieniu pierwszego zadania
+
+if (SOURCE_NAME != null):
   
   // Wyodrębnij numer książki z SOURCE_NAME (format: NNNN_xxx)
   book_number = parseInt(SOURCE_NAME.substring(0, 4))
@@ -117,6 +121,37 @@ mcp__playwright-cdp__browser_click(element: "Edit button for audio customization
 // KROK 2: Po kliknięciu przycisku edit otworzy się dialog "Dostosuj podsumowanie audio"
 // Poczekaj na załadowanie formularza customizacji
 mcp__playwright-cdp__browser_snapshot()
+
+// KROK 4.5: Wybór języka w UI NotebookLM
+// Poczekaj na załadowanie formularza
+mcp__playwright-cdp__browser_wait_for(time: 1)
+
+// Znajdź i kliknij dropdown języka
+mcp__playwright-cdp__browser_snapshot()
+mcp__playwright-cdp__browser_click(element: "Language selection dropdown", ref: "language_dropdown_ref")
+
+// Mapowanie kodów języków na nazwy w NotebookLM
+language_ui_mapping = {
+  "pl": "polski",
+  "en": "English", 
+  "es": "español (Latinoamérica)",
+  "pt": "português (Brasil)",
+  "hi": "हिन्दी",
+  "ja": "日本語",
+  "ko": "한국어",
+  "de": "Deutsch",
+  "fr": "français"
+}
+
+// Wybierz odpowiedni język
+target_language_ui = language_ui_mapping[LANGUAGE_CODE]
+mcp__playwright-cdp__browser_click(
+  element: target_language_ui + " option in language dropdown", 
+  ref: "language_option_ref"
+)
+
+// Poczekaj na zastosowanie wyboru
+mcp__playwright-cdp__browser_wait_for(time: 0.5)
 
 5. Wybór formatu i wpisanie instrukcji - integracja z AFA
 
@@ -209,16 +244,14 @@ function extract_duration(afa_content):
   return match ? parseInt(match[1]) : 8
 
 function extract_prompt_A(afa_content):
-  // Znajdź sekcję "### Prowadzący A — [rola]" i wyodrębnij prompt
-  pattern = /### Prowadzący A[^`]*```([^`]+)```/s
-  match = afa_content.match(pattern)
-  return match ? match[1] : "Standardowy prompt A"
-
+  // Wyciągnij instrukcję dla Host A z sekcji "### Prowadzący A"
+  // Szukaj linii "Host A = {male_name} (male)." i weź następną linię
+  // Zwróć pełny tekst: "Host A = {male_name} (male). [instrukcja]"
+  
 function extract_prompt_B(afa_content):
-  // Znajdź sekcję "### Prowadzący B — [rola]" i wyodrębnij prompt
-  pattern = /### Prowadzący B[^`]*```([^`]+)```/s
-  match = afa_content.match(pattern)
-  return match ? match[1] : "Standardowy prompt B"
+  // Wyciągnij instrukcję dla Host B z sekcji "### Prowadzący B" 
+  // Szukaj linii "Host B = {female_name} (female)." i weź następną linię
+  // Zwróć pełny tekst: "Host B = {female_name} (female). [instrukcja]"
 
 function extract_key_threads(afa_content):
   // Znajdź sekcję "## KLUCZOWE WĄTKI Z WIARYGODNOŚCIĄ" i wyodrębnij 5 wątków

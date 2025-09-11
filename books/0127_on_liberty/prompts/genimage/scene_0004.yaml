@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1859, Sunday afternoon
+    location: Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary
+    weather: Overcast with breaks of sunlight
+  characters:
+  - appearance: Man in his 30s with weathered face from outdoor labor, strong build, calloused hands, earnest expression,
+      clean-shaven except for mustache
+    clothing: Brown corduroy jacket showing wear at elbows, coarse cotton shirt, dark wool vest, sturdy leather boots, cloth
+      cap
+    position: Standing on wooden crate, elevated above crowd
+    action: Arm extended pointing at well-dressed heckler, mouth open mid-shout
+  - appearance: Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club
+      dinners
+    clothing: Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain
+      across waistcoat, white gloves
+    position: Standing at crowd edge with two companions
+    action: Raising walking stick in protest, face red with indignation
+  - appearance: Mixed crowd of 30 people, workers and middle class
+    clothing: Variety of caps, bonnets, work clothes and Sunday best
+    position: Gathered in rough semicircle around speaker
+    action: Some cheering speaker, others arguing among themselves
+  scene:
+    mainElements: Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack
+      flags and protest banners
+    details: Banner behind speaker reads 'UNIVERSAL SUFFRAGE NOW'. The gentleman's walking stick points accusingly while the
+      speaker's weathered hands gesture passionately. Crowd divides between supporters in work clothes and skeptics in better
+      dress. Police constable watches from distance.
+    background: Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression
+    atmosphere: Raw democratic energy, class tension visible in clothing and postures, freedom and conflict coexisting
+  composition:
+    cameraAngle: Medium shot from crowd level looking up at speaker
+    focus: Speaker's passionate face and pointing gesture
+    depth: Speaker elevated in foreground, hostile gentleman in middle, mixed crowd and trees in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

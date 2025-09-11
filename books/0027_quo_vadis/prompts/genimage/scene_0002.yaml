@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 63 CE, midday
+    location: Via Appia approaching Rome, ancient Roman road stretching toward city walls
+    weather: Bright clear day with harsh Mediterranean sun
+  characters:
+  - appearance: Thousands of Roman legionaries in perfect formation, individual soldiers tiny against landscape scale
+    clothing: Red cloaks, polished bronze armor, plumed helmets creating sea of metallic gleam
+    position: Stretching in column formation along stone road as far as eye can see
+    action: Marching in perfect synchronized rhythm toward distant Rome
+  scene:
+    mainElements: Endless column of Roman soldiers marching along ancient stone road, their formation creating geometric precision
+      against wild Italian countryside, banners and standards marking legion positions.
+    details: Individual soldiers rendered tiny by distance but collectively forming unstoppable force, stone road stretching
+      ruler-straight toward Rome's walls visible on horizon, dust clouds rising from thousands of marching feet, bronze armor
+      and weapons creating countless points of reflected light, eagles and other legion standards carried high, cypress trees
+      lining road like sentinels, no text or letters visible.
+    background: Rolling hills of Latium, Rome's walls and buildings visible as distant smudge on horizon
+    atmosphere: Overwhelming military power and organization, sense of inexorable advance, individual human diminished by
+      collective imperial might
+  composition:
+    cameraAngle: Extreme wide shot from elevated position showing endless column
+    focus: Linear formation of troops creating leading line toward distant Rome
+    depth: Maximum depth with sharp detail from foreground soldiers through middle distance to city on horizon
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

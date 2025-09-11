@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parade of Perfect Order"
+  setting:
+    time: "1848, midday"
+    location: "Main boulevard in Berlin, Prussia, government district"
+    weather: "Clear day with industrial haze dimming the sun"
+  characters:
+    - appearance: "Dozens of factory workers, men aged 20-40, uniform height and build, clean-shaven faces"
+      clothing: "Identical blue work uniforms with brass buttons, matching cloth caps, polished work boots"
+      position: "Marching in perfect formation, eight abreast"
+      action: "Walking in synchronized steps, faces forward, arms swinging in unison"
+    - appearance: "Stern man in his 50s, gray hair and mustache, rigid military bearing, cold calculating eyes"
+      clothing: "Dark blue military-style uniform with gold buttons and epaulettes, white gloves, ceremonial sword at hip, peaked cap with insignia"
+      position: "Standing on reviewing platform"
+      action: "Saluting the passing formation with rigid precision"
+  scene:
+    mainElements: "Wide boulevard with workers marching in geometric precision past government buildings, red and black banners with state emblems hanging from every building"
+    details: "Propaganda posters on walls showing heroic workers building the nation. Street perfectly clean, every cobblestone aligned. Spectators standing in designated areas behind rope barriers, applauding on cue. Clock tower showing exactly noon"
+    background: "Neoclassical government buildings with columns and pediments, flags flying from every rooftop, regiment of mounted police maintaining perimeter"
+    atmosphere: "Choreographed display of unity and order masking underlying coercion, mechanical precision replacing human spontaneity"
+  composition:
+    cameraAngle: "High angle from building corner showing geometric patterns of marching formation"
+    focus: "The perfect lines of marching workers creating human geometry"
+    depth: "Marching columns in foreground, reviewing stand in middle, imposing state buildings in background"

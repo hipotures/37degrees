@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "World Tilting - Rome Burns in Madness"
+  setting:
+    time: "64 CE, night during Great Fire peak"
+    location: "Palatine Hill near burning Golden House, center of Rome"
+    weather: "Inferno conditions with smoke and flames"
+  characters:
+    - appearance: "26-29 years old, medium height corpulent man with thick neck supporting disproportionately large head. Broad short face swollen despite youth, sickly complexion described as 'face of ape, drunkard and comedian' under 'forehead of demigod'. Dark hair arranged in four rows of carefully styled curls. Most characteristic feature: bulging blue 'glassy, thoughtless eyes like those of the dead' often squinting in light."
+      clothing: "Ostentatious theatrical attire in imperial colors - amethyst tunica, abundant gold and precious stones, diamond necklaces."
+      position: "Center frame but tilted at 45-degree angle suggesting madness and chaos"
+      action: "Playing golden lyre while Rome burns, face expressing artistic ecstasy amid destruction"
+  scene:
+    mainElements: "Dutch angle shot of mad emperor Nero playing music while his capital burns around him, tilted perspective suggesting psychological collapse and end of world order, flames and smoke creating apocalyptic backdrop."
+    details: "Heavily tilted frame creating sense of falling world, Nero's bulging eyes reflecting flames, golden lyre catching firelight, his corpulent figure swaying with music, burning buildings tilted at severe angles, smoke and sparks swirling through frame, shadows and light dancing across his grotesque features, architectural elements sliding out of frame suggesting collapse, no text or letters visible."
+    background: "Burning Rome with tilted buildings and smoke-filled sky"
+    atmosphere: "Madness and apocalyptic destruction, world order collapsing, artistic delusion amid catastrophe"
+  composition:
+    cameraAngle: "Extreme dutch angle at 45 degrees suggesting psychological breakdown"
+    focus: "Nero and lyre in sharp focus despite tilted perspective"
+    depth: "Emperor in foreground, burning palace in middle ground, flame-filled sky in background"

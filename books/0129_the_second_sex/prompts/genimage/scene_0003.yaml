@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1948, morning
+    location: Row of identical apartment buildings in suburban Paris, view through multiple windows
+    weather: Overcast day with flat lighting
+  characters:
+  - appearance: multiple women in their 30s visible through different apartment windows, similar neat hairstyles
+    clothing: identical floral print housedresses, aprons, house slippers
+    position: each at their respective kitchen windows
+    action: all performing synchronized domestic tasks - hanging laundry, washing dishes, beating rugs
+  scene:
+    mainElements: Grid of apartment windows showing identical domestic scenes playing out simultaneously, creating visual
+      rhythm of repetitive motion
+    details: 'Through each window frame: same checkered kitchen curtains, same potted geraniums on sills, same movements at
+      same time - 9am dishwashing, 10am rug beating, 11am preparing lunch. One woman pauses to look out but quickly returns
+      to task. Clock tower visible showing exact time'
+    background: Gray apartment facade with uniform windows, empty street below, industrial skyline in distance
+    atmosphere: Mechanical precision of domestic routine, choreographed monotony, lives running on invisible schedule
+  composition:
+    cameraAngle: Straight-on view of building facade
+    focus: The pattern of windows with women performing identical tasks
+    depth: Building facade flat in frame, activities visible through windows, city skyline beyond
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 64 AD, early evening, full darkness outside
+    location: Triclinium dining room of wealthy villa, couches arranged around low table
+    weather: Cool night air entering through open windows
+  characters:
+  - appearance: Christian converts gathered in secret, mixed ages from young to elderly, faces showing both fear and devotion
+    clothing: Simple tunics without Roman luxury, hidden fish symbols on clothing, no gold ornaments to avoid attention
+    position: Seated around simple wooden table in hidden basement chamber
+    action: Sharing communion bread and wine, whispering prayers, listening for Roman patrols above
+  scene:
+    mainElements: Low wooden table laden with food and wine vessels, three dining couches arranged in U-shape, oil lamps and
+      candles providing warm illumination
+    details: Single oil lamp creating minimal light to avoid detection, simple wooden crosses carved into table edge, bread
+      broken in Christ's memory, clay cups holding blessed wine, entrance concealed behind false wall, Christian symbols scratched
+      into stone walls, ears alert for sound of approaching soldiers
+    background: Dark windows and doorways leading to unlit parts of villa, garden courtyard in darkness beyond colonnade,
+      night sounds of crickets and distant dogs
+    atmosphere: Sacred clandestine gathering with dim light hiding from persecution, dangerous spiritual communion, whispered
+      prayers and hymns, faithful community risking death for their beliefs against hostile empire above
+  composition:
+    cameraAngle: Medium shot from corner of room showing all three diners and table
+    focus: Candle-lit faces around food-laden table with shadows beyond
+    depth: Foreground flickering oil lamps, middle ground diners and table, background dark doorways and night beyond
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1848, afternoon
+    location: Showcase textile factory entrance in Birmingham, England
+    weather: Bright artificial appearance despite smoke-filled air
+  characters:
+  - appearance: Group of young women workers, ages 18-25, artificially rosy cheeks, forced smiles
+    clothing: Clean white aprons over blue dresses, matching white bonnets, unusually clean for factory workers
+    position: Arranged in tableau at factory entrance
+    action: Posing with spinning equipment, demonstrating 'happy' work
+  - appearance: Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with
+      prominent sideburns
+    clothing: Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold
+      watch chain, black trousers with satin stripe, polished leather boots, tall black top hat
+    position: Standing at factory gate
+    action: Proudly displaying his 'model' workforce to visiting dignitaries
+  scene:
+    mainElements: Factory entrance decorated with fresh paint and flowering plants in pots, unusually clean windows, brass
+      plaque reading 'Excellence in Industry'
+    details: 'Workers holding pristine tools that show no wear. Fresh whitewash on brick walls hiding years of soot. Artificial
+      flower boxes at windows. Sign board showing ''Safety Record: 30 Days Without Incident'' (while injured workers hidden
+      from view)'
+    background: Other factories visible with black smoke pouring from chimneys, creating stark contrast with sanitized foreground
+    atmosphere: Theatrical presentation of industrial harmony, staged cleanliness masking brutal reality visible at edges
+  composition:
+    cameraAngle: Straight-on formal angle like official photograph
+    focus: The posed workers and owner creating false tableau of contentment
+    depth: Decorated entrance in foreground, posed group in middle, real factories belching smoke in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

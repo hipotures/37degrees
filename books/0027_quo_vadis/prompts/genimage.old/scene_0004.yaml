@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 64 AD, mid-morning, sun climbing higher in sky
+    location: Banks of Tiber River, stone embankment near Roman port
+    weather: Dissipating river fog revealing landscape, warming morning air
+  characters:
+  - appearance: Ursus the Lygian, giant man in his thirties, massive muscular build, blonde hair and beard, fierce loyal eyes
+    clothing: Simple barbarian tunic of rough wool, leather arm guards, thick boots, no Roman refinements
+    position: Standing on stone embankment watching over his princess Lygia's safety
+    action: Vigilant guardian scanning river approaches, ready to protect Lygia from any threat with superhuman strength
+  scene:
+    mainElements: Tiber River with fog wisps lifting from surface, stone quay with mooring posts, wooden fishing boat with
+      nets
+    details: Morning mist revealing distant hills and buildings as it rises, water drops beading on net fibers, wet stone
+      embankment gleaming in sunlight, fish scales glinting in caught net, rope coils on dock, ceramic amphora for water,
+      seagulls circling overhead
+    background: Roman cityscape becoming visible through clearing fog, aqueduct arches crossing valley, warehouses and granaries
+      along riverbank
+    atmosphere: Fresh river scent mixing with morning mist, barbarian warrior's protective instincts heightened in Roman territory,
+      fog creating mystery where enemies might hide, fierce loyalty burning in giant's heart
+  composition:
+    cameraAngle: Eye level from dock looking across river with fog
+    focus: Fisherman's silhouette emerging from mist with heavy nets
+    depth: Foreground wet stone dock, middle ground boat and figure in fog, background city emerging from mist
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

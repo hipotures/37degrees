@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 66 CE, peaceful afternoon after persecutions end
+    location: Rural villa on Sicily, vineyard estate overlooking Mediterranean
+    weather: Perfect Mediterranean sunshine with gentle breeze
+  characters:
+  - appearance: 25-28 years old, tall athletic man with powerful harmoniously built physique, muscular arms and legs hardened
+      by military campaigns. Regular masculine features with defined jaw, beautiful expressive eyes under dark bushy brows.
+      Dark short curly hair typical of Romans. Olive-toned skin tanned from Asian war campaigns. Moves with springy energetic
+      soldier's stride.
+    clothing: Roman patrician in military tunika and gleaming armor with purple military cloak (paludamentum), or rich colorful
+      tunicas with snow-white toga in civilian settings. Later adopts simpler, more modest garments reflecting spiritual transformation.
+    position: Right side of frame within circular vineyard clearing, arm around Ligia
+    action: Walking peacefully through vineyard with wife, completely transformed from violent warrior
+  - appearance: 16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily
+      lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence
+      but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed
+      for a kiss'.
+    clothing: Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry,
+      perhaps simple pearl necklace. Hair often braided or partially loose.
+    position: Left side of frame within vineyard circle, leaning against Winicjusz
+    action: Walking in perfect harmony with husband, representing peace after persecution
+  scene:
+    mainElements: Married couple framed by perfect circular clearing in Sicilian vineyard, their love having triumphed over
+      imperial persecution, architectural arch of grapevines creating symbolic frame of new life cycle.
+    details: Natural arch of grapevines heavy with fruit creating perfect circular frame around couple, Mediterranean villa
+      visible in background, blue sea stretching to horizon, olive trees and cypresses completing idyllic landscape, couple's
+      simple clothing showing spiritual transformation from worldly luxury, expressions showing deep peace and contentment,
+      warm golden light of late afternoon, small wooden cross visible on chain around Ligia's neck, no text or letters visible.
+    background: Sicilian countryside with rolling hills, olive groves, and Mediterranean sea
+    atmosphere: Perfect peace and spiritual fulfillment, love conquering persecution, cycle of life renewed in safe haven
+  composition:
+    cameraAngle: Medium wide shot with natural vineyard arch creating symbolic circular frame
+    focus: Couple sharp within circular frame, landscape elements softly focused beyond
+    depth: Vineyard arch in foreground, couple in middle distance, villa and sea in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

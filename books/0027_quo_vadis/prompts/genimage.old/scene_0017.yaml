@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 64 AD, evening, night falling over city
+    location: Busy street in Subura district, torch-lit thoroughfare
+    weather: Cool night air, no wind, torches burning steadily
+  characters:
+  - appearance: Chilon Chilonides, elderly Greek philosopher in his sixties, cunning eyes, bent frame from years of scheming
+    clothing: Worn Greek himation cloak, patched tunic, rope sandals, staff for walking and protection
+    position: Skulking through narrow Subura streets, staying in shadows between torches
+    action: Following suspected Christians to discover their meeting places, hoping to betray them for Roman gold
+  scene:
+    mainElements: Narrow cobblestone street lined with shops and taverns, iron torch brackets casting pools of flickering
+      light, mix of artificial illumination
+    details: Torches creating overlapping circles of warm orange light with deep shadows between, oil lamps glowing in shop
+      windows, people moving between pools of light, smoke from torches creating hazy atmosphere, cobblestones gleaming wetly
+      in firelight, laundry hanging from upper windows barely visible
+    background: Five-story insulae rising into darkness above torch light, distant sounds of tavern conversation and music,
+      other night figures moving through shadows
+    atmosphere: Urban night filled with espionage and betrayal, torch light revealing and concealing secrets, sounds of pursuit
+      and hiding echoing through streets, sense of hunter and hunted in dangerous game
+  composition:
+    cameraAngle: Eye level following watchman down torch-lit street
+    focus: Torch-bearing figure moving through alternating light and shadow
+    depth: Foreground cobblestones in torch light, middle ground watchman with flame, background buildings disappearing into
+      darkness
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

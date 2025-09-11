@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Public Breaking"
+  setting:
+    time: "1848, noon"
+    location: "Central city square in 1840s European industrial city"
+    weather: "Cold clear day with harsh sunlight"
+  characters:
+    - appearance: "Young worker being made example of, man in mid-20s, defiant despite fear"
+      clothing: "Torn work clothes, hands bound, forced to kneel"
+      position: "Center of square on wooden platform"
+      action: "Having his tools ceremonially broken before him"
+    - appearance: "Stern man in his 50s, gray hair and mustache, rigid military bearing, cold calculating eyes"
+      clothing: "Dark blue military-style uniform with gold buttons and epaulettes, white gloves, ceremonial sword at hip, peaked cap with insignia"
+      position: "Standing over the accused"
+      action: "Breaking worker's tools with ceremonial hammer"
+    - appearance: "Crowd of workers forced to watch"
+      clothing: "Work clothes, varying states of wear"
+      position: "Gathered in square under guard"
+      action: "Watching in enforced silence, some with hidden anger"
+  scene:
+    mainElements: "Cobblestone plaza surrounded by government buildings and banks, central monument or statue, wide open space for gatherings"
+    details: "Worker's personal tools - hammer, saw, measures - being systematically destroyed. Sign reading 'Punishment for Organizing'. Guards with rifles ensuring crowd watches. Some workers secretly clenching fists in pockets"
+    background: "Government buildings with officials watching from windows, industrial smokestacks visible beyond"
+    atmosphere: "Public humiliation as control mechanism, destruction of means of independent labor, fear mixed with growing rage"
+  composition:
+    cameraAngle: "Ground level from crowd's perspective looking up at platform"
+    focus: "The breaking of tools as symbolic destruction of worker autonomy"
+    depth: "Platform and figures in foreground, watching crowd, imposing buildings behind"

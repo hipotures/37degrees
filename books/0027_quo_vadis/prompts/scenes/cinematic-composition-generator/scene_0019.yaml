@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Crushed Under Imperial Power - Victim's View"
+  setting:
+    time: "64 CE, noon during Christian arrests"
+    location: "Roman street in Trastevere during mass roundup of Christians"
+    weather: "Harsh midday sun with dust and commotion"
+  characters:
+    - appearance: "Roman soldiers in full military gear viewed from ground level, appearing gigantic and threatening"
+      clothing: "Red cloaks, polished bronze armor, plumed helmets, leather military sandals"
+      position: "Towering above camera position, filling frame from ground perspective"
+      action: "Surrounding and capturing helpless Christian families, weapons drawn"
+    - appearance: "Christian families including women, children and elderly viewed from same low level"
+      clothing: "Simple humble garments, torn and dusty from struggle"
+      position: "At ground level with camera, appearing vulnerable and small"
+      action: "Being forced to ground, hands bound, some praying despite terror"
+  scene:
+    mainElements: "Extreme low angle worm's eye view showing overwhelming military might crushing helpless Christian community, perspective emphasizing brutal oppression and vulnerability of the faithful."
+    details: "Military boots and sandals filling foreground, bronze armor and weapons reflecting harsh sunlight, soldiers appearing gigantic and dehumanized from ground level, Christian victims appearing small and defenseless, dust and debris at ground level, harsh shadows cast by armored figures, spears and swords pointing downward, leather and bronze textures dominating frame, expressions of terror and faith visible on victims' faces, no text or letters visible."
+    background: "Tall Roman buildings and structures viewed from extreme low angle"
+    atmosphere: "Oppression and powerlessness, imperial might crushing innocence, David facing Goliath perspective"
+  composition:
+    cameraAngle: "Extreme low angle worm's eye view emphasizing power imbalance"
+    focus: "Soldiers' armor and weapons in sharp detail, victims clear but secondary"
+    depth: "Boots and ground level in foreground, towering figures in middle, buildings above"

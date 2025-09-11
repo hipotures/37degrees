@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1860, late evening
+    location: Gentlemen's club smoking room, Pall Mall, London, leather and mahogany interior
+    weather: Fog outside tall windows
+  characters:
+  - appearance: Man in his 60s with gray mutton chop whiskers, stern expression, heavy-set build, ruddy complexion from club
+      dinners
+    clothing: Black morning coat with silk lapels, starched white shirt with wing collar, black silk top hat, gold watch chain
+      across waistcoat, white gloves
+    position: Alone in large leather chair by dying fire
+    action: Staring at open book in lap, brow furrowed in thought
+  scene:
+    mainElements: Empty leather chairs arranged around fireplace, paintings of conservative heroes, brandy decanters, Persian
+      rug
+    details: Copy of 'On Liberty' open in his lap, partially hidden by newspaper. Other chairs empty - his peers have left.
+      Fire dying to embers. His brandy untouched. Gas lamps turned low. Portrait of Edmund Burke seems to watch him reading
+      Mill.
+    background: Silent exclusive club, ticking of grandfather clock, distant London sounds muffled by fog
+    atmosphere: Old certainties questioned, solitary reconsideration, establishment forced to think
+  composition:
+    cameraAngle: Wide shot emphasizing his isolation
+    focus: Gentleman's conflicted face illuminated by dying fire
+    depth: Empty chairs surrounding lone figure, vast dark room beyond
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

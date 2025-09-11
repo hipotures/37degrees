@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Mirror Labyrinth of Identity"
+  setting:
+    time: "1949, indeterminate time"
+    location: "Hall of mirrors in abandoned Parisian mansion, once-grand ballroom"
+    weather: "Dusty light filtering through broken shutters"
+  characters:
+    - appearance: "woman in late 30s, confident bearing, intelligent eyes behind round tortoiseshell glasses, dark hair pulled into neat chignon"
+      clothing: "tailored charcoal gray wool suit with fitted jacket and knee-length skirt, white silk blouse, black leather oxford shoes, minimal jewelry"
+      position: "standing in center of mirror maze"
+      action: "looking at infinite reflections showing different versions of herself"
+  scene:
+    mainElements: "Circular arrangement of mirrors reflecting infinite versions - woman as bride, mother, worker, student, child, elder"
+    details: "Each reflection shows different imposed identity - one in wedding dress looking trapped, one in apron looking exhausted, one with books looking frustrated, one as child looking free. Central woman in her own chosen attire seeing all possible selves she could have been. Some mirrors cracked, showing fragmented identities. Floor littered with broken glass from rejected reflections"
+    background: "Decaying grandeur of room suggesting collapsed social order, dust motes in light beams"
+    atmosphere: "Multiple possible selves versus single imposed identity, fragmentation of female experience, choice versus destiny"
+  composition:
+    cameraAngle: "360-degree view showing all reflections surrounding central figure"
+    focus: "The independent woman in center seeing all her potential imprisoned selves"
+    depth: "Central figure sharp, reflections increasingly distorted toward edges, infinite regression"

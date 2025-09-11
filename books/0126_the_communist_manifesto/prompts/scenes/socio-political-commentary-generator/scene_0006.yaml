@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The All-Seeing Factory Floor"
+  setting:
+    time: "1848, early morning shift"
+    location: "Massive industrial factory hall in Manchester, England, filled with mechanical looms and steam engines"
+    weather: "No natural light visible inside factory"
+  characters:
+    - appearance: "Exhausted man in his 30s, gaunt face with hollow cheeks, muscular but lean build from hard labor, rough hands with calluses, tired eyes with dark circles"
+      clothing: "Worn blue cotton work shirt stained with oil and sweat, patched brown wool trousers held with rope belt, scuffed leather boots with holes, flat cloth cap"
+      position: "Working at dangerous machinery"
+      action: "Operating mechanical loom while nervously glancing upward"
+    - appearance: "Factory overseer, heavy-set man with cruel eyes"
+      clothing: "Better quality brown suit, watch chain visible, carrying wooden rod"
+      position: "Standing on elevated walkway above workers"
+      action: "Making notes in ledger while watching workers below"
+  scene:
+    mainElements: "Rows of cast-iron machinery with spinning wheels and leather drive belts, steam pipes running overhead, dim gas lamps providing minimal light"
+    details: "Elevated observation walkways crisscrossing above work floor like spider web. Overseers positioned at strategic points with clear sight lines. Large clock on wall with sign 'Time is Money'. Workers' every movement visible from above"
+    background: "Oppressive heat and humidity, air thick with cotton dust and machine oil, deafening mechanical noise"
+    atmosphere: "Panopticon-like surveillance system, workers under constant observation, no privacy or moment of rest"
+  composition:
+    cameraAngle: "High angle from overseer's perspective looking down at workers"
+    focus: "The network of observation platforms creating surveillance grid"
+    depth: "Walkways in foreground, workers and machines below, factory depths receding into darkness"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seeds Breaking Through Pavement"
+  setting:
+    time: "1949, dawn"
+    location: "Courtyard of Sorbonne University in Paris, ancient stone architecture"
+    weather: "First light of dawn breaking"
+  characters:
+    - appearance: "young woman student around 20, determined expression, carrying heavy books"
+      clothing: "simple skirt and blouse, worn leather satchel, comfortable walking shoes"
+      position: "walking across courtyard toward library"
+      action: "stepping deliberately on cracked pavement where plants grow through"
+  scene:
+    mainElements: "Ancient university courtyard with cracks in stone pavement, small green plants pushing through, woman walking toward building marked 'Library - Philosophy Section'"
+    details: "Green shoots breaking through seemingly impenetrable stone, each crack showing life force breaking through rigid structure. Woman's notebook visible with writing 'My Thoughts' not 'Approved Texts'. Other early morning students arriving - mix of men and surprised to see women. Old sign being taken down: 'Restricted to Male Students', new temporary sign: 'Open to All Qualified Students'. Her shadow falls across the growing plants, both reaching toward light"
+    background: "Gothic university buildings representing centuries of male tradition, dawn light on highest towers"
+    atmosphere: "Irrepressible life force breaking through oppression, knowledge as liberation, future growing through cracks in past"
+  composition:
+    cameraAngle: "Low angle from ground level showing both plants and woman rising up"
+    focus: "The parallel between plants breaking stone and woman entering forbidden spaces"
+    depth: "Cracked pavement with plants in foreground, woman in middle, imposing university buildings stretched toward sky"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1949, dawn
+    location: Courtyard of Sorbonne University in Paris, ancient stone architecture
+    weather: First light of dawn breaking
+  characters:
+  - appearance: young woman student around 20, determined expression, carrying heavy books
+    clothing: simple skirt and blouse, worn leather satchel, comfortable walking shoes
+    position: walking across courtyard toward library
+    action: stepping deliberately on cracked pavement where plants grow through
+  scene:
+    mainElements: Ancient university courtyard with cracks in stone pavement, small green plants pushing through, woman walking
+      toward building marked 'Library - Philosophy Section'
+    details: 'Green shoots breaking through seemingly impenetrable stone, each crack showing life force breaking through rigid
+      structure. Woman''s notebook visible with writing ''My Thoughts'' not ''Approved Texts''. Other early morning students
+      arriving - mix of men and surprised to see women. Old sign being taken down: ''Restricted to Male Students'', new temporary
+      sign: ''Open to All Qualified Students''. Her shadow falls across the growing plants, both reaching toward light'
+    background: Gothic university buildings representing centuries of male tradition, dawn light on highest towers
+    atmosphere: Irrepressible life force breaking through oppression, knowledge as liberation, future growing through cracks
+      in past
+  composition:
+    cameraAngle: Low angle from ground level showing both plants and woman rising up
+    focus: The parallel between plants breaking stone and woman entering forbidden spaces
+    depth: Cracked pavement with plants in foreground, woman in middle, imposing university buildings stretched toward sky
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

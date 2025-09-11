@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn Breaking Over Mountain Solitude"
+  setting:
+    time: "mythical era, dawn breaking"
+    location: "high alpine cave entrance carved into sheer granite cliff face, Swiss Alps wilderness"
+    weather: "crystal clear morning with first golden rays piercing thin mountain air"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing at cave mouth on narrow ledge"
+      action: "raising both arms toward rising sun in gesture of greeting and offering"
+  scene:
+    mainElements: "narrow cave opening in vertical rock wall, jagged stone formations, patches of snow on ledges"
+    details: "golden sunlight illuminating mountain peaks while valleys remain in shadow, wooden staff leaning against cave wall, simple clay water jug beside entrance, eagle circling high above with serpent coiled peacefully around its neck, no text or letters visible"
+    background: "endless mountain ranges fading into morning mist, jagged peaks catching first light"
+    atmosphere: "severe isolation, crystalline mountain air, absolute silence broken only by wind"
+  composition:
+    cameraAngle: "low angle looking up at figure silhouetted against dawn sky"
+    focus: "solitary figure addressing the sun as equal, arms raised in benediction"
+    depth: "cave entrance in foreground, figure mid-ground, infinite mountain vista background"

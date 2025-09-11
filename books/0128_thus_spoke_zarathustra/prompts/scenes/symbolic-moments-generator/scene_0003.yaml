@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Stone Tablets on Mountain Path"
+  setting:
+    time: "mythical era, noon with harsh sunlight"
+    location: "narrow rocky trail winding through Alpine peaks above treeline"
+    weather: "blazing sun in cloudless sky"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "kneeling beside broken stone tablets on mountain path"
+      action: "examining granite slabs with one hand while shading eyes with other"
+  scene:
+    mainElements: "loose scree slopes, exposed cliff edges, distant snow-capped summits"
+    details: "two granite slabs engraved with ancient commandments, edges chipped and weathered, one tablet cracked in half, fragments scattered on path, wooden staff lying across rocks, mountain flowers growing through cracks in stone, shadow of circling eagle passing over scene, no text or letters visible"
+    background: "sheer drop to misty valley below, jagged peaks stretching to horizon"
+    atmosphere: "thin air, harsh sunlight, vertigo-inducing drops into misty valleys"
+  composition:
+    cameraAngle: "overhead view showing figure small against vast mountain landscape"
+    focus: "broken stone tablets as symbols of old laws meant to be transcended"
+    depth: "tablets and figure in foreground, winding path mid-ground, infinite peaks background"

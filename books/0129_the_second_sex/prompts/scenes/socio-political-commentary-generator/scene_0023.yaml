@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Living Statues"
+  setting:
+    time: "1947, noon"
+    location: "Public garden in Paris with classical statuary, Luxembourg Gardens"
+    weather: "Bright midday sun creating stark shadows"
+  characters:
+    - appearance: "group of women of various ages, frozen in daily activities"
+      clothing: "typical period dress - housewives in aprons, young women in school uniforms, elderly in widow's black"
+      position: "arranged throughout garden in statue-like poses"
+      action: "holding completely still in positions of service and submission"
+  scene:
+    mainElements: "Women frozen mid-action in typical female roles alongside actual stone statues of goddesses and muses"
+    details: "Living women frozen: one pouring eternally from empty teapot, another holding baby-shaped bundle, one bent in curtsy, another with arms raised hanging invisible laundry. Real statues show mythological women in powerful poses - Athena with spear, Diana with bow. Plaques on statues read 'Wisdom', 'Hunt', 'Victory' while living women hold positions labeled by onlookers as 'Service', 'Sacrifice', 'Submission'. Pigeons perch on both stone and living figures equally"
+    background: "Park visitors walking past without noticing difference between stone and living statues"
+    atmosphere: "Women turned to stone by social roles, mythology of powerful females contrasted with reality of powerless ones"
+  composition:
+    cameraAngle: "Wide shot encompassing both living women and stone statues"
+    focus: "The parallel between frozen living women and eternal stone figures"
+    depth: "Mix of living and stone figures throughout garden space, visitors moving between"

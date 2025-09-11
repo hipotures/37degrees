@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Production Line of Broken Bodies"
+  setting:
+    time: "1848, dawn shift change"
+    location: "Coal mine entrance, South Wales"
+    weather: "Pre-dawn darkness, cold mist"
+  characters:
+    - appearance: "Stream of miners emerging from shaft - men aged 20-50, permanently bent backs, black lung coughs"
+      clothing: "Torn shirts and trousers black with coal dust, faces unrecognizable under grime"
+      position: "Shuffling in single file from mine entrance"
+      action: "Supporting each other, some carried on stretchers, coughing black phlegm"
+    - appearance: "Fresh shift of miners, younger men and boys"
+      clothing: "Cleaner but worn work clothes, carrying tin lamps"
+      position: "Waiting to descend"
+      action: "Looking with dread at emerging shift, seeing their own future"
+  scene:
+    mainElements: "Gaping mine entrance like mouth of monster, wooden scaffolding, coal carts on rails"
+    details: "Pile of worn boots from miners who died in previous shifts. Crude wooden crosses marking cave-in sites. Company sign showing 'Days Since Last Fatal Accident: 0'. Emerging miners' bodies permanently deformed by years underground"
+    background: "Coal processing buildings, mountains of slag, company store with inflated prices"
+    atmosphere: "Systematic destruction of human bodies for profit, industrial process consuming men as fuel"
+  composition:
+    cameraAngle: "Ground level at mine entrance, looking into the darkness"
+    focus: "The contrast between those entering and those barely escaping alive"
+    depth: "Mine entrance as dark portal, broken men emerging into gray dawn"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Young Woman Writing by Candlelight Inspired by Liberty"
+  setting:
+    time: "1860, midnight"
+    location: "Modest bedroom in London boarding house, simple furnishings"
+    weather: "Clear night, moon visible through window"
+  characters:
+    - appearance: "Woman in her 20s, determined expression, hair in simple bun, ink stains on fingers"
+      clothing: "Plain white nightgown, shawl around shoulders"
+      position: "Hunched over small writing desk by window"
+      action: "Writing urgently by candlelight, referencing open book"
+  scene:
+    mainElements: "Small wooden desk, single candle, narrow bed, simple wardrobe, water basin"
+    details: "Copy of 'On Liberty' propped open beside her paper. She writes 'A Vindication of Women's Education'. Candle wax drips forming small mountain. Moon and candle provide only light. Stack of crossed-out drafts shows hours of work."
+    background: "Quiet boarding house, distant church bells chiming hours"
+    atmosphere: "Secret intellectual rebellion, ideas sparking action, next generation taking up cause"
+  composition:
+    cameraAngle: "Intimate close-up from side"
+    focus: "Her determined face lit by candle, pen moving across paper"
+    depth: "Writing materials in foreground, her concentrated face, moonlit window behind"

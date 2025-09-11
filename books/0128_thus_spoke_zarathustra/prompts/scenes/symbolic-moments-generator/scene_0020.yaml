@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadow Becoming Solid While Body Fades"
+  setting:
+    time: "mythical era, sunset creating long shadows"
+    location: "high alpine cave entrance carved into sheer granite cliff face, Swiss Alps wilderness"
+    weather: "clear evening, sun setting behind mountains"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing with back to setting sun at cave entrance"
+      action: "looking down at own shadow which appears more solid than body"
+  scene:
+    mainElements: "narrow cave opening in vertical rock wall, jagged stone formations, patches of snow on ledges"
+    details: "man's shadow cast on rock wall appearing three-dimensional and solid like black stone, actual body becoming translucent in sunset light, shadow showing different posture than body - standing straighter and taller, light passing through man's form creating rainbow edges, shadow's edges sharp and defined while body edges blur, small stones visible through translucent legs, no text or letters visible"
+    background: "sun setting behind peaks creating rays of light through man's form"
+    atmosphere: "severe isolation, crystalline mountain air, absolute silence broken only by wind"
+  composition:
+    cameraAngle: "profile view showing both fading body and solid shadow"
+    focus: "reversal of substance - shadow more real than flesh"
+    depth: "figure and shadow in foreground, cave entrance mid-ground, sunset background"

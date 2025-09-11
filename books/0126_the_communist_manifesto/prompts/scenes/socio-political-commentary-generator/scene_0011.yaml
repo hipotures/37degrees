@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Human Cogs in the Great Machine"
+  setting:
+    time: "1848, midnight shift"
+    location: "Massive industrial factory hall in Manchester, England, filled with mechanical looms and steam engines"
+    weather: "No natural light, perpetual artificial twilight"
+  characters:
+    - appearance: "Line of workers - men and women, ages 16-40, hollow eyes, mechanical movements"
+      clothing: "Identical faded blue uniforms, oil-stained, numbers sewn on backs"
+      position: "Standing at fixed positions along assembly line"
+      action: "Performing single repetitive motion in perfect synchronization with machine rhythm"
+    - appearance: "Small child aged 8-10 years, undernourished thin body, dirty face with coal dust or textile fibers, bare feet"
+      clothing: "Oversized torn shirt hanging loose, ragged short trousers, no shoes"
+      position: "Crawling beneath moving machinery"
+      action: "Collecting cotton fibers while dodging mechanical parts"
+  scene:
+    mainElements: "Rows of cast-iron machinery with spinning wheels and leather drive belts, steam pipes running overhead, dim gas lamps providing minimal light"
+    details: "Workers' movements perfectly timed to machine's rhythm - pull, lift, place, repeat. No variation, no pause. Their shadows on floor merge together forming pattern of giant gear wheel. Clock on wall with all numbers replaced by word 'WORK'"
+    background: "Oppressive heat and humidity, air thick with cotton dust and machine oil, deafening mechanical noise"
+    atmosphere: "Complete dehumanization, humans literally transformed into machine parts, individual identity erased"
+  composition:
+    cameraAngle: "Overhead view showing workers as components in larger mechanism"
+    focus: "The merger of human bodies with mechanical rhythm"
+    depth: "Machinery and workers blending into single organism, individual faces lost in repetition"

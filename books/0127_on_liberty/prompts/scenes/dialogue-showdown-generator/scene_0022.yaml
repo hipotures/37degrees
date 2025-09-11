@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Speaker's Corner - Truth Triumphant in Public Square"
+  setting:
+    time: "1865, Sunday afternoon"
+    location: "Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary"
+    weather: "Clear summer day, bright sunshine"
+  characters:
+    - appearance: "Woman in her 30s, confident bearing, simple dress"
+      clothing: "Practical gray dress without excessive ornament, speaking bonnet"
+      position: "Standing on platform addressing large crowd"
+      action: "Arms raised, quoting from 'On Liberty' from memory"
+    - appearance: "Diverse crowd of over 200 people"
+      clothing: "Full spectrum from working clothes to Sunday best"
+      position: "Gathered in concentric circles, all classes mixed"
+      action: "Listening intently, many holding copies of Mill's works"
+  scene:
+    mainElements: "Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack flags and protest banners"
+    details: "Woman speaker quotes Mill's harm principle word for word. Banners read 'LIBERTY OF THOUGHT', 'EXPERIMENTS IN LIVING', 'TYRANNY OF THE MAJORITY'. Books being passed hand to hand through crowd. Police standing by but not interfering."
+    background: "Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression"
+    atmosphere: "Ideas fully democratized, philosophy as public property, Mill's vision realized in practice"
+  composition:
+    cameraAngle: "Elevated wide shot showing entire assembly"
+    focus: "Speaker as focal point with crowd radiating outward"
+    depth: "Platform and speaker in foreground, expanding crowd, London skyline beyond"

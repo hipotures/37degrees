@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1858, morning
+    location: Publisher's office, Fleet Street, London, wood-paneled walls with framed bestsellers
+    weather: Fog visible through window
+  characters:
+  - appearance: Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven
+      face showing signs of intellectual strain, high forehead
+    clothing: Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark
+      gray waistcoat with subtle pattern, black wool trousers without crease
+    position: Standing before large desk, manuscript in hand
+    action: Leaning forward earnestly, offering manuscript across desk
+  - appearance: Corpulent man in his 50s, prosperous appearance, calculating eyes
+    clothing: Expensive black suit, gold rings, ornate watch chain
+    position: Seated behind imposing mahogany desk
+    action: Pushing manuscript back with fingertips, leaning away
+  scene:
+    mainElements: Massive desk as barrier between men, leather-bound books on shelves, gas lamp, ledgers and papers
+    details: The manuscript of 'On Liberty' lies rejected on desk between them. Publisher's hand pushes it away like contamination.
+      Mill's shadow falls across the desk reaching toward his work. Framed images of popular conservative authors watch from
+      walls.
+    background: Busy Fleet Street visible through window, other clerks working at distant desks
+    atmosphere: Commercial calculation versus intellectual passion, profit blocking principle, marketplace censoring ideas
+  composition:
+    cameraAngle: Side view emphasizing desk as wall between them
+    focus: The rejected manuscript and pushing hand
+    depth: Publisher behind fortress of desk, Mill standing exposed, busy street beyond
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Pyramid of Flesh and Gold"
+  setting:
+    time: "1848, timeless allegorical moment"
+    location: "Vast industrial wasteland transformed into symbolic space"
+    weather: "Storm clouds gathering, dramatic light breaking through"
+  characters:
+    - appearance: "Hundreds of workers at base, all ages, broken bodies"
+      clothing: "Rags and work clothes, barefoot, chains on ankles"
+      position: "Forming human pyramid base, crushed under weight"
+      action: "Supporting massive structure with their bodies, some collapsing"
+    - appearance: "Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with prominent sideburns"
+      clothing: "Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold watch chain, black trousers with satin stripe, polished leather boots, tall black top hat"
+      position: "Standing at apex of human pyramid"
+      action: "Counting gold coins while standing on workers' backs"
+  scene:
+    mainElements: "Human pyramid with workers forming base and sides, single capitalist at top reaching toward sky"
+    details: "Workers' faces showing agony of supporting entire structure. Gold coins falling from capitalist's pockets, landing on suffering bodies below. Some workers beginning to push back, causing structure to sway. Blood seeping through cracks between human stones"
+    background: "Industrial cityscape in distance, smokestacks forming bars of massive cage around the scene"
+    atmosphere: "Living allegory of class structure, weight of exploitation made literal, system beginning to crack"
+  composition:
+    cameraAngle: "Wide shot showing entire pyramid structure"
+    focus: "The grotesque architecture of human exploitation"
+    depth: "Pyramid filling frame, industrial cage of smokestacks beyond"

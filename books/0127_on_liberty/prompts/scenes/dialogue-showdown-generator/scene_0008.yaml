@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Secret Printing Press Prepares Dangerous Ideas"
+  setting:
+    time: "1859, midnight"
+    location: "Hidden cellar beneath London shop, stone walls seeping moisture, narrow stairs leading to street level"
+    weather: "Rain audible through street grates above"
+  characters:
+    - appearance: "Man in his 40s, ink-stained fingers, determined expression, thin from long hours"
+      clothing: "Leather apron over simple shirt, sleeves rolled up, worn trousers"
+      position: "Hunched over type cases arranging letters"
+      action: "Carefully setting type for controversial pamphlet, glancing nervously at stairs"
+    - appearance: "Young man in his 20s, eager face, quick movements"
+      clothing: "Working clothes, cloth cap, boots"
+      position: "Operating printing press handle"
+      action: "Pulling press lever with full body weight, sweat on brow"
+    - appearance: "Woman in her 30s, alert watchful eyes"
+      clothing: "Dark practical dress, shawl"
+      position: "Standing guard at bottom of stairs"
+      action: "Listening intently for sounds above, hand raised for silence"
+  scene:
+    mainElements: "Large iron printing press dominating space, cases of movable type, stacks of paper, bottles of black ink, single gas lamp"
+    details: "Backwards letters spell 'LIBERTY OF THOUGHT' in type case. Fresh printed pages hang drying on lines. Boxes labeled 'J.S. MILL - ON LIBERTY' stacked in corner. Water drips create rhythm with press operation. Single gas lamp creates dramatic shadows."
+    background: "Clandestine urgency, smell of printer's ink and damp stone, shadows dancing from flickering gaslight"
+    atmosphere: "Dangerous secret work, ideas becoming physical reality, revolution printed one page at a time"
+  composition:
+    cameraAngle: "Low angle showing oppressive ceiling and press looming"
+    focus: "Printer's ink-stained hands arranging type"
+    depth: "Hands and type in foreground, press and guard in shadows beyond"

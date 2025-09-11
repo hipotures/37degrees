@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monument to Domestic Virtue"
+  setting:
+    time: "1949, late afternoon"
+    location: "Public square in Paris with newly unveiled monument, government buildings surrounding"
+    weather: "Golden hour sunlight casting long shadows"
+  characters:
+    - appearance: "crowd of officials and citizens, mix of ages, formal attire"
+      clothing: "men in dark suits and hats, women in conservative dresses and gloves"
+      position: "gathered in semicircle around monument"
+      action: "applauding as velvet curtain is pulled away from statue"
+  scene:
+    mainElements: "Large bronze statue depicting idealized mother figure - woman holding infant while stirring pot, two children clinging to her skirts, expression of serene devotion"
+    details: "Statue base inscribed 'To the Mothers of France - Guardians of the Hearth'. Government officials on platform giving speeches, photographers capturing moment, women in crowd dabbing eyes with handkerchiefs. French flags flanking the monument. One young woman at edge of crowd not applauding, looking thoughtful"
+    background: "Imposing government buildings, French tricolor flags, pigeons perched on surrounding architecture"
+    atmosphere: "State-sanctioned celebration of feminine sacrifice, public glorification of domestic imprisonment"
+  composition:
+    cameraAngle: "Low angle looking up at monument"
+    focus: "The towering bronze mother figure dominating the frame"
+    depth: "Monument in foreground, crowd in middle ground, institutional buildings looming in background"

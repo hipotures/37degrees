@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Torn Social Fabric - The Letter of Ostracism"
+  setting:
+    time: "1860, morning"
+    location: "Interior of London townhouse parlor, heavy mahogany furniture, dark green wallpaper with repeating floral pattern"
+    weather: "Gray drizzle visible through lace curtains"
+  characters:
+    - appearance: "Woman in her 20s with long auburn hair worn loose to shoulders, clear complexion, expressive green eyes, slender artistic build"
+      clothing: "Flowing sage green wool dress without corset, medieval-inspired wide sleeves, embroidered leather belt at natural waist, soft leather shoes"
+      position: "Standing in center of room holding torn letter"
+      action: "Reading letter fragments, chin raised defiantly despite hurt in eyes"
+  scene:
+    mainElements: "Horsehair sofa with antimacassars, marble fireplace with coal fire, heavy velvet curtains blocking daylight, glass-fronted bookcase, ornate mantelpiece clock"
+    details: "Torn letter from former friends declaring they can no longer associate with her. Pieces scattered on Persian rug spell out words 'improper', 'scandalous', 'unwomanly'. Her reflection in mirror shows isolation. Empty teacups for guests who won't come."
+    background: "Oppressive enclosed space, air thick with coal smoke and beeswax polish, dim gaslight creating deep shadows"
+    atmosphere: "Price of nonconformity made visible, social exile as punishment, strength required to stand alone"
+  composition:
+    cameraAngle: "Medium shot from floor level looking up"
+    focus: "Woman's defiant face above torn letter pieces"
+    depth: "Letter fragments in foreground, woman standing strong, empty room reflecting her isolation"

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 64 AD, early morning, first light of dawn breaking
+    location: Ancient Appian Way outside Rome, stone road where legend was born
+    weather: Clear cold morning with frost, mist rising from valleys, approaching spring
+  characters:
+  - appearance: Apostle Peter, elderly man in his sixties, weathered face showing years of ministry, eyes wide with spiritual
+      vision
+    clothing: Simple brown traveling robe, rope belt, worn sandals, staff in hand, no worldly possessions
+    position: Standing on ancient stone road fleeing Rome, suddenly stopped by divine apparition
+    action: Encountering vision of Christ walking toward Rome, asking 'Quo vadis, Domine?' - Where are you going, Lord?
+  scene:
+    mainElements: Same panoramic view of Rome but now in winter season, bare trees instead of summer foliage, frost covering
+      surfaces, thin ice on water features
+    details: Divine light revealing Christ walking toward Rome to be crucified again, ancient stones of Appian Way witnessing
+      sacred moment, early morning mist swirling around divine figure, small chapel marking the spot for future pilgrims,
+      tombs lining road silent witnesses to miraculous encounter
+    background: Same distant hills but snow-capped, aqueducts with ice formations, city showing subtle changes from passage
+      of time, familiar but evolved
+    atmosphere: Sacred encounter transforming cowardice to courage, legendary moment inspiring centuries of faith, divine
+      love overcoming human fear, eternal story of redemption made manifest, wisdom of Christ's infinite sacrifice revealed
+  composition:
+    cameraAngle: Wide establishing shot of ancient road with divine light
+    focus: Apostle Peter encountering Christ's vision on stone road
+    depth: Foreground ancient paving stones of Appian Way, middle ground Peter with divine vision, background Rome in distance
+      with rising sun
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

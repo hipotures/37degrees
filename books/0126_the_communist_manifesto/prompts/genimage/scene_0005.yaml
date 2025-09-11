@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1848, dusk
+    location: Bank of England, Threadneedle Street, City of London
+    weather: Heavy fog mixing with coal smoke from heating systems
+  characters:
+  - appearance: Two uniformed guards, tall and imposing, stern faces
+    clothing: Red military coats with brass buttons, white cross-belts, tall bearskin hats, carrying muskets
+    position: Flanking the massive entrance doors
+    action: Standing at rigid attention, eyes scanning the empty plaza
+  scene:
+    mainElements: Massive neoclassical bank building with towering Corinthian columns, fortress-like walls without ground
+      floor windows, imposing bronze doors
+    details: Building rises like ancient temple from surrounding streets. Gas lamps casting dramatic shadows on columns. Stone
+      facade unmarked by soot, constantly cleaned. Iron railings with sharp spikes surrounding perimeter. Small brass plaque
+      only identification
+    background: Smaller commercial buildings dwarfed by bank's scale, fog obscuring upper floors creating sense of infinite
+      height, empty streets as area closes to common people after business hours
+    atmosphere: Monument to concentrated financial power, architecture designed to intimidate and exclude, temple where money
+      is worshipped
+  composition:
+    cameraAngle: extreme low angle from street level emphasizing overwhelming scale
+    focus: The massive columns and fortress-like entrance guarded like palace
+    depth: Iron fence in foreground, guards and entrance in middle, building disappearing into foggy sky
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

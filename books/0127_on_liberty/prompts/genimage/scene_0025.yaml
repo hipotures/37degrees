@@ -1,0 +1,73 @@
+sceneDescription:
+  setting:
+    time: 1873, dawn
+    location: Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows
+    weather: First light of dawn through eastern windows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass,
+      press gallery above
+    details: Empty chamber bathed in dawn light. Copy of 'On Liberty' left open on dispatch box, pages gently turning in draft.
+      Mill's empty seat with small memorial plaque. Dust motes dance in light beams. New legislation papers wait for next
+      day's debates.
+    background: Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling
+    atmosphere: Ideas outliving their creators, eternal vigilance required for liberty, each generation must fight anew
+  composition:
+    cameraAngle: Slow pull back from book to reveal empty chamber
+    focus: Open book with pages turning themselves, suggesting living ideas
+    depth: Book in sharp foreground, empty chamber receding, dawn light flooding through windows
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Three Paths Converging at Bottomless Chasm"
+  setting:
+    time: "mythical era, storm approaching at dusk"
+    location: "edge of deep mountain abyss where three paths meet"
+    weather: "dark storm clouds gathering, first drops of rain"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing at chasm edge where three paths end"
+      action: "looking down into bottomless darkness while rain begins"
+  scene:
+    mainElements: "three mountain paths converging at cliff edge, bottomless chasm"
+    details: "three worn paths through rock approaching from different angles, all ending abruptly at sheer drop, small stones falling into void making no sound, ancient stone marker at convergence point worn smooth by weather, eagle feather caught on rock at edge, first lightning illuminating depths revealing nothing but darkness, rain droplets falling into abyss, no text or letters visible"
+    background: "storm clouds rolling in from all directions, mountains disappearing in darkness"
+    atmosphere: "electric tension before storm, wind rising from depths, vertigo of infinite fall"
+  composition:
+    cameraAngle: "high angle looking down past figure into black void"
+    focus: "moment of ultimate choice where all paths lead to leap into unknown"
+    depth: "figure at cliff edge foreground, paths behind mid-ground, storm and void background"

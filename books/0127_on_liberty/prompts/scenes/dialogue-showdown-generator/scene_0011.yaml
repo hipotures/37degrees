@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery of Harriet's Hidden Manuscript Contributions"
+  setting:
+    time: "1858, late afternoon"
+    location: "Book-lined study in Blackheath residence, southeast London suburb, view of heath through tall windows"
+    weather: "Golden sunset light through windows"
+  characters:
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Kneeling beside open drawer at desk"
+      action: "Holding manuscript pages, expression of wonder and recognition"
+    - appearance: "Woman in her 40s with intelligent direct gaze, dark hair parted in center and styled in low bun, refined features showing strength of character, bright observant eyes"
+      clothing: "Deep blue silk day dress with fitted bodice, moderate bell-shaped skirt without excessive crinoline, simple white collar, minimal jewelry except wedding ring and small cameo brooch"
+      position: "Standing in doorway watching"
+      action: "Small smile, hands clasped, observing his discovery"
+  scene:
+    mainElements: "Large oak writing desk covered with manuscripts, floor-to-ceiling bookshelves, leather armchair, globe on wooden stand, inkwell and quill pens"
+    details: "Pages in Harriet's handwriting contain key arguments for Chapter III on individuality. Her corrections and additions visible in margins of John's drafts. Two different inkwells - his black, hers blue. Light illuminates her words while his original text falls in shadow."
+    background: "Intellectual sanctuary, morning light filtering through curtains, quiet broken only by scratching of pen on paper"
+    atmosphere: "Revelation of true partnership, hidden contribution coming to light, equality revealed through evidence"
+  composition:
+    cameraAngle: "Over-shoulder view of Mill looking at manuscripts"
+    focus: "The two different handwritings intertwined on page"
+    depth: "Manuscript in foreground, Mill's amazed face in middle, Harriet watching from doorway background"

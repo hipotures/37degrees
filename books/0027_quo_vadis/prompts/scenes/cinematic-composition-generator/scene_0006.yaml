@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Nero's Madness - Emperor's Fevered Eyes"
+  setting:
+    time: "64 CE, night during palace feast"
+    location: "Private chamber in Golden House, Palatine Hill Rome"
+    weather: "Indoor scene, flickering lamplight"
+  characters:
+    - appearance: "26-29 years old, medium height corpulent man with thick neck supporting disproportionately large head. Broad short face swollen despite youth, sickly complexion described as 'face of ape, drunkard and comedian' under 'forehead of demigod'. Dark hair arranged in four rows of carefully styled curls. Most characteristic feature: bulging blue 'glassy, thoughtless eyes like those of the dead' often squinting in light."
+      clothing: "Ostentatious theatrical attire in imperial colors - amethyst tunica, abundant gold and precious stones, diamond necklaces."
+      position: "Face filling entire frame, eyes slightly above center line"
+      action: "Staring intensely through large polished emerald held at eye level like monocle"
+  scene:
+    mainElements: "Extreme close-up of Nero's face dominated by his distinctive bulging eyes examining world through green filter of emerald lens, creating distorted vision of reality."
+    details: "Pupils reflected in emerald surface, micro-expressions of paranoia and artistic delusion, carefully arranged curls framing bloated features, sweat beading on forehead from lamp heat, diamond necklace catching light at frame bottom, soft focus background suggesting crowded feast beyond, no text or letters visible."
+    background: "Blurred golden interior of palace chamber with indistinct figures"
+    atmosphere: "Psychological intensity and imperial madness, voyeuristic examination of tyrant's distorted perspective, artistic pretension masking cruel nature"
+  composition:
+    cameraAngle: "Extreme close-up, eye level, filling frame completely"
+    focus: "Sharp focus on eyes and emerald, shallow depth with background soft"
+    depth: "Face in extreme foreground, emerald in focal plane, everything else blurred"

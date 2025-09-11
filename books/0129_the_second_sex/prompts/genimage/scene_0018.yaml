@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1949, late night
+    location: Young woman's small attic room in Paris, slanted ceiling with single window
+    weather: Moonlight through window
+  characters:
+  - appearance: woman in early 20s, determined expression despite fatigue, calloused hands
+    clothing: simple nightgown, shawl wrapped around shoulders, hair loose
+    position: huddled by window for moonlight
+    action: reading hidden book by moonlight, taking secret notes
+  scene:
+    mainElements: Woman reading concealed philosophy book under covers, hidden notebook with her thoughts, official 'approved'
+      books visible on shelf
+    details: 'Book hidden inside cover of ''Household Management Guide'', her handwritten notes questioning prescribed roles,
+      candle she dare not light for fear of discovery. Bookshelf showing approved titles: ''The Obedient Wife'', ''Joy in
+      Submission'', ''Finding Fulfillment Through Service''. Real book is Wollstonecraft or similar, pages worn from secret
+      reading. Door locked from inside, chair wedged under handle'
+    background: Narrow servant's room with bare walls, single bed, crucifix watching from wall
+    atmosphere: Knowledge as rebellion, thinking as dangerous act, mind asserting freedom despite constraints
+  composition:
+    cameraAngle: Intimate close-up from above, moonlight illuminating page and face
+    focus: The hidden book and woman's intense concentration
+    depth: Reading woman in sharp focus, approved books blurred on shelf, door in shadow
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

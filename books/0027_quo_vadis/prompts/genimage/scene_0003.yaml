@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 64 CE, late afternoon
+    location: Domus Aurea on Palatine Hill, center of imperial power in Rome
+    weather: Golden hour light with warm shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Colossal palace manifestation of Nero's megalomania with gigantic colonnade of Numidian marble gleaming
+      golden in sunlight, massive bronze quadriga above monumental entrance gate, terraced gardens descending hillside.
+    details: Excessive architectural details dripping with wealth - gold, ivory, precious stones covering every surface, impossibly
+      large scale designed to dwarf human visitors, multiple levels and wings extending across hilltop, artificial lake reflecting
+      palace facade, geometric gardens with exotic plants, fountains and waterfalls creating vertical elements, marble statuary
+      positioned throughout grounds, no text or letters visible.
+    background: Rome spreading below palace, other hills of the city visible through columns and arches
+    atmosphere: Oppressive luxury and divine pretension, golden light enhancing sense of overwhelming wealth, architectural
+      scale suggesting emperor's delusions of godhood
+  composition:
+    cameraAngle: Low angle wide shot emphasizing monumental scale and power
+    focus: Central colonnade and entrance creating vanishing point perspective
+    depth: Architectural elements in foreground, main palace in middle ground, cityscape beyond
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

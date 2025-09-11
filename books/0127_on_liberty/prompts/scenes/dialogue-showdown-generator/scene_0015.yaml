@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Power Dynamic Reverses in Publisher's Office"
+  setting:
+    time: "1860, afternoon"
+    location: "Publisher's office, Fleet Street, London, wood-paneled walls with framed bestsellers"
+    weather: "Bright day outside windows"
+  characters:
+    - appearance: "Corpulent man in his 50s, prosperous appearance, calculating eyes"
+      clothing: "Expensive black suit, gold rings, ornate watch chain"
+      position: "Standing behind desk, leaning forward eagerly"
+      action: "Reaching across desk toward manuscript, eager expression"
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Seated confidently in publisher's own chair"
+      action: "Holding manuscript just out of reach, slight smile"
+    - appearance: "Young clerk in his 20s"
+      clothing: "Simple black suit, ink-stained fingers"
+      position: "Standing in doorway with papers"
+      action: "Watching reversal with barely hidden amusement"
+  scene:
+    mainElements: "Massive desk as barrier between men, leather-bound books on shelves, gas lamp, ledgers and papers"
+    details: "Multiple offers from other publishers spread on desk. 'On Liberty' manuscript now precious commodity. Publisher's previous rejection letter visible in waste basket. Mill occupies publisher's chair while publisher stands like supplicant."
+    background: "Busy Fleet Street visible through window, other clerks working at distant desks"
+    atmosphere: "Tables turned, ideas proven valuable, commerce now chasing principle instead of blocking it"
+  composition:
+    cameraAngle: "Reverse angle from original rejection, Mill now dominant"
+    focus: "Publisher's eager reaching hands and Mill's control"
+    depth: "Mill in power position foreground, publisher reaching across desk, clerk witnessing in doorway"

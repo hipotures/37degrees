@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Factory of Minds"
+  setting:
+    time: "1848, evening"
+    location: "Workers' mandatory education hall, Sheffield"
+    weather: "Dark outside, rain against windows"
+  characters:
+    - appearance: "Company lecturer, middle-aged man with cold eyes"
+      clothing: "Black suit with company insignia, standing at podium"
+      position: "Elevated on platform before exhausted audience"
+      action: "Pointing at chart showing 'Benefits of Hard Work' with pointer"
+    - appearance: "Hundreds of exhausted workers after 12-hour shift"
+      clothing: "Still in work clothes, some nodding off despite consequences"
+      position: "Forced to sit on hard benches in rigid rows"
+      action: "Fighting to stay awake, some taking mandatory notes"
+  scene:
+    mainElements: "Large hall with propaganda posters, elevated platform with podium, rows of wooden benches"
+    details: "Posters showing happy workers with slogans 'Labor Brings Joy' and 'The Company is Your Family'. Guards at exits preventing early departure. Chart showing how poverty is result of moral failing, not systemic exploitation. Workers forced to recite company loyalty pledge"
+    background: "Windows showing factory still operating night shift, smoke stacks never resting"
+    atmosphere: "Forced indoctrination after exhausting labor, minds being molded when bodies are weakest"
+  composition:
+    cameraAngle: "View from back showing sea of bent heads and looming speaker"
+    focus: "The contrast between propaganda messages and exhausted reality of audience"
+    depth: "Rows of workers, elevated speaker, propaganda-covered walls"

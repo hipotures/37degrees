@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rope Bridge Fraying Yet Holding Strong"
+  setting:
+    time: "mythical era, late afternoon"
+    location: "deep mountain gorge with ancient rope bridge"
+    weather: "wind picking up before evening"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing at center of swaying rope bridge"
+      action: "gripping side ropes while looking down at fraying planks beneath feet"
+  scene:
+    mainElements: "rope bridge spanning hundred-foot chasm, wooden planks, hemp rope handrails"
+    details: "bridge made of weathered hemp ropes and wooden slats, several planks missing or broken, remaining ropes frayed but still bearing weight, bridge swaying in mountain wind, far below a silver thread of river, eagles nesting in cliff face below bridge level, prayer flags torn and faded tied to bridge posts, no text or letters visible"
+    background: "sheer granite walls of gorge, waterfall in distance creating mist"
+    atmosphere: "vertigo and wind, creaking of old ropes, echo of falling stones"
+  composition:
+    cameraAngle: "side view showing full span of bridge with figure at center"
+    focus: "bridge as symbol barely holding yet still functional for crossing"
+    depth: "bridge spans entire frame, figure small at center, abyss visible below"

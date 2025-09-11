@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 64 AD, late afternoon, storm beginning
+    location: Busy marketplace near Forum Boarium, stone-paved square
+    weather: Clear hot night with dangerous wind gusts fanning flames, sparks flying between buildings
+  characters:
+  - appearance: Terrified shopkeeper, woman in her thirties, soot-stained face, eyes wide with panic as flames approach
+    clothing: Brown wool dress singed at edges, torn apron, sandals ready for flight, head scarf loosened in haste
+    position: Frantically gathering possessions as fire spreads through Circus Maximus district
+    action: Racing against advancing flames to save family treasures, arms full of precious items, preparing to flee burning
+      Rome
+  scene:
+    mainElements: Marketplace with wooden stalls and canvas awnings beginning to flap, stone cobblestones showing first dark
+      spots from raindrops
+    details: Sparks and burning debris falling like deadly rain on stone streets, papers and cloth igniting in fire-driven
+      wind gusts, wooden stall covers beginning to smolder, people running in terror from advancing flames, bucket chains
+      forming desperately, dust mixing with ash and smoke, air growing thick and choking
+    background: Other vendors securing goods, customers hurrying for covered areas, distant lightning visible between buildings,
+      sound of wind increasing
+    atmosphere: Sudden transformation from peaceful night to apocalyptic terror, acrid smell of smoke and burning wood replacing
+      cool air, collective panic as fire spreads, heat intensifying with flames mixed with desperate survival instinct
+  composition:
+    cameraAngle: Medium shot at ground level showing raindrops hitting stone around figure
+    focus: Vendor rushing with arms full of pottery as rain begins
+    depth: Foreground cobblestones with rain spots, middle ground frantic figure with goods, background other people seeking
+      shelter
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

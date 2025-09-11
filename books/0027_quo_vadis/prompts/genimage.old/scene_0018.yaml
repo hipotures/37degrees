@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 64 AD, deep night, full moon overhead
+    location: Rural landscape outside Rome, villa estate among fields
+    weather: Clear cold night with bright moonlight, no clouds
+  characters:
+  - appearance: Marcus Vinicius on horseback, young patrician with desperate expression, eyes burning with love and determination
+    clothing: Dark traveling cloak over military tunic, sword at side, horse's bridle with silver fittings reflecting moonlight
+    position: Mounted on Arabian stallion at crossroads outside Rome, following clues to Lygia's location
+    action: Studying paths leading to Christian hideouts, torn between Roman duty and growing faith, pursuing his beloved
+  scene:
+    mainElements: Bright full moon creating silver landscape, stone Roman milestone at crossroads, dirt roads leading in different
+      directions
+    details: Everything transformed to silver by moonlight, shadows sharp and black, villa in distance with single window
+      glowing, olive groves creating geometric patterns of light and shadow, horse's breath visible in cold air, night fog
+      forming in valleys, dewdrops sparkling like diamonds on grass
+    background: Distant hills silhouetted against star-filled sky, aqueduct arches crossing valley in moonlight, sleeping
+      world under vast dome of stars
+    atmosphere: Profound nighttime quest driven by desperate love, silence broken by heartbeat and hoofbeats, mysterious journey
+      toward Christian understanding, cold air carrying both earthly desire and spiritual awakening
+  composition:
+    cameraAngle: Wide shot showing small figure at crossroads under vast moonlit sky
+    focus: Cloaked rider and horse silhouetted against bright moon
+    depth: Foreground moonlit crossroads, middle ground mounted figure, background silver landscape under star-field sky
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

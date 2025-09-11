@@ -104,10 +104,10 @@ Study the selected generator thoroughly:
 ### 3. Analyze Book Review
 pwd - should be inside 37degrees/ directory
 Wykonaj te 3 polecenia:
-  1. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=1, limit=400)
-  2. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=401, limit=400)
-  3. Jeśli odczytałeś 400 w poprzednim wywołaniu, to wykonaj jeszcze to
-       Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=801, limit=400)
+  1. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=1, limit=300)
+  2. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=301, limit=300)
+  3. Jeśli odczytałeś 300 w poprzednim wywołaniu, to wykonaj jeszcze to
+       Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=601, limit=300)
   4. Jeśli plik nie istnieje, nie wykonuj dalszych poleceń, zakończ działanie
 
 These files contain all necessary book analysis and insights

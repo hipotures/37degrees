@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Green Shoots Through Iron - Question of Tomorrow"
+  setting:
+    time: "1848, undefined future moment"
+    location: "Abandoned factory floor beginning to transform"
+    weather: "Soft morning light filtering through broken windows"
+  characters:
+    - appearance: "Small child aged 8-10 years, cleaner and healthier than before, curious eyes"
+      clothing: "Simple but clean clothes, no longer in rags, barefoot by choice"
+      position: "Kneeling beside crack in factory floor"
+      action: "Carefully tending to small plant growing through concrete"
+  scene:
+    mainElements: "Massive industrial factory hall in Manchester, England, filled with mechanical looms and steam engines now silent and still"
+    details: "Massive cast-iron machinery with spinning wheels and leather drive belts, steam pipes running overhead, dim gas lamps providing minimal light all covered in rust and dust. Through cracks in concrete floor, green plants beginning to grow. Sunlight streaming through holes in roof. Birds nesting in silent machinery. Child's small hands protecting delicate green shoot"
+    background: "Other children visible in background, playing where machines once crushed spirits"
+    atmosphere: "Ambiguous hope, question whether humanity can grow beyond exploitation, nature reclaiming industrial wasteland"
+  composition:
+    cameraAngle: "Ground level focused on small plant and child's protective hands"
+    focus: "The tiny green life breaking through industrial death"
+    depth: "Plant and child in foreground, abandoned machinery receding, light streaming from above"

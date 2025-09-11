@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1860, morning
+    location: Busy thoroughfare in central London, four-story brick buildings lining both sides, cobblestone road
+    weather: Morning sun breaking through building gap
+  characters:
+  - appearance: Woman in her 20s with long auburn hair worn loose to shoulders, clear complexion, expressive green eyes, slender
+      artistic build
+    clothing: Flowing sage green wool dress without corset, medieval-inspired wide sleeves, embroidered leather belt at natural
+      waist, soft leather shoes
+    position: Stepping from shadowed doorway into sunlit street
+    action: Head held high, striding confidently into light
+  - appearance: Group of conventional Victorian women
+    clothing: Dark restrictive dresses with tight corsets, bonnets
+    position: Huddled in shadows against building
+    action: Whispering behind gloved hands, pointing
+  - appearance: Young woman in her teens watching from window
+    clothing: Simple dress suggesting middle-class daughter
+    position: Face pressed to second-floor window
+    action: Looking down with admiration and longing
+  scene:
+    mainElements: Horse-drawn omnibuses and carriages, gas street lamps, shop fronts with painted signs, iron railings, pedestrians
+      in Victorian dress
+    details: Sharp line divides shadowed sidewalk from sunlit street center. Nonconformist's green dress glows in sunlight
+      while conventional women remain in gray shadow. Young girl's hand pressed against window leaving print. Book visible
+      in nonconformist's hand.
+    background: Urban bustle and noise, clip-clop of horses, street vendors calling, coal smoke from chimneys creating hazy
+      atmosphere
+    atmosphere: Courage to be different, stepping from conformity's shadow into individual light, inspiring hidden watchers
+  composition:
+    cameraAngle: Street level showing shadow/light division
+    focus: Woman's moment of stepping from shadow to light
+    depth: Shadow and watchers in foreground, woman in bright middle, admiring girl in window above
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: mythical era, winter dawn
+    location: high mountain pass covered in fresh snow
+    weather: light snowfall, pale winter sun
+  characters: No characters present in this scene
+  scene:
+    mainElements: deep snow drifts, exposed rock faces, abandoned golden crown
+    details: ornate golden crown half-buried in snow drift, jewels dulled by ice crystals, crown tilted at angle suggesting
+      it was cast aside, small birds using crown as shelter, their nest built inside circlet, twigs and feathers woven through
+      crown points, animal tracks circling crown in snow, rising sun making ice crystals sparkle like diamonds, no text or
+      letters visible
+    background: endless white peaks disappearing into low clouds, steep drops on both sides of pass
+    atmosphere: profound silence of snowfall, thin frozen air, sense of abandoned power
+  composition:
+    cameraAngle: overhead view showing crown as small golden circle in vast white expanse
+    focus: transformation of symbol of power into mere shelter for birds
+    depth: crown in snow foreground, mountain pass mid-ground, clouded peaks background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

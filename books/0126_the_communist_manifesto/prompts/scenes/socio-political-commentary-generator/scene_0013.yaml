@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "School of Conformity"
+  setting:
+    time: "1848, morning"
+    location: "State industrial school, Birmingham"
+    weather: "Gray overcast day visible through high windows"
+  characters:
+    - appearance: "Rows of children aged 6-12, all with shaved heads, pale from lack of sunlight"
+      clothing: "Identical gray smocks with numbers, no individual markings"
+      position: "Sitting in perfectly aligned rows at wooden desks"
+      action: "Moving hands in unison practicing factory motions, not writing"
+    - appearance: "Stern schoolmaster with military bearing"
+      clothing: "Black coat, holding long wooden pointer"
+      position: "Standing at front before diagram of factory machine"
+      action: "Directing children's movements like orchestra conductor"
+  scene:
+    mainElements: "Classroom designed like factory floor, desks bolted to floor in grid pattern, industrial diagrams on walls instead of maps"
+    details: "Blackboard showing not alphabet but factory shift schedules. Children practicing threading motions, lever-pulling movements. Sign reading 'Individuality is Inefficiency'. Windows placed too high to see outside"
+    background: "Walls covered with rules and regulations, portrait of factory owner instead of educational figures"
+    atmosphere: "Education perverted into training for servitude, childhood erased in preparation for life as industrial drone"
+  composition:
+    cameraAngle: "High angle showing geometric arrangement of identical children"
+    focus: "The military precision of children's synchronized movements"
+    depth: "Rows of children receding to back wall, individuality lost in uniformity"

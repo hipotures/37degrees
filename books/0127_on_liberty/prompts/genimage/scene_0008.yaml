@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1859, midnight
+    location: Hidden cellar beneath London shop, stone walls seeping moisture, narrow stairs leading to street level
+    weather: Rain audible through street grates above
+  characters:
+  - appearance: Man in his 40s, ink-stained fingers, determined expression, thin from long hours
+    clothing: Leather apron over simple shirt, sleeves rolled up, worn trousers
+    position: Hunched over type cases arranging letters
+    action: Carefully setting type for controversial pamphlet, glancing nervously at stairs
+  - appearance: Young man in his 20s, eager face, quick movements
+    clothing: Working clothes, cloth cap, boots
+    position: Operating printing press handle
+    action: Pulling press lever with full body weight, sweat on brow
+  - appearance: Woman in her 30s, alert watchful eyes
+    clothing: Dark practical dress, shawl
+    position: Standing guard at bottom of stairs
+    action: Listening intently for sounds above, hand raised for silence
+  scene:
+    mainElements: Large iron printing press dominating space, cases of movable type, stacks of paper, bottles of black ink,
+      single gas lamp
+    details: Backwards letters spell 'LIBERTY OF THOUGHT' in type case. Fresh printed pages hang drying on lines. Boxes labeled
+      'J.S. MILL - ON LIBERTY' stacked in corner. Water drips create rhythm with press operation. Single gas lamp creates
+      dramatic shadows.
+    background: Clandestine urgency, smell of printer's ink and damp stone, shadows dancing from flickering gaslight
+    atmosphere: Dangerous secret work, ideas becoming physical reality, revolution printed one page at a time
+  composition:
+    cameraAngle: Low angle showing oppressive ceiling and press looming
+    focus: Printer's ink-stained hands arranging type
+    depth: Hands and type in foreground, press and guard in shadows beyond
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

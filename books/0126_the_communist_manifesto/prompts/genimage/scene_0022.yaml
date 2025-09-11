@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1848, industrial nightmare
+    location: Colossal factory transformed into monstrous allegory
+    weather: Perpetual twilight from smoke, red glow from furnaces
+  characters:
+  - appearance: Stream of workers of all ages entering machine
+    clothing: Fresh work clothes gradually becoming tattered
+    position: Walking into massive gear-shaped entrance
+    action: Entering upright, emerging bent and broken from other side
+  - appearance: Wealthy industrialists standing on observation platform
+    clothing: Fine suits, top hats, holding ledgers
+    position: Safe above the machine
+    action: Collecting gold coins that pour from machine's output
+  scene:
+    mainElements: Gigantic machine made of iron and brass, shaped like monstrous mouth with gear teeth, consuming workers
+      at one end
+    details: Workers enter young and healthy, emerge aged and crippled. Machine's gears visible through transparent sections,
+      showing workers being crushed and processed. Gold coins and finished goods emerging from other end. Oil that lubricates
+      machine is red like blood
+    background: Endless line of workers stretching to horizon waiting their turn to enter
+    atmosphere: Capitalism as literal devourer of human lives, industrial production as cannibalism
+  composition:
+    cameraAngle: Side view showing full process from entry to exit
+    focus: The transformation of human beings into profit
+    depth: Machine dominating center, endless human line receding into distance
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

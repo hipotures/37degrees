@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Magazine Cover Perfection Display"
+  setting:
+    time: "1948, morning"
+    location: "Newsstand kiosk on Boulevard Saint-Germain in Paris, typical Parisian street corner"
+    weather: "Clear morning light"
+  characters:
+    - appearance: "middle-aged male vendor with mustache, weathered face"
+      clothing: "brown wool cap, worn vest over shirt, fingerless gloves"
+      position: "standing behind counter arranging magazines"
+      action: "carefully displaying women's magazines with covers facing outward"
+  scene:
+    mainElements: "Rows of women's magazines displayed prominently - Elle, Marie Claire, Femmes Françaises - all featuring identical smiling housewife imagery, headlines about perfect homes and happy families"
+    details: "Every magazine cover shows same archetype - woman in apron holding mixing bowl or woman with children, all with bright red lipstick and pearl necklaces. Headlines read 'Secret to Happy Marriage', 'Perfect Mother's Guide', '50 Ways to Please Your Husband'. Male customer purchasing newspaper ignores the display entirely"
+    background: "Busy Parisian street with pedestrians, classic Haussmann buildings, morning commuters"
+    atmosphere: "Commercial normality masking propaganda, cheerful facades hiding prescribed roles"
+  composition:
+    cameraAngle: "Front view of newsstand at eye level"
+    focus: "The wall of identical magazine covers creating pattern of repetition"
+    depth: "Magazine display in sharp focus, vendor in middle ground, street life blurred in background"

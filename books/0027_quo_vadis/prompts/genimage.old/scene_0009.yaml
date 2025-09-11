@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 64 AD, late afternoon, storm front approaching
+    location: Palatine Hill, marble terrace of imperial palace
+    weather: Dark storm clouds building, wind picking up, air pressure dropping
+  characters:
+  - appearance: Praetorian guard in his twenties, tense athletic build, eyes showing fear of emperor's unpredictable rage
+    clothing: Red tunic with bronze scale armor, leather belt with gladius, bronze helmet with imperial eagle
+    position: Standing guard at imperial palace balustrade, watching storm approach like Nero's brewing fury
+    action: Nervous vigil as both weather and emperor's mood darken, grip tightening on sword hilt, sensing danger
+  scene:
+    mainElements: Dramatic storm front with towering dark clouds, marble palace architecture with columns and carved reliefs,
+      wind-blown vegetation
+    details: Heavy air before rain with pressure making ears pop, first papers and leaves swirling in gusts, birds flying
+      low seeking shelter, bronze fittings beginning to rattle, fabric banners snapping in wind, dust devils forming in courtyards,
+      distant lightning flickering in dark clouds
+    background: City of Rome spread below under advancing shadow of storm, aqueducts and temples becoming silhouettes, hills
+      disappearing into dark cloud base
+    atmosphere: Electric tension like imperial court intrigue, ominous transformation reflecting Nero's growing madness, sense
+      of tyrannical power about to unleash destruction, dramatic contrast between civilized facade and brutal reality
+  composition:
+    cameraAngle: Wide shot showing figure against dramatic sky and approaching storm
+    focus: Silhouetted guard watching massive storm front advance
+    depth: Foreground marble architecture, middle ground figure against balustrade, background towering storm clouds and dark
+      sky
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

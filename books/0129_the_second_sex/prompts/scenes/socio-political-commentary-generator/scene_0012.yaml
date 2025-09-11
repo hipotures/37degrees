@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Kitchen as Eternal Prison"
+  setting:
+    time: "1949, endless afternoon"
+    location: "Haussmann-style apartment in 16th arrondissement of Paris, high ceilings with ornate moldings, parquet floors in herringbone pattern"
+    weather: "Sunny day visible through window but unreachable"
+  characters:
+    - appearance: "woman in her 30s with neat appearance, medium build, tired eyes with forced smile, practical short brown hair pinned back"
+      clothing: "practical cotton day dress in muted floral print, white apron tied at waist, low-heeled brown shoes, simple gold wedding band visible on left hand"
+      position: "standing at kitchen sink, same position for hours"
+      action: "washing dishes in endless cycle - wash, dry, put away, immediately dirty again"
+  scene:
+    mainElements: "heavy inherited furniture, lace curtains at tall windows, marble fireplace with ornate mirror above, family photographs in silver frames"
+    details: "Sink full of dishes despite just finishing washing, clock ticking loudly showing 3pm but feeling like eternity, calendar on wall with every day looking identical, woman's reflection in window showing her aged beyond years. Stack of completed housework immediately undone - bed remade gets rumpled, floor cleaned gets dirty, meal cooked gets consumed"
+    background: "muffled street sounds from boulevard below, ticking of mantle clock"
+    atmosphere: "ordered and immaculate but impersonal, muffled street sounds from boulevard below, ticking of mantle clock"
+  composition:
+    cameraAngle: "Profile view showing woman at sink and window to outside world"
+    focus: "The endless pile of dishes and woman's resigned expression"
+    depth: "Kitchen in foreground, glimpse of freedom through window in background"

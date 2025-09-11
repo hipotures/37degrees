@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Tightrope Walker's Balancing Pole"
+  setting:
+    time: "mythical era, afternoon"
+    location: "medieval German town square with half-timbered buildings, muddy cobblestones"
+    weather: "overcast sky threatening rain"
+  characters:
+    - appearance: "athletic man around thirty years old with muscular build, short dark hair, focused brown eyes, clean-shaven face"
+      clothing: "fitted gray cotton tunic and matching knee-length breeches, soft leather slippers"
+      position: "balanced on rope stretched between church towers, thirty feet above ground"
+      action: "gripping twelve-foot bamboo pole horizontally, taking careful step forward on swaying rope"
+  scene:
+    mainElements: "crowded market stalls, wooden pillory in center, rope stretched between two church towers"
+    details: "twelve-foot bamboo pole with leather grips at center, slight bend from weight, crowd of townspeople below pointing upward with mixed expressions of excitement and dread, mud-splattered market stalls abandoned as vendors watch, church bells silent in towers, no text or letters visible"
+    background: "narrow medieval streets leading away from square, smoke from chimneys"
+    atmosphere: "chaotic noise of vendors and crowds, smell of unwashed bodies and rotting vegetables"
+  composition:
+    cameraAngle: "medium shot from crowd level looking up at tightrope walker"
+    focus: "the balancing pole as symbol of human equilibrium between extremes"
+    depth: "crowd in foreground, tightrope walker mid-ground, gray sky and towers background"

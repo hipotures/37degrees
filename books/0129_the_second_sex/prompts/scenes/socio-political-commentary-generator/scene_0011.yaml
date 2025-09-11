@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Assembly Line of Feminine Production"
+  setting:
+    time: "1948, mid-morning"
+    location: "Textile factory on outskirts of Paris, industrial brick building with rows of high windows"
+    weather: "Gray light filtering through dirty windows"
+  characters:
+    - appearance: "rows of young women aged 18-25, exhausted faces, hands moving mechanically"
+      clothing: "identical gray work smocks, hair tied back under kerchiefs, no jewelry allowed"
+      position: "seated at long tables with sewing machines"
+      action: "performing same repetitive stitch pattern for hours without pause"
+  scene:
+    mainElements: "rows of sewing machines and looms, bins of fabric and thread, overhead lighting casting harsh shadows"
+    details: "Clock on wall showing only 10am though workers began at 6am, supervisor with stopwatch timing bathroom breaks, sign reading 'Talking Reduces Productivity', women's fingers bleeding from needle pricks but unable to stop. Pile of completed garments labeled 'Parisian Elegance' for boutiques. One woman's eyes glazed, moving like automaton"
+    background: "Industrial machinery noise drowning out any conversation, windows too high to see outside"
+    atmosphere: "Human beings reduced to mechanical parts, individuality erased through repetition, exhaustion as normal state"
+  composition:
+    cameraAngle: "High angle showing rows of workers like cogs in machine"
+    focus: "The hypnotic repetition of identical movements"
+    depth: "Workers in foreground, endless rows receding, supervisor watching from platform"

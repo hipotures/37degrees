@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1865, noon
+    location: Busy thoroughfare in central London, four-story brick buildings lining both sides, cobblestone road
+    weather: Clear day with sharp shadows
+  characters:
+  - appearance: Solitary man in his 30s drinking from flask
+    clothing: Rumpled but respectable suit, loosened tie
+    position: Sitting alone on doorstep of closed shop
+    action: Drinking privately, harming no one
+  - appearance: Same man stumbling into traffic
+    clothing: Same rumpled suit, now disheveled
+    position: Weaving into street among carriages
+    action: Causing horses to rear, endangering others
+  - appearance: Police constable in uniform
+    clothing: Dark blue uniform with helmet, badge number visible
+    position: Moving from observing to intervening
+    action: Watching first scene, intervening in second
+  scene:
+    mainElements: Horse-drawn omnibuses and carriages, gas street lamps, shop fronts with painted signs, iron railings, pedestrians
+      in Victorian dress
+    details: 'Visual shows two moments: left side shows man drinking alone peacefully, right side shows same man endangering
+      others. Invisible line down middle of composition marks boundary between self-regarding and other-regarding actions.
+      Constable crosses this line only when harm occurs.'
+    background: Urban bustle and noise, clip-clop of horses, street vendors calling, coal smoke from chimneys creating hazy
+      atmosphere
+    atmosphere: Clear visualization of Mill's principle, law responding only to actual harm, freedom and responsibility balanced
+  composition:
+    cameraAngle: Split screen showing both scenarios simultaneously
+    focus: The invisible boundary line between private and public harm
+    depth: Both scenarios in middle ground, city life continuing around them
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

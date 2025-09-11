@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Broken Mirror Pieces Forming New Whole"
+  setting:
+    time: "mythical era, noon with sun directly overhead"
+    location: "small meadow surrounded by dark pine forest in mountain foothills"
+    weather: "bright sunshine, perfect clarity"
+  characters:
+    - appearance: "boy of sixteen with sun-bronzed skin, tousled brown hair, wide terrified eyes"
+      clothing: "simple undyed wool tunic, rough leather belt, bare feet"
+      position: "kneeling in meadow center arranging mirror fragments"
+      action: "carefully placing broken mirror pieces into mandala pattern"
+  scene:
+    mainElements: "circle of ancient trees, soft grass, fallen logs, wildflowers"
+    details: "seven broken mirror fragments arranged in perfect circle on grass, each piece reflecting different element - sky, earth, fire, water, tree, stone, light, center piece showing boy's eye multiplied infinitely, fragments catching sunlight creating rainbow patterns on grass, beetles using mirror edges as bridges between pieces, flower petals fallen precisely at junction points, no text or letters visible"
+    background: "dark forest forming natural circle around meadow, sky visible through canopy hole"
+    atmosphere: "dappled sunlight through branches, birdsong, smell of pine resin"
+  composition:
+    cameraAngle: "directly overhead showing perfect circular arrangement"
+    focus: "broken pieces creating new unity different from original form"
+    depth: "mirror mandala sharp focus center, meadow and forest radiating outward"

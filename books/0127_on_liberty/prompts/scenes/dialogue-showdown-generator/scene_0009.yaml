@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parliamentary Debate Across the Dispatch Box Divide"
+  setting:
+    time: "1859, afternoon session"
+    location: "Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows"
+    weather: "Sunlight through stained glass creating colored patterns"
+  characters:
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Standing at opposition dispatch box"
+      action: "Gripping box edges, leaning forward intensely arguing"
+    - appearance: "Man in his 40s with neatly trimmed beard, professional demeanor, average build, sharp attentive eyes behind wire spectacles"
+      clothing: "Dark brown wool suit with matching waistcoat, white shirt with turndown collar, conservative dark tie, polished oxford shoes"
+      position: "Standing at government dispatch box directly opposite"
+      action: "Jabbing finger across the divide, defending status quo"
+  scene:
+    mainElements: "Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass, press gallery above"
+    details: "Two red dispatch boxes face each other like duelists' positions. Between them lies the traditional two sword-lengths distance. Mill's papers on liberty scattered on his box while opponent's shows law books. Colored light from windows creates battle-like atmosphere."
+    background: "Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling"
+    atmosphere: "Gladiatorial verbal combat, institutional tradition versus reform, the divide physically manifest"
+  composition:
+    cameraAngle: "Direct side view showing both men facing off"
+    focus: "The space between the boxes where arguments clash"
+    depth: "Dispatch boxes and debaters in foreground, rows of watching MPs behind each"

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1947, evening
+    location: Grand ballroom of luxury hotel on Place Vendôme in Paris, crystal chandeliers and gilt decoration
+    weather: Night, ballroom windows showing city lights
+  characters:
+  - appearance: dozens of young women aged 18-20, anxious beneath practiced smiles
+    clothing: white ball gowns symbolizing virginity, pearl necklaces, long white gloves, hair in elaborate updos
+    position: lined along walls like merchandise displays
+    action: maintaining posed positions while mothers negotiate with prospective families
+  - appearance: older women (mothers and matchmakers) with calculating expressions
+    clothing: dark formal gowns, expensive jewelry showing family wealth
+    position: clustered in groups discussing 'prospects'
+    action: pointing at girls, consulting notebooks with family financial details
+  scene:
+    mainElements: Debutantes displayed like auction items, mothers with ledgers comparing dowries and family connections,
+      men appraising women like livestock
+    details: Programs listing each girl's 'accomplishments' (piano, embroidery, languages) but no mention of intelligence
+      or ambition. Mothers whispering financial settlements, fathers checking pocket watches impatiently. One girl's dance
+      card being filled by mother's choices, not her own. Numbers pinned discreetly to girls' sashes for easy identification
+    background: Orchestra playing waltz, servants circulating with champagne, portraits of past 'successful matches' on walls
+    atmosphere: Human trafficking disguised as elegance, market transaction wrapped in ceremony, futures being sold
+  composition:
+    cameraAngle: Wide shot from balcony level showing the mercantile arrangement
+    focus: The line of white-dressed girls against wall like items for sale
+    depth: Display of debutantes in foreground, negotiations in middle, orchestra as backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

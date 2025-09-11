@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rose with Thorns Drawing Blood from Reaching Hand"
+  setting:
+    time: "mythical era, dawn"
+    location: "small meadow surrounded by dark pine forest in mountain foothills"
+    weather: "morning dew on grass, mist rising"
+  characters:
+    - appearance: "boy of sixteen with sun-bronzed skin, tousled brown hair, wide terrified eyes"
+      clothing: "simple undyed wool tunic, rough leather belt, bare feet"
+      position: "kneeling in meadow reaching toward rose"
+      action: "hand extended toward rose, drops of blood falling from palm pierced by thorns"
+  scene:
+    mainElements: "circle of ancient trees, soft grass, fallen logs, wildflowers"
+    details: "single perfect red rose growing from rocky ground, stem covered in sharp black thorns, three drops of blood on white petals, boy's hand showing fresh wounds from attempted grasp, morning dew making rose petals glisten like rubies, spider web stretched between rose and nearby grass blade, butterfly hovering just out of reach above rose, no text or letters visible"
+    background: "dark forest awakening, shafts of early light through trees"
+    atmosphere: "dappled sunlight through branches, birdsong, smell of pine resin"
+  composition:
+    cameraAngle: "close-up of rose, hand, and blood drops"
+    focus: "beauty and pain inseparably united in single symbol"
+    depth: "rose and hand in sharp foreground, boy's face soft mid-ground, forest blur background"

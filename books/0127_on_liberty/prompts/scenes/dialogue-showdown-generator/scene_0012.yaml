@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Public Recognition of Mill's Arguments at Speaker's Corner"
+  setting:
+    time: "1860, Sunday afternoon"
+    location: "Northeast corner of Hyde Park London, open grass area with mature elm trees, iron railings marking park boundary"
+    weather: "Clear spring day with bright sunshine"
+  characters:
+    - appearance: "Man in his 30s with weathered face from outdoor labor, strong build, calloused hands, earnest expression, clean-shaven except for mustache"
+      clothing: "Brown corduroy jacket showing wear at elbows, coarse cotton shirt, dark wool vest, sturdy leather boots, cloth cap"
+      position: "Standing on highest crate, book held aloft"
+      action: "Holding copy of 'On Liberty' above head like trophy, reading passages"
+    - appearance: "Crowd of 50+ people of mixed classes"
+      clothing: "Working clothes mixed with middle-class Sunday dress"
+      position: "Gathered in expanding circles around speaker"
+      action: "Many nodding agreement, some taking notes, others discussing"
+    - appearance: "Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Standing anonymously at crowd edge"
+      action: "Watching with quiet satisfaction, unrecognized"
+  scene:
+    mainElements: "Multiple wooden crates and stepladders serving as platforms, diverse crowd in circle formation, Union Jack flags and protest banners"
+    details: "Multiple copies of 'On Liberty' visible in crowd hands. Banner reads 'THE HARM PRINCIPLE' with Mill's words. Working man quotes directly from book while educated listeners nod approval. Mill observes his ideas spreading organically."
+    background: "Chaotic energy of public debate, overlapping voices and heckling, open sky suggesting freedom of expression"
+    atmosphere: "Ideas transcending class boundaries, democratic enlightenment, philosophy becoming public property"
+  composition:
+    cameraAngle: "Wide shot showing entire crowd and speaker"
+    focus: "Book held high catching sunlight like beacon"
+    depth: "Speaker and book in foreground, crowd in middle, Mill barely visible at edge"

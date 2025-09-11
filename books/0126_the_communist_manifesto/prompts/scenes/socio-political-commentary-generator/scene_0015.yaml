@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "One Doubt in a Sea of Compliance"
+  setting:
+    time: "1848, evening after work"
+    location: "Crowded omnibus in London returning from factory district"
+    weather: "Rain streaming down omnibus windows"
+  characters:
+    - appearance: "Weary woman in her 20s, pale complexion from lack of sunlight, thin frame, hair pulled back in simple bun, prematurely aged face"
+      clothing: "Dark brown cotton dress with long sleeves, stained white apron, worn leather shoes, simple headscarf"
+      position: "Pressed against window in overcrowded omnibus"
+      action: "Staring out window with expression of profound sadness and questioning"
+    - appearance: "Dozens of other workers crammed into omnibus, various ages, all exhausted"
+      clothing: "Similar work clothes, all in browns and grays"
+      position: "Packed standing body to body"
+      action: "Staring blankly ahead, swaying with vehicle movement like wheat in wind"
+  scene:
+    mainElements: "Interior of packed public omnibus, bodies pressed together, windows fogged with breath"
+    details: "Woman's face reflected in rain-streaked window showing tears mixing with raindrops. Her hand pressed against glass leaving brief handprint before it fades. Others around her completely oblivious, lost in their own exhaustion"
+    background: "Through window, passing factories and workers' tenements, endless repetition of industrial landscape"
+    atmosphere: "Profound isolation within crowd, single spark of human consciousness in mass of defeated souls"
+  composition:
+    cameraAngle: "Close angle focused on woman's face with crowd behind"
+    focus: "The woman's questioning eyes contrasting with blank stares around her"
+    depth: "Her face in sharp focus, crowd blurring into anonymous mass behind"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Golden House of Nero - Palace of Divine Madness"
+  setting:
+    time: "64 CE, late afternoon"
+    location: "Domus Aurea on Palatine Hill, center of imperial power in Rome"
+    weather: "Golden hour light with warm shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Colossal palace manifestation of Nero's megalomania with gigantic colonnade of Numidian marble gleaming golden in sunlight, massive bronze quadriga above monumental entrance gate, terraced gardens descending hillside."
+    details: "Excessive architectural details dripping with wealth - gold, ivory, precious stones covering every surface, impossibly large scale designed to dwarf human visitors, multiple levels and wings extending across hilltop, artificial lake reflecting palace facade, geometric gardens with exotic plants, fountains and waterfalls creating vertical elements, marble statuary positioned throughout grounds, no text or letters visible."
+    background: "Rome spreading below palace, other hills of the city visible through columns and arches"
+    atmosphere: "Oppressive luxury and divine pretension, golden light enhancing sense of overwhelming wealth, architectural scale suggesting emperor's delusions of godhood"
+  composition:
+    cameraAngle: "Low angle wide shot emphasizing monumental scale and power"
+    focus: "Central colonnade and entrance creating vanishing point perspective"
+    depth: "Architectural elements in foreground, main palace in middle ground, cityscape beyond"

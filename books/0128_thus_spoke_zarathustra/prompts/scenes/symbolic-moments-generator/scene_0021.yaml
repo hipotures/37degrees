@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Key Finally Opening the Mountain Gate"
+  setting:
+    time: "mythical era, dawn of new day"
+    location: "ancient stone doorway carved into mountain face"
+    weather: "first light breaking through clouds after storm"
+  characters:
+    - appearance: "elderly man in his sixties with deeply lined face, white hair flowing to shoulders, white beard reaching chest, penetrating pale gray eyes"
+      clothing: "weathered brown woolen robe with visible patches, frayed hemp rope belt, worn leather sandals"
+      position: "standing before massive stone door"
+      action: "inserting ancient iron key into hidden lock, door beginning to open"
+  scene:
+    mainElements: "enormous stone door in cliff face, ancient iron key, morning light"
+    details: "massive granite door carved with worn symbols finally cracking open, heavy iron key turning in lock after ages of waiting, beam of golden light shooting through opening crack, dust motes dancing in light beam, moss and lichen crumbling as door moves, sound of stone grinding against stone echoing through mountains, fresh air rushing out from within, no text or letters visible"
+    background: "sheer cliff face, morning sun breaking through dissipating storm clouds"
+    atmosphere: "momentous opening after eternal waiting, threshold being crossed"
+  composition:
+    cameraAngle: "low angle showing scale of door and significance of opening"
+    focus: "the key fulfilling its purpose after long journey"
+    depth: "door and figure in foreground, light streaming through, mountains beyond"

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1948, twilight
+    location: Wealthy Parisian home, ornate salon with floor-to-ceiling windows
+    weather: Sunset light creating bar shadows through window frames
+  characters:
+  - appearance: elegant woman in 30s, beautiful but lifeless eyes, perfect posture
+    clothing: exquisite evening gown, diamonds at throat, elaborate hair arrangement
+    position: seated in ornate chair positioned precisely in room center
+    action: sitting completely still, staring at window
+  scene:
+    mainElements: Woman positioned in room where window frames and shadows create appearance of cage bars across her body
+    details: Everything in room is beautiful but creating imprisonment - heavy velvet curtains frame her like stage, ornate
+      chair holds her in place, corset visible through dress fabric constraining breathing. Jewelry boxes open displaying
+      chains of gold and pearls. Bird in actual gold cage by window, both woman and bird watching outside world. Schedule
+      on wall shows every minute planned by others
+    background: Opulent furnishings that are beautiful prisons, portraits of similarly trapped women ancestors
+    atmosphere: Luxury as imprisonment, beauty as cage, wealth that purchases everything except freedom
+  composition:
+    cameraAngle: Straight on view where window shadows create bars across the woman
+    focus: Woman's face trapped behind shadow bars from ornate window frame
+    depth: Woman centered, window creating bar pattern, free world visible but unreachable beyond
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

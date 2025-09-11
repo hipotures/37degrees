@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mass Without Faces"
+  setting:
+    time: "1848, noon"
+    location: "Central city square in 1840s European industrial city"
+    weather: "Bright harsh sunlight creating sharp shadows"
+  characters:
+    - appearance: "Crowd of hundreds of workers, all adult men, indistinguishable features"
+      clothing: "Identical dark blue work uniforms, matching caps pulled low over eyes"
+      position: "Standing in perfect rectangular formation filling the square"
+      action: "All raising right fist in unison at signal from platform"
+  scene:
+    mainElements: "Cobblestone plaza surrounded by government buildings and banks, central monument or statue, wide open space for gatherings"
+    details: "Workers arranged by height to create perfect visual lines. Each holds identical red booklet. Their faces in shadow from cap brims, becoming anonymous mass. No individual expression visible, transformed into single organism"
+    background: "State buildings with officials watching from windows, flags with industrial symbols, clock tower showing lunch break nearly over"
+    atmosphere: "Complete erasure of individual identity, human beings reduced to undifferentiated mass, personhood dissolved in collective"
+  composition:
+    cameraAngle: "Elevated view from government building showing human geometry"
+    focus: "The perfect grid of identical figures filling the square"
+    depth: "Pattern of humanity stretching to fill entire plaza, individuals vanishing in the whole"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Marriage Market at Debutante Ball"
+  setting:
+    time: "1947, evening"
+    location: "Grand ballroom of luxury hotel on Place Vendôme in Paris, crystal chandeliers and gilt decoration"
+    weather: "Night, ballroom windows showing city lights"
+  characters:
+    - appearance: "dozens of young women aged 18-20, anxious beneath practiced smiles"
+      clothing: "white ball gowns symbolizing virginity, pearl necklaces, long white gloves, hair in elaborate updos"
+      position: "lined along walls like merchandise displays"
+      action: "maintaining posed positions while mothers negotiate with prospective families"
+    - appearance: "older women (mothers and matchmakers) with calculating expressions"
+      clothing: "dark formal gowns, expensive jewelry showing family wealth"
+      position: "clustered in groups discussing 'prospects'"
+      action: "pointing at girls, consulting notebooks with family financial details"
+  scene:
+    mainElements: "Debutantes displayed like auction items, mothers with ledgers comparing dowries and family connections, men appraising women like livestock"
+    details: "Programs listing each girl's 'accomplishments' (piano, embroidery, languages) but no mention of intelligence or ambition. Mothers whispering financial settlements, fathers checking pocket watches impatiently. One girl's dance card being filled by mother's choices, not her own. Numbers pinned discreetly to girls' sashes for easy identification"
+    background: "Orchestra playing waltz, servants circulating with champagne, portraits of past 'successful matches' on walls"
+    atmosphere: "Human trafficking disguised as elegance, market transaction wrapped in ceremony, futures being sold"
+  composition:
+    cameraAngle: "Wide shot from balcony level showing the mercantile arrangement"
+    focus: "The line of white-dressed girls against wall like items for sale"
+    depth: "Display of debutantes in foreground, negotiations in middle, orchestra as backdrop"

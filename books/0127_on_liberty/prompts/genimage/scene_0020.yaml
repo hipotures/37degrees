@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1860, morning
+    location: Interior of London townhouse parlor, heavy mahogany furniture, dark green wallpaper with repeating floral pattern
+    weather: Gray drizzle visible through lace curtains
+  characters:
+  - appearance: Woman in her 20s with long auburn hair worn loose to shoulders, clear complexion, expressive green eyes, slender
+      artistic build
+    clothing: Flowing sage green wool dress without corset, medieval-inspired wide sleeves, embroidered leather belt at natural
+      waist, soft leather shoes
+    position: Standing in center of room holding torn letter
+    action: Reading letter fragments, chin raised defiantly despite hurt in eyes
+  scene:
+    mainElements: Horsehair sofa with antimacassars, marble fireplace with coal fire, heavy velvet curtains blocking daylight,
+      glass-fronted bookcase, ornate mantelpiece clock
+    details: Torn letter from former friends declaring they can no longer associate with her. Pieces scattered on Persian
+      rug spell out words 'improper', 'scandalous', 'unwomanly'. Her reflection in mirror shows isolation. Empty teacups for
+      guests who won't come.
+    background: Oppressive enclosed space, air thick with coal smoke and beeswax polish, dim gaslight creating deep shadows
+    atmosphere: Price of nonconformity made visible, social exile as punishment, strength required to stand alone
+  composition:
+    cameraAngle: Medium shot from floor level looking up
+    focus: Woman's defiant face above torn letter pieces
+    depth: Letter fragments in foreground, woman standing strong, empty room reflecting her isolation
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

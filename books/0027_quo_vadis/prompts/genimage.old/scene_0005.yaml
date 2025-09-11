@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 64 AD, morning, several hours after sunrise
+    location: Kitchen of Roman villa, stone cooking area with hearth
+    weather: Clear morning with warm sunlight streaming through doorway
+  characters:
+  - appearance: Christian servant woman in her thirties, gentle face marked by secret faith, calloused hands from labor
+    clothing: Simple gray wool tunic, leather apron, small fish symbol carved into wooden spoon handle
+    position: Bent over stone hearth in Plautius household kitchen
+    action: Secretly blessing bread dough while kneading, preparing for hidden Christian gathering, whispering prayer
+  scene:
+    mainElements: Stone hearth with glowing coals, bronze cookware suspended over flames, wooden preparation table with food
+      items
+    details: Steam rising from bread ovens creating warm clouds, round loaves marked with subtle cross pattern cooling on
+      wooden boards, olive oil for anointing in ceramic vessels, herbs blessed for communion on table, clay water jugs for
+      baptism ceremonies, morning sunlight illuminating dust motes, fish symbol scratched into wooden table edge
+    background: Storage amphorae lined against walls, doorway opening to garden courtyard with bright morning light, hanging
+      bundles of dried herbs and garlic
+    atmosphere: Warm kitchen scents of cooking food and wood smoke, comfortable domestic rhythm, steam adding humidity to
+      morning air, sense of preparation for the day
+  composition:
+    cameraAngle: Medium shot from kitchen entrance looking toward hearth
+    focus: Figure silhouetted against firelight with steam rising around her
+    depth: Foreground food preparation items, middle ground cook at hearth with steam, background storage areas and garden
+      doorway
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

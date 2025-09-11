@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Roman Amphitheater Before the Games - Arena of Death"
+  setting:
+    time: "64 CE, afternoon before gladiatorial games"
+    location: "Major Roman amphitheater, elliptical arena structure in Rome"
+    weather: "Bright harsh sunlight with sharp shadows"
+  characters:
+    - appearance: "Thousands of Roman citizens filling tiered stone seats, individual faces indistinguishable in vast crowd"
+      clothing: "White togas and colorful tunics creating mosaic pattern across seating tiers"
+      position: "Packed into concentric rows of stone seating rising steeply from arena floor"
+      action: "Settling into seats, gesturing and talking in animated anticipation"
+  scene:
+    mainElements: "Gigantic elliptical amphitheater with arena floor covered in fresh yellow sand, empty and ominous before violence begins, imperial box decorated with purple and gold awaiting Caesar's arrival."
+    details: "Steep tiers of stone seating creating perfect geometry, underground passages (carceres) with iron gates where beasts and gladiators wait, awnings partially extended to shade upper seats, vendors moving through crowds, arena sand raked smooth and pristine, wooden barriers around arena edge, complex system of pulleys and mechanisms for stage effects, no text or letters visible."
+    background: "City of Rome visible beyond amphitheater walls, blue sky with scattered clouds"
+    atmosphere: "Anticipation building to bloodthirsty crescendo, civilized architecture containing savage entertainment, calm before the storm of violence"
+  composition:
+    cameraAngle: "High angle master shot showing entire amphitheater geography and crowd"
+    focus: "Empty arena floor as focal point surrounded by filled seating"
+    depth: "Arena in foreground, rising seats in middle ground, city skyline in background"

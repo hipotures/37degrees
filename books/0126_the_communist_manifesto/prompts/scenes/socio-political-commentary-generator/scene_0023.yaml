@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Chessboard of Classes"
+  setting:
+    time: "1848, symbolic realm"
+    location: "Gigantic chessboard stretching across industrial landscape"
+    weather: "Dramatic sky split between dark storm and breaking dawn"
+  characters:
+    - appearance: "Workers as pawns, thousands of identical figures"
+      clothing: "Simple work clothes, all identical gray"
+      position: "Front lines of chessboard, restricted movement"
+      action: "Only able to move forward one square, many fallen"
+    - appearance: "Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with prominent sideburns"
+      clothing: "Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold watch chain, black trousers with satin stripe, polished leather boots, tall black top hat"
+      position: "As king piece, protected in back row"
+      action: "Moving freely while sacrificing pawns"
+  scene:
+    mainElements: "Black and white checkered ground with human chess pieces, factory smokestacks as rooks, banks as bishops"
+    details: "Fallen worker-pawns littering the board, not removed but stepped over. Some pawns beginning to move sideways, breaking rules of the game. Red dawn light beginning to illuminate one side of board. Crown on king piece made of gold coins"
+    background: "Industrial city forming the boundaries of the board, smoke creating walls"
+    atmosphere: "Society as rigged game where workers have no chance of victory under current rules"
+  composition:
+    cameraAngle: "Elevated three-quarter view showing board strategy"
+    focus: "The overwhelming sacrifice of pawns for king's protection"
+    depth: "Chessboard filling frame with city walls beyond"

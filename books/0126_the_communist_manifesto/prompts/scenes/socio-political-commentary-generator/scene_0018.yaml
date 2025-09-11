@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Forbidden Symbol"
+  setting:
+    time: "1848, night"
+    location: "Alley behind textile factory, Lyon, France"
+    weather: "Foggy night, gas lamps creating yellow pools of light"
+  characters:
+    - appearance: "Young worker, man in early 20s, determined eyes despite exhaustion"
+      clothing: "Dark work clothes, cap pulled low, red cloth tied around arm partially hidden by sleeve"
+      position: "Crouched by factory wall"
+      action: "Painting red flag symbol on brick wall with crude brush"
+    - appearance: "Lookout worker, teenage boy, nervous and alert"
+      clothing: "Patched coat, worn boots"
+      position: "Standing at alley entrance"
+      action: "Watching for guards, ready to whistle warning"
+  scene:
+    mainElements: "Dark alley between factory buildings, brick wall being marked with resistance symbol"
+    details: "Simple red cloth flag on wooden pole, no text or symbols, rough homemade fabric, frayed edges from use. Paint dripping down brick creating sense of urgency. Other faded symbols visible on walls from previous nights, painted over but still showing through"
+    background: "Factory windows dark except for night watchman's lantern moving inside, distant sound of patrol boots on cobblestones"
+    atmosphere: "Dangerous act of defiance, first sparks of organized resistance, hope painted in darkness"
+  composition:
+    cameraAngle: "Low angle from alley floor emphasizing danger and secrecy"
+    focus: "The red symbol emerging on the wall as act of rebellion"
+    depth: "Symbol being painted in foreground, dark alley receding, factory looming above"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Over Petronius Shoulder - Reading Nero's Death Warrant"
+  setting:
+    time: "65 CE, morning"
+    location: "Petronius villa receiving room, Carinae district Rome"
+    weather: "Bright morning light through villa windows"
+  characters:
+    - appearance: "Partial view of 40-45 year old elegant aristocrat, showing shoulder and part of refined profile"
+      clothing: "Impeccable refined attire - perfectly draped toga of finest fabrics visible at frame edge"
+      position: "Over-the-shoulder perspective, back of head and shoulder in foreground"
+      action: "Reading imperial death warrant delivered by Nero's messenger"
+    - appearance: "Imperial messenger in official Roman uniform partially visible in background"
+      clothing: "Red tunic with imperial insignia, bronze armor"
+      position: "Standing at formal attention in background"
+      action: "Waiting for response to delivered message"
+  scene:
+    mainElements: "Over-shoulder view of aristocratic philosopher receiving his death sentence from mad emperor, wax tablet with imperial seal visible in frame, messenger standing at attention in elegant villa setting."
+    details: "Elegant profile partially visible showing no fear or surprise, perfectly groomed hair and refined features, wax tablet with broken imperial seal held in well-manicured hands, formal messenger standing rigid in background, luxurious villa interior with artwork and fine furnishings, morning light streaming through windows creating dramatic lighting, no text or letters visible on tablet surface."
+    background: "Refined villa interior with columns, artwork, and luxury objects"
+    atmosphere: "Calm dignity facing death, intellectual superiority to imperial madness, aesthetic philosophy triumphing over brute power"
+  composition:
+    cameraAngle: "Over-the-shoulder shot following character's gaze to official document"
+    focus: "Wax tablet and hands in sharp focus, messenger and background clear but secondary"
+    depth: "Shoulder and head in immediate foreground, hands and tablet in middle, messenger and villa in background"

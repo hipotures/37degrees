@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 64 AD, early morning, first hour after sunrise
+    location: Public thermae complex, main caldarium chamber
+    weather: Cool morning air meeting warm steam, creating misty atmosphere
+  characters:
+  - appearance: Gaius Petronius, elegant man in his forties, refined patrician features, perfectly groomed graying hair
+    clothing: Finest linen bath wrap, gold rings on fingers, expensive perfumed oils nearby
+    position: Standing at edge of private heated pool in his luxurious villa
+    action: Contemplating philosophy and aesthetics while preparing for morning bath, embodying refined Roman culture
+  scene:
+    mainElements: Large heated pool with steam rising from surface, arched stone architecture, bronze heating pipes visible
+      along walls
+    details: Thick steam clouds catching early sunlight streaming through high windows, marble steps descending into water,
+      bronze oil strigils hanging from hooks, folded linens on stone benches, water drops condensing on stone walls, oil lamps
+      reflecting in pool surface
+    background: Vaulted ceiling with circular windows, hypocaust heating system pipes, distant doorways leading to other bath
+      chambers
+    atmosphere: Warm humid air thick with expensive perfumed steam, luxury and refinement contrasting with growing darkness
+      in empire, meditative quiet where arbiter of elegance contemplates beauty and decay
+  composition:
+    cameraAngle: Low angle from pool level looking up at figure
+    focus: Steam-shrouded figure backlit by window light
+    depth: Foreground steaming water surface, middle ground figure in mist, background arched architecture fading into steam
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Perfect Parisian Wives at Fashion Show"
+  setting:
+    time: "1947, afternoon"
+    location: "Grand salon of Dior fashion house on Avenue Montaigne in Paris, crystal chandeliers and gilded mirrors"
+    weather: "Bright spring day visible through tall windows"
+  characters:
+    - appearance: "group of elegantly dressed women in their 30s and 40s, perfectly coiffed hair, flawless makeup"
+      clothing: "New Look silhouettes - cinched waists with wide crinoline skirts, pearl necklaces, white gloves, small pillbox hats"
+      position: "seated in neat rows on gilded chairs"
+      action: "applauding politely as models parade past, maintaining rigid posture and practiced smiles"
+  scene:
+    mainElements: "Fashion runway with models displaying extreme feminine silhouettes, audience of upper-class women in identical poses of approval, male fashion designer taking bow at podium"
+    details: "Champagne flutes on silver trays untouched, programs held in gloved hands at precise angles, every woman's ankles crossed identically, not a hair out of place despite hours of sitting. Wall posters proclaim 'The Return of French Elegance' and 'Woman as Flower'"
+    background: "Ornate salon with baroque details, fashion journalists taking notes, waiters in formal attire standing at attention"
+    atmosphere: "Orchestrated perfection, synchronized feminine performance, underlying tension beneath polished surface"
+  composition:
+    cameraAngle: "Wide establishing shot from back of salon"
+    focus: "The uniform rows of women viewed from behind, all heads turned at same angle"
+    depth: "Models on runway in foreground, audience in middle ground, ornate architecture in background"

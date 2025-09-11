@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Lipstick Message on Mirror"
+  setting:
+    time: "1948, morning"
+    location: "Public ladies' powder room in Paris department store, art deco interior"
+    weather: "Not applicable - interior"
+  characters:
+    - appearance: "woman in late 20s quickly leaving, determined expression, flushed cheeks"
+      clothing: "typical day dress but slightly disheveled from haste, coat half-buttoned"
+      position: "heading toward exit"
+      action: "glancing back at mirror before leaving quickly"
+    - appearance: "several women at mirrors, various ages, initially focused on appearance"
+      clothing: "range of bourgeois attire, all properly dressed"
+      position: "at mirror stations, then turning to look"
+      action: "noticing message, showing mixed reactions of shock and recognition"
+  scene:
+    mainElements: "Ornate mirrors with one bearing message 'WE ARE NOT PROPERTY' in red lipstick, women's reactions ranging from scandal to secret agreement"
+    details: "Lipstick tube abandoned on counter like dropped weapon, one woman starting to wipe message then stopping, another taking small notebook from purse to copy words. Older woman looking scandalized calling for attendant, younger woman blocking her path 'accidentally'. Sign on wall reads 'Ladies Must Maintain Proper Appearance'"
+    background: "Luxurious powder room with velvet seats, gold fixtures, but also sense of it being a cage"
+    atmosphere: "Moment of rupture in accepted reality, dangerous truth spoken in safe space, solidarity flickering to life"
+  composition:
+    cameraAngle: "Wide shot showing mirror with message and various women's reactions"
+    focus: "The red lipstick words standing out against refined surroundings"
+    depth: "Message in foreground, women's varied reactions in middle, exit door in background"

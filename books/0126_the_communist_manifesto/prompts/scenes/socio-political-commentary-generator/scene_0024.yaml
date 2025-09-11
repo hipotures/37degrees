@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Specter Rising - Ultimate Revolutionary Vision"
+  setting:
+    time: "1848, dawn of revolution"
+    location: "Industrial city transformed by uprising"
+    weather: "Storm breaking, red dawn light piercing through"
+  characters:
+    - appearance: "Massive crowd of workers, thousands strong, all ages and genders"
+      clothing: "Work clothes with red cloth tied around arms"
+      position: "Rising up from factories and slums simultaneously"
+      action: "Marching forward with raised fists, chains breaking from wrists"
+    - appearance: "Bourgeoisie fleeing from their positions"
+      clothing: "Fine clothes in disarray, top hats falling, gold coins spilling from pockets"
+      position: "Retreating from advancing masses"
+      action: "Running in panic, abandoning their factories and banks"
+  scene:
+    mainElements: "Colossal red specter formed by collective mass of workers rising above city, chains shattering in air"
+    details: "Simple red cloth flag on wooden pole, no text or symbols, rough homemade fabric, frayed edges from use raised high above crowd. Factory gates bursting open from inside. Prison-like factory walls crumbling. Dawn light revealing masses emerging from every dark corner of city"
+    background: "Industrial infrastructure being reclaimed, smokestacks no longer belching smoke, new day dawning"
+    atmosphere: "Moment of historical rupture, old order collapsing, working class claiming its destiny"
+  composition:
+    cameraAngle: "Low angle making uprising appear titanic and inevitable"
+    focus: "The unstoppable tide of united workers breaking their chains"
+    depth: "Masses in foreground, crumbling old order in middle, red dawn in background"

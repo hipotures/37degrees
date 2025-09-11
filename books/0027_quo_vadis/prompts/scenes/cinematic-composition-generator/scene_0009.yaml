@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Petronius Writing Final Letter - Aesthetic's Last Words"
+  setting:
+    time: "65 CE, dawn of his planned suicide"
+    location: "Private study in Petronius villa, Carinae district Rome"
+    weather: "Pale early morning light through villa windows"
+  characters:
+    - appearance: "40-45 years old, tall slender elegant man with somewhat effeminate but graceful posture. More handsome than Winicjusz. Intelligent expressive face often bearing ironic smile or expression of weariness. Sharp witty hazel eyes 'gleaming with wit and merriment'. Well-groomed hands."
+      clothing: "Impeccable refined attire as 'arbiter of elegance'. Perfectly draped toga of finest fabrics (soft karbas). Always harmonious, avoiding Nero's vulgar ostentation."
+      position: "Medium shot showing torso and arms, seated at writing desk"
+      action: "Writing final letter to Nero with silver stylus, face showing mixture of contempt and weary resignation"
+  scene:
+    mainElements: "Sophisticated Roman aristocrat composing his final philosophical statement, choosing death on his own terms rather than submitting to tyranny, writing implements and luxury surrounding his act of ultimate defiance."
+    details: "Elegant hands holding silver stylus with practiced grace, wax writing tablet on polished wooden desk, face showing intellectual superiority and disdain for emperor, perfectly arranged hair and clothing despite approaching death, expensive writing materials including papyrus scrolls, precious stones and gold objects on desk, morning light revealing fine textures of fabrics, no text or letters visible."
+    background: "Refined villa interior with books, artwork, and aesthetic objects"
+    atmosphere: "Dignified defiance and intellectual superiority, beauty choosing destruction rather than corruption, philosophical acceptance of fate"
+  composition:
+    cameraAngle: "Medium shot at eye level capturing grace and dignity"
+    focus: "Hands and face in sharp focus, writing materials clear, background soft"
+    depth: "Figure and desk in foreground, villa interior elements in background"

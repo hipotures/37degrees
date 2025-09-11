@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 64 CE, dawn before mass arrests
+    location: Underground Christian meeting chamber, Ostrianum catacombs outside Rome
+    weather: Underground, lit by oil lamps and torches
+  characters:
+  - appearance: Hundreds of Christians of all ages kneeling in circular formation, faces upturned in prayer
+    clothing: Simple robes and tunics in earth tones, humble garments of various social classes united in faith
+    position: Arranged in concentric circles creating mandala pattern visible from above
+    action: Praying together before facing persecution, arms raised toward heaven
+  - appearance: Elderly man with face furrowed by wrinkles but expressing inspiration and spiritual authority. Gray-bearded
+      with penetrating eyes full of divine wisdom.
+    clothing: Simple poor robes of humble Christian leader - rough woolen garments in earth tones.
+    position: Center of circular formation, tiny figure in vast pattern
+    action: Leading final prayer and blessing before community faces martyrdom
+  scene:
+    mainElements: Extreme bird's eye view showing Christian community gathered in perfect circular formation for final prayer
+      before persecution, geometric pattern of faith creating mandala of souls prepared for martyrdom.
+    details: Circular stone chamber carved from living rock, hundreds of figures arranged in perfect concentric circles, upturned
+      faces reflecting warm lamplight, arms raised in prayer creating radial pattern, Apostle Peter at center like hub of
+      spiritual wheel, oil lamps and torches positioned around chamber walls, carved Christian symbols visible on stone surfaces,
+      shadows and light creating sacred geometry, no text or letters visible.
+    background: Stone catacomb walls with burial niches and Christian symbols
+    atmosphere: Unity in faith facing persecution, divine perspective on human suffering, sacred geometry of spiritual community
+  composition:
+    cameraAngle: Extreme high angle bird's eye view emphasizing pattern and community
+    focus: Entire circular formation in sharp focus showing geometric perfection
+    depth: Figures and floor pattern in primary plane, chamber walls creating circular boundary
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

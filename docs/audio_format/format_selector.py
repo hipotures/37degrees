@@ -11,7 +11,7 @@ FORMATS = [
     "Lokalny i Globalny",
     "Fan i Nowicjusz",
     "Perspektywa Ona/On",
-    "Wykład filologiczny",
+    "Wykład filologiczny w duecie",
     "Glosa do przekładów",
     "Komentarz historyczno-literacki",
 ]
@@ -164,7 +164,9 @@ def main(inp, outp):
             for i in range(1,13):
                 row[f"eligible_{i:02d}"] = 1 if i in elig else 0
                 row[f"weighted_{i:02d}"] = weighted[i]
-            w.writerow(row)
+            # Remove any None keys before writing
+            clean_row = {k: v for k, v in row.items() if k is not None}
+            w.writerow(clean_row)
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:

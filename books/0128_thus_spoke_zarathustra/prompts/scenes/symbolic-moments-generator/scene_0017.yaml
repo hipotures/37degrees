@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Clouds Forming Human Shapes"
+  setting:
+    time: "mythical era, afternoon before storm"
+    location: "high mountain ridge exposed to sky"
+    weather: "massive thunderheads building, wind rising"
+  characters:
+    - appearance: "elderly man in his sixties with deeply lined face, white hair flowing to shoulders, white beard reaching chest, penetrating pale gray eyes"
+      clothing: "weathered brown woolen robe with visible patches, frayed hemp rope belt, worn leather sandals"
+      position: "standing on ridge watching sky"
+      action: "arms spread wide as if conducting the storm, robes and hair whipping in wind"
+  scene:
+    mainElements: "bare mountain ridge, massive storm clouds, approaching tempest"
+    details: "towering cumulonimbus clouds forming shapes of giant figures wrestling in sky, lightning flickering between cloud-figures like synapses, smaller clouds racing past at lower altitude, grass flattened by wind, rocks humming with static electricity, hair standing on end from charged atmosphere, eagle struggling against wind then diving for shelter, no text or letters visible"
+    background: "darkening sky, distant valleys already in shadow of storm"
+    atmosphere: "electric tension, ozone smell, pressure dropping rapidly"
+  composition:
+    cameraAngle: "low angle making clouds appear enormous and figure small"
+    focus: "storm clouds as manifestation of inner turmoil and conflict"
+    depth: "figure on ridge foreground, massive cloud formations filling entire sky"

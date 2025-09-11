@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sword and Olive Branch at Mountain Crossroads"
+  setting:
+    time: "mythical era, noon"
+    location: "crossroads where three mountain paths meet"
+    weather: "harsh sunlight creating sharp shadows"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing at exact center where paths converge"
+      action: "looking down at objects placed at junction of three paths"
+  scene:
+    mainElements: "three distinct paths leading in different directions, stone cairn at center"
+    details: "ancient iron sword thrust into ground pointing upward, olive branch with silver leaves draped across sword hilt, their shadows forming dark cross on ground, three paths - one ascending steeply upward, one descending into valley, one following ridge line, small wildflowers growing around sword base, lizard sunning on flat rock nearby, no text or letters visible"
+    background: "each path disappearing into different landscape - peaks, forest, desert"
+    atmosphere: "intense clarity of decision point, wind from three directions meeting"
+  composition:
+    cameraAngle: "aerial view showing Y-shaped junction with figure at center"
+    focus: "sword and olive branch as conflicting symbols of power and peace"
+    depth: "crossroads in foreground, three paths radiating outward, varied terrains background"

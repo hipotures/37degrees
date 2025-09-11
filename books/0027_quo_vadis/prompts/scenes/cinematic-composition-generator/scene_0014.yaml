@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Through Ursus Eyes - Protecting Sacred Innocence"
+  setting:
+    time: "64 CE, night"
+    location: "Dark Roman street near Christian safe house, Trastevere district"
+    weather: "Moonless night with deep shadows"
+  characters:
+    - appearance: "Massive hands and forearms of 30-40 year old giant visible in frame bottom, incredible muscular development"
+      clothing: "Simple servant's garment visible at frame edges"
+      position: "POV perspective from great height looking down at threat"
+      action: "Preparing to defend Ligia from approaching Roman soldiers"
+    - appearance: "16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed for a kiss'."
+      clothing: "Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry, perhaps simple pearl necklace. Hair often braided or partially loose."
+      position: "Center of frame, appearing vulnerable and small from giant's perspective"
+      action: "Pressed against wall in fear as soldiers approach with torches"
+  scene:
+    mainElements: "Over-shoulder view from giant's perspective showing delicate Christian girl threatened by armored Roman soldiers with torches, protective instincts of faithful guardian activated by danger to innocent charge."
+    details: "Enormous hands and arms visible in foreground showing superhuman strength, Ligia appearing small and vulnerable in white robes against dark stone wall, Roman soldiers approaching with flickering torches and drawn swords creating menacing silhouettes, narrow alley creating trapped feeling, dramatic contrast between massive protector and fragile protected, shadows and torchlight creating chiaroscuro effect, no text or letters visible."
+    background: "Narrow Roman street with tall buildings creating canyon effect"
+    atmosphere: "Protective fury and righteous anger, gentle giant transformed into avenging angel, innocence threatened by corrupt power"
+  composition:
+    cameraAngle: "Over-shoulder POV from elevated position emphasizing size difference"
+    focus: "Ligia and approaching soldiers in sharp focus, giant's arms clear in foreground"
+    depth: "Massive arms in immediate foreground, Ligia in middle distance, soldiers approaching from background"

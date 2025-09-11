@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silent Pressure of Victorian Conformity at Tea Service"
+  setting:
+    time: "1859, afternoon"
+    location: "Interior of London townhouse parlor, heavy mahogany furniture, dark green wallpaper with repeating floral pattern"
+    weather: "Pale sunlight through lace curtains"
+  characters:
+    - appearance: "Woman in her 20s with long auburn hair worn loose to shoulders, clear complexion, expressive green eyes, slender artistic build"
+      clothing: "Flowing sage green wool dress without corset, medieval-inspired wide sleeves, embroidered leather belt at natural waist, soft leather shoes"
+      position: "Seated stiffly on edge of sofa"
+      action: "Hands clenched in lap, chin raised defiantly despite discomfort"
+    - appearance: "Four Victorian women in their 40s-50s, identical postures"
+      clothing: "Dark silk day dresses with tight corsets, elaborate bonnets, gloves"
+      position: "Arranged in judgment formation around the nonconformist"
+      action: "Synchronized tea sipping, eyes fixed disapprovingly on young woman"
+  scene:
+    mainElements: "Horsehair sofa with antimacassars, marble fireplace with coal fire, heavy velvet curtains blocking daylight, glass-fronted bookcase, ornate mantelpiece clock"
+    details: "Five teacups but only four being used - the fifth sits untouched before the nonconformist woman. The matrons' hands move in eerie unison lifting cups. Their eyes never leave the young woman's unconventional dress. Clock ticks loudly in the silence."
+    background: "Oppressive enclosed space, air thick with coal smoke and beeswax polish, dim gaslight creating deep shadows"
+    atmosphere: "Suffocating silent judgment, social ostracism without words, crushing weight of unspoken disapproval"
+  composition:
+    cameraAngle: "Close-up on hands - clenched versus synchronized teacup lifting"
+    focus: "Contrast between tense hands and mechanical tea ritual"
+    depth: "Hands in foreground, faces blurred but watching in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Silenced Library"
+  setting:
+    time: "1848, morning"
+    location: "Public library in Dresden, Saxony"
+    weather: "Bright sunlight through tall windows illuminating dust motes"
+  characters:
+    - appearance: "Elderly librarian, thin and nervous, constantly looking over shoulder"
+      clothing: "Worn black coat, wire spectacles, ink-stained fingers"
+      position: "Standing among empty shelves"
+      action: "Hastily removing books and placing them in wooden crates marked 'Prohibited'"
+    - appearance: "Young intellectual, man in his 20s, eager but frustrated expression"
+      clothing: "Student's dark coat, worn at elbows, carrying leather satchel"
+      position: "Standing before empty shelves"
+      action: "Running fingers along bare shelves where books once stood"
+  scene:
+    mainElements: "Library hall with row after row of increasingly empty bookshelves, gaps like missing teeth where volumes removed"
+    details: "Faded rectangles on shelves showing where books previously stood. List of banned authors posted on wall growing longer daily. Locked cage containing 'restricted' materials. Burn marks visible in courtyard through window from book burning"
+    background: "Once-grand reading room with ornate ceiling now echoing and empty, tables without readers, abandoned card catalogs"
+    atmosphere: "Intellectual emptiness, knowledge being systematically erased, quiet terror of censorship"
+  composition:
+    cameraAngle: "Wide shot down long corridor of depleted shelves"
+    focus: "The shocking gaps and empty shelves dominating the space"
+    depth: "Empty shelves receding into distance, lone figure dwarfed by absent knowledge"

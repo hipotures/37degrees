@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 65 CE, morning
+    location: Petronius villa receiving room, Carinae district Rome
+    weather: Bright morning light through villa windows
+  characters:
+  - appearance: Partial view of 40-45 year old elegant aristocrat, showing shoulder and part of refined profile
+    clothing: Impeccable refined attire - perfectly draped toga of finest fabrics visible at frame edge
+    position: Over-the-shoulder perspective, back of head and shoulder in foreground
+    action: Reading imperial death warrant delivered by Nero's messenger
+  - appearance: Imperial messenger in official Roman uniform partially visible in background
+    clothing: Red tunic with imperial insignia, bronze armor
+    position: Standing at formal attention in background
+    action: Waiting for response to delivered message
+  scene:
+    mainElements: Over-shoulder view of aristocratic philosopher receiving his death sentence from mad emperor, wax tablet
+      with imperial seal visible in frame, messenger standing at attention in elegant villa setting.
+    details: Elegant profile partially visible showing no fear or surprise, perfectly groomed hair and refined features, wax
+      tablet with broken imperial seal held in well-manicured hands, formal messenger standing rigid in background, luxurious
+      villa interior with artwork and fine furnishings, morning light streaming through windows creating dramatic lighting,
+      no text or letters visible on tablet surface.
+    background: Refined villa interior with columns, artwork, and luxury objects
+    atmosphere: Calm dignity facing death, intellectual superiority to imperial madness, aesthetic philosophy triumphing over
+      brute power
+  composition:
+    cameraAngle: Over-the-shoulder shot following character's gaze to official document
+    focus: Wax tablet and hands in sharp focus, messenger and background clear but secondary
+    depth: Shoulder and head in immediate foreground, hands and tablet in middle, messenger and villa in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

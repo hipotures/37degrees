@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror Reflecting Truth in Forest Clearing"
+  setting:
+    time: "mythical era, late afternoon with golden light"
+    location: "small meadow surrounded by dark pine forest in mountain foothills"
+    weather: "warm with gentle breeze"
+  characters:
+    - appearance: "boy of sixteen with sun-bronzed skin, tousled brown hair, wide terrified eyes"
+      clothing: "simple undyed wool tunic, rough leather belt, bare feet"
+      position: "standing in meadow center holding ornate bronze mirror"
+      action: "gazing into mirror surface with expression of recognition and fear"
+  scene:
+    mainElements: "circle of ancient trees, soft grass, fallen logs, wildflowers"
+    details: "ornate bronze hand mirror with serpent motif around rim, polished surface reflecting boy's face transformed into grimacing demon mask, scattered sheep grazing at meadow edges, butterflies hovering over wildflowers, single black crow perched on dead branch watching, no text or letters visible"
+    background: "dark forest depths between tree trunks, mountains visible through gap in canopy"
+    atmosphere: "dappled sunlight through branches, birdsong, smell of pine resin"
+  composition:
+    cameraAngle: "close-up over shepherd's shoulder showing mirror and reflection"
+    focus: "the mirror surface revealing hidden truth about innocence and evil"
+    depth: "mirror and hands in foreground, boy's face mid-ground, forest darkness background"

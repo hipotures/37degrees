@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Labyrinth of Mountain Paths in Fog"
+  setting:
+    time: "mythical era, dawn in thick fog"
+    location: "narrow rocky trail winding through Alpine peaks above treeline"
+    weather: "dense fog limiting visibility to few feet"
+  characters:
+    - appearance: "man in his forties with weathered face, deep-set piercing blue eyes, prominent cheekbones, angular features marked by years of mountain solitude"
+      clothing: "rough gray-brown woolen robe reaching to ankles, simple rope belt tied at waist, bare feet on rocky ground"
+      position: "standing still on narrow path in fog"
+      action: "holding staff forward like blind man feeling way through mist"
+  scene:
+    mainElements: "loose scree slopes, exposed cliff edges, distant snow-capped summits"
+    details: "multiple paths visible as shadows in fog, branching and rejoining randomly, cairns of stacked stones appearing and disappearing in mist, sound of falling rocks from invisible heights, own footprints visible crossing path from different direction, spider webs heavy with dew spanning across trail, ghostly shapes of rock formations looming and vanishing, no text or letters visible"
+    background: "impenetrable wall of gray fog in all directions"
+    atmosphere: "thin air, harsh sunlight, vertigo-inducing drops into misty valleys"
+  composition:
+    cameraAngle: "following behind figure showing limited visibility ahead"
+    focus: "confusion and disorientation of endless paths leading nowhere"
+    depth: "immediate path sharp, everything beyond fading into gray nothing"

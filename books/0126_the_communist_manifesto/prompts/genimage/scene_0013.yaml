@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1848, morning
+    location: State industrial school, Birmingham
+    weather: Gray overcast day visible through high windows
+  characters:
+  - appearance: Rows of children aged 6-12, all with shaved heads, pale from lack of sunlight
+    clothing: Identical gray smocks with numbers, no individual markings
+    position: Sitting in perfectly aligned rows at wooden desks
+    action: Moving hands in unison practicing factory motions, not writing
+  - appearance: Stern schoolmaster with military bearing
+    clothing: Black coat, holding long wooden pointer
+    position: Standing at front before diagram of factory machine
+    action: Directing children's movements like orchestra conductor
+  scene:
+    mainElements: Classroom designed like factory floor, desks bolted to floor in grid pattern, industrial diagrams on walls
+      instead of maps
+    details: Blackboard showing not alphabet but factory shift schedules. Children practicing threading motions, lever-pulling
+      movements. Sign reading 'Individuality is Inefficiency'. Windows placed too high to see outside
+    background: Walls covered with rules and regulations, portrait of factory owner instead of educational figures
+    atmosphere: Education perverted into training for servitude, childhood erased in preparation for life as industrial drone
+  composition:
+    cameraAngle: High angle showing geometric arrangement of identical children
+    focus: The military precision of children's synchronized movements
+    depth: Rows of children receding to back wall, individuality lost in uniformity
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

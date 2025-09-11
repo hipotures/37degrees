@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mill's Final Victory - Standing Before Transformed Parliament"
+  setting:
+    time: "1868, afternoon"
+    location: "Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows"
+    weather: "Golden afternoon light through windows"
+  characters:
+    - appearance: "Man in his 60s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven face showing signs of intellectual strain, high forehead"
+      clothing: "Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark gray waistcoat with subtle pattern, black wool trousers without crease"
+      position: "Standing at dispatch box, surrounded by supporters"
+      action: "Holding newly passed reform legislation, quiet satisfaction on face"
+    - appearance: "Diverse group of new MPs including working class members"
+      clothing: "Mix of traditional parliamentary dress and simpler attire"
+      position: "Filling previously exclusive benches"
+      action: "Applauding, representing broadened democracy"
+  scene:
+    mainElements: "Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass, press gallery above"
+    details: "Chamber now includes working-class MPs for first time. Women watching from gallery (though not yet members). Copy of 'On Liberty' visible on multiple desks. Old guard sits diminished in corner. Light streams through windows illuminating changed chamber."
+    background: "Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling"
+    atmosphere: "Transformation achieved, ideas becoming reality, democracy expanded through principled argument"
+  composition:
+    cameraAngle: "Wide triumphant shot of transformed chamber"
+    focus: "Mill at center of changed Parliament"
+    depth: "Mill in foreground, diverse new Parliament, observers in gallery including women"

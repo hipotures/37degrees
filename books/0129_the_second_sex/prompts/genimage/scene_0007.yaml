@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1947, morning
+    location: Gothic Catholic church in Paris, dark wood confessional booth
+    weather: Dim light filtering through stained glass
+  characters:
+  - appearance: young married woman in late 20s, anxious expression, fidgeting hands
+    clothing: conservative black dress, lace mantilla covering hair, rosary beads
+    position: kneeling in confessional booth
+    action: speaking through wooden screen, head bowed
+  scene:
+    mainElements: Ornate confessional booth with carved religious imagery, thin wooden screen separating penitent from priest,
+      shadow of priest visible through screen
+    details: Woman's wedding ring catching light as she clutches rosary, tears on her cheeks, priest's shadow leaning forward
+      to hear better. Carved angels on confessional seem to watch. List of sins posted on wall includes 'refusing marital
+      duties' and 'preventing conception'. Other women waiting in line outside, heads bowed
+    background: Church interior with vaulted ceilings, stations of the cross on walls, candles flickering
+    atmosphere: Spiritual surveillance, intimate thoughts extracted as obligation, guilt as control mechanism
+  composition:
+    cameraAngle: Side view through open church, showing profile through confessional's carved openwork
+    focus: Woman's face in profile through wooden screen, priest's shadow beyond
+    depth: Confessional booth in foreground, church nave receding into darkness
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

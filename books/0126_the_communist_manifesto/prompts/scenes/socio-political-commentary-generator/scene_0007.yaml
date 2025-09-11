@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Street Corner Surveillance State"
+  setting:
+    time: "1848, evening"
+    location: "Intersection of workers' district and commercial zone, Brussels"
+    weather: "Light rain creating reflective surfaces on cobblestones"
+  characters:
+    - appearance: "Stern man in his 50s, gray hair and mustache, rigid military bearing, cold calculating eyes"
+      clothing: "Dark blue military-style uniform with gold buttons and epaulettes, white gloves, ceremonial sword at hip, peaked cap with insignia"
+      position: "Standing under gas lamp at corner"
+      action: "Writing in notebook while observing passing workers"
+    - appearance: "Group of exhausted workers returning home - men and women of various ages"
+      clothing: "Wet, worn work clothes, some carrying lunch pails"
+      position: "Walking past with heads down"
+      action: "Avoiding eye contact with guard, speaking in whispers"
+  scene:
+    mainElements: "Guard post box at strategic corner, multiple gas lamps creating pools of light eliminating shadows, official notice board with state proclamations"
+    details: "Rain-slicked streets reflecting lamplight. Notice board displaying new regulations and curfew times. Small mirror mounted on corner allowing guard to see around building. Padlocked metal box for anonymous denunciations"
+    background: "Workers' tenements on one side, shops with iron shutters on other, church spire with clock visible showing approaching curfew hour"
+    atmosphere: "Oppressive watchfulness, public space transformed into surveillance checkpoint, fear palpable in workers' hunched postures"
+  composition:
+    cameraAngle: "Street level showing intersection from worker's anxious perspective"
+    focus: "Guard's watchful presence dominating the intersection"
+    depth: "Guard and lamp post in foreground, passing workers in middle, converging streets disappearing into darkness"

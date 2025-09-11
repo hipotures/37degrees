@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rally of the Righteous Exploiters"
+  setting:
+    time: "1848, Sunday afternoon"
+    location: "Grand civic hall, Munich"
+    weather: "Bright day outside, heavy curtains drawn"
+  characters:
+    - appearance: "Prosperous middle-aged man, 45-50 years old, well-fed physique, confident posture, clean-shaven face with prominent sideburns"
+      clothing: "Dark wool tailcoat with silk lapels, white starched shirt with high collar, ornate silk waistcoat with gold watch chain, black trousers with satin stripe, polished leather boots, tall black top hat"
+      position: "Speaking from ornate podium with passion"
+      action: "Arms raised, preaching about divine right of capital"
+    - appearance: "Audience of mixed bourgeoisie and forced attendance workers"
+      clothing: "Front rows in fine dress, back rows in work clothes"
+      position: "Seated in hierarchical arrangement by class"
+      action: "Wealthy applauding enthusiastically, workers sitting silent"
+  scene:
+    mainElements: "Opulent hall with gilded decorations, massive chandelier, stage with industrial and religious symbols merged"
+    details: "Banner reading 'God Blessed the Industrious' hanging above stage. Stained glass windows depicting factories as cathedrals. Collection plates being passed for 'worker education fund' (actually owner profits). Workers in back forced to stand for anthem about joy of labor"
+    background: "Portraits of industrial magnates painted like saints with halos of gold coins"
+    atmosphere: "Perverse merger of capitalism and religion, wealth worship disguised as righteousness"
+  composition:
+    cameraAngle: "Side view showing class stratification in seating"
+    focus: "The preacher-capitalist as false prophet of prosperity gospel"
+    depth: "Podium and speaker, divided audience, ostentatious decorations"

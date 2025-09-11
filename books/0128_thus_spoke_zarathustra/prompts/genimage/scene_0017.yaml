@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: mythical era, afternoon before storm
+    location: high mountain ridge exposed to sky
+    weather: massive thunderheads building, wind rising
+  characters:
+  - appearance: elderly man in his sixties with deeply lined face, white hair flowing to shoulders, white beard reaching chest,
+      penetrating pale gray eyes
+    clothing: weathered brown woolen robe with visible patches, frayed hemp rope belt, worn leather sandals
+    position: standing on ridge watching sky
+    action: arms spread wide as if conducting the storm, robes and hair whipping in wind
+  scene:
+    mainElements: bare mountain ridge, massive storm clouds, approaching tempest
+    details: towering cumulonimbus clouds forming shapes of giant figures wrestling in sky, lightning flickering between cloud-figures
+      like synapses, smaller clouds racing past at lower altitude, grass flattened by wind, rocks humming with static electricity,
+      hair standing on end from charged atmosphere, eagle struggling against wind then diving for shelter, no text or letters
+      visible
+    background: darkening sky, distant valleys already in shadow of storm
+    atmosphere: electric tension, ozone smell, pressure dropping rapidly
+  composition:
+    cameraAngle: low angle making clouds appear enormous and figure small
+    focus: storm clouds as manifestation of inner turmoil and conflict
+    depth: figure on ridge foreground, massive cloud formations filling entire sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues and violets
+    - gold and old gold
+    - dark greens
+    - blood red
+    secondary:
+    - pearl white
+    - ivory shades
+    - dark brown
+    background: dreamlike landscapes, dark interiors, undefined space
+    usageNotes: Colors build mood and have symbolic meaning, need not be realistic.
+    saturation: often muted, except for symbolic bright accents
+    contrast: medium to high, often with large dark areas
+  lineArt:
+    style: flowing, elegant contour, but often fading into darkness
+    weight: varied, from delicate to strong
+    color: integrated with color patches
+    texture: smooth, but rich in ornamental details
+    edgeTreatment: soft, often blurred edges
+  lighting:
+    type: mysterious, unnatural, often spotlights or inner glow
+    direction: undefined, building atmosphere of mystery
+    intensity: low, with dramatic bright points
+    shadows:
+      style: deep, soft, enveloping figures
+      color: dark browns, violets, blues
+      opacity: heavy, impenetrable
+    highlights: luminous halos, magical glow, golden details
+  rendering:
+    technique: oil painting with attention to detail but soft modeling
+    texture: rich textures of fabrics, jewelry, feathers
+    detailLevel: high in symbolic details, background often simplified
+    finish: matte or satin, with shimmering accents
+  perspective: often flattened, decorative, subordinated to symbolic composition
+  mood:
+    overall: mysterious, atmospheric, literary
+    emotion: melancholy, longing, spirituality, unease
+    tempo: slow, contemplative
+    keywords:
+    - atmospheric
+    - mystical
+    - dreamlike
+    - symbolic
+    - decadent
+  stylePrecedents:
+  - Gustave Moreau
+  - Odilon Redon
+  - Arnold Böcklin
+  - Jacek Malczewski
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

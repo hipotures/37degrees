@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Through Winicjusz Eyes - Discovering Christian Underground"
+  setting:
+    time: "64 CE, late night"
+    location: "Ostrianum underground cemetery, network of burial tunnels outside Rome"
+    weather: "Underground, flickering torchlight"
+  characters:
+    - appearance: "Partially visible hands of 25-28 year old Roman patrician entering frame bottom, olive-toned skin tanned from military campaigns"
+      clothing: "Simple dark cloak visible at frame edges"
+      position: "POV perspective - viewer sees through his eyes as he peers into underground chamber"
+      action: "Cautiously approaching hidden Christian gathering through narrow tunnel entrance"
+  scene:
+    mainElements: "Point-of-view shot through tunnel opening into circular underground chamber where Christians secretly worship, torchlight revealing crowded faithful in prayer, apostolic figure visible in center addressing congregation."
+    details: "Hands visible at frame bottom steadying against rough stone tunnel walls, circular vignette effect from tunnel opening, flickering torch flames creating dancing shadows on carved stone walls, dozens of Christian faces illuminated by warm light, simple robes and humble appearance of worshippers, elderly bearded figure (Apostle Peter) speaking with authority, Christian symbols carved in stone, no text or letters visible."
+    background: "Deep catacomb tunnels extending beyond main chamber"
+    atmosphere: "Secretive discovery and spiritual awakening, hidden world revealed, sense of danger and forbidden knowledge"
+  composition:
+    cameraAngle: "POV shot through circular tunnel opening creating natural vignette frame"
+    focus: "Christian gathering in sharp focus through opening, tunnel walls slightly blurred"
+    depth: "Tunnel walls in immediate foreground, gathering in middle distance, deep catacombs beyond"

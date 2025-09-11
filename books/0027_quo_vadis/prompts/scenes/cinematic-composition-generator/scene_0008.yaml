@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Winicjusz in Villa Bath - Roman Patrician's Contemplation"
+  setting:
+    time: "63 CE, late morning"
+    location: "Tepidarium of Petronius villa on Carinae hill, Rome"
+    weather: "Bright natural light through roof openings"
+  characters:
+    - appearance: "25-28 years old, tall athletic man with powerful harmoniously built physique, muscular arms and legs hardened by military campaigns. Regular masculine features with defined jaw, beautiful expressive eyes under dark bushy brows. Dark short curly hair typical of Romans. Olive-toned skin tanned from Asian war campaigns. Moves with springy energetic soldier's stride."
+      clothing: "Naked torso showing battle scars and military conditioning, white linen towel draped around waist"
+      position: "Medium shot showing head, shoulders and torso, seated on marble bench"
+      action: "Staring intensely into distance with troubled expression, clenched fists showing inner turmoil"
+  scene:
+    mainElements: "Roman patrician warrior in luxurious bath setting struggling with internal conflict about his desires and changing values, body language revealing emotional tension despite peaceful surroundings."
+    details: "Tanned muscular torso with old campaign scars visible, hands gripping marble bench edge showing white knuckles, jaw muscles tensed, eyes focused on unseen distance suggesting deep thought, water droplets on skin catching light, elegant marble and mosaic surroundings contrasting with his agitation, steam rising from warm pools, no text or letters visible."
+    background: "Elegant bath complex with marble columns, mozaic floors, and fountains"
+    atmosphere: "Internal struggle between Roman pride and growing spiritual awakening, luxury unable to provide peace, masculine strength confronting emotional vulnerability"
+  composition:
+    cameraAngle: "Medium shot at slight low angle emphasizing physical strength"
+    focus: "Face and torso in sharp focus, background architecture softly focused"
+    depth: "Figure in foreground, bath elements in middle ground, columns in background"

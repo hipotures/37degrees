@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Alone in the Crowd of Wives"
+  setting:
+    time: "1949, afternoon"
+    location: "Church social hall in affluent Paris district, decorated for charity luncheon"
+    weather: "Spring day visible through tall windows"
+  characters:
+    - appearance: "group of 20 married women in their 30s-40s, perfectly styled, maintaining bright expressions"
+      clothing: "elegant day dresses, pearls, gloves, small hats, wedding rings prominent"
+      position: "seated at round tables with fine china and flowers"
+      action: "engaged in animated but hollow conversation about domestic matters"
+    - appearance: "one woman in center showing moment of clarity, seeing through facade"
+      clothing: "elegant day dress in muted blue, pearl necklace, white gloves, small navy hat, slightly disheveled from distraction"
+      position: "seated among others but psychologically apart"
+      action: "staring into middle distance while others chatter around her"
+  scene:
+    mainElements: "Elaborately set tables with charity auction items, banner reading 'Ladies Auxiliary Society', women performing social rituals while one experiences existential isolation"
+    details: "Conversation topics visible on program: 'New Curtain Patterns', 'Managing Domestic Staff', 'Planning Perfect Dinner Parties'. Woman in focus has untouched plate, her smile fading when unobserved, wedding ring turned inward on finger. Others don't notice her withdrawal, continuing performance of contentment"
+    background: "Portrait of male patron saint on wall, husbands' corporate achievements listed on donor wall"
+    atmosphere: "Loneliness within conformity, existential crisis amid social ritual, invisible suffering in public spaces"
+  composition:
+    cameraAngle: "Medium shot centered on isolated woman with others blurred around her"
+    focus: "The single woman's face showing dawning awareness amid collective denial"
+    depth: "Woman sharp in center, surrounding wives becoming progressively blurred, suggesting psychological distance"

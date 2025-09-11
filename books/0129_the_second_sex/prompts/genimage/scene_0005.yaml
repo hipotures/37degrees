@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1949, late afternoon
+    location: Public square in Paris with newly unveiled monument, government buildings surrounding
+    weather: Golden hour sunlight casting long shadows
+  characters:
+  - appearance: crowd of officials and citizens, mix of ages, formal attire
+    clothing: men in dark suits and hats, women in conservative dresses and gloves
+    position: gathered in semicircle around monument
+    action: applauding as velvet curtain is pulled away from statue
+  scene:
+    mainElements: Large bronze statue depicting idealized mother figure - woman holding infant while stirring pot, two children
+      clinging to her skirts, expression of serene devotion
+    details: Statue base inscribed 'To the Mothers of France - Guardians of the Hearth'. Government officials on platform
+      giving speeches, photographers capturing moment, women in crowd dabbing eyes with handkerchiefs. French flags flanking
+      the monument. One young woman at edge of crowd not applauding, looking thoughtful
+    background: Imposing government buildings, French tricolor flags, pigeons perched on surrounding architecture
+    atmosphere: State-sanctioned celebration of feminine sacrifice, public glorification of domestic imprisonment
+  composition:
+    cameraAngle: Low angle looking up at monument
+    focus: The towering bronze mother figure dominating the frame
+    depth: Monument in foreground, crowd in middle ground, institutional buildings looming in background
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

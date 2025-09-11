@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1860, midnight
+    location: Modest bedroom in London boarding house, simple furnishings
+    weather: Clear night, moon visible through window
+  characters:
+  - appearance: Woman in her 20s, determined expression, hair in simple bun, ink stains on fingers
+    clothing: Plain white nightgown, shawl around shoulders
+    position: Hunched over small writing desk by window
+    action: Writing urgently by candlelight, referencing open book
+  scene:
+    mainElements: Small wooden desk, single candle, narrow bed, simple wardrobe, water basin
+    details: Copy of 'On Liberty' propped open beside her paper. She writes 'A Vindication of Women's Education'. Candle wax
+      drips forming small mountain. Moon and candle provide only light. Stack of crossed-out drafts shows hours of work.
+    background: Quiet boarding house, distant church bells chiming hours
+    atmosphere: Secret intellectual rebellion, ideas sparking action, next generation taking up cause
+  composition:
+    cameraAngle: Intimate close-up from side
+    focus: Her determined face lit by candle, pen moving across paper
+    depth: Writing materials in foreground, her concentrated face, moonlit window behind
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

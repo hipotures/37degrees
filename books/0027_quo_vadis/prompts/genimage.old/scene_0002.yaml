@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 64 AD, dawn breaking, golden rays of early morning sun
+    location: Interior of patrician villa, atrium with central impluvium pool
+    weather: Clear morning with gentle warmth beginning to penetrate stone walls
+  characters:
+  - appearance: Lygia, young woman of twenty, princess of Lugii tribe, delicate Germanic features, long blonde hair in simple
+      braid
+    clothing: Simple white linen tunic, no jewelry except small fish pendant hidden beneath fabric, bare feet
+    position: Kneeling beside impluvium pool in Plautius household atrium
+    action: Drawing sign of fish in water surface while whispering Christian prayer, early morning devotion
+  scene:
+    mainElements: Rectangular impluvium pool reflecting morning light, marble columns supporting roof opening, geometric mosaic
+      floor patterns in black and white
+    details: Golden sunbeams streaming through compluvium opening casting long diagonal shadows across floor, oil lamps still
+      burning in wall niches, fish symbol briefly visible in rippling water before fading, bronze brazier with dying embers,
+      carved marble dolphins at pool corners, Christian cross scratched faintly into marble edge
+    background: Doorways leading to other rooms showing glimpses of furniture and wall paintings, garden courtyard visible
+      through colonnade with morning light on plants
+    atmosphere: Peaceful morning ritual, soft interplay of light and shadow on marble surfaces, cool stone contrasting with
+      warming air, gentle sounds of water drops echoing
+  composition:
+    cameraAngle: Medium shot from across the pool, slightly elevated
+    focus: Figure reflected in pool water with golden light streaming around her
+    depth: Foreground pool reflections, middle ground kneeling figure and columns, background garden courtyard in soft morning
+      light
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ligia's Pure Faith - Innocent Eyes in Corrupt World"
+  setting:
+    time: "63 CE, morning prayer time"
+    location: "Hidden Christian meeting room in Trastevere district, Rome"
+    weather: "Soft natural light filtering through small window"
+  characters:
+    - appearance: "16-18 years old, tall slender young woman with supple harmonious silhouette and girlish grace. Extraordinarily lush dark hair with amber or Corinthian copper sheen in light. Large blue eyes 'like azure seas' expressing innocence but inner strength. Delicate regular features with 'alabaster' complexion that blushes easily. Fresh lips 'as if composed for a kiss'."
+      clothing: "Simple noble garments - white peplum or sleeveless tunicas in light delicate colors (gold, white). Minimal jewelry, perhaps simple pearl necklace. Hair often braided or partially loose."
+      position: "Face fills frame with eyes positioned on upper third line, hands visible at frame bottom"
+      action: "Praying silently with eyes closed in deep spiritual concentration, small tear of devotion forming at corner of eye"
+  scene:
+    mainElements: "Extreme close-up capturing spiritual intensity and purity of young Christian woman in prayer, single tear track reflecting soft window light down alabaster cheek."
+    details: "Closed eyelids showing long dark lashes, peaceful expression of absolute faith, barely visible hair texture catching light, natural skin texture without artifice, hands in prayer position blurred at bottom edge, soft natural lighting from single source, no text or letters visible."
+    background: "Softly blurred earthen walls and simple Christian symbols, warm unfocused light"
+    atmosphere: "Sacred intimacy and spiritual purity, sense of divine connection, innocence preserved despite surrounding corruption"
+  composition:
+    cameraAngle: "Extreme close-up, slight low angle emphasizing nobility of spirit"
+    focus: "Eyes and tear in sharp focus, hands and background soft"
+    depth: "Face in extreme foreground, everything else in soft shallow focus"

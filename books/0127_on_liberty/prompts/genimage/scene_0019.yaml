@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1861, evening
+    location: Neo-Gothic interior of Palace of Westminster, London, green leather benches arranged in opposing rows
+    weather: Storm outside matching interior tension
+  characters:
+  - appearance: Man in his 50s with intense analytical eyes, pale complexion from long hours of indoor study, clean-shaven
+      face showing signs of intellectual strain, high forehead
+    clothing: Dark wool frock coat reaching to knees, white linen shirt with high collar, dark silk cravat neatly tied, dark
+      gray waistcoat with subtle pattern, black wool trousers without crease
+    position: Standing triumphant at dispatch box
+    action: Holding passed reform bill aloft, exhausted but victorious
+  - appearance: Mixed group of MPs, various ages
+    clothing: Parliamentary formal wear in blacks and browns
+    position: Some standing applauding, others seated in defeat
+    action: Division clearly visible between supporters and opponents
+  scene:
+    mainElements: Speaker's chair under ornate canopy, dispatch boxes at center, gothic arched windows with stained glass,
+      press gallery above
+    details: Voting tally board shows narrow victory for reform. Papers scattered showing intense debate. Some MPs shake hands
+      across aisle while others turn away. Press gallery scribes writing furiously. Thunder audible through windows.
+    background: Formal parliamentary procedure, echoing acoustics, gaslight chandeliers casting golden glow on dark oak paneling
+    atmosphere: Historic change achieved through democratic process, ideas becoming law, reason triumphing over tradition
+  composition:
+    cameraAngle: Wide shot of entire chamber showing division
+    focus: Mill holding reform bill as lightning flashes through window
+    depth: Mill at center, divided chamber around him, press gallery above documenting history
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - single accent color
+    secondary:
+    - gray tones
+    - minimal color palette
+    - functional colors
+    background: white or light gray backgrounds
+    usageNotes: Extremely limited palette focusing on clarity
+    saturation: low (functional, not decorative)
+    contrast: high (black text on white)
+  lineArt:
+    style: minimal, functional lines
+    weight: consistent, systematic
+    color: black or single color
+    texture: clean, precise
+    edgeTreatment: sharp, clean edges
+  lighting:
+    type: even, non-dramatic lighting
+    direction: consistent, functional
+    intensity: clear, readable
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, functional
+  rendering:
+    technique: precise, systematic layout
+    texture: smooth, clean surfaces
+    detailLevel: minimal (essential information only)
+    finish: matte, functional
+  perspective: flat, grid-based layout
+  mood:
+    overall: objective, clear, systematic
+    emotion: clarity, efficiency, neutrality
+    tempo: steady, organized
+    keywords:
+    - objective
+    - clear
+    - systematic
+    - neutral
+    - functional
+  stylePrecedents:
+  - Josef Müller-Brockmann posters
+  - Helvetica typeface design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

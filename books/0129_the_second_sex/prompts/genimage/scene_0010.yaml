@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1947, afternoon
+    location: Public library reading room in Paris, traditional wood-paneled interior
+    weather: Overcast light through tall windows
+  characters:
+  - appearance: young female student around 20, eager expression turning to frustration
+    clothing: simple skirt and blouse, cardigan, flat shoes
+    position: at library desk facing stern librarian
+    action: requesting books, showing university card
+  - appearance: male librarian in 50s, disapproving expression
+    clothing: dark suit, wire-rimmed spectacles, bow tie
+    position: behind circulation desk
+    action: consulting restricted list, shaking head
+  scene:
+    mainElements: Library circulation desk with card catalogs, visible 'Restricted Section' behind locked gate, male students
+      freely accessing books young woman cannot
+    details: List on desk showing 'Books Requiring Spousal Permission for Women', titles including medical and philosophical
+      texts visible through locked gate. Male student walks past with stack of unrestricted books. Sign states 'Married Women
+      Need Written Husband's Consent for Certain Materials'. Woman's university ID and stellar grades visible but irrelevant
+    background: Reading tables where only men sit with thick volumes, women's section with 'appropriate' literature
+    atmosphere: Knowledge as male privilege, intellectual gatekeeping, education controlled and limited
+  composition:
+    cameraAngle: Over the shoulder of young woman facing librarian
+    focus: The locked gate to restricted books and librarian's dismissive expression
+    depth: Desk interaction in foreground, restricted section behind bars, reading room beyond
+visualElements:
+  colorPalette:
+    primary:
+    - red
+    - blue
+    - yellow
+    secondary:
+    - black
+    - white
+    - gray
+    background: white or neutral geometric backgrounds
+    usageNotes: Primary colors plus black, white, and gray
+    saturation: high (pure primary colors)
+    contrast: high (clear color separation)
+  lineArt:
+    style: clean, geometric lines
+    weight: consistent, functional thickness
+    color: black or primary color outlines
+    texture: smooth, machine-made quality
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: even, functional lighting
+    direction: consistent, practical illumination
+    intensity: clear, unadorned
+    shadows:
+      style: simple, geometric shadows
+      color: gray
+      opacity: consistent
+    highlights: minimal, functional highlights
+  rendering:
+    technique: clean, geometric construction
+    texture: smooth, industrial materials
+    detailLevel: minimal (only essential elements)
+    finish: matte, functional surfaces
+  perspective: clear, functional perspective
+  mood:
+    overall: rational, functional, modern
+    emotion: clarity, efficiency, progress
+    tempo: steady, purposeful
+    keywords:
+    - rational
+    - functional
+    - modern
+    - efficient
+    - clear
+  stylePrecedents:
+  - Bauhaus school designs
+  - Marcel Breuer furniture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
