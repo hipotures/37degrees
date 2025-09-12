@@ -183,99 +183,32 @@ ai_response = {
 }
 ```
 
-## STAGE 4: Calculate DEPTH×HEAT composites
+## STAGE 4: Calculate DEPTH×HEAT composites and select format
 
-### 4.1 Calculate DEPTH
 ```python
-# DEPTH = avg(philosophical_depth, innovation, structural_complexity, relevance)
-depth_components = []
-for dim in ["philosophical_depth", "innovation", "structural_complexity", "relevance"]:
-    if ai_response["raw_scores"][dim]["value"] is not None:
-        depth_components.append(ai_response["raw_scores"][dim]["value"])
+# Call external script to calculate DEPTH, HEAT and select format
+# Script will output: DEPTH|9.2|high|HEAT|8.2|high|FORMAT|academic_analysis|18
+calculation_output = Bash(f"""python3 scripts/internal/process_afa_scoring.py \
+    {ai_response["raw_scores"]["controversy"]["value"]} \
+    {ai_response["raw_scores"]["philosophical_depth"]["value"]} \
+    {ai_response["raw_scores"]["cultural_phenomenon"]["value"]} \
+    {ai_response["raw_scores"]["contemporary_reception"]["value"]} \
+    {ai_response["raw_scores"]["relevance"]["value"]} \
+    {ai_response["raw_scores"]["innovation"]["value"]} \
+    {ai_response["raw_scores"]["structural_complexity"]["value"]} \
+    {ai_response["raw_scores"]["social_roles"]["value"]}""")
 
-if len(depth_components) >= 2:
-    DEPTH = sum(depth_components) / len(depth_components)
-    
-    # Categorize
-    if DEPTH < 4.0:
-        depth_category = "low"
-    elif DEPTH < 6.0:
-        depth_category = "medium"
-    else:
-        depth_category = "high"
-else:
-    print("ERROR: Insufficient data for DEPTH")
-    exit()
+# Agent reads the output and extracts values
+# Output format: DEPTH|9.2|high|HEAT|8.2|high|FORMAT|academic_analysis|18
+# Agent assigns: 
+# - DEPTH = 9.2, depth_category = "high"
+# - HEAT = 8.2, heat_category = "high"  
+# - selected_format = "academic_analysis", duration = 18
 ```
 
-### 4.2 Calculate HEAT
-```python
-# HEAT = avg(controversy, social_roles, contemporary_reception, cultural_phenomenon)
-heat_components = []
-for dim in ["controversy", "social_roles", "contemporary_reception", "cultural_phenomenon"]:
-    if ai_response["raw_scores"][dim]["value"] is not None:
-        heat_components.append(ai_response["raw_scores"][dim]["value"])
+## STAGE 5: Extract detailed themes with credibility
 
-if len(heat_components) >= 2:
-    HEAT = sum(heat_components) / len(heat_components)
-    
-    # Categorize
-    if HEAT < 4.0:
-        heat_category = "low"
-    elif HEAT < 6.0:
-        heat_category = "medium"
-    else:
-        heat_category = "high"
-else:
-    print("ERROR: Insufficient data for HEAT")
-    exit()
-```
-
-## STAGE 5: Select format from DEPTH×HEAT matrix
-
-### 5.1 Format matrix - 8 consolidated dialogue profiles
-```python
-# 8 real dialogue formats mapped to DEPTH×HEAT positions
-FORMAT_MATRIX = {
-    # Low DEPTH (simple, accessible)
-    ("low", "low"): {"name": "exploratory_dialogue", "code": "exploratory_dialogue", "duration": 8},
-    ("low", "medium"): {"name": "narrative_reconstruction", "code": "narrative_reconstruction", "duration": 10},
-    ("low", "high"): {"name": "critical_debate", "code": "critical_debate", "duration": 12},
-    
-    # Medium DEPTH (balanced complexity)
-    ("medium", "low"): {"name": "emotional_perspective", "code": "emotional_perspective", "duration": 11},
-    ("medium", "medium"): {"name": "temporal_context", "code": "temporal_context", "duration": 13},
-    ("medium", "high"): {"name": "social_perspective", "code": "social_perspective", "duration": 14},
-    
-    # High DEPTH (complex, scholarly)
-    ("high", "low"): {"name": "academic_analysis", "code": "academic_analysis", "duration": 15},
-    ("high", "medium"): {"name": "cultural_dimension", "code": "cultural_dimension", "duration": 16},
-    ("high", "high"): {"name": "academic_analysis", "code": "academic_analysis", "duration": 18}
-}
-
-selected_format = FORMAT_MATRIX[(depth_category, heat_category)]
-print(f"Selected: {selected_format['name']} ({selected_format['duration']} min)")
-```
-
-### 5.2 Check for alternative format (if near boundary)
-```python
-# If within 0.2 of boundary, suggest alternative
-distance_to_boundary = min(
-    abs(DEPTH - 4.0), abs(DEPTH - 6.0),
-    abs(HEAT - 4.0), abs(HEAT - 6.0)
-)
-
-if distance_to_boundary <= 0.2:
-    # Find alternative format from adjacent quadrant
-    # Priority: HEAT boundary > DEPTH boundary
-    alternative_format = calculate_alternative_format(DEPTH, HEAT, depth_category, heat_category)
-else:
-    alternative_format = None
-```
-
-## STAGE 6: Extract detailed themes with credibility
-
-### 6.1 Identify key themes from research with metadata
+### 5.1 Identify key themes from research with metadata
 ```python
 # Extract [FACT], [DISPUTE], [ANALYSIS], [BOMBSHELL] from research with credibility
 themes = {
@@ -319,7 +252,7 @@ for lang in LANGUAGE_CONTEXTS:
     themes["localized"][lang] = extract_localized_themes(lang, language_contents)
 ```
 
-### 6.2 Extract localized themes for each language
+### 5.2 Extract localized themes for each language
 ```python
 def extract_localized_themes(lang, language_contents):
     """Extract language-specific cultural context from research"""
@@ -364,9 +297,9 @@ def extract_localized_themes(lang, language_contents):
     return localized_data
 ```
 
-## STAGE 7: Generate complete format definitions
+## STAGE 6: Generate complete format definitions
 
-### 7.1 Create full format structure with segments
+### 6.1 Create full format structure with segments
 ```python
 # Generate complete format definition with 2 hosts
 format_definition = {
@@ -524,9 +457,9 @@ def generate_detailed_prompts(format, title, themes, book_year, language="en"):
     })
 ```
 
-## STAGE 8: Generate production metadata
+## STAGE 7: Generate production metadata
 
-### 8.1 Create comprehensive production metadata
+### 7.1 Create comprehensive production metadata
 ```python
 production_metadata = {
     "target_audience": determine_target_audience(themes, HEAT),
@@ -584,9 +517,9 @@ def extract_educational_elements(themes, book_data):
     return elements
 ```
 
-## STAGE 9: Update book.yaml with complete afa_analysis
+## STAGE 8: Update book.yaml with complete afa_analysis
 
-### 9.1 Prepare comprehensive afa_analysis section
+### 8.1 Prepare comprehensive afa_analysis section
 ```python
 afa_analysis = {
     "version": "3.0",  # New comprehensive version
@@ -644,7 +577,7 @@ def calculate_percentile(total_score):
         return 30
 ```
 
-### 9.2 Update book.yaml
+### 8.2 Update book.yaml
 ```python
 # Read existing book.yaml
 book_yaml = Read(book_yaml_path, offset=1, limit=300)
@@ -658,9 +591,9 @@ Write(book_yaml_path, yaml.dump(book_data, allow_unicode=True, sort_keys=False))
 print(f"✓ Updated {book_yaml_path}")
 ```
 
-## STAGE 10: Validate book.yaml completeness
+## STAGE 9: Validate book.yaml completeness
 
-### 10.1 Validation checks
+### 9.1 Validation checks
 The agent must verify that the generated book.yaml contains all required fields:
 - Read(book_yaml_path, offset=1, limit=300)
 
@@ -704,7 +637,7 @@ The agent must verify that the generated book.yaml contains all required fields:
 
 If any critical field is missing, the agent should repair it before proceeding.
 
-## STAGE 11: Update TODOIT status
+## STAGE 10: Update TODOIT status
 
 ```python
 # Mark task as completed
