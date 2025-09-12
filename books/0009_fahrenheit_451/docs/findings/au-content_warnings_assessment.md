@@ -11,7 +11,7 @@
 
 ## Executive Summary
 
-Po przeanalizowaniu 8 dokumentów researchu dla "Fahrenheit 451", książka przedstawia **ŚREDNIE RYZYKO** dla większości platform społecznościowych. Główne zagrożenia to tematy polityczne, cenzura, kontrola państwowa oraz sceny przemocy. Książka jest jednak klasyczną literaturą z wysoką wartością edukacyjną, co może być korzystne dla compliance.
+Po przeanalizowaniu wszystkich 16 dokumentów researchu dla "Fahrenheit 451" (8 głównych analiz + 8 kontekstów lokalnych), książka przedstawia **ŚREDNIE RYZYKO** dla większości platform społecznościowych. Główne zagrożenia to tematy polityczne, cenzura, kontrola państwowa oraz sceny przemocy. Książka jest jednak klasyczną literaturą z wysoką wartością edukacyjną, co może być korzystne dla compliance.
 
 ### Klasyfikacja wiekowa ogólna: **13+** (z ostrzeżeniami dla 16+ dla niektórych tematów)
 
@@ -20,14 +20,25 @@ Po przeanalizowaniu 8 dokumentów researchu dla "Fahrenheit 451", książka prze
 ## Analiza Materiałów Researchu
 
 ### Przeanalizowane dokumenty:
+**Główne analizy (8 dokumentów):**
 1. **au-research_dark_drama.md** - Kontrowersje polityczne, cenzura, konflikty
 2. **au-research_culture_impact.md** - Wpływ kulturowy, adaptacje, społeczne znaczenie
-3. **au-research_local_context.md** - Polski kontekst, tłumaczenia, edukacja
+3. **au-research_local_pl_context.md** - Polski kontekst, tłumaczenia, edukacja
 4. **au-research_facts_history.md** - Historia powstania, faktyczne dane
 5. **au-research_reality_wisdom.md** - Trafność przewidywań, mądrość życiowa
 6. **au-research_symbols_meanings.md** - Symbolika, ukryte znaczenia
 7. **au-research_youth_digital.md** - Połączenia z kulturą cyfrową Gen Z
 8. **au-research_writing_innovation.md** - Innowacje pisarskie, wpływ na literaturę
+
+**Konteksty lokalne (8 dokumentów):**
+9. **au-research_local_de_context.md** - Niemiecki kontekst kulturowy
+10. **au-research_local_en_context.md** - Anglosaski kontekst kulturowy
+11. **au-research_local_es_context.md** - Hiszpański kontekst kulturowy
+12. **au-research_local_fr_context.md** - Francuski kontekst kulturowy
+13. **au-research_local_hi_context.md** - Hinduski kontekst kulturowy
+14. **au-research_local_ja_context.md** - Japoński kontekst kulturowy
+15. **au-research_local_ko_context.md** - Koreański kontekst kulturowy
+16. **au-research_local_pt_context.md** - Portugalski/brazylijski kontekst kulturowy
 
 ---
 
@@ -310,6 +321,30 @@ Po przeanalizowaniu 8 dokumentów researchu dla "Fahrenheit 451", książka prze
 
 ---
 
-*Dokument opracowany na podstawie analizy 8 dokumentów researchu i aktualnych wytycznych platform społecznościowych z 2025 roku.*
+## Dodatkowe Insights z Kontekstów Lokalnych
+
+### Międzynarodowe Różnice w Odbiorze (na podstawie 8 kontekstów lokalnych):
+
+**Polski kontekst** (szczególnie istotny dla polskiej audience):
+- Książka odbierana przez pryzmat doświadczeń PRL-u i cenzury
+- Trafność przewidywań szczególnie aktualna w kontekście polskich mediów
+- Silne powiązania z krakowskim środowiskiem kulturalnym
+- Teatralne adaptacje w Polsce podkreślają współczesną aktualność
+
+**Różnice kulturowe mogące wpłynąć na content strategy:**
+- **Kraje anglosaskie**: Fokus na McCarthyizm i wolność słowa
+- **Europa Zachodnia**: Accentowanie antyautorytarnej wymowy
+- **Azja Wschodnia**: Technologiczne i społeczne aspekty dystopii
+- **Ameryka Łacińska**: Paralele z doświadczeniami cenzury politycznej
+
+### Rekomendacje dla content internationalization:
+1. **Lokalizuj kontekst historyczny** dla różnych audience
+2. **Unikaj bezpośrednich porównań politycznych** - różne są wrażliwości
+3. **Akcentuj uniwersalne wartości**: obrona kultury, krytyczne myślenie
+4. **Używaj lokalnych przykładów** teatralnych adaptacji i tłumaczeń
+
+---
+
+*Dokument opracowany na podstawie analizy wszystkich 16 dokumentów researchu (8 głównych + 8 kontekstów lokalnych) i aktualnych wytycznych platform społecznościowych z 2025 roku.*
 *Agent: 37d-content_warnings_assessment*
 *Data: 2025-09-04*

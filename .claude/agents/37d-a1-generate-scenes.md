@@ -421,6 +421,15 @@ Example:
 
 **The rule: Describe WHAT you see, not WHAT IT MEANS.**
 
+**PUPPET STRING METAPHOR - STRICTLY FORBIDDEN:**
+❌ NEVER use puppet string metaphors in any form:
+- "puppet strings connecting", "strings of control", "invisible strings"
+- "strings extending from hands/head", "puppet masters in background"
+- High angle shots showing "puppet string metaphor from above"
+- Any visual metaphor involving strings, wires, or threads controlling people
+
+These create confusing visuals that look like snakes, tentacles, or supernatural elements rather than clear political commentary. Use direct physical descriptions instead.
+
 ❌ **Temporal Abstractions:**
 - "reflecting different aspects of time/campaign/life"
 - "showing past, present, and future simultaneously"  

@@ -8,143 +8,178 @@ book_info:
 
 afa_analysis:
   version: "3.0"
-  processed_at: "2025-01-09T21:35:00Z"
+  processed_at: "2025-01-12T15:45:00"
   
   scores:
     controversy: 7
     philosophical_depth: 9
-    cultural_phenomenon: 9
+    cultural_phenomenon: 10
     contemporary_reception: 9
-    relevance: 7
-    innovation: 9
-    structural_complexity: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
     social_roles: 7
-    total: 64
+    total: 70
     percentile: 95
-  
+    
   composite_scores:
     depth:
-      value: 8.0
+      value: 9.3
       category: "high"
     heat:
-      value: 8.0
+      value: 8.3
       category: "high"
-  
+      
   themes:
     universal:
-      - id: "mathematical_satire"
-        type: "ANALYSIS"
+      - id: "culture_001"
+        type: "FACT"
         credibility: 0.95
-        content: "Carroll used Alice to satirize new mathematical theories, with Mad Hatter's tea party representing abstract algebra"
-        source: "writing_innovation"
-      - id: "identity_transformation"
-        type: "FACT"
-        credibility: 0.90
-        content: "Alice's size changes represent psychological instability of adolescence and search for self"
-        source: "symbols_meanings"
-      - id: "cultural_phenomenon"
-        type: "FACT"
-        credibility: 1.0
-        content: "Second most quoted book after Bible, 174+ translations, defining modern fantasy literature"
+        content: "Second most quoted book after the Bible globally, with over 174 translations"
         source: "culture_impact"
-      - id: "digital_metaphor"
+      - id: "dark_001"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Psychedelic culture claims Alice references drug experiences through mushroom eating and size changes"
+        source: "dark_drama"
+      - id: "symbols_001"
         type: "ANALYSIS"
         credibility: 0.85
-        content: "Rabbit hole became perfect metaphor for internet deep-dives and algorithm consumption"
-        source: "youth_digital"
-      - id: "victorian_subversion"
-        type: "ANALYSIS"
-        credibility: 0.90
-        content: "Revolutionary break from didactic children's literature, celebrating imagination over morality"
-        source: "facts_history"
-      - id: "linguistic_innovation"
+        content: "Buddhist/Zen philosophy parallels with maya (illusion) and enlightenment seeking through rabbit hole descent"
+        source: "symbols_meanings"
+      - id: "facts_001"
         type: "FACT"
         credibility: 0.95
-        content: "Invented portmanteau words, created nonsense as literary genre, influenced Joyce and modernists"
-        source: "writing_innovation"
-      - id: "contemporary_relevance"
-        type: "FACT"
-        credibility: 0.85
-        content: "TikTok phenomenon with 2+ billion views, mental health metaphor for Gen Z"
-        source: "youth_digital"
-      - id: "philosophical_depth"
+        content: "500+ Japanese translations alone, making it the most translated work in Japan after English"
+        source: "facts_history"
+      - id: "reality_001"
         type: "ANALYSIS"
-        credibility: 0.90
-        content: "10+ interpretive layers from Jungian archetypes to postcolonial readings"
-        source: "symbols_meanings"
-    
+        credibility: 0.85
+        content: "Identity crisis ('Who am I?') as universal adolescent experience transcending cultures"
+        source: "reality_wisdom"
+      - id: "dark_002"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Carroll's photography of children sparked Victorian controversies about propriety"
+        source: "dark_drama"
+      - id: "innovation_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary break from moralistic children's literature, first book purely for entertainment"
+        source: "writing_innovation"
+      - id: "youth_001"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rabbit hole metaphor perfectly captures internet deep-dives and algorithm consumption"
+        source: "youth_digital"
+        
     localized:
       pl:
-        cultural_impact: "Strong educational presence as supplementary reading, rich translation tradition with 5+ versions"
-        key_editions: ["Marianowicz (1955)", "Słomczyński (1972)", "Stiller (1986)", "Tabakowska (2012)"]
-        reception_notes: "Academic debate over translation approaches - faithfulness vs accessibility for children"
-        educational_status: "Supplementary reading in grades 5-8, focus on fantasy literature and creativity"
-        local_themes: ["Translation challenges", "Children's literature evolution", "Academic interpretation tradition"]
+        cultural_impact: "Strong presence in Polish education, multiple translations since early 20th century"
+        key_editions: ["Wydawnictwo Literackie", "PIW editions", "School reading editions"]
+        reception_notes: "Embraced as philosophical text, strong TikTok engagement among Polish youth"
+        educational_status: "Supplementary reading in some schools"
+        local_themes: ["Post-communist interpretations", "Absurdist tradition connections"]
       en:
-        cultural_impact: "Canonical status in Western literature, foundation of modern children's fantasy"
-        key_editions: ["First edition (1865)", "Annotated Gardner edition", "Norton Critical Edition"]
-        reception_notes: "From children's book to academic text studied in universities worldwide"
-        local_themes: ["Victorian critique", "Mathematical satire", "Linguistic innovation"]
+        cultural_impact: "Defining work of English literature, canonical status in Western culture"
+        key_editions: ["Macmillan original", "Annotated editions", "Oxford World's Classics"]
+        reception_notes: "Foundation text for fantasy genre and children's literature"
+        educational_status: "Core curriculum in many English-speaking countries"
+        local_themes: ["Victorian satire", "Colonial discourse analysis", "Gender studies readings"]
       de:
-        cultural_impact: "Strong philosophical interpretation tradition, influence on German children's literature"
-        key_editions: ["Reclam editions", "Scholarly annotated versions"]
-        reception_notes: "Academic focus on philosophical and psychological interpretations"
-        local_themes: ["Philosophical depth", "Psychoanalytic readings", "Romantic influence"]
-  
+        cultural_impact: "First translation into any language (1869), strong philosophical tradition"
+        key_editions: ["Reclam Verlag", "Insel-Bücherei", "Bilingual editions"]
+        reception_notes: "Deep psychoanalytic and philosophical interpretations"
+        educational_status: "Academic focus on translation studies"
+        local_themes: ["Frankfurt School analysis", "Romantic movement connections"]
+      fr:
+        cultural_impact: "Second translation (1869), influenced Nouvelle Vague cinema"
+        key_editions: ["Gallimard Folio", "17+ different translations"]
+        reception_notes: "Integrated into 5th grade curriculum, theatrical traditions"
+        educational_status: "Official Ministry of Education recommendation"
+        local_themes: ["Structuralist analysis", "Post-colonial readings"]
+      es:
+        cultural_impact: "Multiple regional translations, political allegory interpretations"
+        key_editions: ["Fondo de Cultura Económica", "Regional language versions"]
+        reception_notes: "Connection to magical realism traditions"
+        educational_status: "Part of Maravillas K-6 curriculum"
+        local_themes: ["Franco-era political readings", "Latin American identity"]
+      pt:
+        cultural_impact: "Monteiro Lobato's Brazilian adaptation, distinct Portuguese traditions"
+        key_editions: ["Companhia das Letras", "DarkSide Books", "Porto Editora"]
+        reception_notes: "UNICAMP 2025 exam inclusion, strong Brazilian presence"
+        educational_status: "Integrated in primary curricula"
+        local_themes: ["Cultural localization debates", "Modernist connections"]
+      ja:
+        cultural_impact: "500+ translations, massive cultural phenomenon across all media"
+        key_editions: ["Mishima translation", "Akutagawa translation", "Shinchosha 2020"]
+        reception_notes: "Influenced manga, anime, fashion (Lolita), gaming culture"
+        educational_status: "English learning bridge text"
+        local_themes: ["Buddhist interpretations", "Kawaii culture", "Technological parallels"]
+      ko:
+        cultural_impact: "K-pop integration, webtoon adaptations, beauty industry impact"
+        key_editions: ["Geuldam Press", "Multiple contemporary translations"]
+        reception_notes: "Alice (2020) K-drama, Beyond Cosmetics collaboration"
+        educational_status: "Supplementary reading material"
+        local_themes: ["Digital transformation", "Hallyu connections"]
+      hi:
+        cultural_impact: "Multiple Hindi translations, 2 billion TikTok views in India"
+        key_editions: ["Baagh Press", "BPI India", "Exotic India Art"]
+        reception_notes: "CBSE Class 4 curriculum inclusion, Bollywood references"
+        educational_status: "Mandatory NCERT textbook reading"
+        local_themes: ["Vedantic philosophy parallels", "Post-colonial analysis"]
+        
   formats:
     academic_analysis:
       name: "academic_analysis"
-      code: "analiza_akademicka_extended"
       duration: 18
       hosts:
-        host_a: "professor/expert presenting complex concepts with scholarly depth"
-        host_b: "student/assistant simplifying, clarifying, and bridging to contemporary relevance"
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
       structure:
         - segment: 1
           time_range: "00:00-03:36"
           topic: "thesis"
           lead: "host_a"
-          description: "Mathematical satire hidden in children's literature - Carroll's dual identity"
+          description: "Revolutionary impact on children's literature and nonsense genre creation"
         - segment: 2
           time_range: "03:36-07:12"
           topic: "analysis"
           lead: "host_b"
-          description: "10+ interpretive layers from psychoanalytic to postcolonial readings"
+          description: "Philosophical depth - identity crisis, reality vs illusion themes"
         - segment: 3
           time_range: "07:12-10:48"
           topic: "examples"
           lead: "host_a"
-          description: "Portmanteau words, nonsense genre creation, 35 literary innovations"
+          description: "Global cultural phenomenon - 500+ Japanese translations, TikTok billions"
         - segment: 4
           time_range: "10:48-14:24"
-          topic: "contemporary_relevance"
+          topic: "synthesis"
           lead: "host_b"
-          description: "TikTok phenomenon with 2+ billion views, rabbit hole as digital metaphor"
+          description: "Contemporary relevance - rabbit hole metaphor for digital age"
         - segment: 5
           time_range: "14:24-18:00"
-          topic: "synthesis"
+          topic: "conclusion"
           lead: "host_a"
-          description: "From Victorian satire to AI discussions - timeless questions of identity"
+          description: "Timeless innovation and structural complexity analysis"
       prompts:
-        host_a: "You are Professor {male_name}, analyzing 'Alice's Adventures in Wonderland' with scholarly depth. Discuss Carroll's mathematical background, hidden satire, linguistic innovations, and the work's transformation from children's book to philosophical text. Focus on themes: identity crisis, reality vs nonsense, Victorian critique."
-        host_b: "You are {female_name}, a graduate student specializing in digital culture. Bridge Victorian innovations to contemporary relevance - TikTok trends, mental health discourse, AI parallels. Ask for clarification on complex concepts, provide modern examples, ensure accessibility while maintaining intellectual rigor."
-  
+        host_a: "You are Professor {male_name}, analyzing 'Alice's Adventures in Wonderland' with scholarly depth. Discuss its revolutionary break from moralistic children's literature, complex linguistic games, mathematical paradoxes. Focus on philosophical depth score of 9.3. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on Victorian context, request examples of nonsense logic, connect to contemporary digital culture. Ensure accessibility while exploring the heat score of 8.3 showing massive cultural impact."
+        
   metadata:
-    word_pace: "120-140 words/min"
-    target_audience: "16+"
-    content_warnings:
-      - "historical violence discussion"
-      - "colonial content analysis"
-      - "controversy discussion"
+    target_audience: "14+"
+    content_warnings: 
+      - "drug interpretation references"
+      - "Victorian colonial context discussion"
     educational_elements:
-      - "Mathematical logic and paradoxes"
-      - "Victorian social critique"
-      - "Literary innovation analysis"
-      - "Philosophy of identity and reality"
-      - "Linguistic creativity and wordplay"
+      - "Victorian era social criticism"
+      - "Literary nonsense genre characteristics"
+      - "Mathematical and logical paradoxes"
+      - "Identity and growing up themes"
     production_notes:
-      intro_style: "scholarly_musical"
-      transitions: "academic bridges with Victorian motifs"
-      outro_style: "contemplative_synthesis"
-  
-  overall_confidence: 0.91
+      intro_style: "scholarly opening with 1865 historical context"
+      transitions: "subtle musical bridges"
+      outro_style: "synthesis of timeless relevance and modern applications"
+      
+  overall_confidence: 0.92
+

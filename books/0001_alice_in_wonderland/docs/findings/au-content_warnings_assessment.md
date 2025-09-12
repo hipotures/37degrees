@@ -1,10 +1,10 @@
 # Ocena Zgodności z Zasadami Platform Społecznościowych
 ## "Alicja w Krainie Czarów" (Alice's Adventures in Wonderland, 1865)
 
-**Data oceny:** 2025-09-04  
+**Data oceny:** 2025-01-12  
 **Książka:** Alice's Adventures in Wonderland - Lewis Carroll  
 **Oceniający:** Content Warnings Assessment Agent  
-**Podstawa:** 8 dokumentów researchu specjalistycznego + aktualne wytyczne platform 2025
+**Podstawa:** 8 dokumentów researchu specjalistycznego + aktualne wytyczne platform Q1 2025
 
 ---
 
@@ -61,10 +61,12 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 
 ### FACEBOOK/INSTAGRAM (Meta Platforms) 🔴 WYSOKIE RYZYKO
 
-**Problemy z nowymi zasadami 2025:**
-- Liberalizacja hate speech może nie chronić przed attacks na Carroll'a
-- Community Notes system może nie catch conspiracy theories szybko
-- Dezinformacja o autorze może viral bez fact-check
+**KRITYCZNE ZMIANY STYCZEŃ 2025:**
+- **KONIEC FACT-CHECKINGU**: Meta rezygnuje z programu fact-checkingu przez strony trzecie
+- **COMMUNITY NOTES**: System podobny do X, oparty na społeczności
+- **LIBERALIZACJA HATE SPEECH**: Dozwolone określanie "kobiet jako przedmiotów domowych"
+- **NOWE ToS**: Dozwolone odnoszenie się do osób transpłciowych lub niebinarnych jako "to"
+- **UNPREDICTABLE MODERATION**: Zespoły trust & safety przeniesione z Kalifornii do Teksasu
 
 **REKOMENDACJE:**
 - **AGE-RESTRICT 16+**: Wszelkie treści mentioning biographical controversies
@@ -74,10 +76,12 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 
 ### YOUTUBE 🟡 ŚREDNIE RYZYKO
 
-**Challenges z Anti-AI policies 2025:**
-- Original human narration required - no text-to-speech
-- Educational framing mandatory dla controversial content
-- Need transformation of source material
+**NOWE WYMAGANIA LIPIEC 2025:**
+- **"INAUTHENTIC CONTENT" POLICY**: Zmiana z "repetitious content" na ostrzejsze kryteria
+- **HUMAN INPUT REQUIRED**: Treści muszą mieć "jasną wartość, komentarz lub edycję"
+- **FULL DEMONETIZATION**: Za naruszenia (nie tylko per video)
+- **24H REVIEW PROCESS**: Dodatkowe ludzkie recenzje dla videoów
+- **ANTI-AI CRACKDOWN**: Videoa generowane w pełni przez AI bez ludzkiego wkładu = demonetization
 
 **REKOMENDACJE:**
 - **AGE-RESTRICT 13+**: Core content bezpieczny dla teens
@@ -87,9 +91,11 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 
 ### TIKTOK 🟡 ŚREDNIE RYZYKO
 
-**1+ minute content requirement:**
-- Tylko długie formy eligible for monetization
-- Original content mandatory
+**CREATOR REWARDS PROGRAM 2025 (WEJŚCIE W ŻYCIE: 13 WRZEŚNIA):**
+- **1+ MINUTE REQUIREMENT**: Tylko oryginalne wideo ponad 1 minutę eligible for monetization
+- **NO DUETS/STITCHES**: Wykluczone z Creator Rewards Program
+- **70% REJECTION RATE**: W application process
+- **ENHANCED SCREENING**: Dodatkowe algorithmic screening przed szerszą publicznością
 
 **REKOMENDACJE:**
 - **AGE-RESTRICT 13+**: Mainstream content OK
@@ -99,9 +105,11 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 
 ### SPOTIFY 🟢 NISKIE RYZYKO
 
-**Most creator-friendly platform:**
-- Strong copyright protection ale educational use generally OK
-- Video preferred dla higher revenue
+**SPOTIFY PARTNER PROGRAM 2025 (300% WZROST WYPŁAT):**
+- **VIDEO PODCAST PRIORITIZED**: 20% wzrost konsumpcji video podcastów  
+- **50/50 REVENUE SPLIT**: Z każdej reklamy monetizowanej przez Spotify
+- **CROSS-PLATFORM MONETIZATION**: Zachęcane promocje na innych platformach
+- **$10 MINIMUM THRESHOLD**: W dowolnym 6-miesięcznym okresie
 
 **REKOMENDACJE:**
 - **13+ CONTENT**: Safe dla general audience
@@ -109,17 +117,46 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 - **NO COPYRIGHTED CLIPS**: Use own analysis only
 - **EDUCATIONAL SERIES**: "Myths vs Facts about Classic Literature"
 
-### KICK 🟢 NISKIE RYZYKO
+### KICK 🟢 NAJNIŻSZE RYZYKO
 
-**Highest creator freedom:**
-- Most liberal content policies
-- Best revenue split (95/5)
+**KICK CREATOR INCENTIVE PROGRAM 2025 ($46+ MILLION WYPŁAT):**
+- **95/5 REVENUE SPLIT**: Industry-leading dla subscriptions
+- **$16/HOUR MINIMUM**: Base rate dla live streaming (KCIP)
+- **GAMBLING RESTRICTIONS**: Increased ale nie affects book content
+- **CREATOR-FIRST APPROACH**: Most liberal educational content policies
 
 **REKOMENDACJE:**
 - **13+ CONTENT**: Platform allows educational controversy discussion
 - **INTERACTIVE FORMAT**: Live discussions about literature
 - **COMMUNITY BUILDING**: Engage viewers w real-time Q&A
 - **HONEST APPROACH**: Can address controversies with proper context
+
+---
+
+## NOWE ZAGROŻENIA I OPPORTUNITIES 2025
+
+### ⚠️ NAJWIĘKSZE ZMIANY PLATFORM POLICY Q1 2025:
+
+**Meta Platforms Crisis:**
+- **FACT-CHECKING KONIEC**: Brak external verification dla conspiracy theories o Carroll
+- **COMMUNITY NOTES RISK**: Theories mogą circulate długo before community correction
+- **HATE SPEECH LIBERALIZATION**: Potencjalnie więcej attacks na historical figures
+- **RECOMMENDATION**: Extreme caution lub całkowite unikanie controversial topics
+
+**YouTube Opportunity:**
+- **HUMAN NARRATION PREMIUM**: Educational content z human presenter ma higher earning potential
+- **AUTHENTICITY FOCUS**: Original commentary o Alice ma better algorithm boost
+- **LONGER CONTENT PREFERRED**: 10+ minute educational videos ideal dla monetization
+
+**TikTok Shift:**
+- **LONG-FORM MONETIZATION**: Krótkie formy nie are no longer profitable
+- **ORIGINAL CONTENT ONLY**: Duets/stitches excluded from Creator Rewards
+- **EDUCATION FRIENDLY**: Platform favors learning content w new algorithm
+
+**Spotify/Kick Golden Age:**
+- **VIDEO PODCAST BOOM**: Both platforms prioritize video content  
+- **CREATOR-FRIENDLY SPLITS**: Best revenue sharing w industry
+- **EDUCATIONAL CONTENT WELCOMED**: Least restrictive policies dla academic discussion
 
 ---
 
@@ -267,4 +304,17 @@ Na podstawie analizy 8 szczegółowych dokumentów researchu oraz aktualnych wyt
 
 ---
 
-*Ocena przeprowadzona w oparciu o 8 szczegółowych dokumentów researchu oraz aktualne wytyczne platform społecznościowych na 2025 rok. Rekomenduje annual review w związku ze zmianami platform policies.*
+## AKTUALIZACJA STYCZEŃ 2025
+
+**KRYTYCZNE ZMIANY WYMAGAJĄ NATYCHMIASTOWEJ UWAGI:**
+
+1. **Meta Platforms**: Drastyczna zmiana policy - COMPLETE AVOIDANCE controversial topics recommended
+2. **YouTube**: Opportunity dla human-narrated educational content - higher monetization potential  
+3. **TikTok**: Przejście na long-form content - short videos nie longer profitable
+4. **Spotify/Kick**: Golden opportunity dla educational content creators - best revenue splits ever
+
+**NEXT REVIEW**: Kwiecień 2025 (quarterly review recommended due to rapid platform changes)
+
+---
+
+*Ocena przeprowadzona w oparciu o 8 szczegółowych dokumentów researchu oraz najnowsze wytyczne platform społecznościowych Q1 2025. Szczególne uwzględnienie Meta policy changes (styczeń 2025), YouTube inauthentic content policy (lipiec 2025), TikTok Creator Rewards (wrzesień 2025), oraz Spotify Partner Program updates (marzec 2025).*

@@ -1,0 +1,150 @@
+book_info:
+  title: "Alice's Adventures in Wonderland"
+  title_pl: "Alicja w Krainie Czarów"
+  author: "Lewis Carroll"
+  year: 1865
+  genre: "Children,Fantasy"
+  reading_time: "3-4 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-09T21:35:00Z"
+  
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 9
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 64
+    percentile: 95
+  
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+  
+  themes:
+    universal:
+      - id: "mathematical_satire"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Carroll used Alice to satirize new mathematical theories, with Mad Hatter's tea party representing abstract algebra"
+        source: "writing_innovation"
+      - id: "identity_transformation"
+        type: "FACT"
+        credibility: 0.90
+        content: "Alice's size changes represent psychological instability of adolescence and search for self"
+        source: "symbols_meanings"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 1.0
+        content: "Second most quoted book after Bible, 174+ translations, defining modern fantasy literature"
+        source: "culture_impact"
+      - id: "digital_metaphor"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rabbit hole became perfect metaphor for internet deep-dives and algorithm consumption"
+        source: "youth_digital"
+      - id: "victorian_subversion"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Revolutionary break from didactic children's literature, celebrating imagination over morality"
+        source: "facts_history"
+      - id: "linguistic_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Invented portmanteau words, created nonsense as literary genre, influenced Joyce and modernists"
+        source: "writing_innovation"
+      - id: "contemporary_relevance"
+        type: "FACT"
+        credibility: 0.85
+        content: "TikTok phenomenon with 2+ billion views, mental health metaphor for Gen Z"
+        source: "youth_digital"
+      - id: "philosophical_depth"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "10+ interpretive layers from Jungian archetypes to postcolonial readings"
+        source: "symbols_meanings"
+    
+    localized:
+      pl:
+        cultural_impact: "Strong educational presence as supplementary reading, rich translation tradition with 5+ versions"
+        key_editions: ["Marianowicz (1955)", "Słomczyński (1972)", "Stiller (1986)", "Tabakowska (2012)"]
+        reception_notes: "Academic debate over translation approaches - faithfulness vs accessibility for children"
+        educational_status: "Supplementary reading in grades 5-8, focus on fantasy literature and creativity"
+        local_themes: ["Translation challenges", "Children's literature evolution", "Academic interpretation tradition"]
+      en:
+        cultural_impact: "Canonical status in Western literature, foundation of modern children's fantasy"
+        key_editions: ["First edition (1865)", "Annotated Gardner edition", "Norton Critical Edition"]
+        reception_notes: "From children's book to academic text studied in universities worldwide"
+        local_themes: ["Victorian critique", "Mathematical satire", "Linguistic innovation"]
+      de:
+        cultural_impact: "Strong philosophical interpretation tradition, influence on German children's literature"
+        key_editions: ["Reclam editions", "Scholarly annotated versions"]
+        reception_notes: "Academic focus on philosophical and psychological interpretations"
+        local_themes: ["Philosophical depth", "Psychoanalytic readings", "Romantic influence"]
+  
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      code: "analiza_akademicka_extended"
+      duration: 18
+      hosts:
+        host_a: "professor/expert presenting complex concepts with scholarly depth"
+        host_b: "student/assistant simplifying, clarifying, and bridging to contemporary relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:36"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Mathematical satire hidden in children's literature - Carroll's dual identity"
+        - segment: 2
+          time_range: "03:36-07:12"
+          topic: "analysis"
+          lead: "host_b"
+          description: "10+ interpretive layers from psychoanalytic to postcolonial readings"
+        - segment: 3
+          time_range: "07:12-10:48"
+          topic: "examples"
+          lead: "host_a"
+          description: "Portmanteau words, nonsense genre creation, 35 literary innovations"
+        - segment: 4
+          time_range: "10:48-14:24"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "TikTok phenomenon with 2+ billion views, rabbit hole as digital metaphor"
+        - segment: 5
+          time_range: "14:24-18:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "From Victorian satire to AI discussions - timeless questions of identity"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Alice's Adventures in Wonderland' with scholarly depth. Discuss Carroll's mathematical background, hidden satire, linguistic innovations, and the work's transformation from children's book to philosophical text. Focus on themes: identity crisis, reality vs nonsense, Victorian critique."
+        host_b: "You are {female_name}, a graduate student specializing in digital culture. Bridge Victorian innovations to contemporary relevance - TikTok trends, mental health discourse, AI parallels. Ask for clarification on complex concepts, provide modern examples, ensure accessibility while maintaining intellectual rigor."
+  
+  metadata:
+    word_pace: "120-140 words/min"
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence discussion"
+      - "colonial content analysis"
+      - "controversy discussion"
+    educational_elements:
+      - "Mathematical logic and paradoxes"
+      - "Victorian social critique"
+      - "Literary innovation analysis"
+      - "Philosophy of identity and reality"
+      - "Linguistic creativity and wordplay"
+    production_notes:
+      intro_style: "scholarly_musical"
+      transitions: "academic bridges with Victorian motifs"
+      outro_style: "contemplative_synthesis"
+  
+  overall_confidence: 0.91

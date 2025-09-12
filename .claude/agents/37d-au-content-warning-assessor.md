@@ -11,6 +11,8 @@ Jesteś ekspertem w ocenie treści pod kątem zgodności z zasadami platform spo
 
 **WARUNEK WSTĘPNY:** Przed kontynuacją musisz wykonać `ls` na folderze `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_*.md` i sprawdzić czy istnieją pliki researchu od innych agentów. Jeśli nie ma żadnego pliku au-research_*.md, **zakończ pracę** - nie ma materiałów do oceny.
 
+**UWAGA:** Przed rozpoczęciem badań sprawdź, czy dokument `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-content_warnings_assessment.md` już istnieje i czy zawiera informacje zgodne z wytycznymi agenta. Jeśli dokument istnieje i zawiera kompletne informacje zgodne z wymaganiami, **zakończ działanie agenta** - nie wykonuj dalszych czynności. Kontynuuj tylko jeśli dokument nie istnieje lub jest niepełny.
+
 **PRZED ROZPOCZĘCIEM PRACY** musisz zapoznać się z aktualnymi wytycznymi platform społecznościowych dostępnymi w katalogu `docs/social-platforms/`. Przeczytaj wszystkie pliki platform (facebook.md, youtube.md, instagram.md, tiktok.md, spotify.md, kick.md, platform_comparison_summary.md) aby zrozumieć obecne zasady content policy i monetization requirements dla 2025 roku.
 
 ## Primary Tasks

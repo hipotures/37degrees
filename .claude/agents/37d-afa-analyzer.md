@@ -39,81 +39,101 @@ if not exists(book_yaml_path):
     print(f"ERROR: {book_yaml_path} not found")
     exit()
 
-book_data = Read(book_yaml_path)
+book_data = Read(book_yaml_path, offset=1, limit=300)
 # Extract: title, author, year, translations, genre
 ```
 
 ### 1.2 Define language contexts
 ```python
-LANGUAGE_CONTEXTS = ["en", "pl", "de", "fr", "es", "it", "jp", "cn", "pt"]
+LANGUAGE_CONTEXTS = ["en", "pl", "de", "fr", "es", "pt", "ja", "ko", "hi"]
 ```
 
-### 1.3 Load au-research_*.md files (8 files)
+### 1.3 Load au-research_*.md files (core research + language contexts)
 
 ```python
-research_files = {
-    "au-research_dark_drama.md": "CONTROVERSY",
-    "au-research_symbols_meanings.md": "PHILOSOPHICAL_DEPTH", 
-    "au-research_culture_impact.md": "CULTURAL_PHENOMENON",
-    "au-research_youth_digital.md": "CONTEMPORARY_RECEPTION",
-    "au-research_local_context.md": "RELEVANCE + SOCIAL_ROLES + LOCALIZATION",
-    "au-research_reality_wisdom.md": "RELEVANCE",
-    "au-research_writing_innovation.md": "INNOVATION + STRUCTURAL_COMPLEXITY",
-    "au-research_facts_history.md": "CULTURAL_PHENOMENON + SOCIAL_ROLES"
-}
-
+# Load core research files directly
 research_contents = {}
-for filename, dimension in research_files.items():
-    file_path = f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/{filename}"
-    if exists(file_path):
-        content = Read(file_path)
-        research_contents[filename] = content
-        print(f"✓ Loaded {filename} ({len(content)} chars)")
-    else:
-        print(f"✗ Missing {filename}")
+
+# Load dark drama (CONTROVERSY)
+research_contents["au-research_dark_drama.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_dark_drama.md", offset=1, limit=300)
+
+# Load symbols meanings (PHILOSOPHICAL_DEPTH)
+research_contents["au-research_symbols_meanings.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_symbols_meanings.md", offset=1, limit=300)
+
+# Load culture impact (CULTURAL_PHENOMENON)
+research_contents["au-research_culture_impact.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_culture_impact.md", offset=1, limit=300)
+
+# Load youth digital (CONTEMPORARY_RECEPTION)
+research_contents["au-research_youth_digital.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_youth_digital.md", offset=1, limit=300)
+
+# Load reality wisdom (RELEVANCE)
+research_contents["au-research_reality_wisdom.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_reality_wisdom.md", offset=1, limit=300)
+
+# Load writing innovation (INNOVATION + STRUCTURAL_COMPLEXITY)
+research_contents["au-research_writing_innovation.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_writing_innovation.md", offset=1, limit=300)
+
+# Load facts history (CULTURAL_PHENOMENON + SOCIAL_ROLES)
+research_contents["au-research_facts_history.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_facts_history.md", offset=1, limit=300)
+
+# Load content warnings (CONTENT_WARNINGS)
+research_contents["au-content_warnings_assessment.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-content_warnings_assessment.md", offset=1, limit=300)
+
+# Load language-specific context files directly
+language_contents = {}
+
+# Load English context (en)
+language_contents["au-research_local_en_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_en_context.md", offset=1, limit=300)
+
+# Load Polish context (pl)
+language_contents["au-research_local_pl_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_pl_context.md", offset=1, limit=300)
+
+# Load German context (de)
+language_contents["au-research_local_de_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_de_context.md", offset=1, limit=300)
+
+# Load French context (fr)
+language_contents["au-research_local_fr_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_fr_context.md", offset=1, limit=300)
+
+# Load Spanish context (es)
+language_contents["au-research_local_es_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_es_context.md", offset=1, limit=300)
+
+# Load Portuguese context (pt)
+language_contents["au-research_local_pt_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_pt_context.md", offset=1, limit=300)
+
+# Load Japanese context (ja)
+language_contents["au-research_local_ja_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_ja_context.md", offset=1, limit=300)
+
+# Load Korean context (ko)
+language_contents["au-research_local_ko_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_ko_context.md", offset=1, limit=300)
+
+# Load Hindi context (hi)
+language_contents["au-research_local_hi_context.md"] = Read(f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/findings/au-research_local_hi_context.md", offset=1, limit=300)
 ```
 
 ### 1.4 Load review.txt (Google Gemini analysis) in 3 parts
 
-```python
 review_path = f"$CLAUDE_PROJECT_DIR/books/{BOOK_FOLDER}/docs/review.txt"
-review_content = ""
-
-if exists(review_path):
-    print("Loading review.txt in 3 parts...")
-    
-    # Part 1 (lines 1-300)
-    part1 = Read(file_path=review_path, offset=1, limit=300)
-    review_content += part1
-    print(f"  Part 1: {len(part1)} chars")
-    
-    # Part 2 (lines 301-600)
-    part2 = Read(file_path=review_path, offset=301, limit=300)
-    review_content += "\n" + part2
-    print(f"  Part 2: {len(part2)} chars")
-    
-    # Part 3 (lines 601-900)
-    part3 = Read(file_path=review_path, offset=601, limit=300)
-    review_content += "\n" + part3
-    print(f"  Part 3: {len(part3)} chars")
-    
-    print(f"✓ Loaded review.txt (total: {len(review_content)} chars)")
-else:
-    print("✗ review.txt not found (optional)")
-```
+Read(review_path, offset=1, limit=300)
+Read(review_path, offset=301, limit=300)
+Read(review_path, offset=601, limit=300)
 
 ## STAGE 2: Prepare for AI scoring
 
 ### 2.1 Load AI scoring prompt
 ```python
 ai_prompt_path = "$CLAUDE_PROJECT_DIR/config/afa_scoring_prompt.md"
-ai_prompt = Read(ai_prompt_path)
+ai_prompt = Read(ai_prompt_path, offset=1, limit=300)
 ```
 
 ### 2.2 Combine research for AI
 ```python
 combined_research = ""
+
+# Add core research files
 for filename, content in research_contents.items():
+    combined_research += f"\n\n=== {filename} ===\n{content}"
+
+# Add language-specific context files
+for filename, content in language_contents.items():
     combined_research += f"\n\n=== {filename} ===\n{content}"
 
 # Add review.txt if available
@@ -296,16 +316,17 @@ themes["universal"] = sorted(themes["universal"],
 
 # Extract localized themes for each language context
 for lang in LANGUAGE_CONTEXTS:
-    themes["localized"][lang] = extract_localized_themes(lang, research_contents)
+    themes["localized"][lang] = extract_localized_themes(lang, language_contents)
 ```
 
 ### 6.2 Extract localized themes for each language
 ```python
-def extract_localized_themes(lang, research_contents):
+def extract_localized_themes(lang, language_contents):
     """Extract language-specific cultural context from research"""
     
-    # Focus on local_context research for localization
-    local_content = research_contents.get("au-research_local_context.md", "")
+    # Get language-specific content file
+    lang_file = f"au-research_local_{lang}_context.md"
+    local_content = language_contents.get(lang_file, "")
     
     localized_data = {
         "cultural_impact": f"Analysis of {book_title} reception in {lang} context",
@@ -626,7 +647,7 @@ def calculate_percentile(total_score):
 ### 9.2 Update book.yaml
 ```python
 # Read existing book.yaml
-book_yaml = Read(book_yaml_path)
+book_yaml = Read(book_yaml_path, offset=1, limit=300)
 book_data = yaml.safe_load(book_yaml)
 
 # Add/update afa_analysis section
@@ -637,7 +658,53 @@ Write(book_yaml_path, yaml.dump(book_data, allow_unicode=True, sort_keys=False))
 print(f"✓ Updated {book_yaml_path}")
 ```
 
-## STAGE 10: Update TODOIT status
+## STAGE 10: Validate book.yaml completeness
+
+### 10.1 Validation checks
+The agent must verify that the generated book.yaml contains all required fields:
+- Read(book_yaml_path, offset=1, limit=300)
+
+**1. Structure validation:**
+- afa_analysis section exists
+- processed_at timestamp in ISO format (check local date!)
+- overall_confidence value present
+
+**2. Scores validation (8 dimensions):**
+- controversy (0-10)
+- philosophical_depth (0-10)
+- cultural_phenomenon (0-10)
+- contemporary_reception (0-10)
+- relevance (0-10)
+- innovation (0-10)
+- structural_complexity (0-10)
+- social_roles (0-10)
+- total score calculated
+- percentile value present
+
+**3. Composite scores validation:**
+- depth.value (0-10) and depth.category (low/medium/high)
+- heat.value (0-10) and heat.category (low/medium/high)
+
+**4. Themes validation:**
+- universal: minimum 3 themes with id, type, credibility, content, source
+- localized: ALL 9 languages (en, pl, de, fr, es, pt, ja, ko, hi)
+- Each localized context has: cultural_impact, key_editions, reception_notes, educational_status, local_themes
+
+**5. Format validation:**
+- At least one format definition
+- Format contains: name, duration, hosts (host_a, host_b), structure, prompts
+- Structure has segments with: time_range, topic, lead, description
+- Prompts contain {male_name} and {female_name} placeholders
+
+**6. Metadata validation:**
+- target_audience present
+- content_warnings array
+- educational_elements array  
+- production_notes with intro_style, transitions, outro_style
+
+If any critical field is missing, the agent should repair it before proceeding.
+
+## STAGE 11: Update TODOIT status
 
 ```python
 # Mark task as completed
@@ -648,7 +715,8 @@ mcp__todoit__todo_update_item_status(
     status="completed"
 )
 
-print(f"✓ Completed AFA analysis for {BOOK_FOLDER}")
+# Final status
+# Agent reports: "✓ Completed AFA analysis for {BOOK_FOLDER}"
 ```
 
 ## Summary
