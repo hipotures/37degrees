@@ -15,8 +15,8 @@
 # - Pozostaw puste aby przetworzyć wszystkie książki
 # - Ustaw liczby aby ograniczyć zakres (np. od 33 do 44)
 
-BOOK_START_RANGE="122"      # Początek zakresu (np. 33 dla 0033_xxx)
-BOOK_END_RANGE="127"        # Koniec zakresu (np. 44 dla 0044_xxx)
+BOOK_START_RANGE="127"      # Początek zakresu (np. 33 dla 0033_xxx)
+BOOK_END_RANGE="131"        # Koniec zakresu (np. 44 dla 0044_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA

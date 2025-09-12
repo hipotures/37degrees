@@ -7,42 +7,28 @@
 **Author**: Lewis Carroll (Charles Lutwidge Dodgson)  
 **Year**: 1865  
 **Genre**: Children's literature, fantasy, literary nonsense  
-**Translations**: 174 languages
+**Translations**: 174+ languages
 
-## DETAILED SCORING
+## SCORING (Behavioral Anchors)
 
-### A. CONTROVERSY (4/5)
-**Justification**: The book is surrounded by numerous biographical controversies about the author, including discredited but still popular theories about inappropriate relationships with children (30 photographs of nude children in his collection, sudden end of relationship with the Liddell family in 1863). Psychoanalytic interpretations from the 1930s suggested hidden sexual content. Additionally, the book was banned in China in 1931 for "blasphemy" (talking animals).
+**DEPTH**: 8.3 (high)
+- Philosophical Depth: 9.0
+- Innovation: 9.0  
+- Structural Complexity: 7.0
+- Relevance: 8.0
 
-### B. PHILOSOPHICAL DEPTH (5/5)
-**Justification**: The work contains all key elements: Jungian archetypes (Hero, Shadow, Trickster), religious symbolism (Garden of Eden), at least 3 interpretive layers (psychoanalytic, philosophical, social) and deep existential metaphors about identity ("Who am I?"). A multi-layered work functioning as a "cultural Rorschach test".
+**HEAT**: 8.0 (high)
+- Controversy: 7.0
+- Social Roles: 7.0
+- Contemporary Reception: 9.0
+- Cultural Phenomenon: 9.0
 
-### C. CULTURAL PHENOMENON (5/5)
-**Justification**: Second most quoted book in the world after the Bible. 160 years of continuous reception, 60 literary adaptations, 40 films, over 30 theatrical adaptations. Influence on all children's and fantasy literature. Cult position in world culture.
+## FORMAT RECOMMENDATION
 
-### D. CONTEMPORARY RECEPTION (4/5)
-**Justification**: Strong presence in digital culture: #AliceInWonderland has over 2 billion views on TikTok, Mad Hatter Tea Party trends, numerous VR experiences, American McGee's Alice game series. "Rabbit hole" as a metaphor for the internet and social media.
-
-### F. RELEVANCE (4/5)
-**Justification**: The "rabbit hole" metaphor perfectly describes the social media experience. Themes of AI and reality relativity resonate with the post-truth era. Alice in Wonderland Syndrome as a recognized neurological disorder.
-
-### G. INNOVATION (5/5)
-**Justification**: Revolution in children's literature - ending the era of didacticism. Creation of the nonsense literature genre. Invention of portmanteau words. Pioneering integration of mathematical logic with fantasy narrative.
-
-### H. STRUCTURAL COMPLEXITY (5/5)
-**Justification**: 12 episodic chapters connected by dream logic, complex narrative frame (dream within reality), meta-levels of interpretation, logical paradoxes, language games on multiple levels.
-
-### I. SOCIAL ROLES AND GENDER (3/5)
-**Justification**: Alice questions Victorian expectations of women, satire on social hierarchy (Queen of Hearts), critique of arbitrary power, but gender themes do not dominate the narrative.
-
-**TOTAL: 35/40 | Percentile: 87.5%**
-
-## FORMAT
-
-- **Primary:** Friendly Exchange — format assigned according to new distribution
-- **Alternative:** Friendly Exchange (universal fallback)
-- **Duration:** 13 min (total=35)
-- **Justification:** Format selected based on distribution algorithm ensuring diversity and rotation of all 12 formats.
+- **Primary**: Conference Symposium (19 minutes)
+- **AFA Code**: conference_symposium
+- **Matrix Position**: high depth × high heat
+- **Confidence**: 95%
 
 ## KEY THEMES WITH CREDIBILITY
 
@@ -66,17 +52,13 @@ Alice preceded Disney Princesses by 90 years. First child heroine questioning au
 **Type**: CONTEXT | **Source**: au-research_symbols_meanings | **Certainty**: 95%
 Salvador Dalí created 12 heliogravures for Alice (1969). Jefferson Airplane's "White Rabbit" (1967) - counterculture anthem. Alice as natural muse of surrealist and psychedelic movements.
 
-## HOST PROMPTS FOR FORMAT
+## NOTEBOOKLM PROMPTS
 
-**CRITICAL for NotebookLM: Host A is male, Host B is female**
+### Host A
+You are discussing 'Alice's Adventures in Wonderland' in conference symposium format. Focus on philosophical depth, literary innovations, and cultural impact. Speak academically yet accessibly, 3-4 sentences per turn.
 
-### Host A — {male_name} (male)
-Host A = {male_name} (male). 
-"You are an enthusiastic book lover. Share personal reflections, connect themes to life. Speak naturally, use colloquial language. 3-4 sentences per response. Speak as {male_name}."
-
-### Host B — {female_name} (female)
-Host B = {female_name} (female). 
-"You are a curious friend. Ask questions about emotions, probe 'why did that touch you?'. Pick up on threads, develop them. Speak casually. Speak as {female_name}."
+### Host B
+You complement the discussion of 'Alice's Adventures in Wonderland' as co-expert. Ask probing questions about controversies, develop mathematical satire themes, highlight contemporary relevance. Maintain scholarly dialogue dynamics.
 
 ## THREAD MAPPING TO STRUCTURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
