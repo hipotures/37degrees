@@ -1,17 +1,18 @@
 GOAL: 18 min conversation - ACADEMIC_ANALYSIS
 BOOK: Alice's Adventures in Wonderland (1865)
 
-HOST HOST_A: You are Andreas (male). You are Professor Andreas, analyzing 'Alice's Adventures in Wonderland' with scholarly depth. Discuss Carroll's mathematical background, hidden satire, linguistic innovations, and the work's transformation from children's book to philosophical text. Focus on themes: identity crisis, reality vs nonsense, Victorian critique.
-HOST HOST_B: You are Brigitte (female). You are Brigitte, a graduate student specializing in digital culture. Bridge Victorian innovations to contemporary relevance - TikTok trends, mental health discourse, AI parallels. Ask for clarification on complex concepts, provide modern examples, ensure accessibility while maintaining intellectual rigor.
+HOST HOST_A: You are Andreas (male). You are Professor Andreas, analyzing 'Alice's Adventures in Wonderland' with scholarly depth. Discuss its revolutionary break from moralistic children's literature, complex linguistic games, mathematical paradoxes. Focus on philosophical depth score of 9.3. Academic but accessible.
+HOST HOST_B: You are Brigitte (female). You are Brigitte, a graduate student. Ask for clarification on Victorian context, request examples of nonsense logic, connect to contemporary digital culture. Ensure accessibility while exploring the heat score of 8.3 showing massive cultural impact.
 
 KEY THEMES TO DISCUSS:
-• Mathematical Satire: Carroll used Alice to satirize new mathematical theories, with Mad Hatter's tea party representing abstract algebra
-• Identity Transformation: Alice's size changes represent psychological instability of adolescence and search for self
-• Cultural Phenomenon: Second most quoted book after Bible, 174+ translations, defining modern fantasy literature
-• Digital Metaphor: Rabbit hole became perfect metaphor for internet deep-dives and algorithm consumption
-• Victorian Subversion: Revolutionary break from didactic children's literature, celebrating imagination over morality
-• Local context: Strong philosophical interpretation tradition, influence on German children's literature
-• Key editions: Reclam editions, Scholarly annotated versions
+• Culture 001: Second most quoted book after the Bible globally, with over 174 translations
+• Dark 001: Psychedelic culture claims Alice references drug experiences through mushroom eating and size changes
+• Symbols 001: Buddhist/Zen philosophy parallels with maya (illusion) and enlightenment seeking through rabbit hole descent
+• Facts 001: 500+ Japanese translations alone, making it the most translated work in Japan after English
+• Reality 001: Identity crisis ('Who am I?') as universal adolescent experience transcending cultures
+• Local context: First translation into any language (1869), strong philosophical tradition
+• Key editions: Reclam Verlag, Insel-Bücherei, Bilingual editions
+• Educational context: Academic focus on translation studies
 
 TIME STRUCTURE:
 • Introduction (0:00-1:00): Start with '37degrees'

@@ -24,49 +24,31 @@ Kroki orchestratora:
 0. Pobranie zadania i określenie odpowiedniego NotebookLM oraz języka
 
 // NOWA ITERACJA: Książka-pierwsza, nie język-pierwszy
-// System teraz przetwarza wszystkie języki dla jednej książki przed przejściem do następnej
+// System używa skryptu Python do szybkiego znalezienia następnego zadania
 
-supported_languages = ["pl", "en", "es", "pt", "hi", "ja", "ko", "de", "fr"]
-SOURCE_NAME = null
-LANGUAGE_CODE = null
-PENDING_SUBITEM_KEY = null
+// Wywołaj skrypt Python aby znaleźć następne zadanie
+result = Bash("python scripts/internal/find_next_audio_task.py")
 
-// NOWA LOGIKA: Najpierw znajdź książkę z pending zadaniami audio, potem pierwszy pending język dla tej książki
+if (result.error || result.output == ""):
+  console.error("ERROR: Failed to find next audio task")
+  console.error(result.error || "Script returned empty output")
+  return // Zakończ działanie agenta
 
-// KROK 1: Znajdź wszystkie książki z ukończonym afa_gen (gotowe do generacji audio)
-books_with_afa = mcp__todoit__todo_find_items_by_status(
-  list_key: "cc-au-notebooklm",
-  conditions: {"afa_gen": "completed"},
-  limit: 50  // Zwiększony limit aby obejrzeć więcej książek
-)
+// Parsuj wynik JSON
+try:
+  task_data = JSON.parse(result.output)
 
-if (books_with_afa.success && books_with_afa.matches.length > 0):
-  // KROK 2: Dla każdej książki sprawdź czy ma pending audio_gen zadania
-  for (book_match of books_with_afa.matches):
-    book_name = book_match.parent.item_key
+  if (task_data.status == "found"):
+    SOURCE_NAME = task_data.book_key
+    LANGUAGE_CODE = task_data.language_code
+    PENDING_SUBITEM_KEY = task_data.subitem_key
+  else:
+    console.error("No pending tasks found:", task_data.message)
+    return // Zakończ działanie agenta
 
-    // KROK 3: Sprawdź każdy język dla tej konkretnej książki
-    for (lang of supported_languages):
-      // Użyj nowej funkcji z kompleksowymi warunkami
-      specific_task = mcp__todoit__todo_find_items_by_status(
-        list_key: "cc-au-notebooklm",
-        conditions: {
-          "item": {"item_key": book_name, "status": "in_progress"},
-          "subitem": {"audio_gen_" + lang: "pending"}
-        },
-        limit: 1
-      )
-
-      if (specific_task.success && specific_task.matches.length > 0):
-        // Znaleziono pierwsze pending zadanie dla tej książki w tym języku
-        SOURCE_NAME = book_name
-        LANGUAGE_CODE = lang
-        PENDING_SUBITEM_KEY = "audio_gen_" + lang
-        break  // Wyjdź z pętli języków
-
-    // Jeśli znaleziono zadanie, wyjdź również z pętli książek
-    if (SOURCE_NAME != null):
-      break
+} catch (e):
+  console.error("Failed to parse script output:", result.output)
+  return // Zakończ działanie agenta
 
 if (SOURCE_NAME != null):
   
@@ -206,6 +188,27 @@ mcp__playwright-cdp__browser_snapshot()
 
 generation_started = check_for_generation_indicators()
 if (generation_started):
+  // NOWE: Wyciągnij tytuł wygenerowanego audio z interfejsu
+  // Po rozpoczęciu generacji NotebookLM pokazuje tytuł w elemencie Studio
+  // Znajdź najnowszy element audio z tytułem w interfejsie
+  mcp__playwright-cdp__browser_snapshot()
+
+  // Szukaj elementu zawierającego tytuł audio - może być w różnych miejscach:
+  // 1. W sekcji "Generating..." z tytułem
+  // 2. W liście "Audio overviews" jako ostatni element
+  // 3. W popup/notification z informacją o rozpoczętej generacji
+  audio_title = extract_audio_title_from_ui_elements()
+
+  if (audio_title && audio_title != ""):
+    // Zapisz tytuł jako property dla konkretnego subitem
+    mcp__todoit__todo_set_item_property(
+      list_key: "cc-au-notebooklm",
+      item_key: PENDING_SUBITEM_KEY,  // np. "audio_gen_de", "audio_gen_en"
+      property_key: "nb_au_title",
+      property_value: audio_title,
+      parent_item_key: SOURCE_NAME  // np. "0001_alice_in_wonderland"
+    )
+
   // Oznacz konkretny subitem audio_gen_XX jako completed
   mcp__todoit__todo_update_item_status(
     list_key: "cc-au-notebooklm",
@@ -255,5 +258,6 @@ Stan końcowy:
 - Nowa generacja audio rozpoczęta z instrukcjami wygenerowanymi przez skrypt Python
 - Format audio i kontekst językowy dobrany automatycznie z book.yaml
 - Subitem audio_gen dla [SOURCE_NAME] oznaczony jako completed w liście cc-au-notebooklm
+- NOWE: Tytuł wygenerowanego audio zapisany jako property "nb_au_title" dla konkretnego subitem (np. audio_gen_de)
 - Interfejs NotebookLM gotowy do kolejnych operacji
 - Raport o statusie generacji i aktualnym stanie systemu
