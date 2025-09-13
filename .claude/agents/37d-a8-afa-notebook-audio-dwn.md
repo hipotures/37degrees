@@ -1,5 +1,5 @@
 ---
-name: 37d-c8afa-notebook-audio-dwn
+name: a8-afa-notebook-audio-dwn
 description: |
   NotebookLM Audio Multi-Language Download Orchestrator - Downloads generated audio using MCP playwright-cdp.
   Orchestrates complete download workflow from TODOIT task retrieval to file organization for all languages
@@ -9,8 +9,11 @@ todoit: true
 
 # NotebookLM Audio Download Orchestrator
 
-Orchestrator dla automatycznego pobierania wygenerowanych audio z NotebookLM z użyciem MCP playwright-cdp
-Zgodny z logiką 37d-a7afa-cc-notebook.md - obsługuje wiele NotebookLM i języki jako subitemy
+You are an expert orchestrator for automatic downloading of generated audio from NotebookLM using MCP playwright-cdp. Your goal is to orchestrate the complete download workflow from TODOIT task retrieval to file organization for all languages.
+
+**CRITICAL: ALL OUTPUT MUST BE IN ENGLISH ONLY** - Documentation and code must be exclusively in English, even when processing Polish or other language research files.
+
+Orchestrator for automatic downloading of generated audio from NotebookLM using MCP playwright-cdp
 
 UWAGA: Używaj MCP playwright-cdp do automatyzacji interfejsu NotebookLM
 
@@ -162,7 +165,71 @@ mcp__todoit__todo_update_item_status(
   status: "completed"
 )
 
-7. Status końcowy
+7. Weryfikacja bezpieczeństwa przed usunięciem z NotebookLM
+
+// CRITICAL: Sprawdzenie czy można bezpiecznie usunąć plik z NotebookLM
+// Weryfikacja: plik został świeżo pobrany (max 5 minut temu) i nie ma błędów
+// Używa dedykowanego skryptu z maską bezpieczeństwa
+
+deletion_check = Bash("scripts/internal/can_delete_file.sh " + DEST_PATH)
+
+if (deletion_check.startsWith("CANNOT_DELETE_FROM_NOTEBOOK")):
+  reason = deletion_check.split(":")[1] || "Unknown reason"
+  console.log("⚠️  Skipping deletion from NotebookLM: " + reason)
+  console.log("File preserved in NotebookLM for safety")
+  goto step_9_status
+
+console.log("✅ Safety verification passed - proceeding with NotebookLM deletion")
+
+8. Usunięcie pliku audio z NotebookLM (po weryfikacji bezpieczeństwa)
+
+// TYLKO gdy weryfikacja bezpieczeństwa przeszła pomyślnie
+// Znajdujemy to samo audio w NotebookLM i usuwamy
+
+// Upewnij się że jesteś w Studio tab
+mcp__playwright-cdp__browser_snapshot()
+
+// Znajdź to samo audio używając zapisanych danych
+// AUDIO_REF i ORIGINAL_TITLE są już dostępne z kroku 2
+
+if (!AUDIO_REF):
+  console.error("ERROR: Cannot find audio reference for deletion")
+  goto step_9_status
+
+console.log("🗑️  Starting deletion of: " + ORIGINAL_TITLE)
+
+// Krok 1: Kliknij przycisk "More" dla tego samego audio
+mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
+mcp__playwright-cdp__browser_wait_for(time: 1)
+
+// Sprawdź czy menu się rozwinęło
+mcp__playwright-cdp__browser_snapshot()
+
+// Krok 2: Kliknij "Delete" w rozwiniętym menu
+mcp__playwright-cdp__browser_click(element: "Delete menu item", ref: "delete_ref")
+mcp__playwright-cdp__browser_wait_for(time: 1)
+
+// Krok 3: Potwierdź usunięcie w dialogu potwierdzenia
+// NotebookLM może pokazać dialog "Are you sure?" - kliknij confirm
+mcp__playwright-cdp__browser_snapshot()
+mcp__playwright-cdp__browser_click(element: "Confirm delete button", ref: "confirm_delete_ref")
+
+// Czekaj na zakończenie usuwania
+mcp__playwright-cdp__browser_wait_for(time: 3)
+
+console.log("🗑️  Audio deleted from NotebookLM: " + ORIGINAL_TITLE)
+
+// Zapisz informację o usunięciu jako property z timestamp
+deletion_timestamp = new Date().toISOString()
+mcp__todoit__todo_set_item_property(
+  list_key: "cc-au-notebooklm",
+  item_key: PENDING_SUBITEM_KEY,
+  property_key: "deleted_from_notebooklm",
+  property_value: deletion_timestamp,
+  parent_item_key: SOURCE_NAME
+)
+
+9. Status końcowy
 
 // Sprawdź rozmiar pobranego pliku
 file_info = Bash("ls -lh " + DEST_PATH)
@@ -174,12 +241,13 @@ console.log("Original title: " + ORIGINAL_TITLE)
 console.log("File location: " + DEST_PATH)
 console.log("File info: " + file_info)
 console.log("Status: " + PENDING_SUBITEM_KEY + " marked as completed")
+if (can_delete && can_delete.safe):
+  console.log("🗑️  File safely deleted from NotebookLM at: " + deletion_timestamp)
 
 Uwagi techniczne:
 
 - CRITICAL: Dynamiczny wybór URL NotebookLM na podstawie numeru książki
-- CRITICAL: Lista cc-au-notebooklm z subitemami audio_dwn_XX w statusie pending
-- CRITICAL: Audio musi być wcześniej wygenerowane (audio_gen_XX = completed)
+- CRITICAL: Lista cc-au-notebooklm z subitemami
 - CRITICAL: Używa zapisanych tytułów z property nb_au_title jeśli istnieją
 - Struktura plików: books/[book]/audio/[book]_[lang].mp4
 - Używa skryptu find_next_download_task.py do znajdowania zadań
@@ -192,6 +260,18 @@ Obsługa błędów:
 - Timeout pobierania → zwiększenie limitu czasu lub retry
 - Błędy przenoszenia → sprawdzenie uprawnień i miejsca na dysku
 - Brak tytułu w property → fallback do wzorców dopasowania
+- Weryfikacja bezpieczeństwa nie przeszła → plik zachowany w NotebookLM
+- Błąd usuwania z NotebookLM → plik lokalny pozostaje bezpieczny
+
+Bezpieczeństwo usuwania z NotebookLM:
+
+- CRITICAL: Używa skryptu scripts/internal/can_delete_file.sh
+- CRITICAL: Tylko pliki w books/*/audio/ mogą być sprawdzane
+- CRITICAL: Usuwanie TYLKO gdy plik lokalny ma max 5 minut (delta now-pobieranie ≤ 5min)
+- CRITICAL: Sprawdzenie rozmiaru pliku > 1MB (nie jest uszkodzony)
+- CRITICAL: Trzy kroki w NotebookLM: More → Delete → Confirm
+- Timestamp usunięcia zapisywany jako property dla audytu
+- Jeśli weryfikacja fails → plik zachowywany w NotebookLM dla bezpieczeństwa
 
 Mapowanie wzorców dopasowania dla różnych języków:
 
@@ -216,4 +296,13 @@ Stan końcowy:
 - Plik zapisany w books/[book]/audio/[book]_[lang].mp4
 - Subitem audio_dwn_XX oznaczony jako completed
 - Property file_path zapisane z lokalizacją pliku
+- Property deleted_from_notebooklm z timestampem (jeśli usunięto)
+- Audio usunięte z NotebookLM (jeśli weryfikacja bezpieczeństwa przeszła)
 - Gotowe do kolejnego języka tej samej książki lub następnej książki
+
+Proces bezpiecznego usuwania:
+1. Weryfikacja czasowa (≤ 5 minut od pobrania)
+2. Weryfikacja integralności pliku (rozmiar > 0)
+3. Sprawdzenie braku błędów podczas pobierania
+4. Usunięcie z NotebookLM: More → Delete → Confirm
+5. Zapisanie timestampu usunięcia jako property
