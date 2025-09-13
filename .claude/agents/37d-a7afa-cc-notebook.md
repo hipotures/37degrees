@@ -23,33 +23,50 @@ Kroki orchestratora:
 
 0. Pobranie zadania i określenie odpowiedniego NotebookLM oraz języka
 
-// UWAGA: API todo_find_items_by_status nie obsługuje wildcards
-// Musimy iterować przez wszystkie możliwe języki aby znaleźć pending zadania
+// NOWA ITERACJA: Książka-pierwsza, nie język-pierwszy
+// System teraz przetwarza wszystkie języki dla jednej książki przed przejściem do następnej
 
 supported_languages = ["pl", "en", "es", "pt", "hi", "ja", "ko", "de", "fr"]
 SOURCE_NAME = null
 LANGUAGE_CODE = null
 PENDING_SUBITEM_KEY = null
 
-// Iteruj przez każdy język aby znaleźć pierwsze pending zadanie
-for (lang of supported_languages):
-  conditions = {
-    "afa_gen": "completed",
-    "audio_gen_" + lang: "pending"
-  }
-  
-  pending_audio_tasks = mcp__todoit__todo_find_items_by_status(
-    list_key: "cc-au-notebooklm",
-    conditions: conditions,
-    limit: 1
-  )
-  
-  if (pending_audio_tasks.success && pending_audio_tasks.matches.length > 0):
-    // Znaleziono zadanie dla tego języka
-    SOURCE_NAME = pending_audio_tasks.matches[0].parent.item_key
-    LANGUAGE_CODE = lang
-    PENDING_SUBITEM_KEY = "audio_gen_" + lang
-    break  // Zakończ pętlę po znalezieniu pierwszego zadania
+// NOWA LOGIKA: Najpierw znajdź książkę z pending zadaniami audio, potem pierwszy pending język dla tej książki
+
+// KROK 1: Znajdź wszystkie książki z ukończonym afa_gen (gotowe do generacji audio)
+books_with_afa = mcp__todoit__todo_find_items_by_status(
+  list_key: "cc-au-notebooklm",
+  conditions: {"afa_gen": "completed"},
+  limit: 50  // Zwiększony limit aby obejrzeć więcej książek
+)
+
+if (books_with_afa.success && books_with_afa.matches.length > 0):
+  // KROK 2: Dla każdej książki sprawdź czy ma pending audio_gen zadania
+  for (book_match of books_with_afa.matches):
+    book_name = book_match.parent.item_key
+
+    // KROK 3: Sprawdź każdy język dla tej konkretnej książki
+    for (lang of supported_languages):
+      // Użyj nowej funkcji z kompleksowymi warunkami
+      specific_task = mcp__todoit__todo_find_items_by_status(
+        list_key: "cc-au-notebooklm",
+        conditions: {
+          "item": {"item_key": book_name, "status": "in_progress"},
+          "subitem": {"audio_gen_" + lang: "pending"}
+        },
+        limit: 1
+      )
+
+      if (specific_task.success && specific_task.matches.length > 0):
+        // Znaleziono pierwsze pending zadanie dla tej książki w tym języku
+        SOURCE_NAME = book_name
+        LANGUAGE_CODE = lang
+        PENDING_SUBITEM_KEY = "audio_gen_" + lang
+        break  // Wyjdź z pętli języków
+
+    // Jeśli znaleziono zadanie, wyjdź również z pętli książek
+    if (SOURCE_NAME != null):
+      break
 
 if (SOURCE_NAME != null):
   
