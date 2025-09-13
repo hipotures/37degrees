@@ -5,3 +5,186 @@ book_info:
   year: 1726
   genre: "Satire,Adventure"
   reading_time: "10-12 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-12T14:30:00"
+  
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 60
+    percentile: 85
+  
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+  
+  themes:
+    universal:
+      - id: "prediction_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "Swift predicted Mars' two moons (Phobos and Deimos) with accurate orbital details 150 years before scientific discovery"
+        source: "facts_history"
+      - id: "censorship_002"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Lindalinian revolt passage censored for 173 years until 1899, revealing Swift's revolutionary critique"
+        source: "dark_drama"
+      - id: "dystopia_003"
+        type: "FACT"
+        credibility: 0.95
+        content: "Directly influenced Orwell's 1984 and Huxley's Brave New World, creating dystopian tradition"
+        source: "culture_impact"
+      - id: "yahoo_004"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Yahoos represent humanity's bestial nature - term entered language as 'crude person'"
+        source: "symbols_meanings"
+      - id: "tiktok_005"
+        type: "FACT"
+        credibility: 0.95
+        content: "12.7 million TikTok posts use Gulliver size-perspective for giant vs tiny memes"
+        source: "youth_digital"
+      - id: "fake_news_006"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Lagado Academy's text-generation machine predicted AI and fake news production"
+        source: "reality_wisdom"
+      - id: "colonialism_007"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Swift's critique of colonialism through Gulliver's power dynamics in different lands"
+        source: "symbols_meanings"
+      - id: "scandal_008"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Swift's controversial relationships with Stella and Vanessa sparked centuries of speculation"
+        source: "dark_drama"
+    
+    localized:
+      en:
+        cultural_impact: "Foundation text of English satire, created genre of satirical fantasy. Terms 'Lilliputian' and 'Yahoo' entered English permanently"
+        key_editions: ["1726 First Edition Benjamin Motte", "Oxford World's Classics", "Norton Critical Edition", "Penguin Classics"]
+        reception_notes: "Canonical status in English literature, required reading in universities worldwide"
+        educational_status: "Core text in AP Literature, university English courses"
+        local_themes: ["Brexit parallels with Big-Endian/Little-Endian", "Parliamentary satire still relevant", "Colonial guilt examination"]
+      
+      pl:
+        cultural_impact: "Multiple Polish translations since 19th century, strong tradition of political satire resonates with Polish history"
+        key_editions: ["Maciej Słomczyński translation", "Greg editions", "Zielona Sowa illustrated"]
+        reception_notes: "Read as allegory of political oppression, popular in communist era as veiled critique"
+        educational_status: "Optional reading in Polish secondary schools"
+        local_themes: ["Partition parallels", "Critique of authority resonates with Solidarity movement", "Size as metaphor for Poland between powers"]
+      
+      de:
+        cultural_impact: "Swift's work influenced German Romantic movement, extensive philosophical analysis in German academia"
+        key_editions: ["Reclam Universal-Bibliothek", "Insel Verlag", "dtv klassik"]
+        reception_notes: "Strong academic tradition, analyzed through Kantian and Hegelian philosophy"
+        educational_status: "Gymnasium reading list, university Anglistik programs"
+        local_themes: ["Kleinstaaterei parallels with Lilliput/Blefuscu", "Philosophical depth appeals to German intellectual tradition", "Technology critique relevant to Industry 4.0"]
+      
+      fr:
+        cultural_impact: "Influenced Voltaire's Candide, part of French satirical tradition. Multiple translations since 1727"
+        key_editions: ["Gallimard Folio", "Flammarion GF", "Livre de Poche"]
+        reception_notes: "Read alongside Voltaire and Rabelais as satirical masterpiece"
+        educational_status: "Lycée literature programs, agrégation d'anglais"
+        local_themes: ["Critique of absolutism resonates with French revolutionary tradition", "Academy satire parallels Académie française", "Size perspectives in bande dessinée adaptations"]
+      
+      es:
+        cultural_impact: "Widely read across Spanish-speaking world, influenced magical realism tradition"
+        key_editions: ["Cátedra Letras Universales", "Alianza Editorial", "Penguin Clásicos"]
+        reception_notes: "Popular in Latin America as colonial critique, Spain as political satire"
+        educational_status: "Bachillerato reading, university literature programs"
+        local_themes: ["Colonial dynamics in Gulliver's travels mirror conquistador narratives", "Size metaphors for Spain's imperial past", "Political satire resonates with Spanish transition"]
+      
+      pt:
+        cultural_impact: "Strong presence in Portugal and Brazil, multiple translations and adaptations"
+        key_editions: ["Penguin-Companhia", "Martin Claret", "L&PM Pocket"]
+        reception_notes: "Brazilian readers connect with colonial critique, Portuguese with maritime tradition"
+        educational_status: "Secondary education in Brazil, university courses"
+        local_themes: ["Maritime exploration parallels Portuguese discoveries", "Colonial power dynamics", "Carnival inversions of size and power"]
+      
+      ja:
+        cultural_impact: "First translation 1880, inspired Miyazaki (Castle in the Sky borrows Laputa), extensive manga adaptations"
+        key_editions: ["Iwanami Bunko", "Kadokawa", "2022 Shibata Motoyuki translation"]
+        reception_notes: "Japan as only real location in novel creates unique connection, 1965 Toei anime influential"
+        educational_status: "University English literature, children's versions widespread"
+        local_themes: ["East-West relations", "Technology critique resonates with Japanese modernization", "Isekai genre connections", "Buddhist perspective/size themes"]
+      
+      ko:
+        cultural_impact: "First Korean translation 1890s by Yun Chi-ho, complete unabridged 2000, Super Junior K-pop reference"
+        key_editions: ["Munhaksucheop complete edition", "YBM bilingual", "Samsung Elementary series"]
+        reception_notes: "Read through Confucian lens of proper governance, political satire appreciated"
+        educational_status: "Middle school curriculum, university comparative literature"
+        local_themes: ["Confucian governance critique", "Small nation between powers metaphor", "K-pop cultural bridge (Super Junior 'Gulliver' song)", "Webtoon potential unexplored"]
+      
+      hi:
+        cultural_impact: "Extensive translations in Hindi and regional languages, Bollywood adaptation Jajantaram Mamantaram (2003)"
+        key_editions: ["Maple Press regional editions", "Saraswati House educational", "Fingerprint Publishing"]
+        reception_notes: "Strong postcolonial reading, anti-colonial interpretation popular in academia"
+        educational_status: "CBSE Class 5 and 9 curriculum, NCERT approved"
+        local_themes: ["Colonial critique resonates strongly", "Caste system parallels in Houyhnhnm society", "Size as metaphor for colonial power", "Moral instruction tradition alignment"]
+  
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "Local culture specialist exploring regional reception and interpretation"
+        host_b: "Global literature observer comparing cross-cultural adaptations"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "local_context"
+          lead: "host_a"
+          description: "Swift predicted Mars' two moons with accurate orbital details 150 years early"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "Lindalinian revolt passage censored for 173 years until 1899"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "translations"
+          lead: "host_a"
+          description: "Directly influenced Orwell's 1984 and Huxley's Brave New World"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "adaptations"
+          lead: "host_b"
+          description: "12.7 million TikTok posts use size-perspective for memes"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "legacy"
+          lead: "host_a"
+          description: "Terms 'Lilliputian' and 'Yahoo' permanently entered English language"
+      prompts:
+        host_a: "You are {male_name}, examining 'Gulliver's Travels' from local cultural perspective. Discuss how the book resonates with regional history, local translations and adaptations, and connections to contemporary social issues."
+        host_b: "You are {female_name}, providing global context for 'Gulliver's Travels'. Compare international adaptations, discuss universal themes."
+  
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["colonial violence discussion", "satirical religious content", "some crude humor"]
+    educational_elements:
+      - "Satirical literature techniques"
+      - "Historical context of 1726 England"
+      - "Political allegory interpretation"
+      - "Literary influence on dystopian genre"
+    production_notes:
+      intro_style: "Begin with size perspective contrast - tiny figure looking up at giant"
+      transitions: "Use scale shifts as musical bridges between segments"
+      outro_style: "Return to normal human scale, philosophical reflection on perspective"
+  
+  overall_confidence: 0.90

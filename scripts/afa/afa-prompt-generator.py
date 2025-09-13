@@ -613,10 +613,26 @@ def main():
     
     book_folder = sys.argv[1]
     language = sys.argv[2]
-    format_type = sys.argv[3] if len(sys.argv) > 3 else 'friendly_exchange'
     
     # Initialize generator
     generator = AFAPromptGenerator()
+    
+    # Auto-select format from book.yaml if not provided
+    if len(sys.argv) > 3:
+        format_type = sys.argv[3]
+    else:
+        # Load book data to get format
+        try:
+            book_data = generator.load_book_data(book_folder)
+            # Get first format from formats section
+            available_formats = list(book_data['afa_analysis']['formats'].keys())
+            if not available_formats:
+                print(f"Error: No formats found in book.yaml for {book_folder}", file=sys.stderr)
+                sys.exit(1)
+            format_type = available_formats[0]
+        except Exception as e:
+            print(f"Error loading book data: {e}", file=sys.stderr)
+            sys.exit(1)
     
     try:
         # Generate prompt
@@ -630,6 +646,15 @@ def main():
         # Save to file
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(prompt)
+        
+        # Copy to clipboard for easy pasting
+        try:
+            import subprocess
+            # Use xsel with --input flag to properly set clipboard
+            subprocess.run(['xsel', '--clipboard', '--input'], 
+                          input=prompt, text=True, check=True, timeout=2)
+        except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+            pass  # Don't block execution if clipboard fails
         
         # Output only the prompt content (for piping to AI)
         print(prompt, end='')

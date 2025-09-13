@@ -29,11 +29,11 @@ Process scene_style subtasks systematically using the hierarchical TODOIT struct
 
 ### 2. Find Ready Scene Style Subtasks
 
-Use `todo_find_subitems_by_status` to locate subtasks ready for style application:
+Use `todo_find_items_by_status` to locate subtasks ready for style application:
 
 ```javascript
 // Find scene_style subtasks where scene_gen is completed but scene_style is pending
-const readyStyleTasks = await mcp__todoit__todo_find_subitems_by_status({
+const readyStyleTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: BOOK_FOLDER,
   conditions: {
     "scene_gen": "completed",

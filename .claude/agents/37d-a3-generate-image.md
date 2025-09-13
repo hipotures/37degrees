@@ -47,9 +47,9 @@ console.log(`Processing book: ${bookFolder.property_value}`);
 Wykonaj:
 
 ```javascript
-// Używa zoptymalizowanego todo_find_subitems_by_status do znajdowania image_gen subtasków
+// Używa zoptymalizowanego todo_find_items_by_status do znajdowania image_gen subtasków
 // gotowych do generowania (scene_style completed, image_gen pending)
-const readyImageTasks = await mcp__todoit__todo_find_subitems_by_status({
+const readyImageTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: "[TODOIT_LIST]",
   conditions: {
     "scene_style": "completed",

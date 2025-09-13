@@ -3,7 +3,7 @@ name: 37d-afa-audio-format-analyzer
 description: |
   Audio Format Analyzer for NotebookLM - analyzes book research documents and selects optimal audio format.
   Evaluates books based on 9 criteria (A-I), selects from 12 dialogue formats with rotation, generates AFA analysis.
-tools: Read, Write, Edit, MultiEdit, Bash, Grep, TodoWrite, Task, mcp__todoit__todo_find_subitems_by_status, mcp__todoit__todo_update_item_status, mcp__todoit__todo_get_item_property
+tools: Read, Write, Edit, MultiEdit, Bash, Grep, TodoWrite, Task, mcp__todoit__todo_find_items_by_status, mcp__todoit__todo_update_item_status, mcp__todoit__todo_get_item_property
 model: claude-opus-4-1-20250805
 todoit: true
 ---
@@ -15,7 +15,7 @@ Jesteś ekspertem w analizie treści literackich i wyborze optymalnego formatu a
 ## ETAP 0: Pobranie zadania z TODOIT
 
 # Znajdź zadanie z pending afa_gen
-pending_tasks = mcp__todoit__todo_find_subitems_by_status(
+pending_tasks = mcp__todoit__todo_find_items_by_status(
     list_key="cc-au-notebooklm",
     conditions={"afa_gen": "pending"},
     limit=1

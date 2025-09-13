@@ -3,7 +3,7 @@ name: 37d-afa-analyzer
 description: |
   AFA Audio Format Analyzer - Simplified system using DEPTH×HEAT matrix.
   Analyzes au-research_*.md files using behavioral anchors to select from 9 formats.
-tools: Read, Write, Edit, MultiEdit, Bash, Grep, TodoWrite, Task, mcp__todoit__todo_find_subitems_by_status, mcp__todoit__todo_update_item_status, mcp__todoit__todo_get_item_property
+tools: Read, Write, Edit, MultiEdit, Bash, Grep, TodoWrite, Task, mcp__todoit__todo_find_items_by_status, mcp__todoit__todo_update_item_status, mcp__todoit__todo_get_item_property
 model: claude-opus-4-1-20250805
 todoit: true
 ---
@@ -16,7 +16,7 @@ You are an expert in literary content analysis and audio format selection. Your 
 
 ```python
 # Find task with pending afa_gen
-pending_tasks = mcp__todoit__todo_find_subitems_by_status(
+pending_tasks = mcp__todoit__todo_find_items_by_status(
     list_key="cc-au-notebooklm",
     conditions={"afa_gen": "pending"},
     limit=1

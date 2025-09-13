@@ -1,19 +1,17 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: śro, 10 wrz 2025, 22:06:26 CEST
+Date: sob, 13 wrz 2025, 00:39:18 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
-0123_the_social_contract - 17
-0124_the_wealth_of_nations - 0 (empty directory)
-0125_a_vindication_of_the_rights_of_woman - 0 (empty directory)
-0126_the_communist_manifesto - 0 (empty directory)
-0127_on_liberty - 0 (empty directory)
-0128_thus_spoke_zarathustra - 0 (empty directory)
-0129_the_second_sex - 0 (empty directory)
-0130_the_wretched_of_the_earth - 0 (empty directory)
-0131_on_the_origin_of_species - 0 (empty directory)
+0125_a_vindication_of_the_rights_of_woman - 23
+0126_the_communist_manifesto - 24
+0127_on_liberty - 20
+0128_thus_spoke_zarathustra - 24
+0129_the_second_sex - 24
+0130_the_wretched_of_the_earth - 24
+0131_on_the_origin_of_species - 24
 0132_the_interpretation_of_dreams - 0 (empty directory)
 0133_silent_spring - 0 (empty directory)
 0134_pere_goriot - 0 (empty directory)
@@ -40,11 +38,9 @@ Phases to run: 2
 0154_mother_courage_and_her_children - 0 (empty directory)
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 33
+Books with incomplete/incorrect images: 31
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0123_the_social_contract
-0124_the_wealth_of_nations
 0125_a_vindication_of_the_rights_of_woman
 0126_the_communist_manifesto
 0127_on_liberty
@@ -78,15 +74,13 @@ Books with incomplete/incorrect images: 33
 0154_mother_courage_and_her_children
 
 === MISSING SCENES TO BE SET TO PENDING ===
-0123_the_social_contract: 8 missing scenes (0006, 0013, 0020, 0021, 0022, 0023, 0024, 0025)
-0124_the_wealth_of_nations: 25 missing scenes (0001-0025 (all - completely empty directory))
-0125_a_vindication_of_the_rights_of_woman: 25 missing scenes (0001-0025 (all - completely empty directory))
-0126_the_communist_manifesto: 25 missing scenes (0001-0025 (all - completely empty directory))
-0127_on_liberty: 25 missing scenes (0001-0025 (all - completely empty directory))
-0128_thus_spoke_zarathustra: 25 missing scenes (0001-0025 (all - completely empty directory))
-0129_the_second_sex: 25 missing scenes (0001-0025 (all - completely empty directory))
-0130_the_wretched_of_the_earth: 25 missing scenes (0001-0025 (all - completely empty directory))
-0131_on_the_origin_of_species: 25 missing scenes (0001-0025 (all - completely empty directory))
+0125_a_vindication_of_the_rights_of_woman: 2 missing scenes (0005, 0022)
+0126_the_communist_manifesto: 1 missing scenes (0011)
+0127_on_liberty: 5 missing scenes (0001, 0002, 0003, 0011, 0015)
+0128_thus_spoke_zarathustra: 1 missing scenes (0002)
+0129_the_second_sex: 1 missing scenes (0019)
+0130_the_wretched_of_the_earth: 1 missing scenes (0011)
+0131_on_the_origin_of_species: 1 missing scenes (0010)
 0132_the_interpretation_of_dreams: 25 missing scenes (0001-0025 (all - completely empty directory))
 0133_silent_spring: 25 missing scenes (0001-0025 (all - completely empty directory))
 0134_pere_goriot: 25 missing scenes (0001-0025 (all - completely empty directory))

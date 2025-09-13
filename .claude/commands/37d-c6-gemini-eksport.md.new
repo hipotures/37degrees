@@ -9,7 +9,7 @@
 
 ### STEP 1: Get Task
 ```javascript
-const task = await mcp__todoit__todo_find_subitems_by_status({
+const task = await mcp__todoit__todo_find_items_by_status({
   list_key: "[BOOK_FOLDER]",
   conditions: { "ds_gen": "completed", "ds_exp": "pending" },
   limit: 1
@@ -126,7 +126,7 @@ browser_evaluate(js_code)
 
 ### Todo Commands
 ```javascript
-todo_find_subitems_by_status(params)
+todo_find_items_by_status(params)
 todo_get_item_property(params)
 todo_update_item_status(params)
 ```

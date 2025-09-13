@@ -46,11 +46,11 @@ if (!listInfo.success) {
 
 ### 2. Find Ready Scene Style Subtasks
 
-Use `todo_find_subitems_by_status` to locate subtasks ready for style application:
+Use `todo_find_items_by_status` to locate subtasks ready for style application:
 
 ```javascript
 // Find scene_style subtasks where scene_gen is completed but scene_style is pending
-const readyStyleTasks = await mcp__todoit__todo_find_subitems_by_status({
+const readyStyleTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: BOOK_FOLDER,
   conditions: {
     "scene_gen": "completed",
@@ -239,7 +239,7 @@ const progress = await mcp__todoit__todo_get_progress({
 });
 
 // Count completed style subtasks
-const completedStyleTasks = await mcp__todoit__todo_find_subitems_by_status({
+const completedStyleTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: BOOK_FOLDER,
   conditions: {
     "scene_style": "completed"
@@ -274,7 +274,7 @@ After completion, the system is ready for 37d-a3-generate-image:
 
 ```javascript
 // Verify readiness for next stage
-const readyImageTasks = await mcp__todoit__todo_find_subitems_by_status({
+const readyImageTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: BOOK_FOLDER,
   conditions: {
     "scene_style": "completed",

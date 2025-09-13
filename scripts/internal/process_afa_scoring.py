@@ -36,8 +36,8 @@ def main():
     # Calculate DEPTH and HEAT
     DEPTH, depth_category, HEAT, heat_category = calculate_depth_heat_composites(ai_response)
     
-    # Select format from matrix
-    selected_format = select_format_from_matrix(depth_category, heat_category)
+    # Select format from matrix with heuristic balancing
+    selected_format = select_format_from_matrix(depth_category, heat_category, ai_response=ai_response)
     
     # Output in simple format for agent to parse
     print(f"DEPTH|{DEPTH:.1f}|{depth_category}|HEAT|{HEAT:.1f}|{heat_category}|FORMAT|{selected_format['name']}|{selected_format['duration']}")

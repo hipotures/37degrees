@@ -5,3 +5,177 @@ book_info:
   year: 1965
   genre: "Science fiction,Space opera"
   reading_time: "20-25 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-20T14:30:00Z"
+  
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 7
+    structural_complexity: 7
+    social_roles: 7
+    total: 66
+    percentile: 95
+  
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+  
+  themes:
+    universal:
+      - id: "ecological_prophecy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Herbert's 1965 ecological predictions (climate crisis, resource wars, water scarcity) have proven remarkably accurate 60 years later"
+        source: "reality_wisdom"
+      - id: "homophobic_content"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Baron Harkonnen as only gay character presented as 'kazirodczy pedofil', plus problematic quotes about homosexuality requiring content warnings"
+        source: "dark_drama"
+      - id: "fascist_interpretations"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Book popular among alt-right and white nationalists who interpret Paul's story as 'plan for civilizational renewal requiring billions of sacrifices'"
+        source: "dark_drama"
+      - id: "drug_creativity"
+        type: "FACT"
+        credibility: 0.85
+        content: "Herbert admitted psilocybin and peyote use during writing; Paul Stamets claims 'significant portion of Dune assumptions came from magic mushroom experiences'"
+        source: "dark_drama"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations across all media: films, TV, games, music albums, board games, creating major franchise influence on Star Wars and entire sci-fi genre"
+        source: "culture_impact"
+      - id: "gen_z_viral"
+        type: "FACT"
+        credibility: 0.90
+        content: "TikTok explosion with 27.8M #dunememe posts, 'Lisan al-Gaib' viral trends, and Paul Atreides 'Silence!' meme reaching 9.6M views in 4 days"
+        source: "youth_digital"
+      - id: "literary_innovation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary world-building techniques, ecological sci-fi pioneer, complex narrative structure with epigraphs and multi-perspective storytelling"
+        source: "writing_innovation"
+      - id: "religious_syncretism"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "40+ symbolic interpretations blending Christian, Islamic, Jewish, Buddhist elements creating profound philosophical work studied across cultures"
+        source: "symbols_meanings"
+    
+    localized:
+      en:
+        cultural_impact: "Foundational to English-speaking science fiction canon, Hugo/Nebula winner, sold 20M copies, academic study guides widespread"
+        key_editions: ["Chilton first edition 1965", "Penguin classics editions", "Movie tie-in versions"]
+        reception_notes: "Canonical status in Western literature, influenced Star Wars and modern sci-fi"
+        educational_status: "University literature courses, science fiction studies"
+        local_themes: ["Colonial discourse analysis", "Environmental consciousness pioneer"]
+      
+      pl:
+        cultural_impact: "Cult status among Polish sci-fi fans, translation debates over Marszał vs Łoziński versions creating cultural phenomenon"
+        key_editions: ["REBIS Marszał translations", "Iskra 1985 first edition", "PYRKON convention discussions"]
+        reception_notes: "20-year wait for Polish translation, now essential Polish sci-fi reading"
+        educational_status: "Appears in school book categories but not mandatory curriculum"
+        local_themes: ["Post-communist power analysis", "Environmental awareness post-PRL industrialization"]
+      
+      de:
+        cultural_impact: "Deep philosophical analysis tradition, Heyne Verlag 50+ year publication history with multiple translation generations"
+        key_editions: ["Heyne Verlag editions", "Ronald M. Hahn translation (1978)", "Jakob Schmidt modern translation (2016)"]
+        reception_notes: "Strong academic engagement with ecological and consciousness themes"
+        educational_status: "University philosophy and consciousness studies integration"
+        local_themes: ["Jungian psychology analysis", "Frankfurt School power structure critique"]
+      
+      fr:
+        cultural_impact: "Prestigious Ailleurs & Demain collection status, Quebec director Villeneuve brings francophone perspective to adaptations"
+        key_editions: ["Robert Laffont Ailleurs & Demain", "Michel Demuth translations", "50th anniversary collector edition"]
+        reception_notes: "Campus popularity from 1960s, academic multidisciplinary studies"
+        educational_status: "Quebec university case studies on society-environment-power relationships"
+        local_themes: ["Post-structuralist semiotic analysis", "Quebec religious-political oppression parallels"]
+      
+      es:
+        cultural_impact: "Domingo Santos masterful translations for entire Spanish-speaking world, Lynch film shot in Mexico creating cultural connection"
+        key_editions: ["Editorial Acervo 1975 first", "Domingo Santos complete series", "Casa del Libro modern editions"]
+        reception_notes: "University cult status alongside Stranger in Strange Land and LOTR"
+        educational_status: "Spanish university science fiction studies integration"
+        local_themes: ["Desert ecology relevance to Spanish landscape", "Colonial resource exploitation critique"]
+      
+      pt:
+        cultural_impact: "Editora Aleph 35+ years as Brazilian sci-fi specialist, premium literary treatment with Neil Gaiman introductions"
+        key_editions: ["Aleph revised translations", "Maria do Carmo Zanini quality translations", "Hardcover collector formats"]
+        reception_notes: "Recognized as 'one of modern science fiction pillars', pandemic-era cinema significance"
+        educational_status: "UNIP academic research on science education potential"
+        local_themes: ["Brazilian environmental consciousness resonance", "Portuguese translation quality demands"]
+      
+      ja:
+        cultural_impact: "Shotaro Ishinomori legendary manga illustrations, direct inspiration for Miyazaki's Nausicaa creating 'anime's answer to Dune'"
+        key_editions: ["Hayakawa Shobo Yano Tetsu translations", "Ishinomori illustrated editions", "Collector Gundam-style artwork"]
+        reception_notes: "Zen Buddhist philosophy connections, environmental consciousness alignment"
+        educational_status: "Hayakawa SF Magazine establishment as serious literature"
+        local_themes: ["Zensunni Eastern philosophy integration", "Religious syncretism familiar to Shinto-Buddhist coexistence"]
+      
+      ko:
+        cultural_impact: "2021 film drove series to #1 Korean novel sales for first time in 20 years, 200K+ copies sold including e-books"
+        key_editions: ["Hwanggeumgaji 18-volume series", "Kim Seung-wook translations", "2021 condensed 6-volume edition"]
+        reception_notes: "1990s SF boom introduction, 2021 film reached 1.21M viewers in 27 days"
+        educational_status: "Limited university integration unlike other Western classics"
+        local_themes: ["Arabic terminology translation challenges", "No webtoon adaptations despite thriving industry"]
+      
+      hi:
+        cultural_impact: "Bengali translation success, academic postcolonial analysis, Thar Desert research connections to Herbert's ecological themes"
+        key_editions: ["Hachette India editions", "Bengali ডুন translation", "Amazon.in/Flipkart distribution"]
+        reception_notes: "Moderate box office (5-31 crores), growing urban audience interest, IMAX premium format appeal"
+        educational_status: "Postcolonial studies academic papers, potential literature course integration"
+        local_themes: ["Hindu-Buddhist spiritual consciousness parallels", "Desert spirituality ascetic traditions connection"]
+  
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Herbert's 1965 prophetic vision: climate crisis, resource wars, and authoritarian warnings that define today's challenges"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Colonial critique through Arrakis-Middle East parallels, fascist interpretations, and problematic LGBTQ+ representation requiring content warnings"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "TikTok viral phenomenon with 27.8M #dunememe posts, Gen Z mental health connections, and Desert Core fashion trends"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Cultural bridge across 9 languages: from Japanese manga adaptations to Polish translation wars, maintaining relevance through controversy and innovation"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Dune' through lens of power, gender, class. Historical context: 1965 ecological prophecy now verified through climate crisis, resource wars, authoritarian rise."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates: viral TikTok phenomena, postcolonial readings, LGBTQ+ representation problems requiring modern critical analysis."
+  
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["homophobic content discussion", "colonial themes analysis", "drug use references in creative process context", "extremist interpretation concerns"]
+    educational_elements: ["Science fiction genre characteristics", "Historical context of 1965 counterculture", "Environmental prophecy and climate change", "Postcolonial literary analysis", "Social media and viral culture studies"]
+    production_notes:
+      intro_style: "atmospheric desert soundscape with Hans Zimmer-inspired tones"
+      transitions: "subtle musical bridges with sci-fi ambient elements"
+      outro_style: "contemplative fade connecting past prophecy to present reality"
+  
+  overall_confidence: 0.92

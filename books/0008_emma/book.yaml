@@ -5,3 +5,189 @@ book_info:
   year: 1815
   genre: "Novel,Romance"
   reading_time: "12-14 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-12T14:30:00Z"
+  
+  scores:
+    controversy: 7
+    philosophical_depth: 7
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 60
+    percentile: 85
+  
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 7.5
+      category: "medium"
+  
+  themes:
+    universal:
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Emma pioneered sustained free indirect discourse, influencing modernist writers Joyce and Woolf"
+        source: "writing_innovation"
+      - id: "social_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Emma's matchmaking behavior mirrors modern social media influencer culture and dating apps"
+        source: "youth_digital"
+      - id: "feminist_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Emma both empowers and constrains women's agency - feminist paradox still debated"
+        source: "symbols_meanings"
+      - id: "class_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Sharp satire of British class hierarchies remains relevant to modern privilege discourse"
+        source: "reality_wisdom"
+      - id: "scandal_4"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Multiple conspiracy theories exist about Jane Austen's true identity and destroyed letters"
+        source: "dark_drama"
+      - id: "dating_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Emma's toxic behaviors prefigure modern relationship red flags and manipulation patterns"
+        source: "reality_wisdom"
+      - id: "philosophy_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Buddhist parallels: journey from self-delusion to enlightenment through suffering"
+        source: "symbols_meanings"
+      - id: "genre_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created template for romantic comedy genre and psychological novel form"
+        source: "culture_impact"
+    
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, taught at all major universities"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Continuous academic scholarship since 1816, with Emma as narrative innovation exemplar"
+        educational_status: "Core curriculum in English literature programs"
+        local_themes: ["Free indirect discourse innovation", "Victorian social critique"]
+      
+      pl:
+        cultural_impact: "Official school reading list (lektura szkolna) for Polish matura exam"
+        key_editions: ["Czytelnik (1963)", "Zielona Sowa", "MG (Edyta Głód translation)"]
+        reception_notes: "First Polish translation appeared 148 years after original (1963)"
+        educational_status: "Required reading for matura examination"
+        local_themes: ["Post-communist class readings", "Parallels to Polish 19th century literature"]
+      
+      de:
+        cultural_impact: "Serious German reception began only in 1981 with Grawe translation"
+        key_editions: ["Reclam Universal-Bibliothek", "Fischer Taschenbuch", "Insel Taschenbuch"]
+        reception_notes: "Emma examined through Bildungsroman tradition and philosophical frameworks"
+        educational_status: "University-level study, not standard Gymnasium curriculum"
+        local_themes: ["Bildungsroman connections", "Romantic period parallels"]
+      
+      fr:
+        cultural_impact: "Emma described as 'la plus française des héroïnes de Jane Austen'"
+        key_editions: ["Gallimard Pléiade (2013)", "Folio classique (2015)"]
+        reception_notes: "10 French translations since 1816, frequent Flaubert comparisons"
+        educational_status: "Studied in comparative literature with Madame Bovary"
+        local_themes: ["Realist tradition influence", "Emma Woodhouse vs Emma Bovary"]
+      
+      es:
+        cultural_impact: "Integrated into proto-feminist literary discourse in Hispanic academia"
+        key_editions: ["Penguin Clásicos", "Plaza y Janés", "UNAM edition (Mexico)"]
+        reception_notes: "First Spanish translation 1945, 11 different translators documented"
+        educational_status: "University programs focus on feminist literary analysis"
+        local_themes: ["Female independence themes", "Class critique relevance to Latin America"]
+      
+      pt:
+        cultural_impact: "Globo's 2018 telenovela 'Orgulho e Paixão' incorporated Emma's story"
+        key_editions: ["Nova Fronteira", "BestSeller", "Penguin-Companhia das Letras (2023)"]
+        reception_notes: "Brazilian adaptation to Coffee Valley setting shows cultural relevance"
+        educational_status: "Featured in ENEM and vestibular exam preparation"
+        local_themes: ["Parallels with Machado de Assis", "Social irony traditions"]
+      
+      ja:
+        cultural_impact: "Emma's 'haiku-style realism' resonates with Japanese aesthetic principles"
+        key_editions: ["Iwanami Bunko", "Chuko Bunko", "Keiko Parker translation"]
+        reception_notes: "2015-2016 manga adaptation wave brought Emma to younger readers"
+        educational_status: "One of most frequently taught English writers in Japan"
+        local_themes: ["Collectivist vs individualist interpretations", "Social harmony themes"]
+      
+      ko:
+        cultural_impact: "Emma's social hierarchy themes parallel Korean social stratification"
+        key_editions: ["Minumsa", "Sigongsa", "Open Books"]
+        reception_notes: "Multiple competing translations indicate strong market demand"
+        educational_status: "Featured in university English literature departments"
+        local_themes: ["Confucian moral education parallels", "Matchmaking traditions"]
+      
+      hi:
+        cultural_impact: "Bollywood's 'Aisha' (2010) transplanted Emma to upper-class Delhi"
+        key_editions: ["Hindi translation as 'एम्मा'", "Bengali edition available"]
+        reception_notes: "Themes of matchmaking and class resonate with Indian society"
+        educational_status: "Studied in English literature programs, not in vernacular curricula"
+        local_themes: ["Arranged marriage parallels", "Class consciousness in Indian context"]
+  
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 13
+      hosts:
+        host_a: "You are {male_name}, a classical literature expert from 1815. Explain 'Emma' in its original Regency context, social conventions, and Jane Austen's intentions."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'Emma', connect to social media culture, dating apps, and contemporary gender discussions."
+      structure:
+        - segment: 1
+          time_range: "00:00-02:36"
+          topic: "original_era"
+          lead: "host_a"
+          description: "Emma in 1815: A revolutionary portrait of female agency within strict social constraints"
+        - segment: 2
+          time_range: "02:36-05:12"
+          topic: "evolution"
+          lead: "host_b"
+          description: "From matchmaking to dating apps: How Emma predicted social media influencer culture"
+        - segment: 3
+          time_range: "05:12-07:48"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Class consciousness then and now: Why Emma's social critique remains painfully relevant"
+        - segment: 4
+          time_range: "07:48-10:24"
+          topic: "narrative_innovation"
+          lead: "host_b"
+          description: "Free indirect discourse: How Austen's technique revolutionized storytelling"
+        - segment: 5
+          time_range: "10:24-13:00"
+          topic: "timelessness"
+          lead: "host_a"
+          description: "The eternal Emma: Why toxic relationship patterns never change"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'Emma' in its original 1815 context, Regency social conventions, and Austen's revolutionary narrative techniques. Focus on themes: class hierarchy, women's limited options, marriage as economic necessity."
+        host_b: "You are {female_name} from 2025. Connect Emma to modern life: social media influencers, dating app culture, toxic relationships, privilege discourse. Highlight how Emma's matchmaking predicts algorithmic dating and her 'main character syndrome'."
+  
+  metadata:
+    target_audience: "14+"
+    content_warnings:
+      - "Discussion of historical class discrimination"
+      - "Analysis of manipulative relationship behaviors"
+      - "References to colonial wealth and slavery context"
+    educational_elements:
+      - "Free indirect discourse literary technique"
+      - "Regency era social history and women's roles"
+      - "Evolution of romantic comedy genre"
+      - "Critical analysis of privilege and social hierarchies"
+    production_notes:
+      intro_style: "Period music transitioning to modern sounds"
+      transitions: "subtle musical bridges between temporal shifts"
+      outro_style: "Blend of classical and contemporary elements"
+  
+  overall_confidence: 0.92

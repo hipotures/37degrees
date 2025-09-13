@@ -24,7 +24,7 @@ mcp__playwright-cdp__browser_snapshot()
 TARGET_LANG = get_parameter("lang", default="pl")
 
 // Znajdź zadanie z pending audio_gen_{TARGET_LANG}
-pending_tasks = mcp__todoit__todo_find_subitems_by_status(
+pending_tasks = mcp__todoit__todo_find_items_by_status(
     list_key="cc-au-notebooklm",
     conditions={f"audio_gen_{TARGET_LANG}": "pending"},
     limit=1

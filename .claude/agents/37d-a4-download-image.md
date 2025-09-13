@@ -45,7 +45,7 @@ console.log(`Project ID: ${projectId.property_value}`);
 
 ```javascript
 
-const readyDownloadTasks = await mcp__todoit__todo_find_subitems_by_status({
+const readyDownloadTasks = await mcp__todoit__todo_find_items_by_status({
   list_key: "[BOOK_FOLDER]",
   conditions: {
     "image_gen": "completed",
