@@ -25,10 +25,11 @@ def run_todoit_cmd(args):
 
 def main():
     # COMMAND 1: Get first book with completed afa_gen
+    # Note: --status is required by todoit even when using --complex
     output1, returncode1 = run_todoit_cmd([
         "item", "find-status", "--list", TARGET_LIST,
-        "--status", "in_progress",
-        "--complex", '{"afa_gen": "completed"}',
+        "--status", "in_progress",  # Required by todoit API, actual filter in --complex
+        "--complex", '{"item": {"status": "in_progress"}, "subitem": {"afa_gen": "completed"}}',
         "--limit", "1"
     ])
 
