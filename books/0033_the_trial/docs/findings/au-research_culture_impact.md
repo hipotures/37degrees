@@ -1,189 +1,189 @@
-# Wpływ kulturowy "Procesu" Franza Kafki
+# Cultural Impact of Franz Kafka's "The Trial"
 
-## Wprowadzenie
+## Introduction
 
-"Proces" (Der Prozess, 1925) Franza Kafki to jedno z najbardziej wpływowych dzieł literatury XX wieku, które wykroczyło daleko poza ramy literatury, stając się symbolem absurdu biurokratycznego i alienacji nowoczesnego człowieka. Powieść wprowadził do kulturowego słownika termin "kafkowski", używany do opisu sytuacji przypominających świat Kafki.
+"The Trial" (Der Prozess, 1925) by Franz Kafka is one of the most influential works of 20th-century literature, which has extended far beyond the realm of literature to become a symbol of bureaucratic absurdity and modern human alienation. The novel introduced the term "Kafkaesque" into the cultural vocabulary, used to describe situations reminiscent of Kafka's world.
 
-## Główne adaptacje filmowe i teatralne
+## Major Film and Theater Adaptations
 
-### Adaptacje filmowe
+### Film Adaptations
 
-1. **Film Orsona Wellesa (1962)** - Najsławniejsza adaptacja kinowa napisana i wyreżyserowana przez Orson Welles. Anthony Perkins gra Józefa K., a w obsadzie występują Jeanne Moreau, Romy Schneider i Elsa Martinelli. Welles stwierdził po zakończeniu filmu: "Proces to najlepszy film jaki kiedykolwiek nakręciłem".
+1. **Orson Welles Film (1962)** - The most famous cinematic adaptation written and directed by Orson Welles. Anthony Perkins plays Josef K., with Jeanne Moreau, Romy Schneider, and Elsa Martinelli in the cast. Welles stated after completing the film: "The Trial is the best film I have ever made."
 
-2. **Adaptacja Harolda Pintera (1993)** - Wersja z scenariuszem Harolda Pintera, która eksploruje wspólne motywy egzystencjalnej winy i nieustannego zagrożenia między twórczością Kafki i Pintera.
+2. **Harold Pinter Adaptation (1993)** - Version with screenplay by Harold Pinter, exploring common themes of existential guilt and constant threat between Kafka's and Pinter's work.
 
-3. **Wpływ na inne filmy** - Patrick McGoohan wykorzystał wnętrza z "Procesu" Wellesa w słynnym otwarciu "Więźnia", a David Lynch zapożyczył zewnętrzne ujęcia do "Eraserhead".
+3. **Influence on Other Films** - Patrick McGoohan used interiors from Welles' "The Trial" in the famous opening of "The Prisoner," and David Lynch borrowed exterior shots for "Eraserhead."
 
-### Adaptacje teatralne
+### Theater Adaptations
 
-4. **"Ta, Ta, Tatata"** - Izraelska reżyserka Rina Yerushalmi zaadaptowała "Proces" (w parze z "Malone Dies" Samuela Becketta) w produkcji przedstawionej w czerwcu 1970 w La MaMa Experimental Theatre Club.
+4. **"Ta, Ta, Tatata"** - Israeli director Rina Yerushalmi adapted "The Trial" (paired with Samuel Beckett's "Malone Dies") in a production presented in June 1970 at La MaMa Experimental Theatre Club.
 
-5. **"K."** - Greg Allen z Chicago napisał i wyreżyserował adaptację teatralną opartą na "Procesie".
+5. **"K."** - Greg Allen from Chicago wrote and directed a theatrical adaptation based on "The Trial."
 
-### Opera i balet
+### Opera and Ballet
 
-6. **Opera Philipa Glassa** - Philip Glass i librecista Christopher Hampton stworzyli operową adaptację "Procesu", która miała premierę w 2014 przez Music Theatre Wales i amerykańską premierę w Opera Theatre of Saint Louis.
+6. **Philip Glass Opera** - Philip Glass and librettist Christopher Hampton created an operatic adaptation of "The Trial," which premiered in 2014 by Music Theatre Wales and had its American premiere at Opera Theatre of Saint Louis.
 
-7. **Balet Królewskiego Baletu Szwedzkiego** - Choreograf Jiří Bubeníček stworzył baletową wersję "Procesu" dla Królewskiego Baletu Szwedzkiego, inspirowaną powieścią Kafki.
+7. **Royal Swedish Ballet** - Choreographer Jiří Bubeníček created a ballet version of "The Trial" for the Royal Swedish Ballet, inspired by Kafka's novel.
 
-8. **Czeski Balet Narodowy** - Włoski choreograf Mauro Bigonzetti stworzył adaptację baletową dla Czeskiego Baletu Narodowego, luźno inspirowaną arcydziełem literackim Kafki z 1914 roku.
+8. **Czech National Ballet** - Italian choreographer Mauro Bigonzetti created a ballet adaptation for the Czech National Ballet, loosely inspired by Kafka's 1914 literary masterpiece.
 
-## Wpływ na twórców i artystów
+## Influence on Creators and Artists
 
-### Pisarze bezpośrednio inspirowani Kafką
+### Writers Directly Inspired by Kafka
 
-9. **Haruki Murakami** - Japoński pisarz oddał hołd Kafce w powieści "Kafka nad morzem".
+9. **Haruki Murakami** - The Japanese writer paid homage to Kafka in the novel "Kafka on the Shore."
 
-10. **Albert Camus** - Powieść "Obcy" dzieli z Kafką preokupację egzystencjalną alienacją.
+10. **Albert Camus** - The novel "The Stranger" shares with Kafka a preoccupation with existential alienation.
 
-11. **George Orwell** - "1984" echuje kafkowskie tematy opresyjnej biurokracji i utraty autonomii jednostki.
+11. **George Orwell** - "1984" echoes Kafkaesque themes of oppressive bureaucracy and loss of individual autonomy.
 
-12. **Jorge Luis Borges** - Argentyński pisarz inspirowany kafkowskimi labiryntami znaczeń.
+12. **Jorge Luis Borges** - The Argentine writer was inspired by Kafkaesque labyrinths of meaning.
 
-13. **Gabriel García Márquez** - Laureat Nobla wpływany kafkowskim absurdem.
+13. **Gabriel García Márquez** - The Nobel laureate was influenced by Kafkaesque absurdity.
 
-14. **J.M. Coetzee** - Południowoafrykański pisarz kontynuujący kafkowskie tematy władzy i alienacji.
+14. **J.M. Coetzee** - The South African writer continues Kafkaesque themes of power and alienation.
 
-15. **Thomas Pynchon** - Jego złożone, spiskomierske narracje w dziełach jak "The Crying of Lot 49" odzwierciedlają wpływ Kafki.
+15. **Thomas Pynchon** - His complex, conspiracy-laden narratives in works like "The Crying of Lot 49" reflect Kafka's influence.
 
-### Współcześni autorzy
+### Contemporary Authors
 
-16. **Stig Dagerman** - Szwedzki pisarz wpływany kafkowską estetyką.
+16. **Stig Dagerman** - Swedish writer influenced by Kafkaesque aesthetics.
 
-17. **Eugène Ionesco** - Dramaturg teatru absurdu inspirowany Kafką.
+17. **Eugène Ionesco** - Theater of the absurd playwright inspired by Kafka.
 
-18. **Ray Bradbury** - Jego science fiction podąża tropami kafkowskiego uniwersum.
+18. **Ray Bradbury** - His science fiction follows the paths of Kafka's universe.
 
-## Fenomen społeczny i kulturowy
+## Social and Cultural Phenomenon
 
-### Termin "kafkowski"
+### The Term "Kafkaesque"
 
-19. **Definicja** - "Kafkowski" oznacza sytuacje o "koszmarnie złożonym, dziwacznym lub nielogicznym charakterze, szczególnie dotyczące biurokracji lub opresji".
+19. **Definition** - "Kafkaesque" means situations of "nightmarishly complex, bizarre, or illogical quality, especially relating to bureaucracy or oppression."
 
-20. **Uniwersalny symbol** - Jak stwierdził Frederick Karl: "Kafkowski stało się 'reprezentatywnym przymiotnikiem naszych czasów... to jedyne słowo, które mówi nam, czym jesteśmy, czego możemy oczekiwać, jak działa świat'".
+20. **Universal Symbol** - As Frederick Karl stated: "Kafkaesque has become 'the representative adjective of our times... it is the only word that tells us what we are, what we can expect, how the world works.'"
 
-21. **Wpływ na język** - Termin używany w mediach, polityce i życiu codziennym dla opisania absurdalnych sytuacji biurokratycznych.
+21. **Impact on Language** - The term is used in media, politics, and daily life to describe absurd bureaucratic situations.
 
-### Wpływ na kulturę popularną
+### Impact on Popular Culture
 
-22. **Film "Brazylia"** Terry'ego Gilliama - Silnie czerpie z kafkowskich tematów.
+22. **Terry Gilliam's "Brazil"** - Heavily draws from Kafkaesque themes.
 
-23. **Serial "Black Mirror"** - Eksploruje kafkowskie absurdy cyfrowe.
+23. **"Black Mirror" Series** - Explores digital Kafkaesque absurdities.
 
-24. **"Autostopem przez galaktykę"** - Scena z Vogońską biurokracją przekazuje "poczucie przytłaczającej daremności wobec biurokracji".
+24. **"The Hitchhiker's Guide to the Galaxy"** - The Vogon bureaucracy scene conveys "a sense of overwhelming futility in the face of bureaucracy."
 
-## Wpływ na muzykę i sztuki wizualne
+## Impact on Music and Visual Arts
 
-### Muzyka
+### Music
 
-25. **The Cure** - Brytyjski zespół goth inspirowany opowiadaniami i listami Kafki.
+25. **The Cure** - British gothic band inspired by Kafka's stories and letters.
 
-26. **David Bowie** - "Ashes to Ashes" odnosi się do Kafki i "parafrazuje trafną wypowiedź Kafki o mocy literatury do 'przełamywania lodu' w nas".
+26. **David Bowie** - "Ashes to Ashes" references Kafka and "paraphrases Kafka's apt statement about literature's power to 'break the ice' within us."
 
-27. **Muzyka klasyczna** - Liczne kompozycje inspirowane atmosferą kafkowskich dzieł.
+27. **Classical Music** - Numerous compositions inspired by the atmosphere of Kafka's works.
 
-### Sztuki wizualne
+### Visual Arts
 
-28. **Elke Rehder** - "Franz Kafka The Trial - Court Floor" - wizualne interpretacje sali sądowej z powieści.
+28. **Elke Rehder** - "Franz Kafka The Trial - Court Floor" - visual interpretations of the courtroom from the novel.
 
-29. **Instalacje artystyczne** - Współcześni artyści tworzą instalacje inspirowane kafkowskim absurdem biurokratycznym.
+29. **Art Installations** - Contemporary artists create installations inspired by Kafkaesque bureaucratic absurdity.
 
-## Media cyfrowe i gry
+## Digital Media and Games
 
-### Gry wideo
+### Video Games
 
-30. **"The Trial" (Steam)** - Unikalna interaktywna adaptacja literacka opisana jako "pierwsza interaktywna książka w nadchodzącej serii adaptacji literackich".
+30. **"The Trial" (Steam)** - A unique interactive literary adaptation described as "the first interactive book in an upcoming series of literary adaptations."
 
-31. **"Playing Kafka"** - Projekt Instytutu Goethego i studia Charles Games, pozwalający "zanurzyć się wirtualnie w tajemniczym świecie powieści Kafki".
+31. **"Playing Kafka"** - A project by the Goethe Institute and Charles Games studio, allowing users to "virtually immerse in the mysterious world of Kafka's novels."
 
-32. **"The Franz Kafka Videogame"** - Gra wyobrażająca sobie "jak wyglądałaby kafkowska gra wideo (ale nieco mniej pokręcona), zawierając odniesienia do jego dzieł".
+32. **"The Franz Kafka Videogame"** - A game imagining "what a Kafkaesque video game would look like (but slightly less twisted), containing references to his works."
 
-### Cechy gier
+### Game Features
 
-33. **Interaktywność** - Gry oferują "angażujące dialogi z postaciami i interaktywne zagadki", gdzie "każdy wybór wpływa na przebieg gry i historii".
+33. **Interactivity** - Games offer "engaging dialogues with characters and interactive puzzles," where "every choice affects the course of the game and story."
 
-34. **Projekt wizualny** - Celowo przedstawiają "alienację i anonimowość biurokratycznej machiny" przez "bardzo oszczędne postacie i oszczędne środowiska".
+34. **Visual Design** - Deliberately represent "alienation and anonymity of the bureaucratic machine" through "very sparse characters and sparse environments."
 
-## Miejsca i muzea związane z Kafką
+## Places and Museums Related to Kafka
 
-### Praga - miejsca kafkowskie
+### Prague - Kafkaesque Places
 
-35. **Muzeum Franza Kafki** - Główne muzeum w unikalnych pomieszczeniach Hergetova cihelna w Malej Stranie nad brzegiem Wełtawy, otwarte latem 2005 roku.
+35. **Franz Kafka Museum** - Main museum in the unique premises of Hergetova cihelna in Mala Strana on the banks of the Vltava River, opened in summer 2005.
 
-36. **Wystawa "Świat Franza Kafki"** - Alternatywna wystawa, będąca wynikiem ponad 20 lat pracy artysty Miroslava Joudala.
+36. **"The World of Franz Kafka" Exhibition** - Alternative exhibition, the result of over 20 years of work by artist Miroslav Joudal.
 
-37. **Pomnik Franza Kafki** - Czterometrowy brązowy pomnik autorstwa Jaroslav Róna koło Synagogi Hiszpańskiej w dzielnicy Josefov.
+37. **Franz Kafka Monument** - Four-meter bronze monument by Jaroslav Róna near the Spanish Synagogue in the Josefov district.
 
-38. **Dom "Zum Schiff"** - Na ulicy Pařížská, gdzie Kafka mieszkał między 1907-1913, z widokiem na Wełtawę i Most Karola.
+38. **"Zum Schiff" House** - On Pařížská Street, where Kafka lived between 1907-1913, with a view of the Vltava and Charles Bridge.
 
-### Atrakcje turystyczne
+### Tourist Attractions
 
-39. **Fontanna Davida Černý** - Przy wejściu do muzeum, fontanna przedstawiająca dwóch mężczyzn piszących wiadomości przez oddawanie moczu do płytkiego stawu w kształcie Czech.
+39. **David Černý's Fountain** - At the museum entrance, a fountain depicting two men writing messages by urinating into a shallow pond shaped like the Czech Republic.
 
-40. **Mapy "Praga Franza Kafki"** - Dostępne w wielu językach: czeskim, angielskim, niemieckim, francuskim, hiszpańskim, włoskim, rosyjskim, japońskim, koreańskim, chińskim, tureckim i hebrajskim.
+40. **"Franz Kafka's Prague" Maps** - Available in multiple languages: Czech, English, German, French, Spanish, Italian, Russian, Japanese, Korean, Chinese, Turkish, and Hebrew.
 
-## Nawiązania i cytaty w kulturze
+## References and Quotes in Culture
 
-### Słynne cytaty
+### Famous Quotes
 
-41. **Otwierające zdanie** - "Ktoś musiał oskarżyć Józefa K., bo pewnego ranka, nie zrobiszy nic prawdziwie złego, został aresztowany" - jedno z najsłynniejszych otwarć w literaturze.
+41. **Opening Sentence** - "Someone must have slandered Josef K., for one morning, without having done anything particularly wrong, he was arrested" - one of the most famous openings in literature.
 
-42. **O konieczności** - "Nie trzeba przyjmować wszystkiego jako prawdziwe, trzeba tylko przyjąć to jako konieczne. To czyni kłamstwo uniwersalną zasadą".
+42. **On Necessity** - "You don't need to accept everything as true, you just need to accept it as necessary. That makes lying a universal principle."
 
-43. **O winie** - "Ale nie jestem winny", powiedział K. "to błąd. Jak to w ogóle możliwe, żeby ktoś był winny? Wszyscy jesteśmy tutaj ludźmi, jeden jak drugi."
+43. **On Guilt** - "But I'm not guilty," said K. "That's a mistake. How is it even possible for someone to be guilty? We're all human beings here, one like another."
 
-### Odniesienia literackie
+### Literary References
 
-44. **Lewis Carroll** - "Alicja w Krainie Czarów", szczególnie proces Waleta Kier, uważany za "być może najśmielszy przykład kafkowskiego absurdu w literaturze dla dzieci".
+44. **Lewis Carroll** - "Alice's Adventures in Wonderland," particularly the trial of the Knave of Hearts, considered "perhaps the boldest example of Kafkaesque absurdity in children's literature."
 
-## Społeczności fanów i kultura fandom
+## Fan Communities and Fandom Culture
 
-### Akademickie społeczności
+### Academic Communities
 
-45. **Kafka Society** - Międzynarodowe stowarzyszenia badaczy twórczości Kafki.
+45. **Kafka Society** - International associations of Kafka scholars.
 
-46. **Konferencje kafkowskie** - Regularne konferencje naukowe poświęcone twórczości i wpływowi Kafki.
+46. **Kafka Conferences** - Regular academic conferences dedicated to Kafka's work and influence.
 
-47. **Czasopisma specjalistyczne** - Publikacje akademickie poświęcone badaniom nad Kafką i kafkowskością.
+47. **Specialist Journals** - Academic publications devoted to Kafka studies and Kafkaesque themes.
 
-### Popularne społeczności
+### Popular Communities
 
-48. **Forum internetowe** - Grupy dyskusyjne analizujące kafkowskie tematy w kontekście współczesności.
+48. **Online Forums** - Discussion groups analyzing Kafkaesque themes in contemporary context.
 
-49. **Social media** - Hashtagi #kafkaesque i #kafka używane do opisania absurdalnych sytuacji biurokratycznych.
+49. **Social Media** - Hashtags #kafkaesque and #kafka used to describe absurd bureaucratic situations.
 
-## Komercjalizacja i merchandise
+## Commercialization and Merchandise
 
-### Produkty kulturalne
+### Cultural Products
 
-50. **Wydania kolekcjonerskie** - Luksusowe wydania "Procesu" z ilustracjami i komentarzami.
+50. **Collector's Editions** - Luxury editions of "The Trial" with illustrations and commentaries.
 
-51. **Gadżety muzealне** - Pamiątki związane z Kafką sprzedawane w praskich muzeach.
+51. **Museum Merchandise** - Kafka-related souvenirs sold in Prague museums.
 
-52. **Adaptacje graficzne** - Komiksy i powieści graficzne oparte na "Procesie".
+52. **Graphic Adaptations** - Comics and graphic novels based on "The Trial."
 
-## Współczesna recepcja i reinterpretacje
+## Contemporary Reception and Reinterpretations
 
-### Nowe interpretacje
+### New Interpretations
 
-53. **Feministyczne odczytania** - Analiza postaci kobiecych w "Procesie" przez pryzmat studiów gender.
+53. **Feminist Readings** - Analysis of female characters in "The Trial" through gender studies lens.
 
-54. **Postkolonialne interpretacje** - Czytanie "Procesu" jako krytyki imperialnych struktur władzy.
+54. **Postcolonial Interpretations** - Reading "The Trial" as a critique of imperial power structures.
 
-55. **Psychoanalityczne podejścia** - Freudowskie i lacanowskie interpretacje osobowości Józefa K.
+55. **Psychoanalytic Approaches** - Freudian and Lacanian interpretations of Josef K.'s personality.
 
-### Wpływ na współczesną świadomość
+### Impact on Contemporary Consciousness
 
-56. **Antycypacja totalitaryzmu** - "Proces" postrzegany jako "zjawiskowo proroczy wobec broni psychologicznej używanej przez znacznie bardziej podstępne reżimy totalitarne".
+56. **Anticipation of Totalitarianism** - "The Trial" is seen as "phenomenally prophetic of the psychological weapons used by far more insidious totalitarian regimes."
 
-57. **Krytyka neoliberalizmu** - Współczesne odczytania "Procesu" jako krytyki korporacyjnych struktur władzy.
+57. **Critique of Neoliberalism** - Contemporary readings of "The Trial" as a critique of corporate power structures.
 
-58. **Wpływ na teorię literatury** - Kafka "wywarł potężniejszy wpływ na wykształcone społeczeństwo niż jakikolwiek inny pisarz XX wieku".
+58. **Impact on Literary Theory** - Kafka "exerted a more powerful influence on educated society than any other writer of the 20th century."
 
-## Podsumowanie
+## Summary
 
-"Proces" Franza Kafki przeszedł ewolucję od eksperymentalnej powieści do uniwersalnego symbolu absurdu biurokratycznego i alienacji nowoczesnego człowieka. Jego wpływ wykracza daleko poza literaturę, przenikając do filmu, teatru, opery, baletu, sztuk wizualnych, muzyki, gier wideo i języka codziennego. Termin "kafkowski" stał się nieodłączną częścią współczesnego dyskursu kulturowego, służąc do opisu sytuacji, w których jednostka staje w obliczu nieprzeniknionej, absurdalnej biurokracji.
+Franz Kafka's "The Trial" has evolved from an experimental novel to a universal symbol of bureaucratic absurdity and modern human alienation. Its influence extends far beyond literature, penetrating film, theater, opera, ballet, visual arts, music, video games, and everyday language. The term "Kafkaesque" has become an integral part of contemporary cultural discourse, serving to describe situations where individuals face impenetrable, absurd bureaucracy.
 
-Dzieło Kafki nadal inspiruje twórców na całym świecie, od literatów po twórców gier wideo, oferując bogaty materiał do refleksji nad naturą władzy, sprawiedliwości i ludzkiej egzystencji w nowoczesnym świecie. Praga, rodzinne miasto pisarza, stała się miejscem pielgrzymek dla miłośników jego twórczości, oferując muzea, pomniki i trasy tematyczne.
+Kafka's work continues to inspire creators worldwide, from writers to video game developers, offering rich material for reflection on the nature of power, justice, and human existence in the modern world. Prague, the writer's hometown, has become a pilgrimage site for fans of his work, offering museums, monuments, and themed tours.
 
-Trwałość "Procesu" w kulturze popularnej świadczy o uniwersalności jego tematów i ich nieustającej aktualności w obliczu współczesnych wyzwań biurokratycznych, technologicznych i społecznych.
+The persistence of "The Trial" in popular culture testifies to the universality of its themes and their continued relevance in the face of contemporary bureaucratic, technological, and social challenges.
