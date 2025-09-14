@@ -5,3 +5,177 @@ book_info:
   year: 1883
   genre: "Adventure,Novel"
   reading_time: "8-10 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-15T00:00:00Z"
+
+  scores:
+    controversy: 5
+    philosophical_depth: 7
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 7
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 5
+    total: 54
+    percentile: 75
+
+  composite_scores:
+    depth:
+      value: 7.0
+      category: "medium"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "facts_history_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "The idea for Treasure Island was born in August 1881 in Braemar, Scotland during rainy holidays when Stevenson drew a map to entertain his 12-year-old stepson Lloyd Osbourne"
+        source: "facts_history"
+      - id: "facts_history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Long John Silver was inspired by Stevenson's friend William Ernest Henley, who had an amputated left leg below the knee due to bone tuberculosis"
+        source: "facts_history"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Never been out of print since 1883 - remains in continuous publication for 140+ years and translated into dozens of languages"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Dr. Livesey walking meme became viral phenomenon in 2022 with millions of views, originating from 1988 Soviet adaptation"
+        source: "youth_digital"
+      - id: "writing_innovation_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "First novel to use authentic child narrator in adventure literature, establishing Young Adult literature as legitimate genre"
+        source: "writing_innovation"
+      - id: "symbols_meanings_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Long John Silver represents Jungian Shadow archetype - charming yet dangerous, mentoring yet betraying, civilized yet savage"
+        source: "symbols_meanings"
+      - id: "dark_drama_6"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Stevenson admitted plagiarizing Washington Irving's Tales of a Traveller, transforming Billy Bones character directly from Irving's work"
+        source: "dark_drama"
+      - id: "reality_wisdom_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Silver's manipulation tactics mirror modern grooming patterns - isolation, false promises, emotional dependency creation"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text establishing vernacular literature tradition and creating modern pirate archetype"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Disney 1950 film (definitive screen version)"]
+        reception_notes: "Required reading throughout English-speaking world, considered first Great American Novel despite British authorship"
+        educational_status: "Standard text in American and British literature curricula since early 20th century"
+        local_themes: ["American frontier spirit influence", "Democratic ideals vs practice", "Adventure as character building"]
+
+      pl:
+        cultural_impact: "One of earliest American youth literature translations in Poland (1901)"
+        key_editions: ["Media Rodzina 2014 (Andrzej Polkowski translation)", "Iskry 1972 (Józef Birkenmajer translation)"]
+        reception_notes: "Jedna z ulubionych ksiazek z dziecinstwa - nostalgic memories from Polish adults"
+        educational_status: "Required reading for classes 4-6 szkoly podstawowej"
+        local_themes: ["Alternative model of childhood freedom", "Introduction to American culture for Polish youth"]
+
+      de:
+        cultural_impact: "1966 ZDF miniseries considered best TV adaptation of Treasure Island to date"
+        key_editions: ["Reclam Edition with scholarly annotations", "Insel-Verlag Frankfurt 1984", "Diogenes Zürich 1986"]
+        reception_notes: "Integrated into Gymnasium curriculum as adventure literature classic"
+        educational_status: "Designed for grades 5-7 (Klassen 5-7) in German school system"
+        local_themes: ["Bildungsroman interpretation", "Connection to German Romantic tradition", "Swiss Alps writing connection"]
+
+      fr:
+        cultural_impact: "Featured in prestigious Bibliothèque de la Pléiade collection (2001)"
+        key_editions: ["Gallimard Pléiade Edition with 652 original illustrations", "Folio bilingue edition", "Hetzel Collection 1885"]
+        reception_notes: "Offered pathway out of French Realist novel dead end after 1890"
+        educational_status: "Recommended for cycle 3 primary school and 6e class (11-12 years)"
+        local_themes: ["Alternative to Naturalism", "Adventure stories study unit", "Post-colonial analysis focus"]
+
+      es:
+        cultural_impact: "Las aventuras de Tom Sawyer en la Espana de Franco - studied for Franco-era reception"
+        key_editions: ["Editorial Renacimiento (José María Álvarez translation)", "Editorial Valdemar with N.C. Wyeth illustrations"]
+        reception_notes: "Placed between Robinson Crusoe and Melville in maritime literature tradition"
+        educational_status: "Integrated from Third to Sixth Grade Primary and First-Second ESO"
+        local_themes: ["Connection to picaresque tradition", "Social injustice critique", "Jorge Luis Borges influence"]
+
+      pt:
+        cultural_impact: "O Trapalhao na Ilha do Tesouro (1974) - major Brazilian comedy adaptation with 3.4 million viewers"
+        key_editions: ["Antofágica hardcover edition", "Principis 2021", "Portugália Editora Lisboa"]
+        reception_notes: "One of classics every person should read at least once in life"
+        educational_status: "Present in school curricula with assessment materials and guides"
+        local_themes: ["Adventure literature foundation", "Bilingual edition popularity", "Os Trapalhoes cultural impact"]
+
+      ja:
+        cultural_impact: "Tezuka's New Treasure Island (1947) sold 400,000 copies, starting postwar manga revolution"
+        key_editions: ["Iwanami Bunko series", "1978 TMS anime (26 episodes)", "Animal Treasure Island 1971"]
+        reception_notes: "Characters transformed and tamed for Japanese audiences - Tom became didactic"
+        educational_status: "Used in schools as introduction to Western literature"
+        local_themes: ["Manga revolution origin point", "Coming-of-age themes alignment", "Moral transformation emphasis"]
+
+      ko:
+        cultural_impact: "2025 SBS drama Buried Hearts achieved 15% ratings, won Korean Broadcasting Award"
+        key_editions: ["Biryongso edition with maritime annotations", "Multiple ISBN editions available"]
+        reception_notes: "Recognized as foundational text in children's adventure literature"
+        educational_status: "Not in CSAT but recognized in academic circles"
+        local_themes: ["Pirate romanticization contrast with historical raids", "Title appropriation in K-drama", "Webtoon platform presence"]
+
+      hi:
+        cultural_impact: "Khazane Ka Dweep Hindi translation widely available through Amazon India"
+        key_editions: ["BPI India Hindi series", "Bengali translation by Rakib Hasan", "Telugu Kanchana Dweepam version"]
+        reception_notes: "Functions as accessible Western literature for Indian readers"
+        educational_status: "Karnataka State Board Class 10 supplementary chapter"
+        local_themes: ["Hero's Journey parallels with Indian epics", "Colonial context relevance", "Adventure genre gateway"]
+
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 13
+      hosts:
+        host_a: "Classical literature expert explaining 1883 context, Victorian adventure conventions, and original pirate lore"
+        host_b: "Contemporary reader from 2025 finding modern parallels, memes, and current relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:15"
+          topic: "original_era"
+          lead: "host_a"
+          description: "Setting the scene - 1881 Scotland rainy day, Stevenson's illness, drawing map for stepson Lloyd"
+        - segment: 2
+          time_range: "03:15-06:30"
+          topic: "evolution"
+          lead: "host_b"
+          description: "From serial failure to global phenomenon - creating pirate archetype, Disney to Pirates of Caribbean"
+        - segment: 3
+          time_range: "06:30-09:45"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Toxic mentorship and manipulation - Silver's grooming tactics mirror modern predatory behavior"
+        - segment: 4
+          time_range: "09:45-13:00"
+          topic: "timelessness"
+          lead: "host_b"
+          description: "Dr. Livesey memes, piratecore fashion, Sea of Thieves gaming - why pirates still captivate Gen Z"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'Treasure Island' in its original 1883 context - Victorian adventure literature, Stevenson's tuberculosis and travels, first authentic child narrator. Discuss how it created pirate mythology: treasure maps with X, parrots, wooden legs."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'Treasure Island' - toxic mentorship warnings, Dr. Livesey viral memes, piratecore TikTok aesthetic, Sea of Thieves gaming. Connect Silver's manipulation to modern grooming awareness."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["violence and murder scenes", "manipulation and toxic relationships", "historical substance references"]
+    educational_elements: ["Victorian adventure literature", "Historical context of piracy", "Literary innovation in YA genre", "Psychology of manipulation"]
+    production_notes:
+      intro_style: "mysterious with map imagery"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective on adventure's true meaning"
+
+  overall_confidence: 0.85

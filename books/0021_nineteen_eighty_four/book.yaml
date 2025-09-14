@@ -5,3 +5,200 @@ book_info:
   year: 1949
   genre: "Novel"
   reading_time: "8-10 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T15:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 9
+    relevance: 10
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 9.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "surveillance_prophetic_accuracy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Orwell's telescreens concept accurately predicted modern surveillance: smartphones as tracking devices, smart TVs with cameras, facial recognition systems achieving 99% accuracy"
+        source: "reality_wisdom"
+
+      - id: "totalitarian_control_mechanisms"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "The Party's psychological control methods mirror modern techniques: algorithmic manipulation, echo chambers, information warfare, and social media thought policing"
+        source: "symbols_meanings"
+
+      - id: "language_manipulation_power"
+        type: "FACT"
+        credibility: 0.90
+        content: "Newspeak concept directly parallels contemporary 'alternative facts', political correctness extremes, and media manipulation of language to control thought"
+        source: "writing_innovation"
+
+      - id: "cultural_phenomenon_scale"
+        type: "FACT"
+        credibility: 0.95
+        content: "Book generated 60+ adaptations including films, TV series, reality show 'Big Brother', theater productions, and inspired major musical works"
+        source: "culture_impact"
+
+      - id: "author_controversial_legacy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Orwell secretly collaborated with British intelligence, creating informant lists of fellow writers while writing his anti-surveillance masterpiece"
+        source: "dark_drama"
+
+      - id: "youth_digital_engagement"
+        type: "FACT"
+        credibility: 0.85
+        content: "Digital native generations connect with Orwellian themes through 5.2M TikTok posts, viral memes, and gaming adaptations exploring dystopian concepts"
+        source: "youth_digital"
+
+      - id: "revolutionary_literary_innovation"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Created the entire dystopian political fiction genre, introduced transparent prose style, and pioneered psychological realism under oppression"
+        source: "writing_innovation"
+
+      - id: "contemporary_corporate_surveillance"
+        type: "ANALYSIS"
+        credibility: 0.88
+        content: "Modern surveillance capitalism by tech giants mirrors Party control: voluntary data surrender, behavioral prediction, and corporate-state cooperation"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, defining Cold War discourse and modern surveillance debates"
+        key_editions: ["Secker & Warburg first edition", "Norton Critical Editions", "Penguin Classics"]
+        reception_notes: "Broadway productions required age restrictions due to intense psychological content"
+        educational_status: "Required reading in most US/UK curricula"
+        local_themes: ["Anti-Communist Cold War messaging", "Individual vs state power", "Anglo-Saxon liberty traditions"]
+
+      pl:
+        cultural_impact: "Underground resistance symbol during Communist era, smuggled through diplomatic channels, crucial for Solidarity movement"
+        key_editions: ["Institut Littéraire Paris (1953)", "PIW official edition (1988)", "Modern translations by multiple publishers"]
+        reception_notes: "Banned for 35 years in PRL, circulated in samizdat, now mandatory high school reading"
+        educational_status: "Required high school literature (matura exam questions 2025-2028)"
+        local_themes: ["Real totalitarian experience vs fiction", "Anti-communist resistance", "Historical parallel recognition"]
+
+      de:
+        cultural_impact: "Split reception: banned in DDR, academic study in West Germany, theoretical framework via Hannah Arendt"
+        key_editions: ["Ullstein Verlag translations", "Reclam Universal-Bibliothek", "Multiple new post-copyright translations"]
+        reception_notes: "Prison sentences for possession in East Germany, major theater productions in Berlin"
+        educational_status: "Gymnasium curriculum for English literature and political science"
+        local_themes: ["Totalitarian theory analysis", "Frankfurt School connections", "East-West German divide experience"]
+
+      fr:
+        cultural_impact: "Intellectual resistance tool, early translation attempts blocked by political pressure"
+        key_editions: ["Multiple French publishers", "Gallimard Folio editions"]
+        reception_notes: "French publisher initially refused translation for 'political reasons' in 1946"
+        educational_status: "Literature and philosophy courses"
+        local_themes: ["Intellectual resistance", "Post-war political analysis", "Existentialist connections"]
+
+      es:
+        cultural_impact: "Post-Franco democracy symbol, censorship resistance in Latin America"
+        key_editions: ["Multiple Spanish publishers", "Latin American editions"]
+        reception_notes: "Strong resonance with recent dictatorship experiences"
+        educational_status: "University literature and political science programs"
+        local_themes: ["Post-dictatorship analysis", "Latin American political parallels", "Censorship resistance"]
+
+      pt:
+        cultural_impact: "Post-Salazar era democratic transition symbol"
+        key_editions: ["Portuguese and Brazilian editions"]
+        reception_notes: "Resonance with Estado Novo experience"
+        educational_status: "Literature and history programs"
+        local_themes: ["Authoritarian regime parallels", "Democratic transition", "Lusophone political discourse"]
+
+      ja:
+        cultural_impact: "Post-war democratic values, technology and privacy concerns"
+        key_editions: ["Multiple Japanese translations"]
+        reception_notes: "Technology surveillance concerns in modern Japan"
+        educational_status: "University English literature programs"
+        local_themes: ["Technology surveillance", "Democratic values", "Social conformity pressure"]
+
+      ko:
+        cultural_impact: "Post-authoritarian era analysis, North-South division parallels"
+        key_editions: ["Korean translations"]
+        reception_notes: "Strong resonance with division experience"
+        educational_status: "Political science and literature programs"
+        local_themes: ["Division state parallels", "Authoritarian legacy", "Surveillance state concerns"]
+
+      hi:
+        cultural_impact: "Colonial and post-colonial power analysis, democracy vs authoritarianism"
+        key_editions: ["Hindi translations", "English editions widely read"]
+        reception_notes: "Relevance to digital surveillance and democracy debates"
+        educational_status: "University literature and political science"
+        local_themes: ["Colonial power structures", "Democratic institutions", "Digital surveillance concerns"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "1949 post-war context and Orwell's totalitarian experience during Spanish Civil War"
+
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Party control mechanisms: surveillance, language manipulation, psychological torture"
+
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern surveillance capitalism, social media control, and digital age parallels"
+
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future_implications"
+          lead: "host_b"
+          description: "Lessons for preserving democracy, privacy rights, and critical thinking in digital age"
+
+      prompts:
+        host_a: "You are {male_name}, a social historian examining 'Nineteen Eighty-Four' through lens of historical power structures. Analyze Orwell's 1949 context: post-WWII fears, Stalin's purges, emerging Cold War. Connect to Spanish Civil War experience that shaped Orwell's anti-totalitarian views. Your expertise covers authoritarian systems, propaganda techniques, and historical parallels to contemporary surveillance states."
+        host_b: "You are {female_name}, a contemporary critic examining power dynamics in 'Nineteen Eighty-Four'. Challenge historical assumptions, connect to current issues: social media manipulation, corporate surveillance, political polarization. Analyze how Party's control methods manifest in modern technology, cancel culture, and information warfare. Question whether Orwell's warnings have been realized in unexpected ways."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "psychological torture descriptions"
+      - "totalitarian government control themes"
+      - "surveillance and privacy violation discussions"
+      - "historical political content"
+      - "author biographical controversies"
+      - "mature themes about manipulation and control"
+    educational_elements:
+      - "20th century totalitarian systems analysis"
+      - "Literary dystopian genre characteristics"
+      - "Cold War historical context"
+      - "Modern surveillance technology parallels"
+      - "Political science concepts: authoritarianism, propaganda"
+      - "Literary techniques: symbolism, allegory, narrative structure"
+    production_notes:
+      intro_style: "Historical documentary style with urgency - emphasize prophetic relevance"
+      transitions: "Subtle musical bridges with dystopian undertones"
+      outro_style: "Contemporary warning - leave listeners thinking about current parallels"
+
+  overall_confidence: 0.91

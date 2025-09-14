@@ -1,32 +1,32 @@
-# Ocena Treści i Ostrzeżenia: "Pani Bovary" - Analiza Compliance z Platformami 2025
+# Content Warnings and Platform Compliance Assessment: "Madame Bovary"
 
-**Książka**: Madame Bovary (Pani Bovary)  
-**Autor**: Gustave Flaubert  
-**Rok**: 1856  
-**Data analizy**: 25 sierpnia 2025  
-**Analiza przez**: 37d Content Warning Assessor  
+**Book**: Madame Bovary
+**Author**: Gustave Flaubert
+**Year**: 1856
+**Analysis Date**: September 14, 2025
+**Assessment By**: 37d Content Warning Assessor  
 
-## ⚠️ OGÓLNE OSTRZEŻENIA O TREŚCI
+## ⚠️ GENERAL CONTENT WARNINGS
 
-**KATEGORIA WIEKOWA: 16+/18+ (w zależności od platformy)**
+**AGE CATEGORY: 16+/18+ (platform dependent)**
 
-Materiał zawiera:
-- Szczegółowe opisy cudzołóstwa i seksualności
-- Tematykę samobójstwa i opisy zatrucia
-- Treści o chorobach psychicznych i uzależnieniu
-- Tematykę prostytutek i orientalizmu autora
-- Problematyczne postawy mizoginistyczne
-- Graficzne opisy chorób wenerycznych
-- Materiały biograficzne o seksualnym wykorzystaniu
+This material contains:
+- Detailed descriptions of adultery and sexuality
+- Suicide themes and descriptions of poisoning
+- Mental health and addiction themes
+- Content about prostitution and author's orientalism
+- Problematic misogynistic attitudes
+- Graphic descriptions of venereal diseases
+- Biographical materials about sexual exploitation
 
 ---
 
-## 📊 MATRYCA RYZYKA PLATFORMOWEGO
+## 📊 PLATFORM RISK MATRIX
 
-### 🔴 BARDZO WYSOKIE RYZYKO
+### 🔴 VERY HIGH RISK
 
 #### **Facebook/Instagram/Meta (2025)**
-**Status: SILNIE ODRADZANY dla treści o "Pani Bovary"**
+**Status: STRONGLY DISCOURAGED for Madame Bovary content**
 
 **Problematyczne obszary**:
 1. **Sexuality & Adult Content**: 

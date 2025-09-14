@@ -5,3 +5,182 @@ book_info:
   year: 1896
   genre: "Historical fiction,Novel"
   reading_time: "18-20 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T11:45:00+01:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 6
+    relevance: 8
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 7
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.8
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Russian censors recognized novel as politically dangerous, especially phrase about organized violence"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple archetypal interpretations from Jungian individuaction to postcolonial power analysis"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "2002 editions in 59 languages, Nobel Prize contribution, first global transmedial phenomenon"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Roman Empire TikTok trend with 1.6 billion views connects to contemporary fascination"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Themes of tyranny, moral transformation, religious persecution remain highly relevant"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneered cinematographic techniques, serialized suspense, transmedial storytelling"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Published in 1896, became immediate global bestseller, contributed to Nobel Prize"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex content requiring age restrictions due to historical violence and religious themes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "First global bestseller in English, established template for historical fiction"
+        key_editions: ["Little Brown Company 1896", "Jeremiah Curtin translation", "Project Gutenberg"]
+        reception_notes: "Academic recognition as classical reception literature"
+        educational_status: "Studied in comparative literature courses"
+        local_themes: ["Historical fiction template", "Religious historical novel genre", "Classical reception"]
+
+      pl:
+        cultural_impact: "National pride as first Polish Nobel Prize, allegory for Polish resistance"
+        key_editions: ["Kraków 1896 original", "School editions", "Wolne Lektury digital"]
+        reception_notes: "Mandatory school reading, part of national identity"
+        educational_status: "Required reading in Polish education system"
+        local_themes: ["National allegory", "Resistance narrative", "Cultural pride"]
+
+      de:
+        cultural_impact: "Early success in German-speaking countries, part of literary canon"
+        key_editions: ["Reclam Universal-Bibliothek", "Paul Seliger translation"]
+        reception_notes: "Strong academic tradition, philosophical interpretation"
+        educational_status: "Included in German literary education"
+        local_themes: ["Philosophical interpretations", "Religious discourse", "Historical accuracy"]
+
+      fr:
+        cultural_impact: "Commercial triumph despite initial critical hostility"
+        key_editions: ["Gallimard 1984", "Multiple early translations"]
+        reception_notes: "Popular success versus critical establishment tension"
+        educational_status: "Classic literature status despite critical debates"
+        local_themes: ["Popular vs critical reception", "Religious epic tradition", "Literary quality debates"]
+
+      es:
+        cultural_impact: "Over 100 editions since 1900, strong Catholic resonance"
+        key_editions: ["Augusto Riera translation 1900", "Sofía Casanova from Polish"]
+        reception_notes: "Emilia Pardo Bazán endorsement, musical adaptations"
+        educational_status: "Used in Catholic education and apologetics"
+        local_themes: ["Catholic formation", "Religious symbolism", "Educational use"]
+
+      pt:
+        cultural_impact: "Strong presence in Portuguese-speaking countries, Catholic themes resonance"
+        key_editions: ["Eduardo de Noronha 1900", "Editora Saraiva 1952", "Edições Paulinas"]
+        reception_notes: "Part of great novels of Christianity collection"
+        educational_status: "World literature education tool"
+        local_themes: ["Christian literature", "Historical education", "Religious studies"]
+
+      ja:
+        cultural_impact: "Academic interest through Slavic studies, limited mainstream presence"
+        key_editions: ["Iwanami Bunko three volumes", "Fukuinkan Koten Dowa Series"]
+        reception_notes: "Scholarly translation tradition, museum exhibitions"
+        educational_status: "Specialized to Slavic studies programs"
+        local_themes: ["Translation studies", "Christian themes as exotic", "Historical interest"]
+
+      ko:
+        cultural_impact: "Religious and academic channels, social criticism documentary"
+        key_editions: ["Minumsa World Literature Collection", "Choi Sung-eun translation"]
+        reception_notes: "2014 documentary using title for church criticism"
+        educational_status: "World literature courses, religious studies"
+        local_themes: ["Religious discourse", "Social criticism", "Cultural exchange"]
+
+      hi:
+        cultural_impact: "Limited presence despite large Christian population potential"
+        key_editions: ["English editions available", "No major regional translations"]
+        reception_notes: "Gap in Indian literary landscape"
+        educational_status: "Potential for Christian educational institutions"
+        local_themes: ["Religious minority themes", "Cultural bridge building", "Translation gap"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "local culture specialist"
+        host_b: "global literature observer"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "local_context"
+          lead: "host_a"
+          description: "Polish national allegory and resistance narrative hidden in Roman setting"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "2002 editions in 59 languages, first global transmedial phenomenon after Bible"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "translations"
+          lead: "host_a"
+          description: "Language-specific cultural adaptations and local interpretations"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "legacy"
+          lead: "host_b"
+          description: "Contemporary relevance through Roman Empire TikTok trends and Dark Academia"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Universal themes transcending cultural boundaries while maintaining local resonance"
+      prompts:
+        host_a: "You are {male_name}, examining 'Quo Vadis' from local cultural perspective. Discuss how the book resonates with regional history, local translations and adaptations, and connections to contemporary social issues. Focus on the Polish allegory of resistance, religious persecution themes, and how different cultures have adapted this Roman story."
+        host_b: "You are {female_name}, providing global context for 'Quo Vadis'. Compare international adaptations, discuss universal themes that transcend cultural boundaries. Explore how this 1896 novel became the first global transmedial phenomenon, from Nobel Prize recognition to contemporary TikTok trends."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "religious persecution themes", "colonial/racist content discussion"]
+    educational_elements: ["Historical fiction genre characteristics", "Historical context of 1896", "Nobel Prize literature significance"]
+    production_notes:
+      intro_style: "Epic historical with contemporary relevance angle"
+      transitions: "subtle musical bridges"
+      outro_style: "Cultural impact reflection"
+
+  overall_confidence: 0.87

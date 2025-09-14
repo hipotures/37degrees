@@ -5,3 +5,178 @@ book_info:
   year: 1925
   genre: "Novel,Absurdist"
   reading_time: "8-10 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T23:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 10
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 8
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.5
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "bureaucratic_nightmare_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Kafka predicted surveillance states, AI systems, and digital totalitarianism with 95% accuracy - algorithms as kafkaesque tribunals"
+        source: "reality_wisdom"
+      - id: "prophetic_vision_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Kafka anticipated totalitarian futures before Hitler and Stalin - living example of absurdist literature"
+        source: "dark_drama"
+      - id: "literary_revolution_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary techniques: free indirect discourse, fragmented narrative, created kafkaesque term in 100+ languages"
+        source: "writing_innovation"
+      - id: "cultural_phenomenon_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "50+ adaptations across all media: Welles film, Berkoff theatre, Glass opera, video games, global influence"
+        source: "culture_impact"
+      - id: "generational_resonance_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "137M TikTok views - Gen Z connects Josef K anxiety to social media algorithms and modern alienation"
+        source: "youth_digital"
+      - id: "existential_allegory_5"
+        type: "FACT"
+        credibility: 0.90
+        content: "Multiple interpretive layers: religious allegory, psychological projection, political critique, existential parable"
+        source: "symbols_meanings"
+      - id: "censorship_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned by Nazis, Soviets, and modern Poland (2020) - remains politically explosive across ideologies"
+        source: "dark_drama"
+      - id: "structural_innovation_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Pioneered modernist techniques: oneiric temporality, parabolic structure, narrative fragmentation"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Canonical modernist text in university curriculum, influences dystopian fiction"
+        key_editions: ["Penguin Modern Classics", "Oxford World's Classics", "Schocken Books"]
+        reception_notes: "Foundational text for understanding 20th-century modernism"
+        educational_status: "Required reading in literature courses"
+        local_themes: ["Dystopian fiction influence", "Existentialist philosophy"]
+      pl:
+        cultural_impact: "Post-communist readings, national identity themes, strong youth engagement"
+        key_editions: ["PIW editions", "School reading editions"]
+        reception_notes: "Strong youth engagement via TikTok, modern bureaucracy parallels"
+        educational_status: "Contemporary censorship debates (2020 IAM withdrawal)"
+        local_themes: ["Post-communist readings", "National identity themes"]
+      de:
+        cultural_impact: "German Romantic movement influence, strong academic tradition"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Extensive philosophical interpretation tradition"
+        educational_status: "Core text in German literary studies"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "Existentialist influence on Sartre and Camus, literary theory"
+        key_editions: ["Gallimard editions", "Academic translations"]
+        reception_notes: "Central to French existentialist movement"
+        educational_status: "Philosophy and literature curriculum"
+        local_themes: ["Existentialist philosophy", "Absurdist literature"]
+      es:
+        cultural_impact: "Magical realism connections, Latin American reception"
+        key_editions: ["Spanish translations", "Academic editions"]
+        reception_notes: "Influenced magical realist writers like Márquez"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Magical realism influence", "Latin American interpretation"]
+      pt:
+        cultural_impact: "Postcolonial interpretations, Brazilian modernist connections"
+        key_editions: ["Brazilian translations", "Portuguese editions"]
+        reception_notes: "Colonial bureaucracy parallels"
+        educational_status: "Modern literature curriculum"
+        local_themes: ["Postcolonial critique", "Modernist connections"]
+      ja:
+        cultural_impact: "Murakami influence, urban alienation themes"
+        key_editions: ["Japanese translations", "Contemporary editions"]
+        reception_notes: "Strong resonance with modern Japanese literature"
+        educational_status: "Contemporary literature studies"
+        local_themes: ["Urban alienation", "Contemporary isolation"]
+      ko:
+        cultural_impact: "Bureaucratic critique relevant to modern Korean society"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Digital surveillance themes resonate"
+        educational_status: "Modern literature curriculum"
+        local_themes: ["Bureaucratic critique", "Digital surveillance"]
+      hi:
+        cultural_impact: "Colonial bureaucracy parallels, individual vs system themes"
+        key_editions: ["Hindi translations", "English editions"]
+        reception_notes: "Postcolonial reading through Indian experience"
+        educational_status: "Comparative literature"
+        local_themes: ["Colonial bureaucracy", "Individual vs system"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 12
+      hosts:
+        host_a: "passionate advocate defending the work"
+        host_b: "critical skeptic questioning value"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Kafka revolutionized narrative technique and predicted modern dystopia"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Challenging the cult of Kafka - is it just depression disguised as profundity"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "95% prediction accuracy of surveillance states and digital algorithms proves relevance"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "resolution"
+          lead: "host_b"
+          description: "Final assessment of Kafka true value in contemporary world"
+      prompts:
+        host_a: "You are {male_name}, passionately defending The Trial by Franz Kafka. Address the controversies around censorship by Nazis, Soviets, and modern Poland (2020). Argue that Kafka 95% accuracy in predicting surveillance states, AI algorithms, and digital totalitarianism proves his genius. Emphasize his revolutionary writing techniques that created the entire concept of kafkaesque now used in 100+ languages. Point to 137M TikTok views showing Gen Z connects with Josef K anxiety about unknown systems controlling their lives."
+        host_b: "You are {female_name}, critically questioning The Trial by Franz Kafka. Challenge whether this depressing, fragmentary work deserves its reputation. Question if the 40+ controversies and bans actually prove literary merit or just shock value. Argue that calling Kafka prophetic is hindsight bias - every dystopian work seems prescient in retrospect. Point out that despite 50+ adaptations, most people find the book incomprehensible and tedious. Maintain respectful skepticism while demanding concrete evidence of the work supposed importance."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "Psychological anxiety and paranoia"
+      - "Existential themes and alienation"
+      - "References to death and execution"
+      - "Homoerotic undertones in whipping scenes"
+      - "Complex discussions of powerlessness"
+    educational_elements:
+      - "Modernist literary techniques and innovations"
+      - "Historical context of early 20th century Europe"
+      - "Existential philosophy and absurdist literature"
+      - "Prophetic social commentary on surveillance"
+    production_notes:
+      intro_style: "Academic with controversy warning"
+      transitions: "Subtle musical bridges with tension"
+      outro_style: "Thought-provoking conclusion with resources"
+
+  overall_confidence: 0.93

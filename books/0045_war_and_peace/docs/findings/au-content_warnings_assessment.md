@@ -1,326 +1,326 @@
-# Ocena Treści i Content Warnings: "Wojna i pokój" Leo Tołstoja
+# Content Warnings Assessment: "War and Peace" by Leo Tolstoy
 
-**Data analizy**: 25 sierpnia 2025  
-**Projekt**: 37degrees (@37stopni) - "gorączka czytania"  
-**Książka**: 0045_war_and_peace
+**Analysis Date**: September 14, 2025
+**Project**: 37degrees (@37stopni) - "reading fever"
+**Book**: 0045_war_and_peace
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Po analizie wszystkich 8 dokumentów researchu od agentów specjalistycznych, "Wojna i pokój" Leo Tołstoja przedstawia **ŚREDNIE RYZYKO** dla platform społecznościowych z koniecznością **CONTENT WARNINGS** dla młodych odbiorców. Główne problemy to kontrowersyjne aspekty biografii autora, brutalne sceny wojenne i kompleksowe tematy dla dorosłych.
+After analyzing all 8 specialist research documents, "War and Peace" by Leo Tolstoy presents **MEDIUM RISK** for social media platforms with mandatory **CONTENT WARNINGS** for young audiences. Primary concerns include controversial biographical aspects of the author, graphic war content, and complex adult themes.
 
-**KLASYFIKACJA WIEKOWA REKOMENDOWANA**: **16+ z Content Warnings**
-
----
-
-## ANALIZA MATERIAŁÓW RESEARCHU
-
-### Przeanalizowane dokumenty:
-1. ✅ **au-research_facts_history.md** - Historia powstania i fascynujące fakty
-2. ✅ **au-research_culture_impact.md** - Wpływ kulturowy na społeczeństwo 
-3. ✅ **au-research_dark_drama.md** - Kontrowersje i mroczne aspekty
-4. ✅ **au-research_local_context.md** - Kontekst polski i lokalne interpretacje
-5. ✅ **au-research_reality_wisdom.md** - Trafność przewidywań i uniwersalne prawdy
-6. ✅ **au-research_symbols_meanings.md** - Symbolika i ukryte znaczenia
-7. ✅ **au-research_writing_innovation.md** - Techniki pisarskie i innowacje
-8. ✅ **au-research_youth_digital.md** - Połączenia z kulturą młodzieży i cyfrowością
+**RECOMMENDED AGE CLASSIFICATION**: **16+ with Content Warnings**
 
 ---
 
-## IDENTYFIKACJA PROBLEMATYCZNYCH TREŚCI
+## RESEARCH MATERIALS ANALYZED
 
-### 🔴 WYSOKIE RYZYKO - Wymagają szczególnej ostrożności:
+### Documents reviewed:
+1. ✅ **au-research_facts_history.md** - Creation history and fascinating facts
+2. ✅ **au-research_culture_impact.md** - Cultural impact on society
+3. ✅ **au-research_dark_drama.md** - Controversies and dark aspects
+4. ✅ **au-research_local_pl_context.md** - Polish context and local interpretations
+5. ✅ **au-research_reality_wisdom.md** - Prediction accuracy and universal truths
+6. ✅ **au-research_symbols_meanings.md** - Symbolism and hidden meanings
+7. ✅ **au-research_writing_innovation.md** - Writing techniques and innovations
+8. ✅ **au-research_youth_digital.md** - Connections to youth and digital culture
 
-#### 1. **BIOGRAFIA TOŁSTOJA - Skandale osobiste**
-**Źródło**: au-research_dark_drama.md  
-**Problematyczne elementy**:
-- Brutalne zachowania młodości (pojedynki, przemoc, prostytucja)
-- Relacje seksualne z chłopkami podczas ciąży żony
-- Misoginia: "Kobieta... to narzędzie diabła"
-- Opuszczenie 82-letniej żony na 10 dni przed śmiercią
+---
+
+## PROBLEMATIC CONTENT IDENTIFICATION
+
+### 🔴 HIGH RISK - Requires Special Caution:
+
+#### 1. **TOLSTOY'S BIOGRAPHICAL SCANDALS**
+**Source**: au-research_dark_drama.md
+**Problematic elements**:
+- Brutal youth behaviors (duels, violence, prostitution)
+- Sexual relationships with peasant women during wife's pregnancies
+- Misogyny: "Woman... is the devil's instrument"
+- Abandoning 82-year-old wife 10 days before his death
 
 **Platform Risk Matrix**:
-- **Facebook/Meta**: 🔴 HIGH - nowe liberalne zasady mogą tolerować kontrowersje
-- **YouTube**: 🟡 MEDIUM - educational framing może uchronić
-- **TikTok**: 🔴 HIGH - brak kontekstu w krótkich formatach
-- **Spotify**: 🟢 LOW - audio format pozwala na educational approach
-- **Kick**: 🟢 LOW - najbardziej tolerancyjna platforma
+- **Facebook/Meta**: 🔴 HIGH - new liberal policies may tolerate controversies
+- **YouTube**: 🟡 MEDIUM - educational framing may protect
+- **TikTok**: 🔴 HIGH - lack of context in short formats
+- **Spotify**: 🟢 LOW - audio format allows educational approach
+- **Kick**: 🟢 LOW - most tolerant platform
 
-#### 2. **PRZEMOC WOJENNA I TRAUMA**
-**Źródło**: au-research_dark_drama.md, au-research_facts_history.md  
-**Problematyczne elementy**:
-- Realistyczne opisy bitew i ran
-- Psychiczne traumy wojenne
-- Bitwa pod Borodino: 70,000 ofiar - "najkrwawsza bitwa wojen napoleońskich"
+#### 2. **WAR VIOLENCE AND TRAUMA**
+**Source**: au-research_dark_drama.md, au-research_facts_history.md
+**Problematic elements**:
+- Realistic battle descriptions and wounds
+- Psychological war trauma
+- Battle of Borodino: 70,000 casualties - "bloodiest battle of Napoleonic wars"
 
-**Platform Assessment**: 
-- Wszystkie platformy mają ograniczenia co do graficznej przemocy
-- **EDUCATION FRAMING** kluczowy dla approval
+**Platform Assessment**:
+- All platforms have graphic violence limitations
+- **EDUCATIONAL FRAMING** crucial for approval
 
-#### 3. **KONTROWERSJE RELIGIJNE**
-**Źródło**: au-research_dark_drama.md  
-**Problematyczne elementy**:
-- Ekskomunika z Kościoła Prawosławnego (1901)
-- Nazywanie kościoła "nieprzeniknionym lasem głupoty"
-- Prześladowania "tołstojańczyków"
+#### 3. **RELIGIOUS CONTROVERSIES**
+**Source**: au-research_dark_drama.md
+**Problematic elements**:
+- Excommunication from Russian Orthodox Church (1901)
+- Calling church an "impenetrable forest of stupidity"
+- Persecution of "Tolstoyans"
 
-### 🟡 ŚREDNIE RYZYKO - Require careful framing:
+### 🟡 MEDIUM RISK - Require careful framing:
 
-#### 4. **TEMATY NARODOWOŚCIOWE I POLITYCZNE**
-**Źródło**: au-research_local_context.md, au-research_dark_drama.md  
-**Zagadnienia**:
-- Różnice w percepcji Napoleona (Polska vs Rosja)
-- Współczesne wykorzystywanie książki przez rosyjski nacjonalizm
-- Zawłaszczenie przez Stalina podczas inwazji Hitlera
+#### 4. **NATIONAL AND POLITICAL THEMES**
+**Source**: au-research_local_pl_context.md, au-research_dark_drama.md
+**Issues**:
+- Different Napoleon perception (Poland vs Russia)
+- Contemporary appropriation by Russian nationalism
+- Stalin's appropriation during Hitler's invasion
 
-#### 5. **SPOŁECZNA NIERÓWNOŚĆ I KLASOWOŚĆ**
-**Źródło**: au-research_symbols_meanings.md  
-**Elementy**:
-- Krytyka arystokracji i systemu klasowego
-- Eksploatacja chłopów przez szlachtę
-- Bogactwo jako determinanta wartości społecznej
+#### 5. **SOCIAL INEQUALITY AND CLASS SYSTEM**
+**Source**: au-research_symbols_meanings.md
+**Elements**:
+- Aristocracy critique and class system
+- Peasant exploitation by nobility
+- Wealth as social value determinant
 
-#### 6. **KOMPLEKSOWE RELACJE I DOROSŁE TEMATY**
-**Źródło**: au-research_reality_wisdom.md, au-research_symbols_meanings.md  
-**Zagadnienia**:
-- Małżeńskie problemy i niewierność
-- Manipulacje w związkach (Anatol i Natasha)
-- Związki oparte na statusie społecznym
+#### 6. **COMPLEX RELATIONSHIPS AND ADULT THEMES**
+**Source**: au-research_reality_wisdom.md, au-research_symbols_meanings.md
+**Issues**:
+- Marriage problems and infidelity
+- Relationship manipulation (Anatole and Natasha)
+- Status-based relationships
 
-### ✅ NISKIE RYZYKO - Safe content:
+### ✅ LOW RISK - Safe content:
 
-#### 7. **WARTOŚCI EDUKACYJNE I UNIWERSALNE**
-**Źródło**: Wszystkie dokumenty  
-**Pozytywne elementy**:
-- Innowacje literackie i techniki pisarskie
-- Uniwersalne prawdy o naturze ludzkiej
-- Filozoficzne refleksje nad sensem życia
-- Historyczna wartość edukacyjna
-
----
-
-## MATRIX: PROBLEMATYCZNY TEMAT vs PLATFORMA
-
-| Temat Problematyczny | Facebook | YouTube | TikTok | Spotify | Kick |
-|---------------------|----------|---------|---------|----------|------|
-| **Skandale osobiste Tołstoja** | 🔴 EDIT | 🟡 CONTEXT | 🔴 OMIT | 🟢 OK | 🟢 OK |
-| **Przemoc wojenna** | 🟡 AGE-RESTRICT | 🟡 EDUCATIONAL | 🟡 WARNING | 🟢 OK | 🟢 OK |
-| **Kontrowersje religijne** | 🔴 HIGH RISK | 🟡 NEUTRAL | 🔴 AVOID | 🟢 OK | 🟢 OK |
-| **Polityka i nacjonalizm** | 🔴 HIGH RISK | 🟡 BALANCED | 🔴 AVOID | 🟡 CAREFUL | 🟢 OK |
-| **Nierówności społeczne** | 🟡 EDUCATIONAL | 🟢 OK | 🟡 CONTEXT | 🟢 OK | 🟢 OK |
-| **Dorosłe relacje** | 🟡 AGE-RESTRICT | 🟡 MATURE | 🟡 AGE-GATE | 🟢 OK | 🟢 OK |
-
-**Legenda**:
-- 🔴 HIGH RISK - Wymaga znacznych edycji lub unikania
-- 🟡 MEDIUM RISK - Wymaga ostrożnego framingu
-- 🟢 LOW RISK - Bezpieczne z podstawowymi środkami ostrożności
+#### 7. **EDUCATIONAL AND UNIVERSAL VALUES**
+**Source**: All documents
+**Positive elements**:
+- Literary innovations and writing techniques
+- Universal truths about human nature
+- Philosophical reflections on life's meaning
+- Historical educational value
 
 ---
 
-## REKOMENDACJE DLA KAŻDEJ PLATFORMY
+## MATRIX: PROBLEMATIC TOPIC vs PLATFORM
+
+| Problematic Topic | Facebook | YouTube | TikTok | Spotify | Kick |
+|-------------------|----------|---------|---------|----------|------|
+| **Tolstoy's Personal Scandals** | 🔴 EDIT | 🟡 CONTEXT | 🔴 OMIT | 🟢 OK | 🟢 OK |
+| **War Violence** | 🟡 AGE-RESTRICT | 🟡 EDUCATIONAL | 🟡 WARNING | 🟢 OK | 🟢 OK |
+| **Religious Controversies** | 🔴 HIGH RISK | 🟡 NEUTRAL | 🔴 AVOID | 🟢 OK | 🟢 OK |
+| **Politics and Nationalism** | 🔴 HIGH RISK | 🟡 BALANCED | 🔴 AVOID | 🟡 CAREFUL | 🟢 OK |
+| **Social Inequalities** | 🟡 EDUCATIONAL | 🟢 OK | 🟡 CONTEXT | 🟢 OK | 🟢 OK |
+| **Adult Relationships** | 🟡 AGE-RESTRICT | 🟡 MATURE | 🟡 AGE-GATE | 🟢 OK | 🟢 OK |
+
+**Legend**:
+- 🔴 HIGH RISK - Requires significant editing or avoidance
+- 🟡 MEDIUM RISK - Requires careful framing
+- 🟢 LOW RISK - Safe with basic precautions
+
+---
+
+## PLATFORM-SPECIFIC RECOMMENDATIONS
 
 ### 📘 **FACEBOOK/META** - 🔴 HIGH RISK PLATFORM
 
-**STATUS**: **BARDZO WYSOKIE RYZYKO** ze względu na nowe liberalne zasady 2025
+**STATUS**: **VERY HIGH RISK** due to new liberal 2025 policies
 
 **MUST DO**:
-- ❌ **UNIKAJ** kontrowersyjnych interpretacji biografii Tołstoja
-- ❌ **UNIKAJ** dyskusji politycznych o nacjonalizmie rosyjskim  
-- ⚠️ **AGE-RESTRICT** treści o przemocy wojennej
-- ✅ **FOKUS** na pozytywnych aspektach edukacyjnych
+- ❌ **AVOID** controversial biographical interpretations
+- ❌ **AVOID** political discussions about Russian nationalism
+- ⚠️ **AGE-RESTRICT** war violence content
+- ✅ **FOCUS** on positive educational aspects
 
 **Content Strategy**:
-- Przedstaw jako klasykę literatury światowej
-- Podkreśl uniwersalne wartości: miłość, przyjaźń, rozwój osobisty
-- Unikaj kontekstu współczesnych konfliktów (Ukraina)
+- Present as world literature classic
+- Emphasize universal values: love, friendship, personal growth
+- Avoid contemporary conflict context (Ukraine)
 
 ### 📺 **YOUTUBE** - 🟡 MEDIUM RISK
 
-**STATUS**: **ŚREDNIE RYZYKO** - wymaga human narration i educational value
+**STATUS**: **MEDIUM RISK** - requires human narration and educational value
 
 **MUST DO**:
-- ✅ **HUMAN NARRATION** (nie text-to-speech) - kluczowe dla monetyzacji
-- ✅ **EDUCATIONAL FRAMING** dla wszystkich kontrowersyjnych tematów
-- ✅ **ORIGINAL COMMENTARY** - dodaj własną analizę i perspektywę
-- ⚠️ **1+ MINUTE VIDEOS** dla lepszej monetyzacji
+- ✅ **HUMAN NARRATION** (not text-to-speech) - crucial for monetization
+- ✅ **EDUCATIONAL FRAMING** for all controversial topics
+- ✅ **ORIGINAL COMMENTARY** - add personal analysis and perspective
+- ⚠️ **1+ MINUTE VIDEOS** for better monetization
 
 **Content Strategy**:
-- "Literatura wyjaśniona" format z własnym komentarzem
-- Historyczny kontekst z educational disclaimer
-- Focus na innowacje literackie i wpływ na kulturę
+- "Literature explained" format with personal commentary
+- Historical context with educational disclaimer
+- Focus on literary innovations and cultural impact
 
 ### 📱 **TIKTOK** - 🟡 MEDIUM RISK
 
-**STATUS**: **ŚREDNIE RYZYKO** - krótki format ogranicza kontekst
+**STATUS**: **MEDIUM RISK** - short format limits context
 
 **MUST DO**:
-- ⚠️ **MINIMUM 1 MINUTA** - jedyna droga do monetyzacji
-- ❌ **AVOID** kontrowersyjne tematy bez kontekstu
+- ⚠️ **MINIMUM 1 MINUTE** - only path to monetization
+- ❌ **AVOID** controversial topics without context
 - ✅ **EDUCATIONAL FORMAT** - "Things you didn't know about..."
-- ✅ **ORIGINAL CONTENT ONLY** - nie kopiuj z innych TikToków
+- ✅ **ORIGINAL CONTENT ONLY** - don't copy from other TikToks
 
 **Content Strategy**:
-- Fascynujące fakty historyczne (Sofia przepisująca 7 razy)
-- Literary hacks dla Gen Z
-- Connection do gaming culture (Napoleon games)
+- Fascinating historical facts (Sophia recopying 7 times)
+- Literary hacks for Gen Z
+- Connection to gaming culture (Napoleon games)
 
 ### 🎵 **SPOTIFY** - 🟢 LOW RISK
 
-**STATUS**: **NISKIE RYZYKO** - najbardziej creator-friendly dla book content
+**STATUS**: **LOW RISK** - most creator-friendly for book content
 
 **MUST DO**:
-- ✅ **VIDEO PODCAST FORMAT** dla wyższych zarobków  
-- ✅ **PROPER MUSIC LICENSING** - unikaj copyrighted audio
-- ✅ **ORIGINAL ANALYSIS** przeważa nad streszczeniami
-- ✅ **EDUCATIONAL FRAMING** dla sensitive topics
+- ✅ **VIDEO PODCAST FORMAT** for higher earnings
+- ✅ **PROPER MUSIC LICENSING** - avoid copyrighted audio
+- ✅ **ORIGINAL ANALYSIS** over summaries
+- ✅ **EDUCATIONAL FRAMING** for sensitive topics
 
 **Content Strategy**:
-- Deep dive analysis z ekspertami
+- Deep dive analysis with experts
 - "Tolstoy Therapy" approach - mental health benefits
 - Historical context with modern parallels
 
 ### 📺 **KICK** - 🟢 LOW RISK
 
-**STATUS**: **NAJNIŻSZE RYZYKO** - najbardziej creator-friendly
+**STATUS**: **LOWEST RISK** - most creator-friendly
 
 **ADVANTAGES**:
-- ✅ **95/5 REVENUE SPLIT** - najlepszy w branży  
-- ✅ **MOST FREEDOM** dla controversial topics z educational context
-- ✅ **CONTEXT-BASED MODERATION** - rozumieją intent
-- ✅ **INTERACTIVE FORMAT** idealny dla book discussions
+- ✅ **95/5 REVENUE SPLIT** - best in industry
+- ✅ **MOST FREEDOM** for controversial topics with educational context
+- ✅ **CONTEXT-BASED MODERATION** - they understand intent
+- ✅ **INTERACTIVE FORMAT** ideal for book discussions
 
 **Content Strategy**:
-- Live reading sessions i dyskusje
-- Q&A o controversial topics z proper context
-- Community building wokół classic literature
+- Live reading sessions and discussions
+- Q&A about controversial topics with proper context
+- Community building around classic literature
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### 🚨 **OBOWIĄZKOWE OSTRZEŻENIA**
+### 🚨 **MANDATORY WARNINGS**
 
-**Na początku każdej sesji audio należy umieścić**:
+**At the beginning of each audio session include**:
 
-> "**CONTENT WARNING**: Ten materiał zawiera dyskusję o klasycznej literaturze rosyjskiej, w tym wzmianki o przemocy wojennej, kontrowersyjnych poglądach autora oraz kompleksowych tematach dla dorosłych. Treść przeznaczona dla odbiorców 16+. Jeśli któreś z tych tematów może być dla Ciebie problematyczne, rozważ przerwanie odsłuchiwania."
+> "**CONTENT WARNING**: This material contains discussion of classic Russian literature, including mentions of war violence, controversial author views, and complex adult themes. Content intended for ages 16+. If any of these topics may be problematic for you, please consider pausing your listening."
 
-### 📋 **SZCZEGÓŁOWE OSTRZEŻENIA**
+### 📋 **SPECIFIC WARNINGS**
 
-**Biografia autora** (Wymagane dla wszystkich platform):
-- "Lew Tołstoj miał kontrowersyjne poglądy na kobiety i religię, które nie odzwierciedlają współczesnych wartości"
+**Author Biography** (Required for all platforms):
+- "Leo Tolstoy held controversial views on women and religion that do not reflect contemporary values"
 
-**Treść wojny** (Wymagane dla Facebook, TikTok):
-- "Materiał zawiera opisy batalii historycznych i może zawierać wzmianki o przemocy wojennej w kontekście edukacyjnym"
+**War Content** (Required for Facebook, TikTok):
+- "Material contains descriptions of historical battles and may include mentions of war violence in educational context"
 
-**Tematy polityczne** (Wymagane dla Meta platforms):
-- "Dyskusja koncentruje się na wartościach literackich, nie współczesnej polityce"
+**Political Topics** (Required for Meta platforms):
+- "Discussion focuses on literary values, not contemporary politics"
 
 ---
 
-## OBSZARY WYMAGAJĄCE SZCZEGÓLNEJ OSTROŻNOŚCI
+## AREAS REQUIRING SPECIAL CAUTION
 
 ### 🎯 **TOP 5 RED FLAGS**
 
-1. **Osobiste skandale Tołstoja** - może trigger #MeToo discussions
-2. **Rosyjski nacjonalizm** - w kontekście wojny w Ukrainie  
-3. **Kontrowersje religijne** - może obrazić wierzących
-4. **Graphic war content** - triggery dla PTSD sufferers
-5. **Złożone relacje międzyludzkie** - adult themes nie dla młodzieży
+1. **Tolstoy's Personal Scandals** - may trigger #MeToo discussions
+2. **Russian Nationalism** - in context of Ukraine war
+3. **Religious Controversies** - may offend believers
+4. **Graphic War Content** - triggers for PTSD sufferers
+5. **Complex Interpersonal Relations** - adult themes not for youth
 
-### ⚡ **STRATEGY MITIGATION**
+### ⚡ **MITIGATION STRATEGY**
 
-**Dlaczego te tematy są ważne MIMO kontrowersji**:
-1. **Edukacyjna wartość** - understanding historical context
-2. **Literary significance** - wpływ na światową literaturę  
+**Why these topics are important DESPITE controversies**:
+1. **Educational value** - understanding historical context
+2. **Literary significance** - impact on world literature
 3. **Universal themes** - timeless human experiences
 4. **Critical thinking** - learning to separate art from artist
-5. **Historical awareness** - rozumienie przeszłości dla lepszej przyszłości
+5. **Historical awareness** - understanding past for better future
 
 ---
 
 ## EDUCATION-FRIENDLY APPROACHES
 
-### 💡 **JAK OMÓWIĆ TRUDNE TEMATY**
+### 💡 **HOW TO DISCUSS DIFFICULT TOPICS**
 
-#### **1. Kontrowersje biograficzne Tołstoja**
-
-**❌ AVOID**:
-"Tołstoj był mizoginistą i wykorzystywał seksualnie służące"
-
-**✅ RECOMMENDED**:
-"Tołstoj żył w XIX wieku i posiadał poglądy typowe dla swojej epoki, które dziś uznajemy za nieakceptowalne. Ważne jest rozdzielenie wartości literackich dzieła od kontrowersyjnych poglądów autora. Jego książki uczą nas współczucia i humanitaryzmu, mimo że sam autor nie zawsze wcielał te wartości w życie."
-
-#### **2. Przemoc wojenna**
+#### **1. Tolstoy's Biographical Controversies**
 
 **❌ AVOID**:
-"Bitwa pod Borodino była krwawą rzeźnią z 70,000 ofiar"
+"Tolstoy was a misogynist who sexually exploited servants"
 
 **✅ RECOMMENDED**:
-"Tołstoj przedstawił realistyczny obraz kosztów wojny, pokazując zarówno heroizm jak i tragizm konfliktów zbrojnych. Jego antywojenną message rezonuje z współczesnymi wartościami pokoju i rozwiązywania konfliktów drogą dyplomatyczną."
+"Tolstoy lived in the 19th century and held views typical of his era that we now consider unacceptable. It's important to separate the literary value of the work from the author's controversial views. His books teach us compassion and humanitarianism, even though the author himself didn't always embody these values in life."
 
-#### **3. Kontrowersje religijne**
+#### **2. War Violence**
 
 **❌ AVOID**:
-"Tołstoj nazwał kościół 'lasem głupoty' i został słusznie ekskomunikowany"
+"The Battle of Borodino was a bloody slaughter with 70,000 casualties"
 
 **✅ RECOMMENDED**:
-"Tołstoj rozwinął własną filozofię duchową, która była w konflikcie z oficjalnym nauczaniem kościoła. Jego poszukiwania duchowe pokazują uniwersalną ludzką potrzebę znajdowania sensu i celu w życiu."
+"Tolstoy presented a realistic portrayal of war's costs, showing both heroism and tragedy in armed conflicts. His anti-war message resonates with contemporary values of peace and diplomatic conflict resolution."
+
+#### **3. Religious Controversies**
+
+**❌ AVOID**:
+"Tolstoy called the church a 'forest of stupidity' and was rightfully excommunicated"
+
+**✅ RECOMMENDED**:
+"Tolstoy developed his own spiritual philosophy that conflicted with official church teaching. His spiritual searching shows the universal human need to find meaning and purpose in life."
 
 ---
 
-## KOŃCOWA CHECKLISTA COMPLIANCE
+## FINAL COMPLIANCE CHECKLIST
 
-### ✅ **UNIVERSAL REQUIREMENTS** (Wszystkie platformy)
+### ✅ **UNIVERSAL REQUIREMENTS** (All platforms)
 
-- [ ] **Educational framing** dominuje nad controversial content
-- [ ] **Content warnings** na początku każdego materiału  
+- [ ] **Educational framing** dominates controversial content
+- [ ] **Content warnings** at beginning of each material
 - [ ] **Age-appropriate labeling** - recommended 16+
-- [ ] **Fact-checking** kontrowersyjnych stwierdzeń
-- [ ] **Balance perspectives** - nie jednostronne interpretacje
-- [ ] **Original commentary** przeważa nad quoted material
+- [ ] **Fact-checking** controversial statements
+- [ ] **Balance perspectives** - not one-sided interpretations
+- [ ] **Original commentary** outweighs quoted material
 - [ ] **Respect for all audiences** - no discriminatory language
 
 ### 📋 **PLATFORM-SPECIFIC CHECKLIST**
 
 **Meta Platforms (Facebook/Instagram)**:
-- [ ] Extreme caution z controversial topics
-- [ ] No political interpretations  
+- [ ] Extreme caution with controversial topics
+- [ ] No political interpretations
 - [ ] Focus on positive educational aspects only
-- [ ] Age-restriction dla mature content
+- [ ] Age-restriction for mature content
 
 **YouTube**:
-- [ ] Human narration tylko - no AI voice
-- [ ] Educational value dodane do quoted material
-- [ ] 1+ minute format dla monetization
+- [ ] Human narration only - no AI voice
+- [ ] Educational value added to quoted material
+- [ ] 1+ minute format for monetization
 - [ ] Storytelling approach over dry facts
 
 **TikTok**:
 - [ ] 1+ minute original content only
-- [ ] No duets/stitches z book content innych twórców
-- [ ] Educational framing wymagane
+- [ ] No duets/stitches with other creators' book content
+- [ ] Educational framing required
 - [ ] Simple concepts - avoid complex controversies
 
 **Spotify**:
-- [ ] Video format dla maximum revenue
-- [ ] No copyrighted audiobook clips  
+- [ ] Video format for maximum revenue
+- [ ] No copyrighted audiobook clips
 - [ ] Original analysis over pure summaries
-- [ ] Proper music licensing dla intro/outro
+- [ ] Proper music licensing for intro/outro
 
 **Kick**:
 - [ ] Interactive community engagement
-- [ ] Educational context dla controversial discussions
+- [ ] Educational context for controversial discussions
 - [ ] Live format preferred
 - [ ] Community building focus
 
 ---
 
-## MONITORING I UPDATES
+## MONITORING AND UPDATES
 
 ### 📊 **SUCCESS METRICS**
 
-1. **Engagement bez controversy** - likes without hate comments
-2. **Educational feedback** - comments showing learning  
+1. **Engagement without controversy** - likes without hate comments
+2. **Educational feedback** - comments showing learning
 3. **Cross-platform consistency** - same quality standards
 4. **Age-appropriate audience** - analytics showing 16+ demographics
 5. **Zero strikes/violations** - clean compliance record
@@ -329,7 +329,7 @@ Po analizie wszystkich 8 dokumentów researchu od agentów specjalistycznych, "W
 
 **Q1 2025 Tasks**:
 - [ ] Monitor platform policy changes
-- [ ] Analyze audience feedback dla content adjustments
+- [ ] Analyze audience feedback for content adjustments
 - [ ] Review strike/violation history
 - [ ] Update content warnings based on community response
 - [ ] Test new educational approaches
@@ -338,20 +338,20 @@ Po analizie wszystkich 8 dokumentów researchu od agentów specjalistycznych, "W
 
 ## FINAL RECOMMENDATION
 
-**"Wojna i pokój" może być bezpiecznie prezentowana na wszystkich platformach** przy zastosowaniu właściwych środków ostrożności:
+**"War and Peace" can be safely presented on all platforms** with proper precautions:
 
-1. **Age-gate do 16+** ze względu na complexity tematów
-2. **Educational framing** dla wszystkich controversial topics  
-3. **Platform-specific adaptations** zgodnie z powyższymi guidelines
-4. **Proactive content warnings** dla sensitive topics
-5. **Focus na universal values** - love, growth, peace, wisdom
+1. **Age-gate to 16+** due to topic complexity
+2. **Educational framing** for all controversial topics
+3. **Platform-specific adaptations** according to guidelines above
+4. **Proactive content warnings** for sensitive topics
+5. **Focus on universal values** - love, growth, peace, wisdom
 
-**NAJWIĘKSZA WARTOŚĆ**: Literatura klasyczna jako antidote na anxiety Gen Z i source of timeless wisdom about human nature, relationships, i finding meaning in chaotic world.
+**GREATEST VALUE**: Classic literature as antidote to Gen Z anxiety and source of timeless wisdom about human nature, relationships, and finding meaning in a chaotic world.
 
-**BOTTOM LINE**: Z właściwym approach, "Wojna i pokój" może być powerful educational content bez triggering platform violations czy audience backlash. Klucz to balance między intellectual honesty a responsible presentation.
+**BOTTOM LINE**: With proper approach, "War and Peace" can be powerful educational content without triggering platform violations or audience backlash. The key is balance between intellectual honesty and responsible presentation.
 
 ---
 
-*Dokument przygotowany przez 37d Content Warning Assessor*  
-*Data: 25 sierpnia 2025*  
-*Wersja: 1.0*
+*Document prepared by 37d Content Warning Assessor*
+*Date: September 14, 2025*
+*Version: 1.0 - English Only*

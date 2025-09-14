@@ -1,221 +1,221 @@
-# Madame Bovary - Historia Powstania i Fascynujące Fakty
+# Madame Bovary - Creation History and Fascinating Facts
 
-**Autor:** Gustave Flaubert  
-**Rok wydania:** 1856-1857  
-**Tytuł polski:** Pani Bovary  
+**Author:** Gustave Flaubert
+**Publication Year:** 1856-1857
+**Polish Title:** Pani Bovary
 
-## Historia Powstania Książki
+## Book Creation History
 
-### Geneza Pomysłu
+### Genesis of the Idea
 
-**FAKT:** Po powrocie z podróży po Egipcie, Palestynie, Syrii, Turcji, Grecji i Włoszech z Maxime du Camp (listopad 1849 - kwiecień 1851), Flaubert chciał ukończyć swoje dzieło "La Tentation". Przez trzy dni we wrześniu 1849 roku czytał swój manuskrypt przyjacielom - poecie Louis Bouilhet i du Camp, którzy bezlitośnie go potępili, mówiąc: "Wrzuć to wszystko do ognia i nigdy więcej o tym nie wspominaj."
+**FACT:** After returning from his journey through Egypt, Palestine, Syria, Turkey, Greece, and Italy with Maxime du Camp (November 1849 - April 1851), Flaubert wanted to complete his work "La Tentation". For three days in September 1849, he read his manuscript to friends - poet Louis Bouilhet and du Camp, who mercilessly condemned it, saying: "Throw it all in the fire and never mention it again."
 
-**FAKT:** Louis Bouilhet poradził Flaubertowi: "Napisz powieść z życia wzętą, jak 'Rodzice ubodzy' Balzaca. Na przykład historię Delamare'a."
+**FACT:** Louis Bouilhet advised Flaubert: "Write a novel taken from life, like Balzac's 'Poor Parents'. For example, the story of Delamare."
 
-### Prawdziwe Inspiracje
+### Real-Life Inspirations
 
-**FAKT:** Historia oparta była na rzeczywistych wydarzeniach z życia Véronique Delphine Delamare (ur. Couturier; 17 lutego 1822 - 8 marca 1848), francuskiej gospodyni domowej, która miała licznych kochanków i popełniła samobójstwo w wieku 27 lat.
+**FACT:** The story was based on real events from the life of Véronique Delphine Delamare (née Couturier; February 17, 1822 - March 8, 1848), a French housewife who had numerous lovers and committed suicide at age 27.
 
-**FAKT:** Delphine Delamare była córką zamożnego właściciela ziemskiego. W wieku 17 lat wyszła za mąż za prowincjonalnego lekarza, który - podobnie jak Charles Bovary - był wdowcem.
+**FACT:** Delphine Delamare was the daughter of a wealthy landowner. At age 17, she married a provincial doctor who - like Charles Bovary - was a widower.
 
-**FAKT:** Delphine Delamare popełniła samobójstwo, zatruła się kwasem pruskim (znanym dziś jako cyjanowodór) 5 maja 1848 roku w małym miasteczku Ry w Normandii.
+**FACT:** Delphine Delamare committed suicide by poisoning herself with prussic acid (now known as hydrogen cyanide) on May 5, 1848, in the small town of Ry in Normandy.
 
-**FAKT:** W 1848 roku artykuł w "Journal de Rouen" opowiadał o śmierci żony doktora Delamare w wiosce Ry koło Rouen, gdzie dom Delamare'ów i nagrobek Delphine Delamare można zobaczyć do dziś.
+**FACT:** In 1848, an article in "Journal de Rouen" told of the death of Dr. Delamare's wife in the village of Ry near Rouen, where the Delamare house and Delphine Delamare's tombstone can be seen to this day.
 
-### Druga Inspiracja - Louise Pradier
+### Second Inspiration - Louise Pradier
 
-**FAKT:** W 1946 roku Gabrielle Leleu odkryła w bibliotece w Rouen manuskrypt zatytułowany "Mémoires de Madame Ludovica" - naiwną narrację o cudzołożnych miłościach i długach Louise Pradier, żony rzeźbiarza Jamesa Pradiera.
+**FACT:** In 1946, Gabrielle Leleu discovered a manuscript titled "Mémoires de Madame Ludovica" in the Rouen library - a naive narrative about the adulterous loves and debts of Louise Pradier, wife of sculptor James Pradier.
 
-**FAKT:** Manuskrypt Louise Pradier jest uważany za "najsugestywniejsze źródło" inspiracji dla Madame Bovary. Oprócz samobójstwa, pamiętnik bardzo przypomina historię Emmy Bovary - obie historie zawierają zajęcie majątku przez sąd, a gdy powiernik Ludovici grozi, że powie jej mężowi o długach, ona mówi, że się zabije.
+**FACT:** Louise Pradier's manuscript is considered the "most suggestive source" of inspiration for Madame Bovary. Apart from suicide, the diary closely resembles Emma Bovary's story - both stories include court seizure of property, and when Ludovica's confidant threatens to tell her husband about her debts, she says she will kill herself.
 
-**FAKT:** Flaubert nadal spotykał się z Louise Pradier, gdy "burżuazja" ostracyzowała ją jako "upadłą kobietę".
+**FACT:** Flaubert continued to meet with Louise Pradier when the "bourgeoisie" ostracized her as a "fallen woman."
 
-## Proces Twórczy
+## Creative Process
 
-### Pięcioletnia Praca nad Dziełem
+### Five Years of Work
 
-**FAKT:** Flaubert rozpoczął pracę nad "Madame Bovary" w 1850 roku po powrocie z Egiptu. Powieść, której napisanie zajęło pięć lat, była publikowana w odcinkach w "Revue de Paris" w 1856 roku.
+**FACT:** Flaubert began work on "Madame Bovary" in 1850 after returning from Egypt. The novel, which took five years to write, was published in installments in "Revue de Paris" in 1856.
 
-**FAKT:** Wczesne szkice "Madame Bovary" liczyły 4500 stron tekstu; ukończona wersja to nieco ponad 300 stron.
+**FACT:** Early drafts of "Madame Bovary" numbered 4,500 pages of text; the completed version is just over 300 pages.
 
-**FAKT:** Każda strona gotowej powieści była rezultatem co najmniej czterech, a czasami nawet tuzina przepisań.
+**FACT:** Each page of the finished novel was the result of at least four, and sometimes even a dozen rewrites.
 
-**FAKT:** W 2009 roku online udostępniono około 4500 stron wyciętych lub zrewidowanych dla opublikowanego tekstu.
+**FACT:** In 2009, approximately 4,500 pages cut or revised from the published text were made available online.
 
-### Legendarna Perfekcja
+### Legendary Perfectionism
 
-**FAKT:** Flaubert mógł spędzić sześć ciężkich tygodni na kilkudziesięciu stronach lub dwa męczące dni na przepisywaniu jednego akapitu.
+**FACT:** Flaubert could spend six grueling weeks on several dozen pages or two torturous days rewriting a single paragraph.
 
-**FAKT:** Flaubert słynął z poszukiwania "le mot juste" (dokładnie właściwego słowa) - mógł spędzić cały dzień na napisaniu i przepisaniu jednej strony.
+**FACT:** Flaubert was famous for seeking "le mot juste" (exactly the right word) - he could spend an entire day writing and rewriting a single page.
 
-**FAKT:** Flaubert pisał piórem gęsim - nie cierpiał metalowych piór - zanurzając je w kałamarzu w kształcie ropuchy.
+**FACT:** Flaubert wrote with a goose quill - he couldn't stand metal pens - dipping it in an ink well shaped like a toad.
 
-**FAKT:** Słynne powiedzenie Flauberta: "Bądź regularny i uporządkowany w swoim życiu, abyś mógł być gwałtowny i oryginalny w swojej pracy."
+**FACT:** Flaubert's famous saying: "Be regular and orderly in your life, so you can be violent and original in your work."
 
-### Fizyczne Zaangażowanie w Pisanie
+### Physical Involvement in Writing
 
-**FAKT:** Pisząc opis zatrucia Emmy Bovary, Flaubert "był tak skutecznie otruty", że wymiotował swoją kolację. Dwukrotnie.
+**FACT:** While writing Emma Bovary's poisoning scene, Flaubert "was so effectively poisoned" that he vomited his dinner. Twice.
 
-**FAKT:** W liście z listopada 1866 roku Flaubert pisał: "kiedy pisałem opis zatrucia pani Bovary, miałem smak arszeniku tak bardzo w ustach, wzięłem tak dużo trucizny, że spowodowałem sobie dwa napady niestrawności jeden po drugim."
+**FACT:** In a letter from November 1866, Flaubert wrote: "when I was writing the description of Mrs. Bovary's poisoning, I had the taste of arsenic so much in my mouth, I took so much poison, that I caused myself two attacks of indigestion one after the other."
 
-**FAKT:** W innym liście napisał: "Gdy opisywałem zatrucie Emmy Bovary, miałem smak arszeniku na języku."
+**FACT:** In another letter he wrote: "When I was describing Emma Bovary's poisoning, I had the taste of arsenic on my tongue."
 
-**PLOTKA:** Bardzo prawdopodobne, że Flaubert w poszukiwaniu realizmu próbował arszeniku.
+**RUMOR:** It's very likely that Flaubert, in pursuit of realism, tried arsenic.
 
-## Historia Publikacji
+## Publication History
 
-### Pierwsze Wydanie
+### First Edition
 
-**FAKT:** Powieść z podtytułem "Moeurs de province" ("Prowincjonalne Obyczaje") ukazywała się w odcinkach w "Revue de Paris" od 1 października do 15 grudnia 1856 roku.
+**FACT:** The novel with the subtitle "Moeurs de province" ("Provincial Manners") appeared in installments in "Revue de Paris" from October 1 to December 15, 1856.
 
-**FAKT:** W przeciwieństwie do innych pisarzy epoki, jak Charles Dickens, powieść Flauberta - zgodnie z jego perfekcjonizmem - była już ukończona, gdy ukazał się pierwszy odcinek.
+**FACT:** Unlike other writers of the era, like Charles Dickens, Flaubert's novel - in keeping with his perfectionism - was already completed when the first installment appeared.
 
-### Skandal i Proces
+### Scandal and Trial
 
-**FAKT:** Proces o nieprzyzwoitość odbył się 30 stycznia 1857 roku - trwał tylko jeden dzień.
+**FACT:** The obscenity trial took place on January 30, 1857 - it lasted only one day.
 
-**FAKT:** Flaubert i "Revue de Paris" zostali uniewinnieni 7 lutego 1857 roku, tydzień po jednodniowym procesie.
+**FACT:** Flaubert and "Revue de Paris" were acquitted on February 7, 1857, a week after the one-day trial.
 
-**FAKT:** Prokurator M. Ernest Pinard jasno stwierdził, że choć zarządzający i drukarz Revue nie byli naprawdę winni, "głównym winowajcą" był sam Flaubert.
+**FACT:** Prosecutor M. Ernest Pinard clearly stated that although the managers and printer of Revue were not really guilty, "the main culprit" was Flaubert himself.
 
-**FAKT:** W styczniu 1857 roku francuski prokurator Ernest Pinard oskarżył Flauberta o "obrazę moralności publicznej i religijnej oraz dobrych obyczajów".
+**FACT:** In January 1857, French prosecutor Ernest Pinard accused Flaubert of "offending public and religious morality and good customs."
 
-**FAKT:** Flaubert został uniewinniony po argumentacji, że książka przedstawiała konsekwencje niemoralności, a nie ją popierała.
+**FACT:** Flaubert was acquitted after the argument that the book presented the consequences of immorality rather than supporting it.
 
-### Sukces Komercyjny
+### Commercial Success
 
-**FAKT:** Po uniewinnieniu "Madame Bovary" stała się bestsellerem w kwietniu 1857 roku, gdy została opublikowana jako dwutomowa książka.
+**FACT:** After acquittal, "Madame Bovary" became a bestseller in April 1857 when it was published as a two-volume book.
 
-**FAKT:** Proces i uniewinnienie tylko zwiększyły zainteresowanie dziełem po jego wydaniu w formie książki w 1857 roku.
+**FACT:** The trial and acquittal only increased interest in the work after its publication in book form in 1857.
 
-## Biograficzne Szczegóły Autora
+## Author's Biographical Details
 
-### Flaubert w Czasie Pisania
+### Flaubert During Writing
 
-**FAKT:** Gdy ludzie pytali Flauberta, jak powstała inspiracja do stworzenia postaci Emmy Bovary, słynnie odpowiedział: "Madame Bovary to ja."
+**FACT:** When people asked Flaubert how he got the inspiration to create Emma Bovary's character, he famously replied: "Madame Bovary is me."
 
-**FAKT:** Nieszczęście i samotność Flauberta najlepiej wyrażają jego słynne słowa: "Madame Bovary, c'est moi" (Madame Bovary to ja).
+**FACT:** Flaubert's misfortune and loneliness are best expressed by his famous words: "Madame Bovary, c'est moi" (Madame Bovary is me).
 
-**FAKT:** Flaubert spał na polowym łóżku w rogu swojego gabinetu, usypanym z poduszek, aby "przespać gorączkę tworzenia".
+**FACT:** Flaubert slept on a camp bed in the corner of his study, piled with pillows, to "sleep off the fever of creation."
 
-**FAKT:** Pracował gorliwie przy dużym okrągłym stole pośrodku swojego gabinetu.
+**FACT:** He worked zealously at a large round table in the middle of his study.
 
-### Wpływy i Znajomości
+### Influences and Acquaintances
 
-**FAKT:** Historia została w pewien sposób zainspirowana życiem szkolnego kolegi autora, który został lekarzem.
+**FACT:** The story was somewhat inspired by the life of the author's school colleague, who became a doctor.
 
-**FAKT:** Przyjaciel i mentor Flauberta, Louis Bouilhet, zasugerował mu, że może to być odpowiednio "przyziemny" temat na powieść i że Flaubert powinien spróbować pisać w "naturalny sposób", bez dygresji.
+**FACT:** Flaubert's friend and mentor, Louis Bouilhet, suggested that this might be a suitably "mundane" subject for a novel and that Flaubert should try writing in a "natural way," without digressions.
 
-**FAKT:** Literaccy przyjaciele radzili mu, aby trzymał się z dala od nadprzyrodzoności i liryzmu, a skupił się na codziennym życiu.
+**FACT:** Literary friends advised him to stay away from the supernatural and lyricism and focus on everyday life.
 
-## Reakcje i Odbiór
+## Reactions and Reception
 
-### Pierwsze Reakcje
+### First Reactions
 
-**FAKT:** Flaubert był głęboko zraniony moralnym oburzeniem, jakie wywołała "Madame Bovary" przy jej publikacji w 1857 roku.
+**FACT:** Flaubert was deeply hurt by the moral outrage that "Madame Bovary" caused upon its publication in 1857.
 
-**FAKT:** Powieść przedstawiała pozamałżeński seks w jak na tamte czasy graficznych terminach.
+**FACT:** The novel depicted extramarital sex in graphically explicit terms for those times.
 
-**FAKT:** Doświadczenie procesu wzmocniło nienawiść Flauberta do mieszczańskiej moralności.
+**FACT:** The trial experience reinforced Flaubert's hatred of bourgeois morality.
 
-### Wpływ Literacki
+### Literary Impact
 
-**FAKT:** "Od czasu Madame Bovary sztuka powieści została uznana za równą sztuce poezji."
+**FACT:** "Since Madame Bovary, the art of the novel has been recognized as equal to the art of poetry."
 
-**FAKT:** Giorgio de Chirico powiedział, że jego zdaniem "z punktu widzenia narracji, najdoskonalszą książką jest Madame Bovary Flauberta".
+**FACT:** Giorgio de Chirico said that in his opinion "from a narrative point of view, the most perfect book is Flaubert's Madame Bovary."
 
-**FAKT:** Julian Barnes nazwał ją najlepszą powieścią, jaka kiedykolwiek została napisana.
+**FACT:** Julian Barnes called it the best novel ever written.
 
-**FAKT:** Powieść zapowiadała twórczość modernistycznych powieściopisarzy Marcel Proust, Virginia Woolf i James Joyce.
+**FACT:** The novel foreshadowed the work of modernist novelists Marcel Proust, Virginia Woolf, and James Joyce.
 
-## Adaptacje i Tłumaczenia
+## Adaptations and Translations
 
-### Tłumaczenia
+### Translations
 
-**FAKT:** Pierwszą próbę tłumaczenia podjęła Juliet Herbert, która pracowała blisko z autorem.
+**FACT:** The first translation attempt was made by Juliet Herbert, who worked closely with the author.
 
-**FAKT:** W 1878 roku George Saintsbury opublikował esej zawierający tłumaczenia fragmentów powieści.
+**FACT:** In 1878, George Saintsbury published an essay containing translations of fragments of the novel.
 
-**FAKT:** Eleanor Marx, córka Karola Marksa, opublikowała pierwsze ważne angielskie tłumaczenie "Madame Bovary" w 1886 roku - tym samym roku, w którym pierwszy tom "Das Kapital" miał się ukazać po angielsku.
+**FACT:** Eleanor Marx, Karl Marx's daughter, published the first important English translation of "Madame Bovary" in 1886 - the same year the first volume of "Das Kapital" was to appear in English.
 
-**FAKT:** Oryginalne tłumaczenie Eleanor Marx-Aveling jest nadal szeroko czytane, sądząc po liczbie zrewidowanych wydań i wznowień.
+**FACT:** Eleanor Marx-Aveling's original translation is still widely read, judging by the number of revised editions and reprints.
 
-**FAKT:** Stosunkowo niedawne tłumaczenie Lydia Davis z 2010 roku jest również szeroko czytane.
+**FACT:** The relatively recent 2010 translation by Lydia Davis is also widely read.
 
-### Adaptacje Filmowe
+### Film Adaptations
 
-**FAKT:** Osiemnastu reżyserów filmowych od Francji po Stany Zjednoczone, od Niemiec po Indie, podjęło się zadania adaptacji "Madame Bovary" na ekran.
+**FACT:** Eighteen film directors from France to the United States, from Germany to India, have undertaken the task of adapting "Madame Bovary" to the screen.
 
-**FAKT:** Istnieje książka o adaptacjach filmowych zatytułowana "Madame Bovary at the Movies".
+**FACT:** There is a book about film adaptations titled "Madame Bovary at the Movies."
 
-**FAKT:** Znaczące adaptacje to między innymi:
-- "Madame Bovary" (1937), reż. Gerhard Lamprecht z Polą Negri
-- "Madame Bovary" (1949), reż. Vincente Minnelli z Jennifer Jones, Jamesem Masonem
-- "Madame Bovary" (1964 i 1975), seriale BBC
-- "Emma Bovary" (2021), film telewizyjny France Télévisions
+**FACT:** Significant adaptations include:
+- "Madame Bovary" (1937), dir. Gerhard Lamprecht with Pola Negri
+- "Madame Bovary" (1949), dir. Vincente Minnelli with Jennifer Jones, James Mason
+- "Madame Bovary" (1964 and 1975), BBC series
+- "Emma Bovary" (2021), France Télévisions TV film
 
-**FAKT:** Film Davida Leana "Córka Ryana" (1970) był luźną adaptacją historii, przeniesioną do Irlandii w czasie Powstania Wielkanocnego.
+**FACT:** David Lean's film "Ryan's Daughter" (1970) was a loose adaptation of the story, transplanted to Ireland during the Easter Rising.
 
-### Inne Adaptacje
+### Other Adaptations
 
-**FAKT:** Opera "Madame Bovary" Emmanuela Bondeville'a została wystawiona w 1951 roku.
+**FACT:** Emmanuel Bondeville's opera "Madame Bovary" was performed in 1951.
 
-**FAKT:** Powieść graficzna Posy Simmonds "Gemma Bovery" z 1999 roku (i adaptacja filmowa Anne Fontaine) przepracowała historię na satyryczną opowieść o angielskich emigrantach we Francji.
+**FACT:** Posy Simmonds' 1999 graphic novel "Gemma Bovery" (and Anne Fontaine's film adaptation) reworked the story into a satirical tale about English emigrants in France.
 
-**FAKT:** Powieść została luźno zaadaptowana w chrześcijańskiej serii wideo VeggieTales pod tytułem "Madame Blueberry".
+**FACT:** The novel was loosely adapted in the Christian video series VeggieTales under the title "Madame Blueberry."
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-### Szczegóły z Procesu Twórczego
+### Details from the Creative Process
 
-**FAKT:** Flaubert prowadził intensywną korespondencję podczas pisania - jego listy zawierają szczegółowe opisy trudności twórczych.
+**FACT:** Flaubert conducted intensive correspondence while writing - his letters contain detailed descriptions of creative difficulties.
 
-**FAKT:** Autor miewał napady furii podczas pisania - czasami chodził po pokoju przez godziny, szukając właściwego słowa.
+**FACT:** The author had fits of rage while writing - sometimes he would walk around the room for hours, looking for the right word.
 
-**FAKT:** Słynny akapit o koniu Emmy zajął Flaubertowi cały tydzień.
+**FACT:** The famous paragraph about Emma's horse took Flaubert an entire week.
 
-### Szczegóły Medyczne
+### Medical Details
 
-**FAKT:** Opis zatrucia arsenem w powieści jest tak klinicznie dokładny, że musiał zrobić wrażenie na wielu czytelnikach - Emma wymiotuje krwią, jej twarz staje się niebieska, wydziela "metaliczne pary", ma konwulsje i krzyki, pokrywa się brązowymi plamami po całym ciele, zanim umiera z czarnym językiem zwisającym z ust.
+**FACT:** The description of arsenic poisoning in the novel is so clinically accurate that it must have impressed many readers - Emma vomits blood, her face turns blue, she emits "metallic vapors," has convulsions and screams, is covered with brown spots all over her body before dying with a black tongue hanging from her mouth.
 
-**FAKT:** Flaubert opisuje, że o ósmej rano Emma zaczyna wymiotować i doznaje gwałtownych konwulsji.
+**FACT:** Flaubert describes that at eight in the morning Emma begins vomiting and experiences violent convulsions.
 
-### Wpływ na Literaturę
+### Impact on Literature
 
-**FAKT:** Powieść oznaczała początek nowej ery w literaturze - przejście od romantyzmu do realizmu.
+**FACT:** The novel marked the beginning of a new era in literature - the transition from romanticism to realism.
 
-**FAKT:** Flaubert jako pierwszy dopasował styl prozy do akcji opowieści w nowy sposób - gdy Emma się nudzi, proza wlecze się nudno; gdy doświadcza zmysłowej przyjemności, porusza się ekstazą i szybko.
+**FACT:** Flaubert was the first to match prose style to story action in a new way - when Emma is bored, the prose drags tediously; when she experiences sensual pleasure, it moves with ecstasy and speed.
 
-**FAKT:** Bezlitośnie obiektywne podejście Flauberta oznaczało beznamiętne rejestrowanie każdej cechy lub incydentu, który mógł oświetlić psychologię jego postaci.
+**FACT:** Flaubert's ruthlessly objective approach meant passionless recording of every trait or incident that could illuminate his characters' psychology.
 
-### Liczby i Rekordy
+### Numbers and Records
 
-**FAKT:** Pierwotny manuskrypt liczył 4300 stron, które zostały skondensowane do nieco ponad 300 stron.
+**FACT:** The original manuscript numbered 4,300 pages, which were condensed to just over 300 pages.
 
-**FAKT:** Proces pisania trwał dokładnie 5 lat (1851-1856).
+**FACT:** The writing process took exactly 5 years (1851-1856).
 
-**FAKT:** Powieść została podzielona na trzy części: Część I - Charles spotyka Emmy i żeni się z nią w Tostes; Część II - przeprowadzają się do Yonville-l'Abbaye, Emma spotyka Léona i Rodolphe'a; Część III - Emma odnawia związek z Léonem, jej życie się rozpada i popełnia samobójstwo.
+**FACT:** The novel was divided into three parts: Part I - Charles meets Emma and marries her in Tostes; Part II - they move to Yonville-l'Abbaye, Emma meets Léon and Rodolphe; Part III - Emma renews her relationship with Léon, her life falls apart and she commits suicide.
 
-**FAKT:** W ciągu jednego dnia Flaubert mógł napisać i przepisać tylko jedną stronę.
+**FACT:** In one day, Flaubert could write and rewrite only one page.
 
-### Współczesny Odbiór
+### Contemporary Reception
 
-**FAKT:** Nawet po upadku szkoły realistycznej Flaubert nie stracił prestiżu w środowisku literackim.
+**FACT:** Even after the fall of the realist school, Flaubert did not lose prestige in the literary community.
 
-**FAKT:** Nadal przemawia do innych pisarzy ze względu na głębokie oddanie zasadom estetycznym, poświęcenie się stylowi i niestrudzony pościg za doskonałym wyrażeniem.
+**FACT:** He still appeals to other writers because of his deep devotion to aesthetic principles, dedication to style, and tireless pursuit of perfect expression.
 
-**FAKT:** Flaubert napisał: "Moja biedna Bovary cierpi i płacze w więcej niż dwudziestu wioskach Francji w tej właśnie chwili."
+**FACT:** Flaubert wrote: "My poor Bovary suffers and weeps in more than twenty villages of France at this very moment."
 
-## Tajemnice i Niepotwierdzone Fakty
+## Secrets and Unconfirmed Facts
 
-**PLOTKA:** Niektórzy badacze uważają, że fantazyjna (jeśli nie kapryśna) osobowość Emmy Bovary została również zainspirowana przez byłą kochankę Flauberta, Colet.
+**RUMOR:** Some scholars believe that Emma Bovary's fantastical (if not capricious) personality was also inspired by Flaubert's former lover, Colet.
 
-**PLOTKA:** Żona rzeźbiarza Jamesa Pradiera, cudzołożna marnotrawczyni, mogła również wpłynąć na Flauberta przy tworzeniu Emmy.
+**RUMOR:** The wife of sculptor James Pradier, an adulterous spendthrift, may have also influenced Flaubert in creating Emma.
 
-**PLOTKA:** Flaubert mógł rzeczywiście spróbować arszeniku w poszukiwaniu realizmu - stąd tak szczegółowe opisy zatrucia.
+**RUMOR:** Flaubert may have actually tried arsenic in pursuit of realism - hence the detailed descriptions of poisoning.
 
-**PLOTKA:** Dom w Ry, który rzekomo był inspiracją dla domu Bovary'ów, do dziś przyciąga turystów literackich, chociaż połączenie nie jest w pełni potwierdzone.
+**RUMOR:** The house in Ry, which allegedly inspired the Bovary house, still attracts literary tourists today, although the connection is not fully confirmed.
 
 ---
 
-*Dokument przygotowany na potrzeby badań historycznych dla projektu 37 Stopni - Gorączka Czytania*
+*Document prepared for historical research for the 37 Degrees - Reading Fever project*

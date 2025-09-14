@@ -5,3 +5,182 @@ book_info:
   year: 1719
   genre: "Adventure,Novel"
   reading_time: "10-12 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T12:10:00+01:00"
+
+  scores:
+    controversy: 6
+    philosophical_depth: 7
+    cultural_phenomenon: 10
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 10
+    structural_complexity: 5
+    social_roles: 4
+    total: 57
+    percentile: 80
+
+  composite_scores:
+    depth:
+      value: 7.8
+      category: "high"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Colonial master-servant dynamic between Crusoe and Friday creates postcolonial criticism"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Universal archetypes: desert island, first man, religious allegory, psychological journey"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 1.0
+        content: "700+ adaptations, second most translated book after Bible, created robinsonada genre"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.8
+        content: "Gaming culture foundation: Minecraft as personal robinsonada, survival mechanics"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic about digital isolation, pandemic lockdowns, self-reliance necessity"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 1.0
+        content: "First English novel, invented realistic fiction, documentary prose style"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Based on Alexander Selkirk story, immediate success: 80,000 copies in 4 months"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Colonial attitudes, racial stereotypes require educational context"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "First English novel, foundational text for British literary tradition"
+        key_editions: ["Penguin Classics", "Oxford World's Classics", "Modern Library"]
+        reception_notes: "Cornerstone of English literature curricula, survival culture icon"
+        educational_status: "Standard reading in English literature courses"
+        local_themes: ["English individualism", "Protestant work ethic", "Colonial legacy"]
+
+      pl:
+        cultural_impact: "Popular survival story, adventure literature foundation"
+        key_editions: ["PIW editions", "Greg publications", "Zielona Sowa"]
+        reception_notes: "Adventure reading, survival skills interest"
+        educational_status: "Youth literature, adventure reading programs"
+        local_themes: ["Self-reliance", "Survival skills", "Adventure spirit"]
+
+      de:
+        cultural_impact: "Educational classic, Bildungsroman influence on German tradition"
+        key_editions: ["Reclam Universal-Bibliothek", "Insel Verlag"]
+        reception_notes: "Pedagogical value emphasized, philosophical interpretations"
+        educational_status: "Character education and German literature courses"
+        local_themes: ["Self-development", "Man vs nature", "Educational journey"]
+
+      fr:
+        cultural_impact: "Rousseau's educational ideal, influenced French adventure literature"
+        key_editions: ["Gallimard Folio", "Livre de Poche", "Flammarion"]
+        reception_notes: "Rousseau praised it as perfect book for children under 12"
+        educational_status: "Classic children's literature, educational programs"
+        local_themes: ["Natural education", "Noble savage critique", "Enlightenment values"]
+
+      es:
+        cultural_impact: "Colonial history parallels, adventure literature inspiration"
+        key_editions: ["Alianza Editorial", "Cátedra", "Austral Espasa"]
+        reception_notes: "Historical context of Spanish colonialism provides complex reading"
+        educational_status: "World literature and historical context courses"
+        local_themes: ["Colonial reflection", "Survival adventure", "Cultural encounter"]
+
+      pt:
+        cultural_impact: "Brazilian connection through colonial themes and island culture"
+        key_editions: ["L&PM Editores", "Martin Claret", "Companhia das Letras"]
+        reception_notes: "Resonates with Brazilian island culture and colonial history"
+        educational_status: "Adventure literature and world classics"
+        local_themes: ["Island life", "Colonial history", "Survival skills"]
+
+      ja:
+        cultural_impact: "Survival theme resonates with Japanese resilience culture"
+        key_editions: ["Iwanami Bunko", "Kadokawa Bunko", "Shinchosha"]
+        reception_notes: "Survival and self-reliance themes valued in Japanese culture"
+        educational_status: "World literature and English education"
+        local_themes: ["Perseverance", "Self-improvement", "Cultural adaptation"]
+
+      ko:
+        cultural_impact: "Educational value in self-reliance and problem-solving"
+        key_editions: ["Sigongsa", "Yeolimwon", "Minumsa World Literature"]
+        reception_notes: "Emphasized for educational and character-building value"
+        educational_status: "Character education and world literature"
+        local_themes: ["Self-reliance", "Problem-solving", "Perseverance"]
+
+      hi:
+        cultural_impact: "Limited presence but colonial themes create complex reception"
+        key_editions: ["English editions primarily used", "Some Hindi translations"]
+        reception_notes: "Colonial themes require sensitive educational approach"
+        educational_status: "Advanced literature courses with historical context"
+        local_themes: ["Colonial critique", "Survival resilience", "Cultural encounter"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "local culture specialist"
+        host_b: "global literature observer"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "local_context"
+          lead: "host_a"
+          description: "English origins of the novel and Protestant individualism foundations"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "Second most translated book ever, universal survival archetype"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "translations"
+          lead: "host_a"
+          description: "How different cultures adapted and interpreted the colonial themes"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "legacy"
+          lead: "host_b"
+          description: "Gaming culture influence and contemporary digital isolation parallels"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Balancing literary innovation with problematic colonial attitudes"
+      prompts:
+        host_a: "You are {male_name}, examining 'Robinson Crusoe' from local cultural perspective. Discuss how this 1719 English novel created the template for survival literature and individualistic values that different cultures have interpreted. Focus on Defoe's revolutionary realistic prose, the Protestant work ethic embedded in the story, and how various cultures have handled the colonial aspects of the Crusoe-Friday relationship."
+        host_b: "You are {female_name}, providing global context for 'Robinson Crusoe'. Explore how this became the second most translated book in history, its influence on gaming culture and survival entertainment, and why the desert island archetype resonates universally. Discuss contemporary relevance through pandemic isolation experiences and digital minimalism movements."
+
+  metadata:
+    target_audience: "12+"
+    content_warnings: ["colonial attitudes", "racial stereotypes", "cultural supremacy themes"]
+    educational_elements: ["First English novel", "Survival literature origins", "Protestant work ethic", "Colonial history context"]
+    production_notes:
+      intro_style: "Foundational adventure that created modern fiction"
+      transitions: "subtle musical bridges"
+      outro_style: "Contemporary relevance reflection"
+
+  overall_confidence: 0.85
