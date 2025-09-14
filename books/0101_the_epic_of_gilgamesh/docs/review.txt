@@ -1,44 +1,34 @@
-﻿Epos o Gilgameszu: Kompendium Wizualne dla Adaptacji Graficznej
-
-
-
+Epos o Gilgameszu: Kompendium Wizualne dla Adaptacji Graficznej
 
 Tabela 1: Podsumowanie Projektu Postaci
 
-
 Poniższa tabela stanowi skondensowane źródło referencyjne dla zespołu artystycznego, przedstawiając kluczowe aspekty wizualne i charakterologiczne głównych postaci eposu. Jej celem jest zapewnienie spójności w procesie projektowania i kreacji na wszystkich etapach produkcji.
 
-
 Postać (Character)
-	Opis Fizyczny (Physical Description)
-	Ubiór i Uzbrojenie (Attire & Armament)
-	Kluczowe Symbole i Mowa Ciała (Key Symbols & Body Language)
-	Gilgamesz
-	Imponujący wzrost, doskonała muskulatura (2/3 bóg). Długie, ciemne włosy i misternie spleciona, kwadratowa broda w stylu asyryjskim. Ciało idealne, "przerażające jak wielki dziki byk".1
-	Faza 1 (Tyran): Bogate, zdobione frędzlami szaty królewskie (kaunakes), złota biżuteria, korona. Faza 2 (Wędrowiec): Proste, surowe skóry zwierzęce. Broń: ciężki topór z brązu ("Moc Bohaterów"), łuk z Anszan, miecz.1
-	Dominujący, władczy, często w pozie frontalnej. Po śmierci Enkidu staje się zgarbiony, udręczony. Jego ruchy są pełne desperacji. Symbol: lew, byk, mury Uruk.
-	Enkidu
-	Dziki: Ciało całkowicie pokryte gęstym, matowym owłosieniem. Długa, nieokiełznana czupryna "jak u kobiety".1 Porusza się na czterech kończynach lub w przykucniętej pozie. Cywilizowany: Umięśniony, ogolony, z krótszymi włosami i brodą. Postawa wyprostowana.
-	Faza 1: Brak. Faza 2: Prosty, wełniany kilt (kaunakes), przepasany pasem. Walczy wręcz lub prostym toporem z brązu.
-	Początkowo zwierzęcy, instynktowny, nieufny. Później lojalny, ugruntowany, stanowi moralny kompas dla Gilgamesza. Symbol: gazela, natura, step.
-	Isztar
-	Uosobienie boskiego piękna i potęgi. Wygląd oparty na rzeźbach i pieczęciach: duże, podkreślone oczy, pełne usta. Może manifestować się z atrybutami wojennymi (kołczan) lub miłosnymi.
-	Bogato zdobione, wielowarstwowe, przezroczyste szaty. Boska tiara z rogami symbolizująca jej status. Biżuteria z lapis lazuli i złota.
-	Uwodzicielska, kapryśna, jej postawa zmienia się od płynnej i powabnej do sztywnej i przerażającej w gniewie. Symbol: gwiazda ośmioramienna, lew, brama.
-	Humbaba
-	Gigantyczna, antropomorficzna bestia. Twarz to wirująca masa zmarszczek przypominająca zwoje jelit.3 Szerokie oczy, wielkie kły, potężne ramiona. Ciało może być częściowo pokryte korą lub mchem.
-	Okryty siedmioma aurami boskiego terroru (melammu), wizualizowanymi jako pulsujące, zniekształcające powietrze wokół niego świetliste płaszcze.4
-	Chaotyczny, pierwotny strach. Jego ruchy są jak trzęsienie ziemi, a ryk jak "potok burzy".1 Symbol: las, przerażająca maska, cedr.
-	________________
-
+    Opis Fizyczny (Physical Description)
+    Ubiór i Uzbrojenie (Attire & Armament)
+    Kluczowe Symbole i Mowa Ciała (Key Symbols & Body Language)
+    Gilgamesz
+    Imponujący wzrost, doskonała muskulatura (2/3 bóg). Długie, ciemne włosy i misternie spleciona, kwadratowa broda w stylu asyryjskim. Ciało idealne, "przerażające jak wielki dziki byk".1
+    Faza 1 (Tyran): Bogate, zdobione frędzlami szaty królewskie (kaunakes), złota biżuteria, korona. Faza 2 (Wędrowiec): Proste, surowe skóry zwierzęce. Broń: ciężki topór z brązu ("Moc Bohaterów"), łuk z Anszan, miecz.1
+    Dominujący, władczy, często w pozie frontalnej. Po śmierci Enkidu staje się zgarbiony, udręczony. Jego ruchy są pełne desperacji. Symbol: lew, byk, mury Uruk.
+    Enkidu
+    Dziki: Ciało całkowicie pokryte gęstym, matowym owłosieniem. Długa, nieokiełznana czupryna "jak u kobiety".1 Porusza się na czterech kończynach lub w przykucniętej pozie. Cywilizowany: Umięśniony, ogolony, z krótszymi włosami i brodą. Postawa wyprostowana.
+    Faza 1: Brak. Faza 2: Prosty, wełniany kilt (kaunakes), przepasany pasem. Walczy wręcz lub prostym toporem z brązu.
+    Początkowo zwierzęcy, instynktowny, nieufny. Później lojalny, ugruntowany, stanowi moralny kompas dla Gilgamesza. Symbol: gazela, natura, step.
+    Isztar
+    Uosobienie boskiego piękna i potęgi. Wygląd oparty na rzeźbach i pieczęciach: duże, podkreślone oczy, pełne usta. Może manifestować się z atrybutami wojennymi (kołczan) lub miłosnymi.
+    Bogato zdobione, wielowarstwowe, przezroczyste szaty. Boska tiara z rogami symbolizująca jej status. Biżuteria z lapis lazuli i złota.
+    Uwodzicielska, kapryśna, jej postawa zmienia się od płynnej i powabnej do sztywnej i przerażającej w gniewie. Symbol: gwiazda ośmioramienna, lew, brama.
+    Humbaba
+    Gigantyczna, antropomorficzna bestia. Twarz to wirująca masa zmarszczek przypominająca zwoje jelit.3 Szerokie oczy, wielkie kły, potężne ramiona. Ciało może być częściowo pokryte korą lub mchem.
+    Okryty siedmioma aurami boskiego terroru (melammu), wizualizowanymi jako pulsujące, zniekształcające powietrze wokół niego świetliste płaszcze.4
+    Chaotyczny, pierwotny strach. Jego ruchy są jak trzęsienie ziemi, a ryk jak "potok burzy".1 Symbol: las, przerażająca maska, cedr.
+    ________________
 
 Część 1: Wprowadzenie – Świat Gilgamesza
 
-
-
-
 1.1. Wizualna Gramatyka Mezopotamii: Estetyka i Symbolika
-
 
 Aby stworzyć wierną i sugestywną adaptację graficzną Eposu o Gilgameszu, konieczne jest zdefiniowanie spójnego języka wizualnego, zakorzenionego w estetyce i symbolice starożytnej Mezopotamii. Sztuka tego regionu nie dążyła do fotograficznego realizmu, lecz do symbolicznej reprezentacji porządku, władzy i relacji między światem ludzkim a boskim.5 Ten fundamentalny pryzmat musi kształtować każdy kadr adaptacji.
 Paleta Kolorów świata Gilgamesza jest zdeterminowana przez jego środowisko naturalne i dostępne materiały. Dominują w niej ciepłe, ziemiste barwy: ochra wszechobecnej pustyni i wysuszonej na słońcu cegły mułowej, czerwień terakoty i wypalanej ceramiki. Te podstawowe kolory są gwałtownie przełamywane przez luksusowe, importowane pigmenty, symbolizujące władzę i boskość: głęboki, niemal świetlisty błękit lapis lazuli, używany w dekoracjach świątyń i biżuterii, oraz połyskujące złoto, zarezerwowane dla królów i bogów.7 Ten kontrast między surowością codzienności a jaskrawym splendorem sfery sakralnej i królewskiej jest kluczowym elementem wizualnej narracji.
@@ -46,9 +36,7 @@ Kompozycja i Styl muszą czerpać z kanonów sztuki sumeryjskiej i akadyjskiej. 
 Wzornictwo i Tekstury odgrywają kluczową rolę w budowaniu wiarygodności świata. Należy obficie czerpać z bogactwa geometrycznych wzorów – rozet, zygzaków, plecionek – które zdobią pieczęcie cylindryczne, reliefy i architekturę.10 Tekstury powinny być namacalne: szorstkość i nieregularność suszonej cegły, chropowatość wełnianych, frędzlowatych szat (
 kaunakes), gładkość polerowanego alabastru w pałacowych wnętrzach i metaliczny chłód brązowej broni. Te detale sensoryczne zanurzą odbiorcę w materialnej kulturze starożytnego Sumeru. Kluczowymi źródłami inspiracji wizualnej są artefakty takie jak Sztandar z Ur, ukazujący sceny wojny i pokoju 11, niezliczone pieczęcie cylindryczne, które są mikrokosmosami mitologicznych i codziennych narracji 13, hieratyczne rzeźby orantów z Tell Asmar 14 oraz monumentalne reliefy asyryjskie.15
 
-
 1.2. Miasto Uruk: Serce Cywilizacji
-
 
 Uruk nie jest jedynie tłem dla wydarzeń eposu; jest jego pulsującym sercem, symbolem cywilizacji, porządku i ludzkiej ambicji. Jego wizualna reprezentacja musi oddawać zarówno jego monumentalne piękno, jak i opresyjną naturę pod rządami despotycznego Gilgamesza.
 Architektura i Urbanistyka miasta to chaotyczny, organiczny labirynt. Wąskie, niebrukowane uliczki wiją się między ciasno stłoczonymi, jednopiętrowymi domami z cegły mułowej. Te domostwa są pozbawione zewnętrznych okien, a całe życie toczy się wokół wewnętrznych, otwartych na niebo dziedzińców, które zapewniają cień i chłód.16 Ponad tą gęstą, beżową tkanką miejską wznoszą się ku niebu dwa monumentalne kompleksy świątynne, stanowiące centrum religijne i administracyjne: Eanna, poświęcona bogini Isztar, oraz starsza dzielnica Kullaba z zigguratem boga Anu.17
@@ -60,21 +48,14 @@ Atmosfera miasta jest gęsta i sensoryczna. W powietrzu unosi się wszechobecny 
 Adaptacja graficzna powinna traktować Uruk nie jako statyczne tło, ale jako dynamicznego uczestnika dramatu, którego wizualny "nastrój" ewoluuje wraz z przemianą jego króla. Na początku, pod rządami tyrana Gilgamesza, miasto, choć architektonicznie wspaniałe, powinno być przedstawione w opresyjny sposób. Można to osiągnąć poprzez zastosowanie ciemnej palety barw, klaustrofobicznych ujęć w wąskich uliczkach i dominujących, przytłaczających cieni rzucanych przez zigguraty. Mieszkańcy poruszają się ze spuszczonymi głowami, unikając kontaktu wzrokowego. Kiedy Gilgamesz i Enkidu pokonują Byka Niebiańskiego, miasto ponosi fizyczne zniszczenia – tekst mówi o "pęknięciach w ziemi", które pochłaniają setki ludzi.2 Jest to wizualna metafora ceny, jaką cywilizacja płaci za pychę swoich władców. Na końcu eposu, gdy Gilgamesz powraca jako mądry i doświadczony władca, te same mury, które wcześniej symbolizowały jego tyranię (zbudowane siłą niewolniczej pracy 22), stają się symbolem jego dziedzictwa i opieki nad ludem. W tej fazie miasto powinno być ukazane w cieplejszym, złotym świetle. Ludzie na ulicach są bardziej ożywieni, a na mury patrzą z dumą i poczuciem bezpieczeństwa, a nie ze strachem.
 ________________
 
-
 Część 2: Tablica I – Tyran Uruk i Narodziny Dzikusa
 
-
-
-
 2.1. Streszczenie Fabuły
-
 
 Prolog eposu przedstawia dwoistą naturę Gilgamesza, króla Uruk. Z jednej strony jest on wielkim budowniczym, który otoczył miasto potężnymi murami, w dwóch trzecich bogiem, w jednej trzeciej człowiekiem.2 Z drugiej jednak strony, jego rządy są naznaczone okrucieństwem i despotyzmem. Wykorzystuje swoich poddanych do przymusowej pracy i bezwzględnie egzekwuje "prawo pierwszej nocy" (
 droit du seigneur), śpiąc z nowo poślubionymi pannami młodymi przed ich mężami.22 Zdesperowani mieszkańcy Uruk wznoszą modły do bogów, błagając o ratunek. W odpowiedzi bogini stworzenia, Aruru, lepi z gliny i wody Enkidu – dzikiego człowieka, równego Gilgameszowi siłą, którego przeznaczeniem jest stać się jego rywalem i pohamować jego pychę.15 Enkidu żyje na stepie w całkowitej harmonii ze zwierzętami, nie znając cywilizacji. Jego istnienie zostaje odkryte przez myśliwego, którego pułapki regularnie niszczy. Za radą ojca, myśliwy udaje się do Uruk i opowiada o dzikusie Gilgameszowi, który postanawia posłać do niego świątynną kapłankę-prostytutkę, Szamchat, aby go ucywilizowała.
 
-
 2.2. Wizualizacje Postaci i Scen
-
 
 Gilgamesz jako Tyran:
 * Wygląd: W tej fazie Gilgamesz jest ucieleśnieniem zimnego, boskiego piękna. Jego ciało jest fizycznie doskonałe, co podkreślają bogato zdobione, częściowo przezroczyste szaty, ale jego postawa jest sztywna, nienaturalna i arogancka. Jego twarz, z misternie ułożoną, kwadratową brodą i oczami podkreślonymi kohl, rzadko zdradza jakiekolwiek emocje poza pogardą i nudą.1 Patrzy na innych z góry, z dystansem istoty, która uważa się za wyższą.
@@ -91,20 +72,13 @@ Cywilizowanie przez Szamchat:
 Fundamentalnym elementem języka wizualnego adaptacji musi być dychotomia między Naturą a Cywilizacją. Ten kontrast, wyraźnie zarysowany w eposie poprzez postacie Enkidu i Gilgamesza 24, powinien determinować wygląd każdej sceny. Cywilizacja, reprezentowana przez Uruk i Gilgamesza, charakteryzuje się prostymi liniami, kątami prostymi i symetrią, widocznymi w architekturze, wzorach na szatach i formalnych, sztywnych gestach. Oświetlenie w Uruk jest często sztuczne – pochodnie, lampy oliwne – tworząc ostre, dramatyczne cienie. Z kolei Natura, świat Enkidu, to domena organicznych, płynnych kształtów – falujących traw, nieregularnych skał, krętych ścieżek zwierząt. Ruchy są tu instynktowne i swobodne. Oświetlenie jest wyłącznie naturalne – miękkie światło słońca i księżyca. Transformacja Enkidu jest wizualnym przejściem z jednego języka do drugiego. Gdy Szamchat ubiera go w kawałek swojej szaty, nakłada na jego organiczne ciało geometryczny kształt ubrania. Gdy uczy go jeść chleb i pić piwo, zastępuje surowe dary natury przetworzonymi produktami cywilizacji. Starcie Gilgamesza z Enkidu w Tablicy II nie jest więc tylko walką dwóch siłaczy, ale wizualnym zderzeniem tych dwóch światów: symetrii i porządku Uruk z chaosem i nieprzewidywalnością stepu.
 ________________
 
-
 Część 3: Tablice II-V – Wyprawa, Las i Strażnik
-
-
-
 
 3.1. Streszczenie Fabuły
 
-
 Po ucywilizowaniu, Enkidu, poinstruowany przez Szamchat, przybywa do Uruk. Staje na drodze Gilgameszowi, który zmierza, by skorzystać z prawa pierwszej nocy. Dochodzi do zaciekłej walki na progu komnaty weselnej. Gilgamesz ostatecznie zwycięża, ale jest pod tak wielkim wrażeniem siły i nieustępliwości Enkidu, że rodzi się między nimi głęboka przyjaźń.15 Odtąd stają się nierozłącznymi towarzyszami. Gilgamesz, znudzony życiem w mieście i pragnący zdobyć wieczną sławę, postanawia wyruszyć do legendarnego Lasu Cedrowego, by zmierzyć się z jego przerażającym strażnikiem, Humbabą, i ściąć święte drzewa.22 Mimo poważnych ostrzeżeń ze strony starszyzny Uruk i początkowych lęków samego Enkidu, bohaterowie zlecają wykonanie potężnej broni. Matka Gilgamesza, bogini Ninsun, udziela im błogosławieństwa i symbolicznie adoptuje Enkidu. Po długiej i męczącej, sześciodniowej podróży docierają do skraju lasu. W trakcie wyprawy Gilgamesz ma serię proroczych, przerażających snów, które Enkidu interpretuje jako pomyślne znaki. Ostatecznie, z bezpośrednią pomocą boga słońca, Szamasza, udaje im się pokonać i zabić Humbabę, co wywołuje gniew boga Enlila, który ustanowił Humbabę strażnikiem.
 
-
 3.2. Wizualizacje Postaci i Scen
-
 
 Walka Gilgamesza i Enkidu:
 * Choreografia: Starcie to musi być przedstawione jako brutalna, pierwotna walka zapaśnicza, a nie elegancki pojedynek. To zderzenie dwóch tytanów. Gilgamesz, polegający na wyszkolonej technice i ogromnej sile, jest zaskoczony surową, nieprzewidywalną, zwierzęcą mocą Enkidu. W trakcie walki niszczą kamienne framugi drzwi, a ich uderzenia o ziemię powodują drżenie murów. Walka kończy się nie czystym nokautem, ale wspólnym, ostatecznym wysiłkiem, po którym obaj padają wyczerpani, patrząc na siebie z nowo odkrytym szacunkiem. To w tym momencie rodzi się ich braterstwo.
@@ -122,20 +96,13 @@ Walka z Humbabą:
 Humbaba nie powinien być przedstawiany jako jednoznacznie zły potwór. Jest on strażnikiem wyznaczonym przez boga Enlila do ochrony świętego miejsca.1 Jego rola jest czysto obronna. Gilgamesz i Enkidu, jako przedstawiciele cywilizacji, wkraczają do lasu z zamiarem eksploatacji jego zasobów ("ściąć cedry") i zdobycia osobistej sławy. Ich czyn jest motywowany pychą. W tym kontekście, walka z Humbabą nie jest prostym starciem dobra ze złem, ale tragicznym konfliktem między ekspansywną cywilizacją a dziką, pierwotną naturą. Humbaba jest ucieleśnieniem tej natury – potężnym, przerażającym, ale ostatecznie bezbronnym wobec ludzkiej technologii (broń z brązu) i podstępu. Jego śmierć jest więc nie tylko zwycięstwem, ale i transgresją, swego rodzaju zbrodnią ekologiczną, za którą bohaterowie – a konkretnie Enkidu – zapłacą najwyższą cenę. Adaptacja powinna więc ukazać ten moment w sposób niejednoznaczny, budząc w widzu nie tylko podziw dla heroizmu, ale także poczucie niepokoju i smutku, zapowiadające przyszłą tragedię.
 ________________
 
-
 Część 4: Tablica VI – Gniew Bogini
-
-
-
 
 4.1. Streszczenie Fabuły
 
-
 Po triumfalnym powrocie do Uruk, Gilgamesz dokonuje rytualnego oczyszczenia. Umyty, ubrany we wspaniałe królewskie szaty i koronę, jego nadludzkie piękno przyciąga uwagę samej bogini Isztar, patronki miasta. Zstępuje ona do niego i proponuje mu małżeństwo, obiecując w zamian niewyobrażalne bogactwa, boskie rydwany i władzę nad innymi królami. Gilgamesz jednak brutalnie i publicznie odrzuca jej zaloty, wyliczając w długiej tyradzie tragiczny los jej wszystkich poprzednich kochanków, których porzucała lub zamieniała w zwierzęta.15 Upokorzona i wściekła Isztar udaje się do niebios, do swojego ojca, najwyższego boga Anu. Grożąc, że uwolni umarłych z zaświatów, by pożerali żywych, wymusza na nim, by dał jej Byka Niebiańskiego – kosmiczną bestię zniszczenia. Anu niechętnie się zgadza, ostrzegając przed siedmioma latami głodu, które sprowadzi byk. Isztar zsyła Byka na ziemię, gdzie ten sieje spustoszenie w Uruk. Jednak Gilgamesz i Enkidu, działając razem, stawiają czoła bestii i zabijają ją. W geście ostatecznej pogardy, Enkidu odrywa udo byka i rzuca nim w twarz lamentującej na murach Isztar, co ostatecznie pieczętuje jego los.27
 
-
 4.2. Wizualizacje Postaci i Scen
-
 
 Powrót Triumfatorów:
 * Scena powrotu Gilgamesza i Enkidu do Uruk musi być pełna przepychu. Tłumy wylegają na ulice, by witać bohaterów, którzy pokonali legendarnego Humbabę. Gilgamesz jest w apogeum swojej chwały i piękna. Po rytualnej kąpieli jego ciało lśni, jest ubrany w najwspanialsze, wielowarstwowe szaty, a na jego głowie spoczywa królewska korona.1 To moment jego największego triumfu i pychy.
@@ -152,20 +119,13 @@ Zniewaga Isztar:
 Cały ten epizod jest napędzany przez zranioną dumę i odrzuconą seksualność potężnej postaci kobiecej.24 Konflikt między Gilgameszem a Isztar to nie tylko spór człowieka z bogiem, ale także fundamentalne starcie męskiej pychy z urażoną boską kobiecością. Jest w tym głęboka ironia: Gilgamesz, który sam brutalnie wykorzystywał kobiety w Uruk, teraz staje się obiektem niechcianego pożądania i odrzuca je w najbardziej obraźliwy sposób. Co więcej, Enkidu, który został "ucywilizowany" i wprowadzony w świat ludzi przez kobietę, Szamchat, teraz przypieczętowuje swój los, śmiertelnie obrażając najpotężniejszą z bogiń. Jego podróż od natury do cywilizacji kończy się aktem, który jest ostatecznym zerwaniem z szacunkiem dla żeńskich sił kosmicznych – zarówno tych twórczych, jak i niszczycielskich. Zabicie Byka Niebiańskiego, symbolu męskiej siły i płodności, jest ostatecznym triumfem męskiego partnerstwa Gilgamesza i Enkidu, ale jest to triumf pyrrhicki, który bezpośrednio prowokuje kobiecą zemstę, prowadzącą do zniszczenia tego partnerstwa.
 ________________
 
-
 Część 5: Tablice VII-VIII – Wyrok i Rozpacz
-
-
-
 
 5.1. Streszczenie Fabuły
 
-
 Po zabiciu Humbaby i Byka Niebiańskiego, bogowie – Anu, Enlil, Ea i Szamasz – odbywają naradę w niebiosach. Rozgniewany Enlil domaga się kary za świętokradcze czyny. Bogowie decydują, że jeden z bohaterów musi umrzeć. Mimo wstawiennictwa Szamasza, wyrok pada na Enkidu, jako tego, który zadał ostateczny cios Humbabie i rzucił udem byka w Isztar.15 Enkidu zapada na tajemniczą, wyniszczającą chorobę. W gorączkowych majakach ma przerażającą wizję zaświatów, mrocznej "krainy bez powrotu". W rozpaczy przeklina myśliwego, który go odkrył, i Szamchat, która wprowadziła go do świata ludzi, obwiniając ich za swój los. Jednak bóg Szamasz przemawia do niego z nieba, przypominając mu o przyjaźni z Gilgameszem i pociechach cywilizacji, co skłania Enkidu do odwołania klątwy rzuconej na Szamchat. Po dwunastu dniach straszliwych cierpień Enkidu umiera. Gilgamesz jest całkowicie zdruzgotany. Opłakuje przyjaciela przez siedem dni i siedem nocy, odmawiając zgody na jego pochówek, w irracjonalnej nadziei, że jego lamenty go ożywią. Dopiero gdy widzi, że z nosa zmarłego "wypada robak", staje w obliczu nieodwracalnej, fizycznej rzeczywistości rozkładu. Przerażony perspektywą własnej śmierci, urządza Enkidu wspaniały, królewski pogrzeb, po czym porzuca swoje dotychczasowe życie, przywdziewa skóry zwierząt i wyrusza na pustynię.22
 
-
 5.2. Wizualizacje Postaci i Scen
-
 
 Narada Bogów:
 * Scena: Narada powinna być przedstawiona jako surrealistyczna, kosmiczna scena, odbywająca się w miejscu poza czasem i przestrzenią. Bogowie, ukazani jako ogromne, częściowo abstrakcyjne, świetliste postacie, siedzą na tronach pośród gwiazd. Ich głosy nie są ludzkie, grzmią jak grom, a ich dyskusja jest chłodna i rzeczowa. Decyzja o śmierci Enkidu zapada w sposób nieodwołalny, jak wyrok sądu, co podkreśla bezradność śmiertelników wobec boskich postanowień.
@@ -181,20 +141,13 @@ etemmu), są odziani "jak ptaki, w szaty z piór", co można zinterpretować jak
 Dla Gilgamesza, istoty w dwóch trzecich boskiej, która uważała się za niezwyciężoną, śmierć była dotąd pojęciem abstrakcyjnym. Choroba i śmierć Enkidu, jego lustrzanego odbicia, jego równego siłą, uświadamia mu w brutalny sposób, że ciało – nawet ciało herosa – jest kruche i podatne na zniszczenie. Scena z "robakiem" jest tu absolutnie kluczowa. To nie jest epatowanie makabrą, ale moment objawienia. Gilgamesz widzi nie tylko, że jego przyjaciel umarł, ale że jego fizyczna forma jest aktywnie niszczona, konsumowana przez inne formy życia. To właśnie ten namacalny dowód śmiertelności, a nie sama strata przyjaciela, wywołuje w nim egzystencjalny terror i popycha go w desperacką podróż. Jego późniejsza wędrówka nie jest już poszukiwaniem sławy, ale ucieczką przed własnym ciałem i jego nieuchronnym losem. Zaniedbany wygląd, który przybiera – skóry zwierzęce, brud, długa broda – jest zewnętrznym odbiciem jego wewnętrznego lęku przed rozkładem i nicością.
 ________________
 
-
 Część 6: Tablice IX-XI – Podróż na Kraniec Świata
-
-
-
 
 6.1. Streszczenie Fabuły
 
-
 Napędzany strachem przed śmiercią, Gilgamesz wyrusza w samotną, desperacką podróż na kraniec świata, by odnaleźć Utnapisztima. Utnapisztim i jego żona jako jedyni ludzie przeżyli wielki potop i w nagrodę otrzymali od bogów dar nieśmiertelności. Gilgamesz wierzy, że zdradzą mu oni sekret wiecznego życia.22 Jego epicka wędrówka prowadzi go do mitycznych gór Maszu, których bliźniacze szczyty wyznaczają wschód i zachód słońca. Wejścia do tunelu wiodącego przez góry strzegą przerażający ludzie-skorpiony. Gilgameszowi udaje się przekonać ich, by go przepuścili. Przechodzi przez dwanaście podwójnych godzin (lig) absolutnej, nieprzeniknionej ciemności, by po drugiej stronie wyłonić się w cudownym, nadprzyrodzonym Ogrodzie Bogów. Spotyka tam tajemniczą karczmarkę Siduri, która mieszka nad brzegiem kosmicznego oceanu. Radzi mu ona, by porzucił swoje daremne poszukiwania, wrócił do domu i cieszył się prostymi przyjemnościami śmiertelnego życia. Gilgamesz jednak nie daje się przekonać. Siduri kieruje go do przewoźnika, Ur-szanabiego, który jako jedyny potrafi przeprawić go przez Wody Śmierci. Po dotarciu na wyspę, Gilgamesz spotyka Utnapisztima, który, by pokazać mu daremność jego dążeń, opowiada mu szczegółową historię wielkiego potopu zesłanego przez bogów. Następnie poddaje Gilgamesza próbie: jeśli chce pokonać śmierć, musi najpierw pokonać sen i nie spać przez sześć dni i siedem nocy. Gilgamesz natychmiast zasypia. Gdy ma już odchodzić z niczym, żona Utnapisztima lituje się nad nim i zdradza mu sekret rośliny rosnącej na dnie oceanu, która ma właściwość przywracania młodości. Gilgamesz, przywiązując kamienie do stóp, nurkuje i zdobywa roślinę. W drodze powrotnej, zatrzymuje się przy źródle, by zażyć kąpieli. Zostawia cenną roślinę na brzegu, a wtedy wąż, zwabiony jej zapachem, połyka ją i natychmiast zrzuca skórę, odradzając się. Gilgamesz, straciwszy ostatnią nadzieję, siada i płacze. Ostatecznie, zrezygnowany, wraca do Uruk.15
 
-
 6.2. Wizualizacje Postaci i Scen
-
 
 Ludzie-Skorpiony:
    * Wygląd: Te istoty są monumentalnymi hybrydami człowieka i skorpiona. Od pasa w górę mają muskularne ludzkie torsy, ramiona i głowy, a od pasa w dół – gigantyczne, lśniące, chitynowe ciała skorpionów, zakończone potężnym, łukowato wygiętym ogonem z jadowitym żądłem. Ich "terror jest przerażający, a ich spojrzenie to śmierć", co jest typowym opisem potworów w eposie. Ich skala jest przytłaczająca; górują nad Gilgameszem jak wieże.
@@ -216,21 +169,14 @@ Roślina Młodości i Wąż:
 Utnapisztim, jedyny nieśmiertelny człowiek, nie jest potężnym herosem, lecz starym człowiekiem żyjącym w wiecznej izolacji.22 Jego życie nie jest dynamiczne; on po prostu trwa. Jego nieśmiertelność to dar, ale i przekleństwo – wieczna monotonia, oddzielenie od cyklu życia i śmierci, który definiuje ludzkie doświadczenie. Próba niespania jest tego symbolicznym testem. Sen to "mała śmierć", codzienny cykl odnowy. Gilgamesz, nie mogąc oprzeć się nawet snu, udowadnia, że jest fundamentalnie śmiertelnikiem, nierozerwalnie związanym z naturalnymi cyklami. Epos sugeruje, że prawdziwe życie leży w doświadczaniu – w przyjaźni, bólu, radości i walce – a nie w wiecznym, niezmiennym istnieniu. Dlatego wyspa Utnapisztima powinna być przedstawiona jako miejsce piękne, ale statyczne i nienaturalnie ciche. Nic się tam nie zmienia, nie ma pór roku. Kontrastuje to z dynamicznym, pełnym zagrożeń, ale i pełnym życia światem, który Gilgamesz przemierzył. Widz, podobnie jak Gilgamesz, powinien dojść do wniosku, że nieśmiertelność, której tak desperacko szukał, wcale nie jest pożądana.
 ________________
 
-
 Część 7: Tablica XII i Zakończenie – Dziedzictwo Króla
 
-
-
-
 7.1. Streszczenie Fabuły
-
 
 Po utracie rośliny przywracającej młodość, Gilgamesz, ostatecznie pogodzony ze swoim losem, wraca do Uruk w towarzystwie przewoźnika Ur-szanabiego. Stojąc na wzgórzu przed miastem, z dumą pokazuje towarzyszowi wspaniałe mury, które zbudował. Wskazuje na ich solidną konstrukcję z wypalanej cegły i zachęca go, by docenił to monumentalne dzieło. W tym momencie Gilgamesz w pełni akceptuje swoją śmiertelność, znajdując pocieszenie i formę nieśmiertelności w trwałym dziele swoich rąk, które przetrwa jego samego i będzie służyć przyszłym pokoleniom.15 Epos w wersji standardowej kończy się pochwałą murów Uruk. Tablica XII, uważana za późniejszy dodatek, stanowi rodzaj epilogu. Opisuje, jak Gilgamesz traci dwa tajemnicze przedmioty,
 pukku i mikku (prawdopodobnie bęben i pałeczkę), które wpadają do zaświatów. Enkidu zgłasza się na ochotnika, by je odzyskać, ale ignoruje magiczne przestrogi, łamie tabu świata podziemnego i zostaje w nim uwięziony. Zrozpaczony Gilgamesz błaga bogów, by pozwolili mu raz jeszcze porozmawiać z przyjacielem. Bóg Ea sprawia, że duch Enkidu pojawia się przed Gilgameszem. W rozmowie duch opisuje ponurą i beznadziejną egzystencję w zaświatach, potwierdzając i rozwijając koszmarne wizje, które Enkidu miał przed śmiercią w Tablicy VII.15
 
-
 7.2. Wizualizacje Postaci i Scen
-
 
 Powrót do Uruk:
    * Transformacja Gilgamesza: Gilgamesz, który wraca do Uruk, jest zupełnie innym człowiekiem niż ten, który je opuścił. Jest fizycznie zmęczony i starszy, jego twarz jest naznaczona trudami podróży, a we włosach i brodzie mogły pojawić się siwe pasma.37 Jednak w jego oczach nie ma już panicznego strachu ani desperacji. Jest spokój, mądrość i akceptacja. Jego postawa jest wyprostowana, ale pozbawiona dawnej arogancji.

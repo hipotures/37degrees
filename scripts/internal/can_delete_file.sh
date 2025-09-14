@@ -17,8 +17,8 @@ if [[ ! -f "$file_path" ]]; then
     exit 1
 fi
 
-# Security: Only allow files in books/*/audio/ directories
-if [[ ! "$file_path" =~ ^books/[^/]+/audio/.+ ]]; then
+# Security: Only allow files in books/*/audio/ directories (handle both relative and absolute paths)
+if [[ ! "$file_path" =~ books/[^/]+/audio/.+ ]]; then
     echo "CANNOT_DELETE_FROM_NOTEBOOK:File path not in allowed books/*/audio/ directory"
     exit 1
 fi

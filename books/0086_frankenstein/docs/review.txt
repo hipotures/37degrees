@@ -1,95 +1,61 @@
-﻿Frankenstein; or, The Modern Prometheus: Kompleksowa Analiza i Przewodnik Wizualny
-
-
-
+Frankenstein; or, The Modern Prometheus: Kompleksowa Analiza i Przewodnik Wizualny
 
 CZĘŚĆ I: WPROWADZENIE
 
-
-
-
 1. Informacje bibliograficzne
 
-
-
-
 Pełny tytuł i podtytuł
-
 
 Pełny, oryginalny tytuł dzieła brzmi Frankenstein; or, The Modern Prometheus.1 Tytuł ten jest kluczowy dla zrozumienia fundamentalnych założeń powieści. Imię "Frankenstein" w kulturze popularnej stało się synonimem potwora, jednak w tekście Shelley odnosi się ono wyłącznie do jego twórcy, młodego naukowca Wiktora Frankensteina. Ten powszechny błąd interpretacyjny sam w sobie stanowi świadectwo siły oddziaływania dzieła, w którym postać stworzenia przyćmiła swojego stwórcę.
 Podtytuł, Nowoczesny Prometeusz, jest równie istotny. Stanowi on bezpośrednie odwołanie do mitu greckiego o tytanie Prometeuszu, który wykradł bogom ogień i podarował go ludzkości, za co został srodze ukarany przez Zeusa. Wiktor Frankenstein, podobnie jak Prometeusz, przekracza granice nałożone na śmiertelników – w jego przypadku nie chodzi o ogień, lecz o "iskrę życia", sekret tworzenia. Jego akt jest wyrazem buntu przeciwko naturalnemu porządkowi i boskiemu autorytetowi, co nieuchronnie prowadzi do katastrofy i cierpienia, zarówno dla niego, jak i dla jego otoczenia. Podtytuł od samego początku ramuje opowieść jako tragiczną parabolę o konsekwencjach niepohamowanej ambicji i "niebezpiecznej wiedzy".3
 
-
 Autor (Mary Wollstonecraft Shelley)
-
 
 Mary Wollstonecraft Shelley (z domu Godwin) urodziła się 30 sierpnia 1797 roku w Londynie.5 Jej biografia jest nierozerwalnie spleciona z tematyką i genezą
 Frankensteina. Była córką dwojga czołowych radykalnych myślicieli swojej epoki: filozofa politycznego Williama Godwina oraz pionierki feminizmu Mary Wollstonecraft, autorki przełomowego dzieła A Vindication of the Rights of Woman.6 To intelektualne dziedzictwo zapewniło jej edukację i światopogląd niedostępny większości kobiet tamtych czasów, nasycając jej twórczość głębokimi pytaniami o sprawiedliwość społeczną, naturę ludzką i odpowiedzialność.
 Życie Shelley naznaczone było jednak osobistą tragedią, która rzuca mroczny cień na jej najsłynniejszą powieść. Jej matka zmarła na gorączkę poporodową zaledwie jedenaście dni po jej narodzinach, co na zawsze połączyło w umyśle Mary akty narodzin i śmierci.5 Ten uraz został pogłębiony przez jej własne doświadczenia macierzyńskie. W 1815 roku, rok przed napisaniem
 Frankensteina, straciła swoje pierwsze, przedwcześnie urodzone dziecko.7 Później straciła jeszcze dwoje dzieci. Krytycy feministyczni, tacy jak Ellen Moers, sugerują, że powieść jest "mitem narodzin", który odzwierciedla "odrazę do nowo narodzonego życia oraz dramat winy, lęku i ucieczki otaczający narodziny i ich konsekwencje".9 W wieku 16 lat Mary uciekła z żonatym poetą Percym Bysshe Shelleyem, co spowodowało jej wykluczenie z towarzystwa i zerwanie relacji z ojcem.6 To doświadczenie alienacji dało jej osobistą perspektywę na społeczne odrzucenie, którego doświadcza Stworzenie.
 
-
 Data pierwszego wydania
-
 
 Powieść została po raz pierwszy opublikowana anonimowo 1 stycznia 1818 roku w Londynie przez wydawnictwo Lackington, Hughes, Harding, Mavor, & Jones.11 Anonimowość podsycana była spekulacjami, że autorem mógł być Percy Bysshe Shelley, który napisał przedmowę. Dopiero drugie wydanie z 1823 roku nosiło na okładce imię Mary Shelley. Najczęściej czytana i wznawiana wersja to znacznie zmieniona trzecia edycja z 1831 roku.13 Niniejsze opracowanie opiera się głównie na tekście z 1818 roku, uważanym przez wielu badaczy za wersję bardziej radykalną i bliższą pierwotnej wizji autorki.14
 
-
 Gatunek literacki i przynależność do nurtu literackiego
-
 
 Frankenstein jest dziełem hybrydowym, które wymyka się prostej kategoryzacji. Należy do powieści gotyckiej, co widoczne jest w elementach takich jak atmosfera grozy i tajemnicy, odosobnione i niszczejące scenerie (laboratorium Wiktora, odludna chata na Orkadach), motywy nadprzyrodzone (choć tu zastąpione przez naukę) oraz intensywne, często skrajne stany emocjonalne bohaterów.16
 Jednocześnie powieść jest powszechnie uznawana za jedno z pierwszych, jeśli nie pierwsze, dzieło science-fiction.1 W odróżnieniu od wcześniejszych opowieści o tworzeniu sztucznego życia za pomocą magii czy alchemii, Wiktor Frankenstein powołuje swoją istotę do życia poprzez eksperyment naukowy, co stanowi fundamentalną cechę tego gatunku.
 Dzieło jest głęboko osadzone w nurcie Romantyzmu. Wyraża kluczowe dla epoki idee: fascynację potęgą i wzniosłością natury (sublime), kult indywidualizmu i geniuszu (uosabianego przez Wiktora), a także nacisk na subiektywne przeżycia i skrajne emocje.18 Powieść jednocześnie stanowi krytykę skrajnego romantycznego indywidualizmu, pokazując, że niepohamowana ambicja, oderwana od społecznej odpowiedzialności, prowadzi do zniszczenia.20
 
-
 Okładka
-
 
 Pierwsze wydanie z 1818 roku miało prostą, typograficzną okładkę, typową dla tamtej epoki, bez żadnych ilustracji. Jednak ewolucja okładek Frankensteina na przestrzeni dwóch stuleci jest sama w sobie zjawiskiem kulturowym. Wiele współczesnych wydań, a także materiałów promocyjnych związanych z adaptacjami, wykorzystuje ikoniczny wizerunek potwora stworzony przez Borisa Karloffa w filmie z 1931 roku – z płaską głową, elektrodami w szyi i zielonkawą skórą.21 Ten wizerunek, choć głęboko zakorzeniony w kulturze masowej, jest całkowicie niezgodny z opisem zawartym w powieści Shelley.22 Ta rozbieżność wizualna podkreśla przepaść między literackim oryginałem a jego popularną interpretacją, co jest kluczowe dla każdej nowej adaptacji dążącej do wierności tekstowi.
 
-
 2. Kontekst powstania
 
-
-
-
 Okoliczności napisania książki
-
 
 Geneza Frankensteina jest niemal tak legendarna jak sama powieść. Pomysł narodził się latem 1816 roku, które przeszło do historii jako "rok bez lata" z powodu globalnego ochłodzenia klimatu wywołanego erupcją wulkanu Tambora. Mary Godwin (mająca wówczas 18 lat), Percy Bysshe Shelley, poeta Lord Byron oraz jego osobisty lekarz, John Polidori, spędzali czas w Villa Diodati nad Jeziorem Genewskim.5 Nieustanne deszcze i burze zmuszały ich do pozostawania w domu, gdzie dla rozrywki czytali niemieckie opowieści o duchach z antologii
 Fantasmagoriana.23 Pewnej nocy Byron rzucił wyzwanie: "Każdy z nas napisze opowieść o duchach".7
 Początkowo Mary miała trudności ze znalezieniem pomysłu. Jednak inspiracja przyszła w formie "koszmaru na jawie" (waking dream), który nawiedził ją po wysłuchaniu rozmowy Percy'ego Shelleya i Byrona na temat najnowszych odkryć naukowych, w tym eksperymentów Luigiego Galvaniego z "elektrycznością zwierzęcą" i spekulacji na temat możliwości ożywienia martwej materii.23
 
-
 Inspiracje autora
-
 
 Wizja, która stała się zalążkiem powieści, była niezwykle plastyczna i stanowi kluczowy materiał źródłowy dla każdej adaptacji. Jak wspominała Shelley w przedmowie do wydania z 1831 roku: "Ujrzałam – z zamkniętymi oczyma, lecz z ostrą wizją umysłu – bladego studenta bezbożnych sztuk, klęczącego przy rzeczy, którą złożył w całość. Ujrzałam ohydne widmo człowieka rozciągnięte na stole, a potem, pod wpływem działania jakiejś potężnej machiny, dające znaki życia i poruszające się niespokojnym, na poły żywym ruchem".23 Ta scena, pełna mroku, cieni i niepokojącego, mechanicznego ruchu, jest twórczym jądrem całej opowieści.
 Narodziny Frankensteina nie były jedynie wynikiem literackiej zabawy. Były one głęboko zakorzenione w osobistych doświadczeniach i traumach autorki. Akt stworzenia w powieści jest przedstawiony jako czyn groteskowy, samotny i przerażający – psychologiczne przeciwieństwo wyidealizowanej wizji macierzyństwa, której Shelley została pozbawiona i z którą sama się zmagała. Śmierć jej matki w wyniku porodu stworzyła w jej psychice nierozerwalny związek między narodzinami a śmiercią, tworzeniem a zniszczeniem. Kiedy Wiktor Frankenstein, mężczyzna, w akcie samotnej, naukowej pychy uzurpuje sobie kobiecą moc prokreacji, jego reakcją na "noworodka" nie jest miłość, lecz "bezgraniczny horror i wstręt".26 W ten sposób centralny akt twórczy powieści staje się potężną metaforą lęków okołoporodowych, depresji poporodowej i grozy narodzin, które prowadzą do śmierci – co jest bezpośrednim echem jej własnej historii życiowej.
 
-
 Recepcja krytyczna i czytelnicza
-
 
 Początkowe recenzje Frankensteina były podzielone. Niektóre chwaliły oryginalność i siłę wyobraźni, inne krytykowały dzieło jako odrażające i bezbożne. Kiedy ujawniono, że autorką jest młoda kobieta, część krytyki stała się bardziej surowa, wyrażając szok, że "kobieta mogła napisać coś tak ohydnego".10 Sam Percy Shelley napisał w dużej mierze pozytywną recenzję, w której skupił się na sympatycznym i tragicznym wymiarze postaci Stworzenia, argumentując, że jego zło jest wynikiem społecznego odrzucenia.3
 Mimo mieszanych opinii krytyków, powieść odniosła natychmiastowy sukces czytelniczy i szybko doczekała się adaptacji teatralnych, które jeszcze bardziej spopularyzowały jej historię.10 Na przestrzeni dwóch stuleci
 Frankenstein stał się jednym z najbardziej wpływowych dzieł w literaturze światowej, nieustannie analizowanym, interpretowanym i adaptowanym, co świadczy o ponadczasowej sile jego mitu i uniwersalności poruszanych w nim problemów.
 
-
 CZĘŚĆ II: TŁO I KONTEKST
-
-
-
 
 1. Miejsce akcji
 
-
 Miejsca akcji w Frankensteinie nie są jedynie pasywnym tłem dla wydarzeń; stanowią one kluczowy element narracji, odzwierciedlając stany psychiczne bohaterów i wzmacniając tematykę powieści. Podróż Wiktora od idyllicznej Genewy, przez mroczny Ingolstadt, wzniosłe Alpy, aż po pustkowia Arktyki, jest symboliczną mapą jego moralnego i psychologicznego upadku.
 
-
 Mapowanie ważnych lokacji w książce
-
 
 Główne lokacje, w których rozgrywa się akcja, to:
 1. Sankt Petersburg i Archangielsk, Rosja: Punkt wyjścia ekspedycji Roberta Waltona.
@@ -100,70 +66,50 @@ Główne lokacje, w których rozgrywa się akcja, to:
 6. Irlandia: Miejsce aresztowania Wiktora po śmierci Clervala.
 7. Krąg Polarny (Morze Arktyczne): Ostateczne, jałowe pole bitwy między stwórcą a stworzeniem.
 
-
 OPIS WIZUALNY MIEJSC
 
-
-
-
 Genewa i okolice (Szwajcaria)
-
 
 * Architektura: Genewa z końca XVIII wieku to miasto o ugruntowanej pozycji, z elegancką architekturą mieszczańską, w której dominują style późnego baroku i neoklasycyzmu. Budynki są solidne, kamienne, często pięcio- lub sześciopiętrowe w obrębie starych fortyfikacji miejskich.28 Dom Frankensteinów, Belrive, położony jest nad brzegiem jeziora, co sugeruje willę z ogrodem, otoczoną pięknem natury. Wnętrza są komfortowe, urządzone z gustem, ale bez ostentacji – polerowane drewniane meble, portrety przodków, biblioteka.
 * Kolory dominujące: Paleta barw jest ciepła i naturalna. Dominują błękity jeziora i nieba, zielenie okolicznych wzgórz i lasów oraz ciepłe odcienie drewna i kamienia w architekturze. To kolory spokoju, harmonii i domowego ogniska.
 * Oświetlenie: Światło jest tu kluczowe. W początkowych rozdziałach Genewa skąpana jest w łagodnym, naturalnym świetle, które podkreśla jej idylliczny charakter. Po powrocie Wiktora, te same miejsca spowija mrok, a nocne burze z piorunami stają się tłem dla tragicznych wydarzeń.31
 * Atmosfera: Początkowo jest to oaza bezpieczeństwa, miłości i intelektualnego rozwoju. Dźwięki to śmiech dzieci, spokojne rozmowy, szum jeziora. Po serii morderstw atmosfera staje się duszna i klaustrofobiczna. Piękno krajobrazu staje się okrutnym kontrastem dla wewnętrznej udręki Wiktora, który postrzega je jako "kpinę z jego nieszczęścia".32
 
-
 Ingolstadt (Bawaria, Niemcy)
-
 
 * Architektura: Stare miasto uniwersyteckie z dominującą architekturą gotycką i barokową.33 Wąskie, brukowane uliczki, masywne kamienice i wieże kościołów tworzą wrażenie ciężkości i starożytności. Laboratorium Wiktora to "samotna izba, a raczej cela, na poddaszu domu, oddzielona od wszystkich innych mieszkań galerią i schodami".35 Jest to przestrzeń ciasna, zaniedbana, przypominająca alchemiczną pracownię.
 * Kolory dominujące: Paleta jest mroczna i monochromatyczna. Dominują szarości kamienia, ciemne brązy drewna, czerń nocy. Jedyne źródła koloru to chemiczne odczynniki i krew na stole sekcyjnym.
 * Oświetlenie: Przestrzeń jest niemal pozbawiona naturalnego światła. Dominuje sztuczne, migotliwe oświetlenie – "blask na wpół zgaszonej świecy" 2 – które rzuca długie, ruchome cienie, deformując kształty i potęgując atmosferę grozy.
 * Atmosfera: To miejsce obsesji, tajemnicy i transgresji. Powietrze jest stęchłe, przesycone zapachem chemikaliów, rozkładu i śmierci.36 Panuje niemal absolutna cisza, przerywana jedynie przez dźwięki eksperymentów Wiktora i deszcz bębniący o szyby w noc stworzenia.
 
-
 Alpy (Mont Blanc, Mer de Glace)
-
 
 * Krajobraz: To świat w skali nadludzkiej, ucieleśnienie romantycznej idei wzniosłości (sublime). Krajobraz jest surowy i majestatyczny: ostre, czarne szczyty gór ("aiguilles"), rozległe "morza lodu" (Mer de Glace) o lazurowym odcieniu, głębokie szczeliny i huczące wodospady. To natura w swojej najpotężniejszej i najbardziej niebezpiecznej formie, która przytłacza człowieka.37
 * Kolory dominujące: Paleta jest skrajnie kontrastowa: olśniewająca biel śniegu, głęboki błękit lodu i nieba, czerń nagich skał.
 * Oświetlenie: Światło jest intensywne i dramatyczne. Oślepiające słońce odbijające się od śniegu lub gwałtowne burze, podczas których "żywe błyskawice oślepiały oczy, oświetlając jezioro, sprawiając, że wyglądało jak ogromna płachta ognia".32
 * Atmosfera: Mieszanka zachwytu i przerażenia. Dźwięki to huk wiatru, trzask pękającego lodu, grzmot lawin. To przestrzeń poza cywilizacją, gdzie rządzą pierwotne siły. Dla Wiktora jest to jedyne miejsce, którego ogrom może przynieść chwilową ulgę w cierpieniu, ponieważ jego własna tragedia wydaje się w tej skali mniej znacząca.32
 
-
 Orkady (Szkocja)
-
 
 * Krajobraz: Pustkowie. "Jałowe wrzosowisko", skaliste, smagane wiatrem wybrzeże, uboga roślinność i nieustannie wzburzone, szare morze.37 To miejsce skrajnej izolacji.
 * Architektura: Chata Wiktora jest nędzna, składa się z dwóch izb i ledwo chroni przed żywiołami. Jest to prymitywna, kamienna konstrukcja, symbolizująca jego upadek i degradację.
 * Kolory dominujące: Szarości, brązy i wyblakłe zielenie. Kolorystyka jest monotonna i przygnębiająca.
 * Atmosfera: Całkowite spustoszenie i samotność. Jedynymi dźwiękami są wycie wiatru i huk fal rozbijających się o skały. Atmosfera odzwierciedla stan psychiczny Wiktora, który jest w tym momencie całkowicie odizolowany i bliski rozpaczy.
 
-
 Krąg Polarny
-
 
 * Krajobraz: Nieskończona, monotonna przestrzeń lodu i śniegu, opisana jako "kraina mgły i śniegu".39 Ogromne, dryfujące kry lodowe zagrażają statkowi, a krajobraz jest pozbawiony jakichkolwiek punktów orientacyjnych. To wizualna metafora nicości.24
 * Kolory dominujące: Niemal wyłącznie biel i odcienie szarości. Jedynym urozmaiceniem może być niesamowite, zielono-fioletowe światło zorzy polarnej.
 * Oświetlenie: Światło jest zimne i surowe. Nisko wiszące słońce tworzy długie, ostre cienie, podkreślając pustkę krajobrazu.40
 * Atmosfera: Koniec znanego świata. Absolutna cisza, przerywana jedynie skrzypieniem lodu i wyciem wiatru. Chłód jest wszechobecny, fizyczny i metaforyczny, "zdolny zamrozić krew w żyłach".24 To ostateczna arena konfrontacji, pozbawiona jakichkolwiek śladów życia i społeczeństwa.
 
-
 2. Czas akcji
-
-
-
 
 Konkretny okres historyczny
 
-
 Akcja powieści osadzona jest w nieokreślonym roku XVIII wieku, co sugeruje datowanie listów Waltona jako "17—".39 Analiza wewnętrznej chronologii wydarzeń, takich jak daty listów i wzmianki o upływie lat, pozwala umiejscowić główną część fabuły (historię Wiktora) w latach 80. i 90. XVIII wieku.41 Czas trwania całej akcji, od narodzin Wiktora do jego śmierci na statku Waltona, obejmuje około 28 lat.
 
-
 WIZUALNE MARKERY EPOKI
-
 
 * Stroje charakterystyczne dla okresu: Moda końca XVIII wieku to okres przejściowy od bogactwa rokoka do prostszych, inspirowanych antykiem form neoklasycyzmu, znanych jako styl empire lub regencji.43
    * Ubiór kobiecy (Elizabeth, Caroline, Justine): Kobiety z wyższych sfer nosiłyby suknie o podwyższonej talii, tuż pod biustem, wykonane z lekkich materiałów jak muślin, często w białym lub pastelowym kolorze. Dekolty były zazwyczaj głębokie i kwadratowe, a rękawy krótkie i bufiaste. Włosy układano w naturalne loki, często ozdabiane wstążkami lub prostymi czepkami. Jako okrycie wierzchnie popularne były szale i krótkie żakiety (spencery).44 Kobiety z niższych sfer, jak Justine w roli służącej, nosiłyby proste, praktyczne stroje, np. "grubą niebieską halkę i lniany kaftan".47
@@ -172,42 +118,29 @@ WIZUALNE MARKERY EPOKI
 * Technologia i przedmioty codziennego użytku: Codzienność epoki była kształtowana przez technologię preindustrialną. Oświetlenie zapewniały świece i lampy oliwne, co sprawiało, że wnętrza i ulice po zmroku tonęły w głębokim mroku. Komunikacja na odległość opierała się wyłącznie na ręcznie pisanych listach, przewożonych przez pocztę. W laboratorium Wiktora znajdowałyby się instrumenty naukowe typowe dla epoki: szklane retorty, probówki, mikroskopy, pompy powietrzne oraz urządzenia do eksperymentów z elektrycznością, takie jak butelki lejdejskie (kondensatory) i stosy galwaniczne (baterie).25
 * Wygląd ulic i przestrzeni publicznych: Ulice europejskich miast były brukowane, często wąskie i kręte w starszych częściach. Brak skutecznego oświetlenia publicznego czynił je niebezpiecznymi po zmroku. Miasta takie jak Genewa wciąż były otoczone murami obronnymi, co wpływało na gęstą zabudowę w ich obrębie.30
 
-
 Retrospekcje i projekcje czasowe
-
 
 Powieść ma złożoną strukturę czasową. Główna narracja (listy Waltona) dzieje się w "teraźniejszości" fabularnej. W jej ramach Wiktor opowiada swoją historię w formie długiej retrospekcji, która stanowi trzon powieści. Z kolei wewnątrz opowieści Wiktora znajduje się kolejna retrospekcja – historia Stworzenia opowiedziana Wiktorowi na lodowcu. Ta szkatułkowa kompozycja pozwala na manipulowanie czasem i perspektywą, budując napięcie i zmuszając czytelnika do ciągłej reinterpretacji wydarzeń.
 
-
 3. Kontekst historyczny
-
 
 Akcja powieści rozgrywa się w burzliwym okresie Oświecenia i rewolucji, co ma fundamentalne znaczenie dla jej wymowy. Duch epoki, z jej wiarą w potęgę ludzkiego rozumu, postęp naukowy i prawo do kwestionowania starych autorytetów, jest siłą napędową ambicji Wiktora Frankensteina. Jego projekt stworzenia życia jest skrajnym przykładem oświeceniowej wiary w to, że człowiek może zgłębić i opanować wszystkie sekrety natury.
 Jednakże, powieść powstała w cieniu Rewolucji Francuskiej (1789) i jej krwawych konsekwencji, w tym okresu Terroru.18 Wielu współczesnych, w tym romantycy, postrzegało rewolucję jako szlachetny eksperyment, który wymknął się spod kontroli i przerodził w potwora. Historia Stworzenia – istoty zrodzonej z idealistycznych pobudek, która pod wpływem odrzucenia i cierpienia staje się narzędziem zniszczenia – może być odczytywana jako alegoria samej rewolucji.16 W ten sposób powieść Shelley staje się przestrogą przed rewolucyjnym zapałem, który, pozbawiony moralnej odpowiedzialności i empatii, może prowadzić do katastrofy.
 
-
 4. Kontekst społeczny
-
 
 Społeczeństwo przedstawione w Frankensteinie jest silnie zhierarchizowane i patriarchalne, co odzwierciedla realia Europy końca XVIII wieku.
 * Struktura społeczna: Rodzina Frankensteinów należy do patrycjatu Genewy – zamożnej, szanowanej klasy rządzącej.53 Ich status zapewnia im bogactwo, edukację i wpływy. Kontrastuje z nimi uboga rodzina De Lacey, która, choć wywodzi się z dobrego rodu, została zdegradowana i żyje w nędzy. Stworzenie znajduje się całkowicie poza tą strukturą – jest bezimienne, bezrodowe i bez majątku, co czyni je ostatecznym wyrzutkiem.
 * Normy i obyczaje: Społeczeństwo ceni honor, reputację i więzy rodzinne. Obowiązują surowe normy dotyczące zachowania, zwłaszcza w odniesieniu do kobiet. Oczekuje się od nich skromności, posłuszeństwa i oddania rodzinie. Małżeństwa, choć coraz częściej oparte na uczuciu, wciąż są w dużej mierze transakcją społeczną i ekonomiczną.54
 * Role płciowe i oczekiwania społeczne: Powieść doskonale ilustruje ideologię "osobnych sfer", która przypisywała mężczyznom sferę publiczną (polityka, nauka, praca), a kobietom sferę domową.55 Bohaterki kobiece – Caroline, Elizabeth, Justine – są wyidealizowanymi "aniołami domowego ogniska". Są piękne, łagodne, opiekuńcze i całkowicie pasywne.16 Ich rola sprowadza się do bycia moralnym wsparciem dla mężczyzn i ofiarami ich konfliktów. Shelley, córka czołowej feministki, subtelnie krytykuje ten model, pokazując, że ta idealizowana kobiecość czyni jej bohaterki bezbronnymi i ostatecznie prowadzi je do zguby.16
 
-
 CZĘŚĆ III: BOHATEROWIE
-
-
-
 
 1. Protagoniści
 
-
 W centrum powieści stoi dwóch protagonistów, których losy są ze sobą nierozerwalnie splecione: stwórca, Wiktor Frankenstein, i jego bezimienne Stworzenie. Ich relacja, oparta na wzajemnej nienawiści i zależności, napędza całą fabułę.
 
-
 Wiktor Frankenstein
-
 
 * OPIS FIZYCZNY:
    * Dokładny wiek: Rozpoczyna studia w Ingolstadt w wieku 17 lat.59 Tworzy Stworzenie mając około 19 lat. W momencie spotkania z Waltonem na Arktyce ma około 28 lat.61
@@ -219,9 +152,7 @@ Wiktor Frankenstein
 * Motywacje i cele: Pierwotną motywacją Wiktora jest niepohamowana ambicja i pragnienie zdobycia chwały poprzez przekroczenie granic ludzkiej wiedzy. Chce "odkryć przed światem najgłębsze tajemnice stworzenia".19 Jest to podyktowane pychą (hubris) i chęcią stania się "stwórcą i źródłem" nowego gatunku.19 Po tym, jak jego dzieło obraca się przeciwko niemu, jego jedynym celem staje się zemsta i zniszczenie potwora, którego powołał do życia.
 * Rozwój psychologiczny: Wiktor przechodzi tragiczną transformację od błyskotliwego, choć aroganckiego, młodzieńca do złamanego, owładniętego obsesją mściciela. Początkowa fascynacja nauką przeradza się w manię, która izoluje go od rodziny i społeczeństwa. Po akcie stworzenia jego psychika rozpada się pod ciężarem winy, strachu i wstrętu. Odmawia wzięcia odpowiedzialności za swoje dzieło, co prowadzi do eskalacji tragedii. Jego historia to studium moralnego i psychicznego rozkładu, spowodowanego nieodpowiedzialnym dążeniem do wiedzy.
 
-
 Stworzenie (The Creature)
-
 
 * OPIS FIZYCZNY:
    * Dokładny wiek: Jest "noworodkiem" w ciele dorosłego mężczyzny, powołanym do życia pewnej listopadowej nocy.2 Jego narracja obejmuje pierwsze dwa lata jego istnienia.
@@ -238,50 +169,35 @@ Należy kategorycznie odrzucić popularne wizerunki filmowe: Stworzenie nie ma p
    * Motywacje i cele: Na początku jego jedyną motywacją jest pragnienie bycia kochanym i akceptowanym. Tęskni za towarzystwem i więzią, której jest świadkiem w rodzinie De Lacey.64 Po brutalnym odrzuceniu przez wszystkich, których spotyka, jego motywacja zmienia się w pragnienie zemsty. Chce, aby jego stwórca, Wiktor, cierpiał taką samą samotność i rozpacz jak on. Jego ostatecznym celem staje się zniszczenie wszystkiego, co Wiktor kocha.
    * Rozwój psychologiczny: Stworzenie przechodzi najbardziej dynamiczną i tragiczną ewolucję w powieści. Rodzi się jako istota niewinna, tabula rasa, z naturalną skłonnością do dobra i empatii. Uczy się języka, miłości i moralności, obserwując rodzinę De Lacey. Jednak seria brutalnych odrzuceń, opartych wyłącznie na jego wyglądzie, zatruwa jego duszę goryczą i nienawiścią. Jego historia jest potężnym argumentem na rzecz tezy, że zło nie jest wrodzone, lecz jest produktem społecznych warunków i odrzucenia. Staje się potworem, ponieważ świat traktuje go jak potwora.
 
-
 2. Postacie drugoplanowe
 
-
-
-
 Robert Walton
-
 
    * Wygląd: Wiek 28 lat.61 Jest angielskim odkrywcą i kapitanem statku.
 BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.74 Jego postać definiuje nie wygląd, lecz charakter – jest ambitny, idealistyczny i dręczy go samotność, co czyni go lustrzanym odbiciem Wiktora.75 Jego typowy ubiór to ciężkie, futrzane odzienie podróżnika arktycznego.
    * Funkcja w fabule: Walton jest narratorem ramowym. To przez jego listy do siostry poznajemy całą historię. Jego postać służy jako odbiorca i świadek opowieści Wiktora, nadając jej wiarygodności. Co najważniejsze, Walton staje przed podobnym dylematem co Wiktor – pogoń za chwałą kosztem bezpieczeństwa załogi. Ostatecznie, ucząc się na błędach Wiktora, podejmuje odpowiedzialną decyzję i zawraca statek, co stanowi moralny kontrapunkt dla tragicznego losu Frankensteina.
 
-
 Elizabeth Lavenza
-
 
       * Wygląd: W przybliżeniu w tym samym wieku co Wiktor. Jest ucieleśnieniem idealnego, anielskiego piękna. Opisywana jako "istota, która zdawała się promieniować blaskiem".15 W jednej wersji ma "włosy z najjaśniejszego żywego złota... i bezchmurne błękitne oczy".65 W innej (w wydaniu z 1818 r.) ma "orzechowe oczy" i "lekką i zwiewną" figurę.47 Jest "chuda i bardzo jasnej karnacji".77 Jej ubiór to modne, eleganckie suknie epoki, prawdopodobnie w jasnych, pastelowych barwach, które podkreślają jej czystość i niewinność.45
       * Funkcja w fabule: Elizabeth reprezentuje świat domowego szczęścia, miłości i niewinności, który Wiktor porzuca dla swojej mrocznej ambicji. Jest symbolem utraconego raju i moralnym kompasem dla Wiktora. Jej pasywność i ostateczna śmierć z rąk Stworzenia podkreślają bezbronność dobra w konfrontacji z konsekwencjami nieodpowiedzialnej pychy oraz krytykują ograniczoną rolę kobiet w społeczeństwie patriarchalnym.
 
-
 Henry Clerval
-
 
       * Wygląd: Rówieśnik Wiktora, jego najbliższy przyjaciel z dzieciństwa. BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH.13 Tekst skupia się na jego charakterze, a nie wyglądzie. Jest opisany jako istota o "szlachetnym duchu", "doskonale ludzka" i "pełna dobroci i czułości".79 Wiktor określa jego postać jako "bosko ukształtowaną i promieniującą pięknem", ale nie podaje konkretów.79 Można go sobie wyobrazić jako przystojnego młodzieńca o otwartej, pogodnej twarzy.
       * Funkcja w fabule: Henry jest folią (kontrapunktem) dla Wiktora. Uosabia romantyczny ideał harmonii z naturą, miłości do poezji i sztuki oraz ceni relacje międzyludzkie. Jego postać reprezentuje ścieżkę życia, którą Wiktor mógł wybrać – życie w równowadze, otwarte na piękno świata i przyjaźń. Jego śmierć z rąk Stworzenia jest jednym z najcięższych ciosów dla Wiktora, symbolizującym ostateczne zniszczenie jego lepszej natury.
 
-
 Alphonse Frankenstein
-
 
       * Wygląd: Ojciec Wiktora. W momencie rozpoczęcia głównej akcji jest mężczyzną w średnim wieku, a pod koniec powieści starcem. BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.13 Jest szanowanym syndykiem (urzędnikiem) genewskim. Jego postać charakteryzuje się godnością, dobrocią i troską.
       * Funkcja w fabule: Alphonse jest wzorem odpowiedzialnego ojcostwa. Jego bezwarunkowa miłość i wsparcie dla Wiktora stoją w rażącym kontraście do odrzucenia i zaniedbania, jakiego Stworzenie doświadcza od swojego "ojca". Jego śmierć z żalu po stracie Elizabeth jest ostatecznym dowodem na niszczycielską siłę działań Wiktora.
 
-
 Justine Moritz
-
 
       * Wygląd: Młoda kobieta, prawdopodobnie w wieku kilkunastu lub wczesnych dwudziestu lat. Opisywana jako "niezwykle ładna".65 Jej twarz jest "zawsze ujmująca", a w trakcie procesu sądowego jej smutek nadaje jej "wyjątkowego piękna".65 Ma wygląd "szczery i szczęśliwy".65 Jedno ze źródeł sugeruje, że ma brązowe włosy, ale tekst oryginalny tego nie precyzuje.82
       * Funkcja w fabule: Justine jest kolejną niewinną ofiarą konfliktu między Wiktorem a Stworzeniem. Jej niesłuszne oskarżenie i egzekucja za morderstwo Williama to pierwszy moment, w którym Wiktor w pełni uświadamia sobie śmiertelne konsekwencje swojego milczenia i tchórzostwa. Jej postać, podobnie jak Elizabeth, ilustruje bezsilność kobiet w systemie prawnym i społecznym zdominowanym przez mężczyzn.
 
-
 Rodzina De Lacey
-
 
       * Wygląd:
       * De Lacey (ojciec): Stary, niewidomy mężczyzna o "srebrnych włosach i życzliwym obliczu".65
@@ -290,14 +206,9 @@ Rodzina De Lacey
       * Safie: Młoda Turczynka o "lśniących, kruczoczarnych włosach, misternie splecionych", "ciemnych, lecz łagodnych oczach" i "cudownie jasnej cerze, z policzkami muśniętymi pięknym różem".65
       * Funkcja w fabule: Rodzina De Lacey reprezentuje ideał ludzkiej społeczności, o której marzy Stworzenie. To od nich uczy się języka, miłości i cnót. Scena, w której Stworzenie rozmawia ze ślepym ojcem, jest kluczowym testem moralnym powieści – pokazuje, że akceptacja jest możliwa, gdy odrzuci się uprzedzenia oparte na wyglądzie. Brutalne odrzucenie go przez resztę rodziny jest ostatecznym ciosem, który popycha go na ścieżkę zemsty.
 
-
 3. Analiza psychologiczna
 
-
-
-
 Archetypy bohaterów
-
 
 Postacie w Frankensteinie funkcjonują na poziomie archetypowym, co nadaje opowieści wymiar mityczny.
       * Wiktor Frankenstein to Nowoczesny Prometeusz, który kradnie boską tajemnicę i ponosi za to karę. Jest także Upadłym Aniołem, podobnie jak Szatan z Raju Utraconego Miltona – genialną istotą, która z pychy buntuje się przeciwko Stwórcy i sprowadza na siebie potępienie.3
@@ -305,48 +216,32 @@ Postacie w Frankensteinie funkcjonują na poziomie archetypowym, co nadaje opowi
       * Elizabeth Lavenza to archetyp Anioła Domowego Ogniska, wyidealizowany obraz kobiecej czystości, dobroci i bierności.
       * Henry Clerval funkcjonuje jako Szlachetny Przyjaciel i Moralny Kompas, reprezentujący humanistyczne wartości, które Wiktor odrzuca.
 
-
 Jak wygląd odzwierciedla osobowość
-
 
 Powieść świadomie gra z konwencją, w której zewnętrzne piękno odzwierciedla wewnętrzne dobro, a brzydota – zło. Na powierzchownym poziomie postacie zdają się potwierdzać tę regułę: piękni Elizabeth i Henry są uosobieniem cnoty, podczas gdy potwornie brzydkie Stworzenie staje się mordercą.26
 Jednak główna ironia i przesłanie powieści polega na obaleniu tego stereotypu. Wewnętrzna natura Stworzenia jest początkowo szlachetna, wrażliwa i pełna miłości. Jego fizyczna brzydota jest wrodzona, ale jego moralne zepsucie jest nabyte – jest wynikiem okrucieństwa świata. Z kolei Wiktor, o normalnym, a zapewne i przystojnym wyglądzie, skrywa w sobie potworną pychę, egoizm i moralne tchórzostwo. Jego stopniowe fizyczne wyniszczenie – bladość, chudość, obłęd w oczach – jest jedynym zewnętrznym znakiem jego wewnętrznego rozkładu. Shelley pokazuje, że prawdziwe potwórstwo nie jest widoczne na pierwszy rzut oka i często kryje się za przyjemną powierzchownością.
 
-
 CZĘŚĆ IV: FABUŁA
-
-
-
 
 1. Ekspozycja
 
-
 Powieść rozpoczyna się serią czterech listów pisanych przez Roberta Waltona, angielskiego odkrywcę, do jego siostry, Margaret Saville w Anglii. Listy te, datowane od grudnia 17— do sierpnia następnego roku, stanowią ramę narracyjną dla całej historii.24 Walton, podobnie jak Wiktor Frankenstein, jest owładnięty ambicją dokonania czegoś wielkiego – pragnie dotrzeć do Bieguna Północnego i odkryć tajemnice magnetyzmu. Jednocześnie, w izolacji arktycznego pustkowia, dręczy go głęboka samotność i pragnienie posiadania przyjaciela, który zrozumiałby jego dążenia.
 
-
 WIZUALIZACJA SCENY OTWIERAJĄCEJ
-
 
       * Miejsce i czas: Sierpień, Morze Arktyczne. Drewniany statek wielorybniczy jest uwięziony pośród ogromnych, ruchomych pól lodowych. Gęsta mgła ogranicza widoczność do kilkuset metrów, tworząc klaustrofobiczną atmosferę. Wokół panuje martwa cisza, przerywana jedynie skrzypieniem drewnianego kadłuba i trzaskiem lodu.
       * Obecne postacie i ich pozycje: Robert Walton, mężczyzna w wieku 28 lat, ubrany w ciężkie futra, stoi na pokładzie, wpatrując się w nieprzeniknioną biel. Jego twarz wyraża mieszankę determinacji, niepokoju i głębokiej samotności. W pobliżu skupiona jest grupka marynarzy, również opatulonych w futra, ich postawy i spojrzenia zdradzają strach i zniechęcenie.
       * Ważne przedmioty: Instrumenty nawigacyjne na pokładzie – kompas, sekstant. Teleskop, przez który Walton obserwuje horyzont.
       * Dynamika i ruch: Scena jest statyczna, napięta. Nagle, gdy mgła na chwilę się przerzedza, załoga dostrzega w oddali (około pół mili) niezwykły widok: sanie zaprzężone w psy, pędzące po lodzie z niewiarygodną prędkością. Powozi nimi postać o "kształcie człowieka, lecz najwyraźniej gigantycznego wzrostu".39 Zjawisko to szybko znika we mgle, pozostawiając załogę w zdumieniu. Następnego dnia, lód wokół statku pęka, a na krze dryfującej w pobliżu marynarze znajdują drugie sanie, z jednym ocalałym psem i człowiekiem na skraju wyczerpania. Jest to Wiktor Frankenstein. Jest skrajnie wychudzony, jego ubranie jest w strzępach, a w oczach maluje się szaleństwo i cierpienie. Zostaje wniesiony na pokład.
 
-
 2. Rozwinięcie akcji
-
 
 Po odzyskaniu części sił, Wiktor Frankenstein rozpoczyna swoją opowieść, która stanowi główną część powieści. Narracja cofa się do jego dzieciństwa w Genewie, które opisuje jako idylliczne i pełne miłości. Przedstawia swoją rodzinę: troskliwych rodziców, Alphonse'a i Caroline, oraz ukochaną "kuzynkę" (w wersji z 1818 r.) lub adoptowaną siostrę (w wersji z 1831 r.), Elizabeth Lavenzę, którą od dziecka traktował jako swoją przyszłą żonę.15 Opisuje również swoją głęboką przyjaźń z Henrym Clervalem, chłopcem o artystycznej i wrażliwej duszy.
 Już w młodości Wiktor zdradza fascynację tajemnicami natury, studiując dzieła dawnych alchemików, co budzi niepokój jego ojca. Przełomowym momentem jest dla niego widok potężnego dębu zniszczonego przez uderzenie pioruna, co kieruje jego zainteresowania w stronę elektryczności i nowoczesnej nauki. W wieku 17 lat wyjeżdża na studia na uniwersytet w Ingolstadt. Tuż przed wyjazdem jego matka umiera na szkarlatynę, zaraziwszy się od Elizabeth. Na łożu śmierci prosi Wiktora i Elizabeth, by się pobrali.41 Na uniwersytecie, pod wpływem wykładów profesora Waldmana, Wiktor z pasją poświęca się chemii i anatomii. Wkrótce jego ambicja przeradza się w obsesję: postanawia odkryć sekret życia i stworzyć ludzką istotę z martwej materii. Przez dwa lata, w całkowitej izolacji, pracuje nad swoim dziełem, gromadząc materiał z sal sekcyjnych i rzeźni.
 
-
 OPISY WIZUALNE KLUCZOWYCH SCEN
 
-
-
-
 Stworzenie (Rozdział 5)
-
 
       * Gdzie dokładnie się dzieje: Ciasne, poddaszowe laboratorium w Ingolstadt. Pomieszczenie jest ciemne i zagracone. Na stołach leżą narzędzia chirurgiczne (skalpele, piły), szklane naczynia chemiczne (retorty, kolby) oraz "instrumenty życia" – prawdopodobnie prymitywne urządzenia galwaniczne, przewody i baterie.25 W kątach piętrzą się książki i anatomiczne ryciny. W powietrzu unosi się zapach chemikaliów i śmierci.
       * Kto jest obecny: Wiktor, mający około 19 lat, jest cieniem samego siebie. Jego twarz jest blada i wychudzona, oczy podkrążone i błyszczące gorączkowo. Na stole leży jego dzieło: ośmiostopowa postać złożona z ludzkich szczątków, o niepokojąco proporcjonalnych kończynach, ale o groteskowych rysach.
@@ -355,9 +250,7 @@ Stworzenie (Rozdział 5)
       * Emocje widoczne na twarzach: Na twarzy Wiktora maluje się mieszanka obłędnej nadziei i skrajnego napięcia.
       * Ruch i dynamika sceny: W kulminacyjnym momencie, "przy migotliwym świetle na wpół zgaszonej świecy", Wiktor widzi, jak "żółte, mętne oko stworzenia otwiera się". Istota ciężko oddycha, a jej kończynami wstrząsa "konwulsyjny ruch". W tym momencie sen Wiktora o pięknie pryska. Widzi jedynie "demoniczne zwłoki", "nieszczęśnika", którego powołał do życia. Jego twarz wykrzywia grymas "bezgranicznego horroru i wstrętu". Z krzykiem ucieka z laboratorium, a następnie z domu, błąkając się po ulicach Ingolstadt.69
 
-
 Morderstwo Williama i jego następstwa (Rozdział 7-8)
-
 
 Po ucieczce z laboratorium Wiktor popada w ciężką chorobę nerwową, z której przez kilka miesięcy leczy go przybyły do Ingolstadt Henry Clerval. Po powrocie do zdrowia otrzymuje list od ojca z wiadomością o zamordowaniu jego młodszego brata, Williama. Wiktor natychmiast wraca do Genewy.
       * Gdzie dokładnie się dzieje: Lasy Plainpalais pod Genewą, w miejscu, gdzie znaleziono ciało Williama. Jest noc.
@@ -367,9 +260,7 @@ Po ucieczce z laboratorium Wiktor popada w ciężką chorobę nerwową, z które
       * Emocje widoczne na twarzach: Twarz Wiktora wyraża szok, przerażenie i dławiące poczucie winy.
 Po powrocie do domu Wiktor dowiaduje się, że o morderstwo oskarżono Justine Moritz, służącą rodziny, przy której znaleziono miniaturowy portret pani Frankenstein, który William nosił na szyi. Mimo że Wiktor wie o jej niewinności, boi się wyznać prawdę, obawiając się, że nikt mu nie uwierzy i zostanie uznany za szaleńca. Podczas procesu Justine, mimo poruszającej obrony Elizabeth, zostaje skazana na śmierć i stracona. Wiktor pogrąża się w rozpaczy i wyrzutach sumienia, czując się odpowiedzialnym za śmierć dwojga niewinnych istot.
 
-
 Konfrontacja na Mer de Glace (Rozdział 10)
-
 
 Szukając ucieczki od cierpienia, Wiktor udaje się w Alpy, do doliny Chamonix. Wjeżdża na szczyt Montanvert, by podziwiać majestatyczny lodowiec Mer de Glace.
       * Gdzie dokładnie się dzieje: Na lodowcu, pośród monumentalnych, ośnieżonych szczytów. Krajobraz jest surowy, wzniosły i nieludzki.
@@ -379,16 +270,12 @@ Szukając ucieczki od cierpienia, Wiktor udaje się w Alpy, do doliny Chamonix. 
       * Emocje widoczne na twarzach: Twarz Wiktora jest wykrzywiona nienawiścią i furią. Oblicze Stworzenia wyraża "gorzką udrękę, połączoną z pogardą i złośliwością".87
       * Dialog: Wbrew oczekiwaniom Wiktora, Stworzenie przemawia w sposób elokwentny i poruszający. Błaga swojego stwórcę o wysłuchanie jego historii, argumentując: "Pamiętaj, że jestem twoim stworzeniem; powinienem być twoim Adamem, lecz jestem raczej upadłym aniołem".88 Zaintrygowany i poruszony jego słowami, Wiktor zgadza się go wysłuchać.
 
-
 Opowieść Stworzenia (Rozdziały 11-16)
-
 
 W jaskini na lodowcu Stworzenie opowiada Wiktorowi historię swojego życia. Opisuje swoje pierwsze chwile – dezorientację i odkrywanie świata za pomocą zmysłów. Mówi o tym, jak ludzie reagowali na jego widok z przerażeniem i agresją, co zmusiło go do ukrycia się w szopie przylegającej do wiejskiej chaty. Przez wiele miesięcy potajemnie obserwował mieszkającą tam rodzinę De Lacey – starego, niewidomego ojca, syna Felixa i córkę Agathę. Podglądając ich, nauczył się mowy, czytania i poznał złożoność ludzkich uczuć. Znalazł w lesie torbę z książkami (Raj utracony, Żywoty Plutarcha, Cierpienia młodego Wertera), które ukształtowały jego umysł i postrzeganie świata.
 Pewnego dnia, pod nieobecność dzieci, odważył się wejść do chaty i porozmawiać z niewidomym starcem, który potraktował go z życzliwością. Jednak na widok potwora powracający Felix i reszta rodziny zareagowali przerażeniem i brutalnie go przepędzili. Ten ostateczny akt odrzucenia zrodził w nim nienawiść do ludzkości. Opuścił okolicę i wyruszył na poszukiwanie swojego stwórcy. Po drodze uratował tonącą dziewczynkę, za co został postrzelony przez jej ojca. Dotarłszy w okolice Genewy, spotkał małego Williama. Gdy chłopiec w strachu wyjawił, że jest synem Frankensteina, Stworzenie w przypływie szału udusiło go. Zabrało mu z szyi medalion z portretem i podłożyło go śpiącej w stodole Justine. Na koniec swojej opowieści Stworzenie stawia Wiktorowi żądanie: "Musisz stworzyć dla mnie towarzyszkę, istotę płci żeńskiej, lecz równie ohydną jak ja... To niewielka nagroda, ale to wszystko, co mogę otrzymać, i to mnie zadowoli".73 W zamian obiecuje na zawsze opuścić Europę i żyć z nią w odosobnieniu w Ameryce Południowej.
 
-
 Zniszczenie towarzyszki (Rozdział 20)
-
 
 Po długich wahaniach Wiktor zgadza się spełnić żądanie Stworzenia. Wyjeżdża z Henrym Clervalem do Anglii, a następnie sam udaje się na odległe i odludne Orkady, by tam w tajemnicy pracować nad drugim stworzeniem.
       * Gdzie dokładnie się dzieje: Nędzna, dwuizbowa chata na jałowej, niemal bezludnej wyspie. Wnętrze jest prymitywne, oświetlone lampą.
@@ -398,15 +285,11 @@ Po długich wahaniach Wiktor zgadza się spełnić żądanie Stworzenia. Wyjeżd
       * Emocje widoczne na twarzach: Nadzieja na twarzy Stworzenia zmienia się w wyraz "diabelskiej rozpaczy i zemsty". Wiktor jest przerażony, ale i zdeterminowany. Stworzenie wydaje z siebie "wycie rozpaczy" i znika, ale wcześniej rzuca Wiktorowi straszliwą groźbę: "Będę z tobą w noc poślubną!".
 Po tym wydarzeniu Wiktor wypływa łodzią na morze, by pozbyć się szczątków. Zaskoczony przez sztorm, dryfuje aż do wybrzeży Irlandii, gdzie zostaje aresztowany pod zarzutem morderstwa. W pobliskim porcie znaleziono bowiem ciało uduszonego mężczyzny. Ku swojemu przerażeniu, Wiktor rozpoznaje w ofierze Henry'ego Clervala. Ponownie zapada na ciężką chorobę. Po kilku miesiącach, dzięki interwencji ojca, zostaje uniewinniony i wraca do Genewy.
 
-
 3. Punkt kulminacyjny
-
 
 Po powrocie do domu, Wiktor, złamany i wyczerpany, zgadza się na ślub z Elizabeth, mając nadzieję, że da mu to chwilę wytchnienia. Ciągle jednak prześladuje go groźba Stworzenia. Błędnie interpretuje ją jako zapowiedź własnej śmierci, wierząc, że potwór zaatakuje jego w noc poślubną.
 
-
 PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Morderstwo Elizabeth, Rozdział 23)
-
 
       * Gdzie dokładnie się dzieje: Para spędza noc poślubną w zajeździe nad brzegiem Jeziora Como we Włoszech. Scena rozgrywa się w ich sypialni. Jest to elegancko urządzony pokój, z dużym łożem z baldachimem. Przez otwarte okno lub drzwi balkonowe widać spokojną taflę jeziora, oświetloną księżycem.
       * Kto jest obecny i ich pozycje: Elizabeth, ubrana w nocną koszulę, jest w sypialni, zaniepokojona dziwnym zachowaniem Wiktora. Wiktor, uzbrojony w pistolety, nerwowo krąży po korytarzach i wokół domu, wypatrując potwora.
@@ -415,16 +298,12 @@ PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Morderstwo Elizabeth, Rozdział 23)
       * Emocje widoczne na twarzach: Twarz Elizabeth wyraża niepokój i troskę. Wiktor jest skrajnie napięty, jego oczy rozbiegane, a twarz blada od strachu.
       * Ruch i dynamika sceny: Nagle ciszę przerywa "przenikliwy, straszliwy krzyk" Elizabeth. Wiktor z przerażeniem uświadamia sobie swój błąd i wpada do sypialni. Widok, który zastaje, jest obrazem grozy: "leżała bez życia i bezwładnie, rzucona w poprzek łóżka, jej głowa zwisała w dół, a jej blade i wykrzywione rysy były na wpół zakryte przez włosy".78 Na jej szyi widoczne są czarne ślady palców potwora. W otwartym oknie stoi Stworzenie. Jego twarz wykrzywia "ohydny uśmiech" triumfu. Wskazuje palcem na ciało Elizabeth, po czym zeskakuje z okna i ucieka w stronę jeziora. Wiktor strzela do niego, ale niecelnie.
 
-
 4. Rozwiązanie
-
 
 Śmierć Elizabeth jest ostatecznym ciosem. Na wieść o tragedii, Alphonse Frankenstein umiera z żalu kilka dni później. Wiktor, straciwszy wszystkich, których kochał, poświęca resztę swojego życia jednemu celowi: zemście. Rozpoczyna trwający miesiącami pościg za swoim Stworzeniem, który prowadzi go przez całą Europę, stepy Rosji, aż po wieczne lody Arktyki. Tam właśnie jego historia zatacza koło, gdy spotyka go statek Roberta Waltona.
 Po zakończeniu swojej opowieści, skrajnie wyczerpany Wiktor umiera na pokładzie statku, prosząc Waltona, by dokończył jego dzieło zemsty.
 
-
 OPIS WIZUALNY SCENY KOŃCOWEJ (Walton, w kontynuacji)
-
 
       * Gdzie dokładnie się dzieje: Kajuta kapitańska na statku Waltona, wciąż otoczonym przez lód. Pomieszczenie jest małe, wyłożone ciemnym drewnem.
       * Kto jest obecny i ich pozycje: Na pryczy leży przykryte prześcieradłem ciało Wiktora Frankensteina. Przy stole siedzi Robert Walton, piszący ostatnie fragmenty listu do siostry.
@@ -433,14 +312,9 @@ OPIS WIZUALNY SCENY KOŃCOWEJ (Walton, w kontynuacji)
       * Emocje widoczne na twarzach: Twarz Waltona wyraża szok i strach. Oblicze Stworzenia, choć ohydne, jest naznaczone autentycznym bólem i rozpaczą.
       * Dialog i zakończenie: Zaskoczone Stworzenie zwraca się do Waltona. Wygłasza poruszającą mowę, w której wyznaje swoje zbrodnie, ale jednocześnie opisuje ogrom swojej samotności i cierpienia, które go do nich pchnęły. Wyraża żal i wstręt do samego siebie, mówiąc, że wraz ze śmiercią stwórcy jego rola również się skończyła. Oświadcza, że jego ostatnim aktem będzie samobójstwo – zamierza spalić się na stosie pogrzebowym na najdalszym krańcu ziemi. Po tych słowach zeskakuje z okna statku na krę lodową i szybko "zostaje uniesiony przez fale i ginie w ciemności i oddali".37
 
-
 CZĘŚĆ V: TEMATY I MOTYWY
 
-
-
-
 1. Główne tematy
-
 
 Powieść Mary Shelley jest dziełem bogatym w idee filozoficzne i moralne, które do dziś nie straciły na aktualności. Cztery główne tematy stanowią rdzeń jej przesłania.
       * Niebezpieczna wiedza (Dangerous Knowledge): Frankenstein jest przede wszystkim przestrogą przed niepohamowaną ambicją i dążeniem do wiedzy bez uwzględnienia jej moralnych konsekwencji. Wiktor Frankenstein, Robert Walton i samo Stworzenie są postaciami napędzanymi przez pragnienie poznania – Wiktor chce zgłębić tajemnicę życia, Walton pragnie odkryć nieznane lądy, a Stworzenie łaknie wiedzy o sobie i świecie. W każdym przypadku pogoń ta prowadzi do cierpienia i zniszczenia.4 Powieść sugeruje, że istnieją granice, których ludzki umysł nie powinien przekraczać, a "wiedza jest niebezpieczna", gdy staje się celem samym w sobie, oderwanym od miłości, empatii i odpowiedzialności.91
@@ -448,38 +322,27 @@ Powieść Mary Shelley jest dziełem bogatym w idee filozoficzne i moralne, któ
       * Społeczeństwo i izolacja (Society and Isolation): Shelley przedstawia alienację jako główną przyczynę zła. Stworzenie rodzi się jako istota dobra i łagodna, pragnąca jedynie kontaktu i akceptacji. Jego upadek moralny jest bezpośrednim skutkiem odrzucenia przez społeczeństwo, które ocenia go wyłącznie przez pryzmat jego przerażającego wyglądu.94 Jego rozpaczliwe wołanie o towarzyszkę jest krzykiem przeciwko samotności, którą uważa za najgorszą z tortur. Powieść argumentuje, że przynależność i więzi społeczne są fundamentalnymi potrzebami człowieka, a ich brak może zniszczyć nawet najszlachetniejszą duszę.
       * Natura kontra wychowanie (Nature vs. Nurture): W odwiecznej debacie na temat źródeł ludzkiego charakteru, Shelley zdecydowanie opowiada się po stronie wychowania (nurture). Stworzenie jest jej koronnym argumentem. Nie jest z natury złe; jego "dusza płonęła miłością i człowieczeństwem".63 To "nędza" i nieustanne okrucieństwo, jakiego doświadcza, czynią z niego "diabła".70 Jego historia to tragiczny eksperyment myślowy, który pokazuje, jak środowisko i społeczne interakcje kształtują jednostkę, dowodząc, że potwory nie rodzą się, lecz są tworzone.
 
-
 2. Motywy literackie
-
 
 Tematy powieści są realizowane poprzez szereg powracających motywów i symboli, które nadają jej głębi i spójności.
       * Wzniosła natura (Sublime Nature): Krajobraz w Frankensteinie jest potężną, aktywną siłą. Majestatyczne i przerażające scenerie, takie jak Alpy czy Arktyka, są ucieleśnieniem romantycznej kategorii wzniosłości (sublime). Są one źródłem chwilowej pociechy dla udręczonych bohaterów, ponieważ ich ogrom sprawia, że ludzkie cierpienie wydaje się błahe.4 Jednocześnie, ich dzikość i potęga odzwierciedlają wewnętrzny chaos postaci i symbolizują siły natury, które Wiktor próbował ujarzmić, co ostatecznie go zniszczyło.37
       * Światło i ogień (Light and Fire): To kluczowy, dwoisty symbol w powieści. Światło symbolizuje wiedzę, odkrycie i oświecenie. Wiktor pragnie "wlać potok światła w nasz mroczny świat" 97, a Walton podróżuje do "krainy wiecznego światła". Ogień, jego niebezpieczny krewny, reprezentuje dwoistą naturę tej wiedzy.98 Kiedy Stworzenie odkrywa ogień, uczy się, że może on dawać ciepło i życie (gotowanie jedzenia), ale także zadawać ból i niszczyć (oparzenia). Ta dwoistość ognia jest metaforą wiedzy, która może zarówno tworzyć, jak i niszczyć.
       * Nawiązania intertekstualne (Raj utracony): Epos Johna Miltona jest najważniejszym punktem odniesienia dla powieści. Stworzenie, nauczywszy się czytać na tej właśnie książce, świadomie używa jej do interpretacji własnego losu. Widzi siebie zarówno jako Adama, pierwszą istotę stworzoną na obraz swojego boga, jak i jako Szatana, upadłego anioła, odrzuconego przez stwórcę i skazanego na wieczną udrękę.3 To odwołanie nadaje historii Wiktora i jego dzieła wymiar uniwersalnego mitu o stworzeniu, upadku, buncie i potępieniu.
 
-
 3. Problematyka moralna
-
 
 Powieść stawia przed czytelnikiem szereg fundamentalnych dylematów etycznych. Centralnym problemem jest kwestia uprzedzeń i oceny po pozorach. Tragedia Stworzenia nie wynika z jego istnienia, ale z niezdolności społeczeństwa – i samego Wiktora – do spojrzenia poza jego odrażający wygląd. Prawdziwym "potworem" w powieści jest uprzedzenie, które utożsamia fizyczną brzydotę z moralnym złem. To właśnie to uprzedzenie tworzy zło, którego się obawia.
 Stworzenie rodzi się jako istota niewinna, a jego edukacja moralna, oparta na obserwacji szlachetnej rodziny De Lacey, czyni go z natury dobrym.100 Każda jego próba nawiązania kontaktu z ludźmi kończy się jednak panicznym strachem i agresją, podyktowaną wyłącznie jego wyglądem.12 Jedyną osobą, która traktuje go z życzliwością, jest niewidomy starzec De Lacey, ponieważ "nie może osądzić jego oblicza".26 Ta scena jest moralnym sercem powieści i testem, którego wszyscy widzący bohaterowie nie zdają.
 Stworzenie samo diagnozuje przyczynę swojej transformacji: "Byłem życzliwy i dobry; nędza uczyniła mnie diabłem. Uczyń mnie szczęśliwym, a znów będę cnotliwy".70 Jego zło nie jest wrodzoną cechą, lecz wyuczoną reakcją na nieustanne odrzucenie. Shelley konstruuje w ten sposób potężną krytykę społeczną, pokazując, że uprzedzenia mają moc stwórczą – produkują potwory, których się lękają. Los Stworzenia jest tragicznym samospełniającym się proroctwem, napisanym przez społeczeństwo, które go potępiło.
 
-
 CZĘŚĆ VI: STYL I TECHNIKA
 
-
-
-
 1. Język i styl
-
 
 Język Frankensteina jest charakterystyczny dla prozy romantycznej. Jest podniosły, formalny i nasycony emocjami.101 Shelley posługuje się długimi, złożonymi zdaniami, bogatymi w środki stylistyczne, takie jak metafory, porównania i epitety. Szczególnie rozbudowane są opisy przyrody, które oddają jej wzniosłość i potęgę, a także opisy stanów psychicznych bohaterów, które podkreślają ich skrajne emocje – od ekstatycznej radości po najgłębszą rozpacz.
 Ton narracji zmienia się w zależności od narratora. Listy Waltona cechuje ton pełen entuzjazmu, ale i melancholijnej tęsknoty. Opowieść Wiktora jest dramatyczna, przepełniona poczuciem winy, pasją i żalem. Z kolei narracja Stworzenia jest najbardziej filozoficzna i tragiczna; jego język jest elokwentny i poetycki, co stoi w dramatycznym kontraście z jego potwornym wyglądem i podkreśla jego człowieczeństwo.
 
-
 2. Techniki narracyjne
-
 
 Najważniejszą techniką narracyjną zastosowaną przez Shelley jest narracja ramowa, często określana jako szkatułkowa (Chinese box narrative).102 Powieść składa się z trzech zagnieżdżonych w sobie opowieści, z których każda jest prowadzona przez innego narratora pierwszoosobowego:
       1. Rama zewnętrzna: Listy Roberta Waltona do siostry, które otwierają i zamykają powieść.
@@ -487,9 +350,7 @@ Najważniejszą techniką narracyjną zastosowaną przez Shelley jest narracja r
       3. Rama wewnętrzna: Opowieść Stworzenia, którą ono samo przedstawia Wiktorowi na lodowcu (a którą następnie Wiktor przekazuje Waltonowi, a Walton swojej siostrze).
 Taka struktura ma kilka kluczowych funkcji. Po pierwsze, buduje napięcie i stopniowo wprowadza czytelnika w coraz bardziej niezwykły i przerażający świat. Po drugie, nadaje opowieści pozory autentyczności – Walton jest naocznym świadkiem, który spisuje relację z pierwszej ręki.102 Po trzecie, i najważniejsze, tworzy ona efekt wielogłosowości i podważa istnienie jednej, obiektywnej prawdy. Każda historia jest filtrowana przez świadomość kolejnego narratora. Opowieść Stworzenia, najbardziej poruszającą i kluczową dla zrozumienia jego motywacji, poznajemy tylko za pośrednictwem Wiktora, jego największego wroga. To zmusza czytelnika do krytycznej lektury, do zastanowienia się nad wiarygodnością narratorów i do samodzielnego zrekonstruowania "prawdy" o wydarzeniach. Ta technika jest fundamentalna dla moralnej złożoności powieści, ponieważ uniemożliwia proste, czarno-białe osądy.
 
-
 3. Struktura kompozycyjna
-
 
 Powieść (w wersji z 1818 roku) podzielona jest na trzy tomy. Ta trójdzielna struktura odzwierciedla klasyczną budowę tragedii.
       * Tom I przedstawia młodość Wiktora, jego ambicje, akt stworzenia i początek jego upadku, kończąc na oskarżeniu Justine.
@@ -497,14 +358,9 @@ Powieść (w wersji z 1818 roku) podzielona jest na trzy tomy. Ta trójdzielna s
       * Tom III opisuje eskalację konfliktu, serię morderstw, pościg i ostateczną katastrofę obu bohaterów.
 Rytm narracji jest zróżnicowany. Fragmenty pełne dynamicznej akcji (ucieczka Wiktora, pościgi) przeplatają się z długimi, refleksyjnymi partiami opisowymi (opisy przyrody) i filozoficznymi monologami (zwłaszcza w części Stworzenia). Ta zmiana tempa pozwala na budowanie napięcia, a jednocześnie daje przestrzeń na pogłębioną analizę psychologiczną i moralną.
 
-
 CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
 
-
-
-
 1. Interpretacje krytyczne
-
 
 Frankenstein od dwóch stuleci jest przedmiotem intensywnych analiz krytycznoliterackich, które odczytują powieść przez pryzmat różnych teorii.
       * Interpretacja feministyczna: Pionierką tego nurtu była Sandra M. Gilbert i Susan Gubar w książce The Madwoman in the Attic. Uznają one powieść za "mit narodzin", który wyraża kobiece lęki związane z ciążą, porodem i macierzyństwem.9 Akt stworzenia dokonany przez Wiktora jest postrzegany jako uzurpacja i parodia kobiecej zdolności do dawania życia, co prowadzi do stworzenia "ohydnego potomstwa". Powieść jest także odczytywana jako krytyka patriarchalnego społeczeństwa, które marginalizuje i niszczy kobiety.57
@@ -512,256 +368,236 @@ Frankenstein od dwóch stuleci jest przedmiotem intensywnych analiz krytycznolit
       * Interpretacja biograficzna: Wielu badaczy doszukuje się w postaciach powieści odbicia osób z życia Mary Shelley. Wiktor bywa interpretowany jako krytyczny portret Percy'ego Shelleya – genialnego idealisty, ale jednocześnie egoistycznego i nieodpowiedzialnego w relacjach osobistych.20 Z kolei bezgraniczna samotność i pragnienie akceptacji Stworzenia są często odczytywane jako odzwierciedlenie własnej alienacji Mary, odrzuconej przez ojca i społeczeństwo po ucieczce z Percym.10
       * Interpretacja postkolonialna i krytyka rasowa: Wygląd Stworzenia – jego "żółta skóra" i odmienność – jest analizowany w kontekście XVIII-wiecznych teorii rasowych. Jego odrzucenie przez białe, europejskie społeczeństwo jest postrzegane jako metafora rasizmu i kolonialnej demonizacji "Innego".
 
-
 2. Znaczenie kulturowe
-
 
 Wpływ Frankensteina na kulturę zachodnią jest trudny do przecenienia. Powieść wprowadziła do imaginarium kulturowego dwa potężne archetypy: szalonego naukowca (mad scientist), który w swojej pysze bawi się w Boga, oraz sympatycznego potwora (sympathetic monster), którego zło jest wynikiem cierpienia i odrzucenia.100
 Największy wpływ na popularne postrzeganie dzieła miała jego adaptacja filmowa z 1931 roku w reżyserii Jamesa Whale'a, z Borisem Karloffem w roli potwora.104 To ten film, a nie powieść, stworzył ikoniczny wizerunek monstrum z płaską głową, elektrodami w szyi i tępym, bełkotliwym umysłem.21 Ta wersja, choć niezwykle wpływowa, jest głębokim uproszczeniem i zniekształceniem postaci stworzonej przez Shelley – elokwentnej, inteligentnej i tragicznej istoty.105 Rozbieżność między literackim oryginałem a jego filmowym wizerunkiem jest kluczowym elementem dziedzictwa kulturowego
 Frankensteina. Powieść doczekała się niezliczonych adaptacji filmowych, teatralnych, telewizyjnych, komiksowych i growych, co świadczy o jej nieustającej żywotności.27
 
-
 3. Aktualność przesłania
-
 
 Przesłanie Frankensteina jest dziś być może bardziej aktualne niż kiedykolwiek wcześniej. Powieść Shelley antycypowała wiele dylematów moralnych, z którymi mierzy się współczesna nauka i technologia. Pytania o granice ingerencji w naturę, odpowiedzialność naukowców za swoje odkrycia i potencjalne konsekwencje tworzenia sztucznego życia rezonują w dzisiejszych debatach na temat inżynierii genetycznej, klonowania, sztucznej inteligencji (AI) i robotyki.92
 Historia Wiktora i jego Stworzenia służy jako ponadczasowa przypowieść o tym, że postęp technologiczny bez postępu moralnego prowadzi do katastrofy. Przestrzega przed pychą, która każe nam wierzyć, że możemy kontrolować wszystko, co stworzymy, i przypomina o fundamentalnej potrzebie empatii i odpowiedzialności – zarówno w nauce, jak i w relacjach międzyludzkich.
 
-
 CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
-
 
 Ta sekcja stanowi skondensowany, praktyczny przewodnik wizualny, przeznaczony do bezpośredniego wykorzystania przez zespół kreatywny. Zawiera ona usystematyzowane dane wizualne zebrane w całym raporcie.
 
-
 1. Katalog postaci z opisami wizualnymi
-
 
 Poniższa tabela centralizuje wszystkie dostępne w tekście informacje na temat wyglądu postaci, co jest kluczowe dla zapewnienia spójności wizualnej adaptacji.
 Postać
-	Przybliżony Wiek
-	Wzrost/Budowa
-	Włosy
-	Oczy
-	Cechy Charakterystyczne
-	Typowy Ubiór
-	Uwagi
-	Wiktor Frankenstein
-	17-28 lat
-	BRAK DANYCH (w zdrowiu); "wychudzony" w chorobie
-	BRAK DANYCH
-	BRAK DANYCH (kolor); wyraz "dziki i szalony" w udręce
-	Blady, wyniszczony wygląd w okresach obsesji i cierpienia.
-	Strój dżentelmena końca XVIII w. (surdut, kamizelka, spodnie). W Arktyce futra.
-	Wygląd zewnętrzny odzwierciedla jego stan psychiczny.
-	Stworzenie
-	0-2 lata (mentalnie)
-	Ok. 8 stóp (240 cm), gigantyczny, proporcjonalny, nadludzko silny i zwinny
-	"Lśniące czarne i opadające"
-	"Wodniste", blade (żółtawe/szare), osadzone w "matowobiałych" oczodołach
-	Żółta, cienka, "pomarszczona" skóra, przez którą widać mięśnie i tętnice. Czarne, proste wargi. Perłowo białe zęby. Widoczne szwy.
-	Zniszczone, niedopasowane ubrania (początkowo Wiktora, potem znalezione).
-	Kluczowy jest efekt "doliny niesamowitości" – piękno poszczególnych części tworzy groteskową całość.
-	Robert Walton
-	28 lat
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
-	Ubiór kapitana statku, ciężkie futra na Arktyce.
-	Postać definiowana przez ambicję i samotność, nie wygląd.
-	Elizabeth Lavenza
-	ok. 17-27 lat
-	"Chuda", "lekka i zwiewna"
-	"Najjaśniejsze żywe złoto"
-	"Bezchmurne błękitne" (lub "orzechowe" w ed. 1818)
-	Anielska, "niebiańska" uroda, jasna karnacja.
-	Eleganckie, jasne suknie w stylu empire.
-	Tekst zawiera sprzeczne opisy koloru oczu.
-	Henry Clerval
-	ok. 17-27 lat
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK DANYCH
-	Opisany ogólnie jako "promieniujący pięknem", bez szczegółów.
-	Strój dżentelmena, podróżnika.
-	BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH.
-	Alphonse Frankenstein
-	ok. 50-60+ lat
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
-	Strój zamożnego urzędnika genewskiego.
-	Postać definiowana przez godność i dobroć.
-	Justine Moritz
-	ok. 20 lat
-	BRAK DANYCH
-	BRAK DANYCH (sugerowane brązowe)
-	BRAK DANYCH
-	"Niezwykle ładna", o "ujmującym" i "szczerym" wyrazie twarzy.
-	Prosty strój służącej; na procesie w żałobie.
-	
+    Przybliżony Wiek
+    Wzrost/Budowa
+    Włosy
+    Oczy
+    Cechy Charakterystyczne
+    Typowy Ubiór
+    Uwagi
+    Wiktor Frankenstein
+    17-28 lat
+    BRAK DANYCH (w zdrowiu); "wychudzony" w chorobie
+    BRAK DANYCH
+    BRAK DANYCH (kolor); wyraz "dziki i szalony" w udręce
+    Blady, wyniszczony wygląd w okresach obsesji i cierpienia.
+    Strój dżentelmena końca XVIII w. (surdut, kamizelka, spodnie). W Arktyce futra.
+    Wygląd zewnętrzny odzwierciedla jego stan psychiczny.
+    Stworzenie
+    0-2 lata (mentalnie)
+    Ok. 8 stóp (240 cm), gigantyczny, proporcjonalny, nadludzko silny i zwinny
+    "Lśniące czarne i opadające"
+    "Wodniste", blade (żółtawe/szare), osadzone w "matowobiałych" oczodołach
+    Żółta, cienka, "pomarszczona" skóra, przez którą widać mięśnie i tętnice. Czarne, proste wargi. Perłowo białe zęby. Widoczne szwy.
+    Zniszczone, niedopasowane ubrania (początkowo Wiktora, potem znalezione).
+    Kluczowy jest efekt "doliny niesamowitości" – piękno poszczególnych części tworzy groteskową całość.
+    Robert Walton
+    28 lat
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+    Ubiór kapitana statku, ciężkie futra na Arktyce.
+    Postać definiowana przez ambicję i samotność, nie wygląd.
+    Elizabeth Lavenza
+    ok. 17-27 lat
+    "Chuda", "lekka i zwiewna"
+    "Najjaśniejsze żywe złoto"
+    "Bezchmurne błękitne" (lub "orzechowe" w ed. 1818)
+    Anielska, "niebiańska" uroda, jasna karnacja.
+    Eleganckie, jasne suknie w stylu empire.
+    Tekst zawiera sprzeczne opisy koloru oczu.
+    Henry Clerval
+    ok. 17-27 lat
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK DANYCH
+    Opisany ogólnie jako "promieniujący pięknem", bez szczegółów.
+    Strój dżentelmena, podróżnika.
+    BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH.
+    Alphonse Frankenstein
+    ok. 50-60+ lat
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+    Strój zamożnego urzędnika genewskiego.
+    Postać definiowana przez godność i dobroć.
+    Justine Moritz
+    ok. 20 lat
+    BRAK DANYCH
+    BRAK DANYCH (sugerowane brązowe)
+    BRAK DANYCH
+    "Niezwykle ładna", o "ujmującym" i "szczerym" wyrazie twarzy.
+    Prosty strój służącej; na procesie w żałobie.
 
-	De Lacey (ojciec)
-	Starzec
-	Pochylony, kruchy
-	"Srebrne"
-	Niewidomy
-	"Życzliwe oblicze".
-	Proste, wiejskie odzienie.
-	
+    De Lacey (ojciec)
+    Starzec
+    Pochylony, kruchy
+    "Srebrne"
+    Niewidomy
+    "Życzliwe oblicze".
+    Proste, wiejskie odzienie.
 
-	Felix De Lacey
-	Młody mężczyzna
-	"Smukły i pełen wdzięku"
-	BRAK DANYCH
-	BRAK DANYCH
-	Rysy o "najdoskonalszej symetrii", ale wyraz smutku.
-	Znoszone ubranie wieśniaka.
-	
+    Felix De Lacey
+    Młody mężczyzna
+    "Smukły i pełen wdzięku"
+    BRAK DANYCH
+    BRAK DANYCH
+    Rysy o "najdoskonalszej symetrii", ale wyraz smutku.
+    Znoszone ubranie wieśniaka.
 
-	Agatha De Lacey
-	Młoda kobieta
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK DANYCH
-	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
-	Proste, wiejskie odzienie.
-	
+    Agatha De Lacey
+    Młoda kobieta
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK DANYCH
+    BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+    Proste, wiejskie odzienie.
 
-	Safie
-	Młoda kobieta
-	BRAK DANYCH
-	"Lśniące, kruczoczarne", splecione w warkocze
-	"Ciemne, lecz łagodne"
-	"Cudownie jasna cera" z różowymi policzkami.
-	Strój podróżny, być może z orientalnymi elementami.
-	
-
-	
+    Safie
+    Młoda kobieta
+    BRAK DANYCH
+    "Lśniące, kruczoczarne", splecione w warkocze
+    "Ciemne, lecz łagodne"
+    "Cudownie jasna cera" z różowymi policzkami.
+    Strój podróżny, być może z orientalnymi elementami.
 
 2. Katalog lokacji
 
-
 Tabela ta systematyzuje kluczowe cechy wizualne głównych miejsc akcji, służąc jako przewodnik dla scenografów i artystów koncepcyjnych.
 Lokacja
-	Styl Architektoniczny/Krajobraz
-	Dominująca Paleta Kolorów
-	Oświetlenie/Atmosfera
-	Kluczowe Elementy Scenografii
-	Genewa
-	Późny barok, neoklasycyzm; idylliczny krajobraz nad jeziorem
-	Ciepłe: błękity, zielenie, beże, złoto
-	Jasne, naturalne światło; atmosfera bezpieczeństwa i spokoju, później grozy
-	Eleganckie wnętrza, biblioteka, ogród, błękitne jezioro, widok na góry
-	Ingolstadt
-	Gotyk, barok; stare miasto uniwersyteckie
-	Mroczne: szarości, ciemne brązy, czerń
-	Sztuczne, migotliwe światło świec/lamp; atmosfera obsesji, tajemnicy, rozkładu
-	Ciasne, brukowane uliczki, poddaszowe laboratorium, narzędzia anatomiczne, aparatura chemiczna
-	Alpy
-	Wzniosły (sublime) krajobraz górski; lodowce, ostre szczyty
-	Kontrastowe: biel śniegu, błękit lodu, czerń skał
-	Ostre, oślepiające światło słoneczne lub dramatyczne światło burzy; atmosfera grozy i majestatu
-	Morze lodu (Mer de Glace), ostre granie, wodospady, jaskinie lodowe
-	Orkady
-	Jałowe, skaliste wybrzeże, wrzosowiska
-	Monotonne: szarości, brązy, wyblakłe zielenie
-	Szare, rozproszone światło, częste deszcze; atmosfera skrajnej izolacji i rozpaczy
-	Nędzna, kamienna chata, wzburzone morze, nagie skały
-	Arktyka
-	Bezkresne, zamarznięte morze, pola lodowe
-	Monochromatyczne: biel, odcienie szarości
-	Zimne, surowe światło niskiego słońca, długie cienie; atmosfera pustki, ciszy i ostateczności
-	Uwięziony statek, dryfujące kry, nieskończona przestrzeń lodu i śniegu
-	
+    Styl Architektoniczny/Krajobraz
+    Dominująca Paleta Kolorów
+    Oświetlenie/Atmosfera
+    Kluczowe Elementy Scenografii
+    Genewa
+    Późny barok, neoklasycyzm; idylliczny krajobraz nad jeziorem
+    Ciepłe: błękity, zielenie, beże, złoto
+    Jasne, naturalne światło; atmosfera bezpieczeństwa i spokoju, później grozy
+    Eleganckie wnętrza, biblioteka, ogród, błękitne jezioro, widok na góry
+    Ingolstadt
+    Gotyk, barok; stare miasto uniwersyteckie
+    Mroczne: szarości, ciemne brązy, czerń
+    Sztuczne, migotliwe światło świec/lamp; atmosfera obsesji, tajemnicy, rozkładu
+    Ciasne, brukowane uliczki, poddaszowe laboratorium, narzędzia anatomiczne, aparatura chemiczna
+    Alpy
+    Wzniosły (sublime) krajobraz górski; lodowce, ostre szczyty
+    Kontrastowe: biel śniegu, błękit lodu, czerń skał
+    Ostre, oślepiające światło słoneczne lub dramatyczne światło burzy; atmosfera grozy i majestatu
+    Morze lodu (Mer de Glace), ostre granie, wodospady, jaskinie lodowe
+    Orkady
+    Jałowe, skaliste wybrzeże, wrzosowiska
+    Monotonne: szarości, brązy, wyblakłe zielenie
+    Szare, rozproszone światło, częste deszcze; atmosfera skrajnej izolacji i rozpaczy
+    Nędzna, kamienna chata, wzburzone morze, nagie skały
+    Arktyka
+    Bezkresne, zamarznięte morze, pola lodowe
+    Monochromatyczne: biel, odcienie szarości
+    Zimne, surowe światło niskiego słońca, długie cienie; atmosfera pustki, ciszy i ostateczności
+    Uwięziony statek, dryfujące kry, nieskończona przestrzeń lodu i śniegu
 
 3. Kluczowe sceny do wizualizacji
 
-
 Poniższa tabela rozkłada 10 kluczowych scen na podstawowe elementy wizualne i dramaturgiczne, służąc jako podstawa do tworzenia storyboardów lub scenariuszy.
 Scena
-	Lokacja
-	Czas/Pogoda
-	Postacie i Pozycje
-	Ważne Rekwizyty
-	Dynamika/Ruch
-	Dominujące Emocje
-	1. Odkrycie na lodzie
-	Arktyka, pokład statku
-	Dzień, mgła, zimno
-	Walton i załoga na pokładzie. Gigant na saniach w oddali. Później wyniszczony Wiktor na krze.
-	Sanie, psy, teleskop
-	Statyczna obserwacja, potem gorączkowy ratunek.
-	Zdumienie, lęk, ciekawość, współczucie
-	2. Stworzenie
-	Laboratorium, Ingolstadt
-	1 w nocy, listopad, deszcz
-	Wiktor klęczy/stoi nad stołem. Stworzenie leży, potem się porusza.
-	Aparatura, świeca, narzędzia
-	Napięte oczekiwanie, potem gwałtowny ruch Stworzenia i paniczna ucieczka Wiktora.
-	Mania, nadzieja, horror, wstręt
-	3. Spotkanie w burzy
-	Las pod Genewą
-	Noc, gwałtowna burza
-	Wiktor sam. Stworzenie widoczne w błyskawicy na skale.
-	-
-	Gwałtowne błyski światła. Szybki, nieludzki ruch Stworzenia.
-	Żal, strach, przerażające odkrycie
-	4. Konfrontacja na lodowcu
-	Mer de Glace, Alpy
-	Dzień, słońce
-	Wiktor i Stworzenie stoją naprzeciw siebie, otoczeni ogromem lodu.
-	-
-	Stworzenie zbliża się z nadludzką prędkością. Napięty dialog.
-	Furia (Wiktor), udręka i determinacja (Stworzenie)
-	5. Rozmowa z De Laceyem
-	Chata De Laceyów
-	Dzień, zima
-	Stworzenie siedzi przy kominku z niewidomym starcem.
-	Kominek, instrument muzyczny starca
-	Spokojna, pełna nadziei rozmowa, przerwana brutalnym wtargnięciem Felixa.
-	Nadzieja, życzliwość, potem przerażenie i przemoc
-	6. Zniszczenie towarzyszki
-	Chata na Orkadach
-	Noc, światło księżyca
-	Wiktor przy stole. Stworzenie obserwuje przez okno.
-	Niedokończone ciało kobiety, lampa
-	Wiktor gwałtownie niszczy swoje dzieło.
-	Wahanie, odraza, determinacja, rozpacz, furia
-	7. Odkrycie ciała Clervala
-	Port w Irlandii
-	Noc, światło latarni
-	Wiktor jest prowadzony do ciała leżącego na piasku.
-	Ciało Henry'ego, latarnia
-	Powolne, pełne napięcia podejście. Szok Wiktora.
-	Niepokój, szok, horror, załamanie
-	8. Morderstwo Elizabeth
-	Sypialnia, Jezioro Como
-	Noc poślubna, księżyc
-	Elizabeth w łóżku. Wiktor patroluje na zewnątrz. Stworzenie w oknie.
-	Łoże małżeńskie, pistolety
-	Napięte oczekiwanie, krzyk, gwałtowna akcja, ucieczka Stworzenia.
-	Strach, napięcie, horror, triumf (Stworzenie), rozpacz
-	9. Przysięga na cmentarzu
-	Cmentarz w Genewie
-	Noc
-	Wiktor klęczy przy grobach rodziny.
-	Groby, nagrobki
-	Wiktor wygłasza przysięgę zemsty. Słyszy śmiech Stworzenia.
-	Rozpacz, determinacja, nienawiść
-	10. Ostatnie spotkanie
-	Kajuta statku, Arktyka
-	Noc, światło lampy
-	Ciało Wiktora na pryczy. Walton odkrywa Stworzenie płaczące nad nim.
-	Ciało Wiktora, lampa
-	Cicha, żałobna scena. Ostateczna mowa Stworzenia i jego zniknięcie.
-	Szok, żal, rozpacz, rezygnacja
-	
+    Lokacja
+    Czas/Pogoda
+    Postacie i Pozycje
+    Ważne Rekwizyty
+    Dynamika/Ruch
+    Dominujące Emocje
+    1. Odkrycie na lodzie
+    Arktyka, pokład statku
+    Dzień, mgła, zimno
+    Walton i załoga na pokładzie. Gigant na saniach w oddali. Później wyniszczony Wiktor na krze.
+    Sanie, psy, teleskop
+    Statyczna obserwacja, potem gorączkowy ratunek.
+    Zdumienie, lęk, ciekawość, współczucie
+    2. Stworzenie
+    Laboratorium, Ingolstadt
+    1 w nocy, listopad, deszcz
+    Wiktor klęczy/stoi nad stołem. Stworzenie leży, potem się porusza.
+    Aparatura, świeca, narzędzia
+    Napięte oczekiwanie, potem gwałtowny ruch Stworzenia i paniczna ucieczka Wiktora.
+    Mania, nadzieja, horror, wstręt
+    3. Spotkanie w burzy
+    Las pod Genewą
+    Noc, gwałtowna burza
+    Wiktor sam. Stworzenie widoczne w błyskawicy na skale.
+    -
+    Gwałtowne błyski światła. Szybki, nieludzki ruch Stworzenia.
+    Żal, strach, przerażające odkrycie
+    4. Konfrontacja na lodowcu
+    Mer de Glace, Alpy
+    Dzień, słońce
+    Wiktor i Stworzenie stoją naprzeciw siebie, otoczeni ogromem lodu.
+    -
+    Stworzenie zbliża się z nadludzką prędkością. Napięty dialog.
+    Furia (Wiktor), udręka i determinacja (Stworzenie)
+    5. Rozmowa z De Laceyem
+    Chata De Laceyów
+    Dzień, zima
+    Stworzenie siedzi przy kominku z niewidomym starcem.
+    Kominek, instrument muzyczny starca
+    Spokojna, pełna nadziei rozmowa, przerwana brutalnym wtargnięciem Felixa.
+    Nadzieja, życzliwość, potem przerażenie i przemoc
+    6. Zniszczenie towarzyszki
+    Chata na Orkadach
+    Noc, światło księżyca
+    Wiktor przy stole. Stworzenie obserwuje przez okno.
+    Niedokończone ciało kobiety, lampa
+    Wiktor gwałtownie niszczy swoje dzieło.
+    Wahanie, odraza, determinacja, rozpacz, furia
+    7. Odkrycie ciała Clervala
+    Port w Irlandii
+    Noc, światło latarni
+    Wiktor jest prowadzony do ciała leżącego na piasku.
+    Ciało Henry'ego, latarnia
+    Powolne, pełne napięcia podejście. Szok Wiktora.
+    Niepokój, szok, horror, załamanie
+    8. Morderstwo Elizabeth
+    Sypialnia, Jezioro Como
+    Noc poślubna, księżyc
+    Elizabeth w łóżku. Wiktor patroluje na zewnątrz. Stworzenie w oknie.
+    Łoże małżeńskie, pistolety
+    Napięte oczekiwanie, krzyk, gwałtowna akcja, ucieczka Stworzenia.
+    Strach, napięcie, horror, triumf (Stworzenie), rozpacz
+    9. Przysięga na cmentarzu
+    Cmentarz w Genewie
+    Noc
+    Wiktor klęczy przy grobach rodziny.
+    Groby, nagrobki
+    Wiktor wygłasza przysięgę zemsty. Słyszy śmiech Stworzenia.
+    Rozpacz, determinacja, nienawiść
+    10. Ostatnie spotkanie
+    Kajuta statku, Arktyka
+    Noc, światło lampy
+    Ciało Wiktora na pryczy. Walton odkrywa Stworzenie płaczące nad nim.
+    Ciało Wiktora, lampa
+    Cicha, żałobna scena. Ostateczna mowa Stworzenia i jego zniknięcie.
+    Szok, żal, rozpacz, rezygnacja
 
 4. Przedmioty i symbole wizualne
-
 
       * Instrumenty naukowe Wiktora: Zbiór szklanych, miedzianych i drewnianych urządzeń typowych dla końca XVIII wieku. Powinny wyglądać na autentyczne, ale też nosić znamiona obsesyjnego, niechlujnego użytkowania. Kluczowe elementy to stos galwaniczny (prymitywna bateria), butelki lejdejskie, pompa powietrzna i narzędzia chirurgiczne.25
       * Medalion z portretem Caroline Frankenstein: Mały, owalny medalion, prawdopodobnie ze złota lub srebra, zawierający ręcznie malowaną miniaturę pięknej kobiety. Symbolizuje niewinność, miłość macierzyńską i utracone szczęście. Staje się kluczowym, tragicznym rekwizytem w sprawie Justine.
@@ -770,9 +606,7 @@ Scena
       * Lód i śnieg: Dominujący element wizualny w ramie narracyjnej. Symbolizują czystość, ale także pustkę, izolację i śmierć. Ogromne, surowe krajobrazy lodowe podkreślają znikomość człowieka wobec potęgi natury i jego własnych namiętności.
 ________________
 
-
 ŹRÓDŁA
-
 
 1
 Cytowane prace

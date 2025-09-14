@@ -1,34 +1,21 @@
-﻿Szczegółowa Analiza i Przewodnik Wizualny: Tragedia Hamleta, Księcia Danii
-
-
-
+Szczegółowa Analiza i Przewodnik Wizualny: Tragedia Hamleta, Księcia Danii
 
 CZĘŚĆ I: WPROWADZENIE
 
-
 Niniejszy raport stanowi wyczerpującą analizę Tragedii Hamleta, Księcia Danii autorstwa Williama Shakespeare'a. Jego celem jest dostarczenie kompleksowego zrozumienia dzieła, które może służyć jako podstawa analityczna, edukacyjna oraz, co kluczowe, jako fundamentalny przewodnik dla twórców adaptacji wizualnych. Raport zgłębia każdy aspekt dramatu – od jego historycznego i tekstowego kontekstu, przez szczegółową charakterystykę postaci i miejsc, po dogłębną analizę fabuły, tematyki i stylu – kładąc szczególny nacisk na precyzyjne opisy wizualne, niezbędne do stworzenia spójnego i wiernego obrazu świata przedstawionego.
-
 
 Informacje bibliograficzne
 
-
-
-
 Pełny tytuł i podtytuł
-
 
 Pełny, oryginalny tytuł dzieła brzmi The Tragedy of Hamlet, Prince of Denmark (Tragedia Hamleta, Księcia Danii), często skracany do samego Hamlet.1 Analiza pełnego tytułu dostarcza kluczowych wskazówek co do intencji autora i oczekiwań elżbietańskiej publiczności. Słowo "Tragedia" jednoznacznie klasyfikuje utwór w ramach gatunku, zapowiadając nieuchronną katastrofę i upadek bohatera, co było zgodne z konwencją dramatyczną tamtych czasów.2 Z kolei podtytuł, "Książę Danii", natychmiast osadza akcję w konkretnym kontekście politycznym i społecznym. Dla widzów z przełomu XVI i XVII wieku, historia o następcy tronu, intrygach dworskich, problemie sukcesji i losach narodu była tematem niezwykle rezonującym, zwłaszcza w obliczu niepewnej przyszłości Anglii pod rządami starzejącej się, bezdzietnej królowej.2 Tytuł od samego początku ustanawia więc podwójną stawkę dramatu: osobistą tragedię jednostki i polityczny kryzys państwa.
 
-
 Autor
-
 
 Autorem dramatu jest William Shakespeare (ok. 1564–1616), czołowy dramaturg i poeta angielskiego renesansu. Hamlet powstał w dojrzałym okresie jego twórczości, około lat 1599–1601.1 Biograficzny kontekst tego okresu jest znaczący. W 1596 roku zmarł jedyny syn Shakespeare'a, jedenastoletni Hamnet. Chociaż bezpośredni wpływ tej tragedii na treść dramatu jest przedmiotem debaty akademickiej, tematyczna zbieżność – głęboka żałoba, relacje ojciec-syn, kwestia dziedzictwa i pamięci – jest uderzająca i nadaje dziełu wymiar osobistego rezonansu.6 W tym czasie Shakespeare był również głównym dramaturgiem i udziałowcem wiodącej londyńskiej trupy teatralnej, Sług Lorda Szambelana (później Sług Króla), oraz współwłaścicielem nowo wybudowanego teatru The Globe.7 Jego praktyczne doświadczenie teatralne miało fundamentalny wpływ na strukturę
 Hamleta – dzieła napisanego z myślą o konkretnej scenie, konkretnych aktorach i dynamicznej, płynnej akcji, jaką umożliwiała elżbietańska scena.
 
-
 Data pierwszego wydania
-
 
 Historia tekstowa Hamleta jest niezwykle złożona i stanowi odzwierciedlenie jego głównych tematów: niepewności i trudności w dotarciu do jednej, ostatecznej prawdy. Dramat przetrwał w trzech znacząco różniących się wczesnych wersjach, co czyni go jednym z najbardziej problematycznych tekstów w kanonie szekspirowskim.
 1. "Złe Quarto" (Q1) z 1603 roku: Jest to najwcześniejsza drukowana wersja, znacznie krótsza od pozostałych (zawiera około połowy tekstu) i uważana za nieautoryzowaną.7 Prawdopodobnie jest to tzw. "rekonstrukcja pamięciowa" (memorial reconstruction), spisana z pamięci przez jednego z aktorów drugoplanowych (być może grającego Marcela, gdyż jego kwestie są najwierniejsze).10 Tekst ten zawiera liczne uproszczenia i parafrazy, a słynny monolog rozpoczyna się od słów: "To be, or not to be, aye there's the point" (Być albo nie być, o, w tym rzecz).10
@@ -36,9 +23,7 @@ Historia tekstowa Hamleta jest niezwykle złożona i stanowi odzwierciedlenie je
 3. Pierwsze Folio (F1) z 1623 roku: Opublikowane siedem lat po śmierci Shakespeare'a w zbiorowym wydaniu jego dzieł, F1 jest o około 200 wersów krótsze od Q2, ale zawiera około 85 wersów, których nie ma w Q2.8 Tekst ten prawdopodobnie odzwierciedla wersję sceniczną, dostosowaną do potrzeb teatru.
 Ta tekstowa niestabilność nie jest jedynie problemem edytorskim. Można ją postrzegać jako fizyczną manifestację centralnych motywów dzieła. Tak jak Hamlet zmaga się z weryfikacją słów Ducha i odróżnieniem pozoru od rzeczywistości, tak czytelnicy i twórcy adaptacji stają przed brakiem jednego, ostatecznego, "prawdziwego" tekstu Hamleta. Istnieją jedynie wersje, interpretacje i warianty. Ta nieuchwytność prawdy, wpisana w samą materialną historię dramatu, może stać się potężnym narzędziem koncepcyjnym dla adaptacji, która mogłaby wizualnie eksplorować motyw alternatywnych wersji rzeczywistości lub sprzecznych perspektyw.
 
-
 Gatunek literacki
-
 
 Hamlet jest klasyfikowany jako tragedia zemsty (revenge tragedy), gatunek niezwykle popularny na scenach angielskich w epoce elżbietańskiej i jakobińskiej.2 Dramat zawiera wszystkie kluczowe elementy tej konwencji:
 * Duch zamordowanej osoby, który nawołuje do zemsty.
@@ -48,15 +33,11 @@ Hamlet jest klasyfikowany jako tragedia zemsty (revenge tragedy), gatunek niezwy
 * Krwawy, katastroficzny finał, w którym ginie większość głównych postaci.12
 Jednakże, geniusz Shakespeare'a polega na subwersywnym potraktowaniu tych konwencji. W przeciwieństwie do typowych bohaterów tragedii zemsty, którzy działają szybko i bezwzględnie, Hamlet waha się, rozważa, analizuje moralne i filozoficzne implikacje swojego zadania.13 Shakespeare przesuwa punkt ciężkości z samej akcji na psychologiczną głębię i wewnętrzne rozterki protagonisty, przekształcając gatunkową formułę w głębokie studium ludzkiej kondycji.14
 
-
 Przynależność do nurtu literackiego
-
 
 Dzieło jest kwintesencją angielskiego renesansu i odzwierciedla intelektualne prądy epoki, w szczególności humanizm renesansowy.3 Nurt ten, kładący nacisk na potencjał ludzkiego rozumu, godność jednostki, samowiedzę i sceptycyzm wobec tradycyjnych autorytetów, znajduje pełne ucieleśnienie w postaci Hamleta. Jest on studentem uniwersytetu w Wittenberdze – centrum myśli reformacyjnej i humanistycznej – a jego skłonność do introspekcji, kwestionowania wszystkiego (nawet natury Ducha) i egzystencjalne rozważania nad życiem i śmiercią ("Być, albo nie być") są bezpośrednim wyrazem humanistycznego ducha epoki.4
 
-
 Okładka
-
 
 Ponieważ nie istnieje jedna, oficjalna okładka Hamleta, analiza wizualna musi skupić się na powtarzających się motywach ikonograficznych, które zdominowały jego reprezentację wizualną na przestrzeni wieków. Najbardziej rozpowszechnionym i ikonicznym obrazem jest Hamlet trzymający czaszkę Yoricka.15 Ta potężna scena, będąca wizualnym
 memento mori (pamiętaj o śmierci), stała się uniwersalnym symbolem nie tylko samego dramatu, ale także teatru, refleksji nad śmiertelnością i ludzką kondycją.15 Inne często wykorzystywane motywy wizualne to:
@@ -65,20 +46,13 @@ memento mori (pamiętaj o śmierci), stała się uniwersalnym symbolem nie tylko
 * Skrzyżowane rapiery lub pojedynczy rapier z kroplą trucizny na ostrzu – zapowiedź śmiertelnego finału i motywu zdrady.
 Te archetypowe obrazy stanowią kluczowy punkt wyjścia dla każdej adaptacji wizualnej, oferując skondensowany język symboliczny, który jest natychmiast rozpoznawalny dla odbiorców.
 
-
 Kontekst powstania
-
-
-
 
 Okoliczności napisania książki
 
-
 Hamlet powstał w latach 1599–1601, w schyłkowym okresie panowania Elżbiety I. Był to czas narastającego w Anglii niepokoju politycznego.10 Królowa była starzejącą się, bezdzietną monarchinią, a brak wyznaczonego następcy tronu rodził powszechne obawy o przyszłość kraju, grożąc wojną domową lub kryzysem sukcesyjnym.4 Ta atmosfera niepewności i lęku przed bezkrólewiem znajduje swoje odbicie w dramacie. Dania pod rządami Klaudiusza to państwo "rozbite i wytrącone z ram" ("disjoint and out of frame"), którego prawowity porządek został naruszony przez zbrodnię i uzurpację.5 Ponadto, epoka elżbietańska charakteryzowała się rozbudowaną siatką szpiegowską, za pomocą której monarchia kontrolowała poddanych i demaskowała spiski. Ta kultura inwigilacji jest wszechobecna w Elsynorze, gdzie niemal każda postać kogoś szpieguje, a podsłuchiwanie jest podstawowym narzędziem polityki.17
 
-
 Inspiracje autora
-
 
 Shakespeare nie wymyślił fabuły Hamleta, lecz twórczo przetworzył istniejące już opowieści. Główne źródła inspiracji to:
 * Legenda o Amlecie: Staronordycka saga, po raz pierwszy spisana po łacinie przez duńskiego kronikarza Saxo Grammaticusa w XII wieku w jego dziele Gesta Danorum (Czyny Duńczyków).6 Opowieść ta zawiera rdzeń fabularny: książę udaje szaleństwo, aby pomścić śmierć ojca, zamordowanego przez stryja, który następnie poślubił jego matkę.
@@ -86,80 +60,56 @@ Shakespeare nie wymyślił fabuły Hamleta, lecz twórczo przetworzył istnieją
 * Ur-Hamlet (Pra-Hamlet): Zaginiony dramat, który był popularny na londyńskich scenach w latach 80. XVI wieku, czyli ponad dekadę przed powstaniem wersji Szekspirowskiej.2 Przypuszcza się, że jego autorem mógł być Thomas Kyd, twórca innej słynnej tragedii zemsty,
 Tragedii hiszpańskiej. Prawdopodobnie to właśnie ten utwór stanowił bezpośredni wzorzec teatralny dla Shakespeare'a.3
 
-
 Miejsce w dorobku pisarza
-
 
 Hamlet zajmuje centralne miejsce w kanonie dzieł Shakespeare'a. Jest to jego najdłuższy dramat i powszechnie uważany za jego arcydzieło.1 Otwiera on cykl czterech wielkich tragedii (obok
 Otella, Króla Leara i Makbeta), które powstały w pierwszej dekadzie XVII wieku.11 W tych dziełach Shakespeare odchodzi od wcześniejszych, bardziej historycznych czy komediowych tematów, by zagłębić się w najmroczniejsze aspekty ludzkiej psychiki.
 Hamlet wyznacza ten zwrot w jego twórczości, charakteryzujący się bezprecedensową głębią psychologiczną postaci, filozoficznym ciężarem poruszanych problemów i pesymistyczną wizją ludzkiego losu.
 
-
 Recepcja krytyczna i czytelnicza
-
 
 Dramat odniósł natychmiastowy sukces i cieszył się ogromną popularnością już za życia Shakespeare'a. Dowody wskazują na jego wystawienia nie tylko w Londynie, ale także na dworze królewskim, na uniwersytetach w Cambridge i Oksfordzie, a nawet w tak egzotycznym miejscu jak pokład statku Kompanii Wschodnioindyjskiej u wybrzeży Sierra Leone w 1607 roku.20 Współczesny autor, Gabriel Harvey, pisał, że sztuka ma moc "zadowolić najmędrszych".11 Popularność ta nigdy nie osłabła. Na przestrzeni czterech stuleci rola Hamleta stała się probierzem talentu i ambicji dla największych aktorów każdego pokolenia, od Richarda Burbage'a (dla którego prawdopodobnie została napisana), przez Thomasa Bettertona, Davida Garricka, Henry'ego Irvinga, aż po Laurence'a Oliviera i współczesne gwiazdy sceny i ekranu.20 Dzieło nieustannie prowokuje nowe interpretacje krytyczne, od romantycznych analiz wrażliwej duszy, przez freudowskie odczytania kompleksu Edypa, po egzystencjalne i polityczne analizy współczesne, co świadczy o jego niewyczerpanej złożoności i uniwersalnym rezonansie.
 
-
 CZĘŚĆ II: TŁO I KONTEKST
-
 
 Zrozumienie świata przedstawionego w Hamlecie wymaga szczegółowej analizy miejsca, czasu oraz kontekstów historyczno-społecznych, które kształtują działania i motywacje bohaterów. Te elementy nie są jedynie tłem, lecz aktywnymi czynnikami dramatu, wpływającymi na jego atmosferę, tematykę i wizualny charakter.
 
-
 Miejsce akcji
-
-
-
 
 Dokładny opis lokalizacji
 
-
 Akcja dramatu rozgrywa się w Elsynorze (Helsingør), mieście portowym w Danii, a jej głównym miejscem jest zamek Kronborg.22 Wybór tej lokalizacji nie jest przypadkowy. W czasach Shakespeare'a zamek Kronborg był potężną renesansową fortecą, która kontrolowała strategiczną cieśninę Sund, oddzielającą Danię od Szwecji.22 Przez tę cieśninę, będącą bramą do Bałtyku, przepływały statki handlowe z całej Europy, a duński król pobierał od nich cło, co było głównym źródłem bogactwa i potęgi królestwa.22 Elsynor jest więc symbolem siły militarnej, kontroli i politycznej władzy, co stanowi ironiczne tło dla wewnętrznego rozkładu i moralnej zgnilizny, które toczą duński dwór od środka.
-
 
 OPIS WIZUALNY MIEJSC (OBOWIĄZKOWY)
 
-
-
-
 Architektura
-
 
 Zamek Kronborg, przebudowany w latach 70. XVI wieku przez króla Fryderyka II, jest wybitnym przykładem holenderskiego renesansu.24 Styl ten charakteryzuje się większą dekoracyjnością i bogactwem detali niż jego włoski odpowiednik.
    * Materiały: Konstrukcja zamku to połączenie czerwonej cegły z jasnym piaskowcem, używanym do tworzenia ozdobnych gzymsów, obramowań okien i poziomych pasów dekoracyjnych.25 Dachy pokryte są
 miedzią, która z czasem nabrała charakterystycznej, zielonej patyny (grynszpanu).24
    * Bryła: Zamek ma formę czteroskrzydłowej budowli otaczającej przestronny dziedziniec. Jego sylwetkę dominują wysokie, smukłe wieże i iglice, które nadają mu zarówno elegancji, jak i groźnego, fortecznego charakteru.26 Całość otoczona jest potężnymi fortyfikacjami: wysokimi wałami ziemnymi i ostro zarysowanymi, kanciastymi bastionami, co podkreśla jego militarną funkcję.22
 
-
 Kolory dominujące w scenerii
-
 
 Paleta barw jest surowa i zdeterminowana przez naturę oraz architekturę.
       * Na zewnątrz: Dominują ziemiste czerwienie cegły, blade beże piaskowca i wyblakła zieleń miedzianych dachów. Tłem dla tej palety są chłodne, często stonowane barwy północnego nieba i morza: szarości, błękity i biele, często przytłumione przez mgłę lub deszcz.
       * Wewnątrz: Wnętrza, zgodnie ze skandynawską estetyką, są stosunkowo proste i surowe. Przeważają białe, otynkowane ściany, kontrastujące z ciemnym drewnem podłóg, belek stropowych i prostych mebli.27 Ten minimalizm stanowi idealne tło dla bogatych, barwnych kostiumów dworzan i ciężkich, wzorzystych gobelinów, które są głównymi akcentami kolorystycznymi.
 
-
 Oświetlenie
-
 
 Oświetlenie odgrywa kluczową rolę w budowaniu atmosfery dramatu, operując na zasadzie ostrego kontrastu między światłem a cieniem.
       * Światło naturalne: W ciągu dnia wnętrza oświetlają duże, renesansowe okna, ale grube mury zamku sprawiają, że nawet wtedy wiele zakamarków tonie w półmroku. Światło jest chłodne, rozproszone, typowe dla północnej szerokości geograficznej.
       * Światło sztuczne: Po zmroku zamek pogrąża się w ciemności, rozpraszanej jedynie przez punktowe źródła światła. Na blankach i w korytarzach są to migoczące pochodnie, rzucające długie, ruchome cienie i wypełniające powietrze dymem.29 W salach reprezentacyjnych i komnatach używa się
 świec w kandelabrach i żyrandolach oraz ognia z potężnych kominków.30 Tworzy to wysepki ciepłego, złotego światła w morzu mroku, co wizualnie podkreśla motywy tajemnicy, spisku i ukrytej prawdy. Długie, wewnętrzne korytarze byłyby niemal całkowicie ciemne; poruszająca się po nich postać z pojedynczą świecą lub latarnią byłaby otoczona aurą światła, podczas gdy reszta przestrzeni pozostawałaby niewidoczna.29
 
-
 Atmosfera
-
 
 Atmosfera Elsynoru jest przesiąknięta chłodem – zarówno dosłownym, jak i metaforycznym.
          * Dźwięki: Na zewnątrz dominują odgłosy natury: świst wiatru na murach, skrzek mew, szum fal rozbijających się o fortyfikacje. Wewnątrz słychać echo kroków na kamiennych posadzkach, metaliczny zgrzyt zbroi i otwieranych krat. Te surowe dźwięki kontrastują z hałaśliwą, wymuszoną wesołością dworu Klaudiusza: fanfarami trąb, hukiem armatnich salw na cześć toastów i muzyką taneczną, które Hamlet określa z pogardą jako "wrzawę" (revelry).
          * Zapachy: Powietrze na zewnątrz pachnie solą morską, wilgotnym kamieniem i deszczem. Wewnątrz unosi się zapach dymu z kominków i pochodni, wosku pszczelego ze świec, pieczonego mięsa z kuchni oraz, w bardziej intymnych komnatach, być może ciężkich perfum.
          * Temperatura: Dramat rozpoczyna się w "przejmującym chłodzie" ("bitter cold") zimowej nocy. Uczucie zimna przenika całe dzieło, symbolizując emocjonalny chłód, śmierć i brak ludzkiego ciepła w relacjach na duńskim dworze. Nawet w ogrzewanych kominkami salach, kamienne mury emanują chłodem.24
 
-
 Ważne elementy scenografii i układ przestrzenny
-
 
          * Blanka (The Platform): Zewnętrzny taras strażniczy na szczycie murów obronnych. Przestrzeń otwarta, surowa, wystawiona na działanie żywiołów. Kamienna posadzka, niskie, zębate mury (krenelaż). Z blanków roztacza się widok na ciemne, wzburzone morze. To miejsce graniczne, zawieszone między światem ludzi a światem duchów, między porządkiem zamku a chaosem natury.
          * Sala Tronowa (A Room of State / The Great Hall): Największa i najbardziej reprezentacyjna sala w zamku, mająca ponad 60 metrów długości.22 Wysoki, być może kasetonowy lub belkowany sufit, masywne ściany i drewniana podłoga. Centralnym punktem jest podwyższenie (dais), na którym stoją
@@ -170,25 +120,15 @@ arras, czyli ciężki, wzorzysty gobelin wiszący na ścianie, za którym można
 świeżo wykopany, otwarty grób, z którego unosi się zapach wilgotnej ziemi. To miejsce ostatecznej konfrontacji z fizycznością śmierci i rozkładu.
 Zamek w Elsynorze nie jest jedynie tłem dla wydarzeń; jego architektura i atmosfera aktywnie współtworzą znaczenie dramatu. Potężne mury, które mają chronić Danię, stają się więzieniem dla Hamleta i sceną dla wewnętrznej zgnilizny. Labirynt korytarzy, ukrytych przejść i komnat, w których można podsłuchiwać za arrasem, wizualnie oddaje atmosferę paranoi i wszechobecnej zdrady. Można postrzegać zamek jako metaforę chorego organizmu państwowego – z zewnątrz imponujący i silny, wewnątrz toczony przez śmiertelną chorobę korupcji, która zaczęła się od trucizny wlanej do ucha króla, głowy państwa. W adaptacji wizualnej stan zamku mógłby ulegać subtelnej degradacji w miarę postępu akcji: na początku lśniący i uporządkowany, z czasem mógłby pokrywać się kurzem, wilgocią, a gobeliny mogłyby wydawać się bardziej wyblakłe, odzwierciedlając postępujący rozkład moralny jego mieszkańców.
 
-
 Czas akcji
-
-
-
 
 Konkretny okres historyczny
 
-
 Chociaż legenda o Amlecie sięga średniowiecza, świat przedstawiony w dramacie Shakespeare'a odpowiada realiom późnego renesansu, czyli końcówce XVI wieku, kiedy sztuka została napisana. Mentalność bohaterów, ich ubiór, obyczaje i dylematy moralne są osadzone w tej właśnie epoce.
-
 
 WIZUALNE MARKERY EPOKI
 
-
-
-
 Stroje charakterystyczne dla okresu
-
 
 Moda dworska przełomu XVI i XVII wieku była sztywna, strojna i miała na celu podkreślenie statusu społecznego.
             * Strój męski: Podstawą był dublet – dopasowany kaftan, często watowany z przodu, tworząc charakterystyczną sylwetkę "brzucha gołębiego" (peascod belly).37 Pod spodem noszono lnianą koszulę z wysokim kołnierzem. Dolną część stroju stanowiły
@@ -198,854 +138,696 @@ płaszcze. Nieodłącznym elementem stroju arystokraty była krezka (ruff) – s
 suknię spodnią (kirtle) oraz suknię wierzchnią (gown), często z rozciętym przodem, by ukazać bogatszą tkaninę spodniej warstwy.39 Podobnie jak u mężczyzn, szyję zdobiła krezka. Rękawy często były osobnym elementem, przywiązywanym do sukni. Strój królowej Gertrudy byłby wykonany z najdroższych materiałów, zdobiony perłami i klejnotami.42 Strój Ofelii, jako niezamężnej panny, byłby skromniejszy, w jaśniejszych kolorach, symbolizujących jej niewinność.
             * Strój żałobny: Czerń była kolorem głębokiej żałoby. Hamlet nosi "nocną barwę" ("nighted colour").44 Tkaniny żałobne były matowe, pozbawione połysku, jak czarna wełna.45 Kobiety w żałobie mogły również nosić białe elementy, zwłaszcza nakrycia głowy, takie jak dopasowany lniany czepek w stylu "Marii Stuart".47
 
-
 Środki transportu
-
 
 W obrębie zamku poruszano się pieszo. Do dalszych podróży (Laertes do Francji, Hamlet do Anglii) używano koni oraz statków żaglowych typowych dla XVI wieku – z wysokimi kasztelami na rufie i dziobie. Widok takiego statku w porcie w Elsynorze byłby codziennością.28
 
-
 Technologia i przedmioty codziennego użytku
-
 
                * Broń: Podstawową bronią osobistą szlachcica był rapier – długa, cienka, przeznaczona głównie do pchnięć szpada, z misternie wykonaną, koszową osłoną dłoni (tzw. jelec koszowy lub swept hilt).48 W pojedynkach często używano go w parze z
 lewikiem (main-gauche) – sztyletem trzymanym w lewej dłoni do parowania ciosów.50
                * Przedmioty: Pisano gęsim piórem i atramentem. Hamlet jest przedstawiony jako człowiek czytający książkę. Na stołach królewskich stałyby bogato zdobione kielichy i puchary ze srebra, złota lub cyny.51
 
-
 Czas trwania akcji
-
 
 Akcja dramatu jest skondensowana i rozgrywa się na przestrzeni kilku miesięcy. Od śmierci króla Hamleta do początku sztuki minęły "niecałe dwa miesiące".19 Wydarzenia od pierwszego pojawienia się Ducha do wyjazdu Hamleta do Anglii zajmują prawdopodobnie kilka tygodni. Czas jego podróży i powrotu jest nieokreślony, ale po powrocie akcja gwałtownie przyspiesza, a finałowe wydarzenia rozgrywają się w ciągu jednego dnia.
 
-
 Kontekst historyczny
-
 
 Wydarzenia historyczne w tle dramatu są fikcyjne, ale odzwierciedlają realne napięcia polityczne epoki. Głównym konfliktem jest długotrwała rywalizacja między Danią a Norwegią.1 Stary król Hamlet w przeszłości pokonał w pojedynku króla Norwegii, Fortinbrasa, i zajął jego ziemie. Teraz młody Fortinbras, książę Norwegii, zbiera armię "bezwzględnych zuchów", by odzyskać utracone terytoria.53 Ta groźba inwazji stanowi stałe tło dla osobistego dramatu Hamleta i podkreśla, że zbrodnia Klaudiusza osłabiła państwo, czyniąc je podatnym na zewnętrzny atak.
 
-
 Kontekst społeczny
 
-
-
-
 Struktura społeczna
-
 
 Społeczeństwo przedstawione w dramacie jest silnie zhierarchizowane, co odzwierciedla elżbietański model "Wielkiego Łańcucha Bytu" (Great Chain of Being), w którym każda istota miała swoje wyznaczone przez Boga miejsce w porządku świata.54
                   * Monarcha: Stojący na szczycie, uważany za bożego pomazańca. Zbrodnia królobójstwa była nie tylko aktem politycznym, ale i świętokradztwem, naruszeniem boskiego porządku.
                   * Arystokracja i dworzanie: (Poloniusz, Laertes, Ofelia, Rozenkranc i Gildenstern) – ich życie toczy się wokół dworu, a ich pozycja zależy od łaski króla. To świat intryg, pochlebstw i walki o wpływy.
                   * Ludzie prości: (strażnicy, aktorzy, grabarz) – reprezentują świat poza dworem, często cechuje ich prostszy, bardziej bezpośredni sposób bycia i mówienia. Grabarz, ze swoim czarnym humorem, jest w stanie mówić prawdę w sposób niedostępny dla dworzan.
 
-
 Normy i obyczaje epoki
-
 
                   * Zemsta: Dylemat Hamleta wynika ze zderzenia dwóch kodeksów moralnych. Z jednej strony, istniał głęboko zakorzeniony, feudalny obowiązek pomszczenia krwi zamordowanego krewnego, postrzegany jako kwestia honoru.55 Z drugiej strony,
 doktryna chrześcijańska (zarówno katolicka, jak i protestancka) potępiała prywatną zemstę, głosząc, że "Pomsta do mnie należy, Ja odpłacę, mówi Pan" (List do Rzymian 12:19).55 Hamlet, jako renesansowy intelektualista i chrześcijanin, jest rozdarty między tymi dwoma imperatywami.
                   * Rola kobiet: Kobiety w społeczeństwie patriarchalnym miały bardzo ograniczoną swobodę. Oczekiwano od nich cnoty, posłuszeństwa i milczenia. Ich los był całkowicie zależny od mężczyzn: ojca, brata, a następnie męża.54 Tragedia Ofelii jest tego najdobitniejszym przykładem. Jest ona instrumentem w rękach Poloniusza i Klaudiusza, a jej tożsamość i działania są całkowicie zdeterminowane przez męskie autorytety.
 
-
 CZĘŚĆ III: BOHATEROWIE
-
 
 Analiza postaci w Hamlecie musi wykraczać poza ich funkcje fabularne, skupiając się na głębi psychologicznej oraz, co kluczowe dla celów adaptacyjnych, na szczegółowym opisie ich wyglądu, który odzwierciedla ich charakter, status i stan emocjonalny.
 
-
 Protagoniści
-
-
-
 
 Hamlet
 
-
-                     * OPIS FIZYCZNY (OBOWIĄZKOWY):
-                     * Dokładny wiek: Tekst dostarcza sprzecznych sygnałów, co jest jednym z najsłynniejszych problemów interpretacyjnych. W Akcie V, scena i, Grabarz jednoznacznie stwierdza, że pracuje od dnia narodzin Hamleta i robi to od 30 lat, co czyni księcia trzydziestolatkiem.56 Ta informacja, prawdopodobnie dodana w późniejszej wersji tekstu, aby dopasować rolę do wieku aktora Richarda Burbage'a, nadaje Hamletowi rys dojrzałego mężczyzny w kryzysie egzystencjalnym.56 Jednak jego status studenta na uniwersytecie w Wittenberdze oraz młodzieńcza porywczość i idealizm sugerują wiek znacznie niższy, być może
+    * OPIS FIZYCZNY (OBOWIĄZKOWY):
+    * Dokładny wiek: Tekst dostarcza sprzecznych sygnałów, co jest jednym z najsłynniejszych problemów interpretacyjnych. W Akcie V, scena i, Grabarz jednoznacznie stwierdza, że pracuje od dnia narodzin Hamleta i robi to od 30 lat, co czyni księcia trzydziestolatkiem.56 Ta informacja, prawdopodobnie dodana w późniejszej wersji tekstu, aby dopasować rolę do wieku aktora Richarda Burbage'a, nadaje Hamletowi rys dojrzałego mężczyzny w kryzysie egzystencjalnym.56 Jednak jego status studenta na uniwersytecie w Wittenberdze oraz młodzieńcza porywczość i idealizm sugerują wiek znacznie niższy, być może
 około 20-22 lat.59 Adaptacja musi dokonać świadomego wyboru: czy przedstawić Hamleta jako młodzieńca, którego świat legł w gruzach, czy jako dojrzałego mężczyznę, którego życie straciło sens.
-                     * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jedyną wskazówką jest komentarz Gertrudy podczas pojedynku: "Jest otyły i brak mu tchu" ("He's fat, and scant of breath") [V.ii]. Elżbietańskie słowo "fat" mogło oznaczać "spocony", "zdyszany" lub "nie w formie", a niekoniecznie otyły w dzisiejszym rozumieniu. Sugeruje to, że Hamlet nie jest zaprawionym w bojach atletą, lecz raczej intelektualistą. Wizualnie, można go przedstawić jako mężczyznę o przeciętnej lub smukłej budowie, być może wychudzonego z powodu żałoby i stresu, a komentarz matki odnosiłby się do jego zmęczenia podczas intensywnej walki.
-                     * Kolor i styl włosów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Tradycyjnie przedstawiany jako ciemny blondyn lub szatyn, z włosami nieco dłuższymi, w artystycznym nieładzie, co podkreśla jego naturę myśliciela i buntownika.
-                     * Kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Twarz powinna być niezwykle ekspresyjna, zdolna oddać szeroką gamę emocji: od głębokiej melancholii i bólu, przez ironiczny dystans i cynizm, po nagłe wybuchy gniewu i szaleństwa. Spojrzenie inteligentne, przenikliwe, często zamyślone lub przepełnione cierpieniem.
-                     * Charakterystyczne cechy: Brak blizn czy tatuaży. Jego cechą charakterystyczną jest jego postawa i sposób bycia.
-                     * Typowy ubiór: Na początku dramatu jego wizerunek definiuje strój żałobny. Nosi wyłącznie czerń – "nocną barwę" ("nighted colour").1 Jest to prosty, lecz elegancki strój dworski:
+    * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jedyną wskazówką jest komentarz Gertrudy podczas pojedynku: "Jest otyły i brak mu tchu" ("He's fat, and scant of breath") [V.ii]. Elżbietańskie słowo "fat" mogło oznaczać "spocony", "zdyszany" lub "nie w formie", a niekoniecznie otyły w dzisiejszym rozumieniu. Sugeruje to, że Hamlet nie jest zaprawionym w bojach atletą, lecz raczej intelektualistą. Wizualnie, można go przedstawić jako mężczyznę o przeciętnej lub smukłej budowie, być może wychudzonego z powodu żałoby i stresu, a komentarz matki odnosiłby się do jego zmęczenia podczas intensywnej walki.
+    * Kolor i styl włosów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Tradycyjnie przedstawiany jako ciemny blondyn lub szatyn, z włosami nieco dłuższymi, w artystycznym nieładzie, co podkreśla jego naturę myśliciela i buntownika.
+    * Kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Twarz powinna być niezwykle ekspresyjna, zdolna oddać szeroką gamę emocji: od głębokiej melancholii i bólu, przez ironiczny dystans i cynizm, po nagłe wybuchy gniewu i szaleństwa. Spojrzenie inteligentne, przenikliwe, często zamyślone lub przepełnione cierpieniem.
+    * Charakterystyczne cechy: Brak blizn czy tatuaży. Jego cechą charakterystyczną jest jego postawa i sposób bycia.
+    * Typowy ubiór: Na początku dramatu jego wizerunek definiuje strój żałobny. Nosi wyłącznie czerń – "nocną barwę" ("nighted colour").1 Jest to prosty, lecz elegancki strój dworski:
 czarny aksamitny lub wełniany dublet, czarne nogawice i czarny płaszcz.40 Brak ozdób, biżuterii czy jaskrawych kolorów, co wizualnie oddziela go od reszty dworu. W scenach udawanego szaleństwa jego wygląd ulega drastycznej zmianie. Zgodnie z opisem Ofelii, jest to obraz kompletnego rozprzężenia:
 dublet rozpięty, bez kapelusza, nogawice brudne, zwisające do kostek, bez podwiązek [II.i].60 To świadoma kreacja wizualna, mająca na celu przekonanie otoczenia o jego obłędzie. W finałowej scenie pojedynku nosi
 białą, lnianą koszulę szermierczą, co symbolizuje pewną czystość intencji w ostatecznej konfrontacji, ale także czyni go bardziej bezbronnym.
-                     * Sposób poruszania się, gesty, mimika: Jego ruchy są zmienne jak jego nastrój. W chwilach melancholii porusza się powoli, jest zgarbiony, pogrążony w myślach. W momentach "szaleństwa" jego gesty stają się gwałtowne, nieprzewidywalne, a mimika wyostrzona. W rozmowach z Horacym jest spokojny i naturalny. Często wykonuje gesty nerwowe, jak przecieranie twarzy, czy niespokojne chodzenie po scenie.
-                        * Motywacje i cele: Początkowo jego motywacją jest żałoba po ojcu i wstręt do matki za jej pośpieszne małżeństwo. Po spotkaniu z Duchem jego celem staje się pomszczenie ojca. Jednak jego humanistyczna, refleksyjna natura komplikuje ten cel. Zamiast działać, pogrąża się w analizie, kwestionując wiarygodność Ducha, moralność zemsty i sens samego istnienia.58
-                        * Rozwój psychologiczny: Hamlet przechodzi transformację od pogrążonego w żalu, idealistycznego młodzieńca do cynicznego, rozczarowanego światem człowieka, który postrzega Danię jako więzienie, a świat jako "nieplewiony ogród".63 Jego podróż prowadzi przez coraz większą izolację, paranoję i obsesję na punkcie śmierci. W finale osiąga stan stoickiej akceptacji losu ("gotowość jest wszystkim" - "the readiness is all"), co pozwala mu wreszcie podjąć ostateczne działanie.1
-                        * Relacje między bohaterami:
-                        * Z Horacym: Jedyna relacja oparta na szczerości i zaufaniu. Horacy jest dla Hamleta powiernikiem, głosem rozsądku i jedynym prawdziwym przyjacielem.65
-                        * Z Ofelią: Złożona i tragiczna. Początkowa miłość zostaje zniszczona przez misję Hamleta. Jego okrucieństwo wobec niej jest częściowo elementem udawanego szaleństwa, a częściowo wynikiem jego ogólnego rozczarowania kobietami, spowodowanego postawą matki.
-                        * Z Gertrudą: Relacja pełna miłości, bólu i oskarżeń. Hamlet jest rozdarty między synowskim uczuciem a obrzydzeniem do jej "kazirodczego" związku. Jego konfrontacja z nią w jej komnacie jest psychologicznym punktem zwrotnym dramatu.
-                        * Z Klaudiuszem: Relacja oparta na nienawiści, pogardzie i śmiertelnej rywalizacji. To intelektualna i psychologiczna gra w kotka i myszkę, która prowadzi do ostatecznej, krwawej konfrontacji.
-
+    * Sposób poruszania się, gesty, mimika: Jego ruchy są zmienne jak jego nastrój. W chwilach melancholii porusza się powoli, jest zgarbiony, pogrążony w myślach. W momentach "szaleństwa" jego gesty stają się gwałtowne, nieprzewidywalne, a mimika wyostrzona. W rozmowach z Horacym jest spokojny i naturalny. Często wykonuje gesty nerwowe, jak przecieranie twarzy, czy niespokojne chodzenie po scenie.
+    * Motywacje i cele: Początkowo jego motywacją jest żałoba po ojcu i wstręt do matki za jej pośpieszne małżeństwo. Po spotkaniu z Duchem jego celem staje się pomszczenie ojca. Jednak jego humanistyczna, refleksyjna natura komplikuje ten cel. Zamiast działać, pogrąża się w analizie, kwestionując wiarygodność Ducha, moralność zemsty i sens samego istnienia.58
+    * Rozwój psychologiczny: Hamlet przechodzi transformację od pogrążonego w żalu, idealistycznego młodzieńca do cynicznego, rozczarowanego światem człowieka, który postrzega Danię jako więzienie, a świat jako "nieplewiony ogród".63 Jego podróż prowadzi przez coraz większą izolację, paranoję i obsesję na punkcie śmierci. W finale osiąga stan stoickiej akceptacji losu ("gotowość jest wszystkim" - "the readiness is all"), co pozwala mu wreszcie podjąć ostateczne działanie.1
+    * Relacje między bohaterami:
+    * Z Horacym: Jedyna relacja oparta na szczerości i zaufaniu. Horacy jest dla Hamleta powiernikiem, głosem rozsądku i jedynym prawdziwym przyjacielem.65
+    * Z Ofelią: Złożona i tragiczna. Początkowa miłość zostaje zniszczona przez misję Hamleta. Jego okrucieństwo wobec niej jest częściowo elementem udawanego szaleństwa, a częściowo wynikiem jego ogólnego rozczarowania kobietami, spowodowanego postawą matki.
+    * Z Gertrudą: Relacja pełna miłości, bólu i oskarżeń. Hamlet jest rozdarty między synowskim uczuciem a obrzydzeniem do jej "kazirodczego" związku. Jego konfrontacja z nią w jej komnacie jest psychologicznym punktem zwrotnym dramatu.
+    * Z Klaudiuszem: Relacja oparta na nienawiści, pogardzie i śmiertelnej rywalizacji. To intelektualna i psychologiczna gra w kotka i myszkę, która prowadzi do ostatecznej, krwawej konfrontacji.
 
 Postacie drugoplanowe
 
-
-
-
 Klaudiusz (Claudius)
 
-
-                        * WYGLĄD KAŻDEJ POSTACI:
-                        * Wiek: Późne lata 40. lub wczesne 50., w wieku zbliżonym do swojego zmarłego brata.
-                        * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jego wygląd powinien emanować władzą, pewnością siebie i urokiem polityka. Jest elokwentny i potrafi zjednywać sobie ludzi.66 Hamlet w pogardzie porównuje go do lubieżnego
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Późne lata 40. lub wczesne 50., w wieku zbliżonym do swojego zmarłego brata.
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jego wygląd powinien emanować władzą, pewnością siebie i urokiem polityka. Jest elokwentny i potrafi zjednywać sobie ludzi.66 Hamlet w pogardzie porównuje go do lubieżnego
 satyra, w kontraście do boskiego Hyperiona, jakim był jego ojciec [I.ii].19 Sugeruje to, że Klaudiusz może być mniej majestatyczny, bardziej przyziemny i zmysłowy w wyglądzie niż jego brat. Może mieć skłonność do rumieńców, co zdradzałoby jego zamiłowanie do picia.
-                        * Ubiór: Jako król nosi najwspanialsze stroje dworskie: dublety z bogatego aksamitu i jedwabiu w królewskich kolorach (purpura, szkarłat, złoto), zdobione futrami, złotymi łańcuchami i klejnotami. Jego strój jest manifestacją władzy i próbą legitymizacji jego panowania.43
-                           * Funkcja w fabule: Główny antagonista. Jego zbrodnia bratobójstwa jest pierwotnym grzechem, który zatruwa całą Danię.67 Jest postacią złożoną: z jednej strony to bezwzględny, ambitny i lubieżny morderca, z drugiej – sprawny władca i człowiek zdolny do odczuwania ciężaru winy (scena modlitwy), co czyni go w pełni ludzkim, a nie karykaturalnym złoczyńcą.66
-
+    * Ubiór: Jako król nosi najwspanialsze stroje dworskie: dublety z bogatego aksamitu i jedwabiu w królewskich kolorach (purpura, szkarłat, złoto), zdobione futrami, złotymi łańcuchami i klejnotami. Jego strój jest manifestacją władzy i próbą legitymizacji jego panowania.43
+    * Funkcja w fabule: Główny antagonista. Jego zbrodnia bratobójstwa jest pierwotnym grzechem, który zatruwa całą Danię.67 Jest postacią złożoną: z jednej strony to bezwzględny, ambitny i lubieżny morderca, z drugiej – sprawny władca i człowiek zdolny do odczuwania ciężaru winy (scena modlitwy), co czyni go w pełni ludzkim, a nie karykaturalnym złoczyńcą.66
 
 Gertruda (Gertrude)
 
-
-                           * WYGLĄD KAŻDEJ POSTACI:
-                           * Wiek: Około 45-50 lat. Wystarczająco dojrzała, by mieć 30-letniego syna, ale wciąż na tyle atrakcyjna, by wzbudzać namiętność Klaudiusza.
-                           * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Powinna być przedstawiona jako kobieta o królewskiej postawie i urodzie, ale w jej twarzy może być widoczna pewna słabość, bierność lub zmysłowość. Jej charakter definiuje potrzeba bycia w centrum męskiej uwagi i zapewnienia sobie stabilności.
-                           * Ubiór: Jej suknie są luksusowe, zgodne z najnowszą modą, wykonane z drogich tkanin w nasyconych, klejnotowych barwach. Po śmierci męża szybko porzuca strój żałobny na rzecz weselnych kreacji, co jest wizualnym symbolem jej moralnej słabości w oczach Hamleta.42 W intymnej scenie w swojej komnacie mogłaby nosić
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Około 45-50 lat. Wystarczająco dojrzała, by mieć 30-letniego syna, ale wciąż na tyle atrakcyjna, by wzbudzać namiętność Klaudiusza.
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Powinna być przedstawiona jako kobieta o królewskiej postawie i urodzie, ale w jej twarzy może być widoczna pewna słabość, bierność lub zmysłowość. Jej charakter definiuje potrzeba bycia w centrum męskiej uwagi i zapewnienia sobie stabilności.
+    * Ubiór: Jej suknie są luksusowe, zgodne z najnowszą modą, wykonane z drogich tkanin w nasyconych, klejnotowych barwach. Po śmierci męża szybko porzuca strój żałobny na rzecz weselnych kreacji, co jest wizualnym symbolem jej moralnej słabości w oczach Hamleta.42 W intymnej scenie w swojej komnacie mogłaby nosić
 koszulę nocną i szlafrok.
-                              * Funkcja w fabule: Jej pośpieszne małżeństwo jest jednym z głównych motorów napędowych rozpaczy i gniewu Hamleta. Jej moralność jest niejednoznaczna – czy jest świadomą wspólniczką zbrodni, czy tylko płytką, słabą kobietą, która nie zdaje sobie sprawy z ogromu zła, w którym uczestniczy? Tekst sugeruje raczej to drugie, zwłaszcza w scenie konfrontacji z Hamletem, gdzie wydaje się autentycznie zszokowana jego oskarżeniami.69
-
+    * Funkcja w fabule: Jej pośpieszne małżeństwo jest jednym z głównych motorów napędowych rozpaczy i gniewu Hamleta. Jej moralność jest niejednoznaczna – czy jest świadomą wspólniczką zbrodni, czy tylko płytką, słabą kobietą, która nie zdaje sobie sprawy z ogromu zła, w którym uczestniczy? Tekst sugeruje raczej to drugie, zwłaszcza w scenie konfrontacji z Hamletem, gdzie wydaje się autentycznie zszokowana jego oskarżeniami.69
 
 Poloniusz (Polonius)
 
-
-                              * WYGLĄD KAŻDEJ POSTACI:
-                              * Wiek: Starszy mężczyzna, około 60-70 lat.
-                              * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Często przedstawiany z długą, siwą brodą, co pasuje do jego statusu "nestora" dworu. Może być lekko przygarbiony, poruszać się z pewną ostrożnością, ale jego oczy powinny być bystre i ciekawskie, odzwierciedlając jego wścibską naturę.
-                              * Ubiór: Nosi formalne, ciemne szaty wysokiego urzędnika państwowego, być może z futrzanym kołnierzem, co podkreśla jego pozycję głównego doradcy króla. Jego strój jest konserwatywny i dostojny.
-                              * Funkcja w fabule: Jest uosobieniem służalczości i zepsucia dworu. To pompatyczny, gadatliwy intrygant, który nie waha się szpiegować własnych dzieci.70 Choć jego rozwlekłe mowy często wprowadzają element komiczny, jego działania mają tragiczne skutki, prowadząc bezpośrednio do jego śmierci i szaleństwa Ofelii.72
-
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Starszy mężczyzna, około 60-70 lat.
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Często przedstawiany z długą, siwą brodą, co pasuje do jego statusu "nestora" dworu. Może być lekko przygarbiony, poruszać się z pewną ostrożnością, ale jego oczy powinny być bystre i ciekawskie, odzwierciedlając jego wścibską naturę.
+    * Ubiór: Nosi formalne, ciemne szaty wysokiego urzędnika państwowego, być może z futrzanym kołnierzem, co podkreśla jego pozycję głównego doradcy króla. Jego strój jest konserwatywny i dostojny.
+    * Funkcja w fabule: Jest uosobieniem służalczości i zepsucia dworu. To pompatyczny, gadatliwy intrygant, który nie waha się szpiegować własnych dzieci.70 Choć jego rozwlekłe mowy często wprowadzają element komiczny, jego działania mają tragiczne skutki, prowadząc bezpośrednio do jego śmierci i szaleństwa Ofelii.72
 
 Ofelia (Ophelia)
 
-
-                              * WYGLĄD KAŻDEJ POSTACI:
-                              * Wiek: Bardzo młoda, prawdopodobnie 16-18 lat.
-                              * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Tradycyjnie jest uosobieniem niewinności i piękna: jasna cera, długie włosy (często blond), delikatna budowa ciała. Jej wygląd powinien podkreślać jej kruchość i wrażliwość.
-                              * Ubiór: Jej suknie są skromniejsze niż królowej, w jasnych, pastelowych kolorach (biel, błękit, jasny róż), co symbolizuje jej czystość i dziewictwo. W scenie obłędu jej wygląd drastycznie się zmienia: włosy ma rozpuszczone i potargane, suknię pogniecioną lub lekko naddartą, w rękach trzyma pęk polnych kwiatów i ziół.61 Opis jej śmierci przedstawia ją w wodzie, otoczoną "fantastycznymi girlandami" z kwiatów, co tworzy tragiczny i piękny obraz.74
-                              * Funkcja w fabule: Jest tragiczną ofiarą zepsutego świata Elsynoru. Używana jako pionek przez wszystkich mężczyzn w jej życiu, staje się symbolem zniszczonej niewinności. Jej prawdziwe szaleństwo stanowi poruszający kontrast dla udawanego obłędu Hamleta.61
-
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Bardzo młoda, prawdopodobnie 16-18 lat.
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Tradycyjnie jest uosobieniem niewinności i piękna: jasna cera, długie włosy (często blond), delikatna budowa ciała. Jej wygląd powinien podkreślać jej kruchość i wrażliwość.
+    * Ubiór: Jej suknie są skromniejsze niż królowej, w jasnych, pastelowych kolorach (biel, błękit, jasny róż), co symbolizuje jej czystość i dziewictwo. W scenie obłędu jej wygląd drastycznie się zmienia: włosy ma rozpuszczone i potargane, suknię pogniecioną lub lekko naddartą, w rękach trzyma pęk polnych kwiatów i ziół.61 Opis jej śmierci przedstawia ją w wodzie, otoczoną "fantastycznymi girlandami" z kwiatów, co tworzy tragiczny i piękny obraz.74
+    * Funkcja w fabule: Jest tragiczną ofiarą zepsutego świata Elsynoru. Używana jako pionek przez wszystkich mężczyzn w jej życiu, staje się symbolem zniszczonej niewinności. Jej prawdziwe szaleństwo stanowi poruszający kontrast dla udawanego obłędu Hamleta.61
 
 Laertes
 
-
-                              * WYGLĄD KAŻDEJ POSTACI:
-                              * Wiek: Młody mężczyzna, wczesne lata 20. (np. 22-25 lat).
-                              * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Powinien być przystojny, wysportowany i pewny siebie. Jest opisywany jako doskonały szermierz, co sugeruje zwinność i siłę.
-                              * Ubiór: Nosi modny strój młodego szlachcica studiującego we Francji – stylowy dublet, spodnie, być może krótki płaszcz. W scenie pojedynku, podobnie jak Hamlet, ma na sobie białą koszulę szermierczą.
-                              * Funkcja w fabule: Laertes jest głównym kontrapunktem (foilem) dla Hamleta. Obaj pragną pomścić śmierć ojca, ale ich metody są skrajnie różne. Laertes działa natychmiastowo, gwałtownie i bezrefleksyjnie, wdzierając się do zamku z żądaniem zemsty.76 Jego postać ukazuje niebezpieczeństwa działania bez namysłu, tak jak postać Hamleta ukazuje paraliż wynikający z nadmiaru myślenia.78
-
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Młody mężczyzna, wczesne lata 20. (np. 22-25 lat).
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Powinien być przystojny, wysportowany i pewny siebie. Jest opisywany jako doskonały szermierz, co sugeruje zwinność i siłę.
+    * Ubiór: Nosi modny strój młodego szlachcica studiującego we Francji – stylowy dublet, spodnie, być może krótki płaszcz. W scenie pojedynku, podobnie jak Hamlet, ma na sobie białą koszulę szermierczą.
+    * Funkcja w fabule: Laertes jest głównym kontrapunktem (foilem) dla Hamleta. Obaj pragną pomścić śmierć ojca, ale ich metody są skrajnie różne. Laertes działa natychmiastowo, gwałtownie i bezrefleksyjnie, wdzierając się do zamku z żądaniem zemsty.76 Jego postać ukazuje niebezpieczeństwa działania bez namysłu, tak jak postać Hamleta ukazuje paraliż wynikający z nadmiaru myślenia.78
 
 Horacy (Horatio)
 
-
-                              * WYGLĄD KAŻDEJ POSTACI:
-                              * Wiek: Rówieśnik Hamleta, około 30 lat.
-                              * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jego wygląd powinien odzwierciedlać jego charakter – spokojny, zrównoważony, inteligentny. To człowiek, na którego twarzy maluje się rozsądek i lojalność.
-                              * Ubiór: Nosi skromny, ciemny strój uczonego z Wittenbergi, mniej ozdobny niż stroje dworskie. Jego ubiór jest praktyczny i prosty, co podkreśla, że nie jest częścią zepsutego dworu.
-                              * Funkcja w fabule: Jest jedynym prawdziwym przyjacielem i powiernikiem Hamleta. Jego lojalność i racjonalizm stanowią punkt odniesienia dla pogrążającego się w chaosie świata i umysłu Hamleta.65 Jako jedyny ocalały z głównych bohaterów, otrzymuje zadanie opowiedzenia prawdziwej historii o tragedii, stając się strażnikiem pamięci i prawdy.80
-
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Rówieśnik Hamleta, około 30 lat.
+    * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jego wygląd powinien odzwierciedlać jego charakter – spokojny, zrównoważony, inteligentny. To człowiek, na którego twarzy maluje się rozsądek i lojalność.
+    * Ubiór: Nosi skromny, ciemny strój uczonego z Wittenbergi, mniej ozdobny niż stroje dworskie. Jego ubiór jest praktyczny i prosty, co podkreśla, że nie jest częścią zepsutego dworu.
+    * Funkcja w fabule: Jest jedynym prawdziwym przyjacielem i powiernikiem Hamleta. Jego lojalność i racjonalizm stanowią punkt odniesienia dla pogrążającego się w chaosie świata i umysłu Hamleta.65 Jako jedyny ocalały z głównych bohaterów, otrzymuje zadanie opowiedzenia prawdziwej historii o tragedii, stając się strażnikiem pamięci i prawdy.80
 
 Duch ojca Hamleta (Ghost of Hamlet's Father)
 
-
-                              * WYGLĄD KAŻDEJ POSTACI:
-                              * Wiek: Wygląda jak mężczyzna w wieku około 50 lat, jakim był w chwili śmierci.
-                              * Podstawowe cechy fizyczne: Jest dokładnym sobowtórem zmarłego króla. Horacy opisuje jego "piękną i wojowniczą postać" oraz twarz wyrażającą bardziej smutek niż gniew. Ma brodę "srebrzoną sobolami" (czarną, przyprószoną siwizną).
-                              * Ubiór: W scenach na blankach pojawia się w pełnej zbroi płytowej, "od stóp do głów" (cap-a-pie), takiej samej, jaką nosił w walce z królem Norwegii.81 Ten wojenny strój podkreśla, że zagrożenie dla Danii ma wymiar państwowy. W scenie w komnacie Gertrudy pojawia się w "stroju, w jakim chadzał za życia" ("habit as he lived"), co sugeruje bardziej prywatny ubiór, jak
+    * WYGLĄD KAŻDEJ POSTACI:
+    * Wiek: Wygląda jak mężczyzna w wieku około 50 lat, jakim był w chwili śmierci.
+    * Podstawowe cechy fizyczne: Jest dokładnym sobowtórem zmarłego króla. Horacy opisuje jego "piękną i wojowniczą postać" oraz twarz wyrażającą bardziej smutek niż gniew. Ma brodę "srebrzoną sobolami" (czarną, przyprószoną siwizną).
+    * Ubiór: W scenach na blankach pojawia się w pełnej zbroi płytowej, "od stóp do głów" (cap-a-pie), takiej samej, jaką nosił w walce z królem Norwegii.81 Ten wojenny strój podkreśla, że zagrożenie dla Danii ma wymiar państwowy. W scenie w komnacie Gertrudy pojawia się w "stroju, w jakim chadzał za życia" ("habit as he lived"), co sugeruje bardziej prywatny ubiór, jak
 szlafrok lub domowy kaftan, co czyni jego wizytę bardziej osobistą.
-
 
 Analiza psychologiczna
 
-
 Postaci w Hamlecie można analizować przez pryzmat archetypów, ale ich siła leży w psychologicznej złożoności, która wykracza poza proste schematy.
-                                 * Archetypy bohaterów:
-                                 * Hamlet: Bohater-Mściciel, ale także Myśliciel/Filozof. Jego tragedia wynika z konfliktu między tymi dwiema rolami.
-                                 * Klaudiusz: Uzurpator/Tyran i Antagonista. Jest klasycznym czarnym charakterem, ale z głębią psychologiczną.58
-                                 * Ofelia: Niewinna Ofiara (The Innocent). Jej los ilustruje niszczycielski wpływ zepsutego świata na czystość.
-                                 * Gertruda: Archetyp Królowej-Matki, ale jej postać jest moralnie niejednoznaczna, balansując między wizerunkiem wspólniczki a nieświadomej ofiary.
-                                 * Horacy: Wierny Towarzysz/Głos Rozsądku.
-                                 * Konflikty wewnętrzne: Głównym konfliktem wewnętrznym jest ten przeżywany przez Hamleta: myśl kontra działanie. Waha się między obowiązkiem zemsty a moralnymi i religijnymi skrupułami. Klaudiusz zmaga się z poczuciem winy kontra pragnieniem utrzymania władzy. Gertruda jest rozdarta między lojalnością wobec nowego męża a miłością do syna.
-                                 * Jak wygląd odzwierciedla osobowość: Szekspir mistrzowsko używa wyglądu zewnętrznego jako klucza do wnętrza postaci. Czerń Hamleta to wizualny symbol jego żałoby i alienacji. Blichtr i jaskrawe kolory strojów Klaudiusza i Gertrudy maskują ich moralne zepsucie. Niechlujny wygląd Hamleta w stanie "obłędu" i rozczochrane włosy Ofelii w jej szaleństwie są zewnętrznymi znakami wewnętrznego chaosu.
+    * Archetypy bohaterów:
+    * Hamlet: Bohater-Mściciel, ale także Myśliciel/Filozof. Jego tragedia wynika z konfliktu między tymi dwiema rolami.
+    * Klaudiusz: Uzurpator/Tyran i Antagonista. Jest klasycznym czarnym charakterem, ale z głębią psychologiczną.58
+    * Ofelia: Niewinna Ofiara (The Innocent). Jej los ilustruje niszczycielski wpływ zepsutego świata na czystość.
+    * Gertruda: Archetyp Królowej-Matki, ale jej postać jest moralnie niejednoznaczna, balansując między wizerunkiem wspólniczki a nieświadomej ofiary.
+    * Horacy: Wierny Towarzysz/Głos Rozsądku.
+    * Konflikty wewnętrzne: Głównym konfliktem wewnętrznym jest ten przeżywany przez Hamleta: myśl kontra działanie. Waha się między obowiązkiem zemsty a moralnymi i religijnymi skrupułami. Klaudiusz zmaga się z poczuciem winy kontra pragnieniem utrzymania władzy. Gertruda jest rozdarta między lojalnością wobec nowego męża a miłością do syna.
+    * Jak wygląd odzwierciedla osobowość: Szekspir mistrzowsko używa wyglądu zewnętrznego jako klucza do wnętrza postaci. Czerń Hamleta to wizualny symbol jego żałoby i alienacji. Blichtr i jaskrawe kolory strojów Klaudiusza i Gertrudy maskują ich moralne zepsucie. Niechlujny wygląd Hamleta w stanie "obłędu" i rozczochrane włosy Ofelii w jej szaleństwie są zewnętrznymi znakami wewnętrznego chaosu.
 Postaci Laertesa i Fortinbrasa pełnią kluczową funkcję strukturalną jako kontrapunkty dla Hamleta, ucieleśniając alternatywne ścieżki działania, które on sam odrzuca lub których nie jest w stanie podjąć. Laertes reprezentuje ścieżkę bezpośredniej, namiętnej zemsty. Jego reakcja na śmierć ojca jest natychmiastowa i gwałtowna – jest to działanie pozbawione refleksji, które czyni go łatwym narzędziem w rękach Klaudiusza. Fortinbras uosabia ścieżkę pragmatycznej, politycznej akcji. On również pragnie pomsty, ale kanalizuje ją w zorganizowane działania militarne, dążąc do odzyskania honoru i terytorium. W kontraście do nich, Hamlet wybiera trzecią drogę: drogę introspekcji, moralnej deliberacji i filozoficznego zwątpienia. Poprzez zestawienie tych trzech postaci, dramat nie tyle daje odpowiedź na pytanie, która droga jest "słuszna", ile ukazuje tragiczne konsekwencje każdej z nich. W adaptacji wizualnej można podkreślić te paralele, na przykład poprzez powtarzające się motywy w kompozycji kadrów lub w gestach, które wizualnie łączą tych trzech młodych mścicieli, podkreślając, że są oni różnymi odpowiedziami na to samo fundamentalne pytanie o sprawiedliwość w skorumpowanym świecie.
-
 
 CZĘŚĆ IV: FABUŁA
 
-
 Poniższe streszczenie przedstawia chronologiczny przebieg wydarzeń w dramacie, podzielony na akty, z szczególnym uwzględnieniem wizualizacji kluczowych scen, co jest niezbędne dla celów adaptacyjnych.
-
 
 Ekspozycja (Akt I)
 
-
-
-
 Wprowadzenie w świat przedstawiony i sytuacja wyjściowa
-
 
 Dramat rozpoczyna się w atmosferze napięcia, strachu i przenikliwego zimna. Na blankach zamku Elsynor w Danii, w środku nocy, strażnicy Bernardo i Marcellus opowiadają sceptycznemu Horacemu, przyjacielowi księcia Hamleta, o tajemniczej zjawie, która nawiedza ich warty.84 Nastrój jest mroczny i pełen złych przeczuć, co odzwierciedla stan całego królestwa. Następna scena przenosi nas do wnętrza zamku, do sali tronowej, gdzie nowy król, Klaudiusz, brat zmarłego władcy, wygłasza przemówienie. Tłumaczy w nim swoje pośpieszne małżeństwo z Gertrudą, wdową po bracie i matką Hamleta, jako akt politycznej konieczności, mający na celu ustabilizowanie państwa.44 Kontrast między mrocznymi, nawiedzonymi murami a wymuszoną, oficjalną wesołością dworu jest uderzający. W tej scenie poznajemy również głównego bohatera, księcia Hamleta, ubranego na czarno, pogrążonego w głębokiej żałobie i jawnie okazującego niechęć do stryja i matki.40
 
-
 WIZUALIZACJA SCENY OTWIERAJĄCEJ (Akt I, Scena 1)
 
-
-                                 * Gdzie dokładnie się dzieje: Na najwyższym tarasie strażniczym (blankach) zamku Elsynor. Jest to szeroka, kamienna platforma, otwarta na żywioły. W tle widać zarysy innych wież zamku, a w oddali ciemne, wzburzone morze.
-                                 * Pora dnia/roku, pogoda, oświetlenie: Północ, mroźna, zimowa noc. Powietrze jest "przejmująco zimne" ("bitter cold"), być może unosi się mgła. Jedyne źródła światła to pojedyncza latarnia trzymana przez strażnika i blade, zimne światło księżyca i gwiazd, często przesłonięte chmurami. Cienie są długie i głębokie.
-                                 * Kto jest obecny: Na początku strażnik Francisco, zmieniany przez Bernarda. Dołączają do nich Marcellus i Horacy. Wszyscy są grubo opatuleni w ciężkie, wełniane płaszcze z kapturami, ich oddechy tworzą obłoki pary w zimnym powietrzu. Są uzbrojeni w halabardy lub partyzany.
-                                 * Emocje widoczne na twarzach: Twarze strażników są napięte, pełne lęku i oczekiwania. Horacy początkowo ma na twarzy wyraz sceptycyzmu i lekkiej pobłażliwości. W momencie pojawienia się Ducha, jego mina zmienia się w niedowierzanie, a potem w autentyczny strach. Jak mówi Bernardo: "drżysz i bledniesz" ("you tremble and look pale").53
-                                 * Ruch i dynamika sceny: Scena jest statyczna i cicha, oparta na szeptach i nerwowym wyczekiwaniu. Pojawienie się Ducha jest momentem przełomowym. Postać w pełnej zbroi płytowej, z przyłbicą hełmu uniesioną, ukazuje twarz zmarłego króla. Porusza się powoli, majestatycznie, "wojennym krokiem" ("martial stalk"), nie reagując na wezwania Horacego. Jego obecność jest milcząca, ale niezwykle potężna. Gdy kur pieje, zwiastując świt, Duch znika gwałtownie, jakby rozpływał się we mgle.84
-
+    * Gdzie dokładnie się dzieje: Na najwyższym tarasie strażniczym (blankach) zamku Elsynor. Jest to szeroka, kamienna platforma, otwarta na żywioły. W tle widać zarysy innych wież zamku, a w oddali ciemne, wzburzone morze.
+    * Pora dnia/roku, pogoda, oświetlenie: Północ, mroźna, zimowa noc. Powietrze jest "przejmująco zimne" ("bitter cold"), być może unosi się mgła. Jedyne źródła światła to pojedyncza latarnia trzymana przez strażnika i blade, zimne światło księżyca i gwiazd, często przesłonięte chmurami. Cienie są długie i głębokie.
+    * Kto jest obecny: Na początku strażnik Francisco, zmieniany przez Bernarda. Dołączają do nich Marcellus i Horacy. Wszyscy są grubo opatuleni w ciężkie, wełniane płaszcze z kapturami, ich oddechy tworzą obłoki pary w zimnym powietrzu. Są uzbrojeni w halabardy lub partyzany.
+    * Emocje widoczne na twarzach: Twarze strażników są napięte, pełne lęku i oczekiwania. Horacy początkowo ma na twarzy wyraz sceptycyzmu i lekkiej pobłażliwości. W momencie pojawienia się Ducha, jego mina zmienia się w niedowierzanie, a potem w autentyczny strach. Jak mówi Bernardo: "drżysz i bledniesz" ("you tremble and look pale").53
+    * Ruch i dynamika sceny: Scena jest statyczna i cicha, oparta na szeptach i nerwowym wyczekiwaniu. Pojawienie się Ducha jest momentem przełomowym. Postać w pełnej zbroi płytowej, z przyłbicą hełmu uniesioną, ukazuje twarz zmarłego króla. Porusza się powoli, majestatycznie, "wojennym krokiem" ("martial stalk"), nie reagując na wezwania Horacego. Jego obecność jest milcząca, ale niezwykle potężna. Gdy kur pieje, zwiastując świt, Duch znika gwałtownie, jakby rozpływał się we mgle.84
 
 Pierwsze napięcia fabularne
 
-
 Horacy i strażnicy postanawiają opowiedzieć o wszystkim Hamletowi. Ten, dowiedziawszy się o zjawie, decyduje się następnej nocy sam stanąć na warcie. W międzyczasie, w komnatach Poloniusza, jego syn Laertes żegna się przed wyjazdem do Francji, a oboje z ojcem ostrzegają Ofelię przed uczuciem Hamleta, nakazując jej zerwać z nim wszelkie kontakty.85 Nocą, na blankach, Duch ponownie się zjawia i daje Hamletowi znak, by poszedł za nim. Mimo przestróg przyjaciół, Hamlet podąża za zjawą. Na osobności Duch wyjawia mu straszną prawdę: nie umarł śmiercią naturalną, lecz został zdradziecko zamordowany przez Klaudiusza, który wlał mu truciznę do ucha, gdy spał w ogrodzie.1 Duch żąda od syna pomszczenia tej "sprośnej i przeciwnej naturze zbrodni".86 Hamlet jest wstrząśnięty i przysięga zemstę. Każe Horacemu i Marcellusowi poprzysiąc na swój miecz, że zachowają wszystko w tajemnicy i zapowiada, że od tej pory będzie "przywdziewał dziwaczne szaty szaleństwa" ("put an antic disposition on").1
-
 
 Rozwinięcie akcji (Akty II i III)
 
-
-
-
 Chronologiczny przebieg wydarzeń
-
 
 Zgodnie ze swoim planem, Hamlet zaczyna udawać szaleńca. Jego dziwne zachowanie niepokoi dwór. Poloniusz, po wysłuchaniu relacji przerażonej Ofelii o dziwnej wizycie Hamleta w jej komnacie, dochodzi do wniosku, że przyczyną obłędu księcia jest nieodwzajemniona miłość.85 Klaudiusz nie jest przekonany i sprowadza z Wittenbergi dawnych przyjaciół Hamleta, Rozenkranca i Gildensterna, aby wyszpiegowali prawdziwą przyczynę jego przemiany.88 Hamlet szybko demaskuje ich misję. W tym samym czasie do Elsynoru przybywa trupa wędrownych aktorów. Hamlet wpada na pomysł, by wykorzystać ich do sprawdzenia prawdziwości słów Ducha: zleca im wystawienie sztuki, której fabuła będzie przypominać okoliczności śmierci jego ojca.5 W tzw. "scenie w klasztorze" ("nunnery scene"), Klaudiusz i Poloniusz podsłuchują rozmowę Hamleta z Ofelią. Książę, świadomy, że jest obserwowany, brutalnie odrzuca dziewczynę, potęgując wrażenie swojego szaleństwa. Punktem zwrotnym jest przedstawienie "Zabójstwa Gonzagi", które Hamlet złośliwie nazywa "Pułapką na myszy" ("The Mousetrap"). Gwałtowna, pełna poczucia winy reakcja Klaudiusza na scenę morderstwa utwierdza Hamleta w przekonaniu o jego winie. Wkrótce potem Hamlet znajduje Klaudiusza samego, pogrążonego w modlitwie. Ma idealną okazję do zemsty, ale powstrzymuje się, uznając, że zabicie króla w stanie łaski zapewniłoby mu zbawienie, co nie byłoby prawdziwą zemstą. Kulminacją jest gwałtowna konfrontacja Hamleta z matką w jej komnacie. W porywie gniewu zabija podsłuchującego za arrasem Poloniusza, biorąc go za Klaudiusza. W trakcie rozmowy ukazuje mu się Duch, widzialny tylko dla niego, co utwierdza Gertrudę w przekonaniu o szaleństwie syna.
 
-
 OPISY WIZUALNE KLUCZOWYCH SCEN
-
-
-
 
 "Pułapka na myszy" (Akt III, Scena 2)
 
-
-                                 * Gdzie dokładnie się dzieje: W Wielkiej Sali zamku, tymczasowo zaaranżowanej jako teatr. Na jednym końcu sali ustawiono niewielkie, drewniane podwyższenie sceniczne, być może z prostą kurtyną. Reszta sali jest wypełniona krzesłami i ławami dla dworu.
-                                 * Pora dnia/roku, pogoda, oświetlenie: Wieczór. Sala jest oświetlona licznymi pochodniami w uchwytach na ścianach i świecami w kandelabrach, co tworzy dramatyczne, migotliwe światło i głębokie cienie.
-                                 * Kto jest obecny: Cały dwór. Klaudiusz i Gertruda siedzą na tronach, na podwyższeniu, jako główni widzowie. Hamlet, odrzucając miejsce obok matki, kładzie się u stóp Ofelii, co jest gestem prowokacyjnym. Jego twarz jest ożywiona, oczy błyszczą gorączkowo. Horacy stoi z boku, dyskretnie obserwując twarz króla. Aktorzy w kostiumach są na scenie.
-                                 * Ważne przedmioty i rekwizyty: Na scenie rekwizyty są proste: korona, flakonik z "trucizną". Wśród widowni kluczowym rekwizytem jest puchar z winem w dłoni Klaudiusza.
-                                 * Emocje widoczne na twarzach: Twarze dworzan wyrażają zaciekawienie, a potem zakłopotanie. Hamlet jest w stanie maniakalnego podniecenia. Twarz Klaudiusza przechodzi transformację: od królewskiej obojętności, przez rosnące napięcie i niepokój, aż po maskę przerażenia i wściekłości w momencie, gdy aktor wlewa truciznę do ucha śpiącego króla.
-                                 * Ruch i dynamika sceny: Scena zaczyna się formalnie. Napięcie rośnie w miarę trwania przedstawienia. Punktem kulminacyjnym jest gwałtowny ruch Klaudiusza: zrywa się na równe nogi, być może przewracając swój tron lub puchar, krzyczy "Światła, światła!" ("Give me some light!") i w pośpiechu opuszcza salę, a za nim w chaosie podąża cały dwór.89 Hamlet i Horacy zostają sami, a Hamlet wybucha triumfalnym, histerycznym śmiechem.
-
+    * Gdzie dokładnie się dzieje: W Wielkiej Sali zamku, tymczasowo zaaranżowanej jako teatr. Na jednym końcu sali ustawiono niewielkie, drewniane podwyższenie sceniczne, być może z prostą kurtyną. Reszta sali jest wypełniona krzesłami i ławami dla dworu.
+    * Pora dnia/roku, pogoda, oświetlenie: Wieczór. Sala jest oświetlona licznymi pochodniami w uchwytach na ścianach i świecami w kandelabrach, co tworzy dramatyczne, migotliwe światło i głębokie cienie.
+    * Kto jest obecny: Cały dwór. Klaudiusz i Gertruda siedzą na tronach, na podwyższeniu, jako główni widzowie. Hamlet, odrzucając miejsce obok matki, kładzie się u stóp Ofelii, co jest gestem prowokacyjnym. Jego twarz jest ożywiona, oczy błyszczą gorączkowo. Horacy stoi z boku, dyskretnie obserwując twarz króla. Aktorzy w kostiumach są na scenie.
+    * Ważne przedmioty i rekwizyty: Na scenie rekwizyty są proste: korona, flakonik z "trucizną". Wśród widowni kluczowym rekwizytem jest puchar z winem w dłoni Klaudiusza.
+    * Emocje widoczne na twarzach: Twarze dworzan wyrażają zaciekawienie, a potem zakłopotanie. Hamlet jest w stanie maniakalnego podniecenia. Twarz Klaudiusza przechodzi transformację: od królewskiej obojętności, przez rosnące napięcie i niepokój, aż po maskę przerażenia i wściekłości w momencie, gdy aktor wlewa truciznę do ucha śpiącego króla.
+    * Ruch i dynamika sceny: Scena zaczyna się formalnie. Napięcie rośnie w miarę trwania przedstawienia. Punktem kulminacyjnym jest gwałtowny ruch Klaudiusza: zrywa się na równe nogi, być może przewracając swój tron lub puchar, krzyczy "Światła, światła!" ("Give me some light!") i w pośpiechu opuszcza salę, a za nim w chaosie podąża cały dwór.89 Hamlet i Horacy zostają sami, a Hamlet wybucha triumfalnym, histerycznym śmiechem.
 
 Scena modlitwy (Akt III, Scena 3)
 
-
-                                 * Gdzie dokładnie się dzieje: W małej, prywatnej kaplicy lub wnęce modlitewnej, przylegającej do głównego korytarza. Wnętrze jest surowe, kamienne. Znajduje się tam tylko klęcznik (prie-dieu) i krucyfiks lub mały ołtarz.
-                                 * Pora dnia/roku, pogoda, oświetlenie: Noc. Panuje półmrok. Pomieszczenie oświetla jedna lub dwie świece na ołtarzu oraz być może snop księżycowego światła wpadający przez wysoko umieszczone, wąskie okno.
-                                 * Kto jest obecny: Klaudiusz klęczy samotnie, tyłem do wejścia. Jego postać jest zgarbiona, wyraża ciężar winy. Hamlet wchodzi cicho, niezauważony.
-                                 * Emocje widoczne na twarzach: Twarz Klaudiusza jest wykrzywiona w udręce, gdy próbuje się modlić. Twarz Hamleta, gdy podnosi miecz, jest pełna nienawiści i determinacji. Potem, gdy zaczyna rozważać konsekwencje, jego mina zmienia się, pojawia się na niej wyraz zimnej kalkulacji.
-                                 * Ruch i dynamika sceny: Scena jest niemal bezruchu, co potęguje napięcie. Jedynym ruchem jest powolne uniesienie miecza przez Hamleta i jego późniejsze, równie powolne opuszczenie. To moment zawieszenia akcji, w którym decydują się losy zemsty. Po odejściu Hamleta, Klaudiusz wstaje, a jego słowa "Słowa me lecą w górę, myśl w dole" ("My words fly up, my thoughts remain below") wypowiedziane są z rezygnacją i cynizmem.90
-
+    * Gdzie dokładnie się dzieje: W małej, prywatnej kaplicy lub wnęce modlitewnej, przylegającej do głównego korytarza. Wnętrze jest surowe, kamienne. Znajduje się tam tylko klęcznik (prie-dieu) i krucyfiks lub mały ołtarz.
+    * Pora dnia/roku, pogoda, oświetlenie: Noc. Panuje półmrok. Pomieszczenie oświetla jedna lub dwie świece na ołtarzu oraz być może snop księżycowego światła wpadający przez wysoko umieszczone, wąskie okno.
+    * Kto jest obecny: Klaudiusz klęczy samotnie, tyłem do wejścia. Jego postać jest zgarbiona, wyraża ciężar winy. Hamlet wchodzi cicho, niezauważony.
+    * Emocje widoczne na twarzach: Twarz Klaudiusza jest wykrzywiona w udręce, gdy próbuje się modlić. Twarz Hamleta, gdy podnosi miecz, jest pełna nienawiści i determinacji. Potem, gdy zaczyna rozważać konsekwencje, jego mina zmienia się, pojawia się na niej wyraz zimnej kalkulacji.
+    * Ruch i dynamika sceny: Scena jest niemal bezruchu, co potęguje napięcie. Jedynym ruchem jest powolne uniesienie miecza przez Hamleta i jego późniejsze, równie powolne opuszczenie. To moment zawieszenia akcji, w którym decydują się losy zemsty. Po odejściu Hamleta, Klaudiusz wstaje, a jego słowa "Słowa me lecą w górę, myśl w dole" ("My words fly up, my thoughts remain below") wypowiedziane są z rezygnacją i cynizmem.90
 
 Scena w komnacie królowej (Akt III, Scena 4)
 
-
-                                 * Gdzie dokładnie się dzieje: W prywatnej komnacie Gertrudy. Jest to bogato urządzony, ale też intymny pokój. Może znajdować się w nim wielkie łoże z baldachimem, toaletka z lustrem, krzesła. Kluczowym elementem jest ciężki, wzorzysty arras wiszący na jednej ze ścian, na tyle duży, by mógł się za nim ukryć człowiek.34
-                                 * Pora dnia/roku, pogoda, oświetlenie: Noc. Oświetlenie jest miękkie, pochodzi od świec, co tworzy atmosferę intymności, która zostanie brutalnie naruszona.
-                                 * Kto jest obecny: Gertruda, Poloniusz (ukryty za arrasem), a następnie Hamlet. W kulminacyjnym momencie pojawia się Duch.
-                                 * Ważne przedmioty i rekwizyty: Hamlet może używać dwóch miniaturowych portretów (w medalionach) lub wskazywać na dwa większe portrety wiszące na ścianie, aby porównać swojego ojca i stryja. Kluczowym rekwizytem jest miecz Hamleta.
-                                 * Emocje widoczne na twarzach: Gertruda na początku jest wyniosła i karcąca, potem jej twarz wyraża strach, gdy Hamlet staje się agresywny. Po zabiciu Poloniusza jest w szoku i przerażeniu. Twarz Hamleta jest maską furii i oskarżycielskiego gniewu. Gdy widzi Ducha, jego wyraz zmienia się w mieszaninę lęku i czci, podczas gdy Gertruda patrzy na niego z troską i przerażeniem, przekonana o jego obłędzie.
-                                 * Ruch i dynamika sceny: Scena jest niezwykle dynamiczna i fizyczna. Hamlet gwałtownie chwyta matkę, zmusza ją do siedzenia, potrząsa nią. Jego ruch jest nagły i śmiertelny, gdy wbija miecz w arras. Odsłonięcie ciała Poloniusza jest momentem szoku. Pojawienie się Ducha (widzialnego tylko dla Hamleta i publiczności) tworzy dramatyczne napięcie – Hamlet rozmawia z "pustką", co potęguje wrażenie jego szaleństwa w oczach matki.34 Scena kończy się ponurym obrazem Hamleta wywlekającego ciało Poloniusza z komnaty.
-
+    * Gdzie dokładnie się dzieje: W prywatnej komnacie Gertrudy. Jest to bogato urządzony, ale też intymny pokój. Może znajdować się w nim wielkie łoże z baldachimem, toaletka z lustrem, krzesła. Kluczowym elementem jest ciężki, wzorzysty arras wiszący na jednej ze ścian, na tyle duży, by mógł się za nim ukryć człowiek.34
+    * Pora dnia/roku, pogoda, oświetlenie: Noc. Oświetlenie jest miękkie, pochodzi od świec, co tworzy atmosferę intymności, która zostanie brutalnie naruszona.
+    * Kto jest obecny: Gertruda, Poloniusz (ukryty za arrasem), a następnie Hamlet. W kulminacyjnym momencie pojawia się Duch.
+    * Ważne przedmioty i rekwizyty: Hamlet może używać dwóch miniaturowych portretów (w medalionach) lub wskazywać na dwa większe portrety wiszące na ścianie, aby porównać swojego ojca i stryja. Kluczowym rekwizytem jest miecz Hamleta.
+    * Emocje widoczne na twarzach: Gertruda na początku jest wyniosła i karcąca, potem jej twarz wyraża strach, gdy Hamlet staje się agresywny. Po zabiciu Poloniusza jest w szoku i przerażeniu. Twarz Hamleta jest maską furii i oskarżycielskiego gniewu. Gdy widzi Ducha, jego wyraz zmienia się w mieszaninę lęku i czci, podczas gdy Gertruda patrzy na niego z troską i przerażeniem, przekonana o jego obłędzie.
+    * Ruch i dynamika sceny: Scena jest niezwykle dynamiczna i fizyczna. Hamlet gwałtownie chwyta matkę, zmusza ją do siedzenia, potrząsa nią. Jego ruch jest nagły i śmiertelny, gdy wbija miecz w arras. Odsłonięcie ciała Poloniusza jest momentem szoku. Pojawienie się Ducha (widzialnego tylko dla Hamleta i publiczności) tworzy dramatyczne napięcie – Hamlet rozmawia z "pustką", co potęguje wrażenie jego szaleństwa w oczach matki.34 Scena kończy się ponurym obrazem Hamleta wywlekającego ciało Poloniusza z komnaty.
 
 Punkt kulminacyjny (Akt IV)
 
-
 Śmierć Poloniusza jest punktem bez powrotu, który uruchamia lawinę tragicznych wydarzeń. Klaudiusz, obawiając się o własne życie, natychmiast wysyła Hamleta do Anglii, z tajnym listem nakazującym jego egzekucję. Laertes, na wieść o śmierci ojca, wraca z Francji i na czele wzburzonego tłumu wdziera się do zamku, żądając zemsty. W tym samym czasie pojawia się Ofelia, która pod wpływem traumy postradała zmysły. Jej obłęd, wyrażany przez piosenki i symboliczne rozdawanie kwiatów, jest tragicznym sercem dramatu. Klaudiuszowi udaje się uspokoić Laertesa i skierować jego gniew na Hamleta. Wspólnie knują spisek: zorganizują "przyjacielski" pojedynek szermierczy, w którym Laertes będzie walczył ostrym, zatrutym rapierem, a na wypadek gdyby to zawiodło, Klaudiusz przygotuje zatruty puchar wina.88 Akt kończy się poruszającą relacją Gertrudy o śmierci Ofelii, która utonęła, zbierając kwiaty nad strumieniem.
-
 
 PEŁNA WIZUALIZACJA SCENY SZALEŃSTWA OFELII (Akt IV, Scena 5)
 
-
-                                 * Gdzie dokładnie się dzieje: W jednej z sal zamku.
-                                 * Kto jest obecny: Klaudiusz i Gertruda, pełni niepokoju. Wchodzi Ofelia, a później Laertes ze swoimi zwolennikami.
-                                 * Wygląd Ofelii w danej scenie: Jej wygląd jest szokujący. Włosy ma rozpuszczone, w nieładzie, być może wplecione są w nie słomki i chwasty. Jej suknia jest pognieciona, być może lekko rozdarta lub poplamiona ziemią. W rękach i za paskiem ma bukiet polnych kwiatów i ziół. Jej oczy są nieobecne, spojrzenie błądzi po pomieszczeniu. Porusza się w sposób nieprzewidywalny, czasem tanecznym krokiem, czasem zastyga w bezruchu.
-                                 * Pora dnia/roku, pogoda, oświetlenie: Dzień, oświetlenie naturalne, wpadające przez okna zamku.
-                                 * Ważne przedmioty i rekwizyty: Kwiaty i zioła, które rozdaje, są kluczowymi rekwizytami. Każdy z nich ma znaczenie symboliczne 60:
-                                 * Rozmaryn (dla Laertesa): "dla pamięci" – wizualnie jest to gałązka o igiełkowatych liściach.
-                                 * Bratki (dla Laertesa): "dla myśli" – małe, kolorowe kwiaty.
-                                 * Koper włoski (dla Klaudiusza): symbol pochlebstwa – roślina o pierzastych liściach.
-                                 * Orliki (dla Klaudiusza): symbol zdrady małżeńskiej – kwiaty o charakterystycznym kształcie.
-                                 * Ruta (dla Gertrudy i dla siebie): symbol żalu, skruchy i goryczy – ziele o szaro-zielonych liściach.
-                                 * Stokrotka: symbol niewinności – podnosi ją i odkłada, nie dając nikomu, co sugeruje, że na dworze nie ma już niewinności.
-                                 * Fiołki: symbol wierności – mówi, że "zwiędły wszystkie, gdy umarł mój ojciec".
-                                 * Emocje widoczne na twarzach: Twarze Klaudiusza i Gertrudy wyrażają mieszaninę litości, zakłopotania i strachu. Laertes, widząc siostrę w tym stanie, jest zdruzgotany; jego twarz wyraża ból i rosnący gniew. Twarz Ofelii jest jak maska, z której przebijają się fragmenty dawnych uczuć – smutku, miłości, straty – ale bez logicznego powiązania.
-                                 * Ruch i dynamika sceny: Ofelia porusza się swobodnie po sali, podchodząc do każdej z postaci i wręczając im kwiaty. Jej ruchy są płynne, ale bezcelowe. Śpiewa fragmenty piosenek ludowych, których treść jest nieprzyzwoita lub żałobna, co szokuje dworzan.61 Jej wyjście jest równie nagłe i niepokojące jak jej wejście, pozostawiając na scenie atmosferę głębokiej tragedii.
-
+    * Gdzie dokładnie się dzieje: W jednej z sal zamku.
+    * Kto jest obecny: Klaudiusz i Gertruda, pełni niepokoju. Wchodzi Ofelia, a później Laertes ze swoimi zwolennikami.
+    * Wygląd Ofelii w danej scenie: Jej wygląd jest szokujący. Włosy ma rozpuszczone, w nieładzie, być może wplecione są w nie słomki i chwasty. Jej suknia jest pognieciona, być może lekko rozdarta lub poplamiona ziemią. W rękach i za paskiem ma bukiet polnych kwiatów i ziół. Jej oczy są nieobecne, spojrzenie błądzi po pomieszczeniu. Porusza się w sposób nieprzewidywalny, czasem tanecznym krokiem, czasem zastyga w bezruchu.
+    * Pora dnia/roku, pogoda, oświetlenie: Dzień, oświetlenie naturalne, wpadające przez okna zamku.
+    * Ważne przedmioty i rekwizyty: Kwiaty i zioła, które rozdaje, są kluczowymi rekwizytami. Każdy z nich ma znaczenie symboliczne 60:
+    * Rozmaryn (dla Laertesa): "dla pamięci" – wizualnie jest to gałązka o igiełkowatych liściach.
+    * Bratki (dla Laertesa): "dla myśli" – małe, kolorowe kwiaty.
+    * Koper włoski (dla Klaudiusza): symbol pochlebstwa – roślina o pierzastych liściach.
+    * Orliki (dla Klaudiusza): symbol zdrady małżeńskiej – kwiaty o charakterystycznym kształcie.
+    * Ruta (dla Gertrudy i dla siebie): symbol żalu, skruchy i goryczy – ziele o szaro-zielonych liściach.
+    * Stokrotka: symbol niewinności – podnosi ją i odkłada, nie dając nikomu, co sugeruje, że na dworze nie ma już niewinności.
+    * Fiołki: symbol wierności – mówi, że "zwiędły wszystkie, gdy umarł mój ojciec".
+    * Emocje widoczne na twarzach: Twarze Klaudiusza i Gertrudy wyrażają mieszaninę litości, zakłopotania i strachu. Laertes, widząc siostrę w tym stanie, jest zdruzgotany; jego twarz wyraża ból i rosnący gniew. Twarz Ofelii jest jak maska, z której przebijają się fragmenty dawnych uczuć – smutku, miłości, straty – ale bez logicznego powiązania.
+    * Ruch i dynamika sceny: Ofelia porusza się swobodnie po sali, podchodząc do każdej z postaci i wręczając im kwiaty. Jej ruchy są płynne, ale bezcelowe. Śpiewa fragmenty piosenek ludowych, których treść jest nieprzyzwoita lub żałobna, co szokuje dworzan.61 Jej wyjście jest równie nagłe i niepokojące jak jej wejście, pozostawiając na scenie atmosferę głębokiej tragedii.
 
 Rozwiązanie (Akt V)
 
-
-
-
 Zakończenie wszystkich wątków i losy bohaterów
-
 
 Akt V rozpoczyna się na cmentarzu, gdzie dwaj grabarze, kopiąc grób dla Ofelii, w groteskowy sposób rozprawiają o śmierci i samobójstwie. Przybywa Hamlet z Horacym. Hamlet, znajdując czaszkę Yoricka, nadwornego błazna z czasów swojego dzieciństwa, wygłasza poruszającą refleksję nad nietrwałością życia i ostatecznością śmierci.93 Pojawia się kondukt pogrzebowy z ciałem Ofelii. Laertes, w akcie rozpaczy, wskakuje do grobu, by po raz ostatni uściskać siostrę. Hamlet, ujawniając się, również wskakuje do grobu, co prowadzi do bójki między nim a Laertesem. Zostają rozdzieleni. W zamku Hamlet opowiada Horacemu, jak uniknął śmierci w Anglii, fałszując list królewski i skazując na śmierć Rozenkranca i Gildensterna. Wyraża skruchę z powodu swojego zachowania wobec Laertesa. Przybywa dworzanin Osric z wyzwaniem na pojedynek od Laertesa, które Hamlet przyjmuje, mimo złych przeczuć.
 
-
 OPIS WIZUALNY SCENY KOŃCOWEJ (Akt V, Scena 2)
 
-
-                                 * Gdzie dokładnie się dzieje: W Wielkiej Sali, tej samej, w której odbyło się przedstawienie. Cały dwór jest zebrany, by oglądać pojedynek.
-                                 * Kto jest obecny: Klaudiusz i Gertruda na tronach. Hamlet, Laertes, Horacy, Osric (jako sędzia), dworzanie.
-                                 * Wygląd w danej scenie: Hamlet i Laertes są ubrani w białe, luźne koszule szermiercze, spodnie i buty do fechtunku. Klaudiusz i Gertruda są w pełnych, królewskich strojach.
-                                 * Ważne przedmioty i rekwizyty:
-                                 * Rapiery: Dwa identycznie wyglądające rapiery z ozdobnymi jelcami. Jeden z nich (należący do Laertesa) ma niezabezpieczone, ostre ostrze, którego koniec jest posmarowany ciemną, oleistą trucizną.
-                                 * Puchar z winem: Bogato zdobiony, królewski puchar. Klaudiusz wrzuca do niego "perłę" (kapsułkę z trucizną), która rozpuszcza się w winie.95
-                                 * Emocje widoczne na twarzach: Na początku panuje atmosfera sportowej rywalizacji. Twarz Hamleta jest spokojna, zdeterminowana. Laertes jest napięty, pełen wewnętrznego konfliktu. Klaudiusz z trudem maskuje nerwowe oczekiwanie. W miarę rozwoju tragedii, twarze wszystkich wyrażają szok, przerażenie i niedowierzanie.
-                                 * Ruch i dynamika sceny: Scena jest niezwykle dynamiczna i szybka.
-                                 1. Pojedynek: Zwinne, szybkie ruchy szermierzy, błyski stali, zgrzyt krzyżujących się rapierów. Hamlet wygrywa dwa pierwsze starcia.
-                                 2. Śmierć Gertrudy: Gertruda podnosi puchar, by wznieść toast za syna. Klaudiusz próbuje ją powstrzymać ("Gertrudo, nie pij!"), ale jest za późno. Pije, a po chwili jej twarz wykrzywia grymas bólu, osuwa się z tronu.95
-                                 3. Wymiana ciosów: Laertes rani Hamleta zatrutym ostrzem. W szamotaninie upuszczają lub zamieniają się rapierami. Hamlet rani Laertesa jego własną, zatrutą bronią.96
-                                 4. Zemsta i śmierć: Laertes, umierając, demaskuje spisek Klaudiusza. Hamlet, w ostatnim porywie furii, rzuca się na króla, przebija go zatrutym rapierem, a następnie chwyta puchar i wlewa resztę trucizny do gardła Klaudiusza.
-                                 5. Finał: W sali leżą cztery ciała: Gertrudy, Laertesa, Klaudiusza i wreszcie Hamleta, który umiera w ramionach Horacego.
-                                 * Scena końcowa: W drzwiach sali pojawia się Fortinbras w zbroi, na czele swoich żołnierzy. Jego wejście jest nagłe i potężne. Zastaje scenę rzezi. Jego twarz wyraża zdumienie i szacunek. Horacy, jako jedyny ocalały, stoi pośród ciał. Fortinbras wydaje rozkaz, by ciało Hamleta zostało wyniesione z honorami wojskowymi, jak ciało żołnierza poległego w bitwie. Ostatni obraz to ponury, ale uroczysty pochód żołnierzy wynoszących ciało księcia, co symbolizuje przywrócenie porządku, ale za straszliwą cenę.97
-
+    * Gdzie dokładnie się dzieje: W Wielkiej Sali, tej samej, w której odbyło się przedstawienie. Cały dwór jest zebrany, by oglądać pojedynek.
+    * Kto jest obecny: Klaudiusz i Gertruda na tronach. Hamlet, Laertes, Horacy, Osric (jako sędzia), dworzanie.
+    * Wygląd w danej scenie: Hamlet i Laertes są ubrani w białe, luźne koszule szermiercze, spodnie i buty do fechtunku. Klaudiusz i Gertruda są w pełnych, królewskich strojach.
+    * Ważne przedmioty i rekwizyty:
+    * Rapiery: Dwa identycznie wyglądające rapiery z ozdobnymi jelcami. Jeden z nich (należący do Laertesa) ma niezabezpieczone, ostre ostrze, którego koniec jest posmarowany ciemną, oleistą trucizną.
+    * Puchar z winem: Bogato zdobiony, królewski puchar. Klaudiusz wrzuca do niego "perłę" (kapsułkę z trucizną), która rozpuszcza się w winie.95
+    * Emocje widoczne na twarzach: Na początku panuje atmosfera sportowej rywalizacji. Twarz Hamleta jest spokojna, zdeterminowana. Laertes jest napięty, pełen wewnętrznego konfliktu. Klaudiusz z trudem maskuje nerwowe oczekiwanie. W miarę rozwoju tragedii, twarze wszystkich wyrażają szok, przerażenie i niedowierzanie.
+    * Ruch i dynamika sceny: Scena jest niezwykle dynamiczna i szybka.
+    1. Pojedynek: Zwinne, szybkie ruchy szermierzy, błyski stali, zgrzyt krzyżujących się rapierów. Hamlet wygrywa dwa pierwsze starcia.
+    2. Śmierć Gertrudy: Gertruda podnosi puchar, by wznieść toast za syna. Klaudiusz próbuje ją powstrzymać ("Gertrudo, nie pij!"), ale jest za późno. Pije, a po chwili jej twarz wykrzywia grymas bólu, osuwa się z tronu.95
+    3. Wymiana ciosów: Laertes rani Hamleta zatrutym ostrzem. W szamotaninie upuszczają lub zamieniają się rapierami. Hamlet rani Laertesa jego własną, zatrutą bronią.96
+    4. Zemsta i śmierć: Laertes, umierając, demaskuje spisek Klaudiusza. Hamlet, w ostatnim porywie furii, rzuca się na króla, przebija go zatrutym rapierem, a następnie chwyta puchar i wlewa resztę trucizny do gardła Klaudiusza.
+    5. Finał: W sali leżą cztery ciała: Gertrudy, Laertesa, Klaudiusza i wreszcie Hamleta, który umiera w ramionach Horacego.
+    * Scena końcowa: W drzwiach sali pojawia się Fortinbras w zbroi, na czele swoich żołnierzy. Jego wejście jest nagłe i potężne. Zastaje scenę rzezi. Jego twarz wyraża zdumienie i szacunek. Horacy, jako jedyny ocalały, stoi pośród ciał. Fortinbras wydaje rozkaz, by ciało Hamleta zostało wyniesione z honorami wojskowymi, jak ciało żołnierza poległego w bitwie. Ostatni obraz to ponury, ale uroczysty pochód żołnierzy wynoszących ciało księcia, co symbolizuje przywrócenie porządku, ale za straszliwą cenę.97
 
 Przesłanie autora
 
-
 Przesłanie Hamleta jest wielowymiarowe i niejednoznaczne. Dramat bada niszczycielską naturę zemsty, która pochłania nie tylko winnych, ale i niewinnych. Ukazuje kruchość ludzkiej moralności w skorumpowanym świecie i paraliżującą siłę zwątpienia. Jednocześnie, w ostatecznym rozrachunku, sztuka zdaje się sugerować, że w świecie pełnym kłamstwa i zdrady, poszukiwanie prawdy i sprawiedliwości, nawet jeśli prowadzi do katastrofy, jest jedyną godną drogą dla człowieka. Przybycie Fortinbrasa i jego hołd dla Hamleta sugerują, że choć osobista tragedia księcia zakończyła się śmiercią, jego walka oczyściła "chore" państwo, umożliwiając nowy początek.
-
 
 CZĘŚĆ V: TEMATY I MOTYWY
 
-
 Hamlet jest dziełem o niezwykłej głębi tematycznej, w którym uniwersalne problemy ludzkiej egzystencji splatają się z konkretnymi realiami epoki. Analiza tych tematów i powracających motywów jest kluczowa dla zrozumienia wewnętrznej logiki dramatu i jego wizualnego potencjału.
-
 
 Główne tematy
 
-
-
-
 Zemsta i jej moralne implikacje
-
 
 Zemsta jest centralnym motorem fabularnym dramatu, zapoczątkowanym przez nakaz Ducha.62 Jednak Shakespeare nie traktuje jej jako prostego aktu sprawiedliwości, lecz jako złożony problem moralny i psychologiczny. Dramat stawia fundamentalne pytania: Czy zemsta jest aktem szlachetnym, czy barbarzyńskim? Czy zabicie mordercy czyni mściciela lepszym od niego? Hamlet, w przeciwieństwie do Laertesa, który pragnie zemsty "bez żadnych skrupułów", zmaga się z tymi dylematami.76 Jego wahanie nie wynika tylko ze strachu czy słabości, ale z głębokiej świadomości, że akt zemsty może oznaczać wieczne potępienie jego duszy.98 Ostatecznie, tragedia pokazuje, że pogoń za zemstą jest siłą niszczycielską, która tworzy spiralę przemocy, pochłaniając wszystkich – winnych i niewinnych – i prowadząc do całkowitej destrukcji.100
 
-
 Szaleństwo: udawane i prawdziwe
 
-
 Temat szaleństwa jest eksplorowany w dwóch kontrastujących formach.
-                                 * Udawane szaleństwo Hamleta: Jest to strategiczna maska, "dziwaczne szaty", które Hamlet przywdziewa, by móc bezkarnie obserwować dwór, demaskować kłamstwa i mówić niewygodną prawdę pod pozorem bełkotu.61 Jego "szaleństwo" jest pełne "metody", jest narzędziem intelektualnej gry z przeciwnikami. Wizualnie, manifestuje się ono w celowym zaniedbaniu stroju i nieprzewidywalnym, teatralnym zachowaniu.
-                                 * Prawdziwe szaleństwo Ofelii: Jest to autentyczny i tragiczny rozpad psychiki, spowodowany serią traumatycznych przeżyć: odrzuceniem przez ukochanego, śmiercią ojca z jego ręki i ogólną bezradnością w patriarchalnym świecie.61 Jej szaleństwo nie jest strategiczne, lecz liryczne i patetyczne. Wyraża się poprzez fragmenty piosenek i symboliczny język kwiatów, które stają się jej jedynym sposobem komunikacji z opresyjnym światem.73 Kontrast między tymi dwiema formami obłędu pogłębia tragizm dramatu i stawia pytanie o granice między rozsądkiem a szaleństwem w świecie, który sam jest "chory".
-
+    * Udawane szaleństwo Hamleta: Jest to strategiczna maska, "dziwaczne szaty", które Hamlet przywdziewa, by móc bezkarnie obserwować dwór, demaskować kłamstwa i mówić niewygodną prawdę pod pozorem bełkotu.61 Jego "szaleństwo" jest pełne "metody", jest narzędziem intelektualnej gry z przeciwnikami. Wizualnie, manifestuje się ono w celowym zaniedbaniu stroju i nieprzewidywalnym, teatralnym zachowaniu.
+    * Prawdziwe szaleństwo Ofelii: Jest to autentyczny i tragiczny rozpad psychiki, spowodowany serią traumatycznych przeżyć: odrzuceniem przez ukochanego, śmiercią ojca z jego ręki i ogólną bezradnością w patriarchalnym świecie.61 Jej szaleństwo nie jest strategiczne, lecz liryczne i patetyczne. Wyraża się poprzez fragmenty piosenek i symboliczny język kwiatów, które stają się jej jedynym sposobem komunikacji z opresyjnym światem.73 Kontrast między tymi dwiema formami obłędu pogłębia tragizm dramatu i stawia pytanie o granice między rozsądkiem a szaleństwem w świecie, który sam jest "chory".
 
 Pozór kontra Rzeczywistość
 
-
 To jeden z najbardziej fundamentalnych tematów filozoficznych dramatu. Niemal żadna postać i żadne wydarzenie nie jest tym, czym się na pierwszy rzut oka wydaje.
-                                 * Postaci: Klaudiusz jest uśmiechniętym, troskliwym królem, a w rzeczywistości bratobójcą.67 Rozenkranc i Gildenstern udają przyjaciół, a są szpiegami. Poloniusz kreuje się na mądrego męża stanu, a jest wścibskim intrygantem. Sam Hamlet udaje szaleńca, by ukryć swoje prawdziwe zamiary.101
-                                 * Wydarzenia: Przyjacielski pojedynek jest w rzeczywistości zaplanowanym morderstwem. Wesoła sztuka teatralna staje się narzędziem demaskacji zbrodni.
+    * Postaci: Klaudiusz jest uśmiechniętym, troskliwym królem, a w rzeczywistości bratobójcą.67 Rozenkranc i Gildenstern udają przyjaciół, a są szpiegami. Poloniusz kreuje się na mądrego męża stanu, a jest wścibskim intrygantem. Sam Hamlet udaje szaleńca, by ukryć swoje prawdziwe zamiary.101
+    * Wydarzenia: Przyjacielski pojedynek jest w rzeczywistości zaplanowanym morderstwem. Wesoła sztuka teatralna staje się narzędziem demaskacji zbrodni.
 Ten temat jest nierozerwalnie związany z motywem teatru i aktorstwa. Hamlet, reżyserując "Pułapkę na myszy", używa iluzji (teatru), aby dotrzeć do prawdy (rzeczywistości). Cały dwór w Elsynorze jest jak scena, na której postacie odgrywają swoje role, ukrywając prawdziwe "ja" za maskami. Hamlet jest tego boleśnie świadomy, gardząc "pozorami" ("seems") i poszukując tego, co "jest" ("is").
-
 
 Zgnilizna, choroba i zepsucie
 
-
 Dania w Hamlecie jest państwem chorym, toczonym przez wewnętrzną zgniliznę, której źródłem jest pierwotna zbrodnia Klaudiusza. Ten stan jest nieustannie podkreślany przez powracające w języku dramatu obrazy i metafory.
-                                    * Obrazy choroby: Marcellus stwierdza, że "Coś gnije w państwie duńskim" ("Something is rotten in the state of Denmark").63 Hamlet postrzega świat jako "nieplewiony ogród", w którym panoszą się "rzeczy plugawe i grube w swej naturze".103 Klaudiusz jest jak "ukryty wrzód", a jego zbrodnia ma "odór, który sięga niebios".105
-                                    * Symbolika: Zepsucie jest zarówno moralne (kazirodztwo, zdrada, morderstwo), polityczne (uzurpacja, szpiegostwo), jak i fizyczne. Prowadzi ono do dosłownego rozkładu, którego kulminacją jest scena na cmentarzu i ostateczna masakra w finale. Wizualnie, ten temat można oddać poprzez stopniową degradację scenografii, kostiumów i rekwizytów, które z czasem mogłyby nabierać cech zniszczenia i zaniedbania.
-
+    * Obrazy choroby: Marcellus stwierdza, że "Coś gnije w państwie duńskim" ("Something is rotten in the state of Denmark").63 Hamlet postrzega świat jako "nieplewiony ogród", w którym panoszą się "rzeczy plugawe i grube w swej naturze".103 Klaudiusz jest jak "ukryty wrzód", a jego zbrodnia ma "odór, który sięga niebios".105
+    * Symbolika: Zepsucie jest zarówno moralne (kazirodztwo, zdrada, morderstwo), polityczne (uzurpacja, szpiegostwo), jak i fizyczne. Prowadzi ono do dosłownego rozkładu, którego kulminacją jest scena na cmentarzu i ostateczna masakra w finale. Wizualnie, ten temat można oddać poprzez stopniową degradację scenografii, kostiumów i rekwizytów, które z czasem mogłyby nabierać cech zniszczenia i zaniedbania.
 
 Motywy literackie
 
-
-
-
 Trucizna
 
-
 Trucizna jest centralnym i wielowymiarowym symbolem w dramacie.
-                                    * Dosłownie: Jest narzędziem zbrodni. Król Hamlet ginie od trucizny wlanej do ucha. W finale, zatruty rapier i puchar wina zabijają Laertesa, Gertrudę, Hamleta i Klaudiusza.106
-                                    * Metaforycznie: Trucizna symbolizuje podstęp, zdradę i ukryte zło, które działa od wewnątrz. Kłamstwa Klaudiusza są jak trucizna, która "zatruła całe ucho Danii".108 Obsesja zemsty jest trucizną, która niszczy duszę Hamleta i jego relacje z bliskimi. Zepsucie moralne rozprzestrzenia się po dworze jak infekcja.109 Wizualny motyw trucizny – cieczy wlewanej do ucha, smarowidła na ostrzu, "perły" rozpuszczającej się w winie – jest potężnym obrazem skrytobójczej, niszczycielskiej siły.
-
+    * Dosłownie: Jest narzędziem zbrodni. Król Hamlet ginie od trucizny wlanej do ucha. W finale, zatruty rapier i puchar wina zabijają Laertesa, Gertrudę, Hamleta i Klaudiusza.106
+    * Metaforycznie: Trucizna symbolizuje podstęp, zdradę i ukryte zło, które działa od wewnątrz. Kłamstwa Klaudiusza są jak trucizna, która "zatruła całe ucho Danii".108 Obsesja zemsty jest trucizną, która niszczy duszę Hamleta i jego relacje z bliskimi. Zepsucie moralne rozprzestrzenia się po dworze jak infekcja.109 Wizualny motyw trucizny – cieczy wlewanej do ucha, smarowidła na ostrzu, "perły" rozpuszczającej się w winie – jest potężnym obrazem skrytobójczej, niszczycielskiej siły.
 
 Czaszka Yoricka
 
-
 To potężny symbol memento mori, przypomnienie o nieuchronności śmierci i marności ludzkiego życia.16 W Akcie V, scena i, Hamlet, trzymając w dłoniach czaszkę nadwornego błazna, którego pamięta z dzieciństwa, konfrontuje się z fizycznym aspektem śmierci. Czaszka jest ostatecznym dowodem na to, że śmierć jest wielkim unifikatorem – redukuje wszystkich, od błazna po Aleksandra Wielkiego, do prochu i kości.93 Ten rekwizyt symbolizuje koniec wszelkich pozorów, ambicji i piękna. Jest to wizualny punkt kulminacyjny filozoficznych rozważań Hamleta nad śmiertelnością. Obraz księcia kontemplującego czaszkę stał się jednym z najbardziej ikonicznych w całej kulturze zachodniej.15
-
 
 Kwiaty Ofelii
 
-
 W scenie swojego obłędu Ofelia rozdaje kwiaty i zioła, z których każde ma precyzyjne, symboliczne znaczenie w tzw. "języku kwiatów", dobrze znanym elżbietańskiej publiczności.60 Jej gesty nie są przypadkowe; pod płaszczem szaleństwa dokonuje ona celnej i odważnej krytyki dworu.92
-                                    * Rozmaryn (pamięć) i bratki (myśli) dla Laertesa.
-                                    * Koper (pochlebstwo) i orliki (zdrada małżeńska) prawdopodobnie dla Klaudiusza.
-                                    * Ruta (żal, skrucha) dla Gertrudy i dla siebie.
-                                    * Stokrotka (niewinność), której nikomu nie daje.
-                                    * Fiołki (wierność), które "zwiędły", gdy umarł jej ojciec.114
+    * Rozmaryn (pamięć) i bratki (myśli) dla Laertesa.
+    * Koper (pochlebstwo) i orliki (zdrada małżeńska) prawdopodobnie dla Klaudiusza.
+    * Ruta (żal, skrucha) dla Gertrudy i dla siebie.
+    * Stokrotka (niewinność), której nikomu nie daje.
+    * Fiołki (wierność), które "zwiędły", gdy umarł jej ojciec.114
 
 Kwiaty są tu narzędziem komunikacji, symbolem utraconej niewinności i kruchego piękna zniszczonego przez brutalność świata. Są także wizualnym motywem, który towarzyszy Ofelii aż do jej śmierci w otoczeniu "fantastycznych girland".74
 
-
 Inne motywy
 
-
-                                       * Szpiegostwo i podsłuchiwanie: Postaci nieustannie się obserwują, ukrywają za kotarami, czytają cudze listy. Ten motyw wizualnie buduje atmosferę paranoi i nieufności, gdzie prywatność nie istnieje, a każde słowo może być podsłuchane.17
-                                       * Kazirodztwo: Hamlet ma obsesję na punkcie "kazirodczych prześcieradeł" matki. Małżeństwo z wdową po bracie było w świetle prawa kanonicznego związkiem kazirodczym. Dla Hamleta jest to symbol ostatecznego upadku moralnego i naruszenia naturalnego porządku.98
-
+    * Szpiegostwo i podsłuchiwanie: Postaci nieustannie się obserwują, ukrywają za kotarami, czytają cudze listy. Ten motyw wizualnie buduje atmosferę paranoi i nieufności, gdzie prywatność nie istnieje, a każde słowo może być podsłuchane.17
+    * Kazirodztwo: Hamlet ma obsesję na punkcie "kazirodczych prześcieradeł" matki. Małżeństwo z wdową po bracie było w świetle prawa kanonicznego związkiem kazirodczym. Dla Hamleta jest to symbol ostatecznego upadku moralnego i naruszenia naturalnego porządku.98
 
 CZĘŚĆ VI: STYL I TECHNIKA
 
-
 Styl i technika narracyjna w Hamlecie są równie złożone jak jego tematyka. Shakespeare wykorzystuje szeroki wachlarz środków językowych i dramaturgicznych, aby stworzyć dzieło o niezwykłej głębi psychologicznej i sile oddziaływania.
-
 
 Język i styl
 
-
-
-
 Charakterystyka języka narracji
 
-
 Język Hamleta jest jednym z najbogatszych i najbardziej innowacyjnych w całym kanonie szekspirowskim. Shakespeare operuje na wielu rejestrach stylistycznych, dostosowując język do postaci, sytuacji i celu dramaturgicznego.
-                                       * Wiersz biały (Blank Verse): Większość tekstu napisana jest wierszem białym, czyli nierymowanym pentametrem jambicznym. Jest to język podniosły, poetycki, zarezerwowany dla postaci arystokratycznych w momentach formalnych lub głębokiej refleksji.116 Nadaje on dialogom rytm i powagę.
-                                       * Proza: Shakespeare mistrzowsko wykorzystuje prozę do charakteryzacji i tworzenia kontrastów. Prozą mówią postaci z niższych sfer (np. Grabarze), co oddaje ich prostotę i bezpośredniość. Co istotne, proza staje się również językiem szaleństwa – zarówno udawanego obłędu Hamleta, jak i autentycznego rozpadu psychiki Ofelii. Przejście z wiersza na prozę sygnalizuje zmianę stanu psychicznego lub zerwanie z dworską konwencją.116
-                                       * Złożoność składni: Shakespeare często stosuje inwersję (zmianę naturalnego szyku zdania, np. "So frowned he once" zamiast "He frowned so once") oraz rozbudowane, wielokrotnie złożone zdania, w których główne elementy są oddzielone wtrąceniami. Nadaje to językowi formalny, a czasem celowo zawiły charakter, odzwierciedlając skomplikowany tok myślenia postaci.117
-
+    * Wiersz biały (Blank Verse): Większość tekstu napisana jest wierszem białym, czyli nierymowanym pentametrem jambicznym. Jest to język podniosły, poetycki, zarezerwowany dla postaci arystokratycznych w momentach formalnych lub głębokiej refleksji.116 Nadaje on dialogom rytm i powagę.
+    * Proza: Shakespeare mistrzowsko wykorzystuje prozę do charakteryzacji i tworzenia kontrastów. Prozą mówią postaci z niższych sfer (np. Grabarze), co oddaje ich prostotę i bezpośredniość. Co istotne, proza staje się również językiem szaleństwa – zarówno udawanego obłędu Hamleta, jak i autentycznego rozpadu psychiki Ofelii. Przejście z wiersza na prozę sygnalizuje zmianę stanu psychicznego lub zerwanie z dworską konwencją.116
+    * Złożoność składni: Shakespeare często stosuje inwersję (zmianę naturalnego szyku zdania, np. "So frowned he once" zamiast "He frowned so once") oraz rozbudowane, wielokrotnie złożone zdania, w których główne elementy są oddzielone wtrąceniami. Nadaje to językowi formalny, a czasem celowo zawiły charakter, odzwierciedlając skomplikowany tok myślenia postaci.117
 
 Dialogi
 
-
 Dialogi w Hamlecie są niezwykle dynamiczne i pełne ukrytych znaczeń. Szczególnie w wypowiedziach Hamleta, język staje się narzędziem walki. Używa on kalamburów, gier słownych i dwuznaczności, aby drwić ze swoich rozmówców, ukrywać swoje prawdziwe myśli i testować ich inteligencję. Przykłady to jego pierwsza kwestia do Klaudiusza: "A little more than kin, and less than kind" (gra słów "kin" - krewny i "kind" - życzliwy/tego samego rodzaju) czy odpowiedź na pytanie, dlaczego jest w słońcu: "I am too much i' the sun" (gra słów "sun" - słońce i "son" - syn).118 Te lingwistyczne potyczki czynią dialogi intelektualnym pojedynkiem.
-
 
 Środki stylistyczne
 
-
 Dramat jest nasycony środkami poetyckimi, które wzbogacają jego warstwę znaczeniową.
-                                       * Metafory i porównania: Shakespeare tworzy potężne obrazy metaforyczne, które stają się kluczowymi motywami dzieła. Świat jako "nieplewiony ogród", Dania jako "więzienie", słowa jako "sztylety" wbijane w uszy – te obrazy nadają abstrakcyjnym pojęciom zmysłową, konkretną formę.118
-                                       * Solilokwia: Hamlet słynie z siedmiu wielkich solilokwiów (monologów wewnętrznych), które są majstersztykiem introspekcji. Pozwalają one publiczności na bezpośredni wgląd w umysł i duszę bohatera, jego filozoficzne rozterki, ból, gniew i zwątpienie.118 Są to momenty zawieszenia akcji na rzecz głębokiej analizy psychologicznej.
-                                       * Aluzje: Tekst jest gęsto utkany z aluzji do mitologii greckiej i rzymskiej (Hyperion, satyr, Niobe, Herkules) oraz do Biblii (historia Kaina i Abla, córka Jeftego). Te odniesienia umieszczają tragedię Hamleta w szerokim kontekście kulturowym, nadając jej uniwersalny wymiar.119
-
+    * Metafory i porównania: Shakespeare tworzy potężne obrazy metaforyczne, które stają się kluczowymi motywami dzieła. Świat jako "nieplewiony ogród", Dania jako "więzienie", słowa jako "sztylety" wbijane w uszy – te obrazy nadają abstrakcyjnym pojęciom zmysłową, konkretną formę.118
+    * Solilokwia: Hamlet słynie z siedmiu wielkich solilokwiów (monologów wewnętrznych), które są majstersztykiem introspekcji. Pozwalają one publiczności na bezpośredni wgląd w umysł i duszę bohatera, jego filozoficzne rozterki, ból, gniew i zwątpienie.118 Są to momenty zawieszenia akcji na rzecz głębokiej analizy psychologicznej.
+    * Aluzje: Tekst jest gęsto utkany z aluzji do mitologii greckiej i rzymskiej (Hyperion, satyr, Niobe, Herkules) oraz do Biblii (historia Kaina i Abla, córka Jeftego). Te odniesienia umieszczają tragedię Hamleta w szerokim kontekście kulturowym, nadając jej uniwersalny wymiar.119
 
 Techniki narracyjne
 
-
-
-
 Typ narratora
-
 
 Jako utwór dramatyczny, Hamlet nie posiada tradycyjnego narratora. Historia opowiadana jest bezpośrednio poprzez działania i dialogi postaci. Jednakże, Horacy pełni wyjątkową rolę. Jest on wewnętrznym świadkiem i powiernikiem, któremu Hamlet ufa. Na końcu dramatu to właśnie jemu przypada zadanie opowiedzenia "prawdziwej historii" o tragedii, co czyni go niejako ostatecznym narratorem i strażnikiem pamięci.80
 
-
 Perspektywa narracyjna
-
 
 Perspektywa jest wielopunktowa. Dzięki solilokwiom i scenom na stronie, publiczność ma dostęp do wewnętrznych myśli nie tylko Hamleta, ale także Klaudiusza (w scenie modlitwy). Ta technika pozwala na głębsze zrozumienie motywacji głównych adwersarzy.
 
-
 Techniki budowania napięcia
 
-
-                                       * Ironia dramatyczna: Jest to kluczowa technika w Hamlecie. Publiczność od końca Aktu I wie, że Klaudiusz jest mordercą, podczas gdy większość postaci na scenie pozostaje w nieświadomości. Ta rozbieżność w wiedzy tworzy ogromne napięcie w każdej scenie, w której Hamlet wchodzi w interakcję z Klaudiuszem lub innymi dworzanami.116 Najdoskonalszym przykładem jest scena modlitwy: Hamlet rezygnuje z zabicia Klaudiusza, wierząc, że ten modli się i uzyska rozgrzeszenie, podczas gdy publiczność dowiaduje się chwilę później, że modlitwa była bezskuteczna.121
-                                       * Zapowiedzi (Foreshadowing): Pojawienie się Ducha na początku jest złowróżbnym znakiem, zapowiadającym nadchodzącą tragedię.116 Melancholijne rozważania Hamleta o śmierci, jego złe przeczucia przed pojedynkiem ("wszystko źle tu, wokół mego serca") – wszystko to buduje poczucie nieuchronności katastrofy.95
-
+    * Ironia dramatyczna: Jest to kluczowa technika w Hamlecie. Publiczność od końca Aktu I wie, że Klaudiusz jest mordercą, podczas gdy większość postaci na scenie pozostaje w nieświadomości. Ta rozbieżność w wiedzy tworzy ogromne napięcie w każdej scenie, w której Hamlet wchodzi w interakcję z Klaudiuszem lub innymi dworzanami.116 Najdoskonalszym przykładem jest scena modlitwy: Hamlet rezygnuje z zabicia Klaudiusza, wierząc, że ten modli się i uzyska rozgrzeszenie, podczas gdy publiczność dowiaduje się chwilę później, że modlitwa była bezskuteczna.121
+    * Zapowiedzi (Foreshadowing): Pojawienie się Ducha na początku jest złowróżbnym znakiem, zapowiadającym nadchodzącą tragedię.116 Melancholijne rozważania Hamleta o śmierci, jego złe przeczucia przed pojedynkiem ("wszystko źle tu, wokół mego serca") – wszystko to buduje poczucie nieuchronności katastrofy.95
 
 Struktura kompozycyjna
 
-
-
-
 Podział na rozdziały/części
 
-
 Dramat ma klasyczną strukturę pięcioaktową, która odpowiada schematowi tzw. piramidy Freytaga, opisującej rozwój akcji w tragedii.122
-                                       * Akt I: Ekspozycja – wprowadzenie postaci, zawiązanie konfliktu (pojawienie się Ducha i jego nakaz).
-                                       * Akt II: Rozwój akcji (Rising Action) – komplikacje, Hamlet udaje szaleństwo, sprowadzenie Rozenkranca i Gildensterna, plan z aktorami.
-                                       * Akt III: Punkt kulminacyjny (Climax) – "Pułapka na myszy" demaskuje Klaudiusza, Hamlet oszczędza modlącego się króla, zabija Poloniusza w komnacie matki. To punkt zwrotny, po którym nie ma już odwrotu.
-                                       * Akt IV: Akcja opadająca (Falling Action) – konsekwencje zabójstwa Poloniusza: wygnanie Hamleta, szaleństwo i śmierć Ofelii, powrót i spisek Laertesa.
-                                       * Akt V: Katastrofa i rozwiązanie (Catastrophe/Denouement) – scena na cmentarzu, śmiertelny pojedynek, śmierć głównych postaci i przybycie Fortinbrasa, który przywraca porządek.122
-
+    * Akt I: Ekspozycja – wprowadzenie postaci, zawiązanie konfliktu (pojawienie się Ducha i jego nakaz).
+    * Akt II: Rozwój akcji (Rising Action) – komplikacje, Hamlet udaje szaleństwo, sprowadzenie Rozenkranca i Gildensterna, plan z aktorami.
+    * Akt III: Punkt kulminacyjny (Climax) – "Pułapka na myszy" demaskuje Klaudiusza, Hamlet oszczędza modlącego się króla, zabija Poloniusza w komnacie matki. To punkt zwrotny, po którym nie ma już odwrotu.
+    * Akt IV: Akcja opadająca (Falling Action) – konsekwencje zabójstwa Poloniusza: wygnanie Hamleta, szaleństwo i śmierć Ofelii, powrót i spisek Laertesa.
+    * Akt V: Katastrofa i rozwiązanie (Catastrophe/Denouement) – scena na cmentarzu, śmiertelny pojedynek, śmierć głównych postaci i przybycie Fortinbrasa, który przywraca porządek.122
 
 Rytm narracji
 
-
 Rytm Hamleta jest celowo nierównomierny, co odzwierciedla psychikę głównego bohatera.125 Długie okresy pozornego bezruchu, wypełnione introspekcją, filozoficznymi monologami i planowaniem, są gwałtownie przerywane przez nagłe, impulsywne akty przemocy (zabójstwo Poloniusza, finałowa masakra). Ta nieregularność tempa, oscylująca między paraliżem myśli a porywczą akcją, jest jednym z kluczowych elementów strukturalnych dramatu, który utrzymuje publiczność w stanie nieustannego napięcia.
-
 
 CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
 
-
 Hamlet jest dziełem, które na przestrzeni czterech stuleci stało się lustrem, w którym odbijają się zmieniające się prądy intelektualne, lęki i obsesje kultury zachodniej. Jego wieloznaczność sprawia, że każda epoka odnajduje w nim nowe sensy i stawia nowe pytania.
-
 
 Interpretacje krytyczne
 
-
-
-
 Główne nurty interpretacyjne
 
-
-                                       * Interpretacja romantyczna (XIX w.): Krytycy tacy jak Goethe czy Coleridge postrzegali Hamleta jako postać tragiczną nie z powodu wady charakteru, ale nadmiaru zalet. W ich ujęciu, Hamlet jest szlachetną, wrażliwą i głęboko refleksyjną duszą, zbyt delikatną i intelektualną, by sprostać brutalnemu zadaniu krwawej zemsty. Jego tragedia polega na "utracie siły działania w energii myślenia".11
-                                       * Interpretacja psychoanalityczna (XX w.): Najbardziej wpływową interpretacją w tym nurcie jest teoria kompleksu Edypa, sformułowana przez Ernesta Jonesa, ucznia Zygmunta Freuda. Według Jonesa, wahanie Hamleta wynika z jego nieuświadomionego pragnienia. Klaudiusz, zabijając ojca Hamleta i poślubiając jego matkę, zrealizował wyparte, edypalne fantazje samego księcia. Dlatego Hamlet nie może zabić Klaudiusza, gdyż w nim widzi odbicie własnych, zakazanych pragnień, a jego nienawiść do stryja jest maską dla poczucia winy.126 Ta interpretacja miała ogromny wpływ na wiele inscenizacji, w tym na słynny film Laurence'a Oliviera z 1948 roku, który rozpoczyna się planszą z napisem: "To tragedia człowieka, który nie mógł się zdecydować".127
-                                       * Interpretacja egzystencjalistyczna (XX w.): Ten nurt, reprezentowany m.in. przez Jana Kotta, widzi w Hamlecie prototyp bohatera egzystencjalnego. Jest on jednostką wrzuconą w absurdalny, "zgniły" świat, pozbawiony sensu i wartości. Jego słynny monolog "Być, albo nie być" to nie tylko pytanie o samobójstwo, ale fundamentalne pytanie o sens istnienia w obliczu nieuchronnej śmierci i moralnego chaosu.128 Hamlet doświadcza "mdłości" (w sensie sartre'owskim) w konfrontacji z fałszem i zepsuciem otaczającej go rzeczywistości.128
-                                       * Interpretacje współczesne: Nowsze odczytania często koncentrują się na aspektach politycznych (Hamlet jako dramat o państwie totalitarnym, opartym na inwigilacji), metateatralnych (Hamlet jako sztuka o samej naturze teatru i iluzji) oraz feministycznych, które na nowo analizują postacie Gertrudy i Ofelii, ukazując je jako ofiary patriarchalnego systemu, a nie tylko jako bierne obiekty męskich działań.
-
+    * Interpretacja romantyczna (XIX w.): Krytycy tacy jak Goethe czy Coleridge postrzegali Hamleta jako postać tragiczną nie z powodu wady charakteru, ale nadmiaru zalet. W ich ujęciu, Hamlet jest szlachetną, wrażliwą i głęboko refleksyjną duszą, zbyt delikatną i intelektualną, by sprostać brutalnemu zadaniu krwawej zemsty. Jego tragedia polega na "utracie siły działania w energii myślenia".11
+    * Interpretacja psychoanalityczna (XX w.): Najbardziej wpływową interpretacją w tym nurcie jest teoria kompleksu Edypa, sformułowana przez Ernesta Jonesa, ucznia Zygmunta Freuda. Według Jonesa, wahanie Hamleta wynika z jego nieuświadomionego pragnienia. Klaudiusz, zabijając ojca Hamleta i poślubiając jego matkę, zrealizował wyparte, edypalne fantazje samego księcia. Dlatego Hamlet nie może zabić Klaudiusza, gdyż w nim widzi odbicie własnych, zakazanych pragnień, a jego nienawiść do stryja jest maską dla poczucia winy.126 Ta interpretacja miała ogromny wpływ na wiele inscenizacji, w tym na słynny film Laurence'a Oliviera z 1948 roku, który rozpoczyna się planszą z napisem: "To tragedia człowieka, który nie mógł się zdecydować".127
+    * Interpretacja egzystencjalistyczna (XX w.): Ten nurt, reprezentowany m.in. przez Jana Kotta, widzi w Hamlecie prototyp bohatera egzystencjalnego. Jest on jednostką wrzuconą w absurdalny, "zgniły" świat, pozbawiony sensu i wartości. Jego słynny monolog "Być, albo nie być" to nie tylko pytanie o samobójstwo, ale fundamentalne pytanie o sens istnienia w obliczu nieuchronnej śmierci i moralnego chaosu.128 Hamlet doświadcza "mdłości" (w sensie sartre'owskim) w konfrontacji z fałszem i zepsuciem otaczającej go rzeczywistości.128
+    * Interpretacje współczesne: Nowsze odczytania często koncentrują się na aspektach politycznych (Hamlet jako dramat o państwie totalitarnym, opartym na inwigilacji), metateatralnych (Hamlet jako sztuka o samej naturze teatru i iluzji) oraz feministycznych, które na nowo analizują postacie Gertrudy i Ofelii, ukazując je jako ofiary patriarchalnego systemu, a nie tylko jako bierne obiekty męskich działań.
 
 Znaczenie kulturowe
 
-
-
-
 Wpływ na literaturę
-
 
 Wpływ Hamleta na literaturę światową jest nie do przecenienia. Dzieło to stało się archetypem, do którego odwołują się, z którym polemizują i który przetwarzają kolejne pokolenia pisarzy. Postać Hamleta – wyalienowanego intelektualisty, rozdartego wewnętrznie bohatera – stała się wzorcem dla niezliczonych postaci literackich. Odniesienia i adaptacje można znaleźć w dziełach tak różnych jak Zbrodnia i kara Fiodora Dostojewskiego, Ulisses Jamesa Joyce'a, czy Rosencrantz i Guildenstern nie żyją Toma Stopparda.130 Frazy z dramatu, takie jak "być, albo nie być", "coś gnije w państwie duńskim" czy "reszta jest milczeniem", weszły na stałe do języka potocznego na całym świecie.
 
-
 Adaptacje (film, teatr, inne media)
 
-
 Hamlet jest najczęściej wystawianym dramatem Shakespeare'a i doczekał się setek adaptacji filmowych, teatralnych, operowych i telewizyjnych. Każda z nich stanowi unikalną interpretację, odzwierciedlającą estetykę i wrażliwość swoich czasów.
-                                       * Film Laurence'a Oliviera (1948): Wizualnie surowy, nakręcony w czerni i bieli, z wykorzystaniem techniki głębi ostrości. Scenografia jest minimalistyczna i oniryczna, a puste, labiryntowe korytarze zamku podkreślają samotność i psychiczne uwięzienie bohatera. Interpretacja jest silnie psychologiczna, z wyraźnymi akcentami freudowskimi.127
-                                       * Film Franco Zeffirellego (1990): Bardziej realistyczna i dynamiczna adaptacja, osadzona w surowych, średniowiecznych realiach. Zeffirelli kładzie nacisk na akcję, polityczne intrygi i fizyczną gwałtowność konfliktu. W tej wersji postacie kobiece, zwłaszcza Gertruda (Glenn Close), są przedstawione jako silniejsze i bardziej aktywne.134
-                                       * Film Kennetha Branagha (1996): Najbardziej monumentalna adaptacja, wykorzystująca pełny, niecięty tekst dramatu. Akcja została przeniesiona do XIX wieku, co pozwoliło na stworzenie wizualnie olśniewającego świata wielkiego europejskiego dworu. Branagh często używa retrospekcji (flashbacków), aby zwizualizować wydarzenia, o których w tekście tylko się mówi, np. morderstwo króla Hamleta czy intymną relację Hamleta z Ofelią.136
-                                       * Wpływ na popkulturę: Motywy z Hamleta przeniknęły głęboko do kultury masowej, od bezpośrednich nawiązań w serialach takich jak The Simpsons czy Star Trek, po luźne adaptacje fabularne, jak w animowanym filmie Disneya Król Lew.131
-
+    * Film Laurence'a Oliviera (1948): Wizualnie surowy, nakręcony w czerni i bieli, z wykorzystaniem techniki głębi ostrości. Scenografia jest minimalistyczna i oniryczna, a puste, labiryntowe korytarze zamku podkreślają samotność i psychiczne uwięzienie bohatera. Interpretacja jest silnie psychologiczna, z wyraźnymi akcentami freudowskimi.127
+    * Film Franco Zeffirellego (1990): Bardziej realistyczna i dynamiczna adaptacja, osadzona w surowych, średniowiecznych realiach. Zeffirelli kładzie nacisk na akcję, polityczne intrygi i fizyczną gwałtowność konfliktu. W tej wersji postacie kobiece, zwłaszcza Gertruda (Glenn Close), są przedstawione jako silniejsze i bardziej aktywne.134
+    * Film Kennetha Branagha (1996): Najbardziej monumentalna adaptacja, wykorzystująca pełny, niecięty tekst dramatu. Akcja została przeniesiona do XIX wieku, co pozwoliło na stworzenie wizualnie olśniewającego świata wielkiego europejskiego dworu. Branagh często używa retrospekcji (flashbacków), aby zwizualizować wydarzenia, o których w tekście tylko się mówi, np. morderstwo króla Hamleta czy intymną relację Hamleta z Ofelią.136
+    * Wpływ na popkulturę: Motywy z Hamleta przeniknęły głęboko do kultury masowej, od bezpośrednich nawiązań w serialach takich jak The Simpsons czy Star Trek, po luźne adaptacje fabularne, jak w animowanym filmie Disneya Król Lew.131
 
 Miejsce w kanonie
 
-
 Hamlet zajmuje niekwestionowaną, centralną pozycję w zachodnim kanonie literackim. Jest uważany za jedno z największych osiągnięć ludzkiego ducha, dzieło, które w sposób najpełniejszy wyraża złożoność ludzkiej psychiki, dylematy moralne i egzystencjalne pytania o sens życia, śmierci i sprawiedliwości. Jego nieustanna obecność w programach nauczania, na scenach teatralnych i w dyskursie kulturowym świadczy o jego ponadczasowej sile i znaczeniu.
-
 
 Aktualność przesłania
 
-
 Mimo że Hamlet powstał ponad 400 lat temu, jego przesłanie pozostaje niezwykle aktualne.
-                                       * Uniwersalne wartości: Dramat porusza fundamentalne, ponadczasowe problemy: żałobę po stracie bliskiej osoby, poczucie zdrady, walkę o sprawiedliwość w skorumpowanym świecie, konflikt między obowiązkiem a osobistymi przekonaniami.
-                                       * Znaczenie dla współczesnego czytelnika: W dobie "fake newsów" i kryzysu autorytetów, dylemat Hamleta – jak odróżnić prawdę od fałszu, komu ufać w świecie pełnym manipulacji – rezonuje ze szczególną siłą. Jego poczucie wyobcowania, paraliż decyzyjny w obliczu nadmiaru informacji i moralnej niejednoznaczności, a także jego zmagania ze zdrowiem psychicznym, czynią go postacią zaskakująco bliską współczesnemu odbiorcy.130
-                                       * Lekcje moralne: Hamlet nie oferuje prostych odpowiedzi. Zamiast tego, zmusza do refleksji nad naturą dobra i zła, kosztami zemsty i konsekwencjami naszych działań (i ich braku). Uczy, że droga do sprawiedliwości jest często skomplikowana i moralnie niejednoznaczna, a pogoń za nią może prowadzić do samozniszczenia.
-
+    * Uniwersalne wartości: Dramat porusza fundamentalne, ponadczasowe problemy: żałobę po stracie bliskiej osoby, poczucie zdrady, walkę o sprawiedliwość w skorumpowanym świecie, konflikt między obowiązkiem a osobistymi przekonaniami.
+    * Znaczenie dla współczesnego czytelnika: W dobie "fake newsów" i kryzysu autorytetów, dylemat Hamleta – jak odróżnić prawdę od fałszu, komu ufać w świecie pełnym manipulacji – rezonuje ze szczególną siłą. Jego poczucie wyobcowania, paraliż decyzyjny w obliczu nadmiaru informacji i moralnej niejednoznaczności, a także jego zmagania ze zdrowiem psychicznym, czynią go postacią zaskakująco bliską współczesnemu odbiorcy.130
+    * Lekcje moralne: Hamlet nie oferuje prostych odpowiedzi. Zamiast tego, zmusza do refleksji nad naturą dobra i zła, kosztami zemsty i konsekwencjami naszych działań (i ich braku). Uczy, że droga do sprawiedliwości jest często skomplikowana i moralnie niejednoznaczna, a pogoń za nią może prowadzić do samozniszczenia.
 
 CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
 
-
 Ta sekcja stanowi skondensowany katalog kluczowych elementów wizualnych, zaprojektowany jako praktyczne narzędzie dla zespołu kreatywnego. Celem jest zapewnienie spójności i dostarczenie szybkiego dostępu do najważniejszych informacji wizualnych niezbędnych w procesie adaptacji.
-
 
 Katalog postaci z opisami wizualnymi
 
-
 Poniższa tabela zbiera i systematyzuje szczegółowe opisy wizualne wszystkich istotnych postaci dramatu.
 Postać
-	Szacowany wiek
-	Wzrost i budowa ciała
-	Włosy, oczy, twarz
-	Charakterystyczny ubiór
-	Rekwizyty osobiste
-	Hamlet
-	30 lat (lub ok. 20)
-	Średnia/smukła, nieatletyczna
-	BRAK DANYCH. Tradycyjnie: ciemne włosy, inteligentne, melancholijne oczy.
-	Początkowo: prosty, czarny aksamitny dublet i nogawice. W szaleństwie: rozchełstany, brudny strój. W finale: biała koszula szermiercza.
-	Książka, rapier, medaliony z portretami.
-	Klaudiusz
-	Ok. 50 lat
-	Postawny, władczy
-	BRAK DANYCH. Twarz polityka, zdolna do uśmiechu i groźby. Może mieć rumianą cerę.
-	Bogato zdobione, królewskie stroje w kolorach purpury i złota. Futra, klejnoty.
-	Puchar z winem, berło, korona.
-	Gertruda
-	Ok. 45-50 lat
-	Królewska, pełna, atrakcyjna
-	BRAK DANYCH. Twarz wyrażająca zmysłowość i być może słabość charakteru.
-	Luksusowe, modne suknie w nasyconych kolorach. Dużo biżuterii.
-	Puchar z winem, wachlarz.
-	Poloniusz
-	Ok. 60-70 lat
-	Lekko przygarbiony, szczupły
-	BRAK DANYCH. Długa, siwa broda. Oczy bystre, ciekawskie.
-	Ciemne, formalne szaty urzędnika państwowego, być może z futrzanym kołnierzem.
-	Laska, oficjalne dokumenty.
-	Ofelia
-	16-18 lat
-	Drobna, szczupła, delikatna
-	BRAK DANYCH. Tradycyjnie: długie, jasne włosy. Twarz niewinna i wrażliwa.
-	Proste suknie w jasnych, pastelowych kolorach. W szaleństwie: rozpuszczone włosy, niechlujny strój.
-	Kwiaty i zioła, lutnia (w niektórych inscenizacjach).
-	Laertes
-	Ok. 22-25 lat
-	Wysportowany, zwinny
-	BRAK DANYCH. Twarz porywcza, pełna pasji.
-	Modny strój młodego szlachcica (styl francuski). W finale: biała koszula szermiercza.
-	Rapier i sztylet (lewik).
-	Horacy
-	Ok. 30 lat
-	Przeciętna budowa
-	BRAK DANYCH. Twarz spokojna, inteligentna, godna zaufania.
-	Skromny, ciemny strój uczonego.
-	Książki.
-	Duch
-	Ok. 50 lat (w chwili śmierci)
-	Postawny, majestatyczny
-	Twarz zmarłego króla, blada, pełna smutku. Siwiejąca, czarna broda.
-	Pełna zbroja płytowa (na blankach). Szlafrok/strój domowy (w komnacie).
-	Brak.
-	Fortinbras
-	Ok. 20-25 lat
-	Wysoki, silny, wojskowy
-	BRAK DANYCH. Twarz zdeterminowana, pełna ambicji.
-	Zbroja dowódcy wojskowego, płaszcz.
-	Miecz.
-	Rozenkranc i Gildenstern
-	Ok. 30 lat
-	Przeciętna budowa, niemal identyczni
-	BRAK DANYCH. Twarze uśmiechnięte, służalcze.
-	Identyczne lub bardzo podobne, modne stroje dworskie, nieco zbyt krzykliwe.
-	Brak.
-	
+    Szacowany wiek
+    Wzrost i budowa ciała
+    Włosy, oczy, twarz
+    Charakterystyczny ubiór
+    Rekwizyty osobiste
+    Hamlet
+    30 lat (lub ok. 20)
+    Średnia/smukła, nieatletyczna
+    BRAK DANYCH. Tradycyjnie: ciemne włosy, inteligentne, melancholijne oczy.
+    Początkowo: prosty, czarny aksamitny dublet i nogawice. W szaleństwie: rozchełstany, brudny strój. W finale: biała koszula szermiercza.
+    Książka, rapier, medaliony z portretami.
+    Klaudiusz
+    Ok. 50 lat
+    Postawny, władczy
+    BRAK DANYCH. Twarz polityka, zdolna do uśmiechu i groźby. Może mieć rumianą cerę.
+    Bogato zdobione, królewskie stroje w kolorach purpury i złota. Futra, klejnoty.
+    Puchar z winem, berło, korona.
+    Gertruda
+    Ok. 45-50 lat
+    Królewska, pełna, atrakcyjna
+    BRAK DANYCH. Twarz wyrażająca zmysłowość i być może słabość charakteru.
+    Luksusowe, modne suknie w nasyconych kolorach. Dużo biżuterii.
+    Puchar z winem, wachlarz.
+    Poloniusz
+    Ok. 60-70 lat
+    Lekko przygarbiony, szczupły
+    BRAK DANYCH. Długa, siwa broda. Oczy bystre, ciekawskie.
+    Ciemne, formalne szaty urzędnika państwowego, być może z futrzanym kołnierzem.
+    Laska, oficjalne dokumenty.
+    Ofelia
+    16-18 lat
+    Drobna, szczupła, delikatna
+    BRAK DANYCH. Tradycyjnie: długie, jasne włosy. Twarz niewinna i wrażliwa.
+    Proste suknie w jasnych, pastelowych kolorach. W szaleństwie: rozpuszczone włosy, niechlujny strój.
+    Kwiaty i zioła, lutnia (w niektórych inscenizacjach).
+    Laertes
+    Ok. 22-25 lat
+    Wysportowany, zwinny
+    BRAK DANYCH. Twarz porywcza, pełna pasji.
+    Modny strój młodego szlachcica (styl francuski). W finale: biała koszula szermiercza.
+    Rapier i sztylet (lewik).
+    Horacy
+    Ok. 30 lat
+    Przeciętna budowa
+    BRAK DANYCH. Twarz spokojna, inteligentna, godna zaufania.
+    Skromny, ciemny strój uczonego.
+    Książki.
+    Duch
+    Ok. 50 lat (w chwili śmierci)
+    Postawny, majestatyczny
+    Twarz zmarłego króla, blada, pełna smutku. Siwiejąca, czarna broda.
+    Pełna zbroja płytowa (na blankach). Szlafrok/strój domowy (w komnacie).
+    Brak.
+    Fortinbras
+    Ok. 20-25 lat
+    Wysoki, silny, wojskowy
+    BRAK DANYCH. Twarz zdeterminowana, pełna ambicji.
+    Zbroja dowódcy wojskowego, płaszcz.
+    Miecz.
+    Rozenkranc i Gildenstern
+    Ok. 30 lat
+    Przeciętna budowa, niemal identyczni
+    BRAK DANYCH. Twarze uśmiechnięte, służalcze.
+    Identyczne lub bardzo podobne, modne stroje dworskie, nieco zbyt krzykliwe.
+    Brak.
 
 Katalog lokacji
 
-
 Poniższa tabela systematyzuje opisy kluczowych lokacji, koncentrując się na ich wizualnym i atmosferycznym charakterze.
 Lokacja
-	Styl architektoniczny
-	Kolorystyka
-	Oświetlenie
-	Elementy charakterystyczne
-	Atmosfera / Nastrój
-	Blanka (Platform)
-	Renesansowa fortyfikacja
-	Szarość kamienia, chłodne błękity i biele
-	Noc: mroczne, księżycowe, punktowe (latarnia)
-	Kamienne krenelaże, widok na morze, mgła
-	Napięcie, strach, zimno, nadprzyrodzona groza
-	Sala Tronowa (Great Hall)
-	Holenderski renesans
-	Ciemne drewno, biel ścian, barwne gobeliny, złoto
-	Dzień: jasne, z okien. Noc: dramatyczne, migotliwe (pochodnie, świece)
-	Dwa trony na podwyższeniu, długi stół, wielkie gobeliny
-	Formalność, pozorna wesołość, ukryte napięcie, publiczny spektakl
-	Komnata Królowej (Closet)
-	Renesansowe wnętrze
-	Ciepłe barwy, bogate tkaniny
-	Miękkie, intymne światło świec
-	Wielkie łoże, toaletka, ciężki arras (gobelin) na ścianie
-	Prywatność, klaustrofobia, gwałtowna konfrontacja emocjonalna
-	Cmentarz (Churchyard)
-	Prosty, wiejski
-	Szarość kamienia, brązy ziemi, zieleń trawy i mchu
-	Dzień: surowe, chłodne światło dzienne
-	Stare, omszałe nagrobki, otwarty grób, czaszki i kości
-	Melancholia, rozkład, konfrontacja ze śmiertelnością
-	Kaplica (Chapel)
-	Późny gotyk / renesans
-	Kamień, ciemne drewno, witraże
-	Półmrok, światło sączące się przez witraże
-	Klęcznik (prie-dieu), ołtarz, krucyfiks
-	Udręka, poczucie winy, moralny dylemat, samotność
-	
+    Styl architektoniczny
+    Kolorystyka
+    Oświetlenie
+    Elementy charakterystyczne
+    Atmosfera / Nastrój
+    Blanka (Platform)
+    Renesansowa fortyfikacja
+    Szarość kamienia, chłodne błękity i biele
+    Noc: mroczne, księżycowe, punktowe (latarnia)
+    Kamienne krenelaże, widok na morze, mgła
+    Napięcie, strach, zimno, nadprzyrodzona groza
+    Sala Tronowa (Great Hall)
+    Holenderski renesans
+    Ciemne drewno, biel ścian, barwne gobeliny, złoto
+    Dzień: jasne, z okien. Noc: dramatyczne, migotliwe (pochodnie, świece)
+    Dwa trony na podwyższeniu, długi stół, wielkie gobeliny
+    Formalność, pozorna wesołość, ukryte napięcie, publiczny spektakl
+    Komnata Królowej (Closet)
+    Renesansowe wnętrze
+    Ciepłe barwy, bogate tkaniny
+    Miękkie, intymne światło świec
+    Wielkie łoże, toaletka, ciężki arras (gobelin) na ścianie
+    Prywatność, klaustrofobia, gwałtowna konfrontacja emocjonalna
+    Cmentarz (Churchyard)
+    Prosty, wiejski
+    Szarość kamienia, brązy ziemi, zieleń trawy i mchu
+    Dzień: surowe, chłodne światło dzienne
+    Stare, omszałe nagrobki, otwarty grób, czaszki i kości
+    Melancholia, rozkład, konfrontacja ze śmiertelnością
+    Kaplica (Chapel)
+    Późny gotyk / renesans
+    Kamień, ciemne drewno, witraże
+    Półmrok, światło sączące się przez witraże
+    Klęcznik (prie-dieu), ołtarz, krucyfiks
+    Udręka, poczucie winy, moralny dylemat, samotność
 
 Kluczowe sceny do wizualizacji
 
-
 Lista 10 najważniejszych scen, które stanowią wizualne i dramaturgiczne filary opowieści.
-                                       1. Pierwsze spotkanie z Duchem (Akt I, Scena 1): Mrok, mgła na blankach. Przerażeni strażnicy i sceptyczny Horacy. Milcząca, majestatyczna postać w zbroi.
-                                       2. Pierwszy solilokwium Hamleta (Akt I, Scena 2): Pośród barwnego, wesołego dworu, samotna, czarna postać Hamleta. Gdy zostaje sam, jego twarz wyraża głęboką rozpacz i wstręt.
-                                       3. Objawienie Ducha (Akt I, Scena 5): Intymna rozmowa Hamleta z Duchem w odosobnionym miejscu na murach. Duch opowiada o morderstwie. Twarz Hamleta zmienia się z lęku w szok i determinację.
-                                       4. Opis "szaleństwa" Hamleta przez Ofelię (Akt II, Scena 1): Scena opowiadana, nie pokazywana. Kluczowa decyzja adaptacyjna: czy pokazać tę scenę w retrospekcji? Obraz rozchełstanego, milczącego Hamleta przerażającego Ofelię.
-                                       5. "Pułapka na myszy" (Akt III, Scena 2): Cały dwór ogląda przedstawienie. Napięcie rośnie. Gwałtowna reakcja Klaudiusza – jego twarz w świetle pochodni wykrzywiona przerażeniem. Triumf na twarzy Hamleta.
-                                       6. Scena modlitwy (Akt III, Scena 3): Ciemna kaplica. Klęczący, udręczony Klaudiusz. Za nim, w cieniu, stoi Hamlet z uniesionym mieczem. Moment zawieszenia.
-                                       7. Konfrontacja w komnacie matki (Akt III, Scena 4): Gwałtowna, fizyczna kłótnia. Hamlet zabija Poloniusza przez arras. Pojawia się Duch, widzialny tylko dla Hamleta.
-                                       8. Szaleństwo Ofelii (Akt IV, Scena 5): Ofelia z rozpuszczonymi włosami, śpiewająca i rozdająca symboliczne kwiaty. Scena pełna patosu i zakłopotania dworu.
-                                       9. Scena na cmentarzu (Akt V, Scena 1): Hamlet trzymający czaszkę Yoricka. Kontemplacja nad śmiercią w otoczeniu otwartego grobu i kości.
-                                       10. Finałowy pojedynek i masakra (Akt V, Scena 2): Szybka, śmiertelna walka na rapiery. Kolejne zgony od trucizny: Gertruda, Laertes, Klaudiusz, Hamlet. Wejście Fortinbrasa i jego żołnierzy do sali pełnej ciał.
-
+    1. Pierwsze spotkanie z Duchem (Akt I, Scena 1): Mrok, mgła na blankach. Przerażeni strażnicy i sceptyczny Horacy. Milcząca, majestatyczna postać w zbroi.
+    2. Pierwszy solilokwium Hamleta (Akt I, Scena 2): Pośród barwnego, wesołego dworu, samotna, czarna postać Hamleta. Gdy zostaje sam, jego twarz wyraża głęboką rozpacz i wstręt.
+    3. Objawienie Ducha (Akt I, Scena 5): Intymna rozmowa Hamleta z Duchem w odosobnionym miejscu na murach. Duch opowiada o morderstwie. Twarz Hamleta zmienia się z lęku w szok i determinację.
+    4. Opis "szaleństwa" Hamleta przez Ofelię (Akt II, Scena 1): Scena opowiadana, nie pokazywana. Kluczowa decyzja adaptacyjna: czy pokazać tę scenę w retrospekcji? Obraz rozchełstanego, milczącego Hamleta przerażającego Ofelię.
+    5. "Pułapka na myszy" (Akt III, Scena 2): Cały dwór ogląda przedstawienie. Napięcie rośnie. Gwałtowna reakcja Klaudiusza – jego twarz w świetle pochodni wykrzywiona przerażeniem. Triumf na twarzy Hamleta.
+    6. Scena modlitwy (Akt III, Scena 3): Ciemna kaplica. Klęczący, udręczony Klaudiusz. Za nim, w cieniu, stoi Hamlet z uniesionym mieczem. Moment zawieszenia.
+    7. Konfrontacja w komnacie matki (Akt III, Scena 4): Gwałtowna, fizyczna kłótnia. Hamlet zabija Poloniusza przez arras. Pojawia się Duch, widzialny tylko dla Hamleta.
+    8. Szaleństwo Ofelii (Akt IV, Scena 5): Ofelia z rozpuszczonymi włosami, śpiewająca i rozdająca symboliczne kwiaty. Scena pełna patosu i zakłopotania dworu.
+    9. Scena na cmentarzu (Akt V, Scena 1): Hamlet trzymający czaszkę Yoricka. Kontemplacja nad śmiercią w otoczeniu otwartego grobu i kości.
+    10. Finałowy pojedynek i masakra (Akt V, Scena 2): Szybka, śmiertelna walka na rapiery. Kolejne zgony od trucizny: Gertruda, Laertes, Klaudiusz, Hamlet. Wejście Fortinbrasa i jego żołnierzy do sali pełnej ciał.
 
 Przedmioty i symbole wizualne
 
-
 Lista kluczowych rekwizytów i symboli, które wymagają starannego projektu wizualnego.
-                                       * Trucizna: Może być przedstawiona jako gęsta, ciemna ciecz w małym flakonie (hebona) lub jako bezbarwny płyn. Na ostrzu rapiera może wyglądać jak oleista, lepka maź. W pucharze może być "perłą", która sycząc, rozpuszcza się w winie.
-                                       * Rapiery: Długie (ok. 100-120 cm), smukłe szpady. Jelec typu "swept hilt" – skomplikowana plątanina metalowych prętów chroniących dłoń. Ostrze Laertesa jest ostre i pozbawione ochronnej gałki na końcu (bated foil).
-                                       * Czaszka Yoricka: Realistyczna ludzka czaszka, pożółkła, być może z brakującymi zębami, bez żuchwy. Powinna wyglądać na starą i wykopaną z ziemi (ślady gleby).
-                                       * Kwiaty Ofelii: Bukiet polnych kwiatów i ziół, które wyglądają na świeżo zerwane. Muszą być wizualnie rozróżnialne, aby widz mógł (z pomocą kontekstu) odczytać ich symbolikę: rozmaryn, bratki, koper, orliki, ruta, stokrotka.
-                                       * Zbroja Ducha: Pełna, stalowa zbroja płytowa w stylu gotyckim lub renesansowym. Powinna być funkcjonalna, a nie czysto ceremonialna. Może nosić ślady walki. Jej powierzchnia może łapać światło w niesamowity, nienaturalny sposób.
-                                       * Medaliony z portretami: Dwa miniaturowe portrety, które Hamlet nosi lub wyjmuje, aby porównać ojca i stryja. Jeden przedstawia szlachetnego, brodatego króla (stary Hamlet), drugi – Klaudiusza.
+    * Trucizna: Może być przedstawiona jako gęsta, ciemna ciecz w małym flakonie (hebona) lub jako bezbarwny płyn. Na ostrzu rapiera może wyglądać jak oleista, lepka maź. W pucharze może być "perłą", która sycząc, rozpuszcza się w winie.
+    * Rapiery: Długie (ok. 100-120 cm), smukłe szpady. Jelec typu "swept hilt" – skomplikowana plątanina metalowych prętów chroniących dłoń. Ostrze Laertesa jest ostre i pozbawione ochronnej gałki na końcu (bated foil).
+    * Czaszka Yoricka: Realistyczna ludzka czaszka, pożółkła, być może z brakującymi zębami, bez żuchwy. Powinna wyglądać na starą i wykopaną z ziemi (ślady gleby).
+    * Kwiaty Ofelii: Bukiet polnych kwiatów i ziół, które wyglądają na świeżo zerwane. Muszą być wizualnie rozróżnialne, aby widz mógł (z pomocą kontekstu) odczytać ich symbolikę: rozmaryn, bratki, koper, orliki, ruta, stokrotka.
+    * Zbroja Ducha: Pełna, stalowa zbroja płytowa w stylu gotyckim lub renesansowym. Powinna być funkcjonalna, a nie czysto ceremonialna. Może nosić ślady walki. Jej powierzchnia może łapać światło w niesamowity, nienaturalny sposób.
+    * Medaliony z portretami: Dwa miniaturowe portrety, które Hamlet nosi lub wyjmuje, aby porównać ojca i stryja. Jeden przedstawia szlachetnego, brodatego króla (stary Hamlet), drugi – Klaudiusza.
 ________________
 ŹRÓDŁA
 1,
 Cytowane prace
-                                       1. Hamlet - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Hamlet
-                                       2. "Hamlet": a Presentation in 8 Literary Elements - literature...no trouble, otwierano: sierpnia 18, 2025, https://www.literature-no-trouble.com/hamlet-a-presentation-in-8-literary-elements/
-                                       3. Hamlet Study Guide | Literature Guide - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet
-                                       4. Historical Context (Hamlet) | Revision World, otwierano: sierpnia 18, 2025, https://revisionworld.com/level-revision/english-literature-gcse-level/shakespeares-plays/hamlet/historical
-                                       5. Hamlet | Summary, Plot, & Characters - Britannica, otwierano: sierpnia 18, 2025, https://www.britannica.com/topic/Hamlet-by-Shakespeare
-                                       6. A Brief History of Hamlet - ArtsEmerson, otwierano: sierpnia 18, 2025, https://artsemerson.org/2018/02/09/a-brief-history-of-hamlet/
-                                       7. The First Quarto of Hamlet by William Shakespeare, Paperback | Barnes & Noble®, otwierano: sierpnia 18, 2025, https://www.barnesandnoble.com/w/the-first-quarto-of-hamlet-william-shakespeare/1100955850
-                                       8. An Introduction to This Text: Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/an-introduction-to-this-text/
-                                       9. Introduction - The First Quarto of Hamlet - Cambridge University Press, otwierano: sierpnia 18, 2025, https://www.cambridge.org/core/books/first-quarto-of-hamlet/introduction/7E1EC7F595305D0AEBA053AD00F1D548
-                                       10. Historical background | Bell Shakespeare, otwierano: sierpnia 18, 2025, https://www.bellshakespeare.com.au/hamlet-historical-background
-                                       11. Hamlet: Critical Approaches - Internet Shakespeare Editions, otwierano: sierpnia 18, 2025, https://internetshakespeare.uvic.ca/doc/Ham_CriticalSurvey/index.html
-                                       12. Hamlet Genre, Tone, & Literary Devices | Literature Guides at IvyPanda®, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/genre-literary-analysis/
-                                       13. Hamlet: Genre - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/genre/
-                                       14. A Modern Perspective: Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/hamlet-a-modern-perspective/
-                                       15. Yorick - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Yorick
-                                       16. 'Poor Yorick': The Photograph as Memento Mori (Chapter 5) - Still Shakespeare and the Photography of Performance - Cambridge University Press, otwierano: sierpnia 18, 2025, https://www.cambridge.org/core/books/still-shakespeare-and-the-photography-of-performance/poor-yorick-the-photograph-as-memento-mori/ED6DA1DA7A3734E5911DC83ED70B3225
-                                       17. Elizabethan Context for Hamlet | Utah Shakespeare Festival, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/hamlet-elizabethan-context/
-                                       18. Hamlet's origins - Actors' Shakespeare Project, otwierano: sierpnia 18, 2025, https://www.actorsshakespeareproject.org/hamlets-origins/
-                                       19. The Project Gutenberg eBook of Hamlet by William Shakespeare, edited by Charles Kean, otwierano: sierpnia 18, 2025, https://www.gutenberg.org/files/27761/27761-h/27761-h.htm
-                                       20. Stage history | Hamlet - Royal Shakespeare Company, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/hamlet/about-the-play/stage-history
-                                       21. Shakespeare and Hamlet (part 1) - Willa Cather Archive, otwierano: sierpnia 18, 2025, https://cather.unl.edu/writings/nonfiction/nf064
-                                       22. Kronborg Castle - UNESCO World Heritage Centre, otwierano: sierpnia 18, 2025, https://whc.unesco.org/en/list/696/
-                                       23. Kronborg Castle | World Heritage - UNESCO Multimedia Archives, otwierano: sierpnia 18, 2025, https://www.unesco.org/archives/multimedia/document-864
-                                       24. 1 Welcome to Kronborg Castle Kronborg became part of the UNESCO world heritage list in 2000. Denmark has three other sites on th - NBI Conference and Meetings (Indico), otwierano: sierpnia 18, 2025, https://indico.nbi.ku.dk/event/614/images/136-Welcome_to_Kronborg_Castle.pdf
-                                       25. Exploring the Architecture of Kronborg Castle in Denmark - MexicoHistorico.com, otwierano: sierpnia 18, 2025, https://www.mexicohistorico.com/paginas/exploring-the-architecture-of-kronborg-castle-in-denmark-a881d439.html
-                                       26. Kronborg (castle) | EBSCO Research Starters, otwierano: sierpnia 18, 2025, https://www.ebsco.com/research-starters/architecture/kronborg-castle
-                                       27. Is Kronborg Castle Worth Visiting? - LaidBack Trip, otwierano: sierpnia 18, 2025, https://www.laidbacktrip.com/posts/visit-kronborg-castle-denmark
-                                       28. Kronborg Castle (Hamlet's Castle) at Helsingør in Pictures, otwierano: sierpnia 18, 2025, https://havecamerawilltravel.photography/kronborg-castle-hamlets-castle-elsinore-denmark/
-                                       29. How were rooms in medieval castles lit during the night? or chambers that had no windows like internal storage or passage ways - Quora, otwierano: sierpnia 18, 2025, https://www.quora.com/How-were-rooms-in-medieval-castles-lit-during-the-night-or-chambers-that-had-no-windows-like-internal-storage-or-passage-ways
-                                       30. How Medieval Kings Light Their Castles Without Electricity - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=2M1Sl1DPrGs
-                                       31. Cozy Medieval Night Ambience with a Castle View | Relaxing Fireplace, Distant Thunder Sounds - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=qCnlXJ2H5ek
-                                       32. The Knights' Hall (room 21) | The Royal Danish Collection - Den Kongelige Samling, otwierano: sierpnia 18, 2025, https://denkongeligesamling.dk/en/rosenborg-castle/interior-and-objects/room-21-the-knights-hall/
-                                       33. Tapestries - Kongehuset, otwierano: sierpnia 18, 2025, https://www.kongehuset.dk/en/royal-collections/tapestries/
-                                       34. Detailed Summary of Hamlet , Act 3, Scene 4 - Shakespeare Navigators, otwierano: sierpnia 18, 2025, https://shakespeare-navigators.ewu.edu/hamlet/Three4.html
-                                       35. 5+ Hundred Old Danish Cemetery Royalty-Free Images, Stock Photos & Pictures, otwierano: sierpnia 18, 2025, https://www.shutterstock.com/search/old-danish-cemetery
-                                       36. Medieval cemetery hi-res stock photography and images - Alamy, otwierano: sierpnia 18, 2025, https://www.alamy.com/stock-photo/medieval-cemetery.html
-                                       37. Clothing of the Elizabethan Era - Renaissance Spell, otwierano: sierpnia 18, 2025, https://www.renaissance-spell.com/Renaissance-Clothing/Elizabethan-Clothing.html
-                                       38. Doublet (clothing) - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Doublet_(clothing)
-                                       39. 1550–1600 in European fashion - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/1550%E2%80%931600_in_European_fashion
-                                       40. HAMLET (ACT 1 SCENE 2) Flashcards - Quizlet, otwierano: sierpnia 18, 2025, https://quizlet.com/gb/381598121/hamlet-act-1-scene-2-flash-cards/
-                                       41. Elizabethan Gown - Fashions In Time, otwierano: sierpnia 18, 2025, https://www.fashionsintime.com/html/elizabethan-ladies.html
-                                       42. What Does Gertrude's Wardrobe Represent - 737 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/What-Does-Gertrudes-Wardrobe-Represent-3192B443A40C631F
-                                       43. Hamlet Movie Costume Review | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/555994579/Hamlet-Movie-costume-review
-                                       44. Hamlet Act I: Scene ii Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section2/
-                                       45. Mourning Fashion - UM Clements Library, otwierano: sierpnia 18, 2025, https://clements.umich.edu/exhibit/death-in-early-america/mourning-fashion/
-                                       46. Mourning Attire - The Huntington, otwierano: sierpnia 18, 2025, https://www.huntington.org/frontiers/mourning-attire
-                                       47. Mourning Fashion in White, otwierano: sierpnia 18, 2025, https://artofmourning.com/mourning-fashion-in-white/
-                                       48. Renaissance Rapier Sword Handcrafted Fencing Sword 17th Century Rapier Ornate | eBay, otwierano: sierpnia 18, 2025, https://www.ebay.com/itm/376379770796
-                                       49. Functional Fencing Rapiers - Dark Knight Armoury, otwierano: sierpnia 18, 2025, https://www.darkknightarmoury.com/product-category/weaponry-3/fencing/functional-fencing-rapiers/
-                                       50. Renaissance-Fencing Terminology, otwierano: sierpnia 18, 2025, https://www.thearma.org/terms3.htm
-                                       51. Medieval Renaissance Wine Goblet Chalice - Handcrafted European Style Whiskey Cup for Communion & Gifts - DHgate, otwierano: sierpnia 18, 2025, https://www.dhgate.com/goods/1026206879.html
-                                       52. The History and Significance of Chalices and Goblets - aladean, otwierano: sierpnia 18, 2025, https://aladean.com/blogs/medieval-chalice-vintage-goblets/the-history-and-significance-of-chalices-and-goblets
-                                       53. Hamlet: Entire Play - Shakespeare (MIT), otwierano: sierpnia 18, 2025, https://shakespeare.mit.edu/hamlet/full.html
-                                       54. The Elizabethan era: social, political, and cultural context | Shakespeare Class Notes, otwierano: sierpnia 18, 2025, https://library.fiveable.me/shakespeare/unit-1/elizabethan-era-social-political-cultural-context/study-guide/xQtM9ZY6bga8uOSk
-                                       55. Seeing and Interpreting the Ghosts in Elizabethan Revenge Tragedy - IS MUNI, otwierano: sierpnia 18, 2025, https://is.muni.cz/th/moqna/Seeing_and_Interpreting_the_Ghosts_in_Elizabethan_Revenge_Tragedy.pdf
-                                       56. Hamlet's age in the play - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/questions/hamlet-s-age-in-the-play-3127513
-                                       57. Who reveals Hamlet's age at the end of the play? - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/questions/how-old-hamlet-end-play-27883
-                                       58. Hamlet: Character List - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/characters/
-                                       59. Hamlet's Age - Shaksper.net, otwierano: sierpnia 18, 2025, https://shaksper.net/archive/2006/244-august/24838-hamlets-age
-                                       60. Hamlet: Symbols - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/symbols/
-                                       61. Madness in Hamlet | Royal Shakespeare Company, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/hamlet/about-the-play/madness-in-hamlet
-                                       62. Hamlet Themes: Death, Revenge, & Others [With Quotes] - Custom-Writing.org, otwierano: sierpnia 18, 2025, https://custom-writing.org/blog/hamlet-themes
-                                       63. Hamlet Themes: Corruption - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/themes/corruption
-                                       64. Hamlet - Act V Scene II - Kenneth Branagh - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=EHUZ1_cxdyw
-                                       65. Horatio Character Analysis in Hamlet - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/horatio/
-                                       66. King Claudius - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/King_Claudius
-                                       67. Hamlet Appearance Vs Reality Analysis - 1017 Words - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/Hamlet-Appearance-Vs-Reality-Analysis/FJ9TD6XY5V
-                                       68. www.sparknotes.com, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/claudius/#:~:text=While%20Claudius%20may%20outwardly%20present,a%20toll%20on%20his%20conscience.
-                                       69. Hamlet Act III: Scene iv Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section9/
-                                       70. The role of Polonius in "Hamlet": a man of judgement disturbed - GRIN, otwierano: sierpnia 18, 2025, https://www.grin.com/document/177995
-                                       71. Polonius - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Polonius
-                                       72. Polonius Character Analysis in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/characters/polonius
-                                       73. Madness in Hamlet - English Lit: OCR A Level - Seneca, otwierano: sierpnia 18, 2025, https://senecalearning.com/en-GB/revision-notes/a-level/english-literature/ocr/hamlet/4-2-1-madness-in-hamlet
-                                       74. Of Love and Flowers and…Hamlet? - little farmhouse flowers, otwierano: sierpnia 18, 2025, https://www.littlefarmhouseflowers.com/blog/2017/2/13/of-love-and-flowers-and-hamlet
-                                       75. www.ipl.org, otwierano: sierpnia 18, 2025, https://www.ipl.org/essay/Gertrude-Speech-On-Ophelias-Death-FJFVV7NAU#:~:text=Hamlet%20Garden%20Motif&text=Gertrude%20reveals%20that%20Ophelia%20drowned,scene%20vii%2C%20line%20187).
-                                       76. Who Is Laertes A Foil To Hamlet - 524 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/Who-Is-Laertes-A-Foil-To-Hamlet-FJ2YQJ3RYDV
-                                       77. Laertes Character Analysis in Hamlet | SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/laertes/
-                                       78. Laertes Character Analysis in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/characters/laertes
-                                       79. Hamlet Character Profile - Horatio .docx - Mr Hoyes IB website, otwierano: sierpnia 18, 2025, http://mrhoyesibwebsite.com/Drama%20Texts/Hamlet/Character%20Profiles/Horatio.htm
-                                       80. Who is Horatio in 'Hamlet' and what is his significance? - Quora, otwierano: sierpnia 18, 2025, https://www.quora.com/Who-is-Horatio-in-Hamlet-and-what-is-his-significance
-                                       81. Ghost (Hamlet) - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Ghost_(Hamlet)
-                                       82. Significance of the Ghost in Armor - PlayShakespeare.com, otwierano: sierpnia 18, 2025, https://www.playshakespeare.com/forum/significance-of-the-ghost-in-armor
-                                       83. Shakespeare's Hamlet - The Significance of the Ghost in Armor, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/ghostarmed.html
-                                       84. Hamlet Act I: Scene i Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section1/
-                                       85. Act 1, scene 1 - Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/1/
-                                       86. Hamlet Act I: Scene v & Act II: Scene i Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section4/
-                                       87. Act 1, Scene 5 - myShakespeare, otwierano: sierpnia 18, 2025, https://myshakespeare.com/quick-study/hamlet/act-1-scene-5
-                                       88. Hamlet Act-by-Act Plot Synopsis | Shakespeare Learning Zone, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/shakespeare-learning-zone/hamlet/story/scene-by-scene
-                                       89. Hamlet's Play-Within-A-Play - An Analysis of Meta-Theater - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=JTvPtgogHOc
-                                       90. Act 3, Scene 3 - English Lit: OCR A Level - Hamlet - Seneca, otwierano: sierpnia 18, 2025, https://senecalearning.com/en-GB/revision-notes/a-level/english-literature/ocr/hamlet/2-3-4-act-3-scene-3
-                                       91. Hamlet by William Shakespeare | Act 3, Scene 3 Summary & Analysis - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=txunTfPEx6U
-                                       92. Ophelia's Flowers | Hamlet Dramaturgy - WordPress.com, otwierano: sierpnia 18, 2025, https://hamletdramaturgy.wordpress.com/2013/02/20/ophelias-flowers/
-                                       93. Yorick's Skull Symbol in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/symbols/yorick-s-skull
-                                       94. Analysis of Hamlet - Yorick's Skull and Hamlet's Thoughts on Mortality - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=5bOEW4iEtiw&pp=0gcJCfwAo7VqN5tD
-                                       95. Hamlet Act V: Scene ii Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section15/
-                                       96. Act 5, Scene 2: Full Scene Modern English | myShakespeare, otwierano: sierpnia 18, 2025, https://myshakespeare.com/hamlet/act-5-scene-2-full-scene-modern-english
-                                       97. Blog 5 - Prompt #3 - Why is Fortinbras's presence important at the end of the play? His appearance serves many purposes. What are they? - Shakespeare - Hamlet, otwierano: sierpnia 18, 2025, https://zaeemsview.weebly.com/blog/blog-5-3
-                                       98. Themes in Hamlet: Doubt, Revenge, and More - IvyPanda, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/themes/
-                                       99. Morality and Revenge In Hamlet - Free Essay Example - Edubirdie, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/morality-and-revenge-in-hamlet/
-                                       100. IJLLC | Existential Anguish and Moral Dilemmas in Shakespeare's Hamlet: A Critical Analysis - AI Publications, otwierano: sierpnia 18, 2025, https://aipublications.com/ijllc/detail/existential-anguish-and-moral-dilemmas-in-shakespeare-s-hamlet-a-critical-analysis/
-                                       101. Appearance vs. Reality Theme Analysis - Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/themes/appearance-vs-reality
-                                       102. Imagery of Disease in Hamlet - Shakespeare Online, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/diseaseimageryhamlet.html
-                                       103. The Theme Of Decay And Disease In Shakespeare's Hamlet - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/The-Theme-Of-Decay-And-Disease-In/FK6WP2B5YQ
-                                       104. The Peculiarities of Hamlet Motif - Free Essay Example - Edubirdie, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/the-peculiarities-of-hamlet-motif/
-                                       105. Imagery and Symbolism in Hamlet - Studyclix, otwierano: sierpnia 18, 2025, https://blob-static.studyclix.ie/static/content/file/uploads/7/721092a0-cc78-4c29-8e1a-b430f7b61893/Imagery%20and%20Symbolism%20in%20Hamlet.pdf
-                                       106. Hamlet Poison - Eastern Washington Cyber Scholars, otwierano: sierpnia 18, 2025, https://csape.ewu.edu/hamlet-poison
-                                       107. Significance and Symbolism of Poison in Hamlet - Essays by Em - WordPress.com, otwierano: sierpnia 18, 2025, https://essaysbyem.wordpress.com/2016/09/24/significance-and-symbolism-of-poison-in-hamlet/
-                                       108. Motifs & Quotes in Hamlet (Plus Themes & Symbols) - wikiHow, otwierano: sierpnia 18, 2025, https://www.wikihow.com/Motif-Quotes-in-Hamlet
-                                       109. Hamlet Metaphorical and Literal Poison English Essay | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/102667238/Hamlet-Metaphorical-and-Literal-Poison-English-Essay
-                                       110. Symbolism Of Poison In Hamlet - 1285 Words - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/Symbolism-Of-Poison-In-Hamlet/FCU262235U
-                                       111. PASCALE AEBISCHER: Yorick's Skull: Hamlet's Improper Property - Open Research Exeter (ORE), otwierano: sierpnia 18, 2025, https://ore.exeter.ac.uk/repository/bitstream/handle/10871/25159/Pascale-Aebischer,-Yoricks-Skull-Hamlets-Improper-Property.pdf?sequence=1&isAllowed=y
-                                       112. Ophelia's Flowers - Narratives Details - The William & Lynda Steere Herbarium - New York Botanical Garden, otwierano: sierpnia 18, 2025, https://sweetgum.nybg.org/science/the-hand-lens/explore/narratives-details/?irn=7629
-                                       113. Ophelia's Flowers | The Materials of History, Thought, and Art, otwierano: sierpnia 18, 2025, https://objectstudies.net/2015/02/28/ophelias-flowers/
-                                       114. Symbols in Hamlet - Vital Metaphors & Imagery | Literature Guides at IvyPanda®, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/symbols/
-                                       115. Reoccurring Themes In Hamlet - 845 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/Reoccurring-Themes-In-Hamlet-500CFB896CE181F9
-                                       116. Hamlet: Writer's Methods and Techniques (OCR A Level English Literature): Revision Note, otwierano: sierpnia 18, 2025, https://www.savemyexams.com/a-level/english-literature/ocr/17/revision-notes/1-shakespeare/hamlet/hamlet-writers-methods-and-techniques/
-                                       117. Reading Shakespeare's Language: Hamlet, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/reading-shakespeares-language-hamlet/
-                                       118. Language (Hamlet) | Revision World, otwierano: sierpnia 18, 2025, https://revisionworld.com/level-revision/english-literature-gcse-level/shakespeares-plays/hamlet-william-shakespeare/language
-                                       119. Hamlet's First Soliloquy (Metaphors, Imagery and Simile) | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/88826583/Hamlet-s-First-Soliloquy-Metaphors-Imagery-and-Simile
-                                       120. Literary Devices in Hamlet - Owl Eyes, otwierano: sierpnia 18, 2025, https://www.owleyes.org/text/hamlet/analysis/literary-devices
-                                       121. Dramatic Techniques in Hamlet - Studyclix, otwierano: sierpnia 18, 2025, https://blob-static.studyclix.ie/static/content/file/uploads/9/924c3c56-6b82-418b-bb74-9ef7f29d2fd6/Hamlet%20Techniques.pdf
-                                       122. Five-act Structure - Martin Stellinga, otwierano: sierpnia 18, 2025, https://martinstellinga.com/writing/five-act-structure/
-                                       123. Five Act Structure | Freytag's Pyramid Explained with Examples - Storyboard That, otwierano: sierpnia 18, 2025, https://www.storyboardthat.com/articles/e/five-act-structure
-                                       124. Rethinking Shakespeare's 5-act Structure - B.H. James, otwierano: sierpnia 18, 2025, https://bhjames.com/2018/06/14/rethinking-shakespeares-5-act-structure/
-                                       125. On Pacing and Structure (Part 4): Five Act Format - John Mendez, otwierano: sierpnia 18, 2025, https://scribbler.john-mendez.com/2020/07/20/on-pacing-and-structure-part-4-five-act-format/
-                                       126. Shakespearean Criticism: Hamlet (Vol. 44) - Psychoanalytic Interpretations - House Of Ideas, otwierano: sierpnia 18, 2025, https://www.houseofideas.com/mscornelius/resources/hamlet/hamlet_vol_44__psychoanalytic_interpretations_277205-.pdf
-                                       127. Olivier's Hamlet Is Released to Acclaim and Controversy | EBSCO Research Starters, otwierano: sierpnia 18, 2025, https://www.ebsco.com/research-starters/history/oliviers-hamlet-released-acclaim-and-controversy
-                                       128. FROM SHAKESPEARE TO KIERKEGAARD: AN EXISTENTIAL READING OF HAMLET - DergiPark, otwierano: sierpnia 18, 2025, https://dergipark.org.tr/en/download/article-file/2151880
-                                       129. EXISTENTIALISM: A CRITICAL ANALYSIS OF WILLIAM SHAKESPEARE'S 'HAMLET' - Epitome : International Journal of Multidisciplinary Research, otwierano: sierpnia 18, 2025, https://www.epitomejournals.com/VolumeArticles/FullTextPDF/545_Research_Paper.pdf
-                                       130. The Enduring Legacy of Hamlet - Number Analytics, otwierano: sierpnia 18, 2025, https://www.numberanalytics.com/blog/hamlet-legacy-in-literature
-                                       131. Hamlet in Pop Culture - Hartford Stage, otwierano: sierpnia 18, 2025, https://www.hartfordstage.org/stagenotes/hamlet/pop-culture
-                                       132. 25 Shakespeare on Screen: A Cinematic Exploration of Laurence Olivier's 1948 Film Adaptation of Hamlet, otwierano: sierpnia 18, 2025, https://www.nepjol.info/index.php/litstud/article/download/63010/47619
-                                       133. Hamlet (1948) - David Vining, Author - WordPress.com, otwierano: sierpnia 18, 2025, https://davidmvining.wordpress.com/2023/03/09/hamlet/
-                                       134. Zeffirelli's Gertrude and Ophelia: The Assertion of Femininity, otwierano: sierpnia 18, 2025, https://kb.osu.edu/bitstreams/a2f873f8-a936-4b4a-a86c-8c6245f5d994/download
-                                       135. TBT: Rethinking Zeffirelli's Hamlet (1990) - Frock Flicks, otwierano: sierpnia 18, 2025, https://frockflicks.com/hamlet-1990/
-                                       136. An Analysis of Franco Zeffirelli's and Kenneth Branagh's Representation of Ophelia - Portal de Periódicos da UnB, otwierano: sierpnia 18, 2025, https://periodicos.unb.br/index.php/dramaturgias/article/download/9039/8051/16203
-                                       137. The Influence of William Shakespeare's Hamlet in the Modern World - IOSR Journal, otwierano: sierpnia 18, 2025, https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue3/Series-1/O2403019597.pdf
-                                       138. The Influence Of Hamlet By William Shakespeare In Modern World - Free Essay Example, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/the-influence-of-hamlet-by-william-shakespeare-in-modern-world/
-                                       139. Hamlet: List of Scenes - Shakespeare (MIT), otwierano: sierpnia 18, 2025, https://shakespeare.mit.edu/hamlet/
-                                       140. Hamlet, Prince of Denmark – Audiobook in English with Subtitles - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=UhGf8ncOZ8I
-                                       141. Hamlet (Quarto 1, 1603) - Internet Shakespeare Editions, otwierano: sierpnia 18, 2025, https://internetshakespeare.uvic.ca/doc/Ham_Q1/index.html
-                                       142. 16 products - Browse | Black Bond Books, otwierano: sierpnia 18, 2025, https://www.blackbondbooks.com/browse/filter/t/shakespeare%20hamlet%20first%20quarto/k/keyword
-                                       143. library.fiveable.me, otwierano: sierpnia 18, 2025, https://library.fiveable.me/shakespeare/unit-1/elizabethan-era-social-political-cultural-context/study-guide/xQtM9ZY6bga8uOSk#:~:text=The%20Elizabethan%20era%20was%20a,amid%20a%20complex%20social%20hierarchy.
-                                       144. Elizabethan Era | The Lost Colony, otwierano: sierpnia 18, 2025, https://www.thelostcolony.org/the-lost-colony/history/elizabethan-era/
-                                       145. Elizabeth I and her people - National Portrait Gallery, otwierano: sierpnia 18, 2025, https://www.npg.org.uk/whatson/exhibitions/2013/elizabeth-i-her-people
-                                       146. Elizabethan era - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Elizabethan_era
-                                       147. Shakespeare's Ghosts, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/shakespeare/themes/shakespeares-ghosts
-                                       148. Folkore, Religion & Revenge: The Transformation of Ghosts in Shakespeare, otwierano: sierpnia 18, 2025, https://performinghumanity.wordpress.com/2014/06/16/folkore-religion-revenge-the-transformation-of-ghosts-in-shakespeare/
-                                       149. Ghosts, Witches, and Shakespeare, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/ghosts-witches-and-shakespeare/
-                                       150. Ghosts of Shakespeare, otwierano: sierpnia 18, 2025, https://www.bardweb.net/content/ac/ghosts.html
-                                       151. 1560-1569 | Fashion History Timeline, otwierano: sierpnia 18, 2025, https://fashionhistory.fitnyc.edu/1560-1569/
-                                       152. Christiansborg Palace - Kongehuset, otwierano: sierpnia 18, 2025, https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/christiansborg-palace/
-                                       153. Guildenstern Character Analysis in Rosencrantz and Guildenstern Are Dead | LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/rosencrantz-and-guildenstern-are-dead/characters/guildenstern
-                                       154. An Analysis of Narrative Identity in Hamlet and Rosencrantz and Guildenstern - UKnowledge, otwierano: sierpnia 18, 2025, https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1005&context=gaines_theses
-                                       155. Rosencrantz and Guildenstern - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Rosencrantz_and_Guildenstern
-                                       156. en.wikipedia.org, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Fortinbras#:~:text=A%20Norwegian%20crown%20prince%20with,a%20duel%20with%20King%20Hamlet.
-                                       157. Fortinbras - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Fortinbras
-                                       158. HAMLET'S MADNESS : PSYCHOLOGICAL ANALYSIS - St. Xavier's College Jaipur, otwierano: sierpnia 18, 2025, https://sxcjpr.edu.in/wp-content/uploads/2023/12/Hamlets-Madness-Psychological-Analysis-Ayushi-Sah.pdf
-                                       159. The Question of Hamlet's Sanity - Is Hamlet's Insanity Feigned? - Shakespeare Online, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/hamletsanity.html
-                                       160. III.ii. The Mouse-Trap - Hamlet 2000 - Hyperion to a Satyr, otwierano: sierpnia 18, 2025, http://hyperion2satyr.blogspot.com/2012/04/iiiii-mouse-trap-hamlet-2000.html
-                                       161. Act 3 Scene 4 Polonius hides away in Gertrude's closet to spy on the conversation with Hamlet. When Hamlet enters she is stunned, otwierano: sierpnia 18, 2025, https://in.pinterest.com/pin/act-3-scene-4-polonius-hides-away-in-gertrudes-closet-to-spy-on-the-conversation-with-hamlet-when-hamlet-enters-she-is-stunned-and-cries-and-polonius-echoes-h--474637248200384200/
-                                       162. what was Fortinbras doing in Elsinore at the end of the play? : r/shakespeare - Reddit, otwierano: sierpnia 18, 2025, https://www.reddit.com/r/shakespeare/comments/lbh3vp/what_was_fortinbras_doing_in_elsinore_at_the_end/
-                                       163. 8_2023_12_26!10_41_35_AM.docx, otwierano: sierpnia 18, 2025, https://www.uomustansiriyah.edu.iq/media/lectures/8/8_2023_12_26!10_41_35_AM.docx
-                                       164. Themes: Ophelia's Garden | Utah Shakespeare Festival, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/themes-ophelias-garden/
-                                       165. Shakespeare Said it First? - Hartford Stage, otwierano: sierpnia 18, 2025, https://www.hartfordstage.org/stagenotes/hamlet/modern-phrases
+    1. Hamlet - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Hamlet
+    2. "Hamlet": a Presentation in 8 Literary Elements - literature...no trouble, otwierano: sierpnia 18, 2025, https://www.literature-no-trouble.com/hamlet-a-presentation-in-8-literary-elements/
+    3. Hamlet Study Guide | Literature Guide - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet
+    4. Historical Context (Hamlet) | Revision World, otwierano: sierpnia 18, 2025, https://revisionworld.com/level-revision/english-literature-gcse-level/shakespeares-plays/hamlet/historical
+    5. Hamlet | Summary, Plot, & Characters - Britannica, otwierano: sierpnia 18, 2025, https://www.britannica.com/topic/Hamlet-by-Shakespeare
+    6. A Brief History of Hamlet - ArtsEmerson, otwierano: sierpnia 18, 2025, https://artsemerson.org/2018/02/09/a-brief-history-of-hamlet/
+    7. The First Quarto of Hamlet by William Shakespeare, Paperback | Barnes & Noble®, otwierano: sierpnia 18, 2025, https://www.barnesandnoble.com/w/the-first-quarto-of-hamlet-william-shakespeare/1100955850
+    8. An Introduction to This Text: Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/an-introduction-to-this-text/
+    9. Introduction - The First Quarto of Hamlet - Cambridge University Press, otwierano: sierpnia 18, 2025, https://www.cambridge.org/core/books/first-quarto-of-hamlet/introduction/7E1EC7F595305D0AEBA053AD00F1D548
+    10. Historical background | Bell Shakespeare, otwierano: sierpnia 18, 2025, https://www.bellshakespeare.com.au/hamlet-historical-background
+    11. Hamlet: Critical Approaches - Internet Shakespeare Editions, otwierano: sierpnia 18, 2025, https://internetshakespeare.uvic.ca/doc/Ham_CriticalSurvey/index.html
+    12. Hamlet Genre, Tone, & Literary Devices | Literature Guides at IvyPanda®, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/genre-literary-analysis/
+    13. Hamlet: Genre - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/genre/
+    14. A Modern Perspective: Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/hamlet-a-modern-perspective/
+    15. Yorick - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Yorick
+    16. 'Poor Yorick': The Photograph as Memento Mori (Chapter 5) - Still Shakespeare and the Photography of Performance - Cambridge University Press, otwierano: sierpnia 18, 2025, https://www.cambridge.org/core/books/still-shakespeare-and-the-photography-of-performance/poor-yorick-the-photograph-as-memento-mori/ED6DA1DA7A3734E5911DC83ED70B3225
+    17. Elizabethan Context for Hamlet | Utah Shakespeare Festival, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/hamlet-elizabethan-context/
+    18. Hamlet's origins - Actors' Shakespeare Project, otwierano: sierpnia 18, 2025, https://www.actorsshakespeareproject.org/hamlets-origins/
+    19. The Project Gutenberg eBook of Hamlet by William Shakespeare, edited by Charles Kean, otwierano: sierpnia 18, 2025, https://www.gutenberg.org/files/27761/27761-h/27761-h.htm
+    20. Stage history | Hamlet - Royal Shakespeare Company, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/hamlet/about-the-play/stage-history
+    21. Shakespeare and Hamlet (part 1) - Willa Cather Archive, otwierano: sierpnia 18, 2025, https://cather.unl.edu/writings/nonfiction/nf064
+    22. Kronborg Castle - UNESCO World Heritage Centre, otwierano: sierpnia 18, 2025, https://whc.unesco.org/en/list/696/
+    23. Kronborg Castle | World Heritage - UNESCO Multimedia Archives, otwierano: sierpnia 18, 2025, https://www.unesco.org/archives/multimedia/document-864
+    24. 1 Welcome to Kronborg Castle Kronborg became part of the UNESCO world heritage list in 2000. Denmark has three other sites on th - NBI Conference and Meetings (Indico), otwierano: sierpnia 18, 2025, https://indico.nbi.ku.dk/event/614/images/136-Welcome_to_Kronborg_Castle.pdf
+    25. Exploring the Architecture of Kronborg Castle in Denmark - MexicoHistorico.com, otwierano: sierpnia 18, 2025, https://www.mexicohistorico.com/paginas/exploring-the-architecture-of-kronborg-castle-in-denmark-a881d439.html
+    26. Kronborg (castle) | EBSCO Research Starters, otwierano: sierpnia 18, 2025, https://www.ebsco.com/research-starters/architecture/kronborg-castle
+    27. Is Kronborg Castle Worth Visiting? - LaidBack Trip, otwierano: sierpnia 18, 2025, https://www.laidbacktrip.com/posts/visit-kronborg-castle-denmark
+    28. Kronborg Castle (Hamlet's Castle) at Helsingør in Pictures, otwierano: sierpnia 18, 2025, https://havecamerawilltravel.photography/kronborg-castle-hamlets-castle-elsinore-denmark/
+    29. How were rooms in medieval castles lit during the night? or chambers that had no windows like internal storage or passage ways - Quora, otwierano: sierpnia 18, 2025, https://www.quora.com/How-were-rooms-in-medieval-castles-lit-during-the-night-or-chambers-that-had-no-windows-like-internal-storage-or-passage-ways
+    30. How Medieval Kings Light Their Castles Without Electricity - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=2M1Sl1DPrGs
+    31. Cozy Medieval Night Ambience with a Castle View | Relaxing Fireplace, Distant Thunder Sounds - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=qCnlXJ2H5ek
+    32. The Knights' Hall (room 21) | The Royal Danish Collection - Den Kongelige Samling, otwierano: sierpnia 18, 2025, https://denkongeligesamling.dk/en/rosenborg-castle/interior-and-objects/room-21-the-knights-hall/
+    33. Tapestries - Kongehuset, otwierano: sierpnia 18, 2025, https://www.kongehuset.dk/en/royal-collections/tapestries/
+    34. Detailed Summary of Hamlet , Act 3, Scene 4 - Shakespeare Navigators, otwierano: sierpnia 18, 2025, https://shakespeare-navigators.ewu.edu/hamlet/Three4.html
+    35. 5+ Hundred Old Danish Cemetery Royalty-Free Images, Stock Photos & Pictures, otwierano: sierpnia 18, 2025, https://www.shutterstock.com/search/old-danish-cemetery
+    36. Medieval cemetery hi-res stock photography and images - Alamy, otwierano: sierpnia 18, 2025, https://www.alamy.com/stock-photo/medieval-cemetery.html
+    37. Clothing of the Elizabethan Era - Renaissance Spell, otwierano: sierpnia 18, 2025, https://www.renaissance-spell.com/Renaissance-Clothing/Elizabethan-Clothing.html
+    38. Doublet (clothing) - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Doublet_(clothing)
+    39. 1550–1600 in European fashion - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/1550%E2%80%931600_in_European_fashion
+    40. HAMLET (ACT 1 SCENE 2) Flashcards - Quizlet, otwierano: sierpnia 18, 2025, https://quizlet.com/gb/381598121/hamlet-act-1-scene-2-flash-cards/
+    41. Elizabethan Gown - Fashions In Time, otwierano: sierpnia 18, 2025, https://www.fashionsintime.com/html/elizabethan-ladies.html
+    42. What Does Gertrude's Wardrobe Represent - 737 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/What-Does-Gertrudes-Wardrobe-Represent-3192B443A40C631F
+    43. Hamlet Movie Costume Review | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/555994579/Hamlet-Movie-costume-review
+    44. Hamlet Act I: Scene ii Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section2/
+    45. Mourning Fashion - UM Clements Library, otwierano: sierpnia 18, 2025, https://clements.umich.edu/exhibit/death-in-early-america/mourning-fashion/
+    46. Mourning Attire - The Huntington, otwierano: sierpnia 18, 2025, https://www.huntington.org/frontiers/mourning-attire
+    47. Mourning Fashion in White, otwierano: sierpnia 18, 2025, https://artofmourning.com/mourning-fashion-in-white/
+    48. Renaissance Rapier Sword Handcrafted Fencing Sword 17th Century Rapier Ornate | eBay, otwierano: sierpnia 18, 2025, https://www.ebay.com/itm/376379770796
+    49. Functional Fencing Rapiers - Dark Knight Armoury, otwierano: sierpnia 18, 2025, https://www.darkknightarmoury.com/product-category/weaponry-3/fencing/functional-fencing-rapiers/
+    50. Renaissance-Fencing Terminology, otwierano: sierpnia 18, 2025, https://www.thearma.org/terms3.htm
+    51. Medieval Renaissance Wine Goblet Chalice - Handcrafted European Style Whiskey Cup for Communion & Gifts - DHgate, otwierano: sierpnia 18, 2025, https://www.dhgate.com/goods/1026206879.html
+    52. The History and Significance of Chalices and Goblets - aladean, otwierano: sierpnia 18, 2025, https://aladean.com/blogs/medieval-chalice-vintage-goblets/the-history-and-significance-of-chalices-and-goblets
+    53. Hamlet: Entire Play - Shakespeare (MIT), otwierano: sierpnia 18, 2025, https://shakespeare.mit.edu/hamlet/full.html
+    54. The Elizabethan era: social, political, and cultural context | Shakespeare Class Notes, otwierano: sierpnia 18, 2025, https://library.fiveable.me/shakespeare/unit-1/elizabethan-era-social-political-cultural-context/study-guide/xQtM9ZY6bga8uOSk
+    55. Seeing and Interpreting the Ghosts in Elizabethan Revenge Tragedy - IS MUNI, otwierano: sierpnia 18, 2025, https://is.muni.cz/th/moqna/Seeing_and_Interpreting_the_Ghosts_in_Elizabethan_Revenge_Tragedy.pdf
+    56. Hamlet's age in the play - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/questions/hamlet-s-age-in-the-play-3127513
+    57. Who reveals Hamlet's age at the end of the play? - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/questions/how-old-hamlet-end-play-27883
+    58. Hamlet: Character List - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/characters/
+    59. Hamlet's Age - Shaksper.net, otwierano: sierpnia 18, 2025, https://shaksper.net/archive/2006/244-august/24838-hamlets-age
+    60. Hamlet: Symbols - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/symbols/
+    61. Madness in Hamlet | Royal Shakespeare Company, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/hamlet/about-the-play/madness-in-hamlet
+    62. Hamlet Themes: Death, Revenge, & Others [With Quotes] - Custom-Writing.org, otwierano: sierpnia 18, 2025, https://custom-writing.org/blog/hamlet-themes
+    63. Hamlet Themes: Corruption - eNotes.com, otwierano: sierpnia 18, 2025, https://www.enotes.com/topics/hamlet/themes/corruption
+    64. Hamlet - Act V Scene II - Kenneth Branagh - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=EHUZ1_cxdyw
+    65. Horatio Character Analysis in Hamlet - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/horatio/
+    66. King Claudius - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/King_Claudius
+    67. Hamlet Appearance Vs Reality Analysis - 1017 Words - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/Hamlet-Appearance-Vs-Reality-Analysis/FJ9TD6XY5V
+    68. www.sparknotes.com, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/claudius/#:~:text=While%20Claudius%20may%20outwardly%20present,a%20toll%20on%20his%20conscience.
+    69. Hamlet Act III: Scene iv Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section9/
+    70. The role of Polonius in "Hamlet": a man of judgement disturbed - GRIN, otwierano: sierpnia 18, 2025, https://www.grin.com/document/177995
+    71. Polonius - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Polonius
+    72. Polonius Character Analysis in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/characters/polonius
+    73. Madness in Hamlet - English Lit: OCR A Level - Seneca, otwierano: sierpnia 18, 2025, https://senecalearning.com/en-GB/revision-notes/a-level/english-literature/ocr/hamlet/4-2-1-madness-in-hamlet
+    74. Of Love and Flowers and…Hamlet? - little farmhouse flowers, otwierano: sierpnia 18, 2025, https://www.littlefarmhouseflowers.com/blog/2017/2/13/of-love-and-flowers-and-hamlet
+    75. www.ipl.org, otwierano: sierpnia 18, 2025, https://www.ipl.org/essay/Gertrude-Speech-On-Ophelias-Death-FJFVV7NAU#:~:text=Hamlet%20Garden%20Motif&text=Gertrude%20reveals%20that%20Ophelia%20drowned,scene%20vii%2C%20line%20187).
+    76. Who Is Laertes A Foil To Hamlet - 524 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/Who-Is-Laertes-A-Foil-To-Hamlet-FJ2YQJ3RYDV
+    77. Laertes Character Analysis in Hamlet | SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/character/laertes/
+    78. Laertes Character Analysis in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/characters/laertes
+    79. Hamlet Character Profile - Horatio .docx - Mr Hoyes IB website, otwierano: sierpnia 18, 2025, http://mrhoyesibwebsite.com/Drama%20Texts/Hamlet/Character%20Profiles/Horatio.htm
+    80. Who is Horatio in 'Hamlet' and what is his significance? - Quora, otwierano: sierpnia 18, 2025, https://www.quora.com/Who-is-Horatio-in-Hamlet-and-what-is-his-significance
+    81. Ghost (Hamlet) - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Ghost_(Hamlet)
+    82. Significance of the Ghost in Armor - PlayShakespeare.com, otwierano: sierpnia 18, 2025, https://www.playshakespeare.com/forum/significance-of-the-ghost-in-armor
+    83. Shakespeare's Hamlet - The Significance of the Ghost in Armor, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/ghostarmed.html
+    84. Hamlet Act I: Scene i Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section1/
+    85. Act 1, scene 1 - Hamlet - Folger Shakespeare Library, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/1/
+    86. Hamlet Act I: Scene v & Act II: Scene i Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section4/
+    87. Act 1, Scene 5 - myShakespeare, otwierano: sierpnia 18, 2025, https://myshakespeare.com/quick-study/hamlet/act-1-scene-5
+    88. Hamlet Act-by-Act Plot Synopsis | Shakespeare Learning Zone, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/shakespeare-learning-zone/hamlet/story/scene-by-scene
+    89. Hamlet's Play-Within-A-Play - An Analysis of Meta-Theater - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=JTvPtgogHOc
+    90. Act 3, Scene 3 - English Lit: OCR A Level - Hamlet - Seneca, otwierano: sierpnia 18, 2025, https://senecalearning.com/en-GB/revision-notes/a-level/english-literature/ocr/hamlet/2-3-4-act-3-scene-3
+    91. Hamlet by William Shakespeare | Act 3, Scene 3 Summary & Analysis - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=txunTfPEx6U
+    92. Ophelia's Flowers | Hamlet Dramaturgy - WordPress.com, otwierano: sierpnia 18, 2025, https://hamletdramaturgy.wordpress.com/2013/02/20/ophelias-flowers/
+    93. Yorick's Skull Symbol in Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/symbols/yorick-s-skull
+    94. Analysis of Hamlet - Yorick's Skull and Hamlet's Thoughts on Mortality - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=5bOEW4iEtiw&pp=0gcJCfwAo7VqN5tD
+    95. Hamlet Act V: Scene ii Summary & Analysis - SparkNotes, otwierano: sierpnia 18, 2025, https://www.sparknotes.com/shakespeare/hamlet/section15/
+    96. Act 5, Scene 2: Full Scene Modern English | myShakespeare, otwierano: sierpnia 18, 2025, https://myshakespeare.com/hamlet/act-5-scene-2-full-scene-modern-english
+    97. Blog 5 - Prompt #3 - Why is Fortinbras's presence important at the end of the play? His appearance serves many purposes. What are they? - Shakespeare - Hamlet, otwierano: sierpnia 18, 2025, https://zaeemsview.weebly.com/blog/blog-5-3
+    98. Themes in Hamlet: Doubt, Revenge, and More - IvyPanda, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/themes/
+    99. Morality and Revenge In Hamlet - Free Essay Example - Edubirdie, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/morality-and-revenge-in-hamlet/
+    100. IJLLC | Existential Anguish and Moral Dilemmas in Shakespeare's Hamlet: A Critical Analysis - AI Publications, otwierano: sierpnia 18, 2025, https://aipublications.com/ijllc/detail/existential-anguish-and-moral-dilemmas-in-shakespeare-s-hamlet-a-critical-analysis/
+    101. Appearance vs. Reality Theme Analysis - Hamlet - LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/hamlet/themes/appearance-vs-reality
+    102. Imagery of Disease in Hamlet - Shakespeare Online, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/diseaseimageryhamlet.html
+    103. The Theme Of Decay And Disease In Shakespeare's Hamlet - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/The-Theme-Of-Decay-And-Disease-In/FK6WP2B5YQ
+    104. The Peculiarities of Hamlet Motif - Free Essay Example - Edubirdie, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/the-peculiarities-of-hamlet-motif/
+    105. Imagery and Symbolism in Hamlet - Studyclix, otwierano: sierpnia 18, 2025, https://blob-static.studyclix.ie/static/content/file/uploads/7/721092a0-cc78-4c29-8e1a-b430f7b61893/Imagery%20and%20Symbolism%20in%20Hamlet.pdf
+    106. Hamlet Poison - Eastern Washington Cyber Scholars, otwierano: sierpnia 18, 2025, https://csape.ewu.edu/hamlet-poison
+    107. Significance and Symbolism of Poison in Hamlet - Essays by Em - WordPress.com, otwierano: sierpnia 18, 2025, https://essaysbyem.wordpress.com/2016/09/24/significance-and-symbolism-of-poison-in-hamlet/
+    108. Motifs & Quotes in Hamlet (Plus Themes & Symbols) - wikiHow, otwierano: sierpnia 18, 2025, https://www.wikihow.com/Motif-Quotes-in-Hamlet
+    109. Hamlet Metaphorical and Literal Poison English Essay | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/102667238/Hamlet-Metaphorical-and-Literal-Poison-English-Essay
+    110. Symbolism Of Poison In Hamlet - 1285 Words - Cram, otwierano: sierpnia 18, 2025, https://www.cram.com/essay/Symbolism-Of-Poison-In-Hamlet/FCU262235U
+    111. PASCALE AEBISCHER: Yorick's Skull: Hamlet's Improper Property - Open Research Exeter (ORE), otwierano: sierpnia 18, 2025, https://ore.exeter.ac.uk/repository/bitstream/handle/10871/25159/Pascale-Aebischer,-Yoricks-Skull-Hamlets-Improper-Property.pdf?sequence=1&isAllowed=y
+    112. Ophelia's Flowers - Narratives Details - The William & Lynda Steere Herbarium - New York Botanical Garden, otwierano: sierpnia 18, 2025, https://sweetgum.nybg.org/science/the-hand-lens/explore/narratives-details/?irn=7629
+    113. Ophelia's Flowers | The Materials of History, Thought, and Art, otwierano: sierpnia 18, 2025, https://objectstudies.net/2015/02/28/ophelias-flowers/
+    114. Symbols in Hamlet - Vital Metaphors & Imagery | Literature Guides at IvyPanda®, otwierano: sierpnia 18, 2025, https://ivypanda.com/lit/hamlet-study-guide/symbols/
+    115. Reoccurring Themes In Hamlet - 845 Words - Bartleby.com, otwierano: sierpnia 18, 2025, https://www.bartleby.com/essay/Reoccurring-Themes-In-Hamlet-500CFB896CE181F9
+    116. Hamlet: Writer's Methods and Techniques (OCR A Level English Literature): Revision Note, otwierano: sierpnia 18, 2025, https://www.savemyexams.com/a-level/english-literature/ocr/17/revision-notes/1-shakespeare/hamlet/hamlet-writers-methods-and-techniques/
+    117. Reading Shakespeare's Language: Hamlet, otwierano: sierpnia 18, 2025, https://www.folger.edu/explore/shakespeares-works/hamlet/reading-shakespeares-language-hamlet/
+    118. Language (Hamlet) | Revision World, otwierano: sierpnia 18, 2025, https://revisionworld.com/level-revision/english-literature-gcse-level/shakespeares-plays/hamlet-william-shakespeare/language
+    119. Hamlet's First Soliloquy (Metaphors, Imagery and Simile) | PDF - Scribd, otwierano: sierpnia 18, 2025, https://www.scribd.com/document/88826583/Hamlet-s-First-Soliloquy-Metaphors-Imagery-and-Simile
+    120. Literary Devices in Hamlet - Owl Eyes, otwierano: sierpnia 18, 2025, https://www.owleyes.org/text/hamlet/analysis/literary-devices
+    121. Dramatic Techniques in Hamlet - Studyclix, otwierano: sierpnia 18, 2025, https://blob-static.studyclix.ie/static/content/file/uploads/9/924c3c56-6b82-418b-bb74-9ef7f29d2fd6/Hamlet%20Techniques.pdf
+    122. Five-act Structure - Martin Stellinga, otwierano: sierpnia 18, 2025, https://martinstellinga.com/writing/five-act-structure/
+    123. Five Act Structure | Freytag's Pyramid Explained with Examples - Storyboard That, otwierano: sierpnia 18, 2025, https://www.storyboardthat.com/articles/e/five-act-structure
+    124. Rethinking Shakespeare's 5-act Structure - B.H. James, otwierano: sierpnia 18, 2025, https://bhjames.com/2018/06/14/rethinking-shakespeares-5-act-structure/
+    125. On Pacing and Structure (Part 4): Five Act Format - John Mendez, otwierano: sierpnia 18, 2025, https://scribbler.john-mendez.com/2020/07/20/on-pacing-and-structure-part-4-five-act-format/
+    126. Shakespearean Criticism: Hamlet (Vol. 44) - Psychoanalytic Interpretations - House Of Ideas, otwierano: sierpnia 18, 2025, https://www.houseofideas.com/mscornelius/resources/hamlet/hamlet_vol_44__psychoanalytic_interpretations_277205-.pdf
+    127. Olivier's Hamlet Is Released to Acclaim and Controversy | EBSCO Research Starters, otwierano: sierpnia 18, 2025, https://www.ebsco.com/research-starters/history/oliviers-hamlet-released-acclaim-and-controversy
+    128. FROM SHAKESPEARE TO KIERKEGAARD: AN EXISTENTIAL READING OF HAMLET - DergiPark, otwierano: sierpnia 18, 2025, https://dergipark.org.tr/en/download/article-file/2151880
+    129. EXISTENTIALISM: A CRITICAL ANALYSIS OF WILLIAM SHAKESPEARE'S 'HAMLET' - Epitome : International Journal of Multidisciplinary Research, otwierano: sierpnia 18, 2025, https://www.epitomejournals.com/VolumeArticles/FullTextPDF/545_Research_Paper.pdf
+    130. The Enduring Legacy of Hamlet - Number Analytics, otwierano: sierpnia 18, 2025, https://www.numberanalytics.com/blog/hamlet-legacy-in-literature
+    131. Hamlet in Pop Culture - Hartford Stage, otwierano: sierpnia 18, 2025, https://www.hartfordstage.org/stagenotes/hamlet/pop-culture
+    132. 25 Shakespeare on Screen: A Cinematic Exploration of Laurence Olivier's 1948 Film Adaptation of Hamlet, otwierano: sierpnia 18, 2025, https://www.nepjol.info/index.php/litstud/article/download/63010/47619
+    133. Hamlet (1948) - David Vining, Author - WordPress.com, otwierano: sierpnia 18, 2025, https://davidmvining.wordpress.com/2023/03/09/hamlet/
+    134. Zeffirelli's Gertrude and Ophelia: The Assertion of Femininity, otwierano: sierpnia 18, 2025, https://kb.osu.edu/bitstreams/a2f873f8-a936-4b4a-a86c-8c6245f5d994/download
+    135. TBT: Rethinking Zeffirelli's Hamlet (1990) - Frock Flicks, otwierano: sierpnia 18, 2025, https://frockflicks.com/hamlet-1990/
+    136. An Analysis of Franco Zeffirelli's and Kenneth Branagh's Representation of Ophelia - Portal de Periódicos da UnB, otwierano: sierpnia 18, 2025, https://periodicos.unb.br/index.php/dramaturgias/article/download/9039/8051/16203
+    137. The Influence of William Shakespeare's Hamlet in the Modern World - IOSR Journal, otwierano: sierpnia 18, 2025, https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue3/Series-1/O2403019597.pdf
+    138. The Influence Of Hamlet By William Shakespeare In Modern World - Free Essay Example, otwierano: sierpnia 18, 2025, https://hub.edubirdie.com/examples/the-influence-of-hamlet-by-william-shakespeare-in-modern-world/
+    139. Hamlet: List of Scenes - Shakespeare (MIT), otwierano: sierpnia 18, 2025, https://shakespeare.mit.edu/hamlet/
+    140. Hamlet, Prince of Denmark – Audiobook in English with Subtitles - YouTube, otwierano: sierpnia 18, 2025, https://www.youtube.com/watch?v=UhGf8ncOZ8I
+    141. Hamlet (Quarto 1, 1603) - Internet Shakespeare Editions, otwierano: sierpnia 18, 2025, https://internetshakespeare.uvic.ca/doc/Ham_Q1/index.html
+    142. 16 products - Browse | Black Bond Books, otwierano: sierpnia 18, 2025, https://www.blackbondbooks.com/browse/filter/t/shakespeare%20hamlet%20first%20quarto/k/keyword
+    143. library.fiveable.me, otwierano: sierpnia 18, 2025, https://library.fiveable.me/shakespeare/unit-1/elizabethan-era-social-political-cultural-context/study-guide/xQtM9ZY6bga8uOSk#:~:text=The%20Elizabethan%20era%20was%20a,amid%20a%20complex%20social%20hierarchy.
+    144. Elizabethan Era | The Lost Colony, otwierano: sierpnia 18, 2025, https://www.thelostcolony.org/the-lost-colony/history/elizabethan-era/
+    145. Elizabeth I and her people - National Portrait Gallery, otwierano: sierpnia 18, 2025, https://www.npg.org.uk/whatson/exhibitions/2013/elizabeth-i-her-people
+    146. Elizabethan era - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Elizabethan_era
+    147. Shakespeare's Ghosts, otwierano: sierpnia 18, 2025, https://www.rsc.org.uk/shakespeare/themes/shakespeares-ghosts
+    148. Folkore, Religion & Revenge: The Transformation of Ghosts in Shakespeare, otwierano: sierpnia 18, 2025, https://performinghumanity.wordpress.com/2014/06/16/folkore-religion-revenge-the-transformation-of-ghosts-in-shakespeare/
+    149. Ghosts, Witches, and Shakespeare, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/ghosts-witches-and-shakespeare/
+    150. Ghosts of Shakespeare, otwierano: sierpnia 18, 2025, https://www.bardweb.net/content/ac/ghosts.html
+    151. 1560-1569 | Fashion History Timeline, otwierano: sierpnia 18, 2025, https://fashionhistory.fitnyc.edu/1560-1569/
+    152. Christiansborg Palace - Kongehuset, otwierano: sierpnia 18, 2025, https://www.kongehuset.dk/en/palaces-and-the-royal-yacht/christiansborg-palace/
+    153. Guildenstern Character Analysis in Rosencrantz and Guildenstern Are Dead | LitCharts, otwierano: sierpnia 18, 2025, https://www.litcharts.com/lit/rosencrantz-and-guildenstern-are-dead/characters/guildenstern
+    154. An Analysis of Narrative Identity in Hamlet and Rosencrantz and Guildenstern - UKnowledge, otwierano: sierpnia 18, 2025, https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1005&context=gaines_theses
+    155. Rosencrantz and Guildenstern - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Rosencrantz_and_Guildenstern
+    156. en.wikipedia.org, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Fortinbras#:~:text=A%20Norwegian%20crown%20prince%20with,a%20duel%20with%20King%20Hamlet.
+    157. Fortinbras - Wikipedia, otwierano: sierpnia 18, 2025, https://en.wikipedia.org/wiki/Fortinbras
+    158. HAMLET'S MADNESS : PSYCHOLOGICAL ANALYSIS - St. Xavier's College Jaipur, otwierano: sierpnia 18, 2025, https://sxcjpr.edu.in/wp-content/uploads/2023/12/Hamlets-Madness-Psychological-Analysis-Ayushi-Sah.pdf
+    159. The Question of Hamlet's Sanity - Is Hamlet's Insanity Feigned? - Shakespeare Online, otwierano: sierpnia 18, 2025, https://www.shakespeare-online.com/plays/hamlet/hamletsanity.html
+    160. III.ii. The Mouse-Trap - Hamlet 2000 - Hyperion to a Satyr, otwierano: sierpnia 18, 2025, http://hyperion2satyr.blogspot.com/2012/04/iiiii-mouse-trap-hamlet-2000.html
+    161. Act 3 Scene 4 Polonius hides away in Gertrude's closet to spy on the conversation with Hamlet. When Hamlet enters she is stunned, otwierano: sierpnia 18, 2025, https://in.pinterest.com/pin/act-3-scene-4-polonius-hides-away-in-gertrudes-closet-to-spy-on-the-conversation-with-hamlet-when-hamlet-enters-she-is-stunned-and-cries-and-polonius-echoes-h--474637248200384200/
+    162. what was Fortinbras doing in Elsinore at the end of the play? : r/shakespeare - Reddit, otwierano: sierpnia 18, 2025, https://www.reddit.com/r/shakespeare/comments/lbh3vp/what_was_fortinbras_doing_in_elsinore_at_the_end/
+    163. 8_2023_12_26!10_41_35_AM.docx, otwierano: sierpnia 18, 2025, https://www.uomustansiriyah.edu.iq/media/lectures/8/8_2023_12_26!10_41_35_AM.docx
+    164. Themes: Ophelia's Garden | Utah Shakespeare Festival, otwierano: sierpnia 18, 2025, https://www.bard.org/study-guides/themes-ophelias-garden/
+    165. Shakespeare Said it First? - Hartford Stage, otwierano: sierpnia 18, 2025, https://www.hartfordstage.org/stagenotes/hamlet/modern-phrases

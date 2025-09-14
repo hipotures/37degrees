@@ -5,3 +5,191 @@ book_info:
   year: 1847
   genre: "Novel,Gothic"
   reading_time: "15-18 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T12:00:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Rochester hid his wife Bertha Mason in the attic, attempting bigamy with Jane"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Bertha Mason represents repressed female rage and sexuality in patriarchal society"
+        source: "symbols_meanings"
+      - id: "innovation_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "First major feminist novel with revolutionary first-person female narrative"
+        source: "writing_innovation"
+      - id: "youth_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rochester identified as toxic masculinity archetype with gaslighting behaviors"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted women's rights and equality 70 years before they became reality"
+        source: "reality_wisdom"
+      - id: "facts_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Charlotte Bronte's forbidden love for married teacher Constantin Heger inspired Rochester"
+        source: "facts_history"
+      - id: "culture_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 25 film/TV adaptations and influenced writers from Woolf to Atwood"
+        source: "culture_impact"
+      - id: "content_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Mental health stigma through Bertha's imprisonment reflects Victorian attitudes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of English feminist literature, taught in all major universities"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Oxford World's Classics"]
+        reception_notes: "The Madwoman in the Attic (1979) revolutionized feminist literary criticism"
+        educational_status: "Core curriculum text in Victorian literature courses"
+        local_themes: ["Victorian women's independence", "Gothic tradition influence"]
+
+      pl:
+        cultural_impact: "Translated as 'Dziwne losy Jane Eyre' (1930), widely read classic"
+        key_editions: ["Teresa Świderska translation", "Świat Książki edition"]
+        reception_notes: "Strong resonance with Polish romanticism and women's independence themes"
+        educational_status: "Supplementary reading, available on Wolne Lektury platform"
+        local_themes: ["Parallel to Polish governess system", "Economic independence struggles"]
+
+      de:
+        cultural_impact: "First German translation 1848, sustained popularity for 50+ years"
+        key_editions: ["Maria von Borch translation", "Reclam Universal-Bibliothek"]
+        reception_notes: "Connected to German Bildungsroman tradition and Gothic origins"
+        educational_status: "Part of German literary canon, studied for Bildungsroman elements"
+        local_themes: ["Female Bildungsroman pioneer", "Frankfurt School analysis applications"]
+
+      fr:
+        cultural_impact: "First French translation 1854, included in Pléiade prestigious collection"
+        key_editions: ["Gallimard Pléiade 2008", "École des loisirs youth edition"]
+        reception_notes: "Analyzed through Simone de Beauvoir and Julia Kristeva's feminist theories"
+        educational_status: "Studied in collèges and baccalauréat English literature programs"
+        local_themes: ["Existentialist feminism connections", "Écriture féminine influence"]
+
+      es:
+        cultural_impact: "First Spanish book edition 1943 during Franco era with censorship"
+        key_editions: ["Juan G. de Luaces translation", "Alfaguara Clásicos illustrated"]
+        reception_notes: "Strong presence in Latin American magical realism development"
+        educational_status: "Required reading in 1º Bachillerato, studied for Romanticism"
+        local_themes: ["Challenge to machismo culture", "Gothic influence on boom literature"]
+
+      pt:
+        cultural_impact: "First Brazilian edition 1916 as 'Joanna Eyre', over 20 translations"
+        key_editions: ["Companhia das Letras", "Adriana Lisboa translation 2018"]
+        reception_notes: "Resonates with Brazilian feminist literary development"
+        educational_status: "Widely studied in Brazilian literature courses as Victorian example"
+        local_themes: ["Female independence in patriarchal society", "Class struggle parallels"]
+
+      ja:
+        cultural_impact: "First translation 1896 as 'Riso Kaijin' (An Ideal Lady)"
+        key_editions: ["Shinchosha editions", "Iwanami Bunko series"]
+        reception_notes: "2009 musical with Takako Matsu, manga adaptation exists"
+        educational_status: "Included in university English literature programs"
+        local_themes: ["Moral development aligning with Confucian values", "Gothic romance influence"]
+
+      ko:
+        cultural_impact: "Yu Jong-Ho's respected translation (1970, revised 2004)"
+        key_editions: ["Minumsa edition", "Best Translation of British Classics Prize"]
+        reception_notes: "Webtoon adaptations exist, embedded in Korean literary culture"
+        educational_status: "Part of cultural literacy for Korean readers"
+        local_themes: ["Personal triumph through moral virtue", "Challenge to hierarchical society"]
+
+      hi:
+        cultural_impact: "First Hindi translation 2002, Bollywood adaptation 'Sangdil' (1952)"
+        key_editions: ["Rajkamal Prakashan", "Vidya Sinha translation"]
+        reception_notes: "Multiple regional cinema adaptations across India"
+        educational_status: "Studied in higher education, not in CBSE/ICSE standard curriculum"
+        local_themes: ["Dharmic duty parallels", "Colonial and postcolonial interpretations"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 15
+      hosts:
+        host_a: "Professor analyzing structure, symbolism, and literary techniques with scholarly depth"
+        host_b: "Graduate student asking for clarification, connecting to theories, ensuring accessibility"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Revolutionary first-person female narrative as literary breakthrough"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Bertha Mason as symbol of repressed female rage and colonial other"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "examples"
+          lead: "host_a"
+          description: "Gothic elements and psychological realism fusion techniques"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Feminist and postcolonial readings transforming interpretation"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Jane Eyre's influence on modern literature and social discourse"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Jane Eyre' with scholarly depth. Discuss structure, symbolism, literary techniques. Focus on: Revolutionary first-person female narrative and Gothic-realism fusion. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories including feminist and postcolonial perspectives. Ensure accessibility while maintaining scholarly rigor."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "mental health stigma and confinement themes"
+      - "domestic violence and controlling behavior"
+      - "colonial and racial stereotypes discussion"
+      - "toxic relationship patterns analysis"
+    educational_elements:
+      - "Victorian social structure and women's roles"
+      - "Gothic literature characteristics"
+      - "Bildungsroman genre development"
+      - "First-person narrative techniques"
+      - "Feminist literary criticism evolution"
+    production_notes:
+      intro_style: "scholarly opening with historical context"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective conclusion on literary legacy"
+
+  overall_confidence: 0.94

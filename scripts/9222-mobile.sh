@@ -1,0 +1,2 @@
+# Chrome with mobile device emulation for Gemini Deep Research
+/opt/google/chrome/chrome-wrapper --user-data-dir=/home/xai/DEV/ms-playwright/chrome-profile-codegen --remote-debugging-port=9222 --remote-allow-origins=localhost --no-sandbox --disable-dev-shm-usage --disable-gpu --user-agent="Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" --window-size=412,915 --device-scale-factor=2.625 --mobile

@@ -5,3 +5,187 @@ book_info:
   year: 1848
   genre: "Romance,Tragedy"
   reading_time: "6-8 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T12:15:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 7
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 66
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "controversy_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Initially banned by censorship for being first work to show courtesan as tragic heroine on stage"
+        source: "dark_drama"
+      - id: "facts_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Based on Dumas fils' real affair with Marie Duplessis who died at 23 from tuberculosis"
+        source: "facts_history"
+      - id: "innovation_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created courtesan literature genre, influencing Zola's Nana and countless other works"
+        source: "writing_innovation"
+      - id: "culture_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Verdi's La Traviata opera adaptation became world's most performed opera"
+        source: "culture_impact"
+      - id: "reality_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted modern sugar dating, OnlyFans economy, and transactional relationships 175 years ahead"
+        source: "reality_wisdom"
+      - id: "youth_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "BookTok glorifies toxic relationships similar to Armand-Marguerite dynamic"
+        source: "youth_digital"
+      - id: "symbols_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "White/red camellias became universal symbol of availability and female sexuality"
+        source: "symbols_meanings"
+      - id: "content_7"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Romanticizes prostitution and illness, potentially harmful for young audiences on social media"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of realist drama, inspired countless adaptations from film to ballet"
+        key_editions: ["Project Gutenberg edition", "Penguin Classics", "Oxford World's Classics"]
+        reception_notes: "Greta Garbo's 1936 Camille considered greatest film adaptation"
+        educational_status: "Studied in Victorian literature and theater history courses"
+        local_themes: ["Critique of Victorian hypocrisy", "Women's agency in patriarchal society"]
+
+      pl:
+        cultural_impact: "First Polish translation heavily sentimentalized, creating 'sweet Lady of Camellias'"
+        key_editions: ["Boy-Zelenski translation", "Wolne Lektury digital edition"]
+        reception_notes: "Tadeusz Boy-Zelenski's analysis revealed Polish romanticism distorted original realism"
+        educational_status: "Supplementary reading, available on Wolne Lektury platform"
+        local_themes: ["Romantic tragedy interpretation", "Social exclusion and honor themes"]
+
+      de:
+        cultural_impact: "Immediate success in German theaters, influenced naturalist movement"
+        key_editions: ["Reclam Universal-Bibliothek", "Insel Verlag edition"]
+        reception_notes: "Connected to German theatrical tradition and problem plays"
+        educational_status: "Part of Realism studies in literature programs"
+        local_themes: ["Bourgeois morality critique", "Social drama development"]
+
+      fr:
+        cultural_impact: "Revolutionary work marking dawn of French realism, caused theatrical scandal"
+        key_editions: ["Gallimard Folio", "Livre de Poche", "Original 1848 Cadot edition"]
+        reception_notes: "Transformed from novel to play, banned then triumphant at Theatre Vaudeville 1852"
+        educational_status: "Core text in French literary canon, studied for realist movement"
+        local_themes: ["Demimonde society portrait", "Critique of July Monarchy materialism"]
+
+      es:
+        cultural_impact: "Widely translated and adapted for Spanish and Latin American audiences"
+        key_editions: ["Catedra Letras Universales", "Alianza Editorial"]
+        reception_notes: "Strong resonance with honor culture and tragic romance traditions"
+        educational_status: "Included in comparative literature and French studies"
+        local_themes: ["Honor and sacrifice themes", "Women's virtue and redemption"]
+
+      pt:
+        cultural_impact: "Popular in Brazil and Portugal, multiple stage adaptations"
+        key_editions: ["Editora 34 Brazilian edition", "Porto Editora Portuguese"]
+        reception_notes: "Resonates with melodramatic traditions in telenovelas"
+        educational_status: "Studied in French literature courses"
+        local_themes: ["Social mobility barriers", "Redemption through suffering"]
+
+      ja:
+        cultural_impact: "Meiji era translations influenced modern Japanese literature and theater"
+        key_editions: ["Iwanami Bunko", "Shinchosha editions"]
+        reception_notes: "Takarazuka Revue adaptations since 1926, ongoing popularity"
+        educational_status: "Part of Western literature studies"
+        local_themes: ["Self-sacrifice as virtue", "Conflict between love and duty"]
+
+      ko:
+        cultural_impact: "Adapted into K-dramas and webtoons, resonates with sacrifice themes"
+        key_editions: ["Minumsa World Literature", "Open Books edition"]
+        reception_notes: "Popular in both classical and modern adaptations"
+        educational_status: "Included in world literature curriculum"
+        local_themes: ["Social class barriers", "Pure love and sacrifice"]
+
+      hi:
+        cultural_impact: "Inspired Bollywood adaptations, connects with courtesan tradition in Indian arts"
+        key_editions: ["Rajkamal Prakashan", "Hindi translations from French"]
+        reception_notes: "Parallels with tawaif culture and classical courtesan narratives"
+        educational_status: "Studied in comparative literature programs"
+        local_themes: ["Social redemption themes", "Sacrifice in love stories"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "Social historian analyzing patriarchal structures and class dynamics in 19th century Paris"
+        host_b: "Contemporary critic examining modern parallels with sugar dating and social media culture"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "July Monarchy materialism and rise of demimonde society"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Financial control and transactional relationships then and now"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "From courtesans to OnlyFans: evolution of sex work and social stigma"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "AI girlfriends and parasocial relationships as modern Marguerites"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'The Lady of the Camellias' through lens of power, gender, class. Historical context: 1848 Paris. Focus on: Initially banned for showing courtesan as tragic heroine."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations. Focus on: Sugar dating parallels, OnlyFans economy, and how BookTok glorifies toxic relationships."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "romanticization of prostitution and sex work"
+      - "glorification of illness and suffering"
+      - "toxic relationship patterns"
+      - "financial exploitation themes"
+      - "suicide ideation references"
+    educational_elements:
+      - "19th century French social structure"
+      - "Rise of realist literature movement"
+      - "Historical context of courtesans and demimonde"
+      - "Gender roles and patriarchal oppression"
+      - "Economic determinism in relationships"
+    production_notes:
+      intro_style: "historical context opening with social critique"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective conclusion on social progress and ongoing issues"
+
+  overall_confidence: 0.93

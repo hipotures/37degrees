@@ -223,6 +223,7 @@ Klikasz w to 2 razy, po kolei:
  - za pierwszym wybierasz "Create image"
  - za drugim "Add files" (tylko w tym miejscu!) i załaczasz plik yaml
 
+```javascript
 // Załącz plik YAML z zadania
 await mcp__playwright-headless__browser_file_upload({
   paths: [yamlPath]
@@ -353,7 +354,7 @@ if (responseText.includes("can't create that image") ||
   });
   
   // Raportuj błąd i zrób screenshot
-  mcp__playwright-headless__browser_take_screenshot(fullPage: true)
+  await mcp__playwright-headless__browser_take_screenshot({fullPage: true});
   console.log(`BŁĄD: ${sceneKey} image_gen - ChatGPT generation error. Thread ID: ${threadId}`);
   console.log(`Error details: ${errorMessage}`);
   return;
@@ -383,7 +384,7 @@ await mcp__todoit__todo_update_item_status({
 
 
 // Raportuj sukces i zrob zapis udanej generacji robiąc screenshot
-mcp__playwright-headless__browser_take_screenshot(fullPage: true)
+await mcp__playwright-headless__browser_take_screenshot({fullPage: true});
 console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 ```
 
@@ -400,7 +401,7 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 - **Element refs** są dynamiczne - zawsze rób snapshot przed interakcją
 - NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie, możesz przeładować stronę, jeśli nie masz pewności co się dzieje
 - Jeśli napotkasz jakiś problem z generacją obrazu, zrób screenshot:
-  mcp__playwright-headless__browser_take_screenshot(fullPage: true)
+  await mcp__playwright-headless__browser_take_screenshot({fullPage: true});
   a potem kontynuuj zgodnie z planem, możesz przeładować stronę
 
 ## Stan końcowy zadania:

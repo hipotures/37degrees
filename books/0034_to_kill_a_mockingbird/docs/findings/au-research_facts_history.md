@@ -1,142 +1,150 @@
-# Historia powstania "To Kill a Mockingbird" Harper Lee
+# Creation History of "To Kill a Mockingbird" by Harper Lee
 
-## OKOLICZNOŚCI POWSTANIA
+## CIRCUMSTANCES OF CREATION
 
-**FAKT**: Harper Lee przeniosła się do Nowego Jorku w 1949 roku i pracowała w księgarni, a następnie jako agent rezerwacji lotniczej, pisząc w wolnym czasie.
+**FACT**: Harper Lee moved to New York City in 1949 at age 23 and worked as a ticket agent for Eastern Airlines and later for the British Overseas Air Corp (BOAC), struggling financially while trying to write in her spare time.
 
-**FAKT**: W grudniu 1956 roku przyjaciele Lee podarowali jej roczną pensję z notatką: "Masz rok wolnego od pracy, żeby pisać co tylko chcesz. Wesołych Świąt."
+**FACT**: In December 1956, friends Broadway composer Michael Brown and his wife Joy Williams Brown gave Lee an extraordinary Christmas gift - enough money to quit her job for an entire year to write full-time, with a note saying: "You have one year off from your job to write whatever you please. Merry Christmas."
 
-**FAKT**: Wiosną 1957 roku, 31-letnia Lee dostarczyła wydawcy manuskrypt "Go Set a Watchman", który był oryginalną wersją z dorosłą Scout jako główną bohaterką.
+**FACT**: In spring 1957, 31-year-old Lee delivered her manuscript "Go Set a Watchman" to publishers, featuring an adult Scout as the main character returning to Alabama as an adult.
 
-**FAKT**: Kiedy "Go Set a Watchman" nie został zaakceptowany przez wydawnictwo, redaktorka poprosiła Lee o przepisanie historii i uczynienie Scout dzieckiem - to doprowadziło do powstania "To Kill a Mockingbird".
+**FACT**: When "Go Set a Watchman" was rejected by J.B. Lippincott Company, editor Tay Hohoff asked Lee to rewrite the story focusing on the childhood flashback scenes and making Scout a child - this led to the creation of "To Kill a Mockingbird."
 
-**FAKT**: Lee pracowała nad przepisywaniem książki przez 2 lata (1957-1959), zanim powstała ostateczna wersja.
+**FACT**: Lee worked on rewriting the book for 2 years (1957-1959) before the final version was completed.
 
-## PROCES TWÓRCZY I WSPÓŁPRACA REDAKCYJNA
+## CREATIVE PROCESS AND EDITORIAL COLLABORATION
 
-**FAKT**: Kluczową rolę w kształtowaniu książki odegrała redaktorka Tay Hohoff z wydawnictwa J.B. Lippincott Company.
+**FACT**: The crucial role in shaping the book was played by editor Tay Hohoff from J.B. Lippincott Company, who saw "the spark of the true writer" in Lee's work but described the original manuscript as "more a series of anecdotes than a fully conceived novel."
 
-**FAKT**: Hohoff stwierdziła, że Lee miała "serię przekonujących anegdot, ale nie historię z początkiem, środkiem i końcem" - manuskrypt był "zbyt epizodyczny".
+**FACT**: Hohoff stated that Lee had "a series of convincing anecdotes, but no story with a beginning, middle, and end" - the manuscript was "too episodic."
 
-**ANEGDOTA**: W jedną zimową noc, w momencie desperacji, Harper Lee wyrzuciła cały manuskrypt przez okno i zadzwoniła do Hohoff, płacząc. Redaktorka przekonała ją, by wyszła na zewnątrz, zebrała kartki i przyniosła je z powrotem do domu.
+**ANECDOTE**: During one winter night in a moment of desperation, Harper Lee threw her entire manuscript out the window into the snow and called Hohoff crying. The editor convinced her to go outside, collect the pages, and bring them back inside.
 
-**FAKT**: Proces redakcyjny był intensywny - Hohoff opisała go jako "wiele małych zmian, w miarę jak historia rosła w siłę i w jej własnej wizji".
+**FACT**: The editorial process was intensive - Hohoff described it as "many minor changes as the story grew in strength and in her own vision."
 
-**FAKT**: Hohoff i Lee dyskutowały czasami godzinami nad zmianami - "czasami ona przechodziła na moją stronę myślenia, czasami ja na jej, a czasem dyskusja otwierała całkiem nowy obszar".
+**FACT**: Hohoff and Lee would sometimes discuss changes for hours - "sometimes she came around to my way of thinking, sometimes I to hers, sometimes the discussion would open up an entirely new line of country."
 
-## INSPIRACJE I ŹRÓDŁA
+## INSPIRATIONS AND SOURCES
 
-### Inspiracje biograficzne
-**FAKT**: Atticus Finch był oparty na ojcu Harper Lee - Amasa Coleman Lee, współczującym i oddanym prawnika.
+### Biographical Inspirations
+**FACT**: Atticus Finch was based on Harper Lee's father - Amasa Coleman Lee, a compassionate and dedicated lawyer.
 
-**FAKT**: Fabuła była zainspirowana nieudaną obroną dwóch Afroamerykanów - ojca i syna - oskarżonych o zamordowanie białego sklepikarza, którą prowadził ojciec Lee.
+**FACT**: The plot was inspired by Lee's father's unsuccessful defense of two African Americans - a father and son - accused of murdering a white storekeeper, which he lost and they were executed by hanging.
 
-**FAKT**: Postać Charles Baker "Dill" Harris była oparta na Truman Capote, przyjacielu z dzieciństwa i sąsiedzie Lee z Monroeville w Alabamie.
+**FACT**: The character Charles Baker "Dill" Harris was based on Truman Capote, Lee's childhood friend and neighbor in Monroeville, Alabama.
 
-**FAKT**: Lee i Capote obiecali sobie nawzajem, że uczynią się postaciami w swoich pierwszych książkach - oboje dotrzymali słowa.
+**FACT**: Lee and Capote promised each other they would make each other characters in their first novels - both kept their word.
 
-### Inspiracje historyczne
-**FAKT**: W 1931 roku, gdy Lee miała 5 lat, dziewięciu młodych czarnoskórych mężczyzn zostało oskarżonych o gwałt na dwóch białych kobietach w pobliżu Scottsboro w Alabamie - sprawa "Scottsboro Boys" wpłynęła na centralny proces sądowy w powieści.
+### Historical Inspirations
+**FACT**: In 1931, when Lee was 5 years old, nine young Black men were accused of rape of two white women near Scottsboro, Alabama - the "Scottsboro Boys" case influenced the central trial in the novel.
 
-**FAKT**: Fabuła i postacie były luźno oparte na obserwacjach Lee dotyczących jej rodziny, sąsiadów i zdarzenia, które miało miejsce w pobliżu Monroeville w 1936 roku, gdy miała 10 lat.
+**FACT**: The plot and characters were loosely based on Lee's observations of her family, neighbors, and an event that occurred near Monroeville in 1936, when she was 10 years old.
 
-## DZIECIŃSTWO W MONROEVILLE
+## CHILDHOOD IN MONROEVILLE
 
-**FAKT**: Harper Lee urodziła się w Monroeville w Alabamie 28 kwietnia 1926 roku jako najmłodsze z czworga dzieci Amasa Coleman Lee (prawnik) i Frances Finch.
+**FACT**: Harper Lee was born in Monroeville, Alabama on April 28, 1926, as the youngest of four children of Amasa Coleman Lee (lawyer) and Frances Finch.
 
-**ANEGDOTA**: Lee opisywała dzieciństwo słowami: "Musieliśmy wymyślać własne zabawy... Nie mieliśmy dużo pieniędzy... Nie mieliśmy zabawek, nic nie było dla nas robione, więc w rezultacie żyliśmy głównie w naszej wyobraźni."
+**ANECDOTE**: Lee described her childhood saying: "We had to make up our own amusement... We didn't have much money... We didn't have toys, nothing was done for us, so the result was that we lived in our imaginations most of the time."
 
-**FAKT**: Truman Capote (wtedy Truman Persons) przeprowadził się do Monroeville w wieku 4 lat, aby mieszkać z ciotką po rozwodzie rodziców - spędzał lata w domu, który był na tej samej ulicy co dom ojca Lee.
+**FACT**: Truman Capote (then Truman Persons) moved to Monroeville at age 4 to live with his aunt after his parents' divorce - he spent years in the house on the same street as Lee's father's home.
 
-**ANEGDOTA**: A.C. Lee kupił dzieciom maszynę do pisania Underwood, gdy zauważył, że chodzą od domu do domu i wymyślają historie o tym, co dzieje się w domach - zabierali maszynę do każdego domu, pisali historie, a na koniec dnia prezentowali je ojcu Lee.
+**ANECDOTE**: A.C. Lee bought the children an Underwood typewriter when he noticed they were going from house to house making up stories about what was happening in the houses - they would take the typewriter to each house, write stories, and at the end of the day present them to Lee's father.
 
-**FAKT**: Pomimo że była młodsza o 2 lata, Lee działała jako ochroniarca Capote, chroniąc małego, bardzo wrażliwego chłopca przed lokalnymi łobuzami.
+**FACT**: Despite being 2 years younger, Lee acted as Capote's protector, shielding the small, sensitive boy from local bullies.
 
-## PUBLIKACJA I PIERWSZE REAKCJE
+## PUBLICATION AND FIRST REACTIONS
 
-**FAKT**: "To Kill a Mockingbird" zostało opublikowane 11 lipca 1960 roku.
+**FACT**: "To Kill a Mockingbird" was published on July 11, 1960.
 
-**FAKT**: Lee była nieśmiała co do publikacji - bała się, że czytelnicy pomyślą, że "Nelle" wymawia się "Nellie", więc poprosiła o publikację pod nazwiskiem "Harper Lee".
+**FACT**: Lee was shy about publication - she was afraid readers would think "Nelle" was pronounced "Nellie," so she asked to publish under the name "Harper Lee."
 
-**CYTAT**: Lee mówiła przyjaciołom: "Miałam nadzieję na szybką i litościwą śmierć z rąk recenzentów."
+**QUOTE**: Lee told friends: "I hoped for a quick and merciful death at the hands of the reviewers."
 
-**FAKT**: Lee przyznała: "Nigdy nie spodziewałam się żadnego sukcesu z Mockingbird. Miałam nadzieję na szybką i litościwą śmierć z rąk recenzentów, ale jednocześnie miałam nadzieję, że komuś spodoba się na tyle, żeby dać mi zachętę."
+**FACT**: Lee admitted: "I never expected any sort of success with Mockingbird. I hoped for a quick and merciful death at the hands of the reviewers, but at the same time I sort of hoped someone would like it enough to give me encouragement."
 
-## SUKCES KOMERCYJNY I NAGRODY
+## COMMERCIAL SUCCESS AND AWARDS
 
-**FAKT**: W pierwszym roku książka sprzedała się w około 500 000 egzemplarzy.
+**FACT**: In the first year, the book sold approximately 500,000 copies.
 
-**FAKT**: W 1961 roku, gdy "To Kill a Mockingbird" było w 41. tygodniu na liście bestsellerów, otrzymało Nagrodę Pulitzera, co zaszokowało Lee.
+**FACT**: In 1961, when "To Kill a Mockingbird" was in its 41st week on the bestseller list, it received the Pulitzer Prize for Fiction, which shocked Lee.
 
-**FAKT**: Książka sprzedała się w ponad 40 milionach egzemplarzy na całym świecie i została przetłumaczona na około 40 języków.
+**FACT**: The book has sold over 40 million copies worldwide and has been translated into approximately 40 languages.
 
-**FAKT**: Nigdy nie była wycofana z druku od 1960 roku.
+**FACT**: It has never been out of print since 1960.
 
-**FAKT**: W 1999 roku została wybrana "Najlepszą Powieścią Stulecia" w sondażu Library Journal.
+**FACT**: In 1999, it was voted "Best Novel of the Century" in a Library Journal poll.
 
-## ADAPTACJE I NAGRODY
+## ADAPTATIONS AND AWARDS
 
-**FAKT**: Powieść została zaadaptowana na film w 1962 roku przez reżysera Roberta Mulligana ze scenariuszem Hortona Foote'a.
+**FACT**: The novel was adapted into a film in 1962 by director Robert Mulligan with a screenplay by Horton Foote.
 
-**FAKT**: Film został nominowany do ośmiu Oscarów i wygrał trzy: Gregory Peck (Najlepszy Aktor), Horton Foote (Najlepszy Scenariusz Adaptowany) oraz zespół projektantów (Najlepsza Scenografia).
+**FACT**: The film was nominated for eight Academy Awards and won three: Gregory Peck (Best Actor), Horton Foote (Best Adapted Screenplay), and the design team (Best Art Direction).
 
-**FAKT**: Lee pomagała przy adaptacji i powiedziała, że była to "jedna z najlepszych adaptacji książki na film kiedykolwiek stworzona".
+**FACT**: Lee helped with the adaptation and said it was "one of the best adaptations of a book to film ever made."
 
-**FAKT**: Od 1990 roku w rodzinnym mieście Harper Lee corocznie wystawiana jest sztuka oparta na powieści.
+**FACT**: Since 1990, a play based on the novel has been performed annually in Harper Lee's hometown.
 
-**FAKT**: W 2018 roku Aaron Sorkin napisał nową adaptację, która zadebiutowała na Broadwayu i została nominowana do 9 nagród Tony.
+**FACT**: In 2018, Aaron Sorkin wrote a new adaptation that debuted on Broadway and was nominated for 9 Tony Awards.
 
-## KONTROWERSJE I ZAKAZY
+## CONTROVERSIES AND BANS
 
-**FAKT**: "To Kill a Mockingbird" zajmuje siódme miejsce na liście dziesięciu najczęściej kwestionowanych i zakazywanych książek American Library Association z 2017 roku.
+**FACT**: "To Kill a Mockingbird" ranks seventh on the American Library Association's list of ten most frequently challenged and banned books from 2017.
 
-**FAKT**: Książka pojawiła się na listach ALA najczęściej kwestionowanych książek w 2009, 2011, 2017 i 2020 roku.
+**FACT**: The book appeared on ALA's most frequently challenged books lists in 2009, 2011, 2017, and 2020.
 
-**FAKT**: Główne powody zakazów to: użycie rasistowskiego słownictwa (słowo "n" pojawia się 48 razy), przedstawienie "białego zbawcy" w postaci Atticusa Fincha, oraz potencjalna krzywda dla uczniów kolorowych.
+**FACT**: Main reasons for bans include: use of racist language (the n-word appears 48 times), portrayal of a "white savior" in Atticus Finch, and potential harm to students of color.
 
-### Konkretne przypadki zakazów:
-**FAKT**: W 2017 roku książka została usunięta w trakcie lekcji z klas ósmej w Biloxi w Mississippi z powodu skarg dotyczących języka.
+### Specific Ban Cases:
+**FACT**: In 2017, the book was removed from eighth-grade classes in Biloxi, Mississippi due to complaints about the language.
 
-**FAKT**: W 2018 roku kopie książki zostały usunięte z klas w Duluth w Minnesota, aby "chronić godność uczniów".
+**FACT**: In 2018, copies of the book were removed from classes in Duluth, Minnesota to "protect students' dignity."
 
-**FAKT**: W 2020 roku, po skargach rodziców, dystrikt szkolny Burbank w Kalifornii usunął książkę z obowiązkowych list lektur.
+**FACT**: In 2020, after parent complaints, the Burbank school district in California removed the book from required reading lists.
 
-## OSOBOWOŚĆ I ŻYCIE HARPER LEE
+## HARPER LEE'S PERSONALITY AND LIFE
 
-**FAKT**: Harper Lee była najmłodsza z czworga dzieci - miała brata i dwie siostry.
+**FACT**: Harper Lee was the youngest of four children - she had one brother and two sisters.
 
-**FAKT**: Jej imię "Nelle" to imię babci przeliterowane wspak - to imię, którego używała, podczas gdy "Harper Lee" było głównie jej pseudonimem literackim.
+**FACT**: Her name "Nelle" is her grandmother's name spelled backwards - this was the name she used, while "Harper Lee" was mainly her literary pseudonym.
 
-**FAKT**: Po kilku latach w Nowym Jorku, Lee dzieliła czas między tym miastem a rodzinnym Monroeville, ostatecznie osiedlając się z powrotem w Alabamie.
+**FACT**: After several years in New York, Lee divided her time between the city and her hometown Monroeville, eventually settling back in Alabama permanently.
 
-**FAKT**: Od czasu publikacji "To Kill a Mockingbird" aż do śmierci w 2016 roku, Lee prawie nie udzielała wywiadów ani nie pojawiała się publicznie.
+**FACT**: From the publication of "To Kill a Mockingbird" until her death in 2016, Lee rarely gave interviews or appeared publicly.
 
-**FAKT**: Ostatni wywiad z dziennikarzem udzieliła w 1964 roku.
+**FACT**: Her last interview with a journalist was in 1964.
 
-**CYTAT**: Rzadkie publiczne wystąpienia były krótkie - na ceremonii w 2007 roku Lee odmówiła przemówienia, mówiąc: "Lepiej milczeć niż być głupcem."
+**QUOTE**: Her rare public appearances were brief - at a 2007 ceremony, Lee declined to speak, saying: "It is better to remain silent than to be a fool."
 
-**FAKT**: "To Kill a Mockingbird" była jedyną opublikowaną książką Lee aż do 2015 roku, gdy ukazał się "Go Set a Watchman".
+**FACT**: "To Kill a Mockingbird" was Lee's only published book until 2015, when "Go Set a Watchman" was released.
 
-**PLOTKA**: Niektórzy kwestionowali czy Lee rzeczywiście zgodziła się na publikację "Go Set a Watchman" w 2015, sugerując, że mogła być wykorzystana z powodu wieku i problemów zdrowotnych.
+**RUMOR**: Some questioned whether Lee actually consented to the publication of "Go Set a Watchman" in 2015, suggesting she might have been taken advantage of due to age and health problems.
 
-## WPŁYW KULTUROWY I EDUKACYJNY
+## CULTURAL AND EDUCATIONAL IMPACT
 
-**FAKT**: Powieść jest jedną z najczęściej zadawanych lektur w amerykańskich szkołach.
+**FACT**: The novel is one of the most frequently assigned readings in American schools.
 
-**FAKT**: Historyk Joseph Crespino wyjaśnia: "W dwudziestym wieku 'To Kill a Mockingbird' jest prawdopodobnie najczęściej czytaną książką dotyczącą rasy w Ameryce."
+**FACT**: Historian Joseph Crespino explains: "In the twentieth century, 'To Kill a Mockingbird' is probably the most widely read book dealing with race in America."
 
-**FAKT**: Książka była publikowana tuż przed szczytem amerykańskiego ruchu praw obywatelskich i kwitła w rasowo naładowanym środowisku Stanów Zjednoczonych wczesnych lat 60.
+**FACT**: The book was published just before the peak of the American civil rights movement and flourished in the racially charged environment of the early 1960s United States.
 
-## CIEKAWOSTKI I LICZBY
+## FASCINATING FACTS AND NUMBERS
 
-**FAKT**: Lee otrzymała również Brotherhood Award of the National Conference of Christians and Jews w 1961 roku oraz nagrodę Paperback of the Year od magazynu Bestsellers w 1962.
+**FACT**: Lee also received the Brotherhood Award of the National Conference of Christians and Jews in 1961 and the Paperback of the Year award from Bestsellers magazine in 1962.
 
-**FAKT**: W pierwszym roku sprzedaż wyniosła około 500 000 egzemplarzy, a książka nigdy nie była wycofana z druku.
+**FACT**: In the first year, sales reached approximately 500,000 copies, and the book has never been out of print.
 
-**FAKT**: Capote napisał w liście: "Książka Nelle jest wysoko na liście bestsellerów. I tak, moja droga, jestem Dill."
+**FACT**: Capote wrote in a letter: "Nelle's book is high up on the bestseller list. And yes, my dear, I am Dill."
 
-**FAKT**: Lee zmarła 19 lutego 2016 roku w rodzinnym Monroeville i została pochowana na Hillcrest Cemetery.
+**FACT**: Lee died on February 19, 2016, in her hometown Monroeville and was buried in Hillcrest Cemetery.
 
-**FAKT**: Wydawnictwo Lippincott kupiło manuskrypt po tym, jak Lee znalazła agenta w listopadzie 1956 - Maurice Crain stał się jej przyjacielem aż do jego śmierci dekady później.
+**FACT**: Lippincott publishers bought the manuscript after Lee found an agent in November 1956 - Maurice Crain became her friend until his death decades later.
 
-**ANEGDOTA**: Przyjaciele opisywali Lee nie jako pustelnicę, ale jako osobę prywatną, która po prostu unikała reporterów - "nie była zamknięta w domu jak Boo Radley - chyba że byłeś reporterem, a wtedy nie zamierzała z tobą rozmawiać."
+**ANECDOTE**: Friends described Lee not as a recluse, but as a private person who simply avoided reporters - "she wasn't holed up at home like Boo Radley - unless you were a reporter, and then she wasn't going to talk to you."
+
+**FACT**: After Tay Hohoff died in 1974, Lee felt devastated and said she had lost not just an editor but a dear friend who "guarded her like a junkyard dog" from commercial pressures.
+
+**FACT**: The editorial team at Lippincott warned Lee that she would probably sell only several thousand copies, making the book's massive success all the more remarkable.
+
+**FACT**: A.C. Lee, Harper's father, grew proud of his daughter's success and in his final years often signed copies of the novel as "Atticus Finch."
+
+**FACT**: Michael Brown, the Broadway composer who gave Lee the Christmas gift that enabled her to write full-time, shrugged off his contribution to literature by saying: "It would have happened with or without us."

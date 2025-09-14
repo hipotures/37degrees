@@ -1,177 +1,177 @@
 # DARK DRAMA INVESTIGATION: "War and Peace" - Leo Tolstoy
 
-## WPROWADZENIE
-Lew Tołstoj i jego arcydzieło "Wojna i pokój" niosą ze sobą znacznie więcej kontrowersji i mrocznych aspektów, niż można by przypuszczać. Ten raport przedstawia 47 najbardziej problematycznych faktów, zarzutów i plotek związanych z książką i jej autorem.
+## INTRODUCTION
+Leo Tolstoy and his masterpiece "War and Peace" carry far more controversies and dark aspects than one might assume. This report presents 47 of the most problematic facts, accusations, and rumors related to the book and its author.
 
 ---
 
-## SKANDALE OSOBISTE TOŁSTOJA
+## TOLSTOY'S PERSONAL SCANDALS
 
-### Brutalne zachowania młodości
-**FAKT**: Tołstoj pisał o swojej młodości: "Walczyłem na pojedynkach, aby zabijać innych, przegrywałem w karty, marnowałem substancję wyciśniętą z potu chłopów, karałem ich okrutnie i oszukiwałem ludzi. Kłamstwo, rabunek, pijaństwo, przemoc, morderstwo... wszystko popełnione przeze mnie, ani jednego przestępstwa nie ominąłem."
+### Brutal behaviors of youth
+**FACT**: Tolstoy wrote about his youth: "I fought duels to kill others, lost at cards, wasted substance squeezed from peasants' sweat, punished them cruelly and deceived people. Lying, robbery, drunkenness, violence, murder... everything was committed by me, not one crime did I omit."
 
-**FAKT**: Tołstoj aspirował do ograniczenia wizyt w burdelu do zaledwie dwóch miesięcznie, co pokazuje skalę jego problemów z uzależnieniem seksualnym.
+**FACT**: Tolstoy aspired to limit his brothel visits to merely twice a month, showing the scale of his sexual addiction problems.
 
-**FAKT**: Młody Tołstoj miał problemy z hazardem i przemocy, regularnie uczestniczył w pojedynkach.
+**FACT**: Young Tolstoy had problems with gambling and violence, regularly participating in duels.
 
-### Straszliwe traktowanie żony
-**FAKT**: Kiedy 34-letni hrabia Tołstoj poprosił 18-letnią Sofię Behrs o rękę, dał jej przed ślubem swoje pamiętniki opisujące intymne związki z innymi kobietami, w tym z chłopką, z którą miał dziecko.
+### Terrible treatment of his wife
+**FACT**: When 34-year-old Count Tolstoy proposed to 18-year-old Sofia Behrs, he gave her his diaries before marriage describing intimate relationships with other women, including a peasant woman with whom he had a child.
 
-**FAKT**: Tołstoj zmusił Sofię do przeczytania swoich pamiętników - pełnych przedmałżeńskich podbojów seksualnych - w noc przed ślubem.
+**FACT**: Tolstoy forced Sofia to read his diaries - full of premarital sexual conquests - on the night before their wedding.
 
-**ZARZUT**: Za każdym razem, gdy jego żona była w ciąży i nie mogła uprawiać seksu, zwracał się do chłopek w swojej wsi. Obiecał Sofii "nie mieć żadnych kobiet w naszej wsi, z wyjątkiem rzadkich okazji, których nie będę szukał ani nie powstrzymywał."
+**ACCUSATION**: Every time his wife was pregnant and couldn't have sex, he turned to peasant women in his village. He promised Sofia "not to have any women in our village, except for rare occasions, which I will neither seek nor prevent."
 
-**FAKT**: Sofia napisała po ślubie: "Cała jego przeszłość jest dla mnie tak okropna, że myślę, że nigdy nie będę z nim w spokoju."
+**FACT**: Sofia wrote after marriage: "His entire past is so horrible to me that I think I will never be at peace with him."
 
-**FAKT**: Sofia miała 13 dzieci z Tołstojem i przepisywała ręcznie siedem kopii manuskryptu "Wojny i pokoju", jednocześnie znosząc jego opisy pozamałżeńskich romansów.
+**FACT**: Sofia had 13 children with Tolstoy and hand-copied seven copies of the "War and Peace" manuscript while enduring his descriptions of extramarital romances.
 
-### Misoginia i pogardliwe postawy
-**FAKT**: Tołstoj napisał w swoim dzienniku: "Kobieta... to narzędzie diabła. Zazwyczaj jest głupia, ale diabeł pożycza jej swój mózg, gdy pracuje dla niego".
+### Misogyny and contemptuous attitudes
+**FACT**: Tolstoy wrote in his diary: "Woman... is the devil's instrument. Usually she is stupid, but the devil lends her his brain when she works for him."
 
-**FAKT**: Był stale dręczony cielesną żądzą i postrzegał kobiety jako nieczyste: "Nie mogę przezwyciężyć swojej żądzy", pisał, "ta wada stała się dla mnie nawykiem."
+**FACT**: He was constantly tormented by carnal lust and perceived women as impure: "I cannot overcome my lust," he wrote, "this vice has become a habit for me."
 
-### Opuszczenie rodziny
-**FAKT**: W 1910 roku, w wieku 82 lat, Tołstoj gwałtownie opuścił Sofię, towarzyszyła mu córka Aleksandra i lekarz. Odszedł w gniewie po podsłuchaniu, jak Sofia przeszukuje jego gabinet w poszukiwaniu testamentu.
+### Abandoning the family
+**FACT**: In 1910, at age 82, Tolstoy abruptly left Sofia, accompanied by his daughter Alexandra and a doctor. He left in anger after overhearing Sofia searching his office for his will.
 
-**FAKT**: Tołstoj zmarł 10 dni po opuszczeniu domu w osadzie Astapowo, z dala od Sofii, która została od niego odgrodzona.
-
----
-
-## KONTROWERSJE RELIGIJNE I EKSKOMUNIKA
-
-### Heretyckie przekonania
-**FAKT**: W 1901 roku Rosyjski Kościół Prawosławny ekskomunikował Tołstoja, uznając go za "fałszywego nauczyciela".
-
-**FAKT**: Święty Synod stwierdził, że Tołstoj "zaprzecza żywemu i osobistemu Bogu gloryfikowanemu w Trójcy Świętej, Stwórcy i Opatrzności wszechświata; obala naszego Pana Jezusa Chrystusa, Boga, który stał się Człowiekiem, Odkupiciela i Zbawiciela świata; zaprzecza Niepokalanemu Poczęciu ludzkiej manifestacji Chrystusa Pana i dziewictwu Marii, Matki Bożej".
-
-**FAKT**: Tołstoj sam siebie ekskomunikował, mówiąc: "Jest całkowicie uzasadnione, że wyrzekłem się Kościoła, który nazywa siebie prawosławnym... Wyrzekam się wszystkich sakramentów... Prawdziwie wyrzekłem się Kościoła."
-
-**ZARZUT**: Jan z Kronsztadu, jeden z najbardziej wpływowych księży tamtych czasów, nazwał Tołstoja "heretykiem, który przewyższył wszystkich heretyków".
-
-### Atak na instytucje religijne
-**FAKT**: Tołstoj nazywał kościół "nieprzeniknionym lasem głupoty" i "świadomym oszustwem, które służy jako środek dla jednej części ludzi do rządzenia drugą".
-
-**FAKT**: Oskarżył księży o wypaczenie humanitarnego przesłania Jezusa w bezlitosny narzędzie władzy.
-
-**FAKT**: Jego uczniowie, zwani "tołstojańczykami", byli prześladowani, a najaktywniejszych wysyłano na zesłanie i do więzienia.
+**FACT**: Tolstoy died 10 days after leaving home at Astapovo station, away from Sofia, who was barred from seeing him.
 
 ---
 
-## PROBLEMATYCZNE ASPEKTY "WOJNY I POKOJU"
+## RELIGIOUS CONTROVERSIES AND EXCOMMUNICATION
 
-### Seksizm i retrograde postawy
-**FAKT**: Powieść zawiera nieskrępowany seksizm typowy dla XIX-wiecznego pisarza męskiego, chociaż empatyczne portretowanie postaci kobiecych zapobiega oskarżeniom o jawną mizoginię.
+### Heretical beliefs
+**FACT**: In 1901, the Russian Orthodox Church excommunicated Tolstoy, declaring him a "false teacher."
 
-**ZARZUT**: Wszyscy główni bohaterowie są zamożni, zapewniając jedynie okazjonalne spojrzenia na życie tych o mniejszych środkach, z bezpośrednimi przedstawieniami biednych lub mniejszościowych obywateli będącymi rzadkimi.
+**FACT**: The Holy Synod stated that Tolstoy "denies the living and personal God glorified in the Holy Trinity, the Creator and Providence of the universe; overthrows our Lord Jesus Christ, God who became Man, the Redeemer and Savior of the world; denies the Immaculate Conception of the human manifestation of Christ the Lord and the virginity of Mary, the Mother of God."
 
-### Problemy z realizm historycznym
-**FAKT**: Rosyjska prasa początkowo zareagowała na powieść stonowanie, większość krytyków nie mogła zdecydować, jak ją sklasyfikować: "Co to może być? Do jakiego gatunku mamy to przypisać?... Gdzie jest w tym fikcja, a gdzie prawdziwa historia?"
+**FACT**: Tolstoy excommunicated himself, saying: "It is completely justified that I have renounced the Church, which calls itself Orthodox... I renounce all sacraments... I have truly renounced the Church."
 
-**FAKT**: Powieść została skrytykowana przez weteranów wojen napoleońskich, którzy znaleźli różne błędy w opisach Tołstoja niektórych wydarzeń.
+**ACCUSATION**: John of Kronstadt, one of the most influential priests of those times, called Tolstoy a "heretic who surpassed all heretics."
 
-**ZARZUT**: Krytycy widzieli główną wadę jako "niezdolność autora do portretowania nowego rodzaju rewolucyjnej inteligencji", charakteryzując powieść jako "pozbawioną realizmu" i promującą "filozofię stagnacji".
+### Attack on religious institutions
+**FACT**: Tolstoy called the church an "impenetrable forest of stupidity" and "conscious deception that serves as a means for one part of people to rule another."
 
-### Narodowe kontrowersje
-**FAKT**: Dmitrij Pisariew skrytykował sposób, w jaki Tołstoj "idealizował" starą szlachtę, wyrażając "nieświadomą i całkiem naturalną czułość" wobec rosyjskiego dvoryanstwa.
+**FACT**: He accused priests of distorting Jesus's humanitarian message into a ruthless tool of power.
 
-**ZARZUT**: Współczesne interpretacje sugerują, że "Wojna i pokój" została zawłaszczona przez rosyjski nacjonalizm, ze Stalinem popularyzującym powieść podczas inwazji Hitlera dla pobudzenia patriotyzmu.
-
----
-
-## TEORIE SPISKOWE I OKULTYSTYCZNE INTERPRETACJE
-
-### Masoński symbolizm
-**PLOTKA**: Istnieją spekulacje, że Tołstoj był członkiem masonów, mimo braku dowodów historycznych.
-
-**FAKT**: Tołstoj przedstawił niezwykle dokładne i szczegółowe opisy rytuałów masońskich w "Wojnie i pokoju" przez postać Pierre'a Bezukhova.
-
-**TEORIA**: Niektórzy uważają, że Tołstoj używał masonerii jako zastępstwa dla chrześcijaństwa, aby móc wyśmiewać jej pretensje i eksplorować jej ideały bez konieczności odpierania cenzorów.
-
-**PLOTKA**: Inni myślą, że wynalazł rodzaj wyidealizowanej masonerii jako model dla chrześcijańskiego towarzystwa, które jego zdaniem chrześcijanie powinni wymyślić jako alternatywę dla ustanowionego Kościoła.
-
-### Ukryte znaczenia polityczne
-**TEORIA**: Użycie francuskiego języka w powieści zostało zinterpretowane jako celowe narzędzie literackie do portretowania sztuczności, podczas gdy rosyjski jawi się jako język szczerości.
-
-**ZARZUT**: Powieść została oskarżona o brak krytyki społecznej i skłonność do jedności narodowej, z główną wadą będącą "niezdolnością autora do portretowania rewolucyjnej inteligencji".
+**FACT**: His followers, called "Tolstoyans," were persecuted, with the most active being sent to exile and prison.
 
 ---
 
-## MROCZNE TEMATY W POWIEŚCI
+## PROBLEMATIC ASPECTS OF "WAR AND PEACE"
 
-### Przemoc i trauma wojenna
-**FAKT**: Tołstoj koncentruje się na okropnościach i ekscytacji bitwy, pokazuje fizyczne i psychiczne traumy cierpiące przez wojskowych i cywilów.
+### Sexism and retrograde attitudes
+**FACT**: The novel contains unrestrained sexism typical of a 19th-century male writer, though empathetic portrayal of female characters prevents accusations of outright misogyny.
 
-**FAKT**: Jego eseje historyczne pokazują ostateczną daremność "wielkich ludzi" próbujących zmienić historię siłą woli.
+**ACCUSATION**: All main characters are wealthy, providing only occasional glimpses into the lives of those with lesser means, with direct representations of poor or minority citizens being rare.
 
-**FAKT**: Powieść zawiera realistyczne opisy scen bitewnych z opisami ran i śmierci, psychologicznego wpływu wojny na żołnierzy i cywilów, żałoby i straty.
+### Problems with historical realism
+**FACT**: The Russian press initially reacted to the novel with restraint, most critics unable to decide how to classify it: "What can this be? To what genre should we assign this?... Where is fiction in this, and where is real history?"
 
-### Filozoficzne kontrowersje
-**FAKT**: Tołstojowska wiara w skuteczność zwyczajnego i daremność budowania systemów postawiła go w opozycji do myślicieli swoich czasów i pozostaje jednym z najbardziej kontrowersyjnych aspektów jego filozofii.
+**FACT**: The novel was criticized by veterans of the Napoleonic wars, who found various errors in Tolstoy's descriptions of certain events.
 
-**ZARZUT**: Krytycy od lat 60. XIX wieku do dziś zastanawiali się, jak trzy części powieści (opis historyczny, biografia fikcyjna i eseje filozoficzne) współgrają, z wieloma winami Tołstojowi za włączenie długich esejów.
+**ACCUSATION**: Critics saw the main flaw as "the author's inability to portray the new type of revolutionary intelligentsia," characterizing the novel as "lacking realism" and promoting a "philosophy of stagnation."
 
----
+### National controversies
+**FACT**: Dmitri Pisarev criticized how Tolstoy "idealized" the old nobility, expressing "unconscious and quite natural tenderness" toward the Russian dvoryanstvo.
 
-## CENZURA I PRZEŚLADOWANIA
-
-### Rządowe prześladowania
-**FAKT**: Rząd carski postawił Tołstoja pod nadzorem policyjnym z powodu jego poglądów.
-
-**FAKT**: Rosyjski Kościół Prawosławny ekskomunikował go w 1901 roku.
-
-**FAKT**: "Ekskomunika", która miała na celu uratowanie wierzących przed "fałszywymi naukami" Tołstoja, przyniosła dokładnie odwrotny skutek, popularyzując jego idee.
-
-### Wpływ na zwolenników
-**FAKT**: Rzeczywiste prześladowania rozpoczęły się przeciwko jego zwolennikom, "tołstojańczykom", z najaktywniejszymi kończącymi na zesłaniu i w więzieniu.
-
-**FAKT**: Szczególnie prześladowani byli ci, którzy odmawiali służby wojskowej podczas I wojny światowej z powodu swoich przekonań religijnych.
+**ACCUSATION**: Contemporary interpretations suggest that "War and Peace" was appropriated by Russian nationalism, with Stalin popularizing the novel during Hitler's invasion to boost patriotism.
 
 ---
 
-## WSPÓŁCZESNE KONTROWERSJE
+## CONSPIRACY THEORIES AND OCCULT INTERPRETATIONS
 
-### Wykorzystanie propagandowe
-**FAKT**: Rosyjscy widzowie kojarzą powieść z nacjonalistycznym patriotyzmem, szczególnie pamiętając popularyzację "Wojny i pokoju" przez Stalina podczas inwazji Hitlera.
+### Masonic symbolism
+**RUMOR**: There are speculations that Tolstoy was a member of the Freemasons, despite the lack of historical evidence.
 
-**ZARZUT**: Zamiast uwielbiać Puszkina czy Tołstoja, Amerykanie powinni edukować się o rosyjskim imperializmie i krytycznie analizować to, co wiedzą o rosyjskiej historii czy kulturze.
+**FACT**: Tolstoy presented extremely accurate and detailed descriptions of Masonic rituals in "War and Peace" through the character of Pierre Bezukhov.
 
-### Paradoks interpretacyjny
-**FAKT**: Chociaż Tołstoj zamierzył to jako krytykę wojny, władzy i nacjonalistycznej historiografii, została wielokrotnie zawłaszczona do celów nacjonalistycznych i propagandowych w całej rosyjskiej historii.
+**THEORY**: Some believe that Tolstoy used Freemasonry as a substitute for Christianity, to be able to mock its pretensions and explore its ideals without having to fend off censors.
 
----
+**RUMOR**: Others think he invented a kind of idealized Freemasonry as a model for the Christian society that he believed Christians should invent as an alternative to the established Church.
 
-## FINANSOWE SKANDALE I DRAMATY
+### Hidden political meanings
+**THEORY**: The use of French language in the novel has been interpreted as a deliberate literary tool to portray artificiality, while Russian appears as the language of sincerity.
 
-### Problemy majątkowe
-**FAKT**: Para kłóciła się o pragnienie Tołstoja, aby rozdać całą swoją prywatną własność.
-
-**FAKT**: Sofia musiała znosić ciężar prowadzenia ich biznesów i nawigowania przez stale zmieniające się nastroje Tołstoja.
-
-### "Sonata Kreutzerowska" kontrowersja
-**FAKT**: W 1889 roku Tołstoj opublikował "Sonatę Kreutzerowską", która propagowała wstrzemięźliwość seksualną i przedstawiała narratora, który morduje swoją żonę w napadzie zazdrości.
-
-**FAKT**: Chociaż szybko zakazana, powieść była postrzegana w rosyjskim społeczeństwie jako opisująca nieszczęśliwe małżeństwo Lwa i Sofii Tołstoj, co bardzo obraziło Sofię.
+**ACCUSATION**: The novel was accused of lacking social criticism and tendency toward national unity, with the main flaw being "the author's inability to portray revolutionary intelligentsia."
 
 ---
 
-## PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## DARK THEMES IN THE NOVEL
 
-### Przepowiednie społeczne
-**FAKT**: Tołstojowska krytyka standardowej historii, szczególnie historii wojskowej, okazała się prorocza w erze XX-wiecznych wojen totalnych.
+### Violence and war trauma
+**FACT**: Tolstoy focuses on the horrors and excitement of battle, shows physical and psychological traumas suffered by military and civilians.
 
-**FAKT**: Jego argument, że działania monarchów, polityków i generałów nie były główną przyczyną wydarzeń historycznych, ale że ludzka historia postępowała przez nieskończony łańcuch małych, nieznaczących momentów z udziałem wszystkich jednostek, współbrzmi z współczesnymi teoriami historycznymi.
+**FACT**: His historical essays show the ultimate futility of "great men" trying to change history through willpower.
 
-### Niespełnione wizje
-**ZARZUT**: Tołstojowska wiara w możliwość całkowitego pacyfizmu i rezygnacji z przemocy została zweryfikowana przez wydarzenia XX wieku.
+**FACT**: The novel contains realistic descriptions of battle scenes with descriptions of wounds and death, psychological impact of war on soldiers and civilians, grief and loss.
 
-**FAKT**: Jego idee o edukacji i reformie społecznej nie zdołały zapobiec rewolucji rosyjskiej ani późniejszym terrorem.
+### Philosophical controversies
+**FACT**: Tolstoy's belief in the effectiveness of the ordinary and the futility of building systems put him in opposition to the thinkers of his time and remains one of the most controversial aspects of his philosophy.
 
----
-
-## PODSUMOWANIE
-
-Lew Tołstoj i "Wojna i pokój" pozostają jednym z najbardziej kontrowersyjnych przykładów wielkiej literatury. Od osobistych skandali autora, przez problematyczne aspekty dzieła, po jego zawłaszczenie przez różne ideologie polityczne - ta książka niesie ze sobą ciężar mrocznej historii, który kontrastuje z jej artystyczną wielkością. Mimo wszystkich kontrowersji, pozostaje arcydziełem, które nadal prowokuje debaty o naturze wojny, pokoju, władzy i ludzkiej kondycji.
+**ACCUSATION**: Critics from the 1860s to today have wondered how the three parts of the novel (historical description, fictional biography, and philosophical essays) work together, with many blaming Tolstoy for including long essays.
 
 ---
 
-*Dokument przygotowany na podstawie badań historycznych i literackich. Wszystkie informacje zostały zweryfikowane i oznaczone jako FAKT, ZARZUT lub PLOTKA zgodnie z dostępnymi źródłami.*
+## CENSORSHIP AND PERSECUTION
+
+### Government persecution
+**FACT**: The tsarist government placed Tolstoy under police surveillance because of his views.
+
+**FACT**: The Russian Orthodox Church excommunicated him in 1901.
+
+**FACT**: The "excommunication," which was intended to save believers from Tolstoy's "false teachings," produced exactly the opposite effect, popularizing his ideas.
+
+### Impact on followers
+**FACT**: Real persecution began against his followers, the "Tolstoyans," with the most active ending up in exile and prison.
+
+**FACT**: Particularly persecuted were those who refused military service during World War I because of their religious beliefs.
+
+---
+
+## CONTEMPORARY CONTROVERSIES
+
+### Propaganda use
+**FACT**: Russian viewers associate the novel with nationalist patriotism, particularly remembering Stalin's popularization of "War and Peace" during Hitler's invasion.
+
+**ACCUSATION**: Instead of worshiping Pushkin or Tolstoy, Americans should educate themselves about Russian imperialism and critically analyze what they know about Russian history or culture.
+
+### Interpretive paradox
+**FACT**: Although Tolstoy intended it as a critique of war, power, and nationalist historiography, it has been repeatedly appropriated for nationalist and propaganda purposes throughout Russian history.
+
+---
+
+## FINANCIAL SCANDALS AND DRAMAS
+
+### Property problems
+**FACT**: The couple quarreled over Tolstoy's desire to give away all his private property.
+
+**FACT**: Sofia had to bear the burden of running their businesses and navigating Tolstoy's constantly changing moods.
+
+### "The Kreutzer Sonata" controversy
+**FACT**: In 1889, Tolstoy published "The Kreutzer Sonata," which advocated sexual abstinence and featured a narrator who murders his wife in a fit of jealousy.
+
+**FACT**: Though quickly banned, the novel was perceived in Russian society as describing the unhappy marriage of Leo and Sofia Tolstoy, which greatly offended Sofia.
+
+---
+
+## PROPHECY CHECK - WHAT CAME TRUE
+
+### Social prophecies
+**FACT**: Tolstoy's critique of standard history, particularly military history, proved prophetic in the era of 20th-century total wars.
+
+**FACT**: His argument that the actions of monarchs, politicians, and generals were not the main cause of historical events, but that human history progressed through an infinite chain of small, insignificant moments involving all individuals, resonates with contemporary historical theories.
+
+### Unfulfilled visions
+**ACCUSATION**: Tolstoy's belief in the possibility of complete pacifism and renunciation of violence was tested by 20th-century events.
+
+**FACT**: His ideas about education and social reform failed to prevent the Russian revolution or subsequent terror.
+
+---
+
+## SUMMARY
+
+Leo Tolstoy and "War and Peace" remain one of the most controversial examples of great literature. From the author's personal scandals, through problematic aspects of the work, to its appropriation by various political ideologies - this book carries the burden of dark history that contrasts with its artistic greatness. Despite all controversies, it remains a masterpiece that continues to provoke debates about the nature of war, peace, power, and the human condition.
+
+---
+
+*Document prepared based on historical and literary research. All information has been verified and marked as FACT, ACCUSATION, or RUMOR according to available sources.*

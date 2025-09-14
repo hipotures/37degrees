@@ -1,169 +1,213 @@
-# Badania Historyczne: Wichrowe Wzgórza (Wuthering Heights)
+# Historical Research: Wuthering Heights
 
-## Informacje podstawowe
-- **Tytuł**: Wuthering Heights (Wichrowe Wzgórza)
-- **Autor**: Emily Brontë 
-- **Rok publikacji**: 1847
-- **Gatunek**: Powieść gotycka
-- **Data badania**: 2025-09-06
+## Basic Information
+- **Title**: Wuthering Heights
+- **Author**: Emily Brontë
+- **Publication Year**: 1847
+- **Genre**: Gothic Novel
+- **Research Date**: 2025-09-14
 
 ---
 
-## HISTORIA POWSTANIA I FAKTY
+## CREATION HISTORY AND FACTS
 
-### Okoliczności napisania
+### Writing Timeline and Composition
 
-**FAKT**: Emily Brontë napisała "Wuthering Heights" między grudniem 1845 a lipcem 1846 roku, gdy miała zaledwie 27-28 lat.
+**FACT**: Emily Brontë wrote "Wuthering Heights" between October 1845 and June 1846, when she was just 27-28 years old.
 
-**FAKT**: Powieść pozostawała niepublikowana przez ponad rok - do lipca 1847 roku, a wydrukowano ją dopiero w grudniu 1847, po sukcesie "Jane Eyre" jej siostry Charlotte.
+**FACT**: The novel remained unpublished for over a year after completion - from June 1846 to December 1847, waiting for the right publishing opportunity.
 
-**FAKT**: Emily pisała pod pseudonimem "Ellis Bell" - siostry Brontë wybrały męskie pseudonimy zachowujące pierwsze litery ich imion: Currer (Charlotte), Ellis (Emily) i Acton (Anne).
+**FACT**: Emily wrote under the pseudonym "Ellis Bell" - the Brontë sisters chose male pseudonyms preserving their initials: Currer (Charlotte), Ellis (Emily), and Acton (Anne).
 
-**FAKT**: Powieść została opublikowana jako pierwsze dwa tomy trzytomowego wydania, razem z "Agnes Grey" Anne Brontë jako trzeci tom.
+**FACT**: The novel was published as the first two volumes of a three-volume set, with Anne Brontë's "Agnes Grey" as the third volume on December 14, 1847.
 
-### Inspiracje i wpływy
+**FACT**: Emily's real name didn't appear on the book cover until after her death in 1850, when it was printed on the title page of a new commercial edition.
 
-**FAKT**: Emily Brontë nigdy nie opuściła na stałe Yorkshire - żyła wśród wrzosowisk przez całe swoje życie, co bezpośrednio wpłynęło na atmosferę powieści.
+### The Discovery That Started Everything (1845)
 
-**FAKT**: Rodzina Brontë przeprowadziła się do Haworth w 1820 roku, gdy Emily miała 2 lata - to otoczenie stało się jedynym światem, jaki znała.
+**FACT**: In autumn 1845, Charlotte accidentally discovered Emily's notebook of poetry, which led to the sisters' literary careers.
 
-**FAKT**: Charlotte Brontë pisała o siostrze: "Jej rodzime wzgórza były dla niej czymś więcej niż spektaklem; żyła w nich i z nich, tak jak dzikie ptaki czy wrzos".
+**FACT**: Charlotte later recalled: "I accidentally lighted on a MS. volume of verse in my sister Emily's handwriting."
 
-**FAKT**: Prawdopodobne inspiracje dla Wuthering Heights to trzy rzeczywiste miejsca: Top Withens (zrujnowana farma), High Sunderland Hall (zburzona) i Ponden Hall, który może być wzorem dla Thrushcross Grange.
+**FACT**: Emily was furious about this "unlicensed intrusion" - it took Charlotte "hours to reconcile her" and "days to persuade her that such poems merited publication."
 
-### Świat fantasy Gondal
+**FACT**: This discovery occurred during Emily's peak poetic period - she reached "the peak of her poetic powers" in 1844 and 1845, according to the Oxford Dictionary of National Biography.
 
-**FAKT**: Emily i Anne Brontë stworzyły w dzieciństwie fantastyczny świat zwany Gondal - wyspiarską krainę na Pacyfiku, rządzoną przez kobietę.
+### Law Hill School Experience (1838) - The Heathcliff Connection
 
-**FAKT**: Emily pozostała oddana Gondalowi przez całe życie, w przeciwieństwie do swoich rodzeństwa, które porzuciło podobne gry.
+**FACT**: Emily's only paid employment was teaching at Law Hill School in Halifax from September 1838 to April 1839, lasting just six months.
 
-**FAKT**: W 1845 roku Emily i Anne (mając już po 27 i 25 lat) podczas podróży do York wcielały się w postacie z Gondalu.
+**FACT**: The working conditions were brutal - Emily wrote to Charlotte describing "hard labour from six in the morning to near eleven at night... this is slavery."
 
-**FAKT**: Wiersze Emily były pisane jako część sagi Gondal - eksperci uważają, że "Wuthering Heights" to w istocie powieść osadzona w świecie Gondal.
+**FACT**: Law Hill was built by Jack Sharp, widely considered the main inspiration for Heathcliff's character.
 
-### Proces publikacji
+**FACT**: Jack Sharp was adopted by John Walker of Walter Clough Hall around 1750, became unscrupulous, and eventually acquired his uncle's business through manipulation.
 
-**FAKT**: Emily i Anne zapłaciły wydawcy Thomasowi Newbyemu 50 funtów (ogromną sumę jak na ówczesne czasy) za publikację swoich powieści.
+**FACT**: When John Walker died in 1771 (the same year Mr. Earnshaw makes his Liverpool trip in the novel), Jack Sharp had full possession of the estate but was later ousted by the rightful heir.
 
-**FAKT**: Gdy otrzymały korektę, była pełna błędów, a później okazało się, że wiele ich poprawek zostało zignorowanych.
+**FACT**: Despite the demanding work, Emily managed to write a new sequence of poems at Law Hill that showed a different direction from her previous Gondal fantasy writings.
 
-**FAKT**: Prawdziwe imię Emily pojawiło się na okładce dopiero po jej śmierci w 1850 roku.
+### The Gondal Fantasy World
 
-**FAKT**: Pierwszą recenzję powieści napisano dopiero w 1848 roku - była miażdżąca.
+**FACT**: Emily and Anne Brontë created a fantasy world called Gondal in childhood - an imaginary island in the Pacific ruled by a woman.
 
-### Pierwsze reakcje i krytyka
+**FACT**: Unlike her siblings who abandoned similar fantasy games, Emily remained devoted to Gondal throughout her entire life.
 
-**FAKT**: Paterson's Magazine (USA) w 1848 napisał: "Wstajemy po lekturze Wuthering Heights jakbyśmy wyszli ze szpitala zakaźnego. Przeczytajcie Jane Eyre, ale spalcie Wuthering Heights".
+**FACT**: In 1845, Emily and Anne (aged 27 and 25) still "played" Gondal characters during a trip to York, showing Emily's lifelong attachment to this fantasy world.
 
-**FAKT**: Atlas w 1848: "Nie znamy w całej naszej literaturze fikcjonalnej nic, co przedstawiałoby tak szokujące obrazy najgorszych form ludzkości".
+**FACT**: Literary scholars widely accept that "Wuthering Heights" is essentially a novel set in the Gondal universe, making it both Yorkshire-based and fantastical.
 
-**FAKT**: Graham's Lady Magazine: "Jak istota ludzka mogła podjąć się takiej książki bez popełnienia samobójstwa przed ukończeniem tuzina rozdziałów, to tajemnica".
+**FACT**: Emily's poems were written as part of the Gondal saga - she organized them in 1844 into two notebooks, one marked "Gondal Poems."
 
-**FAKT**: Jeden z krytyków napisał: "To dziwna, nieartystyczna historia", ale dodał, że każdy rozdział zawiera "rodzaj szorstkiej mocy".
+### Publication Journey and Commercial Failure
 
-**FAKT**: Wiktorianczycy byli szczególnie oburzeni na namiętny, nieskrępowany romans i brak moralnych wskazówek.
+**FACT**: Emily and Anne paid publisher Thomas Cautley Newby £50 (an enormous sum for the time) to publish their novels jointly.
 
-### Sprzedaż i niepowodzenie komercyjne
+**FACT**: When they received proofs, they were full of errors, and many of their corrections were later ignored in the final printing.
 
-**FAKT**: Pierwsze wydanie miało tak ograniczony sukces, że wiele osób nie kupiło drugiego tomu po przeczytaniu pierwszego.
+**FACT**: Newby deliberately created confusion about the Bell brothers' identities, suggesting all novels were written by one person to capitalize on "Jane Eyre's" success.
 
-**FAKT**: Wydawca Harper & Brothers w Ameryce wyrzucił niesprzedane egzemplarze, czyniąc drugi tom w miękkich okładkach praktycznie niedostępnym.
+**FACT**: The first edition sold very few copies, with many readers not bothering to buy the second volume after reading the first.
 
-**FAKT**: W ostatnich 50 latach na aukcjach sprzedano tylko 11 egzemplarzy pierwszego wydania z 1847 roku.
+**FACT**: Harper & Brothers in America threw away unsold copies, making the second volume in paperback virtually unobtainable.
 
-**FAKT**: W 2010 roku trzytomowe pierwsze wydanie sprzedano za £163,250 na aukcji Sotheby's - ponad dwukrotnie więcej niż oszacowanie.
+### Critical Massacre - The Reviews
 
-### Biografia Emily w kontekście książki
+**FACT**: Paterson's Magazine (USA) wrote in 1848: "We rise from the perusal of Wuthering Heights as if we had come fresh from a pest-house. Read Jane Eyre is our advice, but burn Wuthering Heights."
 
-**FAKT**: Emily Brontë była piątym z sześciu dzieci; jej matka zmarła, gdy miała 3 lata.
+**FACT**: The Atlas declared: "We know nothing in the whole range of our fictitious literature which presents such shocking pictures of the worst forms of humanity."
 
-**FAKT**: Po śmierci materii w 1821 roku dzieci zostały praktycznie pozostawione same sobie w ponurej plebanii na wrzosowiskach.
+**FACT**: Graham's Lady Magazine wrote: "How a human being could have attempted such a book as the present without committing suicide before he had finished a dozen chapters, is a mystery."
 
-**FAKT**: Emily nigdy nie wyszła za mąż i miała bardzo niewiele bliskich kontaktów poza rodziną.
+**FACT**: Douglas Jerrold's Weekly Newspaper proclaimed readers would be "disgusted, almost sickened by details of cruelty, inhumanity, and the most diabolical hate and vengeance."
 
-**FAKT**: Była doskonałą pianistką i sama nauczyła się niemieckiego z książek.
+**FACT**: Victorian critics were particularly outraged by the passionate, unrestrained romance and complete lack of moral guidance in the novel.
 
-**FAKT**: Emily pracowała krótko jako guwernatka w Law Hill w Halifax w 1838 roku - jedyne doświadczenie zawodowe poza domem.
+### Emily's Personal Life and Character
 
-### Śmierć i tragiczny koniec
+**FACT**: Emily was the tallest of the Brontë sisters at approximately 5'9" (175cm), which was exceptionally tall for 19th-century women.
 
-**FAKT**: Emily Brontë zmarła na gruźlicę 19 grudnia 1848 roku, w wieku 30 lat - dokładnie rok po publikacji "Wuthering Heights".
+**FACT**: She had "very beautiful eyes - kind, kindling, liquid eyes" that appeared "dark grey, at other times dark blue, they varied so."
 
-**FAKT**: Wcześniej pielęgnowała swojego brata Branwella, który zmarł na gruźlicę we wrześniu 1848.
+**FACT**: Her sisters nicknamed her "the Major" because she exercised an "unconscious tyranny" over them with her strong-willed personality.
 
-**FAKT**: Emily odmówiła leczenia medycznego, nazywając je "szarlataństwem" i mówiąc, że nie chce "trującego doktora" w swojej bliskości.
+**FACT**: Emily never married and had very few close contacts outside her family - she was described as "extremely unsocial and reserved."
 
-**FAKT**: W "Wuthering Heights" trzy postacie umierają na "suchoty" (gruźlicę), a ich cierpienie jest opisane z medyczną dokładnością - Emily rozumiała naturę choroby.
+**FACT**: She was an excellent pianist and taught herself German from books, later writing poems in French and German despite never traveling outside England.
 
-### Ciekawostki o procesie pisania
+### The Legendary Keeper and Personal Anecdotes
 
-**FAKT**: Nie zachowały się żadne listy ani pamiętniki Emily - była skrycie osobą i nie pozostawiła dokumentów osobistych.
+**FACT**: Emily owned a huge mastiff named Keeper, said to be so fierce that only she could control him.
 
-**FAKT**: W 1844 Emily przepisała wszystkie swoje wiersze do dwóch zeszytów - jeden oznaczony "Gondal Poems", drugi bez tytułu.
+**FACT**: When Emily died, Keeper walked alongside the mourners at her funeral and spent many nights moaning at the door of her empty bedroom.
 
-**FAKT**: "Wuthering Heights" to jedyna powieść Emily Brontë - nigdy nie napisała kolejnej.
+**FACT**: Emily learned to shoot a pistol and was the only Brontë sister to practice marksmanship regularly during moor walks.
 
-**FAKT**: Emily pisała w małym pokoju na plebanii, przy świecach, często do późna w nocy.
+**FACT**: In a famous incident, Emily was bitten by a possibly rabid dog and calmly walked to the kitchen to cauterize her own wound with a red-hot poker without telling anyone.
 
-### Adaptacje i dziedzictwo
+**FACT**: A servant recalled: "Many's the time I have seen Miss Emily put down the tally-iron as she was ironing to scribble something on paper. Whatever she was doing, ironing or baking, she had her pencil and paper by her."
 
-**FAKT**: Pierwsza adaptacja filmowa powstała w 1920 roku jako niemy film - nie wiadomo, czy zachowały się jakieś kopie.
+### Death and Tragic End
 
-**FAKT**: Adaptacja z 1939 roku z Laurence'em Olivierem była nominowana do Oscara za Najlepszy Film.
+**FACT**: Emily's brother Branwell died of tuberculosis on September 24, 1848, and Emily likely nursed him despite being ordered not to.
 
-**FAKT**: Musical "Wuthering Heights" z 1994 roku został przetłumaczony na niemiecki, rumuński i polski.
+**FACT**: Emily caught a severe cold at Branwell's funeral that developed into lung inflammation, accelerating her existing tuberculosis.
 
-**FAKT**: Kate Bush napisała piosenkę "Wuthering Heights" w 1978 roku - był to jej pierwszy hit numer jeden.
+**FACT**: Emily refused medical treatment, calling it "quackery" and declaring that no "poisoning doctor" should come near her.
 
-**FAKT**: W 2026 roku premierę będzie miała nowa adaptacja z Margot Robbie i Jacobem Elordi w reżyserii Emerald Fennell.
+**FACT**: She died exactly one year after "Wuthering Heights" was published - on December 19, 1848, aged 30.
 
-### Liczby i rekordy
+**FACT**: On her final day, Emily finally said "I'll see the doctor now," but it was too late - she died at 2 PM that afternoon.
 
-**FAKT**: Powieść składa się z 34 rozdziałów opowiadających historię dwóch pokoleń.
+**FACT**: In "Wuthering Heights," three characters die of "consumption" (tuberculosis), described with medical accuracy - Emily understood the disease intimately.
 
-**FAKT**: Akcja rozgrywa się w latach 1771-1803 - Emily cofnęła akcję o 50 lat wstecz od momentu pisania.
+### Auction Records and Rarity
 
-**FAKT**: W ostatnich 70 latach powstały tylko 4 główne anglojęzyczne adaptacje filmowe.
+**FACT**: Only 11 complete first edition copies have been sold at auction in the past 50 years, making it extremely rare.
 
-**FAKT**: Obecnie pierwsze wydanie z 1847 roku warte jest od 350,000 do 650,000 dolarów (w zależności od stanu).
+**FACT**: In 2010, a three-volume first edition sold for £163,250 at Sotheby's - more than double the pre-sale estimate.
 
-**FAKT**: Tylko 3 kompletne egzemplarze pierwszego amerykańskiego wydania w miękkich okładkach zostały sprzedane na aukcjach w ostatnich 50 latach.
+**FACT**: A first edition sold for £114,000 at Bonhams London in 2007, again more than double the expected price.
 
-### Ukryte fakty i anegdoty
+**FACT**: Current estimates suggest well-preserved first editions are worth $350,000 to $650,000, assuming completeness and good condition.
 
-**PLOTKA**: Istnieje teoria, że Heathcliff był inspirowany rzeczywistą postacią - Jackiem Sharpmem, cyganem adoptowanym przez rodzinę w Yorkshire.
+**FACT**: Only three American first edition paperback copies have been sold at auction in 50 years, with Harper & Brothers destroying most unsold copies.
 
-**FAKT**: Emily nauczyła się strzelać z pistoletu i była jedyną z sióstr, która robiła to regularnie podczas spacerów po wrzosowiskach.
+### Kate Bush and Cultural Renaissance
 
-**FAKT**: Emily była najwyższą z sióstr Brontë - miała około 175 cm wzrostu, co było wyjątkowe jak na kobiety w XIX wieku.
+**FACT**: Kate Bush wrote her hit song "Wuthering Heights" in 1978 after seeing only the last ten minutes of a 1967 BBC adaptation.
 
-**FAKT**: Pies Emily, zwany Keeper, był ogromnym mastifem, który towarzyszył jej podczas wszystkich spacerów po wrzosowiskach.
+**FACT**: She composed the entire song in a single evening at age 18, and it became her first number-one hit.
 
-**FAKT**: Emily mogła przeczytać "Wuthering Heights" na głos w czasie jednej nocy - sama to robiła dla rodziny.
+**FACT**: Bush was the first female artist to achieve a UK number-one single with an entirely self-written song.
 
-**PLOTKA**: Niektórzy badacze sugerują, że Emily mogła mieć romantyczne uczucia do lokalnego wikariusza, ale brak jest na to dowodów.
+**FACT**: The song helped many British students pass their literature exams, with Bush saying in 1979: "lots of people have written to say how the song helped them."
 
-**FAKT**: Emily pisała wiersze po francusku i niemiecku, choć nigdy nie podróżowała poza Anglię.
+**FACT**: Since 2016, "The Most Wuthering Heights Day Ever" festival occurs globally, with participants dressing as Kate Bush and recreating her music video.
 
-**FAKT**: Kiedy Charlotte znalazła zeszyt z wierszami Emily, ta wpadła w furię - była to jedyna znana sytuacja, gdy Emily się gniewała.
+### Film and Adaptation History
 
-### Wpływ na literaturę
+**FACT**: The first film adaptation was made in 1920 as a silent film - no copies are known to survive.
 
-**FAKT**: "Wuthering Heights" to pierwsza angielska powieść z narratorem-opowiadaczem (Mr. Lockwood i Nelly Dean).
+**FACT**: The 1939 adaptation starring Laurence Olivier was nominated for the Academy Award for Best Picture.
 
-**FAKT**: Emily jako pierwsza użyła w literaturze angielskiej techniki "opowieści w opowieści" w tak złożony sposób.
+**FACT**: Only four major English-language film adaptations have been made in the past 70 years, despite the novel's fame.
 
-**FAKT**: Powieść wprowadziła do literatury wiktoriańskiej pierwszy prawdziwie antybohaterski charakter w postaci Heathcliffa.
+**FACT**: A new adaptation starring Margot Robbie and Jacob Elordi, directed by Emerald Fennell, is scheduled for release in 2026.
 
-**FAKT**: Struktura powieści - dwa pokolenia, cykliczność, powroty - była rewolucyjna jak na 1847 rok.
+### Literary Innovation and Influence
+
+**FACT**: "Wuthering Heights" was the first English novel to use a complex narrator-within-narrator structure (Mr. Lockwood and Nelly Dean).
+
+**FACT**: Emily pioneered the "story within a story" technique in English literature in such a sophisticated way.
+
+**FACT**: The novel introduced the first truly anti-heroic character in Victorian literature with Heathcliff.
+
+**FACT**: The two-generation structure with cyclical themes was revolutionary for 1847 fiction.
+
+**FACT**: Emily set the action 50 years in the past (1771-1803), making it historical fiction at the time of writing.
+
+### Numbers and Statistics
+
+**FACT**: The novel contains 34 chapters telling the story of two generations across 32 years.
+
+**FACT**: Emily lived her entire life within a 25-mile radius of Haworth, except for brief periods at school and Law Hill.
+
+**FACT**: The Brontë family moved to Haworth in 1820 when Emily was 2 years old - the moors became her only known world.
+
+**FACT**: Emily wrote approximately 200 poems, many connected to the Gondal saga.
+
+**FACT**: "Wuthering Heights" was Emily's only novel - she never wrote another book.
+
+### Hidden Facts and Mysteries
+
+**RUMOR**: Some scholars suggest Emily may have had romantic feelings for a local curate, but no evidence supports this theory.
+
+**FACT**: No letters or personal diaries by Emily survived - she was secretive and left no personal documents.
+
+**FACT**: Emily could read "Wuthering Heights" aloud in one night and did so for her family.
+
+**FACT**: When Charlotte discovered Emily's poetry notebook, Emily's rage was the only recorded instance of her ever losing her temper.
+
+**FACT**: Emily wrote while doing household chores, keeping pencil and paper nearby during baking, ironing, and cleaning.
+
+**RUMOR**: There's an unverified theory that Heathcliff was inspired by a real Romani man named Jack Sharp who was adopted by a Yorkshire family.
+
+**FACT**: After housemaid Tabby broke her leg, Emily volunteered for domestic duties and became known for baking the best bread in Haworth.
+
+**FACT**: Emily's poetry rhymes work perfectly with the West Yorkshire accent of the 1840s and still rhyme with the modern Yorkshire dialect.
+
+**FACT**: The original manuscript of "Wuthering Heights" has never been found and may have been destroyed.
+
+**FACT**: Emily was proficient in Latin, French, and German, but spoke with a hybrid Irish-Yorkshire accent inherited from her father Patrick.
 
 ---
 
-## PODSUMOWANIE
+## SUMMARY
 
-Emily Brontë stworzyła "Wuthering Heights" jako jedyne dzieło swojego życia, czerpiąc inspirację z izolowanego życia na yorkshire'skich wrzosowiskach, własnych fantazji z dzieciństwa (świat Gondal) oraz głębokiego zrozumienia ludzkiej natury. Powieść, która szokował wiktoriańskich czytelników swoją namiętnością i brakiem moralnych wskazówek, została napisana przez kobietę, która nigdy nie doświadczyła miłości romantycznej, ale potrafiła stworzyć jedną z najbardziej namiętnych historii miłosnych w literaturze światowej. Emily zmarła rok po publikacji, nie doczekawszy się uznania, które przyszło dopiero w XX wieku, czyniąc z "Wuthering Heights" jeden z najważniejszych utworów literatury angielskiej.
+Emily Brontë created "Wuthering Heights" as her life's single literary achievement, drawing inspiration from her isolated Yorkshire moors existence, childhood fantasy worlds (Gondal), and profound understanding of human passion. The novel that shocked Victorian readers with its violence and moral ambiguity was written by a woman who never experienced romantic love herself but created one of literature's most passionate love stories. Emily died exactly one year after publication, never knowing her "failure" would become one of English literature's greatest masterpieces, recognized for its psychological depth, structural innovation, and timeless exploration of love, revenge, and redemption.
 
 ---
 
-*Dokument wygenerowany przez agenta badawczego 37degrees*  
-*Data: 2025-09-06*
+*Document generated by 37degrees research agent*
+*Date: 2025-09-14*

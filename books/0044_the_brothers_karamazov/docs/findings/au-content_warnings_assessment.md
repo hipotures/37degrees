@@ -1,266 +1,267 @@
-# Ocena Ostrzeżeń o Treści: "Bracia Karamazow" (1880)
-**Data analizy:** 25 sierpnia 2025  
-**Agent:** 37d Content Warning Assessor  
-**Status:** Kompletna analiza zgodności platform i klasyfikacji wiekowej
+# Content Warnings Assessment: "The Brothers Karamazov" (1880)
 
-## Podsumowanie Wykonawcze
+**Analysis Date:** September 14, 2025
+**Agent:** 37d Content Warning Assessor
+**Status:** Complete platform compliance and age classification analysis
 
-Na podstawie analizy 8 raportów badawczych od agentów specjalistycznych oraz aktualnych wytycznych platform społecznościowych na 2025 rok, "Bracia Karamazow" zawierają **WYSOKIE RYZYKO** dla platform Facebook/Instagram, **ŚREDNIE RYZYKO** dla YouTube/TikTok oraz **NISKIE RYZYKO** dla Spotify/Kick. Dzieło wymaga **klasyfikacji wiekowej 16+** z dodatkowymi ostrzeżeniami o treści dla tematów związanych z samobójstwem, przemocą i ideologią polityczną.
+## Executive Summary
 
-## Analiza Treści Wrażliwych
+Based on analysis of 8 specialist research reports and current social media platform guidelines for 2025, "The Brothers Karamazov" presents **HIGH RISK** for Facebook/Instagram platforms, **MEDIUM RISK** for YouTube/TikTok, and **LOW RISK** for Spotify/Kick. The work requires **16+ age classification** with additional content warnings for themes involving suicide, violence, and political ideology.
 
-### KATEGORIA 1: Przemoc i Samobójstwo
-**Źródło:** Dark Drama Research, Facts History Research
+## Sensitive Content Analysis
 
-**PROBLEMATYCZNE TREŚCI:**
-- Morderstwo ojca (główna fabuła)
-- Samobójstwo Smierdjakowa
-- Przemoc domowa i zaniedbanie dzieci
-- Opisy epilepsji jako "boskiej choroby"
-- Śmierć dziecka z epilepsji (biografia autora)
+### CATEGORY 1: Violence and Suicide
+**Sources:** Dark Drama Research, Facts History Research
 
-**RYZYKO PLATFORM:**
-- 🔴 **Facebook/Instagram**: WYSOKIE - nowe liberalne zasady mogą nie chronić przed graficznymi opisami
-- 🟡 **YouTube**: ŚREDNIE - wymaga educational framing
-- 🟡 **TikTok**: ŚREDNIE - krótka forma może minimalizować kontekst
-- 🟢 **Spotify**: NISKIE - audio format less problematic
-- 🟢 **Kick**: NISKIE - najliberalniejsze zasady
+**PROBLEMATIC CONTENT:**
+- Father's murder (central plot)
+- Smerdyakov's suicide
+- Domestic violence and child neglect
+- Epilepsy portrayed as "divine disease"
+- Child's death from epileptic seizure (author biography)
 
-### KATEGORIA 2: Kontrowersyjne Poglądy Religijne i Polityczne
-**Źródło:** Dark Drama Research, Culture Impact Research, Local Context Research
+**PLATFORM RISK:**
+- 🔴 **Facebook/Instagram**: HIGH - new liberal policies may not protect against graphic descriptions
+- 🟡 **YouTube**: MEDIUM - requires educational framing
+- 🟡 **TikTok**: MEDIUM - short format may minimize context
+- 🟢 **Spotify**: LOW - audio format less problematic
+- 🟢 **Kick**: LOW - most liberal policies
 
-**PROBLEMATYCZNE TREŚCI:**
-- "Wielki Inkwizytor" jako atak na katolicyzm
-- Antysemityzm autora (zadokumentowany po 1876)
-- Rosyjski szowinizm i anty-zachodnie poglądy
-- "Jeśli Boga nie ma, wszystko jest dozwolone" - nihilistyczny przekaz
-- Putin cytuje książkę jako ulubioną (kontekst ukraiński 2022+)
+### CATEGORY 2: Controversial Religious and Political Views
+**Sources:** Dark Drama Research, Culture Impact Research, Local Context Research
 
-**RYZYKO PLATFORM:**
-- 🔴 **Facebook/Instagram**: BARDZO WYSOKIE - liberalizacja hateful conduct w 2025
-- 🟡 **YouTube**: ŚREDNIE - kontrowersyjne tematy wymagają careful framing
-- 🟡 **TikTok**: ŚREDNIE - długość 1+ min może pomóc w kontekście
-- 🟢 **Spotify**: NISKIE - educational content generalnie bezpieczny
-- 🟢 **Kick**: BARDZO NISKIE - najwyższa tolerancja dla kontrowersji
+**PROBLEMATIC CONTENT:**
+- "Grand Inquisitor" as attack on Catholicism
+- Author's documented anti-Semitism (post-1876)
+- Russian chauvinism and anti-Western views
+- "If God doesn't exist, everything is permitted" - nihilistic message
+- Putin cites book as favorite (Ukrainian context 2022+)
 
-### KATEGORIA 3: Treści Dotyczące Zdrowia Psychicznego
-**Źródło:** Reality Wisdom Research, Symbols Meanings Research
+**PLATFORM RISK:**
+- 🔴 **Facebook/Instagram**: VERY HIGH - liberalized hateful conduct policy in 2025
+- 🟡 **YouTube**: MEDIUM - controversial topics require careful framing
+- 🟡 **TikTok**: MEDIUM - 1+ minute length may help provide context
+- 🟢 **Spotify**: LOW - educational content generally safe
+- 🟢 **Kick**: VERY LOW - highest tolerance for controversy
 
-**PROBLEMATYCZNE TREŚCI:**
-- Epilepsja jako źródło "religijnych wizji"
-- Halucynacje Iwana (rozmowy z diabłem)  
-- Patologiczne relacje rodzinne
-- Uzależnienie od hazardu (biografia autora)
-- Alkoholizm i przemoc w rodzinie
+### CATEGORY 3: Mental Health Content
+**Sources:** Reality Wisdom Research, Symbols Meanings Research
 
-**RYZYKO PLATFORM:**
-- 🟡 **Facebook/Instagram**: ŚREDNIE - medical misinformation concerns
-- 🟡 **YouTube**: ŚREDNIE - health topics wymagają ostrożności
-- 🟡 **TikTok**: ŚREDNIE - mental health content popular ale regulated  
-- 🟢 **Spotify**: NISKIE - educational framing protective
-- 🟢 **Kick**: NISKIE - minimalne ograniczenia
+**PROBLEMATIC CONTENT:**
+- Epilepsy as source of "religious visions"
+- Ivan's hallucinations (conversations with devil)
+- Pathological family relationships
+- Gambling addiction (author biography)
+- Alcoholism and domestic violence
 
-### KATEGORIA 4: Treści Seksualne i Moralne
-**Źródło:** Dark Drama Research, Symbols Meanings Research
+**PLATFORM RISK:**
+- 🟡 **Facebook/Instagram**: MEDIUM - medical misinformation concerns
+- 🟡 **YouTube**: MEDIUM - health topics require caution
+- 🟡 **TikTok**: MEDIUM - mental health content popular but regulated
+- 🟢 **Spotify**: LOW - educational framing protective
+- 🟢 **Kick**: LOW - minimal restrictions
 
-**PROBLEMATYCZNE TREŚCI:**
-- Postać Gruszeńki jako kurtyzany
-- Konkurencja ojca i syna o tę samą kobietę
-- Niezdrowe wzorce romantyczne (Katarzyna/Dmitrij)
-- Freudowska interpretacja kompleksu Edypa
-- Mizoginistyczne interpretacje postaci kobiecych
+### CATEGORY 4: Sexual and Moral Content
+**Sources:** Dark Drama Research, Symbols Meanings Research
 
-**RYZYKO PLATFORM:**
-- 🟡 **Facebook/Instagram**: ŚREDNIE - adult content policies
-- 🟡 **YouTube**: ŚREDNIE - educational context protective
-- 🟡 **TikTok**: ŚREDNIE - depends on presentation
-- 🟢 **Spotify**: NISKIE - audio less visual impact
-- 🟢 **Kick**: NISKIE - highest tolerance
+**PROBLEMATIC CONTENT:**
+- Grushenka character as courtesan
+- Father and son competing for same woman
+- Unhealthy romantic patterns (Katerina/Dmitri)
+- Freudian interpretation of Oedipal complex
+- Misogynistic interpretations of female characters
 
-## Klasyfikacja Wiekowa - Szczegółowa Analiza
+**PLATFORM RISK:**
+- 🟡 **Facebook/Instagram**: MEDIUM - adult content policies
+- 🟡 **YouTube**: MEDIUM - educational context protective
+- 🟡 **TikTok**: MEDIUM - depends on presentation
+- 🟢 **Spotify**: LOW - audio less visual impact
+- 🟢 **Kick**: LOW - highest tolerance
 
-### 13+ TREŚCI (Bezpieczne wszystkie platformy):
-- Ogólna analiza klasycznej literatury
-- Znaczenie kulturowe i historyczne dzieła
-- Techniki pisarskie Dostojewskiego (Writing Innovation Research)
-- Pozytywne lekcje o odpowiedzialności i empathy
+## Age Classification - Detailed Analysis
 
-### 16+ TREŚCI (Age-restrict zalecane):
-- **WIĘKSZOŚĆ TREŚCI** - główna fabuła z morderstwem
-- Filozoficzne dylematy o wierze i moralności  
-- Problematyka zdrowia psychicznego
-- Skomplikowane relacje rodzinne
-- Historyczny kontekst i biografia autora
+### 13+ CONTENT (Safe all platforms):
+- General classic literature analysis
+- Cultural and historical significance
+- Writing techniques by Dostoevsky (Writing Innovation Research)
+- Positive lessons about responsibility and empathy
 
-### 18+ TREŚCI (Tylko dorośli):
-- Szczegółowe omówienie antysemityzmu Dostojewskiego
-- Polityczne interpretacje w kontekście Putina/Ukrainy
-- Graficzne opisy przemocy i samobójstwa
-- Zaawansowana analiza psychoanalityczna (kompleks Edypa)
-- Kontrowersyjne interpretacje religijne
+### 16+ CONTENT (Age-restriction recommended):
+- **MAJORITY OF CONTENT** - main plot with murder
+- Philosophical dilemmas about faith and morality
+- Mental health themes
+- Complex family relationships
+- Historical context and author biography
 
-## Matrix Ryzyka Platform vs Problematyczne Tematy
+### 18+ CONTENT (Adults only):
+- Detailed discussion of Dostoevsky's anti-Semitism
+- Political interpretations in Putin/Ukraine context
+- Graphic descriptions of violence and suicide
+- Advanced psychoanalytical analysis (Oedipal complex)
+- Controversial religious interpretations
 
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+## Platform Risk Matrix vs Problematic Topics
+
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |-------|----------|-----------|---------|--------|---------|------|
-| **Morderstwo/przemoc** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Antysemityzm autora** | 🔴 BARDZO HIGH | 🔴 BARDZO HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |  
-| **Kontrowersje religijne** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Samobójstwo** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Problemy psychiczne** | 🟡 MED | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Treści seksualne** | 🟡 MED | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Putin references** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Murder/Violence** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Author's Anti-Semitism** | 🔴 VERY HIGH | 🔴 VERY HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Religious Controversies** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Suicide** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Mental Health Issues** | 🟡 MED | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Sexual Content** | 🟡 MED | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Putin References** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
 
-**LEGENDA:** 🔴 Wysokie ryzyko demonetyzacji/usunięcia | 🟡 Średnie ryzyko/age-restrict | 🟢 Niskie ryzyko
+**LEGEND:** 🔴 High risk of demonetization/removal | 🟡 Medium risk/age-restrict | 🟢 Low risk
 
-## Rekomendacje Specyficzne dla Platform
+## Platform-Specific Recommendations
 
-### Facebook/Instagram (🔴 WYSOKIE RYZYKO)
-**AKCJA:** **UNIKAJ CAŁKOWICIE** lub **DRASTYCZNE EDYTOWANIE**
+### Facebook/Instagram (🔴 HIGH RISK)
+**ACTION:** **AVOID ENTIRELY** or **DRASTICALLY EDIT**
 
-**PROBLEM:** Nowe liberalne zasady hateful conduct (2025) + brak fact-checkingu
-**ROZWIĄZANIE:**
-- ❌ **OMIT**: Całkowite antysemickie poglądy Dostojewskiego  
-- ❌ **OMIT**: Polityczne interpretacje (Putin, Ukraina)
-- ❌ **OMIT**: Szczegóły samobójstwa i przemocy
-- ✅ **FOCUS**: Pozytywne lekcje, wartości uniwersalne, znaczenie kulturowe
-- ✅ **EDUCATIONAL FRAMING**: Wyłącznie akademicki kontekst
+**PROBLEM:** New liberal hateful conduct policies (2025) + no fact-checking
+**SOLUTION:**
+- ❌ **OMIT**: Author's anti-Semitic views entirely
+- ❌ **OMIT**: Political interpretations (Putin, Ukraine)
+- ❌ **OMIT**: Details of suicide and violence
+- ✅ **FOCUS**: Positive lessons, universal values, cultural significance
+- ✅ **EDUCATIONAL FRAMING**: Academic context only
 
-### YouTube (🟡 ŚREDNIE RYZYKO) 
-**AKCJA:** **OSTROŻNE PODEJŚCIE** z ludźką narracją
+### YouTube (🟡 MEDIUM RISK)
+**ACTION:** **CAREFUL APPROACH** with human narration
 
-**WYMAGANIA 2025:** Human narration + original value-add
-**ROZWIĄZANIE:**
-- ✅ **MUST HAVE**: Ludzka narracja (nie text-to-speech)
-- ✅ **MUST HAVE**: Oryginalny komentarz i analiza
-- 🟡 **AGE-RESTRICT**: Treści 16+ z odpowiednim oznaczeniem
-- ✅ **EDUCATIONAL**: Silny educational framing
-- ⚠️ **CAREFUL**: Sensitive topics w kontekście akademickim
+**2025 REQUIREMENTS:** Human narration + original value-add
+**SOLUTION:**
+- ✅ **MUST HAVE**: Human narration (not text-to-speech)
+- ✅ **MUST HAVE**: Original commentary and analysis
+- 🟡 **AGE-RESTRICT**: 16+ content with appropriate labeling
+- ✅ **EDUCATIONAL**: Strong educational framing
+- ⚠️ **CAREFUL**: Sensitive topics in academic context
 
-### TikTok (🟡 ŚREDNIE RYZYKO)
-**AKCJA:** **1+ MINUTA + OSTROŻNOŚĆ**
+### TikTok (🟡 MEDIUM RISK)
+**ACTION:** **1+ MINUTE + CAUTION**
 
-**WYMAGANIA 2025:** Minimum 1 minuta dla monetyzacji
-**ROZWIĄZANIE:**
-- ✅ **LENGTH**: Minimum 1 minuta dla monetization
-- ✅ **ORIGINAL**: Żadnych duetów/stitches dla Creator Rewards  
-- 🟡 **AGE-AWARE**: Młoda audiencja - extra ostrożność
-- ✅ **EDUCATIONAL**: Focus na learning aspects
-- ⚠️ **AVOID**: Kontrowersyjne interpretacje
+**2025 REQUIREMENTS:** Minimum 1 minute for monetization
+**SOLUTION:**
+- ✅ **LENGTH**: Minimum 1 minute for monetization
+- ✅ **ORIGINAL**: No duets/stitches for Creator Rewards
+- 🟡 **AGE-AWARE**: Young audience - extra caution
+- ✅ **EDUCATIONAL**: Focus on learning aspects
+- ⚠️ **AVOID**: Controversial interpretations
 
-### Spotify (🟢 NISKIE RYZYKO)
-**AKCJA:** **NAJLEPSZA OPCJA** dla pełnej wersji
+### Spotify (🟢 LOW RISK)
+**ACTION:** **BEST OPTION** for full version
 
-**ZALETY:** Video podcasts + liberalne zasady
-**ROZWIĄZANIE:**
-- ✅ **FULL CONTENT**: Možliwość omówienia wszystkich aspektów
-- ✅ **VIDEO FORMAT**: Lepsze revenue potential
-- ✅ **CROSS-PLATFORM**: Promocja na innych kanałach
-- ✅ **EDUCATIONAL**: Perfect fit dla academic content
-- ⚠️ **COPYRIGHT**: Uważaj na audiobook clips
+**ADVANTAGES:** Video podcasts + liberal policies
+**SOLUTION:**
+- ✅ **FULL CONTENT**: Ability to discuss all aspects
+- ✅ **VIDEO FORMAT**: Better revenue potential
+- ✅ **CROSS-PLATFORM**: Promotion on other channels
+- ✅ **EDUCATIONAL**: Perfect fit for academic content
+- ⚠️ **COPYRIGHT**: Beware of audiobook clips
 
-### Kick (🟢 BARDZO NISKIE RYZYKO)
-**AKCJA:** **NAJBEZPIECZNIEJSZA** platforma dla kontrowersji
+### Kick (🟢 VERY LOW RISK)
+**ACTION:** **SAFEST** platform for controversy
 
-**ZALETY:** 95/5 revenue split + creator-friendly
-**ROZWIĄZANIE:**
-- ✅ **FULL DISCUSSION**: Możliwość pełnej dyskusji kontrowersji
+**ADVANTAGES:** 95/5 revenue split + creator-friendly
+**SOLUTION:**
+- ✅ **FULL DISCUSSION**: Ability to discuss all controversies
 - ✅ **LIVE FORMAT**: Interactive community building
-- ✅ **EDUCATIONAL FREEDOM**: Najmniej ograniczeń
+- ✅ **EDUCATIONAL FREEDOM**: Fewest restrictions
 - ✅ **BEST REVENUE**: Industry-leading revenue split
-- ✅ **CONTROVERSIAL TOPICS**: Z educational context
+- ✅ **CONTROVERSIAL TOPICS**: With educational context
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
-### OBOWIĄZKOWE OSTRZEŻENIA:
+### MANDATORY WARNINGS:
 ```
-⚠️ CONTENT WARNING: Ta analiza "Braci Karamazow" zawiera:
-• Dyskusje o samobójstwie i przemocy domowej
-• Historyczne poglądy antysemickie autora
-• Kontrowersyjne tematy religijne i polityczne  
-• Problematykę zdrowia psychicznego i uzależnień
-• Treści nieodpowiednie dla osób poniżej 16 roku życia
+⚠️ CONTENT WARNING: This analysis of "The Brothers Karamazov" contains:
+• Discussions of suicide and domestic violence
+• Historical anti-Semitic views of the author
+• Controversial religious and political topics
+• Mental health themes and addiction issues
+• Content unsuitable for persons under 16 years of age
 
-Jeśli któryś z tych tematów może Cię dotknąć, rozważ pominięcie tego odcinka lub słuchanie z towarzystwem osoby wspierającej.
+If any of these topics may affect you, consider skipping this episode or listening with the support of a trusted person.
 ```
 
-### ALTERNATYWNE PODEJŚCIA WIEKOWE:
+### ALTERNATIVE AGE APPROACHES:
 
-**WERSJA 13+:**
-- Focus na technikami pisarskimi i znaczeniu kulturowym
-- Omit kontrowersyjne aspekty biografii autora
-- Positive messages o odpowiedzialności i empathy
-- Educational value bez graphic details
+**VERSION 13+:**
+- Focus on writing techniques and cultural significance
+- Omit controversial aspects of author biography
+- Positive messages about responsibility and empathy
+- Educational value without graphic details
 
-**WERSJA 16+:** 
-- Include główne tematy z ostrzeżeniami
-- Kontekst historyczny dla problematycznych poglądów
-- Życiowe lekcje dla młodzieży z Reality Wisdom Research
-- Careful approach do sensitive topics
+**VERSION 16+:**
+- Include main themes with warnings
+- Historical context for problematic views
+- Life lessons for youth from Reality Wisdom Research
+- Careful approach to sensitive topics
 
-**WERSJA 18+:**
+**VERSION 18+:**
 - Full uncensored analysis
-- Complete biographical context autora  
+- Complete biographical context of author
 - Political interpretations and contemporary relevance
 - Advanced psychological and philosophical discussions
 
-## Strategie Edukacyjne dla Różnych Platform
+## Educational Strategies for Different Platforms
 
-### "Sandwich Method" dla Sensitive Topics:
+### "Sandwich Method" for Sensitive Topics:
 1. **CONTEXT** (educational framing)
 2. **SENSITIVE CONTENT** (with warnings)
 3. **LEARNING OUTCOMES** (positive takeaways)
 
-### Przykład dla antysemityzmu Dostojewskiego:
+### Example for Dostoevsky's Anti-Semitism:
 
-**CONTEXT:** "Aby w pełni zrozumieć dzieło, musimy pamiętać o historycznym kontekście i problematycznych poglądach autora..."
+**CONTEXT:** "To fully understand the work, we must remember the historical context and problematic views of the author..."
 
-**CONTENT:** [ograniczona dyskusja z ostrzeżeniami]
+**CONTENT:** [limited discussion with warnings]
 
-**LEARNING:** "Dzisiaj możemy docenić literacki geniusz, jednocześnie odrzucając szkodliwe stereotypy..."
+**LEARNING:** "Today we can appreciate literary genius while rejecting harmful stereotypes..."
 
-## Compliance Checklist - Finalna Lista Kontrolna
+## Compliance Checklist - Final Control List
 
-### ✅ UNIWERSALNE WYMAGANIA (wszystkie platformy):
-- [ ] **Original commentary** dominuje nad cytowanym materiałem
-- [ ] **Educational framing** dla wrażliwych tematów
-- [ ] **No copyright violations** (muzyka, audiobook clips)
-- [ ] **Age-appropriate labeling** zgodny z analizą
-- [ ] **Fact-checking** kontrowersyjnych twierdzeń
-- [ ] **Content warnings** na początku każdego odcinka
-- [ ] **Alternative approaches** dla różnych grup wiekowych
+### ✅ UNIVERSAL REQUIREMENTS (all platforms):
+- [ ] **Original commentary** dominates over quoted material
+- [ ] **Educational framing** for sensitive topics
+- [ ] **No copyright violations** (music, audiobook clips)
+- [ ] **Age-appropriate labeling** consistent with analysis
+- [ ] **Fact-checking** controversial claims
+- [ ] **Content warnings** at beginning of each episode
+- [ ] **Alternative approaches** for different age groups
 
-### ✅ WYMAGANIA SPECYFICZNE DLA PLATFORM:
-- [ ] **Meta (FB/IG)**: Ekstremalna ostrożność z controversial topics
+### ✅ PLATFORM-SPECIFIC REQUIREMENTS:
+- [ ] **Meta (FB/IG)**: Extreme caution with controversial topics
 - [ ] **YouTube**: Human narration + original value-add + no AI generation
-- [ ] **TikTok**: 1+ minuta + oryginalna content only + no duets dla monetization
+- [ ] **TikTok**: 1+ minute + original content only + no duets for monetization
 - [ ] **Spotify**: Video format + proper music licensing + cross-platform promotion
 - [ ] **Kick**: Community building + interactive format + educational context
 
-## Prognoza i Monitoring
+## Forecast and Monitoring
 
-### TRENDY DO OBSERWOWANIA:
-1. **AI content restrictions** prawdopodobnie będą się zaostrzać
-2. **Video format** staje się standardem na wszystkich platformach
-3. **Creator-first revenue models** rozprzestrzeniają się
-4. **Community-driven moderation** się rozwija
-5. **Cross-platform strategies** są niezbędne do sukcesu
+### TRENDS TO WATCH:
+1. **AI content restrictions** likely to tighten further
+2. **Video format** becoming standard on all platforms
+3. **Creator-first revenue models** spreading
+4. **Community-driven moderation** developing
+5. **Cross-platform strategies** essential for success
 
-### REKOMENDOWANE PODEJŚCIE:
-**TIER 1** (Full content): **Spotify + Kick** - pełna wersja bez cenzury
-**TIER 2** (Moderate content): **YouTube** - educational approach z ludźką narracją  
-**TIER 3** (Limited content): **TikTok** - pozytywne aspekty w 1+ min format
-**TIER 4** (Avoid): **Facebook/Instagram** - zbyt wysokie ryzyko w 2025
+### RECOMMENDED APPROACH:
+**TIER 1** (Full content): **Spotify + Kick** - full version without censorship
+**TIER 2** (Moderate content): **YouTube** - educational approach with human narration
+**TIER 3** (Limited content): **TikTok** - positive aspects in 1+ min format
+**TIER 4** (Avoid): **Facebook/Instagram** - too high risk in 2025
 
-## Końcowa Ocena Ryzyka
+## Final Risk Assessment
 
-**OGÓLNA KLASYFIKACJA:** 16+ z dodatkowymi ostrzeżeniami  
-**NAJBEZPIECZNIEJSZA PLATFORMA:** Kick (95% safety rating)  
-**NAJBARDZIEJ RYZYKOWNA:** Facebook/Instagram (15% safety rating)  
-**OPTYMALNA STRATEGIA:** Multi-tier approach z różnymi wersjami dla różnych platform  
+**OVERALL CLASSIFICATION:** 16+ with additional warnings
+**SAFEST PLATFORM:** Kick (95% safety rating)
+**MOST RISKY:** Facebook/Instagram (15% safety rating)
+**OPTIMAL STRATEGY:** Multi-tier approach with different versions for different platforms
 
-**KLUCZOWY WNIOSEK:** "Bracia Karamazow" wymagają bardzo ostrożnego podejścia w 2025 roku z powodu liberalizacji zasad hate speech na Meta platforms i zaostrzenia anti-AI policies na YouTube. Spotify i Kick oferują najlepsze możliwości dla pełnej, nieocenzurowanej analizy tego skomplikowanego dzieła.
+**KEY CONCLUSION:** "The Brothers Karamazov" requires very careful approach in 2025 due to liberalization of hate speech policies on Meta platforms and tightening of anti-AI policies on YouTube. Spotify and Kick offer the best opportunities for full, uncensored analysis of this complex work.
 
 ---
 
-*Analiza przeprowadzona na podstawie kompletnego researchu od 8 agentów specjalistycznych oraz aktualnych wytycznych platform społecznościowych na sierpień 2025. Rekomendacje mogą wymagać aktualizacji w przypadku dalszych zmian w politykach platform.*
+*Analysis conducted based on complete research from 8 specialist agents and current social media platform guidelines for September 2025. Recommendations may require updates in case of further changes in platform policies.*

@@ -1,168 +1,201 @@
-# Lokalne Oddźwięki Wielkiej Literatury: "Zabić drozda" w Polsce
+# Local Cultural Context: "To Kill a Mockingbird" in Poland
 
-## Wprowadzenie: Historia Jednego Tytułu w Dwóch Kulturach
+## Introduction: One Title, Two Cultures
 
-"To Kill a Mockingbird" Harper Lee to książka, która przekroczyła granice jednego kraju i jednej kultury, stając się globalnym fenomenem. W Polsce, gdzie została wydana po raz pierwszy w 1965 roku jako "Zabić drozda", powieść ta przeszła fascynującą podróż kulturową - od pierwszego tłumaczenia w czasach PRL-u, przez współczesne interpretacje, aż po jej obecność w dzisiejszej kulturze popularnej. To opowieść nie tylko o książce, ale o tym, jak literatura amerykańska odnajduje swoje miejsce w polskim domu, szkole i sercu czytelników.
+"To Kill a Mockingbird" by Harper Lee is a book that transcended the boundaries of one country and culture, becoming a global phenomenon. In Poland, where it was first published in 1965 as "Zabić drozda," the novel has undergone a fascinating cultural journey - from its first translation during Communist times, through contemporary interpretations, to its presence in today's popular culture. This is not just a story about a book, but about how American literature finds its place in Polish homes, schools, and readers' hearts.
 
-## 1. Historia Polskich Wydań: Od PRL-u do Współczesności
+## 1. Polish Publication History: From Communist Era to Modern Times
 
-### Pierwsze Wydanie (1965) - Tłumaczenie Zofii Kierszys
+### First Edition (1965) - Translation by Zofia Kierszys
 
-Książka po raz pierwszy dotarła do Polski w 1965 roku, w okresie PRL-u, kiedy dostęp do literatury zachodniej był często ograniczony i politycznie wrażliwy. **Pierwszym polskim wydaniem zajęła się "Książka i Wiedza"**, jeden z głównych wydawców Polskiej Rzeczypospolitej Ludowej.
+The book first reached Poland in 1965, during the Communist era, when access to Western literature was often restricted and politically sensitive. **The first Polish edition was published by "Książka i Wiedza"**, one of the main publishers of the Polish People's Republic.
 
-**Tłumaczką była Zofia Kierszys (1921-2000)**, uznana i płodna tłumaczka literatury anglojęzycznej. Kierszys była już wtedy doświadczoną tłumaczką, która wcześniej przełożyła wiele innych dzieł amerykańskich i brytyjskich autorów. Charakterystyczną okładkę dla tego pierwszego wydania zaprojektował artysta **Przemysław Bytoński**.
+**The translator was Zofia Kierszys (1921-2000)**, a respected and prolific translator of English-language literature. Kierszys was already an experienced translator who had previously rendered many other American and British authors' works. The distinctive cover for this first edition was designed by artist **Przemysław Bytoński**.
 
-Co ciekawe, w tłumaczeniu Kierszys główna bohaterka Scout została nazwana **"Smyk"** - wybór, który budził pytania wśród czytelników o sens i adekwatność takiego tłumaczenia imienia. To pokazuje, jak różne podejścia do tłumaczenia mogą wpłynąć na odbiór postaci.
+Interestingly, in Kierszys's translation, the main character Scout was named **"Smyk"** - a choice that raised questions among readers about the meaning and adequacy of such a name translation. This shows how different translation approaches can affect character reception.
 
-### Współczesne Tłumaczenia - Maciej Szymański
+### Contemporary Translations - Maciej Szymański
 
-W XXI wieku pojawił się nowy, obecnie najbardziej popularny przekład autorstwa **Macieja Szymańskiego**, wydany przez **Dom Wydawniczy Rebis** (źródła wskazują na lata 2012-2015). To właśnie ten przekład najczęściej spotykają współcześni polscy czytelnicy w księgarniach i bibliotekach.
+In the 21st century, a new translation appeared by **Maciej Szymański**, currently the most popular version, published by **Dom Wydawniczy Rebis** (sources indicate 2012-2015). This is the translation that contemporary Polish readers most often encounter in bookstores and libraries.
 
-**Akademickie badania porównawcze** prowadzone na Uniwersytecie Jagiellońskim analizują różnice między tymi dwoma tłumaczeniami, szczególnie w kontekście przekładu dialektów i elementów kulturowych charakterystycznych dla amerykańskiego Południa.
+**Comparative academic studies** conducted at Jagiellonian University analyze the differences between these two translations, particularly in translating dialects and cultural elements characteristic of the American South.
 
-### Symbolika Tytułu: "Drozd" vs "Mockingbird"
+### Title Symbolism: "Drozd" vs "Mockingbird"
 
-Jeden z najciekawszych aspektów polskiego przekładu to **wybór słowa "drozd" zamiast dosłownego odpowiednika "przedrzeźniacza"**. "Drozd" w języku polskim oznacza kosa lub inne ptaki z rodziny drozdowatych - są to ptaki śpiewające, znane polskim czytelnikom.
+One of the most interesting aspects of the Polish translation is **the choice of "drozd" (thrush) instead of the literal equivalent "przedrzeźniacz" (mockingbird)**. "Drozd" in Polish refers to thrushes or other songbirds from the thrush family - these are singing birds familiar to Polish readers.
 
-Ten wybór był kulturowo uzasadniony: mockingbirds (przedrzeźniacze) nie występują naturalnie w Polsce, więc polscy czytelnicy nie mieliby z nimi emocjonalnego połączenia. "Drozd" zachowuje symbolikę niewinnego, śpiewającego ptaka, który nie czyni nikomu krzywdy.
+This choice was culturally justified: mockingbirds do not occur naturally in Poland, so Polish readers would not have an emotional connection with them. "Drozd" preserves the symbolism of an innocent, singing bird that does no harm to anyone.
 
-## 2. "Zabić drozda" w Polskim Systemie Edukacyjnym
+## 2. "To Kill a Mockingbird" in the Polish Education System
 
-### Nieobecność w Kanonie Lektur Szkolnych
+### Absence from School Reading Canon
 
-**Uderzającym faktem jest to, że "Zabić drozda" NIE znajduje się w oficjalnym, obowiązkowym kanonie lektur szkolnych** (*kanon lektur szkolnych*) ustalonym przez Ministerstwo Edukacji Narodowej. To wyraźny kontrast z USA, gdzie książka należy do najczęściej omawianych powieści w szkołach średnich.
+**A striking fact is that "To Kill a Mockingbird" is NOT included in the official, mandatory school reading canon** established by the Ministry of National Education. This is a clear contrast with the USA, where the book is among the most frequently discussed novels in high schools.
 
-Ta nieobecność jest częstym tematem dyskusji wśród polskich czytelników, nauczycieli i blogerów literackich. **Powszechną opinią wyrażaną w recenzjach online i na forach jest to, że książka *powinna* być lekturą obowiązkową**, ze względu na potężne i ponadczasowe lekcje dotyczące tolerancji, empatii i sprawiedliwości społecznej.
+This absence is a common topic of discussion among Polish readers, teachers, and literary bloggers. **A common opinion expressed in online reviews and forums is that the book *should* be mandatory reading**, due to its powerful and timeless lessons about tolerance, empathy, and social justice.
 
-### Wykorzystanie w Praktyce Szkolnej
+### Use in School Practice
 
-Mimo braku w oficjalnym kanonie, **"Zabić drozda" jest używana jako lektura uzupełniająca** w niektórych polskich liceach, szczególnie w klasach skupiających się na literaturze obcej lub w ramach programów wymiany kulturowej wspieranych przez Ambasadę USA w Polsce.
+Despite not being in the official canon, **"To Kill a Mockingbird" is used as supplementary reading** in some Polish high schools, particularly in classes focusing on foreign literature or in cultural exchange programs supported by the US Embassy in Poland.
 
-Jeden z polskich edukatorów wspomniał o zadaniu tej książki jako **lektury wakacyjnej dla ucznia przygotowującego się do egzaminu ósmoklasisty**, co wskazuje na jej wykorzystanie w polskich szkołach.
+One Polish educator mentioned assigning this book as **summer reading for a student preparing for the eighth-grade exam**, indicating its use in Polish schools.
 
-### Wartość Edukacyjna dla Polskich Uczniów
+### Educational Value for Polish Students
 
-Spotykanie się z "Zabić drozda" **daje doskonałą okazję do wyjaśnienia młodym ludziom, czym była segregacja rasowa w USA**, skąd się wzięła i jak kultura oraz tkanka społeczna w stanach południowych różniła się od obyczajów i struktury społecznej w stanach północnych.
+Encountering "To Kill a Mockingbird" **provides an excellent opportunity to explain to young people what racial segregation in the USA was**, where it came from, and how culture and social fabric in the southern states differed from customs and social structure in the northern states.
 
-## 3. Kultura Popularna i Adaptacje
+## 3. Popular Culture and Adaptations
 
-### Adaptacje Graficzne
+### Graphic Adaptations
 
-W 2018 roku **powieść graficzna autorstwa Freda Fordhama została przełożona na język polski** i wydana przez **Wydawnictwo Jaguar**. Ta adaptacja czyni historię dostępną dla nowego pokolenia czytelników przyciągniętych narracją wizualną.
+In 2018, **the graphic novel by Fred Fordham was translated into Polish** and published by **Wydawnictwo Jaguar**. This adaptation makes the story accessible to a new generation of readers attracted to visual storytelling.
 
-### Film i Audiobooki
+### Film and Audiobooks
 
-**Klasyczna adaptacja filmowa z 1962 roku z Gregory Peckiem w roli Atticus Fincha** jest dobrze znana polskim widzom. Film można znaleźć na platformach VOD i jest regularnie emitowany w polskiej telewizji.
+**The classic 1962 film adaptation with Gregory Peck as Atticus Finch** is well known to Polish viewers. The film can be found on VOD platforms and is regularly broadcast on Polish television.
 
-Dostępna jest również **polska wersja audiobooka "Zabić drozda"**, co pozwala czytelnikom doświadczyć tej historii w formie audytornej.
+A **Polish audiobook version of "To Kill a Mockingbird"** is also available, allowing readers to experience this story in audio format.
 
-### Brak Polskich Adaptacji Teatralnych
+### Lack of Polish Theater Adaptations
 
-Na podstawie dostępnych archiwów cyfrowych i baz danych teatralnych, **nie ma zapisów o większej profesjonalnej polskiej adaptacji scenicznej "Zabić drozda"**. Ta nieobecność, w porównaniu z wielkimi produkcjami na Broadway i West End, jest sama w sobie godnym uwagi aspektem kulturowego śladu powieści w Polsce.
+Based on available digital archives and theater databases, **there are no records of major professional Polish stage adaptations of "To Kill a Mockingbird"**. This absence, compared to major Broadway and West End productions, is itself a noteworthy aspect of the novel's cultural footprint in Poland.
 
-## 4. Recepcja Krytyczna i Czytelnicza w Polsce
+## 4. Critical and Reader Reception in Poland
 
-### Oceny i Popularność
+### Ratings and Popularity
 
-Powieść cieszy się wysoką oceną **8,1/10 na Lubimyczytać.pl**, największej polskiej społecznościowej stronie katalogującej książki, na podstawie tysięcy ocen użytkowników. Polskie recenzje konsekwentnie chwalą książkę jako mądry, poruszający i pięknie napisany klasyk, który bada głębokie pytania moralne oczami niewinnego dziecka.
+The novel enjoys a high rating of **8.1/10 on Lubimyczytać.pl**, Poland's largest social book cataloging site, based on thousands of user ratings. Polish reviews consistently praise the book as a wise, moving, and beautifully written classic that explores deep moral questions through innocent eyes.
 
-### Kulturowe Rezonanse i Interpretacje
+### Cultural Resonances and Interpretations
 
-Sposób, w jaki polscy czytelnicy nawiązują do powieści, ujawnia fascynującą dynamikę kulturowej interpretacji. **Niektórzy polscy komentatorzy zauważyli, że specyficzny kontekst amerykańskiej segregacji rasowej z lat 30. może wydawać się odległy lub "mało związany" z polskim doświadczeniem historycznym**.
+The way Polish readers relate to the novel reveals fascinating dynamics of cultural interpretation. **Some Polish commentators have noted that the specific context of American racial segregation from the 1930s might seem distant or "poorly related" to Polish historical experience**.
 
-Jednak to poczucie kulturowej odległości nie prowadzi do odrzucenia książki. Zamiast tego, **polscy czytelnicy często abstrahują od konkretnej scenerii historycznej, aby objąć uniwersalną alegoryczną moc tej historii**.
+However, this sense of cultural distance does not lead to rejection of the book. Instead, **Polish readers often abstract from the specific historical setting to embrace the universal allegorical power of this story**.
 
-### Rezonanse z Polską Historią
+### Resonances with Polish History
 
-Dla narodu, którego historia została głęboko ukształtowana przez obce okupacje, rozbiory, okropności nazizmu i komunizmu sowieckiego oraz długie walki przeciwko systemom autorytarnym, **główne tematy "Zabić drozda" są głęboko rezonujące**:
+For a nation whose history has been deeply shaped by foreign occupations, partitions, Nazi and Soviet Communist horrors, and long struggles against authoritarian systems, **the main themes of "To Kill a Mockingbird" are deeply resonant**:
 
-- Opowieść o zasadniczej jednostce (Atticus) występującej przeciwko uprzedzonym i niesprawiedliwym systemom
-- Obrona niewinnej ofiary przed potężną większością  
-- Eksploracja odwagi moralnej w obliczu społecznej ostracyzmu
+- A story about a principled individual (Atticus) standing against prejudiced and unjust systems
+- Defense of an innocent victim against a powerful majority
+- Exploration of moral courage in the face of social ostracism
 
-Siła powieści w Polsce leży więc nie w jej bezpośrednim odbiciu polskiego społeczeństwa, ale **w jej funkcji jako potężnej przypowieści**. Oferuje "bezpieczny", zagraniczny kontekst do eksplorowania uniwersalnych pytań moralnych, które są głęboko osadzone w polskiej świadomości narodowej.
+The novel's power in Poland lies not in its direct reflection of Polish society, but **in its function as a powerful parable**. It offers a "safe," foreign context for exploring universal moral questions that are deeply embedded in Polish national consciousness.
 
-## 5. Najważniejsze Cytaty w Polskim Tłumaczeniu
+## 5. Most Important Quotes in Polish Translation
 
-Oto niektóre z najbardziej kultowych cytatów z książki w tłumaczeniu Macieja Szymańskiego, które można znaleźć na polskich forach literackich:
+Here are some of the most iconic quotes from the book in Maciej Szymański's translation, which can be found on Polish literary forums:
 
-**O empatii:**
-*"Nigdy do końca nie zrozumiesz drugiego człowieka, póki nie rozważysz spraw z jego punktu widzenia… dopóki nie wejdziesz w jego skórę i nie pożyjesz w niej trochę."*
+**About empathy:**
+*"You never really understand a person until you consider things from his point of view... until you climb into his skin and walk around in it."*
 
-**O sumieniu:**
-*"Jedyna rzecz, jaka nie podlega przegłosowaniu przez większość, to sumienie człowieka."*
+**About conscience:**
+*"The one thing that doesn't abide by majority rule is a person's conscience."*
 
-**O odwadze:**
-*"(…) i żeby nigdy nie przyszło Ci do głowy, że odważny jest człowiek z pistoletem w ręku. Odważny jest ten, kto wie, że przegra, zanim jeszcze rozpocznie walkę, lecz mimo to zaczyna i prowadzi ją do końca bez względu na wszystko."*
+**About courage:**
+*"Real courage is when you know you're licked before you begin, but you begin anyway and see it through."*
 
-**O tytule książki:**
-*"Strąć tyle sójek, ile dusza zapragnie, jeśli uda ci się trafić, ale pamiętaj, że grzechem jest zabić drozda."*
+**About the book's title:**
+*"Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird."*
 
-**O ludzkości:**
-*"Myślę, że jest tylko jeden rodzaj ludzi. Ludzie."*
+**About humanity:**
+*"I think there's just one kind of folks. Folks."*
 
-## 6. Współczesna Obecność w Polskich Mediach
+## 6. Contemporary Presence in Polish Media
 
-### Media Społecznościowe i Kultura Internetowa
+### Social Media and Internet Culture
 
-W przeciwieństwie do anglojęzycznej przestrzeni internetowej, gdzie "To Kill a Mockingbird" generuje liczne memy na TikToku (ponad 58 milionów postów związanych z "mockingbird"), **polska kultura internetowa nie wytworzyła znaczącej ilości memów czy treści viralowych bezpośrednio związanych z "Zabić drozda"**.
+Unlike the English-speaking internet space, where "To Kill a Mockingbird" generates numerous TikTok memes (over 58 million posts related to "mockingbird"), **Polish internet culture has not produced significant amounts of memes or viral content directly related to "To Kill a Mockingbird"**.
 
-Polskie treści w internecie dotyczące książki są przede wszystkim **tradycyjnym pokryciem kulturalnym** - recenzjami książek, dyskusjami o filmie i analizami literackimi, a nie kulturą memów.
+Polish internet content about the book is primarily **traditional cultural coverage** - book reviews, film discussions, and literary analyses, rather than meme culture.
 
-### Współczesne Dyskusje
+### Contemporary Discussions
 
-**Program "Cała Polska Czyta Dzieciom"** uwzględnia "Zabić drozda" jako pozycję wartą polecenia, co wskazuje na jej uznanie jako książki o wartości edukacyjnej dla młodych czytelników.
+**The "All Poland Reads to Children" program** includes "To Kill a Mockingbird" as a recommended title, indicating its recognition as a book of educational value for young readers.
 
-W polskich mediach regularnie pojawiają się **artykuły przypominające o wartości tej książki**, szczególnie w kontekście międzynarodowych dyskusji o prawach człowieka i sprawiedliwości rasowej.
+Polish media regularly features **articles reminding about the value of this book**, particularly in the context of international discussions about human rights and racial justice.
 
-## 7. Polska Perspektywa na Współczesne Kontrowersje
+## 7. Polish Perspective on Contemporary Controversies
 
-### Brak Polemik o Cenzurze
+### Lack of Censorship Controversies
 
-W Polsce **nie obserwuje się takich kontrowersji dotyczących tej książki, jakie mają miejsce w USA, Kanadzie czy Wielkiej Brytanii**, gdzie "To Kill a Mockingbird" bywa usuwana z programów nauczania z powodu użycia słów uznawanych za obraźliwe lub z powodu krytyki narracji "białego zbawiciela".
+In Poland, **there are no such controversies regarding this book as occur in the USA, Canada, or Great Britain**, where "To Kill a Mockingbird" is sometimes removed from curricula due to use of words considered offensive or criticism of the "white savior" narrative.
 
-Polscy czytelnicy i edukatorzy **skupiają się głównie na uniwersalnych wartościach książki** - lekcjach o tolerancji, sprawiedliwości i odwadze moralnej, nie wchodząc w specyficzne amerykańskie debaty rasowe.
+Polish readers and educators **focus mainly on the book's universal values** - lessons about tolerance, justice, and moral courage, without entering into specific American racial debates.
 
-### Aktualne Znaczenie
+### Current Significance
 
-W kontekście współczesnych polskich dylematów społecznych, **książka jest postrzegana jako źródło mądrości o tym, jak stawiać opór niesprawiedliwości i bronić marginalizowanych grup**. To przesłanie rezonuje z polskimi doświadczeniami historycznymi i współczesnymi wyzwaniami społecznymi.
+In the context of contemporary Polish social dilemmas, **the book is perceived as a source of wisdom about how to resist injustice and defend marginalized groups**. This message resonates with Polish historical experiences and contemporary social challenges.
 
-## 8. Ciekawostki Kulturowe dla Polskich Czytelników
+## 8. Cultural Curiosities for Polish Readers
 
-### Różnice w Postrzeganiu Bohaterów
+### Differences in Character Perception
 
-W polskim kontekście kulturowym **Atticus Finch jest odbierany przede wszystkim jako pozytywny wzorzec moralny**, bez głębszej krytyki jego charakteru, która rozwinęła się w amerykańskich analizach literackich ostatnich dekad.
+In the Polish cultural context, **Atticus Finch is received primarily as a positive moral role model**, without the deeper criticism of his character that has developed in American literary analyses of recent decades.
 
-### Symbolika Ptaków w Polskiej Kulturze
+### Bird Symbolism in Polish Culture
 
-Wykorzystanie "drozda" zamiast "mockingbird" **łączy się z polską tradycją literacką i kulturową**, gdzie ptaki śpiewające od wieków były symbolami niewinności i piękna. To sprawia, że polska wersja tytułu ma swój własny, lokalny rezonans kulturowy.
+The use of "drozd" instead of "mockingbird" **connects with Polish literary and cultural tradition**, where singing birds have long been symbols of innocence and beauty. This makes the Polish version of the title have its own local cultural resonance.
 
-### Wpływ na Polską Literaturę
+### Influence on Polish Literature
 
-Choć trudno o bezpośrednie nawiązania, **"Zabić drozda" wywarła wpływ na polskie postrzeganie literatury zaangażowanej społecznie**, pokazując, jak można łączyć prostą narrację z głębokimi przesłaniami moralnymi.
+Although direct references are difficult to find, **"To Kill a Mockingbird" has influenced Polish perception of socially engaged literature**, showing how simple narrative can be combined with deep moral messages.
 
-## 9. "Zabić drozda" Jako Most Kulturowy
+## 9. "To Kill a Mockingbird" as a Cultural Bridge
 
-### Uniwersalność vs Lokalność
+### Universality vs Locality
 
-Sukces "Zabić drozda" w Polsce dowodzi, że **literatura może przekraczać granice kulturowe**, gdy jej podstawowe przesłania - o sprawiedliwości, empatii i odwadze moralnej - są uniwersalne. Polscy czytelnicy nie potrzebują bezpośredniego doświadczenia amerykańskiej segregacji rasowej, aby zrozumieć i docenić przesłanie książki.
+The success of "To Kill a Mockingbird" in Poland proves that **literature can cross cultural boundaries** when its basic messages - about justice, empathy, and moral courage - are universal. Polish readers do not need direct experience of American racial segregation to understand and appreciate the book's message.
 
-### Edukacyjna Wartość Międzykulturowa
+### Cross-Cultural Educational Value
 
-Książka służy jako **"okno na świat"** dla polskich czytelników, pokazując specyficzne problemy amerykańskiej historii, jednocześnie ucząc uniwersalnych lekcji moralnych. To sprawia, że mimo nieobecności w oficjalnym kanonie szkolnym, pozostaje cennym narzędziem edukacyjnym.
+The book serves as a **"window to the world"** for Polish readers, showing specific problems of American history while teaching universal moral lessons. This makes it remain a valuable educational tool despite its absence from the official school canon.
 
-### Znaczenie dla Współczesnych Polskich Czytelników
+### Significance for Contemporary Polish Readers
 
-W dzisiejszej Polsce, borykającej się z własnymi wyzwaniami dotyczącymi **mniejszości, imigrantów i różnorodności społecznej**, "Zabić drozda" oferuje perspektywę do przemyślenia tych kwestii przez pryzmat amerykańskiego doświadczenia historycznego.
+In today's Poland, grappling with its own challenges regarding **minorities, immigrants, and social diversity**, "To Kill a Mockingbird" offers perspective for thinking about these issues through the lens of American historical experience.
 
-## Podsumowanie: Trwałe Dziedzictwo w Polskiej Kulturze
+## Summary: Lasting Legacy in Polish Culture
 
-"Zabić drozda" w Polsce to przykład tego, jak wielka literatura przekracza granice kulturowe i czasowe. **Mimo że nie jest częścią oficjalnego kanonu szkolnego, książka znalazła swoje miejsce w polskich sercach i umysłach**, stając się częścią kulturowego krajobrazu.
+"To Kill a Mockingbird" in Poland is an example of how great literature transcends cultural and temporal boundaries. **Despite not being part of the official school canon, the book has found its place in Polish hearts and minds**, becoming part of the cultural landscape.
 
-Jej polska historia - od pierwszego wydania w PRL-u przez współczesne tłumaczenia, po adaptacje graficzne - pokazuje **ewolucję polskiej kultury czytelniczej i jej otwartość na uniwersalne przesłania moralnej literatury**.
+Its Polish history - from the first edition in Communist times through contemporary translations to graphic adaptations - shows **the evolution of Polish reading culture and its openness to universal messages of moral literature**.
 
-Dziś, gdy świat staje się coraz bardziej połączony, ale jednocześnie podzielony, **"Zabić drozda" przypomina polskim czytelnikom o podstawowych wartościach humanistycznych**: empatii, sprawiedliwości i odwadze w obronie słabszych. To przesłanie, niezależnie od tego, czy mówimy o drozdach czy mockingbirdach, pozostaje ponadczasowe i ponadnarodowe.
+Today, when the world becomes increasingly connected yet divided, **"To Kill a Mockingbird" reminds Polish readers of fundamental humanistic values**: empathy, justice, and courage in defending the weak. This message, regardless of whether we speak of thrushes or mockingbirds, remains timeless and transnational.
 
 ---
 
-*Ten raport powstał na podstawie badań internetowych, analizy polskich źródeł literackich oraz istniejących dokumentów dotyczących recepcji "To Kill a Mockingbird" w Polsce. Wszystkie cytaty polskie pochodzą z tłumaczenia Macieja Szymańskiego (wydanie Rebis).*
+## Key Facts for Polish Context:
+
+1. **First Polish edition in 1965** by translator Zofia Kierszys during Communist era
+2. **Modern translation by Maciej Szymański** published by Rebis (2012-2015)
+3. **Title "Zabić drozda"** uses native Polish bird instead of mockingbird
+4. **NOT in official school reading canon** but used as supplementary reading
+5. **High rating 8.1/10 on Lubimyczytać.pl** - Poland's main book site
+6. **Graphic novel adaptation** published in Polish by Jaguar in 2018
+7. **No major Polish theater adaptations** recorded in theater databases
+8. **Academic comparative studies** at Jagiellonian University on translation differences
+9. **Film adaptation with Gregory Peck** well-known and regularly broadcast
+10. **Polish audiobook version** available for audio format experience
+11. **"All Poland Reads to Children"** program recommends the book
+12. **No censorship controversies** unlike in USA/Canada/UK
+13. **Universal moral themes resonate** with Polish historical experiences
+14. **Cultural bridge function** - American context teaching universal lessons
+15. **Scout called "Smyk"** in first translation raised translation questions
+16. **Przemysław Bytoński designed** cover for first Polish edition
+17. **Książka i Wiedza publisher** for first Communist-era edition
+18. **No significant Polish meme culture** around the book online
+19. **Traditional cultural coverage** in Polish internet discussions
+20. **Symbol of resistance to injustice** relevant to Polish social challenges
+21. **Atticus Finch positive role model** without American critical reassessment
+22. **"Drozd" symbolism connects** with Polish cultural tradition of singing birds
+23. **Influence on socially engaged literature** perception in Poland
+24. **Window to American history** while teaching universal moral lessons
+25. **Relevance to contemporary Poland's diversity challenges**
+26. **Part of cultural landscape** despite absence from official canon
+27. **Evolution of Polish reading culture** openness shown through its reception
+28. **Timeless humanistic values** emphasized over specific racial context
+29. **Jagiellonian University research** on dialect translation challenges
+30. **Professional literary community recognition** as valuable educational tool
+
+*This report was compiled based on internet research, analysis of Polish literary sources, and existing documents about the reception of "To Kill a Mockingbird" in Poland. All Polish quotes are from Maciej Szymański's translation (Rebis edition).*

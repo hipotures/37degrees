@@ -1,115 +1,71 @@
-﻿Iliada Homera: Kompleksowa Analiza i Przewodnik Wizualny
-
-
-
+Iliada Homera: Kompleksowa Analiza i Przewodnik Wizualny
 
 CZĘŚĆ I: WPROWADZENIE
 
-
-
-
 1. Informacje bibliograficzne
 
-
-
-
 Pełny tytuł i podtytuł
-
 
 Pełny tytuł dzieła to Iliada, pochodzący od starogreckiego słowa Ἰλιάς (Iliás), co dosłownie oznacza „[poemat] o Ilionie”.1 Ilion to alternatywna nazwa miasta Troi, co od samego początku umiejscawia epos nie tylko w konkretnej lokalizacji, ale czyni z samego miasta centralny punkt narracji, wokół którego rozgrywa się dramat bogów i ludzi. Dzieło nie posiada formalnego podtytułu, jednak jego niepisany podtytuł mógłby brzmieć „Gniew Achillesa”, gdyż to właśnie gniew (μῆνις,
 mēnis) tego herosa jest pierwszym słowem poematu i jego główną siłą napędową.1
 
-
 Autor
-
 
 Tradycyjnie autorstwo Iliady przypisuje się Homerowi, postaci na wpół legendarnej, która miała żyć i tworzyć w VIII lub na początku VII wieku p.n.e..1 Choć starożytni Grecy nie mieli wątpliwości co do jego istnienia, współczesna nauka podchodzi do tej kwestii z dużą rezerwą, formułując tzw. „kwestię homerycką”. Najczęściej przyjmuje się, że Homer był ślepym bardem (aojdem) pochodzącym z Jonii, regionu na wybrzeżu Azji Mniejszej (dzisiejsza Turcja).2 Dialekt, w którym spisano epos – mieszanka dialektu jońskiego i eolskiego, znana jako greka homerycka – silnie wspiera tę tezę.2 Homer nie był „pisarzem” w dzisiejszym rozumieniu tego słowa; był raczej mistrzem poezji oralnej, kompilatorem i wykonawcą opowieści przekazywanych ustnie z pokolenia na pokolenie.4
 
-
 Data pierwszego wydania
-
 
 Iliada jest produktem długiej ewolucji. Jej korzenie sięgają tradycji ustnej sięgającej cywilizacji mykeńskiej (ok. XIII-XII w. p.n.e.).6 Sam poemat został prawdopodobnie skomponowany w swojej obecnej formie ustnej pod koniec VIII lub na początku VII wieku p.n.e..1 Przez wieki był wykonywany przez wędrownych recytatorów, zwanych rapsodami. Pierwsze utrwalenie tekstu na piśmie miało miejsce znacznie później. Tradycja, choć nie w pełni potwierdzona, przypisuje to przedsięwzięcie ateńskiemu tyranowi Pizystratowi w VI wieku p.n.e., który miał zlecić spisanie poematów w celu standaryzacji ich wykonania podczas panatenajskich świąt.8 Ostateczna, kanoniczna wersja tekstu, którą znamy dzisiaj, jest wynikiem pracy filologów z Biblioteki Aleksandryjskiej w okresie hellenistycznym (III-II w. p.n.e.), którzy oczyścili go z późniejszych dodatków i błędów kopistów.9
 
-
 Gatunek literacki
-
 
 Iliada jest archetypem eposu bohaterskiego (ang. heroic epic poetry), gatunku, który sama zdefiniowała i ustanowiła w kanonie literatury zachodniej.1 Jako epos, charakteryzuje się monumentalną skalą, podniosłym stylem, heksametrem daktylicznym (składającym się z 15 693 wersów w najbardziej akceptowanej wersji) i tematyką skoncentrowaną na heroicznych czynach, wojnie oraz interwencjach bogów w sprawy śmiertelników.1 Jest to epos ludowy, co oznacza, że wyrósł z tradycji oralnej i anonimowej, w przeciwieństwie do eposu literackiego, pisanego przez jednego, znanego autora w kulturze piśmiennej.10
 
-
 Przynależność do nurtu literackiego
-
 
 Dzieło należy do nurtu poezji oralnej, stanowiąc jej szczytowe osiągnięcie i jednocześnie dokumentując przejście od kultury oralnej do piśmiennej.7 Struktura
 Iliady jest nierozerwalnie związana z technikami kompozycji ustnej. Cechy takie jak stałe epitety („szybkonogi Achilles”, „Hektor o lśniącym hełmie”), powtarzające się formuły („tak rzekłszy...”), rozbudowane porównania (tzw. porównania homeryckie) oraz typowe sceny (np. zbrojenie bohatera, uczta, ofiara) nie są wadami artystycznymi, lecz niezbędnymi narzędziami barda, który „zszywał pieśń” (rhapsoideo) na żywo przed publicznością, korzystając z ogromnego zasobu zapamiętanych fraz i schematów narracyjnych.2
 
-
 Okładka
-
 
 Biorąc pod uwagę starożytne pochodzenie dzieła, nie istnieje jedna, oryginalna okładka. Jednak dla celów wizualizacji można opisać okładkę, która oddaje ducha eposu. Idealnym wyborem byłaby reprodukcja malowidła z greckiej wazy czarno- lub czerwonofigurowej z okresu archaicznego (VI w. p.n.e.).
 Opis wizualny przykładowej okładki: Na czarnym, matowym tle widnieje scena z czerwonofigurowej amfory. Dwóch potężnie zbudowanych wojowników, Achilles i Ajas, siedzi naprzeciwko siebie, pochylonych nad grą planszową. Są w pełnej zbroi – napierśnikach z brązu, nagolennikach i hełmach z opuszczonymi zasłonami policzkowymi. Każdy z nich opiera o ramię długą włócznię. Ich sylwetki są dynamiczne, napięte, mimo pozornego spokoju sceny. Detale zbroi i tarcz są precyzyjnie narysowane. Tytuł „ILIADA” zapisany jest prostą, klasyczną czcionką w kolorze terakoty, a imię „HOMER” poniżej, mniejszymi literami. Taki obraz symbolizuje kluczowy aspekt eposu: moment ciszy i ludzkiej interakcji w samym sercu brutalnej, dziesięcioletniej wojny.
 
-
 2. Kontekst powstania
 
-
-
-
 Okoliczności napisania książki: Kwestia Homerycka
-
 
 Debata na temat autorstwa Iliady, znana jako „kwestia homerycka”, jest jednym z najstarszych i najbardziej złożonych problemów filologii klasycznej.3 Zasadniczo sprowadza się ona do pytania: „Kim był Homer i jak powstały jego eposy?”. W XIX wieku wykrystalizowały się dwa główne obozy: „analitycy” i „unitaryści”.12 Analitycy, tacy jak Friedrich August Wolf, argumentowali, że
 Iliada jest kompilacją wielu krótszych, niezależnych pieśni, stworzonych przez różnych poetów na przestrzeni wieków, a postać Homera jest jedynie symbolicznym imieniem przypisanym tej tradycji.8 Z kolei unitaryści bronili tezy o istnieniu jednego, genialnego poety, który nadał dziełu jego spójną, dramatyczną strukturę i głębię psychologiczną.12
 Przełom w debacie przyniosły badania Milmana Parry'ego i Alberta Lorda w XX wieku.5 Analizując żywą tradycję poezji oralnej w Jugosławii, udowodnili oni, że niezwykle długie i skomplikowane poematy mogą być tworzone i przekazywane ustnie dzięki zastosowaniu techniki oralno-formułowej.8 Ta teoria pozwoliła pogodzić obie strony:
 Iliada jest z pewnością produktem wielowiekowej tradycji oralnej, ale jej ostateczny kształt jest najprawdopodobniej dziełem jednego lub dwóch wybitnych mistrzów tej tradycji, którzy nadali jej artystyczną jedność.8 Zrozumienie tego mechanizmu jest kluczowe dla każdej próby adaptacji. Powtarzalność eposu nie jest błędem, lecz jego fundamentalną gramatyką. Próba stworzenia adaptacji wizualnej musi znaleźć sposób na przełożenie tej oralnej gramatyki na język obrazu. Zamiast unikać powtórzeń, można stworzyć system wizualnych formuł: każda scena zbrojenia się bohatera mogłaby podążać za tym samym schematem montażowym, ale z subtelnymi zmianami w oświetleniu czy grze aktorskiej, odzwierciedlającymi stan emocjonalny postaci. Taki zabieg oddałby hołd strukturze oryginału, jednocześnie tworząc unikalny, stylizowany język filmowy.
 
-
 Inspiracje autora
-
 
 Główną inspiracją Homera był rozległy cykl mitów o wojnie trojańskiej. Dla starożytnych Greków nie była to fikcja, lecz wydarzenie historyczne, które miało miejsce w tzw. „epoce heroicznej”, datowanej na XIII lub XII wiek p.n.e..13 Opowieści o porwaniu Heleny, dziesięcioletnim oblężeniu i heroicznych czynach wojowników były częścią zbiorowej pamięci i tożsamości kulturowej. Homer nie wymyślił tej historii, ale zaczerpnął z niej, by stworzyć dzieło o niespotykanej dotąd skali i głębi. Jego geniusz polegał na wyborze wąskiego fragmentu opowieści – zaledwie kilku tygodni z dziesiątego roku wojny – i skupieniu całej narracji wokół jednego, potężnego tematu: gniewu Achillesa.1 Ten zabieg pozwolił mu przekształcić kronikę wojenną w uniwersalny dramat psychologiczny o honorze, pysze, stracie i człowieczeństwie.
 
-
 Miejsce w dorobku pisarza
-
 
 W tradycyjnym ujęciu, Iliada jest uznawana za wcześniejsze z dwóch wielkich dzieł Homera. Analiza językowa i stylistyczna wskazuje, że została skomponowana nieco przed Odyseją.2
 Iliada ustanawia świat, postacie i ton, który Odyseja kontynuuje, ale jednocześnie modyfikuje. Podczas gdy Iliada jest eposem wojennym, tragicznym, skupionym na zbiorowości i kodeksie heroicznym na polu bitwy, Odyseja to opowieść o powrocie, przygodzie i odzyskiwaniu tożsamości przez jednostkę. Iliada jest fundamentem, na którym zbudowano resztę greckiej literatury epickiej.
 
-
 Recepcja krytyczna i czytelnicza
-
 
 Od samego początku Iliada cieszyła się statusem dzieła fundamentalnego. Dla Greków była czymś więcej niż tylko poezją – była podstawą edukacji, źródłem wiedzy o bogach, historii i moralności.16 Homer był nazywany po prostu „Poetą”, a znajomość jego dzieł była wyznacznikiem człowieka cywilizowanego.18 Cytaty z
 Iliady pojawiały się w mowach polityków, pismach filozofów i codziennych rozmowach.19 Epos stał się kamieniem węgielnym greckiej tożsamości, jednocząc rozproszone
 poleis wokół wspólnego, heroicznego dziedzictwa.20 Jej wpływ na całą późniejszą kulturę zachodnią jest nie do przecenienia. Ustanowiła archetypy bohaterów, konflikty moralne i techniki narracyjne, które są powielane do dziś.20 Jest niekwestionowanym punktem wyjścia dla kanonu literatury zachodniej, dziełem, które mimo upływu prawie trzech tysięcy lat wciąż rezonuje uniwersalnymi tematami gniewu, straty, przyjaźni i poszukiwania sensu w obliczu śmiertelności.22
 
-
 CZĘŚĆ II: TŁO I KONTEKST
-
-
-
 
 1. Miejsce akcji
 
-
-
-
 Dokładny opis lokalizacji
-
 
 Akcja Iliady rozgrywa się w północno-zachodniej Anatolii, w regionie zwanym Troadą, na równinie rozciągającej się między miastem Troja (Ilion) a wybrzeżem Morza Egejskiego, u wejścia do cieśniny Hellespont (dziś Dardanele).15 Ta strategiczna lokalizacja, kontrolująca szlaki handlowe między Morzem Egejskim a Morzem Czarnym, jest jednym z historycznych powodów, dla których mogło dojść do konfliktu.25 Sceneria jest ograniczona do trzech głównych obszarów: ufortyfikowanego miasta Troi, tymczasowego obozu greckiego na plaży oraz pylistej równiny bitewnej między nimi.
 
-
 OPIS WIZUALNY MIEJSC
 
-
-
-
 Miasto Troja (Ilion)
-
 
 Wizualna rekonstrukcja Troi opiera się na wynikach wykopalisk archeologicznych na wzgórzu Hisarlık w Turcji, które jest powszechnie identyfikowane jako lokalizacja starożytnego miasta. Najbardziej prawdopodobne warstwy odpowiadające Homerowej Troi to Troja VI (ok. 1750-1300 p.n.e.) i Troja VIIa (ok. 1300-1180 p.n.e.).15
 * Architektura: Troja to potężna cytadela wzniesiona na sztucznym wzgórzu (tellu), otoczona monumentalnymi murami obronnymi.29 Mury, zbudowane z ogromnych, starannie dopasowanych bloków wapienia bez użycia zaprawy (tzw. mur cyklopowy), mają do 5 metrów grubości i wznoszą się na wysokość 9 metrów.29 Są lekko nachylone i zwieńczone blankami z suszonej na słońcu cegły mułowej.29 W system fortyfikacji wbudowane są masywne baszty, z których najbardziej imponująca jest Bastion Północno-Wschodni, oraz kilka bram, w tym słynna Brama Skajska.31 Wewnątrz murów miasto jest zorganizowane tarasowo. Ulice są brukowane, a domy to duże, wolnostojące budynki w typie
@@ -120,9 +76,7 @@ megaronów, z największą salą tronową, której strop wspierałyby cztery pot
 * Brama Skajska: Główna brama Troi, wielokrotnie wspominana w eposie. To stąd Priam i starszyzna obserwują bitwę, a Hektor żegna się z rodziną.35 Byłaby to potężna, podwójna brama z wieżami po bokach, zaprojektowana tak, by utrudnić atak frontalny. Prowadziłaby do niej szeroka, kamienna rampa. Z jej szczytu roztaczałby się panoramiczny widok na całą równinę aż po obóz Greków i morze.
 * Atmosfera: Wewnątrz murów panuje atmosfera oblężenia. Dźwięki to odległy zgiełk bitwy, nawoływania strażników na murach, płacz kobiet i codzienne odgłosy miasta – stukot kół wozów na bruku, praca rzemieślników. W powietrzu unosi się zapach kurzu, dymu z palenisk i zwierząt.
 
-
 Obóz Achajów
-
 
 Obóz Greków to antyteza ufortyfikowanej, trwałej Troi. Jest to tymczasowe, prowizoryczne osiedle wojskowe rozłożone na piaszczystej plaży.36
    * Architektura: Centralnym elementem obozu jest ponad tysiąc czarnych, smukłych okrętów wojennych, wyciągniętych na brzeg.37 Wojownicy mieszkają w prostych, drewnianych szałasach (
@@ -130,21 +84,14 @@ klisiai), zbudowanych z sosnowych bali i krytych strzechą z traw zebranych na �
    * Układ przestrzenny: Obóz jest zorganizowany wokół statków poszczególnych kontyngentów. W centrum, przy miejscu zgromadzeń (agora), znajdują się statki i namioty wodzów, Agamemnona i Odyseusza. Na krańcach obozu, najdalej od centrum, swoje statki mają Achilles i Ajas, co symbolizuje ich status największych wojowników, stanowiących pierwszą linię obrony.37
    * Atmosfera: Obóz tętni życiem wojskowym. Powietrze jest przesycone zapachem słonej wody, smoły używanej do uszczelniania kadłubów statków, dymu z niezliczonych ognisk, potu i krwi. Dźwięki to nieustanny szum morza, rżenie koni, okrzyki żołnierzy, brzęk naprawianej broni i lamenty brank wojennych. Oświetlenie w dzień to ostre, oślepiające słońce odbijające się od piasku i wody, a w nocy – migotliwy, pomarańczowy blask tysięcy ognisk, rzucających długie, ruchome cienie.38
 
-
 2. Czas akcji
 
-
-
-
 Konkretny okres historyczny
-
 
 Akcja Iliady osadzona jest w późnej epoce brązu, w okresie dominacji kultury mykeńskiej na terenie Grecji kontynentalnej (ok. 1600-1100 p.n.e.). Sama wojna trojańska, jeśli była wydarzeniem historycznym, datowana jest przez archeologów i historyków na XIII lub początek XII wieku p.n.e., co zbiega się z okresem niestabilności i upadku cywilizacji epoki brązu we wschodniej części Morza Śródziemnego.13
 Świat przedstawiony w poemacie jest jednak artystyczną kreacją, swoistym amalgamatem. Poeta, tworzący w VIII wieku p.n.e., opisywał wydarzenia sprzed 400 lat, z okresu, który dla niego samego był już legendarną przeszłością. W rezultacie, w poemacie mieszają się autentyczne wspomnienia z epoki mykeńskiej (tzw. „zabytki” w tekście) z elementami charakterystycznymi dla czasów samego Homera (wczesna epoka żelaza). Ta dwoistość jest kluczowa dla wizualnej interpretacji dzieła. Świat Iliady nie jest idealną rekonstrukcją epoki brązu; jest raczej jej wyidealizowanym, heroicznym obrazem, przefiltrowanym przez pamięć i wyobraźnię późniejszych pokoleń.
 
-
 WIZUALNE MARKERY EPOKI
-
 
       * Stroje:
       * Mężczyźni: Podstawowym ubiorem męskim był chiton, rodzaj tuniki wykonanej z jednego prostokątnego kawałka lnu lub wełny, spiętej na ramionach fibulami (broszami). Wojownicy nosili krótką wersję, do kolan, dla swobody ruchów. W sytuacjach ceremonialnych lub poza walką noszono długie, powłóczyste chitony. Na wierzch zarzucano himation (płaszcz) lub chlamys (krótki płaszcz wojskowy).39 Ubiory elity były barwione na żywe kolory (szkarłat, purpura) i zdobione misternymi wzorami.40
@@ -155,42 +102,29 @@ WIZUALNE MARKERY EPOKI
       * Tarcze: Dominowały dwa typy wielkich tarcz: prostokątna tarcza wieżowa, wysoka jak człowiek, oraz tarcza ósemkowa, o charakterystycznym wcięciu w talii. Obie wykonane były z drewnianej ramy obciągniętej kilkoma warstwami wołowej skóry, czasem z brązowym guzem pośrodku.48
       * Broń: Główną bronią była długa (ponad 3 m) włócznia z jesionowego drzewca z ciężkim, liściastym grotem z brązu, służąca do pchnięć. Miecze z brązu były długie i ciężkie, przeznaczone raczej do pchnięć niż cięć.48 Elita walczyła z rydwanów, ale używała ich głównie jako środka transportu na pole bitwy, a nie jako platform bojowych.49
 
-
 Czas trwania akcji
-
 
 Narracja Iliady jest niezwykle skondensowana. Choć wojna trwa już dziesiąty rok, akcja poematu obejmuje zaledwie około 50 dni.11 Ten zabieg pozwala na intensyfikację dramatu i skupienie się na psychologicznej przemianie Achillesa. Poemat często odwołuje się do wydarzeń wcześniejszych (np. porwanie Heleny, pierwsze lata wojny) i zapowiada przyszłe (śmierć Achillesa, upadek Troi), tworząc wrażenie epickiej panoramy czasowej, mimo krótkiego okresu trwania właściwej akcji.
 
-
 3. Kontekst historyczny
-
 
 Wydarzenia opisane w Iliadzie rozgrywają się na tle schyłku epoki brązu, okresu wielkich cywilizacji, takich jak mykeńska Grecja, imperium Hetytów w Anatolii i Nowe Państwo w Egipcie. Był to świat połączony siecią szlaków handlowych, dyplomatycznych i militarnych. Wykopaliska w Hisarlık (Troja) ujawniły miasto, które w XIII wieku p.n.e. było bogatym i potężnym ośrodkiem, kontrolującym strategiczne szlaki morskie.25 Archeologiczne ślady gwałtownego zniszczenia warstwy Troja VIIa około 1180 p.n.e. przez pożar mogą być historycznym ziarnem, z którego wyrósł mit o wojnie trojańskiej.13 W tym samym czasie cała wschodnia część basenu Morza Śródziemnego doświadczyła fali zniszczeń i upadku wielkich imperiów, co historycy nazywają „zapaścią epoki brązu”.
 Iliada może być więc echem jednego z wielu brutalnych konfliktów tego burzliwego okresu, zachowanym w ustnej tradycji i przetworzonym w ponadczasowy mit.
 
-
 4. Kontekst społeczny
-
 
 Społeczeństwo przedstawione w Iliadzie jest arystokratycznym społeczeństwem wojowników, zorganizowanym w sposób feudalny.52 Na czele stał król (
 wanax), który był najwyższym wodzem, sędzią i kapłanem. Jego władza opierała się na sile militarnej i zdolności do zapewniania swoim podwładnym łupów i ziemi. Podstawą struktury społecznej był oikos – ród, gospodarstwo domowe, obejmujące rodzinę, służbę i niewolników.20 Lojalność wobec rodu i wodza była najwyższą wartością.
 Centralnym elementem etosu arystokracji był kodeks heroiczny. Wartość mężczyzny mierzono jego timē (honorem, statusem, szacunkiem) oraz kleos (sławą, chwałą zdobytą na polu bitwy). Timē miało wymiar materialny – manifestowało się w geras, czyli łupach wojennych przyznawanych bohaterowi, takich jak broń, trójnogi czy branki wojenne.20 Konflikt między Achillesem a Agamemnonem wybucha właśnie z powodu naruszenia tego kodeksu: Agamemnon, odbierając Achillesowi Briseidę, publicznie podważa jego
 timē. Kobiety w tym świecie pełniły role podrzędne. Ich wartość leżała w zdolności do rodzenia potomków (jak Andromacha), w pięknie (jak Helena) lub jako symbol statusu mężczyzny (jak Briseida). Jednocześnie postacie kobiece, zarówno ludzkie, jak i boskie, często wykazują się wielką siłą charakteru i wpływają na bieg wydarzeń.
 
-
 CZĘŚĆ III: BOHATEROWIE
-
-
-
 
 1. Protagoniści
 
-
 Wizualne portrety bohaterów Iliady muszą opierać się na syntezie skąpych wskazówek tekstowych, ich charakterologicznych funkcji w poemacie oraz wiedzy archeologicznej o wyglądzie elit epoki mykeńskiej. Kluczowe jest zrozumienie, że wygląd postaci w eposie służy podkreśleniu ich statusu i funkcji, a nie tworzeniu realistycznego portretu.
 
-
 Achilles (Achaj)
-
 
       * OPIS FIZYCZNY:
       * Wiek: Około 25 lat. Jest młodym mężczyzną w pełni sił witalnych, który przybył pod Troję jako nastolatek i spędził tam dziesięć lat.54
@@ -203,9 +137,7 @@ Achilles (Achaj)
       * Motywacje i cele: Achillesem kieruje przemożne pragnienie zdobycia nieśmiertelnej sławy (kleos). Jest świadomy wyboru, jakiego dokonał: krótkie, heroiczne życie w zamian za wieczną pamięć. Jego drugim motorem jest honor (timē), którego naruszenie przez Agamemnona wywołuje jego niszczycielski gniew (mēnis). Po śmierci Patroklosa jego jedynym celem staje się zemsta.
       * Rozwój psychologiczny: Achilles przechodzi głęboką przemianę. Zaczyna jako dumny, egocentryczny wojownik, zaślepiony urażoną dumą. Śmierć Patroklosa zmusza go do konfrontacji z konsekwencjami własnego gniewu i uświadamia mu cenę wojny. W ostatniej księdze, w spotkaniu z Priamem, odnajduje w sobie współczucie i człowieczeństwo, akceptując wspólny dla wszystkich ludzi los – cierpienie i śmiertelność.
 
-
 Hektor (Trojanin)
-
 
       * OPIS FIZYCZNY:
       * Wiek: Dojrzały mężczyzna, około 30-35 lat. Jest mężem Andromachy i ojcem małego Astyanaksa, co nadaje mu wymiar stateczności i odpowiedzialności.
@@ -218,14 +150,9 @@ Hektor (Trojanin)
       * Motywacje i cele: Hektor jest ucieleśnieniem obowiązku. Walczy nie dla osobistej chwały, ale dla ochrony swojej rodziny, miasta i ludu. Jest tragicznym bohaterem, który zdaje sobie sprawę z nieuchronności klęski, ale mimo to podejmuje walkę. Jego główną motywacją jest obrona oikos i polis.
       * Rozwój psychologiczny: Hektor jest postacią bardziej statyczną niż Achilles, ale jego wewnętrzne konflikty są równie głębokie. Rozdarty jest między miłością do rodziny a poczuciem obowiązku wobec ojczyzny. W ostatecznej konfrontacji z Achillesem przeżywa chwilę ludzkiego strachu i ucieka, co tylko podkreśla jego człowieczeństwo. Ostatecznie jednak staje do walki, akceptując swój los z godnością.
 
-
 2. Postacie drugoplanowe
 
-
-
-
 Strona Achajska (Grecy)
-
 
       * Agamemnon: Wiek około 40-45 lat. Król Myken i wódz naczelny. Wysoki, o posturze władcy, ale jego twarz często zdradza arogancję i niepewność. Nosi najbogatszą zbroję, a jego symbolem władzy jest królewskie berło, wykute przez Hefajstosa. Homer bardziej skupia się na jego porywczym i chciwym charakterze niż na wyglądzie fizycznym.59
       * Menelaos: Wiek około 35-40 lat. Król Sparty. Opisywany jako „rudowłosy” (xanthos).61 Jest niższy od brata, ale krzepki i odważny w walce. Jego główną motywacją jest odzyskanie honoru i żony.
@@ -235,9 +162,7 @@ Strona Achajska (Grecy)
       * Nestor: Starzec, około 70 lat. Król Pylos. Siwowłosy, z długą, białą brodą, wspiera się na lasce. Jego ciało jest już słabe, ale umysł wciąż bystry. Jest uosobieniem mądrości i doświadczenia, choć jego mowy bywają rozwlekłe.
       * Patroklos: Wiek około 25 lat. Najbliższy przyjaciel Achillesa. Opisywany jako przystojny i dobrze zbudowany, o szarych oczach.65 Jego twarz wyraża życzliwość i współczucie, co odróżnia go od dumnego Achillesa.
 
-
 Strona Trojańska
-
 
       * Priam: Król Troi, starzec, około 70 lat. Zgarbiony wiekiem i ciężarem wojny, o twarzy pooranej zmarszczkami, z długą, białą brodą.66 Jest postacią tragiczną, szlachetną, ale bezsilną.
       * Parys (Aleksander): Młodszy brat Hektora, około 25-30 lat. Opisywany jako wyjątkowo piękny, o jasnych włosach i czarującym uśmiechu, ale jego uroda ma w sobie coś zniewieściałego.67 Nosi lekką zbroję, a jego ulubioną bronią jest łuk. Jego postawa jest często nonszalancka i unika bezpośredniej walki.
@@ -245,25 +170,15 @@ Strona Trojańska
       * Andromacha: Żona Hektora. Jej wygląd nie jest opisany, ale cała jej postać emanuje miłością, troską i lękiem o męża i syna. Jest archetypem wiernej żony i matki.
       * Briseida i Chryzeida: Młode kobiety, około 18-20 lat. Branki wojenne. Chryzeida jest opisywana jako młoda, o jasnej cerze i blond włosach.70 Obie są piękne, ale ich uroda jest tłem dla dramatu mężczyzn, symbolem ich honoru i statusu.
 
-
 3. Analiza psychologiczna
-
 
 Bohaterowie Iliady nie są płaskimi figurami, lecz złożonymi postaciami targanymi wewnętrznymi konfliktami. Ich wygląd często odzwierciedla ich charakter i funkcję w opowieści. Boska uroda Achillesa podkreśla jego nadludzką naturę i oddalenie od zwykłych śmiertelników. Solidna, ludzka postura Hektora symbolizuje jego rolę jako opoki Troi. Piękno Parysa jest powierzchowne i zwodnicze, podobnie jak jego charakter. Z kolei celowy brak opisu Heleny czyni z niej uniwersalny symbol pożądania, pustą formę, którą każdy wypełnia własnym wyobrażeniem piękna. To pokazuje, że dla adaptacji wizualnej kluczowe jest nie tyle wierne odtworzenie nieistniejących opisów, co zrozumienie symbolicznej funkcji wyglądu każdej postaci. Projekt kostiumów, zbroi i rekwizytów powinien być podyktowany ich statusem i rolą w narracji, a nie dążeniem do quasi-realizmu.
 
-
 CZĘŚĆ IV: FABUŁA
-
-
-
 
 1. Ekspozycja
 
-
-
-
 Księga 1: Gniew
-
 
       * Wprowadzenie w świat przedstawiony: Akcja rozpoczyna się in medias res, w dziesiątym roku oblężenia Troi. Armia Achajów (Greków) jest zdziesiątkowana przez tajemniczą zarazę.
       * Prezentacja sytuacji wyjściowej: Dowiadujemy się, że zaraza jest karą zesłaną przez boga Apolla. Jego kapłan, Chryzes, przybył do obozu Greków, by wykupić swoją córkę, Chryzeidę, wziętą do niewoli i przydzieloną jako branka wodzowi naczelnemu, Agamemnonowi. Agamemnon butnie odprawił kapłana, ściągając gniew boga na swoje wojsko.
@@ -274,14 +189,9 @@ Księga 1: Gniew
       * Ważne przedmioty: Królewskie berło Agamemnona, symbol jego władzy. Miecz Achillesa, na wpół wyciągnięty z pochwy.
       * Emocje: Twarz Achillesa jest wykrzywiona gniewem i poczuciem krzywdy. Oczy Agamemnona płoną arogancją. Twarze pozostałych wodzów wyrażają niepokój i konsternację.
 
-
 2. Rozwinięcie akcji
 
-
-
-
 Księga 2: Próba i Katalog Statków
-
 
 Zeus, dotrzymując obietnicy danej Tetydzie, zsyła Agamemnonowi zwodniczy sen, obiecujący mu zwycięstwo. Agamemnon zwołuje wojsko i, aby przetestować jego morale, proponuje powrót do domu. Żołnierze, zmęczeni dziesięcioletnią wojną, z okrzykiem radości rzucają się do statków. Interwencja Hery i Ateny, działających przez Odyseusza, powstrzymuje odwrót. Odyseusz, używając siły i perswazji, przywraca porządek. Następuje długa i szczegółowa wyliczanka wszystkich greckich kontyngentów, ich wodzów i liczby statków (Katalog Statków), a następnie sił trojańskich i ich sojuszników.
       * OPIS WIZUALNY KLUCZOWEJ SCENY (Katalog Statków):
@@ -289,9 +199,7 @@ Zeus, dotrzymując obietnicy danej Tetydzie, zsyła Agamemnonowi zwodniczy sen, 
       * Kto jest obecny: Cała armia Achajów, dziesiątki tysięcy mężczyzn, formuje się w zwarte oddziały według pochodzenia. Wodowie na rydwanach objeżdżają swoje wojska.
       * Dynamika sceny: Scena jest monumentalna. Kamera przesuwa się nad niekończącymi się szeregami wojowników. Widzimy różnorodność ich uzbrojenia i tarcz z różnymi emblematami. Narrator wylicza kolejne ludy: Beotów, Fokijczyków, Lokrów, Ateńczyków, Mykeńczyków, Spartan, Kreteńczyków. Każda grupa ma swoje sztandary. W tle widać las masztów statków na plaży.
 
-
 Księga 3: Pojedynek Parysa i Menelaosa
-
 
 Armie stają naprzeciw siebie. Parys, książę trojański, który porwał Helenę, wychodzi przed szereg i wyzywa na pojedynek najdzielniejszego z Greków. Gdy wyzwanie podejmuje Menelaos, oszukany mąż Heleny, Parys tchórzliwie się cofa. Zganiony przez Hektora, zgadza się w końcu na pojedynek, którego stawką ma być Helena i zakończenie wojny. Zostaje zawarty rozejm. Na murach Troi Helena opowiada Priamowi o greckich wodzach. W pojedynku Menelaos jest bliski zwycięstwa, ale w ostatniej chwili Afrodyta osłania Parysa mgłą i porywa go z pola bitwy prosto do sypialni Heleny.
       * OPIS WIZUALNY KLUCZOWEJ SCENY (Pojedynek):
@@ -299,21 +207,15 @@ Armie stają naprzeciw siebie. Parys, książę trojański, który porwał Helen
       * Kto jest obecny: W centrum Menelaos, w ciężkiej zbroi z brązu, i Parys, w lżejszym, bardziej ozdobnym pancerzu. Wokół nich w milczeniu stoją tysiące żołnierzy. Na murach Troi widać małe sylwetki Priama i Heleny.
       * Dynamika sceny: Menelaos dominuje. Jego ruchy są potężne i zdecydowane. Parys walczy defensywnie. Kluczowy moment: Menelaos chwyta Parysa za kitę hełmu i ciągnie go po ziemi. Rzemień hełmu wpija się w szyję Parysa. Nagle pojawia się oślepiający blask, a postać Parysa rozpływa się w gęstej, złotej mgle. Menelaos zostaje sam, trzymając w ręku pusty hełm.
 
-
 Księga 4: Złamanie rozejmu
-
 
 Na Olimpie bogowie spierają się o wynik pojedynku. Hera i Atena, nienawidzące Troi, nie chcą dopuścić do pokoju. Zeus wysyła Atenę, by sprowokowała złamanie rozejmu. Bogini, pod postacią trojańskiego żołnierza, namawia łucznika Pandarosa, by strzelił do Menelaosa. Pandaros rani króla Sparty, co Grecy uznają za zdradę. Rozejm zostaje zerwany, a bitwa wybucha na nowo z całą furią.
 
-
 Księga 5: Czyny Diomedesa
-
 
 Atena natchnęła greckiego herosa Diomedesa nadludzką siłą i odwagą. Diomedes szaleje na polu bitwy, zabijając wielu Trojan. Ratuje go Eneasz, syn bogini Afrodyty. Diomedes rani Eneasza, a gdy Afrodyta próbuje ocalić syna, rani również ją. Bogini ucieka na Olimp. Następnie Diomedes staje do walki z samym bogiem wojny, Aresem, który wspiera Trojan. Z pomocą Ateny, Diomedes rani włócznią także Aresa, który z przeraźliwym rykiem ucieka do ojca, Zeusa.
 
-
 Księga 6: Pożegnanie Hektora z Andromachą
-
 
 Bitwa trwa. Grecy zdobywają przewagę. Hektor, widząc to, wraca do miasta, by nakazać kobietom złożenie ofiar Atenie. W mieście spotyka swoją matkę Hekabe, a następnie Helenę i Parysa, którego karci za unikanie walki. Na koniec idzie pożegnać się z żoną Andromachą i synkiem Astyanaksem. To jedna z najbardziej wzruszających scen w eposie. Andromacha błaga go, by nie wracał do walki, ale Hektor tłumaczy jej, że honor i obowiązek mu na to nie pozwalają.
       * OPIS WIZUALNY KLUCZOWEJ SCENY (Pożegnanie):
@@ -321,68 +223,45 @@ Bitwa trwa. Grecy zdobywają przewagę. Hektor, widząc to, wraca do miasta, by 
       * Kto jest obecny: Hektor w pełnej, zakurzonej zbroi. Andromacha w długiej, prostej szacie, trzyma na rękach małego Astyanaksa. Twarz Andromachy jest pełna łez i lęku.
       * Dynamika sceny: Hektor wyciąga ręce do syna, ale dziecko płacze, przestraszone lśniącym hełmem i powiewającym pióropuszem. Hektor śmieje się, zdejmuje hełm i kładzie go na ziemi. Bierze syna na ręce, całuje go i modli się za jego przyszłość. Następnie oddaje go żonie, delikatnie gładzi jej policzek i odchodzi, zakładając z powrotem hełm. Andromacha patrzy za nim, płacząc.
 
-
 Księga 7: Pojedynek Hektora z Ajasem
-
 
 Hektor wraca na pole bitwy i wyzywa Greków na kolejny pojedynek. Wyzwanie podejmuje Ajas Wielki. Walka jest niezwykle zacięta i wyrównana. Bohaterowie ciskają w siebie włóczniami, a potem ogromnymi głazami. Pojedynek przerywa zmrok. Hektor i Ajas, pełni wzajemnego szacunku, wymieniają się darami i rozchodzą. Grecy, za radą Nestora, postanawiają zbudować mur i fosę wokół swojego obozu.
 
-
 Księga 8: Przewaga Trojan
-
 
 Zeus zakazuje bogom dalszej interwencji w wojnę i sam przejmuje kontrolę. Siada na górze Ida i waży na złotych wagach losy obu armii. Szala Greków opada, co jest znakiem ich klęski. Zeus ciska pioruny w szeregi Achajów, którzy w panice uciekają za nowo wzniesiony mur. Trojanie, prowadzeni przez Hektora, podchodzą pod sam obóz Greków i rozbijają obozowisko na równinie, by o świcie przypuścić ostateczny szturm. Nocą na równinie płoną tysiące trojańskich ognisk.
 
-
 Księga 9: Poselstwo do Achillesa
-
 
 Agamemnon, zrozpaczony klęską, jest gotów przyznać się do błędu. Zwołuje naradę i proponuje wysłanie do Achillesa poselstwa z przeprosinami i bogatymi darami, w tym ze zwrotem Briseidy. Odyseusz, Ajas i stary wychowawca Achillesa, Fojniks, udają się do jego namiotu. Zastają go grającego na lirze. Odyseusz przedstawia ofertę Agamemnona, ale Achilles, wciąż pełen gniewu i goryczy, odrzuca ją. Oświadcza, że następnego dnia odpływa do domu, wybierając długie, spokojne życie zamiast krótkiego, ale pełnego chwały.
 
-
 Księga 10: Wyprawa zwiadowcza
-
 
 W nocy Grecy wysyłają na zwiad Diomedesa i Odyseusza. W tym samym czasie Trojanie wysyłają swojego szpiega, Dolona. Grecy chwytają Dolona, który w zamian za obietnicę ocalenia zdradza im pozycje wojsk trojańskich i ich sojuszników. Odyseusz i Diomedes zabijają Dolona, a następnie zakradają się do obozu niedawno przybyłych Traków. Zabijają ich króla, Resosa, i dwunastu jego ludzi, po czym uprowadzają jego wspaniałe, białe konie.
 
-
 Księgi 11-15: Wielka bitwa i szturm na okręty
-
 
 Bitwa wybucha na nowo. Agamemnon walczy dzielnie, ale zostaje ranny i musi wycofać się z walki. Ranni zostają także Diomedes i Odyseusz. Trojanie, prowadzeni przez Hektora, przełamują grecki mur obronny. Walka przenosi się na plażę, bezpośrednio do okrętów. Sytuacja Greków jest rozpaczliwa. W tym czasie Hera, widząc klęskę swoich ulubieńców, postanawia uśpić czujność Zeusa. Użyczonym od Afrodyty pasem miłości uwodzi go na górze Ida, a bóg Sen pogrąża go we śnie. Pod nieobecność Zeusa, Posejdon z nową siłą zagrzewa Greków do walki. Ajas ciska w Hektora ogromnym głazem, powalając go i zmuszając Trojan do odwrotu. Jednak Zeus wkrótce się budzi i, wściekły, nakazuje Posejdonowi opuścić pole bitwy. Wysyła Apolla, by uleczył Hektora i na nowo tchnął w Trojan ducha walki. Trojanie ponownie szturmują i docierają do pierwszego z greckich okrętów, podpalając go.
 
-
 Księga 16: Śmierć Patroklosa
-
 
 Patroklos, widząc płonące okręty, błaga Achillesa, by pozwolił mu poprowadzić Myrmidonów do walki. Achilles zgadza się, pożycza mu swoją zbroję, ale nakazuje, by tylko odparł Trojan od okrętów i nie ścigał ich pod mury Troi. Pojawienie się postaci w zbroi Achillesa wywołuje panikę wśród Trojan, którzy zaczynają uciekać. Patroklos walczy jak opętany, zabijając wielu wrogów, w tym Sarpedona, syna Zeusa. Uniesiony sukcesem, zapomina o przestrodze Achillesa i goni Trojan aż pod mury miasta. Tam zostaje ogłuszony przez Apolla, raniony przez Euforbosa i ostatecznie zabity przez Hektora, który zdziera z niego zbroję Achillesa.
 
-
 Księga 17: Walka o ciało Patroklosa
-
 
 Wokół nagich zwłok Patroklosa wybucha zaciekła bitwa. Menelaos i Ajas bronią ciała przed Trojanami, którzy chcą je zbezcześcić. Hektor, dumny ze swojego trofeum, zakłada zbroję Achillesa. Walka trwa wiele godzin, a obie strony ponoszą ciężkie straty. W końcu Grekom udaje się porwać ciało i zanieść je z powrotem do obozu.
 
-
 Księga 18: Nowa zbroja Achillesa
-
 
 Achilles dowiaduje się o śmierci Patroklosa. Jego żal jest bezgraniczny. Rozpacza, tarzając się w pyle. Jego matka, Tetyda, przybywa, by go pocieszyć. Achilles postanawia pomścić przyjaciela, nawet za cenę własnego życia, które, jak wie z przepowiedni, ma nastąpić wkrótce po śmierci Hektora. Ponieważ nie ma zbroi, Tetyda udaje się na Olimp do boga-kowala, Hefajstosa, i prosi go o wykonanie nowego uzbrojenia dla syna. Hefajstos wykuwa wspaniałą zbroję, a zwłaszcza cudowną tarczę, na której przedstawia cały świat: ziemię, niebo, morze, słońce, księżyc, gwiazdy oraz sceny z życia ludzkiego w czasie pokoju i wojny.
 
-
 Księgi 19-21: Powrót Achillesa
-
 
 Achilles, ubrany w nową, lśniącą zbroję, zwołuje Greków. Publicznie godzi się z Agamemnonem i wyrzeka się gniewu. Wraca na pole bitwy. Jego szaleństwo bojowe (aristeia) jest przerażające. Zabija każdego, kto stanie mu na drodze. Rzeka Skamander, której wody czerwienieją od krwi i zapełniają się trupami, występuje przeciwko niemu i próbuje go utopić. Achillesa ratuje interwencja Hefajstosa, który ogniem osusza rzekę. Bogowie również włączają się do walki, walcząc między sobą.
 
-
 3. Punkt kulminacyjny
 
-
-
-
 Księga 22: Pojedynek Achillesa i Hektora
-
 
 Trojanie uciekają w panice do miasta. Jedynie Hektor, mimo błagań rodziców obserwujących go z murów, postanawia stawić czoła Achillesowi. Jednak na widok nadbiegającego wroga ogarnia go strach i zaczyna uciekać. Achilles ściga go, trzykrotnie okrążając mury Troi. W końcu Atena, przybierając postać brata Hektora, Deifobosa, oszukuje go i namawia do walki. Hektor staje do pojedynku. Szybko zdaje sobie sprawę z podstępu, ale walczy z odwagą. Achilles, znając słaby punkt swojej starej zbroi, którą nosi Hektor, zadaje mu śmiertelny cios włócznią w szyję.
       * PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ:
@@ -392,20 +271,13 @@ Trojanie uciekają w panice do miasta. Jedynie Hektor, mimo błagań rodziców o
       * Emocje i napięcie: Twarz Hektora pokazuje kolejne etapy: determinację, strach, desperację, rezygnację i wreszcie godność w obliczu śmierci. Twarz Achillesa jest maską nieubłaganego, zimnego gniewu. Napięcie budowane jest przez kontrast między heroiczną walką a boską manipulacją.
       * Konsekwencje: Po zabiciu Hektora, Achilles, wciąż owładnięty furią, bezcześci jego zwłoki. Przebija mu ścięgna w kostkach, przywiązuje ciało do rydwanu i ciągnie je w pyle wokół murów miasta na oczach zrozpaczonej rodziny.
 
-
 4. Rozwiązanie
-
-
-
 
 Księga 23: Igrzyska pogrzebowe na cześć Patroklosa
 
-
 Achilles urządza wspaniały pogrzeb Patroklosowi. Na stosie pogrzebowym składa w ofierze dwunastu trojańskich jeńców. Następnie organizuje igrzyska sportowe na cześć przyjaciela: wyścig rydwanów, boks, zapasy, bieg. Igrzyska są sposobem na przywrócenie porządku w obozie i uczczenie pamięci zmarłego, ale gniew Achillesa wciąż nie gaśnie – codziennie rano wywleka ciało Hektora i ciągnie je wokół grobu Patroklosa.
 
-
 Księga 24: Wykupienie ciała Hektora
-
 
 Bogom nie podoba się bezczeszczenie zwłok Hektora. Zeus postanawia interweniować. Wysyła Tetydę do Achillesa, by nakazała mu oddać ciało, a Hermesa do Priama, by poprowadził go bezpiecznie do greckiego obozu. Nocą stary Priam, z wozem pełnym skarbów, przybywa do namiotu Achillesa.
       * OPIS WIZUALNY SCENY KOŃCOWEJ:
@@ -414,14 +286,9 @@ Bogom nie podoba się bezczeszczenie zwłok Hektora. Zeus postanawia interweniow
       * Emocje: Twarz Priama wyraża bezgraniczny ból i pokorę. Achilles jest zszokowany, a potem, gdy Priam wspomina jego własnego ojca, Peleusa, wybucha płaczem. Obaj mężczyźni, morderca i ojciec ofiary, płaczą razem – jeden za ojcem i przyjacielem, drugi za synem. To moment katharsis, w którym gniew Achillesa ustępuje miejsca współczuciu i zrozumieniu wspólnego ludzkiego losu.
       * Zakończenie: Achilles przyjmuje okup, oddaje ciało Hektora i zgadza się na dwunastodniowy rozejm, by Trojanie mogli godnie pochować swojego bohatera. Epos kończy się nie upadkiem Troi, ale opisem pogrzebu Hektora, „pogromcy koni”. Przesłanie jest jasne: nawet w najbrutalniejszej wojnie istnieje wspólne człowieczeństwo, oparte na szacunku dla zmarłych i współczuciu dla cierpiących.
 
-
 CZĘŚĆ V: TEMATY I MOTYWY
 
-
-
-
 1. Główne tematy
-
 
 Iliada jest dziełem o niezwykłej głębi tematycznej, poruszającym uniwersalne kwestie, które zachowują swoją aktualność mimo upływu tysiącleci. Centralne tematy eposu splatają się ze sobą, tworząc złożony obraz ludzkiej kondycji w obliczu wojny, losu i śmiertelności.
       * Gniew (Mēnis): To pierwsze słowo poematu i jego główny motor napędowy. Gniew Achillesa nie jest zwykłą złością; to kosmiczna, niszczycielska siła, która narusza porządek społeczny i boski.1 Jego gniew na Agamemnona prowadzi do śmierci tysięcy Achajów, a jego późniejszy gniew na Hektora prowadzi do zbezczeszczenia zwłok i przekroczenia wszelkich ludzkich norm. Poemat jest dogłębną analizą destrukcyjnej natury niekontrolowanej pasji i jej katastrofalnych konsekwencji zarówno dla jednostki, jak i dla społeczności.
@@ -430,281 +297,248 @@ Iliada jest dziełem o niezwykłej głębi tematycznej, poruszającym uniwersaln
       * Los (Moira) i Wola Bogów: Ludzkie życie w Iliadzie jest zdeterminowane przez los (moira), siłę, której nawet Zeus nie może się w pełni przeciwstawić. Bogowie mogą interweniować, pomagać swoim ulubieńcom lub szkodzić wrogom, ale ostateczny wynik – śmierć Hektora, śmierć Achillesa, upadek Troi – jest z góry przesądzony. Działania bogów są często kapryśne, małostkowe i napędzane ludzkimi namiętnościami: dumą, zazdrością, pożądaniem. Ta dwoistość – nieuchronność losu i chaotyczne interwencje boskie – tworzy tragiczny obraz ludzkiej egzystencji, w której bohaterowie walczą o godność i chwałę w świecie, nad którym nie mają pełnej kontroli.
       * Człowieczeństwo w Obliczu Śmierci: Iliada jest przede wszystkim poematem o śmiertelności.16 W przeciwieństwie do bogów, którzy są nieśmiertelni i których cierpienia są chwilowe, ludzie muszą stawić czoła ostateczności śmierci. To właśnie świadomość śmierci nadaje sens ich czynom, odwadze i miłości. Najgłębsze momenty człowieczeństwa w eposie pojawiają się w obliczu straty: żal Achillesa po śmierci Patroklosa, rozpacz Priama po stracie Hektora. Ostateczne spotkanie Achillesa i Priama w Księdze 24 jest triumfem człowieczeństwa, gdy dwaj śmiertelni wrogowie odnajdują wspólnotę w cierpieniu i wzajemnym szacunku, przekraczając logikę wojny i nienawiści.
 
-
 2. Motywy literackie
-
 
       * Zbroja: Zbroja jest w Iliadzie potężnym symbolem tożsamości, statusu i przeznaczenia. Nie jest to tylko sprzęt ochronny, ale zewnętrzna manifestacja siły i honoru bohatera. Zbroja Achillesa jest centralnym motywem: gdy nosi ją Patroklos, daje mu ona siłę, ale prowadzi go też do zguby. Gdy Hektor zdziera ją z ciała Patroklosa i sam ją zakłada, symbolicznie przejmuje na siebie los Achillesa – chwałę, ale i nieuchronną śmierć z jego ręki. Nowa, boska zbroja wykuta przez Hefajstosa, czyni Achillesa niemal nietykalnym, ale jednocześnie izoluje go od reszty śmiertelników, podkreślając jego tragiczną, nieludzką już niemal furię.
       * Ogień: Motyw ognia przewija się przez cały poemat, symbolizując zarówno zniszczenie, jak i oczyszczenie. Ogień trawi stosy pogrzebowe ofiar zarazy i poległych wojowników. Ogień jest groźbą, gdy Trojanie próbują podpalić greckie statki. Ale ogień jest też siłą boską – Hefajstos, bóg ognia, wykuwa zbroję i walczy z bogiem rzeki. Stos pogrzebowy Patroklosa jest miejscem ofiary i transformacji. Ogień jest więc żywiołem ambiwalentnym, niosącym śmierć i zniszczenie, ale także będącym narzędziem bogów i elementem świętych rytuałów.
       * Obrzędy pogrzebowe: Właściwy pochówek jest w świecie Iliady absolutnie kluczowy dla zachowania honoru zmarłego i zapewnienia spokoju jego duszy. Walka o ciało Patroklosa i późniejsza misja Priama, by odzyskać ciało Hektora, zajmują znaczną część poematu. Bezczeszczenie zwłok Hektora przez Achillesa jest jego największym wykroczeniem przeciwko ludzkim i boskim prawom. Epos kończy się nie opisem zwycięstwa, ale pogrzebem – rytuałem, który przywraca porządek i godność, podkreślając, że szacunek dla zmarłych jest fundamentem cywilizacji.
       * Mury Troi: Mury są potężnym symbolem miasta, cywilizacji, porządku i bezpieczeństwa w opozycji do chaosu i brutalności wojny na równinie. Są dziełem bogów, co podkreśla ich siłę. To na murach rozgrywają się sceny domowe i polityczne (obserwacja bitwy, pożegnanie Hektora). Przełamanie murów oznaczałoby ostateczny upadek Troi. Przez cały poemat mury trwają, stanowiąc niemy, kamienny świadek ludzkiej tragedii.
 
-
 3. Problematyka moralna
-
 
 Iliada nie przedstawia prostego, czarno-białego konfliktu dobra ze złem. Obie strony konfliktu mają swoje racje i obie ponoszą straszliwe cierpienia. Grecy walczą o odzyskanie honoru, ale ich przywódca, Agamemnon, jest arogancki i chciwy. Trojanie bronią swojego domu, ale ich książę, Parys, dopuścił się zdrady i tchórzostwa. Poemat stawia przed czytelnikiem złożone dylematy etyczne: Gdzie leży granica między heroicznym gniewem a nieludzką brutalnością? Czy osobisty honor jest ważniejszy niż dobro wspólnoty? Jaka jest odpowiedzialność jednostki za cierpienie zbiorowości? Homer nie daje łatwych odpowiedzi. Przedstawia bohaterów w całej ich złożoności, z ich cnotami i wadami, zmuszając odbiorcę do refleksji nad naturą wojny, sprawiedliwości i ludzkiej odpowiedzialności. Ostateczne przesłanie wydaje się być głęboko humanistyczne: największym zwycięstwem nie jest pokonanie wroga, ale odnalezienie w sobie współczucia i zdolności do przebaczenia.
 
-
 CZĘŚĆ VI: STYL I TECHNIKA
 
-
-
-
 1. Język i styl
-
 
 Język Iliady jest podniosły, uroczysty i archaiczny. Jest to sztuczny język literacki, tzw. greka homerycka, mieszanka różnych dialektów (głównie jońskiego i eolskiego) i form gramatycznych z różnych okresów.2 Taki język nigdy nie był używany w codziennej mowie; jego celem było stworzenie dystansu i nadanie opowieści monumentalnego, ponadczasowego charakteru. Styl charakteryzuje się powagą i patosem, ale nie jest pozbawiony momentów lirycznych (opisy przyrody w porównaniach) czy nawet humoru (sceny kłótni między bogami na Olimpie).
       * Epitety stałe: Jedną z najbardziej rozpoznawalnych cech stylu homeryckiego jest użycie stałych epitetów – przymiotników lub krótkich fraz, które regularnie towarzyszą imionom postaci lub obiektów. Mamy więc „szybkobiegiego Achillesa”, „Hektora o lśniącym hełmie”, „białoramienną Herę” czy „okręty o czarnych dziobach”.2 W poezji oralnej epitety pełniły funkcję mnemotechniczną, ułatwiając bardowi improwizację w ramach ścisłego metrum (heksametru daktylicznego). Jednocześnie nadają one postaciom ikoniczny, niemal archetypiczny wymiar, podkreślając ich najważniejszą cechę.
       * Porównania homeryckie: To rozbudowane, często kilkunastowersowe porównania, które przerywają narrację, by szczegółowo opisać jakąś scenę lub emocję poprzez odwołanie do innego obrazu. Zazwyczaj porównują one brutalne sceny bitewne do zjawisk ze świata natury (lew atakujący stado, szalejąca burza, pożar lasu) lub scen z życia codziennego w czasie pokoju (praca rolnika, pasterza, rzemieślnika).2 Tworzy to potężny kontrast i pozwala słuchaczom na chwilę wytchnienia od grozy wojny, jednocześnie pogłębiając ich zrozumienie opisywanych wydarzeń. Dla adaptacji wizualnej porównania te są gotowymi scenariuszami na krótkie, symboliczne wstawki filmowe, które mogą wzbogacić narrację wizualną.
       * Dialogi: Dialogi i mowy stanowią znaczną część eposu. Są one długie, formalne i stylizowane. Postacie nie prowadzą potocznych rozmów, lecz wygłaszają uroczyste przemowy, pełne retorycznych figur i odwołań do mitów i genealogii. Ten styl podkreśla wagę wypowiadanych słów i status mówców.
 
-
 2. Techniki narracyjne
-
 
       * Typ narratora: Narrator w Iliadzie jest wszechwiedzący i obiektywny. Zna myśli i uczucia wszystkich postaci, zarówno ludzi, jak i bogów. Wie, co wydarzyło się w przeszłości i co ma się stać w przyszłości. Mimo tej wszechwiedzy, jego ton jest powściągliwy i beznamiętny. Opisuje najstraszliwsze sceny rzezi z takim samym spokojem, jak sceny uczt na Olimpie. Ta obiektywna perspektywa nadaje opowieści wrażenie nieuchronności i monumentalnej prawdy.
       * Inwokacja: Epos rozpoczyna się od inwokacji – uroczystego zwrotu do Muzy z prośbą o natchnienie i pomoc w opowiedzeniu historii. To tradycyjny element gatunku, który podkreśla, że poeta nie jest autorem opowieści, lecz jedynie przekaźnikiem boskiej, obiektywnej prawdy.2
       * Retrospekcje i zapowiedzi: Mimo że akcja toczy się chronologicznie, narrator często używa retrospekcji (w mowach postaci, które wspominają przeszłość) i zapowiedzi (gdy przepowiada przyszłe wydarzenia), aby poszerzyć perspektywę czasową i nadać wydarzeniom głębszy, tragiczny wymiar.
       * Techniki budowania napięcia: Napięcie budowane jest nie przez niepewność co do wyniku (ten jest z góry znany), ale przez opóźnianie nieuchronnego i skupianie się na psychologicznych zmaganiach postaci. Długie opisy, dygresje i rozbudowane porównania celowo spowalniają akcję, potęgując oczekiwanie na kluczowe momenty, takie jak pojedynek Achillesa i Hektora.
 
-
 3. Struktura kompozycyjna
-
 
       * Podział na księgi: Podział Iliady na 24 księgi (odpowiadające 24 literom alfabetu greckiego) nie pochodzi od samego Homera, lecz został wprowadzony przez aleksandryjskich filologów.1 Jest to jednak podział logiczny, który dobrze oddaje strukturę epizodyczną dzieła.
       * Kompozycja pierścieniowa: Narracja Iliady często wykorzystuje strukturę pierścieniową (chiastyczną), w której opowieść zaczyna się i kończy podobnymi motywami lub scenami, tworząc zamkniętą, symetryczną całość. Cały poemat jest przykładem takiej struktury: zaczyna się od gniewu, upokorzenia i chaosu w obozie greckim, a kończy na pojednaniu, przywróceniu honoru (zmarłemu Hektorowi) i porządku (rozejm). Wiele mniejszych epizodów również ma taką budowę.2
       * Rytm narracji: Rytm narracji jest zmienny. Długie, statyczne sceny mów i narad przeplatają się z niezwykle dynamicznymi, szybkimi opisami bitew. Ta zmiana tempa utrzymuje uwagę słuchacza/czytelnika i pozwala na budowanie złożonego, wielowymiarowego świata.
 
-
 CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
 
-
-
-
 1. Interpretacje krytyczne
-
 
 Iliada od wieków jest przedmiotem niezliczonych interpretacji. W starożytności filozofowie, tacy jak Platon, krytykowali Homera za przedstawianie bogów jako istot małostkowych i niemoralnych, podczas gdy inni, jak stoicy, odczytywali epos alegorycznie, doszukując się w nim głębszych prawd filozoficznych i fizycznych.19 W czasach nowożytnych, wraz z rozwojem filologii, dominowały spory historyczne i tekstologiczne (kwestia homerycka).
 Współczesne odczytania często skupiają się na psychologicznej głębi postaci, analizując gniew Achillesa w kategoriach traumy i PTSD.22 Interpretacje feministyczne badają rolę kobiet w patriarchalnym świecie eposu, ukazując ich siłę i sprawczość w ograniczonych ramach społecznych. Analizy postkolonialne zwracają uwagę na fakt, że
 Iliada jest opowieścią najeźdźców, i próbują odczytać historię z perspektywy oblężonych Trojan, dla których Hektor jest tragicznym bohaterem narodowym. Niezależnie od podejścia, Iliada pozostaje tekstem otwartym, który wciąż prowokuje do nowych odczytań i zadawania fundamentalnych pytań o naturę człowieka.
 
-
 2. Znaczenie kulturowe
-
 
 Znaczenie Iliady dla kultury zachodniej jest trudne do przecenienia. Jest to tekst założycielski, który ukształtował europejską literaturę, sztukę, filozofię i poczucie tożsamości.6
       * Wpływ na literaturę: Iliada ustanowiła gatunek eposu i archetyp bohatera tragicznego. Jej wpływ jest widoczny w twórczości Wergiliusza (Eneida), Dantego, Miltona, Szekspira i niezliczonych późniejszych pisarzy. Motywy homeryckie, takie jak gniew, zemsta, dylemat między chwałą a życiem, stały się stałym elementem literackiego repertuaru.
       * Adaptacje: Historia wojny trojańskiej była adaptowana niezliczoną ilość razy w różnych mediach: w tragediach greckich (Ajschylos, Sofokles, Eurypides), w malarstwie (od greckich waz po neoklasycyzm Jacques'a-Louisa Davida), w operze, a w XX i XXI wieku w kinie (np. „Troja” Wolfganga Petersena) i literaturze (np. „Pieśń o Achillesie” Madeline Miller). Każda epoka na nowo odczytuje i interpretuje mit trojański, dostosowując go do własnych lęków i wartości.
       * Miejsce w kanonie: Iliada zajmuje centralne miejsce w kanonie literatury światowej.22 Jest to dzieło, do którego nieustannie powracamy, by zrozumieć korzenie naszej cywilizacji i zmierzyć się z ponadczasowymi pytaniami o sens wojny, honoru i ludzkiego losu.
 
-
 3. Aktualność przesłania
-
 
 Mimo że Iliada opisuje odległy, brutalny świat, jej przesłanie pozostaje niezwykle aktualne. Jest to przede wszystkim głęboka medytacja nad niszczycielską naturą wojny. Homer nie gloryfikuje walki; pokazuje jej bezsensowną brutalność, cierpienie, jakie przynosi obu stronom, i tragiczną stratę ludzkiego życia. Sceny takie jak pożegnanie Hektora z rodziną czy spotkanie Priama z Achillesem mają potężny ładunek antywojenny.
 Uniwersalne wartości, takie jak przyjaźń, lojalność, odwaga i współczucie, są wciąż aktualne. Dylematy bohaterów – wybór między osobistym szczęściem a obowiązkiem, między gniewem a przebaczeniem – rezonują ze współczesnym czytelnikiem. Ostateczna lekcja moralna Iliady wydaje się być taka, że w obliczu nieuchronnej śmierci i cierpienia jedyną prawdziwą wartością jest człowieczeństwo – zdolność do empatii i rozpoznania bólu drugiego człowieka, nawet jeśli jest on naszym wrogiem. To przesłanie sprawia, że Iliada nie jest tylko zabytkiem literatury, ale żywym dziełem, które wciąż ma nam wiele do powiedzenia o nas samych.
 
-
 CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
-
-
-
 
 1. Katalog postaci z opisami wizualnymi
 
-
 Poniższa tabela stanowi skondensowany przewodnik wizualny dla kluczowych postaci, syntetyzując informacje z tekstu, późniejszych tradycji i kontekstu archeologicznego.
 Imię
-	Frakcja
-	Wiek (ok.)
-	Wzrost/Budowa
-	Włosy/Oczy
-	Ubiór/Zbroja
-	Rekwizyty
-	Uwagi
-	Achilles
-	Achaj
-	25
-	Wysoki, atletyczny, boski
-	Długie, złote / Zielone (tradycja)
-	Boska zbroja od Hefajstosa, lśniąca jak ogień
-	Włócznia z jesionu, tarcza z obrazem kosmosu
-	Szybkonogi, porusza się z gracją drapieżnika, niezwykle ekspresyjny
-	Hektor
-	Trojanin
-	35
-	Wysoki, potężny, ludzki
-	Ciemne (domniemane)
-	Trojańska zbroja z brązu, hełm z pióropuszem
-	Włócznia, miecz
-	Opanowany, pełen godności, ucieleśnienie obowiązku
-	Agamemnon
-	Achaj
-	45
-	Wysoki, postawny
-	Ciemne (domniemane)
-	Najbogatsza zbroja, królewskie szaty
-	Złote berło Hefajstosa
-	Arogancki, władczy, jego twarz często wyraża niepewność
-	Odyseusz
-	Achaj
-	40
-	Niższy, krępy, szeroki w barach
-	Ciemne (domniemane)
-	Funkcjonalna zbroja z brązu
-	Włócznia
-	Bystre, inteligentne spojrzenie, mistrz perswazji
-	Ajas Wielki
-	Achaj
-	35
-	Olbrzymi, kolosalny
-	Ciemne, kręcone
-	Prosta, masywna zbroja
-	Ogromna tarcza wieżowa
-	Uosobienie siły fizycznej i niezłomności
-	Priam
-	Trojanin
-	70
-	Zgarbiony, szczupły
-	Długie, siwe włosy i broda
-	Długie, królewskie szaty
-	Laska
-	Twarz poorana zmarszczkami, wyrażająca smutek i godność
-	Parys
-	Trojanin
-	28
-	Wysoki, smukły, przystojny
-	Jasne, kręcone
-	Lekka, zdobiona zbroja, skóra pantery
-	Łuk i strzały
-	Zniewieściały, czarujący, ale tchórzliwy
-	Helena
-	Trojanin
-	30
-	Idealna, posągowa
-	Złote (tradycja) / Niebieskie (tradycja)
-	Bogate, wielowarstwowe suknie w stylu mykeńskim
-	Brak
-	Jej uroda jest nadludzka, niemal niepokojąca
-	Zeus
-	Bóg
-	Dojrzały
-	Majestatyczny, potężny
-	Długa, ciemna broda i włosy
-	Długie szaty
-	Piorun, berło, orzeł
-	Król bogów, jego spojrzenie wyraża władzę i wszechwiedzę
-	Hera
-	Bogini
-	Dojrzała
-	Majestatyczna, królewska
-	Ciemne (domniemane) / Duże, ciemne oczy
-	Królewska korona (polos), bogate szaty
-	Berło
-	Dumna, zazdrosna, jej epitet to "krowiooka"
-	Atena
-	Bogini
-	Młoda dorosła
-	Wysoka, silna, surowa
-	Szare/niebieskie oczy
-	Hełm, egida z głową Gorgony, zbroja
-	Włócznia, tarcza
-	Jej epitet to "jasnooka", uosobienie mądrości wojennej
-	Apollo
-	Bóg
-	Młodzieniec
-	Idealnie zbudowany, bez brody
-	Długie, złote włosy
-	Proste szaty
-	Srebrny łuk, lira
-	Uosobienie młodzieńczego, boskiego piękna
-	
+    Frakcja
+    Wiek (ok.)
+    Wzrost/Budowa
+    Włosy/Oczy
+    Ubiór/Zbroja
+    Rekwizyty
+    Uwagi
+    Achilles
+    Achaj
+    25
+    Wysoki, atletyczny, boski
+    Długie, złote / Zielone (tradycja)
+    Boska zbroja od Hefajstosa, lśniąca jak ogień
+    Włócznia z jesionu, tarcza z obrazem kosmosu
+    Szybkonogi, porusza się z gracją drapieżnika, niezwykle ekspresyjny
+    Hektor
+    Trojanin
+    35
+    Wysoki, potężny, ludzki
+    Ciemne (domniemane)
+    Trojańska zbroja z brązu, hełm z pióropuszem
+    Włócznia, miecz
+    Opanowany, pełen godności, ucieleśnienie obowiązku
+    Agamemnon
+    Achaj
+    45
+    Wysoki, postawny
+    Ciemne (domniemane)
+    Najbogatsza zbroja, królewskie szaty
+    Złote berło Hefajstosa
+    Arogancki, władczy, jego twarz często wyraża niepewność
+    Odyseusz
+    Achaj
+    40
+    Niższy, krępy, szeroki w barach
+    Ciemne (domniemane)
+    Funkcjonalna zbroja z brązu
+    Włócznia
+    Bystre, inteligentne spojrzenie, mistrz perswazji
+    Ajas Wielki
+    Achaj
+    35
+    Olbrzymi, kolosalny
+    Ciemne, kręcone
+    Prosta, masywna zbroja
+    Ogromna tarcza wieżowa
+    Uosobienie siły fizycznej i niezłomności
+    Priam
+    Trojanin
+    70
+    Zgarbiony, szczupły
+    Długie, siwe włosy i broda
+    Długie, królewskie szaty
+    Laska
+    Twarz poorana zmarszczkami, wyrażająca smutek i godność
+    Parys
+    Trojanin
+    28
+    Wysoki, smukły, przystojny
+    Jasne, kręcone
+    Lekka, zdobiona zbroja, skóra pantery
+    Łuk i strzały
+    Zniewieściały, czarujący, ale tchórzliwy
+    Helena
+    Trojanin
+    30
+    Idealna, posągowa
+    Złote (tradycja) / Niebieskie (tradycja)
+    Bogate, wielowarstwowe suknie w stylu mykeńskim
+    Brak
+    Jej uroda jest nadludzka, niemal niepokojąca
+    Zeus
+    Bóg
+    Dojrzały
+    Majestatyczny, potężny
+    Długa, ciemna broda i włosy
+    Długie szaty
+    Piorun, berło, orzeł
+    Król bogów, jego spojrzenie wyraża władzę i wszechwiedzę
+    Hera
+    Bogini
+    Dojrzała
+    Majestatyczna, królewska
+    Ciemne (domniemane) / Duże, ciemne oczy
+    Królewska korona (polos), bogate szaty
+    Berło
+    Dumna, zazdrosna, jej epitet to "krowiooka"
+    Atena
+    Bogini
+    Młoda dorosła
+    Wysoka, silna, surowa
+    Szare/niebieskie oczy
+    Hełm, egida z głową Gorgony, zbroja
+    Włócznia, tarcza
+    Jej epitet to "jasnooka", uosobienie mądrości wojennej
+    Apollo
+    Bóg
+    Młodzieniec
+    Idealnie zbudowany, bez brody
+    Długie, złote włosy
+    Proste szaty
+    Srebrny łuk, lira
+    Uosobienie młodzieńczego, boskiego piękna
 
 2. Katalog lokacji
 
-
 Lokacja
-	Opis Architektoniczny/Krajobrazowy
-	Dominująca Paleta Kolorów
-	Oświetlenie
-	Atmosfera/Dźwięki/Zapachy
-	Kluczowe Elementy
-	Troja (Cytadela)
-	Masywne mury z wapienia, baszty, brukowane ulice, megarony
-	Jasny beż, ochra, brąz, akcenty czerwieni i błękitu na freskach
-	Ostre, południowe słońce, cienie rzucane przez mury
-	Oblężenie, kurz, odległy zgiełk bitwy, dym z palenisk
-	Brama Skajska, Pałac Priama, świątynie
-	Obóz Achajów
-	Czarne statki na plaży, drewniane szałasy, wał obronny z palisadą
-	Czerń smoły, brąz drewna, szarość piasku, błękit morza
-	Ogień ognisk w nocy, ostre słońce w dzień
-	Chaos, zapach soli, dymu i potu, szum morza, rżenie koni
-	Namiot Achillesa, miejsce zgromadzeń (agora), stosy pogrzebowe
-	Pole Bitwy
-	Płaska, pylista równina przecięta rzeką Skamander
-	Brązy, szarości, ochra, czerwień krwi
-	Oślepiające słońce, tumany kurzu
-	Zgiełk bitwy: krzyki, brzęk broni, tętent kopyt; zapach potu, krwi i śmierci
-	Rzeka Skamander, pojedyncze drzewa, kurhany grobowe
-	Olimp
-	Pałace ze złota i marmuru na szczycie góry, ponad chmurami
-	Biel, złoto, błękit nieba
-	Wieczne, jasne światło słoneczne
-	Spokój, harmonia, boski majestat, brak wiatru i deszczu
-	Sala tronowa Zeusa, kuźnia Hefajstosa, pałace bogów
-	
+    Opis Architektoniczny/Krajobrazowy
+    Dominująca Paleta Kolorów
+    Oświetlenie
+    Atmosfera/Dźwięki/Zapachy
+    Kluczowe Elementy
+    Troja (Cytadela)
+    Masywne mury z wapienia, baszty, brukowane ulice, megarony
+    Jasny beż, ochra, brąz, akcenty czerwieni i błękitu na freskach
+    Ostre, południowe słońce, cienie rzucane przez mury
+    Oblężenie, kurz, odległy zgiełk bitwy, dym z palenisk
+    Brama Skajska, Pałac Priama, świątynie
+    Obóz Achajów
+    Czarne statki na plaży, drewniane szałasy, wał obronny z palisadą
+    Czerń smoły, brąz drewna, szarość piasku, błękit morza
+    Ogień ognisk w nocy, ostre słońce w dzień
+    Chaos, zapach soli, dymu i potu, szum morza, rżenie koni
+    Namiot Achillesa, miejsce zgromadzeń (agora), stosy pogrzebowe
+    Pole Bitwy
+    Płaska, pylista równina przecięta rzeką Skamander
+    Brązy, szarości, ochra, czerwień krwi
+    Oślepiające słońce, tumany kurzu
+    Zgiełk bitwy: krzyki, brzęk broni, tętent kopyt; zapach potu, krwi i śmierci
+    Rzeka Skamander, pojedyncze drzewa, kurhany grobowe
+    Olimp
+    Pałace ze złota i marmuru na szczycie góry, ponad chmurami
+    Biel, złoto, błękit nieba
+    Wieczne, jasne światło słoneczne
+    Spokój, harmonia, boski majestat, brak wiatru i deszczu
+    Sala tronowa Zeusa, kuźnia Hefajstosa, pałace bogów
 
 3. Kluczowe sceny do wizualizacji
 
-
 Scena (Księga)
-	Miejsce i Czas
-	Postacie i ich Pozycje
-	Ważne Przedmioty
-	Dynamika i Ruch
-	Emocje i Napięcie
-	Kłótnia (I)
-	Obóz Achajów, agora, dzień
-	Achilles i Agamemnon stoją naprzeciw siebie. Atena za Achillesem.
-	Berło Agamemnona, miecz Achillesa
-	Gwałtowna, werbalna konfrontacja, nagły, powstrzymany ruch Achillesa
-	Wrzący gniew, arogancja, strach obserwatorów
-	Pożegnanie (VI)
-	Brama Skajska, popołudnie
-	Hektor w zbroi, Andromacha z dzieckiem na ręku
-	Hełm Hektora z pióropuszem
-	Czułe, powolne gesty, kontrastujące z wojennym strojem
-	Miłość, lęk, smutek, poczucie nieuchronnego losu
-	Poselstwo (IX)
-	Namiot Achillesa, noc
-	Achilles gra na lirze, Patroklos słucha. Wchodzą Odyseusz, Ajas, Fojniks.
-	Lira, dary od Agamemnona
-	Statyczna scena, napięcie budowane przez długie mowy
-	Smutek Achillesa, nadzieja posłów, gorycz odmowy
-	Śmierć Patroklosa (XVI)
-	Pod murami Troi, dzień
-	Patroklos w zbroi Achillesa walczy, Apollo uderza go, Hektor dobija.
-	Zbroja Achillesa, włócznia Hektora
-	Chaotyczna walka, nagłe, boskie uderzenie, brutalny cios kończący
-	Heroiczna furia Patroklosa, szok, triumf Hektora
-	Pojedynek (XXII)
-	Przed murami Troi, zachód słońca
-	Achilles ściga Hektora. Stają do walki. Achilles zadaje śmiertelny cios.
-	Nowa zbroja Achillesa, włócznia, rydwan
-	Szybki, desperacki pościg; krótka, brutalna walka; bezczeszczenie zwłok
-	Strach i odwaga Hektora, zimna furia Achillesa, rozpacz Priama
-	Wykupienie (XXIV)
-	Namiot Achillesa, noc
-	Priam klęczy u stóp Achillesa, całuje jego ręce. Achilles podnosi go.
-	Skarby Priama, ciało Hektora
-	Niezwykły akt pokory, powolne, pełne szacunku gesty
-	Bezgraniczny żal, szok, rodzące się współczucie, katharsis
-	
+    Miejsce i Czas
+    Postacie i ich Pozycje
+    Ważne Przedmioty
+    Dynamika i Ruch
+    Emocje i Napięcie
+    Kłótnia (I)
+    Obóz Achajów, agora, dzień
+    Achilles i Agamemnon stoją naprzeciw siebie. Atena za Achillesem.
+    Berło Agamemnona, miecz Achillesa
+    Gwałtowna, werbalna konfrontacja, nagły, powstrzymany ruch Achillesa
+    Wrzący gniew, arogancja, strach obserwatorów
+    Pożegnanie (VI)
+    Brama Skajska, popołudnie
+    Hektor w zbroi, Andromacha z dzieckiem na ręku
+    Hełm Hektora z pióropuszem
+    Czułe, powolne gesty, kontrastujące z wojennym strojem
+    Miłość, lęk, smutek, poczucie nieuchronnego losu
+    Poselstwo (IX)
+    Namiot Achillesa, noc
+    Achilles gra na lirze, Patroklos słucha. Wchodzą Odyseusz, Ajas, Fojniks.
+    Lira, dary od Agamemnona
+    Statyczna scena, napięcie budowane przez długie mowy
+    Smutek Achillesa, nadzieja posłów, gorycz odmowy
+    Śmierć Patroklosa (XVI)
+    Pod murami Troi, dzień
+    Patroklos w zbroi Achillesa walczy, Apollo uderza go, Hektor dobija.
+    Zbroja Achillesa, włócznia Hektora
+    Chaotyczna walka, nagłe, boskie uderzenie, brutalny cios kończący
+    Heroiczna furia Patroklosa, szok, triumf Hektora
+    Pojedynek (XXII)
+    Przed murami Troi, zachód słońca
+    Achilles ściga Hektora. Stają do walki. Achilles zadaje śmiertelny cios.
+    Nowa zbroja Achillesa, włócznia, rydwan
+    Szybki, desperacki pościg; krótka, brutalna walka; bezczeszczenie zwłok
+    Strach i odwaga Hektora, zimna furia Achillesa, rozpacz Priama
+    Wykupienie (XXIV)
+    Namiot Achillesa, noc
+    Priam klęczy u stóp Achillesa, całuje jego ręce. Achilles podnosi go.
+    Skarby Priama, ciało Hektora
+    Niezwykły akt pokory, powolne, pełne szacunku gesty
+    Bezgraniczny żal, szok, rodzące się współczucie, katharsis
 
 4. Przedmioty i symbole wizualne
-
 
       * Tarcza Achillesa: Centralny symbol wizualny. Nie jest to zwykła tarcza, ale mikrokosmos. Powinna być przedstawiona jako okrągła, wykonana z pięciu warstw metalu (brąz, cyna, złoto, srebro), z misternymi, realistycznymi scenami ukazanymi w koncentrycznych kręgach. Sceny te to: niebo i ciała niebieskie, dwa miasta (jedno w pokoju, drugie w stanie wojny), sceny rolnicze i pasterskie, taniec, a na obrzeżu – rzeka Ocean.
       * Berło Agamemnona: Symbol władzy królewskiej i boskiego porządku. Długie, wykonane ze złota, wykute przez Hefajstosa, przekazywane z pokolenia na pokolenie. Jego powierzchnia powinna być gładka i lśniąca.

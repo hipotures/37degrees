@@ -1,24 +1,24 @@
-# Ocena zgodności z zasadami platform i klasyfikacja wiekowa
-## "Zbrodnia i kara" (Crime and Punishment) - Fiodor Dostojewski
+# Platform Compliance and Age Classification Assessment
+## "Crime and Punishment" - Fyodor Dostoevsky
 
-**Data oceny:** 25 sierpnia 2025  
-**Książka:** Zbrodnia i kara (1866)  
-**Autor:** Fiodor Dostojewski  
-**Status analizy:** Kompletna ocena 8 dokumentów researchu  
-
----
-
-## Streszczenie wykonawcze
-
-Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy **16+ age rating** dla większości platform z **edited content** dla niektórych platform społecznościowych. Główne problemy to: **explicite opisy morderstw**, **trauma psychiczna**, **suicidal ideation**, **gambling addiction** i **kontrowersyjne poglądy autora**. Książka zawiera wartościowe treści edukacyjne, ale wymaga odpowiedniego contextu i ostrzeżeń.
+**Assessment Date:** September 14, 2025
+**Book:** Crime and Punishment (1866)
+**Author:** Fyodor Dostoevsky
+**Analysis Status:** Complete assessment of 8 research documents
 
 ---
 
-## Macierz Ryzyka: Tematy vs Platformy
+## Executive Summary
 
-| Problematyczny temat | Facebook/Meta | YouTube | TikTok | Spotify | Kick | Instagram |
-|---------------------|---------------|---------|--------|---------|------|-----------|
-| **Morstwo/Przemoc** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🔴 HIGH |
+After analyzing comprehensive research materials on "Crime and Punishment," we recommend a **16+ age rating** for most platforms with **edited content** for select social media platforms. Primary concerns include: **explicit murder descriptions**, **psychological trauma**, **suicidal ideation**, **gambling addiction**, and **controversial author views**. The book contains valuable educational content but requires appropriate context and warnings.
+
+---
+
+## Risk Matrix: Problematic Topics vs Platforms
+
+| Problematic Topic | Facebook/Meta | YouTube | TikTok | Spotify | Kick | Instagram |
+|-------------------|---------------|---------|--------|---------|------|-----------|
+| **Murder/Violence** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🔴 HIGH |
 | **Suicidal Content** | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🔴 HIGH |
 | **Mental Health Crisis** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟡 MEDIUM |
 | **Gambling Addiction** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🔴 HIGH | 🟡 MEDIUM |
@@ -29,75 +29,75 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 
 ---
 
-## Szczegółowa analiza zagrożeń
+## Detailed Risk Analysis
 
-### 🔴 WYSOKIE RYZYKO - Treści wymagające szczególnej ostrożności
+### 🔴 HIGH RISK - Content Requiring Special Caution
 
 #### 1. Explicit Violence & Murder Descriptions
-**Źródło:** Research Dark Drama, Facts History
-- Szczegółowe opisy morderstwa staruszki i jej siostry
-- Użycie topora jako broni morderczej
-- Psychologiczne tortury i paranoja po zabójstwie
-- Graphic descriptions krwi i ciał ofiar
+**Source:** Dark Drama Research, Historical Facts
+- Detailed descriptions of murdering the old woman and her sister
+- Use of axe as murder weapon
+- Psychological torture and paranoia after murder
+- Graphic descriptions of blood and victims' bodies
 
 **Platform Risk:**
-- **Meta/Facebook/Instagram:** 🔴 HIGH - nowe liberalne zasady 2025, ale przemoc nadal problematyczna
-- **TikTok:** 🟡 MEDIUM - content educational, ale wymaga age restriction
-- **YouTube:** 🟡 MEDIUM - akceptowalny z educational context i human narration
+- **Meta/Facebook/Instagram:** 🔴 HIGH - new liberal 2025 policies, but violence still problematic
+- **TikTok:** 🟡 MEDIUM - educational content, but requires age restriction
+- **YouTube:** 🟡 MEDIUM - acceptable with educational context and human narration
 
 #### 2. Suicidal Ideation & Self-Harm
-**Źródło:** Research Dark Drama, Symbols Meanings
-- Świdrigajłow popełnia samobójstwo ze względu na nihilizm
-- Raskolnikow rozważa samobójstwo w rzece
-- Katarzyna Iwanowna - szaleństwo prowadzące do śmierci
-- Psychological torment jako forma self-harm
+**Source:** Dark Drama Research, Symbol Meanings
+- Svidrigailov commits suicide due to nihilism
+- Raskolnikov considers suicide in the river
+- Katerina Ivanovna - madness leading to death
+- Psychological torment as form of self-harm
 
 **Platform Risk:**
-- **Wszystkie platformy:** 🔴 HIGH - zero tolerance policies dla suicidal content
-- **Wymaga:** Suicide prevention disclaimers, educational framing, professional resource links
+- **All platforms:** 🔴 HIGH - zero tolerance policies for suicidal content
+- **Requires:** Suicide prevention disclaimers, educational framing, professional resource links
 
-#### 3. Dostojewski's Antisemitic Views
-**Źródło:** Research Dark Drama, Local Context
-- "The Jewish Question" (1877) - antysemickie publikacje autora
-- Stereotypowe przedstawienia grup etnicznych
-- Anty-polski sentiment w kontekście polskim
+#### 3. Dostoevsky's Antisemitic Views
+**Source:** Dark Drama Research, Local Context
+- "The Jewish Question" (1877) - antisemitic publications by author
+- Stereotypical representations of ethnic groups
+- Anti-Polish sentiment in Polish context
 
 **Platform Risk:**
-- **Meta/Facebook/Instagram:** 🔴 HIGH - nowe zasady Community Notes, ale hate speech nadal banned
+- **Meta/Facebook/Instagram:** 🔴 HIGH - new Community Notes rules, but hate speech still banned
 - **TikTok:** 🔴 HIGH - strict hate speech policies
-- **Wymaga:** Clear separation między dziełem a poglądami autora
+- **Requires:** Clear separation between work and author's views
 
 #### 4. Gambling & Addiction Portrayal
-**Źródło:** Research Facts History, Dark Drama
-- Dostojewski's personal gambling addiction
-- Autobiographical elements w powieści
+**Source:** Historical Facts, Dark Drama
+- Dostoevsky's personal gambling addiction
+- Autobiographical elements in novel
 - Financial desperation leading to crime
-- Anna zastawiająca bieliznę dla długów hazardowych
+- Anna pawning belongings for gambling debts
 
 **Platform Risk:**
 - **Kick:** 🔴 HIGH - 2025 gambling content demonetization
 - **TikTok:** 🟡 MEDIUM - educational context acceptable
 - **Spotify:** 🟢 LOW - historical context protected
 
-### 🟡 ŚREDNIE RYZYKO - Content wymagający kontekstu
+### 🟡 MEDIUM RISK - Content Requiring Context
 
 #### 5. Mental Health & Psychological Trauma
-**Źródło:** Research Reality Wisdom, Youth Digital
-- PTSD-like symptoms u Raskolnikova
+**Source:** Reality Wisdom Research, Youth Digital
+- PTSD-like symptoms in Raskolnikov
 - Detailed psychological breakdown descriptions
-- Epilepsy i mental illness stigmatization
-- Trauma from mock execution (autor)
+- Epilepsy and mental illness stigmatization
+- Trauma from mock execution (author)
 
 **Positive Aspects:**
-- Therapeutic interpretations na BookTok/TikTok 2024-2025
-- Mental health awareness w Gen Z discussions
+- Therapeutic interpretations on BookTok/TikTok 2024-2025
+- Mental health awareness in Gen Z discussions
 - Psychology education value
 
 **Mitigation:** Educational framing, mental health resources, trigger warnings
 
 #### 6. Religious & Philosophical Content
-**Źródło:** Research Symbols Meanings, Local Context
-- Orthodox Christianity jako central theme
+**Source:** Symbol Meanings Research, Local Context
+- Orthodox Christianity as central theme
 - Nihilism critique vs promotion debates
 - Spiritual redemption through suffering
 - Cross-cultural religious tensions
@@ -107,63 +107,63 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 - Avoid proselytizing approach
 - Present multiple philosophical perspectives
 
-### 🟢 NISKIE RYZYKO - Educational Value
+### 🟢 LOW RISK - Educational Value
 
 #### 7. Cultural & Historical Analysis
-**Źródło:** Research Culture Impact, Writing Innovation
+**Source:** Culture Impact Research, Writing Innovation
 - 30+ film adaptations globally
-- Influence on psychology i criminology
+- Influence on psychology and criminology
 - Literary technique innovations
-- Universal themes o guilt i redemption
+- Universal themes of guilt and redemption
 
 #### 8. Contemporary Relevance
-**Źródło:** Research Youth Digital, Reality Wisdom
-- BookTok popularity w Gen Z (2024-2025)
+**Source:** Youth Digital Research, Reality Wisdom
+- BookTok popularity with Gen Z (2024-2025)
 - Gaming culture connections
 - Social media isolation parallels
 - Mental health awareness discussions
 
 ---
 
-## Rekomendacje dla każdej platformy
+## Platform-Specific Recommendations
 
 ### 🔴 FACEBOOK/META (Facebook + Instagram)
-**Risk Level:** HIGH  
-**Age Rating:** 18+  
-**Rekomendacje:**
+**Risk Level:** HIGH
+**Age Rating:** 18+
+**Recommendations:**
 - **AVOID** controversial interpretations entirely
 - **EDIT OUT:** Explicit violence descriptions
-- **FOCUS ON:** Literary analysis i cultural impact
+- **FOCUS ON:** Literary analysis and cultural impact
 - **ADD:** Historical context disclaimers
 - **STRATEGY:** Positive educational aspects only
 
 **Specific Warnings:**
-- Unikaj direct quotes o morderstwie
-- Nie używaj graphic imagery
-- Prepare dla unpredictable moderation
+- Avoid direct quotes about murder
+- Don't use graphic imagery
+- Prepare for unpredictable moderation
 - Consider Community Notes system
 
-### 📹 YOUTUBE  
-**Risk Level:** MEDIUM  
-**Age Rating:** 16+  
-**Rekomendacje:**
-- **REQUIRED:** Human narration (nie text-to-speech)
-- **ADD:** Educational framing w introduction
-- **INCLUDE:** Mental health resources w description
-- **STRUCTURE:** 1+ minute format dla monetization
-- **CONTENT:** Original commentary dominuje nad quotes
+### 📹 YOUTUBE
+**Risk Level:** MEDIUM
+**Age Rating:** 16+
+**Recommendations:**
+- **REQUIRED:** Human narration (not text-to-speech)
+- **ADD:** Educational framing in introduction
+- **INCLUDE:** Mental health resources in description
+- **STRUCTURE:** 1+ minute format for monetization
+- **CONTENT:** Original commentary dominates over quotes
 
 **Specific Guidelines:**
 - Suicide prevention disclaimer
-- Historical context o autorze
-- Separate literature od personal views
+- Historical context about author
+- Separate literature from personal views
 - Visual content non-graphic
 
 ### 📱 TIKTOK
-**Risk Level:** MEDIUM  
-**Age Rating:** 16+  
-**Rekomendacje:**
-- **MINIMUM:** 1-minute videos dla monetization
+**Risk Level:** MEDIUM
+**Age Rating:** 16+
+**Recommendations:**
+- **MINIMUM:** 1-minute videos for monetization
 - **FOCUS:** Psychological analysis aspects
 - **LEVERAGE:** BookTok popularity trend
 - **AVOID:** Graphic descriptions
@@ -176,14 +176,14 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 - Gen Z cultural connections
 
 ### 🎵 SPOTIFY
-**Risk Level:** LOW  
-**Age Rating:** 16+  
-**Rekomendacje:**
+**Risk Level:** LOW
+**Age Rating:** 16+
+**Recommendations:**
 - **PREFERRED:** Video podcast format
 - **STRATEGY:** Educational literature discussion
 - **ADD:** Suicide prevention resources
 - **AVOID:** Copyrighted audiobook excerpts
-- **FOCUS:** Original analysis i commentary
+- **FOCUS:** Original analysis and commentary
 
 **Revenue Optimization:**
 - Cross-platform promotion
@@ -192,24 +192,24 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 - Educational series approach
 
 ### 📺 KICK
-**Risk Level:** LOW  
-**Age Rating:** 16+  
-**Rekomendacje:**
+**Risk Level:** LOW
+**Age Rating:** 16+
+**Recommendations:**
 - **ADVANTAGE:** Most creator-friendly policies
 - **FORMAT:** Interactive book discussion streams
 - **COMMUNITY:** Build around literature education
-- **FREEDOM:** Can discuss controversial aspects z educational context
+- **FREEDOM:** Can discuss controversial aspects with educational context
 - **REVENUE:** 95/5 split ideal for content creators
 
 **Content Strategy:**
 - Live reading sessions
 - Community discussion streams
-- Educational series o literature
+- Educational series about literature
 - Interactive analysis sessions
 
 ---
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
 ### ⚠️ REQUIRED WARNINGS:
 1. **Violence Warning:** "This content discusses murder and violence in the context of classic literature analysis"
@@ -220,8 +220,8 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 ### 📋 RECOMMENDED RESOURCES:
 - **Suicide Prevention:** 988 Suicide & Crisis Lifeline (US), Samaritans (UK)
 - **Mental Health:** National Alliance on Mental Illness (NAMI)
-- **Educational Context:** Literature analysis jest educational, nie endorsement
-- **Historical Perspective:** Separate autor od dzieła disclaimers
+- **Educational Context:** Literature analysis is educational, not endorsement
+- **Historical Perspective:** Separate author from work disclaimers
 
 ---
 
@@ -236,35 +236,35 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 | **Spotify** | | | ✅ | | |
 | **Kick** | | | ✅ | | |
 
-**Recommended Universal Rating:** **16+** z parent/educator guidance
+**Recommended Universal Rating:** **16+** with parent/educator guidance
 
 ---
 
-## Mitigation Strategies dla Sensitive Content
+## Mitigation Strategies for Sensitive Content
 
 ### 1. Educational Framing Approach
 - **Open with:** "Today we explore classic literature that shaped psychology"
-- **Context first:** Historical period i cultural background
-- **Analysis focus:** Literary techniques i cultural impact
-- **Separate:** Author's personal views od literary merit
+- **Context first:** Historical period and cultural background
+- **Analysis focus:** Literary techniques and cultural impact
+- **Separate:** Author's personal views from literary merit
 
-### 2. Mental Health Conscious Presentation  
+### 2. Mental Health Conscious Presentation
 - **Normalize:** Mental health discussions
 - **Resources:** Always provide help information
-- **Trigger warnings:** Clear i specific
-- **Positive messaging:** Focus na recovery i hope
+- **Trigger warnings:** Clear and specific
+- **Positive messaging:** Focus on recovery and hope
 
 ### 3. Violence Content Guidelines
 - **Academic language:** Use clinical/analytical terms
-- **No graphic details:** Focus na psychological impact
+- **No graphic details:** Focus on psychological impact
 - **Historical context:** 19th century literary conventions
 - **Educational purpose:** Clear learning objectives
 
 ### 4. Addiction & Social Issues
-- **Educational angle:** Historical context o gambling addiction
+- **Educational angle:** Historical context of gambling addiction
 - **Modern parallels:** Contemporary understanding
 - **Resource information:** Addiction support services
-- **Avoid glamorization:** Focus na consequences
+- **Avoid glamorization:** Focus on consequences
 
 ---
 
@@ -273,7 +273,7 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 ### Meta Platforms (Facebook/Instagram)
 **EDIT/OMIT STRATEGY:**
 - Remove explicit murder descriptions
-- Focus na cultural impact i adaptations
+- Focus on cultural impact and adaptations
 - Highlight therapeutic interpretations
 - Avoid political/religious debates
 - Emphasize universal themes
@@ -335,16 +335,16 @@ Po analizie kompletnych materiałów badawczych "Zbrodni i kary" rekomendujemy *
 
 ---
 
-## Podsumowanie strategiczne
+## Strategic Summary
 
-"Zbrodnia i kara" zawiera cenne treści edukacyjne o psychologii człowieka, moralności i literaturze, ale wymaga ostrożnego podejścia ze względu na explicit content i controversial themes. Kluczowe jest:
+"Crime and Punishment" contains valuable educational content about human psychology, morality, and literature, but requires careful approach due to explicit content and controversial themes. Key strategies:
 
-1. **Educational framing** - zawsze predstaviaj jako analizę literacką
-2. **Mental health focus** - wykorzystaj współczesne zainteresowanie psychology
-3. **Platform adaptation** - dostosuj content do specific guidelines każdej platformy
-4. **Age appropriate warnings** - 16+ z proper disclaimers
-5. **Resource provision** - zawsze include mental health i crisis resources
+1. **Educational framing** - always present as literary analysis
+2. **Mental health focus** - leverage contemporary interest in psychology
+3. **Platform adaptation** - tailor content to specific platform guidelines
+4. **Age appropriate warnings** - 16+ with proper disclaimers
+5. **Resource provision** - always include mental health and crisis resources
 
-**Ogólna ocena bezpieczeństwa publikacji:** MEDIUM RISK z proper mitigation strategies
+**Overall Publication Safety Assessment:** MEDIUM RISK with proper mitigation strategies
 
-Przy właściwym przygotowaniu i kontekście edukacyjnym, "Zbrodnia i kara" może być valuable content dla młodych dorosłych, promując literacy, mental health awareness i cultural education w responsible manner.
+With appropriate preparation and educational context, "Crime and Punishment" can be valuable content for young adults, promoting literacy, mental health awareness, and cultural education in a responsible manner.

@@ -185,7 +185,7 @@ ai_response = {
 }
 ```
 
-## STAGE 4: Calculate DEPTH×HEAT composites and select format
+## STAGE 4: Calculate DEPTH×HEAT composites and select format (don't run manually!)
 
 ```python
 # Call external script to calculate DEPTH, HEAT and select format

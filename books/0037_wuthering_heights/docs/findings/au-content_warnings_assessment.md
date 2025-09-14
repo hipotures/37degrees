@@ -1,117 +1,117 @@
-# Ocena Content Warnings i Zgodność z Platformami: "Wichrowe Wzgórza" Emily Brontë
+# Content Warnings & Platform Compliance Assessment: "Wuthering Heights" by Emily Brontë
 
-**Książka**: "Wuthering Heights" / "Wichrowe Wzgórza" (1847)  
-**Autor**: Emily Brontë  
-**Data oceny**: 2025-09-06  
-**Status materiałów**: Analiza 8 dokumentów researchu  
-**Zakres platform**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick  
+**Book**: "Wuthering Heights" (1847)
+**Author**: Emily Brontë
+**Assessment Date**: 2025-09-14
+**Materials Status**: Analysis of 8 comprehensive research documents
+**Platform Scope**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick
 
 ---
 
-## EXECUTIVE SUMMARY - OCENA RYZYKA
+## EXECUTIVE SUMMARY - RISK ASSESSMENT
 
-### Ogólny Profil Ryzyka: 🟡 ŚREDNIE-WYSOKIE RYZYKO
+### Overall Risk Profile: 🟡 MODERATE-HIGH RISK
 
-**"Wichrowe Wzgórza"** to pozornie klasyczna literatura, ale zawiera wiele elementów problematycznych dla platform społecznościowych w 2025 roku. **Główne zagrożenia**: toksyczne relacje romanticze jako treści dla młodzieży, przemoc domowa, elementy rasistowskie, manipulacja psychiczna i obsesyjna miłość przedstawiana jako ideał romantyczny.
+**"Wuthering Heights"** appears to be classic literature, but contains multiple problematic elements for social media platforms in 2025. **Primary threats**: toxic relationship romanticization for youth audiences, domestic violence themes, racial stereotyping, psychological manipulation, and obsessive love presented as romantic ideal.
 
 ### Platform Risk Matrix
 
-| Platforma | Risk Level | Główne Problemy | Rekomendacja |
-|-----------|------------|-----------------|--------------|
-| **Facebook** | 🔴 WYSOKIE | Liberalizacja hate speech, Community Notes | AGE-RESTRICT 16+ |
-| **Instagram** | 🔴 WYSOKIE | Jak Facebook + estetyzacja toxic relationships | EDIT/CAUTION 16+ |
-| **YouTube** | 🟡 ŚREDNIE | Anti-AI content, monetyzacja wymagań | OK z człowiekiem narracją |
-| **TikTok** | 🟡 ŚREDNIE | BookTok gloryfikacja, tylko 1+ min monetyzacja | EDIT dla młodszych |
-| **Spotify** | 🟢 NISKIE | Najliberalniejsza platforma | OK z content warnings |
-| **Kick** | 🟢 NISKIE | Creator-friendly, kontekst edukacyjny | OK z educational framing |
+| Platform | Risk Level | Primary Concerns | Recommendation |
+|----------|------------|------------------|----------------|
+| **Facebook** | 🔴 HIGH | Liberalized hate speech, Community Notes | AGE-RESTRICT 16+ |
+| **Instagram** | 🔴 HIGH | Same as Facebook + toxic relationship aesthetics | EDIT/CAUTION 16+ |
+| **YouTube** | 🟡 MEDIUM | Anti-AI content, monetization requirements | OK with human narration |
+| **TikTok** | 🟡 MEDIUM | BookTok glorification, 1+ min monetization only | EDIT for younger audiences |
+| **Spotify** | 🟢 LOW | Most liberal platform | OK with content warnings |
+| **Kick** | 🟢 LOW | Creator-friendly, educational context | OK with educational framing |
 
 ---
 
-## ANALIZA PROBLEMATYCZNYCH TREŚCI
+## ANALYSIS OF PROBLEMATIC CONTENT
 
-### 1. TOXIC RELATIONSHIPS & ROMANTICIZATION 🔴 KRYTYCZNE
+### 1. TOXIC RELATIONSHIPS & ROMANTICIZATION 🔴 CRITICAL
 
-#### Identyfikowane Problemy:
-**Z research Dark Drama**: Heathcliff używa "dominacji psychicznej i izolacji jako narzędzia kontroli"  
-**Z research Reality Wisdom**: "'I am Heathcliff!' - zatracenie tożsamości w związku" jako prekursor codependency  
-**Z research Youth Digital**: BookTok promuje "toksyczne wzorce relacji" przez estetyzację  
+#### Identified Issues:
+**From Dark Drama Research**: Heathcliff uses "psychological dominance and isolation as control tools"
+**From Reality Wisdom Research**: "'I am Heathcliff!' - loss of identity in relationship" as codependency precursor
+**From Youth Digital Research**: BookTok promotes "toxic relationship patterns" through aestheticization
 
 #### Platform-Specific Risks:
 
-**🔴 Facebook/Instagram (WYSOKIE RYZYKO)**:
-- **Nowe zasady 2025**: Zwiększona tolerancja dla kontrowersyjnych treści może prowadzić do eskalacji
-- **Community Notes**: Brak fact-checkingu może pozwolić na rozprzestrzenianie szkodliwych interpretacji
-- **Youth Impact**: Instagram/BookTok promuje "couple goals" estetykę toksycznych związków
+**🔴 Facebook/Instagram (HIGH RISK)**:
+- **2025 Policy Changes**: Increased tolerance for controversial content may lead to escalation
+- **Community Notes**: Lack of fact-checking may allow harmful interpretations to spread
+- **Youth Impact**: Instagram/BookTok promotes "couple goals" aesthetic of toxic relationships
 
-**🟡 TikTok/YouTube (ŚREDNIE RYZYKO)**:
-- **BookTok phenomenon**: 97,8M wyświetleń #wutheringheights gloryfikuje obsesyjną miłość
-- **Educational opportunity**: Można kontekstualnie przedstawić jako przestrogę
+**🟡 TikTok/YouTube (MEDIUM RISK)**:
+- **BookTok phenomenon**: 97.8M views #wutheringheights glorifies obsessive love
+- **Educational opportunity**: Can be contextually presented as cautionary tale
 
 #### Mitigation Strategies:
-- **Content warning**: "Książka zawiera toksyczne wzorce relacji. Nie jest to relationship goals."
-- **Educational framing**: Zawsze podkreślać, że to przestroga, nie romantyczny ideał
-- **Age restriction**: 16+ z wyjaśnieniem dlaczego
+- **Content warning**: "Book contains toxic relationship patterns. This is not relationship goals."
+- **Educational framing**: Always emphasize this is cautionary tale, not romantic ideal
+- **Age restriction**: 16+ with explanation why
 
-### 2. PRZEMOC DOMOWA I MANIPULACJA 🔴 KRYTYCZNE
+### 2. DOMESTIC VIOLENCE & MANIPULATION 🔴 CRITICAL
 
-#### Identyfikowane Problemy:
-**Z research Facts**: "Cykle przemocy międzypokoleniowej" - skrzywdzone dzieci stają się oprawcami  
-**Z research Symbols**: "Klucze i zamki - kontrola i więzienie" - Heathcliff więzi Cathy  
-**Z research Reality**: "Control and possession" jako pattern toxic relationships  
+#### Identified Issues:
+**From Dark Drama Research**: "Cycles of intergenerational violence" - damaged children become abusers
+**From Culture Impact Research**: "Keys and locks - control and imprisonment" - Heathcliff imprisons Cathy
+**From Reality Wisdom Research**: "Control and possession" as toxic relationship pattern
 
 #### Platform Compliance Issues:
-- **Universal risk**: Wszystkie platformy zabraniają gloryfikacji przemocy domowej
-- **Context matters**: Edukacyjna analiza vs romantyzacja robi różnicę
-- **Youth protection**: Szczególnie problematiczne dla audience <18
+- **Universal risk**: All platforms prohibit glorification of domestic violence
+- **Context matters**: Educational analysis vs romanticization makes the difference
+- **Youth protection**: Particularly problematic for audience <18
 
 #### Recommended Approach:
-- **Explicit warnings**: "Zawiera przemoc domową i manipulację psychiczną"
-- **Educational context**: Zawsze analizować jako negatywne wzorce
-- **Historical perspective**: Umieścić w kontekście epoki, nie jako współczesne normy
+- **Explicit warnings**: "Contains domestic violence and psychological manipulation"
+- **Educational context**: Always analyze as negative patterns
+- **Historical perspective**: Place in period context, not contemporary norms
 
-### 3. KWESTIE RASOWE I DYSKRYMINACJA 🔴 KRYTYCZNE
+### 3. RACIAL ISSUES & DISCRIMINATION 🔴 CRITICAL
 
-#### Identyfikowane Problemy:
-**Z research Local Context**: Heathcliff opisywany jako "dark-skinned gypsy"  
-**Z research Culture Impact**: Casting controversy z Jacob Elordi - accusations of whitewashing  
-**Z research Symbols**: "Postkolonialna interpretacja" - Heathcliff jako "Inny" wykorzystujący narzędzia kolonizatora  
+#### Identified Issues:
+**From Culture Impact Research**: Heathcliff described as "dark-skinned gypsy"
+**From Youth Digital Research**: Casting controversy with Jacob Elordi - whitewashing accusations
+**From Dark Drama Research**: "Postcolonial interpretation" - Heathcliff as "Other" using colonizer's tools
 
 #### 2025 Platform Considerations:
-**🔴 Facebook/Meta (NAJWYŻSZE RYZYKO)**:
-- **Nowe zasady**: Liberalizacja hate speech może pozwolić na problematyczne interpretacje
-- **Historical blind spots**: Dyskusje o rasie w kontekście historycznym mogą być źle zinterpretowane
+**🔴 Facebook/Meta (HIGHEST RISK)**:
+- **New policies**: Liberalized hate speech may allow problematic interpretations
+- **Historical blind spots**: Race discussions in historical context may be misinterpreted
 
 #### Educational Opportunities:
-- **Historical context**: Wyjaśnić kolonialny kontekst postaci Heathcliffa
-- **Contemporary relevance**: Łączyć z dyskusjami o representation w adaptacjach
-- **Critical analysis**: Pokazać jako krytykę, nie promowanie rasizmu
+- **Historical context**: Explain colonial context of Heathcliff's character
+- **Contemporary relevance**: Connect to representation discussions in adaptations
+- **Critical analysis**: Show as critique, not promotion of racism
 
-### 4. MENTAL HEALTH & SUICIDE THEMES 🟡 ŚREDNIE RYZYKO
+### 4. MENTAL HEALTH & SUICIDE THEMES 🟡 MEDIUM RISK
 
-#### Identyfikowane Problemy:
-**Z research Dark Drama**: Catherine's "samobójcza śmierć" jako bunt  
-**Z research Reality**: "Mental Health Awareness" - obsessive love disorder, stalking behaviors  
-**Z research Youth**: Gen Z interpretacje przez pryzmat "complex PTSD", "bipolar" diagnoses  
+#### Identified Issues:
+**From Dark Drama Research**: Catherine's "suicidal death" as rebellion
+**From Reality Wisdom Research**: "Mental Health Awareness" - obsessive love disorder, stalking behaviors
+**From Youth Digital Research**: Gen Z interpretations through "complex PTSD", "bipolar" diagnoses lens
 
 #### Platform Sensitivity:
-- **All platforms**: Wrażliwe na treści o suicide i self-harm
-- **YouTube**: Szczególnie rygorystyczne w monetyzacji takich treści
-- **Educational value**: Może być pozytywnie odbierane jako mental health awareness
+- **All platforms**: Sensitive to suicide and self-harm content
+- **YouTube**: Particularly rigorous in monetizing such content
+- **Educational value**: May be positively received as mental health awareness
 
 #### Best Practices:
-- **Trigger warnings**: "Zawiera tematy związane ze zdrowiem psychicznym i samobójstwem"
-- **Resource links**: Dodać informacje o pomocy psychologicznej
-- **Modern context**: Łączyć z współczesnymi dyskusjami o mental health
+- **Trigger warnings**: "Contains mental health themes and suicide"
+- **Resource links**: Add mental health support information
+- **Modern context**: Connect to contemporary mental health discussions
 
-### 5. SUPERNATURAL & RELIGIOUS CONTENT 🟢 NISKIE RYZYKO
+### 5. SUPERNATURAL & RELIGIOUS CONTENT 🟢 LOW RISK
 
-#### Identyfikowane Problemy:
-**Z research Dark Drama**: "Diaboliczne" elementy, duchy, occult interpretacje  
-**Z research Symbols**: Krytyka chrześcijaństwa, odrzucenie ortodoksyjnej religii  
+#### Identified Issues:
+**From Dark Drama Research**: "Diabolical" elements, ghosts, occult interpretations
+**From Culture Impact Research**: Criticism of Christianity, rejection of orthodox religion
 
 #### Platform Assessment:
-- **Low risk overall**: Supernatural elementy są akceptowane w kontekście literatury
-- **Educational context**: Gothic literatura jest uznanym gatunkiem akademickim
+- **Low risk overall**: Supernatural elements accepted in literary context
+- **Educational context**: Gothic literature is recognized academic genre
 
 ---
 
@@ -120,60 +120,60 @@
 ### 🔴 FACEBOOK/META (HIGH RISK - 2025 Policy Changes)
 
 #### Major Concerns:
-- **Liberalized hate speech policies**: Nowe zasady pozwalają na kontrowersyjne interpretacje
-- **Community Notes system**: Brak profesjonalnego fact-checkingu
-- **Unpredictable moderation**: Risk nieprzewidywalnych działań moderacyjnych
+- **Liberalized hate speech policies**: New rules allow controversial interpretations
+- **Community Notes system**: Lack of professional fact-checking
+- **Unpredictable moderation**: Risk of unpredictable moderation actions
 
 #### Strategic Approach:
-- **AVOID controversial topics** entirely - focus na literacką analizę
-- **NO political interpretations** książki
-- **Educational focus only** - akademicka perspektywa
-- **Age-gate 16+** wszystkie treści związane z książką
+- **AVOID controversial topics** entirely - focus on literary analysis
+- **NO political interpretations** of the book
+- **Educational focus only** - academic perspective
+- **Age-gate 16+** all book-related content
 
 #### Content Formula:
 ```
-"Analiza literacka: 'Wichrowe Wzgórza' jako przykład powieści gotyckiej XIX wieku.
-⚠️ Uwaga: Treść przeznaczona dla odbiorców 16+ ze względu na złożone tematy psychologiczne."
+"Literary analysis: 'Wuthering Heights' as example of 19th-century Gothic novel.
+⚠️ Warning: Content intended for audiences 16+ due to complex psychological themes."
 ```
 
 ### 🔴 INSTAGRAM (HIGH RISK - Same as Facebook + Aesthetic Issues)
 
 #### Additional Concerns:
-- **BookTok aesthetic glorification**: Estetyzacja toksycznych związków
-- **Young audience**: Więcej użytkowników <18
-- **Visual romanticization**: "Cottage core" aesthetic może ukryć problematyczne treści
+- **BookTok aesthetic glorification**: Aestheticization of toxic relationships
+- **Young audience**: More users <18
+- **Visual romanticization**: "Cottage core" aesthetic may hide problematic content
 
 #### Specific Strategies:
-- **Counter-aesthetic approach**: Pokazać reality za romantic imagery  
-- **Educational carousel posts**: Multi-slide explanation problematycznych elementów
-- **Story warnings**: Używać Instagram Stories dla trigger warnings
-- **Collaborate with therapists**: Partner z mental health advocates
+- **Counter-aesthetic approach**: Show reality behind romantic imagery
+- **Educational carousel posts**: Multi-slide explanation of problematic elements
+- **Story warnings**: Use Instagram Stories for trigger warnings
+- **Collaborate with therapists**: Partner with mental health advocates
 
 #### Content Example:
 ```
-Slide 1: Estetyczne zdjęcie Yorkshire moors
-Slide 2: "Reality check: To nie jest relationship goals"
-Slide 3: Analiza toxic patterns w relationships
+Slide 1: Aesthetic photo of Yorkshire moors
+Slide 2: "Reality check: This is not relationship goals"
+Slide 3: Analysis of toxic patterns in relationships
 Slide 4: Resources for healthy relationships
 ```
 
 ### 🟡 YOUTUBE (MEDIUM RISK - Monetization Requirements)
 
 #### Key Opportunities:
-- **Educational content friendly**: YouTube docenia academic content
-- **Human narration required**: Perfect dla literary analysis
-- **Long-form advantage**: Możliwość głębokiej analizy
+- **Educational content friendly**: YouTube values academic content
+- **Human narration required**: Perfect for literary analysis
+- **Long-form advantage**: Possibility for deep analysis
 
 #### Success Formula:
 - **MUST use human voice** - no text-to-speech
-- **Add original commentary** dominujący nad quotami
+- **Add original commentary** dominating over quotes
 - **Educational framing** throughout
-- **Clear content warnings** na początku video
+- **Clear content warnings** at video beginning
 
 #### Recommended Structure:
 ```
 0:00 - Content warning & age recommendation
-1:00 - Historical context & literary significance  
+1:00 - Historical context & literary significance
 5:00 - Problematic elements analysis (with modern perspective)
 15:00 - Educational value & contemporary relevance
 18:00 - Resources & further reading
@@ -188,21 +188,21 @@ Slide 4: Resources for healthy relationships
 ### 🟡 TIKTOK (MEDIUM RISK - BookTok Phenomenon)
 
 #### Unique Challenges:
-- **BookTok romanticization**: 97,8M views gloryfikują toxic love
-- **Young audience**: Głównie <25, impressionable
-- **1+ minute requirement**: Tylko długie videos się monetyzują
+- **BookTok romanticization**: 97.8M views glorify toxic love
+- **Young audience**: Primarily <25, impressionable
+- **1+ minute requirement**: Only long videos monetize
 - **Original content only**: No duets/stitches in Creator Rewards
 
 #### Winning Strategy:
 - **Counter-narrative approach**: "Actually, Wuthering Heights is NOT romantic"
 - **Educational threading**: Multi-part series explaining problems
-- **Modern parallels**: Łączyć z contemporary toxic relationship patterns
-- **Collaboration prevention**: Focus na original content only
+- **Modern parallels**: Connect to contemporary toxic relationship patterns
+- **Collaboration prevention**: Focus on original content only
 
 #### Content Ideas:
 ```
 "POV: You think Wuthering Heights is romantic until you realize..."
-- Part 1: "Heathcliff isn't mysterious - he's manipulative" 
+- Part 1: "Heathcliff isn't mysterious - he's manipulative"
 - Part 2: "Red flags your high school teacher didn't mention"
 - Part 3: "Why Catherine dies: the real psychological analysis"
 - Part 4: "Healthy vs toxic: what Hareton-Cathy teach us"
@@ -212,13 +212,13 @@ Slide 4: Resources for healthy relationships
 
 #### Advantages:
 - **Most liberal content policy** among platforms
-- **Educational content welcomed** 
+- **Educational content welcomed**
 - **Video podcast opportunity**: Higher earning potential
 - **Cross-platform synergy**: Can drive traffic from social media
 
 #### Strategic Approach:
-- **Comprehensive coverage**: Full analysis bez censorship
-- **Adult audience assumption**: Content dla mature listeners
+- **Comprehensive coverage**: Full analysis without censorship
+- **Adult audience assumption**: Content for mature listeners
 - **Literature podcast series**: "Problematic Classics" series
 - **Guest experts**: Therapists, literature professors, social critics
 
@@ -242,7 +242,7 @@ Episode 1: "Wuthering Heights - Love or Obsession?"
 
 #### Optimal Strategy:
 - **Interactive book club streams**: Live discussion format ideal
-- **controversial topics OK**: Platform handles nuanced discussions well
+- **Controversial topics OK**: Platform handles nuanced discussions well
 - **Community building**: Engage viewers in real-time analysis
 - **Cross-cultural perspectives**: International audience engagement
 
@@ -261,14 +261,14 @@ Episode 1: "Wuthering Heights - Love or Obsession?"
 ## AGE CLASSIFICATION RECOMMENDATIONS
 
 ### 13+ Content (Safe for Young Teens):
-- **Basic plot summary** bez toxic relationship details
+- **Basic plot summary** without toxic relationship details
 - **Historical context** of Victorian literature
 - **Nature imagery & Yorkshire setting** appreciation
 - **Literary techniques** analysis (narrative structure, etc.)
 
 ### 16+ Content (Age-Restricted Recommended):
-- **Full relationship analysis** z toxic pattern identification
-- **Mental health themes** z proper context
+- **Full relationship analysis** with toxic pattern identification
+- **Mental health themes** with proper context
 - **Social class issues** and historical discrimination
 - **Complete character analysis** including Heathcliff's manipulative behavior
 
@@ -285,15 +285,15 @@ Episode 1: "Wuthering Heights - Love or Obsession?"
 ### Universal Trigger Warnings (All Platforms):
 
 ```
-⚠️ CONTENT WARNING: "Wichrowe Wzgórza" zawiera:
-• Toksyczne wzorce w związkach (manipulacja, izolacja, obsesja)
-• Przemoc psychiczną i fizyczną
-• Tematy związane ze zdrowiem psychicznym
-• Historyczne przedstawienia dyskryminacji rasowej i społecznej
-• Motywy samobójcze i samouszkodzenia
+⚠️ CONTENT WARNING: "Wuthering Heights" contains:
+• Toxic relationship patterns (manipulation, isolation, obsession)
+• Psychological and physical violence
+• Mental health related themes
+• Historical representations of racial and social discrimination
+• Suicide and self-harm themes
 
-Ta książka NIE przedstawia zdrowych ideałów romantycznych.
-Materiał przeznaczony dla odbiorców 16+ z educational context.
+This book does NOT present healthy romantic ideals.
+Material intended for audiences 16+ with educational context.
 ```
 
 ### Platform-Specific Warnings:
@@ -303,7 +303,7 @@ Materiał przeznaczony dla odbiorców 16+ z educational context.
 📚 Real Talk: Wuthering Heights Reality Check
 ⚠️ This isn't "couple goals" - it's a cautionary tale
 💔 Contains toxic relationship patterns
-🧠 Mental health themes present  
+🧠 Mental health themes present
 📖 Educational analysis only - not relationship advice
 Age rec: 16+ with media literacy context
 ```
@@ -333,7 +333,7 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### 1. Toxic Relationships → Educational Reframing
 
-**Instead of**: "Epic love story between Heathcliff and Catherine"  
+**Instead of**: "Epic love story between Heathcliff and Catherine"
 **Use**: "Case study in obsessive attachment and codependency - what NOT to romanticize"
 
 **Teaching Points**:
@@ -344,7 +344,7 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### 2. Violence → Historical Context + Modern Resources
 
-**Instead of**: Avoiding the topic entirely  
+**Instead of**: Avoiding the topic entirely
 **Use**: "Understanding domestic violence in Victorian context and how we've evolved"
 
 **Educational Value**:
@@ -355,7 +355,7 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### 3. Mental Health → Destigmatization + Support
 
-**Instead of**: "Crazy" or "mad" character descriptions  
+**Instead of**: "Crazy" or "mad" character descriptions
 **Use**: "Understanding trauma responses and mental health with Victorian vs modern perspectives"
 
 **Resources to Include**:
@@ -366,7 +366,7 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### 4. Race Issues → Critical Historical Analysis
 
-**Instead of**: Ignoring Heathcliff's racial otherness  
+**Instead of**: Ignoring Heathcliff's racial otherness
 **Use**: "Examining Victorian attitudes toward race and 'otherness' - and why representation matters"
 
 **Contemporary Relevance**:
@@ -392,7 +392,7 @@ This episode provides uncensored analysis of adult themes in literature includin
 #### Platform-Specific:
 - [ ] **Facebook/Instagram**: Extreme caution with controversial topics, focus educational only
 - [ ] **YouTube**: Human narration, original commentary, clear disclaimers
-- [ ] **TikTok**: 1+ minute format, original analysis, counter-narrative to BookTok romanticization  
+- [ ] **TikTok**: 1+ minute format, original analysis, counter-narrative to BookTok romanticization
 - [ ] **Spotify**: Full adult context OK, but include content warnings
 - [ ] **Kick**: Educational framing for controversial discussions, community interaction
 
@@ -408,8 +408,8 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### For Young Adults (16-18):
 **"Wuthering Heights: The Relationship Red Flags Your Literature Teacher Should Discuss"**
-- Focus na identifying toxic patterns
-- Modern parallels z social media stalking
+- Focus on identifying toxic patterns
+- Modern parallels with social media stalking
 - Healthy relationship education
 - Mental health awareness
 - Critical media literacy
@@ -443,8 +443,8 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### OVERALL RISK SCORE: 🟡 MODERATE-HIGH (6.5/10)
 
-**Highest Risk Platforms**: Facebook, Instagram (8/10)  
-**Moderate Risk Platforms**: YouTube, TikTok (6/10)  
+**Highest Risk Platforms**: Facebook, Instagram (8/10)
+**Moderate Risk Platforms**: YouTube, TikTok (6/10)
 **Lowest Risk Platforms**: Spotify, Kick (3/10)
 
 ### SUCCESS PROBABILITY BY APPROACH:
@@ -458,16 +458,16 @@ This episode provides uncensored analysis of adult themes in literature includin
 
 ### RECOMMENDED STRATEGY HIERARCHY:
 
-**Tier 1 (Safest)**: Educational literature analysis with full content warnings  
-**Tier 2 (Moderate)**: Critical analysis with historical context and modern perspective  
-**Tier 3 (Risky)**: Contemporary relevance discussions with careful framing  
+**Tier 1 (Safest)**: Educational literature analysis with full content warnings
+**Tier 2 (Moderate)**: Critical analysis with historical context and modern perspective
+**Tier 3 (Risky)**: Contemporary relevance discussions with careful framing
 **Tier 4 (Highest Risk)**: Any romanticization or glorification of toxic elements
 
 ---
 
 ## CONCLUSION
 
-**"Wichrowe Wzgórza"** require careful handling in 2025's social media landscape. The combination of BookTok romanticization, changing platform policies (especially Facebook/Meta), and young audience exposure to toxic relationship content creates significant risks. However, with proper educational framing, content warnings, and age-appropriate targeting, the book's literary value can be preserved while protecting vulnerable audiences.
+**"Wuthering Heights"** requires careful handling in 2025's social media landscape. The combination of BookTok romanticization, changing platform policies (especially Facebook/Meta), and young audience exposure to toxic relationship content creates significant risks. However, with proper educational framing, content warnings, and age-appropriate targeting, the book's literary value can be preserved while protecting vulnerable audiences.
 
 **Key Success Factors**:
 1. **Always lead with education**, not entertainment
@@ -477,11 +477,11 @@ This episode provides uncensored analysis of adult themes in literature includin
 5. **Include resources** for mental health and relationship support
 6. **Avoid romanticization** entirely - focus on cautionary tale aspects
 
-**The Bottom Line**: "Wichrowe Wzgórza" can be responsibly shared on all platforms, but requires significant content warnings and educational framing. The literary and historical value is worth preserving, but not at the expense of promoting harmful relationship models to impressionable audiences.
+**The Bottom Line**: "Wuthering Heights" can be responsibly shared on all platforms, but requires significant content warnings and educational framing. The literary and historical value is worth preserving, but not at the expense of promoting harmful relationship models to impressionable audiences.
 
 ---
 
-**Assessment completed**: 2025-09-06  
-**Assessor**: Content Warnings Agent (37degrees system)  
-**Materials analyzed**: 8 comprehensive research documents + 2025 platform policies  
+**Assessment completed**: 2025-09-14
+**Assessor**: Content Warnings Agent (37degrees system)
+**Materials analyzed**: 8 comprehensive research documents + 2025 platform policies
 **Recommendations valid through**: Q4 2025 (review recommended with any major platform policy updates)

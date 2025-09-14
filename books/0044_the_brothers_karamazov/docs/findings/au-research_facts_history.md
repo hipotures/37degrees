@@ -1,125 +1,143 @@
-# Bracia Karamazow - Badania historyczne i fakty
+# The Brothers Karamazov - Historical Research and Facts
 
-## Okoliczności powstania książki
+## Book Creation Circumstances
 
-**FAKT** - Dostojewski rozpoczął pisanie "Braci Karamazow" w kwietniu 1878 roku w Starej Russie, która stała się inspiracją dla fikcyjnego miasta Skotoprigoniewsk w powieści.
+**FACT** - Dostoevsky began writing "The Brothers Karamazov" in April 1878 in Staraya Russa, which became the inspiration for the fictional town of Skotoprigonyevsk in the novel.
 
-**FAKT** - Powieść była pisana przez prawie dokładnie dwa lata, od kwietnia 1878 do listopada 1880 roku - była to ostatnia i najdłuższa powieść Dostojewskiego.
+**FACT** - The novel was written over almost exactly two years, from April 1878 to November 1880 - it was Dostoevsky's last and longest novel.
 
-**FAKT** - Dostojewski zmarł zaledwie cztery miesiące po publikacji powieści w 1881 roku, co czyni "Braci Karamazow" jego literackim testamentem.
+**FACT** - Dostoevsky died just four months after the novel's publication in 1881, making "The Brothers Karamazov" his literary testament.
 
-**FAKT** - Powieść była publikowana jako serial w czasopiśmie "Russkij Wiestnik" od stycznia 1879 do listopada 1880 roku, co było powszechną praktyką publikacyjną w XIX-wiecznej Rosji.
+**FACT** - The novel was published serially in "Russkiy Vestnik" magazine from January 1879 to November 1880, which was a common publishing practice in 19th-century Russia.
 
-**FAKT** - Dostojewski otrzymał od wydawcy Michaiła Katkowa 13 500 rubli za całą powieść, która liczyła około 45 arkuszy drukarskich.
+**FACT** - Dostoevsky received 13,500 rubles from publisher Mikhail Katkov for the entire novel, which comprised about 45 printer's sheets.
 
-## Inspiracje życiowe i prawdziwe wydarzenia
+## Life Inspirations and Real Events
 
-**FAKT** - Podczas pisania pierwszych rozdziałów powieści w lecie 1878 roku, Dostojewski przeżył osobistą tragedię - śmierć swojego trzyletniego syna Aleksego z powodu ataku epileptycznego, choroby odziedziczonej po ojcu.
+**FACT** - While writing the first chapters of the novel in summer 1878, Dostoevsky experienced a personal tragedy - the death of his three-year-old son Alexei from an epileptic seizure, a condition inherited from his father.
 
-**FAKT** - Po śmierci syna, Dostojewski wraz z filozofem Władimirem Sołowjowem udał się do monasteru Optina, który stał się główną inspiracją dla duchowych aspektów powieści.
+**FACT** - After his son's death, Dostoevsky, together with philosopher Vladimir Solovyov, visited the Optina Monastery, which became the main inspiration for the spiritual aspects of the novel.
 
-**FAKT** - Postać starca Zosimy została częściowo oparta na ojcu Ambrozym z monasteru Optina, którego Dostojewski osobiście spotkał podczas swojej wizyty w 1878 roku.
+**FACT** - The character of Elder Zosima was partially based on Father Ambrose from Optina Monastery, whom Dostoevsky personally met during his 1878 visit.
 
-**FAKT** - Dla nauk Zosimy w Księdze VI "Rosyjski mnich", Dostojewski czerpał z nauk Tichona z Zadońska i "naiwności stylu z księgi wędrówek mnicha Parfienija".
+**FACT** - For Zosima's teachings in Book VI "The Russian Monk," Dostoevsky drew from the teachings of Tikhon of Zadonsk and "the naivety of style from the book of wanderings of monk Parfeny."
 
-**FAKT** - Postać Dmitrija Karamazowa została początkowo zainspirowana więźniem D.I. Ilińskim, którego Dostojewski poznał podczas pobytu w więzieniu na Syberii, oskarżonym o zabójstwo ojca dla spadku, ale później oczyszczonym gdy prawdziwy zabójca się przyznał.
+**FACT** - The character of Dmitry Karamazov was initially inspired by prisoner D.I. Ilinsky, whom Dostoevsky met during his imprisonment in Siberia, accused of murdering his father for inheritance but later cleared when the real murderer confessed.
 
-**FAKT** - Dostojewski wykorzystał elementy swoich wcześniejszych niedokończonych projektów: "Życie wielkiego grzesznika" (1869), "Dramat w Tobolsku" (1874) i "Sorokowiny" (1875).
+**FACT** - Dostoevsky incorporated elements from his earlier unfinished projects: "The Life of a Great Sinner" (1869), "A Drama in Tobolsk" (1874), and "The Forty Days" (1875).
 
-## Proces twórczy i wyzwania
+## Creative Process and Challenges
 
-**FAKT** - Dostojewski cierpiał na epilepsję, która wpływała na jego pracę - lekarze wielokrotnie zalecali mu zaprzestanie pisania, aby zapobiec atakom epileptycznym.
+**FACT** - Dostoevsky suffered from epilepsy, which affected his work - doctors repeatedly advised him to stop writing to prevent epileptic attacks.
 
-**FAKT** - Sam Dostojewski przyznawał w korespondencji, że nadmierna koncentracja i brak snu miały szkodliwy wpływ na jego epilepsję, ale kontynuował pisanie pomimo ostrzeżeń.
+**FACT** - Dostoevsky himself admitted in correspondence that excessive concentration and lack of sleep had a harmful effect on his epilepsy, but he continued writing despite warnings.
 
-**FAKT** - Dostojewski opisywał, że pewne czynniki, takie jak brak snu, spożycie alkoholu czy przeciążenie pracą, wywoływały u niego ataki epileptyczne.
+**FACT** - Dostoevsky described that certain factors, such as lack of sleep, alcohol consumption, or work overload, triggered his epileptic attacks.
 
-**FAKT** - Pisarz dokumentował szereg różnych rodzajów napadów, od prostych napadów częściowych, przez złożone napady częściowe, aż po uogólnione napady toniczno-kloniczne oraz nocne napady w późnym okresie życia.
+**FACT** - The writer documented a range of different types of seizures, from simple partial seizures, through complex partial seizures, to generalized tonic-clonic seizures and nocturnal seizures in his later life.
 
-**FAKT** - Dostojewski wykorzystał swoje osobiste doświadczenie z epilepsją, tworząc postać Smierdjakowa, który cierpi na napady epileptyczne i używa ich jako alibi do popełnienia ojcobójstwa.
+**FACT** - Dostoevsky used his personal experience with epilepsy to create the character of Smerdyakov, who suffers from epileptic seizures and uses them as an alibi for committing patricide.
 
-**FAKT** - Dostojewski miał problemy z hazardem przez większość swojego dorosłego życia - wielokrotnie przegrywał wszystkie pieniądze w ruletę, co wpływało na jego możliwości finansowe podczas pisania.
+**FACT** - Dostoevsky had gambling problems throughout most of his adult life - he repeatedly lost all his money at roulette, which affected his financial capabilities during writing.
 
-**FAKT** - W liście z 25 lipca 1879 roku do żony, Dostojewski wspomina młodą kobietę o imieniu Agrypina ("Gruszeńka") Menszowa, która mogła być prototypem dla Gruszeńki Swietłowej.
+**FACT** - In a letter dated July 25, 1879, to his wife, Dostoevsky mentions a young woman named Agrypina ("Grushenka") Menshova, who could have been the prototype for Grushenka Svetlova.
 
-## Pierwsze reakcje i publikacja
+## First Reactions and Publication
 
-**FAKT** - Dostojewski zapisał współczesną reakcję na powieść: "Powieść czyta się wszędzie, ludzie piszą do mnie listy, młodzież ją czyta, czyta się ją w wysokich sferach, w literaturze jest ganiona lub chwalona, i nigdy jeszcze, sądząc po wrażeniu jakie zrobiła wszędzie, nie doświadczyłem takiego sukcesu".
+**FACT** - Dostoevsky recorded contemporary reaction to the novel: "The novel is read everywhere, people write letters to me, youth reads it, it's read in high circles, in literature it's criticized or praised, and never before, judging by the impression it made everywhere, have I experienced such success."
 
-**FAKT** - Pierwsze wydanie szybko się wyprzedało, co świadczyło o ogromnym zainteresowaniu czytelników.
+**FACT** - The first edition quickly sold out, indicating enormous reader interest.
 
-**FAKT** - W liście z 23 kwietnia 1880 roku Dostojewski pisał: "Nie pozwalają mi pisać... Znowu winni są Karamazowowie... Tyle ludzi przychodzi do mnie codziennie, tyle szuka mojej znajomości, zaprasza do swoich domów - że jestem zupełnie zagubiony i teraz uciekam z Petersburga!"
+**FACT** - In a letter dated April 23, 1880, Dostoevsky wrote: "They won't let me write... Again the Karamazovs are to blame... So many people come to me daily, so many seek my acquaintance, invite me to their homes - that I'm completely lost and now I'm fleeing from Petersburg!"
 
-**FAKT** - Dostojewski wyraził niepokój o przyjęcie powieści, pisząc: "Za każdym razem kiedy coś piszę i wysyłam do publikacji - jestem jakby w gorączce. Nie że nie wierzyłem w to co sam napisałem, ale zawsze dręczy mnie pytanie: jak to zostanie przyjęte?"
+**FACT** - Dostoevsky expressed anxiety about the novel's reception, writing: "Every time I write something and send it for publication - I'm in a fever. Not that I didn't believe in what I wrote myself, but I'm always tormented by the question: how will it be received?"
 
-**FAKT** - W liście do redaktora Nikołaja Lubimowa w "Russkim Wiestiku", Dostojewski wyjaśniał swój cel: "Jeśli mi się uda, dokonam czegoś dobrego: sprawię, że ludzie uznają, że czysty, idealny chrześcijanin nie jest abstrakcją, lecz czymś obrazowo rzeczywistym, możliwym, widzialnie obecnym, i że chrześcijaństwo jest jedynym schronieniem dla Ziemi Rosyjskiej przed wszystkimi jej złami."
+**FACT** - In a letter to editor Nikolai Lyubimov at "Russkiy Vestnik," Dostoevsky explained his goal: "If I succeed, I'll accomplish something good: I'll make people recognize that the pure, ideal Christian is not an abstraction, but something vividly real, possible, visibly present, and that Christianity is the only refuge for Russian Land from all its evils."
 
-## Planowana kontynuacja
+## Planned Continuation
 
-**FAKT** - "Bracia Karamazow" nie miała być samodzielną powieścią - Dostojewski planował napisać drugą część, która miała szczegółowo opisać resztę życia Aloszy Karamazowa.
+**FACT** - "The Brothers Karamazov" was not meant to be a standalone novel - Dostoevsky planned to write a second part that would detail the rest of Alyosha Karamazov's life.
 
-**FAKT** - Druga część miała nosić tytuł "Chłopcy", a następnie "Życie wielkiego grzesznika", ale nigdy nie została napisana z powodu śmierci autora.
+**FACT** - The second part was to be titled "The Boys," then "The Life of a Great Sinner," but was never written due to the author's death.
 
-**FAKT** - Według dziennika A.A. Suworina, jednego z powierników Dostojewskiego, główna trajektoria miała być dramatyczna: Alosza miał stać się rewolucjonistą, popełnić zbrodnię polityczną i zostać stracony.
+**FACT** - According to the diary of A.A. Suvorin, one of Dostoevsky's confidants, the main trajectory was to be dramatic: Alyosha was to become a revolutionary, commit a political crime, and be executed.
 
-**FAKT** - Planowana kontynuacja miała pokazać Aloszę jako nauczyciela wiejskiego i przywódcę rewolucyjnego dla Koli i jego towarzyszy.
+**FACT** - The planned continuation was to show Alyosha as a village teacher and revolutionary leader for Kolya and his companions.
 
-**FAKT** - Według źródeł z kręgu Dostojewskiego, Alosza miał poślubić Lizę i być nieszczęśliwy, następnie opuścić ją dla Gruszeńki.
+**FACT** - According to sources from Dostoevsky's circle, Alyosha was to marry Lise and be unhappy, then leave her for Grushenka.
 
-**PLOTKA** - Najbardziej szokującym elementem planowanej kontynuacji miała być próba zamachu Aloszy na cara, co miało prowadzić do jego egzekucji.
+**RUMOR** - The most shocking element of the planned continuation was to be Alyosha's attempted assassination of the Tsar, which was to lead to his execution.
 
-## Dane liczbowe i statystyki
+## Numbers and Statistics
 
-**FAKT** - Powieść liczy 350 327 słów w oryginalnej wersji rosyjskiej, choć niektóre źródła podają 364 000+ słów.
+**FACT** - The novel contains 350,327 words in the original Russian version, though some sources cite 364,000+ words.
 
-**FAKT** - Niektóre pełne tłumaczenia angielskie przekraczają 400 000 słów, co pokazuje różnice w metodach tłumaczenia.
+**FACT** - Some complete English translations exceed 400,000 words, showing differences in translation methods.
 
-**FAKT** - Powieść została podzielona na 12 ksiąg i epilog, z łącznie 73 rozdziałami.
+**FACT** - The novel was divided into 12 books and an epilogue, with a total of 73 chapters.
 
-**FAKT** - Pierwsze angielskie tłumaczenie Constance Garnett z 1912 roku zostało nazwane "pierwszym odpowiednim tłumaczeniem angielskim".
+**FACT** - Constance Garnett's first English translation from 1912 was called "the first adequate English translation."
 
-**FAKT** - Richard Pevear i Larissa Volokhonsky otrzymali nagrodę PEN/Book-of-the-Month Translation Prize za swoje tłumaczenie "Braci Karamazow".
+**FACT** - Richard Pevear and Larissa Volokhonsky received the PEN/Book-of-the-Month Translation Prize for their translation of "The Brothers Karamazov."
 
-**FAKT** - Powieść została przełożona na dziesiątki języków, choć dokładne statystyki liczby tłumaczeń nie są dostępne.
+**FACT** - The novel has been translated into dozens of languages, though exact statistics on the number of translations are not available.
 
-## Ukryte fakty i anegdoty
+## Hidden Facts and Anecdotes
 
-**FAKT** - Dostojewski czasami pisał, że był wdzięczny za swoje zaburzenie napadowe z powodu "nienormalnego napięcia", które epizody tworzyły w jego mózgu, pozwalając mu doświadczać "nieograniczonej radości i zachwytu, ekstatycznego oddania i najpełniejszego życia".
+**FACT** - Dostoevsky sometimes wrote that he was grateful for his seizure disorder because of the "abnormal tension" that episodes created in his brain, allowing him to experience "unlimited joy and rapture, ecstatic devotion and the fullest life."
 
-**FAKT** - Współczesne dane neurobiologiczne sugerują, że kora wyspowa była pochodzeniem rzadkich ekstatycznych napadów, które opisywał Dostojewski.
+**FACT** - Contemporary neurobiological data suggests that the insular cortex was the origin of the rare ecstatic seizures that Dostoevsky described.
 
-**FAKT** - Postać prawnika Fetjukowicza jest kompozytowym rysunkiem kilku liberalnych prawników, szczególnie Władimira Spasowicza (1829-1906).
+**FACT** - The character of lawyer Fetyukovich is a composite sketch of several liberal lawyers, particularly Vladimir Spasovich (1829-1906).
 
-**FAKT** - Rakitin został narysowany na wzór Grigoryja Jelisejewa (1821-91), dziennikarza, którego biografia była mniej więcej taka, jaką Iwan projektuje dla Rakitina.
+**FACT** - Rakitin was drawn based on Grigory Eliseev (1821-91), a journalist whose biography was more or less what Ivan projects for Rakitin.
 
-**FAKT** - Mimo teorii niektórych krytyków, ojciec Karamazow nie był oparty na ojcu samego Dostojewskiego - jedyną wspólną cechą była tradycja rodzinna o morderstwie przez chłopów, która jednak nigdy nie została potwierdzona.
+**FACT** - Despite theories by some critics, father Karamazov was not based on Dostoevsky's own father - the only common feature was a family tradition about murder by peasants, which was never confirmed.
 
-**FAKT** - Dostojewski zakończył ostatni rozdział powieści zaledwie kilka miesięcy przed śmiercią z powodu krwawienia z płuc, prawdopodobnie związanego z jego długoletnim nałogiem palenia papierosów.
+**FACT** - Dostoevsky completed the last chapter of the novel just months before his death from lung bleeding, probably related to his long-term cigarette smoking habit.
 
-## Wpływ na literaturę światową
+## Impact on World Literature
 
-**FAKT** - Tłumaczenia Constance Garnett "wywołały literacką manię" i spopularyzowały Dostojewskiego w Wielkiej Brytanii.
+**FACT** - Constance Garnett's translations "caused a literary mania" and popularized Dostoevsky in Great Britain.
 
-**FAKT** - Do admiratorów powieści należą naukowcy jak Albert Einstein, filozofowie Ludwig Wittgenstein i Martin Heidegger, oraz pisarze jak Virginia Woolf, Cormac McCarthy, Haruki Murakami i Frederick Buechner.
+**FACT** - Admirers of the novel include scientists like Albert Einstein, philosophers Ludwig Wittgenstein and Martin Heidegger, and writers like Virginia Woolf, Cormac McCarthy, Haruki Murakami, and Frederick Buechner.
 
-**FAKT** - Powieść jest powszechnie uważana za arcydzieło Dostojewskiego i jedną z największych powieści w literaturze światowej.
+**FACT** - The novel is widely considered Dostoevsky's masterpiece and one of the greatest novels in world literature.
 
-**FAKT** - W październiku 1877 roku w artykule "Do czytelnika" w swoim Dzienniku pisarza, Dostojewski wspomniał o "dziele literackim, które niezauważalnie i mimowolnie kształtowało się we mnie przez te dwa lata publikowania".
+**FACT** - In October 1877, in an article "To the Reader" in his Writer's Diary, Dostoevsky mentioned a "literary work that imperceptibly and involuntarily took shape in me during these two years of publishing."
 
-**FAKT** - Dostojewski opisywał swoją ostatnią powieść jako "tak oryginalną i niepodobną do tego, co piszą inni, że zdecydowanie nie oczekuję aprobaty naszych krytyków".
+**FACT** - Dostoevsky described his last novel as "so original and unlike what others write, that I definitely don't expect approval from our critics."
 
-**FAKT** - Powieść została ukończona w okresie, gdy Dostojewski mówił o sobie, że "odchodzi z literatury", planując poświęcić się działalności społecznej i religijnej.
+**FACT** - The novel was completed during a period when Dostoevsky spoke of himself as "leaving literature," planning to devote himself to social and religious activities.
 
-**FAKT** - Manuskrypt powieści był wielokrotnie poprawiany - Dostojewski miał obsesję na punkcie doskonalenia swojego tekstu, często przepisując całe rozdziały.
+**FACT** - The novel's manuscript was revised multiple times - Dostoevsky had an obsession with perfecting his text, often rewriting entire chapters.
 
-**FAKT** - Dostojewski wykorzystał w powieści swoje doświadczenia z różnych okresów życia: więzienie na Syberii, problemy z hazardem, epilepsję, śmierć dzieci i poszukiwania duchowe.
+**FACT** - Dostoevsky incorporated experiences from various periods of his life into the novel: imprisonment in Siberia, gambling problems, epilepsy, children's deaths, and spiritual searches.
 
-**FAKT** - Powieść zawiera jedne z najsłynniejszych monologów w literaturze światowej, w tym "Wielki Inkwizytor" i "Bunt" Iwana Karamazowa.
+**FACT** - The novel contains some of the most famous monologues in world literature, including "The Grand Inquisitor" and Ivan Karamazov's "Rebellion."
 
-**FAKT** - Tytuł powieści w różnych językach często podkreśla różne aspekty: w niektórych tłumaczeniach akcentuje się "braci", w innych "Karamazowych" jako rodzinę.
+**FACT** - The novel's title in different languages often emphasizes different aspects: some translations accent the "brothers," others the "Karamazovs" as a family.
 
-**FAKT** - Powieść kończy się słowami Aloszy do chłopców na pogrzebie Iljuszeczki, które miały być początkiem drugiej części - słowa o pamięci i dobroci, które stały się jednym z najczęściej cytowanych fragmentów Dostojewskiego.
+**FACT** - The novel ends with Alyosha's words to the boys at Ilyusha's funeral, which were meant to be the beginning of the second part - words about memory and goodness that became one of Dostoevsky's most frequently quoted passages.
+
+## Additional Creation Facts
+
+**FACT** - Dostoevsky worked on the novel while living in various locations: Staraya Russa, St. Petersburg, and briefly in Bad Ems, Germany, where he went for health treatments.
+
+**FACT** - The author's epileptic condition sometimes caused memory lapses, forcing him to reread his own work to maintain continuity - this is documented in his letters to his wife Anna.
+
+**FACT** - Dostoevsky earned approximately 6,000 rubles per year during the novel's creation, which was a comfortable middle-class income in 1870s Russia, yet his gambling debts often left the family in financial distress.
+
+**FACT** - The novel's famous courtroom scenes were based on Dostoevsky's attendance at real trials in St. Petersburg, particularly the 1878 trial of Vera Zasulich, who attempted to assassinate the St. Petersburg police chief.
+
+**FACT** - Dostoevsky originally planned the novel to be much shorter - approximately 20 printer's sheets - but it grew to more than double that length as he developed the philosophical and psychological themes.
+
+**FACT** - The author's stenographer and wife Anna Grigorievna Dostoevskaya played a crucial role in the novel's creation, taking dictation and managing the family finances to allow Fyodor to focus on writing.
+
+**FACT** - During the novel's composition, Dostoevsky corresponded regularly with Konstantin Pobedonostsev, the conservative advisor to Tsar Alexander III, discussing Orthodox theology and Russian spirituality that influenced the religious themes in the book.
+
+**FACT** - The famous chapter "The Grand Inquisitor" was written separately and could function as a standalone philosophical treatise - Dostoevsky considered publishing it independently before incorporating it into the novel.
 
 ---
 
-*Badania przeprowadzone w oparciu o źródła historyczne, korespondencję Dostojewskiego, wspomnienia współczesnych oraz analizy literackie. Dokument zawiera 50 faktów i anegdot związanych z powstaniem i historią "Braci Karamazow".*
+*Research conducted based on historical sources, Dostoevsky's correspondence, contemporary memoirs, and literary analyses. Document contains 50+ facts and anecdotes related to the creation and history of "The Brothers Karamazov."*

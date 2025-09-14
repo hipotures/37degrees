@@ -1,137 +1,151 @@
-# Wojna i pokój - Historia powstania i fascynujące fakty
+# War and Peace - Creation History and Fascinating Facts
 
-*Badania historyczne dotyczące procesu twórczego Lwa Tołstoja i powstania jednego z najważniejszych dzieł literatury światowej*
+*Historical research on Leo Tolstoy's creative process and the creation of one of the world's most important literary works*
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-**FAKT**: Tołstoj rozpoczął pisanie "Wojny i pokoju" w 1863 roku, w tym samym roku, w którym się ożenił i osiądł na swojej posiadłości wiejskiej Jasnaja Polana. Miał wówczas 35 lat.
+**FACT**: Tolstoy began writing "War and Peace" in 1863, the same year he married and settled on his rural estate Yasnaya Polyana. He was 35 years old at the time.
 
-**FAKT**: Pierwotnie powieść miała nosić tytuł "1805" - od roku, w którym rozgrywają się początkowe wydarzenia. Tołstoj rozważał także tytuł "All's Well That Ends Well" ("Końcu wszystko dobrze").
+**FACT**: Originally, the novel was to be titled "1805" - after the year in which the opening events take place. Tolstoy also considered the title "All's Well That Ends Well."
 
-**FAKT**: Pierwsza scena książki zajęła Tołstojowi 15 przepisań i cały rok pracy (1863). Tylko pierwsza scena!
+**FACT**: The first scene of the book took Tolstoy 15 rewrites and an entire year of work (1863). Just the first scene!
 
-**FAKT**: Proces pisania trwał 6 lat - od 1863 do 1869 roku, z intensywną fazą przepisywania całej powieści między 1866 a 1869 rokiem.
+**FACT**: The writing process lasted 6 years - from 1863 to 1869, with an intensive phase of rewriting the entire novel between 1866 and 1869.
 
-**FAKT**: Pierwotnie Tołstoj planował napisać powieść o dekabrystach (rewolucjoniści z 1825 roku), ale w trakcie pisania fabuła ewoluowała w kierunku wydarzeń z czasów napoleońskich, które miały miejsce dekadę wcześniej.
+**FACT**: Originally, Tolstoy planned to write a novel about the Decembrists (revolutionaries from 1825), but during writing, the plot evolved toward Napoleonic events that took place a decade earlier.
 
-## Sofia Tołstoja - niewidoczny współautor
+## Sophia Tolstaya - The Invisible Co-Author
 
-**FAKT**: Żona Tołstoja, Sofia Andriejewna, przepisała całą "Wojnę i pokój" ręcznie 7-8 razy. Niektóre fragmenty przepisywała nawet 30 razy.
+**FACT**: Tolstoy's wife, Sophia Andreyevna, copied the entire "War and Peace" by hand 7-8 times. Some fragments she copied as many as 30 times.
 
-**FAKT**: Sofia pracowała przy świecach, używając szkła powiększającego do odczytywania nieczytelnego pisma męża, który zapisywał każdy skrawek papieru, włącznie z marginesami.
+**FACT**: Sophia worked by candlelight, using a magnifying glass to read her husband's illegible handwriting, who would write on every scrap of paper, including margins.
 
-**FAKT**: W ciągu 7 lat pracy nad książką Sofia urodziła 4 z 13 swoich dzieci, jednocześnie zarządzając majątkiem i przepisując manuskrypty.
+**FACT**: During the 7 years of work on the book, Sophia gave birth to 4 of her 13 children while simultaneously managing the estate and copying manuscripts.
 
-**FAKT**: To Sofia przekonała Tołstoja, żeby opublikował "Wojnę i pokój" jako pełną powieść, a nie tylko odcinkami w czasopiśmie. Argumentowała, że może więcej zarobić i dotrzeć do szerszej publiczności.
+**FACT**: It was Sophia who convinced Tolstoy to publish "War and Peace" as a complete novel rather than just in serial installments. She argued he could earn more and reach a wider audience.
 
-**FAKT**: Sofia została wydawczynią dzieł męża w 1886 roku, wydając 8 edycji jego zbiorowych prac. To ona uratowała bezcenne rękopisy "Wojny i pokoju".
+**FACT**: Sophia became the publisher of her husband's works in 1886, issuing 8 editions of his collected works. She saved the priceless manuscripts of "War and Peace."
 
-## Rewolucyjne metody badawcze Tołstoja
+## Tolstoy's Revolutionary Research Methods
 
-**FAKT**: Tołstoj przeczytał wszystkie dostępne w języku rosyjskim i francuskim standardowe dzieła historyczne o wojnach napoleońskich, a także listy, dzienniki, autobiografie i biografie Napoleona oraz innych kluczowych postaci epoki.
+**FACT**: Tolstoy read all available Russian and French standard historical works about the Napoleonic wars, as well as letters, diaries, autobiographies, and biographies of Napoleon and other key figures of the era.
 
-**FAKT**: Przeprowadzał wywiady z weteranami wojen napoleońskich i odwiedzał pola bitew, w tym Borodino, żeby lepiej zrozumieć przebieg wydarzeń.
+**FACT**: He conducted interviews with veterans of the Napoleonic wars and visited battlefields, including Borodino, to better understand the course of events.
 
-**FAKT**: Wykorzystał swoje doświadczenia z wojny krymskiej (służył jako oficer artylerii), gdzie na własne oczy widział "krwawą orkiestrę bitwy" w Sewastopolu.
+**FACT**: He utilized his experiences from the Crimean War (he served as an artillery officer), where he witnessed firsthand the "bloody orchestra of battle" at Sevastopol.
 
-**FAKT**: Najważniejszym źródłem informacji były pierwsze publiczne biblioteki w Moskwie, które otworzyły się w latach 60. XIX wieku w ramach kulturowego przebudzenia miasta.
+**FACT**: The most important source of information was Moscow's first public libraries, which opened in the 1860s as part of the city's cultural awakening.
 
-**FAKT**: Jego teść, Andriej Bers, pomagał w badaniach, wycinając stare artykuły z gazet i opowiadając o swoim dzieciństwie na początku XIX wieku.
+**FACT**: His father-in-law, Andrey Bers, helped with research by clipping old newspaper articles and sharing stories of his childhood in early 19th century.
 
-**FAKT**: Tołstoj narzekał, że znalazł niewiele pisemnych zapisów rosyjskiego życia domowego z okresu napoleońskiego i próbował wypełnić te luki w swoich pierwotnych szkicach.
+**FACT**: Tolstoy complained that he found few written records of Russian domestic life from the Napoleonic period and tried to fill these gaps in his original sketches.
 
-## Liczby, które robią wrażenie
+## Impressive Numbers
 
-**FAKT**: Oryginalna rosyjska wersja "Wojny i pokoju" ma około 587 287 słów, co czyni ją jedną z najdłuższych powieści w historii.
+**FACT**: The original Russian version of "War and Peace" has approximately 587,287 words, making it one of the longest novels in history.
 
-**FAKT**: Pierwsze wydanie miało 1225 stron, a współczesne wydania mają od 1200 do 1700 stron, w zależności od formatu.
+**FACT**: The first edition had 1,225 pages, while contemporary editions range from 1,200 to 1,700 pages, depending on format.
 
-**FAKT**: W powieści występuje łącznie 559 postaci, z czego około 200 to rzeczywiste postacie historyczne.
+**FACT**: The novel features a total of 559 characters, of which about 200 are real historical figures.
 
-**FAKT**: Powieść jest podzielona na 4 tomy, 15 ksiąg i 361 rozdziałów, plus epilog w dwóch częściach.
+**FACT**: The novel is divided into 4 volumes, 15 books, and 361 chapters, plus a two-part epilogue.
 
-**FAKT**: Wersja w twardej oprawie waży prawie 4 funty (1,8 kg).
+**FACT**: A hardcover version weighs nearly 4 pounds (1.8 kg).
 
-**FAKT**: Około 2% tekstu "Wojny i pokoju" jest napisane po francusku - Tołstoj usunął francuski w wersji z 1873 roku, ale później go przywrócił.
+**FACT**: About 2% of "War and Peace" text is written in French - Tolstoy removed French in the 1873 version but later restored it.
 
-## Proces publikacji i pierwsze reakcje
+## Publication Process and First Reactions
 
-**FAKT**: W 1865 roku czasopismo "Russkij Wiestnik" (Rosyjski Posłaniec) rozpoczęło publikację pierwszej części pod tytułem "1805", ale przeciętny odbiór i kompulsywna potrzeba rewizji skłoniły Tołstoja do zatrzymania publikacji odcinkami.
+**FACT**: In 1865, the magazine "Russkiy Vestnik" (Russian Messenger) began publishing the first part under the title "1805," but lukewarm reception and Tolstoy's compulsive need for revision prompted him to stop serial publication.
 
-**FAKT**: Tołstoj zażądał od wydawcy Michaiła Katkowa bezprecedensowo wysokiego honorarium - 300 rubli za stronę druku. Po długich negocjacjach Katkov zgodził się, bo Tołstoj był już bardzo popularny.
+**FACT**: Tolstoy demanded an unprecedentedly high fee from publisher Mikhail Katkov - 300 rubles per printed page. After long negotiations, Katkov agreed because Tolstoy was already very popular.
 
-**FAKT**: Do 1868 roku ukazały się trzy tomy i sprzedawały się szybko. Tołstoj dokończył kolejne trzy tomy między 1868 a 1869 rokiem.
+**FACT**: By 1868, three volumes had appeared and were selling quickly. Tolstoy completed the next three volumes between 1868 and 1869.
 
-**FAKT**: Rosyjscy czytelnicy, którzy czytali wersję odcinkową, byli chętni kupić kompletną powieść - i została wyprzedana niemal natychmiast.
+**FACT**: Russian readers who had read the serialized version were eager to buy the complete novel - and it sold out almost immediately.
 
-**FAKT**: Wersja publikowana w "Russkij Wiestnik" miała zupełnie inne zakończenie niż wersja z 1869 roku.
+**FACT**: The version published in "Russkiy Vestnik" had a completely different ending than the 1869 version.
 
-## Inspiracje historyczne i postacie rzeczywiste
+## Historical Inspirations and Real Characters
 
-**FAKT**: W "Wojnie i pokoju" pojawia się około 160 rzeczywistych postaci historycznych, w tym Napoleon Bonaparte, feldmarszałek Michał Kutuzow i car Aleksander I.
+**FACT**: About 160 real historical figures appear in "War and Peace," including Napoleon Bonaparte, Field Marshal Mikhail Kutuzov, and Tsar Alexander I.
 
-**FAKT**: Bitwa pod Borodino (7 września 1812) była największą bitwą francuskiej inwazji na Rosję, z udziałem ponad 250 000 żołnierzy i co najmniej 70 000 ofiar. To była najkrwawsza bitwa wojen napoleońskich.
+**FACT**: The Battle of Borodino (September 7, 1812) was the largest battle of the French invasion of Russia, involving over 250,000 soldiers and at least 70,000 casualties. It was the bloodiest battle of the Napoleonic wars.
 
-**FAKT**: Rosyjscy dowódcy wojskowi chwalili opis bitwy pod Borodino, a jeden z generałów napisał, że powinna być obowiązkową lekturą dla wszystkich oficerów armii rosyjskiej.
+**FACT**: Russian military commanders praised the description of the Battle of Borodino, with one general writing that it should be required reading for all Russian Army officers.
 
-**FAKT**: Tołstoj idealizował postać Kutuzowa w swojej powieści, przedstawiając go jako łagodnego, duchowego człowieka, dalekiego od zimnej aroganacji Napoleona, ale z jaśniejszą wizją prawdziwej natury wojny.
+**FACT**: Tolstoy idealized the figure of Kutuzov in his novel, presenting him as a gentle, spiritual man, far from Napoleon's cold arrogance, but with a clearer vision of war's true nature.
 
-## Osobiste inspiracje i ukryte połączenia
+## Personal Inspirations and Hidden Connections
 
-**FAKT**: Wiele nazwisk rodzinnych użytych w "Wojnie i pokoju" to lekkie modyfikacje prawdziwych nazwisk, które Tołstoj spotkał w życiu - strategia mająca sprawić, by powieść wydawała się znajoma rosyjskim czytelnikom.
+**FACT**: Many family names used in "War and Peace" are slight modifications of real surnames Tolstoy encountered in life - a strategy meant to make the novel seem familiar to Russian readers.
 
-**FAKT**: Nazwisko Bołkoński to zmieniona wersja nazwiska rodziny matki Tołstoja - Wołkoński.
+**FACT**: The surname Bolkonsky is a modified version of Tolstoy's mother's family name - Volkonsky.
 
-**FAKT**: Szwagierka Tołstoja, Tania, była inspiracją dla Nataszy Rostowej, jednej z głównych bohaterek.
+**FACT**: Tolstoy's sister-in-law, Tanya, was the inspiration for Natasha Rostova, one of the main heroines.
 
-**FAKT**: Dziadkowie Tołstoja i ich przyjaciele byli wzorami dla wielu głównych postaci; pradziadkowie byliby z pokolenia księcia Wasyla czy hrabiego Ilji Rostowa.
+**FACT**: Tolstoy's grandparents and their friends were models for many main characters; great-grandparents would have been from the generation of Prince Vasily or Count Ilya Rostov.
 
-## Pierwsze reakcje krytyki i czytelników
+## First Critical and Reader Reactions
 
-**FAKT**: Pavel Annenkov w 1868 roku w "Wiestnik Jewropy" napisał jeden z pierwszych wyczerpujących artykułów o powieści, chwaląc mistrzowskie przedstawienie człowieka na wojnie.
+**FACT**: Pavel Annenkov in 1868 in "Vestnik Evropy" wrote one of the first comprehensive articles about the novel, praising the masterful portrayal of man at war.
 
-**FAKT**: Nikołaj Leskow w anonimowej recenzji w "Birzowym Wiestniku" nazwał "Wojnę i pokój" "najlepszą rosyjską powieścią historyczną" i "dumą współczesnej literatury".
+**FACT**: Nikolai Leskov in an anonymous review in "Birzhevoy Vestnik" called "War and Peace" "the best Russian historical novel" and "the pride of contemporary literature."
 
-**FAKT**: Słowianofile ogłosili Tołstoja swoim "bogatyrem" i nazwali "Wojnę i pokój" "biblią nowej narodowej idei".
+**FACT**: Slavophiles declared Tolstoy their "hero" and called "War and Peace" "the bible of the new national idea."
 
-**FAKT**: Krytyk Nikołaj Strachow pierwszy w Rosji ogłosił powieść Tołstoja arcydziełem na poziomie wcześniej nieznanym w literaturze rosyjskiej.
+**FACT**: Critic Nikolai Strakhov was the first in Russia to declare Tolstoy's novel a masterpiece at a level previously unknown in Russian literature.
 
-## Anegdoty z procesu twórczego
+## Anecdotes from the Creative Process
 
-**FAKT**: Tołstoj często blokował się podczas pracy nad "Wojną i pokojem", gdy wielokrotnie przepracowywał fragmenty książki.
+**FACT**: Tolstoy often experienced writer's block during work on "War and Peace" when he repeatedly reworked fragments of the book.
 
-**FAKT**: Nawet po ukończeniu sześciu tomów "Wojny i pokoju", Tołstoj wrócił i zrewidował dzieło. Wyciął strony komentarzy, ostatecznie skracając pracę do czterech tomów.
+**FACT**: Even after completing six volumes of "War and Peace," Tolstoy returned and revised the work. He cut pages of commentary, ultimately shortening the work to four volumes.
 
-**FAKT**: Tołstoj szybko stał się rozczarowany swoim monumentalnym dziełem po jego ukończeniu. Napisał do przyjaciela, że ma nadzieję nigdy więcej nie napisać niczego tak "rozdętego" jak "Wojna i pokój".
+**FACT**: Tolstoy quickly became disappointed with his monumental work after its completion. He wrote to a friend that he hoped never to write anything as "inflated" as "War and Peace" again.
 
-**FAKT**: W 1847 roku Tołstoj rozpoczął prowadzenie dziennika, który stał się jego laboratorium do samoanaliz i później dla jego prozy, czyniąc go jednym z najlepiej udokumentowanych pisarzy.
+**FACT**: In 1847, Tolstoy began keeping a diary, which became his laboratory for self-analysis and later for his prose, making him one of the best-documented writers.
 
-## Statystyki porównawcze
+**FACT**: Near the Borodino battlefield stands the house where Tolstoy wrote "War and Peace," now a museum dedicated both to the author and the battle.
 
-**FAKT**: "Wojna i pokój" nie jest najdłuższą powieścią w historii - "Atlas zbuntowany" Ayn Rand ma około 645 000 słów, "Nędznicy" Victora Hugo 655 478 słów, a "W poszukiwaniu straconego czasu" Marcela Prousta prawie 1,9 miliona słów.
+## Comparative Statistics
 
-**FAKT**: Według Księgi Rekordów Guinnessa najdłuższą opublikowaną powieścią jest "W poszukiwaniu straconego czasu" Marcela Prousta.
+**FACT**: "War and Peace" is not the longest novel in history - Ayn Rand's "Atlas Shrugged" has about 645,000 words, Victor Hugo's "Les Misérables" 655,478 words, and Marcel Proust's "In Search of Lost Time" nearly 1.9 million words.
 
-## Wpływ na kulturę światową
+**FACT**: According to Guinness Book of Records, the longest published novel is Marcel Proust's "In Search of Lost Time."
 
-**FAKT**: "Wojna i pokój" została szybko przetłumaczona na wiele języków: niemiecki, francuski, hiszpański, holenderski, fiński, szwedzki, koreański, albański i czeski.
+## Impact on World Culture
 
-**FAKT**: Powieść była wielokrotnie adaptowana na film i telewizję, w tym w monumentalnej produkcji radzieckiej z 1966-1967 roku, która trwała ponad 7 godzin.
+**FACT**: "War and Peace" was quickly translated into many languages: German, French, Spanish, Dutch, Finnish, Swedish, Korean, Albanian, and Czech.
 
-**FAKT**: Bitwa pod Borodino, która zajmuje ponad 20 rozdziałów księgi, jest szeroko uznawana za najlepszą sekwencję bitewną w literaturze.
+**FACT**: The novel has been adapted many times for film and television, including the monumental 1966-1967 Soviet production that lasted over 7 hours.
 
-## Ukryte szczegóły i ciekawostki
+**FACT**: The Battle of Borodino, which spans over 20 chapters of the book, is widely recognized as the finest battle sequence in literature.
 
-**PLOTKA**: Podobno Tołstoj podczas pisania "Wojny i pokoju" nosił specjalny strój - białą lnianą koszulę i szerokie spodnie, uważając, że pomaga mu to w koncentracji.
+## Hidden Details and Curiosities
 
-**FAKT**: Tołstoj rozpoczął pracę nad "Wojną i pokojem" tuż po ślubie z Sofią, która miała wówczas 18 lat (on miał 34 lata). W przeddzień ślubu dał jej swoje dzienniki opisujące związki seksualne ze służącymi.
+**RUMOR**: Reportedly, while writing "War and Peace," Tolstoy wore a special outfit - a white linen shirt and wide trousers, believing it helped his concentration.
 
-**FAKT**: Sofia była w ciąży 16 razy i urodziła 13 dzieci, z których 8 przeżyło do wieku dorosłego.
+**FACT**: Tolstoy began work on "War and Peace" right after marrying Sophia, who was then 18 years old (he was 34). On the eve of their wedding, he gave her his diaries describing sexual relations with servants.
 
-**FAKT**: Tołstoj wykorzystał swoje pierwsze biblioteki publiczne w Moskwie, które otworzyły się w latach 60. XIX wieku - był to przełomowy moment w dostępie do informacji dla pisarzy.
+**FACT**: Sophia was pregnant 16 times and gave birth to 13 children, of whom 8 survived to adulthood.
 
-**FAKT**: Powieść była napisana w czasach, gdy Rosja przechodziła wielkie reformy społeczne, w tym zniesienie pańszczyzny w 1861 roku, co wpłynęło na sposób, w jaki Tołstoj przedstawił społeczeństwo rosyjskie.
+**FACT**: Tolstoy utilized Moscow's first public libraries, which opened in the 1860s - this was a breakthrough moment in information access for writers.
+
+**FACT**: The novel was written during a time when Russia was undergoing great social reforms, including the abolition of serfdom in 1861, which influenced how Tolstoy portrayed Russian society.
+
+**FACT**: English translations of "War and Peace" generally range from 560,000 to 587,000 words, with variations arising from translation choices and editions.
+
+**FACT**: The novel has been translated into over 100 languages, making it one of the most widely translated novels in history.
+
+**FACT**: Military reviewers assessed highly the artfulness and realism of Tolstoy's battle scenes, with reviewers calling the battle scenes as "bearing the highest degree of historical and artistic truthfulness."
+
+**FACT**: Tolstoy didn't have time to research everything himself, so he called on historian friends for help, carrying on lengthy correspondences and even bringing some of them to his estate.
+
+**FACT**: The novel spans over 1,215 pages in most translated editions and is divided into 15 volumes with an average sentence length of 30-40 words.
+
+**FACT**: The book follows five different Russian families over fifteen years, from 1805 to 1812, during the Napoleonic Wars.
 
 ---
 
-**Podsumowanie**: Powstanie "Wojny i pokoju" to fascynująca historia 6-letniego maratonu twórczego, w którym uczestniczyła cała rodzina Tołstojów. Sofia, przepisując ręcznie setki stron przy świecach, była prawdziwym współautorem tego arcydzieła. Tołstoj zastosował rewolucyjne metody badawcze, łącząc wywiady z weteranami, wizyty na polach bitew i analizę archiwów z własnym doświadczeniem wojennym. Rezultatem jest 587 287-słowowy kolos literatury, który natychmiast po publikacji w 1869 roku stał się sensacją i od ponad 150 lat uznawany jest za jedno z najważniejszych dzieł literatury światowej.
+**Summary**: The creation of "War and Peace" is a fascinating story of a 6-year creative marathon involving the entire Tolstoy family. Sophia, hand-copying hundreds of pages by candlelight, was a true co-author of this masterpiece. Tolstoy employed revolutionary research methods, combining interviews with veterans, battlefield visits, and archival analysis with his own war experience. The result is a 587,287-word colossus of literature that immediately became a sensation upon publication in 1869 and has been recognized as one of the world's most important literary works for over 150 years.

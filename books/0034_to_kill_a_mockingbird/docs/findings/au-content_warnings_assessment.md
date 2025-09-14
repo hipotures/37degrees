@@ -1,229 +1,229 @@
-# Ocena Content Warnings: "To Kill a Mockingbird" (Zabić drozda)
+# Content Warnings Assessment: "To Kill a Mockingbird"
 
-**Analiza zgodności z zasadami platform społecznościowych na podstawie badań 8 agentów specjalistycznych**
-
----
-
-## Podstawowe Informacje o Książce
-
-- **Tytuł**: "To Kill a Mockingbird" (pol. "Zabić drozda")
-- **Autor**: Harper Lee
-- **Rok wydania**: 1960
-- **Gatunek**: Southern Gothic, Bildungsroman
-- **Context**: Amerykańskie Południe, lata 30., tematyka rasizmu i sprawiedliwości
-- **Data oceny**: 2025-09-06
+**Social media platform compliance analysis based on 8 specialist agent research findings**
 
 ---
 
-## Matrix Ryzyka Platformowego
+## Book Information
 
-| Problematyczny Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|------------------------|-----------|-----------|---------|---------|---------|------|
-| **Rasistowskie słownictwo** | 🔴 WYSOKI | 🔴 WYSOKI | 🟡 ŚREDNI | 🟡 ŚREDNI | 🟢 NISKI | 🟢 NISKI |
-| **"White Savior" narracja** | 🟡 ŚREDNI | 🟡 ŚREDNI | 🟢 NISKI | 🟡 ŚREDNI | 🟢 NISKI | 🟢 NISKI |
-| **Przemoc sądowa/lynch** | 🔴 WYSOKI | 🔴 WYSOKI | 🟡 ŚREDNI | 🟡 ŚREDNI | 🟢 NISKI | 🟢 NISKI |
-| **Molestowanie seksualne** | 🔴 WYSOKI | 🔴 WYSOKI | 🟡 ŚREDNI | 🔴 WYSOKI | 🟡 ŚREDNI | 🟢 NISKI |
-| **Trauma historyczna** | 🟡 ŚREDNI | 🟡 ŚREDNI | 🟢 NISKI | 🟡 ŚREDNI | 🟢 NISKI | 🟢 NISKI |
+- **Title**: "To Kill a Mockingbird"
+- **Author**: Harper Lee
+- **Publication Year**: 1960
+- **Genre**: Southern Gothic, Bildungsroman
+- **Context**: American South, 1930s, themes of racism and justice
+- **Assessment Date**: 2025-09-14
 
 ---
 
-## Główne Content Warnings
+## Platform Risk Matrix
 
-### 🚨 KATEGORIA WYSOKIEGO RYZYKA
+| Problematic Content | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|---------------------|----------|-----------|---------|---------|---------|------|
+| **Racist language** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **White Savior narrative** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Legal violence/Lynch threats** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Sexual assault themes** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
+| **Historical trauma** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 
-#### 1. Język Rasistowski
-- **Problem**: Słowo "n*****" użyte **48 razy** w książce
-- **Context**: Historyczna autentyczność vs współczesna wrażliwość
-- **Impact na audience**: Szczególnie traumatyzujące dla słuchaczy kolorowych
-- **Real Example**: W Kalifornii rodzic poskarżył się: *"Moja córka była dosłownie straumatyzowana"* po ataku z użyciem tego słowa nauczeonego z książki
+---
 
-#### 2. Fałszywe Oskarżenia o Gwałt
-- **Context**: Tom Robinson fałszywie oskarżony o zgwałcenie białej kobiety
-- **Sensitivity**: Temat szczególnie wrażliwy w erze #MeToo
-- **Platform Risk**: Wysokie ryzyko na Meta platforms (Facebook/Instagram)
+## Primary Content Warnings
 
-#### 3. Molestowanie i Przemoc Domowa
-- **Bob Ewell**: Molestowanie córki, przemoc fizyczna
-- **Content Warning**: "Klasyczny abuser" - izolowanie, kontrola, przemoc seksualna
-- **Educational Value**: Rozpoznawanie wzorców toksycznych relacji
+### 🚨 HIGH RISK CATEGORY
 
-#### 4. Przemoc Systemowa i Lynch
-- **Historical Context**: Groźby linczu, systemowy rasizm, przemoc sądu tłumu
-- **Modern Parallels**: Połączenia z współczesnym "police brutality"
-- **Sensitivity**: Szczególnie trudne dla społeczności afroamerykańskiej
+#### 1. Racist Language
+- **Issue**: N-word used **48 times** throughout the book
+- **Context**: Historical authenticity vs contemporary sensitivity
+- **Audience Impact**: Particularly traumatizing for Black listeners
+- **Real Example**: California parent complaint: *"My daughter was literally traumatized"* after attack using racial slur learned from classroom reading
 
-### 🟡 KATEGORIA ŚREDNIEGO RYZYKA
+#### 2. False Rape Accusations
+- **Context**: Tom Robinson falsely accused of raping white woman
+- **Sensitivity**: Particularly sensitive topic in #MeToo era
+- **Platform Risk**: High risk on Meta platforms (Facebook/Instagram)
+
+#### 3. Sexual Abuse and Domestic Violence
+- **Bob Ewell**: Child molestation, physical violence
+- **Content Warning**: "Classic abuser" patterns - isolation, control, sexual violence
+- **Educational Value**: Recognizing toxic relationship patterns
+
+#### 4. Systemic Violence and Lynch Threats
+- **Historical Context**: Lynch threats, systemic racism, mob violence
+- **Modern Parallels**: Connections to contemporary police brutality discussions
+- **Sensitivity**: Particularly difficult for African American communities
+
+### 🟡 MEDIUM RISK CATEGORY
 
 #### 5. "White Savior" Complex
-- **Problem**: Atticus jako biały bohater ratujący czarnych
-- **Controversy**: "Książka szkodzi więcej niż pomaga w edukacji rasowej"
-- **Critical Analysis**: Centrowanie białej perspektywy w opowieści o rasizmie
+- **Issue**: Atticus as white hero saving Black people
+- **Controversy**: "Book does more harm than good in racial education"
+- **Critical Analysis**: Centering white perspective in racism narrative
 
-#### 6. Problemy Zdrowia Psychicznego
-- **Boo Radley**: Social Anxiety Disorder, stigmatyzacja chorób psychicznych
-- **Matka Scout**: Depresja maniakalna, izolacja społeczna
-- **Modern Relevance**: Połączenia z obecnymi problemami zdrowia psychicznego młodzieży
+#### 6. Mental Health Issues
+- **Boo Radley**: Social Anxiety Disorder, mental illness stigma
+- **Scout's Mother**: Manic depression, social isolation
+- **Modern Relevance**: Connections to current youth mental health issues
 
-#### 7. Trauma Rozwojowa
-- **Scout i Jem**: Utrata niewinności poprzez obserwację przemocy
-- **Child Witnesses**: Dzieci jako świadkowie systemowej niesprawiedliwości
-- **Psychological Impact**: Długoterminowe skutki traumy dzieciństwa
+#### 7. Childhood Trauma
+- **Scout and Jem**: Loss of innocence through witnessing violence
+- **Child Witnesses**: Children witnessing systemic injustice
+- **Psychological Impact**: Long-term effects of childhood trauma
 
-### 🟢 KATEGORIA NISKIEGO RYZYKA
+### 🟢 LOW RISK CATEGORY
 
-#### 8. Wartości Edukacyjne
-- **Emparia**: "Nie zrozumiesz osoby, dopóki nie wejdziesz w jej skórę"
-- **Sprawiedliwość**: Lekcje o odwadze moralnej
-- **Literatura klasyczna**: Uznana wartość kulturowa i edukacyjna
+#### 8. Educational Values
+- **Empathy**: "You never understand a person until you walk in their shoes"
+- **Justice**: Lessons about moral courage
+- **Classic Literature**: Recognized cultural and educational value
 
 ---
 
-## Klasyfikacja Wiekowa
+## Age Classification
 
-### 13+ Content (Dozwolone z kontekstem edukacyjnym)
-- ✅ **Podstawowe tematy**: Przyjaźń, rodzina, dorastanie
-- ✅ **Moralne lekcje**: Emparia, sprawiedliwość, tolerancja  
-- ✅ **Kontekst literacki**: Analiza jako dzieło klasyczne
+### 13+ Content (Allowed with educational context)
+- ✅ **Basic themes**: Friendship, family, coming of age
+- ✅ **Moral lessons**: Empathy, justice, tolerance
+- ✅ **Literary context**: Analysis as classic work
 
-### 16+ Content (Wymaga Content Warnings)
-- ⚠️ **Rasistowskie słownictwo**: Kontekst historyczny wyjaśniony
-- ⚠️ **Tematyka gwałtu**: Fałszywe oskarżenia, konsekwencje systemowe
-- ⚠️ **Przemoc domowa**: Wzorce toksycznych relacji (edukacyjnie)
+### 16+ Content (Requires Content Warnings)
+- ⚠️ **Racist language**: Historical context explained
+- ⚠️ **Rape themes**: False accusations, systemic consequences
+- ⚠️ **Domestic violence**: Toxic relationship patterns (educational)
 
 ### 18+ Content (Adult Supervision Recommended)
-- 🔴 **Szczegółowe dyskusje rasizmu**: Systemowa dyskryminacja
-- 🔴 **Trauma seksualna**: Bob Ewell i Mayella
-- 🔴 **Lynch i przemoc rasowa**: Historyczny kontekst, współczesne paralele
+- 🔴 **Detailed racism discussions**: Systemic discrimination
+- 🔴 **Sexual trauma**: Bob Ewell and Mayella
+- 🔴 **Lynch and racial violence**: Historical context, modern parallels
 
 ---
 
 ## Platform-Specific Recommendations
 
 ### 🔴 Facebook & Instagram (HIGH RISK - 2025 Policy Changes)
-**Status**: **NIE ZALECANE** bez ekstremualnych środków ostrożności
+**Status**: **NOT RECOMMENDED** without extreme precautions
 
-**Powody**:
-- Nowe policy Meta pozwalają na "określanie kobiet jako przedmiotów domowych"
-- Brak fact-checkingu, system Community Notes nieprzewidywalny
-- Wysoka tolerancja dla "hate speech" może prowadzić do nieprzewidzianych konsekwencji
+**Reasons**:
+- New Meta policies allow "defining women as household objects"
+- No fact-checking, unpredictable Community Notes system
+- High tolerance for hate speech may lead to unintended consequences
 
-**Jeśli koniecznie**:
-- ⚠️ **AGE-RESTRICT 18+** 
-- ⚠️ **Unikaj cytatów z n-word**
-- ⚠️ **Focus na uniwersalne wartości moralne**
+**If absolutely necessary**:
+- ⚠️ **AGE-RESTRICT 18+**
+- ⚠️ **Avoid quotes with n-word**
+- ⚠️ **Focus on universal moral values**
 - ⚠️ **Avoid political interpretations**
 
 ### 🟡 YouTube (MEDIUM RISK - Original Content Required)
-**Status**: **DOZWOLONE** z odpowiednim approach
-
-**Wymagania 2025**:
-- ✅ **HUMAN NARRATION** (not text-to-speech)
-- ✅ **Original commentary** dominuje nad cytatami
-- ✅ **Educational framing** dla sensitive topics
-- ✅ **1+ minute videos** dla monetization
-
-**Content Strategy**:
-- 📖 **"Why Mockingbird Matters Today"** - łączenie historii ze współczesnością
-- 🎭 **Personal storytelling** approach - nie generic review
-- 📚 **Literature analysis** z own insights
-- 🎨 **Visual transformation** - nie tylko statyczne obrazy
-
-### 🟡 TikTok (MEDIUM RISK - Long-form Only Monetizes)
-**Status**: **DOZWOLONE** ale tylko dla 1+ minute content
+**Status**: **ALLOWED** with proper approach
 
 **2025 Requirements**:
-- ✅ **Original content 1+ minutes** - tylko to się monetyzuje
+- ✅ **HUMAN NARRATION** (not text-to-speech)
+- ✅ **Original commentary** dominates over quotes
+- ✅ **Educational framing** for sensitive topics
+- ✅ **1+ minute videos** for monetization
+
+**Content Strategy**:
+- 📖 **"Why Mockingbird Matters Today"** - connecting history to present
+- 🎭 **Personal storytelling** approach - not generic review
+- 📚 **Literature analysis** with own insights
+- 🎨 **Visual transformation** - not just static images
+
+### 🟡 TikTok (MEDIUM RISK - Long-form Only Monetizes)
+**Status**: **ALLOWED** but only for 1+ minute content
+
+**2025 Requirements**:
+- ✅ **Original content 1+ minutes** - only this monetizes
 - ✅ **Educational value** preferred by algorithm
-- ✅ **Personal reading journey** nie copying reviews
-- ❌ **No duets/stitches** other book reviewers
+- ✅ **Personal reading journey** not copying reviews
+- ❌ **No duets/stitches** of other book reviewers
 
 **Content Ideas**:
 - 📖 **"Scout Finch Energy"** - confident curious women trend potential
-- 🔍 **Modern parallels** - AI bias, systemic racism  
+- 🔍 **Modern parallels** - AI bias, systemic racism
 - 🎯 **#BookToReality** connecting historical injustice to today
 - 💡 **Empathy Challenge** - seeing multiple perspectives
 
 ### 🟢 Spotify (LOW RISK - Creator-Friendly)
 **Status**: **HIGHLY RECOMMENDED**
 
-**Advantages 2025**:
+**2025 Advantages**:
 - 50/50 revenue split with creators
-- Video podcasts preferred dla higher earnings
+- Video podcasts preferred for higher earnings
 - Most book-friendly platform
 - Cross-platform monetization encouraged
 
 **Best Practices**:
-- ✅ **Video format** dla maximum revenue
+- ✅ **Video format** for maximum revenue
 - ✅ **Original commentary** not copying summaries
 - ✅ **Strategic ad breaks** (minimum 1)
 - ✅ **No copyrighted audiobook clips**
-- ✅ **Proper attribution** dla quotes (nie as copyright excuse)
+- ✅ **Proper attribution** for quotes (not as copyright excuse)
 
 **Red Flags to Avoid**:
 - ❌ **Long audiobook excerpts**
-- ❌ **Background music bez licenses**
-- ❌ **Mass-produced content** (identical format dla multiple books)
+- ❌ **Background music without licenses**
+- ❌ **Mass-produced content** (identical format for multiple books)
 
 ### 🟢 Kick (LOWEST RISK - Most Creator-Friendly)
-**Status**: **IDEALNE** dla book content
+**Status**: **IDEAL** for book content
 
 **Advantages**:
-- **95/5 subscription split** - industry leading  
+- **95/5 subscription split** - industry leading
 - **Least restrictive content policies**
-- **$16/hour minimum** dla eligible creators
+- **$16/hour minimum** for eligible creators
 - **Creator-first approach**
 
 **Perfect for**:
-- 📚 **Interactive reading sessions** z community
+- 📚 **Interactive reading sessions** with community
 - 🗣️ **Book discussion streams** leveraging chat
 - 🎓 **Educational series** about literature
-- 🎤 **Author interview streams** (z consent)
+- 🎤 **Author interview streams** (with consent)
 
 ---
 
-## Content Warnings do Zastosowania
+## Required Content Warnings
 
-### Obowiązkowe Warnings dla WSZYSTKICH platform:
+### Mandatory Warnings for ALL platforms:
 
 **🔞 AGE RESTRICTION NOTICE:**
-*"Ta dyskusja dotyczy książki zawierającej dojrzałe tematy: rasizm systemowy, przemoc domową, fałszywe oskarżenia seksualne i język historycznie obraźliwy. Przeznaczone dla dojrzałej publiczności. Słuchacze poniżej 16 lat powinni uzyskać zgodę rodzica/opiekuna."*
+*"This discussion covers a book containing mature themes: systemic racism, domestic violence, false sexual accusations, and historically offensive language. Intended for mature audiences. Listeners under 16 should obtain parent/guardian consent."*
 
 **📚 EDUCATIONAL CONTEXT:**
-*"To Kill a Mockingbird" to dzieło z 1960 roku analizujące amerykański rasizm systemowy. Język i sytuacje odzwierciedlają realia historyczne i nie reprezentują współczesnych wartości ani poglądów twórców content.*
+*"To Kill a Mockingbird" is a 1960 work analyzing American systemic racism. The language and situations reflect historical realities and do not represent contemporary values or content creator views.*
 
 **🎧 SPECIFIC CONTENT WARNINGS:**
-- **Język rasistowski** - słowo n***** użyte wielokrotnie w kontekście historycznym
-- **Przemoc domowa** - molestowanie, nadużycia w rodzinie  
-- **Fałszywe oskarżenia seksualne** - gwałt jako narzędzie kontroli rasowej
-- **Trauma psychiczna** - wpływ systemowej niesprawiedliwości na zdrowie psychiczne
-- **"White Savior" narracja** - perspektywa centrująca białe doświadczenie
+- **Racist language** - n-word used multiple times in historical context
+- **Domestic violence** - molestation, family abuse
+- **False sexual accusations** - rape as tool of racial control
+- **Psychological trauma** - impact of systemic injustice on mental health
+- **"White Savior" narrative** - perspective centering white experience
 
 ### Platform-Specific Content Warnings:
 
 **Facebook/Instagram Additional Warning:**
-*⚠️ UWAGA: Ze względu na zmiany w policy Meta z 2025 roku, ta treść może być nieprzewidywalnie moderowana. Zalecamy oglądanie w kontekście edukacyjnym.*
+*⚠️ WARNING: Due to Meta policy changes in 2025, this content may be unpredictably moderated. Recommended for educational viewing only.*
 
 **YouTube Additional Notice:**
-*📺 Ta analiza zawiera original commentary z human narration zgodnie z YouTube Guidelines 2025. All copyrighted material used under Fair Use dla educational purposes.*
+*📺 This analysis contains original commentary with human narration according to YouTube Guidelines 2025. All copyrighted material used under Fair Use for educational purposes.*
 
 **TikTok Compliance Note:**
-*📱 Original educational content 1+ minute zgodnie z TikTok Creator Rewards requirements. No third-party elements used.*
+*📱 Original educational content 1+ minute complying with TikTok Creator Rewards requirements. No third-party elements used.*
 
 **Spotify Safety Note:**
-*🎧 No copyrighted audiobook excerpts included. All quotes used under Fair Use z proper attribution.*
+*🎧 No copyrighted audiobook excerpts included. All quotes used under Fair Use with proper attribution.*
 
 ---
 
-## Strategiczne Recommendations dla Content Creators
+## Strategic Recommendations for Content Creators
 
 ### 🎯 SAFE CONTENT APPROACH
 
 #### Universal Best Practices:
-1. **Lead z educational value** - nie entertainment  
-2. **Focus na universal lessons**: empathy, justice, moral courage
-3. **Contextualize historical elements** - nie present as current values
-4. **Include diverse perspectives** - nie tylko white interpretation
-5. **Encourage critical thinking** - nie spoon-feed opinions
+1. **Lead with educational value** - not entertainment
+2. **Focus on universal lessons**: empathy, justice, moral courage
+3. **Contextualize historical elements** - not present as current values
+4. **Include diverse perspectives** - not only white interpretation
+5. **Encourage critical thinking** - not spoon-feed opinions
 
 #### Content Framing Examples:
 
@@ -233,12 +233,12 @@
 
 **✅ GOOD**: *"The n-word appears 48 times in this 1960 novel - let's discuss why historical context matters in literature analysis"*
 
-**❌ PROBLEMATIC**: *[Any usage bez context or warnings]*
+**❌ PROBLEMATIC**: *[Any usage without context or warnings]*
 
 ### 🛡️ RISK MITIGATION STRATEGIES
 
 #### For Sensitive Topics:
-1. **Always provide context** przed addressing difficult content
+1. **Always provide context** before addressing difficult content
 2. **Use academic framing** - "scholars argue," "critics note," "research shows"
 3. **Acknowledge multiple perspectives** - particularly marginalized voices
 4. **Connect to modern parallels carefully** - avoid oversimplification
@@ -247,8 +247,8 @@
 #### For Platform Compliance:
 1. **Monitor comments actively** - remove hate speech/trolling
 2. **Have clear community guidelines** posted
-3. **Prepare standard responses** dla controversial comments
-4. **Consider comment moderation** dla sensitive episodes
+3. **Prepare standard responses** for controversial comments
+4. **Consider comment moderation** for sensitive episodes
 5. **Build supportive community** before tackling difficult topics
 
 ---
@@ -266,7 +266,7 @@
 
 #### Platform-Specific Appeal Strategies:
 
-**Meta (Facebook/Instagram)**: 
+**Meta (Facebook/Instagram)**:
 - Emphasize educational value
 - Reference academic freedom arguments
 - Point to widespread school curriculum usage
@@ -284,8 +284,8 @@
 ### Content Backup Strategy:
 1. **Spotify as primary safe harbor** (lowest risk)
 2. **Kick as alternative platform** (most creator-friendly)
-3. **YouTube as educational hub** (z proper precautions)
-4. **Personal website** jako ultimate backup
+3. **YouTube as educational hub** (with proper precautions)
+4. **Personal website** as ultimate backup
 
 ---
 
@@ -300,10 +300,10 @@
 - **Literary appreciation** - classic literature accessibility
 
 #### Content Creator Benefits:
-- **Established audience interest** - classic z proven staying power
+- **Established audience interest** - classic with proven staying power
 - **Academic credibility** - serious literature content builds authority
 - **Cross-platform potential** - topics work across different formats
-- **Long-term relevance** - nie trend-dependent content
+- **Long-term relevance** - not trend-dependent content
 
 ### UNDEREXPLORED OPPORTUNITIES
 
@@ -328,7 +328,7 @@
 1. **START with Spotify** - safest platform with best revenue potential
 2. **BUILD audience with educational approach** - establish credibility
 3. **EXPAND to YouTube** with proper precautions and original content
-4. **TEST TikTok waters** with 1+ minute educational content only  
+4. **TEST TikTok waters** with 1+ minute educational content only
 5. **AVOID Meta platforms** until policy stabilizes
 6. **KEEP Kick as backup** for most sensitive discussions
 
@@ -336,7 +336,7 @@
 
 **Pre-Production**:
 - [ ] Age restriction decision made
-- [ ] Content warnings prepared  
+- [ ] Content warnings prepared
 - [ ] Educational context established
 - [ ] Platform compliance verified
 - [ ] Community guidelines posted
@@ -359,10 +359,10 @@
 
 **"Education over entertainment, context over controversy, empathy over outrage."**
 
-Content creators who approach "To Kill a Mockingbird" z genuine educational intent, appropriate content warnings, platform compliance awareness, i commitment do fostering thoughtful dialogue have największe szanse na success while minimizing platform risk.
+Content creators who approach "To Kill a Mockingbird" with genuine educational intent, appropriate content warnings, platform compliance awareness, and commitment to fostering thoughtful dialogue have the greatest chance of success while minimizing platform risk.
 
-The book's enduring relevance to issues of justice, empathy, and moral courage makes it valuable content - ale tylko gdy handled z appropriate care, context, i respect dla both historical significance i contemporary sensitivity.
+The book's enduring relevance to issues of justice, empathy, and moral courage makes it valuable content - but only when handled with appropriate care, context, and respect for both historical significance and contemporary sensitivity.
 
 ---
 
-*Dokument przygotowany na podstawie analizy 8 agentów specjalistycznych oraz aktualnych wytycznych platform społecznościowych na 2025 rok. Rekomendacje mogą wymagać aktualizacji w przypadku zmian w polityce platform.*
+*Document prepared based on analysis of 8 specialist agents and current social media platform guidelines for 2025. Recommendations may require updates in case of platform policy changes.*

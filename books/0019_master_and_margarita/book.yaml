@@ -5,3 +5,186 @@ book_info:
   year: 1967
   genre: "Novel"
   reading_time: "12-15 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-15T15:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 8
+    total: 70
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.2
+      category: high
+    heat:
+      value: 8.2
+      category: high
+
+  themes:
+    universal:
+      - id: "soviet_authoritarianism"
+        type: "FACT"
+        credibility: 0.95
+        content: "Stalin banned all Bulgakov's works by 1930, creating financial ruin and death threat for the author"
+        source: "dark_drama"
+      - id: "religious_controversy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Russian Orthodox Church condemned the work as 'spreading Satanism' in 2004, calling adaptations dangerous"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneered magical realism decades before Latin American movement, creating metafictional techniques"
+        source: "writing_innovation"
+      - id: "prophetic_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Surveillance state themes and authoritarian control mechanisms predicted modern totalitarian methods"
+        source: "reality_wisdom"
+      - id: "cultural_immortality"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 250 musical works inspired by the novel, including Rolling Stones' 'Sympathy for the Devil'"
+        source: "culture_impact"
+      - id: "philosophical_complexity"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "38+ interpretive layers including gnostic, existentialist, feminist, and psychoanalytic readings"
+        source: "symbols_meanings"
+      - id: "digital_renaissance"
+        type: "HYPOTHESIS"
+        credibility: 0.75
+        content: "1.2M TikTok posts and 2024 film controversy showing renewed youth engagement with classic themes"
+        source: "youth_digital"
+      - id: "moral_dualism"
+        type: "FACT"
+        credibility: 0.95
+        content: "Central theme of good and evil interdependence: 'What would light do without shadow?'"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Global literary canon status with major English-language scholarship"
+        key_editions: ["Penguin Classics", "Vintage International", "Modern Library"]
+        reception_notes: "Recognized as foundational magical realism text"
+        educational_status: "University literature curriculum standard"
+        local_themes: ["Existentialist interpretations", "Cold War allegory readings"]
+
+      pl:
+        cultural_impact: "Required reading in Polish schools, extensive theatrical adaptations"
+        key_editions: ["Multiple competing translations since 1969", "School editions with analysis"]
+        reception_notes: "Deep resonance with Polish experience of communism"
+        educational_status: "Advanced high school curriculum requirement"
+        local_themes: ["Post-communist readings", "National resistance themes"]
+
+      de:
+        cultural_impact: "Strong academic tradition and Faust connection analysis"
+        key_editions: ["Reclam editions", "Scholarly annotated versions"]
+        reception_notes: "Philosophical interpretations dominant"
+        educational_status: "University German literature programs"
+        local_themes: ["Goethe connections", "Romantic philosophy parallels"]
+
+      fr:
+        cultural_impact: "Structuralist analysis tradition, existentialist connections"
+        key_editions: ["Gallimard Pléiade", "Folio editions"]
+        reception_notes: "Academic focus on narrative structure"
+        educational_status: "Advanced literature studies"
+        local_themes: ["Structuralist readings", "Existentialist philosophy"]
+
+      es:
+        cultural_impact: "Recognized as magical realism precursor"
+        key_editions: ["Various Spanish translations", "Latin American editions"]
+        reception_notes: "Connected to Márquez and Cortázar"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Magical realism origins", "Political allegory"]
+
+      pt:
+        cultural_impact: "Brazilian magical realism studies focus"
+        key_editions: ["Portuguese and Brazilian translations"]
+        reception_notes: "Academic magical realism analysis"
+        educational_status: "University literature programs"
+        local_themes: ["Magical realism techniques", "Religious syncretism"]
+
+      ja:
+        cultural_impact: "Philosophical depth appreciation in academic circles"
+        key_editions: ["Multiple Japanese translations"]
+        reception_notes: "Focus on spiritual and philosophical themes"
+        educational_status: "Graduate literature programs"
+        local_themes: ["Buddhist interpretations", "Spiritual dualism"]
+
+      ko:
+        cultural_impact: "Authoritarian resistance themes resonate strongly"
+        key_editions: ["Korean translations available"]
+        reception_notes: "Connected to Korean historical experience"
+        educational_status: "Contemporary literature studies"
+        local_themes: ["Resistance literature", "Authority critique"]
+
+      hi:
+        cultural_impact: "Religious and philosophical interpretation focus"
+        key_editions: ["Hindi translations available"]
+        reception_notes: "Spiritual interpretations prominent"
+        educational_status: "Academic religious studies"
+        local_themes: ["Religious syncretism", "Good vs evil philosophy"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Stalin's personal relationship with Bulgakov, artistic repression under communism"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "How characters navigate oppressive systems, parallels to modern authoritarianism"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "gender_and_social_roles"
+          lead: "host_a"
+          description: "Margarita's transformation and feminist empowerment, subversion of traditional roles"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Modern parallels: surveillance states, cancel culture, artistic freedom in digital age"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Master and Margarita' through the lens of power, gender, and class. Historical context: Soviet Union 1930s under Stalin's terror. Discuss how Bulgakov's personal persecution by Stalin mirrors the Master's fate, examine the novel's critique of literary elites and bureaucracy, and analyze how social hierarchies function in both Moscow and Jerusalem timelines."
+        host_b: "You are {female_name}, examining contemporary relevance of 'The Master and Margarita'. Connect themes to current social debates: authoritarianism vs democracy, surveillance states, artistic censorship, cancel culture, and gender empowerment. Explore how Margarita's agency and the novel's anti-authoritarian message resonate with modern movements for social justice and creative freedom."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "religious content discussion"
+      - "historical violence references"
+      - "political themes"
+      - "mature philosophical concepts"
+    educational_elements:
+      - "Russian literature and magical realism techniques"
+      - "Historical context of 1930s Soviet Union and Stalinist persecution"
+      - "Biblical and religious symbolism analysis"
+      - "Social criticism and power dynamics"
+      - "Comparative literature (Faust connections)"
+    production_notes:
+      intro_style: "Academic but accessible - introduce the controversy and Stalin's personal relationship with Bulgakov"
+      transitions: "Smooth bridges between historical analysis and contemporary parallels"
+      outro_style: "Reflective conclusion linking past authoritarian patterns to present challenges"
+
+  overall_confidence: 0.91

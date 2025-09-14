@@ -1,120 +1,132 @@
-# Lokalne badania kontekstu: "Zbrodnia i kara" w Polsce
+# Local Context Research: "Crime and Punishment" in Poland
 
-## Historia publikacji i recepcji w Polsce
+## Publication History and Reception in Poland
 
-### Pierwsze wydania polskie
-1. **1887-1888** - Pierwsze polskie wydanie "Zbrodni i kary", zaledwie 20 lat po rosyjskim oryginale z 1867 roku
-2. **1928** - Tłumaczenie zbiorowe J.P. Zajączkowskiego (dostępne na Wikiźródłach)
-3. **Współczesne wydania** - Adam Pomorski (wydawnictwo Znak) - uznany tłumacz literatury niemieckiej i rosyjskiej
+### First Polish Editions
+1. **1887-1888** - First Polish edition of "Crime and Punishment" (Polish: "Zbrodnia i kara"), only 20 years after the Russian original from 1867
+2. **1928** - Collective translation by J.P. Zajączkowski (available on Wikisource)
+3. **Contemporary editions** - Adam Pomorski (Znak Publishing House) - recognized translator of German and Russian literature
 
-### Polscy tłumacze i wyzwania językowe
-- **Barbara Beaupré** - tłumaczka "Braci Karamazow" (1913), której przekład prof. Grzegorz Przebinda określił jako "romans dla pensjonarek"
-- **Czesław Jastrzębiec-Kozłowski** - autor jednego z polskich przekładów powieści
-- **Problemy tłumaczeniowe**: Tytuł "Преступле́ние и наказа́ние" ma głębsze znaczenie niż polska "Zbrodnia i kara" - pierwsze słowo oznacza działanie przeciw normom społecznym, drugie - nie tylko karę, ale i naukę
+### Polish Translators and Language Challenges
+- **Barbara Beaupré** - translator of "The Brothers Karamazov" (1913), whose translation Prof. Grzegorz Przebinda described as "romance for boarding school girls"
+- **Czesław Jastrzębiec-Kozłowski** - author of one of the Polish translations of the novel
+- **Translation problems**: The title "Преступле́ние и наказа́ние" has deeper meaning than the Polish "Zbrodnia i kara" - the first word means action against social norms, the second - not only punishment, but also lesson/teaching
 
-### Znaczenie nazwiska głównego bohatera
-- **Raskolnikow** pochodzi od rosyjskiego "raskoł" (rozłam, schizma)
-- Nawiązuje do schizmy w Kościele prawosławnym z XVII wieku
-- "Raskolnik" = rozłamowiec, odszczepieniec, schizmatyk
-- Symbolizuje zerwanie bohatera z jednością świata, Kościoła i zasad etycznych
+### Significance of the Main Character's Surname
+- **Raskolnikov** comes from Russian "raskol" (schism, split)
+- References the schism in the Orthodox Church from the 17th century
+- "Raskolnik" = schismatic, dissenter, sectarian
+- Symbolizes the character's break with the unity of the world, Church, and ethical principles
 
-## Status w polskim systemie edukacji
+## Status in Polish Education System
 
-### Lektura obowiązkowa
-- **Matura 2024-2025** - "Zbrodnia i kara" jako lektura obowiązkowa na poziomie podstawowym
-- Znajduje się obok innych klasyki: "Lalka" Prusa, "Potop" Sienkiewicza, "Wesele" Wyspiańskiego
-- **Pytania maturalne**: "Walka człowieka ze swoimi słabościami", "Motyw winy i kary"
+### Mandatory Reading
+- **Matura 2024-2025** - "Crime and Punishment" as mandatory reading at basic level
+- Listed alongside other classics: "The Doll" by Prus, "The Deluge" by Sienkiewicz, "The Wedding" by Wyspiański
+- **Exam questions**: "Man's struggle with his weaknesses", "The motif of guilt and punishment"
 
-### Podejście pedagogiczne
-- Uważana za najważniejsze dzieło psychologiczne Dostojewskiego
-- Analizowana przez filozofów, socjologów i psychologów
-- Ceniona za: głębię psychologiczną, wartość filozoficzną, analizę problematyki moralnej
-- Uczniowie korzystają z wydań z opracowaniami zawierającymi notatki na marginesie i cytaty kluczowe dla analizy
+### Educational Approach
+- Considered Dostoevsky's most important psychological work
+- Analyzed by philosophers, sociologists, and psychologists
+- Valued for: psychological depth, philosophical value, analysis of moral issues
+- Students use editions with study guides containing margin notes and key quotes for analysis
 
-## Polskie adaptacje teatralne i filmowe
+## Polish Theater and Film Adaptations
 
-### Historia adaptacji teatralnych
-- **1934** - Najwcześniejsze polskie adaptacje teatralne:
-  - Leon Schiller w Teatrze Polskim w Warszawie (28 marca)
-  - Henryk Szletyński w Teatrze Miejskim w Łodzi (28 kwietnia)
-- **1958** - Adaptacja Zygmunta Hübnera w Teatrze Wybrzeże w Gdańsku
-- **1977** - Produkcja Macieja Prusa w Starym Teatrze w Krakowie
-- **1987** - Adaptacja Andrzeja Wajdy dla Teatr Telewizji
-- **2007** - Adaptacja Waldemara Śmigasiewicza w Krakowie (skupiona na psychologicznym stanie Raskolnikowa)
+### History of Theater Adaptations
+- **1934** - Earliest Polish theater adaptations:
+  - Leon Schiller at the Polish Theater in Warsaw (March 28)
+  - Henryk Szletyński at the Municipal Theater in Łódź (April 28)
+- **1958** - Adaptation by Zygmunt Hübner at Wybrzeże Theater in Gdańsk
+- **1977** - Production by Maciej Prus at the Old Theater in Krakow
+- **1987** - Adaptation by Andrzej Wajda for Television Theater
+- **2007** - Adaptation by Waldemar Śmigasiewicz in Krakow (focused on Raskolnikov's psychological state)
 
-### Współczesne podejścia
-- Teatr Scena Polska z Czech Cieszyn używał obrotowej sceny
-- Niektóre adaptacje przenoszą akcję do współczesności (np. Detroit zamiast Petersburga)
-- Krytycy podkreślają, że adaptacja literatury to zawsze wyzwanie bez upraszczania dzieła
+### Contemporary Approaches
+- Polish Scene Theater from Czech Cieszyn used a rotating stage
+- Some adaptations move the action to contemporary times (e.g., Detroit instead of St. Petersburg)
+- Critics emphasize that adapting literature is always a challenge without simplifying the work
 
-## Recepcja w kontekście stosunków polsko-rosyjskich
+## Reception in the Context of Polish-Russian Relations
 
-### Problematyczny kontekst historyczny
-- **"Kompleks Dostojewskiego"** - negatywne portretowanie Polaków w dziełach pisarza
-- Dostojewski przedstawiał Polaków jako "aroganckich oszustów i fałszywych hrabiów"
-- Jego antypatia skierowana była głównie przeciw Polakom dążącym do niepodległości od Rosji
+### Problematic Historical Context
+- **"Dostoevsky Complex"** - negative portrayal of Poles in the writer's works
+- Dostoevsky presented Poles as "arrogant fraudsters and false counts"
+- His antipathy was mainly directed against Poles striving for independence from Russia
 
-### Recepcja krytyczna
-- **Janina Kulczycka-Saloni** (1972) - udokumentowała recepcję Dostojewskiego w Polsce w "Miesiączniku Literackim"
-- M. Brykalska zauważyła, że "Polak doskonale władający rosyjskim chętniej sięgnie po francuskie tłumaczenie Dostojewskiego niż po oryginał"
+### Critical Reception
+- **Janina Kulczycka-Saloni** (1972) - documented Dostoevsky's reception in Poland in "Literary Monthly"
+- M. Brykalska noted that "a Pole perfectly fluent in Russian would rather reach for a French translation of Dostoevsky than the original"
 
-### Kontekst kulturowy rodziny Dostojewskiego
-- Rodzina Dostojewskich pochodziła z Dostojewa na Polesiu (13 km od Janowa Poleskiego)
-- Wieś znajdowała się w dawnej Rzeczypospolitej (pod zaborem rosyjskim od 1795)
-- Nazwa pochodzi od polskiego słowa "dostojnik" (godnosc)
+### Cultural Context of Dostoevsky's Family
+- The Dostoevsky family originated from Dostojevo in Polesie (13 km from Janów Poleski)
+- The village was located in the former Polish-Lithuanian Commonwealth (under Russian partition since 1795)
+- The name comes from the Polish word "dostojnik" (dignity)
 
-## Współczesna kultura popularna i młodzież
+## Contemporary Popular Culture and Youth
 
-### Obecność w mediach społecznościowych
-- Pojawiają się treści TikTok związane z "Zbrodnią i karą" od polskich twórców
-- Powieść uważana za jedną z najbardziej atrakcyjnych lektur kanonicznych w Polsce
-- Współczesne interpretacje: Dmitrij Głuchowski napisał "Tekst" w stylu, w jakim "Dostojewski mógłby pisać, gdyby żył w erze smartfonów, internetu i hip-hopu"
+### Presence in Social Media
+- TikTok content related to "Crime and Punishment" appears from Polish creators
+- The novel is considered one of the most attractive canonical readings in Poland
+- Contemporary interpretations: Dmitry Glukhovsky wrote "Text" in the style "Dostoevsky might write if he lived in the era of smartphones, internet, and hip-hop"
 
-### Edukacyjne zasoby online
-- Liczne polskie strony edukacyjne (opracowania.pl, bryk.pl) z streszczeniami i analizami
-- Wskazuje na ciągłą popularność wśród młodych czytelników
-- Materiały przygotowujące do matury i egzaminów
+### Educational Online Resources
+- Numerous Polish educational websites (opracowania.pl, bryk.pl) with summaries and analyses
+- Indicates continued popularity among young readers
+- Materials preparing for matura and exams
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Językowe subtelności
-- **Amalia** - niemiecka postać mówiąca po rosyjsku z błędami, co stanowi wyzwanie dla polskich tłumaczy
-- Tłumaczenia "z drugiej ręki" - niektóre przekłady na języki regionalne (np. kaszubski) robione z polskich tłumaczeń, nie z rosyjskiego oryginału
+### Linguistic Subtleties
+- **Amalia** - German character speaking Russian with errors, which poses a challenge for Polish translators
+- "Second-hand" translations - some translations into regional languages (e.g., Kashubian) made from Polish translations, not from the Russian original
 
-### Akademickie interpretacje
-- **Prof. Grzegorz Przebinda** (UJ) - specjalista od rusycystyki i ukrainistyki, krytyk jakości starszych polskich przekładów
-- Badania porównawcze różnych polskich tłumaczeń na podstawie charakterystyk postaci
-- Analiza różnic w technikach przekładowych między wersjami
+### Academic Interpretations
+- **Prof. Grzegorz Przebinda** (Jagiellonian University) - specialist in Russian and Ukrainian studies, critic of the quality of older Polish translations
+- Comparative studies of different Polish translations based on character characteristics
+- Analysis of differences in translation techniques between versions
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specifics
 
-### Środowiska akademickie
-- **Uniwersytet Jagielloński** - ośrodek badań rusycystycznych
-- **Torun** - kursy historii stosunków polsko-rosyjskich
-- **Repozytorium UWB** - badania nad "duszą rosyjską" w kontekście polskim
+### Academic Communities
+- **Jagiellonian University** - center of Russian studies research
+- **Toruń** - courses on the history of Polish-Russian relations
+- **UWB Repository** - research on the "Russian soul" in Polish context
 
-### Wydawnicze inicjatywy
-- **Wydawnictwo Znak** - współczesne wydania z opracowaniami
-- **BookRage Dostojewski** - akcje promocyjne skupione na dziełach pisarza
-- **Nagroda Angelus** - regularne omawianie klasyki rosyjskiej w polskim kontekście
+### Publishing Initiatives
+- **Znak Publishing House** - contemporary editions with study guides
+- **BookRage Dostoevsky** - promotional campaigns focused on the writer's works
+- **Angelus Award** - regular discussion of Russian classics in Polish context
 
-## Problemy kulturowe i różnice interpretacyjne
+## Cultural Problems and Interpretative Differences
 
-### Kwestie religijne
-- Dostojewski głosił tezę o historycznej i religijnej misji Rosji
-- Jego prawosławna duchowość kontrastuje z polską tradycją katolicką
-- Problem z recepcją jego antyokcydentalnych poglądów w Polsce
+### Religious Issues
+- Dostoevsky proclaimed the thesis about Russia's historical and religious mission
+- His Orthodox spirituality contrasts with Polish Catholic tradition
+- Problem with reception of his anti-Western views in Poland
 
-### Różnice mentalnościowe
-- Polski indywidualizm vs rosyjski kolektywizm w interpretacji moralności
-- Różne rozumienie pojęcia "naród" i "lud" w kulturze polskiej i rosyjskiej
-- Problem z recepcją "poczwiennictwa" (ruch powrotu do rodzimej ziemi) w kontekście polskim
+### Mentality Differences
+- Polish individualism vs Russian collectivism in moral interpretation
+- Different understanding of "nation" and "people" in Polish and Russian culture
+- Problem with reception of "pochvennichestvo" (movement of return to native soil) in Polish context
 
-### Współczesne wyzwania interpretacyjne
-- Jak czytać Dostojewskiego w kontekście współczesnych stosunków polsko-rosyjskich?
-- Problem z separowaniem wartości literackich od kontekstu politycznego
-- Różnice w interpretacji psychologizmu między kulturą polską a rosyjską
+### Contemporary Interpretative Challenges
+- How to read Dostoevsky in the context of contemporary Polish-Russian relations?
+- Problem with separating literary values from political context
+- Differences in interpretation of psychologism between Polish and Russian culture
 
-## Podsumowanie: Lokalna specyfika recepcji
+## Summary: Local Reception Specifics
 
-"Zbrodnia i kara" w Polsce funkcjonuje jako dzieło uniwersalne, ale odczytywane przez pryzmat złożonej historii polsko-rosyjskiej. Polscy czytelnicy doceniają psychologiczną głębię powieści, jednocześnie dystansując się od jej prawosławnych i panslawistycznych elementów. Powieść pozostaje ważną lekturą szkolną, inspiruje współczesnych twórców i adaptacje, ale jej recepcja jest nieodłącznie związana z polską pamięcią historyczną i kulturową odrębnoscia od rosyjskiego kręgu cywilizacyjnego.
+"Crime and Punishment" in Poland functions as a universal work, but read through the prism of complex Polish-Russian history. Polish readers appreciate the psychological depth of the novel while distancing themselves from its Orthodox and Pan-Slavist elements. The novel remains an important school reading, inspires contemporary creators and adaptations, but its reception is inseparably connected with Polish historical memory and cultural distinctness from the Russian civilizational circle.
+
+### Key Facts for Polish Listeners:
+1. **Translation Legacy**: First Polish translation appeared just 20 years after Russian original (1887-1888)
+2. **Educational Impact**: Currently mandatory reading for Polish matura exam (2024-2025)
+3. **Theater Tradition**: Continuous stage adaptations since 1934, including works by Leon Schiller and Andrzej Wajda
+4. **Name Symbolism**: "Raskolnikov" from "raskol" (schism) - concept well understood in Polish religious history
+5. **Translation Challenges**: Polish "Zbrodnia i kara" doesn't fully capture the philosophical depth of Russian original
+6. **Academic Centers**: Jagiellonian University leads Polish research on Dostoevsky's works
+7. **Cultural Complexity**: Polish readers navigate between literary appreciation and historical Polish-Russian tensions
+8. **Contemporary Relevance**: Modern Polish creators like Dmitry Glukhovsky create works inspired by Dostoevsky's style
+9. **Regional Connections**: Dostoevsky family origins traced to territories of former Polish-Lithuanian Commonwealth
+10. **Educational Resources**: Extensive Polish online materials support student understanding of the work

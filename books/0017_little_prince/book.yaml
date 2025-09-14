@@ -5,3 +5,182 @@ book_info:
   year: 1943
   genre: "Fable,Children"
   reading_time: "2-3 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T18:45:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 5
+    total: 61
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "The Little Prince was banned in France until 1945 by Vichy regime and faced double censorship from both collaborationists and resistance"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contains 35+ interpretations ranging from Jungian psychology to postcolonial criticism, establishing archetypal patterns"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Most translated non-religious book with 600+ languages, second only to Bible in translation record"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Maintains strong presence on BookTok with 4.5M posts, resonating with Gen Z mindfulness trends"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Saint-Exupéry's 1943 critique of materialism and social isolation proved prophetic for social media age"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created philosophical fable genre combining author's own illustrations with dual narrative structure"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written during WWII exile in New York, inspired by author's 1935 desert crash survival experience"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Addresses themes of death, loss, and existential loneliness but maintains all-ages appropriateness"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "First published simultaneously in English and French in 1943 New York, establishing American literary canon status"
+        key_editions: ["Katherine Woods translation (1943-2001)", "Richard Howard modern translation (2000)", "Standard Ebooks digital edition"]
+        reception_notes: "Canonical status in Western literature with 2.4M Goodreads ratings averaging 4.33 stars"
+        educational_status: "University curriculum staple in philosophy and literature courses"
+        local_themes: ["Humanist philosophy", "Wartime exile experience", "American cultural adoption"]
+
+      pl:
+        cultural_impact: "First foreign language translation (1947) by Marta Malicka, establishing deep Polish cultural roots"
+        key_editions: ["Jan Szwykowski translation (50+ editions)", "Agata Kozak translation (2021 free license)", "Regional dialect versions (Kashubian, Silesian)"]
+        reception_notes: "Mandatory 8th grade reading with strong theatrical tradition across major Polish theaters"
+        educational_status: "Required curriculum reading since 2017, continuing through 2024+"
+        local_themes: ["Post-war recovery literature", "Catholic philosophical interpretations", "Regional cultural identity"]
+
+      de:
+        cultural_impact: "Strong academic tradition with philosophical interpretations dominant in German scholarship"
+        key_editions: ["Reclam editions", "Scholarly annotated versions", "Academic study editions"]
+        reception_notes: "Emphasis on Romantic movement connections and psychological depth"
+        educational_status: "Literature and philosophy curriculum integration"
+        local_themes: ["German Romantic influence", "Psychoanalytic readings", "Philosophical tradition"]
+
+      fr:
+        cultural_impact: "National literary treasure despite wartime publication controversy and initial ban"
+        key_editions: ["Original Gallimard editions", "Commemorative versions", "Restored manuscript editions"]
+        reception_notes: "Voted best French book of 20th century in public polling"
+        educational_status: "Core French literature curriculum across all levels"
+        local_themes: ["French literary heritage", "Resistance literature legacy", "National cultural identity"]
+
+      es:
+        cultural_impact: "Significant presence in Spanish-speaking world with multiple translation traditions"
+        key_editions: ["Latin American editions", "Spanish Peninsula versions", "Regional adaptations"]
+        reception_notes: "Popular across all Spanish-speaking countries with cultural adaptations"
+        educational_status: "Widely used in Spanish literature and language programs"
+        local_themes: ["Universal humanism", "Cross-cultural philosophy", "Literary translation studies"]
+
+      pt:
+        cultural_impact: "Popular in both Brazilian and Portuguese markets with distinct reception traditions"
+        key_editions: ["Brazilian Portuguese editions", "European Portuguese versions", "Children's adaptations"]
+        reception_notes: "Strong presence in both Portuguese-speaking literary traditions"
+        educational_status: "Literature curriculum inclusion in both Brazil and Portugal"
+        local_themes: ["Lusophone literary connections", "Children's literature tradition", "Cross-Atlantic cultural bridge"]
+
+      ja:
+        cultural_impact: "Created dedicated museum in Hakone, demonstrating deep cultural penetration and reverence"
+        key_editions: ["Multiple Japanese translations", "Manga adaptations", "Cultural interpretation guides"]
+        reception_notes: "Museum attraction (operated until 2023) showing cultural significance beyond literature"
+        educational_status: "Popular in Japanese education emphasizing philosophical and aesthetic dimensions"
+        local_themes: ["Eastern philosophical interpretations", "Aesthetic minimalism connections", "Cultural shrine creation"]
+
+      ko:
+        cultural_impact: "Created Petite France theme park demonstrating massive cultural investment and tourism"
+        key_editions: ["Korean translations", "Educational materials", "Tourism-related publications"]
+        reception_notes: "500,000 annual visitors to themed attraction showing extraordinary cultural adoption"
+        educational_status: "Educational integration with cultural tourism and French language learning"
+        local_themes: ["Korean-French cultural bridge", "Tourism cultural phenomenon", "Educational entertainment fusion"]
+
+      hi:
+        cultural_impact: "Part of broader Indian engagement with world literature and philosophical texts"
+        key_editions: ["Hindi translations", "Regional language versions", "Educational adaptations"]
+        reception_notes: "Growing presence in Indian literary education and philosophical discourse"
+        educational_status: "Inclusion in world literature curricula and philosophical studies"
+        local_themes: ["Universal spiritual themes", "Cross-cultural philosophy", "Educational modernization"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 15
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Saint-Exupéry's wartime exile context and the creation of philosophical fable genre"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "analysis"
+          lead: "host_b"
+          description: "35+ interpretations from Jungian psychology to postcolonial criticism"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "examples"
+          lead: "host_a"
+          description: "Cultural phenomenon evidence - 600+ translations and global adaptations"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Contemporary relevance - prophectic accuracy about social media isolation"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "conclusion"
+          lead: "host_a"
+          description: "Literary innovation legacy and enduring philosophical depth"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Little Prince' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
+
+  metadata:
+    target_audience: "12+"
+    content_warnings: ["none"]
+    educational_elements: ["Fable genre characteristics", "Historical context of 1943", "Philosophical concepts through symbolism", "Cross-cultural literary impact"]
+    production_notes:
+      intro_style: "Contemplative with soft instrumental accompaniment reflecting the book's meditative quality"
+      transitions: "Subtle musical bridges with ethereal, space-like sounds"
+      outro_style: "Reflective conclusion with gentle fade emphasizing lasting philosophical impact"
+
+  overall_confidence: 0.82

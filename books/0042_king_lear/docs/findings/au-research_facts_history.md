@@ -1,113 +1,257 @@
-# Badanie Faktów i Historii: Król Lear (King Lear) - William Shakespeare
+# Research Facts and History: King Lear - William Shakespeare
 
-## Wprowadzenie
-William Shakespeare napisał "Króla Leara" około 1605-1606 roku, w jednym z najbardziej burzliwych okresów angielskiej historii. To nie była zwykła adaptacja starej legendy - Shakespeare tworzył swoje dzieło w cieniu spisku prochowego, sporów religijnych i próby zjednoczenia królestw przez Jakuba I.
+## Introduction
+William Shakespeare's "King Lear" is believed to have been written around 1605-1606, during one of the most tumultuous periods in English history. This was not merely an adaptation of an old legend; Shakespeare crafted his work in the shadow of the Gunpowder Plot, religious disputes, and King James I's attempts to unite the kingdoms.
 
-## Geneza i Proces Twórczy
+## 1. Circumstances of Book Creation (Where, When, Why it was Written)
 
-### **FAKT**: Król Lear powstał między "Otellem" a "Makbetem"
-Shakespeare napisał Króla Leara między 1605-1606 rokiem, umieszczając go chronologicznie między "Otellem" a "Makbetem". To była część niezwykłego roku 1606, kiedy to Shakespeare stworzył trzy arcydzieła: "Król Lear", "Makbet" i "Antoniusz i Kleopatra".
+### When and Where
+**FACT:** Believed to have been written around 1605-1606.
 
-### **FAKT**: Inspiracja prawdziwą sprawą sądową z 1603 roku
-Shakespeare czerpał inspirację z głośnej sprawy sądowej Sir Briana Annesley z 1603 roku. Dwie starsze córki próbowały ogłosić ojca obłąkanym, aby przejąć jego majątek, ale najmłodsza córka - Cordell (!) - skutecznie go obroniła. Sprawa toczyła się dokładnie w czasie, gdy Shakespeare zaczynał pracę nad sztuką.
+**FACT:** First recorded performance on December 26, 1606, before King James I.
 
-### **FAKT**: Wpływ zaćmień słońca i księżyca z 1605 roku
-W sztuce Gloucester mówi o "niedawnych zaćmieniach słońca i księżyca". Shakespeare odnosił się do rzeczywistych zjawisk: zaćmienia księżyca z 27 września 1605 i zaćmienia słońca z 12 października 1605, które miały miejsce nad Londynem w odstępie zaledwie dwóch tygodni.
+**FACT:** Written in England, likely for the London stage, including the Globe Theatre.
 
-### **FAKT**: Związek ze spiskiem prochowym
-Shakespeare prawdopodobnie zaczął pisać "Króla Leara" jesienią 1605 roku, przed spiskiem prochowym (5 listopada 1605), a skończył po nim. W scenie z Gloucesterem, gdy mówi o "zdradzie w pałacach", prawdopodobnie nawiązuje do świeżo odkrytego spisku.
+### Why it was Written - Source Material
+**FACT:** Drew heavily from existing legends and literary works.
 
-### **FAKT**: Źródła demonów Edgara pochodzą z propagandy antykatolickiej
-Wszystkie nazwy demonów, którymi Edgar się nazywa jako "Biedny Tom" (Flibbertigibbet, Smulkin, Modo, Mahu, Hoppedance), Shakespeare wziął z jednej książki - "A Declaration of Egregious Popish Impostures" Samuela Harsnetta z 1603 roku, która była atakiem na katolickich księży przeprowadzających egzorcyzmy.
+**PRIMARY SOURCE:** The legend of King Leir, a mythical king of pre-Roman Britain, found in Geoffrey of Monmouth's *Historia Regum Britanniae* (1135), Raphael Holinshed's *Chronicles of England, Scotland, and Ireland* (1587), *A Mirror for Magistrates*, and Edmund Spenser's *The Faerie Queene* (1590).
 
-## Pierwsza Publikacja i Wydania
+**ADAPTATION:** Also adapted elements from an anonymous play titled *The True Chronicle History of King Leir and His Three Daughters*, published in 1605 but performed earlier.
 
-### **FAKT**: Jedyna znana prezentacja za życia Shakespeare'a
-Jedyne udokumentowane przedstawienie za życia Shakespeare'a odbyło się 26 grudnia 1606 roku przed królem Jakubem I w Whitehall podczas świąt Bożego Narodzenia.
+**SUBPLOT INSPIRATION:** Incorporated a subplot inspired by Sir Philip Sidney's *Arcadia* (1590).
 
-### **FAKT**: Pierwsza edycja kwartalowa z 1608 roku
-Pierwsze wydanie "Króla Leara" ukazało się w 1608 roku nakładem Nathaniela Buttera i Johna Busby'ego. Tytułowa strona nazywała sztukę "prawdziwą kroniką historyczną", nie tragedią.
+### Why it was Written - Historical and Political Context
+**FACT:** Reflects the anxieties of the Jacobean era, specifically the early reign of King James I (1603-1625).
 
-### **FAKT**: Dwie różne wersje - kwarto vs. folio
-Wersja z 1608 roku (Q1) i wersja z First Folio (1623) różnią się znacząco: Q1 zawiera około 285 wersów, których nie ma w F, a F zawiera około 102 wersów nieobecnych w Q1. Zmieniono także około tysiąca pojedynczych słów.
+**RELEVANT THEMES:** Themes of monarchy, succession, and the divine right of kings were highly relevant, as James I sought to unite England and Scotland.
 
-### **FAKT**: 157 lat dominacji adaptacji Nahuma Tate'a
-Od 1681 do 1838 roku (157 lat!) na angielskich scenach wystawiano nie oryginalną wersję Shakespeare'a, ale adaptację Nahuma Tate'a z happy endem, gdzie Cordelia poślubia Edgara, a Lear odzyskuje tron.
+**IMPACT:** The play's exploration of kingdom division was particularly resonant, and Lear's decision to abdicate and divide his kingdom would have been seen as a disruption of the natural order by contemporary audiences.
 
-## Kontekst Polityczny i Społeczny
+### Why it was Written - Contemporary Events
+**INFLUENCE:** Influenced by a 1603 court case involving Sir Brian Annesley, an aging nobleman whose eldest daughters attempted to have him declared insane to seize his property.
 
-### **FAKT**: Sztuka dla króla pragnącego jedności
-Jakub I chciał zjednoczyć Anglię i Szkocję pod nazwą Wielkiej Brytanii. Shakespeare wprowadził słowo "British" po raz pierwszy w swoich sztukach właśnie w "Królu Learze", a całe dzieło ostrzega przed tragicznymi konsekwencjami podziału królestwa.
+**PARALLEL:** His youngest daughter, Cordell, successfully defended him, a situation uncannily similar to Lear's predicament with his daughters.
 
-### **FAKT**: Synowie Jakuba I jako Cornwall i Albany
-Jakub I miał dwóch synów: starszego i młodszego, którzy nosili tytuły księcia Cornwall i księcia Albany - dokładnie te same tytuły, które w sztuce otrzymują mężowie Goneril i Regan.
+**IMPACT:** This event may have spurred the publication of the anonymous *King Leir* and influenced Shakespeare's decision to write his own version.
 
-### **FAKT**: Pierwsze użycie słowa "British" przez Shakespeare'a
-Przed objęciem tronu przez Jakuba I Shakespeare nigdy nie użył słowa "British" w swoich sztukach. W "Królu Learze" pojawia się ono trzykrotnie, a słowo "Britain" występuje dwukrotnie - tyle samo razy, co we wszystkich wcześniejszych sztukach razem wziętych.
+### Why it was Written - Artistic Innovation
+**INNOVATION:** Shakespeare significantly altered his source material to create a more profound tragedy.
 
-## Teatr i Aktorzy
+**TRAGIC ENDING:** He introduced the tragic ending where Lear dies, unlike earlier versions that often had a happy resolution.
 
-### **FAKT**: Błazen stworzony specjalnie dla Roberta Armina
-Postać Błazna w "Królu Learze" powstała specjalnie dla Roberta Armina, który zastąpił Willa Kempa w trupie Shakespeare'a około 1599-1600. Armin był bardziej wyrafinowanym aktorem niż Kempe - to dzięki niemu Shakespeare mógł tworzyć filozoficznych błaznów zamiast prostych komikami.
+**NEW CHARACTERS:** He also added key characters such as the Earl of Kent, the Fool, and Oswald.
 
-### **FAKT**: Armin grał także Touchstone'a i Feste
-Robert Armin, pierwszy odtwórca roli Błazna, grał także Touchstone'a w "Jak wam się podoba" i Feste w "Wieczorze Trzech Króli" - wszystkie te role to tzw. "licensed fools" (błaznowie z licencją).
+**CHARACTER DEVELOPMENT:** Developed Lear's descent into madness, which was not present in earlier accounts.
 
-### **FAKT**: Inspiracja żebrakami z Bedlam
-Postać "Biednego Toma" była inspirowana prawdziwymi żebrakami udającymi obłąkanych, którzy twierdzili, że uciekli ze szpitala Bethlem (Bedlam) w Londynie. Thomas Dekker opisał takich oszustów w pamflecie "The Belman of London" z 1608 roku.
+**INTENSIFICATION:** By having Lear give away his entire kingdom, Shakespeare intensified the king's self-inflicted downfall.
 
-## Recepcja i Wpływ
+## 2. Author's Inspirations - Real Events, People, Places that Influenced the Book
 
-### **FAKT**: Sztuka uznana za zbyt mroczną dla współczesnych
-Współcześni widzowie prawdopodobnie byli rozczarowani mrocznym zakończeniem, ponieważ znali wcześniejszą wersję historii "King Leir" z lat 80. XVI wieku, która kończyła się szczęśliwie z ocaleniem Cordelia.
+### Literary Inspirations
+**PRIMARY SOURCE:** Ancient British legend of King Leir, found in Geoffrey of Monmouth's *Historia Regum Britanniae*, Raphael Holinshed's *Chronicles*, and the anonymous play *The True Chronicle History of King Leir*.
 
-### **FAKT**: Pierwsza profesjonalna nagrania dźwiękowa z 1957 roku
-Pierwszym profesjonalnym nagraniem "Króla Leara" była produkcja Argo Records z 1957 roku, wyreżyserowana przez George'a Rylandsa, z Williamem Devilinem w roli tytułowej.
+**OTHER LITERARY INFLUENCES:** Edmund Spenser's *The Faerie Qeene*, John Higgins' *The Mirror for Magistrates*, Philip Sidney's *Arcadia* (for the Gloucester subplot), and Samuel Harsnett's *A Declaration of egregious Popish Impostures* (for Edgar's language).
 
-### **FAKT**: Adaptacja w tradycji Kathakali z 1989 roku
-W 1989 roku David McRuvie i Iyyamkode Sreedharan zaadaptowali sztukę do tradycji Kathakali z Kerali w Indiach - co jest szczególnie symboliczne, ponieważ Kathakali rozwijało się około 1600 roku, współcześnie z pisarstwem Shakespeare'a.
+### Real Events and People
+**THE ANNESLEY LAWSUIT OF 1603:** Involved Sir Brian Annesley, an aging nobleman whose youngest daughter, Cordell, successfully defended him against his elder daughter's attempt to seize his property.
 
-## Ciekawostki Językowe i Literackie
+**SIR WILLIAM ALLEN:** A former Mayor of London who reportedly divided his property among his three daughters and was subsequently treated with scorn.
 
-### **FAKT**: Słowo "natura" występuje ponad 40 razy
-Słowa "natura", "naturalny" i "nienaturalny" pojawiają się w sztuce ponad czterdzieści razy, odzwierciedlając debatę epoki Shakespeare'a na temat tego, czym naprawdę jest natura.
+**PRIMOGENITURE:** The play explores the societal issue of primogeniture (inheritance by the eldest son) and the resentment felt by disinherited younger sons (e.g., Edmund).
 
-### **FAKT**: Najkrótsza adaptacja o 800 wersów
-Adaptacja Nahuma Tate'a była o około 800 wersów krótsza od oryginału Shakespeare'a, mimo zachowania pięcioaktowej struktury.
+**POLITICAL CLIMATE:** The theme of dividing a kingdom resonated with the political anxieties of King James I's efforts to unite England and Scotland.
 
-### **FAKT**: Błędnie podzielone wersy w pierwszym wydaniu
-Wydanie kwarto z 1608 roku jest "niezwykłe wśród wczesnych wydań sztuk Shakespeare'a" ze względu na setki wersów poezji, które są błędnie podzielone lub podane jako proza.
+### Places
+**SETTING:** Set in **pre-Roman Britain**.
 
-## Współczesne Rekordy i Statystyki
+**GEOGRAPHICAL REFERENCES:** Specific geographical references include **Dover** and other parts of **Britain**.
 
-### **FAKT**: Przekłady na ponad 100 języków
-Dzieła Shakespeare'a, w tym "Król Lear", zostały przełożone na ponad 100 języków, włączając sztuczne języki jak klingoński, esperanto i interlingua.
+**SYMBOLIC SETTING:** Shakespeare's play focuses more on the symbolic and political implications of dividing "territory" rather than precise geographical locations.
 
-### **FAKT**: Anthony Hopkins w najnowszej adaptacji BBC
-28 maja 2018 roku BBC Two wyemitowało adaptację "Króla Leara" z Anthony Hopkinsem w roli tytułowej i Emmą Thompson jako Goneril, w reżyserii Richarda Eyre'a, osadzoną w XXI wieku.
+## 3. Creative Process - How Long Author Wrote, What Problems, Obstacles He Had
 
-### **FAKT**: 157-letnia nieobecność oryginału ze scen
-Od 1681 do 1838 roku na angielskich scenach nie wystawiano oryginału Shakespeare'a - najdłuższa "nieobecność" jakiegokolwiek dzieła Shakespeare'a w historii teatru angielskiego.
+### Creative Process
+**SOURCE MATERIAL ADAPTATION:** Shakespeare rarely invented plots, instead drawing from pre-existing stories. For *King Lear*, he combined elements from an older play about King Leir, other versions of the legend, Sir Philip Sidney's *Arcadia*, and Samuel Harsnet's *Declaration of Egregious Popish Impostures*. A significant creative decision was to alter the traditional happy ending to the profoundly tragic conclusion.
 
-## Tajemnice i Nierozwiązane Zagadki
+**HISTORICAL AND SOCIAL CONTEXT:** The play reflects anxieties prevalent in Elizabethan and Jacobean England, such as the vulnerability of elderly parents and the fragility of societal structures. Contemporary events (like the Annesley lawsuit) and political climate (succession concerns) influenced his themes.
 
-### **PLOTKA**: Shakespeare mógł znać osobiście Briana Annesley
-Shakespeare prawdopodobnie znał sprawę Briana Annesley przez swojego przyjaciela i mecenasa, hrabiego Southampton, którego ojczym William Hervey był przyjacielem Sir Briana i wykonawcą jego testamentu.
+**STYLISTIC AND LINGUISTIC INNOVATION:** Shakespeare was known for prolific and rapid writing. In *King Lear*, he masterfully uses verse (iambic pentameter) and prose, often employing prose for madness, lower social status, or honesty. He enriched the English language by incorporating dialects, modifying sentence structures, and employing rhetorical devices.
 
-### **FAKT**: Zakazy teatralne trwały 18 lat
-Wszystkie teatry zostały zamknięte przez purytański rząd 6 września 1642 roku i pozostawały zamknięte do przywrócenia monarchii w 1660 roku - 18-letnia przerwa w historii teatru angielskiego.
+**CHARACTER DEVELOPMENT:** He created deeply complex characters, with Lear's madness being largely Shakespeare's own invention, crucial to the play's tragic depth.
 
-### **FAKT**: Pierwsza wzmianka o przedstawieniu dopiero w grudniu 1606
-Mimo że sztuka prawdopodobnie powstała w 1605 roku, pierwsza udokumentowana wzmianka o jej wystawieniu pochodzi z 26 grudnia 1606 roku - nietypowo długi czas dla popularnej sztuki.
+### Writing Problems and Obstacles
+**DRAMATIC CHALLENGES:** Effectively translating complex tragic emotions and thoughts into compelling stage actions and structuring them into a cohesive narrative.
 
-## Wpływ na Kulturę Popularną
+**AUDIENCE AND RECEPTION:** While defying conventions, he needed to engage a diverse audience. The starkly tragic ending was controversial, leading to later adaptations with happy endings.
 
-### **FAKT**: Podstawa dla setek adaptacji filmowych i telewizyjnych
-"Król Lear" doczekał się niezliczonych adaptacji filmowych, telewizyjnych i radiowych, w tym słynnej adaptacji Akiry Kurosawy "Ran" z 1985 roku.
+**PRODUCTION CONSTRAINTS:** Had to tailor writing to his acting company's skills. The absence of female actors meant women's roles were played by teenage boys. Worked within limitations of contemporary stage technology (small budgets, minimal special effects).
 
-### **FAKT**: Tłumaczenia na języki regionalne
-Sztuka została przełożona na liczne języki regionalne, w tym na malajalam dla przedstawienia w tradycji Kathakali w stanie Kerala w Indiach.
+**PERSONAL AND EXTERNAL DIFFICULTIES:** Life included hardships like family financial struggles, fires, and the death of his son, Hamnet, which some scholars believe influenced his work. He also faced the challenge of maintaining prolific output amidst career demands.
 
-## Podsumowanie
+## 4. First Reactions to Manuscript from Publishers, Friends, Family
 
-"Król Lear" to więcej niż adaptacja starej legendy - to dzieło powstałe w krucjalnym momencie angielskiej historii, łączące osobiste obserwacje Shakespeare'a, współczesne wydarzenia polityczne, prawdziwe sprawy sądowe i głęboką refleksję nad naturą władzy, rodziny i ludzkiej natury. Fakt, że przez 157 lat sztuka wymagała "poprawienia" happy endem, pokazuje, jak radykalnie mroczne i nowoczesne było podejście Shakespeare'a do tej klasycznej opowieści.
+### Contemporary Reception
+**EARLIEST PERFORMANCE:** Earliest known performance was on Saint Stephen's Day in 1606.
+
+**TATE'S ADAPTATION:** For over 150 years after 1681, Shakespeare's original play was largely displaced by Nahum Tate's revised version, *The History of King Lear*, which had a romantic subplot and a less bleak ending.
+
+**CRITICISM OF TATE:** Critics like Joseph Addison and Charles Lamb condemned Tate's version.
+
+**RESTORATION OF ORIGINAL:** Shakespeare's original text was eventually restored to the stage in 1838 by William Charles Macready, and the complete, original text in 1845 by Samuel Phelps.
+
+### Manuscript History
+**NO ORIGINAL MANUSCRIPT:** No known "original" manuscript exists.
+
+**SOURCES OF MODERN TEXT:** Modern text derived from three primary early sources: two quartos and the First Folio.
+
+**FIRST QUARTO (Q1):** *True Chronicle Historie of the life and death of King Lear*, published in 1608 by Nathaniel Butter, noted for errors and inconsistencies.
+
+**SECOND QUARTO (Q2):** Published in 1619, based on Q1.
+
+**FIRST FOLIO (F1):** Version in the First Folio (F1) of 1623, published seven years after Shakespeare's death, differs significantly from quartos.
+
+**DEBATE:** Editors debate whether Q1 was from Shakespeare's manuscript and if F1 was a later revision.
+
+### Publishers
+**EARLY PUBLISHERS:** Nathaniel Butter (Q1, 1608) and the publishers of the First Folio (1623).
+
+**CONTEMPORARY PUBLISHERS:** Numerous publishers offer editions today (e.g., Simon & Schuster, Bloomsbury Arden Shakespeare, Oxford University Press, Penguin Classics, Folger Shakespeare Library).
+
+### Friends and Family (within the play)
+**LEAR'S DAUGHTERS:** Play centers on Lear's relationships with his three daughters: Goneril, Regan, and Cordelia.
+
+**DOWNFALL TRIGGER:** Lear's decision to divide his kingdom based on their declarations of love leads to his downfall.
+
+**FLATTERY VS. HONESTY:** Goneril and Regan offer flattery; Cordelia refuses, leading to her disinheritance.
+
+**LOYAL FIGURES:** Loyal figures: Earl of Kent (banished but returns in disguise), the Fool (loyal companion).
+
+**PARALLEL PLOT:** Parallel plot: Earl of Gloucester and his sons, Edgar and Edmund (Edmund schemes against Edgar and deceives Gloucester).
+
+### Shakespeare's Personal Friends and Family
+**NO INFORMATION:** The search results did not provide information about William Shakespeare's personal friends or family in relation to the writing or reception of *King Lear*.
+
+## 5. Publication History - Rejections, Successes, First Edition
+
+### First Known Performance
+**DATE:** On Saint Stephen's Day in 1606.
+
+### Early Versions and Editions
+**THE FIRST QUARTO (Q1):** Published in 1608, titled "M. William Shak-speare: His True Chronicle Historie of the life and death of King Lear and his three Daughters." Noted for errors and inconsistencies.
+
+**THE SECOND QUARTO (Q2):** Published in 1619, largely a reprint of Q1, retaining the 1608 date.
+
+**THE FIRST FOLIO (F):** Published in 1623, seven years after Shakespeare's death, titled "The Tragedie of King Lear."
+
+### Differences and Challenges
+**TEXTUAL VARIATIONS:** Q1 and F versions differ significantly (over 100 lines in F not in Q1, ~300 lines in Q1 not in F, ~800 word differences).
+
+**SCHOLARLY DEBATE:** Scholarly debate exists on the origin of these differences (Q1 from Shakespeare's manuscript vs. F as a rehandled version).
+
+**EDITORIAL PRACTICE:** For centuries, editors often combined these texts.
+
+### Successes and Adaptations
+**CRITICAL ACCLAIM:** Achieved immense critical success, called "the most perfect specimen of the dramatic art" by Percy Bysshe Shelley.
+
+**NAHUM TATE'S ADAPTATION (1681):** A revised version with a romantic subplot, omitted the Fool, and a happy ending. Dominated the English stage until 1838, displacing Shakespeare's original.
+
+**RESTORATION:** Shakespeare's original play has since been restored to its esteemed position.
+
+## 6. Author Biography in Context of this Specific Book
+
+### General Biography
+**BIRTH AND FAMILY:** William Shakespeare was born in 1564 in Stratford-upon-Avon. He married Anne Hathaway in 1582 and had three children: Susanna, and twins Hamnet and Judith.
+
+**CAREER:** He moved to London around 1590, becoming a successful actor and playwright, and a part-owner of the Globe Theater. His troupe, the Lord Chamberlain's Men, was adopted by King James I in 1603 and renamed the King's Men.
+
+**LATER LIFE AND DEATH:** Shakespeare retired to Stratford-upon-Avon a wealthy man in 1613 and died in 1616.
+
+### Context of *King Lear*
+**DATE AND SETTING:** *King Lear* was written between 1604 and 1607, during the Jacobean period, reflecting anxieties of both the Elizabethan and Jacobean eras. Although set in pre-Christian Britain, Shakespeare infused the play with 17th-century British social and political elements.
+
+**HISTORICAL INFLUENCES:**
+*   **King James I and the Union of Kingdoms:** King James I, who became King of England in 1603, advocated for the union of England and Scotland. He often referenced the misfortunes of King Leir in his speeches to Parliament to illustrate the dangers of disunion.
+*   **Succession Anxiety:** The play reflects anxieties surrounding monarchy and succession, particularly after Queen Elizabeth I died without a direct heir.
+*   **Primogeniture:** The play implicitly endorses primogeniture by showcasing the catastrophic consequences of Lear's decision to divide his kingdom among his daughters, rather than passing it to a single heir. King James I also believed in primogeniture.
+*   **Real-life Parallels:** A 1603 case involving Sir Brian Annesley, whose youngest daughter, Cordell, defended him against his elder daughter's attempt to seize his property, bears a striking resemblance to the plot.
+
+**SOURCE MATERIAL:** Shakespeare drew the main plot from several sources describing the legendary British king Leir, primarily Raphael Holinshed's *Chronicles* and Geoffrey of Monmouth's *History of the British Kingdom*.
+
+**THEMES:** *King Lear* explores profound themes including power and authority, family and betrayal, madness and suffering, justice and nihilism, blindness and insight, and nature and the natural order.
+
+## 7. Anecdotes and Curiosities from Writing Process
+
+### Textual Variations
+**FACT:** Two distinct versions of *King Lear* exist: the 1608 First Quarto and the 1623 First Folio, with notable differences.
+
+### Doubling Roles
+**FACT:** In Shakespeare's time, the roles of Cordelia and the Fool were often played by the same actor, as they are never on stage simultaneously.
+
+### Nahum Tate's "Happy Ending"
+**FACT:** In 1681, Poet Laureate Nahum Tate rewrote *King Lear* with a happy ending, where Cordelia survives, marries Edgar, and Lear lives.
+
+**IMPACT:** This version was immensely popular and dominated the stage for over a century until Shakespeare's original was revived in 1838.
+
+### Banning of the Play
+**FACT:** *King Lear* was banned from the stage between 1810 and 1820 during the reign of King George III, whose own struggles with mental illness mirrored Lear's.
+
+**CONTEXT:** It was also considered too politically sensitive during the English Civil War.
+
+### Lear's Age
+**FACT:** Shakespeare depicted Lear as "over four score" (over 80 years old), making it a particularly challenging role for actors.
+
+### "Football Player" Reference
+**FACT:** The play contains one of only two references to "football player" in Shakespeare's entire canon, when Kent insults Oswald.
+
+### Animal Imagery
+**FACT:** *King Lear* features more references to animals and the natural world than any other Shakespearean play.
+
+### Demanding Role
+**FACT:** The role of King Lear is widely regarded as one of the most emotionally and physically demanding in theatre.
+
+### Quarantine Creativity
+**BELIEF:** It is believed that Shakespeare wrote *King Lear*, along with *Macbeth* and *Antony and Cleopatra*, during periods of quarantine due to the bubonic plague.
+
+## 8. Specific Numbers, Statistics, Records Related to the Book
+
+### Composition and Early Performances
+**WRITING PERIOD:** Written around 1605-1606.
+
+**EARLIEST PERFORMANCE:** December 26, 1606, before King James I at Whitehall.
+
+**LEAD ACTOR:** Richard Burbage, the lead actor of Shakespeare's company, The King's Men, is believed to have played the role of Lear.
+
+**FOOL'S ROLE:** The role of the Fool may have been written for Robert Armin, or potentially doubled by the boy actor playing Cordelia.
+
+### Textual Statistics (from PlayShakespeare.com)
+**NUMBER OF LINES:** 3499
+
+**NUMBER OF SCENES:** 26
+
+**TOTAL CHARACTERS:** 29
+
+**PROSE/VERSE RATIO:** 25% prose / 75% verse
+
+### Publication History
+**EARLY PUBLICATIONS:** Three significant early publications: 1608 Quarto (Q1), 1619 Quarto (Q2), and 1623 First Folio (F1).
+
+**Q1 CHARACTERISTICS:** Q1 noted for "many errors and muddles." Q2 was a reprint of Q1.
+
+**TEXTUAL DIFFERENCES:** Quarto and Folio texts differ significantly (e.g., 100+ lines in F not in Q1, ~300 lines in Q1 not in F, ~800 word differences).
+
+### Adaptations and Performance History
+**NAHUM TATE'S ADAPTATION (1681):** *The History of King Lear* replaced Shakespeare's original until 1838. Tate's version omitted the Fool, had a happy ending, and included a romance.
+
+**RESTORATION OF ORIGINAL:** William Charles Macready restored the tragic ending and the Fool in 1838.
+
+**NOTABLE ACTORS (RSC):** John Gielgud, Paul Scofield, Ian McKellen, Greg Hicks.
+
+**YOUNGEST/OLDEST LEAR:** Youngest: Nonso Anozie (23 in 2002). Oldest: Alvin Epstein (81 in 2006).
+
+### Box Office and Sales Records
+**2004 BROADWAY PRODUCTION:** $9,978,653 gross, 136,338 attendance over 109 performances and 50 previews.
+
+**1971 FILM:** 137 minutes.
+
+**2023 SHAKESPEARE THEATRE COMPANY:** "smashed all sales records."

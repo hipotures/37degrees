@@ -13,215 +13,241 @@ You are an expert orchestrator for automatic downloading of generated audio from
 
 **CRITICAL: ALL OUTPUT MUST BE IN ENGLISH ONLY** - Documentation and code must be exclusively in English, even when processing Polish or other language research files.
 
-Orchestrator for automatic downloading of generated audio from NotebookLM using MCP playwright-cdp
+## Overview
 
-UWAGA: Używaj MCP playwright-cdp do automatyzacji interfejsu NotebookLM
+Orchestrator for automatic downloading of generated audio from NotebookLM using MCP playwright-cdp.
 
-Dane wejściowe:
+**IMPORTANT: Use MCP playwright-cdp for NotebookLM interface automation**
 
-- Lista TODOIT: "cc-au-notebooklm" (z subitemami audio_dwn_XX)
-- URL NotebookLM: Dynamiczny wybór na podstawie numeru książki
-- Katalog docelowy: books/[folder_book]/audio/ (pliki z sufiksem języka)
-- Tymczasowy katalog: /tmp/playwright-mcp-output/
+## Input Data
 
-Kroki orchestratora:
+- TODOIT List: "cc-au-notebooklm" (with audio_dwn_XX subitems)
+- NotebookLM URL: Dynamic selection based on book number
+- Target directory: books/[folder_book]/audio/ (files with language suffix)
+- Temporary directory: /tmp/playwright-mcp-output/
 
-0. Pobranie zadania i określenie odpowiedniego NotebookLM oraz języka
+## Orchestrator Steps
 
-// Użyj skryptu Python do znalezienia następnego zadania
-result = Bash("python scripts/internal/find_next_download_task.py")
+### Step 0: Get Task and Determine NotebookLM and Language
 
-if (result.error || result.output == ""):
+```javascript
+// Use Python script to find next task
+result = await Bash("python scripts/internal/find_next_download_task.py")
+
+if (result.error || result.output == "") {
   console.error("ERROR: Failed to find download task")
   return
+}
 
 task_data = JSON.parse(result.output)
 
-if (task_data.status != "found"):
+if (task_data.status != "found") {
   console.log("No pending download tasks found")
   return
+}
 
-SOURCE_NAME = task_data.book_key  // np. "0001_alice_in_wonderland"
-LANGUAGE_CODE = task_data.language_code  // np. "pl", "en"
-PENDING_SUBITEM_KEY = task_data.subitem_key  // np. "audio_dwn_pl"
-NOTEBOOK_URL = task_data.notebook_url  // Automatycznie wybrany URL
+SOURCE_NAME = task_data.book_key  // e.g. "0001_alice_in_wonderland"
+LANGUAGE_CODE = task_data.language_code  // e.g. "pl", "en"
+PENDING_SUBITEM_KEY = task_data.subitem_key  // e.g. "audio_dwn_pl"
+NOTEBOOK_URL = task_data.notebook_url  // Automatically selected URL
+AUDIO_TITLE = task_data.audio_title  // Can be null
+```
 
-1. Inicjalizacja MCP playwright-cdp i otwarcie NotebookLM
+### Step 1: Initialize MCP playwright-cdp and Open NotebookLM
 
-// Uruchom MCP playwright-cdp i otwórz odpowiednią stronę NotebookLM
-mcp__playwright-cdp__browser_navigate(url: NOTEBOOK_URL)
-mcp__playwright-cdp__browser_snapshot()
+```javascript
+// Launch MCP playwright-cdp and open appropriate NotebookLM page
+await mcp__playwright-cdp__browser_navigate(url: NOTEBOOK_URL)
+await mcp__playwright-cdp__browser_snapshot()
 
-// Przejdź do zakładki Studio gdzie znajdują się wygenerowane audio
-mcp__playwright-cdp__browser_click(element: "Studio tab", ref: "studio_tab_ref")
-mcp__playwright-cdp__browser_snapshot()
+// Navigate to Studio tab where generated audio is located
+await mcp__playwright-cdp__browser_click(element: "Studio tab", ref: "studio_tab_ref")
+await mcp__playwright-cdp__browser_snapshot()
+```
 
-2. Wyszukanie audio dla konkretnego języka
+### Step 2: Search for Audio for Specific Language
 
-// Audio w NotebookLM ma tytuły zależne od języka
-// Pobierz property nb_au_title jeśli istnieje
-audio_title = mcp__todoit__todo_get_item_property(
-  list_key: "cc-au-notebooklm",
-  item_key: "audio_gen_" + LANGUAGE_CODE,
-  property_key: "nb_au_title",
-  parent_item_key: SOURCE_NAME
-)
-
-if (!audio_title || audio_title == ""):
-  // Fallback - szukaj po wzorcach z SOURCE_NAME
+```javascript
+// Audio in NotebookLM has language-dependent titles
+// Get nb_au_title property if exists
+if (!AUDIO_TITLE || AUDIO_TITLE == "") {
+  // Fallback - search by patterns with SOURCE_NAME
   SEARCH_PATTERNS = get_search_patterns_for_source(SOURCE_NAME, LANGUAGE_CODE)
-else:
-  // Użyj zapisanego tytułu
-  SEARCH_PATTERNS = [audio_title]
+} else {
+  // Use saved title
+  SEARCH_PATTERNS = [AUDIO_TITLE]
+}
 
-mcp__playwright-cdp__browser_snapshot()
+await mcp__playwright-cdp__browser_snapshot()
 
-// Przeszukaj listę audio w Studio
+// Search audio list in Studio Tab
 matching_audio = find_audio_by_patterns(SEARCH_PATTERNS)
 
-if (!matching_audio):
+if (!matching_audio) {
   console.error("ERROR: Audio not found for " + SOURCE_NAME + " in " + LANGUAGE_CODE)
   return
+}
 
 AUDIO_REF = matching_audio.ref
 ORIGINAL_TITLE = matching_audio.title
+```
 
-3. Pobranie pliku audio
+### Step 3: Download Audio File
 
-// Kliknij przycisk "Więcej" dla znalezionego audio
-mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
+```javascript
+// Click "More" button for found audio
+await mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
 
-// Kliknij "Pobierz" w rozwiniętym menu
-mcp__playwright-cdp__browser_click(element: "Download menu item", ref: "download_ref")
+// Click "Download" in expanded menu
+await mcp__playwright-cdp__browser_click(element: "Download menu item", ref: "download_ref")
 
-// Czekaj na rozpoczęcie pobierania
-mcp__playwright-cdp__browser_wait_for(time: 2)
+// Wait for download to start
+await mcp__playwright-cdp__browser_wait_for(time: 2)
 
-4. Oczekiwanie na zakończenie pobierania
+```
 
-// Monitoruj katalog Downloads przeglądarki
+### Step 4: Wait for Download Completion
+
+```javascript
+// Monitor browser Downloads directory
 DOWNLOAD_DIR = "/tmp/playwright-mcp-output/"
 
-// Czekaj maksymalnie 60 sekund na pojawienie się pliku .mp4
+// Wait maximum 60 seconds for .mp4 file to appear
 max_wait = 60
 waited = 0
 downloaded_file = null
 
-while (waited < max_wait):
-  files = Bash("ls -la " + DOWNLOAD_DIR + "*.mp4 2>/dev/null || true")
-  if (files contains ".mp4"):
-    // Znajdź najnowszy plik .mp4
+while (waited < max_wait) {
+  files = await Bash("ls -la " + DOWNLOAD_DIR + "*.mp4 2>/dev/null || true")
+  if (files.includes(".mp4")) {
+    // Find newest .mp4 file
     downloaded_file = get_newest_mp4_file(DOWNLOAD_DIR)
     break
+  }
 
-  mcp__playwright-cdp__browser_wait_for(time: 2)
+  await mcp__playwright-cdp__browser_wait_for(time: 2)
   waited += 2
+}
 
-if (!downloaded_file):
+if (!downloaded_file) {
   console.error("ERROR: Download timeout after 60 seconds")
   return
+}
+```
 
-5. Mapowanie i przeniesienie pliku
+### Step 5: Map and Move File
 
-// Struktura docelowa: books/[SOURCE_NAME]/audio/
+```javascript
+// Target structure: books/[SOURCE_NAME]/audio/
 BOOK_FOLDER = "books/" + SOURCE_NAME
 AUDIO_DIR = BOOK_FOLDER + "/audio"
 
-// Sprawdź czy katalog istnieje
-if (!directory_exists(AUDIO_DIR)):
+// Check if directory exists
+if (!directory_exists(AUDIO_DIR)) {
   console.error("ERROR: Directory does not exist: " + AUDIO_DIR)
   console.error("Please create the directory structure manually")
   return
+}
 
-// Generuj nazwę docelową z językiem (.mp4 jak z NotebookLM)
+// Generate target name with language (.mp4 like from NotebookLM)
 DEST_FILENAME = SOURCE_NAME + "_" + LANGUAGE_CODE + ".mp4"
 DEST_PATH = AUDIO_DIR + "/" + DEST_FILENAME
 
-// Przenieś plik
-Bash("mv " + downloaded_file + " " + DEST_PATH)
+// Move file
+await Bash("mv " + downloaded_file + " " + DEST_PATH)
 
-if (file_exists(DEST_PATH)):
+if (file_exists(DEST_PATH)) {
   console.log("✅ Audio file moved to: " + DEST_PATH)
 
-  // Zapisz ścieżkę jako property dla subitem
-  mcp__todoit__todo_set_item_property(
+  // Save path as property for subitem
+  await mcp__todoit__todo_set_item_property(
     list_key: "cc-au-notebooklm",
-    item_key: PENDING_SUBITEM_KEY,  // np. "audio_dwn_pl" - to jest subitem
+    item_key: PENDING_SUBITEM_KEY,  // e.g. "audio_dwn_pl" - this is subitem
     property_key: "file_path",
     property_value: DEST_PATH,
-    parent_item_key: SOURCE_NAME  // np. "0001_alice_in_wonderland" - to jest parent
+    parent_item_key: SOURCE_NAME  // e.g. "0001_alice_in_wonderland" - this is parent
   )
-else:
+} else {
   console.error("ERROR: Failed to move file to " + DEST_PATH)
   return
+}
+```
 
-6. Oznaczenie zadania jako completed
+### Step 6: Mark Task as Completed
 
-// Oznacz subitem audio_dwn_XX jako completed
-mcp__todoit__todo_update_item_status(
+```javascript
+// Mark subitem audio_dwn_XX as completed
+await mcp__todoit__todo_update_item_status(
   list_key: "cc-au-notebooklm",
   item_key: SOURCE_NAME,
   subitem_key: PENDING_SUBITEM_KEY,
   status: "completed"
 )
 
-7. Weryfikacja bezpieczeństwa przed usunięciem z NotebookLM
+```
 
-// CRITICAL: Sprawdzenie czy można bezpiecznie usunąć plik z NotebookLM
-// Weryfikacja: plik został świeżo pobrany (max 5 minut temu) i nie ma błędów
-// Używa dedykowanego skryptu z maską bezpieczeństwa
+### Step 7: Safety Verification Before Deletion from NotebookLM
 
-deletion_check = Bash("scripts/internal/can_delete_file.sh " + DEST_PATH)
+```javascript
+// CRITICAL: Check if can safely delete file from NotebookLM
+// Verification: file was freshly downloaded (max 5 minutes ago) and no errors
+// Uses dedicated script with safety mask
 
-if (deletion_check.startsWith("CANNOT_DELETE_FROM_NOTEBOOK")):
+deletion_check = await Bash("scripts/internal/can_delete_file.sh " + DEST_PATH)
+
+if (deletion_check.startsWith("CANNOT_DELETE_FROM_NOTEBOOK")) {
   reason = deletion_check.split(":")[1] || "Unknown reason"
   console.log("⚠️  Skipping deletion from NotebookLM: " + reason)
   console.log("File preserved in NotebookLM for safety")
   goto step_9_status
+}
 
 console.log("✅ Safety verification passed - proceeding with NotebookLM deletion")
+```
 
-8. Usunięcie pliku audio z NotebookLM (po weryfikacji bezpieczeństwa)
+### Step 8: Delete Audio File from NotebookLM (After Safety Verification)
 
-// TYLKO gdy weryfikacja bezpieczeństwa przeszła pomyślnie
-// Znajdujemy to samo audio w NotebookLM i usuwamy
+```javascript
+// ONLY when safety verification passed successfully
+// Find same audio in NotebookLM and delete it
 
-// Upewnij się że jesteś w Studio tab
-mcp__playwright-cdp__browser_snapshot()
+// Ensure we're in Studio tab
+await mcp__playwright-cdp__browser_snapshot()
 
-// Znajdź to samo audio używając zapisanych danych
-// AUDIO_REF i ORIGINAL_TITLE są już dostępne z kroku 2
+// Find same audio using saved data
+// AUDIO_REF and ORIGINAL_TITLE are already available from step 2
 
-if (!AUDIO_REF):
+if (!AUDIO_REF) {
   console.error("ERROR: Cannot find audio reference for deletion")
   goto step_9_status
+}
 
 console.log("🗑️  Starting deletion of: " + ORIGINAL_TITLE)
 
-// Krok 1: Kliknij przycisk "More" dla tego samego audio
-mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
-mcp__playwright-cdp__browser_wait_for(time: 1)
+// Step 1: Click "More" button for same audio
+await mcp__playwright-cdp__browser_click(element: "More button for audio", ref: matching_audio.more_button_ref)
+await mcp__playwright-cdp__browser_wait_for(time: 1)
 
-// Sprawdź czy menu się rozwinęło
-mcp__playwright-cdp__browser_snapshot()
+// Check if menu expanded
+await mcp__playwright-cdp__browser_snapshot()
 
-// Krok 2: Kliknij "Delete" w rozwiniętym menu
-mcp__playwright-cdp__browser_click(element: "Delete menu item", ref: "delete_ref")
-mcp__playwright-cdp__browser_wait_for(time: 1)
+// Step 2: Click "Delete" in expanded menu
+await mcp__playwright-cdp__browser_click(element: "Delete menu item", ref: "delete_ref")
+await mcp__playwright-cdp__browser_wait_for(time: 1)
 
-// Krok 3: Potwierdź usunięcie w dialogu potwierdzenia
-// NotebookLM może pokazać dialog "Are you sure?" - kliknij confirm
-mcp__playwright-cdp__browser_snapshot()
-mcp__playwright-cdp__browser_click(element: "Confirm delete button", ref: "confirm_delete_ref")
+// Step 3: Confirm deletion in confirmation dialog
+// NotebookLM may show "Are you sure?" dialog - click confirm
+await mcp__playwright-cdp__browser_snapshot()
+await mcp__playwright-cdp__browser_click(element: "Confirm delete button", ref: "confirm_delete_ref")
 
-// Czekaj na zakończenie usuwania
-mcp__playwright-cdp__browser_wait_for(time: 3)
+// Wait for deletion to complete
+await mcp__playwright-cdp__browser_wait_for(time: 3)
 
 console.log("🗑️  Audio deleted from NotebookLM: " + ORIGINAL_TITLE)
 
-// Zapisz informację o usunięciu jako property z timestamp
+// Save deletion information as property with timestamp
 deletion_timestamp = new Date().toISOString()
-mcp__todoit__todo_set_item_property(
+await mcp__todoit__todo_set_item_property(
   list_key: "cc-au-notebooklm",
   item_key: PENDING_SUBITEM_KEY,
   property_key: "deleted_from_notebooklm",
@@ -229,10 +255,13 @@ mcp__todoit__todo_set_item_property(
   parent_item_key: SOURCE_NAME
 )
 
-9. Status końcowy
+```
 
-// Sprawdź rozmiar pobranego pliku
-file_info = Bash("ls -lh " + DEST_PATH)
+### Step 9: Final Status
+
+```javascript
+// Check downloaded file size
+file_info = await Bash("ls -lh " + DEST_PATH)
 
 console.log("=== Download Completed ===")
 console.log("Book: " + SOURCE_NAME)
@@ -241,68 +270,75 @@ console.log("Original title: " + ORIGINAL_TITLE)
 console.log("File location: " + DEST_PATH)
 console.log("File info: " + file_info)
 console.log("Status: " + PENDING_SUBITEM_KEY + " marked as completed")
-if (can_delete && can_delete.safe):
+if (deletion_check.startsWith("CAN_DELETE_FROM_NOTEBOOK")) {
   console.log("🗑️  File safely deleted from NotebookLM at: " + deletion_timestamp)
+}
+```
 
-Uwagi techniczne:
+## Technical Notes
 
-- CRITICAL: Dynamiczny wybór URL NotebookLM na podstawie numeru książki
-- CRITICAL: Lista cc-au-notebooklm z subitemami
-- CRITICAL: Używa zapisanych tytułów z property nb_au_title jeśli istnieją
-- Struktura plików: books/[book]/audio/[book]_[lang].mp4
-- Używa skryptu find_next_download_task.py do znajdowania zadań
-- Pliki organizowane według języków dla łatwiejszego zarządzania
-- System zapisuje ścieżkę pliku jako property dla śledzenia
+- **CRITICAL**: Dynamic NotebookLM URL selection based on book number
+- **CRITICAL**: cc-au-notebooklm list with subitems
+- **CRITICAL**: Uses saved titles from nb_au_title property if they exist
+- File structure: books/[book]/audio/[book]_[lang].mp4
+- Uses find_next_download_task.py script to find tasks
+- Files organized by languages for easier management
+- System saves file path as property for tracking
 
-Obsługa błędów:
+## Error Handling
 
-- Brak audio → sprawdzenie czy audio_gen jest completed
-- Timeout pobierania → zwiększenie limitu czasu lub retry
-- Błędy przenoszenia → sprawdzenie uprawnień i miejsca na dysku
-- Brak tytułu w property → fallback do wzorców dopasowania
-- Weryfikacja bezpieczeństwa nie przeszła → plik zachowany w NotebookLM
-- Błąd usuwania z NotebookLM → plik lokalny pozostaje bezpieczny
+- No audio → check if audio_gen is completed
+- Download timeout → increase time limit or retry
+- Move errors → check permissions and disk space
+- No title in property → fallback to pattern matching
+- Safety verification failed → file preserved in NotebookLM
+- NotebookLM deletion error → local file remains safe
 
-Bezpieczeństwo usuwania z NotebookLM:
+## NotebookLM Deletion Safety
 
-- CRITICAL: Używa skryptu scripts/internal/can_delete_file.sh
-- CRITICAL: Tylko pliki w books/*/audio/ mogą być sprawdzane
-- CRITICAL: Usuwanie TYLKO gdy plik lokalny ma max 5 minut (delta now-pobieranie ≤ 5min)
-- CRITICAL: Sprawdzenie rozmiaru pliku > 1MB (nie jest uszkodzony)
-- CRITICAL: Trzy kroki w NotebookLM: More → Delete → Confirm
-- Timestamp usunięcia zapisywany jako property dla audytu
-- Jeśli weryfikacja fails → plik zachowywany w NotebookLM dla bezpieczeństwa
+- **CRITICAL**: Uses scripts/internal/can_delete_file.sh script
+- **CRITICAL**: Only files in books/*/audio/ can be checked
+- **CRITICAL**: Delete ONLY when local file has max 5 minutes (delta now-download ≤ 5min)
+- **CRITICAL**: Check file size > 1MB (not corrupted)
+- **CRITICAL**: Three steps in NotebookLM: More → Delete → Confirm
+- Deletion timestamp saved as property for audit
+- If verification fails → file preserved in NotebookLM for safety
 
-Mapowanie wzorców dopasowania dla różnych języków:
+## Search Pattern Mapping for Different Languages
 
-get_search_patterns_for_source(source_name, language_code):
-  base_name = source_name.replace(/^\d+_/, "")  // Usuń prefix numeryczny
+```javascript
+function get_search_patterns_for_source(source_name, language_code) {
+  base_name = source_name.replace(/^\d+_/, "")  // Remove numeric prefix
 
-  switch(language_code):
+  switch(language_code) {
     case "pl":
-      // Polskie tytuły
+      // Polish titles
       return polish_title_patterns[base_name]
     case "en":
-      // Angielskie tytuły
+      // English titles
       return english_title_patterns[base_name]
     case "es":
-      // Hiszpańskie tytuły
+      // Spanish titles
       return spanish_title_patterns[base_name]
     // ... etc for other languages
+  }
+}
+```
 
-Stan końcowy:
+## Final State
 
-- Audio pobrane z NotebookLM dla konkretnego języka
-- Plik zapisany w books/[book]/audio/[book]_[lang].mp4
-- Subitem audio_dwn_XX oznaczony jako completed
-- Property file_path zapisane z lokalizacją pliku
-- Property deleted_from_notebooklm z timestampem (jeśli usunięto)
-- Audio usunięte z NotebookLM (jeśli weryfikacja bezpieczeństwa przeszła)
-- Gotowe do kolejnego języka tej samej książki lub następnej książki
+- Audio downloaded from NotebookLM for specific language
+- File saved in books/[book]/audio/[book]_[lang].mp4
+- Subitem audio_dwn_XX marked as completed
+- Property file_path saved with file location
+- Property deleted_from_notebooklm with timestamp (if deleted)
+- Audio deleted from NotebookLM (if safety verification passed)
+- Ready for next language of same book or next book
 
-Proces bezpiecznego usuwania:
-1. Weryfikacja czasowa (≤ 5 minut od pobrania)
-2. Weryfikacja integralności pliku (rozmiar > 0)
-3. Sprawdzenie braku błędów podczas pobierania
-4. Usunięcie z NotebookLM: More → Delete → Confirm
-5. Zapisanie timestampu usunięcia jako property
+## Safe Deletion Process
+
+1. Time verification (≤ 5 minutes from download)
+2. File integrity verification (size > 0)
+3. Check no errors during download
+4. NotebookLM deletion: More → Delete → Confirm
+5. Save deletion timestamp as property
