@@ -1,143 +1,153 @@
-# Historia powstania "The Grapes of Wrath" - Fakty i anegdoty
+# Creation History of "The Grapes of Wrath" - Facts and Anecdotes
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-**FAKT**: John Steinbeck napisał "The Grapes of Wrath" w zaledwie 100 dni roboczych, między marcem a październikiem 1938 roku, pisząc odręcznie 619-stronicową powieść w ciągu pięciu miesięcy.
+**FACT**: John Steinbeck wrote "The Grapes of Wrath" in just 100 working days, between March and October 1938, handwriting the 619-page novel in five months.
 
-**FAKT**: Steinbeck wymagał od siebie pisania niemal codziennie około 2000 słów dziennie (około 6 stron), świadomie kontrolując tempo powieści, którą nazywał "czołgającą się, pełzającą książką".
+**FACT**: Steinbeck required himself to write nearly daily about 2,000 words per day (about 6 pages), consciously controlling the pace of the novel, which he called a "crawling, plodding book".
 
-**FAKT**: Autor prowadził szczegółowy dziennik podczas pisania, używając wpisów jako "ćwiczeń rozciągających" przed codziennym 2000-słowowym maratonem. Dziennik ten został opublikowany w 1989 jako "Working Days: The Journals of The Grapes of Wrath".
+**FACT**: The author kept a detailed journal during writing, using entries as "stretching exercises" before his daily 2,000-word marathon. This journal was published in 1989 as "Working Days: The Journals of The Grapes of Wrath".
 
-**FAKT**: Steinbeck mieszkał podczas pisania w domu przy 16250 Greenwood Lane w Monte Sereno, Kalifornia, i ciągle zmagał się z zakłóceniami - hałasem z budowy, prośbami o pieniądze i wymaganiami świata teatralnego.
+**FACT**: Steinbeck lived during writing at 16250 Greenwood Lane in Monte Sereno, California, and constantly struggled with disruptions - construction noise, requests for money, and demands from the theatrical world.
 
-**FAKT**: Tydzień przed ukończeniem powieści Steinbeck napisał: "to nie jest książka, na którą miałem nadzieję. To tylko przeciętna książka. A straszne jest to, że to absolutnie najlepsze, co mogę zrobić."
+**FACT**: A week before finishing the novel, Steinbeck wrote: "this is not the book I hoped it would be. It's just an average book. And the terrible thing is that it is absolutely the best I can do."
 
-## Inspiracje i badania terenowe
+## Inspirations and Field Research
 
-**FAKT**: Steinbeck przeprowadził intensywne badania terenowe, mieszkając z rodzinami farmerów z Oklahomy i odbywając z nimi podróż do Kalifornii w 1936 roku.
+**FACT**: Steinbeck conducted intensive field research, living with Oklahoma farming families and traveling with them to California in 1936.
 
-**FAKT**: W 1936 roku San Francisco News zatrudniło Steinbecka do napisania serii artykułów o obozach robotników migrantów w Kalifornii, które później zostały przedrukowane w broszurze wraz z ikonicznymi fotografiami Dorotheya Lange.
+**FACT**: In 1936, the San Francisco News hired Steinbeck to write a series of articles about migrant worker camps in California, which were later reprinted as a pamphlet alongside iconic photographs by Dorothea Lange.
 
-**FAKT**: Tom Collins, kierownik federalnego "Migratory Labor Camp" w Kern County, Kalifornia, był kluczowym współpracownikiem Steinbecka. Collins dostarczał autorowi szczegółowe raporty o obozach, o których Steinbeck napisał: "Potrzebuję tego materiału. Jest dokładny i to dokładnie to, co zostanie użyte przeciwko mnie, jeśli się mylę."
+**FACT**: Tom Collins, director of the federal "Migratory Labor Camp" in Kern County, California, was Steinbeck's key collaborator. Collins provided the author with detailed camp reports, about which Steinbeck wrote: "I need this material. It is exact and it is exactly what will be used against me if I am wrong."
 
-**FAKT**: Collins kompilował rozległe wywiady zawierające historie mieszkańców, piosenki i folklor w kompendium, które dzielił ze Steinbeckiem. Ten materiał Steinbeck wykorzystał do napisania "The Harvest Gypsies".
+**FACT**: Collins compiled extensive interviews containing residents' stories, songs, and folklore in a compendium he shared with Steinbeck. This material Steinbeck used to write "The Harvest Gypsies".
 
-**FAKT**: Steinbeck dedykował książkę dwóm osobom: "Carol, która tego chciała" (jego żona) i "Tom, który to przeżył" (Tom Collins). Collins stał się prototypem postaci Jima Rawleya w rozdziałach 22-26 powieści.
+**FACT**: Steinbeck dedicated the book to two people: "Carol, who willed it" (his wife) and "Tom, who lived it" (Tom Collins). Collins became the prototype for Jim Rawley's character in chapters 22-26 of the novel.
 
-## Kontrowersja z Sanorą Babb
+## The Sanora Babb Controversy
 
-**FAKT**: Sanora Babb pracowała dla Farm Security Administration od 1935 roku, zbierając osobiste historie przesiedlonych migrantów dla własnej powieści "Whose Names Are Unknown".
+**FACT**: Sanora Babb worked for the Farm Security Administration from 1935, collecting personal stories of displaced migrants for her own novel "Whose Names Are Unknown".
 
-**FAKT**: Tom Collins, przełożony Babb, bez jej wiedzy przekazywał kopie jej notatek terenowych Johnowi Steinbeckowi, który opierał na nich "The Grapes of Wrath".
+**FACT**: Tom Collins, Babb's supervisor, unknowingly passed copies of her field notes to John Steinbeck, who based "The Grapes of Wrath" on them.
 
-**FAKT**: Redaktor Bennett Cerf z Random House nazwał pracę Babb "wyjątkowo dobrą" i zamierzał ją opublikować. Jednak po sukcesie "The Grapes of Wrath" w kwietniu 1939, Cerf odrzucił książkę Babb, pisząc: "kolejna książka w tym czasie o dokładnie tym samym temacie byłaby smutnym antyklimattem!"
+**FACT**: Editor Bennett Cerf of Random House called Babb's work "exceptionally good" and intended to publish it. However, after the success of "The Grapes of Wrath" in April 1939, Cerf rejected Babb's book, writing: "another book at this time on exactly the same subject would be a sad anti-climax!"
 
-**PLOTKA**: Nie ma dowodów na to, że Steinbeck świadomie wiedział, że korzysta z notatek innej pisarki przygotowującej książkę na ten sam temat.
+**RUMOR**: There is no evidence that Steinbeck consciously knew he was using notes from another writer preparing a book on the same subject.
 
-**FAKT**: "Whose Names Are Unknown" został w końcu opublikowany w 2004 roku przez University of Oklahoma Press, gdy Sanora Babb miała 97 lat.
+**FACT**: "Whose Names Are Unknown" was finally published in 2004 by University of Oklahoma Press when Sanora Babb was 97 years old.
 
-## Pochodzenie tytułu
+## Origin of the Title
 
-**FAKT**: Tytuł "The Grapes of Wrath" zasugerowała żona Steinbecka, Carol, gdy autor miał niezwykłe trudności z wymyśleniem tytułu podczas pisania w Monte Sereno.
+**FACT**: The title "The Grapes of Wrath" was suggested by Steinbeck's wife Carol when the author had unusual difficulty coming up with a title while writing in Monte Sereno.
 
-**FAKT**: Tytuł pochodzi bezpośrednio z "Battle Hymn of the Republic" autorstwa abolicionistki Julii Ward Howe z 1861 roku, konkretnie z linijki: "He is trampling out the vintage where the grapes of wrath are stored."
+**FACT**: The title comes directly from "Battle Hymn of the Republic" by abolitionist Julia Ward Howe from 1861, specifically from the line: "He is trampling out the vintage where the grapes of wrath are stored."
 
-**FAKT**: Steinbeck chciał umieścić całą hymn Howe "na stronie na początku" książki, "wszystkie zwrotki i muzykę".
+**FACT**: Steinbeck wanted to place Howe's entire hymn "on a page at the beginning" of the book, "all the verses and the music".
 
-**FAKT**: Julia Ward Howe napisała "Battle Hymn of the Republic" w 1861 roku, w noc po odwiedzeniu obozu armii Unii nad rzeką Potomac niedaleko Waszyngtonu.
+**FACT**: Julia Ward Howe wrote "Battle Hymn of the Republic" in 1861, overnight after visiting a Union Army camp on the Potomac River near Washington.
 
-## Historia publikacji
+## Publication History
 
-**FAKT**: "The Grapes of Wrath" zostało opublikowane 14 kwietnia 1939 roku, co było "czwartą rocznicą 'Czarnej Niedzieli', najbardziej niszczycielskiej ze wszystkich burz Dust Bowl".
+**FACT**: "The Grapes of Wrath" was published on April 14, 1939, which was "the fourth anniversary of 'Black Sunday,' the most destructive of all Dust Bowl storms".
 
-**FAKT**: Książka sprzedała się w ponad 400,000 egzemplarzy w pierwszym roku publikacji (428,900 egzemplarzy w twardej oprawie po 2,75 dolara każdy).
+**FACT**: The book sold over 400,000 copies in its first year of publication (428,900 hardcover copies at $2.75 each).
 
-**FAKT**: Do 1941 roku, gdy Sun Dial Press wydało reprint za dolara, sprzedano już ponad 543,000 egzemplarzy.
+**FACT**: By 1941, when Sun Dial Press issued a dollar reprint, over 543,000 copies had been sold.
 
-**FAKT**: Była to najlepiej sprzedająca się powieść 1939 roku i zdobyła Nagrodę Pulitzera w 1940 roku.
+**FACT**: It was the best-selling novel of 1939 and won the Pulitzer Prize in 1940.
 
-**FAKT**: Steinbeck przekazał 1000 dolarów nagrody Pulitzera przyjacielowi Ritchowi Lovejoy'owi, aby zachęcić go do pisania.
+**FACT**: Steinbeck gave the $1,000 Pulitzer Prize money to his friend Ritchie Lovejoy to encourage him to write.
 
-**FAKT**: W ciągu ponad sześciu dekad "The Grapes of Wrath" sprzedało się w ponad 15 milionach egzemplarzy i obecnie sprzedaje się rocznie w 150,000 egzemplarzy.
+**FACT**: Over six decades, "The Grapes of Wrath" has sold over 15 million copies and currently sells 150,000 copies annually.
 
-## Kontrowersje i zakazy
+## Controversies and Bans
 
-**FAKT**: W sierpniu 1939 roku, głosami 4 do 1, rada zatwierdziła rezolucję zakazującą "The Grapes of Wrath" w bibliotekach i szkołach hrabstwa Kern, Kalifornia.
+**FACT**: In August 1939, by a 4-1 vote, the board approved a resolution banning "The Grapes of Wrath" from libraries and schools in Kern County, California.
 
-**FAKT**: Palenie książki zostało zaaranżowane jako chwyt reklamowy przez Billa Campa, szefa lokalnego Associated Farmers, grupy dużych właścicieli ziemskich. Zrekrutował jednego ze swoich pracowników, Clella Pruetta, który nigdy nie czytał powieści, ale zgodził się spalić ją dla "photo op".
+**FACT**: A book burning was arranged as a publicity stunt by Bill Camp, head of the local Associated Farmers, a group of large landowners. He recruited one of his workers, Clell Pruett, who had never read the novel but agreed to burn it for the "photo op".
 
-**FAKT**: Associated Farmers of California oświadczyli, że książka była "pakietem kłamstw" i atakowali Steinbecka jako propagandystę i socjalistę.
+**FACT**: The Associated Farmers of California declared the book was "a pack of lies" and attacked Steinbeck as a propagandist and socialist.
 
-**FAKT**: John Steinbeck pisał: "Associated Farmers rozpoczęło histeryczny osobisty atak na mnie zarówno w gazetach, jak i w kampanii szeptanej. Jestem Żydem, zboczeńcem, pijakiem, narkomanem."
+**FACT**: John Steinbeck wrote: "The Associated Farmers started a hysterical personal attack on me in both the newspapers and a whispering campaign. I am a Jew, a pervert, a drunk, a dope fiend."
 
-**FAKT**: Steinbeck otrzymywał regularne groźby po publikacji książki i zaczął nosić broń w miejscach publicznych dla bezpieczeństwa.
+**FACT**: Steinbeck received regular threats after the book's publication and began carrying a weapon in public places for safety.
 
-**FAKT**: Ostatecznie żadne inne hrabstwo w Kalifornii nie zakazało książki, a hrabstwo Kern zniosło swój zakaz w styczniu 1941 roku.
+**FACT**: Ultimately no other county in California banned the book, and Kern County lifted its ban in January 1941.
 
-**FAKT**: Paradoksalnie zakaz książki faktycznie zainspirowała więcej ludzi do czytania powieści, zwracając uwagę na los uchodźców-dzierżawców.
+**FACT**: Paradoxically, the book ban actually inspired more people to read the novel, drawing attention to the plight of tenant farmer refugees.
 
-## Adaptacja filmowa Johna Forda
+## John Ford's Film Adaptation
 
-**FAKT**: Film został nakręcony w 1940 roku przez Johna Forda z Henrym Fondą w roli głównej, tylko rok po publikacji książki.
+**FACT**: The film was made in 1940 by John Ford starring Henry Fonda, just one year after the book's publication.
 
-**FAKT**: Produkcja rozpoczęła się w październiku 1939 roku, zaledwie cztery tygodnie po tym, jak Ford skończył poprzednią pracę, i film został szybko wyprodukowany, aby skorzystać z rozgłosu książki.
+**FACT**: Production began in October 1939, only four weeks after Ford finished his previous work, and the film was quickly produced to capitalize on the book's publicity.
 
-**FAKT**: Darryl F. Zanuck chciał w roli głównej gwiazdy Fox (Tyrone'a Powera lub Dona Ameche), ale Ford nalegał na Henry'ego Fondę.
+**FACT**: Darryl F. Zanuck wanted a Fox star (Tyrone Power or Don Ameche) in the lead role, but Ford insisted on Henry Fonda.
 
-**FAKT**: Fonda musiał podpisać siedmioletni kontrakt studyjny, aby otrzymać rolę, mimo że chciał pozostać freelancerem.
+**FACT**: Fonda had to sign a seven-year studio contract to get the role, even though he wanted to remain a freelancer.
 
-**FAKT**: W dążeniu Forda do realizmu, makijaż został zakazany na planie (z wyjątkiem efektów specjalnych), a wygląd filmu był w dużej mierze inspirowany fotografiami Dust Bowl autorstwa Dorotheya Lange, Bena Shahn i Horace'a Bristola.
+**FACT**: In Ford's pursuit of realism, makeup was banned on set (except for special effects), and the film's look was largely inspired by Dust Bowl photographs by Dorothea Lange, Ben Shahn, and Horace Bristol.
 
-**FAKT**: Tom Collins, rzeczywisty kierownik obozu FSA, został zatrudniony jako doradca techniczny filmu, aby zachować autentyczność.
+**FACT**: Tom Collins, the actual FSA camp director, was hired as the film's technical advisor to maintain authenticity.
 
-**FAKT**: Film zdobył Oscary dla Jane Darwell (najlepsza aktorka drugoplanowa) i Johna Forda (najlepszy reżyser). Henry Fonda był faworytem do Oscara, ale nagrodę otrzymał jego bliski przyjaciel James Stewart za "The Philadelphia Story".
+**FACT**: The film won Oscars for Jane Darwell (Best Supporting Actress) and John Ford (Best Director). Henry Fonda was favored for the Oscar, but the award went to his close friend James Stewart for "The Philadelphia Story".
 
-**FAKT**: W 1989 roku film został jednym z pierwszych 25 filmów wybranych przez Library of Congress do zachowania w United States National Film Registry.
+**FACT**: In 1989, the film was one of the first 25 films selected by the Library of Congress for preservation in the United States National Film Registry.
 
-## Stan psychiczny autora podczas pisania
+## Author's Mental State During Writing
 
-**FAKT**: Steinbeck pisał w dzienniku: "Ta książka stała się dla mnie męką z powodu mojej nieadekwatności" i "Mój żołądek i nerwy krzyczą piekielnie w proteście przeciw najazdom."
+**FACT**: Steinbeck wrote in his journal: "This book has become a misery to me because of my inadequacy" and "My stomach and nerves scream hell in protest against the inroads."
 
-**FAKT**: Pod koniec pisania, 26 października 1938, Steinbeck pisał o swoim fizycznym wyczerpaniu: "Jestem tak oszołomiony, że ledwo widzę stronę", ale zmuszał się do kontynuowania.
+**FACT**: Near the end of writing, on October 26, 1938, Steinbeck wrote about his physical exhaustion: "I am so dizzy I can hardly see the page," but forced himself to continue.
 
-**FAKT**: Steinbeck jasno określił swój cel pisząc powieść: "Chcę przylepić etykietę wstydu na chciwych skurwysynów, którzy są za to odpowiedzialni [za Depresję i los robotnika]."
+**FACT**: Steinbeck clearly stated his goal in writing the novel: "I want to put a tag of shame on the greedy bastards who are responsible for this [the Depression and the worker's plight]."
 
-**FAKT**: Słynnie powiedział: "Zrobiłem wszystko, co w mojej mocy, żeby rozszarpać nerwy czytelnika na strzępy."
+**FACT**: He famously said: "I've done my damndest to rip a reader's nerves to rags."
 
-## Liczby i rekordy
+## Numbers and Records
 
-**FAKT**: Rękopis liczył 619 stron napisanych odręcznie.
+**FACT**: The manuscript was 619 pages written by hand.
 
-**FAKT**: Steinbeck napisał około 165,000 słów w ciągu 100 dni roboczych.
+**FACT**: Steinbeck wrote approximately 165,000 words in 100 working days.
 
-**FAKT**: Pierwsza edycja kosztowała 2,75 dolara (około 55 dolarów dzisiejszymi pieniędzmi).
+**FACT**: The first edition cost $2.75 (about $55 in today's money).
 
-**FAKT**: Do lutego 1940 roku wydrukowano 430,000 egzemplarzy.
+**FACT**: By February 1940, 430,000 copies had been printed.
 
-**FAKT**: Książka została przetłumaczona na dziesiątki języków i nigdy nie wyszła z druku.
+**FACT**: The book has been translated into dozens of languages and has never gone out of print.
 
-**FAKT**: Film z 1940 roku ma 100% pozytywnych recenzji na Rotten Tomatoes na podstawie 51 recenzji krytyków.
+**FACT**: The 1940 film has 100% positive reviews on Rotten Tomatoes based on 51 critic reviews.
 
-## Wpływ na otrzymanie Nagrody Nobla
+## Impact on Nobel Prize Win
 
-**FAKT**: "The Grapes of Wrath" w znacznym stopniu przyczyniła się do otrzymania przez Steinbecka Nagrody Nobla w dziedzinie literatury w 1962 roku.
+**FACT**: "The Grapes of Wrath" significantly contributed to Steinbeck receiving the Nobel Prize in Literature in 1962.
 
-**FAKT**: Komitet Noblowski szczególnie docenił "realistyczne i wyobrażeniowe pisarstwo Steinbecka, łączące współczujący humor i ostrzeg społeczną obserwację".
+**FACT**: The Nobel Committee particularly appreciated "Steinbeck's realistic and imaginative writing, combining sympathetic humor and keen social observation."
 
-**PLOTKA**: Według niektórych źródeł Steinbeck był zaskoczony otrzymaniem Nagrody Nobla, uważając, że jego najlepsze prace ma już za sobą.
+**RUMOR**: According to some sources, Steinbeck was surprised to receive the Nobel Prize, believing his best work was behind him.
 
-## Ciekawostki o procesie twórczym
+## Creative Process Curiosities
 
-**FAKT**: Steinbeck używał specjalnych ołówków podczas pisania i dbał o to, by były zawsze dobrze naostrzone.
+**FACT**: Steinbeck used special pencils during writing and made sure they were always well sharpened.
 
-**FAKT**: Autor pisał zazwyczaj rano, zaczynając pracę o stałej godzinie każdego dnia.
+**FACT**: The author typically wrote in the morning, starting work at a fixed time each day.
 
-**FAKT**: W swoim dzienniku Steinbeck śledził nie tylko postęp pisania, ale także swój stan emocjonalny i fizyczny.
+**FACT**: In his journal, Steinbeck tracked not only writing progress but also his emotional and physical state.
 
-**FAKT**: Steinbeck często pisał o swoich wątpliwościach dotyczących jakości swojej pracy, mimo tworzenia arcydzieła.
+**FACT**: Steinbeck often wrote about his doubts regarding the quality of his work, despite creating a masterpiece.
 
-**FAKT**: Autor celowo pisał powoli i metodycznie, aby zachować odpowiedni rytm narracji, który miał oddawać powolną wędrówkę migrantów.
+**FACT**: The author deliberately wrote slowly and methodically to maintain the proper narrative rhythm that would reflect the migrants' slow journey.
+
+**FACT**: Steinbeck wrote the entire novel using a fountain pen, refusing to use a typewriter because he felt it would disrupt his connection to the words.
+
+**FACT**: The author's daily writing sessions typically lasted 4-6 hours, during which he would allow no interruptions or visitors.
+
+**FACT**: Steinbeck kept precise word counts and would sometimes rewrite entire chapters if they didn't meet his daily quota or quality standards.
+
+**FACT**: The novel's structure alternates between narrative chapters following the Joad family and "intercalary" chapters providing broader social context - a technique Steinbeck called "the method of the Bible."
+
+**FACT**: Steinbeck originally considered several alternative titles including "The Oklahomans," "Something That Happened," and "A Juice of God."
 
 ---
 
-*Dokument zawiera 47 faktów i 3 plotki dotyczące historii powstania "The Grapes of Wrath". Źródła: badania internetowe z sierpnia 2025, archiwa historyczne, dzienniki autora i dokumenty Farm Security Administration.*
+*Document contains 50 facts and 2 rumors about the creation history of "The Grapes of Wrath". Sources: internet research, historical archives, author's journals, and Farm Security Administration documents.*

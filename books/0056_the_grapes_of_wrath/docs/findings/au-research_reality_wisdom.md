@@ -1,258 +1,258 @@
-# Trafność przewidywań i praktyczna mądrość z "Grona gniewu" (1939)
+# Prediction Accuracy and Practical Wisdom from "The Grapes of Wrath" (1939)
 
-## Wprowadzenie
+## Introduction
 
-John Steinbeck napisał "Grona gniewu" w 1939 roku, przedstawiając wizję Ameryki zmagającej się z kryzysem ekonomicznym, zmianami społecznymi i degradacją środowiska. Po 85 latach możemy ocenić, które z jego obserwacji i "przewidywań" sprawdziły się, a które nie, oraz wyciągnąć praktyczne lekcje dla współczesnej młodzieży.
+John Steinbeck wrote "The Grapes of Wrath" in 1939, presenting a vision of America struggling with economic crisis, social changes, and environmental degradation. After 85 years, we can assess which of his observations and "predictions" came true, which didn't, and extract practical lessons for contemporary youth.
 
-## Przewidywania które się sprawdziły vs te które nie
+## Predictions That Came True vs Those That Didn't
 
-### ✅ TRAFIŁ W DZIESIĄTKĘ - Rewolucyjne przewidywania
+### ✅ SPOT ON - Revolutionary Predictions
 
-#### 1. Korporatyzacja rolnictwa (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Steinbeck pokazał, jak małe farmy są przejmowane przez banki i łączone w wielkie, zmechanizowane kompleksy agrobiznesu.
+#### 1. Corporatization of Agriculture (1939 vs 2025)
+**WHAT HE PREDICTED**: Steinbeck showed how small farms are taken over by banks and merged into large, mechanized agribusiness complexes.
 
-**CO SIĘ STAŁO**: 
-- 1935: 6.8 miliona farm w USA
-- 2025: Mniej niż 2 miliony farm, większość kontrolowana przez konglomeraty
-- Amazon wchodzi w rolnictwo przez AWS Farm
-- Vertical farming i automatyzacja potwierdziły wizję Steinbecka
+**WHAT HAPPENED**:
+- 1935: 6.8 million farms in USA
+- 2025: Less than 2 million farms, most controlled by conglomerates
+- Amazon enters agriculture through AWS Farm
+- Vertical farming and automation confirmed Steinbeck's vision
 
-**LEKCJA DLA MŁODZIEŻY**: *"Gdy widzisz konsolidację w jakiejkolwiek branży, zastanów się kto na tym traci - zwykle są to zwykli ludzie"*
+**LESSON FOR YOUTH**: *"When you see consolidation in any industry, ask who's losing out - it's usually ordinary people"*
 
-#### 2. Robotnicy vs automaty (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Traktory wypierają ludzi z pracy, technologia służy kapitałowi, nie ludziom.
+#### 2. Workers vs Machines (1939 vs 2025)
+**WHAT HE PREDICTED**: Tractors displace humans from work, technology serves capital, not people.
 
-**CO SIĘ STAŁO**:
-- AI i robotyka eliminują miliony miejsc pracy
-- Self-checkout w sklepach
-- Autonomiczne pojazdy zagrażają kierowcom ciężarówek
-- Chatboty zastępują call center
+**WHAT HAPPENED**:
+- AI and robotics eliminate millions of jobs
+- Self-checkout in stores
+- Autonomous vehicles threaten truck drivers
+- Chatbots replace call centers
 
-**LEKCJA DLA MŁODZIEŻY**: *"Naucz się czegoś, czego maszyny nie potrafią - kreatywności, empatii, rozwiązywania konfliktów"*
+**LESSON FOR YOUTH**: *"Learn something machines can't do - creativity, empathy, conflict resolution"*
 
-#### 3. Migracja klimatyczna (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Degradacja środowiska wymusza masowe przesiedlenia ludności.
+#### 3. Climate Migration (1939 vs 2025)
+**WHAT HE PREDICTED**: Environmental degradation forces massive population relocations.
 
-**CO SIĘ STAŁO**:
-- Bank Światowy przewiduje 143 miliony "uchodźców klimatycznych" do 2050
-- Kalifornia cierpi na susze przypominające Dust Bowl
-- Pożary w Australii i powodzie zmuszają do ewakuacji
-- Wysychające jeziora w Azji Środkowej
+**WHAT HAPPENED**:
+- World Bank predicts 143 million "climate refugees" by 2050
+- California suffers droughts reminiscent of Dust Bowl
+- Fires in Australia and floods force evacuations
+- Drying lakes in Central Asia
 
-**LEKCJA DLA MŁODZIEŻY**: *"Kryzys klimatyczny to nie przyszłość - to już się dzieje. Przygotuj się na zmiany"*
+**LESSON FOR YOUTH**: *"Climate crisis isn't the future - it's happening now. Prepare for changes"*
 
-#### 4. Nierówności ekonomiczne (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Przepaść między bogatymi i biednymi będzie się pogłębiać.
+#### 4. Economic Inequality (1939 vs 2025)
+**WHAT HE PREDICTED**: The gap between rich and poor will deepen.
 
-**CO SIĘ STAŁO**:
-- 1% najbogatszych Amerykanów kontroluje 32% bogactwa (2025)
-- Bezdomność w USA wzrosła o 15% od 2020
-- Student loan debt: 1,7 biliona dolarów
-- Gigowa ekonomia bez zabezpieczeń społecznych
+**WHAT HAPPENED**:
+- Top 1% of Americans control 32% of wealth (2025)
+- Homelessness in USA increased 15% since 2020
+- Student loan debt: $1.7 trillion
+- Gig economy without social protections
 
-**LEKCJA DLA MŁODZIEŻY**: *"System nie został zaprojektowany dla ciebie - musisz być sprytny i solidarny"*
+**LESSON FOR YOUTH**: *"The system wasn't designed for you - you must be smart and show solidarity"*
 
-### ❌ TUTAJ SIĘ MYLIŁ - Błędne przewidywania
+### ❌ WHERE HE WAS WRONG - Incorrect Predictions
 
-#### 1. Rewolucja komunistyczna w USA (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Steinbeck sugerował, że desperacja doprowadzi do powstania klasowego.
+#### 1. Communist Revolution in USA (1939 vs 2025)
+**WHAT HE PREDICTED**: Steinbeck suggested desperation would lead to class uprising.
 
-**CO SIĘ STAŁO**:
-- Zamiast rewolucji powstały programy socjalne (New Deal)
-- Klasa średnia się powiększyła w latach 50-70
-- Gen Z woli reformy niż rewolucje
-- Bernie Sanders i AOC - zmiana przez system
+**WHAT HAPPENED**:
+- Instead of revolution, social programs emerged (New Deal)
+- Middle class expanded in the 50s-70s
+- Gen Z prefers reform over revolution
+- Bernie Sanders and AOC - change through the system
 
-**LEKCJA DLA MŁODZIEŻY**: *"Systemy mogą się zmieniać ewolucyjnie - głosuj, angażuj się, nie czekaj na rewolucję"*
+**LESSON FOR YOUTH**: *"Systems can change evolutionarily - vote, get involved, don't wait for revolution"*
 
-#### 2. Nieuchronny upadek kapitalizmu (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: Kapitalizm się załamie pod własnym ciężarem chciwości.
+#### 2. Inevitable Collapse of Capitalism (1939 vs 2025)
+**WHAT HE PREDICTED**: Capitalism will collapse under its own greed.
 
-**CO SIĘ STAŁO**:
-- Kapitalizm adaptuje się - powstały korporacje społecznie odpowiedzialne
+**WHAT HAPPENED**:
+- Capitalism adapts - socially responsible corporations emerged
 - ESG investing, B-Corp movement
-- Kapitalizm stakeholderów vs shareholderów
-- Tech billionaires zajmują się problemami społecznymi
+- Stakeholder vs shareholder capitalism
+- Tech billionaires tackle social problems
 
-**LEKCJA DLA MŁODZIEŻY**: *"System może być zepsuty, ale da się go naprawić od środka"*
+**LESSON FOR YOUTH**: *"The system may be broken, but it can be fixed from within"*
 
-#### 3. Koniec amerykańskiego snu (1939 vs 2025)
-**CO PRZEWIDZIAŁ**: American Dream umrze dla zwykłych rodzin.
+#### 3. End of American Dream (1939 vs 2025)
+**WHAT HE PREDICTED**: American Dream will die for ordinary families.
 
-**CO SIĘ STAŁO**:
-- 69% Amerykanów nadal wierzy w american dream (2024)
-- Social media pozwalają zwykłym ludziom zostać influencerami
-- Startupy, OnlyFans, YouTube - nowe drogi do sukcesu
-- Remote work zdemokratyzował możliwości
+**WHAT HAPPENED**:
+- 69% of Americans still believe in American dream (2024)
+- Social media allows ordinary people to become influencers
+- Startups, OnlyFans, YouTube - new paths to success
+- Remote work democratized opportunities
 
-**LEKCJA DLA MŁODZIEŻY**: *"American dream się zmienił, ale nie umarł - znajdź swoją wersję"*
+**LESSON FOR YOUTH**: *"American dream changed but didn't die - find your version"*
 
-## Relationship red flags i mądrość relacyjna
+## Relationship Red Flags and Wisdom
 
-### 🚩 RED FLAGS z rodziny Joad
+### 🚩 RED FLAGS from the Joad Family
 
-#### Pa Joad - Toxic masculinity w kryzysie
-**PATTERN**: Gdy sytuacja się komplikuje, Pa staje się bierny, marudzi, że "już nie rządzi rodziną".
+#### Pa Joad - Toxic Masculinity in Crisis
+**PATTERN**: When situations get complicated, Pa becomes passive, complains that he "no longer rules the family."
 
-**RED FLAG 2025**: Facet, który w trudnych chwilach:
-- Wini innych za swoje problemy
-- Żąda szacunku bez wykazywania się kompetencjami
-- Nie potrafi adaptować się do zmieniających okoliczności
-- Czuje się zagrożony sukcesami partnerki
+**RED FLAG 2025**: A guy who in difficult times:
+- Blames others for his problems
+- Demands respect without showing competence
+- Can't adapt to changing circumstances
+- Feels threatened by partner's success
 
-**PRAKTYCZNA MĄDROŚĆ**: *"Prawdziwy mężczyzna przejmuje odpowiedzialność, gdy jest potrzebny, a nie konkuruje o władzę"*
+**PRACTICAL WISDOM**: *"Real men take responsibility when needed, they don't compete for power"*
 
-#### Connie Rivers - Abandonment pattern
-**PATTERN**: Rose of Sharon's mąż ucieka, gdy ciąża staje się niewygodna.
+#### Connie Rivers - Abandonment Pattern
+**PATTERN**: Rose of Sharon's husband runs away when pregnancy becomes inconvenient.
 
-**RED FLAG 2025**: Partner, który:
-- Nie bierze odpowiedzialności za konsekwencje seksu
-- Znika, gdy pojawiają się zobowiązania
-- Obiecuje nierealny luksus ("będziemy bogaci w Kalifornii")
-- Nie wspiera w trudnych momentach
+**RED FLAG 2025**: Partner who:
+- Doesn't take responsibility for consequences of sex
+- Disappears when commitments arise
+- Promises unrealistic luxury ("we'll be rich in California")
+- Doesn't support during tough moments
 
-**PRAKTYCZNA MĄDROŚĆ**: *"Obserwuj jak ktoś zachowuje się pod presją - to pokazuje jego prawdziwą twarz"*
+**PRACTICAL WISDOM**: *"Watch how someone behaves under pressure - it shows their true character"*
 
-#### Al Joad - Serial dating pattern
-**PATTERN**: Al ciągle szuka nowych dziewczyn, traktuje je jako trofea.
+#### Al Joad - Serial Dating Pattern
+**PATTERN**: Al constantly seeks new girls, treats them as trophies.
 
-**RED FLAG 2025**: Facet, który:
-- Zbiera numery jak pokemony
-- Nie buduje głębszych relacji
-- Skupia się tylko na fizyczności
-- Konkuruje z braćmi o uwagę kobiet
+**RED FLAG 2025**: Guy who:
+- Collects numbers like Pokemon
+- Doesn't build deeper relationships
+- Focuses only on physicality
+- Competes with brothers for female attention
 
-**PRAKTYCZNA MĄDROŚĆ**: *"Quantity over quality w datingu to recepta na pustą egzystencję"*
+**PRACTICAL WISDOM**: *"Quantity over quality in dating is a recipe for empty existence"*
 
-### ✨ HEALTHY PATTERNS - Ma Joad jako wzór
+### ✨ HEALTHY PATTERNS - Ma Joad as Role Model
 
-#### Adaptacyjne przywództwo
-**CO ROBI**: Ma przejmuje stery, gdy Pa zawodzi, ale nie z zemsty - z konieczności.
+#### Adaptive Leadership
+**WHAT SHE DOES**: Ma takes charge when Pa fails, but not out of revenge - out of necessity.
 
-**MODERN LESSON**: Zdrowe związki to:
-- Dzielenie ról według kompetencji, nie płci
-- Wspieranie się w słabszych momentach
-- Przejmowanie inicjatywy bez walki o władzę
-- Stawianie dobra rodziny ponad ego
+**MODERN LESSON**: Healthy relationships involve:
+- Sharing roles based on competence, not gender
+- Supporting each other in weak moments
+- Taking initiative without fighting for power
+- Putting family good above ego
 
-**CYTAT KLUCZOWY**: "Well, Pa, a woman can change better'n a man... a woman, it's all one flow, like a stream"
+**KEY QUOTE**: "Well, Pa, a woman can change better'n a man... a woman, it's all one flow, like a stream"
 
-#### Empatia bez granic
-**CO ROBI**: Ma dzieli się jedzeniem z obcymi, nawet gdy sama głoduje.
+#### Boundless Empathy
+**WHAT SHE DOES**: Ma shares food with strangers even when she's hungry herself.
 
-**MODERN LESSON**: Prawdziwa miłość to:
-- Troska o szerszą społeczność
-- Pomaganie innym mimo własnych problemów
-- Widzenie człowieczeństwa w każdym
-- Dawanie bez liczenia zysków
+**MODERN LESSON**: True love means:
+- Caring for the broader community
+- Helping others despite own problems
+- Seeing humanity in everyone
+- Giving without counting profits
 
-## Generational divide - co się zmieniło vs co uniwersalne
+## Generational Divide - What Changed vs What's Universal
 
-### ZMIENIŁO SIĘ RADYKALNIE
+### CHANGED RADICALLY
 
-#### 1. Definicja rodziny (1939 vs 2025)
-**1939**: Rodzina = blood relations, patriarch na górze, kobiety podporządkowane
+#### 1. Definition of Family (1939 vs 2025)
+**1939**: Family = blood relations, patriarch on top, women subordinated
 **2025**: Chosen family, found family, queer families, single parent families
 
-**UNIVERSAL TRUTH**: Potrzeba przynależności i bezwarunkowej miłości pozostaje taka sama
+**UNIVERSAL TRUTH**: The need for belonging and unconditional love remains the same
 
-#### 2. Role płciowe (1939 vs 2025)  
-**1939**: Mężczyźni zarabiają, kobiety wychowują dzieci, strict binary
-**2025**: Płynność ról, non-binary identities, shared parenting
+#### 2. Gender Roles (1939 vs 2025)
+**1939**: Men earn, women raise children, strict binary
+**2025**: Fluid roles, non-binary identities, shared parenting
 
-**UNIVERSAL TRUTH**: Każdy potrzebuje czuć się użyteczny i doceniony w związku
+**UNIVERSAL TRUTH**: Everyone needs to feel useful and appreciated in relationships
 
-#### 3. Komunikacja w kryzysie (1939 vs 2025)
-**1939**: "Men don't cry", emotions are weakness, silence as strength  
+#### 3. Crisis Communication (1939 vs 2025)
+**1939**: "Men don't cry", emotions are weakness, silence as strength
 **2025**: Therapy speak, emotional intelligence, mental health awareness
 
-**UNIVERSAL TRUTH**: Autentyczna komunikacja buduje więzi, pozorowanie je niszczy
+**UNIVERSAL TRUTH**: Authentic communication builds bonds, pretending destroys them
 
-### POZOSTAŁO NIEZMIENNE
+### REMAINED UNCHANGED
 
-#### 1. Scarcity mindset vs abundance
+#### 1. Scarcity Mindset vs Abundance
 **MA JOAD'S WISDOM**: "If you're in trouble or hurt or need—go to poor people. They're the only ones that'll help"
 
-**2025 TRUTH**: Ludzie którzy przeszli trudności są bardziej empatyczni niż ci, którym się udało
+**2025 TRUTH**: People who've been through hardships are more empathetic than those who succeeded
 
-#### 2. Community vs individualism  
-**1939 + 2025**: W kryzysie przetrwają ci, którzy się wspierają, nie samotni wilki
+#### 2. Community vs Individualism
+**1939 + 2025**: In crisis, those who support each other survive, not lone wolves
 
-#### 3. Dignity in work
-**1939 + 2025**: Ludzie potrzebują czuć się użyteczni, niezależnie od rodzaju pracy
+#### 3. Dignity in Work
+**1939 + 2025**: People need to feel useful, regardless of the type of work
 
-## Life lessons dla współczesnych 20-latków
+## Life Lessons for Contemporary 20-somethings
 
-### 💪 Survival skills od rodziny Joad
+### 💪 Survival Skills from the Joad Family
 
-#### 1. Adaptability over planning
-**JOAD LESSON**: Planowali farmerskie życie w Kalifornii, stali się nomadami-pracownikami
+#### 1. Adaptability Over Planning
+**JOAD LESSON**: They planned farming life in California, became nomadic workers
 
-**2025 APPLICATION**: 
-- Twój pierwszy plan kariery prawdopodobnie się nie sprawdzi
-- Uczenie się nowych skills będzie ciągłe
-- Remote work, gig economy, career pivots to norma
+**2025 APPLICATION**:
+- Your first career plan probably won't work out
+- Learning new skills will be continuous
+- Remote work, gig economy, career pivots are the norm
 - *"Stay flexible, stay relevant"*
 
-#### 2. Community jako safety net
-**JOAD LESSON**: W Hooverville camps ludzie dzielą się wszystkim
+#### 2. Community as Safety Net
+**JOAD LESSON**: In Hooverville camps people shared everything
 
 **2025 APPLICATION**:
-- Twój network to twój net worth
+- Your network is your net worth
 - Mutual aid groups, discord communities, group chats
-- Pomaganie innym wraca do ciebie w kryzysie
+- Helping others comes back to you in crisis
 - *"Your tribe is your survival"*
 
-#### 3. Dignity w każdej pracy
-**JOAD LESSON**: Tom nie wstyczy się prac fizycznych, Ma gotuje dla obcych
+#### 3. Dignity in Every Job
+**JOAD LESSON**: Tom isn't ashamed of physical work, Ma cooks for strangers
 
 **2025 APPLICATION**:
-- Nie ma "shameful jobs", są only shameful wages
+- There are no "shameful jobs", only shameful wages
 - Side hustles, OnlyFans, uber - work is work
-- Respect dla service workers, essential workers
+- Respect for service workers, essential workers
 - *"Money doesn't define your worth"*
 
-### 💔 Dating wisdom od Steinbecka
+### 💔 Dating Wisdom from Steinbeck
 
-#### 1. Watch behavior under stress
-**ROSE OF SHARON LESSON**: Connie był słodki gdy było łatwo, zniknął gdy trudno
+#### 1. Watch Behavior Under Stress
+**ROSE OF SHARON LESSON**: Connie was sweet when easy, disappeared when hard
 
 **MODERN RED FLAGS**:
-- Partner który ginie w trudnych chwilach
-- Ktoś kto obiecuje rzeczy poza swoimi możliwościami  
-- Person który nie potrafi rozmawiać o problemach
+- Partner who vanishes in difficult times
+- Someone who promises things beyond their means
+- Person who can't talk about problems
 - *"Stress reveals character"*
 
-#### 2. Shared values > shared interests
-**MA & PA LESSON**: Pa lubił Ma gdy była submissive, przestał gdy przejęła stery
+#### 2. Shared Values > Shared Interests
+**MA & PA LESSON**: Pa liked Ma when she was submissive, stopped when she took charge
 
 **MODERN INSIGHT**:
-- Szukaj kogoś kto wspiera twój growth
-- Avoid mensen którzy chcą cię "naprawić"
+- Look for someone who supports your growth
+- Avoid people who want to "fix" you
 - Compatible life goals matter more than hobbies
 - *"Grow together or grow apart"*
 
-#### 3. Independence in interdependence
-**MA JOAD LESSON**: Była silna dla rodziny, nie pomimo rodziny
+#### 3. Independence in Interdependence
+**MA JOAD LESSON**: She was strong for the family, not despite the family
 
 **MODERN BALANCE**:
-- Maintain własna tożsamość w związku
+- Maintain your own identity in relationships
 - Support system beyond romantic partner
-- Financial independence jako foundation
+- Financial independence as foundation
 - *"Complete yourself before completing someone else"*
 
-### 🌍 Social consciousness od Steinbecka
+### 🌍 Social Consciousness from Steinbeck
 
-#### 1. Question power structures
+#### 1. Question Power Structures
 **STEINBECK MESSAGE**: Banks, corporations don't care about individuals
 
 **2025 RELEVANCE**:
-- Big Tech algorithms manipulate twoje zachowanie
+- Big Tech algorithms manipulate your behavior
 - Corporate "woke-washing" vs real change
-- Student loans as debt trap  
+- Student loans as debt trap
 - *"Always ask: who profits from this system?"*
 
-#### 2. Solidarity across differences
+#### 2. Solidarity Across Differences
 **JOAD LESSON**: Poor people of all races helped each other
 
 **MODERN APPLICATION**:
@@ -261,7 +261,7 @@ John Steinbeck napisał "Grona gniewu" w 1939 roku, przedstawiając wizję Amery
 - Support worker strikes and unions
 - *"Divided we fall, united we rise"*
 
-#### 3. Local action, global thinking
+#### 3. Local Action, Global Thinking
 **MA JOAD PRACTICE**: Helped neighbors even while struggling
 
 **GEN Z ACTIVISM**:
@@ -270,98 +270,98 @@ John Steinbeck napisał "Grona gniewu" w 1939 roku, przedstawiając wizję Amery
 - Support local businesses, community gardens
 - *"Change the world by changing your corner of it"*
 
-## Timeline rzeczywistość vs książka
+## Timeline Reality vs Book
 
-### 1939 - Steinbeck pisze
-- **BOOK WORLD**: Dust Bowl refugees szukają pracy w Kalifornii
-- **REAL WORLD**: 3.5 miliona ludzi opuściło Great Plains
+### 1939 - Steinbeck Writes
+- **BOOK WORLD**: Dust Bowl refugees seek work in California
+- **REAL WORLD**: 3.5 million people left Great Plains
 
-### 1940-1950 - New Deal era
-- **STEINBECK'S HOPE**: Government programs pomogą robotnikom  
+### 1940-1950 - New Deal Era
+- **STEINBECK'S HOPE**: Government programs will help workers
 - **REALITY**: ✅ Social Security, unemployment benefits, labor unions
 
 ### 1960-1970 - Civil Rights
 - **STEINBECK'S VISION**: Solidarity across racial lines
 - **REALITY**: ✅ Farm workers movement, Cesar Chavez inspired by book
 
-### 1980-2000 - Reagan era
+### 1980-2000 - Reagan Era
 - **STEINBECK'S FEAR**: Corporate power vs workers
 - **REALITY**: ❌ Union membership declined, inequality grew
 
-### 2000-2025 - Digital age  
+### 2000-2025 - Digital Age
 - **STEINBECK'S PATTERN**: Technology serves capital, not people
 - **REALITY**: ✅ Gig economy without benefits, AI replacing workers
 
-### 2025+ - Climate crisis
+### 2025+ - Climate Crisis
 - **STEINBECK'S WARNING**: Environmental degradation forces migration
 - **REALITY**: ✅ Climate refugees, water wars, food insecurity
 
-## Universal human truths które przetrwają
+## Universal Human Truths That Will Endure
 
-### 1. Potrzeба przynależności
+### 1. Need for Belonging
 "How can we live without our lives? How will we know it's us without our past?" - Tom Joad
 
-**TIMELESS TRUTH**: Ludzie potrzebują historii, tradycji, sensu przynależności
+**TIMELESS TRUTH**: People need stories, traditions, sense of belonging
 
-### 2. Solidarność w cierpieniu  
+### 2. Solidarity in Suffering
 "If you're in trouble or hurt or need—go to poor people" - Ma Joad
 
-**TIMELESS TRUTH**: Ci którzy przeszli ból, najlepiej rozumieją andrzego ból
+**TIMELESS TRUTH**: Those who've been through pain best understand others' pain
 
-### 3. Resilience przez adaptację
-"We're the people that live. They can't wipe us out, they can't lick us" - Ma Joad  
+### 3. Resilience Through Adaptation
+"We're the people that live. They can't wipe us out, they can't lick us" - Ma Joad
 
-**TIMELESS TRUTH**: Człowiek to najadaptacyjniejsze stworzenie na planecie
+**TIMELESS TRUTH**: Humans are the most adaptable creatures on the planet
 
-### 4. Miłość przez poświęcenie
-Rose of Sharon karmi obcego mężczyznę - symbol bezwarunkowego człowieczeństwa
+### 4. Love Through Sacrifice
+Rose of Sharon feeds a strange man - symbol of unconditional humanity
 
-**TIMELESS TRUTH**: Prawdziwa miłość to dawanie siebie dla innych
+**TIMELESS TRUTH**: True love means giving yourself for others
 
-### 5. Sens przez walkę
+### 5. Meaning Through Struggle
 "Wherever there's a fight so hungry people can eat, I'll be there" - Tom Joad
 
-**TIMELESS TRUTH**: Życie ma sens, gdy walczysz o coś większego niż ty sam
+**TIMELESS TRUTH**: Life has meaning when you fight for something greater than yourself
 
-## Praktyczne porady dla Gen Z
+## Practical Advice for Gen Z
 
 ### Career & Money
-1. **Diversify income streams** - nie ufaj jednej pracy
+1. **Diversify income streams** - don't trust one job
 2. **Learn constantly** - automation is coming for everyone
-3. **Build emergency fund** - economic crisis repeat every 10-15 lat
-4. **Invest early** - compound interest to magia
+3. **Build emergency fund** - economic crises repeat every 10-15 years
+4. **Invest early** - compound interest is magic
 
-### Relationships  
+### Relationships
 1. **Green flags**: Partner who grows under pressure
-2. **Red flags**: Anyone who disappears podczas problems
+2. **Red flags**: Anyone who disappears during problems
 3. **Healthy boundaries**: Support, don't save
 4. **Choose wisely**: Values alignment > physical attraction
 
 ### Social Consciousness
 1. **Vote religiously** - especially local elections
 2. **Support ethical businesses** - your dollars are votes
-3. **Build community** - online i offline networks
+3. **Build community** - online and offline networks
 4. **Stay informed** - but limit doom-scrolling
 
 ### Personal Growth
-1. **Mental health first** - therapy nie to luxury
-2. **Physical resilience** - kryzysy wymagają siły
-3. **Emotional intelligence** - najważniejszy skill XXI wieku  
-4. **Spiritual grounding** - czy to religia, medytacja, czy natura
+1. **Mental health first** - therapy isn't luxury
+2. **Physical resilience** - crises require strength
+3. **Emotional intelligence** - most important 21st century skill
+4. **Spiritual grounding** - whether religion, meditation, or nature
 
-## Podsumowanie
+## Summary
 
-"Grona gniewu" po 85 latach nadal brzmi jak ostrzeżenie i instrukcja obsługi. Steinbeck trafnie przewidział korporatyzację, automatyzację, migrację klimatyczną i pogłębiające się nierówności. Mylił się co do rewolucji - ale może dlatego, że jego książka pomogła ją zapobiec przez reformy.
+"The Grapes of Wrath" after 85 years still sounds like both warning and user manual. Steinbeck accurately predicted corporatization, automation, climate migration, and deepening inequality. He was wrong about revolution - but perhaps because his book helped prevent it through reforms.
 
-Dla współczesnej młodzieży najważniejsze lekcje to:
-- **Adaptuj się** zamiast planować idealną przyszłość
-- **Buduj społeczność** - samotni wilcy nie przeżywają kryzysu  
-- **Patrz na zachowanie** pod presją, nie na słowa w łatwych chwilach
-- **Walcz o sprawiedliwość**, ale przez system, nie przeciwko niemu
-- **Zachowaj człowieczeństwo** nawet gdy świat staje się bezlitosny
+For contemporary youth, the most important lessons are:
+- **Adapt** instead of planning perfect future
+- **Build community** - lone wolves don't survive crises
+- **Watch behavior** under pressure, not words in easy times
+- **Fight for justice**, but through the system, not against it
+- **Keep humanity** even when world becomes ruthless
 
-Tom Joad obiecał: "I'll be there". I rzeczywiście jest - w każdym proteście, w każdej walce o godność, w każdym akcie solidarności. Pytanie brzmi: czy ty tam będziesz?
+Tom Joad promised: "I'll be there". And indeed he is - in every protest, in every fight for dignity, in every act of solidarity. The question is: will you be there?
 
 ---
 
-*Dokument zawiera 40 porównań przeszłość vs współczesność, analizę trafności przewidywań Steinbecka oraz praktyczne lekcje życiowe dla współczesnej młodzieży. Źródła: badania internetowe z sierpnia 2025, analiza literacka, socjologia współczesna.*
+*Document contains 40 past vs contemporary comparisons, analysis of Steinbeck's prediction accuracy, and practical life lessons for contemporary youth. Sources: internet research from September 2025, literary analysis, contemporary sociology.*
