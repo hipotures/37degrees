@@ -1,0 +1,181 @@
+book_info:
+  title: "The Adventures of Tom Sawyer"
+  title_pl: "Przygody Tomka Sawyera"
+  author: "Mark Twain"
+  year: 1876
+  genre: "Adventure,Novel"
+  reading_time: "7-8 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-15T00:00:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 7
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 5
+    total: 56
+    percentile: 75
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mark Twain was a member of the Polar Star Lodge No. 79 in St. Louis from 1860, initiated in all three degrees of the Blue Lodge in 1861"
+        source: "dark_drama"
+      - id: "facts_history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Tom Sawyer was based on combination of three boys: Twain himself and two childhood friends John B. Briggs and William Bowen"
+        source: "facts_history"
+      - id: "culture_impact_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Hemingway declared: All modern American literature comes from Huckleberry Finn, positioning Tom Sawyer as literary predecessor"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "47 psychiatrists in 2025 study would diagnose Tom with ADHD - qualities that made him tiresome are ones that get him the girl"
+        source: "youth_digital"
+      - id: "dark_drama_4"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "One critic calls Tom Sawyer the most racist book, arguing it is so useful to the cause of racism"
+        source: "dark_drama"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "First novel using authentic American dialect in literature, breaking from elegant Victorian literary tradition"
+        source: "writing_innovation"
+      - id: "symbols_meanings_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Tom Sawyer follows Campbell's monomyth: ordinary world, call to adventure, trials, return with wisdom and treasure"
+        source: "symbols_meanings"
+      - id: "reality_wisdom_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Fence painting scene demonstrates great law of human action: to make someone want something, make it difficult to obtain"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Foundational American novel establishing vernacular literature tradition"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "First UK edition by Chatto and Windus (1876)"]
+        reception_notes: "Required reading in schools throughout English-speaking world, considered first Great American Novel"
+        educational_status: "Standard text in American literature curricula since early 20th century"
+        local_themes: ["American frontier spirit", "Democratic ideals vs practice", "Childhood innocence in American context"]
+
+      pl:
+        cultural_impact: "One of earliest Polish translations of American youth literature (1901)"
+        key_editions: ["Wydawnictwo Greg (2011-2014)", "Multiple translations including Antoni Slonimski and Zbigniew Batko"]
+        reception_notes: "Jedna z ulubionych ksiazek z dziecinstwa - frequent nostalgic memories from Polish adults"
+        educational_status: "Lektura obowiazkowa for classes 4-6 szkoly podstawowej"
+        local_themes: ["Alternative model of childhood freedom", "American culture introduction for Polish youth"]
+
+      de:
+        cultural_impact: "Theodor Adorno created ballad opera Der Schatz des Indianer-Joe (1932-33)"
+        key_editions: ["Suhrkamp/Insel Verlag", "Diogenes Verlag Zurich (2002)", "Reclam Universal-Bibliothek"]
+        reception_notes: "Integrated into Gymnasium curriculum as classic Jugendliteratur"
+        educational_status: "Performed in German schools like Platen-Gymnasium"
+        local_themes: ["Frankfurt School critical theory interpretation", "Connection to German Bildungsroman tradition"]
+
+      fr:
+        cultural_impact: "Published in prestigious Bibliotheque de la Pleiade collection (2015)"
+        key_editions: ["Gallimard Pleiade Edition with 652 original illustrations", "Sorbonne scholarship editions"]
+        reception_notes: "Tom Sawyer, c'est l'Amerique - memorable French theme song from Japanese anime adaptation"
+        educational_status: "French 4th grade (Quatrieme) curriculum as world literature"
+        local_themes: ["American cultural artifact analysis", "Literary universalism vs cultural specificity debates"]
+
+      es:
+        cultural_impact: "Las aventuras de Tom Sawyer en la Espana de Franco - academic study of Franco-era reception"
+        key_editions: ["Espasa-Calpe Madrid Coleccion Austral", "Editorial Alfaguara Clasicos", "Sexto Piso edition"]
+        reception_notes: "Categorized within juvenile picaresque literature alongside Lazarillo de Tormes"
+        educational_status: "Integrated into Spanish-speaking educational systems across multiple countries"
+        local_themes: ["Picaresque tradition connection", "Adventure and freedom themes resonate with Latin American experience"]
+
+      pt:
+        cultural_impact: "Monteiro Lobato pioneered translation (1934), fundamental in modernizing Brazilian publishing"
+        key_editions: ["Companhia das Letras/Zahar commented edition (2023)", "Porto Editora Classicos collection"]
+        reception_notes: "First Brazilian edition that does justice to original according to journalist Baptista Netto"
+        educational_status: "Required reading for vestibular exams and ENEM in Brazil"
+        local_themes: ["Cultural anthropophagy - devouring foreign info and reinventing in Brazilian terms"]
+
+      ja:
+        cultural_impact: "Tom Sawyer no Boken anime (1980) - 49 episodes on Fuji TV World Masterpiece Theater"
+        key_editions: ["Iwanami Shoten (Ishii Momoko translation)", "Shinchosha (Shibata Motoyuki 2012)"]
+        reception_notes: "Characters transformed and tamed for Japanese audiences - Tom became didactic"
+        educational_status: "Used in schools as introduction to Western literature"
+        local_themes: ["Moral transformation - fence painting changed to emphasize enjoying difficult work", "Democratic symbolism in postwar era"]
+
+      ko:
+        cultural_impact: "Mark Twain recognized as American Shakespeare and Father of American Literature"
+        key_editions: ["Minumsa World Literature Collection #203 (2009)", "Changbi Publishers Fun World Classics"]
+        reception_notes: "Academic paper Re-reading Tom Sawyer examines utopian vision themes"
+        educational_status: "World classic literature status though not required curriculum"
+        local_themes: ["Anti-romantic criticism focus", "Social satire mocking hypocritical adults through children's perspective"]
+
+      hi:
+        cultural_impact: "Tamil and Hindi editions available, Bengali radio adaptation on Radio Mirchi Kolkata (2025)"
+        key_editions: ["Tamil edition through Exotic India Art", "Hindi edition on Google Books", "CommonFolks Publishing"]
+        reception_notes: "Mississippi River setting parallels Indian river-based community traditions"
+        educational_status: "Featured in Maharashtra State Board Class 9 English textbook"
+        local_themes: ["Childhood mischief resonates with Indian trickster traditions", "Colonial literary exchange context"]
+
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 13
+      hosts:
+        host_a: "Classical literature expert explaining 1876 context, conventions, and original intentions"
+        host_b: "Contemporary reader from 2025 finding modern parallels and current relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:15"
+          topic: "original_era"
+          lead: "host_a"
+          description: "Setting the scene - America in 1876, Missouri frontier life, Mark Twain's childhood memories"
+        - segment: 2
+          time_range: "03:15-06:30"
+          topic: "evolution"
+          lead: "host_b"
+          description: "How Tom Sawyer transformed from commercial failure to American classic, changing interpretations"
+        - segment: 3
+          time_range: "06:30-09:45"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Controversies and censorship - from 1905 Brooklyn ban to contemporary racial discussions"
+        - segment: 4
+          time_range: "09:45-13:00"
+          topic: "timelessness"
+          lead: "host_b"
+          description: "Why Tom still matters - ADHD hero, fence-painting psychology, childhood freedom debates"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'The Adventures of Tom Sawyer' in its original 1876 context - Missouri frontier, pre-Civil War setting, Twain's nostalgic childhood memories. Discuss literary innovations: first authentic American dialect, picaresque structure, child psychology."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'The Adventures of Tom Sawyer' - helicopter parenting vs Tom's freedom, ADHD diagnosis debates, Sawyer Effect in behavioral economics, social media manipulation parallels to fence painting."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["historical violence", "racial stereotypes discussion", "controversial language in historical context"]
+    educational_elements: ["American frontier literature", "Historical context of 1840s Missouri", "Literary dialect and vernacular innovation", "Coming-of-age universal themes"]
+    production_notes:
+      intro_style: "nostalgic with historical context setting"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective on timeless themes"
+
+  overall_confidence: 0.88

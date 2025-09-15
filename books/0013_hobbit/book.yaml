@@ -1,15 +1,13 @@
 book_info:
-  title: "The Hobbit"
-  title_pl: "Hobbit"
-  author: "J.R.R. Tolkien"
+  title: The Hobbit
+  title_pl: Hobbit
+  author: J.R.R. Tolkien
   year: 1937
-  genre: "Fantasy,Adventure"
-  reading_time: "8-10 hours"
-
+  genre: Fantasy,Adventure
+  reading_time: 8-10 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-01-14T12:30:00Z"
-
+  version: '3.0'
+  processed_at: '2025-01-14T12:30:00Z'
   scores:
     controversy: 7
     philosophical_depth: 8
@@ -21,166 +19,196 @@ afa_analysis:
     social_roles: 2
     total: 50
     percentile: 75
-
   composite_scores:
     depth:
       value: 6.5
-      category: "medium"
+      category: medium
     heat:
       value: 6.0
-      category: "medium"
-
+      category: medium
   themes:
     universal:
-      - id: "innovation_01"
-        type: "FACT"
-        credibility: 0.95
-        content: "Tolkien created modern fantasy genre, establishing archetypes for elves, dwarves, and epic quests"
-        source: "writing_innovation"
-      - id: "controversy_01"
-        type: "DISPUTE"
-        credibility: 0.70
-        content: "Racism accusations about orcs having slanted eyes and swarthy complexions"
-        source: "dark_drama"
-      - id: "philosophy_01"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Multiple interpretive layers: Jungian archetypes, hero's journey, Christian allegory"
-        source: "symbols_meanings"
-      - id: "culture_01"
-        type: "FACT"
-        credibility: 0.95
-        content: "Hobbiton tourism in New Zealand generates over $100 million annually"
-        source: "culture_impact"
-      - id: "relevance_01"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Hobbit core aesthetic trending on TikTok with 1.5M+ posts as mental health escape"
-        source: "youth_digital"
-      - id: "wisdom_01"
-        type: "FACT"
-        credibility: 0.95
-        content: "Thorin's dragon sickness parallels modern wealth inequality and capitalist critique"
-        source: "reality_wisdom"
-      - id: "scandal_01"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Tolkien Estate sued Warner Bros for $80 million over unauthorized digital merchandising"
-        source: "dark_drama"
-      - id: "prophecy_01"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "One Ring bears resemblance to smartphones - Bilbo says 'feels like an eye watching me'"
-        source: "dark_drama"
-
+    - id: innovation_01
+      type: FACT
+      credibility: 0.95
+      content: Tolkien created modern fantasy genre, establishing archetypes for elves, dwarves, and epic quests
+      source: writing_innovation
+    - id: controversy_01
+      type: DISPUTE
+      credibility: 0.7
+      content: Racism accusations about orcs having slanted eyes and swarthy complexions
+      source: dark_drama
+    - id: philosophy_01
+      type: ANALYSIS
+      credibility: 0.85
+      content: 'Multiple interpretive layers: Jungian archetypes, hero''s journey, Christian allegory'
+      source: symbols_meanings
+    - id: culture_01
+      type: FACT
+      credibility: 0.95
+      content: Hobbiton tourism in New Zealand generates over $100 million annually
+      source: culture_impact
+    - id: relevance_01
+      type: ANALYSIS
+      credibility: 0.85
+      content: Hobbit core aesthetic trending on TikTok with 1.5M+ posts as mental health escape
+      source: youth_digital
+    - id: wisdom_01
+      type: FACT
+      credibility: 0.95
+      content: Thorin's dragon sickness parallels modern wealth inequality and capitalist critique
+      source: reality_wisdom
+    - id: scandal_01
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Tolkien Estate sued Warner Bros for $80 million over unauthorized digital merchandising
+      source: dark_drama
+    - id: prophecy_01
+      type: ANALYSIS
+      credibility: 0.85
+      content: One Ring bears resemblance to smartphones - Bilbo says 'feels like an eye watching me'
+      source: dark_drama
     localized:
       en:
-        cultural_impact: "Foundational text of English-language fantasy literature, studied at Oxford and worldwide universities"
-        key_editions: ["Allen & Unwin 1937 first edition", "Houghton Mifflin 1938 US edition"]
-        reception_notes: "Immediate critical acclaim, Carnegie Medal nomination, defines fantasy canon"
-        educational_status: "Widely taught in English literature courses"
-        local_themes: ["British pastoral nostalgia", "World War I allegory interpretations"]
-
+        cultural_impact: Foundational text of English-language fantasy literature, studied at Oxford and worldwide universities
+        key_editions:
+        - Allen & Unwin 1937 first edition
+        - Houghton Mifflin 1938 US edition
+        reception_notes: Immediate critical acclaim, Carnegie Medal nomination, defines fantasy canon
+        educational_status: Widely taught in English literature courses
+        local_themes:
+        - British pastoral nostalgia
+        - World War I allegory interpretations
       pl:
-        cultural_impact: "Canonical translation by Maria Skibniewska (1960) created Polish fantasy vocabulary"
-        key_editions: ["Iskry 1960", "Multiple editions with Jan Mlodozeniec illustrations"]
-        reception_notes: "Supplementary reading in Polish schools, strong TikTok youth engagement"
-        educational_status: "Official supplementary reading for first-year gymnasium"
-        local_themes: ["Post-communist freedom readings", "Connection to Polish folklore traditions"]
-
+        cultural_impact: Canonical translation by Maria Skibniewska (1960) created Polish fantasy vocabulary
+        key_editions:
+        - Iskry 1960
+        - Multiple editions with Jan Mlodozeniec illustrations
+        reception_notes: Supplementary reading in Polish schools, strong TikTok youth engagement
+        educational_status: Official supplementary reading for first-year gymnasium
+        local_themes:
+        - Post-communist freedom readings
+        - Connection to Polish folklore traditions
       de:
-        cultural_impact: "Deep connection to Germanic mythology sources, extensive academic Tolkien studies"
-        key_editions: ["Walter Scherf 1957", "Wolfgang Krege 1997 comprehensive revision"]
-        reception_notes: "Deutsche Tolkien Gesellschaft leading scholarly research"
-        educational_status: "Used in Gymnasium grades 5-7 with comprehensive teaching materials"
-        local_themes: ["Brothers Grimm connections", "German Romanticism influences"]
-
+        cultural_impact: Deep connection to Germanic mythology sources, extensive academic Tolkien studies
+        key_editions:
+        - Walter Scherf 1957
+        - Wolfgang Krege 1997 comprehensive revision
+        reception_notes: Deutsche Tolkien Gesellschaft leading scholarly research
+        educational_status: Used in Gymnasium grades 5-7 with comprehensive teaching materials
+        local_themes:
+        - Brothers Grimm connections
+        - German Romanticism influences
       fr:
-        cultural_impact: "Late arrival (1969) but now 293 academic works on Tolkien in French academia"
-        key_editions: ["Francis Ledoux 1969", "Daniel Lauzon 2012 retranslation"]
-        reception_notes: "Vincent Ferre leads French Tolkien scholarship at Sorbonne"
-        educational_status: "Integrated in college curriculum for adventure and heroism themes"
-        local_themes: ["Medieval French romance connections", "Structuralist analytical approaches"]
-
+        cultural_impact: Late arrival (1969) but now 293 academic works on Tolkien in French academia
+        key_editions:
+        - Francis Ledoux 1969
+        - Daniel Lauzon 2012 retranslation
+        reception_notes: Vincent Ferre leads French Tolkien scholarship at Sorbonne
+        educational_status: Integrated in college curriculum for adventure and heroism themes
+        local_themes:
+        - Medieval French romance connections
+        - Structuralist analytical approaches
       es:
-        cultural_impact: "Manuel Figueroa's 1982 translation standard across Hispanic world"
-        key_editions: ["Minotauro 1982", "Multiple Planeta Group editions"]
-        reception_notes: "Laura Gallego and Spanish fantasy authors influenced by Tolkien"
-        educational_status: "Integrated in interdisciplinary projects, used for literary analysis"
-        local_themes: ["Connection to Spanish guardian Father Francis Morgan", "Bildungsroman emphasis"]
-
+        cultural_impact: Manuel Figueroa's 1982 translation standard across Hispanic world
+        key_editions:
+        - Minotauro 1982
+        - Multiple Planeta Group editions
+        reception_notes: Laura Gallego and Spanish fantasy authors influenced by Tolkien
+        educational_status: Integrated in interdisciplinary projects, used for literary analysis
+        local_themes:
+        - Connection to Spanish guardian Father Francis Morgan
+        - Bildungsroman emphasis
       pt:
-        cultural_impact: "Complex translation history with O Gnomo error (1962) corrected in 1985"
-        key_editions: ["Europa-America 1985", "HarperCollins Brasil 2018 with Translation Council"]
-        reception_notes: "Official paradidactic material in Brazilian public schools since 2023"
-        educational_status: "PNLD code 0117L21603 for Brazilian schools"
-        local_themes: ["Urban fantasy development", "Connection to magical realism traditions"]
-
+        cultural_impact: Complex translation history with O Gnomo error (1962) corrected in 1985
+        key_editions:
+        - Europa-America 1985
+        - HarperCollins Brasil 2018 with Translation Council
+        reception_notes: Official paradidactic material in Brazilian public schools since 2023
+        educational_status: PNLD code 0117L21603 for Brazilian schools
+        local_themes:
+        - Urban fantasy development
+        - Connection to magical realism traditions
       ja:
-        cultural_impact: "1965 Iwanami edition introduced Western fantasy to Japan, Topcraft animation team later formed Studio Ghibli"
-        key_editions: ["Iwanami Shoten 1965 by Seta Teiji", "Multiple commemorative editions"]
-        reception_notes: "Connection to anime culture through 1977 Rankin/Bass production"
-        educational_status: "Academic publisher status gives scholarly credibility"
-        local_themes: ["Synthesis with Shinto frameworks", "Samurai terminology adaptations"]
-
+        cultural_impact: 1965 Iwanami edition introduced Western fantasy to Japan, Topcraft animation team later formed Studio
+          Ghibli
+        key_editions:
+        - Iwanami Shoten 1965 by Seta Teiji
+        - Multiple commemorative editions
+        reception_notes: Connection to anime culture through 1977 Rankin/Bass production
+        educational_status: Academic publisher status gives scholarly credibility
+        local_themes:
+        - Synthesis with Shinto frameworks
+        - Samurai terminology adaptations
       ko:
-        cultural_impact: "Strong film reception but limited cultural transformation, no webtoon adaptations"
-        key_editions: ["Arte 1997", "2021 comprehensive revision with 500 new terms"]
-        reception_notes: "Peter Jackson trilogy major box office success in Korea"
-        educational_status: "Not systematically included in Korean education"
-        local_themes: ["Quest narratives parallel Korean Bari mythology", "Individual vs collective heroism contrasts"]
-
+        cultural_impact: Strong film reception but limited cultural transformation, no webtoon adaptations
+        key_editions:
+        - Arte 1997
+        - 2021 comprehensive revision with 500 new terms
+        reception_notes: Peter Jackson trilogy major box office success in Korea
+        educational_status: Not systematically included in Korean education
+        local_themes:
+        - Quest narratives parallel Korean Bari mythology
+        - Individual vs collective heroism contrasts
       hi:
-        cultural_impact: "English editions dominate, no official Hindi translation despite fantasy popularity"
-        key_editions: ["HarperCollins India English editions", "Marathi and Bengali translations exist"]
-        reception_notes: "Amish Tripathi called India's Tolkien shows influence"
-        educational_status: "ICSE curriculum inclusion for Classes 3-8 since 2017-18"
-        local_themes: ["Hero's journey parallels with Ramayana", "Dharmic transformation themes"]
-
+        cultural_impact: English editions dominate, no official Hindi translation despite fantasy popularity
+        key_editions:
+        - HarperCollins India English editions
+        - Marathi and Bengali translations exist
+        reception_notes: Amish Tripathi called India's Tolkien shows influence
+        educational_status: ICSE curriculum inclusion for Classes 3-8 since 2017-18
+        local_themes:
+        - Hero's journey parallels with Ramayana
+        - Dharmic transformation themes
   formats:
-    temporal_context:
-      name: "temporal_context"
-      duration: 13
+    exploratory_dialogue:
+      name: exploratory_dialogue
+      duration: 15
       hosts:
-        host_a: "Classical literature expert explaining 1937 context, conventions, authorial intentions"
-        host_b: "Contemporary reader from 2025 finding modern parallels and current relevance"
+        host_a: Curious explorer discovering the book with fresh eyes
+        host_b: Knowledgeable guide revealing hidden depths and connections
       structure:
-        - segment: 1
-          time_range: "00:00-03:15"
-          topic: "original_era"
-          lead: "host_a"
-          description: "Setting the scene in 1937 - between wars, rise of fascism, Tolkien's academic world"
-        - segment: 2
-          time_range: "03:15-06:30"
-          topic: "evolution"
-          lead: "host_b"
-          description: "How The Hobbit evolved from children's story to fantasy cornerstone"
-        - segment: 3
-          time_range: "06:30-09:45"
-          topic: "modern_parallels"
-          lead: "host_a"
-          description: "Dragon sickness as capitalism critique, surveillance themes in the Ring"
-        - segment: 4
-          time_range: "09:45-13:00"
-          topic: "timelessness"
-          lead: "host_b"
-          description: "Why Gen Z embraces hobbit core - mental health, sustainable living, digital detox"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: first_impressions
+        lead: host_a
+        description: Initial reactions and surprising discoveries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: hidden_layers
+        lead: host_b
+        description: Revealing deeper meanings and easter eggs
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: world_building
+        lead: host_a
+        description: Exploring the created world and its rules
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: connections
+        lead: host_b
+        description: Links to other works and cultural references
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: wonder_moments
+        lead: host_a
+        description: Celebrating moments of beauty and surprise
       prompts:
-        host_a: "You are {male_name}, a classical literature expert. Explain 'The Hobbit' in its original 1937 context - Tolkien's philological background, inter-war period, European mythology. Focus on controversies around racial descriptions and Nazi publisher demands."
-        host_b: "You are {female_name} from 2025. Find modern parallels in 'The Hobbit' - surveillance technology in the Ring, dragon sickness as wealth inequality, hobbit lifestyle as sustainable living. Connect to TikTok's hobbit core trend."
-
+        host_a: You are {male_name}, discovering 'The Hobbit' with curiosity and wonder. Ask questions, express surprise,
+          share excitement.
+        host_b: You are {female_name}, guiding the exploration. Reveal hidden depths while maintaining sense of discovery.
   metadata:
-    target_audience: "14+"
-    content_warnings: ["Discussion of racial stereotypes in fantasy", "Violence in battle scenes"]
-    educational_elements: [
-      "Fantasy genre characteristics",
-      "Hero's journey archetype analysis",
-      "Historical context of 1937",
-      "Literary innovation and world-building"
-    ]
+    target_audience: 14+
+    content_warnings:
+    - Discussion of racial stereotypes in fantasy
+    - Violence in battle scenes
+    educational_elements:
+    - Fantasy genre characteristics
+    - Hero's journey archetype analysis
+    - Historical context of 1937
+    - Literary innovation and world-building
     production_notes:
-      intro_style: "Gentle acoustic guitar with nature sounds, transitioning to orchestral fantasy theme"
-      transitions: "Subtle musical bridges with leitmotifs for each era"
-      outro_style: "Return to acoustic simplicity, suggesting the circular journey home"
-
+      intro_style: Gentle acoustic guitar with nature sounds, transitioning to orchestral fantasy theme
+      transitions: Subtle musical bridges with leitmotifs for each era
+      outro_style: Return to acoustic simplicity, suggesting the circular journey home
   overall_confidence: 0.88

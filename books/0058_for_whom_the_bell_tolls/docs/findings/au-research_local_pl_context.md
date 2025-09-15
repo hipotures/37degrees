@@ -1,205 +1,205 @@
-# Lokalny kontekst kulturowy: "Komu bije dzwon" w Polsce
+# Local Cultural Context: "For Whom the Bell Tolls" in Poland
 
-## Historia wydań i tłumaczeń
+## Publication History and Translations
 
-### Pierwsze polskie tłumaczenia
-- **Bronisław Zieliński** - standardowy tłumacz przez dekady
-  - Wydanie Czytelnik 1960 (twarda oprawa z obwolutą, 577 stron)
-  - Kolejne wydania Czytelnik: 1973, 1975 (585 stron), 1980, 1987
-  - Wydania Zakładu Narodowego im. Ossolińskich: 1978, 1988, 1992 (576 stron)
+### First Polish Translations
+- **Bronisław Zieliński** - standard translator for decades
+  - Czytelnik edition 1960 (hardcover with dust jacket, 577 pages)
+  - Subsequent Czytelnik editions: 1973, 1975 (585 pages), 1980, 1987
+  - Ossoliński Institute editions: 1978, 1988, 1992 (576 pages)
 
-### Współczesne tłumaczenia
-- **Rafał Lisowski** - nowy przekład z 2024 roku (Marginesy, 656 stron)
-- Lisowski napisał obszerne posłowie o wyzwaniach językowych tej książki
-- Nowe tłumaczenie pozwala na odświeżone spojrzenie na dzieło
+### Contemporary Translations
+- **Rafał Lisowski** - new translation from 2024 (Marginesy, 656 pages)
+- Lisowski wrote extensive afterword about linguistic challenges of this book
+- New translation allows for refreshed perspective on the work
 
-### Różne wydawnictwa przez lata
+### Various Publishers Over the Years
 - Państwowy Instytut Wydawniczy (PIW) - 1975
-- Ministerstwo Obrony Narodowej - 1980
+- Ministry of National Defense - 1980
 - Książka i Wiedza - 1987
-- Wydawnictwo Literackie - 1996 (608 stron)
-- Muza - 2000 (632 stron)
-- Altaya/Deagostini - 2002 (628-630 stron)
+- Wydawnictwo Literackie - 1996 (608 pages)
+- Muza - 2000 (632 pages)
+- Altaya/Deagostini - 2002 (628-630 pages)
 
-## Wyzwania tłumaczeniowe w kontekście polskim
+## Translation Challenges in Polish Context
 
-### Językowe problemy
-- Hemingway używał prostego, ale sugestywnego języka
-- Liczne hiszpańskie i pseudohiszpańskie zwroty
-- Autor nie mówił biegle po hiszpańsku - używał kalkiek językowych
-- Problem wulgaryzmów niedozwolonych przez cenzurę PRL
+### Linguistic Problems
+- Hemingway used simple but suggestive language
+- Numerous Spanish and pseudo-Spanish phrases
+- Author didn't speak Spanish fluently - used linguistic calques
+- Problem with vulgarisms forbidden by PRL censorship
 
-### Kulturowe adaptacje
-- Tłumacze musieli uwzględnić polski kontekst historyczny
-- Konieczność przełożenia specyfiki hiszpańskiej wojny domowej
-- Dostosowanie do polskiego czytelnika bez utraty autentyczności
+### Cultural Adaptations
+- Translators had to consider Polish historical context
+- Need to translate specifics of Spanish Civil War
+- Adaptation for Polish readers without losing authenticity
 
-## Recepcja w polskim systemie edukacyjnym
+## Reception in Polish Educational System
 
-### Status w programie nauczania
-- Księga znajduje się w Narodowym Programie Rozwoju Czytelnictwa
-- Lektura zalecana na wyższych etapach edukacji (szkoły średnie)
-- Dla młodzieży szkół podstawowych zalecana inna lektura Hemingwaya - "Stary człowiek i morze"
+### Status in Curriculum
+- Book included in National Reading Development Program
+- Recommended reading at higher education levels (secondary schools)
+- For elementary school students, other Hemingway work recommended - "The Old Man and the Sea"
 
-### Wartość edukacyjna dla polskich uczniów
-1. **Aspekt historyczny**: Wojna domowa w Hiszpanii jako lekcja historii
-2. **Wartości pacyfistyczne**: Studium okrucieństw wojny
-3. **Psychologia postaci**: Analiza człowieka w ekstremalnych warunkach
-4. **Kontekst moralny**: Dyskusje o etyce, bohaterstwie i człowieczeństwie
+### Educational Value for Polish Students
+1. **Historical aspect**: Spanish Civil War as history lesson
+2. **Pacifist values**: Study of war's cruelties
+3. **Character psychology**: Analysis of humans in extreme conditions
+4. **Moral context**: Discussions about ethics, heroism, and humanity
 
-## Adaptacje teatralne w Polsce
+## Theater Adaptations in Poland
 
-### Historyczne premiery
-- **29 września 1958**: Pierwsza adaptacja radiowa (reż. Krystyna Berwińska, Teatr Polskiego Radia)
-- **6 czerwca 1964**: Premiera teatralna w Teatrze Wybrzeże, Gdańsk
-  - Reżyseria: Jerzy Goliński
-  - Scenariusz: Róża Ostrowska i Jerzy Goliński
-  - Tłumaczenie: Bronisław Zieliński
-  - Scenografia: Jadwiga Pożakowska
-  - Muzyka: **Krzysztof Penderecki**
+### Historical Premieres
+- **September 29, 1958**: First radio adaptation (dir. Krystyna Berwińska, Polish Radio Theater)
+- **June 6, 1964**: Theater premiere at Wybrzeże Theater, Gdańsk
+  - Director: Jerzy Goliński
+  - Script: Róża Ostrowska and Jerzy Goliński
+  - Translation: Bronisław Zieliński
+  - Set design: Jadwiga Pożakowska
+  - Music: **Krzysztof Penderecki**
 
-### Znaczące inscenizacje
-- **8 listopada 1965**: Estrada w Krakowie (reż. Danuta Michałowska)
-- **25 listopada 1965**: Teatr Ziemi Mazowieckiej w Warszawie
-- **19 kwietnia 1970**: Teatr Rozmaitości, Kraków
-- **15 grudnia 1972**: Teatr Studio, Warszawa
-- **9 lutego 1975**: Teatr im. Juliusza Osterwy w Lublinie (reż. Lidia Zamkow)
-- **15 stycznia 1987**: Teatr Zagłębia, Sosnowiec (reż. Janusz Ostrowski)
+### Significant Productions
+- **November 8, 1965**: Estrada in Kraków (dir. Danuta Michałowska)
+- **November 25, 1965**: Mazovian Land Theater in Warsaw
+- **April 19, 1970**: Rozmaitości Theater, Kraków
+- **December 15, 1972**: Studio Theater, Warsaw
+- **February 9, 1975**: Juliusz Osterwa Theater in Lublin (dir. Lidia Zamkow)
+- **January 15, 1987**: Zagłębie Theater, Sosnowiec (dir. Janusz Ostrowski)
 
-### Radiowy serial
-- **21 grudnia 1983 - 1 lutego 1984**: 18-odcinkowy serial radiowy
-  - Reżyseria: Henryk Rozen
-  - Adaptacja: Ryszarda Dworczyńska
-  - Muzyka: Marian Szałkowski
+### Radio Serial
+- **December 21, 1983 - February 1, 1984**: 18-episode radio serial
+  - Director: Henryk Rozen
+  - Adaptation: Ryszarda Dworczyńska
+  - Music: Marian Szałkowski
 
-### Adaptacja telewizyjna
-- **19 sierpnia 1992**: Fragmenty w Teatrze Telewizji (reż. Halina Kwiatkowska)
+### Television Adaptation
+- **August 19, 1992**: Fragments in Television Theater (dir. Halina Kwiatkowska)
 
-## Polski kontekst historyczny - Generał "Walter"
+## Polish Historical Context - General "Walter"
 
-### Karol Świerczewski w powieści
-- Postać Generała Golza w powieści oparta na **Generale Karolu Świerczewskim**
-- Świerczewski działał w Hiszpanii pod pseudonimem "Walter"
-- Hemingway spotkał go osobiście jako korespondent wojenny
-- Polski generał dowodził Brygadami Międzynarodowymi (1936-1938)
+### Karol Świerczewski in the Novel
+- Character of General Golz in novel based on **General Karol Świerczewski**
+- Świerczewski operated in Spain under pseudonym "Walter"
+- Hemingway met him personally as war correspondent
+- Polish general commanded International Brigades (1936-1938)
 
-### Opis w powieści
-- Hemingway opisuje "Waltera" jako surowego, zdolnego dowódcę
-- "Dziwna, blada twarz, która nigdy nie brązowiała, jastrzębie oczy, duży nos, wąskie wargi i ogolona głowa"
-- Pozytywny portret: "Dobry generał. Najlepszy, pod którym służyłeś"
+### Description in Novel
+- Hemingway describes "Walter" as stern, capable commander
+- "Strange, pale face that never tanned, hawk eyes, large nose, thin lips and shaved head"
+- Positive portrait: "Good general. The best you served under"
 
-### Znaczenie dla polskich czytelników
-- Polacy mogą rozpoznać swojego bohatera w literaturze światowej
-- Połączenie polskiej historii z hiszpańską wojną domową
-- Świerczewski jako łącznik między polskim a międzynarodowym kontekstem
+### Significance for Polish Readers
+- Poles can recognize their hero in world literature
+- Connection between Polish history and Spanish Civil War
+- Świerczewski as link between Polish and international context
 
-## Krytyka i badania literackie w Polsce
+## Criticism and Literary Research in Poland
 
-### Współczesna recepcja
-- Polski przekład pozwala na "100-procentowe doświadczenie Hemingwaya"
-- Krytyka feministyczna analizuje wizję męskości u autora
-- Ocena anachroniczności niektórych postaw wobec kobiet
+### Contemporary Reception
+- Polish translation allows for "100% Hemingway experience"
+- Feminist criticism analyzes author's vision of masculinity
+- Assessment of anachronistic attitudes toward women
 
-### Interpretacje polskich badaczy
-- Powieść jako studium psychologiczne świadka okrucieństw wojny
-- Analiza egzystencjalizmu w kontekście polskich doświadczeń wojennych
-- Badanie męskości i traumy wojennej
+### Interpretations by Polish Scholars
+- Novel as psychological study of witness to war's cruelties
+- Analysis of existentialism in context of Polish war experiences
+- Study of masculinity and war trauma
 
-### Akademickie podejście
-- Uniwersytety analizują dzieło w kontekście literatury światowej
-- Porównania z polską literaturą wojenną
-- Studia nad techniką literacką Hemingwaya
+### Academic Approach
+- Universities analyze work in context of world literature
+- Comparisons with Polish war literature
+- Studies on Hemingway's literary technique
 
-## Kultura popularna i nawiązania
+## Popular Culture and References
 
-### Zespół Kult - "Komu bije dzwon" (1998)
-- Piosenka z albumu "Ostateczny krach systemu korporacji"
-- Numer 1 na listach Polskiego Radia 3
-- 38 tygodni w Top 20
-- Nawiązanie do tytułu powieści Hemingwaya
-- Wprowadzenie tematu do polskiej kultury popularnej
+### Kult Band - "Komu bije dzwon" (1998)
+- Song from album "Ultimate Crash of the Corporation System"
+- Number 1 on Polish Radio 3 charts
+- 38 weeks in Top 20
+- Reference to Hemingway's novel title
+- Introduction of theme to Polish popular culture
 
-### Memy i internet
-- Gry słowne z frazą "bije dzwon" w polskich memach
-- "Zygmunta bije dzwon" - popularny mem na Jeja.pl
-- Frazeologizmy wykorzystujące tytuł powieści
+### Memes and Internet
+- Word plays with phrase "bije dzwon" in Polish memes
+- "Zygmunta bije dzwon" - popular meme on Jeja.pl
+- Phraseology using novel's title
 
-## Film w polskim kontekście
+## Film in Polish Context
 
-### Recepcja filmu z 1943 roku
-- Film z Gary Cooperem i Ingrid Bergman znany polskim widzom
-- Dystrybucja w Polsce pod tytułem "Komu bije dzwon"
-- Dostępność na polskich platformach filmowych
-- Recenzje polskich krytyków filmowych
+### Reception of 1943 Film
+- Film with Gary Cooper and Ingrid Bergman known to Polish audiences
+- Distribution in Poland under title "Komu bije dzwon"
+- Availability on Polish film platforms
+- Reviews by Polish film critics
 
-### Znaczenie kulturowe
-- 9 nominacji do Oscara (1 wygrana)
-- Wpływ na polską percepcję hiszpańskiej wojny domowej
-- Gary Cooper jako ikona męskiego bohatera
+### Cultural Significance
+- 9 Oscar nominations (1 win)
+- Influence on Polish perception of Spanish Civil War
+- Gary Cooper as icon of male hero
 
-## Współczesne znaczenie dla młodego pokolenia
+## Contemporary Significance for Young Generation
 
-### Gen Z i TikTok
-- Ograniczone bezpośrednie nawiązania w mediach społecznościowych
-- Książka pozostaje "klasyczną lekturą" bez viralowych trendów
-- Potrzeba nowych interpretacji dla współczesnej młodzieży
+### Gen Z and TikTok
+- Limited direct references in social media
+- Book remains "classical reading" without viral trends
+- Need for new interpretations for contemporary youth
 
-### Wyzwania edukacyjne
-- Jak przybliżyć młodym historię hiszpańskiej wojny domowej
-- Relevantność tematów wojny i męskości dla współczesnych
-- Potencjał wykorzystania w edukacji o prawach człowieka
+### Educational Challenges
+- How to introduce young people to Spanish Civil War history
+- Relevance of war and masculinity themes for contemporary audiences
+- Potential use in human rights education
 
-## Regionalne połączenia (Małopolska/Kraków)
+## Regional Connections (Lesser Poland/Kraków)
 
-### Krakowskie inscenizacje
-- Estrada w Krakowie (1965) - Danuta Michałowska
-- Teatr Rozmaitości (1970)
-- Krakowskie środowisko teatralne a Hemingway
+### Kraków Productions
+- Estrada in Kraków (1965) - Danuta Michałowska
+- Rozmaitości Theater (1970)
+- Kraków theater environment and Hemingway
 
-### Akademicki Kraków
-- Uniwersytet Jagielloński - badania nad literaturą amerykańską
-- Hemingway w programach amerykanistyki
-- Konferencje naukowe o literaturze wojennej
+### Academic Kraków
+- Jagiellonian University - research on American literature
+- Hemingway in American studies programs
+- Academic conferences on war literature
 
-## Lokalne ciekawostki i easter eggi
+## Local Curiosities and Easter Eggs
 
-### Dla polskich czytelników
-1. **Generał Świerczewski** - rozpoznanie polskiego generała w powieści
-2. **Krzysztof Penderecki** - muzyka do pierwszej adaptacji teatralnej
-3. **Zespół Kult** - piosenka wprowadzająca tytuł do popkultury
-4. **Cenzura PRL** - problemy z przekładem wulgaryzmów
-5. **Radiowy serial** - 18-odcinkowa adaptacja z lat 80.
+### For Polish Readers
+1. **General Świerczewski** - recognition of Polish general in novel
+2. **Krzysztof Penderecki** - music for first theater adaptation
+3. **Kult Band** - song introducing title to pop culture
+4. **PRL Censorship** - problems with translating vulgarisms
+5. **Radio Serial** - 18-episode adaptation from 1980s
 
-### Polskie nawiązania literackie
-- Porównania z "Ogniem i mieczem" Sienkiewicza (walka partyzancka)
-- Analogie do literatury Żeromskiego (tematyka społeczna)
-- Kontekst polskiej literatury wojennej (Borowski, Różewicz)
+### Polish Literary References
+- Comparisons with Sienkiewicz's "With Fire and Sword" (guerrilla warfare)
+- Analogies to Żeromski's literature (social themes)
+- Context of Polish war literature (Borowski, Różewicz)
 
-## Różnice kulturowe w interpretacji
+## Cultural Differences in Interpretation
 
-### Polski vs. amerykański odbiór
-- **Polska perspektywa**: Wojna jako traumatyczne doświadczenie narodowe
-- **Doświadczenie historyczne**: Polacy lepiej rozumieją walkę partyzancką
-- **Kontekst religijny**: Katolicki background vs. protestancki
-- **Męskość**: Różne wzorce heroizmu w kulturze polskiej i amerykańskiej
+### Polish vs. American Reception
+- **Polish perspective**: War as traumatic national experience
+- **Historical experience**: Poles better understand guerrilla warfare
+- **Religious context**: Catholic background vs. Protestant
+- **Masculinity**: Different heroism patterns in Polish and American culture
 
-### Specyfika tłumaczenia
-- Adaptacja hiszpańskich zwrotów do polskiego kontekstu
-- Problemy z przekładem specyfiki kulturowej Hiszpanii
-- Zachowanie autentyczności przy dostosowaniu do polskiego czytelnika
+### Translation Specifics
+- Adaptation of Spanish phrases to Polish context
+- Problems translating Spanish cultural specifics
+- Maintaining authenticity while adapting for Polish readers
 
-## Wpływ na polską literaturę
+## Influence on Polish Literature
 
-### Inspiracje dla polskich pisarzy
-- Technika "góry lodowej" w polskiej prozie
-- Wpływ na literaturę wojenną lat 60. i 70.
-- Stylistyka dialogów w polskiej prozie współczesnej
+### Inspirations for Polish Writers
+- "Iceberg technique" in Polish prose
+- Influence on war literature of 1960s and 1970s
+- Dialogue stylistics in contemporary Polish prose
 
-### Miejsce w kanonie
-- Pozycja w polskim kanonie literatury światowej
-- Wpływ na kształtowanie gustu literackiego
-- Rola w edukacji czytelniczej Polaków
+### Place in Canon
+- Position in Polish canon of world literature
+- Influence on shaping literary taste
+- Role in Polish readers' literary education
 
 ---
 
-*Badanie przeprowadzone w sierpniu 2025 roku na potrzeby projektu 37 stopni - popularyzacja klasyki literackiej wśród polskiej młodzieży.*
+*Research conducted in August 2025 for the 37 Degrees project - promoting literary classics among Polish youth.*

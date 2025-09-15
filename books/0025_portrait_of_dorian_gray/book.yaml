@@ -1,15 +1,13 @@
 book_info:
-  title: "The Picture of Dorian Gray"
-  title_pl: "Portret Doriana Graya"
-  author: "Oscar Wilde"
+  title: The Picture of Dorian Gray
+  title_pl: Portret Doriana Graya
+  author: Oscar Wilde
   year: 1890
-  genre: "Philosophical novel,Gothic"
-  reading_time: "8-10 hours"
-
+  genre: Philosophical novel,Gothic
+  reading_time: 8-10 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-14T14:45:00"
-
+  version: '3.0'
+  processed_at: '2025-09-14T14:45:00'
   scores:
     controversy: 10
     philosophical_depth: 9
@@ -21,170 +19,203 @@ afa_analysis:
     social_roles: 9
     total: 69
     percentile: 95
-
   composite_scores:
     depth:
       value: 8.2
-      category: "high"
+      category: high
     heat:
       value: 9.0
-      category: "high"
-
+      category: high
   themes:
     universal:
-      - id: "legal_persecution"
-        type: "FACT"
-        credibility: 0.95
-        content: "Wilde's imprisonment for homosexuality - book used as criminal evidence in 1895 trial"
-        source: "dark_drama"
-      - id: "prophetic_social_media"
-        type: "ANALYSIS"
-        credibility: 0.90
-        content: "Portrait concept predicts Instagram/TikTok curated identity crisis and narcissism culture"
-        source: "reality_wisdom"
-      - id: "narcissistic_psychology"
-        type: "FACT"
-        credibility: 0.95
-        content: "Dorian Gray Syndrome recognized as psychological condition describing youth/beauty obsession"
-        source: "youth_digital"
-      - id: "victorian_hypocrisy"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Public morality versus private corruption as central social critique"
-        source: "symbols_meanings"
-      - id: "aesthetic_philosophy"
-        type: "FACT"
-        credibility: 0.95
-        content: "Founding text of 'art for art's sake' movement and aesthetic philosophy"
-        source: "writing_innovation"
-      - id: "literary_innovation"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Pioneered anti-Bildungsroman and psychological modernism techniques"
-        source: "writing_innovation"
-      - id: "cultural_saturation"
-        type: "FACT"
-        credibility: 0.95
-        content: "Over 100 adaptations documented across film, theater, opera, and digital media"
-        source: "culture_impact"
-      - id: "lgbtq_foundation"
-        type: "ANALYSIS"
-        credibility: 0.90
-        content: "Foundational text for queer literary criticism and coded identity narratives"
-        source: "local_contexts"
-
+    - id: legal_persecution
+      type: FACT
+      credibility: 0.95
+      content: Wilde's imprisonment for homosexuality - book used as criminal evidence in 1895 trial
+      source: dark_drama
+    - id: prophetic_social_media
+      type: ANALYSIS
+      credibility: 0.9
+      content: Portrait concept predicts Instagram/TikTok curated identity crisis and narcissism culture
+      source: reality_wisdom
+    - id: narcissistic_psychology
+      type: FACT
+      credibility: 0.95
+      content: Dorian Gray Syndrome recognized as psychological condition describing youth/beauty obsession
+      source: youth_digital
+    - id: victorian_hypocrisy
+      type: ANALYSIS
+      credibility: 0.85
+      content: Public morality versus private corruption as central social critique
+      source: symbols_meanings
+    - id: aesthetic_philosophy
+      type: FACT
+      credibility: 0.95
+      content: Founding text of 'art for art's sake' movement and aesthetic philosophy
+      source: writing_innovation
+    - id: literary_innovation
+      type: ANALYSIS
+      credibility: 0.85
+      content: Pioneered anti-Bildungsroman and psychological modernism techniques
+      source: writing_innovation
+    - id: cultural_saturation
+      type: FACT
+      credibility: 0.95
+      content: Over 100 adaptations documented across film, theater, opera, and digital media
+      source: culture_impact
+    - id: lgbtq_foundation
+      type: ANALYSIS
+      credibility: 0.9
+      content: Foundational text for queer literary criticism and coded identity narratives
+      source: local_contexts
     localized:
       en:
-        cultural_impact: "Foundational text in queer studies and academic literary canon"
-        key_editions: ["Harvard uncensored edition", "Norton critical editions"]
-        reception_notes: "Transformation from scandal to literary masterpiece"
-        educational_status: "Standard Victorian literature curriculum"
-        local_themes: ["Colonial discourse analysis", "Gender studies readings"]
-
+        cultural_impact: Foundational text in queer studies and academic literary canon
+        key_editions:
+        - Harvard uncensored edition
+        - Norton critical editions
+        reception_notes: Transformation from scandal to literary masterpiece
+        educational_status: Standard Victorian literature curriculum
+        local_themes:
+        - Colonial discourse analysis
+        - Gender studies readings
       pl:
-        cultural_impact: "Maria Feldmanowa's 1905 translation celebrated as artistic masterpiece"
-        key_editions: ["Replika 2025 edition", "Wolne Lektury free access"]
-        reception_notes: "Mandatory school reading representing English modernism"
-        educational_status: "Only English modernist work in Polish curriculum"
-        local_themes: ["Modernist vs patriotic literature tension", "Aesthetic vs moral education"]
-
+        cultural_impact: Maria Feldmanowa's 1905 translation celebrated as artistic masterpiece
+        key_editions:
+        - Replika 2025 edition
+        - Wolne Lektury free access
+        reception_notes: Mandatory school reading representing English modernism
+        educational_status: Only English modernist work in Polish curriculum
+        local_themes:
+        - Modernist vs patriotic literature tension
+        - Aesthetic vs moral education
       de:
-        cultural_impact: "Strong connections to Frankfurt School critical theory"
-        key_editions: ["Reclam educational series", "Suhrkamp modern translations"]
-        reception_notes: "Deep philosophical academic tradition and analysis"
-        educational_status: "Gymnasium theater productions with Faust connections"
-        local_themes: ["Aesthetic philosophy vs morality debate", "Critical theory applications"]
-
+        cultural_impact: Strong connections to Frankfurt School critical theory
+        key_editions:
+        - Reclam educational series
+        - Suhrkamp modern translations
+        reception_notes: Deep philosophical academic tradition and analysis
+        educational_status: Gymnasium theater productions with Faust connections
+        local_themes:
+        - Aesthetic philosophy vs morality debate
+        - Critical theory applications
       fr:
-        cultural_impact: "Central to decadent movement and symbolist poetry connections"
-        key_editions: ["Gallimard Pléiade complete works", "2023 restored translation"]
-        reception_notes: "André Gide connection and Avignon Festival appearances"
-        educational_status: "Recommended quatrième curriculum reading"
-        local_themes: ["French decadentism influence", "Platonic philosophy connections"]
-
+        cultural_impact: Central to decadent movement and symbolist poetry connections
+        key_editions:
+        - Gallimard Pléiade complete works
+        - 2023 restored translation
+        reception_notes: André Gide connection and Avignon Festival appearances
+        educational_status: Recommended quatrième curriculum reading
+        local_themes:
+        - French decadentism influence
+        - Platonic philosophy connections
       es:
-        cultural_impact: "Significant influence on Spanish modernism and Valle-Inclán"
-        key_editions: ["Alfaguara illustrated classics", "Planeta DeAgostini series"]
-        reception_notes: "Three-phase reception history from 1902-1928"
-        educational_status: "Secondary education narrative analysis standard"
-        local_themes: ["Spanish modernist literary renovation", "Anti-realist aesthetics"]
-
+        cultural_impact: Significant influence on Spanish modernism and Valle-Inclán
+        key_editions:
+        - Alfaguara illustrated classics
+        - Planeta DeAgostini series
+        reception_notes: Three-phase reception history from 1902-1928
+        educational_status: Secondary education narrative analysis standard
+        local_themes:
+        - Spanish modernist literary renovation
+        - Anti-realist aesthetics
       pt:
-        cultural_impact: "João do Rio as 'Brazilian Wilde' cultural ambassador"
-        key_editions: ["Companhia das Letras Penguin", "Graphic novel adaptation"]
-        reception_notes: "Clarice Lispector adaptation for young readers"
-        educational_status: "University reading clubs and comparative literature"
-        local_themes: ["Brazilian decadentism development", "Artistic philosophy influence"]
-
+        cultural_impact: João do Rio as 'Brazilian Wilde' cultural ambassador
+        key_editions:
+        - Companhia das Letras Penguin
+        - Graphic novel adaptation
+        reception_notes: Clarice Lispector adaptation for young readers
+        educational_status: University reading clubs and comparative literature
+        local_themes:
+        - Brazilian decadentism development
+        - Artistic philosophy influence
       ja:
-        cultural_impact: "Profound influence on Mishima Yukio and aesthetic literature tradition"
-        key_editions: ["Iwanami Bunko prestigious series", "Multiple modern translations"]
-        reception_notes: "Takarazuka Revue all-female musical theater adaptation"
-        educational_status: "Elite comparative literature education at Gakushuin"
-        local_themes: ["Visual kei movement influence", "Tanbi aesthetic tradition"]
-
+        cultural_impact: Profound influence on Mishima Yukio and aesthetic literature tradition
+        key_editions:
+        - Iwanami Bunko prestigious series
+        - Multiple modern translations
+        reception_notes: Takarazuka Revue all-female musical theater adaptation
+        educational_status: Elite comparative literature education at Gakushuin
+        local_themes:
+        - Visual kei movement influence
+        - Tanbi aesthetic tradition
       ko:
-        cultural_impact: "BTS Wings album reinterpretation for global K-pop audience"
-        key_editions: ["Minumsa 2022 scholarly edition using 1890 original"]
-        reception_notes: "CJeS Culture musical starring Kim Junsu"
-        educational_status: "Korea University recommended classics reading"
-        local_themes: ["Beauty industry pressure commentary", "Underdog experience transformation"]
-
+        cultural_impact: BTS Wings album reinterpretation for global K-pop audience
+        key_editions:
+        - Minumsa 2022 scholarly edition using 1890 original
+        reception_notes: CJeS Culture musical starring Kim Junsu
+        educational_status: Korea University recommended classics reading
+        local_themes:
+        - Beauty industry pressure commentary
+        - Underdog experience transformation
       hi:
-        cultural_impact: "Integration with Indian philosophical traditions potential"
-        key_editions: ["Webster's Hindi thesaurus edition", "Regional language translations"]
-        reception_notes: "MA English university curriculum standard text"
-        educational_status: "Delhi University and JNU British literature coverage"
-        local_themes: ["Karma and spiritual degradation parallels", "Art for art's sake vs Indian aesthetics"]
-
+        cultural_impact: Integration with Indian philosophical traditions potential
+        key_editions:
+        - Webster's Hindi thesaurus edition
+        - Regional language translations
+        reception_notes: MA English university curriculum standard text
+        educational_status: Delhi University and JNU British literature coverage
+        local_themes:
+        - Karma and spiritual degradation parallels
+        - Art for art's sake vs Indian aesthetics
   formats:
-    social_perspective:
-      name: "social_perspective"
-      duration: 14
+    critical_debate:
+      name: critical_debate
+      duration: 18
       hosts:
-        host_a: "social historian analyzing context"
-        host_b: "contemporary critic examining power dynamics"
+        host_a: Literary critic defending traditional interpretation and artistic merit
+        host_b: Contemporary critic challenging with modern perspectives and critiques
       structure:
-        - segment: 1
-          time_range: "00:00-03:30"
-          topic: "historical_context"
-          lead: "host_a"
-          description: "Victorian legal persecution and social hypocrisy surrounding Wilde's imprisonment"
-        - segment: 2
-          time_range: "03:30-07:00"
-          topic: "power_dynamics"
-          lead: "host_b"
-          description: "Class privilege enabling corruption, gender roles, and coded homosexual identity"
-        - segment: 3
-          time_range: "07:00-10:30"
-          topic: "contemporary_relevance"
-          lead: "host_a"
-          description: "Social media narcissism, beauty industry pressure, and digital identity performance"
-        - segment: 4
-          time_range: "10:30-14:00"
-          topic: "future_implications"
-          lead: "host_b"
-          description: "Mental health awareness, LGBTQ+ rights evolution, and authenticity in digital age"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: opening_positions
+        lead: host_a
+        description: Traditional interpretation and canonical value
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: counter_argument
+        lead: host_b
+        description: Contemporary challenges and problematic aspects
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: evidence_exchange
+        lead: host_a
+        description: Textual evidence supporting both positions
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: critical_frameworks
+        lead: host_b
+        description: Different critical lenses and interpretations
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: synthesis_debate
+        lead: host_a
+        description: Finding common ground while maintaining differences
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: audience_implications
+        lead: host_b
+        description: What different readings mean for modern audiences
       prompts:
-        host_a: "You are {male_name}, a social historian. Analyze 'The Picture of Dorian Gray' through lens of power, gender, class. Historical context: 1890 Victorian criminalization of homosexuality."
-        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates about social media narcissism, beauty standards, and authentic identity performance."
-
+        host_a: You are {male_name}, defending 'The Picture of Dorian Gray' traditional interpretation. Argue for canonical
+          value while acknowledging some critiques.
+        host_b: You are {female_name}, challenging with contemporary perspectives. Question problematic elements while respecting
+          literary merit.
   metadata:
-    target_audience: "16+"
+    target_audience: 16+
     content_warnings:
-      - "discussion of historical legal persecution of LGBTQ+ individuals"
-      - "themes of psychological manipulation and toxic relationships"
-      - "references to substance use and self-destructive behavior"
-      - "complex moral and philosophical themes"
+    - discussion of historical legal persecution of LGBTQ+ individuals
+    - themes of psychological manipulation and toxic relationships
+    - references to substance use and self-destructive behavior
+    - complex moral and philosophical themes
     educational_elements:
-      - "Victorian Gothic genre characteristics and literary innovations"
-      - "Historical context of 1890s British legal and social systems"
-      - "Psychology of narcissism and Dorian Gray Syndrome"
-      - "LGBTQ+ literary history and coded narratives"
-      - "Social media psychology and digital identity formation"
+    - Victorian Gothic genre characteristics and literary innovations
+    - Historical context of 1890s British legal and social systems
+    - Psychology of narcissism and Dorian Gray Syndrome
+    - LGBTQ+ literary history and coded narratives
+    - Social media psychology and digital identity formation
     production_notes:
-      intro_style: "atmospheric Victorian setting with contemporary relevance hook"
-      transitions: "subtle musical bridges with period and modern elements"
-      outro_style: "thought-provoking connection to current digital culture challenges"
-
+      intro_style: atmospheric Victorian setting with contemporary relevance hook
+      transitions: subtle musical bridges with period and modern elements
+      outro_style: thought-provoking connection to current digital culture challenges
   overall_confidence: 0.93

@@ -1,0 +1,190 @@
+book_info:
+  title: "The Doll"
+  title_pl: "Lalka"
+  author: "Bolesław Prus"
+  year: 1890
+  genre: "Novel,Realism"
+  reading_time: "20-25 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T12:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 9
+    total: 66
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "First Polish novel to use dual narration system - objective third-person alternating with subjective diary"
+        source: "writing_innovation"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 25 film and TV adaptations, Warsaw literary walks follow Wokulski's footsteps"
+        source: "culture_impact"
+      - id: "philosophy_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Theatrum mundi concept with mechanical toys as metaphor for human fate and lack of free will"
+        source: "symbols_meanings"
+      - id: "controversy_3"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Multiple suicide attempts including Wokulski lying on railway tracks, Dr. Szuman's chloroform attempt"
+        source: "dark_drama"
+      - id: "relevance_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted modern social climbing, toxic relationships patterns, and materialistic society 130 years ahead"
+        source: "reality_wisdom"
+      - id: "social_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Wokulski's red hands as permanent class marker - aristocracy rejects him despite wealth"
+        source: "facts_history"
+      - id: "youth_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z identifies Wokulski as 'simp' archetype, toxic masculinity, and villain era prototype"
+        source: "youth_digital"
+      - id: "content_7"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Historical antisemitic elements and class warfare require careful contextual framing"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Recognized as masterpiece of European realism comparable to Dickens and Balzac"
+        key_editions: ["New York Review Books Classics", "David Welsh translation", "Northwestern University Press"]
+        reception_notes: "Praised for anticipating modernist techniques and psychological depth"
+        educational_status: "Studied in comparative literature and Slavic studies programs"
+        local_themes: ["European realism tradition", "Psychological novel development"]
+
+      pl:
+        cultural_impact: "National literary treasure, mandatory school reading, defines Polish literary canon"
+        key_editions: ["Biblioteka Narodowa edition", "Gebethner i Wolff original", "Wolne Lektury digital"]
+        reception_notes: "Strongest BookTube presence among Polish classics, #1 on Goodreads Poland"
+        educational_status: "Obligatory matura reading, extensively analyzed in schools"
+        local_themes: ["Post-uprising trauma", "National identity under partition", "Warsaw as character"]
+
+      de:
+        cultural_impact: "Influenced German naturalist movement, compared to Fontane's social novels"
+        key_editions: ["Reclam Universal-Bibliothek", "Suhrkamp edition"]
+        reception_notes: "Appreciated for psychological realism and social critique"
+        educational_status: "Part of Slavic literature courses in universities"
+        local_themes: ["Bildungsroman elements", "Social determinism themes"]
+
+      fr:
+        cultural_impact: "Compared to Balzac's Human Comedy for social panorama scope"
+        key_editions: ["Editions Noir sur Blanc", "Les Belles Lettres"]
+        reception_notes: "Analyzed through lens of French realism and naturalism"
+        educational_status: "Studied in comparative literature programs"
+        local_themes: ["Realist tradition parallels", "Social climbing narratives"]
+
+      es:
+        cultural_impact: "Limited translations but recognized in academic circles"
+        key_editions: ["Catedra edition", "Alba Editorial"]
+        reception_notes: "Connected to Spanish realist tradition of Galdos"
+        educational_status: "Included in Eastern European literature courses"
+        local_themes: ["Class struggle themes", "Urban novel development"]
+
+      pt:
+        cultural_impact: "Brazilian translations connect to Machado de Assis themes"
+        key_editions: ["Editora 34", "Portuguese academic editions"]
+        reception_notes: "Appreciated for psychological complexity"
+        educational_status: "Part of world literature curriculum"
+        local_themes: ["Social mobility barriers", "Urban transformation"]
+
+      ja:
+        cultural_impact: "Translated during Meiji era, influenced modern Japanese literature"
+        key_editions: ["Iwanami Bunko", "Shinchosha editions"]
+        reception_notes: "Resonates with themes of modernization and Western influence"
+        educational_status: "Studied in European literature programs"
+        local_themes: ["East meets West conflicts", "Traditional vs modern values"]
+
+      ko:
+        cultural_impact: "Academic interest in post-colonial and social climbing aspects"
+        key_editions: ["Minumsa World Literature", "Seoul National University Press"]
+        reception_notes: "Connected to Korean rapid modernization experiences"
+        educational_status: "Part of world literature studies"
+        local_themes: ["Class rigidity parallels", "Educational advancement barriers"]
+
+      hi:
+        cultural_impact: "Limited but growing academic interest in colonial parallels"
+        key_editions: ["Sahitya Akademi translation", "Academic editions"]
+        reception_notes: "Analyzed for partition trauma and social stratification"
+        educational_status: "Studied in comparative literature departments"
+        local_themes: ["Colonial experience parallels", "Caste and class intersections"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "Local Polish culture specialist examining Warsaw society and national trauma"
+        host_b: "Global literature observer comparing universal themes across cultures"
+      structure:
+        - segment: 1
+          time_range: "00:00-04:00"
+          topic: "local_context"
+          lead: "host_a"
+          description: "Post-uprising Warsaw, class divisions, and Polish identity under partition"
+        - segment: 2
+          time_range: "04:00-08:00"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "Universal themes of social climbing and toxic relationships across cultures"
+        - segment: 3
+          time_range: "08:00-12:00"
+          topic: "translations"
+          lead: "host_a"
+          description: "How 28 language translations adapted Polish cultural specifics"
+        - segment: 4
+          time_range: "12:00-16:00"
+          topic: "legacy"
+          lead: "host_b"
+          description: "Influence on modernist literature and contemporary relevance"
+      prompts:
+        host_a: "You are {male_name}, examining 'The Doll' from Polish cultural perspective. Discuss how the book captures Warsaw society, post-uprising trauma, and Polish identity under Russian partition. Focus on: Wokulski's red hands as class marker and national literary significance."
+        host_b: "You are {female_name}, providing global context for 'The Doll'. Compare its themes of social mobility, toxic relationships, and urban transformation with international literature. Discuss universal patterns and cultural variations."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "suicide attempts and ideation"
+      - "historical antisemitic elements requiring context"
+      - "toxic relationship patterns"
+      - "class discrimination and social ostracism"
+    educational_elements:
+      - "19th century Polish society under partition"
+      - "Realist literature characteristics"
+      - "Dual narration techniques"
+      - "Romanticism vs Positivism conflict"
+      - "Urban novel development"
+    production_notes:
+      intro_style: "cultural context opening with Warsaw setting"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective conclusion on cultural legacy"
+
+  overall_confidence: 0.94

@@ -1,0 +1,186 @@
+book_info:
+  title: "The Sorrows of Young Werther"
+  title_pl: "Cierpienia młodego Wertera"
+  author: "Johann Wolfgang von Goethe"
+  year: 1774
+  genre: "Epistolary,Sturm und Drang"
+  reading_time: "4-5 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-14T14:32:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "werther_effect"
+        type: "FACT"
+        credibility: 0.95
+        content: "First documented epidemic of copycat suicides caused by a literary work - created the psychological concept of 'Werther Effect'"
+        source: "dark_drama"
+      - id: "social_media_prediction"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Predicted viral content influence and media contagion effects 250 years before social media existed"
+        source: "reality_wisdom"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created revolutionary epistolary form and pioneered psychological realism in literature"
+        source: "writing_innovation"
+      - id: "romantic_archetype"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Established the archetypal Romantic hero and influenced all subsequent European literature"
+        source: "symbols_meanings"
+      - id: "cultural_merchandise"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created first literary merchandising phenomenon with Werther fashion, perfumes, and branded products"
+        source: "culture_impact"
+      - id: "toxic_masculinity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Early example of toxic masculinity analysis - stalking, emotional manipulation, inability to accept rejection"
+        source: "reality_wisdom"
+      - id: "mental_health_discourse"
+        type: "BOMBSHELL"
+        credibility: 0.9
+        content: "Continues to define modern mental health and suicide prevention discussions globally"
+        source: "youth_digital"
+      - id: "cross_cultural_impact"
+        type: "FACT"
+        credibility: 0.9
+        content: "Influenced major business decisions (Lotte Group naming) and shaped cultural movements across continents"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for English Romanticism, influenced Byron's Byronic hero concept and established Gothic literature traditions"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Norton Critical Edition"]
+        reception_notes: "Academic canonization in Cambridge/Oxford curricula, psychiatric journal analysis of Werther Effect"
+        educational_status: "Core text in comparative literature programs"
+        local_themes: ["Colonial discourse parallels", "Gender studies readings", "Mental health awareness"]
+
+      pl:
+        cultural_impact: "Connected German Sturm und Drang with Polish Romanticism through Mickiewicz's personal relationship with Goethe"
+        key_editions: ["Wolne Lektury digital", "PIW editions", "Wydawnictwo Greg school editions"]
+        reception_notes: "Strong academic tradition with opera productions at Teatr Wielki, TikTok youth engagement"
+        educational_status: "Supplementary reading for matura exam preparation"
+        local_themes: ["Post-communist readings", "National identity connections", "European cultural bridge"]
+
+      de:
+        cultural_impact: "Foundational German literary work, sparked Sturm und Drang movement, influenced entire German Romantic tradition"
+        key_editions: ["Suhrkamp critical editions", "Reclam study guides", "Frankfurt School analysis"]
+        reception_notes: "Core curriculum in Gymnasium education, ongoing academic research tradition"
+        educational_status: "Mandatory reading for Abitur preparation"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Cultural memory"]
+
+      fr:
+        cultural_impact: "Influenced French Romanticism through Chateaubriand's René and established mal du siècle concept"
+        key_editions: ["Gallimard Pléiade", "Pierre Leroux translation tradition"]
+        reception_notes: "Massenet's opera remains repertoire staple, theoretical analysis in French academia"
+        educational_status: "Studied in Germanic studies and comparative literature"
+        local_themes: ["Structuralist interpretations", "Cultural transfer studies", "Literary influence analysis"]
+
+      es:
+        cultural_impact: "First German work to achieve bestseller status in Spanish-speaking world, influenced Hispanic Romanticism"
+        key_editions: ["José Mor de Fuentes translation", "Alba Editorial", "Fondo de Cultura Económica"]
+        reception_notes: "Pilar Miró's 1986 film adaptation, regular theater productions"
+        educational_status: "Literatura Universal bachillerato curriculum"
+        local_themes: ["Hispanic Romanticism influence", "Translation studies", "Cultural adaptation"]
+
+      pt:
+        cultural_impact: "Integrated into Brazilian educational system, influences discussions of youth mental health and suicide prevention"
+        key_editions: ["Penguin-Companhia Das Letras", "L&PM Pocket editions", "Multiple translator approaches"]
+        reception_notes: "Academic research at UFPR and USP, vestibular examination focus"
+        educational_status: "Essential reading for university entrance exams"
+        local_themes: ["Brazilian Modernism connections", "Mental health awareness", "Educational psychology"]
+
+      ja:
+        cultural_impact: "Influenced Japanese modernist literature and connected with mono no aware aesthetic traditions"
+        key_editions: ["Iwanami Bunko scholarly editions", "Shinchosha popular editions (2.15M copies sold)"]
+        reception_notes: "Lotte Group corporate naming inspiration, ongoing academic research"
+        educational_status: "World literature courses in universities"
+        local_themes: ["Buddhist philosophical parallels", "Aesthetic suffering concepts", "Cultural transformation"]
+
+      ko:
+        cultural_impact: "Major influence on Korean business culture through Lotte Group, extensive sociological research on Werther Effect"
+        key_editions: ["Minumsa World Literature Collection", "Munhakdongne translations", "Academic translations"]
+        reception_notes: "Ongoing research on celebrity suicide copycat effects, translation accuracy debates"
+        educational_status: "Widely read in middle and high schools"
+        local_themes: ["Confucian value conflicts", "Social pressure analysis", "Mental health discourse"]
+
+      hi:
+        cultural_impact: "Cross-cultural literary exchange through Goethe-Institut programs, philosophical dialogue with Indian traditions"
+        key_editions: ["Hindi translation available", "Multi-language Goethe-Institut translations"]
+        reception_notes: "Academic research in comparative literature, cross-civilizational analysis"
+        educational_status: "European literature component in university programs"
+        local_themes: ["Philosophical divergence analysis", "Cultural alienation parallels", "Spiritual alternative perspectives"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing historical context and power dynamics"
+        host_b: "contemporary critic examining modern parallels and social relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "18th century German social hierarchy and the Werther phenomenon's immediate social impact"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Class conflict, gender roles, and toxic masculinity patterns in Werther's behavior"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern parallels - social media influence, mental health awareness, stalking behavior"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "cultural_transformation"
+          lead: "host_b"
+          description: "From Romantic ideal to psychological case study - evolving social interpretations"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "future_implications"
+          lead: "host_a"
+          description: "Werther Effect in digital age and responsibility for cultural influence"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'The Sorrows of Young Werther' through lens of power, gender, class, and social structures. Discuss the 1774 context of German society, examining how Werther's tragedy reflects broader social conflicts of his era. Connect historical patterns to modern social dynamics, focusing on class mobility, aristocratic privilege, and changing gender expectations."
+        host_b: "You are {female_name}, examining contemporary relevance of 'The Sorrows of Young Werther'. Connect the novel's themes to current social debates: toxic masculinity, mental health stigma, social media influence, and modern relationship dynamics. Analyze how Werther's behavior patterns appear in contemporary stalking, emotional manipulation, and inability to accept rejection."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["suicide discussion", "mental health crisis", "stalking behavior", "emotional manipulation"]
+    educational_elements: ["Sturm und Drang movement", "Epistolary novel form", "Werther Effect psychology", "German Romanticism", "Social media influence parallels"]
+    production_notes:
+      intro_style: "Historical context of 1774 social hierarchy with transition to modern parallels"
+      transitions: "Subtle musical bridges between historical and contemporary analysis"
+      outro_style: "Reflection on ongoing relevance and social responsibility for cultural influence"
+
+  overall_confidence: 0.92

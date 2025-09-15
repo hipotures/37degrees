@@ -1,15 +1,13 @@
 book_info:
-  title: "To Kill a Mockingbird"
-  title_pl: "Zabić drozda"
-  author: "Harper Lee"
+  title: To Kill a Mockingbird
+  title_pl: Zabić drozda
+  author: Harper Lee
   year: 1960
-  genre: "Southern Gothic,Bildungsroman"
-  reading_time: "8-10 hours"
-
+  genre: Southern Gothic,Bildungsroman
+  reading_time: 8-10 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-15T18:24:00Z"
-
+  version: '3.0'
+  processed_at: '2025-09-15T18:24:00Z'
   scores:
     controversy: 9
     philosophical_depth: 7
@@ -21,166 +19,229 @@ afa_analysis:
     social_roles: 8
     total: 56
     percentile: 85
-
   composite_scores:
     depth:
       value: 7.2
-      category: "medium"
+      category: medium
     heat:
       value: 6.8
-      category: "medium"
-
+      category: medium
   themes:
     universal:
-      - id: "dark_drama_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Banned in multiple US school districts including Biloxi Mississippi 2017 and Burbank California 2020 due to racial slurs and white savior narrative"
-        source: "dark_drama"
-      - id: "symbols_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Mockingbird symbol represents innocence destroyed by evil - Tom Robinson, Boo Radley, and the children are all mockingbirds"
-        source: "symbols_meanings"
-      - id: "culture_impact_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Academy Award-winning 1962 film with Gregory Peck, 2018 Broadway adaptation by Aaron Sorkin, translated into 40+ languages"
-        source: "culture_impact"
-      - id: "writing_innovation_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Revolutionary dual-perspective narration combining child's voice with adult reflection became template for young adult literature"
-        source: "writing_innovation"
-      - id: "reality_wisdom_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Themes remain current: AI bias parallels Tom Robinson case, systemic racism persists, gender role struggles continue"
-        source: "reality_wisdom"
-      - id: "youth_digital_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Limited viral presence on BookTok despite Scout Finch having potential as feminist icon for digital generation"
-        source: "youth_digital"
-      - id: "facts_history_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Published 1960 during Civil Rights Movement peak, inspired by Scottsboro Boys case and author's father's legal experiences"
-        source: "facts_history"
-      - id: "content_warnings_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Contains 48 uses of n-word, false rape accusations, domestic violence themes requiring age-appropriate content warnings"
-        source: "content_warnings_assessment"
-
+    - id: dark_drama_0
+      type: FACT
+      credibility: 0.95
+      content: Banned in multiple US school districts including Biloxi Mississippi 2017 and Burbank California 2020 due to
+        racial slurs and white savior narrative
+      source: dark_drama
+    - id: symbols_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Mockingbird symbol represents innocence destroyed by evil - Tom Robinson, Boo Radley, and the children are
+        all mockingbirds
+      source: symbols_meanings
+    - id: culture_impact_0
+      type: FACT
+      credibility: 0.95
+      content: Academy Award-winning 1962 film with Gregory Peck, 2018 Broadway adaptation by Aaron Sorkin, translated into
+        40+ languages
+      source: culture_impact
+    - id: writing_innovation_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Revolutionary dual-perspective narration combining child's voice with adult reflection became template for
+        young adult literature
+      source: writing_innovation
+    - id: reality_wisdom_0
+      type: FACT
+      credibility: 0.95
+      content: 'Themes remain current: AI bias parallels Tom Robinson case, systemic racism persists, gender role struggles
+        continue'
+      source: reality_wisdom
+    - id: youth_digital_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Limited viral presence on BookTok despite Scout Finch having potential as feminist icon for digital generation
+      source: youth_digital
+    - id: facts_history_0
+      type: FACT
+      credibility: 0.95
+      content: Published 1960 during Civil Rights Movement peak, inspired by Scottsboro Boys case and author's father's legal
+        experiences
+      source: facts_history
+    - id: content_warnings_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Contains 48 uses of n-word, false rape accusations, domestic violence themes requiring age-appropriate content
+        warnings
+      source: content_warnings_assessment
     localized:
       en:
-        cultural_impact: "Canonical status in Western literature, required reading in 50-70% of US schools, Gregory Peck's performance iconic"
-        key_editions: ["Pulitzer Prize winner 1961", "American Film Institute greatest hero", "BBC Big Read #6"]
-        reception_notes: "Ongoing white savior criticism balanced with literary merit recognition"
-        educational_status: "Standard curriculum across English-speaking world"
-        local_themes: ["American civil rights history", "Southern Gothic tradition", "Legal ethics education"]
-
+        cultural_impact: Canonical status in Western literature, required reading in 50-70% of US schools, Gregory Peck's
+          performance iconic
+        key_editions:
+        - Pulitzer Prize winner 1961
+        - American Film Institute greatest hero
+        - 'BBC Big Read #6'
+        reception_notes: Ongoing white savior criticism balanced with literary merit recognition
+        educational_status: Standard curriculum across English-speaking world
+        local_themes:
+        - American civil rights history
+        - Southern Gothic tradition
+        - Legal ethics education
       pl:
-        cultural_impact: "Title 'Zabić drozda' uses native thrush instead of mockingbird, high rating 8.1/10 on Lubimyczytać.pl"
-        key_editions: ["1965 Communist-era edition by Kierszys", "Modern Rebis translation by Szymański"]
-        reception_notes: "Universal moral themes resonate with Polish historical experiences of resistance"
-        educational_status: "Not in official canon but used as supplementary reading"
-        local_themes: ["Resistance to injustice", "Individual vs authoritarian systems", "Universal moral courage"]
-
+        cultural_impact: Title 'Zabić drozda' uses native thrush instead of mockingbird, high rating 8.1/10 on Lubimyczytać.pl
+        key_editions:
+        - 1965 Communist-era edition by Kierszys
+        - Modern Rebis translation by Szymański
+        reception_notes: Universal moral themes resonate with Polish historical experiences of resistance
+        educational_status: Not in official canon but used as supplementary reading
+        local_themes:
+        - Resistance to injustice
+        - Individual vs authoritarian systems
+        - Universal moral courage
       de:
-        cultural_impact: "German translation 'Wer die Nachtigall stört' changes mockingbird to nightingale, Abitur examination topic"
-        key_editions: ["1962 Rowohlt translation by Malignon", "2015 revised Stingl translation", "Reclam study guides"]
-        reception_notes: "Strong academic tradition with comprehensive teaching materials"
-        educational_status: "Gymnasium curriculum upper secondary level"
-        local_themes: ["Philosophical interpretations", "Ethical standards in law", "Social justice themes"]
-
+        cultural_impact: German translation 'Wer die Nachtigall stört' changes mockingbird to nightingale, Abitur examination
+          topic
+        key_editions:
+        - 1962 Rowohlt translation by Malignon
+        - 2015 revised Stingl translation
+        - Reclam study guides
+        reception_notes: Strong academic tradition with comprehensive teaching materials
+        educational_status: Gymnasium curriculum upper secondary level
+        local_themes:
+        - Philosophical interpretations
+        - Ethical standards in law
+        - Social justice themes
       fr:
-        cultural_impact: "Multiple French translations reflect evolving understanding, postcolonial analysis through Foucault theory"
-        key_editions: ["Grasset standard edition", "Educational Le Livre de Poche", "Graphic novel 2018"]
-        reception_notes: "Academic focus on power structures and discourse analysis"
-        educational_status: "French school literature courses with Académie support"
-        local_themes: ["Power discourse analysis", "Poststructuralist interpretation", "Colonial parallels"]
-
+        cultural_impact: Multiple French translations reflect evolving understanding, postcolonial analysis through Foucault
+          theory
+        key_editions:
+        - Grasset standard edition
+        - Educational Le Livre de Poche
+        - Graphic novel 2018
+        reception_notes: Academic focus on power structures and discourse analysis
+        educational_status: French school literature courses with Académie support
+        local_themes:
+        - Power discourse analysis
+        - Poststructuralist interpretation
+        - Colonial parallels
       es:
-        cultural_impact: "Spanish title 'Matar un ruiseñor' uses nightingale, influenced Isabel Allende's magical realism development"
-        key_editions: ["Multiple publisher editions", "Educational platform availability", "Graphic novel version"]
-        reception_notes: "Pan-Latin American educational adoption across Mexico, Colombia, Chile, Argentina"
-        educational_status: "Mandatory reading status in some Spanish-speaking systems"
-        local_themes: ["Social justice parallels", "Colonial discourse", "Magical realism influence"]
-
+        cultural_impact: Spanish title 'Matar un ruiseñor' uses nightingale, influenced Isabel Allende's magical realism development
+        key_editions:
+        - Multiple publisher editions
+        - Educational platform availability
+        - Graphic novel version
+        reception_notes: Pan-Latin American educational adoption across Mexico, Colombia, Chile, Argentina
+        educational_status: Mandatory reading status in some Spanish-speaking systems
+        local_themes:
+        - Social justice parallels
+        - Colonial discourse
+        - Magical realism influence
       pt:
-        cultural_impact: "Brazilian title 'O Sol é Para Todos' emphasizes universality vs Portuguese 'Mataram a Cotovia' emphasizing violence"
-        key_editions: ["José Olympio Record edition", "Horta translation", "Educational ENEM reference"]
-        reception_notes: "Used in Brazilian racial justice education and entrance exam essays"
-        educational_status: "Recommended reading in Brazilian schools"
-        local_themes: ["Brazilian racial dynamics", "Educational equality", "Social justice activism"]
-
+        cultural_impact: Brazilian title 'O Sol é Para Todos' emphasizes universality vs Portuguese 'Mataram a Cotovia' emphasizing
+          violence
+        key_editions:
+        - José Olympio Record edition
+        - Horta translation
+        - Educational ENEM reference
+        reception_notes: Used in Brazilian racial justice education and entrance exam essays
+        educational_status: Recommended reading in Brazilian schools
+        local_themes:
+        - Brazilian racial dynamics
+        - Educational equality
+        - Social justice activism
       ja:
-        cultural_impact: "Japanese title 'Alabama Monogatari' focuses on regional story, academic study at major universities"
-        key_editions: ["1975 Kikuchi translation", "2023 new Uegaoka translation", "Hayakawa Shobo edition"]
-        reception_notes: "Cross-cultural justice themes analyzed through Buddhist-Confucian lens"
-        educational_status: "University English literature curriculum"
-        local_themes: ["Community responsibility", "Moral development", "Cross-cultural justice concepts"]
-
+        cultural_impact: Japanese title 'Alabama Monogatari' focuses on regional story, academic study at major universities
+        key_editions:
+        - 1975 Kikuchi translation
+        - 2023 new Uegaoka translation
+        - Hayakawa Shobo edition
+        reception_notes: Cross-cultural justice themes analyzed through Buddhist-Confucian lens
+        educational_status: University English literature curriculum
+        local_themes:
+        - Community responsibility
+        - Moral development
+        - Cross-cultural justice concepts
       ko:
-        cultural_impact: "Korean title '앵무새 죽이기' uses parrot, 300,000+ copies sold, acclaimed as influential as Bible"
-        key_editions: ["2015 Yeolin Books refined translation", "Kim Uk-dong translator", "University library holdings"]
-        reception_notes: "Aligns with Korean Confucian values of moral character development"
-        educational_status: "American literature courses and teacher education programs"
-        local_themes: ["Social prejudice critique", "Moral education", "Anti-discrimination message"]
-
+        cultural_impact: Korean title '앵무새 죽이기' uses parrot, 300,000+ copies sold, acclaimed as influential as Bible
+        key_editions:
+        - 2015 Yeolin Books refined translation
+        - Kim Uk-dong translator
+        - University library holdings
+        reception_notes: Aligns with Korean Confucian values of moral character development
+        educational_status: American literature courses and teacher education programs
+        local_themes:
+        - Social prejudice critique
+        - Moral education
+        - Anti-discrimination message
       hi:
-        cultural_impact: "English-language dominance in India, successful Bengaluru theater production 2023, postcolonial analysis"
-        key_editions: ["Penguin Random House India", "Cambridge IGCSE syllabus", "Educational materials"]
-        reception_notes: "Parallels drawn with Indian caste system and Dalit literature"
-        educational_status: "International schools and university English departments"
-        local_themes: ["Caste system parallels", "Legal system failures", "Social justice discourse"]
-
+        cultural_impact: English-language dominance in India, successful Bengaluru theater production 2023, postcolonial analysis
+        key_editions:
+        - Penguin Random House India
+        - Cambridge IGCSE syllabus
+        - Educational materials
+        reception_notes: Parallels drawn with Indian caste system and Dalit literature
+        educational_status: International schools and university English departments
+        local_themes:
+        - Caste system parallels
+        - Legal system failures
+        - Social justice discourse
   formats:
-    temporal_context:
-      name: "temporal_context"
-      duration: 13
+    emotional_perspective:
+      name: emotional_perspective
+      duration: 18
       hosts:
-        host_a: "classical literature expert explaining origins"
-        host_b: "contemporary reader finding modern relevance"
+        host_a: Therapist/psychologist exploring emotional and psychological themes
+        host_b: Personal experiencer sharing emotional connection and impact
       structure:
-        - segment: 1
-          time_range: "00:00-02:36"
-          topic: "original_era"
-          lead: "host_a"
-          description: "Banned in multiple US school districts including Biloxi Mississippi 2017"
-        - segment: 2
-          time_range: "02:36-05:12"
-          topic: "evolution"
-          lead: "host_b"
-          description: "Mockingbird symbol represents innocence destroyed by evil"
-        - segment: 3
-          time_range: "05:12-07:48"
-          topic: "modern_parallels"
-          lead: "host_a"
-          description: "Academy Award-winning 1962 film with Gregory Peck"
-        - segment: 4
-          time_range: "07:48-10:24"
-          topic: "timelessness"
-          lead: "host_b"
-          description: "Revolutionary dual-perspective narration combining child's voice"
-        - segment: 5
-          time_range: "10:24-13:00"
-          topic: "synthesis"
-          lead: "host_a"
-          description: "Themes remain current: AI bias parallels Tom Robinson case"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: emotional_landscape
+        lead: host_a
+        description: Psychological dynamics and emotional patterns
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: personal_impact
+        lead: host_b
+        description: How readers emotionally connect and relate
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: trauma_patterns
+        lead: host_a
+        description: Understanding trauma and healing in the narrative
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: relationship_dynamics
+        lead: host_b
+        description: Exploring relationships and attachment patterns
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: growth_journey
+        lead: host_a
+        description: Character development as psychological journey
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: healing_insights
+        lead: host_b
+        description: What we learn about resilience and healing
       prompts:
-        host_a: "You are {male_name}, a classical literature expert. Explain 'To Kill a Mockingbird' in its original 1960 context, conventions, intentions."
-        host_b: "You are {female_name} from 2025. Find modern parallels in 'To Kill a Mockingbird', connect to current technology, contemporary sensibilities."
-
+        host_a: You are {male_name}, therapist exploring 'To Kill a Mockingbird' psychological depths. Analyze emotional patterns
+          with compassion.
+        host_b: You are {female_name}, sharing personal emotional connection. Express how the story touches and transforms
+          readers.
   metadata:
-    target_audience: "16+"
-    content_warnings: ["historical violence", "sexual content references", "colonial/racist content discussion"]
-    educational_elements: ["Southern Gothic genre characteristics", "Historical context of 1960", "Analysis of racial justice themes"]
+    target_audience: 16+
+    content_warnings:
+    - historical violence
+    - sexual content references
+    - colonial/racist content discussion
+    educational_elements:
+    - Southern Gothic genre characteristics
+    - Historical context of 1960
+    - Analysis of racial justice themes
     production_notes:
-      intro_style: "thoughtful and historically grounded"
-      transitions: "subtle musical bridges"
-      outro_style: "reflective synthesis of past and present"
-
+      intro_style: thoughtful and historically grounded
+      transitions: subtle musical bridges
+      outro_style: reflective synthesis of past and present
   overall_confidence: 0.89

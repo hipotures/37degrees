@@ -1,301 +1,301 @@
-# Ocena Content Warnings: "Pożegnanie z bronią" Ernest Hemingway (1929)
+# Content Warnings Assessment: "A Farewell to Arms" by Ernest Hemingway (1929)
 
-**Data oceny**: 27 sierpnia 2025  
-**Agent**: au-content_warnings_assessment  
-**Podstawa analizy**: Kompletny research 8 agentów specjalistycznych + aktualne wytyczne platform (2025)
+**Assessment Date**: September 16, 2025
+**Agent**: au-content_warnings_assessment
+**Analysis Based on**: Complete research from 8 specialist agents + current platform guidelines (2025)
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-"Pożegnanie z bronią" to klasyka literatury zawierająca ŚREDNIE RYZYKO dla większości platform społecznościowych w 2025 roku. Główne problemy to: trauma wojenna, śmierć, tematyka antywojenna oraz kontrowersyjne elementy biograficzne Hemingwaya. Książka nadaje się do adaptacji audio z odpowiednimi ostrzeżeniami i strategiami platform-specific.
+"A Farewell to Arms" presents MEDIUM RISK for most social media platforms in 2025. Primary concerns include: war trauma, death, anti-war themes, and controversial biographical elements about Hemingway. The book is suitable for audio adaptation with appropriate warnings and platform-specific strategies.
 
-**REKOMENDACJA GLOBALNA**: AGE-RESTRICT 16+ na wszystkich platformach z wyjątkiem Kick i Spotify.
-
----
-
-## ANALIZA WRAŻLIWYCH TREŚCI
-
-### 🚨 KATEGORIE WYSOKIEGO RYZYKA
-
-#### 1. **Trauma Wojenna i PTSD**
-**Zawartość**:
-- Szczegółowe opisy zranień w wyniku ataku moździerzowego (237 fragmentów szrapneli)
-- Symptomy współcześnie rozpoznawane jako PTSD: bezsenność, dysocjacja, unikanie
-- Alkohol jako mechanizm radzenia sobie z traumą
-
-**Ryzyko platformowe**:
-- **Facebook/Instagram**: ŚREDNIE - mogą uznać za "przemoc/zastraszanie"
-- **YouTube**: NISKIE - w kontekście edukacyjnym akceptowalne
-- **TikTok**: ŚREDNIE - wymaga ostrożnego framingu
-- **Spotify**: NISKIE - content audio bezpieczny
-- **Kick**: NISKIE - najmniej restrykcyjne zasady
-
-#### 2. **Śmierć Catherine i Dziecka**
-**Zawartość**:
-- Sceny porodu powikłane cesarskim cięciem
-- Śmierć po porodzie i martwo urodzone dziecko
-- Rozpacz psychologiczna bohaterów
-
-**Ryzyko platformowe**:
-- **Wszystkie platformy**: ŚREDNIE - wymaga content warning o śmierci
-
-#### 3. **Dezerterstwo i Krytyka Militaryzmu**
-**Zawartość**:
-- Frederic dezertuje z armii włoskiej
-- Krytyka "pustych słów" jak honor, chwała, odwaga
-- Antywojenna postawa
-
-**Ryzyko platformowe**:
-- **Facebook/Meta**: WYSOKIE - nowe liberalne zasady mogą nie tolerować antypatriotyzmu
-- **YouTube**: NISKIE - w kontekście historycznym akceptowalne
-- **Pozostałe**: ŚREDNIE - wymaga historycznego kontekstu
-
-### 🟡 KATEGORIE ŚREDNIEGO RYZYKA
-
-#### 4. **Kontrowersje Biograficzne Hemingwaya**
-**Zawartość z researchu**:
-- Związki z 4 żonami, nakładające się romanse
-- Podejrzenia o współpracę z KGB (udowodnione, ale nieproduktywne)
-- Inwigilacja przez FBI (potwierdzona)
-- Problemy z alkoholem i zdrowiem psychicznym
-
-**Ryzyko platformowe**:
-- **Wszystkie**: ŚREDNIE - wymaga faktualnego przedstawienia
-- **Uwaga**: Unikać teorii spiskowych o śmierci
-
-#### 5. **Treści Seksualne (Minimalne)**
-**Zawartość**:
-- Subtelne odniesienia do fizycznej bliskości
-- Brak graficznych opisów
-- Hemingwayowski minimalizm w scenach intymnych
-
-**Ryzyko platformowe**:
-- **Wszystkie**: NISKIE - materiał w granicach norm
-
-#### 6. **Alkohol i Uzależnienie**
-**Zawartość**:
-- Częste sceny picia jako mechanizmu obronnego
-- Normalizacja alkoholu w kontekście wojennym
-- Żółtaczka Fredericka jako konsekwencja nadużywania alkoholu
-
-**Ryzyko platformowe**:
-- **Wszystkie**: NISKIE-ŚREDNIE - w kontekście historycznym i edukacyjnym
-
-### ✅ KATEGORIE NISKIEGO RYZYKA
-
-#### 7. **Wartości Edukacyjne**
-- Analiza PTSD przed jego oficjalnym rozpoznaniem
-- Historia I wojny światowej
-- Innowacje literackie (teoria góry lodowej)
-- Uniwersalne tematy miłości i straty
+**GLOBAL RECOMMENDATION**: AGE-RESTRICT 16+ across all platforms except Kick and Spotify.
 
 ---
 
-## MATRIX: PROBLEMATYCZNY TEMAT VS PLATFORMA
+## SENSITIVE CONTENT ANALYSIS
 
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+### 🚨 HIGH RISK CATEGORIES
+
+#### 1. **War Trauma and PTSD**
+**Content**:
+- Detailed descriptions of mortar attack injuries (237 shrapnel fragments)
+- Symptoms now recognized as PTSD: insomnia, dissociation, avoidance
+- Alcohol as trauma coping mechanism
+
+**Platform Risk**:
+- **Facebook/Instagram**: MEDIUM - may flag as "violence/intimidation"
+- **YouTube**: LOW - acceptable in educational context
+- **TikTok**: MEDIUM - requires careful framing
+- **Spotify**: LOW - audio content safer
+- **Kick**: LOW - least restrictive policies
+
+#### 2. **Death of Catherine and Child**
+**Content**:
+- Childbirth scenes complicated by cesarean section
+- Postpartum death and stillborn child
+- Characters' psychological despair
+
+**Platform Risk**:
+- **All platforms**: MEDIUM - requires content warning for death
+
+#### 3. **Desertion and Anti-Militarism Critique**
+**Content**:
+- Frederic deserts from Italian army
+- Criticism of "empty words" like honor, glory, courage
+- Anti-war stance
+
+**Platform Risk**:
+- **Facebook/Meta**: HIGH - new liberal policies may not tolerate anti-patriotism
+- **YouTube**: LOW - acceptable in historical context
+- **Others**: MEDIUM - requires historical context
+
+### 🟡 MEDIUM RISK CATEGORIES
+
+#### 4. **Hemingway Biographical Controversies**
+**Research Content**:
+- Relationships with 4 wives, overlapping romances
+- Suspected KGB cooperation (proven but unproductive)
+- FBI surveillance (confirmed)
+- Alcohol and mental health problems
+
+**Platform Risk**:
+- **All**: MEDIUM - requires factual presentation
+- **Warning**: Avoid conspiracy theories about death
+
+#### 5. **Sexual Content (Minimal)**
+**Content**:
+- Subtle references to physical intimacy
+- No graphic descriptions
+- Hemingway's minimalist approach to intimate scenes
+
+**Platform Risk**:
+- **All**: LOW - content within normal boundaries
+
+#### 6. **Alcohol and Addiction**
+**Content**:
+- Frequent drinking scenes as defense mechanism
+- Normalization of alcohol in wartime context
+- Frederic's jaundice as consequence of alcohol abuse
+
+**Platform Risk**:
+- **All**: LOW-MEDIUM - acceptable in historical and educational context
+
+### ✅ LOW RISK CATEGORIES
+
+#### 7. **Educational Values**
+- PTSD analysis before its official recognition
+- World War I history
+- Literary innovations (iceberg theory)
+- Universal themes of love and loss
+
+---
+
+## MATRIX: PROBLEMATIC TOPIC VS PLATFORM
+
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |-------|----------|-----------|---------|--------|---------|------|
-| **Trauma wojenna** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | ✅ NISKIE | 🟡 ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Śmierć/żałoba** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | 🟡 ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Antywojenna krytyka** | 🔴 WYSOKIE | 🔴 WYSOKIE | ✅ NISKIE | 🟡 ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Kontrowersje Hemingwaya** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | ✅ NISKIE | 🟡 ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Alkohol/uzależnienie** | 🟡 ŚREDNIE | 🟡 ŚREDNIE | ✅ NISKIE | 🟡 ŚREDNIE | ✅ NISKIE | ✅ NISKIE |
-| **Treści seksualne** | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE | ✅ NISKIE |
+| **War trauma** | 🟡 MEDIUM | 🟡 MEDIUM | ✅ LOW | 🟡 MEDIUM | ✅ LOW | ✅ LOW |
+| **Death/grief** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | ✅ LOW | ✅ LOW |
+| **Anti-war critique** | 🔴 HIGH | 🔴 HIGH | ✅ LOW | 🟡 MEDIUM | ✅ LOW | ✅ LOW |
+| **Hemingway controversies** | 🟡 MEDIUM | 🟡 MEDIUM | ✅ LOW | 🟡 MEDIUM | ✅ LOW | ✅ LOW |
+| **Alcohol/addiction** | 🟡 MEDIUM | 🟡 MEDIUM | ✅ LOW | 🟡 MEDIUM | ✅ LOW | ✅ LOW |
+| **Sexual content** | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW | ✅ LOW |
 
-**Legenda**: 🔴 WYSOKIE / 🟡 ŚREDNIE / ✅ NISKIE
+**Legend**: 🔴 HIGH / 🟡 MEDIUM / ✅ LOW
 
 ---
 
-## REKOMENDACJE PLATFORM-SPECIFIC
+## PLATFORM-SPECIFIC RECOMMENDATIONS
 
 ### 📘 FACEBOOK/META (Facebook + Instagram)
-**STATUS**: 🔴 **WYSOKIE RYZYKO** - Największa ostrożność
+**STATUS**: 🔴 **HIGH RISK** - Maximum caution required
 
-**ZAGROŻENIA 2025**:
-- Nowe liberalne zasady "hateful conduct" mogą nie tolerować krytyki instytucji
-- Brak fact-checkingu - Community Notes może promować misinformation
-- Nieprzewidywalne moderacje treści edukacyjnych
+**2025 THREATS**:
+- New liberal "hateful conduct" policies may not tolerate institutional criticism
+- Lack of fact-checking - Community Notes may promote misinformation
+- Unpredictable moderation of educational content
 
-**STRATEGIA**:
-- ❌ **OMIT**: Teorie spiskowe o śmierci Hemingwaya
-- ❌ **OMIT**: Kontrowersyjne cytaty polityczne
-- ⚠️ **EDIT**: Dezerterstwo przedstawić jako "personal choice", nie krytykę militaryzmu
-- ✅ **OK**: Fokus na aspektach literackich, miłosnych, edukacyjnych
+**STRATEGY**:
+- ❌ **OMIT**: Conspiracy theories about Hemingway's death
+- ❌ **OMIT**: Controversial political quotes
+- ⚠️ **EDIT**: Present desertion as "personal choice", not militarism critique
+- ✅ **OK**: Focus on literary, romantic, educational aspects
 
-**AGE RATING**: **18+** ze względu na nieprzewidywalność moderacji
+**AGE RATING**: **18+** due to unpredictable moderation
 
 ### 📹 YOUTUBE
-**STATUS**: 🟡 **ŚREDNIE RYZYKO** - Najlepsza platforma dla educational content
+**STATUS**: 🟡 **MEDIUM RISK** - Best platform for educational content
 
-**SZANSE**:
-- Preferencja dla długiej formy (1+ min)
-- Akceptacja treści edukacyjnych z "educational context"
-- Możliwość monetizacji przy proper compliance
+**OPPORTUNITIES**:
+- Preference for long-form content (1+ min)
+- Acceptance of educational content with "educational context"
+- Monetization possible with proper compliance
 
-**STRATEGIA**:
-- ✅ **OK**: Wszystkie tematy z książki w educational framing
-- ✅ **OK**: Kontrowersje Hemingwaya jako historical analysis
-- ⚠️ **CONTENT WARNING**: Dla scen śmierci i traumy wojennej
-- 🔑 **KEY**: Human narration zamiast AI text-to-speech
+**STRATEGY**:
+- ✅ **OK**: All book topics with educational framing
+- ✅ **OK**: Hemingway controversies as historical analysis
+- ⚠️ **CONTENT WARNING**: For death and war trauma scenes
+- 🔑 **KEY**: Human narration instead of AI text-to-speech
 
-**AGE RATING**: **16+** z content warnings
+**AGE RATING**: **16+** with content warnings
 
 ### 📱 TIKTOK
-**STATUS**: 🟡 **ŚREDNIE RYZYKO** - Wymaga 1+ min dla monetizacji
+**STATUS**: 🟡 **MEDIUM RISK** - Requires 1+ min for monetization
 
-**WYZWANIA**:
-- 1+ minuta minimum dla Creator Rewards Program
+**CHALLENGES**:
+- 1+ minute minimum for Creator Rewards Program
 - 70% rejection rate for monetization applications
 - Original content only - no duets/stitches
 
-**STRATEGIA**:
+**STRATEGY**:
 - ✅ **OK**: Mental health angle (PTSD awareness)
 - ✅ **OK**: Literary analysis, "BookTok" aesthetic
-- ⚠️ **EDIT**: Trauma wojenna w kontekście therapy/healing
-- ❌ **OMIT**: Kontrowersyjne teorie spiskowe
+- ⚠️ **EDIT**: War trauma in therapy/healing context
+- ❌ **OMIT**: Controversial conspiracy theories
 
-**AGE RATING**: **16+** z educational framing
+**AGE RATING**: **16+** with educational framing
 
 ### 🎵 SPOTIFY
-**STATUS**: ✅ **NISKIE RYZYKO** - Najlepsza platforma ogólnie
+**STATUS**: ✅ **LOW RISK** - Best platform overall
 
-**ZALETY**:
+**ADVANTAGES**:
 - Creator-friendly policies
-- Video podcasts preferred dla revenue
-- Najmniej restrykcyjne zasady content policy
+- Video podcasts preferred for revenue
+- Least restrictive content policy
 - Cross-platform monetization encouraged
 
-**STRATEGIA**:
-- ✅ **OK**: Wszystkie tematy z książki
-- ✅ **OK**: Pełna biografia Hemingwaya including controversies
-- 💡 **BONUS**: Video format dla maximum earnings
+**STRATEGY**:
+- ✅ **OK**: All book topics
+- ✅ **OK**: Full Hemingway biography including controversies
+- 💡 **BONUS**: Video format for maximum earnings
 - 🎯 **TARGET**: Long-form literary analysis
 
-**AGE RATING**: **13+** z mild content warnings
+**AGE RATING**: **13+** with mild content warnings
 
 ### 📺 KICK
-**STATUS**: ✅ **NISKIE RYZYKO** - Najwięcej wolności
+**STATUS**: ✅ **LOW RISK** - Maximum freedom
 
-**ZALETY**:
+**ADVANTAGES**:
 - 95/5 revenue split (industry leading)
 - Most creator-friendly platform
 - Highest tolerance for controversial educational content
 - Interactive community features
 
-**STRATEGIA**:
-- ✅ **OK**: Wszystkie tematy bez ograniczeń
-- ✅ **OK**: Pełne kontrowersje i conspiracy theories (z fact-checking)
-- 💰 **MONETIZATION**: Najlepsze możliwości revenue
+**STRATEGY**:
+- ✅ **OK**: All topics without restrictions
+- ✅ **OK**: Full controversies and conspiracy theories (with fact-checking)
+- 💰 **MONETIZATION**: Best revenue opportunities
 - 🎮 **FORMAT**: Live discussion ideal
 
-**AGE RATING**: **16+** (recommended, nie wymugane)
+**AGE RATING**: **16+** (recommended, not required)
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### 🚨 OBOWIĄZKOWE OSTRZEŻENIA
+### 🚨 MANDATORY WARNINGS
 
-**Na początku każdego odcinka**:
-> "UWAGA: Ten odcinek zawiera omówienie tematów, które mogą być trudne dla niektórych słuchaczy, w tym:
-> - Trauma wojenna i PTSD
-> - Śmierć podczas porodu
-> - Problemy z uzależnieniem od alkoholu
-> - Kontrowersyjne aspekty biografii autora
-> 
-> Jeśli którykolwiek z tych tematów może cię dotknąć, rozważ przesłuchanie z kimś bliskimm lub pominięcie tego odcinka."
+**At beginning of each episode**:
+> "WARNING: This episode contains discussion of topics that may be difficult for some listeners, including:
+> - War trauma and PTSD
+> - Death during childbirth
+> - Alcohol addiction problems
+> - Controversial aspects of author's biography
+>
+> If any of these topics might affect you, consider listening with someone close or skipping this episode."
 
-### 📝 SZCZEGÓŁOWE OSTRZEŻENIA
+### 📝 DETAILED WARNINGS
 
-#### **Odcinki o traumie wojennej**:
-- "Omawiana książka zawiera realistyczne opisy ran wojennych i ich psychologicznych konsekwencji"
-- "Dla osób z doświadczeniem PTSD: content może być triggering"
+#### **Episodes about war trauma**:
+- "The discussed book contains realistic descriptions of war wounds and their psychological consequences"
+- "For people with PTSD experience: content may be triggering"
 
-#### **Odcinki o śmierci Catherine**:
-- "Ten fragment zawiera omówienie powikłań porodowych zakończonych śmiercią"
-- "Może być trudny dla osób, które doświadczyły straty bliskich lub komplikacji porodowych"
+#### **Episodes about Catherine's death**:
+- "This segment contains discussion of birth complications resulting in death"
+- "May be difficult for those who experienced loss of loved ones or birth complications"
 
-#### **Odcinki o kontrowersjach Hemingwaya**:
-- "Omawiamy udokumentowane fakty z biografii autora, w tym problemy z alkoholem i zdrowiem psychicznym"
-- "Niektóre informacje mogą zmieniać postrzeganie autora i jego twórczości"
+#### **Episodes about Hemingway controversies**:
+- "We discuss documented facts from the author's biography, including alcohol problems and mental health"
+- "Some information may change perception of the author and his work"
 
 ---
 
 ## EDUCATION-FRIENDLY APPROACHES
 
-### 🎓 STRATEGIE DLA MŁODZIEŻY
+### 🎓 STRATEGIES FOR YOUTH
 
 #### **1. Mental Health Education**
-**Podejście**: PTSD jako nierozpoznane zaburzenie w latach 20.
-- "Co dziś wiemy o traumie, czego nie wiedziano w 1929"
-- "Jak rozpoznać objawy PTSD u siebie i innych"
-- "Gdzie szukać pomocy - współczesne zasoby"
+**Approach**: PTSD as unrecognized disorder in the 1920s
+- "What we know about trauma today that wasn't known in 1929"
+- "How to recognize PTSD symptoms in yourself and others"
+- "Where to seek help - contemporary resources"
 
 #### **2. Historical Context First**
-**Podejście**: Zaczynać od kontekstu historycznego
-- "I wojna światowa oczami żołnierza-medyka"
-- "Dlaczego dezerterstwo było różnie postrzegane w różnych krajach"
-- "Społeczne zmiany po zakończeniu wojny"
+**Approach**: Start with historical context
+- "World War I through the eyes of a soldier-medic"
+- "Why desertion was viewed differently in different countries"
+- "Social changes after the war ended"
 
 #### **3. Literary Innovation Focus**
-**Podejście**: Hemingway jako rewolucjonista literacki
-- "Jak teoria góry lodowej zmieniła literaturę"
-- "Minimalizm vs tradycyjna proza wiktoriańska"
-- "Wpływ na współczesnych pisarzy i filmowców"
+**Approach**: Hemingway as literary revolutionary
+- "How the iceberg theory changed literature"
+- "Minimalism vs traditional Victorian prose"
+- "Influence on contemporary writers and filmmakers"
 
 #### **4. Gender Studies Perspective**
-**Podejście**: Nowoczesny masculinity discourse
-- "Frederic jako przykład 'wrażliwej męskości' przed jej uznaniem"
-- "Catherine jako aktywna pielęgniarka w czasach ograniczonych ról kobiet"
-- "Jak wojny zmieniają tradycyjne role płciowe"
+**Approach**: Modern masculinity discourse
+- "Frederic as example of 'sensitive masculinity' before its recognition"
+- "Catherine as active nurse in times of limited women's roles"
+- "How wars change traditional gender roles"
 
-### 🏫 MATERIAŁY NAUCZYCIELSKIE
+### 🏫 TEACHING MATERIALS
 
 #### **Pre-Reading Discussion Topics**:
-1. "Co wiecie o I wojnie światowej?"
-2. "Jak wygląda trauma wojenna w filmach vs rzeczywistości?"
-3. "Dlaczego niektórzy żołnierze dezerterują?"
-4. "Czy miłość może kwitnąć w czasie wojny?"
+1. "What do you know about World War I?"
+2. "How does war trauma appear in films vs reality?"
+3. "Why do some soldiers desert?"
+4. "Can love flourish during war?"
 
 #### **Critical Thinking Questions**:
-1. "Czy Frederic był bohaterem czy tchórzem?"
-2. "Jak Hemingway pokazuje różnicę między propagandą a rzeczywistością?"
-3. "Co oznacza 'osobny pokój' w kontekście współczesnym?"
-4. "Jak książka przewidziała współczesne rozumienie PTSD?"
+1. "Was Frederic a hero or coward?"
+2. "How does Hemingway show difference between propaganda and reality?"
+3. "What does 'separate peace' mean in contemporary context?"
+4. "How did the book predict contemporary understanding of PTSD?"
 
 #### **Modern Connections**:
-- Porównanie z współczesnymi konfliktami (Ukraina, Afganistan)
+- Comparison with contemporary conflicts (Ukraine, Afghanistan)
 - Mental health awareness movements
 - Veterans support organizations
-- Anti-war literature i media
+- Anti-war literature and media
 
 ---
 
 ## FINAL COMPLIANCE CHECKLIST
 
-### ✅ PRZED PUBLIKACJĄ - SPRAWDŹ
+### ✅ BEFORE PUBLICATION - CHECK
 
-#### **Prawne/Copyright**:
-- [ ] Książka w domenie publicznej (od 1 stycznia 2025) ✅
-- [ ] Cytaty w ramach fair use
-- [ ] Proper attribution dla research sources
+#### **Legal/Copyright**:
+- [ ] Book in public domain (since January 1, 2025) ✅
+- [ ] Quotes within fair use
+- [ ] Proper attribution for research sources
 
 #### **Platform Guidelines Compliance**:
-- [ ] **Facebook/Meta**: Unikaj kontrowersyjnych interpretacji politycznych
+- [ ] **Facebook/Meta**: Avoid controversial political interpretations
 - [ ] **YouTube**: Human narration, educational framing, 1+ min videos
 - [ ] **TikTok**: Original content, 1+ min, educational angle
 - [ ] **Spotify**: Video format preferred, cross-platform promotion
-- [ ] **Kick**: Full freedom, ale fact-check controversial claims
+- [ ] **Kick**: Full freedom, but fact-check controversial claims
 
 #### **Age Appropriateness**:
-- [ ] **13+**: Spotify z mild warnings
-- [ ] **16+**: YouTube, TikTok, Kick z proper context
-- [ ] **18+**: Facebook/Meta ze względu na unpredictable moderation
+- [ ] **13+**: Spotify with mild warnings
+- [ ] **16+**: YouTube, TikTok, Kick with proper context
+- [ ] **18+**: Facebook/Meta due to unpredictable moderation
 
 #### **Content Warnings**:
 - [ ] War trauma/PTSD warning
-- [ ] Death in childbirth warning  
+- [ ] Death in childbirth warning
 - [ ] Mental health/addiction warning
 - [ ] Controversial biographical elements warning
 
@@ -303,41 +303,41 @@
 - [ ] Historical context provided
 - [ ] Literary analysis included
 - [ ] Modern connections drawn
-- [ ] Resources dla further learning
+- [ ] Resources for further learning
 
 #### **Quality Control**:
-- [ ] Fact-checking wszystkich biograficznych claims
-- [ ] Citations dla research sources
+- [ ] Fact-checking all biographical claims
+- [ ] Citations for research sources
 - [ ] Balanced perspective on controversies
 - [ ] Clear separation: facts vs theories vs opinions
 
 ---
 
-## KOŃCOWE REKOMENDACJE
+## FINAL RECOMMENDATIONS
 
-### 🎯 **STRATEGIA OPTYMALNA**
+### 🎯 **OPTIMAL STRATEGY**
 
-1. **START**: Spotify jako primary platform (najmniejsze ryzyko, najlepsze revenue)
-2. **EXPAND**: YouTube jako secondary (educational content friendly)
-3. **ADAPT**: TikTok z mental health/BookTok angle (jeśli 1+ min)
-4. **AVOID**: Facebook/Meta w pierwszej fazie (zbyt nieprzewidywalne w 2025)
-5. **CONSIDER**: Kick dla advanced discussions i controversial topics
+1. **START**: Spotify as primary platform (lowest risk, best revenue)
+2. **EXPAND**: YouTube as secondary (educational content friendly)
+3. **ADAPT**: TikTok with mental health/BookTok angle (if 1+ min)
+4. **AVOID**: Facebook/Meta in first phase (too unpredictable in 2025)
+5. **CONSIDER**: Kick for advanced discussions and controversial topics
 
-### 📊 **METRYKI SUKCESU**
-- **Safe metric**: 90%+ content approved na wszystkich platformach
+### 📊 **SUCCESS METRICS**
+- **Safe metric**: 90%+ content approved on all platforms
 - **Engagement metric**: Educational value + entertainment balance
 - **Growth metric**: Cross-platform audience development
 - **Impact metric**: Positive discussion about mental health, literature, history
 
 ### 🚀 **NEXT STEPS**
-1. Stwórz pilot episodes dla Spotify
-2. Test audience reaction i engagement
-3. Adapt content based na platform-specific feedback
-4. Gradually expand na inne platformy
-5. Monitor policy changes (szczególnie Meta platforms)
+1. Create pilot episodes for Spotify
+2. Test audience reaction and engagement
+3. Adapt content based on platform-specific feedback
+4. Gradually expand to other platforms
+5. Monitor policy changes (especially Meta platforms)
 
 ---
 
-**OSTATECZNA OCENA**: "Pożegnanie z bronią" to EXCELLENT CHOICE dla audio content z odpowiednimi precautions. Książka oferuje rich educational content, universal themes i opportunities dla meaningful audience engagement, przy manageable level of platform risk z proper content warnings i strategic approach.
+**FINAL ASSESSMENT**: "A Farewell to Arms" is an EXCELLENT CHOICE for audio content with appropriate precautions. The book offers rich educational content, universal themes, and opportunities for meaningful audience engagement, with manageable platform risk level through proper content warnings and strategic approach.
 
-**PROJECT VIABILITY**: ✅ **RECOMMENDED** z full confidence.
+**PROJECT VIABILITY**: ✅ **RECOMMENDED** with full confidence.

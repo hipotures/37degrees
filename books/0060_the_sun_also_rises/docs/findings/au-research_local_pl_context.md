@@ -1,114 +1,114 @@
-# Lokalny kontekst kulturowy: "Słońce też wschodzi" w Polsce
+# Local Cultural Context: "The Sun Also Rises" in Poland
 
-*Analiza polskiej recepcji i interpretacji dzieła Ernesta Hemingwaya*
-
----
-
-## Historia publikacji w Polsce
-
-### Pierwsze wydania i przełom lat 50.
-1. **Debiut w Polsce (1958)** - Pierwsza polska edycja ukazała się w 1958 roku w Państwowym Instytucie Wydawniczym (PIW)
-2. **Drugie wydanie (1958)** - Popularność książki była tak duża, że jeszcze w tym samym roku ukazało się drugie wydanie
-3. **Kontekst epoki** - Książka trafiła do polskich czytelników w okresie odwilży październikowej, gdy literatura zachodnia stała się bardziej dostępna
-
-### Współczesne wydania
-4. **Nowe wydanie Marginesy (2022)** - Wydawnictwo Marginesy zainicjowało kompleksową reedycję dzieł Hemingwaya w nowych tłumaczeniach
-5. **Zmiana strategii wydawniczej** - Cel: zainteresowanie młodych czytelników literaturą klasyczną poprzez język bliższy współczesnemu pokoleniu
+*Analysis of Polish reception and interpretation of Ernest Hemingway's work*
 
 ---
 
-## Polscy tłumacze i ich interpretacje
+## Publication History in Poland
 
-### Bronisław Zieliński (1914-1985) - pierwszy tłumacz
-6. **Biografia** - Prawnik, żołnierz AK, więziony po wojnie, od 1951 roku profesjonalny tłumacz
-7. **Osobista znajomość z Hemingwayem** - W 1958 roku odwiedził pisarza w domu, nawiązali przyjaźń i korespondencję (9 listów i kilka telegramów)
-8. **Wspólne pasje** - Hemingway docenił w Zielińskim myśliwego i dobrego strzelca, co umocniło ich więź
-9. **Publikacja wspomnień** - W 1997 roku ukazał się "Dziennik z pobytu u Ernesta Hemingwaya"
-10. **Styl tłumaczenia** - Zieliński poetyzował surowy styl amerykańskiego pisarza, archaizował wypowiedzi bohaterów i nadużywał czasu zaprzeszłego
-11. **Kontekst epoki** - Tłumaczył w czasach, gdy w Polsce brakowało literatury popularnej, jego styl był zmuszony oczekiwaniami czytelników przyzwyczajonych do literackiej polszczyzny
+### First Editions and the 1950s Breakthrough
+1. **Polish Debut (1958)** - The first Polish edition was published in 1958 by Państwowy Instytut Wydawniczy (PIW)
+2. **Second Edition (1958)** - The book's popularity was so great that a second edition appeared the same year
+3. **Historical Context** - The book reached Polish readers during the October Thaw, when Western literature became more accessible
 
-### Maciej Potulny (ur. 1975) - nowy tłumacz
-12. **Wykształcenie** - Absolwent filologii angielskiej na UAM w Poznaniu, obecnie mieszka w Melbourne
-13. **Filozofia tłumaczenia** - Zrezygnował z narzucania filtru wysokiej literatury na dzieło Hemingwaya
-14. **Cel językowy** - Uprościć styl, by oddać surowy, dziennikarski język oryginału składający się głównie z jedno- i dwusylabowych słów
-15. **Metafora "remake'u"** - Potraktował nowe tłumaczenie jak projekcje filmów z lat 20. i 30. z nową ścieżką dźwiękową
+### Contemporary Editions
+4. **New Marginesy Edition (2022)** - Marginesy Publishing initiated a comprehensive re-edition of Hemingway's works with new translations
+5. **Publishing Strategy Change** - Goal: to interest young readers in classic literature through language closer to contemporary generation
 
 ---
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Polish Translators and Their Interpretations
 
-### Kwestie tytułu
-16. **Zmiana tytułu** - Z "Słońce też wschodzi" (Zieliński) na "Zaś słońce wschodzi" (Potulny)
-17. **Uzasadnienie biblijne** - Nowy tytuł lepiej oddaje cytat z Księgi Koheleta w języku starotestamentowym
+### Bronisław Zieliński (1914-1985) - First Translator
+6. **Biography** - Lawyer, Home Army soldier, imprisoned after the war, professional translator from 1951
+7. **Personal Acquaintance with Hemingway** - In 1958, he visited the writer at home, they established friendship and correspondence (9 letters and several telegrams)
+8. **Shared Passions** - Hemingway appreciated Zieliński as a hunter and good marksman, which strengthened their bond
+9. **Memoir Publication** - "Diary from Stay with Ernest Hemingway" was published in 1997
+10. **Translation Style** - Zieliński poeticized the harsh style of the American writer, archaized characters' speeches and overused pluperfect tense
+11. **Period Context** - He translated in times when Poland lacked popular literature, his style was forced by readers' expectations accustomed to literary Polish
 
-### Wyzwania stylistyczne
-18. **Minimalizm językowy** - Oryginał składa się z krótkich słów pasujących do depesz prasowych (15 liter to maksimum)
-19. **Naturalność dialogów** - Problem oddania, że rozmowy przyjaciół brzmiały naturalnie niezależnie od epoki
-20. **Unikanie archaizacji** - Trudność z odejściem od książkowego języka na rzecz potoczności bez utraty klasy literackiej
-
----
-
-## Kontekst edukacyjny w Polsce
-
-### Pozycja w szkolnictwie
-21. **Nie jest lekturą obowiązkową** - W przeciwieństwie do "Starca i morza", "Słońce też wschodzi" nie występuje na liście lektur maturalnych
-22. **Obecność w programach akademickich** - Uniwersytet Warszawski włącza Hemingwaya do kursu "Literatura amerykańska II"
-23. **Kontekst modernistyczny** - Na uczelniach studiowany obok Fitzgeralda i Faulknera jako przedstawiciel amerykańskiego modernizmu
+### Maciej Potulny (b. 1975) - New Translator
+12. **Education** - Graduate of English philology at UAM in Poznań, currently lives in Melbourne
+13. **Translation Philosophy** - Resigned from imposing high literature filter on Hemingway's work
+14. **Linguistic Goal** - Simplify style to reflect the harsh, journalistic language of the original consisting mainly of mono- and bi-syllabic words
+15. **"Remake" Metaphor** - Treated the new translation like film projections from the 1920s and 1930s with a new soundtrack
 
 ---
 
-## Adaptacje teatralne w Polsce
+## Translation Problems and Cultural Differences
 
-### Teatr Polskiego Radia
-24. **Pierwsza adaptacja (1978)** - Premiera 2 lipca 1978, tłumaczenie: Bronisław Zieliński, reżyseria: Juliusz Owidzki
-25. **Obsada pierwszej adaptacji** - Jan Englert (Jake Barnes), Ewa Wiśniewska (Brett Ashley), Krzysztof Chamiec (Mike Campbell)
-26. **Druga adaptacja (1983)** - Premiera 18 grudnia 1983, reżyseria: Andrzej Zakrzewski
-27. **Obsada drugiej adaptacji** - Krzysztof Kołbasiuk (Jake Barnes), Anna Romantowska (Brett Ashley), Piotr Fronczewski (Robert Cohn), Marek Kondrat (Mike Campbell)
+### Title Issues
+16. **Title Change** - From "Słońce też wschodzi" (Zieliński) to "Zaś słońce wschodzi" (Potulny)
+17. **Biblical Justification** - The new title better reflects the quote from Ecclesiastes in Old Testament language
 
-### Współczesny teatr
-28. **Teatr bez Nazwy (2022)** - Premiera spektaklu w Białymstoku, podkreślający aktualność manifestu "straconego pokolenia"
-
----
-
-## Nawiązania kulturowe i lokalne połączenia
-
-### Koncepcja "straconego pokolenia" w Polsce
-29. **Polskie "stracone pokolenie PRL"** - Sławomir Koper napisał książkę o polskich artystach PRL-u jako lokalnym odpowiedniku straconego pokolenia (Zbigniew Cybulski, Edward Stachura, Stanisław Grochowiak)
-30. **Różnice polityczne** - W przeciwieństwie do amerykańskiego pierwowzoru, polskie "stracone pokolenie" nie było zdeterminowane polityką
-31. **Hemingway i komunizm** - Pisarz otwarcie przyznawał się do poglądów komunistycznych, opisał polskiego komunistę Karola Świerczewskiego w "Komu bije dzwon"
-
-### Wpływ na polską kulturę
-32. **Model niezależnej kobiety** - Postać Brett Ashley stała się wzorem dla młodych Polek jako symbol wyzwolonej, niezależnej kobiety
-33. **Popularyzacja podróży** - Książka spopularyzowała wśród zamożniejszych Polaków wyjazdy do Francji i Hiszpanii
+### Stylistic Challenges
+18. **Linguistic Minimalism** - The original consists of short words fitting press dispatches (15 letters maximum)
+19. **Natural Dialogues** - Problem of conveying that friends' conversations sounded natural regardless of era
+20. **Avoiding Archaization** - Difficulty in departing from bookish language toward colloquial without losing literary class
 
 ---
 
-## Polski fan community
+## Educational Context in Poland
 
-### Platformy internetowe
-34. **Lubimyczytać.pl** - Główna polska platforma czytelnicza z aktywnymi dyskusjami o "Słońce też wschodzi"
-35. **BiblioNETka.pl** - Serwis rekomendacji książek z recenzjami czytelników
-36. **nakanapie.pl** - Platforma z grupami dyskusyjnymi i blogami o książkach
-37. **Wyzwanie czytelnicze** - Książka została włączona do wyzwania czytelniczego na sierpień 2025 na Lubimyczytać
-
-### Opinie współczesnych czytelników
-38. **Kryzys popularności** - Niektórzy polscy czytelnicy obserwują spadek popularności Hemingwaya: "jego popularność obecnie przeżywa kryzys"
-39. **Problem z przestarzałością** - Część recenzentów uważa, że proza Hemingwaya nie starzeje się najlepiej, a język wymaga modernizacji
+### Position in Education System
+21. **Not Mandatory Reading** - Unlike "The Old Man and the Sea," "The Sun Also Rises" is not on the high school graduation reading list
+22. **Presence in Academic Programs** - University of Warsaw includes Hemingway in "American Literature II" course
+23. **Modernist Context** - In universities studied alongside Fitzgerald and Faulkner as representative of American modernism
 
 ---
 
-## Akademickie interpretacje polskich badaczy
+## Polish Theatrical Adaptations
 
-### Uniwersyteckie badania
-40. **Hemingway w kanonie** - Pozostaje jednym ze standardów miary w amerykańskiej literaturze obok Faulknera
-41. **Analiza stylu** - Polski akademicy podkreślają "prosty, konkretny, precyzyjny, przejrzysty" styl Hemingwaya
-42. **Teoria góry lodowej** - Polscy literaturoznawcy analizują ukrytą obecność wojny i przemocy w pozornie spokojnych scenach
-43. **Studia genderowe** - Współczesne polskie interpretacje skupiają się na płynnych rolach płciowych w powieści, charakterystycznych dla "szalonych lat 20."
+### Polish Radio Theatre
+24. **First Adaptation (1978)** - Premiere July 2, 1978, translation: Bronisław Zieliński, direction: Juliusz Owidzki
+25. **First Adaptation Cast** - Jan Englert (Jake Barnes), Ewa Wiśniewska (Brett Ashley), Krzysztof Chamiec (Mike Campbell)
+26. **Second Adaptation (1983)** - Premiere December 18, 1983, direction: Andrzej Zakrzewski
+27. **Second Adaptation Cast** - Krzysztof Kołbasiuk (Jake Barnes), Anna Romantowska (Brett Ashley), Piotr Fronczewski (Robert Cohn), Marek Kondrat (Mike Campbell)
 
-### Kontekst krakowski i małopolski
-44. **Uniwersytet Jagielloński** - Hemingway studiowany w kontekście literatury modernistycznej XX wieku
-45. **Krakowskie koła czytelnicze** - Aktywne społeczności czytelnicze w Krakowie organizujące dyskusje o literaturze amerykańskiej
+### Contemporary Theatre
+28. **Nameless Theatre (2022)** - Premiere performance in Białystok, emphasizing the relevance of the "lost generation" manifesto
 
 ---
 
-*Dokument przygotowany w ramach badania lokalnego kontekstu kulturowego dla projektu 37degrees*
+## Cultural References and Local Connections
+
+### "Lost Generation" Concept in Poland
+29. **Polish "Lost Generation of PRL"** - Sławomir Koper wrote a book about Polish PRL artists as local counterpart to the lost generation (Zbigniew Cybulski, Edward Stachura, Stanisław Grochowiak)
+30. **Political Differences** - Unlike the American original, the Polish "lost generation" was not determined by politics
+31. **Hemingway and Communism** - The writer openly admitted to communist views, described Polish communist Karol Świerczewski in "For Whom the Bell Tolls"
+
+### Influence on Polish Culture
+32. **Independent Woman Model** - Brett Ashley's character became a model for young Polish women as a symbol of liberated, independent woman
+33. **Travel Popularization** - The book popularized trips to France and Spain among wealthier Poles
+
+---
+
+## Polish Fan Community
+
+### Online Platforms
+34. **Lubimyczytać.pl** - Main Polish reading platform with active discussions about "The Sun Also Rises"
+35. **BiblioNETka.pl** - Book recommendation service with reader reviews
+36. **nakanapie.pl** - Platform with discussion groups and book blogs
+37. **Reading Challenge** - The book was included in the August 2025 reading challenge on Lubimyczytać
+
+### Contemporary Readers' Opinions
+38. **Popularity Crisis** - Some Polish readers observe a decline in Hemingway's popularity: "his popularity is currently experiencing a crisis"
+39. **Obsolescence Problem** - Some reviewers believe that Hemingway's prose doesn't age well and the language requires modernization
+
+---
+
+## Academic Interpretations by Polish Scholars
+
+### University Research
+40. **Hemingway in Canon** - Remains one of the standards of measure in American literature alongside Faulkner
+41. **Style Analysis** - Polish academics emphasize Hemingway's "simple, concrete, precise, clear" style
+42. **Iceberg Theory** - Polish literary scholars analyze the hidden presence of war and violence in seemingly calm scenes
+43. **Gender Studies** - Contemporary Polish interpretations focus on fluid gender roles in the novel, characteristic of the "roaring twenties"
+
+### Kraków and Lesser Poland Context
+44. **Jagiellonian University** - Hemingway studied in the context of 20th-century modernist literature
+45. **Kraków Reading Circles** - Active reading communities in Kraków organizing discussions about American literature
+
+---
+
+*Document prepared as part of local cultural context research for the 37degrees project*

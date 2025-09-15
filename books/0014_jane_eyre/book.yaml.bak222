@@ -1,0 +1,253 @@
+book_info:
+  title: Jane Eyre
+  title_pl: Jane Eyre
+  author: Charlotte Brontë
+  year: 1847
+  genre: Novel,Gothic
+  reading_time: 15-18 hours
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-15T14:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 10
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 10
+    total: 73
+    percentile: 91
+
+  themes:
+    universal:
+      - key: "individual_dignity"
+        title: "Intrinsic Human Worth and Dignity"
+        description: "Jane's assertion of equality regardless of social status or wealth demonstrates the universal principle that human worth is inherent, not dependent on external circumstances"
+        evidence: "Famous quote: 'Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?' establishes this as central theme"
+        credibility: 0.95
+
+      - key: "emotional_autonomy"
+        title: "Emotional Independence and Self-Determination"
+        description: "The novel demonstrates that healthy relationships require emotional autonomy and that love should not involve losing one's identity or self-respect"
+        evidence: "Jane refuses to become Rochester's mistress, maintaining: 'I am a free human being with an independent will' - pioneering concept of emotional boundaries"
+        credibility: 0.92
+
+      - key: "toxic_relationship_patterns"
+        title: "Recognition of Manipulative Relationship Dynamics"
+        description: "Rochester's deception, emotional manipulation, and power imbalances serve as a catalog of warning signs in relationships"
+        evidence: "Contemporary Gen Z analysis on TikTok identifies Rochester as 'walking red flag' demonstrating timeless relevance of recognizing manipulation"
+        credibility: 0.88
+
+      - key: "education_as_liberation"
+        title: "Education as Pathway to Personal Freedom"
+        description: "Jane's education enables her social mobility and intellectual independence, demonstrating education's transformative power across all social contexts"
+        evidence: "Jane's work as governess and her intellectual equality with Rochester shows education transcending class barriers - proven prophetic over 175+ years"
+        credibility: 0.94
+
+      - key: "mental_health_stigma"
+        title: "Historical Mental Health Representation and Stigma"
+        description: "Bertha Mason's portrayal reflects 19th-century mental health misunderstanding, providing case study in how societies historically treated psychological conditions"
+        evidence: "Modern reinterpretation through Jean Rhys's 'Wide Sargasso Sea' and contemporary feminist criticism shows evolving understanding of mental health"
+        credibility: 0.87
+
+      - key: "resilience_development"
+        title: "Building Psychological Resilience Through Adversity"
+        description: "Jane's journey from traumatic childhood to self-actualized adult demonstrates how resilience can be developed despite severe early disadvantages"
+        evidence: "Red Room trauma to successful independence arc resonates with contemporary understanding of post-traumatic growth and resilience building"
+        credibility: 0.91
+
+    localized:
+      en:
+        - key: "feminist_literary_foundation"
+          title: "Foundational Text of Feminist Literature"
+          description: "Established templates for female agency and equality that influenced generations of English-language feminist writers"
+          evidence: "R.B. Martin identified it as 'first major feminist novel,' influencing writers from Virginia Woolf to Margaret Atwood"
+
+        - key: "gothic_romance_genre"
+          title: "Creator of Gothic Romance Genre"
+          description: "Established the template for psychological Gothic romance that dominates English-language literature"
+          evidence: "Ellen Moers identified it as prime example of Female Gothic, influencing countless English-language gothic novels"
+
+        - key: "narrative_innovation"
+          title: "Revolutionary First-Person Female Narrative"
+          description: "Pioneered intimate first-person psychological narrative that influenced modernist writers like Joyce and Woolf"
+          evidence: "Called 'first historian of private consciousness' and literary ancestor of Marcel Proust and James Joyce"
+
+      pl:
+        - key: "educational_accessibility"
+          title: "Educational Access and Cultural Integration"
+          description: "Available through Wolne Lektury platform, demonstrating commitment to accessible classic literature in Polish culture"
+          evidence: "Free digital access since 2023, widespread library availability, and educational publishing support"
+
+        - key: "feminist_resonance"
+          title: "Resonance with Polish Women's Rights History"
+          description: "Jane's struggle for independence parallels Polish women's historical fight for equality and education rights"
+          evidence: "Polish readers connect Jane's economic independence quest with Polish women's emancipation movements"
+
+        - key: "religious_complexity"
+          title: "Religious and Moral Philosophy Alignment"
+          description: "Complex religious themes resonate in traditionally Catholic Poland while challenging institutional authority"
+          evidence: "Polish academic Natasza Szutta analyzes Jane's moral decision-making through Catholic philosophical frameworks"
+
+      de:
+        - key: "bildungsroman_tradition"
+          title: "Perfect Example of German Bildungsroman Form"
+          description: "Jane's psychological and moral development follows classical German coming-of-age narrative structure"
+          evidence: "Novel follows Bildungsroman tradition of moral development from childhood to adulthood, pioneering 'heroic female bildungsroman'"
+
+        - key: "gothic_origins"
+          title: "Connection to German Gothic Literary Origins"
+          description: "Gothic elements trace back to German literary traditions, creating cultural bridge between German and English literature"
+          evidence: "Gothic genre originated in Germany before becoming popular in England; Jane Eyre represents successful cultural transmission"
+
+        - key: "psychoanalytic_framework"
+          title: "Rich Foundation for German Psychoanalytic Theory"
+          description: "Provides extensive material for Freudian and Lacanian analysis popular in German academic tradition"
+          evidence: "German scholars extensively apply psychoanalytic theories to examine unconscious desires and repressed elements in the novel"
+
+      fr:
+        - key: "romantic_literary_tradition"
+          title: "Alignment with French Romantic Literary Values"
+          description: "Passionate individualism and emotional intensity align with French Romantic movement principles"
+          evidence: "Translation history and adaptation success in French-speaking regions demonstrates cultural compatibility"
+
+        - key: "social_criticism"
+          title: "Class Consciousness and Social Critique"
+          description: "Sharp analysis of social hierarchies resonates with French tradition of literary social criticism"
+          evidence: "Critical examination of Victorian class system appeals to French intellectual tradition of social analysis"
+
+        - key: "psychological_realism"
+          title: "Psychological Depth and Introspection"
+          description: "Deep psychological portraiture aligns with French literary appreciation for character psychology"
+          evidence: "Influence on psychological realism movement that had significant impact on French literature"
+
+      es:
+        - key: "independence_struggle"
+          title: "Personal Independence and Self-Determination"
+          description: "Jane's fight for autonomy resonates with Spanish cultural values of personal dignity and independence"
+          evidence: "Themes of individual worth transcending social status align with Spanish cultural emphasis on personal honor"
+
+        - key: "religious_questioning"
+          title: "Complex Relationship with Religious Authority"
+          description: "Jane's questioning of religious extremism while maintaining faith resonates in Spanish Catholic context"
+          evidence: "Critique of religious fanaticism while preserving spiritual values appeals to Spanish religious complexity"
+
+        - key: "family_and_belonging"
+          title: "Search for True Family and Belonging"
+          description: "Jane's quest for genuine familial connections resonates with strong Spanish family cultural values"
+          evidence: "Rivers family acceptance and final union with Rochester emphasizes importance of chosen family bonds"
+
+      pt:
+        - key: "social_mobility"
+          title: "Education and Social Advancement"
+          description: "Jane's rise through education and merit resonates with Portuguese values of social advancement through achievement"
+          evidence: "Governess position and intellectual equality demonstrate education as pathway to social improvement"
+
+        - key: "moral_integrity"
+          title: "Moral Principles Over Material Advantage"
+          description: "Jane's moral choices over financial security align with Portuguese cultural emphasis on ethical behavior"
+          evidence: "Refusal to be Rochester's mistress despite financial hardship demonstrates moral integrity over convenience"
+
+        - key: "resilient_individualism"
+          title: "Personal Strength and Resilience"
+          description: "Jane's ability to overcome adversity resonates with Portuguese cultural values of perseverance and strength"
+          evidence: "Survival and success despite childhood trauma and social disadvantages demonstrates individual resilience"
+
+      ja:
+        - key: "duty_vs_emotion"
+          title: "Balance Between Duty and Personal Emotion"
+          description: "Jane's struggle between moral duty and emotional desires resonates with Japanese concepts of giri vs ninjo"
+          evidence: "Conflict between staying with Rochester and moral propriety reflects traditional Japanese tension between obligation and feeling"
+
+        - key: "self_improvement"
+          title: "Continuous Self-Development and Growth"
+          description: "Jane's constant intellectual and moral development aligns with Japanese values of continuous self-improvement"
+          evidence: "Educational advancement and character development throughout novel mirrors Japanese emphasis on lifelong learning"
+
+        - key: "social_harmony"
+          title: "Finding Balance Within Social Structures"
+          description: "Jane's eventual integration into society while maintaining individuality resonates with Japanese concepts of social harmony"
+          evidence: "Final marriage as equals represents successful integration of individual needs with social expectations"
+
+      ko:
+        - key: "educational_achievement"
+          title: "Education as Social Advancement Tool"
+          description: "Jane's use of education to improve her position resonates strongly with Korean emphasis on educational achievement"
+          evidence: "Governess work and intellectual development as pathway to better life aligns with Korean educational values"
+
+        - key: "family_honor"
+          title: "Maintaining Personal and Family Honor"
+          description: "Jane's moral choices to preserve dignity resonate with Korean concepts of preserving honor and reputation"
+          evidence: "Refusal to compromise moral standards despite difficulties reflects Korean emphasis on maintaining dignity"
+
+        - key: "perseverance_success"
+          title: "Success Through Perseverance and Hard Work"
+          description: "Jane's eventual success through persistent effort aligns with Korean cultural values of achieving through dedication"
+          evidence: "Journey from disadvantaged orphan to independent woman demonstrates Korean ideals of success through perseverance"
+
+      hi:
+        - key: "dharma_conflict"
+          title: "Moral Duty and Righteous Path (Dharma)"
+          description: "Jane's moral decision-making process resonates with Hindu concepts of dharma and righteous living"
+          evidence: "Choice between passion and moral duty reflects dharmic principles of choosing ethical path despite personal cost"
+
+        - key: "karma_consequences"
+          title: "Actions and Their Consequences (Karma)"
+          description: "Character actions and their outcomes reflect karmic principles of cause and effect in moral behavior"
+          evidence: "Rochester's eventual consequences for deception and Jane's rewards for moral behavior demonstrate karmic justice"
+
+        - key: "spiritual_journey"
+          title: "Spiritual Development and Self-Realization"
+          description: "Jane's journey toward self-knowledge and moral development aligns with Hindu concepts of spiritual growth"
+          evidence: "Progressive spiritual and moral development throughout novel reflects Hindu emphasis on spiritual evolution"
+
+  metadata:
+    target_audience:
+      primary: "Young adults and adults (16+)"
+      secondary: "Literature students and feminist readers"
+      considerations: "Requires mature understanding of relationship dynamics and historical context"
+
+    content_warnings:
+      - "Mental health stigma and historical psychiatric treatment"
+      - "Emotional manipulation and toxic relationship patterns"
+      - "Child abuse and neglect themes"
+      - "Gothic horror elements and psychological suspense"
+      - "Dated representation of mental illness and colonial attitudes"
+
+    educational_value:
+      primary_lessons:
+        - "Recognizing healthy vs. unhealthy relationship dynamics"
+        - "Understanding historical evolution of women's rights"
+        - "Developing emotional intelligence and boundary-setting"
+        - "Appreciating literary innovation and narrative techniques"
+
+      discussion_topics:
+        - "Contemporary relevance of feminist themes"
+        - "Evolution of mental health understanding"
+        - "Class and social mobility in historical context"
+        - "Gothic literature and psychological symbolism"
+
+    cultural_considerations:
+      strengths:
+        - "Universal themes of dignity and self-worth"
+        - "Pioneer feminist literature with lasting influence"
+        - "Rich psychological character development"
+        - "Educational value for relationship awareness"
+
+      limitations:
+        - "19th-century attitudes toward mental illness"
+        - "Limited racial and cultural diversity"
+        - "Some problematic romantic relationship elements"
+        - "Historical context required for full understanding"
+
+    accessibility:
+      reading_level: "Advanced secondary to university level"
+      language_complexity: "High - Victorian prose requires concentration"
+      cultural_barriers: "Moderate - Victorian social context needs explanation"
+      contemporary_relevance: "High - themes remain relevant across cultures"
+
+  overall_confidence: 0.91

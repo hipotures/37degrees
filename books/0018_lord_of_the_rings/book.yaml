@@ -1,15 +1,13 @@
 book_info:
-  title: "The Lord of the Rings"
-  title_pl: "Władca Pierścieni"
-  author: "J.R.R. Tolkien"
+  title: The Lord of the Rings
+  title_pl: Władca Pierścieni
+  author: J.R.R. Tolkien
   year: 1954–1955
-  genre: "Fantasy,High fantasy"
-  reading_time: "40-50 hours"
-
+  genre: Fantasy,High fantasy
+  reading_time: 40-50 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-01-14T21:15:00"
-
+  version: '3.0'
+  processed_at: '2025-01-14T21:15:00'
   scores:
     controversy: 7
     philosophical_depth: 10
@@ -21,175 +19,225 @@ afa_analysis:
     social_roles: 6
     total: 67
     percentile: 95
-
   composite_scores:
     depth:
       value: 9.0
-      category: "high"
+      category: high
     heat:
       value: 7.8
-      category: "high"
-
+      category: high
   themes:
     universal:
-      - id: "dark_drama_0"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "45 controversial aspects researched including racism allegations, occult theories, and religious bans across multiple countries"
-        source: "dark_drama"
-      - id: "symbols_meanings_1"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Complex theological themes with Jungian archetypes and multiple valid interpretations (Christian, ecological, psychological)"
-        source: "symbols_meanings"
-      - id: "culture_impact_2"
-        type: "FACT"
-        credibility: 0.95
-        content: "Defined modern fantasy genre, 150 million books sold worldwide, countless adaptations across all media"
-        source: "culture_impact"
-      - id: "youth_digital_3"
-        type: "FACT"
-        credibility: 0.95
-        content: "Over 42 million #lotr posts on social media, active BookTok community, viral memes connecting to mental health"
-        source: "youth_digital"
-      - id: "reality_wisdom_4"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Eerily prophetic about technology surveillance, environmental crisis, and power corruption - predictions proved accurate"
-        source: "reality_wisdom"
-      - id: "writing_innovation_5"
-        type: "FACT"
-        credibility: 0.95
-        content: "Created entirely new literary form - modern fantasy with linguistic worldbuilding and secondary world creation"
-        source: "writing_innovation"
-      - id: "facts_history_6"
-        type: "FACT"
-        credibility: 0.95
-        content: "18-year writing process with complex publication history, academic career influenced worldbuilding approach"
-        source: "facts_history"
-      - id: "content_warnings_7"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Mixed risk profile across platforms due to controversial interpretations rather than direct content"
-        source: "content_warnings"
-
+    - id: dark_drama_0
+      type: BOMBSHELL
+      credibility: 0.9
+      content: 45 controversial aspects researched including racism allegations, occult theories, and religious bans across
+        multiple countries
+      source: dark_drama
+    - id: symbols_meanings_1
+      type: ANALYSIS
+      credibility: 0.85
+      content: Complex theological themes with Jungian archetypes and multiple valid interpretations (Christian, ecological,
+        psychological)
+      source: symbols_meanings
+    - id: culture_impact_2
+      type: FACT
+      credibility: 0.95
+      content: Defined modern fantasy genre, 150 million books sold worldwide, countless adaptations across all media
+      source: culture_impact
+    - id: youth_digital_3
+      type: FACT
+      credibility: 0.95
+      content: 'Over 42 million #lotr posts on social media, active BookTok community, viral memes connecting to mental health'
+      source: youth_digital
+    - id: reality_wisdom_4
+      type: ANALYSIS
+      credibility: 0.85
+      content: Eerily prophetic about technology surveillance, environmental crisis, and power corruption - predictions proved
+        accurate
+      source: reality_wisdom
+    - id: writing_innovation_5
+      type: FACT
+      credibility: 0.95
+      content: Created entirely new literary form - modern fantasy with linguistic worldbuilding and secondary world creation
+      source: writing_innovation
+    - id: facts_history_6
+      type: FACT
+      credibility: 0.95
+      content: 18-year writing process with complex publication history, academic career influenced worldbuilding approach
+      source: facts_history
+    - id: content_warnings_7
+      type: ANALYSIS
+      credibility: 0.85
+      content: Mixed risk profile across platforms due to controversial interpretations rather than direct content
+      source: content_warnings
     localized:
       en:
-        cultural_impact: "Foundational work of English-language fantasy literature, established genre conventions and academic legitimacy"
-        key_editions: ["Allen & Unwin first editions", "Ballantine authorized edition 1965", "BBC Radio adaptations"]
-        reception_notes: "Initially mixed critical reception but massive popular success, now canonical literature"
-        educational_status: "Widely taught in university literature courses across UK, US, Canada, Australia"
-        local_themes: ["Northern heroic code", "Anti-modernist sentiment", "English countryside nostalgia"]
-
+        cultural_impact: Foundational work of English-language fantasy literature, established genre conventions and academic
+          legitimacy
+        key_editions:
+        - Allen & Unwin first editions
+        - Ballantine authorized edition 1965
+        - BBC Radio adaptations
+        reception_notes: Initially mixed critical reception but massive popular success, now canonical literature
+        educational_status: Widely taught in university literature courses across UK, US, Canada, Australia
+        local_themes:
+        - Northern heroic code
+        - Anti-modernist sentiment
+        - English countryside nostalgia
       pl:
-        cultural_impact: "Strong presence in Polish fantasy culture with high-quality translations and academic interest"
-        key_editions: ["PIW editions", "Amber publishing house", "Illustrated editions"]
-        reception_notes: "Popular among youth and adults, significant social media presence"
-        educational_status: "Studied in comparative literature and fantasy genre courses"
-        local_themes: ["Post-war reconstruction parallels", "Catholic symbolism resonance", "Environmental themes"]
-
+        cultural_impact: Strong presence in Polish fantasy culture with high-quality translations and academic interest
+        key_editions:
+        - PIW editions
+        - Amber publishing house
+        - Illustrated editions
+        reception_notes: Popular among youth and adults, significant social media presence
+        educational_status: Studied in comparative literature and fantasy genre courses
+        local_themes:
+        - Post-war reconstruction parallels
+        - Catholic symbolism resonance
+        - Environmental themes
       de:
-        cultural_impact: "Significant influence on German fantasy literature and philosophical interpretation"
-        key_editions: ["Klett-Cotta editions", "Academic translations", "Illustrated versions"]
-        reception_notes: "Strong academic tradition of Tolkien studies in German universities"
-        educational_status: "Part of Anglistik curriculum, Germanic studies programs"
-        local_themes: ["Germanic mythology connections", "Romantic movement influence", "Medieval literature parallels"]
-
+        cultural_impact: Significant influence on German fantasy literature and philosophical interpretation
+        key_editions:
+        - Klett-Cotta editions
+        - Academic translations
+        - Illustrated versions
+        reception_notes: Strong academic tradition of Tolkien studies in German universities
+        educational_status: Part of Anglistik curriculum, Germanic studies programs
+        local_themes:
+        - Germanic mythology connections
+        - Romantic movement influence
+        - Medieval literature parallels
       fr:
-        cultural_impact: "Moderate reception with focus on literary and philosophical analysis"
-        key_editions: ["Christian Bourgois Editeur", "Pocket editions", "Scholarly translations"]
-        reception_notes: "Academic interest in structural and mythological aspects"
-        educational_status: "Included in comparative literature and fantasy studies"
-        local_themes: ["Mythological structuralism", "Arthurian legend connections", "Catholic allegory debates"]
-
+        cultural_impact: Moderate reception with focus on literary and philosophical analysis
+        key_editions:
+        - Christian Bourgois Editeur
+        - Pocket editions
+        - Scholarly translations
+        reception_notes: Academic interest in structural and mythological aspects
+        educational_status: Included in comparative literature and fantasy studies
+        local_themes:
+        - Mythological structuralism
+        - Arthurian legend connections
+        - Catholic allegory debates
       es:
-        cultural_impact: "Growing popularity in Spanish-speaking countries with multiple translation efforts"
-        key_editions: ["Minotauro editions", "Various regional translations", "Youth-oriented editions"]
-        reception_notes: "Strong young adult readership and fantasy community adoption"
-        educational_status: "Emerging in university literature programs"
-        local_themes: ["Epic tradition parallels", "Colonial discourse critiques", "Environmental consciousness"]
-
+        cultural_impact: Growing popularity in Spanish-speaking countries with multiple translation efforts
+        key_editions:
+        - Minotauro editions
+        - Various regional translations
+        - Youth-oriented editions
+        reception_notes: Strong young adult readership and fantasy community adoption
+        educational_status: Emerging in university literature programs
+        local_themes:
+        - Epic tradition parallels
+        - Colonial discourse critiques
+        - Environmental consciousness
       pt:
-        cultural_impact: "Established presence in Portuguese and Brazilian literary culture"
-        key_editions: ["Europress editions", "Brazilian translations", "Academic editions"]
-        reception_notes: "Popular in both European Portuguese and Brazilian markets"
-        educational_status: "Studied in comparative literature courses"
-        local_themes: ["Exploration narratives", "Colonial experience parallels", "Environmental themes"]
-
+        cultural_impact: Established presence in Portuguese and Brazilian literary culture
+        key_editions:
+        - Europress editions
+        - Brazilian translations
+        - Academic editions
+        reception_notes: Popular in both European Portuguese and Brazilian markets
+        educational_status: Studied in comparative literature courses
+        local_themes:
+        - Exploration narratives
+        - Colonial experience parallels
+        - Environmental themes
       ja:
-        cultural_impact: "Significant influence on Japanese fantasy and manga/anime culture"
-        key_editions: ["Iwanami Shoten", "Multiple manga adaptations", "Academic translations"]
-        reception_notes: "Strong youth culture adoption, influence on creative industries"
-        educational_status: "Part of English literature and comparative culture studies"
-        local_themes: ["Honor and duty concepts", "Nature spirituality", "Group vs individual dynamics"]
-
+        cultural_impact: Significant influence on Japanese fantasy and manga/anime culture
+        key_editions:
+        - Iwanami Shoten
+        - Multiple manga adaptations
+        - Academic translations
+        reception_notes: Strong youth culture adoption, influence on creative industries
+        educational_status: Part of English literature and comparative culture studies
+        local_themes:
+        - Honor and duty concepts
+        - Nature spirituality
+        - Group vs individual dynamics
       ko:
-        cultural_impact: "Growing presence in Korean fantasy culture and digital media"
-        key_editions: ["Sigongsa publications", "Webtoon adaptations", "Digital editions"]
-        reception_notes: "Popular among digital natives and fantasy gaming communities"
-        educational_status: "Included in Western literature courses"
-        local_themes: ["Confucian virtue ethics", "Technological skepticism", "Community harmony values"]
-
+        cultural_impact: Growing presence in Korean fantasy culture and digital media
+        key_editions:
+        - Sigongsa publications
+        - Webtoon adaptations
+        - Digital editions
+        reception_notes: Popular among digital natives and fantasy gaming communities
+        educational_status: Included in Western literature courses
+        local_themes:
+        - Confucian virtue ethics
+        - Technological skepticism
+        - Community harmony values
       hi:
-        cultural_impact: "Emerging interest in Indian English literature and fantasy studies"
-        key_editions: ["Penguin India", "Academic translations", "Digital platforms"]
-        reception_notes: "Growing readership among educated urban populations"
-        educational_status: "Part of postcolonial and comparative literature studies"
-        local_themes: ["Epic tradition parallels", "Dharmic concepts", "Environmental philosophy"]
-
+        cultural_impact: Emerging interest in Indian English literature and fantasy studies
+        key_editions:
+        - Penguin India
+        - Academic translations
+        - Digital platforms
+        reception_notes: Growing readership among educated urban populations
+        educational_status: Part of postcolonial and comparative literature studies
+        local_themes:
+        - Epic tradition parallels
+        - Dharmic concepts
+        - Environmental philosophy
   formats:
-    critical_debate:
-      name: "critical_debate"
-      duration: 12
+    narrative_reconstruction:
+      name: narrative_reconstruction
+      duration: 18
       hosts:
-        host_a: "passionate advocate defending the work"
-        host_b: "critical skeptic questioning value"
+        host_a: Detective/investigator piecing together narrative puzzles
+        host_b: Witness/informant providing crucial story details and clues
       structure:
-        - segment: 1
-          time_range: "00:00-02:24"
-          topic: "opening_positions"
-          lead: "host_a"
-          description: "45 controversial aspects researched including racism allegations, occult theories, and religious bans across multiple countries"
-        - segment: 2
-          time_range: "02:24-04:48"
-          topic: "main_arguments"
-          lead: "host_b"
-          description: "Complex theological themes with Jungian archetypes and multiple valid interpretations (Christian, ecological, psychological)"
-        - segment: 3
-          time_range: "04:48-07:12"
-          topic: "counterarguments"
-          lead: "host_a"
-          description: "Defined modern fantasy genre, 150 million books sold worldwide, countless adaptations across all media"
-        - segment: 4
-          time_range: "07:12-09:36"
-          topic: "evidence_analysis"
-          lead: "host_b"
-          description: "Over 42 million #lotr posts on social media, active BookTok community, viral memes connecting to mental health"
-        - segment: 5
-          time_range: "09:36-12:00"
-          topic: "resolution"
-          lead: "host_a"
-          description: "Eerily prophetic about technology surveillance, environmental crisis, and power corruption - predictions proved accurate"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: mystery_setup
+        lead: host_a
+        description: Identifying narrative puzzles and mysteries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: evidence_gathering
+        lead: host_b
+        description: Presenting key clues and story evidence
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: timeline_reconstruction
+        lead: host_a
+        description: Piecing together chronology and causality
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: unreliable_elements
+        lead: host_b
+        description: Identifying what can and cannot be trusted
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: hidden_truth
+        lead: host_a
+        description: Revealing the true story beneath the surface
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: final_reconstruction
+        lead: host_b
+        description: Complete narrative understanding achieved
       prompts:
-        host_a: "You are {male_name}, passionately defending 'The Lord of the Rings'. Address controversies: 45 controversial aspects including racism allegations, occult theories, religious bans. Argue that these controversies miss the deeper philosophical and literary value of Tolkien's masterwork."
-        host_b: "You are {female_name}, critically questioning 'The Lord of the Rings'. Point out problems with racist interpretations, dated gender roles, religious controversies. Challenge whether the work deserves its canonical status given these issues. Maintain respectful skepticism while acknowledging cultural impact."
-
+        host_a: You are {male_name}, investigating 'The Lord of the Rings' narrative mysteries. Piece together clues like
+          a detective.
+        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
   metadata:
-    target_audience: "16+"
+    target_audience: 16+
     content_warnings:
-      - "controversial interpretations discussion"
-      - "historical racism allegations"
-      - "religious content analysis"
-      - "complex philosophical themes"
+    - controversial interpretations discussion
+    - historical racism allegations
+    - religious content analysis
+    - complex philosophical themes
     educational_elements:
-      - "High fantasy genre characteristics"
-      - "Linguistic worldbuilding techniques"
-      - "Historical context of 1954-1955"
-      - "Mythological and archetypal analysis"
-      - "Literary influence and canon formation"
+    - High fantasy genre characteristics
+    - Linguistic worldbuilding techniques
+    - Historical context of 1954-1955
+    - Mythological and archetypal analysis
+    - Literary influence and canon formation
     production_notes:
-      intro_style: "epic, orchestral opening reflecting the monumental scale"
-      transitions: "subtle musical bridges with fantasy elements"
-      outro_style: "contemplative fade acknowledging both greatness and controversies"
-
+      intro_style: epic, orchestral opening reflecting the monumental scale
+      transitions: subtle musical bridges with fantasy elements
+      outro_style: contemplative fade acknowledging both greatness and controversies
   overall_confidence: 0.88

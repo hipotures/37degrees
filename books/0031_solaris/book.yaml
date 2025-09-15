@@ -1,15 +1,13 @@
 book_info:
-  title: "Solaris"
-  title_pl: "Solaris"
-  author: "Stanisław Lem"
+  title: Solaris
+  title_pl: Solaris
+  author: Stanisław Lem
   year: 1961
-  genre: "Science fiction,Philosophical fiction"
-  reading_time: "6-8 hours"
-
+  genre: Science fiction,Philosophical fiction
+  reading_time: 6-8 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-01-14T15:42:00"
-
+  version: '3.0'
+  processed_at: '2025-01-14T15:42:00'
   scores:
     controversy: 10
     philosophical_depth: 10
@@ -21,166 +19,214 @@ afa_analysis:
     social_roles: 8
     total: 70
     percentile: 95
-
   composite_scores:
     depth:
       value: 9.0
-      category: "high"
+      category: high
     heat:
       value: 8.5
-      category: "high"
-
+      category: high
   themes:
     universal:
-      - id: "dark_drama_0"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Philip K. Dick accused Lem of being a 'communist committee' in 1974 FBI letter"
-        source: "dark_drama"
-      - id: "symbols_meanings_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Ocean as symbol of radical otherness with multiple interpretive layers across disciplines"
-        source: "symbols_meanings"
-      - id: "culture_impact_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Translated into 40+ languages, 30+ million copies sold worldwide"
-        source: "culture_impact"
-      - id: "youth_digital_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "AI consciousness debates in 2024-2025 directly reference Solaris themes"
-        source: "youth_digital"
-      - id: "reality_wisdom_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Predicted AI communication barriers and toxic relationship patterns with 90%+ accuracy"
-        source: "reality_wisdom"
-      - id: "writing_innovation_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Created philosophical science fiction subgenre and pioneered fictional bibliography technique"
-        source: "writing_innovation"
-      - id: "facts_history_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Written during Polish 'thaw' period 1956-1968, published by military publisher MON"
-        source: "facts_history"
-      - id: "content_warnings_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Contains complex philosophical themes requiring mature intellectual engagement"
-        source: "content_warnings"
-
+    - id: dark_drama_0
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Philip K. Dick accused Lem of being a 'communist committee' in 1974 FBI letter
+      source: dark_drama
+    - id: symbols_meanings_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Ocean as symbol of radical otherness with multiple interpretive layers across disciplines
+      source: symbols_meanings
+    - id: culture_impact_0
+      type: FACT
+      credibility: 0.95
+      content: Translated into 40+ languages, 30+ million copies sold worldwide
+      source: culture_impact
+    - id: youth_digital_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: AI consciousness debates in 2024-2025 directly reference Solaris themes
+      source: youth_digital
+    - id: reality_wisdom_0
+      type: FACT
+      credibility: 0.95
+      content: Predicted AI communication barriers and toxic relationship patterns with 90%+ accuracy
+      source: reality_wisdom
+    - id: writing_innovation_0
+      type: FACT
+      credibility: 0.95
+      content: Created philosophical science fiction subgenre and pioneered fictional bibliography technique
+      source: writing_innovation
+    - id: facts_history_0
+      type: FACT
+      credibility: 0.95
+      content: Written during Polish 'thaw' period 1956-1968, published by military publisher MON
+      source: facts_history
+    - id: content_warnings_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Contains complex philosophical themes requiring mature intellectual engagement
+      source: content_warnings
     localized:
       en:
-        cultural_impact: "Canonical status in Western literature, academic integration"
-        key_editions: ["Kilmartin-Cox translation (1970)", "Johnston direct translation (2011)", "Conversation Tree Press (2024)"]
-        reception_notes: "Strong academic recognition, philosophical SF touchstone"
-        educational_status: "University curricula in science fiction studies"
-        local_themes: ["Colonial discourse critique", "AI consciousness debates", "Communication theory"]
-
+        cultural_impact: Canonical status in Western literature, academic integration
+        key_editions:
+        - Kilmartin-Cox translation (1970)
+        - Johnston direct translation (2011)
+        - Conversation Tree Press (2024)
+        reception_notes: Strong academic recognition, philosophical SF touchstone
+        educational_status: University curricula in science fiction studies
+        local_themes:
+        - Colonial discourse critique
+        - AI consciousness debates
+        - Communication theory
       pl:
-        cultural_impact: "National literary treasure, Lem as cultural patron 2021"
-        key_editions: ["MON first edition (1961)", "Contemporary school editions", "Academic critical editions"]
-        reception_notes: "Added to high school curriculum 2024, intellectual pride"
-        educational_status: "Required reading in Polish schools"
-        local_themes: ["Post-communist readings", "National identity", "Scientific rationalism critique"]
-
+        cultural_impact: National literary treasure, Lem as cultural patron 2021
+        key_editions:
+        - MON first edition (1961)
+        - Contemporary school editions
+        - Academic critical editions
+        reception_notes: Added to high school curriculum 2024, intellectual pride
+        educational_status: Required reading in Polish schools
+        local_themes:
+        - Post-communist readings
+        - National identity
+        - Scientific rationalism critique
       de:
-        cultural_impact: "Strong theatrical adaptation tradition, academic discourse"
-        key_editions: ["Zimmermann-Göllheim translation (1972)", "Suhrkamp Phantastische Bibliothek", "dtv editions"]
-        reception_notes: "Frankfurt Schauspiel adaptation 2025, philosophical emphasis"
-        educational_status: "University courses in philosophy and cognitive science"
-        local_themes: ["Phenomenological interpretations", "Systems theory", "Epistemological critique"]
-
+        cultural_impact: Strong theatrical adaptation tradition, academic discourse
+        key_editions:
+        - Zimmermann-Göllheim translation (1972)
+        - Suhrkamp Phantastische Bibliothek
+        - dtv editions
+        reception_notes: Frankfurt Schauspiel adaptation 2025, philosophical emphasis
+        educational_status: University courses in philosophy and cognitive science
+        local_themes:
+        - Phenomenological interpretations
+        - Systems theory
+        - Epistemological critique
       fr:
-        cultural_impact: "Cannes Grand Prix recognition, theoretical framework development"
-        key_editions: ["Jasiensko translation (1964)", "Denoël edition (1966)", "Gallimard Folio SF"]
-        reception_notes: "Structuralist context, post-structuralist relevance"
-        educational_status: "Continental philosophy programs"
-        local_themes: ["Levinas otherness theory", "Foucauldian heterotopias", "Deconstruction theory"]
-
+        cultural_impact: Cannes Grand Prix recognition, theoretical framework development
+        key_editions:
+        - Jasiensko translation (1964)
+        - Denoël edition (1966)
+        - Gallimard Folio SF
+        reception_notes: Structuralist context, post-structuralist relevance
+        educational_status: Continental philosophy programs
+        local_themes:
+        - Levinas otherness theory
+        - Foucauldian heterotopias
+        - Deconstruction theory
       es:
-        cultural_impact: "Direct translation milestone 2011, Latin American distribution"
-        key_editions: ["Bruguera editions (1970s-80s)", "Impedimenta direct translation (2011)", "Alianza Editorial"]
-        reception_notes: "First Spanish direct from Polish translation"
-        educational_status: "Comparative literature programs"
-        local_themes: ["Philosophical science fiction", "Translation studies", "20th century classics"]
-
+        cultural_impact: Direct translation milestone 2011, Latin American distribution
+        key_editions:
+        - Bruguera editions (1970s-80s)
+        - Impedimenta direct translation (2011)
+        - Alianza Editorial
+        reception_notes: First Spanish direct from Polish translation
+        educational_status: Comparative literature programs
+        local_themes:
+        - Philosophical science fiction
+        - Translation studies
+        - 20th century classics
       pt:
-        cultural_impact: "Limited but scholarly engagement, philosophical analysis"
-        key_editions: ["Europa-América (1983)", "Relume Dumará Brazil (2003)"]
-        reception_notes: "Sophisticated academic attention through psychological frameworks"
-        educational_status: "Academic discourse only"
-        local_themes: ["Jung analytical psychology", "Science-metaphysics interface", "Consciousness studies"]
-
+        cultural_impact: Limited but scholarly engagement, philosophical analysis
+        key_editions:
+        - Europa-América (1983)
+        - Relume Dumará Brazil (2003)
+        reception_notes: Sophisticated academic attention through psychological frameworks
+        educational_status: Academic discourse only
+        local_themes:
+        - Jung analytical psychology
+        - Science-metaphysics interface
+        - Consciousness studies
       ja:
-        cultural_impact: "Kurosawa endorsement, sustained publishing interest"
-        key_editions: ["Hayakawa SF series (1977)", "Kokusho Kankōkai Numano translation (2004/2012)"]
-        reception_notes: "Buddhist philosophical resonance, academic continuity"
-        educational_status: "University of Tokyo Slavic literature courses"
-        local_themes: ["Buddhist consciousness concepts", "Mono no aware aesthetics", "Zen ineffability"]
-
+        cultural_impact: Kurosawa endorsement, sustained publishing interest
+        key_editions:
+        - Hayakawa SF series (1977)
+        - Kokusho Kankōkai Numano translation (2004/2012)
+        reception_notes: Buddhist philosophical resonance, academic continuity
+        educational_status: University of Tokyo Slavic literature courses
+        local_themes:
+        - Buddhist consciousness concepts
+        - Mono no aware aesthetics
+        - Zen ineffability
       ko:
-        cultural_impact: "Limited mainstream recognition, 2022 direct translation breakthrough"
-        key_editions: ["Triple translation versions (pre-2022)", "Professor Choi direct translation (2022)"]
-        reception_notes: "Academic interest, phenomenological approaches"
-        educational_status: "Graduate comparative literature"
-        local_themes: ["Buddhist consciousness", "Han emotional concepts", "Technology skepticism"]
-
+        cultural_impact: Limited mainstream recognition, 2022 direct translation breakthrough
+        key_editions:
+        - Triple translation versions (pre-2022)
+        - Professor Choi direct translation (2022)
+        reception_notes: Academic interest, phenomenological approaches
+        educational_status: Graduate comparative literature
+        local_themes:
+        - Buddhist consciousness
+        - Han emotional concepts
+        - Technology skepticism
       hi:
-        cultural_impact: "Bengali translation confirmed, philosophical alignment"
-        key_editions: ["Bengali translation", "Indian market imports"]
-        reception_notes: "Consciousness studies resonance, Vedantic parallels"
-        educational_status: "IIT literature programs, consciousness studies"
-        local_themes: ["Advaitic philosophy", "Maya illusion concepts", "Mirror metaphors"]
-
+        cultural_impact: Bengali translation confirmed, philosophical alignment
+        key_editions:
+        - Bengali translation
+        - Indian market imports
+        reception_notes: Consciousness studies resonance, Vedantic parallels
+        educational_status: IIT literature programs, consciousness studies
+        local_themes:
+        - Advaitic philosophy
+        - Maya illusion concepts
+        - Mirror metaphors
   formats:
-    academic_analysis:
-      name: "academic_analysis"
+    narrative_reconstruction:
+      name: narrative_reconstruction
       duration: 18
       hosts:
-        host_a: "professor/expert presenting complex concepts"
-        host_b: "student/assistant simplifying and clarifying"
+        host_a: Detective/investigator piecing together narrative puzzles
+        host_b: Witness/informant providing crucial story details and clues
       structure:
-        - segment: 1
-          time_range: "00:00-03:36"
-          topic: "thesis"
-          lead: "host_a"
-          description: "Philip K. Dick accused Lem of being a 'communist committee' in 1974 FBI letter"
-        - segment: 2
-          time_range: "03:36-07:12"
-          topic: "analysis"
-          lead: "host_b"
-          description: "Ocean as symbol of radical otherness with multiple interpretive layers across disciplines"
-        - segment: 3
-          time_range: "07:12-10:48"
-          topic: "examples"
-          lead: "host_a"
-          description: "Translated into 40+ languages, 30+ million copies sold worldwide"
-        - segment: 4
-          time_range: "10:48-14:24"
-          topic: "synthesis"
-          lead: "host_b"
-          description: "AI consciousness debates in 2024-2025 directly reference Solaris themes"
-        - segment: 5
-          time_range: "14:24-18:00"
-          topic: "synthesis"
-          lead: "host_a"
-          description: "Predicted AI communication barriers and toxic relationship patterns with 90%+ accuracy"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: mystery_setup
+        lead: host_a
+        description: Identifying narrative puzzles and mysteries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: evidence_gathering
+        lead: host_b
+        description: Presenting key clues and story evidence
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: timeline_reconstruction
+        lead: host_a
+        description: Piecing together chronology and causality
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: unreliable_elements
+        lead: host_b
+        description: Identifying what can and cannot be trusted
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: hidden_truth
+        lead: host_a
+        description: Revealing the true story beneath the surface
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: final_reconstruction
+        lead: host_b
+        description: Complete narrative understanding achieved
       prompts:
-        host_a: "You are Professor {male_name}, analyzing 'Solaris' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible."
-        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
-
+        host_a: You are {male_name}, investigating 'Solaris' narrative mysteries. Piece together clues like a detective.
+        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
   metadata:
-    target_audience: "16+"
-    content_warnings: ["philosophical complexity", "communist conspiracy theories", "existential themes"]
-    educational_elements: ["Science fiction genre characteristics", "Historical context of 1961", "Philosophical epistemology", "Literary innovation techniques"]
+    target_audience: 16+
+    content_warnings:
+    - philosophical complexity
+    - communist conspiracy theories
+    - existential themes
+    educational_elements:
+    - Science fiction genre characteristics
+    - Historical context of 1961
+    - Philosophical epistemology
+    - Literary innovation techniques
     production_notes:
-      intro_style: "scholarly introduction with historical context"
-      transitions: "subtle musical bridges"
-      outro_style: "academic synthesis and contemporary relevance"
-
+      intro_style: scholarly introduction with historical context
+      transitions: subtle musical bridges
+      outro_style: academic synthesis and contemporary relevance
   overall_confidence: 0.92

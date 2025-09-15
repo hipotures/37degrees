@@ -1,15 +1,13 @@
 book_info:
-  title: "The Old Man and the Sea"
-  title_pl: "Stary człowiek i morze"
-  author: "Ernest Hemingway"
+  title: The Old Man and the Sea
+  title_pl: Stary człowiek i morze
+  author: Ernest Hemingway
   year: 1952
-  genre: "Novella,Adventure"
-  reading_time: "2-3 hours"
-
+  genre: Novella,Adventure
+  reading_time: 2-3 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-01-14T12:00:00"
-
+  version: '3.0'
+  processed_at: '2025-01-14T12:00:00'
   scores:
     controversy: 3
     philosophical_depth: 9
@@ -21,163 +19,207 @@ afa_analysis:
     social_roles: 5
     total: 48
     percentile: 75
-
   composite_scores:
     depth:
       value: 7.5
-      category: "medium"
+      category: medium
     heat:
       value: 4.5
-      category: "low"
-
+      category: low
   themes:
     universal:
-      - id: "resilience_triumph"
-        type: "FACT"
-        credibility: 0.95
-        content: "A man can be destroyed but not defeated - Santiago's dignity in struggle"
-        source: "dark_drama"
-      - id: "philosophical_layers"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Multiple interpretive frameworks: Christian, Jungian, existentialist"
-        source: "symbols_meanings"
-      - id: "innovation_iceberg"
-        type: "FACT"
-        credibility: 0.95
-        content: "Iceberg Theory revolutionized literature - influenced generations of writers"
-        source: "writing_innovation"
-      - id: "contemporary_mental_health"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Resilience themes resonate with Gen Z mental health discourse"
-        source: "youth_digital"
-      - id: "environmental_wisdom"
-        type: "HYPOTHESIS"
-        credibility: 0.75
-        content: "Santiago's respectful relationship with nature prophetic of consciousness"
-        source: "reality_wisdom"
-      - id: "masculinity_evolution"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Challenges toxic masculinity while preserving authentic strength"
-        source: "reality_wisdom"
-      - id: "cultural_bridge"
-        type: "FACT"
-        credibility: 0.90
-        content: "Connects traditional and modern values across generations globally"
-        source: "culture_impact"
-      - id: "literary_minimalism"
-        type: "FACT"
-        credibility: 0.95
-        content: "Proof that less can mean more - democratic approach to literature"
-        source: "writing_innovation"
-
+    - id: resilience_triumph
+      type: FACT
+      credibility: 0.95
+      content: A man can be destroyed but not defeated - Santiago's dignity in struggle
+      source: dark_drama
+    - id: philosophical_layers
+      type: ANALYSIS
+      credibility: 0.85
+      content: 'Multiple interpretive frameworks: Christian, Jungian, existentialist'
+      source: symbols_meanings
+    - id: innovation_iceberg
+      type: FACT
+      credibility: 0.95
+      content: Iceberg Theory revolutionized literature - influenced generations of writers
+      source: writing_innovation
+    - id: contemporary_mental_health
+      type: ANALYSIS
+      credibility: 0.85
+      content: Resilience themes resonate with Gen Z mental health discourse
+      source: youth_digital
+    - id: environmental_wisdom
+      type: HYPOTHESIS
+      credibility: 0.75
+      content: Santiago's respectful relationship with nature prophetic of consciousness
+      source: reality_wisdom
+    - id: masculinity_evolution
+      type: ANALYSIS
+      credibility: 0.85
+      content: Challenges toxic masculinity while preserving authentic strength
+      source: reality_wisdom
+    - id: cultural_bridge
+      type: FACT
+      credibility: 0.9
+      content: Connects traditional and modern values across generations globally
+      source: culture_impact
+    - id: literary_minimalism
+      type: FACT
+      credibility: 0.95
+      content: Proof that less can mean more - democratic approach to literature
+      source: writing_innovation
     localized:
       en:
-        cultural_impact: "Canonical status in American literature with Pulitzer and Nobel recognition"
-        key_editions: ["Scribner's First Edition", "Educational editions", "Life Magazine publication"]
-        reception_notes: "Record-breaking 5.3 million copies in 2 days, influenced American minimalist writers"
-        educational_status: "High school curriculum staple"
-        local_themes: ["American individualism", "Post-war heroism", "Minimalist movement"]
+        cultural_impact: Canonical status in American literature with Pulitzer and Nobel recognition
+        key_editions:
+        - Scribner's First Edition
+        - Educational editions
+        - Life Magazine publication
+        reception_notes: Record-breaking 5.3 million copies in 2 days, influenced American minimalist writers
+        educational_status: High school curriculum staple
+        local_themes:
+        - American individualism
+        - Post-war heroism
+        - Minimalist movement
       pl:
-        cultural_impact: "Strong school curriculum presence with two translation generations"
-        key_editions: ["PIW 1956 Zieliński translation", "Marginesy 2022 Gucio translation"]
-        reception_notes: "Beloved classic with famous Polish quote recognition"
-        educational_status: "7th-8th grade supplementary reading"
-        local_themes: ["Dignity in suffering", "Traditional masculinity debate", "Literary minimalism appreciation"]
+        cultural_impact: Strong school curriculum presence with two translation generations
+        key_editions:
+        - PIW 1956 Zieliński translation
+        - Marginesy 2022 Gucio translation
+        reception_notes: Beloved classic with famous Polish quote recognition
+        educational_status: 7th-8th grade supplementary reading
+        local_themes:
+        - Dignity in suffering
+        - Traditional masculinity debate
+        - Literary minimalism appreciation
       de:
-        cultural_impact: "Strong philosophical interpretation tradition in German academia"
-        key_editions: ["Reclam Universal-Bibliothek", "Rowohlt editions", "Educational series"]
-        reception_notes: "Existentialist readings dominant, Heidegger-influenced analysis"
-        educational_status: "Gymnasium curriculum for grades 8+"
-        local_themes: ["Existentialist philosophy", "Man-nature relationship", "Phenomenological approach"]
+        cultural_impact: Strong philosophical interpretation tradition in German academia
+        key_editions:
+        - Reclam Universal-Bibliothek
+        - Rowohlt editions
+        - Educational series
+        reception_notes: Existentialist readings dominant, Heidegger-influenced analysis
+        educational_status: Gymnasium curriculum for grades 8+
+        local_themes:
+        - Existentialist philosophy
+        - Man-nature relationship
+        - Phenomenological approach
       fr:
-        cultural_impact: "Philosophical and literary analysis in French academic tradition"
-        key_editions: ["French translations", "Academic editions"]
-        reception_notes: "Camus connection emphasized"
-        educational_status: "Literature curriculum"
-        local_themes: ["Existentialist absurd", "Literary minimalism", "Human condition"]
+        cultural_impact: Philosophical and literary analysis in French academic tradition
+        key_editions:
+        - French translations
+        - Academic editions
+        reception_notes: Camus connection emphasized
+        educational_status: Literature curriculum
+        local_themes:
+        - Existentialist absurd
+        - Literary minimalism
+        - Human condition
       es:
-        cultural_impact: "Strong connection to Cuban setting and Spanish literary tradition"
-        key_editions: ["Spanish translations", "Latin American editions"]
-        reception_notes: "Cultural authenticity appreciated"
-        educational_status: "Literature curriculum"
-        local_themes: ["Cuban culture", "Hispanic literary tradition", "Maritime culture"]
+        cultural_impact: Strong connection to Cuban setting and Spanish literary tradition
+        key_editions:
+        - Spanish translations
+        - Latin American editions
+        reception_notes: Cultural authenticity appreciated
+        educational_status: Literature curriculum
+        local_themes:
+        - Cuban culture
+        - Hispanic literary tradition
+        - Maritime culture
       pt:
-        cultural_impact: "Maritime culture resonance in Portuguese-speaking countries"
-        key_editions: ["Portuguese translations", "Brazilian editions"]
-        reception_notes: "Fishing culture authenticity"
-        educational_status: "Literature curriculum"
-        local_themes: ["Maritime tradition", "Lusophone literature", "Colonial maritime history"]
+        cultural_impact: Maritime culture resonance in Portuguese-speaking countries
+        key_editions:
+        - Portuguese translations
+        - Brazilian editions
+        reception_notes: Fishing culture authenticity
+        educational_status: Literature curriculum
+        local_themes:
+        - Maritime tradition
+        - Lusophone literature
+        - Colonial maritime history
       ja:
-        cultural_impact: "Zen and bushido philosophical connections"
-        key_editions: ["Japanese translations", "Academic editions"]
-        reception_notes: "Honor and dignity themes resonate"
-        educational_status: "Literature curriculum"
-        local_themes: ["Bushido honor", "Zen acceptance", "Man-nature harmony"]
+        cultural_impact: Zen and bushido philosophical connections
+        key_editions:
+        - Japanese translations
+        - Academic editions
+        reception_notes: Honor and dignity themes resonate
+        educational_status: Literature curriculum
+        local_themes:
+        - Bushido honor
+        - Zen acceptance
+        - Man-nature harmony
       ko:
-        cultural_impact: "Confucian values and intergenerational wisdom themes"
-        key_editions: ["Korean translations", "Educational editions"]
-        reception_notes: "Elder wisdom respect"
-        educational_status: "Literature curriculum"
-        local_themes: ["Elder respect", "Confucian values", "Generational wisdom"]
+        cultural_impact: Confucian values and intergenerational wisdom themes
+        key_editions:
+        - Korean translations
+        - Educational editions
+        reception_notes: Elder wisdom respect
+        educational_status: Literature curriculum
+        local_themes:
+        - Elder respect
+        - Confucian values
+        - Generational wisdom
       hi:
-        cultural_impact: "Spiritual and philosophical depth appeals to Hindu philosophical tradition"
-        key_editions: ["Hindi translations", "Educational editions"]
-        reception_notes: "Dharma and duty themes"
-        educational_status: "Literature curriculum"
-        local_themes: ["Dharmic duty", "Spiritual struggle", "Karma philosophy"]
-
+        cultural_impact: Spiritual and philosophical depth appeals to Hindu philosophical tradition
+        key_editions:
+        - Hindi translations
+        - Educational editions
+        reception_notes: Dharma and duty themes
+        educational_status: Literature curriculum
+        local_themes:
+        - Dharmic duty
+        - Spiritual struggle
+        - Karma philosophy
   formats:
-    emotional_perspective:
-      name: "emotional_perspective"
-      duration: 11
+    exploratory_dialogue:
+      name: exploratory_dialogue
+      duration: 15
       hosts:
-        host_a: "emotional reader sharing feelings and personal impact"
-        host_b: "analytical critic explaining literary techniques"
+        host_a: Curious explorer discovering the book with fresh eyes
+        host_b: Knowledgeable guide revealing hidden depths and connections
       structure:
-        - segment: 1
-          time_range: "00:00-02:12"
-          topic: "first_impressions"
-          lead: "host_a"
-          description: "Personal emotional response to Santiago's struggle and dignity"
-        - segment: 2
-          time_range: "02:12-04:24"
-          topic: "deep_emotions"
-          lead: "host_b"
-          description: "How Hemingway's technique creates emotional impact"
-        - segment: 3
-          time_range: "04:24-06:36"
-          topic: "technique_analysis"
-          lead: "host_a"
-          description: "Iceberg Theory and minimalism's emotional power"
-        - segment: 4
-          time_range: "06:36-08:48"
-          topic: "universal_resonance"
-          lead: "host_b"
-          description: "Why the story moves readers across cultures and generations"
-        - segment: 5
-          time_range: "08:48-11:00"
-          topic: "lasting_impact"
-          lead: "host_a"
-          description: "Personal transformation through Santiago's example"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: first_impressions
+        lead: host_a
+        description: Initial reactions and surprising discoveries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: hidden_layers
+        lead: host_b
+        description: Revealing deeper meanings and easter eggs
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: world_building
+        lead: host_a
+        description: Exploring the created world and its rules
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: connections
+        lead: host_b
+        description: Links to other works and cultural references
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: wonder_moments
+        lead: host_a
+        description: Celebrating moments of beauty and surprise
       prompts:
-        host_a: "You are {male_name}, sharing emotional response to 'The Old Man and the Sea'. Discuss personal impact, moments that moved you, feelings evoked by Santiago's dignity and struggle."
-        host_b: "You are {female_name}, an analytical critic. Explain how Hemingway creates emotions through Iceberg Theory, minimalist technique, symbolic structure, and archetypal storytelling."
-
+        host_a: You are {male_name}, discovering 'The Old Man and the Sea' with curiosity and wonder. Ask questions, express
+          surprise, share excitement.
+        host_b: You are {female_name}, guiding the exploration. Reveal hidden depths while maintaining sense of discovery.
   metadata:
-    target_audience: "14+"
-    content_warnings: ["author biographical controversy", "themes of struggle and mortality"]
+    target_audience: 14+
+    content_warnings:
+    - author biographical controversy
+    - themes of struggle and mortality
     educational_elements:
-      - "Iceberg Theory literary technique"
-      - "Minimalist prose analysis"
-      - "Christian and mythological symbolism"
-      - "Environmental consciousness themes"
-      - "Historical context of 1950s Cuba"
+    - Iceberg Theory literary technique
+    - Minimalist prose analysis
+    - Christian and mythological symbolism
+    - Environmental consciousness themes
+    - Historical context of 1950s Cuba
     production_notes:
-      intro_style: "Ocean soundscape with contemplative music"
-      transitions: "Subtle nautical themes and Cuban musical elements"
-      outro_style: "Return to ocean sounds with sense of quiet triumph"
-
+      intro_style: Ocean soundscape with contemplative music
+      transitions: Subtle nautical themes and Cuban musical elements
+      outro_style: Return to ocean sounds with sense of quiet triumph
   overall_confidence: 0.8

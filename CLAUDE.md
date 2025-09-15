@@ -85,3 +85,4 @@ python main.py research 17 --provider mock     # Mock research
 
 ## No Formal Testing/Linting
 Project uses mock generators for testing. Follow existing code style.
+- jeśli napiszę ".." (dwie kropki w tresci linii, nic wiecej) to oznacza "kontynuuj".

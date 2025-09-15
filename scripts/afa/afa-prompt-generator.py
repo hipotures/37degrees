@@ -87,6 +87,162 @@ class AFAPromptGenerator:
         localized = book_data.get('afa_analysis', {}).get('themes', {}).get('localized', {})
         return localized.get(language)
     
+    def get_conversation_hooks(self, format_type: str, language: str) -> List[str]:
+        """Get format-specific conversation hooks for natural transitions"""
+
+        hooks_map = {
+            'emotional_perspective': {
+                'pl': [
+                    "'Moment, to bardzo ważne...'",
+                    "'To mnie głęboko porusza...'",
+                    "'Czuję, że to rezonuje z...'",
+                    "'Pozwól, że się tym podzielę...'"
+                ],
+                'en': [
+                    "'This really touches me...'",
+                    "'I feel this deeply resonates...'",
+                    "'That's so important to recognize...'",
+                    "'Let me share something personal...'"
+                ]
+            },
+            'academic_analysis': {
+                'pl': [
+                    "'Panie profesorze, czy to oznacza...'",
+                    "'Przepraszam, czy mógłby Pan rozwinąć...'",
+                    "'To nawiązuje do teorii, którą...'",
+                    "'Czy to sugeruje, że...'"
+                ],
+                'en': [
+                    "'Professor, does this suggest...'",
+                    "'Could you elaborate on...'",
+                    "'This connects to the theory that...'",
+                    "'If I understand correctly...'"
+                ]
+            },
+            'critical_debate': {
+                'pl': [
+                    "'Nie zgadzam się z tym podejściem...'",
+                    "'Moment, to założenie jest błędne...'",
+                    "'Ależ to przeczy interpretacji...'",
+                    "'Czy nie uważasz, że...'"
+                ],
+                'en': [
+                    "'I disagree with that approach...'",
+                    "'Wait, that assumption is flawed...'",
+                    "'But that contradicts the interpretation...'",
+                    "'Don\\'t you think that...'"
+                ]
+            },
+            'temporal_context': {
+                'pl': [
+                    "'W tamtych czasach to wyglądało...'",
+                    "'Porównując z dzisiejszymi...'",
+                    "'Historia pokazuje nam, że...'",
+                    "'Wówczas społeczność...'"
+                ],
+                'en': [
+                    "'Back then it looked like...'",
+                    "'Comparing with today\\'s...'",
+                    "'History shows us that...'",
+                    "'At that time society...'"
+                ]
+            },
+            'cultural_dimension': {
+                'pl': [
+                    "'W różnych kulturach to...'",
+                    "'Ciekawe, jak to odbierają...'",
+                    "'Z perspektywy różnych społeczności...'",
+                    "'To uniwersalne, czy kulturowe...'"
+                ],
+                'en': [
+                    "'In different cultures this...'",
+                    "'Interesting how they perceive...'",
+                    "'From various communities\\' perspective...'",
+                    "'Is this universal or cultural...'"
+                ]
+            },
+            'social_perspective': {
+                'pl': [
+                    "'Społecznie to oznacza...'",
+                    "'W dzisiejszych realiach...'",
+                    "'To ma wpływ na nasze...'",
+                    "'Jak to przekłada się na...'"
+                ],
+                'en': [
+                    "'Socially this means...'",
+                    "'In today\\'s reality...'",
+                    "'This impacts our...'",
+                    "'How does this translate to...'"
+                ]
+            },
+            'exploratory_dialogue': {
+                'pl': [
+                    "'A gdyby spojrzeć na to...'",
+                    "'Może warto zbadać...'",
+                    "'Ciekawe, co by było gdyby...'",
+                    "'Odkrywamy tu coś fascynującego...'"
+                ],
+                'en': [
+                    "'What if we looked at this...'",
+                    "'Maybe it\\'s worth exploring...'",
+                    "'I wonder what would happen if...'",
+                    "'We\\'re discovering something fascinating...'"
+                ]
+            },
+            'narrative_reconstruction': {
+                'pl': [
+                    "'Wyobraź sobie scenę...'",
+                    "'W tym momencie bohater...'",
+                    "'Napięcie narasta, gdy...'",
+                    "'Czytelnik czuje, że...'"
+                ],
+                'en': [
+                    "'Imagine the scene...'",
+                    "'At this moment the character...'",
+                    "'Tension builds when...'",
+                    "'The reader feels that...'"
+                ]
+            },
+            'friendly_exchange': {
+                'pl': [
+                    "'Czekaj, czekaj...'",
+                    "'O, kurczę, nie pomyślałem...'",
+                    "'Ale wiesz co, to mi przypomina...'",
+                    "'Hej, czy ty też...'"
+                ],
+                'en': [
+                    "'Wait, wait...'",
+                    "'Oh man, I didn\\'t think...'",
+                    "'But you know what, this reminds me...'",
+                    "'Hey, do you also...'"
+                ]
+            }
+        }
+
+        # Default to English if language not found
+        lang = language if language in ['pl', 'en'] else 'en'
+
+        # Get hooks for format, fallback to friendly_exchange if format not found
+        return hooks_map.get(format_type, hooks_map['friendly_exchange']).get(lang, hooks_map['friendly_exchange']['en'])
+
+    def get_format_tone(self, format_type: str, language: str) -> str:
+        """Get format-specific tone description - always in English for AI instructions"""
+
+        tone_map = {
+            'emotional_perspective': "Empathetic, supportive, gentle but honest, therapeutic",
+            'academic_analysis': "Formal but accessible, respect for hierarchy, precise, scholarly",
+            'critical_debate': "Analytical, confident, constructively critical, intellectual",
+            'temporal_context': "Reflective, historical, comparative, contemplative",
+            'cultural_dimension': "Culturally open, curious, multi-perspective, tolerant",
+            'social_perspective': "Socially conscious, engaged, contemporary, activist",
+            'exploratory_dialogue': "Exploratory, spontaneous, hypothesizing, experimental",
+            'narrative_reconstruction': "Narrative, immersive, tension-building, theatrical",
+            'friendly_exchange': "Natural, casual, enthusiastic, friendly"
+        }
+
+        # Always return English - this is AI instruction, not user content
+        return tone_map.get(format_type, tone_map['friendly_exchange'])
+
     def select_host_names(self, format_type: str, language: str) -> Dict[str, str]:
         """Select appropriate host names based on format and language"""
         hosts_config = self.branding.get('hosts', {}).get(format_type, {})
@@ -127,7 +283,11 @@ class AFAPromptGenerator:
         # Load book data
         book_data = self.load_book_data(book_folder)
         book_info = book_data['book_info']
-        afa = book_data['afa_analysis']
+        afa = book_data.get('afa_analysis')
+        if not afa:
+            raise ValueError(
+                f"book.yaml for {book_folder} is missing required 'afa_analysis' section"
+            )
         
         # Get format configuration
         if format_type not in afa['formats']:
@@ -152,7 +312,7 @@ class AFAPromptGenerator:
         # Build prompt with proper structure (always English headers)
         prompt_lines = [
             f"GOAL: {format_config['duration']} min conversation - {format_config['name'].upper()}",
-            f"BOOK: {book_info['title']} ({book_info.get('year', '')})",
+            f"BOOK: {book_info['title']} by {book_info.get('author', 'Unknown')} ({book_info.get('year', '')})",
             ""
         ]
         
@@ -180,8 +340,17 @@ class AFAPromptGenerator:
         # Key themes to discuss
         prompt_lines.append("\nKLUCZOWE WĄTKI DO OMÓWIENIA:")
         for theme in universal_themes[:5]:  # Top 5 themes
-            content = theme['content'][:120] + "..." if len(theme['content']) > 120 else theme['content']
-            prompt_lines.append(f"• {theme['id'].replace('_', ' ').title()}: {content}")
+            # Handle both old and new theme structure
+            if 'content' in theme:
+                raw_content = theme['content']
+                theme_id = theme['id'].replace('_', ' ').title()
+            else:
+                raw_content = theme['description']
+                theme_id = theme['title']
+
+            # Use full content - no truncation
+            content = raw_content
+            prompt_lines.append(f"• {theme_id}: {content}")
         
         # Add local context if exists
         if local_context:
@@ -193,8 +362,8 @@ class AFAPromptGenerator:
             if 'educational_status' in local_context:
                 prompt_lines.append(f"• Educational context: {local_context['educational_status']}")
         
-        # Time structure
-        prompt_lines.append("\nTIME STRUCTURE:")
+        # Conversation flow structure
+        prompt_lines.append("\nCONVERSATION FLOW:")
         total_min = format_config['duration']
         
         # Simple time blocks based on format
@@ -217,23 +386,26 @@ class AFAPromptGenerator:
                 f"• CTA ({total_min-1}:00-{total_min}:00): Dlaczego warto przeczytać"
             ])
         else:
-            # Generic structure
-            prompt_lines.extend([
-                f"• Introduction (0:00-1:00): Start with '{brand_name}'",
-                f"• Main part (1:00-{total_min-2}:00): Theme development",
-                f"• Conclusion ({total_min-2}:00-{total_min}:00): Summary"
-            ])
+            # Use actual structure from YAML if available
+            if 'structure' in format_config and format_config['structure']:
+                for segment in format_config['structure']:
+                    topic = segment['topic'].replace('_', ' ').title()
+                    description = segment['description']
+                    lead_host = "Host A" if segment['lead'] == 'host_a' else "Host B"
+                    prompt_lines.append(f"• {topic} ({lead_host} leads): {description}")
+            else:
+                # Generic structure fallback
+                prompt_lines.extend([
+                    f"• Introduction: Start with '{brand_name}'",
+                    f"• Main discussion: Theme development",
+                    f"• Conclusion: Summary and encouragement"
+                ])
         
         # Tone based on format
+        # Format-specific tone
         prompt_lines.append("\nTONE:")
-        if format_type == 'friendly_exchange':
-            prompt_lines.append("Natural dialogue, interruptions welcome, personal reactions")
-        elif format_type == 'academic_lecture':
-            prompt_lines.append("Scholarly but accessible, define technical terms")
-        elif format_type == 'debate':
-            prompt_lines.append("Lively exchange of views, respectful disagreement")
-        else:
-            prompt_lines.append("Adapted to format, no long monologues")
+        tone = self.get_format_tone(format_type, language)
+        prompt_lines.append(tone)
         
         # Interaction pattern
         prompt_lines.append("\nINTERACTION PATTERN:")
@@ -241,22 +413,11 @@ class AFAPromptGenerator:
         prompt_lines.append("• Keep individual responses concise (3-5 sentences) for dynamic flow")
         prompt_lines.append("• Natural overlaps and reactions encouraged")
         
-        # Conversation hooks for natural transitions
+        # Format-specific conversation hooks
         prompt_lines.append("\nCONVERSATION HOOKS:")
-        if language == 'pl':
-            prompt_lines.extend([
-                "• 'Czekaj, czy to oznacza że...'",
-                "• 'O, to mi przypomina...'",
-                "• 'Zaraz, niech to dobrze zrozumiem...'",
-                "• 'Ale przecież dzisiaj...'"
-            ])
-        else:
-            prompt_lines.extend([
-                "• 'Wait, does that mean...'",
-                "• 'Oh, that reminds me of...'",
-                "• 'Let me get this straight...'",
-                "• 'But nowadays...'"
-            ])
+        hooks = self.get_conversation_hooks(format_type, language)
+        for hook in hooks:
+            prompt_lines.append(f"• {hook}")
         
         # Example dialogue style (few-shot)
         prompt_lines.append("\nEXAMPLE DIALOGUE STYLE:")
@@ -326,8 +487,10 @@ class AFAPromptGenerator:
         
         # Universal themes
         for theme in themes:
-            desc = f"[{theme['type']}] {theme['id'].upper().replace('_', ' ')}:\n"
-            desc += f"  Content: {theme['content']}\n"
+            theme_type = theme.get('type', 'ANALYSIS')
+            theme_id = theme.get('id', theme.get('key', '')).upper().replace('_', ' ')
+            desc = f"[{theme_type}] {theme_id}:\n"
+            desc += f"  Content: {theme.get('content', theme.get('description', ''))}\n"
             desc += f"  Credibility: {theme['credibility']*100:.0f}%\n"
             descriptions.append(desc)
         
@@ -354,8 +517,8 @@ class AFAPromptGenerator:
             # Find theme content for segment
             theme_content = None
             for theme in themes:
-                if theme['id'] == seg.get('topic'):
-                    theme_content = theme['content']
+                if theme.get('id', theme.get('key', '')) == seg.get('topic'):
+                    theme_content = theme.get('content', theme.get('description', ''))
                     break
             
             segment_desc = f"[{seg['time_range']}] Segment {seg['segment']}:\n"
@@ -376,7 +539,11 @@ class AFAPromptGenerator:
         # Load book data
         book_data = self.load_book_data(book_folder)
         book_info = book_data['book_info']
-        afa = book_data['afa_analysis']
+        afa = book_data.get('afa_analysis')
+        if not afa:
+            raise ValueError(
+                f"book.yaml for {book_folder} is missing required 'afa_analysis' section"
+            )
         
         # Get format configuration
         if format_type not in afa['formats']:
@@ -397,7 +564,7 @@ class AFAPromptGenerator:
         # Build prompt with proper structure (always English headers)
         prompt_lines = [
             f"GOAL: {format_config['duration']} min conversation - {format_config['name'].upper()}",
-            f"BOOK: {book_info['title']} ({book_info.get('year', '')})",
+            f"BOOK: {book_info['title']} by {book_info.get('author', 'Unknown')} ({book_info.get('year', '')})",
             ""
         ]
         
@@ -436,29 +603,45 @@ class AFAPromptGenerator:
                     gender = "male"
                     processed_prompt = raw_prompt.replace("{male_name}", name).replace("{female_name}", name)
                 
-                # Format final prompt with gender marker
-                final_prompt = f"You are {name} ({gender}). {processed_prompt}"
-                
+                # Format final prompt - processed_prompt already contains "You are {name}"
+                final_prompt = f"{name} ({gender}). {processed_prompt}"
+
                 prompt_lines.append(f"HOST {host_id.upper()}: {final_prompt}")
         
-        # Key themes to discuss
+        # Key themes to discuss - all themes in one section
         prompt_lines.append("\nKEY THEMES TO DISCUSS:")
-        for theme in universal_themes[:5]:  # Top 5 themes
-            content = theme['content'][:120] + "..." if len(theme['content']) > 120 else theme['content']
-            prompt_lines.append(f"• {theme['id'].replace('_', ' ').title()}: {content}")
-        
-        # Add local context if exists
+
+        # All universal themes (not just 5)
+        for theme in universal_themes:
+            # Handle both old and new theme structure
+            if 'content' in theme:
+                raw_content = theme['content']
+                theme_id = theme['id'].replace('_', ' ').title()
+            else:
+                raw_content = theme['description']
+                theme_id = theme['title']
+
+            # Use full content - no truncation
+            content = raw_content
+            prompt_lines.append(f"• {theme_id}: {content}")
+
+        # Add localized themes for the specific language (same section)
+        localized_themes = afa['themes'].get('localized', {}).get(language, [])
+        if localized_themes:
+            for theme in localized_themes:
+                theme_title = theme.get('title', theme.get('key', '').replace('_', ' ').title())
+                theme_desc = theme.get('description', theme.get('content', ''))
+                prompt_lines.append(f"• {theme_title}: {theme_desc}")
+
+        # Legacy local context (if still exists)
         if local_context:
             if 'cultural_impact' in local_context:
-                prompt_lines.append(f"• Local context: {local_context['cultural_impact']}")
-            if 'key_editions' in local_context:
-                editions = ', '.join(local_context['key_editions'][:3])  # First 3 editions
-                prompt_lines.append(f"• Key editions: {editions}")
+                prompt_lines.append(f"• Additional context: {local_context['cultural_impact']}")
             if 'educational_status' in local_context:
                 prompt_lines.append(f"• Educational context: {local_context['educational_status']}")
         
-        # Time structure
-        prompt_lines.append("\nTIME STRUCTURE:")
+        # Conversation flow structure
+        prompt_lines.append("\nCONVERSATION FLOW:")
         total_min = format_config['duration']
         
         # Simple time blocks based on format
@@ -475,23 +658,26 @@ class AFAPromptGenerator:
                 f"• Synthesis ({total_min-3}:00-{total_min}:00): Conclusions and work significance"
             ])
         else:
-            # Generic structure
-            prompt_lines.extend([
-                f"• Introduction (0:00-1:00): Start with '{brand_name}'",
-                f"• Main part (1:00-{total_min-2}:00): Theme development",
-                f"• Conclusion ({total_min-2}:00-{total_min}:00): Summary"
-            ])
+            # Use actual structure from YAML if available
+            if 'structure' in format_config and format_config['structure']:
+                for segment in format_config['structure']:
+                    topic = segment['topic'].replace('_', ' ').title()
+                    description = segment['description']
+                    lead_host = "Host A" if segment['lead'] == 'host_a' else "Host B"
+                    prompt_lines.append(f"• {topic} ({lead_host} leads): {description}")
+            else:
+                # Generic structure fallback
+                prompt_lines.extend([
+                    f"• Introduction: Start with '{brand_name}'",
+                    f"• Main discussion: Theme development",
+                    f"• Conclusion: Summary and encouragement"
+                ])
         
         # Tone based on format
+        # Format-specific tone
         prompt_lines.append("\nTONE:")
-        if format_type == 'friendly_exchange':
-            prompt_lines.append("Natural dialogue, interruptions welcome, personal reactions")
-        elif format_type == 'academic_lecture':
-            prompt_lines.append("Scholarly but accessible, define technical terms")
-        elif format_type == 'debate':
-            prompt_lines.append("Lively exchange of views, respectful disagreement")
-        else:
-            prompt_lines.append("Adapted to format, no long monologues")
+        tone = self.get_format_tone(format_type, language)
+        prompt_lines.append(tone)
         
         # Interaction pattern
         prompt_lines.append("\nINTERACTION PATTERN:")
@@ -499,22 +685,11 @@ class AFAPromptGenerator:
         prompt_lines.append("• Keep individual responses concise (3-5 sentences) for dynamic flow")
         prompt_lines.append("• Natural overlaps and reactions encouraged")
         
-        # Conversation hooks for natural transitions
+        # Format-specific conversation hooks
         prompt_lines.append("\nCONVERSATION HOOKS:")
-        if language == 'pl':
-            prompt_lines.extend([
-                "• 'Czekaj, czy to oznacza że...'",
-                "• 'O, to mi przypomina...'",
-                "• 'Zaraz, niech to dobrze zrozumiem...'",
-                "• 'Ale przecież dzisiaj...'"
-            ])
-        else:
-            prompt_lines.extend([
-                "• 'Wait, does that mean...'",
-                "• 'Oh, that reminds me of...'",
-                "• 'Let me get this straight...'",
-                "• 'But nowadays...'"
-            ])
+        hooks = self.get_conversation_hooks(format_type, language)
+        for hook in hooks:
+            prompt_lines.append(f"• {hook}")
         
         # Example dialogue style (few-shot)
         prompt_lines.append("\nEXAMPLE DIALOGUE STYLE:")

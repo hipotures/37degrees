@@ -1,0 +1,187 @@
+book_info:
+  title: "Don Quixote"
+  title_pl: "Don Kichot"
+  author: "Miguel de Cervantes"
+  year: 1605
+  genre: "Novel,Satire"
+  reading_time: "30-40 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-12T00:00:00Z"
+  
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 8
+    total: 69
+    percentile: 90
+  
+  composite_scores:
+    depth:
+      value: 9.2
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+  
+  themes:
+    universal:
+      - id: "idealism_vs_reality"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "First modern novel exploring eternal conflict between idealism and pragmatism through mad knight's adventures"
+        source: "symbols_meanings"
+      - id: "metafiction_pioneer"
+        type: "FACT"
+        credibility: 1.0
+        content: "Characters aware they're in a book, read about themselves - first metafictional work in literature"
+        source: "writing_innovation"
+      - id: "fake_news_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Predicted information distortion and echo chambers with 95% accuracy - man who can't distinguish fiction from reality"
+        source: "reality_wisdom"
+      - id: "avellaneda_scandal"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "1614 unauthorized sequel by Avellaneda sparked literary war, motivated Cervantes to write authentic Part II"
+        source: "dark_drama"
+      - id: "religious_subversion"
+        type: "DISPUTE"
+        credibility: 0.75
+        content: "Hidden Jewish identity theories, Inquisition criticism disguised as comedy"
+        source: "dark_drama"
+      - id: "social_revolution"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Critique of Spanish imperialism, class system, and religious hypocrisy through fool's wisdom"
+        source: "facts_history"
+      - id: "ai_dulcinea"
+        type: "HYPOTHESIS"
+        credibility: 0.80
+        content: "Don Quixote's idealized Dulcinea parallels modern AI companions and parasocial relationships"
+        source: "youth_digital"
+      - id: "genre_creator"
+        type: "FACT"
+        credibility: 1.0
+        content: "Created the modern novel form - dynamic characters, multiple perspectives, psychological realism"
+        source: "writing_innovation"
+    
+    localized:
+      en:
+        cultural_impact: "Foundational text of English novel tradition, influenced Fielding, Sterne, Joyce"
+        key_editions: ["Thomas Shelton 1612", "Penguin Classics", "Norton Critical"]
+        reception_notes: "'Tilting at windmills' entered English idiom, Man of La Mancha Broadway success"
+        educational_status: "Yale Open Course, universal curriculum inclusion"
+        local_themes: ["Individual vs society", "Noble futility"]
+      
+      pl:
+        cultural_impact: "Donkiszoteria entered Polish language, romantic interpretation by Słowacki and Norwid"
+        key_editions: ["Edward Boyé 1937", "Wojciech Charchalis 2020"]
+        reception_notes: "Mandatory high school reading, strong theatrical tradition"
+        educational_status: "Lektura obowiązkowa liceum"
+        local_themes: ["Romantic idealism", "Noble suffering"]
+      
+      de:
+        cultural_impact: "German Romantics transformed interpretation from comedy to tragedy"
+        key_editions: ["Tieck 1799", "Reclam editions"]
+        reception_notes: "Philosophical interpretation by Hegel, Schiller, Thomas Mann"
+        educational_status: "University Spanish literature courses"
+        local_themes: ["Idealist philosophy", "Spirit vs matter dialectic"]
+      
+      fr:
+        cultural_impact: "Massenet opera, structuralist analysis by Genette, Pléiade canonization"
+        key_editions: ["Cesar Oudin 1614", "Gallimard Pléiade"]
+        reception_notes: "Descartes mentioned in Discourse on Method"
+        educational_status: "Baccalauréat curriculum"
+        local_themes: ["Reality vs illusion", "Cartesian doubt"]
+      
+      es:
+        cultural_impact: "National literary treasure, 'la lengua de Cervantes' defines Spanish language"
+        key_editions: ["Editorial Alfaguara Rico edition", "Planeta"]
+        reception_notes: "Immediate bestseller 1605, 6 editions first year"
+        educational_status: "Core curriculum all levels"
+        local_themes: ["Imperial decline", "Honor and reality"]
+      
+      pt:
+        cultural_impact: "Portinari illustrations 1956, Drummond poetry, presidential favorite (Vargas)"
+        key_editions: ["Sérgio Molina 2004 Jabuti Prize", "Ernani Ssó 2012"]
+        reception_notes: "'Best book ever written' - Ivan Lessa"
+        educational_status: "ENEM and vestibular essential"
+        local_themes: ["Quest narrative", "Social critique"]
+      
+      ja:
+        cultural_impact: "Bushido parallels, Buddhist interpretation of spiritual journey"
+        key_editions: ["Ogiuchi 2005 humorous version", "Iwanami 2021"]
+        reception_notes: "Anime by Tezuka 1973, One Piece's Doflamingo character"
+        educational_status: "University Spanish literature"
+        local_themes: ["Noble failure", "Enlightenment through suffering"]
+      
+      ko:
+        cultural_impact: "SEVENTEEN's DON QUIXOTE K-pop hit, National Ballet adaptation 2023"
+        key_editions: ["Park Chul 2019 complete translation"]
+        reception_notes: "SKY universities recommended reading"
+        educational_status: "College entrance exam preparation"
+        local_themes: ["Dream persistence", "Individual vs conformity"]
+      
+      hi:
+        cultural_impact: "Salman Rushdie's 'Quichotte' 2019, limited Bollywood presence"
+        key_editions: ["Vibha Maurya Hindi 2006-2015", "Bengali revival 2009"]
+        reception_notes: "Primarily through English medium education"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Colonial critique potential", "Idealism vs pragmatism"]
+  
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 12
+      hosts:
+        host_a: "passionate advocate defending the work's timeless wisdom and noble idealism"
+        host_b: "critical skeptic questioning its relevance and problematic elements"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Is Don Quixote humanity's greatest novel or outdated colonial relic?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Metafiction pioneer vs violence glorification and mental illness mockery"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Prophetic warnings about fake news and parasocial relationships"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "resolution"
+          lead: "host_b"
+          description: "Finding balance between reverence and critical examination"
+      
+      prompts:
+        host_a: "You are {male_name}, passionately defending Don Quixote as humanity's most prophetic novel. Address its uncanny prediction of fake news, echo chambers, and AI relationships. Counter criticism about violence and mental illness by contextualizing 17th century perspectives. Emphasize how Cervantes created the modern novel and influenced all subsequent literature."
+        host_b: "You are {female_name}, critically questioning Don Quixote's relevance. Challenge romanticization of mental illness, domestic violence (Don Quixote beats Sancho), and colonial-era values. Question whether 500 million readers justify problematic content. Maintain respectful skepticism while acknowledging literary innovations."
+  
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "mental health themes", "colonial context discussion"]
+    educational_elements: [
+      "First modern novel techniques",
+      "Metafiction and unreliable narrator",
+      "Spanish Golden Age context",
+      "Reality vs fiction in digital age"
+    ]
+    production_notes:
+      intro_style: "Begin with windmill scene - universal symbol of fighting imaginary enemies"
+      transitions: "Use Spanish guitar motifs between segments"
+      outro_style: "End with reflection on idealism vs pragmatism in modern world"
+  
+  overall_confidence: 0.92

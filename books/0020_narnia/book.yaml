@@ -1,15 +1,13 @@
 book_info:
-  title: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
-  title_pl: "Opowieści z Narnii: Lew, czarownica i stara szafa"
-  author: "C.S. Lewis"
-  year: "1950"
-  genre: "Fantasy Novel"
-  reading_time: "5-6 hours"
-
+  title: 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'
+  title_pl: 'Opowieści z Narnii: Lew, czarownica i stara szafa'
+  author: C.S. Lewis
+  year: '1950'
+  genre: Fantasy Novel
+  reading_time: 5-6 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-01-14T12:00:00"
-
+  version: '3.0'
+  processed_at: '2025-01-14T12:00:00'
   scores:
     controversy: 7
     philosophical_depth: 9
@@ -21,7 +19,6 @@ afa_analysis:
     social_roles: 5
     total: 53
     percentile: 75
-
   composite_scores:
     depth:
       value: 6.2
@@ -29,158 +26,195 @@ afa_analysis:
     heat:
       value: 7.0
       category: medium
-
   themes:
     universal:
-      - id: "facts_history_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Over 100 million copies sold worldwide in 47 languages, establishing it as one of the best-selling children's books ever"
-        source: "facts_history"
-      - id: "symbols_meanings_1"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Aslan's death and resurrection creates 10 interpretive layers including Christian allegory, psychological maturation, and mythical quest"
-        source: "symbols_meanings"
-      - id: "dark_drama_2"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Lewis initially opposed Disney adaptations, fearing commercialization would corrupt the spiritual message"
-        source: "dark_drama"
-      - id: "culture_impact_3"
-        type: "FACT"
-        credibility: 0.95
-        content: "Over 1000 theatrical productions worldwide since 1984, with major films grossing over $1.5 billion"
-        source: "culture_impact"
-      - id: "youth_digital_4"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Viral BookTok phenomenon with millions of views, Turkish Delight memes, and wardrobe portal references"
-        source: "youth_digital"
-      - id: "reality_wisdom_5"
-        type: "HYPOTHESIS"
-        credibility: 0.75
-        content: "Edmund's redemption arc mirrors contemporary discussions about cancel culture and second chances"
-        source: "reality_wisdom"
-      - id: "writing_innovation_6"
-        type: "FACT"
-        credibility: 0.95
-        content: "Pioneered the portal fantasy genre, establishing the wardrobe as an archetypal threshold symbol"
-        source: "writing_innovation"
-      - id: "dark_drama_7"
-        type: "DISPUTE"
-        credibility: 0.70
-        content: "Ongoing controversies about racist depictions of Calormenes and conservative gender roles"
-        source: "dark_drama"
-
+    - id: facts_history_0
+      type: FACT
+      credibility: 0.95
+      content: Over 100 million copies sold worldwide in 47 languages, establishing it as one of the best-selling children's
+        books ever
+      source: facts_history
+    - id: symbols_meanings_1
+      type: ANALYSIS
+      credibility: 0.85
+      content: Aslan's death and resurrection creates 10 interpretive layers including Christian allegory, psychological maturation,
+        and mythical quest
+      source: symbols_meanings
+    - id: dark_drama_2
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Lewis initially opposed Disney adaptations, fearing commercialization would corrupt the spiritual message
+      source: dark_drama
+    - id: culture_impact_3
+      type: FACT
+      credibility: 0.95
+      content: Over 1000 theatrical productions worldwide since 1984, with major films grossing over $1.5 billion
+      source: culture_impact
+    - id: youth_digital_4
+      type: ANALYSIS
+      credibility: 0.85
+      content: Viral BookTok phenomenon with millions of views, Turkish Delight memes, and wardrobe portal references
+      source: youth_digital
+    - id: reality_wisdom_5
+      type: HYPOTHESIS
+      credibility: 0.75
+      content: Edmund's redemption arc mirrors contemporary discussions about cancel culture and second chances
+      source: reality_wisdom
+    - id: writing_innovation_6
+      type: FACT
+      credibility: 0.95
+      content: Pioneered the portal fantasy genre, establishing the wardrobe as an archetypal threshold symbol
+      source: writing_innovation
+    - id: dark_drama_7
+      type: DISPUTE
+      credibility: 0.7
+      content: Ongoing controversies about racist depictions of Calormenes and conservative gender roles
+      source: dark_drama
     localized:
       en:
-        cultural_impact: "Foundational text in Anglo-American children's literature, taught in schools across English-speaking world"
-        key_editions: ["HarperCollins editions", "Penguin Classics", "Illustrated editions by multiple artists"]
-        reception_notes: "Canonical status, part of British cultural identity"
-        educational_status: "Standard curriculum in UK and US schools"
-        local_themes: ["WWII evacuation experience", "British countryside nostalgia"]
-
+        cultural_impact: Foundational text in Anglo-American children's literature, taught in schools across English-speaking
+          world
+        key_editions:
+        - HarperCollins editions
+        - Penguin Classics
+        - Illustrated editions by multiple artists
+        reception_notes: Canonical status, part of British cultural identity
+        educational_status: Standard curriculum in UK and US schools
+        local_themes:
+        - WWII evacuation experience
+        - British countryside nostalgia
       pl:
-        cultural_impact: "Beloved classic in Poland, multiple translations, strong Catholic reception"
-        key_editions: ["Media Rodzina editions", "Illustrated Polish editions"]
-        reception_notes: "Embraced by Catholic educators, popular in youth groups"
-        educational_status: "Recommended reading in many schools"
-        local_themes: ["Resistance against tyranny resonates with communist history", "Catholic symbolism appreciated"]
-
+        cultural_impact: Beloved classic in Poland, multiple translations, strong Catholic reception
+        key_editions:
+        - Media Rodzina editions
+        - Illustrated Polish editions
+        reception_notes: Embraced by Catholic educators, popular in youth groups
+        educational_status: Recommended reading in many schools
+        local_themes:
+        - Resistance against tyranny resonates with communist history
+        - Catholic symbolism appreciated
       de:
-        cultural_impact: "Two competing translation traditions, extensive academic theological analysis"
-        key_editions: ["Original Tetzner translation", "Modern Hohlbein-Rendel version"]
-        reception_notes: "Strong integration in German theater and education"
-        educational_status: "Used in Gymnasium classes for grades 9-10"
-        local_themes: ["Connection to German Romantic tradition", "Theological scholarship focus"]
-
+        cultural_impact: Two competing translation traditions, extensive academic theological analysis
+        key_editions:
+        - Original Tetzner translation
+        - Modern Hohlbein-Rendel version
+        reception_notes: Strong integration in German theater and education
+        educational_status: Used in Gymnasium classes for grades 9-10
+        local_themes:
+        - Connection to German Romantic tradition
+        - Theological scholarship focus
       fr:
-        cultural_impact: "Late discovery through Disney films, growing popularity post-Harry Potter"
-        key_editions: ["Gallimard Jeunesse editions", "Folio junior collection"]
-        reception_notes: "Limited academic engagement compared to Anglo world"
-        educational_status: "Not part of standard baccalauréat curriculum"
-        local_themes: ["Fantasy genre resistance historically", "Growing acceptance of children's fantasy"]
-
+        cultural_impact: Late discovery through Disney films, growing popularity post-Harry Potter
+        key_editions:
+        - Gallimard Jeunesse editions
+        - Folio junior collection
+        reception_notes: Limited academic engagement compared to Anglo world
+        educational_status: Not part of standard baccalauréat curriculum
+        local_themes:
+        - Fantasy genre resistance historically
+        - Growing acceptance of children's fantasy
       es:
-        cultural_impact: "Different translations for Spain vs Latin America, strong Christian education use"
-        key_editions: ["Editorial Destino", "Alfaguara editions"]
-        reception_notes: "Popular in Christian schools and family reading"
-        educational_status: "Used for moral education programs"
-        local_themes: ["Clear good vs evil appeals to Catholic values", "Family reading tradition"]
-
+        cultural_impact: Different translations for Spain vs Latin America, strong Christian education use
+        key_editions:
+        - Editorial Destino
+        - Alfaguara editions
+        reception_notes: Popular in Christian schools and family reading
+        educational_status: Used for moral education programs
+        local_themes:
+        - Clear good vs evil appeals to Catholic values
+        - Family reading tradition
       pt:
-        cultural_impact: "Strong presence in Brazil through Paulo Mendes Campos translation"
-        key_editions: ["WMF Martins Fontes", "Presença editions in Portugal"]
-        reception_notes: "Film-to-reader phenomenon after 2005 Disney film"
-        educational_status: "Part of PNBE school library program in Brazil"
-        local_themes: ["Christian symbolism resonates with Catholic majority", "WWII parallels to Brazilian history"]
-
+        cultural_impact: Strong presence in Brazil through Paulo Mendes Campos translation
+        key_editions:
+        - WMF Martins Fontes
+        - Presença editions in Portugal
+        reception_notes: Film-to-reader phenomenon after 2005 Disney film
+        educational_status: Part of PNBE school library program in Brazil
+        local_themes:
+        - Christian symbolism resonates with Catholic majority
+        - WWII parallels to Brazilian history
       ja:
-        cultural_impact: "Transformed through manga adaptation, strong otaku culture integration"
-        key_editions: ["Iwanami Shoten translations", "Manga adaptation by Kyoko Tsuchiya"]
-        reception_notes: "Film earned $66.1 million, 6th most successful 2006 release"
-        educational_status: "Accessible editions with furigana for learners"
-        local_themes: ["Portal fantasy influenced isekai genre", "Visual transformation to manga aesthetics"]
-
+        cultural_impact: Transformed through manga adaptation, strong otaku culture integration
+        key_editions:
+        - Iwanami Shoten translations
+        - Manga adaptation by Kyoko Tsuchiya
+        reception_notes: Film earned $66.1 million, 6th most successful 2006 release
+        educational_status: Accessible editions with furigana for learners
+        local_themes:
+        - Portal fantasy influenced isekai genre
+        - Visual transformation to manga aesthetics
       ko:
-        cultural_impact: "Extremely popular among Korean Christians, cross-denominational appeal"
-        key_editions: ["Sigongsa editions", "Complete hardcover editions"]
-        reception_notes: "Embraced as Christian alternative to Harry Potter"
-        educational_status: "Used in Christian education contexts"
-        local_themes: ["Christian allegory deeply appreciated", "Alternative to 'problematic' fantasy"]
-
+        cultural_impact: Extremely popular among Korean Christians, cross-denominational appeal
+        key_editions:
+        - Sigongsa editions
+        - Complete hardcover editions
+        reception_notes: Embraced as Christian alternative to Harry Potter
+        educational_status: Used in Christian education contexts
+        local_themes:
+        - Christian allegory deeply appreciated
+        - Alternative to 'problematic' fantasy
       hi:
-        cultural_impact: "Known primarily through film dubbing, limited book translations"
-        key_editions: ["English editions widely available", "Film dubbing in Hindi/Tamil/Telugu"]
-        reception_notes: "Postcolonial criticism of Calormene depictions"
-        educational_status: "Not in standard curriculum, used in international schools"
-        local_themes: ["Colonial-era attitudes problematic", "Hindu iconography in villain imagery controversial"]
-
+        cultural_impact: Known primarily through film dubbing, limited book translations
+        key_editions:
+        - English editions widely available
+        - Film dubbing in Hindi/Tamil/Telugu
+        reception_notes: Postcolonial criticism of Calormene depictions
+        educational_status: Not in standard curriculum, used in international schools
+        local_themes:
+        - Colonial-era attitudes problematic
+        - Hindu iconography in villain imagery controversial
   formats:
-    temporal_context:
-      name: "temporal_context"
-      duration: 13
+    exploratory_dialogue:
+      name: exploratory_dialogue
+      duration: 15
       hosts:
-        host_a: "classical literature expert explaining 1950s context"
-        host_b: "contemporary reader finding modern relevance"
+        host_a: Curious explorer discovering the book with fresh eyes
+        host_b: Knowledgeable guide revealing hidden depths and connections
       structure:
-        - segment: 1
-          time_range: "00:00-03:15"
-          topic: "original_era"
-          lead: "host_a"
-          description: "WWII context, Lewis's Christian worldview, and 1950s British childhood"
-        - segment: 2
-          time_range: "03:15-06:30"
-          topic: "evolution"
-          lead: "host_b"
-          description: "How Narnia transformed from religious allegory to global fantasy phenomenon"
-        - segment: 3
-          time_range: "06:30-09:45"
-          topic: "modern_parallels"
-          lead: "host_a"
-          description: "Edmund's redemption and contemporary cancel culture, environmental themes"
-        - segment: 4
-          time_range: "09:45-13:00"
-          topic: "timelessness"
-          lead: "host_b"
-          description: "Why portal fantasy and good vs evil still captivate digital natives"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: first_impressions
+        lead: host_a
+        description: Initial reactions and surprising discoveries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: hidden_layers
+        lead: host_b
+        description: Revealing deeper meanings and easter eggs
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: world_building
+        lead: host_a
+        description: Exploring the created world and its rules
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: connections
+        lead: host_b
+        description: Links to other works and cultural references
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: wonder_moments
+        lead: host_a
+        description: Celebrating moments of beauty and surprise
       prompts:
-        host_a: "You are {male_name}, a classical literature expert. Explain 'The Lion, the Witch and the Wardrobe' in its original 1950 context: WWII evacuation, Christian allegory, Lewis's theological intentions. Discuss how postwar Britain shaped the narrative."
-        host_b: "You are {female_name} from 2025. Find modern parallels in Narnia: social media witch hunts, climate change as eternal winter, digital escapism through portals. Connect TikTok trends to timeless themes."
-
+        host_a: 'You are {male_name}, discovering ''The Chronicles of Narnia: The Lion, the Witch and the Wardrobe'' with
+          curiosity and wonder. Ask questions, express surprise, share excitement.'
+        host_b: You are {female_name}, guiding the exploration. Reveal hidden depths while maintaining sense of discovery.
   metadata:
-    target_audience: "12+"
-    content_warnings: ["mild violence", "death scenes", "religious themes", "colonial-era attitudes"]
+    target_audience: 12+
+    content_warnings:
+    - mild violence
+    - death scenes
+    - religious themes
+    - colonial-era attitudes
     educational_elements:
-      - "Fantasy genre characteristics"
-      - "WWII historical context"
-      - "Christian allegory and symbolism"
-      - "Portal fantasy tropes"
-      - "Redemption and forgiveness themes"
+    - Fantasy genre characteristics
+    - WWII historical context
+    - Christian allegory and symbolism
+    - Portal fantasy tropes
+    - Redemption and forgiveness themes
     production_notes:
-      intro_style: "Nostalgic wardrobe opening sound transitioning to modern context"
-      transitions: "subtle musical bridges between time periods"
-      outro_style: "Return through the wardrobe to present day reflection"
-
+      intro_style: Nostalgic wardrobe opening sound transitioning to modern context
+      transitions: subtle musical bridges between time periods
+      outro_style: Return through the wardrobe to present day reflection
   overall_confidence: 0.88

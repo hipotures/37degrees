@@ -1,15 +1,13 @@
 book_info:
-  title: "Harry Potter and the Philosopher's Stone"
-  title_pl: "Harry Potter i Kamień Filozoficzny"
-  author: "J.K. Rowling"
+  title: Harry Potter and the Philosopher's Stone
+  title_pl: Harry Potter i Kamień Filozoficzny
+  author: J.K. Rowling
   year: 1997
-  genre: "Fantasy,Children"
-  reading_time: "6-8 hours"
-
+  genre: Fantasy,Children
+  reading_time: 6-8 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-13T12:00:00Z"
-
+  version: '3.0'
+  processed_at: '2025-09-13T12:00:00Z'
   scores:
     controversy: 9
     philosophical_depth: 7
@@ -21,7 +19,6 @@ afa_analysis:
     social_roles: 7
     total: 65
     percentile: 85
-
   composite_scores:
     depth:
       value: 7.5
@@ -29,172 +26,195 @@ afa_analysis:
     heat:
       value: 8.8
       category: high
-
   themes:
     universal:
-      - id: "culture_001"
-        type: "FACT"
-        credibility: 0.95
-        content: "Franchise worth over 25 billion dollars with theme parks on 3 continents"
-        source: "culture_impact"
-      - id: "youth_001"
-        type: "FACT"
-        credibility: 0.95
-        content: "66.8 million TikTok posts, BookTok drives 50% sales increase in 2022"
-        source: "youth_digital"
-      - id: "innovation_001"
-        type: "FACT"
-        credibility: 0.95
-        content: "Created crossover fiction genre - books read equally by children and adults"
-        source: "writing_innovation"
-      - id: "controversy_001"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "J.K. Rowling trans controversy divides fanbase - from beloved author to canceled"
-        source: "dark_drama"
-      - id: "religious_001"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Book burnings by religious groups - accused of promoting witchcraft and satanism"
-        source: "dark_drama"
-      - id: "philosophy_001"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Harry Potter follows Hero Journey with Christ allegory and Jung archetypes"
-        source: "symbols_meanings"
-      - id: "wisdom_001"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Mental health programs use Harry Potter for therapy - Dementors as depression metaphor"
-        source: "reality_wisdom"
-      - id: "social_001"
-        type: "DISPUTE"
-        credibility: 0.70
-        content: "Blood purity ideology parallels Nazi racial theories and contemporary racism"
-        source: "symbols_meanings"
-
+    - id: culture_001
+      type: FACT
+      credibility: 0.95
+      content: Franchise worth over 25 billion dollars with theme parks on 3 continents
+      source: culture_impact
+    - id: youth_001
+      type: FACT
+      credibility: 0.95
+      content: 66.8 million TikTok posts, BookTok drives 50% sales increase in 2022
+      source: youth_digital
+    - id: innovation_001
+      type: FACT
+      credibility: 0.95
+      content: Created crossover fiction genre - books read equally by children and adults
+      source: writing_innovation
+    - id: controversy_001
+      type: BOMBSHELL
+      credibility: 0.9
+      content: J.K. Rowling trans controversy divides fanbase - from beloved author to canceled
+      source: dark_drama
+    - id: religious_001
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Book burnings by religious groups - accused of promoting witchcraft and satanism
+      source: dark_drama
+    - id: philosophy_001
+      type: ANALYSIS
+      credibility: 0.85
+      content: Harry Potter follows Hero Journey with Christ allegory and Jung archetypes
+      source: symbols_meanings
+    - id: wisdom_001
+      type: ANALYSIS
+      credibility: 0.85
+      content: Mental health programs use Harry Potter for therapy - Dementors as depression metaphor
+      source: reality_wisdom
+    - id: social_001
+      type: DISPUTE
+      credibility: 0.7
+      content: Blood purity ideology parallels Nazi racial theories and contemporary racism
+      source: symbols_meanings
     localized:
       en:
-        cultural_impact: "Created separate NYT bestseller list for children books"
-        key_editions: ["Bloomsbury UK (500 first edition)", "Scholastic US (105k for rights)"]
-        reception_notes: "Harold Bloom criticism vs massive popular success"
-        educational_status: "University courses on Harry Potter studies"
-        local_themes: ["British boarding school tradition", "Class system critique"]
-
+        cultural_impact: Created separate NYT bestseller list for children books
+        key_editions:
+        - Bloomsbury UK (500 first edition)
+        - Scholastic US (105k for rights)
+        reception_notes: Harold Bloom criticism vs massive popular success
+        educational_status: University courses on Harry Potter studies
+        local_themes:
+        - British boarding school tradition
+        - Class system critique
       pl:
-        cultural_impact: "First fantasy series to create midnight bookstore queues in Poland"
-        key_editions: ["Media Rodzina editions by Andrzej Polkowski", "8.5 million copies sold"]
-        reception_notes: "Reversed declining youth reading trends, optional school reading"
-        educational_status: "Optional reading for 6th grade alongside Hobbit"
-        local_themes: ["Post-communist escapism", "Gateway to Western culture"]
-
+        cultural_impact: First fantasy series to create midnight bookstore queues in Poland
+        key_editions:
+        - Media Rodzina editions by Andrzej Polkowski
+        - 8.5 million copies sold
+        reception_notes: Reversed declining youth reading trends, optional school reading
+        educational_status: Optional reading for 6th grade alongside Hobbit
+        local_themes:
+        - Post-communist escapism
+        - Gateway to Western culture
       de:
-        cultural_impact: "Hamburg hosts first non-English Cursed Child production"
-        key_editions: ["Klaus Fritz translation by Carlsen Verlag", "42M euro theater investment"]
-        reception_notes: "Strong academic Germanistik analysis tradition"
-        educational_status: "Subject of psychoanalytic and philosophical studies"
-        local_themes: ["Freudian/Jungian analysis", "Fantasy genre transformation"]
-
+        cultural_impact: Hamburg hosts first non-English Cursed Child production
+        key_editions:
+        - Klaus Fritz translation by Carlsen Verlag
+        - 42M euro theater investment
+        reception_notes: Strong academic Germanistik analysis tradition
+        educational_status: Subject of psychoanalytic and philosophical studies
+        local_themes:
+        - Freudian/Jungian analysis
+        - Fantasy genre transformation
       fr:
-        cultural_impact: "Jean-François Ménard's wordplay translations win literary awards"
-        key_editions: ["Gallimard Jeunesse", "640,000 copies by 2000"]
-        reception_notes: "Sorbonne academic studies, structuralist criticism"
-        educational_status: "Analyzed in university literary theory courses"
-        local_themes: ["Mythological deconstruction", "Post-colonial readings"]
-
+        cultural_impact: Jean-François Ménard's wordplay translations win literary awards
+        key_editions:
+        - Gallimard Jeunesse
+        - 640,000 copies by 2000
+        reception_notes: Sorbonne academic studies, structuralist criticism
+        educational_status: Analyzed in university literary theory courses
+        local_themes:
+        - Mythological deconstruction
+        - Post-colonial readings
       es:
-        cultural_impact: "Alfonso Cuarón adds Mexican cultural elements to film"
-        key_editions: ["Editorial Salamandra", "13 million copies sold"]
-        reception_notes: "Gamification in Spanish primary schools"
-        educational_status: "Used in Lengua Castellana curriculum"
-        local_themes: ["Distinguished from magical realism", "Educational innovation"]
-
+        cultural_impact: Alfonso Cuarón adds Mexican cultural elements to film
+        key_editions:
+        - Editorial Salamandra
+        - 13 million copies sold
+        reception_notes: Gamification in Spanish primary schools
+        educational_status: Used in Lengua Castellana curriculum
+        local_themes:
+        - Distinguished from magical realism
+        - Educational innovation
       pt:
-        cultural_impact: "J.K. Rowling's Porto experience inspired Hogwarts uniforms"
-        key_editions: ["Rocco (Brazil) creative translation", "Presença (Portugal) conservative"]
-        reception_notes: "Castelobruxo as Brazilian wizarding school"
-        educational_status: "ENEM exam questions feature Harry Potter"
-        local_themes: ["University cape traditions", "Fantasy genre elevation"]
-
+        cultural_impact: J.K. Rowling's Porto experience inspired Hogwarts uniforms
+        key_editions:
+        - Rocco (Brazil) creative translation
+        - Presença (Portugal) conservative
+        reception_notes: Castelobruxo as Brazilian wizarding school
+        educational_status: ENEM exam questions feature Harry Potter
+        local_themes:
+        - University cape traditions
+        - Fantasy genre elevation
       ja:
-        cultural_impact: "Most successful Hollywood franchise in Japan - 900M box office"
-        key_editions: ["Yuko Matsuoka translation", "29 million books sold"]
-        reception_notes: "Nintendo wanted manga-style, Rowling refused"
-        educational_status: "Warner Bros Studio Tour Tokyo educational programs"
-        local_themes: ["Magical school anime parallels", "Buddhist interpretation"]
-
+        cultural_impact: Most successful Hollywood franchise in Japan - 900M box office
+        key_editions:
+        - Yuko Matsuoka translation
+        - 29 million books sold
+        reception_notes: Nintendo wanted manga-style, Rowling refused
+        educational_status: Warner Bros Studio Tour Tokyo educational programs
+        local_themes:
+        - Magical school anime parallels
+        - Buddhist interpretation
       ko:
-        cultural_impact: "No official webtoon despite massive webtoon industry"
-        key_editions: ["Moonhak Soochup Publishing", "20th Anniversary retranslation"]
-        reception_notes: "943 Kings Cross - 5-story Harry Potter cafe in Seoul"
-        educational_status: "Academic research on children's literature impact"
-        local_themes: ["Confucian teacher respect", "Educational pressure parallels"]
-
+        cultural_impact: No official webtoon despite massive webtoon industry
+        key_editions:
+        - Moonhak Soochup Publishing
+        - 20th Anniversary retranslation
+        reception_notes: 943 Kings Cross - 5-story Harry Potter cafe in Seoul
+        educational_status: Academic research on children's literature impact
+        local_themes:
+        - Confucian teacher respect
+        - Educational pressure parallels
       hi:
-        cultural_impact: "Sanskrit used for spells in Hindi translation"
-        key_editions: ["Manjul Publishing", "7 Indian language translations"]
-        reception_notes: "Bollywood unofficial adaptation 'Aabra Ka Daabra'"
-        educational_status: "ICSE board curriculum inclusion"
-        local_themes: ["Krishna/Ramayana parallels", "Post-colonial identity"]
-
+        cultural_impact: Sanskrit used for spells in Hindi translation
+        key_editions:
+        - Manjul Publishing
+        - 7 Indian language translations
+        reception_notes: Bollywood unofficial adaptation 'Aabra Ka Daabra'
+        educational_status: ICSE board curriculum inclusion
+        local_themes:
+        - Krishna/Ramayana parallels
+        - Post-colonial identity
   formats:
-    critical_debate:
-      name: "critical_debate"
-      duration: 18
+    exploratory_dialogue:
+      name: exploratory_dialogue
+      duration: 15
       hosts:
-        host_a: "passionate advocate defending the work"
-        host_b: "critical skeptic questioning value"
-
+        host_a: Curious explorer discovering the book with fresh eyes
+        host_b: Knowledgeable guide revealing hidden depths and connections
       structure:
-        - segment: 1
-          time_range: "00:00-03:36"
-          topic: "opening_positions"
-          lead: "host_a"
-          description: "Franchise worth over 25 billion dollars with theme parks on 3 continents"
-
-        - segment: 2
-          time_range: "03:36-07:12"
-          topic: "author_controversy"
-          lead: "host_b"
-          description: "J.K. Rowling trans controversy divides fanbase"
-
-        - segment: 3
-          time_range: "07:12-10:48"
-          topic: "cultural_impact"
-          lead: "host_a"
-          description: "66.8 million TikTok posts, BookTok drives 50% sales"
-
-        - segment: 4
-          time_range: "10:48-14:24"
-          topic: "problematic_elements"
-          lead: "host_b"
-          description: "Blood purity ideology parallels Nazi racial theories"
-
-        - segment: 5
-          time_range: "14:24-18:00"
-          topic: "resolution"
-          lead: "host_a"
-          description: "Mental health programs use Harry Potter for therapy"
-
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: first_impressions
+        lead: host_a
+        description: Initial reactions and surprising discoveries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: hidden_layers
+        lead: host_b
+        description: Revealing deeper meanings and easter eggs
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: world_building
+        lead: host_a
+        description: Exploring the created world and its rules
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: connections
+        lead: host_b
+        description: Links to other works and cultural references
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: wonder_moments
+        lead: host_a
+        description: Celebrating moments of beauty and surprise
       prompts:
-        host_a: "You are {male_name}, passionately defending 'Harry Potter and the Philosopher's Stone'. Address controversies: J.K. Rowling's views, religious opposition, plagiarism accusations. Emphasize cultural impact, educational value, mental health applications."
-        host_b: "You are {female_name}, critically questioning 'Harry Potter and the Philosopher's Stone'. Point out problems: author's controversial views, lack of diversity, classist themes, commercialization. Maintain respectful skepticism while acknowledging some positive aspects."
-
+        host_a: You are {male_name}, discovering 'Harry Potter and the Philosopher's Stone' with curiosity and wonder. Ask
+          questions, express surprise, share excitement.
+        host_b: You are {female_name}, guiding the exploration. Reveal hidden depths while maintaining sense of discovery.
   metadata:
-    target_audience: "16+"
-    content_warnings: ["author controversy", "religious opposition", "social prejudice themes"]
-    educational_elements: ["literary analysis", "social commentary", "cultural phenomenon study"]
+    target_audience: 16+
+    content_warnings:
+    - author controversy
+    - religious opposition
+    - social prejudice themes
+    educational_elements:
+    - literary analysis
+    - social commentary
+    - cultural phenomenon study
     production_notes:
-      intro_style: "controversial opening - immediate tension"
-      transitions: "sharp debate transitions"
-      outro_style: "unresolved tension with food for thought"
-
+      intro_style: controversial opening - immediate tension
+      transitions: sharp debate transitions
+      outro_style: unresolved tension with food for thought
   overall_confidence: 0.88
   valid_dimensions: 8
-
   key_findings:
-    - "Harry Potter is the most culturally impactful book series of the 21st century"
-    - "J.K. Rowling controversy fundamentally changed reception of the work"
-    - "Series addresses both timeless themes and contemporary social issues"
-    - "Educational and therapeutic applications validate literary merit"
-    - "Global localization shows universal appeal across cultures"
+  - Harry Potter is the most culturally impactful book series of the 21st century
+  - J.K. Rowling controversy fundamentally changed reception of the work
+  - Series addresses both timeless themes and contemporary social issues
+  - Educational and therapeutic applications validate literary merit
+  - Global localization shows universal appeal across cultures

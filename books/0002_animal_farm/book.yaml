@@ -1,15 +1,13 @@
 book_info:
-  title: "Animal Farm"
-  title_pl: "Folwark zwierzęcy"
-  author: "George Orwell"
+  title: Animal Farm
+  title_pl: Folwark zwierzęcy
+  author: George Orwell
   year: 1945
-  genre: "Satire,Allegory"
-  reading_time: "3-4 hours"
-
+  genre: Satire,Allegory
+  reading_time: 3-4 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-12T14:30:00Z"
-  
+  version: '3.0'
+  processed_at: '2025-09-12T14:30:00Z'
   scores:
     controversy: 9
     philosophical_depth: 8
@@ -21,173 +19,209 @@ afa_analysis:
     social_roles: 9
     total: 66
     percentile: 90
-  
   composite_scores:
     depth:
       value: 7.8
-      category: "high"
+      category: high
     heat:
       value: 8.8
-      category: "high"
-  
+      category: high
   themes:
     universal:
-      - id: "language_power"
-        type: "FACT"
-        credibility: 0.95
-        content: "Language as manipulation tool - Squealer's propaganda techniques"
-        source: "symbols_meanings"
-      - id: "revolution_corruption"
-        type: "FACT"
-        credibility: 0.95
-        content: "Revolutionary ideals corrupted by power - Napoleon's transformation"
-        source: "dark_drama"
-      - id: "cia_operations"
-        type: "FACT"
-        credibility: 0.95
-        content: "CIA propaganda use - 1954 film and balloon operations"
-        source: "dark_drama"
-      - id: "social_media_parallels"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Modern algorithms mirror Squealer's information control"
-        source: "youth_digital"
-      - id: "educational_standard"
-        type: "FACT"
-        credibility: 0.95
-        content: "Global curriculum standard for 50+ years"
-        source: "culture_impact"
-      - id: "workplace_toxicity"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Napoleon as toxic manager resonates with Gen Z"
-        source: "youth_digital"
-      - id: "prophetic_surveillance"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "Predicted surveillance state and information warfare"
-        source: "reality_wisdom"
-      - id: "literary_innovation"
-        type: "FACT"
-        credibility: 0.95
-        content: "Created modern political beast fable genre"
-        source: "writing_innovation"
-    
+    - id: language_power
+      type: FACT
+      credibility: 0.95
+      content: Language as manipulation tool - Squealer's propaganda techniques
+      source: symbols_meanings
+    - id: revolution_corruption
+      type: FACT
+      credibility: 0.95
+      content: Revolutionary ideals corrupted by power - Napoleon's transformation
+      source: dark_drama
+    - id: cia_operations
+      type: FACT
+      credibility: 0.95
+      content: CIA propaganda use - 1954 film and balloon operations
+      source: dark_drama
+    - id: social_media_parallels
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Modern algorithms mirror Squealer's information control
+      source: youth_digital
+    - id: educational_standard
+      type: FACT
+      credibility: 0.95
+      content: Global curriculum standard for 50+ years
+      source: culture_impact
+    - id: workplace_toxicity
+      type: ANALYSIS
+      credibility: 0.85
+      content: Napoleon as toxic manager resonates with Gen Z
+      source: youth_digital
+    - id: prophetic_surveillance
+      type: BOMBSHELL
+      credibility: 0.9
+      content: Predicted surveillance state and information warfare
+      source: reality_wisdom
+    - id: literary_innovation
+      type: FACT
+      credibility: 0.95
+      content: Created modern political beast fable genre
+      source: writing_innovation
     localized:
       en:
-        cultural_impact: "First global dystopian success, Cold War propaganda tool"
-        key_editions: ["Oxford World's Classics", "Penguin Random House", "Norton Critical"]
-        reception_notes: "GCSE standard text, canonical status"
-        educational_status: "Mandatory reading in secondary education"
-        local_themes: ["Colonial discourse", "Anglo-American Cold War tool"]
-      
+        cultural_impact: First global dystopian success, Cold War propaganda tool
+        key_editions:
+        - Oxford World's Classics
+        - Penguin Random House
+        - Norton Critical
+        reception_notes: GCSE standard text, canonical status
+        educational_status: Mandatory reading in secondary education
+        local_themes:
+        - Colonial discourse
+        - Anglo-American Cold War tool
       pl:
-        cultural_impact: "Underground resistance symbol during communist era"
-        key_editions: ["Teresa Jeleńska translation (1947)", "Szymon Żuchowski (2021)"]
-        reception_notes: "Banned 1947-1988, strong underground circulation"
-        educational_status: "Obligatory reading in Polish schools"
-        local_themes: ["Post-communist readings", "Solidarity movement parallels"]
-      
+        cultural_impact: Underground resistance symbol during communist era
+        key_editions:
+        - Teresa Jeleńska translation (1947)
+        - Szymon Żuchowski (2021)
+        reception_notes: Banned 1947-1988, strong underground circulation
+        educational_status: Obligatory reading in Polish schools
+        local_themes:
+        - Post-communist readings
+        - Solidarity movement parallels
       de:
-        cultural_impact: "Cold War educational tool in divided Germany"
-        key_editions: ["Reclam Universal-Bibliothek", "Fischer editions"]
-        reception_notes: "Banned in DDR, celebrated in West Germany"
-        educational_status: "Gymnasium curriculum standard"
-        local_themes: ["East-West divide symbol", "Anti-totalitarian education"]
-      
+        cultural_impact: Cold War educational tool in divided Germany
+        key_editions:
+        - Reclam Universal-Bibliothek
+        - Fischer editions
+        reception_notes: Banned in DDR, celebrated in West Germany
+        educational_status: Gymnasium curriculum standard
+        local_themes:
+        - East-West divide symbol
+        - Anti-totalitarian education
       fr:
-        cultural_impact: "Anti-totalitarian canon in French intellectual tradition"
-        key_editions: ["Gallimard Folio (Jean Queval)", "Sophie Devil (1947)", "Folio Bilingue (1998)"]
-        reception_notes: "Multiple theatrical adaptations, intense post-WWII communist debates"
-        educational_status: "LLCE lycée curriculum, première classes"
-        local_themes: ["Existentialist connections", "Structuralist criticism context"]
-      
+        cultural_impact: Anti-totalitarian canon in French intellectual tradition
+        key_editions:
+        - Gallimard Folio (Jean Queval)
+        - Sophie Devil (1947)
+        - Folio Bilingue (1998)
+        reception_notes: Multiple theatrical adaptations, intense post-WWII communist debates
+        educational_status: LLCE lycée curriculum, première classes
+        local_themes:
+        - Existentialist connections
+        - Structuralist criticism context
       es:
-        cultural_impact: "Faced Franco censorship, Latin America embraced as universal anti-totalitarian"
-        key_editions: ["Rafael Abella (Destino, 29 editions)", "Editorial Alma illustrated", "Regional translations: Basque, Catalan, Galician"]
-        reception_notes: "Orwell's Spanish Civil War experience adds resonance"
-        educational_status: "Chilean 1º Medio required, Spanish 4th ESO standard"
-        local_themes: ["Revolutionary corruption", "Latin American populism parallels"]
-      
+        cultural_impact: Faced Franco censorship, Latin America embraced as universal anti-totalitarian
+        key_editions:
+        - Rafael Abella (Destino, 29 editions)
+        - Editorial Alma illustrated
+        - 'Regional translations: Basque, Catalan, Galician'
+        reception_notes: Orwell's Spanish Civil War experience adds resonance
+        educational_status: Chilean 1º Medio required, Spanish 4th ESO standard
+        local_themes:
+        - Revolutionary corruption
+        - Latin American populism parallels
       pt:
-        cultural_impact: "Published during 1964 Brazilian military coup as anti-communist propaganda"
-        key_editions: ["A Revolução dos Bichos (1964)", "A Fazenda dos Animais (2021)", "Companhia das Letras"]
-        reception_notes: "Translator connected to military intelligence, 5 new translations post-2021"
-        educational_status: "Mandatory post-WWII generation reading, USP academic focus"
-        local_themes: ["Military dictatorship critique", "Translation as political act"]
-      
+        cultural_impact: Published during 1964 Brazilian military coup as anti-communist propaganda
+        key_editions:
+        - A Revolução dos Bichos (1964)
+        - A Fazenda dos Animais (2021)
+        - Companhia das Letras
+        reception_notes: Translator connected to military intelligence, 5 new translations post-2021
+        educational_status: Mandatory post-WWII generation reading, USP academic focus
+        local_themes:
+        - Military dictatorship critique
+        - Translation as political act
       ja:
-        cultural_impact: "Early translation (1949), major Orwell boom 1983-84"
-        key_editions: ["Iwanami Bunko (Kawabata Yasuo)", "Ken Kaiko translation", "Manga: Ishinomori (1970), Takei"]
-        reception_notes: "Four reception periods, manga adaptations significant"
-        educational_status: "English textbooks since 1950s, bilingual editions"
-        local_themes: ["Animal sentience philosophy", "Manga cultural exchange"]
-      
+        cultural_impact: Early translation (1949), major Orwell boom 1983-84
+        key_editions:
+        - Iwanami Bunko (Kawabata Yasuo)
+        - Ken Kaiko translation
+        - 'Manga: Ishinomori (1970), Takei'
+        reception_notes: Four reception periods, manga adaptations significant
+        educational_status: English textbooks since 1950s, bilingual editions
+        local_themes:
+        - Animal sentience philosophy
+        - Manga cultural exchange
       ko:
-        cultural_impact: "First translation 1948 under U.S. Military Government"
-        key_editions: ["Minumsa World Literature", "Kim Byeong-ik (2022)", "Multiple retranslations"]
-        reception_notes: "Direct North Korea parallels, democratization era significance"
-        educational_status: "High school recommended, English literature essential"
-        local_themes: ["North Korea dictatorship parallels", "Korean democratization movements"]
-      
+        cultural_impact: First translation 1948 under U.S. Military Government
+        key_editions:
+        - Minumsa World Literature
+        - Kim Byeong-ik (2022)
+        - Multiple retranslations
+        reception_notes: Direct North Korea parallels, democratization era significance
+        educational_status: High school recommended, English literature essential
+        local_themes:
+        - North Korea dictatorship parallels
+        - Korean democratization movements
       hi:
-        cultural_impact: "Orwell born in India (Motihari 1903), colonial experience influence"
-        key_editions: ["Penguin Random House India", "Prabhat Prakashan (Hindi)", "Suraj Prakash translation"]
-        reception_notes: "Bengali 'Poshu Khamar' faced political controversy"
-        educational_status: "ICSE Class 10 syllabus, university programs"
-        local_themes: ["Postcolonial interpretations", "Contemporary BJP/opposition dynamics"]
-  
+        cultural_impact: Orwell born in India (Motihari 1903), colonial experience influence
+        key_editions:
+        - Penguin Random House India
+        - Prabhat Prakashan (Hindi)
+        - Suraj Prakash translation
+        reception_notes: Bengali 'Poshu Khamar' faced political controversy
+        educational_status: ICSE Class 10 syllabus, university programs
+        local_themes:
+        - Postcolonial interpretations
+        - Contemporary BJP/opposition dynamics
   formats:
-    academic_analysis:
-      name: "academic_analysis"
+    critical_debate:
+      name: critical_debate
       duration: 18
       hosts:
-        host_a: "professor/expert presenting complex concepts"
-        host_b: "student/assistant simplifying and clarifying"
+        host_a: Literary critic defending traditional interpretation and artistic merit
+        host_b: Contemporary critic challenging with modern perspectives and critiques
       structure:
-        - segment: 1
-          time_range: "00:00-03:36"
-          topic: "historical_context"
-          lead: "host_a"
-          description: "Spanish Civil War origins and Russian Revolution parallels"
-        - segment: 2
-          time_range: "03:36-07:12"
-          topic: "literary_innovation"
-          lead: "host_b"
-          description: "Political beast fable creation and narrative techniques"
-        - segment: 3
-          time_range: "07:12-10:48"
-          topic: "political_allegory"
-          lead: "host_a"
-          description: "Character-to-historical figure mapping and symbolism"
-        - segment: 4
-          time_range: "10:48-14:24"
-          topic: "contemporary_relevance"
-          lead: "host_b"
-          description: "Social media parallels and modern applications"
-        - segment: 5
-          time_range: "14:24-18:00"
-          topic: "legacy_synthesis"
-          lead: "host_a"
-          description: "Educational impact and enduring influence"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: opening_positions
+        lead: host_a
+        description: Traditional interpretation and canonical value
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: counter_argument
+        lead: host_b
+        description: Contemporary challenges and problematic aspects
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: evidence_exchange
+        lead: host_a
+        description: Textual evidence supporting both positions
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: critical_frameworks
+        lead: host_b
+        description: Different critical lenses and interpretations
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: synthesis_debate
+        lead: host_a
+        description: Finding common ground while maintaining differences
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: audience_implications
+        lead: host_b
+        description: What different readings mean for modern audiences
       prompts:
-        host_a: "You are Professor {male_name}, analyzing Animal Farm with scholarly depth. Discuss allegorical structure, historical context, and literary innovation. Academic but accessible."
-        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility for general audience."
-  
+        host_a: You are {male_name}, defending 'Animal Farm' traditional interpretation. Argue for canonical value while acknowledging
+          some critiques.
+        host_b: You are {female_name}, challenging with contemporary perspectives. Question problematic elements while respecting
+          literary merit.
   metadata:
-    target_audience: "16+"
-    content_warnings: 
-      - "Political content and historical totalitarian references"
-      - "Allegorical violence and social conflict" 
-      - "Complex themes requiring historical context"
+    target_audience: 16+
+    content_warnings:
+    - Political content and historical totalitarian references
+    - Allegorical violence and social conflict
+    - Complex themes requiring historical context
     educational_elements:
-      - "Allegorical interpretation techniques"
-      - "Historical context of Russian Revolution"
-      - "Political propaganda analysis"
-      - "Literary innovation in dystopian genre"
+    - Allegorical interpretation techniques
+    - Historical context of Russian Revolution
+    - Political propaganda analysis
+    - Literary innovation in dystopian genre
     production_notes:
-      intro_style: "Academic introduction with historical context"
-      transitions: "Scholarly bridges between segments"
-      outro_style: "Synthesis of key insights and lasting relevance"
-  
+      intro_style: Academic introduction with historical context
+      transitions: Scholarly bridges between segments
+      outro_style: Synthesis of key insights and lasting relevance
   overall_confidence: 0.92

@@ -1,0 +1,181 @@
+book_info:
+  title: "Romeo and Juliet"
+  title_pl: "Romeo i Julia"
+  author: "William Shakespeare"
+  year: c. 1595
+  genre: "Tragedy,Play"
+  reading_time: "3-4 hours"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-14T15:45:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 10
+    structural_complexity: 7
+    social_roles: 8
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Julia being 13 years old in relationship with older Romeo - contemporary criticism"
+        source: "dark_drama"
+      - id: "dark_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Teen suicide glorification with modern parallels to 400K annual deaths"
+        source: "dark_drama"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created romantic tragedy genre - revolutionary literary innovation"
+        source: "writing_innovation"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "34+ film adaptations making it genre-defining cultural phenomenon"
+        source: "culture_impact"
+      - id: "reality_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Modern neuroscience validates Shakespeare's adolescent psychology insights"
+        source: "reality_wisdom"
+      - id: "digital_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "13.8M TikTok posts demonstrate viral contemporary digital presence"
+        source: "youth_digital"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Feminist interpretations of Julia's agency against patriarchal systems"
+        source: "symbols_meanings"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex social commentary on class, gender, and family conflict"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Broadway tradition with 37 productions, Hollywood standard adaptations"
+        key_editions: ["Norton Critical Edition", "Folger Shakespeare Library", "Penguin Classics"]
+        reception_notes: "Educational canon in both British and American curricula"
+        educational_status: "Standard 9th grade text in American schools, GCSE requirement in UK"
+        local_themes: ["Archetypal young lovers", "Educational accessibility", "Film adaptation legacy"]
+
+      pl:
+        cultural_impact: "Mandatory curriculum reading with 11 Polish translations analyzed"
+        key_editions: ["Józef Paszkowski translation (PIW)", "Stanisław Barańczak modern version"]
+        reception_notes: "Strong youth engagement via TikTok and social media memes"
+        educational_status: "Obligatory reading in Polish secondary education since 2021"
+        local_themes: ["Translation evolution", "Educational accessibility", "Digital youth culture"]
+
+      de:
+        cultural_impact: "Central to German Romantic movement and philosophical tradition"
+        key_editions: ["Reclam Universal-Bibliothek", "Schlegel-Tieck translation", "Frank Günther modern"]
+        reception_notes: "Strong academic tradition with psychoanalytic interpretations"
+        educational_status: "Core Abitur preparation text across German federal states"
+        local_themes: ["Romantic philosophy", "Psychoanalytic readings", "Death romanticism"]
+
+      fr:
+        cultural_impact: "Berlioz symphonie dramatique and Gounod opera traditions"
+        key_editions: ["Gallimard Pléiade", "François-Victor Hugo translation"]
+        reception_notes: "Structuralist critical analysis tradition"
+        educational_status: "Lycée curriculum for 'Dire l'amour' theme"
+        local_themes: ["Musical adaptations", "Structuralist analysis", "Literary theory"]
+
+      es:
+        cultural_impact: "Latin American adaptations and West Side Story connections"
+        key_editions: ["Astrana Marín complete works", "Pablo Neruda translation (Chile)"]
+        reception_notes: "Strong telenovela and theatrical adaptation tradition"
+        educational_status: "Bachillerato programs across Spanish-speaking countries"
+        local_themes: ["Latino immigration themes", "Social class conflicts", "Regional adaptations"]
+
+      pt:
+        cultural_impact: "Brazilian Grupo Galpão innovative theater tradition"
+        key_editions: ["Carlos Alberto Nunes translation", "José Francisco Botelho modern"]
+        reception_notes: "SBT telenovela adaptations for contemporary audiences"
+        educational_status: "University literature programs, ENEM reference"
+        local_themes: ["Brazilian cultural fusion", "Popular theater", "Telenovela adaptations"]
+
+      ja:
+        cultural_impact: "Takarazuka Revue productions and anime adaptations"
+        key_editions: ["Iwanami Bunko edition", "Tsubouchi Shoyo translation legacy"]
+        reception_notes: "Buddhist reinterpretation with reincarnation themes"
+        educational_status: "University research on cultural cross-pollination"
+        local_themes: ["Buddhist philosophy", "Takarazuka aesthetics", "Manga/anime adaptations"]
+
+      ko:
+        cultural_impact: "K-drama adaptations and National Changgeuk Company opera"
+        key_editions: ["Minumsa edition", "Lee Yun-gi father-daughter translation"]
+        reception_notes: "Political metaphor for North-South Korean division"
+        educational_status: "University curriculum in English and comparative literature"
+        local_themes: ["Division metaphors", "Confucian family values", "Regional conflict"]
+
+      hi:
+        cultural_impact: "Bollywood adaptations including Ram-Leela and multiple regional films"
+        key_editions: ["Tamil translation (1908)", "Hindi archived educational materials"]
+        reception_notes: "Postcolonial reinterpretation challenging Western authority"
+        educational_status: "Class 12 pre-university curriculum in Karnataka and other states"
+        local_themes: ["Bollywood spectacle", "Postcolonial reading", "Hindu mythological parallels"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 12
+      hosts:
+        host_a: "passionate advocate defending the work"
+        host_b: "critical skeptic questioning value"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Classic literature value versus contemporary concerns about problematic content"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Age dynamics, suicide glorification, and harmful content in educational settings"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Literary innovation, universal themes, and enduring cultural relevance"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "resolution"
+          lead: "host_b"
+          description: "Finding balanced modern interpretation and critical engagement approaches"
+      prompts:
+        host_a: "You are {male_name}, passionately defending Romeo and Juliet's literary and cultural value. Address controversial aspects while emphasizing universal themes, revolutionary innovations, and enduring relevance. Focus on: its creation of romantic tragedy genre and modern neuroscience validation of psychological insights."
+        host_b: "You are {female_name}, critically examining Romeo and Juliet's problematic elements including 13-year-old Julia with older Romeo, suicide glorification, and questioning whether classic status excuses harmful content. Point out modern concerns while maintaining respectful academic skepticism."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["teen suicide themes", "age-inappropriate relationships", "historical violence"]
+    educational_elements: ["Shakespearean dramatic innovation", "Literary genre creation", "Cultural adaptation studies", "Psychological realism analysis"]
+    production_notes:
+      intro_style: "balanced academic debate setup"
+      transitions: "tension-building musical bridges"
+      outro_style: "thoughtful resolution encouraging critical thinking"
+
+  overall_confidence: 0.91

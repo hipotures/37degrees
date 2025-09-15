@@ -1,10 +1,10 @@
 book_info:
-  title: "Brave New World"
-  title_pl: "Nowy wspaniały świat"
-  author: "Aldous Huxley"
+  title: Brave New World
+  title_pl: Nowy wspaniały świat
+  author: Aldous Huxley
   year: 1932
-  genre: "Dystopian,Science fiction"
-  reading_time: "8-10 hours"
+  genre: Dystopian,Science fiction
+  reading_time: 8-10 hours
 afa_analysis:
   version: '3.0'
   processed_at: '2025-09-12T12:05:00Z'
@@ -31,231 +31,203 @@ afa_analysis:
     - id: dark_0
       type: FACT
       credibility: 0.95
-      content: Julian Huxley (brat Aldousa) był prezesem British Eugenics Society (1959-1962)
-        i wiceprezesem (1937-1944). Aktywnie propagował kontrolę reprodukcji "niższych
-        klas społecznych" i potencjalną sterylizację.
+      content: Julian Huxley (brat Aldousa) był prezesem British Eugenics Society (1959-1962) i wiceprezesem (1937-1944).
+        Aktywnie propagował kontrolę reprodukcji "niższych klas społecznych" i potencjalną sterylizację.
       source: dark_drama
     - id: dark_1
       type: FACT
       credibility: 0.95
-      content: Aldous Huxley przeprowadzał ekstensywne eksperymenty z meskaliną i
-        LSD. Na łożu śmierci poprosił żonę o podanie mu iniekcji LSD.
+      content: Aldous Huxley przeprowadzał ekstensywne eksperymenty z meskaliną i LSD. Na łożu śmierci poprosił żonę o podanie
+        mu iniekcji LSD.
       source: dark_drama
     - id: dark_2
       type: FACT
       credibility: 0.95
-      content: Książka została zakazana w Irlandii (1932) za "anty-rodzinną i anty-religijną"
-        treść.
+      content: Książka została zakazana w Irlandii (1932) za "anty-rodzinną i anty-religijną" treść.
       source: dark_drama
     - id: facts_3
       type: FACT
       credibility: 0.95
-      content: Huxley napisał "Brave New World" w cztery miesiące, od maja do sierpnia
-        1931 roku.
+      content: Huxley napisał "Brave New World" w cztery miesiące, od maja do sierpnia 1931 roku.
       source: facts_history
     - id: facts_4
       type: FACT
       credibility: 0.95
-      content: Główną inspiracją były utopijne powieści H.G. Wellsa, szczególnie
-        "Men Like Gods" (1923).
+      content: Główną inspiracją były utopijne powieści H.G. Wellsa, szczególnie "Men Like Gods" (1923).
       source: facts_history
     - id: facts_5
       type: FACT
       credibility: 0.95
-      content: Podróż Huxleya do Stanów Zjednoczonych miała kluczowy wpływ na kształt
-        powieści - był oburzony amerykańskim "kultem młodości, komercyjną wesołością
-        i rozwiązłością seksualną".
+      content: Podróż Huxleya do Stanów Zjednoczonych miała kluczowy wpływ na kształt powieści - był oburzony amerykańskim
+        "kultem młodości, komercyjną wesołością i rozwiązłością seksualną".
       source: facts_history
     - id: symbols_6
       type: ANALYSIS
       credibility: 0.85
-      content: 'FORD JAKO BÓSTWO TECHNOLOGII: Henry Ford jako quasi-religijny przywódca
-        duchowy społeczeństwa. Krytyka industrializacji i zastąpienie religii technologią.'
+      content: 'FORD JAKO BÓSTWO TECHNOLOGII: Henry Ford jako quasi-religijny przywódca duchowy społeczeństwa. Krytyka industrializacji
+        i zastąpienie religii technologią.'
       source: symbols_meanings
     - id: symbols_7
       type: ANALYSIS
       credibility: 0.85
-      content: 'SOMA - NAJWAŻNIEJSZY SYMBOL KONTROLI: Narkotyk szczęścia jako narzędzie
-        społecznej kontroli. Przewidywanie współczesnej kultury leków psychotropowych
-        i eskapizmu masowego.'
+      content: 'SOMA - NAJWAŻNIEJSZY SYMBOL KONTROLI: Narkotyk szczęścia jako narzędzie społecznej kontroli. Przewidywanie
+        współczesnej kultury leków psychotropowych i eskapizmu masowego.'
       source: symbols_meanings
     localized:
       en:
-        cultural_impact: Foundational text of dystopian literature, deeply integrated
-          into academic curricula and popular culture, though subject to continuous
-          censorship debates in the US.
+        cultural_impact: Foundational text of dystopian literature, deeply integrated into academic curricula and popular
+          culture, though subject to continuous censorship debates in the US.
         key_editions:
         - Chatto & Windus (1932, UK)
         - Doubleday Doran (1932, US)
         - Penguin Classics (with Margaret Atwood intro)
-        reception_notes: Initially negative reviews, but later recognized as a masterpiece.
-          Ranked #5 on Modern Library's "100 Best Novels".
-        educational_status: Widely taught in UK and US universities and high schools,
-          often alongside "1984".
+        reception_notes: Initially negative reviews, but later recognized as a masterpiece. Ranked
+        educational_status: Widely taught in UK and US universities and high schools, often alongside "1984".
         local_themes:
         - Censorship and freedom of speech debates
         - Critique of consumerism and mass media
         - Pleasure-based control vs. pain-based oppression (Orwell)
       pl:
-        cultural_impact: Extremely rapid reception (published in Polish in 1932).
-          Unique interpretation through the lens of communist-era experience and
-          post-1989 transformation.
+        cultural_impact: Extremely rapid reception (published in Polish in 1932). Unique interpretation through the lens of
+          communist-era experience and post-1989 transformation.
         key_editions:
         - Towarzystwo Wydawnicze "Rój" (1932, trans. Stanisława Kuszelewska)
-        reception_notes: Overshadowed by plagiarism accusations from Polish author
-          Mieczysław Smolarski. Resonates with youth culture through hip-hop references
-          (Taconafide).
-        educational_status: Not a mandatory school reading but widely read as supplementary
-          literature.
+        reception_notes: Overshadowed by plagiarism accusations from Polish author Mieczysław Smolarski. Resonates with youth
+          culture through hip-hop references (Taconafide).
+        educational_status: Not a mandatory school reading but widely read as supplementary literature.
         local_themes:
         - Dystopia read through the lens of totalitarian (communist) experience
         - Critique of consumerism in a post-communist society
         - Parallels with Nazi eugenics from a historical perspective
       de:
-        cultural_impact: Profound philosophical resonance, particularly with the
-          Frankfurt School. A staple of secondary education.
+        cultural_impact: Profound philosophical resonance, particularly with the Frankfurt School. A staple of secondary education.
         key_editions:
         - Insel (1932, "Welt – wohin?")
         - Fischer Verlag (1953, "Schöne neue Welt")
         - Reclam study editions
-        reception_notes: Central to the development of Adorno and Horkheimer's "culture
-          industry" concept. Adapted into a musical in Berlin (2006).
-        educational_status: Extensively studied in German Gymnasium (secondary school)
-          for Abitur preparations.
+        reception_notes: Central to the development of Adorno and Horkheimer's "culture industry" concept. Adapted into a
+          musical in Berlin (2006).
+        educational_status: Extensively studied in German Gymnasium (secondary school) for Abitur preparations.
         local_themes:
         - Frankfurt School critique of mass society
         - Dehumanization through technology
         - Philosophical analysis of freedom vs. happiness
       fr:
-        cultural_impact: Strong integration into philosophical and educational discourse,
-          with the title "Le Meilleur des mondes" becoming a cultural reference.
+        cultural_impact: Strong integration into philosophical and educational discourse, with the title "Le Meilleur des
+          mondes" becoming a cultural reference.
         key_editions:
         - Plon, Pocket, Gallimard
         - Translated by Jules Castier
-        reception_notes: Title deliberately evokes Voltaire's "Candide". Used to
-          critique consumer society ("société de consommation").
-        educational_status: Widely studied in French lycées, especially in "Humanités,
-          littérature et philosophie" (HLP) courses.
+        reception_notes: Title deliberately evokes Voltaire's "Candide". Used to critique consumer society ("société de consommation").
+        educational_status: Widely studied in French lycées, especially in "Humanités, littérature et philosophie" (HLP) courses.
         local_themes:
         - Connection to French Enlightenment satire (Voltaire)
         - Analysis through the lens of French social theory (Foucault, Debord)
         - Critique of technocratic control
       es:
-        cultural_impact: Significant cultural relevance in both Spain and Latin
-          America, used to analyze authoritarianism and social control.
+        cultural_impact: Significant cultural relevance in both Spain and Latin America, used to analyze authoritarianism
+          and social control.
         key_editions:
         - Luis Miracle (1935, trans. Luys Santamarina)
         - Plaza & Janés (1969, trans. Ramón Hernández)
         - Cátedra (academic edition)
-        reception_notes: Influenced Spanish and Argentine pop music. Title "Un Mundo
-          Feliz" is a common cultural phrase.
-        educational_status: Included in Spanish Bachillerato and university programs
-          (e.g., Universidad Complutense de Madrid).
+        reception_notes: Influenced Spanish and Argentine pop music. Title "Un Mundo Feliz" is a common cultural phrase.
+        educational_status: Included in Spanish Bachillerato and university programs (e.g., Universidad Complutense de Madrid).
         local_themes:
         - Critique of consumer society and social homogenization
         - Analysis of totalitarian mechanisms relevant to Latin American history
         - Poststructuralist analysis (Foucault, Baudrillard)
       pt:
-        cultural_impact: Significant cultural impact in Brazil, particularly through
-          musical adaptation during the military dictatorship.
+        cultural_impact: Significant cultural impact in Brazil, particularly through musical adaptation during the military
+          dictatorship.
         key_editions:
         - Biblioteca Azul (Brazil, trans. Vidal de Oliveira)
         - Companhia das Letras (graphic novel)
         - Antígona Editora (Portugal)
-        reception_notes: Zé Ramalho's 1979 song "Admirável Gado Novo" became a protest
-          hymn. The book featured in Brazil's ENEM 2022 exam.
-        educational_status: Used in Brazilian high schools for interdisciplinary
-          teaching (Literature, Sociology, Philosophy).
+        reception_notes: Zé Ramalho's 1979 song "Admirável Gado Novo" became a protest hymn. The book featured in Brazil's
+          ENEM 2022 exam.
+        educational_status: Used in Brazilian high schools for interdisciplinary teaching (Literature, Sociology, Philosophy).
         local_themes:
         - Critique of authoritarianism (Brazilian military dictatorship)
         - Technological dependence and loss of autonomy
         - Consumerism as a form of social control
       ja:
-        cultural_impact: Deep thematic resonance with Japanese social concerns about
-          conformity, technology, and social engineering.
+        cultural_impact: Deep thematic resonance with Japanese social concerns about conformity, technology, and social engineering.
         key_editions:
         - Kodansha Bunko (1974)
         - Kobunsha Classic New Translation (2013)
         - Hayakawa epi Bunko (2017)
-        reception_notes: No direct adaptations, but strong influence on Japanese
-          dystopian sci-fi (e.g., "Psycho-Pass").
-        educational_status: Studied in university comparative literature and philosophy
-          courses.
+        reception_notes: No direct adaptations, but strong influence on Japanese dystopian sci-fi (e.g., "Psycho-Pass").
+        educational_status: Studied in university comparative literature and philosophy courses.
         local_themes:
         - Parallels with Japan's conformist education system
         - Critique of social hierarchy and group harmony (wa)
         - Connection to Buddhist concepts of suffering and desire
       ko:
-        cultural_impact: The title "멋진 신세계" (A Wonderful New World) is frequently
-          borrowed for K-dramas and webtoons, even when not direct adaptations.
+        cultural_impact: The title "멋진 신세계" (A Wonderful New World) is frequently borrowed for K-dramas and webtoons, even
+          when not direct adaptations.
         key_editions:
         - Munye Publishing (1998, trans. Lee Deok-hyeong)
-        reception_notes: Dystopian themes are popular in K-pop (e.g., Dreamcatcher).
-          A popular webtoon shares the title but not the plot.
-        educational_status: Not part of the mandatory CSAT curriculum, but studied
-          at the university level.
+        reception_notes: Dystopian themes are popular in K-pop (e.g., Dreamcatcher). A popular webtoon shares the title but
+          not the plot.
+        educational_status: Not part of the mandatory CSAT curriculum, but studied at the university level.
         local_themes:
         - Analysis through the lens of Confucian social hierarchy
         - Parallels with intense corporate and educational pressure
         - Generational conflict and rebellion
       hi:
-        cultural_impact: Significant for its appropriation of Hindu sacred traditions
-          (Soma) and its analysis through the lens of the Indian caste system.
+        cultural_impact: Significant for its appropriation of Hindu sacred traditions (Soma) and its analysis through the
+          lens of the Indian caste system.
         key_editions:
         - Prabhat Prakashan (Hindi)
         - The Morden Library (1932, sourced from Digital Library of India)
-        reception_notes: Banned in India in 1967. Huxley's use of "Soma" from the
-          Rigveda is a key point of analysis.
-        educational_status: Not on official CBSE/ISC syllabi, but used in academic
-          research (e.g., Jadavpur University).
+        reception_notes: Banned in India in 1967. Huxley's use of "Soma" from the Rigveda is a key point of analysis.
+        educational_status: Not on official CBSE/ISC syllabi, but used in academic research (e.g., Jadavpur University).
         local_themes:
         - Parallels between the novel's caste system and the Hindu varna system
         - Postcolonial critique of Huxley's use of Indian culture
         - Connection to Dr. B.R. Ambedkar's "Annihilation of Caste"
   formats:
-    academic_analysis:
-      name: academic_analysis
+    narrative_reconstruction:
+      name: narrative_reconstruction
       duration: 18
       hosts:
-        host_a: professor/expert presenting complex concepts
-        host_b: student/assistant simplifying and clarifying
+        host_a: Detective/investigator piecing together narrative puzzles
+        host_b: Witness/informant providing crucial story details and clues
       structure:
       - segment: 1
-        time_range: '00:00-03:36'
-        topic: thesis
+        time_range: 00:00-03:00
+        topic: mystery_setup
         lead: host_a
-        description: Julian Huxley (brat Aldousa) był prezesem British Eugenics Society (1959-1962)
-          i wiceprezesem (1937-1944). Aktywnie propagował kontrolę reprodukcji "niższych
-          klas społecznych" i potencjalną sterylizację.
+        description: Identifying narrative puzzles and mysteries
       - segment: 2
-        time_range: '03:36-07:12'
-        topic: analysis
+        time_range: 03:00-06:00
+        topic: evidence_gathering
         lead: host_b
-        description: Aldous Huxley przeprowadzał ekstensywne eksperymenty z meskaliną
-          i LSD. Na łożu śmierci poprosił żonę o podanie mu iniekcji LSD.
+        description: Presenting key clues and story evidence
       - segment: 3
-        time_range: '07:12-10:48'
-        topic: examples
+        time_range: 06:00-09:00
+        topic: timeline_reconstruction
         lead: host_a
-        description: Książka została zakazana w Irlandii (1932) za "anty-rodzinną i anty-religijną"
-          treść.
+        description: Piecing together chronology and causality
       - segment: 4
-        time_range: '10:48-14:24'
-        topic: synthesis
+        time_range: 09:00-12:00
+        topic: unreliable_elements
         lead: host_b
-        description: Huxley napisał "Brave New World" w cztery miesiące, od maja do
-          sierpnia 1931 roku.
+        description: Identifying what can and cannot be trusted
       - segment: 5
-        time_range: '14:24-18:00'
-        topic: synthesis
+        time_range: 12:00-15:00
+        topic: hidden_truth
         lead: host_a
-        description: Bringing themes together
+        description: Revealing the true story beneath the surface
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: final_reconstruction
+        lead: host_b
+        description: Complete narrative understanding achieved
       prompts:
-        host_a: You are Professor {male_name}, analyzing 'Brave New World' with scholarly
-          depth. Discuss structure, symbolism, literary techniques. Academic but
-          accessible.
-        host_b: You are {female_name}, a graduate student. Ask for clarification,
-          request examples, connect to literary theories, ensure accessibility.
+        host_a: You are {male_name}, investigating 'Brave New World' narrative mysteries. Piece together clues like a detective.
+        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
   metadata:
     target_audience: 16+
     content_warnings:

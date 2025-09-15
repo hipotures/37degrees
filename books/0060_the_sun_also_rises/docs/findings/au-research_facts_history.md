@@ -1,204 +1,204 @@
-# Historia powstania "The Sun Also Rises" - Badanie faktów i anegdot
+# Creation History of "The Sun Also Rises" - Facts and Anecdotes Research
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: "The Sun Also Rises"
-- **Tytuł polski**: "Słońce też wschodzi" 
-- **Autor**: Ernest Hemingway
-- **Rok publikacji**: 1926
-- **Gatunek**: Powieść modernistyczna
-
----
-
-## CHRONOLOGIA POWSTANIA KSIĄŻKI
-
-### **FAKT**: Błyskawiczny proces pisania
-- **21 lipca 1925** (w swoje urodziny) - Hemingway rozpoczął pisanie pierwszego szkicu
-- Ukończył go w **8 tygodni** - to rekordowo szybkie tempo jak na powieść tego kalibru
-- Rozpoczął pisanie zaledwie kilka dni po zakończeniu fiesty w Pampelunie
-
-### **FAKT**: Zimowa rewizja w Austrii
-- **Grudzień 1925** - Hemingway z żoną Hadley wyjechali do Schruns w Austrii
-- Spędził tam zimę na **ekstensywnej rewizji** manuskryptu
-- **Marzec 1926** - zakończył poprawki po krótkim wyjeździe do Nowego Jorku
-
-### **FAKT**: Szczegóły publikacji
-- **Kwiecień 1926** - manuskrypt dotarł do Nowego Jorku
-- **Sierpień 1926** - Hemingway poprawił ostatnie korekty w Paryżu  
-- **22 października 1926** - oficjalna data publikacji przez Scribner's
-- **Pierwszy nakład**: 5,090 egzemplarzy po 2$ za sztukę
+## Basic Book Information
+- **Original Title**: "The Sun Also Rises"
+- **Polish Title**: "Słońce też wschodzi"
+- **Author**: Ernest Hemingway
+- **Publication Year**: 1926
+- **Genre**: Modernist Novel
 
 ---
 
-## INSPIRACJE I PRAWDZIWE WYDARZENIA
+## BOOK CREATION CHRONOLOGY
 
-### **FAKT**: Prawdziwe osoby jako prototypy bohaterów
-- **Lady Duff Twysden** → Lady Brett Ashley (główna bohaterka)
-- **Harold Loeb** → Robert Cohn (rywalizujący pisarz)
-- **Pat Guthrie** → Mike Campbell (kochanek Brett)
-- **Bill Smith** → Bill Gorton (przyjaciel narratora)
-- **Donald Ogden Stewart** → również pojawia się w powieści
+### **FACT**: Lightning-fast writing process
+- **July 21, 1925** (on his birthday) - Hemingway began writing the first draft
+- Completed it in **8 weeks** - record-breaking speed for a novel of this caliber
+- Started writing just days after finishing the fiesta in Pamplona
 
-### **FAKT**: Dramatyczna wyprawa do Pampeluny (czerwiec 1925)
-- Trzecia wyprawa Hemingwaya na fiestę San Fermín
-- Hemingway zabrał grupę amerykańskich i brytyjskich ekspatriantów
-- **Trójkąt miłosny**: Lady Duff miała **dwóch kochanków** w grupie (Pat Guthrie i Harold Loeb)
+### **FACT**: Winter revision in Austria
+- **December 1925** - Hemingway and wife Hadley traveled to Schruns, Austria
+- Spent the winter on **extensive manuscript revision**
+- **March 1926** - finished corrections after a short trip to New York
 
-### **PLOTKA**: Prowokacyjne zachowanie Lady Duff
-- Podobno flirtowała z młodym matadorem Ordóñezem podczas fiesty
-- To dodatkowo podgrzało atmosferę wśród jej adoratorów
-
-### **FAKT**: Fizyczna konfrontacja między Hemingwayem a Loebem
-- Po kolacji przy brandy Hemingway powiedział Loebowi: "Już dość zrobiłeś, żeby zepsuć to przyjęcie"
-- Loeb wyzwał znacznie większego Hemingwaya na pojedynek
-- Poszli do alejki, ale gdy Loeb zdjął okulary, napięcie opadło
-- Hemingway żartował, że będzie trzymał marynarkę Loeba
-- **Następnego ranka** Hemingway zostawił list z przeprosinami, pisząc, że jest "dogłębnie zawstydzony"
-
-### **FAKT**: Lady Duff z podbitym okiem
-- Podczas fiesty pojawiła się na lunchu z czarnym okiem i siniakami na czole
-- Prawdopodobnie po nocnej bójce z Pat Guthrie
-
-### **FAKT**: Ujawnienie romansu
-- Podczas fiesty wyszło na jaw, że Lady Duff spędziła **dwa tygodnie** na romantycznym wyjeździe z Haroldem Loebem w St.-Jean-de-Luz (francuskie miasto nadmorskie)
-- To wywołało eksplozję zazdrości w grupie
+### **FACT**: Publication details
+- **April 1926** - manuscript reached New York
+- **August 1926** - Hemingway made final corrections in Paris
+- **October 22, 1926** - official publication date by Scribner's
+- **First print run**: 5,090 copies at $2 each
 
 ---
 
-## PROCES TWÓRCZY I WARUNKI PISANIA
+## INSPIRATIONS AND REAL EVENTS
 
-### **FAKT**: Pisanie w paryskich kawiarniach
-- Mieszkanie Hemingwayów przy 113, rue Notre-Dame-des-Champs było na drugim piętrze, **bezpośrednio nad czynną tartakiem**
-- Między hałasem tartak a płaczem dziecka, Ernest spędzał więcej czasu pisząc w kawiarniach
+### **FACT**: Real people as character prototypes
+- **Lady Duff Twysden** → Lady Brett Ashley (main female character)
+- **Harold Loeb** → Robert Cohn (rival writer)
+- **Pat Guthrie** → Mike Campbell (Brett's lover)
+- **Bill Smith** → Bill Gorton (narrator's friend)
+- **Donald Ogden Stewart** → also appears in the novel
 
-### **FAKT**: Rozpad małżeństwa podczas pisania
-- Małżeństwo z Hadley Richardson się rozpadało w trakcie pisania "The Sun Also Rises"
-- **Styczeń 1926** - Pauline Pfeiffer dołączyła do Hemingwayów w Schruns
-- Hemingway rozpoczął romans z Pauline podczas krótkiej wizyty w Paryżu
+### **FACT**: Dramatic trip to Pamplona (June 1925)
+- Hemingway's third trip to the San Fermín fiesta
+- Hemingway brought a group of American and British expatriates
+- **Love triangle**: Lady Duff had **two lovers** in the group (Pat Guthrie and Harold Loeb)
 
-### **FAKT**: Warunki rozwodu Hadley
-- Hadley postawiła warunek: Ernest i Pauline mają pozostać w separacji przez **100 dni bez żadnej komunikacji**
-- **Para zignorowała** warunek "bez komunikacji" i wymieniała listy między Paryżem a Arkansas
-- **Styczeń 1927** - rozwód, **maj 1927** - ślub z Pauline
+### **RUMOR**: Lady Duff's provocative behavior
+- Allegedly flirted with young matador Ordóñez during the fiesta
+- This further heated the atmosphere among her admirers
 
-### **FAKT**: Dedykacja dla żony mimo rozwodu
-- Hemingway zadedykował powieść "Hadley and... John Hadley Nicanor" (Hadley i ich synowi)
-- **Hadley otrzymała wszystkie tantiemy** z "The Sun Also Rises" jako część ugody rozwodowej
+### **FACT**: Physical confrontation between Hemingway and Loeb
+- After dinner over brandy, Hemingway told Loeb: "You've done enough to spoil this party"
+- Loeb challenged the much larger Hemingway to a fight
+- They went to an alley, but when Loeb removed his glasses, the tension subsided
+- Hemingway joked that he would hold Loeb's jacket
+- **The next morning** Hemingway left an apologetic letter, writing he was "thoroughly ashamed"
 
----
+### **FACT**: Lady Duff with a black eye
+- During the fiesta she appeared at lunch with a black eye and bruises on her forehead
+- Probably after a nighttime fight with Pat Guthrie
 
-## PUBLIKACJA I PIERWSZE REAKCJE
-
-### **FAKT**: Strategiczne zerwanie z poprzednim wydawcą
-- **Grudzień 1925** - Hemingway szybko napisał "The Torrents of Spring" (parodię Sherwooda Andersona)
-- Celowo wysłał ją do Boni & Liveright, wiedząc, że odrzucą (co pozwoli mu zerwać kontrakt)
-- **9 lutego 1926** - Boni & Liveright odrzucili "Torrents", nazywając to "ekstremalnie złym smakiem"
-- To uwolniło Hemingwaya do podpisania kontraktu ze Scribner's
-
-### **FAKT**: Wątpliwości redaktora Maxwella Perkinsa
-- **Maj 1926** - Perkins napisał do Charles'a Scribnera, że powieść została przyjęta "z obawami"
-- Zarząd Scribner's rozważał "mniej niż honoralny" manuskrypt
-- Perkins przekonał "ultrakonservatywny" dom wydawniczy nie tylko do publikacji, ale użycia okładki przyciągającej szerszą publiczność
-
-### **FAKT**: Kluczowa rola F. Scott Fitzgeralda
-- Fitzgerald wyedytował "znacznie mniej nadającą się do publikacji" wersję powieści
-- Hemingway poszukał opinii Fitzgeralda i **zastosował prawie wszystkie jego sugestie**
-- Listy krążyły między Hemingwayem, Fitzgeraldem i Perkinsem podczas finalizacji
+### **FACT**: Romance revelation
+- During the fiesta it came to light that Lady Duff had spent **two weeks** on a romantic getaway with Harold Loeb in St.-Jean-de-Luz (French seaside town)
+- This caused an explosion of jealousy in the group
 
 ---
 
-## SUKCES KOMERCYJNY I STATYSTYKI
+## CREATIVE PROCESS AND WRITING CONDITIONS
 
-### **FAKT**: Szybki sukces sprzedażowy
-- **Dwa miesiące** po publikacji książka była już w drugim nakładzie
-- **7,000 sprzedanych egzemplarzy** w ciągu pierwszych dwóch miesięcy
-- **1928** - ósmы dodruk po publikacji zbioru opowiadań "Men Without Women"
+### **FACT**: Writing in Parisian cafés
+- The Hemingways' apartment at 113, rue Notre-Dame-des-Champs was on the second floor, **directly above an active sawmill**
+- Between the noise of the sawmill and the baby's crying, Ernest spent more time writing in cafés
 
-### **FAKT**: Rekordy aukcyjne
-- **2004** - najdroższy egzemplarz pierwszego wydania sprzedany za **$366,400**
-- Był to egzemplarz z dedykacją dla lekarza, który przyjmował dzieci Hemingwaya
-- **2021** - Britannic Auctions sprzedało pierwsze wydanie za **$14,739**
+### **FACT**: Marriage breakdown during writing
+- Marriage to Hadley Richardson was falling apart while writing "The Sun Also Rises"
+- **January 1926** - Pauline Pfeiffer joined the Hemingways in Schruns
+- Hemingway began an affair with Pauline during a brief visit to Paris
 
-### **FAKT**: Mieszane recenzje krytyków
-- Recenzje były podzielone między tych, którzy byli "zszokowani pornograficznym charakterem" a tymi, którzy byli "pod wrażeniem oszczędnej prozy"
-- **Conrad Aiken** w "New York Herald Tribune": "Jeśli dzisiaj pisze się lepsze dialogi, nie wiem gdzie je znaleźć"
+### **FACT**: Hadley's divorce conditions
+- Hadley set a condition: Ernest and Pauline must remain separated for **100 days without any communication**
+- **The couple ignored** the "no communication" condition and exchanged letters between Paris and Arkansas
+- **January 1927** - divorce, **May 1927** - marriage to Pauline
 
----
-
-## POCHODZENIE TYTUŁU I EPIGRAFÓW
-
-### **FAKT**: Podwójny epigraf z głębokim znaczeniem
-- **Pierwszy epigraf** - cytat Gertrude Stein: "You are all a lost generation" (Wszyscy jesteście straconym pokoleniem)
-- **Drugi epigraf** - z Księgi Koheleta: "One generation passeth away, and another generation cometh: but the earth abideth for ever. The sun also ariseth..."
-
-### **FAKT**: Historia powstania terminu "stracone pokolenie"
-- Gertrude Stein usłyszała zwrot od francuskiego właściciela garażu
-- Gdy młody mechanik nie naprawił szybko samochodu, właściciel krzyknął: "Wszyscy jesteście 'génération perdue'"
-- Stein powiedziała Hemingwayowi: "To właśnie wy jesteście. Wszyscy wy młodzi ludzie, którzy służyli w wojnie"
-
-### **FAKT**: Zamiana tytułu dla głębi filozoficznej
-- **Pierwotny tytuł roboczy**: "Fiesta"
-- Hemingway zmienił na "The Sun Also Rises" aby podkreślić tematykę moralną
-- Powiedział redaktorowi Maxowi Perkinsowi, że książka nie jest tak bardzo o straconym pokoleniu, ale o tym, że "ziemia trwa na wieki"
-
-### **FAKT**: Balansowanie pesymizmu z optymizmem
-- W "A Moveable Feast" Hemingway napisał: "Próbowałem zbalansować cytat panny Stein z cytateм z Koheleta"
-- Tytuł sugeruje, że pomimo cierpienia, życie trwa dalej - "słońce też wschodzi"
+### **FACT**: Dedication to wife despite divorce
+- Hemingway dedicated the novel "To Hadley and... John Hadley Nicanor" (Hadley and their son)
+- **Hadley received all royalties** from "The Sun Also Rises" as part of the divorce settlement
 
 ---
 
-## KONTEKST HISTORYCZNY I KULTUROWY
+## PUBLICATION AND FIRST REACTIONS
 
-### **FAKT**: Wpływ na literaturę amerykańską
-- Według Jamesa Nagela powieść "zmieniła naturę amerykańskiego pisarstwa"
-- Wprowadziła styl oszczędnej prozy, skupiający się na najważniejszych elementach
-- Znaczący wkład w literaturę modernistyczną
+### **FACT**: Strategic break with previous publisher
+- **December 1925** - Hemingway quickly wrote "The Torrents of Spring" (a parody of Sherwood Anderson)
+- Deliberately sent it to Boni & Liveright, knowing they would reject it (allowing him to break contract)
+- **February 9, 1926** - Boni & Liveright rejected "Torrents," calling it "extremely bad taste"
+- This freed Hemingway to sign a contract with Scribner's
 
-### **FAKT**: Mentor literacki - Gertrude Stein
-- Stein była "bastionem modernizmu w Paryżu"
-- Zostала mentorką Hemingwaya i przedstawiła go ekspatriantom z dzielnicy Montparnasse
-- To ona spopularyzowała termin "stracone pokolenie"
+### **FACT**: Editor Maxwell Perkins' doubts
+- **May 1926** - Perkins wrote to Charles Scribner that the novel was accepted "with misgivings"
+- Scribner's board considered the "less than honorable" manuscript
+- Perkins convinced the "ultraconservative" publishing house not only to publish, but to use a cover that would attract a broader audience
 
-### **FAKT**: Kontekst cenzury w latach 20.
-- Hemingway był w Paryżu gdy "Ulisses" Jamesa Joyce'a był zakazany i palony w Nowym Jorku
-- Powieść była publikowana w czasach literackiej cenzury w Ameryce
-
----
-
-## CIEKAWOSTKI I ANEGDOTY
-
-### **PLOTKA**: Hemingway pisał stojąc
-- Podobno Hemingway często pisał stojąc przy wysokim biurku, szczególnie podczas rewizji
-
-### **FAKT**: Wpływ na hiszpańską kulturę
-- Powieść znacząco zwiększyła międzynarodowe zainteresowanie corridą i festiwalem w Pampelunie
-- Hemingway stał się nieoficjalnym ambasadorem hiszpańskiej kultury tauromachii
-
-### **FAKT**: Szybkość twórczą vs. perfekcjonizm
-- Pierwszy szkic w 8 tygodni, ale **6 miesięcy intensywnych poprawek**
-- To pokazuje metodę Hemingwaya: szybki pierwszy szkic, potem skrupulatna rewizja
-
-### **FAKT**: Autobiograficzny charakter
-- Powieść to "roman à clef" - większość postaci i wydarzeń miała swoje odpowiedniki w rzeczywistości
-- Hemingway wykorzystał szczegóły z życia Lady Duff, od nieudanego małżeństwa po fryzurę "Eton crop"
-
-### **FAKT**: Finansowe konsekwencje rozwodu
-- Przekazanie tantiem Hadley było gestym finansowym - książka okazała się bardzo dochodowa
-- To pokazuje, jak bardzo Hemingway czuł się winny rozpadu małżeństwa
+### **FACT**: F. Scott Fitzgerald's key role
+- Fitzgerald edited the "much less publishable" version of the novel
+- Hemingway sought Fitzgerald's opinion and **applied almost all of his suggestions**
+- Letters circulated between Hemingway, Fitzgerald, and Perkins during finalization
 
 ---
 
-## LICZBY I REKORDY
+## COMMERCIAL SUCCESS AND STATISTICS
 
-- **8 tygodni** - czas napisania pierwszego szkicu
-- **6 miesięcy** - całkowity czas od rozpoczęcia do publikacji
-- **5,090** - nakład pierwszego wydania
-- **$2.00** - cena pierwszego wydania w 1926
-- **7,000** - sprzedaż w pierwszych dwóch miesiącach
-- **8** - numer dodruku do 1928 roku
-- **$366,400** - rekordowa cena za pierwszy egzemplarz (2004)
-- **100 dni** - warunek separacji postawiony przez Hadley
-- **6 osób** - liczba uczestników dramatycznej wyprawy do Pampeluny 1925
+### **FACT**: Rapid sales success
+- **Two months** after publication the book was already in its second printing
+- **7,000 copies sold** in the first two months
+- **1928** - eighth reprint after publication of the short story collection "Men Without Women"
+
+### **FACT**: Auction records
+- **2004** - most expensive first edition copy sold for **$366,400**
+- It was a copy with dedication to the doctor who delivered Hemingway's children
+- **2021** - Britannic Auctions sold a first edition for **$14,739**
+
+### **FACT**: Mixed critical reviews
+- Reviews were divided between those who were "shocked by the pornographic nature" and those who were "impressed by the spare prose"
+- **Conrad Aiken** in "New York Herald Tribune": "If better dialogue is being written today, I don't know where to find it"
 
 ---
 
-**Podsumowanie**: "The Sun Also Rises" powstał w okresie intensywnych przemian w życiu osobistym Hemingwaya - rozpad małżeństwa, nowy romans, artystyczna dojrzałość. Książka jest unikalnym połączeniem autobiograficznego doświadczenia z mistrzostwem literackim, napisana w rekordowo szybkim czasie, ale dopracowana z perfekcjonistyczną precyzją. To dzieło, które nie tylko definiowało "stracone pokolenie", ale też zrewolucjonizowało amerykańską prozę XX wieku.
+## ORIGIN OF TITLE AND EPIGRAPHS
+
+### **FACT**: Double epigraph with deep meaning
+- **First epigraph** - quote from Gertrude Stein: "You are all a lost generation"
+- **Second epigraph** - from Ecclesiastes: "One generation passeth away, and another generation cometh: but the earth abideth for ever. The sun also ariseth..."
+
+### **FACT**: Origin story of "lost generation" term
+- Gertrude Stein heard the phrase from a French garage owner
+- When a young mechanic didn't fix the car quickly, the owner shouted: "You are all 'génération perdue'"
+- Stein told Hemingway: "That's what you are. All you young people who served in the war"
+
+### **FACT**: Title change for philosophical depth
+- **Original working title**: "Fiesta"
+- Hemingway changed to "The Sun Also Rises" to emphasize moral themes
+- He told editor Max Perkins that the book wasn't so much about the lost generation, but about how "the earth abideth forever"
+
+### **FACT**: Balancing pessimism with optimism
+- In "A Moveable Feast" Hemingway wrote: "I tried to balance Miss Stein's quotation with one from Ecclesiastes"
+- The title suggests that despite suffering, life goes on - "the sun also rises"
+
+---
+
+## HISTORICAL AND CULTURAL CONTEXT
+
+### **FACT**: Impact on American literature
+- According to James Nagel, the novel "changed the nature of American writing"
+- Introduced a style of spare prose, focusing on essential elements
+- Significant contribution to modernist literature
+
+### **FACT**: Literary mentor - Gertrude Stein
+- Stein was a "bastion of modernism in Paris"
+- Became Hemingway's mentor and introduced him to expatriates from the Montparnasse district
+- She popularized the term "lost generation"
+
+### **FACT**: Censorship context in the 1920s
+- Hemingway was in Paris when James Joyce's "Ulysses" was banned and burned in New York
+- The novel was published during times of literary censorship in America
+
+---
+
+## CURIOSITIES AND ANECDOTES
+
+### **RUMOR**: Hemingway wrote standing up
+- Allegedly Hemingway often wrote standing at a high desk, especially during revisions
+
+### **FACT**: Impact on Spanish culture
+- The novel significantly increased international interest in bullfighting and the Pamplona festival
+- Hemingway became an unofficial ambassador of Spanish tauromachy culture
+
+### **FACT**: Creative speed vs. perfectionism
+- First draft in 8 weeks, but **6 months of intensive revisions**
+- This shows Hemingway's method: quick first draft, then meticulous revision
+
+### **FACT**: Autobiographical nature
+- The novel is a "roman à clef" - most characters and events had real-life counterparts
+- Hemingway used details from Lady Duff's life, from her failed marriage to her "Eton crop" hairstyle
+
+### **FACT**: Financial consequences of divorce
+- Transferring royalties to Hadley was a generous financial gesture - the book proved very profitable
+- This shows how guilty Hemingway felt about the marriage breakdown
+
+---
+
+## NUMBERS AND RECORDS
+
+- **8 weeks** - time to write the first draft
+- **6 months** - total time from start to publication
+- **5,090** - first edition print run
+- **$2.00** - price of first edition in 1926
+- **7,000** - sales in first two months
+- **8** - reprint number by 1928
+- **$366,400** - record price for first edition copy (2004)
+- **100 days** - separation condition set by Hadley
+- **6 people** - number of participants in the dramatic 1925 Pamplona trip
+
+---
+
+**Summary**: "The Sun Also Rises" was created during a period of intense changes in Hemingway's personal life - marriage breakdown, new romance, artistic maturity. The book is a unique combination of autobiographical experience with literary mastery, written in record time but polished with perfectionist precision. This is a work that not only defined the "lost generation" but also revolutionized 20th-century American prose.

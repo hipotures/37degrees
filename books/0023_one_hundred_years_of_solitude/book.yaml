@@ -1,15 +1,13 @@
 book_info:
-  title: "One Hundred Years of Solitude"
-  title_pl: "Sto lat samotności"
-  author: "Gabriel García Márquez"
+  title: One Hundred Years of Solitude
+  title_pl: Sto lat samotności
+  author: Gabriel García Márquez
   year: 1967
-  genre: "Novel"
-  reading_time: "15-18 hours"
-
+  genre: Novel
+  reading_time: 15-18 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-14T23:09:42+02:00"
-
+  version: '3.0'
+  processed_at: '2025-09-14T23:09:42+02:00'
   scores:
     controversy: 9
     philosophical_depth: 10
@@ -21,169 +19,220 @@ afa_analysis:
     social_roles: 9
     total: 73
     percentile: 95
-
   composite_scores:
     depth:
       value: 9.5
-      category: "high"
+      category: high
     heat:
       value: 8.8
-      category: "high"
-
+      category: high
   themes:
     universal:
-      - id: "dark_drama_0"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "García Márquez maintained close friendship with dictator Fidel Castro for 30+ years, accused by Cuban dissidents of supporting torture and executions"
-        source: "dark_drama"
-      - id: "symbols_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Magical realism serves as form of resistance against Western rationalist narratives, allowing expression of hybrid Latin American identity"
-        source: "symbols_meanings"
-      - id: "culture_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Netflix 2024 adaptation became platform's most expensive Latin American production, first authorized screen adaptation after decades of refusal"
-        source: "culture_impact"
-      - id: "youth_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Book generates 148K+ TikTok posts with strong BookTok presence, proving continued relevance to digital native generation"
-        source: "youth_digital"
-      - id: "reality_0"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Márquez accurately predicted social media isolation paradox: increased connectivity leading to greater loneliness"
-        source: "reality_wisdom"
-      - id: "innovation_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Established magical realism as global literary movement, influencing writers from Rushdie to Morrison to Tokarczuk"
-        source: "writing_innovation"
-      - id: "facts_0"
-        type: "FACT"
-        credibility: 0.95
-        content: "Banana Massacre scene based on real 1928 Ciénaga massacre by Colombian military against United Fruit Company workers"
-        source: "facts_history"
-      - id: "content_0"
-        type: "DISPUTE"
-        credibility: 0.70
-        content: "Multiple international bans and censorship attempts, from US schools to Iran and Kuwait, citing sexual content and political themes"
-        source: "content_warnings"
-
+    - id: dark_drama_0
+      type: BOMBSHELL
+      credibility: 0.9
+      content: García Márquez maintained close friendship with dictator Fidel Castro for 30+ years, accused by Cuban dissidents
+        of supporting torture and executions
+      source: dark_drama
+    - id: symbols_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Magical realism serves as form of resistance against Western rationalist narratives, allowing expression of
+        hybrid Latin American identity
+      source: symbols_meanings
+    - id: culture_0
+      type: FACT
+      credibility: 0.95
+      content: Netflix 2024 adaptation became platform's most expensive Latin American production, first authorized screen
+        adaptation after decades of refusal
+      source: culture_impact
+    - id: youth_0
+      type: FACT
+      credibility: 0.95
+      content: Book generates 148K+ TikTok posts with strong BookTok presence, proving continued relevance to digital native
+        generation
+      source: youth_digital
+    - id: reality_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: 'Márquez accurately predicted social media isolation paradox: increased connectivity leading to greater loneliness'
+      source: reality_wisdom
+    - id: innovation_0
+      type: FACT
+      credibility: 0.95
+      content: Established magical realism as global literary movement, influencing writers from Rushdie to Morrison to Tokarczuk
+      source: writing_innovation
+    - id: facts_0
+      type: FACT
+      credibility: 0.95
+      content: Banana Massacre scene based on real 1928 Ciénaga massacre by Colombian military against United Fruit Company
+        workers
+      source: facts_history
+    - id: content_0
+      type: DISPUTE
+      credibility: 0.7
+      content: Multiple international bans and censorship attempts, from US schools to Iran and Kuwait, citing sexual content
+        and political themes
+      source: content_warnings
     localized:
       en:
-        cultural_impact: "Foundational text for magical realism in English literature, influenced Rushdie, Morrison, Carter"
-        key_editions: ["Harper Perennial Modern Classics", "Penguin Random House editions"]
-        reception_notes: "Rabassa translation considered masterpiece of literary translation"
-        educational_status: "Standard text in comparative literature and world literature courses"
-        local_themes: ["Postcolonial discourse", "Influence on multicultural literature", "Translation studies importance"]
+        cultural_impact: Foundational text for magical realism in English literature, influenced Rushdie, Morrison, Carter
+        key_editions:
+        - Harper Perennial Modern Classics
+        - Penguin Random House editions
+        reception_notes: Rabassa translation considered masterpiece of literary translation
+        educational_status: Standard text in comparative literature and world literature courses
+        local_themes:
+        - Postcolonial discourse
+        - Influence on multicultural literature
+        - Translation studies importance
       pl:
-        cultural_impact: "Major influence on Olga Tokarczuk's 'Prawiek i inne czasy', sparked magical realism in Polish literature"
-        key_editions: ["PIW first edition 1974", "Muza contemporary editions"]
-        reception_notes: "300K copies sold, crucial role in Latin American literature boom in Poland"
-        educational_status: "Secondary school literature curriculum, university programs"
-        local_themes: ["Connection to Polish Romanticism", "Magical realism in Slavic context", "Post-communist readings"]
+        cultural_impact: Major influence on Olga Tokarczuk's 'Prawiek i inne czasy', sparked magical realism in Polish literature
+        key_editions:
+        - PIW first edition 1974
+        - Muza contemporary editions
+        reception_notes: 300K copies sold, crucial role in Latin American literature boom in Poland
+        educational_status: Secondary school literature curriculum, university programs
+        local_themes:
+        - Connection to Polish Romanticism
+        - Magical realism in Slavic context
+        - Post-communist readings
       de:
-        cultural_impact: "Strong academic tradition, philosophical interpretations dominant in German scholarship"
-        key_editions: ["Reclam editions", "Scholarly annotated versions"]
-        reception_notes: "Deep engagement with philosophical implications of magical realism"
-        educational_status: "University literature and philosophy programs"
-        local_themes: ["Philosophical hermeneutics", "Psychoanalytic readings", "European vs Latin American narrative"]
+        cultural_impact: Strong academic tradition, philosophical interpretations dominant in German scholarship
+        key_editions:
+        - Reclam editions
+        - Scholarly annotated versions
+        reception_notes: Deep engagement with philosophical implications of magical realism
+        educational_status: University literature and philosophy programs
+        local_themes:
+        - Philosophical hermeneutics
+        - Psychoanalytic readings
+        - European vs Latin American narrative
       fr:
-        cultural_impact: "Connected to French postmodern literary theory, Francophone postcolonial writers"
-        key_editions: ["Editions du Seuil", "Gallimard collections"]
-        reception_notes: "Theoretical engagement with narrative structure and postcolonialism"
-        educational_status: "French lycée and university programs"
-        local_themes: ["Postmodern narrative theory", "Francophone literary connections", "Colonial discourse analysis"]
+        cultural_impact: Connected to French postmodern literary theory, Francophone postcolonial writers
+        key_editions:
+        - Editions du Seuil
+        - Gallimard collections
+        reception_notes: Theoretical engagement with narrative structure and postcolonialism
+        educational_status: French lycée and university programs
+        local_themes:
+        - Postmodern narrative theory
+        - Francophone literary connections
+        - Colonial discourse analysis
       es:
-        cultural_impact: "Part of Spanish-speaking world's foundational literary canon, original language appreciation"
-        key_editions: ["Editorial Sudamericana original", "Multiple Spanish editions"]
-        reception_notes: "Linguistic authenticity preserved, deeper cultural resonance"
-        educational_status: "Core text in Spanish-speaking educational systems"
-        local_themes: ["Latin American literary boom", "Spanish language literary innovation", "Regional identity formation"]
+        cultural_impact: Part of Spanish-speaking world's foundational literary canon, original language appreciation
+        key_editions:
+        - Editorial Sudamericana original
+        - Multiple Spanish editions
+        reception_notes: Linguistic authenticity preserved, deeper cultural resonance
+        educational_status: Core text in Spanish-speaking educational systems
+        local_themes:
+        - Latin American literary boom
+        - Spanish language literary innovation
+        - Regional identity formation
       pt:
-        cultural_impact: "Influence on Brazilian magical realism, Portuguese-speaking African literature"
-        key_editions: ["Brazilian and Portuguese editions", "Academic versions"]
-        reception_notes: "Connection to Lusophone literary traditions"
-        educational_status: "Portuguese and Brazilian literature programs"
-        local_themes: ["Lusophone postcolonial literature", "Brazilian magical realism", "African diaspora themes"]
+        cultural_impact: Influence on Brazilian magical realism, Portuguese-speaking African literature
+        key_editions:
+        - Brazilian and Portuguese editions
+        - Academic versions
+        reception_notes: Connection to Lusophone literary traditions
+        educational_status: Portuguese and Brazilian literature programs
+        local_themes:
+        - Lusophone postcolonial literature
+        - Brazilian magical realism
+        - African diaspora themes
       ja:
-        cultural_impact: "Influenced Japanese authors like Murakami, connected to Japanese surrealism traditions"
-        key_editions: ["Japanese translations", "Academic editions"]
-        reception_notes: "Cultural bridge between Latin American and Japanese literary sensibilities"
-        educational_status: "University world literature courses"
-        local_themes: ["Japanese surrealism connections", "East-West narrative fusion", "Translation cultural adaptation"]
+        cultural_impact: Influenced Japanese authors like Murakami, connected to Japanese surrealism traditions
+        key_editions:
+        - Japanese translations
+        - Academic editions
+        reception_notes: Cultural bridge between Latin American and Japanese literary sensibilities
+        educational_status: University world literature courses
+        local_themes:
+        - Japanese surrealism connections
+        - East-West narrative fusion
+        - Translation cultural adaptation
       ko:
-        cultural_impact: "Growing influence on Korean contemporary literature, postmodern Korean fiction"
-        key_editions: ["Korean translations", "University editions"]
-        reception_notes: "Increasing academic and popular interest"
-        educational_status: "University comparative literature programs"
-        local_themes: ["Korean postmodern literature", "East Asian magical realism", "Cultural translation issues"]
+        cultural_impact: Growing influence on Korean contemporary literature, postmodern Korean fiction
+        key_editions:
+        - Korean translations
+        - University editions
+        reception_notes: Increasing academic and popular interest
+        educational_status: University comparative literature programs
+        local_themes:
+        - Korean postmodern literature
+        - East Asian magical realism
+        - Cultural translation issues
       hi:
-        cultural_impact: "Connection to Indian postcolonial literature, magical realist traditions in Hindi literature"
-        key_editions: ["Hindi translations", "Academic versions"]
-        reception_notes: "Resonance with Indian storytelling traditions"
-        educational_status: "Indian university literature programs"
-        local_themes: ["Indian postcolonial discourse", "Hindi literary modernism", "Oral tradition connections"]
-
+        cultural_impact: Connection to Indian postcolonial literature, magical realist traditions in Hindi literature
+        key_editions:
+        - Hindi translations
+        - Academic versions
+        reception_notes: Resonance with Indian storytelling traditions
+        educational_status: Indian university literature programs
+        local_themes:
+        - Indian postcolonial discourse
+        - Hindi literary modernism
+        - Oral tradition connections
   formats:
-    critical_debate:
-      name: "critical_debate"
-      duration: 12
+    narrative_reconstruction:
+      name: narrative_reconstruction
+      duration: 18
       hosts:
-        host_a: "passionate advocate defending the work and challenging critics"
-        host_b: "critical skeptic questioning value and raising controversial issues"
+        host_a: Detective/investigator piecing together narrative puzzles
+        host_b: Witness/informant providing crucial story details and clues
       structure:
-        - segment: 1
-          time_range: "00:00-02:24"
-          topic: "opening_positions"
-          lead: "host_a"
-          description: "Opening defense of García Márquez's literary genius vs skeptical questioning of his political controversies"
-        - segment: 2
-          time_range: "02:24-04:48"
-          topic: "main_arguments"
-          lead: "host_b"
-          description: "Deep dive into Castro friendship accusations and censorship issues vs artistic merit defense"
-        - segment: 3
-          time_range: "04:48-07:12"
-          topic: "contemporary_relevance"
-          lead: "host_a"
-          description: "Netflix adaptation success and TikTok popularity vs claims of outdated perspective"
-        - segment: 4
-          time_range: "07:12-09:36"
-          topic: "literary_innovation"
-          lead: "host_b"
-          description: "Questioning magical realism as literary gimmick vs defense of revolutionary narrative techniques"
-        - segment: 5
-          time_range: "09:36-12:00"
-          topic: "final_resolution"
-          lead: "host_a"
-          description: "Reconciling artistic achievement with personal/political controversies, finding common ground"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: mystery_setup
+        lead: host_a
+        description: Identifying narrative puzzles and mysteries
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: evidence_gathering
+        lead: host_b
+        description: Presenting key clues and story evidence
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: timeline_reconstruction
+        lead: host_a
+        description: Piecing together chronology and causality
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: unreliable_elements
+        lead: host_b
+        description: Identifying what can and cannot be trusted
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: hidden_truth
+        lead: host_a
+        description: Revealing the true story beneath the surface
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: final_reconstruction
+        lead: host_b
+        description: Complete narrative understanding achieved
       prompts:
-        host_a: "You are {male_name}, a passionate literary advocate defending 'One Hundred Years of Solitude' against critical attacks. Address the Castro friendship controversy head-on while emphasizing García Márquez's revolutionary literary innovations, the book's prophetic relevance to modern social media isolation, and its foundational role in magical realism. Be intellectually rigorous but emotionally invested in protecting this masterpiece from unfair criticism."
-        host_b: "You are {female_name}, a critical literary skeptic questioning the value and impact of 'One Hundred Years of Solitude'. Challenge the work by examining García Márquez's controversial political associations, the multiple international bans and censorship issues, and question whether magical realism is genuine innovation or literary pretension. Maintain respectful skepticism while pushing hard on uncomfortable truths about the author and work."
-
+        host_a: You are {male_name}, investigating 'One Hundred Years of Solitude' narrative mysteries. Piece together clues
+          like a detective.
+        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
   metadata:
-    target_audience: "16+"
+    target_audience: 16+
     content_warnings:
-      - "political controversy discussion"
-      - "dictator associations"
-      - "international censorship topics"
-      - "sexual content references"
-      - "colonial violence themes"
+    - political controversy discussion
+    - dictator associations
+    - international censorship topics
+    - sexual content references
+    - colonial violence themes
     educational_elements:
-      - "Magical realism literary technique analysis"
-      - "Latin American literary boom context"
-      - "Postcolonial literary theory"
-      - "Political allegory interpretation"
-      - "Historical context of 1960s Latin America"
-      - "Translation studies importance"
+    - Magical realism literary technique analysis
+    - Latin American literary boom context
+    - Postcolonial literary theory
+    - Political allegory interpretation
+    - Historical context of 1960s Latin America
+    - Translation studies importance
     production_notes:
-      intro_style: "tension-building opening highlighting the controversial legacy"
-      transitions: "dramatic musical bridges emphasizing debate dynamics"
-      outro_style: "thought-provoking conclusion leaving questions about art vs politics"
-
+      intro_style: tension-building opening highlighting the controversial legacy
+      transitions: dramatic musical bridges emphasizing debate dynamics
+      outro_style: thought-provoking conclusion leaving questions about art vs politics
   overall_confidence: 0.945

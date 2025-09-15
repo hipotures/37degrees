@@ -1,15 +1,13 @@
 book_info:
-  title: "Wuthering Heights"
-  title_pl: "Wichrowe Wzgórza"
-  author: "Emily Brontë"
+  title: Wuthering Heights
+  title_pl: Wichrowe Wzgórza
+  author: Emily Brontë
   year: 1847
-  genre: "Novel,Gothic"
-  reading_time: "12-14 hours"
-
+  genre: Novel,Gothic
+  reading_time: 12-14 hours
 afa_analysis:
-  version: "3.0"
-  processed_at: "2025-09-15T08:42:00Z"
-
+  version: '3.0'
+  processed_at: '2025-09-15T08:42:00Z'
   scores:
     controversy: 7
     philosophical_depth: 9
@@ -21,166 +19,213 @@ afa_analysis:
     social_roles: 8
     total: 65
     percentile: 85
-
   composite_scores:
     depth:
       value: 8.8
-      category: "high"
+      category: high
     heat:
       value: 7.5
-      category: "medium"
-
+      category: medium
   themes:
     universal:
-      - id: "toxic_relationships"
-        type: "ANALYSIS"
-        credibility: 0.95
-        content: "Heathcliff uses psychological dominance and isolation as control tools, anticipating modern understanding of coercive control by 177 years"
-        source: "dark_drama"
-      - id: "supernatural_ambiguity"
-        type: "FACT"
-        credibility: 0.90
-        content: "Ghost of Catherine appears ambiguously - readers never know if truly exists or represents memory manifestations"
-        source: "dark_drama"
-      - id: "narrative_innovation"
-        type: "FACT"
-        credibility: 0.95
-        content: "First English novel with complex narrator-within-narrator structure, pioneering psychological realism within Gothic framework"
-        source: "writing_innovation"
-      - id: "class_warfare"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Heathcliff's revenge is methodical legal-economic operation using system's own tools rather than chaotic violence"
-        source: "symbols_meanings"
-      - id: "prophetic_psychology"
-        type: "BOMBSHELL"
-        credibility: 0.90
-        content: "87% accuracy in predicting modern toxic relationship patterns, intergenerational trauma, and psychological abuse cycles"
-        source: "reality_wisdom"
-      - id: "cultural_transformation"
-        type: "FACT"
-        credibility: 0.90
-        content: "Kate Bush's 1978 song created global cultural phenomenon with flash mobs, making her first female artist with #1 self-written song"
-        source: "culture_impact"
-      - id: "booktok_revival"
-        type: "FACT"
-        credibility: 0.85
-        content: "97.8M TikTok views driving new readership, though controversially romanticizing toxic relationships"
-        source: "youth_digital"
-      - id: "architectural_psychology"
-        type: "ANALYSIS"
-        credibility: 0.85
-        content: "Wuthering Heights vs Thrushcross Grange represent Freudian id vs superego conflict decades before psychoanalysis"
-        source: "symbols_meanings"
-
+    - id: toxic_relationships
+      type: ANALYSIS
+      credibility: 0.95
+      content: Heathcliff uses psychological dominance and isolation as control tools, anticipating modern understanding of
+        coercive control by 177 years
+      source: dark_drama
+    - id: supernatural_ambiguity
+      type: FACT
+      credibility: 0.9
+      content: Ghost of Catherine appears ambiguously - readers never know if truly exists or represents memory manifestations
+      source: dark_drama
+    - id: narrative_innovation
+      type: FACT
+      credibility: 0.95
+      content: First English novel with complex narrator-within-narrator structure, pioneering psychological realism within
+        Gothic framework
+      source: writing_innovation
+    - id: class_warfare
+      type: ANALYSIS
+      credibility: 0.85
+      content: Heathcliff's revenge is methodical legal-economic operation using system's own tools rather than chaotic violence
+      source: symbols_meanings
+    - id: prophetic_psychology
+      type: BOMBSHELL
+      credibility: 0.9
+      content: 87% accuracy in predicting modern toxic relationship patterns, intergenerational trauma, and psychological
+        abuse cycles
+      source: reality_wisdom
+    - id: cultural_transformation
+      type: FACT
+      credibility: 0.9
+      content: 'Kate Bush''s 1978 song created global cultural phenomenon with flash mobs, making her first female artist
+        with #1 self-written song'
+      source: culture_impact
+    - id: booktok_revival
+      type: FACT
+      credibility: 0.85
+      content: 97.8M TikTok views driving new readership, though controversially romanticizing toxic relationships
+      source: youth_digital
+    - id: architectural_psychology
+      type: ANALYSIS
+      credibility: 0.85
+      content: Wuthering Heights vs Thrushcross Grange represent Freudian id vs superego conflict decades before psychoanalysis
+      source: symbols_meanings
     localized:
       en:
-        cultural_impact: "Central text in English Gothic tradition, widely taught in universities, influential to modernist writers"
-        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Penguin Classics"]
-        reception_notes: "Initially shocked Victorian critics but became canonical masterpiece"
-        educational_status: "Required reading in English literature curricula worldwide"
-        local_themes: ["Yorkshire dialect authenticity", "Industrial Revolution backdrop", "Class system critique"]
-
+        cultural_impact: Central text in English Gothic tradition, widely taught in universities, influential to modernist
+          writers
+        key_editions:
+        - Norton Critical Edition
+        - Oxford World's Classics
+        - Penguin Classics
+        reception_notes: Initially shocked Victorian critics but became canonical masterpiece
+        educational_status: Required reading in English literature curricula worldwide
+        local_themes:
+        - Yorkshire dialect authenticity
+        - Industrial Revolution backdrop
+        - Class system critique
       pl:
-        cultural_impact: "Mandatory high school reading, first translated as 'Satan's Love' (1929) reflecting controversial reception"
-        key_editions: ["Janina Sujkowska translation", "Piotr Grzesik version", "Multiple contemporary translations"]
-        reception_notes: "Strong youth engagement, debates over translation approaches"
-        educational_status: "Part of matura exam curriculum"
-        local_themes: ["Post-communist class readings", "Landed gentry parallels with szlachta", "Gothic atmosphere appreciation"]
-
+        cultural_impact: Mandatory high school reading, first translated as 'Satan's Love' (1929) reflecting controversial
+          reception
+        key_editions:
+        - Janina Sujkowska translation
+        - Piotr Grzesik version
+        - Multiple contemporary translations
+        reception_notes: Strong youth engagement, debates over translation approaches
+        educational_status: Part of matura exam curriculum
+        local_themes:
+        - Post-communist class readings
+        - Landed gentry parallels with szlachta
+        - Gothic atmosphere appreciation
       de:
-        cultural_impact: "Published as 'Sturmhöhe', extensive academic analysis connecting to German Romantic tradition"
-        key_editions: ["Reclam Universal-Bibliothek", "Suhrkamp/Insel Verlag", "Hanser Verlag editions"]
-        reception_notes: "Rudolf Otto identified as supreme example of 'the daemonic' in literature"
-        educational_status: "Studied in Gothic literature and Romanticism courses"
-        local_themes: ["German Romantic influence", "Theological interpretations", "Psychoanalytic readings"]
-
+        cultural_impact: Published as 'Sturmhöhe', extensive academic analysis connecting to German Romantic tradition
+        key_editions:
+        - Reclam Universal-Bibliothek
+        - Suhrkamp/Insel Verlag
+        - Hanser Verlag editions
+        reception_notes: Rudolf Otto identified as supreme example of 'the daemonic' in literature
+        educational_status: Studied in Gothic literature and Romanticism courses
+        local_themes:
+        - German Romantic influence
+        - Theological interpretations
+        - Psychoanalytic readings
       fr:
-        cultural_impact: "French Gothic literature appreciation, academic study of narrative techniques"
-        key_editions: ["Gallimard editions", "Literary classics series"]
-        reception_notes: "Recognized for innovative narrative structure"
-        educational_status: "Part of comparative literature studies"
-        local_themes: ["French Romantic parallels", "Narrative complexity analysis"]
-
+        cultural_impact: French Gothic literature appreciation, academic study of narrative techniques
+        key_editions:
+        - Gallimard editions
+        - Literary classics series
+        reception_notes: Recognized for innovative narrative structure
+        educational_status: Part of comparative literature studies
+        local_themes:
+        - French Romantic parallels
+        - Narrative complexity analysis
       es:
-        cultural_impact: "Spanish-language adaptations including Buñuel's surrealist interpretation"
-        key_editions: ["Classic Spanish translations", "Academic editions"]
-        reception_notes: "Appreciated for Gothic intensity and passion"
-        educational_status: "World literature curriculum inclusion"
-        local_themes: ["Passionate love traditions", "Gothic literature appreciation"]
-
+        cultural_impact: Spanish-language adaptations including Buñuel's surrealist interpretation
+        key_editions:
+        - Classic Spanish translations
+        - Academic editions
+        reception_notes: Appreciated for Gothic intensity and passion
+        educational_status: World literature curriculum inclusion
+        local_themes:
+        - Passionate love traditions
+        - Gothic literature appreciation
       pt:
-        cultural_impact: "Portuguese-language appreciation for emotional intensity and Gothic elements"
-        key_editions: ["Portuguese translation editions"]
-        reception_notes: "Resonates with Portuguese literary sensibilities"
-        educational_status: "Comparative literature studies"
-        local_themes: ["Emotional authenticity", "Gothic tradition"]
-
+        cultural_impact: Portuguese-language appreciation for emotional intensity and Gothic elements
+        key_editions:
+        - Portuguese translation editions
+        reception_notes: Resonates with Portuguese literary sensibilities
+        educational_status: Comparative literature studies
+        local_themes:
+        - Emotional authenticity
+        - Gothic tradition
       ja:
-        cultural_impact: "Japanese appreciation for emotional intensity, adapted by Takarazuka Revue"
-        key_editions: ["Japanese translations", "Manga adaptations"]
-        reception_notes: "Popular in Japanese Gothic and romance genres"
-        educational_status: "English literature studies"
-        local_themes: ["Honor and revenge themes", "Emotional purity concepts"]
-
+        cultural_impact: Japanese appreciation for emotional intensity, adapted by Takarazuka Revue
+        key_editions:
+        - Japanese translations
+        - Manga adaptations
+        reception_notes: Popular in Japanese Gothic and romance genres
+        educational_status: English literature studies
+        local_themes:
+        - Honor and revenge themes
+        - Emotional purity concepts
       ko:
-        cultural_impact: "Korean interest in passionate love stories and family conflicts"
-        key_editions: ["Korean translations"]
-        reception_notes: "Appeals to Korean dramatic traditions"
-        educational_status: "Western literature courses"
-        local_themes: ["Family honor concepts", "Generational conflicts"]
-
+        cultural_impact: Korean interest in passionate love stories and family conflicts
+        key_editions:
+        - Korean translations
+        reception_notes: Appeals to Korean dramatic traditions
+        educational_status: Western literature courses
+        local_themes:
+        - Family honor concepts
+        - Generational conflicts
       hi:
-        cultural_impact: "Hindi/Indian appreciation for intense emotions and family sagas"
-        key_editions: ["Hindi translations", "Bollywood adaptation 'Dil Diya Dard Liya'"]
-        reception_notes: "Bollywood successfully adapted core themes"
-        educational_status: "English literature studies"
-        local_themes: ["Bollywood melodrama parallels", "Family duty vs passion conflicts"]
-
+        cultural_impact: Hindi/Indian appreciation for intense emotions and family sagas
+        key_editions:
+        - Hindi translations
+        - Bollywood adaptation 'Dil Diya Dard Liya'
+        reception_notes: Bollywood successfully adapted core themes
+        educational_status: English literature studies
+        local_themes:
+        - Bollywood melodrama parallels
+        - Family duty vs passion conflicts
   formats:
-    academic_analysis:
-      name: "academic_analysis"
-      duration: 15
+    emotional_perspective:
+      name: emotional_perspective
+      duration: 18
       hosts:
-        host_a: "professor/expert presenting complex concepts"
-        host_b: "student/assistant simplifying and clarifying"
+        host_a: Therapist/psychologist exploring emotional and psychological themes
+        host_b: Personal experiencer sharing emotional connection and impact
       structure:
-        - segment: 1
-          time_range: "00:00-03:00"
-          topic: "revolutionary_narrative"
-          lead: "host_a"
-          description: "Complex frame narrative structure and psychological innovations"
-        - segment: 2
-          time_range: "03:00-06:00"
-          topic: "toxic_relationships"
-          lead: "host_b"
-          description: "Modern understanding of psychological manipulation and abuse cycles"
-        - segment: 3
-          time_range: "06:00-09:00"
-          topic: "cultural_phenomenon"
-          lead: "host_a"
-          description: "From Victorian scandal to Kate Bush to BookTok revival"
-        - segment: 4
-          time_range: "09:00-12:00"
-          topic: "philosophical_depth"
-          lead: "host_b"
-          description: "Freudian psychology, religious symbolism, and archetypal analysis"
-        - segment: 5
-          time_range: "12:00-15:00"
-          topic: "contemporary_relevance"
-          lead: "host_a"
-          description: "Why 1847 insights about trauma and relationships remain prophetic"
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: emotional_landscape
+        lead: host_a
+        description: Psychological dynamics and emotional patterns
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: personal_impact
+        lead: host_b
+        description: How readers emotionally connect and relate
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: trauma_patterns
+        lead: host_a
+        description: Understanding trauma and healing in the narrative
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: relationship_dynamics
+        lead: host_b
+        description: Exploring relationships and attachment patterns
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: growth_journey
+        lead: host_a
+        description: Character development as psychological journey
+      - segment: 6
+        time_range: 15:00-18:00
+        topic: healing_insights
+        lead: host_b
+        description: What we learn about resilience and healing
       prompts:
-        host_a: "You are Professor {male_name}, analyzing 'Wuthering Heights' with scholarly depth. Discuss its revolutionary narrative structure, psychological realism decades before Freud, and how Emily Brontë predicted modern toxic relationship patterns with 87% accuracy. Focus on the complex frame narrative (Lockwood → Nelly → multiple sub-narrators) that pioneered modernist techniques. Academic but accessible."
-        host_b: "You are {female_name}, a graduate student. Ask for clarification about the novel's technical innovations, request examples of its prophetic insights about psychology, and help connect 1847 themes to contemporary issues like social media stalking and BookTok romanticization of toxic relationships. Ensure accessibility for modern audiences."
-
+        host_a: You are {male_name}, therapist exploring 'Wuthering Heights' psychological depths. Analyze emotional patterns
+          with compassion.
+        host_b: You are {female_name}, sharing personal emotional connection. Express how the story touches and transforms
+          readers.
   metadata:
-    target_audience: "16+"
-    content_warnings: ["toxic relationship patterns", "psychological manipulation", "domestic violence themes", "historical racial representation"]
-    educational_elements: ["Gothic genre characteristics", "Victorian social critique", "Narrative innovation techniques", "Psychological trauma analysis"]
+    target_audience: 16+
+    content_warnings:
+    - toxic relationship patterns
+    - psychological manipulation
+    - domestic violence themes
+    - historical racial representation
+    educational_elements:
+    - Gothic genre characteristics
+    - Victorian social critique
+    - Narrative innovation techniques
+    - Psychological trauma analysis
     production_notes:
-      intro_style: "Atmospheric with Yorkshire moors soundscape"
-      transitions: "Subtle musical bridges with wind/storm sounds"
-      outro_style: "Reflective with contemplative classical music"
-
+      intro_style: Atmospheric with Yorkshire moors soundscape
+      transitions: Subtle musical bridges with wind/storm sounds
+      outro_style: Reflective with contemplative classical music
   overall_confidence: 0.92
