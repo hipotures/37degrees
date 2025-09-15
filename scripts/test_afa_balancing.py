@@ -222,11 +222,11 @@ def select_format_with_smart_balancing(
         # 1. Compatibility Score (weight: 40%)
         cs = calculate_compatibility_score(format_name, ai_scores) * 4.0
 
-        # 2. Frequency Penalty (weight: 40%)
-        fps = calculate_frequency_penalty(format_name, counters, book_num) * 4.0
+        # 2. Frequency Penalty (weight: 50% → stronger balancing)
+        fps = calculate_frequency_penalty(format_name, counters, book_num) * 5.0
 
-        # 3. Staleness Bonus (weight: 20%)
-        sb = calculate_staleness_bonus(format_name, books_since_last) * 2.0
+        # 3. Staleness Bonus (weight: 25% → slightly stronger)
+        sb = calculate_staleness_bonus(format_name, books_since_last) * 2.5
 
         # Total score
         total = base_score + cs - fps + sb

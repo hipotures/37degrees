@@ -1,14 +1,15 @@
-# Multilingual Audio Generation System (Simplified)
+# Multilingual Audio Generation System (Current Architecture)
 
 ## Overview
-This document describes the simplified system for generating NotebookLM audio content in multiple languages for the 37degrees project. The system uses only 2 AFA versions (Polish and English) with NotebookLM's built-in translation capabilities handling the rest.
+This document describes the current system for generating NotebookLM audio content in multiple languages for the 37degrees project. The system uses a unified `book.yaml` file containing AFA analysis and format selection, with language-specific prompt generation.
 
 ## Core Concept
 
-- **2 AFA files only**: Polish (`-afa-pl.md`) and English (`-afa-en.md`)
+- **Single source of truth**: One `book.yaml` per book with complete AFA analysis
+- **8 dialogue formats**: From exploratory_dialogue to academic_analysis
 - **9 supported audio languages**: Through NotebookLM's language selector
-- **Host names pattern**: A & B names (Andrzej/Beata, Andrew/Beth, etc.)
-- **Prompt language**: English base for universal AI translation
+- **Host names pattern**: Male & Female names per language
+- **Format selection**: Currently algorithmic (v2.0), moving toward AI-based selection
 
 ## Supported Languages with Host Names
 
@@ -24,38 +25,52 @@ This document describes the simplified system for generating NotebookLM audio co
 
 ## System Architecture
 
-### 1. Language Configuration
-- **File**: `config/audio_languages.yaml`
-- **Content**: Language codes, NotebookLM mappings, host names
-- **Usage**: Central configuration for all language-specific settings
+### 1. Book Configuration
+- **File**: `books/NNNN_bookname/book.yaml`
+- **Content**: Complete AFA analysis including scores, themes, format selection, and prompts
+- **Structure**:
+  ```yaml
+  book_info:
+    title, author, year, genre
+  afa_analysis:
+    scores: (8 behavioral dimensions)
+    composite_scores: (DEPTH and HEAT)
+    themes: (universal and localized)
+    formats: (selected format with prompts)
+  ```
 
-### 2. Format Role Definitions
-- **File**: `config/audio_format_roles.yaml`
-- **Content**: Specific personality roles and detailed instructions for each format in each language
-- **Usage**: Defines how hosts behave for different dialogue formats (Friendly Exchange, Master & Student, etc.)
+### 2. Dialogue Formats (8 types)
+- **exploratory_dialogue**: Enthusiast with newcomer discovering together
+- **academic_analysis**: Professor with student analyzing complexities
+- **cultural_dimension**: Local specialist with global observer
+- **social_perspective**: Social historian with contemporary critic
+- **critical_debate**: Advocate defending vs skeptic questioning
+- **narrative_reconstruction**: Investigator with witness reconstructing
+- **temporal_context**: Classical expert with modern reader
+- **emotional_perspective**: Emotional reader with analytical critic
 
-### 3. Format Translations
-- **File**: `config/audio_format_translations.yaml`
-- **Content**: Translated names for all 12 audio formats
-- **Usage**: Ensures format names are culturally appropriate
+### 3. Format Selection System
+- **Current (v2.0)**: Algorithmic with frequency balancing (`afa_calculations.py`)
+- **Future**: AI-based selection using book context and research materials
 
-### 4. Simplified Generation Flow
+### 4. Generation Flow
 
 ```mermaid
 graph TD
-    A[Book Research Files] --> B[Polish AFA with local context]
-    A --> C[English AFA without local context]
-    B --> D[Polish Audio - Andrzej/Beata]
-    C --> E[NotebookLM Language Selection]
-    E --> F[English - Andrew/Beth]
-    E --> G[Spanish - Andrés/Beatriz]
-    E --> H[Portuguese - André/Beatriz]
-    E --> I[Hindi - Arjun/Bhavna]
-    E --> J[Japanese - Akira/Beniko]
-    E --> K[Korean - Ahn/Bora]
-    E --> L[German - Andreas/Brigitte]
-    E --> M[French - Antoine/Béatrice]
-    D --> M[EN Version - Final]
+    A[Book Research Files] --> B[AFA Analysis Agent]
+    B --> C[book.yaml with scores & themes]
+    C --> D[Format Selection Algorithm/AI]
+    D --> E[Selected Format + Prompts]
+    E --> F[Language-specific Generation]
+    F --> G[Polish - Andrzej/Beata]
+    F --> H[English - Andrew/Beth]
+    F --> I[Spanish - Andrés/Beatriz]
+    F --> J[Portuguese - André/Beatriz]
+    F --> K[Hindi - Arjun/Bhavna]
+    F --> L[Japanese - Akira/Beniko]
+    F --> M[Korean - Ahn/Bora]
+    F --> N[German - Andreas/Brigitte]
+    F --> O[French - Antoine/Béatrice]
 ```
 
 ## Host Name Mapping
@@ -65,36 +80,36 @@ graph TD
 - Female: Beth
 
 ### Polish
-- Male: Michał
-- Female: Kasia
+- Male: Andrzej
+- Female: Beata
 
 ### Spanish
-- Male: Carlos
-- Female: María
+- Male: Andrés
+- Female: Beatriz
 
 ### Portuguese
-- Male: João
-- Female: Ana
+- Male: André
+- Female: Beatriz
 
 ### Hindi
-- Male: राज (Raj)
-- Female: प्रिया (Priya)
+- Male: अर्जुन (Arjun)
+- Female: भावना (Bhavna)
 
 ### Japanese
-- Male: 健太 (Kenta)
-- Female: 愛子 (Aiko)
+- Male: 明 (Akira)
+- Female: 紅子 (Beniko)
 
 ### Korean
-- Male: 민수 (Minsu)
-- Female: 지은 (Jieun)
+- Male: 안 (Ahn)
+- Female: 보라 (Bora)
 
 ### German
-- Male: Stefan
-- Female: Julia
+- Male: Andreas
+- Female: Brigitte
 
 ### French
-- Male: Pierre
-- Female: Sophie
+- Male: Antoine
+- Female: Béatrice
 
 ## Content Strategy
 
@@ -119,15 +134,22 @@ graph TD
 - Regional cultural adaptations
 - Local publisher information
 
-## File Structure (Simplified)
+## File Structure (Current)
 
 ```
-books/NNNN_book_name/docs/
-├── NNNN_book_name-afa-pl.md       # Polish version with full local context
-├── NNNN_book_name-afa-en.md       # English version without local context
-└── findings/                       # Research files used by both versions
-    ├── au-research_local_context.md  # Used only in Polish version
-    └── [other research files]        # Used in both versions
+books/NNNN_book_name/
+├── book.yaml                       # Complete AFA analysis and format selection
+├── docs/
+│   └── findings/                   # Research files from agents
+│       ├── au-research_culture_impact.md
+│       ├── au-research_dark_drama.md
+│       ├── au-research_facts_history.md
+│       ├── au-research_local_[lang]_context.md  # Multiple language contexts
+│       ├── au-research_reality_wisdom.md
+│       ├── au-research_symbols_meanings.md
+│       ├── au-research_writing_innovation.md
+│       └── au-research_youth_digital.md
+└── prompts/                        # Generated scene prompts (if applicable)
 ```
 
 ## NotebookLM Language Codes
@@ -146,101 +168,105 @@ These are the exact codes to use in the NotebookLM interface:
 | German | `Deutsch` | Standard German |
 | French | `français` | European French (more standard than Canadian) |
 
-## Audio Format Names
+## Dialogue Format Names (8 formats)
 
-### Original Polish → English → Other Languages
+### Current System Formats
 
-1. **Przyjacielska wymiana**
-   - EN: Friendly Exchange
-   - ES: Intercambio Amistoso
-   - PT: Conversa Amigável
-   - HI: मैत्रीपूर्ण वार्तालाप
-   - JA: 友好的な対話
-   - KO: 친근한 대화
-   - DE: Freundlicher Austausch
-   - FR: Échange Amical
+1. **exploratory_dialogue**
+   - PL: Odkrywcza rozmowa
+   - EN: Exploratory Dialogue
+   - ES: Diálogo Exploratorio
+   - PT: Diálogo Exploratório
+   - HI: खोजपूर्ण संवाद
+   - JA: 探索的対話
+   - KO: 탐색적 대화
+   - DE: Erkundungsdialog
+   - FR: Dialogue Exploratoire
 
-2. **Mistrz i Uczeń**
-   - EN: Master and Student
-   - ES: Maestro y Estudiante
-   - PT: Mestre e Aluno
-   - HI: गुरु और शिष्य
-   - JA: 師匠と弟子
-   - KO: 스승과 제자
-   - DE: Meister und Schüler
-   - FR: Maître et Élève
+2. **academic_analysis**
+   - PL: Analiza akademicka
+   - EN: Academic Analysis
+   - ES: Análisis Académico
+   - PT: Análise Acadêmica
+   - HI: शैक्षणिक विश्लेषण
+   - JA: 学術的分析
+   - KO: 학술적 분석
+   - DE: Akademische Analyse
+   - FR: Analyse Académique
 
-3. **Adwokat i Sceptyk**
-   - EN: Advocate and Skeptic
-   - ES: Defensor y Escéptico
-   - PT: Advogado e Cético
-   - HI: पक्षधर और संशयवादी
-   - JA: 擁護者と懐疑論者
-   - KO: 옹호자와 회의론자
-   - DE: Befürworter und Skeptiker
-   - FR: Avocat et Sceptique
+3. **critical_debate**
+   - PL: Krytyczna debata
+   - EN: Critical Debate
+   - ES: Debate Crítico
+   - PT: Debate Crítico
+   - HI: आलोचनात्मक बहस
+   - JA: 批判的討論
+   - KO: 비판적 토론
+   - DE: Kritische Debatte
+   - FR: Débat Critique
 
 ## Format-Specific Role System
 
-Each of the 12 audio formats has unique host personalities and roles defined for each language:
+Each of the 8 dialogue formats has unique host personalities and roles:
 
-### Example: "Przyjacielska wymiana" (Friendly Exchange)
-- **Polish**: Michał (entuzjastyczny miłośnik książek) + Kasia (ciekawska przyjaciółka)
-- **English**: Andrew (enthusiastic book lover) + Beth (curious friend)  
-- **Spanish**: Carlos (amante entusiasta de libros) + María (amiga curiosa)
+### Example: "exploratory_dialogue"
+- **Polish**: Andrzej (entuzjastyczny odkrywca) + Beata (ciekawska towarzyszka)
+- **English**: Andrew (enthusiastic explorer) + Beth (curious companion)
+- **Spanish**: Andrés (explorador entusiasta) + Beatriz (compañera curiosa)
 
-### Role Assignment Pattern
-- **Host A (Male)**: Usually takes the more experienced/analytical role
-- **Host B (Female)**: Often takes the questioning/emotional exploration role
-- **Instructions**: Detailed behavioral guidelines specific to each format and language
-- **Cultural Adaptation**: Names and personality traits adapted for each language/culture
+### Role Assignment Pattern for All 8 Formats:
+1. **exploratory_dialogue**: Explorer + Curious newcomer
+2. **academic_analysis**: Professor + Student assistant
+3. **cultural_dimension**: Local expert + Global observer
+4. **social_perspective**: Social historian + Contemporary critic
+5. **critical_debate**: Advocate + Skeptic
+6. **narrative_reconstruction**: Investigator + Witness
+7. **temporal_context**: Classical expert + Modern reader
+8. **emotional_perspective**: Emotional reader + Analytical critic
 
-### Current Format Coverage
-The system includes complete role definitions for:
-1. Friendly Exchange (przyjacielska_wymiana)
-2. Master and Student (mistrz_i_uczen)
+### Host Dynamics:
+- **Host A (Male with A-name)**: Usually takes the expert/leading role
+- **Host B (Female with B-name)**: Often takes the questioning/discovering role
+- **Balance**: Both hosts contribute equally but from different perspectives
 
-**Note**: Additional 10 formats need to be defined in `audio_format_roles.yaml`
+## Workflow
 
-## Simplified Workflow
+### Current Process:
+1. Research agents generate findings in `docs/findings/`
+2. AFA analysis agent processes findings and creates `book.yaml`
+3. Format selection algorithm (v2.0) chooses dialogue format
+4. Language-specific prompts generated with A/B host names
+5. NotebookLM generates audio in selected language
 
-### For Polish Audio:
-1. Use `NNNN_book-afa-pl.md` with Andrzej & Beata
-2. Include all research including local context
-3. Select "polski" in NotebookLM
-
-### For All Other Languages:
-1. Use `NNNN_book-afa-en.md` with Andrew & Beth in prompt
-2. Skip `au-research_local_context.md` content
-3. Select target language in NotebookLM
-4. NotebookLM will translate and use appropriate host names from config
+### For Each Language:
+- **Polish**: Andrzej & Beata with full local context
+- **English**: Andrew & Beth with universal themes
+- **Spanish**: Andrés & Beatriz
+- **Portuguese**: André & Beatriz
+- **Hindi**: Arjun & Bhavna
+- **Japanese**: Akira & Beniko
+- **Korean**: Ahn & Bora
+- **German**: Andreas & Brigitte
+- **French**: Antoine & Béatrice
 
 ## Implementation Status
 
 ### ✅ Completed:
-1. Language configuration with A/B pattern names
-2. Format role definitions for all 12 formats (PL & EN only)
-3. Documentation updated for simplified system
+1. Single `book.yaml` architecture with complete AFA analysis
+2. 8 dialogue formats defined with host roles
+3. Format selection algorithm v2.0 with adaptive balancing
+4. A/B naming pattern for all 9 languages
+
+### 🚧 In Progress:
+1. Moving from algorithmic to AI-based format selection
+2. Guidelines for AI selector (AFA_FORMAT_SELECTION_GUIDELINES.md)
+3. System prompt for AI selector (AFA_AI_SELECTOR_PROMPT.md)
 
 ### 📝 To Do:
-1. Modify AFA agent to generate English version
-2. Update notebook-audio agent for language selection
-3. Test with 1-2 books
-
-### Phase 2: English Base Generation
-1. Generate English versions for all books
-2. Validate content quality
-3. Ensure universal relevance
-
-### Phase 3: Localization
-1. Create language-specific versions
-2. Validate host name appropriateness
-3. Test with native speakers if possible
-
-### Phase 4: Automation
-1. Create batch generation scripts
-2. Implement quality checks
-3. Set up continuous generation pipeline
+1. Implement AI-based format selector
+2. Test format selection with existing books
+3. Generate audio for all 9 languages
+4. Create batch processing scripts
 
 ## Quality Assurance
 
@@ -259,24 +285,24 @@ The system includes complete role definitions for:
 - [ ] Character encoding is UTF-8
 - [ ] YAML structure is valid
 
-## Prompt Templates
+## Prompt Templates (Examples)
 
-### English Template
+### English Template (academic_analysis format)
 ```
 Host A = Andrew (male). Speak in first person.
-"You are an enthusiastic book lover. Share personal reflections, connect themes to life. Speak naturally, use conversational language. 3-4 sentences per response."
+"You are Professor Andrew, analyzing '{book_title}' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible."
 
 Host B = Beth (female). Speak in first person.
-"You are a curious friend. Ask questions about emotions, inquire 'why did that affect you so much?'. Pick up threads, develop them. Speak conversationally."
+"You are Beth, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
 ```
 
-### Spanish Template
+### Spanish Template (exploratory_dialogue format)
 ```
-Host A = Carlos (hombre). Habla en primera persona.
-"Eres un entusiasta amante de los libros. Comparte reflexiones personales, conecta temas con la vida. Habla naturalmente, usa lenguaje conversacional. 3-4 oraciones por respuesta."
+Host A = Andrés (hombre). Habla en primera persona.
+"Eres Andrés, un explorador entusiasta descubriendo '{book_title}'. Comparte tu pasión y conocimiento de manera accesible."
 
-Host B = María (mujer). Habla en primera persona.
-"Eres una amiga curiosa. Haz preguntas sobre emociones, pregunta '¿por qué te afectó tanto?'. Recoge hilos, desarróllalos. Habla conversacionalmente."
+Host B = Beatriz (mujer). Habla en primera persona.
+"Eres Beatriz, curiosa sobre '{book_title}' por primera vez. Haz preguntas básicas, expresa primeras impresiones."
 ```
 
 ## Notes and Considerations
@@ -314,5 +340,5 @@ Host B = María (mujer). Habla en primera persona.
 
 ---
 
-*Last Updated: 2025-09-10*
-*Version: 1.0*
+*Last Updated: 2025-01-15*
+*Version: 2.0* - Updated to reflect current single book.yaml architecture with 8 dialogue formats

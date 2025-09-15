@@ -2,157 +2,157 @@
 
 ## Conspiracy Theories & Dark Interpretations
 
-### 1. **TEORIA SPISKOWA** - MK-Ultra Mind Control Connection
-Jedna z najbardziej trwałych teorii spiskowych głosi, że "Buszujący w zbożu" został wykorzystany jako "trigger" dla tajnego programu kontroli umysłu CIA MK-Ultra. Według tej teorii, książka zawiera ukryte neurotonolingwistyczne przesłania, które miały aktywować "śpiących zabójców" trenowanych przez CIA.
+### 1. **CONSPIRACY THEORY** - MK-Ultra Mind Control Connection
+One of the most persistent conspiracy theories claims that "The Catcher in the Rye" was used as a "trigger" for the CIA's secret mind control program MK-Ultra. According to this theory, the book contains hidden neurolinguistic programming messages designed to activate "sleeper assassins" trained by the CIA.
 
-### 2. **FAKT** - Powiązania z zabójstwami celebrytów
-Mark David Chapman został znaleziony z kopią książki po zabiciu Johna Lennona w 1980 roku i twierdził, że powieść dostarczyła mu motywacji. John Hinckley Jr. miał egzemplarz w pokoju hotelowym po próbie zamachu na prezydenta Reagana w 1981 roku. Robert John Bardo niósł książkę, gdy zamordował aktorkę Rebeccę Schaeffer w 1989 roku.
+### 2. **FACT** - Celebrity Assassination Connections
+Mark David Chapman was found with a copy of the book after killing John Lennon in 1980 and claimed the novel provided him with motivation. John Hinckley Jr. had a copy in his hotel room after attempting to assassinate President Reagan in 1981. Robert John Bardo carried the book when he murdered actress Rebecca Schaeffer in 1989.
 
-### 3. **PLOTKA** - Związki z zabójstwem JFK
-Niektóre teorie łączą książkę również z Lee Harvey Oswaldem, choć brak jest konkretnych dowodów na potwierdzenie tego zarzutu.
+### 3. **RUMOR** - JFK Assassination Connection
+Some theories also link the book to Lee Harvey Oswald, though there is no concrete evidence to support this allegation.
 
-### 4. **FAKT** - Tajemnicza działalność wojenna Salingera
-J.D. Salinger służył w Counter Intelligence Corps (CIC) podczas II wojny światowej, jednostce znanej jako "Sekretna Armia Ameryki". Jego zadania obejmowały przesłuchiwanie jeńców wojennych i nazistowskich kolaborantów.
+### 4. **FACT** - Salinger's Mysterious War Activities
+J.D. Salinger served in the Counter Intelligence Corps (CIC) during World War II, a unit known as "America's Secret Army." His duties included interrogating prisoners of war and Nazi collaborators.
 
-### 5. **FAKT** - Udział w polowaniu na nazistowskich zbrodniarzy
-Po wojnie Salinger pozostał w Niemczech na sześciomiesięczny okres "denazyfikacji", uczestnicząc w poszukiwaniu nazistowskich zbrodniarzy wojennych.
+### 5. **FACT** - Participation in Nazi War Criminal Hunts
+After the war, Salinger remained in Germany for a six-month "denazification" period, participating in the search for Nazi war criminals.
 
-### 6. **ZARZUT** - Kontrowersyjne powiązania CIC z nazistami
-Raport Departamentu Sprawiedliwości z 1988 roku ujawnił, że przynajmniej 14 podejrzanych nazistowskich zbrodniarzy zostało zatrudnionych jako informatorzy wywiadowczy przez CIC w Austrii.
+### 6. **ACCUSATION** - CIC's Controversial Nazi Connections
+A 1988 Justice Department report revealed that at least 14 suspected Nazi war criminals were employed as intelligence informants by the CIC in Austria.
 
 ## Personal Scandals & Controversies
 
-### 7. **FAKT** - Wzorzec relacji z nieletnimi dziewczynkami
-Salinger przez całe życie utrzymywał relacje z znacznie młodszymi kobietami, często nastolatkami, gdy sam był już dojrzałym mężczyzną.
+### 7. **FACT** - Pattern of Relationships with Underage Girls
+Salinger maintained relationships with significantly younger women throughout his life, often teenagers when he was already a mature man.
 
-### 8. **FAKT** - Romans z 14-letnią Jean Miller
-W wieku 30 lat Salinger nawiązał "romans" z 14-letnią Jean Miller, który trwał pięć lat. Gdy w końcu z nią spał (gdy miała 20 lat), natychmiast ją porzucił.
+### 8. **FACT** - Romance with 14-year-old Jean Miller
+At age 30, Salinger began a "romance" with 14-year-old Jean Miller that lasted five years. When he finally slept with her (when she was 20), he immediately abandoned her.
 
-### 9. **FAKT** - Małżeństwo z 21-letnią Claire Douglas
-W wieku 36 lat poślubił 21-letnią Claire Douglas. Zmusił ją do porzucenia studiów zaledwie cztery miesiące przed ukończeniem.
+### 9. **FACT** - Marriage to 21-year-old Claire Douglas
+At age 36, he married 21-year-old Claire Douglas. He forced her to abandon her studies just four months before graduation.
 
-### 10. **FAKT** - Romans z 19-letnią Joyce Maynard
-W wieku 53 lat rozpoczął romans z 19-letnią Joyce Maynard, który trwał około 10 miesięcy.
+### 10. **FACT** - Romance with 19-year-old Joyce Maynard
+At age 53, he began a romance with 19-year-old Joyce Maynard that lasted about 10 months.
 
-### 11. **FAKT** - Trzecie małżeństwo w wieku 69 lat
-W wieku 69 lat poślubił 21-letnią Colleen O'Neill, różnica wieku wynosiła 48 lat.
+### 11. **FACT** - Third Marriage at Age 69
+At age 69, he married 21-year-old Colleen O'Neill, with an age difference of 48 years.
 
-### 12. **ZARZUT** - Predatory pattern behavior
-Według biografów, Salinger był "pociągany do bardzo młodych, seksualnie niedoświadczonych dziewczyn" i zawsze wycofywał się po seksualnym skonsumowaniu związku.
+### 12. **ACCUSATION** - Predatory Pattern Behavior
+According to biographers, Salinger was "attracted to very young, sexually inexperienced girls" and always withdrew after sexually consummating the relationship.
 
-### 13. **FAKT** - Małżeństwo z nazistowską kolaborantką
-Podczas służby w Niemczech poślubił Sylvię Welter, opisywaną jako "nazistowska kolaborantka". Małżeństwo rozpadło się po ośmiu miesiącach.
+### 13. **FACT** - Marriage to Nazi Collaborator
+During his service in Germany, he married Sylvia Welter, described as a "Nazi collaborator." The marriage fell apart after eight months.
 
 ## Censorship History & Government Suppression
 
-### 14. **FAKT** - Jedna z najczęściej cenzurowanych książek w USA
-Od 1961 do 1982 roku była jedną z najczęściej cenzurowanych książek w amerykańskich szkołach i bibliotekach. Według ALA była 10. najczęściej zakazaną książką w latach 1990-1999.
+### 14. **FACT** - Most Frequently Censored Book in USA
+From 1961 to 1982, it was one of the most frequently censored books in American schools and libraries. According to the ALA, it was the 10th most frequently banned book from 1990-1999.
 
-### 15. **FAKT** - Spory w ponad 70 społecznościach
-Od wczesnych lat 60. książka wywołała kontrowersje w ponad 70 społecznościach w całych Stanach Zjednoczonych.
+### 15. **FACT** - Disputes in Over 70 Communities
+Since the early 1960s, the book has caused controversies in over 70 communities across the United States.
 
-### 16. **FAKT** - Nauczyciele zwalniani za nauczanie książki
-W sprawie Harris v. Mechanicville Central School District (1978), nauczyciel liceum został zwolniony za niesubordynację, gdy odmówił usunięcia książki z programu nauczania.
+### 16. **FACT** - Teachers Fired for Teaching the Book
+In Harris v. Mechanicville Central School District (1978), a high school teacher was fired for insubordination when he refused to remove the book from the curriculum.
 
-### 17. **ZARZUT** - 785 "przekleństw" w tekście
-Jeden z rodziców policzył 785 "przekleństw" w książce, co stało się podstawą do jej zakwestionowania.
+### 17. **ACCUSATION** - 785 "Profanities" in Text
+One parent counted 785 "profanities" in the book, which became grounds for challenging it.
 
-### 18. **FAKT** - Religijna opozycja
-Książka była krytykowana za "bluźnierstwa", "szkodliwe treści seksualne" oraz "podważanie wartości rodzinnych i kodów moralnych".
+### 18. **FACT** - Religious Opposition
+The book was criticized for "blasphemy," "harmful sexual content," and "undermining family values and moral codes."
 
 ## Copyright Battles & Financial Drama
 
-### 19. **FAKT** - Landmark case Salinger v. Random House
-W 1986-1987 Salinger pozwał Random House za wykorzystanie fragmentów jego prywatnych listów w biografii, wygrywając sprawę i ustanawiając precedens w prawie autorskim.
+### 19. **FACT** - Landmark Case Salinger v. Random House
+In 1986-1987, Salinger sued Random House for using excerpts from his private letters in a biography, winning the case and establishing a precedent in copyright law.
 
-### 20. **FAKT** - Wielomiliardowe wpływy z książki
-"Buszujący w zbożu" sprzedał się w 65 milionach egzemplarzy w 30 językach i generuje setki tysięcy dolarów rocznie z tantiem. Nadal sprzedaje się w 250,000 egzemplarzy rocznie.
+### 20. **FACT** - Multi-billion Dollar Revenue from Book
+"The Catcher in the Rye" has sold 65 million copies in 30 languages and generates hundreds of thousands of dollars annually in royalties. It still sells 250,000 copies per year.
 
-### 21. **FAKT** - Proces przeciwko szwedzkiemu autorowi
-Spadkobiercy Salingera procesowali się z Fredrikiem Coltingiem o książkę "60 Years Later: Coming Through the Rye", opisywaną jako "nieautoryzowany sequel".
+### 21. **FACT** - Lawsuit Against Swedish Author
+Salinger's heirs sued Fredrik Colting over the book "60 Years Later: Coming Through the Rye," described as an "unauthorized sequel."
 
-### 22. **ZARZUT** - Wartość niepublikowanych rękopisów w milionach
-Spekuluje się, że wartość niepublikowanych rękopisów Salingera wynosi dziesiątki milionów dolarów.
+### 22. **ACCUSATION** - Unpublished Manuscripts Worth Millions
+It's speculated that the value of Salinger's unpublished manuscripts is worth tens of millions of dollars.
 
-### 23. **FAKT** - Leak unpublished stories w 2013
-Trzy niepublikowane opowiadania Salingera wyciekły online w 2013 roku, pozbawiając spadkobierców kontroli nad pierwszą publikacją.
+### 23. **FACT** - Leak of Unpublished Stories in 2013
+Three unpublished Salinger stories leaked online in 2013, depriving heirs of control over first publication.
 
-### 24. **FAKT** - Odmowa wszystkich adaptacji filmowych
-Salinger odrzucił wszystkie oferty Hollywood na adaptacje filmowe, w tym propozycje od Samuela Goldwyna, Harveyego Weinsteina, Stevena Spielberga, Marlon Brando i Leonardo DiCaprio.
+### 24. **FACT** - Rejection of All Film Adaptations
+Salinger rejected all Hollywood offers for film adaptations, including proposals from Samuel Goldwyn, Harvey Weinstein, Steven Spielberg, Marlon Brando, and Leonardo DiCaprio.
 
 ## Occult & Hidden Meanings
 
-### 25. **TEORIA SPISKOWA** - Ukryte kody w tekście
-Niektórzy badacze twierdzą, że odkryli "sekretne kody" w książce, choć nie przedstawiono przekonujących dowodów.
+### 25. **CONSPIRACY THEORY** - Hidden Codes in Text
+Some researchers claim to have discovered "secret codes" in the book, though no convincing evidence has been presented.
 
-### 26. **INTERPRETACJA** - Holden jako figura Chrystusa
-Niektórzy krytycy interpretują Holdena jako figurę chrystusową - "catcher" (łapacz) dzieci przypomina pastora chroniącego swoje stado.
+### 26. **INTERPRETATION** - Holden as Christ Figure
+Some critics interpret Holden as a Christ-like figure - the "catcher" of children resembles a pastor protecting his flock.
 
-### 27. **TEORIA** - Symbolika czerwonej czapki myśliwskiej
-Czerwona czapka Holdena jest interpretowana przez niektórych jako symbol krwi, przemocy lub rewolucji.
+### 27. **THEORY** - Red Hunting Hat Symbolism
+Holden's red hunting hat is interpreted by some as a symbol of blood, violence, or revolution.
 
-### 28. **INTERPRETACJA** - Podświadome przesłania seksualne
-Niektórzy krytycy wskazują na ukryte przesłania homoseksualne w relacji Holdena z panem Antolini.
+### 28. **INTERPRETATION** - Subconscious Sexual Messages
+Some critics point to hidden homosexual messages in Holden's relationship with Mr. Antolini.
 
 ## Industry Drama & Rivalries
 
-### 29. **FAKT** - Spór o film "My Foolish Heart" (1949)
-Adaptacja filmowa opowiadania Salingera "Uncle Wiggily in Connecticut" tak bardzo go rozgniewała, że przyczynił się do jego decyzji o odmowie dalszych adaptacji.
+### 29. **FACT** - Dispute Over Film "My Foolish Heart" (1949)
+The film adaptation of Salinger's story "Uncle Wiggily in Connecticut" so angered him that it contributed to his decision to refuse further adaptations.
 
-### 30. **FAKT** - Odrzucenie Broadway musical
-Spadkobiercy Salingera zatrzymali musical Broadway "Catcher in the Rye", który próbował ominąć prawo autorskie, opowiadając historię życia Salingera zamiast adaptować powieść.
+### 30. **FACT** - Rejection of Broadway Musical
+Salinger's heirs stopped a Broadway musical "Catcher in the Rye" that tried to circumvent copyright by telling Salinger's life story instead of adapting the novel.
 
-### 31. **FAKT** - Groźby prawne przeciwko iranickiemu filmowi
-W 1998 roku Salinger groził pozwem Lincoln Center Film Society, jeśli wyświetlą irański film "Pari", luźno oparty na "Franny and Zooey".
+### 31. **FACT** - Legal Threats Against Iranian Film
+In 1998, Salinger threatened to sue Lincoln Center Film Society if they screened the Iranian film "Pari," loosely based on "Franny and Zooey."
 
-### 32. **FAKT** - Walka z pirates i derivative works
-Salinger był opisywany w własnych dokumentach sądowych jako "zawzięcie chroniący swoją własność intelektualną" i "nigdy nie pozwolił na żadne derivative works".
+### 32. **FACT** - Battle Against Pirates and Derivative Works
+Salinger was described in his own court documents as "fiercely protective of his intellectual property" and "never allowed any derivative works."
 
-## Prophecy Check - Co się sprawdziło
+## Prophecy Check - What Came True
 
-### 33. **PRZEPOWIEDNIA SPRAWDZONA** - Alienacja młodzieży w erze social media
-Holdenowa krytyka "fałszywości" dorosłego świata okazała się prorocza w erze social mediów, gdzie autentyczność jest jeszcze trudniejsza do osiągnięcia.
+### 33. **PROPHECY CONFIRMED** - Youth Alienation in Social Media Era
+Holden's criticism of the "phoniness" of the adult world proved prophetic in the social media era, where authenticity is even harder to achieve.
 
-### 34. **PRZEPOWIEDNIA SPRAWDZONA** - Wzrost materializmu
-Książka przewidziała narastający materializm społeczeństwa amerykańskiego, który jeszcze bardziej się nasilił.
+### 34. **PROPHECY CONFIRMED** - Rise of Materialism
+The book predicted the growing materialism of American society, which has intensified even further.
 
-### 35. **PRZEPOWIEDNIA SPRAWDZONA** - Problemy systemu edukacyjnego
-Krytyka Holdena dotycząca instytucjonalnego systemu edukacji okazała się trwałą i aktualną.
+### 35. **PROPHECY CONFIRMED** - Educational System Problems
+Holden's criticism of the institutional education system proved lasting and relevant.
 
-### 36. **PRZEPOWIEDNIA SPRAWDZONA** - Youth rebellion as American identity
-Profesor Leerom Medovoi zauważył, że Holden "epitomizes the triumph of the young rebel as a requisite figure for representing the national identity of America".
+### 36. **PROPHECY CONFIRMED** - Youth Rebellion as American Identity
+Professor Leerom Medovoi noted that Holden "epitomizes the triumph of the young rebel as a requisite figure for representing the national identity of America."
 
-### 37. **NIE SPRAWDZIŁO SIĘ** - Oczekiwanie, że młodzież "dorośnie"
-Holdenowa nadzieja, że następne pokolenia będą bardziej autentyczne, nie sprawdziła się - problemy alienacji nasiliły się.
+### 37. **DIDN'T COME TRUE** - Expectation that Youth Would "Grow Up"
+Holden's hope that future generations would be more authentic didn't come true - problems of alienation have intensified.
 
 ## Mental Health & Psychological Drama
 
-### 38. **FAKT** - Salinger miał PTSD po wojnie
-Według biografa Iana Hamiltona, Salinger prawdopodobnie cierpiał na zespół stresu pourazowego z powodu działań wojennych, które "uczyniły go na zawsze zaburzonym człowiekiem".
+### 38. **FACT** - Salinger Had PTSD After War
+According to biographer Ian Hamilton, Salinger probably suffered from post-traumatic stress disorder from war activities that "made him forever a disturbed man."
 
-### 39. **FAKT** - Hospitalizacja z powodu battle fatigue
-Salinger został hospitalizowany na kilka tygodni z powodu "battle fatigue" (wyczerpania bojowego) po zakończeniu wojny.
+### 39. **FACT** - Hospitalization for Battle Fatigue
+Salinger was hospitalized for several weeks for "battle fatigue" after the war ended.
 
-### 40. **CYTAT** - Traumatyczne wspomnienia z wojny
-Salinger powiedział swojej córce: "Nigdy tak naprawdę nie pozbędziesz się zapachu palącej się ludzkiej skóry z nosa, bez względu na to, jak długo żyjesz."
+### 40. **QUOTE** - Traumatic War Memories
+Salinger told his daughter: "You never really get the smell of burning human flesh out of your nose entirely, no matter how long you live."
 
 ## Dark Legacy
 
-### 41. **FAKT** - Wpływ na kontrkultury lat 60.
-Krytycy twierdzą, że książka pomogła wspierać formy niezadowolenia centralne dla ruchu kontrkulturowego lat 60.
+### 41. **FACT** - Influence on 1960s Counterculture
+Critics argue that the book helped foster forms of discontent central to the 1960s counterculture movement.
 
-### 42. **FAKT** - Badge of authenticity dla młodzieży
-Od 1951 roku czytanie "Buszującego w zbożu" służyło jako "badge of self-declared authenticity" dla wielu młodych ludzi.
+### 42. **FACT** - Badge of Authenticity for Youth
+Since 1951, reading "The Catcher in the Rye" has served as a "badge of self-declared authenticity" for many young people.
 
-### 43. **TEORIA** - Salinger jako recluse due to guilt
-Niektórzy spekulują, że ekstremalny pustelniczy tryb życia Salingera wynikał z poczucia winy związanego z wojennymi doświadczeniami lub późniejszymi działaniami.
+### 43. **THEORY** - Salinger as Recluse Due to Guilt
+Some speculate that Salinger's extreme reclusive lifestyle resulted from guilt related to war experiences or later actions.
 
-### 44. **FAKT** - Continued relevance w erze cyfrowej
-Generation Z nadal utożsamia się z książką, "być może nawet bardziej niż gdy została pierwotnie napisana", ze względu na nasilenie problemów z autentycznością w erze cyfrowej.
+### 44. **FACT** - Continued Relevance in Digital Era
+Generation Z still identifies with the book, "perhaps even more than when it was originally written," due to intensified problems with authenticity in the digital era.
 
-### 45. **PARADOX** - Anti-phoniness book becomes commercial phenomenon
-Ironia polega na tym, że książka krytykująca komercjalizację i "fałszywość" sama stała się ogromnym fenomenem komercyjnym, generującym miliony dolarów.
+### 45. **PARADOX** - Anti-phoniness Book Becomes Commercial Phenomenon
+The irony is that a book criticizing commercialization and "phoniness" itself became a huge commercial phenomenon, generating millions of dollars.
 
 ---
 
-**Uwaga badawcza**: Te informacje zostały zebrane z różnych źródeł i oznaczone odpowiednio jako FAKTY (potwierdzone), ZARZUTY (nieudowodnione ale wiarygodne) lub PLOTKI/TEORIE (spekulacyjne). Wiele kontrowersji wokół Salingera i jego dzieła pozostaje przedmiotem debaty, szczególnie teorie spiskowe, które nie zostały nigdy definitywnie udowodnione lub obalone.
+**Research Note**: This information was gathered from various sources and appropriately marked as FACTS (confirmed), ACCUSATIONS (unproven but credible), or RUMORS/THEORIES (speculative). Many controversies surrounding Salinger and his work remain subjects of debate, particularly conspiracy theories that have never been definitively proven or disproven.

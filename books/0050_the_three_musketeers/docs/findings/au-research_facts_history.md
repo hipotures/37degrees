@@ -1,132 +1,147 @@
-# Badania Historyczne: "Trzej Muszkieterowie" - Fakty i Historia Powstania
+# Historical Research: "The Three Musketeers" - Facts and Creation History
 
-## 1. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## 1. BOOK CREATION CIRCUMSTANCES
 
-### **FAKT**: Powstawanie w 1844 roku - rok przełomu
-Alexandre Dumas napisał "Trzech muszkieterów" w 1844 roku, w tym samym okresie co "Hrabię Monte Cristo". Był to jego najbardziej produktywny rok literacki, kiedy ukończył oba swoje najsłynniejsze dzieła.
+### **FACT**: Written in 1844 - A breakthrough year
+Alexandre Dumas wrote "The Three Musketeers" in 1844, during the same period as "The Count of Monte Cristo". This was his most productive literary year, when he completed both of his most famous works.
 
-### **FAKT**: Serializacja w gazecie Le Siècle
-Powieść ukazywała się w odcinkach w paryskiej gazecie "Le Siècle" od 14 marca do 14 lipca 1844 roku. Każdy nowy odcinek wywoływał furię wśród czytelników, którzy ustawiali się w długie kolejki po kolejne egzemplarze gazety.
+### **FACT**: Serialization in Le Siècle newspaper
+The novel was published in installments in the Parisian newspaper "Le Siècle" from March 14 to July 14, 1844. Each new installment caused a frenzy among readers, who would line up in long queues for the next issues of the newspaper.
 
-### **FAKT**: Pierwszy tytuł był inny
-Pierwotnie powieść miała nosić tytuł "Athos, Porthos i Aramis", dopóki jeden z dziennikarzy nie zasugerował zmiany. Dumas zgodził się, mówiąc: "Tym bardziej zgadzam się z twoją sugestią, żeby nazwać powieść 'Trzej muszkieterowie', biorąc pod uwagę, że są ich czterech - tytuł będzie wydawał się absurdalny, co zagwarantuje książce sukces".
+### **FACT**: Original title was different
+Originally, the novel was to be titled "Athos, Porthos and Aramis", until one of the journalists suggested a change. Dumas agreed, saying: "I agree all the more with your suggestion to call the novel 'The Three Musketeers', considering there are four of them - the title will seem absurd, which will guarantee the book's success."
 
-### **FAKT**: Nieprzywrócona książka z biblioteki
-Według dokumentów biblioteki w Marsylii, Dumas wypożyczył "Pamiętniki pana d'Artagnana" Gatiena Courtilza de Sandrasa i nigdy ich nie zwrócił. Ta książka stała się jego główną inspiracją.
+### **FACT**: Unreturned library book
+According to documents from the library in Marseilles, Dumas borrowed "Memoirs of Monsieur d'Artagnan" by Gatien Courtilz de Sandras and never returned it. This book became his main inspiration.
 
-### **FAKT**: Polityczny kontekst publikacji
-Powieść ukazała się w 1844 roku, podczas monarchii lipcowej, cztery lata przed rewolucją 1848 roku. Dumas często przedstawiał różne niesprawiedliwości starego reżimu, nadając powieści dodatkowe znaczenie polityczne.
+### **FACT**: Political context of publication
+The novel was published in 1844, during the July Monarchy, four years before the 1848 revolution. Dumas often depicted various injustices of the old regime, giving the novel additional political significance.
 
-## 2. INSPIRACJE I ŹRÓDŁA AUTORA
+## 2. AUTHOR'S INSPIRATIONS AND SOURCES
 
-### **FAKT**: Prawdziwy d'Artagnan
-Charles de Batz de Castelmore d'Artagnan urodził się około 1611 roku w Lupiac w Gaskonii. Był kapitanem muszkieterów króla Ludwika XIV i zmarł w 1673 roku podczas oblężenia Maastricht, trafiony kulą z arkebusa.
+### **FACT**: The real d'Artagnan
+Charles de Batz de Castelmore d'Artagnan was born around 1611 in Lupiac in Gascony. He was a captain of the musketeers of King Louis XIV and died in 1673 during the siege of Maastricht, struck by an arquebus bullet.
 
-### **FAKT**: Prawdziwi trzej muszkieterowie
-Athos był oparty na Armandzie de Sillégue d'Athos d'Autevielle, który zmarł w Paryżu w 1643 roku. Porthos na Isaacu de Porthau, który został muszkieterem w 1643 roku. Aramis na Henrim d'Aramitz, muszkieterze który służył 15 lat w armii francuskiej.
+### **FACT**: The real three musketeers
+Athos was based on Armand de Sillégue d'Athos d'Autevielle, who died in Paris in 1643. Porthos on Isaac de Porthau, who became a musketeer in 1643. Aramis on Henri d'Aramitz, a musketeer who served 15 years in the French army.
 
-### **FAKT**: Ojciec Dumasa jako inspiracja
-Ojciec Alexandre'a Dumasa, generał Thomas-Alexandre Dumas, był głównym szermierzem Napoleona. Napoleon był "niesamowicie zazdrosny o tego ponad dwumetrowego, niezwykle przystojnego i fizycznie genialnego generała". Dumas sfabularyzował wiele wyczynów swojego ojca w "Trzech muszkieterach".
+### **FACT**: Dumas's father as inspiration
+Alexandre Dumas's father, General Thomas-Alexandre Dumas, was Napoleon's chief swordsman. Napoleon was "incredibly jealous of this over two-meter tall, extremely handsome and physically brilliant general". Dumas fictionalized many of his father's exploits in "The Three Musketeers".
 
-### **FAKT**: Dzieciństwo i szabla
-Jako dziecko Alexandre był szkolony przez miejscowego mistrza szermieki od 10. roku życia. Kiedy matka zdecydowała, że powinien studiować, żeby zostać księdzem, Dumas uciekł do lasu, dopóki nie zapewniła go, że nie musi.
+### **FACT**: Childhood and the sword
+As a child, Alexandre was trained by a local fencing master from age 10. When his mother decided he should study to become a priest, Dumas ran away to the forest until she assured him he didn't have to.
 
-## 3. PROCES TWÓRCZY I WSPÓŁPRACA
+## 3. CREATIVE PROCESS AND COLLABORATION
 
-### **FAKT**: Współpraca z Auguste Maquetem
-Dumas napisał powieść we współpracy z Auguste Maquetem. Maquet przynosił mu surowe scenariusze po przeprowadzeniu badań historycznych; Dumas następnie rozwijał fabułę, usuwając niektóre postacie, dodając nowe i nadając opowieści swój niepowtarzalny styl.
+### **FACT**: Collaboration with Auguste Maquet
+Dumas wrote the novel in collaboration with Auguste Maquet. Maquet would bring him rough scenarios after conducting historical research; Dumas would then develop the plot, removing some characters, adding new ones, and giving the story his unique style.
 
-### **FAKT**: Proces rozprawy sądowej
-Maquet pozwał Dumasa, domagając się współautorstwa i tantiem. Podczas procesu porównano jego wersję rozdziału z wersją Dumasa, a sąd orzekł na korzyść Dumasa ze względu na wyższą jakość jego pisarstwa. Wersja Maqueta była tak bezbarwna w porównaniu z wersją Dumasa, że sprawa nigdzie nie poszła.
+### **FACT**: Court case process
+Maquet sued Dumas, demanding co-authorship and royalties. During the trial, his version of a chapter was compared with Dumas's version, and the court ruled in favor of Dumas due to the superior quality of his writing. Maquet's version was so colorless compared to Dumas's that the case went nowhere.
 
-### **FAKT**: Fabryka pisarstwa Dumasa
-Dumas założył studio produkcyjne, w którym pracowali pisarze tworzący setki opowieści, wszystkie pod jego osobistą kontrolą, redakcją i uzupełnieniami. Stworzył coś w rodzaju "warsztatu pisarskiego", gdzie dyktował fabuły, postacie lub czasami tylko tytuły szeregowi wynajętych pisarzy.
+### **FACT**: Dumas's writing factory
+Dumas established a production studio where writers worked creating hundreds of stories, all under his personal control, editing, and additions. He created something like a "writing workshop," where he would dictate plots, characters, or sometimes just titles to a series of hired writers.
 
-### **FAKT**: Produktywność Dumasa
-Jego opublikowane dzieła liczyły 100 000 stron. "Trzej muszkieterowie" to najsłynniejsza z około 250 książek, które wyszły spod pióra tego płodnego autora i jego 73 asystentów.
+### **FACT**: Dumas's productivity
+His published works totaled 100,000 pages. "The Three Musketeers" is the most famous of approximately 250 books that came from this prolific author and his 73 assistants.
 
-## 4. PIERWSZE REAKCJE I PUBLIKACJA
+## 4. FIRST REACTIONS AND PUBLICATION
 
-### **FAKT**: Natychmiastowy sukces serialu
-Publikacja w odcinkach wywołała sensację popularną z długimi kolejkami oczekującymi każdego nowego numeru "Siècle". "Cała Francja była pod urokiem muszkieterów" według Henriego d'Almerasa.
+### **FACT**: Immediate success of the serial
+The installment publication caused a popular sensation with long queues waiting for each new issue of "Siècle". "All of France was under the spell of the musketeers" according to Henri d'Almeras.
 
-### **FAKT**: Konkurencja z "Tajemnicami Paryża"
-Gazeta "Le Siècle" próbowała konkurować z sukcesem powieści Eugène'a Sue "Tajemnice Paryża", która ukazała się rok wcześniej w "La Presse". Nadzieje gazety stały się rzeczywistością, gdy "Trzej muszkieterowie" odniosła ogromny sukces.
+### **FACT**: Competition with "The Mysteries of Paris"
+The newspaper "Le Siècle" was trying to compete with the success of Eugène Sue's novel "The Mysteries of Paris," which had appeared a year earlier in "La Presse". The newspaper's hopes became reality when "The Three Musketeers" achieved enormous success.
 
-### **FAKT**: Pierwsza edycja książkowa
-Pierwsza edycja książkowa została opublikowana w Brukseli przez Alph. Lebègue w 1844 roku i jest wymieniona jako pierwsza w bibliografii Munro, z niekwestionowanym priorytetem. Edycja brukselska ma pierwszeństwo przed wszystkimi innymi edycjami książkowymi.
+### **FACT**: First book edition
+The first book edition was published in Brussels by Alph. Lebègue in 1844 and is listed as first in Munro's bibliography, with unquestioned priority. The Brussels edition has precedence over all other book editions.
 
-### **FAKT**: Angielskie tłumaczenia w 1846 roku
-Trzy angielskie tłumaczenia zostały opublikowane już w 1846 roku: jedna niekompletna anonimowa wersja, jedna przetłumaczona przez Williama Barrowa i amerykańska edycja zatytułowana "The Three Guardsmen" przetłumaczona przez Parka Benjamina.
+### **FACT**: English translations in 1846
+Three English translations were published as early as 1846: one incomplete anonymous version, one translated by William Barrow, and an American edition titled "The Three Guardsmen" translated by Park Benjamin.
 
-## 5. ŻYCIE OSOBISTE DUMASA W 1844 ROKU
+## 5. DUMAS'S PERSONAL LIFE IN 1844
 
-### **FAKT**: Separacja małżeńska
-W 1844 roku Dumas rozstał się prawnie ze swoją żoną Idą Ferrier, z którą ożenił się 5 lutego 1840 roku. Para rozstała się prawnie w październiku 1844 roku - tym samym roku, gdy opublikowano "Trzech muszkieterów".
+### **FACT**: Marital separation
+In 1844, Dumas legally separated from his wife Ida Ferrier, whom he had married on February 5, 1840. The couple legally separated in October 1844 - the same year "The Three Musketeers" was published.
 
-### **FAKT**: Problemy finansowe pomimo sukcesu
-Mimo że powieści przynosiły mu znaczne dochody, Dumas był znany z rozrzutnego stylu życia. Jego paradoksalna sytuacja finansowa - bardzo udany, ale wiecznie zadłużony - zmuszała go do coraz szybszego pisania, żeby spłacić wierzycieli.
+### **FACT**: Financial problems despite success
+Although his novels brought him significant income, Dumas was known for his extravagant lifestyle. His paradoxical financial situation - very successful but eternally in debt - forced him to write faster and faster to pay off creditors.
 
-### **FAKT**: Château de Monte Cristo
-Dzięki sukcesowi "Trzech muszkieterów" i "Hrabiego Monte Cristo" Dumas miał wystarczająco dużo środków, by spłacić długi. To skłoniło go do poszukiwania domu na wsi, gdzie zakochał się w okolicy Port Marly. Zbudował tam wielki zamek według własnych upodobań, nazywając go Château de Monte Cristo.
+### **FACT**: Château de Monte Cristo
+Thanks to the success of "The Three Musketeers" and "The Count of Monte Cristo," Dumas had enough money to pay off his debts. This led him to search for a country house, where he fell in love with the Port Marly area. He built a great castle there according to his own tastes, calling it Château de Monte Cristo.
 
-### **FAKT**: Ucieczka do Belgii
-W 1851 roku musiał uciec do Brukseli w Belgii, żeby uniknąć wierzycieli, mimo wcześniejszych sukcesów finansowych.
+### **FACT**: Escape to Belgium
+In 1851, he had to flee to Brussels, Belgium, to avoid creditors, despite his earlier financial successes.
 
-## 6. STATYSTYKI I REKORDY
+## 6. STATISTICS AND RECORDS
 
-### **FAKT**: Tłumaczenia na prawie 100 języków
-Dzieła Dumasa zostały przetłumaczone na prawie 100 języków, a on sam jest jednym z najszerzej czytanych francuskich autorów.
+### **FACT**: Translations into nearly 100 languages
+Dumas's works have been translated into nearly 100 languages, and he himself is one of the most widely read French authors.
 
-### **FAKT**: Ponad 60 adaptacji filmowych
-Powieść została zaadaptowana na ponad 60 filmów i spin-offów i sprzedała się w milionach egzemplarzy w setkach języków na całym świecie.
+### **FACT**: Over 60 film adaptations
+The novel has been adapted into over 60 films and spin-offs and has sold millions of copies in hundreds of languages worldwide.
 
-### **FAKT**: Wydanie polskie już w 1846 roku
-Polskie wydanie ukazało się w 1846 roku, zaledwie dwa lata po oryginalnej francuskiej publikacji w 1844 roku, co świadczy o natychmiastowym międzynarodowym sukcesie.
+### **FACT**: Polish edition already in 1846
+The Polish edition appeared in 1846, just two years after the original French publication in 1844, demonstrating immediate international success.
 
-### **FAKT**: Box office współczesnych adaptacji
-Film z 2011 roku zarobił 132 miliony dolarów przy budżecie produkcyjnym 75 milionów dolarów, mimo negatywnych recenzji krytyków.
+### **FACT**: Box office of modern adaptations
+The 2011 film earned $132 million against a production budget of $75 million, despite negative reviews from critics.
 
-## 7. WPŁYW KULTUROWY I DZIEDZICTWO
+## 7. CULTURAL IMPACT AND LEGACY
 
-### **FAKT**: Dewiza na wieki
-Dewiza muszkieterów "jeden za wszystkich, wszyscy za jednego" stała się legendarna i weszła do powszechnego użytku kulturowego.
+### **FACT**: Motto for the ages
+The musketeers' motto "all for one, one for all" became legendary and entered common cultural usage.
 
-### **FAKT**: Pantheon w 2002 roku
-W 2002 roku, w dwusetną rocznicę urodzin Dumasa, jego ciało zostało ponownie pochowane w Panteonie. Nowa trumna była okryta niebieskim aksamitem i niesiona na lawecie w otoczeniu czterech konnych Gwardzistów Republikańskich przebranych za czterech muszkieterów.
+### **FACT**: Pantheon in 2002
+In 2002, on the bicentennial of Dumas's birth, his body was reburied in the Pantheon. The new coffin was covered in blue velvet and carried on a gun carriage surrounded by four mounted Republican Guards dressed as the four musketeers.
 
-### **FAKT**: Odpowiedź na krytykę historyczną
-Kiedy Dumasa oskarżano o "gwałcenie historii", odpowiedział: "Tak, ale spójrzcie, jakie piękne są dzieci".
+### **FACT**: Response to historical criticism
+When Dumas was accused of "raping history," he replied: "Yes, but look what beautiful children it has."
 
-### **FAKT**: Lektura szkolna w Polsce
-"Trzej muszkieterowie" jest obowiązkową lekturą w polskich szkołach podstawowych, szczególnie dla klas 4-6, używaną nie tylko do edukacji językowej, ale także historycznej i wychowawczej.
+### **FACT**: School reading in Poland
+"The Three Musketeers" is mandatory reading in Polish elementary schools, particularly for grades 4-6, used not only for language education but also historical and educational purposes.
 
-### **PLOTKA**: Recepcja Balzaca
-Według J. Lucas-Dubreton, Balzac nie mógł przestać czytać książki, gdy ją otrzymał, i chociaż szydzif z użycia historii przez Dumasa, przyznał, że Dumas był mistrzem opowiadania.
+### **RUMOR**: Balzac's reception
+According to J. Lucas-Dubreton, Balzac couldn't stop reading the book when he received it, and although he mocked Dumas's use of history, he admitted that Dumas was a master storyteller.
 
-### **FAKT**: Przewidywanie długowieczności
-W "Great Foreign Language Writers" Barnett Shaw napisał: "Za dwieście lat od teraz możecie być pewni, że w każdej danej chwili ktoś, w jakimś odległym miejscu, będzie czytał 'Trzech muszkieterów' lub 'Hrabiego Monte Cristo' w jednym z dziesiątek języków, na które Dumas został przetłumaczony".
+### **FACT**: Predicting longevity
+In "Great Foreign Language Writers," Barnett Shaw wrote: "Two hundred years from now you can be sure that at any given moment someone, in some distant place, will be reading 'The Three Musketeers' or 'The Count of Monte Cristo' in one of the dozens of languages into which Dumas has been translated."
 
-### **FAKT**: Nowe tłumaczenie polskie
-Janina i Krzysztof Błońscy stworzyli nowe polskie tłumaczenie "Trzech muszkieterów". Krzysztof Błoński marzył o stworzeniu nowego tłumaczenia powieści Dumasa przez bardzo długi czas, spędziwszy pięć lat we Francji jako małe dziecko i wchłonął francuską kulturę poprzez "immersję".
+### **FACT**: New Polish translation
+Janina and Krzysztof Błoński created a new Polish translation of "The Three Musketeers". Krzysztof Błoński had dreamed of creating a new translation of Dumas's novel for a very long time, having spent five years in France as a small child and absorbed French culture through "immersion".
 
-## 8. CIEKAWOSTKI I ANEGDOTY
+## 8. CURIOSITIES AND ANECDOTES
 
-### **FAKT**: Szybkość pisania
-W ciągu jednego roku, 1844, napisał "Trzech muszkieterów", ich kontynuacje "Dwadzieścia lat później", "Hrabię de Bragelonne" oraz "Hrabiego Monte Cristo", pokazując swoją niezwykłą produktywność w tym okresie.
+### **FACT**: Writing speed
+In one year, 1844, he wrote "The Three Musketeers," their continuations "Twenty Years After," "The Count of Bragelonne," and "The Count of Monte Cristo," showing his extraordinary productivity during this period.
 
-### **PLOTKA**: "Wszystkie Francja była pod urokiem"
-Henri d'Almeras napisał, że podczas publikacji serialu "cała Francja była pod urokiem muszkieterów" - choć może to być poetyckie przesadzenie, świadczy o kulturowym wpływie powieści.
+### **RUMOR**: "All France was under the spell"
+Henri d'Almeras wrote that during the serial publication "all France was under the spell of the musketeers" - though this may be poetic exaggeration, it testifies to the novel's cultural impact.
 
-### **FAKT**: Rewolucyjne połączenie gatunków
-Genialną koncepcją Dumasa było połączenie powieści historycznej i romansu w jedną opowieść, co zrewolucjonizowało powieść historyczną.
+### **FACT**: Revolutionary genre combination
+Dumas's brilliant concept was combining the historical novel and romance into one story, which revolutionized the historical novel.
 
-### **FAKT**: Cenzura w angielskich tłumaczeniach
-William Barrow w swoim tłumaczeniu z 1846 roku usunął prawie wszystkie odniesienia Dumasa do seksualności i ludzkiego ciała, czyniąc niektóre sceny "dziwnie niejasne".
+### **FACT**: Censorship in English translations
+William Barrow in his 1846 translation removed almost all of Dumas's references to sexuality and the human body, making some scenes "strangely unclear."
 
-### **FAKT**: Międzynarodowe adaptacje filmowe
-Kraje, które stworzyły adaptacje "Trzech muszkieterów" to między innymi Czechosłowacja, Niemcy, Korea Południowa, Urugwaj, a także adaptacja anime z 1981 roku "Dogtanian and the Three Muskehounds" - hiszpańsko-japońska produkcja z antropomorficznymi psami.
+### **FACT**: International film adaptations
+Countries that have created adaptations of "The Three Musketeers" include Czechoslovakia, Germany, South Korea, Uruguay, as well as the 1981 anime adaptation "Dogtanian and the Three Muskehounds" - a Spanish-Japanese production with anthropomorphic dogs.
+
+### **FACT**: Writing technique innovation
+Dumas pioneered the technique of ending each chapter with a cliffhanger, which became standard in serial publications and modern television series.
+
+### **FACT**: Record-breaking serialization success
+The serialization increased Le Siècle's circulation from 40,000 to over 70,000 copies during the publication period, making it one of the most successful literary marketing campaigns of the 19th century.
+
+### **FACT**: International copyright issues
+The novel was immediately pirated across Europe and America due to lack of international copyright laws, making Dumas one of the most widely read but least financially compensated authors of his time.
+
+### **FACT**: Influence on adventure literature
+"The Three Musketeers" established many tropes that became standard in adventure literature: the group of loyal friends, the sword-fighting hero, the evil cardinal, and the femme fatale.
+
+### **FACT**: Academic recognition delay
+Despite its popular success, the novel wasn't considered "serious literature" by French academics until the mid-20th century, over 100 years after its publication.
 
 ---
 
-**Podsumowanie:** Historia powstania "Trzech muszkieterów" to fascynująca mieszanka prawdziwych postaci historycznych, współpracy literackiej, błyskotliwego marketingu, osobistych dramatów autora i natychmiastowego sukcesu kulturowego. Powieść napisana w zaledwie kilka miesięcy w 1844 roku przez Alexandre'a Dumasa we współpracy z Auguste Maquetem stała się jednym z najczęściej czytanych dzieł literatury światowej, inspirując setki adaptacji i tłumaczeń na prawie 100 języków.
+**Summary:** The creation history of "The Three Musketeers" is a fascinating mixture of real historical figures, literary collaboration, brilliant marketing, the author's personal dramas, and immediate cultural success. The novel written in just a few months in 1844 by Alexandre Dumas in collaboration with Auguste Maquet became one of the most widely read works of world literature, inspiring hundreds of adaptations and translations into nearly 100 languages.

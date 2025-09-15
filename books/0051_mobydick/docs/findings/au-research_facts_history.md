@@ -1,139 +1,145 @@
-# Herman Melville i "Moby Dick": Fakty, Historia i Tajemnice Powstania Arcydzieła
+# Herman Melville and "Moby-Dick": Facts, History and Secrets of a Literary Masterpiece's Creation
 
-## 1. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## 1. CIRCUMSTANCES OF BOOK CREATION
 
-**FAKT**: Herman Melville rozpoczął pisanie książki pod tytułem "The Whale" na początku 1850 roku, ale po spotkaniu z Nathanielem Hawthorne'em latem tego samego roku całkowicie przekształcił prostą opowieść o wielorybniku w metafizyczną epicką sagę.
+**FACT**: Herman Melville began writing the book under the title "The Whale" in early 1850, but after meeting Nathaniel Hawthorne in summer 1850, he completely transformed the simple whaling tale into a metaphysical epic saga.
 
-**FAKT**: Książka była pisana przez 18 miesięcy (1850-1851) w gospodarstwie Arrowhead w Pittsfield, Massachusetts, które Melville kupił za 3000 dolarów od teścia we wrześniu 1850 roku.
+**FACT**: The book was written over 18 months (1850-1851) at the Arrowhead farm in Pittsfield, Massachusetts, which Melville bought for $3,000 borrowed from his father-in-law in September 1850.
 
-**FAKT**: Melville pisał przez 6-8 godzin dziennie. Jego rutyna: wstawał o 8:00, karmi konia i krowę, śniadanie, a następnie praca w pokoju od rana do 14:30.
+**FACT**: Melville wrote for 6-8 hours daily. His routine: rise at 8:00 AM, feed the horse and cow, have breakfast, then work in his room from morning until 2:30 PM when a prearranged knock would call him to dinner.
 
-**FAKT**: Żona i siostry Melville'a przepisywały na czysto strony manuskryptu - rękopis oryginalny nie zachował się do dziś.
+**FACT**: Melville's wife Elizabeth and sisters transcribed clean copies of the manuscript pages - the original handwritten manuscript has not survived to this day.
 
-**FAKT**: Z okna swojego gabinetu Melville widział górę Greylock, której kształt przypominał mu grzbiet wieloryba - ta sylwetka inspirowała go podczas pisania.
+**FACT**: From his writing room window, Melville could see Mount Greylock, whose shape reminded him of a whale's back - this silhouette inspired him daily during writing.
 
-**PLOTKA**: Melville miał opisywać swój pokój do pisania jako "kajutę statku na Atlantyku" - patrzył przez okno jak przez bulaj.
+**FACT**: Melville described his writing room as feeling like "a ship's cabin on the Atlantic" - he looked out his window "as I would out of a port-hole of a ship."
 
-## 2. INSPIRACJE AUTORA
+## 2. AUTHOR'S INSPIRATIONS
 
-**FAKT**: Główną inspiracją była tragedia wielorybniczego statku Essex z listopada 1820 roku - 80-tonowy kaszalot zaatakował i zatopił statek 2000 mil od wybrzeży Ameryki Południowej.
+**FACT**: The main inspiration was the Essex whaling ship tragedy of November 20, 1820 - an 85-foot sperm whale attacked and sank the ship 2,000 miles off the South American coast.
 
-**FAKT**: Z 20-21 wielorybników z Essex przeżyło tylko 8 - reszta zginęła w wyniku głodu, chorób i kanibalizmu podczas 83-dniowej agonii na tratwalach.
+**FACT**: Of the 20-21 whalemen from the Essex, only 8 survived - the rest died from starvation, dehydration, and cannibalism during an 83-day ordeal on lifeboats.
 
-**FAKT**: Melville osobiście spotkał George'a Pollarda, kapitana Essex, gdy ten był już złamanym 60-letnim mężczyzną. To spotkanie miało miejsce w ostatni dzień pobytu Melville'a na Nantucket.
+**FACT**: Melville personally met George Pollard Jr., the Essex captain, when Pollard was a broken 60-year-old man. This meeting occurred on Melville's last day on Nantucket, and they merely "exchanged some words."
 
-**FAKT**: Drugim wielorybem-inspiracją był albinos Mocha Dick, słynny z tego, że był nie do złapania. Melville dowiedział się o nim z artykułu Jeremiaha N. Reyndolsa z 1839 roku "Mocha Dick: Or, the White Whale of the Pacific".
+**FACT**: The second whale inspiration was the albino "Mocha Dick," famous for being uncatchable. Melville learned about him from Jeremiah N. Reynolds' 1839 article "Mocha Dick: Or, the White Whale of the Pacific."
 
-**FAKT**: Melville służył na statkach wielorybniczych w latach 1841-1844, co dało mu autentyczne doświadczenie życia na morzu i polowań na wieloryby.
+**FACT**: Melville served on whaling ships from 1841-1844, giving him authentic experience of life at sea and whale hunting that informed every detail of the novel.
 
-**FAKT**: Owen Chase, pierwszy oficer z Essex, napisał relację "Narrative of the Most Extraordinary and Distressing Shipwreck of the Whale-Ship Essex", którą Melville studiował i robił w niej notatki.
+**FACT**: Owen Chase, first mate of the Essex, wrote "Narrative of the Most Extraordinary and Distressing Shipwreck of the Whale-Ship Essex," which Melville studied intensively and annotated.
 
-## 3. PROCES TWÓRCZY I PRZESZKODY
+## 3. CREATIVE PROCESS AND OBSTACLES
 
-**FAKT**: W czerwcu 1850 Melville obiecał brytyjskiemu wydawcy Richardowi Bentleyowi, że książka będzie gotowa "pod koniec nadchodzącej jesieni", ale proces pisania trwał rok dłużej niż planował.
+**FACT**: In June 1850, Melville promised British publisher Richard Bentley the book would be ready "by the end of the coming autumn," but the writing process took a full year longer than planned.
 
-**FAKT**: W kwietniu 1851 roku wydawnictwo Harper odmówiło Melville'owi zaliczki na Moby Dicka, co postawiło go w trudnej sytuacji finansowej.
+**FACT**: In April 1851, Harper & Brothers refused Melville an advance for Moby-Dick, putting him in severe financial distress.
 
-**FAKT**: Melville był zadłużony u Harpersa za wcześniejsze dzieła i musiał pożyczyć 3000 dolarów od teścia na zakup farmy.
+**FACT**: Melville was already in debt to Harper's for previous works and had to borrow $3,000 from his father-in-law to purchase the farm.
 
-**FAKT**: W trakcie pisania, 22 października 1851 roku, urodził się drugi syn Melville'a - Stanwix.
+**FACT**: During writing, on October 22, 1851, Melville's second son Stanwix was born, adding family pressure during the final push to complete the manuscript.
 
-**FAKT**: Hawthorne zachęcił Melville'a do przekształcenia szczegółowej opowieści o wielorybnictwie w alegoryczną powieść, co całkowicie zmieniło charakter dzieła.
+**FACT**: Hawthorne encouraged Melville to transform his detailed whaling story into an allegorical novel, completely changing the work's character from adventure tale to philosophical epic.
 
-**PLOTKA**: Melville i Hawthorne rozmawiali całymi nocami, a Hawthorne'owie przyjeżdżali powozem z Lenox nawet w głębi zimy, by zjeść kolację z Melville'ami.
+**FACT**: At the end of May 1851, Melville delivered the bulk of his manuscript to Harper's for typesetting and printing of proof sheets, but continued writing additional chapters through the summer.
 
-## 4. PIERWSZE REAKCJE I PUBLIKACJA
+## 4. FIRST REACTIONS AND PUBLICATION
 
-**FAKT**: Książka została opublikowana najpierw w Londynie 18 października 1851 jako "The Whale" przez Richarda Bentleya (500 egzemplarzy w trzech tomach), a następnie w Stanach 14 listopada 1851 jako "Moby-Dick" przez Harper & Brothers (2915 egzemplarzy).
+**FACT**: The book was published first in London on October 18, 1851 as "The Whale" by Richard Bentley (500 copies in three volumes), then in America on November 14, 1851 as "Moby-Dick" by Harper & Brothers (2,915 copies).
 
-**FAKT**: Brytyjska edycja była o około 2000 słów krótsza od amerykańskiej - zawierała ponad 600 różnic substancjalnych, gdyż była cenzurowana pod kątem wrażliwości brytyjskich czytelników.
+**FACT**: The British edition was about 2,000 words shorter than the American version - it contained over 600 substantial differences due to censorship for British sensibilities.
 
-**FAKT**: Bentley usunął z wydania epilog, w którym dowiadujemy się, że Ishmael przeżył katastrofę Pequoda - to dlatego brytyjscy czytelnicy nie wiedzieli, kto opowiada historię.
+**FACT**: Bentley removed the epilogue from the British edition, which revealed that Ishmael survived the Pequod's destruction - British readers had no idea who was telling the story.
 
-**FAKT**: Pierwsza amerykańska edycja kosztowała 1,50 dolara w 1851 roku.
+**FACT**: The first American edition cost $1.50 in 1851 (equivalent to about $50 today).
 
-**FAKT**: W pierwszych 11 dniach sprzedano 1500 egzemplarzy, ale następnie sprzedaż spadła do mniej niż 300 w całym następnym roku.
+**FACT**: In the first 11 days, 1,500 copies sold, but sales then plummeted to fewer than 300 copies in the entire following year.
 
-**FAKT**: Recenzje były mieszane - około 60 recenzji ukazało się w Ameryce, ale odpowiedzi były zdecydowanie podzielone.
+**FACT**: Reviews were mixed - approximately 60 reviews appeared in America, with responses decidedly divided between praise and confusion.
 
-## 5. KATASTROFA KOMERCYJNA I STATYSTYKI
+## 5. COMMERCIAL CATASTROPHE AND STATISTICS
 
-**FAKT**: Za życia Melville'a sprzedano jedynie 3715 egzemplarzy (3215 w USA + 500 w UK), co przyniosło autorowi łącznie 1259,45 dolara.
+**FACT**: During Melville's lifetime, only 3,715 copies sold (3,215 in USA + 500 in UK), earning the author a total of just $556.37 in royalties.
 
-**FAKT**: Po dwóch latach pierwszego wydania nadal były dostępne egzemplarze, a prawie 300 zniszczył pożar magazynu Harpera w 1853 roku.
+**FACT**: After two years of the first edition, copies were still available, and nearly 300 were destroyed in Harper's warehouse fire in 1853.
 
-**FAKT**: Drugie wydanie (250 egzemplarzy) ukazało się dopiero w 1855, trzecie (253 egzemplarze) w 1863, czwarte (277 egzemplarzy) w 1871.
+**FACT**: The second edition (250 copies) wasn't published until 1855, the third (253 copies) in 1863, the fourth (277 copies) in 1871.
 
-**FAKT**: Książka była wyczerpana w momencie śmierci Melville'a w 1891 roku.
+**FACT**: The book was out of print when Melville died in 1891.
 
-**FAKT**: Gdy Melville zmarł, jego śmierć odnotowała tylko jedna lokalna gazeta, nazywając go "dawno zapomnianym" autorem.
+**FACT**: When Melville died, only one local newspaper noted his death, calling him a "long forgotten" author.
 
-**FAKT**: New York Times w nekrologu błędnie napisał tytuł jako "Mobie Dick" zamiast "Moby Dick".
+**FACT**: The New York Times obituary misspelled the title as "Mobie Dick" instead of "Moby-Dick."
 
-## 6. BIOGRAFIA AUTORA W KONTEKŚCIE KSIĄŻKI
+## 6. AUTHOR'S BIOGRAPHY IN BOOK CONTEXT
 
-**FAKT**: Melville miał 30 lat, gdy pisał Moby Dicka. Musiał wspierać owdowiałą matkę, siostry i swoją rodzinę.
+**FACT**: Melville was 30 years old when writing Moby-Dick and had to support his widowed mother, sisters, and his own growing family.
 
-**FAKT**: Jego ojciec zmarł w bankructwie, gdy Melville był nastolatkiem, co wpłynęło na jego obsesję na punkcie problemów finansowych.
+**FACT**: His father died bankrupt when Melville was a teenager, which influenced his lifelong obsession with financial problems.
 
-**FAKT**: W 1851 roku Melville mieszkał na farmie z matką, siostrą, synem Malcolmem i ciężarną żoną - drugi syn Stanwix urodził się w październiku 1851.
+**FACT**: In 1851, Melville lived on the farm with his mother, sister, son Malcolm, and pregnant wife Elizabeth - son Stanwix was born in October 1851.
 
-**FAKT**: Po Moby Dicku napisał "Pierre" (1852), ale negatywne recenzje i słaba sprzedaż kosztowały go znaczną część oszczędności.
+**FACT**: After Moby-Dick, he wrote "Pierre" (1852), but negative reviews and poor sales cost him much of his remaining savings.
 
-**FAKT**: Po fiaskach literackich przez ostatnie 19 lat życia pracował jako celnik w Nowym Jorku, zarabiając 4 dolary dziennie.
+**FACT**: After his literary failures, for the last 19 years of his life he worked as a customs inspector in New York, earning $4 per day.
 
-## 7. ANEGDOTY I CIEKAWOSTKI Z PROCESU PISANIA
+## 7. ANECDOTES AND CURIOSITIES FROM WRITING PROCESS
 
-**FAKT**: Najkrótszy rozdział w Moby Dicku (122) ma tylko 36 słów w jednym akapicie.
+**FACT**: The shortest chapter in Moby-Dick (Chapter 122) contains only 36 words in a single paragraph.
 
-**FAKT**: Słynne pierwsze zdanie "Call me Ishmael" ("Zowcie mnie Ismael") należy do najbardziej znanych początków w literaturze światowej.
+**FACT**: The famous opening line "Call me Ishmael" is among the most recognized beginnings in world literature.
 
-**ANEGDOTA**: Hawthorne zapisał uroczą anegdotę o 32. urodzinach Melville'a - podczas czytania w Love Grove "kawaler na koniu przejechał drogą i pozdrowił mnie po hiszpańsku" - okazało się, że to Herman Melville składający niespodziankową wizytę.
+**FACT**: Hawthorne recorded a charming anecdote about Melville's 32nd birthday - while reading at Love Grove, "a cavalier on horseback came along the road and saluted me in Spanish" - it turned out to be Herman Melville making a surprise visit.
 
-**FAKT**: Intensywna przyjaźń Melville'a i Hawthorne'a trwała prawie dwa lata, ale zakończyła się nagle, gdy Hawthorne przeprowadził się z Lenox, mówiąc, że "serdecznie nie lubiał Lenox".
+**FACT**: The intense friendship between Melville and Hawthorne lasted nearly two years but ended abruptly when Hawthorne moved from Lenox, saying he "heartily disliked Lenox."
 
-**PLOTKA**: Żadne listy Hawthorne'a do Melville'a nie przetrwały, co rodzi pytania, dlaczego Melville mógł je zniszczyć.
+**FACT**: None of Hawthorne's letters to Melville survived, raising questions about why Melville might have destroyed them.
 
-**FAKT**: Melville napisał do Hawthorne'a pasjonatywnie: "Znanie ciebie przekonuje mnie bardziej niż Biblia o naszej nieśmiertelności".
+**FACT**: Melville wrote passionately to Hawthorne: "Knowing you persuades me more than the Bible of our immortality."
 
-## 8. UKRYTE FAKTY I EASTER EGGI
+## 8. HIDDEN FACTS AND EASTER EGGS
 
-**FAKT**: Książka była zadedykowana Hawthorne'owi "w dowód podziwu dla jego geniuszu".
+**FACT**: The book was dedicated to Hawthorne "in token of my admiration for his genius."
 
-**FAKT**: Pierwsza filmowa adaptacja miała miejsce w 1926 roku jako niemy film "The Sea Beast" z Johnem Barrymore'em, gdzie Ahab zabija wieloryba i wraca, by poślubić narzeczoną.
+**FACT**: The first film adaptation was in 1926 as the silent film "The Sea Beast" starring John Barrymore, where Ahab kills the whale and returns to marry his sweetheart.
 
-**FAKT**: Licencja poetycka: w pierwotnej wersji amerykańskiej znajdowały się spekulacje na temat użycia oleju wielorybiego w angielskich ceremoniach koronacyjnych (rozdział 25), co Bentley całkowicie usunął z brytyjskiego wydania.
+**FACT**: The original American version contained speculation about whale oil use in English coronation ceremonies (Chapter 25), which Bentley completely removed from the British edition.
 
-**FAKT**: Led Zeppelin nagrał piosenkę "Moby Dick" z długim solowym występem perkusisty Johna Bonhama.
+**FACT**: Led Zeppelin recorded the song "Moby Dick" featuring a legendary drum solo by John Bonham.
 
-**FAKT**: Jackson Pollock namalował dwa obrazy o tematyce związanej z powieścią.
+**FACT**: Jackson Pollock painted two works with Moby-Dick themes.
 
-**FAKT**: Frank Stella stworzył serię 138 prac (1985-1997), z których każda ma tytuł zaczerpnięty z rozdziału Moby Dicka.
+**FACT**: Frank Stella created a series of 138 works (1985-1997), each titled after a chapter from Moby-Dick.
 
-## 9. RENESANS I UZNANIE POSTHUMICZNE
+## 9. RENAISSANCE AND POSTHUMOUS RECOGNITION
 
-**FAKT**: Reputacja jako "Wielkiej Amerykańskiej Powieści" została ustanowiona dopiero w XX wieku, po setnej rocznicy urodzin autora w 1919 roku.
+**FACT**: The reputation as "The Great American Novel" was established only in the 20th century, after the centennial of the author's birth in 1919.
 
-**FAKT**: Ponowne odkrycie nastąpiło w latach 20. XX wieku dzięki biografowi Raymondowi M. Weaverowi, krytykowi Carlowi Van Dorenowi i pisarzowi D.H. Lawrence'owi.
+**FACT**: Rediscovery came in the 1920s thanks to biographer Raymond M. Weaver, critic Carl Van Doren, and writer D.H. Lawrence.
 
-**FAKT**: William Faulkner powiedział, że chciałby sam napisać tę książkę, a D.H. Lawrence nazwał ją "jedną z najdziwniejszych i najwspanialszych książek na świecie".
+**FACT**: William Faulkner said he wished he had written the book himself, and D.H. Lawrence called it "one of the strangest and most wonderful books in the world."
 
-**FAKT**: Powieść stała się "niekwestionowaną klasyką" literatury amerykańskiej, głównie dzięki włączeniu do programów nauczania na uniwersytetach w USA.
+**FACT**: The novel became an "unquestioned classic" of American literature mainly through inclusion in university curricula across the USA.
 
-## 10. REKORDY I STATYSTYKI WSPÓŁCZESNE
+## 10. MODERN RECORDS AND STATISTICS
 
-**FAKT**: Do 1930 roku powstało 18 różnych filmowych wersji Moby Dicka, a książka jest przywoływana w 68 innych filmach.
+**FACT**: By 1930, 18 different film versions of Moby-Dick had been made, and the book is referenced in 68 other films.
 
-**FAKT**: Najbardziej znaną adaptacją jest film Johna Hustona z 1956 roku na podstawie scenariusza Raya Bradbury'ego.
+**FACT**: The most famous adaptation is John Huston's 1956 film based on a screenplay by Ray Bradbury.
 
-**FAKT**: W 2013 roku wydano "Emoji Dick" - całą powieść "przetłumaczoną" na emotikony.
+**FACT**: In 2013, "Emoji Dick" was published - the entire novel "translated" into emoticons using Amazon's Mechanical Turk platform.
 
-**FAKT**: Kompozytor Jake Heggie stworzył operę "Moby-Dick", która miała premierę 30 kwietnia 2010 roku w Dallas Opera.
+**FACT**: Composer Jake Heggie created the opera "Moby-Dick," which premiered April 30, 2010 at Dallas Opera.
 
-**FAKT**: Dave Malloy stworzył adaptację musicalową "Moby-Dick" z premierą w 2019 roku.
+**FACT**: Dave Malloy created the musical adaptation "Moby-Dick" with its premiere in 2019.
 
-**FAKT**: Powieść została przełożona na dziesiątki języków i sprzedana w milionach egzemplarzy na całym świecie - droga od 3715 egzemplarzy za życia autora do statusu bestsellera światowego.
+**FACT**: The novel has been translated into dozens of languages and sold millions of copies worldwide - a journey from 3,715 copies during the author's lifetime to global bestseller status.
+
+**FACT**: The meeting between Melville and Hawthorne took place on August 5, 1850, during a picnic on Monument Mountain when a thunderstorm forced them to seek refuge in a cave, sparking their legendary friendship.
+
+**FACT**: Melville owed Harper & Brothers almost $700 before Moby-Dick's publication and was forced to arrange for typesetting and printing himself.
+
+**FACT**: The original manuscript was delivered to the printer Robert Craighead in Manhattan while Melville continued to write additional chapters and essays through the summer of 1851.
 
 ---
 
-*Opracowanie na podstawie badań historycznych i źródeł archiwalnych. Fakty oznaczone jako "FAKT" są potwierdzone przez wiarygodne źródła historyczne, "PLOTKA" oznacza informacje niepotwierdzone lub anegdotyczne, "ANEGDOTA" to potwierdzone opowieści ze źródeł pierwszoręcznych.*
+*Research based on historical studies and archival sources. Facts marked as "FACT" are confirmed by reliable historical sources.*

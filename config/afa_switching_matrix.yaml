@@ -1,0 +1,13 @@
+# Recommended alternative formats for switching offers
+# Used by generate_switch_manifest.py to propose two sensible options at switch points
+
+alternatives:
+  academic_analysis: [exploratory_dialogue, emotional_perspective]
+  critical_debate: [social_perspective, cultural_dimension]
+  temporal_context: [cultural_dimension, academic_analysis]
+  cultural_dimension: [social_perspective, temporal_context]
+  social_perspective: [critical_debate, emotional_perspective]
+  emotional_perspective: [exploratory_dialogue, social_perspective]
+  exploratory_dialogue: [narrative_reconstruction, cultural_dimension]
+  narrative_reconstruction: [exploratory_dialogue, academic_analysis]
+

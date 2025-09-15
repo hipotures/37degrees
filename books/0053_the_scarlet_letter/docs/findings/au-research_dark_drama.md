@@ -1,181 +1,181 @@
-# MROCZNE TAJEMNICE I SKANDALE: The Scarlet Letter & Nathaniel Hawthorne
+# DARK SECRETS & SCANDALS: The Scarlet Letter & Nathaniel Hawthorne
 
-## CONSPIRACY THEORIES I DARK INTERPRETATIONS
+## CONSPIRACY THEORIES & DARK INTERPRETATIONS
 
-### Rodzinne przekleństwa i occult connections
+### Family Curses and Occult Connections
 
-**FAKT**: Nathaniel Hawthorne był prawnukiem Johna Hathorne'a, głównego sędziego procesów czarownic w Salem w 1692 roku, który przesłuchiwał ponad 100 oskarżonych kobiet i uznał wszystkie za winne czarów.
+**FACT**: Nathaniel Hawthorne was the great-great-grandson of John Hathorne, a leading judge in the Salem witch trials of 1692, who presided over more than 100 accused women and found them all guilty of witchcraft.
 
-**FAKT**: John Hathorne nadzorował co najmniej 20 egzekucji poprzez powieszenie rzekomych czarownic.
+**FACT**: John Hathorne oversaw at least 20 executions by hanging of alleged witches and never expressed regret for his role, unlike some fellow judges.
 
-**ZARZUT**: Według legendy, jedna z "czarownic" przed śmiercią rzuciła klątwę na pułkownika Johna Hathorne'a i jego rodzinę.
+**ACCUSATION**: According to legend, one of the "witches" before her death cursed Colonel John Hathorne and his family.
 
-**FAKT**: Hawthorne wierzył, że jego rodzina została przeklęta - rodzina Hathorne była bogata w XVII wieku, ale kolejne pokolenia traciły ziemię i pieniądze, aż zostało im prawie nic.
+**FACT**: Hawthorne believed his family was cursed - the Hathorne family was wealthy in the 17th century, but successive generations lost land and money until they had almost nothing left.
 
-**FAKT**: Hawthorne prawdopodobnie dodał literę "W" do swojego nazwiska w wieku około dwudziestu lat, aby odciąć się od swoich niesławnych przodków.
+**FACT**: Hawthorne likely added the letter "W" to his surname around age twenty to distance himself from his infamous ancestors.
 
-**FAKT**: Pradziad Hawthorne'a, William Hathorne, próbował wygnać kwakrów z miasta przez biczowanie i przeciąganie ich przez ulice w pół nagich.
+**FACT**: Hawthorne's great-great-grandfather, William Hathorne, tried to drive Quakers from town by whipping and dragging them half-naked through the streets.
 
-### Incest theories i family secrets
+### Incest Theories and Family Secrets
 
-**ZARZUT**: Philip Young w kontrowersyjnej książce "Hawthorne's Secret" twierdził, że "coś się stało" między młodym Nathanielem a jego starszą, błyskotliwą siostrą Elizabeth, co miało być co najmniej kazirodcze.
+**ACCUSATION**: Philip Young in the controversial book "Hawthorne's Secret" claimed that "something happened" between young Nathaniel and his older, brilliant sister Elizabeth that was at least incestuous.
 
-**PLOTKA**: Young argumentował, że mogłoby to tłumaczyć "obsesję na punkcie winy, grzechu i niewybaczalnych zbrodni, 'gorszych niż morderstwo', które zaśmiecają jego fikcje".
+**RUMOR**: Young argued this could explain the "obsession with guilt, sin, and unforgivable crimes, 'worse than murder,' that litter his fictions."
 
-**FAKT**: Przodek Hawthorne'a, Nicholas Manning, był oskarżony o kazirodztwo z jedną niezamężną i jedną zamężną siostrą.
+**FACT**: Hawthorne's ancestor, Nicholas Manning, was accused of incest with one unmarried and one married sister.
 
-**ZARZUT**: Uczeni połączyli proces kazirodczy rodziny Manning z "prawdopodobnym związkiem z publicznym zawstydzeniem Hester Prynne za wykroczenie seksualne" w Szkarłatnej Literze.
+**ACCUSATION**: Scholars have connected the Manning family incest trial with "the probable connection to the public shaming of Hester Prynne for sexual transgression" in The Scarlet Letter.
 
-**PLOTKA**: James Mellow spekulował o "wczesnym homoseksualnym napaście przez Manninga" jako źródle "głębokiej tajemnicy grzechu" pisarza.
+**RUMOR**: James Mellow speculated about "early homosexual assault by Manning" as the source of the writer's "deep mystery of sin."
 
-### Psychological interpretations
+### Psychological Interpretations
 
-**ZARZUT**: Niektórzy biografowie identyfikowali "obsesję na punkcie groźnych figur ojcowskich w wczesnych opowiadaniach Hawthorne'a".
+**ACCUSATION**: Some biographers have identified an "obsession with threatening father figures in Hawthorne's early stories."
 
-**PLOTKA**: Spekulacje o ukrytej wrogości wobec wuja Roberta Manninga, opiekuna Hawthorne'a.
+**RUMOR**: Speculation about hidden hostility toward Uncle Robert Manning, Hawthorne's guardian.
 
-**FAKT**: Hawthorne był znany z bycia niezwykle prywatnym - Ralph Waldo Emerson wspominał: "Powiedział tak mało, że ja mówiłem za dużo".
+**FACT**: Hawthorne was known for being extremely private - Ralph Waldo Emerson recalled: "He said so little that I talked too much."
 
-## SKANDALE AUTORA I CONTROVERSIES
+## AUTHOR SCANDALS & CONTROVERSIES
 
-### Brook Farm socialist experiment scandal
+### Brook Farm Socialist Experiment Scandal
 
-**FAKT**: Hawthorne dołączył do transcendentalistycznej społeczności utopijnej Brook Farm w 1841 roku, wpłacając depozyt w wysokości 1000 dolarów.
+**FACT**: Hawthorne joined the transcendentalist utopian community Brook Farm in 1841, investing a deposit of $1,000.
 
-**FAKT**: Został postawiony na czele oddziału odpowiedzialnego za przerzucanie kopca nawozu zwanego "Gold Mine" (Złota Kopalnia).
+**FACT**: He was put in charge of the crew responsible for shoveling a manure pile called the "Gold Mine."
 
-**FAKT**: Stracił swoją inwestycję, gdy farma upadła.
+**FACT**: He lost his investment when the farm failed financially after an uninsured building burned down.
 
-**ZARZUT**: W "The Blithedale Romance" (1852) Hawthorne satirycznie przedstawił swoją Brook Farm experience, odmawiając bezpośredniego połączenia między swoim życiem a wydarzeniami w powieści.
+**ACCUSATION**: In "The Blithedale Romance" (1852), Hawthorne satirically portrayed his Brook Farm experience, refusing to directly connect his life with the novel's events.
 
-### Custom House political corruption scandal
+### Custom House Political Corruption Scandal
 
-**FAKT**: Hawthorne przez swoje powiązania z Partią Demokratyczną zdobył polityczne mianowanie w 1846 roku na stanowisko surveyora Custom House w Salem, Massachusetts.
+**FACT**: Through his Democratic Party connections, Hawthorne secured a political appointment in 1846 as Custom House surveyor in Salem, Massachusetts.
 
-**ZARZUT**: Po inauguracji Zachary'ego Taylora w 1849 roku, członkowie partii Whig oskarżyli Hawthorne'a o "korupcję, nieprawość i oszustwo".
+**ACCUSATION**: After Zachary Taylor's 1849 inauguration, Whig Party members accused Hawthorne of "corruption, iniquity, and fraud."
 
-**FAKT**: Hawthorne "aktywnie manewrował dla swojego własnego mianowania, sugerując przyjaciołom w partii demokratycznej różne możliwości, przez które nadzieje rywali mogłyby zostać odwrócone".
+**FACT**: Hawthorne "actively maneuvered for his own appointment, suggesting to Democratic Party friends various possibilities by which rivals' hopes might be thwarted."
 
-**FAKT**: Zastąpił co najmniej dwóch podwładnych "zaprzyjaźnionymi z administracją" osobami.
+**FACT**: He replaced at least two subordinates with "administration-friendly" personnel.
 
-**ZARZUT**: Whigowie zarzucali, że "zbierał partyjne łapówki od swoich inspektorów i tolerował nierówności płacowe faworyzujące pracowników swojej własnej partii".
+**ACCUSATION**: Whigs alleged he "collected partisan bribes from his inspectors and tolerated pay inequities favoring workers of his own party."
 
-**FAKT**: Hawthorne napisał list protestu do Boston Daily Advertiser, który był atakowany przez Whigów i wspierany przez Demokratów, czyniąc zwolnienie Hawthorne'a bardzo dyskutowanym wydarzeniem w Nowej Anglii.
+**FACT**: Hawthorne wrote a protest letter to the Boston Daily Advertiser, which was attacked by Whigs and supported by Democrats, making Hawthorne's dismissal a much-discussed event in New England.
 
-## LITERARY FEUDS I RIVALRIES
+## LITERARY FEUDS & RIVALRIES
 
-### Edgar Allan Poe relationship
+### Edgar Allan Poe Relationship
 
-**FAKT**: Poe i Hawthorne nigdy się nie spotkali, ale znali swoją twórczość.
+**FACT**: Poe and Hawthorne never met but knew each other's work.
 
-**FAKT**: W 1842 roku Poe napisał entuzjastyczną dwuczęściową recenzję "Twice-Told Tales", chwaląc oryginalność Hawthorne'a jako "niezwykłą".
+**FACT**: In 1842, Poe wrote an enthusiastic two-part review of "Twice-Told Tales," praising Hawthorne's originality as "remarkable."
 
-**ZARZUT**: Poe zauważył w "Howe's Masquerade" "coś, co przypomina plagiat - ale co może być bardzo schlebiającym zbiegiem myśli".
+**ACCUSATION**: Poe noted in "Howe's Masquerade" "something which resembles plagiarism - but which may be a very flattering coincidence of thought."
 
-**FAKT**: Do 1847 roku opinia Poe stała się bardziej krytyczna, opisując Hawthorne'a jako "biednego człowieka", który mimo bycia geniuszem, nie mógł być znany z powodu swojego ubóstwa.
+**FACT**: By 1847, Poe's opinion became more critical, describing Hawthorne as "a poor man" who despite being a genius couldn't be known because of his poverty.
 
-**ZARZUT**: Poe skrytykował Hawthorne'a za kojarzenie się z nowoanglielskimi literatami i transcendentalistami z Concord.
+**ACCUSATION**: Poe criticized Hawthorne for associating with New England literati and Concord transcendentalists.
 
-### Reputation as difficult critic
+### Reputation as Difficult Critic
 
-**FAKT**: Poe miał reputację trudnego krytyka i "był jak literacki pirat, nie oszczędzający ani przyjaciela, ani wroga, zawsze oskarżając innych o kradzież".
+**FACT**: Poe had a reputation as a difficult critic and "was like a literary pirate, sparing neither friend nor foe, always accusing others of theft."
 
-**FAKT**: Poe miał "monomania na temat plagiaryzmu".
+**FACT**: Poe had a "monomania about plagiarism."
 
-## CENSORSHIP HISTORY I MORAL PANIC
+## CENSORSHIP HISTORY & MORAL PANIC
 
-### Religious and moral objections
+### Religious and Moral Objections
 
-**FAKT**: W 1852 roku Reverend Arthur Cleveland Coxe, drugi biskup episkopalny Zachodnim Nowym Jorku, wezwał do zakazu "The Scarlet Letter".
+**FACT**: In 1852, Reverend Arthur Cleveland Coxe, second Episcopal bishop of Western New York, called for a ban on "The Scarlet Letter."
 
-**FAKT**: Coxe ogłosił, że był przeciwko "jakiejkolwiek tolerancji dla popularnego i utalentowanego pisarza, gdy utrwala złą moralność".
+**FACT**: Coxe declared he was against "any toleration for a popular and gifted writer when he perpetuates bad morals."
 
-**FAKT**: Największy zakaz dotyczący książki miał miejsce w 1852 roku podczas panowania cara Mikołaja I w Rosji podczas "terroru cenzorskiego".
+**FACT**: The book's biggest ban occurred in 1852 during Czar Nicholas I's reign in Russia during the "censorship terror."
 
-**ZARZUT**: Cenzura została wydana po tym, jak jego doradcy polityczni zauważyli wpływ literatury na politykę po rewolucji w Paryżu.
+**ACCUSATION**: The censorship was issued after his political advisors noticed literature's influence on politics following the Paris revolution.
 
-### Pornographic and obscene accusations
+### Pornographic and Obscene Accusations
 
-**ZARZUT**: Ludzie próbowali zakazać powieści z powodów moralnych, a także dlatego, że uważali ją za pornograficzną i nawet obsceniczny.
+**ACCUSATION**: People tried to ban the novel for moral reasons and also because they considered it pornographic and even obscene.
 
-**ZARZUT**: Dzienniki religijne i duchowni potępiali książkę jako "brudną historię" i sugerowali, że książka powinna znajdować się tylko w "Bibliotece Burdelu".
+**ACCUSATION**: Religious journals and clergymen condemned the book as a "dirty story" and suggested the book should only be found in a "Brothel Library."
 
-**FAKT**: Jeszcze w 1961 i 1977 roku rodzice próbowali usunąć tę książkę z programu nauczania swoich dzieci, ponieważ uważali ją za obraźliwą.
+**FACT**: As late as 1961 and 1977, parents tried to remove this book from their children's curriculum because they found it offensive.
 
-### Feminist controversy
+### Feminist Controversy
 
-**ZARZUT**: Reverend Arthur Cleveland Coxe wyrażał obawę, że książka Hawthorne'a zachęcała do przesłania zbyt bliskiego poglądom wyrażonym na pierwszej Narodowej Konwencji Praw Kobiet.
+**ACCUSATION**: Reverend Arthur Cleveland Coxe expressed concern that Hawthorne's book encouraged a message too close to views expressed at the first National Women's Rights Convention.
 
-**FAKT**: Współcześni czytelnicy widzą opresyjny patriarchat, podczas gdy niektórzy XIX-wieczni krytycy znajdowali to, co my nazywamy feminizmem.
+**FACT**: Contemporary readers see oppressive patriarchy, while some 19th-century critics found what we call feminism.
 
-## PROPHECY CHECK: CO SIĘ SPRAWDZIŁO
+## PROPHECY CHECK: WHAT CAME TRUE
 
-### Social media shaming predictions
+### Social Media Shaming Predictions
 
-**FAKT**: "The Scarlet Letter" jest nazywana proroczo przewidującą współczesną cancel culture i public shaming w mediach społecznościowych.
+**FACT**: "The Scarlet Letter" is called prophetically predictive of modern cancel culture and public shaming on social media.
 
-**FAKT**: Podobnie jak Hester Prynne była zmuszona nosić Szkarłatną Literę "A" dla publicznego upokorzenia, współczesna cancel culture obejmuje publiczne zawstydzanie i ostracyzm ludzi za ich poglądy lub działania.
+**FACT**: Just as Hester Prynne was forced to wear the Scarlet Letter "A" for public humiliation, modern cancel culture involves public shaming and ostracism of people for their views or actions.
 
-**FAKT**: W dzisiejszym społeczeństwie ludzie "stracili wszystko - pracę, pieniądze, przyjaciół, kolegów - po złamaniu żadnych praw, a czasem nawet żadnych zasad miejsca pracy", ale zamiast tego łamali kody społeczne.
+**FACT**: In today's society, people have "lost everything - jobs, money, friends, colleagues - after breaking no laws, and sometimes even no workplace rules," but instead breaking social codes.
 
-**FAKT**: Anne Applebaum ostrzega, że jeśli to będzie kontynuowane, "sztuki, humanistyka i media staną się sztywne, przewidywalne i przeciętne".
+**FACT**: Anne Applebaum warns that if this continues, "the arts, humanities, and media will become rigid, predictable, and mediocre."
 
-### Historical precedent for cancel culture
+### Historical Precedent for Cancel Culture
 
-**FAKT**: Alexis de Tocqueville zauważył nasiona cancel culture w 1835 roku po zwiedzeniu USA, obserwując, że Amerykanie, którzy sprzeciwiali się poglądom większości, znaleźliby swoje kariery polityczne zamknięte.
+**FACT**: Alexis de Tocqueville noted the seeds of cancel culture in 1835 after touring the US, observing that Americans who opposed majority views would find their political careers closed.
 
-**FAKT**: Współczesna cancel culture, podobnie jak szkarłatna litera, "często prowadzi do tych samych konsekwencji: utraty pracy, izolacji społecznej i depresji".
+**FACT**: Modern cancel culture, like the scarlet letter, "often leads to the same consequences: job loss, social isolation, and depression."
 
-## DARK INTERPRETATIONS KSIĄŻKI
+## DARK INTERPRETATIONS OF THE BOOK
 
-### Ambiguous symbolism
+### Ambiguous Symbolism
 
-**FAKT**: Znaczenie symboli w The Scarlet Letter zależy od kontekstu i czasami interpretatora - społeczność widzi szkarłatną A na niebie jako znak, że umierający gubernator Winthrop stał się aniołem; Dimmesdale jednak widzi to jako znak własnego sekretnego grzechu.
+**FACT**: The meaning of symbols in The Scarlet Letter depends on context and sometimes the interpreter - the community sees the scarlet A in the sky as a sign that dying Governor Winthrop became an angel; Dimmesdale, however, sees it as a sign of his own secret sin.
 
-**FAKT**: F. O. Matthiessen argumentuje, że użycie symbolizmu przez Hawthorne'a rozwinęło różnice w interpretacjach ludzi, opisując to jako "urządzenie wielokrotnego wyboru".
+**FACT**: F. O. Matthiessen argues that Hawthorne's use of symbolism developed differences in people's interpretations, describing it as a "multiple choice device."
 
-### Forest as dark place
+### Forest as Dark Place
 
-**FAKT**: Las, w którym Hester spotyka się z Dimmesdale, jest przedstawiony jako ciemne miejsce grzechu z purytańskiego punktu widzenia, ale może również reprezentować wolność i dzikość natury.
+**FACT**: The forest where Hester meets Dimmesdale is presented as a dark place of sin from the Puritan viewpoint, but can also represent freedom and wildness of nature.
 
-**FAKT**: Pearl jest często opisywana jako "psotna" lub jako "dzika i niestabilna mała elfka" z "dziwacznym, elfim rzutem" w oczach dziecka.
+**FACT**: Pearl is often described as "mischievous" or as a "wild and unstable little elf" with a "weird, elfish cast" in the child's eyes.
 
-### Psychological darkness
+### Psychological Darkness
 
-**FAKT**: Pewnego wieczoru, odsuwając szaty śpiącego Dimmesdale'a, Chillingworth widzi symbol reprezentujący jego wstyd na bladej piersi ministra.
+**FACT**: One evening, pulling aside the sleeping Dimmesdale's robes, Chillingworth sees a symbol representing his shame on the minister's pale chest.
 
-**FAKT**: Zniekształcone ciało Chillingwortha odzwierciedla gniew w jego duszy, tak jak choroba Dimmesdale'a ujawnia jego wewnętrzny niepokój.
+**FACT**: Chillingworth's deformed body reflects the anger in his soul, just as Dimmesdale's illness reveals his inner turmoil.
 
 ## GOVERNMENT CENSORSHIP THEORIES
 
-### Russian censorship terror
+### Russian Censorship Terror
 
-**FAKT**: Największy zakaz książki miał miejsce w 1852 roku podczas "terroru cenzorskiego" w Rosji pod rządami cara Mikołaja I.
+**FACT**: The book's biggest ban occurred in 1852 during the "censorship terror" in Russia under Czar Nicholas I.
 
-**FAKT**: Zgodnie z "The Origins of the Tsarist Epoch of Censorship Terror", cenzura została wydana po tym, jak doradcy polityczni zauważyli wpływ literatury na politykę.
+**FACT**: According to "The Origins of the Tsarist Epoch of Censorship Terror," the censorship was issued after political advisors noticed literature's influence on politics.
 
-### Modern censorship attempts
+### Modern Censorship Attempts
 
-**FAKT**: W przeciwieństwie do wielu innych książek, nie ma krótkiej odpowiedzi na to, dlaczego The Scarlet Letter była zakazana - zawsze, gdy dzieło Hawthorne'a było kwestionowane, sprzeciwy pochodziły ze wszystkich stron.
+**FACT**: Unlike many other books, there's no short answer to why The Scarlet Letter was banned - whenever Hawthorne's work was questioned, objections came from all sides.
 
-**FAKT**: Książka była atakowana zarówno przez konserwatywne grupy religijne (które sprzeciwiały się jej sympatycznemu przedstawieniu cudzołóstwa), jak i współczesnych krytyków (którzy widzą w niej utrwalanie patriarchalnych wartości).
+**FACT**: The book was attacked both by conservative religious groups (who opposed its sympathetic portrayal of adultery) and modern critics (who see it perpetuating patriarchal values).
 
-## FINANCIAL SCANDALS I MONEY DRAMA
+## FINANCIAL SCANDALS & MONEY DRAMA
 
-### Investment losses
+### Investment Losses
 
-**FAKT**: Hawthorne stracił dużą sumę pieniędzy zainwestowaną w eksperyment Brook Farm i miał długi.
+**FACT**: Hawthorne lost a large sum of money invested in the Brook Farm experiment and was in debt.
 
-**FAKT**: Przed objęciem urzędu w Custom House spędził pierwsze trzy lata życia małżeńskiego w Old Manse w Concord, Massachusetts, publikując liczne opowiadania w czasopismach, które nigdy nie płaciły wystarczająco, aby utrzymać siebie, Sophia i ich córkę.
+**FACT**: Before taking office at the Custom House, he spent the first three years of married life at the Old Manse in Concord, Massachusetts, publishing numerous stories in magazines that never paid enough to support himself, Sophia, and their daughter.
 
-**FAKT**: Jego "Twice-Told Tales" (1837, 1842) już się nie sprzedawały, a jego następna kolekcja krótkiej prozy "Mosses from an Old Manse" (1846) oferowała małą nadzieję na finansowe nagrody.
+**FACT**: His "Twice-Told Tales" (1837, 1842) were no longer selling, and his next collection of short prose "Mosses from an Old Manse" (1846) offered little hope for financial rewards.
 
-### Political patronage corruption
+### Political Patronage Corruption
 
-**ZARZUT**: Hawthorne "aktywnie manewrował dla swojego własnego mianowania", mimo że później protestował, że był tylko "nieszkodliwym człowiekiem pióra", który nigdy nie szukał urzędu.
+**ACCUSATION**: Hawthorne "actively maneuvered for his own appointment," despite later protesting he was only a "harmless man of letters" who never sought office.
 
-**FAKT**: Hawthorne's fierce fight to retain his government job was covered by partisan newspapers around the country, but he was ultimately let go in June 1849.
+**FACT**: Hawthorne's fierce fight to retain his government job was covered by partisan newspapers around the country, but he was ultimately let go in June 1849.
 
 ---
 
-**UWAGA EDUKACYJNA**: Ten dokument przedstawia kontrowersyjne aspekty i teorie związane z Nathanielem Hawthorne'em i "The Scarlet Letter" w celach badawczych i edukacyjnych. Wiele z przedstawionych "zarzutów" i "plotek" to spekulacje akademickie, nie udowodnione fakty. Należy podchodzić do tych informacji krytycznie, rozróżniając między udokumentowanymi faktami historycznymi a teoriami i interpretacjami.
+**EDUCATIONAL NOTE**: This document presents controversial aspects and theories related to Nathaniel Hawthorne and "The Scarlet Letter" for research and educational purposes. Many of the presented "accusations" and "rumors" are academic speculations, not proven facts. These information should be approached critically, distinguishing between documented historical facts and theories and interpretations.

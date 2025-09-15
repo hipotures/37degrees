@@ -4,3 +4,193 @@ book_info:
   author: "Homer"
   year: 8th century BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-15T14:30:00+00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 10
+    contemporary_reception: 8
+    relevance: 9
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 8
+    total: 72
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.2
+      category: "high"
+    heat:
+      value: 8.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "archaeological_conspiracy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Schliemann used dynamite destroying Troy layers, smuggled treasure illegally, fabricated discoveries"
+        source: "dark_drama"
+      - id: "homeric_question_identity"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Homer may not have existed - 'Homer' could be name for group of poets over centuries"
+        source: "dark_drama"
+      - id: "foundational_literature"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created Western epic tradition: in medias res, oral-formulaic system, dactylic hexameter"
+        source: "writing_innovation"
+      - id: "psychological_archetypes"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Jungian archetypes, PTSD representation, modern trauma psychology reflected in ancient text"
+        source: "symbols_meanings"
+      - id: "contemporary_relevance"
+        type: "FACT"
+        credibility: 0.95
+        content: "3000-year predictions proved true: war psychology, toxic masculinity, power corruption"
+        source: "reality_wisdom"
+      - id: "digital_renaissance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "EPIC Musical 119M streams, BookTok phenomenon, gaming culture (Hades), LGBTQ+ interpretations viral"
+        source: "youth_digital"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "100+ adaptations across all media, language infiltration (Trojan Horse malware), archetypal influence"
+        source: "culture_impact"
+      - id: "content_warnings"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Graphic violence, sexual themes, toxic masculinity, LGBTQ+ interpretations create platform risks"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of Western literature canon, continuous translation tradition from Chapman to Wilson"
+        key_editions: ["Norton Critical", "Penguin Classics", "Oxford World's Classics"]
+        reception_notes: "Hollywood adaptations, academic study cornerstone, Great Books movement"
+        educational_status: "Required reading in major universities"
+        local_themes: ["Shakespeare influence", "Milton parallels", "Joyce modernist adaptation"]
+
+      pl:
+        cultural_impact: "Required matura exam text, 10 complete Polish translations spanning 4 centuries"
+        key_editions: ["Dmochowski (1801)", "Jeżewska (1981)", "Chodkowski modern"]
+        reception_notes: "Students find difficult, Warsaw-Troy destruction parallels in Herbert poetry"
+        educational_status: "Core Polish high school curriculum"
+        local_themes: ["WWII Warsaw-Troy parallels", "Polish destruction/rebuilding cycles", "Romantic poet engagement"]
+
+      de:
+        cultural_impact: "Foundational to German intellectual tradition, shaped hermeneutics and classical philology"
+        key_editions: ["Voß (1793)", "Schadewaldt (1975)", "Reclam accessible editions"]
+        reception_notes: "Gymnasium education core, philosophical hermeneutics foundation"
+        educational_status: "Abitur preparation, classical philology core"
+        local_themes: ["Romantic Greek idealization", "Heidegger hermeneutical analysis", "Bildung cultural education"]
+
+      fr:
+        cultural_impact: "Structuralist analysis center, Vernant anthropological approach, Simone Weil force analysis"
+        key_editions: ["Gallimard Pléiade", "Les Belles Lettres", "Mazon scholarly"]
+        reception_notes: "Baccalauréat program, rhetoric study focus, New Wave cinema influence"
+        educational_status: "Literature and philosophy integrated study"
+        local_themes: ["Structural anthropology", "Post-structuralist theory", "Classical rhetoric tradition"]
+
+      es:
+        cultural_impact: "Classical tradition through university education, cultural elite engagement"
+        key_editions: ["Catedra editions", "Gredos scholarly", "Alianza accessible"]
+        reception_notes: "University-level study primarily, limited secondary education"
+        educational_status: "Higher education classics programs"
+        local_themes: ["Cervantes epic influence", "Golden Age literary connections", "Mediterranean cultural heritage"]
+
+      pt:
+        cultural_impact: "Portuguese and Brazilian academic study, Camões epic tradition connection"
+        key_editions: ["Gulbenkian Foundation", "Brazilian university texts"]
+        reception_notes: "Academic and literary circle engagement"
+        educational_status: "University classics and literature programs"
+        local_themes: ["Camões Os Lusíadas parallels", "Colonial epic traditions", "Brazilian indigenous perspectives"]
+
+      ja:
+        cultural_impact: "Post-war Western literature integration, manga and anime adaptations"
+        key_editions: ["Iwanami classical", "Chikuma scholarly"]
+        reception_notes: "Gaming culture strong (Hades popularity), otaku engagement"
+        educational_status: "University Western literature programs"
+        local_themes: ["Honor culture parallels", "Samurai code comparisons", "Gaming culture adoption"]
+
+      ko:
+        cultural_impact: "Modern education system adoption, surprising Song of Achilles popularity"
+        key_editions: ["Korean university translations"]
+        reception_notes: "LGBTQ+ themes unexpected acceptance, cultural bridge"
+        educational_status: "University humanities programs"
+        local_themes: ["Traditional honor concepts", "Modern digital culture", "LGBTQ+ progressive interpretation"]
+
+      hi:
+        cultural_impact: "Colonial education legacy, Sanskrit epic tradition comparison"
+        key_editions: ["University scholarly editions"]
+        reception_notes: "Academic comparative literature study"
+        educational_status: "Higher education comparative literature"
+        local_themes: ["Mahabharata epic parallels", "Colonial literature legacy", "Ancient warfare traditions"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 18
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:36"
+          topic: "foundational_analysis"
+          lead: "host_a"
+          description: "Homer's revolutionary creation of Western epic tradition and structural innovations"
+        - segment: 2
+          time_range: "03:36-07:12"
+          topic: "archaeological_controversies"
+          lead: "host_b"
+          description: "Schliemann fraud, Troy discovery scandals, and the Homeric Question"
+        - segment: 3
+          time_range: "07:12-10:48"
+          topic: "psychological_archetypes"
+          lead: "host_a"
+          description: "Jungian analysis, PTSD representation, and modern trauma psychology in ancient text"
+        - segment: 4
+          time_range: "10:48-14:24"
+          topic: "contemporary_phenomena"
+          lead: "host_b"
+          description: "Digital renaissance through EPIC Musical, BookTok, gaming culture, LGBTQ+ interpretations"
+        - segment: 5
+          time_range: "14:24-18:00"
+          topic: "timeless_relevance"
+          lead: "host_a"
+          description: "3000-year predictions proven true: war psychology, power dynamics, human nature"
+      prompts:
+        host_a: "You are {male_name}, a professor analyzing Homer's Iliad with scholarly depth. Discuss literary techniques, psychological complexity, and foundational importance. Present complex concepts about the first Western epic, its revolutionary narrative structure, archaeological controversies, and lasting influence. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student engaging with the Iliad. Ask for clarification on complex points, request examples from the text, connect ancient themes to modern parallels. Help make scholarly analysis accessible, especially contemporary relevance through gaming, social media, and psychological insights."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "graphic violence discussions"
+      - "sexual content references"
+      - "LGBTQ+ themes interpretation"
+      - "historical trauma analysis"
+      - "archaeological controversies"
+    educational_elements:
+      - "Epic poetry genre origins"
+      - "Historical context of Bronze Age"
+      - "Archaeological methods and ethics"
+      - "Literary analysis techniques"
+      - "Cross-cultural interpretation methods"
+      - "Modern psychological applications"
+    production_notes:
+      intro_style: "Classical opening with scholarly gravitas"
+      transitions: "Subtle academic bridges between segments"
+      outro_style: "Reflective conclusion on enduring relevance"
+
+  overall_confidence: 0.94

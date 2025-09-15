@@ -1,21 +1,13 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: nie, 14 wrz 2025, 00:40:54 CEST
+Date: pon, 15 wrz 2025, 02:38:11 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
 0125_a_vindication_of_the_rights_of_woman - 23
 0126_the_communist_manifesto - 24
-0127_on_liberty - 23
-0134_pere_goriot - 24
-0134_père_goriot - 24
-0135_adventures_of_huckleberry_finn - 23
-0136_in_search_of_lost_time - 2
-0137_mrs_dalloway - 0 (empty directory)
-0138_the_waste_land - 0 (empty directory)
-0139_the_sound_and_the_fury - 0 (empty directory)
-0140_the_stranger - 0 (empty directory)
+0140_the_stranger - 13
 0141_waiting_for_godot - 0 (empty directory)
 0142_the_real_story_of_ahq - 0 (empty directory)
 0143_gitanjali - 0 (empty directory)
@@ -32,19 +24,11 @@ Phases to run: 2
 0154_mother_courage_and_her_children - 0 (empty directory)
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 25
+Books with incomplete/incorrect images: 17
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
 0125_a_vindication_of_the_rights_of_woman
 0126_the_communist_manifesto
-0127_on_liberty
-0134_pere_goriot
-0134_père_goriot
-0135_adventures_of_huckleberry_finn
-0136_in_search_of_lost_time
-0137_mrs_dalloway
-0138_the_waste_land
-0139_the_sound_and_the_fury
 0140_the_stranger
 0141_waiting_for_godot
 0142_the_real_story_of_ahq
@@ -64,15 +48,7 @@ Books with incomplete/incorrect images: 25
 === MISSING SCENES TO BE SET TO PENDING ===
 0125_a_vindication_of_the_rights_of_woman: 2 missing scenes (0005, 0022)
 0126_the_communist_manifesto: 1 missing scenes (0011)
-0127_on_liberty: 2 missing scenes (0011, 0015)
-0134_pere_goriot: 1 missing scenes (0024)
-0134_père_goriot: 1 missing scenes (0024)
-0135_adventures_of_huckleberry_finn: 2 missing scenes (0002, 0014)
-0136_in_search_of_lost_time: 23 missing scenes (0003, 0004, 0005, 0006, 0007, 0008, 0009, 0010, 0011, 0012, 0013, 0014, 0015, 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025)
-0137_mrs_dalloway: 25 missing scenes (0001-0025 (all - completely empty directory))
-0138_the_waste_land: 25 missing scenes (0001-0025 (all - completely empty directory))
-0139_the_sound_and_the_fury: 25 missing scenes (0001-0025 (all - completely empty directory))
-0140_the_stranger: 25 missing scenes (0001-0025 (all - completely empty directory))
+0140_the_stranger: 12 missing scenes (0014, 0015, 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025)
 0141_waiting_for_godot: 25 missing scenes (0001-0025 (all - completely empty directory))
 0142_the_real_story_of_ahq: 25 missing scenes (0001-0025 (all - completely empty directory))
 0143_gitanjali: 25 missing scenes (0001-0025 (all - completely empty directory))

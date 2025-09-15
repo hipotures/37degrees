@@ -1,105 +1,105 @@
-# Badanie Lokalnego Kontekstu Kulturowego: "Dzwonnik z Notre-Dame" Victora Hugo
+# Local Cultural Context Research: "The Hunchback of Notre-Dame" by Victor Hugo
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Tłumaczenie
-1. **Józef Tokarzewicz** - pierwszy polski tłumacz, wydał "Katedrę Najświętszéj Panny Paryzkiéj (Notre-Dame-de-Paris)" w **1876 roku**
-2. Książka szybko zyskała popularność w Polsce jako część kultury romantycznej
-3. Tytuł w Polsce funkcjonuje pod dwoma głównymi nazwami: **"Dzwonnik z Notre-Dame"** i **"Katedra Najświętszej Marii Panny w Paryżu"**
+### First Translation
+1. **Józef Tokarzewicz** - first Polish translator, published "Cathedral of the Blessed Virgin Mary of Paris (Notre-Dame-de-Paris)" in **1876**
+2. The book quickly gained popularity in Poland as part of Romantic culture
+3. The title in Poland functions under two main names: **"Dzwonnik z Notre-Dame"** (The Hunchback of Notre-Dame) and **"Katedra Najświętszej Marii Panny w Paryżu"** (Cathedral of the Blessed Virgin Mary in Paris)
 
-### Cenzura i Recepcja
-4. Dzieło zostało umieszczone na **Indeksie Ksiąg Zakazanych przez papiestwo w 1834 roku**, ale w Polsce było dostępne
-5. Polscy romantycy doceniali uniwersalny charakter dzieła i jego krytykę społeczną
-6. Książka wzbudzała szczególne zainteresowanie ze względu na podobieństwa między francuskimi a polskimi doświadczeniami politycznymi
+### Censorship and Reception
+4. The work was placed on the **Index of Forbidden Books by the papacy in 1834**, but was available in Poland
+5. Polish Romantics appreciated the universal character of the work and its social criticism
+6. The book aroused particular interest due to similarities between French and Polish political experiences
 
-## Victor Hugo a Polskie Związki
+## Victor Hugo and Polish Connections
 
-### Polityczne Poparcie
-7. **Victor Hugo jako członek francuskiego parlamentu w 1845 roku opowiadał się za "samorządem dla Polski"**
-8. Pisarz wspierał sprawę polskiej niepodległości podczas Wielkiej Emigracji
-9. Hugo obracał się w kręgach kulturalnych powiązanych z **Hotelem Lambert** - centrum polskiej emigracji w Paryżu
+### Political Support
+7. **Victor Hugo as a member of the French parliament in 1845 advocated for "self-government for Poland"**
+8. The writer supported the cause of Polish independence during the Great Emigration
+9. Hugo moved in cultural circles connected with **Hotel Lambert** - the center of Polish emigration in Paris
 
-### Kulturalne Powiązania
-10. Hotel Lambert przyciągał zarówno polskich jak i francuskich intelektualistów: Fryderyka Chopina, Zygmunta Krasińskiego, Alphonse'a de Lamartine'a, George Sand, Honoré de Balzaca, Hectora Berlioza
-11. W tych samych kręgach przebywali **Adam Mickiewicz, Juliusz Słowacki i Cyprian Norwid**
-12. Polscy romantycy odwiedzali Notre-Dame, tworząc historyczne połączenie między polską kulturą a katedrą
+### Cultural Connections
+10. Hotel Lambert attracted both Polish and French intellectuals: Frédéric Chopin, Zygmunt Krasiński, Alphonse de Lamartine, George Sand, Honoré de Balzac, Hector Berlioz
+11. In the same circles were **Adam Mickiewicz, Juliusz Słowacki and Cyprian Norwid**
+12. Polish Romantics visited Notre-Dame, creating a historical connection between Polish culture and the cathedral
 
-## Adaptacje Teatralne i Filmowe w Polsce
+## Theater and Film Adaptations in Poland
 
 ### Musical "Notre Dame de Paris"
-13. **Premiera polska musicalu "Notre Dame de Paris" odbyła się we wrześniu 2016 roku w Teatrze Muzycznym w Gdyni**
-14. Polscy fani czekali na ten tytuł od premiery paryskiej w 1998 roku
-15. W polskiej produkcji rolę Quasimodo grali: **Michał Grobelny, Janusz Kruciński i Krzysztof Kowalski**
+13. **Polish premiere of the musical "Notre Dame de Paris" took place in September 2016 at the Music Theater in Gdynia**
+14. Polish fans had been waiting for this title since the Paris premiere in 1998
+15. In the Polish production, the role of Quasimodo was played by: **Michał Grobelny, Janusz Kruciński and Krzysztof Kowalski**
 
-### Kompletna Obsada Polska
+### Complete Polish Cast
 16. **Esmeralda**: Maja Gadzińska / Ewa Kłosowicz
-17. **Frollo**: Artur Guza / Piotr Płuska  
+17. **Frollo**: Artur Guza / Piotr Płuska
 18. **Phoebus**: Maciej Podgórzak / Przemysław Zubowicz
 19. **Clopin**: Krzysztof Wojciechowski / Łukasz Zagrobelny
-20. Reżyserię prowadził **Gilles Maheu** we współpracy z francuską agencją Enzo Products
+20. Direction was led by **Gilles Maheu** in cooperation with the French agency Enzo Products
 
-### Inne Teatry
-21. **Teatr Blaszany Bębenek** również prezentuje "Dzwonnika z Notre-Dame" inspirowanego filmem Disney'a z 1996 roku
-22. Animowany film Disney'a otrzymał polski dubbing przez **Syrena Entertainment Group** z premierą 15 listopada 1996 roku
+### Other Theaters
+21. **Blaszany Bębenek Theater** also presents "The Hunchback of Notre-Dame" inspired by the 1996 Disney film
+22. Disney's animated film received Polish dubbing by **Syrena Entertainment Group** with premiere on November 15, 1996
 
-## Kontekst Edukacyjny
+## Educational Context
 
-### Lektura Szkolna
-23. **"Dzwonnik z Notre-Dame" należy do ścisłego kanonu lektur szkolnych w Polsce** - czytany w szkołach średnich
-24. Książka jest częścią programu nauczania literatury światowej
-25. Dzieło cenione jest za **wartość literacką, tematykę uniwersalną i kontekst historyczny**
-26. Nauczyciele podkreślają nowatorski sposób budowania obrazu średniowiecznego Paryża
+### School Reading
+23. **"The Hunchback of Notre-Dame" belongs to the core canon of school readings in Poland** - read in high schools
+24. The book is part of the world literature curriculum
+25. The work is valued for its **literary value, universal themes and historical context**
+26. Teachers emphasize the innovative way of building the image of medieval Paris
 
-### Interpretacja Akademicka
-27. Dr **Tomasz Wroczyński** - polski literaturoznawca - analizował niezwykłe połączenie dobra i zła, piękna i brzydoty w powieści
-28. Polscy badacze podkreślają, że w powieści "nie ma nic czarno-białego, tylko odcienie szarości"
-29. Akademickie interpretacje koncentrują się na **problemach destrukcyjnego pożądania i tolerancji, nietypowych jak na tamte czasy**
+### Academic Interpretation
+27. Dr **Tomasz Wroczyński** - Polish literary scholar - analyzed the unusual combination of good and evil, beauty and ugliness in the novel
+28. Polish researchers emphasize that in the novel "there is nothing black and white, only shades of gray"
+29. Academic interpretations focus on **problems of destructive desire and tolerance, unusual for those times**
 
-## Kulturowe Różnice w Interpretacji
+## Cultural Differences in Interpretation
 
-### Religijna Wrażliwość
-30. Polscy czytelnicy szczególnie wrażliwie odbierają **krytykę hierarchii kościelnej przez Hugo**
-31. Postać Frollo interpretowana jest przez pryzmat polskiej tradycji katolickiej
-32. **Symbolika katedry Notre-Dame ma szczególne znaczenie dla polskich katolików**
+### Religious Sensitivity
+30. Polish readers are particularly sensitive to **Hugo's criticism of church hierarchy**
+31. The character of Frollo is interpreted through the prism of Polish Catholic tradition
+32. **The symbolism of Notre-Dame cathedral has special significance for Polish Catholics**
 
-### Nawiązania Historyczne  
-33. Polacy dostrzegają podobieństwa między francuskim a polskim doświadczeniem politycznym XIX wieku
-34. Motyw walki o wolność i sprawiedliwość rezonuje z polską historią narodową
-35. **Tematyka ucisku i buntu ma szczególne znaczenie w kontekście polskich powstań**
+### Historical References
+33. Poles see similarities between French and Polish political experience of the 19th century
+34. The theme of struggle for freedom and justice resonates with Polish national history
+35. **The theme of oppression and rebellion has special meaning in the context of Polish uprisings**
 
-## Współczesna Recepcja i Pożar Notre-Dame 2019
+## Contemporary Reception and Notre-Dame Fire 2019
 
-### Reakcje Mediów
-36. **Pożar katedry Notre-Dame w 2019 roku wywołał ogromne poruszenie w polskich mediach**
-37. Premier **Mateusz Morawiecki** napisał na Twitterze: "Notre Dame powinna być odbudowana razem, jako Europejczycy"
-38. **Donald Tusk** napisał: "Notre-Dame de Paris est Notre-Dame de toute l'Europe"
+### Media Reactions
+36. **The Notre-Dame cathedral fire in 2019 caused enormous commotion in Polish media**
+37. Prime Minister **Mateusz Morawiecki** wrote on Twitter: "Notre Dame should be rebuilt together, as Europeans"
+38. **Donald Tusk** wrote: "Notre-Dame de Paris est Notre-Dame de toute l'Europe"
 
-### Polskie Elementy w Katedrze
-39. **Kaplica polska poświęcona Matce Boskiej Częstochowskiej nie spłonęła w pożarze**
-40. Kaplica zawierała kopię obrazu Czarnej Madonny z Częstochowy i relikwie św. Jana Pawła II
-41. Rektor katedry, biskup **Patrick Chauvet** powiedział: **"Polacy mają w sercach paryską katedrę Notre Dame. Dziękujemy za waszą miłość"**
+### Polish Elements in the Cathedral
+39. **The Polish chapel dedicated to Our Lady of Częstochowa did not burn in the fire**
+40. The chapel contained a copy of the Black Madonna of Częstochowa and relics of St. John Paul II
+41. The cathedral rector, Bishop **Patrick Chauvet** said: **"Poles have the Paris cathedral Notre Dame in their hearts. Thank you for your love"**
 
-### Kulturowe Nawiązania
-42. Polscy internauci reagowali na pożar **przywołując obrazy Zdzisława Beksińskiego** - polskiego surrealisty znanego z apokaliptycznych wizji
-43. **Profesor Henryk Samsonowicz** podkreślił: "Katedra Notre Dame to wspaniałe dzieło sztuki... symbol wspaniałego Paryża... prawdziwe serce Francji"
+### Cultural References
+42. Polish internet users reacted to the fire **by recalling images by Zdzisław Beksiński** - Polish surrealist known for apocalyptic visions
+43. **Professor Henryk Samsonowicz** emphasized: "Notre Dame Cathedral is a wonderful work of art... symbol of wonderful Paris... the true heart of France"
 
-## Fan Community i Lokalne Nawiązania
+## Fan Community and Local References
 
-### Współczesni Czytelnicy
-44. **Portal Lubimyczytac.pl** zawiera setki polskich recenzji "Dzwonnika z Notre-Dame"
-45. Polscy czytelnicy szczególnie doceniają **psychologiczną głębię postaci i wielowarstwowość narracji**
-46. Młodzi Polacy często odkrywają książkę przez adaptacje filmowe, a następnie sięgają po oryginał
+### Contemporary Readers
+44. **Portal Lubimyczytac.pl** contains hundreds of Polish reviews of "The Hunchback of Notre-Dame"
+45. Polish readers particularly appreciate the **psychological depth of characters and multilayered narrative**
+46. Young Poles often discover the book through film adaptations, then reach for the original
 
-### Regionalne Połączenia
-47. **Kraków** - miasto o podobnej architekturze gotyckiej - często porównywane do średniowiecznego Paryża z powieści
-48. **Wawel** i jego legenda o smoku nawiązuje do mrocznej atmosfery Notre-Dame
-49. Polskie katedry gotyckie (Gniezno, Poznań) pomagają polskim czytelnikom wizualizować scenerie książki
+### Regional Connections
+47. **Krakow** - a city with similar Gothic architecture - often compared to medieval Paris from the novel
+48. **Wawel** and its dragon legend refers to the dark atmosphere of Notre-Dame
+49. Polish Gothic cathedrals (Gniezno, Poznań) help Polish readers visualize the book's scenery
 
-### Problemy Tłumaczeniowe
-50. **Największy problem tłumaczy**: oddanie gry słów Hugo i jego neologizmów
-51. **Archaizmy i średniowieczne realia** wymagają objaśnień dla polskich czytelników
-52. **Tytuł książki** - debata między "Dzwonnikiem" a "Katedrą" pokazuje różne podejścia do interpretacji dzieła
+### Translation Problems
+50. **Biggest problem for translators**: rendering Hugo's wordplay and neologisms
+51. **Archaisms and medieval realities** require explanations for Polish readers
+52. **Book title** - debate between "Dzwonnik" (Hunchback) and "Katedra" (Cathedral) shows different approaches to interpreting the work
 
 ---
 
-**Podsumowanie**: "Dzwonnik z Notre-Dame" ma wyjątkowo bogate życie w polskiej kulturze - od pierwszego tłumaczenia w 1876 roku, przez wspólne doświadczenia romantyczne, po współczesne adaptacje teatralne i głębokie poruszenie pożarem katedry w 2019 roku. Książka rezonuje z polskim doświadczeniem historycznym, religijną tradycją i romantyczną wrażliwością, czyniąc ją szczególnie bliską polskim czytelnikom.
+**Summary**: "The Hunchback of Notre-Dame" has an exceptionally rich life in Polish culture - from the first translation in 1876, through shared Romantic experiences, to contemporary theater adaptations and deep emotion over the cathedral fire in 2019. The book resonates with Polish historical experience, religious tradition and Romantic sensibility, making it particularly close to Polish readers.

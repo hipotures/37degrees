@@ -1,167 +1,167 @@
-# Dark Drama Research: "Trzej muszkieterowie" Alexandre'a Dumasa
+# Dark Drama Research: "The Three Musketeers" by Alexandre Dumas
 
-## Wstęp
-Alexandre Dumas (1802-1870) i jego najsłynniejsza powieść "Trzej muszkieterowie" (1844) to fascynujący przypadek autora, który ukrywał mroczne sekrety za fasadą przygodowej literatury. Ten dokument eksploruje conspiracy theories, osobiste skandale i kontrowersyjne aspekty zarówno dzieła, jak i jego twórcy.
+## Introduction
+Alexandre Dumas (1802-1870) and his most famous novel "The Three Musketeers" (1844) represent a fascinating case of an author who concealed dark secrets behind the facade of adventure literature. This document explores conspiracy theories, personal scandals, and controversial aspects of both the work and its creator.
 
-## Conspiracy Theories i Dark Interpretations
+## Conspiracy Theories and Dark Interpretations
 
-### 1. **FAKT**: Ukryty współautor - "fabryka fikcji"
-Dumas prowadził prawdziwą "fabrykę fikcji", zatrudniając licznych pisarzy-duchów na pensji, którzy tworzyli setki opowieści pod jego kierownictwem. Całe Paryż znało "sekret" relacji Dumas-Maquet, ale oficjalnie było to tuszowane.
+### 1. **FACT**: Hidden co-author - "fiction factory"
+Dumas operated a true "fiction factory," employing numerous ghostwriters on salary who created hundreds of stories under his direction. All of Paris knew the "secret" of the Dumas-Maquet relationship, but it was officially covered up.
 
-### 2. **ZARZUT**: Maquet jako prawdziwy autor
-Claude Schoop twierdzi, że fabuła trylogii Muszkieterów - i większość pisania - to w rzeczywistości dzieło Auguste'a Maqueta. Gdy pewnego razu zagubiono odcinek "Le Vicomte de Bragelonne" tuż przed publikacją, Maquet przepisał własny tekst z pamięci, a porównanie pokazało, że Dumas zmienił tylko około 30 słów na 500 linii.
+### 2. **ACCUSATION**: Maquet as the true author
+Claude Schoop claims that the plot of the Musketeers trilogy - and most of the writing - was actually the work of Auguste Maquet. When an episode of "Le Vicomte de Bragelonne" was once lost just before publication, Maquet rewrote his own text from memory, and comparison showed that Dumas had changed only about 30 words out of 500 lines.
 
-### 3. **PLOTKA**: Occultne połączenia przez "Club Dumas"
-Arturo Pérez-Reverte w powieści "Club Dumas" (1993) stworzył fikcyjną teorię łączącą "Trzech muszkieterów" z okultyzmem. W książce manuskrypt Dumasa jest powiązany z "Dziewięciu Bramami Królestwa Cieni" - księgą rzekomo zawierającą instrukcje przywoływania diabła.
+### 3. **RUMOR**: Occult connections through "Club Dumas"
+Arturo Pérez-Reverte in his novel "Club Dumas" (1993) created a fictional theory linking "The Three Musketeers" with occultism. In the book, Dumas's manuscript is connected to "The Nine Gates of the Kingdom of Shadows" - a book allegedly containing instructions for summoning the devil.
 
-### 4. **FAKT**: Polityczne znaczenie ukryte w przygodzie
-Dumas często portretuje różne niesprawiedliwości, nadużycia i absurdy Ancien Régime, nadając powieści dodatkowe znaczenie polityczne w czasie publikacji, gdy debata między republikanami a monarchistami była wciąż zacięta.
+### 4. **FACT**: Political significance hidden in adventure
+Dumas often portrays various injustices, abuses, and absurdities of the Ancien Régime, giving the novel additional political meaning at the time of publication, when the debate between republicans and monarchists was still fierce.
 
-## Osobiste Skandale Alexandre'a Dumasa
+## Personal Scandals of Alexandre Dumas
 
-### 5. **FAKT**: 40 kochanek i rozrzutność
-Dumas miał łącznie 40 kochanek i słynął z rozrzutnego stylu życia. Zarabiał fortuny, ale był często niewypłacalny, wydając hojnie na kobiety i luksusowe życie.
+### 5. **FACT**: 40 mistresses and extravagance
+Dumas had a total of 40 mistresses and was famous for his extravagant lifestyle. He earned fortunes but was often insolvent, spending lavishly on women and luxurious living.
 
-### 6. **FAKT**: Śmierć w biedzie pomimo milionów
-Dumas umarł w biedzie, nawet jeśli to była jego własna lekkomyślność, podczas gdy Maquet żył i zmarł w dostatku.
+### 6. **FACT**: Death in poverty despite millions
+Dumas died in poverty, even though it was his own recklessness, while Maquet lived and died in prosperity.
 
-### 7. **FAKT**: Dyskryminacja rasowa - mieszane pochodzenie
-Babka Dumasa, Marie-Cessette Dumas, była zniewolona kobietą pochodzenia afro-karaibskiego w francuskiej kolonii Saint-Domingue (dzisiejsze Haiti). Dumas przez całe życie musiał zmagać się z dyskryminacją z powodu swojego mieszanego pochodzenia.
+### 7. **FACT**: Racial discrimination - mixed heritage
+Dumas's grandmother, Marie-Cessette Dumas, was an enslaved woman of Afro-Caribbean descent in the French colony of Saint-Domingue (present-day Haiti). Dumas had to struggle with discrimination throughout his life because of his mixed heritage.
 
-### 8. **FAKT**: Słynna odpowiedź na rasizm
-Najsłynniejszy przykład rasizmu wobec Dumasa to jego odpowiedź mężczyźnie, który obrażał go z powodu częściowo afrykańskiego pochodzenia: "Mój ojciec był multem, mój dziadek był Murzynem, a mój pradziadek małpą. Widzi pan, moja rodzina zaczyna się tam, gdzie pańska się kończy."
+### 8. **FACT**: Famous response to racism
+The most famous example of racism against Dumas is his response to a man who insulted him because of his partially African ancestry: "My father was a mulatto, my grandfather was a Negro, and my great-grandfather was a monkey. You see, sir, my family starts where yours ends."
 
-### 9. **ZARZUT**: Wykluczenie z kanonu przez rasizm
-Przez długi czas wkład literacki Dumasa nie był tak celebrowany jak innych francuskich autorów i czasami wykluczany z tradycyjnego francuskiego kanonu literackiego. Niektórzy badacze sugerują, że rasistowski dyskurs wpływał na podejście krytyków do spraw literackich i estetycznych w twórczości Dumasa.
+### 9. **ACCUSATION**: Exclusion from canon due to racism
+For a long time, Dumas's literary contribution was not as celebrated as other French authors and was sometimes excluded from the traditional French literary canon. Some scholars suggest that racist discourse influenced critics' approach to literary and aesthetic matters in Dumas's work.
 
-## Skandale Współpracy i Plagiat
+## Collaboration Scandals and Plagiarism
 
-### 10. **FAKT**: Proces sądowy z Maquetem
-Maquet pozwał Dumasa, domagając się współautorstwa i tantiem, ale sąd orzekł na korzyść Dumasa. W 1858 roku Maquet pozwał Dumasa kilkakrotnie o zaległe honoraria i domagał się uznania jako współautor.
+### 10. **FACT**: Lawsuit with Maquet
+Maquet sued Dumas, demanding co-authorship and royalties, but the court ruled in favor of Dumas. In 1858, Maquet sued Dumas several times for outstanding fees and demanded recognition as co-author.
 
-### 11. **FAKT**: Płatność 145,200 franków
-Wynik procesu był taki, że Dumas zachował wyłączne autorstwo, ale był zobowiązany zapłacić Maquetowi 145,200 franków w ciągu jedenastu lat.
+### 11. **FACT**: Payment of 145,200 francs
+The outcome of the trial was that Dumas retained exclusive authorship but was obligated to pay Maquet 145,200 francs over eleven years.
 
-### 12. **ZARZUT**: Systematyczny plagiat
-W latach 1833-1834 Granier de Cassagnac wysunął przeciwko Dumasowi zarzuty hurtowego plagiatu od innych dramatopisarzy.
+### 12. **ACCUSATION**: Systematic plagiarism
+In 1833-1834, Granier de Cassagnac brought charges of wholesale plagiarism against Dumas from other playwrights.
 
-### 13. **FAKT**: "Nadzwyczajna alchemia" współpracy
-Historycy opisują, że Maquet i Dumas zdawali się potrzebować siebie symbiotycznie, aby tworzyć prawdziwie wielkie dzieła. Gdy Maquet odszedł od Dumasa, żaden z nich nie stworzył nic rewelacyjnego.
+### 13. **FACT**: "Extraordinary alchemy" of collaboration
+Historians describe that Maquet and Dumas seemed to need each other symbiotically to create truly great works. When Maquet left Dumas, neither of them created anything sensational.
 
-## Censorship i Kontrowersje Polityczne
+## Censorship and Political Controversies
 
-### 14. **FAKT**: Zakaz w Rosji carskiej
-Książka została początkowo zakazana w Rosji przez cara Mikołaja I za republikańskie sentymenty. To główna udokumentowana instancja cenzurowania powieści.
+### 14. **FACT**: Ban in Tsarist Russia
+The book was initially banned in Russia by Tsar Nicholas I for republican sentiments. This is the main documented instance of the novel being censored.
 
-### 15. **FAKT**: Rezygnacja z urzędu za poglądy
-Literackie wysiłki Dumasa spotkały się z wyraźną dezaprobatą jego oficjalnych przełożonych, i został zmuszony do rezygnacji ze swojego urzędniczego stanowiska przed premierą "Henri III".
+### 15. **FACT**: Resignation from office for views
+Dumas's literary efforts met with clear disapproval from his official superiors, and he was forced to resign from his clerical position before the premiere of "Henri III."
 
-### 16. **PLOTKA**: Manipulacja historią dla politycznych celów
-"Zgwałciłem historię, ale przynajmniej dałem jej ładne dzieci" - cytat często błędnie przypisywany Dumasowi, ale oddający jego podejście do fikcji historycznej. Dumas był bardziej zainteresowany tworzeniem interesującej fikcji niż ślepym oddaniem historii.
+### 16. **RUMOR**: Manipulating history for political purposes
+"I raped history, but at least I gave her beautiful children" - a quote often misattributed to Dumas, but reflecting his approach to historical fiction. Dumas was more interested in creating interesting fiction than blindly adhering to history.
 
-## Kontrowersje Historyczne i Religijne
+## Historical and Religious Controversies
 
-### 17. **FAKT**: Zniekształcenie postaci Richelieu
-W powieści kardynał Richelieu jest przedstawiony jako złoczyńca romansowo ścigający królową, co było w dużej mierze fikcyjne. Richelieu jest jednym z duchownych najczęściej portretowanych w filmie jako główny złoczyńca.
+### 17. **FACT**: Distortion of Richelieu's character
+In the novel, Cardinal Richelieu is portrayed as a villain romantically pursuing the queen, which was largely fictional. Richelieu is one of the clergy most often portrayed in film as the main villain.
 
-### 18. **FAKT**: Uproszczenie relacji król-minister
-Król Ludwik XIII - przedstawiony przez Dumasa jako dość słaby i pobłażliwy monarcha, często manipulowany przez swojego pierwszego ministra. Ta charakterystyka upraszczała złożoną relację między królem a jego ministrem.
+### 18. **FACT**: Simplification of king-minister relations
+King Louis XIII - portrayed by Dumas as a rather weak and indulgent monarch, often manipulated by his prime minister. This characterization simplified the complex relationship between the king and his minister.
 
-### 19. **ZARZUT**: Republikańska i masońska perspektywa
-Dumas pisze jako republikanin i mason o społeczeństwie monarchistycznym i katolickim - nie może uniknąć wydania osądu. Ta republikańska perspektywa ukształtowała jego portret monarchii i przywództwa Kościoła katolickiego.
+### 19. **ACCUSATION**: Republican and Masonic perspective
+Dumas writes as a republican and Mason about a monarchist and Catholic society - he cannot avoid passing judgment. This republican perspective shaped his portrait of monarchy and Catholic Church leadership.
 
-## Financial Scandals i Money Drama
+## Financial Scandals and Money Drama
 
-### 20. **FAKT**: Kontrakty na więcej pracy niż możliwe
-Alexandre Dumas podpisywał kontrakty na więcej pracy, niż mógł ewentualnie wyprodukować, i zostawał w tyle pomimo posiadania "współpracownika" piszącego powieści do publikacji pod marką Dumas.
+### 20. **FACT**: Contracts for more work than possible
+Alexandre Dumas signed contracts for more work than he could possibly produce and fell behind despite having a "collaborator" writing novels for publication under the Dumas brand.
 
-### 21. **FAKT**: Procesy o naruszenie kontraktu
-Turgeniew pisał felietony o procesie Dumasa za naruszenie kontraktu, krytykując Dumasa za coś bardzo podobnego do plagiatu.
+### 21. **FACT**: Breach of contract lawsuits
+Turgenev wrote columns about Dumas's trial for breach of contract, criticizing Dumas for something very similar to plagiarism.
 
-### 22. **PLOTKA**: Wydawca decyduje o losach
-Decyzja wydawcy o używaniu nazwiska Dumasa, a nie Maqueta, określiła ich losy, chociaż wielu w branży wydawniczej wiedziało, że Maquet wykonał znaczną część pracy pisarskiej dla Dumasa.
+### 22. **RUMOR**: Publisher decides fates
+The publisher's decision to use Dumas's name rather than Maquet's determined their fates, although many in the publishing industry knew that Maquet had done a significant portion of the writing work for Dumas.
 
-## Rivalries i Konflikty Literackie
+## Rivalries and Literary Conflicts
 
-### 23. **FAKT**: Rywalizacja z Victorem Hugo
-Alexandre Dumas miał znaczną rywalizację z Victorem Hugo, innym wybitnym francuskim pisarzem romantycznym tego okresu. Romantyczny styl Dumasa był często porównywany do stylu jego współczesnego i rywala, Victora Hugo.
+### 23. **FACT**: Rivalry with Victor Hugo
+Alexandre Dumas had significant rivalry with Victor Hugo, another prominent French Romantic writer of the period. Dumas's romantic style was often compared to that of his contemporary and rival, Victor Hugo.
 
-### 24. **FAKT**: Przerwana przyjaźń przez oskarżenia
-Jego przyjaźń z Victorem Hugo została przerwana w latach 1833-1834 przez artykuły zamieszczone w Journal des débats przez przyjaciela i protegowanego poety, Granier de Cassagnac, który wystąpił przeciwko Dumasowi z zarzutami hurtowego plagiatu od innych dramatopisarzy.
+### 24. **FACT**: Friendship interrupted by accusations
+His friendship with Victor Hugo was interrupted in 1833-1834 by articles published in Journal des débats by the poet's friend and protégé, Granier de Cassagnac, who came out against Dumas with charges of wholesale plagiarism from other playwrights.
 
-### 25. **FAKT**: Sukces "Henri III" przyniósł przyjaźń Hugo i Vigny
-Pomimo rywalizacji, sukces jego sztuki Henri III przyniósł mu przyjaźń Hugo i Vigny.
+### 25. **FACT**: Success of "Henri III" brought friendship with Hugo and Vigny
+Despite the rivalry, the success of his play Henri III brought him friendship with Hugo and Vigny.
 
 ## Dark Psychology Interpretations
 
-### 26. **ZARZUT**: Przemoc jako rozwiązanie konfliktów
-"Trzej muszkieterowie" gloryfikuje przemoc jako podstawowy sposób rozwiązywania konfliktów - pojedynki, walki na miecze i zabójstwa są przedstawiane jako honorowe i konieczne.
+### 26. **ACCUSATION**: Violence as conflict resolution
+"The Three Musketeers" glorifies violence as the primary way of resolving conflicts - duels, sword fights, and murders are portrayed as honorable and necessary.
 
-### 27. **PLOTKA**: Milady jako symbol ukrytej kobiecej mocy
-Postać Milady de Winter może być interpretowana jako reprezentacja lęków 19th-wiecznych mężczyzn przed niezależnymi, manipulacyjnymi kobietami posiadającymi realną władzę.
+### 27. **RUMOR**: Milady as symbol of hidden feminine power
+The character of Milady de Winter can be interpreted as representing 19th-century men's fears of independent, manipulative women possessing real power.
 
-### 28. **ZARZUT**: Gloryfikacja systemu feudalnego
-Powieść romantyzuje hierarchię społeczną i feudalizm w czasie, gdy demokratyczne idee zyskiwały na znaczeniu w Europie.
+### 28. **ACCUSATION**: Glorification of feudal system
+The novel romanticizes social hierarchy and feudalism at a time when democratic ideas were gaining importance in Europe.
 
-## Occult i Symbolism Theories
+## Occult and Symbolism Theories
 
-### 29. **PLOTKA**: Masońska symbolika w "wszyscy za jednego"
-Motto "wszyscy za jednego, jeden za wszystkich" może być interpretowane jako masońska formuła braterstwa i lojalności wobec tajnego stowarzyszenia.
+### 29. **RUMOR**: Masonic symbolism in "all for one"
+The motto "all for one, one for all" can be interpreted as a Masonic formula of brotherhood and loyalty to a secret society.
 
-### 30. **PLOTKA**: Numerologia - trzej muszkieterowie jako święta trójca
-Liczba trzech (trzej muszkieterowie, plus d'Artagnan jako czwarty) może reprezentować chrześcijańską Trójcę Świętą lub masońskie symbole.
+### 30. **RUMOR**: Numerology - three musketeers as holy trinity
+The number three (three musketeers, plus d'Artagnan as the fourth) may represent the Christian Holy Trinity or Masonic symbols.
 
-### 31. **PLOTKA**: Kryptograf i tajne wiadomości
-Niektóre teorie sugerują, że Dumas ukrył w powieści zakodowane wiadomości polityczne dla współczesnych republikanów i przeciwników monarchii.
+### 31. **RUMOR**: Cryptographer and secret messages
+Some theories suggest that Dumas hid encoded political messages in the novel for contemporary republicans and opponents of monarchy.
 
 ## Government Conspiracy Theories
 
-### 32. **PLOTKA**: Finansowanie przez przeciwników monarchii
-Teoria, że Dumas był potajemnie finansowany przez republikańskie siły, aby podważać szacunek dla francuskiej monarchii poprzez przedstawianie jej słabości.
+### 32. **RUMOR**: Financing by opponents of monarchy
+Theory that Dumas was secretly financed by republican forces to undermine respect for French monarchy by showing its weaknesses.
 
-### 33. **ZARZUT**: Wykorzystanie do propagandy narodowej
-W XIX wieku we Francji, kiedy Dumas pisał "Trzech muszkieterów", powieść mogła pełnić funkcję propagandową - dawała ludziom poczucie wspólnej historii, co wspierało ich poczucie dumy narodowej.
+### 33. **ACCUSATION**: Use for national propaganda
+In 19th-century France, when Dumas wrote "The Three Musketeers," the novel could serve a propaganda function - it gave people a sense of shared history, which supported their sense of national pride.
 
-## Współczesne Kontrowersje
+## Contemporary Controversies
 
-### 34. **FAKT**: Ponowne pochowanie w Panteonie jako przeprosiny
-Kiedy Dumas został ponownie pochowany w Panteonie w Paryżu w 2002 roku, prezydent Jacques Chirac po raz pierwszy uznał rasizm, z którym musiał się zmagać Dumas, i powiedział, że ponowny pochówek był sposobem naprawienia tej krzywdy.
+### 34. **FACT**: Reburial in Pantheon as apology
+When Dumas was reburied in the Pantheon in Paris in 2002, President Jacques Chirac for the first time acknowledged the racism Dumas had to face and said the reburial was a way to right this wrong.
 
-### 35. **FAKT**: Film "The Other Dumas" odżył debate
-Kontrowersja trwa do dziś, a film z 2010 roku zatytułowany "The Other Dumas" ponownie rozpalił literacką debatę o autorstwie.
+### 35. **FACT**: Film "The Other Dumas" revived debate
+The controversy continues today, and a 2010 film titled "The Other Dumas" reignited the literary debate about authorship.
 
-## Prophecy Check - Co się sprawdziło
+## Prophecy Check - What Came True
 
-### 36. **FAKT**: Przewidywanie politycznej manipulacji
-Dumas skutecznie przedstawił ponadczasową naturę politycznej manipulacji i dynamikę władzy za tronem, która nadal rezonuje w nowoczesnej polityce.
+### 36. **FACT**: Predicting political manipulation
+Dumas effectively portrayed the timeless nature of political manipulation and behind-the-throne power dynamics that still resonate in modern politics.
 
-### 37. **FAKT**: Korupcja władzy jako uniwersalny temat
-Tematy korupcji władzy, słabego przywództwa manipulowanego przez silniejszych doradców, hipokryzji religijnej i napięć między różnymi frakcjami politycznymi okazały się uniwersalne.
+### 37. **FACT**: Corruption of power as universal theme
+Themes of power corruption, weak leadership manipulated by stronger advisors, religious hypocrisy, and tensions between different political factions proved universal.
 
-### 38. **FAKT**: Cykliczność władzy politycznej
-Raczej niż określone przewidywania przyszłości, Dumas stworzył dzieło uchwytujące ponadczasową dynamikę polityczną, która odzwierciedla fundamentalne wzorce w ludzkim zachowaniu politycznym.
+### 38. **FACT**: Cyclical nature of political power
+Rather than specific predictions of the future, Dumas created a work capturing timeless political dynamics that reflect fundamental patterns in human political behavior.
 
-## Niepowodzenia i Błędne Przewidywania
+## Failures and False Predictions
 
-### 39. **ZARZUT**: Romantyzacja przemocy nie przetrwała
-Gloryfikacja pojedynków i przemocy jako sposobu rozwiązywania honorowych sporów nie przetrwała jako społecznie akceptowalna praktyka.
+### 39. **ACCUSATION**: Romanticization of violence didn't survive
+The glorification of duels and violence as a way to resolve honorable disputes did not survive as a socially acceptable practice.
 
-### 40. **FAKT**: Hierarchie społeczne ewoluowały
-Sztywne hierarchie społeczne i systemy feudalne, które powieść romantyzuje, zostały w dużej mierze zastąpione przez demokratyczne struktury, chociaż nierówności nadal istnieją.
+### 40. **FACT**: Social hierarchies evolved
+The rigid social hierarchies and feudal systems that the novel romanticizes have been largely replaced by democratic structures, although inequalities still exist.
 
-## Pozostały wpływ i Legacy
+## Lasting Impact and Legacy
 
-### 41. **FAKT**: Kształtowanie wyobraźni o francuskich historycznych postaciach
-Pomimo wolności, jakie sobie pozwolił z faktami historycznymi, Dumas nadal kształtuje popularne postrzeganie kardynała Richelieu i francuskiej monarchii.
+### 41. **FACT**: Shaping imagination about French historical figures
+Despite the liberties he took with historical facts, Dumas still shapes popular perception of Cardinal Richelieu and French monarchy.
 
-### 42. **PLOTKA**: Wpływ na nowoczesne teorie spiskowe
-Sposób, w jaki Dumas przedstawił spiski w środowisku władzy, może wpływać na sposób, w jaki współcześni ludzie postrzegają polityczne intrygi i teorie spiskowe.
+### 42. **RUMOR**: Influence on modern conspiracy theories
+The way Dumas portrayed conspiracies in the power environment may influence how contemporary people perceive political intrigue and conspiracy theories.
 
-## Podsumowanie
+## Summary
 
-Alexandre Dumas i "Trzej muszkieterowie" przedstawiają fascynujący przypadek autora o kontrowersyjnym pochodzeniu i skandalicznym życiu osobistym, który stworzył dzieło pełne ukrytych znaczeń politycznych i społecznych. Chociaż wiele "mrocznych teorii" pozostaje w sferze plotek i spekulacji, udokumentowane fakty o jego życiu, rasowych dyskryminacjach, skandalach finansowych i sporach o autorstwo tworzą wystarczająco dramatyczną historię, która równie dobrze mogłaby pochodzić z jednej z jego powieści przygodowych.
+Alexandre Dumas and "The Three Musketeers" present a fascinating case of an author with controversial origins and scandalous personal life who created a work full of hidden political and social meanings. Although many "dark theories" remain in the realm of rumors and speculation, the documented facts about his life, racial discrimination, financial scandals, and authorship disputes create a sufficiently dramatic story that could well come from one of his adventure novels.
 
-Prawdziwa "mroczna drama" nie leży w okultyzmie czy tajemniczych spisków, ale w społecznych niesprawiedliwościach, z jakimi mierzył się autor mieszanego pochodzenia w XIX-wiecznej Francji, oraz w zawiłych relacjach między twórczością artystyczną a komercjalną eksploatacją w świecie wydawniczym.
+The real "dark drama" lies not in occultism or mysterious conspiracies, but in the social injustices faced by an author of mixed heritage in 19th-century France, and in the complex relationships between artistic creativity and commercial exploitation in the publishing world.
 
 ---
-*Dokument przygotowany w ramach 37degrees Dark Drama Research. Wszystkie informacje zostały oznaczone jako FAKT/ZARZUT/PLOTKA zgodnie z dostępnymi źródłami historycznymi.*
+*Document prepared as part of 37degrees Dark Drama Research. All information has been marked as FACT/ACCUSATION/RUMOR according to available historical sources.*

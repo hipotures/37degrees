@@ -1,315 +1,315 @@
-# Lokalny kontekst kulturowy "Moby Dick" w Polsce - Badania dla polskiej publiczności
+# Local Cultural Context of "Moby Dick" in Poland - Research for Polish Audience
 
-## Wprowadzenie
+## Introduction
 
-"Moby Dick" Hermana Melville'a dotarł do Polski w okresie międzywojennym i od tego czasu stał się jedną z najważniejszych powieści amerykańskich w polskiej kulturze literackiej. Historia polskiej recepcji tej książki jest fascynującą opowieścią o trudnościach tłumaczeniowych, teatralnych adaptacjach oraz kulturowym wpływie, który przekracza granice literatury.
+Herman Melville's "Moby Dick" reached Poland during the interwar period and has since become one of the most important American novels in Polish literary culture. The history of Polish reception of this book is a fascinating story about translation difficulties, theatrical adaptations, and cultural influence that transcends literature boundaries.
 
-## 1. Historia publikacji i tłumaczeń w Polsce
+## 1. Publication History and Translations in Poland
 
-### Pierwsze polskie wydanie (lata międzywojenne)
-- **Pierwszy przekład**: Janina Sujkowska w okresie międzywojennym (1918-1939)
-- **Tytuł pierwszego wydania**: "Bestia morska" - dość sensacyjny tytuł odległy od oryginału
-- **Znaczenie historyczne**: Wprowadził polskich czytelników w świat Melville'a, choć pod zmienioną nazwą
+### First Polish Edition (Interwar Period)
+- **First translation**: Janina Sujkowska during the interwar period (1918-1939)
+- **Title of first edition**: "Bestia morska" (Sea Beast) - a quite sensational title distant from the original
+- **Historical significance**: Introduced Polish readers to Melville's world, though under a changed name
 
-### Kanoniczny przekład Bronisława Zielińskiego
-- **Data publikacji**: 1954, wydawca: Spółdzielnia Wydawnicza "Czytelnik"
-- **Znaczenie**: Jedyny wielokrotnie wznawiany przekład "Moby Dick" w języku polskim
-- **Status**: Uznawany za kanoniczny dla współczesnej literatury polskiej
+### Canonical Translation by Bronisław Zieliński
+- **Publication date**: 1954, publisher: Publishing Cooperative "Czytelnik"
+- **Significance**: The only repeatedly reprinted translation of "Moby Dick" in Polish
+- **Status**: Recognized as canonical for contemporary Polish literature
 
-### Biografia tłumacza i kontekst historyczny
-Bronisław Zieliński miał fascynującą biografię związaną z polską historią:
-- Przed wojną był wykształcony, oczytany, bywał w pałacu w Guzowie koło Sochaczewa
-- Miał wszystkie predyspozycje, by zostać nie tylko tłumaczem, ale i pisarzem
-- W 1947 roku został fałszywie oskarżony o różne przestępstwa, w tym próbę gwałtownego obalenia Rządu RP
-- Torturowany i skazany na sześć lat więzienia, zwolniony w 1950 roku
-- Rozpoczął tłumaczenie "Moby Dick" w 1952 roku - dzieło więzienne przyniosło arcydzieło literackie
+### Translator's Biography and Historical Context
+Bronisław Zieliński had a fascinating biography connected to Polish history:
+- Before the war, he was educated, well-read, and frequented the palace in Guzów near Sochaczew
+- He had all predispositions to become not only a translator but also a writer
+- In 1947, he was falsely accused of various crimes, including attempting violent overthrow of the Polish government
+- Tortured and sentenced to six years in prison, released in 1950
+- Began translating "Moby Dick" in 1952 - prison work produced a literary masterpiece
 
-### Charakterystyka tłumaczenia Zielińskiego
+### Characteristics of Zieliński's Translation
 
-#### Mocne strony:
-- **Praca terminologiczna**: Zieliński wykonał ogromną pracę dotyczącą terminologii żeglarskiej i wielorybnictwa
-- **Słowa tłumacza**: "Poznałem niemal wszystkie szczegóły olinowania statku. Tak, że niemal mógłbym być jego kapitanem"
-- **Spójność stylistyczna**: Tłumaczenie broni się przede wszystkim jako całość stylistycznie spójna
-- **Język**: Sufficiently stylized language to convey 19th-century American English filled with Protestant, Bible-infused rhetoric while remaining communicative
+#### Strengths:
+- **Terminological work**: Zieliński performed enormous work on nautical and whaling terminology
+- **Translator's words**: "I learned almost all details of ship rigging. So much that I could almost be its captain"
+- **Stylistic consistency**: The translation defends itself primarily as a stylistically coherent whole
+- **Language**: Sufficiently stylized language to convey 19th-century American English filled with Protestant, Bible-infused rhetoric while remaining communicative
 
-#### Kontrowersje i krytyka:
-- **Błąd w pierwszym zdaniu**: Wielu krytyków wskazuje na błędne tłumaczenie pierwszego, niezwykle ważnego zdania powieści
-- **Oryginał**: "Call me Ishmael"
-- **Krytyka**: Dorota Kozińska napisała, że Zieliński, tłumacząc pierwsze zdanie powieści Melville'a, "zawalił kompletnie"
-- **Problem systematyczny**: Krytycy zwracają uwagę na inne błędy tłumaczeniowe
+#### Controversies and Criticism:
+- **Error in first sentence**: Many critics point to incorrect translation of the first, extremely important sentence of the novel
+- **Original**: "Call me Ishmael"
+- **Criticism**: Dorota Kozińska wrote that Zieliński, translating the first sentence of Melville's novel, "completely failed"
+- **Systematic problem**: Critics point to other translation errors
 
-## 2. Wydania współczesne i adaptacje edukacyjne
+## 2. Contemporary Editions and Educational Adaptations
 
-### Współczesne wydania (PIW 2018)
-- **Wydawca**: Państwowy Instytut Wydawniczy
-- **Format**: Dwa tomy w twardej oprawie
-- **Tom 1**: 416 stron, Tom 2: 454 strony
-- **Wymiary**: 13 x 20 cm
-- **Tłumacz**: Bronisław Zieliński (wznowienie)
+### Contemporary Editions (PIW 2018)
+- **Publisher**: State Publishing Institute
+- **Format**: Two volumes in hardcover
+- **Volume 1**: 416 pages, Volume 2: 454 pages
+- **Dimensions**: 13 x 20 cm
+- **Translator**: Bronisław Zieliński (reprint)
 
-### Wydania edukacyjne i dwujęzyczne
-- **Adaptacje dla młodzieży**: Przygotowane specjalne wydania dla młodych czytelników
-- **Wydania dwujęzyczne**: Atrakcyjna pomoc dla osób uczących się języka angielskiego
-- **Skrócona wersja**: Istnieje skrócona wersja używająca przedwojennego tłumaczenia, z którego wycięto około 2/3 powieści
+### Educational and Bilingual Editions
+- **Youth adaptations**: Special editions prepared for young readers
+- **Bilingual editions**: Attractive aid for English language learners
+- **Abridged version**: There exists an abridged version using pre-war translation with about 2/3 of the novel cut out
 
-## 3. "Moby Dick" w polskim systemie edukacji
+## 3. "Moby Dick" in Polish Education System
 
-### Status lektury szkolnej
-- **Nie jest lekturą obowiązkową**: "Moby Dick" nie figuruje na liście lektur obowiązkowych dla gimnazjum ani liceum
-- **Lektura dla aspirujących**: Opisywany jako lektura obowiązkowa dla każdego, kto aspiruje do miana oczytanego
-- **Rekomendacje**: Szczególnie polecany nastolatkom w specjalnych wydaniach
+### School Reading Status
+- **Not mandatory reading**: "Moby Dick" does not appear on mandatory reading lists for middle school or high school
+- **Reading for aspirants**: Described as mandatory reading for anyone aspiring to be well-read
+- **Recommendations**: Particularly recommended for teenagers in special editions
 
-### Dostępność edukacyjna
-- **Księgarnie**: Dostępny w działach lektur szkolnych księgarni
-- **Wydania ilustrowane**: Przygotowywane specjalne wydania z ilustracjami dla różnych grup wiekowych
-- **Pomoce naukowe**: Materiały pomocnicze dla uczących się języka angielskiego
+### Educational Availability
+- **Bookstores**: Available in school reading sections of bookstores
+- **Illustrated editions**: Special illustrated editions prepared for different age groups
+- **Study aids**: Auxiliary materials for English language learners
 
-## 4. Polskie adaptacje teatralne i operowe
+## 4. Polish Theatrical and Opera Adaptations
 
-### Opera "Moby Dick" Eugeniusza Knapika (2014)
+### Opera "Moby Dick" by Eugeniusz Knapik (2014)
 
-#### Podstawowe informacje:
-- **Kompozytor**: Eugeniusz Knapik
+#### Basic Information:
+- **Composer**: Eugeniusz Knapik
 - **Libretto**: Krzysztof Koehler
-- **Premiera**: 25 czerwca 2014, Teatr Wielki – Opera Narodowa w Warszawie
-- **Gatunek**: Opera-misterium w czterech aktach
-- **Czas powstania**: 11 lat pracy (ukończona w 2010 roku)
+- **Premiere**: June 25, 2014, Grand Theatre – National Opera in Warsaw
+- **Genre**: Opera-mystery in four acts
+- **Creation time**: 11 years of work (completed in 2010)
 
-#### Koncepcja artystyczna:
-- **Podejście**: Ograniczenie fabuły do minimum, skupienie na wymiarze symboliczno-filozoficzno-religijnym
-- **Inspiracje**: Oprócz Melville'a, fragmenty innych tekstów Starego Testamentu oraz "Raju utraconego" Miltona
-- **Cel**: Traktowanie jako przypowieści o odwiecznym buncie człowieka i jego starciu z Bogiem
+#### Artistic Concept:
+- **Approach**: Limiting plot to minimum, focusing on symbolic-philosophical-religious dimension
+- **Inspirations**: Besides Melville, fragments of other Old Testament texts and Milton's "Paradise Lost"
+- **Goal**: Treatment as parable about eternal human rebellion and confrontation with God
 
-#### Recepcja muzyczna:
-- **Styl**: Potężna muzyka, głęboko zakorzeniona w tradycji
-- **Wpływy**: Słychać Brittena, ale także Wagnera, Szymanowskiego i Lutosławskiego
-- **Cytaty**: Dwa cytaty z "Już się zmierzcha" Wacława z Szamotuł - hołd dla nauczyciela Knapika, Henryka Mikołaja Góreckiego
-- **Ocena**: Uznana za spójną i brzmiącą znakomicie
+#### Musical Reception:
+- **Style**: Powerful music, deeply rooted in tradition
+- **Influences**: Britten can be heard, but also Wagner, Szymanowski, and Lutosławski
+- **Quotations**: Two quotations from "Już się zmierzcha" by Wacław of Szamotuły - tribute to Knapik's teacher, Henryk Mikołaj Górecki
+- **Assessment**: Recognized as coherent and excellently sounding
 
-#### Obsada i realizacja:
-- **Reżyseria**: Barbara Wysocka
-- **Dyrygent**: Gabriel Chmura (wyróżniony za doskonałe prowadzenie)
-- **Scenografia**: Barbara Hanicka
-- **Kostiumy**: Julia Kornacka
-- **Choreografia**: Jacek Przybyłowicz
+#### Cast and Production:
+- **Direction**: Barbara Wysocka
+- **Conductor**: Gabriel Chmura (distinguished for excellent conducting)
+- **Set design**: Barbara Hanicka
+- **Costumes**: Julia Kornacka
+- **Choreography**: Jacek Przybyłowicz
 
-#### Główne role:
-- **Chór**: Przygotowany przez Bogdana Golę, odgrywa główną rolę w spektaklu
+#### Main Roles:
+- **Choir**: Prepared by Bogdan Gola, plays main role in the performance
 - **Hagar**: Agnieszka Rehlis
 - **Starbuck**: Mateusz Zajdel
-- **Ojciec Mapple**: Wojciech Śmiłek
+- **Father Mapple**: Wojciech Śmiłek
 
-### Teatr Pantomimy we Wrocławiu (2023)
+### Pantomime Theatre in Wrocław (2023)
 
-#### Szczegóły spektaklu:
-- **Reżyser**: Jakub Zalasa
-- **Miejsce**: Wrocławski Teatr Pantomimy
-- **Premiera**: 31 stycznia w Centrum Sztuk Performatywnych Piekarnia Instytutu Grotowskiego
-- **Koncepcja**: "Szalona adaptacja klasycznej powieści Hermana Melville'a, zakotwiczona w temacie relacji międzygatunkowych"
+#### Performance Details:
+- **Director**: Jakub Zalasa
+- **Venue**: Wrocław Pantomime Theatre
+- **Premiere**: January 31 at Performance Arts Center Piekarnia of Grotowski Institute
+- **Concept**: "Mad adaptation of Herman Melville's classic novel, anchored in interspecies relations theme"
 
-#### Forma artystyczna:
-- **Tradycja**: Oparta na długiej tradycji pantomimy i unikalnym języku wrocławskiego zespołu
-- **Połączenie**: Współczesny język teatru dramatycznego z żywą muzyką
-- **Cel**: Przestrzeń do refleksji nad szeroko pojętym "ludzkim stanem" i hymn życia
+#### Artistic Form:
+- **Tradition**: Based on long pantomime tradition and unique language of Wrocław ensemble
+- **Combination**: Contemporary dramatic theatre language with live music
+- **Goal**: Space for reflection on broadly understood "human condition" and hymn to life
 
-### Teatr Dramatyczny w Wałbrzychu
-- **Tytuł**: "MOBY DICK, czyli koniec demokracji w państwie wielorybów"
-- **Reżyseria**: Maciej Podstawny
-- **Tekst**: Jarosław Murawski
-- **Inspiracja**: Swobodna inspiracja "Moby Dick" Melville'a
+### Dramatic Theatre in Wałbrzych
+- **Title**: "MOBY DICK, or the End of Democracy in the Whale State"
+- **Direction**: Maciej Podstawny
+- **Text**: Jarosław Murawski
+- **Inspiration**: Free inspiration from Melville's "Moby Dick"
 
-## 5. Cytaty i przysłowia w polskiej kulturze
+## 5. Quotations and Proverbs in Polish Culture
 
-### Najsłynniejsze cytaty w polskim tłumaczeniu:
+### Most Famous Quotations in Polish Translation:
 
-#### "Lepiej spać z trzeźwym kanibalem niż z pijanym chrześcijaninem"
-- **Kontekst**: Najczęściej cytowany fragment w polskiej kulturze
-- **Użycie**: Często przytaczany jako przykład mądrości życiowej i krytyki obłudy
+#### "Better to sleep with a sober cannibal than a drunk Christian"
+- **Context**: Most frequently quoted fragment in Polish culture
+- **Usage**: Often cited as example of life wisdom and criticism of hypocrisy
 
-#### "Na tym świecie, najmilsi, Grzech, któren płaci za drogę, może podróżować swobodnie i bez paszportu, ale Cnotę, jeśli jest uboga, na każdej zatrzymają granicy"
-- **Znaczenie**: Komentarz społeczny o niesprawiedliwości świata
-- **Popularność**: Cytowany w kontekstach społeczno-politycznych
+#### "In this world, dearest ones, Sin that pays for the journey can travel freely without passport, but Virtue, if poor, will be stopped at every border"
+- **Meaning**: Social commentary on world injustice
+- **Popularity**: Quoted in socio-political contexts
 
-#### "Istnieje mądrość, która jest nieszczęściem, ale istnieje też nieszczęście, które jest obłędem"
-- **Kontekst**: Filozoficzny wymiar obsesji i poszukiwania prawdy
-- **Zastosowanie**: Używany w dyskusjach o granicach poznania
+#### "There is wisdom that is misery, but there is also misery that is madness"
+- **Context**: Philosophical dimension of obsession and truth seeking
+- **Application**: Used in discussions about limits of knowledge
 
-### Symbolika białego wieloryba w polskiej kulturze
+### White Whale Symbolism in Polish Culture
 
-#### Metafora "białego wieloryba":
-- **Znaczenie**: Obsesyjne poszukiwanie czegoś nieuchwytnego
-- **Zastosowanie**: Używane w opisach niemożliwych do osiągnięcia celów
-- **Kontekst biznesowy**: "Biały wieloryb" w biznesie oznacza trudnych do zdobycia klientów
-- **Psychologia**: Symbol destrukcyjnej obsesji w polskiej psychologii i terapii
+#### "White Whale" Metaphor:
+- **Meaning**: Obsessive pursuit of something elusive
+- **Application**: Used to describe impossible-to-achieve goals
+- **Business context**: "White whale" in business means difficult-to-acquire clients
+- **Psychology**: Symbol of destructive obsession in Polish psychology and therapy
 
-## 6. Związek ze Starbucks - nieoczywista polska historia
+## 6. Connection with Starbucks - Unexpected Polish History
 
-### Pochodzenie nazwy Starbucks
-- **Źródło**: Nazwa pochodzi od pierwszego oficera Starbucka z "Moby Dick"
-- **Pierwotny plan**: Założyciele chcieli nazwać sieć "Pequod", ale ostatecznie wybrali imię pierwszego oficera
-- **Modyfikacja**: Dodali "s" na końcu
-- **Znaczenie**: Prawdopodobnie najczęstsze nawiązanie do "Moby Dick" we współczesnej kulturze
+### Origin of Starbucks Name
+- **Source**: Name comes from first officer Starbuck from "Moby Dick"
+- **Original plan**: Founders wanted to name the chain "Pequod" but ultimately chose the first officer's name
+- **Modification**: Added "s" at the end
+- **Significance**: Probably the most frequent reference to "Moby Dick" in contemporary culture
 
-### Starbucks w Polsce
-- **Debiut**: Dekadę temu Starbucks zadebiutował w Polsce, otwierając kawiarnię na warszawskim Nowym Świecie
-- **Obecność**: Obecnie nad Wisłą działa ponad 70 lokali pod szyldem mitologicznej syreny
-- **Symbolika**: Morskie nawiązanie w logotypie wiąże się z historią dostarczania kawy statkami
-- **Polscy klienci**: Wielu Polaków nie zdaje sobie sprawy z literackiego pochodzenia nazwy swojej ulubionej kawiarni
+### Starbucks in Poland
+- **Debut**: A decade ago Starbucks debuted in Poland, opening a café on Warsaw's Nowy Świat
+- **Presence**: Currently over 70 locations operate under the mythological siren sign
+- **Symbolism**: Marine reference in logo connects with history of coffee delivery by ships
+- **Polish customers**: Many Poles are unaware of their favorite café's literary origin
 
-## 7. Polscy badacze i akademicy
+## 7. Polish Researchers and Academics
 
-### Współcześni polscy melvilliści
+### Contemporary Polish Melvillians
 
-#### Dr hab. Mikołaj Wiśniewski
-- **Rola**: Autor posłowia do nowego wydania "Moby Dick"
-- **Praca**: Przygotował wnikliwy i syntetyczny tekst o historii recepcji dzieła
-- **Analiza**: Śledzi smutną historię początkowo niedocenianej recepcji dzieła
-- **Badania**: Przegląd najważniejszych strategii interpretacyjnych krytyków od XX wieku
+#### Dr. hab. Mikołaj Wiśniewski
+- **Role**: Author of afterword to new "Moby Dick" edition
+- **Work**: Prepared insightful and synthetic text about work's reception history
+- **Analysis**: Tracks sad history of initially underappreciated work reception
+- **Research**: Review of most important interpretive strategies of critics since 20th century
 
 #### Prof. Adam Lipszyc
-- **Działalność**: Uczestniczył w spotkaniu promocyjnym nowego wydania "Moby Dick"
-- **Specjalizacja**: Badania nad literaturą amerykańską i filozofią
+- **Activity**: Participated in promotional meeting for new "Moby Dick" edition
+- **Specialization**: Research on American literature and philosophy
 
 #### Krzysztof Koehler
-- **Podwójna rola**: Poeta i literaturoznawca
-- **Wkład**: Współpraca jako librecista adaptacji operowej z kompozytorem Eugeniuszem Knapikiem
-- **Znaczenie**: Przykład interdyscyplinarnego zainteresowania akademickiego dziełem Melville'a
+- **Dual role**: Poet and literary scholar
+- **Contribution**: Collaboration as librettist of opera adaptation with composer Eugeniusz Knapik
+- **Significance**: Example of interdisciplinary academic interest in Melville's work
 
 #### Paweł Jędrzejko
-- **Publikacja**: "Moby-Dick 'źle obecny' w odbiorze czytelniczym"
-- **Tematyka**: Analiza problemów recepcji i interpretacji powieści Melville'a
-- **Problem**: Współcześni czytelnicy często muszą uciekać się do "instrukcji obsługi" tekstu
+- **Publication**: "Moby-Dick 'badly present' in reader reception"
+- **Subject**: Analysis of reception and interpretation problems of Melville's novel
+- **Problem**: Contemporary readers often must resort to text "instruction manuals"
 
-### Melville Studies w Polsce
-- **Status**: Historia zaciekłego, szalonego pościgu po świecie za białym wielorybem otrzymała tyle interpretacji, że stała się jedną z najobszerniejszych gałęzi amerykanistyki (Melville studies)
-- **Uniwersytety**: Powieść jest jedną z najczęściej wykładanych powieści amerykańskich na uniwersytetach na całym świecie, wpływając na pokolenia polskich studentów literatury
-- **Prace naukowe**: Dzieło stało się przedmiotem tysięcy prac naukowych, dysertacji i książek akademickich
+### Melville Studies in Poland
+- **Status**: The story of fierce, mad pursuit around the world for white whale has received so many interpretations that it became one of the most extensive branches of American studies (Melville studies)
+- **Universities**: The novel is one of the most frequently taught American novels at universities worldwide, influencing generations of Polish literature students
+- **Academic works**: The work became subject of thousands of academic papers, dissertations, and academic books
 
-## 8. Filmowe adaptacje dostępne w Polsce
+## 8. Film Adaptations Available in Poland
 
-### Klasyczne adaptacje kinowe
-- **1956 - John Huston**: Z Gregory'm Peckiem jako Ahabem, dostępna na polskich platformach streamingowych
-- **1998 - Serial TV**: Patrick Stewart jako Ahab, Henry Thomas jako Ismael
-- **2010 - Adaptacja telewizyjna**: Współczesna wersja z motywami revenge
-- **2011 - Miniserial**: Charlie Cox (Ismael) i William Hurt (Ahab)
+### Classic Cinema Adaptations
+- **1956 - John Huston**: With Gregory Peck as Ahab, available on Polish streaming platforms
+- **1998 - TV Series**: Patrick Stewart as Ahab, Henry Thomas as Ishmael
+- **2010 - TV Adaptation**: Contemporary version with revenge motifs
+- **2011 - Miniseries**: Charlie Cox (Ishmael) and William Hurt (Ahab)
 
-### Dostępność na polskich platformach
-Filmy dostępne na:
+### Availability on Polish Platforms
+Films available on:
 - Netflix, Max, CANAL+, Disney+
-- Canal+ Premiery, Player, TVP VOD
+- Canal+ Premieres, Player, TVP VOD
 - Amazon Prime Video, SkyShowtime
 - POLSAT BOX GO
 
-### "W samym sercu morza" (2015)
-- **Reżyser**: Ron Howard
-- **Premiera w Polsce**: 4 grudnia 2015
-- **Tematyka**: Prawdziwa historia katastrofy statku Essex, która zainspirowała Melville'a do napisania "Moby Dick"
-- **Znaczenie**: Pozwoliła polskiej publiczności poznać historyczne tło powieści
+### "In the Heart of the Sea" (2015)
+- **Director**: Ron Howard
+- **Polish premiere**: December 4, 2015
+- **Subject**: True story of Essex ship disaster that inspired Melville to write "Moby Dick"
+- **Significance**: Allowed Polish audience to learn historical background of the novel
 
-## 9. Współczesne nawiązania w polskiej kulturze popularnej
+## 9. Contemporary References in Polish Popular Culture
 
-### Internet i media społecznościowe
-- **Memy**: Symbol białego wieloryba funkcjonuje jako mem w polskim internecie
-- **Obsesja**: Tematy "Moby Dick" znajdują odzwierciedlenie w kulturze mediów społecznościowych
-- **Metafora**: Ludzie obsesyjnie śledzą "białe wieloryby" w postaci viralowych treści
+### Internet and Social Media
+- **Memes**: White whale symbol functions as meme in Polish internet
+- **Obsession**: "Moby Dick" themes find reflection in social media culture
+- **Metaphor**: People obsessively track "white whales" in form of viral content
 
-### Kultura biznesowa
-- **"Biały wieloryb" w biznesie**: Termin używany w polskim środowisku biznesowym
-- **Znaczenie**: Trudni do zdobycia klienci lub kontrakty, które firmy obsesyjnie próbują pozyskać
-- **Marketing**: Pojęcie zaadaptowane przez polskie firmy konsultingowe i agencje reklamowe
+### Business Culture
+- **"White whale" in business**: Term used in Polish business environment
+- **Meaning**: Difficult-to-acquire clients or contracts that companies obsessively try to obtain
+- **Marketing**: Concept adapted by Polish consulting firms and advertising agencies
 
-## 10. Lokalne różnice w interpretacji i odbiorze
+## 10. Local Differences in Interpretation and Reception
 
-### Polskie vs. amerykańskie interpretacje
+### Polish vs. American Interpretations
 
-#### Kontekst historyczny:
-- **Doświadczenie totalizmu**: Polscy czytelnicy po 1989 roku mogli lepiej rozumieć tematykę obsesji i władzy absolutnej
-- **Katolicyzm**: Protestanckie nawiązania biblijne w powieści interpretowane przez pryzmat polskiej tradycji katolickiej
-- **Historia morska**: Polska tradycja żeglarska (Gdańsk, Szczecin) pozwalała na lepsze zrozumienie terminologii morskiej
+#### Historical Context:
+- **Totalitarian experience**: Polish readers after 1989 could better understand themes of obsession and absolute power
+- **Catholicism**: Protestant biblical references in novel interpreted through Polish Catholic tradition
+- **Maritime history**: Polish nautical tradition (Gdańsk, Szczecin) allowed better understanding of maritime terminology
 
-#### Specyfika kulturowa:
-- **Romantyzm polski**: Tematyka obsesji i bohaterów tragicznych rezonowała z polskim romantyzmem
-- **Mesjanizm**: Postać Ahaba interpretowana przez pryzmat polskich mesjanistycznych tradycji
-- **Bunt przeciw losowi**: Charakterystyczny dla polskiej mentalności motyw walki z nieuchronnością
+#### Cultural Specificity:
+- **Polish Romanticism**: Themes of obsession and tragic heroes resonated with Polish Romanticism
+- **Messianism**: Ahab's figure interpreted through Polish messianic traditions
+- **Rebellion against fate**: Characteristic Polish mentality motif of fighting inevitability
 
-### Problemy tłumaczeniowe specyficzne dla polszczyzny
+### Translation Problems Specific to Polish
 
-#### Terminologia żeglarska:
-- **Wyzwanie**: Przekład specjalistycznej terminologii morskiej na język polski
-- **Rozwiązanie Zielińskiego**: Dogłębne studium żeglarstwa i wielorybnictwa
-- **Efekt**: Wprowadzenie do polszczyzny nowych terminów związanych z morzem
+#### Nautical Terminology:
+- **Challenge**: Translation of specialized maritime terminology into Polish
+- **Zieliński's solution**: In-depth study of sailing and whaling
+- **Effect**: Introduction of new sea-related terms into Polish
 
-#### Biblijne nawiązania:
-- **Problem**: Protestanckie cytaty biblijne w katolickim kontekście
-- **Rozwiązanie**: Adaptacja do polskiej tradycji biblijnej
-- **Efekt**: Czesściowa zmiana odbioru religijnych aspektów powieści
+#### Biblical References:
+- **Problem**: Protestant biblical quotations in Catholic context
+- **Solution**: Adaptation to Polish biblical tradition
+- **Effect**: Partial change in reception of novel's religious aspects
 
-## 11. Regionalne związki - Kraków i Małopolska
+## 11. Regional Connections - Kraków and Lesser Poland
 
-### Akademickie zainteresowanie
-- **Uniwersytet Jagielloński**: "Moby Dick" wykładany na studiach amerykanistycznych
-- **Krakowscy amerykaniści**: Wkład w polskie badania nad literaturą amerykańską
-- **Konferencje naukowe**: Regularne konferencje poświęcone literaturze amerykańskiej
+### Academic Interest
+- **Jagiellonian University**: "Moby Dick" taught in American studies
+- **Kraków Americanists**: Contribution to Polish research on American literature
+- **Academic conferences**: Regular conferences devoted to American literature
 
-### Teatry krakowskie
-- **Potencjał adaptacji**: Bogate środowisko teatralne Krakowa mogłoby zainteresować się adaptacjami
-- **Teatr Słowackiego**: Tradycja adaptacji klasyki światowej
-- **Teatr STU**: Eksperymentalne podejścia do klasyki
+### Kraków Theatres
+- **Adaptation potential**: Rich theatrical environment of Kraków could interest in adaptations
+- **Słowacki Theatre**: Tradition of world classic adaptations
+- **STU Theatre**: Experimental approaches to classics
 
-### Czytelnicze zainteresowanie
-- **Księgarnie krakowskie**: "Moby Dick" regularnie dostępny w krakowskich księgarniach
-- **Kluby książki**: Okresowe omawianie dzieła w krakowskich klubach czytelniczych
-- **Uczenie się angielskiego**: Popularne wydania dwujęzyczne dla osób uczących się języka
+### Reading Interest
+- **Kraków bookstores**: "Moby Dick" regularly available in Kraków bookstores
+- **Book clubs**: Periodic discussion of work in Kraków reading clubs
+- **English learning**: Popular bilingual editions for language learners
 
-## 12. Porównanie z innymi krajami europejskimi
+## 12. Comparison with Other European Countries
 
-### Niemcy
-- **Podobieństwa**: Podobne problemy z tłumaczeniem terminologii morskiej
-- **Różnice**: Silniejsza tradycja adaptacji teatralnych
+### Germany
+- **Similarities**: Similar problems with maritime terminology translation
+- **Differences**: Stronger tradition of theatrical adaptations
 
-### Francja
-- **Tłumaczenia**: Wielokrotne próby nowych tłumaczeń
-- **Recepcja**: Większe zainteresowanie akademickie od początku XX wieku
+### France
+- **Translations**: Multiple attempts at new translations
+- **Reception**: Greater academic interest since early 20th century
 
-### Włochy
-- **Opera**: Tradycja adaptacji operowych podobna do polskiej
-- **Cinema**: Więcej filmowych adaptacji i inspiracji
+### Italy
+- **Opera**: Opera adaptation tradition similar to Polish
+- **Cinema**: More film adaptations and inspirations
 
-## 13. Współczesne wyzwania i możliwości
+## 13. Contemporary Challenges and Opportunities
 
-### Potrzeba nowego tłumaczenia
-- **Krytyka Zielińskiego**: Rosnąca świadomość błędów w kanonicznym tłumaczeniu
-- **Zapotrzebowanie**: Oczekiwania na nowe, dokładniejsze tłumaczenie
-- **Wyzwanie**: Znalezienie tłumacza z odpowiednimi kompetencjami
+### Need for New Translation
+- **Criticism of Zieliński**: Growing awareness of errors in canonical translation
+- **Demand**: Expectations for new, more accurate translation
+- **Challenge**: Finding translator with appropriate competencies
 
-### Cyfryzacja i nowe media
-- **E-booki**: Rosnąca popularność cyfrowych wydań
-- **Audiobooki**: Potencjał dla polskich nagrań audiobooków
-- **Aplikacje edukacyjne**: Możliwości wykorzystania w nauczaniu języka angielskiego
+### Digitization and New Media
+- **E-books**: Growing popularity of digital editions
+- **Audiobooks**: Potential for Polish audiobook recordings
+- **Educational apps**: Possibilities for use in English language teaching
 
-### TikTok i młoda publiczność
-- **Potencjał**: Tematy obsesji i poszukiwania idealnych celów rezonują z młodzieżą
-- **Format**: Fragmenty i cytaty nadają się do krótkich formatów video
-- **Wyzwanie**: Skomplikowanie narracji vs. potrzeba uproszczenia dla social media
+### TikTok and Young Audience
+- **Potential**: Themes of obsession and pursuit of perfect goals resonate with youth
+- **Format**: Fragments and quotations suitable for short video formats
+- **Challenge**: Narrative complexity vs. need for social media simplification
 
-## Wnioski
+## Conclusions
 
-"Moby Dick" w Polsce to fascynująca historia kulturowej adaptacji, która pokazuje, jak wielkie dzieło literatury światowej może być reinterpretowane przez pryzmat lokalnej kultury i historii. Od pierwszego wydania pod tytułem "Bestia morska" w latach międzywojennych, przez kanoniczne tłumaczenie więźnia politycznego Bronisława Zielińskiego, po współczesne operowe i teatralne adaptacje - książka ta stała się nieodłączną częścią polskiego krajobrazu kulturowego.
+"Moby Dick" in Poland is a fascinating story of cultural adaptation that shows how a great work of world literature can be reinterpreted through the lens of local culture and history. From the first edition titled "Sea Beast" in the interwar years, through the canonical translation by political prisoner Bronisław Zieliński, to contemporary opera and theatrical adaptations - this book has become an integral part of Polish cultural landscape.
 
-### Kluczowe obserwacje:
+### Key Observations:
 
-1. **Tłumaczenie jako dzieło historyczne**: Praca Zielińskiego powstała w szczególnych okolicznościach politycznych i osobistych, co może wpływać na jej odbiór
+1. **Translation as historical work**: Zieliński's work arose in particular political and personal circumstances, which may influence its reception
 
-2. **Brak w szkole, ale obecność w kulturze**: Chociaż nie jest lekturą obowiązkową, "Moby Dick" funkcjonuje w polskiej kulturze na wielu poziomach
+2. **Absent from school but present in culture**: Although not mandatory reading, "Moby Dick" functions in Polish culture on many levels
 
-3. **Starbucks jako nieoczywisty ambasador**: Największa popularyzacja motywów z książki przyszła przez globalną markę kawiarni
+3. **Starbucks as unexpected ambassador**: Greatest popularization of book motifs came through global café brand
 
-4. **Potencjał artystyczny**: Polskie adaptacje teatralne i operowe pokazują żywotność dzieła w nowych formach
+4. **Artistic potential**: Polish theatrical and opera adaptations show work's vitality in new forms
 
-5. **Potrzeba odświeżenia**: Krytyka tłumaczenia Zielińskiego wskazuje na potrzebę nowego spojrzenia na tekst
+5. **Need for renewal**: Criticism of Zieliński's translation indicates need for new approach to text
 
-Dla polskich czytelników "Moby Dick" pozostaje dziełem uniwersalnym, ale jednocześnie głęboko zakorzenionym w lokalnych kontekstach interpretacyjnych. Historia jego recepcji w Polsce pokazuje, jak literatura może być mostem między kulturami, ale też jak różne tradycje kulturowe mogą wpływać na rozumienie uniwersalnych tematów.
+For Polish readers, "Moby Dick" remains a universal work, but simultaneously deeply rooted in local interpretive contexts. The history of its reception in Poland shows how literature can be a bridge between cultures, but also how different cultural traditions can influence understanding of universal themes.
 
 ---
 
-*Dokument przygotowany na podstawie badań przeprowadzonych w sierpniu 2025 roku, z uwzględnieniem polskich źródeł akademickich, teatralnych, kulturowych i medialnych.*
+*Document prepared based on research conducted in August 2025, including Polish academic, theatrical, cultural, and media sources.*

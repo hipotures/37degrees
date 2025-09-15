@@ -1,263 +1,255 @@
-# HRABIA MONTE CHRISTO - Historia Powstania i Fascynujące Fakty
+# THE COUNT OF MONTE CRISTO - Creation History and Fascinating Facts
 
-*Badanie przeprowadzone dla polskiej młodzieży - zbiór faktów, anegdot i statystyk o powstaniu arcydzieła Alexandre'a Dumasa*
+*Research conducted for youth audiences - collection of facts, anecdotes and statistics about Alexandre Dumas' masterpiece*
 
-## I. PRAWDZIWA HISTORIA INSPIRACJI
+## I. THE TRUE INSPIRATION STORY
 
-### **FAKT**: Pierre Picaud - Prawdziwy Hrabia Monte Christo
-W 1807 roku Pierre Picaud, szewc z Nîmes, został fałszywie oskarżony przez zazdrosnego przyjaciela Mathieu Loupiana o szpiegostwo na rzecz Anglii. Picaud miał poślubić bogatą i piękną Marguerite Vigoroux, ale Loupian chciał ją dla siebie.
+### **FACT**: Pierre Picaud - The Real Count of Monte Cristo
+In 1807, Pierre Picaud, a shoemaker from Nîmes, was falsely accused by jealous friend Mathieu Loupian of spying for England. Picaud was set to marry wealthy and beautiful Marguerite Vigoroux, but Loupian wanted her for himself.
 
-### **FAKT**: Siedem Lat Więzienia w Alpach
-Picaud spędził 7 lat w twierdzy Fenestrelle w Alpach (obecnie w Piemoncie, Włochy). Dowiedział się o powodzie aresztowania dopiero w drugim roku uwięzienia.
+### **FACT**: Seven Years in Alpine Prison
+Picaud spent 7 years in the Fenestrelle fortress in the Alps (now in Piedmont, Italy). He only learned the reason for his arrest in his second year of imprisonment.
 
-### **FAKT**: Umierający Kapłan i Skarb
-W więzieniu Picaud przekopał przejście do sąsiedniej celi, gdzie poznał włoskiego kapłana - Ojca Torri. Przed śmiercią kapłan przekazał mu lokalizację skarbu ukrytego w Mediolanie.
+### **FACT**: The Dying Priest and Hidden Treasure
+In prison, Picaud dug a passage to a neighboring cell and befriended Italian priest Father Torri. Before dying, the priest revealed the location of treasure hidden in Milan.
 
-### **FAKT**: 10 Lat Zemsty
-Po uwolnieniu w 1814 roku Picaud wrócił do Paryża pod fałszywym nazwiskiem i spędził 10 lat na planowaniu zemsty. Systematycznie wyniszczył życie wszystkich zdrajców.
+### **FACT**: Ten Years of Methodical Revenge
+After his release in 1814, Picaud returned to Paris under a false name and spent 10 years systematically planning revenge against all his betrayers.
 
-### **FAKT**: Brutalna Zemsta w Rzeczywistości
-Prawdziwa zemsta Picauda była bardziej brutalna niż u Dumasa:
-- Zamordował Chaubarta lub zlecił jego morderstwo
-- Manipulując, ożenił córkę Loupiana z kryminalistą, który został aresztowany - córka zmarła z szoku
-- Spalił restaurację Loupiana, pozostawiając go w nędzy
-- Otruł Solari i wrobił syna Loupiana w kradzież, po czym zadźgał samego Loupiana
+### **FACT**: Reality Was More Brutal Than Fiction
+Picaud's real revenge was more brutal than Dumas' version:
+- He murdered Chaubart or arranged his assassination
+- He manipulated Loupian's daughter into marrying a criminal who was arrested - she died of shock
+- He burned down Loupian's restaurant, leaving him destitute
+- He poisoned Solari and framed Loupian's son for theft, then stabbed Loupian himself
 
-## II. DRAMATYCZNA BIOGRAFIA ALEXANDRA DUMASA
+### **RUMOR**: The Story Might Be Fictional
+Some scholars suspect Pierre Picaud's story was invented by police archivist Jacques Peuchet to romanticize police records, but this only enhances Dumas' genius in transforming it into a masterpiece.
 
-### **FAKT**: Ojciec - Pierwszy Czarny Generał Napoleona
-Thomas-Alexandre Dumas (1762-1806) był synem francuskiego szlachcica i niewolnicy z Haiti. W wieku 31 lat dowodził 53 000 żołnierzy jako generał armii alpejskiej - pierwszy człowiek afrykańskiego pochodzenia na tak wysokim stanowisku.
+## II. ALEXANDRE DUMAS' DRAMATIC BIOGRAPHY
 
-### **FAKT**: "Czarny Diabeł" - Przezwisko od Austriaków
-Austriaccy żołnierze nazywali ojca Dumasa "Schwarzer Teufel" (Czarny Diabeł), a Francuzi "Horacjuszem Koklesem z Tyrolu" po tym, jak w 1797 roku sam pokonał szwadron wroga na moście.
+### **FACT**: Father - Napoleon's First Black General
+Thomas-Alexandre Dumas (1762-1806) was the son of a French nobleman and a Haitian slave. At age 31, he commanded 53,000 soldiers as general of the Alpine army - the first person of African descent at such a high position.
 
-### **FAKT**: Konflikt z Napoleonem i Więzienie
-Po kłótni z Napoleonem podczas marszu z Aleksandrii do Kairu, Thomas-Alexandre został uwięziony w Neapolu w 1799 roku. Spędził 2 lata w strasznych warunkach - wyszedł częściowo sparaliżowany, niewidomy na jedno oko i głuchy na jedno ucho.
+### **FACT**: "Black Devil" - Nickname from Austrian Enemies
+Austrian soldiers called Dumas' father "Schwarzer Teufel" (Black Devil), while the French called him "Horatius Cocles of Tyrol" after he single-handedly defeated an enemy squadron on a bridge in 1797.
 
-### **FAKT**: Rasizm Napoleona
-Napoleon celowo usunął Thomasa-Alexandre'a z oficjalnego obrazu zdobycia Wielkiego Meczetu w Kairze, zastępując go blondynem białym mężczyzną. Odmówił mu też pełnej emerytury i członkostwa w Legii Honorowej.
+### **FACT**: Conflict with Napoleon and Imprisonment
+After arguing with Napoleon during the march from Alexandria to Cairo, Thomas-Alexandre was imprisoned in Naples in 1799. He spent 2 years in terrible conditions - emerging partially paralyzed, blind in one eye, and deaf in one ear.
 
-### **FAKT**: Wczesna Śmierć Ojca
-Thomas-Alexandre zmarł w 1806 roku na raka żołądka, mając 43 lata. Alexandre Dumas miał wtedy zaledwie 4 lata.
+### **FACT**: Napoleon's Racism
+Napoleon deliberately removed Thomas-Alexandre from the official painting of the Great Mosque conquest in Cairo, replacing him with a blonde white man. He also denied him full pension and Legion of Honor membership.
 
-## III. PROCES TWÓRCZY I PISARSKI
+### **FACT**: Father's Early Death
+Thomas-Alexandre died in 1806 of stomach cancer at age 43. Alexandre Dumas was only 4 years old and plunged into poverty.
 
-### **FAKT**: Literacka Fabryka Dumasa
-Alexandre Dumas pisał średnio 16 000 słów tygodniowo przez 4 dekady - to około 2300 słów dziennie! Czasami pisał przez 16 godzin dziennie.
+## III. THE WRITING PROCESS AND LITERARY FACTORY
 
-### **FAKT**: Kolorowy System Pisania
-Przez lata Dumas pisał wyłącznie na kolorowym papierze: fikcję na niebieskim, poezję na żółtym, artykuły na różowym.
+### **FACT**: Dumas' Literary Output Factory
+Alexandre Dumas wrote an average of 16,000 words weekly for 4 decades - about 2,300 words daily! Sometimes he wrote for 16 hours straight.
 
-### **FAKT**: 650 Książek w Karierze
-Przez całą karierę Dumas napisał około 650 książek, co dało łącznie 100 000 stron tekstu - około 37 milionów słów!
+### **FACT**: Color-Coded Writing System
+For years, Dumas wrote exclusively on colored paper: fiction on blue, poetry on yellow, articles on pink.
 
-### **FAKT**: Cenna Każda Minuta
-Dumas mawiał: "Moje minuty są cenne jak złoto. Kiedy zakładam buty, kosztuje mnie to 500 franków."
+### **FACT**: 650 Books in Career
+Throughout his career, Dumas wrote approximately 650 books, totaling 100,000 pages - about 37 million words!
 
-### **FAKT**: 4000 Głównych Bohaterów
-W swoich dziełach Dumas stworzył około 4000 głównych postaci, 9000 drugoplanowych i 25 000 epizodycznych ról.
+### **FACT**: Every Minute Worth Gold
+Dumas famously said: "My minutes are precious as gold. When I put on my shoes, it costs me 500 francs."
 
-## IV. KONTROWERSYJNA WSPÓŁPRACA Z AUGUSTE'EM MAQUET
+### **FACT**: 4,000 Main Characters Created
+In his works, Dumas created approximately 4,000 main characters, 9,000 supporting characters, and 25,000 minor roles.
 
-### **FAKT**: Spotkanie przez Gerarda de Nervala
-Auguste Maquet poznał Dumasa w 1838 roku za pośrednictwem Gerarda de Nervala, który poprosił Dumasa o przepisanie sztuki Maqueta i wydanie pod swoim nazwiskiem.
+## IV. CONTROVERSIAL COLLABORATION WITH AUGUSTE MAQUET
 
-### **FAKT**: Podział Pracy
-Maquet badał historię, szkicował fabuły i postaci, podczas gdy Dumas pisał dialogi, wypełniał wydarzenia i dodawał kolorowy język. To była prawdziwa "literacka fabryka".
+### **FACT**: Meeting Through Gérard de Nerval
+Auguste Maquet met Dumas in 1838 through Gérard de Nerval, who asked Dumas to rewrite Maquet's play and publish it under his own name.
 
-### **FAKT**: Sądowa Batalia o Autorstwo
-W 1851 roku współpraca się skończyła. Maquet pozwał Dumasa, domagając się współautorstwa i tantiem, ale sąd orzekł na korzyść Dumasa.
+### **FACT**: Division of Labor
+Maquet researched history, sketched plots and characters, while Dumas wrote dialogue, filled in events, and added colorful language. It was a true "literary factory."
 
-### **FAKT**: Test Pamięciowy
-Podczas procesu sądowego, gdy zaginął odcinek "Le Vicomte de Bragelonne", Maquet został wezwany do redakcji, by przepisać tekst z pamięci. Porównanie pokazało, że Dumas zmienił tylko 30 słów na 500 linijek!
+### **FACT**: Court Battle Over Authorship
+In 1851, their collaboration ended. Maquet sued Dumas demanding co-authorship and royalties, but the court ruled in favor of Dumas.
 
-### **PLOTKA**: Wzajemna Zależność
-Eksperci twierdzą, że po rozstaniu w 1851 roku ani Dumas ani Maquet nie napisali już nic równie genialnego - potrzebowali siebie nawzajem.
+### **FACT**: Memory Test
+During the lawsuit, when an episode of "Le Vicomte de Bragelonne" went missing, Maquet was called to the editorial office to rewrite the text from memory. Comparison showed Dumas had only changed 30 words out of 500 lines!
 
-### **FAKT**: 16 Dni na Pierwsze Cztery Tomy
-W Trouville, w domku rybaka, Dumas i Maquet napisali pierwsze cztery tomy "Monte Christo" w zaledwie 16 dni - to średnio tom co cztery dni!
+### **RUMOR**: Mutual Dependency
+Experts believe that after their 1851 split, neither Dumas nor Maquet wrote anything equally brilliant - they needed each other.
 
-### **FAKT**: Błąd w Tytule Pierwszych Wydań
-Pierwsze wydania od 1844 do początków lat 1850-tych zawierały błąd ortograficzny w tytule - "Monte Christo" zamiast poprawnego "Monte Cristo". Dopiero wydanie L'Écho des Feuilletons z 1846 roku poprawiło ten błąd.
+### **FACT**: 16 Days for First Four Volumes
+In Trouville, in a fisherman's cottage, Dumas and Maquet wrote the first four volumes of "Monte Cristo" in just 16 days - one volume every four days!
 
-### **FAKT**: Wszystkie Rękopisy Napisane Ręcznie przez Dumasa
-Pomimo współpracy z Maquetem, wszystkie rękopisy "Monte Christo" zostały napisane ręcznie przez samego Dumasa. Maquet dostarczał tylko szkice i pomysły.
+### **FACT**: Title Spelling Error in Early Editions
+First editions from 1844 to early 1850s contained a spelling error in the title - "Monte Christo" instead of correct "Monte Cristo." Only the L'Écho des Feuilletons edition from 1846 corrected this error.
 
-## V. REWOLUCJA W PUBLIKACJI PRASOWEJ
+### **FACT**: All Manuscripts Handwritten by Dumas
+Despite collaboration with Maquet, all "Monte Cristo" manuscripts were handwritten by Dumas himself. Maquet only provided sketches and ideas.
 
-### **FAKT**: 18 Odcinków w Półtora Roku
-"Hrabia Monte Christo" ukazywał się w "Journal des Débats" od 28 sierpnia 1844 do 15 stycznia 1846 roku w 18 częściach.
+## V. REVOLUTION IN NEWSPAPER PUBLISHING
 
-### **FAKT**: Społeczny Fenomen Czytania
-Efekt serializacji był porównywany do dzisiejszych hitowych seriali Netflix. Ludzie rozmawiali o kolejnych odcinkach przy śniadaniu, w pracy i na ulicy.
+### **FACT**: 18 Episodes Over a Year and a Half
+"The Count of Monte Cristo" appeared in "Journal des Débats" from August 28, 1844 to January 15, 1846 in 18 parts.
 
-### **FAKT**: Najczęściej Czytana Książka Europy
-George Saintsbury pisał: "Monte Christo była przy pierwszym ukazaniu się i przez długi czas potem najpopularniejszą książką w Europie. Być może żadna powieść w danej liczbie lat nie miała tylu czytelników."
+### **FACT**: Social Reading Phenomenon
+The serialization effect was compared to today's hit Netflix series. People discussed each episode at breakfast, work, and on the street.
 
-### **FAKT**: Historyczna Reakcja Czytelnika
-Jeden z pierwszych czytelników był tak poruszony fabułą, że obudził żonę w środku nocy krzycząc: "Edmond Dantès uciekł z Château d'If!" - stając się prawdopodobnie pierwszym spoilerem w historii literatury!
+### **FACT**: Europe's Most Read Book
+George Saintsbury wrote: "Monte Cristo was at its first appearance and for long afterward the most popular book in Europe. Perhaps no novel within a given number of years had so many readers."
 
-### **FAKT**: Społeczny Fenomen Bez Precedensu
-Karlos Javier Villafane Mercado opisał efekt serialu: "To było jak dzisiejsze wciągające seriale telewizyjne. Dzień za dniem, przy śniadaniu, w pracy czy na ulicy, ludzie nie rozmawiali właściwie o niczym innym."
+### **FACT**: Historic Reader Reaction
+One early reader was so moved by the plot that he woke his wife in the middle of the night shouting: "Edmond Dantès has escaped from Château d'If!" - probably becoming the first spoiler in literary history!
 
-### **FAKT**: Pierwsze Wydanie w 15 Tomach
-Pierwsi czytelnicy musieli kupować książkę tom po tomie przez cały rok! Pierwsze wydanie z 1845-46 składało się z 15 tomów oprawionych w 7.
+### **FACT**: Unprecedented Social Phenomenon
+Karlos Javier Villafane Mercado described the serial's effect: "It was like today's addictive TV series. Day after day, at breakfast, work, or on the street, people talked about virtually nothing else."
 
-### **FAKT**: Natychmiastowe Tłumaczenia
-Już w 1846 roku ukazało się angielskie tłumaczenie Chapman and Hall oraz ilustrowana wersja w "London Journal".
+### **FACT**: First Edition in 15 Volumes
+Early readers had to buy the book volume by volume throughout the year! The first 1845-46 edition consisted of 15 volumes bound in 7.
 
-## VI. NIEZNANE FAKTY I ANEGDOTY
+### **FACT**: Immediate Translations
+By 1846, Chapman and Hall's English translation appeared, as well as an illustrated version in "London Journal."
 
-### **FAKT**: Château d'If - Przypadkowa Zmiana
-Dumas pierwotnie nie planował umieścić akcji w Château d'If. Podczas podróży do Marsylii odwiedził twierdzę i był tak zafascynowany jej ponurym wyglądem, że przepisał fragmenty książki!
+## VI. UNKNOWN FACTS AND ANECDOTES
 
-### **FAKT**: Prawdziwe Więzienie Śmierci
-Żywotność więźniów w Château d'If wynosiła średnio tylko 9 miesięcy z powodu strasznych warunków - przeludnienie, brak higieny i wilgoć.
+### **FACT**: Château d'If - Accidental Setting Change
+Dumas originally didn't plan to set the action in Château d'If. During a trip to Marseille, he visited the fortress and was so fascinated by its grim appearance that he rewrote parts of the book!
 
-### **FAKT**: 3500 Hugenotów
-Przez Château d'If przewinęło się ponad 3500 hugenotów (francuskich kalwinistów) oraz Gaston Crémieux, przywódca Komuny Paryskiej, rozstrzelany tam w 1871 roku.
+### **FACT**: Real Prison of Death
+Prisoner survival rate at Château d'If averaged only 9 months due to terrible conditions - overcrowding, lack of hygiene, and dampness.
 
-### **FAKT**: Nikt Nigdy Nie Uciekł
-W rzeczywistości nikt nigdy nie uciekł z Château d'If - Edmond Dantès był pierwszą i jedyną osobą, która dokonała tego w... fikcji!
+### **FACT**: 3,500 Huguenots Imprisoned
+Over 3,500 Huguenots (French Calvinists) passed through Château d'If, as well as Gaston Crémieux, leader of the Paris Commune, executed there in 1871.
 
-### **FAKT**: Strażnicy Wykopali Tunel dla Turystów
-Kiedy Château d'If zostało otwarte dla turystów, strażnicy sami wykopali słynny tunel łączący cele Dantèsa i opata Farii, żeby podtrzymać marzenia odwiedzających!
+### **FACT**: No One Ever Actually Escaped
+In reality, no one ever escaped from Château d'If - Edmond Dantès was the first and only person to accomplish this... in fiction!
 
-### **FAKT**: Inspiracja z Opowieści Ojca
-Pomysł na Château d'If pochodził z opowieści ojca Dumasa o tej twierdzy, które słyszał w dzieciństwie.
+### **FACT**: Guards Dug Tourist Tunnel
+When Château d'If opened to tourists, guards themselves dug the famous tunnel connecting Dantès' and Abbé Faria's cells to maintain visitors' dreams!
 
-### **FAKT**: Równoległe Pisanie Trzech Muszkieterów
-W 1844 roku Dumas jednocześnie publikował "Trzech muszkieterów" i zaczynał "Monte Christo" - miał czasem 3-4 powieści w realizacji jednocześnie!
+### **FACT**: Inspiration from Father's Stories
+The idea for Château d'If came from his father's stories about the fortress that he heard in childhood.
 
-### **FAKT**: Podróż z Księciem Napoleonem
-Kluczowa inspiracja przyszła podczas podróży z księciem Napoleonem (synem Jérôme Bonaparte) do Włoch. Po zwiedzeniu wyspy Elba, odwiedzili pobliską wyspę Monte Cristo - to był ostatni element układanki dla Dumasa!
+### **FACT**: Simultaneous Writing of Three Musketeers
+In 1844, Dumas simultaneously published "The Three Musketeers" and began "Monte Cristo" - he sometimes had 3-4 novels in progress at once!
 
-### **FAKT**: Mark Twain jako Turystyczny Pionier
-Mark Twain odwiedził Château d'If w lipcu 1867 roku i opisał swoją wizytę w "The Innocents Abroad", stając się jednym z pierwszych literackich turystów inspirowanych powieścią.
+### **FACT**: Journey with Prince Napoleon
+Key inspiration came during a trip with Prince Napoleon (son of Jérôme Bonaparte) to Italy. After visiting Elba island, they toured nearby Monte Cristo island - the final piece of Dumas' puzzle!
 
-### **FAKT**: Incognito Dumas w Château d'If
-Kiedy Dumas wrócił do Château d'If jako sławny już pisarz, poszedł incognito. Dozorca opowiedział mu historię... jego własnego bohatera, nie wiedząc, że rozmawia z autorem!
+### **FACT**: Mark Twain as Literary Tourist Pioneer
+Mark Twain visited Château d'If in July 1867 and described his visit in "The Innocents Abroad," becoming one of the first literary tourists inspired by the novel.
 
-### **FAKT**: Teatralna Adaptacja Przez Samego Dumasa
-Krótko po wydaniu książki Dumas sam zaadaptował powieść na scenę teatralną.
+### **FACT**: Dumas Incognito at Château d'If
+When Dumas returned to Château d'If as a famous writer, he went incognito. The keeper told him the story of... his own hero, not knowing he was talking to the author!
 
-### **PLOTKA**: Pierre Picaud - Wymysł Pisarza Kryminalnego?
-Większość ekspertów podejrzewa, że historia Pierre'a Picauda mogła być wymysłem pisarza kryminalnego Jacques'a Peucheta, ale to tylko wzmacnia geniusz Dumasa w przekształceniu jej w arcydzieło.
+### **FACT**: Theatrical Adaptation by Dumas Himself
+Shortly after the book's publication, Dumas adapted the novel for theater himself.
 
-## VII. LICZBY I REKORDY
+## VII. NUMBERS AND RECORDS
 
-### **FAKT**: 37 Milionów Słów w Karierze
-Kompletne wydanie dzieł Dumasa (Calmann-Lévy) zawiera około 37 milionów słów.
+### **FACT**: 37 Million Words in Career
+The complete Calmann-Lévy edition of Dumas' works contains approximately 37 million words.
 
-### **FAKT**: 15 Tytułów Rocznie
-Dumas publikował średnio 15 książek rocznie przez większość swojej kariery.
+### **FACT**: 15 Titles Per Year
+Dumas published an average of 15 books annually throughout most of his career.
 
-### **FAKT**: 500 Franków za Założenie Butów
-Dumas wyliczał, że każda minuta jego życia była warta 500 franków - astronomiczną sumę w XIX wieku.
+### **FACT**: 500 Francs for Putting on Shoes
+Dumas calculated that every minute of his life was worth 500 francs - an astronomical sum in the 19th century.
 
-### **FAKT**: 2300 Słów Dziennie przez 40 Lat
-Średnia dzienna produktywność Dumasa przez 4 dekady wynosiła 2300 słów - więcej niż większość współczesnych pisarzy w najlepszych dniach.
+### **FACT**: 2,300 Words Daily for 40 Years
+Dumas' average daily productivity over 4 decades was 2,300 words - more than most contemporary writers on their best days.
 
-### **FAKT**: Najdłuższa Powieść Dumasa
-"Monte Christo" nie było najdłuższą powieścią Dumasa - "Le Vicomte de Bragelonne" (część cyklu Muszkieterów) ma ponad 2000 stron!
+### **FACT**: Not Dumas' Longest Novel
+"Monte Cristo" wasn't Dumas' longest novel - "Le Vicomte de Bragelonne" (part of the Musketeers cycle) has over 2,000 pages!
 
-## VIII. POLSKI KONTEKST
+## VIII. GLOBAL IMPACT AND ADAPTATIONS
 
-### **FAKT**: "Hrabia Monte Christo" w Polsce
-Polska wersja nosi tytuł "Hrabia Monte Christo" i została wydana przez Wydawnictwo Dolnośląskie w 2006 roku w trzech tomach.
+### **FACT**: 34+ Film Adaptations
+The novel has been adapted for film at least 34 times, making it one of the most frequently adapted novels in cinema history.
 
-### **FAKT**: Polskie Tłumaczenia Zachowują Oryginalne Imiona
-Polskie wydania zachowują oryginalne francuskie imiona jak "Edmund Dantès", co podkreśla szacunek do oryginalnego tekstu.
+### **FACT**: 2024 Adaptation - Box Office Phenomenon
+The French 2024 adaptation sold over 9 million tickets in France and earned $100 million globally, becoming the second most-watched film of the year in France.
 
-## IX. WSPÓŁCZESNE ADAPTACJE I REKORDY
+### **FACT**: Record Rotten Tomatoes Scores
+The 2024 adaptation achieved 98% critics' score and 91% audience score on Rotten Tomatoes - the highest ratings in the novel's adaptation history.
 
-### **FAKT**: 29 Adaptacji Filmowych
-Powieść została zaadaptowana na film co najmniej 29 razy, czyniąc ją jedną z najczęściej adaptowanych powieści w historii kina.
+### **FACT**: 22 Chinese Translations
+In China alone, 22 different translations have been created, with the 1978 translation becoming one of the first mass-popular foreign novels after the Cultural Revolution ended.
 
-### **FAKT**: Adaptacja 2024 - Fenomen Box Office
-Francuska adaptacja z 2024 roku sprzedała ponad 9 milionów biletów we Francji, stając się drugim najchętniej oglądanym filmem roku. Na całym świecie zarobiła 100 milionów dolarów.
+### **FACT**: Japanese "Gankutsu-ou"
+In Japan, the novel is known as "Gankutsu-ou" (King of Caves) - a title still used interchangeably with the original.
 
-### **FAKT**: Rekordowe Oceny na Rotten Tomatoes
-Adaptacja z 2024 roku osiągnęła 98% wśród krytyków i 91% wśród widzów na Rotten Tomatoes - najwyższe oceny w historii adaptacji tej powieści.
+### **FACT**: 100,000 Annual Tourists
+Château d'If attracts approximately 100,000 tourists annually, with the vast majority visiting because of Dumas' novel.
 
-### **FAKT**: 22 Tłumaczenia Chińskie
-W samych Chinach powstało 22 różne tłumaczenia powieści, przy czym tłumaczenie z 1978 roku stało się jedną z pierwszych masowo popularnych zagranicznych powieści po zakończeniu Rewolucji Kulturalnej.
+## IX. CULTURAL INFLUENCE
 
-### **FAKT**: Japońska "Gankutsu-ou"
-W Japonii powieść znana jest jako "Gankutsu-ou" (Król Jaskiń) - tytuł, który do dziś używany jest zamiennie z oryginalnym.
+### **FACT**: Prototype of Modern Bestseller
+"Monte Cristo" was the first novel to create a social reading phenomenon comparable to today's viral trends.
 
-### **FAKT**: 100,000 Turystów Rocznie
-Château d'If przyciąga około 100,000 turystów rocznie, a zdecydowana większość przyjeżdża tam właśnie z powodu powieści Dumasa.
+### **FACT**: Template for Modern Thrillers
+The revenge structure from "Monte Cristo" became the template for thousands of later thrillers and action films.
 
-## X. WPŁYW NA KULTURĘ MASOWĄ
+### **RUMOR**: Influence on Psychology of Revenge
+Some psychologists claim "Monte Cristo syndrome" is a real psychological phenomenon where people plan elaborate revenge fantasies.
 
-### **FAKT**: Prototype Nowoczesnego Bestsellera
-"Monte Christo" było pierwszą powieścią, która stworzyła społeczny fenomen czytania porównywalny z dzisiejszymi viral trendami.
+## X. ADDITIONAL FASCINATING FACTS
 
-### **FAKT**: Inspiracja dla Współczesnych Thrillerów
-Struktura zemsty z "Monte Christo" stała się szablonem dla tysięcy późniejszych thrillerów i filmów akcji.
+### **FACT**: Count de Mirabeau - Most Famous Real Prisoner
+Before Dumas, the most famous Château d'If prisoner was Count de Mirabeau, imprisoned at his own father's request for libertinage. His story originally attracted tourists.
 
-### **PLOTKA**: Wpływ na Psychologię Zemsty
-Niektórzy psychologowie twierdzą, że "syndrom Monte Christo" to rzeczywisty fenomen psychologiczny, gdzie ludzie planują elaborate revenge fantasies.
+### **FACT**: Man in Iron Mask - False Legend
+A plaque at Château d'If claims the Man in the Iron Mask was imprisoned there, but this is just legend - this famous prisoner was never held there.
 
-## XI. DODATKOWE FASCYNUJĄCE FAKTY
+### **FACT**: 1720 Plague Captain
+Jean Baptiste Chateau, the ship captain who brought the great plague to Marseille in 1720, was imprisoned in Château d'If - a real story as dramatic as Dumas' fiction.
 
-### **FAKT**: Comte de Mirabeau - Najsłynniejszy Prawdziwy Więzień
-Przed Dumasem najsłynniejszym więźniem Château d'If był hrabia de Mirabeau, uwięziony na żądanie własnego ojca za libertynizm. To jego historia pierwotnie przyciągała turystów.
+### **FACT**: Impenetrable Prison System
+Dangerous sea currents around the island made Château d'If as impregnable as Alcatraz - escape was virtually impossible.
 
-### **FAKT**: Człowiek w Żelaznej Masce - Fałszywa Legenda
-Na Château d'If jest tablica twierdząca, że więziono tam Człowieka w Żelaznej Masce, ale to tylko legenda - ten słynny więzień nigdy tam nie przebywał.
+### **FACT**: Demilitarization in 1890
+Château d'If stopped serving as a prison in the late 19th century and opened to the public on September 23, 1890.
 
-### **FAKT**: Zaraza z 1720 roku
-Jean Baptiste Chateau, kapitan statku, który przywiózł wielką zarazę do Marsylii w 1720 roku, był uwięziony w Château d'If - prawdziwa historia równie dramatyczna jak fikcja Dumasa.
+### **FACT**: 40 Lovers Throughout Life
+Scholars established that Dumas had 40 lovers throughout his life, making him one of the most entertaining writers of his era.
 
-### **FAKT**: Niezawodny System Więzienny
-Niebezpieczne prądy morskie wokół wyspy czyniły Château d'If tak samo nieprzeniknioną twierdzą jak Alcatraz - ucieczka była praktycznie niemożliwa.
+### **FACT**: Project Gutenberg Recognizes Co-Authorship
+Today, Project Gutenberg officially lists both Alexandre Dumas and Auguste Maquet as co-authors, though Google and other sources still list only Dumas.
 
-### **FAKT**: Demilitaryzacja w 1890 roku
-Château d'If przestało służyć jako więzienie pod koniec XIX wieku i zostało otwarte dla publiczności 23 września 1890 roku.
+## XI. FUN FACTS FOR DIGITAL GENERATION
 
-### **FAKT**: 40 Kochanek Dumasa
-Naukowcy ustalili, że Dumas miał w sumie 40 kochanek przez całe życie, co czyniło go jednym z najbardziej rozrywkowych pisarzy swojej epoki.
+### **FACT**: 19th Century Influencer
+Dumas was one of the first writer-celebrities - his private life was as interesting as his books.
 
-### **FAKT**: Project Gutenberg Uznaje Współautorstwo
-Współcześnie Project Gutenberg wymienia już oficjalnie zarówno Alexandre'a Dumasa jak i Auguste'a Maqueta jako współautorów, chociaż Google i inne źródła nadal podają tylko Dumasa.
+### **FACT**: Multitasking Master
+Dumas was a multitasking master - he wrote between handling business and meals, maximizing every minute.
 
-## XII. CIEKAWOSTKI DLA GEN Z
+### **FACT**: Content Creator Avant La Lettre
+With 650 books in his portfolio, Dumas produced more content than most contemporary YouTubers in their entire lives!
 
-### **FAKT**: 19-wieczny Influencer
-Dumas był jednym z pierwszych pisarzy-celebrity - jego życie prywatne było równie interesujące jak jego książki.
+### **FACT**: Monte Cristo Everywhere
+The name "Monte Cristo" lives on today in famous gold mine names, luxury Cuban cigars, Monte Cristo sandwiches, and countless bars and casinos worldwide.
 
-### **FAKT**: Multitasking Master
-Dumas był mistrzem multitaskingu - pisał między załatwianiem spraw i posiłkami, maksymalizując każdą minutę.
+### **FACT**: First Unofficial Tourism
+Though Château d'If officially opened to the public in 1880, the first unofficial tourists began arriving 40 years earlier when Dumas' novel appeared.
 
-### **FAKT**: Content Creator Avant La Lettre
-Z 650 książkami w portfolio, Dumas wyprodukował więcej contentu niż większość współczesnych YouTuberów przez całe życie!
-
-### **FAKT**: Monte Cristo Everywhere
-Nazwa "Monte Cristo" żyje dziś w nazwie słynnej kopalni złota, luksusowych cygar kubańskich, kanapki Monte Cristo i niezliczonej liczby barów i kasyn na całym świecie.
-
-### **FAKT**: Pierwsze Nieoficjalne Zwiedzanie
-Chociaż Château d'If oficjalnie otwarto dla publiczności w 1880 roku, pierwsi nieoficjalni turyści zaczęli przybywać już 40 lat wcześniej, gdy ukazała się powieść Dumasa.
-
-### **FAKT**: "Three-Card Monte" Connection
-Nawet nazwa ulicznego oszustwa "three-card monte" prawdopodobnie pochodzi od sławy powieści Dumasa - monte jako skrót od Monte Cristo oznaczający sprytny, elaborny plan.
+### **FACT**: "Three-Card Monte" Connection
+Even the name of the street scam "three-card monte" probably comes from the novel's fame - monte as short for Monte Cristo meaning a clever, elaborate plan.
 
 ---
 
-**PODSUMOWANIE STATYSTYK:**
-- **Okres powstania:** 1844-1846 (2 lata)
-- **Długość serialu:** 18 odcinków przez 17 miesięcy (28 sierpnia 1844 - 15 stycznia 1846)
-- **Słowa:** Około 464 000 słów (1000+ stron)
-- **Czas pisania Dumasa:** Około 200 dni roboczych
-- **Pierwsze wydanie książkowe:** 18 tomów przez wydawnictwo Pétion (1844-1845)
-- **Adaptacje filmowe:** Minimum 29 wersji
-- **Turyści w Château d'If:** 100,000 rocznie
-- **Adaptacja 2024:** 9 milionów widzów we Francji, 100 mln $ globalnie
-- **Tłumaczenia chińskie:** 22 różne wersje
-- **Błąd w tytule:** Poprawiony dopiero w 1846 roku
-- **Inspiracja:** Historia Pierre'a Picauda z 1807 roku (prawdopodobnie fikcyjna)
-- **Współautor:** Auguste Maquet (wszystkie rękopisy ręką Dumasa)
-- **Pierwsza ucieczka z Château d'If:** Tylko w fikcji Dumasa!
+**SUMMARY STATISTICS:**
+- **Creation period:** 1844-1846 (2 years)
+- **Serial length:** 18 episodes over 17 months (August 28, 1844 - January 15, 1846)
+- **Words:** Approximately 464,000 words (1000+ pages)
+- **Dumas writing time:** About 200 working days
+- **First book edition:** 18 volumes by Pétion publisher (1844-1845)
+- **Film adaptations:** Minimum 34 versions
+- **Château d'If tourists:** 100,000 annually
+- **2024 adaptation:** 9 million viewers in France, $100M globally
+- **Chinese translations:** 22 different versions
+- **Title error:** Corrected only in 1846
+- **Inspiration:** Pierre Picaud's story from 1807 (probably fictional)
+- **Co-author:** Auguste Maquet (all manuscripts in Dumas' hand)
+- **First escape from Château d'If:** Only in Dumas' fiction!
 
-*Ten dokument zawiera 65+ faktów i anegdot zebrane z wiarygodnych źródeł historycznych, biograficznych i literackich. Materiał przygotowany specjalnie dla polskiej młodzieży jako podstawa do tworzenia angażujących treści o klasycznej literaturze.*
+*This document contains 65+ facts and anecdotes gathered from reliable historical, biographical, and literary sources. Material prepared specifically for youth audiences as a foundation for creating engaging content about classic literature.*

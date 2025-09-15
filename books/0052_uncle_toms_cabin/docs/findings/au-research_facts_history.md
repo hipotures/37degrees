@@ -1,129 +1,139 @@
-# Badanie Faktów i Historii: "Chata wuja Toma"
+# Research Facts and History: "Uncle Tom's Cabin"
 
-## Historia powstania książki - dlaczego i jak została napisana
+## Book Creation Story - Why and How It Was Written
 
-**FAKT**: Harriet Beecher Stowe miała wizję w kościele w marcu 1851 roku podczas nabożeństwa komunijnego w First Parish Church w Brunswick, Maine. Zobaczyła scenerię śmierci pobożnego czarnoskórego mężczyzny z rąk białego właściciela, co stało się bezpośrednią inspiracją do napisania "Chaty wuja Toma".
+**FACT**: Harriet Beecher Stowe had a divine vision during a Sunday communion service in March 1851 at First Parish Church in Brunswick, Maine. She envisioned the death scene of a pious black man at the hands of a white master, which became the foundation for Uncle Tom's character and death.
 
-**FAKT**: Prawdziwym katalizatorem napisania książki była uchwalona w 1850 roku ustawa o zbiegłych niewolnikach (Fugitive Slave Act), która nakazywała mieszkańcom północy zwracać uciekających niewolników. Stowe była tym oburzona i czuła się zmuszona do działania poprzez pisanie.
+**FACT**: The direct catalyst for writing the book was the Fugitive Slave Act of 1850, which required Northern citizens to return escaped slaves. Stowe was outraged by this law and felt compelled to act through writing.
 
-**FAKT**: John Andrew Jackson, zbiegły niewolnik z Południowej Karoliny, ukrywał się w domu Stowe w Brunswick, Maine, około 1851 roku. Opowiedział jej swoją historię, pokazał blizny na plecach i otrzymał od niej 5 dolarów, jedzenie oraz ubranie. Kilka tygodni po tym spotkaniu Stowe zaczęła pisać "Chatę wuja Toma".
+**FACT**: John Andrew Jackson, a fugitive slave from South Carolina, sought refuge at Stowe's home in Brunswick, Maine, around 1851. He told her his story, showed scars on his back, and received $5, food, and clothing from her. A few weeks after this encounter, Stowe began writing "Uncle Tom's Cabin."
 
-**FAKT**: Śmierć 18-miesięcznego syna Stowe, Samuela Charlesa, na cholerę w 1849 roku była kluczową inspiracją emocjonalną. Stowe później mówiła, że ta utrata pomogła jej zrozumieć ból matek-niewolnic, którym sprzedawano dzieci.
+**FACT**: The death of Stowe's 18-month-old son, Samuel Charles, from cholera in 1849 was a crucial emotional inspiration. Stowe later said this loss helped her understand the pain of slave mothers whose children were sold away from them.
 
-## Proces twórczy i warunki pisania
+## Creative Process and Writing Conditions
 
-**FAKT**: Stowe pisała "Chatę wuja Toma" w domu w Brunswick, Maine, podczas gdy jej mąż Calvin Stowe wykładał teologię w pobliskim Bowdoin College. Regularnie zapraszała studentów college'u i przyjaciół do czytania i omawiania rozdziałów przed publikacją.
+**FACT**: Stowe wrote "Uncle Tom's Cabin" in her home in Brunswick, Maine, while her husband Calvin Stowe taught theology at nearby Bowdoin College. She regularly invited college students and friends to read and discuss chapters before publication.
 
-**FAKT**: Stowe pisała wśród "domowego bałaganu i hałasu" w salonie, podczas gdy jej mąż miał zarezerwowany spokojny gabinet do swoich studiów. Musiała pogodzić pisanie z opieką nad sześciorgiem dzieci.
+**FACT**: Future Civil War general Joshua Chamberlain, then a Bowdoin College student, described these gatherings: "a chosen circle of friends, mostly young, were favored with the freedom of her house, the rallying point being the reading before publication of the successive chapters."
 
-**FAKT**: Książka miała pierwotnie być krótkim opowiadaniem na 3-4 odcinki dla gazety "The National Era", ale rozrosła się do 40-tygodniowej serii, publikowanej od 5 czerwca 1851 do 1 kwietnia 1852 roku.
+**FACT**: Stowe wrote amid "domestic bustle and noise" in the living room while her husband had a quiet study reserved for his work. She had to balance writing with caring for six children.
 
-**FAKT**: Za serię w "The National Era" Stowe otrzymała 300 dolarów (około 400 według innych źródeł), co było znaczącą sumą dla rodziny borykającej się z problemami finansowymi.
+**FACT**: The book was originally intended as a short story for 3-4 installments in "The National Era" newspaper but expanded into a 40-week serial, published from June 5, 1851, to April 1, 1852.
 
-## Publikacja i pierwsze reakcje
+**FACT**: For the newspaper serialization, Stowe was paid $400 (approximately $300 according to some sources), which was a significant sum for a family struggling with financial problems.
 
-**FAKT**: Wydawnictwo Phillips, Sampson, and Company w Bostonie odrzuciło pierwszą propozycję publikacji książki, obawiając się, że jej treści przeciwko niewolnictwu zrażą rynek południowy.
+## Publication and First Reactions
 
-**FAKT**: John P. Jewett zdecydował się na publikację książki, zachęcony przez swoją żonę. Kontrakt został podpisany 13 marca 1852 roku, zaledwie tydzień przed publikacją.
+**FACT**: Phillips, Sampson, and Company in Boston initially rejected the book proposal, fearing its anti-slavery content would alienate the Southern market.
 
-**FAKT**: Pierwszego dnia sprzedaży (20 marca 1852) sprzedano 3,000 egzemplarzy. W pierwszym tygodniu sprzedano 10,000, w pierwszym miesiącu 15,000, a do końca czerwca 100,000 kopii.
+**FACT**: John P. Jewett decided to publish the book, encouraged by his wife. The contract was signed on March 13, 1852, just one week before publication.
 
-**FAKT**: W pierwszym roku sprzedano 300,000 egzemplarzy w USA i ponad 1,5 miliona w Wielkiej Brytanii. To była największa sprzedaż powieści w XIX wieku po Biblii.
+**FACT**: On the first day of sales (March 20, 1852), 3,000 copies were sold. In the first week, 10,000 copies sold; in the first month, 15,000; and by the end of June, 100,000 copies.
 
-## Statystyki i rekordy światowe
+**FACT**: In the first year, 300,000 copies were sold in the USA and over 1.5 million in Great Britain. This was the largest novel sales in the 19th century after the Bible.
 
-**FAKT**: Do 1857 roku książka została przetłumaczona na 20 języków. Według wydania z 1879 roku istniały już tłumaczenia na 37 języków.
+## Global Statistics and Records
 
-**FAKT**: Obecnie "Chata wuja Toma" jest przetłumaczona na ponad 70 języków i jest ciągle publikowana po 160 latach od pierwszego wydania.
+**FACT**: By 1857, the book had been translated into 20 languages. According to the 1879 edition, translations existed in 37 languages.
 
-**FAKT**: Tylko w 1852 roku ukazały się 14 niemieckie wydania, a w 1853 roku - 17 francuskich i 6 portugalskich.
+**FACT**: Currently, "Uncle Tom's Cabin" has been translated into over 70 languages and continues to be published 170+ years after its first edition.
 
-**FAKT**: Pierwszym amerykańskim tłumaczeniem na język chiński była właśnie "Chata wuja Toma" w 1901 roku, przetłumaczona przez Lin Shu.
+**FACT**: In 1852 alone, 14 German editions appeared, and in 1853, there were 17 French and 6 Portuguese editions.
 
-## Międzynarodowy wpływ i reakcje
+**FACT**: The first American novel translated into Chinese was "Uncle Tom's Cabin" in 1901, translated by Lin Shu.
 
-**FAKT**: Królowa Wiktoria posiadała pierwsze wydanie "Chaty wuja Toma" - egzemplarz został pokazany prezydentowi Obamie podczas jego wizyty w Pałacu Buckingham w 2011 roku.
+## International Impact and Celebrity Reactions
 
-**FAKT**: Charles Dickens napisał do Stowe: "Przeczytałem Pani książkę z najgłębszym zainteresowaniem i współczuciem i podziwiam bardziej niż mogę to wyrazić zarówno szlachetne uczucia, które ją zainspirowały, jak i wspaniałą siłę, z jaką została wykonana."
+**FACT**: Queen Victoria owned a first edition of "Uncle Tom's Cabin" - the copy was shown to President Obama during his visit to Buckingham Palace in 2011.
 
-**FAKT**: Thomas Babington Macaulay napisał w 1852: "To najcenniejszy dodatek, jaki Ameryka wniosła do literatury angielskiej."
+**FACT**: Charles Dickens wrote to Stowe: "I have read your book with the deepest interest and sympathy and admire more than I can express both the noble feelings which inspired it and the admirable power with which it is executed."
 
-**FAKT**: Henry Wadsworth Longfellow zapisał w swoim dzienniku 24 lutego 1853: "Jak ona wstrząsa światem swoją Chatą wuja Toma! Jednym krokiem dotarła na szczyt schodów, po których reszta z nas wspina się na kolanach rok po roku."
+**FACT**: Thomas Babington Macaulay wrote in 1852: "It is the most valuable addition that America has made to English literature."
 
-## Ciekawostki i anegdoty z procesu twórczego
+**FACT**: Henry Wadsworth Longfellow recorded in his diary on February 24, 1853: "How she is shaking the world with her Uncle Tom's Cabin! At one step she has reached the top of the staircase up which the rest of us climb on our knees year after year."
 
-**FAKT**: W 1888 roku, w wieku 77 lat, cierpiąca na demencję Stowe zaczęła przepisywać "Chatę wuja Toma" od nowa, wyobrażając sobie, że pisze ją po raz pierwszy. Przez kilka godzin dziennie przepisywała fragmenty książki niemal słowo w słowo.
+## Fascinating Anecdotes from the Creative Process
 
-**FAKT**: Stowe regularnie organizowała spotkania w swoim domu, gdzie czytała kolejne rozdziały przed publikacją. Joshua Chamberlain wspominał: "wybrany krąg przyjaciół, głównie młodych, był faworyzowany swobodą jej domu, punktem zbiorczym było jednak czytanie przed publikacją kolejnych rozdziałów Chaty wuja Toma."
+**FACT**: In 1888, at age 77, suffering from dementia, Stowe began rewriting "Uncle Tom's Cabin" from scratch, imagining she was writing it for the first time. For several hours daily, she rewrote passages almost word for word.
 
-**FAKT**: Abraham Lincoln rzekomo powiedział do Stowe podczas spotkania w Białym Domu w 1862: "Więc to jest ta mała kobieta, która napisała książkę, która rozpoczęła tę wielką wojnę." Choć cytat jest apokryficzny (pojawił się drukiem dopiero w 1896), odzwierciedla powszechną wiarę w wpływ książki na wojnę secesyjną.
+**FACT**: Stowe regularly held readings in her home where she would read successive chapters before publication. Joshua Chamberlain recalled these gatherings as pivotal moments in the book's development.
 
-## Problemy z prawami autorskimi i piractwem
+**FACT**: Abraham Lincoln allegedly said to Stowe during their 1862 White House meeting: "So you're the little woman who wrote the book that made this great war." Though the quote is apocryphal (first appearing in print in 1896), it reflects widespread belief in the book's impact on the Civil War.
 
-**FAKT**: Stowe straciła fortunę z powodu braku międzynarodowych praw autorskich. W Wielkiej Brytanii z 1,5 miliona sprzedanych egzemplarzy "większość to były nielegalne kopie".
+## Copyright Problems and Piracy
 
-**FAKT**: Sąd orzekł, że tłumaczenie nie jest kopią oryginału i nie narusza praw autorskich, co oznaczało, że zagraniczne tłumaczenia mogły być produkowane bez pozwolenia lub zapłaty autorce.
+**FACT**: Stowe lost a fortune due to lack of international copyright laws. In Great Britain, of the 1.5 million copies sold, "the majority were pirated copies."
 
-**FAKT**: W 1852 powstało 14 niemieckich wydań, a w 1853 - 17 francuskich i 6 portugalskich, prawdopodobnie bez żadnych tantiem dla Stowe.
+**FACT**: Courts ruled that translation was not copying the original and didn't violate copyright, meaning foreign translations could be produced without permission or payment to the author.
 
-**FAKT**: Stowe odnowiła prawa autorskie w 1879 roku, a książka weszła do domeny publicznej 12 maja 1893 roku.
+**FACT**: In 1852, 14 German editions appeared, and in 1853, 17 French and 6 Portuguese editions were published, likely without any royalties to Stowe.
 
-## Adaptacje teatralne bez kontroli autorki
+**FACT**: Stowe renewed her copyright in 1879, and the book entered public domain on May 12, 1893.
 
-**FAKT**: Adaptacje teatralne "Chaty wuja Toma" - zwane "Tom Shows" - zaczęły powstawać jeszcze zanim książka została wydana w formie książkowej, bo już podczas publikacji seryjnej.
+## Theatrical Adaptations Without Author Control
 
-**FAKT**: Do początku XX wieku ponad 400 oddzielnych kompanii teatralnych podróżowało i wystawiało jakąś wersję teatralną tej historii.
+**FACT**: Stage adaptations of "Uncle Tom's Cabin" - called "Tom Shows" - began appearing even before the book was published in book form, during the serial publication.
 
-**FAKT**: Prawo autorskie przed 1856 rokiem nie dawało autorom powieści żadnej kontroli nad adaptacjami teatralnymi, więc Stowe ani nie zatwierdzała adaptacji, ani na nich nie zarabiała.
+**FACT**: By the early 20th century, over 400 separate theatrical companies toured and performed some version of this story.
 
-**FAKT**: Stowe odmówiła autoryzacji dramatyzacji swojego dzieła z powodu nieufności wobec dramatu, choć ostatecznie zobaczyła wersję George'a L. Aikena i była nią "zachwycona".
+**FACT**: Copyright law before 1856 gave novelists no control over theatrical adaptations, so Stowe neither approved adaptations nor earned money from them.
 
-**FAKT**: Niektóre "Tom Shows" były wersją pro-niewolniczą, jak "Uncle Tom's Cabin as It Is: The Southern Uncle Tom" wystawiona w 1852 w Baltimore Museum.
+**FACT**: Stowe refused to authorize dramatizations of her work due to distrust of drama, though she eventually saw George L. Aiken's version and was "delighted" by it.
 
-## Wpływ finansowy i znaczenie ekonomiczne
+**FACT**: Some "Tom Shows" were pro-slavery versions, like "Uncle Tom's Cabin as It Is: The Southern Uncle Tom" performed in 1852 at Baltimore Museum.
 
-**FAKT**: Stowe mogła stracić "trzy czwarte swoich słusznych i uzasadnionych zarobków" z powodu braku kontroli nad adaptacjami teatralnymi.
+## Financial Impact and Economic Significance
 
-**FAKT**: Książka była "podstawą i niezawodnym źródłem dochodu dla Houghton Mifflin" przez lata 80. XIX wieku aż do wygaśnięcia praw autorskich.
+**FACT**: Stowe could have lost "three-fourths of her just and legitimate earnings" due to lack of control over theatrical adaptations.
 
-**FAKT**: Osiem maszyn drukarskich pracowało nieustannie, ledwo nadążając z popytem na książkę w pierwszym roku publikacji.
+**FACT**: The book was "the mainstay and unfailing resource of Houghton Mifflin" through the 1880s until copyright expiration.
 
-## Kontrowersje i długoterminowy wpływ
+**FACT**: Eight printing presses worked continuously, barely keeping up with demand for the book in its first year of publication.
 
-**FAKT**: Negatywne konotacje określenia "wuj Tom" pochodzą głównie z licznych adaptacji teatralnych i parodii, a nie z oryginalnej powieści, gdzie Uncle Tom jest pozytywną postacią.
+## Controversies and Long-term Impact
 
-**FAKT**: Wiele produkcji teatralnych zawierało elementy blackface minstrelsy i poniżające karykatury rasowe ludzi czarnoskórych.
+**FACT**: The negative connotations of the term "Uncle Tom" come mainly from numerous theatrical adaptations and parodies, not from the original novel, where Uncle Tom is a positive character.
 
-**FAKT**: William Lloyd Garrison, znany abolicjonista, pochwalił spektakl w 1853 roku: "warto było zobaczyć tych obdartych mężczyzn i chłopców bez płaszczy w parteru (ten sam materiał, z którego tworzy się tłumy) oklaskujących najsilniejsze i najwznioślejsze sentymenty przeciwko niewolnictwu!"
+**FACT**: Many theatrical productions featured blackface minstrelsy elements and demeaning racial caricatures of Black people.
 
-## Inspiracje i źródła
+**FACT**: William Lloyd Garrison, the famous abolitionist, praised a 1853 performance: "it was worth something to see those ragged men and boys without overcoats in the pit (the same material of which mobs are made) cheering the strongest and sublimest antislavery sentiments!"
 
-**FAKT**: Kluczową inspiracją była autobiografia "The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada, as Narrated by Himself" z 1849 roku.
+## Inspirations and Sources
 
-**FAKT**: Stowe korzystała z "American Slavery as It Is: Testimony of a Thousand Witnesses", tomu współautorstwa Theodore'a Dwighta Welda i sióstr Grimké.
+**FACT**: A key inspiration was the autobiography "The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada, as Narrated by Himself" from 1849.
 
-**FAKT**: Stowe prowadziła wywiady z ludźmi, którzy uciekli z niewoli i zatrudniała co najmniej jednego zbiegłego niewolnika w swoim domu.
+**FACT**: Stowe used "American Slavery as It Is: Testimony of a Thousand Witnesses," a volume co-authored by Theodore Dwight Weld and the Grimké sisters.
 
-**FAKT**: W 1853 roku Stowe opublikowała "A Key to Uncle Tom's Cabin", próbując udokumentować prawdziwość opisów niewolnictwa w powieści, choć wiele cytowanych dzieł przeczytała dopiero po publikacji powieści.
+**FACT**: Stowe conducted interviews with people who had escaped slavery and employed at least one fugitive slave in her household.
 
-## Rodzina i kontekst biograficzny
+**FACT**: In 1853, Stowe published "A Key to Uncle Tom's Cabin," attempting to document the truthfulness of slavery descriptions in the novel, though she had read many of the cited works only after the novel's publication.
 
-**FAKT**: Stowe była siódmym z 13 dzieci słynnego kaznodziei kongregacjonistycznego Lymana Beechera i Roxany Foote Beecher.
+## Family and Biographical Context
 
-**FAKT**: Matka Stowe zmarła, gdy miała pięć lat, a największy wpływ na młodą Harriet miała siostra Catherine, która założyła Hartford Female Seminary, gdzie Harriet była najpierw uczennicą, a potem nauczycielką.
+**FACT**: Stowe was the seventh of 13 children of famous Congregationalist preacher Lyman Beecher and Roxana Foote Beecher.
 
-**FAKT**: Wszyscy siedmiu braci Stowe, którzy dożyli dojrzałości, zostali kaznodziejami zgodnie z życzeniem ojca, a dziewczęta miały poślubić duchownych.
+**FACT**: Stowe's mother died when she was five years old, and her greatest influence was her sister Catherine, who founded Hartford Female Seminary, where Harriet was first a student, then a teacher.
 
-**FAKT**: Dom Stowe w Hartford, Connecticut, stał obok domu pisarza Marka Twaina.
+**FACT**: All seven of Stowe's brothers who reached adulthood became preachers according to their father's wishes, while the girls were expected to marry clergy.
 
-**FAKT**: Stowe napisała 30 książek, w tym powieści, trzy pamiętniki podróżne i zbiory artykułów oraz listów.
+**FACT**: Stowe's home in Hartford, Connecticut, stood next to writer Mark Twain's house.
 
-## Osobiste nawyki pisarskie
+**FACT**: Stowe wrote 30 books, including novels, three travel memoirs, and collections of articles and letters.
 
-**FAKT**: Swoją miłość do pisania Stowe odkryła w wieku 11 lat, gdy jej esej na temat "Czy nieśmiertelność duszy może zostać udowodniona światłem natury?" został przeczytany podczas szkolnej wystawy razem z pracami starszych uczniów.
+## Personal Writing Habits
 
-**FAKT**: Stowe pisała głównie beletrystykę domową, finansując rodzinę przez pisanie, publikując w "Western Monthly Magazine", "New York Evangelist", "The Ladies' Repository" i "Godey's Lady's Book".
+**FACT**: Stowe discovered her love of writing at age 11 when her essay on "Can the immortality of the soul be proved by the light of nature?" was read during a school exhibition alongside older students' work.
 
-**PLOTKA**: Choć nie ma bezpośrednich dowodów, kontekst sugeruje, że Stowe mogła pisać przy kuchennym stole ze względu na ograniczoną przestrzeń domową i konieczność łączenia obowiązków matki z pisaniem.
+**FACT**: Stowe primarily wrote domestic fiction, supporting her family through writing, publishing in "Western Monthly Magazine," "New York Evangelist," "The Ladies' Repository," and "Godey's Lady's Book."
 
-**FAKT**: Calvin Stowe, mąż Harriet, był profesorem teologii, którego opisywała jako "bogatego w język grecki i hebrajski, łaciński i arabski, i niestety! bogatego w nic więcej", ale wspierał jej pisanie.
+**RUMOR**: Though no direct evidence exists, context suggests Stowe may have written at the kitchen table due to limited domestic space and the need to combine motherly duties with writing.
+
+**FACT**: Calvin Stowe, Harriet's husband, was a theology professor whom she described as "rich in Greek and Hebrew, Latin and Arabic, and alas! rich in nothing else," but he supported her writing endeavors.
+
+## Writing Production Statistics
+
+**FACT**: Stowe wrote a total of 15 fiction books, one book of poems, 21 non-fiction books, and 43 short stories and articles throughout her career.
+
+**FACT**: When protests were sent to "The National Era" office whenever Stowe missed an issue, it demonstrated the immediate popularity of the serialized story.
+
+**FACT**: Eight printing presses running continuously could barely keep up with demand during the first year of publication, an unprecedented situation in 19th-century American publishing.

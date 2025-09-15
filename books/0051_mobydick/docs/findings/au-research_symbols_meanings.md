@@ -1,298 +1,298 @@
-# Analiza Symboliki i Ukrytych Znaczeń: "Moby Dick" Hermana Melville'a
+# Analysis of Symbolism and Hidden Meanings: "Moby-Dick" by Herman Melville
 
-## Wprowadzenie
+## Introduction
 
-"Moby Dick" (1851) Hermana Melville'a to dzieło o niezmierzonej głębi symbolicznej, które od ponad 170 lat fascynuje czytelników i badaczy swoją wielowarstwowością. Powieść ta, będąca jednocześnie opowieścią przygodową, traktatem filozoficznym, studium psychologicznym i alegorią religijną, oferuje nieskończoną liczbę interpretacji. Jak zauważył sam Melville w rozdziale 104: "potężny temat" wymagał "potężnej książki" - i rzeczywiście stworzył dzieło, które każda generacja odczytuje na nowo.
+"Moby-Dick" (1851) by Herman Melville is a work of immense symbolic depth that has fascinated readers and scholars for over 170 years with its multi-layered complexity. This novel, simultaneously an adventure story, philosophical treatise, psychological study, and religious allegory, offers an infinite number of interpretations. As Melville himself noted in Chapter 104: a "mighty theme" required a "mighty book" - and indeed he created a work that each generation reads anew.
 
-## Główne Symbole i Ich Interpretacje
+## Main Symbols and Their Interpretations
 
-### 1. Biały Wieloryb - Symbol Niepoznawalnego
+### 1. The White Whale - Symbol of the Unknowable
 
-**Klasyczne Interpretacje:**
-- **Boska Obecność**: Moby Dick jako wcielenie Boga - wszechmocnej, pozornie niezwyciężonej istoty, która narzuca swoją wolę światu
-- **Zło Kosmiczne**: Reprezentacja złośliwych sił wszechświata, "monomaniakalnego wcielenia wszystkich złośliwych sił"
-- **Natura w Jej Pierwotnej Formie**: Symbol dzikiej, nieokiełznanej natury, która wymyka się ludzkiej kontroli
+**Classical Interpretations:**
+- **Divine Presence**: Moby Dick as incarnation of God - an omnipotent, seemingly invincible being that imposes its will upon the world
+- **Cosmic Evil**: Representation of malevolent forces of the universe, "monomaniacal incarnation of all malicious agencies"
+- **Nature in Its Primal Form**: Symbol of wild, untamed nature that escapes human control
 
-**Współczesne Odczytania:**
-- **Symbol Dominacji Rasowej**: Rozdział "Biel Wieloryba" może być interpretowany jako metaphoryczne polowanie na białość jako taką, dodając wymiar rasowy do konfliktu
-- **Trauma Ekologiczna**: Wieloryb jako reprezentant świata natury niszczonego przez ludzką przemoc i eksploatację
-- **Pustka Egzystencjalna**: Biały kolor jako symbol jednoczesnej pełni i pustki, reprezentujący nowoczesną alienację
+**Contemporary Readings:**
+- **Symbol of Racial Dominance**: The chapter "The Whiteness of the Whale" can be interpreted as metaphorical hunting of whiteness itself, adding racial dimension to the conflict
+- **Ecological Trauma**: The whale as representative of the natural world destroyed by human violence and exploitation
+- **Existential Emptiness**: White color as symbol of simultaneous fullness and emptiness, representing modern alienation
 
-**Fenomenologia Bieli:**
-Ishmael obsesyjnie analizuje biel wieloryba: "To była biel wieloryba, która nade wszystko mnie przerażała." Melville eksploruje sprzeczne konotacje bieli - jej "elegancką piękność" i "egzystencjalny terror", "pełnię" i "żałobną pustkę". Biała może przywodzić na myśl życie i nadzieję równie łatwo, jak śmierć i rozpacz.
+**Phenomenology of Whiteness:**
+Ishmael obsessively analyzes the whale's whiteness: "It was the whiteness of the whale that above all things appalled me." Melville explores contradictory connotations of whiteness - its "elusive beauty" and "existential terror," "fullness" and "mournful emptiness." Whiteness can evoke life and hope as easily as death and despair.
 
-### 2. Kapitan Ahab - Archetyp Obsesyjnego Poszukiwacza
+### 2. Captain Ahab - Archetype of the Obsessive Seeker
 
-**Psychoanalityczne Interpretacje:**
-- **Narcystyczne Złudzenie**: Ahab nie zdaje sobie sprawy, że złość, którą widzi w Białym Wielorybie, jest jego własną, "dziko wyrzutowaną"
-- **Kompleks Edypalny**: Nieświadomość własnej tożsamości i destrukcyjne dążenie do dominacji
-- **Trauma i Zemsta**: Ahab reprezentuje człowieka złamanego przez traumę, który projekcuje swój ból na świat zewnętrzny
+**Psychoanalytic Interpretations:**
+- **Narcissistic Delusion**: Ahab fails to realize that the rage he sees in the White Whale is his own, "wildly projected"
+- **Oedipal Complex**: Unconsciousness of his own identity and destructive drive for dominance
+- **Trauma and Revenge**: Ahab represents a man broken by trauma who projects his pain onto the external world
 
-**Filozoficzne Wymiary:**
-- **Faustowska Pycha**: Ahab jako "brilliantne uosobienie samej esencji fanatyzmu"
-- **Walka z Maską Rzeczywistości**: "Wszystkie widzialne obiekty, człowieku, to tylko tekturowe maski" - Ahab chce "przebić się przez maskę"
-- **Tragedia Nieodrodzającej Się Woli**: "Jego tragedią jest tragedia nieodradzającej się woli", której "płonący umysł jest odgrodzony od obfitości miłości"
+**Philosophical Dimensions:**
+- **Faustian Pride**: Ahab as "brilliant embodiment of the very essence of fanaticism"
+- **Struggle with the Mask of Reality**: "All visible objects, man, are but as pasteboard masks" - Ahab wants to "strike through the mask"
+- **Tragedy of Unredeemed Will**: "His tragedy is the tragedy of unredeemed will," whose "burning mind is cut off from the plenitude of love"
 
-**Współczesne Perspektywy:**
-- **Autorytaryzm vs. Demokracja**: Ahab jako symbol autorytarnej władzy kooptującej demokratycznego ducha różnorodnej załogi
-- **Kapitalistyczna Eksploatacja**: Reprezentacja destrukcyjnej siły niekontrolowanego kapitalizmu
-- **Męskość w Kryzysie**: Złamana noga z kości słoniowej przebijająca jego krocze symbolizuje zranioną męskość
+**Contemporary Perspectives:**
+- **Authoritarianism vs. Democracy**: Ahab as symbol of authoritarian power co-opting the democratic spirit of the diverse crew
+- **Capitalist Exploitation**: Representation of the destructive force of uncontrolled capitalism
+- **Masculinity in Crisis**: The broken ivory leg piercing his groin symbolizes wounded masculinity
 
-### 3. Ocean - Przestrzeń Duchowej Transformacji
+### 3. The Ocean - Space of Spiritual Transformation
 
-**Symbolika Morskiej Podróży:**
-- **Odejście od Świeckości**: Morska podróż Ishmaela to "metaforyczna podróż zrozumienia", która zabiera go od światowych granic bliżej sfery duchowej
-- **Pustynia Wód**: W przeciwieństwie do biblijnego Izmaela, który wędruje po pustyni Beer-Sheby, narrator Melville'a wędruje po "pustyni wód"
-- **Filozoficzna Eksploracja**: Ocean jako przestrzeń filozoficznej refleksji, gdzie myśli Ishmaela o religii przecinają się z rozważaniami o relacji człowieka z naturą
+**Symbolism of Sea Voyage:**
+- **Departure from Secularity**: Ishmael's sea voyage is a "metaphorical journey of understanding" that takes him from worldly boundaries closer to the spiritual sphere
+- **Desert of Waters**: Unlike the biblical Ishmael who wanders the desert of Beer-Sheba, Melville's narrator wanders the "desert of waters"
+- **Philosophical Exploration**: Ocean as space of philosophical reflection where Ishmael's thoughts about religion intersect with considerations of humanity's relationship with nature
 
-**Transformacyjny Aspekt Morza:**
-Ishmael doświadcza panteistycznego momentu podczas służby na maszcie, kiedy czuje, jak jego tożsamość rozpływa się w momencie percepcji całego wszechświata jako Boga - echo transcendentalizmu i nawet buddyzmu zen.
+**Transformational Aspect of the Sea:**
+Ishmael experiences a pantheistic moment while on mast duty, feeling his identity dissolve in a moment of perceiving the entire universe as God - echoing transcendentalism and even Zen Buddhism.
 
-### 4. Pequod - Mikrokosmos Ameryki
+### 4. The Pequod - Microcosm of America
 
-**Społeczno-Polityczne Interpretacje:**
-- **Demokratyczny Impuls**: Wielonarodowa, wieloetniczna załoga odzwierciedla globalizację amerykańskiego merkantylizmu
-- **Imperialne Dążenia**: Statek jako symbol amerykańskiej ekspansji i eksploatacji zasobów światowych
-- **Dystopia Autorytarna**: Pod wpływem Ahaba demokratyczny duch różnorodnej załogi zostaje przekształcony w zaangażowanie w jego polowanie na Moby Dicka
+**Socio-Political Interpretations:**
+- **Democratic Impulse**: The multinational, multiethnic crew reflects the globalization of American mercantilism
+- **Imperial Ambitions**: The ship as symbol of American expansion and exploitation of world resources
+- **Authoritarian Dystopia**: Under Ahab's influence, the democratic spirit of the diverse crew is transformed into engagement in his hunt for Moby Dick
 
-### 5. Ishma - Narrator i Świadek
+### 5. Ishmael - Narrator and Witness
 
-**Archetyp Poszukiwacza Prawdy:**
-- **Prototyp Wyalienowanego Człowieka**: Ishmael jako "outsider, który czuje, że nie ma miejsca w naturze rzeczy"
-- **Epistemologiczna Podróż**: Polowanie na wieloryba jako metafora "poszukiwania człowieka za znaczeniem w świecie zwodniczych pozorów i śmiertelnych złudzeń"
-- **Świadek Prawdy**: Po spotkaniu z Queequegiem uczy się rozumieć to, co widzi, z więcej niż jednej perspektywy
+**Archetype of Truth Seeker:**
+- **Prototype of Alienated Man**: Ishmael as "outsider who feels he has no place in the nature of things"
+- **Epistemological Journey**: Whale hunting as metaphor for "man's search for meaning in a world of deceptive appearances and mortal illusions"
+- **Witness to Truth**: After meeting Queequeg, he learns to understand what he sees from more than one perspective
 
-## Interpretacje Kulturowe i Współczesne Odczytania
+## Cultural Interpretations and Contemporary Readings
 
-### Interpretacje Feministyczne
+### Feminist Interpretations
 
-**Brak Kobiet jako Znaczący Element:**
-- **Męski Świat**: Świat Pequoda to wyłącznie męska przestrzeń, co pozwala na analizę męskiej przemocy i dominacji
-- **Macierzyńska Natura vs. Patriarchalna Destrukcja**: Wieloryb może być interpretowany jako symbol macierzyńskiej natury niszczonej przez patriarchalną agresję
+**Absence of Women as Significant Element:**
+- **Male World**: The world of the Pequod is exclusively male space, allowing analysis of male violence and domination
+- **Maternal Nature vs. Patriarchal Destruction**: The whale can be interpreted as symbol of maternal nature destroyed by patriarchal aggression
 
-### Perspektywy Postkolonialne
+### Postcolonial Perspectives
 
-**Rasa i Klasa:**
-- **Krytyka Eurocentryzmu**: Dzieło Melville'a krytykuje eurocentryzm i odzwierciedla ważne kwestie społeczne swojej epoki
-- **Queequeg jako Szlachetny Dzikus**: Przedstawienie Queequega oferuje krytykę rasowych uprzedzeń poprzez kontrast z chrześcijańskimi postaciami
-- **Transnarodowa Perspektywa**: Niektórzy badacze proponują odczytanie "ponad- lub postnarodowe", które opiera się enkapsulacji w nacjonalistycznej narracji kulturowej
+**Race and Class:**
+- **Critique of Eurocentrism**: Melville's work critiques Eurocentrism and reflects important social issues of its era
+- **Queequeg as Noble Savage**: The presentation of Queequeg offers critique of racial prejudices through contrast with Christian characters
+- **Transnational Perspective**: Some scholars propose a "supra- or post-national" reading that resists encapsulation in nationalist cultural narrative
 
-### Interpretacje Ekologiczne
+### Ecological Interpretations
 
-**Ekokrytyczne Podejścia:**
-- **Antropocentryzm vs. Ekocentryzm**: Postacie takie jak Starbuck komodyfikują wieloryba, przyjmując antropocentryczną postawę
-- **Środowiskowa Świadomość**: Dzieło stawia pytania o to, czy takie podejścia do wielorybów są uzasadnione
-- **Zmiana Klimatu**: Współcześni krytycy widzą w powieści eksplorację kwestii degradacji środowiska
+**Ecocritical Approaches:**
+- **Anthropocentrism vs. Ecocentrism**: Characters like Starbuck commodify the whale, adopting anthropocentric stance
+- **Environmental Consciousness**: The work raises questions about whether such approaches to whales are justified
+- **Climate Change**: Contemporary critics see in the novel exploration of environmental degradation issues
 
-### Interpretacje LGBTQ+
+### LGBTQ+ Interpretations
 
-**Homoerotyczne Podteksty:**
-- **Związek Ishmael-Queequeg**: Intymność między narratorem a Queequegiem może być interpretowana jako homoeryczna
-- **Krytyka Heteronormatywności**: Brak kobiet w narracji otwiera przestrzeń dla queerowych interpretacji męskich relacji
+**Homoerotic Subtexts:**
+- **Ishmael-Queequeg Relationship**: Intimacy between narrator and Queequeg can be interpreted as homoerotic
+- **Critique of Heteronormativity**: Absence of women in narrative opens space for queer interpretations of male relationships
 
-## Wymiar Religijny i Biblijny
+## Religious and Biblical Dimension
 
-### Biblijne Odniesienia
+### Biblical References
 
-**Imiona i Paralele:**
-- **Ahab**: Nawiązanie do złego króla z Księgi Królewskiej, który wprowadził Izraelitów w bałwochwalstwo
-- **Ishmael**: W przeciwieństwie do biblijnego odpowiednika, poszukuje wglądu na morzu, a nie na pustyni
-- **Eliasz**: Prorok ostrzegający przed katastrofą
+**Names and Parallels:**
+- **Ahab**: Reference to the evil king from the Book of Kings who led Israelites into idolatry
+- **Ishmael**: Unlike biblical counterpart, seeks insight at sea rather than in desert
+- **Elijah**: Prophet warning of catastrophe
 
-**Kazanie o Jonie:**
-Ojciec Mapple podkreśla, że Jona nie modli się o wybawienie, ale akceptuje swoją karę. Dopiero wtedy Bóg zlitowuje się i doprowadza Jonę do bezpieczeństwa.
+**Jonah's Sermon:**
+Father Mapple emphasizes that Jonah doesn't pray for deliverance but accepts his punishment. Only then does God take pity and bring Jonah to safety.
 
-### Mistycyzm Hebrajski
+### Hebrew Mysticism
 
-**Kabała w Moby Dicku:**
-Słowo "kabała" jest używane kilka razy w powieści. Płaszcz Ahaba jest "kabalistycznie skrojony". Kabała to hebrajska mistyczna tradycja ustna, która została wyszeptana Mojżeszowi przez Boga na górze Synaj.
+**Kabbalah in Moby-Dick:**
+The word "kabbalah" is used several times in the novel. Ahab's cloak is "kabbalistically cut." Kabbalah is the Hebrew mystical oral tradition whispered to Moses by God on Mount Sinai.
 
-### Krytyka Religii
+### Religious Critique
 
-**Tolerancja vs. Fanatyzm:**
-- **Równy Szacunek**: Powieść okazuje równy szacunek różnorodnym tradycjom religijnym
-- **Krytyka Ekstremizmu**: Łagodnie kpi z głupoty religijnego ekstremizmu
-- **Pragmatyzm Moralny**: Sugeruje, że pragmatyzm, umiarkowanie i uczucie to jedyne prawdziwe zasady moralne
+**Tolerance vs. Fanaticism:**
+- **Equal Respect**: The novel shows equal respect for diverse religious traditions
+- **Critique of Extremism**: Gently mocks the stupidity of religious extremism
+- **Moral Pragmatism**: Suggests that pragmatism, moderation, and feeling are the only true moral principles
 
-## Psychologia Postaci
+## Character Psychology
 
-### Wielowarstwowa Analiza Ahaba
+### Multi-layered Analysis of Ahab
 
-**Jungowska Interpretacja:**
-- **Archetyp Cienia**: Ahab jako uosobienie ciemnej strony ludzkiej psyche
-- **Individuation Process**: Jego podróż jako nieudany proces indywiduacji
-- **Animus vs. Anima**: Dominacja męskiego pierwiastka przy całkowitym odrzuceniu żeńskiego
+**Jungian Interpretation:**
+- **Shadow Archetype**: Ahab as embodiment of the dark side of human psyche
+- **Individuation Process**: His journey as failed individuation process
+- **Animus vs. Anima**: Dominance of masculine principle with complete rejection of feminine
 
-**Freudowska Perspektywa:**
-- **Popęd Śmierci**: Destrukcyjne dążenie Ahaba jako manifestacja Thanatosa
-- **Sublimacja**: Przekształcenie seksualnej energii w obsesyjne polowanie
-- **Narcyzm**: Niezdolność do miłości i empatii
+**Freudian Perspective:**
+- **Death Drive**: Ahab's destructive pursuit as manifestation of Thanatos
+- **Sublimation**: Transformation of sexual energy into obsessive hunting
+- **Narcissism**: Inability for love and empathy
 
-### Ishmael jako Psyche w Rozwoju
+### Ishmael as Developing Psyche
 
-**Proces Inicjacji:**
-- **Odejście**: Opuszczenie znanego świata (Manhattan)
-- **Próby**: Konfrontacja z nieznanym (wieloryb, sztorm, załoga)
-- **Powrót**: Jako jedyny ocalały, przynosi wiedzę społeczności
+**Initiation Process:**
+- **Departure**: Leaving the known world (Manhattan)
+- **Trials**: Confrontation with unknown (whale, storm, crew)
+- **Return**: As sole survivor, brings knowledge to community
 
-## Współczesne Reinterpretacje
+## Contemporary Reinterpretations
 
-### Interpretacje XXI Wieku
+### 21st Century Interpretations
 
-**Trauma Kulturowa:**
-- **Post-9/11**: Ahab jako symbol obsesji odwetu po traumatycznym ataku
-- **Kryzys Klimatyczny**: Moby Dick jako symbol natury, która "odpowiada" na ludzką eksploatację
-- **Globalizacja**: Pequod jako metafora zglobalizowanego kapitalizmu
+**Cultural Trauma:**
+- **Post-9/11**: Ahab as symbol of revenge obsession after traumatic attack
+- **Climate Crisis**: Moby Dick as symbol of nature "responding" to human exploitation
+- **Globalization**: Pequod as metaphor for globalized capitalism
 
-**Technologia i Kontrola:**
-- **Big Data**: Cetologia Ishmaela jako metafora obsesyjnego zbierania danych
-- **AI i Kontrola**: Ahab i jego dążenie do kontroli jako prekursorska wizja relacji człowiek-technologia
+**Technology and Control:**
+- **Big Data**: Ishmael's cetology as metaphor for obsessive data collection
+- **AI and Control**: Ahab and his drive for control as precursory vision of human-technology relationship
 
 ### Gender Studies
 
-**Męskość w Kryzysie:**
-- **Toxic Masculinity**: Ahab jako przykład destrukcyjnej męskości
-- **Homosocial Bonds**: Relacje między mężczyznami na statku jako alternatywa dla heteronormatywnych struktur
-- **Performance Gender**: Różne sposoby wyrażania męskości przez członków załogi
+**Masculinity in Crisis:**
+- **Toxic Masculinity**: Ahab as example of destructive masculinity
+- **Homosocial Bonds**: Relationships between men on ship as alternative to heteronormative structures
+- **Gender Performance**: Different ways of expressing masculinity by crew members
 
-## Ewolucja Interpretacji na Przestrzeni Lat
+## Evolution of Interpretations Over the Years
 
-### XIX Wiek - Pierwotne Recepcje
+### 19th Century - Original Receptions
 
-**Przygodowa Opowieść:**
-Początkowo krytycy widzieli powieść jako prostą opowieść przygodową, z białym wielorybem jako symbolem zła.
+**Adventure Story:**
+Initially critics saw the novel as simple adventure story, with white whale as symbol of evil.
 
-### Wczesny XX Wiek - Odkrycie Psychologiczne
+### Early 20th Century - Psychological Discovery
 
-**Psychoanalityczna Rewolucja:**
-Późniejsi krytycy, pod wpływem teorii psychoanalitycznej, widzieli powieść jako eksplorację nieświadomego umysłu.
+**Psychoanalytic Revolution:**
+Later critics, influenced by psychoanalytic theory, saw the novel as exploration of unconscious mind.
 
-### Środek XX Wieku - Kanon Amerykański
+### Mid-20th Century - American Canon
 
-**Wielkie Dzieło Literatury:**
-Od drugiej wojny światowej studia akademickie kwitną dzięki zwróceniu się ku powieści. Newton Arvin, Richard Chase, Alfred Kazin, F.O. Matthiessen delektują się jej metaforą, ironią, paradoksem i złożonością.
+**Great Work of Literature:**
+Since World War II, academic studies flourished through turning toward the novel. Newton Arvin, Richard Chase, Alfred Kazin, F.O. Matthiessen delighted in its metaphor, irony, paradox, and complexity.
 
-### Koniec XX Wieku - Studia Kulturowe
+### Late 20th Century - Cultural Studies
 
-**Post-kolonializm, Rasa, Gender:**
-Badacze przeszli do studiów post-kolonialnych, rasowych, gender i feministycznych, a Moby Dick pozostał kluczowym tekstem dzięki wielonarodowej załodze statku i skupieniu na władzy.
+**Post-colonialism, Race, Gender:**
+Scholars moved to post-colonial, racial, gender, and feminist studies, and Moby-Dick remained key text due to ship's multinational crew and focus on power.
 
-### XXI Wiek - Ekokrytyka i Posthumanizm
+### 21st Century - Ecocriticism and Posthumanism
 
-**Nowe Perspektywy:**
-- **Animal Studies**: Fokus na etyce relacji człowiek-zwierzę
-- **Posthumanism**: Kwestionowanie antropocentrycznego światopoglądu
-- **Ecocriticism**: Analiza środowiskowych aspektów dzieła
+**New Perspectives:**
+- **Animal Studies**: Focus on ethics of human-animal relationships
+- **Posthumanism**: Questioning anthropocentric worldview
+- **Ecocriticism**: Analysis of environmental aspects of the work
 
-## Symbole Które Czytelnik Może Przeoczyć
+## Symbols Readers Might Overlook
 
-### 1. Nantucket jako Mikrokosmos Ameryki
+### 1. Nantucket as Microcosm of America
 
-"Nantucketczycy to morze pustelników" - wyspy jako symbol amerykańskiej ekspansji i eksploatacji oceanów.
+"Nantucketers are sea hermits" - islands as symbol of American expansion and ocean exploitation.
 
-### 2. Kolory poza Bielą
+### 2. Colors Beyond White
 
-**Czerń i Kontrast:**
-Melville eksploruje nie tylko biel, ale także czerń jako znaczący element symboliczny, szczególnie w kontekście rasowym.
+**Black and Contrast:**
+Melville explores not only whiteness but also blackness as significant symbolic element, particularly in racial context.
 
-### 3. Architektura Statku
+### 3. Ship Architecture
 
-**Pequod jako Kościół:**
-Maszt jako krzyż, pokład jako nawa, kajuta kapitańska jako sanktuarium - religijne metafory struktury statku.
+**Pequod as Church:**
+Mast as cross, deck as nave, captain's cabin as sanctuary - religious metaphors of ship structure.
 
-### 4. Cetologia jako Epistemologia
+### 4. Cetology as Epistemology
 
-**Nauka vs. Doświadczenie:**
-Rozdziały poświęcone wielorybom to nie tylko etnografia, ale metafora ludzkich prób kategoryzacji i zrozumienia świata.
+**Science vs. Experience:**
+Chapters devoted to whales are not just ethnography but metaphor for human attempts at categorization and understanding the world.
 
-### 5. Złoto Dublonu
+### 5. Golden Doubloon
 
-**Moneta na Maszcie:**
-Ahab przybija złotego dublonu do masztu jako nagrodę - symbol kapitalistycznej motywacji ukrytej pod duchowym poszukiwaniem.
+**Coin on Mast:**
+Ahab nails golden doubloon to mast as reward - symbol of capitalist motivation hidden under spiritual quest.
 
-### 6. Queequeg Jako Chrystus
+### 6. Queequeg as Christ
 
-**Ofiara i Odkupienie:**
-Queequeg wielokrotnie ratuje innych, a jego trumna staje się instrumentem zbawienia Ishmaela.
+**Sacrifice and Redemption:**
+Queequeg repeatedly saves others, and his coffin becomes instrument of Ishmael's salvation.
 
-### 7. Symbolika Narzędzi Wielorybniczych
+### 7. Whaling Tool Symbolism
 
-**Harpun jako Krzyż:**
-Narzędzia wielorybnicze jako metonimie przemocy i dominacji nad naturą.
+**Harpoon as Cross:**
+Whaling tools as metonymies of violence and domination over nature.
 
-## Połączenia z Innymi Dziełami Kultury
+## Connections with Other Cultural Works
 
-### Literatura Światowa
+### World Literature
 
-**Klasyczne Eposy:**
-- **Homer "Odyseja"**: Podróż morska jako duchowa transformacja
-- **Dante "Boska Komedia"**: Zejście w głębiny jako metafora poznania
-- **Milton "Raj Utracony"**: Ahab jako Szatan w walce z Boskim porządkiem
+**Classical Epics:**
+- **Homer's "Odyssey"**: Sea voyage as spiritual transformation
+- **Dante's "Divine Comedy"**: Descent into depths as metaphor for knowledge
+- **Milton's "Paradise Lost"**: Ahab as Satan in struggle with Divine order
 
-**Literatura Amerykańska:**
-- **Hawthorne**: Symbolika zła i grzechu
-- **Emerson i Thoreau**: Transcendentalistyczne elementy w opisach natury
-- **Poe**: Psychologiczna głębia i obsesyjność
+**American Literature:**
+- **Hawthorne**: Symbolism of evil and sin
+- **Emerson and Thoreau**: Transcendentalist elements in nature descriptions
+- **Poe**: Psychological depth and obsessiveness
 
-### Współczesna Kultura Popularna
+### Contemporary Popular Culture
 
-**Film i Telewizja:**
-- **"Szczęki"**: Dziedzictwo strachu przed oceanem
-- **"Kapitan Nemo"**: Obsesyjni kapitanowie jako archetyp
-- **"Mad Max: Fury Road"**: Ahab jako archetyp obsesyjnego poszukiwacza
+**Film and Television:**
+- **"Jaws"**: Legacy of ocean fear
+- **"Captain Nemo"**: Obsessive captains as archetype
+- **"Mad Max: Fury Road"**: Ahab as archetype of obsessive seeker
 
-**Gry Video:**
-- **Assassin's Creed Black Flag**: Romantyzacja życia na morzu
-- **Sea of Thieves**: Współczesna interpretacja pirackich przygód
+**Video Games:**
+- **Assassin's Creed Black Flag**: Romanticization of life at sea
+- **Sea of Thieves**: Contemporary interpretation of pirate adventures
 
-### Muzyka
+### Music
 
-**Klasyczna:**
-- **Benjamin Britten "Billy Budd"**: Inna morska opera oparta na Melville
-- **Symphonia Domestica Straussa**: Orchestralne przedstawienie konfliktów
+**Classical:**
+- **Benjamin Britten's "Billy Budd"**: Another sea opera based on Melville
+- **Strauss's Symphonia Domestica**: Orchestral representation of conflicts
 
-**Popularna:**
-- **Led Zeppelin "Moby Dick"**: Adaptacja w hard rocku
-- **Mastodon "Leviathan"**: Metalowa interpretacja
+**Popular:**
+- **Led Zeppelin "Moby Dick"**: Hard rock adaptation
+- **Mastodon "Leviathan"**: Metal interpretation
 
-## Znaczenie dla Współczesnych Słuchaczy
+## Significance for Contemporary Listeners
 
-### Relevancja dla Pokolenia Z
+### Relevance for Generation Z
 
-**Obsesje Social Media:**
-Ahab jako prekursor obsesji social media - dążenie do "viral" momentu, który kończy się autodestrukcją.
+**Social Media Obsessions:**
+Ahab as precursor to social media obsession - pursuit of "viral" moment that ends in self-destruction.
 
 **Mental Health Awareness:**
-Współczesne rozumienie zdrowia psychicznego pozwala na głębsze zrozumienie destrukcyjnych wzorców obsesyjnego myślenia Ahaba.
+Contemporary understanding of mental health allows deeper understanding of Ahab's destructive patterns of obsessive thinking.
 
-**Kryzys Klimatyczny:**
-Moby Dick jako symbol natury, która "odpowiada" na ludzką eksploatację - bardzo aktualne przesłanie.
+**Climate Crisis:**
+Moby Dick as symbol of nature "responding" to human exploitation - very current message.
 
-**Różnorodność i Inkluzywność:**
-Wielokulturowa załoga Pequoda jako wczesny model różnorodności i inkluzywności.
+**Diversity and Inclusivity:**
+Pequod's multicultural crew as early model of diversity and inclusivity.
 
-### Lekcje Uniwersalne
+### Universal Lessons
 
-**Niebezpieczeństwa Obsesji:**
-Historia Ahaba jako ostrzeżenie przed samodestrykcyjnymi obsejami.
+**Dangers of Obsession:**
+Ahab's story as warning against self-destructive obsessions.
 
-**Władza Opowieści:**
-Ishmael jako narrator pokazuje moc opowiadania historii jako sposobu radzenia sobie z traumą.
+**Power of Storytelling:**
+Ishmael as narrator shows power of storytelling as way to cope with trauma.
 
-**Akceptacja Niepoznawalnego:**
-W erze "post-prawdy" i dezinformacji, akceptacja tajemnicy i niepoznawalności jako wartość.
+**Acceptance of the Unknowable:**
+In era of "post-truth" and disinformation, acceptance of mystery and unknowability as value.
 
-## Wnioski
+## Conclusions
 
-"Moby Dick" pozostaje jednym z najbogatszych symbolicznie dzieł literatury światowej. Jego zdolność do generowania nowych interpretacji przez każdą kolejną generację czytelników świadczy o wyjątkowej głębi utworu Melville'a. Powieść ta funkcjonuje jednocześnie jako:
+"Moby-Dick" remains one of the symbolically richest works of world literature. Its ability to generate new interpretations by each successive generation of readers testifies to the exceptional depth of Melville's creation. This novel functions simultaneously as:
 
-- **Przygodowa epopeya** dla miłośników akcji
-- **Filozoficzna medytacja** dla szukających głębszych znaczeń
-- **Psychologiczne studium** obsesji i alienacji
-- **Społeczna krytyka** amerykańskiego imperializmu
-- **Duchowa podróż** w poszukiwaniu transcendencji
-- **Ekologiczne ostrzeżenie** przed eksploatacją natury
+- **Adventure epic** for action lovers
+- **Philosophical meditation** for those seeking deeper meanings
+- **Psychological study** of obsession and alienation
+- **Social critique** of American imperialism
+- **Spiritual journey** in search of transcendence
+- **Ecological warning** against exploitation of nature
 
-Jak pisał sam Melville: "Niech Bóg mnie broni przed ukończeniem czegokolwiek! Ta cała książka to tylko szkic - nie: szkic szkicu!" W tym samym duchu należy czytać "Moby Dicka" - nie kończąc nigdy, pozostawiając otwarte drzwi dla nowych odkryć i interpretacji.
+As Melville himself wrote: "God keep me from ever completing anything! This whole book is but a draft—nay, but the draft of a draft!" In this same spirit one should read "Moby-Dick" - never finishing, leaving doors open for new discoveries and interpretations.
 
-Wielkość dzieła leży w jego deliberatywnej wieloznaczności - Melville stworzył symbol tak pojemny w znaczeniu, że może pomieścić wszystkie interpretacje bez wymagania wyboru między nimi. To właśnie ta nieskończona interpretacyjność czyni "Moby Dicka" jednym z najwspanialszych dzieł literatury amerykańskiej i światowej, które będzie fascynować kolejne generacje czytelników swoją nieprzemijającą aktualnością i głębią.
+The greatness of the work lies in its deliberate ambiguity - Melville created a symbol so capacious in meaning that it can accommodate all interpretations without requiring choice between them. It is precisely this infinite interpretability that makes "Moby-Dick" one of the most magnificent works of American and world literature, which will fascinate successive generations of readers with its enduring relevance and depth.

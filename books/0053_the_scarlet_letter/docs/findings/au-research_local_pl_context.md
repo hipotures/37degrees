@@ -1,140 +1,140 @@
-# Lokalny kontekst kulturowy: "Szkarłatna litera" (The Scarlet Letter) w Polsce
+# Local Cultural Context: "The Scarlet Letter" in Poland
 
-## Historia publikacji i tłumaczeń w Polsce
+## Publication History and Translations in Poland
 
-### Pierwsze polskie wydania
-- **1985** - Pierwsze polskie wydanie nakładem wydawnictwa Czytelnik
-- **2005** - Wydanie w twardej oprawie dostępne na rynku księgarskim
-- **2024** - Najnowsze wydanie z nowym tłumaczeniem
+### First Polish Editions
+- **1985** - First Polish edition published by Czytelnik publishing house
+- **2005** - Hardcover edition available in Polish bookstores
+- **2024** - Latest edition with new translation
 
-### Współczesne polskie wydania (2024)
-1. **Wydawnictwo Nowa Baśń** - tłumaczenie Tomasz Tesznar, 376-377 stron, ISBN: 9788382032901, twarda oprawa z atmosferycznymi rycinami
-2. **Dressler Dublin** - wydanie z siedzibą w Ożarowie Mazowieckim, język miejscami archaiczny (uznawane za zaletę lub wadę nowego przekładu)
+### Contemporary Polish Editions (2024)
+1. **Nowa Baśń Publishing** - translation by Tomasz Tesznar, 376-377 pages, ISBN: 9788382032901, hardcover with atmospheric illustrations
+2. **Dressler Dublin** - edition with headquarters in Ożarów Mazowiecki, language sometimes archaic (considered advantage or disadvantage of new translation)
 
-### Polscy tłumacze
-**Tomasz Tesznar** - autor najnowszego przekładu (2024)
-- Członek Stowarzyszenia Tłumaczy Literatury
-- Nowe tłumaczenie wydane 15 kwietnia 2024 roku
-- Przekład określany jako "świeże ujęcie" klasyka amerykańskiej literatury
+### Polish Translators
+**Tomasz Tesznar** - author of the latest translation (2024)
+- Member of the Literature Translators Association
+- New translation published April 15, 2024
+- Translation described as "fresh approach" to American literary classic
 
-## Status w polskim systemie edukacyjnym
+## Status in Polish Educational System
 
-### Pozycja akademicka
-- **Poziom studiów wyższych** - "Szkarłatna litera" jest raczej lekturą akademicką niż szkolną
-- **Studia filologiczne** - szczególnie na kierunkach amerykanistycznych
-- **Brak w kanonie maturalnym** - nie pojawia się jako standardowa lektura licealista
+### Academic Position
+- **University level** - "The Scarlet Letter" is primarily academic rather than school reading
+- **Philological studies** - especially in American studies programs
+- **Not in high school canon** - does not appear as standard high school reading
 
-### Programy amerykanistyczne w Polsce
-- **Uniwersytet Jagielloński** - Instytut Studiów Amerykańskich i Polonii
-- **Uniwersytet Warszawski** - Centrum Studiów Amerykańskich  
-- **Uniwersytet im. Adama Mickiewicza w Poznaniu** - kierunek Amerykanistyka
+### American Studies Programs in Poland
+- **Jagiellonian University** - Institute of American Studies and Polish Diaspora
+- **University of Warsaw** - Center for American Studies
+- **Adam Mickiewicz University in Poznań** - American Studies program
 
-### Znaczenie literackie w Polsce
-- Uznawana za szczytowe osiągnięcie prozy amerykańskiej z epoki romantyzmu
-- Pierwsza wielka amerykańska powieść psychologiczna
-- Porównywana z dziełami Coopera, Poego i Melville'a
+### Literary Significance in Poland
+- Recognized as pinnacle achievement of American prose from Romantic era
+- First great American psychological novel
+- Compared with works by Cooper, Poe, and Melville
 
-## Adaptacje i recepcja kulturowa
+## Adaptations and Cultural Reception
 
-### Adaptacje filmowe dostępne w Polsce
-1. **Film z 1995 roku** - amerykański melodramat z Demi Moore, Gary Oldman i Robert Duvall
-   - Szeroko dostępny na polskich platformach VOD
-   - Recenzowany na Filmweb, naEKRANIE.pl, Lubimyczytac.pl
-   - Mieszane opinie polskich widzów
+### Film Adaptations Available in Poland
+1. **1995 Film** - American melodrama with Demi Moore, Gary Oldman, and Robert Duvall
+   - Widely available on Polish VOD platforms
+   - Reviewed on Filmweb, naEKRANIE.pl, Lubimyczytac.pl
+   - Mixed opinions from Polish viewers
 
-2. **Film niemy z 1926 roku** - reżyseria Victor Sjöström
-   - Dokumentowany w polskich bazach filmowych
-   - Znaczenie historyczne dla kinematografii
+2. **1926 Silent Film** - directed by Victor Sjöström
+   - Documented in Polish film databases
+   - Historical significance for cinematography
 
-### Brak polskich adaptacji teatralnych
-- Nie znaleziono informacji o polskich produkcjach scenicznych
-- Kulturowa obecność głównie przez adaptacje międzynarodowe
+### Absence of Polish Theatrical Adaptations
+- No information found about Polish stage productions
+- Cultural presence mainly through international adaptations
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
-- **Język purytański XVII wieku** - archaiczny styl wymagający adaptacji
-- **Terminologia religijna** - specyfika protestanckiej teologii
-- **Społeczne konteksty** - różnice między purytanizmem a katolicyzmem
+### Linguistic Challenges
+- **17th-century Puritan language** - archaic style requiring adaptation
+- **Religious terminology** - specifics of Protestant theology
+- **Social contexts** - differences between Puritanism and Catholicism
 
-### Recepcja w kontekście polskiego katolicyzmu
-- **Moralność religijna** - porównania z katolickim podejściem do grzechu
-- **Pokuta i odkupienie** - różnice teologiczne między tradycjami
-- **Społeczne napiętnowanie** - analogie z polskimi doświadczeniami historycznymi
+### Reception in Context of Polish Catholicism
+- **Religious morality** - comparisons with Catholic approach to sin
+- **Penance and redemption** - theological differences between traditions
+- **Social stigmatization** - analogies with Polish historical experiences
 
-## Akademickie interpretacje i badania
+## Academic Interpretations and Research
 
-### Perspektywy feministyczne
-- **Hester Prynne jako bohaterka feministyczna** - siła kobiety wobec patriarchalnego społeczeństwa
-- **Autonomia kobiet** - opór wobec społecznych konwencji
-- **Przekształcenie symbolu** - zmiana znaczenia litery A z "adulteress" na "able"
+### Feminist Perspectives
+- **Hester Prynne as feminist heroine** - woman's strength against patriarchal society
+- **Women's autonomy** - resistance to social conventions
+- **Symbol transformation** - changing meaning of letter A from "adulteress" to "able"
 
-### Tematy badawcze w Polsce
-- **Purytanizm vs katolicyzm** - porównania systemów moralnych
-- **Psychologia winy** - uniwersalne aspekty ludzkiej natury
-- **Społeczna ostracyzm** - mechanizmy wykluczenia w różnych kulturach
+### Research Themes in Poland
+- **Puritanism vs Catholicism** - comparisons of moral systems
+- **Psychology of guilt** - universal aspects of human nature
+- **Social ostracism** - mechanisms of exclusion in different cultures
 
-## Współczesna recepcja wśród polskich czytelników
+## Contemporary Reception Among Polish Readers
 
-### Opinie czytelników (na podstawie Lubimyczytac.pl)
-**Pozytywne:**
-- "Klasyczna opowieść o winie, odkupieniu i sile kobiety wobec niesprawiedliwości"
-- "Pierwsza wielka amerykańska powieść psychologiczna"
-- "Studium miłości, zdrady i przebaczenia"
+### Reader Opinions (based on Lubimyczytac.pl)
+**Positive:**
+- "Classic tale of guilt, redemption and woman's strength against injustice"
+- "First great American psychological novel"
+- "Study of love, betrayal and forgiveness"
 
-**Krytyczne:**
-- "Narracja autora nie do zniesienia"
-- "Książka zestarzała się okropnie" 
-- "Zbyt pompatyczny opis społeczeństwa purytańskiego"
+**Critical:**
+- "Author's narration unbearable"
+- "Book has aged terribly"
+- "Too pompous description of Puritan society"
 
-### Relevantność dla współczesnych Polaków
-- **Problemy moralne** - uniwersalność dylematu winy i przebaczenia
-- **Presja społeczna** - zrozumienie mechanizmów wykluczenia
-- **Rola kobiety** - feministyczne czytanie w kontekście polskich przemian
+### Relevance for Contemporary Poles
+- **Moral problems** - universality of guilt and forgiveness dilemma
+- **Social pressure** - understanding mechanisms of exclusion
+- **Woman's role** - feminist reading in context of Polish transformations
 
-## Nawiązania i easter eggi dla polskich czytelników
+## References and Easter Eggs for Polish Readers
 
-### Podobieństwa historyczne
-- **Społeczne napiętnowanie** - analogie z polskimi doświadczeniami historycznymi
-- **Rola Kościoła** - porównania z wpływem katolicyzmu w Polsce
-- **Emigracja i wygnanie** - motywy znane z polskiej literatury
+### Historical Similarities
+- **Social stigmatization** - analogies with Polish historical experiences
+- **Church's role** - comparisons with Catholic influence in Poland
+- **Emigration and exile** - motifs known from Polish literature
 
-### Kulturowe paralele
-- **Szkarłatna litera** vs **żółta przepaska** - symbole napiętnowania
-- **Purytańska moralność** vs **katolicka etyka** - różne podejścia do grzechu
-- **Społeczność wobec jednostki** - uniwersalny konflikt
+### Cultural Parallels
+- **Scarlet letter** vs **yellow armband** - symbols of stigmatization
+- **Puritan morality** vs **Catholic ethics** - different approaches to sin
+- **Community against individual** - universal conflict
 
-## Wydawnictwa i dostępność
+## Publishing and Availability
 
-### Aktualne wydania w Polsce (2024-2025)
-1. **Nowa Baśń** - najnowsze tłumaczenie Tesznara
-2. **PWN** - wydanie elektroniczne
-3. **Świat Książki** - wydanie klasyczne
-4. **Czytelnik** - wydania z lat poprzednich
+### Current Editions in Poland (2024-2025)
+1. **Nowa Baśń** - latest Tesznar translation
+2. **PWN** - electronic edition
+3. **Świat Książki** - classic edition
+4. **Czytelnik** - editions from previous years
 
-### Ceny i dostępność
-- **Nowe wydania** - 25-35 PLN
-- **Wydania elektroniczne** - 15-25 PLN
-- **Używane egzemplarze** - 10-20 PLN
+### Prices and Availability
+- **New editions** - 25-35 PLN
+- **Electronic editions** - 15-25 PLN
+- **Used copies** - 10-20 PLN
 
-## Wpływ na polską kulturę współczesną
+## Impact on Contemporary Polish Culture
 
-### Literatura i krytyka
-- **Punkty odniesienia** - dla dyskusji o moralności i religii
-- **Feministyczne interpretacje** - w kontekście polskich przemian społecznych
-- **Akademickie badania** - jako klasyk literatury amerykańskiej
+### Literature and Criticism
+- **Reference points** - for discussions about morality and religion
+- **Feminist interpretations** - in context of Polish social transformations
+- **Academic research** - as classic of American literature
 
-### Edukacyjne znaczenie
-- **Studia porównawcze** - amerykańska vs europejska tradycja
-- **Historia społeczna** - zrozumienie purytanizmu
-- **Psychologia literatury** - analiza postaci i motywacji
+### Educational Significance
+- **Comparative studies** - American vs European tradition
+- **Social history** - understanding Puritanism
+- **Psychology of literature** - character and motivation analysis
 
-## Wnioski dla polskiego kontekstu
+## Conclusions for Polish Context
 
-"Szkarłatna litera" w Polsce funkcjonuje przede wszystkim jako:
-1. **Klasyk akademicki** na poziomie studiów wyższych
-2. **Przedmiot porównań** między purytanizmem a katolicyzmem  
-3. **Tekst feministyczny** w kontekście polskich przemian społecznych
-4. **Symbol moralnych dylematów** uniwersalnych dla różnych kultur
+"The Scarlet Letter" in Poland functions primarily as:
+1. **Academic classic** at university level
+2. **Subject of comparisons** between Puritanism and Catholicism
+3. **Feminist text** in context of Polish social transformations
+4. **Symbol of moral dilemmas** universal across different cultures
 
-Najnowsze tłumaczenie Tomasza Tesznara (2024) świadczy o trwałym zainteresowaniu polskich czytelników tym amerykańskim klasykiem, choć jego recepcja różni się znacząco od krajów anglosaskich - w Polsce książka jest odbierana głównie przez pryzmat akademicki i porównawczy, a nie jako część narodowej spuścizny literackiej.
+The latest translation by Tomasz Tesznar (2024) demonstrates lasting interest of Polish readers in this American classic, although its reception differs significantly from English-speaking countries - in Poland the book is received mainly through academic and comparative lens, not as part of national literary heritage.

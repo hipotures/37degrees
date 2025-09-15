@@ -1,206 +1,206 @@
-# Dark Drama Research: "Of Mice and Men" (Myszy i ludzie) - John Steinbeck
+# Dark Drama Research: "Of Mice and Men" - John Steinbeck
 
-## Wprowadzenie
-Analiza kontrowersyjnych aspektów, skandali i mrocznych interpretacji jednej z najbardziej zakazywanych książek w historii amerykańskiej literatury. John Steinbeck i jego dzieło "Of Mice and Men" z 1937 roku to studium przypadku konfliktów społecznych, cenzury rządowej i dramatów osobistych.
-
----
-
-## 1. CENSORSHIP WARS - Wojny o Cenzurę
-
-### **FAKT**: Najczęściej zakazywana książka w USA
-"Of Mice and Men" znajduje się na 5. miejscu listy najbardziej zakazywanych książek w latach 2000-2009 według American Library Association. Od publikacji w 1937 roku książka była 54 razy zgłaszana do cenzury.
-
-### **FAKT**: Palenie książek w publicznych miejscach
-Książka była dosłownie palona w niektórych hrabstwach amerykańskich. Burbank Unified School District w Kalifornii usunął książkę z obowiązkowej lektury po skargach rodziców na używanie słowa na literę "N".
-
-### **FAKT**: "Lennie Standard" - Literacki test śmierci
-Texas używa postaci Lennie'ego jako testu do określania, czy osoba z niepełnosprawnością intelektualną może zostać stracona. Ten "Lennie Standard" doprowadził do wykonania kary śmierci na osobach z IQ poniżej 70.
-
-### **ZARZUT**: Promocja eutanazji według konserwatystów
-Konserwatywne grupy oskarżają książkę o "promocję eutanazji" ze względu na zakończenie, gdzie George zabija Lennie'ego. Grupa rodziców w Minnesota określiła to jako "demoralizujące i depresyjne przesłanie".
-
-### **FAKT**: Zakaz w Henry Sibley High School
-W 2019 roku administracja szkoły w West St. Paul, Minnesota zatrzymała lekcje o książce po skargach na "rasistowskie stereotypy i obelgi".
+## Introduction
+Analysis of controversial aspects, scandals and dark interpretations of one of the most banned books in American literary history. John Steinbeck and his work "Of Mice and Men" from 1937 is a case study of social conflicts, government censorship and personal dramas.
 
 ---
 
-## 2. AUTHOR'S DARK SECRETS - Mroczne tajemnice autora
+## 1. CENSORSHIP WARS
 
-### **FAKT**: 30 lat inwigilacji FBI pod J. Edgar Hooverem
-FBI prowadziło akta na temat Steinbecka przez ponad 30 lat. J. Edgar Hoover osobiście nakazał IRS przeprowadzanie kontroli podatkowych Steinbecka co roku przez całe jego życie "dla irytacji".
+### **FACT**: Most frequently banned book in the USA
+"Of Mice and Men" ranks 5th on the list of most banned books from 2000-2009 according to the American Library Association. Since publication in 1937, the book has been challenged for censorship 54 times.
 
-### **FAKT**: List do prokuratora generalnego o nękanie
-W 1942 roku Steinbeck napisał do prokuratora generalnego Francisa Biddle'a: "Czy mógłbyś poprosić chłopców Edgara, żeby przestali deptać mi po piętach? Myślą, że jestem wrogiem obcym. To staje się męczące."
+### **FACT**: Public book burning
+The book was literally burned in some American counties. Burbank Unified School District in California removed the book from required reading after parental complaints about use of the N-word.
 
-### **FAKT**: Tajna współpraca z CIA
-Według dokumentów FOIA, w 1952 roku Steinbeck napisał na osobistym papierze firmowym oferując pracę dla CIA. Ówczesny dyrektor CIA Walter Bedell Smith przyjął ofertę Steinbecka.
+### **FACT**: "Lennie Standard" - Literary death test
+Texas uses the character of Lennie as a test to determine whether a person with intellectual disability can be executed. This "Lennie Standard" has led to death sentences for people with IQs below 70.
 
-### **ZARZUT**: Promiskuityzm w starszym wieku
-Biografowie twierdzą, że "Steinbeck wydawał się stawać bardziej promiskuityczny z wiekiem." Po rozwodzie z Gwyn miał romans z aktorką Paulette Goddard, byłą żoną swojego bliskiego przyjaciela Burgess Meredithy.
+### **ACCUSATION**: Promotion of euthanasia according to conservatives
+Conservative groups accuse the book of "promoting euthanasia" due to the ending where George kills Lennie. A parent group in Minnesota called it a "demoralizing and depressing message."
 
-### **FAKT**: Żona komunistka w 1937 roku
-Według akt FBI, pierwsza żona Steinbecka zarejestrowała się jako komunistka w 1937 roku, co przyczyniło się do zwiększonej inwigilacji pisarza.
-
-### **FAKT**: Odrzucenie przez Army Intelligence
-Podczas II wojny światowej Army Intelligence przesiewało Steinbecka pod kątem przekonań politycznych w celu określenia jego przydatności do rangi oficera. Uznali go za "ideologicznie niekwalifikowanego".
+### **FACT**: Ban at Henry Sibley High School
+In 2019, administration at West St. Paul, Minnesota school stopped lessons about the book after complaints about "racist stereotypes and slurs."
 
 ---
 
-## 3. PLAGIARISM SCANDALS - Skandale plagiatowe
+## 2. AUTHOR'S DARK SECRETS
 
-### **ZARZUT**: Kradzież notatek Sanory Babb dla "The Grapes of Wrath"
-Sanora Babb pracowała w obozie Farm Security Administration w Kalifornii i robiła szczegółowe notatki o migrantach z Dust Bowl. Jej przełożony, Tom Collins, przekazał kopie jej notatek Johnowi Steinbeckowi bez jej wiedzy.
+### **FACT**: 30 years of FBI surveillance under J. Edgar Hoover
+The FBI maintained files on Steinbeck for over 30 years. J. Edgar Hoover personally ordered the IRS to conduct tax audits on Steinbeck every year of his life "for irritation."
 
-### **FAKT**: Zablokowanie publikacji książki Babb
-Kiedy Babb skończyła własną powieść "Whose Names Are Unknown", jej wydawca odmówił publikacji, ponieważ nie chciał konkurować z bestsellerem Steinbecka na ten sam temat.
+### **FACT**: Letter to Attorney General about harassment
+In 1942, Steinbeck wrote to Attorney General Francis Biddle: "Could you ask Edgar's boys to stop stepping on my heels? They think I'm an enemy alien. It's getting tiresome."
 
-### **ZARZUT**: Wykorzystanie szczegółów biograficznych bez zgody
-Notatki Babb były szczególnie szczegółowe, ponieważ była wyszkolona jako dziennikarka i planowała własną powieść, włączając szczegóły z własnego życia jako osoba dorastająca w biedzie w Oklahomie.
+### **FACT**: Secret CIA collaboration
+According to FOIA documents, in 1952 Steinbeck wrote on personal letterhead offering work for the CIA. Then-CIA director Walter Bedell Smith accepted Steinbeck's offer.
 
-### **FAKT**: Prawne spory rodzinne o prawa autorskie
-Po śmierci Steinbecka rodzina toczyła batalie prawne przez dekady. W 2017 roku jury przyznało jego pasierbicy Waverly Scott Kaffaga ponad 13 milionów dolarów odszkodowania za ingerencję w umowy filmowe i telewizyjne.
+### **ACCUSATION**: Promiscuity in old age
+Biographers claim "Steinbeck seemed to become more promiscuous with age." After divorcing Gwyn, he had an affair with actress Paulette Goddard, ex-wife of his close friend Burgess Meredith.
 
----
+### **FACT**: Communist wife in 1937
+According to FBI files, Steinbeck's first wife registered as a communist in 1937, contributing to increased surveillance of the writer.
 
-## 4. LITERARY FEUDS - Literackie wojny
-
-### **FAKT**: Mary McCarthy publicznie go skrytykowała
-Mary McCarthy publicznie krytykowała Steinbecka w telewizji, wymieniając go wśród przecenianych pisarzy obok Pearl Buck i Lillian Hellman.
-
-### **FAKT**: William Faulkner stracił do niego szacunek
-William Faulkner włączył Steinbecka do swoich rankingów literackich, stwierdzając: "kiedyś pokładałem w nim wielkie nadzieje - teraz nie wiem."
-
-### **FAKT**: Skandal Nagrody Nobla 1962
-Kiedy Steinbeck wygrał Nagrodę Nobla w dziedzinie literatury w 1962 roku, wybór został ostro skrytykowany i opisany jako "jeden z największych błędów Akademii" przez szwedzką gazetę.
-
-### **FAKT**: New York Times kwestionuje jego talent
-Amerykańscy krytycy literaccy byli bezlitośni, a The New York Times kwestionował, dlaczego nagroda trafiła do autora o "ograniczonym talencie", który był "rozwodniony przez filozofowanie dziesiątoklasowe".
+### **FACT**: Rejection by Army Intelligence
+During WWII, Army Intelligence screened Steinbeck regarding political beliefs to determine his suitability for officer rank. They deemed him "ideologically unqualified."
 
 ---
 
-## 5. GOVERNMENT SURVEILLANCE - Inwigilacja rządowa
+## 3. PLAGIARISM SCANDALS
 
-### **FAKT**: Skarga na nękanie przez rząd
-John Steinbeck publicznie skarżył się na nękanie przez rząd. Jego najstarszy syn Thomas Steinbeck zeznał, że J. Edgar Hoover używał swojej władzy, aby zachęcić IRS do kontroli podatkowych pisarza każdego roku "tylko po to, by go denerwować".
+### **ACCUSATION**: Theft of Sanora Babb's notes for "The Grapes of Wrath"
+Sanora Babb worked at a Farm Security Administration camp in California and took detailed notes about Dust Bowl migrants. Her supervisor, Tom Collins, gave copies of her notes to John Steinbeck without her knowledge.
 
-### **FAKT**: Kłamstwo FBI o braku inwigilacji
-FBI zaprzeczyło, że Steinbeck był pod obserwacją. Jednak prywatna odpowiedź Hoovera do Biddle'a, że "Steinbeck nie jest i nigdy nie był badany przez to Biuro", została porównana do publicznego zaprzeczenia Jamesa Clappera o inwigilacji NSA - było to kłamstwo.
+### **FACT**: Blocking publication of Babb's book
+When Babb finished her own novel "Whose Names Are Unknown," her publisher refused publication because they didn't want to compete with Steinbeck's bestseller on the same topic.
 
-### **FAKT**: Cenzura CIA przed ujawnieniem akt
-CIA zredagowała fragmenty akt FBI Steinbecka, zanim zostały ujawnione zgodnie z ustawą o wolności informacji z 1966 roku.
+### **ACCUSATION**: Using biographical details without consent
+Babb's notes were particularly detailed because she was trained as a journalist and planned her own novel, including details from her own life growing up in poverty in Oklahoma.
 
-### **FAKT**: Nigdy nie wezwany przed Komisję Un-American Activities
-Steinbeck nigdy nie został wezwany przed House Select Committee on Un-American Activities, pomimo domniemanych powiązań z organizacjami komunistycznymi.
-
----
-
-## 6. REAL-LIFE DEATH SENTENCES - Wyroki śmierci w prawdziwym życiu
-
-### **FAKT**: Bobby James Moore - Ofiara "Lennie Standard"
-Bobby James Moore, mężczyzna z niesprawnością intelektualną przez całe życie, siedzi w celi śmierci w Teksasie, ponieważ sądy użyły "Of Mice and Men" do zdecydowania o jego losie. Jego wyniki IQ wahają się od 50 do 70.
-
-### **FAKT**: Marvin Wilson stracony w 2012
-Teksas zabił Marvina Wilsona w 2012 roku. Wilson był mężczyzną, który ssał kciuk i nie potrafił wydać reszty ani używać książki telefonicznej. Jego IQ wynosił 61, ale sąd uznał, że powinien zostać stracony, używając testu Lennie'ego.
-
-### **FAKT**: Robert Ladd stracony w 2015
-Robert Ladd, niepełnosprawny intelektualnie z IQ 67, został stracony w Teksasie. Jego ostatnie słowa brzmiały: "To kłuje mnie w ramię, człowieku", gdy śmiertelny zastrzyk wszedł do jego ciała.
-
-### **FAKT**: Juan Lizcano - IQ 48-62
-Juan Lizcano miał wyniki IQ w zakresie od 48 do 62 i został usunięty ze szkoły w wieku 15 lat, ponieważ nie przeszedł poza szóstą klasę. Nie potrafił odczytać zegara, odpowiednio się ubrać ani wykonywać prostych prac.
-
-### **FAKT**: Protest sędzi Elsy Alcala
-Sędzia Elsa Alcala samotnie sprzeciwiła się standardowi Lennie'ego, stwierdzając: "Standard Lennie'ego nie spełnia wymogów Konstytucji federalnej. Ustanowiłabym standard, który nie zawiera żadnych odniesień do postaci fikcyjnej."
+### **FACT**: Family legal battles over copyrights
+After Steinbeck's death, the family fought legal battles for decades. In 2017, a jury awarded his stepdaughter Waverly Scott Kaffaga over $13 million in damages for interference with film and television contracts.
 
 ---
 
-## 7. PUBLISHING DRAMA - Drama wydawnicze
+## 4. LITERARY FEUDS
 
-### **FAKT**: Blokada adaptacji filmowych przez spory rodzinne
-Nie było adaptacji filmowej żadnego z dzieł Steinbecka od "Of Mice and Men" z 1992 roku, ponieważ ciągła groźba procesów sądowych doprowadziła do porzucenia wielu projektów przez wielkich graczy branżowych.
+### **FACT**: Mary McCarthy publicly criticized him
+Mary McCarthy publicly criticized Steinbeck on television, naming him among overrated writers alongside Pearl Buck and Lillian Hellman.
 
-### **FAKT**: Odrzucenie przez DreamWorks, Universal i Spielberga
-Członkowie rodziny byli wielokrotnie kontaktowani przez włodarzy branży (w tym DreamWorks, Universal Pictures i Stevena Spielberga) w sprawie adaptacji filmowych, ale stała groźba sporów prawnych doprowadziła do porzucenia wielu z tych projektów.
+### **FACT**: William Faulkner lost respect for him
+William Faulkner included Steinbeck in his literary rankings, stating: "I once had great hopes for him - now I don't know."
 
-### **FAKT**: 13 milionów dolarów odszkodowania za ingerencję
-W 2017 roku kalifornijskie jury przyznało Kaffaga 13 milionów dolarów w procesie, w którym twierdziła, że Thomas Steinbeck i jego żona Gail ingerowali w umowy dotyczące adaptacji filmowych.
+### **FACT**: 1962 Nobel Prize scandal
+When Steinbeck won the Nobel Prize in Literature in 1962, the choice was sharply criticized and described as "one of the Academy's biggest mistakes" by a Swedish newspaper.
 
----
-
-## 8. DARK THEMES - Mroczne tematy
-
-### **ZARZUT**: Księga o "mercy killing" (zabójstwie z litości)
-Konserwatywne grupy oskarżają książkę o promowanie "zabójstwa z litości" przez zakończenie, w którym George zabija Lennie'ego, by oszczędzić mu cierpienia.
-
-### **FAKT**: Depresyjne i nihilistyczne przesłanie
-Krytycy argumentują, że książka przedstawia "depresyjne i nihilistyczne" przesłanie o niemożności osiągnięcia amerykańskiego snu przez marginalizowane grupy społeczne.
-
-### **FAKT**: Krytyka kapitalizmu i antybiznesowa postawa
-Cenzorom nie podobała się "antybiznesowa postawa" autora i krytyka kapitalizmu przedstawiona przez los robotników rolnych.
-
-### **ZARZUT**: Promowanie przemocy jako rozwiązania
-Niektórzy interpretują zabójstwo Lennie'ego przez George'a jako usprawiedliwienie przemocy jako "miłosiernego" rozwiązania problemów społecznych.
+### **FACT**: New York Times questions his talent
+American literary critics were ruthless, and The New York Times questioned why the award went to an author of "limited talent" who was "diluted by tenth-grade philosophizing."
 
 ---
 
-## 9. ALCOHOL AND ADDICTION - Alkohol i uzależnienia
+## 5. GOVERNMENT SURVEILLANCE
 
-### **FAKT**: Alkoholizm drugiej żony Gwyn
-Alkoholizm Gwyn był czynnikiem przyczyniającym się do tego, że nigdy się nie ponownie nie wyszła za mąż. Jej nadużywanie alkoholu jest opisane w "The Other Side of Eden" przez Johna Steinbecka Jr.
+### **FACT**: Complaint about government harassment
+John Steinbeck publicly complained about government harassment. His eldest son Thomas Steinbeck testified that J. Edgar Hoover used his power to encourage IRS tax audits of the writer every year "just to annoy him."
 
-### **FAKT**: Pisarski styl życia z alkoholem
-Steinbeck pracował bardzo ciężko podczas pisania. Nie pił do końca dnia lub podczas wakacji między książkami. Ludzie z branż kreatywnych "ciężko pracują i jeszcze ciężej się bawią".
+### **FACT**: FBI lies about lack of surveillance
+The FBI denied that Steinbeck was under observation. However, Hoover's private response to Biddle that "Steinbeck is not and never has been investigated by this Bureau" was compared to James Clapper's public denial of NSA surveillance - it was a lie.
 
-### **ZARZUT**: Używanie alkoholu do radzenia sobie ze stresem
-Biografowie sugerują, że Steinbeck używał alkoholu jako mechanizmu radzenia sobie z intensywnym stresem pisarskim i presją polityczną.
+### **FACT**: CIA censorship before file disclosure
+The CIA redacted portions of Steinbeck's FBI files before they were disclosed under the 1966 Freedom of Information Act.
 
----
-
-## 10. PREDICTIONS AND PROPHECIES - Przepowiednie i prognozy
-
-### **FAKT**: Trafna przepowiednia o mechanizacji rolnictwa
-Pod koniec lat 30. krajobraz rolniczy przechodził szybką mechanizację. Wprowadzenie mechanicznych kombajnów pozwoliło małej załodze zebrać tyle ziarna, ile setki pracowników mogły w poprzednich latach.
-
-### **FAKT**: Przewidział upadek robotników wędrownych
-Steinbeck przewidział, że zmiana technologiczna przyczyni się do upadku robotników wędrownych, którzy kiedyś migrowali przez stany od Minnesoty do Waszyngtonu.
-
-### **FAKT**: Przepowiedział trwałą nierówność ekonomiczną
-Jego portret marginalizowanych postaci i ich walk podkreśla tematy alienacji i porażki amerykańskiego snu, odzwierciedlając wyzwania społeczne i trudności ekonomiczne lat 30., które pozostają aktualne.
-
-### **FAKT**: Przewidział ciągłe wykorzystywanie pracowników
-Komentarz polityczny, że kapitalizm jest siłą korumpującą, jest reprezentowany w całym jego dziele poprzez subtelne zestawienia i symbolikę.
+### **FACT**: Never called before Un-American Activities Committee
+Steinbeck was never called before the House Select Committee on Un-American Activities, despite alleged connections with communist organizations.
 
 ---
 
-## 11. FINANCIAL SCANDALS - Skandale finansowe
+## 6. REAL-LIFE DEATH SENTENCES
 
-### **FAKT**: Spory o prawa autorskie trwające 30 lat
-Niezgoda rodziny Steinbecka co do własności praw autorskich sięga ponad 30 lat, począwszy od śmierci autora w 1968 roku, kiedy pozostawił prawa do swoich książek trzeciej żonie, Elaine Steinbeck.
+### **FACT**: Bobby James Moore - Victim of "Lennie Standard"
+Bobby James Moore, a man with lifelong intellectual disability, sits on death row in Texas because courts used "Of Mice and Men" to decide his fate. His IQ scores range from 50 to 70.
 
-### **FAKT**: Nieudane próby odwołania praw w 2004
-W 2004 roku Thomas Steinbeck i Blake Smyle próbowali odwołać przyznanie praw do dzieł Steinbecka udzielone The Viking Press w 1938 roku, ale cztery lata później 2. Sąd Apelacyjny uznał ich odwołanie za nieskuteczne.
+### **FACT**: Marvin Wilson executed in 2012
+Texas killed Marvin Wilson in 2012. Wilson was a man who sucked his thumb and couldn't make change or use a phone book. His IQ was 61, but the court ruled he should be executed using the Lennie test.
 
-### **FAKT**: Renegocjacja praw przez wdowę w 1994
-Wdowa po Steinbecku renegocjowała przyznanie praw z 1938 roku w 1994 roku, co Drugi Sąd Apelacyjny uznał za całkowite odwołanie przyznania praw z 1938 roku.
+### **FACT**: Robert Ladd executed in 2015
+Robert Ladd, intellectually disabled with IQ 67, was executed in Texas. His last words were: "That stings my arm, man," as the lethal injection entered his body.
 
----
+### **FACT**: Juan Lizcano - IQ 48-62
+Juan Lizcano had IQ scores ranging from 48 to 62 and was removed from school at age 15 because he couldn't progress beyond sixth grade. He couldn't read a clock, dress properly, or perform simple jobs.
 
-## 12. RACIAL CONTROVERSY - Kontrowersje rasowe
-
-### **FAKT**: 54 zgłoszenia cenzury od 1936 roku
-"Of Mice and Men" została zgłoszona do cenzury 54 razy od momentu publikacji w 1936 roku, głównie z powodu używania rasistowskich obelg.
-
-### **FAKT**: Usunięcie z listy lektur obowiązkowych
-Po skargach rodziców na używanie rasistowskich epitetów, superintendent Burbank (CA) Unified School District wydał oświadczenie usuwające książki z listy obowiązkowych lektur dla programu nauczania języka angielskiego.
-
-### **FAKT**: Zakaz używania słowa na literę N w klasach
-Dystrikt zakazał używania słowa na literę "N" we wszystkich klasach szkolnych po skargach związanych z książką.
+### **FACT**: Judge Elsa Alcala's protest
+Judge Elsa Alcala alone opposed the Lennie standard, stating: "The Lennie standard does not meet federal constitutional requirements. I would establish a standard that contains no references to a fictional character."
 
 ---
 
-## PODSUMOWANIE
+## 7. PUBLISHING DRAMA
 
-"Of Mice and Men" pozostaje jedną z najbardziej kontrowersyjnych książek w amerykańskiej literaturze, a jej autor John Steinbeck był postacią równie problematyczną. Od inwigilacji FBI przez dekady, przez skandale plagiatowe, po współczesne wykorzystywanie jego dzieła do usprawiedliwiania egzekucji osób niepełnosprawnych intelektualnie - ta krótka nowela niesie ze sobą bagaż mrocznych interpretacji i dramatów, który wykracza daleko poza jej literackie znaczenie.
+### **FACT**: Film adaptation blockade due to family disputes
+There has been no film adaptation of any Steinbeck work since "Of Mice and Men" in 1992 because the constant threat of lawsuits led to many projects being abandoned by major industry players.
 
-**Status badania**: KOMPLETNE
-**Źródła**: 45 faktów i zarzutów zebranych z dokumentów rządowych, akt sądowych, biografii i analiz literackich
-**Poziom kontrowersji**: BARDZO WYSOKI - książka wciąż wywołuje protesty i spory prawne
+### **FACT**: Rejection by DreamWorks, Universal and Spielberg
+Family members were repeatedly contacted by industry leaders (including DreamWorks, Universal Pictures and Steven Spielberg) about film adaptations, but the constant threat of legal disputes led to many of these projects being abandoned.
+
+### **FACT**: $13 million damages for interference
+In 2017, a California jury awarded Kaffaga $13 million in a lawsuit claiming Thomas Steinbeck and his wife Gail interfered with film adaptation contracts.
+
+---
+
+## 8. DARK THEMES
+
+### **ACCUSATION**: Book about "mercy killing"
+Conservative groups accuse the book of promoting "mercy killing" through the ending where George kills Lennie to spare him suffering.
+
+### **FACT**: Depressive and nihilistic message
+Critics argue the book presents a "depressive and nihilistic" message about the impossibility of achieving the American dream for marginalized social groups.
+
+### **FACT**: Criticism of capitalism and anti-business attitude
+Censors disliked the author's "anti-business attitude" and criticism of capitalism presented through the fate of agricultural workers.
+
+### **ACCUSATION**: Promoting violence as solution
+Some interpret George's killing of Lennie as justifying violence as a "merciful" solution to social problems.
+
+---
+
+## 9. ALCOHOL AND ADDICTION
+
+### **FACT**: Second wife Gwyn's alcoholism
+Gwyn's alcoholism was a contributing factor to her never remarrying. Her alcohol abuse is described in "The Other Side of Eden" by John Steinbeck Jr.
+
+### **FACT**: Writer's lifestyle with alcohol
+Steinbeck worked very hard while writing. He didn't drink until the end of the day or during vacations between books. People in creative industries "work hard and play even harder."
+
+### **ACCUSATION**: Using alcohol to cope with stress
+Biographers suggest Steinbeck used alcohol as a coping mechanism for intense writing stress and political pressure.
+
+---
+
+## 10. PREDICTIONS AND PROPHECIES
+
+### **FACT**: Accurate prophecy about agricultural mechanization
+By the late 1930s, the agricultural landscape was undergoing rapid mechanization. The introduction of mechanical combines allowed a small crew to harvest as much grain as hundreds of workers could in previous years.
+
+### **FACT**: Predicted the decline of migrant workers
+Steinbeck predicted that technological change would contribute to the decline of migrant workers who once migrated through states from Minnesota to Washington.
+
+### **FACT**: Prophesied lasting economic inequality
+His portrayal of marginalized characters and their struggles emphasizes themes of alienation and failure of the American dream, reflecting the social challenges and economic hardships of the 1930s that remain relevant.
+
+### **FACT**: Predicted continued worker exploitation
+The political commentary that capitalism is a corrupting force is represented throughout his work through subtle juxtapositions and symbolism.
+
+---
+
+## 11. FINANCIAL SCANDALS
+
+### **FACT**: Copyright disputes lasting 30 years
+The Steinbeck family's disagreement over copyright ownership spans over 30 years, beginning with the author's death in 1968 when he left rights to his books to his third wife, Elaine Steinbeck.
+
+### **FACT**: Failed attempts to revoke rights in 2004
+In 2004, Thomas Steinbeck and Blake Smyle tried to revoke the grant of rights to Steinbeck's works given to The Viking Press in 1938, but four years later the 2nd Circuit Court ruled their revocation ineffective.
+
+### **FACT**: Rights renegotiation by widow in 1994
+Steinbeck's widow renegotiated the 1938 rights grant in 1994, which the Second Circuit Court ruled was a complete revocation of the 1938 rights grant.
+
+---
+
+## 12. RACIAL CONTROVERSY
+
+### **FACT**: 54 censorship challenges since 1936
+"Of Mice and Men" has been challenged for censorship 54 times since publication in 1936, mainly due to use of racist slurs.
+
+### **FACT**: Removal from required reading lists
+After parental complaints about use of racist epithets, the Burbank (CA) Unified School District superintendent issued a statement removing books from required reading lists for the English curriculum.
+
+### **FACT**: Ban on N-word use in all classrooms
+The district banned use of the N-word in all school classrooms following complaints related to the book.
+
+---
+
+## SUMMARY
+
+"Of Mice and Men" remains one of the most controversial books in American literature, and its author John Steinbeck was an equally problematic figure. From FBI surveillance for decades, through plagiarism scandals, to contemporary use of his work to justify executions of intellectually disabled people - this short novella carries a baggage of dark interpretations and dramas that extends far beyond its literary significance.
+
+**Research Status**: COMPLETE
+**Sources**: 45 facts and accusations collected from government documents, court records, biographies and literary analyses
+**Controversy Level**: VERY HIGH - book still causes protests and legal disputes

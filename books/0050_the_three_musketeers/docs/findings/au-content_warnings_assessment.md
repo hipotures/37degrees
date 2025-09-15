@@ -1,254 +1,293 @@
-# Ocena Content Warnings: "Trzej Muszkieterowie" Alexandre'a Dumasa (1844)
+# Content Warnings Assessment: "The Three Musketeers" by Alexandre Dumas (1844)
 
-## INFORMACJE PODSTAWOWE
-- **Tytuł**: Trzej Muszkieterowie / The Three Musketeers
-- **Autor**: Alexandre Dumas (père)  
-- **Rok**: 1844
-- **Gatunek**: Przygodowa, historyczna
-- **Status**: Książka klasyczna, obowiązkowa lektura szkolna w Polsce
+## BASIC INFORMATION
+- **Title**: The Three Musketeers / Trzej Muszkieterowie
+- **Author**: Alexandre Dumas (père)
+- **Year**: 1844
+- **Genre**: Adventure, Historical Fiction
+- **Status**: Classic literature, required reading in Polish schools
 
-## EXECUTIVE SUMMARY - OCENA OGÓLNA
+## EXECUTIVE SUMMARY - OVERALL ASSESSMENT
 
-**REKOMENDACJA KLASYFIKACYJNA**: **16+** na większości platform z wyjątkami
-**NAJWYŻSZE RYZYKO**: Facebook/Instagram (liberalizacja polityk hateful conduct)
-**NAJNIŻSZE RYZYKO**: Spotify i Kick (creator-friendly policies)
+**CLASSIFICATION RECOMMENDATION**: **16+** on most platforms with exceptions
+**HIGHEST RISK**: Facebook/Instagram (liberalized hate speech policies)
+**LOWEST RISK**: Spotify and Kick (creator-friendly policies)
 
-## MATRIX RYZYKA PLATFORM vs PROBLEMATYCZNE TEMATY
+## PLATFORM RISK MATRIX vs PROBLEMATIC TOPICS
 
-| Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+| Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |-------|----------|-----------|---------|---------|---------|------|
-| **Przemoc/pojedynki** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Morderstwo (Milady)** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Zdrada małżeńska** | 🔴 HIGH | 🔴 HIGH | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Tematyka religijna** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Polityka monarchistyczna** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
-| **Dyskryminacja społeczna** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Toxic masculinity** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Manipulacja i oszustwo** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Violence/Dueling** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Murder (Milady)** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Adultery Themes** | 🔴 HIGH | 🔴 HIGH | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Religious Content** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Monarchist Politics** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
+| **Social Discrimination** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Toxic Masculinity** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Manipulation/Deception** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
 
-## ANALIZA WRAŻLIWYCH TREŚCI PO AGENTACH
+## SENSITIVE CONTENT ANALYSIS BY RESEARCH AGENTS
 
-### 1. PRZEMOC I ZABÓJSTWA (z au-research_dark_drama.md)
+### 1. VIOLENCE AND MURDERS (from au-research_dark_drama.md)
 
-**Problematyczne elementy:**
-- Liczne pojedynki na śmierć i życie
-- Egzekucja Milady przez ścięcie
-- Gloryfikacja przemocy jako sposobu rozwiązywania konfliktów
-- Zabójstwa w imię "honoru"
+**Problematic Elements:**
+- Numerous life-and-death duels
+- Milady's execution by beheading
+- Glorification of violence as conflict resolution
+- Murders committed in the name of "honor"
 
-**Ocena Platform:**
-- **Facebook/Instagram**: 🔴 **WYSOKIE RYZYKO** - nowe liberalne polityki mogą zwiększyć tolerancję, ale przemoc nadal problematyczna
-- **YouTube**: 🟡 **ŚREDNIE RYZYKO** - z educational framing możliwe
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - tylko w 1+ min content z kontekstem
-- **Spotify**: 🟢 **NISKIE RYZYKO** - audio format mniej problematyczny
-- **Kick**: 🟢 **NISKIE RYZYKO** - najliberalniejsze zasady
+**Platform Assessment:**
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - New liberal policies may increase tolerance, but violence remains problematic
+- **YouTube**: 🟡 **MEDIUM RISK** - With educational framing possible
+- **TikTok**: 🟡 **MEDIUM RISK** - Only in 1+ min content with context
+- **Spotify**: 🟢 **LOW RISK** - Audio format less problematic
+- **Kick**: 🟢 **LOW RISK** - Most liberal policies
 
-**Rekomendacje:**
-- **AGE-RESTRICT** na wszystkich platformach dla treści z detalami przemocy
-- **EDIT/OMIT** graficzne opisy einzelynków dla młodszej publiczności
-- **EDUCATIONAL FRAMING** - przemoc jako odbicie epoki, nie wzór
+**Recommendations:**
+- **AGE-RESTRICT** on all platforms for detailed violence content
+- **EDIT/OMIT** graphic duel descriptions for younger audiences
+- **EDUCATIONAL FRAMING** - Violence as historical reflection, not model
 
-### 2. TEMATYKA RELIGIJNA (z au-research_symbols_meanings.md)
+### 2. RELIGIOUS THEMES (from au-research_symbols_meanings.md)
 
-**Potencjalne problemy:**
-- Kardynał Richelieu jako antagonista
-- Krytyka władzy kościelnej
-- Konflikt katolicko-protestancki (hugenoci)
-- Jezuicka "kazuistyka" jako negatyw
+**Potential Issues:**
+- Cardinal Richelieu as antagonist
+- Criticism of ecclesiastical power
+- Catholic-Protestant conflict (Huguenots)
+- Jesuit "casuistry" as negative portrayal
 
-**Ocena Platform:**
-- **Facebook/Instagram**: 🟡 **ŚREDNIE RYZYKO** - w zależności od podejścia
-- **YouTube**: 🟢 **NISKIE RYZYKO** - z academic approach
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - ostrożność z kontrowersyjnymi interpretacjami
-- **Spotify**: 🟢 **NISKIE RYZYKO** - educational content friendly
-- **Kick**: 🟢 **NISKIE RYZYKO** - najwyższa tolerancja
+**Platform Assessment:**
+- **Facebook/Instagram**: 🟡 **MEDIUM RISK** - Depends on approach
+- **YouTube**: 🟢 **LOW RISK** - With academic approach
+- **TikTok**: 🟡 **MEDIUM RISK** - Caution with controversial interpretations
+- **Spotify**: 🟢 **LOW RISK** - Educational content friendly
+- **Kick**: 🟢 **LOW RISK** - Highest tolerance
 
-**Rekomendacje:**
-- **OK** dla większości platform z educational context
-- **OSTROŻNOŚĆ** przy przedstawianiu Richelieu - focus na historical accuracy
-- **BALANCE** - pokazuj kompleksowość historyczną, nie jednostronne osądy
+**Recommendations:**
+- **OK** for most platforms with educational context
+- **CAUTION** when presenting Richelieu - Focus on historical accuracy
+- **BALANCE** - Show historical complexity, not one-sided judgments
 
-### 3. PROBLEMATYCZNE PRZEDSTAWIENIE KOBIET (z au-research_symbols_meanings.md)
+### 3. PROBLEMATIC REPRESENTATION OF WOMEN (from au-research_symbols_meanings.md)
 
-**Elementy wrażliwe:**
-- Milady jako archetyp "złej kobiety"
-- Ograniczone role kobiet (bierne postacie)
-- Demonizacja kobiecej seksualności
-- Brak female agency w narracji
+**Sensitive Elements:**
+- Milady as archetype of "evil woman"
+- Limited female roles (passive characters)
+- Demonization of female sexuality
+- Lack of female agency in narrative
 
-**Ocena Platform:**
-- **Facebook/Instagram**: 🔴 **WYSOKIE RYZYKO** - nowe polityki zwiększają tolerancję dla controversial content o kobietach
-- **YouTube**: 🟡 **ŚREDNIE RYZYKO** - z feminist critique perspective
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - możliwe reframing dla Gen Z
-- **Spotify**: 🟢 **NISKIE RYZYKO** - długi format pozwala na nuance
-- **Kick**: 🟢 **NISKIE RYZYKO** - najliberalniejsze podejście
+**Platform Assessment:**
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - New policies increase tolerance for controversial content about women
+- **YouTube**: 🟡 **MEDIUM RISK** - With feminist critique perspective
+- **TikTok**: 🟡 **MEDIUM RISK** - Possible reframing for Gen Z
+- **Spotify**: 🟢 **LOW RISK** - Long format allows for nuance
+- **Kick**: 🟢 **LOW RISK** - Most liberal approach
 
-**Rekomendacje:**
-- **CRITICAL ANALYSIS** - omów historical context ograniczonej reprezentacji kobiet
-- **MODERN PERSPECTIVE** - dodaj współczesne interpretacje feministyczne
-- **BALANCE** - wyjaśnij różnicę między historical accuracy a modern values
+**Recommendations:**
+- **CRITICAL ANALYSIS** - Discuss historical context of limited female representation
+- **MODERN PERSPECTIVE** - Add contemporary feminist interpretations
+- **BALANCE** - Explain difference between historical accuracy and modern values
 
-### 4. GLORYFIKACJA SYSTEMU KLASOWEGO (z au-research_dark_drama.md)
+### 4. GLORIFICATION OF CLASS SYSTEM (from au-research_dark_drama.md)
 
-**Problematyczne aspekty:**
-- Idealizacja monarchii i arystokracji
-- Słaby monarchy vs silny minister
-- Hierarchie społeczne jako "naturalne"
-- Krytyka systemu feudalnego, ale bez alternatywy
+**Problematic Aspects:**
+- Idealization of monarchy and aristocracy
+- Weak monarch vs. strong minister dynamics
+- Social hierarchies as "natural"
+- Criticism of feudal system, but without alternatives
 
-**Ocena Platform:**
-- **Facebook/Instagram**: 🔴 **WYSOKIE RYZYKO** - polityczne treści ostro moderowane
-- **YouTube**: 🟡 **ŚREDNIE RYZYKO** - z historical education angle
-- **TikTok**: 🔴 **WYSOKIE RYZYKO** - political content heavy moderation
-- **Spotify**: 🟢 **NISKIE RYZYKO** - educational podcast friendly
-- **Kick**: 🟢 **NISKIE RYZYKO** - najmniej restrykcyjne
+**Platform Assessment:**
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - Political content heavily moderated
+- **YouTube**: 🟡 **MEDIUM RISK** - With historical education angle
+- **TikTok**: 🔴 **HIGH RISK** - Political content heavy moderation
+- **Spotify**: 🟢 **LOW RISK** - Educational podcast friendly
+- **Kick**: 🟢 **LOW RISK** - Least restrictive
 
-**Rekomendacje:**
-- **HISTORICAL CONTEXT** - jasno określ jako historical fiction, nie modern guidance
-- **AVOID POLITICAL INTERPRETATIONS** na platformach wysokiego ryzyka
-- **FOCUS ON UNIVERSAL THEMES** - przyjaźń, honor, lojalność
+**Recommendations:**
+- **HISTORICAL CONTEXT** - Clearly define as historical fiction, not modern guidance
+- **AVOID POLITICAL INTERPRETATIONS** on high-risk platforms
+- **FOCUS ON UNIVERSAL THEMES** - Friendship, honor, loyalty
 
-## KLASYFIKACJA WIEKOWA PO PLATFORMACH
+### 5. AUTHOR'S CONTROVERSIAL BACKGROUND (from au-research_dark_drama.md)
 
-### 13+ CONTENT (Bezpieczny dla wszystkich platform)
-**Co jest OK:**
-- Przyjaźń między muszkieterami i motto "jeden za wszystkich"
-- Przygody D'Artagnana w Paryżu
-- Pozytywne wartości: honor, lojalność, odwaga
-- Historical education o XVII-wiecznej Francji
-- Literary analysis technik pisarskich Dumasa
+**Sensitive Elements:**
+- Mixed-race heritage and discrimination faced
+- 40 mistresses and extravagant lifestyle
+- "Fiction factory" using ghostwriters
+- Lawsuits with collaborator Auguste Maquet
+- Financial scandals and bankruptcy
 
-**Content Warnings dla 13+:**
-- Mild violence (pojedynki bez detali)
+**Platform Assessment:**
+- **Facebook/Instagram**: 🟡 **MEDIUM RISK** - Personal scandals less problematic than content
+- **YouTube**: 🟢 **LOW RISK** - Author biography content popular
+- **TikTok**: 🟡 **MEDIUM RISK** - Salacious content may get flagged
+- **Spotify**: 🟢 **LOW RISK** - Historical accuracy appreciated
+- **Kick**: 🟢 **LOW RISK** - Adult audience can handle complexity
+
+**Recommendations:**
+- **EDUCATIONAL APPROACH** - Present scandals in historical context
+- **FOCUS ON LITERARY IMPACT** rather than personal details
+- **AGE-APPROPRIATE** discussion of controversial elements
+
+### 6. YOUTH DIGITAL CULTURE CONNECTIONS (from au-research_youth_digital.md)
+
+**Positive Modern Connections:**
+- #regencycore aesthetic trending (728,500 TikTok views)
+- Sword fighting content popular (45.2M TikTok views)
+- Gaming culture parallels (Clash Royale "3 Musketeers" strategy)
+- Mental health parallels - friendship models vs. social media isolation
+- Historical fashion trends (corset searches up 74%)
+
+**Platform Assessment:**
+- **All Platforms**: 🟢 **LOW RISK** - Youth connections are educational and positive
+- **Opportunity**: High engagement potential with proper framing
+
+**Recommendations:**
+- **LEVERAGE TRENDS** - Connect with popular aesthetics and gaming culture
+- **MENTAL HEALTH ANGLE** - Friendship models for Gen Z isolation
+- **FASHION/AESTHETIC** content performs well across platforms
+
+## AGE CLASSIFICATION BY PLATFORMS
+
+### 13+ CONTENT (Safe for all platforms)
+**What is OK:**
+- Friendship between musketeers and "all for one" motto
+- D'Artagnan's adventures in Paris
+- Positive values: honor, loyalty, courage
+- Historical education about 17th-century France
+- Literary analysis of Dumas' writing techniques
+
+**Content Warnings for 13+:**
+- Mild violence (duels without details)
 - Historical context required
 - Some outdated social views
 
 ### 16+ CONTENT (Age-restrict recommended)
-**Elementy wymagające ostrożności:**
-- Detailed sword fighting i pojedynki
-- Manipulacyjne tactics Milady
+**Elements requiring caution:**
+- Detailed sword fighting and duels
+- Milady's manipulative tactics
 - Political intrigue and conspiracy
-- Moralnie dwuznaczne postacie (Richelieu)
-- Historical violence i consequences
+- Morally ambiguous characters (Richelieu)
+- Historical violence and consequences
 
-**Content Warnings dla 16+:**
+**Content Warnings for 16+:**
 - Graphic violence, sword fights, deaths
 - Complex moral themes
 - Historical political content
 - Manipulation and deception themes
 
-### 18+ CONTENT (Adult audience only - szczególne platformy)
-**Najbardziej problematyczne (głównie dla Facebook/Instagram):**
+### 18+ CONTENT (Adult audience only - specific platforms)
+**Most problematic (mainly for Facebook/Instagram):**
 - Execution of Milady (detailed discussion)
-- Political criticism monarchii
-- Feminist critique patriarchal systems
-- Analysis toxic masculinity w książce
+- Political criticism of monarchy
+- Feminist critique of patriarchal systems
+- Analysis of toxic masculinity in the book
 - Deep dive into author's scandals
 
-## REKOMENDACJE SPECYFICZNE DLA KAŻDEJ PLATFORMY
+## PLATFORM-SPECIFIC RECOMMENDATIONS
 
-### 🔴 FACEBOOK/INSTAGRAM - VYSOKÉ RIZIKO
-**Status**: Najwyższe ryzyko przez liberalizację hate speech policies
+### 🔴 FACEBOOK/INSTAGRAM - HIGH RISK
+**Status**: Highest risk due to liberalized hate speech policies
 **Recommendation**: **Extreme caution**
 
-**✅ DOZWOLONE:**
-- Podstawowe book reviews z pozytywnym spin
-- Educational content about przyjaźń and loyalty
-- Historical facts bez controversial interpretations
+**✅ ALLOWED:**
+- Basic book reviews with positive spin
+- Educational content about friendship and loyalty
+- Historical facts without controversial interpretations
 - Art and illustrations discussion
 
-**⚠️ OSTROŻNOŚĆ:**
-- Unikaj political interpretations
-- Nie wspominaj o gender issues
+**⚠️ CAUTION:**
+- Avoid political interpretations
+- Don't mention gender issues
 - Skip controversial religious themes
 - Minimal violence descriptions
 
-**❌ UNIKAJ:**
-- Feminist critique Milady representation
-- Political analysis monarchii
+**❌ AVOID:**
+- Feminist critique of Milady representation
+- Political analysis of monarchy
 - Detailed violence descriptions
 - Any controversial historical interpretations
 
 **CONTENT WARNINGS:**
-> "Ta klasyka zawiera motywy typowe dla literatury XIX wieku. Omawiamy ją w kontekście historycznym i edukacyjnym."
+> "This classic contains themes typical of 19th-century literature. We discuss it in historical and educational context."
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO
-**Status**: AI content restrictions ale educational friendly
+### 🟡 YOUTUBE - MEDIUM RISK
+**Status**: AI content restrictions but educational friendly
 **Recommendation**: **Human narration + educational framing**
 
-**✅ DOZWOLONE:**
+**✅ ALLOWED:**
 - Long-form educational content (10+ min)
-- Academic analysis z citations
+- Academic analysis with citations
 - Historical context discussions
 - Literary technique analysis
 - Book vs adaptations comparisons
 
-**⚠️ WYMAGANIA:**
-- **Human narration** (nie text-to-speech)
+**⚠️ REQUIREMENTS:**
+- **Human narration** (not text-to-speech)
 - **Original commentary** dominant over quotes
 - **Educational framing** for sensitive topics
-- **Historical context** for wszystkie controversial elements
+- **Historical context** for all controversial elements
 
-**❌ UNIKAJ:**
+**❌ AVOID:**
 - Pure text-to-speech audiobook readings
-- AI-generated content bez human input
+- AI-generated content without human input
 - Mass-produced similar content
 - Repetitive formats
 
 **CONTENT WARNINGS:**
 > "This classic contains themes reflecting 19th-century attitudes. We discuss them in historical and educational context."
 
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
+### 🟡 TIKTOK - MEDIUM RISK
 **Status**: Only 1+ minute monetizable, strict moderation
-**Recommendation**: **Original long-form content tylko**
+**Recommendation**: **Original long-form content only**
 
-**✅ DOZWOLONE:**
+**✅ ALLOWED:**
 - Original 1+ minute educational content
-- Personal book reviews z own perspective
+- Personal book reviews with own perspective
 - Behind-the-scenes book selection process
 - Modern relevance connections (carefully)
 
-**⚠️ WYMAGANIA:**
-- **Minimum 1 minuta** for monetization
+**⚠️ REQUIREMENTS:**
+- **Minimum 1 minute** for monetization
 - **Original content only** - no duets/stitches
 - **Personal storytelling** approach
 - **Clear educational intent**
 
-**❌ UNIKAJ:**
+**❌ AVOID:**
 - Under 1-minute content (no monetization)
 - Copying other book reviews
 - Third-party footage usage
 - Controversial political interpretations
 
 **CONTENT WARNINGS:**
-> "Classic literature discussion - obsahuje historical themes requiring modern context."
+> "Classic literature discussion - contains historical themes requiring modern context."
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
-**Status**: Most creator-friendly dla educational content
+### 🟢 SPOTIFY - LOW RISK
+**Status**: Most creator-friendly for educational content
 **Recommendation**: **Video podcast format optimal**
 
-**✅ PEŁNA SWOBODA:**
+**✅ FULL FREEDOM:**
 - Deep-dive literary analysis
 - Historical context discussions
 - Author biography including scandals
-- All controversial themes z proper framing
+- All controversial themes with proper framing
 - Long-form academic discussions
 
 **⚠️ COMPLIANCE CHECKLIST:**
-- **No copyrighted audiobook clips** bez permission
+- **No copyrighted audiobook clips** without permission
 - **Original commentary** dominates
 - **Proper music licensing** if used
-- **Video format** dla higher monetization
+- **Video format** for higher monetization
 
 **CONTENT WARNINGS:**
-> "Adult themes, historical violence, complex moral questions. Educational content dla mature listeners."
+> "Adult themes, historical violence, complex moral questions. Educational content for mature listeners."
 
-### 🟢 KICK - NAJNIŻSZE RYZYKO
+### 🟢 KICK - LOWEST RISK
 **Status**: Most creator-friendly policies overall
 **Recommendation**: **Interactive live discussion format**
 
 **✅ MAXIMUM FREEDOM:**
-- All controversial themes open dla discussion
+- All controversial themes open for discussion
 - Interactive community discussions
 - Live Q&A about difficult topics
 - Real-time audience engagement
@@ -260,55 +299,55 @@
 - **Community-building approach**
 
 **CONTENT WARNINGS:**
-> "Open discussion klasycznej literatury - all themes on table dla educational exploration."
+> "Open discussion of classic literature - all themes on table for educational exploration."
 
 ## CONTENT WARNINGS TEMPLATES
 
 ### UNIVERSAL WARNING (All Platforms):
-> "Trzej Muszkieterowie" (1844) contains themes reflecting historical attitudes of 17th-century France. This educational discussion provides modern context dla literary and historical understanding."
+> "The Three Musketeers" (1844) contains themes reflecting historical attitudes of 17th-century France. This educational discussion provides modern context for literary and historical understanding."
 
 ### TEEN AUDIENCE (13-15):
-> "⚠️ Ta klasyka zawiera sceny walki i motywy historyczne wymagające context. Recommended dla teen readers z guidance."
+> "⚠️ This classic contains fight scenes and historical themes requiring context. Recommended for teen readers with guidance."
 
 ### MATURE AUDIENCE (16+):
-> "⚠️ Mature themes including historical violence, political intrigue, moral complexity. Educational analysis dla mature audience."
+> "⚠️ Mature themes including historical violence, political intrigue, moral complexity. Educational analysis for mature audience."
 
 ### ADULT AUDIENCE (18+):
-> "⚠️ Adult discussion including detailed historical violence, problematic gender representation, political themes. Educational analysis tylko."
+> "⚠️ Adult discussion including detailed historical violence, problematic gender representation, political themes. Educational analysis only."
 
 ## EDUCATIONAL ALTERNATIVES - SAFE APPROACHES
 
 ### 1. FOCUS ON POSITIVE THEMES
 **Safe Universal Angles:**
-- Friendship and loyalty między muszkieterami
-- Personal growth D'Artagnana
+- Friendship and loyalty between musketeers
+- Personal growth of D'Artagnan
 - Historical adventure and excitement
-- Literary techniques Dumasa
-- Universal themes justice and honor
+- Literary techniques of Dumas
+- Universal themes of justice and honor
 
 ### 2. MODERN CONNECTIONS (CAREFUL)
 **Gen Z Friendly Approaches:**
-- Comparison z modern friendship goals
+- Comparison with modern friendship goals
 - Historical fashion and aesthetic (#regencycore)
 - Adventure vs screen time balance
-- Team loyalty w gaming culture
+- Team loyalty in gaming culture
 - Classic literature accessibility
 
 ### 3. HISTORICAL EDUCATION
 **Academic Safe Angles:**
 - 17th century French history context
-- Literary innovations Dumasa
-- Evolution powieści przygodowej
+- Literary innovations of Dumas
+- Evolution of adventure novel
 - Translation challenges
-- Cultural impact przez centuries
+- Cultural impact through centuries
 
 ## RISK MITIGATION STRATEGIES
 
 ### HIGH-RISK PLATFORMS (Facebook/Instagram):
-1. **Stick to positives** - przyjaźń, przygoda, honor
-2. **Historical education only** - no modern parallels
-3. **Avoid controversial characters** - skip Milady details
-4. **Focus on universal themes** - nie political/religious
+1. **Stick to positives** - Friendship, adventure, honor
+2. **Historical education only** - No modern parallels
+3. **Avoid controversial characters** - Skip Milady details
+4. **Focus on universal themes** - Not political/religious
 
 ### MEDIUM-RISK PLATFORMS (YouTube/TikTok):
 1. **Educational framing mandatory**
@@ -326,7 +365,7 @@
 
 ### ✅ UNIVERSAL REQUIREMENTS:
 - [ ] **Educational intent clear** in all content
-- [ ] **Historical context provided** dla controversial themes
+- [ ] **Historical context provided** for controversial themes
 - [ ] **Age-appropriate content warnings** present
 - [ ] **Original commentary** dominates over source quotes
 - [ ] **Respect for cultural sensitivity** maintained
@@ -338,16 +377,35 @@
 - [ ] **Spotify**: Video format preferred, proper licensing
 - [ ] **Kick**: Community-building, interactive format optimal
 
-## KOŃCOWE REKOMENDACJE
+## YOUTH ENGAGEMENT OPPORTUNITIES
 
-### STRATEGY PO PLATFORMACH:
+### Trending Content Opportunities (from au-research_youth_digital.md):
+1. **#regencycore aesthetic** - 728,500 TikTok views
+2. **Sword fighting content** - 45.2M TikTok views
+3. **Gaming culture connections** - Clash Royale strategy popularity
+4. **Historical fashion trends** - Corset searches up 74%
+5. **Mental health angle** - Friendship models for Gen Z isolation
+6. **Pirate aesthetic comeback** - "Swashbuckling" trending 2024
+7. **BookTok opportunity** - Classics represent only 3% of content
+8. **VR gaming potential** - Pirates VR: Jolly Roger coming 2025
+
+### Content Creator Strategies:
+- **Leverage aesthetic trends** while maintaining educational value
+- **Connect gaming culture** with classic literature themes
+- **Address mental health** through friendship analysis
+- **Historical accuracy** with modern relevance
+- **Cross-platform optimization** for maximum reach
+
+## FINAL RECOMMENDATIONS
+
+### STRATEGY BY PLATFORMS:
 
 **TIER 1 (Safest)**: Spotify → Kick
 - Full academic discussion possible
 - All controversial themes addressable
 - Adult audience can handle complexity
 
-**TIER 2 (Manageable)**: YouTube → TikTok  
+**TIER 2 (Manageable)**: YouTube → TikTok
 - Educational content welcomed
 - Require specific format compliance
 - Context and framing essential
@@ -359,20 +417,20 @@
 
 ### CONTENT CREATOR GUIDANCE:
 
-1. **Start with Spotify/Kick** dla full discussion
-2. **Create YouTube version** z educational emphasis
+1. **Start with Spotify/Kick** for full discussion
+2. **Create YouTube version** with educational emphasis
 3. **Develop TikTok clips** from longer content
-4. **Facebook/Instagram** tylko promotional z safe themes
+4. **Facebook/Instagram** only promotional with safe themes
 
 ### AUDIENCE BUILDING STRATEGY:
 
-1. **Build authority** na creator-friendly platforms first
-2. **Develop reputation** jako educational creator
+1. **Build authority** on creator-friendly platforms first
+2. **Develop reputation** as educational creator
 3. **Cross-promote carefully** respecting platform cultures
 4. **Engage communities** around classic literature appreciation
 
 ---
 
-**BOTTOM LINE**: "Trzej Muszkieterowie" są manageable na wszystkich platformach z proper approach, ale wymagają różnych strategii w zależności od platform policies. Spotify i Kick oferują najlepsze możliwości dla honest academic discussion, while Facebook/Instagram require extreme caution i focus tylko na positive themes.
+**BOTTOM LINE**: "The Three Musketeers" is manageable on all platforms with proper approach, but requires different strategies depending on platform policies. Spotify and Kick offer the best opportunities for honest academic discussion, while Facebook/Instagram require extreme caution and focus only on positive themes.
 
-**SUCCESS PATH**: Start z creator-friendly platforms, build educational reputation, then expand carefully with platform-appropriate content strategies.
+**SUCCESS PATH**: Start with creator-friendly platforms, build educational reputation, then expand carefully with platform-appropriate content strategies.
