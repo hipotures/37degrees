@@ -1,148 +1,161 @@
-# Lokalny kontekst kulturowy: "Zamek" Franza Kafki w Polsce
+# Local Cultural Context: "The Castle" by Franz Kafka in Poland
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Wczesne tłumaczenia i wydania
+### Early Translations and Editions
 
-1. **Pierwsze polskie wydanie "Procesu" (1936)**: Pierwsza polska edycja dzieła Kafki ukazała się w 1936 roku nakładem Towarzystwa Wydawniczego "Rój". Choć na stronie tytułowej widniało nazwisko Brunona Schulza, tłumaczenia dokonała Józefina Szelińska (narzeczona Schulza), a Schulz jedynie zweryfikował przekład i użyczył swojego nazwiska.
+1. **First Polish Edition of "The Trial" (1936)**: The first Polish edition of Kafka's work appeared in 1936 published by "Roj" Publishing Society. Although Bruno Schulz's name appeared on the title page, the translation was actually done by Józefina Szelińska (Schulz's fiancée), with Schulz only verifying the translation and lending his prestigious name.
 
-2. **Publikacje PIW**: Państwowy Instytut Wydawniczy odegrał kluczową rolę w popularyzacji Kafki w Polsce. W 1961 roku wydał "Nowele i miniatury" w tłumaczeniu Romana Karsta i Alfreda Kowalkowskiego. PIW kontynuował publikowanie dzieł Kafki, wydając w 2016 roku "Opowieści i przypowieści" - najobszerniejszy i pierwszy ułożony chronologicznie zbiór opowiadań i miniatur Kafki w historii.
+2. **PIW Publications**: The State Publishing Institute played a key role in popularizing Kafka in Poland. In 1961, it published "Novellas and Miniatures" translated by Roman Karst and Alfred Kowalkowski. PIW continued publishing Kafka's works, releasing in 2016 "Stories and Parables" - the most comprehensive and first chronologically arranged collection of Kafka's stories and miniatures in Polish publishing history.
 
-3. **Współczesne wydania**: Najnowsze polskie tłumaczenie "Zamku" przygotowali Krzysztof Radziwiłł i Kazimierz Truchanowski, wydane przez Lokator w 2018 roku.
+3. **Contemporary Editions**: The newest Polish translation of "The Castle" was prepared by Krzysztof Radziwiłł and Kazimierz Truchanowski, published by Lokator in 2018.
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Roman Karst
-- Tłumacz "Noweli i miniatur" (PIW 1961)
-- Autor wstępu do wydania PIW
-- Współpracował z Alfredem Kowalkowskim
+- Translator of "Novellas and Miniatures" (PIW 1961)
+- Author of the introduction to the PIW edition
+- Collaborated with Alfred Kowalkowski
 
 ### Józefina Szelińska
-- Faktyczna tłumaczka pierwszego polskiego wydania "Procesu" (1936)
-- Narzeczona Brunona Schulza
-- Jej praca została przypisana Schulzowi ze względów marketingowych
+- Actual translator of the first Polish edition of "The Trial" (1936)
+- Bruno Schulz's fiancée
+- Her work was attributed to Schulz for marketing reasons
 
-### Współcześni tłumacze
-- Łukasz Musiał - przygotował "Prozy utajone" (PIW)
-- Zespół tłumaczy "Opowieści i przypowieści": Lech Czyżewski, Roman Karst, Alfred Kowalkowski, Juliusz Kydryński, Elżbieta Ptaszyńska-Sadowska, Anna Wołkowicz, Jarosław Ziółkowski
+### Contemporary Translators
+- Łukasz Musiał - prepared "Hidden Prose" (PIW)
+- Translation team for "Stories and Parables": Lech Czyżewski, Roman Karst, Alfred Kowalkowski, Juliusz Kydryński, Elżbieta Ptaszyńska-Sadowska, Anna Wołkowicz, Jarosław Ziółkowski
 
-## "Zamek" w polskim systemie edukacji
+## "The Castle" in Polish Education System
 
-### Lektura szkolna i przygotowanie do matury
+### School Reading and High School Preparation
 
-1. **Status w kanonie**: "Zamek" należy do kanonu lektury dla liceum, szczególnie w kontekście literatury światowej XX wieku.
+1. **Status in Canon**: "The Castle" belongs to the high school reading canon, particularly in the context of 20th-century world literature.
 
-2. **Kluczowe tematy interpretacyjne**:
-   - **Nieosiągalny cel**: Sensem jest droga do zamku, ciągłe dążenie do nieosiągalnego celu
-   - **Absurd i biurokracja**: Kuriozalne zachowanie mieszkańców wioski, dziwnie upływający czas
-   - **Kondycja ludzka**: Temat ludzkiej kondycji, absurdu oraz niepewności istnienia
+2. **Key Interpretative Themes**:
+   - **Unattainable Goal**: The meaning lies in the journey to the castle, the continuous striving toward an unattainable goal
+   - **Absurd and Bureaucracy**: Bizarre behavior of village inhabitants, strangely flowing time
+   - **Human Condition**: Themes of human condition, absurdity, and existential uncertainty
 
-3. **Znaczenie w nurcie egzystencjalizmu**: Powieść idealnie wpisuje się w nurt egzystencjalizmu, ma charakter paraboli o spornym znaczeniu.
+3. **Significance in Existentialism**: The novel perfectly fits into the existentialist movement, having the character of a parable with disputed meaning.
 
-### Materiały edukacyjne
-- Opracowania przygotowane przez nauczycieli i specjalistów
-- Szczególny nacisk na symbolikę walki z niezrozumiałym systemem
-- Analiza parabolicznego charakteru prozy Kafki
+### Educational Materials
+- Study guides prepared by teachers and specialists
+- Special emphasis on symbolism of struggling with an incomprehensible system
+- Analysis of the parabolic character of Kafka's prose
 
-## Polskie adaptacje teatralne i kulturowe
+## Polish Theatrical and Cultural Adaptations
 
-### Teatr Narodowy w Warszawie (2021)
-- **Reżyser**: Paweł Miśkiewicz
-- **Premiera**: 6 listopada 2021, Scena przy Wierzbowej
-- **Interpretacja**: Odejście od popularnych interpretacji Kafki, prezentacja bohatera w cyrkowo-karnawałowej podróży
-- **Obsada**: Mateusz Rusin w potrójnej roli, szczególnie chwalony za rolę Burmistrza
+### National Theatre in Warsaw (2021)
+- **Director**: Paweł Miśkiewicz
+- **Premiere**: November 6, 2021, Wierzbowa Stage
+- **Interpretation**: Departure from popular Kafka interpretations, presenting the protagonist in a circus-carnival journey
+- **Cast**: Mateusz Rusin in triple role, particularly praised for his Mayor role
 
-### Teatr Klepisko z Lublina (2019)
-- **Reżyser**: Jan Wawrzyniec Tuźnik
-- **Miejsce**: Ruiny zamku w Kazimierzu Dolnym (wrzesień 2019)
-- **Charakter**: Adaptacja w historycznych ruinach, tworzenie "świata nie jednej, ale wielu tajemnic"
+### Klepisko Theatre from Lublin (2019)
+- **Director**: Jan Wawrzyniec Tuźnik
+- **Location**: Castle ruins in Kazimierz Dolny (September 2019)
+- **Character**: Adaptation in historical ruins, creating "a world of not one, but many secrets"
 
-### Teatr Telewizji
-- Adaptacja dostępna na TVP VOD
-- Przedstawienie Józefa K. jako samotnego człowieka zmagającego się z anonimowymi siłami zbiurokratyzowanego świata
+### Television Theatre
+- Adaptation available on TVP VOD
+- Presentation of Josef K. as a lonely man struggling with anonymous forces of a bureaucratized world
 
-## Komiksowa adaptacja (2014)
+## Comic Book Adaptation (2014)
 
-### Twórcy i wydanie
-- **Scenariusz**: David Zane Mairowitz
-- **Rysunki**: Jaromir 99 (Jaromír Švejdík)
-- **Polskie wydanie**: Centrala (2014)
+### Creators and Publication
+- **Script**: David Zane Mairowitz
+- **Artwork**: Jaromir 99 (Jaromír Švejdík)
+- **Polish Edition**: Centrala (2014)
 
-### Recepcja krytyczna
-1. **Warstwa wizualna**: Czarno-szare obrazy w estetyce niemieckiego surrealizmu, silne kontrasty przypominające drzeworyt
-2. **Innowacje**: Scenarzysta wykorzystał zakończenie z rękopisu, różniące się od drukowanego wydania
-3. **Ocena**: "Graficzny majstersztyk" i "nowa forma popularyzacji literatury światowej"
+### Critical Reception
+1. **Visual Layer**: Black-and-gray images in German surrealism aesthetics, strong contrasts reminiscent of woodcut
+2. **Innovations**: Screenwriter used the ending from the manuscript, different from the printed edition
+3. **Evaluation**: "Graphic masterpiece" and "new form of popularizing world literature"
 
-## Polscy badacze i interpretacje akademickie
+## Polish Scholars and Academic Interpretations
 
-### Nurty interpretacyjne
-1. **Filozofia egzystencjalna**: Agnieszka Gralewicz - "Zrozumienie Absurdu – filozofia egzystencjalna w twórczości Kafki"
-2. **Kategoria absurdu**: Badania nad absurdem jako kategorią egzystencjalną w kontekście Camusa, Kafki i Dostojewskiego
-3. **Krytyka totalitaryzmu**: Interpretacje totalitarystyczne vs. crypto-teologiczne
+### Interpretative Trends
+1. **Existential Philosophy**: Agnieszka Gralewicz - "Understanding the Absurd – existential philosophy in Kafka's work"
+2. **Category of Absurd**: Research on absurdity as an existential category in the context of Camus, Kafka, and Dostoyevsky
+3. **Critique of Totalitarianism**: Totalitarian vs. crypto-theological interpretations
 
-### Debaty akademickie
-- Spory o właściwą interpretację: od studiów totalitaryzmu po crypto-teologię
-- Krytyka czysto egzystencjalnych odczytań Kafki
-- Nacisk na społeczną krytykę systemu biurokratycznego
+### Academic Debates
+- Disputes over proper interpretation: from totalitarianism studies to crypto-theology
+- Criticism of purely existential readings of Kafka
+- Emphasis on social critique of bureaucratic system
 
-## Współczesna recepcja wśród młodych Polaków
+## Contemporary Reception Among Young Poles
 
-### BookTok i TikTok
-1. **Popularność na mediach społecznościowych**: #kafka ma ponad 130 milionów wyświetleń na TikToku
-2. **Związek z Gen Z**: Charakterystyczny humor absurdalny i cyniczny jako reakcja na współczesne kryzysy
-3. **Relatywność dla młodych**: Temat alienacji szczególnie rezonuje z "najsamotniejszym żyjącym pokoleniem"
+### BookTok and TikTok
+1. **Social Media Popularity**: #kafka has over 130 million views on TikTok
+2. **Connection with Gen Z**: Characteristic absurdist and cynical humor as reaction to contemporary crises
+3. **Relatability for Youth**: Theme of alienation particularly resonates with "the loneliest living generation"
 
-### Współczesne wyzwania
-- Rosnąca inflacja, stagnacja płac, przeciążenie pracą
-- Wypalenie zawodowe i rosnące nierówności społeczne
-- Izolacja pandemiczna i jej wpływ na młode pokolenie
+### Contemporary Challenges
+- Rising inflation, wage stagnation, work overload
+- Professional burnout and growing social inequalities
+- Pandemic isolation and its impact on young generation
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Kraków i Małopolska
-1. **Wydarzenie kulturalne**: "Nikt nic nie wie... Franz Kafka i czeska muzyka" (MOCAK Kraków, 27 maja)
-2. **Muzyczna transpozycja**: Utwór "Przed klatką z głodem" Mařatki w interpretacji anty-zdań Kafki
-3. **Czeskie korzenie**: Związki z kulturą czeską przez bliskość geograficzną i kulturową
+### Krakow and Lesser Poland
+1. **Cultural Event**: "Nobody Knows Anything... Franz Kafka and Czech Music" (MOCAK Krakow, May 27)
+2. **Musical Transposition**: Mařatka's piece "Before the Hunger Cage" in interpretation of Kafka's anti-sentences
+3. **Czech Roots**: Connections with Czech culture through geographical and cultural proximity
 
-### Miejsca związane z Kafką
-- Główne muzeum i miejsca pamięci w Pradze (Franz Kafka Museum)
-- Mapa miejsc związanych z pisarzem w Pradze dostępna w języku polskim
-- Pomniki i pamiątki w stolicy Czech
+### Places Associated with Kafka
+- Main museum and memorial sites in Prague (Franz Kafka Museum)
+- Map of places associated with the writer in Prague available in Polish
+- Monuments and memorabilia in the Czech capital
 
-## Problemy z tłumaczeniem i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Językowe wyzwania
-1. **Języki pozycyjne vs. fleksyjne**: Polski jako język fleksyjny sprawia, że Kafka brzmi jeszcze bardziej "obco" niż w oryginale
-2. **Długie zdania**: Problemy z przekładem rozbudowanych konstrukcji niemieckich na polski
-3. **Niedokończoność**: Wyzwanie tłumaczenia fragmentarycznego, niedokończonego tekstu
+### Linguistic Challenges
+1. **Positional vs. Inflected Languages**: Polish as an inflected language makes Kafka sound even more "foreign" than in the original
+2. **Long Sentences**: Problems translating elaborate German constructions into Polish
+3. **Incompleteness**: Challenge of translating fragmentary, unfinished text
 
-### Kulturowe interpretacje
-1. **Środkowoeuropejski kontekst**: Polscy badacze wnoszą unikalne perspektywy wynikające z podobnego kontekstu kulturowo-historycznego
-2. **Żydowska tradycja**: Zrozumienie kontekstu religijnego i kulturowego Kafki w Polsce
-3. **Doświadczenie totalitaryzmu**: Polskie doświadczenia z systemami totalitarnymi wpływają na interpretację dzieł
+### Cultural Interpretations
+1. **Central European Context**: Polish scholars bring unique perspectives resulting from similar cultural-historical context
+2. **Jewish Tradition**: Understanding of Kafka's religious and cultural context in Poland
+3. **Totalitarian Experience**: Polish experiences with totalitarian systems influence interpretation of works
 
-## Fan community i jego specyfika
+## Fan Community and Its Specifics
 
-### Charakterystyka polskiej społeczności czytelniczej
-1. **Akademicki charakter**: Silny związek z interpretacjami uniwersyteckimi i szkolnymi
-2. **Philosophical discussions**: Debaty o egzystencjalizmie i absurdzie w kontekście polskim
-3. **Młodzi czytelnicy**: Rosnące zainteresowanie wśród młodego pokolenia przez media społecznościowe
+### Characteristics of Polish Reading Community
+1. **Academic Character**: Strong connection with university and school interpretations
+2. **Philosophical Discussions**: Debates about existentialism and absurdity in Polish context
+3. **Young Readers**: Growing interest among young generation through social media
 
-### Współczesne formy odbioru
-- Dyskusje online o interpretacjach filozoficznych
-- Memy i treści humorystyczne odwołujące się do kafkowskiego absurdu
-- Adaptacje w różnych mediach (komiks, teatr, film)
+### Contemporary Forms of Reception
+- Online discussions about philosophical interpretations
+- Memes and humorous content referring to Kafkaesque absurdity
+- Adaptations in various media (comics, theatre, film)
 
-## Unikalne aspekty polskiej recepcji
+## Unique Aspects of Polish Reception
 
-### Historia publikacji
-1. **Rola Bruno Schulza**: Symboliczne znaczenie pierwszego tłumaczenia przez wybitnego polskiego pisarza
-2. **PIW jako główny wydawca**: Rola państwowego wydawnictwa w popularyzacji Kafki
-3. **Ciągłość edytorska**: Od lat 30. XX wieku do współczesności
+### Publication History
+1. **Bruno Schulz's Role**: Symbolic significance of the first translation by an outstanding Polish writer
+2. **PIW as Main Publisher**: Role of state publishing house in popularizing Kafka
+3. **Editorial Continuity**: From the 1930s to contemporary times
 
-### Interpretacyjne tradycje
-1. **Szkoła krakowska**: Wpływ krakowskiego środowiska literackiego
-2. **Perspektywa postkommunistyczna**: Odczytania w kontekście doświadczeń PRL-u
-3. **Współczesna krytyka**: Nowe spojrzenie młodego pokolenia krytyków
+### Interpretative Traditions
+1. **Krakow School**: Influence of Krakow's literary environment
+2. **Post-Communist Perspective**: Readings in the context of PRL experiences
+3. **Contemporary Criticism**: New perspective of young generation critics
 
-Dokument ten przedstawia bogate i wielowarstwowe dziedzictwo "Zamku" Franza Kafki w polskiej kulturze, od pierwszych tłumaczeń w latach 30. XX wieku po współczesną recepcję na TikToku i BookToku, pokazując jak uniwersalne tematy Kafki rezonują z polskim doświadczeniem kulturowym i historycznym.
+## Notable Polish Facts for Verification
+
+1. **Bruno Schulz Connection**: The legendary Polish writer's name on the first Kafka translation, though the actual translator was his fiancée Józefina Szelińska
+2. **PIW Monopoly**: State Publishing Institute dominated Kafka publications in communist Poland
+3. **Kazimierz Dolny Performance**: 2019 theatrical adaptation in actual castle ruins
+4. **MOCAK Krakow Events**: Contemporary cultural programming connecting Kafka with Czech music
+5. **TikTok Phenomenon**: #kafka hashtag popularity among Polish Gen Z users
+6. **Academic Debates**: Ongoing scholarly disputes between totalitarian and crypto-theological interpretations
+7. **Translation Evolution**: From 1930s Schulz attribution to contemporary team translations
+8. **Educational Canon**: Mandatory reading status in Polish high schools
+9. **Theatre Innovations**: 2021 National Theatre's circus-carnival interpretation
+10. **Comic Book Success**: 2014 Centrala publication praised as "graphic masterpiece"
+
+This document presents the rich and multilayered heritage of Franz Kafka's "The Castle" in Polish culture, from the first translations in the 1930s to contemporary reception on TikTok and BookTok, showing how Kafka's universal themes resonate with Polish cultural and historical experience.

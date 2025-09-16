@@ -1,8 +1,179 @@
 book_info:
   title: "The Hunchback of Notre-Dame"
-  title_pl: 
+  title_pl:
     - "Dzwonnik z Notre-Dame"
     - "Katedra Marii Panny w Paryżu"
   author: "Victor Hugo"
   year: 1831
   genre: "Gothic,Historical fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:42:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 67
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "ananke_mystery"
+        type: "FACT"
+        credibility: 0.95
+        content: "Hugo discovered Greek word ANANKE (fate) carved in Notre-Dame tower wall - became philosophical foundation of entire novel"
+        source: "facts_history"
+      - id: "real_hunchback"
+        type: "FACT"
+        credibility: 0.90
+        content: "British archivist discovered real hunchbacked stonemason 'Le Bossu' working at Notre-Dame in 1820s when Hugo was writing"
+        source: "facts_history"
+      - id: "cathedral_savior"
+        type: "FACT"
+        credibility: 0.95
+        content: "Novel directly saved Notre-Dame from destruction - sparked 1844 restoration and French heritage protection movement"
+        source: "culture_impact"
+      - id: "prophetic_vision"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Hugo prophetically predicted church abuse scandals, social media mob justice, and Paris architectural destruction"
+        source: "reality_wisdom"
+      - id: "literary_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "First novel to make marginalized outcasts protagonists - created urban romance genre and multi-perspective social panorama"
+        source: "writing_innovation"
+      - id: "gothic_symbolism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Rich symbolic layers: cathedral as book of stone, grotesque vs sublime, beauty/beast archetypes with modern interpretations"
+        source: "symbols_meanings"
+      - id: "youth_resonance"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Quasimodo Syndrome in modern psychology, social media outcast parallels, 22M+ TikTok views connecting to Gen Z mental health"
+        source: "youth_digital"
+      - id: "controversial_legacy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Banned by Catholic Church for 125 years, Hugo's scandalous personal life (200+ partners), religious institutional critique"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "First English translation (1833) changed title, emphasizing character over cathedral. Strong Hollywood adaptation tradition from silent films to Disney animation"
+        key_editions: ["Bentley's Standard Novels (1833)", "Oxford World's Classics", "Penguin Readers", "Disney tie-in editions"]
+        reception_notes: "Academic standard in Gothic literature courses, influenced Dickens and Gothic Revival architecture"
+        educational_status: "Required reading in AP Literature and university French literature courses"
+        local_themes: ["Gothic Revival movement", "Architectural preservation", "Victorian social criticism influence"]
+      pl:
+        cultural_impact: "Strong resonance in Polish culture through Gothic architectural heritage and historical religious conflicts"
+        key_editions: ["PIW classics editions", "School reading series", "Contemporary translations"]
+        reception_notes: "Popular among youth through TikTok, connects to Polish cathedral preservation efforts"
+        educational_status: "Secondary education reading lists, comparative literature studies"
+        local_themes: ["Medieval heritage appreciation", "Religious institution critique", "Social justice themes"]
+      de:
+        cultural_impact: "German Romantic movement connections, successful musical adaptation in Berlin (1.4M viewers)"
+        key_editions: ["Reclam Universal-Bibliothek", "Deutsche Klassiker", "Academic editions"]
+        reception_notes: "Strong theatrical tradition, philosophical interpretation focus"
+        educational_status: "University literature and philosophy courses"
+        local_themes: ["Romantic movement parallels", "Philosophical depth analysis", "Architectural symbolism"]
+      fr:
+        cultural_impact: "Original cultural context, Notre-Dame fire (2019) renewed massive interest, topped bestseller lists"
+        key_editions: ["Gallimard Pléiade", "Folio Classique", "Livre de Poche", "School editions"]
+        reception_notes: "National literary treasure, direct connection to French heritage preservation"
+        educational_status: "Core curriculum from secondary through university level"
+        local_themes: ["National heritage identity", "Gothic architecture preservation", "French Romanticism foundation"]
+      es:
+        cultural_impact: "Strong reception in Spanish-speaking countries through Catholic cultural connections and architectural heritage"
+        key_editions: ["Cátedra Letras Universales", "Alianza Editorial", "Educational series"]
+        reception_notes: "Popular in university comparative literature, connects to Spanish Gothic cathedrals"
+        educational_status: "University literature courses, comparative European Romanticism"
+        local_themes: ["Catholic cultural critique", "Medieval Spanish parallels", "Architectural appreciation"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese reception through colonial Gothic architecture and religious institutional themes"
+        key_editions: ["Companhia das Letras", "L&PM Pocket", "Educational editions"]
+        reception_notes: "Academic focus on social criticism themes"
+        educational_status: "University literature courses in Brazil and Portugal"
+        local_themes: ["Colonial architecture parallels", "Religious institution analysis", "Social marginalization"]
+      ja:
+        cultural_impact: "Japanese appreciation for Gothic aesthetics, disability representation themes in manga culture"
+        key_editions: ["Iwanami Bunko classics", "Kadokawa Sofia Bunko", "University editions"]
+        reception_notes: "Visual culture connections, anime/manga adaptation potential"
+        educational_status: "University European literature courses"
+        local_themes: ["Gothic Lolita aesthetic connections", "Social outsider themes", "Architectural appreciation"]
+      ko:
+        cultural_impact: "Korean reception through historical palace architecture parallels and social media youth engagement"
+        key_editions: ["Minumsa World Literature", "Changbi Publishers", "Educational series"]
+        reception_notes: "Strong social media presence, youth mental health themes"
+        educational_status: "University literature courses, comparative cultural studies"
+        local_themes: ["Historical architecture preservation", "Social hierarchy critique", "Youth mental health awareness"]
+      hi:
+        cultural_impact: "Indian reception through colonial Gothic architecture legacy and social justice themes"
+        key_editions: ["Penguin Random House India", "Rupa Publications", "Academic editions"]
+        reception_notes: "Postcolonial reading emphasis, architectural heritage connections"
+        educational_status: "University comparative literature and postcolonial studies"
+        local_themes: ["Colonial Gothic architecture", "Social outcaste themes", "Religious institution critique"]
+
+  formats:
+    exploratory_dialogue:
+      name: "exploratory_dialogue"
+      duration: 12
+      hosts:
+        host_a: "enthusiastic book lover sharing passion for Gothic literature and architectural mysteries"
+        host_b: "curious newcomer asking questions about medieval settings and Gothic themes"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:24"
+          topic: "architectural_mystery"
+          lead: "host_a"
+          description: "Discovering ANANKE carved in cathedral wall and the real hunchback stonemason"
+        - segment: 2
+          time_range: "02:24-04:48"
+          topic: "character_exploration"
+          lead: "host_b"
+          description: "Understanding Quasimodo, Esmeralda, and Frollo beyond Disney version"
+        - segment: 3
+          time_range: "04:48-07:12"
+          topic: "gothic_discoveries"
+          lead: "host_a"
+          description: "Exploring Hugo's revolutionary Gothic techniques and social commentary"
+        - segment: 4
+          time_range: "07:12-09:36"
+          topic: "modern_connections"
+          lead: "host_b"
+          description: "How Gothic themes connect to modern mental health and social media"
+        - segment: 5
+          time_range: "09:36-12:00"
+          topic: "cultural_impact"
+          lead: "host_a"
+          description: "From saving Notre-Dame to inspiring global adaptations"
+      prompts:
+        host_a: "You are {male_name}, an enthusiastic book lover fascinated by Gothic literature and architectural mysteries. Share your passion for 'The Hunchback of Notre-Dame' by revealing amazing discoveries: the mysterious ANANKE inscription, the real hunchback stonemason, how Hugo literally saved Notre-Dame cathedral. Make Gothic literature exciting and accessible through these incredible facts."
+        host_b: "You are {female_name}, curious about 'The Hunchback of Notre-Dame' for the first time. Ask questions that newcomers would have: How is the book different from Disney? What makes Gothic literature special? Why does this old story connect to modern young people? Help bridge between popular adaptations and the complex original."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["religious institution critique", "disability representation discussions", "historical discrimination themes"]
+    educational_elements: ["Gothic literature techniques", "19th-century French society", "architectural preservation history", "Romantic movement principles"]
+    production_notes:
+      intro_style: "atmospheric cathedral bells transitioning to curiosity-driven conversation"
+      transitions: "subtle Gothic-inspired musical bridges"
+      outro_style: "reflective appreciation for Gothic literature's enduring power"
+
+  overall_confidence: 0.89

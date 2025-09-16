@@ -4,3 +4,169 @@ book_info:
   author: "Ernest Hemingway"
   year: 1940
   genre: "War,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2024-09-16T12:30:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 7
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Hemingway's family suicide pattern: 7 family members including father died by suicide"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "FBI surveillance: 124-page file, phones tapped, paranoia confirmed true"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Bridge symbolizes both connection and separation - destruction means end of reconciliation"
+        source: "symbols_meanings"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Book accurately predicted WWII and Spain as testing ground for ideologies"
+        source: "reality_wisdom"
+      - id: "youth_0"
+        type: "FACT"
+        credibility: 0.90
+        content: "Contemporary relevance: Ukraine war parallels with international volunteers pattern"
+        source: "youth_digital"
+      - id: "innovation_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary bilingual narrative technique using archaic English for Spanish"
+        source: "writing_innovation"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "John McCain's favorite book, influenced his life philosophy and political courage"
+        source: "culture_impact"
+      - id: "reality_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Problematic instant love after trauma - modern psychology recognizes as trauma bonding"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Canonical American war literature, McCain inspiration, defines 'grace under pressure'"
+        key_editions: ["Scribner's editions", "Library of America", "Penguin Classics"]
+        reception_notes: "Required reading in high schools, subject of extensive scholarship"
+        educational_status: "Standard American literature curriculum"
+        local_themes: ["American individualism", "Anti-fascist ideals", "PTSD awareness"]
+      pl:
+        cultural_impact: "Resonates with Polish wartime resistance experience and WWII trauma"
+        key_editions: ["Czytelnik 1957 edition", "Contemporary audiobooks"]
+        reception_notes: "Strong connection through shared war trauma and resistance themes"
+        educational_status: "Popular in literature studies"
+        local_themes: ["Resistance solidarity", "War trauma", "Anti-totalitarian themes"]
+      de:
+        cultural_impact: "Complex reception due to German role in Spanish Civil War"
+        key_editions: ["German academic editions", "Post-war translations"]
+        reception_notes: "Studied in context of European fascism and war guilt"
+        educational_status: "Part of war literature studies"
+        local_themes: ["Fascism critique", "War responsibility", "European solidarity"]
+      fr:
+        cultural_impact: "Appreciated for anti-fascist stance and literary innovation"
+        key_editions: ["Gallimard editions", "French academic texts"]
+        reception_notes: "Valued for experimental narrative techniques"
+        educational_status: "Literature and history courses"
+        local_themes: ["Resistance literature", "Existential themes", "International brigades"]
+      es:
+        cultural_impact: "Banned under Franco, became symbol of democratic values post-1975"
+        key_editions: ["Post-Franco democratic editions", "Contemporary Spanish publishers"]
+        reception_notes: "Central text for understanding international brigade experience"
+        educational_status: "Important in Spanish Civil War studies"
+        local_themes: ["Civil War memory", "International solidarity", "Democratic transition"]
+      pt:
+        cultural_impact: "Connects with Portuguese anti-fascist sentiment and Salazar opposition"
+        key_editions: ["Portuguese democratic translations", "Brazilian editions"]
+        reception_notes: "Appreciated for anti-authoritarian themes"
+        educational_status: "Studied in context of 20th century resistance"
+        local_themes: ["Anti-fascist resistance", "International solidarity", "Democratic ideals"]
+      ja:
+        cultural_impact: "Post-war reception focused on pacifist themes and war trauma"
+        key_editions: ["Japanese post-war translations", "Academic editions"]
+        reception_notes: "Studied for war psychology and trauma themes"
+        educational_status: "War literature and psychology courses"
+        local_themes: ["War trauma", "Pacifist interpretations", "International understanding"]
+      ko:
+        cultural_impact: "Resonates with Korean War experience and division trauma"
+        key_editions: ["Korean translations", "Academic study editions"]
+        reception_notes: "Appreciated for understanding war's psychological impact"
+        educational_status: "War literature and psychology studies"
+        local_themes: ["War division trauma", "Resistance themes", "International solidarity"]
+      hi:
+        cultural_impact: "Read in context of anti-colonial struggle and international solidarity"
+        key_editions: ["Indian academic translations", "Post-independence editions"]
+        reception_notes: "Valued for themes of fighting oppression"
+        educational_status: "Literature and political science courses"
+        local_themes: ["Anti-colonial struggle", "International solidarity", "Political resistance"]
+
+  formats:
+    emotional_perspective:
+      name: "emotional_perspective"
+      duration: 15
+      hosts:
+        host_a: "emotional reader sharing feelings and personal impact"
+        host_b: "analytical critic explaining techniques and emotional depth"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "war_trauma_impact"
+          lead: "host_a"
+          description: "Personal emotional response to PTSD and psychological warfare themes"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "healing_through_love"
+          lead: "host_b"
+          description: "Analyzing how Hemingway uses Maria-Jordan relationship as emotional anchor"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "toxic_masculinity_recognition"
+          lead: "host_a"
+          description: "Modern perspective on Hemingway's problematic male ideals and family trauma"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "emotional_legacy"
+          lead: "host_b"
+          description: "Contemporary mental health awareness and book's lasting emotional impact"
+      prompts:
+        host_a: "You are {male_name}, sharing your emotional response to 'For Whom the Bell Tolls'. Discuss the personal impact of war trauma, PTSD themes, and how the book's portrayal of mental health affects you. Focus on moments that moved you, the psychological depth of characters like Jordan dealing with violence, and how contemporary understanding of trauma makes this 1940 book surprisingly relevant."
+        host_b: "You are {female_name}, an analytical critic explaining how 'For Whom the Bell Tolls' creates emotional depth through literary technique. Analyze Hemingway's psychological characterization, how he builds trauma into narrative structure, and the contrast between toxic masculinity and emotional vulnerability. Connect literary methods to emotional impact."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["war violence", "mental health themes", "suicide references", "sexual content references", "trauma and PTSD themes"]
+    educational_elements: ["Spanish Civil War historical context", "PTSD and trauma awareness", "Literary modernism techniques", "International brigades history", "Mental health in literature"]
+    production_notes:
+      intro_style: "Somber, reflective introduction acknowledging heavy themes"
+      transitions: "Gentle musical bridges with Spanish guitar influences"
+      outro_style: "Thoughtful conclusion emphasizing contemporary mental health awareness"
+
+  overall_confidence: 0.86

@@ -4,3 +4,174 @@ book_info:
   author: "Aleksandr Solzhenitsyn"
   year: 1973
   genre: "Nonfiction,Political"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T15:42:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 9
+    total: 68
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "archipelago_metaphor"
+        type: "FACT"
+        credibility: 0.95
+        content: "Geographic symbol of scattered camps from Bering Strait to Bosphorus, creating hidden parallel world within society"
+        source: "symbols_meanings"
+      - id: "systemic_terror"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Industrial-scale repression machine designed for mass processing of human beings into forced labor"
+        source: "dark_drama"
+      - id: "collective_testimony"
+        type: "FACT"
+        credibility: 0.95
+        content: "257 witnesses collaborated to create unprecedented collective autobiography of totalitarian experience"
+        source: "facts_history"
+      - id: "memory_resistance"
+        type: "FACT"
+        credibility: 0.95
+        content: "Solzhenitsyn used rosary mnemonic device to memorize 12,000 lines preserving truth under surveillance"
+        source: "writing_innovation"
+      - id: "literary_investigation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary genre fusion combining documentary precision with artistic expression"
+        source: "writing_innovation"
+      - id: "moral_universality"
+        type: "PHILOSOPHY"
+        credibility: 0.90
+        content: "Line dividing good and evil passes not through states or classes but through every human heart"
+        source: "symbols_meanings"
+      - id: "truth_vs_propaganda"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Book destroyed Western communist sympathies and contributed to empire's intellectual defeat"
+        source: "culture_impact"
+      - id: "digital_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Surveillance capitalism and algorithmic control echo totalitarian mechanisms described by Solzhenitsyn"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, Time Magazine's best nonfiction book of 20th century"
+        key_editions: ["Harper and Row 1974", "Vintage Classics 2018", "Abridged Ericson edition"]
+        reception_notes: "Harvard speech controversy, influenced Reagan-era Cold War policy"
+        educational_status: "University curriculum standard, not school required reading"
+        local_themes: ["Cold War documentation", "Anti-communist literature", "Human rights discourse"]
+      pl:
+        cultural_impact: "Paryski Instytut Literacki 1974, podziemny obieg w PRL, autoryzowane tłumaczenie Pomianowskiego"
+        key_editions: ["Instytut Literacki 1974-1978", "Rebis 2010", "Wydania elektroniczne"]
+        reception_notes: "Zakazane w PRL, krążące przez samizdat, oficjalne wydania po 1989"
+        educational_status: "Nie włączone do polskich lektur szkolnych"
+        local_themes: ["Polskie doświadczenie totalitaryzmu", "Deportacje na Syberię 1940-1941", "Literatura świadectwa"]
+      de:
+        cultural_impact: "German Romantic movement philosophical interpretations"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Strong academic tradition of analysis"
+        educational_status: "University study material"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Post-war reflection"]
+      fr:
+        cultural_impact: "Destroyed French Communist Party support, major intellectual shift"
+        key_editions: ["YMCA-Press Paris 1973", "Academic editions"]
+        reception_notes: "Powerful impact on French left-wing politics"
+        educational_status: "Philosophy curriculum inclusion"
+        local_themes: ["Intellectual anti-communism", "Philosophical resistance", "Human rights advocacy"]
+      es:
+        cultural_impact: "Latin American reception focused on state repression parallels"
+        key_editions: ["Spanish translations", "Academic editions"]
+        reception_notes: "Resonance with Latin American dictatorships"
+        educational_status: "Political science curriculum"
+        local_themes: ["State terrorism analysis", "Latin American parallels", "Liberation theology"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese intellectual circles engaged with anti-authoritarian themes"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Connection to Salazar regime critique"
+        educational_status: "Political studies inclusion"
+        local_themes: ["Authoritarian resistance", "Political oppression", "Human dignity"]
+      ja:
+        cultural_impact: "Japanese reception through post-war lens of state power critique"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Wartime memory resonance"
+        educational_status: "Historical studies material"
+        local_themes: ["State power critique", "Wartime memory", "Individual vs system"]
+      ko:
+        cultural_impact: "South Korean reception during democratization movement"
+        key_editions: ["Korean translations", "Democracy movement editions"]
+        reception_notes: "Anti-authoritarian symbol during military rule"
+        educational_status: "Modern history curriculum"
+        local_themes: ["Democratization movement", "Anti-authoritarianism", "Student activism"]
+      hi:
+        cultural_impact: "Indian intellectual reception focused on colonial and post-colonial state violence"
+        key_editions: ["Hindi translations", "English Indian editions"]
+        reception_notes: "Post-colonial state critique resonance"
+        educational_status: "Political science and literature studies"
+        local_themes: ["Colonial violence analysis", "State repression", "Non-violent resistance"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter uncovering hidden history"
+        host_b: "chronicler documenting systematic testimonies"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "discovery_process"
+          lead: "host_a"
+          description: "How the hidden story of the Gulag emerged from shadows"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "evidence_gathering"
+          lead: "host_b"
+          description: "Piecing together testimonies from 257 witnesses"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "underground_network"
+          lead: "host_a"
+          description: "Secret writing in Estonia, smuggling manuscripts to West"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "publication_breakthrough"
+          lead: "host_b"
+          description: "Tragedy of typist Voronyanskaya, global publication impact"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "historical_verdict"
+          lead: "host_a"
+          description: "Post-1991 validation of accuracy, lasting significance"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering how 'The Gulag Archipelago' emerged from shadows. Ask probing questions about the secret investigation process, the network of witnesses, and the dangerous journey from hidden testimonies to global revelation."
+        host_b: "You are {female_name}, a chronicler who understands the systematic documentation process. Describe the meticulous gathering of testimonies, the underground writing in Estonia, the tragic cost of exposure, and how this collective memory became historical truth."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["historical violence", "political persecution", "torture descriptions", "controversial political content"]
+    educational_elements: ["Documentary literature genre", "Historical context of 1973", "Literary investigation methods", "Testimony and memory preservation"]
+    production_notes:
+      intro_style: "serious historical investigation tone"
+      transitions: "subtle musical bridges with investigative tension"
+      outro_style: "reflective on historical significance and contemporary relevance"
+
+  overall_confidence: 0.92

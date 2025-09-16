@@ -4,3 +4,169 @@ book_info:
   author: "Alexandre Dumas (père)"
   year: 1844
   genre: "Adventure,Historical fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T19:30:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 8
+    cultural_phenomenon: 10
+    contemporary_reception: 6
+    relevance: 8
+    innovation: 8
+    structural_complexity: 4
+    social_roles: 6
+    total: 57
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.0
+      category: "medium"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "40 mistresses, racism faced, plagiarism accusations, co-author lawsuit, banned by Tsar"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretations: psychoanalytic, feminist, marxist, postcolonial archetypes"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "200 film adaptations, 100+ translations, Mars candy bar, universal motto usage"
+        source: "culture_impact"
+      - id: "youth_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "38.2M TikTok posts, regencycore 728K views, sword fighting 45.2M views"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Friendship crisis parallels, loyalty challenges, honor vs influencer culture"
+        source: "reality_wisdom"
+      - id: "innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created swashbuckler genre, serialization pioneer, cliffhanger technique"
+        source: "writing_innovation"
+      - id: "history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 1844 breakthrough year, serialized in Le Siècle newspaper"
+        source: "facts_history"
+      - id: "warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Violence themes, political intrigue, gender representation issues"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, multiple BBC adaptations"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Victorian censored editions"]
+        reception_notes: "Strong educational use, adventure genre foundation"
+        educational_status: "University literature curriculum staple"
+        local_themes: ["Victorian censorship", "Adventure genre influence", "Colonial discourse"]
+      pl:
+        cultural_impact: "Required school reading, strong national identity connections"
+        key_editions: ["PIW editions", "School reading editions", "Błoński translation"]
+        reception_notes: "Mandatory elementary school reading grades 4-6"
+        educational_status: "Core curriculum for language and historical education"
+        local_themes: ["National heroism models", "Friendship ideals", "Historical adventure"]
+      de:
+        cultural_impact: "Strong academic tradition and philosophical interpretations"
+        key_editions: ["Reclam editions", "Scholarly critical editions"]
+        reception_notes: "Psychoanalytic and philosophical analysis tradition"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Romantic influence", "Brotherhood ideals", "Honor culture"]
+      fr:
+        cultural_impact: "National mythology creation, original cultural context"
+        key_editions: ["Le Siècle serialization", "Gallimard editions", "Historical manuscripts"]
+        reception_notes: "Created French national identity narrative"
+        educational_status: "National literature canon"
+        local_themes: ["French patriotism", "Monarchical history", "Literary innovation"]
+      es:
+        cultural_impact: "Adventure genre influence in Latin American literature"
+        key_editions: ["Cátedra editions", "Latin American translations"]
+        reception_notes: "Strong adventure literature tradition"
+        educational_status: "Classical literature studies"
+        local_themes: ["Honor culture", "Adventure narrative", "Male friendship"]
+      pt:
+        cultural_impact: "Historical adventure tradition, colonial discourse analysis"
+        key_editions: ["Portuguese translations", "Brazilian adaptations"]
+        reception_notes: "Adventure literature appreciation"
+        educational_status: "World literature curriculum"
+        local_themes: ["Colonial discourse", "Adventure tradition", "Loyalty themes"]
+      ja:
+        cultural_impact: "Anime adaptations, group loyalty cultural resonance"
+        key_editions: ["Dogtanian anime", "Manga adaptations", "Japanese translations"]
+        reception_notes: "Group dynamics and loyalty themes resonate strongly"
+        educational_status: "World literature exposure"
+        local_themes: ["Group loyalty", "Honor culture", "Warrior friendship"]
+      ko:
+        cultural_impact: "Honor culture parallels, friendship dynamics appreciation"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Honor and loyalty themes culturally resonant"
+        educational_status: "World literature studies"
+        local_themes: ["Honor codes", "Friendship loyalty", "Historical adventure"]
+      hi:
+        cultural_impact: "Epic literature traditions, loyalty themes connection"
+        key_editions: ["Hindi translations", "Educational adaptations"]
+        reception_notes: "Epic narrative tradition parallels"
+        educational_status: "World literature curriculum"
+        local_themes: ["Epic traditions", "Loyalty dharma", "Warrior brotherhood"]
+
+  formats:
+    exploratory_dialogue:
+      name: "exploratory_dialogue"
+      duration: 8
+      hosts:
+        host_a: "enthusiastic book lover sharing passion"
+        host_b: "curious newcomer asking basic questions"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:00"
+          topic: "introduction"
+          lead: "host_a"
+          description: "D'Artagnan's journey from Gascony to Paris and the famous friendship motto"
+        - segment: 2
+          time_range: "02:00-04:00"
+          topic: "exploration"
+          lead: "host_b"
+          description: "The four musketeers' personalities and their dynamic relationships"
+        - segment: 3
+          time_range: "04:00-06:00"
+          topic: "discovery"
+          lead: "host_a"
+          description: "Cultural phenomenon - 200+ adaptations and global motto recognition"
+        - segment: 4
+          time_range: "06:00-08:00"
+          topic: "reflection"
+          lead: "host_b"
+          description: "Modern relevance - friendship models vs social media isolation"
+      prompts:
+        host_a: "You are {male_name}, an enthusiastic book lover discussing 'The Three Musketeers'. Share your passion and knowledge about D'Artagnan's adventures, the famous motto 'All for one, one for all', and why this 1844 adventure still captivates readers. Focus on the incredible cultural impact: 200+ film adaptations, Mars candy bar naming, and universal recognition. Make it accessible and exciting for newcomers."
+        host_b: "You are {female_name}, curious about 'The Three Musketeers' for the first time. Ask basic questions about the four musketeers' personalities, express wonder about the story's enduring popularity, and help connect the book to modern friendship challenges. Wonder aloud about how these 17th-century friendships compare to today's social media relationships. Help make the book accessible to newcomers."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "sword duels", "political intrigue", "outdated gender representation", "complex moral themes"]
+    educational_elements: ["17th century French history", "literary serialization techniques", "friendship psychology", "cultural adaptation studies", "adventure genre development"]
+    production_notes:
+      intro_style: "adventure-themed with swashbuckling energy"
+      transitions: "subtle orchestral bridges with period instruments"
+      outro_style: "inspiring call-to-action about timeless friendship"
+
+  overall_confidence: 0.84

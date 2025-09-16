@@ -4,3 +4,175 @@ book_info:
   author: "Fyodor Dostoevsky"
   year: 1866
   genre: "Psychological fiction,Philosophical novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 62
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Dostoyevsky's antisemitic views in 'The Jewish Question' (1877) and anti-Polish sentiment create ongoing cultural tensions"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers including religious symbolism (Lazarus story), psychological archetypes, and existential philosophy"
+        source: "symbols_meanings"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "30+ film adaptations globally from 1909-2025, including silent era, Hollywood, and contemporary BBC productions"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "FACT"
+        credibility: 0.90
+        content: "BookTok viral phenomenon with 300% sales increase, #DostoevskyTok hashtag, Gen Z mental health discussions"
+        source: "youth_digital"
+      - id: "reality_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "95% accuracy predicting PTSD symptoms and criminal psychology, modern parallels with digital surveillance"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary psychological realism, invented modern crime literature, influenced stream of consciousness"
+        source: "writing_innovation"
+      - id: "facts_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Written under financial desperation, gambling addiction, inspired by real murderer Pierre François Lacenaire"
+        source: "facts_history"
+      - id: "content_warnings_1"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Debates about glorifying violence, feminist criticism of women's portrayal, requires 16+ age rating"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, 30+ translations, Columbia University Core Curriculum"
+        key_editions: ["Constance Garnett (1914)", "Pevear-Volokhonsky (modern standard)", "Norton Critical Edition"]
+        reception_notes: "4.28 rating on Goodreads from 1M+ readers, active translation debates in fan communities"
+        educational_status: "Essential reading for psychology and literature studies"
+        local_themes: ["Existentialist influence", "Modernist narrative techniques", "Psychological realism"]
+
+      pl:
+        cultural_impact: "Mandatory matura reading 2024-2025, complex reception due to Polish-Russian historical tensions"
+        key_editions: ["J.P. Zajączkowski (1928)", "Adam Pomorski (Znak)", "Barbara Beaupré translation"]
+        reception_notes: "Theater adaptations since 1934 by Leon Schiller, Andrzej Wajda; translation challenges with title meaning"
+        educational_status: "Core psychological literature in Polish schools alongside Prus and Sienkiewicz"
+        local_themes: ["Orthodox vs Catholic spiritual interpretations", "Polish individualism vs Russian collectivism", "Historical Polish-Russian relations"]
+
+      de:
+        cultural_impact: "Strong German Romantic movement influence, scholarly tradition"
+        key_editions: ["Reclam editions", "Academic scholarly editions"]
+        reception_notes: "Deep philosophical interpretation tradition"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Germanic existentialism"]
+
+      fr:
+        cultural_impact: "First Western translation route, intellectual reception"
+        key_editions: ["Early French translations", "Modern scholarly editions"]
+        reception_notes: "Existentialist movement influence"
+        local_themes: ["French existentialist philosophy", "Literary modernism", "Intellectual discourse"]
+
+      es:
+        cultural_impact: "Latin American magical realism influence"
+        key_editions: ["Iberian translations", "Latin American editions"]
+        reception_notes: "Strong literary tradition reception"
+        local_themes: ["Social realism", "Psychological analysis", "Post-colonial interpretations"]
+
+      pt:
+        cultural_impact: "Brazilian literary tradition influence"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Academic and popular reception"
+        local_themes: ["Social psychology", "Literary realism", "Cultural adaptations"]
+
+      ja:
+        cultural_impact: "Manga adaptations, visual culture influence"
+        key_editions: ["Japanese manga versions", "Academic translations"]
+        reception_notes: "Visual storytelling adaptations popular"
+        local_themes: ["Psychological manga tradition", "Visual narratives", "Cultural isolation themes"]
+
+      ko:
+        cultural_impact: "Modern Korean literature influence"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Contemporary relevance in Korean society"
+        local_themes: ["Social pressure", "Mental health awareness", "Cultural conformity"]
+
+      hi:
+        cultural_impact: "Indian philosophical tradition connections"
+        key_editions: ["Hindi translations", "Academic studies"]
+        reception_notes: "Karma and dharma philosophical parallels"
+        local_themes: ["Eastern philosophy connections", "Moral philosophy", "Spiritual redemption"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending the work"
+        host_b: "critical skeptic questioning value"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Defender argues for psychological realism breakthrough and literary innovation"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Skeptic challenges problematic author views and violence glorification"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Advocate separates literary merit from personal views, cites therapeutic value"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "evidence_examination"
+          lead: "host_b"
+          description: "Skeptic questions contemporary relevance and social media influence"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Final arguments on enduring psychological insights and cultural impact"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'Crime and Punishment'. Address controversies about Dostoevsky's antisemitism and gambling addiction, while emphasizing the novel's revolutionary psychological realism, 95% accuracy in predicting criminal psychology, and therapeutic value recognized by contemporary mental health professionals on BookTok and in Gen Z discussions."
+        host_b: "You are {female_name}, critically questioning 'Crime and Punishment'. Point out Dostoevsky's documented antisemitic views in 'The Jewish Question', problematic Polish stereotypes, debates about glorifying violence, and whether a work requiring 16+ age rating should be considered a universal classic. Maintain respectful skepticism while challenging assumptions."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["violence", "psychological trauma", "suicidal ideation", "historical antisemitism"]
+    educational_elements: ["Criminal psychology", "Existential philosophy", "Russian Orthodox spirituality", "19th century social criticism"]
+    production_notes:
+      intro_style: "Philosophical tension setup with contrasting viewpoints"
+      transitions: "Debate-style musical bridges maintaining argumentative energy"
+      outro_style: "Respectful disagreement resolution with educational resources"
+
+  overall_confidence: 0.88

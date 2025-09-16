@@ -4,3 +4,182 @@ book_info:
   author: "Harriet Beecher Stowe"
   year: 1852
   genre: "Novel,Abolitionist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:30:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 9
+    total: 63
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "family_separation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Most traumatic aspect of slavery was systematic destruction of families, with children sold away from mothers"
+        source: "dark_drama"
+      - id: "maternal_love"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Eliza's heroic escape driven by primordial maternal instinct, making universal appeal across cultures"
+        source: "symbols_meanings"
+      - id: "christian_suffering"
+        type: "FACT"
+        credibility: 0.95
+        content: "Tom as Christ-figure, transforming suffering into spiritual victory through forgiveness and martyrdom"
+        source: "symbols_meanings"
+      - id: "global_controversy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Banned globally for 150+ years, from Confederate states to modern prisons, creating lasting controversy"
+        source: "dark_drama"
+      - id: "toxic_relationships"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Simon Legree exhibits classic abuser patterns: isolation, control, psychological manipulation"
+        source: "reality_wisdom"
+      - id: "racial_stereotypes"
+        type: "DISPUTE"
+        credibility: 0.80
+        content: "Despite abolitionist intent, book perpetuated harmful stereotypes that persist today"
+        source: "dark_drama"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "400+ theatrical companies performed Tom Shows, reaching millions more than book readers"
+        source: "culture_impact"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created protest novel genre, pioneered serial structure, and established social reform literature template"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Foundational American classic, sparked Civil War debate, shaped national conscience"
+        key_editions: ["Norton Critical Editions", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Academic rehabilitation since 1980s, feminist defense by Jane Tompkins"
+        educational_status: "University literature courses, American Studies programs"
+        local_themes: ["American racial discourse", "Civil War causation", "Sentimental literature"]
+
+      pl:
+        cultural_impact: "Connected to Polish experience of serfdom and foreign occupation, adapted for anti-colonial resistance"
+        key_editions: ["PIW editions", "Siedmiorog Kanon Lektur", "Jan Walicki translation"]
+        reception_notes: "Theatrical success in Krakow (1961), radio adaptation (1962)"
+        educational_status: "Children's literature canon, values education"
+        local_themes: ["Panszczyzna parallels", "Catholic values", "Resistance literature"]
+
+      de:
+        cultural_impact: "29 German editions by 1854, Berlin neighborhood named after book"
+        key_editions: ["Suhrkamp/Insel Verlag", "Wilhelm Eduard Drugulin translation"]
+        reception_notes: "Celebrity author status for Stowe, 1965 film co-production"
+        educational_status: "Translation studies, German-American cultural exchange"
+        local_themes: ["Transatlantic mobility", "German Romanticism", "Cultural translation"]
+
+      fr:
+        cultural_impact: "11 translations in first year, serialized in 3 major Paris newspapers"
+        key_editions: ["Emile de La Bedolliere", "Old Nick translation", "Charpentier authorized"]
+        reception_notes: "George Sand endorsement, separated literary from moral value"
+        educational_status: "Comparative literature, French abolitionist tradition"
+        local_themes: ["Enlightenment legacy", "Haitian Revolution context", "Cultural diplomacy"]
+
+      es:
+        cultural_impact: "Rapid Latin American distribution, 1857 Mexico City theatrical success"
+        key_editions: ["Andres Avelino de Orihuela Cuban translation", "Buenos Aires reprints"]
+        reception_notes: "Tom-Mania phenomenon across Spanish colonies"
+        educational_status: "Limited curriculum integration, academic neglect"
+        local_themes: ["Anti-colonial reading", "Spanish imperial context", "Cuban intellectual engagement"]
+
+      pt:
+        cultural_impact: "Portuguese edition altered message to extend slavery duration in colonies"
+        key_editions: ["Rey & Belhatte edition", "Brazilian Carambaia scholarly edition"]
+        reception_notes: "1969 Brazilian telenovela with controversial blackface casting"
+        educational_status: "Brazilian academia, hemispheric American studies"
+        local_themes: ["Colonial modification", "Brazilian abolition", "Racial representation"]
+
+      ja:
+        cultural_impact: "Multiple translations spanning 1960s-2023, educational anime adaptation"
+        key_editions: ["Tsuchiya Kyoko 2023 Kobunsha", "Okubo Yasuo translation"]
+        reception_notes: "Complex reception requiring careful interpretation for Japanese audiences"
+        educational_status: "University of Tokyo research, translation studies"
+        local_themes: ["Cross-cultural understanding", "Buddhist-Christian dialogue", "Social modernization"]
+
+      ko:
+        cultural_impact: "1913 Yi Kwang-su adaptation using slavery as colonial metaphor"
+        key_editions: ["Lee Jong In translation", "Eos Classic series"]
+        reception_notes: "Connected American slavery to Korean colonial experience"
+        educational_status: "Human rights education, multicultural curricula"
+        local_themes: ["Colonial resistance", "Oppression parallels", "Literary adaptation"]
+
+      hi:
+        cultural_impact: "Hindi translation 'Tom Kaka Ki Kutiya' by Hanuman Prasad Poddar"
+        key_editions: ["Gita Press Gorakhpur", "Multiple regional translations"]
+        reception_notes: "Government recognition on Culture ministry website"
+        educational_status: "Classic novel for children, moral education"
+        local_themes: ["Anti-colonial discourse", "Gandhi's satyagraha parallels", "Universal liberation"]
+
+  formats:
+    emotional_perspective:
+      name: "emotional_perspective"
+      duration: 18
+      hosts:
+        host_a: "emotional reader sharing feelings and personal impact"
+        host_b: "analytical critic explaining emotional techniques and literary craft"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:36"
+          topic: "maternal_desperation"
+          lead: "host_a"
+          description: "Sharing emotional response to Eliza's ice crossing, exploring parental fears"
+        - segment: 2
+          time_range: "03:36-07:12"
+          topic: "toxic_relationship_patterns"
+          lead: "host_b"
+          description: "Analyzing how Stowe depicts abuse through Legree, connecting to modern psychology"
+        - segment: 3
+          time_range: "07:12-10:48"
+          topic: "spiritual_connection"
+          lead: "host_a"
+          description: "Exploring the profound bond between Tom and Eva, discussing mentorship and innocence"
+        - segment: 4
+          time_range: "10:48-14:24"
+          topic: "trauma_and_resilience"
+          lead: "host_b"
+          description: "Examining how characters cope with trauma, from denial to acceptance to transformation"
+        - segment: 5
+          time_range: "14:24-18:00"
+          topic: "emotional_legacy"
+          lead: "host_a"
+          description: "Reflecting on the book's lasting emotional impact and contemporary relevance"
+      prompts:
+        host_a: "You are {male_name}, sharing emotional response to 'Uncle Tom's Cabin'. Discuss personal impact, moments that moved you deeply, feelings of heartbreak over family separations, admiration for maternal courage, and the profound spiritual connections. Focus on how the book makes you feel rather than what you think about it."
+        host_b: "You are {female_name}, an analytical critic explaining how 'Uncle Tom's Cabin' creates such powerful emotions. Analyze Stowe's techniques for evoking sympathy, her use of sentimental literature conventions, psychological depth in character relationships, and how she transforms political arguments into personal, emotional experiences."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical racism discussion", "family separation trauma", "physical abuse", "religious themes"]
+    educational_elements: ["Abolitionist literature", "Sentimental novel techniques", "Civil War causation", "Maternal heroism themes"]
+    production_notes:
+      intro_style: "soft, contemplative music building to emotional crescendo"
+      transitions: "gentle musical bridges emphasizing emotional continuity"
+      outro_style: "reflective conclusion with hopeful resolution"
+
+  overall_confidence: 0.89

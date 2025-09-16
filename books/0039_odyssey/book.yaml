@@ -4,3 +4,199 @@ book_info:
   author: "Homer"
   year: 8th century BC
   genre: "Epic,Poetry"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T12:00:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 10
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 8
+    social_roles: 7
+    total: 69
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 9.2
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_identity"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "The 'Homeric Question' represents one of literature's greatest identity controversies - Homer may never have existed as a single person but was multiple poets"
+        source: "dark_drama"
+
+      - id: "symbols_psychological"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Odysseus's journey operates as complete individuation journey: separation from ego consciousness, trials in unconscious, return with wisdom"
+        source: "symbols_meanings"
+
+      - id: "culture_foundational"
+        type: "FACT"
+        credibility: 0.95
+        content: "Template for storytelling across all forms of media - from Joyce's modernist masterpiece to contemporary TikTok musical adaptations"
+        source: "culture_impact"
+
+      - id: "youth_viral"
+        type: "FACT"
+        credibility: 0.95
+        content: "Epic: The Musical phenomenon - 60 million views across TikTok, revolutionizing theatrical casting entirely via social media auditions"
+        source: "youth_digital"
+
+      - id: "wisdom_trauma"
+        type: "FACT"
+        credibility: 0.95
+        content: "Homer's intuitive understanding of PTSD predated modern psychology by 2,800 years - Odysseus exhibits clear combat veteran symptoms"
+        source: "reality_wisdom"
+
+      - id: "innovation_narrative"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary in medias res structure, sophisticated flashback technique, ring composition - established foundational narrative techniques"
+        source: "writing_innovation"
+
+      - id: "history_preservation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 1,000 manuscripts - more than any other ancient author, continuously read for 2,700+ years across civilizations"
+        source: "facts_history"
+
+      - id: "content_complexity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Systematic sexual violence, slavery normalization requiring 16+ age restriction - significant content challenges for modern platforms"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for Western literature education and cultural identity"
+        key_editions: ["George Chapman (1616)", "Emily Wilson (2017) - first female translator", "Robert Fagles (1996) bestseller"]
+        reception_notes: "BBC Culture poll named it 'literature's most enduring narrative'"
+        educational_status: "Required reading across anglophone educational systems"
+        local_themes: ["James Joyce's Ulysses connection", "Feminist retellings by Atwood and Miller"]
+
+      pl:
+        cultural_impact: "Resonates with Polish exile experience and historical partition context"
+        key_editions: ["Jacek Przybylski (1815) first translation", "Jan Parandowski prose version (1953)", "Antoni Libera (2024) modern hexameter"]
+        reception_notes: "Required reading in Polish high schools since 2021/2022 reform"
+        educational_status: "Included in mandatory Matura exam curriculum"
+        local_themes: ["Romantic literature parallels with Mickiewicz", "Exile and return motifs in Polish cultural memory"]
+
+      de:
+        cultural_impact: "Strong academic tradition in German Romantic movement"
+        key_editions: ["Reclam editions", "Scholarly critical editions"]
+        reception_notes: "Influential in German philosophical interpretations"
+        educational_status: "Classical philology programs in major universities"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings"]
+
+      fr:
+        cultural_impact: "Literary prestige and canonical status in French education"
+        key_editions: ["Classical French translations", "Academic editions"]
+        reception_notes: "Part of European cultural heritage discussions"
+        educational_status: "Integrated in French literary curricula"
+        local_themes: ["European literary tradition", "Cross-cultural Mediterranean connections"]
+
+      es:
+        cultural_impact: "Influence on Spanish Golden Age literature and modern translations"
+        key_editions: ["Classical Spanish translations", "Modern scholarly editions"]
+        reception_notes: "Connection to Spanish epic literary tradition"
+        educational_status: "Classical literature studies"
+        local_themes: ["Epic tradition parallels", "Mediterranean cultural heritage"]
+
+      pt:
+        cultural_impact: "Connection to Portuguese maritime exploration narratives"
+        key_editions: ["Portuguese translations", "Brazilian academic editions"]
+        reception_notes: "Resonance with Age of Discovery themes"
+        educational_status: "Classical studies programs"
+        local_themes: ["Maritime adventure parallels", "Exploration narrative tradition"]
+
+      ja:
+        cultural_impact: "Modern manga and anime adaptations of classical Western literature"
+        key_editions: ["Japanese translations", "Manga adaptations"]
+        reception_notes: "Cross-cultural adaptation success"
+        educational_status: "World literature curricula"
+        local_themes: ["Hero's journey in Japanese media", "Cross-cultural storytelling"]
+
+      ko:
+        cultural_impact: "Connection to Korean homecoming narratives and family themes"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Relevance to Korean diaspora experience"
+        educational_status: "World literature studies"
+        local_themes: ["Family loyalty themes", "Journey and return narratives"]
+
+      hi:
+        cultural_impact: "Parallels with Indian epic tradition and philosophical narratives"
+        key_editions: ["Hindi translations", "Comparative literature editions"]
+        reception_notes: "Comparison with Ramayana and other Indian epics"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Epic tradition parallels", "Dharma and duty themes"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "ancient_social_structures"
+          lead: "host_a"
+          description: "Examining the rigid hierarchical society of Homer's Greece - kings, aristocrats, servants, slaves - and how Odyssey reflects these power dynamics through characters like the suitors versus loyal servants"
+
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "gender_analysis"
+          lead: "host_b"
+          description: "Analyzing complex female characters - Penelope's strategic intelligence, Athena's divine authority, Circe's magical power - challenging traditional patriarchal readings"
+
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "class_consciousness"
+          lead: "host_a"
+          description: "The Odyssey's treatment of servants, beggars, and outcasts - Odysseus as disguised beggar reveals true character of others, highlighting ancient social responsibilities"
+
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "modern_relevance"
+          lead: "host_b"
+          description: "How Odyssey's themes connect to modern issues - refugee experiences, PTSD awareness, power abuse, gender equality - making ancient wisdom contemporary"
+
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing Homer's Odyssey through the lens of power, gender, and class dynamics from its 8th century BC context. Discuss how the epic reflects ancient Greek social hierarchies, examining the rigid structures between kings like Odysseus, aristocratic suitors, loyal servants like Eumaios, and enslaved people. Explore how hospitality (xenia) functioned as social control, and how the systematic violence against servants reflects broader power structures. Focus on historical context while being sensitive to modern perspectives on these social injustices."
+
+        host_b: "You are {female_name}, a contemporary critic examining The Odyssey's ongoing relevance to current social debates and modern interpretations. Connect ancient themes to contemporary issues - analyze how Odysseus's PTSD resonates with veteran experiences, how Penelope's constrained cleverness relates to modern feminism, and how the epic's treatment of outsiders reflects current refugee and immigration discussions. Challenge traditional readings by highlighting power dynamics and social justice themes that speak to today's audiences."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "Historical violence and warfare themes"
+      - "Sexual violence references in ancient context"
+      - "Slavery and dehumanization depictions"
+      - "Mature psychological themes (PTSD, trauma)"
+      - "Complex moral situations requiring mature perspective"
+    educational_elements:
+      - "Ancient Greek social structures and values"
+      - "Early psychological understanding of trauma"
+      - "Foundational Western literary techniques"
+      - "Cross-cultural adaptation and influence"
+      - "Historical context of 8th century BC Greece"
+    production_notes:
+      intro_style: "Academic introduction emphasizing historical context and mature themes"
+      transitions: "Thoughtful musical bridges reflecting ancient/modern contrast"
+      outro_style: "Reflective conclusion connecting ancient wisdom to contemporary understanding"
+
+  overall_confidence: 0.92

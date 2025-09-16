@@ -152,49 +152,42 @@ raw_scores:
     evidence: "[Brief quote from research, max 100 chars]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[which au-research file provided evidence]"
-    
   philosophical_depth:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Brief quote from research]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   cultural_phenomenon:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Number of adaptations found]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   contemporary_reception:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Social media metrics]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   relevance:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Contemporary themes identified]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   innovation:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Specific innovations noted]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   structural_complexity:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
     evidence: "[Narrative techniques identified]"
     anchor_matched: [0|2|5|7|9|10|interpolated|NA]
     source_file: "[source file]"
-    
   social_roles:
     value: [0-10 or NA]
     confidence: [0.0-1.0]
@@ -232,7 +225,7 @@ Given: "The book has been adapted into 3 films, 2 TV series, and 1 musical"
 
 Score for CULTURAL_PHENOMENON:
 - Count: 6 distinct adaptations
-- Matches anchor 5: "3-10 distinct adaptations"  
+- Matches anchor 5: "3-10 distinct adaptations"
 - value: 5.0
 - confidence: 1.0
 - evidence: "6 adaptations: 3 films, 2 TV series, 1 musical"

@@ -4,3 +4,182 @@ book_info:
   author: "Nathaniel Hawthorne"
   year: 1850
   genre: "Historical fiction,Romance"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T20:45:00+01:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 68
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "scarlet_shame_to_strength"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "The scarlet letter transforms from symbol of shame to badge of strength as Hester evolves from 'Adultery' to 'Able' in community perception"
+        source: "symbols_meanings"
+      - id: "cancel_culture_prediction"
+        type: "FACT"
+        credibility: 0.95
+        content: "Perfectly predicted modern cancel culture - social media creates 'digital scarlet letters' and 'cyber-posses' tracking down norm violators"
+        source: "youth_digital"
+      - id: "first_psychological_novel"
+        type: "FACT"
+        credibility: 0.90
+        content: "First American psychological novel, introducing 30+ revolutionary writing techniques including unreliable narrator and stream of consciousness precursors"
+        source: "writing_innovation"
+      - id: "proto_feminist_heroine"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Hester Prynne as first independent female rebel in American literature, economic self-sufficiency and single motherhood make her proto-feminist icon"
+        source: "local_pl_context"
+      - id: "hawthorne_family_curse"
+        type: "FACT"
+        credibility: 0.90
+        content: "Hawthorne's great-great-grandfather John Hathorne was Salem witch trial judge who sentenced 20 people to death and never expressed remorse"
+        source: "dark_drama"
+      - id: "multiple_adaptation_phenomenon"
+        type: "FACT"
+        credibility: 0.85
+        content: "50+ adaptations across all media: 8+ films from 1908-1995, TV series, theater since 1858, opera, video games, never out of print since 1850"
+        source: "culture_impact"
+      - id: "philosophical_interpretive_layers"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Multiple valid interpretive layers: Puritan moral tale, feminist manifesto, psychoanalytic study, postcolonial critique, queer theory exploration"
+        source: "symbols_meanings"
+      - id: "modern_relevance_parallels"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Themes directly parallel 2024-2025 issues: AI surveillance as Puritan social control, dating app culture reproduces same gender double standards"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Cornerstone of American literary canon, first mass-produced novel (1850), influenced by Salem witch trials ancestry"
+        key_editions: ["Norton Critical Edition", "Bantam Classics", "Penguin Classics"]
+        reception_notes: "Standard 11th grade reading, 'Easy A' (2010) modernized themes for youth"
+        educational_status: "Required reading in American literature curriculum"
+        local_themes: ["American identity formation", "Puritan heritage criticism", "Individual vs community conflict"]
+
+      pl:
+        cultural_impact: "Academic classic in Polish universities, primarily studied in American Studies programs, latest translation by Tomasz Tesznar (2024)"
+        key_editions: ["Nowa Baśń Publishing (2024)", "Czytelnik (1985)", "PWN electronic edition"]
+        reception_notes: "Compared with Catholic approach to sin vs Protestant theology, feminist readings in context of Polish social transformations"
+        educational_status: "University level, not standard high school reading"
+        local_themes: ["Puritanism vs Catholicism comparison", "Social stigmatization historical parallels", "Women's autonomy resistance"]
+
+      de:
+        cultural_impact: "Wim Wenders 1973 film adaptation, strong psychoanalytic tradition analysis, Jürgen Brôcan acclaimed 2014 translation"
+        key_editions: ["Hanser München (2014)", "Reclam Universal-Bibliothek", "DTV paperback editions"]
+        reception_notes: "Connected to German Romantic movement, Jung and Freud analytical frameworks applied"
+        educational_status: "Gymnasium literature study, Abitur preparation level"
+        local_themes: ["Dark Romanticism classification", "Psychological realism tradition", "Individual dignity vs society"]
+
+      fr:
+        cultural_impact: "Multiple French translations, analyzed through existentialist and structuralist lenses in academic context"
+        key_editions: ["Gallimard translations", "Le Livre de Poche editions", "Folio Classique series"]
+        reception_notes: "Studied alongside French moralist tradition, comparisons with Scarron and Lafayette"
+        educational_status: "Advanced literature courses, comparative literature programs"
+        local_themes: ["Moral psychology analysis", "Social exclusion mechanisms", "Literary realism development"]
+
+      es:
+        cultural_impact: "Translated into Spanish, studied in context of Latin American magical realism influences and social critique traditions"
+        key_editions: ["Cátedra Letras Universales", "Alianza Editorial", "Editorial Planeta"]
+        reception_notes: "Connected to liberation theology themes, feminist readings in post-Franco Spain"
+        educational_status: "University American literature programs, comparative literature"
+        local_themes: ["Religious authority critique", "Women's social roles", "Community shame dynamics"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese editions, analyzed in context of colonial and post-colonial social dynamics"
+        key_editions: ["Editora Nova Fronteira", "Relógio D'Água", "Penguin Companhia"]
+        reception_notes: "Themes resonate with Brazilian social exclusion and religious conservatism"
+        educational_status: "Advanced literature courses, English literature programs"
+        local_themes: ["Colonial moral systems", "Social marginalization", "Religious hypocrisy critique"]
+
+      ja:
+        cultural_impact: "Translated and studied in context of shame-based vs guilt-based cultural systems, relevant to Japanese social dynamics"
+        key_editions: ["Iwanami Bunko", "Shinchosha editions", "Kadokawa Bunko"]
+        reception_notes: "Particularly resonant with Japanese concepts of social shame and group conformity"
+        educational_status: "University English literature and American studies programs"
+        local_themes: ["Shame vs guilt cultural differences", "Social ostracism mechanisms", "Individual sacrifice for group harmony"]
+
+      ko:
+        cultural_impact: "Korean translations examine themes through lens of Confucian social hierarchy and collective judgment"
+        key_editions: ["Minumsa publications", "Seoul National University Press", "Changbi Publishers"]
+        reception_notes: "Themes of social conformity and hidden guilt resonate with Korean cultural context"
+        educational_status: "Advanced English literature courses, comparative literature programs"
+        local_themes: ["Confucian morality vs individual desire", "Collective shame dynamics", "Social hierarchy critique"]
+
+      hi:
+        cultural_impact: "Indian English translations and analysis focus on caste system parallels and social exclusion mechanisms"
+        key_editions: ["Penguin India", "Oxford India editions", "Rupa Publications"]
+        reception_notes: "Themes of social boycott and ritual purity connect with Indian social structures"
+        educational_status: "English literature undergraduate and postgraduate programs"
+        local_themes: ["Caste system parallels", "Social purity concepts", "Women's autonomy in traditional society"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "local culture specialist examining Puritan American context"
+        host_b: "global literature observer comparing international interpretations"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "puritan_origins_vs_global_reception"
+          lead: "host_a"
+          description: "How Hawthorne's Salem witch trial ancestry and Puritan critique resonates differently across cultures"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "translation_cultural_adaptation"
+          lead: "host_b"
+          description: "From German psychoanalytic readings to Japanese shame-guilt dynamics, how cultures reinterpret the scarlet letter"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "modern_cultural_parallels"
+          lead: "host_a"
+          description: "Cancel culture, social media shaming, and digital scarlet letters across different societies"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "feminist_interpretations_globally"
+          lead: "host_b"
+          description: "How Hester's proto-feminism translates from American individualism to collectivist cultures"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "timeless_vs_culturally_specific"
+          lead: "host_a"
+          description: "Universal themes of shame and redemption vs culture-specific moral systems"
+      prompts:
+        host_a: "You are {male_name}, a specialist in American Puritan culture and the historical context of 'The Scarlet Letter'. Discuss how Hawthorne's critique of 17th-century Boston theocracy reflects his family guilt over Salem witch trials, and connect this to modern American cancel culture. Focus on: Hawthorne's ancestor John Hathorne as witch trial judge, the Custom House dismissal that inspired the novel, and how the scarlet letter concept predicted digital shaming. Emphasize the specifically American tension between individual freedom and community moral control."
+        host_b: "You are {female_name}, examining 'The Scarlet Letter' through global cultural perspectives. Compare how different cultures interpret Hester's story: German psychoanalytic traditions, Japanese shame vs guilt dynamics, Polish Catholic vs Protestant morality comparisons, Indian caste system parallels. Discuss international adaptations from Wim Wenders' 1973 German film to contemporary translations. Show how the universal themes of social ostracism and female autonomy take different forms across cultures while maintaining core relevance."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["discussions of adultery and sexual themes in historical context", "analysis of public shaming and social ostracism", "religious themes and criticism of fundamentalism", "themes of guilt, shame, and social persecution"]
+    educational_elements: ["Historical fiction characteristics", "Historical context of 1640s Puritan America", "Revolutionary psychological realism techniques", "Proto-feminist literature analysis", "Cultural adaptation across societies"]
+    production_notes:
+      intro_style: "atmospheric with period music and modern relevance hook"
+      transitions: "subtle musical bridges between cultural contexts"
+      outro_style: "reflection on universal themes with contemporary call to empathy"
+
+  overall_confidence: 0.87

@@ -4,3 +4,191 @@ book_info:
   author: "Alexandre Dumas (père)"
   year: 1844
   genre: "Adventure,Historical fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:42:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 7
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "corruption_justice"
+        type: "FACT"
+        credibility: 0.95
+        content: "Corruption of justice systems - Villefort could imprison without trial, systemic abuse of legal power"
+        source: "dark_drama"
+      - id: "tech_cybersecurity"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "First fictional cyberattack - telegraph hack predicts modern cybersecurity vulnerabilities"
+        source: "writing_innovation"
+      - id: "class_mobility"
+        type: "FACT"
+        credibility: 0.95
+        content: "Class mobility through wealth - money as tool for social transformation and revenge"
+        source: "reality_wisdom"
+      - id: "racial_discrimination"
+        type: "FACT"
+        credibility: 0.95
+        content: "Racial discrimination legacy - Dumas faced racism, official recognition only in 2002"
+        source: "dark_drama"
+      - id: "authorship_scandal"
+        type: "FACT"
+        credibility: 0.95
+        content: "Collaborative authorship scandal - Auguste Maquet co-author hidden for 150+ years"
+        source: "facts_history"
+      - id: "toxic_relationships"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Toxic relationship patterns - Fernand as narcissistic manipulator, modern parallels"
+        source: "reality_wisdom"
+      - id: "revenge_psychology"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revenge psychology - zemsta niszczy mściciela bardziej niż ofiarę"
+        source: "symbols_meanings"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Literary innovation - created serial cliffhanger structure, multiple identity narrative"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of adventure literature in English-speaking world"
+        key_editions: ["Robin Buss Penguin Classics", "David Coward Oxford World Classics"]
+        reception_notes: "Influenced major authors: Charles Dickens, Emily Brontë, Anthony Trollope"
+        educational_status: "Standard in world literature courses"
+        local_themes: ["Revenge narrative tradition", "Victorian censorship resistance"]
+
+      pl:
+        cultural_impact: "Popular since 1845 first Polish edition, continuous 180-year publishing tradition"
+        key_editions: ["Klemens Łukasiewicz translation", "Wolne Lektury platform"]
+        reception_notes: "Resonates with Polish themes of justice, struggle against oppression"
+        educational_status: "Educational platform access for 13,496 daily users"
+        local_themes: ["Romantic struggle against fate", "Parallels to Polish uprising narratives"]
+
+      de:
+        cultural_impact: "Multiple competing translations since 1846, strong academic engagement"
+        key_editions: ["Fischer Verlag complete edition", "dtv revised translation"]
+        reception_notes: "Philosophical depth appeals to German literary sensibilities"
+        educational_status: "Used in French literature courses in German Gymnasiums"
+        local_themes: ["Post-war identity reconstruction themes", "Methodical justice concepts"]
+
+      fr:
+        cultural_impact: "Core text of French Romanticism, originated in Journal des Débats 1844"
+        key_editions: ["Bibliothèque de la Pléiade", "Gallimard Folio editions"]
+        reception_notes: "Panthéon recognition 2002, global ambassador of French culture"
+        educational_status: "Canonical French literature, studied in Francophone institutions"
+        local_themes: ["French Romanticism pinnacle", "Critique of Restoration society"]
+
+      es:
+        cultural_impact: "Gabriel García Márquez's favorite book, influenced magical realism techniques"
+        key_editions: ["José Ramón Monreal translation Navona", "Editorial Alma complete version"]
+        reception_notes: "Massive telenovela success across Latin America, Netflix revival"
+        educational_status: "Academic analysis in Argentine and Spanish universities"
+        local_themes: ["Latin American melodrama adaptations", "Social class mobility narratives"]
+
+      pt:
+        cultural_impact: "Award-winning Brazilian translation won Jabuti Prize 2009"
+        key_editions: ["Telles-Lacerda Companhia das Letras", "Europa-América Portuguese edition"]
+        reception_notes: "Multiple Brazilian telenovela adaptations, Globoplay streaming success"
+        educational_status: "ENEM preparation materials, university entrance exam content"
+        local_themes: ["Social justice resonance", "Wealth inequality critique"]
+
+      ja:
+        cultural_impact: "Known as Gankutsu-ou (King of Cavern), deep cultural integration since 1901"
+        key_editions: ["Iwanami Bunko complete translation", "Kuroiwa Ruiko adaptation"]
+        reception_notes: "Groundbreaking 2004 anime adaptation, visual innovation collaboration"
+        educational_status: "Western classical literature status, academic study of cultural adaptation"
+        local_themes: ["Buddhist reinterpretation", "Emotion-focused rather than religious themes"]
+
+      ko:
+        cultural_impact: "Multiple Korean translations, successful musical theater productions"
+        key_editions: ["Dongseo Cultural Publishing edition", "Minumsa complete 5-volume set"]
+        reception_notes: "K-pop idol participation in musical, female-centered drama adaptation"
+        educational_status: "Multi-level educational engagement from elementary to university"
+        local_themes: ["Confucian ethics vs. personal revenge", "Korean entertainment revenge narrative tradition"]
+
+      hi:
+        cultural_impact: "Multiple language adaptations (Hindi, Urdu, Bengali), regional cinema influence"
+        key_editions: ["Hindi Kaidi ki Karaamat", "Urdu Monte Cristo Ka Nawab"]
+        reception_notes: "Malayalam and Tamil film adaptations, Radio Mirchi Bengali adaptation"
+        educational_status: "ICSE curriculum advantage, postcolonial academic perspectives"
+        local_themes: ["Karma vs divine justice", "Dharmic interpretation of cosmic justice"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_power_structures"
+          lead: "host_a"
+          description: "French Restoration period class conflicts and political persecution"
+        - segment: 2
+          time_range: "02:49-05:36"
+          topic: "systemic_corruption"
+          lead: "host_b"
+          description: "Judicial corruption (Villefort), financial manipulation (Danglars), military opportunism (Fernand)"
+        - segment: 3
+          time_range: "05:37-08:24"
+          topic: "racial_social_dynamics"
+          lead: "host_a"
+          description: "Dumas's mixed-race heritage, systemic racism, delayed recognition"
+        - segment: 4
+          time_range: "08:25-11:12"
+          topic: "contemporary_parallels"
+          lead: "host_b"
+          description: "Wealth inequality, toxic relationships, cancel culture, cybersecurity"
+        - segment: 5
+          time_range: "11:13-14:00"
+          topic: "social_transformation_themes"
+          lead: "host_a"
+          description: "Class mobility, identity reconstruction, power of education"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'The Count of Monte Cristo' through lens of power, gender, class. Historical context: French Restoration period (1815-1838). Focus on systemic corruption in judicial, financial and military institutions. Discuss Dumas's own experience with racial discrimination and how it influenced the work."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates: wealth inequality, toxic relationship patterns (Fernand as narcissistic manipulator), justice vs revenge dynamics. Explore how the novel's themes of class mobility and systemic corruption resonate with modern power structures."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "revenge themes and psychological manipulation"
+      - "discussion of toxic relationships and abuse patterns"
+      - "historical violence and systemic racism"
+      - "suicide themes in character arcs"
+    educational_elements:
+      - "French Restoration period history (1815-1838)"
+      - "Early cybersecurity concepts through telegraph hack"
+      - "Literary collaboration and ghostwriting ethics"
+      - "Social class mobility and systemic corruption analysis"
+      - "Racial discrimination in 19th century French society"
+    production_notes:
+      intro_style: "Dramatic opening with 1815 maritime setting, emphasizing social contrasts"
+      transitions: "Period-appropriate musical bridges with subtle tension building"
+      outro_style: "Contemplative conclusion on themes of justice, forgiveness and social transformation"
+
+  overall_confidence: 0.86

@@ -1,148 +1,148 @@
-# MROCZNE DRAMATY I KONTROWERSJE: Doktor Żywago
+# DARK DRAMAS AND CONTROVERSIES: Doctor Zhivago
 
-## Operacja CIA i manipulacja Nagrodą Nobla
+## CIA Operation and Nobel Prize Manipulation
 
-**FAKT**: CIA otrzymała w styczniu 1958 dwa rolki filmu z fotografiami stron "Doktora Żywago" od brytyjskiego wywiadu i natychmiast rozpoczęła operację jego dystrybucji za Żelazną Kurtyną.
+**FACT**: The CIA received two rolls of film with photographs of "Doctor Zhivago" pages from British intelligence in January 1958 and immediately began an operation to distribute it behind the Iron Curtain.
 
-**FAKT**: Operacja była prowadzona przez Oddział Rosji Radzieckiej CIA, monitorowana przez dyrektora CIA Allena Dullesa i zatwierdzona przez Radę Koordynacyjną Operacji prezydenta Eisenhowera.
+**FACT**: The operation was run by the CIA's Soviet Russia Division, monitored by CIA director Allen Dulles, and sanctioned by President Eisenhower's Operations Coordinating Board.
 
-**FAKT**: CIA zorganizowała druk wydania twardej oprawy w 1958 w Holandii oraz miniaturowego wydania papierowego w swoim głównym biurze w Waszyngtonie w 1959.
+**FACT**: The CIA arranged the printing of a hardcover edition in 1958 in the Netherlands and printed a miniature paperback edition at its headquarters in Washington, D.C., in 1959.
 
-**ZARZUT**: Według pisarza Ivana Tolstoja, CIA bezpośrednio pomogła w zapewnieniu nominacji Pasternaka do Nagrody Nobla poprzez dostarczenie manuskryptu w oryginalnym języku rosyjskim Komitetowi Nobelowskiemu.
+**ACCUSATION**: According to writer Ivan Tolstoy, the CIA directly helped secure Pasternak's Nobel Prize nomination by providing the original Russian manuscript to the Nobel Committee.
 
-**FAKT**: W wewnętrznej notatce CIA napisała, że "Doktor Żywago" powinien być "opublikowany w maksymalnej liczbie edycji zagranicznych, dla maksymalnej dystrybucji w wolnym świecie i rozgłosu oraz rozważenia dla takiego zaszczytu jak Nagroda Nobla".
+**FACT**: In an internal CIA memo, the agency wrote that "Doctor Zhivago" should be "published in a maximum number of foreign editions, for maximum free world distribution and acclaim and consideration for such honor as the Nobel Prize."
 
-**FAKT**: CIA rozprowadziła kopie rosyjskojęzycznego wydania "Doktora Żywago" na Światowej Wystawie w Brukseli w 1958 roku, wykorzystując pawilon Watykanu.
+**FACT**: The CIA distributed copies of the Russian-language edition of "Doctor Zhivago" at the World's Fair in Brussels in 1958, using the Vatican pavilion as a distribution point.
 
-**FAKT**: CIA po raz pierwszy przyznała swoją rolę w planie Żywago w 2014 roku, kiedy odtajniła prawie 100 dokumentów opisujących swoje wysiłki.
+**FACT**: The CIA first admitted its role in the Zhivago scheme in 2014 when it declassified nearly 100 documents describing its efforts.
 
-## Tragiczny romans Pasternaka i prześladowania
+## Pasternak's Tragic Romance and Persecution
 
-**FAKT**: Boris Pasternak poznał Olgę Iwinską w październiku 1946 w redakcji "Nowego Świata", gdzie była odpowiedzialna za dział nowych autorów. Była od niego młodsza o 22 lata.
+**FACT**: Boris Pasternak met Olga Ivinskaya in October 1946 at the editorial offices of "Novy Mir," where she was responsible for new authors. She was 22 years younger than him.
 
-**FAKT**: Olga została aresztowana w październiku 1949 jako "wspólniczka szpiega" i w lipcu 1950 została skazana przez Specjalną Radę NKWD na pięć lat w Gułagu.
+**FACT**: Olga was arrested in October 1949 as "an accomplice to the spy" and in July 1950 was sentenced by the Special Council of the NKVD to five years in the Gulag.
 
-**FAKT**: W czasie aresztowania Iwińska była w ciąży z Pasternakiem i poroniła. Pasternak napisał w 1958: "Zawdzięczam jej bohaterstwu i wytrzymałości moje życie i fakt, że mnie nie dotknęli w tamtych latach".
+**FACT**: At the time of her arrest, Ivinskaya was pregnant by Pasternak and miscarried. Pasternak wrote in 1958: "I owe my life and the fact that they did not touch me in those years to her heroism and endurance."
 
-**FAKT**: Po śmierci Pasternaka w 1960, Iwińska została aresztowana po raz drugi wraz z córką Iriną, oskarżona o bycie łączniczką Pasternaka z zachodnimi wydawcami i handel twardą walutą za "Doktora Żywago".
+**FACT**: After Pasternak's death in 1960, Ivinskaya was arrested for the second time along with her daughter Irina, accused of being Pasternak's link with Western publishers and dealing in hard currency for "Doctor Zhivago."
 
-**FAKT**: Iwińska spędziła łącznie ponad 8 lat w radzieckich obozach pracy za swoją relację z Pasternakiem i pomoc w przemyceniu manuskryptu na Zachód.
+**FACT**: Ivinskaya spent a total of over 8 years in Soviet labor camps for her relationship with Pasternak and helping smuggle the manuscript to the West.
 
-**ZARZUT**: Anna Pasternak (spadkobierczyni) twierdzi, że największym moralnym wykroczeniem Borisa było nienadanie Oldze nazwiska Pasternak, co mogło chronić ją przed Gułagiem.
+**ACCUSATION**: Anna Pasternak (heir) claims that Boris's greatest moral transgression was not giving Olga the Pasternak surname, which could have protected her from the Gulag.
 
-## Antysemickie kontrowersje i problematyczne poglądy
+## Anti-Semitic Controversies and Problematic Views
 
-**FAKT**: Boris Pasternak urodził się w moskiewskiej, zamożnej, zasymilowanej żydowskiej rodzinie. Jego rodzice pochodzili z żydowskich rodzin z Odessy na Ukrainie.
+**FACT**: Boris Pasternak was born into a wealthy, assimilated Jewish family in Moscow. His parents came from Jewish families from Odessa, Ukraine.
 
-**FAKT**: W liście z 1959 Pasternak ujawnił: "Zostałem ochrzczony jako dziecko przez moją niańkę, ale z powodu ograniczeń nałożonych na Żydów... było w tym coś nieco skomplikowanego i zawsze było to odczuwane jako półtajne i intymne".
+**FACT**: In a 1959 letter, Pasternak revealed: "I was baptized as a child by my nanny, but because of the restrictions imposed on Jews... there was something somewhat complicated about it and it was always felt as semi-secret and intimate."
 
-**ZARZUT**: Isaiah Berlin zauważył, że Pasternak miał "negatywne uczucia wobec swoich żydowskich korzeni" i "chciał, żeby Żydzi się zasymilowali, zniknęli jako naród".
+**ACCUSATION**: Isaiah Berlin noted that Pasternak had "negative feelings toward his Jewish roots" and "wanted Jews to assimilate, to disappear as a people."
 
-**KONTROWERSJA**: W "Doktorze Żywago" Pasternak napisał o Żydach zamordowanych w antysemickiej przemocy: "W czyich interesach jest to dobrowolne męczeństwo?... Powiedzcie im: 'Wystarczy. Przestańcie. Nie trzymajcie się swojej tożsamości. Nie zbierajcie się wszyscy w tłum. Rozpierzchnijcie się. Bądźcie ze wszystkimi innymi.'"
+**CONTROVERSY**: In "Doctor Zhivago," Pasternak wrote about Jews murdered in anti-Semitic violence: "In whose interests is this voluntary martyrdom?... Tell them: 'Enough. Stop. Don't hold on to your identity. Don't all get together in a crowd. Disperse. Be with all the rest.'"
 
-**FAKT**: David Ben-Gurion nazwał "Doktora Żywago" "jedną z najbardziej podłych książek o Żydach, jakie kiedykolwiek napisał człowiek żydowskiego pochodzenia".
+**FACT**: David Ben-Gurion called "Doctor Zhivago" "one of the most despicable books about Jews ever written by a man of Jewish origin."
 
-**FAKT**: W Izraelu powieść została ostro skrytykowana za swoje asymilacyjne poglądy wobec narodu żydowskiego.
+**FACT**: In Israel, the novel was sharply criticized for its assimilationist views toward the Jewish people.
 
-## Cenzura i prześladowania przez reżim sowiecki
+## Censorship and Persecution by the Soviet Regime
 
-**FAKT**: "Doktor Żywago" został odrzucony do publikacji w ZSRR z powodu krytycznego stanowiska autora wobec Rewolucji Październikowej.
+**FACT**: "Doctor Zhivago" was rejected for publication in the USSR due to the author's critical stance on the October Revolution.
 
-**FAKT**: Redaktorzy radzieccy odrzucili powieść Pasternaka z powodu jej implicytnego odrzucenia realizmu socjalistycznego, który był oficjalnym stylem artystycznym Związku Radzieckiego.
+**FACT**: Soviet editors rejected Pasternak's novel because of its implicit rejection of socialist realism, which was the official artistic style of the Soviet Union.
 
-**FAKT**: KGB twierdziło, że dzieło Pasternaka było "wyobcowaniem z życia radzieckiego i celebrowaniem indywidualizmu".
+**FACT**: The KGB claimed that Pasternak's work was "alienation from Soviet life and celebration of individualism."
 
-**FAKT**: Władze radzieckie były wściekłe z powodu subtelnej krytyki Pasternaka wobec stalinizmu, kolektywizacji, Wielkiej Czystki i Gułagu.
+**FACT**: Soviet authorities were enraged by Pasternak's subtle criticism of Stalinism, collectivization, the Great Purge, and the Gulag.
 
-**FAKT**: Powieść przedstawiała, jak zdrowie psychiczne i fizyczne obywateli kruszyło pod wpływem "stałego, systematycznego fałszu", gdzie oczekiwano od nich pokazywania się wbrew temu, co czuli.
+**FACT**: The novel depicted how citizens' mental and physical health crumbled under the influence of "constant, systematic falsehood," where they were expected to show themselves contrary to what they felt.
 
-**FAKT**: Po otrzymaniu Nagrody Nobla w 1958, KGB otoczył daczę Pasternaka w Pieriediełkinie. Pasternak był nie tylko zagrożony aresztowaniem, ale KGB groziło również odesłaniem jego kochanki Olgi Iwińskiej z powrotem do gułagu.
+**FACT**: After receiving the Nobel Prize in 1958, the KGB surrounded Pasternak's dacha in Peredelkino. Pasternak was not only threatened with arrest, but the KGB also threatened to send his mistress Olga Ivinskaya back to the gulag.
 
-**FAKT**: "Doktor Żywago" został w końcu opublikowany seryjnie na łamach "Nowego Świata" w 1988 roku, podczas reform pierestrojki Gorbaczowa.
+**FACT**: "Doctor Zhivago" was finally published serially in "Novy Mir" in 1988, during Gorbachev's perestroika reforms.
 
-## Bezpośrednie prześladowania i groźby śmierci
+## Direct Persecution and Death Threats
 
-**FAKT**: W 1934 Józef Stalin osobiście zadzwonił do Pasternaka, żeby go zbesztać za próbę uwolnienia przyjaciela poety.
+**FACT**: In 1934, Joseph Stalin personally called Pasternak to scold him for trying to free a poet friend.
 
-**FAKT**: Gdy Osip Mandelsztam recytował swój "Epigramat o Stalinie" Pasternak w kwietniu 1934, Pasternak odpowiedział ze strachem: "Nie słyszałem tego, nie recytowałeś mi tego, ponieważ, wiesz, dzieją się teraz bardzo dziwne i straszne rzeczy: zaczęli ludzi zabierać. Boję się, że ściany mają uszy".
+**FACT**: When Osip Mandelstam recited his "Stalin Epigram" to Pasternak in April 1934, Pasternak responded in fear: "I didn't hear this, you didn't recite it to me, because, you know, very strange and terrible things are happening now: they've begun to pick people up. I'm afraid that walls have ears."
 
-**FAKT**: Między publikacją w 1957 a ogłoszeniem Nagrody Nobla w 1958, Pasternak był zagrożony przez KGB aresztowaniem i ostatecznym wygnaniem ze Związku Radzieckiego.
+**FACT**: Between publication in 1957 and the Nobel Prize announcement in 1958, Pasternak was threatened by the KGB with arrest and eventual exile from the Soviet Union.
 
-**FAKT**: Gdy przekazał manuskrypt "Doktora Żywago" do przemycenia z kraju, Pasternak złowieszczo powiedział dziennikarzowi: "Zostałeś zaproszony do oglądania mnie stającego przed plutonem egzekucyjnym".
+**FACT**: When he handed the manuscript of "Doctor Zhivago" to be smuggled out of the country, Pasternak ominously told a journalist: "You have been invited to watch me face a firing squad."
 
-**FAKT**: Na plenum Związku Młodzieży Komunistycznej w 1958, Władimir Semiciastnyj (który później został szefem KGB w 1961) zaatakował Pasternaka przed 14 000 ludzi, nazywając go "parszywa owca", która ucieszyła radzieckich wrogów swoim "oszczerczym tak zwanym dziełem".
+**FACT**: At a plenum of the Communist Youth League in 1958, Vladimir Semichastnyi (who later became KGB chief in 1961) attacked Pasternak before 14,000 people, calling him a "mangy sheep" who pleased Soviet enemies with his "slanderous so-called work."
 
-**FAKT**: Semiciastnyj dodał, że Pasternak "poszedł i plunął w twarz ludowi" i stwierdził, że "Jeśli porównasz Pasternaka do świni, świnia nie zrobiłaby tego, co on zrobił", ponieważ świnia "nigdy nie sra tam, gdzie je".
+**FACT**: Semichastnyi added that Pasternak "went and spat in the face of the people" and stated that "If you compare Pasternak to a pig, a pig wouldn't do what he did," because a pig "never shits where it eats."
 
-**FAKT**: Władze radzieckie ogłosiły go "zdrajcą" i zaatakowały kampanią prześladowań, terroryzując Pasternaka aż do jego śmierci w 1960 roku.
+**FACT**: Soviet authorities declared him a "traitor" and attacked him with a persecution campaign, terrorizing Pasternak until his death in 1960.
 
-## Kontrowersje filmowe i Hollywood
+## Film Controversies and Hollywood Drama
 
-**FAKT**: Film "Doktor Żywago" z 1965 roku w reżyserii Davida Leana stał się jednym z największych hitów kasowych wszech czasów, gdy uwzględni się inflację cen biletów.
+**FACT**: The 1965 film "Doctor Zhivago" directed by David Lean became one of the biggest box office hits of all time when adjusted for ticket price inflation.
 
-**KONTROWERSJA**: Pierwotny operator obrazu Nicolas Roeg został zastąpiony po trzech miesiącach filmowania z powodu różnic twórczych z Leanem.
+**CONTROVERSY**: Original cinematographer Nicolas Roeg was replaced after three months of filming due to creative differences with Lean.
 
-**KONTROWERSJA**: Krytycy pierwotnie rzucili się na film, uważając go za widokówkową wizję rewolucji, historię miłosną niepewnie zbalansowaną na mozolnej rekonstrukcji Rosji.
+**CONTROVERSY**: Critics initially pounced on the film, considering it a postcard vision of revolution, a love story uncertainly balanced on a laborious reconstruction of Russia.
 
-**ZARZUT**: Występ Omara Sharifa jako Żywago był kontrowersyjny, niektórzy krytycy uznali jego portret za pasywny lub pozbawiony niezbędnej dramatycznej intensywności dla tej roli.
+**ACCUSATION**: Omar Sharif's performance as Zhivago was controversial, with some critics finding his portrayal passive or lacking the necessary dramatic intensity for the role.
 
-**FAKT**: Mimo mieszanych recenzji, film wygrał pięć Oscarów i prawie zdominował Złote Globy: Najlepszy Film, Najlepszy Aktor (Sharif), Najlepszy Reżyser, Najlepszy Scenariusz, Najlepsza Muzyka.
+**FACT**: Despite mixed reviews, the film won five Oscars and nearly swept the Golden Globes: Best Picture, Best Actor (Sharif), Best Director, Best Screenplay, Best Music.
 
-## Przepowiednie które się sprawdziły
+## Prophecies That Came True
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Pasternak przewidział, że system komunistyczny załamie się z powodu swojego fundamentalnego zaprzeczenia ludzkiej godności i wolności indywidualnej. Upadek ZSRR w 1991 potwierdził te prognozy.
+**PROPHECY FULFILLED**: Pasternak predicted that the communist system would collapse due to its fundamental denial of human dignity and individual freedom. The fall of the USSR in 1991 confirmed these predictions.
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Powieść pokazała, jak wstrząsy polityczne przyniosły śmierć, gdy obywatele próbowali przekształcić rząd zgodnie z socjalistycznymi ideałami, a przywódcy reform "byli brutalni i uciekli się do dyktatury".
+**PROPHECY FULFILLED**: The novel showed how political upheavals brought death when citizens tried to transform government according to socialist ideals, and reform leaders "were brutal and resorted to dictatorship."
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Pasternak przewidział, że gdy ekonomiczne ideały zostały wprowadzone w życie, "firmy wyschły, ludzie głodowali, a korupcja się rozprzestrzeniała".
+**PROPHECY FULFILLED**: Pasternak predicted that when economic ideals were implemented, "enterprises dried up, people starved, and corruption spread."
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Nawet intelektualiści, którzy promowali ideały, "zgubili się we własnych pomysłach i stagnowali".
+**PROPHECY FULFILLED**: Even intellectuals who promoted the ideals "got lost in their own ideas and stagnated."
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Pasternak napisał: "Nie tak dawno był święty obowiązek wobec ojczyzny, męstwo wojskowe, wzniosłe uczucia społeczne... Ale wojna jest przegrana, to główna klęska, a wszystko inne z tego wynika, wszystko jest obalone, nic nie jest święte".
+**PROPHECY FULFILLED**: Pasternak wrote: "Not so long ago there was a sacred duty to the fatherland, military courage, sublime social feelings... But the war is lost, that's the main disaster, and everything else follows from it, everything is overturned, nothing is sacred."
 
-**PRZEPOWIEDNIA SPRAWDZONA**: Humanistyczne przesłanie Pasternaka - "że każda osoba ma prawo do prywatnego życia i zasługuje na szacunek jako istota ludzka, niezależnie od zakresu jej lojalności politycznej lub wkładu w państwo" - stanowiło fundamentalne wyzwanie dla radzieckiej etyki poświęcania jednostki na rzecz systemu komunistycznego.
+**PROPHECY FULFILLED**: Pasternak's humanistic message - "that every person has the right to a private life and deserves respect as a human being, regardless of the extent of their political loyalty or contribution to the state" - posed a fundamental challenge to the Soviet ethic of sacrificing the individual for the communist system.
 
-## Współczesne skandale prawne
+## Contemporary Legal Scandals
 
-**FAKT**: Anna Pasternak (prawnuczka Borisa) pozwała autorkę Larę Prescott za rzekome plagiat swojej książki z 2016 roku o romansie Borisa Pasternaka z Olgą Iwińską w sądzie o wartości 2 milionów funtów.
+**FACT**: Anna Pasternak (great-niece of Boris) sued author Lara Prescott for alleged plagiarism of her 2016 book about Boris Pasternak's romance with Olga Ivinskaya in a £2 million court case.
 
-**ZARZUT**: Anna Pasternak twierdzi, że książka Prescott "The Secrets We Kept" (2019) skopiowała strukturę, tematy i szczegóły z jej książki "The Real Lara".
+**ACCUSATION**: Anna Pasternak claims that Prescott's book "The Secrets We Kept" (2019) copied the structure, themes, and details from her book "The Real Lara."
 
-**FAKT**: Penguin Random House broniło Prescott, mówiąc, że zarzuty są "po prostu bezpodstawne".
+**FACT**: Penguin Random House defended Prescott, saying the claims are "simply without merit."
 
-**KONTROWERSJA**: Sprawa toczy się w Wysokim Sądzie w Londynie i dotyczy praw autorskich do historii o "prawdziwej Larze" - Oldze Iwińskiej.
+**CONTROVERSY**: The case is proceeding in the High Court in London and concerns copyright to the story of the "real Lara" - Olga Ivinskaya.
 
-## Ukryte znaczenia i interpretacje
+## Hidden Meanings and Interpretations
 
-**ZARZUT**: Niektórzy badacze twierdzą, że "Doktor Żywago" zawiera zakodowane krytyki konkretnych radzieckich przywódców i wydarzeń historycznych.
+**ACCUSATION**: Some scholars claim that "Doctor Zhivago" contains coded criticisms of specific Soviet leaders and historical events.
 
-**PLOTKA**: Postać Komarowskiego może być oparta na rzeczywistych wysokich rangą radzieckich funkcjonariuszach, którzy wykorzystywali swoje stanowiska do osobistych korzyści.
+**RUMOR**: The character Komarovsky may be based on real high-ranking Soviet officials who used their positions for personal gain.
 
-**ZARZUT**: Religijna symbolika w powieści była celowo wykorzystana jako forma oporu przeciwko ateistycznej ideologii radzieckiej.
+**ACCUSATION**: The religious symbolism in the novel was deliberately used as a form of resistance against Soviet atheistic ideology.
 
-**PLOTKA**: Pasternak celowo uczynił swojego bohatera lekarzem, aby pokazać, jak inteligencja radziecka była zmuszona do kompromisów moralnych dla przetrwania.
+**RUMOR**: Pasternak deliberately made his hero a doctor to show how the Soviet intelligentsia was forced into moral compromises for survival.
 
-## Finansowe dramaty i international intrygi
+## Financial Dramas and International Intrigues
 
-**FAKT**: Olga Iwińska została oskarżona o handel twardą walutą za tantiemy z "Doktora Żywago" i skazana na drugi pobyt w gułagu.
+**FACT**: Olga Ivinskaya was accused of dealing in hard currency for royalties from "Doctor Zhivago" and sentenced to a second stay in the gulag.
 
-**FAKT**: Wszystkie listy Pasternaka do Iwińskiej i inne manuskrypty zostały skonfiskowane przez KGB podczas jej ostatniego aresztowania.
+**FACT**: All of Pasternak's letters to Ivinskaya and other manuscripts were confiscated by the KGB during her final arrest.
 
-**KONTROWERSJA**: CIA wykorzystywała "Doktora Żywago" jako broń kulturalną w zimnej wojnie, dystrybuując go wśród sowieckich intelektualistów.
+**CONTROVERSY**: The CIA used "Doctor Zhivago" as a cultural weapon in the Cold War, distributing it among Soviet intellectuals.
 
-**FAKT**: Wydawca włoski Giangiacomo Feltrinelli opublikował powieść mimo gróźb zarówno ze strony rosyjskiej, jak i włoskiej partii komunistycznej.
+**FACT**: Italian publisher Giangiacomo Feltrinelli published the novel despite threats from both Russian and Italian communist parties.
 
-## Wpływ na kulturę i lasting legacy
+## Cultural Impact and Lasting Legacy
 
-**FAKT**: "Doktor Żywago" został sklasyfikowany jako #39 na oryginalnej liście AFI największych filmów wszech czasów.
+**FACT**: "Doctor Zhivago" was ranked #39 on AFI's original list of greatest films of all time.
 
-**FAKT**: Romans Jurija Żywago i Lary zajmuje #7 miejsce wśród największych historii miłosnych wszech czasów według AFI.
+**FACT**: The romance of Yuri Zhivago and Lara ranks #7 among the greatest love stories of all time according to AFI.
 
-**FAKT**: Temat miłosny z filmu ("Temat Lary") autorstwa Maurice'a Jarre'a stał się wszechobecny i hitem dla kilku artystów pod tytułem "Somewhere, My Love".
+**FACT**: The film's love theme ("Lara's Theme") by Maurice Jarre became ubiquitous and a hit for several artists under the title "Somewhere, My Love."
 
-**FAKT**: Moda w stylu "Żywago" pojawiła się w magazynach mody i domach towarowych po premierze filmu.
+**FACT**: "Zhivago" fashion appeared in fashion magazines and department stores after the film's premiere.
 
-**KONTROWERSJA**: Mimo popularności wśród widzów, reputacja krytyczna "Doktora Żywago" zaczęła się poprawiać dopiero w latach 80. i 90.
+**CONTROVERSY**: Despite popularity among audiences, the critical reputation of "Doctor Zhivago" only began to improve in the 1980s and 1990s.
 
 ---
-*Dokument zawiera 48 faktów, zarzutów i plotek dotyczących mrocznych aspektów "Doktora Żywago" i Borisa Pasternaka, opartych na dostępnych źródłach historycznych i dokumentach CIA.*
+*This document contains 48 facts, accusations, and rumors about the dark aspects of "Doctor Zhivago" and Boris Pasternak, based on available historical sources and CIA documents.*

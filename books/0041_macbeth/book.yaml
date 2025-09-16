@@ -4,3 +4,182 @@ book_info:
   author: "William Shakespeare"
   year: c. 1606
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T14:30:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 65
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.3
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Macbeth as Shakespeare's most brutal tragedy with more physical violence than any other"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Scottish Play curse - documented series of deaths and accidents since 1606"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Blood symbolizes guilt and irreversible consequences - 109 references in the play"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 100 adaptations across all media, influenced entire genres including psychological thriller"
+        source: "culture_impact"
+      - id: "youth_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Gen Z engagement through TikTok videos with 7.4M+ views on 'Gen Z Shakespeare'"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prophetic accuracy about dictator psychology validated by modern psychiatric research"
+        source: "reality_wisdom"
+      - id: "writing_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneer of psychological realism with linguistic degradation reflecting moral decay"
+        source: "writing_innovation"
+      - id: "facts_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written 1606 after Gunpowder Plot, directly addressing King James I's interests in witchcraft"
+        source: "facts_history"
+    localized:
+      en:
+        cultural_impact: "Foundational text in English literature, establishing archetypes and idioms still used today"
+        key_editions: ["First Folio 1623", "Arden Shakespeare", "Norton Critical Editions"]
+        reception_notes: "Canonical status in Western literature, most performed Shakespeare tragedy"
+        educational_status: "Core curriculum in UK/US schools"
+        local_themes: ["Political corruption", "Psychological thriller template"]
+      pl:
+        cultural_impact: "Mandatory matura reading, over 200 Polish editions available from 1 PLN"
+        key_editions: ["Słomczyński", "Barańczak", "Libera", "Kamiński translations"]
+        reception_notes: "Strong theatrical tradition, Wajda's 2004 Stary Teatr production landmark"
+        educational_status: "Lektura obowiązkowa na maturę"
+        local_themes: ["Moral responsibility", "Power and corruption through Polish historical lens"]
+      de:
+        cultural_impact: "German Romantic movement influence, philosophical interpretations dominant"
+        key_editions: ["Schlegel-Tieck translation", "Reclam editions"]
+        reception_notes: "Strong academic tradition in German Shakespeare studies"
+        educational_status: "Abitur curriculum standard"
+        local_themes: ["Philosophical depth", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "French theatrical tradition emphasizes psychological aspects"
+        key_editions: ["François-Victor Hugo translation", "Pléiade editions"]
+        reception_notes: "Regular productions at Comédie-Française"
+        educational_status: "Baccalauréat literature option"
+        local_themes: ["Power dynamics", "Literary psychoanalysis"]
+      es:
+        cultural_impact: "Latin American adaptations explore colonial power themes"
+        key_editions: ["Instituto Shakespeare editions", "Austral classics"]
+        reception_notes: "Popular in both Spain and Latin America"
+        educational_status: "Common in secondary education"
+        local_themes: ["Tyranny and dictatorship", "Colonial power dynamics"]
+      pt:
+        cultural_impact: "Brazilian adaptations often focus on political corruption"
+        key_editions: ["Millôr Fernandes translation", "Penguin-Companhia editions"]
+        reception_notes: "Regular productions in São Paulo and Lisbon"
+        educational_status: "University literature courses"
+        local_themes: ["Political allegory", "Power and corruption"]
+      ja:
+        cultural_impact: "Kurosawa's 'Throne of Blood' (1957) definitive cultural translation"
+        key_editions: ["Fukuda Tsuneari translation", "Iwanami Shoten editions"]
+        reception_notes: "Fusion with Noh theater traditions"
+        educational_status: "University English literature"
+        local_themes: ["Bushido code violations", "Honor and shame culture"]
+      ko:
+        cultural_impact: "Modern Korean adaptations explore corporate power dynamics"
+        key_editions: ["Choi Jong-chul translation", "Minumsa editions"]
+        reception_notes: "Popular in contemporary theater"
+        educational_status: "English literature departments"
+        local_themes: ["Corporate ambition", "Family honor themes"]
+      hi:
+        cultural_impact: "Bollywood adaptation 'Maqbool' (2004) set in Mumbai underworld"
+        key_editions: ["Rangeya Raghav translation", "Sahitya Akademi editions"]
+        reception_notes: "Vishal Bhardwaj trilogy brought Shakespeare to masses"
+        educational_status: "English medium schools"
+        local_themes: ["Dharma and karma", "Power in criminal underworld"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 18
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:36"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Macbeth as Shakespeare's most brutal tragedy examining power corruption"
+        - segment: 2
+          time_range: "03:36-07:12"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Blood symbolism and linguistic degradation as moral decay markers"
+        - segment: 3
+          time_range: "07:12-10:48"
+          topic: "examples"
+          lead: "host_a"
+          description: "Prophetic accuracy about dictator psychology in modern contexts"
+        - segment: 4
+          time_range: "10:48-14:24"
+          topic: "cultural_impact"
+          lead: "host_b"
+          description: "100+ adaptations influencing genres from thriller to contemporary TV"
+        - segment: 5
+          time_range: "14:24-18:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Contemporary relevance through Gen Z engagement and mental health awareness"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Macbeth' with scholarly depth. Discuss structure, symbolism, literary techniques. Focus on psychological realism pioneering and linguistic innovation. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Bridge complex concepts for general audience."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence"
+      - "murder and regicide themes"
+      - "mental health deterioration"
+      - "suicide references"
+    educational_elements:
+      - "Tragedy genre characteristics"
+      - "Historical context of 1606"
+      - "Psychological character development"
+      - "Literary symbolism and techniques"
+      - "Shakespeare's linguistic innovations"
+    production_notes:
+      intro_style: "scholarly introduction with historical context"
+      transitions: "subtle musical bridges"
+      outro_style: "academic summary with contemporary relevance"
+
+  overall_confidence: 0.91

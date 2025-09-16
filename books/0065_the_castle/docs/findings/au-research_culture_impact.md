@@ -1,134 +1,134 @@
-# Wpływ Kulturowy "Zamku" Franza Kafki
+# Cultural Impact of Franz Kafka's "The Castle"
 
-## Streszczenie
-"Zamek" (Das Schloß, 1926) Franza Kafki to jeden z najbardziej wpływowych utworów literackich XX wieku, który wprowadził do kultury popularnej termin "kafkowski" i nadal inspiruje twórców w różnych mediach. Niedokończona powieść o K., który próbuje dostać się do tajemniczego zamku, stała się metaforą biurokratycznej absurdalności i egzystencjalnego wyobcowania.
+## Summary
+"The Castle" (Das Schloß, 1926) by Franz Kafka is one of the most influential literary works of the 20th century, introducing the term "Kafkaesque" to popular culture and continuing to inspire creators across various media. The unfinished novel about K., who tries to gain access to a mysterious castle, has become a metaphor for bureaucratic absurdity and existential alienation.
 
-## Adaptacje Filmowe
+## Film Adaptations
 
-### Główne Adaptacje Kinowe
-1. **"Linna" (1986)** - fińska adaptacja Jaakko Pakkasvity z Josefem K. jako głównym bohaterem
-2. **"Замок" (1994)** - rosyjska adaptacja Aleksieja Bałabanova z Nikołajem Stockim
-3. **"Das Schloß" (1997)** - austriacka adaptacja Michaela Haneke z Ulrichem Mühe
+### Major Cinema Adaptations
+1. **"Linna" (1986)** - Finnish adaptation by Jaakko Pakkasvinta with Josef K. as protagonist
+2. **"Замок" (1994)** - Russian adaptation by Aleksei Balabanov starring Nikolai Stotsky
+3. **"Das Schloß" (1997)** - Austrian adaptation by Michael Haneke with Ulrich Mühe
 
-### Adaptacja Michaela Haneke (1997)
-Michael Haneke stworzył niezwykle wierną adaptację telewizyjną z głosem narratora naśladującym autorski głos powieści. Film został opisany jako "ilustracyjny towarzysz powieści" i pokazywany w austriackich kinach przed premierą telewizyjną.
+### Michael Haneke's Adaptation (1997)
+Michael Haneke created an extremely faithful television adaptation with a narrator's voice mimicking the authorial voice of the novel. The film was described as an "illustrative companion to the novel" and shown in Austrian cinemas before its television premiere.
 
-## Adaptacje Teatralne
+## Theater Adaptations
 
-### Off-Broadway i Teatr
-1. **Manhattan Ensemble Theater (2002)** - amerykańska premiera dramatyzacji Maxa Broda
-2. **Jim Parsons debiut** - przyszła gwiazda "The Big Bang Theory" zagrała Jeremiasza, jednego z asystentów K.
-3. **Idiopathic Ridiculopathy Consortium** - adaptacja na Fringe Festival inspirowana "Fawlty Towers" i "Brazil" Terry'ego Gilliama
+### Off-Broadway and Theater
+1. **Manhattan Ensemble Theater (2002)** - American premiere of Max Brod's dramatization
+2. **Jim Parsons debut** - The future star of "The Big Bang Theory" played Jeremias, one of K.'s assistants
+3. **Idiopathic Ridiculopathy Consortium** - Fringe Festival adaptation inspired by "Fawlty Towers" and Terry Gilliam's "Brazil"
 
-### Adaptacje Radiowe
-BBC Radio 4 wyprodukowało w 2015 roku dwuczęściową adaptację z Dominicem Rowanem jako K. i obsadą включającą Sammy'ego T. Dobsona, Marka Bentona i innych.
+### Radio Adaptations
+BBC Radio 4 produced a two-part adaptation in 2015 with Dominic Rowan as K. and a cast including Sammy T. Dobson, Mark Benton, and others.
 
-## Wpływ na Popkulturę i Media
+## Influence on Pop Culture and Media
 
-### Komiksy i Graficzne Nowele
-W 2012 roku David Zane Mairowitz i czeski artysta Jaromír 99 wydali graficzną wersję "Zamku", łącząc literaturę z sztukami wizualnymi.
+### Comics and Graphic Novels
+In 2012, David Zane Mairowitz and Czech artist Jaromír 99 published a graphic version of "The Castle," combining literature with visual arts.
 
-### Gry Wideo
-1. **"Playing Kafka" (2024)** - gra point-and-click stworzona na stulecie śmierci Kafki przez Czech Republic's Goethe Institute
-2. **"Metamorphosis"** - adaptacja łącząca "Przemianę" z "Procesem"
-3. **"Papers, Please"** - gra o inspektorze imigracyjnym, uznawana za kafkowską bez bezpośrednich wpływów
-4. **"Control"** - gra Remedy Studios w brutalnym budynku biurokratycznym
-5. **"Dark Souls"** - świat bez nadziei i logiki przypominający kafkowski kosmos
+### Video Games
+1. **"Playing Kafka" (2024)** - Point-and-click game created for Kafka's death centenary by Czech Republic's Goethe Institute
+2. **"Metamorphosis"** - Adaptation combining "The Metamorphosis" with "The Trial"
+3. **"Papers, Please"** - Game about immigration inspector, considered Kafkaesque without direct influences
+4. **"Control"** - Remedy Studios game set in a brutalist bureaucratic building
+5. **"Dark Souls"** - World without hope and logic reminiscent of Kafkaesque universe
 
-## Muzyka i Kafka
+## Music and Kafka
 
 ### David Bowie
-David Bowie w "Ashes to Ashes" (1980) parafrazował słynny cytat Kafki o literaturze jako "siekierze łamiącej zamarzłe morza w nas". Utwór wyrażał własną izolację i walkę z uzależnieniami Bowiego.
+David Bowie in "Ashes to Ashes" (1980) paraphrased Kafka's famous quote about literature as "an axe to break the frozen seas within us." The song expressed Bowie's own isolation and struggle with addiction.
 
 ### The Cure
-Brytyjski zespół goth stworzył utwory inspirowane opowiadaniami i listami Kafki, choć konkretne tytuły nie są powszechnie znane.
+The British goth band created songs inspired by Kafka's stories and letters, though specific titles are not widely known.
 
-### Inne Nawiązania Muzyczne
-- Jonathan Blow (twórca "Braid") często dyskutuje o egzystencjalnych tematach w wywiadach
-- Kefka Palazzo z "Final Fantasy VI" to "korupcja" nazwiska Kafka
+### Other Musical References
+- Jonathan Blow (creator of "Braid") frequently discusses existential themes in interviews
+- Kefka Palazzo from "Final Fantasy VI" is a "corruption" of Kafka's name
 
-## Termin "Kafkowski" w Kulturze
+## The Term "Kafkaesque" in Culture
 
-### Definicja i Użycie
-"Kafkowski" oznacza sytuacje "koszmarnie złożone, bizaryczne lub nielogiczne", szczególnie związane z biurokracją. Termin przekroczył granice literatury i jest używany do opisywania realnych sytuacji.
+### Definition and Usage
+"Kafkaesque" describes situations that are "nightmarishly complex, bizarre, or illogical," particularly related to bureaucracy. The term has transcended literature and is used to describe real-world situations.
 
-### Współczesne Przykłady Użycia
-- Amerykańska biurokracja zdrowotna jako "kafkowski koszmar"
-- Uzyskiwanie pozwoleń na loty dronów w Nepalu jako "kafkowskie ćwiczenie cierpliwości"
-- "Celowe kafkowskie problemy" tworzone przez administracje rządowe
+### Contemporary Examples of Usage
+- American healthcare bureaucracy as a "Kafkaesque nightmare"
+- Obtaining drone flight permits in Nepal as a "Kafkaesque exercise in patience"
+- "Deliberately Kafkaesque problems" created by government administrations
 
-## Wpływ na Cinema i Sztuki Wizualne
+## Influence on Cinema and Visual Arts
 
-### Kafkowskie Kino
-1. **David Cronenberg** - "Naked Lunch" (1991) i koncepcja "kafkowskiego haju"
-2. **David Lynch** - "Eraserhead" (1977), Lynch nazywał Kafkę "artystą, który mógłby być moim bratem"
-3. **Terry Gilliam** - "Brazil" jako inspiracja dla współczesnych adaptacji
+### Kafkaesque Cinema
+1. **David Cronenberg** - "Naked Lunch" (1991) and the concept of "Kafkaesque high"
+2. **David Lynch** - "Eraserhead" (1977), Lynch called Kafka "an artist who could be my brother"
+3. **Terry Gilliam** - "Brazil" as inspiration for contemporary adaptations
 
-### Sztuki Wizualne
-Kafkowskie motywy owadów i deformacji ciała pojawiają się w pracach współczesnych ilustratorów i filmowców, dowodząc ciągłego wpływu tekstów Kafki.
+### Visual Arts
+Kafkaesque motifs of insects and body deformation appear in works by contemporary illustrators and filmmakers, proving the continued influence of Kafka's texts.
 
-## Internet i Media Cyfrowe
+## Internet and Digital Media
 
-### TikTok i BookTok
-1. **@bookflicks** - kampania TikTok promująca "Zamek" z wykorzystaniem AI
-2. **@classical.authors** - grupy czytelnicze na TikToku z hashtagami #kafkaesque
-3. **Gen Z Revival** - Kafka stał się nieoczekiwanie popularny wśród młodych czytelników
+### TikTok and BookTok
+1. **@bookflicks** - TikTok campaign promoting "The Castle" using AI
+2. **@classical.authors** - Reading groups on TikTok with hashtags #kafkaesque
+3. **Gen Z Revival** - Kafka has become unexpectedly popular among young readers
 
-### Problem Powierzchownego Odbioru
-Krytycy wskazują, że media społecznościowe redukują złożone dzieła Kafki do prostych memów i ocen gwiazdkowych. "Zamek" ma 64,158 ocen na Goodreads ze średnią 3.93 gwiazdki.
+### Problem of Superficial Reception
+Critics point out that social media reduces complex Kafka works to simple memes and star ratings. "The Castle" has 64,158 ratings on Goodreads with an average of 3.93 stars.
 
-### Memy Internetowe
-- The Onion stworzył materiał o "Franz Kafka International Airport" w Pradze jako "najbardziej alienującym lotnisku na świecie"
-- Home Movies pokazał postać tworzącą rockową operę na podstawie "Przemiany"
+### Internet Memes
+- The Onion created material about "Franz Kafka International Airport" in Prague as "the world's most alienating airport"
+- Home Movies featured a character creating a rock opera based on "The Metamorphosis"
 
-## Recepcja w Polsce
+## Reception in Poland
 
-### Przekłady Polskie
-"Zamek" przetłumaczyli K. Radziwiłł i K. Truchanowski, z posłowiem R. Karsta, wydany przez Czytelnik w 1958 roku.
+### Polish Translations
+"The Castle" was translated by K. Radziwiłł and K. Truchanowski, with an afterword by R. Karst, published by Czytelnik in 1958.
 
-### Okres PRL
-Po 1956 roku nastąpił wzrost zainteresowania "ciemną literaturą" Kafki. Andrzej Kijowski pisał o "Polskim Kafce" w "Teatrze i Filmie" (1958), a Artur Międzyrzecki o "Modzie na Kafkę" w "Świecie" (1957).
+### Communist Era
+After 1956, there was increased interest in Kafka's "dark literature." Andrzej Kijowski wrote about "Polish Kafka" in "Teatr i Film" (1958), and Artur Międzyrzecki about "Fashion for Kafka" in "Świat" (1957).
 
-### Cenzura i Recepcja
-Cenzura PRL przeanalizowała utwory Kafki (wraz z Sartrem i Faulknerem), co daje wgląd w mechanizmy kontroli literatury lat 50.
+### Censorship and Reception
+Communist censorship analyzed Kafka's works (along with Sartre and Faulkner), providing insight into literature control mechanisms of the 1950s.
 
-## Współczesne Adaptacje i Nawiązania
+## Contemporary Adaptations and References
 
-### Literatura Współczesna
-Seth Rogoff pracuje nad powieścią "The Castle" - fikcyjnym powrotem do niepokojącego świata kafkowskiej powieści.
+### Contemporary Literature
+Seth Rogoff is working on a novel "The Castle" - a fictional return to the disturbing world of Kafka's novel.
 
-### Nowe Przekłady
-Mark Harman stworzył nowy przekład angielski ujawniający poziomy komedii, energii i siły wizualnej poprzednio nieznane anglojęzycznym czytelnikom.
+### New Translations
+Mark Harman created a new English translation revealing levels of comedy, energy, and visual strength previously unknown to English-speaking readers.
 
-## Fenomen Społeczny
+## Social Phenomenon
 
-### COVID-19 i Kafkowski Świat
-Pandemia COVID-19 stworzyła sytuacje opisywane jako "decidedly Kafkaesque" - stan rozłączenia i konfrontacji z arbitralnymi, nieprzejrzystymi systemami kontroli.
+### COVID-19 and Kafkaesque World
+The COVID-19 pandemic created situations described as "decidedly Kafkaesque" - a state of disconnection and confrontation with arbitrary, opaque control systems.
 
-### Biurokracja jako Temat Uniwersalny
-Tematy "Zamku" - alienacja, niereagująca biurokracja, frustracja w kontaktach z nieprzejrzystymi systemami - pozostają aktualne w epoce cyfrowej.
+### Bureaucracy as Universal Theme
+Themes of "The Castle" - alienation, unresponsive bureaucracy, frustration in dealing with opaque systems - remain relevant in the digital age.
 
-## Akademicka Analiza i Krytyka
+## Academic Analysis and Criticism
 
-### Interpretacje Wielorakie
-"Zamek" interpretowano socjologicznie, psychoanalitycznie i metafizycznie jako:
-- Obraz ludzkiej egzystencji zagubionej w nieprzyjaznym świecie
-- Traktat teologiczny o niedostępności transcendencji
-- Krytykę systemów władzy i biurokracji
+### Multiple Interpretations
+"The Castle" has been interpreted sociologically, psychoanalytically, and metaphysically as:
+- Image of human existence lost in a hostile world
+- Theological treatise on the inaccessibility of transcendence
+- Critique of power systems and bureaucracy
 
-### Współczesna Krytyka
-Frederick Karl nazywał "kafkowski" "reprezentatywnym przymiotnikiem naszych czasów", słowem które mówi nam "czym jesteśmy, czego możemy oczekiwać, jak działa świat".
+### Contemporary Criticism
+Frederick Karl called "Kafkaesque" "the representative adjective of our times," a word that tells us "what we are, what we can expect, how the world works."
 
-## Miejsca i Turystyka Literacka
+## Places and Literary Tourism
 
-### Praga Kafki
-Praga stała się destynacją turystyczną związaną z Kafką, z múzeami, ścieżkami tematycznymi i pamiątkami inspirowanymi jego twórczością.
+### Kafka's Prague
+Prague has become a tourist destination associated with Kafka, with museums, thematic trails, and souvenirs inspired by his work.
 
-### Muzea i Wystawy
-Múzeum Franza Kafki w Pradze i różne wystawy na całym świecie prezentują wpływ jego twórczości na kulturę współczesną.
+### Museums and Exhibitions
+The Franz Kafka Museum in Prague and various exhibitions worldwide present the impact of his work on contemporary culture.
 
-## Podsumowanie Wpływu Kulturowego
+## Summary of Cultural Impact
 
-"Zamek" Franza Kafki przeszedł ewolucję od niedokończonej powieści eksperymentalnej do jednego z najważniejszych tekstów kultury XX i XXI wieku. Wprowadzenie terminu "kafkowski" do języka potocznego, wpływ na cinema, muzykę, gry wideo i media cyfrowe dowodzi nieustannej aktualności tematów poruszanych przez Kafkę. Od adaptacji teatralnych z Jimem Parsonsem po memy na TikToku, "Zamek" pozostaje źródłem inspiracji dla twórców poszukujących sposobów przedstawienia absurdalności współczesnego świata i miejsca jednostki w nieprzyjaznych systemach władzy.
+Franz Kafka's "The Castle" has evolved from an unfinished experimental novel to one of the most important texts of 20th and 21st century culture. The introduction of the term "Kafkaesque" into common language, influence on cinema, music, video games, and digital media proves the constant relevance of themes raised by Kafka. From theatrical adaptations with Jim Parsons to TikTok memes, "The Castle" remains a source of inspiration for creators seeking ways to represent the absurdity of the contemporary world and the place of the individual in hostile power systems.
 
-Wpływ kulturowy "Zamku" manifestuje się w trzech głównych obszarach: adaptacjach medialnych (film, teatr, radio, gry), wpływie na język i myślenie (termin "kafkowski") oraz ciągłej reinterpretacji w kontekście współczesnych wyzwań społecznych i technologicznych. Ta trwała relevancja czyni "Zamek" nie tylko klasykiem literatury, ale żywym elementem kultury popularnej XXI wieku.
+The cultural impact of "The Castle" manifests in three main areas: media adaptations (film, theater, radio, games), influence on language and thinking (the term "Kafkaesque"), and continuous reinterpretation in the context of contemporary social and technological challenges. This lasting relevance makes "The Castle" not only a literary classic but a living element of 21st-century popular culture.

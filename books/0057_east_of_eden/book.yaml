@@ -4,3 +4,169 @@ book_info:
   author: "John Steinbeck"
   year: 1952
   genre: "Novel,Family saga"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T20:15:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 8
+    structural_complexity: 7
+    social_roles: 7
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.0
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "cain_abel_pattern"
+        type: "FACT"
+        credibility: 0.95
+        content: "Two generations repeating biblical fraternal conflict with Cyrus-Adam-Charles, then Adam-Cal-Aron dynamics"
+        source: "symbols_meanings"
+      - id: "timshel_philosophy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Hebrew word meaning 'thou mayest' - central free will concept challenging predestination"
+        source: "symbols_meanings"
+      - id: "generational_trauma"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Sins of fathers visiting upon sons through inherited guilt and family patterns"
+        source: "reality_wisdom"
+      - id: "family_secrets"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Cathy's true identity as mother revealed progressively, destroying idealistic worldview"
+        source: "dark_drama"
+      - id: "biblical_allegory"
+        type: "FACT"
+        credibility: 0.95
+        content: "Genesis 4:1-16 as organizing framework for multi-generational family saga"
+        source: "writing_innovation"
+      - id: "complex_narrative"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Hybrid narrative voice combining first-person philosophy with third-person family saga"
+        source: "writing_innovation"
+      - id: "religious_controversy"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Accused of blasphemous reinterpretation changing biblical meaning from command to choice"
+        source: "dark_drama"
+      - id: "psychological_manipulation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cathy Ames as textbook study of narcissistic abuse patterns recognized by contemporary psychology"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in American literature, shaped national discourse on good vs evil"
+        key_editions: ["Viking Press 1952", "Penguin Classics", "Oprah Book Club 2003"]
+        reception_notes: "Initially criticized, later recognized as Steinbeck's magnum opus"
+        educational_status: "Widely taught in American literature curricula"
+        local_themes: ["American Dream critique", "Westward expansion mythology", "Puritan moral heritage"]
+      pl:
+        cultural_impact: "Strong resonance with post-communist readers exploring family trauma and moral choices"
+        key_editions: ["PIW editions", "School curriculum inclusion"]
+        reception_notes: "Popular on Polish BookTok and social media"
+        educational_status: "Supplementary reading in advanced literature courses"
+        local_themes: ["Post-communist family dynamics", "Generational trauma", "Moral responsibility"]
+      de:
+        cultural_impact: "Resonates with German Romantic tradition and philosophical inquiry"
+        key_editions: ["Reclam editions", "Academic critical editions"]
+        reception_notes: "Strong academic tradition of interpretation"
+        educational_status: "University literature programs"
+        local_themes: ["Philosophical determinism debates", "Psychoanalytic readings", "Existential themes"]
+      fr:
+        cultural_impact: "Appreciated for existential themes and moral complexity"
+        key_editions: ["French literary translations", "Academic editions"]
+        reception_notes: "Existentialist philosophical connections"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Existential choice", "Moral responsibility", "Literary symbolism"]
+      es:
+        cultural_impact: "Family saga tradition resonates with Hispanic literary culture"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Strong family drama tradition appeal"
+        educational_status: "World literature curricula"
+        local_themes: ["Family honor", "Generational conflict", "Religious symbolism"]
+      pt:
+        cultural_impact: "Biblical themes resonate with Catholic cultural background"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Religious and family themes popular"
+        educational_status: "Literature courses"
+        local_themes: ["Catholic moral framework", "Family saga tradition", "Biblical interpretation"]
+      ja:
+        cultural_impact: "Psychological complexity appeals to Japanese literary sensibilities"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Character psychology and family dynamics focus"
+        educational_status: "University literature programs"
+        local_themes: ["Psychological realism", "Family duty vs individual choice", "Moral complexity"]
+      ko:
+        cultural_impact: "Family dynamics and generational trauma resonate with Korean culture"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Family relationships and duty themes"
+        educational_status: "Comparative literature"
+        local_themes: ["Filial duty conflicts", "Generational expectations", "Family honor"]
+      hi:
+        cultural_impact: "Karma and dharma concepts align with philosophical themes"
+        key_editions: ["Hindi translations", "Academic editions"]
+        reception_notes: "Philosophical and religious themes appeal"
+        educational_status: "English literature programs"
+        local_themes: ["Karma and choice", "Family dharma", "Moral philosophy"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 16
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "family chronicler describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "setup"
+          lead: "host_a"
+          description: "The Mysterious Inheritance - investigating Cyrus Trask's suspicious war fortune and family secrets"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "The Woman Who Disappeared - Cathy Ames' trail of destruction and abandonment of family"
+        - segment: 3
+          time_range: "07:00-11:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The Brothers' Curse - Charles vs Adam, then Cal vs Aron repeating biblical patterns"
+        - segment: 4
+          time_range: "11:00-16:00"
+          topic: "resolution"
+          lead: "host_b"
+          description: "The Choice of Timshel - Adam's final gift of free will breaking the generational curse"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering the dark secrets of the Trask family saga. Question the complex motivations behind three generations of family drama, from Cyrus's war lies to Cathy's manipulations to Cal's desperate need for love. Approach like a detective solving a family mystery."
+        host_b: "You are {female_name}, a family chronicler who witnessed these events unfold across generations. Bring the emotional weight of each generation to life - the pain of rejected sons, the tragedy of Cathy's abandonment, and the hope in Adam's final blessing. Tell the story with deep empathy."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["family trauma", "psychological manipulation", "biblical reinterpretation", "generational violence"]
+    educational_elements: ["American family saga characteristics", "Biblical allegory techniques", "Multi-generational narrative structure", "Philosophical themes of free will"]
+    production_notes:
+      intro_style: "mysterious family chronicle opening"
+      transitions: "dramatic musical bridges between generations"
+      outro_style: "hopeful resolution with philosophical reflection"
+
+  overall_confidence: 0.88

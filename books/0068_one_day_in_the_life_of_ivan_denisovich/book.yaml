@@ -1,6 +1,259 @@
 book_info:
-  title: "One Day in the Life of Ivan Denisovich"
-  title_pl: "Jeden dzień Iwana Denisowicza"
-  author: "Aleksandr Solzhenitsyn"
+  title: One Day in the Life of Ivan Denisovich
+  title_pl: Jeden dzień Iwana Denisowicza
+  author: Aleksandr Solzhenitsyn
   year: 1962
-  genre: "Novella,Prison literature"
+  genre: Novella,Prison literature
+afa_analysis:
+  version: '3.0'
+  processed_at: '2025-09-16T22:39:18'
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 9
+    structural_complexity: 2
+    social_roles: 7
+    total: 61
+    percentile: 85
+  composite_scores:
+    depth:
+      value: 7.2
+      category: medium
+    heat:
+      value: 8.0
+      category: high
+  themes:
+    universal:
+    - id: facts_history_0
+      type: FACT
+      credibility: 0.95
+      content: After 1964 Soviet authorities withdrew the novella from libraries and
+        banned Solzhenitsyn's work from circulation.
+      source: au-research_facts_history.md
+    - id: dark_drama_0
+      type: BOMBSHELL
+      credibility: 0.9
+      content: KGB records detail a 1971 poisoning attempt against Solzhenitsyn as
+        part of a broader disinformation and harassment campaign.
+      source: au-research_dark_drama.md
+    - id: symbols_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Bread in the camp doubles as spiritual sustenance, signaling how daily
+        rituals protect dignity amid systemic brutality.
+      source: au-research_symbols_meanings.md
+    - id: culture_impact_0
+      type: FACT
+      credibility: 0.95
+      content: Publication in Novy Mir sparked international dissident networks, inspired
+        samizdat, and was credited with undermining Soviet legitimacy.
+      source: au-research_culture_impact.md
+    - id: youth_digital_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: 'Gen Z audiences map gulag survival tactics onto corporate burnout,
+        #PrisonTok, and #SmallWins trends across TikTok in 2024.'
+      source: au-research_youth_digital.md
+    - id: reality_wisdom_0
+      type: FACT
+      credibility: 0.95
+      content: The 2024 death of Alexei Navalny in a Siberian penal colony renewed
+        the book's warnings about recurring authoritarian abuse.
+      source: au-research_reality_wisdom.md
+    - id: writing_innovation_0
+      type: ANALYSIS
+      credibility: 0.85
+      content: Solzhenitsyn fused the skaz narrator with strict unity of time to reinvent
+        documentary fiction about political repression.
+      source: au-research_writing_innovation.md
+    localized:
+      en:
+        cultural_impact: English-language critics treated the novella as a literary
+          and political bombshell that reshaped Cold War debates.
+        key_editions:
+        - E.P. Dutton 1963 'Only Authorized Edition' translation by Ralph Parker
+        - H.T. Willetts 1991 Farrar Straus Giroux authorized text
+        - Penguin Modern Classics study edition
+        reception_notes: Reviews likened Solzhenitsyn to Dostoevsky and positioned
+          the book alongside Orwell and Kafka.
+        educational_status: Regular fixture in IB curricula and university courses
+          on modern Russian literature and political testimony.
+        local_themes:
+        - Cold War dissidence framed for Anglo-American audiences
+        - Connections to prison literature traditions in English studies
+      pl:
+        cultural_impact: In Poland the novella became a symbol of forbidden truth
+          about Stalinism, circulated underground during the PRL ban.
+        key_editions:
+        - Serial publication in Polityka magazine 1962-1963
+        - Iskry 1989 first legal Polish edition
+        - Rebis contemporary classroom edition
+        reception_notes: Polish scholars stress firsthand testimony and link it to
+          national experiences with repression.
+        educational_status: Listed as required reading in secondary school programs
+          on totalitarianism.
+        local_themes:
+        - Solidarity-era readings of Soviet oppression
+        - Comparisons with Gustaw Herling-Grudziński's prison memoirs
+      de:
+        cultural_impact: German-speaking audiences embraced the book as a Cold War
+          lens on Soviet repression and human dignity.
+        key_editions:
+        - DTV paperback 'Ein Tag im Leben des Iwan Denissowitsch'
+        - Droemer Knaur 1974 hardcover
+        - Der Audio Verlag 2017 audiobook narrated by Günther Schramm
+        reception_notes: Gymnasium materials and dissertations examine the novella's
+          moral philosophy and linguistic precision.
+        educational_status: Appears on regional reading lists and classroom worksheets
+          across German secondary schools.
+        local_themes:
+        - Divided Germany reflecting on totalitarian pasts
+        - Philosophical debates about dignity under coercive systems
+      fr:
+        cultural_impact: French intellectuals debated the book as a challenge to party
+          orthodoxy and structuralist theory.
+        key_editions:
+        - 1963 translation by Léon and Andrée Robel with Pierre Daix preface
+        - 1973 uncensored edition by Jean and Lucia Cathala
+        - Pocket releases by Fayard and Le Livre de Poche
+        reception_notes: Television debates and essays by Sartre, Daix, and Compagnon
+          kept the work in public discourse.
+        educational_status: Recommended in lycée programs that pair literature with
+          20th-century history modules.
+        local_themes:
+        - Witness literature within French memory studies
+        - Discussions about authorial voice versus structuralist theory
+      es:
+        cultural_impact: In Spanish-speaking countries the novella informed debates
+          on authoritarianism and testimonial literature.
+        key_editions:
+        - Tusquets Editores definitive translation by Enrique Fernández Vernet
+        - 1975 Plaza & Janés edition translated via French
+        - Planeta de Libros distribution across Latin America
+        reception_notes: Critics praised its stark style while readers noted Iberian
+          Spanish phrasing that challenges Latin American audiences.
+        educational_status: Featured in Spanish and Latin American university courses
+          on Russian literature and dictatorship studies.
+        local_themes:
+        - Parallels with Latin American military regimes
+        - Translation accessibility between Iberian and Latin American Spanish
+      pt:
+        cultural_impact: Portuguese-speaking readers link the story to conversations
+          about dictatorship-era repression in Brazil and Portugal.
+        key_editions:
+        - Europa-América 'Um Dia na Vida de Ivan Denissovitch'
+        - Círculo do Livro Brazilian edition translated by Nellie Chagas
+        - 2017 Sextante edition translated directly from Russian by António Pescada
+        reception_notes: Critics emphasize how Solzhenitsyn balances denunciation
+          with human dignity and note linguistic differences across variants.
+        educational_status: Used in Brazilian vestibular prep and Portuguese world-literature
+          courses as a primary gulag testimony.
+        local_themes:
+        - Comparisons with Brazilian prison narratives and Estado Novo memory
+        - Discussions of translation choices between European and Brazilian Portuguese
+      ja:
+        cultural_impact: Japanese translations positioned the book within long-standing
+          interest in Russian literature and Cold War realities.
+        key_editions:
+        - Shinchosha bunko translation by Hiroshi Kimura
+        - Iwanami Bunko edition by Shigeru Someya
+        - Kodansha 1971 release by Takushi Egawa
+        reception_notes: Scholars highlighted its stoic ethos resonating with concepts
+          of gaman and perseverance.
+        educational_status: Regular text in university Russian literature seminars
+          and comparative ethics discussions.
+        local_themes:
+        - Cold War curiosity about Soviet society
+        - Reflections on endurance and dignity in postwar Japan
+      ko:
+        cultural_impact: South Korean readers connected the gulag narrative to memories
+          of authoritarian rule and democratization struggles.
+        key_editions:
+        - Munye Publishing House translation by Lee Dong-hyun (1999)
+        - Minumsa edition by Lee Young-ui
+        - Minumsa special edition with Park Si-young cover
+        reception_notes: Academic studies in Slavic journals analyze the work as foundational
+          camp literature informing human-rights discourse.
+        educational_status: Recommended on humanities classics lists and taught in
+          university Russian studies departments.
+        local_themes:
+        - Analogies to Korean prison experiences under military regimes
+        - Confucian-inflected readings of solidarity and duty
+      hi:
+        cultural_impact: In India the novella circulated through Soviet-Indian publishing
+          networks and fed intellectual debates on oppression.
+        key_editions:
+        - Young Asia Publications first Indian edition (1960s)
+        - Government of India Digital Library scans for public access
+        reception_notes: Progressive thinkers and translation pioneers like Madan
+          Lal Madhu brought the text into Hindi and other regional languages.
+        educational_status: Studied within JNU's Centre of Russian Studies and comparative
+          literature courses across Indian universities.
+        local_themes:
+        - Parallels with Indian prison literature from the independence struggle
+        - Cold War-era cultural exchange between India and the USSR
+  formats:
+    narrative_reconstruction:
+      name: narrative_reconstruction
+      duration: 15
+      hosts:
+        host_a: investigative reporter asking questions
+        host_b: eyewitness describing events and emotions
+      structure:
+      - segment: 1
+        time_range: 00:00-03:00
+        topic: dawn_in_barracks
+        lead: host_a
+        description: Reconstruct the predawn wake-up, the Tatar guard's threat, and
+          how Shukhov protects dignity before washing floors.
+      - segment: 2
+        time_range: 03:00-06:00
+        topic: march_and_masonry_detail
+        lead: host_b
+        description: Follow the brigade through Siberian cold and onto the construction
+          site where craft, discipline, and solidarity keep them alive.
+      - segment: 3
+        time_range: 06:00-09:00
+        topic: micro_victories
+        lead: host_a
+        description: Probe the midday rituals—extra rations, hidden spoon, shared
+          tobacco—that reveal the economy of favors and resistance.
+      - segment: 4
+        time_range: 09:00-12:00
+        topic: camp_power_dynamics
+        lead: host_b
+        description: Expose how guards, informers, and prisoners negotiate authority
+          through roll call, bribery, and the squad leader's protection.
+      - segment: 5
+        time_range: 12:00-15:00
+        topic: evening_reflection
+        lead: host_a
+        description: Connect Shukhov's quiet gratitude at day's end to global memory
+          of gulag survivors and modern political prisoners.
+      prompts:
+        host_a: You are {male_name}, an investigative reporter reconstructing the
+          single winter day that defines 'One Day in the Life of Ivan Denisovich.'
+          Press for granular timelines, question official narratives, and surface
+          how ritual actions—bread, the spoon, masonry—become acts of resistance.
+        host_b: You are {female_name}, an eyewitness-prisoner who lived that day.
+          Describe textures of cold, hunger, camaraderie, and the moral choices that
+          separated dignity from collapse while hinting at the KGB pressure around
+          the camp.
+  metadata:
+    target_audience: 16+
+    content_warnings:
+    - political imprisonment and forced labor
+    - state violence and torture references
+    - antisemitism accusations and rhetoric
+    educational_elements:
+    - Prison literature genre characteristics
+    - Historical context of 1951 Soviet labor camps
+    - Symbolism of bread and daily rituals of survival
+    production_notes:
+      intro_style: Urgent news-style cold open with frost-bitten ambience
+      transitions: subtle musical bridges
+      outro_style: Measured call to remember political prisoners today
+  overall_confidence: 0.81

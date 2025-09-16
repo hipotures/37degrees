@@ -1,156 +1,164 @@
-# Mroczne Tajemnice: "Lot nad kukułczym gniazdem" - Dark Drama Research
+# Dark Secrets: "One Flew Over the Cuckoo's Nest" - Dark Drama Research
 
-**Książka:** One Flew Over the Cuckoo's Nest  
-**Tytuł PL:** Lot nad kukułczym gniazdem  
-**Autor:** Ken Kesey  
-**Rok:** 1962  
+**Book:** One Flew Over the Cuckoo's Nest
+**Author:** Ken Kesey
+**Year:** 1962
 
 ## Conspiracy Theories & Dark Interpretations
 
-### 1. **FAKT**: Kesey był uczestnikiem eksperymentów MK-Ultra
-Ken Kesey dobrowolnie brał udział w tajnych eksperymentach CIA w ramach projektu MK-Ultra na Uniwersytecie Stanford, przyjmując LSD i inne substancje psychoaktywne w Menlo Park Veterans Hospital. Program MK-Ultra był kontynuacją badań rozpoczętych w japońskich i nazistowskich obozach koncentracyjnych.
+### 1. **FACT**: Kesey was a participant in MK-Ultra experiments
+Ken Kesey voluntarily participated in secret CIA experiments as part of the MK-Ultra project at Stanford University, taking LSD and other psychoactive substances at Menlo Park Veterans Hospital. The MK-Ultra program was a continuation of research begun in Japanese and Nazi concentration camps.
 
-### 2. **PLOTKA**: Książka jako podświadoma krytyka programów kontroli umysłu
-Teoria głosi, że "Lot nad kukułczym gniazdem" powstał jako podświadoma reakcja na rzeczywiste doświadczenia Keseya z rządowymi programami kontroli umysłu, gdzie "Kombinat" w powieści reprezentuje prawdziwe obawy przed kontrolą społeczną przez rząd.
+### 2. **RUMOR**: Book as subconscious critique of mind control programs
+The theory states that "One Flew Over the Cuckoo's Nest" emerged as a subconscious reaction to Kesey's real experiences with government mind control programs, where "The Combine" in the novel represents genuine fears about social control by the government.
 
-### 3. **FAKT**: Sidney Gottlieb - prawdziwy "Dr. Evil" za książką
-Sidney Gottlieb, dyrektor MK-Ultra, kupił za 240 000$ całe światowe zapasy LSD i rozpowszechniał je w szpitalach, klinikach i więzieniach. Ironicznie, to CIA była odpowiedzialna za powstanie kontrkulturowej rewolucji psychedelicznej lat 60.
+### 3. **FACT**: Sidney Gottlieb - the real "Dr. Evil" behind the book
+Sidney Gottlieb, director of MK-Ultra, bought the entire world supply of LSD for $240,000 and distributed it in hospitals, clinics, and prisons. Ironically, the CIA was responsible for creating the psychedelic counterculture revolution of the 1960s.
 
-### 4. **ZARZUT**: Wizja Indianina w halucynacji
-Kesey twierdził, że inspiracja do napisania książki przyszła mu podczas wizji Indianina zamiatającego podłogę w szpitalu psychiatrycznym - doświadczenie, które miał pod wpływem LSD w ramach eksperymentów MK-Ultra.
+### 4. **ACCUSATION**: Vision of the Indian in hallucination
+Kesey claimed that inspiration for writing the book came to him during a vision of an Indian sweeping the floor in a psychiatric hospital - an experience he had under the influence of LSD during MK-Ultra experiments.
 
-### 5. **FAKT**: Wszystkie akta MK-Ultra zostały zniszczone
-W 1973 roku dyrektor CIA Richard Helms rozkazał zniszczenie wszystkich akt MK-Ultra, choć 8000 dokumentów przetrwało i zostało ujawnione w 1977 roku na podstawie ustawy o wolności informacji.
+### 5. **FACT**: All MK-Ultra files were destroyed
+In 1973, CIA Director Richard Helms ordered the destruction of all MK-Ultra files, though 8,000 documents survived and were revealed in 1977 under the Freedom of Information Act.
 
 ## Author Scandals & Personal Drama
 
-### 6. **FAKT**: Kesey symulował samobójstwo, aby uniknąć więzienia
-W kwietniu 1965 Kesey został aresztowany za posiadanie marihuany. Aby zmylić policję, zaaranżował fałszywą śmierć - jego przyjaciele zostawili jego ciężarówkę na klifie z elaboracyjnie napisanym listem pożegnalnym.
+### 6. **FACT**: Kesey faked suicide to avoid prison
+In April 1965, Kesey was arrested for marijuana possession. To deceive police, he staged a fake death - his friends left his truck on a cliff with an elaborately written suicide note.
 
-### 7. **FAKT**: Ucieczka do "Marijuana City" w Meksyku
-FBI spędziło lato 1966 roku, polując na Keseya po jego ucieczce z USA. Ukrywał się w miejscu zwanym "Marijuana City" niedaleko Puerto Vallarta w Meksyku przez osiem miesięcy.
+### 7. **FACT**: Escape to "Marijuana City" in Mexico
+The FBI spent the summer of 1966 hunting for Kesey after his escape from the US. He hid in a place called "Marijuana City" near Puerto Vallarta, Mexico for eight months.
 
-### 8. **FAKT**: Dramatyczne schwytanie przez FBI
-Agenci FBI przypadkowo natknęli się na Keseya podczas jazdy do domu. Gdy próbowali go zatrzymać, uciekł, ale został złapany. Ostatecznie odsiedział sześć miesięcy w eksperymentalnym obozie pracy w lasach Redwood.
+### 8. **FACT**: Dramatic capture by FBI
+FBI agents accidentally encountered Kesey while driving home. When they tried to stop him, he fled but was caught. He ultimately served six months in an experimental work camp in the Redwood forests.
 
-### 9. **ZARZUT**: Merry Pranksters podawali LSD bez wiedzy ofiar
-Na "Acid Tests" organizowanych przez Keseya uczestnicy często przyjmowali LSD bez swojej wiedzy. Ta praktyka dawkowania ludzi bez zgody była poważnym problemem etycznym i prawnym.
+### 9. **ACCUSATION**: Merry Pranksters dosed people with LSD without their knowledge
+At "Acid Tests" organized by Kesey, participants often took LSD without their knowledge. This practice of dosing people without consent was a serious ethical and legal problem.
 
-### 10. **FAKT**: Powiązania z Hell's Angels
-Kesey i Merry Pranksters wprowadzili członków gangu motocyklowego Hell's Angels w świat LSD. Związek ten był dokumentowany przez Toma Wolfe'a i Huntera S. Thompsona.
+### 10. **FACT**: Connections with Hell's Angels
+Kesey and the Merry Pranksters introduced members of the Hell's Angels motorcycle gang to the world of LSD. This relationship was documented by Tom Wolfe and Hunter S. Thompson.
 
-### 11. **FAKT**: "Acid Test Graduation" - koniec pewnej epoki
-24 października 1968, gdy LSD stało się nielegalne w Kalifornii, Kesey zorganizował ostatni wielki "Acid Test" w hali w San Francisco, gdzie wszyscy byli ubrani w togi i birety absolwentów.
+### 11. **FACT**: "Acid Test Graduation" - end of an era
+On October 24, 1968, when LSD became illegal in California, Kesey organized the last great "Acid Test" in a hall in San Francisco, where everyone was dressed in graduation caps and gowns.
 
 ## Censorship History & Banning Controversies
 
-### 12. **FAKT**: Systematyczne banowanie w szkołach publicznych
-W latach 70. i 80. książka była rutynowo usuwana ze szkół publicznych za "gloryfikowanie działalności przestępczej", "skłonność do korumpowania młodzieży" oraz opisy "bestialstwa, dziwacznej przemocy i tortur".
+### 12. **FACT**: Systematic banning in public schools
+In the 1970s and 1980s, the book was routinely removed from public schools for "glorifying criminal activity," "tendency to corrupt youth," and descriptions of "bestiality, bizarre violence, and torture."
 
-### 13. **FAKT**: Nowoczesne banowanie za "polityczną poprawność"
-W 2013 roku książka została zakazana w Juneau na Alasce za rasizm, mizoginię i stereotypowe przedstawienie pracowników służby zdrowia psychicznego. Teatr w Juneau anulował spektakl z powodu tych zarzutów.
+### 13. **FACT**: Modern banning for "political correctness"
+In 2013, the book was banned in Juneau, Alaska for racism, misogyny, and stereotypical portrayal of mental health workers. A theater in Juneau canceled a performance due to these accusations.
 
-### 14. **ZARZUT**: Księga zakończyła erę terapii elektrowstrząsowej
-Krytycy twierdzą, że brutalne przedstawienie terapii elektrowstrząsowej w książce "zmieniło sposób praktykowania psychiatrii na zawsze" i przyczyniło się do zaprzestania stosowania tej metody leczenia w tamtej formie.
+### 14. **ACCUSATION**: Book ended the era of electroshock therapy
+Critics claim that the brutal portrayal of electroshock therapy in the book "changed the way psychiatry was practiced forever" and contributed to discontinuing this form of treatment.
 
-### 15. **FAKT**: Mizoginistyczne przedstawienie kobiet
-Literaturoznawcy jednoznacznie stwierdzają, że "Kukułcze gniazdo to seksistowska powieść", gdzie Kesey "sugeruje mizoginistyczną postawę, pokazując, że kobiety nadużywają swojej władzy, jeśli nie żyją po to, by zadowalać mężczyzn".
+### 15. **FACT**: Misogynistic portrayal of women
+Literary scholars unanimously state that "Cuckoo's Nest is a sexist novel," where Kesey "suggests a misogynistic attitude, showing that women abuse their power if they don't live to please men."
 
-### 16. **FAKT**: Rasistowskie przedstawienie sanitariuszy
-Czarni sanitariusze są określani jedynie jako "czarni chłopcy", są rasistowskimi karykaturami, które "rozkoszują się mierzeniem temperatury doodbytniczo" i są częstymi celami werbalnych i fizycznych ataków pacjentów.
+### 16. **FACT**: Racist portrayal of orderlies
+Black orderlies are referred to only as "black boys," are racist caricatures who "enjoy taking rectal temperatures" and are frequent targets of verbal and physical attacks by patients.
 
 ## Financial Scandals & Money Drama
 
-### 17. **FAKT**: Milionowy proces sądowy o prawa do filmu
-Kirk Douglas kupił prawa do adaptacji scenicznej i filmowej za 47 000$. Kesey napisał scenariusz, ale producenci go odrzucili, co doprowadziło do jego odejścia z projektu i pozwu sądowego.
+### 17. **FACT**: Million-dollar lawsuit over film rights
+Kirk Douglas bought the stage and film adaptation rights for $47,000. Kesey wrote a screenplay, but producers rejected it, leading to his departure from the project and a lawsuit.
 
-### 18. **FAKT**: Ugoda pozasądowa za ponad milion dolarów
-Kesey wygrał proces przeciwko producentom i otrzymał ugodę pozasądową, która ostatecznie przyniosła mu ponad milion dolarów tantiem z filmu.
+### 18. **FACT**: Out-of-court settlement for over a million dollars
+Kesey won the lawsuit against producers and received an out-of-court settlement that ultimately brought him over a million dollars in royalties from the film.
 
-### 19. **ZARZUT**: Kesey nigdy nie obejrzał filmu
-Mimo finansowego sukcesu, Kesey odmówił obejrzenia filmu, ponieważ nie zgadzał się z obsadą Jacka Nicholsona jako McMurphy'ego i brakiem narracji Wodza Bromdena.
+### 19. **ACCUSATION**: Kesey never watched the film
+Despite financial success, Kesey refused to watch the film because he disagreed with casting Jack Nicholson as McMurphy and the lack of Chief Bromden's narration.
 
-### 20. **FAKT**: "To powinien być jeden z najwspanialszych dni mojego życia"
-Kesey powiedział o nocy rozdania Oscarów: "Noc Oscarów powinna była być jednym z najwspanialszych dni mojego życia, jak mój ślub. Gdy mogą się obrócić przeciwko tobie i złamać ci serce w ten sposób, to coś, o czym nigdy nie myślałeś, że się stanie".
+### 20. **FACT**: "Should have been one of the greatest days of my life"
+Kesey said about Oscar night: "Oscar night should have been one of the greatest days of my life, like my wedding. When they can turn against you and break your heart that way, it's something you never thought would happen."
 
 ## Writers' Conflicts & Industry Drama
 
-### 21. **ZARZUT**: Tom Wolfe był obecny tylko przez trzy tygodnie
-Kesey krytykował Toma Wolfe'a za napisanie "Electric Kool-Aid Acid Test", twierdząc, że Wolfe "był obecny tylko przez trzy tygodnie" i miał "swój własny filtr redakcyjny", przez co obraz był "częścią mnie, ale nie całym mną".
+### 21. **ACCUSATION**: Tom Wolfe was only present for three weeks
+Kesey criticized Tom Wolfe for writing "Electric Kool-Aid Acid Test," claiming Wolfe "was only present for three weeks" and had "his own editorial filter," making the image "part of me, but not all of me."
 
-### 22. **PLOTKA**: Większość książki Wolfe'a to fabrication
-Krytycy argumentowali, że "książka była wymysłem - że większość z niej była nieprawdziwa, ponieważ Wolfe nie był obecny podczas większości wydarzeń".
+### 22. **RUMOR**: Most of Wolfe's book is fabrication
+Critics argued that "the book was a fabrication - that most of it was untrue because Wolfe wasn't present during most of the events."
 
-### 23. **FAKT**: "Mesjaszowe szaty zbyt duże dla Keseya"
-Harvard Crimson skrytykował "mesjaszowe przedstawienie Keseya" przez Wolfe'a, stwierdzając, że "ostatecznie chrystusowe szaty, które Wolfe wykroił dla Keseya, są znacznie za duże".
+### 23. **FACT**: "Messianic robes too big for Kesey"
+Harvard Crimson criticized Wolfe's "messianic portrayal of Kesey," stating that "ultimately the Christ-like robes that Wolfe tailored for Kesey are much too big."
 
-### 24. **ZARZUT**: Konflikt filozoficzny z Owsley Stanley'm
-Był znaczący spór filozoficzny między Keseyem a Owsley Stanley'm o używanie LSD. Kesey propagował "graduation" - ideę, że "jeśli LSD było drzwiami... dlaczego miałbyś przechodzić przez te same drzwi w kółko?"
+### 24. **ACCUSATION**: Philosophical conflict with Owsley Stanley
+There was a significant philosophical dispute between Kesey and Owsley Stanley about LSD use. Kesey promoted "graduation" - the idea that "if LSD was a door... why would you keep going through the same door over and over?"
 
-### 25. **FAKT**: Wolfe zmienił postrzeganie Keseya
-Kesey opisał wpływ książki Wolfe'a, używając metafory "wielkiej brodawki", która staje się tak widoczna, że "też na nią patrzysz, aż jesteś zezowaty, patrząc na własną brodawkę".
+### 25. **FACT**: Wolfe changed perception of Kesey
+Kesey described the impact of Wolfe's book using the metaphor of a "big wart" that becomes so visible that "you look at it too, until you're cross-eyed, looking at your own wart."
 
 ## Occult Symbolism & Hidden Meanings
 
-### 26. **FAKT**: Symbolizm ukrzyżowania w terapii elektrowstrząsowej
-Stół do terapii elektrowstrząsowej jest wyraźnie kojarzony z ukrzyżowaniem - ma kształt krzyża z pasami na nadgarstkach i nad głową, co przepowiada poświęcenie McMurphy'ego jako figury Chrystusa.
+### 26. **FACT**: Crucifixion symbolism in electroshock therapy
+The electroshock therapy table is clearly associated with crucifixion - it's cross-shaped with straps on the wrists and over the head, foreshadowing McMurphy's sacrifice as a Christ figure.
 
-### 27. **PLOTKA**: Białe wieloryby jako symbol Moby Dicka
-Bokserki McMurphy'ego z wzorem białych wielorybów z czerwonymi oczami nawiązują do Moby Dicka - jednego z najpotężniejszych symboli w literaturze amerykańskiej, reprezentującego moc natury i Boga.
+### 27. **RUMOR**: White whales as Moby Dick symbol
+McMurphy's boxer shorts with white whale patterns with red eyes reference Moby Dick - one of the most powerful symbols in American literature, representing the power of nature and God.
 
-### 28. **ZARZUT**: Schizofrenia jako alegoria symboliczna
-Powieść używa schizofrenii jako alegorii, ponieważ "schizofrenia to w zasadzie załamanie relacji między signifiers, związane z niepowodzeniem dostępu do symbolizmu".
+### 28. **ACCUSATION**: Schizophrenia as symbolic allegory
+The novel uses schizophrenia as allegory because "schizophrenia is basically a breakdown of the relationship between signifiers, associated with failure to access symbolism."
 
-### 29. **FAKT**: Chief Bromden jako duchowy przewodnik
-Wódz Bromden, narrator pochodzenia indiańskiego, zapewnia unikalną duchową perspektywę, a jego mutyzm wynika z generacyjnej traumy i kradzieży ziem rdzennych Amerykanów.
+### 29. **FACT**: Chief Bromden as spiritual guide
+Chief Bromden, the Native American narrator, provides a unique spiritual perspective, and his mutism stems from generational trauma and theft of Native American lands.
 
-### 30. **PLOTKA**: Wizja Indianina pod wpływem LSD jako genesis
-Kesey twierdził, że inspiracja do książki przyszła podczas wizji Indianina zamiatającego podłogę w szpitalu psychiatrycznym, którą miał pod wpływem LSD w ramach eksperymentów MK-Ultra.
+### 30. **RUMOR**: LSD Indian vision as genesis
+Kesey claimed that inspiration for the book came during a vision of an Indian sweeping the floor in a psychiatric hospital, which he had under the influence of LSD during MK-Ultra experiments.
 
-## Prophecy Check - Co się sprawdziło
+## Prophecy Check - What Came True
 
-### 31. **FAKT**: Przewidział deinstitucjonalizację psychiatrii
-Powieść była prorocza w przewidywaniu ruchu w kierunku "opieki w społeczności" - psychiatria opróżniła swoje instytucje w latach 80., przechodząc na model opieki społecznej.
+### 31. **FACT**: Predicted deinstitutionalization of psychiatry
+The novel was prophetic in predicting the movement toward "community care" - psychiatry emptied its institutions in the 1980s, transitioning to a community care model.
 
-### 32. **FAKT**: Przewidział reformy etyczne w leczeniu
-Dzieło przewidziało zmiany w podejściu do leczenia - w 2015 roku terapia elektrowstrząsowa zawsze odbywa się pod narkozą ogólną z relaksantem mięśni i tylko w najcięższych przypadkach depresji.
+### 32. **FACT**: Predicted ethical reforms in treatment
+The work predicted changes in treatment approaches - in 2015, electroshock therapy is always performed under general anesthesia with muscle relaxants and only in the most severe cases of depression.
 
-### 33. **ZARZUT**: Przewidział problem bezdomności wśród chorych psychicznie
-Krytycy zauważają, że "w rzeczywistości Wódz Bromden prawdopodobnie dołączył do legionów bezdomnych chorych psychicznie żyjących pod jakimś mostem", co odzwierciedla rzeczywiste skutki zamykania szpitali.
+### 33. **ACCUSATION**: Predicted homelessness problem among mentally ill
+Critics note that "in reality, Chief Bromden probably joined the legions of homeless mentally ill living under some bridge," reflecting the real consequences of closing hospitals.
 
-### 34. **FAKT**: Przewidział problemy z opieką for-profit
-Opieka nastawiona na zysk (skupiona bardziej na zysku niż na opiece), lekarze, którzy nie słuchają potrzeb swoich pacjentów - to przykłady, gdzie system opieki zdrowotnej nadal zawodzi w 2021 roku.
+### 34. **FACT**: Predicted problems with for-profit care
+For-profit care (focused more on profit than care), doctors who don't listen to their patients' needs - these are examples where the healthcare system still fails in 2021.
 
 ## Contemporary Controversies
 
-### 35. **FAKT**: Współczesne anulowania spektakli za "problematyczność"
-W 2021 roku teatr w Juneau anulował produkcję, uznając ją za rasistowską i mizoginistyczną, ze względu na postać rdzennego Amerykanina, gwałciciela i negatywne przedstawienie pracowników zdrowia psychicznego.
+### 35. **FACT**: Contemporary cancellations of performances for being "problematic"
+In 2021, a theater in Juneau canceled a production, deeming it racist and misogynistic due to the Native American character, rapist, and negative portrayal of mental health workers.
 
-### 36. **ZARZUT**: "Największe szkody wyrządzone psychiatrii przez film"
-Wielu specjalistów zdrowia psychicznego uważa to za "najbardziej szkodliwy film jaki kiedykolwiek stworzono dla społeczności psychiatrycznej" ze względu na negatywne przedstawienie placówek zdrowia psychicznego.
+### 36. **ACCUSATION**: "Greatest damage done to psychiatry by film"
+Many mental health professionals consider this "the most harmful film ever made for the psychiatric community" due to negative portrayal of mental health facilities.
 
-### 37. **FAKT**: Akademickie krytyki feministyczne
-Literatura akademicka zawiera krytyki feministyczne jak "Reclaiming 'big nurse': a feminist critique of Ken Kesey's portrayal of Nurse Ratched" (Odzyskiwanie 'wielkiej pielęgniarki': feministyczna krytyka przedstawienia pielęgniarki Ratched przez Kena Keseya).
+### 37. **FACT**: Academic feminist critiques
+Academic literature contains feminist critiques like "Reclaiming 'big nurse': a feminist critique of Ken Kesey's portrayal of Nurse Ratched."
 
-### 38. **PLOTKA**: Teoria o podświadomym wpływie programów rządowych
-Niektórzy teoretycy sugerują, że Kesey, jako uczestnik MK-Ultra, mógł podświadomie włączyć do powieści rzeczywiste techniki kontroli umysłu, których był świadkiem lub których doświadczył.
+### 38. **RUMOR**: Theory about subconscious influence of government programs
+Some theorists suggest that Kesey, as an MK-Ultra participant, may have subconsciously incorporated real mind control techniques he witnessed or experienced into the novel.
 
 ## Underground Legacy & Cult Status
 
-### 39. **FAKT**: Stał się biblią ruchu antipsychiatrycznego
-Książka została przyjęta przez ruch antipsychiatryczny lat 60. i 70. jako dowód na to, że instytucje psychiatryczne były narzędziami kontroli społecznej, a nie leczenia.
+### 39. **FACT**: Became bible of antipsychiatry movement
+The book was adopted by the antipsychiatry movement of the 1960s and 1970s as proof that psychiatric institutions were tools of social control, not treatment.
 
-### 40. **ZARZUT**: Nieumyślnie przyczynił się do kryzysu opieki psychiatrycznej
-Paradoksalnie, książka, która miała krytykować nadużycia w psychiatrii, mogła nieumyślnie przyczynić się do zbyt radykalnego zamykania instytucji bez zapewnienia odpowiedniej opieki alternatywnej.
+### 40. **ACCUSATION**: Unintentionally contributed to psychiatric care crisis
+Paradoxically, the book that was meant to criticize psychiatric abuses may have unintentionally contributed to overly radical closure of institutions without providing adequate alternative care.
 
-### 41. **FAKT**: Wpływ na kulturę masową i stereotypy
-Dzieło ukształtowało popularne postrzeganie szpitali psychiatrycznych na dziesięciolecia, często w sposób nierealistyczny i szkodliwy dla pacjentów potrzebujących rzeczywistej pomocy.
+### 41. **FACT**: Impact on mass culture and stereotypes
+The work shaped popular perception of psychiatric hospitals for decades, often in unrealistic and harmful ways for patients needing real help.
 
-### 42. **PLOTKA**: Hidden message o amerykańskim systemie kontroli
-Niektórzy interpretują "Kombinat" w powieści nie tylko jako metaforę szpitala, ale jako ukrytą krytykę całego amerykańskiego systemu społeczno-politycznego kontrolującego jednostki.
+### 42. **RUMOR**: Hidden message about American control system
+Some interpret "The Combine" in the novel not only as a hospital metaphor, but as a hidden critique of the entire American socio-political system controlling individuals.
+
+### 43. **FACT**: Kesey's post-fame disillusionment
+After the success of the book and film, Kesey became increasingly disillusioned with fame and commercial success, retreating to his Oregon farm and largely avoiding the literary world.
+
+### 44. **ACCUSATION**: Exploitation of mental illness for entertainment
+Critics argue that the novel exploited real mental illness and suffering for dramatic effect, potentially trivializing genuine psychiatric conditions.
+
+### 45. **FACT**: Influence on subsequent psychiatric literature
+The book established a template for "psychiatric thriller" genre that influenced countless subsequent works, often perpetuating negative stereotypes about mental health treatment.
 
 ---
 
-**OSTRZEŻENIE EDUKACYJNE**: Powyższe informacje służą celom edukacyjnym i badawczym. Teorie spiskowe i kontrowersyjne interpretacje należy traktować z należytą ostrożnością. Książka "Lot nad kukułczym gniazdem" pozostaje ważnym dziełem literackim, ale jej problematyczne aspekty (rasizm, mizoginizm) wymagają krytycznego podejścia i kontekstu historycznego.
+**EDUCATIONAL WARNING**: The above information serves educational and research purposes. Conspiracy theories and controversial interpretations should be treated with appropriate caution. "One Flew Over the Cuckoo's Nest" remains an important literary work, but its problematic aspects (racism, misogyny) require critical approach and historical context.
 
-**Źródła**: Badania oparte na archiwach FBI, dokumentach MK-Ultra, wywiadach z Keseyem, krytykach literackich i współczesnych analizach medycznych dotyczących przedstawień zdrowia psychicznego w literaturze.
+**Sources**: Research based on FBI archives, MK-Ultra documents, Kesey interviews, literary criticism, and contemporary medical analyses regarding mental health portrayals in literature.

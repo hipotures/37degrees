@@ -4,3 +4,169 @@ book_info:
   author: "Leo Tolstoy"
   year: 1869
   genre: "Historical fiction,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T14:30:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 3
+    relevance: 8
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 7
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "philosophical_revolution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary spiritual philosophy conflicted with official church teaching, leading to excommunication"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary narrative techniques including cinematic POV, stream of consciousness, genre fusion"
+        source: "writing_innovation"
+      - id: "war_theory_accuracy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prophetic insights on leadership and nature of war confirmed by modern events"
+        source: "reality_wisdom"
+      - id: "cultural_phenomenon_scope"
+        type: "FACT"
+        credibility: 0.90
+        content: "Translated into 100+ languages, multiple film/TV/theater adaptations worldwide"
+        source: "culture_impact"
+      - id: "historical_research_methods"
+        type: "FACT"
+        credibility: 0.95
+        content: "Sophia Tolstoy hand-copied entire manuscript 7-8 times, revolutionary research methodology"
+        source: "facts_history"
+      - id: "structural_complexity_innovation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multi-layered structure weaving historical, novelistic, and philosophical strands"
+        source: "writing_innovation"
+      - id: "contemporary_relevance_patterns"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Universal truths about leadership, relationships, and human nature remain accurate"
+        source: "reality_wisdom"
+      - id: "biographical_controversies"
+        type: "FACT"
+        credibility: 0.90
+        content: "47 documented personal scandals including religious excommunication and personal conduct"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature with extensive academic study"
+        key_editions: ["Pevear-Volokhonsky translation", "Maude Oxford edition", "Briggs Penguin Classics"]
+        reception_notes: "Multiple BBC adaptations, considered greatest novel by major critics"
+        educational_status: "Core curriculum in universities, Great Books programs"
+        local_themes: ["Western Canon significance", "Academic scholarship tradition"]
+      pl:
+        cultural_impact: "Strong resonance in Polish literary tradition and educational system"
+        key_editions: ["PIW editions", "School curriculum versions"]
+        reception_notes: "Cultural impact through education and historical parallels"
+        educational_status: "Part of world literature curriculum"
+        local_themes: ["Historical parallel recognition", "Literary tradition connection"]
+      de:
+        cultural_impact: "German Romantic movement influence and philosophical interpretation"
+        key_editions: ["Reclam editions", "Academic scholarly editions"]
+        reception_notes: "Strong tradition of philosophical analysis"
+        educational_status: "University literature and philosophy programs"
+        local_themes: ["Philosophical depth appreciation", "Academic interpretation tradition"]
+      fr:
+        cultural_impact: "Complex relationship due to Napoleon portrayal but literary respect"
+        key_editions: ["Gallimard editions", "Academic translations"]
+        reception_notes: "Appreciated for psychological realism despite historical sensitivity"
+        educational_status: "World literature studies"
+        local_themes: ["Napoleon complex perspective", "Literary artistry recognition"]
+      es:
+        cultural_impact: "Latin American magical realism influence and translation tradition"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Influence on epic novel tradition in Spanish literature"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Epic novel influence", "Translation tradition"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese literary education significance"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Part of classical literature education"
+        educational_status: "Secondary and university curriculum"
+        local_themes: ["Classical education component", "Literary heritage"]
+      ja:
+        cultural_impact: "Manga adaptations and cultural interpretation for Japanese audiences"
+        key_editions: ["Japanese translations", "Manga adaptations"]
+        reception_notes: "Cultural adaptation through visual media"
+        educational_status: "World literature studies"
+        local_themes: ["Visual adaptation success", "Cultural translation methods"]
+      ko:
+        cultural_impact: "Korean literary education and cultural interpretation"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Academic and educational focus"
+        educational_status: "Literature curriculum"
+        local_themes: ["Educational integration", "Academic study tradition"]
+      hi:
+        cultural_impact: "Indian literary tradition and philosophical resonance"
+        key_editions: ["Hindi translations", "Educational versions"]
+        reception_notes: "Philosophical themes resonate with Indian thought traditions"
+        educational_status: "University world literature programs"
+        local_themes: ["Philosophical tradition resonance", "Epic literature parallels"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 15
+      hosts:
+        host_a: "professor/expert presenting complex concepts accessibly"
+        host_b: "graduate student simplifying and connecting to theories"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "philosophical_foundations"
+          lead: "host_a"
+          description: "Tolstoy's revolutionary spiritual philosophy and its impact on literature"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "literary_innovations"
+          lead: "host_b"
+          description: "Narrative techniques that changed literature: cinematic POV, consciousness"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "historical_integration"
+          lead: "host_a"
+          description: "Revolutionary fusion of history, fiction, and philosophy in single work"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "contemporary_significance"
+          lead: "host_b"
+          description: "Why Tolstoy's insights on war, leadership, and human nature remain prophetic"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'War and Peace' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "author biographical controversies", "religious themes discussion"]
+    educational_elements: ["Historical fiction genre characteristics", "Historical context of 1869", "Revolutionary narrative techniques", "Philosophy of history analysis"]
+    production_notes:
+      intro_style: "classical"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective"
+
+  overall_confidence: 0.86

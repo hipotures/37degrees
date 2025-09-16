@@ -4,3 +4,182 @@ book_info:
   author: "Herman Melville"
   year: 1851
   genre: "Adventure,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T10:30:15Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 10
+    cultural_phenomenon: 10
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 10
+    structural_complexity: 9
+    social_roles: 7
+    total: 69
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.7
+      category: "high"
+    heat:
+      value: 7.7
+      category: "high"
+
+  themes:
+    universal:
+      - id: "obsessive_leadership"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Captain Ahab as archetypal toxic leader whose personal obsession destroys entire organization - remarkably prescient of corporate dysfunction"
+        source: "reality_wisdom"
+      - id: "psychological_trauma"
+        type: "FACT"
+        credibility: 0.95
+        content: "Detailed portrayal of PTSD and obsessive behavior patterns decades before clinical understanding - Ahab's trauma response to whale encounter"
+        source: "dark_drama"
+      - id: "environmental_prophecy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Whaling industry collapse as metaphor for unsustainable resource exploitation - directly parallels modern climate crisis"
+        source: "reality_wisdom"
+      - id: "cultural_blasphemy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Ahab christens harpoon 'in name of devil' - contemporary critics called book blasphemous and Melville a heretic"
+        source: "dark_drama"
+      - id: "narrative_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary hybrid form combining adventure, philosophy, technical manual - created entirely new American literary voice"
+        source: "writing_innovation"
+      - id: "social_integration"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Pequod's multicultural crew as early model of workplace diversity - progressive racial integration in 1840s setting"
+        source: "symbols_meanings"
+      - id: "white_whale_symbolism"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "White whale as infinite symbol - simultaneously God, nature, evil, unknowable truth generating endless interpretations"
+        source: "symbols_meanings"
+      - id: "masculine_friendship"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Ishmael-Queequeg relationship as model of emotional intimacy transcending cultural barriers - challenges masculine stereotypes"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational American masterpiece taught in universities worldwide, defining 'Great American Novel' concept"
+        key_editions: ["Norton Critical Edition (1967)", "Northwestern-Newberry definitive (1988)", "Oxford World's Classics (2022)"]
+        reception_notes: "From commercial failure (3,715 copies lifetime) to canonical status through 1920s revival"
+        educational_status: "Core curriculum in American literature courses"
+        local_themes: ["American imperialism critique", "Transcendentalism vs Dark Romanticism", "Democratic ideals vs authoritarianism"]
+
+      pl:
+        cultural_impact: "Canonical Zieliński translation from 1954, opera adaptation by Eugeniusz Knapik (2014), theatrical productions"
+        key_editions: ["PIW 2018 two-volume edition", "Czytelnik classic translation", "Educational adaptations"]
+        reception_notes: "Strong theatrical tradition with multiple stage adaptations, not on mandatory reading lists but culturally significant"
+        educational_status: "Recommended for advanced readers, available in school bookstores"
+        local_themes: ["Individual vs system authority", "Maritime tradition connections", "Philosophical depth appreciation"]
+
+      de:
+        cultural_impact: "Strong academic tradition in German universities, philosophical interpretations emphasized"
+        key_editions: ["Reclam Universal-Bibliothek", "Scholarly annotated editions", "Comparative literature studies"]
+        reception_notes: "Appreciated for existential and metaphysical dimensions"
+        educational_status: "Standard in comparative literature and American studies"
+        local_themes: ["Romantic movement connections", "Philosophical idealism vs naturalism", "Tragic hero archetype"]
+
+      fr:
+        cultural_impact: "Literary prestige in French academic circles, existentialist readings prominent"
+        key_editions: ["Gallimard Folio", "Pléiade editions", "Critical apparatus translations"]
+        reception_notes: "Recognized as major world literature, Camus and Sartre influences noted"
+        educational_status: "Taught in literature faculties"
+        local_themes: ["Existential absurdity", "Individual rebellion", "Nature vs civilization"]
+
+      es:
+        cultural_impact: "Growing recognition in Spanish-speaking academic world, postcolonial readings"
+        key_editions: ["Cátedra Letras Universales", "Alba Clásicos", "Regional publishers"]
+        reception_notes: "Increasing interest in environmental and imperial themes"
+        educational_status: "University level literature courses"
+        local_themes: ["Colonial critique", "Environmental consciousness", "Cultural otherness"]
+
+      pt:
+        cultural_impact: "Brazilian academic interest, maritime cultural connections in Portugal"
+        key_editions: ["Penguin Companhia editions", "Portuguese literary classics series"]
+        reception_notes: "Maritime tradition resonates with Portuguese culture"
+        educational_status: "Higher education literature programs"
+        local_themes: ["Ocean as cultural space", "Imperial expansion critique", "Cultural encounter themes"]
+
+      ja:
+        cultural_impact: "Significant influence on Japanese literature, translations by major publishers"
+        key_editions: ["Iwanami Bunko classic", "Shinchōsha modern translations", "Manga adaptations"]
+        reception_notes: "Appreciated for philosophical depth and nature themes"
+        educational_status: "World literature curriculum"
+        local_themes: ["Human-nature relationships", "Obsessive dedication culture", "Honor and duty concepts"]
+
+      ko:
+        cultural_impact: "Growing academic interest, modern Korean literature influences"
+        key_editions: ["Major publisher translations", "Academic press editions"]
+        reception_notes: "Themes of authority and individual resistance resonate"
+        educational_status: "University world literature"
+        local_themes: ["Authority vs individual", "Traditional vs modern values", "Collective vs personal goals"]
+
+      hi:
+        cultural_impact: "Academic recognition in Indian English literature programs"
+        key_editions: ["Indian academic editions", "English literature course books"]
+        reception_notes: "Colonial and environmental themes particularly relevant"
+        educational_status: "Postgraduate English literature"
+        local_themes: ["Colonial exploitation", "Environmental wisdom", "Cultural diversity celebration"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 16
+      hosts:
+        host_a: "investigative reporter asking probing questions about the voyage"
+        host_b: "eyewitness survivor describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:20"
+          topic: "setup"
+          lead: "host_a"
+          description: "The Essex disaster that inspired Melville and the real white whale legends"
+        - segment: 2
+          time_range: "03:20-06:40"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Life aboard the Pequod - the obsessive captain and doomed crew"
+        - segment: 3
+          time_range: "06:40-10:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The psychological horror of Ahab's monomania and crew manipulation"
+        - segment: 4
+          time_range: "10:00-13:20"
+          topic: "climax_events"
+          lead: "host_b"
+          description: "The final confrontation and destruction of the Pequod"
+        - segment: 5
+          time_range: "13:20-16:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Why this story became America's greatest literary obsession"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering the truth behind one of literature's greatest tragedies. Ask probing questions about the Essex disaster that inspired Melville, the psychological horror of serving under Captain Ahab, and how personal obsession can destroy entire communities. Seek details, uncover hidden meanings, and help listeners understand the real human cost of monomania."
+        host_b: "You are {female_name}, telling the story as if you witnessed the events aboard the Pequod. Describe the terror of serving under an obsessed captain, the multicultural crew's initial hope turning to despair, and the final catastrophic confrontation with the white whale. Bring the narrative to life with vivid details, emotional weight, and the perspective of someone who lived through this maritime nightmare."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["psychological trauma", "obsessive behavior", "historical violence", "animal violence", "religious controversy"]
+    educational_elements: ["19th century American literature", "maritime history", "psychological analysis", "environmental themes", "narrative innovation"]
+    production_notes:
+      intro_style: "Dramatic ocean sounds, building tension"
+      transitions: "Nautical musical bridges"
+      outro_style: "Reflective fade with whale song"
+
+  overall_confidence: 0.88

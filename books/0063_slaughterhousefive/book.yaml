@@ -4,3 +4,169 @@ book_info:
   author: "Kurt Vonnegut"
   year: 1969
   genre: "Satire,Science fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T15:42:00+00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 7
+    total: 63
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "ptsd_revolutionary"
+        type: "FACT"
+        credibility: 0.95
+        content: "First literary PTSD portrayal decades before medical recognition - 'ultimate PTSD novel'"
+        source: "reality_wisdom"
+      - id: "time_fragmentation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Non-linear 'unstuck in time' narrative representing traumatic memory intrusion"
+        source: "writing_innovation"
+      - id: "censorship_phenomenon"
+        type: "FACT"
+        credibility: 0.95
+        content: "18+ book banning attempts, Supreme Court case, book burning in school furnaces"
+        source: "dark_drama"
+      - id: "death_philosophy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "'So it goes' repeated 106 times - Tralfamadorian fatalism predating mindfulness culture"
+        source: "symbols_meanings"
+      - id: "antiwar_symbol"
+        type: "FACT"
+        credibility: 0.95
+        content: "Became symbol of Vietnam War protest movement, shaped American war discourse"
+        source: "culture_impact"
+      - id: "digital_resonance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Existential dread memes, time loop gaming culture, nihilistic humor parallels"
+        source: "youth_digital"
+      - id: "tech_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted social media fragmentation, algorithmic control, digital addiction"
+        source: "reality_wisdom"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary metafiction, mosaic composition, influenced entire postmodern movement"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Foundational postmodern literature work, established cult hero status"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Modern Library 100 Best"]
+        reception_notes: "New York Times bestseller 16 weeks, critical acclaim from major publications"
+        educational_status: "AP English curriculum standard, Iowa Writers' Workshop connection"
+        local_themes: ["Vietnam War protest symbol", "First Amendment free speech icon"]
+      pl:
+        cultural_impact: "Resonates with post-communist trauma, questioning authority narratives"
+        key_editions: ["PIW editions", "Educational reading lists"]
+        reception_notes: "Strong youth engagement, parallels to Solidarity movement themes"
+        educational_status: "Secondary school literature, university contemporary lit courses"
+        local_themes: ["Post-war trauma processing", "Resistance to authoritarian control"]
+      de:
+        cultural_impact: "Complex reception due to Dresden bombing central role"
+        key_editions: ["Reclam editions", "Academic scholarly editions"]
+        reception_notes: "Reconciliation literature bridging American-German war experience"
+        educational_status: "University literature and history courses"
+        local_themes: ["War victim narrative", "National trauma reconciliation"]
+      fr:
+        cultural_impact: "Existentialist philosophy connections, absurdist tradition"
+        key_editions: ["Gallimard translations", "University press editions"]
+        reception_notes: "Intellectual appreciation for philosophical depth"
+        educational_status: "Philosophy and literature curricula"
+        local_themes: ["Existentialist themes", "Absurdist literature tradition"]
+      es:
+        cultural_impact: "Anti-war messaging resonates with civil war memory"
+        key_editions: ["Spanish literary translations", "Academic editions"]
+        reception_notes: "Connected to Latin American magical realism"
+        educational_status: "Contemporary literature courses"
+        local_themes: ["Civil war trauma", "Magical realism influences"]
+      pt:
+        cultural_impact: "Postcolonial readings, resistance literature connections"
+        key_editions: ["Brazilian literary translations", "Portuguese academic editions"]
+        reception_notes: "Appeals to social justice movements"
+        educational_status: "University contemporary literature"
+        local_themes: ["Colonial resistance", "Social justice activism"]
+      ja:
+        cultural_impact: "War experience resonance, atomic bombing parallels"
+        key_editions: ["Japanese literary translations", "Academic study guides"]
+        reception_notes: "Connects to Japanese war literature tradition"
+        educational_status: "Comparative literature studies"
+        local_themes: ["War trauma shared experience", "Peace movement literature"]
+      ko:
+        cultural_impact: "Military culture criticism, divided nation themes"
+        key_editions: ["Korean translations", "University press editions"]
+        reception_notes: "Resonates with military service experiences"
+        educational_status: "Contemporary world literature"
+        local_themes: ["Military culture critique", "Generational trauma"]
+      hi:
+        cultural_impact: "Partition trauma parallels, non-violence philosophy"
+        key_editions: ["Hindi literary translations", "Academic versions"]
+        reception_notes: "Connects to Gandhi's non-violence principles"
+        educational_status: "Modern literature studies"
+        local_themes: ["Partition trauma memories", "Ahimsa philosophy"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions about Billy Pilgrim's fragmented experiences"
+        host_b: "eyewitness describing war trauma and Dresden bombing impact vividly"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "the_puzzle_pieces"
+          lead: "host_a"
+          description: "Investigating Billy's fragmented timeline and unstuck-in-time experience"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "war_witness_account"
+          lead: "host_b"
+          description: "Vivid reconstruction of Dresden bombing and Billy's war trauma"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "the_alien_question"
+          lead: "host_a"
+          description: "Investigating Tralfamadorian encounters - real or psychological coping?"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "the_truth_revealed"
+          lead: "host_b"
+          description: "Understanding PTSD and the real story behind time travel"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining the mysterious case of Billy Pilgrim in 'Slaughterhouse-Five'. Ask probing questions about his fragmented timeline, seek evidence about his war experiences, and investigate whether his alien encounters were real or psychological. Focus on uncovering the truth behind his 'unstuck in time' condition and the deeper meaning of his Dresden trauma."
+        host_b: "You are {female_name}, an eyewitness who can describe Billy Pilgrim's experiences in 'Slaughterhouse-Five' with vivid detail. Bring the Dresden bombing to life, share the emotional impact of war trauma, describe Billy's psychological state, and help reconstruct what really happened during his journey through time. Make the story visceral and immediate for listeners."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["war trauma and PTSD themes", "multiple death references", "strong language", "controversial historical interpretations"]
+    educational_elements: ["innovative non-linear narrative techniques", "historical context of Dresden bombing", "early literary portrayal of PTSD", "development of postmodern literature"]
+    production_notes:
+      intro_style: "investigative_mystery"
+      transitions: "time-slip audio effects between segments"
+      outro_style: "resolution_with_lasting_questions"
+
+  overall_confidence: 0.87

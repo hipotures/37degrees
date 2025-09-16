@@ -1,20 +1,14 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: pon, 15 wrz 2025, 02:38:11 CEST
+Date: wto, 16 wrz 2025, 19:59:34 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
-0125_a_vindication_of_the_rights_of_woman - 23
-0126_the_communist_manifesto - 24
-0140_the_stranger - 13
-0141_waiting_for_godot - 0 (empty directory)
-0142_the_real_story_of_ahq - 0 (empty directory)
-0143_gitanjali - 0 (empty directory)
-0144_ficciones - 0 (empty directory)
-0145_the_cairo_trilogy - 0 (empty directory)
-0146_season_of_migration_to_the_north - 0 (empty directory)
-0147_the_house_of_the_spirits - 0 (empty directory)
+0144_ficciones - 23
+0145_the_cairo_trilogy - 21
+0146_season_of_migration_to_the_north - 24
+0147_the_house_of_the_spirits - 22
 0148_red_sorghum - 0 (empty directory)
 0149_the_oresteia - 0 (empty directory)
 0150_tartuffe - 0 (empty directory)
@@ -24,15 +18,9 @@ Phases to run: 2
 0154_mother_courage_and_her_children - 0 (empty directory)
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 17
+Books with incomplete/incorrect images: 11
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0125_a_vindication_of_the_rights_of_woman
-0126_the_communist_manifesto
-0140_the_stranger
-0141_waiting_for_godot
-0142_the_real_story_of_ahq
-0143_gitanjali
 0144_ficciones
 0145_the_cairo_trilogy
 0146_season_of_migration_to_the_north
@@ -46,16 +34,10 @@ Books with incomplete/incorrect images: 17
 0154_mother_courage_and_her_children
 
 === MISSING SCENES TO BE SET TO PENDING ===
-0125_a_vindication_of_the_rights_of_woman: 2 missing scenes (0005, 0022)
-0126_the_communist_manifesto: 1 missing scenes (0011)
-0140_the_stranger: 12 missing scenes (0014, 0015, 0016, 0017, 0018, 0019, 0020, 0021, 0022, 0023, 0024, 0025)
-0141_waiting_for_godot: 25 missing scenes (0001-0025 (all - completely empty directory))
-0142_the_real_story_of_ahq: 25 missing scenes (0001-0025 (all - completely empty directory))
-0143_gitanjali: 25 missing scenes (0001-0025 (all - completely empty directory))
-0144_ficciones: 25 missing scenes (0001-0025 (all - completely empty directory))
-0145_the_cairo_trilogy: 25 missing scenes (0001-0025 (all - completely empty directory))
-0146_season_of_migration_to_the_north: 25 missing scenes (0001-0025 (all - completely empty directory))
-0147_the_house_of_the_spirits: 25 missing scenes (0001-0025 (all - completely empty directory))
+0144_ficciones: 2 missing scenes (0021, 0024)
+0145_the_cairo_trilogy: 4 missing scenes (0008, 0013, 0016, 0021)
+0146_season_of_migration_to_the_north: 1 missing scenes (0016)
+0147_the_house_of_the_spirits: 3 missing scenes (0014, 0020, 0022)
 0148_red_sorghum: 25 missing scenes (0001-0025 (all - completely empty directory))
 0149_the_oresteia: 25 missing scenes (0001-0025 (all - completely empty directory))
 0150_tartuffe: 25 missing scenes (0001-0025 (all - completely empty directory))

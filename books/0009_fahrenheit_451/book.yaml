@@ -1,13 +1,15 @@
 book_info:
-  title: Fahrenheit 451
-  title_pl: Fahrenheit 451
-  author: Ray Bradbury
+  title: "Fahrenheit 451"
+  title_pl: "Fahrenheit 451"
+  author: "Ray Bradbury"
   year: 1953
-  genre: Dystopian,Science fiction
-  reading_time: 5-6 hours
+  genre: "Dystopian,Science fiction"
+  reading_time: "5-6 hours"
+
 afa_analysis:
-  version: '3.0'
-  processed_at: '2025-09-12T14:30:00+00:00'
+  version: "3.0"
+  processed_at: "2025-09-12T14:30:00+00:00"
+  
   scores:
     controversy: 7
     philosophical_depth: 9
@@ -19,217 +21,163 @@ afa_analysis:
     social_roles: 8
     total: 63
     percentile: 85
+    
   composite_scores:
     depth:
       value: 8.5
-      category: high
+      category: "high"
     heat:
       value: 7.2
-      category: medium
+      category: "medium"
+      
   themes:
     universal:
-    - id: dark_drama_1
-      type: FACT
-      credibility: 0.95
-      content: Bradbury napisał książkę podczas Drugiej Czerwonej Paniki i ery McCarthy'ego, kiedy był zaniepokojony cenzurą
-        w USA
-      source: dark_drama
-    - id: symbols_1
-      type: ANALYSIS
-      credibility: 0.85
-      content: Ogień ewoluuje od symbolu destrukcji do narzędzia artystycznego, na końcu stając się symbolem życia i odnowy
-      source: symbols_meanings
-    - id: culture_1
-      type: FACT
-      credibility: 0.95
-      content: Książka sprzedała się w ponad 10 milionach egzemplarzy i została przetłumaczona na 58 języków
-      source: culture_impact
-    - id: youth_1
-      type: ANALYSIS
-      credibility: 0.85
-      content: BookTok ma 1,2 miliona postów w pierwszych 10 miesiącach 2024 roku, kształtując trendy czytelnicze młodzieży
-      source: youth_digital
-    - id: reality_1
-      type: FACT
-      credibility: 0.95
-      content: Bradbury przewidział płaskie telewizory, słuchawki bezprzewodowe (AirPods) i bankomaty - technologie używane
-        dziś do masowego nadzoru
-      source: reality_wisdom
-    - id: innovation_1
-      type: FACT
-      credibility: 0.95
-      content: Bradbury wprowadził liryczny, poetycki styl do science fiction, przełamując bariery między fantastyką a literaturą
-        wysoką
-      source: writing_innovation
-    - id: history_1
-      type: FACT
-      credibility: 0.95
-      content: Książka była cenzurowana przez własnego wydawcę w latach 1967-1980 - ironia cenzurowania dzieła o cenzurze
-      source: facts_history
-    - id: content_1
-      type: ANALYSIS
-      credibility: 0.85
-      content: Główne zagrożenia to tematy polityczne, cenzura, kontrola państwowa oraz sceny przemocy, ale książka ma wysoką
-        wartość edukacyjną
-      source: content_warnings
+      - id: "dark_drama_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Bradbury napisał książkę podczas Drugiej Czerwonej Paniki i ery McCarthy'ego, kiedy był zaniepokojony cenzurą w USA"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Ogień ewoluuje od symbolu destrukcji do narzędzia artystycznego, na końcu stając się symbolem życia i odnowy"
+        source: "symbols_meanings"
+      - id: "culture_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Książka sprzedała się w ponad 10 milionach egzemplarzy i została przetłumaczona na 58 języków"
+        source: "culture_impact"
+      - id: "youth_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "BookTok ma 1,2 miliona postów w pierwszych 10 miesiącach 2024 roku, kształtując trendy czytelnicze młodzieży"
+        source: "youth_digital"
+      - id: "reality_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Bradbury przewidział płaskie telewizory, słuchawki bezprzewodowe (AirPods) i bankomaty - technologie używane dziś do masowego nadzoru"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Bradbury wprowadził liryczny, poetycki styl do science fiction, przełamując bariery między fantastyką a literaturą wysoką"
+        source: "writing_innovation"
+      - id: "history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Książka była cenzurowana przez własnego wydawcę w latach 1967-1980 - ironia cenzurowania dzieła o cenzurze"
+        source: "facts_history"
+      - id: "content_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Główne zagrożenia to tematy polityczne, cenzura, kontrola państwowa oraz sceny przemocy, ale książka ma wysoką wartość edukacyjną"
+        source: "content_warnings"
+        
     localized:
       en:
-        cultural_impact: Canonical status in Western literature, standard dystopian collection with Orwell and Huxley
-        key_editions:
-        - Ballantine 1953
-        - Asbestos edition (200 copies)
-        - Norton Critical
-        - Penguin Classics
-        reception_notes: 10th grade curriculum, university courses, Harold Bloom's critical analysis
-        educational_status: Standard high school reading, Common Core Standards
-        local_themes:
-        - McCarthyism parallels
-        - Free speech advocacy
-        - Media literacy education
+        cultural_impact: "Canonical status in Western literature, standard dystopian collection with Orwell and Huxley"
+        key_editions: ["Ballantine 1953", "Asbestos edition (200 copies)", "Norton Critical", "Penguin Classics"]
+        reception_notes: "10th grade curriculum, university courses, Harold Bloom's critical analysis"
+        educational_status: "Standard high school reading, Common Core Standards"
+        local_themes: ["McCarthyism parallels", "Free speech advocacy", "Media literacy education"]
       pl:
-        cultural_impact: Początkowo odbierana jako głos przeciwko totalitaryzmowi PRL-u, później jako przestroga przed mediami
-          masowymi
-        key_editions:
-        - Czytelnik 1960 (Adam Kaska)
-        - Wydawnictwo Mag 2023
-        - Znak - wersja graficzna
-        reception_notes: Teatr Polskiego Radia (1989), Teatr Wybrzeże Gdańsk - reżyseria Marcin Liber
-        educational_status: Niektóre gimnazja, potencjalna lektura szkolna
-        local_themes:
-        - Doświadczenia totalitarne PRL
-        - Cenzura komunistyczna
-        - Opór intelektualistów
+        cultural_impact: "Początkowo odbierana jako głos przeciwko totalitaryzmowi PRL-u, później jako przestroga przed mediami masowymi"
+        key_editions: ["Czytelnik 1960 (Adam Kaska)", "Wydawnictwo Mag 2023", "Znak - wersja graficzna"]
+        reception_notes: "Teatr Polskiego Radia (1989), Teatr Wybrzeże Gdańsk - reżyseria Marcin Liber"
+        educational_status: "Niektóre gimnazja, potencjalna lektura szkolna"
+        local_themes: ["Doświadczenia totalitarne PRL", "Cenzura komunistyczna", "Opór intelektualistów"]
       de:
-        cultural_impact: Resonance with German experience of book burning and totalitarianism
-        key_editions:
-        - German translations
-        - Reclam editions
-        reception_notes: Strong academic tradition, philosophical interpretations
-        educational_status: University literature programs
-        local_themes:
-        - Nazi book burning memories
-        - Philosophical resistance
-        - Academic freedom
+        cultural_impact: "Resonance with German experience of book burning and totalitarianism"
+        key_editions: ["German translations", "Reclam editions"]
+        reception_notes: "Strong academic tradition, philosophical interpretations"
+        educational_status: "University literature programs"
+        local_themes: ["Nazi book burning memories", "Philosophical resistance", "Academic freedom"]
       fr:
-        cultural_impact: Truffaut's 1966 film adaptation brought French New Wave perspective
-        key_editions:
-        - French translations
-        - Nouvelle Vague film adaptation
-        reception_notes: Cinematic approach, intellectual discourse
-        educational_status: Literary and film studies
-        local_themes:
-        - Intellectual resistance
-        - Cinematic interpretation
-        - Cultural criticism
+        cultural_impact: "Truffaut's 1966 film adaptation brought French New Wave perspective"
+        key_editions: ["French translations", "Nouvelle Vague film adaptation"]
+        reception_notes: "Cinematic approach, intellectual discourse"
+        educational_status: "Literary and film studies"
+        local_themes: ["Intellectual resistance", "Cinematic interpretation", "Cultural criticism"]
       es:
-        cultural_impact: Relevance to Spanish censorship experiences during Franco era
-        key_editions:
-        - Spanish translations
-        - Latin American editions
-        reception_notes: Post-Franco democratic readings
-        educational_status: Literature and history courses
-        local_themes:
-        - Francoist censorship parallels
-        - Democratic transition
-        - Media freedom
+        cultural_impact: "Relevance to Spanish censorship experiences during Franco era"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Post-Franco democratic readings"
+        educational_status: "Literature and history courses"
+        local_themes: ["Francoist censorship parallels", "Democratic transition", "Media freedom"]
       pt:
-        cultural_impact: Brazilian and Portuguese contexts of political censorship
-        key_editions:
-        - Portuguese/Brazilian translations
-        reception_notes: Post-dictatorship democratic readings
-        educational_status: Comparative literature programs
-        local_themes:
-        - Military dictatorship memory
-        - Press freedom
-        - Democratic resistance
+        cultural_impact: "Brazilian and Portuguese contexts of political censorship"
+        key_editions: ["Portuguese/Brazilian translations"]
+        reception_notes: "Post-dictatorship democratic readings"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Military dictatorship memory", "Press freedom", "Democratic resistance"]
       ja:
-        cultural_impact: Technology themes resonate with Japanese digital culture
-        key_editions:
-        - Japanese translations
-        - Manga adaptations potential
-        reception_notes: Technology and isolation themes prominent
-        educational_status: Literature and media studies
-        local_themes:
-        - Technology isolation
-        - Social conformity pressure
-        - Digital detox movements
+        cultural_impact: "Technology themes resonate with Japanese digital culture"
+        key_editions: ["Japanese translations", "Manga adaptations potential"]
+        reception_notes: "Technology and isolation themes prominent"
+        educational_status: "Literature and media studies"
+        local_themes: ["Technology isolation", "Social conformity pressure", "Digital detox movements"]
       ko:
-        cultural_impact: Parallels with Korean democratization and media control
-        key_editions:
-        - Korean translations
-        reception_notes: Post-democratization perspective
-        educational_status: Literature and political science
-        local_themes:
-        - Authoritarian media control
-        - Student resistance movements
-        - Digital democracy
+        cultural_impact: "Parallels with Korean democratization and media control"
+        key_editions: ["Korean translations"]
+        reception_notes: "Post-democratization perspective"
+        educational_status: "Literature and political science"
+        local_themes: ["Authoritarian media control", "Student resistance movements", "Digital democracy"]
       hi:
-        cultural_impact: Relevance to Indian media and censorship debates
-        key_editions:
-        - Hindi translations
-        reception_notes: Post-colonial and democratic context
-        educational_status: English literature programs
-        local_themes:
-        - Colonial censorship legacy
-        - Media diversity
-        - Democratic discourse
+        cultural_impact: "Relevance to Indian media and censorship debates"
+        key_editions: ["Hindi translations"]
+        reception_notes: "Post-colonial and democratic context"
+        educational_status: "English literature programs"
+        local_themes: ["Colonial censorship legacy", "Media diversity", "Democratic discourse"]
+  
   formats:
-    narrative_reconstruction:
-      name: narrative_reconstruction
-      duration: 18
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
       hosts:
-        host_a: Detective/investigator piecing together narrative puzzles
-        host_b: Witness/informant providing crucial story details and clues
+        host_a: "local culture specialist examining regional reception and context"
+        host_b: "global literature observer analyzing international impact and adaptations"
       structure:
-      - segment: 1
-        time_range: 00:00-03:00
-        topic: mystery_setup
-        lead: host_a
-        description: Identifying narrative puzzles and mysteries
-      - segment: 2
-        time_range: 03:00-06:00
-        topic: evidence_gathering
-        lead: host_b
-        description: Presenting key clues and story evidence
-      - segment: 3
-        time_range: 06:00-09:00
-        topic: timeline_reconstruction
-        lead: host_a
-        description: Piecing together chronology and causality
-      - segment: 4
-        time_range: 09:00-12:00
-        topic: unreliable_elements
-        lead: host_b
-        description: Identifying what can and cannot be trusted
-      - segment: 5
-        time_range: 12:00-15:00
-        topic: hidden_truth
-        lead: host_a
-        description: Revealing the true story beneath the surface
-      - segment: 6
-        time_range: 15:00-18:00
-        topic: final_reconstruction
-        lead: host_b
-        description: Complete narrative understanding achieved
+        - segment: 1
+          time_range: "00:00-04:00"
+          topic: "local_context"
+          lead: "host_a"
+          description: "Polish reception during communist era vs. global McCarthy-era parallels"
+        - segment: 2
+          time_range: "04:00-08:00"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "International adaptations: Truffaut film, HBO series, global translations"
+        - segment: 3
+          time_range: "08:00-12:00"
+          topic: "translations"
+          lead: "host_a"
+          description: "58 languages, cultural adaptation challenges, educational integration"
+        - segment: 4
+          time_range: "12:00-16:00"
+          topic: "legacy"
+          lead: "host_b"
+          description: "Contemporary relevance: social media, digital censorship, BookTok phenomenon"
       prompts:
-        host_a: You are {male_name}, investigating 'Fahrenheit 451' narrative mysteries. Piece together clues like a detective.
-        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
+        host_a: "You are {male_name}, examining 'Fahrenheit 451' from local cultural perspective. Discuss how the book resonates with regional history, local translations and adaptations, and connections to contemporary social issues."
+        host_b: "You are {female_name}, providing global context for 'Fahrenheit 451'. Compare international adaptations: François Truffaut's 1966 film, HBO's 2018 modernization, BBC radio versions, Broadway development. Discuss the book's 58 language translations, 10+ million copies sold, influence on authors like Stephen King and Neil Gaiman, and contemporary relevance through BookTok's 1.2 million posts and ongoing censorship debates worldwide."
+  
   metadata:
-    target_audience: 16+
+    target_audience: "16+"
     content_warnings:
-    - Historical censorship and political persecution themes
-    - Cultural destruction and book burning references
-    - Technology addiction and social isolation
-    - Brief suicide attempt reference (contextual)
+      - "Historical censorship and political persecution themes"
+      - "Cultural destruction and book burning references"
+      - "Technology addiction and social isolation"
+      - "Brief suicide attempt reference (contextual)"
     educational_elements:
-    - Dystopian science fiction genre characteristics
-    - Historical context of 1950s McCarthyism
-    - Literary symbolism and metaphorical analysis
-    - Technology predictions and social commentary
-    - Cross-cultural literary reception studies
-    - Censorship and freedom of expression themes
+      - "Dystopian science fiction genre characteristics"
+      - "Historical context of 1950s McCarthyism"
+      - "Literary symbolism and metaphorical analysis"
+      - "Technology predictions and social commentary"
+      - "Cross-cultural literary reception studies"
+      - "Censorship and freedom of expression themes"
     production_notes:
-      intro_style: Literary classic introduction with historical context framing
-      transitions: Subtle musical bridges between cultural contexts
-      outro_style: Contemporary relevance emphasis with call to critical thinking
+      intro_style: "Literary classic introduction with historical context framing"
+      transitions: "Subtle musical bridges between cultural contexts"
+      outro_style: "Contemporary relevance emphasis with call to critical thinking"
+  
   overall_confidence: 0.91

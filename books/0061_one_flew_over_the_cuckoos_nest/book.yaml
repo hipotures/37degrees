@@ -4,3 +4,255 @@ book_info:
   author: "Ken Kesey"
   year: 1962
   genre: "Psychological fiction,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T12:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 8
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 7
+    total: 59
+    percentile: 88
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+      components:
+        philosophical_depth: 8
+        structural_complexity: 6
+        innovation: 8
+    heat:
+      value: 7.2
+      category: "medium"
+      components:
+        controversy: 9
+        cultural_phenomenon: 7
+        relevance: 8
+        contemporary_reception: 6
+
+  themes:
+    universal:
+      - theme: "Institutional Control vs Individual Freedom"
+        description: "Core conflict between personal autonomy and systemic authority"
+        credibility: 0.95
+        tags: ["FACT", "ANALYSIS"]
+      - theme: "Mental Health Stigma and Reform"
+        description: "Revolutionary portrayal of psychiatric patients as human beings"
+        credibility: 0.90
+        tags: ["FACT", "HISTORICAL"]
+      - theme: "Power Dynamics and Abuse"
+        description: "Nurse Ratched as archetypal abusive authority figure"
+        credibility: 0.95
+        tags: ["ANALYSIS", "ARCHETYPE"]
+      - theme: "Resistance and Sacrifice"
+        description: "McMurphy's Christ-like sacrifice for collective liberation"
+        credibility: 0.90
+        tags: ["ANALYSIS", "SYMBOLISM"]
+      - theme: "Reality vs Perception"
+        description: "Unreliable narrator exploring subjective truth"
+        credibility: 0.85
+        tags: ["LITERARY", "TECHNIQUE"]
+
+    localized:
+      en:
+        - theme: "Beat Generation Literary Legacy"
+          description: "Bridge between 1950s Beat movement and 1960s counterculture"
+          credibility: 0.90
+          tags: ["FACT", "HISTORICAL"]
+        - theme: "American Psychiatric System Critique"
+          description: "Specific criticism of US institutional mental health care"
+          credibility: 0.95
+          tags: ["FACT", "SOCIAL"]
+        - theme: "Civil Rights Era Individualism"
+          description: "1960s emphasis on individual freedom against conformity"
+          credibility: 0.85
+          tags: ["HISTORICAL", "CULTURAL"]
+
+      pl:
+        - theme: "Communist System Allegory"
+          description: "Hospital as metaphor for totalitarian state control"
+          credibility: 0.90
+          tags: ["ANALYSIS", "POLITICAL"]
+        - theme: "Totalitarian Resistance Metaphor"
+          description: "McMurphy as symbol of resistance to oppressive systems"
+          credibility: 0.85
+          tags: ["ANALYSIS", "HISTORICAL"]
+        - theme: "Mental Health Awareness"
+          description: "Contemporary relevance in Polish mental health discussions"
+          credibility: 0.80
+          tags: ["CONTEMPORARY", "SOCIAL"]
+
+      de:
+        - theme: "Post-war Institutional Authority"
+          description: "Critique resonating with German post-war reconstruction"
+          credibility: 0.85
+          tags: ["HISTORICAL", "ANALYSIS"]
+        - theme: "Frankfurt School Connections"
+          description: "Alignment with critical theory concepts of institutional control"
+          credibility: 0.80
+          tags: ["ACADEMIC", "THEORETICAL"]
+        - theme: "Antipsychiatry Movement"
+          description: "Connection to German psychiatric reform movements"
+          credibility: 0.85
+          tags: ["HISTORICAL", "MEDICAL"]
+
+      fr:
+        - theme: "May 68 Counterculture"
+          description: "Resonance with French student protest movements"
+          credibility: 0.85
+          tags: ["HISTORICAL", "POLITICAL"]
+        - theme: "Foucauldian Power Analysis"
+          description: "Parallel to Michel Foucault's institutional critique"
+          credibility: 0.90
+          tags: ["ACADEMIC", "THEORETICAL"]
+        - theme: "Philosophical Existentialism"
+          description: "Individual authenticity against institutional bad faith"
+          credibility: 0.80
+          tags: ["PHILOSOPHICAL", "EXISTENTIAL"]
+
+      es:
+        - theme: "Franco-era Authoritarianism"
+          description: "Institutional rebellion themes during Spanish dictatorship"
+          credibility: 0.85
+          tags: ["HISTORICAL", "POLITICAL"]
+        - theme: "Democratic Transition Themes"
+          description: "Relevance during Spanish transition to democracy"
+          credibility: 0.80
+          tags: ["HISTORICAL", "POLITICAL"]
+        - theme: "Post-dictatorship Healing"
+          description: "Mental health metaphors for social recovery"
+          credibility: 0.75
+          tags: ["ANALYSIS", "METAPHORICAL"]
+
+      pt:
+        - theme: "Brazilian Psychiatric Reform"
+          description: "Connection to Basaglia movement and anti-asylum legislation"
+          credibility: 0.90
+          tags: ["FACT", "MEDICAL"]
+        - theme: "Military Dictatorship Resistance"
+          description: "Institutional critique during authoritarian periods"
+          credibility: 0.85
+          tags: ["HISTORICAL", "POLITICAL"]
+        - theme: "Mental Health Democratization"
+          description: "Community-based care versus institutional models"
+          credibility: 0.85
+          tags: ["MEDICAL", "SOCIAL"]
+
+      ja:
+        - theme: "Social Conformity Pressure"
+          description: "Individual expression versus group harmony expectations"
+          credibility: 0.85
+          tags: ["CULTURAL", "SOCIAL"]
+        - theme: "Hierarchical Rebellion"
+          description: "Challenge to traditional Japanese authority structures"
+          credibility: 0.80
+          tags: ["CULTURAL", "SOCIAL"]
+        - theme: "Western Individualism Adoption"
+          description: "American individualistic values in Japanese context"
+          credibility: 0.75
+          tags: ["CULTURAL", "ADAPTATION"]
+
+      ko:
+        - theme: "Confucian Hierarchy Challenge"
+          description: "Rebellion against traditional Korean social order"
+          credibility: 0.85
+          tags: ["CULTURAL", "PHILOSOPHICAL"]
+        - theme: "Generational Authority Conflict"
+          description: "Youth challenging traditional elder authority"
+          credibility: 0.80
+          tags: ["SOCIAL", "GENERATIONAL"]
+        - theme: "Pop Culture Transformation"
+          description: "Literary themes adapted into Korean entertainment"
+          credibility: 0.85
+          tags: ["CULTURAL", "CONTEMPORARY"]
+
+      hi:
+        - theme: "Bollywood Melodrama Adaptation"
+          description: "Hollywood themes transformed for Indian cinema sensibilities"
+          credibility: 0.90
+          tags: ["FACT", "CULTURAL"]
+        - theme: "Mental Health Stigma"
+          description: "Addressing psychiatric issues in conservative society"
+          credibility: 0.85
+          tags: ["SOCIAL", "MEDICAL"]
+        - theme: "Regional Cinema Transformation"
+          description: "Story adapted across multiple Indian linguistic communities"
+          credibility: 0.90
+          tags: ["FACT", "CULTURAL"]
+
+  formats:
+    selected_format: "narrative_reconstruction"
+    duration_minutes: 15
+    fitness_score: 2.98
+    reasoning: "Medium DEPTH (7.5) + Medium HEAT (7.2) suggests complex storytelling format. Selected narrative_reconstruction over academic_analysis to avoid format over-usage (academic_analysis at 19.7%)."
+
+    host_assignments:
+      host_a:
+        role: "Literary Analysis Expert"
+        specialty: "American counterculture literature and psychiatric narratives"
+        voice_style: "Analytical yet accessible, with deep knowledge of 1960s context"
+      host_b:
+        role: "Cultural Context Specialist"
+        specialty: "Mental health discourse and institutional power dynamics"
+        voice_style: "Empathetic and contemporary, bridging historical and modern perspectives"
+
+    segments:
+      - title: "The MKUltra Origins"
+        start_time: "00:00"
+        duration: "3:00"
+        host: "host_a"
+        content_focus: "Ken Kesey's participation in CIA experiments and how psychedelic experiences shaped the novel's perspective on reality and institutional control"
+
+      - title: "Revolutionary Narrative Technique"
+        start_time: "03:00"
+        duration: "3:00"
+        host: "host_b"
+        content_focus: "Chief Bromden as unreliable narrator - how Kesey pioneered psychiatric perspective storytelling and influenced generations of writers"
+
+      - title: "Symbols of Liberation and Control"
+        start_time: "06:00"
+        duration: "3:00"
+        host: "host_a"
+        content_focus: "The Combine, fog symbolism, and Christ archetype - multi-layered metaphors that speak to universal human experiences"
+
+      - title: "Cultural Explosion and Controversy"
+        start_time: "09:00"
+        duration: "3:00"
+        host: "host_b"
+        content_focus: "From Broadway to Hollywood to global adaptations - how the story became a cultural phenomenon while generating decades of controversy"
+
+      - title: "Prophecy and Present Relevance"
+        start_time: "12:00"
+        duration: "3:00"
+        host: "host_a"
+        content_focus: "What Kesey predicted that came true - psychiatric reform, workplace toxicity, digital surveillance, and why {male_name} and {female_name} still find this story relevant today"
+
+    content_warnings:
+      - "Sexual violence and institutional abuse"
+      - "Suicide and self-harm"
+      - "Historical medical procedures (electroshock therapy)"
+      - "Racist and misogynistic content from 1962"
+      - "Mental health crisis situations"
+
+    educational_elements:
+      - "Evolution of psychiatric treatment and patient rights"
+      - "1960s American counterculture movement"
+      - "Literary innovation in narrative perspective"
+      - "Institutional power dynamics and resistance"
+      - "Cultural adaptation across different societies"
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["mature_themes", "historical_medical_procedures", "institutional_abuse", "problematic_historical_content"]
+    educational_elements: ["mental_health_history", "literary_innovation", "cultural_movements", "social_justice"]
+    production_notes: "Requires sensitivity in handling problematic content while maintaining educational value. Historical context crucial for contemporary understanding."
+
+  overall_confidence: 0.87

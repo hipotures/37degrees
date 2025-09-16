@@ -1,6 +1,264 @@
 book_info:
-  title: "Lolita"
-  title_pl: "Lolita"
-  author: "Vladimir Nabokov"
+  title: Lolita
+  title_pl: Lolita
+  author: Vladimir Nabokov
   year: 1955
-  genre: "Novel,Controversial"
+  genre: Novel,Controversial
+afa_analysis:
+  version: '3.0'
+  processed_at: '2025-09-16T22:57:56.621075'
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 8
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 8
+    total: 68
+    percentile: 85
+  composite_scores:
+    depth:
+      value: 8.5
+      category: high
+    heat:
+      value: 8.5
+      category: high
+  themes:
+    universal:
+    - id: culture_impact_1
+      type: FACT
+      credibility: 0.95
+      content: Decades of bans and legal fights turned the novel into a global shorthand
+        for censorship battles and cultural backlash.
+      source: culture_impact
+    - id: symbols_meanings_2
+      type: ANALYSIS
+      credibility: 0.85
+      content: Humbert's ornate narration shows how seductive language can disguise
+        abuse, demanding active decoding from readers.
+      source: symbols_meanings
+    - id: youth_digital_3
+      type: FACT
+      credibility: 0.95
+      content: 'Gen Z creators rally around #LolitaIsNotARomance and allied campaigns
+        to share survivor resources and reframe the story as cautionary.'
+      source: youth_digital
+    - id: writing_innovation_4
+      type: ANALYSIS
+      credibility: 0.85
+      content: The modular, multilingual structure set a benchmark for unreliable
+        narrators and inspired postmodern experiments in craft.
+      source: writing_innovation
+    - id: reality_wisdom_5
+      type: ANALYSIS
+      credibility: 0.85
+      content: The plot maps a textbook pattern of grooming - love bombing, isolation,
+        coerced travel - that still mirrors contemporary abuse cases.
+      source: reality_wisdom
+    - id: dark_drama_6
+      type: FACT
+      credibility: 0.95
+      content: Survivor advocates continually critique adaptations for centering Humbert,
+        underscoring the need for explicit, trauma-informed framing.
+      source: dark_drama
+    localized:
+      en:
+        cultural_impact: Canonized yet contested across U.S. and UK institutions,
+          driving ongoing debates about free expression versus safeguarding.
+        key_editions:
+        - G.P. Putnam's Sons 1958 first U.S. edition
+        - Weidenfeld & Nicolson 1959 first U.K. edition
+        - Alfred Appel Jr.'s Annotated Lolita 1991
+        reception_notes: Regularly challenged in American libraries while remaining
+          a staple of university syllabi and literary criticism.
+        educational_status: Elective text for college literature and gender studies;
+          rarely assigned in secondary classrooms.
+        local_themes:
+        - Free speech versus child protection debates
+        - '#MeToo-era reappraisals of cultural icons'
+        - Legal analysis of unreliable testimony narratives
+      pl:
+        cultural_impact: Polish editions sparked debates on censorship, translation
+          nuance, and trauma-aware pedagogy in post-1989 culture.
+        key_editions:
+        - PIW 1959 translation by Anna Kolyszko
+        - Robert Stiller's annotated 1991 edition
+        - Wydawnictwo Literackie 2008 update with critical afterword
+        reception_notes: Theatre adaptations like "Dolores" and BookTok activism (#LolitaToNieRomans)
+          emphasize survivor-centered readings.
+        educational_status: Not mandatory in schools; appears in advanced Polish language
+          seminars and university literature courses.
+        local_themes:
+        - Censorship history under PRL
+        - Translation debates over "nimfetka" terminology
+        - Workshops on digital grooming awareness for youth
+      de:
+        cultural_impact: German-speaking discourse foregrounds philosophical ethics,
+          translation precision, and theatre reinterpretations.
+        key_editions:
+        - Rowohlt 1959 translation by Helen Hessel
+        - Dieter E. Zimmer revised edition 1989
+        - Suhrkamp 2008 scholarly release with Michael Maar commentary
+        reception_notes: Critics like Reich-Ranicki defend its linguistic mastery
+          while feminist scholars push trauma-focused adaptations in Berlin and Zurich.
+        educational_status: Discussed in Gymnasium ethics electives and extensively
+          in university seminars on aesthetics and psychoanalysis.
+        local_themes:
+        - Psychoanalytic readings of desire and control
+        - Legal debates on youth protection in affluent families
+        - Comparisons with Goethe and German Romanticism
+      fr:
+        cultural_impact: From 1950s bans to Pleiade canonization, French reception
+          balances structuralist theory with feminist critique.
+        key_editions:
+        - Gallimard 1959 translation by Eric Kahane
+        - Folio 1970 edition with Maurice Couturier preface
+        - Gallimard 2001 translation by Maurice Couturier
+        reception_notes: Barthes, Kristeva, and contemporary podcasts revisit the
+          novel as a case study in textual pleasure versus ethical responsibility.
+        educational_status: Optional in lycee banned-books modules; widely taught
+          in university comparative literature programs.
+        local_themes:
+        - Structuralist analyses of unreliable narration
+        - Censorship history and state morality
+        - Feminist reclamations of Dolores's perspective
+      es:
+        cultural_impact: Spanish-speaking readers link the novel to censorship under
+          Franco and feminist activism across Latin America.
+        key_editions:
+        - Editorial Sur 1959 Buenos Aires translation
+        - Grijalbo Mexico 1970 reprint of Sur text
+        - Anagrama 2002 translation by Francesc Roca
+        reception_notes: Podcasts, theatre pieces, and BookTok campaigns (#LolitaNoEsRomance)
+          frame the story as a warning against machismo.
+        educational_status: Appears in university syllabi; high-school use limited
+          to moderated workshops and optional banned-books units.
+        local_themes:
+        - Post-dictatorship debates on moral censorship
+        - Feminist reinterpretations across Spain and Mexico
+        - Translation choices between Iberian and Latin American Spanish
+      pt:
+        cultural_impact: Brazilian and Portuguese audiences emphasize translation
+          nuance, colonial histories, and survivor advocacy.
+        key_editions:
+        - Livros do Brasil 1961 censored edition
+        - Editora Record 1965 Brazilian translation by Alvaro Alencar
+        - Companhia das Letras 2011 Jorio Dauster edition
+        reception_notes: NGOs, podcasts, and BookTok (#LolitaNaoEhRomance) use the
+          text to promote consent education and anti-sexualization campaigns.
+        educational_status: Discussed in university literature programs; appears in
+          feminist reading groups and trauma-awareness trainings.
+        local_themes:
+        - Post-dictatorship freedom-to-read celebrations
+        - Debates over lusophone terminology for "nymphet"
+        - Tropicalia-influenced stage reinterpretations
+      ja:
+        cultural_impact: Japanese reception intertwines translation scholarship with
+          debates about lolita-fashion subculture and youth protection policies.
+        key_editions:
+        - Shinchosha 1959 translation by Fujiwara Shinichiro
+        - Hayakawa Bunko 1964 paperback by Toyofuku Masayuki
+        - Kawade Shobo 2022 reissue with Yuko Shimizu cover
+        reception_notes: Academics and media critics use the novel to critique fetishization
+          trends while creators produce survivor-focused reinterpretations.
+        educational_status: Featured in university seminars on translation and modernism;
+          high-school access tightly controlled with warnings.
+        local_themes:
+        - Lolita fashion debates and cultural translation
+        - Policy discussions on "lolicon" media regulation
+        - Theatre and manga parodies centering Dolores's voice
+      ko:
+        cultural_impact: South Korean discourse links the novel to idol-industry controversies
+          and Confucian power hierarchies.
+        key_editions:
+        - Minumsa 1969 Korean translation by Kim Se-young
+        - Bae Jangho 1988 revised edition
+        - Munhakdongne 2012 annotated release
+        reception_notes: Webtoons, podcasts, and university forums analyze grooming
+          warning signs; NGOs integrate the book into counselor training.
+        educational_status: Used in graduate seminars and professional development
+          for social workers; not taught in secondary schools.
+        local_themes:
+        - Idol-culture critiques and media responsibility
+        - Grooming prevention education within Confucian contexts
+        - Terminology debates around "lolita syndrome" in Korean media
+      hi:
+        cultural_impact: Indian reception underscores multilingual translations, legal
+          reform debates, and survivor advocacy networks.
+        key_editions:
+        - Penguin India 1989 English edition with contextual foreword
+        - Rajkamal Prakashan 1999 Hindi translation
+        - Ananda Publishers 2002 Bengali translation
+        reception_notes: Festivals, podcasts, and NGOs frame the text as a tool for
+          discussing POCSO law, colonial power, and digital safety.
+        educational_status: Appears in select IB and university literature courses;
+          optional modules require parental consent and expert facilitation.
+        local_themes:
+        - Postcolonial parallels between grooming and imperial control
+        - Multilingual translation strategies across Indian languages
+        - Legal literacy campaigns around child protection laws
+  formats:
+    academic_analysis:
+      name: academic_analysis
+      duration: 17
+      hosts:
+        host_a: Professor {male_name}, a literary ethicist who contextualizes Nabokov's
+          craft while condemning the abuse.
+        host_b: '{female_name}, a graduate researcher translating academic insight
+          into accessible, survivor-centered language.'
+      structure:
+      - time_range: 00:00-03:00
+        topic: Explicit disclaimers and historical positioning
+        lead: host_a
+        description: Frame the episode as an 18+ educational analysis, summarise global
+          bans, and clarify Dolores as the narrative focus.
+      - time_range: 03:00-06:00
+        topic: Language as manipulation
+        lead: host_a
+        description: Dissect Humbert's rhetoric, linking symbolic analysis to modern
+          gaslighting tactics highlighted by survivor advocates.
+      - time_range: 06:00-09:30
+        topic: Cultural impact and controversies
+        lead: host_b
+        description: Walk through censorship history, adaptations, and the universal
+          theme that turned the novel into shorthand for free-speech debates.
+      - time_range: 09:30-13:00
+        topic: Global receptions and localized themes
+        lead: host_b
+        description: Compare Polish, German, Japanese, and Indian readings, showing
+          how activism reframes the story in each cultural context.
+      - time_range: 13:00-17:00
+        topic: Contemporary lessons and survivor resources
+        lead: host_a
+        description: Synthesize reality-wisdom findings, list grooming red flags,
+          share actionable resources, and close with restorative framing.
+      prompts:
+        host_a: You are Professor {male_name}, a literary ethicist analyzing 'Lolita'.
+          Balance rigorous craft discussion with unequivocal condemnation of Humbert's
+          abuse.
+        host_b: You are {female_name}, a graduate researcher translating scholarship
+          into accessible advice. Center Dolores's perspective and surface modern
+          resources for listeners.
+  metadata:
+    target_audience: 18+
+    content_warnings:
+    - Detailed discussion of child sexual abuse and grooming
+    - Psychological manipulation and gaslighting
+    - References to trauma symptoms and survivor experiences
+    - Non-graphic homicide of an abuser
+    - Historical censorship and legal failures
+    educational_elements:
+    - Narrative unreliability and rhetoric analysis
+    - Global censorship history as media literacy case study
+    - Grooming red-flag checklist for young adults
+    - Cross-cultural approaches to trauma-informed teaching
+    production_notes:
+      intro_style: Calm, trigger-aware introduction with survivor resources and acknowledgements
+        of sensitivity.
+      transitions: Subtle, minor-key musical bridges with brief grounding statements
+        before heavier sections.
+      outro_style: Hopeful yet respectful close summarizing key takeaways and re-sharing
+        support hotlines.
+  overall_confidence: 0.78

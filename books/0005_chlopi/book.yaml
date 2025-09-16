@@ -1,13 +1,15 @@
 book_info:
-  title: The Peasants
-  title_pl: Chłopi
-  author: Władysław Reymont
+  title: "The Peasants"
+  title_pl: "Chłopi"
+  author: "Władysław Reymont"
   year: 1904–1909
-  genre: Novel,Realism
-  reading_time: 20-25 hours
+  genre: "Novel,Realism"
+  reading_time: "20-25 hours"
+
 afa_analysis:
-  version: '3.0'
-  processed_at: '2025-01-12T10:15:00Z'
+  version: "3.0"
+  processed_at: "2025-01-12T10:15:00Z"
+  
   scores:
     controversy: 7
     philosophical_depth: 9
@@ -19,213 +21,158 @@ afa_analysis:
     social_roles: 8
     total: 62
     percentile: 85
+  
   composite_scores:
     depth:
       value: 8.5
-      category: high
+      category: "high"
     heat:
       value: 7.0
-      category: medium
+      category: "medium"
+  
   themes:
     universal:
-    - id: nobel_conspiracy
-      type: DISPUTE
-      credibility: 0.7
-      content: Nobel Prize conspiracy theories involving Polish political manipulation and preference over Stefan Żeromski
-      source: dark_drama
-    - id: literary_innovation
-      type: FACT
-      credibility: 0.95
-      content: Revolutionary three-narrator system and seasonal structure that transformed European literature
-      source: writing_innovation
-    - id: occult_connections
-      type: FACT
-      credibility: 0.95
-      content: Documented spiritism, theosophy involvement, including Theosophical Society congress attendance
-      source: dark_drama
-    - id: social_prophecy
-      type: ANALYSIS
-      credibility: 0.85
-      content: Eerily accurate predictions about gender roles, work-life balance, environmental issues
-      source: reality_wisdom
-    - id: mental_health_parallels
-      type: ANALYSIS
-      credibility: 0.85
-      content: Gen Z struggles with seasonal depression, community vs individualism mapped to Chłopi themes
-      source: youth_digital
-    - id: archetypal_universality
-      type: ANALYSIS
-      credibility: 0.85
-      content: Patriarchy, femme fatale, rebellious son archetypes transcending cultural boundaries
-      source: symbols_meanings
-    - id: feminist_potential
-      type: ANALYSIS
-      credibility: 0.85
-      content: Women's agency, toxic relationship patterns, economic control dynamics for modern reinterpretation
-      source: symbols_meanings
-    - id: tradition_vs_progress
-      type: ANALYSIS
-      credibility: 0.85
-      content: Cultural preservation vs progress tension relevant to technology adaptation debates
-      source: culture_impact
+      - id: "nobel_conspiracy"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Nobel Prize conspiracy theories involving Polish political manipulation and preference over Stefan Żeromski"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary three-narrator system and seasonal structure that transformed European literature"
+        source: "writing_innovation"
+      - id: "occult_connections"
+        type: "FACT" 
+        credibility: 0.95
+        content: "Documented spiritism, theosophy involvement, including Theosophical Society congress attendance"
+        source: "dark_drama"
+      - id: "social_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily accurate predictions about gender roles, work-life balance, environmental issues"
+        source: "reality_wisdom"
+      - id: "mental_health_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z struggles with seasonal depression, community vs individualism mapped to Chłopi themes"
+        source: "youth_digital"
+      - id: "archetypal_universality"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Patriarchy, femme fatale, rebellious son archetypes transcending cultural boundaries"
+        source: "symbols_meanings"
+      - id: "feminist_potential"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Women's agency, toxic relationship patterns, economic control dynamics for modern reinterpretation"
+        source: "symbols_meanings"
+      - id: "tradition_vs_progress"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cultural preservation vs progress tension relevant to technology adaptation debates"
+        source: "culture_impact"
+    
     localized:
       en:
-        cultural_impact: Century-long translation gap until 2022 Anna Zaranko version, limited general readership
-        key_editions:
-        - 1924 Michael Dziewicki
-        - 2022 Penguin Classics Anna Zaranko
-        reception_notes: Academic interest mainly, film adaptation bringing renewed attention
-        educational_status: Comparative European literature courses
-        local_themes:
-        - European peasant literature
-        - Nobel Prize significance
-        - Translation challenges
+        cultural_impact: "Century-long translation gap until 2022 Anna Zaranko version, limited general readership"
+        key_editions: ["1924 Michael Dziewicki", "2022 Penguin Classics Anna Zaranko"]
+        reception_notes: "Academic interest mainly, film adaptation bringing renewed attention"
+        educational_status: "Comparative European literature courses"
+        local_themes: ["European peasant literature", "Nobel Prize significance", "Translation challenges"]
       pl:
-        cultural_impact: Fundamental element of Polish cultural identity, mandatory school curriculum
-        key_editions:
-        - Gebethner i Wolff original
-        - School editions with glossaries
-        - 2023 film tie-ins
-        reception_notes: 2023 film breakthrough for Gen Z, TikTok renaissance, language barrier for students
-        educational_status: Mandatory high school reading (fragments since 2024 reform)
-        local_themes:
-        - National identity
-        - Rural vs urban tensions
-        - Language preservation
-        - Cultural authenticity
+        cultural_impact: "Fundamental element of Polish cultural identity, mandatory school curriculum"
+        key_editions: ["Gebethner i Wolff original", "School editions with glossaries", "2023 film tie-ins"]
+        reception_notes: "2023 film breakthrough for Gen Z, TikTok renaissance, language barrier for students"
+        educational_status: "Mandatory high school reading (fragments since 2024 reform)"
+        local_themes: ["National identity", "Rural vs urban tensions", "Language preservation", "Cultural authenticity"]
       de:
-        cultural_impact: Strong academic presence since 1912, Slavistic studies focus
-        key_editions:
-        - 1912 d'Ardeschah translation
-        - Modern Hansebooks reprints
-        reception_notes: Film 'Das Flüstern der Felder' well-received 2024, critical appreciation
-        educational_status: Slavistik curriculum, peasant literature studies
-        local_themes:
-        - European realism traditions
-        - Central European rural culture
-        - Comparative literature
+        cultural_impact: "Strong academic presence since 1912, Slavistic studies focus"
+        key_editions: ["1912 d'Ardeschah translation", "Modern Hansebooks reprints"]
+        reception_notes: "Film 'Das Flüstern der Felder' well-received 2024, critical appreciation"
+        educational_status: "Slavistik curriculum, peasant literature studies"
+        local_themes: ["European realism traditions", "Central European rural culture", "Comparative literature"]
       fr:
-        cultural_impact: Literary establishment recognition, comparisons to Zola and Balzac
-        key_editions:
-        - 1925 Franck-Louis Schoell
-        - L'Âge d'Homme editions
-        reception_notes: Naturalist movement connections, critical appreciation in academic circles
-        educational_status: Comparative literature, European realism courses
-        local_themes:
-        - Naturalist techniques
-        - Rural life documentation
-        - Literary realism evolution
+        cultural_impact: "Literary establishment recognition, comparisons to Zola and Balzac"
+        key_editions: ["1925 Franck-Louis Schoell", "L'Âge d'Homme editions"]
+        reception_notes: "Naturalist movement connections, critical appreciation in academic circles"
+        educational_status: "Comparative literature, European realism courses"
+        local_themes: ["Naturalist techniques", "Rural life documentation", "Literary realism evolution"]
       es:
-        cultural_impact: Limited but growing presence through film adaptations and academic study
-        key_editions:
-        - Academic translations
-        - Film tie-in editions
-        reception_notes: Interest through painted animation film, rural themes resonance
-        educational_status: Specialized European literature programs
-        local_themes:
-        - Rural authenticity
-        - European cultural connections
-        - Visual arts integration
+        cultural_impact: "Limited but growing presence through film adaptations and academic study"
+        key_editions: ["Academic translations", "Film tie-in editions"]
+        reception_notes: "Interest through painted animation film, rural themes resonance"
+        educational_status: "Specialized European literature programs"
+        local_themes: ["Rural authenticity", "European cultural connections", "Visual arts integration"]
       pt:
-        cultural_impact: Academic recognition, connections to rural Portuguese literature
-        key_editions:
-        - University press translations
-        - Comparative literature editions
-        reception_notes: Rural themes resonate with Portuguese countryside literature
-        educational_status: European literature comparative studies
-        local_themes:
-        - Rural community dynamics
-        - Agricultural society parallels
-        - Folk tradition preservation
+        cultural_impact: "Academic recognition, connections to rural Portuguese literature"
+        key_editions: ["University press translations", "Comparative literature editions"]
+        reception_notes: "Rural themes resonate with Portuguese countryside literature"
+        educational_status: "European literature comparative studies"
+        local_themes: ["Rural community dynamics", "Agricultural society parallels", "Folk tradition preservation"]
       ja:
-        cultural_impact: Nobel Prize recognition, interest in European rural literature
-        key_editions:
-        - Academic translations
-        - European literature series
-        reception_notes: Appreciation for seasonal structure, nature-human harmony themes
-        educational_status: Comparative world literature courses
-        local_themes:
-        - Seasonal cyclicity
-        - Community vs individual
-        - Traditional vs modern tensions
+        cultural_impact: "Nobel Prize recognition, interest in European rural literature"
+        key_editions: ["Academic translations", "European literature series"]
+        reception_notes: "Appreciation for seasonal structure, nature-human harmony themes"
+        educational_status: "Comparative world literature courses"
+        local_themes: ["Seasonal cyclicity", "Community vs individual", "Traditional vs modern tensions"]
       ko:
-        cultural_impact: Growing interest through film adaptations and European literature studies
-        key_editions:
-        - University translations
-        - Film tie-in materials
-        reception_notes: Rural-urban migration themes resonate with Korean experience
-        educational_status: European literature programs
-        local_themes:
-        - Rural community bonds
-        - Generational conflicts
-        - Modernization pressures
+        cultural_impact: "Growing interest through film adaptations and European literature studies"
+        key_editions: ["University translations", "Film tie-in materials"]
+        reception_notes: "Rural-urban migration themes resonate with Korean experience"
+        educational_status: "European literature programs"
+        local_themes: ["Rural community bonds", "Generational conflicts", "Modernization pressures"]
       hi:
-        cultural_impact: Academic interest through rural themes and community dynamics
-        key_editions:
-        - Academic press translations
-        - Comparative literature materials
-        reception_notes: Rural community structures resonate with Indian village life
-        educational_status: World literature and comparative studies
-        local_themes:
-        - Village community dynamics
-        - Agricultural society
-        - Traditional wisdom vs modernity
+        cultural_impact: "Academic interest through rural themes and community dynamics"
+        key_editions: ["Academic press translations", "Comparative literature materials"]
+        reception_notes: "Rural community structures resonate with Indian village life"
+        educational_status: "World literature and comparative studies"
+        local_themes: ["Village community dynamics", "Agricultural society", "Traditional wisdom vs modernity"]
+  
   formats:
-    narrative_reconstruction:
-      name: narrative_reconstruction
-      duration: 18
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 15
       hosts:
-        host_a: Detective/investigator piecing together narrative puzzles
-        host_b: Witness/informant providing crucial story details and clues
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
       structure:
-      - segment: 1
-        time_range: 00:00-03:00
-        topic: mystery_setup
-        lead: host_a
-        description: Identifying narrative puzzles and mysteries
-      - segment: 2
-        time_range: 03:00-06:00
-        topic: evidence_gathering
-        lead: host_b
-        description: Presenting key clues and story evidence
-      - segment: 3
-        time_range: 06:00-09:00
-        topic: timeline_reconstruction
-        lead: host_a
-        description: Piecing together chronology and causality
-      - segment: 4
-        time_range: 09:00-12:00
-        topic: unreliable_elements
-        lead: host_b
-        description: Identifying what can and cannot be trusted
-      - segment: 5
-        time_range: 12:00-15:00
-        topic: hidden_truth
-        lead: host_a
-        description: Revealing the true story beneath the surface
-      - segment: 6
-        time_range: 15:00-18:00
-        topic: final_reconstruction
-        lead: host_b
-        description: Complete narrative understanding achieved
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "Nobel Prize Complexity"
+          lead: "host_a"
+          description: "Introduce Chłopi's Nobel win vs hidden controversies and conspiracy theories"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "Revolutionary Techniques"
+          lead: "host_b"
+          description: "Explore 3-narrator system, seasonal structure innovations that changed European literature"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "Archetypal Patterns"
+          lead: "host_a"
+          description: "Analyze patriarchy, femme fatale, rebellious son archetypes transcending Polish culture"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "Modern Parallels"
+          lead: "host_b"
+          description: "Connect Gen Z mental health, work-life balance struggles to Reymont's prophetic insights"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "Legacy and Impact"
+          lead: "host_a"
+          description: "How hidden controversies and innovations create lasting literary significance"
       prompts:
-        host_a: You are {male_name}, investigating 'The Peasants' narrative mysteries. Piece together clues like a detective.
-        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
+        host_a: "You are {male_name}, Professor analyzing 'Chłopi' with scholarly depth. Discuss Nobel conspiracies, revolutionary 3-narrator technique, archetypal universality. Academic but accessible."
+        host_b: "You are {female_name}, graduate student. Ask for clarification on complex literary concepts, request examples of innovations, connect to modern theories, ensure accessibility."
+  
   metadata:
-    target_audience: 16+
-    content_warnings:
-    - historical violence discussion
-    - sexual content analysis
-    - political controversy themes
-    - toxic relationship patterns
-    educational_elements:
-    - Nobel Prize literature analysis
-    - European literary realism techniques
-    - Polish cultural history context
-    - Archetypal character analysis
-    - Narrative innovation study
+    target_audience: "16+"
+    content_warnings: ["historical violence discussion", "sexual content analysis", "political controversy themes", "toxic relationship patterns"]
+    educational_elements: ["Nobel Prize literature analysis", "European literary realism techniques", "Polish cultural history context", "Archetypal character analysis", "Narrative innovation study"]
     production_notes:
-      intro_style: academic conference opening - establish scholarly credibility
-      transitions: subtle classical music bridges between segments
-      outro_style: thoughtful conclusion emphasizing ongoing relevance
+      intro_style: "academic conference opening - establish scholarly credibility"
+      transitions: "subtle classical music bridges between segments"
+      outro_style: "thoughtful conclusion emphasizing ongoing relevance"
+  
   overall_confidence: 0.89

@@ -1,125 +1,125 @@
-# Ocena zgodności z zasadami platform - "Archipelag GUŁag" 
+# Content Warnings Assessment - "The Gulag Archipelago"
 
-**Data analzy:** 28 sierpnia 2025  
-**Analizowane przez:** Content Warning Assessor  
-**Podstawa:** Research findings od 8 agentów specjalistycznych + aktualne wytyczne platform 2025  
+**Analysis Date:** September 16, 2025
+**Analyzed by:** Content Warning Assessor
+**Source:** Research findings from 8 specialist agents + current 2025 platform guidelines
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**OGÓLNA OCENA RYZYKA:**
-- 🔴 **FACEBOOK/INSTAGRAM:** BARDZO WYSOKIE RYZYKO - problemy z kontekstem politycznym i historycznym
-- 🔴 **YOUTUBE:** WYSOKIE RYZYKO - wymaga znaczących modyfikacji dla monetyzacji
-- 🟡 **TIKTOK:** ŚREDNIE RYZYKO - możliwe z ograniczeniami i age restrictions
-- 🟢 **SPOTIFY:** NISKIE RYZYKO - najbezpieczniejsza platforma dla tego contentu
-- 🟢 **KICK:** BARDZO NISKIE RYZYKO - najlepsza opcja dla pełnego contentu
+**OVERALL RISK ASSESSMENT:**
+- 🔴 **FACEBOOK/INSTAGRAM:** VERY HIGH RISK - problematic political/historical content
+- 🔴 **YOUTUBE:** HIGH RISK - requires significant modifications for monetization
+- 🟡 **TIKTOK:** MEDIUM RISK - possible with limitations and age restrictions
+- 🟢 **SPOTIFY:** LOW RISK - safest platform for this content
+- 🟢 **KICK:** VERY LOW RISK - best option for full content
 
-**KLASYFIKACJA WIEKOWA:** **18+** dla pełnego contentu, **16+** dla wersji zmodyfikowanych
+**AGE CLASSIFICATION:** **18+** for full content, **16+** for modified versions
 
 ---
 
-## ANALIZA PROBLEMATYCZNYCH TREŚCI
+## ANALYSIS OF PROBLEMATIC CONTENT
 
-### 1. GŁÓWNE OBSZARY RYZYKA
+### 1. MAJOR RISK AREAS
 
-#### 1.1 Treści polityczne i historyczne
-**PROBLEMY ZIDENTYFIKOWANE:**
-- Szczegółowe opisy systemu represji sowieckiej
-- Krytyka komunizmu i ideologii marksistowskiej
-- Polityczne kontrowersje związane z osobą Sołżenicyna
-- Dane statystyczne o ofiarach (40-50 milionów ludzi w łagrach)
-
-**RISK LEVEL:**
-- **Meta (FB/IG):** 🔴 BARDZO WYSOKIE - nowe liberalne polityki wobec historical content
-- **YouTube:** 🟡 ŚREDNIE - z educational framing może przejść
-- **TikTok:** 🟡 ŚREDNIE - potrzebne bardzo ostrożne podejście
-- **Spotify:** 🟢 NISKIE - historical podcasts są dozwolone
-- **Kick:** 🟢 BARDZO NISKIE - najmniej ograniczeń
-
-#### 1.2 Przemoc i tortury
-**PROBLEMY ZIDENTYFIKOWANE:**
-- Opisy przemocy fizycznej w obozach
-- Tortury podczas śledztw NKWD/KGB
-- Warunki życia w łagrach
-- Śmierć Elizawiety Worońskiej (tortury i prawdopodobne samobójstwo)
+#### 1.1 Political and Historical Content
+**IDENTIFIED PROBLEMS:**
+- Detailed descriptions of Soviet repression system
+- Criticism of communism and Marxist ideology
+- Political controversies surrounding Solzhenitsyn
+- Death statistics (40-50 million people in gulags)
 
 **RISK LEVEL:**
-- **Meta (FB/IG):** 🔴 WYSOKIE - graphic violence policies
-- **YouTube:** 🟡 ŚREDNIE - z appropriate warnings może przejść
-- **TikTok:** 🔴 WYSOKIE - platform bardzo czuły na violence content
-- **Spotify:** 🟢 NISKIE - audio content ma więcej swobody
-- **Kick:** 🟢 NISKIE - educational context chroni
+- **Meta (FB/IG):** 🔴 VERY HIGH - new liberal policies toward historical content
+- **YouTube:** 🟡 MEDIUM - with educational framing may pass
+- **TikTok:** 🟡 MEDIUM - requires very careful approach
+- **Spotify:** 🟢 LOW - historical podcasts are allowed
+- **Kick:** 🟢 VERY LOW - fewest restrictions
 
-#### 1.3 Kontrowersyjne poglądy Sołżenicyna
-**PROBLEMY ZIDENTYFIKOWANE:**
-- Zarzuty o antysemityzm (książka "200 Years Together")
-- Poglądy na temat Ukrainy i nacjonalizmu
-- Poparcie dla "miękkiego autorytaryzmu"
-- Wsparcie dla reżimu Putina
-
-**RISK LEVEL:**
-- **Meta (FB/IG):** 🔴 BARDZO WYSOKIE - hate speech policies w 2025
-- **YouTube:** 🔴 WYSOKIE - sensitive topics enforcement
-- **TikTok:** 🔴 BARDZO WYSOKIE - zero tolerance dla controversial views
-- **Spotify:** 🟡 ŚREDNIE - potrzebny disclaimer
-- **Kick:** 🟢 NISKIE - najbardziej tolerancyjna platforma
-
-#### 1.4 Problemy z AI-generated content
-**PROBLEMY ZIDENTYFIKOWANE:**
-- Potencjalne użycie AI w generowaniu scenariuszy
-- Text-to-speech w audio content
-- AI-generated imagery dla wizualizacji
+#### 1.2 Violence and Torture
+**IDENTIFIED PROBLEMS:**
+- Descriptions of physical violence in camps
+- Torture during NKVD/KGB investigations
+- Living conditions in gulags
+- Death of Elizaveta Voronyanskaya (torture and probable suicide)
 
 **RISK LEVEL:**
-- **YouTube:** 🔴 BARDZO WYSOKIE - 2025 crackdown na AI content bez human input
-- **TikTok:** 🟡 ŚREDNIE - wymaga labeling AI content
-- **Spotify:** 🟢 NISKIE - mniej restrykcyjne wobec AI audio
-- **Meta/Kick:** 🟡 ŚREDNIE - wymagają transparentności
+- **Meta (FB/IG):** 🔴 HIGH - graphic violence policies
+- **YouTube:** 🟡 MEDIUM - with appropriate warnings may pass
+- **TikTok:** 🔴 HIGH - platform very sensitive to violence content
+- **Spotify:** 🟢 LOW - audio content has more freedom
+- **Kick:** 🟢 LOW - educational context protects
+
+#### 1.3 Author's Controversial Views
+**IDENTIFIED PROBLEMS:**
+- Accusations of antisemitism (book "200 Years Together")
+- Views on Ukraine and nationalism
+- Support for "soft authoritarianism"
+- Support for Putin regime
+
+**RISK LEVEL:**
+- **Meta (FB/IG):** 🔴 VERY HIGH - hate speech policies in 2025
+- **YouTube:** 🔴 HIGH - sensitive topics enforcement
+- **TikTok:** 🔴 VERY HIGH - zero tolerance for controversial views
+- **Spotify:** 🟡 MEDIUM - needs disclaimer
+- **Kick:** 🟢 LOW - most tolerant platform
+
+#### 1.4 AI-Generated Content Issues
+**IDENTIFIED PROBLEMS:**
+- Potential use of AI in generating scenarios
+- Text-to-speech in audio content
+- AI-generated imagery for visualizations
+
+**RISK LEVEL:**
+- **YouTube:** 🔴 VERY HIGH - 2025 crackdown on AI content without human input
+- **TikTok:** 🟡 MEDIUM - requires labeling AI content
+- **Spotify:** 🟢 LOW - less restrictive toward AI audio
+- **Meta/Kick:** 🟡 MEDIUM - require transparency
 
 ---
 
 ## PLATFORM-SPECIFIC ASSESSMENT
 
-### 🔴 FACEBOOK/INSTAGRAM - BARDZO WYSOKIE RYZYKO
+### 🔴 FACEBOOK/INSTAGRAM - VERY HIGH RISK
 
-**GŁÓWNE PROBLEMY 2025:**
-- Nowe liberalne hate speech policies mogą być nieprzewidywalne
-- Community Notes system zamiast fact-checking
-- Wysoka kontrola political content
-- Unpredictable moderation dla educational content
+**MAIN 2025 PROBLEMS:**
+- New liberal hate speech policies may be unpredictable
+- Community Notes system replacing fact-checking
+- High control of political content
+- Unpredictable moderation for educational content
 
-**REKOMENDACJE:**
-- **AGE-RESTRICT:** Wszystko 18+
-- **AVOID:** Jakiekolwiek dyskusje o controversiach wokół autora
-- **FOCUS ON:** Czysto historyczne fakty bez interpretacji politycznych
-- **STRATEGY:** Minimalne posty, maximum kierowanie do innych platform
+**RECOMMENDATIONS:**
+- **AGE-RESTRICT:** Everything 18+
+- **AVOID:** Any discussions about author controversies
+- **FOCUS ON:** Pure historical facts without political interpretations
+- **STRATEGY:** Minimal presence, maximum redirect to other platforms
 
 **RED FLAGS:**
-- Antysemityzm allegations wobec Sołżenicyna
-- Szczegółowe opisy przemocy w łagrach
-- Polityczne interpretacje historii ZSRR
-- Direct quotes z kontrowersyjnych wypowiedzi autora
+- Antisemitism allegations against Solzhenitsyn
+- Detailed descriptions of gulag violence
+- Political interpretations of USSR history
+- Direct quotes from author's controversial statements
 
-### 🔴 YOUTUBE - WYSOKIE RYZYKO
+### 🔴 YOUTUBE - HIGH RISK
 
-**GŁÓWNE PROBLEMY 2025:**
-- Anti-AI content policies - wymaga human narration
+**MAIN 2025 PROBLEMS:**
+- Anti-AI content policies - requires human narration
 - Inauthentic content enforcement
-- Sensitive historical topics pod lupą
-- Monetization requirements bardzo restrykcyjne
+- Sensitive historical topics under scrutiny
+- Monetization requirements very restrictive
 
-**REKOMENDACJE:**
-- **HUMAN NARRATOR:** Bezwzględnie nie używać text-to-speech
-- **ORIGINAL VALUE:** Dodać unikalny komentarz i interpretację
-- **EDUCATIONAL FRAMING:** Jasno oznakować jako historical education
-- **AGE-RESTRICT:** 16+ minimum dla większości treści
+**RECOMMENDATIONS:**
+- **HUMAN NARRATOR:** Absolutely no text-to-speech
+- **ORIGINAL VALUE:** Add unique commentary and interpretation
+- **EDUCATIONAL FRAMING:** Clearly mark as historical education
+- **AGE-RESTRICT:** 16+ minimum for most content
 
 **MODIFICATIONS NEEDED:**
-- Usunąć atau zminimalizować graphic descriptions of violence
-- Focus na historical significance, nie political commentary
-- Add context warnings przed sensitive topics
-- Use original analysis, nie just book summary
+- Remove or minimize graphic descriptions of violence
+- Focus on historical significance, not political commentary
+- Add context warnings before sensitive topics
+- Use original analysis, not just book summary
 
 **SAFE APPROACHES:**
 - "Historical lessons from literature"
@@ -127,43 +127,43 @@
 - "Understanding totalitarian systems"
 - "Literary analysis of banned books"
 
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
+### 🟡 TIKTOK - MEDIUM RISK
 
-**GŁÓWNE PROBLEMY 2025:**
+**MAIN 2025 PROBLEMS:**
 - Only 1+ minute videos monetized
-- Strict protiv misinformation (nawet historical)
-- High sensitivity do political content
-- 70% rejection rate dla applications
+- Strict against misinformation (even historical)
+- High sensitivity to political content
+- 70% rejection rate for applications
 
-**REKOMENDACJE:**
-- **MINIMUM 1 MINUTE:** Tylko long-form content można monetyzować
-- **ORIGINAL ONLY:** Zero duets/stitches z book content
-- **VERY CAREFUL:** Z każdym political/historical claim
-- **AGE-APPROPRIATE:** Różne wersje dla różnych grup wiekowych
+**RECOMMENDATIONS:**
+- **MINIMUM 1 MINUTE:** Only long-form content can be monetized
+- **ORIGINAL ONLY:** Zero duets/stitches with book content
+- **VERY CAREFUL:** With every political/historical claim
+- **AGE-APPROPRIATE:** Different versions for different age groups
 
 **SAFE CONTENT STRATEGIES:**
 - "Books that changed history" approach
 - Personal reading journey storytelling
-- Literary analysis bez political commentary
-- Focus na universal human themes
+- Literary analysis without political commentary
+- Focus on universal human themes
 
 **AVOID COMPLETELY:**
 - Graphic violence descriptions
 - Political interpretations of history
 - Controversial aspects of author
-- Direct comparisons z contemporary politics
+- Direct comparisons with contemporary politics
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
+### 🟢 SPOTIFY - LOW RISK
 
-**GŁÓWNE PROBLEMY 2025:**
+**MAIN 2025 PROBLEMS:**
 - Copyright violations (audiobook clips)
 - Mass-produced content flags
-- Need dla original commentary
+- Need for original commentary
 
-**REKOMENDACJE:**
-- **VIDEO FORMAT:** Preferowane dla better monetization
-- **ORIGINAL COMMENTARY:** Własna analiza dominuje nad quotes
-- **NO AUDIOBOOK CLIPS:** Even short ones bez permission
+**RECOMMENDATIONS:**
+- **VIDEO FORMAT:** Preferred for better monetization
+- **ORIGINAL COMMENTARY:** Own analysis dominates over quotes
+- **NO AUDIOBOOK CLIPS:** Even short ones without permission
 - **EDUCATIONAL SERIES:** Episodic approach works best
 
 **SAFE STRATEGIES:**
@@ -178,15 +178,15 @@
 - Cross-platform promotion
 - Consistent publishing schedule
 
-### 🟢 KICK - BARDZO NISKIE RYZYKO
+### 🟢 KICK - VERY LOW RISK
 
-**GŁÓWNE PROBLEMY 2025:**
-- Minimal restrictions dla educational content
+**MAIN 2025 PROBLEMS:**
+- Minimal restrictions for educational content
 - Creator-friendly policies
 - Highest revenue splits (95/5)
 
-**REKOMENDACJE:**
-- **BEST PLATFORM:** Dla full, uncut content
+**RECOMMENDATIONS:**
+- **BEST PLATFORM:** For full, uncut content
 - **EDUCATIONAL CONTEXT:** Clear educational framing protects
 - **COMMUNITY BUILDING:** Interactive discussions work best
 - **LIVE FORMAT:** Streaming book discussions ideal
@@ -195,14 +195,14 @@
 - Complete historical analysis
 - Author controversy discussions
 - Political context explanations
-- Graphic historical content (z appropriate warnings)
+- Graphic historical content (with appropriate warnings)
 
 ---
 
-## CONTENT MATRIX - PROBLEMATYCZNE TEMATY VS PLATFORMY
+## CONTENT MATRIX - PROBLEMATIC TOPICS VS PLATFORMS
 
-| Problematyczny Content | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|------------------------|----------|-----------|---------|--------|---------|------|
+| Problematic Content | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|----------------------|----------|-----------|---------|--------|---------|------|
 | **Violence in camps** | 🔴 EDIT/OMIT | 🔴 EDIT/OMIT | 🟡 AGE-RESTRICT | 🔴 OMIT | 🟡 WARNING | 🟢 OK |
 | **Political analysis** | 🔴 OMIT | 🔴 OMIT | 🟡 CAREFUL | 🔴 OMIT | 🟢 OK | 🟢 OK |
 | **Author controversies** | 🔴 OMIT | 🔴 OMIT | 🔴 AVOID | 🔴 OMIT | 🟡 DISCLAIMER | 🟢 OK |
@@ -213,54 +213,54 @@
 | **Philosophical reflections** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
 
 **LEGEND:**
-- 🟢 **OK** - Może być prezentowane bez modyfikacji
-- 🟡 **CAREFUL/WARNING** - Potrzebne ostrzeżenia lub modyfikacje
-- 🔴 **EDIT/OMIT/AVOID** - Znaczne modyfikacje lub pełne unikanie
+- 🟢 **OK** - Can be presented without modifications
+- 🟡 **CAREFUL/WARNING** - Requires warnings or modifications
+- 🔴 **EDIT/OMIT/AVOID** - Significant modifications or complete avoidance
 
 ---
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
-### AGE RATINGS DLA RÓŻNYCH PLATFORM:
+### AGE RATINGS FOR DIFFERENT PLATFORMS:
 
 #### **18+ CONTENT (Adult Only):**
-- Szczegółowe opisy tortur w więzieniach
+- Detailed descriptions of torture in prisons
 - Graphic details of camp conditions
-- Kontrowersyjne poglądy Sołżenicyna (antysemityzm, nacjonalizm)
+- Solzhenitsyn's controversial views (antisemitism, nationalism)
 - Political analysis of Soviet system
-- Statistics about deaths i represje
+- Statistics about deaths and repressions
 
 **PLATFORMS ALLOWING 18+:** Kick (best), Spotify (with warnings), YouTube (age-restricted)
 
 #### **16+ CONTENT (Teen Appropriate):**
 - Historical facts about Soviet camps
 - General discussion of totalitarianism
-- Author biography (bez controversies)
+- Author biography (without controversies)
 - Literary analysis of the book
-- Universal themes o human rights
+- Universal themes about human rights
 
 **PLATFORMS ALLOWING 16+:** YouTube (educational), Spotify, Kick
 
 #### **13+ CONTENT (Youth Safe):**
 - Importance of reading banned books
-- General discussion o freedom of speech
+- General discussion about freedom of speech
 - Historical context without graphic details
-- Philosophical themes o human dignity
+- Philosophical themes about human dignity
 - Educational value of literature
 
-**PLATFORMS ALLOWING 13+:** All platforms z appropriate framing
+**PLATFORMS ALLOWING 13+:** All platforms with appropriate framing
 
 ---
 
 ## CONTENT WARNINGS RECOMMENDATIONS
 
-### UNIVERSAL WARNINGS (dla wszystkich platform):
+### UNIVERSAL WARNINGS (for all platforms):
 
-**PRZED CONTENT:**
-> ⚠️ **Content Warning:** Ten materiał omawia historyczne represje, przemoc polityczną i trudne tematy związane z systemem sowieckim. Material przeznaczony dla dojrzałej widowni z edukacyjnym celu. Viewer discretion advised.
+**BEFORE CONTENT:**
+> ⚠️ **Content Warning:** This material discusses historical repressions, political violence, and difficult topics related to the Soviet system. Material intended for mature audiences for educational purposes. Viewer discretion advised.
 
-**DLA MŁODEJ WIDOWNI:**
-> 📚 **Edukacyjna notatka:** Ta książka dokumentuje prawdziwe wydarzenia historyczne o systemie obozów pracy w ZSRR. Omawiamy te tematy, aby zrozumieć historię i chronić prawa człowieka.
+**FOR YOUNG AUDIENCES:**
+> 📚 **Educational Note:** This book documents real historical events about the Soviet labor camp system. We discuss these topics to understand history and protect human rights.
 
 ### PLATFORM-SPECIFIC WARNINGS:
 
@@ -285,7 +285,7 @@ Entertainment/Educational purposes only
 **SPOTIFY:**
 ```
 🎧 Content Advisory
-This podcast discusses historical events including violence and political oppression in educational context. 
+This podcast discusses historical events including violence and political oppression in educational context.
 Contains mature themes - listener discretion advised.
 ```
 
@@ -293,41 +293,41 @@ Contains mature themes - listener discretion advised.
 
 ## ALTERNATIVE APPROACHES STRATEGY
 
-### SAFE APPROACHES DLA KAŻDEJ PLATFORMY:
+### SAFE APPROACHES FOR EACH PLATFORM:
 
 #### **"Books That Changed History" Angle:**
-- Focus na impact książki na world politics
-- Avoid szczegółowe historical analysis
+- Focus on book's impact on world politics
+- Avoid detailed historical analysis
 - Emphasize literary importance
-- Safe dla wszystkich platform
+- Safe for all platforms
 
 #### **"Banned Books Discussion" Angle:**
-- Context of censorship i free speech
+- Context of censorship and free speech
 - Why books get banned
-- Importance of literary freedom  
+- Importance of literary freedom
 - Educational framing protects content
 
 #### **"Human Rights Through Literature" Angle:**
-- Universal themes o human dignity
-- Literature jako witness to history
+- Universal themes about human dignity
+- Literature as witness to history
 - Importance of remembering
-- Positive framing dla sensitive content
+- Positive framing for sensitive content
 
 #### **"Reading Journey" Personal Angle:**
 - How the book affected reader
 - Personal growth through reading
-- Recommendation z personal perspective
-- Relatable dla young audience
+- Recommendation with personal perspective
+- Relatable for young audience
 
 ---
 
 ## COMPLIANCE CHECKLIST
 
-### UNIVERSAL REQUIREMENTS (wszystkie platformy):
+### UNIVERSAL REQUIREMENTS (all platforms):
 - [ ] **Age-appropriate content labeling**
-- [ ] **Educational framing** dla sensitive topics
-- [ ] **Content warnings** przed graphic/sensitive material
-- [ ] **No copyright violations** (muzyka, audiobook clips)
+- [ ] **Educational framing** for sensitive topics
+- [ ] **Content warnings** before graphic/sensitive material
+- [ ] **No copyright violations** (music, audiobook clips)
 - [ ] **Original commentary** dominates over quoted material
 - [ ] **Fact-checking** controversial historical claims
 - [ ] **Clear educational purpose** statement
@@ -335,69 +335,69 @@ Contains mature themes - listener discretion advised.
 ### PLATFORM-SPECIFIC REQUIREMENTS:
 
 #### Facebook/Instagram:
-- [ ] **Extreme caution** z controversial historical topics
+- [ ] **Extreme caution** with controversial historical topics
 - [ ] **Avoid political commentary** completely
 - [ ] **Focus on positive educational aspects** only
 - [ ] **No graphic descriptions** of violence
 - [ ] **Minimal presence** - redirect to other platforms
 
 #### YouTube:
-- [ ] **Human narration** - nie text-to-speech
-- [ ] **Original value-added content** - nie just summary
-- [ ] **Educational framing** dla wszystkich historical claims
-- [ ] **Age restrictions** dla sensitive content
+- [ ] **Human narration** - not text-to-speech
+- [ ] **Original value-added content** - not just summary
+- [ ] **Educational framing** for all historical claims
+- [ ] **Age restrictions** for sensitive content
 - [ ] **Community Guidelines compliant** thumbnails/titles
 
 #### TikTok:
-- [ ] **1+ minute videos only** dla monetization
+- [ ] **1+ minute videos only** for monetization
 - [ ] **Original content only** - no duets/stitches
-- [ ] **Very careful** z historical/political claims
+- [ ] **Very careful** with historical/political claims
 - [ ] **AI content properly labeled**
 - [ ] **Educational focus** strongly emphasized
 
 #### Spotify:
-- [ ] **Video format preferred** dla better monetization
-- [ ] **No copyrighted audio clips** bez permission
+- [ ] **Video format preferred** for better monetization
+- [ ] **No copyrighted audio clips** without permission
 - [ ] **Original commentary** over quoted material
-- [ ] **Proper music licensing** dla background music
-- [ ] **Strategic ad breaks** dla monetization
+- [ ] **Proper music licensing** for background music
+- [ ] **Strategic ad breaks** for monetization
 
 #### Kick:
 - [ ] **Educational context** clearly established
 - [ ] **Community building focus**
 - [ ] **Interactive discussion format**
 - [ ] **Live streaming approach** recommended
-- [ ] **Full content possible** z proper warnings
+- [ ] **Full content possible** with proper warnings
 
 ---
 
 ## FINAL RECOMMENDATIONS
 
 ### **TIER 1 - SAFEST APPROACH:**
-**Platforms:** Kick, Spotify  
-**Content:** Full historical analysis z proper warnings  
-**Age Rating:** 16-18+  
+**Platforms:** Kick, Spotify
+**Content:** Full historical analysis with proper warnings
+**Age Rating:** 16-18+
 **Strategy:** Complete educational series
 
 ### **TIER 2 - MODIFIED APPROACH:**
-**Platforms:** YouTube  
-**Content:** Educational focus, minimize controversies  
-**Age Rating:** 16+  
+**Platforms:** YouTube
+**Content:** Educational focus, minimize controversies
+**Age Rating:** 16+
 **Strategy:** "Books that changed history" angle
 
 ### **TIER 3 - MINIMAL APPROACH:**
-**Platforms:** TikTok  
-**Content:** Basic book recommendations, universal themes  
-**Age Rating:** 13+  
+**Platforms:** TikTok
+**Content:** Basic book recommendations, universal themes
+**Age Rating:** 13+
 **Strategy:** Personal reading journey
 
 ### **TIER 4 - AVOID:**
-**Platforms:** Facebook, Instagram  
-**Content:** Minimal presence only  
+**Platforms:** Facebook, Instagram
+**Content:** Minimal presence only
 **Strategy:** Redirect traffic to safer platforms
 
 ---
 
-**KLUCZOWY WNIOSEK:** "Archipelag GUŁag" jest bardzo wymagającą książką dla content creators w 2025. Sukces zależy od wybrania właściwej platformy (Kick/Spotify optimal), odpowiedniego framingu (edukacyjnego, nie politycznego) i właściwej klasyfikacji wiekowej (16-18+). Pełne treści historyczne są możliwe tylko na najbardziej tolerancyjnych platformach.
+**KEY CONCLUSION:** "The Gulag Archipelago" is a very demanding book for content creators in 2025. Success depends on choosing the right platform (Kick/Spotify optimal), appropriate framing (educational, not political) and proper age classification (16-18+). Full historical content is only possible on the most tolerant platforms.
 
-**OSTATECZNA REKOMENDACJA:** Stwórz tier system z różnymi wersjami dla różnych platform, ale fokus primary effort na Kick i Spotify gdzie można prezentować complete, uncensored educational content.
+**FINAL RECOMMENDATION:** Create a tier system with different versions for different platforms, but focus primary effort on Kick and Spotify where complete, uncensored educational content can be presented.

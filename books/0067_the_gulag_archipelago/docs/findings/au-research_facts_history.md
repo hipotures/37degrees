@@ -1,167 +1,167 @@
-# Archipelag GUŁag - Fakty i Historia Powstania
+# The Gulag Archipelago - Creation Facts and History
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: Архипелаг ГУЛАГ (Arkhipelag GULAG)
-- **Autor**: Aleksandr Sołżenicyn (1918-2008)
-- **Okres pisania**: 1958-1968 (10 lat)
-- **Pierwsza publikacja**: 28 grudnia 1973, YMCA-Press, Paryż
-- **Objętość**: Ponad 1800 stron w trzech tomach
-- **Podtytuł**: "Eksperyment w badaniu literackim"
-
----
-
-## FAKTY O AUTORZE I JEGO DOŚWIADCZENIU
-
-### **FAKT 1**: Sołżenicyn urodził się 11 grudnia 1918 roku w Kisłowodzku w Rosji. Jego ojciec Isaaki zginął w wypadku na polowaniu krótko po tym, jak matka Taisia zaszła w ciążę.
-
-### **FAKT 2**: 9 lutego 1945 roku, będąc kapitanem Armii Czerwonej w Prusach Wschodnich, Sołżenicyn został aresztowany przez SMERSH za krytyczne komentarze o Stalinie w prywatnych listach do przyjaciela.
-
-### **FAKT 3**: Sołżenicyn otrzymał wyrok 8 lat łagru na podstawie artykułu 58 kodeksu karnego za "działalność kontrrewolucyjną".
-
-### **FAKT 4**: W latach 1950-1953 pracował w obozie pracy w Ekibastuz w północno-wschodnim Kazachstanie jako kamieniarz układający cegły, a później w odlewni obozowej.
-
-### **FAKT 5**: Pierwszy dzień Sołżenicyna bez uzbrojonych strażników przypadł na 5 marca 1953 roku - dokładnie w dniu śmierci Stalina.
-
-### **FAKT 6**: Po zakończeniu kary więzienia w 1953 roku został wysłany na dożywotnie wygnanie do wioski Kok-Terek w południowo-wschodnim Kazachstanie, gdzie uczył matematyki i fizyki.
+## Basic Book Information
+- **Original Title**: Архипелаг ГУЛАГ (Arkhipelag GULAG)
+- **Author**: Aleksandr Solzhenitsyn (1918-2008)
+- **Writing Period**: 1958-1968 (10 years)
+- **First Publication**: December 28, 1973, YMCA-Press, Paris
+- **Length**: Over 1,800 pages in three volumes
+- **Subtitle**: "An Experiment in Literary Investigation"
 
 ---
 
-## PROCES TWÓRCZY I OKOLICZNOŚCI POWSTANIA
+## FACTS ABOUT THE AUTHOR AND HIS EXPERIENCE
 
-### **FAKT 7**: Sołżenicyn rozpoczął pisanie "Archipelagu GUŁag" w 1958 roku, pracując nad nim przez 10 lat do 1968 roku.
+### **FACT 1**: Solzhenitsyn was born on December 11, 1918, in Kislovodsk, Russia. His father Isaaki died in a hunting accident shortly after his mother Taisia became pregnant.
 
-### **FAKT 8**: Znaczną część książki napisał odręcznie w "kryjówce" w Tartu w Estonii.
+### **FACT 2**: On February 9, 1945, while serving as a captain in the Red Army in East Prussia, Solzhenitsyn was arrested by SMERSH for critical comments about Stalin in private letters to a friend.
 
-### **FAKT 9**: W latach 1965-1967, po konfiskacie materiałów przez KGB w Moskwie, pracował nad przekształcaniem wstępnych szkiców w gotowy maszynopis, ukrywając się w domach przyjaciół.
+### **FACT 3**: Solzhenitsyn received an 8-year gulag sentence under Article 58 of the criminal code for "counter-revolutionary activities."
 
-### **FAKT 10**: Ze względu na niebezpieczeństwo długoletniej kary więzienia za "działalność antysowiecką", Sołżenicyn nigdy nie pracował nad kompletnym manuskryptem jednocześnie.
+### **FACT 4**: From 1950-1953, he worked at the labor camp in Ekibastuz in northeastern Kazakhstan as a stonemason laying bricks, and later in the camp foundry.
 
-### **FAKT 11**: Fragmenty dzieła ukrywał w różnych miejscach w Moskwie i okolicach, powierzając je zaufanym przyjaciołom. Często podczas pozornych wizyt towarzyskich w rzeczywistości pracował nad manuskryptem.
+### **FACT 5**: Solzhenitsyn's first day without armed guards fell on March 5, 1953 - exactly the day Stalin died.
 
-### **FAKT 12**: Przez znaczną część tego okresu mieszkał na daczy światowej sławy wiolonczelisty Mstiława Rostropowicza, gdzie dzięki reputacji muzyka był stosunkowo bezpieczny przed przeszukaniami KGB.
-
----
-
-## NIEZWYKŁE TECHNIKI PAMIĘCI
-
-### **FAKT 13**: Sołżenicyn miał fotograficzną pamięć i zapamiętał opowieści więźniów podczas swojego pobytu w obozach.
-
-### **FAKT 14**: Wykorzystywał specjalnie wymyślony różaniec jako urządzenie mnemoniczne, dzięki któremu zapamiętał nie mniej niż 12 000 wersów poezji podczas pobytu w Specjalnym Obozie Pracy.
-
-### **FAKT 15**: Napisał swoją autobiograficzną powinść "Szlak" wykorzystując techniki, które później opisał w trzecim tomie "Archipelagu GUŁag".
-
-### **FAKT 16**: Sołżenicyn nazwał pamięć "torbą podróżną", w której człowiek zbiera to, co wie, szczególnie w odniesieniu do innych ludzi.
+### **FACT 6**: After his prison term ended in 1953, he was sent into permanent exile to the village of Kok-Terek in southeastern Kazakhstan, where he taught mathematics and physics.
 
 ---
 
-## ŚWIADKOWIE I ŹRÓDŁA
+## CREATIVE PROCESS AND CIRCUMSTANCES OF CREATION
 
-### **FAKT 17**: Książka oparta jest na zeznaniach 257 świadków - byłych więźniów obozów.
+### **FACT 7**: Solzhenitsyn began writing "The Gulag Archipelago" in 1958, working on it for 10 years until 1968.
 
-### **FAKT 18**: Sołżenicyn "podróżował szeroko i skrycie, odwiedzając przyjaciół z własnych lat w obozach", aby zbierać świadectwa.
+### **FACT 8**: He wrote a significant portion of the book by hand in a "hideaway" in Tartu, Estonia.
 
-### **FAKT 19**: W wydaniu z 2006 roku po raz pierwszy opublikowano nazwiska 257 świadków, którzy współtworzyli "Archipelag GUŁag".
+### **FACT 9**: Between 1965-1967, after materials were confiscated by the KGB in Moscow, he worked on transforming preliminary sketches into a finished typescript, hiding in friends' homes.
 
-### **FAKT 20**: Dzieło zostało skonstruowane z różnorodnych źródeł: raportów, wywiadów, oświadczeń, dzienników, dokumentów prawnych oraz własnego doświadczenia autora.
+### **FACT 10**: Due to the danger of a lengthy prison sentence for "anti-Soviet activities," Solzhenitsyn never worked on the complete manuscript simultaneously.
 
----
+### **FACT 11**: He hid fragments of the work in various locations in and around Moscow, entrusting them to trusted friends. Often during seemingly social visits, he was actually working on the manuscript.
 
-## UKRYWANIE MANUSKRYPTU - ESTONIA I ARNOLD SUSI
-
-### **FAKT 21**: W więzieniu Łubianka w 1945 roku Sołżenicyn zaprzyjaźnił się z Arnoldem Susi, prawnikiem i byłym estońskim ministrem edukacji, który został aresztowany po okupacji Estonii przez ZSRR w 1944.
-
-### **FAKT 22**: W 1963 roku obaj mężczyźni spotkali się ponownie w Estonii i Sołżenicyn ukrywał się w wiejskim domu Susi, pisząc "Archipelag GUŁag".
-
-### **FAKT 23**: Sołżenicyn powierzył Arnoldowi Susi oryginalny, przepisany i zredagowany manuskrypt gotowego dzieła, po wykonaniu kopii na papierze i mikrofilmie.
-
-### **FAKT 24**: Arnold Susi przekazał manuskrypt swojej córce Heli Susi, która ukrywała "kopię główną" przed KGB w Estonii aż do rozpadu Związku Sowieckiego w 1991 roku.
-
-### **FAKT 25**: Heli Susi ukrywała manuskrypty w różnych miejscach w Estonii: nad brzegami rzeki Ahja, w szafie na pościel u przyjaciela rodziny i w piwnicy domu w Tartu.
-
-### **FAKT 26**: Manuskrypt pozostawał ukryty w Estonii przez prawie 30 lat, od lat 60. do 1991 roku, pomimo aktywnego nadzoru i przeszukań KGB.
+### **FACT 12**: For a significant part of this period, he lived at the dacha of world-famous cellist Mstislav Rostropovich, where thanks to the musician's reputation, he was relatively safe from KGB searches.
 
 ---
 
-## TRAGEDIA ELIZAWETY WOROŃSKIEJ
+## EXTRAORDINARY MEMORY TECHNIQUES
 
-### **FAKT 27**: Elizaweta Denisowna Worońska (zm. wrzesień 1973) była maszynistką manuskryptu "Archipelagu GUŁag" i asystentką Sołżenicyna.
+### **FACT 13**: Solzhenitsyn had photographic memory and memorized prisoners' stories during his time in the camps.
 
-### **FAKT 28**: W 1973 roku KGB przejęło jedną z tylko trzech istniejących kopii tekstu pozostających na terytorium sowieckim poprzez torturowanie Worońskiej.
+### **FACT 14**: He used a specially designed rosary as a mnemonic device, through which he memorized no less than 12,000 lines of poetry during his stay in the Special Labor Camp.
 
-### **FAKT 29**: Władze torturowały Worońską przez pięć dni, zmuszając ją do ujawnienia lokalizacji manuskryptu.
+### **FACT 15**: He wrote his autobiographical novel "The Path" using techniques he later described in the third volume of "The Gulag Archipelago."
 
-### **FAKT 30**: W ciągu kilku dni po zwolnieniu przez KGB została znaleziona powieszona w klatce schodowej swojego mieszkania 3 sierpnia 1973 roku.
-
-### **PLOTKA 31**: Nieznane są szczegóły czy Worońska popełniła samobójstwo z poczucia winy za zdradę Sołżenicyna, czy została zamordowana przez KGB.
-
-### **FAKT 32**: Po dowiedzeniu się o śmierci Worońskiej Sołżenicyn zdecydował się na natychmiastową publikację dzieła w Paryżu.
+### **FACT 16**: Solzhenitsyn called memory a "traveling bag" in which a person collects what they know, particularly about other people.
 
 ---
 
-## PUBLIKACJA I PIERWSZE REAKCJE
+## WITNESSES AND SOURCES
 
-### **FAKT 33**: "Archipelag GUŁag" został opublikowany 28 grudnia 1973 roku przez paryskie wydawnictwo YMCA-Press (założone przez rosyjskich imigrantów).
+### **FACT 17**: The book is based on testimonies from 257 witnesses - former camp prisoners.
 
-### **FAKT 34**: Tłumaczenia na angielski i francuski ukazały się wiosną i latem 1974 roku.
+### **FACT 18**: Solzhenitsyn "traveled widely and secretly, visiting friends from his own years in the camps" to gather testimonies.
 
-### **FAKT 35**: Książka została natychmiast przetłumaczona na wiele języków - czasami w wyścigu z czasem.
+### **FACT 19**: The 2006 edition published for the first time the names of the 257 witnesses who helped create "The Gulag Archipelago."
 
-### **FAKT 36**: Dzieło sprzedało się w nakładzie ponad 30 milionów egzemplarzy w 35 językach.
-
-### **FAKT 37**: Oficjalna sowiecka agencja prasowa TASS ogłosiła, że dzieło to "bezpodstawne oszczerstwo" przeciwko narodowi rosyjskiemu.
-
-### **FAKT 38**: Redakcja Prawdy 14 stycznia 1974 roku oskarżyła Sołżenicyna o wspieranie "hitlerowców" i "usprawiedliwianie zbrodni gangów Własowa i Bandery".
+### **FACT 20**: The work was constructed from diverse sources: reports, interviews, statements, diaries, legal documents, and the author's own experience.
 
 ---
 
-## KONSEKWENCJE I WYGNANIE
+## HIDING THE MANUSCRIPT - ESTONIA AND ARNOLD SUSI
 
-### **FAKT 39**: 12 lutego 1974 roku Sołżenicyn został aresztowany i następnego dnia deportowany ze Związku Sowieckiego do Frankfurtu w Niemczech Zachodnich.
+### **FACT 21**: In Lubyanka prison in 1945, Solzhenitsyn befriended Arnold Susi, a lawyer and former Estonian minister of education who was arrested after the Soviet occupation of Estonia in 1944.
 
-### **FAKT 40**: Został pozbawiony obywatelstwa sowieckiego i oskarżony o zdradę stanu.
+### **FACT 22**: In 1963, both men met again in Estonia, and Solzhenitsyn hid in Susi's rural home, writing "The Gulag Archipelago."
 
-### **FAKT 41**: Sołżenicyn poświęcił książkę "wszystkim tym, którzy nie dożyli, aby o tym opowiedzieć".
+### **FACT 23**: Solzhenitsyn entrusted Arnold Susi with the original, rewritten and edited manuscript of the finished work, after making copies on paper and microfilm.
 
-### **FAKT 42**: Przychody ze sprzedaży przekazał Rosyjskiemu Funduszowi Społecznemu dla Prześladowanych Osób i Ich Rodzin.
+### **FACT 24**: Arnold Susi passed the manuscript to his daughter Heli Susi, who hid the "master copy" from the KGB in Estonia until the collapse of the Soviet Union in 1991.
 
----
+### **FACT 25**: Heli Susi hid the manuscripts in various locations throughout Estonia: along the banks of the Ahja River, in a linen closet at a family friend's house, and in a basement in Tartu.
 
-## WPŁYW NA ZIMNĄ WOJNĘ I RUCHY KOMUNISTYCZNE
-
-### **FAKT 43**: Książka była "częścią tego, co doprowadziło do końca eurokomunizmu i końca prosowieckich partii lewicowych w całej Europie".
-
-### **FAKT 44**: Miała szczególnie duży wpływ we Francji, gdzie "francuska lewica była nadal bardzo silna i nadal bardzo prosowiecka, a Francuska Partia Komunistyczna była nadal bardzo silna".
-
-### **FAKT 45**: Zniszczyła "wszelkie pozostałe iluzje, jakie wielu przedstawicieli europejskiej lewicy miało odnośnie Związku Sowieckiego".
-
-### **FAKT 46**: Według Isaiaha Berlina, książka pomogła "odwrócić bieg wydarzeń przeciwko Sowietom", a powieściopisarka Doris Lessing sugerowała, że książka "obaliła imperium".
+### **FACT 26**: The manuscript remained hidden in Estonia for nearly 30 years, from the 1960s to 1991, despite active KGB surveillance and searches.
 
 ---
 
-## STATYSTYKI I LICZBY Z KSIĘGI
+## THE TRAGEDY OF ELIZAVETA VORONIANSKAIA
 
-### **FAKT 47**: Sołżenicyn twierdził, że między 1928 a 1953 rokiem "około 40-50 milionów ludzi odsiadywało długie wyroki na Archipelagu".
+### **FACT 27**: Elizaveta Denisovna Voronianskaia (died September 1973) was the typist of "The Gulag Archipelago" manuscript and Solzhenitsyn's assistant.
 
-### **FAKT 48**: Obwiniał Stalina i system stalinowski za śmierć co najmniej 60 milionów ludzi: 20 milionów podczas przymusowej kolektywizacji, 20 milionów podczas II wojny światowej i 20 milionów w sowieckich obozach pracy.
+### **FACT 28**: In 1973, the KGB obtained one of only three existing copies of the text remaining on Soviet territory by torturing Voronianskaia.
 
-### **FAKT 49**: Późniejsze badania organizacji Memorial wykazały 1,6 miliona zgonów w obozach, a zachodni badacze szacują całkowitą liczbę zgonów w GUŁagu na 1,2-1,7 miliona w okresie 1918-1956.
+### **FACT 29**: Authorities tortured Voronianskaia for five days, forcing her to reveal the manuscript's location.
 
-### **FAKT 50**: Od 1929 do śmierci Stalina w 1953 roku około 18 milionów ludzi przeszło przez system obozowy, a kolejne 6 milionów zostało zesłanych.
+### **FACT 30**: Within days of her release by the KGB, she was found hanged in the stairwell of her apartment on August 3, 1973.
 
----
+### **RUMOR 31**: It remains unknown whether Voronianskaia committed suicide from guilt over betraying Solzhenitsyn or was murdered by the KGB.
 
-## UKRYTE SZCZEGÓŁY I CIEKAWOSTKI
-
-### **PLOTKA 51**: Nie istnieje żadne zdjęcie Elizawety Worońskiej w internecie, pozostawiając ją jako zapomnianą postać pomimo kluczowej roli w jednym z najważniejszych wydarzeń literackich i politycznych XX wieku.
-
-### **FAKT 52**: Sołżenicyn przeprosił w książce za powtórzenia, wyjaśniając, że nigdy nie mógł przeczytać całego manuskryptu - nigdy nie widział wszystkich swoich notatek w jednym miejscu.
-
-### **FAKT 53**: Późniejsza papierowa kopia, również wywieziona przemytem, została podpisana przez Heinricha Bölla na stopce każdej strony jako zabezpieczenie przed możliwymi oskarżeniami o sfałszowanie dzieła.
-
-### **FAKT 54**: Sołżenicyn nazwał system obozowy "archipelagiem" - krajem w kraju - składającym się z około 476 kompleksów obozowych obejmujących setki pojedynczych obozów.
-
-### **FAKT 55**: W szczytowym okresie sieć GUŁag obejmowała setki obozów pracy, w których przebywało od 2000 do 10000 osób każdy.
+### **FACT 32**: Upon learning of Voronianskaia's death, Solzhenitsyn decided on immediate publication of the work in Paris.
 
 ---
 
-*Ten dokument przedstawia fascynującą historię powstania jednego z najważniejszych dzieł XX wieku, które nie tylko ujawniło światu prawdę o sowieckich obozach, ale również odegrało kluczową rolę w upadku komunizmu w Europie.*
+## PUBLICATION AND FIRST REACTIONS
+
+### **FACT 33**: "The Gulag Archipelago" was published on December 28, 1973, by Paris-based YMCA-Press (founded by Russian immigrants).
+
+### **FACT 34**: English and French translations appeared in spring and summer 1974.
+
+### **FACT 35**: The book was immediately translated into many languages - sometimes in a race against time.
+
+### **FACT 36**: The work sold over 30 million copies in 35 languages.
+
+### **FACT 37**: The official Soviet news agency TASS declared the work "groundless slander" against the Russian people.
+
+### **FACT 38**: Pravda's editorial on January 14, 1974, accused Solzhenitsyn of supporting "Hitlerites" and "justifying the crimes of Vlasov and Bandera gangs."
+
+---
+
+## CONSEQUENCES AND EXILE
+
+### **FACT 39**: On February 12, 1974, Solzhenitsyn was arrested and deported from the Soviet Union to Frankfurt, West Germany the next day.
+
+### **FACT 40**: He was stripped of Soviet citizenship and charged with treason.
+
+### **FACT 41**: Solzhenitsyn dedicated the book "to all those who did not live to tell about it."
+
+### **FACT 42**: He donated the proceeds from sales to the Russian Social Fund for Persecuted Persons and Their Families.
+
+---
+
+## IMPACT ON THE COLD WAR AND COMMUNIST MOVEMENTS
+
+### **FACT 43**: The book was "part of what brought about the end of Eurocommunism and the end of pro-Soviet leftist parties throughout Europe."
+
+### **FACT 44**: It had particularly great impact in France, where "the French left was still very strong and still very pro-Soviet, and the French Communist Party was still very strong."
+
+### **FACT 45**: It destroyed "any remaining illusions that many representatives of the European left had about the Soviet Union."
+
+### **FACT 46**: According to Isaiah Berlin, the book helped "turn the tide against the Soviets," while novelist Doris Lessing suggested the book "brought down the empire."
+
+---
+
+## STATISTICS AND NUMBERS FROM THE BOOK
+
+### **FACT 47**: Solzhenitsyn claimed that between 1928 and 1953, "about 40-50 million people served long sentences on the Archipelago."
+
+### **FACT 48**: He blamed Stalin and the Stalinist system for the deaths of at least 60 million people: 20 million during forced collectivization, 20 million during World War II, and 20 million in Soviet labor camps.
+
+### **FACT 49**: Later research by the Memorial organization showed 1.6 million deaths in camps, while Western scholars estimate the total number of Gulag deaths at 1.2-1.7 million in the period 1918-1956.
+
+### **FACT 50**: From 1929 to Stalin's death in 1953, about 18 million people passed through the camp system, with another 6 million exiled.
+
+---
+
+## HIDDEN DETAILS AND CURIOSITIES
+
+### **RUMOR 51**: No photograph of Elizaveta Voronianskaia exists on the internet, leaving her as a forgotten figure despite her crucial role in one of the most important literary and political events of the 20th century.
+
+### **FACT 52**: Solzhenitsyn apologized in the book for repetitions, explaining that he could never read the entire manuscript - he never saw all his notes in one place.
+
+### **FACT 53**: A later paper copy, also smuggled out, was signed by Heinrich Böll at the bottom of each page as protection against possible accusations of forgery.
+
+### **FACT 54**: Solzhenitsyn called the camp system an "archipelago" - a country within a country - consisting of about 476 camp complexes encompassing hundreds of individual camps.
+
+### **FACT 55**: At its peak, the Gulag network included hundreds of labor camps, each holding 2,000 to 10,000 people.
+
+---
+
+*This document presents the fascinating history of the creation of one of the most important works of the 20th century, which not only revealed the truth about Soviet camps to the world but also played a crucial role in the fall of communism in Europe.*

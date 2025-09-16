@@ -1,162 +1,189 @@
-# Lokalny kontekst kulturowy: "Przemiana" Franza Kafki w Polsce
+# Local Cultural Context: Franz Kafka's "The Metamorphosis" in Poland
 
-## Historia publikacji i tłumaczeń w Polsce
+## Publication History and Translations in Poland
 
-### Pierwsze polskie wydania
-- **Juliusz Kydryński** - jeden z głównych polskich tłumaczy "Przemiany"
-- Wydania dostępne przez Polską Bibliotekę Internetową (edycja cyfrowa z 1915 roku, przygotowana przez Masterlab w 2013)
-- Współczesne wydania dostępne przez Legimi, PWN, Empik w formatach ebook i audiobook
-- Słynne polskie tłumaczenie pierwszego zdania: "Gdy Gregor Samsa obudził się pewnego rana z niespokojnych snów, stwierdził, że zmienił się w łóżku w potwornego robaka"
+### First Polish Editions
+- **Juliusz Kydryński** - one of the main Polish translators of "The Metamorphosis" (Polish title: "Przemiana")
+- Digital editions available through Polish Internet Library (1915 edition prepared by Masterlab in 2013)
+- Contemporary editions available through Legimi, PWN, Empik in ebook and audiobook formats
+- Famous Polish translation of the opening sentence: "Gdy Gregor Samsa obudził się pewnego rana z niespokojnych snów, stwierdził, że zmienił się w łóżku w potwornego robaka"
 
-### Problemy tłumaczeniowe
-- **Jakub Ekier** (tłumacz "Procesu") wskazuje, że niejednoznaczność jest konstytutywną cechą języka Kafki
-- Dwuznaczność tworząca problemy translatorskie stanowi charakterystyczną cechę prozy Kafki
-- Historia polskiego przekładu "Procesu" z 1936 roku autorstwa **Józefy Szelińskiej**, długo błędnie przypisywanego Bruno Schulzowi
+### Translation Challenges
+- **Jakub Ekier** (translator of "The Trial") points out that ambiguity is a constitutive feature of Kafka's language
+- The ambiguity creating translation problems is a characteristic feature of Kafka's prose
+- History of Polish translation of "The Trial" from 1936 by **Józefa Szelińska**, long incorrectly attributed to Bruno Schulz
 
-## Status w polskim szkolnictwie
+## Status in Polish Education
 
-### Obecna sytuacja w liceach
-- "Przemiana" **NIE** jest obecnie obowiązkową lekturą w polskich liceach
-- Fragmenty "Procesu" Kafki pojawiają się na liście lektur maturalnych
-- Nowa podstawa programowa 2024/2025 znacznie ograniczyła liczbę lektur obowiązkowych (z 41 do 34)
-- Usunięto ponad 20 pozycji z listy lektur obowiązkowych
+### Current Situation in High Schools
+- "The Metamorphosis" is **NOT** currently a mandatory reading in Polish high schools
+- Fragments of Kafka's "The Trial" appear on the list of required readings for final exams
+- New curriculum for 2024/2025 significantly reduced the number of mandatory readings (from 41 to 34)
+- Over 20 positions were removed from the mandatory reading list
 
-### Zmiany w edukacji
-- Tendencja do czytania klasyki w fragmentach zamiast w całości
-- Dzieła Kafki są obecne w polskim szkolnictwie, ale "Przemiana" specjalnie nie jest obowiązkowa
+### Changes in Education
+- Tendency to read classics in fragments rather than in their entirety
+- Kafka's works are present in Polish education, but "The Metamorphosis" specifically is not mandatory
 
-## Adaptacje teatralne w Polsce
+## Theatrical Adaptations in Poland
 
-### Współczesne produkcje teatralne
+### Contemporary Theater Productions
 
 #### Teatr Bez Sceny (2000)
-- **Reżyseria**: Jacek Bunsch
-- **Tłumaczenie**: Juliusz Kydryński
-- **Scenografia**: Jadwiga Mydlarska-Kowal (nagrodzona Złotą Maską 2000)
-- **Obsada**: Andrzej Dopierała (Gregor Samsa), Alina Chechelska (Matka), Anna Kadulska (Siostra), Jerzy Głybin (Ojciec)
+- **Director**: Jacek Bunsch
+- **Translation**: Juliusz Kydryński
+- **Set Design**: Jadwiga Mydlarska-Kowal (awarded Golden Mask 2000)
+- **Cast**: Andrzej Dopierała (Gregor Samsa), Alina Chechelska (Mother), Anna Kadulska (Sister), Jerzy Głybin (Father)
 
-#### Teatr Horzycy w Toruniu
-- **Reżyseria**: Oliver Frljić
-- **Scenografia i wideo**: Igor Pauška
-- **Kostiumy**: Morta Nakaitė
-- Spektakl eksplorował kiedy przestajemy rozpoznawać Innego jako człowieka
+#### Teatr Horzycy in Toruń
+- **Director**: Oliver Frljić
+- **Set Design and Video**: Igor Pauška
+- **Costumes**: Morta Nakaitė
+- Performance explored when we stop recognizing the Other as human
 
 #### Białostocki Teatr Lalek (BTL)
-- **Reżyseria**: Marcin Bikowski (Teatr Malabar Hotel)
-- **Obsada**: Agata Stasiulewicz, Maciej Zalewski, Magdalena Ołdziejewska
-- Interpretacja jako zmaganie z chorobą i depresją
+- **Director**: Marcin Bikowski (Teatr Malabar Hotel)
+- **Cast**: Agata Stasiulewicz, Maciej Zalewski, Magdalena Ołdziejewska
+- Interpretation as struggle with illness and depression
 
-#### Teatr Dramatyczny w Wałbrzychu (2024)
-- **Premiera**: 4 października 2024
-- **Reżyseria i scenografia**: Tadeusz Rybicki
-- **Wykonawca**: Rafał Kosowski (spektakl monodramowy)
+#### Teatr Dramatyczny in Wałbrzych (2024)
+- **Premiere**: October 4, 2024
+- **Director and Set Design**: Tadeusz Rybicki
+- **Performer**: Rafał Kosowski (monodrama)
 
 #### Wrocławski Teatr Współczesny (2024)
-- **Premiera**: 14 września 2024
-- **Reżyseria**: Michał Kmiecik
-- **Główna rola**: Mariusz Bąkowski
-- Akcja przeniesiona do groteskowego świata nowoczesnej korporacji
+- **Premiere**: September 14, 2024
+- **Director**: Michał Kmiecik
+- **Lead Role**: Mariusz Bąkowski
+- Action transferred to grotesque world of modern corporation
 
 #### Nowy Teatr
-- **Reżyserzy**: Jaremka i Górniak
-- Radykalna interpretacja jako antykapitalistyczny manifest
-- Bohater "musi uciec" z pracy i konsumpcji
+- **Directors**: Jaremka and Górniak
+- Radical interpretation as anti-capitalist manifesto
+- Character "must escape" from work and consumption
 
-### Tendencje interpretacyjne
-- **W Polsce**: tendencja do traktowania "Przemiany" jako teatru grozy
-- **W Czechach**: groteskowa interpretacja z miejscem na ironię i czarny humor
-- Kontynuowanie "linii nieposłuszeństwa" wobec Kafki, który uważał, że robak z "Przemiany" nigdy nie powinien być rysowany
+### Interpretative Tendencies
+- **In Poland**: tendency to treat "The Metamorphosis" as horror theater
+- **In Czech Republic**: grotesque interpretation with room for irony and black humor
+- Continuing "line of disobedience" toward Kafka, who believed the bug from "The Metamorphosis" should never be drawn
 
-## Adaptacje filmowe i telewizyjne
+## Film and Television Adaptations
 
-### Polskie realizacje filmowe
-- **Film "Przemiana" (2002)** - polska adaptacja filmowa
-- **Film "Przemiana" (1975)** - realizacja Jana Němca (czechosłowacka Nowa Fala)
-- Němec użył specjalnej pracy kamery, aby widzowie mogli doświadczyć tego, co czuł Gregor Samsa
+### Polish Film Realizations
+- **Film "Przemiana" (2002)** - Polish film adaptation
+- **Film "Przemiana" (1975)** - realization by Jan Němec (Czechoslovak New Wave)
+- Němec used special camera work so viewers could experience what Gregor Samsa felt
 
-### Telewizja
-- Program "Powidoki" TVP - odcinek poświęcony "Przemianie" Kafki
-- Dyskusja o historii Gregora Samsy, który budzi się przemieniony w potwornego robaka
+### Television
+- TVP program "Powidoki" - episode dedicated to Kafka's "The Metamorphosis"
+- Discussion about the story of Gregor Samsa who wakes up transformed into a monstrous bug
 
-## Recepcja akademicka w Polsce
+## Academic Reception in Poland
 
-### Badacze i krytycy
-- **Eugenia Prokopówna** - autorka artykułu "Kafka w Polsce międzywojennej" (Pamiętnik Literacki)
-- Znacząca recepcja Kafki po 1956 roku, różne strategie interpretacyjne w PRL
-- **Łukasz Musiał**: "Z jakiegoś powodu Kafka przekracza granice literatury we wszystkie możliwe strony. Wydaje się jak uniwersalny klucz do problemów, które przyniósł nam XX wiek"
+### Scholars and Critics
+- **Eugenia Prokopówna** - author of article "Kafka in Interwar Poland" (Pamiętnik Literacki)
+- Significant reception of Kafka after 1956, various interpretative strategies in communist Poland
+- **Łukasz Musiał**: "For some reason Kafka crosses the boundaries of literature in all possible directions. He seems like a universal key to problems that the 20th century brought us"
 
-### Interpretacje akademickie
-- **Krystian Lupa** - reżyser teatralny, jego inscenizacja "Procesu" zawierała komentarze polityczne
-- Krytycy zarzucali Lupie zbyt dalekie wchodzenie w polityczny publicysta i instrumentalizację powieści Kafki
-- Publikacja "Polskie dialogi z Franzem Kafką" (Kwartalnik Polonicum)
+### Academic Interpretations
+- **Krystian Lupa** - theater director, his staging of "The Trial" contained political commentary
+- Critics accused Lupa of going too far into political journalism and instrumentalizing Kafka's novel
+- Publication "Polish Dialogues with Franz Kafka" (Kwartalnik Polonicum)
 
-### Podejścia interpretacyjne
-- **Psychoanalityczne i deluzjańskie odczytania**: trudno dziś czerpać przyjemność z symbolicznych, alegorycznych lub psychoanalitycznych interpretacji
-- **Literatura mniejszościowa**: Kafka analizował sytuację niemieckojęzycznych pisarzy żydowskich jako życie między trzema niemożliwościami
-- Krytyka tradycyjnych interpretacji przez Deleuze'a i Guattariego
+### Interpretative Approaches
+- **Psychoanalytic and Deleuzian readings**: difficult today to derive pleasure from symbolic, allegorical or psychoanalytic interpretations
+- **Minor literature**: Kafka analyzed the situation of German-speaking Jewish writers as living between three impossibilities
+- Criticism of traditional interpretations by Deleuze and Guattari
 
-## Związki z polską literaturą
+## Connections with Polish Literature
 
-### Bruno Schulz i Kafka
-- Propozycje podjęcia schizoanalizy twórczości Bruno Schulza ze względu na liczne tropy literackie wspólne z Kafką
-- Oba autorów łączy tematyka przemiany, alienacji i groteski
+### Bruno Schulz and Kafka
+- Proposals to undertake schizoanalysis of Bruno Schulz's work due to numerous literary traces shared with Kafka
+- Both authors are connected by themes of transformation, alienation and grotesque
 
-### Wpływ na polskich twórców
-- **Zdzisław Beksiński** (malarz): "Myślę, że literatura miała o wiele większe znaczenie dla mojego malarstwa, zwłaszcza twórczość Franza Kafki, do którego nadal żywię wielki sentyment"
-- Kafka stał się jednym z najważniejszych i najbardziej inspirujących pisarzy dla wielu polskich twórców
+### Influence on Polish Creators
+- **Zdzisław Beksiński** (painter): "I think literature had much greater significance for my painting, especially Franz Kafka's work, for whom I still have great sentiment"
+- Kafka became one of the most important and inspiring writers for many Polish creators
 
-### Kafkaizm w kulturze polskiej
-- Pojęcia "kafka", "kafkowski styl", "kafkowska sytuacja" funkcjonują niezależnie w polskim języku
-- Model sytuacji zwanej "kafkowską" - absurdalne, uciążliwe i frustrujące sytuacje konflikt zniewolone jednostki z nadrzędną władzą
+### Kafkaism in Polish Culture
+- Concepts "kafka", "Kafkaesque style", "Kafkaesque situation" function independently in Polish language
+- Model of situation called "Kafkaesque" - absurd, burdensome and frustrating situations of conflict between enslaved individual and superior authority
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Kulturowe odniesienia
-- **Kafkowski tryptyk interpretacyjny** - polskie opracowania akademickie
-- Porównania Nabokova: Kafka jako "najwybitniejszy niemiecki pisarz naszych czasów"
-- **Nabokoviada** - cykl polskich interpretacji literatury światowej
+### Cultural References
+- **Kafkaesque interpretative triptych** - Polish academic studies
+- Nabokov's comparisons: Kafka as "the most outstanding German writer of our times"
+- **Nabokoviada** - cycle of Polish interpretations of world literature
 
-### Polskie cytaty i aforyzmy
-- Bogate zbiory cytatów z Kafki dostępne na polskich portalach literackich
-- Wikicytaty zawierają polskie przekłady najważniejszych myśli Kafki
-- "Kafkaesque" jako pojęcie kulturowe w polskim dyskursie
+### Polish Quotes and Aphorisms
+- Rich collections of Kafka quotes available on Polish literary portals
+- Wikiquote contains Polish translations of Kafka's most important thoughts
+- "Kafkaesque" as cultural concept in Polish discourse
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specifics
 
-### Czytelnicze społeczności
-- Aktywność na portalach Lubimyczytać.pl z ocenami i recenzjami
-- Bookstagramowe konta poświęcone literaturze klasycznej
-- Kluby czytelnicze w bibliotekach dyskutujące "Przemianę"
+### Reading Communities
+- Activity on Lubimyczytać.pl portal with ratings and reviews
+- Bookstagram accounts dedicated to classical literature
+- Reading clubs in libraries discussing "The Metamorphosis"
 
-### Współczesne interpretacje
-- **Machina Myśli** - blog interpretujący "Przemianę" przez pryzmat psychoanalizy
-- Literackie blogi analizujące dzieło w kontekście współczesności
-- Porównania z kulturą pop i meme'ami internetowymi
+### Contemporary Interpretations
+- **Machina Myśli** - blog interpreting "The Metamorphosis" through psychoanalytic lens
+- Literary blogs analyzing the work in contemporary context
+- Comparisons with pop culture and internet memes
 
-## Różnice kulturowe w interpretacji
+## Cultural Differences in Interpretation
 
-### Specyfika polska vs. inne kraje
-- **W Polsce**: większy nacisk na aspekty polityczne i społeczne transformacji
-- **Różnica z Czechami**: mniej ironii, bardziej poważne podejście do tekstu
-- **Kontekst historyczny**: doświadczenie PRL wpływa na interpretację opresyjnych systemów w dziele Kafki
+### Polish Specifics vs. Other Countries
+- **In Poland**: greater emphasis on political and social aspects of transformation
+- **Difference from Czech Republic**: less irony, more serious approach to text
+- **Historical context**: experience of communist era influences interpretation of oppressive systems in Kafka's work
 
-### Współczesne czytania
-- **Korporacyjna interpretacja**: Wrocławski Teatr Współczesny przenosi akcję do świata nowoczesnej korporacji
-- **Antykapitalistyczne odczytania**: Nowy Teatr jako manifest przeciwko konsumpcji
-- **Psychologiczne podejścia**: BTL interpretuje jako zmaganie z depresją i chorobą psychiczną
+### Contemporary Readings
+- **Corporate interpretation**: Wrocławski Teatr Współczesny transfers action to world of modern corporation
+- **Anti-capitalist readings**: Nowy Teatr as manifesto against consumption
+- **Psychological approaches**: BTL interprets as struggle with depression and mental illness
 
-## Wpływ na polską kulturę popularną
+## Influence on Polish Popular Culture
 
-### Język i słownictwo
-- "Kafkowski" jako przymiotnik w codziennym użyciu
-- "Przemiana" jako metafora w mediach i publicystyce
-- Nawiązania w polskiej literaturze fantastycznej i science fiction
+### Language and Vocabulary
+- "Kafkaesque" as adjective in everyday use
+- "Transformation" as metaphor in media and journalism
+- References in Polish fantasy and science fiction literature
 
-### Edukacyjne aspekty
-- Wykorzystanie w edukacji filozoficznej i psychologicznej
-- Przykład absurdu i alienacji w programach studiów humanistycznych
-- Punkt odniesienia dla dyskusji o kondycji człowieka w nowoczesności
+### Educational Aspects
+- Use in philosophical and psychological education
+- Example of absurd and alienation in humanities study programs
+- Reference point for discussions about human condition in modernity
+
+## Notable Polish Translators and Scholars
+
+### Key Figures
+- **Juliusz Kydryński** - primary translator of "The Metamorphosis"
+- **Józefa Szelińska** - translator of "The Trial" (1936)
+- **Jakub Ekier** - contemporary Kafka scholar and translator
+- **Krystian Lupa** - influential theater director interpreting Kafka
+
+### Academic Contributions
+- Research on Kafka's reception during interwar period
+- Studies on translation challenges specific to Polish language
+- Analysis of political interpretations during communist era
+- Contemporary postmodern and psychoanalytic approaches
+
+## Regional Context: Kraków and Lesser Poland
+
+### Local Connections
+- Academic conferences on Kafka at Jagiellonian University
+- Kraków's international literary festivals featuring Kafka discussions
+- Connection to Central European literary tradition
+- Local theater scene's interpretation of existential themes
+
+### Cultural Resonance
+- Polish experience of historical transformations resonates with Kafka's themes
+- Connection between individual alienation and political oppression
+- Relevance to post-1989 social and economic transformation
 
 ---
 
-*Opracowanie: 37degrees Research Agent | Lokalny kontekst kulturowy książki w Polsce*
+*Research compiled by: 37degrees Research Agent | Local Cultural Context of Books in Poland*

@@ -1,240 +1,240 @@
-# Ocena Content Warnings: "Słońce też wschodzi" (1926) Ernest Hemingway
+# Content Warnings Assessment: "The Sun Also Rises" (1926) by Ernest Hemingway
 
-**Książka**: "The Sun Also Rises" / "Słońce też wschodzi"  
-**Autor**: Ernest Hemingway  
-**Rok**: 1926  
-**Data oceny**: 2025-08-27  
-**Oceniający**: Agent specjalistyczny ds. content warnings  
-
----
-
-## EXECUTIVE SUMMARY - ZALECENIA GŁÓWNE
-
-### OGÓLNA KLASYFIKACJA WIEKOWA
-- **YouTube**: 16+ (wymaga age-restriction)
-- **TikTok**: 18+ (wysoki risk dla monetization)  
-- **Facebook/Instagram**: 18+ (BARDZO WYSOKIE RYZYKO)
-- **Spotify**: 16+ (relatywnie bezpieczny)
-- **Kick**: 13+ (najmniej restrykcyjna platforma)
-
-### STATUS KOŃCOWY
-**🔴 WYSOKIE RYZYKO** dla Meta platforms (Facebook/Instagram)  
-**🟡 ŚREDNIE RYZYKO** dla YouTube i TikTok  
-**🟢 NISKIE RYZYKO** dla Spotify i Kick  
+**Book**: "The Sun Also Rises"
+**Author**: Ernest Hemingway
+**Year**: 1926
+**Assessment Date**: 2025-09-16
+**Assessor**: Content Warnings Specialist Agent
 
 ---
 
-## PROBLEMATYCZNE TREŚCI - SZCZEGÓŁOWA ANALIZA
+## EXECUTIVE SUMMARY - PRIMARY RECOMMENDATIONS
 
-### 🚩 KATEGORIA: Dyskryminacja i Hate Speech
+### OVERALL AGE CLASSIFICATION
+- **YouTube**: 16+ (requires age-restriction)
+- **TikTok**: 18+ (high risk for monetization)
+- **Facebook/Instagram**: 18+ (VERY HIGH RISK)
+- **Spotify**: 16+ (relatively safe)
+- **Kick**: 13+ (least restrictive platform)
 
-#### Problem: Antysemityzm w powieści
-**Źródło**: au-research_dark_drama.md - "Książka została oskarżona o antysemityzm z powodu przedstawienia Roberta Cohna"
+### FINAL STATUS
+**🔴 HIGH RISK** for Meta platforms (Facebook/Instagram)
+**🟡 MODERATE RISK** for YouTube and TikTok
+**🟢 LOW RISK** for Spotify and Kick
 
-**Konkretne przykłady**:
-- Hemingway konsekwentnie przedstawia Cohna jako nieprzyjemnego "bo jest Żydem"
-- Częste obelgi i żydowskie epitety używane przez innych bohaterów
-- Mike nie jest zły na Brett za romans, ale za romans z Żydem
-- Hemingway był antysemitą (potwierdzone w listach z obelżywymi komentarzami o Żydach)
+---
+
+## PROBLEMATIC CONTENT - DETAILED ANALYSIS
+
+### 🚩 CATEGORY: Discrimination and Hate Speech
+
+#### Problem: Antisemitism in the Novel
+**Source**: au-research_dark_drama.md - "The book was accused of antisemitism due to portrayal of Robert Cohn"
+
+**Specific Examples**:
+- Hemingway consistently presents Cohn as unpleasant "because he is Jewish"
+- Novel contains frequent slurs and Jewish epithets used by other characters
+- Mike is not angry at Brett for affair, but for affair with a Jew
+- Hemingway was antisemitic (confirmed in his letters with derogatory comments about Jews)
 
 **Platform Risk Assessment**:
-- **Facebook/Instagram**: 🔴 **BARDZO WYSOKIE RYZYKO** - nowe liberalne zasady hate speech nie usprawiedliwiają historical antisemitism
-- **YouTube**: 🟡 **ŚREDNIE RYZYKO** - educational framing może chronić, ale wymaga careful handling
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - heavy moderation może karać nawet educational content
-- **Spotify**: 🟢 **NISKIE RYZYKO** - educational discussion acceptable
-- **Kick**: 🟢 **NISKIE RYZYKO** - most creator-friendly platform
+- **Facebook/Instagram**: 🔴 **VERY HIGH RISK** - new liberalized hate speech policies don't excuse historical antisemitism
+- **YouTube**: 🟡 **MODERATE RISK** - educational framing may protect, but requires careful handling
+- **TikTok**: 🟡 **MODERATE RISK** - heavy moderation may penalize even educational content
+- **Spotify**: 🟢 **LOW RISK** - educational discussion acceptable
+- **Kick**: 🟢 **LOW RISK** - most creator-friendly platform
 
 ---
 
-### 🚩 KATEGORIA: Treści Seksualne
+### 🚩 CATEGORY: Sexual Content
 
-#### Problem: Impotencja i dysfunction seksualne
-**Źródło**: au-research_symbols_meanings.md - "Impotencja Jake'a Barnes symbolicznie reprezentowała emaskulację całego pokolenia"
+#### Problem: Impotence and Sexual Dysfunction
+**Source**: au-research_symbols_meanings.md - "Jake Barnes' impotence symbolically represented emasculation of entire generation"
 
-**Konkretne treści**:
-- Jake Barnes jest impotentem z powodu rany wojennej
-- Niemożność konsumacji związku z Brett Ashley
-- Symbolika seksualna w opisach corridy
-- Prostytucja w powieści (zgodnie z dark_drama research)
+**Specific Content**:
+- Jake Barnes is impotent due to war wound
+- Inability to consummate relationship with Brett Ashley
+- Sexual symbolism in bullfighting descriptions
+- Prostitution references in novel (according to dark_drama research)
 
 **Platform Risk Assessment**:
-- **Facebook/Instagram**: 🟡 **ŚREDNIE RYZYKO** - educational context may protect
-- **YouTube**: 🟢 **NISKIE RYZYKO** - adult topics z educational framing acceptable
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - depends on explicit nature of discussion
-- **Spotify**: 🟢 **NISKIE RYZYKO** - audio format less problematic
-- **Kick**: 🟢 **NISKIE RYZYKO** - adult content z educational context allowed
+- **Facebook/Instagram**: 🟡 **MODERATE RISK** - educational context may protect
+- **YouTube**: 🟢 **LOW RISK** - adult topics with educational framing acceptable
+- **TikTok**: 🟡 **MODERATE RISK** - depends on explicit nature of discussion
+- **Spotify**: 🟢 **LOW RISK** - audio format less problematic
+- **Kick**: 🟢 **LOW RISK** - adult content with educational context allowed
 
 ---
 
-### 🚩 KATEGORIA: Substancje i Uzależnienia
+### 🚩 CATEGORY: Substances and Addiction
 
-#### Problem: Gloryfikacja alkoholizmu
-**Źródło**: au-research_dark_drama.md + au-research_reality_wisdom.md
+#### Problem: Glorification of Alcoholism
+**Source**: au-research_dark_drama.md + au-research_youth_digital.md
 
-**Konkretne treści**:
-- Hemingway był alkoholikiem podczas pisania książki
-- Wszechobecne picie jako samoleczenie traumy
-- Przedstawienie nadużywania alkoholu w czasie prohibicji w sposób gloryfikujący
-- Alkohol jako ucieczka od problemów psychicznych
+**Specific Content**:
+- Hemingway was alcoholic while writing the book
+- Pervasive drinking as self-medication for trauma
+- Portrayal of alcohol abuse during Prohibition in glorifying manner
+- Alcohol as escape from psychological problems
 
 **Platform Risk Assessment**:
-- **Facebook/Instagram**: 🟡 **ŚREDNIE RYZYKO** - educational discussion o addiction może być OK
-- **YouTube**: 🟢 **NISKIE RYZYKO** - educational content o historical substance use acceptable
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - careful framing required to avoid promoting drinking
-- **Spotify**: 🟢 **NISKIE RYZYKO** - audio discussion about literature safe
-- **Kick**: 🟢 **NISKIE RYZYKO** - least restrictive platform
+- **Facebook/Instagram**: 🟡 **MODERATE RISK** - educational discussion about addiction may be OK
+- **YouTube**: 🟢 **LOW RISK** - educational content about historical substance use acceptable
+- **TikTok**: 🟡 **MODERATE RISK** - careful framing required to avoid promoting drinking
+- **Spotify**: 🟢 **LOW RISK** - audio discussion about literature safe
+- **Kick**: 🟢 **LOW RISK** - least restrictive platform
 
 ---
 
-### 🚩 KATEGORIA: Problemy Zdrowia Psychicznego
+### 🚩 CATEGORY: Mental Health Issues
 
-#### Problem: Nieléčený PTSD i trauma wojenna
-**Źródło**: au-research_youth_digital.md + au-research_reality_wisdom.md
+#### Problem: Untreated PTSD and War Trauma
+**Source**: au-research_youth_digital.md + au-research_symbols_meanings.md
 
-**Konkretne treści**:
-- Jake Barnes - nieleczony PTSD from WWI
-- Trauma wojenna wpływająca na całe życie
-- Kryzys męskości i emaskulacja
-- Toxic relationship patterns wynikające z traumy
+**Specific Content**:
+- Jake Barnes - untreated PTSD from WWI
+- War trauma affecting entire life
+- Masculinity crisis and emasculation
+- Toxic relationship patterns resulting from trauma
 
 **Platform Risk Assessment**:
-- **Facebook/Instagram**: 🟢 **NISKIE RYZYKO** - mental health content encouraged
-- **YouTube**: 🟢 **NISKIE RYZYKO** - educational content o trauma helpful
-- **TikTok**: 🟢 **NISKIE RYZYKO** - mental health content gets engagement
-- **Spotify**: 🟢 **NISKIE RYZYKO** - audio discussions about trauma safe
-- **Kick**: 🟢 **NISKIE RYZYKO** - supportive content welcome
+- **Facebook/Instagram**: 🟢 **LOW RISK** - mental health content encouraged
+- **YouTube**: 🟢 **LOW RISK** - educational content about trauma helpful
+- **TikTok**: 🟢 **LOW RISK** - mental health content gets engagement
+- **Spotify**: 🟢 **LOW RISK** - audio discussions about trauma safe
+- **Kick**: 🟢 **LOW RISK** - supportive content welcome
 
 ---
 
-### 🚩 KATEGORIA: Biograficzne Kontrowersje Autora
+### 🚩 CATEGORY: Author's Biographical Controversies
 
-#### Problem: Temne sekrety życia Hemingwaya
-**Źródło**: au-research_dark_drama.md - sekcja "Skandale Osobiste Autora"
+#### Problem: Dark Secrets of Hemingway's Life
+**Source**: au-research_dark_drama.md - "Author's Personal Scandals" section
 
-**Konkretne treści**:
-- Cztery małżeństwa i seryjne zdrady
-- Alkoholizm i autodestrukcja
-- Choroba psychiczna i samobójstwo
-- FBI surveillance i teoria spiskowe
-- Związki ze szpiegostwem
+**Specific Content**:
+- Four marriages and serial infidelity
+- Alcoholism and self-destruction
+- Mental illness and suicide
+- FBI surveillance and conspiracy theories
+- Connections to espionage
 
 **Platform Risk Assessment**:
-- **Facebook/Instagram**: 🟡 **ŚREDNIE RYZYKO** - biographical content usually OK
-- **YouTube**: 🟢 **NISKIE RYZYKO** - documentary-style content encouraged
-- **TikTok**: 🟡 **ŚREDNIE RYZYKO** - conspiracy theories may be flagged
-- **Spotify**: 🟢 **NISKIE RYZYKO** - biographical podcasts popular
-- **Kick**: 🟢 **NISKIE RYZYKO** - least restrictions on controversial topics
+- **Facebook/Instagram**: 🟡 **MODERATE RISK** - biographical content usually OK
+- **YouTube**: 🟢 **LOW RISK** - documentary-style content encouraged
+- **TikTok**: 🟡 **MODERATE RISK** - conspiracy theories may be flagged
+- **Spotify**: 🟢 **LOW RISK** - biographical podcasts popular
+- **Kick**: 🟢 **LOW RISK** - least restrictions on controversial topics
 
 ---
 
-## MATRIX: PROBLEMATYCZNE TREŚCI vs PLATFORMY
+## MATRIX: PROBLEMATIC CONTENT vs PLATFORMS
 
-| Problematyczna Treść | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
+| Problematic Content | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
 |---------------------|-------------------|---------|---------|---------|------|
-| **Antysemityzm w powieści** | 🔴 AGE-RESTRICT 18+ | 🟡 EDIT/CONTEXT | 🟡 EDIT/CONTEXT | 🟢 OK | 🟢 OK |
-| **Impotencja/seksualność** | 🟡 AGE-RESTRICT 16+ | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
-| **Gloryfikacja alkoholu** | 🟡 EDIT/WARNING | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
-| **PTSD/trauma wojenna** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
-| **Skandale biograficzne** | 🟡 EDIT/CONTEXT | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
+| **Antisemitism in novel** | 🔴 AGE-RESTRICT 18+ | 🟡 EDIT/CONTEXT | 🟡 EDIT/CONTEXT | 🟢 OK | 🟢 OK |
+| **Impotence/sexuality** | 🟡 AGE-RESTRICT 16+ | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
+| **Glorification of alcohol** | 🟡 EDIT/WARNING | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
+| **PTSD/war trauma** | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
+| **Biographical scandals** | 🟡 EDIT/CONTEXT | 🟢 OK | 🟡 EDIT/FRAME | 🟢 OK | 🟢 OK |
 | **Toxic masculinity** | 🔴 AGE-RESTRICT 18+ | 🟢 OK | 🟢 OK | 🟢 OK | 🟢 OK |
 | **Depression/suicide** | 🟡 WARNING NEEDED | 🟢 OK | 🟡 WARNING NEEDED | 🟢 OK | 🟢 OK |
 
-**LEGENDA**:
-- 🔴 AGE-RESTRICT/OMIT - Wysokie ryzyko, wymagane ograniczenia wiekowe lub pominięcie
-- 🟡 EDIT/CONTEXT - Średnie ryzyko, wymaga edycji lub dodatkowego kontekstu
-- 🟢 OK - Niskie ryzyko, akceptowalne z educational framing
+**LEGEND**:
+- 🔴 AGE-RESTRICT/OMIT - High risk, requires age restrictions or omission
+- 🟡 EDIT/CONTEXT - Moderate risk, requires editing or additional context
+- 🟢 OK - Low risk, acceptable with educational framing
 
 ---
 
-## REKOMENDACJE DLA POSZCZEGÓLNYCH PLATFORM
+## PLATFORM-SPECIFIC RECOMMENDATIONS
 
-### 🔴 FACEBOOK/INSTAGRAM - BARDZO WYSOKIE RYZYKO
+### 🔴 FACEBOOK/INSTAGRAM - VERY HIGH RISK
 
-#### Główne zagrożenia 2025:
-- Nowe liberalne zasady hate speech mogą być nieprzewidywalne
-- Community Notes system może flagować educational content
-- Unpredictable moderation dla educational content
+#### Main Threats 2025:
+- New liberalized hate speech policies may be unpredictable
+- Community Notes system may flag educational content
+- Unpredictable moderation for educational content
 
-#### Konkretne rekomendacje:
-1. **UNIKAJ całkowicie** dyskusji o antysemityzmie w książce
-2. **DODAJ CONTENT WARNING** na początku każdego posta
-3. **FOKUS NA**: pozytywne aspekty literatury (pisarstwo, historia)
-4. **UNIKAJ**: biografii Hemingwaya, kontrowersyjnych interpretacji
-5. **AGE-RESTRICT**: całą zawartość do 18+
-6. **ALTERNATYWNE PODEJŚCIE**: skupić się na wpływie kulturowym i innowacjach pisarskich
+#### Specific Recommendations:
+1. **COMPLETELY AVOID** discussing antisemitism in the book
+2. **ADD CONTENT WARNING** at beginning of every post
+3. **FOCUS ON**: positive aspects of literature (writing, history)
+4. **AVOID**: Hemingway's biography, controversial interpretations
+5. **AGE-RESTRICT**: all content to 18+
+6. **ALTERNATIVE APPROACH**: focus on cultural impact and writing innovations
 
-#### Sample content warning:
-> "Zawartość edukacyjna o literaturze klasycznej. Może zawierać dyskusję o tematach historycznych wymagających dojrzałego podejścia. 18+"
+#### Sample Content Warning:
+> "Educational content about classic literature. May contain discussion of historical themes requiring mature approach. 18+"
 
 ---
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO Z OPTYMIZMEM
+### 🟡 YOUTUBE - MODERATE RISK WITH OPTIMISM
 
-#### Zalety platformy:
+#### Platform Advantages:
 - Educational content encouraged
-- Long-form pozwala na kontekst
-- Human narration requirement pasuje do book content
+- Long-form allows for context
+- Human narration requirement fits book content
 
-#### Konkretne rekomendacje:
-1. **UŻYWAJ human narration** - nie text-to-speech
+#### Specific Recommendations:
+1. **USE HUMAN NARRATION** - not text-to-speech
 2. **EDUCATIONAL FRAMING** - "literary analysis", "historical context"
-3. **CONTENT WARNINGS**: na początku video o sensitive topics
-4. **FOKUS NA**: writing innovation, cultural impact, literary analysis
-5. **MINIMIZE**: biografia Hemingwaya, skupić się na dziele
-6. **DŁUGOŚĆ**: 5+ minut dla better monetization
-7. **ORIGINAL COMMENTARY**: dominujący nad quotations
+3. **CONTENT WARNINGS**: at beginning of videos about sensitive topics
+4. **FOCUS ON**: writing innovation, cultural impact, literary analysis
+5. **MINIMIZE**: Hemingway's biography, focus on the work
+6. **LENGTH**: 5+ minutes for better monetization
+7. **ORIGINAL COMMENTARY**: dominant over quotations
 
-#### Sample video structure:
+#### Sample Video Structure:
 ```
-0:00-0:15 - Content warning i wprowadzenie
-0:15-2:00 - Kontekst historyczny (I wojna światowa, Lost Generation)
-2:00-4:00 - Analiza literacka (technical innovations, style)
+0:00-0:15 - Content warning and introduction
+0:15-2:00 - Historical context (WWI, Lost Generation)
+2:00-4:00 - Literary analysis (technical innovations, style)
 4:00-5:30 - Contemporary relevance (mental health, modern parallels)
-5:30-6:00 - Podsumowanie i zachęta do czytania
+5:30-6:00 - Summary and reading encouragement
 ```
 
 ---
 
-### 🟡 TIKTOK - WYSOKIE RYZYKO MONETIZATION
+### 🟡 TIKTOK - HIGH MONETIZATION RISK
 
-#### Główne wyzwania:
-- Tylko 1+ minute videos monetized
-- 70% rejection rate w Creator Rewards Program
-- Heavy moderation może karać nawet educational content
+#### Main Challenges:
+- Only 1+ minute videos monetized
+- 70% rejection rate in Creator Rewards Program
+- Heavy moderation may penalize even educational content
 
-#### Konkretne rekomendacje:
-1. **MINIMUM 1 minuta** dla monetization
-2. **ORIGINAL CONTENT ONLY** - nie duets/stitches
+#### Specific Recommendations:
+1. **MINIMUM 1 MINUTE** for monetization
+2. **ORIGINAL CONTENT ONLY** - no duets/stitches
 3. **EDUCATIONAL HASHTAGS**: #BookTok #Literature #Education
-4. **AVOID**: conspiracy theories o FBI surveillance
+4. **AVOID**: conspiracy theories about FBI surveillance
 5. **FOCUS ON**: mental health parallels, Gen Z connections
-6. **CLEAR LABELING**: jeśli używasz AI tools
-7. **MULTIPLE PARTS**: seria krótkich educational videos
+6. **CLEAR LABELING**: if using AI tools
+7. **MULTIPLE PARTS**: series of short educational videos
 
-#### Winning content ideas:
+#### Winning Content Ideas:
 - "Why Gen Z relates to Lost Generation" (1 min)
-- "Jake Barnes i modern toxic masculinity" (1.5 min)
+- "Jake Barnes and modern toxic masculinity" (1.5 min)
 - "5 things Hemingway predicted about dating culture" (2 min)
 - "Paris 1920s vs Digital Nomads 2025" (1.5 min)
 
 ---
 
-### 🟢 SPOTIFY - NISKIE RYZYKO, WYSOKIE POTENTIAL
+### 🟢 SPOTIFY - LOW RISK, HIGH POTENTIAL
 
-#### Zalety platformy:
-- Audio format mniej problematyczny
+#### Platform Advantages:
+- Audio format less problematic
 - Educational podcasts encouraged
 - Creator-friendly revenue model
 
-#### Konkretne rekomendacje:
-1. **VIDEO FORMAT** dla maximum revenue
+#### Specific Recommendations:
+1. **VIDEO FORMAT** for maximum revenue
 2. **EPISODIC SERIES**: "Classic Literature for Modern Minds"
 3. **GUEST CONVERSATIONS**: literary scholars, mental health experts
-4. **PROPER MUSIC LICENSING** - use royalty-free lub licensed music
+4. **PROPER MUSIC LICENSING** - use royalty-free or licensed music
 5. **STRATEGIC AD BREAKS** - minimum 1 for revenue
 6. **CROSS-PLATFORM PROMOTION** - use other platforms to drive Spotify traffic
 
-#### Series structure idea:
+#### Series Structure Idea:
 ```
 Episode 1: "Lost Generation meets Gen Z" (25 min)
 Episode 2: "Hemingway's Writing Revolution" (30 min)
@@ -245,22 +245,22 @@ Episode 5: "From Paris 1925 to TikTok 2025" (32 min)
 
 ---
 
-### 🟢 KICK - NAJNIŻSZE RYZYKO, NAJWIĘKSZA SWOBODA
+### 🟢 KICK - LOWEST RISK, GREATEST FREEDOM
 
-#### Zalety platformy:
-- 95/5 revenue split (najlepszy w branży)
+#### Platform Advantages:
+- 95/5 revenue split (best in industry)
 - Least restrictive content policies
 - Context-based moderation decisions
 
-#### Konkretne rekomendacje:
+#### Specific Recommendations:
 1. **INTERACTIVE BOOK DISCUSSIONS** - leverage chat engagement
-2. **READING SESSIONS** - wspólne czytanie fragmentów
+2. **READING SESSIONS** - collaborative reading of excerpts
 3. **Q&A STREAMS** - community-driven content
-4. **CONTROVERSIAL TOPICS OK** - z educational context
+4. **CONTROVERSIAL TOPICS OK** - with educational context
 5. **BUILD COMMUNITY** - Kick values community building
-6. **CONSISTENT STREAMING** - dążyć do 100 concurrent viewers for KCIP
+6. **CONSISTENT STREAMING** - aim for 100 concurrent viewers for KCIP
 
-#### Stream ideas:
+#### Stream Ideas:
 - "Reading Hemingway and discussing mental health"
 - "Lost Generation vs Modern Youth - interactive discussion"
 - "Problematic authors: can we separate art from artist?"
@@ -268,19 +268,19 @@ Episode 5: "From Paris 1925 to TikTok 2025" (32 min)
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### ⚠️ UNIWERSALNE OSTRZEŻENIA (dla wszystkich platform):
+### ⚠️ UNIVERSAL WARNINGS (for all platforms):
 
-1. **MENTAL HEALTH**: "Treść zawiera dyskusję o traumie wojennej, depresji i myślach samobójczych. Jeśli doświadczasz problemów z zdrowiem psychicznym, skonsultuj się ze specjalistą."
+1. **MENTAL HEALTH**: "Content contains discussion of war trauma, depression, and suicidal thoughts. If you experience mental health issues, please consult a specialist."
 
-2. **HISTORICAL DISCRIMINATION**: "Książka została napisana w 1926 roku i zawiera language i attitudes charakterystyczne dla tamtej epoki, włączając antisemitic elements. Omawiamy te elementy w kontekście historycznym i krytycznym."
+2. **HISTORICAL DISCRIMINATION**: "This book was written in 1926 and contains language and attitudes characteristic of that era, including antisemitic elements. We discuss these elements in historical and critical context."
 
-3. **SUBSTANCE USE**: "Zawartość odnosi się do historical context używek jako coping mechanism. Nie promujemy żadnych substancji jako rozwiązania problemów osobistych."
+3. **SUBSTANCE USE**: "Content refers to historical context of substance use as coping mechanism. We do not promote any substances as solutions to personal problems."
 
-4. **MATURE THEMES**: "Dyskusja zawiera mature themes including sexual dysfunction, toxic relationships i violence. Adresowana do dojrzałej publiczności."
+4. **MATURE THEMES**: "Discussion contains mature themes including sexual dysfunction, toxic relationships, and violence. Addressed to mature audience."
 
-### 📋 CONTENT WARNINGS SPECYFICZNE DLA PLATFORM:
+### 📋 PLATFORM-SPECIFIC CONTENT WARNINGS:
 
 #### Facebook/Instagram:
 > "⚠️ CONTENT WARNING: Educational discussion about classic literature containing historical discriminatory language and mature themes. Intended for educational purposes only. Age 18+. If sensitive to discussions of antisemitism, war trauma, or mental health issues, please use discretion. #EducationalContent #LiteraryAnalysis"
@@ -299,59 +299,59 @@ Episode 5: "From Paris 1925 to TikTok 2025" (32 min)
 
 ---
 
-## EDUCATION-FRIENDLY SPOSOBY OMÓWIENIA TRUDNYCH TEMATÓW
+## EDUCATION-FRIENDLY APPROACHES TO DIFFICULT TOPICS
 
-### 1. ANTYSEMITYZM W KSIĄŻCE
+### 1. ANTISEMITISM IN THE BOOK
 
-#### ❌ UNIKAJ:
-- Negowania problemu
-- "To były inne czasy" jako usprawiedliwienie
-- Omawiania bez kontekstu
+#### ❌ AVOID:
+- Denying the problem
+- "It was a different time" as justification
+- Discussing without context
 
-#### ✅ ZALECANE PODEJŚCIE:
+#### ✅ RECOMMENDED APPROACH:
 > "Hemingway's portrayal of Robert Cohn reflects the antisemitic attitudes prevalent in 1920s American expatriate circles. Today we recognize these depictions as harmful stereotypes. Studying these elements helps us understand both the historical period and the progress made in combating discrimination. This serves as a reminder why diverse voices in literature are essential."
 
-### 2. TRAUMA WOJENNA I MENTAL HEALTH
+### 2. WAR TRAUMA AND MENTAL HEALTH
 
-#### ❌ UNIKAJ:
-- Romantyzowania cierpienia
-- Przedstawiania alkoholu jako rozwiązania
+#### ❌ AVOID:
+- Romanticizing suffering
+- Presenting alcohol as solution
 
-#### ✅ ZALECANE PODEJŚCIE:
+#### ✅ RECOMMENDED APPROACH:
 > "Jake Barnes represents millions of WWI veterans who returned with invisible wounds we now recognize as PTSD. Hemingway's portrayal, while lacking modern therapeutic understanding, captures the isolation and struggle of unaddressed trauma. Today we have better support systems for veterans and trauma survivors, showing the importance of mental health awareness and professional help."
 
 ### 3. TOXIC RELATIONSHIPS
 
-#### ❌ UNIKAJ:
-- Gloryfikowania toxic dynamics
-- Przedstawiania jako romantycznych
+#### ❌ AVOID:
+- Glorifying toxic dynamics
+- Presenting as romantic
 
-#### ✅ ZALECANE PODEJŚCIE:
+#### ✅ RECOMMENDED APPROACH:
 > "The relationship between Jake and Brett demonstrates unhealthy patterns we now recognize as codependency and emotional unavailability. While tragic in the novel, these dynamics serve as a case study in what to avoid in real relationships. Understanding these patterns helps us recognize the importance of healthy communication, boundaries, and mutual respect in relationships."
 
-### 4. SUBSTANCJE JAKO COPING MECHANISM
+### 4. SUBSTANCES AS COPING MECHANISM
 
-#### ❌ UNIKAJ:
-- Gloryfikowania drinking culture
-- Ignorowania addiction issues
+#### ❌ AVOID:
+- Glorifying drinking culture
+- Ignoring addiction issues
 
-#### ✅ ZALECANE PODEJŚCIE:
+#### ✅ RECOMMENDED APPROACH:
 > "The characters' reliance on alcohol reflects the limited understanding of mental health treatment in the 1920s. Today we recognize that substances as coping mechanisms often worsen underlying issues. The book serves as a historical document showing why modern therapy, support systems, and healthy coping strategies are so important."
 
 ---
 
-## OBSZARY WYMAGAJĄCE SZCZEGÓLNEJ OSTROŻNOŚCI
+## AREAS REQUIRING SPECIAL CAUTION
 
-### 🚨 NAJWYŻSZA OSTROŻNOŚĆ WYMAGANA:
+### 🚨 HIGHEST CAUTION REQUIRED:
 
-1. **FBI SURVEILLANCE I CONSPIRACY THEORIES**
-   - Może być flagowane jako misinformation
-   - Wymaga solid sources i historical context
-   - Unikaj sensationalizing
+1. **FBI SURVEILLANCE AND CONSPIRACY THEORIES**
+   - May be flagged as misinformation
+   - Requires solid sources and historical context
+   - Avoid sensationalizing
 
 2. **HEMINGWAY'S SUICIDE**
-   - Trigger warning zawsze required
-   - Focus na mental health awareness
+   - Trigger warning always required
+   - Focus on mental health awareness
    - Provide crisis resources
 
 3. **ANTISEMITIC PORTRAYALS**
@@ -383,25 +383,25 @@ Episode 5: "From Paris 1925 to TikTok 2025" (32 min)
 
 ---
 
-## COMPLIANCE CHECKLIST KOŃCOWA
+## FINAL COMPLIANCE CHECKLIST
 
-### ✅ PRZED PUBLIKACJĄ - SPRAWDŹ:
+### ✅ BEFORE PUBLICATION - CHECK:
 
-#### Uniwersalne Requirements:
-- [ ] **Content warning** na początku każdej publikacji
-- [ ] **Educational framing** jasno established
+#### Universal Requirements:
+- [ ] **Content warning** at beginning of every publication
+- [ ] **Educational framing** clearly established
 - [ ] **Age rating** clearly specified
 - [ ] **No glorification** of harmful behaviors
 - [ ] **Historical context** provided for problematic elements
 - [ ] **Modern parallels** drawn constructively
-- [ ] **Resources provided** dla mental health support
+- [ ] **Resources provided** for mental health support
 
 #### Platform-Specific Checklist:
 
 ##### Facebook/Instagram:
 - [ ] Age restriction 18+ applied
 - [ ] Controversial topics minimized or omitted
-- [ ] Focus na positive aspects
+- [ ] Focus on positive aspects
 - [ ] Clear educational disclaimer
 - [ ] No political interpretations
 
@@ -437,29 +437,29 @@ Episode 5: "From Paris 1925 to TikTok 2025" (32 min)
 
 ## FINAL RISK ASSESSMENT SUMMARY
 
-### PLATFORM RANKINGS (najbezpieczniejszy do najbardziej ryzykownego):
+### PLATFORM RANKINGS (safest to most risky):
 
-1. **🥇 KICK** - Najmniejsze ryzyko, największa swoboda, najlepsze revenue terms
-2. **🥈 SPOTIFY** - Bardzo niskie ryzyko, dobre monetization, audio format advantage
-3. **🥉 YOUTUBE** - Moderate risk ale manageable, educational content encouraged
-4. **🏃‍♂️ TIKTOK** - High monetization risk, heavy moderation, ale możliwe z careful approach
+1. **🥇 KICK** - Lowest risk, greatest freedom, best revenue terms
+2. **🥈 SPOTIFY** - Very low risk, good monetization, audio format advantage
+3. **🥉 YOUTUBE** - Moderate risk but manageable, educational content encouraged
+4. **🏃‍♂️ TIKTOK** - High monetization risk, heavy moderation, but possible with careful approach
 5. **⚠️ FACEBOOK/INSTAGRAM** - Highest risk, unpredictable moderation, avoid controversial topics
 
-### OGÓLNE WNIOSKI:
+### GENERAL CONCLUSIONS:
 
-**"The Sun Also Rises" może być successfully presented na wszystkich platformach**, ale requires different approaches:
+**"The Sun Also Rises" can be successfully presented on all platforms**, but requires different approaches:
 
-- **High-risk platforms** (Meta): Focus na positive aspects, avoid controversy
+- **High-risk platforms** (Meta): Focus on positive aspects, avoid controversy
 - **Medium-risk platforms** (YouTube/TikTok): Educational framing, proper warnings
 - **Low-risk platforms** (Spotify/Kick): Fuller discussion possible, better monetization
 
-**Kluczowy sukces factor**: **Educational framing** i **proper content warnings** pozwolą na responsible presentation tych important themes while maintaining platform compliance i audience safety.
+**Key success factor**: **Educational framing** and **proper content warnings** will allow responsible presentation of these important themes while maintaining platform compliance and audience safety.
 
-Książka zawiera valuable lessons o mental health, relationships, i social change - z proper handling może be powerful educational resource dla współczesnej młodzieży bez compromising platform safety or creator revenue.
+The book contains valuable lessons about mental health, relationships, and social change - with proper handling it can be a powerful educational resource for contemporary youth without compromising platform safety or creator revenue.
 
 ---
 
-**DOKUMENT PRZYGOTOWANY PRZEZ**: Agent specjalistyczny ds. oceny treści  
-**OSTATNIA AKTUALIZACJA**: 2025-08-27  
-**STATUS**: Kompletny - gotowy do implementacji  
-**NASTĘPNY PRZEGLĄD**: Po 6 miesiącach lub przy zmianie platform policies
+**DOCUMENT PREPARED BY**: Content Warnings Specialist Agent
+**LAST UPDATE**: 2025-09-16
+**STATUS**: Complete - ready for implementation
+**NEXT REVIEW**: After 6 months or upon platform policy changes

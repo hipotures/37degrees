@@ -4,3 +4,174 @@ book_info:
   author: "J.D. Salinger"
   year: 1951
   genre: "Novel,Bildungsroman"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T12:00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 7
+    total: 60
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 7.8
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_assassination"
+        type: "FACT"
+        credibility: 0.95
+        content: "Connected to Mark David Chapman (John Lennon), John Hinckley Jr. (Reagan), Robert John Bardo (Rebecca Schaeffer) murders"
+        source: "dark_drama"
+      - id: "symbols_catcher_metaphor"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Holden's misremembered lyrics from Robert Burns create powerful metaphor for protecting childhood innocence"
+        source: "symbols_meanings"
+      - id: "culture_most_censored"
+        type: "FACT"
+        credibility: 0.95
+        content: "Most censored book 1961-1982, banned in 70+ communities, simultaneously most taught book"
+        source: "culture_impact"
+      - id: "youth_gen_z_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "42% Gen Z depression rate mirrors Holden's mental health crisis, 'phoniness' equals social media inauthenticity"
+        source: "youth_digital"
+      - id: "reality_prophecy_confirmed"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Prophetic about youth alienation in social media era, materialism rise, educational system problems"
+        source: "reality_wisdom"
+      - id: "innovation_teenage_voice"
+        type: "FACT"
+        credibility: 0.95
+        content: "First authentic teenage narrative voice in literature, created template for YA genre"
+        source: "writing_innovation"
+      - id: "facts_war_trauma_connection"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Salinger's WWII trauma and Dachau liberation experience directly influenced Holden's PTSD symptoms"
+        source: "facts_history"
+      - id: "warnings_mental_health"
+        type: "FACT"
+        credibility: 0.9
+        content: "Early portrayal of teenage depression and PTSD, now educational tool for mental health awareness"
+        source: "content_warnings_assessment"
+
+    localized:
+      en:
+        cultural_impact: "Archetypal teenage rebel in American literature, influenced Beat Generation and 1960s counterculture"
+        key_editions: ["Little, Brown and Company (1951)", "Back Bay Books (2001)", "Penguin Books (1994)"]
+        reception_notes: "Simultaneously most censored and most taught book in American schools"
+        educational_status: "Standard curriculum in high school English classes"
+        local_themes: ["Post-war American alienation", "Elite prep school culture critique", "New York City as literary landscape"]
+      pl:
+        cultural_impact: "Symbol of youth rebellion during communist era, passed censorship despite controversial themes"
+        key_editions: ["Iskry (1961, Maria Skibniewska translation)", "Later edition (Magdalena Slysz translation)"]
+        reception_notes: "Resonated with Polish youth frustrated by authoritarian system"
+        educational_status: "Assigned reading in Polish high schools"
+        local_themes: ["Authenticity vs. conformity in communist society", "Critique of rigid educational structures", "Universal teenage alienation"]
+      de:
+        cultural_impact: "Connects to German philosophical traditions of alienation and authenticity"
+        key_editions: ["Reclam editions", "Various scholarly editions"]
+        reception_notes: "Strong academic tradition of analysis"
+        educational_status: "Studied in German universities"
+        local_themes: ["Existential philosophy connections", "Post-war youth disillusionment", "Authenticity concepts"]
+      fr:
+        cultural_impact: "Part of American literature studies, compared to French existentialist works"
+        key_editions: ["French translations available"]
+        reception_notes: "Academic interest in narrative techniques"
+        educational_status: "University-level American literature courses"
+        local_themes: ["Existentialist parallels", "Coming-of-age traditions", "Social alienation themes"]
+      es:
+        cultural_impact: "Influential in Spanish-speaking countries as universal coming-of-age story"
+        key_editions: ["Various Spanish translations"]
+        reception_notes: "Popular among young readers"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Universal adolescent struggles", "Social class critique", "Family relationships"]
+      pt:
+        cultural_impact: "Resonates in Portuguese-speaking countries with themes of alienation"
+        key_editions: ["Portuguese and Brazilian editions"]
+        reception_notes: "Literary merit recognized"
+        educational_status: "Advanced literature courses"
+        local_themes: ["Youth rebellion themes", "Mental health awareness", "Social criticism"]
+      ja:
+        cultural_impact: "Connected to 'hikikomori' phenomenon - social withdrawal of Japanese youth"
+        key_editions: ["Japanese translations available"]
+        reception_notes: "Relevant to contemporary Japanese social issues"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Social withdrawal parallels", "Educational pressure critique", "Authenticity in Japanese culture"]
+      ko:
+        cultural_impact: "Relevant to Korean youth facing academic pressure and social expectations"
+        key_editions: ["Korean translations"]
+        reception_notes: "Connects to Korean educational stress"
+        educational_status: "University literature programs"
+        local_themes: ["Academic pressure critique", "Generational conflicts", "Social conformity issues"]
+      hi:
+        cultural_impact: "Universal themes of alienation resonate across cultural boundaries"
+        key_editions: ["Hindi translations available"]
+        reception_notes: "Part of world literature studies"
+        educational_status: "Comparative literature courses"
+        local_themes: ["Universal coming-of-age struggles", "Social expectations pressure", "Family relationships"]
+
+  formats:
+    emotional_perspective:
+      name: "emotional_perspective"
+      duration: 14
+      hosts:
+        host_a: "emotional reader sharing feelings"
+        host_b: "analytical critic explaining techniques"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "first_impressions"
+          lead: "host_a"
+          description: "Emotional impact of Holden's voice and initial alienation"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "deep_emotions"
+          lead: "host_b"
+          description: "Analyzing depression, trauma from Allie's death, PTSD symptoms"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "technique_analysis"
+          lead: "host_a"
+          description: "How Salinger creates emotional authenticity through narrative voice"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "contemporary_connection"
+          lead: "host_b"
+          description: "Gen Z mental health parallels and modern relevance"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "lasting_impact"
+          lead: "host_a"
+          description: "Why the emotional core still resonates decades later"
+      prompts:
+        host_a: "You are {male_name}, sharing emotional response to 'The Catcher in the Rye'. Discuss personal impact, moments that moved you, feelings evoked by Holden's depression and alienation."
+        host_b: "You are {female_name}, an analytical critic. Explain how 'The Catcher in the Rye' creates emotions through technique, stream of consciousness, and authentic teenage voice."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["mental health discussion", "depression themes", "historical violence references", "mature psychological content"]
+    educational_elements: ["Mental health awareness", "1950s American context", "Coming-of-age literature", "Narrative technique analysis"]
+    production_notes:
+      intro_style: "Melancholic but compassionate, acknowledging the book's emotional weight"
+      transitions: "Gentle musical bridges reflecting psychological depth"
+      outro_style: "Thoughtful conclusion emphasizing hope and understanding"
+
+  overall_confidence: 0.86

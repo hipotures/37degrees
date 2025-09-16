@@ -1,22 +1,14 @@
 {
   "counts": {
-    "academic_analysis": 11,
-    "critical_debate": 7,
+    "academic_analysis": 13,
+    "critical_debate": 10,
     "temporal_context": 7,
-    "cultural_dimension": 7,
-    "social_perspective": 6,
-    "emotional_perspective": 1,
-    "exploratory_dialogue": 0,
-    "narrative_reconstruction": 0
+    "cultural_dimension": 9,
+    "social_perspective": 10,
+    "emotional_perspective": 6,
+    "exploratory_dialogue": 3,
+    "narrative_reconstruction": 9,
+    "selected_format": 2
   },
-  "books_since_last": {
-    "academic_analysis": 1,
-    "critical_debate": 6,
-    "temporal_context": 3,
-    "cultural_dimension": 0,
-    "social_perspective": 7,
-    "emotional_perspective": 17,
-    "exploratory_dialogue": 39,
-    "narrative_reconstruction": 39
-  }
+  "books_since_last": {}
 }

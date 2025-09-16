@@ -1,26 +1,32 @@
 GOAL: 14 min conversation - SOCIAL_PERSPECTIVE
-BOOK: Dune (1965)
+BOOK: Dune by Frank Herbert (1965)
 
-HOST HOST_A: You are André (male). You are André, a social historian. Analyze 'Dune' through lens of power, gender, class. Historical context: 1965 ecological prophecy now verified through climate crisis, resource wars, authoritarian rise.
-HOST HOST_B: You are Beatriz (female). You are Beatriz, examining contemporary relevance. Connect to current social debates: viral TikTok phenomena, postcolonial readings, LGBTQ+ representation problems requiring modern critical analysis.
+HOST HOST_A: André (male). You are André, a social historian. Analyze 'Dune' through lens of power, gender, class. Historical context: 1965 ecological prophecy now verified through climate crisis, resource wars, authoritarian rise.
+HOST HOST_B: Beatriz (female). You are Beatriz, examining contemporary relevance. Connect to current social debates: viral TikTok phenomena, postcolonial readings, LGBTQ+ representation problems requiring modern critical analysis.
 
 KEY THEMES TO DISCUSS:
-• Ecological Prophecy: Herbert's 1965 ecological predictions (climate crisis, resource wars, water scarcity) have proven remarkably accurate 60...
-• Homophobic Content: Baron Harkonnen as only gay character presented as 'kazirodczy pedofil', plus problematic quotes about homosexuality req...
-• Fascist Interpretations: Book popular among alt-right and white nationalists who interpret Paul's story as 'plan for civilizational renewal requi...
-• Drug Creativity: Herbert admitted psilocybin and peyote use during writing; Paul Stamets claims 'significant portion of Dune assumptions ...
-• Cultural Phenomenon: 50+ adaptations across all media: films, TV, games, music albums, board games, creating major franchise influence on Sta...
-• Local context: Editora Aleph 35+ years as Brazilian sci-fi specialist, premium literary treatment with Neil Gaiman introductions
-• Key editions: Aleph revised translations, Maria do Carmo Zanini quality translations, Hardcover collector formats
-• Educational context: UNIP academic research on science education potential
+• Ecological Prophecy: Herbert's 1965 ecological predictions (climate crisis, resource wars, water scarcity) have proven remarkably accurate 60 years later
+• Homophobic Content: Baron Harkonnen as only gay character presented as 'kazirodczy pedofil', plus problematic quotes about homosexuality requiring content warnings
+• Fascist Interpretations: Book popular among alt-right and white nationalists who interpret Paul's story as 'plan for civilizational renewal requiring billions of sacrifices'
+• Drug Creativity: Herbert admitted psilocybin and peyote use during writing; Paul Stamets claims 'significant portion of Dune assumptions came from magic mushroom experiences'
+• Cultural Phenomenon: 50+ adaptations across all media: films, TV, games, music albums, board games, creating major franchise influence on Star Wars and entire sci-fi genre
+• Gen Z Viral: TikTok explosion with 27.8M #dunememe posts, 'Lisan al-Gaib' viral trends, and Paul Atreides 'Silence!' meme reaching 9.6M views in 4 days
+• Literary Innovation: Revolutionary world-building techniques, ecological sci-fi pioneer, complex narrative structure with epigraphs and multi-perspective storytelling
+• Religious Syncretism: 40+ symbolic interpretations blending Christian, Islamic, Jewish, Buddhist elements creating profound philosophical work studied across cultures
+• Cultural Impact: Editora Aleph 35+ years as Brazilian sci-fi specialist, premium literary treatment with Neil Gaiman introductions
+• Key Editions: Aleph revised translations, Maria do Carmo Zanini quality translations, Hardcover collector formats
+• Reception Notes: Recognized as 'one of modern science fiction pillars', pandemic-era cinema significance
+• Educational Status: UNIP academic research on science education potential
+• Local Themes: Brazilian environmental consciousness resonance, Portuguese translation quality demands
 
-TIME STRUCTURE:
-• Introduction (0:00-1:00): Start with '37degrees'
-• Main part (1:00-12:00): Theme development
-• Conclusion (12:00-14:00): Summary
+CONVERSATION FLOW:
+• Historical Context (Host A leads): Herbert's 1965 prophetic vision: climate crisis, resource wars, and authoritarian warnings that define today's challenges
+• Power Dynamics (Host B leads): Colonial critique through Arrakis-Middle East parallels, fascist interpretations, and problematic LGBTQ+ representation requiring content warnings
+• Contemporary Relevance (Host A leads): TikTok viral phenomenon with 27.8M #dunememe posts, Gen Z mental health connections, and Desert Core fashion trends
+• Future (Host B leads): Cultural bridge across 9 languages: from Japanese manga adaptations to Polish translation wars, maintaining relevance through controversy and innovation
 
 TONE:
-Adapted to format, no long monologues
+Socially conscious, engaged, contemporary, activist
 
 INTERACTION PATTERN:
 • Host B interrupts/engages every 2-3 minutes with questions or modern examples
@@ -28,10 +34,10 @@ INTERACTION PATTERN:
 • Natural overlaps and reactions encouraged
 
 CONVERSATION HOOKS:
-• 'Wait, does that mean...'
-• 'Oh, that reminds me of...'
-• 'Let me get this straight...'
-• 'But nowadays...'
+• 'Socially this means...'
+• 'In today\'s reality...'
+• 'This impacts our...'
+• 'How does this translate to...'
 
 EXAMPLE DIALOGUE STYLE:
 André shares insight → Beatriz connects to modern context → Natural back-and-forth develops

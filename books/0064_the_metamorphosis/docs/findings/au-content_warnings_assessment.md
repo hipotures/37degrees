@@ -1,135 +1,135 @@
-# Ocena Content Warnings i Platform Compliance: "Przemiana" Franza Kafki (1915)
+# Content Warnings and Platform Compliance Assessment: "The Metamorphosis" by Franz Kafka (1915)
 
-**Książka**: Przemiana (The Metamorphosis)  
-**Autor**: Franz Kafka (1883-1924)  
-**Agent**: 37degrees Content Warning Assessor  
-**Data oceny**: 28 sierpnia 2025  
-**Wytyczne platforms**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick (stan na sierpień 2025)
+**Book**: The Metamorphosis
+**Author**: Franz Kafka (1883-1924)
+**Agent**: 37degrees Content Warning Assessor
+**Assessment Date**: September 16, 2025
+**Platform Guidelines**: Facebook, YouTube, Instagram, TikTok, Spotify, Kick (as of Q3 2025)
 
 ---
 
-## EXECUTIVE SUMMARY - ASSESSMENT COMPLIANCE
+## EXECUTIVE SUMMARY - COMPLIANCE ASSESSMENT
 
-### 🎯 OGÓLNA KLASSIFIKACJA WIEKOWA
-- **REKOMENDOWANA**: **16+** (wszystkie platformy)
-- **MINIMALNA WYMAGANA**: **13+** (z content warnings)
-- **ADULT-ONLY?**: **NIE** (ale wymaga kontekstu edukacyjnego)
+### 🎯 OVERALL AGE CLASSIFICATION
+- **RECOMMENDED**: **16+** (all platforms)
+- **MINIMUM REQUIRED**: **13+** (with content warnings)
+- **ADULT-ONLY?**: **NO** (but requires educational context)
 
 ### 📊 PLATFORM RISK MATRIX
 
-| PLATFORMA | RISK LEVEL | MONETIZATION | CONTENT RESTRICTIONS |
+| PLATFORM | RISK LEVEL | MONETIZATION | CONTENT RESTRICTIONS |
 |-----------|------------|--------------|---------------------|
-| **Facebook** | 🔴 **WYSOKIE** | Średnie | Unpredictable moderation, hate speech changes |
-| **Instagram** | 🔴 **WYSOKIE** | Średnie | Same ToS as Facebook, visual content issues |
-| **YouTube** | 🟡 **ŚREDNIE** | Wysokie | Human narration REQUIRED, educational framing |
-| **TikTok** | 🟡 **ŚREDNIE** | Wysokie (1+ min) | Long-form only monetization, strict compliance |
-| **Spotify** | 🟢 **NISKIE** | Wysokie | Creator-friendly, educational content safe |
-| **Kick** | 🟢 **NISKIE** | Najwyższe | Najlepsze revenue splits, minimal restrictions |
+| **Facebook** | 🔴 **HIGH** | Medium | Unpredictable moderation, hate speech changes |
+| **Instagram** | 🔴 **HIGH** | Medium | Same ToS as Facebook, visual content issues |
+| **YouTube** | 🟡 **MEDIUM** | High | Human narration REQUIRED, educational framing |
+| **TikTok** | 🟡 **MEDIUM** | High (1+ min) | Long-form only monetization, strict compliance |
+| **Spotify** | 🟢 **LOW** | High | Creator-friendly, educational content safe |
+| **Kick** | 🟢 **LOW** | Highest | Best revenue splits, minimal restrictions |
 
 ---
 
-## CZĘŚĆ I: ANALIZA PROBLEMATYCZNYCH TREŚCI
+## PART I: ANALYSIS OF PROBLEMATIC CONTENT
 
-Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obszary wymagające szczególnej uwagi:
+Based on analysis of 8 research documents, the following areas require special attention:
 
-### 🚨 KATEGORIA A: CONTENT WYMAGAJĄCY SZCZEGÓLNEJ OSTROŻNOŚCI
+### 🚨 CATEGORY A: CONTENT REQUIRING SPECIAL CAUTION
 
-#### A1. Problemy Zdrowia Psychicznego i Samobójstwo
-**ŹRÓDŁO**: Dokumenty "au-research_dark_drama.md" i "au-research_reality_wisdom.md"
+#### A1. Mental Health Issues and Suicide Risk
+**SOURCE**: Documents "au-research_dark_drama.md" and "au-research_reality_wisdom.md"
 
-**PROBLEMATYCZNE TREŚCI**:
-- Kafka's dokumentowane myśli samobójcze i depresja
-- Opis gruźlicy jako "psychosomatycznej manifestacji choroby psychicznej"
-- Gregor's śmierć jako możliwą interpretację samobójstwa przez zaniedbanie
-- Cytaty: "zabij mnie albo jesteś mordercą" (prośba Kafki o śmiertelną dawkę opium)
+**PROBLEMATIC CONTENT**:
+- Kafka's documented suicidal thoughts and depression
+- Description of tuberculosis as "psychosomatic manifestation of mental illness"
+- Gregor's death as possible interpretation of suicide by neglect
+- Quotes: "kill me or you are a murderer" (Kafka's request for lethal opium dose)
 
 **PLATFORM-SPECIFIC WARNINGS**:
-- **Facebook/Instagram**: 🔴 **HIGH RISK** - nowe liberalne podejście może nie ochronić przed content promoting self-harm
-- **YouTube**: 🟡 **MEDIUM RISK** - wymaga educational framing i mental health resources
-- **TikTok**: 🟡 **MEDIUM RISK** - strict compliance z mental health guidelines
-- **Spotify/Kick**: 🟢 **LOW RISK** - educational context generalnie acceptowany
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - new liberal approach may not protect against content promoting self-harm
+- **YouTube**: 🟡 **MEDIUM RISK** - requires educational framing and mental health resources
+- **TikTok**: 🟡 **MEDIUM RISK** - strict compliance with mental health guidelines
+- **Spotify/Kick**: 🟢 **LOW RISK** - educational context generally accepted
 
 **MITIGATION STRATEGY**:
-- Zawsze umieszczać disclaimer o mental health resources
-- Podkreślać historical context (1915 vs 2025)
-- Używać educational framing, nie sensational
-- Włączać positive messages o recovery possibilities
+- Always include disclaimer about mental health resources
+- Emphasize historical context (1915 vs 2025)
+- Use educational framing, not sensational
+- Include positive messages about recovery possibilities
 
-#### A2. Dysforia Ciała i Transformacje Tożsamościowe
-**ŹRÓDŁO**: "au-research_youth_digital.md" i "au-research_symbols_meanings.md"
+#### A2. Body Dysphoria and Identity Transformation
+**SOURCE**: "au-research_youth_digital.md" and "au-research_symbols_meanings.md"
 
-**POTENCJALNE WRAŻLIWE TEMATY**:
-- Gregor's body dysphoria - poczucie obcości we własnym ciele
-- Trans community używa #metamorphosis (10.8M postów) do opisywania transformacji
-- Interpretacje LGBTQ+ "Przemiany" jako coming out story
-- Odrzucenie rodzinne jako parallel do LGBTQ+ experiences
+**POTENTIALLY SENSITIVE TOPICS**:
+- Gregor's body dysphoria - feeling alien in his own body
+- Trans community uses #metamorphosis (10.8M posts) to describe transformation
+- LGBTQ+ interpretations of "Metamorphosis" as coming out story
+- Family rejection as parallel to LGBTQ+ experiences
 
 **PLATFORM COMPLIANCE**:
-- **Facebook/Instagram**: 🔴 **HIGH RISK** - nowe ToS dozwalają "it" pronouns dla trans osób
-- **YouTube**: 🟢 **SAFE** - educational LGBTQ+ content generalnie protected
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - new ToS allows "it" pronouns for trans people
+- **YouTube**: 🟢 **SAFE** - educational LGBTQ+ content generally protected
 - **TikTok**: 🟢 **SAFE** - strong LGBTQ+ community support
-- **Spotify/Kick**: 🟢 **SAFE** - minimal restrictions na educational content
+- **Spotify/Kick**: 🟢 **SAFE** - minimal restrictions on educational content
 
 **RECOMMENDED APPROACH**:
-- Frame jako literary analysis, nie political statement
-- Podkreślać universal themes transformacji i acceptance
-- Avoid politicizing content - focus na human stories
-- Include diverse perspectives w educational manner
+- Frame as literary analysis, not political statement
+- Emphasize universal themes of transformation and acceptance
+- Avoid politicizing content - focus on human stories
+- Include diverse perspectives in educational manner
 
-#### A3. Rodzinna Przemoc i Toksyczne Relacje
-**ŹRÓDŁO**: "au-research_dark_drama.md" i "au-research_facts_history.md"
+#### A3. Family Violence and Toxic Relationships
+**SOURCE**: "au-research_dark_drama.md" and "au-research_facts_history.md"
 
-**PROBLEMATYCZNE ELEMENTY**:
-- Ojciec bombardujący Gregora jabłkami (physical violence)
-- Emotional abandonment i odrzucenie przez rodzinę
-- Economic exploitation (Gregor jako sole breadwinner)
-- Hermann Kafka's documented emotional abuse własnego syna
+**PROBLEMATIC ELEMENTS**:
+- Father bombarding Gregor with apples (physical violence)
+- Emotional abandonment and rejection by family
+- Economic exploitation (Gregor as sole breadwinner)
+- Hermann Kafka's documented emotional abuse of his own son
 
 **PLATFORM WARNINGS**:
-- **Wszystkie platformy**: Wymaga careful handling domestic violence themes
-- **Szczególnie TikTok**: 27.3M postów #RaisedByNarcissists pokazuje sensitivity tego topic
-- **Educational approach**: Focus na learning from literature, nie glorification
+- **All platforms**: Requires careful handling of domestic violence themes
+- **Especially TikTok**: 27.3M posts #RaisedByNarcissists shows sensitivity of this topic
+- **Educational approach**: Focus on learning from literature, not glorification
 
 **CONTENT STRATEGY**:
 - Always provide context about healthy relationships
-- Include resources dla victims of family abuse
-- Frame jako cautionary tale, nie instruction manual
-- Emphasize character growth i healing possibilities
+- Include resources for victims of family abuse
+- Frame as cautionary tale, not instruction manual
+- Emphasize character growth and healing possibilities
 
-### 🟡 KATEGORIA B: CONTENT WYMAGAJĄCY KONTEKSTU
+### 🟡 CATEGORY B: CONTENT REQUIRING CONTEXT
 
-#### B1. Kontrowersje Historyczne i Biograficzne
-**ŹRÓDŁO**: "au-research_dark_drama.md"
+#### B1. Historical Controversies and Biographical Issues
+**SOURCE**: "au-research_dark_drama.md"
 
 **POTENTIALLY SENSITIVE**:
-- Max Brod's "betrayal" - publikowanie against Kafka's wishes
-- Alleged homosexual content censorship przez Broda
-- Nazi book burning i persecution of Jewish authors
-- Kafka's obsession z prostitution i sexual problems
+- Max Brod's "betrayal" - publishing against Kafka's wishes
+- Alleged homosexual content censorship by Brod
+- Nazi book burning and persecution of Jewish authors
+- Kafka's obsession with prostitution and sexual problems
 
 **PLATFORM STRATEGY**:
-- Treat jako historical academic discussion
+- Treat as historical academic discussion
 - Avoid sensationalizing controversial aspects
-- Focus na literary value over personal scandals
+- Focus on literary value over personal scandals
 - Provide balanced historical context
 
-#### B2. Biurokratyczne Systemy i Krityka Społeczna
-**ŹRÓDŁO**: "au-research_culture_impact.md" i "au-research_reality_wisdom.md"
+#### B2. Bureaucratic Systems and Social Criticism
+**SOURCE**: "au-research_culture_impact.md" and "au-research_reality_wisdom.md"
 
 **POTENTIAL POLITICAL SENSITIVITY**:
-- Krityka kapitalistycznej pracy (bardzo relevant dla Gen Z anti-work movement)
-- Bureaucratic horror jako criticism of government systems
+- Criticism of capitalist work (very relevant to Gen Z anti-work movement)
+- Bureaucratic horror as criticism of government systems
 - Economic determinism themes
 
 **RECOMMENDED FRAMING**:
-- Focus na universal human experiences
+- Focus on universal human experiences
 - Avoid current political parallels
 - Emphasize literary historical context
-- Present jako thoughtful discussion, nie political activism
+- Present as thoughtful discussion, not political activism
 
 ---
 
-## CZĘŚĆ II: PLATFORM-SPECIFIC RECOMMENDATIONS
+## PART II: PLATFORM-SPECIFIC RECOMMENDATIONS
 
 ### 📘 FACEBOOK/INSTAGRAM CONTENT STRATEGY
 
@@ -137,39 +137,39 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 **MAJOR CONCERNS**:
 1. **Unpredictable Moderation**: Community Notes system replacing fact-checkers
 2. **Hate Speech Liberalization**: New ToS allowing concerning language
-3. **Educational Content Vulnerability**: Even academic content może być flagged
+3. **Educational Content Vulnerability**: Even academic content may be flagged
 
 **SPECIFIC RISKS FOR KAFKA CONTENT**:
-- Discussion of Jewish persecution może trigger hate speech filters
-- Mental health content może być over-moderated  
-- Family violence themes mogą trigger protective algorithms
+- Discussion of Jewish persecution may trigger hate speech filters
+- Mental health content may be over-moderated
+- Family violence themes may trigger protective algorithms
 
 **MITIGATION STRATEGIES**:
 ```
 ✅ DO:
 - Use educational hashtags (#LiteratureStudy #ClassicBooks #Education)
-- Provide extensive context w every post
-- Focus na positive life lessons from literature
-- Include mental health resources w every mental health discussion
+- Provide extensive context in every post
+- Focus on positive life lessons from literature
+- Include mental health resources in every mental health discussion
 - Use "historical context" framing for sensitive topics
 
 ❌ AVOID:
 - Graphic descriptions of Gregor's transformation
 - Detailed discussion of Kafka's mental health problems
 - Political interpretations of bureaucratic themes
-- Any content que może być interpreted jako promoting self-harm
+- Any content that may be interpreted as promoting self-harm
 ```
 
 **CONTENT EXAMPLES SAFE FOR META PLATFORMS**:
 - "What Kafka's Metamorphosis teaches us about family communication"
-- "Finding hope w classic literature - life lessons from difficult stories"
+- "Finding hope in classic literature - life lessons from difficult stories"
 - "Understanding historical context of early 20th century literature"
 
-#### 💰 MONETIZATION POTENTIAL: ŚREDNIE
-- Educational content może być demonetized unpredictably
-- Focus na positive, educational angles
+#### 💰 MONETIZATION POTENTIAL: MEDIUM
+- Educational content may be demonetized unpredictably
+- Focus on positive, educational angles
 - Build community engagement through book discussions
-- Consider Facebook Groups dla deeper literary discussions
+- Consider Facebook Groups for deeper literary discussions
 
 ### 🎥 YOUTUBE CONTENT STRATEGY
 
@@ -184,9 +184,9 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 **OPTIMAL CONTENT FORMATS**:
 ```
 ✅ RECOMMENDED FORMATS:
-- "Literature Analysis" series z human narration
+- "Literature Analysis" series with human narration
 - "Book vs Reality" comparing 1915 themes to modern life
-- "What Gen Z Can Learn from Classic Literature" 
+- "What Gen Z Can Learn from Classic Literature"
 - "Psychology behind Literary Characters"
 - "Historical Context of Great Books"
 
@@ -194,7 +194,7 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 - Original storytelling approach required
 - Personal commentary throughout
 - Visual elements (book covers, historical photos)
-- Educational resources w description
+- Educational resources in description
 - Age-appropriate content warnings
 ```
 
@@ -205,7 +205,7 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 - "Suitable for mature audiences studying literature"
 
 **MONETIZATION OPTIMIZATION**:
-- 15+ minute videos dla multiple ad spots
+- 15+ minute videos for multiple ad spots
 - Strong educational angle protects against demonetization
 - Human storytelling approach fits YouTube's 2025 anti-AI policies
 - Cross-platform content strategy recommended
@@ -225,15 +225,15 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 ✅ HIGH-PERFORMING FORMATS:
 - "BookTok meets Psychology" - analyzing characters
 - "Why Gen Z Connects to 100-year-old Books"
-- "Literature that Predicted Modern Problems" 
-- "Books that Help w Mental Health" (z proper disclaimers)
+- "Literature that Predicted Modern Problems"
+- "Books that Help with Mental Health" (with proper disclaimers)
 - "Classic Books for Dark Academia Aesthetic"
 
 📊 ENGAGEMENT TACTICS:
 - Leverage #Kafka (1+ billion views already)
 - Connect to existing trends (#DarkAcademia, #BookTok)
 - Use relatable comparisons to modern life
-- Create series format dla multiple 1+ min videos
+- Create series format for multiple 1+ min videos
 ```
 
 **TikTok-SPECIFIC WARNINGS**:
@@ -255,7 +255,7 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 1. **Most Creator-Friendly Platform** - Very few content restrictions
 2. **Educational Content Protected** - Academic discussions safe
 3. **Video Format Preferred** - Higher revenue potential
-4. **Cross-Platform Encouraged** - Integrates well z social media
+4. **Cross-Platform Encouraged** - Integrates well with social media
 
 **OPTIMAL CONTENT FORMATS**:
 ```
@@ -266,10 +266,10 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 - "Young Adult's Guide to Classic Books" - accessible format
 
 📝 TECHNICAL OPTIMIZATION:
-- Video format dla maximum revenue (video > audio-only)
-- 30-45 minute episodes optimal dla ad placement
+- Video format for maximum revenue (video > audio-only)
+- 30-45 minute episodes optimal for ad placement
 - Consistent publishing schedule required
-- Cross-promote na TikTok/Instagram
+- Cross-promote on TikTok/Instagram
 ```
 
 **CONTENT WARNINGS FOR SPOTIFY**:
@@ -280,8 +280,8 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 
 **REVENUE OPPORTUNITIES**:
 - Spotify Partner Program - easiest qualification requirements
-- Brand partnerships z publishers, bookstores
-- Listener Support feature dla direct support
+- Brand partnerships with publishers, bookstores
+- Listener Support feature for direct support
 - Cross-platform monetization strategy
 
 ### 📺 KICK CONTENT STRATEGY
@@ -292,62 +292,62 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 1. **95/5 Revenue Split** - Industry-leading creator compensation
 2. **Creator-Friendly Policies** - Minimal content restrictions
 3. **Educational Content Safe** - Academic discussions protected
-4. **Community Building Focus** - Perfect dla book discussions
+4. **Community Building Focus** - Perfect for book discussions
 
 **OPTIMAL CONTENT STRATEGIES**:
 ```
 ✅ STREAMING IDEAS:
 - "Reading Classic Literature Live" - community book club
 - "Literature Discussion Streams" - interactive analysis
-- "Books and Chat" - casual discussions w viewers
+- "Books and Chat" - casual discussions with viewers
 - "Academic Hour" - deep dives into literary themes
 - "Book Recommendation Streams" - building reading community
 
 💰 MONETIZATION PATH:
 - Start with Affiliate (75 followers, 5 hours stream)
 - Build to KCIP (100 concurrent viewers = $16/hour)
-- Partner Program dla maximum revenue potential
+- Partner Program for maximum revenue potential
 - Direct donations (95% retention rate)
 ```
 
 **CONTENT APPROACH**:
-- Most freedom dla controversial literary topics (z educational context)
+- Most freedom for controversial literary topics (with educational context)
 - Interactive community building around books
-- Live discussion format ideal dla literature
-- Least restrictive platform dla academic content
+- Live discussion format ideal for literature
+- Least restrictive platform for academic content
 
 ---
 
-## CZĘŚĆ III: AGE RATING GUIDELINES
+## PART III: AGE RATING GUIDELINES
 
 ### 🎯 DETAILED AGE CLASSIFICATIONS
 
-#### 📚 13+ CONTENT (Teen-Appropriate z Warnings)
-**CZEGO MOŻNA UCZYĆ**:
-- Basic plot of Metamorphosis w educational context
+#### 📚 13+ CONTENT (Teen-Appropriate with Warnings)
+**WHAT CAN BE TAUGHT**:
+- Basic plot of Metamorphosis in educational context
 - Universal themes: belonging, family relationships, personal growth
 - Historical context of early 20th century literature
-- Connection między literature a personal experiences
+- Connection between literature and personal experiences
 
-**WYMAGANE CONTENT WARNINGS**:
+**REQUIRED CONTENT WARNINGS**:
 - "This story deals with family conflict and feeling different"
-- "Discussion includes themes that some may find challenging"  
+- "Discussion includes themes that some may find challenging"
 - "Adult guidance recommended for deeper discussions"
 - "Mental health resources available if needed"
 
 **PLATFORM STRATEGY 13+**:
-- Focus na positive messages i life lessons
+- Focus on positive messages and life lessons
 - Avoid detailed discussion of dark biographical elements
-- Emphasize hope i resilience themes
+- Emphasize hope and resilience themes
 - Include support resources
 
 #### 📖 16+ CONTENT (Recommended Standard)
-**EXPANDED DISCUSSION MOŻE INCLUDE**:
+**EXPANDED DISCUSSION MAY INCLUDE**:
 - Detailed literary analysis of psychological themes
-- Historical context of Kafka's life i times
-- Discussion of mental health themes w historical perspective
+- Historical context of Kafka's life and times
+- Discussion of mental health themes in historical perspective
 - More nuanced exploration of family dynamics
-- Connection to modern issues (z appropriate context)
+- Connection to modern issues (with appropriate context)
 
 **ENHANCED CONTENT WARNINGS**:
 - "This discussion explores complex themes including mental health, family dysfunction, and social alienation"
@@ -356,8 +356,8 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 - "Support resources included for anyone affected by these themes"
 
 **PLATFORM OPTIMIZATION 16+**:
-- All platforms generally safe z proper educational framing
-- Enables deeper engagement z content
+- All platforms generally safe with proper educational framing
+- Enables deeper engagement with content
 - Allows for more sophisticated analysis
 - Better monetization opportunities through longer, more detailed content
 
@@ -376,15 +376,15 @@ Na podstawie analizy 8 dokumentów researchu zidentyfikowano następujące obsza
 
 ---
 
-## CZĘŚĆ IV: CONTENT WARNING TEMPLATES
+## PART IV: CONTENT WARNING TEMPLATES
 
 ### 🎬 VIDEO CONTENT WARNINGS (UNIVERSAL)
 
 #### STANDARD OPENING WARNING:
 ```
-⚠️ CONTENT NOTE: This video explores Franz Kafka's "The Metamorphosis," 
-a classic work that deals with themes of isolation, family relationships, 
-and personal transformation. Some themes discussed may be challenging 
+⚠️ CONTENT NOTE: This video explores Franz Kafka's "The Metamorphosis,"
+a classic work that deals with themes of isolation, family relationships,
+and personal transformation. Some themes discussed may be challenging
 for some viewers. Mental health resources are linked below.
 
 🔗 If you need support:
@@ -395,13 +395,13 @@ for some viewers. Mental health resources are linked below.
 
 #### DETAILED CHAPTER WARNINGS:
 ```
-📚 EDUCATIONAL CONTEXT: We're exploring this 110-year-old story 
-to understand historical perspectives and find relevant life lessons 
+📚 EDUCATIONAL CONTEXT: We're exploring this 110-year-old story
+to understand historical perspectives and find relevant life lessons
 for today. All discussions are framed educationally.
 
 ⏰ TIMESTAMPS:
 0:00 - Introduction & Content Warnings
-2:00 - Historical Context (Safe for all audiences)  
+2:00 - Historical Context (Safe for all audiences)
 5:00 - Story Summary (Some challenging themes - 13+)
 10:00 - Modern Connections (Mature themes - 16+)
 15:00 - Life Lessons & Hope (Positive conclusion)
@@ -414,14 +414,14 @@ for today. All discussions are framed educationally.
 ```
 📖 EXPLORING CLASSIC LITERATURE 📖
 
-Today we're discussing Franz Kafka's "The Metamorphosis" - a story 
-that's surprisingly relevant to modern life! 
+Today we're discussing Franz Kafka's "The Metamorphosis" - a story
+that's surprisingly relevant to modern life!
 
-⚠️ Note: This story touches on family dynamics, feeling isolated, 
-and personal challenges. We're exploring it educationally to find 
+⚠️ Note: This story touches on family dynamics, feeling isolated,
+and personal challenges. We're exploring it educationally to find
 positive lessons.
 
-💚 Remember: Literature can help us process difficult feelings. 
+💚 Remember: Literature can help us process difficult feelings.
 If you need support, resources are always available.
 
 #ClassicLiterature #BookEducation #MentalHealthAwareness #LiteraryAnalysis
@@ -429,52 +429,52 @@ If you need support, resources are always available.
 
 #### DETAILED BLOG/ARTICLE WARNING:
 ```
-CONTENT GUIDANCE: This educational analysis of Franz Kafka's "The Metamorphosis" 
-(1915) includes discussion of themes relevant to mental health, family relationships, 
-and social alienation. All content is presented in historical and literary context 
+CONTENT GUIDANCE: This educational analysis of Franz Kafka's "The Metamorphosis"
+(1915) includes discussion of themes relevant to mental health, family relationships,
+and social alienation. All content is presented in historical and literary context
 for educational purposes.
 
-SUPPORT RESOURCES: We believe literature should inspire and educate. If any themes 
+SUPPORT RESOURCES: We believe literature should inspire and educate. If any themes
 discussed resonate with personal struggles, please consider reaching out for support:
-- Mental health professionals w your area
-- Educational counselors 
+- Mental health professionals in your area
+- Educational counselors
 - Trusted friends and family
 - Crisis support services (listed at end of article)
 
-OUR APPROACH: We focus na finding wisdom, hope, and practical life lessons from 
-classic literature while respecting the complexity of human experiences depicted 
-w these timeless works.
+OUR APPROACH: We focus on finding wisdom, hope, and practical life lessons from
+classic literature while respecting the complexity of human experiences depicted
+in these timeless works.
 ```
 
 ---
 
-## CZĘŚĆ V: EDUCATIONAL FRAMING STRATEGIES
+## PART V: EDUCATIONAL FRAMING STRATEGIES
 
 ### 🎓 RECOMMENDED EDUCATIONAL APPROACHES
 
 #### POSITIVE FRAMING TECHNIQUES:
 ```
 ✅ INSTEAD OF: "Kafka was depressed and wanted to die"
-✅ SAY: "Kafka struggled with mental health challenges that influenced his 
+✅ SAY: "Kafka struggled with mental health challenges that influenced his
 writing, helping us understand these experiences through literature"
 
 ✅ INSTEAD OF: "The family abandons Gregor"
-✅ SAY: "The story explores how families can struggle to understand and 
+✅ SAY: "The story explores how families can struggle to understand and
 support each other during difficult times"
 
-✅ INSTEAD OF: "This is about suicide and despair"  
-✅ SAY: "This story helps us examine how people cope with feeling different 
-and finding their place w the world"
+✅ INSTEAD OF: "This is about suicide and despair"
+✅ SAY: "This story helps us examine how people cope with feeling different
+and finding their place in the world"
 ```
 
 #### LESSON-FOCUSED MESSAGING:
 ```
 🎯 LEARNING OBJECTIVES:
 - Understanding how classic literature reflects universal human experiences
-- Exploring healthy communication w family relationships  
+- Exploring healthy communication in family relationships
 - Learning about historical context of early 20th century
-- Developing empathy dla people who feel different or isolated
-- Finding hope and resilience even w difficult stories
+- Developing empathy for people who feel different or isolated
+- Finding hope and resilience even in difficult stories
 
 💡 KEY TAKEAWAYS:
 - Literature helps us process complex emotions safely
@@ -488,7 +488,7 @@ and finding their place w the world"
 #### FOR EDUCATORS:
 ```
 ENGLISH/LITERATURE CONNECTIONS:
-- Symbolism and metaphor w literary works
+- Symbolism and metaphor in literary works
 - Historical context of modernist literature
 - Character development and psychological realism
 - Comparative literature analysis
@@ -502,13 +502,13 @@ PSYCHOLOGY/SOCIAL STUDIES CONNECTIONS:
 HEALTH/WELLNESS CONNECTIONS:
 - Mental health awareness and resources
 - Healthy relationship patterns
-- Stress management and coping strategies  
+- Stress management and coping strategies
 - Building support networks
 ```
 
 ---
 
-## CZĘŚĆ VI: CRISIS RESPONSE PROTOCOLS
+## PART VI: CRISIS RESPONSE PROTOCOLS
 
 ### 🆘 IF CONTENT TRIGGERS NEGATIVE RESPONSES
 
@@ -528,10 +528,10 @@ HEALTH/WELLNESS CONNECTIONS:
 3. ✅ REFRAME EDUCATIONALLY
    - "Literature gives us safe ways to explore difficult topics"
    - "These stories can help us understand our experiences"
-   - "You're not alone w feeling this way"
+   - "You're not alone in feeling this way"
 
 4. ✅ FOLLOW UP APPROPRIATELY
-   - Check w educational supervisors if needed
+   - Check with educational supervisors if needed
    - Provide additional resources
    - Connect to appropriate support services
    - Document concerns appropriately
@@ -540,28 +540,28 @@ HEALTH/WELLNESS CONNECTIONS:
 #### COMMUNITY MODERATION:
 ```
 FOR COMMENTS/RESPONSES:
-- Monitor all content dla concerning responses
+- Monitor all content for concerning responses
 - Respond quickly to support requests
-- Remove harmful content immediately  
+- Remove harmful content immediately
 - Provide resources proactively
 - Build positive, supportive community culture
 
 FOR PLATFORM-SPECIFIC ISSUES:
 - Report concerning content to platform moderators
-- Work z platform safety teams when needed
-- Maintain educational focus w all responses
-- Build relationships z platform community managers
+- Work with platform safety teams when needed
+- Maintain educational focus in all responses
+- Build relationships with platform community managers
 ```
 
 ---
 
-## CZĘŚĆ VII: MONETIZATION OPTIMIZATION BY PLATFORM
+## PART VII: MONETIZATION OPTIMIZATION BY PLATFORM
 
 ### 💰 REVENUE STRATEGY MATRIX
 
 #### HIGHEST EARNING POTENTIAL:
 1. **KICK** (95/5 split, minimal restrictions, best for consistent streamers)
-2. **SPOTIFY** (Creator-friendly, video preferred, cross-platform boost)  
+2. **SPOTIFY** (Creator-friendly, video preferred, cross-platform boost)
 3. **YOUTUBE** (High ad revenue potential, requires human narration)
 4. **TIKTOK** (1+ min videos only, high engagement but strict compliance)
 5. **FACEBOOK/INSTAGRAM** (Unpredictable, moderate earning potential)
@@ -571,14 +571,14 @@ FOR PLATFORM-SPECIFIC ISSUES:
 **KICK STREAMING STRATEGY**:
 ```
 WEEK 1-4: Build to 75 followers (Affiliate status)
-- Daily 2-hour "Reading Classic Literature" streams  
-- Interactive book discussions w chat
+- Daily 2-hour "Reading Classic Literature" streams
+- Interactive book discussions with chat
 - Community building around literature
 
 MONTH 2-3: Grow to 100 concurrent viewers (KCIP - $16/hour)
 - Consistent schedule (same time daily/weekly)
 - Special events (author birthday celebrations, themed months)
-- Collaboration z other educational streamers
+- Collaboration with other educational streamers
 
 MONTH 4+: Partner Program (95/5 split)
 - Premium educational content
@@ -588,19 +588,19 @@ MONTH 4+: Partner Program (95/5 split)
 
 **SPOTIFY MONETIZATION**:
 ```
-MINIMUM REQUIREMENTS: $10 earned w 6-month period + 1 episode published
+MINIMUM REQUIREMENTS: $10 earned in 6-month period + 1 episode published
 
 OPTIMIZATION STRATEGY:
-- Video format episodes dla higher Premium payouts
-- 45-60 minute episodes dla optimal ad placement
-- Cross-platform promotion dla listener growth
+- Video format episodes for higher Premium payouts
+- 45-60 minute episodes for optimal ad placement
+- Cross-platform promotion for listener growth
 - Consistent publishing schedule (weekly/bi-weekly)
-- Educational series approach dla subscriber retention
+- Educational series approach for subscriber retention
 
 REVENUE STREAMS:
 - Spotify Partner Program (50% ad revenue share)
-- Listener Support (direct listener contributions)  
-- Brand partnerships z publishers/bookstores
+- Listener Support (direct listener contributions)
+- Brand partnerships with publishers/bookstores
 - Cross-platform monetization synergy
 ```
 
@@ -609,7 +609,7 @@ REVENUE STREAMS:
 REQUIREMENTS: 1000 subscribers + 4000 watch hours OR 500 subscribers + 3M Shorts views
 
 OPTIMAL STRATEGY 2025:
-- 15+ minute videos dla multiple ad placements
+- 15+ minute videos for multiple ad placements
 - Human narration required (NO text-to-speech)
 - Original commentary throughout (anti-AI compliance)
 - Educational angle protects against demonetization
@@ -617,7 +617,7 @@ OPTIMAL STRATEGY 2025:
 
 HIGH-VALUE CONTENT:
 - "Complete Guide to [Classic Book]" series (20-30 min)
-- "What Modern Readers Can Learn from Classic Literature" (15+ min) 
+- "What Modern Readers Can Learn from Classic Literature" (15+ min)
 - "Historical Context" deep dives (25+ min)
 - Live streams for additional engagement
 ```
@@ -628,21 +628,21 @@ REQUIREMENTS: 10K followers + 100K valid views (last 30 days) + 18+ + Personal a
 
 WINNING STRATEGY:
 - ONLY 1+ minute original videos monetize
-- Educational content performs well w algorithm
+- Educational content performs well with algorithm
 - Series format keeps viewers engaged longer
 - Connection to existing trends (#BookTok, #DarkAcademia)
 - NO duets/stitches for Creator Rewards
 
 CONTENT CALENDAR:
 - 3x per week 1+ minute educational videos
-- Trend-based content z educational angle
+- Trend-based content with educational angle
 - Community building through comments
-- Cross-promotion z other platforms
+- Cross-promotion with other platforms
 ```
 
 ---
 
-## CZĘŚĆ VIII: FINAL RECOMMENDATIONS & ACTION PLAN
+## PART VIII: FINAL RECOMMENDATIONS & ACTION PLAN
 
 ### 🎯 PRIORITY ACTION ITEMS
 
@@ -650,22 +650,22 @@ CONTENT CALENDAR:
 1. ✅ Create content warning templates for all platforms
 2. ✅ Develop educational resource list (mental health, family support)
 3. ✅ Write platform-specific content guidelines document
-4. ✅ Create crisis response protocol dla team
+4. ✅ Create crisis response protocol for team
 5. ✅ Design age-appropriate content variants
 
 #### SHORT-TERM (Month 1):
 1. ✅ Launch Kick streaming program (fastest monetization)
-2. ✅ Start Spotify educational podcast series  
-3. ✅ Create YouTube educational video series z human narration
+2. ✅ Start Spotify educational podcast series
+3. ✅ Create YouTube educational video series with human narration
 4. ✅ Develop TikTok 1+ minute educational content library
-5. ✅ Build community guidelines dla safe discussions
+5. ✅ Build community guidelines for safe discussions
 
 #### LONG-TERM (3-6 Months):
 1. ✅ Expand to full classic literature educational series
-2. ✅ Develop partnerships z mental health organizations
+2. ✅ Develop partnerships with mental health organizations
 3. ✅ Create educational institution collaboration program
-4. ✅ Build cross-platform audience dla maximum monetization
-5. ✅ Establish thought leadership w educational literature content
+4. ✅ Build cross-platform audience for maximum monetization
+5. ✅ Establish thought leadership in educational literature content
 
 ### 📊 SUCCESS METRICS TO TRACK
 
@@ -686,55 +686,56 @@ CONTENT CALENDAR:
 ### 🛡️ ONGOING SAFETY PROTOCOLS
 
 #### MONTHLY REVIEW PROCESS:
-1. **Content Audit**: Review all content dla compliance z current platform policies
-2. **Community Feedback**: Monitor comments/responses dla concerning patterns
+1. **Content Audit**: Review all content for compliance with current platform policies
+2. **Community Feedback**: Monitor comments/responses for concerning patterns
 3. **Policy Updates**: Stay current on platform policy changes
 4. **Resource Updates**: Ensure all mental health resources are current
 5. **Team Training**: Regular updates on handling sensitive content
 
 #### CONTINUOUS IMPROVEMENT:
 - A/B test different content warning approaches
-- Survey audience dla feedback on safety approach
-- Collaborate z mental health professionals dla best practices
-- Build relationships z platform safety teams
-- Document lessons learned dla future content
+- Survey audience for feedback on safety approach
+- Collaborate with mental health professionals for best practices
+- Build relationships with platform safety teams
+- Document lessons learned for future content
 
 ---
 
-## PODSUMOWANIE WYKONAWCZE
+## EXECUTIVE SUMMARY
 
-### ✅ GŁÓWNE WNIOSKI:
+### ✅ KEY FINDINGS:
 
-1. **"Przemiana" MOŻE być bezpiecznie publikowana na wszystkich platformach** z odpowiednim educational framing i content warnings
+1. **"The Metamorphosis" CAN be safely published on all platforms** with proper educational framing and content warnings
 
-2. **16+ classification optymalny** dla większości content'u z możliwością 13+ dla basic discussions
+2. **16+ classification optimal** for most content with possibility of 13+ for basic discussions
 
-3. **Kick i Spotify oferują najlepsze możliwości monetyzacji** z najmniejszymi restrictions
+3. **Kick and Spotify offer best monetization opportunities** with fewest restrictions
 
-4. **YouTube i TikTok wymagają specific technical approaches** (human narration, 1+ min videos) ale oferują wysokie earning potential
+4. **YouTube and TikTok require specific technical approaches** (human narration, 1+ min videos) but offer high earning potential
 
-5. **Facebook/Instagram highest risk** z powodu unpredictable moderation i nowych ToS changes
+5. **Facebook/Instagram highest risk** due to unpredictable moderation and new ToS changes
 
-6. **Educational framing jest kluczowy** dla wszystkich platform - focus na life lessons, nie sensationalism
+6. **Educational framing is crucial** for all platforms - focus on life lessons, not sensationalism
 
-7. **Community building around literature education** najprawdopodobniej succeed across all platforms
+7. **Community building around literature education** most likely to succeed across all platforms
 
-8. **Mental health resources i support systems** must be integral część każdej content strategy
+8. **Mental health resources and support systems** must be integral part of every content strategy
 
-### 🎯 FINALNA REKOMENDACJA:
+### 🎯 FINAL RECOMMENDATION:
 
-**GO FORWARD z "Przemiana" content, ale z comprehensive safety protocol.** 
-Historia Kafki rezonuje z Gen Z w niezwykle powerful ways - hashtag #Kafka ma over 1 billion views na TikTok. Z proper educational approach, content warnings, i support systems, ten content może być both commercially successful i psychologically beneficial dla audiences.
+**GO FORWARD with "The Metamorphosis" content, but with comprehensive safety protocol.**
 
-**Start z Kick i Spotify dla fastest, safest monetization**, expand to YouTube z human narration, i carefully test Meta platforms. Focus na building positive, educational community around classic literature exploration.
+Kafka's story resonates with Gen Z in incredibly powerful ways - hashtag #Kafka has over 1 billion views on TikTok. With proper educational approach, content warnings, and support systems, this content can be both commercially successful and psychologically beneficial for audiences.
 
-**Success depends na treating this jako educational service, nie entertainment.** Audience seeks genuine connection i understanding - provide that safely, i both monetization i positive impact will follow.
+**Start with Kick and Spotify for fastest, safest monetization**, expand to YouTube with human narration, and carefully test Meta platforms. Focus on building positive, educational community around classic literature exploration.
+
+**Success depends on treating this as educational service, not entertainment.** Audience seeks genuine connection and understanding - provide that safely, and both monetization and positive impact will follow.
 
 ---
 
-*Dokument przygotowany przez: 37degrees Content Warning Assessment Agent*  
-*Data: 28 sierpnia 2025*  
-*Następny review: 28 listopada 2025*  
-*Status: APPROVED FOR PUBLICATION Z SAFETY PROTOCOLS*
+*Document prepared by: 37degrees Content Warning Assessment Agent*
+*Date: September 16, 2025*
+*Next review: December 16, 2025*
+*Status: APPROVED FOR PUBLICATION WITH SAFETY PROTOCOLS*
 
-**🔄 Aktualizacje wymagane przy zmianach platform policies - monitoring continuous.**
+**🔄 Updates required when platform policies change - monitoring continuous.**

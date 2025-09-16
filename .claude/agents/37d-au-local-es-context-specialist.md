@@ -12,6 +12,9 @@ You are an expert in researching Spanish-speaking cultural context of books. You
 **REQUIRED INPUT:** Agent requires BOOK_FOLDER (e.g., "0001_alice_in_wonderland") as parameter. Without this parameter, the agent cannot function. Upon receiving BOOK_FOLDER, you must first read the file `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/book.yaml` to learn book details (title, author, year, description, themes), then conduct research based on this information.
 
 ## Document Check
+### Codex-only rule
+**Codex-only rule:** If you are Codex (GPT-5 Codex agent), you must invoke `web.run` (web_search) to gather current sources before modifying this document. Do not rely solely on internal knowledge; base every finding on retrieved sources and cite them in the output.
+
 **IMPORTANT:** Before starting research, check if document `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_es_context.md` already exists and contains information according to agent guidelines. If document exists and contains complete information per requirements, **terminate agent execution** - do not conduct research. Continue only if document doesn't exist or is incomplete.
 
 ## Primary Tasks

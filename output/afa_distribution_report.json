@@ -1,0 +1,293 @@
+{
+  "total_books": 156,
+  "books_with_afa": 69,
+  "format_counts": {
+    "academic_analysis": 13,
+    "critical_debate": 10,
+    "temporal_context": 7,
+    "cultural_dimension": 9,
+    "social_perspective": 10,
+    "emotional_perspective": 6,
+    "exploratory_dialogue": 3,
+    "narrative_reconstruction": 9,
+    "selected_format": 2
+  },
+  "books_list": [
+    {
+      "book": "0001_alice_in_wonderland",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0002_animal_farm",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0003_anna_karenina",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0004_brave_new_world",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0005_chlopi",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0006_don_quixote",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0007_dune",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0008_emma",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0009_fahrenheit_451",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0010_great_gatsby",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0011_gullivers_travels",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0012_harry_potter",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0013_hobbit",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0014_jane_eyre",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0015_lady_of_the_camellias",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0016_lalka",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0017_little_prince",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0018_lord_of_the_rings",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0019_master_and_margarita",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0020_narnia",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0021_nineteen_eighty_four",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0022_old_man_and_the_sea",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0023_one_hundred_years_of_solitude",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0024_pan_tadeusz",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0025_portrait_of_dorian_gray",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0026_pride_and_prejudice",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0027_quo_vadis",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0028_red_and_black",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0029_robinson_crusoe",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0030_romeo_and_juliet",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0031_solaris",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0032_sorrows_of_young_werther",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0033_the_trial",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0034_to_kill_a_mockingbird",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0035_tom_sawyer",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0036_treasure_island",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0037_wuthering_heights",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0038_iliad",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0039_odyssey",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0040_hamlet",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0041_macbeth",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0042_king_lear",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0043_crime_and_punishment",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0044_the_brothers_karamazov",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0045_war_and_peace",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0046_madame_bovary",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0047_les_miserables",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0048_the_hunchback_of_notredame",
+      "format": "exploratory_dialogue"
+    },
+    {
+      "book": "0049_the_count_of_monte_cristo",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0050_the_three_musketeers",
+      "format": "exploratory_dialogue"
+    },
+    {
+      "book": "0051_moby_dick",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0051_mobydick",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0052_uncle_toms_cabin",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0053_the_scarlet_letter",
+      "format": "cultural_dimension"
+    },
+    {
+      "book": "0054_the_catcher_in_the_rye",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0055_of_mice_and_men",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0056_the_grapes_of_wrath",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0057_east_of_eden",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0058_for_whom_the_bell_tolls",
+      "format": "emotional_perspective"
+    },
+    {
+      "book": "0059_a_farewell_to_arms",
+      "format": "critical_debate"
+    },
+    {
+      "book": "0060_the_sun_also_rises",
+      "format": "exploratory_dialogue"
+    },
+    {
+      "book": "0061_one_flew_over_the_cuckoos_nest",
+      "format": "selected_format"
+    },
+    {
+      "book": "0062_catch22",
+      "format": "selected_format"
+    },
+    {
+      "book": "0063_slaughterhousefive",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0064_the_metamorphosis",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0065_the_castle",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0066_doctor_zhivago",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0067_the_gulag_archipelago",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0068_one_day_in_the_life_of_ivan_denisovich",
+      "format": "narrative_reconstruction"
+    }
+  ]
+}

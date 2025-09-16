@@ -4,3 +4,174 @@ book_info:
   author: "Victor Hugo"
   year: 1862
   genre: "Historical fiction,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:22:00"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 68
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "740 attacks in Catholic press, 95-year Church ban (1864-1959), Hugo's 18-year exile, global censorship"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multi-layered symbolism: light/darkness, kanały jako piekło, srebrne świeczniki jako łaska"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Global cultural phenomenon: 70M musical viewers, 40+ countries, longest-running West End show"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Strong Gen Z resonance: digital surveillance parallels, BookTok presence, protest anthem usage"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Remarkably prescient: predicted prison reform, universal suffrage, education rights, women's equality"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary techniques: created social novel model, influenced Dickens/Dostoyevsky, encyclopedic narrative"
+        source: "writing_innovation"
+      - id: "content_warnings_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex content: Hugo's scandals (18+), prostitution themes, political violence, institutional abuse"
+        source: "content_warnings_assessment"
+      - id: "structural_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Massive structure: 5 volumes, 48 books, 365 chapters, 955 pages of digressions in 2783 total"
+        source: "review"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, template for social justice narratives"
+        key_editions: ["Multiple English translations", "West End musical tradition"]
+        reception_notes: "Academic and popular success, influenced Anglo literature"
+        educational_status: "University literature courses worldwide"
+        local_themes: ["Social reform movements", "Industrial revolution critiques"]
+      pl:
+        cultural_impact: "First Polish translation 1862 (same year as original), strong theatrical tradition"
+        key_editions: ["PIW editions", "Teatr Muzyczny adaptations Warsaw/Łódź"]
+        reception_notes: "Musical adaptations since 2010, TM Roma breakthrough production"
+        educational_status: "Supplementary high school reading"
+        local_themes: ["Post-partition social critique", "Catholic-secular tensions"]
+      de:
+        cultural_impact: "Strong German Romantic movement influence, philosophical interpretations"
+        key_editions: ["Reclam editions", "Scholarly critical editions"]
+        reception_notes: "Academic tradition, psychoanalytic readings"
+        educational_status: "Standard in German literature curriculum"
+        local_themes: ["Hegelian dialectics", "Social democratic movements"]
+      fr:
+        cultural_impact: "National literary monument, republican values symbol"
+        key_editions: ["Gallimard Pléiade", "Original Lacroix editions"]
+        reception_notes: "From controversial to canonical, literary pilgrimage sites"
+        educational_status: "Core French literature curriculum"
+        local_themes: ["Republican ideals", "Laïcité and social justice"]
+      es:
+        cultural_impact: "Strong resonance with liberation movements, social justice themes"
+        key_editions: ["Cátedra editions", "Translation variety"]
+        reception_notes: "Popular in social movements, university activism"
+        educational_status: "Popular in comparative literature"
+        local_themes: ["Liberation theology", "Social reform movements"]
+      pt:
+        cultural_impact: "Influence on Brazilian social literature, adaptation tradition"
+        key_editions: ["Brazilian Portuguese translations", "European Portuguese classics"]
+        reception_notes: "Strong musical theater tradition Brazil/Portugal"
+        educational_status: "Literature courses both countries"
+        local_themes: ["Colonial criticism", "Social inequality themes"]
+      ja:
+        cultural_impact: "Adapted through anime, manga interpretations, philosophical reception"
+        key_editions: ["Multiple Japanese translations", "Manga adaptations"]
+        reception_notes: "Popular culture influence, philosophical study"
+        educational_status: "World literature courses"
+        local_themes: ["Giri and social duty", "Buddhist concepts of redemption"]
+      ko:
+        cultural_impact: "Resonance with democratization movements, student activism"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Student movement symbol, protest culture"
+        educational_status: "High school and university reading"
+        local_themes: ["Democratic movements", "Confucian family values"]
+      hi:
+        cultural_impact: "Themes resonate with independence movement, social reform"
+        key_editions: ["Hindi translations", "Regional language versions"]
+        reception_notes: "Social reform movement influence"
+        educational_status: "World literature selections"
+        local_themes: ["Karma and redemption", "Social justice movements"]
+
+  formats:
+    cultural_dimension:
+      name: "cultural_dimension"
+      duration: 16
+      hosts:
+        host_a: "local culture specialist examining French/European context"
+        host_b: "global literature observer analyzing worldwide impact and adaptations"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:12"
+          topic: "french_origins"
+          lead: "host_a"
+          description: "19th century France, Hugo's exile, original controversies and Church ban"
+        - segment: 2
+          time_range: "03:12-06:24"
+          topic: "global_explosion"
+          lead: "host_b"
+          description: "International translations, adaptations, musical phenomenon across 40+ countries"
+        - segment: 3
+          time_range: "06:24-09:36"
+          topic: "protest_anthem"
+          lead: "host_a"
+          description: "Do You Hear the People Sing as global protest song, Hong Kong to France"
+        - segment: 4
+          time_range: "09:36-12:48"
+          topic: "digital_renaissance"
+          lead: "host_b"
+          description: "TikTok viral moments, BookTok presence, Gen Z digital activism connections"
+        - segment: 5
+          time_range: "12:48-16:00"
+          topic: "enduring_relevance"
+          lead: "host_a"
+          description: "Why themes of surveillance, social justice, redemption remain globally vital"
+      prompts:
+        host_a: "You are {male_name}, examining Les Misérables from local cultural perspective. Discuss how the book resonates with French republican tradition, European social movements, and regional history. Focus on local translations, adaptations, and connections to contemporary French social issues."
+        host_b: "You are {female_name}, providing global context for Les Misérables. Compare international adaptations, discuss the musical's worldwide success, analyze why it became a universal protest anthem from Hong Kong to America. Examine cross-cultural appeal and universal themes."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "social injustice themes", "political rebellion", "adult themes references"]
+    educational_elements: ["19th century French history", "Social justice movements", "Literary romanticism", "Theater and musical adaptation", "Cross-cultural reception"]
+    production_notes:
+      intro_style: "Epic orchestral opening befitting the monumental scope"
+      transitions: "Musical bridges using themes from the famous musical"
+      outro_style: "Inspiring conclusion linking historical struggles to contemporary movements"
+
+  overall_confidence: 0.92

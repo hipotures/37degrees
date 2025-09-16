@@ -4,3 +4,191 @@ book_info:
   author: "Ernest Hemingway"
   year: 1929
   genre: "War,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T12:00:00"
+
+  scores:
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 5.0
+    contemporary_reception: 2.0
+    relevance: 8.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 7.0
+    total: 55.0
+    percentile: 75
+
+  composite_scores:
+    depth:
+      value: 8.4
+      category: "high"
+    heat:
+      value: 6.3
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "controversy_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned in Boston 1929, Ireland 1939, Italy until 1948, Nazi Germany 1933"
+        source: "dark_drama"
+      - id: "controversy_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "FBI surveillance of Hemingway confirmed, not paranoia as previously thought"
+        source: "dark_drama"
+      - id: "philosophy_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Desertion portrayed as act of self-preservation and moral choice, not cowardice"
+        source: "symbols_meanings"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "PTSD symptoms accurately portrayed decades before medical recognition"
+        source: "reality_wisdom"
+      - id: "gender_0"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Catherine Barkley: sexist male fantasy vs complex feminist character debate"
+        source: "symbols_meanings"
+      - id: "writing_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Iceberg theory revolutionized American literature permanently"
+        source: "writing_innovation"
+      - id: "philosophy_1"
+        type: "HYPOTHESIS"
+        credibility: 0.75
+        content: "Personal separate peace represents individual freedom vs institutional duty"
+        source: "symbols_meanings"
+      - id: "perfectionism_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "47 different endings written showing Hemingway's obsessive perfectionism"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "First bestseller with 100K copies in first year, influenced Nobel Prize 1954"
+        key_editions: ["Norton Library edition", "Scribner Corrected Edition 2012", "First edition 1929"]
+        reception_notes: "Canonical status in Western literature, standard university text"
+        educational_status: "Core American literature curriculum"
+        local_themes: ["Lost Generation identity", "Modernist revolution", "Anti-war literature foundation"]
+
+      pl:
+        cultural_impact: "Translated 1931, immediate Polish interest despite different war context"
+        key_editions: ["PIW editions 1957-1999", "Marginesy 2023 new translation", "Muza editions"]
+        reception_notes: "Obowiązkowa lektura (required reading) status achieved"
+        educational_status: "High school curricula, maturity exam texts"
+        local_themes: ["Post-communist readings", "Desertion vs Polish honor tradition", "War trauma parallels"]
+
+      de:
+        cultural_impact: "Direct influence on Kahlschlagliteratur movement post-WWII"
+        key_editions: ["Rowohlt Verlag continuous since 1930", "Werner Schmitz 2018 retranslation"]
+        reception_notes: "Response to Nazi language corruption, influenced Heinrich Böll"
+        educational_status: "Abitur-level literature education standard"
+        local_themes: ["Anti-war literature tradition", "Existential inquiry", "Language purification movement"]
+
+      fr:
+        cultural_impact: "Influenced Sartre, Camus, and existentialist movement profoundly"
+        key_editions: ["Gallimard L'adieu aux armes 1931", "Philippe Jaworski 2024 translation"]
+        reception_notes: "Le style américain defining narrative economy"
+        educational_status: "LELE programs supplementary reading"
+        local_themes: ["Existentialist themes", "Phenomenological approaches", "Nouvelle Roman influence"]
+
+      es:
+        cultural_impact: "Influenced Latin American Boom writers including García Márquez"
+        key_editions: ["Adiós a las armas multiple re-editions", "Miguel Temprano García 2013"]
+        reception_notes: "Delayed Spanish publication due to Franco regime"
+        educational_status: "20th-century American literature university courses"
+        local_themes: ["Anti-war resonance", "Dictatorship parallels", "Lost love universal theme"]
+
+      pt:
+        cultural_impact: "Monteiro Lobato translation standard since 1966"
+        key_editions: ["Grupo Editorial Record", "Porto Editora O Adeus às Armas"]
+        reception_notes: "Best American war novel designation in reviews"
+        educational_status: "Higher education focus, limited secondary presence"
+        local_themes: ["Colonial war parallels", "Anti-imperial themes", "Modernist influence"]
+
+      ja:
+        cultural_impact: "Influenced postwar Japanese anti-war literature profoundly"
+        key_editions: ["Iwanami Bunko 1957", "Shincho Bunko", "Kobunsha modern translation"]
+        reception_notes: "Minimalist aesthetic resonates with Japanese principles"
+        educational_status: "Comparative war literature studies standard"
+        local_themes: ["Individual vs collective", "Trauma narratives", "Anti-heroic war portrayal"]
+
+      ko:
+        cultural_impact: "Title 무기여 잘 있거라 creates unique emotional resonance"
+        key_editions: ["Minumsa edition", "Yeolim Chaekdeul World Literature Series"]
+        reception_notes: "Resonates with Korean War experiences and division"
+        educational_status: "University English Literature departments"
+        local_themes: ["Colonial period parallels", "War disillusionment", "Nihilism studies"]
+
+      hi:
+        cultural_impact: "Limited translations but significant academic engagement"
+        key_editions: ["Dr. D.K. Lal's Hindi study guide", "Limited Bengali translations"]
+        reception_notes: "Academic circles engagement, limited popular reach"
+        educational_status: "MA English studies, postcolonial frameworks"
+        local_themes: ["Ahimsa tradition contrast", "Karma interpretations", "Western war narrative critique"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 15
+      hosts:
+        host_a: "passionate advocate defending Hemingway's anti-war masterpiece and literary innovations"
+        host_b: "critical skeptic questioning the work's problematic elements and dated perspectives"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Hemingway as revolutionary vs problematic figure debate setup"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "desertion_controversy"
+          lead: "host_b"
+          description: "Cowardice or self-preservation? The desertion ethics debate"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "gender_representation"
+          lead: "host_a"
+          description: "Catherine Barkley: feminist pioneer or male fantasy projection?"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "censorship_battles"
+          lead: "host_b"
+          description: "Multi-country bans, FBI surveillance, and freedom of expression"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Literary legacy vs contemporary youth culture absence"
+      prompts:
+        host_a: "You are {male_name}, passionately defending 'A Farewell to Arms' against critics. Focus on: revolutionary iceberg theory that changed literature, authentic PTSD portrayal before medical recognition, anti-war courage during censorship era. Address controversies: FBI surveillance proved Hemingway right about government persecution, desertion as moral choice not cowardice."
+        host_b: "You are {female_name}, critically questioning the novel's problems. Challenge: toxic masculinity disguised as stoicism, Catherine as male wish-fulfillment fantasy, absence from contemporary youth culture. Question why it lacks BookTok presence despite supposed universality. Point out dated gender dynamics."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "war trauma and graphic injury descriptions"
+      - "death during childbirth"
+      - "alcohol addiction themes"
+      - "controversial author biography elements"
+    educational_elements:
+      - "Iceberg theory literary technique"
+      - "WWI Italian front historical context"
+      - "PTSD recognition history"
+      - "Censorship and free speech debates"
+      - "Lost Generation cultural movement"
+    production_notes:
+      intro_style: "dramatic confrontation setup with opposing positions clear"
+      transitions: "tension-building musical bridges maintaining debate energy"
+      outro_style: "unresolved debate invitation for listener participation"
+
+  overall_confidence: 0.89

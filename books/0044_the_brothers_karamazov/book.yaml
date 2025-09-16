@@ -4,3 +4,183 @@ book_info:
   author: "Fyodor Dostoevsky"
   year: 1880
   genre: "Philosophical novel,Psychological fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T15:30:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 10
+    cultural_phenomenon: 7
+    contemporary_reception: 3
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 60
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "grand_inquisitor_prophecy"
+        type: "FACT"
+        credibility: 0.95
+        content: "Grand Inquisitor chapter predicted totalitarian control decades before 20th century regimes"
+        source: "dark_drama"
+      - id: "ivan_philosophical_rebellion"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Ivan's rebellion against God became foundational text for existentialist philosophy"
+        source: "symbols_meanings"
+      - id: "polyphonic_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Bakhtin identified novel as creating new polyphonic form with autonomous character voices"
+        source: "writing_innovation"
+      - id: "totalitarian_prediction"
+        type: "FACT"
+        credibility: 0.90
+        content: "Called 'prophet of 20th century' for accurately predicting Russian revolution and totalitarianism"
+        source: "reality_wisdom"
+      - id: "freudian_insights"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Freud called it 'most magnificent novel ever written' for psychological complexity"
+        source: "culture_impact"
+      - id: "active_love_theme"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Contrast between Ivan's abstract love for humanity vs Alyosha's concrete active love"
+        source: "symbols_meanings"
+      - id: "free_will_burden"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Central theme that free will is humanity's blessing and curse"
+        source: "symbols_meanings"
+      - id: "ai_consciousness_parallels"
+        type: "HYPOTHESIS"
+        credibility: 0.75
+        content: "Ivan's questions about consciousness and free will mirror current AI consciousness debates"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature with Einstein and Freud endorsements"
+        key_editions: ["Constance Garnett (1912)", "Pevear-Volokhonsky (1990)", "Norton Critical"]
+        reception_notes: "Required reading in philosophy and literature programs"
+        educational_status: "Core text in Great Books programs"
+        local_themes: ["Existentialist influence", "Psychological realism tradition", "Film adaptations"]
+      pl:
+        cultural_impact: "Complex reception evolution from hostility to philosophical appreciation"
+        key_editions: ["Barbara Beaupré (1913)", "Aleksander Wat (1928)", "Cezary Wodziński (2015)"]
+        reception_notes: "23 editions in 6 different translations since 1913"
+        educational_status: "High school advanced reading, university philosophy courses"
+        local_themes: ["Orthodox vs Catholic tensions", "Translation challenges", "Theater traditions"]
+      de:
+        cultural_impact: "Strong philosophical tradition and academic reception"
+        key_editions: ["Reclam editions", "Scholarly German translations"]
+        reception_notes: "Influenced German existentialist thought"
+        educational_status: "Standard in German philosophy curricula"
+        local_themes: ["Philosophical interpretations", "Psychoanalytic readings", "Academic tradition"]
+      fr:
+        cultural_impact: "Influential in French existentialist movement"
+        key_editions: ["French academic translations", "Gallimard editions"]
+        reception_notes: "Important for Camus and Sartre"
+        educational_status: "Philosophy and literature programs"
+        local_themes: ["Existentialist philosophy", "Literary influence", "Academic study"]
+      es:
+        cultural_impact: "Significant influence in Spanish-speaking literary culture"
+        key_editions: ["Various Spanish translations", "Academic editions"]
+        reception_notes: "Important in Hispanic literary education"
+        educational_status: "University literature courses"
+        local_themes: ["Religious themes adaptation", "Philosophical discourse", "Literary tradition"]
+      pt:
+        cultural_impact: "Influence on Portuguese and Brazilian literature"
+        key_editions: ["Portuguese translations", "Brazilian academic editions"]
+        reception_notes: "Important in Lusophone literary culture"
+        educational_status: "University philosophy and literature"
+        local_themes: ["Religious interpretation", "Literary influence", "Academic reception"]
+      ja:
+        cultural_impact: "Contemporary Japanese adaptation demonstrates universal themes"
+        key_editions: ["Japanese translations", "Contemporary adaptations"]
+        reception_notes: "2013 TV adaptation 'Karamazov no Kyōdai' in modern Japanese setting"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Cultural adaptation", "Universal family dynamics", "Modern relevance"]
+      ko:
+        cultural_impact: "Growing interest in Korean literary and philosophical circles"
+        key_editions: ["Korean translations", "Academic editions"]
+        reception_notes: "Increasing academic and popular recognition"
+        educational_status: "University literature and philosophy"
+        local_themes: ["Philosophical exploration", "Family dynamics", "Religious themes"]
+      hi:
+        cultural_impact: "Influence on Indian philosophical and literary discourse"
+        key_editions: ["Hindi translations", "Academic studies"]
+        reception_notes: "Relevant to discussions of dharma and moral duty"
+        educational_status: "Advanced literature and philosophy courses"
+        local_themes: ["Dharmic interpretations", "Moral philosophy", "Universal ethics"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 15
+      hosts:
+        host_a: "professor/expert presenting complex concepts about philosophical and psychological depth"
+        host_b: "student/assistant simplifying and clarifying for accessibility"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "philosophical_foundations"
+          lead: "host_a"
+          description: "Grand Inquisitor and existentialist themes"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "psychological_complexity"
+          lead: "host_b"
+          description: "Freudian analysis and character psychology"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "literary_innovation"
+          lead: "host_a"
+          description: "Polyphonic novel and narrative techniques"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "contemporary_relevance"
+          lead: "host_b"
+          description: "Modern applications and AI consciousness parallels"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "synthesis_and_legacy"
+          lead: "host_a"
+          description: "Literary influence and enduring significance"
+      prompts:
+        host_a: "You are {male_name}, a professor analyzing 'The Brothers Karamazov' with scholarly depth. Discuss the Grand Inquisitor chapter, polyphonic narrative structure, and philosophical complexity. Make academic concepts accessible while maintaining intellectual rigor."
+        host_b: "You are {female_name}, a graduate student engaging with 'The Brothers Karamazov'. Ask clarifying questions about complex philosophical concepts, connect themes to contemporary issues like AI consciousness, and help make Dostoevsky's ideas accessible to modern audiences."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "religious controversy"
+      - "violence and suicide themes"
+      - "historical anti-Semitic content"
+      - "political ideology discussions"
+    educational_elements:
+      - "Existentialist philosophy foundations"
+      - "Psychological realism in literature"
+      - "Russian Orthodox vs Western thought"
+      - "Narrative innovation techniques"
+      - "Historical context of 19th-century Russia"
+    production_notes:
+      intro_style: "scholarly yet engaging, establishing philosophical significance"
+      transitions: "intellectual bridges between philosophical concepts"
+      outro_style: "synthesizing contemporary relevance and enduring legacy"
+
+  overall_confidence: 0.89

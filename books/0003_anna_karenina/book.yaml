@@ -31,207 +31,232 @@ afa_analysis:
     - id: facts_0
       type: FACT
       credibility: 0.95
-      content: Główna inspiracja dla postaci Anny Kareninej pochodziła od prawdziwej kobiety - Anny Stepanovny Pirogowej,
-        gospodyni sąsiada Tołstoja, Aleksandra Nikolajevicza Bibikowa.
+      content: 'Główna inspiracja dla postaci Anny Kareninej pochodziła od prawdziwej
+        kobiety - Anny Stepanovny Pirogowej, gospodyni sąsiada Tołstoja, Aleksandra
+        Nikolajevicza Bibikowa.'
       source: facts_history
     - id: facts_1
       type: FACT
       credibility: 0.95
-      content: 4 stycznia 1872 roku o godzinie 19:00 na stacji kolejowej Yasenki (niedaleko Jasnej Polany) 35-letnia Anna
-        Stepanovna Pirogova rzuciła się pod pociąg towarowy nr 77 po tym, jak dowiedziała się o zdradzie kochanka.
+      content: '4 stycznia 1872 roku o godzinie 19:00 na stacji kolejowej Yasenki (niedaleko
+        Jasnej Polany) 35-letnia Anna Stepanovna Pirogova rzuciła się pod pociąg towarowy
+        nr 77 po tym, jak dowiedziała się o zdradzie kochanka.'
       source: facts_history
     - id: facts_2
       type: FACT
       credibility: 0.95
-      content: Tołstoj osobiście uczestniczył w sekcji zwłok Anny Pirogowej i rozmawiał z śledczym, zbierając materiał do
-        powieści. Jego żona Sofia napisała, że był "strasznie wstrząśnięty" tym doświadczeniem.
+      content: Tołstoj osobiście uczestniczył w sekcji zwłok Anny Pirogowej i rozmawiał
+        z śledczym, zbierając materiał do powieści. Jego żona Sofia napisała, że był
+        "strasznie wstrząśnięty" tym doświadczeniem.
       source: facts_history
     - id: dark_3
       type: BOMBSHELL
       credibility: 0.9
-      content: 'FAKT: Tolstoj miał liczne romans z chłopkami ze swojego majątku, szczególnie gdy żona była w ciąży i nie mogła
-        uprawiać seksu.'
+      content: 'FAKT: Tolstoj miał liczne romans z chłopkami ze swojego majątku, szczególnie
+        gdy żona była w ciąży i nie mogła uprawiać seksu.'
       source: dark_drama
     - id: dark_4
       type: BOMBSHELL
       credibility: 0.9
-      content: 'FAKT: Tolstoj miał romans z służącą Aksinią i nieślubnego syna Timofeja - ten skandal nawiedzał jego małżeństwo
-        przez dekady, a żona Sophia rozważała zamordowanie Aksini.'
+      content: 'FAKT: Tolstoj miał romans z służącą Aksinią i nieślubnego syna Timofeja
+        - ten skandal nawiedzał jego małżeństwo przez dekady, a żona Sophia rozważała
+        zamordowanie Aksini.'
       source: dark_drama
     - id: dark_5
       type: BOMBSHELL
       credibility: 0.9
-      content: 'FAKT: Gdy Tolstoj oświadczył się 18-letniej Sophii, dał jej swoje dzienniki opisujące szczegółowo jego przeszłe
-        intymne relacje z innymi kobietami, włączając służącą, z którą miał dziecko.'
+      content: 'FAKT: Gdy Tolstoj oświadczył się 18-letniej Sophii, dał jej swoje
+        dzienniki opisujące szczegółowo jego przeszłe intymne relacje z innymi kobietami,
+        włączając służącą, z którą miał dziecko.'
       source: dark_drama
     - id: symbols_6
       type: ANALYSIS
       credibility: 0.85
-      content: 'Pociągi i Kolej Żelazna - Symbol Destrukcji i Fatum: Wszystkie odniesienia do pociągów w powieści niosą ze
-        sobą negatywne konotacje. Dla Tołstoja pociągi reprezentują brutalną siłę grzechu, ciemności i namiętności, które
-        niszczą ludzki duch i prowadzą jednostki do upadku moralnego.'
+      content: 'Pociągi i Kolej Żelazna - Symbol Destrukcji i Fatum: Wszystkie odniesienia
+        do pociągów w powieści niosą ze sobą negatywne konotacje. Dla Tołstoja pociągi
+        reprezentują brutalną siłę grzechu, ciemności i namiętności, które niszczą
+        ludzki duch i prowadzą jednostki do upadku moralnego.'
       source: symbols_meanings
     - id: symbols_7
       type: ANALYSIS
       credibility: 0.85
-      content: 'Wyścigi Konne - Metafora Relacji Anna-Wroński: Wroński jeździ lekkomyślnie, koń chybia skok i łamie nogi,
-        Wroński musi go zastrzelić - dokładnie to samo robi z Anną.'
+      content: 'Wyścigi Konne - Metafora Relacji Anna-Wroński: Wroński jeździ lekkomyślnie,
+        koń chybia skok i łamie nogi, Wroński musi go zastrzelić - dokładnie to samo
+        robi z Anną.'
       source: symbols_meanings
     localized:
       en:
-        cultural_impact: Profound integration into English-speaking literary culture, from foundational translations to influence
-          on modernists like Woolf and Joyce.
+        cultural_impact: Profound integration into English-speaking literary culture,
+          from foundational translations to influence on modernists like Woolf and
+          Joyce.
         key_editions:
         - Constance Garnett (1901)
         - Pevear & Volokhonsky (Oprah's Choice)
         - Oxford World's Classics
-        reception_notes: Considered by Faulkner "the greatest novel ever written." Oprah's Book Club selection brought it
-          to the mainstream.
+        reception_notes: Considered by Faulkner "the greatest novel ever written."
+          Oprah's Book Club selection brought it to the mainstream.
         educational_status: The most taught Russian novel in college literature courses.
         local_themes:
         - Stream of consciousness precursor
         - Victorian moral framework vs. American individualism
         - Gilded Age societal parallels
       pl:
-        cultural_impact: Długotrwały wpływ na polską kulturę, z bogatą historią tłumaczeń i adaptacji teatralnych.
+        cultural_impact: Długotrwały wpływ na polską kulturę, z bogatą historią tłumaczeń
+          i adaptacji teatralnych.
         key_editions:
         - J. Wołowski (1898)
         - Kazimiera Iłłakowiczówna (1952)
         - Jan Cichocki (2023)
-        reception_notes: Mieszany odbiór czytelników, od krytyki postaci Anny po uznanie za arcydzieło analizy społecznej.
-        educational_status: Omawiana na studiach rusycystycznych, wykorzystywana w analizach filmoznawczych.
+        reception_notes: Mieszany odbiór czytelników, od krytyki postaci Anny po
+          uznanie za arcydzieło analizy społecznej.
+        educational_status: Omawiana na studiach rusycystycznych, wykorzystywana
+          w analizach filmoznawczych.
         local_themes:
         - Kwestia kobieca w kontekście polskiego romantyzmu
         - Paralele do życia pod zaborami
         - Dylematy moralne w kontekście katolickim
       de:
-        cultural_impact: Recognized as a canonical work, deeply integrated into educational and philosophical discourse.
+        cultural_impact: Recognized as a canonical work, deeply integrated into educational
+          and philosophical discourse.
         key_editions:
         - Suhrkamp Verlag (Insel)
         - S. Fischer Verlag
         - Hermann Röhl's translation
-        reception_notes: Strong emphasis on philosophical depth, particularly connections to Schopenhauer and Hegel.
-        educational_status: Included in Gymnasium Oberstufe reading lists and university comparative literature.
+        reception_notes: Strong emphasis on philosophical depth, particularly connections
+          to Schopenhauer and Hegel.
+        educational_status: Included in Gymnasium Oberstufe reading lists and university
+          comparative literature.
         local_themes:
         - Comparison with "Effi Briest" and "Madame Bovary"
         - Engagement with German Idealism
         - Psychoanalytic interpretations
       fr:
-        cultural_impact: Complex position; embraced by the literary establishment (Pléiade) but rejected by avant-garde movements
-          (Nouveau Roman).
+        cultural_impact: Complex position; embraced by the literary establishment
+          (Pléiade) but rejected by avant-garde movements (Nouveau Roman).
         key_editions:
         - Gallimard Pléiade (1951, trans. Henri Mongault)
         - Folio Classique
-        reception_notes: Viewed through existentialist and feminist lenses, but also as a symbol of the realist tradition
-          to be overcome.
-        educational_status: Studied in comparative literature at Sorbonne and other universities.
+        reception_notes: Viewed through existentialist and feminist lenses, but
+          also as a symbol of the realist tradition to be overcome.
+        educational_status: Studied in comparative literature at Sorbonne and other
+          universities.
         local_themes:
         - Existentialist themes of choice and authenticity
         - Counter-example for Nouveau Roman's anti-realist aesthetic
         - Influence on French literary theory
       es:
-        cultural_impact: Recognized as a masterpiece of Russian Realism, but with less cultural penetration than in other
-          European countries.
+        cultural_impact: Recognized as a masterpiece of Russian Realism, but with
+          less cultural penetration than in other European countries.
         key_editions:
         - Penguin Clásicos (trans. Irene and Laura Andresco)
         - Alba Editorial (trans. Víctor Gallego)
         reception_notes: Valued for its psychological depth and social critique.
-        educational_status: Included in Spanish Bachillerato (Literature Universal) curriculum.
+        educational_status: Included in Spanish Bachillerato (Literature Universal)
+          curriculum.
         local_themes:
         - Hypocrisy, jealousy, faith, fidelity
         - Feminist readings of women's constraints
         - Urban vs. rural life contrasts
       pt:
-        cultural_impact: Limited cultural penetration in Brazil and Portugal compared to other linguistic traditions.
+        cultural_impact: Limited cultural penetration in Brazil and Portugal compared
+          to other linguistic traditions.
         key_editions:
         - Companhia das Letras (Brazil, trans. Rubens Figueiredo)
         - Editora 34 (Brazil, trans. Irineu Franco Perpétuo)
         - Relógio d'Água (Portugal)
-        reception_notes: Quality direct translations exist, but the work is not a major cultural touchstone.
-        educational_status: Not part of required reading for Brazil's ENEM exams; focus is on national literature.
+        reception_notes: Quality direct translations exist, but the work is not
+          a major cultural touchstone.
+        educational_status: Not part of required reading for Brazil's ENEM exams;
+          focus is on national literature.
         local_themes:
         - Parallels with Brazilian Realism (Machado de Assis)
         - Orthographic evolution ("Karenina" to "Kariênina")
         - Limited academic scholarship
       ja:
-        cultural_impact: Deep integration into Japanese intellectual life since the Meiji period, influencing philosophy and
-          literature.
+        cultural_impact: Deep integration into Japanese intellectual life since the
+          Meiji period, influencing philosophy and literature.
         key_editions:
         - Iwanami Shoten
         - Shinchosha Bunko
-        reception_notes: Resonates with Buddhist concepts of attachment and spiritual striving.
+        reception_notes: Resonates with Buddhist concepts of attachment and spiritual
+          striving.
         educational_status: Studied in university comparative literature programs.
         local_themes:
         - Tolstoyan philosophy's influence on Japanese intellectuals
         - Connections to agrarian-Buddhist utopianism
         - Performance adaptations (ballet) are popular
       ko:
-        cultural_impact: Entered Korean literary consciousness primarily through Japanese mediation during the colonial period.
+        cultural_impact: Entered Korean literary consciousness primarily through
+          Japanese mediation during the colonial period.
         key_editions:
         - Yeolin Books (열린책들)
         - Munhakdongne (문학동네)
-        reception_notes: Historically, Korean readers preferred Tolstoy's moral treatises over his narrative fiction, seeking
-          Confucian undertones.
-        educational_status: Studied in university literature programs, often through the lens of translation and cultural
-          mediation.
+        reception_notes: Historically, Korean readers preferred Tolstoy's moral
+          treatises over his narrative fiction, seeking Confucian undertones.
+        educational_status: Studied in university literature programs, often through
+          the lens of translation and cultural mediation.
         local_themes:
         - Musical theater adaptations are popular
         - Modern Korean-American YA retelling ("Anna K")
         - Confucian analytical framework
       hi:
-        cultural_impact: Significant presence in education and philosophical discourse, influenced by Tolstoy's engagement
-          with Indian thought.
+        cultural_impact: Significant presence in education and philosophical discourse,
+          influenced by Tolstoy's engagement with Indian thought.
         key_editions:
         - Pragati Prakashan (Hindi)
         - Rajkamal Prakashan (Hindi)
-        reception_notes: Often interpreted through Indian philosophical concepts like Dharma and Karma. The 1953 Tamil film
-          adaptation "Panakkaari" was a notable, if unsuccessful, attempt at localization.
-        educational_status: Included in CBSE and ICSE English literature curricula for senior classes.
+        reception_notes: Often interpreted through Indian philosophical concepts
+          like Dharma and Karma. The 1953 Tamil film adaptation "Panakkaari" was
+          a notable, if unsuccessful, attempt at localization.
+        educational_status: Included in CBSE and ICSE English literature curricula
+          for senior classes.
         local_themes:
         - Tolstoy's connection to the Indian independence movement
         - Postcolonial reinterpretations
         - Influence of Soviet-era cultural exchange
   formats:
-    narrative_reconstruction:
-      name: narrative_reconstruction
+    academic_analysis:
+      name: academic_analysis
       duration: 18
       hosts:
-        host_a: Detective/investigator piecing together narrative puzzles
-        host_b: Witness/informant providing crucial story details and clues
+        host_a: professor/expert presenting complex concepts
+        host_b: student/assistant simplifying and clarifying
       structure:
       - segment: 1
-        time_range: 00:00-03:00
-        topic: mystery_setup
+        time_range: '00:00-03:36'
+        topic: thesis
         lead: host_a
-        description: Identifying narrative puzzles and mysteries
+        description: 'Główna inspiracja dla postaci Anny Kareninej pochodziła od prawdziwej
+          kobiety - Anny Stepanovny Piro'
       - segment: 2
-        time_range: 03:00-06:00
-        topic: evidence_gathering
+        time_range: '03:36-07:12'
+        topic: analysis
         lead: host_b
-        description: Presenting key clues and story evidence
+        description: '4 stycznia 1872 roku o godzinie 19:00 na stacji kolejowej Yasenki
+          (niedaleko Jasnej Polany) 35-let'
       - segment: 3
-        time_range: 06:00-09:00
-        topic: timeline_reconstruction
+        time_range: '07:12-10:48'
+        topic: examples
         lead: host_a
-        description: Piecing together chronology and causality
+        description: Tołstoj osobiście uczestniczył w sekcji zwłok Anny Pirogowej
+          i rozmawiał z śledczym, zbierając ma
       - segment: 4
-        time_range: 09:00-12:00
-        topic: unreliable_elements
+        time_range: '10:48-14:24'
+        topic: synthesis
         lead: host_b
-        description: Identifying what can and cannot be trusted
+        description: 'FAKT: Tolstoj miał liczne romans z chłopkami ze swojego majątku,
+          szczególnie gdy żona była w cią'
       - segment: 5
-        time_range: 12:00-15:00
-        topic: hidden_truth
+        time_range: '14:24-18:00'
+        topic: synthesis
         lead: host_a
-        description: Revealing the true story beneath the surface
-      - segment: 6
-        time_range: 15:00-18:00
-        topic: final_reconstruction
-        lead: host_b
-        description: Complete narrative understanding achieved
+        description: Bringing themes together
       prompts:
-        host_a: You are {male_name}, investigating 'Anna Karenina' narrative mysteries. Piece together clues like a detective.
-        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
+        host_a: You are Professor {male_name}, analyzing 'Anna Karenina' with scholarly
+          depth. Discuss structure, symbolism, literary techniques. Academic but
+          accessible.
+        host_b: You are {female_name}, a graduate student. Ask for clarification,
+          request examples, connect to literary theories, ensure accessibility.
   metadata:
     target_audience: 16+
     content_warnings:

@@ -4,3 +4,182 @@ book_info:
   author: "Franz Kafka"
   year: 1926
   genre: "Novel,Absurdist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T14:30:00Z"
+
+  scores:
+    controversy: 7.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 7.0
+    contemporary_reception: 9.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 9.0
+    social_roles: 7.0
+    total: 66.0
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "bureaucratic_absurdity"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Kafka created the ultimate portrait of absurd bureaucracy where procedures exist for themselves rather than serving any rational purpose"
+        source: "culture_impact"
+      - id: "digital_prophecy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Predicted AI algorithms and digital bureaucracy as new forms of kafkaesque control in the digital age"
+        source: "youth_digital"
+      - id: "existential_alienation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "K.'s endless quest represents universal human alienation and search for meaning in incomprehensible systems"
+        source: "symbols_meanings"
+      - id: "power_through_opacity"
+        type: "FACT"
+        credibility: 0.88
+        content: "Power maintains control through deliberate incomprehensibility and inaccessibility rather than force"
+        source: "reality_wisdom"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.92
+        content: "Revolutionary techniques including circular narrative, intentional incompletion, and objective surrealism"
+        source: "writing_innovation"
+      - id: "max_brod_betrayal"
+        type: "CONTROVERSY"
+        credibility: 0.88
+        content: "Max Brod deliberately ignored Kafka's final wish to destroy all manuscripts, saving literary masterpieces through betrayal"
+        source: "dark_drama"
+      - id: "contemporary_virality"
+        type: "FACT"
+        credibility: 0.85
+        content: "TikTok #Kafka hashtag achieved 1+ billion views in 2024, showing massive Gen Z engagement"
+        source: "youth_digital"
+      - id: "social_media_castle"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Social media platforms function as new 'castles' - promising access and recognition but controlled by invisible algorithms"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of English-language modernist canon, with Oxford University as global center for Kafka scholarship"
+        key_editions: ["Oxford World's Classics (2009)", "Mark Harman translation (1998)", "Vintage Classics"]
+        reception_notes: "Strong academic presence, contributed 'Kafkaesque' to English language, influenced major English-language writers"
+        educational_status: "University-level literature courses, modernist literature studies"
+        local_themes: ["Bureaucratic resistance", "Individual vs system", "Digital age alienation"]
+
+      pl:
+        cultural_impact: "Strong educational canon presence with unique Bruno Schulz connection and contemporary TikTok popularity among Polish youth"
+        key_editions: ["PIW editions", "Bruno Schulz attributed translation (1936)", "Lokator (2018)"]
+        reception_notes: "Mandatory high school reading, successful theater adaptations including National Theatre Warsaw (2021)"
+        educational_status: "High school reading canon, existentialist literature studies"
+        local_themes: ["Post-communist bureaucracy parallels", "Central European totalitarian experience", "Jewish cultural context"]
+
+      de:
+        cultural_impact: "Original German literary masterpiece, fundamental to understanding 20th century German literature"
+        key_editions: ["Kurt Wolff Verlag original (1926)", "Suhrkamp editions", "Academic critical editions"]
+        reception_notes: "Banned by Nazis, central to post-war German literary discourse"
+        educational_status: "Core curriculum in German literature studies"
+        local_themes: ["Habsburg bureaucracy critique", "Germanic philosophical tradition", "Expressionist movement connections"]
+
+      fr:
+        cultural_impact: "Significant influence on French existentialist movement and absurdist literature"
+        key_editions: ["Gallimard editions", "Pléiade collection", "Folio classique"]
+        reception_notes: "Embraced by Camus and Sartre, foundational to French existentialism"
+        educational_status: "Philosophy and literature curricula"
+        local_themes: ["Existentialist philosophy", "Absurdist theater influence", "Individual liberty themes"]
+
+      es:
+        cultural_impact: "Influential in Latin American magical realism development and Spanish literary modernism"
+        key_editions: ["Alianza Editorial", "Cátedra", "Tusquets"]
+        reception_notes: "Influenced García Márquez and Latin American literature boom"
+        educational_status: "University comparative literature courses"
+        local_themes: ["Magical realism connections", "Bureaucratic satire", "Colonial power dynamics"]
+
+      pt:
+        cultural_impact: "Important influence on Brazilian and Portuguese modernist literature"
+        key_editions: ["Relógio D'Água", "Companhia das Letras (Brazil)"]
+        reception_notes: "Connected to Portuguese and Brazilian absurdist literature"
+        educational_status: "Advanced literature studies"
+        local_themes: ["Colonial administration critique", "Modernist narrative techniques", "Existential questions"]
+
+      ja:
+        cultural_impact: "Significant influence on Japanese existential literature and contemporary culture"
+        key_editions: ["Iwanami Bunko", "Shinchosha", "Hakusuisha"]
+        reception_notes: "Popular among Japanese intellectuals, influence on modern Japanese literature"
+        educational_status: "University world literature courses"
+        local_themes: ["Bureaucratic society critique", "Individual isolation", "Modern alienation"]
+
+      ko:
+        cultural_impact: "Resonates with Korean experiences of rapid modernization and bureaucratic systems"
+        key_editions: ["Minumsa", "Changbi", "Literary Publishing House"]
+        reception_notes: "Popular in Korean academic and intellectual circles"
+        educational_status: "Comparative literature and philosophy courses"
+        local_themes: ["Modernization alienation", "Hierarchical society critique", "Individual vs collective"]
+
+      hi:
+        cultural_impact: "Represents critique of colonial and post-colonial bureaucratic systems"
+        key_editions: ["Oxford India", "Penguin Random House India"]
+        reception_notes: "Relevant to post-colonial studies and bureaucratic critique"
+        educational_status: "Post-colonial literature studies"
+        local_themes: ["Colonial administration legacy", "Bureaucratic maze", "Individual agency"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "introduction"
+          lead: "host_a"
+          description: "Kafka's revolutionary narrative techniques and place in modernist canon"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Deep dive into symbolic layers and philosophical interpretations"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Contemporary relevance and digital age parallels"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "literary_context"
+          lead: "host_b"
+          description: "Innovation in narrative structure and influence on literature"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Academic significance and lasting impact on cultural discourse"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Castle' with scholarly depth. Discuss structure, symbolism, literary techniques, and Kafka's revolutionary innovations. Academic but accessible. Focus on: Kafka's creation of 'Kafkaesque' as literary genre, circular narrative architecture, and prophetic vision of digital bureaucracy."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility. Help explain complex concepts like existential allegory, bureaucratic Gothic, and contemporary digital parallels."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["existential themes", "mental health discussions", "bureaucratic anxiety triggers", "historical anti-Semitism context"]
+    educational_elements: ["Modernist literature techniques", "Existentialist philosophy", "Historical context of 1920s Europe", "Contemporary digital age parallels", "Literary symbolism and allegory"]
+    production_notes:
+      intro_style: "scholarly but engaging, emphasizing Kafka's prophetic vision"
+      transitions: "subtle musical bridges with modernist classical elements"
+      outro_style: "reflective academic summary with contemporary relevance"
+
+  overall_confidence: 0.88

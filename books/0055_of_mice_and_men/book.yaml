@@ -4,3 +4,184 @@ book_info:
   author: "John Steinbeck"
   year: 1937
   genre: "Novella,Tragedy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-16T10:30:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 8
+    cultural_phenomenon: 8
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 6
+    structural_complexity: 3
+    social_roles: 8
+    total: 58
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 6.5
+      category: "medium"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "social_hierarchy"
+        type: "FACT"
+        credibility: 0.95
+        content: "FBI surveillance for 30 years, execution decisions based on book character"
+        source: "dark_drama"
+      - id: "disability_standard"
+        type: "BOMBSHELL"
+        credibility: 0.95
+        content: "Texas uses character to determine death sentences for intellectually disabled"
+        source: "dark_drama"
+      - id: "youth_mental_health"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "25% of young men struggle with loneliness, similar to universal isolation on ranch"
+        source: "youth_digital"
+      - id: "toxic_masculinity"
+        type: "FACT"
+        credibility: 0.9
+        content: "Male suicide rates high, emotional suppression still expected"
+        source: "reality_wisdom"
+      - id: "american_dream_failure"
+        type: "FACT"
+        credibility: 0.9
+        content: "Only 50% of young people earn more than parents - Steinbeck was right!"
+        source: "reality_wisdom"
+      - id: "friendship_treasure"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Deep friendship as template for healthy male emotional connection"
+        source: "youth_digital"
+      - id: "censorship_control"
+        type: "FACT"
+        credibility: 0.95
+        content: "54 censorship attempts, book burnings, 5th most banned book in USA"
+        source: "dark_drama"
+      - id: "prophetic_commentary"
+        type: "ANALYSIS"
+        credibility: 0.9
+        content: "Agricultural mechanization, exploitation of cheap labor - completely accurate predictions"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature, extensive parody culture from Looney Tunes to modern memes"
+        key_editions: ["Penguin scholarly editions", "Book-of-the-Month Club selection"]
+        reception_notes: "Deep penetration in American popular culture vs universal themes in UK"
+        educational_status: "Required reading across Anglophone high schools"
+        local_themes: ["American Dream discourse", "Popular culture integration"]
+      pl:
+        cultural_impact: "Symbol of American social realism during communist era"
+        key_editions: ["PIW translations", "Post-1989 democratic interpretations"]
+        reception_notes: "Resonates with experiences of economic transition"
+        educational_status: "Taught as example of capitalist critique"
+        local_themes: ["Post-communist readings", "Economic transition parallels"]
+      de:
+        cultural_impact: "Academic tradition of philosophical interpretation"
+        key_editions: ["Reclam scholarly editions with extensive commentary"]
+        reception_notes: "Focus on existential and psychological dimensions"
+        educational_status: "University-level literary analysis"
+        local_themes: ["Philosophical interpretations", "Existential analysis"]
+      fr:
+        cultural_impact: "Comparative analysis with French social realism"
+        key_editions: ["Gallimard translations", "Folio classique editions"]
+        reception_notes: "Viewed through lens of European social movements"
+        educational_status: "Secondary literature curriculum"
+        local_themes: ["Social realism comparison", "European context"]
+      es:
+        cultural_impact: "Resonance with migrant worker experiences"
+        key_editions: ["Cátedra critical editions", "Popular translations"]
+        reception_notes: "Strong connection to immigration themes"
+        educational_status: "Spanish-language literature programs"
+        local_themes: ["Immigration parallels", "Social justice themes"]
+      pt:
+        cultural_impact: "Connection to Brazilian social literature"
+        key_editions: ["Companhia das Letras", "L&PM Editores"]
+        reception_notes: "Parallels with Brazilian Northeast migration"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Internal migration", "Social inequality"]
+      ja:
+        cultural_impact: "Analysis through lens of group harmony vs individualism"
+        key_editions: ["Iwanami Bunko scholarly edition"]
+        reception_notes: "Focus on loyalty and sacrifice themes"
+        educational_status: "English literature curriculum"
+        local_themes: ["Loyalty and duty", "Social harmony concepts"]
+      ko:
+        cultural_impact: "Connection to themes of social hierarchy"
+        key_editions: ["Minumsa publishers", "University press translations"]
+        reception_notes: "Resonates with experiences of rapid modernization"
+        educational_status: "American literature studies"
+        local_themes: ["Social hierarchy", "Modernization impact"]
+      hi:
+        cultural_impact: "Analysis of caste and social stratification parallels"
+        key_editions: ["Penguin India", "Academic translations"]
+        reception_notes: "Connection to themes of social justice"
+        educational_status: "English literature curriculum"
+        local_themes: ["Caste system parallels", "Social stratification"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Great Depression backdrop and systemic failures"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Disability, race, gender as intersecting vulnerabilities"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_parallels"
+          lead: "host_a"
+          description: "Gig economy, loneliness epidemic, toxic masculinity persistence"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_justice_evolution"
+          lead: "host_b"
+          description: "Progress made since 1937 and ongoing struggles"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "future_implications"
+          lead: "host_a"
+          description: "From individual tragedy to collective action"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Of Mice and Men' through lens of power, gender, class. Historical context: 1937. Focus on how ranch represents American social hierarchy - Boss/Curley at top, white workers middle, Crooks/Lennie/Curley's wife at bottom. Reference book's prophetic accuracy about persistent inequality."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect 1937 themes to current movements - #MeToo, BLM, disability rights. Discuss toxic masculinity (Curley), systemic racism (Crooks), ableism (Lennie). Address progress (ADA, civil rights) and challenges (loneliness crisis, gig economy). Make relevant for young audiences."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence references"
+      - "death penalty and execution discussions"
+      - "racist language discussion (educational context)"
+      - "ableist attitudes and disability discrimination"
+      - "themes of suicide and mercy killing"
+    educational_elements:
+      - "Great Depression historical context"
+      - "Disability rights evolution"
+      - "Social justice movement connections"
+      - "Power dynamics and systemic oppression analysis"
+      - "Literary techniques and symbolism"
+    production_notes:
+      intro_style: "serious social commentary tone"
+      transitions: "thoughtful musical bridges between historical and contemporary perspectives"
+      outro_style: "call to action connecting literature to current social awareness"
+
+  overall_confidence: 0.87

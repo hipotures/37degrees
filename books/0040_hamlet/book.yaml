@@ -4,3 +4,182 @@ book_info:
   author: "William Shakespeare"
   year: c. 1601
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T12:00:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 65
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "controversy_001"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "87 different authorship conspiracy theories with 82 alternative candidates proposed"
+        source: "dark_drama"
+      - id: "philosophy_001"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "35 distinct symbolic elements enabling infinite reinterpretation across centuries"
+        source: "symbols_meanings"
+      - id: "relevance_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "Mental health crisis parallels Gen Z with 61% anxiety rates matching Hamlet's struggles"
+        source: "reality_wisdom"
+      - id: "controversy_002"
+        type: "FACT"
+        credibility: 0.95
+        content: "Stalin banned it, Israel censored West Bank performances, political weapon across centuries"
+        source: "dark_drama"
+      - id: "innovation_001"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Transformed revenge tragedy into psychological drama, creating new theatrical genre"
+        source: "writing_innovation"
+      - id: "culture_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 50 film adaptations since 1900, most filmed Shakespeare play ever"
+        source: "culture_impact"
+      - id: "youth_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "#GenZShakespeare 2.3M views, #DarkAcademia 52M+ creations featuring Hamlet"
+        source: "youth_digital"
+      - id: "philosophy_002"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "To be or not to be resonates with suicide being second leading cause of death for youth"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text of English literature, defines Western theatrical tradition"
+        key_editions: ["First Folio 1623", "Arden Shakespeare", "Norton Critical Edition"]
+        reception_notes: "Most performed Shakespeare play globally, academic industry built around it"
+        educational_status: "Core curriculum text in UK and US secondary education"
+        local_themes: ["British monarchy critique", "Protestant vs Catholic tensions"]
+
+      pl:
+        cultural_impact: "19 distinct Polish translations, deeply embedded in national consciousness"
+        key_editions: ["Paszkowski translation", "Słomczyński translation", "Multiple school editions"]
+        reception_notes: "Used as political allegory during communist era, remains school curriculum staple"
+        educational_status: "Mandatory reading in Polish secondary schools"
+        local_themes: ["Political resistance metaphor", "Surveillance state parallels to PRL era"]
+
+      de:
+        cultural_impact: "August Wilhelm Schlegel translation became definitive German Shakespeare"
+        key_editions: ["Schlegel-Tieck translation", "Reclam editions", "Academic editions"]
+        reception_notes: "Central to German Romantic movement, philosophical interpretations dominate"
+        educational_status: "Standard Gymnasium curriculum text"
+        local_themes: ["Philosophical depth analysis", "Freudian and Jungian interpretations"]
+
+      fr:
+        cultural_impact: "Influenced French Romanticism, Voltaire's critique sparked centuries of debate"
+        key_editions: ["François-Victor Hugo translation", "Pléiade edition", "Modern adaptations"]
+        reception_notes: "Initially rejected as barbaric, now celebrated as psychological masterpiece"
+        educational_status: "Baccalauréat literature option"
+        local_themes: ["Existentialist readings", "Psychoanalytic interpretations"]
+
+      es:
+        cultural_impact: "Multiple translations across Spanish-speaking world, each culturally distinct"
+        key_editions: ["Astrana Marín translation", "Instituto Shakespeare editions", "Latin American versions"]
+        reception_notes: "Adapted for political commentary during Franco era and Latin American dictatorships"
+        educational_status: "University literature programs standard"
+        local_themes: ["Political allegory", "Honor culture conflicts"]
+
+      pt:
+        cultural_impact: "Brazilian and Portuguese translations differ significantly in interpretation"
+        key_editions: ["Millôr Fernandes translation", "Barbara Heliodora edition", "Portuguese classics"]
+        reception_notes: "Popular in Brazilian theater, often adapted with local political themes"
+        educational_status: "University curriculum standard"
+        local_themes: ["Colonial power dynamics", "Brazilian political satire adaptations"]
+
+      ja:
+        cultural_impact: "First performed 1886, deeply influenced modern Japanese theater"
+        key_editions: ["Tsubouchi Shōyō translation", "Multiple manga adaptations", "Modern translations"]
+        reception_notes: "Inspired numerous adaptations including samurai versions and anime"
+        educational_status: "University English literature standard"
+        local_themes: ["Bushido code parallels", "Family honor conflicts"]
+
+      ko:
+        cultural_impact: "112 editions by 59 translators as of 2005, extensive Koreanization tradition"
+        key_editions: ["Hyun Chol 1923", "Direct translations post-1949", "Webtoon adaptations"]
+        reception_notes: "Incorporated shamanic elements, gender-fluid productions, political protest vehicle"
+        educational_status: "Not mandated but widely studied at university level"
+        local_themes: ["Han concept integration", "Political resistance during dictatorships"]
+
+      hi:
+        cultural_impact: "Extensively translated into 17 Indian languages, Bollywood adaptation Haider"
+        key_editions: ["Harivanshrai Bachchan translation", "Multiple regional versions", "Simplified editions"]
+        reception_notes: "Indianized through dharma-karma lens, Haider set in Kashmir conflict"
+        educational_status: "Not in CBSE/ICSE core but widely studied"
+        local_themes: ["Dharma vs revenge conflict", "Arjuna parallels from Mahabharata"]
+
+  formats:
+    critical_debate:
+      name: "critical_debate"
+      duration: 12
+      hosts:
+        host_a: "{male_name}, passionately defending Hamlet's genius and relevance"
+        host_b: "{female_name}, critically questioning the play's problems and overrated status"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "opening_positions"
+          lead: "host_a"
+          description: "Is Hamlet the greatest play ever written or an overanalyzed relic?"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "main_arguments"
+          lead: "host_b"
+          description: "Mental health representation vs exploitation, authorship controversies"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "counterarguments"
+          lead: "host_a"
+          description: "Contemporary relevance through Gen Z lens, surveillance state themes"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "resolution"
+          lead: "host_b"
+          description: "Finding common ground on Hamlet's complex legacy and ongoing debates"
+      prompts:
+        host_a: "You are {male_name}, defending Hamlet against modern criticism. Address the 87 authorship theories, mental health themes resonating with Gen Z (61% anxiety), and why it remains vital after 400 years. Cite the 50+ film adaptations and TikTok engagement."
+        host_b: "You are {female_name}, questioning Hamlet's inflated reputation. Challenge the authorship industry, problematic treatment of women (Ophelia/Gertrude), and whether we overanalyze it. Point out Stalin banned it for good reason - it's politically dangerous."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["suicide themes", "violence", "mental health crisis", "misogynistic elements"]
+    educational_elements: [
+      "Revenge tragedy genre characteristics",
+      "Elizabethan theater conventions",
+      "Psychological drama development",
+      "Political allegory interpretation"
+    ]
+    production_notes:
+      intro_style: "dramatic cold open with 'To be or not to be' snippet"
+      transitions: "tension-building musical bridges"
+      outro_style: "unresolved ending reflecting ongoing debates"
+
+  overall_confidence: 0.93

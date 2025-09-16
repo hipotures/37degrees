@@ -4,3 +4,177 @@ book_info:
   author: "John Steinbeck"
   year: 1939
   genre: "Social novel,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-15T19:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 7
+    structural_complexity: 7
+    social_roles: 9
+    total: 66
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "economic_trauma"
+        type: "FACT"
+        credibility: 0.95
+        content: "Economic displacement forcing family migration and psychological transformation through poverty"
+        source: "dark_drama"
+      - id: "suffering_transformation"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Character development through trauma: Tom to activist, Rose to maternal figure, Ma to leader"
+        source: "symbols_meanings"
+      - id: "family_crisis_structures"
+        type: "FACT"
+        credibility: 0.85
+        content: "Traditional patriarchy collapse with Ma becoming family strength and decision-maker"
+        source: "reality_wisdom"
+      - id: "human_dignity_struggle"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Individual dignity preserved through community solidarity against dehumanizing systems"
+        source: "culture_impact"
+      - id: "community_individualism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Evolution from individual survival to collective action and mutual aid philosophy"
+        source: "writing_innovation"
+      - id: "environmental_displacement"
+        type: "FACT"
+        credibility: 0.90
+        content: "Dust Bowl as human-caused disaster forcing mass population movement and cultural disruption"
+        source: "symbols_meanings"
+      - id: "maternal_leadership"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Women emerging as emotional and practical leaders during family and social crisis"
+        source: "symbols_meanings"
+      - id: "social_conscience_awakening"
+        type: "FACT"
+        credibility: 0.90
+        content: "Personal suffering leading to broader social awareness and commitment to justice"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Great Depression memory and American Dream deconstruction in national consciousness"
+        key_editions: ["Viking Press original", "Penguin Classics", "Library of America"]
+        reception_notes: "Canonical status in American education and Route 66 tourism industry"
+        educational_status: "Core curriculum in American high schools and universities"
+        local_themes: ["Dust Bowl historical memory", "Route 66 mythology", "New Deal era politics"]
+
+      pl:
+        cultural_impact: "Post-1956 socialist realism reception and contemporary economic transformation parallels"
+        key_editions: ["PIW editions 1956-1971", "Prószyński Media 2022"]
+        reception_notes: "Alfred Liebfeld translation remains standard for 65+ years"
+        educational_status: "Recognized but not mandatory reading in Polish schools"
+        local_themes: ["Socialist critique of capitalism", "Rural-urban migration", "Family solidarity tradition"]
+
+      de:
+        cultural_impact: "Philosophical interpretation within German intellectual tradition and refugee themes"
+        key_editions: ["Reclam editions", "Academic editions"]
+        reception_notes: "Strong philosophical and sociological academic analysis"
+        educational_status: "University literature and philosophy courses"
+        local_themes: ["Weimar Republic parallels", "Philosophical naturalism", "Social market economy critique"]
+
+      fr:
+        cultural_impact: "Literary naturalism tradition and social realism engagement"
+        key_editions: ["Gallimard editions", "Academic press translations"]
+        reception_notes: "Intellectual and artistic community engagement"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Émile Zola naturalism parallels", "Worker solidarity", "Republican social values"]
+
+      es:
+        cultural_impact: "Rural-urban migration themes resonating with Latin American experience"
+        key_editions: ["Spanish academic translations", "Latin American editions"]
+        reception_notes: "Social justice themes connecting to liberation movements"
+        educational_status: "Social studies and literature curricula"
+        local_themes: ["Migration and displacement", "Rural poverty", "Liberation theology connections"]
+
+      pt:
+        cultural_impact: "Brazilian migration and rural poverty parallels in literature"
+        key_editions: ["Brazilian academic editions", "Portuguese translations"]
+        reception_notes: "Social transformation and land reform discourse"
+        educational_status: "Literature and social studies"
+        local_themes: ["Rural-urban migration", "Latifundium critique", "Social justice movements"]
+
+      ja:
+        cultural_impact: "Post-war reconstruction and family honor themes in Japanese context"
+        key_editions: ["Japanese academic translations", "Popular editions"]
+        reception_notes: "Family and collective identity resonance"
+        educational_status: "American literature courses"
+        local_themes: ["Post-war social transformation", "Family honor vs survival", "Collective identity"]
+
+      ko:
+        cultural_impact: "Economic development aftermath and rural-urban divide themes"
+        key_editions: ["Korean university editions", "Popular translations"]
+        reception_notes: "Rapid development critique and family structure changes"
+        educational_status: "English and comparative literature"
+        local_themes: ["Rapid industrialization effects", "Family hierarchy transformation", "Economic miracle critique"]
+
+      hi:
+        cultural_impact: "Partition migration parallels and rural distress themes"
+        key_editions: ["Hindi translations", "Academic editions"]
+        reception_notes: "Rural crisis and migration themes highly relevant"
+        educational_status: "English literature and social studies"
+        local_themes: ["Partition migration parallels", "Rural agrarian crisis", "Social justice and resistance"]
+
+  formats:
+    emotional_perspective:
+      name: "emotional_perspective"
+      duration: 18
+      hosts:
+        host_a: "emotional reader sharing feelings and personal reactions"
+        host_b: "analytical critic explaining emotional techniques"
+      structure:
+        - segment: 1
+          time_range: "00:00-04:30"
+          topic: "first_impressions"
+          lead: "host_a"
+          description: "Visceral emotional response to Dust Bowl imagery and family displacement"
+        - segment: 2
+          time_range: "04:30-09:00"
+          topic: "character_transformations"
+          lead: "host_b"
+          description: "Psychological analysis of how suffering transforms Tom, Ma, and Rose of Sharon"
+        - segment: 3
+          time_range: "09:00-13:30"
+          topic: "emotional_techniques"
+          lead: "host_a"
+          description: "How Steinbeck manipulates reader emotions through key devastating scenes"
+        - segment: 4
+          time_range: "13:30-18:00"
+          topic: "lasting_impact"
+          lead: "host_b"
+          description: "Why emotional themes continue to devastate contemporary readers"
+      prompts:
+        host_a: "You are {male_name}, sharing your deep emotional response to 'The Grapes of Wrath'. Focus on how the book makes you FEEL - the anger at injustice, the heartbreak over family separation, the hope in human solidarity. Share personal reactions to key scenes like Ma burning her letters, the final breastfeeding scene, deaths of grandparents. Your role is to make the emotional journey visceral and relatable, helping listeners connect to their own feelings about displacement, poverty, and family bonds."
+        host_b: "You are {female_name}, analyzing HOW Steinbeck creates such powerful emotional responses. Explain the techniques: symbolism, character development, biblical parallels, intercalary chapters building tension. Help listeners understand why certain scenes devastate us, how Steinbeck manipulates reader emotions for social change, and why these emotional themes resonate across generations. Balance feeling with analysis, making the craft accessible while acknowledging the raw emotional power."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["economic trauma", "family displacement", "social injustice themes", "character deaths"]
+    educational_elements: ["Great Depression history", "Literary symbolism", "Social realism techniques", "Character psychology analysis"]
+    production_notes:
+      intro_style: "Somber, reflective tone matching the book's emotional weight"
+      transitions: "Subtle musical bridges evoking 1930s folk/dust bowl atmosphere"
+      outro_style: "Contemplative ending emphasizing lasting emotional impact"
+
+  overall_confidence: 0.92

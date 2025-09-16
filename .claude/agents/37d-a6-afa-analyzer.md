@@ -121,60 +121,30 @@ Read(review_path, offset=601, limit=300)
 ## STAGE 2: Prepare for AI scoring
 
 ### 2.1 Load AI scoring prompt
-```python
-ai_prompt_path = "$CLAUDE_PROJECT_DIR/config/afa_scoring_prompt.md"
-ai_prompt = Read(ai_prompt_path, offset=1, limit=300)
-```
+
+afa_scoring_path = "$CLAUDE_PROJECT_DIR/config/afa_scoring_prompt.md"
+Read(afa_scoring_path, offset=1, limit=300)
 
 ### 2.2 Combine research for AI
-```python
-combined_research = ""
-
-# Add core research files
-for filename, content in research_contents.items():
-    combined_research += f"\n\n=== {filename} ===\n{content}"
-
-# Add language-specific context files
-for filename, content in language_contents.items():
-    combined_research += f"\n\n=== {filename} ===\n{content}"
-
-# Add review.txt if available
-if review_content:
-    combined_research += f"\n\n=== review.txt (Google Gemini Deep Research) ===\n{review_content}"
-
-# Prepare final prompt for AI
-final_prompt = f"""
-{ai_prompt}
-
-## RESEARCH FILES TO ANALYZE:
-{combined_research}
-
-## BOOK METADATA:
-Title: {book_title}
-Author: {book_author}
-Year: {book_year}
-Translations: {translations_count}
-
 Please analyze according to behavioral anchors and return scores in YAML format.
 NOTE: Use review.txt for detailed STRUCTURAL_COMPLEXITY analysis when available.
-"""
-```
+
 
 ## STAGE 3: AI scoring with behavioral anchors
 
 ### 3.1 Send to AI and get scores
-```python
-# ultrathink: Analyze research using behavioral anchors from ai-scoring-prompt.md
 
-# AI should return 8 dimension scores with behavioral anchors:
-# - CONTROVERSY (0-2-5-7-9-10)
-# - PHILOSOPHICAL_DEPTH (0-2-5-7-9-10)
-# - CULTURAL_PHENOMENON (0-2-5-7-9-10)
-# - CONTEMPORARY_RECEPTION (0-2-5-7-9-10 or NA)
-# - RELEVANCE (0-2-5-7-9-10)
-# - INNOVATION (0-2-5-7-9-10)
-# - STRUCTURAL_COMPLEXITY (0-2-5-7-9-10)
-# - SOCIAL_ROLES (0-2-5-7-9-10)
+ultrathink: Analyze research using behavioral anchors from ai-scoring-prompt.md
+
+AI should return 8 dimension scores with behavioral anchors:
+ - CONTROVERSY (0-2-5-7-9-10)
+ - PHILOSOPHICAL_DEPTH (0-2-5-7-9-10)
+ - CULTURAL_PHENOMENON (0-2-5-7-9-10)
+ - CONTEMPORARY_RECEPTION (0-2-5-7-9-10 or NA)
+ - RELEVANCE (0-2-5-7-9-10)
+ - INNOVATION (0-2-5-7-9-10)
+ - STRUCTURAL_COMPLEXITY (0-2-5-7-9-10)
+ - SOCIAL_ROLES (0-2-5-7-9-10)
 
 ai_response = {
     "raw_scores": {
@@ -183,13 +153,23 @@ ai_response = {
         # ... all 8 dimensions
     }
 }
+
+
+## STAGE 4: Calculate DEPTH×HEAT composites and select format
+
+Call external script to calculate DEPTH, HEAT and select TOP 3 formats
+Script will output: DEPTH|<value>|<category>|HEAT|<value>|<category>|FORMAT1|<name>|<duration>|<score>|FORMAT2|<name>|<duration>|<score>|FORMAT3|<name>|<duration>|<score>
+
+Example command:
+```bash
+python3 scripts/internal/process_afa_scoring.py 8.0 9.0 5.0 2.0 8.0 9.0 7.0 7.0
 ```
 
-## STAGE 4: Calculate DEPTH×HEAT composites and select format (don't run manually!)
+Example output:
+```
+DEPTH|8.2|high|HEAT|5.5|medium|FORMAT1|academic_analysis|17|8.00|FORMAT2|social_perspective|14|2.67|FORMAT3|temporal_context|16|2.49
+```
 
-```python
-# Call external script to calculate DEPTH, HEAT and select format
-# Script will output: DEPTH|9.2|high|HEAT|8.2|high|FORMAT|academic_analysis|18
 calculation_output = Bash(f"""python3 scripts/internal/process_afa_scoring.py \
     {ai_response["raw_scores"]["controversy"]["value"]} \
     {ai_response["raw_scores"]["philosophical_depth"]["value"]} \
@@ -200,12 +180,42 @@ calculation_output = Bash(f"""python3 scripts/internal/process_afa_scoring.py \
     {ai_response["raw_scores"]["structural_complexity"]["value"]} \
     {ai_response["raw_scores"]["social_roles"]["value"]}""")
 
-# Agent reads the output and extracts values
-# Output format: DEPTH|9.2|high|HEAT|8.2|high|FORMAT|academic_analysis|18
-# Agent assigns: 
-# - DEPTH = 9.2, depth_category = "high"
-# - HEAT = 8.2, heat_category = "high"  
-# - selected_format = "academic_analysis", duration = 18
+Agent reads the output and extracts values:
+- DEPTH = 8.2, depth_category = "high"
+- HEAT = 5.5, heat_category = "medium"
+- Top 3 formats with scores:
+  1. FORMAT1: academic_analysis (17 min, score: 8.00)
+  2. FORMAT2: social_perspective (14 min, score: 2.67)
+  3. FORMAT3: temporal_context (16 min, score: 2.49)
+
+Agent selects the best format based on:
+1. Highest fitness score (FORMAT1)
+2. Format distribution balance (check if overused)
+3. Flexible selector guidelines
+
+Check AFA FORMAT DISTRIBUTION, we do not want one or more audio formats to have an advantage over the others.
+Run Bash("scripts/analyze_afa_formats.py")
+
+SELECTOR = Read("docs/AFA_AI_SELECTOR_FLEXIBLE_PROMPT.md")
+
+## Format Selection Decision Process
+
+Based on the TOP 3 formats from the script:
+1. **Primary choice (FORMAT1)**: Usually select this unless it's heavily overused (>20% of all books)
+2. **Alternative choice (FORMAT2)**: Consider if FORMAT1 is overused or doesn't fit the book's specific character
+3. **Fallback choice (FORMAT3)**: Use if both FORMAT1 and FORMAT2 are problematic
+
+CRITICAL: Remember, you can always override the top choice based on:
+- Current distribution (avoid formats used >20% of the time)
+- Book-specific characteristics from research
+- Flexible selector guidelines from $SELECTOR
+
+Final selected_format should be a dictionary:
+```python
+selected_format = {
+    "name": "chosen_format_name",  # e.g., "critical_debate"
+    "duration": duration_in_minutes  # e.g., 15
+}
 ```
 
 ## STAGE 5: Extract detailed themes with credibility

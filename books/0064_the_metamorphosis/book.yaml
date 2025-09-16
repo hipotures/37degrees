@@ -4,3 +4,182 @@ book_info:
   author: "Franz Kafka"
   year: 1915
   genre: "Novella,Absurdist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T12:00:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 7
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "corporate_dehumanization"
+        type: "FACT"
+        credibility: 0.95
+        content: "Kafka predicted how modern corporate culture reduces human worth to economic productivity, with Gregor valued only as breadwinner"
+        source: "reality_wisdom"
+      - id: "family_violence_rejection"
+        type: "FACT"
+        credibility: 0.95
+        content: "Father's apple attack and family's systematic rejection of Gregor parallels documented abuse patterns in toxic families"
+        source: "dark_drama"
+      - id: "social_alienation_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Gen Z identifies with Gregor's isolation, seeing parallels in social media-induced loneliness and digital disconnect"
+        source: "youth_digital"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary narrative techniques including perfect in medias res, objective correlative, and founding of absurdist literature"
+        source: "writing_innovation"
+      - id: "bureaucratic_horror"
+        type: "FACT"
+        credibility: 0.90
+        content: "Predicted algorithmic dehumanization and digital bureaucracy through prokurzysta's mechanical treatment of Gregor"
+        source: "reality_wisdom"
+      - id: "transformation_metaphor"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Physical metamorphosis as universal symbol for identity crisis, LGBTQ+ experience, mental health struggles"
+        source: "symbols_meanings"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 0.90
+        content: "Global adaptations across all media: films, theater, music, games, visual arts with Philip Glass compositions and VR games"
+        source: "culture_impact"
+      - id: "censorship_controversy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Banned by both Nazis and Soviets, Max Brod's betrayal of Kafka's wishes created decades-long manuscript battles"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text for English-speaking existentialist and absurdist movements, influenced Camus and modern writers"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Penguin Classics with multiple translators"]
+        reception_notes: "Standard university curriculum text, BBC adaptations with Benedict Cumberbatch, Broadway productions"
+        educational_status: "Commonly taught in 9th Grade World Literature and university contemporary literature courses"
+        local_themes: ["Existentialist philosophy", "Modernist narrative innovation", "Anglo-American psychological interpretation"]
+
+      pl:
+        cultural_impact: "Not mandatory in current Polish curriculum but strong theatrical tradition, often adapted as horror rather than grotesque"
+        key_editions: ["Juliusz Kydryński translation", "PWN digital editions", "Legimi audiobook formats"]
+        reception_notes: "Polish theaters prefer horror interpretation over Czech ironic approach, corporate modernizations common"
+        educational_status: "Fragments of The Trial required for exams, Metamorphosis optional reading"
+        local_themes: ["Connection to Bruno Schulz tradition", "Post-communist corporate criticism", "Family authority critique"]
+
+      de:
+        cultural_impact: "Original German text allows full appreciation of Kafka's linguistic innovations and wordplay"
+        key_editions: ["Kurt Wolff first edition 1915", "Reclam universal editions", "Fischer critical editions"]
+        reception_notes: "Read as criticism of bourgeois morality and early capitalist exploitation in German tradition"
+        educational_status: "Standard German literature curriculum text, analyzed for linguistic and cultural significance"
+        local_themes: ["German Romantic movement influence", "Philosophical interpretations", "Psychoanalytic readings"]
+
+      fr:
+        cultural_impact: "Strong influence on French existentialists, Camus appended Kafka essay to The Myth of Sisyphus"
+        key_editions: ["Gallimard translations", "Editions du Seuil", "French modernist interpretations"]
+        reception_notes: "Central to French absurdist movement, intellectual literary discussions"
+        educational_status: "University philosophy and literature programs emphasize existentialist interpretations"
+        local_themes: ["Existentialist philosophy", "Absurdist movement foundations", "Literary modernism"]
+
+      es:
+        cultural_impact: "Influenced Latin American magical realism, García Márquez acknowledged debt to Kafka's transformation techniques"
+        key_editions: ["Spanish peninsula translations", "Latin American editions", "Borges commentary editions"]
+        reception_notes: "Seen as precursor to magical realism, influenced Spanish surrealist movements"
+        educational_status: "Comparative literature courses connecting to Borges and García Márquez"
+        local_themes: ["Magical realism precursor", "Surrealist influence", "Colonial alienation metaphors"]
+
+      pt:
+        cultural_impact: "Brazilian editions popular, connections to Portuguese-language existentialist movements"
+        key_editions: ["Brazilian Portuguese translations", "Portuguese university editions"]
+        reception_notes: "Academic focus on psychological transformation and identity themes"
+        educational_status: "University literature and psychology courses"
+        local_themes: ["Psychological transformation", "Identity crisis metaphors", "Family dynamics analysis"]
+
+      ja:
+        cultural_impact: "Manga adaptations and anime aesthetics, 2008 East Press manga version in literary adaptation series"
+        key_editions: ["Japanese manga adaptation", "Academic translations", "Contemporary interpretations"]
+        reception_notes: "Popular in visual media, body horror anime connections"
+        educational_status: "Comparative literature and media studies programs"
+        local_themes: ["Body horror aesthetics", "Social isolation themes", "Transformation in manga culture"]
+
+      ko:
+        cultural_impact: "Korean interpretations focus on family pressure and social conformity themes"
+        key_editions: ["Korean academic translations", "Contemporary literary editions"]
+        reception_notes: "Resonates with Korean family hierarchy and social pressure themes"
+        educational_status: "University literature courses examining social pressure themes"
+        local_themes: ["Family hierarchy criticism", "Social conformity pressure", "Modern alienation"]
+
+      hi:
+        cultural_impact: "Indian academic reception focuses on colonial alienation and otherness themes"
+        key_editions: ["Academic Hindi translations", "English-language Indian editions"]
+        reception_notes: "Postcolonial interpretations emphasizing outsider experience"
+        educational_status: "Postcolonial literature courses and comparative studies"
+        local_themes: ["Colonial alienation metaphors", "Otherness and exclusion", "Social marginalization"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter exploring psychological mystery"
+        host_b: "literary witness experiencing transformation journey"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "the_morning_discovery"
+          lead: "host_a"
+          description: "What really happened that morning when Gregor woke up changed? Investigation begins"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "family_dynamics_unveiled"
+          lead: "host_b"
+          description: "Witnessing the family's true nature revealed through crisis - who were they really?"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "kafka_innovation_mystery"
+          lead: "host_a"
+          description: "How did Kafka create revolutionary literary techniques that predicted modern alienation?"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "modern_transformation_parallels"
+          lead: "host_b"
+          description: "Living the metamorphosis today - Gen Z finds themselves in Gregor's digital isolation"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "the_final_revelation"
+          lead: "host_a"
+          description: "Uncovering the ultimate truth about sacrifice, family, and what it means to be human"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter digging into the psychological mystery of The Metamorphosis. Ask probing questions about Kafka's revolutionary narrative techniques, the family's hidden dynamics, and how this 1915 story predicted modern digital alienation. Uncover the layers of meaning behind Gregor's transformation."
+        host_b: "You are {female_name}, experiencing the story from within - as if witnessing Gregor's journey firsthand. Describe the emotional reality of his transformation, the family's changing attitudes, and how contemporary readers connect with themes of isolation, toxic families, and identity crisis. Bring the story's emotional truth to life."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["family violence", "psychological transformation", "toxic family dynamics"]
+    educational_elements: ["modernist literature techniques", "existentialist philosophy", "psychological symbolism", "historical context of early 20th century"]
+    production_notes:
+      intro_style: "mysterious investigation opening with sound of ticking clock"
+      transitions: "subtle transformation sound effects between segments"
+      outro_style: "reflective conclusion with modern relevance emphasis"
+
+  overall_confidence: 0.89

@@ -1,258 +1,264 @@
-# Badania Historyczne: "Doktor Żywago" - Fakty i Historia Powstania
+# Historical Research: "Doctor Zhivago" - Facts and Creation History
 
-## Podstawowe Informacje o Książce
-- **Tytuł**: "Doctor Zhivago" (pol. "Doktor Żywago")
-- **Autor**: Boris Pasternak (1890-1960)
-- **Rok publikacji**: 1957 (Włochy), 1958 (świat), 1988 (ZSRR)
-- **Gatunek**: Powieść historyczna, romans
-
----
-
-## I. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
-
-### **FAKT** - Długi okres twórczy (1910-1955)
-Pasternak pisał "Doktora Żywago" przez dekady - powieść zawiera fragmenty napisane już w latach 1910-1920, ale nie została ukończona aż do 1955 roku. To oznacza, że nad książką pracował przez około 45 lat.
-
-### **FAKT** - Początek intensywnej pracy w 1948 roku
-Główna praca nad powieścią rozpoczęła się w 1948 roku, kiedy Pasternak skupił się na opowieści o rewolucji rosyjskiej i jej wpływie na jednostkę.
-
-### **FAKT** - Ukończenie w 1955, złożenie do wydawcy w 1956
-Manuskrypt został ukończony w 1955 roku, a w 1956 Pasternak złożył go redakcji czasopisma "Nowy Mir" - głównego wydawcy sowieckich pisarzy.
-
-### **FAKT** - 800-stronicowy manuskrypt z odręcznymi poprawkami
-Ostateczny manuskrypt składał się z prawie 800 maszynopisanych stron z odręcznymi poprawkami Pasternaka, co świadczy o jego skrupulatnym procesie edytorskim.
+## Basic Book Information
+- **Title**: "Doctor Zhivago"
+- **Author**: Boris Pasternak (1890-1960)
+- **Publication Year**: 1957 (Italy), 1958 (worldwide), 1988 (USSR)
+- **Genre**: Historical fiction, Romance
 
 ---
 
-## II. INSPIRACJE I MOTYWACJE AUTORA
+## I. CIRCUMSTANCES OF BOOK CREATION
 
-### **FAKT** - Olga Iwinskaja jako inspiracja dla Lary (1946-1960)
-Pasternak poznał Olgę Iwińską w październiku 1946 roku w redakcji "Nowego Miru", gdzie była odpowiedzialna za dział nowych autorów. 34-letnia, dwukrotnie owdowiała "zmęczona piękność" stała się inspiracją dla postaci Lary i towarzyszyła pisarzowi aż do jego śmierci.
+### **FACT** - Extended Creative Period (1910s-1955)
+Pasternak worked on "Doctor Zhivago" across decades - the novel contains passages written as early as the 1910s-1920s, but wasn't completed until 1955. This means he worked on the book for approximately 45 years.
 
-### **FAKT** - Różnica wieku 22 lata
-Gdy się poznali, Olga miała 34 lata, a Pasternak 56 - różnica wieku wynosiła 22 lata. Pasternak był wówczas w nieszczęśliwym, 10-letnim już małżeństwie z Zinaidą.
+### **FACT** - Intensive Writing Phase Beginning in 1945-1946
+The main work on the novel began in 1945-1946, when Pasternak focused on the story of the Russian Revolution and its impact on individuals. Some sources indicate he put aside an early version in the 1930s and returned to it in 1946.
 
-### **FAKT** - Codzienne przekazywanie rękopisów do przepisania
-Pasternak codziennie o godzinie 18:00 przekraczał mostek dzielący jego "duży dom" w Pieriediełkinie od małego domku Olgi, gdzie przynosił swoje odręczne kartki do przepisania na maszynie.
+### **FACT** - Completion in 1955, Submission in 1956
+The manuscript was completed in 1955, and in 1956 Pasternak submitted it to the editorial board of "Novy Mir" - the main publisher for Soviet writers.
 
-### **FAKT** - Artystyczne dziedzictwo rodzinne
-Ojciec Pasternaka był malarzem i ilustratorem dzieł Tołstoja, matka - pianistką koncertową. W domu rodzinnym bywali Leo Tołstoj oraz kompozytorzy Aleksandr Skriabin i Siergiej Rachmaninow.
-
----
-
-## III. PROCES TWÓRCZY I WARUNKI PRACY
-
-### **FAKT** - Dacha w Pieriediełkinie od 1936 roku
-Pasternak mieszkał i pracował w swojej daczy w Pieriediełkinie (kolonia pisarzy pod Moskwą) od 1936 roku. Był to brązowy, dwupiętrowy dom między brzozami i jodłami, gdzie spotykał gości w ogrodzie wśród kwiatów i drzew owocowych.
-
-### **FAKT** - Pokój na górze pełen angielskich klasyków
-W pokoju na piętrze, gdzie Pasternak dokończył pisanie "Doktora Żywago", półki wypełnione były angielskimi klasykami, które tłumaczył na rosyjski - to był łatwiejszy i politycznie bezpieczniejszy sposób zarabiania w czasach Stalina.
-
-### **FAKT** - Salon z fortepianem i szkicami ojca
-Przestronny salon z fortepianem odziedziczonym po matce, a ściany pokryte szkicami ołówkowymi i obrazami ojca. To w tym pokoju Pasternak świętował przyznanie Nagrody Nobla z bliskimi przyjaciółmi.
-
-### **FAKT** - Publiczne czytania fragmentów w salonach literackich Moskwy
-Dzięki wsparciu Olgi Iwinskaja, Pasternak zaczął czytać fragmenty "Doktora Żywago" w salonach literackich w Moskwie. Jego poetyckie czytania były tak popularne, że publiczność wykrzykiwała brakujące słowa, jeśli się zawahał.
+### **FACT** - Nearly 800-page Manuscript with Handwritten Corrections
+The final manuscript consisted of nearly 800 typed pages with Pasternak's handwritten corrections, demonstrating his meticulous editorial process.
 
 ---
 
-## IV. DRAMAT POLITYCZNY I CENZURA
+## II. AUTHOR'S INSPIRATIONS AND MOTIVATIONS
 
-### **FAKT** - Odrzucenie przez "Nowy Mir" z powodu krytyki socrealizmu
-Redakcja "Nowego Miru" odmówiła publikacji w 1956 roku ze względu na odrzucenie socjalistycznego realizmu oraz subtelną krytykę stalinizmu, kolektywizacji, Wielkiej Czystki i Gułagu.
+### **FACT** - Olga Ivinskaya as Lara's Inspiration (1946-1960)
+Pasternak met Olga Ivinskaya in October 1946 in the editorial office of "Novy Mir," where she worked in the new authors department. The 34-year-old, twice-widowed "tired beauty" became the inspiration for Lara and remained with the writer until his death. In one letter, Pasternak wrote that Ivinskaya was "Lara in my book."
 
-### **FAKT** - Świadomość ryzyka: "Zapraszam do obserwowania mojej egzekucji"
-Gdy włoski przedstawiciel wydawnictwa Sergio D'Angelo przybył do Pieriediełkina po manuskrypt w maju 1956, Pasternak był początkowo oszołomiony, potem przyniósł manuskrypt ze swojego gabinetu i powiedział ze śmiechem: "Zapraszam Pana do obserwowania mojej egzekucji".
+### **FACT** - 22-Year Age Difference
+When they met, Olga was 34 and Pasternak was 56 - a 22-year age difference. Pasternak was in an unhappy 10-year marriage with Zinaida at the time.
 
-### **FAKT** - Alternatywna wersja przekazania manuskryptu
-Według innej relacji Pasternak wyszedł z daczy, ściskając gruby pakiet i powiedział nerwowo: "To jest Doktor Żywago. Niech obiędzie cały świat", przekazując go D'Angelo.
+### **FACT** - Daily Manuscript Delivery at 6 PM
+Pasternak crossed a small bridge separating his "big house" in Peredelkino from Olga's small cottage every evening at 6 PM, bringing his handwritten pages for her to type up.
 
-### **FAKT** - Precedens sąsiada Borisa Pilniaka
-Pasternak wiedział, że publikacja "Doktora Żywago" we Włoszech przed pojawieniem się w druku rosyjskim może być potraktowana jako nielojalność - mniej niż 20 lat wcześniej pisarz Boris Pilniak, jego były sąsiad, został stracony za naruszenie partyjnych nakazów literackich.
-
----
-
-## V. PUBLIKACJA I ŚWIATOWY SUKCES
-
-### **FAKT** - Pierwsza publikacja we Włoszech 1957 roku
-"Doktor Żywago" został po raz pierwszy opublikowany w 1957 roku we Włoszech przez wydawcę Giangiacomo Feltrinelliego po przemyceniu manuskryptu z ZSRR.
-
-### **FAKT** - 18 języków sprzedanych jeszcze przed publikacją
-Tak wielkie było zapotrzebowanie na "Doktora Żywago", że Feltrinelli był w stanie sprzedać prawa do tłumaczeń na 18 różnych języków na długo przed publikacją powieści.
-
-### **FAKT** - Publikacje w 1958: czerwiec (francuski), wrzesień (angielski)
-Tłumaczenie francuskie zostało opublikowane przez Éditions Gallimard w czerwcu 1958 roku, angielskie - we wrześniu 1958 roku.
+### **FACT** - Artistic Family Heritage
+Pasternak's father was a painter and illustrator of Tolstoy's works, his mother was a concert pianist. Their Moscow home was visited by Leo Tolstoy and composers Alexander Scriabin and Sergei Rachmaninoff.
 
 ---
 
-## VI. OPERACJA CIA I ZIMNA WOJNA
+## III. CREATIVE PROCESS AND WORKING CONDITIONS
 
-### **FAKT** - Tajne filmy w CIA w styczniu 1958
-Tajny pakiet dotarł do centrali CIA w styczniu 1958 roku. W środku znajdowały się dwie rolki filmu od brytyjskiego wywiadu - zdjęcia stron rosyjskojęzycznej powieści "Doktor Żywago".
+### **FACT** - Dacha in Peredelkino from 1936
+Pasternak lived and worked in his dacha in Peredelkino (writers' colony near Moscow) from 1936. It was a brown, two-story house among birches and firs, where he received guests in the garden among flowers and fruit trees.
 
-### **FAKT** - 1000 egzemplarzy wydrukowanych w Holandii
-CIA zleciła wydrukowanie 1000 egzemplarzy rosyjskojęzycznego wydania w twardej oprawie u wydawcy Mouton w Hadze na początku września 1958 roku.
+### **FACT** - Upstairs Room Full of English Classics
+In the upstairs room where Pasternak finished writing "Doctor Zhivago," shelves were filled with English classics he translated into Russian - this was an easier and politically safer way to earn money during Stalin's era.
 
-### **FAKT** - 365 egzemplarzy rozdanych na Expo 58 w Brukseli
-365 egzemplarzy w charakterystycznej niebieskiej lnianej oprawie Mouton zostało rozdanych w pawilonie Watykanu na Światowej Wystawie w Brukseli w 1958 roku.
+### **FACT** - Salon with Piano and Father's Sketches
+The spacious salon contained a piano inherited from his mother, with walls covered by pencil sketches and paintings by his father. It was in this room that Pasternak celebrated receiving the Nobel Prize with close friends.
 
-### **FAKT** - Miniaturowe wydanie wydrukowane w centrali CIA
-CIA wydrukowała miniaturowe wydanie kieszonkowe powieści w swojej centrali w Waszyngtonie w 1959 roku.
-
-### **FAKT** - Memo CIA o "wielkim znaczeniu propagandowym"
-W memo z lipca 1958 roku John Maury, szef działu Rosja Sowiecka, napisał, że książka stanowi wyraźne zagrożenie dla światopoglądu, który Kreml chce przedstawić: "Humanistyczne przesłanie Pasternaka - że każda osoba ma prawo do życia prywatnego i zasługuje na szacunek jako istota ludzka, niezależnie od stopnia lojalności politycznej - stanowi fundamentalne wyzwanie dla sowieckiej etyki poświęcenia jednostki systemowi komunistycznemu".
-
-### **FAKT** - Wadliwa wersja rosyjska z błędami
-Wersja rosyjska rozprowadzona na Expo 58 była "mutantem książki" - pełna błędów typograficznych i gramatycznych, niekompletnych fragmentów i niedorozwiniętych wątków fabularnych.
+### **FACT** - Public Readings in Moscow Literary Salons
+With Olga Ivinskaya's support, Pasternak began reading excerpts from "Doctor Zhivago" at literary salons in Moscow. His poetic readings were so popular that audiences would call out missing words if he hesitated.
 
 ---
 
-## VII. NAGRODA NOBLA I DRAMATYCZNE KONSEKWENCJE
+## IV. POLITICAL DRAMA AND CENSORSHIP
 
-### **FAKT** - Nagroda Nobla 23 października 1958
-23 października 1958 roku Boris Pasternak otrzymał Nagrodę Nobla w dziedzinie literatury, a komitet motywował decyzję "jego ważnym osiągnięciem zarówno w poezji lirycznej, jak i w dziedzinie wielkiej tradycji rosyjskiej epiki".
+### **FACT** - Rejection by "Novy Mir" Due to Socialist Realism Criticism
+"Novy Mir" editorial board refused publication in 1956 due to the novel's rejection of socialist realism and subtle criticism of Stalinism, collectivization, the Great Purge, and the Gulag.
 
-### **FAKT** - Radosny telegram z akceptacją 25 października
-25 października Pasternak wysłał telegram do Szwedzkiej Akademii: "Nieskończenie wdzięczny, wzruszony, dumny, zaskoczony, przytłoczony".
+### **FACT** - Awareness of Risk: "Invited to Watch My Execution"
+When Italian publisher representative Sergio D'Angelo arrived at Peredelkino for the manuscript in May 1956, Pasternak was initially stunned, then brought the manuscript from his study and said with a laugh: "You are hereby invited to watch me face the firing squad."
 
-### **FAKT** - Natychmiastowa reakcja sowieckich władz
-Reakcja była szybka i brutalna - rząd sowiecki zmusił kolegów pisarzy do potępienia Pasternaka, a gazety drukowały pamflety nazywające go "literackim chwastem".
+### **FACT** - Alternative Version of Manuscript Handover
+According to another account, Pasternak emerged from the dacha clutching a thick package and said nervously: "This is Doctor Zhivago. May it make its way around the world," handing it to D'Angelo.
 
-### **FAKT** - Wymuszenie podpisów studentów Instytutu Literackiego
-Tego samego dnia Instytut Literacki w Moskwie zażądał, by wszyscy studenci podpisali petycję potępiającą Pasternaka i jego powieść, nakazując im dodatkowo uczestnictwo w "spontanicznej" demonstracji domagającej się wygnania pisarza z ZSRR.
-
-### **FAKT** - Ultimatum: Nobel albo ojczyzna
-Pasternakowi powiedziano, że jeśli uda się do Oslo odebrać nagrodę, nigdy nie będzie mógł wrócić do Związku Radzieckiego.
-
-### **FAKT** - Telegram z odmową 29 października 1958
-29 października 1958 roku wysłał telegram do Komitetu Noblowskiego: "Biorąc pod uwagę znaczenie, jakie ta nagroda otrzymała w społeczeństwie, do którego należę, muszę odrzucić tę niezasłużoną nagrodę, którą mi przedstawiono. Proszę nie odbierać mojej dobrowolnej odmowy z niezadowoleniem".
+### **FACT** - Precedent of Neighbor Boris Pilnyak
+Pasternak knew that publishing "Doctor Zhivago" in Italy before appearing in Russian print could be treated as disloyalty - less than 20 years earlier, writer Boris Pilnyak, his former neighbor, had been executed for violating party literary orders.
 
 ---
 
-## VIII. OSOBISTE KONSEKWENCJE I TRAGEDIE
+## V. PUBLICATION AND WORLDWIDE SUCCESS
 
-### **FAKT** - Pierwsze aresztowanie Olgi Iwinskaja w 1949 roku
-W październiku 1949 Olga Iwińska została aresztowana jako "współszkodnik szpiega" i w lipcu 1950 skazana przez Specjalną Radę NKWD na 5 lat w Gułagu. To było postrzegane jako próba nacisku na Pasternaka, by zaniechał pism krytycznych wobec systemu sowieckiego.
+### **FACT** - First Publication in Italy 1957
+"Doctor Zhivago" was first published in 1957 in Italy by publisher Giangiacomo Feltrinelli after the manuscript was smuggled out of the USSR.
 
-### **FAKT** - Poronienie w więzieniu
-W czasie aresztowania Iwińska była w ciąży z Pasternakiem i poroniła w więzieniu.
+### **FACT** - 18 Languages Sold Before Publication
+Such was the demand for "Doctor Zhivago" that Feltrinelli was able to sell translation rights to 18 different languages long before the novel's publication.
 
-### **FAKT** - Przesłuchania przez Ławrientija Berię
-Według jej wspomnień jedną z oznak zainteresowania władz Pasternakiem było to, że była przesłuchiwana przez ministra bezpieczeństwa państwowego, niesławnego Ławrientija Berię.
-
-### **FAKT** - List Pasternaka z 1958 roku o heroizmie Olgi
-W liście z 1958 roku do przyjaciela w Niemczech Zachodnich Pasternak napisał: "Została wtrącona do więzienia z mojego powodu, jako osoba uważana przez policję tajną za najbliższą mi, i mieli nadzieję, że za pomocą wyczerpującego przesłuchania i gróźb będą mogli wyciągnąć od niej wystarczająco dużo dowodów, by postawić mnie przed sądem. Zawdzięczam swoje życie i fakt, że nie dotknęli mnie w tamtych latach, jej heroizmowi i wytrwałości".
-
-### **FAKT** - Drugie aresztowanie po śmierci Pasternaka w 1960 roku
-Po śmierci Pasternaka w 1960 roku Iwińska została aresztowana po raz drugi razem z córką Iriną Emielianową. Została oskarżona o bycie łącznikiem Pasternaka z zachodnimi wydawcami w handlu twardą walutą za "Doktora Żywago".
+### **FACT** - 1958 Publications: June (French), September (English)
+The French translation was published by Éditions Gallimard in June 1958, the English version in September 1958.
 
 ---
 
-## IX. ŚMIERĆ PASTERNAKA I NASTĘPSTWA
+## VI. CIA OPERATION AND COLD WAR
 
-### **FAKT** - Śmierć z raka płuc 30 maja 1960 roku
-Boris Pasternak zmarł z powodu raka płuc w swojej daczy w Pieriediełkinie wieczorem 30 maja 1960 roku.
+### **FACT** - Secret Films at CIA in January 1958
+A secret package reached CIA headquarters in January 1958. Inside were two film rolls from British intelligence - photographs of pages from the Russian-language novel "Doctor Zhivago."
 
-### **FAKT** - Ostatnie słowa o Oldze i mgiele
-Jego ostatnie słowa brzmiały: "Nie bardzo dobrze słyszę. I mam mgłę przed oczami. Ale przejdzie, prawda? Nie zapomnij jutro otworzyć okna". Tuż przed śmiercią wezwał synów i powiedział: "Kto będzie najbardziej cierpieć z powodu mojej śmierci? Tylko Oliusza będzie, a ja nie zdążyłem nic dla niej zrobić".
+### **FACT** - 1,000 Copies Printed in Holland
+The CIA commissioned the printing of 1,000 hardcover Russian-language copies from publisher Mouton in The Hague in early September 1958.
 
-### **FAKT** - Ostatnie namaszczenie przez prawosławnego księdza
-Krótko przed śmiercią ksiądz Rosyjskiej Cerkwi Prawosławnej udzielił Pasternakowi ostatniego namaszczenia.
+### **FACT** - 365 Copies Distributed at Brussels Expo 58
+365 copies in distinctive blue linen Mouton binding were distributed at the Vatican pavilion at the Brussels World's Fair in 1958.
 
-### **FAKT** - Tysiące żałobników mimo nadzoru KGB i milicji
-Pomimo że w "Gazecie Literackiej" pojawiła się tylko mała notka o śmierci, tysiące wielbicieli, ignorując nadzór milicji i KGB, stawiło się na pogrzebie Pasternaka w Pieriediełkinie.
+### **FACT** - Miniature Edition Printed at CIA Headquarters
+The CIA printed a miniature pocket edition of the novel at its headquarters in Washington in 1959.
 
----
+### **FACT** - CIA Memo on "Great Propaganda Significance"
+In a July 1958 memo, John Maury, head of the Soviet Russia Division, wrote that the book posed a clear threat to the worldview the Kremlin wanted to present: "Pasternak's humanistic message - that every person has the right to a private life and deserves respect as a human being, regardless of political loyalty - poses a fundamental challenge to the Soviet ethic of sacrificing the individual to the communist system."
 
-## X. REHABILITACJA I TRIUMF POŚMIERTNY
-
-### **FAKT** - Rehabilitacja w 1987 roku przez Gorbaczowa
-W 1987 roku, w ramach demokratycznych reform przywódcy sowieckiego Michaiła Gorbaczowa, Pasternak, choć zmarły od prawie 30 lat, został przywrócony do związku pisarzy, a jego książka w końcu została opublikowana w Rosji.
-
-### **FAKT** - Publikacja w "Nowym Mirze" w 1988 roku
-W 1988 roku, po dziesięcioleciach krążenia w samizdacie, "Doktor Żywago" został opublikowany w odcinkach w czasopiśmie literackim "Nowy Mir" - tym samym czasopiśmie, które odmówiło publikacji powieści, gdy została po raz pierwszy napisana.
-
-### **FAKT** - Yevgeny Pasternak odbiera Nobla w 1989 roku
-W grudniu 1989 roku Yevgeny Borysowicz Pasternak otrzymał pozwolenie na wyjazd do Sztokholmu w celu odebrania medalu Nobla swojego ojca.
-
-### **FAKT** - Koncert Rostropowicza na ceremonii
-Na ceremonii uznany wiolonczelista i sowiecki dysydent Mstisław Rostropowicz wykonał serenadę Bacha na cześć zmarłego rodaka.
-
-### **FAKT** - Słowa Yevgeny'ego: "To godne zakończenie tragedii"
-"To godne zakończenie tragedii [...] i jestem bardzo szczęśliwy" - powiedział Yevgeny do publiczności tego dnia.
-
-### **FAKT** - Rehabilitacja Olgi Iwinskaja w 1988 roku
-Olga Iwińska została oficjalnie zrehabilitowana dopiero w 1988 roku, tym samym roku co publikacja "Doktora Żywago" w ZSRR.
+### **FACT** - Flawed Russian Version with Errors
+The Russian version distributed at Expo 58 was a "book mutant" - full of typographical and grammatical errors, incomplete fragments, and underdeveloped plot threads.
 
 ---
 
-## XI. ADAPTACJE FILMOWE I KULTUROWY WPŁYW
+## VII. NOBEL PRIZE AND DRAMATIC CONSEQUENCES
 
-### **FAKT** - Film Davida Leana z 1965 roku - fenomen kasowy
-Najsłynniejsza adaptacja to film z 1965 roku w reżyserii Davida Leana z Omarem Sharifem jako Żywago i Julie Christie jako Lara, który odniósł komercyjny sukces i zdobył pięć Oscarów.
+### **FACT** - Nobel Prize October 23, 1958
+On October 23, 1958, Boris Pasternak received the Nobel Prize in Literature, with the committee citing "his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition."
 
-### **FAKT** - 9. miejsce w rankingu najlepiej zarabiających filmów wszech czasów
-Po uwzględnieniu inflacji film z 1965 roku jest 9. najlepiej zarabiającym filmem na świecie w historii kina.
+### **FACT** - Joyful Telegram of Acceptance October 25
+On October 25, Pasternak sent a telegram to the Swedish Academy: "Infinitely grateful, touched, proud, surprised, overwhelmed."
 
-### **FAKT** - 10 nominacji do Oscarów, 5 wygranych
-Na 38. ceremonii rozdania Oscarów "Doktor Żywago" otrzymał dziesięć nominacji (w tym do Najlepszego Filmu) i zdobył pięć: za Najlepszy Scenariusz Adaptowany, Muzykę Oryginalną, Zdjęcia, Scenografię i Kostiumy.
+### **FACT** - Immediate Soviet Government Reaction
+The reaction was swift and brutal - the Soviet government forced fellow writers to condemn Pasternak, and newspapers printed pamphlets calling him "literary weed."
 
-### **FAKT** - 5 Złotych Globów w tym Najlepszy Film
-Film zdobył również pięć nagród na 23. ceremonii Złotych Globów, w tym za Najlepszy Film.
+### **FACT** - Forcing Student Signatures at Literary Institute
+On the same day, Moscow's Literary Institute demanded all students sign a petition condemning Pasternak and his novel, additionally requiring them to participate in a "spontaneous" demonstration demanding the writer's exile from the USSR.
 
-### **FAKT** - Zakaz w ZSRR ale nielegalny przemyt
-Partia Komunistyczna zakazała filmu w Związku Radzieckim, ale podobnie jak książka, film zdołał się przedostać nielegalnie.
+### **FACT** - Ultimatum: Nobel or Homeland
+Pasternak was told that if he went to Oslo to receive the prize, he would never be allowed to return to the Soviet Union.
 
-### **FAKT** - "Lara's Theme" Maurice'a Jarre - światowy hit
-Muzyka filmowa Maurice'a Jarre, szczególnie romantyczny "Lara's Theme", stała się światowym hitem i jest pamiętana do dziś.
-
----
-
-## XII. STATYSTYKI I REKORDY
-
-### **FAKT** - Wykaz szkolny w Rosji od 2003 roku
-Od 2003 roku, podczas pierwszej prezydentury Władimira Putina, powieść "Doktor Żywago" weszła do rosyjskiego programu szkolnego i jest czytana w 11. klasie szkoły średniej.
-
-### **FAKT** - Pierwsza brazylijska adaptacja telewizyjna w 1959 roku
-Pierwszy ekranizacja była brazylijska seria telewizyjna z 1959 roku, jeszcze przed słynnym filmem Leana.
-
-### **FAKT** - Dwie kolejne adaptacje telewizyjne po 1965 roku
-Powieść została dwukrotnie zaadaptowana dla telewizji od filmu z 1965 roku - ostatnio jako miniserial dla rosyjskiej telewizji w 2006 roku i brytyjski serial telewizyjny z 2002 roku z Hansem Mathesonem, Keirą Knightley i Samem Neillem.
-
-### **FAKT** - Uznana za największą rosyjską powieść XX wieku
-Uważana przez wielu za największą rosyjską powieść XX wieku, "Doktor Żywago" to z pewnością najbardziej znane fikcyjne przedstawienie decydujących momentów współczesnej historii rosyjskiej na początku XX wieku.
+### **FACT** - Telegram of Refusal October 29, 1958
+On October 29, 1958, he sent a telegram to the Nobel Committee: "In view of the meaning this award has been given in the society to which I belong, I must reject this undeserved prize which has been presented to me. Please do not meet my voluntary refusal with ill will."
 
 ---
 
-## XIII. ANEGDOTY I CIEKAWOSTKI
+## VIII. PERSONAL CONSEQUENCES AND TRAGEDIES
 
-### **FAKT** - Zdjęcie z toastu w dniu ogłoszenia Nobla
-Istnieje fotografia Pasternaka wznoszącego toast w dniu, gdy dowiedział się o przyznaniu Nagrody Nobla za Literaturę - zdjęcie wykonane w pokoju jego daczy, choć władze radzieckie zabroniły mu jej przyjęcia.
+### **FACT** - First Arrest of Olga Ivinskaya in 1949
+In October 1949, Olga Ivinskaya was arrested as an "accomplice of a spy" and in July 1950 sentenced by a Special NKVD Council to 5 years in the Gulag. This was seen as an attempt to pressure Pasternak to abandon writings critical of the Soviet system.
 
-### **FAKT** - Przewodnicy recytujący wiersze z pamięci
-Gdy zwiedzający przychodzili do muzeum Pasternaka, przewodnicy, którzy byli zdumiewająco znającymi się na Pasternaku, recytowali jego wiersze z pamięci - jeden przewodnik, gdy zwiedzający skomentował śliczny śnieżny dzień, natychmiast zaczął recytować jeden z jego najsłynniejszych wierszy, znając go całkowicie na pamięć.
+### **FACT** - Miscarriage in Prison
+At the time of arrest, Ivinskaya was pregnant with Pasternak's child and miscarried in prison.
 
-### **FAKT** - KGB obstawił dachę po ogłoszeniu Nobla
-Po ogłoszeniu Nagrody Nobla KGB otoczyła dachę Pasternaka w Pieriediełkinie na bezpośrednie rozkazy Biura Politycznego, groząc mu aresztowaniem i przysiągając wysłać jego kochankę Olgę Iwińską z powrotem do gułagu.
+### **FACT** - Interrogations by Lavrentiy Beria
+According to her memoirs, one sign of the authorities' interest in Pasternak was that she was interrogated by the notorious Minister of State Security, Lavrentiy Beria.
 
-### **FAKT** - Poeta na rodzinnych salonach z wielkimi mistrzami
-Pasternak dorastał, widując Leo Tołstoja oraz kompozytorów Aleksandra Skriabina i Siergieja Rachmaninowa odwiedzających jego rodziców w ich domu w Moskwie.
+### **FACT** - Pasternak's 1958 Letter About Olga's Heroism
+In a 1958 letter to a friend in West Germany, Pasternak wrote: "She was put in jail on my account, as the person considered by the secret police to be closest to me, and they hoped that by means of a grueling interrogation and threats they could extract enough evidence from her to put me on trial. I owe my life and the fact that they did not touch me in those years to her heroism and endurance."
 
-### **PLOTKA** - Możliwość uniknięcia więzienia dzięki Noblowi
-Możliwe, że Nagroda Nobla z 1958 roku zapobiegła uwięzieniu Pasternaka ze względu na strach państwa radzieckiego przed międzynarodowymi protestami. Yevgeny Pasternak uważa jednak, że wynikające z tego prześladowanie śmiertelnie osłabiło zdrowie jego ojca.
-
-### **FAKT** - Most między domami - codzienne rytuały
-Most oddzielał "duży dom" Pasternaka od małego domku Olgi w Pieriediełkinie, a Pasternak przekraczał go każdego wieczoru o godzinie szóstej, kiedy przynosił swoje odręczne kartki Oldze do przepisania na maszynie.
+### **FACT** - Second Arrest After Pasternak's Death in 1960
+After Pasternak's death in 1960, Ivinskaya was arrested for the second time along with her daughter Irina Emelyanova. She was accused of being Pasternak's liaison with Western publishers in hard currency dealings for "Doctor Zhivago."
 
 ---
 
-## Podsumowanie
+## IX. PASTERNAK'S DEATH AND AFTERMATH
 
-Historia powstania "Doktora Żywago" to fascynujące splatanie się artystycznej pasji, miłości, politycznego oporu i ludzkiej odwagi. Boris Pasternak stworzył dzieło, które stało się symbolem walki o wolność artystyczną w czasach totalitaryzmu, a jego publikacja stała się jedną z najważniejszych operacji kulturalnych zimnej wojny.
+### **FACT** - Death from Lung Cancer May 30, 1960
+Boris Pasternak died of lung cancer at his dacha in Peredelkino on the evening of May 30, 1960.
 
-Książka, pisana przez 45 lat, inspirowana tragiczną miłością do Olgi Iwinskaja, opublikowana dzięki operacji CIA, uhonorowana Nagrodą Nobla, która została odrzucona pod naciskiem władz, ostatecznie triumfowała po śmierci autora, stając się jednym z najważniejszych dzieł literatury rosyjskiej XX wieku.
+### **FACT** - Last Words About Olga and Fog
+His last words were: "I don't hear very well. And I have fog before my eyes. But it will pass, won't it? Don't forget to open the window tomorrow." Just before death, he called his sons and said: "Who will suffer most from my death? Only Olga will, and I didn't manage to do anything for her."
 
-Każdy fakt z tej historii brzmi jak fragment thrillera szpiegowskiego, ale wszystkie są prawdziwe i dokumentują niezwykłą moc literatury do zmieniania świata.
+### **FACT** - Last Rites by Orthodox Priest
+Shortly before death, a priest of the Russian Orthodox Church gave Pasternak last rites.
+
+### **FACT** - Thousands of Mourners Despite KGB and Police Surveillance
+Although only a small notice appeared in "Literary Gazette," thousands of admirers, ignoring police and KGB surveillance, appeared at Pasternak's funeral in Peredelkino.
 
 ---
-**Źródła badawcze**: Przeszukiwanie internetowe, archiwalne artykuły prasowe, oficjalne dokumenty CIA, wspomnienia świadków, biograficzne źródła literackie.
+
+## X. REHABILITATION AND POSTHUMOUS TRIUMPH
+
+### **FACT** - Rehabilitation in 1987 by Gorbachev
+In 1987, as part of Soviet leader Mikhail Gorbachev's democratic reforms, Pasternak, though dead for nearly 30 years, was restored to the writers' union, and his book was finally published in Russia.
+
+### **FACT** - Publication in "Novy Mir" in 1988
+In 1988, after decades of circulating in samizdat, "Doctor Zhivago" was published in installments in "Novy Mir" literary magazine - the same magazine that had refused to publish the novel when it was first written.
+
+### **FACT** - Yevgeny Pasternak Receives Nobel in 1989
+In December 1989, Yevgeny Borisovich Pasternak was allowed to travel to Stockholm to receive his father's Nobel medal.
+
+### **FACT** - Rostropovich Concert at Ceremony
+At the ceremony, renowned cellist and Soviet dissident Mstislav Rostropovich performed a Bach serenade in honor of his deceased compatriot.
+
+### **FACT** - Yevgeny's Words: "A Worthy End to the Tragedy"
+"This is a worthy end to the tragedy [...] and I am very happy," Yevgeny told the audience that day.
+
+### **FACT** - Olga Ivinskaya's Rehabilitation in 1988
+Olga Ivinskaya was officially rehabilitated only in 1988, the same year "Doctor Zhivago" was published in the USSR.
+
+---
+
+## XI. FILM ADAPTATIONS AND CULTURAL IMPACT
+
+### **FACT** - David Lean's 1965 Film - Box Office Phenomenon
+The most famous adaptation is the 1965 film directed by David Lean starring Omar Sharif as Zhivago and Julie Christie as Lara, which was a commercial success and won five Oscars.
+
+### **FACT** - 9th Place in All-Time Highest-Grossing Films Ranking
+When adjusted for inflation, the 1965 film is the 9th highest-grossing film worldwide in cinema history.
+
+### **FACT** - 10 Oscar Nominations, 5 Wins
+At the 38th Academy Awards, "Doctor Zhivago" received ten nominations (including Best Picture) and won five: Best Adapted Screenplay, Original Score, Cinematography, Art Direction, and Costume Design.
+
+### **FACT** - 5 Golden Globes Including Best Picture
+The film also won five awards at the 23rd Golden Globe Awards, including Best Picture.
+
+### **FACT** - Banned in USSR but Illegally Smuggled
+The Communist Party banned the film in the Soviet Union, but like the book, the film managed to penetrate illegally.
+
+### **FACT** - Maurice Jarre's "Lara's Theme" - Worldwide Hit
+Maurice Jarre's film score, particularly the romantic "Lara's Theme," became a worldwide hit and is remembered to this day.
+
+### **FACT** - 248 Million Tickets Sold Worldwide
+The film sold an estimated 248 million tickets worldwide and remains one of the highest-grossing films ever when adjusted for inflation.
+
+---
+
+## XII. STATISTICS AND RECORDS
+
+### **FACT** - School Curriculum in Russia Since 2003
+Since 2003, during Vladimir Putin's first presidency, "Doctor Zhivago" has been included in the Russian school curriculum and is read in the 11th grade of secondary school.
+
+### **FACT** - First Brazilian Television Adaptation in 1959
+The first screen adaptation was a Brazilian television series in 1959, even before Lean's famous film.
+
+### **FACT** - Two More Television Adaptations After 1965
+The novel has been adapted for television twice since the 1965 film - most recently as a miniseries for Russian television in 2006 and a British television series in 2002 with Hans Matheson, Keira Knightley, and Sam Neill.
+
+### **FACT** - Recognized as Greatest Russian Novel of 20th Century
+Considered by many to be the greatest Russian novel of the 20th century, "Doctor Zhivago" is certainly the best-known fictional representation of the decisive moments in modern Russian history at the beginning of the 20th century.
+
+---
+
+## XIII. ANECDOTES AND CURIOSITIES
+
+### **FACT** - Photo of Toast on Nobel Announcement Day
+There exists a photograph of Pasternak raising a toast on the day he learned of receiving the Nobel Prize in Literature - a photo taken in his dacha room, though Soviet authorities forbade him from accepting it.
+
+### **FACT** - Tour Guides Reciting Poems from Memory
+When visitors came to the Pasternak museum, guides who were amazingly knowledgeable about Pasternak would recite his poems from memory - one guide, when visitors commented on a beautiful snowy day, immediately began reciting one of his most famous poems, knowing it completely by heart.
+
+### **FACT** - KGB Surrounded Dacha After Nobel Announcement
+After the Nobel Prize announcement, the KGB surrounded Pasternak's dacha in Peredelkino on direct orders from the Politburo, threatening him with arrest and vowing to send his lover Olga Ivinskaya back to the gulag.
+
+### **FACT** - Poet Among Great Masters in Family Salons
+Pasternak grew up seeing Leo Tolstoy and composers Alexander Scriabin and Sergei Rachmaninoff visiting his parents at their home in Moscow.
+
+### **RUMOR** - Nobel Prize May Have Prevented Imprisonment
+It's possible that the 1958 Nobel Prize prevented Pasternak's imprisonment due to the Soviet state's fear of international protests. Yevgeny Pasternak believes, however, that the resulting persecution fatally weakened his father's health.
+
+### **FACT** - Bridge Between Houses - Daily Rituals
+A bridge separated Pasternak's "big house" from Olga's small cottage in Peredelkino, and Pasternak crossed it every evening at six o'clock when he brought his handwritten pages to Olga for typing.
+
+### **FACT** - Khrushchev's Later Regret
+After being ousted as USSR leader, Khrushchev read the novel and lamented not just that he had a hand in banning the book, but that it had been banned at all. "Some might say it's too late for me to express regret that the book wasn't published," Khrushchev wrote in his memoirs.
+
+---
+
+## Summary
+
+The creation history of "Doctor Zhivago" is a fascinating intertwining of artistic passion, love, political resistance, and human courage. Boris Pasternak created a work that became a symbol of the struggle for artistic freedom in times of totalitarianism, and its publication became one of the most important cultural operations of the Cold War.
+
+A book written over 45 years, inspired by tragic love for Olga Ivinskaya, published through a CIA operation, honored with a Nobel Prize that was rejected under government pressure, ultimately triumphed after the author's death, becoming one of the most important works of 20th-century Russian literature.
+
+Every fact from this story sounds like a fragment of a spy thriller, but all are true and document the extraordinary power of literature to change the world.
+
+---
+**Research Sources**: Internet searches, archival press articles, official CIA documents, witness testimonies, biographical literary sources.

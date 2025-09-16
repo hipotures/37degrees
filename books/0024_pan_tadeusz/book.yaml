@@ -1,13 +1,15 @@
 book_info:
-  title: Pan Tadeusz
-  title_pl: Pan Tadeusz
-  author: Adam Mickiewicz
+  title: "Pan Tadeusz"
+  title_pl: "Pan Tadeusz"
+  author: "Adam Mickiewicz"
   year: 1834
-  genre: Novel
-  reading_time: 10-12 hours
+  genre: "Novel"
+  reading_time: "10-12 hours"
+
 afa_analysis:
-  version: '3.0'
-  processed_at: '2025-09-14T12:00:00'
+  version: "3.0"
+  processed_at: "2025-09-14T12:00:00"
+
   scores:
     controversy: 7
     philosophical_depth: 7
@@ -19,197 +21,168 @@ afa_analysis:
     social_roles: 7
     total: 54
     percentile: 85
+
   composite_scores:
     depth:
       value: 7.0
-      category: medium
+      category: "medium"
     heat:
       value: 6.5
-      category: medium
+      category: "medium"
+
   themes:
     universal:
-    - id: messianic_0
-      type: FACT
-      credibility: 0.95
-      content: Poland as Christ of Nations - Messianic concept condemned by Catholic Church
-      source: dark_drama
-    - id: cultural_1
-      type: FACT
-      credibility: 0.95
-      content: 6 million viewers for Wajda film - Second most-watched Polish film post-1989
-      source: culture_impact
-    - id: literary_2
-      type: ANALYSIS
-      credibility: 0.85
-      content: Last great European epic poem - Marks end of epic tradition with Byron and Pushkin
-      source: writing_innovation
-    - id: censorship_3
-      type: FACT
-      credibility: 0.95
-      content: Banned by Nazis and Catholic Church - Possession illegal, on Index Librorum Prohibitorum
-      source: dark_drama
-    - id: prophetic_4
-      type: ANALYSIS
-      credibility: 0.85
-      content: 79% prediction accuracy - Social predictions remarkably accurate after 190 years
-      source: reality_wisdom
-    - id: honor_5
-      type: FACT
-      credibility: 0.95
-      content: Napoleon's posthumous Legion of Honor - Jacek Soplica awarded French military honor
-      source: facts_history
-    - id: scandal_6
-      type: BOMBSHELL
-      credibility: 0.9
-      content: Mickiewicz suicide attempt 1838 - Wife's mental illness led to personal crisis
-      source: dark_drama
-    - id: modern_7
-      type: ANALYSIS
-      credibility: 0.85
-      content: Cottagecore aesthetic connection - Gen Z finds romantic rural themes appealing
-      source: youth_digital
+      - id: "messianic_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Poland as Christ of Nations - Messianic concept condemned by Catholic Church"
+        source: "dark_drama"
+      - id: "cultural_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "6 million viewers for Wajda film - Second most-watched Polish film post-1989"
+        source: "culture_impact"
+      - id: "literary_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Last great European epic poem - Marks end of epic tradition with Byron and Pushkin"
+        source: "writing_innovation"
+      - id: "censorship_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Banned by Nazis and Catholic Church - Possession illegal, on Index Librorum Prohibitorum"
+        source: "dark_drama"
+      - id: "prophetic_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "79% prediction accuracy - Social predictions remarkably accurate after 190 years"
+        source: "reality_wisdom"
+      - id: "honor_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Napoleon's posthumous Legion of Honor - Jacek Soplica awarded French military honor"
+        source: "facts_history"
+      - id: "scandal_6"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Mickiewicz suicide attempt 1838 - Wife's mental illness led to personal crisis"
+        source: "dark_drama"
+      - id: "modern_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cottagecore aesthetic connection - Gen Z finds romantic rural themes appealing"
+        source: "youth_digital"
+
     localized:
       en:
-        cultural_impact: Limited recognition despite 8 translations, studied in Slavic programs
-        key_editions:
-        - Kenneth MacKenzie 1964
-        - Bill Johnston 2018 ALTA Award
-        reception_notes: Academic niche, not mainstream literature
-        educational_status: University Slavic studies only
-        local_themes:
-        - European Romanticism context
-        - Comparison with Byron
+        cultural_impact: "Limited recognition despite 8 translations, studied in Slavic programs"
+        key_editions: ["Kenneth MacKenzie 1964", "Bill Johnston 2018 ALTA Award"]
+        reception_notes: "Academic niche, not mainstream literature"
+        educational_status: "University Slavic studies only"
+        local_themes: ["European Romanticism context", "Comparison with Byron"]
+
       pl:
-        cultural_impact: National epic, compulsory reading, defines Polish identity
-        key_editions:
-        - First edition Paris 1834
-        - Countless Polish editions
-        reception_notes: 6 million viewers for Wajda film, removed from curriculum 2025
-        educational_status: Compulsory grades 7-8 until 2025
-        local_themes:
-        - National identity
-        - Sarmacka tradition
-        - Patriotic education
+        cultural_impact: "National epic, compulsory reading, defines Polish identity"
+        key_editions: ["First edition Paris 1834", "Countless Polish editions"]
+        reception_notes: "6 million viewers for Wajda film, removed from curriculum 2025"
+        educational_status: "Compulsory grades 7-8 until 2025"
+        local_themes: ["National identity", "Sarmacka tradition", "Patriotic education"]
+
       de:
-        cultural_impact: 5 German translations, respected in academic circles
-        key_editions:
-        - Siegfried Lipiner 1882
-        - Karl Dedecius editions
-        reception_notes: Academic respect but limited popular reach
-        educational_status: Slavic studies programs only
-        local_themes:
-        - Romantic philosophy
-        - Goethe connections
+        cultural_impact: "5 German translations, respected in academic circles"
+        key_editions: ["Siegfried Lipiner 1882", "Karl Dedecius editions"]
+        reception_notes: "Academic respect but limited popular reach"
+        educational_status: "Slavic studies programs only"
+        local_themes: ["Romantic philosophy", "Goethe connections"]
+
       fr:
-        cultural_impact: Written in Paris exile, central to Polish diaspora culture
-        key_editions:
-        - 6 French translations
-        - Roger Legras edition
-        reception_notes: Collège de France lectures 1840-1844
-        educational_status: Comparative literature programs
-        local_themes:
-        - Exile literature
-        - Grande Émigration
-        - Romantic nationalism
+        cultural_impact: "Written in Paris exile, central to Polish diaspora culture"
+        key_editions: ["6 French translations", "Roger Legras edition"]
+        reception_notes: "Collège de France lectures 1840-1844"
+        educational_status: "Comparative literature programs"
+        local_themes: ["Exile literature", "Grande Émigration", "Romantic nationalism"]
+
       es:
-        cultural_impact: Minimal presence, scarce translations
-        key_editions:
-        - No comprehensive Spanish translation found
-        reception_notes: Limited to academic Slavic studies
-        educational_status: Universidad de Granada Polish Literature course
-        local_themes:
-        - European Romanticism context
-        - Nation-building parallels
+        cultural_impact: "Minimal presence, scarce translations"
+        key_editions: ["No comprehensive Spanish translation found"]
+        reception_notes: "Limited to academic Slavic studies"
+        educational_status: "Universidad de Granada Polish Literature course"
+        local_themes: ["European Romanticism context", "Nation-building parallels"]
+
       pt:
-        cultural_impact: No complete translation despite huge Polish diaspora in Brazil
-        key_editions:
-        - Partial translations by Henryk Siewierski
-        reception_notes: 200,000 Polish-Brazilians, Curitiba as Polish capital
-        educational_status: Limited to heritage schools
-        local_themes:
-        - Immigration experience
-        - Cultural preservation
+        cultural_impact: "No complete translation despite huge Polish diaspora in Brazil"
+        key_editions: ["Partial translations by Henryk Siewierski"]
+        reception_notes: "200,000 Polish-Brazilians, Curitiba as Polish capital"
+        educational_status: "Limited to heritage schools"
+        local_themes: ["Immigration experience", "Cultural preservation"]
+
       ja:
-        cultural_impact: Single prestigious translation, academic interest
-        key_editions:
-        - Yukio Kudo translation 1999 Kodansha
-        reception_notes: Compared to Tale of Genji as national epic
-        educational_status: University Slavic studies
-        local_themes:
-        - National epic comparisons
-        - Romantic nationalism
+        cultural_impact: "Single prestigious translation, academic interest"
+        key_editions: ["Yukio Kudo translation 1999 Kodansha"]
+        reception_notes: "Compared to Tale of Genji as national epic"
+        educational_status: "University Slavic studies"
+        local_themes: ["National epic comparisons", "Romantic nationalism"]
+
       ko:
-        cultural_impact: Academic translation, limited popular reach
-        key_editions:
-        - HUFS translation 2005
-        reception_notes: Nationalism themes resonate with Korean division
-        educational_status: HUFS Polish Studies department
-        local_themes:
-        - Colonial experience parallels
-        - National division themes
+        cultural_impact: "Academic translation, limited popular reach"
+        key_editions: ["HUFS translation 2005"]
+        reception_notes: "Nationalism themes resonate with Korean division"
+        educational_status: "HUFS Polish Studies department"
+        local_themes: ["Colonial experience parallels", "National division themes"]
+
       hi:
-        cultural_impact: No Hindi translation, unexplored potential
-        key_editions:
-        - English editions available in India
-        reception_notes: Parallels with Indian epics unexplored
-        educational_status: Delhi University Polish language program
-        local_themes:
-        - Epic tradition parallels
-        - Partition literature connections
+        cultural_impact: "No Hindi translation, unexplored potential"
+        key_editions: ["English editions available in India"]
+        reception_notes: "Parallels with Indian epics unexplored"
+        educational_status: "Delhi University Polish language program"
+        local_themes: ["Epic tradition parallels", "Partition literature connections"]
+
   formats:
-    narrative_reconstruction:
-      name: narrative_reconstruction
-      duration: 18
+    temporal_context:
+      name: "temporal_context"
+      duration: 13
       hosts:
-        host_a: Detective/investigator piecing together narrative puzzles
-        host_b: Witness/informant providing crucial story details and clues
+        host_a: "classical literature expert explaining origins"
+        host_b: "contemporary reader finding modern relevance"
       structure:
-      - segment: 1
-        time_range: 00:00-03:00
-        topic: mystery_setup
-        lead: host_a
-        description: Identifying narrative puzzles and mysteries
-      - segment: 2
-        time_range: 03:00-06:00
-        topic: evidence_gathering
-        lead: host_b
-        description: Presenting key clues and story evidence
-      - segment: 3
-        time_range: 06:00-09:00
-        topic: timeline_reconstruction
-        lead: host_a
-        description: Piecing together chronology and causality
-      - segment: 4
-        time_range: 09:00-12:00
-        topic: unreliable_elements
-        lead: host_b
-        description: Identifying what can and cannot be trusted
-      - segment: 5
-        time_range: 12:00-15:00
-        topic: hidden_truth
-        lead: host_a
-        description: Revealing the true story beneath the surface
-      - segment: 6
-        time_range: 15:00-18:00
-        topic: final_reconstruction
-        lead: host_b
-        description: Complete narrative understanding achieved
+        - segment: 1
+          time_range: "00:00-03:15"
+          topic: "original_era"
+          lead: "host_a"
+          description: "1811-1812 Lithuania under Russian partition, nobility's last stand"
+        - segment: 2
+          time_range: "03:15-06:30"
+          topic: "evolution"
+          lead: "host_b"
+          description: "From banned book to national epic, Nazi censorship to school curriculum"
+        - segment: 3
+          time_range: "06:30-09:45"
+          topic: "modern_parallels"
+          lead: "host_a"
+          description: "Exile themes resonate with migration, environmental prescience"
+        - segment: 4
+          time_range: "09:45-13:00"
+          topic: "timelessness"
+          lead: "host_b"
+          description: "Cottagecore aesthetic, mental health themes, 79% prediction accuracy"
       prompts:
-        host_a: You are {male_name}, investigating 'Pan Tadeusz' narrative mysteries. Piece together clues like a detective.
-        host_b: You are {female_name}, witness to the story. Provide evidence while maintaining narrative tension.
+        host_a: "You are {male_name}, a classical literature expert. Explain 'Pan Tadeusz' in its original 1834 context, conventions, intentions."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'Pan Tadeusz', connect to current technology, contemporary sensibilities."
+
   metadata:
-    target_audience: 14+
+    target_audience: "14+"
     content_warnings:
-    - historical violence
-    - mental health themes
-    - colonial context discussion
+      - "historical violence"
+      - "mental health themes"
+      - "colonial context discussion"
     educational_elements:
-    - Epic poetry genre characteristics
-    - Historical context of 1811-1812
-    - Polish Romantic nationalism
-    - Environmental consciousness ante litteram
+      - "Epic poetry genre characteristics"
+      - "Historical context of 1811-1812"
+      - "Polish Romantic nationalism"
+      - "Environmental consciousness ante litteram"
     production_notes:
-      intro_style: Classical music fade-in with period imagery
-      transitions: subtle musical bridges
-      outro_style: Contemporary parallels montage
+      intro_style: "Classical music fade-in with period imagery"
+      transitions: "subtle musical bridges"
+      outro_style: "Contemporary parallels montage"
+
   overall_confidence: 0.91

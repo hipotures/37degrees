@@ -4,3 +4,177 @@ book_info:
   author: "William Shakespeare"
   year: c. 1606
   genre: "Tragedy,Play"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T15:08:31"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 60
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.3
+      category: "high"
+    heat:
+      value: 7.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "King Lear was banned during King George III's madness (1810-1820) as it depicted royal insanity too accurately"
+        source: "dark_drama"
+      - id: "writing_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary double plot structure linking Lear and Gloucester stories was unprecedented in tragedy"
+        source: "writing_innovation"
+      - id: "symbols_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Nihilistic vs redemptive interpretations divide critics - is it about divine justice or cosmic chaos?"
+        source: "symbols_meanings"
+      - id: "reality_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Elder abuse themes eerily prophetic - 60% of elder abuse today is by family members"
+        source: "reality_wisdom"
+      - id: "dark_4"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Oxford hypothesis claims Edward de Vere wrote play based on his daughters' inheritance disputes"
+        source: "dark_drama"
+      - id: "symbols_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Madness becomes wisdom - Lear sees truth only after losing reason, sight brings blindness"
+        source: "symbols_meanings"
+      - id: "culture_6"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Nahum Tate's happy ending version dominated stages for 150 years, Cordelia survived and married Edgar"
+        source: "culture_impact"
+      - id: "culture_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Influenced 50+ major cultural works from Jane Smiley's A Thousand Acres to HBO's Succession"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "King Lear remains most performed Shakespeare tragedy in English-speaking world"
+        key_editions: ["First Folio 1623", "Arden Shakespeare", "Norton Critical Edition", "RSC editions"]
+        reception_notes: "Canonical status, continuous performance tradition, academic cornerstone"
+        educational_status: "Required reading in most English curricula, A-level text"
+        local_themes: ["Colonial power readings", "Brexit parallels", "Democratic crisis interpretations"]
+
+      pl:
+        cultural_impact: "King Lear deeply resonates with Polish history of partition and family betrayal"
+        key_editions: ["PIW editions", "Sito translations", "School editions with commentary"]
+        reception_notes: "Strong theatrical tradition, political allegory during communism"
+        educational_status: "Part of extended curriculum, performed regularly in theaters"
+        local_themes: ["Post-partition trauma", "Communist-era family surveillance", "Solidarity movement parallels"]
+
+      de:
+        cultural_impact: "Fundamental text in German Romantic movement, influenced Goethe and Schiller"
+        key_editions: ["Schlegel-Tieck translation", "Reclam editions", "Frankfurt critical edition"]
+        reception_notes: "Strong philosophical tradition, psychoanalytic interpretations dominant"
+        educational_status: "Abitur examination text, extensive academic scholarship"
+        local_themes: ["Philosophical nihilism debates", "Freudian family dynamics", "Post-war guilt themes"]
+
+      fr:
+        cultural_impact: "Influenced French existentialism, Ionesco's absurdist theater directly inspired"
+        key_editions: ["Pléiade edition", "François-Victor Hugo translation", "Gallimard editions"]
+        reception_notes: "Philosophical and psychoanalytic approach, Lacan's analysis influential"
+        educational_status: "Agrégation text, university study focus"
+        local_themes: ["Existentialist readings", "Patriarchal critique", "Revolutionary parallels"]
+
+      es:
+        cultural_impact: "Resonates with Spanish Civil War themes of family division and betrayal"
+        key_editions: ["Cátedra edition", "Astrana Marín translation", "Espasa editions"]
+        reception_notes: "Strong theatrical tradition, adapted for flamenco opera"
+        educational_status: "University curriculum, less common in secondary education"
+        local_themes: ["Civil War family divisions", "Patriarchal violence", "Honor code subversion"]
+
+      pt:
+        cultural_impact: "Brazilian adaptations explore themes of patriarchy and land disputes"
+        key_editions: ["Millôr Fernandes translation", "L&PM Pocket edition", "Penguin-Companhia"]
+        reception_notes: "Multiple Brazilian film and TV adaptations set in rural context"
+        educational_status: "University literature programs, some vestibular exams"
+        local_themes: ["Coronelismo parallels", "Land inheritance conflicts", "Patriarchal northeast culture"]
+
+      ja:
+        cultural_impact: "Kurosawa's Ran (1985) transformed King Lear into Japanese masterpiece"
+        key_editions: ["Fukuda Tsuneari translation", "Iwanami Bunko edition", "Shinchosha publications"]
+        reception_notes: "Integrated into Noh and Kabuki traditions, Buddhist interpretations"
+        educational_status: "University Shakespeare studies, specialized courses"
+        local_themes: ["Sengoku period parallels", "Buddhist karma concepts", "Filial piety violations"]
+
+      ko:
+        cultural_impact: "National Changgeuk Company's 2022 Lear merged pansori with Shakespeare"
+        key_editions: ["Choi Jong-cheol verse translation", "Minumsa World Literature", "RSC Korean edition"]
+        reception_notes: "Democratization parallels, Confucian filial piety analysis"
+        educational_status: "University English departments, not in Suneung"
+        local_themes: ["Confucian hierarchy collapse", "Democratization struggles", "Chaebol family conflicts"]
+
+      hi:
+        cultural_impact: "Multiple regional adaptations explore joint family breakdown and partition trauma"
+        key_editions: ["Harivansh Rai Bachchan translation", "Rajpal Hindi edition", "NSD adaptations"]
+        reception_notes: "Kathakali and Bollywood adaptations, dharma interpretation frameworks"
+        educational_status: "English medium schools, regional theater traditions"
+        local_themes: ["Joint family dissolution", "Partition parallels", "Karma and reincarnation readings"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 14
+      hosts:
+        host_a: "investigative reporter asking probing questions about the tragedy"
+        host_b: "eyewitness to events describing the horror and emotion of what happened"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "setup"
+          lead: "host_a"
+          description: "The fatal love test - reporter investigates the ceremony that destroyed a kingdom"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Storm and madness - eyewitness describes Lear's breakdown on the heath"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The Gloucester subplot - uncovering Edmund's conspiracy and the blinding scene"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "impact"
+          lead: "host_b"
+          description: "Final catastrophe - witnessing Cordelia's death and Lear's final moments"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining the fall of King Lear's kingdom. Ask probing questions about the love test, the storm, the conspiracies. Focus on uncovering how family betrayal led to tragedy. Elder abuse themes resonate today."
+        host_b: "You are {female_name}, an eyewitness who saw these terrible events unfold. Describe vividly Lear's rage, the storm's fury, Gloucester's blinding, Cordelia's death. Bring the emotional horror to life while revealing what really happened."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["violence", "torture scene (Gloucester blinding)", "family abuse", "suicide", "mental illness depiction"]
+    educational_elements: ["Shakespearean tragedy structure", "Double plot innovation", "Historical context of 1606", "Madness in literature", "Family dynamics analysis"]
+    production_notes:
+      intro_style: "somber orchestral opening, storm sounds"
+      transitions: "thunder and rain effects between segments"
+      outro_style: "quiet strings, reflective conclusion"
+
+  overall_confidence: 0.88

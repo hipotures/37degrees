@@ -1,156 +1,160 @@
-# Paragraf 22: Przewidywania vs Rzeczywistość oraz Ponadczasowa Mądrość
+# Catch-22: Predictions vs Reality and Timeless Wisdom
 
-## Informacje podstawowe
-- **Tytuł**: Catch-22 (Paragraf 22)
-- **Autor**: Joseph Heller
-- **Rok publikacji**: 1961
-- **Kontekst**: Satyra wojenna osadzona w II wojnie światowej, ale komentująca zimną wojnę i McCarthyizm lat 50.
+## Basic Information
+- **Title**: Catch-22
+- **Author**: Joseph Heller
+- **Publication Year**: 1961
+- **Context**: War satire set in WWII, but commenting on Cold War and McCarthyism of the 1950s
 
-## SPRAWDZONE PRZEWIDYWANIA AUTORA
+## VERIFIED AUTHOR PREDICTIONS
 
-### 1. Korporacyjna Dominacja nad Instytucjami
-**Przewidywanie**: Milo Minderbinder i jego maksyma "Co dobre dla przedsiębiorstwa M&M, dobre dla kraju"
-**Rzeczywistość 2024**: Giganci technologiczni (Google, Apple, Amazon) mają większy wpływ na politykę niż tradycyjne instytucje państwowe. Korporacje dyktują warunki rządom.
+### 1. Corporate Dominance Over Institutions
+**Prediction**: Milo Minderbinder and his maxim "What's good for M&M Enterprises is good for the country"
+**Reality 2024**: Tech giants (Google, Apple, Amazon) have greater influence on policy than traditional state institutions. Corporations dictate terms to governments and conflate corporate interests with national interests.
 
-### 2. Biurokratyczne Pętle w Systemach Cyfrowych
-**Przewidywanie**: Paradoks paragrafu 22 - niemożliwe do rozwiązania logiczne sprzeczności
-**Rzeczywistość 2024**: Algorytmiczne bias w mediach społecznościowych, automatyczne systemy blokowania kont bez możliwości odwołania, "shadow banning" bez wyjaśnień.
+### 2. Bureaucratic Loops in Digital Systems
+**Prediction**: The paradox of Catch-22 - impossible-to-resolve logical contradictions
+**Reality 2024**: Algorithmic bias in social media, automatic account blocking systems without appeal options, "shadow banning" without explanations, AI systems making decisions humans can't understand or challenge.
 
-### 3. Dehumanizacja przez Technologię
-**Przewidywanie**: Anachroniczne komputery IBM w fabule z 1944 roku
-**Rzeczywistość 2024**: AI zastępuje ludzi w podejmowaniu decyzji o życiu (hiring, kredyty, diagnoza medyczna), ludzie stają się numerami w systemach.
+### 3. Dehumanization Through Technology
+**Prediction**: Anachronistic IBM computers in the 1944 narrative
+**Reality 2024**: AI replacing humans in life-determining decisions (hiring, credit, medical diagnosis), people becoming data points in systems, algorithmic governance reducing human agency.
 
-### 4. Wojskowa Logika w Życiu Cywilnym
-**Przewidywanie**: Absurdalny militarny porządek przenikający do codzienności
-**Rzeczywistość 2024**: Corporate culture przejmuje wojskową terminologię (KPI, targets, execution, command structure), workplace jako pole bitwy.
+### 4. Military Logic in Civilian Life
+**Prediction**: Absurd military order penetrating daily life
+**Reality 2024**: Corporate culture adopting military terminology (KPIs, targets, execution, command structure), workplace as battlefield, "data-driven" decision making replacing human judgment.
 
-### 5. Przywództwo Bez Kompetencji
-**Przewidywanie**: Generał Peckem i jego arbitralne decyzje
-**Rzeczywistość 2024**: CEO-celebryci (Musk, Bezos) podejmujący decyzje w oparciu o media społecznościowe zamiast ekspertyzę.
+### 5. Leadership Without Competence
+**Prediction**: General Peckem and his arbitrary decisions
+**Reality 2024**: CEO-celebrities (Musk, Bezos) making decisions based on social media rather than expertise, influencer culture replacing institutional authority.
 
-### 6. Normalizacja Przemocy Instytucjonalnej
-**Przewidywanie**: System wymuszający lojalność przez strach
-**Rzeczywistość 2024**: Cancel culture, social credit systems w Chinach, surveillance capitalism.
+### 6. Normalization of Institutional Violence
+**Prediction**: System enforcing loyalty through fear
+**Reality 2024**: Cancel culture, social credit systems in China, surveillance capitalism, algorithmic punishment without due process.
 
-### 7. Komercjalizacja Wszystkiego
-**Przewidywanie**: Milo sprzedający wszystko, włącznie z bezpieczeństwem żołnierzy
-**Rzeczywistość 2024**: Prywatyzacja służby zdrowia, edukacji, więziennictwa. Dane osobowe jako towar.
+### 7. Commercialization of Everything
+**Prediction**: Milo selling everything, including soldiers' safety
+**Reality 2024**: Privatization of healthcare, education, prisons. Personal data as commodity. Essential services turned into profit centers.
 
-## PRZEWIDYWANIA KTÓRE SIĘ NIE SPRAWDZIŁY
+### 8. Loyalty Oaths and Ideological Control
+**Prediction**: Captain Black's loyalty oath crusade
+**Reality 2024**: Social media virtue signaling, corporate diversity statements, political correctness as conformity enforcement.
 
-### 1. Fizyczna Centralizacja Władzy
-**Przewidywanie**: Scentralizowane dowództwo w jednym miejscu
-**Rzeczywistość**: Władza rozproszona w sieci globalnych korporacji, zdalna praca, decentralizacja.
+## PREDICTIONS THAT DIDN'T COME TRUE
 
-### 2. Manualne Biurokracja
-**Przewidywanie**: Papierowa dokumentacja jako podstawa systemu
-**Rzeczywistość**: Cyfrowa biurokracja jest szybsza ale równie absurdalna.
+### 1. Physical Centralization of Power
+**Prediction**: Centralized command in one location
+**Reality**: Power dispersed through global corporate networks, remote work, decentralization of authority.
 
-### 3. Męska Dominacja w Przestrzeni Publicznej
-**Przewidywanie**: Świat bez znaczących kobiecych głosów
-**Rzeczywistość**: Ruchy feministyczne, #MeToo, kobiety w polityce i biznesie (choć wciąż nierówności).
+### 2. Manual Bureaucracy
+**Prediction**: Paper documentation as system foundation
+**Reality**: Digital bureaucracy is faster but equally absurd, automated rather than manual inefficiency.
 
-### 4. Lokalne Konflikty jako Norma
-**Przewidywanie**: Tradycyjne wojny terytorialne
-**Rzeczywistość**: Cyber warfare, wojny hybrydowe, konflikty informacyjne.
+### 3. Male Dominance in Public Space
+**Prediction**: World without significant female voices
+**Reality**: Feminist movements, #MeToo, women in politics and business (though inequalities persist).
 
-### 5. Jednolita Kultura Narodowa
-**Przewidywanie**: Spójna amerykańska tożsamość narodowa
-**Rzeczywistość**: Fragmentacja kulturowa, echo chambers, tribal politics.
+### 4. Local Conflicts as Norm
+**Prediction**: Traditional territorial wars
+**Reality**: Cyber warfare, hybrid wars, information conflicts, global rather than local battlefields.
 
-## PONADCZASOWE PRAWDY O NATURZE LUDZKIEJ
+### 5. Unified National Culture
+**Prediction**: Coherent American national identity
+**Reality**: Cultural fragmentation, echo chambers, tribal politics, multiple competing narratives.
 
-### 1. Paradoks Bezpieczeństwa vs Wolności
-**Wtedy**: Żołnierze uwięzieni przez własny system "ochrony"
-**Dziś**: Surveillance dla "bezpieczeństwa", ograniczenia wolności w imię zdrowia publicznego
-**Lekcja**: Każda ochrona może stać się więzieniem
+## TIMELESS TRUTHS ABOUT HUMAN NATURE
 
-### 2. Absurd Hierarchii
-**Wtedy**: Major Major Major Major - awans przez błąd systemu
-**Dziś**: Influencerzy jako eksperci, algorithm-driven promotions
-**Lekcja**: Kompetencja nie zawsze determinuje pozycję
+### 1. Security vs Freedom Paradox
+**Then**: Soldiers imprisoned by their own "protection" system
+**Now**: Surveillance for "security," freedom restrictions in the name of public health
+**Lesson**: Every protection can become a prison
 
-### 3. Indywidualna Bezsilność wobec Systemu
-**Wtedy**: Yossarian nie może opuścić armii
-**Dziś**: Niemożność usunięcia danych z internetu, social credit systems
-**Lekcja**: System zawsze znajdzie sposób na zatrzymanie jednostki
+### 2. Hierarchy Absurdity
+**Then**: Major Major Major Major - promotion through system error
+**Now**: Influencers as experts, algorithm-driven promotions, merit vs visibility
+**Lesson**: Competence doesn't always determine position
 
-### 4. Korupcja jako Normalna Praktyka
-**Wtedy**: Milo kradie spadochrony i sprzedaje Niemcom
-**Dziś**: Lobbying, regulatory capture, revolving doors w polityce
-**Lekcja**: Korupcja systemu zawsze znajdzie sposób na legalizację
+### 3. Individual Powerlessness Against Systems
+**Then**: Yossarian cannot leave the army
+**Now**: Inability to delete data from internet, social credit systems, algorithmic life control
+**Lesson**: Systems always find ways to trap individuals
 
-### 5. Cynizm jako Mechanizm Przetrwania
-**Wtedy**: Postaci używają humoru do radzenia z bezsensem wojny
-**Dziś**: Milleniasi i Gen Z używają memów do opisu kryzysu klimatycznego
-**Lekcja**: Sarkazm chroni przed rozpaczą
+### 4. Corruption as Normal Practice
+**Then**: Milo stealing parachutes and selling to Germans
+**Now**: Lobbying, regulatory capture, revolving doors in politics
+**Lesson**: System corruption always finds ways to legalize itself
 
-## MĄDROŚĆ RELACYJNA DLA WSPÓŁCZESNEJ MŁODZIEŻY
+### 5. Cynicism as Survival Mechanism
+**Then**: Characters using humor to cope with war's senselessness
+**Now**: Millennials and Gen Z using memes to describe climate crisis
+**Lesson**: Sarcasm protects against despair
 
-### RED FLAGS w Związkach (na podstawie postaci)
+## RELATIONSHIP WISDOM FOR CONTEMPORARY YOUTH
 
-#### **Aarfy Type** - Manipulator z Klasą
-- **Wzorzec**: Kulturalny na zewnątrz, brutalny w prywatności
-- **Współczesne znaki**: Perfekcyjny profil na Instagramie, ale kontroluje partnera w rzeczywistości
-- **Lekcja**: Pozory kulturalności nie gwarantują szacunku
+### RED FLAGS in Relationships (Based on Characters)
 
-#### **Captain Black Type** - Kontroler Lojalności  
-- **Wzorzec**: Wymusza deklaracje wierności, karze za "niewłaściwe" poglądy
-- **Współczesne znaki**: Sprawdza telefon partnera, żąda dostępu do social media
-- **Lekcja**: Miłość nie wymaga składania przysięgi lojalności
+#### **Aarfy Type** - Cultured Manipulator
+- **Pattern**: Polite exterior, brutal in private
+- **Contemporary Signs**: Perfect Instagram profile but controls partner in reality
+- **Lesson**: Surface politeness doesn't guarantee respect
 
-#### **Milo Type** - Wszystko na Sprzedaż
-- **Wzorzec**: Każda relacja to transakcja biznesowa
-- **Współczesne znaki**: Sugar daddy relationships, traktowanie partnera jako investment
-- **Lekcja**: Prawdziwa miłość nie ma price tag
+#### **Captain Black Type** - Loyalty Controller
+- **Pattern**: Demands loyalty declarations, punishes "wrong" opinions
+- **Contemporary Signs**: Checks partner's phone, demands social media access
+- **Lesson**: Love doesn't require loyalty oaths
 
-#### **Doc Daneeka Type** - Emocjonalny Nieobecny
-- **Wzorzec**: Fizycznie obecny, ale mentalnie niedostępny
-- **Współczesne znaki**: Obecny ciałem, ale ciągle w telefonie lub grach
-- **Lekcja**: Prawdziwa obecność to więcej niż fizyczna lokalizacja
+#### **Milo Type** - Everything for Sale
+- **Pattern**: Every relationship is a business transaction
+- **Contemporary Signs**: Sugar daddy relationships, treating partner as investment
+- **Lesson**: True love doesn't have a price tag
+
+#### **Doc Daneeka Type** - Emotionally Absent
+- **Pattern**: Physically present but mentally unavailable
+- **Contemporary Signs**: Present physically but constantly on phone or gaming
+- **Lesson**: True presence is more than physical location
 
 ### HEALTHY RELATIONSHIP PATTERNS
 
-#### **Yossarian Model** - Autentyczna Emocjonalność
-- **Wzorzec**: Przyznaje się do strachu, szuka pomocy, wyraża emocje
-- **Współczesne zastosowanie**: Otwarta komunikacja o zdrowiu psychicznym
-- **Lekcja**: Vulnerabilność to siła, nie słabość
+#### **Yossarian Model** - Authentic Emotionality
+- **Pattern**: Admits fear, seeks help, expresses emotions
+- **Contemporary Application**: Open communication about mental health
+- **Lesson**: Vulnerability is strength, not weakness
 
 #### **Snowden Wisdom** - "The Secret"
-- **Wzorzec**: Zrozumienie że pod powierzchnią wszyscy jesteśmy krusi
-- **Współczesne zastosowanie**: Empatiia wobec problemów partnera
-- **Lekcja**: Każdy ma swoje traumas i insecurities
+- **Pattern**: Understanding that beneath the surface, we're all fragile
+- **Contemporary Application**: Empathy toward partner's problems
+- **Lesson**: Everyone has traumas and insecurities
 
-## SPOŁECZNA EWOLUCJA: CO SIĘ ZMIENIŁO
+## SOCIAL EVOLUTION: WHAT HAS CHANGED
 
-### Gender Roles - Progress i Regression
+### Gender Roles - Progress and Regression
 
 #### **1961 vs 2024**
-**Wtedy**: Kobiety jako obiekty lub nieobecne w narracji
-**Dziś**: #MeToo, feminizm 4. fali, ale też backlash culture
+**Then**: Women as objects or absent from narrative
+**Now**: #MeToo, 4th wave feminism, but also backlash culture
 
-**Progress**: 
-- Kobiety w polityce (Harris, Merkel, Arden)
-- CEO kobiety w Fortune 500
-- Awareness of sexual assault
+**Progress**:
+- Women in politics (Harris, Merkel, Ardern)
+- Female CEOs in Fortune 500
+- Sexual assault awareness
 
-**Regress**:
+**Regression**:
 - Incel culture online
 - Abortion rights rollback (USA)
 - Online harassment of women
 
 ### Authority Structures
 
-#### **1961 vs 2024** 
-**Wtedy**: Hierarchia militarna jako metafora wszystkich instytucji
-**Dziś**: Płaskie struktury w tech, ale autoritaryzm w polityce
+#### **1961 vs 2024**
+**Then**: Military hierarchy as metaphor for all institutions
+**Now**: Flat structures in tech, but authoritarianism in politics
 
 **Progress**:
 - Decentralized decision-making
 - Employee empowerment movements
-- Questioning traditional hierarchies (Gen Z w workplace)
+- Gen Z questioning traditional hierarchies in workplace
 
-**Regress**:
+**Regression**:
 - Authoritarian populism globally
 - Corporate surveillance of employees
 - Algorithm-based control
@@ -158,38 +162,38 @@
 ### Communication Patterns
 
 #### **1961 vs 2024**
-**Wtedy**: Face-to-face lub pisemna komunikacja
-**Dziś**: Digital-first, emoji languages, memes as communication
+**Then**: Face-to-face or written communication
+**Now**: Digital-first, emoji languages, memes as communication
 
 **Progress**:
 - Global instant communication
 - Translation technology breaking barriers
 - Neurodivergent-friendly communication (texting vs calling)
 
-**Regress**:
+**Regression**:
 - Echo chambers reinforcing beliefs
 - Misinformation spreading faster than truth
 - Loss of nuanced conversation skills
 
-## PRAKTYCZNE ŻYCIOWE LEKCJE DLA GEN Z
+## PRACTICAL LIFE LESSONS FOR GEN Z
 
-### 1. **Rozpoznawanie Catch-22 w Życiu**
-- **Student loans**: Potrzebujesz wykształcenia żeby zarabiać, ale nie stać cię na wykształcenie
-- **Job experience**: Potrzebujesz doświadczenia żeby dostać pracę, ale pracy żeby zdobyć doświadczenie
-- **Rozwiązanie**: Szukaj creative workarounds, build skills outside traditional paths
+### 1. **Recognizing Catch-22s in Life**
+- **Student loans**: Need education to earn money, but can't afford education
+- **Job experience**: Need experience to get job, but job to get experience
+- **Solution**: Seek creative workarounds, build skills outside traditional paths
 
-### 2. **Radzenie z Biurokratycznym Absurdem**
-- **Problem**: Systemy zaprojektowane żeby frustrować
-- **Rozwiązanie**: Document everything, znajdź allies w systemie, używaj social media pressure
+### 2. **Dealing with Bureaucratic Absurdity**
+- **Problem**: Systems designed to frustrate
+- **Solution**: Document everything, find allies in the system, use social media pressure
 
-### 3. **Ochrona Mental Health w Toksycznym Systemie**
-- **Yossarian's Strategy**: Przyznaj się do swoich limitów
-- **Modern Application**: Therapy nie jest słabością, boundaries są konieczne
-- **Praktyka**: Regular mental health check-ins, disconnecting from toxic news cycles
+### 3. **Protecting Mental Health in Toxic Systems**
+- **Yossarian's Strategy**: Admit your limits
+- **Modern Application**: Therapy isn't weakness, boundaries are necessary
+- **Practice**: Regular mental health check-ins, disconnecting from toxic news cycles
 
 ### 4. **Building Authentic Relationships**
-- **Lesson**: Powierzchowne connections nie przetrwają kryzysu
-- **Practice**: Invest w deep friendships, show vulnerability, support others' growth
+- **Lesson**: Superficial connections won't survive crisis
+- **Practice**: Invest in deep friendships, show vulnerability, support others' growth
 
 ### 5. **Questioning Authority Constructively**
 - **Problem**: Blind obedience vs destructive rebellion
@@ -201,56 +205,56 @@
 - **Strategy**: Verify sources, seek primary materials, check biases
 
 ### 7. **Economic Survival in Rigged System**
-- **Milo's Lesson**: System będzie próbował cię wykorzystać
+- **Milo's Lesson**: System will try to exploit you
 - **Protection**: Financial literacy, side hustles, community support networks
 
 ### 8. **Preserving Humanity in Dehumanizing Systems**
 - **Challenge**: Algorithms treating you as data points
 - **Resistance**: Maintain personal connections, creative expression, analog hobbies
 
-## UNIWERSALNE PRAWDY TRANSCENDUJĄCE CZAS
+## UNIVERSAL TRUTHS TRANSCENDING TIME
 
 ### 1. **Power Corrupts Systematically**
 - **1961**: Military-industrial complex
-- **2024**: Tech-surveillance complex  
-- **Truth**: Władza zawsze znajdzie sposób na autoreplikację
+- **2024**: Tech-surveillance complex
+- **Truth**: Power always finds ways to self-replicate
 
-### 2. **Absurd Jest Nową Normalą**
-- **1961**: Wojskowy bezsens
+### 2. **Absurd Is the New Normal**
+- **1961**: Military senselessness
 - **2024**: Viral nonsense, post-truth politics
-- **Truth**: Chaos może być zarządzany, ale nigdy wyeliminowany
+- **Truth**: Chaos can be managed but never eliminated
 
-### 3. **Survival Wymaga Adaptacji**
-- **1961**: Yossarian ucieka do Szwecji
+### 3. **Survival Requires Adaptation**
+- **1961**: Yossarian escapes to Sweden
 - **2024**: Digital nomadism, alternative economies
-- **Truth**: Czasami jedynym zwycięstwem jest odmowa gry
+- **Truth**: Sometimes the only victory is refusing to play
 
-### 4. **Community Jest Ostatnią Linią Obrony**
-- **1961**: Solidarność między żołnierzami
+### 4. **Community Is the Last Line of Defense**
+- **1961**: Solidarity between soldiers
 - **2024**: Online communities, mutual aid networks
-- **Truth**: W systemowym chaosie tylko ludzie mogą nas uratować
+- **Truth**: In systemic chaos, only people can save us
 
-### 5. **Humor jako Resistance**
+### 5. **Humor as Resistance**
 - **1961**: Black comedy as coping mechanism
-- **2024**: Meme culture jako political commentary
-- **Truth**: Śmiech to ostatnia forma wolności
+- **2024**: Meme culture as political commentary
+- **Truth**: Laughter is the last form of freedom
 
-## TIMELINE: FIKCJA vs RZECZYWISTOŚĆ
+## TIMELINE: FICTION vs REALITY
 
-### **1961**: Publikacja Catch-22
-- **Przewiduje**: Corporate overreach, bureaucratic paradoxes
-- **Rzeczywistość**: Początek ery korporacyjnej ekspansji
+### **1961**: Publication of Catch-22
+- **Predicts**: Corporate overreach, bureaucratic paradoxes
+- **Reality**: Beginning of corporate expansion era
 
 ### **1960s**: Vietnam War
-- **Książka staje się**: Anti-war bible dla hippie generation
-- **Sprawdza się**: Absurd wojskowej machiny w praktyce
+- **Book becomes**: Anti-war bible for hippie generation
+- **Validated**: Absurdity of military machine in practice
 
-### **1970s**: Watergate Era  
+### **1970s**: Watergate Era
 - **Catch-22 logic**: Government lies become normalized
-- **Validation**: "Fake it till you make it" w polityce
+- **Validation**: "Fake it till you make it" in politics
 
 ### **1980s**: Corporate Culture Rise
-- **Milo Minderbinder**: Przepowiednia Reagan-era deregulation
+- **Milo Minderbinder**: Prophecy of Reagan-era deregulation
 - **Reality**: Wall Street greed normalization
 
 ### **1990s**: Technology Boom
@@ -258,7 +262,7 @@
 - **Reality**: Digital bureaucracy replaces paper bureaucracy
 
 ### **2000s**: Post 9/11 Security State
-- **Loyalty oaths**: Patriot Act, surveillance normalization  
+- **Loyalty oaths**: Patriot Act, surveillance normalization
 - **Reality**: Freedom sacrificed for security theater
 
 ### **2010s**: Social Media Era
@@ -270,20 +274,39 @@
 - **AI**: Humans training machines to replace humans
 - **Reality**: Heller's absurdist prophecies fully realized
 
-## PODSUMOWANIE: CO MOŻEMY WYNIEŚĆ
+## CONTEMPORARY DATING CATCH-22s
 
-Joseph Heller w "Paragraf 22" stworzył nie tylko satyrę wojenną, ale przepowiednie o strukturalnych absurdach nowoczesnego świata. Jego geniusz polegał na rozumieniu, że logika systemów może być fundamentalnie sprzeczna z ludzkim dobrem.
+### Modern Dating Paradoxes
+- **Availability Paradox**: Being too interested makes you less attractive
+- **Algorithm Dependency**: Can't meet people without apps, but apps prevent genuine connection
+- **Social Media Judgment**: Low follower count affects dating prospects
+- **Communication Demands**: Expected to be constantly available but also mysterious
 
-### **Najważniejsze Lekcje dla Młodzieży**:
+### Red Flags in 2024 Dating
+- **Digital Surveillance**: Life360 tracking between partners
+- **Gaslighting**: Making partners doubt their reality
+- **"Ick" Culture**: Breaking people down into swipeable characteristics
+- **Love Bombing**: Overwhelming attention followed by withdrawal
 
-1. **Systems Will Always Try to Trap You** - Naucz się rozpoznawać i obchodzić paradoksy
-2. **Your Sanity Is More Valuable Than Their Approval** - Mental health > social conformity  
+### Modern Relationship Wisdom
+- **3-Month Rule**: True nature emerges after initial performance period
+- **Boundary Setting**: Technology makes surveillance easier, boundaries more necessary
+- **Authentic Communication**: Real connection requires vulnerability, not performance
+
+## SUMMARY: WHAT WE CAN LEARN
+
+Joseph Heller in "Catch-22" created not just a war satire, but prophecies about structural absurdities of the modern world. His genius lay in understanding that system logic can be fundamentally contradictory to human welfare.
+
+### **Most Important Lessons for Youth**:
+
+1. **Systems Will Always Try to Trap You** - Learn to recognize and circumvent paradoxes
+2. **Your Sanity Is More Valuable Than Their Approval** - Mental health > social conformity
 3. **Question Everything, But Choose Your Battles** - Informed resistance beats blind rebellion
 4. **Build Real Relationships** - Authentic connections > network optimization
-5. **Keep Your Humanity** - W świecie algorytmów, bądź człowiekiem
-6. **Humor Is Resistance** - Śmiech to broń przeciwko absurdowi
+5. **Keep Your Humanity** - In a world of algorithms, be human
+6. **Humor Is Resistance** - Laughter is a weapon against absurdity
 7. **Sometimes Walking Away Is Victory** - Know when to quit the rigged game
 
-Catch-22 pokazuje, że niektóre systemy są zaprojektowane tak, żeby nie działać. Rozpoznanie tego paradoksu to pierwszy krok do znalezienia własnej drogi poza systemem. W 2024 roku, gdy żyjemy w świecie algorytmicznych catch-22, mądrość Hellera jest bardziej aktualna niż kiedykolwiek.
+Catch-22 shows that some systems are designed not to work. Recognizing this paradox is the first step to finding your own path outside the system. In 2024, when we live in a world of algorithmic catch-22s, Heller's wisdom is more relevant than ever.
 
-**Final Wisdom**: W świecie pełnym sprzeczności, jedyną sensowną reakcją może być zdrowy cynizm połączony z autentyczną troską o innych. Yossarian nie był bohaterem, ale był człowiekiem - i to może wystarczyć.
+**Final Wisdom**: In a world full of contradictions, the only sensible reaction may be healthy cynicism combined with authentic care for others. Yossarian wasn't a hero, but he was human - and that might be enough.

@@ -8,13 +8,16 @@ Usage:
     python afa_prompt_generator.py 0103_one_thousand_and_one_nights en quick_review
 """
 
-import yaml
+import copy
+import importlib.util
 import json
-import sys
 import random
-from pathlib import Path
-from typing import Dict, List, Optional, Any
+import sys
 from dataclasses import dataclass
+from pathlib import Path
+from typing import Any, Dict, List, Optional
+
+import yaml
 
 @dataclass
 class AudioPrompt:
@@ -36,6 +39,7 @@ class AFAPromptGenerator:
         self.books_dir = Path(books_dir)
         self.config_dir = Path(config_dir)
         self.branding = self.load_branding()
+        self.format_templates = self.load_format_templates()
     
     def load_branding(self) -> Dict:
         """Load branding configuration"""
@@ -85,7 +89,38 @@ class AFAPromptGenerator:
     def get_localized_context(self, book_data: Dict, language: str) -> Optional[Dict]:
         """Extract localized context for specified language"""
         localized = book_data.get('afa_analysis', {}).get('themes', {}).get('localized', {})
-        return localized.get(language)
+        entry = localized.get(language)
+        return entry if isinstance(entry, dict) else None
+
+    def load_format_templates(self) -> Dict[str, Dict[str, Any]]:
+        """Load format templates from afa_format_selector for non-legacy data"""
+        selector_path = Path(__file__).resolve().parents[1] / "afa_format_selector.py"
+        if not selector_path.exists():
+            return {}
+
+        spec = importlib.util.spec_from_file_location("afa_format_selector_templates", selector_path)
+        if spec is None or spec.loader is None:
+            return {}
+
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        return getattr(module, "FORMAT_TEMPLATES", {}).copy()
+
+    def build_format_from_template(self, format_name: str, meta: Dict[str, Any]) -> Dict[str, Any]:
+        """Build full prompt configuration using stored templates"""
+        if format_name not in self.format_templates:
+            raise ValueError(
+                f"Format '{format_name}' has no template definition."
+            )
+
+        config = copy.deepcopy(self.format_templates[format_name])
+        config['name'] = format_name
+        # Allow duration override if provided in book.yaml metadata
+        if 'duration' in meta:
+            config['duration'] = meta['duration']
+        config['confidence'] = meta.get('confidence')
+        config['reasoning'] = meta.get('reasoning')
+        return config
     
     def get_conversation_hooks(self, format_type: str, language: str) -> List[str]:
         """Get format-specific conversation hooks for natural transitions"""
@@ -289,16 +324,32 @@ class AFAPromptGenerator:
                 f"book.yaml for {book_folder} is missing required 'afa_analysis' section"
             )
         
-        # Get format configuration
-        if format_type not in afa['formats']:
-            available = list(afa['formats'].keys())
+        formats_section = afa.get('formats', {})
+        if not isinstance(formats_section, dict):
+            raise ValueError("Invalid format structure in book.yaml")
+
+        format_config: Dict[str, Any]
+        if format_type in formats_section and isinstance(formats_section[format_type], dict):
+            # Legacy structure preserved in book.yaml
+            format_config = copy.deepcopy(formats_section[format_type])
+            format_config.setdefault('name', format_type)
+        elif formats_section.get('name') == format_type:
+            format_config = self.build_format_from_template(format_type, formats_section)
+        else:
+            available = []
+            if 'name' in formats_section and isinstance(formats_section['name'], str):
+                available.append(formats_section['name'])
+            else:
+                available.extend([key for key, value in formats_section.items() if isinstance(value, dict)])
             raise ValueError(f"Format '{format_type}' not found. Available: {available}")
-        
-        format_config = afa['formats'][format_type]
-        
+
         # Get themes and local context
-        universal_themes = afa['themes']['universal']
-        local_context = self.get_localized_context(book_data, language)
+        themes_section = afa.get('themes', {})
+        universal_themes = themes_section.get('universal', [])
+        localized_entry = themes_section.get('localized', {}).get(language)
+        local_context = localized_entry if isinstance(localized_entry, dict) else None
+        processed_local_context = False
+        localized_themes = localized_entry if isinstance(localized_entry, list) else []
         
         # Get branding for language
         lang_branding = self.branding['branding'].get(language, self.branding['branding']['en'])
@@ -545,21 +596,34 @@ class AFAPromptGenerator:
                 f"book.yaml for {book_folder} is missing required 'afa_analysis' section"
             )
         
-        # Get format configuration
-        if format_type not in afa['formats']:
-            available = list(afa['formats'].keys())
+        formats_section = afa.get('formats', {})
+        if not isinstance(formats_section, dict):
+            raise ValueError("Invalid format structure in book.yaml")
+
+        if format_type in formats_section and isinstance(formats_section[format_type], dict):
+            format_config = copy.deepcopy(formats_section[format_type])
+            format_config.setdefault('name', format_type)
+        elif formats_section.get('name') == format_type:
+            format_config = self.build_format_from_template(format_type, formats_section)
+        else:
+            available = []
+            if 'name' in formats_section and isinstance(formats_section['name'], str):
+                available.append(formats_section['name'])
+            else:
+                available.extend([key for key, value in formats_section.items() if isinstance(value, dict)])
             raise ValueError(f"Format '{format_type}' not found. Available: {available}")
-        
-        format_config = afa['formats'][format_type]
-        
-        # Get themes and local context
-        universal_themes = afa['themes']['universal']
-        local_context = self.get_localized_context(book_data, language)
-        
-        # Determine branding based on language
-        brand_name = "37stopni" if language == 'pl' else "37degrees"
-        brand_pronunciation = "trzydzieści siedem stopni" if language == 'pl' else "thirty-seven degrees"
-        brand_site = "37stopni.info" if language == 'pl' else "37degrees.info"
+
+        themes_section = afa.get('themes', {})
+        universal_themes = themes_section.get('universal', [])
+        localized_entry = themes_section.get('localized', {}).get(language)
+        local_context = localized_entry if isinstance(localized_entry, dict) else None
+        processed_local_context = False
+        localized_themes = localized_entry if isinstance(localized_entry, list) else []
+
+        lang_branding = self.branding['branding'].get(language, self.branding['branding']['en'])
+        brand_name = lang_branding['name']
+        brand_pronunciation = lang_branding['pronunciation']
+        brand_site = lang_branding['site']
         
         # Build prompt with proper structure (always English headers)
         prompt_lines = [
@@ -603,6 +667,8 @@ class AFAPromptGenerator:
                     gender = "male"
                     processed_prompt = raw_prompt.replace("{male_name}", name).replace("{female_name}", name)
                 
+                processed_prompt = processed_prompt.replace("{book_title}", book_info['title'])
+
                 # Format final prompt - processed_prompt already contains "You are {name}"
                 final_prompt = f"{name} ({gender}). {processed_prompt}"
 
@@ -626,15 +692,29 @@ class AFAPromptGenerator:
             prompt_lines.append(f"• {theme_id}: {content}")
 
         # Add localized themes for the specific language (same section)
-        localized_themes = afa['themes'].get('localized', {}).get(language, [])
         if localized_themes:
             for theme in localized_themes:
-                theme_title = theme.get('title', theme.get('key', '').replace('_', ' ').title())
-                theme_desc = theme.get('description', theme.get('content', ''))
-                prompt_lines.append(f"• {theme_title}: {theme_desc}")
+                if isinstance(theme, dict):
+                    theme_title = theme.get('title', theme.get('key', '').replace('_', ' ').title())
+                    theme_desc = theme.get('description', theme.get('content', ''))
+                    prompt_lines.append(f"• {theme_title}: {theme_desc}")
+                else:
+                    prompt_lines.append(f"• {theme}")
+        elif local_context:
+            # Handle dictionary-based localized context
+            for key, value in local_context.items():
+                if value in (None, ''):
+                    continue
+                readable_key = key.replace('_', ' ').title()
+                if isinstance(value, list):
+                    value_text = ', '.join(value)
+                else:
+                    value_text = value
+                prompt_lines.append(f"• {readable_key}: {value_text}")
+            processed_local_context = True
 
         # Legacy local context (if still exists)
-        if local_context:
+        if local_context and not processed_local_context:
             if 'cultural_impact' in local_context:
                 prompt_lines.append(f"• Additional context: {local_context['cultural_impact']}")
             if 'educational_status' in local_context:
@@ -765,16 +845,29 @@ class AFAPromptGenerator:
                          format_type: str) -> Dict:
         """Generate metadata JSON for tracking"""
         book_data = self.load_book_data(book_folder)
-        
+        formats_section = book_data.get('afa_analysis', {}).get('formats', {})
+        duration = None
+        if isinstance(formats_section, dict):
+            if format_type in formats_section and isinstance(formats_section[format_type], dict):
+                duration = formats_section[format_type].get('duration')
+            elif formats_section.get('name') == format_type:
+                duration = formats_section.get('duration')
+
+        if duration is None:
+            duration = self.format_templates.get(format_type, {}).get('duration', 15)
+
+        themes_section = book_data.get('afa_analysis', {}).get('themes', {})
+        localized = themes_section.get('localized', {})
+
         return {
             'book_id': book_folder,
             'book_title': book_data['book_info']['title'],
             'language': language,
             'format': format_type,
-            'duration': book_data['afa_analysis']['formats'][format_type]['duration'],
+            'duration': duration,
             'scores': book_data['afa_analysis']['scores'],
-            'themes_count': len(book_data['afa_analysis']['themes']['universal']),
-            'has_local_context': language in book_data['afa_analysis']['themes'].get('localized', {})
+            'themes_count': len(themes_section.get('universal', [])),
+            'has_local_context': language in localized
         }
 
 def main():
@@ -799,12 +892,19 @@ def main():
         # Load book data to get format
         try:
             book_data = generator.load_book_data(book_folder)
-            # Get first format from formats section
-            available_formats = list(book_data['afa_analysis']['formats'].keys())
-            if not available_formats:
-                print(f"Error: No formats found in book.yaml for {book_folder}", file=sys.stderr)
+            formats_section = book_data.get('afa_analysis', {}).get('formats')
+            if not isinstance(formats_section, dict):
+                print(f"Error: Invalid formats section in book.yaml for {book_folder}", file=sys.stderr)
                 sys.exit(1)
-            format_type = available_formats[0]
+
+            if 'name' in formats_section and isinstance(formats_section['name'], str):
+                format_type = formats_section['name']
+            else:
+                available_formats = [key for key, value in formats_section.items() if isinstance(value, dict)]
+                if not available_formats:
+                    print(f"Error: No formats found in book.yaml for {book_folder}", file=sys.stderr)
+                    sys.exit(1)
+                format_type = available_formats[0]
         except Exception as e:
             print(f"Error loading book data: {e}", file=sys.stderr)
             sys.exit(1)

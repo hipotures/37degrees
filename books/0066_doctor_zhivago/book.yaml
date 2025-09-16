@@ -4,3 +4,191 @@ book_info:
   author: "Boris Pasternak"
   year: 1957
   genre: "Historical fiction,Romance"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-16T16:45:00+01:00"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 2
+    relevance: 8
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 59
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "cia_warfare"
+        type: "FACT"
+        credibility: 0.95
+        content: "CIA distributed 10 million copies as Cold War propaganda weapon, using literature for political warfare"
+        source: "dark_drama"
+      - id: "religious_structure"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Entire work organized around Orthodox paschal narrative of death and resurrection cycles"
+        source: "symbols_meanings"
+      - id: "individual_vs_system"
+        type: "FACT"
+        credibility: 0.95
+        content: "Core philosophical conflict between personal freedom and totalitarian collective demands"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.90
+        content: "Created revolutionary 'novel in prose' hybrid form combining poetry with epic narrative"
+        source: "writing_innovation"
+      - id: "nobel_persecution"
+        type: "FACT"
+        credibility: 0.95
+        content: "Forced Nobel Prize refusal under KGB threats represents peak literary persecution"
+        source: "dark_drama"
+      - id: "artistic_resistance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Poetry and literature as forms of spiritual resistance against ideological oppression"
+        source: "symbols_meanings"
+      - id: "love_vs_history"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Personal relationships systematically destroyed by impersonal historical forces"
+        source: "symbols_meanings"
+      - id: "antisemitic_content"
+        type: "FACT"
+        credibility: 0.90
+        content: "Problematic assimilationist messaging encouraging Jews to abandon identity"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Cold War propaganda icon, Hollywood epic transformation, canonical Western literature status"
+        key_editions: ["Pantheon Books 1958", "Pevear-Volokhonsky translation", "Family translation 2019"]
+        reception_notes: "CIA backing and David Lean film made it Cold War cultural weapon"
+        educational_status: "University Russian literature and Cold War studies programs"
+        local_themes: ["Cultural warfare", "Anti-communist narrative", "Epic romance"]
+
+      pl:
+        cultural_impact: "Underground circulation during communist era, parallel to Polish experience"
+        key_editions: ["Kultura Paris 1959", "Multiple translations 1987-88"]
+        reception_notes: "Resonated with Polish intellectuals under communist persecution"
+        educational_status: "University level Russian literature courses"
+        local_themes: ["Communist persecution", "Intellectual resistance", "Samizdat tradition"]
+
+      de:
+        cultural_impact: "Philosophical interpretation tradition, academic depth approach"
+        key_editions: ["German scholarly editions", "Critical academic versions"]
+        reception_notes: "Emphasis on romantic movement connections and philosophical depth"
+        educational_status: "Part of German university Russian studies programs"
+        local_themes: ["Philosophical interpretations", "Romantic tradition", "Psychoanalytic readings"]
+
+      fr:
+        cultural_impact: "Existentialist themes, intellectual resistance narrative"
+        key_editions: ["Gallimard 1958", "French critical editions"]
+        reception_notes: "Connected to French intellectual tradition of artistic resistance"
+        educational_status: "French literature and philosophy curricula"
+        local_themes: ["Existential crisis", "Individual dignity", "Artistic freedom"]
+
+      es:
+        cultural_impact: "Historical civil war parallels, romantic tragedy tradition"
+        key_editions: ["Spanish translations", "Academic editions"]
+        reception_notes: "Resonance with Spanish Civil War experience and Franco era"
+        educational_status: "Spanish university literature programs"
+        local_themes: ["Civil war trauma", "Romantic idealism", "Political persecution"]
+
+      pt:
+        cultural_impact: "Epic love story tradition, historical fiction appreciation"
+        key_editions: ["Portuguese translations", "Brazilian editions"]
+        reception_notes: "Focus on romantic epic and historical sweep"
+        educational_status: "Portuguese university world literature courses"
+        local_themes: ["Epic love narrative", "Historical tragedy", "Individual vs history"]
+
+      ja:
+        cultural_impact: "Individual suffering aesthetics, tragic beauty appreciation"
+        key_editions: ["Japanese translations", "Academic editions"]
+        reception_notes: "Resonance with Japanese concepts of beautiful suffering"
+        educational_status: "Japanese university foreign literature programs"
+        local_themes: ["Aesthetic tragedy", "Individual suffering", "Mono no aware"]
+
+      ko:
+        cultural_impact: "Historical trauma narrative, generational conflict themes"
+        key_editions: ["Korean translations", "Academic versions"]
+        reception_notes: "Connection to Korean historical trauma and division"
+        educational_status: "Korean university comparative literature"
+        local_themes: ["Historical trauma", "Generational conflict", "National division"]
+
+      hi:
+        cultural_impact: "Spiritual philosophy, karma and destiny themes"
+        key_editions: ["Hindi translations", "Indian academic editions"]
+        reception_notes: "Emphasis on spiritual philosophy and cyclical time"
+        educational_status: "Indian university foreign literature courses"
+        local_themes: ["Karma and destiny", "Spiritual resistance", "Cyclical time"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "CIA operation and political warfare through literature"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Individual vs totalitarian state persecution of artists"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Digital authoritarianism and surveillance state parallels"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_criticism"
+          lead: "host_b"
+          description: "Gender dynamics and social hierarchies in revolutionary chaos"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "future_implications"
+          lead: "host_a"
+          description: "Art as resistance and lessons for contemporary cultural warfare"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Doctor Zhivago' through lens of power, gender, class. Historical context: 1957 publication during Cold War. Focus on CIA operation, state persecution, and how authoritarian systems use and suppress art."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of surveillance states, digital authoritarianism, and how individual resistance operates in different eras."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence and political persecution"
+      - "sexual assault and exploitation"
+      - "war trauma and mental health topics"
+      - "controversial historical viewpoints"
+    educational_elements:
+      - "Historical fiction genre characteristics"
+      - "Cold War cultural propaganda operations"
+      - "Russian Revolution and Soviet history"
+      - "Literary innovation in 20th century"
+      - "Political persecution of artists"
+    production_notes:
+      intro_style: "Cold War documentary style with historical gravitas"
+      transitions: "Subtle musical bridges using Lara's Theme motifs"
+      outro_style: "Contemporary reflection on artistic freedom"
+
+  overall_confidence: 0.9
