@@ -1,200 +1,200 @@
-# BADANIA FAKTÓW I HISTORII POWSTANIA
+# RESEARCH OF FACTS AND CREATION HISTORY
 ## "Invisible Man" (1952) - Ralph Ellison
 
-### PODSTAWOWE INFORMACJE
-- **Tytuł**: "Invisible Man" (polski: "Niewidzialny człowiek")
-- **Autor**: Ralph Waldo Ellison (1913-1994)  
-- **Data publikacji**: 1952
-- **Wydawca**: Random House
-- **Gatunek**: Powieść, Bildungsroman
+### BASIC INFORMATION
+- **Title**: "Invisible Man"
+- **Author**: Ralph Waldo Ellison (1913-1994)
+- **Publication date**: 1952
+- **Publisher**: Random House
+- **Genre**: Novel, Bildungsroman
 
 ---
 
-## OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## CIRCUMSTANCES OF BOOK CREATION
 
-### **FAKT #1**: Przypadkowe narodziny arcydzieła
-W lecie 1945 roku Ralph Ellison siedział w drzwiach stodoły w Waitsfield w stanie Vermont (faktycznie w sąsiedniej miejscowości Fayston), będąc na zwolnieniu chorobowym z marynarki handlowej. Gdy patrzył na pola pełne siana i złocistej róży, nagle napisał słowa: "I am an Invisible Man" - nie wiedząc jeszcze, co one oznaczają ani skąd się wzięły.
+### **FACT #1**: Accidental birth of a masterpiece
+In the summer of 1945, Ralph Ellison was sitting in a barn doorway in Waitsfield, Vermont (actually in neighboring Fayston), on sick leave from the merchant marine. As he looked at fields full of hay and goldenrod, he suddenly wrote the words: "I am an Invisible Man" - not yet knowing what they meant or where they came from.
 
-### **FAKT #2**: Kompletna zmiana koncepcji
-Ellison początkowo przyjechał do Vermont, żeby napisać powieść wojenną o białych i czarnych Amerykanach w niemieckim obozie jenieckim. Głównym bohaterem miał być pilot, który odkrywa, że mimo wysokiej rangi wojskowej ma najniższy status społeczny z powodu rasy. Ta historia jednak przerodziła się w coś zupełnie innego.
+### **FACT #2**: Complete concept change
+Ellison initially came to Vermont to write a war novel about white and black Americans in a German prisoner-of-war camp. The main character was supposed to be a pilot who discovers that despite his high military rank, he has the lowest social status because of his race. This story, however, evolved into something completely different.
 
-### **FAKT #3**: Siedem lat pracy nad jedną książką
-"Invisible Man" powstawała przez prawie 7 lat - od 1945 do 1952 roku. Ellison przyznawał, że było to "5 lat plus jeden rok przerwy na nieudaną krótką powieść". To była jego pierwsza i jedyna opublikowana za życia powieść.
+### **FACT #3**: Seven years working on one book
+"Invisible Man" took almost 7 years to write - from 1945 to 1952. Ellison admitted it was "5 years plus one year break for an unsuccessful short novel." This was his first and only novel published during his lifetime.
 
-### **FAKT #4**: Stypendium Rosenwalda jako fundament
-Ellison otrzymał stypendium w wysokości 1500 dolarów z Fundacji Rosenwalda (około 20 000 dolarów w dzisiejszych pieniądzach), które pozwoliło mu na poświęcenie się pisaniu. Bez tego wsparcia finansowego książka mogłaby nigdy nie powstać.
-
----
-
-## PROCES TWÓRCZY I INSPIRACJE
-
-### **FAKT #5**: Wsparcie żony jako klucz do sukcesu  
-Fanny McConnell, żona Ellisona (poślubiona w 1946), fizycznie przepisywała jego odręczne notatki na maszynie i pomagała w edycji. Finansowo wspierała go pracując dla American Medical Center for Burma Frontiers, co pozwalało mu skupić się na pisaniu.
-
-### **FAKT #6**: Federal Writers' Project jako źródło postaci
-Ellison pracował w latach 30. dla Federal Writers' Project, przeprowadzając wywiady z starszymi Afroamerykanami w barach Harlemu. Wiele postaci i dialogów w "Invisible Man" powstało na podstawie tych prawdziwych rozmów. Jeden z portierów powiedział mu: "I'm in New York, but New York ain't in me" - refren, który później wykorzystał w powieści.
-
-### **FAKT #7**: Technika jazzu w literaturze
-Ellison grał na trąbce od 8. roku życia i studiował muzykę klasyczną na Tuskegee Institute (1933-1936). Jego improwizacyjny styl pisania był bezpośrednio inspirowany występami jazzowymi - powieść przechodzi od realizmu przez surrealizm do tragicznej satyry i komediowego slapstick.
-
-### **FAKT #8**: Wielcy mistrzowie literatury jako przewodnicy
-Ellison otwarcie przyznawał wpływ T.S. Eliota, Jamesa Joyce'a i Fiodora Dostojewskiego. Pierwsza linia powieści ("I am an invisible man") to świadome echo "Notatek z podziemia" Dostojewskiego ("I am a sick man").
-
-### **FAKT #9**: "The Waste Land" jako moment przebudzenia
-W 1934 roku, pracując jako recepcjonista w bibliotece na Tuskegee, Ellison przeczytał "Pustą ziemię" T.S. Eliota - opisał to jako "moment wielkiego przebudzenia" literackiego.
+### **FACT #4**: Rosenwald Fellowship as foundation
+Ellison received a $1,500 fellowship from the Rosenwald Foundation (about $20,000 in today's money), which allowed him to dedicate himself to writing. Without this financial support, the book might never have been written.
 
 ---
 
-## KONTEKST POLITYCZNY I SPOŁECZNY
+## CREATIVE PROCESS AND INSPIRATIONS
 
-### **FAKT #10**: Zerwanie z Partią Komunistyczną jako katalizator
-Ellison i jego mentor Richard Wright stracili wiarę w Partię Komunistyczną podczas II wojny światowej. W liście do Wrighta z 18 sierpnia 1945 Ellison napisał: "Maybe we can't smash the atom, but we can, with a few well chosen, well written words, smash all that crummy filth to hell."
+### **FACT #5**: Wife's support as key to success
+Fanny McConnell, Ellison's wife (married in 1946), physically retyped his handwritten notes and helped with editing. She financially supported him by working for the American Medical Center for Burma Frontiers, which allowed him to focus on writing.
 
-### **FAKT #11**: Odejście od literatury protestu
-Przed "Invisible Man" większość powieści o Afroamerykanach (jak "Native Son" czy "Uncle Tom's Cabin") była pisana wyłącznie jako protest społeczny. Ellison celowo odszedł od tego gatunku - narrator w jego powieści mówi: "I am not complaining, nor am I protesting either."
+### **FACT #6**: Federal Writers' Project as source of characters
+Ellison worked in the 1930s for the Federal Writers' Project, conducting interviews with elderly African Americans in Harlem bars. Many characters and dialogues in "Invisible Man" were based on these real conversations. One porter told him: "I'm in New York, but New York ain't in me" - a refrain he later used in the novel.
 
-### **FAKT #12**: Nazwa na cześć Ralpha Waldo Emersona
-Ralph Ellison został nazwany na cześć filozofa Ralpha Waldo Emersona, co w kontekście jego późniejszego dzieła o poszukiwaniu tożsamości wydaje się niesamowicie prorocze.
+### **FACT #7**: Jazz technique in literature
+Ellison played trumpet from age 8 and studied classical music at Tuskegee Institute (1933-1936). His improvisational writing style was directly inspired by jazz performances - the novel moves from realism through surrealism to tragic satire and comedic slapstick.
 
----
+### **FACT #8**: Great literary masters as guides
+Ellison openly acknowledged the influence of T.S. Eliot, James Joyce, and Fyodor Dostoevsky. The novel's first line ("I am an invisible man") is a conscious echo of Dostoevsky's "Notes from Underground" ("I am a sick man").
 
-## HISTORIA PUBLIKACJI
-
-### **FAKT #13**: Fragment opublikowany 5 lat wcześniej
-Słynna scena "Battle Royal" została opublikowana w brytyjskim magazynie "Horizon" już w 1947 roku, na 5 lat przed wydaniem całej powieści. To była pierwsza próba literacka prezentowana szerszej publiczności.
-
-### **FAKT #14**: Sukces od pierwszego dnia
-Po publikacji w 1952 roku książka pozostała na liście bestsellerów przez 16 tygodni, co było niezwykłym osiągnięciem jak na debiut literacki nieznanego autora.
-
-### **FAKT #15**: Pierwsza Narodowa Nagroda Książkowa dla Afroamerykanina
-W 1953 roku "Invisible Man" wygrała National Book Award, czyniąc Ellisona pierwszym afroamerykańskim pisarzem uhonorowanym tą prestiżową nagrodą. Pokonała "The Old Man and the Sea" Hemingwaya i "East of Eden" Steinbecka.
+### **FACT #9**: "The Waste Land" as moment of awakening
+In 1934, while working as a receptionist at the Tuskegee library, Ellison read T.S. Eliot's "The Waste Land" - he described it as "a moment of great literary awakening."
 
 ---
 
-## REAKCJE KRYTYKÓW I KONTROWERSJE
+## POLITICAL AND SOCIAL CONTEXT
 
-### **FAKT #16**: Podzielone reakcje w społeczności czarnej
-John Oliver Killens, prominentny czarny pisarz, ostro skrytykował powieść: "The Negro people need Ralph Ellison's Invisible Man like we need a hole in the head or a stab in the back." Czarni nacjonaliści uważali, że książka nie jest wystarczająco polityczna.
+### **FACT #10**: Break with Communist Party as catalyst
+Ellison and his mentor Richard Wright lost faith in the Communist Party during World War II. In a letter to Wright dated August 18, 1945, Ellison wrote: "Maybe we can't smash the atom, but we can, with a few well chosen, well written words, smash all that crummy filth to hell."
 
-### **FAKT #17**: Uznanie przez krytyków białych
-Orville Prescott z "New York Times" nazwał ją "najbardziej imponującym dziełem fikcji autorstwa czarnoskórego Amerykanina, jakie kiedykolwiek czytał". Saul Bellow określił ją jako "książkę najwyższej rangi, wspaniałą książkę".
+### **FACT #11**: Departure from protest literature
+Before "Invisible Man," most novels about African Americans (like "Native Son" or "Uncle Tom's Cabin") were written solely as social protest. Ellison deliberately departed from this genre - the narrator in his novel says: "I am not complaining, nor am I protesting either."
 
-### **FAKT #18**: Ankieta krytyków z 1965 roku
-W 1965 roku ankieta 200 krytyków, autorów i redaktorów "New York Herald Tribune" wybrała "Invisible Man" jako najbardziej wyróżniającą się powieść napisaną przez Amerykanina w ciągu poprzednich 20 lat.
-
----
-
-## BIOGRAFIA AUTORA W KONTEKŚCIE KSIĄŻKI
-
-### **FAKT #19**: Młodość w Oklahoma City
-Ellison dorastał w Oklahoma City, gdzie jego ojciec Lewis zmarł, gdy Ralph miał 3 lata. Matka Ida Millsap musiała samotnie wychowywać dzieci - to doświadczechtwo "niewidzialności" społecznej wpłynęło na główny temat powieści.
-
-### **FAKT #20**: Tuskegee Institute jako inspiracja
-Ellison uczęszczał do Tuskegee Institute (1933-1936), prestiżowej czarnoskórej uczelni założonej przez Bookera T. Washingtona. Doświadczenie klasowości nawet w czarnoskórskim środowisku akademickim znalazło odbicie w powieści.
-
-### **FAKT #21**: Podróż koleją jako symbol
-Ellison jeździł nielegalnie pociągami towarowymi, żeby dostać się do Alabama na studia. To doświadczenie "niewidzialności" jako tajemniczego pasażera wpłynęło na centralną metaforę powieści.
-
-### **FAKT #22**: Merchant Marine zamiast segregowanej armii
-Podczas II wojny światowej Ellison służył w marynarce handlowej (1943-1945) jako alternatywie dla służby w segregowanej armii amerykańskiej. To doświadczenie wpłynęło na jego rozumienie instytucjonalnego rasizmu.
+### **FACT #12**: Named after Ralph Waldo Emerson
+Ralph Ellison was named after philosopher Ralph Waldo Emerson, which in the context of his later work about the search for identity seems incredibly prophetic.
 
 ---
 
-## LICZBY I STATYSTYKI
+## PUBLICATION HISTORY
 
-### **FAKT #23**: 19. miejsce na liście Modern Library
-W 1998 roku Modern Library umieściła "Invisible Man" na 19. miejscu listy 100 najlepszych powieści XX wieku w języku angielskim.
+### **FACT #13**: Fragment published 5 years earlier
+The famous "Battle Royal" scene was published in the British magazine "Horizon" in 1947, 5 years before the entire novel was published. This was the first literary attempt presented to a wider audience.
 
-### **FAKT #24**: Lista Time Magazine 100 Best
-Magazyn "Time" włączył powieść do swojej listy 100 najlepszych powieści w języku angielskim z lat 1923-2005, nazywając ją "typową amerykańską pikarejską powieścią XX wieku".
+### **FACT #14**: Success from day one
+After publication in 1952, the book remained on the bestseller list for 16 weeks, which was an extraordinary achievement for the literary debut of an unknown author.
 
-### **FAKT #25**: Długość powieści - 581 stron
-Pierwsza edycja Random House liczyła 581 stron, co czyni ją jedną z najdłuższych powieści debiutanckich w amerykańskiej literaturze.
-
-### **FAKT #26**: Brak adaptacji filmowych za życia autora
-Ellison odrzucił wszystkie oferty adaptacji filmowych, włączając propozycję legendarnego producenta muzycznego Quincy Jonesa. W testamencie zabronił jakichkolwiek adaptacji dramatycznych do śmierci żony (zmarła w 2005).
+### **FACT #15**: First National Book Award for an African American
+In 1953, "Invisible Man" won the National Book Award, making Ellison the first African American writer honored with this prestigious award. It beat Hemingway's "The Old Man and the Sea" and Steinbeck's "East of Eden."
 
 ---
 
-## CIEKAWOSTKI I ANEGDOTY
+## CRITICS' REACTIONS AND CONTROVERSIES
 
-### **FAKT #27**: Vermont jako miejsce literackiego cudu
-Ellison tak pokochał Vermont, że wrócił tam z żoną Fanny w 1947 roku. Jego improwizowane studio pisarskie mieściło się w drzwiach stodoły, skąd patrzył na pola z sianem i złocistymi różami.
+### **FACT #16**: Divided reactions in the black community
+John Oliver Killens, a prominent black writer, harshly criticized the novel: "The Negro people need Ralph Ellison's Invisible Man like we need a hole in the head or a stab in the back." Black nationalists believed the book wasn't political enough.
 
-### **FAKT #28**: Komunistyczne publikacje jako początek
-Ellison publikował recenzje książek i opowiadania w komunistycznych czasopismach jak "New Masses" w latach 30., zanim zerwał z partią.
+### **FACT #17**: Recognition by white critics
+Orville Prescott of "The New York Times" called it "the most impressive work of fiction by a Negro American that I have ever read." Saul Bellow described it as "a book of the highest rank, a splendid book."
 
-### **FAKT #29**: Richard Wright jako mentor i rywal
-Wright był pierwszym mentorem Ellisona, ale gdy skrytykował jego styl jako "zbyt naśladowczy", ich relacja się pogorszyła. Ellison stopniowo odrzucił estetykę i politykę Wrighta.
-
-### **FAKT #30**: Praca jako recepcjonista w bibliotece
-W 1934 roku Ellison pracował jako recepcjonista w bibliotece na Tuskegee, gdzie czytał Joyce'a i Gertrudę Stein - to tam rozpoczęła się jego prawdziwa edukacja literacka.
+### **FACT #18**: 1965 critics' survey
+In 1965, a survey of 200 critics, authors, and editors from "New York Herald Tribune" chose "Invisible Man" as the most distinguished novel written by an American in the previous 20 years.
 
 ---
 
-## WPŁYW NA KULTURĘ I EDUKACJĘ
+## AUTHOR BIOGRAPHY IN BOOK CONTEXT
 
-### **FAKT #31**: Regularne miejsce na listach książek zakazanych
-"Invisible Man" regularnie pojawia się na listach książek kwestionowanych w amerykańskich szkołach. W 2013 roku rada szkolna w Randolph County w Północnej Karolinie głosowała 5-2 za usunięciem wszystkich egzemplarzy z bibliotek szkolnych.
+### **FACT #19**: Youth in Oklahoma City
+Ellison grew up in Oklahoma City, where his father Lewis died when Ralph was 3 years old. His mother Ida Millsap had to raise the children alone - this experience of social "invisibility" influenced the novel's main theme.
 
-### **FAKT #32**: Cofnięcie zakazu po 10 dniach
-26 września 2013 roku, zaledwie 10 dni po oryginalnym zakazie, rada szkolna głosowała 6-1 za przywróceniem książki po ogólnoświatowym nagłośnieniu sprawy.
+### **FACT #20**: Tuskegee Institute as inspiration
+Ellison attended Tuskegee Institute (1933-1936), a prestigious black university founded by Booker T. Washington. The experience of class distinctions even within the black academic environment was reflected in the novel.
 
-### **FAKT #33**: Medal Wolności od prezydenta
-W 1969 roku Ellison otrzymał Presidential Medal of Freedom, najwyższe cywilne odznaczenie w USA, a w 1985 National Medal for the Arts.
+### **FACT #21**: Train journey as symbol
+Ellison illegally rode freight trains to get to Alabama for college. This experience of "invisibility" as a secret passenger influenced the novel's central metaphor.
 
-### **FAKT #34**: Park w Harlemie na cześć autora
-1 maja 2003 roku park przy 150th Street i Riverside Drive w Harlemie (blisko jego ostatniego miejsca zamieszkania przy 730 Riverside Drive) został poświęcony pamięci Ellisona.
-
----
-
-## NIEUDANE PROJEKTY I KONTYNUACJE
-
-### **FAKT #35**: 40 lat pracy nad drugą powieścią
-Ellison pracował nad drugą powieścią "Juneteenth" przez ponad 40 lat, ale nigdy jej nie ukończył. Została opublikowana pośmiertnie w 1999 roku na podstawie jego notatek.
-
-### **FAKT #36**: Pożar manuskryptu w 1967 roku
-W 1967 roku pożar w letnim domu Ellisona w Massachusetts zniszczył setki stron manuskryptu drugiej powieści, co mogło przyczynić się do tego, że nigdy jej nie ukończył.
-
-### **FAKT #37**: Druga żona jako literacki współpracownik
-Fanny McConnell była absolwentką University of Iowa na stypendium, współzałożycielką Negro People's Theater w Chicago i pisarką dla "Chicago Defender" - była pełnowartościowym partnerem literackim.
+### **FACT #22**: Merchant Marine instead of segregated army
+During World War II, Ellison served in the merchant marine (1943-1945) as an alternative to service in the segregated U.S. Army. This experience influenced his understanding of institutional racism.
 
 ---
 
-## KONTEKST MIĘDZYNARODOWY
+## NUMBERS AND STATISTICS
 
-### **PLOTKA #1**: Możliwe tłumaczenia radzieckie
-Istnieją niepotwierzone doniesienia, że powieść mogła być tajnie tłumaczona w ZSRR w latach 50., ale ze względu na krytykę komunizmu nie mogła być oficjalnie publikowana.
+### **FACT #23**: 19th place on Modern Library list
+In 1998, the Modern Library placed "Invisible Man" at 19th place on its list of the 100 best English-language novels of the 20th century.
 
-### **FAKT #38**: Wpływ na literaturę światową
-"Invisible Man" wpłynęła na całą generację pisarzy postkolonialnych, szczególnie w Afryce i na Karaibach, którzy zmagali się z podobnymi problemami tożsamości i "niewidzialności" społecznej.
+### **FACT #24**: Time Magazine 100 Best list
+"Time" magazine included the novel in its list of the 100 best English-language novels from 1923-2005, calling it "the quintessential American picaresque novel of the 20th century."
 
-### **FAKT #39**: Podróże Ellisona do Europy
-W 1955 roku Ellison podróżował po Europie, wykładając i osiedlając się na pewien czas w Rzymie, gdzie napisał esej opublikowany w antologii "A New Southern Harvest" (1957).
+### **FACT #25**: Novel length - 581 pages
+The first Random House edition was 581 pages, making it one of the longest debut novels in American literature.
 
----
-
-## DZIEDZICTWO TECHNICZNE I STYLISTYCZNE
-
-### **FAKT #40**: Technika transkrypcji czarnej mowy
-Ellison opracował rewolucyjną technikę oddawania czarnej mowy amerykańskiej w literaturze - zamiast przerysowanych błędów ortograficznych skupił się na oddaniu idiomatyki i rytmu.
-
-### **FAKT #41**: Struktura episodyczna
-Ellison pisał epizodycznie, co można zaobserwować w różnych wersjach pojedynczych scen - pokazuje to "agonię sześciu i pół roku kompozycji, ale także radość chwil odkrycia i inspiracji".
-
-### **FAKT #42**: Wielopoziomowość narracyjna
-Powieść funkcjonuje jednocześnie na poziomie realistycznym, alegorycznym, mitologicznym i egzystencjalnym - technika inspirowana modernistami europejskimi, ale zastosowana do afroamerykańskiego doświadczenia.
-
-### **FAKT #43**: Ciągły dialog z tradycją
-Od pierwszej linii powieści Ellison prowadzi ciągły dialog z poprzednikami: Szekspirem, Poe, Melvillem, Dostojewskim, Joyce'em, Eliotem i Hemingwayem.
+### **FACT #26**: No film adaptations during author's lifetime
+Ellison rejected all film adaptation offers, including a proposal from legendary music producer Quincy Jones. In his will, he prohibited any dramatic adaptations until his wife's death (she died in 2005).
 
 ---
 
-## PODSUMOWANIE
+## CURIOSITIES AND ANECDOTES
 
-"Invisible Man" powstała w wyniku unikalnego splotów okoliczności: przypadkowego momentu inspiracji w stodole w Vermont, siedmioletniego procesu twórczego wspieranego przez oddaną żonę i stypendium Rosenwalda, doświadczeń z Federal Writers' Project, rozczarowania komunizmem oraz głębokiej znajomości zarówno tradycji literackiej, jak i kultury jazzowej. 
+### **FACT #27**: Vermont as place of literary miracle
+Ellison loved Vermont so much that he returned there with his wife Fanny in 1947. His improvised writing studio was located in a barn doorway, from where he looked at fields of hay and goldenrod.
 
-Powieść przełamała stereotypy literatury afroamerykańskiej, wychodząc poza ramy protestu społecznego w kierunku uniwersalnych pytań egzystencjalnych, ale zachowując przy tym specyficznie amerykański i afroamerykański kontekst kulturowy.
+### **FACT #28**: Communist publications as beginning
+Ellison published book reviews and short stories in communist magazines like "New Masses" in the 1930s, before breaking with the party.
 
-**Status faktów**: 43 potwierdzone fakty, 1 niepotwierdzona plotka
-**Źródła**: Archiwalne wywiady, biografie, dokumentacja wydawnicza, recenzje krytyczne z epoki, korespondencja autora
+### **FACT #29**: Richard Wright as mentor and rival
+Wright was Ellison's first mentor, but when he criticized his style as "too imitative," their relationship deteriorated. Ellison gradually rejected Wright's aesthetics and politics.
+
+### **FACT #30**: Work as library receptionist
+In 1934, Ellison worked as a receptionist at the Tuskegee library, where he read Joyce and Gertrude Stein - this is where his true literary education began.
+
+---
+
+## CULTURAL AND EDUCATIONAL IMPACT
+
+### **FACT #31**: Regular spot on banned books lists
+"Invisible Man" regularly appears on lists of challenged books in American schools. In 2013, the school board in Randolph County, North Carolina voted 5-2 to remove all copies from school libraries.
+
+### **FACT #32**: Ban reversed after 10 days
+On September 26, 2013, just 10 days after the original ban, the school board voted 6-1 to restore the book after worldwide media attention.
+
+### **FACT #33**: Medal of Freedom from president
+In 1969, Ellison received the Presidential Medal of Freedom, the highest civilian honor in the USA, and in 1985 the National Medal for the Arts.
+
+### **FACT #34**: Park in Harlem honoring the author
+On May 1, 2003, a park at 150th Street and Riverside Drive in Harlem (near his last residence at 730 Riverside Drive) was dedicated to Ellison's memory.
+
+---
+
+## FAILED PROJECTS AND CONTINUATIONS
+
+### **FACT #35**: 40 years working on second novel
+Ellison worked on his second novel "Juneteenth" for over 40 years but never completed it. It was published posthumously in 1999 based on his notes.
+
+### **FACT #36**: Manuscript fire in 1967
+In 1967, a fire at Ellison's summer home in Massachusetts destroyed hundreds of pages of the second novel's manuscript, which may have contributed to his never completing it.
+
+### **FACT #37**: Second wife as literary collaborator
+Fanny McConnell was a University of Iowa graduate on scholarship, co-founder of the Negro People's Theater in Chicago, and writer for the "Chicago Defender" - she was a full-fledged literary partner.
+
+---
+
+## INTERNATIONAL CONTEXT
+
+### **RUMOR #1**: Possible Soviet translations
+There are unconfirmed reports that the novel may have been secretly translated in the USSR in the 1950s, but due to its criticism of communism, it could not be officially published.
+
+### **FACT #38**: Influence on world literature
+"Invisible Man" influenced an entire generation of postcolonial writers, particularly in Africa and the Caribbean, who struggled with similar problems of identity and social "invisibility."
+
+### **FACT #39**: Ellison's travels to Europe
+In 1955, Ellison traveled through Europe, lecturing and settling for a time in Rome, where he wrote an essay published in the anthology "A New Southern Harvest" (1957).
+
+---
+
+## TECHNICAL AND STYLISTIC LEGACY
+
+### **FACT #40**: Black speech transcription technique
+Ellison developed a revolutionary technique for rendering African American speech in literature - instead of exaggerated spelling errors, he focused on capturing idiom and rhythm.
+
+### **FACT #41**: Episodic structure
+Ellison wrote episodically, which can be observed in different versions of individual scenes - this shows "the agony of six and a half years of composition, but also the joy of moments of discovery and inspiration."
+
+### **FACT #42**: Multi-level narrative
+The novel functions simultaneously on realistic, allegorical, mythological, and existential levels - a technique inspired by European modernists but applied to the African American experience.
+
+### **FACT #43**: Continuous dialogue with tradition
+From the novel's first line, Ellison conducts a continuous dialogue with his predecessors: Shakespeare, Poe, Melville, Dostoevsky, Joyce, Eliot, and Hemingway.
+
+---
+
+## SUMMARY
+
+"Invisible Man" was created through a unique confluence of circumstances: an accidental moment of inspiration in a Vermont barn, a seven-year creative process supported by a devoted wife and Rosenwald fellowship, experiences from the Federal Writers' Project, disillusionment with communism, and deep knowledge of both literary tradition and jazz culture.
+
+The novel broke stereotypes of African American literature, moving beyond the framework of social protest toward universal existential questions, while maintaining a specifically American and African American cultural context.
+
+**Fact status**: 43 confirmed facts, 1 unconfirmed rumor
+**Sources**: Archival interviews, biographies, publishing documentation, contemporary critical reviews, author's correspondence

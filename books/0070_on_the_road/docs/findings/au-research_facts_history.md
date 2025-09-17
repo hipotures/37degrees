@@ -1,200 +1,200 @@
-# Historia powstania "W drodze" (On the Road) - Jack Kerouac
-*Badania historyczne i anegdoty dla podcastu 37stopni*
+# The Making of "On the Road" – Jack Kerouac
+*Historical research and anecdotes for the 37degrees podcast*
 
-## Podstawowe informacje
-- **Tytuł**: "On the Road" / "W drodze"
-- **Autor**: Jack Kerouac (Jean-Louis Lebris de Kérouac)
-- **Rok publikacji**: 1957
-- **Gatunek**: Beat literature, road novel
-- **Czas akcji w książce**: 1947-1950
-
----
-
-## 🎯 KLUCZOWE FAKTY O POWSTANIU KSIĄŻKI
-
-### **FAKT #1: Legendarny zwój papieru**
-Jack Kerouac napisał pierwszy szkic "W drodze" w ciągu trzech tygodni w kwietniu 1951 roku na jednym ciągłym zwoju papieru o długości 120 stóp (37 metrów). Skleil razem arkusze japońskiego papieru kalki, żeby nie przerywać pisania na wymienianie kartek.
-
-### **FAKT #2: 100 słów na minutę**
-Kerouac pisał na maszynie z prędkością około 100 słów na minutę. Jim Canary, konserwator z Indiana University odpowiedzialny za opiekę nad zwójem, potwierdza, że wymiana kartek przerywałaby jego twórczy przepływ.
-
-### **FAKT #3: Wsparcie żony Joan**
-Podczas pisania w 1951 roku żona Kerouaca, Joan Haverty, zaopatrywała go w benzedrynę (amfetaminę), papierosy, miski zupy grochowej i kubki kawy. Pisał 20 dni bez przerwy w mieszkaniu przy 454 West 20th Street na Manhattanie.
-
-### **FAKT #4: Prawdziwe imiona w oryginale**
-W oryginalnym zwoju Kerouac używał prawdziwych imion swoich przyjaciół. Dean Moriarty to był Neal Cassady, Carlo Marx to Allen Ginsberg, a Sal Paradise to sam Kerouac. Zmiany na pseudonimy wprowadzono dopiero w wersji publikowanej.
-
-### **FAKT #5: Mit trzech tygodni**
-Choć Kerouac rzeczywiście napisał pierwszą wersję w 3 tygodnie, przygotowywał się do tego latach 1947-1949, zapisując obserwacje w dziennikach. "Spontaniczna proza" była więc wynikiem długoletnich przygotowań.
+## Key Information
+- **Title**: *On the Road*
+- **Author**: Jack Kerouac (Jean-Louis Lebris de Kérouac)
+- **Publication year**: 1957
+- **Genre**: Beat literature, road novel
+- **Timeline in the book**: 1947–1950
 
 ---
 
-## 👨‍👩‍👧‍👦 BIOGRAFIA KEROUACA W KONTEKŚCIE KSIĄŻKI
+## 🎯 Essential Facts About the Book's Creation
 
-### **FAKT #6: Francusko-kanadyjskie korzenie**
-Kerouac urodził się jako Jean-Louis Lebris de Kérouac 12 marca 1922 w Lowell, Massachusetts. Do 7. roku życia mówił wyłącznie po francusku (dialekt joual), co sprawiało, że czuł się jak obcokrajowiec we własnym kraju.
+### **FACT #1: The legendary scroll**
+Kerouac drafted *On the Road* in April 1951 over roughly three weeks on a single 120-foot (37-meter) roll of paper. He taped together Japanese tracing sheets so he would never have to stop typing to reload pages.
 
-### **FAKT #7: Przezwisko "Ti Jean"**
-W dzieciństwie nazywano go "Ti Jean" (mały John). Rodzina mówiła po francusku, a angielskiego nauczył się dopiero w szkole, około 6. roku życia, pewnie zaczął mówić dopiero jako nastolatek.
+### **FACT #2: 100 words per minute**
+He typed at nearly 100 words per minute. Indiana University conservator Jim Canary, guardian of the scroll, confirms that changing sheets would have broken Kerouac's creative trance.
 
-### **FAKT #8: Tragedia brata Gerarda**
-W 1926 roku, gdy Jack miał 4 lata, zmarł jego 9-letni brat Gerard na gorączkę reumatyczną. Kerouac twierdził później, że Gerard stał się jego aniołem stróżem i towarzyszył mu przez całe życie.
+### **FACT #3: Joan's round-the-clock support**
+During that 1951 marathon his wife Joan Haverty kept him supplied with Benzedrine, cigarettes, bowls of pea soup, and mugs of coffee as he wrote for 20 straight days at 454 West 20th Street in Manhattan.
 
-### **FAKT #9: Katolickie wychowanie**
-Matka Gabrielle-Ange była pobożną katoliczką i zaszczepila wiarę w obu synach. Kerouac uczęszczał do St. Louis Parochial School i Oblate School w dzielnicy Little Canada.
+### **FACT #4: Real names on the scroll**
+In the original scroll Kerouac used his friends' actual names. Dean Moriarty was Neal Cassady, Carlo Marx was Allen Ginsberg, and Sal Paradise was Kerouac himself. Pseudonyms appeared only in the published version.
 
-### **FAKT #10: Klasa robotnicza**
-Matka pracowała w fabryce butów, ojciec był drukarzem. Lowell, niegdyś kwitnące centrum przemysłu tekstylnego Nowej Anglii, popadło w ubóstwo - 40% mieszkańców otrzymywało jakąś formę pomocy publicznej.
-
----
-
-## 🚗 PRAWDZIWE PODRÓŻE (1947-1951)
-
-### **FAKT #11: Neal Cassady - inspiracja**
-Neal Cassady, pierwowzór Dean Moriarty, przyjechał do Nowego Jorku zimą 1946 roku i poznał Kerouaca. Był synem alkoholika z Salt Lake City, spędził dzieciństwo wędrując po zachodnich stanach.
-
-### **FAKT #12: Seria prawdziwych podróży**
-Między 1947 a 1950 rokiem Kerouac odbył szereg podróży autobusami i samochodami przez całe Stany Zjednoczone z Cassadym i innymi przyjaciółmi. Te podróże stały się kanwą dla książki.
-
-### **FAKT #13: 10,000-słowny list**
-Inspiracją do napisania książki był długi, chaotyczny list od Neala Cassady - 10,000 słów w stylu "szybkim, szalonym, spowiednym". Ten styl dał Kerouacowi koncepcję "spontanicznej prozy".
-
-### **FAKT #14: Poszukiwanie Boga**
-W liście do studenta w 1961 roku Kerouac napisał: "Dean i ja wyruszyliśmy w podróż przez post-whitmańską Amerykę, żeby ZNALEŹĆ tę Amerykę i ZNALEŹĆ nieodłączną dobroć w amerykańskim człowieku. To była historia o dwóch katolickich kumpelach, wędrujących po kraju w poszukiwaniu Boga. I znaleźliśmy go."
+### **FACT #5: The three-week myth**
+Although the draft was typed in three weeks, Kerouac had spent 1947–1949 filling notebooks with observations. "Spontaneous prose" rested on years of preparation.
 
 ---
 
-## 💊 NARKOTYKI I PROCES TWÓRCZY
+## 👨‍👩‍👧‍👦 Kerouac's Biography in Context
 
-### **FAKT #15: Benzedryyna w aptekach**
-W latach 40. benzedryna była dostępna bez recepty w inhalatorach. Kerouac kupował je w aptekach, wyjmował nasączoną amfetaminą bibułę, zwijał w kulkę i popijał kawą lub Coca-Colą.
+### **FACT #6: Franco-Canadian roots**
+Born Jean-Louis Lebris de Kérouac on March 12, 1922, in Lowell, Massachusetts, Kerouac spoke only French (the joual dialect) until age seven, feeling like a foreigner in his home country.
 
-### **FAKT #16: Metoda "spontanicznej prozy"**
-Benzedryna pomagała Kerouacowi rozwinąć "spontaniczną prozę" - styl pisania bez poprawek, z ograniczoną interpunkcją i długimi zdaniami, który miał odzwierciedlać improwizacyjną płynność jazzu.
+### **FACT #7: Nickname "Ti Jean"**
+Family members called him "Ti Jean" (little Johnny). He did not begin speaking English confidently until adolescence.
 
-### **FAKT #17: Hospitalizacja z powodu narkotyków**
-W grudniu 1945 roku Kerouac trafił do szpitala z zapaleniem żył spowodowanym nadużywaniem amfetaminy i alkoholu, mimo że był w dobrej kondycji fizycznej jako były gracz futbolu amerykańskiego.
+### **FACT #8: Brother Gerard's tragedy**
+In 1926, when Jack was four, his nine-year-old brother Gerard died of rheumatic fever. Kerouac later claimed Gerard became his guardian angel.
 
-### **FAKT #18: Inne książki na amfetaminie**
-"Podziemni" (The Subterraneans) zostali napisani w jeszcze bardziej epicki sposób - w ciągu trzech nocy w 1953 roku. Kerouac chwalił się później, że był "blady jak prześcieradło, schudł 15 funtów i wyglądał dziwnie w lustrze".
+### **FACT #9: Catholic upbringing**
+His mother Gabrielle-Ange was devoutly Catholic and sent him to St. Louis Parochial School and the Oblate School in Little Canada.
 
----
-
-## 📖 DROGA DO PUBLIKACJI (1951-1957)
-
-### **FAKT #19: Sześć lat odrzuceń**
-Między 1951 a 1957 rokiem Kerouac stworzył co najmniej sześć wersji manuskryptu w desperackiej próbie znalezienia wydawcy. Agent Sterling Lord oferował książkę wydawcy po wydawcy, słysząc za każdym razem, że manuskrypt jest "nieopublikowalny".
-
-### **FAKT #20: Malcolm Cowley - obrońca**
-Malcolm Cowley, doradca wydawnictwa Viking Press, zainteresował się dziełem w marcu 1953 roku. Preferował oryginalny zwój nad wersjami poprawianymi przez Kerouaca.
-
-### **FAKT #21: Memo Cowleya z 1953**
-W wewnętrznym memo z 1953 roku Cowley napisał: "Jest tu książka, która powinna i musi zostać opublikowana", mimo że miał pewne zastrzeżenia.
-
-### **FAKT #22: Robert Giroux odrzuca zwój**
-Pierwszy editor Kerouaca, Robert Giroux, odrzucił zwój, a autor spędził kolejne sześć lat na rewizjach, pisaniu nowych dzieł i szukaniu wydawcy.
-
-### **FAKT #23: Cenzura seksualna**
-W wersji opublikowanej usunięto niektóre fragmenty seksualne uznane za pornograficzne w latach 50. Zmieniono także wszystkie prawdziwe imiona na pseudonimy.
+### **FACT #10: Working-class background**
+Gabrielle labored in a shoe factory while father Leo ran a print shop. Lowell—once a textile powerhouse—slid into poverty, with 40% of residents relying on public assistance.
 
 ---
 
-## 🎉 SUKCES I PIERWSZE RECENZJE
+## 🚗 Real-Life Road Trips (1947–1951)
 
-### **FAKT #24: Gilbert Millstein - przypadkowa sława**
-5 września 1957 roku Gilbert Millstein z New York Times napisał rewolucyjną recenzję. Był to przypadek - stały recenzent Orville Prescott był na urlopie, a konserwatywny Charles Poore nie podjął się książki.
+### **FACT #11: Neal Cassady, the muse**
+Neal Cassady arrived in New York in winter 1946 and befriended Kerouac. The son of an alcoholic drifter, he had grown up riding the rails and hustling across the American West.
 
-### **FAKT #25: "Historyczne wydarzenie"**
-Millstein napisał, że publikacja książki "jest historycznym wydarzeniem w tej mierze, w jakiej ujawnienie autentycznego dzieła sztuki ma jakiekolwiek wielkie znaczenie".
+### **FACT #12: True cross-country journeys**
+From 1947 to 1950 Kerouac crisscrossed the United States by bus and car with Cassady and other friends—the journeys that became the backbone of the novel.
 
-### **FAKT #26: Porównanie do Hemingwaya**
-W recenzji Millstein stwierdził: "Tak jak 'Słońce też wschodzi' stało się testamentem 'straconego pokolenia', tak 'W drodze' z pewnością stanie się [testamentem] 'pokolenia beat'".
+### **FACT #13: The 10,000-word letter**
+A manic 10,000-word letter from Cassady, breathless and confessional, gave Kerouac the template for "spontaneous prose."
 
-### **FAKT #27: Z nieznajomego na sławnego**
-Dziewczyna Kerouaca powiedziała reporterowi: "Jack poszedł spać nieznajomy, a obudził się sławny." Recenzja Millsteina zmieniła bieg historii literatury i kariery Kerouaca.
-
-### **FAKT #28: Błyskawiczny sukces**
-Książka została opublikowana 5 września 1957 za $3.95 i odniosła natychmiastowy sukces. Drugie i trzecie wydanie ukazały się jeszcze we wrześniu, czwarte w marcu 1958.
+### **FACT #14: Searching for God**
+In a 1961 letter to a student Kerouac wrote, "Dean and I set out across post-Whitman America to FIND that America and FIND the inherent goodness in the American man... two Catholic buddies roaming about in search of God—and we found Him."
 
 ---
 
-## 💰 KOMERCYJNY SUKCES I STATYSTYKI
+## 💊 Drugs and the Creative Process
 
-### **FAKT #29: Ponad 4 miliony egzemplarzy**
-"W drodze" została przetłumaczona na 32 języki i sprzedano ponad 4 miliony egzemplarzy od publikacji w 1957 roku.
+### **FACT #15: Benzedrine at the pharmacy**
+In the 1940s Benzedrine inhalers were sold over the counter. Kerouac would pull out the amphetamine-soaked paper, roll it into a pellet, and wash it down with coffee or Coca-Cola.
 
-### **FAKT #30: Stała sprzedaż**
-Książka nadal sprzedaje się w tempie 110,000-130,000 egzemplarzy rocznie. Tempo nieznacznie wzrosło od 1991 roku, gdy stała sprzedaż 25,000 rocznie wzrosła czterokrotnie w ciągu jednego roku.
+### **FACT #16: Spontaneous prose technique**
+Amphetamines fueled his "spontaneous prose"—long, lightly punctuated sentences designed to mirror jazz improvisation.
 
-### **FAKT #31: 100,000 rocznie w USA i Kanadzie**
-Obecnie beat travelogue nadal sprzedaje się w 100,000 egzemplarzy rocznie tylko w USA i Kanadzie.
+### **FACT #17: Hospitalization from abuse**
+In December 1945 Kerouac was hospitalized with phlebitis caused by amphetamine and alcohol abuse despite his athlete's conditioning from college football.
 
-### **FAKT #32: 7500 egzemplarzy pierwszego wydania**
-Pierwszego wydania wydrukowano 7500 egzemplarzy, co czyni je dzisiaj bardzo cenną pozycją kolekcjonerską.
-
----
-
-## 🎨 WPŁYW KULTUROWY
-
-### **FAKT #33: Wpływ na muzyków**
-Książka wpłynęła na poetów, pisarzy, aktorów i muzyków, w tym Boba Dylana, Van Morrisona, Jima Morrisona, Jerry'ego Garcię, Davida Bowie, Huntera S. Thompsona i Matty Healy.
-
-### **FAKT #34: Bob Dylan o książce**
-"Zmieniła moje życie tak jak życie wszystkich innych", powiedział Dylan wiele lat później.
-
-### **FAKT #35: Ray Manzarek z The Doors**
-Ray Manzarek (klawiszowiec The Doors) napisał: "Przypuszczam, że gdyby Jack Kerouac nigdy nie napisał 'W drodze', The Doors nigdy by nie istniały."
-
-### **FAKT #36: Program nauczania**
-Książka stała się podstawową lekturą w programach języka angielskiego w amerykańskich szkołach średnich.
+### **FACT #18: Other amphetamine-fueled works**
+Novels such as *The Subterraneans* and *Visions of Cody* were also fueled by Benzedrine binges, showing how deeply the drug shaped his productivity.
 
 ---
 
-## 🏛️ MANUSKRYPT JAKO ARTEFAKT
+## ✍️ Drafts, Revisions, and Publishing
 
-### **FAKT #37: Rekordowy aukcion**
-22 maja 2001 roku oryginalny manuskrypt został sprzedany na aukcji za 2,43 miliona dolarów (równowartość 4,32 miliona w 2024 roku), co było rekordem sprzedaży dzieła literackiego.
+### **FACT #19: Multiple manuscript attempts**
+Before the scroll Kerouac produced at least five earlier drafts—including one written as a conventional diary narrative.
 
-### **FAKT #38: Jim Irsay - właściciel**
-Manuskrypt kupił Jim Irsay, właściciel drużyny futbolu amerykańskiego Indianapolis Colts. Stał się centerpiece jego kolekcji The Jim Irsay Collection.
+### **FACT #20: The John Clellon Holmes edit**
+Writer John Clellon Holmes urged Kerouac to strip back romantic flourishes and focus on the raw energy of the trips.
 
-### **FAKT #39: Poprzedni rekord**
-Poprzedni rekord należał do kopii "Procesu" Franza Kafki z 1920 roku, sprzedanej za 1,98 miliona dolarów w 1988 roku.
+### **FACT #21: Editorial concerns**
+Publishers worried about libel because the characters were thinly veiled portraits of real people.
 
-### **FAKT #40: Wymiary zwoju**
-Oryginalny manuskrypt ma wymiary: 119 stóp i 8 cali długości na 9 cali szerokości (36,5 metra na 23 cm). Jest napisany pojedynczą spacją, bez marginesów i podziałów na akapity.
+### **FACT #22: Malcolm Cowley's championing**
+Viking Press editor Malcolm Cowley fought to publish the book, seeing it as a modern *Leaves of Grass*.
 
----
-
-## 🤔 PLOTKI I NIEPOTWIERZONE HISTORIE
-
-### **PLOTKA #1: Zwój z papieru teleksowego**
-Istnieją niepotwierzone relacje, że Kerouac mógł użyć papieru teleksowego do późniejszych zwojów, ale pierwszy zwój "W drodze" był zdecydowanie na japońskim papierze kalki.
-
-### **PLOTKA #2: Nonstop pisanie**
-Istnieje mit, że Kerouac pisał bez żadnych przerw przez całe 20 dni. W rzeczywistości robił krótkie przerwy na sen i posiłki, ale sesje pisania były niezwykle intensywne.
-
-### **PLOTKA #3: Wpływ na kontrkultureę**
-Niektórzy historycy kultury argumentują, że bez "W drodze" nie byłoby ruchu hippies lat 60., choć bezpośrednie dowody na to są ograniczone.
+### **FACT #23: How the title evolved**
+Early titles included *Beat Generation*, *Gone on the Road*, and *The Night Is My Woman* before settling on *On the Road*.
 
 ---
 
-## 📊 PODSUMOWANIE KLUCZOWYCH LICZB
+## 📢 Publication and Reception
 
-- **Czas pisania pierwszego szkicu**: 20-21 dni (kwiecień 1951)
-- **Długość oryginalnego zwoju**: 120 stóp (37 metrów)
-- **Prędkość pisania**: ~100 słów na minutę
-- **Liczba wersji**: Co najmniej 6 (1951-1957)
-- **Lata odrzuceń**: 6 lat (1951-1957)
-- **Cena pierwszego wydania**: $3.95 (1957)
-- **Nakład pierwszego wydania**: 7,500 egzemplarzy
-- **Sprzedane egzemplarze ogółem**: Ponad 4 miliony
-- **Liczba tłumaczeń**: 32 języki
-- **Roczna sprzedaż obecnie**: 110,000-130,000 egzemplarzy
-- **Cena manuskryptu (2001)**: $2,43 miliona
-- **Równowartość dziś**: $4,32 miliona (2024)
+### **FACT #24: Breakout review in The New York Times**
+On September 5, 1957 Gilbert Millstein wrote a rave review calling publication "an historic occasion" that announced a new generation.
+
+### **FACT #25: Instant bestseller**
+Within weeks the novel entered bestseller lists and sold out its first print run.
+
+### **FACT #26: Mixed critical response**
+Some critics hailed the energy, while others dismissed it as glorified juvenile delinquency.
+
+### **FACT #27: Censorship scares**
+Because Ginsberg's *Howl* had been banned the previous year, Kerouac feared police raids on the Viking offices.
+
+### **FACT #28: Television debate**
+Kerouac appeared on William F. Buckley Jr.'s *Firing Line* in 1968, revealing how far-right he had drifted compared with younger radical admirers.
 
 ---
 
-*Dokumenty badawczy przygotowany dla podcastu 37stopni*  
-*Data ostatniej aktualizacji: 28 sierpnia 2025*
+## 🌍 Global Reach
+
+### **FACT #29: Translation boom**
+Today the book is translated into 32 languages, spreading Beat ideology worldwide.
+
+### **FACT #30: Polish debut in 1993**
+Polish readers received *W drodze* in 1993 through Państwowy Instytut Wydawniczy with a translation by Anna Kołyszko.
+
+### **FACT #31: 100,000 copies annually in the U.S. and Canada**
+The Beat travelogue still moves roughly 100,000 copies a year across North America.
+
+### **FACT #32: 7,500-copy first printing**
+The 1957 first edition totaled 7,500 copies, making surviving originals prized collectibles today.
+
+---
+
+## 🎨 Cultural Impact Highlights
+
+### **FACT #33: Artists inspired**
+The novel shaped poets, writers, actors, and musicians including Bob Dylan, Van Morrison, Jim Morrison, Jerry Garcia, David Bowie, Hunter S. Thompson, and Matty Healy.
+
+### **FACT #34: Bob Dylan's verdict**
+"It changed my life like it changed everyone else's," Dylan said years later.
+
+### **FACT #35: Ray Manzarek's testimony**
+The Doors' keyboardist wrote, "If Jack Kerouac had never written On the Road, The Doors never would have existed."
+
+### **FACT #36: Curriculum staple**
+The novel became a fixture in American high-school English programs as a touchstone of postwar literature.
+
+---
+
+## 🏛️ The Manuscript as Artifact
+
+### **FACT #37: Record auction**
+On May 22, 2001 the original scroll fetched $2.43 million (about $4.32 million in 2024 dollars), a record for a literary manuscript.
+
+### **FACT #38: Jim Irsay, collector**
+Indianapolis Colts owner Jim Irsay bought the scroll, making it the centerpiece of The Jim Irsay Collection.
+
+### **FACT #39: Previous benchmark**
+The prior record belonged to a 1920 copy of Franz Kafka's *The Trial*, sold for $1.98 million in 1988.
+
+### **FACT #40: Scroll dimensions**
+The manuscript measures 119 feet 8 inches by 9 inches (36.5 meters by 23 centimeters), single-spaced with no margins or paragraph breaks.
+
+---
+
+## 🤔 Rumors and Unverified Stories
+
+### **RUMOR #1: Telex paper**
+Some anecdotes claim Kerouac later used telex paper, but the first scroll was unquestionably Japanese tracing paper.
+
+### **RUMOR #2: No sleep whatsoever**
+Myth says he never slept during the 20-day burst; in reality he stole short naps and meal breaks, though sessions were intense.
+
+### **RUMOR #3: Direct cause of hippie culture**
+Some historians argue the 1960s hippie movement would not exist without *On the Road*, but direct evidence is limited.
+
+---
+
+## 📊 Key Numbers at a Glance
+
+- **Drafting time**: 20–21 days (April 1951)
+- **Scroll length**: 120 feet (37 meters)
+- **Typing speed**: ~100 words per minute
+- **Number of versions**: At least six between 1947 and 1957
+- **Years of rejection**: Six (1951–1957)
+- **Cover price (1957)**: $3.95
+- **First print run**: 7,500 copies
+- **Total sales**: Over 4 million copies
+- **Translations**: 32 languages
+- **Annual sales today**: 110,000–130,000 copies
+- **Manuscript sale price (2001)**: $2.43 million
+- **2024 equivalent**: $4.32 million
+
+---
+
+*Research document prepared for the 37degrees podcast*  
+*Last updated: August 28, 2025*

@@ -1,301 +1,301 @@
-# Ocena bezpieczeństwa treści: "W drodze" (On the Road) - Jack Kerouac
+# Content Safety Assessment: "On the Road" - Jack Kerouac
 
-## Informacje podstawowe
-- **Tytuł**: On the Road / W drodze
-- **Autor**: Jack Kerouac  
-- **Rok wydania**: 1957
-- **Gatunek**: Beat Generation, powieść drogi
-- **Status researchu**: Przeanalizowano 8 dokumentów od agentów specjalistycznych
-- **Data oceny**: 28 sierpnia 2025
-
----
-
-## Executive Summary - Podsumowanie zarządzające
-
-**OGÓLNA KLASYFIKACJA WIEKU**: **16+** (z ostrzeżeniami)  
-**GŁÓWNE ZAGROŻENIA**: Idealizacja substancji psychoaktywnych, toksyczne wzorce relacji, problematyczne przedstawienie kobiet  
-**PLATFORMY WYSOKIEGO RYZYKA**: Facebook/Instagram (nowe wytyczne 2025)  
-**PLATFORMY NISKIEGO RYZYKA**: Spotify, Kick
-
-Po analizie wszystkich materiałów researchu od 8 agentów specjalistycznych oraz aktualnych wytycznych platform społecznościowych, "W drodze" przedstawia unikalny zestaw wyzwań dla twórców treści. Książka zawiera elementy, które mogą być problematyczne na różnych platformach, ale większość treści może być przedstawiona bezpiecznie z odpowiednimi ostrzeżeniami i kontekstem edukacyjnym.
+## Basic Information
+- **Title**: On the Road / W drodze
+- **Author**: Jack Kerouac
+- **Publication Year**: 1957
+- **Genre**: Beat Generation, road novel
+- **Research Status**: Analyzed 8 specialist agent documents
+- **Assessment Date**: 2025-09-17
 
 ---
 
-## Analiza materiałów researchu
+## Executive Summary
 
-### Przeanalizowane dokumenty:
-1. **au-research_culture_impact.md** - Wpływ na kulturę popularną (113 faktów)
-2. **au-research_dark_drama.md** - Mroczne aspekty i kontrowersje (207 punktów)  
-3. **au-research_facts_history.md** - Historia powstania książki (200 faktów)
-4. **au-research_local_context.md** - Polski kontekst kulturowy (127 punktów)
-5. **au-research_reality_wisdom.md** - Przewidywania vs rzeczywistość (309 analiz)
-6. **au-research_symbols_meanings.md** - Analiza symboli i znaczeń (234 interpretacje)
-7. **au-research_writing_innovation.md** - Rewolucja pisarska (238 technik)
-8. **au-research_youth_digital.md** - Połączenia z kulturą cyfrową (187 trendów)
+**OVERALL AGE CLASSIFICATION**: **16+** (with warnings)
+**PRIMARY RISKS**: Idealization of substance abuse, toxic relationship patterns, problematic portrayal of women
+**HIGH-RISK PLATFORMS**: Facebook/Instagram (2025 guidelines unpredictable)
+**LOW-RISK PLATFORMS**: Spotify, Kick
+
+After analyzing all research materials from 8 specialist agents and current 2025 social media platform guidelines, "On the Road" presents a unique set of challenges for content creators. The book contains elements that may be problematic across various platforms, but most content can be presented safely with appropriate warnings and educational context.
 
 ---
 
-## Matrix ryzyka: Problematyczne tematy vs Platformy
+## Research Materials Analyzed
 
-| Temat | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
+### Analyzed Documents:
+1. **au-research_culture_impact.md** - Cultural influence analysis (113 facts)
+2. **au-research_dark_drama.md** - Dark aspects and controversies (207 points)
+3. **au-research_facts_history.md** - Book creation history (200 facts)
+4. **au-research_local_pl_context.md** - Polish cultural context (127 points)
+5. **au-research_reality_wisdom.md** - Predictions vs reality (309 analyses)
+6. **au-research_symbols_meanings.md** - Symbols and meanings analysis (234 interpretations)
+7. **au-research_writing_innovation.md** - Literary revolution (238 techniques)
+8. **au-research_youth_digital.md** - Digital culture connections (187 trends)
+
+---
+
+## Risk Matrix: Problematic Topics vs Platforms
+
+| Topic | Facebook/Instagram | YouTube | TikTok | Spotify | Kick |
 |-------|-------------------|---------|---------|---------|------|
-| **Użycie narkotyków** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Alkoholizm autora** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Toksyczne relacje** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Morderstwo w kręgu Beat** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
-| **Seksizm/mizoginię** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
-| **Marginalizacja kobiet** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
-| **Problemy zdrowia psychicznego** | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Kontrowersje polityczne** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM |
-| **Homoerotyczne podteksty** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Krytyka establishmentu** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Drug Use** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Author's Alcoholism** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Toxic Relationships** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Murder in Beat Circle** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
+| **Sexism/Misogyny** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
+| **Marginalization of Women** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
+| **Mental Health Issues** | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Political Controversies** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM |
+| **Homoerotic Subtexts** | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Anti-Establishment Critique** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 
-**Legenda ryzyka:**  
-🔴 HIGH = Age-restrict/Edit content/Platform risk  
-🟡 MEDIUM = Wymagane content warnings  
-🟢 LOW = Bezpieczne z kontekstem edukacyjnym
-
----
-
-## Szczegółowa analiza zagrożeń
-
-### 🔴 WYSOKIE RYZYKO - Wymaga szczególnej ostrożności
-
-#### 1. Idealizacja substancji psychoaktywnych
-**Źródło**: Dark Drama research pokazuje systematyczne użycie benzedrina  
-**Problem**: Kerouac używał amfetamin do pisania, może gloryfikować narkotyki  
-**Mitygacja**: Podkreślić, że doprowadził to do przedwczesnej śmierci w wieku 47 lat
-
-#### 2. Morderstwo w kręgu Beat Generation (1944)
-**Źródło**: Lucien Carr zabił nożem Davida Kammerer  
-**Problem**: Przemoc w kręgu przyjaciół autora  
-**Mitygacja**: Przedstawić jako tragiczne wydarzenie, nie gloryfikować
-
-#### 3. Toksyczne wzorce męskości - Dean Moriarty
-**Źródło**: Reality Wisdom identyfikuje Dean jako "red flag" w związkach  
-**Problem**: "Love bombing", manipulacja, porzucanie odpowiedzialności  
-**Mitygacja**: Używać jako przykład toksycznych wzorców, nie romantyzować
-
-#### 4. Marginalizacja i objektyfikacja kobiet
-**Źródło**: Symbols research pokazuje systematyczne zepchnięcie kobiet na margines  
-**Problem**: "Książka dla chłopców w bolesny sposób"  
-**Mitygacja**: Krytyczna analiza, nie przemilczanie problemu
-
-#### 5. Kerouac - kontrowersje polityczne
-**Źródło**: Poparcie dla McCarthy'ego, podejrzenia o rasizm i antysemityzm  
-**Problem**: Sprzeczność z progressive values Gen Z  
-**Mitygacja**: Przedstawić jako produkt epoki, nie usprawiedliwiać
-
-### 🟡 ŚREDNIE RYZYKO - Wymaga content warnings
-
-#### 1. Problemy zdrowia psychicznego
-**Źródło**: Diagnoza "dementia praecox" (schizofrenia), depresja, paranoja  
-**Problem**: Może triggers dla osób z problemami psychicznymi  
-**Mitygacja**: Zachęcać do szukania pomocy, nie self-medication
-
-#### 2. Duchowość i poszukiwania religijne
-**Źródło**: Eksploracja buddyzmu, katolicyzmu, mistycyzmu  
-**Problem**: Może być kontrowersyjne dla niektórych grup religijnych  
-**Mitygacja**: Przedstawić jako część rozwoju duchowego
-
-#### 3. Krytyka społeczna i bunt
-**Źródło**: Odrzucenie konformizmu lat 50.  
-**Problem**: Może zachęcać do bezmyślnego buntu  
-**Mitygacja**: Podkreślić potrzebę "rebellion with purpose"
-
-### 🟢 NISKIE RYZYKO - Bezpieczne z kontekstem
-
-#### 1. Innowacje literackie
-**Źródło**: 40 rewolucyjnych technik pisarskich  
-**Wartość**: Edukacyjna analiza rozwoju literatury amerykańskiej
-
-#### 2. Wpływ kulturowy
-**Źródło**: Inspiracje dla Dylana, The Doors, Grateful Dead  
-**Wartość**: Pokazanie wpływu literatury na kulturę popularną
-
-#### 3. Współczesne połączenia
-**Źródło**: Związki z van life, digital nomadism, Gen Z trends  
-**Wartość**: Aktualność klasyka dla młodych odbiorców
+**Risk Legend:**
+🔴 HIGH = Age-restrict/Edit content/Platform risk
+🟡 MEDIUM = Content warnings required
+🟢 LOW = Safe with educational context
 
 ---
 
-## Rekomendacje dla każdej platformy
+## Detailed Risk Analysis
 
-### 📘 Facebook/Instagram - 🔴 WYSOKIE RYZYKO
-**Status**: Najwyższe ryzyko ze względu na nowe wytyczne 2025
+### 🔴 HIGH RISK - Requires Special Caution
 
-#### ⚠️ UNIKAĆ:
-- Dyskusji o narkotykach/alkoholizmie bez wyraźnych health warnings
-- Szczegółów o morderstwie w kręgu Beat
-- Romantyzacji toksycznych relacji Dean-Sal
-- Kontrowersji politycznych Kerouaca
-- Gloryfikacji lifestyle bez konsekwencji
+#### 1. Idealization of Psychoactive Substances
+**Source**: Dark Drama research shows systematic benzedrine use
+**Issue**: Kerouac used amphetamines for writing, may glorify drug use
+**Mitigation**: Emphasize this led to premature death at age 47
 
-#### ✅ BEZPIECZNE PODEJŚCIE:
-- Focus na innowacje literackie i wpływ kulturowy
-- Edukacyjny ton z wyraźnymi disclaimers
-- Podkreślanie negatywnych konsekwencji destrukcyjnych zachowań
-- Współczesne lekcje i życiowe mądrości
-- **WIEK: 18+** z wyraźnymi ostrzeżeniami
+#### 2. Murder in Beat Generation Circle (1944)
+**Source**: Lucien Carr stabbed David Kammerer to death
+**Issue**: Violence within author's friend circle
+**Mitigation**: Present as tragic event, do not glorify
 
-### 🎬 YouTube - 🟡 ŚREDNIE RYZYKO
-**Status**: Bezpieczniejsze z human narration i edukacyjnym framingiem
+#### 3. Toxic Masculinity Patterns - Dean Moriarty
+**Source**: Reality Wisdom identifies Dean as "red flag" in relationships
+**Issue**: "Love bombing", manipulation, abandoning responsibility
+**Mitigation**: Use as example of toxic patterns, don't romanticize
 
-#### ✅ WYMAGANIA 2025:
-- **Human narration** (nie text-to-speech)
-- **Original commentary** dominujący nad quoted material
-- **Educational framing** dla wszystkich controversial topics
-- **Value-added content** z własną analizą
+#### 4. Marginalization and Objectification of Women
+**Source**: Symbols research shows systematic marginalization of women
+**Issue**: "Book for boys in a painful way"
+**Mitigation**: Critical analysis, don't ignore the problem
 
-#### 🎯 CONTENT STRATEGY:
-- Długoforma analiza (10+ minut) z własnym komentarzem
-- "Learning from Beat Generation mistakes" approach
-- Porównania z współczesną kulturą
-- **WIEK: 16+** z content warnings
+#### 5. Kerouac - Political Controversies
+**Source**: Support for McCarthy, suspected racism and antisemitism
+**Issue**: Conflicts with progressive values of Gen Z
+**Mitigation**: Present as product of its era, don't excuse
 
-### 📱 TikTok - 🟡 ŚREDNIE RYZYKO
-**Status**: Wymaga 1+ minuta dla monetizacji, ostrożności z controversial topics
+### 🟡 MEDIUM RISK - Requires Content Warnings
+
+#### 1. Mental Health Issues
+**Source**: "Dementia praecox" diagnosis (schizophrenia), depression, paranoia
+**Issue**: May trigger people with mental health problems
+**Mitigation**: Encourage seeking help, not self-medication
+
+#### 2. Spirituality and Religious Searching
+**Source**: Exploration of Buddhism, Catholicism, mysticism
+**Issue**: May be controversial for some religious groups
+**Mitigation**: Present as part of spiritual development
+
+#### 3. Social Criticism and Rebellion
+**Source**: Rejection of 1950s conformity
+**Issue**: May encourage mindless rebellion
+**Mitigation**: Emphasize need for "rebellion with purpose"
+
+### 🟢 LOW RISK - Safe with Context
+
+#### 1. Literary Innovations
+**Source**: 40 revolutionary writing techniques
+**Value**: Educational analysis of American literature development
+
+#### 2. Cultural Impact
+**Source**: Inspirations for Dylan, The Doors, Grateful Dead
+**Value**: Shows literature's influence on popular culture
+
+#### 3. Contemporary Connections
+**Source**: Links to van life, digital nomadism, Gen Z trends
+**Value**: Classic's relevance for young audiences
+
+---
+
+## Platform-Specific Recommendations
+
+### 📘 Facebook/Instagram - 🔴 HIGH RISK
+**Status**: Highest risk due to unpredictable 2025 guidelines
+
+#### ⚠️ AVOID:
+- Discussions of drugs/alcoholism without clear health warnings
+- Details about Beat circle murder
+- Romanticizing toxic Dean-Sal relationships
+- Kerouac's political controversies
+- Glorifying lifestyle without consequences
+
+#### ✅ SAFE APPROACH:
+- Focus on literary innovations and cultural impact
+- Educational tone with clear disclaimers
+- Emphasize negative consequences of destructive behaviors
+- Contemporary lessons and life wisdom
+- **AGE: 18+** with clear warnings
+
+### 🎬 YouTube - 🟡 MEDIUM RISK
+**Status**: Safer with human narration and educational framing
 
 #### ✅ 2025 REQUIREMENTS:
-- **Minimum 1 minute** dla Creator Rewards Program
-- **Original content only** - no duets o książce
-- **Educational framing** dla sensitive topics
-- **Clear AI labeling** jeśli używasz AI tools
+- **Human narration** (not text-to-speech)
+- **Original commentary** dominant over quoted material
+- **Educational framing** for all controversial topics
+- **Value-added content** with own analysis
+
+#### 🎯 CONTENT STRATEGY:
+- Long-form analysis (10+ minutes) with own commentary
+- "Learning from Beat Generation mistakes" approach
+- Comparisons with contemporary culture
+- **AGE: 16+** with content warnings
+
+### 📱 TikTok - 🟡 MEDIUM RISK
+**Status**: Requires 1+ minute for monetization, caution with controversial topics
+
+#### ✅ 2025 REQUIREMENTS:
+- **Minimum 1 minute** for Creator Rewards Program
+- **Original content only** - no duets about book
+- **Educational framing** for sensitive topics
+- **Clear AI labeling** if using AI tools
 
 #### 🎬 CONTENT IDEAS:
 - "Red flags in literature" series (Dean Moriarty analysis)
 - "Books that predicted our problems" (contemporary relevance)
 - "Literary techniques that changed writing"
-- **WIEK: 16+** z mental health warnings
+- **AGE: 16+** with mental health warnings
 
-### 🎵 Spotify - 🟢 NISKIE RYZYKO
-**Status**: Najbardziej creator-friendly dla edukacyjnych treści
+### 🎵 Spotify - 🟢 LOW RISK
+**Status**: Most creator-friendly for educational content
 
-#### ✅ ZALECENIA:
-- **Video podcast format** dla higher monetization
-- Educational discussions bez copyrighted audiobook clips
-- Original commentary i analysis
-- Proper music licensing dla intro/outro
+#### ✅ RECOMMENDATIONS:
+- **Video podcast format** for higher monetization
+- Educational discussions without copyrighted audiobook clips
+- Original commentary and analysis
+- Proper music licensing for intro/outro
 
 #### 🎯 SERIES CONCEPT:
 - "Beat Generation Deep Dive" - educational podcast series
-- Author interviews z ekspertami
-- Współczesne lekcje z klasyki
-- **WIEK: 13+** (z parent guidance dla tematów dojrzalszych)
+- Author interviews with experts
+- Contemporary lessons from classics
+- **AGE: 13+** (with parent guidance for mature topics)
 
-### 📺 Kick - 🟢 NISKIE RYZYKO  
-**Status**: Najbardziej liberalna platforma, creator-friendly
+### 📺 Kick - 🟢 LOW RISK
+**Status**: Most liberal platform, creator-friendly
 
-#### ✅ PRZEWAGI:
-- **95/5 revenue split** - najlepsze warunki
+#### ✅ ADVANTAGES:
+- **95/5 revenue split** - best terms
 - **Least restrictive policies** for educational content
 - **Interactive streaming** capabilities
 - **Context-based moderation**
 
 #### 🎮 STREAMING IDEAS:
 - Interactive reading sessions
-- Real-time book discussions z audience
-- "Reading challenges" z community
-- **WIEK: 13+** (z ostrożnością dla mature topics)
+- Real-time book discussions with audience
+- "Reading challenges" with community
+- **AGE: 13+** (with caution for mature topics)
 
 ---
 
-## Content Warnings dla słuchaczy
+## Content Warnings for Listeners
 
-### 🚨 WYMAGANE OSTRZEŻENIA:
+### 🚨 REQUIRED WARNINGS:
 
 #### Mental Health Warnings:
-- "Ten odcinek omawia problemy zdrowia psychicznego, uzależnienie i samobójcze myśli"
-- "Jeśli zmagasz się z podobnymi problemami, skontaktuj się z profesjonalistą"
-- "Numer telefonu zaufania: 116 123"
+- "This episode discusses mental health issues, addiction and suicidal thoughts"
+- "If you're struggling with similar problems, contact a professional"
+- "Crisis helpline: 988 (US) or your local emergency services"
 
 #### Substance Use Warnings:
-- "Omawiamy użycie narkotyków w kontekście historycznym - nie promujemy ani nie zachęcamy"
-- "Kerouac zmarł w wieku 47 lat z powodu uzależnienia od alkoholu"
-- "Szukaj pomocy, jeśli zmagasz się z uzależnieniem"
+- "We discuss drug use in historical context - we do not promote or encourage it"
+- "Kerouac died at age 47 from alcohol addiction"
+- "Seek help if you're struggling with addiction"
 
 #### Relationship Warnings:
-- "Omawiane relacje zawierają toksyczne wzorce - używamy jako przykład czego unikać"
-- "Dean Moriarty to przykład manipulacyjnej osobowości"
-- "W zdrowych związkach adventure i responsibility mogą współistnieć"
+- "Discussed relationships contain toxic patterns - we use as examples of what to avoid"
+- "Dean Moriarty is an example of manipulative personality"
+- "In healthy relationships adventure and responsibility can coexist"
 
 #### Violence Warnings:
-- "Odcinek zawiera omówienie morderstwa w kręgu przyjaciół autora"
-- "Przemoc nigdy nie jest rozwiązaniem konfliktów"
+- "Episode contains discussion of murder in author's friend circle"
+- "Violence is never a solution to conflicts"
 
 #### Gender & Representation Warnings:
-- "Książka odzwierciedla seksizm lat 50. - analizujemy to krytycznie"
-- "Kobiety są marginalizowane w narracji - to produkt epoki, nie akceptowalne dziś"
+- "Book reflects 1950s sexism - we analyze this critically"
+- "Women are marginalized in narrative - this is a product of its era, not acceptable today"
 
 ---
 
-## Obszary wymagające szczególnej ostrożności w audio
+## Areas Requiring Special Audio Caution
 
 ### 🎙️ NARRATION GUIDELINES:
 
-#### 1. Ton i kontekst
-- **Analityczny**, nie gloryfikujący
-- **Edukacyjny** approach do controversial topics  
-- **Wyraźne rozdzielenie** opisu od aprobaty
-- **Contemporary perspective** na problematyczne elementy
+#### 1. Tone and Context
+- **Analytical**, not glorifying
+- **Educational** approach to controversial topics
+- **Clear separation** between description and approval
+- **Contemporary perspective** on problematic elements
 
-#### 2. Language choices
-- **Unikaj romantyzacji**: zamiast "przygoda" → "problematyczne zachowania"
-- **Modern terminology**: używaj aktualnych terminów dla mental health
-- **Clear disclaimers**: przed każdym problematycznym tematem
-- **Educational framing**: "co to uczył nas o..." nie "jak fajnie było"
+#### 2. Language Choices
+- **Avoid romanticization**: instead of "adventure" → "problematic behaviors"
+- **Modern terminology**: use current terms for mental health
+- **Clear disclaimers**: before each problematic topic
+- **Educational framing**: "what this taught us about..." not "how cool it was"
 
-#### 3. Pacing i struktura
-- **Ostrzeżenia na początku** każdego odcinka
-- **Regular check-ins** z audience mental health
-- **Balance negative z positive** - nie tylko krytyka
-- **Call-to-action** dla professional help when needed
+#### 3. Pacing and Structure
+- **Warnings at beginning** of each episode
+- **Regular check-ins** with audience mental health
+- **Balance negative with positive** - not only criticism
+- **Call-to-action** for professional help when needed
 
 ---
 
-## Education-friendly sposoby omówienia trudnych tematów
+## Education-Friendly Ways to Discuss Difficult Topics
 
 ### 📚 PEDAGOGICAL APPROACHES:
 
 #### 1. Historical Context Method
-**Przykład**: "W latach 50. narkotyki jak benzedrina były dostępne bez recepty. Dziś wiemy o szkodliwości uzależnienia i mamy lepsze systemy wsparcia dla osób potrzebujących pomocy."
+**Example**: "In the 1950s drugs like benzedrine were available without prescription. Today we know about addiction's harms and have better support systems for people needing help."
 
-#### 2. Critical Analysis Framework  
-**Przykład**: "Dean Moriarty wydaje się charyzmatyczny, ale psychologowie dziś rozpoznaliby to jako 'love bombing' - taktykę manipulacyjną. Zobaczmy konkretne przykłady..."
+#### 2. Critical Analysis Framework
+**Example**: "Dean Moriarty seems charismatic, but psychologists today would recognize this as 'love bombing' - a manipulative tactic. Let's see specific examples..."
 
 #### 3. Contemporary Relevance Bridge
-**Przykład**: "Beat Generation szukał autentyczności przez spontaniczność - podobnie jak dzisiejszy trend van life. Ale w przeciwieństwie do Beats, współcześni nomadzi doceniają balance między przygodą a odpowiedzialnością."
+**Example**: "Beat Generation sought authenticity through spontaneity - similar to today's van life trend. But unlike Beats, contemporary nomads appreciate balance between adventure and responsibility."
 
 #### 4. Lessons Learned Format
-**Przykład**: "Kerouac pokazał nam, że można odrzucić mainstream success, ale jego życie też pokazuje znaczenie mental health support i healthy coping mechanisms."
+**Example**: "Kerouac showed us we can reject mainstream success, but his life also shows the importance of mental health support and healthy coping mechanisms."
 
 #### 5. Comparative Analysis Method
-**Przykład**: "Sal Paradise fascynował się Deanem podobnie jak fany fascynują się toxic influencerami. Oba przypadki uczą nas rozpoznawać charismatic manipulation."
+**Example**: "Sal Paradise was fascinated by Dean similar to how fans are fascinated by toxic influencers. Both cases teach us to recognize charismatic manipulation."
 
 ---
 
-## Compliance Checklist - Lista kontrolna zgodności
+## Compliance Checklist
 
 ### ✅ PRE-PRODUCTION CHECKLIST:
 
 #### Content Review:
 - [ ] **Reviewed all 8 research documents** for controversial material
 - [ ] **Identified all high-risk topics** per platform guidelines
-- [ ] **Prepared content warnings** for każdy problematyczny temat
-- [ ] **Developed educational framing** dla sensitive topics
+- [ ] **Prepared content warnings** for each problematic topic
+- [ ] **Developed educational framing** for sensitive topics
 - [ ] **Created contemporary relevance** connections
 
 #### Platform Compliance:
 - [ ] **Facebook/Instagram**: Age-restricted (18+), strong disclaimers
 - [ ] **YouTube**: Human narration, educational tone, original commentary
 - [ ] **TikTok**: 1+ minute format, no duets, clear AI labeling
-- [ ] **Spotify**: No copyrighted clips, proper music licensing  
+- [ ] **Spotify**: No copyrighted clips, proper music licensing
 - [ ] **Kick**: Community-focused, interactive elements
 
 #### Mental Health Safety:
 - [ ] **Crisis helpline numbers** included
-- [ ] **Professional help encouragement** dla relevant topics
-- [ ] **No glorification** of destructive behaviors  
+- [ ] **Professional help encouragement** for relevant topics
+- [ ] **No glorification** of destructive behaviors
 - [ ] **Regular mental health check-ins** with audience
 - [ ] **Balanced perspective** - not only criticism
 
@@ -325,57 +325,57 @@ Po analizie wszystkich materiałów researchu od 8 agentów specjalistycznych or
 - [ ] **Educational value** clear throughout
 
 #### Community Management:
-- [ ] **Response plan** dla sensitive comments
-- [ ] **Mental health resources** w community posts
+- [ ] **Response plan** for sensitive comments
+- [ ] **Mental health resources** in community posts
 - [ ] **Engagement strategy** that promotes healthy discussion
-- [ ] **Monitoring plan** dla audience reactions
+- [ ] **Monitoring plan** for audience reactions
 
 ---
 
-## Podsumowanie i rekomendacje finalne
+## Summary and Final Recommendations
 
 ### 🎯 KEY TAKEAWAYS:
 
-1. **"W drodze" może być prezentowane bezpiecznie** na wszystkich platformach z odpowiednimi ostrzeżeniami i kontekstem edukacyjnym
+1. **"On the Road" can be presented safely** on all platforms with appropriate warnings and educational context
 
-2. **Facebook/Instagram stanowią najwyższe ryzyko** ze względu na nowe, nieprzewidywalne wytyczne 2025
+2. **Facebook/Instagram pose highest risk** due to new, unpredictable 2025 guidelines
 
-3. **Spotify i Kick to najbezpieczniejsze opcje** dla comprehensive educational content
+3. **Spotify and Kick are safest options** for comprehensive educational content
 
-4. **Kluczowe to edukacyjny framing** - analiza, nie gloryfikacja problematycznych elementów
+4. **Educational framing is key** - analysis, not glorification of problematic elements
 
-5. **Mental health safety absolutnie krytyczne** - ostrzeżenia, numery pomocy, zachęcanie do professional help
+5. **Mental health safety absolutely critical** - warnings, help numbers, encouraging professional help
 
 ### 🚀 FINAL RECOMMENDATIONS:
 
-#### Dla Facebook/Instagram:
+#### For Facebook/Instagram:
 - **Age-restrict to 18+**
-- Focus na positive lessons i cultural impact
-- Mocne disclaimers dla każdego controversial topic
-- Unikaj szczegółów o narkotykach i przemocy
+- Focus on positive lessons and cultural impact
+- Strong disclaimers for each controversial topic
+- Avoid details about drugs and violence
 
-#### Dla YouTube:
-- **16+ z warnings** 
-- Human narrator z educational expertise
-- Long-form analysis z historical context
+#### For YouTube:
+- **16+ with warnings**
+- Human narrator with educational expertise
+- Long-form analysis with historical context
 - Contemporary relevance connections
 
-#### Dla TikTok:
-- **16+ z mental health warnings**
+#### For TikTok:
+- **16+ with mental health warnings**
 - 1+ minute educational format
 - "Learning from literature" approach
-- Interactive elements z audience
+- Interactive elements with audience
 
-#### Dla Spotify:
-- **13+ z parental guidance**
-- Video podcast dla better monetization  
-- Series approach z expert guests
+#### For Spotify:
+- **13+ with parental guidance**
+- Video podcast for better monetization
+- Series approach with expert guests
 - Comprehensive educational treatment
 
-#### Dla Kick:
-- **13+ z ostrożnością**
+#### For Kick:
+- **13+ with caution**
 - Interactive reading/discussion sessions
 - Community-building around literature
 - Real-time Q&A about books
 
-**BOTTOM LINE**: "W drodze" to fascinujący case study dla content creators - klasyk o ogromnej wartości kulturowej, ale wymagający mądrego, odpowiedzialnego podejścia do presentation. Z proper warnings, educational framing i contemporary context może być powerful educational tool dla all age groups appropriate do specific platforms.
+**BOTTOM LINE**: "On the Road" is a fascinating case study for content creators - a classic with enormous cultural value, but requiring wise, responsible approach to presentation. With proper warnings, educational framing and contemporary context it can be a powerful educational tool for all age groups appropriate to specific platforms.

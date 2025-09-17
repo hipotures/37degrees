@@ -1,207 +1,199 @@
-# Dark Drama Research: "On the Road" - Jack Kerouac
+# Dark Drama Research: "On the Road" – Jack Kerouac
 
-## Wprowadzenie
+## Introduction
 
-Jack Kerouac i jego kultowa powieść "On the Road" (1957) to jedne z najbardziej kontrowersyjnych dzieł literatury amerykańskiej. Pod błyszczącą fasadą bohemy i wolności kryją się mroczne sekrety, skandale i dramatyczne prawdy o autorze oraz jego kręgu. To jest ciemna strona Beat Generation.
+Jack Kerouac and his 1957 novel *On the Road* remain among the most controversial works in American literature. Beneath the glittering façade of bohemia and freedom lie murders, scandals, addictions, and painful truths about the author and his circle. This is the shadow side of the Beat Generation.
 
-## 1. MORDERSTWO W KRĘGU BEAT GENERATION
+## 1. Murder within the Beat circle
 
-**FAKT**: W sierpniu 1944 roku Lucien Carr, bliski przyjaciel Kerouaca, zabił nożem Davida Kammerer i ukrył jego ciało w rzece Hudson, obciążając je kamieniami.
+**FACT**: In August 1944 Kerouac's close friend Lucien Carr stabbed David Kammerer to death and dumped the weighted body into the Hudson River.
 
-**FAKT**: Kammerer miał obsesję na punkcie Carra i śledził go regularnie. William Burroughs przyłapał go nawet na próbie powieszenia kota należącego do Kerouaca.
+**FACT**: Kammerer was obsessed with Carr and stalked him constantly. William Burroughs once caught him trying to hang Kerouac's cat.
 
-**FAKT**: Kerouac napisał o tym wydarzeniu w powieści "The Vanity of Duluoz" i współpracował z Burroughsem przy książce "And the Hippos Were Boiled in Their Tanks".
+**FACT**: Kerouac recounted the event in *The Vanity of Duluoz* and co-wrote *And the Hippos Were Boiled in Their Tanks* with Burroughs about the killing.
 
-**ZARZUT**: Morderstwo Kammerer rzuca cień na całą Beat Generation - czy była to grupa artystów, czy krąg niebezpiecznych socjopatów?
+**ACCUSATION**: The Kammerer murder casts a shadow over the Beat Generation—were they artists or dangerous sociopaths?
 
-## 2. SKANDAL OSOBISTY JACKA KEROUACA
+## 2. Jack Kerouac's personal scandal
 
-### Alkoholizm i śmierć
+### Alcoholism and death
 
-**FAKT**: Kerouac zmarł w wieku 47 lat na krwotok wewnętrzny spowodowany marskością wątroby - efekt wieloletniego nadużywania alkoholu.
+**FACT**: Kerouac died at 47 from an internal hemorrhage caused by cirrhosis after years of heavy drinking.
 
-**FAKT**: W latach 60. życie Kerouaca sprowadzało się do rutyny: ciężkie picie do nieprzytomności i odosobnienie.
+**FACT**: By the 1960s his days revolved around black-out drinking and isolation.
 
-**FAKT**: Joyce Johnson, jego dziewczyna, mówiła: "W sytuacjach publicznych musiał pić" z powodu dyskomfortu związanego ze sławą.
+**FACT**: Girlfriend Joyce Johnson said, "Whenever he was in public he had to drink" because he felt so uneasy about fame.
 
-### Problemy zdrowia psychicznego
+### Mental-health struggles
 
-**FAKT**: W 1943 roku podczas służby w marynarce wojskowej Kerouac trafił do szpitala psychiatrycznego w Bethesda z powodu "skrajnego braku dyscypliny".
+**FACT**: In 1943, while serving in the Merchant Marine, Kerouac was confined to the Bethesda Naval Hospital for "severe antisocial behavior."
 
-**FAKT**: Zdiagnozowano u niego "silne tendencje schizoidalne, które zbliżyły się do, ale jeszcze nie osiągnęły poziomu psychozy".
+**FACT**: Doctors observed "strong schizoid trends that approached but had not yet reached the state of psychosis."
 
-**FAKT**: Otrzymał diagnozę "dementia praecox" (stary termin na schizofrenię) i został zwolniony z "obojętnym charakterem".
+**FACT**: He received a "dementia praecox" diagnosis (an outdated term for schizophrenia) and was discharged for "indifferent character."
 
-**FAKT**: Przez całe dorosłe życie zmagał się z depresją, wahaniami nastroju i atakami paranoi.
+**FACT**: Throughout adulthood he battled depression, mood swings, and paranoid episodes.
 
-### Toksyczny związek z matką
+### Toxic attachment to his mother
 
-**FAKT**: Gabrielle, matka Kerouaca, była najważniejszą postacią w jego życiu - mieszkali razem przez większość jego późniejszych lat.
+**FACT**: Kerouac considered his mother Gabrielle the central figure in his life; they lived together through most of his later years.
 
-**ZARZUT**: Ta intensywna więź stworzyła duszną atmosferę, izolującą Kerouaca od przyjaciół i współpracowników.
+**ACCUSATION**: The intense bond created a suffocating environment that isolated Kerouac from friends and collaborators.
 
-## 3. NEAL CASSADY - PRAWDZIWY DEAN MORIARTY
+## 3. Neal Cassady – the real Dean Moriarty
 
-### Kryminalna przeszłość
+### Criminal past
 
-**FAKT**: Neal Cassady, pierwowzór Dean Moriarty, spędził większość młodości na ulicach lub w poprawczaku.
+**FACT**: Neal Cassady, the model for Dean Moriarty, spent his youth on the streets or in reform school.
 
-**FAKT**: Kradł samochody dla zabawy i miał liczne konflikty z prawem.
+**FACT**: He stole cars for kicks and had a long rap sheet.
 
-**FAKT**: W październiku 1945 roku, po wyjściu z więzienia, 19-letni Cassady poślubił 15-letnią LuAnne Henderson.
+**FACT**: In October 1945, shortly after leaving jail, 19-year-old Cassady married 15-year-old LuAnne Henderson.
 
-**ZARZUT**: Czy małżeństwo z niepełnoletnią nie było formą wykorzystywania nieletnich?
+**ACCUSATION**: The marriage to a minor raised questions about exploitation.
 
-### Seksualny drapieżnik
+### Sexual predator persona
 
-**FAKT**: Cassady był opisywany jako osoba o "ogromnym apetycie seksualnym, który próbował zaspokoić przy każdej okazji".
+**FACT**: Cassady was described as having "an enormous sexual appetite he tried to satisfy at every opportunity."
 
-**FAKT**: Carolyn Cassady na swojej stronie internetowej opisuje go jako "kobieciarza, bigamistę i oddanego mężczyznę rodzinnego jednocześnie".
+**FACT**: Carolyn Cassady called him "a womanizer, a bigamist, and a devoted family man at once."
 
-**ZARZUT**: Cassady manipulował kobietami i prowadził wielorakie związki, często oszukując partnerki.
+**ACCUSATION**: Cassady manipulated women, maintained multiple relationships, and frequently deceived partners.
 
-## 4. POLITYCZNE KONTROWERSJE
+## 4. Political controversies
 
-### Konserwatyzm i poparcie dla McCarthy'ego
+### Conservatism and McCarthyism
 
-**FAKT**: Kerouac "oglądał przesłuchania senatora McCarthy'ego z 1954 roku, paląc marihuanę i kibicując antykomunistycznemu krzyżowcowi".
+**FACT**: Kerouac "watched Senator McCarthy's 1954 hearings while smoking marijuana and cheering on the anti-communist crusader."
 
-**FAKT**: Jak William F. Buckley, "Kerouac popierał zarówno senatora Josepha McCarthy'ego, jak i wojnę w Wietnamie".
+**FACT**: Like William F. Buckley, Kerouac supported Senator Joseph McCarthy and the Vietnam War.
 
-**FAKT**: Powiedział Buckley'emu Jr.: "Mój ojciec, moja matka, moja siostra i ja zawsze głosowaliśmy na Republikanów, zawsze".
+**FACT**: He told William F. Buckley Jr., "My father, mother, sister, and I always voted Republican, always."
 
-### Rasizm i antysemityzm
+### Racism and antisemitism
 
-**ZARZUT**: Badacze wskazują na "jego antysemityzm, rasizm lub mizoginię", chociaż te postawy nie kolorowały znacząco jego pisarstwa.
+**ACCUSATION**: Scholars point to instances of "anti-Semitism, racism, or misogyny," even if those attitudes rarely colored his prose.
 
-**FAKT**: Pod koniec życia Kerouac wierzył, że ruch kontrkultury lat 60. został przejęty przez żydowskie siły i komunistyczny spisek.
+**FACT**: Near the end of his life Kerouac believed the 1960s counterculture had been taken over by Jewish cabals and communist plots.
 
-## 5. CENZURA I ZAKAZY
+## 5. Censorship and bans
 
-### Powody zakazów
+### Reasons for challenges
 
-**FAKT**: "On the Road" było wyzwaniem i zakazywane w klasach szkolnych, obok takich klasyków jak "Wielki Gatsby" czy "Buszujący w zbożu".
+**FACT**: *On the Road* has been challenged and banned in school classrooms alongside classics like *The Great Gatsby* and *Catcher in the Rye*.
 
-**FAKT**: Według University of Connecticut, "On the Road" zajęło 31. miejsce na liście "Klasyków Zakazanych lub Kwestionowanych".
+**FACT**: The University of Connecticut listed it 31st on its roster of "Banned or Challenged Classics."
 
-**FAKT**: Powieść była krytykowana za prezentowanie "niewykształconych" postaci i "szaleńczej marginesu" przestępców.
+**FACT**: Critics claimed it glorified "uneducated" characters and "the outlaw fringe."
 
-### Lęk przed cenzurą
+### Fear of suppression
 
-**FAKT**: Kerouac był przerażony tuż przed publikacją "On the Road", ponieważ "Howl" Allena Ginsberga został zakazany.
+**FACT**: Kerouac panicked before publication because Allen Ginsberg's *Howl* had just been seized by censors.
 
-**FAKT**: Obawiał się, że jego książka nigdy nie zostanie opublikowana, bo zostanie zakazana jak dzieło przyjaciela.
+**FACT**: He worried his book would be suppressed the same way.
 
-## 6. NADZÓR RZĄDOWY I TEORIE SPISKOWE
+## 6. Government surveillance and conspiracy theories
 
-### FBI i inwigilacja
+### FBI scrutiny
 
-**FAKT**: Allen Ginsberg miał 89 stron dokumentów śledczych FBI ujawnionych w 2015 roku, potwierdzających rządowy nadzór nad postaciami Beat Generation.
+**FACT**: Allen Ginsberg's declassified FBI file runs 89 pages, confirming government surveillance of Beat figures.
 
-**ZARZUT**: Próby uzyskania akt FBI Kerouaca przez Freedom of Information Act były bezskuteczne, co może oznaczać, że są sklasyfikowane lub zgubione.
+**ACCUSATION**: FOIA requests for Kerouac's FBI files failed, suggesting they remain classified or missing.
 
-### Kerouac i spiski
+### Kerouac's own conspiracies
 
-**FAKT**: Pod koniec życia Kerouac wierzył, że kontrkultura lat 60. została przejęta przez "złowrogie siły".
+**FACT**: Late in life he insisted the 1960s counterculture was hijacked by "sinister forces."
 
-**FAKT**: Obawiał się, że za burzliwymi wydarzeniami tej ery stoi komunistyczny spisek.
+**FACT**: He feared a communist conspiracy powered the era's unrest.
 
-**ZARZUT**: Niektórzy argumentują, że pokolenie beatników było faktycznie funkcją CIA, choć Ginsberg publicznie krytykował CIA.
+**ACCUSATION**: Some fringe theorists claimed the Beats were CIA assets, even though Ginsberg publicly denounced the agency.
 
-## 7. OKULTYZM I EZOTERYKA
+## 7. Occultism and esoterica
 
-### Duchowe poszukiwania
+### Spiritual quests
 
-**FAKT**: Rękopis Kerouaca odzwierciedla jego naukowe zainteresowanie tłumionymi formami ezoterycznymi, takimi jak taoizm, tantryzm i buddyzm mahajana.
+**FACT**: Kerouac's notebooks reveal serious study of suppressed esoteric traditions such as Taoism, Tantra, and Mahayana Buddhism.
 
-**FAKT**: Między 1954 a 1956 rokiem Kerouac odkrył "Buddyjską Biblię" Dwighta Goddarda i napisał "Some of the Dharma".
+**FACT**: Between 1954 and 1956 he discovered Dwight Goddard's *The Buddhist Bible* and wrote *Some of the Dharma*.
 
-**FAKT**: W "Dharma Bums" pojawia się Alan Watts (jako "Arthur Whane"), opisywany jako "międzynarodowy okultysta".
+**FACT**: *The Dharma Bums* includes Alan Watts (as "Arthur Whane"), identified as an "international occultist."
 
-### Symbolizm duchowy
+### Symbolic spirituality
 
-**ZARZUT**: Powieść zawiera odniesienia do "świętego oszusta [Dean] z błyszczącym umysłem i smutnego poetyckiego oszusta z mrocznym umysłem, którym jest Carlo Marx", sugerując dualistyczny symbolizm duchowy.
+**ACCUSATION**: The novel juxtaposes "the holy trickster [Dean] with the shining mind and the sad poetic trickster with the dark mind, Carlo Marx," implying dualist spiritual symbolism.
 
-**FAKT**: Dean Moriarty wymienia swój zegarek na kryształy od meksykańskiej dziewczyny, symbolizując porzucenie "czasu zegarowego" na rzecz duchowej wolności.
+**FACT**: Dean Moriarty trades his watch for crystals from a Mexican girl, symbolically abandoning "clock time" for mystical freedom.
 
-## 8. PRZEPOWIEDNIE I PROFETYCZNE ELEMENTY
+## 8. Prophecy and foresight
 
-### Rewolucja plecakowa
+### Backpack revolution
 
-**FAKT**: W "Dharma Bums" Kerouac opisuje "wielką rewolucję plecakową" milionów młodych Amerykanów stających się "Dharma Bums odmawiającymi podporządkowania się ogólnemu żądaniu konsumpcji".
+**FACT**: In *The Dharma Bums* Kerouac predicted a "rucksack revolution" of young Americans refusing consumer conformity.
 
-**FAKT**: To było "dokładną przepowiednią" tego, co miało nadejść w latach 60.
+**FACT**: The vision perfectly anticipated the 1960s counterculture.
 
-### Co się sprawdziło
+### Prophecies fulfilled
 
-**FAKT**: Kerouac przewidział powstanie kontrkultury i ruchu hipisowskiego.
+**FACT**: He foresaw the rise of hippie communities.
 
-**FAKT**: Jego wizja młodych ludzi porzucających materializm na rzecz duchowych poszukiwań stała się rzeczywistością.
+**FACT**: His vision of youth abandoning materialism for spiritual quests came true.
 
-## 9. PRZEMYSŁ WYDAWNICZY I DRAMATY
+## 9. Publishing industry drama
 
-### Odrzucenia i walki
+### Rejections and struggles
 
-**FAKT**: Viking początkowo odrzucił "On the Road", a książka trafiła do EP Dutton, gdzie również leżała odłogiem.
+**FACT**: Viking initially rejected *On the Road*; the manuscript languished at E.P. Dutton as well.
 
-**FAKT**: Kerouac narzekał w maju 1954 roku, że wydawcy "siedzą na jego dziełach nieprzeczytanych i kurzących się".
+**FACT**: In May 1954 Kerouac complained that publishers "sit on my stuff unread and gathering dust."
 
-### Mit trzech tygodni
+### The three-week myth
 
-**FAKT**: Historia o napisaniu książki w trzy tygodnie to "rodzaj mitu stworzonego przez siebie" - szwagier Kerouaca mówi, że Jack powinien był powiedzieć: "Przepisałem to w trzy tygodnie".
+**FACT**: The famous story that the book was written in three weeks is "a kind of self-made legend"—Kerouac's brother-in-law said he should have admitted, "I retyped it in three weeks."
 
-**FAKT**: Kerouac kultywował mit spontanicznej prozy, ale był "najwyższym rzemieślnikiem, który intensywnie przepracowywał 'On the Road' między 1947 a 1957 rokiem".
+**FACT**: Kerouac cultivated the myth of spontaneous prose, yet he meticulously reworked the book between 1947 and 1957.
 
-## 10. PRAWNE KONTROWERSJE
+## 10. Legal controversies
 
-### Route 66 i plagiat
+### *Route 66* plagiarism claim
 
-**FAKT**: Kerouac czuł się "wyraźnie okradziony" przez twórcę "Route 66" Stirlinga Silliphanta i chciał pozwać go, CBS, Screen Gems i sponsora Chevrolet.
+**FACT**: Kerouac felt "plainly robbed" by *Route 66* creator Stirling Silliphant and wanted to sue him, CBS, Screen Gems, and sponsor Chevrolet.
 
-**ZARZUT**: Mimo silnych podstaw prawnych, Kerouac został "jakoś odwodzony od kontynuowania tego, co wyglądało na bardzo potentną sprawę".
+**ACCUSATION**: Despite strong legal grounds, Kerouac was somehow dissuaded from pursuing what appeared to be a potent case.
 
-## 11. MROCZNE INTERPRETACJE KSIĄŻKI
+## 11. Dark interpretations of the novel
 
-### Sisyfowy charakter
+### Sisyphean cycle
 
-**ZARZUT**: Historia nabiera "sisyfowego charakteru", gdy postacie wciąż wędrują po kraju w kółko, stale goniąc kolejne ekstatyczne objawienie w nadziei, że gdzieś znajdą sens.
+**ACCUSATION**: The narrative takes on a "Sisyphean quality" as characters loop endlessly across the country chasing the next ecstatic revelation.
 
-**ZARZUT**: Im bardziej szukają oświecenia, tym bardziej się od niego oddalają.
+**ACCUSATION**: The harder they seek enlightenment, the further it seems to recede.
 
-### Problematyczne treści
+### Problematic content
 
-**FAKT**: Książka zawiera "seksizm, rasizm i homofobię wyrażane w całej powieści".
+**FACT**: The book contains "sexism, racism, and homophobia expressed throughout the novel."
 
-**FAKT**: To "książka dla chłopców" w bolesny sposób, ponieważ kobiety zawsze wydają się peryferyjne wobec mężczyzn.
+**FACT**: Critics call it "a book for boys" because women remain peripheral.
 
-**ZARZUT**: Dzieło "niebezpiecznie zbliża się do szaleństwa i żalu".
+**ACCUSATION**: The story "skates dangerously close to madness and regret."
 
-## 12. OSTATNIE LATA I UPADEK
+## 12. Final years and collapse
 
-### Izolacja i alienacja
+### Isolation and alienation
 
-**FAKT**: Kerouac stał się outsiderem w ruchu, który pomógł zdefiniować - Beaci, niegdyś zgrany krąg przyjaciół, byli teraz podzieleni.
+**FACT**: Kerouac became an outsider to the movement he helped define; the once-tight Beat circle fractured.
 
-**FAKT**: Jego własne konserwatywne poglądy kłóciły się z wyłaniającą się kontrkulturą lat 60.
+**FACT**: His conservative politics clashed with the emerging counterculture.
 
-**FAKT**: W początkach lat 60. reputacja Kerouaca jako pisarza zaczęła słabnąć i był coraz częściej odrzucany przez literacką elitę.
+**FACT**: By the early 1960s his literary reputation waned and literary elites increasingly dismissed him.
 
-### Tragiczny koniec
+### Tragic ending
 
-**FAKT**: 21 października 1969 roku Kerouac zmarł w wieku 47 lat na krwotok wewnętrzny spowodowany marskością wątroby.
+**FACT**: On October 21, 1969 Kerouac died from internal bleeding caused by cirrhosis.
 
-**FAKT**: W swoich ostatnich latach był opisywany jako "alkoholowy odludek".
+**FACT**: Friends described him in later years as "a drunken recluse."
 
 ---
 
-## Podsumowanie: Mroczna prawda o ikonie
+## Summary: The dark truth of an icon
 
-Jack Kerouac i "On the Road" to nie tylko symbol wolności i buntu - to także opowieść o tragedii, uzależnieniu, przemocy i moralnej dwuznaczności. Pod powierzchnią bohemy Beat Generation kryły się morderstwa, skandale seksualne, nadzór rządowy i osobiste dramaty, które ostatecznie zniszczyły jej głównych bohaterów.
-
-**PLOTKA**: Czy Beat Generation była eksperymentem CIA mającym na celu kontrolę kontrkultury?
-
-**FAKT**: Kerouac zmarł jako konserwatywny katolik, który nienawidził ruchu hipisowskiego, który pomógł zainspirować.
-
-**ZARZUT**: "On the Road" może być nie tyle celebracją wolności, co dokumentem autodestrukcyjnego nihilizmu zamaskowanego jako duchowe poszukiwanie.
-
-To jest prawdziwa, mroczna historia za jedną z najważniejszych książek amerykańskiej literatury.
+Jack Kerouac and *On the Road* symbolize freedom and rebellion, but they are also stories of tragedy, addiction, violence, and moral ambiguity. Beneath the Beat Generation's bohemian glamour lurked murder, sexual scandals, government surveillance, and personal meltdowns that ultimately consumed its main players.

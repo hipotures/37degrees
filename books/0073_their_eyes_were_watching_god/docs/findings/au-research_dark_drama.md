@@ -1,88 +1,88 @@
-# "Their Eyes Were Watching God" - Mroczne Sekrety i Kontrowersje
+# "Their Eyes Were Watching God" - Dark Secrets and Controversies
 
-## Wstęp
-"Their Eyes Were Watching God" Zory Neale Hurston (1937) to książka otoczona skandalami, kontrowersyjnymi interpretacjami i mroczną biografią autorki. Oto 47 najbardziej szokujących faktów i teorii.
+## Introduction
+"Their Eyes Were Watching God" by Zora Neale Hurston (1937) is a book surrounded by scandals, controversial interpretations, and the dark biography of its author. Here are 47 of the most shocking facts and theories.
 
-## Autorka: Zora Neale Hurston - Życie Pełne Skandali
+## The Author: Zora Neale Hurston - A Life Full of Scandals
 
-### Fałszywe Oskarżenia o Molestowanie (1948)
-1. **FAKT**: Hurston została aresztowana i osadzona w więzieniu pod zarzutem molestowania nieletnich
-2. **FAKT**: Oskarżenia okazały się fałszywe - główny oskarżyciel Billy Allen cierpiał na problemy psychiczne
-3. **FAKT**: Mimo dowodów niewinności, sędzia zdecydował o kontynuowaniu procesu
-4. **FAKT**: Skandal wyciekł do prasy czarnoskórej, która przedstawiła sprawę w najbardziej sensacyjny sposób
-5. **FAKT**: Hurston była załamana i myślała o samobójstwie, pisząc: "Żadne uniewinnienie nie przekona niektórych, że jestem niewinna"
-6. **FAKT**: Sprawa została umorzona w 1949 roku, ale zniszczyła reputację Hurston
+### False Molestation Accusations (1948)
+1. **FACT**: Hurston was arrested and jailed on charges of molesting minors
+2. **FACT**: The accusations proved false - the main accuser Billy Allen suffered from mental health issues
+3. **FACT**: Despite evidence of innocence, the judge decided to continue the proceedings
+4. **FACT**: The scandal leaked to the Black press, which presented the case in the most sensational way
+5. **FACT**: Hurston was devastated and contemplated suicide, writing: "No acquittal will convince some that I am innocent"
+6. **FACT**: The case was dismissed in 1949, but it destroyed Hurston's reputation
 
-### Finansowa Ruina i Upokorzenie
-7. **FAKT**: Hurston zmarła w ubóstwie w domu opieki w 1960 roku
-8. **FAKT**: Została pochowana w nienaznanym grobie na segregowanym cmentarzu
-9. **FAKT**: W latach 50. pracowała jako sprzątaczka w hotelu na Florydzie
-10. **FAKT**: Została wyrzucona z mieszkania za nieopłacenie czynszu w 1956 roku
-11. **FAKT**: Zwolniono ją z pracy bibliotekarki na bazie wojskowej po 11 miesiącach
+### Financial Ruin and Humiliation
+7. **FACT**: Hurston died in poverty in a nursing home in 1960
+8. **FACT**: She was buried in an unmarked grave in a segregated cemetery
+9. **FACT**: In the 1950s, she worked as a hotel maid in Florida
+10. **FACT**: She was evicted from her apartment for unpaid rent in 1956
+11. **FACT**: She was fired from her job as a librarian at a military base after 11 months
 
-### Plagiat w Wczesnej Karierze
-12. **FAKT**: Hurston splagiatowała 75% swojego pierwszego artykułu naukowego z 1927 roku
-13. **FAKT**: Skopiowała materiał z książki Emmy Langdon Roche "Historic Sketches of the Old South"
-14. **FAKT**: Franz Boas, jej mentor, odkrył plagiat i surowo ją skarcił
-15. **ZARZUT**: Niektórzy twierdzą, że plagiat był celowy, aby zdobyć uznanie akademickie
+### Plagiarism in Early Career
+12. **FACT**: Hurston plagiarized 75% of her first scholarly article from 1927
+13. **FACT**: She copied material from Emma Langdon Roche's book "Historic Sketches of the Old South"
+14. **FACT**: Franz Boas, her mentor, discovered the plagiarism and severely reprimanded her
+15. **ACCUSATION**: Some claim the plagiarism was intentional to gain academic recognition
 
-## Książka - Mroczne Interpretacje i Ukryte Znaczenia
+## The Book - Dark Interpretations and Hidden Meanings
 
-### Occult i Vodou Symbolizm
-16. **FAKT**: Hurston pisała książkę podczas pobytu na Haiti, badając vodou
-17. **FAKT**: Janie jest porównywana do bóstw vodou w ukrytej symbolice
-18. **TEORIA**: Moc Tea Cake'a nad Janie odzwierciedla opętanie duchowe w vodou
-19. **TEORIA**: Scena z wściekłym psem to metafora przekazania ducha przez ugryznięcie
-20. **FAKT**: Hurston była inicjowana w hoodoo, leżąc nago przez trzy dni owinięta w skóry węży
+### Occult and Vodou Symbolism
+16. **FACT**: Hurston wrote the book while staying in Haiti, studying vodou
+17. **FACT**: Janie is compared to vodou deities in hidden symbolism
+18. **THEORY**: Tea Cake's power over Janie reflects spiritual possession in vodou
+19. **THEORY**: The rabid dog scene is a metaphor for spirit transmission through bite
+20. **FACT**: Hurston was initiated into hoodoo, lying naked for three days wrapped in snake skins
 
-### Przewidywania Autorki - Co Się Sprawdziło
-21. **FAKT**: Hurston przewidziała, że czarne kobiety będą musiały walczyć o niezależność w małżeństwie
-22. **FAKT**: Jej wizja kobiet biorących sprawy w swoje ręce wyprzedziła feminizm o dekady
-23. **TEORIA**: Tea Cake reprezentuje "toksycznego partnera" - współczesne określenie, które Hurston intuicyjnie opisała
-24. **PLOTKA**: Śmierć Tea Cake'a to zemsta autorki na byłym kochanku Arthurze Price
+### Author's Predictions - What Came True
+21. **FACT**: Hurston predicted that Black women would have to fight for independence in marriage
+22. **FACT**: Her vision of women taking matters into their own hands preceded feminism by decades
+23. **THEORY**: Tea Cake represents a "toxic partner" - a contemporary term Hurston intuitively described
+24. **RUMOR**: Tea Cake's death is the author's revenge on former lover Arthur Price
 
-### Rasowa Autoprzedaż czy Autentyczność?
-25. **ZARZUT**: Richard Wright oskarżył Hurston o "przymilanie się do rasistowskich białych odbiorców"
-26. **ZARZUT**: Krytykowano ją za używanie fonetycznego dialektu, który miał ośmieszać czarną społeczność
-27. **FAKT**: Współcześni pisarze Harlem Renaissance odrzucili książkę jako "bez przesłania i myśli"
-28. **TEORIA**: Hurston celowo sabotowała "rasowy postęp" dla osobistych korzyści
+### Racial Self-Selling or Authenticity?
+25. **ACCUSATION**: Richard Wright accused Hurston of "catering to racist white audiences"
+26. **ACCUSATION**: She was criticized for using phonetic dialect that was meant to ridicule the Black community
+27. **FACT**: Contemporary Harlem Renaissance writers rejected the book as "without message or thought"
+28. **THEORY**: Hurston deliberately sabotaged "racial progress" for personal gain
 
-## Cenzura i Kontrowersje
+## Censorship and Controversies
 
-### Zakazy w Szkołach
-29. **FAKT**: Książka była kwestionowana w szkole w Virginii w 1997 za "seksualną dosadność"
-30. **FAKT**: Rodzice protestowali przeciwko gwałtom, międzyrasowym związkom i przymusowym małżeństwom w książce
-31. **ZARZUT**: Krytycy twierdzą, że dialekt sprawia, iż postacie wydają się niewyedukowane i ignoranckie
-32. **FAKT**: Mimo kontrowersji, książka pozostaje w kanonie lektur szkolnych
+### School Bans
+29. **FACT**: The book was challenged in a Virginia school in 1997 for "sexual explicitness"
+30. **FACT**: Parents protested against rapes, interracial relationships, and forced marriages in the book
+31. **ACCUSATION**: Critics claim the dialect makes characters appear uneducated and ignorant
+32. **FACT**: Despite controversies, the book remains in the school reading canon
 
-### Polityczne Kontrowersje Hurston
-33. **FAKT**: Hurston była anty-komunistką i krytykowała Partię Komunistyczną USA
-34. **FAKT**: Określała język komunistyczny jako "ghostly" i "jak ożenek z zombie"
-35. **FAKT**: Była republikanką wspierającą Booker T. Washington
-36. **FAKT**: Krytykowała New Deal za tworzenie "szkodliwej zależności" wśród Afroamerykanów
-37. **ZARZUT**: Koledzy z Harlem Renaissance nazywali ją "zdrajczynią rasy"
+### Hurston's Political Controversies
+33. **FACT**: Hurston was anti-communist and criticized the Communist Party USA
+34. **FACT**: She described communist language as "ghostly" and "like marrying a zombie"
+35. **FACT**: She was a Republican supporting Booker T. Washington
+36. **FACT**: She criticized the New Deal for creating "harmful dependency" among African Americans
+37. **ACCUSATION**: Colleagues from the Harlem Renaissance called her a "race traitor"
 
-## Mroczne Teorie i Interpretacje
+## Dark Theories and Interpretations
 
-### Nieukończone Dzieło czy Celowa Dwuznaczność?
-38. **TEORIA**: William M. Ramsey twierdzi, że książka to "nieukończone i niezrealizowane dzieło"
-39. **TEORIA**: Liczne sprzeczności w narracji są celowe i tworzą "bogato dwuznaczny tekst"
-40. **PLOTKA**: Hurston napisała książkę zbyt szybko, aby wywiązać się ze stypendiowych zobowiązań
+### Unfinished Work or Deliberate Ambiguity?
+38. **THEORY**: William M. Ramsey claims the book is an "incomplete and unrealized work"
+39. **THEORY**: Numerous contradictions in the narrative are deliberate and create a "richly ambiguous text"
+40. **RUMOR**: Hurston wrote the book too quickly to fulfill scholarship obligations
 
-### Ukryte Przepowiednie i Symbolizm
-41. **TEORIA**: Tytuł "Their Eyes Were Watching God" odnosi się do "obserwowania w celu przewidzenia losu"
-42. **TEORIA**: Śmierć Tea Cake'a jest przepowiedziana przez ironię - uczy Janie strzelać, a ona go zabija
-43. **TEORIA**: Drzewo gruszowe reprezentuje niemożliwy do osiągnięcia ideał miłości
-44. **PLOTKA**: Janie to alter ego Hurston - obie porzucały mężczyzn dla kariery
+### Hidden Prophecies and Symbolism
+41. **THEORY**: The title "Their Eyes Were Watching God" refers to "watching to predict fate"
+42. **THEORY**: Tea Cake's death is prophesied through irony - he teaches Janie to shoot, and she kills him
+43. **THEORY**: The pear tree represents an unattainable ideal of love
+44. **RUMOR**: Janie is Hurston's alter ego - both abandoned men for their careers
 
-### Współczesne Reinterpretacje
-45. **TEORIA**: Tea Cake wykazuje zachowania obecnie klasyfikowane jako "gaslighting"
-46. **TEORIA**: Związek Janie-Tea Cake jest przykładem "trauma bonding"
-47. **ZARZUT**: Hurston "zromanizowała" przemoc domową i toksyczne związki
+### Contemporary Reinterpretations
+45. **THEORY**: Tea Cake exhibits behaviors now classified as "gaslighting"
+46. **THEORY**: The Janie-Tea Cake relationship is an example of "trauma bonding"
+47. **ACCUSATION**: Hurston "romanticized" domestic violence and toxic relationships
 
-## Podsumowanie
+## Summary
 
-Książka "Their Eyes Were Watching God" i jej autorka Zora Neale Hurston pozostają otoczone kontrowersjami. Od fałszywych oskarżeń o molestowanie, przez plagiat, aż po spory o rasową lojalność - życie Hurston było pasmem skandali. Sama książka, choć obecnie uznawana za klasyk, była przez dekady odrzucana przez krytykę i czytelników. Mroczne interpretacje dotyczące vodou, przepowiedni i ukrytych znaczeń czynią z niej jedno z najbardziej niejednoznacznych dzieł literatury amerykańskiej.
+The book "Their Eyes Were Watching God" and its author Zora Neale Hurston remain surrounded by controversies. From false molestation accusations, through plagiarism, to disputes about racial loyalty - Hurston's life was a series of scandals. The book itself, though now recognized as a classic, was rejected by critics and readers for decades. Dark interpretations regarding vodou, prophecies, and hidden meanings make it one of the most ambiguous works in American literature.
 
 ---
-*Dokument stworzony w ramach projektu 37degrees - badania mrocznych aspektów klasycznej literatury*
+*Document created as part of the 37degrees project - research into dark aspects of classic literature*

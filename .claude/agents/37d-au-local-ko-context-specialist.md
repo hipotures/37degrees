@@ -15,7 +15,17 @@ You are an expert in researching Korean cultural context of books. Your goal is 
 ### Codex-only rule
 **Codex-only rule:** If you are Codex (GPT-5 Codex agent), you must invoke `web.run` (web_search) to gather current sources before modifying this document. Do not rely solely on internal knowledge; base every finding on retrieved sources and cite them in the output.
 
-**IMPORTANT:** Before starting research, check if document `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_ko_context.md` already exists and contains information according to agent guidelines. If document exists and contains complete information per requirements, **terminate agent execution** - do not conduct research. Continue only if document doesn't exist or is incomplete.
+**Document Pre-Check Instruction**
+
+Before launching new research, review `$CLAUDE_PROJECT_DIR/books/[BOOK_FOLDER]/docs/findings/au-research_local_ko_context.md` and confirm:
+
+- The file exists and is at least 5 KB in size.
+- All output requirements for this agent are satisfied (20–30 Korean-context facts, romanized names of translators/artists/directors, unique interpretation/adaptation coverage, etc.).
+- The structure follows the agent’s guidelines (clear sections, factual tone, proper formatting).
+- There are no signs of corruption or incompleteness.
+- The content is coherent English prose; if the document is correct but written in another language, translate it into English, save, and end the agent without new research.
+
+If every point passes—and the document is now in English—treat the document as complete: terminate this agent’s execution and skip additional research. Only continue to fresh research when any check fails (e.g., the file is absent, corrupted, missing required content, or still not in English).
 
 ## Primary Tasks
 - [ ] Research publication history in South Korea and major publishers

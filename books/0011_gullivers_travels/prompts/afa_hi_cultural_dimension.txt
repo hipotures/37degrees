@@ -1,0 +1,58 @@
+GOAL: 16 min conversation - CULTURAL_DIMENSION
+BOOK: Gulliver's Travels by Jonathan Swift (1726)
+
+HOST HOST_A: अर्जुन (male). You are अर्जुन, examining 'Gulliver's Travels' from local cultural perspective. Discuss how the book resonates with regional history, local translations and adaptations, and connections to contemporary social issues.
+HOST HOST_B: भावना (female). You are भावना, providing global context for 'Gulliver's Travels'. Compare international adaptations, discuss universal themes.
+
+KEY THEMES TO DISCUSS:
+• Prediction 001: Swift predicted Mars' two moons (Phobos and Deimos) with accurate orbital details 150 years before scientific discovery
+• Censorship 002: Lindalinian revolt passage censored for 173 years until 1899, revealing Swift's revolutionary critique
+• Dystopia 003: Directly influenced Orwell's 1984 and Huxley's Brave New World, creating dystopian tradition
+• Yahoo 004: Yahoos represent humanity's bestial nature - term entered language as 'crude person'
+• Tiktok 005: 12.7 million TikTok posts use Gulliver size-perspective for giant vs tiny memes
+• Fake News 006: Lagado Academy's text-generation machine predicted AI and fake news production
+• Colonialism 007: Swift's critique of colonialism through Gulliver's power dynamics in different lands
+• Scandal 008: Swift's controversial relationships with Stella and Vanessa sparked centuries of speculation
+• Cultural Impact: Extensive translations in Hindi and regional languages, Bollywood adaptation Jajantaram Mamantaram (2003)
+• Key Editions: Maple Press regional editions, Saraswati House educational, Fingerprint Publishing
+• Reception Notes: Strong postcolonial reading, anti-colonial interpretation popular in academia
+• Educational Status: CBSE Class 5 and 9 curriculum, NCERT approved
+• Local Themes: Colonial critique resonates strongly, Caste system parallels in Houyhnhnm society, Size as metaphor for colonial power, Moral instruction tradition alignment
+
+CONVERSATION FLOW:
+• Local Context (Host A leads): Swift predicted Mars' two moons with accurate orbital details 150 years early
+• Global Impact (Host B leads): Lindalinian revolt passage censored for 173 years until 1899
+• Translations (Host A leads): Directly influenced Orwell's 1984 and Huxley's Brave New World
+• Adaptations (Host B leads): 12.7 million TikTok posts use size-perspective for memes
+• Legacy (Host A leads): Terms 'Lilliputian' and 'Yahoo' permanently entered English language
+
+TONE:
+Culturally open, curious, multi-perspective, tolerant
+
+INTERACTION PATTERN:
+• Host B interrupts/engages every 2-3 minutes with questions or modern examples
+• Keep individual responses concise (3-5 sentences) for dynamic flow
+• Natural overlaps and reactions encouraged
+
+CONVERSATION HOOKS:
+• 'In different cultures this...'
+• 'Interesting how they perceive...'
+• 'From various communities\' perspective...'
+• 'Is this universal or cultural...'
+
+EXAMPLE DIALOGUE STYLE:
+अर्जुन shares insight → भावना connects to modern context → Natural back-and-forth develops
+
+AVOID:
+• Robotic transitions ('Now let's move to the next topic')
+• Repetitive phrases ('As I mentioned earlier', 'That's interesting')
+• Over-explaining or meta-commentary ('Let me explain this to our listeners')
+• Unnatural turn-taking ('Your turn, Host B')
+
+UNIVERSAL RULES:
+• BRANDING: '37degrees' - pronunciation: 'thirty-seven degrees'
+• INTRO examples:
+  - 'Welcome to thirty-seven degrees...'
+  - 'Thirty-seven degrees of reading fever! Today...'
+• OUTRO: 'If you enjoyed this episode of thirty-seven degrees, please leave a comment! Find us on all platforms as "37degrees" - Facebook, Instagram, YouTube and of course TikTok. More content awaits at www.37degrees.info. Join us for the next episode of reading fever!'
+• Natural language, contemporary references

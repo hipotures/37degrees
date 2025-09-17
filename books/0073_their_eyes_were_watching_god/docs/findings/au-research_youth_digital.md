@@ -1,51 +1,51 @@
-# Badania: "Their Eyes Were Watching God" w Kulturze Młodzieżowej i Cyfrowej (2024-2025)
+# Research: "Their Eyes Were Watching God" in Youth and Digital Culture (2024-2025)
 
-## Wprowadzenie
+## Introduction
 
-"Their Eyes Were Watching God" (1937) Zory Neale Hurston, mimo że nie należy do najbardziej viralnych książek na BookTok w 2024-2025, rezonuje z generacją Z w sposób głęboki i nieoczekiwany. Podróż Janie Crawford w poszukiwaniu autentyczności i prawdziwej miłości odbija się w cyfrowych rozmowach młodego pokolenia o niezależności, toksycznych związkach i autodeterminacji.
+"Their Eyes Were Watching God" (1937) by Zora Neale Hurston, while not among the most viral books on BookTok in 2024-2025, resonates with Generation Z in profound and unexpected ways. Janie Crawford's journey in search of authenticity and true love reflects in digital conversations of young people about independence, toxic relationships, and self-determination.
 
-## Paralele z Życiem Gen Z
+## Parallels with Gen Z Life
 
-### 1. Poszukiwanie Autentyczności w Erze Social Media
+### 1. Search for Authenticity in the Social Media Era
 
 **Janie vs. Instagram Perfection**
-- Janie odrzuca powierzchowność małżeństwa z Joe Starksem (social status) ← Gen Z odrzuca "fake" content na Instagramie
-- Jej pragnienie bycia sobą rezonuje z "authenticity trends" 2024
-- #BeReal challenge echo Janie's journey toward genuine self-expression
+- Janie rejects the superficiality of marriage to Joe Starks (social status) ← Gen Z rejects "fake" content on Instagram
+- Her desire to be herself resonates with "authenticity trends" 2024
+- #BeReal challenge echoes Janie's journey toward genuine self-expression
 
 **Digital Parallels**
-- "Ships at a distance" quote → viral na Pinterest/Tumblr jako metaphor for social media aspirations
+- "Ships at a distance" quote → viral on Pinterest/Tumblr as metaphor for social media aspirations
 - Janie's three marriages → Gen Z's serial dating through apps (Hinge, Bumble decline 2024)
 
-### 2. Red Flags i Toxic Relationships
+### 2. Red Flags and Toxic Relationships
 
-**Tea Cake przez Pryzmat "Therapy Speak"**
-- BookTok discourse 2024: czy Tea Cake to "green flag" czy "red flag"?
-- Jego kontrola nad Janie → Gen Z discussions o coercive control
-- #ToxicRelationships hashtag na TikTok: 847M views w 2024
+**Tea Cake Through the Lens of "Therapy Speak"**
+- BookTok discourse 2024: is Tea Cake a "green flag" or "red flag"?
+- His control over Janie → Gen Z discussions about coercive control
+- #ToxicRelationships hashtag on TikTok: 847M views in 2024
 
 **Modern Interpretations**
 - Tea Cake stealing money → financial abuse awareness campaigns
 - His jealousy → possessive behavior discourse on social media
 - Violence normalization → #DomesticViolenceAwareness trends
 
-## TikTok i BookTok Presence
+## TikTok and BookTok Presence
 
 ### BookTok Statistics (2024-2025)
-- **1.3M posts** tagged #TheirEyesWereWatchingGod na TikToku
-- Klasyków literackich: mniejsza popularność vs. contemporary romantasy
-- **Spadek zainteresowania** klasykami na rzecz fantasy/romance
+- **1.3M posts** tagged #TheirEyesWereWatchingGod on TikTok
+- Classic literature: less popularity vs. contemporary romantasy
+- **Declining interest** in classics in favor of fantasy/romance
 
 ### Viral BookTok Content Gaps
-**Brak Major Viral Moments:**
-- Nie pojawiła się w "BookTok's 21 Most Talked About Books of 2024" (Rolling Stone)
-- Brak challenge'ów związanych z książką
-- Ograniczona obecność vs. "It Ends With Us" czy fantasy titles
+**Lack of Major Viral Moments:**
+- Did not appear in "BookTok's 21 Most Talked About Books of 2024" (Rolling Stone)
+- No challenges related to the book
+- Limited presence vs. "It Ends With Us" or fantasy titles
 
 ### Potential for Virality
-**Elementy które mogłyby "wybuchnąć":**
+**Elements that could "explode":**
 - "There are years that ask questions and years that answer" → perfect for New Year content
-- Southern Gothic aesthetic alignment z trending #southerngothic (9M views)
+- Southern Gothic aesthetic alignment with trending #southerngothic (9M views)
 - Janie's character development arc → #GlowUp content potential
 
 ## Gaming Culture Connections
@@ -54,7 +54,7 @@
 **Black History Month 2025 Gaming:**
 - Xbox celebrating Black creators in gaming
 - "South of Midnight" (April 2025) - Southern Gothic aesthetic game
-- Brak direct game adaptations Hurston's work
+- Lack of direct game adaptations of Hurston's work
 
 ### Virtual Worlds Parallels
 - Janie's journey through different "worlds" (marriages) ← RPG character progression
@@ -65,7 +65,7 @@
 
 ### Southern Gothic Renaissance
 **TikTok Aesthetic Trends:**
-- #southerngothic: **9M views** na TikToku 2024
+- #southerngothic: **9M views** on TikTok 2024
 - Prairie dresses, corsets, "swamp witch" aesthetic
 - #ethelcaincore connecting to rural Gothic imagery
 - Dark academia blending with cottagecore
@@ -163,10 +163,10 @@
 4. **Aesthetic Appeal**: Southern Gothic trending
 5. **Empowerment Message**: Aligns with feminist TikTok
 
-## Rekomendacje dla Twórców Contentu
+## Recommendations for Content Creators
 
 ### TikTok Strategy
-1. **Quote Cards**: Aesthetic typography z key quotes
+1. **Quote Cards**: Aesthetic typography with key quotes
 2. **Relationship Red Flags**: Tea Cake analysis
 3. **Character Glow-Up**: Janie's transformation journey
 4. **Aesthetic Videos**: Southern Gothic styling
@@ -184,22 +184,22 @@
 3. **Modern Adaptations**: "If Janie had social media"
 4. **Comparative Analysis**: With contemporary romance
 
-## Wnioski
+## Conclusions
 
-"Their Eyes Were Watching God" posiada ogromny potencjał do rezonowania z młodym pokoleniem, ale wymaga przemyślanej strategii content marketingu. Książka oferuje:
+"Their Eyes Were Watching God" has enormous potential to resonate with young people, but requires a thoughtful content marketing strategy. The book offers:
 
-- **Autentyczne** przesłanie o niezależności kobiet
-- **Aktualne** tematy toxic relationships
-- **Estetycznie** atrakcyjny Southern Gothic vibe
-- **Głębokie** przesłania o self-discovery
+- **Authentic** message about women's independence
+- **Current** themes of toxic relationships
+- **Aesthetically** attractive Southern Gothic vibe
+- **Deep** messages about self-discovery
 
-Przy odpowiednim podejściu może stać się kolejnym klasykiem odkrywanym przez Gen Z, podobnie jak "The Song of Achilles" czy "Pride and Prejudice" w poprzednich latach.
+With the right approach, it could become another classic discovered by Gen Z, similar to "The Song of Achilles" or "Pride and Prejudice" in previous years.
 
-**Kluczowe hashtagi dla przyszłych kampanii:**
+**Key hashtags for future campaigns:**
 - #TheirEyesWereWatchingGod
 - #ZoraNealeHurston
 - #SouthernGothic
-- #BookTokClassics  
+- #BookTokClassics
 - #ToxicRelationshipRedFlags
 - #FemaleEmpowerment
 - #HarlemRenaissance

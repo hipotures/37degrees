@@ -4,3 +4,189 @@ book_info:
   author: "Jack Kerouac"
   year: 1957
   genre: "Beat,Road novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-17T00:00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 9
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 64
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Lucien Carr, Kerouac's friend, stabbed David Kammerer to death in 1944. Kerouac helped dispose of evidence but avoided prison by testifying"
+        source: "dark_drama"
+      - id: "writing_innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Kerouac typed the novel on a 120-foot scroll in three weeks while high on benzedrine, creating spontaneous prose technique"
+        source: "writing_innovation"
+      - id: "symbols_meanings_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "The concept of IT represents the ecstatic moment of pure being that Dean and Sal pursue through jazz, speed, and intensity"
+        source: "symbols_meanings"
+      - id: "reality_wisdom_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "#vanlife with 2.1 billion TikTok views directly echoes the book's themes of freedom through nomadic living"
+        source: "reality_wisdom"
+      - id: "dark_drama_4"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Despite inspiring counterculture, Kerouac supported McCarthy and Vietnam War, rejected hippies who claimed him"
+        source: "dark_drama"
+      - id: "reality_wisdom_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Female characters exist only to be abandoned - a pattern modern critics identify as toxic masculinity blueprint"
+        source: "reality_wisdom"
+      - id: "writing_innovation_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "First novel to successfully translate bebop jazz improvisation into prose rhythm and structure"
+        source: "writing_innovation"
+      - id: "youth_digital_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Book's exploration of anxiety and alienation resonates with Gen Z's mental health discourse, posts up 65% in 2024"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Defined American counterculture, influenced Dylan, The Doors, Grateful Dead"
+        key_editions: ["Viking Press 1957", "Penguin Modern Classics", "Original Scroll 2007"]
+        reception_notes: "Canonical status in American literature, taught in universities"
+        educational_status: "Core text in American Studies programs"
+        local_themes: ["American Dream critique", "Road as metaphor for freedom", "Jazz culture influence"]
+
+      pl:
+        cultural_impact: "Banned under communist regime, symbol of freedom after 1989"
+        key_editions: ["W drodze PIW", "Muza editions", "Recent retranslations"]
+        reception_notes: "Youth icon, TikTok presence, alternative lifestyle inspiration"
+        educational_status: "University elective, not in high school curriculum"
+        local_themes: ["Post-communist freedom metaphor", "Escape from conformity", "Western culture fascination"]
+
+      de:
+        cultural_impact: "Influenced German road literature and backpacker culture"
+        key_editions: ["Rowohlt editions", "Recent critical editions with annotations"]
+        reception_notes: "Strong academic tradition, philosophical interpretations"
+        educational_status: "American Studies programs, cultural studies focus"
+        local_themes: ["Wanderlust tradition", "Critique of materialism", "Youth rebellion parallels"]
+
+      fr:
+        cultural_impact: "Gallimard maintains continuous publication, influenced French writers like Despentes"
+        key_editions: ["Gallimard Folio", "Quarto critical edition 2021"]
+        reception_notes: "France Culture programs, literary tourism in Paris"
+        educational_status: "University American literature courses"
+        local_themes: ["Existentialist connections", "May 68 precursor", "American myth deconstruction"]
+
+      es:
+        cultural_impact: "Anagrama central to catalog, Kerouac Festival bridges Spain-Mexico-NYC"
+        key_editions: ["Anagrama Compactos", "Multiple translations available"]
+        reception_notes: "Festival Kerouac international presence, Mexico City pilgrimage site"
+        educational_status: "Latin American Studies programs include Mexico chapters"
+        local_themes: ["Border crossing meanings", "Latin machismo critique", "Road trip culture adoption"]
+
+      pt:
+        cultural_impact: "Walter Salles film adaptation strengthened Brazilian connection"
+        key_editions: ["Relogio D'Agua Portugal", "L&PM Brazil editions"]
+        reception_notes: "Sesc cultural programs, Flip festival readings"
+        educational_status: "American literature courses in universities"
+        local_themes: ["Tropicalia movement parallels", "Journey as self-discovery", "Urban escape fantasy"]
+
+      ja:
+        cultural_impact: "Influenced Japanese road manga, travel literature boom"
+        key_editions: ["Kawade Shobo editions", "Multiple format versions"]
+        reception_notes: "BB Plaza exhibition 2021, jazz cafe culture connection"
+        educational_status: "American literature seminars, cultural studies"
+        local_themes: ["Wandering monk tradition", "Post-war American fascination", "Salary man escape fantasy"]
+
+      ko:
+        cultural_impact: "Resonates with youth escaping competitive society pressure"
+        key_editions: ["Minumsa World Literature series", "E-book editions popular"]
+        reception_notes: "Used in discussions of work-life balance, youth burnout"
+        educational_status: "University electives on counterculture"
+        local_themes: ["Hell Joseon escape", "Digital nomad inspiration", "Alternative to success pressure"]
+
+      hi:
+        cultural_impact: "Connects to Indian pilgrimage traditions, backpacker circuit inspiration"
+        key_editions: ["Penguin India editions", "No Hindi translation yet"]
+        reception_notes: "Instagram travel culture, Ladakh road trip connections"
+        educational_status: "Delhi University counterculture course inclusion"
+        local_themes: ["Spiritual journey parallels", "Western hippie trail legacy", "Youth rebellion universality"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The murder that haunted the Beat Generation - Lucien Carr killing David Kammerer"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Three weeks of benzedrine-fueled typing on a 120-foot scroll"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The search for IT - that transcendent moment of pure being"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "impact"
+          lead: "host_b"
+          description: "From counterculture bible to #vanlife phenomenon with 2.1 billion views"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "resolution"
+          lead: "host_a"
+          description: "Kerouac's conservative turn - rejecting the hippies who claimed him"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter reconstructing the true story behind 'On the Road'. Ask probing questions about the Beat Generation murder, the benzedrine-fueled writing process, and why Kerouac rejected his own counterculture legacy. Focus on uncovering hidden truths."
+        host_b: "You are {female_name}, a witness to the Beat Generation era. Describe the scroll manuscript creation vividly, explain the pursuit of IT through jazz and speed, and reveal how the book predicted today's van life movement while its author turned conservative."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "murder and violence discussion"
+      - "drug use references"
+      - "sexual content discussion"
+    educational_elements:
+      - "Beat Generation literary movement"
+      - "Jazz influence on prose style"
+      - "Historical context of 1950s America"
+      - "Counterculture origins and evolution"
+    production_notes:
+      intro_style: "Jazz-influenced opening with bebop rhythm"
+      transitions: "subtle musical bridges"
+      outro_style: "Contemplative fade with road sounds"
+
+  overall_confidence: 0.88

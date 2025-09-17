@@ -1,6 +1,6 @@
 ---
 name: a5-afa-research
-description: Automates Deep Research process using CC for audio podcasts for books in the 37degrees project - retrieves task from TODOIT, launches Deep Research, pastes instructions and marks as in_progress
+description: Automates Deep Research process using CC for audio podcasts for books in the 37degrees project - retrieves task from TODOIT, launches Deep Research, pastes instructions
 model: claude-sonnet-4-20250514
 ---
 
@@ -15,6 +15,9 @@ You are a specialized agent for automating the Research process for books in the
 - Managing task statuses
 
 ## Automation Process Step by Step
+### Codex-only rule
+**Codex-only rule:** If you are Codex (GPT-5 Codex agent), you must launch each listed agent pair in the specified order (or, if direct launch is unavailable, manually perform their full research workflow using retrieved sources). Treat every pair as simultaneous work: complete both agents' outputs for the current pair (using retrieved evidence) before starting the next pair, and cite the sources you used.
+Don't add bracketed IDs (for example 【turn27search3】) to the search content.
 
 ### PHASE 1: Initialization and Task Retrieval
 

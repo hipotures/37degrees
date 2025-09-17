@@ -4,3 +4,186 @@ book_info:
   author: "Toni Morrison"
   year: 1987
   genre: "Historical fiction,Magical realism"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-17T00:00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 5
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 9
+    structural_complexity: 9
+    social_roles: 9
+    total: 61
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 9.0
+      category: "high"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Book banned in at least 11 American schools during 2021-2022, based on true story of Margaret Garner who killed her child"
+        source: "dark_drama"
+      - id: "writing_innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Morrison invented 'rememory' neologism - memory living its own life in space, trauma that can be picked up by others"
+        source: "writing_innovation"
+      - id: "symbols_meanings_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cherry tree scar represents metamorphosis of trauma into beauty - physical record of violence becoming life symbol"
+        source: "symbols_meanings"
+      - id: "reality_wisdom_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Morrison predicted intergenerational trauma transmission, confirmed by modern epigenetics and PTSD research"
+        source: "reality_wisdom"
+      - id: "culture_impact_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "First Black woman to win Nobel Prize in Literature (1993), Pulitzer Prize 1988, changed American literary canon"
+        source: "culture_impact"
+      - id: "youth_digital_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Limited viral presence but strong connection to Gen Z mental health awareness and Black Lives Matter themes"
+        source: "youth_digital"
+      - id: "content_warnings_6"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Extreme content including infanticide, rape, torture - causes documented night terrors in young readers"
+        source: "content_warnings"
+      - id: "facts_history_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Film with $80M budget earned only $8M opening weekend, Oprah called it worst moment of her career"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in American literature, taught at Cambridge and Oxford, best American novel 1981-2006"
+        key_editions: ["Knopf 1987 first edition", "Vintage International", "Folio Society 2015 illustrated"]
+        reception_notes: "48 Black writers protested when denied National Book Award, now core university text"
+        educational_status: "Common Core curriculum, widely taught despite banning controversies"
+        local_themes: ["American slavery legacy", "Reconstruction era trauma", "Canon transformation from white male dominance"]
+
+      pl:
+        cultural_impact: "Reached Poland late after Nobel Prize, two translations - Gorczyńska 1996, Gucio 2023"
+        key_editions: ["Świat Książki 1996", "Znak 2007", "Wydawnictwo Poznańskie 2023"]
+        reception_notes: "New translation finally comprehensible, recognized as requiring reading maturity"
+        educational_status: "University American literature courses, high school supplementary reading"
+        local_themes: ["No slavery tradition context", "Introduction to Black American history", "Southern Gothic appreciation"]
+
+      de:
+        cultural_impact: "Strong academic tradition of trauma studies and postcolonial analysis"
+        key_editions: ["German scholarly editions", "Academic publications on Morrison"]
+        reception_notes: "Philosophical and psychoanalytic interpretations dominant"
+        educational_status: "American Studies programs standard text"
+        local_themes: ["Trauma theory applications", "Collective memory studies", "Holocaust parallels discussions"]
+
+      fr:
+        cultural_impact: "Morrison's critical work influenced French literary theory on race"
+        key_editions: ["French translations post-Nobel", "Academic editions with annotations"]
+        reception_notes: "Embraced by postcolonial scholars and feminist critics"
+        educational_status: "University American and postcolonial literature courses"
+        local_themes: ["Decolonization parallels", "Memory and history debates", "Feminist motherhood analysis"]
+
+      es:
+        cultural_impact: "Connected to Latin American magical realism tradition"
+        key_editions: ["Spanish translations post-1993", "Latin American editions"]
+        reception_notes: "Recognized parallels with García Márquez and Isabel Allende"
+        educational_status: "Comparative literature programs, magical realism studies"
+        local_themes: ["Magical realism connections", "Colonial trauma parallels", "Dictatorships and memory"]
+
+      pt:
+        cultural_impact: "Resonates with Brazil's slavery history and racial discussions"
+        key_editions: ["Brazilian Portuguese editions", "Portuguese translations"]
+        reception_notes: "Important text for understanding American vs Brazilian slavery systems"
+        educational_status: "Afro-Brazilian studies programs"
+        local_themes: ["Slavery comparison Brazil/US", "Racial identity discussions", "Candomblé spiritual parallels"]
+
+      ja:
+        cultural_impact: "Interest in American racial dynamics and trauma literature"
+        key_editions: ["Japanese translations post-Nobel", "Academic editions"]
+        reception_notes: "Studied for narrative innovation techniques"
+        educational_status: "American literature seminars, trauma studies"
+        local_themes: ["War trauma parallels", "Collective memory concepts", "Ghost story traditions"]
+
+      ko:
+        cultural_impact: "Connects to han (collective sorrow) and historical trauma concepts"
+        key_editions: ["Korean translations", "Academic study editions"]
+        reception_notes: "Parallels drawn with Korean War and colonial trauma"
+        educational_status: "American literature and trauma studies courses"
+        local_themes: ["Han and collective trauma", "Colonial period parallels", "Family separation themes"]
+
+      hi:
+        cultural_impact: "Limited translation but studied in English at universities"
+        key_editions: ["No Hindi translation yet", "English editions in Indian universities"]
+        reception_notes: "Postcolonial studies context, partition trauma comparisons"
+        educational_status: "Delhi University and other English literature programs"
+        local_themes: ["Partition trauma parallels", "Caste and slavery comparisons", "Maternal sacrifice themes"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Book banned in 11+ schools, based on true infanticide by Margaret Garner escaping slavery"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Morrison invented 'rememory' - trauma existing in physical space that others can encounter"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Cherry tree scar as metamorphosis of violence into terrible beauty, body as historical record"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Morrison's prophecy of intergenerational trauma confirmed by modern epigenetics and PTSD research"
+      prompts:
+        host_a: "You are {male_name}, a social historian analyzing 'Beloved' through the lens of power, slavery, and Reconstruction era 1870s. Discuss how the true story of Margaret Garner illuminates systemic violence that drove mothers to infanticide."
+        host_b: "You are {female_name}, examining contemporary relevance of 'Beloved'. Connect Morrison's 'rememory' concept to modern understanding of PTSD, intergenerational trauma, and Black Lives Matter. Analyze how slavery's power dynamics persist."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings:
+      - "infanticide and child death"
+      - "sexual violence and rape"
+      - "slavery and torture descriptions"
+      - "extreme psychological trauma"
+    educational_elements:
+      - "Historical fiction and magical realism genre characteristics"
+      - "Reconstruction era American history (1870s)"
+      - "Trauma theory and intergenerational transmission"
+      - "Nobel Prize literature significance"
+      - "Narrative innovation techniques"
+    production_notes:
+      intro_style: "Serious tone with content warning emphasis"
+      transitions: "subtle musical bridges"
+      outro_style: "Reflective with resources for trauma support"
+
+  overall_confidence: 0.87
