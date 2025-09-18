@@ -4,3 +4,174 @@ book_info:
   author: "Joseph Conrad"
   year: 1899
   genre: "Novella,Modernist"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T16:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 2
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 8
+    total: 61
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 6.8
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "colonial_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "Corporate colonialism mechanisms - Conrad predicted modern multinational exploitation with 100% accuracy"
+        source: "reality_wisdom"
+      - id: "trauma_02"
+        type: "FACT"
+        credibility: 0.95
+        content: "Psychological trauma and moral injury - described PTSD concepts 110 years before official definition"
+        source: "reality_wisdom"
+      - id: "racism_03"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Achebe's 1977 racism critique fundamentally changed global literary reception"
+        source: "dark_drama"
+      - id: "innovation_04"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneered literary impressionism, delayed decoding, modernist narrative techniques"
+        source: "writing_innovation"
+      - id: "power_05"
+        type: "FACT"
+        credibility: 0.95
+        content: "Power corruption in isolation - Stanford Prison Effect confirmed Conrad's insights"
+        source: "reality_wisdom"
+      - id: "symbols_06"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "27+ documented interpretive layers spanning mythological to contemporary readings"
+        source: "symbols_meanings"
+      - id: "cultural_07"
+        type: "FACT"
+        credibility: 0.95
+        content: "47 documented adaptations across all media including Apocalypse Now and video games"
+        source: "culture_impact"
+      - id: "environmental_08"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Environmental destruction parallels with contemporary climate crisis discourse"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational modernist text in Anglo-American literary tradition"
+        key_editions: ["Norton Critical Editions", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Standard university curriculum since 1960s, complex postcolonial reception"
+        educational_status: "Required reading in most English literature programs"
+        local_themes: ["Imperial critique tradition", "Modernist innovation", "Canonical controversy"]
+      pl:
+        cultural_impact: "National pride in Polish author's global literary achievement"
+        key_editions: ["Zagórska translation (1930)", "Heydel translation (2011)", "Multiple publishers"]
+        reception_notes: "Mandatory matura reading, theatrical adaptations at major venues"
+        educational_status: "High school exit exam requirement"
+        local_themes: ["Exile experience", "Polish literary genius", "European outsider perspective"]
+      de:
+        cultural_impact: "Significant presence in German intellectual publishing tradition"
+        key_editions: ["Reclam Universal-Bibliothek", "Suhrkamp Bibliothek", "S. Fischer editions"]
+        reception_notes: "Five German translations reflecting evolving perspectives"
+        educational_status: "University postcolonial studies programs"
+        local_themes: ["Continental philosophy connections", "German colonial critique", "Critical theory applications"]
+      fr:
+        cultural_impact: "Prestigious Pléiade collection inclusion, post-structuralist theory connections"
+        key_editions: ["Gallimard Pléiade (2017)", "NRF editions", "Multiple translations"]
+        reception_notes: "André Gide influence, academic agrégation program inclusion"
+        educational_status: "French university literature and philosophy programs"
+        local_themes: ["Post-structuralist interpretation", "Derrida connections", "Language instability"]
+      es:
+        cultural_impact: "Strong Latin American literary dialogue, Vargas Llosa interpretation"
+        key_editions: ["Juan Gabriel Vásquez translation (2024)", "Vargas Llosa prologue editions"]
+        reception_notes: "Colombian adaptations, parallel with La vorágine jungle literature"
+        educational_status: "University comparative literature programs"
+        local_themes: ["Colonial exploitation parallels", "Latin American jungle literature", "Contemporary adaptations"]
+      pt:
+        cultural_impact: "Strong Brazilian academic adoption, Cinema Novo connections"
+        key_editions: ["Companhia das Letras", "Multiple Brazilian publishers", "Bilingual editions"]
+        reception_notes: "Brazilian animated adaptation (2023), extensive university study"
+        educational_status: "ENEM exam preparation, university literature courses"
+        local_themes: ["Cinema Novo parallels", "Tropicália anthropophagy", "Brazilian cultural transformation"]
+      ja:
+        cultural_impact: "Buddhist philosophical interpretation, manga adaptation innovation"
+        key_editions: ["Iwanami Bunko (1958)", "Shinchosha (2022)", "Multiple translations"]
+        reception_notes: "WWII manga adaptation, Conrad Society Japan research"
+        educational_status: "University modernist literature courses"
+        local_themes: ["Buddhist enlightenment parallels", "Japanese imperial critique", "Manga adaptation creativity"]
+      ko:
+        cultural_impact: "Postcolonial perspective shaped by Japanese colonial experience"
+        key_editions: ["Eulyoo Publishing", "Minumsa World Literature", "Multiple translations"]
+        reception_notes: "University entrance exam inclusion (2018), academic research"
+        educational_status: "High school and university literature programs"
+        local_themes: ["Colonial resistance parallels", "Korean historical trauma", "Academic discourse"]
+      hi:
+        cultural_impact: "Foundation text for Indian postcolonial criticism and academic debate"
+        key_editions: ["Penguin India", "Hindi translation available", "Academic study materials"]
+        reception_notes: "Achebe critique fundamental to Indian literary criticism"
+        educational_status: "University postcolonial studies, comparative literature"
+        local_themes: ["Postcolonial criticism foundation", "Indian English literature influence", "Academic controversy"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "modernist_innovation"
+          lead: "host_a"
+          description: "Analysis of Conrad's pioneering literary techniques and narrative innovations"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "colonial_critique"
+          lead: "host_b"
+          description: "Framework for understanding Conrad's anti-imperial stance and contemporary relevance"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "symbolic_depth"
+          lead: "host_a"
+          description: "Exploration of 27+ documented interpretive layers and symbolic meanings"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "postcolonial_debate"
+          lead: "host_b"
+          description: "Synthesis of Achebe criticism and ongoing scholarly debates"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_integration"
+          lead: "host_a"
+          description: "Integration of Conrad's insights with current global issues and literary theory"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Heart of Darkness' with scholarly depth. Discuss Conrad's pioneering of literary impressionism, delayed decoding technique, and the work's 27+ documented symbolic interpretations. Focus on modernist innovations, structural complexity, and philosophical depth. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex concepts, request examples of Conrad's techniques, connect to postcolonial theory including Achebe's criticism, ensure accessibility for general audience. Bridge academic analysis with contemporary relevance."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical colonial violence", "racist terminology discussion", "psychological trauma themes", "academic controversy"]
+    educational_elements: ["modernist literary techniques", "Belgian Congo historical context", "postcolonial criticism development", "narrative innovation analysis"]
+    production_notes:
+      intro_style: "academic introduction with historical context"
+      transitions: "scholarly bridges between complex topics"
+      outro_style: "synthesis conclusion emphasizing ongoing relevance"
+
+  overall_confidence: 0.875

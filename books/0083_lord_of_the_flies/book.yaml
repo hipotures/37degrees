@@ -4,3 +4,174 @@ book_info:
   author: "William Golding"
   year: 1954
   genre: "Allegory,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T22:30:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 7
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "authoritarianism_vs_democracy"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Ralph (democracy) vs Jack (authoritarianism) represents political allegory of Cold War tensions between democratic West and totalitarian systems"
+        source: "dark_drama"
+      - id: "inherent_human_evil"
+        type: "FACT"
+        credibility: 0.95
+        content: "Man produces evil as a bee produces honey - Golding's core thesis about wrodzone zło w człowieku based on war experiences"
+        source: "symbols_meanings"
+      - id: "technology_double_edged"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Piggy's glasses as tool that creates fire - symbol of technology's power in irresponsible hands, nuclear age metaphor"
+        source: "symbols_meanings"
+      - id: "digital_tribal_mentality"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Prophetically predicted social media mob dynamics, online factions, digital isolation patterns seen in contemporary youth"
+        source: "youth_digital"
+      - id: "civilization_fragility"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Social structures more fragile than they appear - conch shell breaking symbolizes complete collapse of democratic order"
+        source: "reality_wisdom"
+      - id: "scapegoat_mechanism"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "René Girard's scapegoat theory - creating external enemy (beast) to consolidate power and justify violence"
+        source: "symbols_meanings"
+      - id: "loss_innocence_violence"
+        type: "FACT"
+        credibility: 0.90
+        content: "Ralph's final tears 'for the end of innocence, darkness of man's heart' - violent awakening to human capacity for evil"
+        source: "culture_impact"
+      - id: "fear_political_tool"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Beast manipulation parallels contemporary misinformation and fear-mongering tactics used by authoritarian leaders"
+        source: "reality_wisdom"
+
+    localized:
+      en:
+        cultural_impact: "Subversion of British imperial mythology, challenges The Coral Island optimism about civilizing mission"
+        key_editions: ["Peter Brook 1963 film", "BBC upcoming adaptation", "academic study guides"]
+        reception_notes: "Nobel Prize recognition, required reading status across English-speaking world"
+        educational_status: "Canonical work in UK/US curricula"
+        local_themes: ["Colonial discourse critique", "Class system analysis"]
+      pl:
+        cultural_impact: "First Polish theatrical adaptation 2023, 'Włatcy móch' parody phenomenon showing cultural penetration"
+        key_editions: ["PIW 1967 translation by Wacław Niepokólczycki"]
+        reception_notes: "Not mandatory reading but culturally significant"
+        educational_status: "Supplementary reading, analytic focus"
+        local_themes: ["Post-totalitarian resonance", "Democratic transition parallels"]
+      de:
+        cultural_impact: "Resonance with German Romantic tradition and philosophical discourse"
+        key_editions: ["Academic Reclam editions", "Scholarly interpretations"]
+        reception_notes: "Strong university presence in literature programs"
+        educational_status: "Advanced literature courses"
+        local_themes: ["Philosophical anthropology", "Psychoanalytic readings"]
+      fr:
+        cultural_impact: "Integration with existentialist tradition, intellectual discourse"
+        key_editions: ["Gallimard and other literary publishers"]
+        reception_notes: "Academic and philosophical engagement"
+        educational_status: "Literature and philosophy curricula"
+        local_themes: ["Existentialist human condition", "Rousseau dialogue"]
+      es:
+        cultural_impact: "Post-colonial reading, Latin American dystopian influence"
+        key_editions: ["Multiple Spanish publishers across regions"]
+        reception_notes: "Strong presence in university literature programs"
+        educational_status: "Comparative literature courses"
+        local_themes: ["Colonial criticism", "Authoritarian regime parallels"]
+      pt:
+        cultural_impact: "Brazil/Portugal literary circles, dystopian tradition"
+        key_editions: ["Portuguese and Brazilian publisher versions"]
+        reception_notes: "Academic study in lusophone contexts"
+        educational_status: "Literature and social studies programs"
+        local_themes: ["Colonial history reflection", "Social inequality critique"]
+      ja:
+        cultural_impact: "Connection to manga/anime dystopian traditions"
+        key_editions: ["Japanese translations", "academic editions"]
+        reception_notes: "Popular in educational and literary contexts"
+        educational_status: "Comparative literature, English studies"
+        local_themes: ["Collective vs individual identity", "Social harmony disruption"]
+      ko:
+        cultural_impact: "Resonance with hierarchical social critique"
+        key_editions: ["Korean translations", "study materials"]
+        reception_notes: "Academic interest, social commentary focus"
+        educational_status: "English literature, social studies"
+        local_themes: ["Hierarchical power structures", "Social conformity pressure"]
+      hi:
+        cultural_impact: "Post-colonial perspective, social commentary tradition"
+        key_editions: ["Hindi translations", "educational materials"]
+        reception_notes: "Limited but growing academic interest"
+        educational_status: "Comparative literature, English studies"
+        local_themes: ["Post-colonial power dynamics", "Social caste parallels"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "island_investigation"
+          lead: "host_a"
+          description: "What really happened when those British schoolboys crashed on the tropical island? Let's reconstruct the scene."
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "democracy_downfall"
+          lead: "host_b"
+          description: "I was there when Ralph first blew that conch shell. The sound echoed across the lagoon like hope itself."
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "beast_emerges"
+          lead: "host_a"
+          description: "Tell me about this 'beast' - was it real or was something else at work here?"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "death_on_island"
+          lead: "host_b"
+          description: "The night Simon died... it was during the storm. We were all dancing, and then..."
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "rescue_revelation"
+          lead: "host_a"
+          description: "So when that naval officer found you, what did he see? What had you become?"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter piecing together the events of 'Lord of the Flies'. Ask probing questions about what really happened on that island. Dig into the psychology behind the boys' descent into savagery. Focus on: the breakdown of civilization, the manipulation through fear of the 'beast', the symbolic meaning of the conch shell, and the tragic deaths of Simon and Piggy. Your role is to uncover the truth behind Golding's allegory about human nature."
+        host_b: "You are {female_name}, an eyewitness who lived through the events of 'Lord of the Flies'. Describe the scenes vividly - the tropical paradise that became a nightmare, the painted faces of Jack's hunters, the ritual dances that turned deadly. Share the emotional impact of watching civilization crumble, the terror of being hunted like animals, and the overwhelming relief when the naval officer appeared. Bring the narrative to life through visceral, emotional storytelling."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "psychological horror", "bullying themes"]
+    educational_elements: ["Allegorical literature analysis", "Human psychology and group dynamics", "British post-war social commentary", "Symbolism in literature"]
+    production_notes:
+      intro_style: "dramatic investigative setup"
+      transitions: "subtle tension-building bridges"
+      outro_style: "contemplative reflection"
+
+  overall_confidence: 0.84

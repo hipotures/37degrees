@@ -1,193 +1,193 @@
-# Badania Historyczne: "Opowieść wigilijna" (A Christmas Carol) - Charles Dickens (1843)
+# Historical Research: "A Christmas Carol" - Charles Dickens (1843)
 
-## Okoliczności Powstania Książki
+## Circumstances of Book Creation
 
-**FAKT**: Dickens napisał "A Christmas Carol" w zaledwie 6 tygodni (październik-listopad 1843), pracując w "białym upale" twórczym i płacząc podczas pisania.
+**FACT**: Dickens wrote "A Christmas Carol" in just 6 weeks (October-November 1843), working in a "white heat" of creativity and crying while writing.
 
-**FAKT**: Powód był desperacko finansowy - jego żona Catherine była w ciąży z piątym dzieckiem, sprzedaż "Martin Chuzzlewit" spadała, a wydawcy Chapman & Hall groźili obcięciem pensji o £50 miesięcznie.
+**FACT**: The reason was desperately financial - his wife Catherine was pregnant with their fifth child, sales of "Martin Chuzzlewit" were falling, and publishers Chapman & Hall threatened to cut his salary by £50 monthly.
 
-**FAKT**: Dickens chodził po londyńskich ulicach 15-20 mil każdej nocy podczas pisania, wymyślając historię w głębokich wędrówkach po ciemnych ulicach.
+**FACT**: Dickens walked through London streets 15-20 miles every night while writing, inventing the story during deep walks through dark streets.
 
-**FAKT**: Pierwotnie planował napisać pamflet polityczny "An Appeal to the People of England, on behalf of the Poor Man's Child", ale zmienił zdanie na rzecz narracji świątecznej.
+**FACT**: He originally planned to write a political pamphlet "An Appeal to the People of England, on behalf of the Poor Man's Child", but changed his mind in favor of a Christmas narrative.
 
-**PLOTKA**: Dickens "płakał i śmiał się, i znów płakał" pisząc opowieść, co opisał w swoich listach.
+**RUMOR**: Dickens "wept and laughed, and wept again" while writing the story, as he described in his letters.
 
-## Inspiracje Autora - Prawdziwe Wydarzenia i Ludzie
+## Author's Inspirations - Real Events and People
 
-**FAKT**: Inspiracją była wizyta w kopalni cyny w Kornwalii w 1843 roku, gdzie widział dzieci pracujące w strasznych warunkach.
+**FACT**: The inspiration came from a visit to a tin mine in Cornwall in 1843, where he saw children working in terrible conditions.
 
-**FAKT**: Kluczowa inspiracja przyszła podczas wizyty w Field Lane Ragged School w Londynie - szkole dla "półgłodnych, analfabetycznych dzieci ulicy".
+**FACT**: A key inspiration came during a visit to Field Lane Ragged School in London - a school for "half-starved, illiterate street children".
 
-**FAKT**: Dickens przeczytał Second Report of the Children's Employment Commission - raporty z wywiadów z dziećmi szczegółowo opisujące ich pracę po 16 godzin dziennie, 6 dni w tygodniu.
+**FACT**: Dickens read the Second Report of the Children's Employment Commission - reports with detailed interviews of children describing their work of 16 hours a day, 6 days a week.
 
-**FAKT**: Postać Tiny'ego Tima została zainspirowana niepełnosprawnym siostrzeńcem Dickensa - Henrym, którego odwiedził w Manchesterze w październiku 1843.
+**FACT**: The character of Tiny Tim was inspired by Dickens' disabled nephew - Henry, whom he visited in Manchester in October 1843.
 
-**FAKT**: Podróż do Manchesteru 5 października 1843, gdzie przemawiał w Manchester Athenaeum razem z Richardem Cobdenem i Benjaminem Disraelim, była momentem przełomowym dla pomysłu na książkę.
+**FACT**: The trip to Manchester on October 5, 1843, where he spoke at Manchester Athenaeum alongside Richard Cobden and Benjamin Disraeli, was a turning point for the book idea.
 
-**FAKT**: Washington Irving i jego "The Sketch Book of Geoffrey Crayon" (1819-20) z esejami o staroanglielskich tradycjach świątecznych wpłynął na Dickensa.
+**FACT**: Washington Irving and his "The Sketch Book of Geoffrey Crayon" (1819-20) with essays about old English Christmas traditions influenced Dickens.
 
-**FAKT**: Dickens jednocześnie pisał "A Christmas Carol" i kolejną część "Martin Chuzzlewit", co opisywał jako "całkiem ciasną robotę".
+**FACT**: Dickens simultaneously wrote "A Christmas Carol" and the next installment of "Martin Chuzzlewit", which he described as "pretty close work".
 
-## Historia Publikacji
+## Publication History
 
-**FAKT**: Pierwsze wydanie ukazało się 19 grudnia 1843, oprawione w czerwone płótno ze złoconymi brzegami stron, ukończone zaledwie 2 dni przed publikacją.
+**FACT**: The first edition was published on December 19, 1843, bound in red cloth with gilt-edged pages, completed just 2 days before publication.
 
-**FAKT**: Cena wynosiła 5 szylingów (równowartość £31 w 2023 roku), co było luksusowym kosztem.
+**FACT**: The price was 5 shillings (equivalent to £31 in 2023), which was a luxury cost.
 
-**FAKT**: Pierwsze 6,000 egzemplarzy wyprzedało się do Wigilii, kolejne 9,000 egzemplarzy sprzedano do końca 1844 roku.
+**FACT**: The first 6,000 copies sold out by Christmas Eve, with another 9,000 copies sold by the end of 1844.
 
-**FAKT**: Do końca 1844 roku wydano 13 edycji, sprzedając łącznie 15,000 kopii w pierwszym roku.
+**FACT**: By the end of 1844, 13 editions were published, selling a total of 15,000 copies in the first year.
 
-**FAKT**: Dickens osobiście finansował druk po konfliktach z wydawcami Chapman & Hall, ale zamiast oczekiwanych £1,000 zysku otrzymał tylko £230.
+**FACT**: Dickens personally financed the printing after conflicts with publishers Chapman & Hall, but instead of the expected £1,000 profit he received only £230.
 
-**FAKT**: Wysokie koszty produkcji (pierwsza i jedyna książka Dickensa z kolorowymi ilustracjami) zrujnowały zyski.
+**FACT**: High production costs (Dickens' first and only book with colored illustrations) ruined the profits.
 
-**FAKT**: Pierwsze wydanie miało być z zielonymi wyklejkami, ale wyszły w "nudnym kolorze oliwkowym", więc zastąpiono je żółtymi.
+**FACT**: The first edition was supposed to have green endpapers, but they came out in a "dull olive color", so they were replaced with yellow ones.
 
-## Pierwsze Reakcje i Odbiór
+## First Reactions and Reception
 
-**FAKT**: Thackeray nazwał książkę "narodowym dobrodziejstwem".
+**FACT**: Thackeray called the book a "national benefit".
 
-**FAKT**: Wiktorianie nazywali ją "nową ewangelią", a czytanie lub oglądanie stało się świętym rytuałem.
+**FACT**: Victorians called it "a new gospel", and reading or watching it became a sacred ritual.
 
-**FAKT**: Prawie wszystkie recenzje krytyków były "niemal jednogłośnie życzliwe".
+**FACT**: Nearly all critical reviews were "almost unanimously favorable".
 
-**FAKT**: 32-letni Mark Twain nie był fanem, recenzując książkę jako "nie mającą serca. Bez uczuć - to tylko błyszczące mrozowisko".
+**FACT**: 32-year-old Mark Twain was not a fan, reviewing the book as "having no heart. Without feelings - it's just a glittering frost".
 
-**FAKT**: W styczniu 1844 roku opowieść została nielegalnie skopiowana, Dickens pozwał piratów, ale oni zbankrutowali, redukując jeszcze bardziej jego zyski o £700 kosztów sądowych.
+**FACT**: In January 1844, the story was illegally copied, Dickens sued the pirates, but they went bankrupt, reducing his profits even further by £700 in legal costs.
 
-**FAKT**: W ciągu dwóch tygodni od publikacji wolumeny były sprzedawane na ulicach Nowego Jorku za pensa.
+**FACT**: Within two weeks of publication, volumes were being sold on the streets of New York for pennies.
 
-## Biografia Autora w Kontekście Książki
+## Author's Biography in Book Context
 
-**FAKT**: Dickens w 1843 roku miał 31 lat, był żonaty z Catherine, miał czworo dzieci i spodziewał się piątego.
+**FACT**: Dickens in 1843 was 31 years old, married to Catherine, had four children and was expecting a fifth.
 
-**FAKT**: Jego ojciec także był obciążeniem finansowym, co pogłębiało problemy ekonomiczne pisarza.
+**FACT**: His father was also a financial burden, deepening the writer's economic problems.
 
-**FAKT**: Dickens był już uznanym autorem ("Pickwick Papers", "Oliver Twist"), ale przechodził przez kryzys twórczy i finansowy.
+**FACT**: Dickens was already a recognized author ("Pickwick Papers", "Oliver Twist"), but was going through a creative and financial crisis.
 
-**FAKT**: Pisarz żył w długach i potrzebował szybkiego sukcesu, liczył na £1,000 zysku z książki świątecznej.
+**FACT**: The writer lived in debt and needed quick success, counting on £1,000 profit from the Christmas book.
 
-**FAKT**: Dickens był głęboko poruszony społecznie - przed napisaniem książki działał aktywnie na rzecz reform edukacyjnych i praw dzieci.
+**FACT**: Dickens was deeply socially moved - before writing the book he worked actively for educational reforms and children's rights.
 
-**PLOTKA**: Dickens miał 13-letnią tajną miłość z aktorką Ellen Ternan, która trwała aż do jego śmierci w 1870 roku.
+**RUMOR**: Dickens had a 13-year secret love affair with actress Ellen Ternan, which lasted until his death in 1870.
 
-## Anegdoty z Procesu Pisania
+## Anecdotes from the Writing Process
 
-**FAKT**: Dickens początkowo planował pamflet, a skończył z 30,000-słowną opowieścią napisaną w 6 tygodni.
+**FACT**: Dickens initially planned a pamphlet, and ended up with a 30,000-word story written in 6 weeks.
 
-**FAKT**: Pisarz spacerował po Londynie 15-20 mil każdej nocy, "gdy wszyscy trzeźwi ludzie poszli spać", wymyślając kolejne sceny.
+**FACT**: The writer walked around London 15-20 miles every night, "when all sober people had gone to bed", inventing new scenes.
 
-**FAKT**: Scena z Duchem Przeszłych Świąt została napisana w jedną noc w domu przy Devonshire Terrace.
+**FACT**: The scene with the Ghost of Christmas Past was written in one night at his home on Devonshire Terrace.
 
-**FAKT**: Dickens osobiście nadzorował każdy szczegół produkcji książki, od koloru okładki po jakość papieru.
+**FACT**: Dickens personally supervised every detail of the book's production, from cover color to paper quality.
 
-**PLOTKA**: Dickens twierdził, że postacie "przemawiały" do niego podczas nocnych spacerów i że "widział" ducha Jacoba Marley.
+**RUMOR**: Dickens claimed that the characters "spoke" to him during night walks and that he "saw" Jacob Marley's ghost.
 
-## Liczby, Statystyki, Rekordy
+## Numbers, Statistics, Records
 
-**FAKT**: A Christmas Carol ma ponad 272 adaptacje filmowe i telewizyjne (stan na 2019).
+**FACT**: A Christmas Carol has over 272 film and television adaptations (as of 2019).
 
-**FAKT**: Philip Bolton w "Dickens Dramatized" wymienia 357 adaptacji między 1844 a 1987 rokiem.
+**FACT**: Philip Bolton in "Dickens Dramatized" lists 357 adaptations between 1844 and 1987.
 
-**FAKT**: Pierwsza adaptacja filmowa powstała w 1901 roku - "Scrooge; or Marley's Ghost" autorstwa Waltera R. Bootha.
+**FACT**: The first film adaptation was made in 1901 - "Scrooge; or Marley's Ghost" by Walter R. Booth.
 
-**FAKT**: W erze kina niemego powstało co najmniej 12 wersji filmowych opowieści.
+**FACT**: In the silent film era, at least 12 film versions of the story were made.
 
-**FAKT**: Dickens osobiście czytał skróconą wersję opowieści 127 razy w publicznych występach do 1870 roku (roku śmierci).
+**FACT**: Dickens personally read an abridged version of the story 127 times in public performances until 1870 (the year of his death).
 
-**FAKT**: Książka została przetłumaczona na setki języków na całym świecie.
+**FACT**: The book has been translated into hundreds of languages worldwide.
 
-**FAKT**: W USA sprzedano ponad 2 miliony egzemplarzy w ciągu stu lat po pierwszej publikacji.
+**FACT**: Over 2 million copies were sold in the USA within a hundred years of first publication.
 
-**FAKT**: Opowieść nigdy nie została wycofana z druku od 1843 roku.
+**FACT**: The story has never been out of print since 1843.
 
-**FAKT**: W pierwszym roku Dickens otrzymał tylko £744 zysku zamiast oczekiwanych £1,000.
+**FACT**: In the first year, Dickens received only £744 profit instead of the expected £1,000.
 
-**FAKT**: Koszty sądowe przeciwko piratom wyniosły £700, podczas gdy zysk z pierwszego nakładu to tylko £230.
+**FACT**: Legal costs against pirates amounted to £700, while profit from the first edition was only £230.
 
-## Ukryte Inspiracje i Połączenia
+## Hidden Inspirations and Connections
 
-**FAKT**: Postać Scrooge'a została częściowo zainspirowana przez Thomasa Roberta Malthusa i jego teorię o "nadwyżce populacji".
+**FACT**: The character of Scrooge was partly inspired by Thomas Robert Malthus and his theory of "surplus population".
 
-**FAKT**: Ignorance i Want - dwie postacie dzieci pokazywane przez Ducha Teraźniejszych Świąt - reprezentowały największe zagrożenia społeczne według Dickensa.
+**FACT**: Ignorance and Want - two child figures shown by the Ghost of Christmas Present - represented the greatest social threats according to Dickens.
 
-**FAKT**: Łańcuchy Jacoba Marley symbolizowały ciężar życia bez współczucia i były metaforą społecznej refleksji.
+**FACT**: Jacob Marley's chains symbolized the burden of life without compassion and were a metaphor for social reflection.
 
-**FAKT**: Indyk jako główne danie świąteczne upowszechnił się po publikacji książki - wcześniej jedzono gęsi.
+**FACT**: Turkey as the main Christmas dish became popular after the book's publication - previously geese were eaten.
 
-**FAKT**: Pozdrowienie "Merry Christmas" zostało spopularyzowane dzięki opowieści Dickensa.
+**FACT**: The greeting "Merry Christmas" was popularized thanks to Dickens' story.
 
-**FAKT**: Dickens wprowadził ideę miejskiego świętowania Bożego Narodzenia - wcześniej było to głównie wiejskie święto.
+**FACT**: Dickens introduced the idea of urban Christmas celebration - previously it was mainly a rural holiday.
 
-## Wpływ na Kulturę i Tradycje
+## Impact on Culture and Traditions
 
-**FAKT**: Dickens zmienił fokus Bożego Narodzenia z miesiąca ucztowania na święto dawania i dobroczynności.
+**FACT**: Dickens changed the focus of Christmas from a month of feasting to a holiday of giving and charity.
 
-**FAKT**: Po publikacji książki natychmiast wzrosły darowizny na cele charytatywne w społeczeństwie wiktoriańskim.
+**FACT**: After the book's publication, charitable donations immediately increased in Victorian society.
 
-**FAKT**: Opowieść pomogła ustalić, że Boże Narodzenie może być celebrowane w miastach, mimo rosnącej industrializacji.
+**FACT**: The story helped establish that Christmas could be celebrated in cities, despite growing industrialization.
 
-**FAKT**: Śnieżne wiktoriańskie miasteczka stały się powszechnymi dekoracjami świątecznymi dzięki wizjom Dickensa.
+**FACT**: Snowy Victorian towns became common Christmas decorations thanks to Dickens' visions.
 
-**FAKT**: Książka wpłynęła na tradycję rodzinnych spotkań i świątecznych gier.
+**FACT**: The book influenced the tradition of family gatherings and Christmas games.
 
-**PLOTKA**: Niektórzy twierdzą, że Dickens "wymyślił" nowoczesne Boże Narodzenie, choć to przesada - raczej je zrewitalizował.
+**RUMOR**: Some claim that Dickens "invented" modern Christmas, though this is an exaggeration - he rather revitalized it.
 
-## Problemy Prawne i Piraci
+## Legal Problems and Pirates
 
-**FAKT**: Peter Parley's Illuminated Library wydał "skondensowaną" edycję pt. "A Christmas Ghost Story" za jednego pensa już dwa tygodnie po oryginale.
+**FACT**: Peter Parley's Illuminated Library published a "condensed" edition titled "A Christmas Ghost Story" for one penny just two weeks after the original.
 
-**FAKT**: 8 stycznia 1844 Dickens złożył pozew o nakaz sądowy, wygrał 10 stycznia, ale firma zbankrutowała.
+**FACT**: On January 8, 1844, Dickens filed for an injunction, won on January 10, but the company went bankrupt.
 
-**FAKT**: Amerykańscy wydawcy bezkarnie piracili dzieła Dickensa - nie było ochrony praw autorskich.
+**FACT**: American publishers freely pirated Dickens' works - there was no copyright protection.
 
-**FAKT**: Pierwsze wzajemne międzynarodowe zabezpieczenia praw autorskich w USA wprowadzono dopiero w 1891 roku.
+**FACT**: The first reciprocal international copyright protections in the USA were introduced only in 1891.
 
-**FAKT**: Dickens w 1867 powrócił do Ameryki z tourami czytelniczymi, aby odzyskać utracone pieniądze.
+**FACT**: Dickens returned to America in 1867 with reading tours to recover lost money.
 
-**FAKT**: Jego ostatnie publiczne czytanie A Christmas Carol odbyło się 15 marca 1870 w St James's Hall w Londynie - kilka miesięcy przed śmiercią.
+**FACT**: His last public reading of A Christmas Carol took place on March 15, 1870, at St James's Hall in London - a few months before his death.
 
-## Ilustracje Johna Leecha
+## John Leech's Illustrations
 
-**FAKT**: George Cruikshank przedstawił Dickensowi karykaturzystę Johna Leecha 24 października 1843.
+**FACT**: George Cruikshank introduced caricaturist John Leech to Dickens on October 24, 1843.
 
-**FAKT**: Leech stworzył 4 kolorowane akwaforty i 4 czarno-białe drzeworyty - pierwszą i jedyną współpracę Dickensa z kolorowymi ilustracjami.
+**FACT**: Leech created 4 colored etchings and 4 black-and-white woodcuts - Dickens' first and only collaboration with colored illustrations.
 
-**FAKT**: Szczególnie ilustracje "Duch Marleya" i "Bal u pana Fezzywiga" odbiły się szerokim echem w wyobraźni czytelników.
+**FACT**: Particularly the illustrations "Marley's Ghost" and "Mr Fezziwig's Ball" resonated widely in readers' imagination.
 
-**FAKT**: Dickens osobiście nadzorował proces kolorowania ilustracji, co znacznie podniosło koszty produkcji.
+**FACT**: Dickens personally supervised the coloring process of the illustrations, which significantly increased production costs.
 
-## Społeczny Kontekst i Reformy
+## Social Context and Reforms
 
-**FAKT**: Książka powstała w okresie rewolucji przemysłowej, gdy rodziny wiejskie masowo przenosiły się do miast.
+**FACT**: The book was created during the Industrial Revolution, when rural families were moving to cities en masse.
 
-**FAKT**: Dickens był bardzo zaangażowany w sprawy opieki nad dziećmi - to była główna motywacja napisania książki.
+**FACT**: Dickens was deeply involved in child welfare issues - this was the main motivation for writing the book.
 
-**FAKT**: Opowieść była próbą zmiany wiktoriańskiego stosunku do ubogich i wdrożenia wartości rodzinnych.
+**FACT**: The story was an attempt to change Victorian attitudes toward the poor and implement family values.
 
-**FAKT**: Dickens obawiał się, że ludzie całkowicie stracą Boże Narodzenie jako święto w wyniku industrializacji.
+**FACT**: Dickens feared that people would completely lose Christmas as a holiday due to industrialization.
 
-**FAKT**: Książka natychmiast wpłynęła na sumienia społeczeństwa i spowodowała przewartościowanie traktowania ubogich.
+**FACT**: The book immediately affected society's conscience and caused a reevaluation of treatment of the poor.
 
-**PLOTKA**: Mówi się, że niektórzy wiktoriańscy pracodawcy po przeczytaniu książki podnieśli płace swoim pracownikom na Boże Narodzenie.
+**RUMOR**: It is said that some Victorian employers raised their workers' wages for Christmas after reading the book.
 
-## Ciekawostki Liczbowe
+## Numerical Curiosities
 
-**FAKT**: Pierwsza publiczna lektura w Birmingham Town Hall w 1853 - Dickens zarezerwował ćwiartka biletów za ćwierć ceny dla klasy robotniczej.
+**FACT**: The first public reading at Birmingham Town Hall in 1853 - Dickens reserved a quarter of tickets at quarter price for the working class.
 
-**FAKT**: Między 1849 a 1870 Dickens wykonał 127 publicznych lektur opowieści.
+**FACT**: Between 1849 and 1870, Dickens performed 127 public readings of the story.
 
-**FAKT**: Jego ostatnie 12 występów odbyło się między 11 stycznia a 15 marca 1870.
+**FACT**: His last 12 performances took place between January 11 and March 15, 1870.
 
-**FAKT**: Książka miała 30,000 słów napisanych w 6 tygodni - średnio 5,000 słów tygodniowo.
+**FACT**: The book had 30,000 words written in 6 weeks - an average of 5,000 words per week.
 
-**FAKT**: Dickens otrzymywał £200 miesięcznie od Chapman & Hall, grożono mu obcięciem do £150.
+**FACT**: Dickens received £200 monthly from Chapman & Hall, threatened with a cut to £150.
 
-**FAKT**: Cena pierwszego wydania (5 szylingów) równała się dziennemu zarobkowi robotnika w 1843 roku.
+**FACT**: The price of the first edition (5 shillings) equaled a worker's daily wage in 1843.
 
-**PLOTKA**: Podobno Dickens przeczytał "A Christmas Carol" głośno swojej rodzinie w Wigilię 1843, zanim książka trafiła do sklepów.
+**RUMOR**: Reportedly, Dickens read "A Christmas Carol" aloud to his family on Christmas Eve 1843, before the book hit the stores.
 
 ---
 
-**PODSUMOWANIE BADAŃ**: Zebrano ponad 50 potwierdzonych faktów i kilka fascynujących plotek dotyczących powstania "Opowieści wigilijnej". Historia ta pokazuje desperację finansową pisarza przekształconą w arcydzieło literatury, które zrewolucjonizowało sposób świętowania Bożego Narodzenia na całym świecie. Dickens stworzył nie tylko opowieść, ale cały kulturowy fenomen, który trwa do dziś.
+**RESEARCH SUMMARY**: Over 50 confirmed facts and several fascinating rumors about the creation of "A Christmas Carol" have been gathered. This story shows a writer's financial desperation transformed into a literary masterpiece that revolutionized the way Christmas is celebrated worldwide. Dickens created not just a story, but an entire cultural phenomenon that continues to this day.

@@ -1,174 +1,174 @@
-# Lokalny Kontekst Kulturowy: "Człowiek z Wysokiego Zamku" w Polsce
+# Local Cultural Context: "The Man in the High Castle" in Poland
 
-## Informacje podstawowe
-- **Tytuł oryginalny**: "The Man in the High Castle" (1962)  
-- **Tytuł polski**: "Człowiek z Wysokiego Zamku"
-- **Autor**: Philip K. Dick
-- **Nagroda**: Hugo Award 1963
-- **Pierwsze wydanie w Polsce**: 1981, Wydawnictwo "Czytelnik"
-
----
-
-## Historia Publikacji w Polsce
-
-### 1. Pierwsze wydanie i kontekst historyczny
-- **1981** - Spółdzielnia Wydawnicza "Czytelnik", seria "Z kosmonautą"
-- **Tłumaczenie**: Lech Jęczmyk (używane we wszystkich późniejszych wydaniach)
-- **Kontekst**: Wydanie nastąpiło 19 lat po amerykańskiej premierze, w trudnych czasach cenzury PRL
-- **Znaczenie**: Było "fantastycznym świętem i zwiastunem przełomu" - nałożyło się na festiwal Solidarności i Nobel dla Miłosza
-
-### 2. Późniejsze wydania
-- **1991** - Wydawnictwo Editions Spotkania
-- **2006, 2011, 2020, 2023, 2025** - Dom Wydawniczy Rebis (główny wydawca dzieł Dicka w Polsce)
-- **1981** - Wydawnictwo Żyrowa
-- Rebis wydał także inne dzieła Dicka: Ubik, Blade Runner, Valis, Trzy stygmaty Palmera Eldritcha
+## Basic Information
+- **Original Title**: "The Man in the High Castle" (1962)
+- **Polish Title**: "Człowiek z Wysokiego Zamku"
+- **Author**: Philip K. Dick
+- **Award**: Hugo Award 1963
+- **First Polish Edition**: 1981, "Czytelnik" Publishing House
 
 ---
 
-## Polscy Tłumacze i Interpretacje
+## Publication History in Poland
 
-### Lech Jęczmyk - główny tłumacz
-- Jedyny tłumacz polskiego wydania od 1981 roku
-- Jego tłumaczenie pozostaje standardem dla wszystkich wydań
-- Konsekwentne używanie tytułu "Człowiek z Wysokiego Zamku"
+### 1. First Edition and Historical Context
+- **1981** - "Czytelnik" Publishing Cooperative, "Z kosmonautą" series
+- **Translation**: Lech Jęczmyk (used in all subsequent editions)
+- **Context**: Published 19 years after American premiere, during difficult times of PRL censorship
+- **Significance**: It was a "fantastic celebration and herald of breakthrough" - coincided with Solidarity festival and Nobel Prize for Miłosz
 
-### Maciej Parowski - krytyk i redaktor
-- Długoletni redaktor naczelny "Fantastyki" (1992-2003)
-- Autor przedmowy do polskiego wydania
-- **Cytat z przedmowy**: *"Dicka interesowało to, co się wyprawia z duszami. Toteż odwracając w tej książce znane wszystkim losy wojny, pokazał historię jako udrękę, pułapkę, niezrozumiały spektakl wprawiający w przerażenie"*
-- Pamiętał trudne czasy lat 80., gdy cenzura nie sprzyjała wizji Dicka
-
----
-
-## Kontekst Edukacyjny w Polsce
-
-### 1. Status w edukacji
-- Występuje na listach lektur szkolnych dla szkół podstawowych i średnich
-- Dostępna w księgarniach w sekcjach "lektury szkolne"
-- Uznawana za dostępną dla czytelników nieznających typowej fantastyki naukowej
-
-### 2. Podejście pedagogiczne
-- Przedstawiana jako przykład historii alternatywnej
-- Użyteczna w nauczaniu o II wojnie światowej i jej konsekwencjach
-- Wprowadza uczniów do literatury science fiction
-
-### 3. Wydania szkolne
-- Wydawnictwo Rebis produkuje wydania o wysokiej jakości z ilustracjami Wojciecha Siudmaka
-- Dostępne w formatach tradycyjnych i e-book
+### 2. Later Editions
+- **1991** - Editions Spotkania Publishing House
+- **2006, 2011, 2020, 2023, 2025** - Rebis Publishing House (main publisher of Dick's works in Poland)
+- **1981** - Żyrowa Publishing House
+- Rebis also published other Dick works: Ubik, Blade Runner, Valis, The Three Stigmata of Palmer Eldritch
 
 ---
 
-## Polskie Interpretacje i Recepcja Kulturowa
+## Polish Translators and Interpretations
 
-### 1. Perspektywa historyczna
-- **Szczególna wrażliwość** na temat okupacji niemieckiej w Polsce
-- Pytanie recenzenta: *"Bardzo jestem ciekaw, co by Dick napisał o rządach Niemców w Polsce..."*
-- **Kontekst książki**: "Europa i Afryka zostały podbite przez Rzeszę, a Rosjanie (i inni Słowianie) zepchnięci za Kaukaz"
+### Lech Jęczmyk - Main Translator
+- Only translator of Polish edition since 1981
+- His translation remains the standard for all editions
+- Consistent use of title "Człowiek z Wysokiego Zamku"
 
-### 2. Interpretacje krytyczne
-- **"To nie science fiction, ale political-fiction"** - polska perspektywa na gatunek
-- Widziana jako **polityczna refleksja** nad historią i losem narodów
-- Połączenie "literatury głównonurtowej" z fantastyką
-
-### 3. I-Ching i lata 80.
-- Książka **"zapoczątkowała modę na wróżenie z Księgi Przemian"** w Polsce lat 80.
-- Szczególny rezonans z faktem, że Dick pisał powieść, radząc się I-Ching
-- Księga Przemian zyskała popularność dzięki tłumaczeniom Richarda Wilhelma i Oskara Sobańskiego
+### Maciej Parowski - Critic and Editor
+- Long-time editor-in-chief of "Fantastyka" magazine (1992-2003)
+- Author of preface to Polish edition
+- **Quote from preface**: *"Dick was interested in what happens to souls. Thus, by reversing the familiar course of war in this book, he showed history as torment, trap, incomprehensible spectacle inspiring terror"*
+- Remembered difficult times of the 80s when censorship was unfavorable to Dick's vision
 
 ---
 
-## Adaptacje i Kontekst Medialny
+## Educational Context in Poland
 
-### 1. Serial Amazon Prime Video (2015-2019)
-- **Dostępny w Polsce** na Amazon Prime Video od listopada 2019
-- **Polska recepcja**: "Ogląda się to nieźle, klimat jest wyrazisty. Chociaż scenariusz jest dziurawy jak szwajcarski ser"
-- **Międzynarodowe uznanie**: IGN 9.2/10, chwalony przez The Guardian i Entertainment Weekly
+### 1. Status in Education
+- Appears on reading lists for elementary and secondary schools
+- Available in bookstores in "school readings" sections
+- Recognized as accessible to readers unfamiliar with typical science fiction
 
-### 2. Produkcja serialu
-- Zaangażowanie Ridleya Scotta i córki Dicka docenione przez polskich krytyków
-- Serial składał się z czterech sezonów i był najpopularniejszym oryginalnym serialem Amazon
+### 2. Pedagogical Approach
+- Presented as example of alternate history
+- Useful in teaching about World War II and its consequences
+- Introduces students to science fiction literature
 
----
-
-## Kulturowe Różnice w Interpretacji
-
-### 1. Percepcja alternatywnej historii
-- **Polskie doświadczenie okupacji** nadaje książce dodatkowy wymiar dramatyczny
-- Specyficzna wrażliwość na temat podziału Europy i losów Słowian
-- **Zrozumienie kontekstu**: Polacy mają osobiste, historyczne odniesienia do niemieckiej okupacji
-
-### 2. Polityczny wymiar
-- Książka czytana w kontekście **PRL i cenzury** (wydanie w 1981)
-- **Historia jako udręka i pułapka** - szczególnie rezonujące w polskim kontekście
-- Interpretacja jako komentarz do **totalitaryzmu i podziału świata**
+### 3. School Editions
+- Rebis Publishing produces high-quality editions with illustrations by Wojciech Siudmak
+- Available in traditional and e-book formats
 
 ---
 
-## Ciekawostki i Lokalne Nawiązania
+## Polish Interpretations and Cultural Reception
 
-### 1. Dick vs. Lem - skandal z FBI
-- **1974** - Philip K. Dick napisał donos do FBI przeciwko Stanisławowi Lemowi
-- **Oskarżenia**: Lem to "komitet komunistyczny" działający pod fałszywym nazwiskiem
-- **Dowody** Dicka: różnorodność stylów Lema i jego szerokie oczytanie
-- **Konsekwencje**: Lem w 1976 został pozbawiony honorowego członkostwa w SFWA
-- **Tło**: Dick cierpiał na uzależnienie od narkotyków i prawdopodobnie schizofrenię
+### 1. Historical Perspective
+- **Special sensitivity** to German occupation in Poland
+- Reviewer's question: *"I'm very curious what Dick would write about German rule in Poland..."*
+- **Book context**: "Europe and Africa were conquered by the Reich, and Russians (and other Slavs) pushed beyond the Caucasus"
 
-### 2. Lem jako krytyk amerykańskiej SF
-- **1970** - "Fantastyka i futurologia" zawierała krytykę amerykańskiej fantastyki
-- Lem krytykował zaniedbywanie kwestii naukowych i niski poziom intelektualny
-- **Konflikty finansowe**: Problem z wypłatą honorarium za "Ubik" (1972) przez Wydawnictwo Literackie
+### 2. Critical Interpretations
+- **"This is not science fiction, but political-fiction"** - Polish perspective on genre
+- Seen as **political reflection** on history and fate of nations
+- Combination of "mainstream literature" with fantasy
 
-### 3. Kontekst wydawniczy PRL
-- **Problem walutowy**: Tylko PWN, PIW i Czytelnik mogły płacić w walutach obcych
-- Dick musiałby przyjechać do Polski i wydać honorarium w złotówkach na miejscu
-
----
-
-## Fan Community i Specyfika Polska
-
-### 1. Społeczność czytelników
-- **Lubimyczytac.pl**: Aktywne dyskusje o książce i jej interpretacjach
-- **Recenzje online**: Mieszane opinie - od entuzjazmu po rozczarowanie
-- **Cytaty popularne**: Fragmenty o historii jako "udręce i pułapce"
-
-### 2. Akademickie zainteresowanie
-- **Badania nad science fiction**: Książka jako przykład alternatywnej historii
-- **Studia kulturowe**: Analiza recepcji w kontekście polskiego doświadczenia historycznego
-- **Porównania literackie**: Zestawienia z twórczością Lema i innych pisarzy SF
+### 3. I-Ching and the 1980s
+- Book **"initiated the fashion for divination with the Book of Changes"** in 1980s Poland
+- Special resonance with fact that Dick wrote novel consulting I-Ching
+- Book of Changes gained popularity through translations by Richard Wilhelm and Oskar Sobański
 
 ---
 
-## Problemy Tłumaczeniowe
+## Adaptations and Media Context
 
-### 1. Terminologia kulturowa
-- **Adaptacja nazw**: Przełożenie realiów amerykańskich na polskie
-- **Kontekst historyczny**: Przekład w kontekście polskiego doświadczenia II wojny światowej
-- **Konsystencja**: Jęczmyk utrzymał spójność terminologii przez wszystkie wydania
+### 1. Amazon Prime Video Series (2015-2019)
+- **Available in Poland** on Amazon Prime Video since November 2019
+- **Polish reception**: "It watches well, the atmosphere is distinct. Although the script is full of holes like Swiss cheese"
+- **International recognition**: IGN 9.2/10, praised by The Guardian and Entertainment Weekly
 
-### 2. Wyzwania językowe
-- **I-Ching**: Przekład jako "Księga Przemian" - tradycyjna nazwa w Polsce
-- **Realizm magiczny**: Balansowanie między fantastyką a realizmem politycznym
-- **Dialogi**: Adaptacja amerykańskich idiomów do polskiej rzeczywistości
-
----
-
-## Znaczenie dla Polskiej Kultury
-
-### 1. Wpływ na literaturę fantastyczną
-- **Rozwój gatunku**: Jeden z kluczowych tekstów wprowadzających alternatywną historię
-- **Wzorzec narracyjny**: Wpływ na polskich autorów science fiction
-- **Krytyka historyczna**: Model dla refleksji nad polską historią
-
-### 2. Kontekst społeczno-polityczny
-- **Lata 80.**: Książka jako komentarz do podziału świata na bloki
-- **Transformacja**: Reinterpretacja po 1989 roku w kontekście wolności
-- **Współczesność**: Aktualna refleksja nad populizmem i autorytaryzmem
-
-### 3. Dziedzictwo kulturowe
-- **Trwała popularność**: Regularne wznowienia przez 40+ lat
-- **Wpływ medialny**: Serial Amazon jako odnowienie zainteresowania
-- **Edukacyjna wartość**: Stała pozycja w kanonie lektur szkolnych
+### 2. Series Production
+- Involvement of Ridley Scott and Dick's daughter appreciated by Polish critics
+- Series consisted of four seasons and was Amazon's most popular original series
 
 ---
 
-*Badanie przeprowadzone w ramach projektu 37degrees - kontekst kulturowy literatury światowej dla polskich czytelników.*
+## Cultural Differences in Interpretation
+
+### 1. Perception of Alternate History
+- **Polish experience of occupation** gives book additional dramatic dimension
+- Specific sensitivity about division of Europe and fate of Slavs
+- **Understanding context**: Poles have personal, historical references to German occupation
+
+### 2. Political Dimension
+- Book read in context of **PRL and censorship** (1981 edition)
+- **History as torment and trap** - particularly resonant in Polish context
+- Interpretation as commentary on **totalitarianism and division of world**
+
+---
+
+## Curiosities and Local References
+
+### 1. Dick vs. Lem - FBI Scandal
+- **1974** - Philip K. Dick wrote report to FBI against Stanisław Lem
+- **Accusations**: Lem is "communist committee" operating under false name
+- **Dick's evidence**: diversity of Lem's styles and his broad erudition
+- **Consequences**: Lem in 1976 was stripped of honorary SFWA membership
+- **Background**: Dick suffered from drug addiction and probably schizophrenia
+
+### 2. Lem as Critic of American SF
+- **1970** - "Fantasy and Futurology" contained criticism of American fantasy
+- Lem criticized neglect of scientific issues and low intellectual level
+- **Financial conflicts**: Problem with payment of royalties for "Ubik" (1972) by Literackie Publishing House
+
+### 3. PRL Publishing Context
+- **Currency problem**: Only PWN, PIW and Czytelnik could pay in foreign currencies
+- Dick would have to come to Poland and spend royalties in zloty on site
+
+---
+
+## Fan Community and Polish Specificity
+
+### 1. Reader Community
+- **Lubimyczytac.pl**: Active discussions about book and its interpretations
+- **Online reviews**: Mixed opinions - from enthusiasm to disappointment
+- **Popular quotes**: Fragments about history as "torment and trap"
+
+### 2. Academic Interest
+- **Science fiction research**: Book as example of alternate history
+- **Cultural studies**: Analysis of reception in context of Polish historical experience
+- **Literary comparisons**: Comparisons with works of Lem and other SF writers
+
+---
+
+## Translation Problems
+
+### 1. Cultural Terminology
+- **Name adaptation**: Translation of American realities to Polish
+- **Historical context**: Translation in context of Polish World War II experience
+- **Consistency**: Jęczmyk maintained terminology consistency through all editions
+
+### 2. Linguistic Challenges
+- **I-Ching**: Translation as "Księga Przemian" - traditional name in Poland
+- **Magical realism**: Balancing between fantasy and political realism
+- **Dialogues**: Adaptation of American idioms to Polish reality
+
+---
+
+## Significance for Polish Culture
+
+### 1. Impact on Fantasy Literature
+- **Genre development**: One of key texts introducing alternate history
+- **Narrative pattern**: Influence on Polish science fiction authors
+- **Historical criticism**: Model for reflection on Polish history
+
+### 2. Socio-political Context
+- **1980s**: Book as commentary on world division into blocs
+- **Transformation**: Reinterpretation after 1989 in context of freedom
+- **Contemporary**: Current reflection on populism and authoritarianism
+
+### 3. Cultural Heritage
+- **Lasting popularity**: Regular reprints for 40+ years
+- **Media influence**: Amazon series as renewal of interest
+- **Educational value**: Permanent position in school reading canon
+
+---
+
+*Research conducted as part of the 37degrees project - cultural context of world literature for Polish readers.*

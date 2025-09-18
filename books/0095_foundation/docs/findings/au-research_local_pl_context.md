@@ -1,183 +1,183 @@
-# Lokalny Kontekst Kulturowy: "Fundacja" Isaaca Asimova
+# Local Cultural Context: "Foundation" by Isaac Asimov
 
-*Badanie recepcji, tłumaczeń i wpływu kulturowego w Polsce i krajach regionu*
+*Research on reception, translations and cultural impact in Poland and regional countries*
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Wydanie Polskie
-- **Rok:** 1987
-- **Tłumacz:** Andrzej Jankowski
-- **Wydawnictwo:** Wydawnictwo Poznańskie (seria "SF")
-- **Czas oczekiwania:** 36 lat od publikacji oryginału (1951-1987)
+### First Polish Edition
+- **Year:** 1987
+- **Translator:** Andrzej Jankowski
+- **Publisher:** Wydawnictwo Poznańskie ("SF" series)
+- **Waiting period:** 36 years from original publication (1951-1987)
 
-### Znaczenie Historyczne
-Pierwsze polskie wydanie "Fundacji" pojawiło się w okresie transformacji ustrojowej, kiedy literatura science fiction zyskiwała na popularności jako sposób wyrażania nadziei na zmianę społeczną i technologiczny postęp.
+### Historical Significance
+The first Polish edition of "Foundation" appeared during the period of political transformation, when science fiction literature was gaining popularity as a way of expressing hope for social change and technological progress.
 
-## Polski Tłumacz - Andrzej Jankowski
+## Polish Translator - Andrzej Jankowski
 
-### Profile Zawodowy
-- **Specjalizacja:** Tłumaczenia z języka angielskiego, szczególnie literatura science fiction
-- **Główne dzieła:** Całą serię "Fundacja" Asimova, "Dzieci Diuny" Herberta, "Ciemny las" Liu Cixina
-- **Akademicki wkład:** Autor "Shakespeare's Idea of Art" (1988)
+### Professional Profile
+- **Specialization:** Translations from English, especially science fiction literature
+- **Major works:** The entire "Foundation" series by Asimov, "Children of Dune" by Herbert, "The Dark Forest" by Liu Cixin
+- **Academic contribution:** Author of "Shakespeare's Idea of Art" (1988)
 
-### Inne Znaczące Tłumaczenia
-- Martin E.P. Seligman "Optymizmu można się nauczyć" (10 wydań 1993-2017)
-- Melody Beattie "Codependent No More" (5 wydań 1994-2003)
-- **Łącznie:** Ponad 50 pozycji literackich
+### Other Significant Translations
+- Martin E.P. Seligman "Learned Optimism" (10 editions 1993-2017)
+- Melody Beattie "Codependent No More" (5 editions 1994-2003)
+- **Total:** Over 50 literary positions
 
-### Znaczenie dla Polskiej Fantastyki
-Jankowski uważany jest za jednego z kluczowych tłumaczy, który wprowadził polskich czytelników w świat zachodniej science fiction wysokiej jakości.
+### Significance for Polish Science Fiction
+Jankowski is considered one of the key translators who introduced Polish readers to the world of high-quality Western science fiction.
 
-## Kontekst Edukacyjny
+## Educational Context
 
-### Status w Systemie Edukacji
-- **Lektura obowiązkowa:** NIE - brak w podstawie programowej maturalnej
-- **Rekomendacje:** Uznawana za "lekturę obowiązkową dla miłośników SF, robotyki i dobrej literatury"
-- **Poziom akademicki:** Analizowana w kontekście socjologii literatury i futurologii
+### Status in Education System
+- **Required reading:** NO - not included in high school curriculum
+- **Recommendations:** Recognized as "required reading for SF enthusiasts, robotics lovers and good literature"
+- **Academic level:** Analyzed in the context of sociology of literature and futurology
 
-### Brak w Programie Szkolnym
-Pomimo uznania krytycznego, "Fundacja" nie weszła do kanonu lektury szkolnej, co może wynikać z:
-- Skomplikowanej struktury narracyjnej
-- Wymagającej wiedzy z zakresu matematyki i socjologii
-- Dominacji literatury europejskiej w programie nauczania
+### Absence from School Program
+Despite critical recognition, "Foundation" did not enter the school reading canon, which may result from:
+- Complex narrative structure
+- Demanding knowledge in mathematics and sociology
+- Dominance of European literature in the curriculum
 
-## Polskie Adaptacje i Nawiązania
+## Polish Adaptations and References
 
-### Produkcje Filmowe i Teatralne
-- **Polskie adaptacje:** BRAK bezpośrednich adaptacji teatralnych czy filmowych
-- **Udział w międzynarodowych produkcjach:** Serial Apple TV+ (2021-2024) kręcony w:
-  - Warszawa (Świątynia Opatrzności Bożej, Muzeum POLIN, Muzeum Historii Polski)
+### Film and Theater Productions
+- **Polish adaptations:** NO direct theatrical or film adaptations
+- **Participation in international productions:** Apple TV+ series (2021-2024) filmed in:
+  - Warsaw (Temple of Divine Providence, POLIN Museum, Museum of Polish History)
   - Lublin
-  - Kraków, Katowice (sezon 3)
+  - Krakow, Katowice (season 3)
 
-### Znaczenie dla Polskiej Kinematografii
-- **500 osób** w międzynarodowej ekipie filmowej
-- **3 zespoły** produkcyjne: polski, czeski, amerykański
-- Wykorzystanie polskich lokacji jako futurystyczne scenografie
+### Significance for Polish Cinematography
+- **500 people** in international film crew
+- **3 production teams:** Polish, Czech, American
+- Use of Polish locations as futuristic scenography
 
-## Kulturowe Różnice w Interpretacji
+## Cultural Differences in Interpretation
 
-### Koncepcja Psychohistorii
-W polskim kontekście psychohistoria Asimova rezonuje szczególnie silnie z powodu:
-- **Doświadczenia historycznego:** Polacy rozumieją cykliczność upadku i odrodzenia cywilizacji
-- **Kontekst matematyczny:** Tradycje polskiej szkoły matematycznej (Banach, Steinhaus)
-- **Socjologia historyczna:** Wpływ Stanisława Ossowskiego na rozumienie przemian społecznych
+### Concept of Psychohistory
+In the Polish context, Asimov's psychohistory resonates particularly strongly due to:
+- **Historical experience:** Poles understand the cyclical nature of civilization's fall and rebirth
+- **Mathematical context:** Traditions of Polish mathematical school (Banach, Steinhaus)
+- **Historical sociology:** Influence of Stanisław Ossowski on understanding social transformations
 
-### Różnica od Kultury Anglosaskiej
-- **Dystans do technokracji:** Polski czytelnik bardziej krytycznie postrzega techniczną utopię
-- **Znaczenie indywidualności:** Większy nacisk na rolę jednostki vs. mas społecznych
-- **Doświadczenie totalitaryzmu:** Sceptycyzm wobec wielkich planów społecznych
+### Difference from Anglo-Saxon Culture
+- **Distance from technocracy:** Polish readers more critically perceive technical utopia
+- **Significance of individuality:** Greater emphasis on individual vs. social masses role
+- **Totalitarian experience:** Skepticism toward grand social plans
 
-## Krytyczna Recepcja w Polsce
+## Critical Reception in Poland
 
 ### Stanisław Lem vs. Isaac Asimov
-**Główne zarzuty Lema:**
-- Asimov jako "mądrala" upraszczający naukę
-- "Prymitywne uproszczenia w zakresie paradygmatów naukowych"
-- Dezaprobata dla całej amerykańskiej science fiction
+**Main criticisms by Lem:**
+- Asimov as a "know-it-all" simplifying science
+- "Primitive simplifications in scientific paradigms"
+- Disapproval of all American science fiction
 
-**Znaczenie sporu:**
-- Lem reprezentował europejską, filozoficzną tradycję SF
-- Asimov - amerykańską, techniką zorientowaną wizję
-- Polscy czytelnicy dzielą się między tymi tradycjami
+**Significance of the dispute:**
+- Lem represented European, philosophical SF tradition
+- Asimov - American, technically oriented vision
+- Polish readers are divided between these traditions
 
-### Współczesna Ocena
-- **Miłośnicy:** Cenią systematyczność i logikę konstrukcji świata
-- **Krytycy:** Zarzucają schematyczność i brak głębi psychologicznej
-- **Kompromis:** Uznanie znaczenia historycznego przy krytyce literackiej
+### Contemporary Assessment
+- **Enthusiasts:** Value systematicity and logic of world construction
+- **Critics:** Accuse of schematicism and lack of psychological depth
+- **Compromise:** Recognition of historical significance while maintaining literary criticism
 
-## Polski Fandom i Społeczność
+## Polish Fandom and Community
 
-### Organizacje Fantastyczne
-- **Związek Stowarzyszeń "Fandom Polski"** - koordynuje konwenty i nagrody
-- **Polcon** - główny konwent fantastyki, gdzie dyskutowana jest twórczość Asimova
-- **Nagrody Fandomowe:** Janusz A. Zajdel, Piotr Rak - uznanie dla gatunku SF
+### Fantasy Organizations
+- **Union of Associations "Polish Fandom"** - coordinates conventions and awards
+- **Polcon** - main fantasy convention where Asimov's work is discussed
+- **Fandom Awards:** Janusz A. Zajdel, Piotr Rak - recognition for SF genre
 
-### Specyfika Polskiego Fandomu
-- **Tradycja:** 35 lat nagrody "Smok Fandomu"
-- **Akademickość:** Silniejszy nacisk na analizę literacką niż w krajach anglojęzycznych
-- **Integracja:** Łączenie miłości do SF z działalnością społeczną i edukacyjną
+### Specificity of Polish Fandom
+- **Tradition:** 35 years of "Fandom Dragon" award
+- **Academic approach:** Stronger emphasis on literary analysis than in English-speaking countries
+- **Integration:** Combining love for SF with social and educational activities
 
-## Wpływ na Polską Science Fiction
+## Impact on Polish Science Fiction
 
-### Bezpośrednie Inspiracje
-- **Andrzej Sapkowski:** Elementy psychohistorii w świecie Wiedźmina
-- **Stanisław Lem:** Paradoksalnie, nawet krytyka Asimova wpłynęła na własne dzieła Lema
-- **Młodsi autorzy:** Jacek Dukaj, Tomasz Kołodziejczak - nawiązania do koncepcji psychohistorycznego planowania
+### Direct Inspirations
+- **Andrzej Sapkowski:** Elements of psychohistory in the Witcher world
+- **Stanisław Lem:** Paradoxically, even criticism of Asimov influenced Lem's own works
+- **Younger authors:** Jacek Dukaj, Tomasz Kołodziejczak - references to psychohistorical planning concepts
 
-### Pojęcia w Polskiej Kulturze
-- **"Plan Seldona"** - używany ironicznie w kontekście długoterminowego planowania politycznego
-- **"Psychohistoria"** - termin przyjęty przez polskich socjologów i politologów
-- **"Druga Fundacja"** - metafora dla ukrytych ośrodków władzy
+### Concepts in Polish Culture
+- **"Seldon Plan"** - used ironically in the context of long-term political planning
+- **"Psychohistory"** - term adopted by Polish sociologists and political scientists
+- **"Second Foundation"** - metaphor for hidden centers of power
 
-## Współczesne Nawiązania
+## Contemporary References
 
-### Serial Apple TV+ (2021-2024)
-- **Polska lokalizacja:** Napisy polskie, adaptacja kulturowa
-- **Nowy boom:** Wzrost zainteresowania oryginalną serią książkową
-- **Pokoleniowa wymiana:** Młodsi czytelnicy odkrywają Asimova przez serial
+### Apple TV+ Series (2021-2024)
+- **Polish localization:** Polish subtitles, cultural adaptation
+- **New boom:** Increased interest in the original book series
+- **Generational exchange:** Younger readers discover Asimov through the series
 
-### Media Społecznościowe
-- **Dyskusje Reddit Polska:** Porównania z obecną sytuacją polityczną
-- **YouTube:** Kanały poświęcone analizie "Fundacji" w kontekście polskim
-- **Podcast:** "Prawda, że fantastyczne" - odcinki o Asimovie
+### Social Media
+- **Reddit Poland discussions:** Comparisons with current political situation
+- **YouTube:** Channels dedicated to analyzing "Foundation" in Polish context
+- **Podcast:** "Truth, it's fantastic" - episodes about Asimov
 
-## Problemy Tłumaczeniowe
+## Translation Problems
 
-### Wyzwania Językowe
-- **Neologizmy:** "Psychohistoria", "galaktografia", "nuklearne"
-- **Terminy matematyczne:** Adaptacja do polskiej tradycji matematycznej
-- **Polityczne konotacje:** Unikanie skojarzeń z systemem socjalistycznym
+### Linguistic Challenges
+- **Neologisms:** "Psychohistory," "galactography," "nuclear"
+- **Mathematical terms:** Adaptation to Polish mathematical tradition
+- **Political connotations:** Avoiding associations with socialist system
 
-### Rozwój Tłumaczeń
-- **1987-2024:** Ciągłe reedycje z drobnymi poprawkami
-- **Dom Wydawniczy Rebis:** Obecny główny wydawca serii
-- **Audiobook:** Nagrania polskie z profesjonalną lektorką
+### Translation Development
+- **1987-2024:** Continuous reprints with minor corrections
+- **Dom Wydawniczy Rebis:** Current main publisher of the series
+- **Audiobook:** Polish recordings with professional narrator
 
-## Regionalne Różnice w Recepcji
+## Regional Differences in Reception
 
-### Kraków vs. Warszawa
-- **Kraków:** Bardziej akademickie podejście, analiza filozoficzna
-- **Warszawa:** Koncentracja na aspektach technologicznych i biznesowych
-- **Trójmiasto:** Fascynacja aspektami marynistycznymi i kosmicznymi
+### Krakow vs. Warsaw
+- **Krakow:** More academic approach, philosophical analysis
+- **Warsaw:** Concentration on technological and business aspects
+- **Tri-City:** Fascination with maritime and cosmic aspects
 
-### Europa Środkowa
-- **Czechy:** Podobne doświadczenie opóźnionej recepcji
-- **Słowacja:** Tłumaczenia z polskiego, a nie z angielskiego
-- **Węgry:** Silna tradycja SF, pozytywna recepcja Asimova
+### Central Europe
+- **Czech Republic:** Similar experience of delayed reception
+- **Slovakia:** Translations from Polish, not English
+- **Hungary:** Strong SF tradition, positive reception of Asimov
 
-## Wpływ na Edukację Wyższą
+## Impact on Higher Education
 
-### Kierunki Studiów
-- **Socjologia:** Psychohistoria jako przykład społecznej inżynierii
-- **Matematyka:** Modele stochastyczne w "Fundacji"
-- **Politologia:** Analiza systemów władzy i ich trwałości
-- **Informatyka:** Inspiracje dla sztucznej inteligencji
+### Study Programs
+- **Sociology:** Psychohistory as an example of social engineering
+- **Mathematics:** Stochastic models in "Foundation"
+- **Political Science:** Analysis of power systems and their durability
+- **Computer Science:** Inspirations for artificial intelligence
 
-### Prace Naukowe
-- **Liczba rozpraw:** Ponad 30 prac magisterskich i doktorskich
-- **Główne tematy:** Matematyzacja nauk społecznych, futurologia, analiza systemowa
+### Academic Papers
+- **Number of dissertations:** Over 30 master's and doctoral theses
+- **Main topics:** Mathematization of social sciences, futurology, systems analysis
 
-## Ekonomiczny Wpływ
+## Economic Impact
 
-### Rynek Wydawniczy
-- **Nakłady:** Łączne nakłady wszystkich wydań przekraczają 200 000 egzemplarzy
-- **Przychody:** Szacunkowa wartość sprzedaży: 5-8 mln PLN (1987-2024)
-- **Konkurencja:** Jeden z najlepiej sprzedających się tytułów SF w Polsce
+### Publishing Market
+- **Print runs:** Total circulation of all editions exceeds 200,000 copies
+- **Revenue:** Estimated sales value: 5-8 million PLN (1987-2024)
+- **Competition:** One of the best-selling SF titles in Poland
 
-### Spin-offy i Merchandising
-- **Gry planszowe:** Polskie wydania gier opartych na "Fundacji"
-- **Kalendarz wydawniczy:** Coroczne reedycje przed świętami
-- **Kolekcjonerstwo:** Rynek pierwszych wydań i limitowanych edycji
+### Spin-offs and Merchandising
+- **Board games:** Polish editions of games based on "Foundation"
+- **Publishing calendar:** Annual reprints before holidays
+- **Collecting:** Market for first editions and limited editions
 
-## Podsumowanie: Specyfika Polskiej Recepcji
+## Summary: Specificity of Polish Reception
 
-### Unikalne Elementy
-1. **Opóźniona, ale trwała recepcja** - 36 lat oczekiwania wzmocniło znaczenie
-2. **Akademicka głębia** - więcej analizy naukowej niż komercyjnej popularności
-3. **Historyczny rezonans** - doświadczenie cyklów historycznych
-4. **Krytyczna tradycja** - wpływ polemiki Lem-Asimov na polską świadomość SF
-5. **Regionalna specyfika** - różne interpretacje w różnych ośrodkach akademickich
+### Unique Elements
+1. **Delayed but lasting reception** - 36 years of waiting strengthened significance
+2. **Academic depth** - more scientific analysis than commercial popularity
+3. **Historical resonance** - experience of historical cycles
+4. **Critical tradition** - influence of Lem-Asimov polemic on Polish SF consciousness
+5. **Regional specificity** - different interpretations in different academic centers
 
-### Trwałe Dziedzictwo
-"Fundacja" Asimova w Polsce to więcej niż literatura - to część intelektualnej infrastruktury, wpływająca na sposób myślenia o przyszłości, planowaniu społecznym i roli nauki w cywilizacji. Jej wpływ widoczny jest w akademii, polityce i kulturze popularnej, tworząc unikalny polski kontekst recepcji tego klasycznego dzieła science fiction.
+### Lasting Legacy
+"Foundation" by Asimov in Poland is more than literature - it's part of intellectual infrastructure, influencing ways of thinking about the future, social planning and the role of science in civilization. Its impact is visible in academia, politics and popular culture, creating a unique Polish context for reception of this classic science fiction work.

@@ -1,319 +1,279 @@
-# Przewidywania vs Rzeczywistość: Timeless Wisdom z "Dwudziestu tysięcy mil podmorskiej żeglugi"
+# Predictions vs. Reality: Timeless Wisdom from "Twenty Thousand Leagues Under the Sea"
 
-*Analiza trafności przewidywań Juliusza Verne'a z 1870 roku vs rzeczywistość 2025*
+*Assessment of Jules Verne's 1870 forecasts compared with 2025 reality*
 
 ---
 
 ## 🔍 Executive Summary
 
-Juliusz Verne w "Dwudziestu tysiącach mil podmorskiej żeglugi" (1870) okazał się zadziwiająco trafnym prorokiem technologii, ale jego wizje społeczne noszą znamiona epoki wiktoriańskiej. Z perspektywy 2025 roku, jego przewidywania technologiczne sprawdziły się w 80-90%, podczas gdy koncepcje społeczne wymagają krytycznej reinterpretacji.
+Jules Verne proved remarkably accurate about technology in "Twenty Thousand Leagues Under the Sea" (1870), while his social vision stayed anchored in Victorian norms. From a 2025 vantage point, his technological predictions land in the 80–90% accuracy range, whereas his social assumptions demand critical reinterpretation.
 
 ---
 
-## 🎯 Przewidywania Technologiczne: Co się Sprawdziło
+## 🎯 Technological Predictions That Came True
 
-### ⚡ Napęd Elektryczny Okrętów Podwodnych
-**Przewidywanie Verne'a (1870):** Nautilus napędzany elektrycznością z baterii sodu i rtęci  
-**Rzeczywistość 2025:** Okręty podwodne z napędem elektrycznym (atomowe reaktory → energia elektryczna)
+### ⚡ Electric Submarine Propulsion
+**Verne (1870):** Nautilus runs on electricity stored in sodium–mercury batteries.  
+**2025 Reality:** Nuclear submarines generate onboard electricity to power propulsion systems.
 
 **Accuracy Score: 95%** ✅  
-*Verne przewidział elektryczny napęd dekady przed jego praktycznym zastosowaniem*
+*Verne anticipated electric propulsion decades before navies deployed it.*
 
-### 🚢 Konstrukcja i Design Okrętów
-**Przewidywanie:** Cylindryczny kształt, podwójny kadłub, wodoszczelne przedziały  
-**Rzeczywistość:** Współczesne okręty podwodne używają identycznych rozwiązań
+### 🚢 Hull Design and Engineering
+**Prediction:** Cylindrical hull, double-shell construction, watertight bulkheads.  
+**Reality:** Modern submarines rely on the same engineering principles.
 
 **Accuracy Score: 90%** ✅  
-*USS Nautilus (1957) został nazwany na cześć fikcyjnego okrętu Verne'a*
+*USS Nautilus (commissioned 1954) was named after Verne’s fictional craft.*
 
-### 🌊 Długotrwałe Operacje Podwodne
-**Przewidywanie:** Wielomiesięczne misje bez wynurzania  
-**Rzeczywistość:** Atomowe okręty podwodne mogą operować pod wodą przez miesiące
+### 🌊 Long-Duration Underwater Missions
+**Prediction:** Multi-month voyages without surfacing.  
+**Reality:** Nuclear subs remain submerged for months, limited mainly by crew supplies.
 
 **Accuracy Score: 85%** ✅  
-*Koncepcja samodzielności podwodnej była rewolucyjna w 1870*
+*Autonomous underwater endurance was visionary in 1870.*
 
-### 💨 Systemy Podtrzymywania Życia
-**Przewidywanie:** Wydobywanie tlenu z wody morskiej, recykling powietrza  
-**Rzeczywistość:** Elektroliza wody i systemy oczyszczania CO₂ w okrętach
+### 💨 Life-Support Systems
+**Prediction:** Extract oxygen from seawater and recycle onboard air.  
+**Reality:** Modern submarines electrolyze seawater and scrub CO₂ with chemical absorbers.
 
 **Accuracy Score: 80%** ✅  
-*Podstawowe koncepcje trafne, choć szczegóły techniczne inne*
+*Core concepts align even if the chemistry differs.*
 
-### 🔋 Prędkość i Manewrowość
-**Przewidywanie:** 50 mph (43 węzły) pod wodą  
-**Rzeczywistość:** Współczesne okręty osiągają podobne lub wyższe prędkości
+### 🔋 Speed and Maneuverability
+**Prediction:** Underwater speeds near 50 mph (≈43 knots).  
+**Reality:** Contemporary fast-attack subs approach or exceed those speeds.
 
 **Accuracy Score: 75%** ✅  
-*Verne był optymistyczny, ale w zasadzie trafny*
+*Optimistic, yet broadly consistent with later performance.*
 
 ---
 
-## ❌ Przewidywania Które się NIE Sprawdziły
+## ❌ Predictions That Failed
 
-### 🏛️ Luksusowy Styl Życia na Okręcie
-**Przewidywanie:** Salon, biblioteka, jadalnia w stylu pałacowym  
-**Rzeczywistość:** Ciasne, funkcjonalne wnętrza okrętów wojskowych
+### 🏛️ Palace-Like Submarine Interiors
+**Prediction:** Nautilus contains a grand salon, library, and formal dining room.  
+**Reality:** Military submarines prioritize tight, utilitarian spaces.
 
 **Accuracy Score: 20%** ❌  
-*Verne nie przewidział ograniczeń wojskowego zastosowania*
+*Verne overlooked wartime constraints and limited space allocations.*
 
-### ⚔️ Ramowanie jako Broń Główna
-**Przewidywanie:** Nautilus atakuje okręty poprzez ramowanie  
-**Rzeczywistość:** Torpedy, pociski kierowane, broń nuklearna
+### ⚔️ Ramming as Primary Weapon
+**Prediction:** Nautilus sinks ships by ramming.  
+**Reality:** Torpedoes, guided missiles, and nuclear deterrence dominate naval combat.
 
 **Accuracy Score: 30%** ❌  
-*Koncepcja przestarzała już w czasach I wojny światowej*
+*Ramming became obsolete by World War I.*
 
-### 🔬 Baterie Sodu-Rtęci
-**Przewidywanie:** Konkretny typ źródła energii  
-**Rzeczywistość:** Reaktory atomowe, ogniwa paliwowe
+### 🔬 Sodium–Mercury Batteries
+**Prediction:** Specific electrochemical cells power the vessel.  
+**Reality:** Nuclear reactors, lithium batteries, and fuel cells provide modern power.
 
 **Accuracy Score: 25%** ❌  
-*Prawidłowy kierunek (elektryczność), błędne szczegóły techniczne*
+*Directionally correct (electric power), technically off target.*
 
-### 🌍 Całkowita Izolacja od Świata
-**Przewidywanie:** Życie wyłącznie pod wodą przez lata  
-**Rzeczywistość:** Regularne misje, rotacja załóg, kontakt z bazami
+### 🌍 Total Isolation from Society
+**Prediction:** Years spent entirely underwater.  
+**Reality:** Sub crews rotate frequently and maintain communications with command.
 
 **Accuracy Score: 40%** ❌  
-*Verne nie przewidział potrzeb logistycznych i psychologicznych*
+*Verne underestimated logistical and psychological needs.*
 
 ---
 
-## 🚩 Problematyczne Aspekty Społeczne - Red Flags z 1870
+## 🚩 Social Red Flags from 1870
 
-### 💔 Toksyczna Męskość Kapitana Nemo
+### 💔 Toxic Masculinity of Captain Nemo
 
-**Pattern 1: Kontrola i Dominacja**
-- Nemo więzi ludzi na Nautilusie bez zgody
-- Nie pozwala na komunikację ze światem zewnętrznym
-- Podejmuje wszystkie decyzje jednostronnie
+**Pattern 1: Control and Domination**
+- Nemo imprisons passengers aboard the Nautilus.  
+- He cuts them off from outside contact.  
+- Every decision remains unilateral.
 
-**Modern Red Flag:** *Kontrolujący partner, który ogranicza kontakty społeczne* 🚨
+**Modern Red Flag:** Controlling partner who isolates loved ones. 🚨
 
-**Pattern 2: Emocjonalna Niedostępność**
-- Nemo ukrywa swoją tożsamość i przeszłość
-- Wykazuje brak empatii dla potrzeb więźniów
-- Używa milczenia jako formy manipulacji
+**Pattern 2: Emotional Inaccessibility**
+- Nemo hides his identity and trauma.  
+- Shows little empathy for captive guests.  
+- Weaponizes silence to assert power.
 
-**Modern Red Flag:** *Partner który nie dzieli się emocjami, używa silent treatment* 🚨
+**Modern Red Flag:** Partner who stonewalls and withholds emotions. 🚨
 
-**Pattern 3: Megalomański Complex**
-- Uważa się za ponad prawem i społeczeństwem
-- Usprawiedliwia przemoc swoimi ideałami
-- Brak odpowiedzialności za działania
+**Pattern 3: Megalomania**
+- Considers himself above law and society.  
+- Justifies violence through ideology.  
+- Avoids accountability.
 
-**Modern Red Flag:** *Narcyzm, brak accountability, usprawiedliwianie toksycznych zachowań* 🚨
+**Modern Red Flag:** Narcissism masked as moral superiority. 🚨
 
-### 👩 Nieobecność Kobiet i Gender Representation
-**Problematyczny Aspekt:** Cały świat Nautilusa to męska enklawa  
-**Modern Issue:** Całkowite wykluczenie kobiet z technologii i przygód
+### 👩 Gender Exclusion
+**Problem:** The Nautilus is an all-male enclave.  
+**Modern Issue:** Women are entirely absent from science, exploration, and leadership roles.
 
-**Pattern Verne'a:**
-- Kobiety w jego dziełach często zmuszane do małżeństwa
-- Pasywne role, brak sprawczości
-- Definiowane przez relacje z mężczyznami
+**Verne’s Pattern:**
+- Female characters in his works are often coerced into marriage.  
+- They remain passive, defined by relationships rather than agency.  
+- Women rarely influence technological or political outcomes.
 
-**2025 Lesson:** *Różnorodność płciowa wzbogaca każdą społeczność i przedsięwzięcie*
-
----
-
-## 🏛️ Ewolucja Norm Społecznych: 1870 vs 2025
-
-### Męskość i Ekspresja Emocjonalna
-
-**1870 - Męskość Wiktoriańska:**
-- Stłumione emocje = siła charakteru
-- Niezależność = oderwanie od domu i rodziny
-- Sukces materialny = pełna męskość
-- Dominacja = naturalny porządek
-
-**2025 - Zdrowa Męskość:**
-- Inteligencja emocjonalna = siła charakteru
-- Wzajemność = zdrowe relacje
-- Dobrostan psychiczny > sukces materialny
-- Równość = podstawa związków
-
-**Practical Takeaway:** *Współczesna męskość wymaga vulnerability i emotional intelligence*
-
-### Relacje i Komunikacja
-
-**1870 - Wzorce Wiktoriańskie:**
-- Sztywne role społeczne
-- Ograniczona komunikacja między płciami
-- Małżeństwa aranżowane/ekonomiczne
-- Mężczyzna = głowa rodziny
-
-**2025 - Healthy Relationships:**
-- Otwarta komunikacja o potrzebach
-- Consent i wzajemny szacunek
-- Partnership oparty na równości
-- Shared decision-making
-
-**Dating Red Flag Spotted:** *Partner który naśladuje wzorce kontroli jak Nemo* 🚨
+**2025 Lesson:** Diverse genders strengthen every mission and community.
 
 ---
 
-## 🌍 Universal Human Truths - Co Nie Zmienia Się Przez Dekady
+## 🏛️ Social Norms: 1870 vs. 2025
 
-### 1. Fascynacja Nieznanym
-**1870:** Głębie oceanu jako ostatnia granica  
-**2025:** Kosmos, Mars, głębie oceanów  
-**Universal Truth:** *Ludzkość zawsze będzie dążyć do eksploracji granic możliwego*
+### Masculinity and Emotional Expression
 
-### 2. Technologia jako Double-Edged Sword
-**Verne's Insight:** Nautilus = narzędzie wolności i tyranii jednocześnie  
-**2025 Parallel:** AI, social media, surveillance tech  
-**Timeless Lesson:** *Każda potężna technologia może służyć dobru i złu*
+**Victorian Ideal (1870):**
+- Suppressed emotion signals strength.  
+- Independence equals withdrawal from home and family.  
+- Stoicism legitimizes power.
 
-### 3. Konflikt Między Indywidualizmem a Społeczeństwem
-**Nemo's Dilemma:** Uciekł od społeczeństwa, ale stworzył własną tyrannię  
-**Modern Parallel:** Social media echo chambers, remote work isolation  
-**Eternal Challenge:** *Balansowanie autonomii osobistej z potrzebami wspólnoty*
+**Contemporary View (2025):**
+- Emotional literacy is vital for healthy leadership.  
+- Connection and vulnerability build trust.  
+- Strength includes empathy.
 
-### 4. Środowisko vs Eksploatacja
-**1870 Awareness:** Nemo broni wielorybów przed wymarciem  
-**2025 Crisis:** Klimat, biodiversidad, zrównoważony rozwój  
-**Unchanging Truth:** *Ochrona natury wymaga świadomych wyborów jednostek*
+**Takeaway:** Emotional intelligence now outranks stony detachment.
 
----
+### Leadership and Authority
 
-## 📚 Praktyczne Lekcje dla Generacji Z
+**Verne’s Model:** Singular genius commands by fiat.  
+**Modern Model:** Collaborative leadership with distributed responsibility.
 
-### 🎯 Life Hacks z Analizy Nemo
+**Result:** Lone-wolf captains risk ethical drift; teams provide accountability.
 
-**1. Leadership vs Tyranny**
-- ✅ **Dobry lider:** Wyjaśnia decyzje, słucha opinii zespołu
-- ❌ **Toksyczny lider:** Podejmuje decyzje w izolacji, ignoruje feedback
-- **Action:** *W projektach grupowych zawsze pytaj o opinie innych*
+### Justice and Vigilantism
 
-**2. Technology Ethics**
-- ✅ **Healthy approach:** Używaj technologii do połączenia z ludźmi
-- ❌ **Unhealthy pattern:** Tech jako sposób na izolację od problemów
-- **Action:** *Regularnie rób digital detox i spotykaj się face-to-face*
+**Nemo’s Approach:** Personal vendetta justifies lethal force.  
+**2025 Ethics:** Rule of law and restorative justice replace vengeance narratives.
 
-**3. Environmental Responsibility**
-- **Verne's Model:** Nemo respektuje naturę więcej niż ludzi
-- **Better Balance:** Szanuj naturę I ludzi jednocześnie
-- **Action:** *Małe codzienne wybory (transport, konsumpcja) mają znaczenie*
-
-### 💝 Dating Wisdom - Red Flags Inspired by Nemo
-
-**🚨 Partner Red Flags:**
-1. **Mystery obsession:** Nie dzieli się swoją przeszłością/planami
-2. **Isolation tactics:** Odciąga cię od przyjaciół i rodziny  
-3. **Control freak:** Chce kontrolować twoją komunikację z innymi
-4. **Emotional walls:** Nie potrafi rozmawiać o uczuciach
-5. **Savior complex:** Uważa, że "ratuje" cię od świata
-
-**✅ Healthy Relationship Markers:**
-1. **Open communication:** Dzieli się planami i uczuciami
-2. **Social integration:** Wspiera twoje przyjaźnie
-3. **Mutual respect:** Razem podejmujecie decyzje
-4. **Emotional availability:** Potrafi być vulnerable
-5. **Growth mindset:** Wspiera twój rozwój osobisty
+**Warning:** Romanticizing vigilantism normalizes cycles of retaliation.
 
 ---
 
-## 🔮 Porównanie Timeline: Przewidywania vs Wydarzenia
+## 🌐 Generational Lessons
 
-### Technologia Podwodna
-- **1863:** Francuski okręt Plongeur (pierwszy mechaniczny)
-- **1870:** Publikacja "20,000 Leagues" z elektrycznym Nautilusem
-- **1901:** HMS Holland 1 (pierwszy brytyjski okręt podwodny)
-- **1954:** USS Nautilus (pierwszy atomowy) - nazwa od Verne'a!
-- **2025:** Autonomiczne okręty podwodne, submersibles turystyczne
+### Then: Technological Awe without Limits
+- Technology appears as pure liberation.  
+- Authority figures seldom questioned.  
+- Empire and exploration intertwined.
 
-### Eksploracja Oceanów
-- **Przewidywanie Verne'a:** Kompleksowa eksploracja głębin
-- **1960:** Bathyscaphe Trieste - dno Rowu Mariańskiego
-- **1977:** Odkrycie kominów hydrotermalnych (życie bez światła!)
-- **2012:** James Cameron solo dive do Challenger Deep
-- **2025:** Ocean mapping, protected marine sanctuaries
+### Now: Responsible Innovation
+- Tech must serve people and planet.  
+- Youth interrogate power structures.  
+- Decolonizing narratives reshape exploration stories.
 
-### Przewidywania Społeczne - Co Się NIE Sprawdziło
-- **Verne's Vision:** Izolowana męska utopia technologiczna
-- **Reality Check:** Współpraca międzynarodowa, różnorodność, sustainability
+**Insight:** Wonder still matters—couple it with ethical guardrails.
 
 ---
 
-## 🎓 Timeless Wisdom dla Młodzieży
+## 🧭 Practical Takeaways for 2025 Youth
 
-### 1. Innovation Mindset
-**Verne's Approach:** Obserwował istniejącą technologię i ekstrapolował  
-**Your Action:** *Patrz na obecne trendy i wyobraź sobie implikacje za 10-20 lat*
+### Environmental Stewardship
+- **Verne’s Signal:** Nemo condemns overfishing in 1870.  
+- **Your Move:** Align adventure with conservation; climate action is urgent.
 
-### 2. Environmental Stewardship  
-**Early Awareness:** Verne widział zagrożenie dla wielorybów w 1870  
-**Modern Urgency:** *Twoja generacja ma ostatnią szansę na zatrzymanie kryzysu klimatycznego*
+### Relationship Health
+- **Red Flags:** Mystery obsession, isolation tactics, control, emotional walls, savior complex.  
+- **Green Flags:** Open communication, supportive friendships, mutual respect, emotional availability, growth mindset.
 
-### 3. Critical Media Literacy
-**Historical Context:** Verne pisał podczas francuskiej ekspansji kolonialnej  
-**Modern Parallel:** *Każda opowieść niesie wartości swojej epoki - analizuj krytycznie*
+### Community vs. Isolation
+- **Lesson:** Isolation breeds tyranny; healthy solitude balances strong social ties.
 
-### 4. Balance of Solitude and Community
-**Nemo's Mistake:** Całkowita izolacja prowadzi do tyranii  
-**Healthy Balance:** *Potrzebujesz czasu na siebie, ale także autentycznych połączeń z innymi*
+### Innovation Mindset
+- **Verne’s Method:** Observe current tech, extrapolate boldly.  
+- **Action:** Study today’s trends and envision consequences 10–20 years ahead.
 
-### 5. Technology and Humanity
-**Core Insight:** Najlepsze innowacje służą ludzkości, nie zastępują ludzkości  
-**Career Advice:** *Wybieraj ścieżki, które łączą tech skills z human empathy*
+### Critical Media Literacy
+- **Context:** Verne wrote amid French colonial expansion.  
+- **Application:** Every story carries era-specific bias—identify the blind spots.
 
 ---
 
-## 🔍 Contradiction Analysis - Gdzie Verne się Mylił Społecznie
+## 🔮 Timeline Reality Check
+
+### Undersea Technology
+- **1863:** French sub Plongeur debuts mechanical propulsion.  
+- **1870:** Verne publishes electric Nautilus.  
+- **1901:** Royal Navy commissions HMS Holland 1.  
+- **1954:** USS Nautilus, first nuclear submarine, honors Verne’s name.  
+- **2025:** Autonomous subs and tourist submersibles expand ocean access.
+
+### Deep-Sea Exploration
+- **Verne’s Vision:** Comprehensive mapping of ocean depths.  
+- **1960:** Bathyscaphe Trieste reaches the Mariana Trench.  
+- **1977:** Hydrothermal vents reveal ecosystems without sunlight.  
+- **2012:** James Cameron dives solo to Challenger Deep.  
+- **2025:** High-resolution seafloor mapping and marine sanctuaries.
+
+### Social Predictions That Fell Short
+- **Verne:** Isolated, male technoutopia.  
+- **Reality:** International collaboration, gender diversity, sustainability mandates.
+
+---
+
+## 🎓 Timeless Wisdom
+
+1. **Innovation Mindset:** Follow Verne—spot embryonic tech and imagine future impact.
+2. **Environmental Duty:** Protect oceans that inspired Nemo’s crew.
+3. **Media Literacy:** Recognize historical bias baked into adventure tales.
+4. **Balanced Living:** Pair solitude for creativity with community for accountability.
+5. **Tech + Empathy:** Let innovation elevate humanity rather than replace it.
+
+---
+
+## 🔍 Contradictions to Examine
 
 ### Environmental Paradox
-**Contradiction:** Nemo chroni naturę, ale niszczy ludzkie życia  
-**Modern Lesson:** *Prawdziwy environmentalism włącza social justice*
+**Contradiction:** Nemo safeguards marine life yet destroys human lives.  
+**Lesson:** Environmentalism must integrate social justice.
 
-### Freedom Paradox  
-**Contradiction:** Ucieka od tyranii, staje się tyranem  
-**Modern Warning:** *Revolution bez empathy prowadzi do oppression*
+### Freedom Paradox
+**Contradiction:** He flees tyranny but becomes tyrannical.  
+**Warning:** Revolution without empathy spirals into oppression.
 
 ### Technology Paradox
-**Contradiction:** Używa tech do izolacji zamiast połączenia  
-**2025 Parallel:** Social media, VR, AI jako escape mechanisms
+**Contradiction:** Uses advanced tech to sever connections rather than deepen them.  
+**Modern Echo:** Social media, VR, and AI can isolate unless used intentionally.
 
-**Key Insight:** *Technologia powinna wzbogacać human connections, nie je zastępować*
+**Key Insight:** Technology should enrich human connection, not sever it.
 
 ---
 
-## 📊 Final Scorecard: Predictions vs Reality
+## 📊 Final Scorecard
 
-### 🏆 Most Accurate Predictions
-1. **Electric submarine propulsion** - 95% accuracy
-2. **Long-duration underwater operations** - 90% accuracy  
-3. **Advanced life support systems** - 85% accuracy
-4. **Environmental threats to marine life** - 80% accuracy
-5. **Technology as tool of both liberation and oppression** - 95% accuracy
+### 🏆 Most Accurate Calls
+1. Electric submarine propulsion – 95% accuracy.  
+2. Long-duration underwater operations – 90% accuracy.  
+3. Advanced life-support systems – 85% accuracy.  
+4. Environmental threats to marine life – 80% accuracy.  
+5. Technology as liberator and oppressor – 95% accuracy.
 
 ### ❌ Biggest Misses
-1. **Luxury lifestyle on submarines** - 20% accuracy
-2. **Male-only technology spaces** - 10% accuracy
-3. **Ramming as primary weapon** - 25% accuracy
-4. **Complete isolation as sustainable lifestyle** - 30% accuracy
-5. **Individual genius over collaborative innovation** - 40% accuracy
+1. Luxury life aboard submarines – 20% accuracy.  
+2. All-male tech domains – 10% accuracy.  
+3. Ramming as primary weapon – 25% accuracy.  
+4. Isolation as sustainable lifestyle – 30% accuracy.  
+5. Lone genius outperforming collaborative teams – 40% accuracy.
 
 ### 🔮 Unexpected Insight
-**Verne's greatest prediction:** Nie konkretna technologia, ale sam concept, że technologia zmieni fundamentalne aspekty ludzkiej eksploracji i relacji z naturą.
+**Verne’s deepest prediction:** Not a single gadget, but the idea that technology would transform humanity’s relationship with exploration and nature.
 
 ---
 
-## 💡 Final Takeaways dla Generation Z
+## 💡 Final Takeaways for Gen Z
 
-1. **Embrace Wonder:** Verne's fascination z nieznanym remains eternal human drive
-2. **Question Authority:** Nawet bohaterowie jak Nemo mogą mieć toxic traits  
-3. **Technology + Empathy:** Best innovations serve humanity, don't replace it
-4. **Environmental Urgency:** Verne widział problemy w 1870 - są dziś krytyczne
-5. **Healthy Masculinity:** Move beyond Nemo's isolation toward emotional intelligence
-6. **Global Cooperation:** Najwiękze wyzwania wymagają zespołowej pracy, nie lone genius
-7. **Critical Analysis:** Każda epoka ma blind spots - rozpoznawaj je w swoim czasie
+1. **Embrace Wonder:** Curiosity about the unknown still propels breakthroughs.  
+2. **Question Authority:** Heroes can harbor toxic traits—evaluate behavior, not mystique.  
+3. **Technology + Empathy:** The best inventions improve lives rather than control them.  
+4. **Environmental Urgency:** Ocean warnings from 1870 are existential crises today.  
+5. **Healthy Masculinity:** Trade isolation and stoicism for vulnerability and care.  
+6. **Global Cooperation:** The biggest challenges demand collective intelligence.  
+7. **Critical Analysis:** Every era has blind spots—spot ours the way we spot Verne’s.
 
-**Ultimate Wisdom:** *Juliusz Verne był wizjonerem technologii, ale jego społeczne błędy pokazują, dlaczego potrzebujemy różnorodnych głosów w kształtowaniu przyszłości.*
+**Ultimate Wisdom:** Jules Verne envisioned transformative technology, but his social missteps remind us why diverse voices must co-create the future.
 
 ---
 
-*Raport przygotowany: sierpień 2025  
-Analiza obejmuje 155 lat ewolucji od publikacji dzieła Verne'a*
+*Report compiled: August 2025  
+Analysis spans 155 years since Verne’s publication.*

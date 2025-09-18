@@ -4,3 +4,174 @@ book_info:
   author: "Jules Verne"
   year: 1864
   genre: "Science fiction,Adventure"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-18T14:30:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 7
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 7
+    total: 62
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "scientific_discovery_obsession"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Professor Lidenbrock represents fanatical scientific passion that risks human lives for knowledge and glory, embodying 19th century tensions between scientific progress and human cost"
+        source: "symbols_meanings"
+      - id: "hollow_earth_conspiracy"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Verne based novel on discredited Humphry Davy theory, inspiring modern conspiracy theories about underground civilizations and government bases"
+        source: "dark_drama"
+      - id: "patriarchal_authority_critique"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Relationship between professor and Axel represents 19th century authoritarian education patterns now recognized as toxic"
+        source: "reality_wisdom"
+      - id: "nature_versus_civilization"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Underground world represents pristine ecosystem challenging Victorian assumptions about human dominance over nature"
+        source: "symbols_meanings"
+      - id: "literary_innovation_impact"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created scientific romance genre, pioneered 36 literary techniques, influenced generations from Doyle to Bradbury"
+        source: "writing_innovation"
+      - id: "translation_scandals"
+        type: "FACT"
+        credibility: 0.95
+        content: "English translations severely abridged and censored, changing character names and removing scientific content for decades"
+        source: "dark_drama"
+      - id: "gaming_culture_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Cave exploration themes resonate with contemporary gaming culture through Deep Rock Galactic and Minecraft cave updates"
+        source: "youth_digital"
+      - id: "psychological_transformation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Axel's descent represents archetypal hero's journey and confrontation with unconscious fears in Jungian interpretation"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western science fiction despite poor early translations that distorted reception for decades"
+        key_editions: ["Penguin Classics Wynne translation", "Oxford World's Classics Butcher edition", "Barnes & Noble Classics"]
+        reception_notes: "Academic recognition as foundational SF text, Disney theme park inspiration, steampunk movement influence"
+        educational_status: "University curriculum staple for SF studies and Victorian literature courses"
+        local_themes: ["Imperial exploration discourse", "Scientific authority critique", "Adventure literature traditions"]
+      pl:
+        cultural_impact: "Remarkably quick translation in 1865, continuous popularity with active Jules Verne Society and academic publications"
+        key_editions: ["JAMAKASZ Biblioteka Andrzeja series", "Zielona Sowa school editions", "Bilingual learning editions"]
+        reception_notes: "Strong academic tradition with 'Prace Verneologiczne' journal, first Polish underground adventure literature inspiration"
+        educational_status: "Popular in STEM education programs, school reading lists, geological museums educational contexts"
+        local_themes: ["Mining heritage connections", "Krakow scientific tradition", "Underground exploration culture"]
+      de:
+        cultural_impact: "Original German setting in Hamburg creates special resonance, strong academic tradition of Verne scholarship"
+        key_editions: ["Reclam Universal-Bibliothek", "Scholarly critical editions", "Illustrated historical editions"]
+        reception_notes: "Philosophical interpretations tradition, psychoanalytic readings, steampunk cultural influence"
+        educational_status: "Classical literature curriculum, philosophy and science history courses"
+        local_themes: ["German Romanticism connections", "Scientific methodology history", "Underground mythology"]
+      fr:
+        cultural_impact: "Original French masterpiece status, extensive critical analysis tradition, cultural heritage significance"
+        key_editions: ["Hetzel original editions", "Bibliothèque Verne critical editions", "Educational annotated versions"]
+        reception_notes: "Considered pinnacle of French scientific romance, influenced literary criticism methodology"
+        educational_status: "French literature curriculum, history of science courses, cultural studies programs"
+        local_themes: ["French scientific positivism", "Colonial exploration critique", "Literary innovation analysis"]
+      es:
+        cultural_impact: "Strong Latin American reception, influenced magical realism movement, educational system integration"
+        key_editions: ["Cátedra Letras Universales", "Alianza Editorial classics", "Educational school editions"]
+        reception_notes: "Connected to Latin American underground mythology, Borgesian literature influences"
+        educational_status: "Spanish literature and world literature courses, scientific methodology history"
+        local_themes: ["Subterranean mythology", "Scientific exploration themes", "Adventure narrative traditions"]
+      pt:
+        cultural_impact: "Significant in Portuguese and Brazilian education, connections to exploration narrative traditions"
+        key_editions: ["Editora Ática classics", "Porto Editora annotated", "Brazilian educational series"]
+        reception_notes: "Maritime exploration culture resonance, scientific education applications"
+        educational_status: "Literature courses, geography and geology education integration"
+        local_themes: ["Exploration tradition heritage", "Scientific methodology", "Adventure education"]
+      ja:
+        cultural_impact: "Influential in Japanese science fiction development, manga and anime adaptations, educational technology integration"
+        key_editions: ["Iwanami Bunko classics", "Kadokawa educational editions", "Manga adaptations"]
+        reception_notes: "Technology and nature relationship resonance, disaster preparedness cultural connections"
+        educational_status: "Science education programs, disaster preparedness education, literary history courses"
+        local_themes: ["Technology-nature balance", "Underground disaster culture", "Scientific exploration"]
+      ko:
+        cultural_impact: "Growing interest in Korean education system, STEM integration programs, webtoon adaptations"
+        key_editions: ["Minumsa World Literature", "Educational publishing series", "Digital learning editions"]
+        reception_notes: "STEM education emphasis, technology integration in teaching"
+        educational_status: "Science education programs, world literature courses, technology integration studies"
+        local_themes: ["Educational technology", "Scientific methodology", "Underground exploration"]
+      hi:
+        cultural_impact: "Significant in Indian English education, science popularization programs, cultural adaptation studies"
+        key_editions: ["Penguin India classics", "Educational institutional editions", "Translation studies editions"]
+        reception_notes: "Science education and English language learning integration, cultural adaptation studies"
+        educational_status: "English literature courses, science education programs, cultural studies"
+        local_themes: ["Science popularization", "Cultural adaptation studies", "Educational methodology"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "scientific_foundations"
+          lead: "host_a"
+          description: "Analysis of Verne's scientific method and 19th century geological theories underlying the narrative"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "literary_innovation"
+          lead: "host_b"
+          description: "Exploration of 36 pioneering narrative techniques and creation of scientific romance genre"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "symbolic_interpretations"
+          lead: "host_a"
+          description: "Academic frameworks: Jungian analysis, postcolonial readings, feminist interpretations"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_phenomenon"
+          lead: "host_b"
+          description: "60+ adaptations analysis, steampunk movement influence, educational applications"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Modern implications for STEM education, gaming culture connections, and scientific methodology"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Journey to the Center of the Earth' with scholarly depth. Discuss Verne's revolutionary scientific romance techniques, the 36 literary innovations he pioneered, and complex symbolic interpretations from Jungian to postcolonial frameworks. Present academic concepts accessibly while maintaining intellectual rigor."
+        host_b: "You are {female_name}, a graduate student in literature. Ask for clarification of academic concepts, request specific examples from the text, connect literary theories to concrete passages, and help make complex analysis accessible to general audiences. Bridge scholarly depth with practical understanding."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["outdated gender stereotypes from 1864", "scientific theories superseded by modern knowledge", "adventure safety warnings"]
+    educational_elements: ["Science fiction genre development", "19th century geological theories", "Literary innovation techniques", "STEM integration through literature", "Cultural studies methodology"]
+    production_notes:
+      intro_style: "scholarly but accessible approach to classic science fiction"
+      transitions: "subtle academic musical bridges between segments"
+      outro_style: "synthesis of literary and scientific significance"
+
+  overall_confidence: 0.88

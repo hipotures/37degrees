@@ -1,209 +1,209 @@
-# Szatańskie wersety - Mroczne skandale i kontrowersje
+# The Satanic Verses - Dark Scandals and Controversies
 
-## Podstawowe informacje
-- **Tytuł**: "Szatańskie wersety" (The Satanic Verses)
-- **Autor**: Salman Rushdie
-- **Rok wydania**: 1988
-- **Status**: Jedna z najbardziej kontrowersyjnych książek w historii literatury
-
----
-
-## FATWA I ŚMIERTELNE GROŹBY
-
-### 1. **FAKT**: Fatwa Ajatollaha Chomeiniego (1989)
-14 lutego 1989 roku irański przywódca duchowy Ajatollah Ruhollah Chomeini wydał fatwę wzywającą wszystkich muzułmanów do zabicia Rushdiego i jego wydawców. Fatwa brzmiała: "autor Szatańskich wersetów [...] wraz z wszystkimi wydawcami świadomymi treści, są skazani na śmierć".
-
-### 2. **FAKT**: Fatwa nie może być odwołana
-Według tradycji szyickiej fatwa nie może być odwołana przez nikogo innego niż osobę, która ją wydała. Ponieważ Chomeini zmarł w 1989 roku, fatwa pozostaje w mocy do dziś.
-
-### 3. **FAKT**: Nagroda za zabójstwo - 3,3 miliona dolarów
-Fundacja 15 Chordad podwyższyła nagrodę za zabicie Rushdiego do 3,3 miliona dolarów w 2012 roku. Każdego roku 14 lutego Iran wysyła Rushdiemu "walentynkę" przypominającą o przysiędze zabicia go.
-
-### 4. **FAKT**: Atak w Nowym Jorku (2022)
-12 sierpnia 2022 roku Rushdie został zaatakowany nożem podczas wykładu w stanie Nowy Jork. Otrzymał cztery rany kłute w brzuch, trzy w szyję, jedną w oko, pierś i udo.
+## Basic Information
+- **Title**: "The Satanic Verses"
+- **Author**: Salman Rushdie
+- **Publication Year**: 1988
+- **Status**: One of the most controversial books in literary history
 
 ---
 
-## OFIARY ŚMIERTELNE ZWIĄZANE Z KSIĄŻKĄ
+## FATWA AND DEATH THREATS
 
-### 5. **FAKT**: Zabójstwo japońskiego tłumacza
-Hitoshi Igarashi, japoński tłumacz książki, został znaleziony dźgany na śmierć w swoim biurze na Uniwersytecie Tsukuba 13 lipca 1991 roku.
+### 1. **FACT**: Ayatollah Khomeini's Fatwa (1989)
+On February 14, 1989, Iranian spiritual leader Ayatollah Ruhollah Khomeini issued a fatwa calling on all Muslims to kill Rushdie and his publishers. The fatwa stated: "the author of The Satanic Verses [...] along with all publishers aware of the content, are sentenced to death."
 
-### 6. **FAKT**: Atak na włoskiego tłumacza
-Ettore Capriolo, włoski tłumacz, został poważnie ranny w wyniku ataku nożownika w swoim domu w Mediolanie 3 lipca 1991 roku.
+### 2. **FACT**: Fatwa Cannot Be Revoked
+According to Shia tradition, a fatwa cannot be revoked by anyone other than the person who issued it. Since Khomeini died in 1989, the fatwa remains in effect to this day.
 
-### 7. **FAKT**: Próba zabójstwa norweskiego wydawcy
-William Nygaard, norweski wydawca książki, został postrzelony trzy razy w plecy 11 października 1993 roku w Oslo. Przeżył, ale spędził miesiące w szpitalu.
+### 3. **FACT**: Bounty for Murder - $3.3 Million
+The 15 Khordad Foundation raised the bounty for killing Rushdie to $3.3 million in 2012. Every year on February 14, Iran sends Rushdie a "valentine" reminding him of the oath to kill him.
 
-### 8. **FAKT**: Ofiary śmiertelne protestów
-12 lutego 1989 roku sześciu ludzi zginęło, a 100 zostało rannych podczas ataku na Amerykańskie Centrum Kulturalne w Islamabadzie. 24 lutego 1989 roku 12 osób zginęło w zamieszках w Bombaju.
-
----
-
-## SKANDALE OSOBISTE RUSHDIEGO
-
-### 9. **ZARZUT**: Pięć małżeństw i seria rozwodów
-Rushdie był żonaty pięć razy, cztery małżeństwa zakończyły się rozwodem. Jeden z jego byłych mężów opisał go jako "złą inwestycję".
-
-### 10. **FAKT**: Afera z Padmą Lakshmi
-Podczas małżeństwa z Elizabeth West (trzecią żoną) Rushdie spotykał się z Padmą Lakshmi od 1999 roku. Zostawił ciężarną trzecią żonę dla Lakshmi.
-
-### 11. **ZARZUT**: Brak empatii dla chorej żony
-Według memoir Padmy Lakshmi, gdy jej endometrioza uniemożliwiała intymność, Rushdie powiedział: "Jak wygodnie dla ciebie" i nazywał ją "złą inwestycją".
-
-### 12. **FAKT**: Cyniczne wypowiedzi o małżeństwie
-Po czwartym rozwodzie Rushdie stwierdził: "Dziewczyny to lubią, szczególnie jeśli nigdy wcześniej nie były zamężne - chodzi o sukienkę. Dziewczyny chcą ślubu, nie małżeństwa."
-
-### 13. **FAKT**: Coroczne frustracje z powodu Nobla
-Według Padmy Lakshmi, każdego roku gdy Rushdie nie otrzymywał Nagrody Nobla, stawał się "ponury i drażliwy", a ona musiała go pocieszać.
+### 4. **FACT**: Attack in New York (2022)
+On August 12, 2022, Rushdie was stabbed during a lecture in New York State. He received four stab wounds to the abdomen, three to the neck, one to the eye, chest, and thigh.
 
 ---
 
-## LITERACKIE WROGOŚCI I KONFLIKTY
+## FATALITIES RELATED TO THE BOOK
 
-### 14. **FAKT**: Wojna z Johnem le Carré
-Konflikt rozpoczął się w 1997 roku, gdy le Carré skrytykował Rushdiego za dołączenie do "kampanii pomówień" przeciwko niemu w 1989 roku. Rushdie nazwał go "ogrodowym krasnoludem".
+### 5. **FACT**: Murder of Japanese Translator
+Hitoshi Igarashi, the Japanese translator of the book, was found stabbed to death in his office at Tsukuba University on July 13, 1991.
 
-### 15. **FAKT**: Spór z Johnem Updikiem
-Gdy Updike skrytykował powieść Rushdiego "Shalimar Clown" w 2006 roku, Rushdie odpowiedział: "Gdzieś w Las Vegas prawdopodobnie jest męska prostytutka o imieniu 'John Updike'."
+### 6. **FACT**: Attack on Italian Translator
+Ettore Capriolo, the Italian translator, was seriously injured in a knife attack at his home in Milan on July 3, 1991.
 
-### 16. **FAKT**: Lista wrogów
-Do wrogów Rushdiego należą: Cat Stevens (którego nazwał "głupim"), Mark Lawson (któremu ukradł taksówkę) i James Wood (którego oskarżył o zmianę recenzji dla amerykańskich "płacodawców").
+### 7. **FACT**: Assassination Attempt on Norwegian Publisher
+William Nygaard, the Norwegian publisher of the book, was shot three times in the back on October 11, 1993, in Oslo. He survived but spent months in the hospital.
 
-### 17. **FAKT**: "Kanye West literatury"
-Rushdie został opisany jako "Kanye West literatury" - nigdy nie zapomina twarzy wrogów i ma nieskończone zasoby złośliwości.
-
----
-
-## MROCZNE INTERPRETACJE KSIĄŻKI
-
-### 18. **TEORIA**: Okultystyczne połączenia
-Tytuł książki odnosi się do apokryficznych wersetów Koranu, które miały być "szatańskim natchnieniem" - sugeruje to głębokie związki z okultyzmem i demonologią islamską.
-
-### 19. **FAKT**: Bluźniercze elementy
-Książka przedstawia postać opartą na Mahomecie jako "Mahound" (średniowieczne określenie diabła) - czarodzieja, maga i fałszywego proroka.
-
-### 20. **TEORIA**: Ukryte znaczenia migracyjne
-Sama kontrowersja może być metaforą "szatańskiego" charakteru migracji - niszczenia tradycyjnych wartości przez wpływy zachodnie.
-
-### 21. **FAKT**: Realizm magiczny jako atak na religię
-Rushdie używa realizmu magicznego do "dekonstrukcji" świętych tekstów, co muzułmanie odbierają jako celowy atak na ich wiarę.
+### 8. **FACT**: Fatalities from Protests
+On February 12, 1989, six people died and 100 were injured during an attack on the American Cultural Center in Islamabad. On February 24, 1989, 12 people died in riots in Bombay.
 
 ---
 
-## RZĄDOWA CENZURA I POLITYKA
+## RUSHDIE'S PERSONAL SCANDALS
 
-### 22. **FAKT**: Pierwsza zakazana w Indiach
-Indie zakazały książki już 9 dni po publikacji w Wielkiej Brytanii, stając się pierwszym krajem, który ją ocenzurował.
+### 9. **ACCUSATION**: Five Marriages and Series of Divorces
+Rushdie has been married five times, with four marriages ending in divorce. One of his former spouses described him as a "bad investment."
 
-### 23. **FAKT**: Zakazana w 14+ krajach
-W ciągu kilku miesięcy książka została zakazana w: Pakistanie, Somalii, Arabii Saudyjskiej, Egipcie, Bangladeszu, Sudanie, Malezji, Indonezji, Katarze, Kenii, Tajlandii, Tanzanii, Singapurze i Wenezueli.
+### 10. **FACT**: Affair with Padma Lakshmi
+While married to Elizabeth West (his third wife), Rushdie was seeing Padma Lakshmi from 1999. He left his pregnant third wife for Lakshmi.
 
-### 24. **FAKT**: Koszt ochrony - 5 milionów funtów rocznie
-Brytyjski rząd wydawał około 5 milionów funtów rocznie na ochronę Rushdiego, co stało się przedmiotem parlamentarnych debat.
+### 11. **ACCUSATION**: Lack of Empathy for Sick Wife
+According to Padma Lakshmi's memoir, when her endometriosis prevented intimacy, Rushdie said: "How convenient for you" and called her a "bad investment."
 
-### 25. **PLOTKA**: Związki z wywiadem brytyjskim
-Niektórzy sugerują, że Rushdie mógł współpracować z brytyjskim wywiadem przed publikacją książki, wiedząc o jej potencjale destabilizacyjnym.
+### 12. **FACT**: Cynical Statements About Marriage
+After his fourth divorce, Rushdie stated: "Girls like that, especially if they've never been married before - it's about the dress. Girls want a wedding, not a marriage."
 
----
-
-## PALENIE KSIĄŻEK I PRZEMOC
-
-### 26. **FAKT**: Pierwsze palenie w Bolton
-2 grudnia 1988 roku 7000 muzułmanów w Bolton zorganizowało pierwszą demonstrację przeciwko książce, paląc ją publicznie.
-
-### 27. **FAKT**: Palenie w Bradford
-14 stycznia 1989 roku spalenie książki w Bradford wywołało skojarzenia z "średniowieczną (i nazistowską) nietolerancją".
-
-### 28. **FAKT**: Bombardowania księgarni
-Pięć brytyjskich księgarni sprzedających powieść zostało zbombardowanych. Również dwie księgarnie w Berkeley w Kalifornii zostały podpalone.
-
-### 29. **FAKT**: Groźby bombowe dla wydawców
-Viking Press w USA otrzymał groźby bombowe i tysiące groźnych listów przed publikacją amerykańskiego wydania.
+### 13. **FACT**: Annual Frustrations with Nobel Prize
+According to Padma Lakshmi, every year when Rushdie didn't receive the Nobel Prize, he became "morose and irritable," and she had to console him.
 
 ---
 
-## PIENIĄDZE I SKANDALE FINANSOWE
+## LITERARY HOSTILITIES AND CONFLICTS
 
-### 30. **ZARZUT**: Próba zysku z fatwy
-Były ochroniarz Rushdie, Ron Evans, twierdził że pisarz próbował finansowo skorzystać z fatwy. Rushdie wygrał proces sądowy, nazywając to "stertą kłamstw".
+### 14. **FACT**: War with John le Carré
+The conflict began in 1997 when le Carré criticized Rushdie for joining the "campaign of slander" against him in 1989. Rushdie called him a "garden gnome."
 
-### 31. **FAKT**: Paradoksalny sukces finansowy
-Pomimo zakazów, kontrowersja doprowadziła do gwałtownego wzrostu sprzedaży na całym świecie, pośrednio zwiększając bogactwo Rushdiego.
+### 15. **FACT**: Dispute with John Updike
+When Updike criticized Rushdie's novel "Shalimar Clown" in 2006, Rushdie responded: "Somewhere in Las Vegas there's probably a male prostitute named 'John Updike'."
 
-### 32. **FAKT**: Majątek 10-20 milionów dolarów
-Szacowana wartość netto Rushdiego wynosi obecnie 10-20 milionów dolarów, w dużej mierze dzięki kontrowersji wokół "Szatańskich wersetów".
+### 16. **FACT**: List of Enemies
+Rushdie's enemies include: Cat Stevens (whom he called "stupid"), Mark Lawson (whose taxi he stole), and James Wood (whom he accused of changing reviews for American "paymasters").
 
----
-
-## PRZEPOWIEDNIE I PRZEWIDYWANIA
-
-### 33. **FAKT**: Przewidział clash of civilizations
-Książka i reakcje na nią przewidziały konflikt między wartościami zachodnimi a islamskimi, który stał się centralnym tematem XXI wieku.
-
-### 34. **FAKT**: Przewidział terroryzm religijny
-Rushdie anticipated the rise of religious extremism i terroryzmu motywowanego religijnie, który zdominował światową politykę po 2001 roku.
-
-### 35. **PLOTKA**: Przewidział własny atak
-Niektórzy twierdzą, że Rushdie podświadomie przewidział swój własny atak w 2022 roku przez liczne referencje do przemocy w swoich późniejszych dziełach.
+### 17. **FACT**: "Kanye West of Literature"
+Rushdie has been described as the "Kanye West of literature" - he never forgets an enemy's face and has infinite reserves of malice.
 
 ---
 
-## DODATKOWE KONTROWERSJE
+## DARK INTERPRETATIONS OF THE BOOK
 
-### 36. **FAKT**: Krytyka własnego kraju
-Najostrzejsze fragmenty książki były skierowane przeciwko Brytanii i rasizmowi w brytyjskim społeczeństwie, nie tylko przeciwko islamowi.
+### 18. **THEORY**: Occultist Connections
+The book's title refers to apocryphal verses of the Quran that were supposedly "satanic inspiration" - suggesting deep connections with occultism and Islamic demonology.
 
-### 37. **ZARZUT**: Plagiat inspiracji
-Niektórzy krytycy twierdzą, że Rushdie "ukradł" koncepcję szatańskich wersetów z wcześniejszych źródeł islamskich bez odpowiedniego przypisania.
+### 19. **FACT**: Blasphemous Elements
+The book presents a character based on Muhammad as "Mahound" (a medieval term for the devil) - a sorcerer, magician, and false prophet.
 
-### 38. **FAKT**: Wpływ na innych pisarzy
-Sprawa Rushdiego stworzyła atmosferę autocenzury wśród pisarzy bojących się podobnej reakcji na kontrowersyjne tematy.
+### 20. **THEORY**: Hidden Migratory Meanings
+The controversy itself may be a metaphor for the "satanic" nature of migration - the destruction of traditional values by Western influences.
 
-### 39. **TEORIA**: Celowa prowokacja
-Niektórzy sugerują, że Rushdie świadomie stworzył kontrowersję dla zwiększenia sprzedaży i sławy, wykorzystując religijną wrażliwość.
-
-### 40. **FAKT**: Globalny precedens cenzury
-Sprawa stworzyła precedens międzynarodowej cenzury religijnej, wpływając na publikację innych kontrowersyjnych dzieł.
+### 21. **FACT**: Magical Realism as Attack on Religion
+Rushdie uses magical realism to "deconstruct" sacred texts, which Muslims perceive as a deliberate attack on their faith.
 
 ---
 
-## PSYCHOLOGICZNE I SPOŁECZNE SKUTKI
+## GOVERNMENT CENSORSHIP AND POLITICS
 
-### 41. **PLOTKA**: Depresja i myśli samobójcze
-Były ochroniarz twierdził, że Rushdie miał myśli samobójcze podczas ukrywania się, choć pisarz zaprzeczył tym zarzutom.
+### 22. **FACT**: First Banned in India
+India banned the book just 9 days after its publication in Britain, becoming the first country to censor it.
 
-### 42. **FAKT**: Izolacja społeczna
-Lata ukrywania się doprowadziły do prawie całkowitej izolacji społecznej Rushdiego, wpływając na jego zdolność tworzenia relacji.
+### 23. **FACT**: Banned in 14+ Countries
+Within months, the book was banned in: Pakistan, Somalia, Saudi Arabia, Egypt, Bangladesh, Sudan, Malaysia, Indonesia, Qatar, Kenya, Thailand, Tanzania, Singapore, and Venezuela.
 
-### 43. **TEORIA**: Zespół messianistyczny
-Niektórzy psychologowie sugerują, że Rushdie rozwinął "syndrom mesjasza" - wiarę, że jest wybranym obrońcą wolności słowa.
+### 24. **FACT**: Protection Costs - £5 Million Annually
+The British government spent about £5 million annually on Rushdie's protection, which became the subject of parliamentary debates.
 
-### 44. **FAKT**: Wpływ na dzieci
-Syn Rushdiego, Zafar, musiał żyć pod fałszywym nazwiskiem i w ukryciu, co wpłynęło na jego psychikę i rozwój.
-
----
-
-## WSPÓŁCZESNE REPERKUSJE
-
-### 45. **FAKT**: Wzór dla współczesnych kontrowersji
-Sprawa Rushdiego stała się szablonem dla podobnych kontrowersji, od karykatur Mahometa po filmy anty-islamskie.
-
-### 46. **TEORIA**: Prorocza wizja cancel culture
-Niektórzy widzą w sprawie Rushdiego wczesny przykład "kultury odwoływania", gdzie społeczność globalnie atakuje jednostki za kontrowersyjne wypowiedzi.
-
-### 47. **FAKT**: Inspiracja dla ekstremistów
-Fatwa Chomeiniego stała się inspiracją dla innych religijnych ekstremistów wzywających do przemocy przeciwko artystom i pisarzom.
-
-### 48. **PLOTKA**: Tajne negocjacje z Iranem
-Przez lata krążyły plotki o tajnych negocjacjach między brytyjskim rządem a Iranem w sprawie odwołania fatwy w zamian za koncesje polityczne.
-
-### 49. **FAKT**: Trwałe piętno
-Pomimo upływu 35 lat, Rushdie wciąż żyje w cieniu fatwy, a jego każde publiczne wystąpienie wymaga środków bezpieczeństwa.
-
-### 50. **TEORIA**: Katalizator islamofobii
-Niektórzy argumentują, że kontrowersja wokół "Szatańskich wersetów" przyczyniła się do wzrostu islamofobii na Zachodzie, tworząc negatywny stereotyp muzułmanów jako niezdolnych do tolerancji.
+### 25. **RUMOR**: Connections with British Intelligence
+Some suggest that Rushdie may have collaborated with British intelligence before the book's publication, knowing its destabilizing potential.
 
 ---
 
-*Dokument sporządzony na podstawie badań publicznych źródeł. Wszystkie informacje oznaczone jako FAKT są potwierdzone dokumentami historycznymi, ZARZUT to udokumentowane oskarżenia, a PLOTKA/TEORIA to niepotwierzone spekulacje krążące w mediach i literaturze.*
+## BOOK BURNINGS AND VIOLENCE
+
+### 26. **FACT**: First Burning in Bolton
+On December 2, 1988, 7,000 Muslims in Bolton organized the first demonstration against the book, burning it publicly.
+
+### 27. **FACT**: Burning in Bradford
+On January 14, 1989, the book burning in Bradford evoked associations with "medieval (and Nazi) intolerance."
+
+### 28. **FACT**: Bookstore Bombings
+Five British bookstores selling the novel were bombed. Two bookstores in Berkeley, California, were also set on fire.
+
+### 29. **FACT**: Bomb Threats to Publishers
+Viking Press in the USA received bomb threats and thousands of threatening letters before publishing the American edition.
+
+---
+
+## MONEY AND FINANCIAL SCANDALS
+
+### 30. **ACCUSATION**: Attempting to Profit from Fatwa
+Rushdie's former bodyguard, Ron Evans, claimed the writer tried to financially benefit from the fatwa. Rushdie won the lawsuit, calling it a "pack of lies."
+
+### 31. **FACT**: Paradoxical Financial Success
+Despite bans, the controversy led to a dramatic increase in worldwide sales, indirectly increasing Rushdie's wealth.
+
+### 32. **FACT**: Net Worth $10-20 Million
+Rushdie's estimated net worth is currently $10-20 million, largely due to the controversy surrounding "The Satanic Verses."
+
+---
+
+## PROPHECIES AND PREDICTIONS
+
+### 33. **FACT**: Predicted Clash of Civilizations
+The book and reactions to it predicted the conflict between Western and Islamic values that became a central theme of the 21st century.
+
+### 34. **FACT**: Predicted Religious Terrorism
+Rushdie anticipated the rise of religious extremism and religiously motivated terrorism that dominated world politics after 2001.
+
+### 35. **RUMOR**: Predicted His Own Attack
+Some claim that Rushdie subconsciously predicted his own 2022 attack through numerous references to violence in his later works.
+
+---
+
+## ADDITIONAL CONTROVERSIES
+
+### 36. **FACT**: Criticism of His Own Country
+The harshest fragments of the book were directed against Britain and racism in British society, not just against Islam.
+
+### 37. **ACCUSATION**: Plagiarism of Inspiration
+Some critics claim that Rushdie "stole" the concept of satanic verses from earlier Islamic sources without proper attribution.
+
+### 38. **FACT**: Impact on Other Writers
+The Rushdie affair created an atmosphere of self-censorship among writers fearing similar reactions to controversial topics.
+
+### 39. **THEORY**: Deliberate Provocation
+Some suggest that Rushdie consciously created controversy to increase sales and fame, exploiting religious sensitivities.
+
+### 40. **FACT**: Global Precedent for Censorship
+The case created a precedent for international religious censorship, affecting the publication of other controversial works.
+
+---
+
+## PSYCHOLOGICAL AND SOCIAL EFFECTS
+
+### 41. **RUMOR**: Depression and Suicidal Thoughts
+A former bodyguard claimed that Rushdie had suicidal thoughts while in hiding, though the writer denied these accusations.
+
+### 42. **FACT**: Social Isolation
+Years of hiding led to almost complete social isolation for Rushdie, affecting his ability to form relationships.
+
+### 43. **THEORY**: Messianic Complex
+Some psychologists suggest that Rushdie developed a "messiah syndrome" - the belief that he is the chosen defender of free speech.
+
+### 44. **FACT**: Impact on Children
+Rushdie's son, Zafar, had to live under a false name and in hiding, which affected his psyche and development.
+
+---
+
+## CONTEMPORARY REPERCUSSIONS
+
+### 45. **FACT**: Template for Contemporary Controversies
+The Rushdie affair became a template for similar controversies, from Muhammad cartoons to anti-Islamic films.
+
+### 46. **THEORY**: Prophetic Vision of Cancel Culture
+Some see the Rushdie affair as an early example of "cancel culture," where a global community attacks individuals for controversial statements.
+
+### 47. **FACT**: Inspiration for Extremists
+Khomeini's fatwa became inspiration for other religious extremists calling for violence against artists and writers.
+
+### 48. **RUMOR**: Secret Negotiations with Iran
+For years, rumors circulated about secret negotiations between the British government and Iran regarding revoking the fatwa in exchange for political concessions.
+
+### 49. **FACT**: Lasting Stigma
+Despite 35 years passing, Rushdie still lives in the shadow of the fatwa, and every public appearance requires security measures.
+
+### 50. **THEORY**: Catalyst for Islamophobia
+Some argue that the "Satanic Verses" controversy contributed to the rise of Islamophobia in the West, creating negative stereotypes of Muslims as incapable of tolerance.
+
+---
+
+*Document prepared based on research of public sources. All information marked as FACT is confirmed by historical documents, ACCUSATION refers to documented allegations, and RUMOR/THEORY refers to unconfirmed speculation circulating in media and literature.*

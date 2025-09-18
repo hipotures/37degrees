@@ -1,264 +1,264 @@
-# Symbolika i ukryte znaczenia w "Wehikule czasu" H.G. Wellsa
+# Symbolism and Hidden Meanings in "The Time Machine" by H.G. Wells
 
-## Wprowadzenie
-"Wehikuł czasu" (1895) H.G. Wellsa to znacznie więcej niż opowieść science fiction o podróżach w czasie. To wielowarstwowe dzieło pełne symboliki, które można interpretować przez pryzmat walki klas, imperializmu, gender studies, psychoanalizy, ekologii i wielu innych perspektyw. Różne kultury i epoki odkrywają w tej noweli inne ukryte znaczenia, co czyni ją jednym z najbardziej uniwersalnych utworów literatury fantastycznonaukowej.
+## Introduction
+"The Time Machine" (1895) by H.G. Wells is much more than a science fiction tale about time travel. It is a multi-layered work full of symbolism that can be interpreted through the lens of class struggle, imperialism, gender studies, psychoanalysis, ecology, and many other perspectives. Different cultures and eras discover different hidden meanings in this novel, making it one of the most universal works of science fiction literature.
 
-## I. GŁÓWNE SYMBOLE I ICH INTERPRETACJE
+## I. MAIN SYMBOLS AND THEIR INTERPRETATIONS
 
-### 1. Wehikuł czasu jako symbol technologicznej dominacji
-**Interpretacja klasyczna**: Maszyna reprezentuje triumf ludzkiej nauki nad naturą i czasem.
+### 1. The Time Machine as a symbol of technological dominance
+**Classical interpretation**: The machine represents the triumph of human science over nature and time.
 
-**Interpretacja postkolonialna**: Wehikuł czasu odzwierciedla technologię kolonialną - lokomotywy i automobil spalinowy, które pozwalały Europejczykom dominować nad koloniami. Europejscy kolonizatorzy w swoich maszynach, podróżując daleko, niemal mieli wrażenie podróżowania przez czas.
+**Postcolonial interpretation**: The Time Machine reflects colonial technology - locomotives and combustion automobiles that allowed Europeans to dominate their colonies. European colonizers in their machines, traveling far, almost had the impression of traveling through time.
 
-**Interpretacja psychoanalityczna**: Maszyna symbolizuje mechanizm eksploracji nieświadomości - podróż przez warstwy psyche, od świadomości do głębokich pokładów umysłu.
+**Psychoanalytic interpretation**: The machine symbolizes the mechanism of exploring the unconscious - a journey through layers of the psyche, from consciousness to deep recesses of the mind.
 
-**Interpretacja feministyczna**: Wehikuł jako symbol męskiej dominacji w nauce - zauważalne jest, że Wells uważał, iż kobiety nie należą do studiów nad podróżami w czasie ani ogólnie do nauki.
+**Feminist interpretation**: The vehicle as a symbol of male dominance in science - it is notable that Wells believed women did not belong in time travel studies or science in general.
 
-### 2. Sfinks jako symbol nierozwiązywalnych problemów społecznych
-**Symbolika wiktoriańska**: W czasach Wellsa "Sfinks" oznaczał typ podziału klasowego, który w "Wehikule czasu" prowadzi do rozłamu Eloi-Morlock. "Sfinks" wskazywał, że problem klas wydawał się nierozwiązywalny dla wielu ludzi XIX wieku.
+### 2. The Sphinx as a symbol of unsolvable social problems
+**Victorian symbolism**: In Wells' time, the "Sphinx" meant a type of class division that in "The Time Machine" leads to the Eloi-Morlock split. The "Sphinx" indicated that the class problem seemed unsolvable to many 19th-century people.
 
-**Interpretacja mitologiczna**: Sfinks jako strażnik tajemnic, który pożera tych, którzy nie potrafią rozwikłać zagadki rzeczywistości społecznej.
+**Mythological interpretation**: The Sphinx as guardian of secrets who devours those who cannot solve the riddle of social reality.
 
-**Interpretacja jungowska**: Sfinks reprezentuje archetyp mądrości i zagadki, symbol konfrontacji z nieświadomością zbiorową.
+**Jungian interpretation**: The Sphinx represents the archetype of wisdom and mystery, a symbol of confrontation with the collective unconscious.
 
-### 3. Eloi i Morlock - najbardziej symboliczny dualizm literatury
+### 3. Eloi and Morlocks - the most symbolic dualism in literature
 
-#### A) Eloi jako symbol
-**Interpretacja marksistowska**: Eloi reprezentują zdegenerowaną klasę wyższą - ludzi, którzy przez lata próżniactwa stracili ducha, inteligencję i sprawność fizyczną ludzkości w rozkwicie.
+#### A) Eloi as symbol
+**Marxist interpretation**: The Eloi represent the degenerate upper class - people who through years of idleness lost the spirit, intelligence, and physical fitness of humanity in its prime.
 
-**Interpretacja feministyczna**: Eloi ucieleśniają cechy kojarzone z kobiecością epoki wiktoriańskiej - są dziecinni, ulegali, pozbawieni ciekawości intelektualnej. Weena potwierdza tradycyjne role płciowe jako postać zależna potrzebująca męskiej ochrony.
+**Feminist interpretation**: The Eloi embody traits associated with Victorian-era femininity - they are childish, submissive, devoid of intellectual curiosity. Weena confirms traditional gender roles as a dependent character needing male protection.
 
-**Interpretacja rasowa**: Eloi jako "szlachetni dzikusi" - piękni, łagodni, ale "prymitywni", co odzwierciedla wiktoriańskie stereotypy o ludach skolonizowanych.
+**Racial interpretation**: Eloi as "noble savages" - beautiful, gentle, but "primitive," reflecting Victorian stereotypes about colonized peoples.
 
-**Interpretacja ekologiczna**: Eloi żyją w bezskażonym raju nad ziemią, ale ich środowisko pozbawione jest komarów, chwastów, grzybów i naturalnego rozkładu - wszystkich ważnych czynników ekosystemów.
+**Ecological interpretation**: The Eloi live in an uncontaminated paradise above ground, but their environment is devoid of mosquitoes, weeds, fungi, and natural decay - all important factors in ecosystems.
 
-#### B) Morlock jako symbol
-**Interpretacja klasowa**: Morlokowie reprezentują klasę robotniczą - silną, znajacą technologię, ale zdeformowaną przez życie w podziemiach industrializacji.
+#### B) Morlocks as symbol
+**Class interpretation**: The Morlocks represent the working class - strong, knowing technology, but deformed by life in the underground of industrialization.
 
-**Interpretacja genderowa**: Podczas gdy Eloi reprezentują kobiecość, Morlokowie ucieleśniają męskość - są silni, potężni i brzydcy w porównaniu z "pięknymi i gracjami" Eloi.
+**Gender interpretation**: While the Eloi represent femininity, the Morlocks embody masculinity - they are strong, powerful, and ugly compared to the "beautiful and graceful" Eloi.
 
-**Interpretacja ekologiczna**: Morlokowie zamieszkują uprzemysłowioną, podziemną pustynię - symbol środowiska zniszczonego przez industrializację.
+**Ecological interpretation**: The Morlocks inhabit an industrialized, underground wasteland - a symbol of environment destroyed by industrialization.
 
-**Interpretacja biblijjna**: Nazwa "Morlock" brzmi podobnie do Molocha, fenickiego boga związanego z ofiarami z dzieci w Biblii.
+**Biblical interpretation**: The name "Morlock" sounds similar to Moloch, the Phoenician god associated with child sacrifice in the Bible.
 
-### 4. Weena jako symbol wiktoriańskiej kobiecości
-**Rola tradicyjna**: Weena ucieleśnia bezradną kobietę potrzebującą ocalenia przez heroicznego mężczyznę. Staje się coraz bardziej zależna od Podróżnika w Czasie.
+### 4. Weena as a symbol of Victorian femininity
+**Traditional role**: Weena embodies the helpless woman needing rescue by a heroic man. She becomes increasingly dependent on the Time Traveler.
 
-**Krytyka społeczna**: Weena może być satyrycznym komentarzem do statusu, do którego zostały sprowadzone kobiety z wyższej klasy w wiktoriańskiej Anglii - całkowicie bezużyteczne.
+**Social criticism**: Weena may be a satirical comment on the status to which upper-class women in Victorian England were reduced - completely useless.
 
-**Symbol infantylizacji**: Jak wszyscy Eloi, Weena jest przedstawiana jako dziecinna, co odzwierciedla wiktoriańskie traktowanie kobiet jako niezdolnych do samodzielności.
+**Symbol of infantilization**: Like all Eloi, Weena is portrayed as childish, reflecting Victorian treatment of women as incapable of independence.
 
-### 5. Kwiaty jako symbol przemijania i piękna
-**Symbolika romantyczna**: Kwiaty, które Weena daje Podróżnikowi w Czasie, reprezentują kruchość piękna i miłości w obliczu czasu.
+### 5. Flowers as symbols of transience and beauty
+**Romantic symbolism**: The flowers that Weena gives to the Time Traveler represent the fragility of beauty and love in the face of time.
 
-**Interpretacja ekologiczna**: Kwiaty jako jedyne zachowane piękno natury w zdegenerowanym świecie przyszłości.
+**Ecological interpretation**: Flowers as the only preserved beauty of nature in a degenerate future world.
 
-**Metafora społeczna**: Podobnie jak kwiaty, cywilizacja może zwiędnąć bez odpowiedniej pielęgnacji.
+**Social metaphor**: Like flowers, civilization can wither without proper care.
 
-## II. INTERPRETACJE KULTUROWE I SPOŁECZNE
+## II. CULTURAL AND SOCIAL INTERPRETATIONS
 
-### 1. Interpretacja marksistowska i klasowa
-Wells projektuje podział klasowy swojej epoki na przyszłość, gdzie klasy wyższe i robotnicze ewoluowały w dwa oddzielne gatunki. To centralna teoria Podróżnika w Czasie - Eloi wywodzą się od bezczynnej burżuazji, a Morlokowie od biednych robotników.
+### 1. Marxist and class interpretation
+Wells projects the class division of his era into the future, where upper and working classes evolved into two separate species. This is the Time Traveler's central theory - the Eloi descend from the idle bourgeoisie, and the Morlocks from poor workers.
 
-**Rewolucyjna symbolika**: Ucisk Eloich przez Morloków można postrzegać jako metaforę eksploatacji klasy robotniczej przez rządzącą klasę. Jednak Morlokowie mogą też symbolizować rewolucję - to oni ostatecznie obalają Eloich i przejmują kontrolę.
+**Revolutionary symbolism**: The oppression of the Eloi by the Morlocks can be seen as a metaphor for exploitation of the working class by the ruling class. However, the Morlocks can also symbolize revolution - they ultimately overthrow the Eloi and take control.
 
-**Cykliczność historii**: Wells komentuje cykliczną naturę historii i nieuchronność rewolucji i zmian.
+**Cyclical nature of history**: Wells comments on the cyclical nature of history and the inevitability of revolution and change.
 
-### 2. Interpretacja postkolonialna
-**Kontekst imperialny**: Nowela została opublikowana w 1895 roku, gdy imperializm był u szczytu, a Indie były klejnotem w koronie Imperium Brytyjskiego.
+### 2. Postcolonial interpretation
+**Imperial context**: The novel was published in 1895, when imperialism was at its peak, and India was the jewel in the crown of the British Empire.
 
-**Teoria rasowa**: Rasowe teorie naukowe usprawiedliwiały ekspansję imperium, uznając wszelką moralność ludów tubylczych za "nielogiczną" z powodu interpretacji darwinowskiego argumentu "przetrwania najlepiej przystosowanych".
+**Racial theory**: Racial scientific theories justified the expansion of empire, considering all morality of indigenous peoples as "illogical" due to interpretations of the Darwinian argument of "survival of the fittest."
 
-**Darwinizm społeczny**: W wiktoriańskim fin de siècle prowadziło to do bardziej naukowo rasistowskich idei, takich jak darwinizm społeczny, który wspierał dominację imperium nad ludami tubylczymi.
+**Social Darwinism**: In the Victorian fin de siècle, this led to more scientifically racist ideas, such as social Darwinism, which supported the empire's dominance over indigenous peoples.
 
-**"Misja cywilizacyjna"**: Podróżnik w Czasie jako postać reprezentująca Prometeusza - potężną figurę, która przynosi wiedzę i technologię mniej rozwiniętemu społeczeństwu.
+**"Civilizing mission"**: The Time Traveler as a figure representing Prometheus - a powerful figure who brings knowledge and technology to a less developed society.
 
-### 3. Interpretacja feministyczna i genderowa
-**Dominacja męska**: "Wehikuł czasu" to historia zdominowana przez mężczyzn, która przedstawia tylko jedną żeńską postać, Weenę. Ten uderzający szczegół może wskazywać na przekonanie Wellsa, że kobiety nie należą do nauki.
+### 3. Feminist and gender interpretation
+**Male dominance**: "The Time Machine" is a male-dominated story that features only one female character, Weena. This striking detail may indicate Wells' belief that women do not belong in science.
 
-**Zanikanie różnic płciowych**: W powieści Podróżnik w Czasie stwierdza, że "specjalizacja płci... zanika" i że "widzimy pewne początki tego w naszych czasach". Oznacza to, że "Nowa Kobieta" w fin de siècle reprezentuje wczesną feminizację społeczeństwa zdominowanego przez patriarchat.
+**Disappearance of sexual differences**: In the novel, the Time Traveler states that "sexual specialization... is disappearing" and that "we see some beginnings of this in our times." This means that the "New Woman" in the fin de siècle represents early feminization of a patriarchal-dominated society.
 
-**Krytyka ról płciowych**: Ogólnie lekceważący stosunek do kobiet w społeczeństwie wiktoriańskim odzwierciedla zachowanie Eloich - są całkowicie uległy, pozbawieni wiedzy czy ciekawości intelektualnej.
+**Criticism of gender roles**: The generally dismissive attitude toward women in Victorian society reflects the behavior of the Eloi - they are completely submissive, devoid of knowledge or intellectual curiosity.
 
-### 4. Interpretacja psychoanalityczna
-**Perspektywa freudowska**: Podróż przez czas może symbolizować eksplorację warstw nieświadomości - osobistej nieświadomości zawierającej stłumione wspomnienia i pragnienia.
+### 4. Psychoanalytic interpretation
+**Freudian perspective**: Time travel may symbolize exploration of layers of the unconscious - personal unconscious containing repressed memories and desires.
 
-**Podejście jungowskie**: Podróż może reprezentować wędrówkę przez nieświadomość zbiorową zawierającą archetypiczne wzorce, które wykraczają poza indywidualne doświadczenie.
+**Jungian approach**: The journey may represent a wandering through the collective unconscious containing archetypal patterns that transcend individual experience.
 
-**Temporalność psyche**: Aspekty temporalne "Wehikuła czasu" można interpretować jako podróże przez warstwy świadomości - regresję lub progresję psychologiczną przez różne stadia ludzkiej świadomości.
+**Temporality of psyche**: Temporal aspects of "The Time Machine" can be interpreted as journeys through layers of consciousness - psychological regression or progression through different stages of human consciousness.
 
-### 5. Interpretacja ekologiczna i środowiskowa
-**Krytyka industrializacji**: Wells krytykuje kapitalizm laissez-faire, gdzie "robotnicy niech się walą, a środowisko - komu to przeszkadza?". Podkreśla, jak ludzie przyjęli industrializację bez myślenia o przyszłości i zniszczeniu środowiska.
+### 5. Ecological and environmental interpretation
+**Criticism of industrialization**: Wells criticizes laissez-faire capitalism, where "let the workers go to hell, and the environment - who cares?" He emphasizes how people adopted industrialization without thinking about the future and environmental destruction.
 
-**Teoria cieplarniana**: Wells przedstawia przyszły świat zamknięty w gigantycznej szklarni, co nawiązuje do planów wiktoriańskich ogrodników ochrony obywateli przed szkodliwymi klimatycznymi skutkami industrializacji.
+**Greenhouse theory**: Wells presents a future world enclosed in a gigantic greenhouse, referring to Victorian gardeners' plans to protect citizens from harmful climatic effects of industrialization.
 
-**Kolaps ekologiczny**: Wiele przewidywań środowiskowych w "Wehikule czasu" pozostaje niezwykle trafnych nawet w świetle dzisiejszych osiągnięć naukowych. Powieść sugeruje, że kolaps ekosystemu wpłynąłby na pozostałą dzikę przyrodę przez przyspieszenie jej wymierania.
+**Ecological collapse**: Many environmental predictions in "The Time Machine" remain extremely accurate even in light of today's scientific achievements. The novel suggests that ecosystem collapse would affect remaining wildlife by accelerating its extinction.
 
-**Koniec świata**: Pod koniec powieści Podróżnik w Czasie podróżuje do końca Ziemi: "Nie widziałem niczego ruszającego się, na ziemi, niebie czy morzu. Tylko zielony szlam na skałach świadczył o tym, że życie nie wymarło... świat był cichy".
+**End of the world**: At the end of the novel, the Time Traveler travels to the end of Earth: "I saw nothing moving, on land, sky, or sea. Only green slime on the rocks testified that life had not died out... the world was silent."
 
-## III. WSPÓŁCZESNE REINTERPRETACJE I ADAPTACJE
+## III. CONTEMPORARY REINTERPRETATIONS AND ADAPTATIONS
 
-### 1. Interpretacje LGBTQ+
-**"Coming Out With The Help Of A Time Machine"**: Współczesna adaptacja wykorzystuje koncepcję wehikułu czasu do opowieści o coming oucie w rodzinie imigrantów. Główny bohater używa maszyny czasu, aby zmienić skutki wyjścia z szafy przed rodziną.
+### 1. LGBTQ+ interpretations
+**"Coming Out With The Help Of A Time Machine"**: A contemporary adaptation uses the time machine concept for a coming-out story in an immigrant family. The main character uses a time machine to change the consequences of coming out to his family.
 
-**Queer reading temporalności**: Podróże w czasie jako metafora queerowej temporalności - nieliniowego doświadczenia tożsamości seksualnej i genderowej.
+**Queer reading of temporality**: Time travel as a metaphor for queer temporality - non-linear experience of sexual and gender identity.
 
-### 2. Interpretacje klimatyczne XXI wieku
-**Uchodźcy klimatyczni**: Podział Eloi-Morlock jako przewidywanie społecznych skutków kryzysu klimatycznego - uprzywilejowanych żyjących w komforcie a marginalizowanych w zdegradowanym środowisku.
+### 2. 21st-century climate interpretations
+**Climate refugees**: The Eloi-Morlock division as a prediction of social consequences of climate crisis - privileged living in comfort while marginalized in degraded environments.
 
-**Sprawiedliwość środowiskowa**: Wells wyobraził sobie przyszłość, w której technologia nie może przezwyciężyć katastrofalnych procesów naturalnych, odważnie wyobrażając planetę bez ludzi.
+**Environmental justice**: Wells imagined a future where technology cannot overcome catastrophic natural processes, boldly imagining a planet without humans.
 
-### 3. Interpretacje technologiczne
-**Sztuczna inteligencja**: Współczesne odczytania interpretują Morloków jako wczesną wizję technologicznej singularności lub AI dominującej nad ludzkością.
+### 3. Technological interpretations
+**Artificial intelligence**: Contemporary readings interpret Morlocks as an early vision of technological singularity or AI dominating humanity.
 
-**Wirtualna rzeczywistość**: Raj Eloich jako metafora cyfrowego eskapizmu i uzależnienia od technologii.
+**Virtual reality**: The Eloi paradise as a metaphor for digital escapism and technology addiction.
 
-### 4. Interpretacje społeczno-ekonomiczne
-**Neoliberalizm**: Podział Eloi-Morlock jako krytyka współczesnych nierówności ekonomicznych i konsekwencji neoliberalnego kapitalizmu.
+### 4. Socio-economic interpretations
+**Neoliberalism**: The Eloi-Morlock division as criticism of contemporary economic inequalities and consequences of neoliberal capitalism.
 
-**Gig economy**: Morlokowie jako symbol prekarnych pracowników utrzymujących uprzywilejowaną klasę konsumentów.
+**Gig economy**: Morlocks as a symbol of precarious workers maintaining a privileged consumer class.
 
-## IV. UKRYTE ZNACZENIA I POMIJANE SYMBOLE
+## IV. HIDDEN MEANINGS AND OVERLOOKED SYMBOLS
 
-### 1. Architektura społeczna
-**Podział wertykalny**: Eloi na powierzchni, Morlokowie pod ziemią - dosłowna wizualizacja "góra i dół" społeczeństwa klasowego.
+### 1. Social architecture
+**Vertical division**: Eloi on the surface, Morlocks underground - literal visualization of the "top and bottom" of class society.
 
-**Labirynt podziemi**: Morlock społeczność jako labirynt - symbol zagubienia współczesnej klasy robotniczej w industrialnym systemie.
+**Underground labyrinth**: Morlock community as labyrinth - symbol of contemporary working class's confusion in the industrial system.
 
-### 2. Temporalność jako więzienie
-**Cykliczność**: Mimo podróży w czasie, protagonista wraca do swojego punktu wyjścia - czas jako więzienie, nie jako wyzwolenie.
+### 2. Temporality as prison
+**Cyclicality**: Despite time travel, the protagonist returns to his starting point - time as prison, not liberation.
 
-**Entropijny czas**: Podróż do końca czasów jako wizja entropii termodynamicznej - uniwersalnej śmierci cieplnej.
+**Entropic time**: Journey to the end of time as vision of thermodynamic entropy - universal heat death.
 
-### 3. Język i komunikacja
-**Zanik języka**: Eloi używają uproszczonego języka - symbol degeneracji intelektualnej klas uprzywilejowanych.
+### 3. Language and communication
+**Language decay**: Eloi use simplified language - symbol of intellectual degeneration of privileged classes.
 
-**Niemy gniew**: Morlokowie komunikują się głównie poprzez działania, nie słowa - reprezentacja uciszonej klasy robotniczej.
+**Silent anger**: Morlocks communicate mainly through actions, not words - representation of silenced working class.
 
-### 4. Technologia jako alienacja
-**Niewidzialna technologia**: Eloi korzystają z technologii, nie rozumiejąc jej - krytyka społeczeństwa konsumpcyjnego.
+### 4. Technology as alienation
+**Invisible technology**: Eloi use technology without understanding it - criticism of consumer society.
 
-**Technologiczna zależność**: Morlock dominacja przez kontrolę technologii - przewidywanie współczesnych obaw o techno-feudalizm.
+**Technological dependency**: Morlock dominance through technology control - prediction of contemporary concerns about techno-feudalism.
 
-## V. EWOLUCJA INTERPRETACJI NA PRZESTRZENI LAT
+## V. EVOLUTION OF INTERPRETATIONS OVER THE YEARS
 
-### Era wiktoriańska (1895-1914)
-- Postrzegana jako ostrzeżenie przed konsekwencjami industrializacji
-- Interpretacje skupione na darwinizmie społecznym i ewolucji
+### Victorian era (1895-1914)
+- Perceived as warning about consequences of industrialization
+- Interpretations focused on social Darwinism and evolution
 
-### Okres międzywojenny (1918-1939)
-- Odczytywana przez pryzmat kryzysu kapitalizmu i powstania komunizmu
-- Eloi-Morlock jako burżuazja vs proletariat
+### Interwar period (1918-1939)
+- Read through lens of capitalism crisis and rise of communism
+- Eloi-Morlock as bourgeoisie vs proletariat
 
-### Era zimnej wojny (1945-1991)
-- Interpretacje geopolityczne: Wschód vs Zachód
-- Strach przed nuklearną apokalipsą
+### Cold War era (1945-1991)
+- Geopolitical interpretations: East vs West
+- Fear of nuclear apocalypse
 
-### Era postkolonialna (1960-2000)
-- Krytyka imperializmu i rasizmu
-- Analiza "Innego" i orientalizmu w tekście Wellsa
+### Postcolonial era (1960-2000)
+- Criticism of imperialism and racism
+- Analysis of the "Other" and orientalism in Wells' text
 
-### XXI wiek (2000-obecnie)
-- Interpretacje ekologiczne i klimatyczne
-- Queer readings i gender studies
-- Technologiczne interpretacje (AI, VR, social media)
+### 21st century (2000-present)
+- Ecological and climate interpretations
+- Queer readings and gender studies
+- Technological interpretations (AI, VR, social media)
 
-## VI. MIĘDZYKULTUROWE RÓŻNICE W INTERPRETACJI
+## VI. INTERCULTURAL DIFFERENCES IN INTERPRETATION
 
-### Kultura zachodnia
-**Individualizm**: Podróżnik w Czasie jako samotny bohater conquistador poznania
-**Progress**: Technologia jako narzędzie postępu i dominacji
+### Western culture
+**Individualism**: Time Traveler as solitary hero conquistador of knowledge
+**Progress**: Technology as tool of progress and dominance
 
-### Kultura wschodnia
-**Cykliczność**: Czas jako koło, nie linia - inne rozumienie temporalności
-**Harmonia**: Większy nacisk na równowagę między naturą a technologią
+### Eastern culture
+**Cyclicality**: Time as wheel, not line - different understanding of temporality
+**Harmony**: Greater emphasis on balance between nature and technology
 
-### Kultura postkolonialna
-**Opór**: Morlokowie jako symbol oporu przeciwko kolonialnej dominacji
-**Hybrydowość**: Interpretacja przez pryzmat tożsamości hybrydowych
+### Postcolonial culture
+**Resistance**: Morlocks as symbol of resistance against colonial dominance
+**Hybridity**: Interpretation through lens of hybrid identities
 
-### Kultura nordycka
-**Ragnarök**: Koniec świata jako naturalny cykl regeneracji
-**Soziale Demokratie**: Interpretacje socjaldemokratyczne podziałów klasowych
+### Nordic culture
+**Ragnarök**: End of world as natural cycle of regeneration
+**Social Democracy**: Social democratic interpretations of class divisions
 
-## VII. PSYCHOLOGICZNE ASPEKTY SYMBOLIKI
+## VII. PSYCHOLOGICAL ASPECTS OF SYMBOLISM
 
-### Archetypy jungowskie
-**Anima/Animus**: Weena jako projekcja męskiej anima
-**Cień**: Morlokowie jako zbiorowy cień cywilizacji wiktoriańskiej
-**Persona**: Eloi jako maska społeczna ukrywająca prawdziwą naturę
+### Jungian archetypes
+**Anima/Animus**: Weena as projection of male anima
+**Shadow**: Morlocks as collective shadow of Victorian civilization
+**Persona**: Eloi as social mask hiding true nature
 
-### Mechanizmy obronne
-**Projekcja**: Wiktoriańskie lęki społeczne rzutowane na przyszłość
-**Sublimacja**: Przemoc społeczna przekształcona w fantazję naukową
+### Defense mechanisms
+**Projection**: Victorian social anxieties projected onto the future
+**Sublimation**: Social violence transformed into scientific fantasy
 
-### Trauma zbiorowa
-**Przemysłowa trauma**: Morlokowie jako ucieleśnienie traumy robotniczej
-**Kolonialna wina**: Eloi jako wyraz poczucia winy kolonialnej
+### Collective trauma
+**Industrial trauma**: Morlocks as embodiment of working-class trauma
+**Colonial guilt**: Eloi as expression of colonial guilt
 
-## VIII. ZNACZENIA RELIGIJNE I MITOLOGICZNE
+## VIII. RELIGIOUS AND MYTHOLOGICAL MEANINGS
 
-### Symbolika biblijna
-**Raj utracony**: Eloi w raju nad ziemią jako nawiązanie do Edenu
-**Eloi/Elohim**: Połączenie z hebrajskim słowem oznaczającym Boga
-**Ostatnie słowa Chrystusa**: "Eloi Eloi lema sabachthani?" - "Boże mój, Boże, czemuś mnie opuścił?"
+### Biblical symbolism
+**Lost paradise**: Eloi in paradise above ground as reference to Eden
+**Eloi/Elohim**: Connection to Hebrew word meaning God
+**Christ's last words**: "Eloi Eloi lema sabachthani?" - "My God, my God, why have you forsaken me?"
 
-### Mitologie klasyczne
-**Prometeusz**: Podróżnik w Czasie jako nosiciel ognia/wiedzy
-**Chronos**: Czas pożerający własne dzieci
-**Hades i Olimp**: Podział wertykalny świata na górny i dolny
+### Classical mythologies
+**Prometheus**: Time Traveler as bearer of fire/knowledge
+**Chronos**: Time devouring its own children
+**Hades and Olympus**: Vertical division of world into upper and lower
 
-### Eschatologia
-**Apokalipsa**: Wizja końca świata jako spełnienie biblijnych przepowiedni
-**Palingenesis**: Możliwość odrodzenia po zagładzie
+### Eschatology
+**Apocalypse**: Vision of world's end as fulfillment of biblical prophecies
+**Palingenesis**: Possibility of rebirth after destruction
 
-## IX. WSPÓŁCZESNA RECEPCJA I NOWE ODCZYTANIA
+## IX. CONTEMPORARY RECEPTION AND NEW READINGS
 
 ### Digital humanities
-**Analiza korpusowa**: Nowe metody badania częstotliwości symboli i motywów
-**Distant reading**: Analiza "Wehikułu czasu" w kontekście całego korpusu SF
+**Corpus analysis**: New methods of studying frequency of symbols and motifs
+**Distant reading**: Analysis of "The Time Machine" in context of entire SF corpus
 
 ### Ecocriticism
-**Antropocen**: Wells jako prorok ery geologicznej człowieka
-**Posthumanizm**: Eloi i Morlokowie jako post-ludzkie gatunki
+**Anthropocene**: Wells as prophet of humanity's geological era
+**Posthumanism**: Eloi and Morlocks as post-human species
 
-### Neuronauka
-**Neuroplastyczność**: Interpretacje zmian mózgu pod wpływem technologii
-**Świadomość**: Podróże w czasie jako metafora stanów świadomości
+### Neuroscience
+**Neuroplasticity**: Interpretations of brain changes under technology influence
+**Consciousness**: Time travel as metaphor for states of consciousness
 
 ### Transgender studies
-**Transtemporalność**: Podróże w czasie jako metafora transgender doświadczeń
-**Body horror**: Transformacje cielesne jako allegoria dysforii
+**Transtemporality**: Time travel as metaphor for transgender experiences
+**Body horror**: Bodily transformations as allegory of dysphoria
 
-## X. UNIWERSALNE TEMATY I ARCHETYPY
+## X. UNIVERSAL THEMES AND ARCHETYPES
 
-### 1. Dychotomia cywilizacji/barbarzyństwa
-Wells dekonstruuje wiktoriańskie rozumienie cywilizacji, pokazując, że "cywilizowani" Eloi stają się ofiarami "barbarzyńskich" Morloków.
+### 1. Civilization/barbarism dichotomy
+Wells deconstructs Victorian understanding of civilization, showing that "civilized" Eloi become victims of "barbaric" Morlocks.
 
-### 2. Paradoks postępu
-Technologiczny postęp prowadzi do degeneracji społecznej - uniwersalny lęk przed konsekwencjami modernizacji.
+### 2. Paradox of progress
+Technological progress leads to social degeneration - universal fear of modernization consequences.
 
-### 3. Strach przed Innym
-Morlokowie jako ucieleśnienie wszystkiego, czego społeczeństwo wiktoriańskie się bało - ciemności, przemocy, kanibalizma.
+### 3. Fear of the Other
+Morlocks as embodiment of everything Victorian society feared - darkness, violence, cannibalism.
 
-### 4. Nostalgia za przeszłością
-Mimo podróży w przyszłość, ostatecznie jest to opowieść o stracie - tradycyjne wartości zanikają w nowoczesnym świecie.
+### 4. Nostalgia for the past
+Despite traveling to the future, ultimately it's a story about loss - traditional values disappear in the modern world.
 
-### 5. Samotność jednostki
-Podróżnik w Czasie jako figura nowoczesnego intelektualisty - wyalienowany, samotny, niezdolny do prawdziwej komunikacji.
+### 5. Individual loneliness
+Time Traveler as figure of modern intellectual - alienated, lonely, unable to truly communicate.
 
-## Wnioski
+## Conclusions
 
-"Wehikuł czasu" H.G. Wellsa pozostaje jednym z najbardziej symbolicznych i wieloznacznych dzieł literatury światowej. Jego bogactwo interpretacyjne wynika z umiejętnego splecenia osobistych lęków autora z uniwersalnymi obawami ludzkości. Wells stworzył dzieło, które działa jednocześnie jako:
+"The Time Machine" by H.G. Wells remains one of the most symbolic and multi-layered works of world literature. Its interpretive richness stems from skillful weaving of the author's personal fears with universal human anxieties. Wells created a work that functions simultaneously as:
 
-- **Krytyka społeczna** swojej epoki
-- **Uniwersalna alegoria** o konsekwencjach nierówności
-- **Psychologiczna eksploracja** ludzkich lęków i pragnień
-- **Ekologiczne ostrzeżenie** przed zniszczeniem środowiska
-- **Metafizyczna refleksja** nad naturą czasu i zmienności
+- **Social criticism** of his era
+- **Universal allegory** about consequences of inequality
+- **Psychological exploration** of human fears and desires
+- **Ecological warning** about environmental destruction
+- **Metaphysical reflection** on the nature of time and change
 
-Różnorodność interpretacji - od marksistowskich przez feministyczne po postkolonialne i ekologiczne - dowodzi uniwersalności tej opowieści. Każda epoka i każda kultura odkrywa w niej nowe znaczenia, co czyni "Wehikuł czasu" dziełem prawdziwie ponadczasowym.
+The diversity of interpretations - from Marxist through feminist to postcolonial and ecological - proves the universality of this story. Each era and each culture discovers new meanings in it, making "The Time Machine" a truly timeless work.
 
-Współczesne adaptacje, takie jak queerowe reinterpretacje czy klimatyczne odczytania, pokazują, że powieść Wellsa nadal rezonuje z aktualnymi problemami społecznymi. To świadczy o sile literackiej wizji autora, który potrafił stworzyć symbole na tyle uniwersalne, że przemawiają do czytelników przez ponad sto lat.
+Contemporary adaptations, such as queer reinterpretations or climate readings, show that Wells' novel still resonates with current social problems. This testifies to the strength of the author's literary vision, who managed to create symbols universal enough to speak to readers for over a century.
 
-Ukryte znaczenia "Wehikułu czasu" przypominają nam, że najlepsze dzieła literatury fantastycznonaukowej to nie tylko spekulacje o przyszłości, ale przede wszystkim głębokie refleksje o naturze ludzkiej i społeczeństwie. Wells pokazał, że podróż w czasie może być najlepszą metodą zrozumienia teraźniejszości.
+The hidden meanings of "The Time Machine" remind us that the best works of science fiction literature are not just speculations about the future, but above all deep reflections on human nature and society. Wells showed that time travel can be the best method for understanding the present.

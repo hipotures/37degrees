@@ -1,84 +1,84 @@
-# OCENA TREŚCI I CONTENT WARNINGS: "Władca much" (Lord of the Flies)
+# CONTENT WARNINGS ASSESSMENT: "Lord of the Flies"
 
-**Autor:** William Golding  
-**Rok:** 1954  
-**Analiza wykonana:** 30 sierpnia 2025  
-**Agent:** Content Warnings Assessment  
+**Author:** William Golding
+**Year:** 1954
+**Analysis Performed:** August 30, 2025
+**Agent:** Content Warnings Assessment
 
 ---
 
 ## EXECUTIVE SUMMARY - RISK ASSESSMENT
 
-### 🔴 WYSOKIE RYZYKO platform
-- **Facebook/Meta (Facebook + Instagram)**: Ekstremalne ryzyko z powodu liberalizacji hate speech policies 2025
-- **YouTube**: Średnie ryzyko - wymaga human narration i educational framing
-- **TikTok**: Średnie ryzyko - tylko content 1+ min z educational context
-- **Spotify**: Niskie ryzyko - najlepsze środowisko dla educational content
-- **Kick**: Najniższe ryzyko - creator-friendly environment
+### 🔴 HIGH-RISK PLATFORMS
+- **Facebook/Meta (Facebook + Instagram)**: Extreme risk due to liberalized hate speech policies 2025
+- **YouTube**: Medium risk - requires human narration and educational framing
+- **TikTok**: Medium risk - only 1+ min content with educational context
+- **Spotify**: Low risk - best environment for educational content
+- **Kick**: Lowest risk - creator-friendly environment
 
-### ⚠️ GŁÓWNE PROBLEMY CONTENT POLICY
-1. **Przemoc wobec nieletnich** - szczegółowe opisy zabójstw dzieci
-2. **Hate speech i dyskryminacja** - rasistowskie język w oryginale
-3. **Psychological horror** - traumatyczne treści mogące wpłynąć na młode osoby
-4. **Religious controversy** - satanistyczna symbolika (Beelzebub)
-5. **Sexual content** - ukryte motywy w research (skandale autora)
-
----
-
-## ANALIZA KAŻDEJ PLATFORMY
-
-### 🔴 FACEBOOK/META (Facebook + Instagram) - WYSOKIE RYZYKO
-
-#### Problematyczne treści:
-- **Przemoc wobec dzieci**: Szczegółowe opisy śmierci Piggy'ego i Simona
-- **Hate speech**: Rasistowskie język w oryginale ("czarnuchów" w polskim wydaniu)
-- **Tribal violence**: Malowanie twarzy może być odczytane jako stereotyp rasowy
-- **Psychological manipulation**: Szczegółowy opis manipulacji strachem
-
-#### Zalecenia dla Facebook/Meta:
-- **❌ UNIKAJ** - kontrowersyjnych interpretacji politycznych
-- **❌ NIE OMAWIAJ** - skandali dotyczących autora (próba gwałtu)
-- **❌ OMIJAJ** - szczegółowe opisy przemocy (scena śmierci Piggy'ego)
-- **✅ FOKUS NA** - pozytywne aspekty edukacyjne i ostrzeżenie przed bullying
-- **✅ EDUCATIONAL FRAMING** - jako lekcja o demokracji i przywództwie
-- **🔄 AGE-RESTRICT** - treści dotyczące przemocy między dziećmi
-
-#### Risk Level: 🔴 **9/10** - Unpredictable moderation w 2025
+### ⚠️ MAIN CONTENT POLICY ISSUES
+1. **Violence against minors** - detailed descriptions of children's deaths
+2. **Hate speech and discrimination** - racist language in original text
+3. **Psychological horror** - traumatic content that may affect young audiences
+4. **Religious controversy** - satanic symbolism (Beelzebub)
+5. **Sexual content** - hidden themes in research (author scandals)
 
 ---
 
-### 🟡 YOUTUBE - ŚREDNIE RYZYKO
+## PLATFORM-BY-PLATFORM ANALYSIS
 
-#### Content Policy 2025 compliance:
-- **✅ WYMAGANE**: Human narration (NO text-to-speech)
-- **✅ KLUCZOWE**: Original commentary dominujący nad cytatami
-- **⚠️ PROBLEM**: AI-generated content może być demonetized
+### 🔴 FACEBOOK/META (Facebook + Instagram) - HIGH RISK
 
-#### Zalecenia dla YouTube:
+#### Problematic Content:
+- **Violence against children**: Detailed descriptions of Piggy's and Simon's deaths
+- **Hate speech**: Racist language in original text (racial slurs in various translations)
+- **Tribal violence**: Face painting may be interpreted as racial stereotypes
+- **Psychological manipulation**: Detailed description of fear manipulation
+
+#### Recommendations for Facebook/Meta:
+- **❌ AVOID** - controversial political interpretations
+- **❌ DO NOT DISCUSS** - author scandals (sexual assault attempt)
+- **❌ SKIP** - detailed violence descriptions (Piggy's death scene)
+- **✅ FOCUS ON** - positive educational aspects and anti-bullying message
+- **✅ EDUCATIONAL FRAMING** - as lesson about democracy and leadership
+- **🔄 AGE-RESTRICT** - content about violence between children
+
+#### Risk Level: 🔴 **9/10** - Unpredictable moderation in 2025
+
+---
+
+### 🟡 YOUTUBE - MEDIUM RISK
+
+#### Content Policy 2025 Compliance:
+- **✅ REQUIRED**: Human narration (NO text-to-speech)
+- **✅ KEY**: Original commentary dominant over quotes
+- **⚠️ PROBLEM**: AI-generated content may be demonetized
+
+#### Recommendations for YouTube:
 - **✅ SAFE TOPICS**:
-  - Analiza technik literackich Goldinga
-  - Porównania z współczesną literaturą YA
-  - Educational breakdown simboliki
+  - Analysis of Golding's literary techniques
+  - Comparisons with contemporary YA literature
+  - Educational breakdown of symbolism
   - Historical context (1954 vs today)
-- **❌ UNIKAJ**:
-  - Szczegółowych opisów zabójstw
-  - Kontrowersyjnych biograficznych detali autora
+- **❌ AVOID**:
+  - Detailed descriptions of murders
+  - Controversial biographical details about author
   - Political interpretations (cold war parallels)
-- **🔄 AGE-RESTRICT**: Treści o przemocy = 16+
-- **💡 STRATEGY**: "Literary analysis" approach, nie "survival story"
+- **🔄 AGE-RESTRICT**: Violence content = 16+
+- **💡 STRATEGY**: "Literary analysis" approach, not "survival story"
 
-#### Risk Level: 🟡 **5/10** - Medium z proper human narration
+#### Risk Level: 🟡 **5/10** - Medium with proper human narration
 
 ---
 
-### 🟡 TIKTOK - ŚREDNIE RYZYKO
+### 🟡 TIKTOK - MEDIUM RISK
 
-#### Monetization requirements 2025:
-- **WYMAGANE**: Content 1+ minuta dla monetization
-- **WYMAGANE**: Original commentary, no reposting
-- **PROBLEM**: 70% rejection rate dla Creator Rewards
+#### Monetization Requirements 2025:
+- **REQUIRED**: Content 1+ minute for monetization
+- **REQUIRED**: Original commentary, no reposting
+- **PROBLEM**: 70% rejection rate for Creator Rewards
 
-#### Zalecenia dla TikTok:
+#### Recommendations for TikTok:
 - **✅ VIRAL POTENTIAL**:
   - "Books that predicted social media problems" angle
   - Gen Z connections (digital tribes, online bullying)
@@ -88,22 +88,22 @@
   - Graphic violence descriptions
   - Controversial author details
   - Political interpretations
-- **🎯 FORMAT**: Educational storytelling 1-2 minuty
+- **🎯 FORMAT**: Educational storytelling 1-2 minutes
 - **⚡ HOOK**: "This 1954 book predicted your social media trauma"
 
-#### Risk Level: 🟡 **4/10** - Good dla educational approach
+#### Risk Level: 🟡 **4/10** - Good for educational approach
 
 ---
 
-### 🟢 SPOTIFY - NISKIE RYZYKO
+### 🟢 SPOTIFY - LOW RISK
 
-#### Platform advantages:
+#### Platform Advantages:
 - **Creator-friendly policies**
 - **Educational content preferred**
-- **Video format dla better revenue**
+- **Video format for better revenue**
 - **Cross-platform promotion encouraged**
 
-#### Zalecenia dla Spotify:
+#### Recommendations for Spotify:
 - **✅ IDEAL CONTENT**:
   - Comprehensive literary analysis
   - Historical context deep dive
@@ -112,64 +112,64 @@
 - **💡 FORMAT**: Video podcast series
 - **🎯 APPROACH**: Academic but accessible
 - **⚠️ CAUTION**: Moderate graphic content descriptions
-- **✅ SAFE**: Może omawiać ALL topics z educational context
+- **✅ SAFE**: Can discuss ALL topics with educational context
 
 #### Risk Level: 🟢 **2/10** - Most book-friendly platform
 
 ---
 
-### 🟢 KICK - NAJNIŻSZE RYZYKO
+### 🟢 KICK - LOWEST RISK
 
-#### Creator advantages:
+#### Creator Advantages:
 - **95/5 revenue split**
-- **Most freedom** dla controversial topics
-- **Educational context** chroni most content
-- **Interactive format** ideal dla book discussions
+- **Most freedom** for controversial topics
+- **Educational context** protects most content
+- **Interactive format** ideal for book discussions
 
-#### Zalecenia dla Kick:
-- **✅ PEŁNA SWOBODA**:
-  - Wszystkie aspekty książki
-  - Kontrowersyjne interpretacje (z educational disclaimer)
-  - Author scandals (jako context dla rozumienia dzieła)
+#### Recommendations for Kick:
+- **✅ FULL FREEDOM**:
+  - All aspects of the book
+  - Controversial interpretations (with educational disclaimer)
+  - Author scandals (as context for understanding the work)
   - Political and social parallels
 - **💡 FORMAT**: Live discussion, community interaction
-- **🎯 UNIQUE ADVANTAGE**: Może eksplorować darkest themes z proper context
+- **🎯 UNIQUE ADVANTAGE**: Can explore darkest themes with proper context
 
 #### Risk Level: 🟢 **1/10** - Maximum creative freedom
 
 ---
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
-### 13+ CONTENT (Ograniczone platform risk)
-- **Podstawowe informacje** o książce i autorze
-- **Historyczny kontekst** (1954, Nobel Prize)
-- **Pozytywne przesłania** o przyjaźni i przywództwie
-- **Educational value** literatury klasycznej
-- **Modern relevance** bez graphic details
+### 13+ CONTENT (Limited platform risk)
+- **Basic information** about the book and author
+- **Historical context** (1954, Nobel Prize)
+- **Positive messages** about friendship and leadership
+- **Educational value** of classic literature
+- **Modern relevance** without graphic details
 
 ### 16+ CONTENT (Age-restrict recommended)
-- **Szczegółowa analiza** symboliki i tematów
-- **Opisy konfliktów** między postaciami
-- **Dyskusja o naturze przemocy** (bez graphic details)
-- **Psychological themes** i character analysis
-- **Social media parallels** i tribal mentality
+- **Detailed analysis** of symbolism and themes
+- **Descriptions of conflicts** between characters
+- **Discussion of nature of violence** (without graphic details)
+- **Psychological themes** and character analysis
+- **Social media parallels** and tribal mentality
 
 ### 18+ CONTENT (Adult audience only)
-- **Graphic descriptions** zabójstw w książce
+- **Graphic descriptions** of murders in the book
 - **Author's biographical scandals** (sexual assault attempt)
 - **Detailed violence analysis** (death scenes)
 - **Complex philosophical interpretations**
 - **Controversial religious symbolism** (Beelzebub references)
-- **Political allegory** i cold war context
+- **Political allegory** and cold war context
 
 ---
 
 ## CONTENT WARNINGS MATRIX
 
-### ⚠️ UNIVERSAL CONTENT WARNINGS (wszystkie platformy)
+### ⚠️ UNIVERSAL CONTENT WARNINGS (all platforms)
 
-| Temat | Warning Level | Opis |
+| Topic | Warning Level | Description |
 |-------|---------------|------|
 | **Violence Against Minors** | 🔴 HIGH | Śmierci Piggy'ego i Simona |
 | **Psychological Horror** | 🟡 MEDIUM | Degradacja społeczna, strach |

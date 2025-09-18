@@ -1,347 +1,347 @@
-# Opowieść o księciu Genjim - Symbolika i Ukryte Znaczenia
+# The Tale of Genji - Symbolism and Hidden Meanings
 
-## Wprowadzenie
+## Introduction
 
-"Opowieść o księciu Genjim" Murasaki Shikibu to dzieło o niewiarygodnej głębi symbolicznej, które działa na wielu poziomach interpretacyjnych. Napisane około 1021 roku w okresie Heian, stanowi nie tylko pierwszą powieść świata, ale także subtelną medytację nad przemijalnością, pięknem i kondycją ludzką. Symbolika dzieła wynika z głębokiego zakorzenienia w estetyce buddyjskiej, kulturze dworskiej oraz unikalnej japońskiej wrażliwości na ulotność piękna.
+"The Tale of Genji" by Murasaki Shikibu is a work of incredible symbolic depth that operates on multiple interpretive levels. Written around 1021 during the Heian period, it constitutes not only the world's first novel but also a subtle meditation on transience, beauty, and the human condition. The symbolism of the work derives from its deep roots in Buddhist aesthetics, court culture, and the unique Japanese sensitivity to the evanescence of beauty.
 
-## I. GŁÓWNE SYMBOLE I ICH INTERPRETACJE
+## I. MAIN SYMBOLS AND THEIR INTERPRETATIONS
 
-### 1. Kwiaty i Rośliny - Symbol Przemijania
+### 1. Flowers and Plants - Symbol of Transience
 
-**Klasyczne Interpretacje:**
-Kwiaty w "Opowieści o Genjim" to przede wszystkim symbol przemijania i ulotności piękna. Murasaki Shikibu świadomie nadaje swoim bohaterkom imiona pochodzące od roślin - księżniczka Wistaria, Violet (Murasaki) - co wskazuje na piękno naturalne, niezależne od ludzkich sztuk i ozdób.
+**Classical Interpretations:**
+Flowers in "The Tale of Genji" are primarily symbols of transience and the ephemeral nature of beauty. Murasaki Shikibu deliberately gives her female characters names derived from plants - Princess Wisteria, Violet (Murasaki) - indicating natural beauty independent of human arts and ornaments.
 
-**Współczesne Odczytania:**
-- **Feministyczna perspektywa**: Kwiaty reprezentują nie tylko przemijanie, ale także społeczne uwięzienie kobiet, które podobnie jak rośliny są cenione głównie za swoją powierzchowną urodę
-- **Ekokrytyczne spojrzenie**: Symbolika kwiatów odzwierciedla harmonię człowieka z naturą, która w epoce Heian była silniejsza niż współcześnie
-- **Psychoanalityczne interpretacje**: Rośliny mogą reprezentować cykl życia i śmierci w podświadomości bohaterów
+**Contemporary Readings:**
+- **Feminist perspective**: Flowers represent not only transience but also the social imprisonment of women, who, like plants, are valued mainly for their superficial beauty
+- **Ecocritical view**: Flower symbolism reflects the harmony between humans and nature that was stronger in the Heian era than today
+- **Psychoanalytic interpretations**: Plants may represent the cycle of life and death in the characters' subconscious
 
-**Ukryte Znaczenia:**
-Każdy rodzaj kwiatu niesie specyficzne znaczenie: wiśnie symbolizują młodość i pierwszą miłość, wistarie - melancholię i tęsknotę, chryzantemy - dojrzałość i mądrość. Kolory kwiatów również mają znaczenie - fioletowy (murasaki) łączy w sobie czerwień namiętności z niebieskim spokojem.
+**Hidden Meanings:**
+Each type of flower carries specific meaning: cherry blossoms symbolize youth and first love, wisteria - melancholy and longing, chrysanthemums - maturity and wisdom. Flower colors also have meaning - purple (murasaki) combines the red of passion with the blue of tranquility.
 
-### 2. Pory Roku - Cykl Życia i Emocji
+### 2. Seasons - The Cycle of Life and Emotions
 
-**Klasyczne Interpretacje:**
-System czterech pór roku (shiki) w japońskiej estetyce reprezentuje naturalny cykl życia, śmierci i odrodzenia. W "Genjim" każda pora roku niesie określone znaczenie emocjonalne i duchowe.
+**Classical Interpretations:**
+The four-season system (shiki) in Japanese aesthetics represents the natural cycle of life, death, and rebirth. In "Genji," each season carries specific emotional and spiritual meaning.
 
-**Współczesne Odczytania:**
-- **Wiosna**: Nowe początki, nadzieja, młodzieńcze romanse
-- **Lato**: Namiętność, intensywność uczuć, kulminacja relacji
-- **Jesień**: Melancholia, refleksja, świadomość przemijania
-- **Zima**: Śmierć, samotność, ale też oczyszczenie i przygotowanie do odnowy
+**Contemporary Readings:**
+- **Spring**: New beginnings, hope, youthful romances
+- **Summer**: Passion, intensity of feelings, culmination of relationships
+- **Autumn**: Melancholy, reflection, awareness of transience
+- **Winter**: Death, loneliness, but also purification and preparation for renewal
 
-**Ukryte Znaczenia:**
-Murasaki Shikibu wykorzystuje subtelne zmiany sezonowe do opisania stanów emocjonalnych bohaterów. Deszcz jesienny może oznaczać łzy smutku, śnieg - czystość lub izolację, wiosenny wiatr - niestabilność uczuć.
+**Hidden Meanings:**
+Murasaki Shikibu uses subtle seasonal changes to describe characters' emotional states. Autumn rain may signify tears of sadness, snow - purity or isolation, spring wind - instability of feelings.
 
-### 3. Jedwab i Tkaniny - Władza Wymiany
+### 3. Silk and Fabrics - Power of Exchange
 
-**Klasyczne Interpretacje:**
-Jedwab reprezentuje władzę wymiany w świecie Genjiego. Jest cenny zarówno jako dar, jak i płótno dla sztuki. Jego zdolność do chłonięcia koloru czyniła go idealnym materiałem na szarfy i parawany, które ceniła Japonia ery Heian.
+**Classical Interpretations:**
+Silk represents the power of exchange in Genji's world. It is valuable both as a gift and as canvas for art. Its ability to absorb color made it ideal material for scarves and screens valued by Heian-era Japan.
 
-**Współczesne Odczytania:**
-- **Materializm i status**: Tkaniny reprezentują hierarchię społeczną i bogactwo
-- **Komunikacja niewerbalna**: Kolory i wzory na jedwabiu stają się językiem emocji
-- **Kontrola i posiadanie**: Tkaniny mogą symbolizować sposób, w jaki mężczyźni "owijają" kobiety swoją opieką i kontrolą
+**Contemporary Readings:**
+- **Materialism and status**: Fabrics represent social hierarchy and wealth
+- **Nonverbal communication**: Colors and patterns on silk become a language of emotions
+- **Control and possession**: Fabrics may symbolize how men "wrap" women in their care and control
 
-**Ukryte Znaczenia:**
-Jedwab łączy w sobie delikatność i trwałość - podobnie jak uczucia bohaterów. Jego błyszczące właściwości mogą reprezentować iluzoryczność piękna i pozorów dworskich.
+**Hidden Meanings:**
+Silk combines delicacy and durability - like the characters' feelings. Its lustrous properties may represent the illusory nature of beauty and court appearances.
 
-### 4. Burze i Harmonia Naturalna
+### 4. Storms and Natural Harmony
 
-**Klasyczne Interpretacje:**
-Burze w "Genjim" reprezentują brak harmonii i porządku w świecie. Są przeciwieństwem spokoju, szaleją i uderzają w wybrzeże z niekontrolowaną siłą.
+**Classical Interpretations:**
+Storms in "Genji" represent lack of harmony and order in the world. They are the opposite of tranquility, raging and striking the shore with uncontrolled force.
 
-**Współczesne Odczytania:**
-- **Psychologiczny chaos**: Burze odzwierciedlają wewnętrzne konflikty bohaterów
-- **Społeczny niepokój**: Mogą reprezentować napięcia w strukturze dworskiej
-- **Duchowe oczyszczenie**: W tradycji buddyjskiej burza może oznaczać konieczne cierpienie prowadzące do oświecenia
+**Contemporary Readings:**
+- **Psychological chaos**: Storms reflect characters' inner conflicts
+- **Social unrest**: May represent tensions in court structure
+- **Spiritual purification**: In Buddhist tradition, storms may signify necessary suffering leading to enlightenment
 
-**Ukryte Znaczenia:**
-Burze często pojawiają się w momentach przełomowych w życiu Genjiego, sugerując, że zewnętrzne zjawiska odzwierciedlają jego wewnętrzny stan.
+**Hidden Meanings:**
+Storms often appear at pivotal moments in Genji's life, suggesting that external phenomena reflect his inner state.
 
-## II. UNIWERSALNE MOTYWY I ARCHETYPY
+## II. UNIVERSAL MOTIFS AND ARCHETYPES
 
-### 1. Mono no Aware - Estetyka Przemijania
+### 1. Mono no Aware - Aesthetics of Transience
 
-**Definicja i Znaczenie:**
-Mono no aware, często tłumaczone jako "litość rzeczy" lub "piękno przemijania", to centralne pojęcie dzieła. Reprezentuje emocjonalną wrażliwość na niepermanentność - piękną, bolesną świadomość, że wszystko przemija.
+**Definition and Meaning:**
+Mono no aware, often translated as "the pathos of things" or "the beauty of transience," is the central concept of the work. It represents emotional sensitivity to impermanence - a beautiful, painful awareness that everything passes.
 
-**Uniwersalny Aspekt:**
-To uczucie rezonuje ponad granicami kultur. Każdy człowiek doświadcza smutku związanego z upływem czasu, utratą młodości, końcem związków. Murasaki Shikibu uchwytuje tę uniwersalną prawdę.
+**Universal Aspect:**
+This feeling resonates across cultural boundaries. Every human experiences sadness related to the passage of time, loss of youth, end of relationships. Murasaki Shikibu captures this universal truth.
 
-**Współczesne Paralele:**
-- W literaturze zachodniej podobne uczucia znajdziemy u Prousta ("W poszukiwaniu straconego czasu")
-- W filmie - melancholia Tarkowskiego czy Bergmana
-- W muzyce - blues jako amerykańska interpretacja podobnej nostalgii
+**Contemporary Parallels:**
+- In Western literature, similar feelings can be found in Proust ("In Search of Lost Time")
+- In film - the melancholy of Tarkovsky or Bergman
+- In music - blues as an American interpretation of similar nostalgia
 
-### 2. Kobieta jako Archetyp
+### 2. Woman as Archetype
 
-**Wieloaspektowe Postaci Kobiece:**
-Murasaki Shikibu tworzy archetypy kobiecości, które można uznać za uniwersalne:
-- **Rokujō**: Dumna, namiętna, udręczona - archetyp kobiety porzuconej
-- **Yūgao**: Zmysłowa i uległa - archetyp delikatnej miłości
-- **Murasaki**: Dobra i żywotna - archetyp idealnej partnerki
-- **Lady Akashi**: Powściągliwa i inteligentna - archetyp mądrej kobiety
+**Multi-faceted Female Characters:**
+Murasaki Shikibu creates archetypes of femininity that can be considered universal:
+- **Rokujō**: Proud, passionate, tormented - archetype of the abandoned woman
+- **Yūgao**: Sensual and submissive - archetype of delicate love
+- **Murasaki**: Good and vital - archetype of the ideal partner
+- **Lady Akashi**: Restrained and intelligent - archetype of the wise woman
 
-**Współczesne Interpretacje:**
-Te archetypy przewijają się przez całą literaturę światową, od greckich tragedii po współczesne filmy. Każda kultura interpretuje je jednak inaczej.
+**Contemporary Interpretations:**
+These archetypes run through all world literature, from Greek tragedies to contemporary films. However, each culture interprets them differently.
 
-### 3. Mężczyzna w Poszukiwaniu Ideału
+### 3. Man in Search of the Ideal
 
-**Genji jako Archetyp:**
-Książę Genji reprezentuje archetyp mężczyzny poszukującego idealnej miłości. Jest to motyw znany z wielu kultur - od Tristana i Izoldy po Don Juana.
+**Genji as Archetype:**
+Prince Genji represents the archetype of a man seeking ideal love. This is a motif known from many cultures - from Tristan and Isolde to Don Juan.
 
-**Różnice Kulturowe w Interpretacji:**
-- **W kulturze zachodniej**: Często postrzegany jako libertyn lub romantyk
-- **W kulturze japońskiej**: Bardziej jako estetyk poszukujący piękna w różnych formach
-- **We współczesnych interpretacjach**: Może być widziany jako narcyz lub męczący się poszukiwacz autentyczności
+**Cultural Differences in Interpretation:**
+- **In Western culture**: Often perceived as a libertine or romantic
+- **In Japanese culture**: More as an aesthete seeking beauty in various forms
+- **In contemporary interpretations**: May be seen as a narcissist or a suffering seeker of authenticity
 
-## III. INTERPRETACJE KULTUROWE
+## III. CULTURAL INTERPRETATIONS
 
-### 1. Perspektywa Zachodnia
+### 1. Western Perspective
 
-**Recepcja w Europie i Ameryce:**
-Zachodnia recepcja "Genjiego" często koncentruje się na aspektach psychologicznych i romanowych. Jorge Luis Borges chwalił dzieło za "ludzkie namiętności", opisując je jako "powieść psychologiczną".
+**Reception in Europe and America:**
+Western reception of "Genji" often focuses on psychological and romantic aspects. Jorge Luis Borges praised the work for its "human passions," describing it as a "psychological novel."
 
-**Różnice w Tłumaczeniach:**
-- **Tłumaczenie Arthura Waleya (1937)**: Piękne, ale bardzo swobodne
-- **Tłumaczenie Edwarda Seidenstickera (1976)**: Wierne oryginałowi w treści i tonie
-- **Tłumaczenie Royalla Tylera (2001)**: Z rozszerzonymi przypisami wyjaśniającymi kontekst kulturowy
+**Differences in Translations:**
+- **Arthur Waley's translation (1937)**: Beautiful but very free
+- **Edward Seidensticker's translation (1976)**: Faithful to the original in content and tone
+- **Royall Tyler's translation (2001)**: With expanded footnotes explaining cultural context
 
-### 2. Perspektywa Postkolonialna
+### 2. Postcolonial Perspective
 
-**Odzyskiwanie Głosu:**
-Studia postkolonialne badają "Genjiego" jako symbol zapomnianych azjatyckich głosów w zachodnim kanonie literackim. Dzieło reprezentuje bogatą tradycję nie-zachodnią, która istniała na długo przed europejskim średniowieczem.
+**Reclaiming Voice:**
+Postcolonial studies examine "Genji" as a symbol of forgotten Asian voices in the Western literary canon. The work represents a rich non-Western tradition that existed long before European medieval period.
 
-**Problemy z "Orientalizacją":**
-Zachodnia fascynacja "Genjim" czasem może prowadzić do orientalizacji - postrzegania Japonii przez pryzmat egzotyki zamiast zrozumienia kulturowej specyfiki.
+**Problems with "Orientalization":**
+Western fascination with "Genji" can sometimes lead to orientalization - perceiving Japan through the prism of exoticism rather than understanding cultural specificity.
 
-### 3. Interpretacje Feministyczne
+### 3. Feminist Interpretations
 
-**Ewolucja Podejścia:**
-Wczesne interpretacje feministyczne często uniwersalizowały doświadczenia kobiet z "Genjiego". Współczesne podejście jest bardziej niuansowane, uwzględniające specyfikę kulturową i historyczną.
+**Evolution of Approach:**
+Early feminist interpretations often universalized women's experiences from "Genji." Contemporary approach is more nuanced, taking into account cultural and historical specificity.
 
-**Kluczowe Tematy:**
-- **Strategia opętania duchowego**: Doris G. Bargen argumentuje, że opętanie przez duchy było kobiecą strategią przeciwdziałania męskiej dominacji
-- **Estetyka cierpienia**: Najbardziej istotną cechą "Genjiego" w odniesieniu do kobiet jest estetyka cierpienia, która przenikała życie przedstawionych kobiet
+**Key Themes:**
+- **Strategy of spiritual possession**: Doris G. Bargen argues that possession by spirits was a feminine strategy to counter male domination
+- **Aesthetics of suffering**: The most important feature of "Genji" regarding women is the aesthetics of suffering that permeated the lives of the women portrayed
 
-### 4. Interpretacje Buddyjskie
+### 4. Buddhist Interpretations
 
-**Filozofia Niepermanentności:**
-Dzieło głęboko zanurzone w buddyjskiej filozofii niepermanentności (anicca). Wszystko przemija - piękno, miłość, życie. Ta świadomość nadaje dziełu melancho­lijnego, ale zarazem mądrego charakteru.
+**Philosophy of Impermanence:**
+The work is deeply immersed in Buddhist philosophy of impermanence (anicca). Everything passes - beauty, love, life. This awareness gives the work a melancholic but also wise character.
 
-**Karma i Reinkarnacja:**
-Niektóre wydarzenia w "Genjim" można interpretować przez pryzmat karmy - konsekwencji działań w poprzednich wcieleniach.
+**Karma and Reincarnation:**
+Some events in "Genji" can be interpreted through the lens of karma - consequences of actions in previous incarnations.
 
-## IV. WSPÓŁCZESNE REINTERPRETACJE
+## IV. CONTEMPORARY REINTERPRETATIONS
 
-### 1. Interpretacje Feministyczne XXI Wieku
+### 1. 21st Century Feminist Interpretations
 
-**Nowe Podejście do Kobiecości:**
-Współczesne feministki czytają "Genjiego" jako dzieło pokazujące, jak kobiety w ograniczającym je społeczeństwie znajdują sposoby na wyrażenie swojej sprawczości i tożsamości.
+**New Approach to Femininity:**
+Contemporary feminists read "Genji" as a work showing how women in a constraining society find ways to express their agency and identity.
 
-**Problematyzacja "Idealnej Kobiecości":**
-Postać Murasaki jako "idealnej kobiety" jest dziś postrzegana bardziej krytycznie - jako konstrukt społeczny narzucający kobietom określone role.
+**Problematizing "Ideal Femininity":**
+The character of Murasaki as the "ideal woman" is today viewed more critically - as a social construct imposing specific roles on women.
 
-### 2. Interpretacje LGBTQ+
+### 2. LGBTQ+ Interpretations
 
-**Płynność Płci i Seksualności:**
-W epoce Heian koncepcje płci były bardziej płynne niż w późniejszych okresach japońskiej historii. "Genji" można czytać jako dzieło eksplorujące różne formy miłości i pożądania.
+**Fluidity of Gender and Sexuality:**
+In the Heian era, concepts of gender were more fluid than in later periods of Japanese history. "Genji" can be read as a work exploring various forms of love and desire.
 
 **Queer Reading:**
-Niektórzy badacze interpretują relacje między postaciami jako wykraczające poza heteronormatywne wzorce, szczególnie w kontekście estetyki i duchowości.
+Some scholars interpret relationships between characters as transcending heteronormative patterns, particularly in the context of aesthetics and spirituality.
 
-### 3. Psychoanalityczne Interpretacje
+### 3. Psychoanalytic Interpretations
 
-**Kompleks Ojca:**
-Relacja Genjiego z Fujitsubo (kochanką swojego ojca) może być interpretowana w kategoriach kompleksu Edypa - poszukiwania substytutki matki.
+**Father Complex:**
+Genji's relationship with Fujitsubo (his father's lover) can be interpreted in terms of the Oedipus complex - seeking a mother substitute.
 
-**Narcyzm i Idealizacja:**
-Tendencja Genjiego do idealizowania kobiet może być postrzegana jako projekcja jego własnego narcyzmu.
+**Narcissism and Idealization:**
+Genji's tendency to idealize women may be seen as a projection of his own narcissism.
 
-### 4. Interpretacje Ekokriytyczne
+### 4. Ecocritical Interpretations
 
-**Harmonia z Naturą:**
-Współczesna krytyka ekologiczna docenia sposób, w jaki "Genji" przedstawia głęboką więź między ludźmi a światem naturalnym - coś, co współczesne społeczeństwo w dużej mierze utraciło.
+**Harmony with Nature:**
+Contemporary ecological criticism appreciates how "Genji" presents a deep bond between people and the natural world - something that contemporary society has largely lost.
 
-**Cykl Natury jako Metafora:**
-Pory roku w "Genjim" nie są tylko tłem, ale aktywnymi uczestnikami narracji, co może inspirować współczesne myślenie o miejscu człowieka w ekosystemie.
+**Cycle of Nature as Metaphor:**
+The seasons in "Genji" are not just background but active participants in the narrative, which can inspire contemporary thinking about human's place in the ecosystem.
 
-## V. UKRYTE SYMBOLE I SUBTELNE ZNACZENIA
+## V. HIDDEN SYMBOLS AND SUBTLE MEANINGS
 
-### 1. Genjimon - Geometryczne Symbole Rozdziałów
+### 1. Genjimon - Geometric Symbols of Chapters
 
-**Historia i Znaczenie:**
-Genjimon to geometryczne wzory liniowe reprezentujące 54 rozdziały "Opowieści o Genjim". Wywodzą się z gier identyfikacyjnych kadzideł z okresu Heian.
+**History and Meaning:**
+Genjimon are linear geometric patterns representing the 54 chapters of "The Tale of Genji." They derive from incense identification games from the Heian period.
 
-**Głębsze Znaczenie:**
-Te symbole to więcej niż oznaczenia rozdziałów - zawierają emocje, tematy i esencję całego dzieła. Ich linearna prostota przeciwstawiona luksusowym jedwabnym tkaninom ucieleśnia kulturową wyrafinowanie.
+**Deeper Meaning:**
+These symbols are more than chapter markers - they contain emotions, themes, and the essence of the entire work. Their linear simplicity contrasted with luxurious silk fabrics embodies cultural refinement.
 
-### 2. Kolory i ich Symbolika
+### 2. Colors and Their Symbolism
 
-**System Kolorów Heian:**
-- **Fioletowy (murasaki)**: Najszlachetniejszy kolor, łączący czerwień namiętności z błękitem spokoju
-- **Czerwień**: Namiętność, ale też niebezpieczeństwo i przemoc
-- **Biały**: Czystość, ale też śmierć i duchowość
-- **Czarny**: Elegancja, ale też tajemnica i ukryte intencje
+**Heian Color System:**
+- **Purple (murasaki)**: The noblest color, combining the red of passion with the blue of tranquility
+- **Red**: Passion, but also danger and violence
+- **White**: Purity, but also death and spirituality
+- **Black**: Elegance, but also mystery and hidden intentions
 
-**Ukryte Komunikaty:**
-Kombinacje kolorów w strojach bohaterów często komunikują ich stany emocjonalne lub intencje w sposób zrozumiały dla czytelników znających kody kulturowe ery Heian.
+**Hidden Messages:**
+Color combinations in characters' clothing often communicate their emotional states or intentions in a way understandable to readers familiar with Heian era cultural codes.
 
-### 3. Muzyka i Poezja jako Simboliczne Nośniki
+### 3. Music and Poetry as Symbolic Carriers
 
-**Tanka jako Emocjonalny Kod:**
-Pięcioliniowa poezja tanka w "Genjim" nie jest tylko ozdobą - to system komunikacji emocjonalnej. Modyfikowanie klasycznych wierszy zgodnie z aktualną sytuacją było oczekiwanym zachowaniem na dworze Heian.
+**Tanka as Emotional Code:**
+Five-line tanka poetry in "Genji" is not just ornament - it's a system of emotional communication. Modifying classical poems according to current situation was expected behavior at the Heian court.
 
-**Muzyka jako Metafora Harmonii:**
-Gra na instrumentach muzycznych (biwa, koto) reprezentuje wewnętrzną harmonię lub jej brak. Dyssonanse w muzyce często odpowiadają konfliktom emocjonalnym.
+**Music as Metaphor for Harmony:**
+Playing musical instruments (biwa, koto) represents inner harmony or its lack. Dissonances in music often correspond to emotional conflicts.
 
-### 4. Architektura i Przestrzeń
+### 4. Architecture and Space
 
-**Parawany i Zasłony:**
-Świat "Genjiego" to świat zasłon, parawanów i ukrytych przestrzeni. Ta architektura odzwierciedla społeczne konwencje, ale też psychiczne stany bohaterów.
+**Screens and Curtains:**
+The world of "Genji" is a world of curtains, screens, and hidden spaces. This architecture reflects social conventions but also characters' psychological states.
 
-**Ogrody jako Dusze:**
-Każdy ogród w "Genjim" odzwierciedla osobowość swojego właściciela. Jest to subtelny sposób charakteryzowania postaci.
+**Gardens as Souls:**
+Every garden in "Genji" reflects its owner's personality. This is a subtle way of characterizing figures.
 
-### 5. Zapachy i Perfumy
+### 5. Scents and Perfumes
 
-**Komunikacja przez Aromaty:**
-W świecie Genjiego zapachy są formą komunikacji. Każda postać ma swój charakterystyczny aromat, który może być rozpoznany przez innych.
+**Communication through Aromas:**
+In Genji's world, scents are a form of communication. Each character has their characteristic aroma that can be recognized by others.
 
-**Kadzidła i Duchowość:**
-Palenie kadzideł nie tylko tworzy przyjemną atmosferę, ale ma także duchowy wymiar - odgania złe duchy i oczyszcza przestrzeń.
+**Incense and Spirituality:**
+Burning incense not only creates a pleasant atmosphere but also has a spiritual dimension - it drives away evil spirits and purifies space.
 
-## VI. EWOLUCJA INTERPRETACJI NA PRZESTRZENI WIEKÓW
+## VI. EVOLUTION OF INTERPRETATIONS OVER THE CENTURIES
 
-### 1. Okres Średniowieczny (XI-XVI wiek)
+### 1. Medieval Period (11th-16th century)
 
-**Pierwotna Recepcja:**
-W okresie średniowiecznym "Genji" był czytany głównie przez arystokrację jako dzieło rozrywkowe i estetyczne. Aspekty buddyjskie były naturalne i oczywiste.
+**Original Reception:**
+In the medieval period, "Genji" was read mainly by aristocracy as entertainment and aesthetic work. Buddhist aspects were natural and obvious.
 
-**Adaptacje i Przetworzenia:**
-Powstawały liczne adaptacje w formie ilustrowanych zwojów (emakimono) i przedstawień teatralnych (noh).
+**Adaptations and Transformations:**
+Numerous adaptations appeared in the form of illustrated scrolls (emakimono) and theatrical performances (noh).
 
-### 2. Okres Edo (XVII-XIX wiek)
+### 2. Edo Period (17th-19th century)
 
-**Popularyzacja:**
-W okresie Edo "Genji" stał się bardziej popularny, pojawiły się adaptacje w formie książek ilustrowanych (kusazōshi) i przedstawień kabuki.
+**Popularization:**
+During the Edo period, "Genji" became more popular, adaptations appeared in the form of illustrated books (kusazōshi) and kabuki performances.
 
-**Nowe Interpretacje:**
-Zaczęto bardziej podkreślać aspekty romantyczne i sentymentalne kosztem filozoficznych.
+**New Interpretations:**
+Romantic and sentimental aspects began to be emphasized more at the expense of philosophical ones.
 
-### 3. Era Meiji i Modernizacja (1868-1912)
+### 3. Meiji Era and Modernization (1868-1912)
 
-**Odkrycie na Nowo:**
-W okresie modernizacji "Genji" został na nowo odkryty jako dzieło o znaczeniu narodowym i światowym.
+**Rediscovery:**
+During the modernization period, "Genji" was rediscovered as a work of national and global significance.
 
-**Pierwsze Tłumaczenia na Języki Zachodnie:**
-Arthur Waley rozpoczął tłumaczenie na angielski w latach 1920.
+**First Translations into Western Languages:**
+Arthur Waley began translation into English in the 1920s.
 
-### 4. XX i XXI Wiek - Globalna Recepcja
+### 4. 20th and 21st Century - Global Reception
 
-**Międzynarodowe Uznanie:**
-"Genji" został uznany za pierwszą powieść świata i jedno z najważniejszych dzieł literatury światowej.
+**International Recognition:**
+"Genji" was recognized as the world's first novel and one of the most important works of world literature.
 
-**Różnorodne Interpretacje:**
-Pojawiły się interpretacje feministyczne, postkolonialne, psychoanalityczne, ekokriytyczne i wiele innych.
+**Diverse Interpretations:**
+Feminist, postcolonial, psychoanalytic, ecocritical, and many other interpretations appeared.
 
-## VII. SYMBOLIKA W RÓŻNYCH ADAPTACJACH
+## VII. SYMBOLISM IN VARIOUS ADAPTATIONS
 
-### 1. Manga i Anime
+### 1. Manga and Anime
 
-**Waki Yamato "Asakiyumemishi":**
-Najbardziej znana adaptacja mangowa podkreśla romantyczne i estetyczne aspekty, czyniąc dzieło bardziej dostępnym, ale ryzykując uproszczeniem.
+**Waki Yamato's "Asakiyumemishi":**
+The most famous manga adaptation emphasizes romantic and aesthetic aspects, making the work more accessible but risking oversimplification.
 
-**Symbolika Wizualna:**
-W adaptacjach wizualnych symbolika kwiatów, kolorów i pór roku staje się jeszcze bardziej bezpośrednia i czytelna.
+**Visual Symbolism:**
+In visual adaptations, symbolism of flowers, colors, and seasons becomes even more direct and readable.
 
-### 2. Theater i Opera
+### 2. Theater and Opera
 
-**Przedstawienia Noh:**
-Tradycyjny teatr noh od wieków adaptowal fragmenty "Genjiego", koncentrując się na momentach największego napięcia emocjonalnego.
+**Noh Performances:**
+Traditional noh theater has adapted fragments of "Genji" for centuries, focusing on moments of greatest emotional tension.
 
-**Współczesne Adaptacje Operowe:**
-Zachodnie adaptacje operowe często podkreślają aspekty tragiczne i romantyczne.
+**Contemporary Opera Adaptations:**
+Western opera adaptations often emphasize tragic and romantic aspects.
 
-### 3. Film i Telewizja
+### 3. Film and Television
 
-**Wyzwania Adaptacji:**
-Adaptacja "Genjiego" na ekran stwarza problemy z powodu subtilności oryginału i jego długości.
+**Adaptation Challenges:**
+Adapting "Genji" to screen creates problems due to the original's subtlety and length.
 
-**Nowe Odczytania:**
-Współczesne adaptacje filmowe często wprowadzają nowe interpretacje, czasem kontrowersyjne.
+**New Readings:**
+Contemporary film adaptations often introduce new interpretations, sometimes controversial.
 
-## VIII. WSPÓŁCZESNA RELEVANCE
+## VIII. CONTEMPORARY RELEVANCE
 
-### 1. Tematy Uniwersalne
+### 1. Universal Themes
 
-**Miłość i Strata:**
-Tematy miłości, straty i przemijania w "Genjim" są ponadczasowe i rezonują z współczesnymi czytelnikami.
+**Love and Loss:**
+Themes of love, loss, and transience in "Genji" are timeless and resonate with contemporary readers.
 
-**Poszukiwanie Tożsamości:**
-Genji jako postać poszukująca swojej tożsamości może być interpretowana w kontekście współczesnych dylematów tożsamościowych.
+**Search for Identity:**
+Genji as a character seeking his identity can be interpreted in the context of contemporary identity dilemmas.
 
-### 2. Estetyka i Kultura Konsumencka
+### 2. Aesthetics and Consumer Culture
 
-**Mono no Aware w Epoce Instagram:**
-Koncepcja mono no aware może być czytana jako antyteza dla współczesnej kultury "wiecznego prezenta" mediów społecznościowych.
+**Mono no Aware in the Instagram Era:**
+The concept of mono no aware can be read as an antithesis to contemporary culture of "eternal present" of social media.
 
 **Slow Living:**
-"Genji" promuje estetykę "powolnego życia" - celebrowania małych, ulotnych momentów piękna.
+"Genji" promotes the aesthetics of "slow living" - celebrating small, fleeting moments of beauty.
 
-### 3. Ekologia i Zrównoważony Rozwój
+### 3. Ecology and Sustainable Development
 
-**Harmonia z Naturą:**
-Sposób, w jaki bohaterowie "Genjiego" żyją w harmonii z naturą, może inspirować współczesne podejście do ekologii.
+**Harmony with Nature:**
+The way "Genji's" characters live in harmony with nature can inspire contemporary approaches to ecology.
 
-**Cykliczność vs. Linearność:**
-Cykliczne postrzeganie czasu w "Genjim" kontrastuje ze współczesną linearną koncepcją postępu.
+**Cyclicality vs. Linearity:**
+The cyclical perception of time in "Genji" contrasts with contemporary linear concept of progress.
 
-## IX. ZNACZENIE DLA WSPÓŁCZESNYCH SŁUCHACZY PODCASTÓW
+## IX. SIGNIFICANCE FOR CONTEMPORARY PODCAST LISTENERS
 
-### 1. Lekcje o Relacjach
+### 1. Lessons about Relationships
 
-**Komunikacja Niewerbalna:**
-"Genji" pokazuje, jak ważna jest komunikacja niewerbalna - przez kolory, zapachy, symbole.
+**Nonverbal Communication:**
+"Genji" shows how important nonverbal communication is - through colors, scents, symbols.
 
-**Empatia i Zrozumienie:**
-Dzieło uczy głębokiej empatii i zrozumienia dla różnych perspektyw i doświadczeń.
+**Empathy and Understanding:**
+The work teaches deep empathy and understanding for different perspectives and experiences.
 
-### 2. Mindfulness i Obecność
+### 2. Mindfulness and Presence
 
-**Uwaga na Detale:**
-Murasaki Shikibu pokazuje, jak piękno tkwi w najdrobniejszych szczegółach - w kolorze kwiatu, w sposobie układania tkanin.
+**Attention to Details:**
+Murasaki Shikibu shows how beauty lies in the smallest details - in the color of a flower, in the way fabrics are arranged.
 
-**Akceptacja Przemijania:**
-Mono no aware uczy akceptacji dla przemijania jako naturalnej części życia.
+**Acceptance of Transience:**
+Mono no aware teaches acceptance of transience as a natural part of life.
 
-### 3. Krytyczne Myślenie
+### 3. Critical Thinking
 
-**Wielopoziomowość Znaczeń:**
-"Genji" uczy, że każde dzieło kultury może być czytane na wielu poziomach i interpretowane z różnych perspektyw.
+**Multi-layered Meanings:**
+"Genji" teaches that every cultural work can be read on multiple levels and interpreted from different perspectives.
 
-**Kontekst Kulturowy:**
-Dzieło pokazuje, jak ważne jest zrozumienie kontekstu kulturowego dla właściwego odczytania dzieła.
+**Cultural Context:**
+The work shows how important understanding cultural context is for proper interpretation of a work.
 
-## X. PODSUMOWANIE - WIECZNA AKTUALNOŚĆ SYMBOLIKI
+## X. SUMMARY - ETERNAL RELEVANCE OF SYMBOLISM
 
-"Opowieść o księciu Genjim" to dzieło o niesamowitej głębi symbolicznej, które po tysiącu lat nadal oferuje nowe interpretacje i znaczenia. Jego symbolika - od kwiatów i pór roku po subtelne kody kolorów i zapachów - tworzy bogaty świat znaczeń, który może być odczytywany na poziomie uniwersalnym (jako medytacja nad ludzką kondycją) i specyficznie kulturowym (jako okno do świata Heian).
+"The Tale of Genji" is a work of incredible symbolic depth that after a thousand years still offers new interpretations and meanings. Its symbolism - from flowers and seasons to subtle codes of colors and scents - creates a rich world of meanings that can be read on a universal level (as meditation on human condition) and specifically cultural level (as a window into the Heian world).
 
-**Kluczowe Wnioski:**
+**Key Conclusions:**
 
-1. **Uniwersalność w Specyficzności**: Choć dzieło jest głęboko zakorzenione w kulturze japońskiej XI wieku, jego tematy i symbole mówią do czytelników wszystkich kultur i epok.
+1. **Universality in Specificity**: Although the work is deeply rooted in 11th-century Japanese culture, its themes and symbols speak to readers of all cultures and eras.
 
-2. **Wielowarstwowość Interpretacji**: Każda epoka i kultura odkrywa w "Genjim" nowe znaczenia, co dowodzi jego niesłychanej bogactwa.
+2. **Multi-layered Interpretations**: Each era and culture discovers new meanings in "Genji," proving its incredible richness.
 
-3. **Estetyka jako Filozofia**: Dzieło pokazuje, że estetyka może być głęboką filozofią życia, nie tylko powierzchowną ozdobą.
+3. **Aesthetics as Philosophy**: The work shows that aesthetics can be a deep philosophy of life, not just superficial ornament.
 
-4. **Kobiecy Głos**: Jako dzieło napisane przez kobietę w patriarchalnym społeczeństwie, oferuje unikalną perspektywę na relacje między płciami i władzę.
+4. **Female Voice**: As a work written by a woman in a patriarchal society, it offers a unique perspective on gender relations and power.
 
-5. **Ekologia Emocji**: "Genji" pokazuje głęboką więź między światem natury a światem ludzkich emocji, co ma szczególne znaczenie w dobie kryzysu klimatycznego.
+5. **Ecology of Emotions**: "Genji" shows the deep bond between the natural world and the world of human emotions, which has particular significance in the era of climate crisis.
 
-6. **Komunikacja przez Symbole**: W epoce mediów społecznościowych i emoji, "Genji" przypomina o długiej tradycji komunikacji symbolicznej w kulturze ludzkiej.
+6. **Communication through Symbols**: In the era of social media and emoji, "Genji" reminds us of the long tradition of symbolic communication in human culture.
 
-Dla współczesnych słuchaczy "Opowieść o księciu Genjim" oferuje nie tylko wgląd w fascynujący świat średniowiecznej Japonii, ale także głębokie lekcje o naturze ludzkiej, miłości, stracie i pięknie. Jego symbolika pozostaje żywa i znacząca, oferując narzędzia do rozumienia zarówno przeszłości, jak i teraźniejszości.
+For contemporary listeners, "The Tale of Genji" offers not only insight into the fascinating world of medieval Japan but also deep lessons about human nature, love, loss, and beauty. Its symbolism remains alive and meaningful, offering tools for understanding both past and present.
 
-Dzieło Murasaki Shikibu udowadnia, że wielkie dzieła literatury nie są tylko historycznymi artefaktami, ale żywymi tekstami, które ciągle oferują nowe znaczenia i inspiracje. W świecie szybkich zmian i powierzchownej kultury, "Genji" przypomina o wartości głębi, subtelności i kontemplacji - wartościach, które mogą wzbogacić nasze współczesne życie.
+Murasaki Shikibu's work proves that great works of literature are not just historical artifacts but living texts that continuously offer new meanings and inspirations. In a world of rapid changes and superficial culture, "Genji" reminds us of the value of depth, subtlety, and contemplation - values that can enrich our contemporary lives.

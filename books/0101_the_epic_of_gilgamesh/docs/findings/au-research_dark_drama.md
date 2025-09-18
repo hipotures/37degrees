@@ -1,237 +1,237 @@
-# Epos o Gilgameszu - Mroczna Strona i Kontrowersje
+# The Epic of Gilgamesh - Dark Side and Controversies
 
-## Wprowadzenie
-Epos o Gilgameszu, najstarszy znany utwór literacki świata (ok. XVIII w. p.n.e.), kryje w sobie znacznie więcej ciemnych sekretów niż może się wydawać. To nie tylko heroiczna opowieść o przyjaźni - to także historia pełna przemocy, kontrowersji archeologicznych, teorii spiskowych i skandali, które trwają do dziś.
+## Introduction
+The Epic of Gilgamesh, the world's oldest known literary work (c. 18th century BC), harbors far more dark secrets than might appear. This is not just a heroic tale of friendship - it's also a story full of violence, archaeological controversies, conspiracy theories, and scandals that persist to this day.
 
-## Teoria Spiskowe i Mroczne Interpretacje
+## Conspiracy Theories and Dark Interpretations
 
-### 1. Gilgamesz jako Nimrod - Pierwsza Teoria Spiskowa
-**ZARZUT**: Niemiecki asyriolog Alfred Jeremias (1904) utożsamił Gilgamesza z biblijnym Nimrodem, tworząc podstawy dla nowoczesnych teorii spiskowych o tym, że cała mitologia starożytna to jedna wielka historia o rebelii przeciwko Bogu.
+### 1. Gilgamesh as Nimrod - The First Conspiracy Theory
+**ACCUSATION**: German Assyriologist Alfred Jeremias (1904) identified Gilgamesh with biblical Nimrod, creating the foundation for modern conspiracy theories that all ancient mythology is one grand story of rebellion against God.
 
-**PLOTKA**: Niektóre źródła twierdzą, że Gilgamesz to właściwie zniekształcona historia o biblijnym Nimrodzie - rebelianckim władcy Babilonii, który chciał dotrzeć do nieba.
+**RUMOR**: Some sources claim that Gilgamesh is actually a distorted story of biblical Nimrod - the rebellious ruler of Babylon who wanted to reach heaven.
 
-### 2. Anunnaki i Nephelim - Kosmiczna Konspiracja
-**TEORIA**: Epos zawiera ukryte informacje o Anunnaki - rzekomych kosmitach, którzy mieli stworzyć ludzkość jako eksperyment genetyczny.
+### 2. Anunnaki and Nephilim - Cosmic Conspiracy
+**THEORY**: The epic contains hidden information about the Anunnaki - alleged aliens who supposedly created humanity as a genetic experiment.
 
-**PLOTKA**: Gilgamesz, będąc w 2/3 bogiem, reprezentuje hybrydę alien-człowiek, podobnie jak biblijni Nephelim.
+**RUMOR**: Gilgamesh, being 2/3 god, represents an alien-human hybrid, similar to the biblical Nephilim.
 
-**FAKT**: Rzeczywiście istnieją uderzające podobieństwa między Anunnaki a biblijnymi Nephelim w kontekście istot nadnaturalnych mieszających się z ludzkością.
+**FACT**: There are indeed striking similarities between the Anunnaki and biblical Nephilim in the context of supernatural beings mixing with humanity.
 
-### 3. Mroczna Teoria DNA i Zmartwychwstanie
-**PLOTKA**: Archeologowie rzekomo odnaleźli grobowce Gilgamesza i egipskiego Ozyrysa, a USA najechały Irak w 2003 roku, aby przejąć kontrolę nad "demonicznym DNA" tych starożytnych istot.
+### 3. Dark DNA Theory and Resurrection
+**RUMOR**: Archaeologists allegedly found the tombs of Gilgamesh and Egyptian Osiris, and the USA invaded Iraq in 2003 to seize control of the "demonic DNA" of these ancient beings.
 
-**ZARZUT**: Teoria głosi, że współczesne religie misteryjne chcą użyć tego DNA do sklonowania lub wskrzeszenia Nimroda/Gilgamesza jako Antychrysta.
+**ACCUSATION**: The theory claims that modern mystery religions want to use this DNA to clone or resurrect Nimrod/Gilgamesh as the Antichrist.
 
-### 4. Cyfrowa Apokalipsa i Transhumanizm
-**PLOTKA**: Nowoczesne superkomputery przetwarzają starożytne teksty sumeryjskie, aby symulować świadomość Gilgamesza - "pierwszy transhumanista ma wkrótce ożyć".
+### 4. Digital Apocalypse and Transhumanism
+**RUMOR**: Modern supercomputers are processing ancient Sumerian texts to simulate Gilgamesh's consciousness - "the first transhumanist is about to come alive."
 
-### 5. Okultystyczne Symbolizm i Religie Misteryjne
-**FAKT**: Gilgamesz jest rzeczywiście czczony w nowoczesnych religiach misteryjnych jako wcielenie Nimroda.
+### 5. Occult Symbolism and Mystery Religions
+**FACT**: Gilgamesh is indeed worshipped in modern mystery religions as the incarnation of Nimrod.
 
-**ZARZUT**: Według niektórych teorii, wszystkie współczesne święta to ukryte formy kultu Nimroda i Semiramidy, gdzie Gilgamesz odgrywa rolę "dziewiczego syna".
+**ACCUSATION**: According to some theories, all modern holidays are hidden forms of Nimrod and Semiramis worship, where Gilgamesh plays the role of the "virgin son."
 
-## Skandale Archeologiczne i Kradzieże
+## Archaeological Scandals and Thefts
 
-### 6. Wielka Kradzież Tabliczki Snów Gilgamesza
-**FAKT**: W 2021 roku USA zwróciły Irakowi skradzioną 3500-letnią tabliczkę Gilgamesza wartą 1,7 miliona dolarów.
+### 6. The Great Theft of the Gilgamesh Dream Tablet
+**FACT**: In 2021, the USA returned to Iraq a stolen 3,500-year-old Gilgamesh tablet worth $1.7 million.
 
-**FAKT**: Tabliczka została skradziona z irackiego muzeum podczas Wojny w Zatoce Perskiej w 1991 roku.
+**FACT**: The tablet was stolen from the Iraqi museum during the Persian Gulf War in 1991.
 
-**FAKT**: Hobby Lobby kupiło tabliczkę w 2014 za 1,6 miliona dolarów z fałszywym certyfikatem pochodzenia.
+**FACT**: Hobby Lobby purchased the tablet in 2014 for $1.6 million with a false certificate of authenticity.
 
-**SKANDAL**: Międzynarodowy handel zabytkami wykorzystywał fałszywe dokumenty datowane na 1981 rok, aby ukryć prawdziwe źródło kradzieży.
+**SCANDAL**: International antiquities trafficking used forged documents dated 1981 to hide the true source of the theft.
 
-### 7. Kryzys Dziedzictwa Kulturowego Iraku
-**FAKT**: Podczas 36 godzin w kwietniu 2003 skradziono 15 000 skarbów z Muzeum Iraku w Bagdadzie.
+### 7. Iraq's Cultural Heritage Crisis
+**FACT**: During 36 hours in April 2003, 15,000 treasures were stolen from the Iraq Museum in Baghdad.
 
-**FAKT**: Od 1991 roku trwa systematyczne grabienie dziesiątek stanowisk archeologicznych w Iraku.
+**FACT**: Since 1991, systematic looting of dozens of archaeological sites in Iraq has continued.
 
-**ZARZUT**: Wojna w Iraku była częściowo motywowana chęcią kontrolowania starożytnych artefaktów i ukrywania prawdy o pochodzeniu ludzkości.
+**ACCUSATION**: The Iraq War was partly motivated by the desire to control ancient artifacts and hide the truth about humanity's origins.
 
-## Kontrowersje Akademickie i Przekładowe
+## Academic and Translation Controversies
 
-### 8. Wojna o Wierność Przekładu
-**FAKT**: Asyriolodzy są w konflikcie z popularnymi tłumaczami, oskarżając ich o "niewierność" oryginałowi.
+### 8. The War for Translation Fidelity
+**FACT**: Assyriologists are in conflict with popular translators, accusing them of "infidelity" to the original.
 
-**FAKT**: Problem polega na tym, że tekst jest zbyt obcy i uszkodzony, aby umożliwić bezproblemową narrację.
+**FACT**: The problem is that the text is too alien and damaged to allow for seamless narrative.
 
-**KONTROWERSJA**: Niektórzy uczeni uzupełniają brakujące części materiałem z wcześniejszych sumeryjskich poematów, inni kategorycznie się temu sprzeciwiają.
+**CONTROVERSY**: Some scholars supplement missing parts with material from earlier Sumerian poems, while others categorically oppose this.
 
-### 9. Wiktoriańska Kontrowersja Biblijna
-**FAKT**: Po przetłumaczeniu w latach 1870. epos wywołał ogromną kontrowersję z powodu podobieństw do Biblii hebrajskiej.
+### 9. Victorian Biblical Controversy
+**FACT**: After translation in the 1870s, the epic caused enormous controversy due to similarities with the Hebrew Bible.
 
-**FAKT**: W 1902 niemiecki asyriolog Friedrich Delitzsch argumentował przed Kajzerem, że opowieść o potopie w Księdze Rodzaju została bezpośrednio skopiowana z Eposu o Gilgameszu.
+**FACT**: In 1902, German Assyriologist Friedrich Delitzsch argued before the Kaiser that the flood story in Genesis was directly copied from the Epic of Gilgamesh.
 
-**KONTROWERSJA**: To odkrycie zostało określone jako "przeznaczone do wywołania żywej kontrowersji" między ortodoksyjnymi chrześcijanami a uczonymi.
+**CONTROVERSY**: This discovery was described as "destined to cause lively controversy" between orthodox Christians and scholars.
 
-## Mroczne Treści i Cenzura
+## Dark Content and Censorship
 
-### 10. Przemoc Seksualna Gilgamesza
-**FAKT**: Tekst wyraźnie stwierdza, że Gilgamesz "nie zostawia dziewczyny matce - córki wojownika ani narzeczonej młodego mężczyzny".
+### 10. Gilgamesh's Sexual Violence
+**FACT**: The text clearly states that Gilgamesh "leaves no girl to her mother - the warrior's daughter nor the young man's bride."
 
-**INTERPRETACJA**: Uczeni interpretują to jako systematyczne gwałty lub uwodzenie kobiet przez króla.
+**INTERPRETATION**: Scholars interpret this as systematic rape or seduction of women by the king.
 
-**KONTROWERSJA**: Jego "dzikie szaleństwa" są eufemistycznie nazywane "surowym panowaniem".
+**CONTROVERSY**: His "wild frenzies" are euphemistically called "harsh rule."
 
-### 11. Kontrowersja wokół Shamhat - Świętej Prostytutki
-**KRYTYKA FEMINISTYCZNA**: Shamhat jest krytykowana jako postać "całkowicie zdefiniowana przez mężczyzn wokół niej", będąca "tylko narządem płciowym".
+### 11. Controversy around Shamhat - The Sacred Prostitute
+**FEMINIST CRITICISM**: Shamhat is criticized as a character "completely defined by the men around her," being "only a sexual organ."
 
-**ZARZUT**: Feministki argumentują, że Shamhat reprezentuje "nie prawdziwą prostytutkę, ale fantasję o takiej, która pracuje za darmo".
+**ACCUSATION**: Feminists argue that Shamhat represents "not a real prostitute, but a fantasy of one who works for free."
 
-**OBRONA**: Inni uczeni twierdzą, że jako świątynna prostytutka służąca Isztar była osobą o wysokim statusie religijnym.
+**DEFENSE**: Other scholars claim that as a temple prostitute serving Ishtar, she was a person of high religious status.
 
-### 12. Nowoczesna Appropriacja przez "Manosferę"
-**SKANDAL**: Współcześni mizogyni interpretują epos jako "narrację o niebezpieczeństwach fałszywych oskarżeń o gwałt" i nazywają spotkanie Enkidu z Shamhat "5000-letnią czerwoną pigułką".
+### 12. Modern Appropriation by the "Manosphere"
+**SCANDAL**: Contemporary misogynists interpret the epic as a "narrative about the dangers of false rape accusations" and call Enkidu's meeting with Shamhat a "5,000-year-old red pill."
 
-### 13. Cenzura w Szkołach
-**FAKT**: W 1991 roku rodzic z Westminster zakwestionował książkę w szkole z powodu seksualnych odniesień.
+### 13. School Censorship
+**FACT**: In 1991, a parent in Westminster challenged the book in school due to sexual references.
 
-**FAKT**: Kontrowersja dotyczyła fragmentu, gdzie świątynna nierządnica "pochyliła się i zwilżyła go wargami, a potem pociągnęła powoli na ziemię".
+**FACT**: The controversy concerned a passage where the temple harlot "bent down and moistened him with her lips, then slowly pulled him to the ground."
 
-**FAKT**: Epos był również kwestionowany w Clearview Regional High School w Harrison Township (NJ) jako "niepotrzebnie eksplicytny".
+**FACT**: The epic was also challenged at Clearview Regional High School in Harrison Township (NJ) as "unnecessarily explicit."
 
-### 14. Przemoc i Trauma
-**FAKT**: Epos zawiera brutalne sceny przemocy, w tym walkę Gilgamesza z Enkidu opisaną jako "zmagające się byki blokujące rogi".
+### 14. Violence and Trauma
+**FACT**: The epic contains brutal scenes of violence, including the fight between Gilgamesh and Enkidu described as "grappling bulls locking horns."
 
-**ANALIZA**: Współcześni psychologowie identyfikują u Gilgamesza objawy PTSD po śmierci Enkidu.
+**ANALYSIS**: Contemporary psychologists identify PTSD symptoms in Gilgamesh after Enkidu's death.
 
-**MROCZNY ELEMENT**: Gilgamesz odmówił rozpoczęcia obrzędów pogrzebowych, dopóki ciało Enkidu nie zaczęło gnić.
+**DARK ELEMENT**: Gilgamesh refused to begin funeral rites until Enkidu's body began to rot.
 
-## Polityczne i Religijne Kontrowersje
+## Political and Religious Controversies
 
-### 15. Babel und Bibel - Niemiecki Skandal Akademicki
-**FAKT**: Na przełomie XIX i XX wieku w krajach niemieckojęzycznych szalała kontrowersja o związek między "Babel und Bibel" (Babilonią a Biblią).
+### 15. Babel und Bibel - German Academic Scandal
+**FACT**: At the turn of the 19th and 20th centuries, the "Babel und Bibel" (Babylon and Bible) controversy raged in German-speaking countries.
 
-**KONSEKWENCJE**: Odkrycie podobieństw podzieliło chrześcijan - jedni widzieli w tym potwierdzenie Biblii, inni zagrożenie dla wiary.
+**CONSEQUENCES**: The discovery of similarities divided Christians - some saw it as confirmation of the Bible, others as a threat to faith.
 
-### 16. UNESCO i Międzynarodowe Napięcia
-**FAKT**: Przypadek skradzionej tabliczki Gilgamesza pokazał, jak czarny rynek dóbr kulturowych finansuje terrorystów i grupy przestępcze.
+### 16. UNESCO and International Tensions
+**FACT**: The case of the stolen Gilgamesh tablet showed how the black market in cultural goods finances terrorists and criminal groups.
 
-**POLITYKA**: Zwrot artefaktu stał się symbolem międzynarodowej współpracy, ale także podkreślił problem systematycznego grabienia dziedzictwa kulturowego.
+**POLITICS**: The artifact's return became a symbol of international cooperation, but also highlighted the problem of systematic cultural heritage looting.
 
-## Współczesne Przepowiednie i Sprawdzone Przewidywania
+## Contemporary Prophecies and Verified Predictions
 
-### 17. Potop - Pierwsza Globalna "Fake News"?
-**TEORIA**: Niektórzy twierdzą, że opowieść o potopie to pierwsza forma "propagandy" mającej kontrolować ludność przez strach.
+### 17. The Flood - First Global "Fake News"?
+**THEORY**: Some claim that the flood story is the first form of "propaganda" designed to control the population through fear.
 
-**SPRAWDZONA PRZEPOWIEDNIA**: Epos przewidział ludzką obsesję na punkcie nieśmiertelności, która dziś przejawia się w ruchach transhumanistycznych.
+**VERIFIED PROPHECY**: The epic predicted humanity's obsession with immortality, which today manifests in transhumanist movements.
 
-### 18. Przyjaźń vs Indywidualizm
-**PRZEPOWIEDNIA**: Epos przewidział współczesną samotność - Gilgamesz bez Enkidu to metafora współczesnego człowieka odciętego od prawdziwych więzi.
+### 18. Friendship vs Individualism
+**PROPHECY**: The epic predicted contemporary loneliness - Gilgamesh without Enkidu is a metaphor for modern man cut off from true bonds.
 
-### 19. Ekologiczna Apokalipsa
-**INTERPRETACJA**: Zabicie Humbaby (strażnika lasu) przez Gilgamesza i Enkidu jest interpretowane jako przepowiednia ekologicznej katastrofy spowodowanej przez człowieka.
+### 19. Ecological Apocalypse
+**INTERPRETATION**: The killing of Humbaba (guardian of the forest) by Gilgamesh and Enkidu is interpreted as a prophecy of ecological disaster caused by humans.
 
-### 20. Kryzys Męskości
-**WSPÓŁCZESNOŚĆ**: Historia Gilgamesza i Enkidu jest analizowana jako przewidywanie współczesnego kryzysu męskości i toksycznej męskości.
+### 20. Masculinity Crisis
+**CONTEMPORARY**: The story of Gilgamesh and Enkidu is analyzed as predicting the contemporary crisis of masculinity and toxic masculinity.
 
-## Finansowe Skandale i Drama
+## Financial Scandals and Drama
 
-### 21. Milionowe Interesy przy Tabliczkach
-**FAKT**: Pojedyncza tabliczka Gilgamesza może być warta ponad 1,7 miliona dolarów na czarnym rynku.
+### 21. Million-Dollar Tablet Interests
+**FACT**: A single Gilgamesh tablet can be worth over $1.7 million on the black market.
 
-**SKANDAL**: Hobby Lobby wydało miliony na artefakty o wątpliwym pochodzeniu dla swojego Muzeum Biblii.
+**SCANDAL**: Hobby Lobby spent millions on artifacts of questionable provenance for their Museum of the Bible.
 
-### 22. Wojna jako Biznes Archeologiczny
-**ZARZUT**: Niektórzy twierdzą, że amerykańska inwazja na Irak była częściowo motywowana chęcią kontrolowania starożytnych artefaktów wartych miliardy.
+### 22. War as Archaeological Business
+**ACCUSATION**: Some claim that the American invasion of Iraq was partly motivated by the desire to control ancient artifacts worth billions.
 
-### 23. Akademicka Korupcja
-**PROBLEM**: Prestiżowi uczeni używają "wolnych adaptacji" jako wiarygodnych źródeł, wprowadzając w błąd innych badaczy.
+### 23. Academic Corruption
+**PROBLEM**: Prestigious scholars use "free adaptations" as credible sources, misleading other researchers.
 
-## Okultyzm i Religie Misteryjne
+## Occultism and Mystery Religions
 
-### 24. Nimrod w Nowoczesnym Okultzmie
-**FAKT**: Nimrod/Gilgamesz jest nadal czczony w nowoczesnych religiach misteryjnych.
+### 24. Nimrod in Modern Occultism
+**FACT**: Nimrod/Gilgamesh is still worshipped in modern mystery religions.
 
-**TEORIA**: Illuminaci i inne tajne stowarzyszenia używają symboliki związanej z Gilgameszem w swoich rytuałach.
+**THEORY**: The Illuminati and other secret societies use Gilgamesh-related symbolism in their rituals.
 
-### 25. Święta jako Ukryty Kult
-**ZARZUT**: Współczesne święta to ukryte formy kultu Nimroda, Semiramidy i Gilgamesza, zawierające elementy ofiar z ludzi i magii.
+### 25. Holidays as Hidden Cult
+**ACCUSATION**: Modern holidays are hidden forms of worship of Nimrod, Semiramis, and Gilgamesh, containing elements of human sacrifice and magic.
 
-## Psychologiczne i Społeczne Kontrowersje
+## Psychological and Social Controversies
 
-### 26. PTSD w Starożytności
-**ANALIZA**: Gilgameszowe "nawracające wspomnienia o śmierci Enkidu" to pierwsze literackie przedstawienie zespołu stresu pourazowego.
+### 26. PTSD in Antiquity
+**ANALYSIS**: Gilgamesh's "returning memories of Enkidu's death" is the first literary representation of post-traumatic stress disorder.
 
-### 27. Homoseksualne Interpretacje
-**KONTROWERSJA**: Niektórzy badacze interpretują relację Gilgamesza i Enkidu jako homoseksualną, co wywołuje spory w konserwatywnych środowiskach religijnych.
+### 27. Homosexual Interpretations
+**CONTROVERSY**: Some researchers interpret the relationship between Gilgamesh and Enkidu as homosexual, causing disputes in conservative religious circles.
 
-### 28. Kultura Gwałtu w Starożytności
-**ANALIZA**: Epos pokazuje systemową kulturę gwałtu w starożytnej Mezopotamii, gdzie król mógł bezkarnie wykorzystywać kobiety.
+### 28. Rape Culture in Antiquity
+**ANALYSIS**: The epic shows systemic rape culture in ancient Mesopotamia, where the king could exploit women with impunity.
 
-## Archeologiczne Tajemnice i Ukryte Odkrycia
+## Archaeological Mysteries and Hidden Discoveries
 
-### 29. Zaginiony Grobowiec Gilgamesza
-**PLOTKA**: W 2003 roku niemieccy archeolodzy rzekomo odnaleźli grobowiec Gilgamesza w południowym Iraku, ale miejsce zostało natychmiast zapieczętowane z powodu wojny.
+### 29. The Lost Tomb of Gilgamesh
+**RUMOR**: In 2003, German archaeologists allegedly found Gilgamesh's tomb in southern Iraq, but the site was immediately sealed due to war.
 
-**KONTROWERSJA**: Dostęp do miejsca jest zabroniony, co rodzi spekulacje o ukrywaniu sensacyjnych odkryć.
+**CONTROVERSY**: Access to the site is forbidden, giving rise to speculation about hiding sensational discoveries.
 
-### 30. Gigantyczne Szkielety
-**PLOTKA**: Podczas wykopalisk z 1979 roku rzekomo odkryto kości gigantów, które następnie tajemniczo znikały.
+### 30. Giant Skeletons
+**RUMOR**: During 1979 excavations, giant bones were allegedly discovered, which then mysteriously disappeared.
 
-**TEORIA**: Rządowa polityka zaprzeczania odkryciom gigantycznych ludzkich szkieletów została wprowadzona w latach 20. XX wieku.
+**THEORY**: A government policy of denying discoveries of giant human skeletons was introduced in the 1920s.
 
-## Literackie i Kulturowe Skandale
+## Literary and Cultural Scandals
 
-### 31. Plagiat w Antycznych Czasach
-**KONTROWERSJA**: Akademicy spierają się, czy historia potopu w Biblii to plagiat z Gilgamesza, czy oba teksty czerpią ze wspólnej tradycji.
+### 31. Plagiarism in Ancient Times
+**CONTROVERSY**: Academics debate whether the flood story in the Bible is plagiarism from Gilgamesh, or both texts draw from a common tradition.
 
-### 32. Kolonialny Wymiar Archeologii
-**KRYTYKA**: Zachodni archeolodzy przez dekady wywozili artefakty z Iraku, nie dbając o lokalne społeczności.
+### 32. Colonial Dimension of Archaeology
+**CRITICISM**: Western archaeologists for decades exported artifacts from Iraq without caring for local communities.
 
-### 33. Seksizm w Tłumaczeniach
-**PROBLEM**: Męscy tłumacze przez dziesiątki lat bagatelizowali przemoc seksualną w tekście, używając eufemizmów.
+### 33. Sexism in Translations
+**PROBLEM**: Male translators for decades downplayed sexual violence in the text, using euphemisms.
 
-## Wpływ na Popkulturę i Manipulacje
+## Influence on Pop Culture and Manipulation
 
-### 34. Hollywood i Zniekształcenia
-**PROBLEM**: Filmowe adaptacje całkowicie ignorują mroczne elementy eposu, przedstawiając Gilgamesza jako bohatera.
+### 34. Hollywood and Distortions
+**PROBLEM**: Film adaptations completely ignore the dark elements of the epic, presenting Gilgamesh as a hero.
 
-### 35. Gry Wideo i Gloryfikacja Przemocy
-**KONTROWERSJA**: Współczesne gry komputerowe gloryfikują przemoc Gilgamesza, ignorując jego aspekty tyraniczne.
+### 35. Video Games and Violence Glorification
+**CONTROVERSY**: Contemporary computer games glorify Gilgamesh's violence, ignoring his tyrannical aspects.
 
-## Współczesne Proroctwa i Ostrzeżenia
+## Contemporary Prophecies and Warnings
 
-### 36. AI i Nieśmiertelność Cyfrowa
-**PROROCTWO**: Gilgameszowa obsesja na punkcie nieśmiertelności przewidziała współczesne próby przeniesienia świadomości do komputerów.
+### 36. AI and Digital Immortality
+**PROPHECY**: Gilgamesh's obsession with immortality predicted contemporary attempts to transfer consciousness to computers.
 
-### 37. Kryzys Przyjaźni
-**PRZEWIDYWANIE**: Epos przewidział współczesną epidemię samotności - ludzie jak Gilgamesz po utracie Enkidu.
+### 37. Friendship Crisis
+**PREDICTION**: The epic predicted the contemporary epidemic of loneliness - people like Gilgamesh after losing Enkidu.
 
-### 38. Dominacja Technologii nad Naturą
-**OSTRZEŻENIE**: Zabicie Humbaby jako przepowiednia zniszczenia środowiska naturalnego przez technologię.
+### 38. Technology's Dominance over Nature
+**WARNING**: The killing of Humbaba as prophecy of environmental destruction by technology.
 
-## Religijne Oburzenie i Zakazy
+## Religious Outrage and Bans
 
-### 39. Fundamentalistyczny Opór
-**FAKT**: Chrześcijańscy fundamentaliści regularnie atakują nauczanie eposu w szkołach jako zagrożenie dla wiary.
+### 39. Fundamentalist Resistance
+**FACT**: Christian fundamentalists regularly attack the teaching of the epic in schools as a threat to faith.
 
-**OBAWA**: Nauczyciele muszą navigować między wartością literacką a religijnymi obiekcjami rodziców.
+**CONCERN**: Teachers must navigate between literary value and religious objections from parents.
 
-### 40. Islamska Perspektywa
-**KONTROWERSJA**: W krajach islamskich epos jest czasami postrzegany jako "jahiliyya" - przykład przedislamskiej ignorancji.
+### 40. Islamic Perspective
+**CONTROVERSY**: In Islamic countries, the epic is sometimes viewed as "jahiliyya" - an example of pre-Islamic ignorance.
 
-## Współczesna Relevancja i Przyszłe Kontrowersje
+## Contemporary Relevance and Future Controversies
 
-### 41. Transhumanizm i Etyka
-**PYTANIE**: Czy Gilgameszowa pogoń za nieśmiertelnością to przewidywanie współczesnych dylematów etycznych związanych z przedłużaniem życia?
+### 41. Transhumanism and Ethics
+**QUESTION**: Is Gilgamesh's pursuit of immortality a prediction of contemporary ethical dilemmas related to life extension?
 
-### 42. Kryzys Męskości i Toksyczność
-**ANALIZA**: Gilgamesz jako pierwotny przykład toksycznej męskości - władczy, przemocowy, niezdolny do emocjonalnej bliskości bez traumy.
+### 42. Masculinity Crisis and Toxicity
+**ANALYSIS**: Gilgamesh as the primordial example of toxic masculinity - domineering, violent, incapable of emotional intimacy without trauma.
 
-### 43. Globalna Amnezja Kulturowa
-**OSTRZEŻENIE**: Grabież artefaktów irackich to metafora współczesnej utraty pamięci kulturowej przez cyfryzację i globalizację.
+### 43. Global Cultural Amnesia
+**WARNING**: The looting of Iraqi artifacts is a metaphor for contemporary loss of cultural memory through digitization and globalization.
 
-### 44. Przyszłe Odkrycia i Ukrywanie Prawdy
-**SPEKULACJA**: W erze sztucznej inteligencji, czy będziemy w stanie odkryć ukryte znaczenia w tekście, których nie dostrzegli poprzedni badacze?
+### 44. Future Discoveries and Truth Concealment
+**SPECULATION**: In the age of artificial intelligence, will we be able to discover hidden meanings in the text that previous researchers missed?
 
-### 45. Ostateczna Przepowiednia
-**MROCZNA WIZJA**: Jeśli Gilgamesz reprezentuje pierwotnego człowieka poszukującego nieśmiertelności, to jego porażka może być ostrzeżeniem przed katastrofalną próbą transcendencji ludzkości poprzez technologię.
+### 45. The Ultimate Prophecy
+**DARK VISION**: If Gilgamesh represents the primordial human seeking immortality, then his failure may be a warning against catastrophic attempts at humanity's transcendence through technology.
 
-## Podsumowanie
+## Summary
 
-Epos o Gilgameszu to znacznie więcej niż starożytna opowieść - to wielowarstwowe dzieło pełne mrocznych sekretów, które nadal wywołują kontrowersje. Od skandali archeologicznych wart miliony dolarów, przez teorie spiskowe łączące go z kosmitami i Antychrystem, po współczesne debaty o przemocy seksualnej i toksycznej męskości - ten 4000-letni tekst pozostaje źródłem fascynacji i niepokoju.
+The Epic of Gilgamesh is much more than an ancient tale - it's a multi-layered work full of dark secrets that still cause controversy. From archaeological scandals worth millions of dollars, through conspiracy theories linking it to aliens and the Antichrist, to contemporary debates about sexual violence and toxic masculinity - this 4,000-year-old text remains a source of fascination and unease.
 
-Być może najciemniejszym aspektem tej historii jest fakt, że wiele z tych kontrowersji - od grabieży kulturowej po próby ukrywania niewygodnych prawd - nadal trwa. Gilgamesz przewidział nie tylko ludzką obsesję na punkcie nieśmiertelności, ale także naszą skłonność do przekształcania prawdy w mit, historii w propagandę, a tragedii w rozrywkę.
+Perhaps the darkest aspect of this story is the fact that many of these controversies - from cultural looting to attempts to hide inconvenient truths - continue today. Gilgamesh predicted not only humanity's obsession with immortality, but also our tendency to transform truth into myth, history into propaganda, and tragedy into entertainment.
 
-**Ostatnie ostrzeżenie**: Jeśli teorie o DNA Gilgamesza okażą się prawdziwe, a współczesna technologia rzeczywiście próbuje "wskrzesić" starożytnych władców, być może najciemniejsze rozdziały tej historii są jeszcze przed nami.
+**Final warning**: If the theories about Gilgamesh's DNA prove true, and contemporary technology is indeed trying to "resurrect" ancient rulers, perhaps the darkest chapters of this story are yet to come.

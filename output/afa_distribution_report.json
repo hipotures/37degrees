@@ -1,15 +1,15 @@
 {
   "total_books": 156,
-  "books_with_afa": 71,
+  "books_with_afa": 94,
   "format_counts": {
-    "academic_analysis": 14,
+    "academic_analysis": 21,
     "critical_debate": 10,
-    "temporal_context": 7,
+    "temporal_context": 9,
     "cultural_dimension": 9,
-    "social_perspective": 10,
+    "social_perspective": 16,
     "emotional_perspective": 6,
     "exploratory_dialogue": 3,
-    "narrative_reconstruction": 10,
+    "narrative_reconstruction": 18,
     "selected_format": 2
   },
   "books_list": [
@@ -296,6 +296,98 @@
     {
       "book": "0070_on_the_road",
       "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0071_beloved",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0072_the_color_purple",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0073_their_eyes_were_watching_god",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0074_invisible_man",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0075_native_son",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0076_things_fall_apart",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0077_the_god_of_small_things",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0079_the_satanic_verses",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0080_a_passage_to_india",
+      "format": "social_perspective"
+    },
+    {
+      "book": "0081_the_jungle_book",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0082_heart_of_darkness",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0083_lord_of_the_flies",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0084_a_clockwork_orange",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0085_the_handmaids_tale",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0086_frankenstein",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0087_dracula",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0088_the_strange_case_of_dr_jekyll_and_mr_hyde",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0089_twenty_thousand_leagues_under_the_sea",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0090_around_the_world_in_eighty_days",
+      "format": "temporal_context"
+    },
+    {
+      "book": "0091_journey_to_the_center_of_the_earth",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0092_the_time_machine",
+      "format": "academic_analysis"
+    },
+    {
+      "book": "0093_the_war_of_the_worlds",
+      "format": "narrative_reconstruction"
+    },
+    {
+      "book": "0094_the_invisible_man",
+      "format": "academic_analysis"
     }
   ]
 }

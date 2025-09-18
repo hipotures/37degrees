@@ -1,247 +1,247 @@
-# Fascynujące Fakty i Historia: "Bóg rzeczy małych" (The God of Small Things)
+# Fascinating Facts and History: "The God of Small Things"
 
-*Badania historii powstania książki Arundhati Roy z 1997 roku*
+*Research on the creation history of Arundhati Roy's 1997 book*
 
-## 🎯 Kluczowe Informacje
-- **Tytuł oryginalny**: The God of Small Things
-- **Autor**: Arundhati Roy
-- **Rok publikacji**: 1997
-- **Nagrody**: Booker Prize 1997
-- **Status**: Pierwsza i przez 20 lat jedyna powieść Roy
-
----
-
-## 📚 HISTORIA POWSTANIA KSIĄŻKI
-
-### **FAKT**: Przypadkowe Odkrycie Tematu
-Roy nie wiedziała, że pisze powieść, kiedy zaczynała w 1992 roku. Początkowo "tylko się bawiła" przez pierwsze miesiące, zanim uświadomiła sobie, co się dzieje i wzięła się do poważnego pisania.
-
-### **FAKT**: Architektoniczna Metoda Pisania
-Roy, z wykształcenia architektka, podeszła do pisania jak do projektowania budynku. Pewnego dnia "obudziła się i naszkicowała fabułę graficznie za pomocą serii rysunków. Wtedy zrozumiała, do czego zmierza".
-
-### **FAKT**: Pisanie Poza Sekwencją
-Roy napisała powieść w sposób nieliniowy - nie zaczynała od pierwszego rozdziału ani nie kończyła ostatnim. "Gdyby ktoś mi powiedział przed rozpoczęciem, że tak będę pisała powieść, nie uwierzyłabym".
-
-### **FAKT**: Bezbłędny Pierwszy Dragg
-Roy twierdzi, że nigdy nie przepisała ani jednego zdania w powieści. Układanie fabuły zajęło czas, "ale nigdy nie było bolesne".
-
-### **FAKT**: Tytuł w Ostatniej Chwili
-Tytuł książki został wymyślony "w ostatniej minucie", gdy manuskrypt szedł do druku. Jeden z rozdziałów nazywał się "The God of Small Things" i Roy zauważyła liczne odniesienia do małych rzeczy w całej książce.
-
-### **FAKT**: Cztery Lata Intensywnej Pracy (1992-1996)
-Roy rozpoczęła pisanie w 1992 roku na komputerze w New Delhi i ukończyła książkę w 1996 roku, co dało publikację w 1997 roku.
+## 🎯 Key Information
+- **Original Title**: The God of Small Things
+- **Author**: Arundhati Roy
+- **Publication Year**: 1997
+- **Awards**: Booker Prize 1997
+- **Status**: Roy's first and for 20 years only novel
 
 ---
 
-## 🔍 AUTOBIOGRAFICZNE ELEMENTY
+## 📚 BOOK CREATION HISTORY
 
-### **FAKT**: Pół-Autobiograficzna Opowieść
-Roy otwarcie przyznała, że powieść jest pół-autobiograficzna, modelując postacie na podstawie ludzi, których znała w prawdziwym życiu.
+### **FACT**: Accidental Discovery of the Theme
+Roy didn't know she was writing a novel when she started in 1992. Initially she was "just playing around" for the first months, before realizing what was happening and taking the writing seriously.
 
-### **FAKT**: Prawdziwe Prototypy Postaci
-- **Mary Roy (matka Arundhati)** = **Ammu**
-- **P.V. Isaac (dziadek)** = **Pappachi**
-- **George Isaac (wuj)** = **Chacko**
-- **Cecilia Philipson (była żona wuja)** = **Margaret Kochamma**
+### **FACT**: Architectural Writing Method
+Roy, trained as an architect, approached writing like designing a building. One day she "woke up and sketched the plot graphically using a series of drawings. That's when she understood where she was heading."
 
-### **FAKT**: "Dźwięki Muzyki" z Dzieciństwa
-Rodzinne wyjazdy do kina na "The Sound of Music" w powieści mają podstawy w rzeczywistości - Roy wspomina, jak jej rodzina jeździła dwugodzinną podróżą samochodem do Cochin, żeby obejrzeć film około siedmiu razy, gdy była dzieckiem.
+### **FACT**: Writing Out of Sequence
+Roy wrote the novel non-linearly - she didn't start with the first chapter or end with the last. "If someone had told me before I started that I would write a novel this way, I wouldn't have believed it."
 
-### **FAKT**: Prawdziwa Fabryka Przetworów
-Babcia Roy prowadziła fabrykę przetworów, podobnie jak rodzina Rahel i Esthy w powieści.
+### **FACT**: Perfect First Draft
+Roy claims she never rewrote a single sentence in the novel. Arranging the plot took time, "but it was never painful."
 
-### **FAKT**: Dzieciństwo w Aymanam
-Akcja toczy się w Ayemenem, wiosce w dystrykcie Kottayam w Kerali, gdzie Roy dorastała i na własne oczy widziała archaiczny system kastowy.
+### **FACT**: Last-Minute Title
+The book's title was invented "at the last minute" when the manuscript was going to print. One of the chapters was called "The God of Small Things" and Roy noticed numerous references to small things throughout the book.
 
----
-
-## 💰 REKORDOWE SUMY I LICZBY
-
-### **FAKT**: Rekordowa Zaliczka dla Debiutanta
-Roy otrzymała zaliczkę w wysokości £500,000 (pół miliona funtów) - niezwykle wysoką sumę dla debiutującego autora.
-
-### **FAKT**: Łączna Zaliczka $1.6 Miliona
-Łączna zaliczka od wydawców na całym świecie wyniosła $1.6 miliona - rekord dla indyjskiego autora w tamtym czasie.
-
-### **FAKT**: Aukcja Praw Wydawniczych
-Prawa do książki zostały sprzedane na aukcji przez brytyjskiego agenta Davida Godwina za $250,000 w Wielkiej Brytanii i $160,000 do Random House w Nowym Jorku.
-
-### **FAKT**: 21 Krajów od Razu
-Prawa do książki zostały sprzedane w 21 krajach jeszcze przed publikacją.
-
-### **FAKT**: 350,000 Egzemplarzy w Pół Roku
-W pierwszych sześciu miesiącach "The God of Small Things" sprzedało się w nakładzie 350,000 egzemplarzy międzynarodowo.
-
-### **FAKT**: 6 Milionów Egzemplarzy Ogółem
-Do dziś książka sprzedała się w nakładzie ponad 6 milionów egzemplarzy na całym świecie.
-
-### **FAKT**: Tłumaczenia na 40+ Języków
-Powieść została przetłumaczona na ponad 40 języków, w tym na malajalam przez Priya A.S. pod tytułem "Kunju Karyangalude Odeythampuran".
+### **FACT**: Four Years of Intensive Work (1992-1996)
+Roy began writing in 1992 on a computer in New Delhi and completed the book in 1996, leading to publication in 1997.
 
 ---
 
-## 🏆 ODKRYCIE I DROGA DO BOOKER PRIZE
+## 🔍 AUTOBIOGRAPHICAL ELEMENTS
 
-### **FAKT**: Podróż Kolejowa jako Punkt Zwrotny
-Pankaj Mishra z HarperCollins zabrał manuskrypt w podróż kolejową i "ogarnięty ekscytacją, przerwał podróż w połowie drogi, żeby zatelefonować z gratulacjami do Roy".
+### **FACT**: Semi-Autobiographical Story
+Roy openly admitted that the novel is semi-autobiographical, modeling characters on people she knew in real life.
 
-### **FAKT**: Lot "na Impuls"
-David Godwin, po przeczytaniu przykładowego rozdziału w Londynie, "zarezerwował na impuls pierwszy lot do Indii... i podpisał z nią kontrakt na miejscu".
+### **FACT**: Real Character Prototypes
+- **Mary Roy (Arundhati's mother)** = **Ammu**
+- **P.V. Isaac (grandfather)** = **Pappachi**
+- **George Isaac (uncle)** = **Chacko**
+- **Cecilia Philipson (uncle's ex-wife)** = **Margaret Kochamma**
 
-### **FAKT**: $30,000 Nagrody Booker Prize
-Nagroda Booker Prize w 1997 roku wynosiła około $30,000 z cytatem: "Książka dotrzymuje wszystkich obietnic, które składa".
+### **FACT**: "The Sound of Music" from Childhood
+The family trips to see "The Sound of Music" in the novel are based on reality - Roy remembers how her family would take a two-hour car journey to Cochin to watch the film about seven times when she was a child.
 
-### **FAKT**: Przekazanie Pieniędzy na Cele Społeczne
-Roy przekazała pieniądze z nagrody Booker Prize oraz tantiemy z książki na cele związane z prawami człowieka.
+### **FACT**: Real Pickle Factory
+Roy's grandmother ran a pickle factory, similar to Rahel and Estha's family in the novel.
 
----
-
-## 🔥 KONTROWERSJE I REAKCJE
-
-### **FAKT**: Zarzuty o Obscenę w Indiach
-E.K. Nayanar, ówczesny naczelny minister stanu Kerala, skrytykował "nieskrępowany opis seksualności" w książce, a Roy musiała odpowiadać na zarzuty obsceny.
-
-### **FAKT**: 10 lat Sądowych Batalii
-Prawnik Sabu Thomas wniósł przeciwko Roy oskarżenia o obscenę w Kerali, szczególnie z powodu opisu seksu między syryjską chrześcijanką a mężczyzną z niższej kasty. Postępowanie trwało 10 lat.
-
-### **FAKT**: Podział Krytyczny w Wielkiej Brytanii
-Carmen Callil, sędzia Booker Prize z 1996 roku, nazwała powieść "execrable" (okropną), a dziennikarz Guardian nazwał konkurs "profoundly depressing" (głęboko przygnębiającym).
-
-### **FAKT**: "Populistyczny" vs "Trudny"
-Prasa krytykowała nagrodę z dwóch stron - jedni nazywali ją zbyt "populistyczną" (bo się dobrze sprzedawała), inni zbyt "trudną".
-
-### **FAKT**: Krytyka Komunistów
-Książka wzbudziła uwagę kręgów lewicowych z powodu "nieodpowiedniego przedstawienia" komunistycznego przywódcy E.M.S Namboodripada, opisanego jako "ekstrawagancki bramin, naczelny kapłan marksizmu w Kerali", "sowiecki pachołek".
+### **FACT**: Childhood in Aymanam
+The action takes place in Ayemenem, a village in Kottayam district in Kerala, where Roy grew up and witnessed the archaic caste system firsthand.
 
 ---
 
-## 👨‍👩‍👧‍👦 RODZINA I TŁO SPOŁECZNE
+## 💰 RECORD SUMS AND NUMBERS
 
-### **FAKT**: Mary Roy - Pionierka Praw Kobiet
-Matka Roy, Mary Roy (1933-2022), była pionierką praw kobiet, która wygrała w 1986 roku sprawę w Sądzie Najwyższym przeciwko prawu dziedziczenia obowiązującemu w społeczności syryjskich chrześcijan Malabar Nasrani z Kerali.
+### **FACT**: Record Advance for a Debut Author
+Roy received an advance of £500,000 (half a million pounds) - an extremely high sum for a debuting author.
 
-### **FAKT**: Przełomowe Orzeczenie 1986
-Dzięki Mary Roy kobiety z społeczności syryjskich chrześcijan otrzymały równe prawa do własności ojcowskiej ze swoimi braćmi, obalając postanowienia Travancore Christian Succession Act z 1916 roku.
+### **FACT**: Total Advance $1.6 Million
+The total advance from publishers worldwide was $1.6 million - a record for an Indian author at that time.
 
-### **FAKT**: Advokat Indira Jaising
-Mary Roy była reprezentowana przez adwokata Indirę Jaising, która sama była aktywistką praw kobiet.
+### **FACT**: Publishing Rights Auction
+The book's rights were sold at auction by British agent David Godwin for $250,000 in the UK and $160,000 to Random House in New York.
 
-### **FAKT**: Założycielka Szkoły
-Mary Roy była założycielką-dyrektorką Pallikoodam (dawniej Corpus Christi High School) w Kalathilpady, na przedmieściach miasta Kottayam w stanie Kerala.
+### **FACT**: 21 Countries Immediately
+The book's rights were sold in 21 countries even before publication.
 
-### **FAKT**: Złożona Relacja Matka-Córka
-"Moja matka złamała mnie i uczyniła mnie, i złamała mnie i uczyniła mnie, i nadal to robi" - powiedziała Arundhati Roy w wywiadzie dla BBC w 2017 roku.
+### **FACT**: 350,000 Copies in Six Months
+In the first six months, "The God of Small Things" sold 350,000 copies internationally.
 
----
+### **FACT**: 6 Million Copies Total
+To date, the book has sold over 6 million copies worldwide.
 
-## 🎬 KARIERA FILMOWA I WPŁYWY
-
-### **FAKT**: Nagroda Filmowa Przed Booker Prize
-Roy wygrała National Film Award for Best Screenplay w 1988 roku za "In Which Annie Gives It Those Ones" - film oparty na jej doświadczeniach jako studentki architektury.
-
-### **FAKT**: Występ w Filmie
-Roy pojawiła się jako aktorka w filmie "In Which Annie Gives It Those Ones" (1988), dla którego napisała scenariusz.
-
-### **FAKT**: "Electric Moon" (1992)
-Roy napisała również scenariusz do "Electric Moon" (1992). Oba filmy były reżyserowane przez jej ówczesnego męża Pradipa Krishena.
-
-### **FAKT**: Wpływy Literackie
-Roy wymienia jako swoje wpływy: William Shakespeare, Rudyard Kipling, James Baldwin, Toni Morrison, Maya Angelou, John Berger, James Joyce, Vladimir Nabokov i Gabriel Garcia Marquez.
+### **FACT**: Translations into 40+ Languages
+The novel has been translated into over 40 languages, including Malayalam by Priya A.S. under the title "Kunju Karyangalude Odeythampuran."
 
 ---
 
-## 🏠 ŻYCIE OSOBISTE I POCZĄTKI
+## 🏆 DISCOVERY AND PATH TO BOOKER PRIZE
 
-### **FAKT**: Urodzenie w Shillong (1961)
-Suzanna Arundhati Roy urodziła się 24 listopada 1961 roku w Shillong w niepodzielo Assamie (obecnie w Meghalaya) w rodzinie chrześcijańskiej.
+### **FACT**: Train Journey as Turning Point
+Pankaj Mishra from HarperCollins took the manuscript on a train journey and "overwhelmed with excitement, interrupted his journey halfway to call Roy with congratulations."
 
-### **FAKT**: Rozwód Rodziców i Powrót do Kerali
-Gdy miała dwa lata, jej rodzice się rozwiedli i wróciła do Kerali z matką i bratem.
+### **FACT**: Impulse Flight
+David Godwin, after reading a sample chapter in London, "booked the first flight to India on impulse... and signed a contract with her on the spot."
 
-### **FAKT**: Życie w Slamsach
-Roy przez pewien czas mieszkała w chacie w slumsach w Ferozshah Kotla i zarabiała na życie sprzedając puste butelki po piwie i prowadząc zajęcia aerobiku.
+### **FACT**: $30,000 Booker Prize Award
+The Booker Prize in 1997 was worth about $30,000 with the citation: "The book keeps all the promises it makes."
 
-### **FAKT**: Niedokończone Studia Architektoniczne
-Roy studiowała architekturę w Delhi School of Architecture, ale nie ukończyła studiów dyplomem.
-
----
-
-## 🌍 MIĘDZYNARODOWE UZNANIE
-
-### **FAKT**: Top 10 Największych Azjatyckich Powieści
-W 2014 roku The Daily Telegraph umieściło "The God of Small Things" w rankingu 10 największych azjatyckich powieści wszech czasów.
-
-### **FAKT**: BBC's 100 Najbardziej Wpływowych Powieści
-W 2019 roku BBC umieściło książkę na liście 100 najbardziej wpływowych powieści.
-
-### **FAKT**: "Big Jubilee Read" 2022
-W 2022 roku "The God of Small Things" zostało umieszczone na liście "Big Jubilee Read" celebrującej 70 lat literatury Wspólnoty Narodów.
-
-### **FAKT**: Dalit Sahitya Academy Award 1999
-Roy otrzymała Dalit Sahitya Academy Award w 1999 roku za swoje stanowisko w sprawie Dalitów i Niedotykalnych w kraju.
+### **FACT**: Money Donated to Social Causes
+Roy donated the Booker Prize money and royalties from the book to human rights causes.
 
 ---
 
-## 📺 BRAK ADAPTACJI FILMOWEJ
+## 🔥 CONTROVERSIES AND REACTIONS
 
-### **PLOTKA**: Żadnej Adaptacji Filmowej
-Pomimo międzynarodowego sukcesu i lirycznej prozy idealnej na film, "The God of Small Things" nigdy nie zostało zaadaptowane na film ani serial telewizyjny przez ponad 25 lat od publikacji.
+### **FACT**: Obscenity Charges in India
+E.K. Nayanar, then Chief Minister of Kerala state, criticized the "unrestricted description of sexuality" in the book, and Roy had to respond to obscenity charges.
 
----
+### **FACT**: 10 Years of Legal Battles
+Lawyer Sabu Thomas filed obscenity charges against Roy in Kerala, particularly for the description of sex between a Syrian Christian woman and a lower-caste man. The proceedings lasted 10 years.
 
-## ✍️ 20-LETNIA PRZERWA OD FIKCJI
+### **FACT**: Critical Division in Britain
+Carmen Callil, a 1996 Booker Prize judge, called the novel "execrable," and a Guardian journalist called the competition "profoundly depressing."
 
-### **FAKT**: Przejście na Aktywizm Polityczny
-Po publikacji "The God of Small Things" w 1997 roku, Roy skupiła się głównie na aktywizmie politycznym i pisaniu eseistycznym, publikując drugą powieść "The Ministry of Utmost Happiness" dopiero w 2017 roku.
+### **FACT**: "Populist" vs "Difficult"
+The press criticized the award from two sides - some called it too "populist" (because it sold well), others too "difficult."
 
-### **FAKT**: "The End of Imagination" (1998)
-Zaledwie kilka miesięcy po uniwersalnym uznaniu za Booker Prize, Roy opublikowała "The End of Imagination" - płomienny esej przeciw testom nuklearnym Indii w 1998 roku, inaugurując drugą karierę jako komentatorka polityczna.
-
-### **FAKT**: Kolekcja "My Seditious Heart" (2019)
-"My Seditious Heart" to kolekcja jej tekstów publicystycznych obejmująca 20 lat pisania politycznego.
-
----
-
-## 🎨 JĘZYK I STYL
-
-### **FAKT**: Zabawa z Językiem Bliźniąt
-Zabawny język bliźniąt Estha i Rahel odzwierciedlał kreatywne podejście Roy do designu, z słowami rozdzielonymi i czasami łączonymi: "'Later' stało się 'Lay. Ter.' 'An owl' stało się 'A Nowl.' 'Sour metal smell' stało się 'sourmetal smell'".
-
-### **FAKT**: Wzory Architektoniczne w Pisaniu
-"W budynkach są motywy projektowe, które powtarzają się w kółko - wzory, krzywe. Te motywy pomagają nam czuć się komfortowo w fizycznej przestrzeni. To samo działa w pisaniu" - wyjaśniała Roy.
-
-### **FAKT**: "Love Laws" - Prawa Miłości
-Centralne pojęcie powieści: "To naprawdę zaczęło się w dniach, gdy ustanowiono Prawa Miłości. Prawa, które określają, kto powinien być kochany, i jak. I jak bardzo".
+### **FACT**: Communist Criticism
+The book drew attention from leftist circles for its "inappropriate portrayal" of communist leader E.M.S Namboodripada, described as an "extravagant Brahmin, high priest of Marxism in Kerala," a "Soviet stooge."
 
 ---
 
-## 📊 STATYSTYKI I REKORDY
+## 👨‍👩‍👧‍👦 FAMILY AND SOCIAL BACKGROUND
 
-### **FAKT**: Najlepiej Sprzedająca się Książka Nieimigranta z Indii
-"The God of Small Things" stało się najlepiej sprzedającą się książką napisaną przez nie-imigranta indyjskiego autora.
+### **FACT**: Mary Roy - Women's Rights Pioneer
+Roy's mother, Mary Roy (1933-2022), was a women's rights pioneer who won a 1986 Supreme Court case against inheritance law applicable to the Syrian Christian Malabar Nasrani community of Kerala.
 
-### **FAKT**: Jedna z 5 Najlepszych Książek 1997 według TIME
-Czasopismo TIME umieściło powieść wśród pięciu najlepszych książek 1997 roku.
+### **FACT**: Landmark 1986 Ruling
+Thanks to Mary Roy, women in the Syrian Christian community received equal property rights with their brothers, overturning provisions of the Travancore Christian Succession Act of 1916.
 
-### **FAKT**: Pierwszy Indyjski Autor z Booker Prize od 1981
-Roy była pierwszym indyjskim autorem, który wygrał Booker Prize od czasu Salman Rushdie z "Midnight's Children" w 1981 roku.
+### **FACT**: Advocate Indira Jaising
+Mary Roy was represented by advocate Indira Jaising, who was herself a women's rights activist.
 
----
+### **FACT**: School Founder
+Mary Roy was the founder-principal of Pallikoodam (formerly Corpus Christi High School) in Kalathilpady, on the outskirts of Kottayam town in Kerala state.
 
-## 🌶️ KURIOZA I ANEGDOTY
-
-### **FAKT**: Architektura jako "Praktyczna Konieczność"
-Roy studiowała architekturę, bo "potrzebowała mieć zawód, potrzebowała zarabiać na własne utrzymanie, żeby móc uciec od tego, co społeczeństwo normalnie by dla niej przygotowało".
-
-### **FAKT**: Inspiracje "Na Ostatnią Chwilę"
-Roy nie zaczynała z tytułem i nie budowała wokół niego powieści - było "absolutnie nie" tak, jak niektórzy spekulowali.
-
-### **FAKT**: Pierwsze Reakcje na Manuskrypt
-Gdy Pankaj Mishra po raz pierwszy przeczytał fragmenty manuskryptu w podróży kolejowej, był tak podekscytowany, że przerwał podróż, żeby zadzwonić z gratulacjami.
-
-### **FAKT**: Brak Przepisywania
-Roy nigdy nie przepisała napisanego zdania - cały proces twórczy skupiał się na układaniu i strukturze, nie na poprawianiu tekstu.
+### **FACT**: Complex Mother-Daughter Relationship
+"My mother broke me and made me, and broke me and made me, and she continues to do so" - Arundhati Roy said in a 2017 BBC interview.
 
 ---
 
-*Badania przeprowadzone na podstawie międzynarodowych źródeł literackich, wywiadów z autorką oraz dokumentacji historycznej dotyczącej publikacji i recepcji dzieła.*
+## 🎬 FILM CAREER AND INFLUENCES
+
+### **FACT**: Film Award Before Booker Prize
+Roy won the National Film Award for Best Screenplay in 1988 for "In Which Annie Gives It Those Ones" - a film based on her experiences as an architecture student.
+
+### **FACT**: Film Appearance
+Roy appeared as an actress in the film "In Which Annie Gives It Those Ones" (1988), for which she wrote the screenplay.
+
+### **FACT**: "Electric Moon" (1992)
+Roy also wrote the screenplay for "Electric Moon" (1992). Both films were directed by her then-husband Pradip Krishen.
+
+### **FACT**: Literary Influences
+Roy lists as her influences: William Shakespeare, Rudyard Kipling, James Baldwin, Toni Morrison, Maya Angelou, John Berger, James Joyce, Vladimir Nabokov, and Gabriel Garcia Marquez.
+
+---
+
+## 🏠 PERSONAL LIFE AND BEGINNINGS
+
+### **FACT**: Birth in Shillong (1961)
+Suzanna Arundhati Roy was born on November 24, 1961, in Shillong in undivided Assam (now in Meghalaya) into a Christian family.
+
+### **FACT**: Parents' Divorce and Return to Kerala
+When she was two years old, her parents divorced and she returned to Kerala with her mother and brother.
+
+### **FACT**: Life in Slums
+Roy lived for a time in a hut in the slums of Ferozshah Kotla and earned money selling empty beer bottles and teaching aerobics classes.
+
+### **FACT**: Unfinished Architecture Studies
+Roy studied architecture at Delhi School of Architecture but did not complete her studies with a degree.
+
+---
+
+## 🌍 INTERNATIONAL RECOGNITION
+
+### **FACT**: Top 10 Greatest Asian Novels
+In 2014, The Daily Telegraph placed "The God of Small Things" in the ranking of 10 greatest Asian novels of all time.
+
+### **FACT**: BBC's 100 Most Influential Novels
+In 2019, the BBC placed the book on the list of 100 most influential novels.
+
+### **FACT**: "Big Jubilee Read" 2022
+In 2022, "The God of Small Things" was placed on the "Big Jubilee Read" list celebrating 70 years of Commonwealth literature.
+
+### **FACT**: Dalit Sahitya Academy Award 1999
+Roy received the Dalit Sahitya Academy Award in 1999 for her stance on Dalits and Untouchables in the country.
+
+---
+
+## 📺 LACK OF FILM ADAPTATION
+
+### **RUMOR**: No Film Adaptation
+Despite international success and lyrical prose perfect for film, "The God of Small Things" has never been adapted into a film or television series for over 25 years since publication.
+
+---
+
+## ✍️ 20-YEAR BREAK FROM FICTION
+
+### **FACT**: Transition to Political Activism
+After publishing "The God of Small Things" in 1997, Roy focused mainly on political activism and essay writing, publishing her second novel "The Ministry of Utmost Happiness" only in 2017.
+
+### **FACT**: "The End of Imagination" (1998)
+Just months after universal acclaim for the Booker Prize, Roy published "The End of Imagination" - a fiery essay against India's nuclear tests in 1998, inaugurating a second career as a political commentator.
+
+### **FACT**: "My Seditious Heart" Collection (2019)
+"My Seditious Heart" is a collection of her journalistic texts covering 20 years of political writing.
+
+---
+
+## 🎨 LANGUAGE AND STYLE
+
+### **FACT**: Playing with Twins' Language
+The playful language of twins Estha and Rahel reflected Roy's creative approach to design, with words separated and sometimes combined: "'Later' became 'Lay. Ter.' 'An owl' became 'A Nowl.' 'Sour metal smell' became 'sourmetal smell'."
+
+### **FACT**: Architectural Patterns in Writing
+"In buildings there are design motifs that repeat in circles - patterns, curves. These motifs help us feel comfortable in physical space. The same works in writing" - Roy explained.
+
+### **FACT**: "Love Laws"
+The central concept of the novel: "It really began in the days when the Love Laws were made. The laws that lay down who should be loved, and how. And how much."
+
+---
+
+## 📊 STATISTICS AND RECORDS
+
+### **FACT**: Best-Selling Book by Non-Immigrant Indian Author
+"The God of Small Things" became the best-selling book written by a non-immigrant Indian author.
+
+### **FACT**: One of TIME's 5 Best Books of 1997
+TIME magazine placed the novel among the five best books of 1997.
+
+### **FACT**: First Indian Author with Booker Prize Since 1981
+Roy was the first Indian author to win the Booker Prize since Salman Rushdie with "Midnight's Children" in 1981.
+
+---
+
+## 🌶️ CURIOSITIES AND ANECDOTES
+
+### **FACT**: Architecture as "Practical Necessity"
+Roy studied architecture because she "needed to have a profession, needed to earn her own living, to be able to escape from what society would normally prepare for her."
+
+### **FACT**: "Last-Minute" Inspirations
+Roy didn't start with a title and build the novel around it - it was "absolutely not" as some speculated.
+
+### **FACT**: First Reactions to Manuscript
+When Pankaj Mishra first read fragments of the manuscript on a train journey, he was so excited that he interrupted his journey to call with congratulations.
+
+### **FACT**: No Rewriting
+Roy never rewrote a written sentence - the entire creative process focused on arrangement and structure, not on improving the text.
+
+---
+
+*Research conducted based on international literary sources, interviews with the author, and historical documentation regarding the publication and reception of the work.*

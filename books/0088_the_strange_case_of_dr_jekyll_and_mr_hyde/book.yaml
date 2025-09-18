@@ -1,6 +1,249 @@
 book_info:
   title: "The Strange Case of Dr Jekyll and Mr Hyde"
-  title_pl: "Dziwna historia doktora Jekylla i pana Hyde’a"
+  title_pl: "Dziwna historia doktora Jekylla i pana Hyde'a"
   author: "Robert Louis Stevenson"
   year: 1886
   genre: "Gothic,Novella"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T16:45:00Z"
+
+  scores:
+    controversy: 7.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 10.0
+    contemporary_reception: 7.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 7.0
+    total: 65.0
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_1"
+        type: "CONTROVERSY"
+        credibility: 0.95
+        content: "Multiple controversies including homosexual allegory accusations, drug use allegations, religious censorship, and Victorian moral panic"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "25+ distinct philosophical interpretations including Jungian Shadow, Freudian Id/Ego/Superego, and cross-cultural readings"
+        source: "symbols_meanings"
+      - id: "culture_impact_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "123+ film adaptations making it the most filmed work of literature, Broadway musical with 1,543 performances"
+        source: "culture_impact"
+      - id: "youth_digital_1"
+        type: "FACT"
+        credibility: 0.90
+        content: "Strong contemporary presence: TikTok hashtag #DID over 1 million views, Dark Academia aesthetic phenomenon"
+        source: "youth_digital"
+      - id: "reality_wisdom_1"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Eerily prophetic about modern psychology: Jekyll/Hyde relationships official term, social media duality parallels"
+        source: "reality_wisdom"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created urban gothic subgenre, pioneered psychological horror, influenced major authors including Wilde, Stoker, Wells"
+        source: "writing_innovation"
+      - id: "facts_history_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in 3 days from nightmare inspiration, 40,000 copies sold in 6 months, fastest writing of literary classic"
+        source: "facts_history"
+      - id: "content_warnings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Medium risk for social platforms: physical violence themes, drug context, mental health disorders, age 16+ recommended"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, Norton Critical Edition used at 2,000+ universities worldwide"
+        key_editions:
+          - "Norton Critical Edition (Deborah Lutz)"
+          - "Oxford World's Classics"
+          - "Penguin Classics"
+        reception_notes: "First Times review (Jan 25, 1886) transformed from bookstore boycott to 40,000 copies in 6 months"
+        educational_status: "Required reading in Victorian literature courses UK/US/Canada/Australia"
+        local_themes:
+          - "Victorian hypocrisy and social repression"
+          - "London urban gothic atmosphere"
+          - "Public vs private moral duality"
+          - "Professional reputation pressures"
+
+      pl:
+        cultural_impact: "First Polish edition 1925 as 'Człowiek o dwu twarzach', available on Wolne Lektury educational platform"
+        key_editions:
+          - "Bertold Merwin translation (Wolne Lektury)"
+          - "Paulina Braiter translation with illustrations"
+          - "MG Publishing bilingual editions"
+        reception_notes: "Musical adaptation in Poznań (2017), one-man show by Krzysztof Globisz"
+        educational_status: "Supplementary reading in world literature curriculum, not mandatory"
+        local_themes:
+          - "Dual nature relevant to post-communist identity struggles"
+          - "Authority figure corruption resonances"
+          - "Scientific ethics in medical education"
+
+      de:
+        cultural_impact: "Strong academic tradition in German psychology and literature, philosophical interpretations dominant"
+        key_editions:
+          - "Reclam Universal-Bibliothek"
+          - "Insel Verlag editions"
+          - "Academic commentary editions"
+        reception_notes: "Emphasis on psychological and philosophical depth rather than Gothic horror"
+        educational_status: "Standard in German literature and psychology curricula"
+        local_themes:
+          - "Romantic duality tradition (Doppelgänger motif)"
+          - "Psychoanalytic interpretations"
+          - "Scientific responsibility themes"
+
+      fr:
+        cultural_impact: "French literary tradition of psychological novels, influenced by Baudelaire's 'spleen'"
+        key_editions:
+          - "Gallimard Folio Classique"
+          - "Livre de Poche"
+          - "Academic Flammarion editions"
+        reception_notes: "Connection to French decadent movement and fin de siècle literature"
+        educational_status: "Studied in comparative literature and English studies"
+        local_themes:
+          - "Baudelairian split between ideal and reality"
+          - "Scientific materialism vs spiritual nature"
+          - "Urban alienation in modern city"
+
+      es:
+        cultural_impact: "Popular in Spanish Gothic revival, connections to magical realism tradition"
+        key_editions:
+          - "Cátedra Letras Universales"
+          - "Alianza Editorial"
+          - "Austral Planeta"
+        reception_notes: "Strong reception in Latin America, connections to Borges and fantastic literature"
+        educational_status: "Required reading in Anglo-Saxon literature courses"
+        local_themes:
+          - "Catholic vs secular moral frameworks"
+          - "Honor and reputation in Hispanic culture"
+          - "Scientific progress vs traditional values"
+
+      pt:
+        cultural_impact: "Strong presence in Brazilian and Portuguese Gothic tradition"
+        key_editions:
+          - "Martin Claret editions"
+          - "L&PM Pocket"
+          - "Companhia das Letras"
+        reception_notes: "Popular in university literature courses, psychological interpretations"
+        educational_status: "Standard in English literature studies"
+        local_themes:
+          - "Tropical Gothic adaptations"
+          - "Social class transformation anxieties"
+          - "Medical ethics in colonial context"
+
+      ja:
+        cultural_impact: "Influential in Japanese horror and manga traditions, psychological complexity valued"
+        key_editions:
+          - "Iwanami Bunko"
+          - "Shincho Bunko"
+          - "Kodansha Academic Editions"
+        reception_notes: "Adapted in manga and anime, psychological transformation themes resonate"
+        educational_status: "Studied in English literature and comparative culture courses"
+        local_themes:
+          - "Honne/tatemae (true feelings vs public facade)"
+          - "Social conformity pressure"
+          - "Western science vs Eastern philosophy"
+
+      ko:
+        cultural_impact: "Popular in Korean psychological thriller tradition, social pressure themes resonate"
+        key_editions:
+          - "Minumsa World Literature"
+          - "Sigongsa Academic Series"
+          - "Yeolim Publishing"
+        reception_notes: "Strong academic reception, connections to contemporary Korean psychology"
+        educational_status: "Required in comparative literature and English studies"
+        local_themes:
+          - "Social face (chemyeon) vs private self"
+          - "Achievement pressure and mental health"
+          - "Traditional vs modern identity conflicts"
+
+      hi:
+        cultural_impact: "Philosophical interpretations through Indian psychology traditions, dharma/adharma conflicts"
+        key_editions:
+          - "Oxford India Paperbacks"
+          - "Penguin India Classics"
+          - "Rupa Publications"
+        reception_notes: "Academic focus on moral philosophy and psychological complexity"
+        educational_status: "Standard in English literature curricula across Indian universities"
+        local_themes:
+          - "Dharma vs personal desires conflict"
+          - "Karma and consequences of actions"
+          - "Vedantic concepts of multiple selves"
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative journalist uncovering the truth"
+        host_b: "eyewitness to the transformation and its consequences"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Setting up the mystery: What really happened to Dr Jekyll? Initial clues and witness accounts"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "First-hand account of Jekyll's experiments and the emergence of Hyde"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the scientific method behind the transformation"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "investigation"
+          lead: "host_b"
+          description: "The mounting evidence and Utterson's desperate search for answers"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "The final confession and lasting impact on psychology and literature"
+      prompts:
+        host_a: "You are {male_name}, an investigative journalist in 2025 exploring the most famous psychological case in literature. Ask probing questions about Dr Jekyll's experiments, demand evidence, and help listeners understand the scientific and social implications. Focus on uncovering the truth behind the transformation and its contemporary relevance for mental health and identity."
+        host_b: "You are {female_name}, someone who lived through these events and witnessed the horror firsthand. Describe the atmosphere of Victorian London, Jekyll's laboratory, the terror of encountering Hyde. Bring the emotional impact to life while explaining how these themes still resonate today with social media personas and hidden selves."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "descriptions of physical violence"
+      - "mental health disorder themes"
+      - "historical drug context (19th century medicine)"
+      - "psychological transformation content"
+    educational_elements:
+      - "Gothic literature characteristics"
+      - "Victorian social history and moral expectations"
+      - "Early psychological concepts predating Freud"
+      - "Urban gothic vs traditional gothic literature"
+      - "Narrative innovation in detective fiction"
+    production_notes:
+      intro_style: "mysterious, foggy London atmosphere with Gothic undertones"
+      transitions: "subtle sound effects of footsteps on cobblestones and laboratory equipment"
+      outro_style: "reflective conclusion linking Victorian anxieties to modern psychological understanding"
+
+  overall_confidence: 0.91

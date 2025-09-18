@@ -1,148 +1,148 @@
-# "Szatańskie wersety" - Historia i Fakty
+# "The Satanic Verses" - History and Facts
 
-## Wprowadzenie
-"Szatańskie wersety" Salmana Rushdiego z 1988 roku to prawdopodobnie najbardziej kontrowersyjna książka XX wieku. Historia jej powstania i konsekwencji to fascynująca opowieść o literaturze, religii, polityce i cenie jaką artysta płaci za swoją wolność twórczą.
+## Introduction
+"The Satanic Verses" by Salman Rushdie from 1988 is probably the most controversial book of the 20th century. The story of its creation and consequences is a fascinating tale about literature, religion, politics, and the price an artist pays for their creative freedom.
 
-## Kontekst biograficzny autora
+## Biographical Context of the Author
 
-**FAKT**: Salman Rushdie urodził się 19 czerwca 1947 roku w Bombaju - dokładnie trzy miesiące przed uzyskaniem przez Indie i Pakistan niepodległości od Wielkiej Brytanii w sierpniu 1947 roku.
+**FACT**: Salman Rushdie was born on June 19, 1947, in Bombay - exactly three months before India and Pakistan gained independence from Great Britain in August 1947.
 
-**FAKT**: Rushdie był świadkiem Podziału - jednego z najbardziej traumatycznych wydarzeń w historii Azji Południowej, gdy ponad milion ludzi zginęło, a 15 milionów zostało bezdomnych w wyniku podziału subkontynentu na Indie i Pakistan.
+**FACT**: Rushdie witnessed the Partition - one of the most traumatic events in South Asian history, when over a million people died and 15 million became homeless as a result of the subcontinent's division into India and Pakistan.
 
-**FAKT**: Ojciec Rushdiego, Anis Rushdie, był absolwentem Cambridge i prawnikiem, a dziadek ze strony matki, Ataullah Butt, lekarzem o oświeconych poglądach, który nie wymuszał na córkach noszenia hidżabu.
+**FACT**: Rushdie's father, Anis Rushdie, was a Cambridge graduate and lawyer, while his maternal grandfather, Ataullah Butt, was a physician with enlightened views who did not force his daughters to wear hijab.
 
-**FAKT**: Po ukończeniu Oxfordu w 1968 roku, Rushdie krótko przeprowadził się do Pakistanu, gdzie jego rodzina emigrowała po Podziale, ale szybko wrócił do Anglii.
+**FACT**: After graduating from Oxford in 1968, Rushdie briefly moved to Pakistan, where his family had emigrated after Partition, but quickly returned to England.
 
-## Droga do sukcesu przed "Szatańskimi wersetami"
+## Path to Success Before "The Satanic Verses"
 
-**FAKT**: Pierwsza powieść Rushdiego, "Grimus" (1975), została w większości zignorowana przez krytyków, ale była mieszanką science fiction i literatury pięknej.
+**FACT**: Rushdie's first novel, "Grimus" (1975), was largely ignored by critics but was a mixture of science fiction and literary fiction.
 
-**FAKT**: "Dzieci północy" (1981) przyniosły Rushdiemu nagrodę Bookera i dwukrotnie zostały uznane za "najlepszą powieść spośród wszystkich zwycięzców" - w 25. i 40. rocznicę nagrody.
+**FACT**: "Midnight's Children" (1981) won Rushdie the Booker Prize and was twice named "the best novel among all winners" - on the 25th and 40th anniversary of the award.
 
-**FAKT**: Przed "Szatańskimi wersetami" Rushdie napisał również "Wstyd" (1983), opartą na postaciach Zulfikara Ali Bhutto i generała Muhammada Zia-ul-Haqa, która wygrała francuską Prix du Meilleur Livre Étranger.
+**FACT**: Before "The Satanic Verses," Rushdie also wrote "Shame" (1983), based on the figures of Zulfikar Ali Bhutto and General Muhammad Zia-ul-Haq, which won the French Prix du Meilleur Livre Étranger.
 
-**FAKT**: W 1987 roku Rushdie opublikował książkę non-fiction o Nikaragui zatytułowaną "The Jaguar Smile", inspirowaną jego sąsiedztwem z madame Somoza, żoną byłego dyktatora Nikaragui.
+**FACT**: In 1987, Rushdie published a non-fiction book about Nicaragua titled "The Jaguar Smile," inspired by his acquaintance with Madame Somoza, wife of Nicaragua's former dictator.
 
-## Inspiracje i proces twórczy "Szatańskich wersetów"
+## Inspirations and Creative Process of "The Satanic Verses"
 
-**FAKT**: Książka była inspirowana życiem proroka Mahometa, ale sam Rushdie wyjaśnił, że nie dotyczy islamu, lecz "migracji, metamorfozy, podzielonych jaźni, miłości, śmierci, Londynu i Bombaju".
+**FACT**: The book was inspired by the life of Prophet Muhammad, but Rushdie himself explained that it's not about Islam, but about "migration, metamorphosis, divided selves, love, death, London and Bombay."
 
-**FAKT**: Rushdie otwiera powieść fundamentalnym pytaniem: "Jak nowość wkracza w świat? [...] Z jakich fuzji, przekładów, połączeń się składa?" - co wydaje się kluczowe dla zrozumienia zarówno treści, jak i procesu twórczego książki.
+**FACT**: Rushdie opens the novel with a fundamental question: "How does newness come into the world? [...] Of what fusions, translations, conjoinings is it made?" - which seems crucial for understanding both the content and creative process of the book.
 
-**FAKT**: Początek powieści, w którym dwaj bohaterowie spadają z nieba po zamachu bombowym na samolot Air India, był bezpośrednią referencją do zamachu na lot Air India 182 z 23 czerwca 1985 roku, w którym zginęło 329 osób.
+**FACT**: The novel's opening, where two protagonists fall from the sky after a bomb attack on an Air India plane, was a direct reference to the Air India Flight 182 bombing on June 23, 1985, which killed 329 people.
 
-**FAKT**: Sekwencje snów w powieści są przypisane umysłowi Gibréela Farishty i zawierają sfiktywizowane narracje o życiu Mahometa (nazywanego "Mahound" lub "Posłaniec"), w tym epizod o "szatańskich wersetach".
+**FACT**: The dream sequences in the novel are attributed to Gibreel Farishta's mind and contain fictionalized narratives about Muhammad's life (called "Mahound" or "the Messenger"), including the episode about the "satanic verses."
 
-**FAKT**: Historyczne "szatańskie wersety" odnoszą się do słów "szatańskiej sugestii", które prorok Mahomet rzekomo pomylił z boskim objawieniem, chwilowo chwaląc trzy główne pogańskie bóstwa Mekki.
+**FACT**: The historical "satanic verses" refer to words of "satanic suggestion" that Prophet Muhammad supposedly confused with divine revelation, temporarily praising three main pagan deities of Mecca.
 
-## Reakcje wydawnicze i pierwsze ostrzeżenia
+## Publishing Reactions and First Warnings
 
-**FAKT**: Przed publikacją wydawca otrzymał "ostrzeżenia od konsultanta redakcyjnego" że książka może być kontrowersyjna.
+**FACT**: Before publication, the publisher received "warnings from an editorial consultant" that the book might be controversial.
 
-**FAKT**: Sam Rushdie powiedział: "Spodziewałem się, że kilku mułłów się obrazi, będzie mnie wyzywać, a potem będę mógł się bronić publicznie... Szczerze mówiąc, nigdy nie spodziewałem się czegoś takiego".
+**FACT**: Rushdie himself said: "I expected a few mullahs to get upset, to call me names, and then I'd be able to defend myself publicly... Honestly, I never expected anything like this."
 
-**FAKT**: "Szatańskie wersety" zostały opublikowane przez Viking Penguin 26 września 1988 roku w Wielkiej Brytanii i 22 lutego 1989 roku w USA.
+**FACT**: "The Satanic Verses" was published by Viking Penguin on September 26, 1988, in the United Kingdom and February 22, 1989, in the USA.
 
-**FAKT**: Książka wygrała nagrodę Whitbread za powieść roku w 1988 roku, wartą 20 000 funtów, i była finalistką nagrody Bookera (przegrała z "Oscar and Lucinda" Petera Careya).
+**FACT**: The book won the Whitbread Award for Novel of the Year in 1988, worth £20,000, and was a finalist for the Booker Prize (losing to "Oscar and Lucinda" by Peter Carey).
 
-**FAKT**: Według jednego z obserwatorów, "prawie wszyscy brytyjscy recenzenci książek" nie byli świadomi związku książki z islamem, ponieważ Rushdie używał imienia Mahound zamiast Mahomet.
+**FACT**: According to one observer, "almost all British book reviewers" were unaware of the book's connection to Islam because Rushdie used the name Mahound instead of Muhammad.
 
-## Fatwa i jej dramatyczne konsekwencje
+## The Fatwa and Its Dramatic Consequences
 
-**FAKT**: 14 lutego 1989 roku ajatollah Ruhollah Chomeini wydał fatwę wzywającą do zabicia Rushdiego i wszystkich wydawców świadomych treści książki.
+**FACT**: On February 14, 1989, Ayatollah Ruhollah Khomeini issued a fatwa calling for the killing of Rushdie and all publishers aware of the book's content.
 
-**FAKT**: Fatwa potępiła na śmierć "autora Szatańskich wersetów, tekstu napisanego, zredagowanego i opublikowanego przeciwko islamowi, Prorokowi islamu i Koranowi" oraz wzywała "wszystkich dzielnych muzułmanów na całym świecie do zabicia ich bez zwłoki".
+**FACT**: The fatwa condemned to death "the author of The Satanic Verses, a text written, edited and published against Islam, the Prophet of Islam and the Quran" and called on "all brave Muslims worldwide to kill them without delay."
 
-**FAKT**: Pakistan zakazał książki już w listopadzie 1988 roku, a indyjski rząd wprowadził zakaz importu 5 października 1988 roku - jeszcze przed wydaniem fatwy.
+**FACT**: Pakistan banned the book in November 1988, and the Indian government imposed an import ban on October 5, 1988 - even before the fatwa was issued.
 
-**FAKT**: 12 lutego 1989 roku 10 000 protestujących zebrało się przeciwko Rushdiemu w Islamabadzie. Sześciu protestujących zginęło w ataku na Amerykańskie Centrum Kulturalne.
+**FACT**: On February 12, 1989, 10,000 protesters gathered against Rushdie in Islamabad. Six protesters died in an attack on the American Cultural Center.
 
-**FAKT**: 27 maja 1989 roku około 20 000 muzułmanów protestowało w centrum Londynu, paląc kukłę Rushdiego i wzywając do jego śmierci.
+**FACT**: On May 27, 1989, about 20,000 Muslims protested in central London, burning an effigy of Rushdie and calling for his death.
 
-**FAKT**: Chomeini zmarł 3 czerwca 1989 roku, ale fatwa pozostała w mocy, ponieważ zgodnie z tradycją szyicką fatwa nie może zostać odwołana.
+**FACT**: Khomeini died on June 3, 1989, but the fatwa remained in effect because, according to Shiite tradition, a fatwa cannot be revoked.
 
-## Nagłówki i koszty bezpieczeństwa
+## Bounties and Security Costs
 
-**FAKT**: Fundacja irańska ustanowiła nagrodę za zabicie Rushdiego już w 1989 roku, która była kilkakrotnie zwiększana w XXI wieku.
+**FACT**: An Iranian foundation established a bounty for killing Rushdie in 1989, which was increased several times in the 21st century.
 
-**FAKT**: W październiku 1998 roku Fundacja 15 Khordad podniosła nagrodę na głowę Rushdiego z 2,5 miliona dolarów do 2,8 miliona dolarów.
+**FACT**: In October 1998, the 15 Khordad Foundation raised the bounty on Rushdie's head from $2.5 million to $2.8 million.
 
-**FAKT**: W marcu 2016 roku nagroda została zwiększona o kolejne 600 000 dolarów, dodając do istniejących już 2,8 miliona dolarów.
+**FACT**: In March 2016, the bounty was increased by another $600,000, adding to the existing $2.8 million.
 
-**FAKT**: Rushdie był pod ochroną uzbrojonych brytyjskich policjantów przez ponad dziewięć lat, poruszając się stale, nigdy nie będąc sam ani przez minutę.
+**FACT**: Rushdie was under protection by armed British police for over nine years, constantly moving, never being alone for even a minute.
 
-**FAKT**: Policja poprosiła go o wymyślenie pseudonimu - wybrał "Joseph Anton" na cześć pisarzy Josepha Conrada i Antona Czechowa.
+**FACT**: Police asked him to come up with a pseudonym - he chose "Joseph Anton" in honor of writers Joseph Conrad and Anton Chekhov.
 
-## Tragiczne konsekwencje dla tłumaczy i wydawców
+## Tragic Consequences for Translators and Publishers
 
-**FAKT**: 13 lipca 1991 roku Hitoshi Igarashi, japoński tłumacz "Szatańskich wersetów", został znaleziony zamordowany - dźgany nożem w swoim biurze na Uniwersytecie Tsukuba.
+**FACT**: On July 13, 1991, Hitoshi Igarashi, the Japanese translator of "The Satanic Verses," was found murdered - stabbed in his office at Tsukuba University.
 
-**FAKT**: Zaledwie dziesięć dni wcześniej, 3 lipca 1991 roku, Ettore Capriolo, włoski tłumacz Rushdiego, został brutalnie zaatakowany i ciężko ranny w swoim mieszkaniu w Mediolanie.
+**FACT**: Just ten days earlier, on July 3, 1991, Ettore Capriolo, the Italian translator of Rushdie, was brutally attacked and seriously injured in his apartment in Milan.
 
-**FAKT**: 11 października 1993 roku William Nygaard, norweski wydawca "Szatańskich wersetów", został postrzelony trzy razy w plecy przed swoim domem w Oslo, ale przeżył.
+**FACT**: On October 11, 1993, William Nygaard, the Norwegian publisher of "The Satanic Verses," was shot three times in the back outside his home in Oslo but survived.
 
-**FAKT**: 2 lipca 1993 roku w Sivas w Turcji tłum podpalił hotel Madimak, gdzie przebywał turecki tłumacz Aziz Nesin. W pożarze zginęło 37 osób, głównie alewiccy uczeni, poeci i muzycy.
+**FACT**: On July 2, 1993, in Sivas, Turkey, a mob set fire to the Madimak Hotel where Turkish translator Aziz Nesin was staying. 37 people died in the fire, mainly Alevi scholars, poets, and musicians.
 
-## Wpływ na księgarnie i sprzedaż
+## Impact on Bookstores and Sales
 
-**FAKT**: Według niektórych raportów, powieść była niedostępna w jednej trzeciej księgarni w całych Stanach Zjednoczonych.
+**FACT**: According to some reports, the novel was unavailable in one-third of bookstores throughout the United States.
 
-**FAKT**: Księgarnie na całym świecie, w tym wiele sklepów Barnes & Noble w Stanach Zjednoczonych, odmówiło sprzedaży "Szatańskich wersetów" z obawy przed odwetem.
+**FACT**: Bookstores worldwide, including many Barnes & Noble stores in the United States, refused to sell "The Satanic Verses" for fear of retaliation.
 
-**FAKT**: Wiele księgarni, które sprzedawały książkę, zostało zbombardowanych.
+**FACT**: Many bookstores that sold the book were bombed.
 
-**FAKT**: W ciągu miesięcy od publikacji powieść została zakazana w wielu krajach, w tym w Bangladeszu, Sri Lance i Sudanie.
+**FACT**: Within months of publication, the novel was banned in many countries, including Bangladesh, Sri Lanka, and Sudan.
 
-## Długoterminowe konsekwencje polityczne
+## Long-term Political Consequences
 
-**FAKT**: 24 września 1998 roku irański rząd pod przewodnictwem reformisty Muhammada Chatamiego publicznie zobowiązał się, że "ani nie będzie wspierać, ani nie będzie przeszkadzać w operacjach zabójstw na Rushdiem".
+**FACT**: On September 24, 1998, the Iranian government under reformist Mohammad Khatami publicly committed that it "will neither support nor hinder assassination operations against Rushdie."
 
-**FAKT**: Iran odrzucił prośby o wycofanie fatwy na tej podstawie, że tylko osoba, która ją wydała, może ją wycofać, a Ruhollah Chomeini zmarł w 1989 roku.
+**FACT**: Iran rejected requests to withdraw the fatwa on the grounds that only the person who issued it could withdraw it, and Ruhollah Khomeini died in 1989.
 
-**FAKT**: Na początku 2005 roku fatwa Chomeiniego została potwierdzona przez najwyższego przywódcę Iranu, ajatollaha Alego Chameneia.
+**FACT**: In early 2005, Khomeini's fatwa was reaffirmed by Iran's Supreme Leader, Ayatollah Ali Khamenei.
 
-**FAKT**: W 2017 roku ajatollah Ali Chamenei powiedział: "Dekret jest taki, jak wydał go imam Chomeini", gdy zapytano go, czy fatwa jest nadal obowiązująca.
+**FACT**: In 2017, Ayatollah Ali Khamenei said: "The decree is as Imam Khomeini issued it," when asked if the fatwa was still in effect.
 
-## Najnowsze wydarzenia i atak z 2022 roku
+## Recent Events and the 2022 Attack
 
-**FAKT**: 13 sierpnia 2022 roku Rushdie został zaatakowany przez Hadiego Matara, Libańczyka-Amerykanina, w Chautauqua Institution w zachodnim Nowym Jorku.
+**FACT**: On August 13, 2022, Rushdie was attacked by Hadi Matar, a Lebanese-American, at the Chautauqua Institution in western New York.
 
-**FAKT**: Został dźgnięty nożem w twarz, szyję i brzuch przed tysiącami ludzi zgromadzonych na wykład o wolności wypowiedzi.
+**FACT**: He was stabbed in the face, neck, and abdomen in front of thousands of people gathered for a lecture on freedom of speech.
 
-**FAKT**: Atak nastąpił po ponad 33 latach od wydania fatwy, pokazując długoterminowy wpływ tej historycznej kontrowersji.
+**FACT**: The attack occurred over 33 years after the fatwa was issued, showing the long-term impact of this historical controversy.
 
-## Liczby i statystyki
+## Numbers and Statistics
 
-**FAKT**: Fatwa przeciwko Rushdiemu pozostaje w mocy od ponad 35 lat, co czyni ją tym, co przewodniczący irańskiego parlamentu nazwał "najdziwniejszym i najrzadszym kryzysem w historii".
+**FACT**: The fatwa against Rushdie has been in effect for over 35 years, making it what the chairman of the Iranian parliament called "the strangest and rarest crisis in history."
 
-**FAKT**: Rushdie napisał 14 powieści, z których wiele zostało przetłumaczonych na ponad 40 języków.
+**FACT**: Rushdie has written 14 novels, many of which have been translated into over 40 languages.
 
-**FAKT**: W listopadzie 2024 roku Sąd Najwyższy w Delhi uchylił zakaz importu "Szatańskich wersetów" z 1988 roku z powodu niezwykłej sytuacji - oryginalne powiadomienie było nie do odnalezienia.
+**FACT**: In November 2024, the Supreme Court in Delhi lifted the 1988 import ban on "The Satanic Verses" due to an unusual situation - the original notification could not be found.
 
-## Literackie innowacje i techniki
+## Literary Innovations and Techniques
 
-**FAKT**: Rushdie używał realizmu magicznego i opierał się na współczesnych wydarzeniach i ludziach do tworzenia swoich postaci.
+**FACT**: Rushdie used magical realism and drew on contemporary events and people to create his characters.
 
-**FAKT**: Część historii dotycząca szatańskich wersetów była oparta na relacjach historyków al-Waqidiego i al-Tabariego.
+**FACT**: The part of the story about the satanic verses was based on accounts by historians al-Waqidi and al-Tabari.
 
-**FAKT**: Książka wykazuje skłonność Rushdiego do organizowania pracy w formie równoległych historii z "głównymi równoległymi opowieściami, na przemian sekwencjami snu i rzeczywistości, połączonymi przez powracające imiona bohaterów".
+**FACT**: The book demonstrates Rushdie's tendency to organize work in the form of parallel stories with "main parallel narratives, alternating dream and reality sequences, connected by recurring character names."
 
-**FAKT**: Estetyczne podejście Rushdiego opierało się na mieszaniu tekstów, skutkując fuzją gatunków obejmującą satyrę, realizm magiczny, metafikcję postmodernistyczną i alegorię religijną.
+**FACT**: Rushdie's aesthetic approach was based on mixing texts, resulting in a fusion of genres including satire, magical realism, postmodern metafiction, and religious allegory.
 
-## Wpływ kulturowy i spuścizna
+## Cultural Impact and Legacy
 
-**FAKT**: Timothy Brennan nazwał dzieło "najbardziej ambitną powieścią dotychczas opublikowaną, która zajmuje się doświadczeniem imigranckim w Wielkiej Brytanii".
+**FACT**: Timothy Brennan called the work "the most ambitious novel published to date dealing with the immigrant experience in Britain."
 
-**FAKT**: Sprawa miała zauważalny wpływ na geopolitykę i stała się punktem zwrotnym w debatach o wolności wypowiedzi na całym świecie.
+**FACT**: The affair had a noticeable impact on geopolitics and became a turning point in debates about freedom of speech worldwide.
 
-**FAKT**: W swojej autobiografii z 2012 roku "Joseph Anton" Rushdie przedstawia relację z lat 1988-2002 w trzeciej osobie, nigdy nie pisząc "ja", ale "on", nawet opisując własne myśli.
+**FACT**: In his 2012 autobiography "Joseph Anton," Rushdie presents an account of the years 1988-2002 in third person, never writing "I" but "he," even when describing his own thoughts.
 
-**FAKT**: Ochrona Rushdiego kosztowała brytyjski skarb państwa miliony funtów przez dziewięć lat ochrony policyjnej 24 godziny na dobę.
+**FACT**: Rushdie's protection cost the British treasury millions of pounds over nine years of 24-hour police protection.
 
-**PLOTKA**: Niektóre źródła sugerują, że Rushdie rozważał zmianę zakończenia książki po pierwszych ostrzeżeniach, ale nie ma na to jednoznacznych dowodów.
+**RUMOR**: Some sources suggest that Rushdie considered changing the book's ending after the first warnings, but there is no clear evidence for this.
 
-**FAKT**: "Szatańskie wersety" pozostają zabronione w wielu krajach muzułmańskich do dziś, czyniąc z nich jeden z najdłużej zakazywanych bestselerów w historii literatury światowej.
+**FACT**: "The Satanic Verses" remains banned in many Muslim countries to this day, making it one of the longest-banned bestsellers in world literature history.
 
 ---
 
-*Opracowano na podstawie źródeł internetowych, dokumentów historycznych i relacji prasowych dotyczących "Szatańskich wersetów" Salmana Rushdiego i związanej z nimi kontrowersji.*
+*Compiled based on internet sources, historical documents, and press reports about "The Satanic Verses" by Salman Rushdie and the related controversy.*

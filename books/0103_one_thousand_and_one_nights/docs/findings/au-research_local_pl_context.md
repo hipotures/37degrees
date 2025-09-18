@@ -1,150 +1,150 @@
-# Księga Tysiąca i Jednej Nocy - Polski Kontekst Kulturowy
+# One Thousand and One Nights - Polish Cultural Context
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze polskie wydania
-1. **Pierwszy przekład (1767-1769)** - Łukasz Sokołowski, pijar, przełożył z francuskiego tłumaczenia Antoine'a Gallanda pod tytułem "Awantury arabskie lub Tysiąc nocy i jedna" (12 tomów)
+### First Polish Editions
+1. **First Translation (1767-1769)** - Łukasz Sokołowski, a Piarist monk, translated from Antoine Galland's French translation under the title "Awantury arabskie lub Tysiąc nocy i jedna" (Arabian Adventures or One Thousand and One Nights) in 12 volumes
 
-2. **Edycja PIW (1973-1976)** - Pierwszy pełny przekład bezpośrednio z arabskiego dla dorosłych, wydany w 9 tomach przez Państwowy Instytut Wydawniczy. To najważniejsze polskie wydanie dzieła.
+2. **PIW Edition (1973-1976)** - First complete translation directly from Arabic for adults, published in 9 volumes by Państwowy Instytut Wydawniczy (State Publishing Institute). This is the most important Polish edition of the work.
 
-3. **Współczesne wydania** - Wielokrotnie wznawiane przez różne wydawnictwa, często w wersjach skróconych dla dzieci
+3. **Contemporary Editions** - Frequently republished by various publishers, often in abridged versions for children
 
-### Kluczowi tłumacze i badacze
-- **Łukasz Sokołowski** - pierwszy tłumacz (XVIII wiek)
-- **Tadeusz Lewicki** - redaktor naukowy wydania PIW, inicjator projektu pełnego przekładu z arabskiego
-- **Jerzy Ficowski** - poeta, tłumacz poezji w wydaniu PIW (1924-2006)
-- **Władysław Kubiak** - arabista, współtłumacz
-- **Andrzej Czapkiewicz** - arabista, współtłumacz (1924-1990)
-- **Anna Kmietowicz** - orientalistka, współtłumaczka
-- **Krystyna Skarżyńska-Bocheńska** - arabistka, współtłumaczka
+### Key Translators and Scholars
+- **Łukasz Sokołowski** - first translator (18th century)
+- **Tadeusz Lewicki** - scientific editor of the PIW edition, initiator of the complete Arabic translation project
+- **Jerzy Ficowski** - poet, translator of poetry in the PIW edition (1924-2006)
+- **Władysław Kubiak** - Arabist, co-translator
+- **Andrzej Czapkiewicz** - Arabist, co-translator (1924-1990)
+- **Anna Kmietowicz** - Orientalist, co-translator
+- **Krystyna Skarżyńska-Bocheńska** - Arabist, co-translator
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Orientalizm a polska recepcja
-1. **Stereotypy Orientu** - Księga odegrała znaczącą, nie zawsze pozytywną rolę w "orientalizacji" Wschodu w świadomości polskich czytelników
-2. **Dystorsja historyczna** - Tworzy zniekształcony obraz kultury arabskiej, pełen fantazji i przesady
-3. **Redukcjonizm** - Dla wielu Polaków to jedyny kontakt z literaturą arabską
+### Orientalism and Polish Reception
+1. **Oriental Stereotypes** - The book played a significant, not always positive role in "orientalizing" the East in Polish readers' consciousness
+2. **Historical Distortion** - Creates a distorted image of Arab culture, full of fantasy and exaggeration
+3. **Reductionism** - For many Poles, this is the only contact with Arabic literature
 
-### Problem gatunku literackiego
-1. **Błędne nazywanie "baśniami"** - W rzeczywistości to zbiór różnych gatunków literackich
-2. **Cenzura dla dzieci** - Oryginał przesycony erotyzmem i okrucieństwem, dlatego dla dzieci tworzono wersje skrócone
-3. **Adaptacje vs. oryginał** - Polska tradycja publikowania głównie adaptowanych wersji dla młodych czytelników
+### Literary Genre Problem
+1. **Incorrectly Called "Fairy Tales"** - In reality, it's a collection of different literary genres
+2. **Censorship for Children** - The original is saturated with eroticism and cruelty, so abridged versions were created for children
+3. **Adaptations vs. Original** - Polish tradition of publishing mainly adapted versions for young readers
 
-### Wyzwania przekładowe
-1. **Kultura patriarchalna** - Trudności z przekazaniem realiów społecznych Bliskiego Wschodu
-2. **Humor i ironia** - Problemy z oddaniem specyficznego humoru arabskiego
-3. **Poezja w prozie** - Wyzwanie tłumaczenia rytmicznych fragmentów poetyckich (rola Jerzego Ficowskiego)
+### Translation Challenges
+1. **Patriarchal Culture** - Difficulties in conveying the social realities of the Middle East
+2. **Humor and Irony** - Problems with rendering specific Arabic humor
+3. **Poetry in Prose** - Challenge of translating rhythmic poetic fragments (Jerzy Ficowski's role)
 
-## Polska literatura inspirowana Księgą
+## Polish Literature Inspired by the Book
 
-### Bolesław Leśmian - kluczowy twórca
-1. **"Klechdy sezamowe" (1913)** - Sześć opowieści inspirowanych Księgą:
-   - "Rybak i geniusz"
-   - "Opowiadanie Króla Wysp Hebanowych"  
-   - "Baśń o rumaku zaklętym"
-   - "Baśń o pięknej Parysadzie i o ptaku Bulbulezarze"
-   - "Baśń o Aladynie i o lampie cudownej"
-   - "Ali-baba i czterdziestu zbójców"
+### Bolesław Leśmian - Key Creator
+1. **"Klechdy sezamowe" (Sesame Tales) (1913)** - Six stories inspired by the Book:
+   - "The Fisherman and the Genie"
+   - "The Tale of the King of the Ebony Islands"
+   - "The Tale of the Enchanted Horse"
+   - "The Tale of the Beautiful Parysada and the Bird Bulbulezar"
+   - "The Tale of Aladdin and the Wonderful Lamp"
+   - "Ali Baba and the Forty Thieves"
 
-2. **"Przygody Sindbada Żeglarza" (1913)** - Poetycka reinterpretacja przygód słynnego żeglarza
+2. **"The Adventures of Sinbad the Sailor" (1913)** - Poetic reinterpretation of the famous sailor's adventures
 
-3. **Modyfikacje Leśmiana** - Poeta wprowadzał własne zmiany, np. podział "Rybaka i geniusza" na dwie opowieści
+3. **Leśmian's Modifications** - The poet introduced his own changes, e.g., dividing "The Fisherman and the Genie" into two stories
 
-### Inni polscy twórcy
-- **Franciszek Bohomolec** - XVIII-wieczne adaptacje
-- **Wacław Sieroszewski** - opracowania dla dzieci
-- **Kornel Makuszyński** - adaptacje baśni
-- **Jacek Kaczmarski** - piosenki "Wyznanie kalifa, czyli o mocy baśni" i "Mucha w szklance lemoniady"
-- **Karol Szymanowski** - "Szeherezada" z cyklu "Maski" op. 34
+### Other Polish Creators
+- **Franciszek Bohomolec** - 18th-century adaptations
+- **Wacław Sieroszewski** - adaptations for children
+- **Kornel Makuszyński** - fairy tale adaptations
+- **Jacek Kaczmarski** - songs "Confession of the Caliph, or About the Power of Fairy Tales" and "Fly in a Glass of Lemonade"
+- **Karol Szymanowski** - "Scheherazade" from the "Masks" cycle op. 34
 
-## Adaptacje teatralne i filmowe
+## Theatrical and Film Adaptations
 
-### Teatr polski
-1. **Teatr Palladium** - "Księżniczka Szeherezada i Piraci" (spektakl dla dzieci)
-2. **Teatr Polski im. Arnolda Szyfmana w Warszawie** - "Przygody Sindbada Żeglarza"
-3. **Białostocki Teatr Lalek** - "Sindbad" (nowoczesna interpretacja)
-4. **Teatr Muzyczny Roma** - "ALADDIN JR." - musical na motywach Księgi (premiera 2011)
+### Polish Theater
+1. **Palladium Theater** - "Princess Scheherazade and the Pirates" (children's play)
+2. **Arnold Szyfman Polish Theater in Warsaw** - "The Adventures of Sinbad the Sailor"
+3. **Białystok Puppet Theater** - "Sinbad" (modern interpretation)
+4. **Roma Musical Theater** - "ALADDIN JR." - musical based on the Book (premiere 2011)
 
-### Film i telewizja
-1. **Serial animowany "Przygody Sindbada żeglarza"** (1975-1976) - emitowany w TVP1 w latach 80. w "Kinie Rodzinnym"
-2. **"Baśnie tysiąca i jednej nocy"** (1990) - film fabularny dostępny w Polsce
-3. **Serial francusko-kanadyjski** (1993) - z polskim dubbingiem (Maciej Gudowski)
+### Film and Television
+1. **Animated Series "The Adventures of Sinbad the Sailor"** (1975-1976) - aired on TVP1 in the 1980s in "Family Cinema"
+2. **"Tales of One Thousand and One Nights"** (1990) - feature film available in Poland
+3. **French-Canadian Series** (1993) - with Polish dubbing (Maciej Gudowski)
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Pozycja w polskiej edukacji
-- Nie jest lekturą obowiązkową w szkołach podstawowych ani średnich
-- Występuje jako pozycja uzupełniająca w programach z literatury światowej
-- Wykorzystywana w nauczaniu o różnorodności kulturowej
+### Position in Polish Education
+- Not required reading in primary or secondary schools
+- Appears as supplementary material in world literature programs
+- Used in teaching about cultural diversity
 
-### Akademickie badania
-1. **Uniwersytet Jagielloński** - Instytut Orientalistyczny, tradycja od 1919 roku
-2. **Polscy arabiści** - Badania nad literaturą arabską i recepcją Księgi w Polsce
-3. **Studia przekładoznawcze** - Analizy problemów tłumaczeniowych i kulturowych
+### Academic Research
+1. **Jagiellonian University** - Institute of Oriental Studies, tradition since 1919
+2. **Polish Arabists** - Research on Arabic literature and reception of the Book in Poland
+3. **Translation Studies** - Analysis of translation and cultural problems
 
-## Kultura popularna i współczesne nawiązania
+## Popular Culture and Contemporary References
 
-### Gry komputerowe
-1. **Serie "Baśnie z 1001 Nocy"** - gry match-3 z motywami Ali Baby, Aladyna i Rybaka
-2. **"1001 Nights: The Adventures of Sindbad"** - gra przygodowa w wersji polskiej
-3. **Adaptacje Disney** - gra "Aladdin" (1994) dostępna w Polsce
+### Computer Games
+1. **"Tales of 1001 Nights" Series** - match-3 games featuring Ali Baba, Aladdin, and the Fisherman
+2. **"1001 Nights: The Adventures of Sindbad"** - adventure game in Polish version
+3. **Disney Adaptations** - "Aladdin" game (1994) available in Poland
 
-### Literatura współczesna
-1. **Współczesne retelling** - Polscy autorzy tworzą nowe wersje klasycznych opowieści
-2. **Literatura fantasy** - Nawiązania do motywów orientalnych w polskiej fantastyce
-3. **Komiksy i grafiki** - Wizualne adaptacje postaci Szeherezady, Aladyna, Sindbada
+### Contemporary Literature
+1. **Modern Retellings** - Polish authors creating new versions of classic stories
+2. **Fantasy Literature** - References to oriental motifs in Polish fantasy
+3. **Comics and Graphics** - Visual adaptations of Scheherazade, Aladdin, Sinbad characters
 
-## Kraków i Małopolska - lokalny kontekst
+## Krakow and Lesser Poland - Local Context
 
-### Biblioteki i zasoby
-1. **Biblioteka Kraków** - 58 filii, bogata kolekcja wydań Księgi
-2. **Wojewódzka Biblioteka Publiczna na Rajskiej** - główna biblioteka województwa małopolskiego
-3. **Biblioteka Cyfrowa Krakowa** - digitalizacja historycznych wydań
+### Libraries and Resources
+1. **Krakow Library** - 58 branches, rich collection of Book editions
+2. **Lesser Poland Voivodeship Public Library on Rajska Street** - main library of the Lesser Poland voivodeship
+3. **Krakow Digital Library** - digitization of historical editions
 
-### Wydawnictwa regionalne
-- Kraków jako centrum wydawnicze - liczne reedycje klasycznych tłumaczeń
-- Małopolskie wydawnictwa specjalizujące się w literaturze klasycznej
+### Regional Publishers
+- Krakow as a publishing center - numerous re-editions of classic translations
+- Lesser Poland publishers specializing in classical literature
 
-## Specyficzne polskie interpretacje
+## Specific Polish Interpretations
 
-### Różnice w odbiorze
-1. **Romantyzacja Orientu** - Polski odbiór często bardziej romantyczny niż w literaturze zachodniej
-2. **Akcent na przygodę** - Polscy czytelnicy preferują aspekt przygodowy nad filozoficzny
-3. **Szeherezada jako symbol** - W Polsce szczególnie ceniona jako symbol siły kobiecej mądrości
+### Differences in Reception
+1. **Romanticization of the Orient** - Polish reception often more romantic than in Western literature
+2. **Emphasis on Adventure** - Polish readers prefer the adventurous aspect over the philosophical one
+3. **Scheherazade as Symbol** - In Poland particularly valued as a symbol of feminine wisdom's power
 
-### Lokalne nawiązania
-1. **Sarmatyzm** - Podobieństwa między polskim sarmatyzmem a orientalną wystawnością
-2. **Tradycja baśniowa** - Połączenia z polskimi baśniami ludowymi
-3. **Kultura szlachecka** - Paralelne motywy gościnności i honoru
+### Local References
+1. **Sarmatism** - Similarities between Polish Sarmatism and oriental splendor
+2. **Fairy Tale Tradition** - Connections with Polish folk tales
+3. **Noble Culture** - Parallel motifs of hospitality and honor
 
-## Fan community i współczesny odbiór
+## Fan Community and Contemporary Reception
 
-### Społeczność czytelników
-1. **Fora internetowe** - Dyskusje o różnych wydaniach i tłumaczeniach
-2. **Grupy tematyczne** - Miłośnicy literatury orientalnej i fantasy
-3. **Eventy kulturalne** - Spotkania autorskie, wykłady o kulturze arabskiej
+### Reader Community
+1. **Internet Forums** - Discussions about different editions and translations
+2. **Themed Groups** - Lovers of oriental and fantasy literature
+3. **Cultural Events** - Author meetings, lectures on Arab culture
 
-### Współczesne wyzwania
-1. **Postkolonialna krytyka** - Rosnąca świadomość orientalistycznych stereotypów
-2. **Poprawność kulturowa** - Debaty o reprezentacji kultur orientalnych
-3. **Nowe tłumaczenia** - Potrzeba nowych, bardziej precyzyjnych przekładów
+### Contemporary Challenges
+1. **Postcolonial Criticism** - Growing awareness of orientalist stereotypes
+2. **Cultural Correctness** - Debates about representation of oriental cultures
+3. **New Translations** - Need for new, more precise translations
 
-## Znaczenie dla polskiej kultury
+## Significance for Polish Culture
 
-### Wpływ na wyobraźnię
-- Księga kształtowała polskie wyobrażenia o Wschodzie przez ponad 250 lat
-- Motyw "opowiadania ratującego życie" (Szeherezada) mocno zakorzeniony w polskiej kulturze
-- Archetypy bohaterów (Sindbad-podróżnik, Aladyn-szczęściarz) obecne w polskiej literaturze
+### Impact on Imagination
+- The Book shaped Polish perceptions of the East for over 250 years
+- The motif of "life-saving storytelling" (Scheherazade) deeply rooted in Polish culture
+- Character archetypes (Sinbad-traveler, Aladdin-lucky one) present in Polish literature
 
-### Dziedzictwo kulturowe
-1. **Część kanonu** - Uznawana za klasykę literatury światowej w Polsce
-2. **Inspiracja artystyczna** - Źródło natchnienia dla pokoleń polskich twórców
-3. **Mostek kulturowy** - Łącznik między kulturą polską a orientalną
+### Cultural Heritage
+1. **Part of Canon** - Recognized as a classic of world literature in Poland
+2. **Artistic Inspiration** - Source of inspiration for generations of Polish creators
+3. **Cultural Bridge** - Link between Polish and oriental culture
 
-## Podsumowanie
+## Summary
 
-"Księga Tysiąca i Jednej Nocy" w polskim kontekście kulturowym to znacznie więcej niż tylko zbiór orientalnych baśni. To dzieło, które przez ponad dwa i pół wieku kształtowało polską świadomość o kulturze Wschodu, inspirowało wybitnych twórców jak Bolesław Leśmian i Jacek Kaczmarski, oraz stało się integralną częścią polskiego dziedzictwa literackiego.
+"One Thousand and One Nights" in Polish cultural context is much more than just a collection of oriental fairy tales. It's a work that for over two and a half centuries shaped Polish consciousness about Eastern culture, inspired outstanding creators like Bolesław Leśmian and Jacek Kaczmarski, and became an integral part of Polish literary heritage.
 
-Monumentalne wydanie PIW z lat 70. XX wieku, z udziałem najwybitniejszych polskich arabistów i poetów, pozostaje najważniejszym polskim tłumaczeniem tego dzieła. Jednocześnie polska recepcja Księgi odzwierciedla szersze problemy związane z orientalizmem i reprezentacją kultur pozaeuropejskich w literaturze.
+The monumental PIW edition from the 1970s, involving the most distinguished Polish Arabists and poets, remains the most important Polish translation of this work. At the same time, the Polish reception of the Book reflects broader problems related to orientalism and representation of non-European cultures in literature.
 
-Dziś Księga pozostaje żywą częścią polskiej kultury popularnej - od adaptacji teatralnych przez gry komputerowe po współczesne reinterpretacje literackie, dowodząc nieprzemijającej siły opowieści Szeherezady w polskiej wyobraźni.
+Today the Book remains a living part of Polish popular culture - from theatrical adaptations through computer games to contemporary literary reinterpretations, proving the enduring power of Scheherazade's stories in the Polish imagination.

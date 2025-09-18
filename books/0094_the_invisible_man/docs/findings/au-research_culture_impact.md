@@ -1,191 +1,191 @@
-# Wpływ kulturowy "Niewidzialnego człowieka" H.G. Wellsa na kulturę popularną
+# Cultural Impact of H.G. Wells' "The Invisible Man" on Popular Culture
 
-## Informacje podstawowe
-- **Tytuł**: The Invisible Man (Niewidzialny człowiek)
-- **Autor**: H.G. Wells
-- **Rok wydania**: 1897
-- **Gatunek**: Science fiction, Horror
+## Basic Information
+- **Title**: The Invisible Man
+- **Author**: H.G. Wells
+- **Publication Year**: 1897
+- **Genre**: Science fiction, Horror
 
-## 1. Adaptacje filmowe - Era klasyczna
+## 1. Film Adaptations - Classic Era
 
 ### Universal Monsters (1933-1951)
-1. **"The Invisible Man" (1933)** - reżyseria James Whale, Claude Rains w roli głównej
-   - Film wszedł do National Film Registry w 2008 jako "kulturowo, historycznie lub estetycznie znaczący"
-   - Claude Rains debiutował w Hollywood, co zapoczątkowało jego karierę w "Casablance" (1942) i "Robin Hood" (1938)
-   - Rewolucyjne efekty specjalne, które inspirowały filmowców przez dziesięciolecia
+1. **"The Invisible Man" (1933)** - directed by James Whale, Claude Rains in the lead role
+   - Film entered the National Film Registry in 2008 as "culturally, historically or aesthetically significant"
+   - Claude Rains made his Hollywood debut, launching his career in "Casablanca" (1942) and "Robin Hood" (1938)
+   - Revolutionary special effects that inspired filmmakers for decades
 
-2. **"The Invisible Man Returns" (1940)** - Vincent Price jako Geoffrey Radcliffe
-   - Jedna z pierwszych ról Vincenta Price'a w horrorze
+2. **"The Invisible Man Returns" (1940)** - Vincent Price as Geoffrey Radcliffe
+   - One of Vincent Price's first horror roles
 
-3. **"The Invisible Woman" (1940)** - komediowe ujęcie tematu
+3. **"The Invisible Woman" (1940)** - comedic take on the theme
 
-4. **"Invisible Agent" (1942)** - wersja propagandowa z II wojny światowej
+4. **"Invisible Agent" (1942)** - propaganda version from World War II
 
-5. **"The Invisible Man's Revenge" (1944)** - kontynuacja serii
+5. **"The Invisible Man's Revenge" (1944)** - series continuation
 
-6. **"Abbott and Costello Meet the Invisible Man" (1951)** - parodia z Arthurem Franzem
-   - Połączenie komedii z motywem niewidzialności
+6. **"Abbott and Costello Meet the Invisible Man" (1951)** - parody with Arthur Franz
+   - Combination of comedy with invisibility motif
 
-### Współczesne adaptacje filmowe
+### Contemporary Film Adaptations
 7. **"Memoirs of an Invisible Man" (1992)** - John Carpenter, Chevy Chase
-   - Połączenie thrillera Hitchcockańskiego z komedią screwball
+   - Combination of Hitchcockian thriller with screwball comedy
 
 8. **"Hollow Man" (2000)** - Paul Verhoeven, Kevin Bacon
-   - Nowoczesne efekty specjalne CGI
+   - Modern CGI special effects
 
 9. **"The Invisible Man" (2020)** - Leigh Whannell, Elisabeth Moss
-   - Transformacja w alegorie przemocy domowej i gaslightingu
-   - Krytyka społeczna ruchu #MeToo
-   - 7.1/10 na IMDb, 9. miejsce na liście najlepszych horrorów wszech czasów według Rotten Tomatoes
+   - Transformation into allegory of domestic violence and gaslighting
+   - Social criticism of the #MeToo movement
+   - 7.1/10 on IMDb, 9th place on Rotten Tomatoes' list of best horror films of all time
 
-## 2. Seriale telewizyjne
+## 2. Television Series
 
-### Brytyjskie adaptacje
-10. **"The Invisible Man" (1958-1959)** - ITV, jedna z pierwszych telewizyjnych adaptacji sci-fi
-    - Dwusezonowa produkcja CBS w USA
+### British Adaptations
+10. **"The Invisible Man" (1958-1959)** - ITV, one of the first television sci-fi adaptations
+    - Two-season CBS production in the USA
 
-### Amerykańskie serie
+### American Series
 11. **"The Invisible Man" (1975-1976)** - NBC, David McCallum
-    - Stworzony przez Harve'a Bennetta (później producent "Star Trek")
-    - Wzorzec dla quasi-superbohaterskich seriali lat 70-tych
-    - Inspiracja dla "The Six Million Dollar Man" i "The Incredible Hulk"
+    - Created by Harve Bennett (later producer of "Star Trek")
+    - Template for quasi-superhero series of the 1970s
+    - Inspiration for "The Six Million Dollar Man" and "The Incredible Hulk"
 
-12. **"The Gemini Man" (1976)** - NBC, spin-off po 5 odcinkach
-    - Próba NBC stworzenia kolejnego serialu o niewidzialnym człowieku
+12. **"The Gemini Man" (1976)** - NBC, spin-off after 5 episodes
+    - NBC's attempt to create another invisible man series
 
 13. **"The Invisible Man" (2000-2002)** - Sci-Fi Channel, Vincent Ventresca
-    - Połączenie akcji, komedii i elementów buddy cop
-    - Budżet ponad 1 milion dolarów za odcinek z powodu efektów specjalnych
-    - Wpływ na rozwój technologii CGI w telewizji
+    - Combination of action, comedy and buddy cop elements
+    - Budget over $1 million per episode due to special effects
+    - Impact on CGI technology development in television
 
-## 3. Komiksy i literatura graficzna
+## 3. Comics and Graphic Literature
 
 ### Marvel Comics
-14. **Invisible Woman (Susan Storm)** - Fantastyczna Czwórka
-    - Stan Lee bezpośrednio inspirowany "Niewidzialnym człowiekiem" Wellsa
-    - Jedna z najważniejszych superbohaterek Marvel Universe
+14. **Invisible Woman (Susan Storm)** - Fantastic Four
+    - Stan Lee directly inspired by Wells' "The Invisible Man"
+    - One of the most important superheroines in Marvel Universe
 
-15. **Marvel Classics Comics #25** (1977) - adaptacja komiksu Wellsa
+15. **Marvel Classics Comics #25** (1977) - comic adaptation of Wells
 
 ### DC Comics
 16. **The League of Extraordinary Gentlemen** - Alan Moore, Kevin O'Neill (1999)
-    - Hawley Griffin jako członek drużyny bohaterów literackich
-    - Film z 2003 roku z Sean Connery
+    - Hawley Griffin as member of literary heroes team
+    - 2003 film with Sean Connery
 
-17. **Invisible Man (Earth-S)** - DC Comics, przeciwnik Bulletmana
+17. **Invisible Man (Earth-S)** - DC Comics, enemy of Bulletman
 
-## 4. Wpływ na inne dzieła literackie
+## 4. Influence on Other Literary Works
 
-### Klasyka amerykańska
+### American Classics
 18. **"Invisible Man" (1952)** - Ralph Ellison
     - National Book Award 1953
-    - 19. miejsce na liście 100 najlepszych anglojęzycznych powieści XX wieku (Modern Library)
-    - Inspiracja dla "Dreams from My Father" Baracka Obamy
+    - 19th place on Modern Library's list of 100 best English-language novels of the 20th century
+    - Inspiration for Barack Obama's "Dreams from My Father"
 
-### Współczesne nawiązania
-19. **Notes from Underground** - Fiodor Dostojewski jako inspiracja podziemnego narratora
-20. **Odyseja Homera** - nawiązania w strukturze narracyjnej
+### Contemporary References
+19. **Notes from Underground** - Fyodor Dostoevsky as inspiration for underground narrator
+20. **Homer's Odyssey** - references in narrative structure
 
-## 5. Gry wideo i media interaktywne
+## 5. Video Games and Interactive Media
 
-21. **The League of Extraordinary Gentlemen** - różne adaptacje gier na podstawie komiksu
-22. **Universal Monsters** - różne gry mobilne i konsolowe z niewidzialnym człowiekiem
+21. **The League of Extraordinary Gentlemen** - various game adaptations based on the comic
+22. **Universal Monsters** - various mobile and console games featuring the invisible man
 
-## 6. Merchandising i kolekcjonerstwo
+## 6. Merchandising and Collectibles
 
-### Figurki akcji
-23. **NECA Ultimate Invisible Man** (7-cal) - z wymiennymi głowami i akcesoriami
-24. **Jada Toys Invisible Man** (6-cal) - ponad 20 punktów artykulacji
-25. **Funko Mystery Minis** - wersja "Unwrapped" jako chase variant
+### Action Figures
+23. **NECA Ultimate Invisible Man** (7-inch) - with interchangeable heads and accessories
+24. **Jada Toys Invisible Man** (6-inch) - over 20 points of articulation
+25. **Funko Mystery Minis** - "Unwrapped" version as chase variant
 
-### Produkty kolekcjonerskie
-26. **Universal Monsters** - linia produktów z 90. rocznicy klasycznego filmu
-27. **Entertainment Earth** - różne figurki i akcesoria
+### Collectible Products
+26. **Universal Monsters** - product line from the 90th anniversary of the classic film
+27. **Entertainment Earth** - various figures and accessories
 
-## 7. Muzea i wystawy
+## 7. Museums and Exhibitions
 
-### Specjalistyczne wystawy
-28. **"Invisible Worlds"** - American Museum of Natural History, Nowy Jork
-    - Immersive 360-degree experience o niewidzialnych sieciach życia
+### Specialized Exhibitions
+28. **"Invisible Worlds"** - American Museum of Natural History, New York
+    - Immersive 360-degree experience about invisible networks of life
 
 29. **"Invisibility: Powers & Perils"** - OXYArts
-    - Wystawa referencująca zarówno Wellsa jak i Ellisona
+    - Exhibition referencing both Wells and Ellison
 
 30. **"The Invisible Man and the Masque of Blackness"** - LACMA
-    - Instalacja rzeźbiarska Zaka Ové
+    - Sculptural installation by Zak Ové
 
-31. **Invisible Exhibition** - Warszawa i Budapeszt
-    - Interaktywne doświadczenie prowadzone przez niewidomych przewodników
+31. **Invisible Exhibition** - Warsaw and Budapest
+    - Interactive experience led by blind guides
 
-32. **Museum of Non-Visible Art** - muzeum konceptualne
+32. **Museum of Non-Visible Art** - conceptual museum
 
-### Atrakcje turystyczne związane z H.G. Wellsem
-33. **Woking, Surrey** - rzeźba HG Wells Tripod, inspiracja "Wojny światów"
-34. **Bromley Museum** - ząb H.G. Wellsa w kolekcji
-35. **Grant Museum** - goryl rzekomo przytulany przez H.G. Wellsa
+### Tourist Attractions Related to H.G. Wells
+33. **Woking, Surrey** - HG Wells Tripod sculpture, inspiration from "War of the Worlds"
+34. **Bromley Museum** - H.G. Wells' tooth in collection
+35. **Grant Museum** - gorilla allegedly cuddled by H.G. Wells
 
-## 8. Parodie i referencje komediowe
+## 8. Parodies and Comedy References
 
-### Klasyczne parodie filmowe
-36. **"Amazon Women on the Moon" (1987)** - "Son of the Invisible Man" z Ed Begley Jr.
-    - Syn niewidzialnego człowieka, który wierzy, że jest niewidzialny, ale nim nie jest
+### Classic Film Parodies
+36. **"Amazon Women on the Moon" (1987)** - "Son of the Invisible Man" with Ed Begley Jr.
+    - Son of invisible man who believes he's invisible but isn't
 
-37. **"The Carol Burnett Show"** - sketch "Mrs. Invisible Man"
-    - Carol jako żona niewidzialnego człowieka karmiąca niewidzialne dziecko
+37. **"The Carol Burnett Show"** - "Mrs. Invisible Man" sketch
+    - Carol as wife of invisible man feeding invisible child
 
-### Nawiązania w kulturze popularnej
-38. **Mark Hamill's Joker** - inspirowany głosową interpretacją Claude'a Rainsa
-39. **"Abbott and Costello Meet Frankenstein" (1948)** - cameo niewidzialnego człowieka
+### References in Popular Culture
+38. **Mark Hamill's Joker** - inspired by Claude Rains' vocal interpretation
+39. **"Abbott and Costello Meet Frankenstein" (1948)** - invisible man cameo
 
-## 9. Wpływ na rozwój gatunku science fiction
+## 9. Influence on Science Fiction Genre Development
 
-### Wzorce narracyjne
-40. **Motyw transformacji naukowej** - wpływ na setki późniejszych dzieł sci-fi
-41. **Antybohater naukowy** - Griffin jako archetyp szalonego naukowca
-42. **Konsekwencje zakazanej wiedzy** - temat przewodnie współczesnej fantastyki naukowej
+### Narrative Patterns
+40. **Scientific transformation motif** - influence on hundreds of later sci-fi works
+41. **Scientific antihero** - Griffin as archetype of mad scientist
+42. **Consequences of forbidden knowledge** - recurring theme in contemporary science fiction
 
-### Wpływ technologiczny
-43. **Efekty specjalne w kinie** - techniki z 1933 roku inspirowały pokolenia filmowców
-44. **Chroma key w telewizji** - serial z 1975 roku pionierem technik blue screen na żywo
-45. **CGI w latach 2000** - serial Sci-Fi Channel pchał granice efektów telewizyjnych
+### Technological Influence
+43. **Special effects in cinema** - 1933 techniques inspired generations of filmmakers
+44. **Chroma key in television** - 1975 series pioneered live blue screen techniques
+45. **CGI in 2000s** - Sci-Fi Channel series pushed boundaries of television effects
 
-## 10. Wpływ społeczno-kulturowy
+## 10. Socio-Cultural Impact
 
-### Tematy społeczne
-46. **Metafora marginalizacji społecznej** - inspiracja dla literatury o wykluczeniu
-47. **Przemoc domowa** - film z 2020 roku jako komentarz do ruchu #MeToo
-48. **Gaslighting i manipulacja** - współczesne interpretacje jako krytyka społeczna
+### Social Themes
+46. **Metaphor for social marginalization** - inspiration for literature about exclusion
+47. **Domestic violence** - 2020 film as commentary on #MeToo movement
+48. **Gaslighting and manipulation** - contemporary interpretations as social criticism
 
-### Językowe i kulturowe
-49. **"Feeling invisible"** - wyrażenie weszło do języka potocznego
-50. **Niewidzialność jako metafora** - szeroko używana w psychologii i socjologii
+### Linguistic and Cultural
+49. **"Feeling invisible"** - expression entered common language
+50. **Invisibility as metaphor** - widely used in psychology and sociology
 
-## 11. Międzynarodowy wpływ kulturowy
+## 11. International Cultural Impact
 
-### Adaptacje światowe
-51. **Japońska manga i anime** - liczne adaptacje motywu niewidzialności
-52. **Europejskie teatry** - adaptacje sceniczne w różnych krajach
-53. **"Niewidzialna Wystawa"** w Polsce - edukacyjne doświadczenie o niepełnosprawności wzroku
+### Global Adaptations
+51. **Japanese manga and anime** - numerous adaptations of invisibility motif
+52. **European theaters** - stage adaptations in various countries
+53. **"Invisible Exhibition" in Poland** - educational experience about visual impairment
 
-### Współczesne reinterpretacje
-54. **Streaming platforms** - planowane nowe adaptacje na Netflix i Amazon Prime
-55. **VR experiences** - immersive doświadczenia oparte na motywach Wellsa
-56. **Podcasts dramatyczne** - audio-adaptacje z efektami dźwiękowymi
+### Contemporary Reinterpretations
+54. **Streaming platforms** - planned new adaptations for Netflix and Amazon Prime
+55. **VR experiences** - immersive experiences based on Wells' motifs
+56. **Dramatic podcasts** - audio adaptations with sound effects
 
-## 12. Dziedzictwo i trwały wpływ
+## 12. Legacy and Lasting Impact
 
-### Instytucje kultury
-57. **H.G. Wells Society** - założone w 1960 roku, międzynarodowe członkostwo
-58. **Coroczne konferencje** - akademickie sympozja poświęcone twórczości Wellsa
+### Cultural Institutions
+57. **H.G. Wells Society** - founded in 1960, international membership
+58. **Annual conferences** - academic symposiums dedicated to Wells' work
 
-### Współczesne problemy
-59. **Surveillance culture** - niewidzialność jako metafora inwigilacji cyfrowej
-60. **Social media invisibility** - nowe interpretacje w kontekście kultury internetowej
+### Contemporary Issues
+59. **Surveillance culture** - invisibility as metaphor for digital surveillance
+60. **Social media invisibility** - new interpretations in internet culture context
 
-## Podsumowanie
+## Summary
 
-"Niewidzialny człowiek" H.G. Wellsa okazał się jednym z najbardziej wpływowych dzieł literatury fantastycznonaukowej wszech czasów. Od klasycznych adaptacji Universal Studios z Claude'em Rainsem, przez przełomowe seriale telewizyjne, po współczesne reinterpretacje społeczne z Elisabeth Moss - książka nadal inspiruje twórców we wszystkich mediach.
+H.G. Wells' "The Invisible Man" has proven to be one of the most influential works of science fiction literature of all time. From Universal Studios' classic adaptations with Claude Rains, through groundbreaking television series, to contemporary social reinterpretations with Elisabeth Moss - the book continues to inspire creators across all media.
 
-Szczególnie ważny jest podwójny wpływ: zarówno techniczno-rozrywkowy (efekty specjalne, merchandising, park rozrywki) jak i społeczno-kulturowy (Ralph Ellison, ruch #MeToo, krytyka społeczna). Motyw niewidzialności stał się uniwersalną metaforą dla marginalizacji, wykluczenia, ale także siły i sprawczości.
+Particularly important is the dual impact: both technical-entertainment (special effects, merchandising, theme parks) and socio-cultural (Ralph Ellison, #MeToo movement, social criticism). The invisibility motif has become a universal metaphor for marginalization, exclusion, but also power and agency.
 
-W epoce mediów społecznościowych i kultury surveillance, "Niewidzialny człowiek" zyskał nowe, aktualne znaczenia, pokazując, że klasyczne dzieło science fiction może nadal dostarczać świeżych perspektyw na współczesne problemy społeczne.
+In the era of social media and surveillance culture, "The Invisible Man" has gained new, relevant meanings, showing that classic science fiction works can still provide fresh perspectives on contemporary social problems.

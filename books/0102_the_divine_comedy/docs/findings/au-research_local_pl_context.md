@@ -1,88 +1,88 @@
-# Lokalny kontekst kulturowy: Boska komedia w Polsce
+# Local Cultural Context: The Divine Comedy in Poland
 
-## Historia recepcji w Polsce
+## Reception History in Poland
 
-### Początki (XV-XVII wiek)
-1. **Pierwsza wzmianka** - 1415 rok: Paweł Włodkowic podczas soboru w Konstancji powołał się na dzieło Dantego "O monarchii", nie wspomniał jednak o Boskiej komedii
-2. **Pierwsza próba tłumaczenia** - 1611 rok w Rakowie: ukazał się przekład na łacinę 23 wersów z XXIV Pieśni Raju
-3. **Jan Długosz** odnotował śmierć poety już na początku XV wieku, ale głębsza znajomość jego twórczości przyszła dopiero w XIX wieku
+### Early Period (15th-17th Century)
+1. **First mention** - 1415: Paweł Włodkowic during the Council of Constance referenced Dante's work "On Monarchy," but did not mention The Divine Comedy
+2. **First translation attempt** - 1611 in Raków: a Latin translation of 23 verses from Canto XXIV of Paradise was published
+3. **Jan Długosz** recorded the poet's death as early as the 15th century, but deeper knowledge of his work came only in the 19th century
 
-### Oświecenie
-4. **Ignacy Krasicki** tłumaczył fragmenty dzieła
-5. **Adam Jerzy Czartoryski** wzorował się na podróży Dantego przez piekło, konstruując wizję podróży przez upadłą Polskę w "Bardzie Polskim"
+### Enlightenment
+4. **Ignacy Krasicki** translated fragments of the work
+5. **Adam Jerzy Czartoryski** modeled himself on Dante's journey through hell, constructing a vision of a journey through fallen Poland in "The Polish Bard"
 
-## Wielkie tłumaczenia i tłumacze
+## Major Translations and Translators
 
-### Pierwsza fala - XIX wiek
-6. **Jan Korsak** (1860) - pierwszy pełny polski przekład, nauczył się włoskiego "dla Dantego" po przeczytaniu niemieckojęzycznej wersji
-7. **A. Stanisławski** (1870) - tłumaczył wierszem białym
-8. **Edward Porębowicz** (1899-1906) - jego przekład mimo wad wciąż dominuje na polskim rynku wydawniczym, badacz literatur romańskich
+### First Wave - 19th Century
+6. **Jan Korsak** (1860) - first complete Polish translation, learned Italian "for Dante" after reading a German version
+7. **A. Stanisławski** (1870) - translated in blank verse
+8. **Edward Porębowicz** (1899-1906) - his translation, despite flaws, still dominates the Polish publishing market, scholar of Romance literatures
 
-### Druga fala - XX wiek
-9. **Jan Maria Michał Kowalski** (1933) - zachowywał tercyny
-10. **Alina Świderska** (1947) - również zachowywała tercyny
-11. **Agnieszka Kuciak** (2002-2004) - współczesne tłumaczenie z zachowaniem tercyn
+### Second Wave - 20th Century
+9. **Jan Maria Michał Kowalski** (1933) - preserved terza rima
+10. **Alina Świderska** (1947) - also preserved terza rima
+11. **Agnieszka Kuciak** (2002-2004) - contemporary translation preserving terza rima
 
-### Trzecia fala - XXI wiek
-12. **Jarosław Mikołajewski** (2021) - najnowsze tłumaczenie, nad którym tłumacz pracował ponad 30 lat
+### Third Wave - 21st Century
+12. **Jarosław Mikołajewski** (2021) - newest translation, on which the translator worked for over 30 years
 
-## Wpływ na polską literaturę
+## Influence on Polish Literature
 
-### Romantyzm - złoty okres recepcji
-13. **Adam Mickiewicz** - tłumaczył fragment "Ugolino" (1829), opublikowany jako przekład części Pieśni III oraz całych XXXII i XXXIII Piekła
-14. **Juliusz Słowacki** - świadomie wszedł w krąg wpływów Dantego w "Anhelli" i "Poemacie Piasta Dantyszka"
-15. **Zygmunt Krasiński** - "Nie-Boska komedia" bezpośrednio nawiązuje do dzieła Dantego
-16. **Cyprian Norwid** - również pozostawał pod wpływem włoskiego mistrza
+### Romanticism - Golden Period of Reception
+13. **Adam Mickiewicz** - translated the "Ugolino" fragment (1829), published as a translation of part of Canto III and all of Cantos XXXII and XXXIII of Hell
+14. **Juliusz Słowacki** - consciously entered the circle of Dante's influences in "Anhelli" and "The Poem of Piast Dantyszek"
+15. **Zygmunt Krasiński** - "The Un-Divine Comedy" directly references Dante's work
+16. **Cyprian Norwid** - also remained under the influence of the Italian master
 
-### Wpływ na formę poetycką
-17. **Tercyna dantejska** - Boska komedia przyczyniła się do rozpowszechnienia tej formy w literaturze europejskiej
-18. **Adam Asnyk** wykorzystał tercynę w poemacie "Sen Grobów" z mottem z Piekła
-19. **Jan Kasprowicz** użył jej w polskiej "Mesjadzie Chrystus"
+### Influence on Poetic Form
+17. **Dantean terza rima** - The Divine Comedy contributed to the spread of this form in European literature
+18. **Adam Asnyk** used terza rima in the poem "Dream of Graves" with a motto from Hell
+19. **Jan Kasprowicz** used it in the Polish "Messiad Christ"
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Lektura szkolna
-20. **Wymagająca lektura** - zmusza do myślenia i skupienia się nad pewnymi sprawami duchowymi
-21. **Dostępne wydania szkolne** - z opracowaniami przystosowanymi dla uczniów polskich szkół
-22. **Wskazówki interpretacyjne** - polskie wydania zawierają hasła ułatwiające nawigację po książce
+### School Reading
+20. **Demanding reading** - forces thinking and concentration on certain spiritual matters
+21. **Available school editions** - with commentaries adapted for Polish school students
+22. **Interpretive guidance** - Polish editions contain entries facilitating navigation through the book
 
-## Badania naukowe i akademickie
+## Academic Research and Studies
 
-### Kluczowe publikacje
-23. **Agnieszka Kuciak** - "Dante romantyków: recepcja Boskiej Komedii u Mickiewicza, Słowackiego, Krasińskiego i Norwida" (2003)
-24. **Andrzej Litornia** - "Dantego któż się odważy tłumaczyć? studia o recepcji Dantego w Polsce"
-25. **Zofia Trojanowiczowa** - promotorka wielu prac o recepcji Dantego w Polsce
+### Key Publications
+23. **Agnieszka Kuciak** - "Dante of the Romantics: Reception of The Divine Comedy in Mickiewicz, Słowacki, Krasiński and Norwid" (2003)
+24. **Andrzej Litornia** - "Who Dares to Translate Dante? Studies on Dante's Reception in Poland"
+25. **Zofia Trojanowiczowa** - promoter of many works on Dante's reception in Poland
 
-### Specyfika polskiej recepcji
-26. **Poeta na emigracji** - polscy romantycy identyfikowali się z Dantem jako wygnańcem tęskniącym za ojczyzną
-27. **Nadzieja na odrodzenie moralne** - łączenie myśli o powrocie z nadzieją na odrodzenie moralne ludzkości
-28. **Kontekst rozbiorów** - dzieło Dantego rezonowało z sytuacją Polski pod zaborami
+### Specificity of Polish Reception
+26. **Poet in exile** - Polish Romantics identified with Dante as an exile longing for his homeland
+27. **Hope for moral rebirth** - linking thoughts of return with hope for humanity's moral rebirth
+28. **Context of partitions** - Dante's work resonated with Poland's situation under the partitions
 
-## Kulturowe nawiązania i adaptacje
+## Cultural References and Adaptations
 
-### Teatr i film
-29. **Adaptacje teatralne** - różnorodne inscenizacje jako pomoce dydaktyczne w polskich szkołach
-30. **"Inferno by Dante"** (2019) - dostępny w polskich wersjach online
-31. **Związek z "Nie-Boską komedią"** - polska lektura szkolna jako nawiązanie do dzieła Dantego
+### Theater and Film
+29. **Theatrical adaptations** - various staging as didactic aids in Polish schools
+30. **"Inferno by Dante"** (2019) - available in Polish versions online
+31. **Connection with "The Un-Divine Comedy"** - Polish school reading as a reference to Dante's work
 
-### Język potoczny
-32. **"Sceny dantejskie"** - określenie funkcjonujące w polszczyźnie potocznej na określenie wizji piekielnych
+### Colloquial Language
+32. **"Dantean scenes"** - expression functioning in colloquial Polish to describe hellish visions
 
-## Współczesny kontekst
+## Contemporary Context
 
-### XXI wiek
-33. **Nowe tłumaczenia** - ciągłe próby doskonalenia przekładu, jak praca Mikołajewskiego
-34. **Różnorodność podejść** - od wierszów białych po zachowanie tercyn, każde tłumaczenie ma swoje zalety
-35. **Akademickie zainteresowanie** - kontynuacja badań nad recepcją w kolejnych pokoleniach
+### 21st Century
+33. **New translations** - continuous attempts to improve translation, like Mikołajewski's work
+34. **Diversity of approaches** - from blank verse to preserving terza rima, each translation has its advantages
+35. **Academic interest** - continuation of reception studies in successive generations
 
-### Problemy tłumaczeniowe
-36. **Brak "idealnego" przekładu** - niemożność stworzenia tłumaczenia zadowalającego pod każdym względem
-37. **Wybór między wiernością a pięknem** - różni tłumacze wybierają różne strategie przekładu
+### Translation Problems
+36. **Lack of "perfect" translation** - impossibility of creating a translation satisfactory in every respect
+37. **Choice between fidelity and beauty** - different translators choose different translation strategies
 
-## Znaczenie dla polskiej kultury
+## Significance for Polish Culture
 
-38. **Inspiracja dla pokoleń** - od romantyzmu po współczesność, Dante inspiruje polskich twórców
-39. **Most między kulturami** - dzieło Dantego jako łącznik między włoską tradycją a polską literaturą
-40. **Symbol walki duchowej** - szczególnie bliski polskim czytelnikom w kontekście zmagań narodowych
+38. **Inspiration for generations** - from Romanticism to the present, Dante inspires Polish creators
+39. **Bridge between cultures** - Dante's work as a link between Italian tradition and Polish literature
+40. **Symbol of spiritual struggle** - particularly close to Polish readers in the context of national struggles
 
-Ten bogaty kontekst kulturowy pokazuje, jak głęboko Boska komedia wpłynęła na polską kulturę literacką przez ponad 600 lat, od pierwszych wzmianek po współczesne tłumaczenia i interpretacje.
+This rich cultural context shows how deeply The Divine Comedy has influenced Polish literary culture for over 600 years, from the first mentions to contemporary translations and interpretations.

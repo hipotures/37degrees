@@ -1,142 +1,142 @@
-# Kandyd (Candide) - Fascynujące Fakty i Historia Powstania
+# Candide - Fascinating Facts and Creation History
 
-## Okoliczności Powstania i Inspiracje
+## Circumstances of Creation and Inspirations
 
-### **FAKT**: Trzęsienie ziemi w Lizbonie jako główna inspiracja
-1 listopada 1755 roku trzęsienie ziemi całkowicie zniszczyło Lizbon, zabijając między 30 000 a 50 000 ludzi. To wydarzenie wstrząsnęło filozoficznymi przekonaniami Voltaire'a i bezpośrednio zainspirowało go do napisania "Kandyda" jako odpowiedzi na filozoficzny optymizm Leibniza.
+### **FACT**: Lisbon earthquake as main inspiration
+On November 1, 1755, an earthquake completely destroyed Lisbon, killing between 30,000 and 50,000 people. This event shook Voltaire's philosophical beliefs and directly inspired him to write "Candide" as a response to Leibniz's philosophical optimism.
 
-### **FAKT**: Reakcja na wojnę siedmioletnią
-"Kandyd" był pod wpływem okrucieństw połowy XVIII wieku, szczególnie wojny siedmioletniej (1756-1763). Voltaire opisał atrocities tej wojny z przerażającą dokładnością w pierwszych rozdziałach książki.
+### **FACT**: Reaction to the Seven Years' War
+"Candide" was influenced by the cruelties of the mid-18th century, particularly the Seven Years' War (1756-1763). Voltaire described the atrocities of this war with terrifying accuracy in the first chapters of the book.
 
-### **FAKT**: Osobiste rozczarowania z Fryderykiem Wielkim
-Rozczarowania i deziluzje Voltaire'a związane z Fryderykiem Wielkim z Prus bezpośrednio wpłynęły na jego filozofię i "spowodowały narodziny jednego z jego najtrwalszych dzieł" - powieści "Kandyd".
+### **FACT**: Personal disappointments with Frederick the Great
+Voltaire's disappointments and disillusions with Frederick the Great of Prussia directly influenced his philosophy and "caused the birth of one of his most enduring works" - the novel "Candide".
 
-### **FAKT**: Śmierć Émilie du Châtelet
-W 1749 roku zmarła wielka miłość Voltaire'a, Émilie du Châtelet, co pogłębiło jego pesymistyczne spojrzenie na świat i przyczyniło się do powstania "Kandyda".
+### **FACT**: Death of Émilie du Châtelet
+In 1749, Voltaire's great love, Émilie du Châtelet, died, which deepened his pessimistic view of the world and contributed to the creation of "Candide".
 
-## Proces Twórczy i Pisanie
+## Creative Process and Writing
 
-### **PLOTKA**: Mit o trzech dniach pisania
-Popularna legenda głosi, że Voltaire napisał "Kandyda" w trzy dni. To mit oparty na błędnej interpretacji dzieła "La Vie intime de Voltaire aux Délices et à Ferney" z 1885 roku. W rzeczywistości książka była pisana od 1757 do późnej jesieni 1758 roku.
+### **RUMOR**: The myth of three days of writing
+A popular legend states that Voltaire wrote "Candide" in three days. This is a myth based on a misinterpretation of the work "La Vie intime de Voltaire aux Délices et à Ferney" from 1885. In reality, the book was written from 1757 to late autumn 1758.
 
-### **FAKT**: Dyktowanie sekretarzowi
-"Kandyd" został prawdopodobnie zadyktowany przez Voltaire'a jego sekretarzowi Jean-Louis Wagnière, a następnie bezpośrednio przez niego poprawiony. Wagnière był najważniejszym sekretarzem Voltaire'a od 1756 do 1778 roku.
+### **FACT**: Dictation to secretary
+"Candide" was probably dictated by Voltaire to his secretary Jean-Louis Wagnière, and then directly corrected by him. Wagnière was Voltaire's most important secretary from 1756 to 1778.
 
-### **FAKT**: Intensywny rytm pracy
-Wagnière szacował, że razem z Voltaire'em pracowali osiemnaście do dwudziestu godzin dziennie. Voltaire dyktował nowe dzieła leżąc w łóżku rano, kontynuował po kolacji głęboko w noc.
+### **FACT**: Intensive work rhythm
+Wagnière estimated that he and Voltaire worked eighteen to twenty hours a day. Voltaire dictated new works lying in bed in the morning, continuing after dinner deep into the night.
 
-### **FAKT**: Rozdział po rozdziale do La Vallière
-Manuskrypt był wysyłany rozdział po rozdziale przez Voltaire'a do księcia i księżnej La Vallière jesienią 1758 roku. To jedyny zachowany manuskrypt "Kandyda" sprzed publikacji z 1759 roku.
+### **FACT**: Chapter by chapter to La Vallière
+The manuscript was sent chapter by chapter by Voltaire to the Duke and Duchess of La Vallière in autumn 1758. This is the only surviving manuscript of "Candide" from before the 1759 publication.
 
-## Publikacja i Reakcje
+## Publication and Reactions
 
-### **FAKT**: Tajemnicza publikacja pod pseudonimem
-Voltaire opublikował "Kandyda" pod pseudonimem "Monsieur le docteur Ralph" i nie przyznał się do autorstwa aż do 1768 roku. Książka została opublikowana jako "przetłumaczona z niemieckiego doktora Ralfa".
+### **FACT**: Secret publication under pseudonym
+Voltaire published "Candide" under the pseudonym "Monsieur le docteur Ralph" and did not admit authorship until 1768. The book was published as "translated from German by Dr. Ralph".
 
-### **FAKT**: Strategia pięciu krajów
-15 stycznia 1759 roku Voltaire jednocześnie opublikował "Kandyda" w pięciu krajach - było to "prawdopodobnie najbardziej tajne dzieło stulecia".
+### **FACT**: Five-country strategy
+On January 15, 1759, Voltaire simultaneously published "Candide" in five countries - it was "probably the most secret work of the century".
 
-### **FAKT**: Rekordowa sprzedaż
-W pierwszym miesiącu sprzedano ponad 20 000 egzemplarzy, co było fenomenalnym sukcesem w XVIII wieku. W ciągu roku 1759 ukazało się 17 różnych francuskich wydań.
+### **FACT**: Record sales
+Over 20,000 copies were sold in the first month, which was a phenomenal success in the 18th century. During 1759, 17 different French editions appeared.
 
-### **FAKT**: Natychmiastowa cenzura
-Do końca lutego 1759 roku Wielka Rada Genewy i władze Paryża zakazały "Kandyda". Książka była spalana publicznie przez władze kościelne i świeckie.
+### **FACT**: Immediate censorship
+By the end of February 1759, the Grand Council of Geneva and Paris authorities banned "Candide". The book was burned publicly by church and secular authorities.
 
-### **FAKT**: Efekt bumerangu cenzury
-Im więcej krytykowali dzieło, tym więcej się sprzedawało, a im więcej się sprzedawało, tym więcej pirackich wydań produkowano. Cenzura przyczyniła się do sukcesu książki.
+### **FACT**: Boomerang effect of censorship
+The more they criticized the work, the more it sold, and the more it sold, the more pirated editions were produced. Censorship contributed to the book's success.
 
-## Ukryte Fakty i Anegdoty
+## Hidden Facts and Anecdotes
 
-### **FAKT**: Strategiczne położenie majątku w Ferney
-W 1759 roku Voltaire kupił majątek w Ferney blisko granicy francusko-szwajcarskiej, aby w razie potrzeby móc szybko uciec przed francuskimi władzami. To w tym roku opublikował "Kandyda".
+### **FACT**: Strategic location of Ferney estate
+In 1759, Voltaire bought an estate in Ferney near the French-Swiss border, so he could quickly escape French authorities if needed. It was this year he published "Candide".
 
-### **FAKT**: "Najlepszy z możliwych światów" Leibniza
-Sławne zdanie "tout est pour le mieux dans le meilleur des mondes possibles" było bezpośrednim atakiem na filozofię Gottfrieda Leibniza z jego dzieła "Essais de Théodicée" z 1710 roku.
+### **FACT**: "Best of all possible worlds" by Leibniz
+The famous sentence "tout est pour le mieux dans le meilleur des mondes possibles" was a direct attack on Gottfried Leibniz's philosophy from his work "Essais de Théodicée" from 1710.
 
-### **FAKT**: Prawdziwe postacie jako inspiracja
-Pangloss to kpina z Leibniza i Pierre'a-Louise'a de Maupertuis, podczas gdy niektóre elementy w "Kandydzie" bezpośrednio krytykują Fryderyka Wielkiego i jego pruskie regimenty.
+### **FACT**: Real people as inspiration
+Pangloss is a mockery of Leibniz and Pierre-Louis de Maupertuis, while some elements in "Candide" directly criticize Frederick the Great and his Prussian regiments.
 
-### **FAKT**: Dokładność opisów wojennych
-Ironią dzieła jest to, że opisy Voltaire'a dotyczące okrucieństw wojny siedmioletniej są rzeczywiście bardzo dokładne, co czyni satyra jeszcze bardziej przejmującą.
+### **FACT**: Accuracy of war descriptions
+The irony of the work is that Voltaire's descriptions of the cruelties of the Seven Years' War are actually very accurate, making the satire even more poignant.
 
-## Liczby, Statystyki i Rekordy
+## Numbers, Statistics and Records
 
-### **FAKT**: 17 wydań w roku publikacji
-W 1759 roku ukazało się nie mniej niż siedemnaście różnych francuskich wydań "Kandyda", plus trzy tłumaczenia angielskie i jedno włoskie.
+### **FACT**: 17 editions in publication year
+In 1759, no fewer than seventeen different French editions of "Candide" appeared, plus three English translations and one Italian.
 
-### **FAKT**: 20 000+ kopii w pierwszy miesiąc
-Sprzedaż przekroczyła 20 000 egzemplarzy w pierwszy miesiąc, co było rekordowym wynikiem w XVIII-wiecznym wydawnictwie.
+### **FACT**: 20,000+ copies in first month
+Sales exceeded 20,000 copies in the first month, which was a record result in 18th-century publishing.
 
-### **FAKT**: Dwuletnie miejsce na liście zakazanych
-"Kandyd" pozostał na liście książek zakazanych przez Kościół katolicki przez prawie dwa stulecia.
+### **FACT**: Two centuries on the banned list
+"Candide" remained on the Catholic Church's list of banned books for nearly two centuries.
 
-### **FAKT**: 740 spektakli na Broadwayu
-Wersja musicalu z 1973 roku w reżyserii Harolda Prince'a grała na Broadwayu przez 740 przedstawień, prawie dwa lata.
+### **FACT**: 740 Broadway performances
+The 1973 musical version directed by Harold Prince played on Broadway for 740 performances, almost two years.
 
-## Polskie Tłumaczenia i Recepcja
+## Polish Translations and Reception
 
-### **FAKT**: Pierwsze polskie tłumaczenie z 1780 roku
-Najwcześniejsze polskie wydanie przetłumaczone przez Jacka Przybylskiego ukazało się w 1780 roku pt. "Kandyd Wszędobylski czyli najlepszość".
+### **FACT**: First Polish translation from 1780
+The earliest Polish edition translated by Jacek Przybylski appeared in 1780 under the title "Kandyd Wszędobylski czyli najlepszość".
 
-### **FAKT**: Tadeusz Boy-Żeleński jako główny tłumacz
-Znane polskie tłumaczenie wykonał Tadeusz Boy-Żeleński pod tytułem "Kandyd, czyli optymizm. Dzieło przełożone z niemieckiego rękopisu doktora Ralfa".
+### **FACT**: Tadeusz Boy-Żeleński as main translator
+The well-known Polish translation was made by Tadeusz Boy-Żeleński under the title "Kandyd, czyli optymizm. Dzieło przełożone z niemieckiego rękopisu doktora Ralfa".
 
-### **FAKT**: Dwufalowa recepcja w Polsce
-Tłumaczenia Voltaire'a w Polsce odbywały się w dwóch falach oddzielonych dwustuletnią przerwą - pierwsza w okresie rozbiorów, druga w dwudziestoleciu międzywojennym.
+### **FACT**: Two-wave reception in Poland
+Voltaire's translations in Poland occurred in two waves separated by a two-century break - the first during the partitions, the second in the interwar period.
 
-## Adaptacje i Wpływ Kulturowy
+## Adaptations and Cultural Impact
 
-### **FAKT**: Musical Leonarda Bernsteina (1956)
-Operetka "Candide" Bernsteina miała premierę na Broadwayu 1 grudnia 1956 roku, ale była klapą kasową - grała tylko 73 występy przez dwa miesiące.
+### **FACT**: Leonard Bernstein's musical (1956)
+Bernstein's operetta "Candide" premiered on Broadway on December 1, 1956, but was a box office flop - it played only 73 performances for two months.
 
-### **FAKT**: BBC 1973 z Ianem Ogilvy
-Adaptacja BBC "Play of the Month" z 1973 roku z Ianem Ogilvy jako Kandydem i Frankiem Finlayem jako Voltaire'em była "dość wierną adaptacją powieści Voltaire'a".
+### **FACT**: BBC 1973 with Ian Ogilvy
+The BBC "Play of the Month" adaptation from 1973 with Ian Ogilvy as Candide and Frank Finlay as Voltaire was "a fairly faithful adaptation of Voltaire's novel".
 
-### **FAKT**: Kilkanaście wersji musicalu
-Istnieją obecnie co najmniej cztery główne wersje musicalu Bernsteina: oryginalna z 1956, Prince'a z 1973, operowa z 1982 i Cairda z 1999 roku.
+### **FACT**: Multiple musical versions
+There are currently at least four main versions of Bernstein's musical: the original from 1956, Prince's from 1973, the opera from 1982, and Caird's from 1999.
 
-## Sekrety Manuskryptu i Warsztat Pisarski
+## Manuscript Secrets and Writing Workshop
 
-### **FAKT**: Jean Huber - obraz Voltaire'a podczas dyktowania
-Obraz Jean Hubera "Le Lever du philosophe" przedstawia Voltaire'a dyktującego sekretarzowi podczas ubierania się, stojąc na jednej nodze - idealnie ilustruje jego frenetyczną energię.
+### **FACT**: Jean Huber - painting of Voltaire during dictation
+Jean Huber's painting "Le Lever du philosophe" shows Voltaire dictating to his secretary while getting dressed, standing on one leg - perfectly illustrating his frantic energy.
 
-### **FAKT**: Poprawki w ręku autora
-W manuskrypcie La Vallière widoczne są okazjonalne poprawki w ręku Voltaire'a, na przykład na stronie z rozdziału XXII, gdzie Kandyd podróżuje przez Paryż.
+### **FACT**: Corrections in author's hand
+In the La Vallière manuscript, occasional corrections in Voltaire's hand are visible, for example on the page from chapter XXII, where Candide travels through Paris.
 
-### **FAKT**: Wagnière - "żywy słownik" Voltaire'a
-François Tronchin opisał sekretarza Wagnière jako "Dictionnaire vivant" (żywy słownik) Voltaire'a, który był dostępny o każdej porze dnia i nocy.
+### **FACT**: Wagnière - Voltaire's "living dictionary"
+François Tronchin described secretary Wagnière as "Dictionnaire vivant" (living dictionary) of Voltaire, who was available at any hour of day and night.
 
-### **FAKT**: 90% listów dyktowanych
-W latach 70. XVIII wieku Voltaire prawdopodobnie dyktował ponad 90% swoich listów Wagnière'owi, co pokazuje skalę ich współpracy.
+### **FACT**: 90% of letters dictated
+In the 1770s, Voltaire probably dictated over 90% of his letters to Wagnière, showing the scale of their collaboration.
 
-## Filozoficzne i Społeczne Tło
+## Philosophical and Social Background
 
-### **FAKT**: Atak na "najlepszy z możliwych światów"
-Voltaire zakończył "Kandyda" praktyczną maksymą "musimy uprawiać nasz ogród" zamiast leibnizjańskiej mantry Panglossa o "najlepszym z możliwych światów".
+### **FACT**: Attack on "best of all possible worlds"
+Voltaire concluded "Candide" with the practical maxim "we must cultivate our garden" instead of Pangloss's Leibnizian mantra about the "best of all possible worlds".
 
-### **FAKT**: Przejście od optymizmu do realizmu
-"Kandyd" reprezentuje przejście Voltaire'a od filozoficznego optymizmu do bardziej sceptycznego, pragmatycznego światopoglądu po 1755 roku.
+### **FACT**: Transition from optimism to realism
+"Candide" represents Voltaire's transition from philosophical optimism to a more skeptical, pragmatic worldview after 1755.
 
-### **FAKT**: Wpływ na kulturę Zachodu
-Dziś "Kandyd" jest uważany za magnum opus Voltaire'a i często wymieniane jako część kanonu literatury zachodniej, jedno ze 100 najbardziej wpływowych dzieł w historii.
+### **FACT**: Impact on Western culture
+Today "Candide" is considered Voltaire's magnum opus and often cited as part of the Western literary canon, one of the 100 most influential works in history.
 
-### **FAKT**: Ciągła aktualność
-Dzieło jest nadal jednym z najczęściej nauczanych utworów literatury francuskiej i pozostaje aktualne jako komentarz do ludzkiej natury i społecznych instytucji.
+### **FACT**: Continuing relevance
+The work is still one of the most frequently taught pieces of French literature and remains relevant as a commentary on human nature and social institutions.
 
-## Ciekawostki Językowe i Literackie
+## Language and Literary Curiosities
 
-### **FAKT**: Brak przewidywalności narracyjnej
-W "Kandydzie" praktycznie nie ma zapowiedzi przyszłych wydarzeń w tej chaotycznej narracji, co przyczynia się do jej unikalnej struktury literackiej.
+### **FACT**: Lack of narrative predictability
+In "Candide" there are practically no foreshadowings of future events in this chaotic narrative, which contributes to its unique literary structure.
 
-### **FAKT**: Pikarejski romans z elementami bildungsromanu
-Dzieło jest powieścią pikarejską z fabułą podobną do poważnego bildungsromanu, parodiującą wiele klisz przygodowych i romansowych.
+### **FACT**: Picaresque romance with bildungsroman elements
+The work is a picaresque novel with a plot similar to a serious bildungsroman, parodying many adventure and romance clichés.
 
-### **FAKT**: Popularne cytaty powstałe z dzieła
-Frazy jak "Zjedzmy jezuitę" stały się popularnymi powiedzeniami zaraz po publikacji, mimo oficjalnego potępienia dzieła.
+### **FACT**: Popular quotes from the work
+Phrases like "Let's eat the Jesuit" became popular sayings immediately after publication, despite official condemnation of the work.
 
-### **FAKT**: Gulliver's Travels jako inspiracja
-"Podróże Guliwera" Jonathana Swifta (1726) to jeden z najbliższych literackich krewnych "Kandyda" - Voltaire prawdopodobnie czerpał z tego dzieła inspirację podczas pisania.
+### **FACT**: Gulliver's Travels as inspiration
+Jonathan Swift's "Gulliver's Travels" (1726) is one of the closest literary relatives of "Candide" - Voltaire probably drew inspiration from this work while writing.
 
 ---
 
-*Dokument zawiera 50 faktów i anegdot zebranych z historycznych źródeł, dokumentów archiwalnych i współczesnych analiz literackich. Każdy oznaczony jako FAKT jest poparty wieloma źródłami historycznymi, podczas gdy PLOTKA oznacza niepotwierdzone tradycje.*
+*This document contains 50 facts and anecdotes gathered from historical sources, archival documents and contemporary literary analyses. Each marked as FACT is supported by multiple historical sources, while RUMOR indicates unconfirmed traditions.*

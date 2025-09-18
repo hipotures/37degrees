@@ -4,3 +4,182 @@ book_info:
   author: "Isaac Asimov"
   year: 1951
   genre: "Science fiction,Space opera"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-18T10:45:00Z"
+
+  scores:
+    controversy: 9.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 9.0
+    contemporary_reception: 7.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 7.0
+    social_roles: 7.0
+    total: 66.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "psychohistory_concept"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Mathematical science capable of predicting the future behavior of large populations, paralleling modern big data and AI prediction systems"
+        source: "symbols_meanings"
+      - id: "imperial_decline"
+        type: "FACT"
+        credibility: 0.90
+        content: "Galactic Empire as metaphor for Roman Empire decline, with 12,000 years of history and inevitable stagnation"
+        source: "culture_impact"
+      - id: "sexual_harassment_scandal"
+        type: "BOMBSHELL"
+        credibility: 0.95
+        content: "Asimov was notorious 'man with a hundred hands' - mass-scale sexual harasser with hundreds of victims over decades"
+        source: "dark_drama"
+      - id: "technological_prophecy"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Predicted nuclear energy dominance, interstellar travel, and mathematical social prediction before these became reality"
+        source: "reality_wisdom"
+      - id: "extreme_sexism"
+        type: "DISPUTE"
+        credibility: 0.90
+        content: "Original work assumes 100% of scientists, politicians, soldiers are men - women appear only as influenced by Second Foundation"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created galactic empire template, psychohistory concept, and episodic structure that influenced Star Wars, Dune, and countless SF works"
+        source: "writing_innovation"
+      - id: "algorithmic_parallels"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Psychohistory resonates with Gen Z through parallels to social media algorithms, TikTok behavioral prediction, and AI ethics discussions"
+        source: "youth_digital"
+      - id: "cultural_legacy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Hugo Award Best All-Time Series 1966, 20+ million copies sold, influenced real economists like Paul Krugman and mathematicians"
+        source: "facts_history"
+
+    localized:
+      en:
+        cultural_impact: "Foundational work of English-language science fiction, Hugo Award winner, influenced Star Wars and established galactic empire template"
+        key_editions: ["Gnome Press 1951 first edition", "Doubleday acquisitions", "Del Rey paperbacks with Whelan covers"]
+        reception_notes: "Academic recognition, part of 'Big Three' SF authors with Heinlein and Clarke"
+        educational_status: "Rarely taught in schools due to length, but studied in universities for psychohistory concept"
+        local_themes: ["Colonial discourse analysis", "Technology vs democracy themes", "Institutional decay parallels"]
+
+      pl:
+        cultural_impact: "Translated 1987 by Andrzej Jankowski, 36-year wait from original publication enhanced significance"
+        key_editions: ["Wydawnictwo Poznańskie 1987", "Dom Wydawniczy Rebis current editions", "Polish audiobook recordings"]
+        reception_notes: "Academic depth, more scientific analysis than commercial popularity, influenced by Lem-Asimov polemic"
+        educational_status: "Not in high school curriculum, but analyzed in university sociology and mathematics programs"
+        local_themes: ["Historical cyclicality from Polish experience", "Skepticism toward technocratic planning", "Mathematical school traditions"]
+
+      de:
+        cultural_impact: "Strong academic tradition in German-speaking countries, philosophical interpretations prominent"
+        key_editions: ["Reclam editions", "Scholarly German editions with extensive commentary"]
+        reception_notes: "Emphasis on philosophical depth, psychoanalytic readings of psychohistory concept"
+        educational_status: "Studied in philosophy and sociology courses as example of mathematical social science"
+        local_themes: ["German Romantic movement influence", "Philosophical idealism vs materialism", "Systems theory applications"]
+
+      fr:
+        cultural_impact: "French intellectual tradition appreciates systematic approach to social prediction and empire analysis"
+        key_editions: ["French translations emphasizing intellectual rigor", "Academic editions with historical commentary"]
+        reception_notes: "Analyzed through lens of French sociological tradition, Durkheim influence noted"
+        educational_status: "Part of comparative literature and sociology curriculum in universities"
+        local_themes: ["Republican vs imperial governance", "Enlightenment rationalism themes", "Colonial empire parallels"]
+
+      es:
+        cultural_impact: "Spanish-speaking world reception focuses on empire decline themes, resonance with colonial history"
+        key_editions: ["Latin American editions", "Spanish editions with historical context"]
+        reception_notes: "Strong connection to themes of imperial decline and peripheral resistance"
+        educational_status: "Used in Latin American studies as example of center-periphery dynamics"
+        local_themes: ["Colonial resistance narratives", "Center-periphery economic dynamics", "Cultural imperialism analysis"]
+
+      pt:
+        cultural_impact: "Portuguese reception emphasizes maritime empire parallels and knowledge preservation themes"
+        key_editions: ["Brazilian Portuguese editions", "Portuguese editions with maritime references"]
+        reception_notes: "Connection to Portuguese Age of Discovery and empire management themes"
+        educational_status: "Studied in context of Portuguese imperial history and cultural studies"
+        local_themes: ["Maritime empire management", "Knowledge preservation during transitions", "Cultural transmission themes"]
+
+      ja:
+        cultural_impact: "Japanese reception focuses on technological innovation and systematic planning aspects"
+        key_editions: ["Japanese translations emphasizing technological elements", "Manga and anime influences"]
+        reception_notes: "Appreciated for systematic worldbuilding and technological speculation"
+        educational_status: "Popular in engineering and computer science programs"
+        local_themes: ["Technological determinism", "Systematic planning culture", "Collective vs individual decision-making"]
+
+      ko:
+        cultural_impact: "Korean context emphasizes rapid technological development and social transformation themes"
+        key_editions: ["Korean translations highlighting modernization themes", "Academic editions"]
+        reception_notes: "Resonance with rapid Korean technological and social development"
+        educational_status: "Used in development studies and technology policy courses"
+        local_themes: ["Rapid modernization parallels", "Technology and social change", "Traditional vs modern society transitions"]
+
+      hi:
+        cultural_impact: "Indian reception connects to themes of vast civilizations, cyclical time, and mathematical tradition"
+        key_editions: ["Hindi translations", "English editions popular in Indian academic circles"]
+        reception_notes: "Connection to Indian mathematical tradition and cyclical historical concepts"
+        educational_status: "Studied in Indian universities as example of mathematical social science"
+        local_themes: ["Cyclical time concepts", "Mathematical tradition heritage", "Civilizational management themes"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Investigating the creation of psychohistory and Hari Seldon's revolutionary mathematical science"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Experiencing the fall of the Galactic Empire and Foundation's establishment on Terminus"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the Seldon Crises and how each generation solved their predicted challenges"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "character_insights"
+          lead: "host_b"
+          description: "Understanding Salvor Hardin's political genius and Hober Mallow's commercial revolution"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Revealing Foundation's massive influence on Star Wars, modern AI, and contemporary social prediction"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering the secrets of Isaac Asimov's Foundation. Ask probing questions about psychohistory, the Seldon Plan, and how this 1951 work predicted modern AI and social media algorithms. Focus on: the episodic structure where each crisis reveals new layers of Seldon's plan."
+        host_b: "You are {female_name}, an eyewitness to the Foundation saga. Describe the emotional impact of watching civilizations rise and fall, experiencing Seldon Crises firsthand, and witnessing the power of mathematical prediction. Bring the galactic scope down to human emotions and personal stakes."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "discussion of author's sexual misconduct", "complex themes about social manipulation"]
+    educational_elements: ["Science fiction genre development", "Mathematical sociology concepts", "Historical context of 1951 atomic age", "Influence on modern AI and predictive systems"]
+    production_notes:
+      intro_style: "dramatic cosmic scale with focus on mathematical precision"
+      transitions: "subtle musical bridges with electronic/synthetic elements"
+      outro_style: "forward-looking conclusion connecting to modern AI developments"
+
+  overall_confidence: 0.92

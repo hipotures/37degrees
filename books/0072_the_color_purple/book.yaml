@@ -4,3 +4,182 @@ book_info:
   author: "Alice Walker"
   year: 1982
   genre: "Epistolary,Historical fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T12:00:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 66
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "controversy_001"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Alice Walker promoted David Icke's antisemitic conspiracy theories in 2018 NYT interview"
+        source: "dark_drama"
+      - id: "innovation_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "First African American woman to win Pulitzer Prize for Fiction in 1983"
+        source: "facts_history"
+      - id: "philosophy_001"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Created 'womanism' as alternative to white feminism, defining Black feminist experience"
+        source: "symbols_meanings"
+      - id: "culture_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "54 major adaptations including Spielberg film, Broadway musical, 2023 film"
+        source: "culture_impact"
+      - id: "controversy_002"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Black male critics accused book of perpetuating stereotypes about Black men"
+        source: "dark_drama"
+      - id: "innovation_002"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "First major novel using African American Vernacular English as primary narrative voice"
+        source: "writing_innovation"
+      - id: "relevance_001"
+        type: "FACT"
+        credibility: 0.95
+        content: "Themes eerily prophetic: #MeToo, toxic masculinity, intersectionality all anticipated"
+        source: "reality_wisdom"
+      - id: "symbols_001"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Purple symbolizes divine beauty ignored by oppressed - finding God in everyday life"
+        source: "symbols_meanings"
+    localized:
+      en:
+        cultural_impact: "First Black woman Pulitzer winner, defining American literary canon"
+        key_editions: ["Penguin Classics Vitae edition with Kiese Laymon foreword"]
+        reception_notes: "Rank 17 on most banned books list 2000-2010"
+        educational_status: "Widely taught but frequently challenged in schools"
+        local_themes: ["American South Jim Crow", "Civil Rights movement parallels"]
+      pl:
+        cultural_impact: "Published by Replika 2023, translation by Michał Kłobukowski"
+        key_editions: ["Replika 2023 hardcover edition"]
+        reception_notes: "Mixed - difficulty with musical adaptation acceptance"
+        educational_status: "Not in school curriculum, used in university American studies"
+        local_themes: ["Universal women's solidarity", "Trauma healing themes resonate"]
+      de:
+        cultural_impact: "Strong academic tradition in German literary scholarship"
+        key_editions: ["Reclam editions", "Scholarly editions"]
+        reception_notes: "Analyzed through philosophical and psychoanalytic lens"
+        educational_status: "University-level gender studies focus"
+        local_themes: ["Philosophical interpretations", "Trauma theory applications"]
+      fr:
+        cultural_impact: "Recognized in francophone feminist discourse"
+        key_editions: ["Multiple French translations available"]
+        reception_notes: "Studied in postcolonial literature contexts"
+        educational_status: "Part of comparative literature programs"
+        local_themes: ["Postcolonial readings", "Feminist theory applications"]
+      es:
+        cultural_impact: "Popular in Latin American feminist movements"
+        key_editions: ["Various Spanish translations across regions"]
+        reception_notes: "Connected to Indigenous women's experiences"
+        educational_status: "Taught in gender studies programs"
+        local_themes: ["Liberation theology parallels", "Machismo critique"]
+      pt:
+        cultural_impact: "Resonates with Brazilian racial discourse"
+        key_editions: ["Portuguese and Brazilian editions"]
+        reception_notes: "Connected to Afro-Brazilian women's literature"
+        educational_status: "University African diaspora studies"
+        local_themes: ["Racial democracy myth", "Favela women parallels"]
+      ja:
+        cultural_impact: "Popular in Japanese feminist circles"
+        key_editions: ["Multiple Japanese translations"]
+        reception_notes: "Analyzed for alternative family structures"
+        educational_status: "American literature programs"
+        local_themes: ["Non-traditional relationships", "Women's economic independence"]
+      ko:
+        cultural_impact: "Growing interest in Korean gender studies"
+        key_editions: ["Korean translations available"]
+        reception_notes: "Connected to K-drama themes of family trauma"
+        educational_status: "Comparative literature focus"
+        local_themes: ["Family violence taboos", "Women's voice in patriarchy"]
+      hi:
+        cultural_impact: "Limited but growing academic interest"
+        key_editions: ["English editions primarily used"]
+        reception_notes: "Parallels with Dalit women's experiences"
+        educational_status: "Postgraduate English literature"
+        local_themes: ["Caste and gender intersections", "Rural women's struggles"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "Professor {male_name}, analyzing 'The Color Purple' with scholarly depth. Discuss structure, symbolism, womanism, literary techniques. Academic but accessible."
+        host_b: "{female_name}, a graduate student. Ask for clarification, request examples, connect to intersectionality theories, ensure accessibility."
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Womanism creation and its revolutionary impact on feminist theory"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Epistolary form as spiritual journey and voice reclamation"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "AAVE as primary narrative - first in major American literature"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "controversies"
+          lead: "host_b"
+          description: "Author's antisemitism vs work's value - separating art from artist"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Contemporary relevance: #MeToo, intersectionality, trauma healing"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Color Purple' with scholarly depth. Focus on womanism creation, AAVE innovation, epistolary structure. Address controversies academically."
+        host_b: "You are {female_name}, a graduate student. Connect to contemporary theory, ask about author controversies, explore intersectionality, ensure concepts are accessible."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings:
+      - "sexual violence"
+      - "domestic abuse"
+      - "incest"
+      - "racial discrimination"
+      - "author antisemitism"
+    educational_elements:
+      - "Womanism vs feminism distinction"
+      - "Epistolary novel tradition"
+      - "African American Vernacular English in literature"
+      - "Intersectionality theory origins"
+    production_notes:
+      intro_style: "Academic conference opening"
+      transitions: "Scholarly discussion bridges"
+      outro_style: "Reflective academic summary"
+
+  overall_confidence: 0.89

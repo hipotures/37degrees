@@ -1,131 +1,131 @@
-# Historia powstania "I, Robot" - Fakty i Anegdoty
+# Creation History of "I, Robot" - Facts and Anecdotes
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-**FAKT**: Isaac Asimov rozpoczął pisanie pierwszej opowieści robotycznej "Robbie" 10 czerwca 1939 roku, mając zaledwie 19 lat.
+**FACT**: Isaac Asimov began writing the first robot story "Robbie" on June 10, 1939, when he was only 19 years old.
 
-**FAKT**: Pierwsza opowieść z cyklu robotycznego została napisana w odpowiedzi na pulpową konwencję "robot zabija swojego stwórcę" - Asimov chciał stworzyć pozytywną wizję robotów.
+**FACT**: The first story in the robot cycle was written in response to the pulp convention of "robot kills its creator" - Asimov wanted to create a positive vision of robots.
 
-**FAKT**: "Robbie" była 14. opowieścią napisaną przez Asimova i 9. opublikowaną - pokazuje to już jego produktywność jako młodego pisarza.
+**FACT**: "Robbie" was the 14th story written by Asimov and the 9th published - showing his productivity as a young writer.
 
-**FAKT**: John W. Campbell, redaktor Astounding Science Fiction, odrzucił "Robbie" w czerwcu 1939, twierdząc, że zbyt przypomina "Helen O'Loy" Lestera del Reya.
+**FACT**: John W. Campbell, editor of Astounding Science Fiction, rejected "Robbie" in June 1939, claiming it too closely resembled "Helen O'Loy" by Lester del Rey.
 
-**FAKT**: Frederik Pohl kupił "Robbie" w marcu 1940 roku za jeden cent za słowo ($64, co dziś odpowiada $1,430).
+**FACT**: Frederik Pohl bought "Robbie" in March 1940 for one cent per word ($64, equivalent to $1,430 today).
 
-**FAKT**: "Robbie" została opublikowana w September 1940 w Super Science Stories pod tytułem "Strange Playfellow" - tytuł zmieniony przez redakcję, co Asimov określił jako "odrażający".
+**FACT**: "Robbie" was published in September 1940 in Super Science Stories under the title "Strange Playfellow" - the title was changed by the editorial team, which Asimov called "nauseating."
 
-## Inspiracje autora
+## Author's Inspirations
 
-**FAKT**: Bezpośrednią inspiracją było spotkanie z braćmi Earl i Otto Binder na Queens Science Fiction Society w maju 1939, którzy opublikowali "I, Robot" z sympatycznym robotem Adamem Linkiem.
+**FACT**: The direct inspiration came from meeting brothers Earl and Otto Binder at the Queens Science Fiction Society in May 1939, who had published "I, Robot" featuring the sympathetic robot Adam Link.
 
-**FAKT**: Asimov został inspirowany przez rodzinny sklep ze słodyczami w Brooklynie przy 174 Windsor Place, gdzie miał nieograniczony dostęp do pulpowych magazynów SF.
+**FACT**: Asimov was inspired by his family's candy store in Brooklyn at 174 Windsor Place, where he had unlimited access to pulp SF magazines.
 
-**FAKT**: Ojciec początkowo zabraniał mu czytać pulpy, uznając je za "śmieci", ale Asimov przekonał go, że magazyny z "Science" w tytule muszą być edukacyjne.
+**FACT**: His father initially forbade him from reading pulps, considering them "trash," but Asimov convinced him that magazines with "Science" in the title must be educational.
 
-**FAKT**: Szczególną inspirację stanowił Science Wonder Stories Hugona Gernsbacka - pierwszy magazyn SF, do którego otrzymał dostęp.
+**FACT**: Hugo Gernsback's Science Wonder Stories was a particular inspiration - the first SF magazine he gained access to.
 
-**FAKT**: Asimov rozpoczął czytanie science fiction w wieku 9 lat w 1929 roku, akurat gdy gatunek stawał się bardziej naukowy.
+**FACT**: Asimov began reading science fiction at age 9 in 1929, just as the genre was becoming more scientific.
 
-## Proces twórczy
+## Creative Process
 
-**FAKT**: Historyczne spotkanie z Campbellem 23 grudnia 1940 roku trwało całą noc - Asimov nazywał to "jedną z najbardziej ekscytujących nocy swojego życia".
+**FACT**: The historic meeting with Campbell on December 23, 1940, lasted all night - Asimov called it "one of the most exciting nights of his life."
 
-**FAKT**: Podczas tego spotkania Campbell i Asimov wspólnie sformułowali Trzy Prawa Robotyki - nie było to wyłącznie dziełem Asimova.
+**FACT**: During this meeting, Campbell and Asimov together formulated the Three Laws of Robotics - it was not exclusively Asimov's work.
 
-**FAKT**: Pierwsze jawne sformułowanie Trzech Praw pojawiło się w "Runaround" (marzec 1942), nie w "Robbie".
+**FACT**: The first explicit formulation of the Three Laws appeared in "Runaround" (March 1942), not in "Robbie."
 
-**FAKT**: Asimov był jednocześnie studentem chemii na Columbia University - pisanie było początkowo hobby, nie karierą.
+**FACT**: Asimov was simultaneously a chemistry student at Columbia University - writing was initially a hobby, not a career.
 
-**FAKT**: W latach 1942-1945 podczas II wojny światowej pracował jako cywilny chemik w Philadelphia Navy Yard za $2,600 rocznie.
+**FACT**: From 1942-1945 during World War II, he worked as a civilian chemist at Philadelphia Navy Yard for $2,600 annually.
 
-**FAKT**: Z pierwszych 28 opowieści w cztery lata zarobił tylko $1,788.50 - mniej niż z pracy chemika.
+**FACT**: From his first 28 stories over four years, he earned only $1,788.50 - less than from his chemistry work.
 
-## Pierwsze reakcje i publikacja
+## First Reactions and Publication
 
-**FAKT**: Martin Greenberg z Gnome Press przekonał Asimova do wydania zbioru opowieści robotycznych jako książki w 1949 roku.
+**FACT**: Martin Greenberg from Gnome Press convinced Asimov to publish a collection of robot stories as a book in 1949.
 
-**FAKT**: Asimov chciał zatytułować książkę "Mind and Iron", ale wydawca narzucił tytuł "I, Robot".
+**FACT**: Asimov wanted to title the book "Mind and Iron," but the publisher imposed the title "I, Robot."
 
-**FAKT**: Pierwsza edycja z 2 grudnia 1950 roku miała nakład tylko 5,000 egzemplarzy, plus 2,500 w 1951 jako Armed Forces Edition.
+**FACT**: The first edition on December 2, 1950, had a print run of only 5,000 copies, plus 2,500 in 1951 as an Armed Forces Edition.
 
-**FAKT**: Asimov podpisał egzemplarz dla Greenberga z dedykacją: "For Martin Greenberg who actually got this book out, by God Love! Isaac Asimov 12/2/50".
+**FACT**: Asimov signed a copy for Greenberg with the dedication: "For Martin Greenberg who actually got this book out, by God Love! Isaac Asimov 12/2/50."
 
-**PLOTKA**: Asimov i Greenberg później pokłócili się o niedopłaty dla autorów, ale szczegóły umowy wydawniczej nie są znane.
+**RUMOR**: Asimov and Greenberg later quarreled over underpayments to authors, but details of the publishing contract are unknown.
 
-## Biografia autora w kontekście książki
+## Author Biography in Book Context
 
-**FAKT**: Asimov urodził się 2 stycznia 1920 w Pietrowiczach w Rosji i przybył do USA 3 lutego 1923 na statku RMS Baltic.
+**FACT**: Asimov was born January 2, 1920, in Petrovichi, Russia, and arrived in the USA on February 3, 1923, aboard the RMS Baltic.
 
-**FAKT**: Rodzina osiedliła się w Brooklynie, prowadząc kolejno kilka sklepów ze słodyczami, gdzie wszyscy musieli pracować.
+**FACT**: The family settled in Brooklyn, running several candy stores in succession, where everyone had to work.
 
-**FAKT**: Asimov nauczył się czytać w wieku 5 lat, ukończył liceum w wieku 15 lat i otrzymał licencjat w wieku 19 lat.
+**FACT**: Asimov learned to read at age 5, graduated high school at 15, and received his bachelor's degree at 19.
 
-**FAKT**: Swoje pierwsze opowiadanie sprzedał w wieku 18 lat, naiwnie przynosząc je osobiście do redakcji Amazing Stories.
+**FACT**: He sold his first story at age 18, naively bringing it personally to the Amazing Stories editorial office.
 
-**FAKT**: W 1942 poślubił Gertrude Blugerman 25 lipca i na krótko przestał pisać.
+**FACT**: In 1942, he married Gertrude Blugerman on July 25 and briefly stopped writing.
 
-**FAKT**: Obronił doktorat z chemii na Columbia University w 1948 roku - podczas obrony jeden z egzaminatorów żartobliwie zapytał o "właściwości termodynamiczne tiotimaliny" z jego parodystycznej opowieści.
+**FACT**: He defended his chemistry doctorate at Columbia University in 1948 - during the defense, one examiner jokingly asked about "thermodynamic properties of thiotimoline" from his parodic story.
 
-## Anegdoty z procesu pisania
+## Writing Process Anecdotes
 
-**FAKT**: Asimov napisał parodię naukową "The Endochronic Properties of Resublimated Thiotimoline" pod pseudonimem, obawiając się reakcji komisji egzaminacyjnej.
+**FACT**: Asimov wrote the scientific parody "The Endochronic Properties of Resublimated Thiotimoline" under a pseudonym, fearing the examination committee's reaction.
 
-**FAKT**: Gdy artykuł ukazał się pod jego prawdziwym nazwiskiem, śmiał się histerycznie z ulgi podczas obrony doktoratu.
+**FACT**: When the article appeared under his real name, he laughed hysterically with relief during his doctoral defense.
 
-**FAKT**: Po napisaniu "Victory Unintentional" w styczniu-lutym 1942, Asimov przez rok nie napisał żadnego opowiadania - zbiegło się to z ożenkiem i pracą wojenną.
+**FACT**: After writing "Victory Unintentional" in January-February 1942, Asimov didn't write any stories for a year - this coincided with his marriage and war work.
 
-**FAKT**: Campbell płacił 6 centów za słowo w Astounding - wysoka stawka jak na tamte czasy, ale wciąż niedostateczna dla pełnoetatowego pisania.
+**FACT**: Campbell paid 6 cents per word at Astounding - a high rate for those times, but still insufficient for full-time writing.
 
-**FAKT**: Asimov pracował wraz z Robertem Heinleinem i L. Sprague de Campem w Naval Air Experimental Station podczas wojny.
+**FACT**: Asimov worked alongside Robert Heinlein and L. Sprague de Camp at the Naval Air Experimental Station during the war.
 
-## Liczby, statystyki, rekordy
+## Numbers, Statistics, Records
 
-**FAKT**: "Robbie" wygrała retrospektywną nagrodę Hugo 2016 za najlepsze opowiadanie 1941 roku (wręczoną 75 lat później).
+**FACT**: "Robbie" won the retrospective 2016 Hugo Award for best short story of 1941 (awarded 75 years later).
 
-**FAKT**: Pierwsze wydanie "I, Robot" składało się z 9 luźno powiązanych opowieści opublikowanych między 1940-1950.
+**FACT**: The first edition of "I, Robot" consisted of 9 loosely connected stories published between 1940-1950.
 
-**FAKT**: Zbiór wprowadził termin "robotyka" w opowieści "Liar!" - Asimov nie wymyślił słowa "robot", ale spopularyzował "robotics".
+**FACT**: The collection introduced the term "robotics" in the story "Liar!" - Asimov didn't invent the word "robot" but popularized "robotics."
 
-**FAKT**: Susan Calvin, pierwsza robopsycholożka, została stworzona jako jedna z pierwszych prominentnych kobiet-naukowców w science fiction.
+**FACT**: Susan Calvin, the first robopsychologist, was created as one of the first prominent female scientists in science fiction.
 
-**FAKT**: Według fikcyjnej chronologii Asimova, Susan Calvin urodziła się w 1982 i zmarła w 2064/2065 w wieku 82 lat.
+**FACT**: According to Asimov's fictional chronology, Susan Calvin was born in 1982 and died in 2064/2065 at age 82.
 
-**FAKT**: US Robots and Mechanical Men, Inc. została założona fikcyjnie w 1982 roku - tym samym roku co narodziny Susan Calvin.
+**FACT**: US Robots and Mechanical Men, Inc. was fictionally founded in 1982 - the same year as Susan Calvin's birth.
 
-## Ukryte fakty i ciekawostki
+## Hidden Facts and Curiosities
 
-**FAKT**: Asimov przyznał, że napisał "Liar!" zanim kiedykolwiek umówił się na randkę - później zmienił opowieść przed publikacją w zbiorze.
+**FACT**: Asimov admitted he wrote "Liar!" before he had ever been on a date - he later revised the story before publication in the collection.
 
-**FAKT**: Asimov "zakochał się" w postaci Susan Calvin, opisując ją jako bardziej podobną do popularnej koncepcji robota niż jego pozytronowe stworzenia.
+**FACT**: Asimov "fell in love" with the character Susan Calvin, describing her as more similar to the popular conception of a robot than his positronic creations.
 
-**FAKT**: Sklep przy 174 Windsor Place w Park Slope był kluczowy - rodzina przeprowadziła się do domu naprzeciwko w grudniu 1936.
+**FACT**: The store at 174 Windsor Place in Park Slope was crucial - the family moved to the house across the street in December 1936.
 
-**FAKT**: Asimov używał adresu 174 Windsor Place w swojej wczesnej korespondencji z magazynami SF.
+**FACT**: Asimov used the address 174 Windsor Place in his early correspondence with SF magazines.
 
-**PLOTKA**: Campbell twierdził, że Trzy Prawa były już w umyśle Asimova i trzeba je było tylko jasno sformułować - Asimov sugerował, że Campbell był skromny co do swojego wkładu.
+**RUMOR**: Campbell claimed the Three Laws were already in Asimov's mind and just needed clear formulation - Asimov suggested Campbell was modest about his contribution.
 
-**FAKT**: Pierwsza edycja "I, Robot" z Gnome Press jest dziś wysoko ceniona przez kolekcjonerów, szczególnie egzemplarze podpisane przez Asimova.
+**FACT**: The first edition of "I, Robot" from Gnome Press is highly valued by collectors today, especially copies signed by Asimov.
 
-**FAKT**: "Nightfall" (1941) ugruntował pozycję Asimova wśród czołówki pisarzy SF i jest uważana za jedno z najlepszych opowiadań gatunku.
+**FACT**: "Nightfall" (1941) established Asimov's position among the top SF writers and is considered one of the genre's best stories.
 
-**FAKT**: Do późnych lat 50. Asimov opublikował 15 powieści, a popyt na science fiction w latach 50. umożliwił pisarzom pracę na pełny etat.
+**FACT**: By the late 1950s, Asimov had published 15 novels, and the demand for science fiction in the 1950s enabled writers to work full-time.
 
-**FAKT**: Asimov został powołany do wojska, ale służył krócej niż rok (1945).
+**FACT**: Asimov was drafted into the military but served less than a year (1945).
 
-**FAKT**: W 1951 został adiunktem biochemii na Boston University School of Medicine, pozostając związany z uczelnią przez dekady.
+**FACT**: In 1951, he became an associate professor of biochemistry at Boston University School of Medicine, remaining affiliated with the university for decades.
 
-## Wpływ na kulturę i science fiction
+## Impact on Culture and Science Fiction
 
-**FAKT**: Trzy Prawa Robotyki stały się jedną z najbardziej wpływowych koncepcji w science fiction, kształtując dyskusje o etyce AI po dziś dzień.
+**FACT**: The Three Laws of Robotics became one of the most influential concepts in science fiction, shaping AI ethics discussions to this day.
 
-**FAKT**: "I, Robot" fundamentalnie zmieniło podejście science fiction do sztucznej inteligencji i robotyki na dziesięciolecia.
+**FACT**: "I, Robot" fundamentally changed science fiction's approach to artificial intelligence and robotics for decades.
 
-**FAKT**: Asimov udowodnił, że nawet z Trzema Prawami życie jest skomplikowane i problemy będą powstawać - to była jego prawdziwa wizja.
+**FACT**: Asimov proved that even with the Three Laws, life is complicated and problems will arise - this was his true vision.
 
-**FAKT**: Kolekcja ustanowiła framework dla myślenia o etyce robotów, który nadal wpływa na współczesne dyskusje o AI.
+**FACT**: The collection established a framework for thinking about robot ethics that still influences contemporary AI discussions.
 
-**FAKT**: Susan Calvin jako robopsycholożka przewidziała dziedzinę, która dopiero dziś staje się aktualna z rozwojem AI.
+**FACT**: Susan Calvin as a robopsychologist predicted a field that is only now becoming relevant with AI development.
 
 ---
 
-*Dokument zawiera 47 faktów i 3 plotki dotyczące historii powstania "I, Robot" Isaaca Asimova, zebranych na podstawie badań źródeł historycznych i biograficznych.*
+*This document contains 47 facts and 3 rumors about the creation history of Isaac Asimov's "I, Robot," compiled from historical and biographical source research.*

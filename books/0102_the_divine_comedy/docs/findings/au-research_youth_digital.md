@@ -1,112 +1,112 @@
-# Boska Komedia w Kulturze Cyfrowej Gen Z i Millenialsów (2024-2025)
+# The Divine Comedy in Gen Z and Millennial Digital Culture (2024-2025)
 
-## Podsumowanie wykonawcze
+## Executive Summary
 
-Boska Komedia Dantego doświadcza renesansu w kulturze cyfrowej młodego pokolenia. Badania pokazują 603,8K postów na TikTok o "Dante's Divine Comedy Summary", które łączą klasyczną literaturę z nowoczesnymi problemami cyfrowego wieku. Dzieło rezonuje szczególnie silnie z doświadczeniami młodego pokolenia związanymi z mental health, social media toxicity i poszukiwaniem autentyczności w cyfrowym świecie.
+Dante's Divine Comedy is experiencing a renaissance in young generation digital culture. Research shows 603.8K posts on TikTok about "Dante's Divine Comedy Summary" that connect classical literature with modern digital age problems. The work resonates particularly strongly with young generation experiences related to mental health, social media toxicity, and the search for authenticity in the digital world.
 
-## Kluczowe Trendy i Połączenia Cyfrowe
+## Key Digital Trends and Connections
 
-### 1. TikTok i BookTok - Viral Content (2024)
+### 1. TikTok and BookTok - Viral Content (2024)
 
-**Najpopularniejsze hashtagi i trendy:**
-- #dantedivinecomedy - 603,8K postów 
-- #divinecomedy - ponad milion interakcji
-- #dantealighieri - 2,1M tagów z aesthetic content
-- #inferno - połączony z dark academia aesthetic
-- #darkacademia - 519,7M wyświetleń (zawiera treści o Dantem)
+**Most popular hashtags and trends:**
+- #dantedivinecomedy - 603.8K posts
+- #divinecomedy - over million interactions
+- #dantealighieri - 2.1M tags with aesthetic content
+- #inferno - connected with dark academia aesthetic
+- #darkacademia - 519.7M views (contains Dante content)
 
-**Trending content i twórcy:**
-- Educational breakdowns: "Dante's Inferno reveals the terrifying structure of Hell—nine circles of punishment" - viral explainers z ponad 100K views
-- Book aesthetic: Posts z cytatami Dantego w dark academia stylu
-- @moonsrarebooks - antykwariusz pokazujący rzadkie wydania Boskiej Komedii
+**Trending content and creators:**
+- Educational breakdowns: "Dante's Inferno reveals the terrifying structure of Hell—nine circles of punishment" - viral explainers with over 100K views
+- Book aesthetic: Posts with Dante quotes in dark academia style
+- @moonsrarebooks - antiquarian showing rare editions of Divine Comedy
 - Reading challenges: "Join the 2025 'Dante's The Divine Comedy' Read-Along"
 
-**Viral formaty:**
-- "Nine Circles of Modern Hell" - adaptacje kręgów piekielnych do współczesnych problemów
-- "Dante explains your love life" - memy romantyczne
-- "POV: You're Dante meeting your ex in Hell" - relationshipy content
-- Dark academia outfit inspirations z cytatami z Dantego
+**Viral formats:**
+- "Nine Circles of Modern Hell" - adaptations of hell circles to contemporary problems
+- "Dante explains your love life" - romantic memes
+- "POV: You're Dante meeting your ex in Hell" - relationship content
+- Dark academia outfit inspirations with Dante quotes
 
-### 2. Gaming Culture i VR Experiences (2024)
+### 2. Gaming Culture and VR Experiences (2024)
 
-**Najnowsze gry i doświadczenia VR:**
-- "La Divina Commedia" by Jyamma Games (2024) - nowy souls-like action-RPG
-- "Sin alignment system" - gracze wybierają siedem grzechów głównych
-- Dante VR: La Porta dell'Inferno - 15-minutowe doświadczenie VR dla młodzieży
-- "The Divine Comedy VR: Inferno" (2024) - 7-minutowa podróż przez piekło
+**Latest games and VR experiences:**
+- "La Divina Commedia" by Jyamma Games (2024) - new souls-like action-RPG
+- "Sin alignment system" - players choose seven deadly sins
+- Dante VR: La Porta dell'Inferno - 15-minute VR experience for youth
+- "The Divine Comedy VR: Inferno" (2024) - 7-minute journey through hell
 
 **Gaming community reactions:**
-- Porównania do Dark Souls i innych souls-like gier
-- Streamers pokazujący "Dante's Inferno speedruns"
-- Gaming YouTuberzy analizujący symbolikę w grach inspirowanych Dantem
-- VR café oferujące "Dante experience" dla młodej publiczności
+- Comparisons to Dark Souls and other souls-like games
+- Streamers showing "Dante's Inferno speedruns"
+- Gaming YouTubers analyzing symbolism in Dante-inspired games
+- VR cafes offering "Dante experience" for young audiences
 
-### 3. Mental Health i Terapeutyczne Interpretacje
+### 3. Mental Health and Therapeutic Interpretations
 
-**Współczesne paralele psychologiczne:**
-- Dziewięć kręgów jako metafora depression i anxiety disorders
-- Virgil jako "therapy guide" - porównania do mentorów w mental health
-- Podróż przez piekło jako metaphor for healing journey
-- Beatrice jako symbol recovery i hope
+**Contemporary psychological parallels:**
+- Nine circles as metaphor for depression and anxiety disorders
+- Virgil as "therapy guide" - comparisons to mental health mentors
+- Journey through hell as metaphor for healing journey
+- Beatrice as symbol of recovery and hope
 
 **Mental health content (2024):**
-- TikTok therapists używają Dantego do opisu stanów depresyjnych
+- TikTok therapists using Dante to describe depressive states
 - "Dante's Inferno but make it Gen Z mental health"
 - Instagram posts: "When you're in your own personal circle of hell"
-- YouTube kanały o książkach jako therapy tools
+- YouTube channels about books as therapy tools
 
-### 4. Social Media jako Nowoczesne Piekło
+### 4. Social Media as Modern Hell
 
-**Viral interpretacje dziewięciu kręgów:**
+**Viral interpretations of nine circles:**
 
-1. **Limbo** - Endless scrolling na social media
-2. **Lust** - Dating apps i hook-up culture
-3. **Gluttony** - Konsumpcjonizm i materializm Gen Z
-4. **Greed** - Crypto bros i get-rich-quick schemes
-5. **Wrath** - Cancel culture i online hate
-6. **Heresy** - Conspiracy theories i fake news
-7. **Violence** - Cyberbullying i online harassment  
-8. **Fraud** - Influencer scams i fake lifestyle content
-9. **Treachery** - Doxxing i betrayal przez social media
+1. **Limbo** - Endless scrolling on social media
+2. **Lust** - Dating apps and hook-up culture
+3. **Gluttony** - Consumerism and Gen Z materialism
+4. **Greed** - Crypto bros and get-rich-quick schemes
+5. **Wrath** - Cancel culture and online hate
+6. **Heresy** - Conspiracy theories and fake news
+7. **Violence** - Cyberbullying and online harassment
+8. **Fraud** - Influencer scams and fake lifestyle content
+9. **Treachery** - Doxxing and betrayal through social media
 
-**Popularne memy i content:**
-- "The Social Media of Hell" - artykuły viral w 2024
-- "Internet is Actually Dante's Hell" - Medium posts z tysiącami claps
+**Popular memes and content:**
+- "The Social Media of Hell" - viral articles in 2024
+- "Internet is Actually Dante's Hell" - Medium posts with thousands of claps
 - Twitter threads comparing social media toxicity to Dante's circles
 - Instagram carousels: "Which circle of social media hell are you in?"
 
-### 5. Dark Academia Aesthetic i Cultural Renaissance
+### 5. Dark Academia Aesthetic and Cultural Renaissance
 
-**Visual trends na Instagramie:**
-- #darkacademia posts featuring Dante quotes - 76M views w 2024
-- Aesthetic photos z Boską Komedią i świecami
-- Gothic art style inspirowany Dantem
+**Visual trends on Instagram:**
+- #darkacademia posts featuring Dante quotes - 76M views in 2024
+- Aesthetic photos with Divine Comedy and candles
+- Gothic art style inspired by Dante
 - University students cosplaying as Dante for literary events
 
-**Fashion i lifestyle:**
+**Fashion and lifestyle:**
 - Ralph Lauren FW2024 dark academia collections
-- Bookish jewelry z cytatami Dantego
-- Literary tattoos z fragmentami Boskiej Komedii
-- Coffee shop aesthetics z klasycznymi książkami
+- Bookish jewelry with Dante quotes
+- Literary tattoos with Divine Comedy fragments
+- Coffee shop aesthetics with classical books
 
-### 6. Tech Culture i AI Parallels
+### 6. Tech Culture and AI Parallels
 
-**AI i technologia w kontekście Dantego:**
-- Princeton student używa AI do analizy języka Dantego (2024)
-- "Beatrice AI" concepts - AI jako przewodnik duchowy
-- Porównania ChatGPT do Virgil jako guide przez cyfrowy świat
-- AI art generujące ilustracje do Boskiej Komedii
+**AI and technology in Dante's context:**
+- Princeton student uses AI to analyze Dante's language (2024)
+- "Beatrice AI" concepts - AI as spiritual guide
+- Comparisons of ChatGPT to Virgil as guide through digital world
+- AI art generating illustrations for Divine Comedy
 
 **Surveillance society connections:**
-- Obawy o AI surveillance jako nowoczesne piekło
-- "The fictions of 1984 and Brave New World are now facts" - paralele do Dantego
-- Digital privacy jako modern pilgrimage
-- Tech dystopia jako 21st century Inferno
+- Concerns about AI surveillance as modern hell
+- "The fictions of 1984 and Brave New World are now facts" - parallels to Dante
+- Digital privacy as modern pilgrimage
+- Tech dystopia as 21st century Inferno
 
-### 7. BookTube i Content Creators (2024)
+### 7. BookTube and Content Creators (2024)
 
 **Prominent creators covering Dante:**
-- Jack Edwards (1,2M subscribers) - "GenZ Librarian" reading classics including Dante
+- Jack Edwards (1.2M subscribers) - "GenZ Librarian" reading classics including Dante
 - Various educational channels creating "Dante explained for Gen Z"
 - Literature YouTubers making Dante accessible to young audiences
 - BookTubers including Divine Comedy in "classics that don't suck" lists
@@ -117,50 +117,50 @@ Boska Komedia Dantego doświadcza renesansu w kulturze cyfrowej młodego pokolen
 - "Why Gen Z should read the Divine Comedy"
 - Translation comparisons and reading guides
 
-### 8. Reading Communities i Challenges
+### 8. Reading Communities and Challenges
 
 **2024-2025 reading initiatives:**
 - "100 Days of Dante" - structured global reading program
-- One canto per week reading challenges na social media
+- One canto per week reading challenges on social media
 - University book clubs using modern interpretations
-- International Dante Day celebrations na TikTok i Instagramie
+- International Dante Day celebrations on TikTok and Instagram
 
-## Modern Relevance dla Gen Z
+## Modern Relevance for Gen Z
 
-### Główne Tematy Rezonujące z Młodą Publicznością:
+### Main Themes Resonating with Young Audiences:
 
-1. **Journey of Self-Discovery** - quarter-life crisis i finding purpose
-2. **Toxic Relationships** - rozpoznawanie red flags jak Dante rozpoznaje grzechy
-3. **Mental Health Stigma** - podróż przez "personal hell" jako healing process
-4. **Social Justice** - Dante's moral judgment system resonuje z cancel culture
-5. **Environmental Anxiety** - piekło jako metafora climate change consequences
-6. **Digital Detox** - Purgatory jako metaphor for social media cleanse
-7. **Spiritual Seeking** - Paradise jako mindfulness i inner peace
+1. **Journey of Self-Discovery** - quarter-life crisis and finding purpose
+2. **Toxic Relationships** - recognizing red flags like Dante recognizes sins
+3. **Mental Health Stigma** - journey through "personal hell" as healing process
+4. **Social Justice** - Dante's moral judgment system resonates with cancel culture
+5. **Environmental Anxiety** - hell as metaphor for climate change consequences
+6. **Digital Detox** - Purgatory as metaphor for social media cleanse
+7. **Spiritual Seeking** - Paradise as mindfulness and inner peace
 8. **Authority Questioning** - Dante's criticism of Church/State vs Gen Z vs institutions
 
-### Quotes Viral na Social Media:
+### Quotes Going Viral on Social Media:
 
-- "All hope abandon, ye who enter here" - używane do opisania college applications
+- "All hope abandon, ye who enter here" - used to describe college applications
 - "The path to paradise begins in hell" - motivation Monday content
 - "Love moved the sun and other stars" - relationship goals posts
 - "In the middle of life's journey" - quarter-life crisis relatability
 
-## Adaptacje i Nowoczesne Interpretacje
+## Adaptations and Modern Interpretations
 
-### Streaming i Media (2024):
-- Netflix "Dante's Inferno" adult animation - mature content dla młodej publiczności  
+### Streaming and Media (2024):
+- Netflix "Dante's Inferno" adult animation - mature content for young audiences
 - PBS documentary "Dante: Inferno to Paradise" (March 2024)
 - Upcoming family-friendly "Dante's Inferni" (2025)
-- Educational VR experiences w muzeach i szkołach
+- Educational VR experiences in museums and schools
 
 ### Creative Adaptations:
 - AI robot Ai-Da performing Dante-inspired poetry
 - Midjourney AI interpretations of Inferno scenes
-- Modern retellings w contemporary settings
+- Modern retellings in contemporary settings
 - Graphic novel adaptations for younger readers
 
-## Znaczenie dla Podcastu 37 Stopni
+## Significance for 37 Degrees Podcast
 
-Boska Komedia oferuje wyjątkowo bogaty materiał dla młodej publiczności polskiego podcastu, łącząc uniwersalne tematy z nowoczesnymi doświadczeniami cyfrowymi. Dzieło funkcjonuje jako both historical artifact i surprisingly relevant commentary on contemporary digital life, mental health struggles i spiritual seeking charakterystycznych dla Gen Z i millenialsów.
+The Divine Comedy offers exceptionally rich material for the young audience of the Polish podcast, connecting universal themes with modern digital experiences. The work functions as both historical artifact and surprisingly relevant commentary on contemporary digital life, mental health struggles, and spiritual seeking characteristic of Gen Z and millennials.
 
-Kluczowym elementem jest sposób, w jaki młode pokolenie reinterpretuje klasyczną literaturę przez pryzmat własnych doświadczeń, tworząc mosty między 14-wieczną wizją a 21-wieczną rzeczywistością.
+The key element is how the young generation reinterprets classical literature through the lens of their own experiences, creating bridges between 14th-century vision and 21st-century reality.

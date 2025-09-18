@@ -1,214 +1,214 @@
-# Wpływ Kulturowy "Fundacji" Isaac Asimov na Popkulturę i Społeczeństwo
+# Cultural Impact of Isaac Asimov's "Foundation" on Popular Culture and Society
 
-## Najważniejsze Adaptacje Medialne
+## Major Media Adaptations
 
 ### Apple TV+ "Foundation" (2021-2025)
-- **Główny sukces adaptacyjny**: Serial Apple TV+ stworzony przez Davida S. Goyera i Josh Friedmana
-- **Premiera**: 24 września 2021, trzeci sezon od 11 lipca 2025
-- **Budżet**: 45 milionów dolarów na pierwszy sezon
-- **Lokalizacje**: Irlandia (Troy Studios Limerick), Malta, Wyspy Kanaryjskie, Niemcy, Islandia
-- **Zespół**: 500 pracowników, największa produkcja w historii Irlandii
-- **Recepcja**: 90% na Rotten Tomatoes (sezon 3), pochwały za efekty wizualne i muzykę Bear McCreary'ego
-- **Filozofia produkcji**: Minimalne użycie greenscreen, nacisk na prawdziwe lokalizacje i miniatury
+- **Major adaptation success**: Apple TV+ series created by David S. Goyer and Josh Friedman
+- **Premiere**: September 24, 2021, third season from July 11, 2025
+- **Budget**: $45 million for the first season
+- **Locations**: Ireland (Troy Studios Limerick), Malta, Canary Islands, Germany, Iceland
+- **Crew**: 500 employees, largest production in Irish history
+- **Reception**: 90% on Rotten Tomatoes (season 3), praise for visual effects and Bear McCreary's music
+- **Production philosophy**: Minimal greenscreen use, emphasis on real locations and miniatures
 
 ### BBC Radio Adaptation (1973)
-- **Pierwsze główne radio-adaptacja** serii Foundation
-- **Historyczne znaczenie**: Utrzymywanie żywotności serii przez dekady
+- **First major radio adaptation** of the Foundation series
+- **Historical significance**: Maintaining series vitality for decades
 
-### Planowane i nieudane adaptacje
-- **50 lat prób adaptacji** - według Goyera "ludzie próbują zrobić Foundation od ponad 50 lat"
-- **Wyzwania adaptacyjne**: Asimov przewidział, że adaptacje nie będą "wierne" pisanym słowom
+### Planned and failed adaptations
+- **50 years of adaptation attempts** - according to Goyer "people have been trying to make Foundation for over 50 years"
+- **Adaptation challenges**: Asimov predicted that adaptations would not be "faithful" to the written word
 
-## Wpływ na Twórców - Konkretni Artyści
+## Impact on Creators - Specific Artists
 
-### George Lucas i Star Wars
-- **David Goyer potwierdził**: "Foundation było ogromnym wpływem na Star Wars"
-- **Galactic Empire**: Koncepcja galaktycznego imperium Asimova stała się podstawą dla imperium Palpatine'a
-- **Coruscant vs Trantor**: Planeta-stolica Star Wars bezpośrednio inspirowana Trantorem
-- **Hiperprzestrzeń**: Asimov spopularyzował koncepcję podróży hiperkosmicznych
-- **Moc Jedi**: "Siła mentalna" Drugiej Fundacji przekształcona w Moc Jedi
-- **Han Pritcher → Han Solo**: Prawdopodobne przeniesienie imienia jako hołd
-- **Asimov sam potwierdził**: W 1983 roku stwierdził, że Star Wars "oferowało więcej niż powiew Foundation"
+### George Lucas and Star Wars
+- **David Goyer confirmed**: "Foundation was a huge influence on Star Wars"
+- **Galactic Empire**: Asimov's galactic empire concept became the foundation for Palpatine's empire
+- **Coruscant vs Trantor**: Star Wars capital planet directly inspired by Trantor
+- **Hyperspace**: Asimov popularized the concept of hyperspace travel
+- **Jedi Force**: "Mental Force" of the Second Foundation transformed into Jedi Force
+- **Han Pritcher → Han Solo**: Probable name transfer as homage
+- **Asimov himself confirmed**: In 1983 he stated that Star Wars "offered more than a whiff of Foundation"
 
-### Frank Herbert i Dune
-- **Wspólne inspiracje**: Oba dzieła bazowały na upadku imperium galaktycznego
-- **Herbert świadomie odwrócił wzór**: "Mule, nie Foundation, jest jego bohaterem"
-- **37 podobieństw**: Herbert sam wyliczył podobieństwa między Dune a Star Wars
+### Frank Herbert and Dune
+- **Common inspirations**: Both works based on the fall of galactic empire
+- **Herbert consciously reversed the pattern**: "Mule, not Foundation, is his hero"
+- **37 similarities**: Herbert himself counted similarities between Dune and Star Wars
 
-### Iain M. Banks i seria Culture
-- **Bezpośrednia inspiracja**: Foundation nazwane "najbardziej wpływowym dziełem w historii SF"
-- **Gaia vs Culture**: Koncepcja Gaii Asimova jako prototyp społeczeństwa Culture
-- **"Hippisi z bronią"**: Banks bazował Culture na społeczeństwie Gaian
-- **Nazewnictwo**: Banks przejął konwencje nazewnicze Asimova (długie, wielosylabowe nazwy)
-- **Stor Gendibal, Golan Trevise**: Nazwiska postaci które "pasowałyby do każdej powieści Culture"
-- **Łagodne rządy maszyn**: Koncepcja robotów jako życzliwych władców przejęta przez Culture
+### Iain M. Banks and the Culture series
+- **Direct inspiration**: Foundation called "the most influential work in SF history"
+- **Gaia vs Culture**: Asimov's Gaia concept as prototype for Culture society
+- **"Hippies with weapons"**: Banks based Culture on Gaian society
+- **Naming conventions**: Banks adopted Asimov's naming conventions (long, multi-syllabic names)
+- **Stor Gendibal, Golan Trevize**: Character names that "would fit into any Culture novel"
+- **Benevolent machine rule**: Concept of robots as benevolent rulers adopted by Culture
 
-### Autorzy kontynuacji (lata 90.)
+### Continuation authors (1990s)
 - **Gregory Benford**: "Foundation's Fear" (1997)
-- **Greg Bear**: "Foundation and Chaos" (1998) 
+- **Greg Bear**: "Foundation and Chaos" (1998)
 - **David Brin**: "Foundation's Triumph" (1999)
-- **Roger MacBride Allen, Donald Kingsbury**: Inne prace inspirowane Foundation
+- **Roger MacBride Allen, Donald Kingsbury**: Other works inspired by Foundation
 
-## Fenomen Społeczny - Jak Książka Zmieniła Kulturę
+## Social Phenomenon - How the Book Changed Culture
 
-### Wpływ na Ekonomię
-- **Paul Krugman** (Nagroda Nobla 2008): Psychohistoria zainspirowała go do zostania ekonomistą
-- **Reshma Hussam** (ekonomistka): "Psychohistoria to właśnie to, co robi ekonomia - eksploracja tego, co nas napędza jako ludzi"
-- **Ben Ho** (profesor Vassar College): Pisał o serii w esejach aplikacyjnych na studia doktoranckie
-- **Były guverner banku centralnego**: Cytuje wpływ książek na swoje zainteresowania
+### Impact on Economics
+- **Paul Krugman** (Nobel Prize 2008): Psychohistory inspired him to become an economist
+- **Reshma Hussam** (economist): "Psychohistory is exactly what economics does - exploring what drives us as humans"
+- **Ben Ho** (Vassar College professor): Wrote about the series in doctoral application essays
+- **Former central bank governor**: Cites the books' influence on his interests
 
-### Wpływ na Psychologię
-- **Martin Seligman**: W "Learned Optimism" identyfikuje serię Foundation jako jeden z najważniejszych wpływów w życiu zawodowym
-- **Przewidział wybory 1988**: Pierwsza udana predykcja głównego wydarzenia historycznego oparta na zasadach psychologicznych
+### Impact on Psychology
+- **Martin Seligman**: In "Learned Optimism" identifies Foundation series as one of the most important influences in his professional life
+- **Predicted 1988 elections**: First successful prediction of major historical event based on psychological principles
 
-### Wpływ na Socjologię Matematyczną
-- **Peter Turchin**: Stworzył "kliodynamikę" inspirowaną psychohistorią (1992)
-- **GDELT Project**: Globalny projekt danych próbujący realizować psychohistorię w praktyce
-- **Kalev Leetaru**: Przewidział Arabską Wiosnę i lokalizację kryjówki bin Ladena używając analityki w stylu psychohistorii
+### Impact on Mathematical Sociology
+- **Peter Turchin**: Created "cliodynamics" inspired by psychohistory (1992)
+- **GDELT Project**: Global data project attempting to realize psychohistory in practice
+- **Kalev Leetaru**: Predicted Arab Spring and bin Laden's hideout location using psychohistory-style analytics
 
-### Wprowadzenie Terminów do Języka Angielskiego
-- **"Psychohistoria"**: Oxford English Dictionary credituje Asimova za wprowadzenie słowa
-- **"Robotics"**: Asimov stworzył termin nie wiedząc, że to oryginalne słowo
-- **"Positronic"**: Całkowicie fikcyjna technologia, która stała się częścią żargonu SF
+### Introduction of Terms to English Language
+- **"Psychohistory"**: Oxford English Dictionary credits Asimov for introducing the word
+- **"Robotics"**: Asimov created the term not knowing it was an original word
+- **"Positronic"**: Completely fictional technology that became part of SF jargon
 
-## Społeczności Fanów i Kultura Fandom
+## Fan Communities and Fandom Culture
 
-### Naciski Fanów na Kontynuację
-- **30-letni hiatus**: Fani naciskali na Asimova przez dekady, by napisał kontynuację
-- **Foundation's Edge (1982)**: Asimov "poddał się" i napisał czwarty tom po naciskach fanów
-- **Poczucie niedomkniętości**: Serie brakowało zamknięcia po przewidywanych tysiąc lat
+### Fan Pressure for Continuation
+- **30-year hiatus**: Fans pressured Asimov for decades to write a continuation
+- **Foundation's Edge (1982)**: Asimov "gave in" and wrote the fourth volume after fan pressure
+- **Sense of incompleteness**: The series lacked closure after the predicted thousand years
 
-### Aktywne Społeczności Online
-- **Asimov Wiki**: Encyklopedia prowadzona przez fanów na Fandom
-- **Foundation Wiki**: Specjalistyczna wiki poświęcona serii
-- **Fan editing**: Społeczność aktywnie tworzy i edytuje treści
+### Active Online Communities
+- **Asimov Wiki**: Fan-maintained encyclopedia on Fandom
+- **Foundation Wiki**: Specialized wiki dedicated to the series
+- **Fan editing**: Community actively creates and edits content
 
-### Konwenty i Eventy
-- **Science Fiction Conventions**: Foundation pozostaje popularnym tematem na konwentach SF
-- **MIT Science Fiction Society**: Asimov nagrał przemówienie dla członków (1961)
-- **Book readings**: Nagrania Asimova czytającego fragmenty (1982)
+### Conventions and Events
+- **Science Fiction Conventions**: Foundation remains a popular topic at SF conventions
+- **MIT Science Fiction Society**: Asimov recorded a speech for members (1961)
+- **Book readings**: Recordings of Asimov reading excerpts (1982)
 
-## Merchandise i Komercjalizacja
+## Merchandise and Commercialization
 
-### Gry Planszowe i RPG
-- **"Asimov's Foundation"**: Gra karciana gdzie gracze kontrolują Pierwszą i Drugą Fundację
-- **"Foundation and Empire War Game"**: Cztero-osobowa gra wojenna bez kości
-- **"Imperium" (GDW, lata 70.)**: Gra inspirowana militarnym aspektem serii
-- **Fading Suns RPG**: Cytuje Foundation jako jedną z inspiracji
-- **Traveller RPG**: Zawiera odniesienia do psychohistorii
-- **Thousand Suns**: Inspirowany klasycznymi operami kosmicznymi włącznie z Foundation
+### Board Games and RPGs
+- **"Asimov's Foundation"**: Card game where players control First and Second Foundation
+- **"Foundation and Empire War Game"**: Four-player war game without dice
+- **"Imperium" (GDW, 1970s)**: Game inspired by the military aspect of the series
+- **Fading Suns RPG**: Cites Foundation as one of its inspirations
+- **Traveller RPG**: Contains references to psychohistory
+- **Thousand Suns**: Inspired by classic space operas including Foundation
 
-### Gry Video
-- **Stellaris**: Update "Asimov" (wersja 1.2), mod "Asimov Foundation Empire Pack"
-- **Mass Effect**: Trzy końcówki bezpośrednio inspirowane finałem "Foundation's Edge"
-- **Koncepcja "Gaia" → opcja "Synthesis"**: Bezpośrednia inspiracja
-- **Star Control**: Wpłynął na Mass Effect i Stellaris, cytuje Foundation jako inspirację
-- **Civilization series**: Koncepty psychohistorii wpływają na modele cywilizacji
+### Video Games
+- **Stellaris**: "Asimov" update (version 1.2), "Asimov Foundation Empire Pack" mod
+- **Mass Effect**: Three endings directly inspired by "Foundation's Edge" finale
+- **"Gaia" concept → "Synthesis" option**: Direct inspiration
+- **Star Control**: Influenced Mass Effect and Stellaris, cites Foundation as inspiration
+- **Civilization series**: Psychohistory concepts influence civilization models
 
-### Technologia i AI
-- **Foundation Models AI**: Nazwa nawiązuje do serii Asimova
-- **Predictive AI**: Dzisiejsze modele AI realizują część wizji psychohistorii
-- **Big Data Analytics**: GDELT Project próbuje realizować psychohistorię w praktyce
-- **Machine Learning**: Algorytmy predykcyjne inspirowane konceptami Asimova
+### Technology and AI
+- **Foundation Models AI**: Name references Asimov's series
+- **Predictive AI**: Today's AI models realize part of psychohistory's vision
+- **Big Data Analytics**: GDELT Project attempts to realize psychohistory in practice
+- **Machine Learning**: Predictive algorithms inspired by Asimov's concepts
 
-## Miejsca Związane z Książką
+## Places Related to the Book
 
-### Archiwa i Muzea
-- **Boston University - Mugar Memorial Library**: Główne archiwum papierów Asimova (od 1965)
-- **Howard Gotlieb Archive**: Zbiór rękopisów, notatników, korespondencji, fotografii
-- **Audio/video materials**: Nagrania przemówień, czytań, wywiadów
-- **Texas A&M University**: Kolekcja rękopisów i korespondencji
-- **West Virginia University**: Prawie kompletna kolekcja Asimova z rzadkimi wydaniami
+### Archives and Museums
+- **Boston University - Mugar Memorial Library**: Main archive of Asimov's papers (since 1965)
+- **Howard Gotlieb Archive**: Collection of manuscripts, notebooks, correspondence, photographs
+- **Audio/video materials**: Recordings of speeches, readings, interviews
+- **Texas A&M University**: Collection of manuscripts and correspondence
+- **West Virginia University**: Nearly complete Asimov collection with rare editions
 
-### Lokalizacje Filmowe Apple TV+
-- **Troy Studios, Limerick, Irlandia**: Główna baza produkcyjna
-- **Trinity College Dublin**: Long Room jako lokalizacja Galactic Library
+### Apple TV+ Filming Locations
+- **Troy Studios, Limerick, Ireland**: Main production base
+- **Trinity College Dublin**: Long Room as Galactic Library location
 - **Malta Film Studios**: Massive outdoor water tanks
-- **Fort Manoel, Kalkara**: Lokalizacje na Malcie
-- **Canary Islands**: Wulkaniczne krajobrazy dla planet obcych
+- **Fort Manoel, Kalkara**: Malta locations
+- **Canary Islands**: Volcanic landscapes for alien planets
 - **Tuineje, Fuerteventura**: Caldera de los Arrabales
-- **Berlin, Germany**: Wykorzystanie architektury miasta
+- **Berlin, Germany**: Utilizing city architecture
 
-### Uniwersytety Nauczające o Foundation
-- **Columbia University**: Asimov jako "Remarkable Columbian"
-- **MIT**: Przemówienia Asimova dla Science Fiction Society
-- **Various Economics Departments**: Psychohistoria jako przykład w kursach ekonomii
-- **Sociology Courses**: Psychohistoria jako przykład socjologii ilościowej
+### Universities Teaching about Foundation
+- **Columbia University**: Asimov as "Remarkable Columbian"
+- **MIT**: Asimov's speeches for Science Fiction Society
+- **Various Economics Departments**: Psychohistory as example in economics courses
+- **Sociology Courses**: Psychohistory as example of quantitative sociology
 
-## Cytaty i Nawiązania w Innych Dziełach
+## Quotes and References in Other Works
 
-### Literatura Science Fiction
-- **"Every sci-fi property you love is based on Foundation"** - powszechne motto wśród krytyków
-- **John Jenkins**: "Większość autorów SF od lat 50. została dotknięta przez Asimova"
-- **Template for galactic empires**: Każda późniejsza opera kosmiczna zawdzięcza genezę Foundation
-- **Star Trek TNG**: "Positronic brains" jako "Asimov's dream"
-- **Episode "Datalore"**: Bezpośrednie nawiązanie do pozytronowych mózgów
+### Science Fiction Literature
+- **"Every sci-fi property you love is based on Foundation"** - common motto among critics
+- **John Jenkins**: "Most SF authors since the 50s have been touched by Asimov"
+- **Template for galactic empires**: Every later space opera owes its genesis to Foundation
+- **Star Trek TNG**: "Positronic brains" as "Asimov's dream"
+- **Episode "Datalore"**: Direct reference to positronic brains
 
-### Akademickie Cytowania
-- **Mathematical Sociology courses**: Foundation jako przykład strukturalizmu funkcjonalnego
-- **Economics textbooks**: Psychohistoria jako przykład modelowania predykcyjnego
-- **History courses**: Foundation jako SF wersja historii upadku Imperium Rzymskiego
-- **Political Science**: Galactic Empire jako studium przypadku władzy
+### Academic Citations
+- **Mathematical Sociology courses**: Foundation as example of functional structuralism
+- **Economics textbooks**: Psychohistory as example of predictive modeling
+- **History courses**: Foundation as SF version of Roman Empire fall history
+- **Political Science**: Galactic Empire as case study of power
 
 ### Pop Culture References
-- **Futurama (2003)**: "Holophonor" inspirowany "Visi-Sonor" z Foundation
-- **Robot naming conventions**: "nonHAL-asimov-42 (Robby)" w różnych dziełach
-- **"Blazingly fast" parody**: Marketing language przeciwko profesjonalnemu językowi Asimova
+- **Futurama (2003)**: "Holophonor" inspired by "Visi-Sonor" from Foundation
+- **Robot naming conventions**: "nonHAL-asimov-42 (Robby)" in various works
+- **"Blazingly fast" parody**: Marketing language against Asimov's professional language
 
-## Parodie, Hołdy i Reimaginacje
+## Parodies, Tributes and Reimaginings
 
-### Współczesne Reimaginacje
-- **Apple TV+ Foundation**: Radykalne reinterpretacje postaci i fabuły
-- **Gender flips**: Gaal Dornick i Salvor Hardin jako kobiety
-- **Visual spectacle**: 1000-roczna gra w szachy między Seldonem a Imperium
-- **$45 million budget**: Największa produkcja Apple TV+ w 2021
+### Contemporary Reimaginings
+- **Apple TV+ Foundation**: Radical reinterpretations of characters and plot
+- **Gender flips**: Gaal Dornick and Salvor Hardin as women
+- **Visual spectacle**: 1000-year chess game between Seldon and Empire
+- **$45 million budget**: Largest Apple TV+ production in 2021
 
-### Parodie Naukowe
-- **"There is no psychohistory, and there never will be"**: Krytyczny blog post o niemożliwości psychohistorii
-- **Behavioral Economics**: Czy Asimov przewidział ekonomię behawioralną?
-- **Cliodynamics critiques**: Debaty o praktyczności metod Turchina
+### Scientific Parodies
+- **"There is no psychohistory, and there never will be"**: Critical blog post about psychohistory impossibility
+- **Behavioral Economics**: Did Asimov predict behavioral economics?
+- **Cliodynamics critiques**: Debates about practicality of Turchin's methods
 
-### Homage w Innych Mediach
-- **Star Wars prequels**: Coruscant jako bezpośredni hołd dla Trantor
-- **Mass Effect trilogy**: Struktura narracyjna wzorowana na Foundation
-- **Stellaris updates**: Nazwy aktualizacji honorujące autorów SF, włącznie z Asimovem
-- **Academic papers**: Setki prac akademickich analizujących wpływ psychohistorii
+### Homage in Other Media
+- **Star Wars prequels**: Coruscant as direct tribute to Trantor
+- **Mass Effect trilogy**: Narrative structure modeled on Foundation
+- **Stellaris updates**: Update names honoring SF authors, including Asimov
+- **Academic papers**: Hundreds of academic works analyzing psychohistory's influence
 
-## Kontrowersyjny Wpływ
+## Controversial Impact
 
-### Krytyki Adaptacji Apple TV+
-- **"Terrible adaptation"**: Część fanów uważa serial za zdradę oryginału
-- **Significant departures**: Radykalne zmiany w fabule i postaciach
-- **Non-book readers vs fans**: Nowi widzowie cenią modernizację, fani oryginału są rozczarowani
-- **"Faithful" debate**: Czy adaptacja musi być wierna, by być dobra?
+### Apple TV+ Adaptation Criticisms
+- **"Terrible adaptation"**: Some fans consider the series a betrayal of the original
+- **Significant departures**: Radical changes in plot and characters
+- **Non-book readers vs fans**: New viewers appreciate modernization, original fans are disappointed
+- **"Faithful" debate**: Must an adaptation be faithful to be good?
 
-### Niemożliwość Psychohistorii
-- **Academic criticism**: "Scale, limits of knowledge, and ethics" jako główne problemy
-- **Social scientists disagree**: Większość socjologów odrzuca możliwość prawdziwej psychohistorii
-- **Ethical implications**: Problemy z przewidywaniem i manipulowaniem społeczeństwami
+### Impossibility of Psychohistory
+- **Academic criticism**: "Scale, limits of knowledge, and ethics" as main problems
+- **Social scientists disagree**: Most sociologists reject the possibility of true psychohistory
+- **Ethical implications**: Problems with predicting and manipulating societies
 
-### Wpływ na Nierealistische Oczekiwania
-- **"Next best thing" economics**: Krugman wybrał ekonomię jako substytut psychohistorii
-- **Overpromising AI**: Foundation Models nazywane tak dla marketingu, nie możliwości
-- **Political manipulation**: Obawy o wykorzystanie big data do kontroli społecznej
+### Impact on Unrealistic Expectations
+- **"Next best thing" economics**: Krugman chose economics as substitute for psychohistory
+- **Overpromising AI**: Foundation Models named for marketing, not capabilities
+- **Political manipulation**: Concerns about using big data for social control
 
-## Współczesne Znaczenie (2025)
+## Contemporary Significance (2025)
 
-### AI i Machine Learning
-- **Foundation Models**: GPT, BERT i inne nazywane "foundation models"
+### AI and Machine Learning
+- **Foundation Models**: GPT, BERT and others called "foundation models"
 - **Predictive Analytics**: Współczesne algoritmy realizują fragment wizji psychohistorii
-- **Big Data**: GDELT i podobne projekty próbują przewidywać wydarzenia światowe
-- **Social media analytics**: Twitter, Facebook wykorzystują podobne koncepty
+- **Big Data**: GDELT and similar projects attempt to predict world events
+- **Social media analytics**: Twitter, Facebook utilize similar concepts
 
-### Polityka i Społeczeństwo
-- **Election predictions**: Dan Wagner (Obama 2012) wykorzystał data analytics w stylu psychohistorii
-- **TV advertising disruption**: Zastąpienie tradycyjnej reklamy precyzyjnym targetowaniem
-- **Ward election scaling**: Kampanie narodowe prowadzone jak lokalne wybory
+### Politics and Society
+- **Election predictions**: Dan Wagner (Obama 2012) used psychohistory-style data analytics
+- **TV advertising disruption**: Replacing traditional advertising with precise targeting
+- **Ward election scaling**: National campaigns run like local elections
 
-### Kultura Popularna 2025
-- **Apple TV+ Season 3**: Nowe odcinki w 2025 z 90% na Rotten Tomatoes
-- **Continuing influence**: Nowe pokolenia odkrywa serię przez streaming
-- **Academic courses**: Psychohistoria nadal nauczana w kursach ekonomii i socjologii
-- **Gaming influence**: Stellaris, Mass Effect, Civilization kontynuują tradycję inspirowaną Foundation
+### Popular Culture 2025
+- **Apple TV+ Season 3**: New episodes in 2025 with 90% on Rotten Tomatoes
+- **Continuing influence**: New generations discover the series through streaming
+- **Academic courses**: Psychohistory still taught in economics and sociology courses
+- **Gaming influence**: Stellaris, Mass Effect, Civilization continue Foundation-inspired tradition
 
-Foundation pozostaje żywym, wpływowym dziełem które nadal inspiruje twórców, naukowców i technologów ponad 70 lat po pierwszej publikacji, dowodząc uniwersalności wizji Asimova dotyczącej przyszłości ludzkości i możliwości przewidywania zachowań społecznych.
+Foundation remains a living, influential work that continues to inspire creators, scientists and technologists over 70 years after first publication, proving the universality of Asimov's vision regarding humanity's future and the possibility of predicting social behaviors.

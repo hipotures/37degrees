@@ -1,186 +1,186 @@
-# Neuromancer w Polsce - Lokalny Kontekst Kulturowy
+# Neuromancer in Poland - Local Cultural Context
 
-## Podstawowe informacje o książce
-- **Tytuł**: Neuromancer
-- **Autor**: William Gibson
-- **Rok wydania**: 1984
-- **Gatunek**: Cyberpunk, Science Fiction
-- **Status**: Fundament gatunku cyberpunk, zwycięzca "potrójnej korony" (Hugo, Nebula, Philip K. Dick Award)
+## Basic Book Information
+- **Title**: Neuromancer
+- **Author**: William Gibson
+- **Publication Year**: 1984
+- **Genre**: Cyberpunk, Science Fiction
+- **Status**: Foundation of cyberpunk genre, winner of the "triple crown" (Hugo, Nebula, Philip K. Dick Award)
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze polskie wydanie
-- **Tłumacz**: Piotr W. Cholewa
-- **Wydawcy**: Książnica (Warszawa, 2009), Zysk i S-ka (Poznań, 2001)
-- **Trylogia Ciągu**: Kompleksowe wydanie wszystkich trzech powieści cyklu przez wydawnictwo MAG w serii twardych okładek
-- **Okładka**: Projekt autorstwa Dark Cryon
-- **Format**: Dostępne w wersji papierowej, ebookowej i audiobooku (Storytel)
+### First Polish Edition
+- **Translator**: Piotr W. Cholewa
+- **Publishers**: Książnica (Warsaw, 2009), Zysk i S-ka (Poznań, 2001)
+- **Sprawl Trilogy**: Comprehensive hardcover edition of all three cycle novels by MAG publishing house
+- **Cover Design**: Created by Dark Cryon
+- **Formats**: Available in paperback, ebook, and audiobook (Storytel)
 
-### Dostępność
-- Książka regularnie dostępna w polskich księgarniach
-- Część "Trylogii Ciągu" obejmującej "Graf Zero" i "Mona Liza Turbo"
-- Ceny wahają się od 20-40 PLN za wydanie papierowe
+### Availability
+- Book regularly available in Polish bookstores
+- Part of "Sprawl Trilogy" including "Count Zero" and "Mona Lisa Overdrive"
+- Prices range from 20-40 PLN for paperback editions
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
-### Piotr W. Cholewa - główny tłumacz
-- **Ocena**: Tłumaczenie uznawane za "bardzo udane" przez większość czytelników
-- **Wyzwania**: Akademickie analizy wskazują na niespójne strategie tłumaczeniowe neologizmów
-- **Problemy**: Cholewa często wybierał jeden aspekt oryginalnego wyrażenia kosztem innych, nawet gdy było możliwe pełniejsze oddanie znaczenia
+### Piotr W. Cholewa - Main Translator
+- **Assessment**: Translation considered "very successful" by most readers
+- **Challenges**: Academic analyses point to inconsistent strategies for translating neologisms
+- **Issues**: Cholewa often chose one aspect of the original expression at the expense of others, even when fuller meaning could have been preserved
 
-### Analiza akademicka
-- **Badanie**: Praca magisterska "Cyberpunk w przekładzie. Neologizmy w polskim tłumaczeniu powieści Williama Gibsona pt. Neuromancer"
-- **Wyniki**: Neologizmy podzielone na trzy grupy tematyczne:
-  - Technologia i informatyka
-  - Nazwy własne
-  - Elementy codzienności cyberpunkowego świata (narkotyki, przestępczość)
+### Academic Analysis
+- **Study**: Master's thesis "Cyberpunk in Translation. Neologisms in the Polish translation of William Gibson's novel Neuromancer"
+- **Results**: Neologisms divided into three thematic groups:
+  - Technology and computing
+  - Proper names
+  - Elements of cyberpunk daily life (drugs, crime)
 
-## Recepcja w polskich szkołach i edukacji
+## Reception in Polish Schools and Education
 
-### Status lektury
-- **Nie jest lekturą obowiązkową** w polskim systemie edukacyjnym
-- **Lektura uzupełniająca**: Polecana jako pozycja do zrozumienia współczesnej kultury cyfrowej
-- **Poziom trudności**: Uznawana za "nie dla każdego" - wymaga czytelniczej wprawy
-- **Wyzwania**: Zawiła fabuła, mnogość postaci, wymagana duża koncentracja
+### Reading List Status
+- **Not mandatory reading** in the Polish education system
+- **Supplementary reading**: Recommended as a position to understand contemporary digital culture
+- **Difficulty level**: Recognized as "not for everyone" - requires reading experience
+- **Challenges**: Complex plot, numerous characters, requires high concentration
 
-### Wartość edukacyjna
-- **Uniwersalność**: "Doskonała literatura" przekraczająca definicje gatunkowe
-- **Znaczenie kulturowe**: Wprowadzenie terminu "cyberprzestrzeń" do języka polskiego
-- **Kontekst społeczny**: Pomaga zrozumieć wpływ technologii na społeczeństwo
+### Educational Value
+- **Universality**: "Excellent literature" transcending genre definitions
+- **Cultural significance**: Introduction of the term "cyberspace" to Polish language
+- **Social context**: Helps understand technology's impact on society
 
-## Polskie adaptacje i nawiązania kulturowe
+## Polish Adaptations and Cultural References
 
-### Teatr i performance
-- **Brak bezpośrednich adaptacji**: Nie odnotowano polskich adaptacji teatralnych Neuromancera
-- **Wpływ pośredni**: Estetyka cyberpunkowa obecna w polskich spektaklach eksperymentalnych
+### Theater and Performance
+- **No direct adaptations**: No Polish theatrical adaptations of Neuromancer recorded
+- **Indirect influence**: Cyberpunk aesthetics present in Polish experimental theater
 
-### Film i telewizja
-- **Międzynarodowe projekty**: Apple TV+ produkuje serial (Graham Roland jako showrunner, JD Dillard reżyser)
-- **Polskie kino**: Brak bezpośrednich adaptacji, ale wpływ widoczny w polskim kinie SF
-- **Historia adaptacji**: Długa i trudna droga do ekranizacji (planowane od 2007)
+### Film and Television
+- **International projects**: Apple TV+ produces series (Graham Roland as showrunner, JD Dillard director)
+- **Polish cinema**: No direct adaptations, but influence visible in Polish sci-fi cinema
+- **Adaptation history**: Long and difficult path to screen adaptation (planned since 2007)
 
-### Gaming i kultura cyfrowa
-- **Cyberpunk 2077**: Gra CD Projekt RED jako pośredni spadkobierca tradycji Gibsona
-- **Pierwsze gry**: Adaptacja z 1988 roku na Amiga jako pierwsza próba przeniesienia do innego medium
-- **Wpływ na graczy**: Wielu polskich graczy Cyberpunk 2077 sięga po Neuromancera dla lepszego zrozumienia gatunku
+### Gaming and Digital Culture
+- **Cyberpunk 2077**: CD Projekt RED game as indirect heir to Gibson's tradition
+- **Early games**: 1988 Amiga adaptation as first attempt to transfer to another medium
+- **Impact on gamers**: Many Polish Cyberpunk 2077 players turn to Neuromancer for better genre understanding
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Polscy autorzy cyberpunkowi
-- **Michał Gołkowski**: Seria "SybirPunk" - cyberpunk z rosyjskim elementami kulturowymi
-- **Krzysztof Haladyn**: Seria "Cyfrak" - polski cyberpunk z lokalnymi realiami
-- **Fabryka Słów**: Wydawnictwo promujące polski cyberpunk inspirowany Gibsonem
+### Polish Cyberpunk Authors
+- **Michał Gołkowski**: "SybirPunk" series - cyberpunk with Russian cultural elements
+- **Krzysztof Haladyn**: "Cyfrak" series - Polish cyberpunk with local realities
+- **Fabryka Słów**: Publishing house promoting Polish cyberpunk inspired by Gibson
 
-### "Sybirpunk" - lokalna odmiana
-- **Lokalizacja**: NeoSybirsk - upadająca metropolia przyszłości
-- **Estetyka**: Połączenie futurystycznej technologii z post-sowiecką estetyką
-- **Tematy**: Pył węglowy, syntetyczne jedzenie, zatruty powietrze, cyborgizacja ludzi
+### "Sybirpunk" - Local Variation
+- **Setting**: NeoSybirsk - declining future metropolis
+- **Aesthetics**: Combination of futuristic technology with post-Soviet aesthetics
+- **Themes**: Coal dust, synthetic food, poisoned air, human cyborgization
 
-### "Cyfrak" - polski cyberpunk
-- **Setting**: RedTek Polis - miasto-korporacja na pustyni
-- **Problematyka**: Cyfrowe narkotyki, laboratoria biohackerskie, plaga Blue
-- **Nominacje**: Książka Roku 2018 w kategorii Science Fiction
+### "Cyfrak" - Polish Cyberpunk
+- **Setting**: RedTek Polis - corporate city on desert
+- **Issues**: Digital drugs, biohacker laboratories, Blue plague
+- **Recognition**: Book of the Year 2018 in Science Fiction category
 
-## Polski fan community i jego specyfika
+## Polish Fan Community and Its Specifics
 
-### Lubimyczytac.pl - główne forum dyskusji
-- **Ocena**: 6.8/10 z 1,956 ocen (silnie spolaryzowane opinie)
-- **Recenzje**: Od "biblia cyberpunka" do krytyki za "chaos narracyjny"
-- **Komentarze**: "Gibson nie lubi czytelnika" - częsty zarzut dotyczący trudności lektury
+### Lubimyczytac.pl - Main Discussion Forum
+- **Rating**: 6.8/10 from 1,956 ratings (strongly polarized opinions)
+- **Reviews**: From "cyberpunk bible" to criticism for "narrative chaos"
+- **Comments**: "Gibson doesn't like the reader" - frequent complaint about reading difficulty
 
-### Charakterystyka polskich czytelników
-- **Podziały**: Entuzjaści vs. krytycy stylu pisarskiego
-- **Oczekiwania**: Polscy czytelnicy często oczekują jasnej struktury narracyjnej
-- **Porównania**: Częste zestawianie z "Matrixem" i "Ghost in the Shell"
+### Polish Readers' Characteristics
+- **Divisions**: Enthusiasts vs. critics of writing style
+- **Expectations**: Polish readers often expect clear narrative structure
+- **Comparisons**: Frequent comparisons with "The Matrix" and "Ghost in the Shell"
 
-### Społeczności online
-- **Cyberpunk.net.pl**: Dedykowana strona dla fanów gatunku
-- **Poltergeist**: Recenzje i dyskusje o literaturze fantastycznej
-- **Fora gamingowe**: Dyskusje łączące książkę z grą Cyberpunk 2077
+### Online Communities
+- **Cyberpunk.net.pl**: Dedicated site for genre fans
+- **Poltergeist**: Reviews and discussions about fantasy literature
+- **Gaming forums**: Discussions linking the book with Cyberpunk 2077 game
 
-## Problemy z tłumaczeniem i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
-- **Neologizmy**: Trudność w odtworzeniu gibsonowskich wynalazków językowych
-- **Żargon techniczny**: Problem z terminologią komputerową lat 80.
-- **Slang**: Amerykański slang kontra polskie odpowiedniki
+### Language Challenges
+- **Neologisms**: Difficulty in recreating Gibson's linguistic inventions
+- **Technical jargon**: Problem with 1980s computer terminology
+- **Slang**: American slang versus Polish equivalents
 
-### Różnice kulturowe w interpretacji
-- **Technofobia vs. technofilia**: Polscy czytelnicy lat 90. mniej zaznajomieni z kulturą hakerską
-- **Kontekst historyczny**: Transformacja ustrojowa Polski a wizje przyszłości Gibsona
-- **Percepcja korporacji**: Inne doświadczenia z kapitalizmem niż w USA lat 80.
+### Cultural Differences in Interpretation
+- **Technophobia vs. technophilia**: Polish readers of the 1990s less familiar with hacker culture
+- **Historical context**: Poland's systemic transformation vs. Gibson's future visions
+- **Corporate perception**: Different experiences with capitalism than 1980s USA
 
-### Problemy z datowaniem
-- **Anachronizmy**: W latach 90. część technologii już przestarzała
-- **Nostalgiczność**: Obecnie czytane jako retro-futuryzm lat 80.
-- **Relevantność**: Paradoksalnie bardziej aktualne dziś niż w latach 90.
+### Dating Problems
+- **Anachronisms**: In the 1990s, some technology was already outdated
+- **Nostalgia**: Currently read as 1980s retro-futurism
+- **Relevance**: Paradoxically more relevant today than in the 1990s
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
-### Uniwersytet Jagielloński
-- **Badanie**: "Cyberpunk w przekładzie" - analiza strategii tłumaczeniowych
-- **Wnioski**: Potrzeba większej konsekwencji w przekładzie neologizmów
+### Jagiellonian University
+- **Study**: "Cyberpunk in Translation" - analysis of translation strategies
+- **Conclusions**: Need for greater consistency in neologism translation
 
-### Uniwersytet im. Adama Mickiewicza w Poznaniu
-- **Publikacja**: "Filmowość literackiego cyberpunka na przykładzie powieści Neuromancer Williama Gibsona"
-- **Forum Poetyki**: Analiza kinematograficznych aspektów prozy Gibsona
+### Adam Mickiewicz University in Poznań
+- **Publication**: "Cinematographic qualities of literary cyberpunk using William Gibson's Neuromancer as example"
+- **Forum Poetyki**: Analysis of cinematographic aspects of Gibson's prose
 
-### Polskie czasopisma naukowe
-- **Kultura i Historia**: "Dystopijna wizja świata bliskiego zasięgu. Cyberpunk jako złożone zjawisko kulturowe"
-- **Analiza**: Cyberpunk jako odpowiedź na przemiany technologiczne i społeczne
+### Polish Academic Journals
+- **Culture and History**: "Dystopian vision of the near world. Cyberpunk as a complex cultural phenomenon"
+- **Analysis**: Cyberpunk as response to technological and social changes
 
-## Wpływ na polską kulturę popularną
+## Impact on Polish Popular Culture
 
-### Lata 80-90: Późne odkrycie
-- **Opóźnienie**: Cyberpunk nie pociągał polskich autorów w latach 80.
-- **Transformacja**: Dopiero po 1989 większe zainteresowanie futuryzmem
-- **Tłumaczenia**: Boom na tłumaczenia SF w latach 90.
+### 1980s-90s: Late Discovery
+- **Delay**: Cyberpunk didn't attract Polish authors in the 1980s
+- **Transformation**: Only after 1989 greater interest in futurism
+- **Translations**: Boom in SF translations in the 1990s
 
-### Era internetu
-- **Nowe znaczenie**: Neuromancer zyskał nową aktualność z rozwojem internetu w Polsce
-- **Cyberprzestrzeń**: Pojęcie stało się zrozumiałe dla polskich czytelników
-- **Hacker culture**: Rozwój polskiej sceny hakerskiej i demosceny
+### Internet Era
+- **New meaning**: Neuromancer gained new relevance with internet development in Poland
+- **Cyberspace**: Concept became understandable to Polish readers
+- **Hacker culture**: Development of Polish hacker scene and demoscene
 
-### Współczesność
-- **Gaming**: Cyberpunk 2077 jako ambasador gatunku
-- **Literatura**: Rozwój polskiego cyberpunka (Gołkowski, Haladyn)
-- **Popkultura**: Estetyka cyberpunkowa w polskiej sztuce i modzie
+### Contemporary Times
+- **Gaming**: Cyberpunk 2077 as genre ambassador
+- **Literature**: Development of Polish cyberpunk (Gołkowski, Haladyn)
+- **Pop culture**: Cyberpunk aesthetics in Polish art and fashion
 
-## Ciekawostki i mniej znane fakty
+## Trivia and Lesser-Known Facts
 
-### Stanisław Lem jako prekursor
-- **"Golem XIV" (1978)**: Polska powieść o sztucznej inteligencji przed Neuromancerem
-- **Hipoteza**: "Gdyby Lem mieszkał w USA, byłby klasykiem cyberpunka"
-- **Różnice**: Lem bardziej filozoficzny, Gibson bardziej visceral
+### Stanisław Lem as Precursor
+- **"Golem XIV" (1978)**: Polish novel about artificial intelligence before Neuromancer
+- **Hypothesis**: "If Lem had lived in the USA, he would be a cyberpunk classic"
+- **Differences**: Lem more philosophical, Gibson more visceral
 
-### Polskie wydania kolekcjonerskie
-- **Wydanie MAG**: Twarde okładki z grafikami Dark Cryon
-- **Rarytasy**: Pierwsze wydania Zysk i S-ka obecnie poszukiwane przez kolekcjonerów
-- **Audiobook**: Profesjonalna adaptacja dźwiękowa dostępna na Storytel
+### Polish Collector Editions
+- **MAG edition**: Hardcovers with Dark Cryon graphics
+- **Rarities**: First Zysk i S-ka editions now sought by collectors
+- **Audiobook**: Professional audio adaptation available on Storytel
 
-### Wpływ na polskich twórców
-- **Marcin Przybyłek**: Twórca gier inspirowanych Gibsonem
-- **Jacek Dukaj**: Elementy cyberpunkowe w "Perfekcyjnej niedoskonałości"
-- **Andrzej Sapkowski**: Odniesienia do cyberprzestrzeni w późnych utworach
+### Influence on Polish Creators
+- **Marcin Przybyłek**: Game creator inspired by Gibson
+- **Jacek Dukaj**: Cyberpunk elements in "Perfect Imperfection"
+- **Andrzej Sapkowski**: References to cyberspace in later works
 
-## Regionalne różnice w odbiorze
+## Regional Differences in Reception
 
-### Kraków i Małopolska
-- **Uniwersytet Jagielloński**: Centrum badań nad science fiction
-- **Festiwal Fantastyki**: "Neuromancer" regularnie dyskutowany na panelach
-- **Księgarnie**: Dobra dostępność w krakowskich księgarniach akademickich
+### Kraków and Lesser Poland
+- **Jagiellonian University**: Center for science fiction research
+- **Fantasy Festival**: "Neuromancer" regularly discussed on panels
+- **Bookstores**: Good availability in Krakow academic bookstores
 
-### Warszawa
-- **CD Projekt**: Siedziba twórców Cyberpunk 2077
-- **Społeczność IT**: Szczególne zainteresowanie technologicznymi aspektami książki
-- **Tłumacze**: Środowisko tłumaczy SF koncentruje się w stolicy
+### Warsaw
+- **CD Projekt**: Headquarters of Cyberpunk 2077 creators
+- **IT community**: Special interest in technological aspects of the book
+- **Translators**: SF translator community concentrated in the capital
 
-### Trójmiasto
-- **Uniwersytet Gdański**: Badania nad kulturą cyfrową
-- **Społeczność gamedevowa**: Twórcy gier inspirowani Gibsonem
+### Tri-city Area
+- **University of Gdańsk**: Research on digital culture
+- **Gamedev community**: Game creators inspired by Gibson
 
-## Podsumowanie
+## Summary
 
-Neuromancer w Polsce to historia powolnego, ale głębokiego zakorzeniania się w kulturze. Od trudnych początków w latach 90., przez odkrycie w erze internetu, po współczesny renesans dzięki Cyberpunk 2077. Polscy czytelnicy mają z książką skomplikowaną relację - doceniają jej historyczne znaczenie i wpływ kulturowy, ale jednocześnie krytykują trudności narracyjne i problemy z tłumaczeniem. Książka pozostaje fundamentem dla rosnącej sceny polskiego cyberpunka literackiego i inspiracją dla twórców gier oraz innych mediów.
+Neuromancer in Poland is a story of slow but deep cultural embedding. From difficult beginnings in the 1990s, through discovery in the internet era, to contemporary renaissance thanks to Cyberpunk 2077. Polish readers have a complicated relationship with the book - they appreciate its historical significance and cultural impact, but simultaneously criticize narrative difficulties and translation problems. The book remains a foundation for the growing Polish literary cyberpunk scene and inspiration for game creators and other media.
 
-Dla polskich słuchaczy szczególnie istotne jest zrozumienie, że Neuromancer nie tylko zdefiniował cyberpunk jako gatunek, ale także przewidział wiele aspektów współczesnego świata cyfrowego, które dziś są codziennością w Polsce - od internetu, przez media społecznościowe, po wirtualną rzeczywistość i sztuczną inteligencję.
+For Polish listeners, it's particularly important to understand that Neuromancer not only defined cyberpunk as a genre but also predicted many aspects of the contemporary digital world that are now everyday reality in Poland - from the internet, through social media, to virtual reality and artificial intelligence.

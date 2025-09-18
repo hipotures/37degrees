@@ -1,73 +1,73 @@
-# Badania: "Wędrówka na Zachód" w kulturze młodzieżowej i cyfrowej (2024-2025)
+# Research: "Journey to the West" in Youth and Digital Culture (2024-2025)
 
-## Wprowadzenie
+## Introduction
 
-"Wędrówka na Zachód" (Journey to the West) Wu Cheng'ena z XVI wieku doświadczyła niezwykłego renesansu w kulturze młodzieżowej 2024-2025, głównie dzięki fenomenowi gry Black Myth: Wukong i rosnącemu zainteresowaniu chińską mitologią wśród Gen Z.
+"Journey to the West" (Xiyouji) by Wu Cheng'en from the 16th century has experienced an extraordinary renaissance in youth culture during 2024-2025, primarily due to the phenomenon of the game Black Myth: Wukong and growing interest in Chinese mythology among Gen Z.
 
-## 1. Gaming Culture i Viral Content
+## 1. Gaming Culture and Viral Content
 
-### Black Myth: Wukong - Fenomen 2024
-- **Sukces komercyjny**: Sprzedaż 20 milionów kopii w pierwszym miesiącu (sierpień 2024)
-- **Platformy**: PlayStation 5, Windows (2024), Xbox Series X/S (2025)
-- **Hashtagi**: #BlackMythWukong, #MonkeyKing, #SunWukong
-- **Trend period**: Sierpień 2024 - obecnie aktywny
+### Black Myth: Wukong - The 2024 Phenomenon
+- **Commercial success**: 20 million copies sold in the first month (August 2024)
+- **Platforms**: PlayStation 5, Windows (2024), Xbox Series X/S (2025)
+- **Hashtags**: #BlackMythWukong, #MonkeyKing, #SunWukong
+- **Trend period**: August 2024 - currently active
 
 ### Viral Gaming Memes
-- **"Wukong walked so Goku can run"** - porównania z Dragon Ball Z
-- **"Monkey in the office"** - memy o pracy korporacyjnej vs. potęga Króla Małp
-- **Kratos vs. Sun Wukong** - debaty o najsilniejszych bohaterach gier
-- **"Return to Monke"** - nawiązania do starszych internetowych memów
+- **"Wukong walked so Goku could run"** - comparisons with Dragon Ball Z
+- **"Monkey in the office"** - memes about corporate work vs. Monkey King's power
+- **Kratos vs. Sun Wukong** - debates about strongest gaming heroes
+- **"Return to Monke"** - references to older internet memes
 
-### League of Legends i MOBA Games
-- Postać Wukong w League of Legends jako stały element gaming culture
-- Inspiracje postaciami z Journey to the West w różnych grach online
-- Esports content związany z postaciami inspirowanymi Królem Małp
+### League of Legends and MOBA Games
+- Wukong character in League of Legends as permanent element of gaming culture
+- Character inspirations from Journey to the West in various online games
+- Esports content related to Monkey King-inspired characters
 
-## 2. TikTok i Social Media Trends
+## 2. TikTok and Social Media Trends
 
 ### TikTok Content (2024-2025)
 - **@senpapi.gabe**: Exploring the Legend of Sun Wukong video (7.4M views)
-- **@vicenews**: Cosplay content z chińskim folklore (#monkeyking #sunwukong #cosplay #hebei)
-- **Trend hashtagi**: #MonkeyKing, #SunWukong, #ChineseFolktale, #JourneyToTheWest
-- **Cosplay trends**: Tradycyjne chińskie kostiumy Króla Małp
+- **@vicenews**: Cosplay content with Chinese folklore (#monkeyking #sunwukong #cosplay #hebei)
+- **Trending hashtags**: #MonkeyKing, #SunWukong, #ChineseFolktale, #JourneyToTheWest
+- **Cosplay trends**: Traditional Chinese Monkey King costumes
 
 ### Instagram Aesthetic
 - **Pinterest boards**: 90+ Sun Wukong aesthetic boards (2025)
-- **Art trends**: Od tradycyjnych depictions po nowoczesne game art
+- **Art trends**: From traditional depictions to modern game art
 - **@nogi.san**: Artistic sketches of Wukong gaining popularity
-- **Visual culture**: Blend tradycyjnej chińskiej mitologii z contemporary gaming aesthetics
+- **Visual culture**: Blend of traditional Chinese mythology with contemporary gaming aesthetics
 
 ## 3. Dragon Ball Connection - Goku vs. Wukong
 
 ### Shared Origins
-- **Nazwa**: Son Goku = japońskie tłumaczenie Sun Wukong
-- **Źródło**: Akira Toriyama's Dragon Ball bezpośrednio inspirowane Journey to the West
-- **Podobne moce**: Flying nimbus vs. Jindouyun, magical staffs, transformation abilities
-- **Gaming crossover**: Fans porównują Black Myth: Wukong do Dragon Ball Z gameplay
+- **Name**: Son Goku = Japanese translation of Sun Wukong
+- **Source**: Akira Toriyama's Dragon Ball directly inspired by Journey to the West
+- **Similar powers**: Flying nimbus vs. Jindouyun, magical staffs, transformation abilities
+- **Gaming crossover**: Fans comparing Black Myth: Wukong to Dragon Ball Z gameplay
 
 ### Gen Z Discovery
-- Młodzi gracze odkrywają chińskie korzenie swojego ulubionego anime
-- TikTok education content o połączeniach Goku-Wukong
+- Young gamers discovering Chinese roots of their favorite anime
+- TikTok educational content about Goku-Wukong connections
 - **Timeline awareness**: 16th century novel → 1984 Dragon Ball → 2024 Black Myth
 
-## 4. Mental Health i Personal Development
+## 4. Mental Health and Personal Development
 
 ### Therapeutic Interpretations
-- **Character archetypes**: Sun Wukong jako symbol unbridled mind requiring discipline
-- **Journey metaphor**: Spiritual quest resonuje z Gen Z mental health journey
-- **Redemption arc**: Od rebellious troublemaker do disciplined protector
-- **Community support**: Importance of traveling companions w healing process
+- **Character archetypes**: Sun Wukong as symbol of unbridled mind requiring discipline
+- **Journey metaphor**: Spiritual quest resonates with Gen Z mental health journey
+- **Redemption arc**: From rebellious troublemaker to disciplined protector
+- **Community support**: Importance of traveling companions in healing process
 
 ### Self-Improvement Applications
-- **Mindfulness connections**: Buddhist themes w novel align z modern mindfulness practices
-- **Overcoming obstacles**: Each demon/challenge jako metaphor for personal struggles
+- **Mindfulness connections**: Buddhist themes in novel align with modern mindfulness practices
+- **Overcoming obstacles**: Each demon/challenge as metaphor for personal struggles
 - **Resilience building**: 500 years under mountain → ultimate comeback story
-- **Growth mindset**: Transformation through discipline i perseverance
+- **Growth mindset**: Transformation through discipline and perseverance
 
-## 5. Cultural Identity i Digital Empowerment
+## 5. Cultural Identity and Digital Empowerment
 
 ### Chinese Youth Pride
-- **Cultural renaissance**: Black Myth success jako symbol Chinese gaming prowess
+- **Cultural renaissance**: Black Myth success as symbol of Chinese gaming prowess
 - **Traditional music viral**: Journey to the West themed music trending globally
 - **Educational content**: Young creators producing in-depth analyses of mythology
 - **Modern dialogue**: Between tradition and contemporary digital culture
@@ -80,7 +80,7 @@
 
 ## 6. Tech Culture Parallels
 
-### AI i Digital Transformation
+### AI and Digital Transformation
 - **Transformation themes**: 72 transformations parallel digital identity fluidity
 - **Quest for knowledge**: Seeking sutras = modern information gathering
 - **Virtual vs. real worlds**: Navigating different realms like Gen Z navigates digital/physical
@@ -92,22 +92,22 @@
 - **Viral content**: Magic powers equivalent to going viral
 - **Algorithm challenges**: Modern demons blocking content reach
 
-## 7. BookTok i Reading Culture
+## 7. BookTok and Reading Culture
 
 ### Classic Literature Accessibility
-- Brak specific BookTok trends dla Journey to the West (2024 data)
+- No specific BookTok trends for Journey to the West (2024 data)
 - **Alternative discovery**: Gaming leading to literary exploration
-- **Translation discussions**: Which version to read debates w gaming forums
+- **Translation discussions**: Which version to read debates in gaming forums
 - **Steam discussions**: "Actually started to read Journey to the West" posts
 - **Cross-media engagement**: Game → book → anime pipeline
 
 ### Educational Pivot
 - **Academic resources**: Journey to the West as platform for learning Chinese culture
-- **University curricula**: Novel w Asian Studies programs gaining modern relevance
+- **University curricula**: Novel in Asian Studies programs gaining modern relevance
 - **Modern adaptations**: Students analyzing game vs. original text differences
 - **Research papers**: Cultural empowerment theory applied to modern adaptations
 
-## 8. Streaming i Content Creation
+## 8. Streaming and Content Creation
 
 ### YouTube/Twitch Gaming Content
 - **Gameplay walkthroughs**: Black Myth: Wukong content exploding
@@ -121,7 +121,7 @@
 - **Cultural commentary**: How ancient stories speak to modern audiences
 - **Language content**: Chinese learning through mythological stories
 
-## 9. Fashion i Aesthetic Trends
+## 9. Fashion and Aesthetic Trends
 
 ### Cosplay Culture
 - **Traditional accuracy**: Resources for authentic Sun Wukong designs
@@ -130,12 +130,12 @@
 - **Convention presence**: Increased Monkey King cosplay at gaming events
 
 ### Visual Design Influence
-- **Color palettes**: Traditional Chinese colors trending w design
-- **Symbol incorporation**: Ancient symbols w modern graphic design
-- **Typography trends**: Chinese calligraphy elements w Western designs
+- **Color palettes**: Traditional Chinese colors trending in design
+- **Symbol incorporation**: Ancient symbols in modern graphic design
+- **Typography trends**: Chinese calligraphy elements in Western designs
 - **Product design**: Journey to the West inspired merchandise boom
 
-## 10. Modern Parallels i Life Lessons
+## 10. Modern Parallels and Life Lessons
 
 ### Gen Z Resonance
 - **Rebellion against authority**: Sun Wukong's attitude toward Heaven
@@ -149,20 +149,20 @@
 - **Identity fluidity**: Shape-shifting abilities reflect modern gender/identity concepts
 - **Instant gratification**: Learning patience and perseverance from long journey
 
-## Wnioski
+## Conclusions
 
-"Wędrówka na Zachód" w 2024-2025 doświadczyła remarkable revival dzięki Black Myth: Wukong, która introduced 16th-century classic do global gaming audience. Gen Z i millennialsi odkrywają universal themes przez modern gaming lens, tworząc bridge między ancient wisdom a contemporary challenges.
+"Journey to the West" in 2024-2025 experienced a remarkable revival thanks to Black Myth: Wukong, which introduced the 16th-century classic to a global gaming audience. Gen Z and millennials are discovering universal themes through a modern gaming lens, creating a bridge between ancient wisdom and contemporary challenges.
 
-Kluczowe elementy successful cultural transmission:
-- Gaming jako gateway do literature
-- Visual culture dominance w social media
-- Mental health i personal development applications
+Key elements of successful cultural transmission:
+- Gaming as gateway to literature
+- Visual culture dominance in social media
+- Mental health and personal development applications
 - Cross-cultural dialogue through shared mythological elements
 - Technology enabling deeper cultural understanding
 
-**Trend longevity**: Oczekiwane continued interest through 2025, szczególnie z upcoming Chinese New Year content i potential sequels.
+**Trend longevity**: Expected continued interest through 2025, especially with upcoming Chinese New Year content and potential sequels.
 
 ---
 
-*Badania przeprowadzone: Wrzesień 2025*
-*Źródła: Gaming platforms, social media trends, academic research*
+*Research conducted: September 2024*
+*Sources: Gaming platforms, social media trends, academic research*

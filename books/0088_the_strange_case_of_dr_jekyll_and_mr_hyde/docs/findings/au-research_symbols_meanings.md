@@ -1,381 +1,381 @@
-# Analiza Symboliki i Ukrytych Znaczeń: "Dziwna historia doktora Jekylla i pana Hyde'a"
+# Symbolism and Hidden Meanings Analysis: "The Strange Case of Dr. Jekyll and Mr. Hyde"
 
 *Robert Louis Stevenson (1886)*
 
-Opracowanie wielowarstwowych interpretacji i znaczeń kulturowych jednego z najważniejszych dzieł literatury gotyckiej, które przekracza granice prostej opowieści o podwójnej osobowości, by stać się uniwersalnym studium ludzkiej natury.
+Analysis of multi-layered interpretations and cultural meanings of one of the most important works of Gothic literature, which transcends the boundaries of a simple story about dual personality to become a universal study of human nature.
 
 ---
 
-## Główne Symbole i Ich Wielorakie Interpretacje
+## Main Symbols and Their Multiple Interpretations
 
-### 1. Dualizm Osobowości jako Archetyp Uniwersalny
+### 1. Personality Dualism as Universal Archetype
 
-**Symbol Klasyczny**: Jekyll i Hyde reprezentują odwieczny konflikt między dobrem a złem w naturze ludzkiej. Stevenson napisał: "człowiek nie jest prawdziwie jeden, ale prawdziwie dwa", co stanowi filozoficzną diagnozę kondycji ludzkiej.
+**Classical Symbol**: Jekyll and Hyde represent the eternal conflict between good and evil in human nature. Stevenson wrote: "man is not truly one, but truly two," which constitutes a philosophical diagnosis of the human condition.
 
-**Interpretacja Jungowska**: Hyde funkcjonuje jako Cień (Shadow) Jekylla - wypartą, ciemną stronę psychiki. Jung twierdził, że wszyscy nosimy w sobie potencjał zła, który musi być zintegrowany, nie wyparty. Jekyll próbuje oddzielić swój Cień, co prowadzi do katastrofy.
+**Jungian Interpretation**: Hyde functions as Jekyll's Shadow - the repressed, dark side of the psyche. Jung claimed that we all carry within us the potential for evil, which must be integrated, not repressed. Jekyll tries to separate his Shadow, leading to catastrophe.
 
-**Interpretacja Freudowska**: Jekyll reprezentuje Superego (sumienie społeczne), Hyde - Id (pierwotne popędy), podczas gdy brakuje zintegrowanego Ego. To niezbalansowanie prowadzi do psychozy i ostatecznej autodestrukcji.
+**Freudian Interpretation**: Jekyll represents the Superego (social conscience), Hyde - the Id (primitive drives), while lacking an integrated Ego. This imbalance leads to psychosis and ultimate self-destruction.
 
-**Współczesna Psychologia**: Dzieło można czytać jako studium dysocjacyjnego zaburzenia osobowości, gdzie trauma społeczna (represyjna kultura wiktoriańska) prowadzi do fragmentacji tożsamości.
+**Contemporary Psychology**: The work can be read as a study of dissociative identity disorder, where social trauma (repressive Victorian culture) leads to identity fragmentation.
 
-### 2. Dom Jekylla - Architektura Psychiki
+### 2. Jekyll's House - Architecture of the Psyche
 
-**Symbol Strukturalny**: Dom doskonale odzwierciedla dualizm osobowości - elegancka fasada z "atmosferą bogactwa i komfortu" dla Jekylla, podczas gdy tylne drzwi prowadzące do laboratorium mają "odór zaniedbania" dla Hyde'a.
+**Structural Symbol**: The house perfectly reflects personality dualism - elegant facade with "atmosphere of wealth and comfort" for Jekyll, while the back door leading to the laboratory has "scent of neglect" for Hyde.
 
-**Interpretacja Jungowska**: W psychologii analitycznej dom reprezentuje psychikę - front to persona (maska społeczna), tył to Cień. Laboratorium staje się przestrzenią transformacji, gdzie dochodzi do alchemicznej przemiany.
+**Jungian Interpretation**: In analytical psychology, the house represents the psyche - the front is the persona (social mask), the back is the Shadow. The laboratory becomes a space of transformation, where alchemical transmutation occurs.
 
-**Interpretacja Feministyczna**: Podział domu odzwierciedla wiktoriański podział na sferę publiczną (męską) i prywatną (kobiecą). Jekyll kontroluje fasadę, Hyde wdziera się przez "kobiecą" stronę - tylne wejście.
+**Feminist Interpretation**: The division of the house reflects the Victorian division into public (male) and private (female) spheres. Jekyll controls the facade, Hyde intrudes through the "feminine" side - the back entrance.
 
-**Kulturowe Odczytanie Szkockie**: Dom może reprezentować podwójną naturę Szkocji - angielską fasadę i celtycką, barbarzyńską głębię, którą próbowano stłumić.
+**Scottish Cultural Reading**: The house may represent Scotland's dual nature - English facade and Celtic, barbaric depth that was being suppressed.
 
-### 3. Mgła Londyńska - Symbol Moralnej Dezorientacji
+### 3. London Fog - Symbol of Moral Disorientation
 
-**Symbol Gotycki**: "Czekoladowa mgła" okrywa miasto, tworząc atmosferę grozy i niepewności. Mgła fizycznie izoluje postaci i symbolicznie reprezentuje moralne zaciemnienie.
+**Gothic Symbol**: "Chocolate-colored fog" covers the city, creating an atmosphere of dread and uncertainty. Fog physically isolates characters and symbolically represents moral darkness.
 
-**Interpretacja Społeczna**: Mgła symbolizuje hipokryzję wiktoriańskiego społeczeństwa, gdzie prawda jest ukryta, a fasady społeczne zasłaniają rzeczywistość.
+**Social Interpretation**: Fog symbolizes the hypocrisy of Victorian society, where truth is hidden and social facades obscure reality.
 
-**Znaczenie Psychologiczne**: Mgła reprezentuje podświadomość - obszar psychiki, gdzie ukryte są wyparte pragnienia. Im gęstsza mgła, tym silniej Hyde dominuje nad Jekyll.
+**Psychological Meaning**: Fog represents the unconscious - the area of the psyche where repressed desires are hidden. The thicker the fog, the stronger Hyde dominates over Jekyll.
 
-**Ekologiczna Metafora**: Dla współczesnych czytelników mgła może symbolizować konsekwencje industrializacji - fizyczne i moralne zanieczyszczenie środowiska.
+**Ecological Metaphor**: For contemporary readers, fog can symbolize the consequences of industrialization - physical and moral environmental pollution.
 
-### 4. Światło i Ciemność - Podwójność Percepcji
+### 4. Light and Darkness - Duality of Perception
 
-**Tradycyjny Dualizm**: Jekyll związany ze światłem dziennym i porządkiem społecznym, Hyde z nocą i chaosem. Wszystkie zbrodnie Hyde'a dzieją się w ciemności.
+**Traditional Dualism**: Jekyll associated with daylight and social order, Hyde with night and chaos. All of Hyde's crimes occur in darkness.
 
-**Subwersja Symboliki**: Stevenson komplikuje ten podział - Jekyll również potrzebuje ciemności do swoich eksperymentów. Światło gazowych lamp tworzy "chiaroscuro", gdzie opozycje zlewają się w jedno.
+**Subversion of Symbolism**: Stevenson complicates this division - Jekyll also needs darkness for his experiments. Gas lamp light creates "chiaroscuro," where oppositions merge into one.
 
-**Interpretacja Filozoficzna**: Światło nie zawsze reprezentuje dobro - może być światłem arogancji intelektualnej Jekylla. Ciemność może być konieczna do samopoznania.
+**Philosophical Interpretation**: Light doesn't always represent good - it can be the light of Jekyll's intellectual arrogance. Darkness may be necessary for self-knowledge.
 
-**Współczesne Znaczenie**: W erze mediów społecznościowych podział na publiczne "światło" i prywatną "ciemność" nabiera nowego znaczenia - każdy ma swoją "osobowość online" i "prawdziwą tożsamość".
+**Contemporary Meaning**: In the era of social media, the division into public "light" and private "darkness" takes on new meaning - everyone has their "online personality" and "real identity."
 
-### 5. Laboratorium - Symbol Niebezpiecznej Wiedzy
+### 5. Laboratory - Symbol of Dangerous Knowledge
 
-**Alchemiczny Kontekst**: Laboratorium to nowoczesna wersja pracowni alchemika, gdzie Jekyll próbuje dokonać transmutacji - nie metali, ale własnej natury.
+**Alchemical Context**: The laboratory is a modern version of an alchemist's workshop, where Jekyll tries to achieve transmutation - not of metals, but of his own nature.
 
-**Krytyka Nauki**: Stevenson ostrzega przed nauką pozbawioną etyki. Jekyll używa wiedzy do zaspokojenia osobistych pragnień, nie dla dobra ludzkości.
+**Critique of Science**: Stevenson warns against science devoid of ethics. Jekyll uses knowledge to satisfy personal desires, not for the good of humanity.
 
-**Symbol Kontroli**: Laboratorium reprezentuje iluzję kontroli nad naturą ludzką. Jekyll wierzy, że może "zarządzać" złem, ale ostatecznie ono nim zawładnie.
+**Symbol of Control**: The laboratory represents the illusion of control over human nature. Jekyll believes he can "manage" evil, but ultimately it will possess him.
 
-**Interpretacja Genderowa**: Laboratorium jako "męska" przestrzeń kreacji kontrastuje z "żeńską" naturą rodzenia. Jekyll "rodzi" Hyde'a w przemocy, nie miłości.
+**Gender Interpretation**: The laboratory as a "male" space of creation contrasts with the "female" nature of birth. Jekyll "births" Hyde in violence, not love.
 
-### 6. Lustro - Zakłócona Samoświadomość
+### 6. Mirror - Disturbed Self-Awareness
 
-**Symbol Tożsamości**: Lustro pokazuje prawdę o naturze Hyde'a - jego zniekształconą, odpychającą postać. To wizualna reprezentacja walki między zewnętrzną fasadą a wewnętrzną rzeczywistością.
+**Symbol of Identity**: The mirror shows the truth about Hyde's nature - his distorted, repulsive form. It's a visual representation of the struggle between external facade and internal reality.
 
-**Interpretacja Lacanowska**: Lustro funkcjonuje jako "stadium lustra" - moment rozpoznania siebie jako Innego. Hyde w lustrze to traumatyczne spotkanie z własną obcością.
+**Lacanian Interpretation**: The mirror functions as the "mirror stage" - the moment of recognizing oneself as Other. Hyde in the mirror is a traumatic encounter with one's own otherness.
 
-**Kulturowy Kontekst**: W kulturze wiktoriańskiej lustro było symbolem próżności i samozadowolenia. Jekyll nie może dłużej cieszyć się swoim odbiciem.
+**Cultural Context**: In Victorian culture, the mirror was a symbol of vanity and self-satisfaction. Jekyll can no longer enjoy his reflection.
 
-**Współczesna Perspektywa**: W erze selfie i filtrów lustro może reprezentować problematyczną relację z własnym wizerunkiem i potrzebę ciągłej autokreacji.
+**Contemporary Perspective**: In the era of selfies and filters, the mirror can represent the problematic relationship with one's own image and the need for constant self-creation.
 
-### 7. Drzwi - Przejścia między Światami
+### 7. Doors - Passages Between Worlds
 
-**Symbol Granicy**: Drzwi reprezentują granicę między sferą publiczną i prywatną, między Jekyll a Hyde'em, między dobrem a złem.
+**Symbol of Boundary**: Doors represent the boundary between public and private spheres, between Jekyll and Hyde, between good and evil.
 
-**Interpretacja Inicjacyjna**: Każde przejście przez drzwi to rytuał przemiany. Jekyll musi fizycznie przejść przez drzwi, by stać się Hyde'em.
+**Initiatory Interpretation**: Each passage through doors is a ritual of transformation. Jekyll must physically pass through doors to become Hyde.
 
-**Znaczenie Społeczne**: Drzwi symbolizują bariery społeczne. Jekyll używa głównego wejścia, Hyde tylnego - podział klasowy i moralny.
+**Social Meaning**: Doors symbolize social barriers. Jekyll uses the main entrance, Hyde the back one - class and moral division.
 
-**Psychoanalityczne Znaczenie**: Drzwi do laboratorium to próg nieświadomości - miejsce, gdzie ego traci kontrolę nad id.
+**Psychoanalytical Meaning**: The door to the laboratory is the threshold of the unconscious - the place where ego loses control over id.
 
-### 8. Labirynt Miasta - Symbol Zagubienia Moralnego
+### 8. City Labyrinth - Symbol of Moral Confusion
 
-**Mitologiczny Kontekst**: "Szersze labirynty miasta oświetlonego lampami" nawiązują do mitu o Minotaurze. Hyde czai się w centrum labiryntu jak potwór.
+**Mythological Context**: "Wider labyrinths of the lamplighted city" allude to the myth of the Minotaur. Hyde lurks at the center of the labyrinth like a monster.
 
-**Urban Gothic**: Miasto wiktoriańskie jako przestrzeń alienacji i anonimowości, gdzie można ukrywać swoje zbrodnie.
+**Urban Gothic**: The Victorian city as a space of alienation and anonymity, where one can hide their crimes.
 
-**Interpretacja Psychologiczna**: Labirynt reprezentuje podświadomość z jej skomplikowanymi ścieżkami i ukrytymi tajemnicami.
+**Psychological Interpretation**: The labyrinth represents the unconscious with its complicated paths and hidden secrets.
 
-**Współczesne Znaczenie**: W dobie globalizacji labirynt może symbolizować złożoność moralną współczesnego świata, gdzie trudno odnaleźć jasne zasady etyczne.
+**Contemporary Meaning**: In the age of globalization, the labyrinth can symbolize the moral complexity of the contemporary world, where it's difficult to find clear ethical principles.
 
-## Motywy Uniwersalne i Archetypy
+## Universal Motifs and Archetypes
 
-### 9. Archetyp Doppelgängera
+### 9. Doppelganger Archetype
 
-**Tradycja Literacka**: Jekyll i Hyde wpisują się w długą tradycję "podwójników" w literaturze - od Platona przez Dostojewskiego po współczesną fantastykę.
+**Literary Tradition**: Jekyll and Hyde fit into a long tradition of "doubles" in literature - from Plato through Dostoevsky to contemporary fantasy.
 
-**Interpretacja Kulturowa**: W kulturze niemieckiej doppelgänger to złowieszczy zwiastun śmierci. Stevenson wykorzystuje ten motyw, by pokazać autodestrukcyjną naturę wyparcia.
+**Cultural Interpretation**: In German culture, doppelganger is an ominous harbinger of death. Stevenson uses this motif to show the self-destructive nature of repression.
 
-**Znaczenie Uniwersalne**: Każdy człowiek nosi w sobie potencjał swojego przeciwieństwa. Jekyll i Hyde to ekstremalna wersja wewnętrznego konfliktu każdej osoby.
+**Universal Meaning**: Every person carries within themselves the potential of their opposite. Jekyll and Hyde are an extreme version of every person's internal conflict.
 
-**Współczesna Aplikacja**: W erze cyfrowej mamy dosłownie "drugie ja" online - nasze profile w mediach społecznościowych mogą być radykalnie różne od rzeczywistej osobowości.
+**Contemporary Application**: In the digital age, we literally have "second selves" online - our social media profiles can be radically different from real personality.
 
-### 10. Mit o Przekroczeniu Granic
+### 10. Myth of Crossing Boundaries
 
-**Prometeuszowy Aspekt**: Jekyll jak Prometeusz wykrada "ogień bogów" - wiedzę o naturze ludzkiej, za co ponosi karę.
+**Promethean Aspect**: Jekyll, like Prometheus, steals the "fire of the gods" - knowledge about human nature, for which he pays the price.
 
-**Faustowski Pakt**: Jekyll jak Faust zawiera pakt z diabłem (swoją ciemną stroną) w zamian za wolność moralną.
+**Faustian Pact**: Jekyll, like Faust, makes a pact with the devil (his dark side) in exchange for moral freedom.
 
-**Interpretacja Religijna**: Historia może być czytana jako opowieść o upadku - Jekyll to Adam, który sięga po zakazany owoc samopoznania.
+**Religious Interpretation**: The story can be read as a tale of the fall - Jekyll is Adam, who reaches for the forbidden fruit of self-knowledge.
 
-**Znaczenie Postkolonialne**: Jekyll może reprezentować europejskiego colonizera, który "cywilizuje" swoje pierwotne popędy, ale one ostatecznie się buntują.
+**Postcolonial Meaning**: Jekyll may represent the European colonizer who "civilizes" his primitive impulses, but they ultimately rebel.
 
-## Interpretacje Kulturowe Różnych Tradycji
+## Cultural Interpretations of Different Traditions
 
-### 11. Perspektywa Wschodu vs Zachodu
+### 11. Eastern vs Western Perspective
 
-**Badania Międzykulturowe**: Japońscy studenci częściej niż kanadyjscy postrzegają Jekyll i Hyde'a jako psychologicznie rozdwojonych, co może odzwierciedlać różne koncepcje jedności osoby.
+**Cross-cultural Studies**: Japanese students more often than Canadian ones perceive Jekyll and Hyde as psychologically split, which may reflect different concepts of personal unity.
 
-**Buddyjska Interpretacja**: W buddyzmie podwójność może być widziana jako iluzja - prawdziwa natura to pustka, a Jekyll i Hyde to konstrukcje ego.
+**Buddhist Interpretation**: In Buddhism, duality can be seen as illusion - true nature is emptiness, and Jekyll and Hyde are ego constructs.
 
-**Konfucjańska Perspektywa**: Konfucjusz podkreślał harmonię wewnętrzną - Jekyll i Hyde reprezentują brak tej harmonii i konsekwencje wypartych emocji.
+**Confucian Perspective**: Confucius emphasized inner harmony - Jekyll and Hyde represent the lack of this harmony and the consequences of repressed emotions.
 
-### 12. Niemiecka Tradycja Doppelgängera
+### 12. German Doppelganger Tradition
 
-**Romantyzm Niemiecki**: Motyw podwójnika był popularny w literaturze niemieckiej już przed Stevensonem. "Der Januskopf" (1920) to niemiecka adaptacja nawiązująca do dwugłowego boga Janusa.
+**German Romanticism**: The double motif was popular in German literature before Stevenson. "Der Januskopf" (1920) is a German adaptation referring to the two-headed god Janus.
 
-**Interpretacja Historyczna**: "Germany: Jekyll & Hyde" Sebastian Hafnera używa tej metafory do opisu nazistowskich Niemiec - kulturalny naród, który stał się barbarzyński.
+**Historical Interpretation**: "Germany: Jekyll & Hyde" by Sebastian Haffner uses this metaphor to describe Nazi Germany - a cultural nation that became barbaric.
 
-**Psychoanalityczna Szkoła**: Niemiecka psychoanaliza (Freud, Jung) dostarczyła narzędzi do interpretacji dualizmu Jekyll/Hyde jako konfliktu między instancjami psychicznymi.
+**Psychoanalytical School**: German psychoanalysis (Freud, Jung) provided tools for interpreting Jekyll/Hyde dualism as conflict between psychic instances.
 
-### 13. Rosyjska Perspektywa Podwójności
+### 13. Russian Perspective on Duality
 
-**Dostojewski i "Sobowtór"**: Rosyjska literatura już wcześniej eksploruje temat rozdwojenia osobowości. Dostojewski w "Sobowtórze" (1846) przedstawia podobny konflikt.
+**Dostoevsky and "The Double"**: Russian literature earlier explored the theme of personality split. Dostoevsky in "The Double" (1846) presents a similar conflict.
 
-**Prawosławna Teologia**: W tradycji prawosławnej walka między dobrem a złem ma wymiar duchowy - Jekyll i Hyde jako walka między aniołem stróżem a demonem.
+**Orthodox Theology**: In Orthodox tradition, the struggle between good and evil has a spiritual dimension - Jekyll and Hyde as a battle between guardian angel and demon.
 
-**Komunistyczna Interpretacja**: W okresie sowieckim dzieło mogło być czytane jako krytyka burżuazyjnego indywidualizmu i potrzeba kolektywnej harmonii.
+**Communist Interpretation**: During the Soviet period, the work could be read as criticism of bourgeois individualism and the need for collective harmony.
 
-## Współczesne Reinterpretacje
+## Contemporary Reinterpretations
 
-### 14. Perspektywa Feministyczna
+### 14. Feminist Perspective
 
-**Krytyka Męskości Wiktoriańskiej**: Jekyll reprezentuje "anioła domu" wiktoriańskiego dżentelmena, Hyde - wypartą męską agresję i seksualność.
+**Critique of Victorian Masculinity**: Jekyll represents the "angel of the home" of the Victorian gentleman, Hyde - repressed male aggression and sexuality.
 
-**Symbolika Przemocy Wobec Kobiet**: Hyde depcze dziecko (dziewczynkę) - symbol męskiej dominacji nad kobiecymi wartościami współczucia i opieki.
+**Symbolism of Violence Against Women**: Hyde tramples a child (girl) - symbol of male dominance over female values of compassion and care.
 
-**Interpretacja Patriarchatu**: Jekyll to "dobry ojciec" patriarchatu, Hyde - ukryta przemoc systemu patriarchalnego wobec kobiet.
+**Patriarchy Interpretation**: Jekyll is the "good father" of patriarchy, Hyde - the hidden violence of the patriarchal system against women.
 
-**Współczesne Znaczenie**: W erze #MeToo dzieło może być czytane jako eksploracja ukrytej toksycznej męskości, która wybucha przemocą.
+**Contemporary Meaning**: In the #MeToo era, the work can be read as exploration of hidden toxic masculinity that erupts in violence.
 
-### 15. Odczytania LGBTQ+
+### 15. LGBTQ+ Readings
 
-**Zakodowana Homoseksualność**: W czasach kryminalizacji homoseksualizmu Hyde może reprezentować wypartą seksualność Jekyll'a.
+**Coded Homosexuality**: In times of criminalized homosexuality, Hyde may represent Jekyll's repressed sexuality.
 
-**Teoria Queer**: Jekyll i Hyde jako performatywne role genderowe - pokazanie, że tożsamość to konstrukt, nie natura.
+**Queer Theory**: Jekyll and Hyde as performative gender roles - showing that identity is construct, not nature.
 
-**Trans-narracje**: Historia transformacji może rezonować z doświadczeniem transpłciowym - pragnieniem przemiany swojej tożsamości.
+**Trans Narratives**: The transformation story may resonate with transgender experience - the desire to transform one's identity.
 
-**Współczesna Analogia**: Historia przypomina doświadczenie osób LGBTQ+, które mają "publiczne" i "prywatne" ja w homofobicznym społeczeństwie.
+**Contemporary Analogy**: The story resembles the experience of LGBTQ+ people who have "public" and "private" selves in homophobic society.
 
-### 16. Interpretacja Postkolonialna
+### 16. Postcolonial Interpretation
 
-**Imperium i Jego Cienie**: Jekyll może reprezentować "cywilizowane" imperium brytyjskie, Hyde - barbarzyńską przemoc kolonializmu.
+**Empire and Its Shadows**: Jekyll may represent the "civilized" British Empire, Hyde - the barbaric violence of colonialism.
 
-**Rasowe Znaczenia**: Hyde opisany jako "małpowaty" może odzwierciedlać rasistowskie stereotypy epoki kolonialnej.
+**Racial Meanings**: Hyde described as "ape-like" may reflect racist stereotypes of the colonial era.
 
-**Geograficzny Symbolizm**: Soho jako dzielnica "inne" - przestrzeń, gdzie rasy i klasy się mieszają, podobnie jak w koloniach.
+**Geographic Symbolism**: Soho as an "other" district - space where races and classes mix, similar to colonies.
 
-**Współczesne Znaczenie**: W dobie dekolonizacji dzieło może być czytane jako krytyka zachodniego dualizmu "cywilizacja vs barbarzyństwo".
+**Contemporary Meaning**: In the age of decolonization, the work can be read as criticism of Western dualism "civilization vs barbarism."
 
-## Ukryte Symbole Często Pomijane przez Czytelników
+## Hidden Symbols Often Overlooked by Readers
 
-### 17. Eliksir - Symbol Technologii i Kontroli
+### 17. Elixir - Symbol of Technology and Control
 
-**Alchemiczne Korzenie**: Mikstura Jekyll'a to nowoczesna wersja kamienia filozoficznego - substancji, która miała dokonywać transformacji.
+**Alchemical Roots**: Jekyll's mixture is a modern version of the philosopher's stone - a substance that was to perform transformations.
 
-**Krytyka Nowoczesności**: Eliksir może reprezentować wszystkie technologie, które obiecują kontrolę nad naturą, ale przynoszą nieprzewidziane konsekwencje.
+**Critique of Modernity**: The elixir may represent all technologies that promise control over nature but bring unforeseen consequences.
 
-**Interpretacja Narcotyczna**: Współcześnie eliksir można czytać jako metaforę narkotyków - substancji, która obiecuje uwolnienie, ale prowadzi do zniewolenia.
+**Narcotic Interpretation**: Contemporarily, the elixir can be read as a metaphor for drugs - substances that promise liberation but lead to enslavement.
 
-**Bioetyczne Znaczenie**: W erze inżynierii genetycznej eliksir przewiduje dylematy związane z manipulacją natury ludzkiej.
+**Bioethical Meaning**: In the era of genetic engineering, the elixir foresees dilemmas related to manipulating human nature.
 
-### 18. Czas jako Symbol Stopniowej Degradacji
+### 18. Time as Symbol of Gradual Degradation
 
-**Progresywna Dominacja Hyde'a**: Jekyll stopniowo traci kontrolę nad transformacjami - czas staje się wrogiem porządku.
+**Progressive Hyde Dominance**: Jekyll gradually loses control over transformations - time becomes the enemy of order.
 
-**Wiktoriański Lęk przed Degeneracją**: Obawa epoki przed moralnym i fizycznym upadkiem cywilizacji.
+**Victorian Fear of Degeneration**: The era's fear of moral and physical decline of civilization.
 
-**Darwinowska Ewolucja na Opak**: Hyde jest "prymitywniejszy" - reprezentuje lęk przed regresją ewolucyjną.
+**Darwinian Evolution in Reverse**: Hyde is more "primitive" - represents fear of evolutionary regression.
 
-**Współczesne Znaczenie**: W erze kryzysu klimatycznego czas może reprezentować zbliżającą się katastrofę ekologiczną.
+**Contemporary Meaning**: In the era of climate crisis, time may represent approaching ecological catastrophe.
 
-### 19. Język i Komunikacja
+### 19. Language and Communication
 
-**Jekyll - Język Cywilizowany**: Jekyll używa języka nauki i filozofii - reprezentuje próbę racjonalizacji rzeczywistości.
+**Jekyll - Civilized Language**: Jekyll uses the language of science and philosophy - represents the attempt to rationalize reality.
 
-**Hyde - Język Prymitywny**: Hyde komunikuje się przemocą i gruntem - reprezentuje język instynktu.
+**Hyde - Primitive Language**: Hyde communicates through violence and grunts - represents the language of instinct.
 
-**Interpretacja Poststrukturalistyczna**: Język nie opisuje rzeczywistości, ale ją tworzy. Jekyll tworzy Hyde'a przez język nauki.
+**Poststructuralist Interpretation**: Language doesn't describe reality but creates it. Jekyll creates Hyde through the language of science.
 
-**Współczesna Aplikacja**: W erze fake news i dezinformacji podział na "naukowy" i "emocjonalny" język nabiera nowego znaczenia.
+**Contemporary Application**: In the era of fake news and disinformation, the division into "scientific" and "emotional" language takes on new meaning.
 
-### 20. Społeczność i Izolacja
+### 20. Community and Isolation
 
-**Jekyll - Izolacja Społeczna**: Im głębiej w eksperyment, tym bardziej Jekyll odcina się od przyjaciół.
+**Jekyll - Social Isolation**: The deeper into the experiment, the more Jekyll cuts himself off from friends.
 
-**Hyde - Anty-społeczność**: Hyde nie tworzy więzi - reprezentuje skrajny indywidualizm.
+**Hyde - Anti-sociality**: Hyde doesn't create bonds - represents extreme individualism.
 
-**Krytyka Liberalizmu**: Dzieło może być czytane jako krytyka liberalnej koncepcji jednostki jako niezależnego podmiotu.
+**Critique of Liberalism**: The work can be read as criticism of the liberal conception of the individual as an independent subject.
 
-**Współczesne Znaczenie**: W erze social media izolacja paradoksalnie rośnie mimo pozornej "łączności".
+**Contemporary Meaning**: In the era of social media, isolation paradoxically grows despite apparent "connectivity."
 
-## Psychologiczne Aspekty i Współczesne Znaczenia
+## Psychological Aspects and Contemporary Meanings
 
-### 21. Trauma i Mechanizmy Obronne
+### 21. Trauma and Defense Mechanisms
 
-**Dysocjacja jako Obrona**: Jekyll może cierpieć na traumę związaną z represyjnym wychowaniem - Hyde to mechanizm obronny.
+**Dissociation as Defense**: Jekyll may suffer from trauma related to repressive upbringing - Hyde is a defense mechanism.
 
-**Wyparcie i Powrót**: Freudowska koncepcja wyparcia - im silniej Jekyll wypiera swoje impulsy, tym gwałtowniej one powracają.
+**Repression and Return**: Freudian concept of repression - the stronger Jekyll represses his impulses, the more violently they return.
 
-**Integracja vs Fragmentacja**: Zdrowa psychika wymaga integracji przeciwstawnych aspektów - Jekyll próbuje je rozdzielić.
+**Integration vs Fragmentation**: Healthy psyche requires integration of opposing aspects - Jekyll tries to separate them.
 
-**Terapeutyczne Znaczenie**: Współczesna terapia podkreśla potrzebę akceptacji "ciemnych" stron osobowości, nie ich wyparcia.
+**Therapeutic Meaning**: Contemporary therapy emphasizes the need to accept "dark" sides of personality, not their repression.
 
-### 22. Uzależnienie i Obsesja
+### 22. Addiction and Obsession
 
-**Model Uzależnienia**: Jekyll stopniowo traci kontrolę nad użyciem eliksiru - klasyczny wzór uzależnienia.
+**Addiction Model**: Jekyll gradually loses control over elixir use - classic addiction pattern.
 
-**Obsesja Kontroli**: Jekyll wierzy, że może kontrolować Hyde'a - typowa obsesja osoby uzależnionej.
+**Control Obsession**: Jekyll believes he can control Hyde - typical obsession of an addicted person.
 
-**Zaprzeczenie i Racjonalizacja**: Jekyll racjonalizuje swoje zachowanie "względami naukowymi" - mechanizm zaprzeczenia.
+**Denial and Rationalization**: Jekyll racionalizes his behavior with "scientific considerations" - denial mechanism.
 
-**Współczesne Aplikacje**: Historia może być czytana jako metafora różnych uzależnień - od narkotyków po media społecznościowe.
+**Contemporary Applications**: The story can be read as a metaphor for various addictions - from drugs to social media.
 
-### 23. Tożsamość w Erze Cyfrowej
+### 23. Identity in the Digital Age
 
-**Multiplicitność Online**: Każdy ma różne "ja" w różnych mediach społecznościowych - Jekyll i Hyde to ekstremalna wersja tej multiplicitności.
+**Online Multiplicity**: Everyone has different "selves" on different social media - Jekyll and Hyde is an extreme version of this multiplicity.
 
-**Anonimowość i Odpowiedzialność**: Hyde działa anonimowo - podobnie jak trolle internetowe ukrywają się za pseudonimami.
+**Anonymity and Responsibility**: Hyde acts anonymously - similar to how internet trolls hide behind pseudonyms.
 
-**Persona vs Autentyczność**: Jekyll to "persona" (maska społeczna), Hyde to próba uwolnienia "autentycznego" ja.
+**Persona vs Authenticity**: Jekyll is the "persona" (social mask), Hyde is an attempt to liberate the "authentic" self.
 
-**Cybernetyczne Transformacje**: W przyszłości technologia może umożliwić dosłowne transformacje tożsamości.
+**Cybernetic Transformations**: In the future, technology may enable literal identity transformations.
 
-## Połączenia z Innymi Dziełami Kultury
+## Connections with Other Cultural Works
 
-### 24. Literatura Światowa
+### 24. World Literature
 
-**Faust Goethego**: Obie historie o przekroczeniu granic ludzkiej natury przez wiedzę.
+**Goethe's Faust**: Both stories about transcending the boundaries of human nature through knowledge.
 
-**Hrabia Drakula**: Obie opowieści o podwójnym życiu i ukrytej tożsamości w Londynie wiktoriańskim.
+**Count Dracula**: Both tales of double life and hidden identity in Victorian London.
 
-**Dr Moreau Wellsa**: Obie eksplorują niebezpieczeństwa manipulacji natury ludzkiej przez naukę.
+**Wells' Dr. Moreau**: Both explore the dangers of manipulating human nature through science.
 
-**American Psycho**: Współczesna wersja tematu - Patrick Bateman jako Jekyll/Hyde kapitalizmu.
+**American Psycho**: Contemporary version of the theme - Patrick Bateman as Jekyll/Hyde of capitalism.
 
-### 25. Kino i Telewizja
+### 25. Cinema and Television
 
-**Fight Club**: Narrator i Tyler Durden jako współczesna wersja Jekyll i Hyde.
+**Fight Club**: Narrator and Tyler Durden as contemporary version of Jekyll and Hyde.
 
-**Black Swan**: Nina Sayers przechodzi podobną transformację między "białą" i "czarną" stroną.
+**Black Swan**: Nina Sayers undergoes similar transformation between "white" and "black" sides.
 
-**Dexter**: Serial o seryjnym mordercy żyjącym podwójnym życiem - Jekyll i Hyde w wersji forensic.
+**Dexter**: Series about a serial killer living a double life - Jekyll and Hyde in forensic version.
 
-**Hulk**: Superbohater jako dosłowna interpretacja transformacji Jekyll/Hyde.
+**Hulk**: Superhero as literal interpretation of Jekyll/Hyde transformation.
 
-### 26. Muzyka i Opera
+### 26. Music and Opera
 
-**Jekyll & Hyde Musical**: Broadway'owska adaptacja podkreśla romaniczny aspekt historii.
+**Jekyll & Hyde Musical**: Broadway adaptation emphasizes the romantic aspect of the story.
 
-**Metal i Rock**: Wiele zespołów używa motywu podwójności - od Alice Cooper po Marilyn Manson.
+**Metal and Rock**: Many bands use the duality motif - from Alice Cooper to Marilyn Manson.
 
-**Opera**: Kilka operowych adaptacji, włączając dzieła Frank Wildhorn i Leslie Bricusse.
+**Opera**: Several operatic adaptations, including works by Frank Wildhorn and Leslie Bricusse.
 
-**Hip-Hop**: Artyści jak Eminem eksplorują podwójną tożsamość "Slim Shady" vs Marshall Mathers.
+**Hip-Hop**: Artists like Eminem explore dual identity "Slim Shady" vs Marshall Mathers.
 
-### 27. Gry Wideo i Kultura Popularna
+### 27. Video Games and Popular Culture
 
-**Grand Theft Auto**: Gracze mogą być "dobrymi obywatelami" lub "kryminalistami" - Jekyll/Hyde w formie interaktywnej.
+**Grand Theft Auto**: Players can be "good citizens" or "criminals" - Jekyll/Hyde in interactive form.
 
-**The Elder Scrolls**: Wampiry mogą żyć podwójnym życiem - dzień jako obywatel, noc jako predator.
+**The Elder Scrolls**: Vampires can live double lives - day as citizen, night as predator.
 
-**Persona Series**: Japońskie gry eksplorują różne "persony" jako psychologiczne maski.
+**Persona Series**: Japanese games explore different "personas" as psychological masks.
 
-**Marvel Comics**: Liczne postacie z podwójną tożsamością - od Spider-Mana po Moon Knight.
+**Marvel Comics**: Numerous characters with dual identity - from Spider-Man to Moon Knight.
 
-## Ewolucja Interpretacji na Przestrzeni Lat
+## Evolution of Interpretations Over the Years
 
-### 28. Era Wiktoriańska (1886-1901)
+### 28. Victorian Era (1886-1901)
 
-**Początkowo**: Historia czytana dosłownie jako opowieść o eksperymencie naukowym.
+**Initially**: Story read literally as tale of scientific experiment.
 
-**Krytyka Społeczna**: Interpretacja jako satyra na hipokryzję wiktoriańską.
+**Social Criticism**: Interpretation as satire on Victorian hypocrisy.
 
-**Lęk przed Degeneracją**: Hyde jako symbol obaw przed upadkiem cywilizacji.
+**Fear of Degeneration**: Hyde as symbol of fears about civilization's decline.
 
-**Krytyka Nauki**: Ostrzeżenie przed niebezpieczeństwami naukowego eksperymentowania.
+**Science Criticism**: Warning against the dangers of scientific experimentation.
 
-### 29. Era Freudowska (1900-1950)
+### 29. Freudian Era (1900-1950)
 
-**Psychoanaliza**: Jekyll jako Superego, Hyde jako Id.
+**Psychoanalysis**: Jekyll as Superego, Hyde as Id.
 
-**Symbolika Seksualna**: Hyde jako reprezentacja wypartej seksualności.
+**Sexual Symbolism**: Hyde as representation of repressed sexuality.
 
-**Kompleks Ojcowski**: Jekyll zabija figurę ojcowską (Sir Danvers Carew).
+**Father Complex**: Jekyll kills father figure (Sir Danvers Carew).
 
-**Neurotyczna Struktura**: Całość jako studium neuroza i mechanizmów obronnych.
+**Neurotic Structure**: Whole as study of neurosis and defense mechanisms.
 
-### 30. Era Postmodernistyczna (1950-2000)
+### 30. Postmodernist Era (1950-2000)
 
-**Dekonstrukcja Binarności**: Kwestionowanie prostego podziału dobro/zło.
+**Deconstruction of Binarity**: Questioning simple good/evil division.
 
-**Krytyka Logocentryzmu**: Pokazanie, że "rozum" Jekyll'a może być równie destruktywny.
+**Critique of Logocentrism**: Showing that Jekyll's "reason" can be equally destructive.
 
-**Intertekstualność**: Odczytania w kontekście innych dzieł i tradycji literackich.
+**Intertextuality**: Readings in context of other works and literary traditions.
 
-**Feminizm**: Analiza patriarchalnej struktury i nieobecności kobiet.
+**Feminism**: Analysis of patriarchal structure and absence of women.
 
-### 31. Era Współczesna (2000-obecnie)
+### 31. Contemporary Era (2000-present)
 
-**Neuronauka**: Interpretacje w świetle odkryć dotyczących funkcjonowania mózgu.
+**Neuroscience**: Interpretations in light of discoveries about brain function.
 
-**Tożsamość Płynna**: Jekyll/Hyde jako metafora współczesnej multiplicitności tożsamości.
+**Fluid Identity**: Jekyll/Hyde as metaphor for contemporary identity multiplicity.
 
-**Ekokrytyka**: Hyde jako symbol destrukcyjnego wpływu człowieka na naturę.
+**Ecocriticism**: Hyde as symbol of humanity's destructive impact on nature.
 
-**Posthumanizm**: Eksploracja granic człowieczeństwa w erze cyborgow i AI.
+**Posthumanism**: Exploration of humanity's boundaries in the era of cyborgs and AI.
 
-## Znaczenie dla Współczesnych Słuchaczy
+## Meaning for Contemporary Listeners
 
 ### 32. Mental Health Awareness
 
-**Destigmatyzacja**: Historia może pomóc w zrozumieniu złożoności problemów zdrowia psychicznego.
+**Destigmatization**: The story can help understand the complexity of mental health problems.
 
-**Integracja vs Fragmentacja**: Znaczenie akceptacji różnych aspektów osobowości.
+**Integration vs Fragmentation**: Importance of accepting different aspects of personality.
 
-**Terapia Trauma**: Rozumienie, jak trauma może prowadzić do dysocjacji.
+**Trauma Therapy**: Understanding how trauma can lead to dissociation.
 
-**Self-Care**: Ważność dbania o równowagę psychiczną i nie wyparcia "ciemnych" stron.
+**Self-Care**: Importance of caring for psychological balance and not repressing "dark" sides.
 
-### 33. Etyka w Erze Technologii
+### 33. Ethics in the Age of Technology
 
-**AI i Robotyka**: Czy sztuczna inteligencja może rozwinąć "ciemną stronę"?
+**AI and Robotics**: Can artificial intelligence develop a "dark side"?
 
-**Bioetyka**: Dylematy związane z manipulacją genetyczną i ulepszaniem człowieka.
+**Bioethics**: Dilemmas related to genetic manipulation and human enhancement.
 
-**Social Media**: Jak technologia wpływa na naszą tożsamość i relacje.
+**Social Media**: How technology affects our identity and relationships.
 
-**Prywatność**: Granice między publiczną a prywatną sferą w erze cyfrowej.
+**Privacy**: Boundaries between public and private sphere in the digital age.
 
-### 34. Społeczna Odpowiedzialność
+### 34. Social Responsibility
 
-**Kolektywna Wina**: Czy społeczeństwo ponosi odpowiedzialność za "Hyde'ów" które tworzy?
+**Collective Guilt**: Does society bear responsibility for the "Hydes" it creates?
 
-**Systemy Wsparcia**: Znaczenie społecznej sieci bezpieczeństwa dla zdrowia psychicznego.
+**Support Systems**: Importance of social safety net for mental health.
 
-**Edukacja Emocjonalna**: Potrzeba nauczania o emocjach i zarządzaniu nimi.
+**Emotional Education**: Need to teach about emotions and managing them.
 
-**Restorative Justice**: Podejście do przestępczości skupiające się na uzdrawianiu, nie karze.
+**Restorative Justice**: Approach to crime focusing on healing, not punishment.
 
-### 35. Globalne Wyzwania
+### 35. Global Challenges
 
-**Kryzys Klimatyczny**: Ludzkość jako Jekyll, ale z Hyde'em niszczącym planetę.
+**Climate Crisis**: Humanity as Jekyll, but with Hyde destroying the planet.
 
-**Nierówności Społeczne**: "Jekyll" społeczeństwa vs "Hyde" marginalizacji i przemocy.
+**Social Inequalities**: Society's "Jekyll" vs "Hyde" of marginalization and violence.
 
-**Migracje i Tożsamość**: Doświadczenie "podwójnej tożsamości" imigrantów.
+**Migration and Identity**: Experience of immigrants' "dual identity."
 
-**Polityczna Polaryzacja**: Jekyll/Hyde jako metafora społecznych podziałów.
+**Political Polarization**: Jekyll/Hyde as metaphor for social divisions.
 
 ---
 
-## Podsumowanie: Ponadczasowa Uniwersalność
+## Summary: Timeless Universality
 
-"Dziwna historia doktora Jekylla i pana Hyde'a" pozostaje jednym z najważniejszych dzieł literatury światowej nie przez swoją fabułę, ale przez niezwykłą głębię symboliczną. Stevenson stworzył uniwersalną metaforę ludzkiej natury, która rezonuje z każdą epoką i kulturą.
+"The Strange Case of Dr. Jekyll and Mr. Hyde" remains one of the most important works of world literature not because of its plot, but because of its extraordinary symbolic depth. Stevenson created a universal metaphor of human nature that resonates with every era and culture.
 
-Współczesni słuchacze podcastu mogą znaleźć w tej historii lustro własnych zmagań z tożsamością, moralnością i miejscem w społeczeństwie. W erze mediów społecznościowych, sztucznej inteligencji i globalnych kryzysów, pytania postawione przez Stevensona stają się jeszcze bardziej aktualne.
+Contemporary podcast listeners can find in this story a mirror of their own struggles with identity, morality, and place in society. In the era of social media, artificial intelligence, and global crises, the questions posed by Stevenson become even more relevant.
 
-Prawdziwa siła dzieła leży nie w prostocie dualizmu dobro/zło, ale w pokazaniu złożoności natury ludzkiej i niebezpieczeństw wyparcia czy próby kontroli tej złożoności. Jekyll i Hyde żyją w każdym z nas - pytanie brzmi, czy znajdziemy sposób na ich integrację, czy pozwolimy, by jeden zniszczył drugiego.
+The true power of the work lies not in the simplicity of good/evil dualism, but in showing the complexity of human nature and the dangers of repression or attempts to control this complexity. Jekyll and Hyde live in each of us - the question is whether we will find a way to integrate them, or allow one to destroy the other.
 
-*Analiza oparta na badaniach akademickich, międzykulturowych interpretacjach i współczesnych odczytaniach klasycznego dzieła Roberta Louisa Stevensona.*
+*Analysis based on academic research, cross-cultural interpretations, and contemporary readings of Robert Louis Stevenson's classic work.*

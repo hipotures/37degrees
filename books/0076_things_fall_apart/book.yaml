@@ -1,8 +1,179 @@
 book_info:
   title: "Things Fall Apart"
-  title_pl: 
+  title_pl:
     - "Świat się rozpada"
     - "Wszystko się rozpada"
   author: "Chinua Achebe"
   year: 1958
   genre: "Historical fiction,Tragedy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-28T11:45:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 8
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 6
+    social_roles: 9
+    total: 63
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "toxic_masculinity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Okonkwo represents extreme toxic masculinity - his fear of weakness leads to violence against family and ultimate self-destruction"
+        source: "dark_drama"
+      - id: "colonial_impact"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary work that created modern African literature, showing colonialism from African perspective for first time"
+        source: "writing_innovation"
+      - id: "cultural_preservation"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Complex portrayal of Igbo culture - celebrates richness while acknowledging problematic aspects like twin killing"
+        source: "symbols_meanings"
+      - id: "contemporary_relevance"
+        type: "FACT"
+        credibility: 0.90
+        content: "Themes of toxic masculinity, mental health, and authentic identity highly relevant to Gen Z discourse"
+        source: "youth_digital"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created 'New English' by vernacularizing language, integrating oral traditions with written forms"
+        source: "writing_innovation"
+      - id: "philosophical_depth"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "35+ interpretative layers from archetypal analysis to contemporary gender studies readings"
+        source: "symbols_meanings"
+      - id: "global_influence"
+        type: "FACT"
+        credibility: 0.95
+        content: "Translated into 57+ languages, inspired entire generation of postcolonial writers worldwide"
+        source: "culture_impact"
+      - id: "social_commentary"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Defines discourse on colonialism, postcolonial identity, and relationship between tradition and modernity"
+        source: "local_en_context"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in postcolonial studies, standard in university curricula worldwide"
+        key_editions: ["Norton Critical Edition", "Penguin Classics", "Heinemann African Writers Series"]
+        reception_notes: "Immediate critical acclaim, challenged colonial narratives in literature"
+        educational_status: "Essential reading in high schools and universities across English-speaking world"
+        local_themes: ["Response to Conrad's racism", "Canon transformation", "Academic institutionalization"]
+      pl:
+        cultural_impact: "Primarily academic reception, used in comparative literature and postcolonial studies"
+        key_editions: ["PIW translation by Jolanta Kozak (2009)", "Iskry Publishing House editions"]
+        reception_notes: "Polish readers connect to themes of cultural domination from their own historical experience"
+        educational_status: "University-level reading in comparative literature programs"
+        local_themes: ["Cultural resistance parallels", "Translation challenges", "Academic institutionalization"]
+      de:
+        cultural_impact: "Three German translations, extensive academic engagement and translation studies"
+        key_editions: ["Suhrkamp Verlag (1983)", "Uda Strätling translation", "Richard Moering (1959)"]
+        reception_notes: "Strong academic tradition, German-Nigerian film collaboration (1971)"
+        educational_status: "Integrated in postcolonial studies programs across German universities"
+        local_themes: ["Translation theory", "Postcolonial pedagogy", "Cross-cultural dialogue"]
+      fr:
+        cultural_impact: "Complex reception through Présence Africaine, influenced Francophone African writers"
+        key_editions: ["Le monde s'effondre (1966)", "Tout s'effondre (2013) by Actes Sud"]
+        reception_notes: "Applied French structuralist and post-structuralist theory to analysis"
+        educational_status: "Baccalauréat curriculum inclusion, Sorbonne academic engagement"
+        local_themes: ["Structuralist analysis", "Francophone literary connections", "Theoretical applications"]
+      es:
+        cultural_impact: "Growing recognition in Spanish academic circles and book clubs"
+        key_editions: ["Todo se desmorona (Debolsillo)", "Todo se derrumba (Alfaguara 1986)"]
+        reception_notes: "Praised for narrative efficiency and emotional depth in Spanish literary journals"
+        educational_status: "Used in postcolonial studies and world literature courses"
+        local_themes: ["Postcolonial discourse", "Cultural translation", "Academic integration"]
+      pt:
+        cultural_impact: "Significant influence on Lusophone African writers, Brazilian postcolonial studies"
+        key_editions: ["O Mundo se Despedaça (Brazil)", "Quando Tudo Se Desmorona (Portugal)"]
+        reception_notes: "Recognized as founding father of African novel, influences Afro-Brazilian literature"
+        educational_status: "Integrated after 2003 Afro-Brazilian education law, university curricula"
+        local_themes: ["Pan-African dialogue", "Lusophone connections", "Cultural identity affirmation"]
+      ja:
+        cultural_impact: "Academic reception focused on postcolonial studies, limited mainstream penetration"
+        key_editions: ["崩れゆく絆 (Kobunsha Classical New Translation Library)"]
+        reception_notes: "Specialized academic engagement, no manga/anime adaptations"
+        educational_status: "University-level study in African studies and comparative literature"
+        local_themes: ["Cultural preservation resonance", "Academic specialization", "Postcolonial discourse"]
+      ko:
+        cultural_impact: "First African novel in Minumsa World Literature Collection, academic milestone"
+        key_editions: ["모든 것이 산산이 부서지다 (Minumsa World Literature Collection Vol. 171)"]
+        reception_notes: "Innovative transmodern readings, no webtoon/manhwa adaptations"
+        educational_status: "High school and university curriculum, comparative literature studies"
+        local_themes: ["Transmodern analysis", "Cultural collision parallels", "Academic innovation"]
+      hi:
+        cultural_impact: "Strong influence on Indian postcolonial literary discourse and comparative studies"
+        key_editions: ["Penguin India", "Macmillan Publishers India", "Oxford University Press India"]
+        reception_notes: "Extensively cited in Indian academic journals, comparative analysis with Indian literature"
+        educational_status: "Standard text in postcolonial studies, IGCSE curriculum"
+        local_themes: ["India-Africa connections", "Subaltern studies applications", "Cultural resistance narratives"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking penetrating questions"
+        host_b: "cultural witness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Introducing Okonkwo and the world of Umuofia before the white man came"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "The tragic killing of Ikemefuna and its psychological impact"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "The arrival of missionaries and the beginning of cultural breakdown"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "revelations"
+          lead: "host_b"
+          description: "Okonkwo's exile and return to a transformed world"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "The final tragedy and its meaning for understanding colonial impact"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining the tragedy of Okonkwo in Things Fall Apart. Ask probing questions about key events, seek details about the cultural destruction, uncover the deeper meaning behind the personal and collective tragedy."
+        host_b: "You are {female_name}, a cultural witness who lived through the story of Things Fall Apart. Describe the scenes vividly, share the emotional impact of events like Ikemefuna's death, bring the rich Igbo culture and its destruction to life through personal testimony."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["domestic violence", "suicide", "child murder", "colonial themes"]
+    educational_elements: ["postcolonial literature", "African history", "toxic masculinity analysis", "cultural preservation"]
+    production_notes:
+      intro_style: "traditional African drum rhythm fading into contemporary sounds"
+      transitions: "subtle percussion bridging segments"
+      outro_style: "reflective silence broken by distant drums"
+
+  overall_confidence: 0.9

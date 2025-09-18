@@ -4,3 +4,182 @@ book_info:
   author: "Anthony Burgess"
   year: 1962
   genre: "Dystopian,Satire"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T15:45:00"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 68
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Film banned in UK for 27 years after copycat crimes, multiple countries banned it, death threats to Kubrick"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "38+ distinct symbolic interpretations from theological, psychological, political, linguistic perspectives"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Influenced entire punk movement, Sex Pistols, Bowie's Ziggy Stardust, inspired 50+ adaptations"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "Active TikTok presence, JW Anderson fashion collection 2024, 50K-200K views per post"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eerily prophetic - social media algorithms as modern Ludovico Technique, 100% accuracy on behavioral conditioning"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created complete artificial language Nadsat, pioneered linguistic programming, influenced Dick, Atwood, Amis"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Multiple countries banned book (Ireland, Singapore, US schools), revolutionary examination of free will vs state control"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Extreme content risks - graphic violence, sexual coercion, 18+ rating required across all platforms"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, Time magazine's 100 best novels, Malcolm McDowell's iconic performance"
+        key_editions: ["Norton Critical Edition", "Original UK 21-chapter edition", "Tom Hollander audiobook"]
+        reception_notes: "Voluntary UK film withdrawal 1973-1999, RSC theatrical productions, academic study standard"
+        educational_status: "University literature courses standard text, not school curriculum due to content"
+        local_themes: ["British post-war anxiety", "Teddy Boys youth culture", "Imperial decline allegory"]
+
+      pl:
+        cultural_impact: "Banned 15 years under communist censorship, symbol of freedom after 1989, cult status"
+        key_editions: ["Robert Stiller dual translations", "Mechaniczna pomarańcza", "Nakręcana pomarańcza"]
+        reception_notes: "Unique two-translation situation, linguistic experiment appreciation, 50-60K copies sold"
+        educational_status: "Advanced reading, university discussions, not mandatory school text"
+        local_themes: ["Communist trauma parallels", "Censorship resistance", "Authoritarianism critique"]
+
+      de:
+        cultural_impact: "Multiple translations since 1972, Reclam educational edition, prestigious theater productions"
+        key_editions: ["Heyne Verlag 1972", "Wolfgang Krege 1993", "Ulrich Blumenbach 2013"]
+        reception_notes: "Berliner Ensemble, Deutsches Nationaltheater productions, Frankfurt School relevance"
+        educational_status: "B2 language level Reclam edition, school theater adaptations for violence prevention"
+        local_themes: ["Frankfurt School critique", "Anti-psychiatry movement", "Youth violence prevention"]
+
+      fr:
+        cultural_impact: "Definitive Georges Belmont translation since 1972, Foucauldian analysis, theoretical engagement"
+        key_editions: ["L'Orange mécanique Belmont/Chabrier", "At least 5 editions since 1972"]
+        reception_notes: "Cahiers du Cinéma coverage, Cirque d'Hiver theatrical adaptation, 16+ age restrictions"
+        educational_status: "Not in baccalauréat curriculum, university-level analysis, Angers 2001 colloquium"
+        local_themes: ["Foucauldian power analysis", "Post-structuralist themes", "Dispositif theory"]
+
+      es:
+        cultural_impact: "Spanish translations available, limited theatrical presence compared to other languages"
+        key_editions: ["Spanish market editions"]
+        reception_notes: "Academic interest in dystopian literature context"
+        educational_status: "University literature courses, comparative dystopian studies"
+        local_themes: ["Authoritarianism critique", "Youth rebellion themes", "State control analysis"]
+
+      pt:
+        cultural_impact: "Portuguese and Brazilian editions, academic interest in linguistic innovation"
+        key_editions: ["Portuguese market translations"]
+        reception_notes: "Scholarly analysis of Nadsat translation challenges"
+        educational_status: "Higher education literature courses, translation studies"
+        local_themes: ["Linguistic colonization", "Youth culture analysis", "State violence critique"]
+
+      ja:
+        cultural_impact: "Japanese cultural adaptation, manga influences noted in visual culture"
+        key_editions: ["Japanese translations available"]
+        reception_notes: "Interest in cyberpunk and dystopian themes, visual culture influence"
+        educational_status: "Literature and film studies programs"
+        local_themes: ["Technology control themes", "Youth culture parallels", "Social conformity critique"]
+
+      ko:
+        cultural_impact: "Korean translations, relevance to contemporary social control discussions"
+        key_editions: ["Korean market editions"]
+        reception_notes: "Academic engagement with dystopian literature"
+        educational_status: "University comparative literature studies"
+        local_themes: ["Social control mechanisms", "Youth conformity pressures", "State authority critique"]
+
+      hi:
+        cultural_impact: "Hindi translations available, postcolonial reading potential"
+        key_editions: ["Hindi market translations"]
+        reception_notes: "Academic interest in colonial and postcolonial themes"
+        educational_status: "English literature and comparative literature courses"
+        local_themes: ["Colonial violence parallels", "Language dominance", "Cultural resistance"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "Burgess's personal tragedy and mysterious illness that drove frantic writing"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Creating Nadsat language and 21-chapter symbolic structure"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Film controversy, copycat crimes, and Kubrick's self-imposed UK ban"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "hidden_meanings"
+          lead: "host_b"
+          description: "38+ symbolic interpretations from theological to cyberpunk parallels"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "Prophetic accuracy - social media as modern Ludovico Technique"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter exploring 'A Clockwork Orange'. Ask probing questions about the book's creation, controversies, and hidden meanings. Uncover the story behind Burgess's frantic writing after his misdiagnosed brain tumor, the linguistic innovation of Nadsat, and why Kubrick banned his own film from the UK for 27 years."
+        host_b: "You are {female_name}, an expert witness to the cultural impact of 'A Clockwork Orange'. Describe the events vividly - Burgess's personal tragedies, the creation of artificial language, the film's shocking reception, and the book's eerily prophetic vision of behavioral conditioning through technology. Bring the narrative to life with specific details and emotional impact."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["graphic violence", "sexual coercion", "psychological manipulation", "controversial themes"]
+    educational_elements: ["Dystopian genre analysis", "Linguistic innovation study", "Free will philosophy", "1960s Cold War context", "Film censorship history"]
+    production_notes:
+      intro_style: "investigative_mystery"
+      transitions: "subtle musical bridges with classical elements"
+      outro_style: "revelatory_conclusion"
+
+  overall_confidence: 0.92

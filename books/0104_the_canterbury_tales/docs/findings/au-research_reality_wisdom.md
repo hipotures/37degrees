@@ -1,174 +1,174 @@
-# Opowieści Kanterberyjskie - Rzeczywistość vs Mądrość: Co Się Sprawdziło Po 625 Latach
+# The Canterbury Tales - Reality vs Wisdom: What Proved True After 625 Years
 
-## Wstęp
+## Introduction
 
-Geoffrey Chaucer pisał "Opowieści kanterberyjskie" między 1387-1400 rokiem, w okresie przełomowym dla angielskiego społeczeństwa - upadku feudalizmu i narodzin kapitalizmu. Po ponad sześciu wiekach możemy ocenić, które z jego obserwacji ludzkiej natury i społeczeństwa przetrwały próbę czasu, a które okazały się specyficzne dla jego epoki.
+Geoffrey Chaucer wrote "The Canterbury Tales" between 1387-1400, during a pivotal period for English society - the collapse of feudalism and the birth of capitalism. After more than six centuries, we can evaluate which of his observations about human nature and society have withstood the test of time, and which proved specific to his era.
 
-## 🎯 Co Chaucer Przewidział Idealnie - Uniwersalne Prawdy o Ludzkiej Naturze
+## 🎯 What Chaucer Predicted Perfectly - Universal Truths About Human Nature
 
-### Siedem Grzechów Głównych - Niezmienne Przez Wieki
+### The Seven Deadly Sins - Unchanged Through Centuries
 
-**SPRAWDZIŁ SIĘ:** *"Pride is still pride, and it still precedes a fall; lust is still lust, avarice is still avarice, gluttony is still gluttony"*
+**CAME TRUE:** *"Pride is still pride, and it still precedes a fall; lust is still lust, avarice is still avarice, gluttony is still gluttony"*
 
-- **Pycha (Pride)**: Influencerzy na social mediach, narcyzm w erze selfie, toxic masculinity
-- **Chciwość (Greed)**: Korporacyjne skandale, influencer marketing, kultura konsumpcyjna  
-- **Lubieżność (Lust)**: Pornografia online, aplikacje randkowe, sexting
-- **Zazdrość (Envy)**: Social media comparison culture, FOMO, lifestyle envy na Instagramie
-- **Obżarstwo (Gluttony)**: Fast food epidemic, binge-watching, scroll addiction
-- **Gniew (Wrath)**: Road rage, cancel culture, online hate, shitstorms
-- **Lenistwo (Sloth)**: Prokrastynacja, doom scrolling, work avoidance
+- **Pride**: Social media influencers, narcissism in the selfie era, toxic masculinity
+- **Greed**: Corporate scandals, influencer marketing, consumer culture
+- **Lust**: Online pornography, dating apps, sexting
+- **Envy**: Social media comparison culture, FOMO, lifestyle envy on Instagram
+- **Gluttony**: Fast food epidemic, binge-watching, scroll addiction
+- **Wrath**: Road rage, cancel culture, online hate, shitstorms
+- **Sloth**: Procrastination, doom scrolling, work avoidance
 
-**PRAKTYCZNA LEKCJA**: Chaucer pokazał, że ludzie walczą z tymi samymi pokusami niezależnie od epoki. Znajomość tych wzorców pomaga rozpoznać toxic patterns u siebie i innych.
+**PRACTICAL LESSON**: Chaucer showed that people struggle with the same temptations regardless of era. Understanding these patterns helps recognize toxic patterns in yourself and others.
 
-### Korupcja Instytucjonalna - Wzorce Niezmienne
+### Institutional Corruption - Unchanging Patterns
 
-**SPRAWDZIŁ SIĘ:** *"The corruption Chaucer exposed has remained as time progressed and is very common today"*
+**CAME TRUE:** *"The corruption Chaucer exposed has remained as time progressed and is very common today"*
 
-- **Odpustnik (Pardoner)**: Współczesni teleewangeliści żądający "darowizn na święty cel"
-- **Przywódca (Summoner)**: Skorumpowani urzędnicy, nepotyzm w administracji
-- **Zakonnik (Monk)**: Hipokryzja religious leaders żyjących w luksusie
-- **Ksiądz (Parson)**: Rzadki przykład uczciwości - nadal wyjątek, nie reguła
+- **Pardoner**: Modern televangelists demanding "donations for holy causes"
+- **Summoner**: Corrupt officials, nepotism in administration
+- **Monk**: Hypocrisy of religious leaders living in luxury
+- **Parson**: Rare example of honesty - still the exception, not the rule
 
-**PRAKTYCZNA LEKCJA**: Władza korumpuje niezależnie od epoki. Zawsze sprawdzaj, czy czyny przywódców odpowiadają ich słowom.
+**PRACTICAL LESSON**: Power corrupts regardless of era. Always check whether leaders' actions match their words.
 
-### Relacje Międzyludzkie - Uniwersalne Wzorce
+### Interpersonal Relationships - Universal Patterns
 
-**SPRAWDZIŁ SIĘ:** *"The same struggle between holiness and hedonism, sanctity and sin, virtue and vice"*
+**CAME TRUE:** *"The same struggle between holiness and hedonism, sanctity and sin, virtue and vice"*
 
-- **Toxic masculinity**: Rycerz-gwałciciel z "Wife of Bath's Tale" = współczesna rape culture
-- **Financial abuse**: Żona z Bath manipulująca starszymi mężami dla pieniędzy = modern gold-digging
-- **Domestic violence**: Przemoc domowa Jankyna wobec żony z Bath = niezmienne wzorce
-- **Power struggles**: Walka o dominację w związkach = eternal relationship dynamics
+- **Toxic masculinity**: The rapist knight from "Wife of Bath's Tale" = modern rape culture
+- **Financial abuse**: Wife of Bath manipulating older men for money = modern gold-digging
+- **Domestic violence**: Jankyn's violence toward the Wife of Bath = unchanging patterns
+- **Power struggles**: Battle for dominance in relationships = eternal relationship dynamics
 
-**PRAKTYCZNA LEKCJA**: Red flags w związkach są takie same od wieków. Uczenie się rozpoznawania tych wzorców może uchronić przed toxic relationships.
+**PRACTICAL LESSON**: Red flags in relationships are the same across centuries. Learning to recognize these patterns can protect against toxic relationships.
 
-### Hipokryzja Społeczna - Niezmienne Mechanizmy
+### Social Hypocrisy - Unchanging Mechanisms
 
-**SPRAWDZIŁ SIĘ:** *"The entire spectrum of human personalities showing each character's qualities, flaws, and hypocrisy"*
+**CAME TRUE:** *"The entire spectrum of human personalities showing each character's qualities, flaws, and hypocrisy"*
 
 - **Public vs private persona**: Social media fake life vs reality
-- **Virtue signaling**: Pokazywanie dobroczynności dla prestiżu, nie z prawdziwej troski
-- **Class pretension**: Nouveau riche showing off = współczesny flex culture
+- **Virtue signaling**: Showing charity for prestige, not genuine care
+- **Class pretension**: Nouveau riche showing off = modern flex culture
 - **Moral superiority**: Cancel culture judges = medieval moral police
 
-**PRAKTYCZNA LEKCJA**: Ludzie od zawsze przedstawiali się lepiej, niż są w rzeczywistości. Obserwuj czyny, nie słowa.
+**PRACTICAL LESSON**: People have always presented themselves better than they really are. Observe actions, not words.
 
-## ⚡ Ewolucja Społeczna - Co Się Zmieniło Radykalnie
+## ⚡ Social Evolution - What Changed Radically
 
-### Struktura Społeczna - Od Feudalizmu do Kapitalizmu
+### Social Structure - From Feudalism to Capitalism
 
-**NIE PRZEWIDZIAŁ:** Całkowitego upadku systemu feudalnego i powstania nowoczesnego kapitalizmu
+**DIDN'T PREDICT:** Complete collapse of the feudal system and rise of modern capitalism
 
-**ŚREDNIOWIECZE:** Sztywna hierarchia: szlachta → duchowieństwo → mieszczanie → chłopi
-**WSPÓŁCZEŚNIE:** Względna mobilność społeczna oparta na merytokracji (choć ograniczona)
+**MEDIEVAL TIMES:** Rigid hierarchy: nobility → clergy → burghers → peasants
+**CONTEMPORARY:** Relative social mobility based on meritocracy (though limited)
 
-- **Zmiana**: Z "urodzenia" na "achievement" jako podstawy statusu
-- **Continuity**: Nadal istnieją klasy społeczne i nierówności
-- **Nowe zjawisko**: Middle class jako dominująca grupa społeczna
+- **Change**: From "birth" to "achievement" as basis of status
+- **Continuity**: Social classes and inequalities still exist
+- **New phenomenon**: Middle class as dominant social group
 
-**PRAKTYCZNA LEKCJA**: Choć mobilność społeczna wzrosła, nadal wymaga ogromnego wysiłku. Nie kupuj iluzji "easy success".
+**PRACTICAL LESSON**: Though social mobility has increased, it still requires enormous effort. Don't buy into the illusion of "easy success".
 
-### Status Kobiet - Rewolucyjna Transformacja
+### Women's Status - Revolutionary Transformation
 
-**CZĘŚCIOWO PRZEWIDZIAŁ:** Żona z Bath jako prekursorka feminizmu
+**PARTIALLY PREDICTED:** Wife of Bath as precursor to feminism
 
-**ŚREDNIOWIECZE:** Małżeństwo w wieku 12 lat, brak prawa do własności, podporządkowanie
-**WSPÓŁCZEŚNIE:** Równość prawna, kontrola nad własnym ciałem, niezależność ekonomiczna
+**MEDIEVAL TIMES:** Marriage at age 12, no property rights, subordination
+**CONTEMPORARY:** Legal equality, control over one's body, economic independence
 
-- **Żona z Bath przewidziała**: Kobiety chcą "sovereignty" w związkach
-- **Nie przewidział**: Współczesnej równości płciowej i emancypacji
-- **Kontynuacja**: Walka o dominację w związkach nadal aktualna
+- **Wife of Bath predicted**: Women want "sovereignty" in relationships
+- **Didn't predict**: Modern gender equality and emancipation
+- **Continuity**: Struggle for dominance in relationships still relevant
 
-**PRAKTYCZNA LEKCJA**: Równe partnerstwo w związkach wymaga ciągłej pracy, nie jest dane "z natury".
+**PRACTICAL LESSON**: Equal partnership in relationships requires constant work, it's not "natural".
 
-### Rola Religii - Sekularyzacja Społeczeństwa
+### Role of Religion - Secularization of Society
 
-**NIE PRZEWIDZIAŁ:** Drastycznego spadku wpływu kościoła na życie codzienne
+**DIDN'T PREDICT:** Drastic decline of church influence on daily life
 
-**ŚREDNIOWIECZE:** Kościół kontroluje edukację, moralność, politykę
-**WSPÓŁCZEŚNIE:** Religia to prywatna sprawa, separacja Kościoła i państwa
+**MEDIEVAL TIMES:** Church controls education, morality, politics
+**CONTEMPORARY:** Religion is a private matter, separation of church and state
 
-- **Kontynuacja**: Hipokryzja liderów religijnych nadal aktualna
-- **Zmiana**: Kościół stracił monopol na moralność i edukację
-- **Nowe zjawisko**: Pluralizm religijny i new age spirituality
+- **Continuity**: Hypocrisy of religious leaders still relevant
+- **Change**: Church lost monopoly on morality and education
+- **New phenomenon**: Religious pluralism and new age spirituality
 
-**PRAKTYCZNA LEKCJA**: Szukaj mądrości w różnych źródłach, nie tylko w jednej doktrynie.
+**PRACTICAL LESSON**: Seek wisdom from various sources, not just one doctrine.
 
-## 🔍 Nowe Zjawiska Nie Do Przewidzenia W XIV Wieku
+## 🔍 New Phenomena Impossible to Predict in the 14th Century
 
-### Technologia i Komunikacja
+### Technology and Communication
 
-**NIEMOŻLIWE DO PRZEWIDZENIA:** 
-- Internet i social media revolucja
-- Dating apps zamiast tradycyjnego courtship
+**IMPOSSIBLE TO PREDICT:**
+- Internet and social media revolution
+- Dating apps instead of traditional courtship
 - Online identity vs real personality
-- Information overload i fake news epidemic
-- Digital addiction i mental health crisis
+- Information overload and fake news epidemic
+- Digital addiction and mental health crisis
 
-**PRAKTYCZNA LEKCJA**: Chociaż technologia się zmieniła, podstawowe potrzeby ludzkie (uznanie, miłość, przynależność) pozostały te same.
+**PRACTICAL LESSON**: Although technology has changed, basic human needs (recognition, love, belonging) remain the same.
 
-### Globalizacja i Kulturowa Homogenizacja
+### Globalization and Cultural Homogenization
 
-**NIEMOŻLIWE DO PRZEWIDZENIA:**
-- Światowa kultura pop i uniwersalne trendy
-- Migration jako normalne zjawisko, nie wyjątek
-- Cultural mixing i multiculturalism
-- Global economy i wzajemne zależności
+**IMPOSSIBLE TO PREDICT:**
+- Global pop culture and universal trends
+- Migration as normal phenomenon, not exception
+- Cultural mixing and multiculturalism
+- Global economy and interdependencies
 
-**PRAKTYCZNA LEKCJA**: Chociaż świat się zglobalizował, lokalne kultury i tradycje nadal mają znaczenie.
+**PRACTICAL LESSON**: Although the world has globalized, local cultures and traditions still matter.
 
-### Zdrowie Psychiczne i Self-Awareness
+### Mental Health and Self-Awareness
 
-**NIEMOŻLIWE DO PRZEWIDZENIA:**
-- Psychologia jako nauka i terapia
+**IMPOSSIBLE TO PREDICT:**
+- Psychology as science and therapy
 - Mental health awareness
 - Concept of toxic relationships
-- Self-help culture i personal development
-- Understanding trauma i healing
+- Self-help culture and personal development
+- Understanding trauma and healing
 
-**PRAKTYCZNA LEKCJA**: Współczesna wiedza o zdrowiu psychicznym pozwala lepiej rozumieć i radzić sobie z problemami, które Chaucer opisywał intuicyjnie.
+**PRACTICAL LESSON**: Contemporary knowledge about mental health allows better understanding and coping with problems that Chaucer described intuitively.
 
-## 💡 Practical Takeaways Dla Współczesnej Młodzieży
+## 💡 Practical Takeaways for Contemporary Youth
 
-### Red Flags w Związkach - Niezmienne Od Wieków
+### Red Flags in Relationships - Unchanged for Centuries
 
-1. **Financial manipulation**: Używanie pieniędzy do kontroli partnera
-2. **Physical violence**: Przemoc fizyczna nigdy nie jest OK
-3. **Gaslighting**: Manipulowanie rzeczywistością partnera
-4. **Isolation**: Odcinanie od przyjaciół i rodziny
-5. **Double standards**: Różne reguły dla siebie i partnera
+1. **Financial manipulation**: Using money to control partner
+2. **Physical violence**: Physical abuse is never OK
+3. **Gaslighting**: Manipulating partner's reality
+4. **Isolation**: Cutting off from friends and family
+5. **Double standards**: Different rules for self and partner
 
-**CHAUCER'S WISDOM**: Żona z Bath pokazała, że niezdrowe dynamiki w związkach były problemem już 600 lat temu.
+**CHAUCER'S WISDOM**: Wife of Bath showed that unhealthy relationship dynamics were a problem 600 years ago.
 
-### Rozpoznawanie Toxic People - Uniwersalne Wzorce
+### Recognizing Toxic People - Universal Patterns
 
-1. **Hipokryta** (jak Odpustnik): Mówi jedno, robi drugie
-2. **Manipulator** (jak Żona z Bath): Używa emocji do osiągnięcia celów
-3. **Narcyz** (jak Rycerz): Myśli tylko o sobie
-4. **Kłamca** (jak Handlarz): Nie można mu zaufać w kwestiach finansowych
-5. **Agressor** (jak Miller): Rozwiązuje konflikty przemocą
+1. **Hypocrite** (like Pardoner): Says one thing, does another
+2. **Manipulator** (like Wife of Bath): Uses emotions to achieve goals
+3. **Narcissist** (like Knight): Only thinks about himself
+4. **Liar** (like Merchant): Cannot be trusted in financial matters
+5. **Aggressor** (like Miller): Solves conflicts with violence
 
-**CHAUCER'S WISDOM**: Ludzie nie zmieniają się. Jeśli ktoś pokazuje toxic behaviors, nie liczą na magical transformation.
+**CHAUCER'S WISDOM**: People don't change. If someone shows toxic behaviors, don't count on magical transformation.
 
-### Career i Ambicje - Timeless Advice
+### Career and Ambitions - Timeless Advice
 
-1. **Hard work beats talent**: Prosty Ksiądz był szanowany mimo niskiego pochodzenia
-2. **Integrity pays off long-term**: Uczciwi ludzie budują trwałe relacje
-3. **Nie sprzedawaj duszy za pieniądze**: Odpustnik był bogaty, ale nieszczęśliwy
-4. **Networking matters**: Pielgrzymi tworzyli connections przez shared experiences
-5. **Reputation is everything**: W małych społecznościach opinia decyduje o wszystkim
+1. **Hard work beats talent**: Simple Parson was respected despite low birth
+2. **Integrity pays off long-term**: Honest people build lasting relationships
+3. **Don't sell your soul for money**: Pardoner was rich but miserable
+4. **Networking matters**: Pilgrims created connections through shared experiences
+5. **Reputation is everything**: In small communities, opinion decides everything
 
-**CHAUCER'S WISDOM**: Sukces to połączenie talentu, pracowitości i dobrych relacji międzyludzkich.
+**CHAUCER'S WISDOM**: Success is a combination of talent, hard work and good interpersonal relationships.
 
-### Pieniądze i Materialismus - Wieczne Lekcje
+### Money and Materialism - Eternal Lessons
 
-1. **Pieniądze nie kupią szczęścia**: Bogaci characters często byli most miserable
-2. **Greed destroys relationships**: Chciwość niszczy przyjaźnie i rodziny
-3. **Generosity builds community**: Najbardziej szanowani characters byli hojna
-4. **Work-life balance**: Nawet w średniowieczu ludzie szukali fun i entertainment
-5. **Investment in education**: Wiedza była postrzegana jako największy skarb
+1. **Money doesn't buy happiness**: Rich characters were often most miserable
+2. **Greed destroys relationships**: Greed destroys friendships and families
+3. **Generosity builds community**: Most respected characters were generous
+4. **Work-life balance**: Even in medieval times people sought fun and entertainment
+5. **Investment in education**: Knowledge was seen as the greatest treasure
 
-**CHAUCER'S WISDOM**: Pieniądze to narzędzie, nie cel życia.
+**CHAUCER'S WISDOM**: Money is a tool, not life's goal.
 
 ## 🌟 Uniwersalne Prawdy o Human Nature
 
@@ -197,53 +197,53 @@ To significa że:
 
 ### Social Media Era - Medieval Lessons Applied
 
-1. **Instagram vs Reality**: Jak Odpustnik sprzedawał false relics, influencerzy sprzedają fake lifestyle
-2. **Cancel Culture**: Medieval moral policing w nowej formie
-3. **Comparison Culture**: Zazdrość zawsze niszczyła happiness
-4. **Fake Friends**: Ludzie zawsze szukali connections z korzyściami
-5. **Echo Chambers**: Medieval guilds też tworzyły closed communities
+1. **Instagram vs Reality**: Just as Pardoner sold false relics, influencers sell fake lifestyles
+2. **Cancel Culture**: Medieval moral policing in new form
+3. **Comparison Culture**: Envy always destroyed happiness
+4. **Fake Friends**: People always sought connections for benefits
+5. **Echo Chambers**: Medieval guilds also created closed communities
 
 ### Dating Culture - Eternal Red Flags
 
-1. **Love bombing**: Szybkie intense romance często kończy się badly
-2. **Financial pressure**: Partner który kontroluje przez pieniądze to red flag
-3. **Isolation tactics**: Odcinanie od friends/family to manipulation technique
+1. **Love bombing**: Quick intense romance often ends badly
+2. **Financial pressure**: Partner who controls through money is a red flag
+3. **Isolation tactics**: Cutting off from friends/family is a manipulation technique
 4. **Double life**: Public persona vs private behavior - watch actions, not words
-5. **Power imbalance**: Healthy relationships require równość, not dominance
+5. **Power imbalance**: Healthy relationships require equality, not dominance
 
 ### Career Development - Medieval Wisdom
 
 1. **Reputation over money**: Long-term reputation > short-term profit
-2. **Skill trumps connections**: Ale connections otwierają doors
-3. **Integrity under pressure**: True character shows w difficult situations
-4. **Continuous learning**: World changes, ale human nature pozostaje
+2. **Skill trumps connections**: But connections open doors
+3. **Integrity under pressure**: True character shows in difficult situations
+4. **Continuous learning**: World changes, but human nature remains
 5. **Balance ambition with humanity**: Success without empathy to empty victory
 
-## 🏆 Podsumowanie: Co Chaucer Może Nauczyć Generation Z
+## 🏆 Summary: What Chaucer Can Teach Generation Z
 
 ### Main Takeaways
 
-1. **Human Nature jest constant** - problemy twojego pokolenia nie są unique
-2. **Pattern Recognition jest key** - uczenie się rozpoznawania toxic behaviors
-3. **Balance jest everything** - extreme positions usually lead to problems
+1. **Human Nature is constant** - your generation's problems are not unique
+2. **Pattern Recognition is key** - learning to recognize toxic behaviors
+3. **Balance is everything** - extreme positions usually lead to problems
 4. **Community matters more than individual success** - relationships > achievements
 5. **Story-telling builds connections** - sharing experiences unites people
-6. **Humor helps survive difficult times** - Chaucer używał satiry, żeby cope
-7. **Change what you can, accept what you can't** - niektóre things nigdy się nie zmienią
+6. **Humor helps survive difficult times** - Chaucer used satire to cope
+7. **Change what you can, accept what you can't** - some things will never change
 
 ### Final Wisdom
 
-Chaucer's greatest prediction wasn't o specific technology czy political system - to była his insight into unchanging human nature. Po 625 latach jego characters nadal resonują, porque:
+Chaucer's greatest prediction wasn't about specific technology or political system - it was his insight into unchanging human nature. After 625 years his characters still resonate, because:
 
-- **We all struggle z tymi samymi temptations**
-- **We all want love, respect, i belonging** 
-- **We all face moral choices między short-term pleasure i long-term consequences**
-- **We all need community i stories żeby understand ourselves**
+- **We all struggle with the same temptations**
+- **We all want love, respect, and belonging**
+- **We all face moral choices between short-term pleasure and long-term consequences**
+- **We all need community and stories to understand ourselves**
 
-**PRACTICAL TAKEAWAY**: Zamiast myśleć że twoje problems są completely new, ucz się od centuries of human experience. Chaucer's people faced podobne challenges - ich solutions mogą inspire twoje.
+**PRACTICAL TAKEAWAY**: Instead of thinking your problems are completely new, learn from centuries of human experience. Chaucer's people faced similar challenges - their solutions can inspire yours.
 
 *"The Canterbury Tales remain as relevant today as they were over six centuries ago, inviting readers to explore the universal truths and enduring follies of mankind."*
 
 ---
 
-**Źródła badawcze**: Analiza oparta na współczesnych interpretacjach dzieł Chaucera, badaniach literatury porównawczej oraz analizie ciągłości kulturowej między średniowieczem a współczesnością.
+**Research Sources**: Analysis based on contemporary interpretations of Chaucer's works, comparative literature studies, and analysis of cultural continuity between medieval and contemporary times.

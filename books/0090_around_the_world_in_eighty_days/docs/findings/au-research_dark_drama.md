@@ -1,332 +1,332 @@
-# Mroczne Dramaty i Kontrowersje: "W osiemdziesiąt dni dookoła świata" i Jules Verne
+# Dark Dramas and Controversies: "Around the World in Eighty Days" and Jules Verne
 
-## Wprowadzenie
-Jules Verne i jego najbardziej znaną powieść "W osiemdziesiąt dni dookoła świata" (1873) otacza znacznie więcej mrocznych sekretów, kontrowersji i teorii spiskowych niż większość ludzi podejrzewa. Ten dokument odkrywa ukryte znaczenia, osobiste dramaty autora, oraz problematyczne aspekty dzieła, które przez ponad 150 lat budziły kontrowersje.
+## Introduction
+Jules Verne and his most famous novel "Around the World in Eighty Days" (1873) are surrounded by far more dark secrets, controversies and conspiracy theories than most people suspect. This document uncovers hidden meanings, the author's personal dramas, and problematic aspects of the work that have sparked controversy for over 150 years.
 
-## I. CONSPIRACY THEORIES I UKRYTE ZNACZENIA
+## I. CONSPIRACY THEORIES AND HIDDEN MEANINGS
 
-### 1. Phileas Fogg - Tajemnicza Postać
-**TEORIA**: Phileas Fogg nie jest zwykłym człowiekiem, ale członkiem tajnego towarzystwa albo nieludzką istotą.
+### 1. Phileas Fogg - Mysterious Character
+**THEORY**: Phileas Fogg is not an ordinary human, but a member of a secret society or a non-human entity.
 
-- **FAKT**: W oryginalnej powieści Fogg jest opisany jako "enigmatyczna postać, o której niewiele było wiadomo"
-- **TEORIA**: Dokument "Shadows and Fogg" sugeruje, że Fogg może być automatem mechanicznym, nieśmiertelną istotą lub członkiem tajnego stowarzyszenia
-- **PLOTKA**: Jego niezwykła punktualność i brak emocji wskazują na nieludzką naturę
-- **FAKT**: Verne celowo uczynił Fogga tajemniczą postacią - "człowiekiem, który wydawał się unikać przyciągania uwagi"
+- **FACT**: In the original novel, Fogg is described as "an enigmatic figure about whom little was known"
+- **THEORY**: The document "Shadows and Fogg" suggests that Fogg may be a mechanical automaton, immortal being, or member of a secret society
+- **RUMOR**: His unusual punctuality and lack of emotions indicate a non-human nature
+- **FACT**: Verne deliberately made Fogg a mysterious character - "a man who seemed to avoid attracting attention"
 
-### 2. Steampunkowe Interpretacje
-**TEORIA**: Powieść zawiera ukryte wskazówki dotyczące alternatywnej historii technologii.
+### 2. Steampunk Interpretations
+**THEORY**: The novel contains hidden clues about alternative history of technology.
 
-- **PLOTKA**: Wydarzenia mogły nie odbywać się w 1872 roku, lecz wcześniej, z implikacjami dla technologii i geopolityki
-- **TEORIA**: Książka służy jako przewodnik do odkrywania tajnych historii przez pryzmat steampunk
-- **ZARZUT**: Verne celowo wprowadził nieprecyzyjne daty aby ukryć prawdziwe źródła swoich informacji
+- **RUMOR**: Events may not have taken place in 1872, but earlier, with implications for technology and geopolitics
+- **THEORY**: The book serves as a guide to discovering secret histories through a steampunk lens
+- **ACCUSATION**: Verne deliberately introduced imprecise dates to hide the true sources of his information
 
-### 3. Okultyzm i Tajne Stowarzyszenia
-**ZARZUT**: Jules Verne był aktywnym uczestnikiem francuskiego środowiska okultystycznego końca XIX wieku.
+### 3. Occultism and Secret Societies
+**ACCUSATION**: Jules Verne was an active participant in the French occult environment of the late 19th century.
 
-- **TEORIA**: Michel Lamy w książce "The Secret Message of Jules Verne" twierdzi, że Verne należał do Freemasonów, Golden Dawn, Angelic Society i Rozkrzyżowców
-- **PLOTKA**: Verne zaszyfrował masońskie i rozkrzyżowcowe sekrety w swoich dziełach
-- **TEORIA**: Jak Mozart w "Czarodziejskim flecie", Verne pisał masońskie dzieła wyrażając swoją przynależność do masonerii
-- **ZARZUT**: Jego prace zawierają wskazówki do tajemnicy Rennes-le-Château i lokalizacji skarbu w dawnej krainie Katarów
+- **THEORY**: Michel Lamy in his book "The Secret Message of Jules Verne" claims that Verne belonged to the Freemasons, Golden Dawn, Angelic Society and Rosicrucians
+- **RUMOR**: Verne encrypted Masonic and Rosicrucian secrets in his works
+- **THEORY**: Like Mozart in "The Magic Flute," Verne wrote Masonic works expressing his membership in Freemasonry
+- **ACCUSATION**: His works contain clues to the mystery of Rennes-le-Château and the location of treasure in the former land of the Cathars
 
-## II. KOLONIALIZM I RASIZM - PROBLEMATYCZNE DZIEDZICTWO
+## II. COLONIALISM AND RACISM - PROBLEMATIC LEGACY
 
-### 4. Imperialny Światopogląd
-**FAKT**: Powieść została napisana w szczytowym okresie brytyjskiego imperializmu, kiedy Imperium Brytyjskie kontrolowało ogromne obszary na wszystkich kontynentach.
+### 4. Imperial Worldview
+**FACT**: The novel was written at the height of British imperialism, when the British Empire controlled vast areas on all continents.
 
-- **FAKT**: Verne wzmacnia różnice między Europą a skolonizowanym światem, często nazywając Europę "siłą cywilizacyjną"
-- **ZARZUT**: Reszta świata jest przedstawiana jako "dzika, nieokiełznana dzicz gotowa na przygody, ale pozbawiona porządku, inteligencji i rozwoju"
-- **FAKT**: Powieść gloryfikuje brytyjski imperializm i rasizm według współczesnych krytyków
+- **FACT**: Verne reinforces differences between Europe and the colonized world, often calling Europe a "civilizing force"
+- **ACCUSATION**: The rest of the world is presented as "wild, untamed wilderness ready for adventure, but lacking order, intelligence and development"
+- **FACT**: The novel glorifies British imperialism and racism according to contemporary critics
 
-### 5. Orientalizm i Stereotypy
-**FAKT**: Książka promuje orientalistyczną wizję, że Brytyjczycy i inne mocarstwa europejskie były superiorne wobec kultur Bliskiego Wschodu i Północnej Afryki.
+### 5. Orientalism and Stereotypes
+**FACT**: The book promotes an orientalist vision that the British and other European powers were superior to Middle Eastern and North African cultures.
 
-- **ZARZUT**: Verne stosuje orientalistyczne myślenie, które według Edwarda Saida napędzało imperializm i kolonializm
-- **FAKT**: Rdzenni Amerykanie są zmiażdżeni pod wagonem pociągu "jak robaki", demonstrując dehumanizujące podejście do ludności tubylczej
-- **PROBLEMATYCZNE**: Współczesne recenzje określają książkę jako "bardzo pro-kolonialistyczną" i "rasistowską"
+- **ACCUSATION**: Verne employs orientalist thinking which, according to Edward Said, fueled imperialism and colonialism
+- **FACT**: Native Americans are crushed under the train car "like worms," demonstrating a dehumanizing approach to indigenous peoples
+- **PROBLEMATIC**: Contemporary reviews describe the book as "very pro-colonialist" and "racist"
 
-### 6. Cenzura w Tłumaczeniach
-**FAKT**: W.H.G. Kingston w tłumaczeniu "Tajemniczej Wyspy" faktycznie przepisał mowę Kapitana Nemo na łożu śmierci, aby była mniej krytyczna wobec brytyjskiego imperializmu.
+### 6. Censorship in Translations
+**FACT**: W.H.G. Kingston in translating "The Mysterious Island" actually rewrote Captain Nemo's deathbed speech to be less critical of British imperialism.
 
-- **FAKT**: Wydania dla dzieci są "odkażone z anty-kolonializmu, anty-imperializmu, anty-militaryzmu i pro-feminizmu"
-- **ZARZUT**: Najrasistowskie fragmenty książki zostały zastąpione w procesie adaptacji
-- **FAKT**: Mimo to współcześni czytelnicy wciąż znajdują kolonialne postawy szczególnie problematyczne
+- **FACT**: Children's editions are "decontaminated of anti-colonialism, anti-imperialism, anti-militarism and pro-feminism"
+- **ACCUSATION**: The most racist fragments of the book were replaced in the adaptation process
+- **FACT**: Nevertheless, contemporary readers still find colonial attitudes particularly problematic
 
-## III. OSOBISTE SKANDALE I DRAMATY JULES'A VERNE'A
+## III. PERSONAL SCANDALS AND JULES VERNE'S DRAMAS
 
-### 7. Romantyczny Skandal z Herminie
-**FAKT**: Verne przeżył znaczące romantyczne rozczarowanie w młodości związane z kobietą imieniem Herminie, która została wydana za mąż wbrew swojej woli.
+### 7. Romantic Scandal with Herminie
+**FACT**: Verne experienced a significant romantic disappointment in his youth related to a woman named Herminie, who was married against her will.
 
-- **FAKT**: Ten romans pozostawił trwały ślad na autorze, a jego powieści często przedstawiały młode kobiety zmuszone do niechcianych małżeństw
-- **FAKT**: Uczony Christian Chelebourg przypisał ten powracający temat "kompleksowi Herminie"
-- **FAKT**: Incydent sprawił, że Verne nosił urazę do swojego rodzinnego Nantes i jego społeczeństwa
+- **FACT**: This romance left a lasting mark on the author, and his novels often featured young women forced into unwanted marriages
+- **FACT**: Scholar Christian Chelebourg attributed this recurring theme to the "Herminie complex"
+- **FACT**: The incident made Verne hold a grudge against his hometown Nantes and its society
 
-### 8. Atak Psychicznie Chorego Siostrzeńca
-**FAKT**: 9 marca 1886 roku, 26-letni siostrzeniec Verne'a, Gaston, strzelił do niego dwukrotnie z pistoletu, gdy Verne wracał do domu.
+### 8. Attack by Mentally Ill Nephew
+**FACT**: On March 9, 1886, Verne's 26-year-old nephew, Gaston, shot him twice with a pistol as Verne was returning home.
 
-- **FAKT**: Pierwsza kula chybiła, ale druga trafiła w lewą nogę Verne'a, pozostawiając mu trwałe kalectwo
-- **FAKT**: Gaston cierpiał na chorobę psychiczną, prawdopodobnie paranoję lub schizofrenię
-- **PLOTKA**: Według artykułu z 1905 roku, Gaston twierdził, że strzelił do wuja, ponieważ chciał, aby osiągnął "nieśmiertelność" i akceptację przez Francuską Akademię
-- **TEORIA**: Inna wersja mówi o strzelaninie podczas kłótni o pieniądze
-- **FAKT**: Incydent został wyciszony przez media
+- **FACT**: The first bullet missed, but the second hit Verne's left leg, leaving him permanently disabled
+- **FACT**: Gaston suffered from mental illness, probably paranoia or schizophrenia
+- **RUMOR**: According to an 1905 article, Gaston claimed he shot his uncle because he wanted him to achieve "immortality" and acceptance by the French Academy
+- **THEORY**: Another version speaks of shooting during an argument about money
+- **FACT**: The incident was hushed up by the media
 
-### 9. Ukrywanie Rodzinnego Dramatu
-**FAKT**: Gaston spędził resztę życia w zakładzie psychiatrycznym.
+### 9. Hiding Family Drama
+**FACT**: Gaston spent the rest of his life in a psychiatric institution.
 
-- **FAKT**: Verne nigdy nie wyzdrowial całkowicie z ataku - kula poważnie uszkodziła lewą nogę, a cukrzyca skomplikowała proces gojenia
-- **FAKT**: Wtórna infekcja pozostawiła mu widoczne utykanie, które utrzymywało się aż do śmierci w 1905 roku
-- **ZARZUT**: Rodzina starała się zatrzeć ten skandal z publicznych zapisów
+- **FACT**: Verne never fully recovered from the attack - the bullet seriously damaged his left leg, and diabetes complicated the healing process
+- **FACT**: A secondary infection left him with a visible limp that persisted until his death in 1905
+- **ACCUSATION**: The family tried to erase this scandal from public records
 
-## IV. FINANSOWE KONTROWERSJE I KONFLIKTY WYDAWNICZE
+## IV. FINANCIAL CONTROVERSIES AND PUBLISHING CONFLICTS
 
-### 10. Niekorzystny Kontrakt z Hetzelem
-**FAKT**: Mimo ogromnej popularności, Verne honorował umowę z wydawcą Pierre'em-Jules'em Hetzelem na produkcję dwóch powieści rocznie przez resztę życia za 4000 dolarów rocznie.
+### 10. Unfavorable Contract with Hetzel
+**FACT**: Despite enormous popularity, Verne honored his contract with publisher Pierre-Jules Hetzel to produce two novels a year for the rest of his life for $4,000 annually.
 
-- **FAKT**: Chociaż jego książki były publikowane w milionach egzemplarzy i tłumaczone na wszystkie języki Europy, japońskie i arabskie, szlachetnie trzymał się umowy
-- **DRAMA**: Kiedy zmarł, był 15 książek do przodu względem kontraktu
-- **ZARZUT**: To pokazuje, jak wydawcy wykorzystywali autorów, nawet tak sławnych jak Verne
+- **FACT**: Although his books were published in millions of copies and translated into all European, Japanese and Arabic languages, he nobly stuck to his contract
+- **DRAMA**: When he died, he was 15 books ahead of schedule
+- **ACCUSATION**: This shows how publishers exploited authors, even as famous as Verne
 
-### 11. Kreatywne Konflikty i Cenzura
-**FAKT**: Relacja między wydawcą a pisarzem zmieniła się znacząco około 1869 roku, gdy weszli w konflikt nad rękopisem "Dwudziestu tysięcy mil podmorskiej żeglugi".
+### 11. Creative Conflicts and Censorship
+**FACT**: The relationship between publisher and writer changed significantly around 1869, when they came into conflict over the manuscript of "Twenty Thousand Leagues Under the Sea."
 
-- **FAKT**: Hetzel, nie chcąc zniechęcić lukratywnego rosyjskiego rynku, zażądał, aby Nemo został przedstawiony jako wróg handlu niewolnikami
-- **FAKT**: Verne walczył zaciekle przeciwko tej zmianie, zanim w końcu wymyślił kompromis
-- **FAKT**: Po tym nieporozumieniu Verne stał się zauważalnie chłodniejszy w swoich kontaktach z Hetzelem
-- **SKANDAL**: Hetzel odrzucił zgłoszenie Verne'a "Paryż w XX wieku", uważając jego pesymistyczną wizję za zbyt wywrotową dla magazynu rodzinnego
+- **FACT**: Hetzel, not wanting to discourage the lucrative Russian market, demanded that Nemo be presented as an enemy of the slave trade
+- **FACT**: Verne fought fiercely against this change before finally devising a compromise
+- **FACT**: After this misunderstanding, Verne became noticeably cooler in his contacts with Hetzel
+- **SCANDAL**: Hetzel rejected Verne's submission "Paris in the 20th Century," considering his pessimistic vision too subversive for a family magazine
 
-### 12. Wczesne Problemy Finansowe
-**FAKT**: Przed partnerstwem z Hetzelem, pisarstwo Verne'a nie przynosiło dużych dochodów i został oskarżony o życie z dochodów bogatej żony.
+### 12. Early Financial Problems
+**FACT**: Before his partnership with Hetzel, Verne's writing did not bring large income and he was accused of living off his wealthy wife's income.
 
-- **FAKT**: Próby uzupełnienia dochodów przez sprzedaż akcji nie powiodły się
-- **FAKT**: W 1848 roku, mieszkając w Paryżu i walcząc o rozgłos, Verne borykał się z intensywnymi trudnościami finansowymi
-- **DRAMA**: Mieszkał w małym mieszkaniu, pisząc przy słabym świetle świec, ledwo wiążąc koniec z końcem
+- **FACT**: Attempts to supplement income by selling stocks were unsuccessful
+- **FACT**: In 1848, living in Paris and struggling for recognition, Verne struggled with intense financial difficulties
+- **DRAMA**: He lived in a small apartment, writing by the weak light of candles, barely making ends meet
 
-## V. CENZURA I ZAKAZY RZĄDOWE
+## V. CENSORSHIP AND GOVERNMENT BANS
 
-### 13. Problemy z Adaptacjami
-**FAKT**: Wiele najrasistowszych fragmentów książki zostało zastąpionych w procesie adaptacji.
+### 13. Problems with Adaptations
+**FACT**: Many of the most racist fragments of the book were replaced in the adaptation process.
 
-- **FAKT**: Wcześniejsze adaptacje pogorszyły te problemy, w tym obsadzenie białych aktorów w brownface grających Hindusów
-- **ZARZUT**: Powieść promowała "wiele nieakceptowalnych i historycznie nieprecyzyjnych idei dotyczących hinduizmu"
-- **FAKT**: Adaptacja BBC/PBS z 2022 roku wciąż "zaspokajała 'życzliwy imperializm'" według brytyjskich widzów
+- **FACT**: Earlier adaptations made these problems worse, including casting white actors in brownface playing Indians
+- **ACCUSATION**: The novel promoted "many unacceptable and historically inaccurate ideas about Hinduism"
+- **FACT**: The 2022 BBC/PBS adaptation still "satisfied 'benevolent imperialism'" according to British viewers
 
-### 14. Kulturowa Apropriacja
-**ZARZUT**: Współczesni eksperci twierdzą, że "każda apropriacja amerykańskich indiańskich obrazów lub kulturowych wyobrażeń w celu sprzedaży produktu sprowadza się do utrwalania zinstytucjonalizowanego rasizmu".
+### 14. Cultural Appropriation
+**ACCUSATION**: Contemporary experts argue that "any appropriation of American Indian images or cultural representations to sell a product amounts to perpetuating institutionalized racism."
 
-- **FAKT**: Stereotypy medialne tworzą "ostry podział między 'dobrymi' a 'złymi' rdzenymi postaciami"
-- **ZALECENIA**: Eksperci sugerują "zatrudnienie ekspertów historycznych pochodzenia kolorowego, czytelników wrażliwości i grup fokusowych dla scenariuszy"
+- **FACT**: Media stereotypes create "a sharp divide between 'good' and 'bad' indigenous characters"
+- **RECOMMENDATIONS**: Experts suggest "hiring historical experts of color, sensitivity readers and focus groups for scripts"
 
-## VI. PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## VI. PROPHECY CHECK - WHAT CAME TRUE
 
-### 15. Udane Przewidywania Technologiczne
-**FAKT**: Verne przewidział łodzie podwodne w "Dwudziestu tysiącach mil podmorskiej żeglugi" (1870), opisując elektryczne, cylindryczne naczynia zdolne do nurkowania na niewiarygodne głębokości.
+### 15. Successful Technological Predictions
+**FACT**: Verne predicted submarines in "Twenty Thousand Leagues Under the Sea" (1870), describing electric, cylindrical vessels capable of diving to incredible depths.
 
-- **FAKT**: Przewidział helikoptery w "Robur Zdobywca", opisując maszynę kontrolowaną szybkimi rotorami
-- **FAKT**: W "W roku 2889" przewidział telewizję informacyjną i "foto-telefon" - urządzenie umożliwiające "transmisję obrazów za pomocą czułych luster połączonych przewodami"
-- **FAKT**: W "Z Ziemi na Księżyc" (1865) wyobrażał sobie ludzkość wystrzeliwującą się statkiem kosmicznym na księżyc - wymiary jego pocisku były bardzo zbliżone do Apollo 11
+- **FACT**: He predicted helicopters in "Robur the Conqueror," describing a machine controlled by fast rotors
+- **FACT**: In "In the Year 2889" he predicted television news and "photo-telephone" - a device enabling "transmission of images using sensitive mirrors connected by wires"
+- **FACT**: In "From the Earth to the Moon" (1865) he imagined humanity shooting themselves to the moon in a spacecraft - the dimensions of his projectile were very close to Apollo 11
 
-### 16. Inne Przewidywania z 1863 roku
-**FAKT**: W "Paryż w XX wieku" przewidział samochody napędzane benzyną, faksy, system komunikacyjny podobny do Internetu, broń masowego rażenia, muzykę elektroniczną i jej przemysł nagraniowy.
+### 16. Other Predictions from 1863
+**FACT**: In "Paris in the 20th Century" he predicted gasoline-powered cars, faxes, a communication system similar to the Internet, weapons of mass destruction, electronic music and its recording industry.
 
-- **FAKT**: Przewidział również krzesło elektryczne i przemieszczenia spowodowane zmianami klimatycznymi
-- **TEORIA**: Jego wizje były tak precyzyjne, że niektórzy uważają je za dowód dostępu do tajnych technologii
+- **FACT**: He also predicted the electric chair and displacement caused by climate change
+- **THEORY**: His visions were so precise that some consider them proof of access to secret technologies
 
-## VII. GOVERNMENT CONSPIRACIES I POLITYCZNE KONTEKSTY
+## VII. GOVERNMENT CONSPIRACIES AND POLITICAL CONTEXTS
 
-### 17. Wojenno-Polityczne Tło
-**FAKT**: "W osiemdziesiąt dni dookoła świata" powstało w trudnych czasach dla Francji i Verne'a - podczas wojny francusko-pruskiej (1870-1871).
+### 17. Military-Political Background
+**FACT**: "Around the World in Eighty Days" was created during difficult times for France and Verne - during the Franco-Prussian War (1870-1871).
 
-- **FAKT**: Verne został wcielony jako strażnik wybrzeża
-- **FAKT**: Miał trudności finansowe (jego poprzednie prace nie przynosiły tantiemów)
-- **DRAMA**: Niedawno zmarł jego ojciec i był świadkiem publicznej egzekucji, co go zaburzyło
+- **FACT**: Verne was conscripted as a coast guard
+- **FACT**: He had financial difficulties (his previous works brought no royalties)
+- **DRAMA**: His father had recently died and he witnessed a public execution, which disturbed him
 
-### 18. Polityczne Manipulacje w Przekładach
-**FAKT**: Tłumacze systematycznie cenzurowali anty-imperialistyczne przesłania Verne'a.
+### 18. Political Manipulations in Translations
+**FACT**: Translators systematically censored Verne's anti-imperialist messages.
 
-- **SKANDAL**: Kingston przepisał przemówienia krytyczne wobec brytyjskiego imperializmu
-- **ZARZUT**: Wydania dla dzieci są "odkażone" z kontrowersyjnych tematów politycznych
-- **TEORIA**: Rządy europejskie mogły naciskać na wydawców, aby złagodzić krytykę kolonializmu
+- **SCANDAL**: Kingston rewrote speeches critical of British imperialism
+- **ACCUSATION**: Children's editions are "decontaminated" of controversial political themes
+- **THEORY**: European governments may have pressured publishers to soften criticism of colonialism
 
-## VIII. MROCZNE INTERPRETACJE LITERACKIE
+## VIII. DARK LITERARY INTERPRETATIONS
 
-### 19. Symbolizm Podróży
-**TEORIA**: Podróż dookoła świata reprezentuje cykl życia i śmierci, z Foggiem jako postacią Śmierci.
+### 19. Journey Symbolism
+**THEORY**: The journey around the world represents the cycle of life and death, with Fogg as a figure of Death.
 
-- **INTERPRETACJA**: 80 dni może symbolizować ludzkie życie, a każdy przystanek - etap egzystencji
-- **PLOTKA**: Obsesja Fogga na punkcie czasu odzwierciedla nieuchronność śmierci
-- **TEORIA**: Ratowanie Aoudy z suttee (spalenia wdowy) to metafora walki o duszę
+- **INTERPRETATION**: 80 days may symbolize human life, and each stop - a stage of existence
+- **RUMOR**: Fogg's obsession with time reflects the inevitability of death
+- **THEORY**: Saving Aouda from suttee (widow burning) is a metaphor for the struggle for the soul
 
-### 20. Mechaniczny Człowiek
-**TEORIA**: Fogg jest przedstawiony jako człowiek-maszyna, pozbawiony emocji i ludzkości.
+### 20. Mechanical Man
+**THEORY**: Fogg is presented as a machine-man, devoid of emotion and humanity.
 
-- **INTERPRETACJA**: Jego punktualność i brak spontaniczności reprezentują dehumanizację społeczeństwa przemysłowego
-- **SYMBOLIKA**: Steam trains i nowe technologie przeciwstawione są ludzkiej naturze
-- **ZARZUT**: Verne krytykuje mechanizację życia przez industrializację
+- **INTERPRETATION**: His punctuality and lack of spontaneity represent the dehumanization of industrial society
+- **SYMBOLISM**: Steam trains and new technologies are opposed to human nature
+- **ACCUSATION**: Verne criticizes the mechanization of life through industrialization
 
-## IX. CONSPIRACY THEORIES WSPÓŁCZESNE
+## IX. CONTEMPORARY CONSPIRACY THEORIES
 
-### 21. Teoria Czasowej Pętli
-**TEORIA**: Niektórzy konspiratorzy twierdzą, że Fogg rzeczywiście podróżował w czasie, nie w przestrzeni.
+### 21. Time Loop Theory
+**THEORY**: Some conspirators claim that Fogg actually traveled in time, not space.
 
-- **PLOTKA**: 80-dniowa podróż to metafora podróży przez różne epoki historyczne
-- **ZARZUT**: Verne miał dostęp do maszyn czasu lub informacji z przyszłości
-- **TEORIA**: Różnice w opisach technologii wynikają z mieszania okresów historycznych
+- **RUMOR**: The 80-day journey is a metaphor for travel through different historical epochs
+- **ACCUSATION**: Verne had access to time machines or information from the future
+- **THEORY**: Differences in technology descriptions result from mixing historical periods
 
-### 22. Tajne Towarzystwo Podróżników
-**PLOTKA**: Reform Club to fasada dla tajnego stowarzyszenia kontrolującego światowy handel i transport.
+### 22. Secret Society of Travelers
+**RUMOR**: The Reform Club is a front for a secret society controlling world trade and transport.
 
-- **TEORIA**: Zakład Fogga to kod aktywizujący światową sieć agentów
-- **SPEKULACJE**: Członkowie klubu to agenci rządów europejskich koordynujący ekspansję kolonialną
-- **ZARZUT**: Verne był członkiem tego towarzystwa i zakodował prawdziwą misję w powieści
+- **THEORY**: Fogg's bet is a code activating a worldwide network of agents
+- **SPECULATION**: Club members are agents of European governments coordinating colonial expansion
+- **ACCUSATION**: Verne was a member of this society and encoded the real mission in the novel
 
-### 23. Illuminati i Kontrola Transportu
-**TEORIA**: Podróż Fogga demonstruje kontrolę Illuminati nad światowymi szlakami transportowymi.
+### 23. Illuminati and Transport Control
+**THEORY**: Fogg's journey demonstrates Illuminati control over world transport routes.
 
-- **PLOTKA**: Każdy środek transportu (pociąg, statek, słoń) reprezentuje różne aspekty globalnej kontroli
-- **ZARZUT**: Łatwość podróży pokazuje, jak elity mogą manipulować infrastrukturą dla swoich celów
-- **SPEKULACJE**: 80 dni to kod numerologiczny związany z okultystycznymi wierzeniami
+- **RUMOR**: Each means of transport (train, ship, elephant) represents different aspects of global control
+- **ACCUSATION**: The ease of travel shows how elites can manipulate infrastructure for their purposes
+- **SPECULATION**: 80 days is a numerological code related to occultist beliefs
 
-## X. SKANDALE ADAPTACJI I HOLLYWOOD DRAMA
+## X. ADAPTATION SCANDALS AND HOLLYWOOD DRAMA
 
-### 24. Whitewashing i Rasizm w Filmach
-**FAKT**: Adaptacje filmowe przez dekady obsadzały białych aktorów w rolach postaci azjatyckich i indyjskich.
+### 24. Whitewashing and Racism in Films
+**FACT**: Film adaptations for decades cast white actors in Asian and Indian character roles.
 
-- **SKANDAL**: Stosowano brownface i yellowface w większości XX-wiecznych adaptacji
-- **ZARZUT**: Hollywood systematycznie wymazywał problematyczne aspekty rasizmu zamiast się z nimi zmierzyć
-- **FAKT**: Film z 2004 roku próbował być bardziej "politycznie poprawny", ale wciąż otrzymał krytykę za stereotypy
+- **SCANDAL**: Brownface and yellowface were used in most 20th-century adaptations
+- **ACCUSATION**: Hollywood systematically erased problematic aspects of racism instead of confronting them
+- **FACT**: The 2004 film tried to be more "politically correct," but still received criticism for stereotypes
 
-### 25. Przemysł Rozrywkowy vs Historia
-**KONFLIKT**: Studia filmowe konsekwentnie unikały konfrontacji z imperialistycznym dziedzictwem powieści.
+### 25. Entertainment Industry vs History
+**CONFLICT**: Film studios consistently avoided confronting the novel's imperialist legacy.
 
-- **ZARZUT**: Zamiast edukować o historycznych problemach, adaptacje je gloryfikują
-- **FAKT**: Współczesne adaptacje próbują "równoważyć opowiadanie historii z unikaniem gloryfikacji historycznego rasizmu"
-- **DRAMA**: Krytycy zarzucają, że to wciąż za mało i za późno
+- **ACCUSATION**: Instead of educating about historical problems, adaptations glorify them
+- **FACT**: Contemporary adaptations try to "balance storytelling with avoiding glorification of historical racism"
+- **DRAMA**: Critics argue this is still too little and too late
 
-## XI. FINANSOWE SKANDALE WOKÓŁ PRAW AUTORSKICH
+## XI. FINANCIAL SCANDALS AROUND COPYRIGHT
 
-### 26. Walki o Prawa do Adaptacji
-**DRAMA**: Przez dekady trwały spory prawne o prawa do adaptacji powieści Verne'a.
+### 26. Battles for Adaptation Rights
+**DRAMA**: For decades there were legal disputes over the rights to adapt Verne's novels.
 
-- **FAKT**: Spadkobiercy Verne'a toczyli liczne bitwy sądowe z producentami filmowymi
-- **SKANDAL**: Niektóre studia tworzyły adaptacje bez płacenia tantiem rodzinie
-- **ZARZUT**: Przemysł rozrywkowy systematycznie wykorzystywał dziedzictwo Verne'a dla zysku
+- **FACT**: Verne's heirs fought numerous court battles with film producers
+- **SCANDAL**: Some studios created adaptations without paying royalties to the family
+- **ACCUSATION**: The entertainment industry systematically exploited Verne's legacy for profit
 
-### 27. Międzynarodowe Piractwo Wydawnicze
-**FAKT**: W XIX wieku książki Verne'a były masowo piracone, szczególnie w USA.
+### 27. International Publishing Piracy
+**FACT**: In the 19th century, Verne's books were massively pirated, especially in the USA.
 
-- **SKANDAL**: Amerykańscy wydawcy publikowali jego dzieła bez płacenia honorariów
-- **DRAMA**: Verne stracił fortunę na nieautoryzowanych wydaniach swojej twórczości
-- **ZARZUT**: Brak międzynarodowych praw autorskich umożliwiał kradzież intelektualną na masową skalę
+- **SCANDAL**: American publishers published his works without paying fees
+- **DRAMA**: Verne lost a fortune on unauthorized editions of his work
+- **ACCUSATION**: Lack of international copyright enabled intellectual theft on a massive scale
 
-## XII. UKRYTE PRZESŁANIA I SUBVERSIVE ELEMENTS
+## XII. HIDDEN MESSAGES AND SUBVERSIVE ELEMENTS
 
-### 28. Anty-Kapitalistyczna Krytyka
-**INTERPRETACJA**: Fogg jako bogaty bezczynny arystokrata reprezentuje krytykę kapitalizmu.
+### 28. Anti-Capitalist Criticism
+**INTERPRETATION**: Fogg as a wealthy idle aristocrat represents criticism of capitalism.
 
-- **TEORIA**: Jego zdolność do wydawania ogromnych sum na whim pokazuje niesprawiedliwość systemu klasowego
-- **ZARZUT**: Verne krytykował bezproductywną elitę żyjącą z pracy innych
-- **SYMBOLIKA**: Podróż za pieniądze vs podróż z konieczności (jak służący Passepartout)
+- **THEORY**: His ability to spend huge sums on a whim shows the injustice of the class system
+- **ACCUSATION**: Verne criticized the unproductive elite living off others' work
+- **SYMBOLISM**: Travel for money vs travel from necessity (like servant Passepartout)
 
-### 29. Feminizm w Ukryciu
-**TEORIA**: Postać Aoudy zawiera subwersywne feministyczne przesłania.
+### 29. Hidden Feminism
+**THEORY**: Aouda's character contains subversive feminist messages.
 
-- **INTERPRETACJA**: Jej ratowanie z suttee to krytyka patriarchalnego ucisku kobiet
-- **ZARZUT**: Ale równocześnie umieszcza ją w roli "damsel in distress" do uratowania przez białego mężczyznę
-- **KONFLIKT**: Verne balansował między progresywnymi ideałami a społecznymi ograniczeniami swojej epoki
+- **INTERPRETATION**: Her rescue from suttee is criticism of patriarchal oppression of women
+- **ACCUSATION**: But simultaneously places her in the role of "damsel in distress" to be saved by a white man
+- **CONFLICT**: Verne balanced progressive ideals with social limitations of his era
 
-### 30. Krytyka Religii Zorganizowanej
-**TEORIA**: Różne religie napotkane w podróży są przedstawione jako przeszkody dla postępu.
+### 30. Criticism of Organized Religion
+**THEORY**: Various religions encountered in the journey are presented as obstacles to progress.
 
-- **INTERPRETACJA**: Hinduskie, buddyjskie i inne tradycje pokazane jako "prymitywne"
-- **ZARZUT**: To odzwierciedla europejską supremację religijną, ale też krytykę religijnego fanatyzmu
-- **DWUZNACZNOŚĆ**: Verne jednocześnie krytykuje i utrwala religijne stereotypy
+- **INTERPRETATION**: Hindu, Buddhist and other traditions shown as "primitive"
+- **ACCUSATION**: This reflects European religious supremacy, but also criticism of religious fanaticism
+- **AMBIGUITY**: Verne simultaneously criticizes and perpetuates religious stereotypes
 
 ## XIII. MODERN DAY CONSPIRACY THEORIES
 
 ### 31. Internet Conspiracy Communities
-**PLOTKA**: Współczesne fora internetowe tworzą nowe teorie o ukrytych znaczeniach powieści.
+**RUMOR**: Contemporary internet forums create new theories about hidden meanings in the novel.
 
-- **TEORIA**: Niektórzy uważają, że podróż Fogga przewiduje nowoczesną globalizację i kontrolę korporacyjną
-- **SPEKULACJE**: 80 dni miało przewidywać 80 lat globalnej dominacji anglosaskiej (1872-1952)
-- **ZARZUT**: Verne był prorokiem nowego porządku światowego
+- **THEORY**: Some believe Fogg's journey predicts modern globalization and corporate control
+- **SPECULATION**: 80 days was supposed to predict 80 years of Anglo-Saxon global dominance (1872-1952)
+- **ACCUSATION**: Verne was a prophet of the new world order
 
-### 32. Technologiczny Determinizm
-**TEORIA**: Powieść promuje ideologię, że technologia rozwiąże wszystkie problemy społeczne.
+### 32. Technological Determinism
+**THEORY**: The novel promotes the ideology that technology will solve all social problems.
 
-- **KRYTYKA**: To maskuje prawdziwe przyczyny ubóstwa i nierówności społecznych
-- **ZARZUT**: Verne nieświadomie promował technokratyczne rozwiązania zamiast politycznych reform
-- **INTERPRETACJA**: Fetyszyzacja technologii jako ucieczka od trudnych kwestii społecznych
+- **CRITICISM**: This masks the real causes of poverty and social inequality
+- **ACCUSATION**: Verne unconsciously promoted technocratic solutions instead of political reforms
+- **INTERPRETATION**: Fetishization of technology as escape from difficult social issues
 
-## XIV. PRZEMILCZANE SKANDALE BIOGRAFICZNE
+## XIV. SUPPRESSED BIOGRAPHICAL SCANDALS
 
-### 33. Problemy z Alkoholem (PLOTKA)
-**PLOTKA**: Niektóre źródła sugerują, że Verne miał problemy z piciem, szczególnie po ataku siostrzeńca.
+### 33. Alcohol Problems (RUMOR)
+**RUMOR**: Some sources suggest Verne had drinking problems, especially after his nephew's attack.
 
-- **SPEKULACJE**: Jego późniejsze prace miały ciemniejszy ton możliwie przez depresję i alkoholizm
-- **ZARZUT**: Rodzina ukrywała te problemy przed biografami
-- **UWAGA**: To głównie spekulacje oparte na pośrednich wskazówkach
+- **SPECULATION**: His later works had a darker tone possibly due to depression and alcoholism
+- **ACCUSATION**: The family hid these problems from biographers
+- **NOTE**: These are mainly speculations based on indirect clues
 
-### 34. Domniemane Affair (PLOTKA)
-**PLOTKA**: Krążą pogłoski o potajemnych romansach Verne'a podczas małżeństwa.
+### 34. Alleged Affairs (RUMOR)
+**RUMOR**: There are rumors of Verne's secret romances during marriage.
 
-- **SPEKULACJE**: Jego częste podróże jachtem mogły służyć ukryciu spotkań
-- **ZARZUT**: Żona Honorine była świadoma, ale milczała dla społecznych przyzwoitości
-- **UWAGA**: Brak konkretnych dowodów na te zarzuty
+- **SPECULATION**: His frequent yacht travels may have served to hide meetings
+- **ACCUSATION**: Wife Honorine was aware but remained silent for social propriety
+- **NOTE**: Lack of concrete evidence for these accusations
 
-## XV. GOVERNMENT SUPPRESSION I CENSORSHIP
+## XV. GOVERNMENT SUPPRESSION AND CENSORSHIP
 
-### 35. Francuska Cenzura Polityczna
-**FAKT**: "Paryż w XX wieku" został odrzucony jako "zbyt pesymistyczny" i nie publikowany przez 130 lat.
+### 35. French Political Censorship
+**FACT**: "Paris in the 20th Century" was rejected as "too pessimistic" and not published for 130 years.
 
-- **TEORIA**: Rząd francuski mógł naciskać na wydawców, aby nie publikować dzieł krytykujących przyszłość technologiczną
-- **ZARZUT**: Verne przewidział problemy społeczne, które władze wolały ukryć
-- **SKANDAL**: Książka przepowiadała wojny światowe i katastrofy ekologiczne już w 1863 roku
+- **THEORY**: The French government may have pressured publishers not to publish works critical of the technological future
+- **ACCUSATION**: Verne predicted social problems that authorities preferred to hide
+- **SCANDAL**: The book prophesied world wars and ecological disasters as early as 1863
 
-### 36. Brytyjska Manipulacja Tłumaczeń
-**FAKT**: Brytyjscy tłumacze systematycznie usuwali krytykę imperializmu z dzieł Verne'a.
+### 36. British Translation Manipulation
+**FACT**: British translators systematically removed criticism of imperialism from Verne's works.
 
-- **SKANDAL**: Kingston przepisał fragmenty "Tajemniczej Wyspy" aby były pro-brytyjskie
-- **ZARZUT**: Ministerstwo Kolonii mogło koordynować te zmiany
-- **TEORIA**: Verne był bardziej anty-imperialistyczny niż pokazują anglojęzyczne wydania
+- **SCANDAL**: Kingston rewrote fragments of "The Mysterious Island" to be pro-British
+- **ACCUSATION**: The Colonial Office may have coordinated these changes
+- **THEORY**: Verne was more anti-imperialist than English-language editions show
 
 ## XVI. PROPHECIES AND PREDICTIONS CONTROVERSY
 
-### 37. Zbyt Precyzyjne Przewidywania
-**TEORIA**: Niektórzy uważają, że Verne miał dostęp do tajnych projektów militarnych lub naukowych.
+### 37. Too Precise Predictions
+**THEORY**: Some believe Verne had access to secret military or scientific projects.
 
-- **ZARZUT**: Jego opisy łodzi podwodnych były zbyt dokładne jak na epokę przed ich wynalezieniem
-- **PLOTKA**: Współpracował z francuskimi inżynierami wojskowymi
-- **SPEKULACJE**: Niektóre jego "przewidywania" były właściwie doniesieniami o tajnych projektach
+- **ACCUSATION**: His descriptions of submarines were too accurate for an era before their invention
+- **RUMOR**: He collaborated with French military engineers
+- **SPECULATION**: Some of his "predictions" were actually reports on secret projects
 
-### 38. Missed Predictions - Co Się Nie Sprawdziło
-**FAKT**: Verne nie przewidział samolotów (wierzył tylko w helikoptery i balony).
+### 38. Missed Predictions - What Didn't Come True
+**FACT**: Verne did not predict airplanes (believed only in helicopters and balloons).
 
-- **FAKT**: Nie przewidział radia, telefonów, ani samochodów osobowych
-- **FAKT**: Jego wizja przyszłości była bardzo mechaniczna, bez elektroniki
-- **IRONIA**: "Prorok technologii" pominął najważniejsze wynalazki XX wieku
+- **FACT**: He did not predict radio, telephones, or personal cars
+- **FACT**: His vision of the future was very mechanical, without electronics
+- **IRONY**: The "prophet of technology" missed the most important inventions of the 20th century
 
-## XVII. RIVALRIES I LITERARY CONFLICTS
+## XVII. RIVALRIES AND LITERARY CONFLICTS
 
-### 39. Konflikt z H.G. Wellsem
-**FAKT**: Verne publicznie krytykował H.G. Wellsa za "niemożliwe" historie science fiction.
+### 39. Conflict with H.G. Wells
+**FACT**: Verne publicly criticized H.G. Wells for "impossible" science fiction stories.
 
-- **DRAMA**: Wells odpowiedział krytyką "przestarzałych" technik Verne'a
-- **KONFLIKT**: Spór o to, czy science fiction powinno być "naukowe" czy "fantastyczne"
-- **ZARZUT**: Verne był zazdrosny o międzynarodowy sukces Wellsa
+- **DRAMA**: Wells responded with criticism of Verne's "outdated" techniques
+- **CONFLICT**: Dispute over whether science fiction should be "scientific" or "fantastic"
+- **ACCUSATION**: Verne was jealous of Wells's international success
 
-### 40. Przemysł Wydawniczy vs Artystyczna Integralność
-**FAKT**: Verne często uskarżał się, że wydawcy zmuszają go do pisania "tej samej książki w kółko".
+### 40. Publishing Industry vs Artistic Integrity
+**FACT**: Verne often complained that publishers forced him to write "the same book over and over."
 
-- **DRAMA**: Hetzel wymagał "formuly Verne'a" - przygoda + nauka + happy ending
-- **KONFLIKT**: Artysta vs komercyjne oczekiwania wydawców
-- **TRAGEDIA**: Wiele jego bardziej ambitnych projektów nigdy nie zostało opublikowanych
-- **ZARZUT**: System wydawniczy zniszczył jego potencjał jako poważnego literata
+- **DRAMA**: Hetzel demanded the "Verne formula" - adventure + science + happy ending
+- **CONFLICT**: Artist vs commercial expectations of publishers
+- **TRAGEDY**: Many of his more ambitious projects were never published
+- **ACCUSATION**: The publishing system destroyed his potential as a serious writer
 
-## Podsumowanie
+## Summary
 
-Jules Verne i "W osiemdziesiąt dni dookoła świata" to znacznie bardziej kontrowersyjne dziedzictwo niż powierzchowna przygodowa opowieść. Od ukrytych znaczeń okultystycznych przez rasistowskie stereotypy, od rodzinnych tragedii po wydawnicze konflikty - historia tej książki jest pełna mrocznych aspektów, które rzucają nowe światło na rzekomo niewinną klasykę literatury. 
+Jules Verne and "Around the World in Eighty Days" represent a much more controversial legacy than the superficial adventure story. From hidden occult meanings through racist stereotypes, from family tragedies to publishing conflicts - the history of this book is full of dark aspects that cast new light on the supposedly innocent classic of literature.
 
-Współczesne czytanie tego dzieła wymaga świadomości kontekstu kolonialnego, problemów z reprezentacją kulturową, oraz złożonych motywacji autora, który balansował między komeryjnym sukcesem a artystyczną wizją w epoce gwałtownych przemian społecznych i technologicznych.
+Contemporary reading of this work requires awareness of the colonial context, problems with cultural representation, and the complex motivations of an author who balanced commercial success with artistic vision in an era of rapid social and technological change.
 
 ---
 
-*Dokument badawczy stworzony w ramach projektu 37degrees dla analizy kontrowersyjnych aspektów literatury klasycznej. Wszystkie informacje oznaczone odpowiednimi kategoriami: FAKT/ZARZUT/PLOTKA/TEORIA dla przejrzystości źródeł i wiarygodności.*
+*Research document created as part of the 37degrees project for analysis of controversial aspects of classical literature. All information marked with appropriate categories: FACT/ACCUSATION/RUMOR/THEORY for source transparency and credibility.*

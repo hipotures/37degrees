@@ -1,184 +1,184 @@
-# Historia powstania "Native Son" (1940) - Richard Wright
-## Badania faktów, anegdot i ukrytych historii procesu twórczego
+# Creation History of "Native Son" (1940) - Richard Wright
+## Research on Facts, Anecdotes and Hidden Stories of the Creative Process
 
-### 1. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+### 1. CIRCUMSTANCES OF BOOK CREATION
 
-**FAKT**: Richard Wright rozpoczął pisanie "Native Son" w maju 1938 roku w Harlemie, gdy przeprowadził się tam dzięki zarobkom z poprzedniej książki "Uncle Tom's Children".
+**FACT**: Richard Wright began writing "Native Son" in May 1938 in Harlem, after moving there thanks to earnings from his previous book "Uncle Tom's Children".
 
-**FAKT**: Wright otrzymał stypendium Guggenheim Fellowship, które pozwoliło mu zakończyć pracę nad powieścią - aplikację poparła Eleanor Roosevelt, pierwsza dama USA.
+**FACT**: Wright received a Guggenheim Fellowship which allowed him to complete work on the novel - his application was endorsed by Eleanor Roosevelt, the First Lady of the USA.
 
-**FAKT**: Podczas pisania Wright wynajmował pokój u przyjaciół Herberta i Jane Newton, międzyrasowej pary prominentnych komunistów, których poznał w Chicago.
+**FACT**: While writing, Wright rented a room from friends Herbert and Jane Newton, an interracial couple of prominent communists whom he had met in Chicago.
 
-**FAKT**: W październiku 1938 roku Wright ukończył pierwszy szkic powieści, którą nazwał "Native Son".
+**FACT**: In October 1938, Wright completed the first draft of the novel, which he titled "Native Son".
 
-**FAKT**: Książka została opublikowana 1 marca 1940 roku przez Harper & Brothers i była pierwszą książką afroamerykańskiego autora wybraną przez Book of the Month Club.
+**FACT**: The book was published on March 1, 1940 by Harper & Brothers and was the first book by an African American author selected by the Book of the Month Club.
 
-### 2. PRAWDZIWE INSPIRACJE - SPRAWA ROBERTA NIXONA
+### 2. REAL INSPIRATIONS - THE ROBERT NIXON CASE
 
-**FAKT**: Główną inspiracją dla postaci Bigger Thomasa była sprawa Roberta Nixona z 1938 roku - 18-letniego chłopaka, który został oskarżony o morderstwo Florence Johnson, białej żony strażaka z Chicago.
+**FACT**: The main inspiration for the character Bigger Thomas was the 1938 case of Robert Nixon - an 18-year-old boy who was accused of murdering Florence Johnson, the white wife of a Chicago fireman.
 
-**FAKT**: Florence Johnson została zgwałcona i zabita w swojej sypialni 27 maja 1938 roku na Lake Park Ave. Nixon został aresztowany w ciągu godzin po odkryciu zwłok.
+**FACT**: Florence Johnson was raped and killed in her bedroom on May 27, 1938 on Lake Park Ave. Nixon was arrested within hours of discovering the body.
 
-**FAKT**: Wright poprosił przyjaciela o przysyłanie relacji prasowych ze sprawy Nixona, gdy przeprowadził się do Nowego Jorku i zmagał się z pierwszym szkicem powieści.
+**FACT**: Wright asked a friend to send him press coverage of the Nixon case when he moved to New York and was struggling with the first draft of the novel.
 
-**FAKT**: Nixon został skazany na śmierć i wykonano wyrok w krzęśle elektrycznym w Cook County Jail 16 czerwca 1939 roku.
+**FACT**: Nixon was sentenced to death and executed in the electric chair at Cook County Jail on June 16, 1939.
 
-**FAKT**: Wright napisał: "Wiele z artykułów prasowych i niektóre incydenty w 'Native Son' to tylko sfabularyzowane wersje sprawy Roberta Nixona i przepisane historie z Chicago Tribune".
+**FACT**: Wright wrote: "Many of the newspaper articles and some incidents in 'Native Son' are just fictionalized versions of the Robert Nixon case and rewritten stories from the Chicago Tribune".
 
-**FAKT**: Prasa nadała Nixonowi przezwisko "Brick Moron" (Cegielny Idiota), ponieważ był też podejrzany o zabójstwa w Los Angeles, gdzie używał cegły jako narzędzia zbrodni.
+**FACT**: The press gave Nixon the nickname "Brick Moron" because he was also suspected of murders in Los Angeles, where he used a brick as a murder weapon.
 
-### 3. DZIECIŃSTWO I TRAUMY WRIGHTA
+### 3. WRIGHT'S CHILDHOOD AND TRAUMAS
 
-**FAKT**: Richard Wright urodził się 8 września 1908 roku na plantacji Ruckera, 25 mil od Natchez w Missisipi, jako syn analfabety dzierżawcy Nathaniela Wrighta i nauczycielki Elli Wilson Wright.
+**FACT**: Richard Wright was born on September 8, 1908 on Rucker's plantation, 25 miles from Natchez in Mississippi, as the son of illiterate sharecropper Nathaniel Wright and teacher Ella Wilson Wright.
 
-**FAKT**: Gdy Richard miał 6 lat, jego ojciec porzucił rodzinę dla innej kobiety, co zmusiło chłopca do konfrontacji z głodem i skrajną biedą.
+**FACT**: When Richard was 6 years old, his father abandoned the family for another woman, forcing the boy to confront hunger and extreme poverty.
 
-**FAKT**: Wright pisał w autobiografii "Black Boy": "Obraz mojego ojca stał się związany z bólami głodu. Kiedy czułem głód, myślałem o nim z głęboką biologiczną goryczą".
+**FACT**: Wright wrote in his autobiography "Black Boy": "The image of my father became associated with my pangs of hunger. Whenever I felt hunger, I thought of him with a deep biological bitterness".
 
-**FAKT**: W 1915 roku, gdy matka Ella zachorowała, Richard i jego brat zostali zmuszeni do zamieszkania w sierocińcu.
+**FACT**: In 1915, when his mother Ella became ill, Richard and his brother were forced to live in an orphanage.
 
-**FAKT**: Wright był wprowadzony w przemoc, głód, alkohol i zemstę już w wieku około 6 lat, gdy jego wuj Hopkins został zamordowany przez białych mężczyzn.
+**FACT**: Wright was introduced to violence, hunger, alcohol and revenge at about age 6, when his uncle Hopkins was murdered by white men.
 
-**FAKT**: Matka била Richarda do nieprzytomności po tym, jak przypadkowo podpalił dom, co wpędziło go w gorączkowe majaki na kilka dni.
+**FACT**: His mother beat Richard unconscious after he accidentally set fire to the house, which put him into feverish delirium for several days.
 
-### 4. PROCES TWÓRCZY I WPŁYWY LITERACKIE
+### 4. CREATIVE PROCESS AND LITERARY INFLUENCES
 
-**FAKT**: "Native Son" była bezpośrednio inspirowana "Zbrodnią i karą" Dostojewskiego - oba utwory opowiadają historie samotnych młodych mężczyzn, którzy zabijają z powodów, których nie potrafią wyjaśnić.
+**FACT**: "Native Son" was directly inspired by Dostoyevsky's "Crime and Punishment" - both works tell stories of lonely young men who kill for reasons they cannot explain.
 
-**FAKT**: Wright przeszedł literacką drogę od wiary w proletariacki internacjonalizm Maksyma Gorkiego do koncepcji wiary w uniwersalny humanizm Dostojewskiego.
+**FACT**: Wright moved through a literary journey from belief in the proletarian internationalism of Maxim Gorky to the concept of faith in universal humanism of Dostoyevsky.
 
-**FAKT**: Oba protagoniści - Raskolnikow i Bigger - są pozbawieni ojców, zawstydzeni cierpieniem swoich rodzin i praktycznie unieruchomieni przez własną psychiczną nędzę.
+**FACT**: Both protagonists - Raskolnikov and Bigger - are deprived of fathers, ashamed of their families' suffering, and practically immobilized by their own psychological misery.
 
-**FAKT**: Wright był czytelnikiem nowoczesnej literatury angielskiej i amerykańskiej, a także przekładów z Europy kontynentalnej, co ukształtowało jego styl naturalistyczny.
+**FACT**: Wright was a reader of modern English and American literature, as well as translations from continental Europe, which shaped his naturalistic style.
 
-### 5. WPŁYW PARTII KOMUNISTYCZNEJ
+### 5. INFLUENCE OF THE COMMUNIST PARTY
 
-**FAKT**: Wright rozpoczął uczęszczanie na spotkania John Reed Club (marksistowskiej organizacji literackiej) w 1932 roku i formalnie przystąpił do Partii Komunistycznej w późnym 1933 roku.
+**FACT**: Wright began attending John Reed Club meetings (a Marxist literary organization) in 1932 and formally joined the Communist Party in late 1933.
 
-**FAKT**: Wright napisał: "Partia Komunistyczna była jedyną drogą wyjścia z Black Belt Chicago dla mnie".
+**FACT**: Wright wrote: "The Communist Party was the only way out of the Black Belt of Chicago for me".
 
-**FAKT**: W 1935 roku Wright znalazł zatrudnienie w Federal Writers' Project, programie pomocowym New Deal dla bezrobotnych pisarzy, gdzie przygotowywał przewodniki.
+**FACT**: In 1935, Wright found employment in the Federal Writers' Project, a New Deal relief program for unemployed writers, where he prepared guidebooks.
 
-**FAKT**: Ortodoksja Partii Komunistycznej nie aprobowała naturalistycznej prozy Wrighta, co doprowadziło do jego wydalenia z Chicago Communist Party w 1937 roku.
+**FACT**: The orthodoxy of the Communist Party did not approve of Wright's naturalistic prose, which led to his expulsion from the Chicago Communist Party in 1937.
 
-**FAKT**: Wright zerwał z Partią Komunistyczną z powodu "zdrady Afroamerykanów", gdy Stalin zwrócił się ku poparciu wojny amerykańskiej po ataku Hitlera na ZSRR w czerwcu 1941 roku.
+**FACT**: Wright broke with the Communist Party due to the "betrayal of African Americans" when Stalin turned toward supporting the American war after Hitler's attack on the USSR in June 1941.
 
-### 6. CENZURA I ZMIANY W TEKŚCIE
+### 6. CENSORSHIP AND TEXT CHANGES
 
-**FAKT**: Book of the Month Club zmusił Wrighta do usunięcia sceny masturbacji w kinie, gdzie Bigger i jego przyjaciel nielegalnie się masturbowali.
+**FACT**: The Book of the Month Club forced Wright to remove a masturbation scene in a movie theater where Bigger and his friend illegally masturbated.
 
-**FAKT**: Usunięto także linie pokazujące, że Mary seksualnie podniecała Biggera - klub książki obawiał się obrazy białych czytelników.
+**FACT**: Lines showing that Mary sexually aroused Bigger were also removed - the book club feared offending white readers.
 
-**FAKT**: Znaczące fragmenty "Native Son" i "Black Boy" zostały ocenzurowane na żądanie Book-of-the-Month Club, aby uczynić je bardziej "strawne" dla białych czytelników.
+**FACT**: Significant fragments of "Native Son" and "Black Boy" were censored at the demand of the Book-of-the-Month Club to make them more "palatable" for white readers.
 
-**FAKT**: Dopiero w 1991 roku Library of America opublikowała "Native Son" po raz pierwszy w całości, przywracając wszystkie cenzurowane fragmenty.
+**FACT**: Only in 1991 did the Library of America publish "Native Son" for the first time in its entirety, restoring all censored fragments.
 
-**FAKT**: Gdy przywrócono pełny tekst, psychika Bigger Thomasa znacznie się różniła od tej przedstawionej w ocenzurowanej wersji.
+**FACT**: When the full text was restored, Bigger Thomas's psyche differed significantly from that presented in the censored version.
 
-### 7. FENOMEN KOMERCYJNY
+### 7. COMMERCIAL PHENOMENON
 
-**FAKT**: "Native Son" sprzedała 250,000 egzemplarzy w twardej oprawie w ciągu trzech pierwszych tygodni od publikacji.
+**FACT**: "Native Son" sold 250,000 hardcover copies in the first three weeks after publication.
 
-**FAKT**: Książka sprzedawała się w tempie 2,000 egzemplarzy dziennie, czyniąc Wrighta pierwszym bestsellerowym czarnoskórym pisarzem w historii kraju.
+**FACT**: The book sold at a rate of 2,000 copies per day, making Wright the first bestselling black writer in the country's history.
 
-**FAKT**: W trzy miesiące książka sprzedała ćwierć miliona egzemplarzy po około 5 dolarów za sztukę, co uczyniło Wrighta najbogatszym czarnoskórym pisarzem swojego czasu.
+**FACT**: Within three months the book sold a quarter million copies at about $5 each, making Wright the wealthiest black writer of his time.
 
-**FAKT**: "Native Son" pokonała "Grona gniewu" Steinbecka na listach bestsellerów.
+**FACT**: "Native Son" beat Steinbeck's "The Grapes of Wrath" on bestseller lists.
 
-**FAKT**: Irving Howe napisał w 1963 roku: "Dnia, gdy ukazała się 'Native Son', amerykańska kultura zmieniła się na zawsze".
+**FACT**: Irving Howe wrote in 1963: "The day 'Native Son' appeared, American culture was changed forever".
 
-### 8. ADAPTACJA TEATRALNA ORSONA WELLESA (1941)
+### 8. ORSON WELLES THEATRICAL ADAPTATION (1941)
 
-**FAKT**: Orson Welles wyreżyserował adaptację teatralną "Native Son", która miała premierę na Broadwayu w St. James Theatre 24 marca 1941 roku.
+**FACT**: Orson Welles directed a theatrical adaptation of "Native Son" which premiered on Broadway at the St. James Theatre on March 24, 1941.
 
-**FAKT**: Główną rolę Bigger Thomasa zagrał Canada Lee, który stał się gwiazdą z dnia na dzień dzięki tej roli.
+**FACT**: The main role of Bigger Thomas was played by Canada Lee, who became a star overnight thanks to this role.
 
-**FAKT**: Przedstawienie było wielkim sukcesem, grając 114 występów przed wyruszeniem w 19-miesięczną trasę koncertową po kraju.
+**FACT**: The show was a great success, playing 114 performances before embarking on a 19-month tour of the country.
 
-**FAKT**: New York Times nazwał spektakl "potężnym" i "ekscytującym", a magazyn Time - "najsilniejszą sztuką sezonu".
+**FACT**: The New York Times called the play "powerful" and "exciting", and Time magazine called it "the strongest play of the season".
 
-**FAKT**: Welles zaprojektował scenografię z przesuwającymi się ścianami z brązowej cegły, reprezentującymi ograniczające środowisko życia Biggera.
+**FACT**: Welles designed scenery with sliding walls of brown brick, representing the confining environment of Bigger's life.
 
-**FAKT**: Mimo sukcesu krytycznego, sympatyczne przedstawienie czarnoskórego mężczyzny doprowadzonego do morderstwa przez rasistowską nienawiść wywołało krytykę, szczególnie ze strony Diecezji Katolickiej Brooklyn.
+**FACT**: Despite critical success, the sympathetic portrayal of a black man driven to murder by racist hatred drew criticism, particularly from the Brooklyn Catholic Diocese.
 
-### 9. FILM ARGENTYŃSKI (1951)
+### 9. ARGENTINE FILM (1951)
 
-**FAKT**: Wright zagrał główną rolę Bigger Thomasa w filmie z 1951 roku wyreżyserowanym przez Pierre'a Chenala w Argentynie.
+**FACT**: Wright played the main role of Bigger Thomas in a 1951 film directed by Pierre Chenal in Argentina.
 
-**FAKT**: Canada Lee, pierwotnie planowany na rolę Biggera, miał problemy z wizą podczas kręcenia "Cry, the Beloved Country" w Afryce Południowej i musiał zrezygnować.
+**FACT**: Canada Lee, originally planned for the role of Bigger, had visa problems while filming "Cry, the Beloved Country" in South Africa and had to withdraw.
 
-**FAKT**: MGM oferowało Wrightowi 25,000 dolarów za prawa filmowe, ale nalegało na obsadzenie wyłącznie białych aktorów - Wright odmówił.
+**FACT**: MGM offered Wright $25,000 for film rights but insisted on casting only white actors - Wright refused.
 
-**FAKT**: Francja i Włochy odmówiły udzielenia pozwoleń na kręcenie, obawiając się reperkusji ze strony USA w ramach Planu Marshalla.
+**FACT**: France and Italy refused to grant filming permits, fearing repercussions from the USA under the Marshall Plan.
 
-**FAKT**: Wright był w wieku 40 lat, gdy grał 19-letniego Biggera, co było przedmiotem krytyki ze względu na różnicę wieku.
+**FACT**: Wright was 40 years old when he played 19-year-old Bigger, which was criticized due to the age difference.
 
-**FAKT**: Film został poważnie ocenzurowany w USA, gdzie usunięto około 30 minut materiału.
+**FACT**: The film was heavily censored in the USA, where about 30 minutes of material was removed.
 
-### 10. REAKCJE KRYTYKÓW I KONTROWERSJE
+### 10. CRITICAL REACTIONS AND CONTROVERSIES
 
-**FAKT**: James Baldwin w eseju z 1948 roku "Everybody's Protest Novel" odrzucił "Native Son" jako literaturę protestacyjną o ograniczonym zrozumieniu ludzkiego charakteru.
+**FACT**: James Baldwin in his 1948 essay "Everybody's Protest Novel" rejected "Native Son" as protest literature with limited understanding of human character.
 
-**FAKT**: Wright był zdeterminowany, aby zmusić czytelników do odczucia rzeczywistości relacji rasowych, pisząc coś "tak twardego i głębokiego, że musieliby się z tym zmierzyć bez pociechy łez".
+**FACT**: Wright was determined to force readers to feel the reality of racial relations, writing something "so hard and deep that they would have to face it without the comfort of tears".
 
-**FAKT**: Eleanor Roosevelt była poruszona wcześniejszym zbiorem opowiadań Wrighta "Uncle Tom's Children" i zgodziła się pomóc w promocji książki.
+**FACT**: Eleanor Roosevelt was moved by Wright's earlier collection of stories "Uncle Tom's Children" and agreed to help promote the book.
 
-**FAKT**: Książka jest na 71. miejscu listy American Library Association "100 Najczęściej Kwestionowanych Książek z lat 1990-2000".
+**FACT**: The book is ranked 71st on the American Library Association's list of "100 Most Challenged Books from 1990-2000".
 
-**FAKT**: W 2024 roku więzienie Eastern Correctional Facility zablokowało dostawę "Native Son" do więźnia, argumentując, że może "podżegać do przemocy na tle rasowym".
+**FACT**: In 2024, Eastern Correctional Facility blocked delivery of "Native Son" to a prisoner, arguing it could "incite racial violence".
 
-### 11. UKRYTE DETALE I ANEGDOTY
+### 11. HIDDEN DETAILS AND ANECDOTES
 
-**FAKT**: Wright używał Ediphone (urządzenia do dyktowania), które zabrał ze sobą, gdy przeprowadził się do Brooklynu w październiku 1941 roku, a później do Paryża w 1946 roku.
+**FACT**: Wright used an Ediphone (dictation device) which he took with him when he moved to Brooklyn in October 1941, and later to Paris in 1946.
 
-**FAKT**: W ostatnich 18 miesiącach życia Wright był zafascynowany haiku i napisał 4,000 z nich, pokazując swoją płodność twórczą.
+**FACT**: In the last 18 months of his life, Wright was fascinated with haiku and wrote 4,000 of them, showing his creative fertility.
 
-**FAKT**: Wright został wykluczony z Hollywood w czasie kręcenia filmu z powodu członkostwa w partii komunistycznej - to dlatego sam musiał zagrać Biggera.
+**FACT**: Wright was excluded from Hollywood during the filming due to his communist party membership - that's why he had to play Bigger himself.
 
-**FAKT**: Gdy Wright spotkał swojego ojca po 25 latach, czuł tylko litość dla niego jako starego człowieka, reflektując, że podczas gdy Nathan nie zdołał znaleźć udanego życia w mieście, Richard stworzył dramatycznie nowe życie.
+**FACT**: When Wright met his father after 25 years, he felt only pity for him as an old man, reflecting that while Nathan failed to find successful life in the city, Richard had created a dramatically new life.
 
-**FAKT**: Wright był szczególnym fanem filmu noir, a reżyser Chenal był pionierem tego stylu - nakręcił pierwszą ekranizację "The Postman Always Rings Twice".
+**FACT**: Wright was a particular fan of film noir, and director Chenal was a pioneer of this style - he directed the first screen adaptation of "The Postman Always Rings Twice".
 
-### 12. WPŁYW NA LITERATURĘ AMERYKAŃSKĄ
+### 12. IMPACT ON AMERICAN LITERATURE
 
-**FAKT**: "Native Son" ustanowiła Wrighta jako "ojca czarnoskórej literatury amerykańskiej" i rzecznika spraw afroamerykańskich.
+**FACT**: "Native Son" established Wright as the "father of black American literature" and spokesperson for African American issues.
 
-**FAKT**: Powieść wpłynęła na całe pokolenie czarnoskórych powieściopisarzy, włączając w to koncepcję komunizmu jako jedynej istniejącej agencji zdolnej do przywrócenia humanitarnych wartości na ziemi.
+**FACT**: The novel influenced an entire generation of black novelists, including the concept of communism as the only existing agency capable of restoring humanitarian values on earth.
 
-**FAKT**: Krytyk literacki uważają, że dzieło Wrighta pomogło zmienić stosunki rasowe w Stanach Zjednoczonych w połowie XX wieku.
+**FACT**: Literary critics believe Wright's work helped change race relations in the United States in the mid-20th century.
 
-**FAKT**: Książka znajduje się na 20. miejscu na liście Modern Library "100 Najlepszych" powieści w języku angielskim XX wieku.
+**FACT**: The book ranks 20th on the Modern Library's "100 Best" novels in English of the 20th century.
 
-**FAKT**: "Native Son" jest uwzględniona w TIME's "100 Best Novels" oraz na liście Radcliffe's Rival 100 Best Novels List.
+**FACT**: "Native Son" is included in TIME's "100 Best Novels" and on Radcliffe's Rival 100 Best Novels List.
 
-### 13. STATYSTYKI I REKORDY
+### 13. STATISTICS AND RECORDS
 
-**FAKT**: Pierwsza powieść afroamerykańskiego autora, która stała się bestsellerem numer 1 w historii Ameryki.
+**FACT**: First novel by an African American author to become a number 1 bestseller in American history.
 
-**FAKT**: Pierwsza książka czarnoskórego autora wybrana przez Book of the Month Club.
+**FACT**: First book by a black author selected by the Book of the Month Club.
 
-**FAKT**: Sprzedała 215,000 kopii w pierwsze trzy tygodnie (według niektórych źródeł 250,000).
+**FACT**: Sold 215,000 copies in the first three weeks (according to some sources 250,000).
 
-**FAKT**: Uczyniła Wrighta najbogatszym czarnoskórym pisarzem w Ameryce swojego czasu.
+**FACT**: Made Wright the wealthiest black writer in America of his time.
 
-**FAKT**: Spektakl na Broadwayu trwał łącznie 198 występów (114 + 84 po powrocie).
+**FACT**: Broadway show ran a total of 198 performances (114 + 84 after return).
 
-**FAKT**: Film z 1951 roku był restaurowany i ponownie zaprezentowany na Turner Classic Movies w 2021 roku z okazji 60. rocznicy.
+**FACT**: The 1951 film was restored and re-presented on Turner Classic Movies in 2021 for the 60th anniversary.
 
-**PLOTKA**: Wright miał pisać codziennie określoną liczbę stron, ale dokładne szczegóły jego rutyny pisarskiej nie zostały udokumentowane w dostępnych źródłach.
+**RUMOR**: Wright was said to write a specific number of pages daily, but exact details of his writing routine were not documented in available sources.
 
-### 14. MIĘDZYNARODOWY WPŁYW
+### 14. INTERNATIONAL IMPACT
 
-**FAKT**: "Native Son" została przetłumaczona na wiele języków, chociaż dokładna liczba nie została podana w źródłach.
+**FACT**: "Native Son" was translated into many languages, although the exact number was not provided in sources.
 
-**FAKT**: Wright wyemigrował do Francji, gdzie żył jako ekspatriant, co sugeruje międzynarodowy zasięg jego dzieła.
+**FACT**: Wright emigrated to France where he lived as an expatriate, suggesting the international reach of his work.
 
-**FAKT**: Film był koprodukcją argentyńsko-francuską, pokazującą globalny zasięg opowieści.
+**FACT**: The film was an Argentine-French co-production, showing the global reach of the story.
 
-**FAKT**: Książka wpłynęła na europejskich egzystencjalistów, włącznie z Sartre'em i Camusem, którzy uznali wpływ Dostojewskiego obecny w dziele Wrighta.
+**FACT**: The book influenced European existentialists, including Sartre and Camus, who recognized the influence of Dostoyevsky present in Wright's work.
 
 ---
 
-**Podsumowanie**: "Native Son" powstała z połączenia osobistych doświadczeń Wrighta z biedą i rasizmem, prawdziwych wydarzeń kryminalnych (sprawa Nixona), wpływów literackich (szczególnie Dostojewski) i politycznego zaangażowania w ruch komunistyczny. Książka przeszła przez znaczną cenzurę, ale mimo to stała się przełomowym dziełem amerykańskiej literatury, które na zawsze zmieniło sposób przedstawiania kwestii rasowych w kulturze amerykańskiej.
+**Summary**: "Native Son" emerged from a combination of Wright's personal experiences with poverty and racism, real criminal events (the Nixon case), literary influences (especially Dostoyevsky), and political engagement in the communist movement. The book went through significant censorship but nonetheless became a groundbreaking work of American literature that forever changed the way racial issues were portrayed in American culture.
 
-*Badania przeprowadzone: 29 sierpnia 2025*
+*Research conducted: August 29, 2025*

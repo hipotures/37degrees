@@ -1,139 +1,139 @@
-# Historia Powstania "W osiemdziesiąt dni dookoła świata" (1873)
-## Badania Faktów i Anegdot - Juliusz Verne
+# Creation History of "Around the World in Eighty Days" (1873)
+## Facts and Anecdotes Research - Jules Verne
 
-*Badanie przeprowadzone w ramach projektu 37degrees*
+*Research conducted as part of the 37degrees project*
 
 ---
 
-## Geneza Dzieła - Kawiarniany Moment Olśnienia
+## Genesis of the Work - A Coffee Shop Moment of Inspiration
 
-**FAKT**: Pomysł na powieść narodził się całkowicie przypadkowo w paryskiej kawiarni, gdy Verne czytał gazetę "Le Siècle" i natknął się na reklamę biura podróży Cook'a głoszącą, że "człowiek może objechać świat w 80 dni".
+**FACT**: The idea for the novel was born completely by chance in a Parisian café when Verne was reading the newspaper "Le Siècle" and came across an advertisement from Cook's travel agency proclaiming that "a man can travel around the world in 80 days."
 
-**FAKT**: Verne przyznał w wywiadach z 1894 i 1904 roku, że inspiracja przyszła "podczas czytania pewnego dnia w paryskiej kawiarni" i była "wynikiem jedynie turystycznej reklamy zobaczonej przypadkiem w kolumnach gazety".
+**FACT**: Verne admitted in interviews from 1894 and 1904 that the inspiration came "while reading one day in a Parisian café" and was "the result of only a tourist advertisement seen by chance in the newspaper columns."
 
-**FAKT**: Według relacji z 1898 roku, Verne konkretnie wskazywał na reklamę biura podróży Thomas Cook jako źródło pomysłu na książkę.
+**FACT**: According to accounts from 1898, Verne specifically pointed to a Thomas Cook travel agency advertisement as the source of inspiration for the book.
 
-**FAKT**: Thomas Cook zorganizował pierwszą turystyczną podróż dookoła świata w 1872 roku - zaledwie kilka miesięcy przed publikacją powieści Verne'a.
+**FACT**: Thomas Cook organized the first tourist trip around the world in 1872 - just a few months before Verne's novel was published.
 
-## Prawdziwy Phileas Fogg - George Francis Train
+## The Real Phileas Fogg - George Francis Train
 
-**FAKT**: Główną inspiracją dla postaci Phileasa Fogga był amerykański przedsiębiorca George Francis Train, który odbył cztery podróże dookoła świata.
+**FACT**: The main inspiration for the character of Phileas Fogg was American entrepreneur George Francis Train, who made four trips around the world.
 
-**FAKT**: Train rzeczywiście objechał świat w 80 dni w 1870 roku, dokładnie dwa lata przed serialowym wydaniem powieści Verne'a.
+**FACT**: Train actually traveled around the world in 80 days in 1870, exactly two years before the serial publication of Verne's novel.
 
-**FAKT**: Train był kompletnie inną osobowością niż spokojny Fogg - opisywano go jako "emocjonalnego i impulsywnego szukacza uwagi".
+**FACT**: Train was a completely different personality than the calm Fogg - he was described as "emotional and impulsive attention-seeker."
 
-**FAKT**: Train wpadł w szał z powodu adaptacji Verne'a i wielokrotnie powtarzał: "Verne ukradł mi grom. To ja jestem Phileas Fogg!"
+**FACT**: Train was furious about Verne's adaptation and repeatedly said: "Verne stole my thunder. I am Phileas Fogg!"
 
-**FAKT**: Train został aresztowany w Lyonie za działalność rewolucyjną podczas podpory Komuny Paryskiej - podobnie jak jego fikcyjny odpowiednik miał problemy prawne podczas podróży.
+**FACT**: Train was arrested in Lyon for revolutionary activities while supporting the Paris Commune - similar to how his fictional counterpart had legal troubles during travel.
 
-**FAKT**: Train był organizatorem linii żaglowców płynących wokół Przylądka Horn do San Francisco oraz współorganizatorem kolei Union Pacific Railroad.
+**FACT**: Train was an organizer of sailing ship lines around Cape Horn to San Francisco and co-organizer of the Union Pacific Railroad.
 
-## Rewolucja Technologiczna jako Katalizator
+## Technological Revolution as Catalyst
 
-**FAKT**: Powieść powstała dzięki trzem przełomowym wydarzeniom technologicznym z lat 1869-1870:
-- Ukończenie pierwszej kolei transkontynnentalnej w Ameryce (1869)
-- Otwarcie Kanału Sueskiego (1869)  
-- Połączenie kolei indyjskich przez subkontynent (1870)
+**FACT**: The novel was created thanks to three breakthrough technological events from 1869-1870:
+- Completion of the first transcontinental railroad in America (1869)
+- Opening of the Suez Canal (1869)
+- Connection of Indian railways across the subcontinent (1870)
 
-**FAKT**: Te wynalazki po raz pierwszy w historii umożliwiły teoretyczną podróż dookoła świata w czasie, który wcześniej wydawał się niemożliwy.
+**FACT**: These inventions made possible for the first time in history a theoretical journey around the world in a time that previously seemed impossible.
 
-## Proces Twórczy - Długie Inkubowanie Pomysłów
+## Creative Process - Long Incubation of Ideas
 
-**FAKT**: Verne przyznał, że "historia nie została napisana aż długo po tym" jak dostał pomysł, mówiąc: "Noszę pomysły w głowie latami - dziesięć lub piętnaście lat czasami - zanim dam im formę".
+**FACT**: Verne admitted that "the story was not written until long after" he got the idea, saying: "I carry ideas in my head for years - ten or fifteen years sometimes - before I give them form."
 
-**FAKT**: Genialny pomysł z zyskaniem dnia podczas podróży przyszedł Verne'owi natychmiast: "od razu mnie uderzyło, że mogę skorzystać z różnicy południka i sprawić, by mój podróżnik zyskał lub stracił dzień podczas podróży".
+**FACT**: The brilliant idea of gaining a day during travel came to Verne immediately: "it struck me at once that I could take advantage of the meridian difference and make my traveler gain or lose a day during the journey."
 
-**FAKT**: Verne nigdy wcześniej nie odbył podróży dookoła świata przed napisaniem książki, ale "spędził dużo czasu żeglując po Europie i Ameryce i poświęcił wiele czasu na badanie miejsc na całym świecie".
+**FACT**: Verne had never taken a trip around the world before writing the book, but "spent a lot of time sailing around Europe and America and devoted much time to researching places around the world."
 
-## Publikacja i Pierwsze Reakcje
+## Publication and First Reactions
 
-**FAKT**: Powieść ukazywała się w odcinkach w gazecie "Le Temps" od 6 listopada do 22 grudnia 1872 roku (numery 4225-427).
+**FACT**: The novel appeared in installments in the newspaper "Le Temps" from November 6 to December 22, 1872 (issues 4225-427).
 
-**FAKT**: Verne celowo zaplanował zakończenie serialu na 21 grudnia 1872 - dokładnie w dniu, w którym kończy się akcja powieści, tworząc efekt "czasu rzeczywistego".
+**FACT**: Verne deliberately planned the serial's ending for December 21, 1872 - exactly on the day when the novel's action ends, creating a "real-time" effect.
 
-**FAKT**: Czytelnicy wierzyli, że podróże Phileasa Fogga to prawdziwe relacje, a nie fikcja literacka.
+**FACT**: Readers believed that Phileas Fogg's travels were real accounts, not literary fiction.
 
-**FAKT**: W całej Europie i Ameryce ludzie zawierali rzeczywiste zakłady na wynik podróży Fogga, dokładnie jak w powieści.
+**FACT**: Throughout Europe and America, people made real bets on the outcome of Fogg's journey, exactly as in the novel.
 
-**FAKT**: Książkowe wydanie ukazało się 30 stycznia 1873 roku nakładem Pierre'a-Julesa Hetzela w Paryżu.
+**FACT**: The book edition was published on January 30, 1873, by Pierre-Jules Hetzel in Paris.
 
-## Fenomenal Komercyjny Sukces
+## Phenomenal Commercial Success
 
-**FAKT**: Książka sprzedała się w nakładzie ponad pół miliona egzemplarzy w pierwszym roku, bijąc wszystkie ówczesne rekordy sprzedaży.
+**FACT**: The book sold over half a million copies in the first year, breaking all contemporary sales records.
 
-**FAKT**: W ciągu życia Verne'a sprzedano 108 000 egzemplarzy - to był jego najbardziej dochodowy tytuł.
+**FACT**: During Verne's lifetime, 108,000 copies were sold - it was his most profitable title.
 
-**FAKT**: Tłumaczenia na angielski, rosyjski, włoski i hiszpański ukazały się niemal natychmiast po francuskiej premierze.
+**FACT**: Translations into English, Russian, Italian, and Spanish appeared almost immediately after the French premiere.
 
-**FAKT**: Teatralna adaptacja z 1874 roku (współautorstwo z Adolphem d'Ennery) była "dziko udana" i grana nieprzerwanie przez 50 lat w Théâtre du Châtelet.
+**FACT**: The theatrical adaptation from 1874 (co-authored with Adolphe d'Ennery) was "wildly successful" and performed continuously for 50 years at Théâtre du Châtelet.
 
-**FAKT**: Większość majątku Verne'a pochodziła z adaptacji teatralnych "80 dni" (1874) i "Michała Strogowa" (1876), nie z samych książek.
+**FACT**: Most of Verne's wealth came from theatrical adaptations of "80 Days" (1874) and "Michael Strogoff" (1876), not from the books themselves.
 
-## Kontekst Biograficzny Verne'a w 1872 roku
+## Biographical Context of Verne in 1872
 
-**FAKT**: Podczas pisania książki Verne mieszkał w Amiens z żoną Honorine (poślubioną w 1857) i problemowym 11-letnim synem Michelem.
+**FACT**: While writing the book, Verne lived in Amiens with his wife Honorine (married in 1857) and problematic 11-year-old son Michel.
 
-**FAKT**: Michel był tak nieznośny, że w wieku 6 lat wysłano go do surowej szkoły z internatem.
+**FACT**: Michel was so unbearable that at age 6 he was sent to a strict boarding school.
 
-**FAKT**: Małżeństwo Verne'ów nie było udane - Honorine była rozczarowana stałą nieobecnością męża "w jego świecie fantazji".
+**FACT**: The Verne marriage was not happy - Honorine was disappointed by her husband's constant absence "in his world of fantasy."
 
-**FAKT**: Do 1872 roku sytuacja finansowa Verne'a znacznie się poprawiła - mógł już żyć z pisania po podpisaniu długoterminowego kontraktu z Hetzelem.
+**FACT**: By 1872, Verne's financial situation had significantly improved - he could already live from writing after signing a long-term contract with Hetzel.
 
-**FAKT**: Verne prowadził "życie uporządkowanego mieszczanina" w Amiens, preferując "pracowitą samotność swojego gabinetu" nad towarzyskie spotkania.
+**FACT**: Verne led "the life of an orderly bourgeois" in Amiens, preferring "the industrious solitude of his study" over social gatherings.
 
-## Ukryte Easter Eggi i Nawiązania Literackie
+## Hidden Easter Eggs and Literary References
 
-**FAKT**: Phileas Fogg mieszka pod adresem Saville Row 7 - dokładnie w domu, gdzie w 1814 roku zmarł dramaturg Richard Sheridan.
+**FACT**: Phileas Fogg lives at 7 Saville Row - exactly in the house where playwright Richard Sheridan died in 1814.
 
-**FAKT**: Verne opisuje Fogga jako podobnego do lorda Byrona - "miał byronowską głowę, ale był to Byron z brodą, spokojny Byron, który mógłby żyć tysiąc lat nie starzeejąc się".
+**FACT**: Verne describes Fogg as similar to Lord Byron - "he had a Byronic head, but it was a Byron with a beard, a calm Byron who could live a thousand years without aging."
 
-**FAKT**: Dom Fogga to kontrast z przeszłością - wcześniej był "prawdziwą świątynią nieporządku i niepokoju pod sławnym, ale rozwiązłym Sheridanem".
+**FACT**: Fogg's house is a contrast to the past - it was previously "a true temple of disorder and unrest under the famous but dissolute Sheridan."
 
-**FAKT**: Verne inspirował się opowiadaniem Edgara Allana Poe "Three Sundays in a Week" (1841), które również opierało się na objeździe świata i różnicy czasowej.
+**FACT**: Verne was inspired by Edgar Allan Poe's story "Three Sundays in a Week" (1841), which was also based on traveling around the world and time difference.
 
-**FAKT**: Verne przeanalizował opowiadanie Poe w swoim eseju "Edgar Poe and His Works" z 1864 roku.
+**FACT**: Verne analyzed Poe's story in his essay "Edgar Poe and His Works" from 1864.
 
-**FAKT**: Imię "Passepartout" symbolizuje rolę postaci jako towarzysza "zawsze gotowego 'przejść przez' każdą przeszkodę".
+**FACT**: The name "Passepartout" symbolizes the character's role as a companion "always ready to 'pass through' any obstacle."
 
-## Wpływ na Kulturę Światową
+## Impact on World Culture
 
-**FAKT**: Według UNESCO Verne jest piątym najczęściej tłumaczonym autorem wszech czasów (po Leninie, Agacie Christie, Walcie Disney i Biblii).
+**FACT**: According to UNESCO, Verne is the fifth most translated author of all time (after Lenin, Agatha Christie, Walt Disney, and the Bible).
 
-**FAKT**: Inne źródła umieszczają go na drugim miejscu (po Agacie Christie) wśród najczęściej tłumaczonych autorów.
+**FACT**: Other sources place him second (after Agatha Christie) among the most translated authors.
 
-**FAKT**: Dzieła Verne'a przetłumaczono na ponad 140 języków w XX wieku.
+**FACT**: Verne's works were translated into over 140 languages in the 20th century.
 
-**FAKT**: Powieść zainspirowała dziennikarkę Nellie Bly do rzeczywistej podróży dookoła świata w latach 1889-90, którą ukończyła w 72 dni.
+**FACT**: The novel inspired journalist Nellie Bly to make an actual trip around the world in 1889-90, which she completed in 72 days.
 
-**FAKT**: Od 1872 roku adaptowano ją dla teatru, radia, kina, komiksów, opery, muzyki i gier wideo.
+**FACT**: Since 1872, it has been adapted for theater, radio, cinema, comics, opera, music, and video games.
 
-## Nieoczywiste Fakty o Publikacji
+## Non-obvious Facts about Publication
 
-**FAKT**: Kiedy powieść ukazywała się w odcinkach w paryskim dzienniku, każdy odcinek był gorączkowo wyczekiwany i natychmiast tłumaczony dla gazet w całej Europie i USA.
+**FACT**: When the novel appeared in installments in the Parisian daily, each installment was eagerly awaited and immediately translated for newspapers throughout Europe and the USA.
 
-**FAKT**: "Dwadzieścia szanowanych gazet wyśmiało projekt Fogga jako szaleństwo", podczas gdy "tylko Daily Telegraph z wahaniem go poparł".
+**FACT**: "Twenty respectable newspapers ridiculed Fogg's project as madness," while "only the Daily Telegraph hesitantly supported it."
 
-**FAKT**: Publikacja w Le Temps dała Verne'owi trzy razy więcej czytelników niż Magasin d'éducation et de récréation.
+**FACT**: Publication in Le Temps gave Verne three times more readers than Magasin d'éducation et de récréation.
 
-**FAKT**: Manuskrypt powieści nosi datę 29 marca 1872, co pokazuje, że Verne pracował nad nim przez większość roku przed serialem.
+**FACT**: The novel's manuscript is dated March 29, 1872, showing that Verne worked on it for most of the year before the serial.
 
-## Rewolucyjne Aspekty Techniczne
+## Revolutionary Technical Aspects
 
-**FAKT**: W latach 70. XIX wieku linie telegraficzne biegły już praktycznie dookoła globu, umożliwiając śledzenie podróży Fogga w "czasie rzeczywistym".
+**FACT**: In the 1870s, telegraph lines already ran practically around the globe, enabling tracking of Fogg's journey in "real time."
 
-**FAKT**: Ukończenie kolei transkontynnentalnej w USA (1869), postęp w projektowaniu parowców i rozwój międzynarodowych tras sprawiły, że podróż stała się możliwa.
+**FACT**: The completion of the transcontinental railroad in the USA (1869), progress in steamship design, and development of international routes made the journey possible.
 
-**FAKT**: Verne dokładnie zbadał rozkłady jazdy i połączenia transportowe, tworząc realistyczną mapę podróży opartą na rzeczywistych możliwościach.
+**FACT**: Verne carefully researched timetables and transport connections, creating a realistic travel map based on actual possibilities.
 
-## Wpływ na Branżę Turystyczną
+## Impact on the Tourism Industry
 
-**FAKT**: Powieść pomogła spopularyzować turystykę masową i międzynarodowe podróże jako formę rozrywki, nie tylko konieczności.
+**FACT**: The novel helped popularize mass tourism and international travel as a form of entertainment, not just necessity.
 
-**FAKT**: Biura podróży, w tym Cook's, wykorzystywały popularność książki do promocji swoich usług.
+**FACT**: Travel agencies, including Cook's, used the book's popularity to promote their services.
 
-**PLOTKA**: Niektórzy historycy sugerują, że Thomas Cook mógł celowo "podrzucić" reklamę do gazety, wiedząc o zainteresowaniach Verne'a, ale brak na to dowodów.
+**RUMOR**: Some historians suggest that Thomas Cook might have deliberately "planted" the advertisement in the newspaper, knowing about Verne's interests, but there is no evidence for this.
 
 ---
 
-*Badanie opracowane na podstawie historycznych źródeł, wywiadów z Verne'em, dokumentów publikacyjnych i współczesnych relacji prasowych.*
+*Research compiled based on historical sources, interviews with Verne, publication documents, and contemporary press accounts.*

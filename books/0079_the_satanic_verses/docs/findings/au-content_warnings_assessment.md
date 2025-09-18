@@ -1,107 +1,107 @@
-# Ocena Content Warnings: "Szatańskie wersety" - Analiza zgodności z platformami społecznościowymi
+# Content Warnings Assessment: "The Satanic Verses" - Social Media Platform Compliance Analysis
 
-**Data analizy**: 29 sierpnia 2025  
-**Scope**: Ocena wszystkich materiałów researchu pod kątem zgodności z guidelines platform społecznościowych 2025  
-**Książka**: "Szatańskie wersety" (The Satanic Verses) - Salman Rushdie (1988)
-
----
-
-## Executive Summary - Poziom ryzyka
-
-### 🔴 CRITICAL RISK - Książka nienadająca się do standardowej promocji na platformach
-
-"Szatańskie wersety" to **najbardziej kontrowersyjna książka w historii literatury światowej**. Content wymaga **specjalnego traktowania** na wszystkich platformach ze względu na:
-
-- **35-letnią fatwę** wzywającą do zabicia autora (nadal obowiązująca)
-- **Ofiary śmiertelne** związane z książką (tłumacze, wydawcy)
-- **Atak na autora z 2022 roku** - potwierdzenie trwającego zagrożenia
-- **Ekstremalne kontrowersje religijne** wykraczające poza standardowe definicje hate speech
-- **Międzynarodowe zakazy** - książka zakazana w 14+ krajach
+**Analysis Date**: August 29, 2025
+**Scope**: Assessment of all research materials for compliance with 2025 social media platform guidelines
+**Book**: "The Satanic Verses" - Salman Rushdie (1988)
 
 ---
 
-## Matrix Ryzyka: Temat vs Platforma
+## Executive Summary - Risk Level
 
-| Problematyczny Content | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|-------------------------|----------|-----------|---------|---------|----------|------|
-| **Fatwa i groźby śmierci** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Bluźnierstwo religijne** | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED |
-| **Przemoc wobec tłumaczy** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Fundamentalizm islamski** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Kontrowersje seksualne** | 🟡 MED | 🟡 MED | 🟡 MED | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
-| **Polityka religijna** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+### 🔴 CRITICAL RISK - Book unsuitable for standard social media promotion
+
+"The Satanic Verses" is **the most controversial book in world literature history**. Content requires **special handling** on all platforms due to:
+
+- **35-year fatwa** calling for author's death (still active)
+- **Death toll** related to the book (translators, publishers)
+- **2022 attack on author** - confirmation of ongoing threat
+- **Extreme religious controversies** exceeding standard hate speech definitions
+- **International bans** - book banned in 14+ countries
+
+---
+
+## Risk Matrix: Topic vs Platform
+
+| Problematic Content | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|---------------------|----------|-----------|---------|---------|----------|------|
+| **Fatwa and death threats** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Religious blasphemy** | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED |
+| **Violence against translators** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Islamic fundamentalism** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Sexual controversies** | 🟡 MED | 🟡 MED | 🟡 MED | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
+| **Religious politics** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
 | **Historical terrorism** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Realizm magiczny** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Magical realism** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
 
 ---
 
-## Analiza Platform - Szczegółowe Oceny
+## Platform Analysis - Detailed Assessments
 
 ### 🔴 FACEBOOK/META (Facebook + Instagram) - EXTREME HIGH RISK
 
-#### Dlaczego EKSTREMALNIE wysoki ryzyko:
-1. **Nowe liberalne polityki hate speech** - dozwolone nazywanie osób trans "it", kobiet "household objects"
-2. **Unpredictable moderation** - Community Notes zastąpiły fact-checking
-3. **Wysokie ryzyko** dla controversial content o tematyce religijnej
-4. **Islamic fundamentalism** może być interpretowany jako hate speech przeciwko społeczności
+#### Why EXTREMELY high risk:
+1. **New liberal hate speech policies** - allowing calling trans people "it", women "household objects"
+2. **Unpredictable moderation** - Community Notes replaced fact-checking
+3. **High risk** for controversial religious content
+4. **Islamic fundamentalism** may be interpreted as hate speech against community
 
-#### Rekomendacje dla Meta:
-- **❌ NIE PUBLIKUJ** content bezpośrednio o bluźnierstwach w książce
-- **❌ UNIKAJ** omawiania fatwy i przemocy religijnej  
-- **⚠️ TYLKO** jeśli: purely academic, educational context o wolności słowa
-- **✅ FOCUS ON** literackich innowacjach, realizmie magicznym, imigracji
+#### Recommendations for Meta:
+- **❌ DO NOT PUBLISH** content directly about blasphemies in the book
+- **❌ AVOID** discussing fatwa and religious violence
+- **⚠️ ONLY** if: purely academic, educational context about freedom of speech
+- **✅ FOCUS ON** literary innovations, magical realism, immigration
 
-#### Alternatywny approach:
+#### Alternative approach:
 ```
-❌ "Szatańskie wersety - kontrowersje religijne"
-✅ "Rushdie i realizm magiczny - innowacje w literaturze brytyjsko-indyjskiej"
-✅ "Literatura imigrancka - jak autorzy opisują doświadczenie 'między światami'"
+❌ "The Satanic Verses - religious controversies"
+✅ "Rushdie and magical realism - innovations in British-Indian literature"
+✅ "Immigrant literature - how authors describe 'between worlds' experience"
 ```
 
 ---
 
-### 🟡 YOUTUBE - MEDIUM-HIGH RISK (z proper strategy)
+### 🟡 YOUTUBE - MEDIUM-HIGH RISK (with proper strategy)
 
-#### Dlaczego medium risk:
-1. **Educational content** ma większe przyzwolenie na controversial topics
-2. **Long-form preferred** - możliwość proper context
+#### Why medium risk:
+1. **Educational content** has greater tolerance for controversial topics
+2. **Long-form preferred** - possibility for proper context
 3. **Human narration required** - no AI voice-overs
-4. **Original commentary** dominujące nad quoted material
+4. **Original commentary** dominating over quoted material
 
-#### Rekomendacje dla YouTube:
-- **✅ MOŻE BYĆ** jako academic analysis z proper disclaimers
-- **✅ FOCUS ON** literary techniques, postcolonial literature, immigration themes  
-- **⚠️ CAREFUL** z direct quotes o religijnych kontrowersjach
-- **✅ FRAME** jako historical analysis, nie contemporary religious debate
+#### Recommendations for YouTube:
+- **✅ CAN BE** academic analysis with proper disclaimers
+- **✅ FOCUS ON** literary techniques, postcolonial literature, immigration themes
+- **⚠️ CAREFUL** with direct quotes about religious controversies
+- **✅ FRAME** as historical analysis, not contemporary religious debate
 
-#### Content strategy dla YouTube:
+#### Content strategy for YouTube:
 ```
-✅ "Historia literatury: Jak 'Szatańskie wersety' zmieniły postkolonialną narrację"
-✅ "Realizm magiczny - od García Márqueza do Rushdiego"
-✅ "Literatura imigrancka w Brytanii lat 80. - kontekst społeczny"
-⚠️ "Fatwa przeciwko Rushdiemu - historia wolności słowa" (z disclaimers)
+✅ "Literature history: How 'The Satanic Verses' changed postcolonial narrative"
+✅ "Magical realism - from García Márquez to Rushdie"
+✅ "Immigrant literature in 1980s Britain - social context"
+⚠️ "Fatwa against Rushdie - history of freedom of speech" (with disclaimers)
 ```
 
 ---
 
-### 🟡 TIKTOK - MEDIUM RISK (tylko długie formy)
+### 🟡 TIKTOK - MEDIUM RISK (long-form only)
 
-#### Dlaczego medium risk:
-1. **1+ minuta required** dla monetization
+#### Why medium risk:
+1. **1+ minute required** for monetization
 2. **Original commentary only** - no duets/stitches
 3. **Educational framing preferred**
 4. **70% rejection rate** - strict compliance
 
-#### Rekomendacje dla TikTok:
-- **✅ MOŻE BYĆ** jako educational content o literary innovation
-- **✅ FOCUS ON** immigration themes relatable do Gen Z
+#### Recommendations for TikTok:
+- **✅ CAN BE** educational content about literary innovation
+- **✅ FOCUS ON** immigration themes relatable to Gen Z
 - **⚠️ AVOID** direct religious controversies
-- **✅ CONNECT** do contemporary identity issues (bardzo popularne na TikTok)
+- **✅ CONNECT** to contemporary identity issues (very popular on TikTok)
 
 #### TikTok content ideas:
 ```
 ✅ "How this 1988 book predicted modern identity crisis" (1.5 min)
-✅ "Magical realism explained through pop culture" (2 min)  
+✅ "Magical realism explained through pop culture" (2 min)
 ✅ "Immigration stories that changed literature" (1.2 min)
 ⚠️ AVOID short-form about fatwa/terrorism
 ```
@@ -110,60 +110,60 @@
 
 ### 🟢 SPOTIFY - LOW-MEDIUM RISK (Creator-friendly)
 
-#### Dlaczego niski ryzyko:
+#### Why low risk:
 1. **Most book-friendly platform**
 2. **Educational content** generally protected
-3. **Video format** dla higher monetization
+3. **Video format** for higher monetization
 4. **Cross-platform encouraged**
 
-#### Rekomendacje dla Spotify:
-- **✅ SAFE** dla comprehensive literary discussion
-- **✅ MOŻE** discuss controversial aspects w educational context
-- **✅ VIDEO FORMAT** zalecany dla maximum revenue
-- **⚠️ NO copyrighted audiobook clips** bez permission
+#### Recommendations for Spotify:
+- **✅ SAFE** for comprehensive literary discussion
+- **✅ CAN** discuss controversial aspects in educational context
+- **✅ VIDEO FORMAT** recommended for maximum revenue
+- **⚠️ NO copyrighted audiobook clips** without permission
 
 #### Spotify content strategy:
 ```
-✅ "Literatura postkolonialna - kompletny przewodnik" (seria)
-✅ "Rushdie i realizm magiczny - analiza literacka"
-✅ "Historia wolności słowa w literaturze" (z proper context)
-✅ "Od Mistrza i Małgorzaty do Szatańskich wersetów"
+✅ "Postcolonial literature - complete guide" (series)
+✅ "Rushdie and magical realism - literary analysis"
+✅ "History of freedom of speech in literature" (with proper context)
+✅ "From Master and Margarita to The Satanic Verses"
 ```
 
 ---
 
 ### 🟢 KICK - LOWEST RISK (Most creator-friendly)
 
-#### Dlaczego najniższy ryzyko:
+#### Why lowest risk:
 1. **95/5 revenue split** - best for creators
 2. **Less restrictive content policies**
 3. **Creator-first approach**
-4. **Interactive community building** możliwe
+4. **Interactive community building** possible
 
-#### Rekomendacje dla Kick:
-- **✅ COMPLETELY SAFE** dla any literary discussion
-- **✅ MOŻE** discuss all controversial aspects openly
-- **✅ BEST PLATFORM** dla comprehensive analysis
-- **✅ INTERACTIVE DISCUSSIONS** z community
+#### Recommendations for Kick:
+- **✅ COMPLETELY SAFE** for any literary discussion
+- **✅ CAN** discuss all controversial aspects openly
+- **✅ BEST PLATFORM** for comprehensive analysis
+- **✅ INTERACTIVE DISCUSSIONS** with community
 
 ---
 
 ## Age Rating Matrix
 
 ### 13+ Content (Safe cross-platform):
-- ❌ **BRAK** - żadna część tej książki nie nadaje się dla 13+
-- Powód: ekstremalne kontrowersje religijne, przemoc, fatwa
+- ❌ **NONE** - no part of this book is suitable for 13+
+- Reason: extreme religious controversies, violence, fatwa
 
 ### 16+ Content (Age-restrict recommended):
-- ⚠️ **OGRANICZONE** - tylko academic context
+- ⚠️ **LIMITED** - only academic context
 - Focus: literary techniques, immigration themes, magical realism
 - AVOID: religious controversies, fatwa details, violence
 
 ### 18+ Content (Adult audience only):
-- ✅ **RECOMMENDED TARGET** 
-- Pełna analiza możliwa dla mature audience
-- Educational context nadal wymagany
-- Proper disclaimers o historical violence
+- ✅ **RECOMMENDED TARGET**
+- Full analysis possible for mature audience
+- Educational context still required
+- Proper disclaimers about historical violence
 
 ### 21+ Content (Mature academic audience):
 - ✅ **OPTIMAL TARGET**
@@ -175,32 +175,32 @@
 
 ## Content Warnings Framework
 
-### Universal Warnings (wszystkie platformy):
+### Universal Warnings (all platforms):
 ```
-⚠️ CONTENT WARNING: Ten materiał omawia historycznie kontrowersyjną książkę, 
-która była przedmiotem międzynarodowych sporów religijnych i politycznych.
+⚠️ CONTENT WARNING: This material discusses a historically controversial book
+that was subject to international religious and political disputes.
 
-⚠️ Materiał zawiera odniesienia do:
-- Historycznej przemocy wobec osób związanych z publikacją
-- Kontrowersji religijnych z lat 1988-2025
-- Złożonych tematów tożsamości kulturowej i religijnej
+⚠️ Material contains references to:
+- Historical violence against people associated with publication
+- Religious controversies from 1988-2025
+- Complex themes of cultural and religious identity
 
-⚠️ Prezentowane informacje mają charakter edukacyjny i historyczny.
+⚠️ Information presented is educational and historical in nature.
 ```
 
 ### Platform-specific warnings:
 
 #### Meta (Facebook/Instagram):
 ```
-📚 EDUKACJA: Analiza literacka dzieła akademickiego
-🎓 KONTEKST: Historia literatury postkolonialnej
-⚠️ Materiał nie zawiera treści promujących przemoc lub hate speech
+📚 EDUCATION: Literary analysis of academic work
+🎓 CONTEXT: History of postcolonial literature
+⚠️ Material does not contain content promoting violence or hate speech
 ```
 
 #### YouTube:
 ```
 🎓 EDUCATIONAL CONTENT: Literary analysis for academic purposes
-📖 HISTORICAL CONTEXT: Discussion of 1988-2025 literary controversies  
+📖 HISTORICAL CONTEXT: Discussion of 1988-2025 literary controversies
 ⚠️ Content includes historical references to religious and political conflicts
 👨‍🏫 PRESENTER: [Name], [Credentials in Literature/History]
 ```
@@ -230,37 +230,37 @@ która była przedmiotem międzynarodowych sporów religijnych i politycznych.
 
 ---
 
-## Strategia Tematyczna dla Każdej Platformy
+## Thematic Strategy for Each Platform
 
-### Strategy 1: "Literary Innovation Focus" (najszersza)
-**Safe dla**: YouTube, Spotify, Kick, częściowo Meta
-**Focus**: Techniki pisarskie, realizm magiczny, innowacje narracyjne
-**AVOID**: Szczegóły religijnych kontrowersji
+### Strategy 1: "Literary Innovation Focus" (broadest)
+**Safe for**: YouTube, Spotify, Kick, partially Meta
+**Focus**: Writing techniques, magical realism, narrative innovations
+**AVOID**: Details of religious controversies
 
-### Strategy 2: "Immigration & Identity Focus" (bardzo aktualna)
-**Safe dla**: Wszystkie platformy
-**Focus**: Doświadczenia imigranckie, kryzys tożsamości, wielokulturowość
-**Connect do**: Gen Z identity issues, modern immigration
+### Strategy 2: "Immigration & Identity Focus" (very current)
+**Safe for**: All platforms
+**Focus**: Immigration experiences, identity crisis, multiculturalism
+**Connect to**: Gen Z identity issues, modern immigration
 
-### Strategy 3: "Postcolonial Literature Focus" (akademicka)
-**Safe dla**: YouTube, Spotify, Kick
-**Focus**: Literatura postkolonialna, historia Indii, Brexit context
+### Strategy 3: "Postcolonial Literature Focus" (academic)
+**Safe for**: YouTube, Spotify, Kick
+**Focus**: Postcolonial literature, Indian history, Brexit context
 **Target**: University students, literature enthusiasts
 
-### Strategy 4: "Freedom of Speech Focus" (kontrowersyjna ale ważna)
-**Safe dla**: Spotify, Kick, ostrożnie YouTube
-**Focus**: Historia wolności słowa, censorship, academic freedom
+### Strategy 4: "Freedom of Speech Focus" (controversial but important)
+**Safe for**: Spotify, Kick, carefully YouTube
+**Focus**: History of freedom of speech, censorship, academic freedom
 **Frame**: Historical analysis, not contemporary religious debate
 
 ---
 
-## Red Flags - Absolutely Avoid na wszystkich platformach
+## Red Flags - Absolutely Avoid on all platforms
 
 ### ❌ NEVER MENTION:
-1. **Specific Quranic verses** które były kontrowersyjne
+1. **Specific Quranic verses** that were controversial
 2. **Detailed descriptions** of violence against translators
 3. **Current bounty amount** on Rushdie's head ($3.3M)
-4. **Specific Islamic religious figures** poza historical context
+4. **Specific Islamic religious figures** outside historical context
 5. **Encouragement** to read book "to provoke" anyone
 6. **Contemporary religious debates** or comparisons
 7. **AI-generated** Islamic or religious imagery
@@ -268,29 +268,29 @@ która była przedmiotem międzynarodowych sporów religijnych i politycznych.
 
 ### ❌ AVOID PHRASES:
 - "This book that Muslims hate"
-- "Blasphemous masterpiece"  
+- "Blasphemous masterpiece"
 - "Why this book is banned"
-- "The truth about Islam" 
+- "The truth about Islam"
 - "Religious people won't want you to read this"
 
 ---
 
-## Green Lights - Safe Topics na wszystkich platformach
+## Green Lights - Safe Topics on all platforms
 
 ### ✅ ALWAYS SAFE:
 1. **Magical realism techniques** and literary innovation
-2. **Immigration experiences** and cultural adaptation  
-3. **Literary comparison** z innymi autorami (García Márquez, Bulgakov)
+2. **Immigration experiences** and cultural adaptation
+3. **Literary comparison** with other authors (García Márquez, Bulgakov)
 4. **Academic literary analysis** of structure and style
 5. **Historical context** of 1980s Britain and India
 6. **Author's other works** and literary career
 7. **Postcolonial literature** as academic field
-8. **Translation challenges** w linguistic hybridity
+8. **Translation challenges** in linguistic hybridity
 
 ### ✅ SAFE PHRASES:
 - "Innovative postcolonial literature"
 - "Magical realism masterwork"
-- "Complex exploration of identity" 
+- "Complex exploration of identity"
 - "Literary techniques of cultural hybridity"
 - "Academic analysis of controversial literature"
 - "Historical significance in world literature"
@@ -301,56 +301,56 @@ która była przedmiotem międzynarodowych sporów religijnych i politycznych.
 
 ### Academic Framing Options:
 
-#### Option 1: Literatura Porównawcza
+#### Option 1: Comparative Literature
 ```
-"Realizm magiczny w literaturze światowej: od Borgesa przez García Márqueza 
-do Rushdiego - jak autorzy używają fantastyki do opisu rzeczywistości"
+"Magical realism in world literature: from Borges through García Márquez
+to Rushdie - how authors use fantasy to describe reality"
 ```
 
-#### Option 2: Studies of Immigration  
+#### Option 2: Immigration Studies
 ```
-"Literatura imigrancka w Wielkiej Brytanii: jak pisarze opisują doświadczenie 
-życia między kulturami w XX wieku"
+"Immigrant literature in Great Britain: how writers describe the experience
+of living between cultures in the 20th century"
 ```
 
 #### Option 3: Literary Innovation
 ```
-"Postmodernistyczne techniki narracyjne: jak współcześni pisarze łamią 
-tradycyjne formy opowiadania"
+"Postmodernist narrative techniques: how contemporary writers break
+traditional storytelling forms"
 ```
 
 #### Option 4: Historical Literary Controversies
 ```
-"Wolność słowa w literaturze: historia sporów o granice wyrażania 
-artystycznego w XX i XXI wieku"
+"Freedom of speech in literature: history of disputes over the boundaries
+of artistic expression in the 20th and 21st centuries"
 ```
 
 ---
 
 ## Platform Compliance Checklist
 
-### Before Publishing na jakiejkolwiek platformie:
+### Before Publishing on any platform:
 
 #### ✅ Content Requirements:
 - [ ] **Educational context** clearly established
-- [ ] **Academic credentials** or expertise indicated  
+- [ ] **Academic credentials** or expertise indicated
 - [ ] **Historical framing** not contemporary religious debate
 - [ ] **Appropriate age rating** (18+ minimum)
 - [ ] **Content warnings** properly displayed
 - [ ] **No copyrighted material** used without permission
-- [ ] **Original commentary** dominuje nad quotes
-- [ ] **Fact-checking** wszystkich historical claims
+- [ ] **Original commentary** dominates over quotes
+- [ ] **Fact-checking** of all historical claims
 
 #### ✅ Platform-Specific:
 - [ ] **Meta**: Extreme caution, purely academic approach
-- [ ] **YouTube**: Human narration, original value-add, proper disclaimers  
+- [ ] **YouTube**: Human narration, original value-add, proper disclaimers
 - [ ] **TikTok**: 1+ minute, original content, educational hashtags
 - [ ] **Spotify**: Video format preferred, no copyrighted audio clips
 - [ ] **Kick**: Interactive engagement, community building approach
 
 #### ✅ Legal & Safety:
 - [ ] **No incitement** to religious hatred or violence
-- [ ] **No personal attacks** on religious communities  
+- [ ] **No personal attacks** on religious communities
 - [ ] **Clear educational purpose** stated
 - [ ] **Historical accuracy** verified
 - [ ] **Cultural sensitivity** maintained throughout
@@ -368,7 +368,7 @@ artystycznego w XX i XXI wieku"
 4. **Remove** any potentially inflammatory elements immediately
 
 #### Platform Appeals:
-1. **YouTube**: Educational content policy protection  
+1. **YouTube**: Educational content policy protection
 2. **Meta**: Academic context and freedom of expression
 3. **TikTok**: Educational community guidelines
 4. **Spotify**: Podcast content policy for educational material
@@ -385,8 +385,8 @@ artystycznego w XX i XXI wieku"
 ## Final Recommendations: GO/NO-GO Decision Matrix
 
 ### 🔴 NO-GO Scenarios:
-- Small channel bez academic credentials
-- Content targeted at under-18 audience  
+- Small channel without academic credentials
+- Content targeted at under-18 audience
 - Provocative or clickbait approach
 - Focus on religious controversies over literary merit
 - Any intention to "trigger" or provoke religious communities
@@ -394,7 +394,7 @@ artystycznego w XX i XXI wieku"
 ### 🟡 PROCEED WITH CAUTION:
 - Medium-sized educational channel with proper disclaimers
 - University-affiliated content creators
-- Focus on literary innovation and academic analysis  
+- Focus on literary innovation and academic analysis
 - Target audience 18+ with interest in literature
 - Long-form, thoughtful analysis format
 
@@ -403,28 +403,28 @@ artystycznego w XX i XXI wieku"
 - Established literature/book channel with mature audience
 - Focus purely on literary techniques and historical context
 - Long-form educational content (10+ minutes for video)
-- Partnership z educational institutions
+- Partnership with educational institutions
 
 ---
 
 ## Summary: Strategic Recommendation
 
-### **BOTTOM LINE**: 
+### **BOTTOM LINE**:
 
-"Szatańskie wersety" to **highest-risk book** w całym portfolio 37degrees. Rekomendacja to **specialized treatment** tylko dla:
+"The Satanic Verses" is the **highest-risk book** in the entire 37degrees portfolio. Recommendation is **specialized treatment** only for:
 
 1. **Mature academic audiences** (21+)
-2. **Established educational creators** z credentials
-3. **Focus on literary innovation** nie religious controversy
-4. **Long-form thoughtful analysis** nie viral content
-5. **Creator-friendly platforms** (Spotify, Kick) jako primary, inne jako secondary
+2. **Established educational creators** with credentials
+3. **Focus on literary innovation** not religious controversy
+4. **Long-form thoughtful analysis** not viral content
+5. **Creator-friendly platforms** (Spotify, Kick) as primary, others as secondary
 
 ### **SUCCESS PATHWAY**:
 
-Zacząć od **Spotify podcast series** o postcolonial literature, gdzie jeden odcinek poświęcić Rushdie w context of literary innovation. Następnie **Kick livestreams** z interactive literary discussions. YouTube i Meta jako **ostatnie**, z extreme caution i academic framing.
+Start with **Spotify podcast series** on postcolonial literature, where one episode covers Rushdie in context of literary innovation. Then **Kick livestreams** with interactive literary discussions. YouTube and Meta as **last resort**, with extreme caution and academic framing.
 
-**Key message**: "To nie jest książka o islamie - to literatura o migracji, metamorfozie i poszukiwaniu tożsamości w globalnym świecie."
+**Key message**: "This is not a book about Islam - it's literature about migration, metamorphosis and the search for identity in a global world."
 
 ---
 
-*Dokument przygotowany na podstawie kompletnej analizy 8 dokumentów researchu oraz aktualnych guidelines platform społecznościowych na 2025 rok. Wszystkie rekomendacje uwzględniają zarówno artystyczne znaczenie dzieła, jak i real-world safety concerns dla content creators.*
+*Document prepared based on comprehensive analysis of 8 research documents and current social media platform guidelines for 2025. All recommendations consider both the artistic significance of the work and real-world safety concerns for content creators.*

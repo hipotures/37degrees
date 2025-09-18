@@ -1,144 +1,144 @@
-# Kandyd - Lokalny kontekst kulturowy dla polskich słuchaczy
+# Candide - Local Cultural Context for Polish Listeners
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze polskie wydania
-- **1780 rok**: Pierwsze polskie wydanie w przekładzie Jacka Idziego Przybylskiego, jeszcze za czasów I Rzeczypospolitej
-- **1931 rok**: Słynny przekład Tadeusza Boya-Żeleńskiego wydany w prestiżowej serii "Biblioteka Boya"
-- **Współczesność**: Dzieło dostępne w różnych wydawnictwach (PWN, Iskry, Legimi), głównie w przekładzie Boya
+### First Polish Editions
+- **1780**: First Polish edition translated by Jacek Idzi Przybylski, still during the Polish-Lithuanian Commonwealth
+- **1931**: Famous translation by Tadeusz Boy-Żeleński published in the prestigious "Boy's Library" series
+- **Contemporary**: Available in various publishing houses (PWN, Iskry, Legimi), mainly in Boy's translation
 
-### Wpływ na polskie Oświecenie
-- Warszawskie periodyki publikowały tłumaczenia dzieł Voltaire'a i polemiki z jego myślą
-- Stanisław Leszczyński i Stanisław August Poniatowski korespondowali z Voltaire'em
-- Tragedie Voltaire'a należały do najchętniej wystawianych od połowy XVIII wieku do lat 20. XIX wieku
-- Przedstawiciele polskiego Oświecenia (A. Naruszewicz, J. Szymanowski, T.K. Węgierski, S. Trembecki) tłumaczyli i propagowali jego dzieła
+### Impact on Polish Enlightenment
+- Warsaw periodicals published translations of Voltaire's works and polemics with his ideas
+- Stanisław Leszczyński and Stanisław August Poniatowski corresponded with Voltaire
+- Voltaire's tragedies were among the most frequently staged from mid-18th century to the 1820s
+- Representatives of Polish Enlightenment (A. Naruszewicz, J. Szymanowski, T.K. Węgierski, S. Trembecki) translated and promoted his works
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Tadeusz Boy-Żeleński (1874-1941)
-- **Znany jako**: "Szekspir przekładu", tłumacz ponad 100 francuskich klasyk
-- **Styl przekładu**: Potrafił oddać ducha dzieł poprzez stworzenie języka i stylu polskiego klasycyzmu
-- **Charakterystyka**: Zachowywał nie tylko treść oryginału, ale wzbogacał przekład o odpowiedni rytm, melodię i brzmienie
-- **Uznanie**: W 1914 roku otrzymał palmy Akademii Francuskiej za przekład dzieł Moliera
+- **Known as**: "The Shakespeare of translation", translator of over 100 French classics
+- **Translation style**: Could capture the spirit of works by creating a language and style of Polish classicism
+- **Characteristics**: Preserved not only the content of the original but enriched translations with appropriate rhythm, melody and sound
+- **Recognition**: In 1914 received palms from the French Academy for his translation of Molière's works
 
-### Jacek Idzi Przybylski (XVIII wiek)
-- **Problemy stylistyczne**: Krytykowany za tendencję do używania zbyt wielu amplifikacji i neologizmów
-- **Podejście do nazw własnych**: Przenosił i polonizował imiona (np. Kandyd zamiast Candide)
-- **Kontekst historyczny**: Działał w okresie ważnym dla historii polskiego przekładu, gdy toczyły się pierwsze dyskusje o sztuce tłumaczenia
+### Jacek Idzi Przybylski (18th century)
+- **Stylistic problems**: Criticized for tendency to use too many amplifications and neologisms
+- **Approach to proper names**: Transferred and polonized names (e.g. Kandyd instead of Candide)
+- **Historical context**: Active during a period important for the history of Polish translation, when first discussions about the art of translation were taking place
 
-## Kandyd w polskich szkołach
+## Candide in Polish Schools
 
-### Status lektury
-- **Lektura szkolna**: Figuruje na listach lektur licealnych i technicznych
-- **Matura 2025**: Znajduje się na oficjalnej liście lektur maturalnych
-- **Forma w szkołach**: Często czytany we fragmentach, rzadziej w całości
+### Reading List Status
+- **School reading**: Appears on high school and technical school reading lists
+- **2025 High School Exam**: Listed on the official exam reading list
+- **Form in schools**: Often read in fragments, rarely in its entirety
 
-### Cel edukacyjny
-- **Filozofia Oświecenia**: Służy popularyzacji filozofii oświeceniowej
-- **Krytyka myślenia**: Uczy krytycznego podejścia do przesądów i utartych poglądów
-- **Analiza literacka**: Przykład powiastki filozoficznej jako gatunku
+### Educational Purpose
+- **Enlightenment Philosophy**: Serves to popularize Enlightenment philosophy
+- **Critical thinking**: Teaches critical approach to prejudices and established views
+- **Literary analysis**: Example of philosophical tale as a genre
 
-### Problematyka szkolna
-- Krytyka asercji Leibniza o najlepszym z możliwych światów
-- Krytyka przesądów, instytucji Kościoła i filozofii scholastycznej
-- Propagowanie tolerancji i racjonalizmu
+### School Topics
+- Criticism of Leibniz's assertion about the best of all possible worlds
+- Criticism of prejudices, Church institutions and scholastic philosophy
+- Promoting tolerance and rationalism
 
-## Polskie adaptacje teatralne
+## Polish Theatrical Adaptations
 
-### Teatr Groteska w Krakowie (2004)
-- **Premiera**: 18 grudnia 2004
-- **Reżyseria**: Paweł Aigner
-- **Przekład**: Tadeusz Boy-Żeleński
-- **Adaptacja sceniczna**: Krzysztof Orzechowski i Maciej Wojtyszko
-- **Obsada**: Andrzej Kopczyk (Kandyd), Olga Przeklasa-Wójcik (Kunegunda), Krzysztof Prystupa (Pangloss)
-- **Sukces**: Spektakl doczekał się setnego przedstawienia
+### Groteska Theater in Krakow (2004)
+- **Premiere**: December 18, 2004
+- **Direction**: Paweł Aigner
+- **Translation**: Tadeusz Boy-Żeleński
+- **Stage adaptation**: Krzysztof Orzechowski and Maciej Wojtyszko
+- **Cast**: Andrzej Kopczyk (Candide), Olga Przeklasa-Wójcik (Cunégonde), Krzysztof Prystupa (Pangloss)
+- **Success**: The show reached its hundredth performance
 
-### Inne teatry
-- **Teatr Ateneum w Warszawie**: Adaptacja Krzysztofa Orzechowskiego i Macieja Wojtyszki
-- **Teatr im. Adama Mickiewicza w Częstochowie**: Realizacja w przekładzie Boya-Żeleńskiego
+### Other Theaters
+- **Ateneum Theater in Warsaw**: Adaptation by Krzysztof Orzechowski and Maciej Wojtyszko
+- **Adam Mickiewicz Theater in Częstochowa**: Production in Boy-Żeleński's translation
 
-### Recepcja teatralna
-- Widzowie są zachwyceni aktualnością tekstu z klasycznej literatury
-- Spektakle "zadziwiają aktualnością, wzruszają, zachwycają i bawią"
+### Theatrical Reception
+- Audiences are delighted by the relevance of the text from classical literature
+- Performances "amaze with their relevance, move, delight and entertain"
 
-## Polskie nawiązania kulturowe
+## Polish Cultural References
 
-### Kultowe cytaty funkcjonujące w Polsce
-- **"Trzeba uprawiać nasz ogródek"** - przysłowie oznaczające skupienie się na własnych sprawach
-- **"Praca oddala od nas trzy wielkie niedole: nudę, występek i ubóstwo"** - często cytowany aforyzm
-- **"To obłęd dowodzenia, że wszystko jest dobrze, kiedy nam się dzieje źle"** - krytyka ślepego optymizmu
+### Cult Quotes Functioning in Poland
+- **"We must cultivate our garden"** - proverb meaning focusing on one's own affairs
+- **"Work keeps us away from three great evils: boredom, vice and poverty"** - frequently quoted aphorism
+- **"It is madness to prove that all is well when we are experiencing evil"** - criticism of blind optimism
 
-### Przysłowiowe postaci
-- **Pangloss**: Stał się przysłowiową postacią filozofa, który mimo walących się nieszczęść utrzymuje, że "wszystko jest najlepsze na najlepszym ze światów"
-- **"Panglossizm"**: W polskiej kulturze oznacza naiwny optymizm wobec rzeczywistości
+### Proverbial Characters
+- **Pangloss**: Became a proverbial figure of a philosopher who, despite falling disasters, maintains that "all is for the best in the best of all worlds"
+- **"Panglossism"**: In Polish culture means naive optimism toward reality
 
-### Wyrażenia w kulturze popularnej
-- **"Najlepszy z możliwych światów"**: Używane ironicznie w dyskusjach o rzeczywistości
-- **"Uprawiać swój ogródek"**: Metafora praktycznego działania zamiast filozofowania
+### Expressions in Popular Culture
+- **"Best of all possible worlds"**: Used ironically in discussions about reality
+- **"Cultivate one's garden"**: Metaphor for practical action instead of philosophizing
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Scholars
 
-### Uniwersyteckie badania
-- **Uniwersytet Jagielloński**: "Optymizm Kandyda oraz inne problemy oświeconych tłumaczy"
-- **Uniwersytety we Wrocławiu i Lublinie**: Prace nad recepcją Voltaire'a w Polsce
-- **Badania translatoryczne**: Analiza różnych strategii tłumaczeniowych nazw własnych
+### University Research
+- **Jagiellonian University**: "Candide's Optimism and Other Problems of Enlightened Translators"
+- **Universities in Wrocław and Lublin**: Works on the reception of Voltaire in Poland
+- **Translation studies**: Analysis of different translation strategies for proper names
 
-### Problematyka akademicka
-- **Horyzont translatoryczny**: Wpływ czynników kulturowych na wybór strategii przekładowych
-- **Antroponimy**: Badania nad traktowaniem nazw własnych w różnych okresach
-- **Kontekst filozoficzny**: Analiza sporu z filozofią Leibniza i jej wpływu na polską myśl
+### Academic Issues
+- **Translation horizon**: Influence of cultural factors on the choice of translation strategies
+- **Anthroponyms**: Research on the treatment of proper names in different periods
+- **Philosophical context**: Analysis of the dispute with Leibniz's philosophy and its impact on Polish thought
 
-### Interpretacje filozoficzne
-- **Krytyka teodycei**: Polscy badacze analizują Voltaire'owską krytykę Leibnizowskiego "najlepszego ze światów"
-- **Alegoria ogrodów**: Różne hipotezy dotyczące znaczenia zakończenia (Eden, Wielka Encyklopedia Francuska)
-- **Satira społeczna**: Interpretacje jako krytyka XVIII-wiecznego społeczeństwa
+### Philosophical Interpretations
+- **Criticism of theodicy**: Polish researchers analyze Voltaire's criticism of Leibnizian "best of worlds"
+- **Garden allegory**: Different hypotheses regarding the meaning of the ending (Eden, Great French Encyclopedia)
+- **Social satire**: Interpretations as criticism of 18th-century society
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania XVIII wieku (Przybylski)
-- **Amplifikacje**: Tendencja do nadmiernego rozbudowywania tekstu
-- **Neologizmy**: Tworzenie nowych słów dla francuskich pojęć
-- **Polonizacja**: Adaptowanie nazw własnych do polskich wzorców
+### 18th Century Challenges (Przybylski)
+- **Amplifications**: Tendency to excessively expand the text
+- **Neologisms**: Creating new words for French concepts
+- **Polonization**: Adapting proper names to Polish patterns
 
-### Współczesne podejście (Boy-Żeleński)
-- **Wierność**: Zachowanie oryginalnego brzmienia nazw własnych
-- **Rytm i melodia**: Odtwarzanie nie tylko treści, ale i muzyczności oryginału
-- **Styl klasycystyczny**: Tworzenie polskiego odpowiednika francuskiej elegancji
+### Contemporary Approach (Boy-Żeleński)
+- **Fidelity**: Preserving the original sound of proper names
+- **Rhythm and melody**: Recreating not only content but also the musicality of the original
+- **Classical style**: Creating a Polish equivalent of French elegance
 
-### Różnice kulturowe w odbiorze
-- **Kontekst religijny**: Krytyka Kościoła odbierana w Polsce inaczej niż we Francji
-- **Tradycja filozoficzna**: Brak tradycji racjonalizmu cartezjańskiego
-- **Kontekst polityczny**: Recepcja w czasach rozbiorów a współczesna interpretacja
+### Cultural Differences in Reception
+- **Religious context**: Criticism of the Church received differently in Poland than in France
+- **Philosophical tradition**: Lack of tradition of Cartesian rationalism
+- **Political context**: Reception during partitions vs. contemporary interpretation
 
-## Specyfika krakowska i małopolska
+## Krakow and Lesser Poland Specificity
 
-### Związki z Krakowem
-- **Teatr Groteska**: Najważniejsza współczesna adaptacja teatralna powstała w Krakowie
-- **Środowisko akademickie**: Kraków jako ośrodek badań nad literaturą francuską
-- **Tradycja tłumaczeniowa**: Kontynuacja tradycji Boya-Żeleńskiego w krakowskim środowisku
+### Connections with Krakow
+- **Groteska Theater**: Most important contemporary theatrical adaptation created in Krakow
+- **Academic environment**: Krakow as a center for French literature research
+- **Translation tradition**: Continuation of Boy-Żeleński's tradition in Krakow environment
 
-### Małopolski kontekst kulturowy
-- **Tradycja intelektualna**: Małopolska jako region o silnych tradycjach humanistycznych
-- **Recepcja Oświecenia**: Szczególne znaczenie idei tolerancji i racjonalizmu
-- **Współczesne odczytania**: Aktualizacja przesłania o praktycznym działaniu
+### Lesser Poland Cultural Context
+- **Intellectual tradition**: Lesser Poland as a region with strong humanistic traditions
+- **Enlightenment reception**: Special significance of ideas of tolerance and rationalism
+- **Contemporary readings**: Updating the message about practical action
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specificity
 
-### Społeczności czytelnikom
-- **Lubimyczytac.pl**: Aktywne dyskusje o różnych wydaniach i tłumaczeniach
-- **Grupy szkolne**: Młodzież dzieląca się interpretacjami na potrzeby matury
-- **Społeczność akademicka**: Badacze literatury francuskiej i teorii przekładu
+### Reader Communities
+- **Lubimyczytac.pl**: Active discussions about different editions and translations
+- **School groups**: Youth sharing interpretations for high school exam needs
+- **Academic community**: Researchers of French literature and translation theory
 
-### Polskie interpretacje specyficzne
-- **Kontekst historyczny**: Odczytywanie w kontekście polskich doświadczeń historycznych
-- **Przesłanie praktyczne**: Szczególne docenianie końcowego "uprawiajmy nasz ogródek"
-- **Krytyka ideologii**: Uniwersalne przesłanie krytyki ślepej wiary w systemy
+### Specific Polish Interpretations
+- **Historical context**: Reading in the context of Polish historical experiences
+- **Practical message**: Special appreciation of the final "let us cultivate our garden"
+- **Ideology criticism**: Universal message of criticizing blind faith in systems
 
-### Cytaty w polskiej kulturze internetowej
-- **Memy filozoficzne**: Pangloss jako przykład naiwnego optymizmu
-- **Aforyzmy o pracy**: Cytaty o pracy jako lekarstwie na życiowe problemy
-- **Ironia kulturowa**: Użycie "najlepszy z możliwych światów" w krytyce rzeczywistości
+### Quotes in Polish Internet Culture
+- **Philosophical memes**: Pangloss as an example of naive optimism
+- **Aphorisms about work**: Quotes about work as medicine for life's problems
+- **Cultural irony**: Use of "best of all possible worlds" in criticism of reality
 
 ---
 
-*Opracowanie pokazuje, jak "Kandyd" Voltaire'a od ponad 240 lat funkcjonuje w polskiej kulturze - od pierwszego przekładu z 1780 roku, przez kultowy przekład Boya-Żeleńskiego, aż po współczesne adaptacje teatralne i interpretacje akademickie. Dzieło pozostaje żywą częścią polskiego kanonu edukacyjnego i kulturowego.*
+*This compilation shows how Voltaire's "Candide" has functioned in Polish culture for over 240 years - from the first translation in 1780, through Boy-Żeleński's cult translation, to contemporary theatrical adaptations and academic interpretations. The work remains a living part of the Polish educational and cultural canon.*

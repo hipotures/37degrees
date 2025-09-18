@@ -1,86 +1,86 @@
-# Szatańskie wersety - Polski kontekst kulturowy
+# The Satanic Verses - Polish Cultural Context
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: The Satanic Verses (1988)
-- **Tytuł polski**: "Szatańskie wersety"
-- **Autor**: Salman Rushdie
-- **Gatunek**: Realizm magiczny, fantastyka
+## Basic Book Information
+- **Original Title**: The Satanic Verses (1988)
+- **Polish Title**: "Szatańskie wersety"
+- **Author**: Salman Rushdie
+- **Genre**: Magical realism, fantasy
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydanie (1992) - anonimowe i kontrowersyjne
-1. **Anonimowa publikacja**: Pierwsze polskie wydanie z 1992 roku zostało opublikowane bez podania nazwiska tłumacza ani nazwy wydawnictwa
-2. **Bezpieczeństwo**: Jedyna informacja zawierała niejasną notatkę po angielsku, że książka została składana i drukowana w EWG
-3. **Wydawnictwo Phantom Press**: Gdańskie wydawnictwo Phantom Press International było faktycznym wydawcą, ale ukrywano to ze względów bezpieczeństwa
-4. **Przyczyny anonimowości**: Japoński tłumacz został zamordowany, włoski ciężko ranny, a bomby podkładano w biurach wydawców
-5. **Pośpiech i jakość**: Pracownicy wydawnictwa przyznają, że książka była wydana pośpiesznie i tłumaczenie nie było dobre
+### First Edition (1992) - Anonymous and Controversial
+1. **Anonymous Publication**: The first Polish edition from 1992 was published without naming the translator or publishing house
+2. **Security Concerns**: The only information contained an unclear note in English that the book was typeset and printed in the EEC
+3. **Phantom Press Publishing**: Gdansk-based Phantom Press International was the actual publisher, but this was hidden for security reasons
+4. **Reasons for Anonymity**: The Japanese translator was murdered, the Italian severely injured, and bombs were planted in publishers' offices
+5. **Haste and Quality**: Publishing house employees admit the book was rushed and the translation was not good
 
-### Drugie wydanie (2013) - nowe tłumaczenie
-6. **Dom Wydawniczy Rebis**: W 2013 roku wydano drugą polską edycję z tłumaczeniem Jerzego Kozłowskiego
-7. **Nowa jakość**: Opisywana jako "pełna aluzji literackich i cytatów, misternie skonstruowana powieść"
-8. **Dostępność**: Obecnie książka jest szeroko dostępna w polskich księgarniach
+### Second Edition (2013) - New Translation
+6. **Dom Wydawniczy Rebis**: In 2013, a second Polish edition was published with translation by Jerzy Kozłowski
+7. **New Quality**: Described as "full of literary allusions and quotes, a masterfully constructed novel"
+8. **Availability**: The book is now widely available in Polish bookstores
 
-## Kontrowersje i recepcja w Polsce
+## Controversies and Reception in Poland
 
-### Klimat strachu (lata 90.)
-9. **Atmosfera grozy**: W warszawskich księgarniach w latach 90. młody mężczyzna o ciemnej karnacji pytał o "książkę Rushdiego", wzbudzając strach wśród sprzedawców i klientów
-10. **Symbol w domowych bibliotekach**: Polscy czytelnicy pamiętają książkę jako "szeroki czarny prostokąt" wśród innych kolorowych książek w domowych bibliotekach
-11. **Fatwa jako punkt odniesienia**: Książka była znana przede wszystkim jako ta, za którą Salman Rushdie został skazany na śmierć przez ajatollaha Chomeini'ego
+### Climate of Fear (1990s)
+9. **Atmosphere of Dread**: In Warsaw bookstores in the 1990s, a young dark-skinned man inquired about "Rushdie's book," causing fear among sellers and customers
+10. **Symbol in Home Libraries**: Polish readers remember the book as a "wide black rectangle" among other colorful books in home libraries
+11. **Fatwa as Reference Point**: The book was known primarily as the one for which Salman Rushdie was sentenced to death by Ayatollah Khomeini
 
-### Wolność słowa i debata publiczna
-12. **Symbol wolności słowa**: "Szatańskie wersety" stały się symbolem walki o wolność słowa w Polsce po transformacji
-13. **Porównania z polską sztuką**: Książka była przywoływana w polskich debatach o kontrowersyjnym spektaklu "Golgota Picnic" i kwestiach religijnego obrazoburstwa w sztuce
-14. **Wartość demokratyczna**: Polscy krytycy podkreślają, że warto kupić/przeczytać książkę "choćby po to, by okazać przywiązanie do bezcennej wartości, jaką jest wolność słowa"
+### Freedom of Speech and Public Debate
+12. **Symbol of Free Speech**: "The Satanic Verses" became a symbol of the fight for freedom of speech in post-transformation Poland
+13. **Comparisons with Polish Art**: The book was referenced in Polish debates about the controversial play "Golgota Picnic" and issues of religious blasphemy in art
+14. **Democratic Value**: Polish critics emphasize it's worth buying/reading the book "if only to show attachment to the priceless value that is freedom of speech"
 
-## Salman Rushdie w Polsce - wizyty i spotkania
+## Salman Rushdie in Poland - Visits and Meetings
 
-### Wizyty autora
-15. **2006 i 2017**: Salman Rushdie odwiedził Polskę dwukrotnie - w 2006 i 2017 roku
-16. **Promocja w Warszawie (2017)**: 27 listopada 2017 roku spotkanie z czytelnikami w Teatrze Powszechnym w Warszawie podczas promocji "Złotego domu Goldenów"
-17. **Brak danych o Krakowie**: Nie znaleziono informacji o konkretnych spotkaniach w Krakowie czy Małopolsce
+### Author's Visits
+15. **2006 and 2017**: Salman Rushdie visited Poland twice - in 2006 and 2017
+16. **Warsaw Promotion (2017)**: November 27, 2017, meeting with readers at Teatr Powszechny in Warsaw during promotion of "The Golden House"
+17. **No Krakow Data**: No information found about specific meetings in Krakow or Lesser Poland region
 
-## Edukacja i nauczanie
+## Education and Teaching
 
-### Pozycja w edukacji
-18. **Brak lektury szkolnej**: "Szatańskie wersety" nie są częścią obowiązkowego programu lektur w polskich szkołach podstawowych ani średnich
-19. **Literatura akademicka**: Książka jest studiowana w kontekście literatury współczesnej i realizmu magicznego na poziomie uniwersyteckim
-20. **Kontekst porównawczy**: Polscy krytycy porównują "Szatańskie wersety" do "Mistrza i Małgorzaty" Bułhakowa jako przykłady realizmu magicznego
+### Position in Education
+18. **Not School Reading**: "The Satanic Verses" is not part of mandatory reading curriculum in Polish elementary or secondary schools
+19. **Academic Literature**: The book is studied in the context of contemporary literature and magical realism at university level
+20. **Comparative Context**: Polish critics compare "The Satanic Verses" to Bulgakov's "The Master and Margarita" as examples of magical realism
 
-## Realizm magiczny - polskie porównania
+## Magical Realism - Polish Comparisons
 
-### Miejsce w nurcie literackim
-21. **"Mistrz i Małgorzata" jako punkt odniesienia**: Polscy czytelnicy często porównują Rushdiego do Bułhakowa, uznając że oba dzieła mogą "stać na tej samej półce"
-22. **Realizm magiczny w Polsce**: Polski odbiór realizmu magicznego obejmuje także García Márqueza, Borgesa i Llosa, z którymi Rushdie jest zestawiany
-23. **Polscy autorzy nurtu**: "Weiser Dawidek" Pawła Huelle i twórczość Olgi Tokarczuk są polskimi przykładami realizmu magicznego
+### Place in Literary Movement
+21. **"The Master and Margarita" as Reference Point**: Polish readers often compare Rushdie to Bulgakov, recognizing that both works can "stand on the same shelf"
+22. **Magical Realism in Poland**: Polish reception of magical realism also includes García Márquez, Borges, and Llosa, with whom Rushdie is compared
+23. **Polish Authors of the Movement**: "Weiser Dawidek" by Paweł Huelle and Olga Tokarczuk's works are Polish examples of magical realism
 
-## Brak adaptacji teatralnych i filmowych
+## Lack of Theater and Film Adaptations
 
-### Ograniczona obecność sceniczna
-24. **Brak adaptacji teatralnych**: Nie znaleziono informacji o polskich adaptacjach teatralnych "Szatańskich wersetów"
-25. **Brak adaptacji filmowych**: Nie ma polskich adaptacji filmowych tej książki
-26. **Teoretyczne odniesienia**: Tytuł pojawia się jedynie jako metafora w teatrologicznych pracach akademickich
+### Limited Stage Presence
+24. **No Theater Adaptations**: No information found about Polish theater adaptations of "The Satanic Verses"
+25. **No Film Adaptations**: There are no Polish film adaptations of this book
+26. **Theoretical References**: The title appears only as a metaphor in academic theater studies
 
-## Kontekst historyczny - PRL i transformacja
+## Historical Context - Communist Poland and Transformation
 
-### Czas publikacji
-27. **Po transformacji**: Książka została opublikowana po upadku komunizmu (1988 rok publikacji, 1989 upadek muru berlińskiego)
-28. **Nowa rzeczywistość**: Polska publikacja przypadła na okres budowania demokracji i wolności słowa
-29. **Kontekst międzynarodowy**: 25. rocznica fatwy Chomeini'ego była upamiętniana w polskich mediach jako symbol zagrożenia dla wolności twórczej
+### Publication Timeline
+27. **After Transformation**: The book was published after the fall of communism (1988 publication year, 1989 fall of Berlin Wall)
+28. **New Reality**: Polish publication coincided with the period of building democracy and freedom of speech
+29. **International Context**: The 25th anniversary of Khomeini's fatwa was commemorated in Polish media as a symbol of threat to creative freedom
 
-## Społeczność fanów i dyskusje
+## Fan Community and Discussions
 
-### Polscy czytelnicy
-30. **Platformy dyskusji**: Książka jest aktywnie dyskutowana na polskich portalach czytelniczych jak Lubimyczytać.pl
-31. **Oceny czytelników**: Polscy czytelnicy doceniają złożoność konstrukcyjną i aluzje literackie
-32. **Nie dla każdego**: Polscy recenzenci ostrzegają, że "nie jest to lektura łatwa", ale "z pewnością ważna i odważna"
+### Polish Readers
+30. **Discussion Platforms**: The book is actively discussed on Polish reading portals like Lubimyczytać.pl
+31. **Reader Reviews**: Polish readers appreciate the structural complexity and literary allusions
+32. **Not for Everyone**: Polish reviewers warn that "it's not easy reading" but "certainly important and brave"
 
-## Aktualne znaczenie
+## Current Significance
 
-### Współczesne odniesienia
-33. **Atak na Rushdiego (2022)**: Polskie media szeroko relacjonowały atak nożownika na Rushdiego w Nowym Jorku
-34. **Trwające zagrożenie**: Fatwa wciąż obowiązuje, nagroda za głowę pisarza wynosi obecnie około 3,3 miliona dolarów
-35. **Symbol fundamentalizmu**: W Polsce książka pozostaje symbolem walki między wolnością twórczą a fundamentalizmem religijnym
+### Contemporary References
+33. **Attack on Rushdie (2022)**: Polish media widely covered the knife attack on Rushdie in New York
+34. **Ongoing Threat**: The fatwa is still in effect, the bounty on the writer's head currently amounts to about $3.3 million
+35. **Symbol of Fundamentalism**: In Poland, the book remains a symbol of the struggle between creative freedom and religious fundamentalism
 
 ---
 
-*Badanie pokazuje, że "Szatańskie wersety" w Polsce są postrzegane przede wszystkim przez pryzmat kontrowersji i wolności słowa. Brak adaptacji teatralnych czy filmowych oraz pozycji w programie szkolnym nie zmniejsza kulturowego znaczenia książki jako symbolu artystycznej odwagi i demokratycznych wartości.*
+*Research shows that "The Satanic Verses" in Poland is perceived primarily through the lens of controversy and freedom of speech. The lack of theater or film adaptations and position in school curriculum does not diminish the book's cultural significance as a symbol of artistic courage and democratic values.*

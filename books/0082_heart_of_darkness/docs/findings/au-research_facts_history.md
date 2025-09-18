@@ -1,76 +1,76 @@
-# Historia Powstania "Jądra Ciemności" Josepha Conrada
+# Creation History of "Heart of Darkness" by Joseph Conrad
 
-**Badania przeprowadzone:** 30 sierpnia 2025  
-**Książka:** Heart of Darkness (Jądro ciemności) - Joseph Conrad, 1899  
+**Research conducted:** August 30, 2025
+**Book:** Heart of Darkness - Joseph Conrad, 1899
 **Agent:** AU Research - Facts & History Hunter
 
-## Podsumowanie Badań
+## Research Summary
 
-"Jądro ciemności" to jedno z najbardziej fascynujących dzieł literatury światowej pod względem historii powstania. Napisane przez polskiego emigranta w trzecim dla niego języku, oparte na traumatycznych doświadczeniach z Konga, powstało osiem lat po dramatycznych wydarzeniach, które je zainspirowały. Książka, która początkowo spotkała się z chłodnym przyjęciem, stała się jednym z najważniejszych dzieł literatury anglojęzycznej.
-
----
-
-## CZĘŚĆ I: AUTOBIOGRAFIA TRAUMY
-
-### 1. Dramatyczne dzieciństwo - podstawy mrocznej wizji świata
-
-**FAKT**: Joseph Conrad (Józef Teodor Konrad Korzeniowski) urodził się 3 grudnia 1857 w Berdyczowie na Ukrainie, w rodzinie polskich patriotów.
-
-**FAKT**: Jego ojciec Apollo Nalęcz Korzeniowski był poetą, tłumaczem i działaczem politycznym spiskującym przeciwko rosyjskiemu panowaniu.
-
-**FAKT**: W 1861 roku, gdy Conrad miał 4 lata, cała rodzina została aresztowana i zesłana do Wołogdy, 500 kilometrów na północ od Moskwy - miejsca znanego z surowego klimatu.
-
-**FAKT**: 18 kwietnia 1865 roku matka Conrada, Ewa Bobrowska, zmarła na gruźlicę w wieku 32 lat. Conrad miał wtedy tylko 7 lat.
-
-**FAKT**: 23 maja 1869 roku zmarł także ojciec Apollo, również na gruźlicę. Conrad w wieku 11 lat został całkowitym sierotą.
-
-**FAKT**: Po śmierci rodziców Conrad został oddany pod opiekę wuja ze strony matki, Tadeusza Bobrowskiego w Krakowie.
-
-### 2. Młodzieńcza próba samobójstwa - pierwsze zetknięcie z ciemnością
-
-**FAKT**: W marcu 1878 roku, mając 20 lat, Conrad próbował popełnić samobójstwo, strzelając sobie w klatkę piersiową z rewolweru podczas pobytu w Marsylii.
-
-**FAKT**: Powodem próby samobójstwa były długi hazardowe i problemy zawodowe - rosyjski konsulat odmówił mu dokumentów potrzebnych do pracy na francuskich statkach.
-
-**FAKT**: Przez trzy lata Conrad opowiadał ludziom, że został ranny w pojedynku, ale w rzeczywistości była to próba samobójstwa z powodu nieudanej miłości.
-
-**FAKT**: Wuj Tadeusz Bobrowski został wezwany do Marsylii i uratował Conrada, zapewniając mu pomoc finansową.
-
-**FAKT**: Ten incydent doprowadził do decyzji o opuszczeniu Francji i dołączeniu do brytyjskiej marynarki handlowej w 1878 roku.
+"Heart of Darkness" is one of the most fascinating works of world literature in terms of its creation history. Written by a Polish emigrant in his third language, based on traumatic experiences from the Congo, it was created eight years after the dramatic events that inspired it. The book, which initially received a cold reception, became one of the most important works of English literature.
 
 ---
 
-## CZĘŚĆ II: PODRÓŻ DO PIEKŁA - CONGO 1890
+## PART I: AUTOBIOGRAPHY OF TRAUMA
 
-### 3. Decyzja o wyjeździe do Konga - osiem lat przed napisaniem książki
+### 1. Dramatic childhood - foundations of a dark worldview
 
-**FAKT**: W 1890 roku, w wieku 32 lat, Conrad podpisał trzyletnią umowę z belgijską firmą handlową Société Anonyme Belge pour le Commerce du Haut-Congo.
+**FACT**: Joseph Conrad (Józef Teodor Konrad Korzeniowski) was born on December 3, 1857, in Berdychiv, Ukraine, into a family of Polish patriots.
 
-**FAKT**: Conrad wyjechał do Konga energiczny i pełen nadziei na nową przygodę, ale szybko rozczarował się tym, co tam zobaczył.
+**FACT**: His father Apollo Nalęcz Korzeniowski was a poet, translator, and political activist conspiring against Russian rule.
 
-**FAKT**: Podczas płynięcia rzeką Kongo z jednej stacji do drugiej, kapitan zachorował i Conrad przejął dowodzenie statkiem.
+**FACT**: In 1861, when Conrad was 4 years old, the entire family was arrested and exiled to Vologda, 500 kilometers north of Moscow - a place known for its harsh climate.
 
-**FAKT**: Conrad doprowadził statek dopływem Lualaba do najbardziej wewnętrznej stacji firmy handlowej w Kindu we Wschodniej Demokratycznej Republice Konga.
+**FACT**: On April 18, 1865, Conrad's mother, Ewa Bobrowska, died of tuberculosis at age 32. Conrad was only 7 years old at the time.
 
-### 4. Prawdziwy Kurtz - Georges-Antoine Klein
+**FACT**: On May 23, 1869, his father Apollo also died of tuberculosis. Conrad became a complete orphan at age 11.
 
-**FAKT**: Conrad został wysłany w górę rzeki Kongo, aby uratować chorego agenta firmy - nie nazywał się Kurtz, ale Georges-Antoine Klein.
+**FACT**: After his parents' death, Conrad was placed under the care of his maternal uncle, Tadeusz Bobrowski, in Krakow.
 
-**FAKT**: Klein zmarł kilka dni później na pokładzie statku Conrada - to zdarzenie bezpośrednio zainspirowało fikcyjną śmierć Kurtza.
+### 2. Youthful suicide attempt - first encounter with darkness
 
-**FAKT**: "Klein" oznacza "mały" w języku niemieckim, a "Kurtz" oznacza "krótki" w tym samym języku - Conrad świadomie wybrał podobnie brzmiące nazwisko.
+**FACT**: In March 1878, at age 20, Conrad attempted suicide by shooting himself in the chest with a revolver while staying in Marseille.
 
-**FAKT**: Klein był pracownikiem tej samej firmy, która zatrudniała Conrada - Société Anonyme Belge pour le Commerce du Haut-Congo.
+**FACT**: The reason for the suicide attempt was gambling debts and professional problems - the Russian consulate had refused him the documents needed to work on French ships.
 
-### 5. Traumatyczne doświadczenia w Kongu
+**FACT**: For three years Conrad told people he had been wounded in a duel, but in reality it was a suicide attempt due to failed love.
 
-**FAKT**: Conrad był świadkiem z pierwszej ręki rażących naruszeń godności ludzkiej w imię wypełniania skarbców króla Leopolda II.
+**FACT**: Uncle Tadeusz Bobrowski was summoned to Marseille and saved Conrad, providing him with financial assistance.
 
-**FAKT**: Widział amputowane ręce, egzekucje i niewolniczą pracę - system kauczukowy w Kongu Belgijskim doprowadził do śmierci milionów ludzi.
+**FACT**: This incident led to the decision to leave France and join the British merchant navy in 1878.
 
-**FAKT**: Conrad zachorował na febę i rozczarował się swoimi kolegami i przełożonymi, zrywając kontrakt po zaledwie sześciu miesiącach.
+---
 
-**FAKT**: Powrócił do Londynu na początku 1891 roku, śmiertelnie chory i gotowy do potępienia zła belgijskiego kolonializmu.
+## PART II: JOURNEY TO HELL - CONGO 1890
+
+### 3. Decision to go to Congo - eight years before writing the book
+
+**FACT**: In 1890, at age 32, Conrad signed a three-year contract with the Belgian trading company Société Anonyme Belge pour le Commerce du Haut-Congo.
+
+**FACT**: Conrad left for the Congo energetic and full of hope for a new adventure, but quickly became disillusioned with what he saw there.
+
+**FACT**: While sailing the Congo River from one station to another, the captain fell ill and Conrad took command of the ship.
+
+**FACT**: Conrad brought the ship up the Lualaba tributary to the company's innermost trading station in Kindu in Eastern Democratic Republic of Congo.
+
+### 4. The real Kurtz - Georges-Antoine Klein
+
+**FACT**: Conrad was sent up the Congo River to rescue a sick company agent - he wasn't called Kurtz, but Georges-Antoine Klein.
+
+**FACT**: Klein died a few days later aboard Conrad's ship - this event directly inspired the fictional death of Kurtz.
+
+**FACT**: "Klein" means "small" in German, and "Kurtz" means "short" in the same language - Conrad consciously chose a similarly sounding surname.
+
+**FACT**: Klein was an employee of the same company that employed Conrad - Société Anonyme Belge pour le Commerce du Haut-Congo.
+
+### 5. Traumatic experiences in Congo
+
+**FACT**: Conrad witnessed firsthand flagrant violations of human dignity in the name of filling King Leopold II's coffers.
+
+**FACT**: He saw amputated hands, executions and slave labor - the rubber system in Belgian Congo led to the deaths of millions of people.
+
+**FACT**: Conrad fell ill with fever and became disillusioned with his colleagues and superiors, breaking his contract after just six months.
+
+**FACT**: He returned to London in early 1891, deathly ill and ready to condemn the evil of Belgian colonialism.
 
 **FAKT**: Conrad opisał swoje doświadczenia jako wywierające fizyczny i psychiczny wpływ, który towarzyszył mu przez całe życie.
 
@@ -350,35 +350,35 @@
 
 ---
 
-## PODSUMOWANIE: DZIEDZICTWO "JĄDRA CIEMNOŚCI"
+## SUMMARY: LEGACY OF "HEART OF DARKNESS"
 
-### Statystyki końcowe badania:
-- **Zbadanych faktów**: 50+
-- **Potwierdzonych źródeł**: 32
-- **Anegdot biograficznych**: 18
-- **Ukrytych historii**: 12
-- **Kontrowersji**: 8
+### Final research statistics:
+- **Facts researched**: 50+
+- **Confirmed sources**: 32
+- **Biographical anecdotes**: 18
+- **Hidden stories**: 12
+- **Controversies**: 8
 
-### Kluczowe odkrycia:
+### Key discoveries:
 
-1. **Czas dojrzewania**: Conrad czekał osiem pełnych lat po traumatycznym doświadczeniu w Kongu, zanim był gotowy przekształcić je w literaturę.
+1. **Maturation time**: Conrad waited eight full years after his traumatic Congo experience before he was ready to transform it into literature.
 
-2. **Językowy wyczyn**: Stworzenie arcydzieła w trzecim języku przez autora, który nigdy nie mówił płynnie po angielsku.
+2. **Linguistic feat**: Creating a masterpiece in a third language by an author who never spoke English fluently.
 
-3. **Autobiograficzna podstawa**: Każdy element fabuły ma swój odpowiednik w rzeczywistych doświadczeniach Conrada.
+3. **Autobiographical basis**: Every plot element has its counterpart in Conrad's real experiences.
 
-4. **Niepowodzenie komercyjne**: Dzieło, które dziś uważane jest za klasyk, początkowo nie odniosło sukcesu ani krytycznego, ani komercyjnego.
+4. **Commercial failure**: The work, now considered a classic, initially achieved neither critical nor commercial success.
 
-5. **Prorocza wizja**: Książka przewidziała upadek systemu kolonialnego i moralną katastrofę XX-wiecznego imperializmu.
+5. **Prophetic vision**: The book predicted the collapse of the colonial system and the moral catastrophe of 20th-century imperialism.
 
-**Najważniejsza anegdota**: Conrad, polski sierota traumatyzowany rosyjskim uciskiem, który próbował popełnić samobójstwo w Marsylii, przewrócił swoje kongolijskie piekło w jedno z najważniejszych dzieł literatury światowej - w języku, którego nauczył się jako trzeciego. To historia o tym, jak osobista trauma może stać się uniwersalnym ostrzeżeniem dla ludzkości.
+**Most important anecdote**: Conrad, a Polish orphan traumatized by Russian oppression, who attempted suicide in Marseille, transformed his Congolese hell into one of the most important works of world literature - in a language he learned as his third. This is a story about how personal trauma can become a universal warning for humanity.
 
 ---
 
-**Data badania**: 30 sierpnia 2025  
-**Metodologia**: Badania internetowe, analiza źródeł historycznych, weryfikacja faktów  
-**Status weryfikacji**: Każdy fakt oznaczony jako FAKT lub PLOTKA  
-**Źródła**: Literatura akademicka, archiwa, biograficzne i historyczne dokumenty
+**Research date**: August 30, 2025
+**Methodology**: Internet research, historical source analysis, fact verification
+**Verification status**: Each fact marked as FACT or RUMOR
+**Sources**: Academic literature, archives, biographical and historical documents
 
-**Autor badania**: AU Research Agent - Facts & History Hunter  
-**Projekt**: 37degrees - TikTok dla polskiej młodzieży promujący klasyczną literaturę
+**Research author**: AU Research Agent - Facts & History Hunter
+**Project**: 37degrees - TikTok for Polish youth promoting classic literature

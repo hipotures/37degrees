@@ -1,170 +1,170 @@
-# Badania Wpływu Kulturowego: "The Strange Case of Dr Jekyll and Mr Hyde"
+# Cultural Impact Research: "The Strange Case of Dr Jekyll and Mr Hyde"
 
-**Autor:** Robert Louis Stevenson (1886)  
-**Tytuł polski:** "Dziwna historia doktora Jekylla i pana Hyde'a"  
-**Data badania:** 30 sierpnia 2025  
+**Author:** Robert Louis Stevenson (1886)
+**Polish Title:** "Dziwna historia doktora Jekylla i pana Hyde'a"
+**Research Date:** August 30, 2025
 
-## Wprowadzenie
+## Introduction
 
-"The Strange Case of Dr Jekyll and Mr Hyde" Roberta Louisa Stevensona to jedna z najważniejszych nowel gotyckich w historii literatury, która wywarła ogromny wpływ na kulturę popularną. Opublikowana w 1886 roku, książka wprowadził motyw dualizmu ludzkiej natury, który stał się fundamentalnym elementem współczesnej kultury, od literatury przez film, po psychologię popularną.
+"The Strange Case of Dr Jekyll and Mr Hyde" by Robert Louis Stevenson is one of the most important Gothic novellas in literary history, which has had an enormous impact on popular culture. Published in 1886, the book introduced the motif of human nature's dualism, which became a fundamental element of contemporary culture, from literature through film to popular psychology.
 
-## 1. Adaptacje Filmowe i Telewizyjne
+## 1. Film and Television Adaptations
 
-### Klasyczne Adaptacje
-- **1931** - Film z Fredric March (zdobywca Oscara za główną rolę)
-- **1941** - Adaptacja ze Spencer Tracy, nominowana do 3 Oscarów
-- **1920** - Wersja z John Barrymore, jedna z najlepszych z ery kina niemego
+### Classic Adaptations
+- **1931** - Film with Fredric March (Oscar winner for leading role)
+- **1941** - Adaptation with Spencer Tracy, nominated for 3 Oscars
+- **1920** - Version with John Barrymore, one of the best from the silent film era
 
-### Współczesne Adaptacje (2000-2025)
-- **Jekyll and Hyde (2021)** - Reżyseria Steve Lawson, nowoczesna interpretacja z prawnikiem Utterson
-- **Dr. Jekyll and Mr. Hyde (2017)** - Film z Mickey Rooney (jego ostatni film)
-- **The Strange Case of Dr. Jekyll and Mr. Hyde (2006)** - Z Tony Todd w roli głównej
+### Contemporary Adaptations (2000-2025)
+- **Jekyll and Hyde (2021)** - Directed by Steve Lawson, modern interpretation with lawyer Utterson
+- **Dr. Jekyll and Mr. Hyde (2017)** - Film with Mickey Rooney (his last film)
+- **The Strange Case of Dr. Jekyll and Mr. Hyde (2006)** - With Tony Todd in the lead role
 
-### Statystyki Wpływu
-- **Ponad 123 adaptacje filmowe** - najbardziej ekranizowane dzieło literackie
-- Troy Howarth nazywa nowelę Stevensona "najbardziej filmowanym dziełem literatury w erze kina niemego"
+### Impact Statistics
+- **Over 123 film adaptations** - most adapted literary work
+- Troy Howarth calls Stevenson's novella "the most filmed work of literature in the silent film era"
 
-## 2. Wpływ na Bohaterów Superbohaterskich
+## 2. Impact on Superhero Characters
 
-### Bezpośrednie Inspiracje
-- **The Hulk (Marvel)** - Stan Lee wprost przyznał inspirację Jekyll'em i Hyde'em, połączenie z motywem Frankensteina
-- **Two-Face (DC Comics)** - Bob Kane, współtwórca Batmana, inspirowany adaptacją z 1931 roku
-- **Green Goblin** - Willem Dafoe otrzymał od Sama Raimiego książkę Jekyll'a i Hyde'a do przygotowania roli
+### Direct Inspirations
+- **The Hulk (Marvel)** - Stan Lee openly admitted inspiration from Jekyll and Hyde, combined with Frankenstein motif
+- **Two-Face (DC Comics)** - Bob Kane, Batman co-creator, inspired by 1931 adaptation
+- **Green Goblin** - Willem Dafoe received Jekyll and Hyde book from Sam Raimi to prepare for the role
 
-### Dedykowane Komiksy
-- **"Batman: Jekyll & Hyde" (2005)** - Miniseria DC Comics eksplorująca dualizm Batmana i Two-Face'a
-- **"Batman: Two Faces"** - Wiktoriańska wersja z Bruce Wayne próbującym leczyć swoją mroczną stronę
-- **"Batman: Jekyll & Hyde"** serum uwolniające ciemne strony obywateli
+### Dedicated Comics
+- **"Batman: Jekyll & Hyde" (2005)** - DC Comics miniseries exploring Batman and Two-Face dualism
+- **"Batman: Two Faces"** - Victorian version with Bruce Wayne trying to cure his dark side
+- **"Batman: Jekyll & Hyde"** serum releasing dark sides of citizens
 
-### Inne Inspirowane Postacie
-- **Mister Hyde, Lizard** - Bezpośrednio inspirowane postacie Marvel
-- **Moon Knight** - Pośrednia inspiracja motywem podwójnej osobowości
-- **Stefan Salvatore** (Vampire Diaries) - Współczesna interpretacja dualizmu
+### Other Inspired Characters
+- **Mister Hyde, Lizard** - Directly inspired Marvel characters
+- **Moon Knight** - Indirect inspiration with dual personality motif
+- **Stefan Salvatore** (Vampire Diaries) - Contemporary interpretation of dualism
 
-## 3. Teatr i Musicale
+## 3. Theater and Musicals
 
 ### Jekyll & Hyde Musical
-- **Broadway (1997-2001)** - Najdłużej grający spektakl w historii Plymouth Theatre (1,543 przedstawienia)
-- **Twórcy:** Frank Wildhorn (muzyka), Leslie Bricusse (teksty)
-- **Podtytuł:** "The Gothic Musical Thriller"
-- **Obsada:** Sebastian Bach (2000), David Hasselhoff (2000-2001)
+- **Broadway (1997-2001)** - Longest-running show in Plymouth Theatre history (1,543 performances)
+- **Creators:** Frank Wildhorn (music), Leslie Bricusse (lyrics)
+- **Subtitle:** "The Gothic Musical Thriller"
+- **Cast:** Sebastian Bach (2000), David Hasselhoff (2000-2001)
 
-### Międzynarodowe Produkcje
-- **Ponad 20 krajów** z adaptacjami w różnych językach
-- **Wznowienie na Broadway (2013)** z Constantine Maroulis
-- **Australijska wersja koncertowa (2019)** z Anthony Warlow
+### International Productions
+- **Over 20 countries** with adaptations in various languages
+- **Broadway revival (2013)** with Constantine Maroulis
+- **Australian concert version (2019)** with Anthony Warlow
 
-### Charakterystyka Musicalu
-- **Styl:** Pop-rock z elementami gotyckimi
-- **Tematy:** Walka dobra ze złem, dualizm ludzkiej natury
-- **Nowe elementy:** Wprowadzenie wątku romantycznego nieobecnego w oryginale
+### Musical Characteristics
+- **Style:** Pop-rock with Gothic elements
+- **Themes:** Battle between good and evil, dualism of human nature
+- **New elements:** Introduction of romantic subplot absent in original
 
-## 4. Wpływ na Język i Psychologię Popularną
+## 4. Impact on Language and Popular Psychology
 
 ### "Jekyll and Hyde Syndrome"
-- **Definicja słownikowa:** "Osobowość oscylująca między dobrym a złym zachowaniem" (Merriam-Webster)
-- **Beverly Engel:** Międzynarodowo uznana terapeutka napisała książkę "The Jekyll and Hyde Syndrome"
-- **Użycie potoczne:** Opis osób o drastycznie zmiennym zachowaniu
+- **Dictionary definition:** "Personality oscillating between good and bad behavior" (Merriam-Webster)
+- **Beverly Engel:** Internationally recognized therapist wrote book "The Jekyll and Hyde Syndrome"
+- **Colloquial usage:** Description of people with drastically changing behavior
 
-### Popularne Wyrażenia
-- **"Jekyll and Hyde personality"** - Stałe wyrażenie w języku angielskim
-- **Przykłady użycia:** "Ever since Kyle became a teenager, he's turned into a real Jekyll and Hyde"
-- **Sport:** "The Nuggets continue to have Jekyll and Hyde results"
+### Popular Expressions
+- **"Jekyll and Hyde personality"** - Fixed expression in English language
+- **Usage examples:** "Ever since Kyle became a teenager, he's turned into a real Jekyll and Hyde"
+- **Sports:** "The Nuggets continue to have Jekyll and Hyde results"
 
-### Błędne Interpretacje
-- Często mylone z Dissociative Identity Disorder (DID)
-- W rzeczywistości opisuje ekstremalne wahania w obrębie jednej osobowości
-- Powiązania z Borderline Personality Disorder i zaburzeniem afektywnym dwubiegunowym
+### Misconceptions
+- Often confused with Dissociative Identity Disorder (DID)
+- Actually describes extreme fluctuations within one personality
+- Connections with Borderline Personality Disorder and bipolar affective disorder
 
-## 5. Parody i Adaptacje Komediowe
+## 5. Parodies and Comedy Adaptations
 
-### Klasyczne Parodie
-- **"Jekyll and Hyde... Together Again" (1982)** - Seksualna komedia z Mark Blankfield
-- **"The Nutty Professor" (1963)** - Jerry Lewis w uroczej parodii noweli Stevensona
-- **"Abbott and Costello Meet Dr. Jekyll and Mr. Hyde"** - Ukochana komediowa interpretacja
+### Classic Parodies
+- **"Jekyll and Hyde... Together Again" (1982)** - Sexual comedy with Mark Blankfield
+- **"The Nutty Professor" (1963)** - Jerry Lewis in charming parody of Stevenson's novella
+- **"Abbott and Costello Meet Dr. Jekyll and Mr. Hyde"** - Beloved comedy interpretation
 
-### Współczesne Parodie
+### Contemporary Parodies
 - **The Benny Hill Show** - "Wondergran Meets Dr. Jackal and Mr. Hide" (1981)
-- **Dottor Jekyll e gentile signora** (1980) - Włoska komedia z Paolo Villaggio
+- **Dottor Jekyll e gentile signora** (1980) - Italian comedy with Paolo Villaggio
 
-## 6. Gry Wideo i Rozrywka Interaktywna
+## 6. Video Games and Interactive Entertainment
 
-### Klasyczne Gry
-- **Dr. Jekyll and Mr. Hyde (NES, 1988)** - Jedna z najbardziej krytykowanych gier w historii
-- **Angry Video Game Nerd (2004)** - Recenzja Jamesa Rolfe'a spopularyzowała notoryczność gry
-- **Oceny:** Game Informer 5/100, "najbardziej niegrywalne śmieci na NES"
+### Classic Games
+- **Dr. Jekyll and Mr. Hyde (NES, 1988)** - One of the most criticized games in history
+- **Angry Video Game Nerd (2004)** - James Rolfe's review popularized the game's notoriety
+- **Ratings:** Game Informer 5/100, "most unplayable garbage on NES"
 
-### Współczesne Gry
-- **MazM: Jekyll and Hyde** - Mroczna gra przygodowa na Steam bazująca na noweli z 1886 roku
-- **Jekyll and Hyde for Windows (2001)** - Gra przygodowa od Cryo Interactive
+### Contemporary Games
+- **MazM: Jekyll and Hyde** - Dark adventure game on Steam based on 1886 novella
+- **Jekyll and Hyde for Windows (2001)** - Adventure game from Cryo Interactive
 
-### Mechanika Transformacji
-- **NES:** Wypełnienie miernika gniewu powoduje transformację Jekyll'a w Hyde'a
-- **Współczesne:** Różnorodne interpretacje mechanizmu przemiany
+### Transformation Mechanics
+- **NES:** Filling anger meter causes Jekyll's transformation into Hyde
+- **Contemporary:** Various interpretations of transformation mechanism
 
-## 7. Parki Rozrywki i Atrakcje
+## 7. Theme Parks and Attractions
 
 ### Universal Studios Halloween Horror Nights
-- **2023:** "Universal Monsters: Unmasked" - Dom duchów z Jekyll'em i Hyde'em
-- **Lokalizacja:** 60 stóp pod paryskimi ulicami w Katakumbach
-- **Design:** Inspirowany pierwszymi filmami Universal z "nowoczesną nakładką horroru"
-- **Historia:** Ostatni raz w Universal Orlando w latach 90.
+- **2023:** "Universal Monsters: Unmasked" - Haunted house with Jekyll and Hyde
+- **Location:** 60 feet under Parisian streets in Catacombs
+- **Design:** Inspired by early Universal films with "modern horror overlay"
+- **History:** Last appeared at Universal Orlando in the 90s
 
-### Inne Atrakcje
-- **Jekyll & Hyde Club (NYC)** - Nawiedzona restauracja i klub społeczny
-- **Styl:** Angielski klub eksploratorów z lat 30. XX wieku
-- **Rozrywka:** Żywe przedstawienia transformacji Jekyll'a w Hyde'a
+### Other Attractions
+- **Jekyll & Hyde Club (NYC)** - Haunted restaurant and social club
+- **Style:** English explorer's club from 1930s
+- **Entertainment:** Live performances of Jekyll's transformation into Hyde
 
-## 8. Merchandise i Kolekcjonerstwo
+## 8. Merchandise and Collectibles
 
-### Figurki Akcji
-- **Universal Monsters Select Jekyll and Hyde** - Figurka 7-calowa z wymienialnymi głowami
-- **Mego Dr. Jekyll/Mr. Hyde** - 8-calowa figurka retro z 14 punktami artykulacji
-- **The Crypt Monster Hyde** - Oryginalna, mroczniejsza wersja potwora Hyde'a
+### Action Figures
+- **Universal Monsters Select Jekyll and Hyde** - 7-inch figure with interchangeable heads
+- **Mego Dr. Jekyll/Mr. Hyde** - 8-inch retro figure with 14 points of articulation
+- **The Crypt Monster Hyde** - Original, darker version of Hyde monster
 
-### Kolekcjonerstwo
-- **Funko Pop Keychain** - Breloczek Universal Monsters z Jekyll'em i Hyde'em
-- **Marvel Classics Comics #1** - Komiks kolekcjonerski z Jekyll'em i Hyde'em
-- **Redbubble** - Niestandardowe produkty: koszulki, plakaty, naklejki
+### Collectibles
+- **Funko Pop Keychain** - Universal Monsters keychain with Jekyll and Hyde
+- **Marvel Classics Comics #1** - Collectible comic with Jekyll and Hyde
+- **Redbubble** - Custom products: t-shirts, posters, stickers
 
-## 9. Literatura i Komiksy Współczesne
+## 9. Contemporary Literature and Comics
 
-### Nowoczesne Adaptacje
-- **"The Strange Case of Dr. Jekyll and Mr. Hyde, Contemporary Edition" (2025)** - Adaptacja w współczesnym języku angielskim
-- **Marvel klasyki** - Różne wydania komiksowe historii
+### Modern Adaptations
+- **"The Strange Case of Dr. Jekyll and Mr. Hyde, Contemporary Edition" (2025)** - Adaptation in contemporary English
+- **Marvel Classics** - Various comic editions of the story
 
-### Inspirowane Dzieła
-- Niezliczone powieści eksplorujące motyw podwójnej osobowości
-- Horror współczesny czerpie z motywów Stevensona
-- Literatura young adult często wykorzystuje motyw transformacji
+### Inspired Works
+- Countless novels exploring dual personality motif
+- Contemporary horror draws from Stevenson's motifs
+- Young adult literature often uses transformation motif
 
-## 10. Wpływ na Gatunki Muzyczne
+## 10. Impact on Musical Genres
 
-### Gothic Rock i Dark Wave
-- Zespoły często wykorzystują motywy Jekyll'a i Hyde'a w tekstach
-- Koncept albumy eksplorujące dualizm ludzkiej natury
-- Visual kei i metal symphonik czerpią z estetyki gotyckiej noweli
+### Gothic Rock and Dark Wave
+- Bands often use Jekyll and Hyde motifs in lyrics
+- Concept albums exploring dualism of human nature
+- Visual kei and symphonic metal draw from Gothic novella aesthetics
 
-### Muzyka Filmowa
-- Niezliczone ścieżki dźwiękowe do adaptacji filmowych
-- Charakterystyczne motywy transformacji w muzyce horror
-- Współczesne remake'i wprowadzają nowoczesne brzmienia elektroniczne
+### Film Music
+- Countless soundtracks for film adaptations
+- Characteristic transformation motifs in horror music
+- Contemporary remakes introduce modern electronic sounds
 
-## Wnioski
+## Conclusions
 
-"The Strange Case of Dr Jekyll and Mr Hyde" to jedno z najbardziej wpływowych dzieł literatury w historii kultury popularnej. Od momentu publikacji w 1886 roku, motyw dualizmu ludzkiej natury stał się fundamentalnym elementem współczesnej kultury:
+"The Strange Case of Dr Jekyll and Mr Hyde" is one of the most influential works of literature in popular culture history. Since its publication in 1886, the motif of human nature's dualism has become a fundamental element of contemporary culture:
 
-### Kluczowe Osiągnięcia Kulturowe:
-1. **Najbardziej ekranizowane dzieło literackie** - ponad 123 adaptacje filmowe
-2. **Fundamentalne dla superbohaterów** - inspiracja dla Hulk'a, Two-Face'a, Green Goblin
-3. **Wpływ na język** - "Jekyll and Hyde personality" to stałe wyrażenie
-4. **Psychologia popularna** - podstawa dla zrozumienia podwójnych osobowości
-5. **Uniwersalny motyw** - wykorzystywany we wszystkich mediach od teatru po gry wideo
+### Key Cultural Achievements:
+1. **Most adapted literary work** - over 123 film adaptations
+2. **Fundamental for superheroes** - inspiration for Hulk, Two-Face, Green Goblin
+3. **Language impact** - "Jekyll and Hyde personality" is a fixed expression
+4. **Popular psychology** - basis for understanding dual personalities
+5. **Universal motif** - used in all media from theater to video games
 
-### Trwałość Wpływu:
-- **138 lat** od publikacji - wciąż inspiruje nowe adaptacje
-- **Międzypokoleniowy appeal** - od klasycznych filmów po nowoczesne gry
-- **Globalny zasięg** - adaptacje w ponad 20 krajach
-- **Multimedia** - obecny w każdej formie rozrywki
+### Lasting Impact:
+- **138 years** since publication - still inspires new adaptations
+- **Intergenerational appeal** - from classic films to modern games
+- **Global reach** - adaptations in over 20 countries
+- **Multimedia** - present in every form of entertainment
 
-Nowela Stevensona pozostaje żywym, wciąż ewoluującym elementem kultury popularnej, dowodząc na uniwersalność tematu walki między dobrem a złem w ludzkiej naturze. Od Broadway po Universal Studios, od komiksów Marvel po psychologię popularną - Jekyll i Hyde pozostają jednymi z najbardziej rozpoznawalnych postaci w kulturze światowej.
+Stevenson's novella remains a living, still-evolving element of popular culture, proving the universality of the theme of struggle between good and evil in human nature. From Broadway to Universal Studios, from Marvel comics to popular psychology - Jekyll and Hyde remain among the most recognizable characters in world culture.

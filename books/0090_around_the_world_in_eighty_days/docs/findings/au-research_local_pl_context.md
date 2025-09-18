@@ -1,155 +1,155 @@
-# Lokalna recepcja i kontekst kulturowy: "W osiemdziesiąt dni dookoła świata" w Polsce
+# Local Reception and Cultural Context: "Around the World in Eighty Days" in Poland
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-**Błyskawiczne dotarcie do Polski**
-Pierwsza polska wersja powieści ukazała się już w 1873 roku, zaledwie rok po oryginalnej publikacji francuskiej z 1872 roku. Tłumaczenia dokonał Józef Grajnert, co świadczy o niezwykłej popularności Juliusza Verne'a wśród polskich czytelników.
+**Lightning-Fast Arrival to Poland**
+The first Polish version of the novel appeared as early as 1873, just one year after the original French publication in 1872. The translation was done by Józef Grajnert, which demonstrates the extraordinary popularity of Jules Verne among Polish readers.
 
-**Różnorodność tytułów polskich**
-Książka była wydawana pod wieloma wariantami tytułu:
-- "Podróż na około świata w osiemdziesięciu dniach" (pierwsze wydanie)
-- "Podróż naokoło świata w 80-ciu dniach"  
+**Variety of Polish Titles**
+The book has been published under many title variants:
+- "Podróż na około świata w osiemdziesięciu dniach" (first edition)
+- "Podróż naokoło świata w 80-ciu dniach"
 - "Podróż w osiemdziesiąt dni dookoła świata"
-- "W 80 dni dookoła świata" (tytuł używany od 1952 roku)
+- "W 80 dni dookoła świata" (title used since 1952)
 
-**Wydanie jako dodatek do gry**
-W 1880 roku książka została wydana jako dodatek do gry planszowej przez Wydawnictwo Zabawek i Gier pedagogicznych, w streszczeniu Henryka Glińskiego.
+**Publication as Board Game Addition**
+In 1880, the book was published as an addition to a board game by Wydawnictwo Zabawek i Gier pedagogicznych, in an abridged version by Henryk Gliński.
 
-**Publikacja w odcinkach**
-W 1901 roku powieść ukazywała się w odcinkach w czasopiśmie "Biblioteka Powieści".
+**Serial Publication**
+In 1901, the novel was published in installments in the magazine "Biblioteka Powieści".
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 **Józef Grajnert (1873)**
-Pierwszy tłumacz, który wprowadził Verne'a do polskich domów. Jego wersja stała się podstawą dla wielu późniejszych adaptacji.
+The first translator who introduced Verne to Polish homes. His version became the basis for many later adaptations.
 
-**Zbigniew Florczak**  
-Jego tłumaczenie osiągnęło nakład 788 620 egzemplarzy, co pokazuje skalę popularności powieści w Polsce.
+**Zbigniew Florczak**
+His translation achieved a circulation of 788,620 copies, showing the scale of the novel's popularity in Poland.
 
-**Adaptacje nazwisk bohaterów**
-Polscy tłumacze kreatywnie podchodzili do imion:
-- Passepartout został przetłumaczony jako "Obieżyświat" - doskonały przykład adaptacji kulturowej
-- Phileas Fogg występuje jako "Filip Fogg" lub "Fileas Fogg"
-- W jednej wersji sługa przedstawia się jako "Jan Obieżyświat"
+**Character Name Adaptations**
+Polish translators creatively approached character names:
+- Passepartout was translated as "Obieżyświat" - an excellent example of cultural adaptation
+- Phileas Fogg appears as "Filip Fogg" or "Fileas Fogg"
+- In one version, the servant introduces himself as "Jan Obieżyświat"
 
-## Kontekst edukacyjny - lektura szkolna
+## Educational Context - School Reading
 
-**Różne poziomy nauczania**
-Książka jest używana jako lektura na różnych etapach edukacyjnych - od szkoły podstawowej po liceum.
+**Different Educational Levels**
+The book is used as required reading at various educational stages - from elementary school to high school.
 
-**Adaptacje dla uczniów ze specjalnymi potrzebami**
-Istnieją specjalne wersje dla uczniów z ASD (spektrum autyzmu) na drugim etapie edukacyjnym.
+**Adaptations for Students with Special Needs**
+Special versions exist for students with ASD (autism spectrum) at the second educational stage.
 
-**Dostępność online**
-Powieść jest dostępna bezpłatnie w serwisie Wolne Lektury, gdzie 13 496 dzieci ma dostęp do darmowych książek.
+**Online Availability**
+The novel is available for free on Wolne Lektury service, where 13,496 children have access to free books.
 
-**Materiały dydaktyczne**
-Liczne strony edukacyjne oferują testy sprawdzające znajomość lektury, zadania z czytania ze zrozumieniem i charakterystyki bohaterów.
+**Educational Materials**
+Numerous educational websites offer tests checking knowledge of the reading, reading comprehension tasks, and character analyses.
 
-## Polskie adaptacje teatralne i filmowe
+## Polish Theatrical and Film Adaptations
 
-**Teatr Śląski w Katowicach (2015/2016)**
-Najważniejsza współczesna adaptacja teatralna, stworzona przez Roberta Górskiego (współtwórca Kabaretu Moralnego Niepokoju) w reżyserii Roberta Talarczyka. Spektakl muzyczny z piosenkami zespołu Chłopcy Kontra Basia otrzymał nominację do Złotej Maski za muzykę i zdobył Złotą Maskę w kategorii "Najlepszy spektakl dla dzieci i młodzieży".
+**Silesian Theatre in Katowice (2015/2016)**
+The most important contemporary theatrical adaptation, created by Robert Górski (co-creator of Kabaret Moralnego Niepokoju) and directed by Robert Talarczyk. The musical show with songs by the band Chłopcy Kontra Basia received a Golden Mask nomination for music and won the Golden Mask in the "Best Show for Children and Youth" category.
 
-**Teatr Jaracza w Olsztynie**  
-Spektakl stworzony przez dramaturg Joannę Kowalską i reżysera Piotra Ratajczaka, rozpoczynający się na dworcu kolejowym w Olsztynie.
+**Jaracza Theatre in Olsztyn**
+A show created by dramaturg Joanna Kowalska and director Piotr Ratajczak, beginning at the railway station in Olsztyn.
 
-**Historyczne adaptacje**
-Już w 1874 roku powieść została zaadaptowana na scenę z muzyką Franza von Suppé pod tytułem "Podróż na około ziemi w 80 dniach".
+**Historical Adaptations**
+As early as 1874, the novel was adapted for the stage with music by Franz von Suppé under the title "Podróż na około ziemi w 80 dniach".
 
 **MusicALL (2018)**
-Stowarzyszenie MusicALL prezentowało musicalową wersję "W 80 Dni Dookoła Świata".
+The MusicALL Association presented a musical version of "Around the World in 80 Days".
 
-## Kulturowe różnice w interpretacji
+## Cultural Differences in Interpretation
 
-**"Punktualność angielska"**
-Phileas Fogg stał się w Polsce symbolem brytyjskiej punktualności i metodyczności. Jego "przysłowiowa punktualność" (jak określają ją polskie opracowania) wzbudzała podziw wszystkich.
+**"English Punctuality"**
+Phileas Fogg became a symbol of British punctuality and methodicalness in Poland. His "proverbial punctuality" (as Polish studies describe it) aroused everyone's admiration.
 
-**Stereotyp chłodnego Anglika**  
-Polskie opracowania podkreślają, że Fogg był "typem flegmatycznego Anglika o zimnej krwi", co wpisuje się w polskie postrzeganie brytyjskiego charakteru narodowego.
+**Stereotype of the Cold Englishman**
+Polish studies emphasize that Fogg was a "type of phlegmatic Englishman with cold blood," which fits into Polish perceptions of British national character.
 
-**Krytyka kolonialnej perspektywy**
-Współczesne polskie analizy zwracają uwagę, że powieść przedstawia "egzotyzm i inność" odwiedzanych miejsc z perspektywy XIX-wiecznego Europejczyka, co dziś może wydawać się archaiczne lub kolonialne.
+**Criticism of Colonial Perspective**
+Contemporary Polish analyses note that the novel presents "exoticism and otherness" of visited places from the perspective of a 19th-century European, which today may seem archaic or colonial.
 
-## Legendarna polska adaptacja animowana
+## Legendary Polish Animated Adaptation
 
-**"Wielka podróż Bolka i Lolka" (1977/1978)**
-Pierwszy polski pełnometrażowy film animowany w reżyserii Władysława Nehrebeckiego i Stanisława Dulza. Film z 1977 roku został rok później zaadaptowany na 15-odcinkowy serial telewizyjny. To była pierwsza produkcja, w której Bolek i Lolek przemówili na ekranie.
+**"The Great Journey of Bolek and Lolek" (1977/1978)**
+The first Polish full-length animated film directed by Władysław Nehrebecki and Stanisław Dulz. The 1977 film was adapted a year later into a 15-episode television series. This was the first production in which Bolek and Lolek spoke on screen.
 
-**Fabuła adaptacji**
-Angielski milioner Phileas Fogg obiecuje 20 000 funtów temu, kto odbędzie podróż dookoła świata w 80 dni. Do wyścigu przystępują Bolek i Lolek, a spadkobierca bogacza wysyła za nimi sługę Jeremiasza, by ich powstrzymać.
+**Adaptation Plot**
+English millionaire Phileas Fogg promises 20,000 pounds to whoever travels around the world in 80 days. Bolek and Lolek enter the race, and the rich man's heir sends his servant Jeremiasz after them to stop them.
 
-## Współczesne adaptacje telewizyjne
+## Contemporary Television Adaptations
 
-**Serial TVP (2021)**
-Francusko-włosko-niemiecki serial przygodowy z 2021 roku z Davidem Tennantem jako Phileas Fogg jest dostępny na TVP VOD i był emitowany na kanałach TVP.
+**TVP Series (2021)**
+The French-Italian-German adventure series from 2021 with David Tennant as Phileas Fogg is available on TVP VOD and was broadcast on TVP channels.
 
-**Inne kanały**
-Różne wersje filmowe "W 80 dni dookoła świata" były emitowane na polskich kanałach: AMC, Paramount Channel Polska, PULS 2, SCI FI i TV Puls.
+**Other Channels**
+Various film versions of "Around the World in 80 Days" have been broadcast on Polish channels: AMC, Paramount Channel Polska, PULS 2, SCI FI, and TV Puls.
 
-## Akademickie badania polskich literaturoznawców
+## Academic Research by Polish Literary Scholars
 
 **Jan Tomkowski**
-Profesor Jan Tomkowski napisał książkę "Juliusz Verne – tajemnicza wyspa?", w której ujawnił sekrety postaci Kapitana Nemo, dowodząc, że Verne od początku uważał NEMO za Polaka, żołnierza powstania styczniowego.
+Professor Jan Tomkowski wrote the book "Jules Verne – A Mysterious Island?", in which he revealed the secrets of Captain Nemo's character, proving that Verne from the beginning considered NEMO to be Polish, a soldier of the January Uprising.
 
-**Polskie wątki u Verne'a**
-Verne sympatyzował z Polakami - pierwotnie Kapitan Nemo miał być Polakiem mścącym się na Rosjanach za klęskę powstania styczniowego. W kabinie Nemo wisiał portret Tadeusza Kościuszki.
+**Polish Themes in Verne's Work**
+Verne sympathized with Poles - originally Captain Nemo was supposed to be a Pole taking revenge on Russians for the defeat of the January Uprising. A portrait of Tadeusz Kościuszko hung in Nemo's cabin.
 
-**Polskie Towarzystwo Juliusza Verne'a**
-Organizacja zajmująca się popularyzacją twórczości Verne'a w Polsce, będąca patronem kolekcji "Niezwykłe Podróże".
+**Polish Jules Verne Society**
+An organization dedicated to popularizing Verne's work in Poland, patron of the "Extraordinary Journeys" collection.
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-**Związki z Płockiem**
-Istnieją legendy, że Verne urodził się nie w Nantes, lecz w Płocku jako Joel Olszewiec w rodzinie żydowskiej - choć są to tylko plotki, pisarz nigdy im nie zaprzeczał.
+**Connections with Płock**
+There are legends that Verne was not born in Nantes but in Płock as Joel Olszewiec in a Jewish family - though these are just rumors, the writer never denied them.
 
-**Fundacja Nautilus**
-Polska organizacja wzięła nazwę od powieści Verne'a "20 000 mil podmorskiej żeglugi", a nazwa NAUTILUS stała się rozpoznawalnym znakiem w całej Polsce.
+**Nautilus Foundation**
+A Polish organization took its name from Verne's novel "Twenty Thousand Leagues Under the Sea," and the name NAUTILUS became a recognizable brand throughout Poland.
 
-**Artur Anuszewski - "polski Phileas Fogg"**
-Rzeczywisty podróżnik z Ciechanowa, który zwiedził 140 niepodległych krajów i 648 regionów na wszystkich kontynentach.
+**Artur Anuszewski - "Polish Phileas Fogg"**
+A real traveler from Ciechanów who visited 140 independent countries and 648 regions on all continents.
 
-## Polski fan community
+## Polish Fan Community
 
-**Cyrkulacja tłumaczeń**
-Nakład tłumaczenia Zbigniewa Florczaka (788 620 egzemplarzy) pokazuje skalę polskiego zainteresowania powieścią.
+**Translation Circulation**
+The circulation of Zbigniew Florczak's translation (788,620 copies) shows the scale of Polish interest in the novel.
 
-**Materiały edukacyjne online**  
-Liczne polskie strony oferują testy, streszczenia i analizy postaci, co świadczy o aktywnej społeczności czytelniczej.
+**Online Educational Materials**
+Numerous Polish websites offer tests, summaries, and character analyses, demonstrating an active reading community.
 
-**Teatralne odrodzenie**
-Współczesne spektakle w Teatrze Śląskim i innych teatrach pokazują, że Verne wciąż trafia do polskiej wyobraźni.
+**Theatrical Revival**
+Contemporary shows at the Silesian Theatre and other theaters show that Verne still appeals to Polish imagination.
 
-## Problemy z tłumaczeniem kulturowym
+## Cultural Translation Problems
 
-**Gra słów w nazwiskach**
-Nazwa "Passepartout" (francuski "klucz uniwersalny") została genialnie przetłumaczona jako "Obieżyświat", zachowując sens podróżnika przy użyciu polskiego słowa złożonego.
+**Wordplay in Names**
+The name "Passepartout" (French "master key") was brilliantly translated as "Obieżyświat," preserving the sense of a traveler while using a Polish compound word.
 
-**Realia brytyjskie**  
-Polscy czytelnicy muszą rozumieć kontekst brytyjskiego gentlemana z klubu londyńskiego, co wymaga kulturowego tłumaczenia.
+**British Realities**
+Polish readers must understand the context of a British gentleman from a London club, which requires cultural translation.
 
-**XIX-wieczne stereotypy**
-Współczesne polskie wydania muszą radzić sobie z kolonialnymi stereotypami wobec krajów odwiedzanych przez Fogga.
+**19th-Century Stereotypes**
+Contemporary Polish editions must deal with colonial stereotypes toward countries visited by Fogg.
 
-## Współczesna recepcja
+## Contemporary Reception
 
-**Pokaz łyżwiarski w Warszawie (2008)**
-W hali Torwar odbył się spektakl "Bugs Bunny na lodzie", gdzie Phileas Fogg spotykał się z postaciami z Looney Tunes.
+**Ice Show in Warsaw (2008)**
+At Torwar Hall, the show "Bugs Bunny on Ice" took place, where Phileas Fogg met characters from Looney Tunes.
 
-**Symbol punktualności**
-Phileas Fogg pozostaje w polskiej kulturze synonimem brytyjskiej punktualności i metodyczności.
+**Symbol of Punctuality**
+Phileas Fogg remains in Polish culture a synonym for British punctuality and methodicalness.
 
-**Inspiracja dla podróżników**
-Historia Fogga inspiruje polskich podróżników - stąd porównania z Arturem Anuszewskim.
+**Inspiration for Travelers**
+Fogg's story inspires Polish travelers - hence comparisons with Artur Anuszewski.
 
-## Małopolskie i krakowskie konteksty
+## Lesser Poland and Krakow Contexts
 
-**Infrastruktura kulturalna**
-Kraków oferuje bogate możliwości dla wydarzeń związanych z Verne'em poprzez Bibliotekę Krakowską (z licznymi filiami), Muzeum Narodowe, MOCAK i inne instytucje kulturalne.
+**Cultural Infrastructure**
+Krakow offers rich opportunities for Verne-related events through the Krakow Library (with numerous branches), National Museum, MOCAK, and other cultural institutions.
 
-**Brak specific dedicated events**
-Obecnie brak jest stałych wystaw czy wydarzeń poświęconych Verne'owi w Krakowie, choć infrastruktura kulturalna miasta mogłaby takie inicjatywy wspierać.
+**Lack of Specific Dedicated Events**
+Currently, there are no permanent exhibitions or events dedicated to Verne in Krakow, although the city's cultural infrastructure could support such initiatives.
 
 ---
 
-*Zestawienie to pokazuje, jak "W osiemdziesiąt dni dookoła świata" głęboko zakorzeniło się w polskiej kulturze - od pierwszego tłumaczenia w 1873 roku po współczesne adaptacje teatralne. Książka pozostaje nie tylko lekturą szkolną, ale żywym elementem polskiej wyobraźni kulturowej, symbolem brytyjskiej punktualności i inspiracją dla podróżników.*
+*This compilation shows how "Around the World in Eighty Days" has deeply rooted itself in Polish culture - from the first translation in 1873 to contemporary theatrical adaptations. The book remains not only school reading but a living element of Polish cultural imagination, a symbol of British punctuality, and inspiration for travelers.*

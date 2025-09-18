@@ -1,198 +1,198 @@
-# Lokalne konteksty kulturowe - "Księga dżungli" w Polsce
+# Local Cultural Context - "The Jungle Book" in Poland
 
-## Wprowadzenie
-"Księga dżungli" Rudyarda Kiplinga z 1894 roku ma w Polsce bogatą historię kulturową, obejmującą ponad 120 lat obecności w polskiej kulturze literackiej, edukacyjnej i popularnej. Analiza lokalnych kontekstów pokazuje, jak brytyjska opowieść o Mowglem stała się częścią polskiej tradycji czytelniczej i edukacyjnej.
+## Introduction
+"The Jungle Book" by Rudyard Kipling from 1894 has a rich cultural history in Poland, spanning over 120 years of presence in Polish literary, educational, and popular culture. Analysis of local contexts shows how the British story of Mowgli became part of Polish reading and educational tradition.
 
-## Historia polskich wydań i tłumaczeń
+## History of Polish Editions and Translations
 
-### Pionierskie przekłady (1902-1931)
+### Pioneer Translations (1902-1931)
 
-1. **1902** - **Józef Czekalski** - pierwszy polski przekład pt. "Księga puszczy, Druga księga puszczy"
-2. **1903** - **Teodor Mianowski** - "Księga dżungli, Druga księga dżungli", wydawnictwo E. Wende, Warszawa
-3. **1922** - **Franciszek Mirandola** - przekład wydany przez Wydawnictwo Polskie (Lwów-Poznań), wielokrotnie wznawiany, dostępny online w serwisie Wolne Lektury
-4. **1931** - **Józef Birkenmajer** - najczęściej wznawiany polski przekład, ceniony za bogactwo języka i elegancję stylistyczną
+1. **1902** - **Józef Czekalski** - first Polish translation titled "Księga puszczy, Druga księga puszczy" (Book of the Wilderness, Second Book of the Wilderness)
+2. **1903** - **Teodor Mianowski** - "Księga dżungli, Druga księga dżungli" (The Jungle Book, The Second Jungle Book), published by E. Wende, Warsaw
+3. **1922** - **Franciszek Mirandola** - translation published by Wydawnictwo Polskie (Lviv-Poznań), reprinted multiple times, available online at Wolne Lektury service
+4. **1931** - **Józef Birkenmajer** - most frequently reprinted Polish translation, valued for its linguistic richness and stylistic elegance
 
-### Wybitni polscy tłumacze
+### Outstanding Polish Translators
 
-**Józef Birkenmajer (1897-1939)** - słynny międzywojenny tłumacz literatury angielskiej, charakteryzujący się dbałością stylistyczną i bogactwem językowym. Jego przekład z 1931 roku, oparty na wydaniu angielskim z 1928 roku (Macmillan & Co), pozostaje najbardziej cenionym polskim tłumaczeniem "Księgi dżungli". Mimo upływu dekad jego doskonały przekład nadal jest wznawiany.
+**Józef Birkenmajer (1897-1939)** - famous interwar translator of English literature, characterized by stylistic care and linguistic richness. His 1931 translation, based on the 1928 English edition (Macmillan & Co), remains the most valued Polish translation of "The Jungle Book". Despite the passing decades, his excellent translation is still being reprinted.
 
-**Franciszek Mirandola** - autor przekładu z 1922 roku, który przez dziesięciolecia był podstawowym polskim wydaniem książki, obecnie dostępny jako e-book i audiobook w serwisie Wolne Lektury.
+**Franciszek Mirandola** - author of the 1922 translation, which for decades was the basic Polish edition of the book, now available as an e-book and audiobook at the Wolne Lektury service.
 
-## "Księga dżungli" w polskim systemie edukacyjnym
+## "The Jungle Book" in the Polish Educational System
 
-### Lektura szkolna
-- **Klasy 4-6 szkoły podstawowej** - książka często pojawia się jako lektura obowiązkowa lub uzupełniająca
-- **Materiały dydaktyczne** - dostępne specjalne wydania z opracowaniami dla uczniów
-- **Egzaminy i sprawdziany** - przygotowywane są specjalne quizy i materiały egzaminacyjne
-- **Wydania szkolne** - zawierają szczegółowe streszczenia i analizy literackie
+### School Reading
+- **Grades 4-6 of elementary school** - the book often appears as required or supplementary reading
+- **Teaching materials** - special editions with student guides are available
+- **Exams and tests** - special quizzes and exam materials are prepared
+- **School editions** - contain detailed summaries and literary analyses
 
-### Wartości edukacyjne
-Polscy pedagodzy podkreślają w "Księdze dżungli":
-- Nauki o tolerancji i przeciwdziałaniu stereotypom
-- Wartości solidarności i wspólnoty
-- Problemy adaptacji i poszukiwania tożsamości
-- Kontrasty między światem natury a cywilizacją
+### Educational Values
+Polish educators emphasize in "The Jungle Book":
+- Lessons about tolerance and combating stereotypes
+- Values of solidarity and community
+- Problems of adaptation and identity searching
+- Contrasts between the world of nature and civilization
 
-## Polskie adaptacje teatralne
+## Polish Theatrical Adaptations
 
-### Główne produkcje teatralne
+### Major Theatrical Productions
 
-1. **Teatr Muzyczny Roma** (Warszawa) - premiera 19 listopada 2016 na scenie NOVA, musical familijny w reżyserii z scenariuszem i tekstami piosenek Jakuba Szydłowskiego, muzyka Jakub Lubowicz
+1. **Roma Musical Theatre** (Warsaw) - premiere November 19, 2016 on the NOVA stage, family musical directed with screenplay and song lyrics by Jakub Szydłowski, music by Jakub Lubowicz
 
-2. **Teatr Muzyczny w Gdyni** - spektakl o czasie trwania 1 godzina 35 minut, polecany od 7. roku życia, podejmujący tematy tolerancji i niebezpieczeństw grożących dzieciom
+2. **Musical Theatre in Gdynia** - performance lasting 1 hour 35 minutes, recommended from age 7, addressing themes of tolerance and dangers threatening children
 
-3. **Teatr Andersena w Lublinie** - produkcja otrzymała uznanie na Festiwalu Mała Boska Komedia w Krakowie, nominowana w kategoriach najlepsza adaptacja i najlepszy teatr lalkowy
+3. **Andersen Theatre in Lublin** - production received recognition at the Small Divine Comedy Festival in Krakow, nominated in categories of best adaptation and best puppet theatre
 
-4. **Teatr Maska** - wersja z użyciem kostiumów zwierzęcych, masek i lalek, podkreślająca atmosferyczną muzykę
+4. **Maska Theatre** - version using animal costumes, masks and puppets, emphasizing atmospheric music
 
-5. **Teatr Muzyczny w Poznaniu** - własna wersja w repertuarze stałym
+5. **Musical Theatre in Poznań** - own version in permanent repertoire
 
-6. **Teatr Baj Pomorski** - produkcja otrzymująca pozytywne recenzje publiczności
+6. **Baj Pomorski Theatre** - production receiving positive audience reviews
 
-### Charakterystyka polskich spektakli
-- **Grupa docelowa**: dzieci i młodzież od 6-7 lat
-- **Forma**: musicale z piosenkami, kostiumami i lalkami
-- **Przesłanie**: naciski na tolerancję, przyjaźń, wartości ekologiczne
-- **Recepcja**: opisywane jako "uczta dla dzieci i dorosłych"
+### Characteristics of Polish Performances
+- **Target group**: children and youth from 6-7 years old
+- **Form**: musicals with songs, costumes and puppets
+- **Message**: emphasis on tolerance, friendship, ecological values
+- **Reception**: described as "a feast for children and adults"
 
-## Disney i polska kinematografia
+## Disney and Polish Cinematography
 
-### Animacja z 1967 roku
-- **Premiera w Polsce**: 18 marca 1994 (dystrybucja: Syrena Entertainment Group)
-- **Polski dubbing**: dialogi Elżbieta Kowalska, tłumaczenie Barbara Włodarek, teksty piosenek Ryszard Skalski, kierownictwo muzyczne Czesław Majewski
-- **Robert Terechowicz-Schmidt** - głos śpiewający Mowgliego w polskiej wersji
+### 1967 Animation
+- **Polish premiere**: March 18, 1994 (distribution: Syrena Entertainment Group)
+- **Polish dubbing**: dialogues by Elżbieta Kowalska, translation by Barbara Włodarek, song lyrics by Ryszard Skalski, musical direction by Czesław Majewski
+- **Robert Terechowicz-Schmidt** - singing voice of Mowgli in the Polish version
 
-### Seriale animowane na TVP1
-W bloku "Walt Disney Presents" emitowano:
-- **Super Baloo (TaleSpin)** (1990-1994)
+### Animated Series on TVP1
+In the "Walt Disney Presents" block were aired:
+- **TaleSpin** (1990-1994)
 - **Jungle Cubs** (1996-1998)
 
-### Film z 2016 roku
-- **Reżyseria dubbingu polskiego**: Waldemar Modestowicz
-- **Dialogi**: Jan Wecsile
-- **Teksty piosenek**: Michał Wojnarowski
-- **Dystrybucja**: The Walt Disney Company Poland
+### 2016 Film
+- **Polish dubbing direction**: Waldemar Modestowicz
+- **Dialogues**: Jan Wecsile
+- **Song lyrics**: Michał Wojnarowski
+- **Distribution**: The Walt Disney Company Poland
 
-### Wspomnienia dzieciństwa
-Polscy widzowie wspominają film jako:
-- "Magiczny" element dzieciństwa
-- Kasety VHS oglądane "kilka razy dziennie"
-- Trwały ślad w pamięci pokoleniowej
-- Symbol beztroski dzieciństwa lat 90.
+### Childhood Memories
+Polish viewers remember the film as:
+- "Magical" element of childhood
+- VHS tapes watched "several times a day"
+- Lasting trace in generational memory
+- Symbol of carefree childhood of the 90s
 
-## "Prawo dżungli" w polskiej kulturze
+## "Law of the Jungle" in Polish Culture
 
-### Dwoistość znaczeniowa
-**Potoczne użycie**: "prawo silniejszego", bezprawie, darwinizm społeczny
-**Literackie znaczenie**: sprawiedliwy kodeks zachowań w dziele Kiplinga
+### Dual Meaning
+**Colloquial use**: "law of the stronger", lawlessness, social Darwinism
+**Literary meaning**: just code of conduct in Kipling's work
 
-### Kipling jako ironista
-W dziele autora "prawo dżungli" oznacza pozytywny kodeks - najstarsze prawo świata, uwzględniające wszystkie przypadki życia plemion leśnych. Niedźwiedź Baloo wykładał te prawa młodym wilkom i Mowgliemu.
+### Kipling as Ironist
+In the author's work, "law of the jungle" means a positive code - the oldest law in the world, taking into account all cases of forest tribes' life. Bear Baloo taught these laws to young wolves and Mowgli.
 
-### Główne zasady w polskim odbiorze
-- **Solidarność** wszystkich mieszkańców dżungli
-- **Nienaruszalność terytorium** każdego gatunku
-- **Zakaz napadania na człowieka**
-- **Sprawiedliwość** przewyższająca prawa ludzkie
+### Main Principles in Polish Reception
+- **Solidarity** of all jungle inhabitants
+- **Territorial inviolability** of each species
+- **Prohibition of attacking humans**
+- **Justice** surpassing human laws
 
-### Kulturowe przesłanie
-Polscy czytelnicy interpretują "prawo dżungli" jako:
-- Krytykę niesprawiedliwości świata ludzkiego
-- Model idealnego ustroju społecznego
-- Wzór dla "niemądrej i niezgodnej Gromady ludzkiej"
+### Cultural Message
+Polish readers interpret "law of the jungle" as:
+- Criticism of the human world's injustice
+- Model of ideal social order
+- Pattern for the "unwise and discordant human Pack"
 
-## Postacie w polskich tłumaczeniach
+## Characters in Polish Translations
 
-### Zachowanie oryginalnych nazw
-- **Mowgli** - główny bohater
-- **Baloo** - niedźwiedź (nauczyciel Prawa Dżungli)
-- **Bagheera** - czarna pantera
-- **Shere Khan** - tygrys, w dżungli nazywany "Kuternoga" (odniesienie do kalectwa)
+### Preservation of Original Names
+- **Mowgli** - main character
+- **Baloo** - bear (teacher of Jungle Law)
+- **Bagheera** - black panther
+- **Shere Khan** - tiger, called "Lame One" in the jungle (reference to disability)
 
-### Dodatkowe polskie nazwy
-- **Szary Brat** (Gray Brother)
-- **Tabaqui** - szakal
-- **Szeregowy Hathi** (Private Hathi) - słoń
-- **Kaa** - wąż
+### Additional Polish Names
+- **Gray Brother** (Szary Brat)
+- **Tabaqui** - jackal
+- **Private Hathi** (Szeregowy Hathi) - elephant
+- **Kaa** - snake
 
-## Krytyka akademicka w Polsce
+## Academic Criticism in Poland
 
-### Postkolonialna perspektywa
-**Antonina Łuszczykiewicz** - autorka pracy "Psalmista szowinizmu" - Rudyard Kipling wobec Indii i Indusów, analizującej kulturowe stereotypy i uprzedzenia wobec Hindusów w twórczości Kiplinga.
+### Postcolonial Perspective
+**Antonina Łuszczykiewicz** - author of the work "Psalmista szowinizmu" - Rudyard Kipling wobec Indii i Indusów (Psalmist of Chauvinism - Rudyard Kipling towards India and Indians), analyzing cultural stereotypes and prejudices against Hindus in Kipling's work.
 
-### Polskie badania postkolonialne
-- Rozwój **"krytyki postzależnościowej"** jako polskiego wariantu studiów postkolonialnych
-- Analiza Kiplinga jako "barda imperializmu"
-- Kipling postrzegany jako propagator kolonializmu, ale o niekwestionowanej pozycji literackiej
+### Polish Postcolonial Studies
+- Development of **"post-dependency criticism"** as a Polish variant of postcolonial studies
+- Analysis of Kipling as "bard of imperialism"
+- Kipling perceived as a propagator of colonialism, but of unquestionable literary position
 
-### Akademicka recepcja
-- Kipling jako "prorok brytyjskiego imperializmu" (za George'em Orwellem)
-- Krytyka rasowych uprzedzeń i militarystycznych przekonań
-- Uznanie dla kunsztu literackiego przy krytyce ideologii
-- Postulat ciągłego badania i reinterpretacji spuścizny
+### Academic Reception
+- Kipling as "prophet of British imperialism" (following George Orwell)
+- Criticism of racial prejudices and militaristic convictions
+- Recognition for literary craftsmanship while criticizing ideology
+- Postulate for continuous research and reinterpretation of legacy
 
-## Współczesna recepcja w Polsce
+## Contemporary Reception in Poland
 
-### Wydawnictwa i dostępność
-- **Wolne Lektury** - darmowy dostęp online do przekładu Mirandoli
-- **Wydania szkolne** z opracowaniami (Wydawnictwo Greg, SBM)
-- **Wydania dwujęzyczne** (polsko-angielskie)
-- **Audiobooki** w polskich serwisach
+### Publishers and Availability
+- **Wolne Lektury** - free online access to Mirandola's translation
+- **School editions** with commentaries (Greg Publishing, SBM)
+- **Bilingual editions** (Polish-English)
+- **Audiobooks** in Polish services
 
-### Oceny czytelników
-Polscy czytelnicy na portalach takich jak Lubimyczytać.pl oceniają dzieło jako:
-- Klasykę literatury dziecięcej
-- Ponadczasowe przesłanie o przyjaźni i naturze
-- Nostalgiczne wspomnienia z dzieciństwa
-- Wartościową lekturę dla rodzin
+### Reader Reviews
+Polish readers on portals like Lubimyczytać.pl evaluate the work as:
+- Classic of children's literature
+- Timeless message about friendship and nature
+- Nostalgic childhood memories
+- Valuable reading for families
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Krakowski kontekst
-- Teatr Andersena z Lublina otrzymał uznanie na krakowskim **Festiwalu Mała Boska Komedia**
-- Krakowskie teatry również prezentowały własne wersje spektaklu
-- W regionie Małopolski książka często pojawia się w programach bibliotek dziecięcych
+### Krakow Context
+- Andersen Theatre from Lublin received recognition at the Krakow **Small Divine Comedy Festival**
+- Krakow theatres also presented their own versions of the performance
+- In the Lesser Poland region, the book often appears in children's library programs
 
-### Polskie motywy interpretacyjne
-- Mowgli jako **dziecko natury** vs. dziecko cywilizacji (nawiązania do polskiego romantyzmu)
-- **Solidarność zwierzęca** interpretowana przez pryzmat polskich doświadczeń zbiorowych
-- **Kodeks honorowy dżungli** porównywany do polskich tradycji rycerskich
+### Polish Interpretive Motifs
+- Mowgli as **child of nature** vs. child of civilization (references to Polish romanticism)
+- **Animal solidarity** interpreted through the prism of Polish collective experiences
+- **Jungle honor code** compared to Polish chivalric traditions
 
-## Wyzwania tłumaczeniowe
+## Translation Challenges
 
-### Specyfika kulturowa
-- **Realia indyjskie** - nazwy zwierząt, roślin, miejsc
-- **Terminologia kolonialna** - problem z archaizmami i pojęciami imperialnymi
-- **Język poetycki** - przekład wierszowanych fragmentów ("Prawo Dżungli")
+### Cultural Specificity
+- **Indian realities** - names of animals, plants, places
+- **Colonial terminology** - problem with archaisms and imperial concepts
+- **Poetic language** - translation of versified fragments ("Law of the Jungle")
 
-### Rozwiązania tłumaczy
-- **Birkenmajer**: elegancja stylistyczna, bogactwo synonimów
-- **Mirandola**: wierność tekstowi, zachowanie rytmu poetyckiego
-- **Współcześni tłumacze**: dostosowanie do współczesnej polszczyzny
+### Translators' Solutions
+- **Birkenmajer**: stylistic elegance, richness of synonyms
+- **Mirandola**: fidelity to text, preservation of poetic rhythm
+- **Contemporary translators**: adaptation to contemporary Polish
 
-## Wpływ na polską kulturę popularną
+## Impact on Polish Popular Culture
 
-### Frazy i wyrażenia
-- **"Prawo dżungli"** - powszechnie używane w polszczyźnie
-- **"My z jednego stada"** - solidarność grupowa
-- **"Czas łowów"** - metafora działania
+### Phrases and Expressions
+- **"Law of the jungle"** - commonly used in Polish
+- **"We are of one pack"** - group solidarity
+- **"Hunting time"** - metaphor for action
 
-### Inspiracje kulturowe
-- Motywy w polskiej fantastyce dziecięcej
-- Nawiązania w filmach familijnych
-- Adaptacje w polskich komiksach i grach
+### Cultural Inspirations
+- Motifs in Polish children's fantasy
+- References in family films
+- Adaptations in Polish comics and games
 
-## Podsumowanie
+## Summary
 
-"Księga dżungli" Rudyarda Kiplinga zajmuje wyjątkowe miejsce w polskiej kulturze, funkcjonując jednocześnie jako:
-- **Literatura dziecięca** z ważnymi wartościami wychowawczymi
-- **Lektura szkolna** kształtująca młode pokolenia
-- **Klasyka teatralna** w repertuarze polskich teatrów dziecięcych
-- **Fenomen kinematograficzny** w dobie Disney'a
-- **Przedmiot krytyki akademickiej** w kontekście studiów postkolonialnych
+"The Jungle Book" by Rudyard Kipling occupies a unique place in Polish culture, functioning simultaneously as:
+- **Children's literature** with important educational values
+- **School reading** shaping young generations
+- **Theatrical classic** in Polish children's theatre repertoire
+- **Cinematographic phenomenon** in the Disney era
+- **Subject of academic criticism** in the context of postcolonial studies
 
-Pomimo kolonialnego rodowodu, dzieło zostało zaadaptowane do polskich realiów kulturowych, stając się nośnikiem uniwersalnych wartości o przyjaźni, solidarności i harmonii z naturą. Wybitne polskie tłumaczenia, szczególnie Józefa Birkenmajera, zapewniły książce trwałe miejsce w kanonie polskiej literatury dziecięcej.
+Despite its colonial origins, the work has been adapted to Polish cultural realities, becoming a carrier of universal values about friendship, solidarity, and harmony with nature. Outstanding Polish translations, especially by Józef Birkenmajer, ensured the book a permanent place in the canon of Polish children's literature.
 
 ---
 
-*Badanie obejmuje okres od pierwszego polskiego przekładu (1902) do współczesności (2024), z uwzględnieniem lokalnych specyfik recepcji w Polsce i regionie Małopolski.*
+*The study covers the period from the first Polish translation (1902) to the present (2024), taking into account local reception specifics in Poland and the Lesser Poland region.*

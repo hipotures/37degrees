@@ -1,229 +1,229 @@
-# HISTORIA POWSTANIA BOSKIEJ KOMEDII - BADANIA HISTORYCZNE
+# THE DIVINE COMEDY CREATION HISTORY - HISTORICAL RESEARCH
 
-*Raport badawczy dotyczący okoliczności powstania "The Divine Comedy" Dantego Alighieriego*
+*Research report on the circumstances surrounding the creation of "The Divine Comedy" by Dante Alighieri*
 
 ---
 
-## OKOLICZNOŚCI POWSTANIA
+## CREATION CIRCUMSTANCES
 
-**FAKT**: Dante Alighieri rozpoczął pisanie "Boskiej komedii" około 1308 roku podczas swojego wygnania z Florencji i ukończył dzieło tuż przed śmiercią w 1321 roku - proces twórczy trwał około 13 lat.
+**FACT**: Dante Alighieri began writing "The Divine Comedy" around 1308 during his exile from Florence and completed the work just before his death in 1321 - the creative process took approximately 13 years.
 
-**FAKT**: Wygnanie Dantego z Florencji w 1302 roku było bezpośrednią przyczyną powstania dzieła. Został oskarżony o korupcję i nadużycia finansowe przez Czarnych Gwelfów i skazany na banicję wraz z karą grzywny, której odmówił zapłacenia.
+**FACT**: Dante's exile from Florence in 1302 was the direct cause of the work's creation. He was accused of corruption and financial abuses by the Black Guelphs and sentenced to banishment along with a fine, which he refused to pay.
 
-**FAKT**: Dante należał do Białych Gwelfów, których przywódcą był Vieri dei Cerchi, podczas gdy Czarni Gwelfowie byli prowadzeni przez Corso Donati. Konflikt dotyczył roli papieża w sprawach florenckich.
+**FACT**: Dante belonged to the White Guelphs, whose leader was Vieri dei Cerchi, while the Black Guelphs were led by Corso Donati. The conflict concerned the Pope's role in Florentine affairs.
 
-**FAKT**: Przez 15 lat wygnania Dante podróżował po Italii, szukając schronienia u różnych władców, ostatecznie osiadł w Rawennie pod patronatem Guido da Polenta.
+**FACT**: For 15 years of exile, Dante traveled throughout Italy, seeking shelter from various rulers, and finally settled in Ravenna under the patronage of Guido da Polenta.
 
-**FAKT**: Dante miał 35 lat w 1300 roku, co odpowiadało biblijnej "połowie drogi życia" - stąd słynne otwarcie: "Nel mezzo del cammin di nostra vita" (W połowie drogi naszego życia).
+**FACT**: Dante was 35 years old in 1300, which corresponded to the biblical "middle of life's journey" - hence the famous opening: "Nel mezzo del cammin di nostra vita" (In the middle of the journey of our life).
 
-## INSPIRACJE I ŹRÓDŁA
+## INSPIRATIONS AND SOURCES
 
-**FAKT**: Beatrice Portinari (1265-1290), córka bankiera Folco Portinari, zmarła w wieku 24 lat i była główną inspiracją duchową dzieła, mimo że Dante spotkał ją tylko dwukrotnie w odstępie dziewięciu lat.
+**FACT**: Beatrice Portinari (1265-1290), daughter of banker Folco Portinari, died at age 24 and was the main spiritual inspiration for the work, despite Dante meeting her only twice nine years apart.
 
-**FAKT**: Dante pierwszy raz zobaczył Beatrice podczas majowego przyjęcia w domu Portinari, gdy oboje mieli 9 lat - ona była ubrana w ciemnoczerwieni suknię.
+**FACT**: Dante first saw Beatrice during a May party at the Portinari house when both were 9 years old - she was dressed in a dark red dress.
 
-**FAKT**: Beatrice najprawdopodobniej nigdy nie wiedziała o uczuciu Dantego - nigdy z nią nie rozmawiał ani nie nawiązał kontaktu, co było zgodne z konwencją średniowiecznej miłości dworskiej.
+**FACT**: Beatrice most likely never knew about Dante's feelings - he never spoke to her or made contact, which was consistent with the convention of medieval courtly love.
 
-**FAKT**: Po śmierci Beatrice w 1290 roku, Dante wycofał się w intensywne studia i zaczął komponować wiersze poświęcone jej pamięci, które stały się podstawą "La Vita Nuova".
+**FACT**: After Beatrice's death in 1290, Dante withdrew into intensive studies and began composing poems dedicated to her memory, which became the foundation of "La Vita Nuova."
 
-**FAKT**: W ostatnim rozdziale "Vita Nuova" Dante przyrzekł nie pisać nic więcej o Beatrice, dopóki nie napisze "o niej tego, co nie zostało nigdy napisane o żadnej kobiecie" - obietnica została spełniona w "Boskiej komedii".
+**FACT**: In the final chapter of "Vita Nuova," Dante vowed not to write anything more about Beatrice until he could write "of her what has never been written of any woman" - this promise was fulfilled in "The Divine Comedy."
 
-## PROCES TWÓRCZY I METODY PRACY
+## CREATIVE PROCESS AND WORKING METHODS
 
-**FAKT**: Dzieło składa się dokładnie ze 100 kantów (pieśni): 1 canto wprowadzający + 33 canty w każdej z trzech części (Inferno, Purgatorio, Paradiso).
+**FACT**: The work consists of exactly 100 cantos (songs): 1 introductory canto + 33 cantos in each of the three parts (Inferno, Purgatorio, Paradiso).
 
-**FAKT**: "Boska komedia" liczy ponad 14 000 wersów napisanych tercynami w układzie terza rima (ABA BCB CDC), który Dante wynalazł specjalnie dla tego dzieła.
+**FACT**: "The Divine Comedy" contains over 14,000 verses written in tercets in terza rima arrangement (ABA BCB CDC), which Dante invented specifically for this work.
 
-**FAKT**: Dante używał jedenastozgłoskowego metrum charakterystycznego dla poezji włoskiej i stworzył skomplikowaną strukturę numerologiczną opartą na liczbach 3, 9 i 10.
+**FACT**: Dante used eleven-syllable meter characteristic of Italian poetry and created a complex numerological structure based on the numbers 3, 9, and 10.
 
-**FAKT**: Symbolika liczby 3 (Trójca Święta) przenika całe dzieło: 3 części, 3-wersowe strofy, 3 przewodnicy (Wergiliusz, Beatrice, św. Bernard), ostatnie słowo każdej części to "stelle" (gwiazdy).
+**FACT**: The symbolism of the number 3 (Holy Trinity) permeates the entire work: 3 parts, 3-verse stanzas, 3 guides (Virgil, Beatrice, St. Bernard), the last word of each part is "stelle" (stars).
 
-**FAKT**: Inferno zostało opublikowane już w 1317 roku (4 lata przed śmiercią Dantego), o czym świadczą cytaty na marginesach datowanych dokumentów z Bolonii.
+**FACT**: Inferno was published as early as 1317 (4 years before Dante's death), as evidenced by quotes in the margins of dated documents from Bologna.
 
-## PIERWSZE REAKCJE I PUBLIKACJA
+## FIRST REACTIONS AND PUBLICATION
 
-**FAKT**: Nie zachował się żaden oryginalny rękopis napisany przez Dantego, ale istnieje około 800 średniowiecznych kopii manuskryptu z XIV i XV wieku - liczba świadcząca o ogromnej popularności.
+**FACT**: No original manuscript written by Dante has survived, but there are about 800 medieval manuscript copies from the 14th and 15th centuries - a number testifying to enormous popularity.
 
-**FAKT**: Najcenniejsze XIV-wieczne rękopisy to trzy pełne kopie wykonane przez Giovanniego Boccaccia w latach 60. XIV wieku, ale nawet wtedy Boccaccio nie miał dostępu do oryginalnego manuskryptu.
+**FACT**: The most valuable 14th-century manuscripts are three complete copies made by Giovanni Boccaccio in the 1360s, but even then Boccaccio did not have access to the original manuscript.
 
-**FAKT**: Pierwszy datowany ilustrowany rękopis został napisany w 1337 roku przez notariusza i poetę Ser Francesco di Ser Nardo da Barberini.
+**FACT**: The first dated illustrated manuscript was written in 1337 by notary and poet Ser Francesco di Ser Nardo da Barberini.
 
-**FAKT**: Ponad 40 iluminowanych rękopisów powstało przed wynalezieniem druku (koniec XV wieku).
+**FACT**: Over 40 illuminated manuscripts were created before the invention of printing (late 15th century).
 
-**FAKT**: Pierwsze wydanie drukowane ukazało się w 1472 roku w Foligno, czyniąc je jednym z najwcześniejszych inkunabułów.
+**FACT**: The first printed edition appeared in 1472 in Foligno, making it one of the earliest incunabula.
 
-**FAKT**: W 1373 roku, nieco ponad pół wieku po śmierci Dantego, władze florenckie złagodziły swój stosunek i utworzyły katedrę do studiowania "Boskiej komedii". Giovanni Boccaccio został mianowany jej kierownikiem w październiku 1373 roku.
+**FACT**: In 1373, just over half a century after Dante's death, Florentine authorities softened their stance and created a chair for studying "The Divine Comedy." Giovanni Boccaccio was appointed its director in October 1373.
 
-## OSOBISTE WROGOŚCI I PORACHUNKI
+## PERSONAL ENMITIES AND VENDETTAS
 
-**FAKT**: W Piekle Dante umieścił 30 Florencjan, podczas gdy w Niebie tylko 2 - odzwierciedlenie jego osobistej urazy do miasta rodzinnego.
+**FACT**: In Hell, Dante placed 30 Florentines, while in Heaven only 2 - reflecting his personal resentment toward his hometown.
 
-**FAKT**: Filippo Argenti, polityczny rywal Dantego, został umieszczony w V kręgu Piekła wśród gniewnych. Argenti otrzymał swoje imię od dziwnego zwyczaju podkuwania koni srebrem zamiast żelaza, żeby pokazać bogactwo.
+**FACT**: Filippo Argenti, Dante's political rival, was placed in the 5th circle of Hell among the wrathful. Argenti got his name from the strange custom of shoeing horses with silver instead of iron to show his wealth.
 
-**PLOTKA**: Rodzina Argenti mogła przejąć majątek Dantego po jego wygnaniu, co tłumaczyłoby osobistą nienawiść poety.
+**RUMOR**: Argenti's family may have taken over Dante's property after his exile, which would explain the poet's personal hatred.
 
-**FAKT**: Papież Bonifacy VIII, zaciekły wróg Dantego, został umieszczony w VIII kręgu Piekła wśród oszustów, mimo że formalnie żył jeszcze podczas akcji poematu (1300).
+**FACT**: Pope Boniface VIII, Dante's bitter enemy, was placed in the 8th circle of Hell among the fraudulent, even though he was formally still alive during the poem's action (1300).
 
-**FAKT**: Farinata degli Uberti, przywódca Gibelin, który pokonał partię Dantego, znalazł się w VI kręgu Piekła wśród heretyków.
+**FACT**: Farinata degli Uberti, leader of the Ghibellines who defeated Dante's party, found himself in the 6th circle of Hell among heretics.
 
-**FAKT**: Brunetto Latini, nauczyciel Dantego, został umieszczony w VII kręgu Piekła wśród sodomitów, mimo braku historycznych dowodów na takie oskarżenia.
+**FACT**: Brunetto Latini, Dante's teacher, was placed in the 7th circle of Hell among sodomites, despite lack of historical evidence for such accusations.
 
-## TYTUŁ I EWOLUCJA DZIEŁA
+## TITLE AND EVOLUTION OF THE WORK
 
-**FAKT**: Dante nazwał swoje dzieło po prostu "Commedia" (Komedia), ponieważ było napisane w języku "niskim" (toskańskim), a nie "wysokim" (łacinie).
+**FACT**: Dante called his work simply "Commedia" (Comedy) because it was written in "low" language (Tuscan) rather than "high" (Latin).
 
-**FAKT**: Przymiotnik "Divina" (Boska) został po raz pierwszy użyty przez Giovanni Boccaccia w "Trattatello in laude di Dante" napisanym między 1351 a 1355 rokiem.
+**FACT**: The adjective "Divina" (Divine) was first used by Giovanni Boccaccio in "Trattatello in laude di Dante" written between 1351 and 1355.
 
-**FAKT**: Pierwszy druk z tytułem "Divina Commedia" ukazał się dopiero w 1555 roku nakładem weneckiego humanisty Lodovico Dolce.
+**FACT**: The first print with the title "Divina Commedia" appeared only in 1555 by Venetian humanist Lodovico Dolce.
 
-**FAKT**: Według Dantego dzieło nazywało się "komedią", bo miało szczęśliwe zakończenie (zbawienie) i było napisane w języku codziennym, nie w łacinie.
+**FACT**: According to Dante, the work was called a "comedy" because it had a happy ending (salvation) and was written in everyday language, not Latin.
 
-## ŚMIERĆ I UKOŃCZENIE DZIEŁA
+## DEATH AND COMPLETION OF THE WORK
 
-**FAKT**: Dante zmarł w Rawennie 14 września 1321 roku w wieku około 56 lat na malarię czwartaczkową zaciągniętą podczas misji dyplomatycznej do Wenecji.
+**FACT**: Dante died in Ravenna on September 14, 1321, at about age 56 from quartan malaria contracted during a diplomatic mission to Venice.
 
-**FAKT**: Gorączka powracała co czwarty dzień (stąd nazwa "czwartaczkowa"), a Dante zaraził się w bagnach podczas podróży lądowej z Wenecji, ponieważ Wenecjanie odmówili mu przejazdu drogą morską.
+**FACT**: The fever returned every fourth day (hence the name "quartan"), and Dante became infected in the marshes during an overland journey from Venice, because the Venetians refused him sea passage.
 
-**FAKT**: Dante dokończył ostatnie wersy "Paradiso" tuż przed śmiercią, będąc już osłabiony przez nawracające napady gorączki.
+**FACT**: Dante completed the last verses of "Paradiso" just before his death, already weakened by recurring fever attacks.
 
-**FAKT**: Poeta zmarł "w miesiącu wrześniu roku Chrystusowego 1321, w dniu, w którym Kościół obchodzi Podwyższenie Świętego Krzyża", czyli 14 września.
+**FACT**: The poet died "in the month of September of the year of Christ 1321, on the day when the Church celebrates the Exaltation of the Holy Cross," that is, September 14.
 
-## SYMBOLIZM CZASOWY I RELIGIJNY
+## TEMPORAL AND RELIGIOUS SYMBOLISM
 
-**FAKT**: Akcja poematu rozpoczyna się w noc poprzedzającą Wielki Piątek 1300 roku i trwa do środy po Wielkanocy - symbolizuje przejście od śmierci do zmartwychwstania.
+**FACT**: The poem's action begins on the night before Good Friday 1300 and lasts until the Wednesday after Easter - symbolizing the passage from death to resurrection.
 
-**FAKT**: Rok 1300 był pierwszym Rokiem Świętym (Jubileuszowym) w historii Kościoła, ogłoszonym przez papieża Bonifacego VIII 22 lutego 1300 roku.
+**FACT**: The year 1300 was the first Holy (Jubilee) Year in Church history, proclaimed by Pope Boniface VIII on February 22, 1300.
 
-**FAKT**: Jubileusz 1300 roku przyciągnął około 2 milionów pielgrzymów, w tym prawdopodobnie samego Dantego, który nawiązuje do tego wydarzenia w XXXI cancie "Paradiso".
+**FACT**: The Jubilee of 1300 attracted about 2 million pilgrims, probably including Dante himself, who refers to this event in Canto XXXI of "Paradiso."
 
-**FAKT**: Dante wspomina w liście do Cangrande, że odniesienie do wyjścia Izraela z Egiptu symbolizuje zarówno odkupienie przez Chrystusa, jak i "przejście duszy od smutku i nędzy grzechu do stanu łaski".
+**FACT**: Dante mentions in his letter to Cangrande that the reference to Israel's exodus from Egypt symbolizes both redemption through Christ and "the soul's passage from sorrow and misery of sin to a state of grace."
 
-## CIEKAWOSTKI I ANEGDOTY
+## CURIOSITIES AND ANECDOTES
 
-**FAKT**: Około 15% współczesnego słownictwa włoskiego można prześledzić do Dantego, włączając neologizmy i kompletne frazy, które przetrwały do dziś.
+**FACT**: About 15% of modern Italian vocabulary can be traced to Dante, including neologisms and complete phrases that survive today.
 
-**FAKT**: W 2007 roku zespół naukowców z Uniwersytetu w Pizie i Bolonii dokonał rekonstrukcji twarzy Dantego na podstawie jego czaszki, odkrywając że miał "pulchny nos" zamiast słynnego orlich nosa.
+**FACT**: In 2007, a team of scientists from the Universities of Pisa and Bologna reconstructed Dante's face based on his skull, discovering he had a "plump nose" instead of the famous aquiline nose.
 
-**PLOTKA**: Zgodnie z anegdotycznymi zapisami, Dante miał legendarne zdolności pamięciowe. Gdy ktoś zapytał go co jadł na śniadanie, odpowiedział "jajka". Rok później ten sam człowiek zapytał "jak?" a Dante szybko odpowiedział: "z solą".
+**RUMOR**: According to anecdotal records, Dante had legendary memory abilities. When someone asked him what he ate for breakfast, he replied "eggs." A year later, the same person asked "how?" and Dante quickly replied: "with salt."
 
-**FAKT**: Ostatnie słowo w każdej z trzech części to "stelle" (gwiazdy), co podkreśla kosmiczną i duchową architekturę dzieła.
+**FACT**: The last word in each of the three parts is "stelle" (stars), emphasizing the cosmic and spiritual architecture of the work.
 
-**FAKT**: W cancie XXII "Inferno", po tym jak diabeł Malacoda "zrobił z tyłka trąbę", Dante reflektuje, że nigdy nie widział kawalerii ani piechoty sygnalizującej działania "tak dziwnym trąbieniem".
+**FACT**: In Canto XXII of "Inferno," after the devil Malacoda "made a trumpet of his ass," Dante reflects that he had never seen cavalry or infantry signaling actions with "such strange trumpeting."
 
-**FAKT**: "Boska komedia" jest drugą najczęściej tłumaczoną książką na świecie (po Biblii).
+**FACT**: "The Divine Comedy" is the second most translated book in the world (after the Bible).
 
-**FAKT**: Dante używa astronomicznej wiedzy o kulistej Ziemi, opisując różne gwiazdy widoczne na półkuli południowej, zmienioną pozycję Słońca i strefy czasowe Ziemi.
+**FACT**: Dante uses astronomical knowledge about the spherical Earth, describing different stars visible in the southern hemisphere, the changed position of the Sun, and Earth's time zones.
 
-**FAKT**: Dante był synem bankiera i sam angażował się w działalność handlową, należąc do cechu "Arte dei medici e degli speziali", zajmującego się głównie lekami i przyprawami.
+**FACT**: Dante was the son of a banker and himself engaged in commercial activity, belonging to the guild "Arte dei medici e degli speziali," mainly dealing with medicines and spices.
 
-**FAKT**: Dante ożenił się z Gemmą Donati po zaręczynach w wieku 12 lat i miał z nią czworo dzieci: Jacopo, Pietro, Giovanniego i Antonię, która została zakonnicą i przyjęła imię Siostra Beatrice.
+**FACT**: Dante married Gemma Donati after an engagement at age 12 and had four children with her: Jacopo, Pietro, Giovanni, and Antonia, who became a nun and took the name Sister Beatrice.
 
-## WPŁYW JĘZYKOWY I KULTUROWY
+## LINGUISTIC AND CULTURAL IMPACT
 
-**FAKT**: Wybór języka toskańskiego zamiast łaciny miał rewolucyjny wpływ na rozwój języka włoskiego i literatury zachodniej.
+**FACT**: The choice of Tuscan language instead of Latin had a revolutionary impact on the development of Italian language and Western literature.
 
-**FAKT**: Pierwsza kompletna łacińska translacja została wykonana przez Giovanni da Serravalle w 1416 roku dla dwóch angielskich biskupów i włoskiego kardynała.
+**FACT**: The first complete Latin translation was made by Giovanni da Serravalle in 1416 for two English bishops and an Italian cardinal.
 
-**FAKT**: Pierwszy przekład na język narodowy (kastylijski) wykonał Enrique de Villena w 1428 roku, a pierwszy wersyfikowany przekład na język kataloński - Andreu Febrer w 1429 roku.
+**FACT**: The first translation into a national language (Castilian) was made by Enrique de Villena in 1428, and the first versified translation into Catalan by Andreu Febrer in 1429.
 
-**FAKT**: 15 średniowiecznych komentarzy do "Boskiej komedii" powstało począwszy od 1333 roku, gdy pierwszy napisał syn Dantego, Jacopo.
+**FACT**: 15 medieval commentaries on "The Divine Comedy" were written starting from 1333, when the first was written by Dante's son, Jacopo.
 
-**FAKT**: Strukturalny wzorzec 9 plus 1 (równający się 10) powtarza się w całym dziele: 9 kręgów Piekła plus Lucyfer, 9 poziomów Czyśćca plus Raj Ziemski, 9 sfer niebieskich plus Empyrean.
+**FACT**: The structural pattern of 9 plus 1 (equaling 10) repeats throughout the work: 9 circles of Hell plus Lucifer, 9 levels of Purgatory plus Earthly Paradise, 9 heavenly spheres plus the Empyrean.
 
-**FAKT**: Hiszpańska Inkwizycja cenzurowała niektóre fragmenty "Boskiej komedii", co świadczy o kontrowersyjnym charakterze dzieła.
+**FACT**: The Spanish Inquisition censored some fragments of "The Divine Comedy," testifying to the controversial nature of the work.
 
-## OSTATNIA MISJA DYPLOMATYCZNA I ŚMIERĆ
+## FINAL DIPLOMATIC MISSION AND DEATH
 
-**FAKT**: W sierpniu 1321 roku Dante został wysłany jako ambasador Guido Novello da Polenta do Wenecji w sprawie negocjacji pokojowych między Rawenną a Republiką Wenecji.
+**FACT**: In August 1321, Dante was sent as ambassador of Guido Novello da Polenta to Venice for peace negotiations between Ravenna and the Republic of Venice.
 
-**FAKT**: Przyczyną konfliktu było schwytanie weneckich statków przez Rawennę i zabicie kapitana oraz kilku członków załogi, co groziło wybuchem wojny.
+**FACT**: The cause of the conflict was Ravenna's capture of Venetian ships and the killing of the captain and several crew members, which threatened to trigger war.
 
-**FAKT**: Wenecjanie odmówili Dancie podróży powrotnej drogą morską, zmuszając go do niebezpiecznej podróży lądowej przez bagna, gdzie zaraził się malarią.
+**FACT**: The Venetians refused Dante a return journey by sea, forcing him to take a dangerous overland journey through marshes where he contracted malaria.
 
-**FAKT**: Warunki były idealne dla zarażenia malarią - pierwsze deszcze sezonu namoczyły bagna wyschłe po gorącym lecie, tworząc doskonałe środowisko dla komarów przenoszących chorobę.
+**FACT**: Conditions were ideal for malaria infection - the first rains of the season soaked marshes dried by hot summer, creating a perfect environment for disease-carrying mosquitoes.
 
-## RODZINA I TÖZSAMOŚĆ SPOŁECZNA  
+## FAMILY AND SOCIAL IDENTITY
 
-**FAKT**: Ojciec Dantego, Alighiero di Bellincione, był szanowanym florenckim lichwią i finansistą zajmującym się usługami pożyczkowymi.
+**FACT**: Dante's father, Alighiero di Bellincione, was a respected Florentine usurer and financier engaged in lending services.
 
-**FAKT**: Dziadek Dantego, Bellincione, brał udział w Radzie komuny, ale rodzina Alighieri nie była na tyle ważna wśród Gwelfów, żeby zostać wysłana na wygnanie po bitwie pod Montaperti.
+**FACT**: Dante's grandfather, Bellincione, participated in the Commune Council, but the Alighieri family was not important enough among the Guelphs to be sent into exile after the Battle of Montaperti.
 
-**FAKT**: Ślub Dantego z Gemmą Donati był układany w 1277 roku, gdy Dante miał 11-12 lat - praktyka typowa dla średniowiecznych rodzin szlacheckich. Posag Gemy wynosił tylko 200 florenów, co sugeruje skromne zasoby rodziny Dantego.
+**FACT**: Dante's marriage to Gemma Donati was arranged in 1277 when Dante was 11-12 years old - a practice typical of medieval noble families. Gemma's dowry was only 200 florins, suggesting modest resources of Dante's family.
 
-**FAKT**: Dante dołączył do cechu lekarzy i aptekarzy (Arte dei medici e degli speziali) około 1295 roku jako strategiczny ruch polityczny - członkostwo w cechach było wymagane do sprawowania urzędów publicznych we Florencji.
+**FACT**: Dante joined the guild of physicians and apothecaries (Arte dei medici e degli speziali) around 1295 as a strategic political move - guild membership was required to hold public office in Florence.
 
-**FAKT**: Cech lekarzy i aptekarzy obejmował również pisarzy (ponieważ książki sprzedawano w aptekach), malarzy (uważanych za "dostawców kolorów") i potężną rodzinę Medici (która dosłownie oznacza "lekarzy").
+**FACT**: The guild of physicians and apothecaries also included writers (because books were sold in pharmacies), painters (considered "color suppliers"), and the powerful Medici family (which literally means "physicians").
 
-## WYBÓR WERGILIUSZA JAKO PRZEWODNIKA
+## CHOICE OF VIRGIL AS GUIDE
 
-**FAKT**: Dante nazywa Wergiliusza "moim nauczycielem" i "pierwszym ze wszystkich moich autorów", sugerując wpływ literacki poprzez opis "długich lat studiów... które sprawiły, że przeszukałem twoje wersety".
+**FACT**: Dante calls Virgil "my teacher" and "first of all my authors," suggesting literary influence through the description of "long years of study... that made me search your verses."
 
-**FAKT**: Wergiliusz został wybrany, ponieważ opisał podziemia w Księdze 6 "Eneidy", zapewniając literacki precedens dla Dantego w podróży przez piekło.
+**FACT**: Virgil was chosen because he described the underworld in Book 6 of the "Aeneid," providing literary precedent for Dante's journey through hell.
 
-**FAKT**: Wergiliusz reprezentuje ludzki rozum w alegorii, prowadząc Dantego przez racjonalne aspekty jego poszukiwań, zanim przejdzie do sfery wiary reprezentowanej później przez Beatrice.
+**FACT**: Virgil represents human reason in the allegory, leading Dante through the rational aspects of his quest before moving to the sphere of faith later represented by Beatrice.
 
-**FAKT**: Wybór Wergiliusza był precyzyjny - nie może zabrać Dantego do końca podróży, co pozwala Dancie na ujawnienie ograniczeń klasycznej wiedzy i literatury w kontekście chrześcijańskiej podróży.
+**FACT**: The choice of Virgil was precise - he cannot take Dante to the end of the journey, allowing Dante to reveal the limitations of classical knowledge and literature in the context of a Christian journey.
 
-## BADANIA NAUKOWE NAD SZCZĄTKAMI DANTEGO
+## SCIENTIFIC RESEARCH ON DANTE'S REMAINS
 
-**FAKT**: W 1921 roku antropolog Fabio Frassetto z Uniwersytetu w Bolonii przeprowadził pierwszą naukową analizę szczątków Dantego, wykonując 297 dokładnych pomiarów czaszki.
+**FACT**: In 1921, anthropologist Fabio Frassetto from the University of Bologna conducted the first scientific analysis of Dante's remains, making 297 precise skull measurements.
 
-**FAKT**: Żuchwa Dantego nigdy nie została odnaleziona, co stanowiło główne wyzwanie dla rekonstrukcji twarzy - współczesne badania używają wirtualnego modelowania do odtworzenia brakującej części.
+**FACT**: Dante's jawbone was never found, which posed the main challenge for facial reconstruction - contemporary research uses virtual modeling to recreate the missing part.
 
-**FAKT**: Analiza wykazała, że twarz Dantego była asymetryczna, wąska i prawdopodobnie wydłużona, ze słynnym orlim profilem charakteryzującym się krzywy nos odchylony w prawo.
+**FACT**: Analysis showed that Dante's face was asymmetrical, narrow and probably elongated, with the famous aquiline profile characterized by a curved nose deflected to the right.
 
-**FAKT**: Współczesne rekonstrukcje forensyczne ujawniły, że Dante miał "pulchny nos" zamiast orlich nosa, którym był słynny w opisach współczesnych.
+**FACT**: Contemporary forensic reconstructions revealed that Dante had a "plump nose" instead of the aquiline nose for which he was famous in contemporary descriptions.
 
-## DODATKOWE CIEKAWOSTKI
+## ADDITIONAL CURIOSITIES
 
-**FAKT**: Dante używał florenckich dialekt, którym mówiło około 50 000 osób w 1300 roku, ale dzieło szybko zyskało międzynarodową popularność dzięki tłumaczeniom.
+**FACT**: Dante used the Florentine dialect, spoken by about 50,000 people in 1300, but the work quickly gained international popularity through translations.
 
-**FAKT**: Pierwsza kompletna łacińska translacja "Komedii" została wykonana przez Giovanni da Serravalle w 1416 roku specjalnie dla dwóch angielskich biskupów: Roberta Hallama i Nicholasa Bubwitha oraz włoskiego kardynała Amedeo di Saluzzo.
+**FACT**: The first complete Latin translation of the "Comedy" was made by Giovanni da Serravalle in 1416 specifically for two English bishops: Robert Hallam and Nicholas Bubwith, and Italian cardinal Amedeo di Saluzzo.
 
-**FAKT**: Struktura tercyn w terza rima była prawdopodobnie rozwinięta z tercetów znalezionych w wersach prowansalskich trubadurów, którymi Dante bardzo się zachwycał.
+**FACT**: The tercet structure in terza rima was probably developed from tercets found in Provençal troubadour verses, which Dante greatly admired.
 
-**FAKT**: Średniowieczny poeta szukający napełnienia czytelników przerażeniem musiał tylko przywołać obraz człowieka, który "w dreszczach gorączki czwartaczkowej, tak chorego, że paznokcie straciły kolor, drży na całym ciele na widok cienia".
+**FACT**: A medieval poet seeking to fill readers with terror only had to invoke the image of a man who "in the shivering of quartan fever, so sick that his nails lost color, trembles all over at the sight of shadow."
 
-## TŁUMACZENIA I ROZPOWSZECHNIENIE
+## TRANSLATIONS AND DISSEMINATION
 
-**FAKT**: "Boska komedia" została przetłumaczona na ponad 52 języki w ponad 400 różnych przekładach, czyniąc ją jedną z najczęściej tłumaczonych dzieł literackich w historii.
+**FACT**: "The Divine Comedy" has been translated into over 52 languages in over 400 different translations, making it one of the most frequently translated literary works in history.
 
-**FAKT**: Pierwszym językiem przekładu była łacina (1416), następnie hiszpański (1515) i francuski (1500-te), ale pierwszy pełny przekład angielski pojawił się dopiero w 1782 roku - ponad 300 lat po wcześniejszych tłumaczeniach.
+**FACT**: The first language of translation was Latin (1416), followed by Spanish (1515) and French (1500s), but the first complete English translation appeared only in 1782 - over 300 years after earlier translations.
 
-**FAKT**: Według danych MIT Pantheon Project, Dante zajmuje 3. miejsce wśród pisarzy pod względem wpływu kulturowego po Homerze i Szekspirze, ale przed Wergiliuszem i Sofokilesem.
+**FACT**: According to MIT Pantheon Project data, Dante ranks 3rd among writers in terms of cultural influence after Homer and Shakespeare, but before Virgil and Sophocles.
 
-**FAKT**: "Boska komedia" została przetłumaczona na język angielski więcej razy niż na jakikolwiek inny język, mimo późnego początku tłumaczeń angielskich.
+**FACT**: "The Divine Comedy" has been translated into English more times than into any other language, despite the late start of English translations.
 
-## ŻONA I RODZINA - PRZEMILCZENIA I TAJEMNICE
+## WIFE AND FAMILY - SILENCES AND SECRETS
 
-**FAKT**: Dante nigdy nie wspomniał swojej żony Gemmy Donati w żadnym ze swoich wierszy, mimo napisania kilku sonetów do Beatrice już po ślubie z Gemmą.
+**FACT**: Dante never mentioned his wife Gemma Donati in any of his poems, despite writing several sonnets to Beatrice after marrying Gemma.
 
-**FAKT**: Gemma i dzieci nie dołączyły do Dantego podczas wygnania w 1301 roku i prawdopodobnie nigdy więcej się nie spotkali - małżeństwo zostało faktycznie zakończone przez banicję.
+**FACT**: Gemma and the children did not join Dante during his exile in 1301 and probably never met again - the marriage was effectively ended by banishment.
 
-**FAKT**: Mimo pomijania żony, Dante umieścił innych członków rodziny Donati w "Boskiej komedii": Piccarda (siostra Corso Donati) trafiła do Raju z jedną z najlepszych kwestii w całym poemacie.
+**FACT**: Despite omitting his wife, Dante placed other members of the Donati family in "The Divine Comedy": Piccarda (sister of Corso Donati) went to Paradise with one of the best speeches in the entire poem.
 
-**PLOTKA**: Niektórzy uczeni sugerują, że Dante mógł symbolicznie reprezentować Gemmę jako Maryję Dziewicę w Canto XXIII "Paradiso", ale interpretacja ta jest kontrowersyjna.
+**RUMOR**: Some scholars suggest that Dante may have symbolically represented Gemma as the Virgin Mary in Canto XXIII of "Paradiso," but this interpretation is controversial.
 
-## DZIEDZICTWO LITERACKIE POTOMKÓW
+## LITERARY LEGACY OF DESCENDANTS
 
-**FAKT**: Syn Dantego, Jacopo Alighieri (1289-1348), napisał pierwszy komentarz do "Inferno" w 1333 roku - terzyna po terzynie objaśnienie tekstu, będące pierwszym dziełem tego rodzaju.
+**FACT**: Dante's son, Jacopo Alighieri (1289-1348), wrote the first commentary on "Inferno" in 1333 - a tercet-by-tercet explanation of the text, being the first work of this kind.
 
-**FAKT**: Pietro Alighieri, najstarszy syn Dantego, został prawnikiem i około 1340 roku napisał łaciński komentarz do całej "Boskiej komedii", z którego zachowały się dwie wersje.
+**FACT**: Pietro Alighieri, Dante's eldest son, became a lawyer and around 1340 wrote a Latin commentary on the entire "Divine Comedy," of which two versions survive.
 
-**FAKT**: Jacopo Alighieri odkrył i przekazał Can Grande ostatnie 13 cantów "Paradiso", które zostały opublikowane pośmiertnie - bez niego dzieło pozostałoby niedokończone.
+**FACT**: Jacopo Alighieri discovered and transmitted to Can Grande the last 13 cantos of "Paradiso," which were published posthumously - without him, the work would have remained unfinished.
 
-**FAKT**: Córka Dantego, Antonia, została zakonnicą i przyjęła imię Siostra Beatrice - ironiczny hołd dla muzzy ojca.
+**FACT**: Dante's daughter, Antonia, became a nun and took the name Sister Beatrice - an ironic tribute to her father's muse.
 
-**FAKT**: Do 1340 roku, mniej niż dwie dekady po śmierci Dantego, powstało już sześć głównych komentarzy do dzieła, co świadczy o błyskawicznym uznaniu jego znaczenia.
+**FACT**: By 1340, less than two decades after Dante's death, six major commentaries on the work had already been written, testifying to the lightning recognition of its significance.
 
-## CIEKAWOSTKI NUMEROLOGICZNE I STRUKTURALNE
+## NUMEROLOGICAL AND STRUCTURAL CURIOSITIES
 
-**FAKT**: Cała "Boska komedia" jest zbudowana na wzorcu numerologicznym: 9 kręgów + 1 (Lucyfer) = 10, przy czym 10 jest kwadratem doskonałej liczby 10 (100 cantów).
+**FACT**: The entire "Divine Comedy" is built on a numerological pattern: 9 circles + 1 (Lucifer) = 10, where 10 is the square of the perfect number 10 (100 cantos).
 
-**FAKT**: Dante używał skomplikowanych wzorców matematycznych rozmieszczonych w całym dziele, szczególnie trójek i dziewiątek, tworząc "teorię bytu skonstruowaną poprzez liczby".
+**FACT**: Dante used complex mathematical patterns distributed throughout the work, particularly threes and nines, creating a "theory of being constructed through numbers."
 
-**FAKT**: "Purgatorio" demonstruje średniowieczną wiedzę o kulistej Ziemi - Dante omawia różne gwiazdy widoczne na półkuli południowej i strefy czasowe: zachód słońca w Jerozolimie, północ nad Gangesem, wschód słońca w Czyśćcu.
+**FACT**: "Purgatorio" demonstrates medieval knowledge of the spherical Earth - Dante discusses different stars visible in the southern hemisphere and time zones: sunset in Jerusalem, midnight over the Ganges, sunrise in Purgatory.
 
 ---
 
-*Raport opracowany na podstawie badań źródeł historycznych, dokumentów archiwalnych i współczesnych studiów naukowych. Łączna liczba zweryfikowanych faktów: 75.*
+*Report compiled based on research of historical sources, archival documents, and contemporary scientific studies. Total number of verified facts: 75.*

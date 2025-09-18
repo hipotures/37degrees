@@ -4,3 +4,177 @@ book_info:
   author: "E.M. Forster"
   year: 1924
   genre: "Novel,Colonial"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T15:42:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 6
+    contemporary_reception: 2
+    relevance: 8
+    innovation: 7
+    structural_complexity: 6
+    social_roles: 9
+    total: 55
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Forster was homosexual but hid his orientation throughout his public life due to British criminal law"
+        source: "dark_drama"
+      - id: "dark_drama_1"
+        type: "ACCUSATION"
+        credibility: 0.70
+        content: "Edward Said accused Forster of orientalist stereotypes - linking Islam with Western values while presenting Hinduism as chaotic"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "The Marabar Caves represent cosmic emptiness, the more terrifying aspect of Hinduism's universal unity"
+        source: "symbols_meanings"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "The echo reduces all sounds to one - 'boum,' eliminating differences between words of hope, politeness, and even rape"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "David Lean's 1984 film received 11 Oscar nominations, won 2 statuettes - recognized as one of the greatest literary adaptations"
+        source: "culture_impact"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Dr. Aziz prophesies that India will drive out British rule during the next European war - India gained independence in 1947, right after WWII"
+        source: "reality_wisdom"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Forster masterfully employed free indirect discourse, a technique allowing fluid transitions between narrator's voice and character consciousness"
+        source: "writing_innovation"
+      - id: "innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Forster created influential theory of flat and round characters - if a character never surprises, it is flat"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, featured in university curricula worldwide as cornerstone of postcolonial studies"
+        key_editions: ["Norton Critical Edition", "Penguin Classics with Pankaj Mishra introduction"]
+        reception_notes: "Immediate success upon publication, won James Tait Black Memorial Prize 1924"
+        educational_status: "Required reading in A-Level English Literature and university modernism courses"
+        local_themes: ["British imperial decline", "Colonial administration psychology", "Modernist literary techniques"]
+
+      pl:
+        cultural_impact: "Multiple Polish translations since 1938, active academic discussions about colonialism parallels with Polish partition experience"
+        key_editions: ["Czytelnik 1979 edition by Tarnowska and Konarek", "Contemporary reprints from Empik, Woblink"]
+        reception_notes: "Mixed reader reception - some disappointed by lack of exotic travel descriptions, others praise psychological depth"
+        educational_status: "Not officially on school reading lists but used in advanced English studies and postcolonial analysis"
+        local_themes: ["Polish sympathy for oppressed due to partition history", "Criticism of imperialism resonates with independence tradition"]
+
+      de:
+        cultural_impact: "Established presence in German academic discourse on postcolonial studies, studied within Interkulturelle Germanistik programs"
+        key_editions: ["Fischer Verlag translations by Wolfgang von Einsiedel", "Multiple reprints from 1960-2015"]
+        reception_notes: "Strong academic reception, integrated into German examination of colonial discourse and orientalism"
+        educational_status: "Valuable for Gymnasium literature studies, offers complex themes for analysis"
+        local_themes: ["German Romantic Oriental themes connection", "Frankfurt School critical theory applications", "Postcolonial German studies"]
+
+      fr:
+        cultural_impact: "French translation available, studied in context of francophone postcolonial literature comparison"
+        key_editions: ["French academic editions for university study"]
+        reception_notes: "Academic interest in orientalism parallels with French colonial experience"
+        educational_status: "Used in comparative literature and postcolonial studies programs"
+        local_themes: ["French vs British colonial approaches", "Orientalism comparative analysis"]
+
+      es:
+        cultural_impact: "Spanish translations available, relevant to Latin American postcolonial discourse"
+        key_editions: ["Spanish academic editions"]
+        reception_notes: "Interest in colonial power dynamics and independence movements"
+        educational_status: "Used in literature and cultural studies programs"
+        local_themes: ["Colonial resistance parallels", "Cultural identity formation", "Power dynamics analysis"]
+
+      pt:
+        cultural_impact: "Portuguese translations available, relevant to Brazilian and Portuguese colonial studies"
+        key_editions: ["Portuguese and Brazilian academic editions"]
+        reception_notes: "Academic interest in colonial relationships and cultural exchange"
+        educational_status: "Used in comparative colonial studies"
+        local_themes: ["Lusophone colonial experience comparison", "Cultural mixing and identity"]
+
+      ja:
+        cultural_impact: "Japanese translations and academic study, relevant to Japanese modernization and Western encounter themes"
+        key_editions: ["Japanese academic translations"]
+        reception_notes: "Interest in East-West cultural encounter themes"
+        educational_status: "Used in English literature and cultural studies"
+        local_themes: ["Meiji Restoration Western encounter parallels", "Cultural adaptation and resistance"]
+
+      ko:
+        cultural_impact: "Korean translations available, relevant to colonial occupation and cultural identity themes"
+        key_editions: ["Korean academic translations"]
+        reception_notes: "Strong resonance with Korean colonial experience under Japan"
+        educational_status: "Used in postcolonial literature studies"
+        local_themes: ["Colonial occupation psychological effects", "Cultural resistance and identity preservation"]
+
+      hi:
+        cultural_impact: "Hindi translations and critical reception from Indian perspective, essential text for understanding colonial representation"
+        key_editions: ["Hindi academic translations", "Indian critical editions"]
+        reception_notes: "Critical examination of orientalist representation, important for decolonizing discourse"
+        educational_status: "Studied in Indian universities as example of colonial literature"
+        local_themes: ["Orientalist representation critique", "Colonial trauma and healing", "Indigenous knowledge systems"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Forster's homosexuality hidden due to British criminal law, impact on colonial critique"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Edward Said's orientalism accusations, cultural stereotypes and racial hierarchies"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Third Culture Kids experience, colonial trauma response, modern microaggressions"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Decolonizing curricula, postcolonial healing, contemporary social justice connections"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'A Passage to India' through lens of power, gender, class. Historical context: 1924. Focus on colonial psychology, systemic oppression, and how liberal young people became conservative officials in India. Connect to independence movements and Gandhi's campaigns."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of colonial trauma, Third Culture Kids experience, and contemporary discussions about cultural appropriation vs appreciation. Address how the book's themes resonate with today's social justice movements."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["discussion of false sexual allegations", "racism and colonialism in historical context", "complex cultural topics requiring maturity", "analysis of stereotypes and prejudices"]
+    educational_elements: ["colonial literature analysis", "postcolonial theory introduction", "cross-cultural communication", "historical context of British Raj", "modernist literary techniques"]
+    production_notes:
+      intro_style: "scholarly introduction with historical context"
+      transitions: "subtle musical bridges with Indian classical influences"
+      outro_style: "reflective conclusion connecting past to present"
+
+  overall_confidence: 0.92

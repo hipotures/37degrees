@@ -1,394 +1,394 @@
-# Symbolika i ukryte znaczenia w "Bóg rzeczy małych" Arundhati Roy
+# Symbolism and Hidden Meanings in "The God of Small Things" by Arundhati Roy
 
-## 1. Ćma Pappachiego - Symbol fragmentacji i nieuznania
+## 1. Pappachi's Moth - Symbol of Fragmentation and Non-Recognition
 
-**Klasyczna interpretacja:** Ćma reprezentuje niezrealizowane ambicje Pappachiego, który odkrył nowy gatunek ale nie otrzymał naukowego uznania. Symbol frustracji patriarchalnej władzy.
+**Classical Interpretation:** The moth represents Pappachi's unrealized ambitions, who discovered a new species but received no scientific recognition. Symbol of patriarchal authority frustration.
 
-**Feministyczna perspektywa:** Ćma symbolizuje wszystkie "małe rzeczy" - kobiety, dzieci, wykluczonych - których odkrycia i doświadczenia nie zostają oficjalnie uznane przez dominującą narrację.
+**Feminist Perspective:** The moth symbolizes all "small things" - women, children, the excluded - whose discoveries and experiences are not officially recognized by the dominant narrative.
 
-**Psychoanalityczna interpretacja:** Dla Rahel ćma osadzająca się na sercu reprezentuje strach przed utratą miłości. To fizyczna manifestacja lęku separacyjnego - "gęste grzbietowe pęczki" ćmy to ciężar emocjonalnej traumy.
+**Psychoanalytic Interpretation:** For Rahel, the moth settling on her heart represents fear of loss of love. It's a physical manifestation of separation anxiety - the moth's "dense dorsal tufts" are the weight of emotional trauma.
 
-**Postkolonialna analiza:** Ćma jako metafora postkolonialnego podmiotu - istniejącego ale niewidzialnego w oficjalnych narracjach. Pappachi jako przedstawiciel klasy intelektualnej doświadczającej kulturowej marginalizacji.
+**Postcolonial Analysis:** The moth as metaphor for the postcolonial subject - existing but invisible in official narratives. Pappachi as representative of the intellectual class experiencing cultural marginalization.
 
-**Współczesne odczytanie:** W erze mediów społecznościowych ćma reprezentuje wszystkich twórców treści, których wkład pozostaje niewidoczny lub nieprawnie przypisywany innym.
+**Contemporary Reading:** In the social media era, the moth represents all content creators whose contributions remain invisible or improperly attributed to others.
 
-## 2. Rzeka Meenachal - Przepływ życia i śmierci
+## 2. Meenachal River - Flow of Life and Death
 
-**Uniwersalny symbol:** Rzeka jako archetyp życia, przepływu czasu, zmienności. W tradycji hinduskiej - świętość wody i jej oczyszczająca moc.
+**Universal Symbol:** River as archetype of life, flow of time, changeability. In Hindu tradition - sanctity of water and its purifying power.
 
-**Feministyczna interpretacja:** Rzeka jako macierz - dzieci nazywają ją "ich rzeką" i śnią o przepłynięciu przez "łono matki" w życiu płodowym. Symbol kobiecego nurtu życia.
+**Feminist Interpretation:** River as matrix - children call it "their river" and dream of swimming through "mother's womb" in prenatal life. Symbol of feminine life current.
 
-**Polityczna symbolika:** Rzeka jako granica społeczna - to tutaj spotykają się Ammu i Velutha, przekraczając bariery kastowe. Miejsce transgresji społecznych norm.
+**Political Symbolism:** River as social boundary - this is where Ammu and Velutha meet, crossing caste barriers. Place of social norm transgression.
 
-**Ekokrytyczna perspektywa:** Degradacja rzeki na przestrzeni lat odzwierciedla niszczenie środowiska naturalnego Kerali przez kolonializm i industrializację.
+**Ecocritical Perspective:** River degradation over the years reflects destruction of Kerala's natural environment by colonialism and industrialization.
 
-**Psychologiczna analiza:** Rzeka jako nieświadomość - miejsce gdzie ukryte pragnienia wypływają na powierzchnię. Sophie Mol tonie w rzece, symbolicznie "tonąc" w nieświadomych konfliktach rodziny.
+**Psychological Analysis:** River as unconscious - place where hidden desires surface. Sophie Mol drowns in the river, symbolically "drowning" in the family's unconscious conflicts.
 
-**Kulturowa interpretacja:** Dla społeczności Kerala rzeka to źródło życia gospodarczego i duchowego - jej symbolika łączy hinduskie i chrześcijańskie tradycje regionu.
+**Cultural Interpretation:** For Kerala community, the river is source of economic and spiritual life - its symbolism connects Hindu and Christian traditions of the region.
 
-## 3. "Prawa Miłości" - Niewidzialne granice społeczne
+## 3. "Love Laws" - Invisible Social Boundaries
 
-**Socjologiczna analiza:** "Love Laws" jako system kontroli społecznej definiujący "kto powinien być kochany, i jak, i jak bardzo" - mechanizm reprodukowania hierarchii.
+**Sociological Analysis:** "Love Laws" as social control system defining "who should be loved, and how, and how much" - mechanism for reproducing hierarchies.
 
-**Postkolonialna perspektywa:** Te prawa jako dziedzictwo kolonializmu, łączące tradycyjne kasty z nowoczesnymi klasami społecznymi.
+**Postcolonial Perspective:** These laws as colonial legacy, connecting traditional castes with modern social classes.
 
-**Queer reading:** Prawa miłości jako heteronormatywne ograniczenia - ich łamanie otwiera przestrzeń dla alternatywnych form intymności.
+**Queer Reading:** Love laws as heteronormative restrictions - their breaking opens space for alternative forms of intimacy.
 
-**Psychoanalityczna interpretacja:** Zakaz jako generator pożądania - Ammu i Velutha pożądają siebie właśnie dlatego, że ich związek jest zabroniony.
+**Psychoanalytic Interpretation:** Prohibition as generator of desire - Ammu and Velutha desire each other precisely because their relationship is forbidden.
 
-**Feministyczna analiza:** Prawa miłości szczególnie dotykają kobiety - Ammu traci wszystko za przekroczenie tych granic, podczas gdy mężczyźni podlegają innym standardom.
+**Feminist Analysis:** Love laws particularly affect women - Ammu loses everything for crossing these boundaries, while men are subject to different standards.
 
-## 4. Dom Historii - Przestrzeń prawdy i kłamstwa
+## 4. History House - Space of Truth and Lies
 
-**Postmodernistyczna interpretacja:** "History House" jako krytyka oficjalnej historii - prawda mieszka w miejscach wykluczonych z dominującej narracji.
+**Postmodernist Interpretation:** "History House" as critique of official history - truth dwells in places excluded from dominant narrative.
 
-**Symbolika przestrzenna:** Dom jako przeciwieństwo oficjalnej rezydencji - miejsce gdzie społeczne role tracą znaczenie.
+**Spatial Symbolism:** House as opposite of official residence - place where social roles lose meaning.
 
-**Polityczna alegoriya:** Dom Veluthy jako przestrzeń gdzie dzieci mogą być sobą, ale gdzie także następuje brutalna konfrontacja z rzeczywistością przemocy społecznej.
+**Political Allegory:** Velutha's house as space where children can be themselves, but where brutal confrontation with reality of social violence also occurs.
 
-**Trauma studies:** Dom jako miejsce gdzie trauma jest jednocześnie ukrywana i ujawniana - dzieci świadczą pobicia Veluthy.
+**Trauma Studies:** House as place where trauma is simultaneously hidden and revealed - children witness Velutha's beating.
 
-**Antropologiczna perspektywa:** Dom jako heterotopia - przestrzeń funkcjonująca według innych reguł niż społeczeństwo mainstream.
+**Anthropological Perspective:** House as heterotopia - space functioning according to different rules than mainstream society.
 
-## 5. Niewidzialność Veluthy - "God of Small Things"
+## 5. Velutha's Invisibility - "God of Small Things"
 
-**Kastowa symbolika:** Velutha jako "Bóg małych rzeczy" który "nie zostawiał śladów na piasku, zmarszczek na wodzie, odbicia w lustrach" - literalna niewidzialność społeczna dalitów.
+**Caste Symbolism:** Velutha as "God of Small Things" who "left no footprints in sand, no ripples in water, no reflection in mirrors" - literal social invisibility of dalits.
 
-**Duchowa interpretacja:** Velutha jako postać chrystusowa - cierpi za grzechy innych, staje się kozłem ofiarnym społeczności.
+**Spiritual Interpretation:** Velutha as Christ-like figure - suffers for others' sins, becomes community scapegoat.
 
-**Ekonomiczna analiza:** Niewidzialność jako metafora wyzysku robotników - ich praca jest niezbędna ale niewidzialna w produktach końcowych.
+**Economic Analysis:** Invisibility as metaphor for worker exploitation - their labor is essential but invisible in end products.
 
-**Romantyczna symbolika:** Jako kochanek Velutha reprezentuje zakazane pożądanie, które może istnieć tylko w ukryciu.
+**Romantic Symbolism:** As lover, Velutha represents forbidden desire that can exist only in hiding.
 
-**Współczesne odczytanie:** W dobie gig economy Velutha reprezentuje wszystkich "niewidzialnych" pracowników utrzymujących społeczeństwo.
+**Contemporary Reading:** In the gig economy era, Velutha represents all "invisible" workers maintaining society.
 
-## 6. Monsun - Transformacja i odrodzenie
+## 6. Monsoon - Transformation and Rebirth
 
-**Klimatyczna symbolika:** Monsun jako cykliczny powrót - natura odmładza się, ale ludzie pozostają uwięzieni w swoich traumach.
+**Climatic Symbolism:** Monsoon as cyclical return - nature rejuvenates itself, but people remain trapped in their traumas.
 
-**Kulturowa interpretacja:** Monsun w kulturze indyjskiej jako czas płodności i nadziei, ale także destrukcji i chaosu.
+**Cultural Interpretation:** Monsoon in Indian culture as time of fertility and hope, but also destruction and chaos.
 
-**Narracyjna funkcja:** Deszcze monsunoweumożliwiają Ippom ukrycie się w Historical House - natura jako wspólniczka w łamaniu tabu.
+**Narrative Function:** Monsoon rains enable Ammu to hide in History House - nature as accomplice in taboo-breaking.
 
-**Ekofeminizm:** Monsun jako siła kobiecości - żywicielska ale też destrukcyjna, nieprzewidywalna jak emocje postaci.
+**Ecofeminism:** Monsoon as force of femininity - nourishing but also destructive, unpredictable like characters' emotions.
 
-**Psychologiczna metafora:** Intensywność monsunu odzwierciedla emocjonalne burze przeżywane przez bohaterów.
+**Psychological Metaphor:** Monsoon intensity reflects emotional storms experienced by characters.
 
-## 7. Oczy - Okna duszy i społecznej pozycji
+## 7. Eyes - Windows of Soul and Social Position
 
-**"Marmurowe oczy" matki:** Symbol emocjonalnej nieprzystępności, traumy, ale także społecznej fasady wyższych klas.
+**Mother's "Marble Eyes":** Symbol of emotional inaccessibility, trauma, but also social facade of upper classes.
 
-**Spojrzenia dzieci:** Niewinność przeciwstawiona doświadczeniu - dzieci widzą to, czego dorośli wolą nie dostrzegać.
+**Children's Gazes:** Innocence opposed to experience - children see what adults prefer not to notice.
 
-**Rasowa symbolika:** Opisy oczu często kodują rasę i klasę społeczną w kolonialnym dyskursie piękna.
+**Racial Symbolism:** Eye descriptions often encode race and social class in colonial beauty discourse.
 
-**Wzrok jako władza:** Kto może patrzeć na kogo i w jaki sposób - hierarchie społeczne realizują się przez reżimy widzialności.
+**Gaze as Power:** Who can look at whom and how - social hierarchies realized through visibility regimes.
 
-**Feministyczna interpretacja:** Męskie spojrzenie jako forma kontroli nad kobiecymi ciałami i zachowaniami.
+**Feminist Interpretation:** Male gaze as form of control over female bodies and behaviors.
 
-## 8. Kathakali - Performatywność i autentyczność
+## 8. Kathakali - Performativity and Authenticity
 
-**Teatralna metafora:** Całe społeczeństwo jako teatr gdzie każdy odgrywa przydzieloną rolę.
+**Theatrical Metaphor:** Entire society as theater where everyone plays assigned roles.
 
-**Kulturowa tożsamość:** Kathakali jako autentyczna kultura Kerala przeciwstawiona wpływom kolonialnym.
+**Cultural Identity:** Kathakali as authentic Kerala culture opposed to colonial influences.
 
-**Gender studies:** Męszczyzna grający kobiecą rolę w Kathakali problematyzuje sztywne granice płciowe.
+**Gender Studies:** Man playing female role in Kathakali problematizes rigid gender boundaries.
 
-**Postkolonialna analiza:** Tradycyjne formy teatralne jako opór wobec kulturowej dominacji Zachodu.
+**Postcolonial Analysis:** Traditional theatrical forms as resistance to Western cultural dominance.
 
-**Społeczna krytyka:** Performatywność ról społecznych - czy istnieje autentyczne "ja" poza społecznymi rolami?
+**Social Critique:** Performativity of social roles - does authentic "self" exist beyond social roles?
 
-## 9. Motyl i metamorfoza
+## 9. Butterfly and Metamorphosis
 
-**Symbol transformacji:** Tradycyjny symbol przemiany, ale w powieści często przerwany lub zniekształcony.
+**Symbol of Transformation:** Traditional symbol of change, but in the novel often interrupted or distorted.
 
-**Dzieciństwo vs dorosłość:** Niemożliwość naturalnej transformacji przez traumę - Estha i Rahel "zamarzli" w dzieciństwie.
+**Childhood vs Adulthood:** Impossibility of natural transformation through trauma - Estha and Rahel "froze" in childhood.
 
-**Duchowa symbolika:** Motyl jako dusza - ale w kontekście kastowym niektóre dusze są uważane za "niższe".
+**Spiritual Symbolism:** Butterfly as soul - but in caste context some souls are considered "lower."
 
-**Ekologiczna metafora:** Motyle jako wskaźnik zdrowia ekosystemu - ich zanikanie sygnalizuje degradację środowiska.
+**Ecological Metaphor:** Butterflies as indicator of ecosystem health - their disappearance signals environmental degradation.
 
-**Psychoanalityczna interpretacja:** Metamorfoza jako niemożliwa w warunkach społecznego ucisku.
+**Psychoanalytic Interpretation:** Metamorphosis as impossible under conditions of social oppression.
 
-## 10. Zabawka Rahel - Czas zamrożony
+## 10. Rahel's Toy - Frozen Time
 
-**Zegarek na "za dziesięć druga":** Symbol traumatycznego zatrzymania czasu w momencie tragedii.
+**Watch at "Ten to Two":** Symbol of traumatic time stoppage at moment of tragedy.
 
-**Dziecięca perspektywa:** Czas postrzegany inaczej przez dzieci - mniej linearnie, bardziej emocjonalnie.
+**Child's Perspective:** Time perceived differently by children - less linearly, more emotionally.
 
-**Postmodernistyczna temporalność:** Kwestionowanie linearnego postępu - trauma powraca cyklicznie.
+**Postmodernist Temporality:** Questioning linear progress - trauma returns cyclically.
 
-**Psychologia traumy:** Symptom PTSD - niemożność przejścia dalej w czasie.
+**Trauma Psychology:** PTSD symptom - inability to move forward in time.
 
-**Filozofia czasu:** Czas jako konstrukt społeczny vs przeżywany czas emocjonalny.
+**Philosophy of Time:** Time as social construct vs experienced emotional time.
 
-## 11. Pomarańczowy napój, Lemon drink - Utrata niewinności
+## 11. Orange Drink, Lemon Drink - Loss of Innocence
 
-**Konsumeryzm:** Amerykańskie napoje jako symbol kulturowej penetracji i utraty tradycji.
+**Consumerism:** American drinks as symbol of cultural penetration and tradition loss.
 
-**Trauma seksualna:** Molestation Esthy w kontekście nowoczesnej kultury konsumenckiej.
+**Sexual Trauma:** Estha's molestation in context of modern consumer culture.
 
-**Klasowa symbolika:** Dostęp do zachodnic produktów jako marker statusu społecznego.
+**Class Symbolism:** Access to Western products as social status marker.
 
-**Orientalizm:** Egzotyzacja Indii przez zachodnie marki i produkty.
+**Orientalism:** Exoticization of India by Western brands and products.
 
-**Psychologiczna trauma:** Napoje jako trigger traumatycznej pamięci.
+**Psychological Trauma:** Drinks as trigger for traumatic memory.
 
-## 12. Zmarła Sophie Mol - Obcość i wina
+## 12. Dead Sophie Mol - Otherness and Guilt
 
-**Postkolonialna hybryda:** Sophie jako mieszanka kultur - indyjska i angielska.
+**Postcolonial Hybrid:** Sophie as mixture of cultures - Indian and English.
 
-**Symbol winy:** Jej śmierć staje się centralnym punktem traumy rodziny.
+**Symbol of Guilt:** Her death becomes central point of family trauma.
 
-**Klasowa różnica:** Jako potomek emigranta Sophie reprezentuje mobilność społeczną niedostępną innym.
+**Class Difference:** As emigrant descendant, Sophie represents social mobility unavailable to others.
 
-**Gender analysis:** Dziewczynka jako ofiara dorosłych konfliktów i projeskji.
+**Gender Analysis:** Girl as victim of adult conflicts and projections.
 
-**Fantomowa obecność:** "Sophie Mol była zawsze tam" - jak traumatyczna pamięć nigdy nie odchodzi.
+**Phantom Presence:** "Sophie Mol was always there" - how traumatic memory never leaves.
 
-## 13. Fabryka przetworów - Ekonomiczne upadanie
+## 13. Pickle Factory - Economic Decline
 
-**Paradise Pickles & Preserves:** Raj utracony przez rodzinne konflikty i społeczne ograniczenia.
+**Paradise Pickles & Preserves:** Paradise lost through family conflicts and social restrictions.
 
-**Postkolonialny biznes:** Próba ekonomicznej niezależności hamowana przez struktury społeczne.
+**Postcolonial Business:** Attempt at economic independence hampered by social structures.
 
-**Konserwowanie vs rozkład:** Paradoks próby zachowania przeszłości w zmieniającym się świecie.
+**Preservation vs Decay:** Paradox of trying to preserve past in changing world.
 
-**Feminizacja pracy:** Mammachi jako przedsiębiorca vs patriarchalne oczekiwania.
+**Feminization of Work:** Mammachi as entrepreneur vs patriarchal expectations.
 
-**Ekonomia kastowa:** Niemożność prawdziwego partnerstwa gospodarczego między kastami.
+**Caste Economy:** Impossibility of true economic partnership between castes.
 
-## 14. Czerwone muchy - Niebezpieczeństwo i pożądanie
+## 14. Red Flies - Danger and Desire
 
-**Kolory emocji:** Czerwień jako passion, krew, niebezpieczeństwo w jednym.
+**Colors of Emotion:** Red as passion, blood, danger in one.
 
-**Insekty jako metafora:** Małe stworzenia reprezentujące wielkie siły emocjonalne.
+**Insects as Metaphor:** Small creatures representing great emotional forces.
 
-**Naturalistyczna symbolika:** Natura jako nieposkromiona siła instynktów.
+**Naturalistic Symbolism:** Nature as untamed force of instincts.
 
-**Seksualność:** Czerwień jako kod erotyczny w konserwatywnym społeczeństwie.
+**Sexuality:** Red as erotic code in conservative society.
 
-**Antropomorfizacja:** Muchy jako obserwatorzy ludzkiego dramatu.
+**Anthropomorphization:** Flies as observers of human drama.
 
-## 15. Milczenie Esthy - Trauma i niewyartykułowanie
+## 15. Estha's Silence - Trauma and Unutterable
 
-**Selektywny mutyzm:** Psychologiczna reakcja na traumę - niemożność mówienia o tym, co się stało.
+**Selective Mutism:** Psychological reaction to trauma - inability to speak about what happened.
 
-**Patriarchalna cisza:** Chłopcy "nie płaczą" - Estha internalizuje męskie oczekiwania.
+**Patriarchal Silence:** Boys "don't cry" - Estha internalizes masculine expectations.
 
-**Społeczny protest:** Milczenie jako forma oporu wobec świata, który nie potrafi ochronić dzieci.
+**Social Protest:** Silence as form of resistance to world that cannot protect children.
 
-**Komunikacja niewerbalna:** Milczenie jako forma komunikacji między bliźniakami.
+**Nonverbal Communication:** Silence as form of communication between twins.
 
-**Postkolonialna afazja:** Niemożność artykulacji doświadczenia w języku kolonizatora.
+**Postcolonial Aphasia:** Inability to articulate experience in colonizer's language.
 
-## 16. Taniec - Ekspresja i ograniczenia
+## 16. Dance - Expression and Limitations
 
-**Kulturowa ekspresja:** Tradycyjne tańce Kerala jako autentyczna forma wyrazu.
+**Cultural Expression:** Traditional Kerala dances as authentic form of expression.
 
-**Cielesność:** Taniec jako forma komunikacji przekraczająca werbalne ograniczenia.
+**Embodiment:** Dance as form of communication transcending verbal limitations.
 
-**Gender performance:** Różne role taneczne dla mężczyzn i kobiet.
+**Gender Performance:** Different dance roles for men and women.
 
-**Ritual i sacrum:** Taniec jako połączenie z duchowością i tradycją.
+**Ritual and Sacred:** Dance as connection to spirituality and tradition.
 
-**Modernizacja:** Jak tradycyjne formy radzą sobie z nowoczesnością.
+**Modernization:** How traditional forms cope with modernity.
 
-## 17. Samochody - Nowoczesność i status
+## 17. Cars - Modernity and Status
 
-**Ambassador:** Indyjski samochód jako symbol narodowej tożsamości vs zagranicznej zależności.
+**Ambassador:** Indian car as symbol of national identity vs foreign dependence.
 
-**Mobilność społeczna:** Samochód jako możliwość przemieszczania się między klasami.
+**Social Mobility:** Car as possibility of moving between classes.
 
-**Modernizacja:** Technologia jako symbol postępu ale też alienacji.
+**Modernization:** Technology as symbol of progress but also alienation.
 
-**Męska domeną:** Samochody tradycyjnie związane z męską władzą i kontrolą.
+**Male Domain:** Cars traditionally associated with male power and control.
 
-**Ekonomiczna niezależność:** Własność samochodu jako marker sukcesu ekonomicznego.
+**Economic Independence:** Car ownership as marker of economic success.
 
-## 18. Święta chrześcijańskie w kontekście hinduskim
+## 18. Christian Holidays in Hindu Context
 
-**Synkretyzm religijny:** Mieszanie tradycji chrześcijańskich i hinduskich w Kerala.
+**Religious Syncretism:** Mixing Christian and Hindu traditions in Kerala.
 
-**Kolonialny ślad:** Chrześcijaństwo jako dziedzictwo kolonializmu ale też lokalnej adaptacji.
+**Colonial Trace:** Christianity as colonial legacy but also local adaptation.
 
-**Klasowa różnica:** Różne denominacje chrześcijańskie jako markers statusu społecznego.
+**Class Difference:** Different Christian denominations as social status markers.
 
-**Kalendarz rytualny:** Jak różne tradycje organizują czas społeczny.
+**Ritual Calendar:** How different traditions organize social time.
 
-**Tożsamość hybrydowa:** Wieloreligijne tożsamości jako norma w południowych Indiach.
+**Hybrid Identity:** Multi-religious identities as norm in South India.
 
-## 19. Architektura - Przestrzeń i władza
+## 19. Architecture - Space and Power
 
-**Dom rodzinny:** Architektura jako odzwierciedlenie hierarchii społecznych.
+**Family Home:** Architecture as reflection of social hierarchies.
 
-**Kolonialna architektura:** Style budowania jako symbol władzy kulturowej.
+**Colonial Architecture:** Building styles as symbol of cultural power.
 
-**Przestrzenie prywatne vs publiczne:** Jak architektura organizuje społeczne interakcje.
+**Private vs Public Spaces:** How architecture organizes social interactions.
 
-**Degeneracja budynków:** Fizyczny rozkład jako metafora społecznego upadku.
+**Building Degeneration:** Physical decay as metaphor for social decline.
 
-**Modernizacja:** Nowe style budowania vs tradycyjne formy.
+**Modernization:** New building styles vs traditional forms.
 
-## 20. Jedzenie i gotowanie - Kultura i tożsamość
+## 20. Food and Cooking - Culture and Identity
 
-**Kuchnia Kerala:** Jedzenie jako marker tożsamości kulturowej i klasowej.
+**Kerala Cuisine:** Food as marker of cultural and class identity.
 
-**Konserwowanie żywności:** Pickles jako metafora próby zachowania przeszłości.
+**Food Preservation:** Pickles as metaphor for attempting to preserve past.
 
-**Rytmuy posiłków:** Jak jedzenie organizuje rytm życia społecznego.
+**Meal Rhythms:** How food organizes rhythm of social life.
 
-**Gender roles:** Gotowanie jako tradycyjnie kobieca domena.
+**Gender Roles:** Cooking as traditionally female domain.
 
-**Konsumpcja:** Co można jeść, kiedy i z kim - społeczne reguły posiłków.
+**Consumption:** What can be eaten, when and with whom - social rules of meals.
 
-## 21. Język i językowa hybryda
+## 21. Language and Linguistic Hybridity
 
-**Code-switching:** Mieszanie języków jako odzwierciedlenie postkolonialnej tożsamości.
+**Code-switching:** Mixing languages as reflection of postcolonial identity.
 
-**Język jako władza:** Kto może mówić jakim językiem i w jakim kontekście.
+**Language as Power:** Who can speak which language and in what context.
 
-**Dziecięcy język:** Jak dzieci przetwarzają traumę przez język.
+**Children's Language:** How children process trauma through language.
 
-**Poetic language:** Roy używa poetyckiego języka do wyrażenia niewyrażalnego.
+**Poetic Language:** Roy uses poetic language to express the inexpressible.
 
-**Język kolonizatora:** Angielski jako język edukacji i prestiżu.
+**Colonizer's Language:** English as language of education and prestige.
 
-## 22. Fotografie - Pamięć i reprezentacja
+## 22. Photographs - Memory and Representation
 
-**Rodzinne fotografie:** Jak obrazy konstruują oficjalną wersję historii rodziny.
+**Family Photographs:** How images construct official version of family history.
 
-**Nieobecni na fotografiach:** Kto jest wykluczony z wizualnej pamięci.
+**Absent from Photos:** Who is excluded from visual memory.
 
-**Kolonialne fotografie:** Orientalistyczne reprezentacje Indii.
+**Colonial Photographs:** Orientalist representations of India.
 
-**Nostalgia:** Fotografie jako próba zatrzymania czasu.
+**Nostalgia:** Photographs as attempt to stop time.
 
-**Klasa i dostęp:** Kto ma dostęp do technologii fotograficznych.
+**Class and Access:** Who has access to photographic technology.
 
-## 23. Szkoła i edukacja - Reprodukcja społeczna
+## 23. School and Education - Social Reproduction
 
-**System edukacyjny:** Jak szkoły reprodukują hierarchie społeczne.
+**Educational System:** How schools reproduce social hierarchies.
 
-**Język instrukcji:** Angielski vs lokalne języki w edukacji.
+**Language of Instruction:** English vs local languages in education.
 
-**Dostęp do edukacji:** Różnice klasowe i kastowe w dostępie do wykształcenia.
+**Access to Education:** Class and caste differences in access to education.
 
-**Westernization:** Edukacja jako forma kulturowej asymilacji.
+**Westernization:** Education as form of cultural assimilation.
 
-**Dziecięca perspektywa:** Jak dzieci doświadczają systemu edukacyjnego.
+**Child's Perspective:** How children experience educational system.
 
-## 24. Choroby i medycyna - Ciało i społeczeństwo
+## 24. Illness and Medicine - Body and Society
 
-**Dostęp do opieki medycznej:** Klasowe różnice w dostępie do zdrowia.
+**Access to Medical Care:** Class differences in access to healthcare.
 
-**Tradycyjna vs nowoczesna medycyna:** Konflikt między systemami medycznymi.
+**Traditional vs Modern Medicine:** Conflict between medical systems.
 
-**Mentalne zdrowie:** Jak trauma wpływa na zdrowie psychiczne.
+**Mental Health:** How trauma affects psychological health.
 
-**Ciało jako miejsce:** Jak społeczne hierarchie zapisują się na ciele.
+**Body as Site:** How social hierarchies inscribe themselves on body.
 
-**Epidemiologie:** Choroby jako metafora społecznych problemów.
+**Epidemiology:** Diseases as metaphor for social problems.
 
-## 25. Praca i ekonomia - Kastowa ekonomia
+## 25. Work and Economy - Caste Economy
 
-**Podział pracy:** Jak kasty organizują dostęp do różnych typów pracy.
+**Division of Labor:** How castes organize access to different types of work.
 
-**Ekonomiczna mobilność:** Ograniczenia społeczne na ekonomiczny postęp.
+**Economic Mobility:** Social restrictions on economic progress.
 
-**Dostojność pracy:** Jak różne typy pracy są społecznie waloryzowane.
+**Dignity of Work:** How different types of work are socially valued.
 
-**Exploatacja:** Ekonomiczne wykorzystanie niższych kast.
+**Exploitation:** Economic exploitation of lower castes.
 
-**Modernizacja ekonomiczna:** Jak nowoczesna ekonomia wpływa na tradycyjne struktury.
+**Economic Modernization:** How modern economy affects traditional structures.
 
-## 26. Czas - Cykliczny vs linearny
+## 26. Time - Cyclical vs Linear
 
-**Traumatic time:** Jak trauma zakłóca linearny przepływ czasu.
+**Traumatic Time:** How trauma disrupts linear flow of time.
 
-**Mityczny czas:** Cykliczne powracanie wzorców i wydarzeń.
+**Mythical Time:** Cyclical return of patterns and events.
 
-**Historical time:** Czas oficjalnej historii vs czas osobistego doświadczenia.
+**Historical Time:** Time of official history vs time of personal experience.
 
-**Monsoon time:** Naturalny rytm vs społeczny czas.
+**Monsoon Time:** Natural rhythm vs social time.
 
-**Memory time:** Jak pamięć reorganizuje chronologię wydarzeń.
+**Memory Time:** How memory reorganizes chronology of events.
 
-## 27. Miłość - Zakazana i dozwolona
+## 27. Love - Forbidden and Permitted
 
-**Forbidden love:** Ammu i Velutha jako symbol transgresyjnej miłości.
+**Forbidden Love:** Ammu and Velutha as symbol of transgressive love.
 
-**Familial love:** Miłość rodzinna i jej ograniczenia.
+**Familial Love:** Family love and its limitations.
 
-**Romantic idealization:** Jak kultura romantyzuje miłość.
+**Romantic Idealization:** How culture romanticizes love.
 
-**Love as resistance:** Miłość jako forma oporu społecznego.
+**Love as Resistance:** Love as form of social resistance.
 
-**Commodified love:** Jak kapitalizm wpływa na relacje uczuciowe.
+**Commodified Love:** How capitalism affects emotional relationships.
 
-## 28. Śmierć - Naturalna i społeczna
+## 28. Death - Natural and Social
 
-**Sophie Mol's death:** Śmierć jako kataliza rodzinnej traumy.
+**Sophie Mol's Death:** Death as catalyst for family trauma.
 
-**Velutha's death:** Śmierć jako rezultat społecznej przemocy.
+**Velutha's Death:** Death as result of social violence.
 
-**Social death:** Jak wykluczenie społeczne równa się symbolicznej śmierci.
+**Social Death:** How social exclusion equals symbolic death.
 
-**Ritual death:** Tradycyjne rytuały śmierci vs nowoczesne praktyki.
+**Ritual Death:** Traditional death rituals vs modern practices.
 
-**Premature death:** Śmierć dzieci jako szczególna tragedia.
+**Premature Death:** Death of children as particular tragedy.
 
-## 29. Tożsamość - Fragmentacja i całość
+## 29. Identity - Fragmentation and Wholeness
 
-**Hybrid identity:** Postkolonial subject jako hybrydyczna tożsamość.
+**Hybrid Identity:** Postcolonial subject as hybrid identity.
 
-**Gender identity:** Jak płeć jest społecznie konstruowana.
+**Gender Identity:** How gender is socially constructed.
 
-**Caste identity:** Niezmienność vs płynność tożsamości kastowej.
+**Caste Identity:** Immutability vs fluidity of caste identity.
 
-**Regional identity:** Kerala vs indyjska tożsamość narodowa.
+**Regional Identity:** Kerala vs Indian national identity.
 
-**Generational identity:** Różnice między pokoleniami w postkolonialnych Indiach.
+**Generational Identity:** Differences between generations in postcolonial India.
 
-## 30. Opór - Widoczny i niewidoczny
+## 30. Resistance - Visible and Invisible
 
-**Open resistance:** Jawne formy oporu wobec społecznych norm.
+**Open Resistance:** Open forms of resistance to social norms.
 
-**Hidden transcripts:** Ukryte formy oporu i subwersji.
+**Hidden Transcripts:** Hidden forms of resistance and subversion.
 
-**Bodily resistance:** Ciało jako miejsce oporu.
+**Bodily Resistance:** Body as site of resistance.
 
-**Cultural resistance:** Utrzymywanie tradycji jako forma oporu.
+**Cultural Resistance:** Maintaining traditions as form of resistance.
 
-**Everyday resistance:** Małe codzienne akty nieposłuszeństwa.
+**Everyday Resistance:** Small daily acts of disobedience.
 
 ---
 
-## Współczesne interpretacje i relevancja
+## Contemporary Interpretations and Relevance
 
-### Perspektywa Gen Z
-Młodzi czytelnicy szczególnie identyfikują się z:
-- Traumą dzieciństwa i jej długotrwałymi skutkami
-- Problematyką molestowania i przemocy wobec dzieci
-- Walką z systemowymi nierównościami i dyskryminacją
-- Złożonością tożsamości w globalizującym się świecie
+### Generation Z Perspective
+Young readers particularly identify with:
+- Childhood trauma and its long-term effects
+- Issues of molestation and violence against children
+- Struggle against systemic inequalities and discrimination
+- Complexity of identity in globalizing world
 
-### Interpretacje LGBTQ+
-- Zakazana miłość jako metafora doświadczenia queer
-- Performatywność płci w Kathakali
-- Norm transgression jako uniwersalne doświadczenie
-- Społeczne kary za przekraczanie granic normatywności
+### LGBTQ+ Interpretations
+- Forbidden love as metaphor for queer experience
+- Gender performativity in Kathakali
+- Norm transgression as universal experience
+- Social punishment for crossing normative boundaries
 
-### Perspektywa postkolonialna XXI wieku
-- Neo-kolonializm ekonomiczny i kulturowy
-- Języka hybrydy w globalnym świecie
-- Teknologia jako nowa forma penetracji kulturowej
-- Migracja i diaspora jako współczesne doświadczenie
+### 21st Century Postcolonial Perspective
+- Economic and cultural neo-colonialism
+- Language hybridity in global world
+- Technology as new form of cultural penetration
+- Migration and diaspora as contemporary experience
 
-### Ekokrytyka i kryzys klimatyczny
-- Degradacja środowiska naturalnego Kerala
-- Monsun jako metafora zmian klimatycznych
-- Relacja między eksploatacją przyrody a ludzką
-- Tradycyjna ekologia vs industrializacja
+### Ecocriticism and Climate Crisis
+- Environmental degradation of Kerala
+- Monsoon as metaphor for climate change
+- Relationship between nature exploitation and human exploitation
+- Traditional ecology vs industrialization
 
 Roy's masterpiece remains profoundly relevant because its symbolic architecture addresses universal human experiences through the specific lens of postcolonial Kerala, creating a work that speaks to local particularities while resonating with global audiences experiencing their own forms of marginalization, trauma, and resistance.

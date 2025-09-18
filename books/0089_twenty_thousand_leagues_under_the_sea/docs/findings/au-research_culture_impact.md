@@ -1,102 +1,102 @@
-# Wpływ kulturowy: "Dwadzieścia tysięcy mil podmorskiej żeglugi" (1870)
+# Cultural Impact: "Twenty Thousand Leagues Under the Sea" (1870)
 
-**Autor:** Jules Verne  
-**Tytuł oryginalny:** Twenty Thousand Leagues Under the Sea  
-**Rok publikacji:** 1870  
-**Data badania:** 30 sierpnia 2025
+**Author:** Jules Verne  
+**Original Title:** Twenty Thousand Leagues Under the Sea  
+**Publication Year:** 1870  
+**Research Date:** August 30, 2025
 
-## Wprowadzenie
+## Introduction
 
-"Dwadzieścia tysięcy mil podmorskiej żeglugi" Jules'a Verne'a nie tylko zdefiniowała gatunek science fiction, ale także wywarła niezwykły wpływ na kulturę popularną, technologię podmorską i eksplorację oceanów. Ta pionierska powieść nadal inspiruje twórców, naukowców i artystów na całym świecie.
+Jules Verne's "Twenty Thousand Leagues Under the Sea" not only defined science fiction but also shaped popular culture, undersea technology, and the global fascination with ocean exploration. The novel continues to inspire creators, scientists, and artists across generations.
 
-## Adaptacje Filmowe i Telewizyjne (15 przykładów)
+## Film and Television Adaptations (15 examples)
 
-### Filmy kinowe
-1. **20,000 Leagues Under the Sea (1916)** - pierwszy film fabularny, Allan Holubar jako Kapitan Nemo
-2. **20,000 Leagues Under the Sea (1954, Disney)** - kultowa adaptacja z Jamesem Masonem, nagrodzona dwoma Oscarami
-3. **Captain Nemo and the Underwater City (1969)** - Robert Ryan jako Nemo w brytyjskiej produkcji
-4. **The League of Extraordinary Gentlemen (2003)** - Naseeruddin Shah jako indyjski Kapitan Nemo
-5. **30,000 Leagues Under the Sea (2007)** - modernizacja z Lorenzo Lamasem i Seanem Lawlorem
+### Feature Films
+1. **20,000 Leagues Under the Sea (1916)** – the first feature adaptation, with Allan Holubar portraying Captain Nemo.
+2. **20,000 Leagues Under the Sea (1954, Disney)** – the iconic adaptation starring James Mason that won two Academy Awards.
+3. **Captain Nemo and the Underwater City (1969)** – British production with Robert Ryan as Nemo.
+4. **The League of Extraordinary Gentlemen (2003)** – Naseeruddin Shah plays an Indian Captain Nemo.
+5. **30,000 Leagues Under the Sea (2007)** – a modernized version with Lorenzo Lamas and Sean Lawlor.
 
-### Seriale telewizyjne
-6. **Tales of Tomorrow (1952)** - dwuczęściowa adaptacja "The Chase" i "The Escape"
-7. **The Undersea Adventures of Captain Nemo (1975)** - kanadyjski serial animowany CBS
-8. **20,000 Leagues Under the Sea (1997, Hallmark)** - Michael Caine, Patrick Dempsey, Bryan Brown
-9. **Once Upon a Time (2016-2017)** - Faran Tahir jako Kapitan Nemo
-10. **Nautilus (2024)** - nowy serial z Shazad Latifem, pochodzenie Kapitana Nemo
+### Television Series
+6. **Tales of Tomorrow (1952)** – two-part adaptation titled "The Chase" and "The Escape."
+7. **The Undersea Adventures of Captain Nemo (1975)** – Canadian animated series that aired on CBS.
+8. **20,000 Leagues Under the Sea (1997, Hallmark)** – miniseries starring Michael Caine, Patrick Dempsey, and Bryan Brown.
+9. **Once Upon a Time (2016–2017)** – Faran Tahir joins the series as Captain Nemo.
+10. **Nautilus (2024)** – Disney+ prequel series starring Shazad Latif that explores Nemo's origin.
 
-### Animacje
-11. **Festival of Family Classics (1972)** - dwuczęściowy epizod Rankin/Bass
-12. **Willy Fog 2 (1994-95)** - hiszpańska animacja BRB Internacional
-13. **Burbank Films Australia (1985)** - Tom Burlinson jako Ned Land
+### Animation
+11. **Festival of Family Classics (1972)** – two-part Rankin/Bass adaptation.
+12. **Willy Fog 2 (1994–1995)** – Spanish animated series by BRB Internacional retelling the novel.
+13. **Burbank Films Australia (1985)** – animated film with Tom Burlinson as Ned Land.
 
-## Wpływ na Technologię Podmorską (8 przykładów)
+## Influence on Undersea Technology (8 examples)
 
-14. **Simon Lake** - amerykański wynalazca łodzi podwodnych inspirowany powieścią jako dziecko, otrzymał telegram gratulacyjny od Verne'a w 1898
-15. **Wernher von Braun** - pionier rakiet kosmicznych, inspirowany wizjami technologicznymi Verne'a
-16. **USS Nautilus (1955)** - pierwszy atomowy okręt podwodny nazwany na cześć fikcyjnego Nautilusa
-17. **Francuska Plongeur** - prawdziwy okręt, który inspirował Verne'a po obejrzeniu modelu na Exposition Universelle 1867
-18. **Batysfera Beebe'a-Bartona** - lata 30. XX wieku, pierwsze głębokowodne eksploracje inspirowane wizjami Verne'a
-19. **Współczesne batyskafy** - technologie opisane przez Verne'a (tlen z wody morskiej, elektryczne baterie) rzeczywiście zastosowane
-20. **Systemy recyklingu powietrza** - przewidziane przez Verne'a, dziś standardowe w okrętach podwodnych
-21. **Elektryczne napędy** - Nautilus był napędzany elektrycznością, dekady przed rzeczywistymi zastosowaniami
+14. **Simon Lake** – American submarine inventor inspired by the novel in childhood, whom Verne congratulated by telegram in 1898.
+15. **Wernher von Braun** – rocket pioneer influenced by Verne's technological imagination.
+16. **USS Nautilus (1955)** – the first nuclear-powered submarine, named after Nemo's vessel.
+17. **French Plongeur** – an actual submarine Verne saw as a model at the 1867 Exposition Universelle, feeding his depiction of the Nautilus.
+18. **Beebe-Barton Bathysphere** – 1930s deep-sea exploration program inspired by Verne's visions.
+19. **Modern Bathyscaphes** – real-world craft adopting concepts Verne described, such as extracting oxygen from seawater and rechargeable batteries.
+20. **Air-Recycling Systems** – technologies Verne foresaw that are now standard in submarines.
+21. **Electric Propulsion** – the Nautilus ran on electricity decades before navies deployed similar systems.
 
-## Fenomen Społeczny i Kulturowy (10 przykładów)
+## Social and Cultural Phenomenon (10 examples)
 
-22. **Gatunek Science Fiction** - utworzenie "roman de la science", fundamentu SF jako gatunku literackiego
-23. **Jacques Cousteau** - nazywał książkę swoją "biblią pokładową", inspiracją całego życia badawczego
-24. **Robert Ballard** - odkrywca Titanica, ulubiona książka z młodości
-25. **William Beebe** - oceanograf, bezpośrednio inspirowany eksploracyjnymi wizjami Verne'a
-26. **Ernest Shackleton** - polarny badacz, znajdował inspirację w przygodach Kapitana Nemo
-27. **Steampunk** - fundamentalne dzieło dla całego gatunku, estetyka Nautilusa definiuje steampunk
-28. **Edukacja morska** - książka popularyzowała oceanografię i biologię morską w XIX wieku
-29. **Ruch ekologiczny** - Nemo jako prekursor świadomości ekologicznej oceanów
-30. **Kultura podróżnicza** - inspiracja dla ekspedycji i turystyki podwodnej
-31. **Technologia nuklearna** - wizja czystej energii w Nautilusie prekursorska dla energii atomowej
+22. **Science Fiction Genre** – helped establish the "roman de la science" foundation of modern science fiction.
+23. **Jacques Cousteau** – called the book his "shipboard bible," citing it as lifelong inspiration.
+24. **Robert Ballard** – Titanic discoverer whose favorite childhood book was Verne's undersea epic.
+25. **William Beebe** – oceanographer who credits the novel for fueling his exploratory ambitions.
+26. **Ernest Shackleton** – polar explorer inspired by Captain Nemo's audacious voyages.
+27. **Steampunk Aesthetic** – the Nautilus became a defining icon for the entire steampunk genre.
+28. **Marine Education** – popularized 19th-century oceanography and marine biology for a mass audience.
+29. **Environmental Awareness** – Nemo embodied early ecological concern for ocean conservation.
+30. **Travel Culture** – spurred enthusiasm for undersea expeditions and tourism.
+31. **Nuclear Technology Imaginaries** – advanced the idea of clean, compact energy years before atomic reactors.
 
-## Parki Tematyczne i Atrakcje (5 przykładów)
+## Theme Parks and Attractions (5 examples)
 
-32. **20,000 Leagues Under the Sea: Submarine Voyage (Magic Kingdom, 1971-1994)** - kultowa atrakcja Disney World
-33. **Submarine Voyage (Disneyland, 1959-2007)** - przekształcona później w Finding Nemo Submarine Voyage
-34. **20,000 Leagues Under the Sea (Tokyo DisneySea)** - nadal działająca atrakcja z podwieszanymi łodziami podwodnymi
-35. **Nautilus Walkthrough (Disneyland Paris)** - eksploracja wnętrza Nautilusa z atakiem gigantycznej kałamarnicy
-36. **Exhibit w Tomorrowland (Disneyland, 1955-1966)** - 11-letnia wystawa z dekoracjami z filmu Disney
+32. **20,000 Leagues Under the Sea: Submarine Voyage (Magic Kingdom, 1971–1994)** – legendary Walt Disney World attraction.
+33. **Submarine Voyage (Disneyland, 1959–2007)** – later reimagined as the Finding Nemo Submarine Voyage.
+34. **20,000 Leagues Under the Sea (Tokyo DisneySea)** – ongoing attraction with suspended submarine vehicles.
+35. **Nautilus Walkthrough (Disneyland Paris)** – immersive tour inside the Nautilus featuring a giant squid attack set piece.
+36. **Tomorrowland Exhibit (Disneyland, 1955–1966)** – eleven-year exhibit displaying props from the Disney film.
 
-## Kultura Popularna i Parodie (8 przykładów)
+## Popular Culture and Parodies (8 examples)
 
-37. **The Super Mario Bros. Super Show!** - epizod "20,000 Koopas Under the Sea" z "Koopilus" i "Koopa Nemo"
-38. **Teenage Mutant Ninja Turtles (1989)** - "20,000 Leaks Under the City" z walką z gigantyczną kałamarnicą
-39. **SpongeBob SquarePants** - "20,000 Patties Under the Sea" parodiujący książkę i piosenkę
-40. **Saturday Night Live (1994)** - sketch z Kelsey Grammerem jako Kapitan Nemo wyjaśniający "under the sea"
-41. **Back to the Future III** - Dr. Brown nazywa Verne'a ulubionym autorem, synowie Jules i Verne
-42. **Finding Nemo** - ryby śpiewają "Whale of a Tale" z adaptacji Disney 1954
-43. **The Adventures of Jimmy Neutron** - epizod "The Evil Beneath" z elementami powieści
-44. **Sphere (1987/1998)** - Harry Adams czyta i interesuje się książką Verne'a
+37. **The Super Mario Bros. Super Show!** – episode "20,000 Koopas Under the Sea" featuring the "Koopilus" and "Koopa Nemo."
+38. **Teenage Mutant Ninja Turtles (1989)** – episode "20,000 Leaks Under the City" with a giant squid battle.
+39. **SpongeBob SquarePants** – "20,000 Patties Under the Sea" spoofing the novel and the song "A Whale of a Tale."
+40. **Saturday Night Live (1994)** – sketch with Kelsey Grammer as Captain Nemo explaining "under the sea." 
+41. **Back to the Future Part III** – Doc Brown names his sons Jules and Verne, citing the author as his favorite.
+42. **Finding Nemo (2003)** – fish break into "A Whale of a Tale," a nod to the 1954 film.
+43. **The Adventures of Jimmy Neutron** – episode "The Evil Beneath" draws heavily on the novel's motifs.
+44. **Sphere (1987 novel / 1998 film)** – character Harry Adams reads and references Verne's book.
 
-## Anime, Manga i Gry (4 przykłady)
+## Anime, Manga, and Games (4 examples)
 
-45. **Nadia: The Secret of Blue Water (1990-91)** - anime Hideaki Anno inspirowane przygodami Kapitana Nemo
-46. **Code: Realize - Guardian of Rebirth** - japońska gra otome z naukowcem Nemo i statkiem Nautilus
-47. **Fate/Grand Order** - Kapitan Nemo jako servant klasy rider w popularnej grze mobilnej
-48. **The League of Extraordinary Gentlemen (komiks)** - Alan Moore przedstawia Nemo jako indyjskiego księcia Dakkara
+45. **Nadia: The Secret of Blue Water (1990–1991)** – Hideaki Anno's anime reimagines Captain Nemo's adventures.
+46. **Code: Realize – Guardian of Rebirth** – Japanese otome game featuring an inventor Nemo and the Nautilus.
+47. **Fate/Grand Order** – introduces Captain Nemo as a Rider-class servant in the mobile game.
+48. **The League of Extraordinary Gentlemen (comics)** – Alan Moore depicts Nemo as Indian prince Dakkar leading the Nautilus.
 
-## Muzyka i Kultura Dźwiękowa (3 przykłady)
+## Music and Sound Culture (3 examples)
 
-49. **"Captain Nemo" (1990)** - singiel grupy Dive, cover Sarah Brightman (1993)
-50. **"Captain Nemo" (1998)** - piosenka Ace of Base
-51. **Bogdan Gajkowski "Kapitan Nemo"** - polski piosenkarz używający pseudonimu artystycznego
+49. **"Captain Nemo" (1990)** – single by Dive, later covered by Sarah Brightman in 1993.
+50. **"Captain Nemo" (1998)** – song by Swedish pop group Ace of Base.
+51. **Bogdan Gajkowski "Kapitan Nemo"** – Polish singer who adopted Captain Nemo as his stage name.
 
-## Literatura i Komiksy (4 przykłady)
+## Literature and Comics (4 examples)
 
-52. **Walt Disney Comics Digest (1963-1972)** - seria komiksowa "The Adventures of Captain Nemo"
-53. **Gold Key Comics (1954)** - adaptacje komiksowe po premierze filmu Disney
-54. **The League of Extraordinary Gentlemen (1999)** - Nemo jako członek zespołu bohaterów Alana Moore'a
-55. **Newspaper serializations** - liczne adaptacje w gazetach na całym świecie
+52. **Walt Disney Comics Digest (1963–1972)** – anthology series featuring "The Adventures of Captain Nemo."
+53. **Gold Key Comics (1954)** – produced comic adaptations tied to the Disney film release.
+54. **The League of Extraordinary Gentlemen (1999)** – positions Nemo as a key member of Alan Moore's Victorian superhero team.
+55. **Newspaper Serializations** – numerous newspaper adaptations worldwide kept the story in public circulation.
 
-## Wpływ na Nowoczesne Media
+## Influence on Modern Media
 
-Książka Jules'a Verne'a pozostaje żywą inspiracją dla współczesnych twórców. Serial "Nautilus" z 2024 roku pokazuje, jak ponadczasowe tematy eksploracji, nauki i buntu przeciwko opresji nadal rezonują z dzisiejszymi widzami. Dzieło zdefiniowało nie tylko gatunek science fiction, ale także ustaliło archetyp genialnego wynalazcy-rebela, który inspiruje twórców popkultury do dziś.
+Verne's novel remains a living inspiration for contemporary storytellers. The 2024 "Nautilus" series underscores how timeless themes of exploration, science, and resistance to oppression continue to resonate with audiences. The book established not only the blueprint for science fiction but also the archetype of the genius inventor-rebel that modern pop culture still celebrates.
 
-## Podsumowanie
+## Conclusion
 
-"Dwadzieścia tysięcy mil podmorskiej żeglugi" to rzadki przykład dzieła literatury, które nie tylko przewidziało przyszłość technologiczną, ale także aktywnie ją kształtowało. Od inspirowania rzeczywistych wynalazców łodzi podwodnych po definiowanie estetyki steampunku, powieść Verne'a wywarła wpływ na praktycznie każdy aspekt kultury popularnej związany z morzem, technologią i eksploracją. Jej dziedzictwo żyje w niezliczonych adaptacjach, parodiach i hołdach, czyniąc ją jednym z najbardziej wpływowych dzieł literatury światowej.
+"Twenty Thousand Leagues Under the Sea" is a rare literary work that both predicted and actively shaped technological futures. From inspiring real-world submarine innovators to defining the steampunk aesthetic, Verne's novel has influenced nearly every aspect of popular culture connected to the sea, technology, and exploration. Its legacy lives on through countless adaptations, parodies, and tributes, securing its place among the most influential works of world literature.

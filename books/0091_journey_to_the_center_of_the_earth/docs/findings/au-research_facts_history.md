@@ -1,132 +1,132 @@
-# Historia powstania "Journey to the Center of the Earth" (1864)
+# History of "Journey to the Center of the Earth" (1864)
 
-## Okoliczności powstania
+## Circumstances of Creation
 
-**FAKT**: Jules Verne napisał "Voyage au centre de la Terre" między styczniem a sierpniem 1864 roku - to oznacza, że cała książka została napisana w ciągu zaledwie 8 miesięcy.
+**FACT**: Jules Verne wrote "Voyage au centre de la Terre" between January and August 1864 - this means the entire book was written in just 8 months.
 
-**FAKT**: W 1864 roku Verne miał 36 lat i był świeżo upieczonym ojcem - jego syn Michel miał wtedy 3 lata, a Verne wychowywał również dwie córki z pierwszego małżeństwa swojej żony Honorine.
+**FACT**: In 1864, Verne was 36 years old and a new father - his son Michel was 3 years old at the time, and Verne was also raising two daughters from his wife Honorine's first marriage.
 
-**FAKT**: Książka powstała zaledwie rok po przełomowym kontrakcie Verne'a z wydawcą Pierre'em-Julesem Hetzelem w 1863 roku - była to druga pozycja w planowanej serii "Voyages extraordinaires".
+**FACT**: The book was written just one year after Verne's breakthrough contract with publisher Pierre-Jules Hetzel in 1863 - it was the second title in the planned "Voyages extraordinaires" series.
 
-**FAKT**: 1864 rok był przełomowy dla Verne'a - po raz pierwszy mógł żyć wyłącznie z pisania, porzucił pracę jako agent giełdowy na Paris Bourse.
+**FACT**: 1864 was a turning point for Verne - for the first time he could live solely from writing, abandoning his job as a stock broker at the Paris Bourse.
 
-## Inspiracje i badania naukowe
+## Inspirations and Scientific Research
 
-**FAKT**: Verne nie był naukowcem z wykształcenia - był prawnikiem, który stał się pisarzem, ale prowadził niezwykle szczegółowe badania naukowe.
+**FACT**: Verne was not a scientist by training - he was a lawyer who became a writer, but he conducted extraordinarily detailed scientific research.
 
-**FAKT**: Kluczową inspiracją była książka Louisa Figuiera "La Terre avant le déluge" (1863) - sprzedała się w "bezprecedensowych" 25 000 egzemplarzy w ciągu dwóch lat i Verne czerpał z niej bezpośrednio informacje geologiczne.
+**FACT**: A key inspiration was Louis Figuier's book "La Terre avant le déluge" (1863) - it sold an "unprecedented" 25,000 copies in two years and Verne drew geological information directly from it.
 
-**FAKT**: Verne miał osobistego przyjaciela-geologa - Charles Joseph Sainte-Claire Deville, specjalistę od zjawisk sejsmicznych, który zstąpił do wulkanu Stromboli. To było jego okno na prawdziwą geologię.
+**FACT**: Verne had a personal geologist friend - Charles Joseph Sainte-Claire Deville, a specialist in seismic phenomena, who had descended into the Stromboli volcano. This was his window into real geology.
 
-**FAKT**: Pomysł na szyfrowaną wiadomość runiczną był bezpośrednio zainspirowany opowiadaniem Edgara Allana Poe "Złoty żuk" (1843) - Verne był wielkim fanem amerykańskiego pisarza.
+**FACT**: The idea for the encrypted runic message was directly inspired by Edgar Allan Poe's story "The Gold-Bug" (1843) - Verne was a great fan of the American writer.
 
-**FAKT**: Postać Marthy (gospodyni profesora Lidenbrocka) była wzorowana na Mathurine Paris, służącej z domu rodzinnego Verne'a z jego młodości.
+**FACT**: The character of Martha (Professor Lidenbrock's housekeeper) was modeled on Mathurine Paris, a servant from Verne's childhood family home.
 
-**PLOTKA**: Prawdopodobnie postać profesora Lidenbrocka była parodią ojca Verne'a, Pierre'a Verne'a, który podobno był wielojęzyczny, naukowy i namiętny.
+**RUMOR**: The character of Professor Lidenbrock was probably a parody of Verne's father, Pierre Verne, who was reportedly multilingual, scientific, and passionate.
 
-## Proces pisarski i metody pracy
+## Writing Process and Work Methods
 
-**FAKT**: Verne miał żelazną dyscyplinę - wstawał około 5:00 rano i pisał do południa, potem szedł do biblioteki publicznej na badania.
+**FACT**: Verne had iron discipline - he would get up around 5:00 AM and write until noon, then go to the public library for research.
 
-**FAKT**: Używał teorii wulkanów Humphry'ego Davy'ego przez całą powieść - to był prawdziwy brytyjski chemik z lat 1778-1829, specjalizujący się w geochemii.
+**FACT**: He used Humphry Davy's volcano theories throughout the novel - this was a real British chemist from 1778-1829, specializing in geochemistry.
 
-**FAKT**: Hetzel publicznie ogłosił ambitny plan dla książek Verne'a: "nakreślić całą wiedzę geograficzną, geologiczną, fizyczną i astronomiczną zgromadzoną przez nowoczesną naukę".
+**FACT**: Hetzel publicly announced an ambitious plan for Verne's books: "to outline all the geographical, geological, physical and astronomical knowledge accumulated by modern science."
 
-**FAKT**: Verne robił skrupulatne notatki z literatury naukowej i konsultował się z prawdziwymi naukowcami i inżynierami dla zapewnienia technicznej dokładności.
+**FACT**: Verne made scrupulous notes from scientific literature and consulted with real scientists and engineers to ensure technical accuracy.
 
-## Historia publikacji
+## Publication History
 
-**FAKT**: Książka została po raz pierwszy opublikowana po francusku w 1864 roku przez wydawnictwo J. Hetzel et Cie w Paryżu, a następnie wydana ponownie w 1867 roku w poprawionej i rozszerzonej edycji.
+**FACT**: The book was first published in French in 1864 by J. Hetzel et Cie in Paris, then republished in 1867 in a corrected and expanded edition.
 
-**FAKT**: Wersja z 1867 roku zawierała dwa nowe rozdziały z dodatkowymi informacjami o prehistorii, które stały się odrębną dziedziną nauki dopiero w 1865 roku - Verne aktualizował swoją wiedzę.
+**FACT**: The 1867 version contained two new chapters with additional information about prehistory, which only became a separate field of science in 1865 - Verne was updating his knowledge.
 
-**FAKT**: W przeciwieństwie do "Paryża w XX wieku" (odrzuconego przez Hetzla w 1863 jako zbyt pesymistycznego), "Journey to the Center of the Earth" zostało przyjęte od razu bez odrzuceń.
+**FACT**: Unlike "Paris in the 20th Century" (rejected by Hetzel in 1863 as too pessimistic), "Journey to the Center of the Earth" was accepted immediately without rejections.
 
-**FAKT**: Pierwsze angielskie tłumaczenie z 1871 roku było katastrofalnie złe - usunięto większość nauki, zmieniono imiona postaci (profesor Lidenbrock stał się Hardwigg, Axel - Harry) i dodano melodramatyczne sceny, których nie było w oryginale.
+**FACT**: The first English translation from 1871 was catastrophically bad - most of the science was removed, character names were changed (Professor Lidenbrock became Hardwigg, Axel became Harry) and melodramatic scenes that weren't in the original were added.
 
-## Reakcje i odbiór
+## Reactions and Reception
 
-**FAKT**: Po debiucie pod skrzydłami Hetzla Verne został entuzjastycznie przyjęty we Francji przez pisarzy i naukowców - George Sand i Théophile Gautier byli jednymi z jego pierwszych wielbicieli.
+**FACT**: After debuting under Hetzel's wing, Verne was enthusiastically received in France by writers and scientists - George Sand and Théophile Gautier were among his first admirers.
 
-**FAKT**: Geograf Vivien de Saint-Martin i krytyk Jules Claretie wyrażali się bardzo pochlebnie o Verne'ie i jego dziełach w notatkach krytycznych i biograficznych.
+**FACT**: Geographer Vivien de Saint-Martin and critic Jules Claretie expressed very favorable opinions about Verne and his works in critical and biographical notes.
 
-**FAKT**: Mimo sukcesu komercyjnego krytycy uważali go za autora gatunkowego, zwykłego gawędziarza, a nie poważnego literata - Emile Zola odrzucał jego twórczość, a Académie Française go nie zaprosiła.
+**FACT**: Despite commercial success, critics considered him a genre author, a mere storyteller, not a serious literary figure - Emile Zola rejected his work, and the Académie Française did not invite him.
 
-**FAKT**: Dla publiczności Verne miał taki sam apel jak współczesny Stephen King - popularne czytadło, które fascynowało masową wyobraźnię.
+**FACT**: For the public, Verne had the same appeal as contemporary Stephen King - popular reading that fascinated mass imagination.
 
-## Geografia i lokalizacja
+## Geography and Location
 
-**FAKT**: Verne wybrał islandzki wulkan Snæfellsjökull jako punkt wejścia do Ziemi, ale nigdy nie odwiedził Islandii - wszystkie opisy powstały na podstawie badań bibliotecznych.
+**FACT**: Verne chose the Icelandic volcano Snæfellsjökull as the entry point to Earth, but never visited Iceland - all descriptions were based on library research.
 
-**FAKT**: Snæfellsjökull to 700 000-letni stratowulkan pokryty lodowcem, wysoki na 1446 metrów, widoczny z Reykjaviku w pogodne dni.
+**FACT**: Snæfellsjökull is a 700,000-year-old stratovolcano covered by a glacier, 1,446 meters high, visible from Reykjavik on clear days.
 
-**FAKT**: W sierpniu 1859 roku Verne odwiedził Szkocję, gdzie zobaczył Edynburg, jego zamek i lokalne formacje geologiczne, w tym wygasły wulkan Arthur's Seat - te doświadczenia wpłynęły na jego pisanie.
+**FACT**: In August 1859, Verne visited Scotland, where he saw Edinburgh, its castle and local geological formations, including the extinct volcano Arthur's Seat - these experiences influenced his writing.
 
-**PLOTKA**: Dziś w Arnarstapi w Islandii stoi jedyny pomnik Jules'a Verne'a w tym kraju - mały drogowskaz pokazujący odległości do różnych miast.
+**RUMOR**: Today in Arnarstapi, Iceland, stands the only Jules Verne monument in that country - a small signpost showing distances to various cities.
 
-## Szczegóły techniczne i liczby
+## Technical Details and Numbers
 
-**FAKT**: W 1864 roku Verne podpisał kontrakt z Hetzelem na dostarczanie 2 tomów rocznie, zwiększając do 3 do 1865 roku - był to stały fundament jego kariery.
+**FACT**: In 1864, Verne signed a contract with Hetzel to deliver 2 volumes annually, increasing to 3 by 1865 - this was the solid foundation of his career.
 
-**FAKT**: Od około 1869 roku Verne publikował 2 lub więcej tomów rocznie - był pisarską maszynką produkcji treści.
+**FACT**: From around 1869, Verne published 2 or more volumes annually - he was a writing content production machine.
 
-**FAKT**: Teoria Ziemi jako pustej kuli była szeroko dyskutowana w Europie XIX wieku, a zainteresowanie geologią, paleontologią i ewolucją było na szczycie popularności.
+**FACT**: The theory of Earth as a hollow sphere was widely discussed in 19th century Europe, and interest in geology, paleontology and evolution was at its peak popularity.
 
-**FAKT**: Verne wykorzystał teorię ewolucji Darwina z "O powstawaniu gatunków" - postacie w książce napotykają humanoidalną, małpopodobną istotę, co było ukłonem w stronę wspólnego przodka ludzi i małp.
+**FACT**: Verne utilized Darwin's theory of evolution from "On the Origin of Species" - characters in the book encounter a humanoid, ape-like creature, which was a nod to the common ancestor of humans and apes.
 
-## Ciekawostki produkcyjne
+## Production Curiosities
 
-**FAKT**: Kiedy Verne zmarł, zostawił szufladę pełną prawie ukończonych manuskryptów w swoim biurku.
+**FACT**: When Verne died, he left a drawer full of nearly completed manuscripts in his desk.
 
-**FAKT**: Współcześni badacze porównujący oryginalne manuskrypty Verne'a z wersjami opublikowanymi po jego śmierci odkryli, że jego syn Michel zrobił znacznie więcej niż tylko edycję - zmienił wiele treści.
+**FACT**: Contemporary researchers comparing Verne's original manuscripts with versions published after his death discovered that his son Michel did much more than just editing - he changed much of the content.
 
-**FAKT**: Pisanie było finansowo opłacalne - Hetzel kupował każdy tom za stałą opłatę ryczałtową, a Verne wreszcie znalazł stałą pensję i pewne źródło dochodu z pisania.
+**FACT**: Writing was financially profitable - Hetzel bought each volume for a fixed lump sum, and Verne finally found a steady salary and secure source of income from writing.
 
-**FAKT**: Większość powieści Verne'a była najpierw serializowana w "Magasin d'Éducation et de Récréation" Hetzela przed ukazaniem się w formie książkowej.
+**FACT**: Most of Verne's novels were first serialized in Hetzel's "Magasin d'Éducation et de Récréation" before appearing in book form.
 
-## Wpływ na kulturę popularną
+## Impact on Popular Culture
 
-**FAKT**: Od 1909 roku powstało 15 adaptacji filmowych książki na całym świecie, wykorzystujących różne technologie, w tym Cinemascope (1959) i animację (1976).
+**FACT**: Since 1909, 15 film adaptations of the book have been made worldwide, using various technologies, including Cinemascope (1959) and animation (1976).
 
-**FAKT**: Film z 1959 roku z Jamesem Masonem i Patem Boone zarobił 10 milionów dolarów przy budżecie 3,44 miliona - był ogromnym sukcesem finansowym.
+**FACT**: The 1959 film with James Mason and Pat Boone earned $10 million on a budget of $3.44 million - it was a huge financial success.
 
-**FAKT**: Film z 2008 roku z Brendanem Fraserem wprowadził format 4DX w specjalnie zaprojektowanym kinie w Seulu - siedzenia się przechylały, była woda i ostrożne powietrze.
+**FACT**: The 2008 film with Brendan Fraser introduced 4DX format in a specially designed cinema in Seoul - seats tilted, there was water and careful air effects.
 
-**ANEGDOTA**: Podczas kręcenia filmu z 1959 roku setki litrów wody wylewano na aktorów, aby symulować burzliwe morze. Arlene Dahl zaczęła krzyczeć "Zabierzcie mnie stąd! Zemdleję!" James Mason odkrzknął do niej: "Zamknij się, kobieto! Będziemy musieli to zrobić dziesięć razy, jeśli się nie uspokoisz!" Dahl straciła przytomność i potrzeba było 30 minut, żeby ją ocucić.
+**ANECDOTE**: During the filming of the 1959 movie, hundreds of liters of water were poured on actors to simulate stormy seas. Arlene Dahl started screaming "Get me out of here! I'm going to faint!" James Mason shouted back at her: "Shut up, woman! We'll have to do this ten times if you don't calm down!" Dahl lost consciousness and it took 30 minutes to revive her.
 
-**ANEGDOTA**: Pat Boone niechętnie zgodził się na film, bo to była science fiction - dopiero gdy oferowano mu 15% zysków, przystał na rolę. Później powiedział: "Cieszę się, że to zrobiłem, bo to był fajny film z dobrą muzyką."
+**ANECDOTE**: Pat Boone reluctantly agreed to the film because it was science fiction - only when offered 15% of profits did he accept the role. He later said: "I'm glad I did it because it was a fun film with good music."
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT**: Film z 2008 roku otworzył się na #2 miejscu na liście sprzedaży DVD, sprzedając 843 224 egzemplarzy w pierwszym tygodniu, co przełożyło się na 13 238 617$ przychodu.
+**FACT**: The 2008 film opened at #2 on the DVD sales chart, selling 843,224 copies in the first week, translating to $13,238,617 in revenue.
 
-**FAKT**: Film z 2008 roku na Rotten Tomatoes ma 60% aprobatę w oparciu o 159 recenzji ze średnią oceną 6/10.
+**FACT**: The 2008 film has 60% approval on Rotten Tomatoes based on 159 reviews with an average rating of 6/10.
 
-**FAKT**: Rick Wakeman wydał album koncepcyjny "Journey to the Centre of the Earth" w 1974 roku, łączący piosenki, narrację i utwory instrumentalne.
+**FACT**: Rick Wakeman released the concept album "Journey to the Centre of the Earth" in 1974, combining songs, narration and instrumental pieces.
 
-**FAKT**: W 1999 roku Wakeman wydał drugi album koncepcyjny "Return to the Centre of the Earth".
+**FACT**: In 1999, Wakeman released a second concept album "Return to the Centre of the Earth."
 
-**FAKT**: Film 4D "Journey to the Center of the Earth 4-D Adventure" to 15-minutowy film pokazywany w kinach 4D na całym świecie, z ruchomymi siedzeniami, wiatrem, mgiełką i zapachami.
+**FACT**: The 4D film "Journey to the Center of the Earth 4-D Adventure" is a 15-minute film shown in 4D cinemas worldwide, with moving seats, wind, mist and scents.
 
-## Przełomowy rok 1864
+## The Breakthrough Year 1864
 
-**FAKT**: 1864 rok był rokiem, w którym Verne naprawdę stał się profesjonalnym pisarzem - opublikował "Journey to the Center of the Earth", umocnił relację z Hetzelem i mógł utrzymać rodzinę wyłącznie z pisania.
+**FACT**: 1864 was the year Verne truly became a professional writer - he published "Journey to the Center of the Earth," solidified his relationship with Hetzel, and could support his family solely from writing.
 
-**FAKT**: W tym samym roku Hetzel opublikował również "Przygody kapitana Hatterasa" - było to bardzo produktywne partnerstwo.
+**FACT**: In the same year, Hetzel also published "The Adventures of Captain Hatteras" - it was a very productive partnership.
 
-**FAKT**: Sukces "Journey to the Center of the Earth" utorował drogę dla całej serii "Voyages extraordinaires", która ostatecznie liczyła 54 powieści.
+**FACT**: The success of "Journey to the Center of the Earth" paved the way for the entire "Voyages extraordinaires" series, which ultimately numbered 54 novels.
 
-**FAKT**: Historia powstania tej książki pokazuje, jak czas połączenia talentu pisarskiego, metodycznych badań naukowych, wsparcia wydawniczego i społecznego zainteresowania nauką może utworzyć dzieło, które przetrwa 160 lat i nadal inspiruje adaptacje, podróże i marzenia o odkrywaniu nieznanych światów.
+**FACT**: The creation story of this book shows how the timing of writing talent, methodical scientific research, publishing support, and social interest in science can create a work that survives 160 years and still inspires adaptations, travels, and dreams of discovering unknown worlds.
 
-## Podsumowanie liczb
+## Summary of Numbers
 
-- **Czas pisania**: 8 miesięcy (styczeń-sierpień 1864)
-- **Wiek autora**: 36 lat
-- **Rok publikacji**: 1864 (pierwsze wydanie), 1867 (rozszerzone)
-- **Liczba adaptacji filmowych**: 15 (od 1909 roku)
-- **Najlepszy film box office**: 10 mln$ (1959)
-- **Sprzedaż DVD 2008**: 1 642 994 egzemplarzy za 25 346 260$
-- **Wysokość Snæfellsjökull**: 1446 metrów
-- **Wiek wulkanu**: 700 000 lat
-- **Kontrakt z Hetzelem**: 2-3 tomy rocznie
-- **Długość filmu 4D**: 15 minut
+- **Writing time**: 8 months (January-August 1864)
+- **Author's age**: 36 years
+- **Publication year**: 1864 (first edition), 1867 (expanded)
+- **Number of film adaptations**: 15 (since 1909)
+- **Best film box office**: $10 million (1959)
+- **2008 DVD sales**: 1,642,994 copies for $25,346,260
+- **Height of Snæfellsjökull**: 1,446 meters
+- **Age of volcano**: 700,000 years
+- **Contract with Hetzel**: 2-3 volumes annually
+- **4D film length**: 15 minutes

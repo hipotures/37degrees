@@ -4,3 +4,186 @@ book_info:
   author: "Zora Neale Hurston"
   year: 1937
   genre: "Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-17T15:42:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 6
+    contemporary_reception: 6
+    relevance: 8
+    innovation: 9
+    structural_complexity: 7
+    social_roles: 9
+    total: 62
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 7.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "facts_history_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in record time of just 7 weeks in Haiti while conducting anthropological research"
+        source: "facts_history"
+      - id: "writing_innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary double voice technique combining literary narration with authentic AAVE"
+        source: "writing_innovation"
+      - id: "writing_innovation_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "First full-value literary use of African American Vernacular English in high literature"
+        source: "writing_innovation"
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "False molestation accusations against Hurston in 1948 destroyed her reputation"
+        source: "dark_drama"
+      - id: "culture_impact_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Alice Walker found Hurston's unmarked grave in 1973, sparking literary revival"
+        source: "culture_impact"
+      - id: "culture_impact_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Book was out of print for nearly 30 years before 1978 renaissance"
+        source: "culture_impact"
+      - id: "youth_digital_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "1.3M posts tagged on TikTok showing contemporary digital engagement"
+        source: "youth_digital"
+      - id: "writing_innovation_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Precursor of literary Black feminism, pioneered intersectionality before term existed"
+        source: "writing_innovation"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English-speaking countries since 1978 revival"
+        key_editions: ["Harper Perennial Modern Classics", "40th Anniversary Edition"]
+        reception_notes: "Central to African American Studies programs and feminist literary criticism"
+        educational_status: "Standard text in American literature surveys and AP Literature courses"
+        local_themes: ["Canonical American literature", "Feminist literary criticism", "Harlem Renaissance studies"]
+
+      pl:
+        cultural_impact: "Largely unknown in Poland with no official Polish translation available"
+        key_editions: ["Available in English through Polish bookstores (81.40 PLN)"]
+        reception_notes: "Potential for academic interest in gender studies and American literature programs"
+        educational_status: "Not in mandatory reading canon but suitable for advanced literature courses"
+        local_themes: ["Translation challenges", "Feminist discourse potential", "American Studies context"]
+
+      de:
+        cultural_impact: "Two German translations establishing academic presence (1993, 2011)"
+        key_editions: ["Und ihre Augen schauten Gott (1993)", "Vor ihren Augen sahen sie Gott (2011)"]
+        reception_notes: "Academic engagement through Amerikanistik programs and feminist theory"
+        educational_status: "Included in university American Studies courses across DACH countries"
+        local_themes: ["German feminist theory", "Postcolonial analysis", "Critical theory approaches"]
+
+      fr:
+        cultural_impact: "Revolutionary 2018 translation by Sika Fakambi using linguistic métissage"
+        key_editions: ["Mais leurs yeux dardaient sur Dieu (Zulma, 2018)", "Une femme noire (1996)"]
+        reception_notes: "Connection to francophone Caribbean literary traditions and postcolonial studies"
+        educational_status: "Part of postcolonial studies curricula in French universities"
+        local_themes: ["Linguistic métissage", "Caribbean connections", "Postcolonial feminist theory"]
+
+      es:
+        cultural_impact: "Spanish translation Sus ojos miraban a Dios available across Hispanic world"
+        key_editions: ["Círculo de Lectores (1997)", "Lumen (1995)", "Academic prologue by Àngels Carabí"]
+        reception_notes: "Academic focus on postcolonial and feminist themes in Latin American universities"
+        educational_status: "Studied in African American literature and cultural studies programs"
+        local_themes: ["Latin American literary movements", "Magical realism parallels", "Postcolonial identity"]
+
+      pt:
+        cultural_impact: "Strong Brazilian academic reception with translation Seus Olhos Viam Deus"
+        key_editions: ["Record publisher editions (2002, 2021)", "Translated by Marcos Santarrita"]
+        reception_notes: "Extensive scholarly work and integration into Black feminist theory programs"
+        educational_status: "Part of graduate programs comparing diaspora Black feminist writers"
+        local_themes: ["Afro-Brazilian connections", "Intersectional analysis", "Transnational Black feminism"]
+
+      ja:
+        cultural_impact: "Academic reception focused on female independence and narrative innovation"
+        key_editions: ["彼らの目は神を見ていた (Shinjuku Shobo, 1995)", "Hurston Works Collection Vol. 1"]
+        reception_notes: "Emphasis on protagonist's journey from control to autonomous choice"
+        educational_status: "Required reading in American Literature courses at major universities"
+        local_themes: ["Individual vs. social expectations", "Women's autonomy", "Narrative technique studies"]
+
+      ko:
+        cultural_impact: "Multiple Korean editions showing sustained commercial and academic interest"
+        key_editions: ["Daesan World Literature Series", "Munye World Literature Selection 114"]
+        reception_notes: "Alignment with contemporary Korean feminist literary movement"
+        educational_status: "Essential reading in university literature programs studying African American literature"
+        local_themes: ["Korean feminist literary context", "Gender role evolution", "Confucian vs. modern values"]
+
+      hi:
+        cultural_impact: "Available in English with potential for postcolonial feminist theory connections"
+        key_editions: ["Available through Amazon.in and Flipkart", "No Hindi translation found"]
+        reception_notes: "Academic potential through postcolonial feminist theory frameworks"
+        educational_status: "Not in CBSE/ICSE curricula but valuable for comparative literature studies"
+        local_themes: ["Postcolonial parallels", "Spiritual quest themes", "Women's empowerment discourse"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Hurston pioneered intersectionality 50 years before the term existed"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Revolutionary double voice technique challenged literary hierarchies"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Tea Cake's behaviors now called 'red flags' in modern therapy speak"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Book's themes match contemporary dating culture and feminist movements"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Their Eyes Were Watching God' through lens of power, gender, class. Historical context: 1937."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings:
+      - "historical violence and racism discussion"
+      - "domestic relationship violence themes"
+      - "sexual content references"
+      - "toxic relationship pattern analysis"
+    educational_elements:
+      - "African American Vernacular English (AAVE) as literary technique"
+      - "Historical context of 1937 Jim Crow era Florida"
+      - "Intersectionality theory pioneered before term existed"
+      - "Revolutionary narrative techniques in American literature"
+      - "Anthropological approach to fiction writing"
+    production_notes:
+      intro_style: "Social justice pioneer - emphasize book's groundbreaking role in intersectional analysis"
+      transitions: "subtle musical bridges with blues/folk influences reflecting Southern oral tradition"
+      outro_style: "Living legacy - focus on ongoing influence on contemporary social movements"
+
+  overall_confidence: 0.89

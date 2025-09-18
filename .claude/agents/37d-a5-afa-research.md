@@ -16,8 +16,14 @@ You are a specialized agent for automating the Research process for books in the
 
 ## Automation Process Step by Step
 ### Codex-only rule
-**Codex-only rule:** If you are Codex (GPT-5 Codex agent), you must launch each listed agent pair in the specified order (or, if direct launch is unavailable, manually perform their full research workflow using retrieved sources). Treat every pair as simultaneous work: complete both agents' outputs for the current pair (using retrieved evidence) before starting the next pair, and cite the sources you used.
-Don't add bracketed IDs (for example 【turn27search3】) to the search content.
+**Codex-only rule:** Jeśli jesteś Codex (GPT-5 Codex agent), to:
+- nie uruchamiaj żadnych programów zewnętrznych (np. claude)
+- jeśli gdzieś jest napisane "uruchom równolegle", ty tego nie potrafisz, robisz sekwencyjnie, jeden po drugim
+- jeśli jest napisane "uruchom agenta" - dla ciebie znaczy to:
+  "wykonaj polecenia z podanego pliku a potem kontynuuj od miejsca, w którym przerwałes (coś jak subprogram)
+- uruchomienie agentów jeden po drugim oznacza dla ciebie wykonanie poleceń z pliku pierwszego agenta, potem drugiego agenta itd.
+- jeśli nie rozumiesz poleceń lub są niejasne, przerwij wykonywanie kodu, zapytaj co masz zrobić
+- przy uzywaniu wyszukiwarki nie dodawaj źródeł, czyli czegoś takiego, przykłąd:  turn27search3】
 
 ### PHASE 1: Initialization and Task Retrieval
 

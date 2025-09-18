@@ -1,183 +1,183 @@
-# MECHANICZNA POMARAŃCZA: Mroczne Sekrety i Kontrowersje
+# A CLOCKWORK ORANGE: Dark Secrets and Controversies
 
-## Informacje o książce
-- **Tytuł**: "A Clockwork Orange" / "Mechaniczna pomarańcza"
-- **Autor**: Anthony Burgess (1917-1993)
-- **Rok wydania**: 1962
-- **Gatunek**: Dystopia, satyra
+## Book Information
+- **Title**: "A Clockwork Orange"
+- **Author**: Anthony Burgess (1917-1993)
+- **Year of publication**: 1962
+- **Genre**: Dystopia, satire
 
-## 1. CONSPIRACY THEORIES I DARK INTERPRETATIONS
+## 1. CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### Teorie spiskowe wokół książki
+### Conspiracy theories around the book
 
-**TEORIA MK-ULTRA I KONTROLI UMYSŁU**
-- **ZARZUT**: Anonimowe źródło twierdzi, że Burgess współpracował z CIA podczas służby w Malezji w latach 50.
-- **TEORIA**: Roger Lewis w biografii Burgessa napisał, że książka była wspólnym dziełem Burgessa i brytyjskiego wywiadu, opisującym eksperymenty kontroli umysłu Dr. Ewena Camerona w Montreal (1957-1963)
-- **FAKT**: Brak dowodów na poparcie tych twierdzeń - wszystkie cytaty pochodzą od anonimowych źródeł
+**MK-ULTRA AND MIND CONTROL THEORY**
+- **ACCUSATION**: Anonymous source claims that Burgess collaborated with the CIA during his service in Malaysia in the 1950s
+- **THEORY**: Roger Lewis in Burgess's biography wrote that the book was a joint work of Burgess and British intelligence, describing mind control experiments by Dr. Ewen Cameron in Montreal (1957-1963)
+- **FACT**: No evidence to support these claims - all quotes come from anonymous sources
 
-**OKULTYZM I SYMBOLIKA ILLUMINATI**
-- **TEORIA**: Isaac Weishaupt w "Kubrick's Code" twierdzi, że Kubrick ukrywał w filmie symbole okultystyczne i references do Illuminati
-- **PLOTKA**: Teorię głosi, że trójkąty w filmie odnoszą się do egipskich piramid jako symbolu dominacji
-- **TEORIA**: Wąż i posągi Jezusa w filmie mają definiować chrześcijańskie zasady - wąż jako symbol diabła w Ogrodzie Eden
+**OCCULTISM AND ILLUMINATI SYMBOLISM**
+- **THEORY**: Isaac Weishaupt in "Kubrick's Code" claims that Kubrick hid occultist symbols and Illuminati references in the film
+- **RUMOR**: The theory claims that triangles in the film refer to Egyptian pyramids as symbols of domination
+- **THEORY**: The snake and Jesus statues in the film are meant to define Christian principles - the snake as a symbol of the devil in the Garden of Eden
 
-### Ukryte znaczenia języka Nadsat
+### Hidden meanings of Nadsat language
 
-**PROPAGANDA I PRANIE MÓZGU**
-- **FAKT**: W powieści dr Brodsky opisuje Nadsat jako "subliminalną penetrację" i "propagandę"
-- **TEORIA**: M. Keith Booker argumentuje, że Nadsat reprezentuje różne formy uwięzienia i kondycjonowania, mogące odzwierciedlać subtelny wpływ rosyjskiej propagandy
-- **FAKT**: Burgess zamierzył, żeby samo czytanie książki było formą kondycjonowania - czytelnik miał doświadczać "małej części tego, czemu poddano Alexa"
+**PROPAGANDA AND BRAINWASHING**
+- **FACT**: In the novel, Dr. Brodsky describes Nadsat as "subliminal penetration" and "propaganda"
+- **THEORY**: M. Keith Booker argues that Nadsat represents various forms of imprisonment and conditioning, possibly reflecting subtle influence of Russian propaganda
+- **FACT**: Burgess intended that reading the book itself would be a form of conditioning - the reader was to experience "a small part of what Alex was subjected to"
 
-**ZIMNA WOJNA I DYSTOPIJNE IMPLIKACJE**
-- **FAKT**: Napisana w 1962 roku na szczytach zimnej wojny, książka używała slang-u rosyjskiego, by nadać "totalitarny, dystopijny charakter"
-- **TEORIA**: Książka sugeruje możliwą przyszłość, w której rosyjskie słowa zostały wchłonięte do angielskiego z jakichś politycznych powodów
+**COLD WAR AND DYSTOPIAN IMPLICATIONS**
+- **FACT**: Written in 1962 at the height of the Cold War, the book used Russian slang to give it a "totalitarian, dystopian character"
+- **THEORY**: The book suggests a possible future where Russian words have been absorbed into English for some political reasons
 
-## 2. SKANDALE I DRAMATY AUTORA
+## 2. AUTHOR'S SCANDALS AND DRAMA
 
-### Problemy z alkoholem i zdrowie
+### Problems with alcohol and health
 
-**FAKT**: Burgess był ciężkim alkoholikiem do 50. roku życia - "piłem za dużo dopóki nie miałem 50 lat"
-- **FAKT**: W latach Etchingham para spożywała pół tuzina butelek ginu tygodniowo
-- **FAKT**: Jego żona Lynne zmarła w 1968 roku na marskość wątroby w wieku 47 lat
-- **FAKT**: Burgess cierpiał na dyspepsję, zaparcia i wzdęcia przez większość życia
+**FACT**: Burgess was a heavy alcoholic until age 50 - "I drank too much until I was 50 years old"
+- **FACT**: During the Etchingham years, the couple consumed half a dozen bottles of gin weekly
+- **FACT**: His wife Lynne died in 1968 of liver cirrhosis at age 47
+- **FACT**: Burgess suffered from dyspepsia, constipation and bloating for most of his life
 
-### Fałszywa diagnoza guza mózgu
+### False brain tumor diagnosis
 
-**FAKT**: W 1959 roku w Brunei Burgess zasłabł podczas nauczania i zdiagnozowano u niego nieoperacyjny guz mózgu z rokiem życia
-- **PLOTKA**: Biografowie przypisują ten incydent "notorycznie mancji" (skłonności do kłamstwa) autora
-- **FAKT**: Nie było żadnego guza - lekarze postawili błędną diagnozę. Burgess cierpiał na skutki przedłużonego picia alkoholu
+**FACT**: In 1959 in Brunei, Burgess collapsed during teaching and was diagnosed with an inoperable brain tumor with one year to live
+- **RUMOR**: Biographers attribute this incident to the author's "notorious mendacity" (tendency to lie)
+- **FACT**: There was no tumor - doctors made a wrong diagnosis. Burgess was suffering from the effects of prolonged alcohol consumption
 
-### Skandale małżeńskie i zdrada
+### Marriage scandals and infidelity
 
-**FAKT**: Burgess miał romans z Lianą Macellari od 1963 roku, która urodziła mu syna w 1964, podczas gdy był jeszcze żonaty z Lynne
-- **ZARZUT**: Małżeństwo było opisywane jako "nieunikniona, ledwie funkcjonalna katastrofa"
-- **FAKT**: Lynne była alkoholiczką opisywaną jako "nieprzyjemna lubieżna pijaczka" z problemami "nadmiernego picia i przeskakiwania po łóżkach"
+**FACT**: Burgess had an affair with Liana Macellari from 1963, who bore him a son in 1964, while he was still married to Lynne
+- **ACCUSATION**: The marriage was described as an "inevitable, barely functional disaster"
+- **FACT**: Lynne was an alcoholic described as an "unpleasant lecherous drunk" with problems of "excessive drinking and bed-hopping"
 
-### Skandal z autodkrytyką
+### Self-review scandal
 
-**FAKT**: Wczesny skandal powstał, gdy odkryto, że Burgess pseudonimowo napisał zaskakująco krytyczną recenzję jednej ze swoich powieści
-- **FAKT**: Gdy redaktor Yorkshire Post odkrył, że Kell i Burgess to ta sama osoba, natychmiast zwolnił swojego wiarygodnego recenzenta
+**FACT**: An early scandal arose when it was discovered that Burgess had pseudonymously written a surprisingly critical review of one of his own novels
+- **FACT**: When the Yorkshire Post editor discovered that Kell and Burgess were the same person, he immediately fired his trusted reviewer
 
-## 3. KONFISKACJA MAJĄTKU NA MALCIE
+## 3. PROPERTY CONFISCATION IN MALTA
 
-**FAKT**: Wiosną 1974 roku Burgess wrócił z Włoch i odkrył, że jego dom został skonfiskowany przez maltański rząd
-- **FAKT**: Zabrał sprawę do Guardian, gdzie pojawiła się jako wiadomość pierwszej strony 19 kwietnia 1974
+**FACT**: In spring 1974, Burgess returned from Italy to discover that his house had been confiscated by the Maltese government
+- **FACT**: He took the case to The Guardian, where it appeared as front-page news on April 19, 1974
 
-## 4. CONFLICTS Z INNYMI PISARZAMI
+## 4. CONFLICTS WITH OTHER WRITERS
 
-### Feud z Graham Greene
+### Feud with Graham Greene
 
-**FAKT**: Graham Greene powiedział Gore Vidalowi, że uważa hałaśliwą autopromocję Burgessa, szczególnie występy w talk show TV, za "niesmaczną i godną pogardy"
-- **ZARZUT**: W 1988 roku Burgess opisał Greene jako "starszego mężczyznę 86 lat, który nie ma przyjaciół i izoluje się w Antibes"
-- **ZARZUT**: Burgess oskarżył Greene o "uprzedzenia klasowe" i że "nigdy nie objął całego ciała Kościoła"
+**FACT**: Graham Greene told Gore Vidal that he found Burgess's noisy self-promotion, particularly TV talk show appearances, "distasteful and contemptible"
+- **ACCUSATION**: In 1988, Burgess described Greene as "an old man of 86 who has no friends and isolates himself in Antibes"
+- **ACCUSATION**: Burgess accused Greene of "class prejudices" and that he "never embraced the whole body of the Church"
 
-### Udział w feudzie Nabokov-Wilson
+### Participation in the Nabokov-Wilson feud
 
-**FAKT**: Burgess dołączył do słynnego sporu literackiego między Vladimirem Nabokovem a Edmundem Wilsonem, wraz z innymi pisarzami jak Robert Lowell, V.S. Pritchett, Robert Graves i Paul Fussell
+**FACT**: Burgess joined the famous literary dispute between Vladimir Nabokov and Edmund Wilson, along with other writers like Robert Lowell, V.S. Pritchett, Robert Graves and Paul Fussell
 
-### Ataki krytyków
+### Critics' attacks
 
-**ZARZUT**: Według przeciwników Burgess był "niewymownie zarozumiały", "twórczo impotentny, mimo rzekomej płodności", "biały nacjonalista", "posiadający niską przebiegłość" i "habitualny, chroniczny, patologiczny kłamca"
+**ACCUSATION**: According to opponents, Burgess was "unspeakably arrogant", "creatively impotent, despite alleged fertility", "white nationalist", "possessing low cunning" and "habitual, chronic, pathological liar"
 
-## 5. KONFLIKTY Z KUBRICKIEM
+## 5. CONFLICTS WITH KUBRICK
 
-### Problemy z adaptacją
+### Problems with adaptation
 
-**FAKT**: Burgess martwił się, że adaptacja będzie bardziej zainteresowana seksem i przemocą niż językiem jego powieści
-- **FAKT**: Kiedy Malcolm McDowell zapytał Kubricka, czy spotkał się z Burgessem, aby omówić projekt, Kubrick wykrzyknął "O dobry Boże, nie!" i "Po co miałbym to robić?"
+**FACT**: Burgess worried that the adaptation would be more interested in sex and violence than in the language of his novel
+- **FACT**: When Malcolm McDowell asked Kubrick if he had met with Burgess to discuss the project, Kubrick exclaimed "Oh good God, no!" and "Why would I want to do that?"
 
-### Narastające rozżalenie
+### Growing resentment
 
-**FAKT**: Burgess był rozwścieczony późniejszą publikacją książki zatytułowanej "Stanley Kubrick's A Clockwork Orange" - widział to jako przywłaszczenie swojej pracy
-- **ZARZUT**: Burgess czuł, że nie miał udziału w komercyjnym sukcesie adaptacji - prawa sprzedał za 500, 2000 lub 5000 dolarów (różne źródła)
-- **FAKT**: Z biegiem lat Burgess był niecierpliwy z dziennikarzami, którzy chcieli dyskutować tylko o Mechanicznej Pomarańczy, a nie o jego innych książkach
+**FACT**: Burgess was furious about the later publication of a book titled "Stanley Kubrick's A Clockwork Orange" - he saw it as appropriation of his work
+- **ACCUSATION**: Burgess felt he had no share in the commercial success of the adaptation - he sold the rights for $500, $2000 or $5000 (different sources)
+- **FACT**: Over the years, Burgess was impatient with journalists who wanted to discuss only A Clockwork Orange, not his other books
 
 ## 6. CRIMES INSPIRED BY THE WORK
 
 ### Copycat Crimes
 
-**FAKT**: Po tym, jak film został oskarżony o inspirowanie naśladowczych aktów przemocy, został wycofany z brytyjskich kin na żądanie Kubricka
-- **PRZYPADEK**: Gangi mężczyzn angażujące się w akty przemocy seksualnej często recytowały kwestie z filmu swoim ofiarom
+**FACT**: After the film was accused of inspiring copycat acts of violence, it was withdrawn from British cinemas at Kubrick's request
+- **CASE**: Gangs of men engaging in acts of sexual violence often recited lines from the film to their victims
 
-**PRZYPADEK RICHARDA PALMERA**
-- **FAKT**: 16-letni Richard Palmer z Bletchley został osądzony za morderstwo włóczęgi, scenariusz który pojawia się w jednej z pierwszych scen filmu
-- **IRONIA**: Palmer, będąc niepełnoletni dla filmu kategorii X, w rzeczywistości nie widział filmu - tylko słyszał o nim od znajomych
+**RICHARD PALMER CASE**
+- **FACT**: 16-year-old Richard Palmer from Bletchley was tried for murdering a vagrant, a scenario that appears in one of the film's opening scenes
+- **IRONY**: Palmer, being underage for the X-rated film, had actually not seen the film - he had only heard about it from friends
 
-**PRZYPADEK GWAŁTU W LANCASHIRE**
-- **FAKT**: 17-letnia holenderska dziewczyna na wakacjach została zgwałcona przez gang młodzieży, którzy według raportów śpiewali "Singing in the Rain"
+**LANCASHIRE RAPE CASE**
+- **FACT**: A 17-year-old Dutch girl on vacation was raped by a gang of youths who, according to reports, were singing "Singing in the Rain"
 
-### Reakcja Kubricka
+### Kubrick's reaction
 
-**FAKT**: Po "copycat crimes" i protestach pod domem reżysera (wraz z pogróżkami śmierci), Kubrick sam wycofał film z Wielkiej Brytanii
-- **FAKT**: Film nie był ponownie wydany w UK aż do śmierci Kubricka w 1999 roku
+**FACT**: After "copycat crimes" and protests outside the director's home (along with death threats), Kubrick himself withdrew the film from the UK
+- **FACT**: The film was not re-released in the UK until Kubrick's death in 1999
 
-## 7. GOVERNMENT CENSORSHIP I BANS
+## 7. GOVERNMENT CENSORSHIP AND BANS
 
-### Bans na całym świecie
+### Bans worldwide
 
-**FAKT**: Film był zakazany w Irlandii od 1971 do 2000 roku
-- **FAKT**: Film był zakazany w Singapurze przez 40 lat, w końcu pokazany w 2011 roku
-- **FAKT**: Książka była zakazana w 1973 w Orem, Utah - księgarka została aresztowana za sprzedawanie powieści
+**FACT**: The film was banned in Ireland from 1971 to 2000
+- **FACT**: The film was banned in Singapore for 40 years, finally shown in 2011
+- **FACT**: The book was banned in 1973 in Orem, Utah - a bookstore clerk was arrested for selling the novel
 
 ### Censorship incidents
 
-**FAKT**: Powieść była zakazana w 1976 w Aurora, Colorado, w 1977 w Westport, Connecticut i w 1982 w Anniston, Alabama
-- **FAKT**: W 2019 roku członkowie Florida Citizens Alliance lobbowali za zakazem książki wraz z prawie setką innych "pornograficznych" powieści
+**FACT**: The novel was banned in 1976 in Aurora, Colorado, in 1977 in Westport, Connecticut and in 1982 in Anniston, Alabama
+- **FACT**: In 2019, members of Florida Citizens Alliance lobbied for banning the book along with nearly a hundred other "pornographic" novels
 
-### Kontrowersje religijne
+### Religious controversies
 
-**FAKT**: Archebiskup Canterbury w wrześniu 1970 roku wzywał chrześcijan do zjednoczenia i protestu przeciw nieprzyzwoitości i bluźnierstwu
-- **FAKT**: "Festival of Light" zdołał przyciągnąć 35,000 ludzi na spotkanie na Trafalgar Square 25 września 1971
-- **FAKT**: Narodowe Katolickie Biuro ds. Filmów dało filmowi ocenę "C" (potępiony), co oznaczało, że oglądanie było uważane za grzech śmiertelny
+**FACT**: The Archbishop of Canterbury in September 1970 called on Christians to unite and protest against indecency and blasphemy
+- **FACT**: The "Festival of Light" managed to attract 35,000 people to a meeting at Trafalgar Square on September 25, 1971
+- **FACT**: The National Catholic Office for Motion Pictures gave the film a "C" rating (condemned), meaning that viewing it was considered a mortal sin
 
-## 8. PRZEPOWIEDNIE I BŁĘDNE PROGNOZY
+## 8. PROPHECIES AND FAILED PREDICTIONS
 
-### Prognozy na 2020 rok
+### Predictions for 2020
 
-**PRZEPOWIEDNIA CZĘŚCIOWO TRAFIONA**: W 1984 roku Burgess przewidział, że "elektroniczny procesor tekstów" stanie się dominującą technologią produkcji literackiej
-- **PRZEPOWIEDNIA NIETRAFIONA**: Przewidywał, że mowa stanie się bardziej fragmentaryczna, a język młodych ludzi będzie "kodem i bardzo ograniczonym"
-- **PRZEPOWIEDNIA NIETRAFIONA**: Wierzył, że w 2020 roku "humanistyczny angielski prawie nie będzie istniał"
+**PARTIALLY CORRECT PROPHECY**: In 1984, Burgess predicted that "electronic word processors" would become the dominant technology for literary production
+- **INCORRECT PROPHECY**: He predicted that speech would become more fragmentary, and young people's language would be "coded and very limited"
+- **INCORRECT PROPHECY**: He believed that by 2020 "humanistic English would almost not exist"
 
-### Prognozy geopolityczne
+### Geopolitical predictions
 
-**PRZEPOWIEDNIA NIETRAFIONA**: W powieści "1985" z 1978 roku przewidywał, że zimna wojna potrwa co najmniej 200 lat - Mur Berliński upadł zaledwie 11 lat po publikacji książki
+**INCORRECT PROPHECY**: In the 1978 novel "1985", he predicted that the Cold War would last at least 200 years - the Berlin Wall fell just 11 years after the book's publication
 
 ### Science fiction predictions
 
-**PRZEPOWIEDNIA CZĘŚCIOWO TRAFIONA**: W "Mechanicznej Pomarańczy" (umiejscowionej w 1980) przewidział międzynarodowe "worldcasts" i wprowadzone przez państwo pranie mózgu
-- **PRZEPOWIEDNIA NIETRAFIONA**: W "The Wanting Seed" wyobraził sobie dystopijną przyszłość z recyklingiem człowieka przyjaznym dla środowiska, ale technologia pozostała na poziomie lat 60.
+**PARTIALLY CORRECT PROPHECY**: In "A Clockwork Orange" (set in 1980) he predicted international "worldcasts" and state-imposed brainwashing
+- **INCORRECT PROPHECY**: In "The Wanting Seed" he imagined a dystopian future with environmentally friendly human recycling, but the technology remained at 1960s level
 
-## 9. KONTROWERSYJNE POGLĄDY POLITYCZNE
+## 9. CONTROVERSIAL POLITICAL VIEWS
 
-### Poglądy polityczne
+### Political views
 
-**FAKT**: Burgess był konserwatystą i monarchistą, "nienawidził wszystkich demokracji i socjalizmu" ale popierał usocjalizowaną medycynę
-- **FAKT**: Chciał "katolickiej monarchii cesarskiej jakobitów" podobnej do przedrewolucyjnej Francji
-- **CYTAT**: "Gardzę państwem. Nienawidzę wszystkich republik. Poważne traktowanie socjalizmu jest śmieszne"
+**FACT**: Burgess was a conservative and monarchist, "hated all democracies and socialism" but supported socialized medicine
+- **FACT**: He wanted a "Catholic imperial Jacobite monarchy" similar to pre-revolutionary France
+- **QUOTE**: "I despise the state. I hate all republics. Taking socialism seriously is ridiculous"
 
-### Zarzuty rasizmu i faszyzmu
+### Accusations of racism and fascism
 
-**ZARZUT**: Według przeciwników był nazywany "białym nacjonalistą" i "faszystowskim komunistą"
-- **KONTRARGUMENT**: Rodzinna polityka była anty-elitarna i ogólnie lewicowo-liberalna
-- **FAKT**: Był sygnatariuszem listu otwartego przeciwko amerykańskiej interwencji wojskowej w Wietnamie w 1967 roku
+**ACCUSATION**: According to opponents, he was called a "white nationalist" and "fascist communist"
+- **COUNTERARGUMENT**: Family politics were anti-elitist and generally left-liberal
+- **FACT**: He was a signatory of an open letter against American military intervention in Vietnam in 1967
 
-## 10. FINANCIAL SCANDALS I MONEY DRAMA
+## 10. FINANCIAL SCANDALS AND MONEY DRAMA
 
-### Zagadkowe finanse
+### Mysterious finances
 
-**PARADOKS**: Burgess agresywnie twierdził, że "nie ma pieniędzy" i pisał w zawrotnym tempie tylko po to, by uchronić się przed "zawsze nadchodzącą groźbą ubóstwa"
-- **PLOTKA**: Wątpliwe twierdzenie dla człowieka, który podobno miał kilka milionów funtów szterlingów ukrytych, gdy zmarł w 1993 roku
+**PARADOX**: Burgess aggressively claimed he "had no money" and wrote at breakneck speed only to protect himself from the "ever-approaching threat of poverty"
+- **RUMOR**: Dubious claim for a man who allegedly had several million pounds sterling hidden when he died in 1993
 
-### Problemy wydawnicze
+### Publishing problems
 
-**FAKT**: Powieść "The Worm and the Ring" była przedmiotem pozwu o zniesławienie od sekretarki szkoły
-- **FAKT**: Heinemann, wydawca, wątpił w publikację: mogła być oszczercza
+**FACT**: The novel "The Worm and the Ring" was the subject of a libel lawsuit from a school secretary
+- **FACT**: Heinemann, the publisher, doubted publication: it could be libelous
 
-## PODSUMOWANIE: DARK LEGACY
+## SUMMARY: DARK LEGACY
 
-"Mechaniczna Pomarańcza" pozostaje jedną z najbardziej kontrowersyjnych książek XX wieku, otoczoną mgłą teorii spiskowych, skandali osobistych i mrocznych interpretacji. Sam Burgess żałował swojego stworzenia, nienawidząc nie tylko najpopularniejszej książki, ale także każdego, kto ją lubił. Film Kubricka spotęgował kontrowersje, łącząc dzieło z rzeczywistymi przestępstwami i prowadząc do bezprecedensowej autocenzury przez reżysera.
+"A Clockwork Orange" remains one of the most controversial books of the 20th century, surrounded by a fog of conspiracy theories, personal scandals and dark interpretations. Burgess himself regretted his creation, hating not only his most popular book but also anyone who liked it. Kubrick's film intensified the controversy, linking the work to real crimes and leading to unprecedented self-censorship by the director.
 
-Połączenie osobistych demonów Burgessa - alkoholizmu, skomplikowanych małżeństw, finansowych dramatów - z mroczną wizją przyszłości stworzyło dzieło, które nadal prowokuje i niepokoi. Czy to przypadek, że autor używający rosyjskiego slangu w okresie zimnej wojny stworzył tak prophetic vision kontroli umysłu? Czy teorie o połączeniach z MK-ULTRA mają jakiekolwiek podstawy? Prawda, jak zawsze w przypadku Burgessa, pozostaje zagadkowa i kontrowersyjna.
+The combination of Burgess's personal demons - alcoholism, complicated marriages, financial dramas - with a dark vision of the future created a work that continues to provoke and disturb. Is it a coincidence that an author using Russian slang during the Cold War created such a prophetic vision of mind control? Do theories about connections to MK-ULTRA have any basis? The truth, as always with Burgess, remains enigmatic and controversial.
 
 ---
 
-*Dokument badawczy stworzony w ramach projektu 37degrees - analizy mrocznych aspektów klasycznej literatury dla polskiej młodzieży. Wszystkie informacje zostały zweryfikowane z dostępnych źródeł internetowych na dzień 2025-08-30.*
+*Research document created as part of the 37degrees project - analysis of dark aspects of classic literature for Polish youth. All information has been verified from available internet sources as of 2025-09-17.*

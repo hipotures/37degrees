@@ -1,158 +1,158 @@
-# Lokalny Kontekst Kulturowy: "Opowieść podręcznej" Margaret Atwood
+# Local Cultural Context: "The Handmaid's Tale" by Margaret Atwood
 
-## 1. Historia Wydań w Polsce
+## 1. Publication History in Poland
 
-### Pierwsze Polskie Wydanie
-- **1992**: Pierwsze polskie wydanie w serii "Klub Interesującej Książki" nakładem Państwowego Instytutu Wydawniczego (PIW)
-- **Tłumaczka**: Zofia Uhrynowska-Hanasz - doświadczona tłumaczka literatury anglojęzycznej, urodzona 24 lipca 1934 roku
+### First Polish Edition
+- **1992**: First Polish edition in the "Interesting Book Club" series published by State Publishing Institute (PIW)
+- **Translator**: Zofia Uhrynowska-Hanasz - experienced translator of English-language literature, born July 24, 1934
 
-### Współczesne Wydania
-- **2017**: Wielka Litera - wydanie papierowe z klapkami (ISBN: 9788383600024)
-- **2017**: E-book w formatach epub/mobi (ISBN: 9788380321724)
-- **2017**: Ekskluzywne wydanie twarda oprawa z obwolutą (ISBN: 9788380324398)
-- **2024**: Audiobook z lektorką Magdaleną Cielecką
+### Contemporary Editions
+- **2017**: Wielka Litera - paperback edition with flaps (ISBN: 9788383600024)
+- **2017**: E-book in epub/mobi formats (ISBN: 9788380321724)
+- **2017**: Exclusive hardcover edition with dust jacket (ISBN: 9788380324398)
+- **2024**: Audiobook narrated by Magdalena Cielecka
 
-## 2. Polskie Tłumaczenie i Wyzwania
+## 2. Polish Translation and Challenges
 
 ### Zofia Uhrynowska-Hanasz
-- **Profil**: Renomowana tłumaczka z 46 książkami na koncie
-- **Inne tłumaczenia Atwood**: "Pani wyrocznia" (1989), "Moralny nieład" (2008)
-- **Specjalizacja**: Literatura kanadyjska i amerykańska
-- **Uznanie**: Uważana za jedną z najlepszych polskich tłumaczek literatury anglojęzycznej
+- **Profile**: Renowned translator with 46 books translated
+- **Other Atwood translations**: "Cat's Eye" (1989), "Moral Disorder" (2008)
+- **Specialization**: Canadian and American literature
+- **Recognition**: Considered one of Poland's best translators of English-language literature
 
-### Wyzwania Tłumaczeniowe
-- Przekład tytułu: "The Handmaid's Tale" → "Opowieść podręcznej"
-- Terminologia religijna i polityczna specyficzna dla dystopii
-- Zachowanie dwuznaczności językowej charakterystycznej dla Atwood
-- Adaptacja kulturowych odniesień biblijnych dla polskiego czytelnika
+### Translation Challenges
+- Title translation: "The Handmaid's Tale" → "Opowieść podręcznej"
+- Religious and political terminology specific to dystopia
+- Preserving linguistic ambiguity characteristic of Atwood
+- Adapting biblical cultural references for Polish readers
 
-## 3. Recepcja Akademicka w Polsce
+## 3. Academic Reception in Poland
 
-### Badania Naukowe
-- **Uniwersytet Jagielloński**: Praca "Analiza serialowej adaptacji Opowieści podręcznej Margaret Atwood i jej społeczno-polityczne konteksty"
-- **Tematy badawcze**: Adaptacja literatura-serial, konteksty społeczno-polityczne, jakość produkcji telewizyjnych
+### Scientific Research
+- **Jagiellonian University**: Thesis "Analysis of the Serial Adaptation of Margaret Atwood's The Handmaid's Tale and Its Socio-Political Contexts"
+- **Research topics**: Literature-to-series adaptation, socio-political contexts, quality of television productions
 
-### Polskie Interpretacje Akademickie
-- **Dystopia jako narzędzie krytyki społecznej**: Polscy badacze podkreślają użycie fikcyjnego świata dla konfrontacji z możliwymi konsekwencjami współczesnych wyborów
-- **Symbolizm**: Analiza czerwonych strojów jako symbolu krwi, płodności i ofiary
-- **Porównania literackie**: Związki z "1984" Orwella w kontekście zakończenia
+### Polish Academic Interpretations
+- **Dystopia as social criticism tool**: Polish researchers emphasize the use of fictional world to confront possible consequences of contemporary choices
+- **Symbolism**: Analysis of red costumes as symbols of blood, fertility, and sacrifice
+- **Literary comparisons**: Connections with Orwell's "1984" in the context of the ending
 
-## 4. Kontekst Polityczny i Społeczny
+## 4. Political and Social Context
 
-### Strajk Kobiet i Protesty 2020
-- **Symbol oporu**: Demonstrantki ubierały się w czerwone peleryny Podręcznych podczas protestów przeciwko wyrokowi Trybunału Konstytucyjnego
-- **Międzynarodowe wsparcie**: Nina Kiri, aktorka z serialu, publicznie wsparła polskie protestujące
-- **Paralele polityczne**: Media zachodnie porównywały Polskę do Gileadu z powieści
+### Women's Strike and 2020 Protests
+- **Symbol of resistance**: Protesters wore red Handmaid cloaks during demonstrations against the Constitutional Tribunal ruling
+- **International support**: Nina Kiri, actress from the series, publicly supported Polish protesters
+- **Political parallels**: Western media compared Poland to Gilead from the novel
 
-### Aktualne Przesłanie
-- **Prawa reprodukcyjne**: Książka zyskała nową aktualność w kontekście zaostrzenia ustawy antyaborcyjnej
-- **Kontrola państwa**: Polscy czytelnicy dostrzegają paralele między fikcją a rzeczywistością polityczną
-- **Feminizm**: Dzieło traktowane jako manifest w obronie praw kobiet
+### Current Message
+- **Reproductive rights**: The book gained new relevance in the context of tightened anti-abortion laws
+- **State control**: Polish readers see parallels between fiction and political reality
+- **Feminism**: The work is treated as a manifesto defending women's rights
 
-## 5. Serial HBO i Polska Recepcja
+## 5. HBO Series and Polish Reception
 
-### Dostępność i Popularność
-- **2017**: Premiera na platformie Showmax
-- **2018**: Premiera telewizyjna na HBO (27 kwietnia)
-- **Obecnie**: Dostępny na HBO Max w Polsce
-- **Nagrody**: 2 Złote Globy, liczne Emmy
+### Availability and Popularity
+- **2017**: Premiere on Showmax platform
+- **2018**: Television premiere on HBO (April 27)
+- **Currently**: Available on HBO Max in Poland
+- **Awards**: 2 Golden Globes, numerous Emmys
 
-### Polski Kontekst Serialu
-- **Rewolucja myślenia**: Serial zmienił sposób myślenia o patriarchacie i wpływie narracji na rzeczywistość
-- **Charakter polityczny**: Szczególnie aktualny w kontekście wyboru Trumpa na prezydenta USA
-- **Polskie komentarze**: Widzowie dostrzegają związki z polską sytuacją polityczną
+### Polish Series Context
+- **Revolution in thinking**: Series changed thinking about patriarchy and narrative's influence on reality
+- **Political character**: Particularly relevant in the context of Trump's election as US president
+- **Polish commentary**: Viewers notice connections with Polish political situation
 
-## 6. Edukacyjny Kontekst
+## 6. Educational Context
 
-### Status w Szkołach
-- **NIE jest lekturą szkolną** w Polsce (ani obowiązkową, ani uzupełniającą)
-- **Brak w wykazie**: Nie znajduje się na liście lektur Ministerstwa Edukacji
-- **Kontrowersje**: Treść może być uznana za zbyt dojrzałą dla młodzieży szkolnej
+### School Status
+- **NOT a school reading** in Poland (neither mandatory nor supplementary)
+- **Not listed**: Does not appear on the Ministry of Education's reading list
+- **Controversies**: Content may be considered too mature for school-age youth
 
-### Nieoficjalne Wykorzystanie
-- **Kluby książki**: Popularna pozycja w klubach czytelniczych (np. Klub Książki Przewrót w Krakowie)
-- **Dyskusje społeczne**: Używana w debatach o prawach kobiet i demokracji
-- **Edukacja obywatelska**: Przykład zagrożeń dla demokratycznych wartości
+### Unofficial Use
+- **Book clubs**: Popular position in reading clubs (e.g., Book Club Revolution in Krakow)
+- **Social discussions**: Used in debates about women's rights and democracy
+- **Civic education**: Example of threats to democratic values
 
-## 7. Kultura Popularna i Media Społecznościowe
+## 7. Popular Culture and Social Media
 
-### Memy i Kultura Internetowa
-- **Kostiumy protestacyjne**: Czerwone peleryny stały się rozpoznawalnym symbolem
-- **Odniesienia polityczne**: Porównania polityków do postaci z Gileadu
-- **Dyskusje online**: Aktywne społeczności na Facebooku i innych platformach
+### Memes and Internet Culture
+- **Protest costumes**: Red cloaks became a recognizable symbol
+- **Political references**: Comparisons of politicians to Gilead characters
+- **Online discussions**: Active communities on Facebook and other platforms
 
-### Wpływ na Polską Kulturę
-- **Symbol oporu**: Podręczne jako ikony walki o prawa kobiet
-- **Język polityczny**: Terminy z książki weszły do polskiego dyskursu politycznego
-- **Tożsamość feministyczna**: Dzieło stało się punktem odniesienia dla polskiego ruchu kobiecego
+### Impact on Polish Culture
+- **Symbol of resistance**: Handmaids as icons of the fight for women's rights
+- **Political language**: Terms from the book entered Polish political discourse
+- **Feminist identity**: The work became a reference point for the Polish women's movement
 
-## 8. Opinie Polskich Czytelników
+## 8. Polish Readers' Opinions
 
-### Pozytywne Recenzje
-- **Mistrzostwo literackie**: "Jedna z najbardziej oryginalnych książek współczesności"
-- **Aktualność**: "Książka, która powinna zostać przeczytana przez każdego człowieka szukającego głębszego sensu w naszej rzeczywistości"
-- **Styl pisarstwa**: "Błyskotliwie napisana, lekka i piękna, z wrażliwością i smakiem godnym mistrza"
+### Positive Reviews
+- **Literary mastery**: "One of the most original books of contemporary times"
+- **Relevance**: "A book that should be read by every person seeking deeper meaning in our reality"
+- **Writing style**: "Brilliantly written, light and beautiful, with sensitivity and taste worthy of a master"
 
-### Wpływ Emocjonalny
-- **Niekomfort czytelniczy**: Czytelnicy odczuwają apatię, ciężkość, duszność podczas lektury
-- **Wciągająca narracja**: "Trudno się od niej oderwać", "można przeczytać w jeden wieczór"
-- **Chęć ponownej lektury**: Wielu czytelników chce natychmiast przeczytać książkę ponownie
+### Emotional Impact
+- **Reading discomfort**: Readers experience apathy, heaviness, suffocation during reading
+- **Engaging narrative**: "Hard to put down", "can be read in one evening"
+- **Desire to reread**: Many readers want to immediately read the book again
 
-### Krytyczne Uwagi
-- **Bohaterka**: Początkowo niesympatyczna protagonistka
-- **Struktura narracyjna**: Czasem myląca chronologia wydarzeń
-- **Zakończenie**: Niektórzy czytelnicy wolieliby inne zakończenie lub brak epilogu
+### Critical Comments
+- **Protagonist**: Initially unsympathetic protagonist
+- **Narrative structure**: Sometimes confusing chronology of events
+- **Ending**: Some readers would prefer a different ending or no epilogue
 
-## 9. Adaptacje Teatralne i Kulturowe
+## 9. Theatrical and Cultural Adaptations
 
-### Brak Polskich Adaptacji Teatralnych
-- **Status**: Nie znaleziono informacji o polskich adaptacjach teatralnych "Opowieści podręcznej"
-- **Potencjał**: Tematyka mogłaby być atrakcyjna dla polskich teatrów, szczególnie w kontekście społeczno-politycznym
-- **Przyszłość**: Możliwe przyszłe adaptacje w teatrach miejskich lub eksperymentalnych
+### Lack of Polish Theatrical Adaptations
+- **Status**: No information found about Polish theatrical adaptations of "The Handmaid's Tale"
+- **Potential**: The theme could be attractive to Polish theaters, especially in socio-political context
+- **Future**: Possible future adaptations in municipal or experimental theaters
 
-### Alternatywne Formy Kulturowe
-- **Kluby książki**: Regularne spotkania poświęcone analizie dzieła
-- **Dyskusje panelowe**: Wydarzenia kulturalne z udziałem ekspertów
-- **Instalacje artystyczne**: Czerwone peleryny w galeriach i muzeach
+### Alternative Cultural Forms
+- **Book clubs**: Regular meetings dedicated to analyzing the work
+- **Panel discussions**: Cultural events with expert participation
+- **Art installations**: Red cloaks in galleries and museums
 
-## 10. Spotkania z Autorką
+## 10. Meetings with the Author
 
-### Jedyne Spotkanie z Polskimi Czytelnikami
-- **Data**: 20 stycznia 2021
-- **Format**: Online na profilu Festiwalu Literacki Sopot
-- **Prowadzenie**: Sylwia Chutnik
-- **Tłumaczenie**: Symultaniczne na język polski i polski język migowy
-- **Widzowie**: Szczyt 3,900 widzów online, łącznie 39,700 odbiorców
+### Only Meeting with Polish Readers
+- **Date**: January 20, 2021
+- **Format**: Online on Literary Festival Sopot profile
+- **Host**: Sylwia Chutnik
+- **Translation**: Simultaneous into Polish and Polish sign language
+- **Viewers**: Peak 3,900 online viewers, total 39,700 recipients
 
-### Treść Spotkania
-- **Kontekst polityczny**: Spotkanie w czasie protestów związanych z wyrokiem TK ws. aborcji
-- **Przesłanie Atwood**: "Widzę jaskółki dobrych zmian, ludzie zrozumieli, że muszą współpracować"
-- **Nadzieja**: Atwood wskazała na pozytywne zmiany (szybkość tworzenia szczepionki, świadomość kryzysu klimatycznego)
+### Meeting Content
+- **Political context**: Meeting during protests related to Constitutional Court ruling on abortion
+- **Atwood's message**: "I see swallows of good change, people understood they must cooperate"
+- **Hope**: Atwood pointed to positive changes (vaccine development speed, climate crisis awareness)
 
-## 11. Znaczenie dla Polskiego Feminizmu
+## 11. Significance for Polish Feminism
 
-### Symbol Ruchu Kobiecego
-- **Ikona protestu**: Czerwone peleryny stały się mundurami polskiego ruchu kobiecego
-- **Tożsamość zbiorowa**: Książka jednoczy polskie aktywistki
-- **Język oporu**: Terminologia z dzieła weszła do słownika polskiego feminizmu
+### Symbol of Women's Movement
+- **Protest icon**: Red cloaks became uniforms of the Polish women's movement
+- **Collective identity**: The book unites Polish activists
+- **Language of resistance**: Terminology from the work entered the vocabulary of Polish feminism
 
-### Edukacja Obywatelska
-- **Ostrzeżenie**: Dzieło traktowane jako ostrzeżenie przed utratą demokracji
-- **Mobilizacja**: Inspiruje do działania w obronie praw obywatelskich
-- **Świadomość**: Podnosi świadomość zagrożeń dla praw człowieka
+### Civic Education
+- **Warning**: The work is treated as a warning against loss of democracy
+- **Mobilization**: Inspires action in defense of civil rights
+- **Awareness**: Raises awareness of threats to human rights
 
-## 12. Wpływ na Polski Dyskurs Publiczny
+## 12. Impact on Polish Public Discourse
 
-### Media i Publicystyka
-- **Punkty odniesienia**: Regularne porównania sytuacji w Polsce do świata Gileadu
-- **Analizy polityczne**: Komentatorzy używają metafor z książki
-- **Debaty społeczne**: Dzieło jako punkt wyjścia do dyskusji o demokracji
+### Media and Journalism
+- **Reference points**: Regular comparisons of Poland's situation to Gilead's world
+- **Political analyses**: Commentators use metaphors from the book
+- **Social debates**: The work as a starting point for discussions about democracy
 
-### Długoterminowy Wpływ
-- **Kanon feministyczny**: Pozycja w polskim kanonie literatury feministycznej
-- **Edukacja polityczna**: Narzędzie do zrozumienia mechanizmów władzy
-- **Pamięć kulturowa**: Element polskiej pamięci o walkach o prawa obywatelskie
+### Long-term Impact
+- **Feminist canon**: Position in Polish feminist literature canon
+- **Political education**: Tool for understanding power mechanisms
+- **Cultural memory**: Element of Polish memory of struggles for civil rights
 
 ---
 
-*Opracowanie oparte na badaniach przeprowadzonych 30 sierpnia 2025. Dokument przedstawia lokalny polski kontekst kulturowy "Opowieści podręcznej" Margaret Atwood, ze szczególnym uwzględnieniem recepcji w Krakowie i Małopolsce.*
+*Research conducted on August 30, 2025. Document presents local Polish cultural context of Margaret Atwood's "The Handmaid's Tale", with particular emphasis on reception in Krakow and Lesser Poland.*

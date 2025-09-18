@@ -1,174 +1,174 @@
-# Lokalny Kontekst Kulturowy: "Dziwna historia doktora Jekylla i pana Hyde'a" w Polsce
+# Local Cultural Context: "The Strange Case of Dr. Jekyll and Mr. Hyde" in Poland
 
-**Książka**: "The Strange Case of Dr. Jekyll and Mr. Hyde" (1886)  
-**Autor**: Robert Louis Stevenson  
-**Polski tytuł**: "Dziwna historia doktora Jekylla i pana Hyde'a"  
-**Data badania**: 30 sierpnia 2025
+**Book**: "The Strange Case of Dr. Jekyll and Mr. Hyde" (1886)
+**Author**: Robert Louis Stevenson
+**Polish title**: "Dziwna historia doktora Jekylla i pana Hyde'a"
+**Research date**: August 30, 2025
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydania
-1. **1925** - Pierwsze polskie wydanie pt. "Człowiek o dwu twarzach" (prawie 40 lat po angielskim oryginale z 1886 r.)
-2. **Różne tytuły polskie przez lata**:
-   - "Człowiek o dwu twarzach" (1925 - pierwsze wydanie)
-   - "Doktor Jekyll i pan Hyde" (najbardziej popularne)
-   - "Dziwny przypadek doktora Jekylla i pana Hyde'a"
-   - "Niezwykły przypadek doktora Jekylla i pana Hyde'a"
+### First editions
+1. **1925** - First Polish edition titled "Człowiek o dwu twarzach" (The Man with Two Faces) - almost 40 years after the English original from 1886
+2. **Various Polish titles over the years**:
+   - "Człowiek o dwu twarzach" (The Man with Two Faces - 1925 first edition)
+   - "Doktor Jekyll i pan Hyde" (most popular)
+   - "Dziwny przypadek doktora Jekylla i pana Hyde'a" (Strange Case of Dr. Jekyll and Mr. Hyde)
+   - "Niezwykły przypadek doktora Jekylla i pana Hyde'a" (Extraordinary Case of Dr. Jekyll and Mr. Hyde)
 
-### Współczesne wydania polskie
-- **Paulina Braiter** - nowe tłumaczenie z ilustracjami Aleksandry Czudżak
-- **Wydawnictwo MG** (2008) - wydania dwujęzyczne polsko-angielskie (MOBI, EPUB)
-- **Wydawnictwo Dwie Siostry** - ilustracje brazylijskiego artysty Adão Iturrusgarai
-- **Bertold Merwin** - tłumaczenie dostępne na platformie Wolne Lektury
+### Contemporary Polish editions
+- **Paulina Braiter** - new translation with illustrations by Aleksandra Czudżak
+- **MG Publishing** (2008) - bilingual Polish-English editions (MOBI, EPUB)
+- **Dwie Siostry Publishing** - illustrations by Brazilian artist Adão Iturrusgarai
+- **Bertold Merwin** - translation available on Wolne Lektury platform
 
-## Polscy Tłumacze
+## Polish Translators
 
 ### Bertold Merwin (1879-1946)
-- **Prawdziwe imię**: Baruch Menkes
-- **Urodzony**: 13 listopada 1879 w Tarnowie
-- **Zmarły**: 10 stycznia 1946 w Lusace
-- **Wykształcenie**: Doktor filozofii (Uniwersytet Lwowski, 1907), dyplom Wydziału Prawa
-- **Kariera**: Żołnierz Legionów Polskich, nauczyciel, publicysta, pisarz, dziennikarz
-- **Działalność**: Pisał dla "Gazety Wieczornej", "Nowego Głosu Polskiego", "Słowa Polskiego"
-- **Inne tłumaczenia**: "Olalla" (także Stevenson), "Cztery kobiety" (Paul Heyse)
+- **Real name**: Baruch Menkes
+- **Born**: November 13, 1879 in Tarnów
+- **Died**: January 10, 1946 in Lusace
+- **Education**: Doctor of Philosophy (University of Lviv, 1907), Law degree
+- **Career**: Polish Legions soldier, teacher, publicist, writer, journalist
+- **Activity**: Wrote for "Gazeta Wieczorna", "Nowy Głos Polski", "Słowo Polskie"
+- **Other translations**: "Olalla" (also Stevenson), "Cztery kobiety" (Paul Heyse)
 
-## Status w Polskim Szkolnictwie
+## Status in Polish Education
 
-### Obecny status lekturowy
-- **Nie jest lekturą obowiązkową** na żadnym poziomie szkolnictwa w Polsce (2024/2025)
-- **Może być lekturą uzupełniającą** w ramach literatury światowej
-- **Dostępna na Wolne Lektury** - co sugeruje wykorzystanie edukacyjne
-- **Opisywana jako lektura klasyczna** o fascynującym horrorze inspirującym twórców
+### Current reading list status
+- **Not mandatory reading** at any level of Polish education (2024/2025)
+- **May be supplementary reading** within world literature curriculum
+- **Available on Wolne Lektury** - suggesting educational use
+- **Described as classic reading** with fascinating horror inspiring creators
 
-### Potencjał edukacyjny
-- Wartościowa treść o naturze ludzkiej
-- Klasyczna atmosfera i fascynujący horror
-- Tematyka dwoistości osobowości aktualna dla młodzieży
+### Educational potential
+- Valuable content about human nature
+- Classic atmosphere and fascinating horror
+- Theme of personality duality relevant for youth
 
-## Polskie Adaptacje Teatralne i Filmowe
+## Polish Theatrical and Film Adaptations
 
-### Teatr
+### Theater
 
 #### Musical "Jekyll & Hyde"
-- **Teatr Muzyczny w Poznaniu** (do 20 października 2017)
-- **Twórcy**: Frank Wildhorn (muzyka), Leslie Bricusse (libretto)
-- **Polskie tłumaczenie**: Michał Ronikier
-- **Polskie teksty piosenek**: Michał Rusinek
-- **Reżyseria**: Michał Znaniecki
-- **Obsada**: Janusz Kruciński, Damian Aleksander (Henry Jekyll), Marta Wiejak, Monika Bestecka (Lucy Harris)
-- **Wydano album** z polską wersją musicalu
+- **Musical Theater in Poznań** (until October 20, 2017)
+- **Creators**: Frank Wildhorn (music), Leslie Bricusse (libretto)
+- **Polish translation**: Michał Ronikier
+- **Polish song lyrics**: Michał Rusinek
+- **Direction**: Michał Znaniecki
+- **Cast**: Janusz Kruciński, Damian Aleksander (Henry Jekyll), Marta Wiejak, Monika Bestecka (Lucy Harris)
+- **Album released** with Polish version of the musical
 
-#### Teatr Polonia, Warszawa
-- **"Jekyll/Hyde"** - spektakl jednoosobowy
-- **Aktor**: Krzysztof Globisz (gra dziewięć postaci)
-- **Koncepcja**: Nie adaptacja Stevensona, lecz oryginalny tekst autorstwa pisarza włosko-polskiego pochodzenia
-- **Forma**: Dialog między osobą a jej psychiką, dublami i publicznością
-- **Elementy**: Animowany film jako forma ciemnej animacji filmowej
+#### Polonia Theater, Warsaw
+- **"Jekyll/Hyde"** - one-man show
+- **Actor**: Krzysztof Globisz (plays nine characters)
+- **Concept**: Not Stevenson adaptation, but original text by Italian-Polish writer
+- **Form**: Dialogue between person and their psyche, doubles and audience
+- **Elements**: Animated film as form of dark film animation
 
-#### Teatr Rozrywki
-- **Adaptacja**: Steve Cuden i Frank Wildhorn
-- **Polskie tłumaczenie**: Michał Ronikier
-- **Polskie teksty**: Michał Rusinek
-- **Reżyseria**: Michał Znaniecki
+#### Entertainment Theater
+- **Adaptation**: Steve Cuden and Frank Wildhorn
+- **Polish translation**: Michał Ronikier
+- **Polish lyrics**: Michał Rusinek
+- **Direction**: Michał Znaniecki
 
 ### Film
 
-#### "Dr Jekyll i Mr Hyde według Wytwórni A'YoY" (1999)
-- **Jedyna polska adaptacja filmowa**
-- **Reżyseria**: Władysław Sikora, Jarosław Stypa
-- **Miejsce**: Zielona Góra
-- **Czas zdjęć**: Lipiec 1998 (9 dni)
-- **Gatunek**: Komedia
-- **Obsada**: 
+#### "Dr Jekyll and Mr Hyde by A'YoY Studios" (1999)
+- **Only Polish film adaptation**
+- **Direction**: Władysław Sikora, Jarosław Stypa
+- **Location**: Zielona Góra
+- **Shooting time**: July 1998 (9 days)
+- **Genre**: Comedy
+- **Cast**:
   - Mirosław Gancarz (Dr Jekyll)
   - Andrzej Piątek (Mr Hyde)
-  - Katarzyna Pakosińska (Anna - narzeczona Jekylla)
-  - Władysław Sikora (Johan - sługa)
-  - Joanna Kołaczkowska (Lolita - śpiewaczka szansonu)
-- **Nagrody**: Nagrody dziennikarskie na Przeglądzie Filmowym "Prowincjonalia" w Słupcy (2000)
+  - Katarzyna Pakosińska (Anna - Jekyll's fiancée)
+  - Władysław Sikora (Johan - servant)
+  - Joanna Kołaczkowska (Lolita - chanson singer)
+- **Awards**: Journalist awards at "Prowincjonalia" Film Review in Słupca (2000)
 
-## Kontekst Naukowy i Psychologiczny w Polsce
+## Scientific and Psychological Context in Poland
 
-### Badania psychologiczne
-- **Uniwersytet Warszawski**: Kurs "Doktor Jekyll czy Mister Hyde? - Dynamiczna Psychologia Altruizmu"
-- **Temat**: Mechanizmy odpowiedzialne za zmienność altruizmu ludzkiego
-- **Pytanie badawcze**: Jak ta sama osoba może być pro- i antyspołeczna bez magicznych eliksirów
+### Psychological research
+- **University of Warsaw**: Course "Dr Jekyll or Mr Hyde? - Dynamic Psychology of Altruism"
+- **Topic**: Mechanisms responsible for human altruism variability
+- **Research question**: How the same person can be pro- and antisocial without magical elixirs
 
-### Publikacje akademickie
-- **"Dr Jekyll – Mr Hyde, czyli niektóre typy osobowości z pogranicza normy i patologii"** (Uniwersytet Wrocławski)
-- **"Jekyll i Hyde: Wielorakie Ja we współczesnym świecie"** - Mick Cooper, John Rowman (tłumaczenie na polski)
-- **Opis**: Znaczący krok w przybliżeniu polskiej publiczności osiągnięć współczesnej nauki o osobowości
+### Academic publications
+- **"Dr Jekyll – Mr Hyde, or Some Personality Types on the Border of Norm and Pathology"** (University of Wrocław)
+- **"Jekyll and Hyde: Multiple Selves in the Modern World"** - Mick Cooper, John Rowman (Polish translation)
+- **Description**: Significant step in bringing contemporary personality science achievements to Polish public
 
-### Kontekst psychiatryczny
-- **Dysocjacyjne Zaburzenie Tożsamości (DID)** - Jekyll i Hyde jako metafora kliniczna
-- **Statystyki polskie**: 1% populacji ogólnej, 6.7-8 lat do właściwej diagnozy
-- **2.8 błędnych diagnoz na pacjenta** - problemy systemu zdrowotnego
-- **"Psychiatria Polska"**: Publikacje o DID jako problemie interdyscyplinarnym
+### Psychiatric context
+- **Dissociative Identity Disorder (DID)** - Jekyll and Hyde as clinical metaphor
+- **Polish statistics**: 1% of general population, 6.7-8 years to proper diagnosis
+- **2.8 wrong diagnoses per patient** - healthcare system problems
+- **"Psychiatria Polska"**: Publications about DID as interdisciplinary problem
 
-## Kultura Popularna i Internet
+## Popular Culture and Internet
 
-### Polskie memy i kultura internetowa
-- **Memy.pl**: Memy związane z Dr Jekyll i Mr Hyde
-- **KWEJK.pl**: "Wczoraj Jekyll, dzisiaj Mr Hyde" - popularne memy
-- **Metafora społeczna**: "Jekyll i Hyde" oznacza osobę dwulicową
+### Polish memes and internet culture
+- **Memy.pl**: Memes related to Dr Jekyll and Mr Hyde
+- **KWEJK.pl**: "Yesterday Jekyll, today Mr Hyde" - popular memes
+- **Social metaphor**: "Jekyll and Hyde" means two-faced person
 
-### Zastosowania w innych kontekstach
-- **Psychologia uzależnień**: Seksoholicy porównywani do Jekyll i Hyde
-- **Podwójne życie społeczne**: Metafora dla osób prowadzących anonimowe życie w cyberprzestrzeni
-- **K-drama "Hyde, Jekyll & Me" (2015)**: Koreański serial popularny w Polsce
+### Applications in other contexts
+- **Addiction psychology**: Sex addicts compared to Jekyll and Hyde
+- **Double social life**: Metaphor for people leading anonymous life in cyberspace
+- **K-drama "Hyde, Jekyll & Me" (2015)**: Korean series popular in Poland
 
-## Problemy z Tłumaczeniem i Różnice Kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania tłumaczeniowe
-1. **Różne tytuły polskie** odzwierciedlają trudność oddania oryginalnego "Strange Case"
-2. **"Przypadek" vs "Historia"** - różne podejścia do charakteru opowieści
-3. **Kulturowa adaptacja nazwisk** - Jekyll i Hyde zachowane w oryginalnej formie
-4. **Realia wiktoriańskie** - trudność w przekazaniu atmosfery londyńskiej
+### Translation challenges
+1. **Different Polish titles** reflect difficulty in rendering original "Strange Case"
+2. **"Przypadek" vs "Historia"** - different approaches to story character
+3. **Cultural adaptation of names** - Jekyll and Hyde preserved in original form
+4. **Victorian realities** - difficulty in conveying London atmosphere
 
-### Specyfika polska
-- **Brak tradycji literatury gotyckiej** w Polsce XIX wieku
-- **Katolicki kontekst** - temat dobra i zła interpretowany przez pryzmat chrześcijański
-- **Psychoanaliza** - wpływ polskich psychologów na interpretację dzieła
+### Polish specificity
+- **Lack of Gothic literature tradition** in 19th century Poland
+- **Catholic context** - theme of good and evil interpreted through Christian lens
+- **Psychoanalysis** - influence of Polish psychologists on work interpretation
 
-## Nawiązania i Easter Eggi dla Polskich Czytelników
+## References and Easter Eggs for Polish Readers
 
-### Kontekst medyczny
-- **Polscy lekarze** - Jekyll jako archetyp szanowanego lekarza w społeczeństwie polskim
-- **Tradycja alchemiczna** - nawiązania do polskich tradycji alchemicznych i medycznych
+### Medical context
+- **Polish doctors** - Jekyll as archetype of respected doctor in Polish society
+- **Alchemical tradition** - references to Polish alchemical and medical traditions
 
-### Kontekst społeczny
-- **Dwuličnost polityczna** - metafora używana w kontekście polskiej polityki
-- **Podwójne standardy moralne** - resonans w kontekście polskiego katolicyzmu
+### Social context
+- **Political two-facedness** - metaphor used in Polish political context
+- **Double moral standards** - resonance in Polish Catholicism context
 
-## Akademickie Interpretacje Polskich Badaczy
+## Academic Interpretations by Polish Scholars
 
-### Analizy literackie
-- **Doppelgänger w literaturze** - badania psychoanalityczne polskich literaturoznawców
-- **Uniwersytet Jagielloński**: Badania nad motywem sobowtóra w literaturze
-- **Teoria osobowości**: Polscy psychologowie wykorzystujący Jekyll i Hyde jako studium przypadku
+### Literary analyses
+- **Doppelgänger in literature** - psychoanalytic research by Polish literary scholars
+- **Jagiellonian University**: Research on the doppelgänger motif in literature
+- **Personality theory**: Polish psychologists using Jekyll and Hyde as case study
 
-### Kontekst filozoficzny
-- **Dualizm dobra i zła** - interpretacje w kontekście polskiej filozofii moralnej
-- **Fenomenologia** - polscy fenomenologowie o problemie tożsamości
+### Philosophical context
+- **Dualism of good and evil** - interpretations in Polish moral philosophy context
+- **Phenomenology** - Polish phenomenologists on identity problem
 
-## Wpływ na Polską Kulturę
+## Influence on Polish Culture
 
-### Język potoczny
-- **"Jekyll i Hyde"** - funkcjonuje w polszczyźnie jako określenie osoby dwulicowej
-- **Metafory psychologiczne** - używane w mediach i literaturze popularnej
+### Colloquial language
+- **"Jekyll and Hyde"** - functions in Polish as term for two-faced person
+- **Psychological metaphors** - used in media and popular literature
 
-### Edukacja
-- **Kursy psychologii** - Jekyll i Hyde jako przykład w nauczaniu o zaburzeniach osobowości
-- **Szkolenia dla terapeutów** - wykorzystanie jako studium przypadku DID
+### Education
+- **Psychology courses** - Jekyll and Hyde as example in teaching about personality disorders
+- **Therapist training** - used as DID case study
 
-## Podsumowanie - Lokalna Recepcja
+## Summary - Local Reception
 
-"Dziwna historia doktora Jekylla i pana Hyde'a" dotarła do Polski z 40-letnim opóźnieniem (1925), ale szybko znalazła miejsce w polskiej kulturze. Dzieło funkcjonuje głównie jako:
+"The Strange Case of Dr. Jekyll and Mr. Hyde" reached Poland with a 40-year delay (1925), but quickly found its place in Polish culture. The work functions mainly as:
 
-1. **Metafora psychologiczna** - szeroko wykorzystywana w polskiej psychiatrii i psychologii
-2. **Symbol dwoistości** - w kontekście polskiej moralności i polityki  
-3. **Materiał teatralny** - szczególnie w formie musicalu
-4. **Narzędzie edukacyjne** - w nauczaniu psychologii i literatury
-5. **Fenomen kulturowy** - w memach i kulturze internetowej
+1. **Psychological metaphor** - widely used in Polish psychiatry and psychology
+2. **Symbol of duality** - in context of Polish morality and politics
+3. **Theatrical material** - especially in musical form
+4. **Educational tool** - in teaching psychology and literature
+5. **Cultural phenomenon** - in memes and internet culture
 
-Polska recepcja charakteryzuje się szczególnym naciskiem na aspekty psychologiczne i medyczne dzieła, co czyni je bardziej studium przypadku niż opowieścią grozy. Brak własnej tradycji literatury gotyckiej sprawił, że polscy czytelnicy odbierają je przez pryzmat współczesnej psychologii i psychiatrii.
+Polish reception is characterized by particular emphasis on psychological and medical aspects of the work, making it more of a case study than a horror story. The lack of Gothic literature tradition made Polish readers perceive it through the lens of contemporary psychology and psychiatry.

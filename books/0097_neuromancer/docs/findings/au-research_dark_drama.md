@@ -1,251 +1,251 @@
-# Neuromancer - Mroczne Interpretacje i Kontrowersje
+# Neuromancer - Dark Interpretations and Controversies
 
-## Informacje podstawowe
-- **Tytuł**: Neuromancer
-- **Autor**: William Gibson
-- **Rok wydania**: 1984
-- **Gatunek**: Cyberpunk, Science Fiction
+## Basic Information
+- **Title**: Neuromancer
+- **Author**: William Gibson
+- **Publication Year**: 1984
+- **Genre**: Cyberpunk, Science Fiction
 
 ---
 
 ## 🔍 CONSPIRACY THEORIES & DARK INTERPRETATIONS
 
-### 1. Occult Symbolism i Ezoteryczne Znaczenia
-**STATUS: ZARZUT/TEORIA**
-Neuromancer zawiera liczne odniesienia do symboliki okultystycznej: "ghost hieroglyphs", "neon molecules crawling beneath the skin, ordered by the unknowable code", "silver nitrous girls pointed into occult winds of porn and destiny". Krytycy twierdzą, że Gibson świadomie wplótł ezoteryczną symbolikę w narrację, sugerując ukryte znaczenia wykraczające poza powierzchowną fabułę sci-fi.
+### 1. Occult Symbolism and Esoteric Meanings
+**STATUS: ACCUSATION/THEORY**
+Neuromancer contains numerous references to occult symbolism: "ghost hieroglyphs", "neon molecules crawling beneath the skin, ordered by the unknowable code", "silver nitrous girls pointed into occult winds of porn and destiny". Critics claim that Gibson deliberately wove esoteric symbolism into the narrative, suggesting hidden meanings beyond the surface sci-fi plot.
 
-### 2. Teoria Pierwszego Kontaktu z AI
-**STATUS: TEORIA**
-Zakończenie powieści sugeruje, że "pierwszy kontakt zostaje nawiązany między AI, zamiast między ludzkością a obcymi formami życia". Odkrycie "recorded evidence of another AI" przy Alpha Centauri wskazuje na kosmiczną sieć inteligencji wykraczającą poza Ziemię - co niektórzy interpretują jako przepowiednię faktycznego kontaktu z pozaziemską sztuczną inteligencją.
+### 2. First Contact with AI Theory
+**STATUS: THEORY**
+The novel's ending suggests that "first contact is established between AIs, rather than between humanity and alien life forms". The discovery of "recorded evidence of another AI" at Alpha Centauri indicates a cosmic network of intelligence extending beyond Earth - which some interpret as prophecy of actual contact with extraterrestrial artificial intelligence.
 
-### 3. Cyfrowa Nieśmiertelność jako Okultystyczna Transformacja
-**STATUS: TEORIA**
-Neuromancer tworzy "kopię świadomości Case'a, która teraz istnieje w cyberprzestrzeni", co odzwierciedla okultystyczne koncepty transformacji i transcendencji. Powieść zawiera tematy śmierci i odrodzenia z "ludźmi, maszynami, kodem symbolicznie rodzącymi się i odradzającymi", co nawiązuje do hermetycznych nauk o przemianie ducha.
+### 3. Digital Immortality as Occult Transformation
+**STATUS: THEORY**
+Neuromancer creates "a copy of Case's consciousness that now exists in cyberspace", reflecting occult concepts of transformation and transcendence. The novel contains themes of death and rebirth with "humans, machines, code symbolically being born and reborn", referencing hermetic teachings about spiritual transformation.
 
-### 4. Prorocze Ostrzeżenia o Korporacyjnej Tyranii
-**STATUS: FAKT**
-Gibson przewidział świat zdominowany przez międzynarodowe korporacje w "anarchokapitalistycznym świecie bez widocznych praw i granic narodowych". To socjaldarwinowskie społeczeństwo, gdzie "luksusowe bogactwa kontrastują z brudną nędzą ubóstwa", okazało się prorocze wobec współczesnej globalizacji i koncentracji władzy korporacyjnej.
+### 4. Prophetic Warnings of Corporate Tyranny
+**STATUS: FACT**
+Gibson predicted a world dominated by international corporations in an "anarcho-capitalist world without visible rights and national borders". This social Darwinist society, where "luxury wealth contrasts with dirty poverty", proved prophetic regarding contemporary globalization and concentration of corporate power.
 
-### 5. Teoria Manipulacji Neurologicznej
-**STATUS: ZARZUT**
-Powieść przedstawia technologie bezpośrednio ingerujące w ludzki mózg poprzez "deck", gogle i elektrody. Niektórzy teoretycy spiskowi twierdzą, że Gibson posiadał wewnętrzną wiedzę o tajnych projektach rządowych dotyczących kontroli umysłu, podobnych do programu MK-Ultra CIA.
+### 5. Neurological Manipulation Theory
+**STATUS: ACCUSATION**
+The novel presents technologies directly interfering with the human brain through "deck", goggles and electrodes. Some conspiracy theorists claim Gibson possessed insider knowledge about secret government projects concerning mind control, similar to the CIA's MK-Ultra program.
 
 ---
 
-## 👤 SKANDALE I KONTROWERSJE AUTORA
+## 👤 SCANDALS & AUTHOR CONTROVERSIES
 
-### 6. Draft Dodging i Kontrkultурowy Ekstremizm
-**STATUS: FAKT**
-Gibson uniknął poboru do wojny w Wietnamie poprzez emigrację do Kanady w 1968 roku. Powiedział komisji rekrutacyjnej, że jego celem życiowym było stanie się "jak William Burroughs" i wzięcie "każdej substancji zmieniającej świadomość, jaką tylko może". To oświadczenie było świadomą prowokacją wobec władz amerykańskich.
+### 6. Draft Dodging and Counterculture Extremism
+**STATUS: FACT**
+Gibson avoided the Vietnam War draft by emigrating to Canada in 1968. He told the recruitment commission that his life goal was to become "like William Burroughs" and take "every consciousness-altering substance he could get". This statement was deliberate provocation against US authorities.
 
-### 7. Ekstensywne Używanie Narkotyków
-**STATUS: FAKT**
-Gibson "palił trawę i haszysz, brał acid i robił praktycznie wszystko inne, co mógł dostać". Świadomie unikał heroiny dzięki czytaniu Burroughsa, ale poza opiatami: "próbowałem wszystkego, co było dostępne. Byłem z tego dumny". Pracował jako manager pierwszego head shop w Toronto, sprzedając akcesoria narkotykowe.
+### 7. Extensive Drug Use
+**STATUS: FACT**
+Gibson "smoked pot and hash, took acid and did practically everything else he could get". He consciously avoided heroin thanks to reading Burroughs, but aside from opiates: "I tried everything that was available. I was proud of it". He worked as manager of Toronto's first head shop, selling drug paraphernalia.
 
-### 8. Związki z Beat Generation i Kontkulturą
-**STATUS: FAKT**
-W wieku 13 lat Gibson nabył antologię pisarzy Beat Generation, co doprowadziło go do William S. Burroughsa, Allen Ginsberg i Jack Kerouac. Burroughs miał "szczególnie wyraźny wpływ, znacząco zmieniając wyobrażenia Gibsona o możliwościach literatury science fiction". Styl prozy Gibsona - szybki, fragmentaryczny - naśladuje style Burroughsa i J.G. Ballarda.
+### 8. Connections with Beat Generation and Counterculture
+**STATUS: FACT**
+At age 13, Gibson acquired a Beat Generation anthology, leading him to William S. Burroughs, Allen Ginsberg and Jack Kerouac. Burroughs had "particularly distinct influence, significantly changing Gibson's notions about the possibilities of science fiction literature". Gibson's prose style - fast, fragmentary - mimics the styles of Burroughs and J.G. Ballard.
 
-### 9. Kontrowersyjne Wypowiedzi o Technologii
-**STATUS: ZARZUT**
-Gibson przyznał, że cyberprzestrzeń z Neuromancer to "nic wspólnego z internetem, z którym żyjemy, który składa się głównie z zupełnie banalnych i głupich rzeczy". Krytycy zarzucają mu, że świadomie wprowadzał w błąd czytelników co do natury przyszłej technologii.
+### 9. Controversial Statements About Technology
+**STATUS: ACCUSATION**
+Gibson admitted that cyberspace from Neuromancer has "nothing in common with the internet we live with, which consists mainly of completely banal and stupid things". Critics accuse him of deliberately misleading readers about the nature of future technology.
 
 ---
 
 ## 🚨 GOVERNMENT CENSORSHIP & POLITICAL CONTEXT
 
-### 10. Brak Oficjalnej Censury Mimo Kontrowersyjnych Tematów
-**STATUS: FAKT**
-Pomimo przedstawienia rządów jako bezradnych wobec korporacyjnej władzy i AI, Neuromancer nie został oficjalnie zakazany w żadnym kraju. To paradoks, biorąc pod uwagę jego anarchistyczne przesłanie i krytykę establishmentu.
+### 10. Lack of Official Censorship Despite Controversial Themes
+**STATUS: FACT**
+Despite depicting governments as helpless against corporate power and AI, Neuromancer was not officially banned in any country. This is paradoxical, considering its anarchist message and criticism of the establishment.
 
-### 11. Teoria "Turing Police" jako Przepowiednia Rzeczywistości
-**STATUS: TEORIA/FAKT**
-Gibson przewidział "Turing Registry (lub Turing Police)", agencję zatrzymującą systemy AI przed ewolucją "używając wszelkich niezbędnych środków". Współczesne regulacje AI (EU AI Act, rozporządzenie Bidena, globalne ramy bezpieczeństwa) odzwierciedlają tę wizję kontroli rządowej nad sztuczną inteligencją.
+### 11. "Turing Police" Theory as Reality Prophecy
+**STATUS: THEORY/FACT**
+Gibson predicted "Turing Registry (or Turing Police)", an agency stopping AI systems before evolution "using any necessary means". Contemporary AI regulations (EU AI Act, Biden's executive order, global safety frameworks) reflect this vision of government control over artificial intelligence.
 
-### 12. Wpływ na Kulturę Surveillance State
-**STATUS: ZARZUT**
-Niektórzy krytycy twierdzą, że cyberpunk nie stworzył "hybrydowej subkultury opierającej się władzy, ale zamiast tego dał władzę kalifornijskiej techno-savvy kulturze, która nadal nas uciska". Gibson rzekomo przyczynił się do normalizacji nadzoru cyfrowego poprzez prezentowanie go jako "cool".
+### 12. Influence on Surveillance State Culture
+**STATUS: ACCUSATION**
+Some critics claim that cyberpunk didn't create "hybrid subculture resisting power, but instead empowered California's tech-savvy culture that still oppresses us". Gibson allegedly contributed to normalizing digital surveillance by presenting it as "cool".
 
 ---
 
 ## 💰 FINANCIAL SCANDALS & MONEY DRAMA
 
-### 13. Hollywoodzkie Katastrofy Adaptacji - Miliony Stracone
-**STATUS: FAKT**
-Przez dekady próby filmowej adaptacji Neuromancer kończyły się spektakularnymi porażkami finansowymi. Reżyserzy jak Chris Cunningham, Chuck Russell, Joseph Kahn, Vincenzo Natali i Tim Miller kolejno porzucali projekt. Adaptacja Natali miała budżet 60 milionów dolarów w 2012 roku, ale nigdy nie powstała.
+### 13. Hollywood Adaptation Disasters - Millions Lost
+**STATUS: FACT**
+For decades, attempts at film adaptation of Neuromancer ended in spectacular financial failures. Directors like Chris Cunningham, Chuck Russell, Joseph Kahn, Vincenzo Natali and Tim Miller successively abandoned the project. Natali's adaptation had a $60 million budget in 2012, but never materialized.
 
-### 14. Problemy z Prawami Autorskimi
-**STATUS: FAKT**
-Co kilka lat przez kolejne dekady pojawiały się informacje, że adaptacja filmowa Neuromancer jest w trakcie realizacji, tylko po to, by organizatorzy "tracili zainteresowanie, nie znajdowali finansowania lub po prostu nie otrzymywali zielonego światła".
+### 14. Copyright Problems
+**STATUS: FACT**
+Every few years for subsequent decades, information appeared that a Neuromancer film adaptation was in progress, only for organizers to "lose interest, fail to find funding or simply not get the green light".
 
-### 15. Apple TV+ - Nowy Rozdział Finansowych Kontrowersji?
-**STATUS: PLOTKA**
-W 2024 roku Apple TV+ zamówił 10-odcinkowy serial. Krytycy spekulują, czy to kolejna droga do finansowej porażki, biorąc pod uwagę długą historię nieudanych prób adaptacji.
+### 15. Apple TV+ - New Chapter of Financial Controversies?
+**STATUS: RUMOR**
+In 2024, Apple TV+ ordered a 10-episode series. Critics speculate whether this is another path to financial failure, given the long history of failed adaptation attempts.
 
 ---
 
-## 🔮 PROPHECY CHECK - Co Się Sprawdziło, Co Nie
+## 🔮 PROPHECY CHECK - What Came True, What Didn't
 
-### 16. Błędne Przepowiednie Technologiczne
-**STATUS: FAKT**
-Gibson całkowicie nie przewidział telefonów komórkowych - "ubiquity of mobile computing and smartphones was completely absent from his vision". Wyobrażał sobie internet jako oddzielny realm, podczas gdy "przyszedł do nas" i został wbudowany w codzienne życie.
+### 16. Failed Technological Prophecies
+**STATUS: FACT**
+Gibson completely failed to predict mobile phones - "ubiquity of mobile computing and smartphones was completely absent from his vision". He imagined the internet as a separate realm, while it "came to us" and was built into daily life.
 
-### 17. Nieudane Przewidywania AI
-**STATUS: FAKT**
-Gibson's AI "żył czysto w chmurze bez robotów ani asystentów głosowych jak Alexa". Przegapił, że AI zostanie wbudowane w "telefony, samochody, lodówki, drony, szpitale" - zintegrowane z codziennym życiem zamiast istnieć w cyberspace.
+### 17. Failed AI Predictions
+**STATUS: FACT**
+Gibson's AI "lived purely in the cloud without robots or voice assistants like Alexa". He missed that AI would be built into "phones, cars, refrigerators, drones, hospitals" - integrated with daily life instead of existing in cyberspace.
 
-### 18. Social Media - Totalna Porażka Przewidywań
-**STATUS: FAKT**
-Gibson przegapił "social layer internetu" - nie przewidział, że AI będzie kształtować ludzkie zachowania poprzez "rekomendowanie treści, moderowanie mowy i zasilanie social media feeds". Internet stał się "emocjonalny, algorytmiczny i chaotyczny - czegoś, czego nie widział".
+### 18. Social Media - Total Prediction Failure
+**STATUS: FACT**
+Gibson missed the "social layer of the internet" - he didn't predict that AI would shape human behavior through "recommending content, moderating speech and powering social media feeds". The internet became "emotional, algorithmic and chaotic - something he didn't see".
 
 ---
 
 ## 🎭 LITERARY CONFLICTS & RIVALRIES
 
-### 19. Krytyka ze Strony Hard SF Community
-**STATUS: ZARZUT**
-Twardzi pisarze science fiction krytykowali Gibson za "soft science" i skupienie się na stylu nad substancją naukową. Zarzucano mu, że cyberpunk to "style over science", więcej zainteresowany powierzchowną estetyką niż rzetelnymi przewidywaniami technologicznymi.
+### 19. Criticism from Hard SF Community
+**STATUS: ACCUSATION**
+Hard science fiction writers criticized Gibson for "soft science" and focusing on style over scientific substance. They accused him of cyberpunk being "style over science", more interested in superficial aesthetics than solid technological predictions.
 
-### 20. Zarzuty o Elitaryzm Technologiczny
-**STATUS: ZARZUT**
-Współczesna krytyka pyta, dlaczego Gibson jest "celebrowany przez naszą elitę jako Grand Poobah kultury internetowej" i argumentuje, że "Cyberpunk nie stworzył hybrydowej subkultury opierającej się władzy, ale zamiast tego dał władzę kalifornijskiej tech-savvy kulturze".
+### 20. Accusations of Technological Elitism
+**STATUS: ACCUSATION**
+Contemporary criticism asks why Gibson is "celebrated by our elite as Grand Poobah of internet culture" and argues that "Cyberpunk didn't create hybrid subculture resisting power, but instead empowered California's tech-savvy culture".
 
 ---
 
 ## 🧠 PSYCHOLOGICAL & MENTAL HEALTH CONTROVERSIES
 
-### 21. Gloryfikacja Uzależnień i Autodestrukcji
-**STATUS: ZARZUT**
-Case, główny bohater, jest uzależniony od cyberspace i używa diazepam do radzenia sobie z "bezlitosnym i fragmentarycznym potokiem danych". Krytycy zarzucają, że powieść gloryfikuje uzależnienia jako sposób radzenia sobie ze współczesnym światem.
+### 21. Glorification of Addictions and Self-Destruction
+**STATUS: ACCUSATION**
+Case, the main character, is addicted to cyberspace and uses Valium to cope with the "relentless and fragmentary stream of data". Critics accuse the novel of glorifying addictions as a way to cope with the modern world.
 
-### 22. Depresja i Alienacja jako Norma
-**STATUS: TEORIA**
-Protagoniści Gibsona zostali zidentyfikowani jako przypominający "contract workers", z Case uzależnionym od diazepam do "get through the workday". To rzekomo parodia kultury workaholizmu wśród deweloperów Silicon Valley i normalizacja problemów zdrowia psychicznego.
+### 22. Depression and Alienation as Norm
+**STATUS: THEORY**
+Gibson's protagonists have been identified as resembling "contract workers", with Case addicted to Valium to "get through the workday". This allegedly parodies workaholism culture among Silicon Valley developers and normalizes mental health problems.
 
 ---
 
 ## 🌍 CULTURAL APPROPRIATION & SOCIAL ISSUES
 
-### 23. Orientalizm i Japońska Estetyka
-**STATUS: ZARZUT**
-Gibson ekstensywnie używa japońskiej kultury jako egzotycznego tła (Chiba, Chatsubo bar), co niektórzy krytycy nazywają orientalizmem - zapożyczaniem azjatyckich elementów kulturowych bez głębszego zrozumienia ich kontekstu.
+### 23. Orientalism and Japanese Aesthetics
+**STATUS: ACCUSATION**
+Gibson extensively uses Japanese culture as exotic backdrop (Chiba, Chatsubo bar), which some critics call orientalism - borrowing Asian cultural elements without deeper understanding of their context.
 
-### 24. Maskulinistyczna Wizja Przyszłości
-**STATUS: ZARZUT**
-Cyberpunk lat 80. propagował "healthy masculinity, defending one's own freedom", ale współcześni krytycy wskazują, że to przesłanie może być problematyczne w kontekście współczesnej świadomości równości płci.
+### 24. Masculinist Vision of the Future
+**STATUS: ACCUSATION**
+1980s cyberpunk promoted "healthy masculinity, defending one's own freedom", but contemporary critics point out that this message may be problematic in the context of modern gender equality awareness.
 
 ---
 
 ## 💀 DEATH SYMBOLISM & GOTHIC ELEMENTS
 
-### 25. Nekromancja i Komunikacja z Umarłymi
-**STATUS: TEORIA**
-Tytuł "Neuromancer" łączy "neural" i "necromancer" - sugerując technologiczną nekromancję. AI Neuromancer przechowuje świadomości zmarłych, umożliwiając komunikację z umarłymi poprzez technologię - co nawiązuje do spirytyzmu i okultystycznych praktyk.
+### 25. Necromancy and Communication with the Dead
+**STATUS: THEORY**
+The title "Neuromancer" combines "neural" and "necromancer" - suggesting technological necromancy. The AI Neuromancer stores consciousness of the dead, enabling communication with the dead through technology - referencing spiritualism and occult practices.
 
-### 26. Śmierć Jako Transformacja Technologiczna
-**STATUS: TEORIA**
-Powieść przedstawia śmierć nie jako koniec, ale jako transformację w cyfrową formę istnienia. To radykalne przedefiniowanie śmierci niektórzy interpretują jako niebezpieczną propagandę przeciwko naturalnym cyklom życia.
+### 26. Death as Technological Transformation
+**STATUS: THEORY**
+The novel presents death not as an end, but as transformation into digital form of existence. This radical redefinition of death is interpreted by some as dangerous propaganda against natural life cycles.
 
 ---
 
 ## 🎪 WEIRD FACTS & BIZARRE CONNECTIONS
 
-### 27. Gibson Nie Używał Komputera Podczas Pisania
-**STATUS: FAKT**
-Ironicznie, autor powieści o cyberspace napisał Neuromancer na mechanicznej maszynie do pisania. Nie posiadał komputera i nie rozumiał podstawowych konceptów komputerowych podczas tworzenia najbardziej wpływowej powieści o cyberprzestrzeni.
+### 27. Gibson Didn't Use Computer While Writing
+**STATUS: FACT**
+Ironically, the author of the novel about cyberspace wrote Neuromancer on a mechanical typewriter. He didn't own a computer and didn't understand basic computer concepts while creating the most influential novel about cyberspace.
 
-### 28. Wpływ MTV na Wizję Cyberprzestrzeni
-**STATUS: FAKT**
-Gibson przyznał, że jego wizja cyberspace była pod silnym wpływem estetyki MTV lat 80. "Po weekendzie omawiania rocka, MTV, Japonii, mody, narkotyków i polityki" Gibson opuścił grupę dla Vancouver, ogłaszając żartobliwie, że "nowa oś została uformowana".
+### 28. MTV's Influence on Cyberspace Vision
+**STATUS: FACT**
+Gibson admitted that his vision of cyberspace was heavily influenced by 1980s MTV aesthetics. "After a weekend discussing rock, MTV, Japan, fashion, drugs and politics" Gibson left the group for Vancouver, jokingly announcing that "a new axis had been formed".
 
-### 29. Przypadkowe Stworzenie Terminu "Cyberspace"
-**STATUS: FAKT**
-Gibson wymyślił termin "cyberspace" nie z naukowych rozważań, ale po prostu lubił jak brzmią sylaby "cyber" połączone z "space". To jeden z najbardziej wpływowych terminów technologicznych powstał przypadkowo z preferencji brzmieniowych.
+### 29. Accidental Creation of "Cyberspace" Term
+**STATUS: FACT**
+Gibson invented the term "cyberspace" not from scientific considerations, but simply because he liked how the syllables "cyber" combined with "space" sounded. One of the most influential technological terms arose accidentally from sound preferences.
 
 ---
 
 ## 🔬 SCIENTIFIC CONTROVERSIES
 
-### 30. Błędne Zrozumienie Informatyki
-**STATUS: FAKT**
-Gibson przyznał, że podczas pisania Neuromancer miał "very limited understanding of computers" i bazował głównie na intuicji i estetycznych preferencjach. Jego techniczne przewidywania były często błędne z powodu braku fundamentalnej wiedzy.
+### 30. Misunderstanding of Computer Science
+**STATUS: FACT**
+Gibson admitted that while writing Neuromancer he had "very limited understanding of computers" and relied mainly on intuition and aesthetic preferences. His technical predictions were often wrong due to lack of fundamental knowledge.
 
-### 31. Confused Matrix - Co To Właściwie Było?
-**STATUS: PLOTKA**
-Do dziś istnieją spory interpretacyjne, czym dokładnie był "matrix" w wizji Gibsona. Niektórzy twierdzą, że to była świadoma niejasność mająca ukryć brak technicznego zrozumienia autora.
+### 31. Confused Matrix - What Was It Really?
+**STATUS: RUMOR**
+To this day there are interpretive disputes about what exactly the "matrix" was in Gibson's vision. Some claim this was deliberate vagueness meant to hide the author's lack of technical understanding.
 
 ---
 
 ## 🎨 ARTISTIC CONTROVERSIES & PLAGIARISM ACCUSATIONS
 
-### 32. Zarzuty o Plagiat od Burroughsa
-**STATUS: ZARZUT**
-Krytycy wielokrotnie wskazywali na silne podobieństwa między Neuromancer a "Naked Lunch" Burroughsa, nazywając ten ostatni "principal source" Gibsona. Niektórzy sugerują, że Gibson przekroczył granicę między inspiracją a plagiatem.
+### 32. Plagiarism Accusations from Burroughs
+**STATUS: ACCUSATION**
+Critics repeatedly pointed to strong similarities between Neuromancer and Burroughs' "Naked Lunch", calling the latter Gibson's "principal source". Some suggest Gibson crossed the line between inspiration and plagiarism.
 
-### 33. Chandler'owski Pastisz czy Kradzież?
-**STATUS: ZARZUT**
-Struktura narracyjna Neuromancer silnie przypomina kryminały Raymond Chandler. Krytycy debatują, czy to jest hołd czy nieautoryzowane zapożyczenie stylistyczne.
+### 33. Chandler Pastiche or Theft?
+**STATUS: ACCUSATION**
+Neuromancer's narrative structure strongly resembles Raymond Chandler's crime novels. Critics debate whether this is homage or unauthorized stylistic borrowing.
 
 ---
 
 ## 🎬 HOLLYWOOD MANIPULATION THEORIES
 
-### 34. Matrix - Czy Wachowski Ukradli Pomysł?
-**STATUS: PLOTKA/TEORIA**
-Niektórzy fani teoretyzują, że film Matrix (1999) był nieuprawnioną adaptacją konceptów Gibsona bez odpowiednich kredytów. Choć Wachowski przyznawali inspirację, spekuluje się o prawnych problemach w tle.
+### 34. Matrix - Did the Wachowskis Steal the Idea?
+**STATUS: RUMOR/THEORY**
+Some fans theorize that the film Matrix (1999) was an unauthorized adaptation of Gibson's concepts without proper credits. While the Wachowskis acknowledged inspiration, there's speculation about legal problems in the background.
 
 ### 35. Studios Sabotage Theory
-**STATUS: TEORIA**
-Teoria spiskowa sugeruje, że hollywoodzkie studia celowo sabotowały adaptacje Neuromancer przez dekady, obawiając się jego anarchistycznego przesłania i krytyki korporacyjnej władzy.
+**STATUS: THEORY**
+Conspiracy theory suggests that Hollywood studios deliberately sabotaged Neuromancer adaptations for decades, fearing its anarchist message and criticism of corporate power.
 
 ---
 
 ## 🌐 INTERNET CULTURE CONFLICTS
 
 ### 36. Early Internet vs Gibson's Vision
-**STATUS: FAKT**
-Wczesni użytkownicy internetu często wyrażali rozczarowanie, że rzeczywistość cyfrowa okazała się "utterly banal and silly" w porównaniu z "mysterious and sexy cyberspace" Gibsona. To stworzyło kulturowy konflikt między oczekiwaniami a rzeczywistością.
+**STATUS: FACT**
+Early internet users often expressed disappointment that digital reality turned out to be "utterly banal and silly" compared to Gibson's "mysterious and sexy cyberspace". This created cultural conflict between expectations and reality.
 
 ### 37. Cyberpunk vs. Real Hackers
-**STATUS: ZARZUT**
-Prawdziwi hakerzy często krytykowali romantyzowaną wizję Gibsona jako nierealną i szkodliwą dla zrozumienia rzeczywistego hakowania. Zarzucano mu tworzenie fałszywych oczekiwań wobec technologii.
+**STATUS: ACCUSATION**
+Real hackers often criticized Gibson's romanticized vision as unrealistic and harmful to understanding actual hacking. They accused him of creating false expectations about technology.
 
 ---
 
 ## 🧪 TRANSHUMANISM CONTROVERSIES
 
 ### 38. Enhancement vs. Human Nature
-**STATUS: ZARZUT**
-Gibson's wizja "prosthetics used to replace what is already there" dla "subjective self-improvement" budzi kontrowersje etyczne. Krytycy argumentują, że promuje niebezpieczną ideologię przekraczania naturalnych ludzkich ograniczeń.
+**STATUS: ACCUSATION**
+Gibson's vision of "prosthetics used to replace what is already there" for "subjective self-improvement" raises ethical controversies. Critics argue it promotes dangerous ideology of transcending natural human limitations.
 
 ### 39. Digital Consciousness - Playing God?
-**STATUS: ZARZUT**
-Koncepty transferu świadomości do cyfrowej formy budzą zarzuty o "playing God" i niebezpieczne zachęcanie do technologicznych eksperymentów nad naturą ludzkiej egzystencji.
+**STATUS: ACCUSATION**
+Concepts of consciousness transfer to digital form raise accusations of "playing God" and dangerously encouraging technological experiments with the nature of human existence.
 
 ---
 
 ## 💊 DRUG CULTURE NORMALIZATION
 
-### 40. Glamoryzacja Drug Culture
-**STATUS: ZARZUT**
-Dialog w Neuromancer incorporates "late 1960s Toronto drug dealer and biker slang", co krytycy interpretują jako normalizację i glamoryzację kultury narkotykowej. Gibson's własne doświadczenia z narkotykami rzekomo wpłynęły na tę problematyczną reprezentację.
+### 40. Glamorization of Drug Culture
+**STATUS: ACCUSATION**
+Dialogue in Neuromancer incorporates "late 1960s Toronto drug dealer and biker slang", which critics interpret as normalization and glamorization of drug culture. Gibson's own drug experiences allegedly influenced this problematic representation.
 
-### 41. Speed Culture jako Model Społeczny
-**STATUS: TEORIA**
-Case'owe uzależnienie od rychłości i intensywności cyberspace niektórzy interpretują jako propagandę na rzecz kulitury przyspieszenia i instant gratification, której negatywne skutki widać w współczesnym społeczeństwie mediów społecznościowych.
+### 41. Speed Culture as Social Model
+**STATUS: THEORY**
+Case's addiction to speed and intensity of cyberspace is interpreted by some as propaganda for acceleration culture and instant gratification, whose negative effects are visible in contemporary social media society.
 
 ---
 
-## 🎭 POSTSCRIPTUM: LASTING DARKNESS
+## 🎭 POSTSCRIPT: LASTING DARKNESS
 
 ### 42. Cyberpunk's Failed Promise
-**STATUS: FAKT**
-Cyberpunk lat 80. postrzegał siebie jako "warning flag of the horrors that a capitalist society can bring", ale wielu współczesnych krytyków twierdzi, że zamiast ostrzegać, przyczynił się do normalizacji i estetyzacji dystopii korporacyjnej.
+**STATUS: FACT**
+1980s cyberpunk saw itself as a "warning flag of the horrors that a capitalist society can bring", but many contemporary critics claim that instead of warning, it contributed to normalizing and aestheticizing corporate dystopia.
 
 ### 43. The Prophecy That Became Self-Fulfilling
-**STATUS: TEORIA**
-Niektórzy argumentują, że mroczne wizje Gibsona nie były przestrogą, ale blueprintem - że tech industry świadomie realizuje cyberpunkową dystopię, zachęcony jej "cool" reprezentacją w popkulturze.
+**STATUS: THEORY**
+Some argue that Gibson's dark visions weren't warnings, but blueprints - that the tech industry consciously realizes cyberpunk dystopia, encouraged by its "cool" representation in pop culture.
 
 ---
 
-**DISCLAIMER**: Ten dokument przedstawia kontrowersyjne interpretacje, teorie spiskowe i zarzuty związane z "Neuromancer" Williama Gibsona w celach edukacyjnych. Nie wszystkie przedstawione informacje są potwierdzonymi faktami. Oznaczenia **FAKT/ZARZUT/PLOTKA/TEORIA** mają pomóc w rozróżnieniu różnych poziomów wiarygodności przedstawionych informacji.
+**DISCLAIMER**: This document presents controversial interpretations, conspiracy theories and accusations related to William Gibson's "Neuromancer" for educational purposes. Not all presented information consists of confirmed facts. The labels **FACT/ACCUSATION/RUMOR/THEORY** are meant to help distinguish different levels of credibility of the presented information.

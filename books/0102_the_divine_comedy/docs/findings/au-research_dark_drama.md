@@ -1,172 +1,172 @@
 # The Divine Comedy - Dark Drama Research
-## Boska komedia - Mroczne interpretacje i kontrowersje
+## Dark Interpretations and Controversies
 
-**Autor:** Dante Alighieri (c. 1265-1321)  
-**Dzieło:** The Divine Comedy (c. 1320)  
-**Data badań:** 2025-09-01
+**Author:** Dante Alighieri (c. 1265-1321)
+**Work:** The Divine Comedy (c. 1320)
+**Research Date:** 2025-09-01
 
 ---
 
 ## 🔥 CONSPIRACY THEORIES & DARK INTERPRETATIONS
 
-### 1. Occult Symbolism i Hidden Meanings
-**TEORIA:** Dante's masterpiece contains extensive esoteric and occult symbolism
-- **FAKT:** René Guénon w "L'Esoterisme de Dante" argumentuje, że Boska Komedia zawiera ukryte znaczenia ezoteryczne
-- **TEORIA:** Wiersz 60/62 z Canto IX Piekła ("O ye who have opened the intelligence") sugeruje ukryte nauki dla wtajemniczonych
-- **ZARZUT:** Krytycy twierdzą, że struktura 3 części, 33 pieśni ma znaczenie kabalistyczne związane z Drzewem Życia
-- **TEORIA:** Istnienie w Wiedniu medalu z podobizną Dante z literami FSKIPFT na rewersie, interpretowanymi jako "Frater Sacrae Kados" (Brat Świętego Zakonu)
+### 1. Occult Symbolism and Hidden Meanings
+**THEORY:** Dante's masterpiece contains extensive esoteric and occult symbolism
+- **FACT:** René Guénon in "L'Esoterisme de Dante" argues that The Divine Comedy contains hidden esoteric meanings
+- **THEORY:** Lines 60/62 from Canto IX of Hell ("O ye who have opened the intelligence") suggest hidden teachings for initiates
+- **ACCUSATION:** Critics claim that the structure of 3 parts, 33 cantos each has kabbalistic significance related to the Tree of Life
+- **THEORY:** Existence in Vienna of a medal with Dante's portrait with letters FSKIPFT on the reverse, interpreted as "Frater Sacrae Kados" (Brother of the Sacred Order)
 
 ### 2. Secret Society Connections
-**TEORIA:** Dante był członkiem tajnych stowarzyszeń i jego dzieło to alegoria inicjacji masońskiej
-- **ZARZUT:** Eugène Aroux (1793-1859) twierdził, że czerwone, białe i zielone kolory Beatrycze odpowiadają kolorom noszczonym przez inicjatów w rytuale Prince of Mercy szkockich masonów
-- **TEORIA:** Albert Pike wspominał Boską Komedię 5 razy w "Morals and Dogma", sugerując masońskie połączenia
-- **PLOTKA:** Professor Gabriele Rossetti (ojciec poety) był masonem i wierzył, że dzieła Dante zawierają aluzje do masonerii
-- **FAKT:** Szkockie rytuały użyte w teoriach Aroux zostały zorganizowane dopiero w 1500 roku, więc Dante nie mógł mieć do nich dostępu
+**THEORY:** Dante was a member of secret societies and his work is an allegory of Masonic initiation
+- **ACCUSATION:** Eugène Aroux (1793-1859) claimed that Beatrice's red, white and green colors correspond to colors worn by initiates in the Prince of Mercy ritual of Scottish Masons
+- **THEORY:** Albert Pike mentioned The Divine Comedy 5 times in "Morals and Dogma," suggesting Masonic connections
+- **RUMOR:** Professor Gabriele Rossetti (the poet's father) was a Mason and believed that Dante's works contain allusions to Freemasonry
+- **FACT:** The Scottish rituals used in Aroux's theories were not organized until 1500, so Dante could not have had access to them
 
-### 3. Islamic Mystical Influences i Plagiat Accusations
-**TEORIA:** Dante ukradł podstawową ideę Boskiej Komedii z islamskich tekstów
-- **ZARZUT:** "Liber Scalae Machometi" zawiera podobną podróż Proroka pod przewodnictwem Archanioła Gabriela przez osiem kręgów Raju i siedem piekieł
-- **FAKT:** Maria Corti potwierdziła podobieństwa między tym manuskryptem a Boską Komedią
-- **TEORIA:** René Guénon, konwertyta sufi i znawca Ibn Arabi, potwierdził teorię islamskiego wpływu (bezpośredniego lub pośredniego) na Dante
-- **PLOTKA:** Niektóre sekcje Boskiej Komedii to "wholesale copies" wcześniejszego materiału muzułmańskiego
+### 3. Islamic Mystical Influences and Plagiarism Accusations
+**THEORY:** Dante stole the basic idea of The Divine Comedy from Islamic texts
+- **ACCUSATION:** "Liber Scalae Machometi" contains a similar journey of the Prophet under the guidance of Archangel Gabriel through eight circles of Paradise and seven hells
+- **FACT:** Maria Corti confirmed similarities between this manuscript and The Divine Comedy
+- **THEORY:** René Guénon, a Sufi convert and expert on Ibn Arabi, confirmed the theory of Islamic influence (direct or indirect) on Dante
+- **RUMOR:** Some sections of The Divine Comedy are "wholesale copies" of earlier Muslim material
 
-### 4. Numerology i Kabbalistic Codes
-**TEORIA:** Struktura numeryczna dzieła ukrywa kabalistyczne znaczenia
-- **FAKT:** Dzieło ma 3 części, 33 pieśni każda, co interpretuje się jako nawiązanie do 10 sefirot na Drzewie Życia
-- **TEORIA:** 6 Kręgów w Górnym Piekle + 3 Kręgi plus Studnia Gigantów w Dolnym Piekle odpowiadają strukturom kabalistycznym
-- **ZARZUT:** Symboliczne liczby mają znaczenia, które "czytelnik XIV wieku łatwo by zrozumiał", ale współczesni czytelnicy je pomijają
+### 4. Numerology and Kabbalistic Codes
+**THEORY:** The numerical structure of the work hides kabbalistic meanings
+- **FACT:** The work has 3 parts, 33 cantos each, which is interpreted as a reference to the 10 sefirot on the Tree of Life
+- **THEORY:** 6 Circles in Upper Hell + 3 Circles plus Giants' Well in Lower Hell correspond to kabbalistic structures
+- **ACCUSATION:** Symbolic numbers have meanings that "a 14th-century reader would easily understand," but modern readers miss them
 
 ---
 
 ## 💀 AUTHOR SCANDALS & PERSONAL DRAMA
 
 ### 1. Political Exile & Criminal Accusations
-**FAKT:** Dante został oskarżony o korupcję publiczną, oszustwo, fałszerstwo, złośliwość, niesprawiedliwe praktyki wymuszenia, nielegalne dochody i pedofilię
-- **FAKT:** W marcu 1302 skazano go na grzywnę 5000 florinów, dożywotnią dyskwalifikację z urzędów publicznych, wieczne wygnanie
-- **FAKT:** Wyrok śmierci przez spalenie na stosie w przypadku schwytania
-- **FAKT:** Główny Sędzia Cante de' Gabrielli wydał dwa proklamacje z 10 marca 1302, skazując go na śmierć przez ogień
+**FACT:** Dante was accused of public corruption, fraud, forgery, malice, unjust extortion practices, illegal income and pedophilia
+- **FACT:** In March 1302 he was sentenced to a fine of 5000 florins, lifetime disqualification from public office, eternal exile
+- **FACT:** Death sentence by burning at the stake if caught
+- **FACT:** Chief Judge Cante de' Gabrielli issued two proclamations on March 10, 1302, condemning him to death by fire
 
-### 2. Financial Crimes i Corruption Charges
-**ZARZUT:** Włoskie władze skonfiskowały jego majątek i oskarżyły o przestępstwa podczas krótkiej kadencji jako prior miasta
-- **FAKT:** Odmówił zapłacenia grzywny, nie tylko dlatego, że był bankrutem, ale głosił swoją niewinność
-- **FAKT:** Każde ułaskawienie wymagające przyznania się do winy wobec miasta, które kochał, zostało odrzucone
-- **FAKT:** W 2008 roku przywódcy Florencji wydali oficjalne przeprosiny w imieniu miasta za wygnanie Dante
-- **FAKT:** W 2021 roku Florencja przeprowadziła ponowny proces Dante, aby oczyścić jego imię z fałszywych oskarżeń
+### 2. Financial Crimes and Corruption Charges
+**ACCUSATION:** Italian authorities confiscated his property and accused him of crimes during his brief tenure as city prior
+- **FACT:** He refused to pay the fine, not only because he was bankrupt, but proclaimed his innocence
+- **FACT:** Any pardon requiring admission of guilt to the city he loved was rejected
+- **FACT:** In 2008, Florence leaders issued an official apology on behalf of the city for Dante's exile
+- **FACT:** In 2021, Florence conducted a retrial of Dante to clear his name of false accusations
 
-### 3. Literary Feuds i Poet Rivalries
-**FAKT:** Cecco Angiolieri w sonecie napisał: "Dante Alighier, i' t'averò a stancare / ch'eo so lo pungiglion, e tu se' 'l bue" ("Dante chłopcze, po prostu cię zmęczę: / bo ja jestem ościeniem, który pogania twego wołu")
-- **FAKT:** Cecco "rails against Dante, who had censured his homage to Becchina", sugerując, że Dante skrytykował poezję Cecco o jego kochance
-- **FAKT:** Większość materiału poetyckiego odnoszącego się do Dante została utracona: ich poetycka kłótnia, jak i ich możliwa wcześniejsza relacja, która się pogorszyła
-- **FAKT:** Dante również prowadził poetyckie wymiany z Forese Donati, gdzie szydzili ze siebie nawzajem w sonetach
+### 3. Literary Feuds and Poet Rivalries
+**FACT:** Cecco Angiolieri wrote in a sonnet: "Dante Alighier, i' t'averò a stancare / ch'eo so lo pungiglion, e tu se' 'l bue" ("Dante boy, I'll just tire you out: / for I am the goad that drives your ox")
+- **FACT:** Cecco "rails against Dante, who had censured his homage to Becchina," suggesting that Dante criticized Cecco's poetry about his mistress
+- **FACT:** Most of the poetic material referring to Dante has been lost: their poetic quarrel, as well as their possible earlier relationship that deteriorated
+- **FACT:** Dante also conducted poetic exchanges with Forese Donati, where they mocked each other in sonnets
 
 ### 4. Religious Heresy Accusations
-**FAKT:** Już w XIV wieku próbowano znaleźć herezję w "Divina Commedia", a "De Monarchiâ" został spalony w Bolonii na rozkaz legata papieskiego
-- **ZARZUT:** Gwałtowne potępienie korupcji kościelnej i skazanie większości współczesnych papieży do piekła wzbudziło pytania o katolicką ortodoksję
-- **FAKT:** W Canto początkowo demon krzyczy "Pape Satan, pape Satan," prawdopodobnie sugerując "Papież Szatan"
-- **FAKT:** 30 kwietnia 1921 r. papież Benedykt XV w encyklice "In praeclara summorum" nazwał Dante jednym z "wielu sławnych geniuszy, którymi może szczycić się wiara katolicka"
+**FACT:** As early as the 14th century, attempts were made to find heresy in "Divina Commedia," and "De Monarchiâ" was burned in Bologna on the order of the papal legate
+- **ACCUSATION:** Violent condemnation of church corruption and consigning most contemporary popes to hell raised questions about Catholic orthodoxy
+- **FACT:** In Canto, initially a demon shouts "Pape Satan, pape Satan," probably suggesting "Pope Satan"
+- **FACT:** On April 30, 1921, Pope Benedict XV in the encyclical "In praeclara summorum" called Dante one of "many famous geniuses of whom the Catholic faith can be proud"
 
 ---
 
 ## 🚫 GOVERNMENT CENSORSHIP & RELIGIOUS SUPPRESSION
 
 ### 1. Spanish Inquisition Censorship
-**FAKT:** Wydanie z 1564 roku zostało poddane surowej cenzurze przez Hiszpańską Inkwizycję
-- **FAKT:** Hiszpański Index Librorum Prohibitorum z 1612 roku zabronił trzech głównych fragmentów zamiast całego tekstu
-- **FAKT:** Większość ocenzurowanych fragmentów pojawiała się w Inferno
-- **FAKT:** Kopie w bibliotekach pokazują fizyczne dowody cenzury inkwizytorskiej, z tekstem przekreślonym lub zakrytym atramentem
+**FACT:** The 1564 edition was subjected to severe censorship by the Spanish Inquisition
+- **FACT:** The Spanish Index Librorum Prohibitorum of 1612 banned three main fragments instead of the entire text
+- **FACT:** Most censored fragments appeared in the Inferno
+- **FACT:** Library copies show physical evidence of inquisitorial censorship, with text crossed out or covered with ink
 
 ### 2. Modern Censorship Attempts
-**FAKT:** W 2012 roku organizacja praw człowieka Gherush 92 zażądała usunięcia Boskiej Komedii z programów szkolnych
-- **ZARZUT:** Valentina Sereni, prezes grupy, nazwała dzieło "obraźliwym i dyskryminującym", bez miejsca w nowoczesnej klasie
-- **ZARZUT:** "Reprezentuje islam jako herezję, a Mahometa jako schizmatyka i odnosi się do Żydów jako chciwych, schematy lichwiarz i zdrajców"
+**FACT:** In 2012, human rights organization Gherush 92 demanded removal of The Divine Comedy from school curricula
+- **ACCUSATION:** Valentina Sereni, group president, called the work "offensive and discriminatory," with no place in a modern classroom
+- **ACCUSATION:** "It represents Islam as heresy, and Mohammed as a schismatic and refers to Jews as greedy, scheming usurers and traitors"
 
 ### 3. Islamic Countries Restrictions
-**PLOTKA:** Boska Komedia jest nielegalna w niektórych krajach muzułmańskich ze względu na pokazanie Mahometa w Ósmym Kręgu Piekła
-- **FAKT:** Arabscy tłumacze usunęli imiona Mahometa i Alego z tłumaczeń
-- **FAKT:** Libańczyk Abbud Abu Rasid w swojej prozatorskiej wersji usunął imiona Mahometa i Alego
-- **FAKT:** Uthman wyciął wiersze 22-64, ponieważ były "nieodpowiednie do tłumaczenia"
+**RUMOR:** The Divine Comedy is illegal in some Muslim countries due to showing Mohammed in the Eighth Circle of Hell
+- **FACT:** Arab translators removed the names of Mohammed and Ali from translations
+- **FACT:** Lebanese Abbud Abu Rasid in his prose version removed the names of Mohammed and Ali
+- **FACT:** Uthman cut verses 22-64 because they were "inappropriate for translation"
 
 ---
 
-## 🔮 PROPHECY CHECK - Co się sprawdziło, co nie
+## 🔮 PROPHECY CHECK - What Came True, What Didn't
 
 ### 1. Political Predictions That Came True
-**FAKT:** Vanni Fucci przepowiedział nadchodzące kłopoty dla Dante i Florencji, włączając wygnanie Białych Gwelfów przez Czarnych
-- **FAKT:** Ser Brunetto przepowiedział, że Dante będzie "hungerered for on both sides", oznaczając, że obie partie polityczne będą chciały go zniszczyć
-- **FAKT:** Te przepowiednie nie były rzeczywistymi proroctwami, ponieważ wydarzenia, przed którymi ostrzegały, już się wydarzyły przed napisaniem Inferno
+**FACT:** Vanni Fucci predicted coming troubles for Dante and Florence, including the exile of White Guelphs by the Blacks
+- **FACT:** Ser Brunetto predicted that Dante would be "hungerered for on both sides," meaning both political parties would want to destroy him
+- **FACT:** These prophecies were not real prophecies, as the events they warned about had already occurred before the Inferno was written
 
 ### 2. Failed Imperial Prophecies
-**PLOTKA:** Przepowiednia dotycząca przybycia cesarza Henryka VII do Włoch w celu "naprawienia Włoch" nie zmaterializowała się zgodnie z nadziejami
-- **FAKT:** Dante zarezerwował jedno z nielicznych miejsc pozostałych w Empirean Rose dla Henryka VII w Paradiso
-- **TEORIA:** Przepowiednia veltro (charta) w Inferno 1.101 i przepowiednia DXV w Purgatorio 33.43 pozostają niezrealizowane
+**RUMOR:** The prophecy regarding Emperor Henry VII's arrival in Italy to "repair Italy" did not materialize as hoped
+- **FACT:** Dante reserved one of the few remaining seats in the Empyrean Rose for Henry VII in Paradiso
+- **THEORY:** The veltro (greyhound) prophecy in Inferno 1.101 and the DXV prophecy in Purgatorio 33.43 remain unfulfilled
 
 ### 3. Theological Visions
-**TEORIA:** Cała Commedia funkcjonuje jako proroctwo, objawienie dotyczące spraw ukrytych przed zwykłymi śmiertelnikami
-- **FAKT:** Dante żył w momencie, kiedy proroctwa, wróżbiarstwo, magia, alchemia i astrologia były intensywnie cenione i intensywnie dyskutowane
+**THEORY:** The entire Commedia functions as prophecy, revelation about matters hidden from ordinary mortals
+- **FACT:** Dante lived at a time when prophecy, divination, magic, alchemy and astrology were intensively valued and intensively debated
 
 ---
 
 ## 💰 FINANCIAL SCANDALS & MONEY DRAMA
 
 ### 1. Manuscript Authentication Scandals
-**FAKT:** Według Włoskiego Towarzystwa Dante, żaden oryginalny manuskrypt napisany przez Dante nie przetrwał
-- **PLOTKA:** Istnieje około 800 kopii manuskryptów z XIV i XV wieku, co tworzy debaty o autentyczności tekstowej
-- **TEORIA:** Brak oryginalnych manuskryptów stworzył ciągłe debaty o autentyczności tekstowej
+**FACT:** According to the Italian Dante Society, no original manuscript written by Dante has survived
+- **RUMOR:** There are about 800 manuscript copies from the 14th and 15th centuries, creating debates about textual authenticity
+- **THEORY:** The lack of original manuscripts created ongoing debates about textual authenticity
 
 ### 2. The Donation of Constantine Forgery
-**FAKT:** Donacja Konstantyna, dokument, do którego Dante się odwoływał, został udowodniony jako fałszerstwo przez Lorenzo Vallę w XV wieku
-- **FAKT:** Było to fałszerstwo z VIII lub IX wieku, nieznane w czasach Dante
-- **FAKT:** W Komedii znajduje się seria ataków na Donację
+**FACT:** The Donation of Constantine, a document Dante referred to, was proven to be a forgery by Lorenzo Valla in the 15th century
+- **FACT:** It was a forgery from the 8th or 9th century, unknown in Dante's time
+- **FACT:** The Comedy contains a series of attacks on the Donation
 
 ### 3. Publishing Controversies
-**PLOTKA:** Edizioni del gran naso - edycja, w której strona tytułowa ozdobiona jest portretem Dante przez Giorgio Vasari z powiększonym nosem
-- **TEORIA:** Różne skandale edytorskie, włączając kwestie autorstwa i autentyczności różnych wydań
+**RUMOR:** Edizioni del gran naso - an edition where the title page is decorated with a portrait of Dante by Giorgio Vasari with an enlarged nose
+- **THEORY:** Various editorial scandals, including issues of authorship and authenticity of different editions
 
 ---
 
 ## 🎭 INDUSTRY DRAMA & LITERARY CONFLICTS
 
 ### 1. Medieval Poetry Wars
-**FAKT:** Dante używał "dulce stil nuovo (słodki nowy styl)", podczas gdy Cecco Angiolieri pisał ribald, realistyczną poezję, która szydziła z konwencjonalnych tematów literackich
-- **FAKT:** Cecco był "uważany przez niektórych za pierwszego mistrza włoskiej poezji komicznej"
-- **TEORIA:** Kłótnie między tymi średniowiecznymi włoskimi poetami odzwierciedlały zarówno osobiste animozje, jak i szersze spory literackie
+**FACT:** Dante used "dulce stil nuovo (sweet new style)," while Cecco Angiolieri wrote ribald, realistic poetry that mocked conventional literary themes
+- **FACT:** Cecco was "considered by some to be the first master of Italian comic poetry"
+- **THEORY:** Quarrels between these medieval Italian poets reflected both personal animosities and broader literary disputes
 
 ### 2. Religious vs Secular Interpretations
-**ZARZUT:** Współcześni uczeni zauważają, że chociaż dzieło jest głęboko religijne, "przetrwało w świeckich czasach częściowo ze względu na to, jak gruntownie i pomysłowo organizuje kosmos"
-- **TEORIA:** Dzieło "przetrwało przez wieki ze względu na jego skłonność do urzekająco gwałtownych obrazów" z karami odpowiadającymi ziemskim grzechom
+**ACCUSATION:** Contemporary scholars note that although the work is deeply religious, "it survived in secular times partly because of how thoroughly and ingeniously it organizes the cosmos"
+- **THEORY:** The work "survived through the centuries because of its tendency toward captivatingly violent imagery" with punishments corresponding to earthly sins
 
 ### 3. Translation Controversies
-**FAKT:** Arabscy tłumacze, "upojeni hipotezami wpływów ich kultury na poemat Dante, usunęli" obraźliwe fragmenty
-- **FAKT:** Wyzwania tłumaczeniowe utworzyły znaczące problemy dla tłumaczy arabskich ze względu na obraźliwą treść
+**FACT:** Arab translators, "intoxicated by hypotheses of their culture's influence on Dante's poem, removed" offensive passages
+- **FACT:** Translation challenges created significant problems for Arabic translators due to offensive content
 
 ---
 
 ## 🌍 CONTEMPORARY RELEVANCE & MODERN SCANDALS
 
 ### 1. Educational Censorship Debates
-**FAKT:** Po kontrowersjach z karykaturami Mahometa w Jyllands-Posten w 2005 r. i strzelaninach w Charlie Hebdo w 2015 r., "lęki arabskich uczonych i tłumaczy są zrozumiałe"
-- **TEORIA:** Współczesna polityczna poprawność podważa klasyczne dzieła ze względu na ich historyczny kontekst
+**FACT:** After the Mohammed cartoon controversies in Jyllands-Posten in 2005 and Charlie Hebdo shootings in 2015, "the fears of Arab scholars and translators are understandable"
+- **THEORY:** Contemporary political correctness undermines classical works because of their historical context
 
 ### 2. Religious Sensitivity Issues
-**FAKT:** W Canto 28 Dante umieszcza Mahometa i jego zięcia Alego w piekle, gdzie są stale rozdzielani za grzech siania niezgody i herezji
-- **ZARZUT:** "Pieśń daje rzadką werbalną przemoc", opisując okropne okaleczenia i rany jako karę
+**FACT:** In Canto 28, Dante places Mohammed and his son-in-law Ali in hell, where they are constantly split apart for the sin of sowing discord and heresy
+- **ACCUSATION:** "The canto gives rare verbal violence," describing horrible mutilations and wounds as punishment
 
 ### 3. Academic Rehabilitation Efforts
-**FAKT:** Próby oczyszczenia reputacji Dante z fałszywych oskarżeń politycznych trwają do dziś
-- **FAKT:** Florencja w 2021 roku przeprowadziła symboliczny ponowny proces w 700. rocznicę śmierci poety
+**FACT:** Attempts to clear Dante's reputation of false political accusations continue to this day
+- **FACT:** Florence in 2021 conducted a symbolic retrial on the 700th anniversary of the poet's death
 
 ---
 
-## 📊 PODSUMOWANIE DARK DRAMA
+## 📊 DARK DRAMA SUMMARY
 
-**Główne kontrowersje:**
-1. **Okultyzm i ezoteryka** - teorie o ukrytych znaczeniach i inicjacjach masońskich
-2. **Oskarżenia kryminalne** - korupcja, oszustwo, pedofilia (prawdopodobnie sfabrykowane politycznie)
-3. **Cenzura religijna** - Inkwizycja Hiszpańska, współczesne próby usunięcia z programów nauczania
-4. **Kłótnie literackie** - wojny poetyckie ze współczesnymi, szczególnie z Cecco Angiolieri
-5. **Islamskie kontrowersje** - obraźliwe przedstawienie Mahometa, problemy z tłumaczeniami
-6. **Plagiat i wpływy** - zarzuty o "kradzież" z islamskich tekstów mistycznych
+**Main Controversies:**
+1. **Occultism and Esotericism** - theories about hidden meanings and Masonic initiations
+2. **Criminal Accusations** - corruption, fraud, pedophilia (probably politically fabricated)
+3. **Religious Censorship** - Spanish Inquisition, contemporary attempts to remove from curricula
+4. **Literary Quarrels** - poetic wars with contemporaries, especially with Cecco Angiolieri
+5. **Islamic Controversies** - offensive portrayal of Mohammed, translation problems
+6. **Plagiarism and Influences** - accusations of "theft" from Islamic mystical texts
 
-**Liczba kontrowersyjnych faktów i teorii:** 47
+**Number of controversial facts and theories:** 47
 
-**Status badań:** KOMPLETNE - wszystkie główne obszary mrocznych interpretacji i kontrowersji zostały zbadane i udokumentowane.
+**Research Status:** COMPLETE - all major areas of dark interpretations and controversies have been researched and documented.

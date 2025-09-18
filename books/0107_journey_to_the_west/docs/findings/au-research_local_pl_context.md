@@ -1,169 +1,169 @@
-# Lokalny kontekst kulturowy - "Wędrówka na Zachód" w Polsce
+# Local Cultural Context - "Journey to the West" in Poland
 
-## Informacje podstawowe
-- **Tytuł oryginalny**: Xi You Ji (西游记)
-- **Autor**: Wu Cheng'en (吴承恩) 
-- **Polski tytuł**: "Wędrówka na Zachód"
-- **Okres powstania**: XVI wiek (dynastia Ming)
-- **Gatunek**: Powieść fantastyczno-mitologiczna
+## Basic Information
+- **Original title**: Xi You Ji (西游记)
+- **Author**: Wu Cheng'en (吴承恩)
+- **Polish title**: "Wędrówka na Zachód"
+- **Period**: 16th century (Ming Dynasty)
+- **Genre**: Fantasy-mythological novel
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze polskie tłumaczenia
-1. **Główny tłumacz**: Prof. Tadeusz Żbikowski (1930-1989) - sinolog, Uniwersytet Warszawski
-2. **Pierwszy tom**: "Małpi bunt" (1976) - zawiera wybrane fragmenty z rozdziałów 1-20
-3. **Drugi tom**: "Wędrówka na Zachód" (1984) - zawiera fragmenty z rozdziałów 21-100
-4. **Wydawca**: Czytelnik, Warszawa
-5. **Zakres tłumaczenia**: Tylko 30 rozdziałów z oryginalnych 99
+### First Polish Translations
+1. **Main translator**: Prof. Tadeusz Żbikowski (1930-1989) - sinologist, University of Warsaw
+2. **First volume**: "Małpi bunt" (Monkey's Rebellion) (1976) - contains selected fragments from chapters 1-20
+3. **Second volume**: "Wędrówka na Zachód" (Journey to the West) (1984) - contains fragments from chapters 21-100
+4. **Publisher**: Czytelnik, Warsaw
+5. **Translation scope**: Only 30 chapters from the original 99
 
-### Charakterystyka polskiego wydania
-- **Format**: 222 strony + 2 dodatkowe, format 25 cm
-- **Ilustracje**: 6 kolorowych tablic ilustracyjnych
-- **Opracowanie naukowe**: Wstęp i posłowie prof. Tadeusza Żbikowskiego
-- **Kontekst literacki**: Umieszczenie w kontekście sześciu grup chińskiej powieści
+### Characteristics of Polish Edition
+- **Format**: 222 pages + 2 additional, 25 cm format
+- **Illustrations**: 6 color illustration plates
+- **Scholarly work**: Introduction and afterword by Prof. Tadeusz Żbikowski
+- **Literary context**: Placed within the context of six groups of Chinese novels
 
-## Polscy tłumacze i badacze
+## Polish Translators and Researchers
 
-### Prof. Tadeusz Żbikowski - kluczowa postać
-- **Pozycja akademicka**: Sinolog, Uniwersytet Warszawski
-- **Publikacje**: "Legendy i pradzieje kraju środka"
-- **Wkład naukowy**: Prezentacja recepcji postaci Małpiego Króla w kulturze chińskiej
-- **Metodologia**: Strukturalizacja według typów powieści chińskiej (awanturnicza, historyczna, erotyczno-obyczajowa, społeczno-psychologiczna, krytyczno-satyryczna, fantastyczno-mitologiczna)
+### Prof. Tadeusz Żbikowski - Key Figure
+- **Academic position**: Sinologist, University of Warsaw
+- **Publications**: "Legends and Prehistory of the Middle Kingdom"
+- **Scholarly contribution**: Presentation of Monkey King's reception in Chinese culture
+- **Methodology**: Structuring according to Chinese novel types (adventure, historical, erotic-moral, social-psychological, critical-satirical, fantasy-mythological)
 
-### Współczesne badania sinologiczne
-- **Uniwersytet Warszawski**: Najstarszy program sinologiczny (od 1933)
-- **Uniwersytet Jagielloński**: Instytut Orientalistyki (program od 2014)
-- **Uniwersytet im. A. Mickiewicza**: Program sinologii w Poznaniu
-- **Popularność studiów**: UW - 18 kandydatów na miejsce, UJ - 7 kandydatów na miejsce, UAM - 9 kandydatów na miejsce
+### Contemporary Sinological Research
+- **University of Warsaw**: Oldest sinological program (since 1933)
+- **Jagiellonian University**: Institute of Oriental Studies (program since 2014)
+- **Adam Mickiewicz University**: Sinology program in Poznań
+- **Program popularity**: UW - 18 candidates per place, UJ - 7 candidates per place, UAM - 9 candidates per place
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Status w programach uniwersyteckich
-- **Lektura obowiązkowa**: "Wędrówka na Zachód" w programach sinologicznych
-- **Bibliografia podstawowa**: Uniwersytet Warszawski - "Wiedza o literaturze i kulturze Chin"
-- **Materiały pomocnicze**: "Antologia literatury chińskiej" W. Jabłońskiego (PWN, 1959)
-- **Znaczenie akademickie**: Jeden z fundamentalnych tekstów klasycznej literatury chińskiej
+### Status in University Programs
+- **Required reading**: "Journey to the West" in sinological programs
+- **Basic bibliography**: University of Warsaw - "Knowledge of Chinese Literature and Culture"
+- **Auxiliary materials**: "Anthology of Chinese Literature" by W. Jabłoński (PWN, 1959)
+- **Academic significance**: One of the fundamental texts of classical Chinese literature
 
-### Brak w polskich szkołach średnich
-- **Lektura szkolna**: Brak "Wędrówki na Zachód" w kanonie lektur szkolnych
-- **Dostępność**: Tylko w antykwariatach i specjalistycznych księgarniach
-- **Problemy edukacyjne**: Brak nowych wydań po latach 80.
+### Absence in Polish Secondary Schools
+- **School reading**: "Journey to the West" not included in school reading canon
+- **Availability**: Only in antique shops and specialized bookstores
+- **Educational problems**: No new editions since the 1980s
 
-## Adaptacje kulturowe w Polsce
+## Cultural Adaptations in Poland
 
-### Teatr
-**"Wędrówka na Zachód. Dwa miliardy sekund"**
-- **Teatr**: Teatr Dramatyczny m. st. Warszawy
-- **Premiera**: 28 grudnia 2018 r.
-- **Scena**: Scena Przodownik
-- **Koprodukcja**: Teatr Alatyr i Teatr Dramatyczny
-- **Charakter**: Współczesna interpretacja filozoficzna
-- **Tematyka**: Egzystencjalna refleksja nad życiem ludzkim (63 lata = 2 miliardy sekund)
-- **Styl**: Mieszanka cytatów ze świętych pism, filozofii, literatury rosyjskiej, Hollywood
+### Theater
+**"Journey to the West. Two Billion Seconds"**
+- **Theater**: Dramatic Theater of Warsaw
+- **Premiere**: December 28, 2018
+- **Stage**: Przodownik Stage
+- **Co-production**: Alatyr Theater and Dramatic Theater
+- **Character**: Contemporary philosophical interpretation
+- **Theme**: Existential reflection on human life (63 years = 2 billion seconds)
+- **Style**: Mix of quotes from sacred texts, philosophy, Russian literature, Hollywood
 
-### Kultura popularna i gaming
+### Popular Culture and Gaming
 
-**Wpływ na anime i mangę**
-- **Dragon Ball**: Son Goku bezpośrednio inspirowany Sun Wukongiem
-- **Podobieństwa**: Siła, duplikowanie się, chodzenie po chmurach, magiczna różdżka
-- **Polska Wikipedia**: Obszerna strona o Son Goku z informacją o inspiracji chińską mitologią
-- **Popularność**: Dragon Ball jako jeden z najważniejszych anime w Polsce
+**Influence on Anime and Manga**
+- **Dragon Ball**: Son Goku directly inspired by Sun Wukong
+- **Similarities**: Strength, duplication, cloud walking, magic staff
+- **Polish Wikipedia**: Extensive page about Son Goku with information about Chinese mythology inspiration
+- **Popularity**: Dragon Ball as one of the most important anime in Poland
 
 **Black Myth: Wukong (2024)**
-- **Recepcja w Polsce**: Intensywne relacjonowanie w polskich mediach gamingowych
-- **Portale**: Media Expert, Grastroskopia.pl, GRA.pl, MiastoGier.pl
-- **Sukces komercyjny**: 10 milionów sprzedanych kopii w 3 dni (globalne dane)
-- **Zainteresowanie techniczne**: Polskie poradniki dotyczące wymagań sprzętowych
-- **Kulturowy kontekst**: Pierwszy mainstream'owy produkt bezpośrednio oparty na "Wędrówce na Zachód"
+- **Reception in Poland**: Intensive coverage in Polish gaming media
+- **Portals**: Media Expert, Grastroskopia.pl, GRA.pl, MiastoGier.pl
+- **Commercial success**: 10 million copies sold in 3 days (global data)
+- **Technical interest**: Polish guides on hardware requirements
+- **Cultural context**: First mainstream product directly based on "Journey to the West"
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
-1. **Nazwy własne**: Sun Wukong vs "Małpi Król" - zachowanie oryginalnej wymowy vs lokalizacja
-2. **Koncepje religijno-filozoficzne**: Taoizm, buddyzm - obce polskiemu czytelnikowi
-3. **Symbolika kulturowa**: Chińskie archetypy i symbole niemające odpowiedników w kulturze polskiej
-4. **Język klasyczny**: Archaiczny styl chiński vs współczesna polszczyzna
+### Linguistic Challenges
+1. **Proper names**: Sun Wukong vs "Monkey King" - preserving original pronunciation vs localization
+2. **Religious-philosophical concepts**: Taoism, Buddhism - foreign to Polish readers
+3. **Cultural symbolism**: Chinese archetypes and symbols with no equivalents in Polish culture
+4. **Classical language**: Archaic Chinese style vs contemporary Polish
 
-### Różnice kulturowe w interpretacji
-1. **Postrzeganie autorytetu**: Sun Wukong jako buntownik vs chiński szacunek dla hierarchii
-2. **Humor i satyra**: Chińska ironia vs polski dowcip
-3. **Moralność**: Chińska etyka konfucjańska vs chrześcijańska moralność
-4. **Fantastyka**: Chińska mitologia vs europejska tradycja fantasy
+### Cultural Differences in Interpretation
+1. **Perception of authority**: Sun Wukong as rebel vs Chinese respect for hierarchy
+2. **Humor and satire**: Chinese irony vs Polish wit
+3. **Morality**: Chinese Confucian ethics vs Christian morality
+4. **Fantasy**: Chinese mythology vs European fantasy tradition
 
-### Współczesne wyzwania lokalizacyjne
-- **Black Myth: Wukong**: Zachowanie pinyin (jingubang, yaoguai) vs tłumaczenie
-- **Tożsamość kulturowa**: Ryzyko utraty "kulturowej esencji" przy anglicyzacji
-- **Dostępność**: Brak kontekstu kulturowego dla polskich graczy/czytelników
+### Contemporary Localization Challenges
+- **Black Myth: Wukong**: Preserving pinyin (jingubang, yaoguai) vs translation
+- **Cultural identity**: Risk of losing "cultural essence" through anglicization
+- **Accessibility**: Lack of cultural context for Polish gamers/readers
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Związki z polską kulturą
-1. **Teatr Dramatyczny**: Interpretacja egzystencjalna nawiązująca do polskiej filozofii
-2. **Gaming**: Polscy gracze Black Myth: Wukong jako część globalnej społeczności
-3. **Akademia**: Tradycja polskiej sinologii od lat 30. XX wieku
-4. **Literatura porównawcza**: Zestawienia z polskim folklorem i mitologią słowiańską
+### Connections with Polish Culture
+1. **Dramatic Theater**: Existential interpretation referencing Polish philosophy
+2. **Gaming**: Polish Black Myth: Wukong players as part of global community
+3. **Academy**: Tradition of Polish sinology since the 1930s
+4. **Comparative literature**: Comparisons with Polish folklore and Slavic mythology
 
-### Potencjał dla polskich twórców
-1. **Adaptacje teatralne**: Możliwość dalszych interpretacji w polskim teatrze
-2. **Gaming**: Inspiracja dla polskich deweloperów gier
-3. **Literatura**: Potencjał dla polskich pisarzy fantasy inspirujących się chińską mitologią
-4. **Edukacja**: Możliwość włączenia do programów kulturoznawczych
+### Potential for Polish Creators
+1. **Theater adaptations**: Possibility of further interpretations in Polish theater
+2. **Gaming**: Inspiration for Polish game developers
+3. **Literature**: Potential for Polish fantasy writers inspired by Chinese mythology
+4. **Education**: Possibility of inclusion in cultural studies programs
 
-## Społeczność fanów i odbiorców
+## Fan Community and Audience
 
-### Grupy odbiorców
-1. **Studenci sinologii**: Około 100-200 osób rocznie na trzech głównych uczelniach
-2. **Fani anime/mangi**: Osoby znające Sun Wukonga przez Dragon Ball
-3. **Gracze**: Społeczność Black Myth: Wukong w Polsce
-4. **Miłośnicy teatru alternatywnego**: Odbiorcy adaptacji Teatru Dramatycznego
+### Audience Groups
+1. **Sinology students**: About 100-200 people annually at three main universities
+2. **Anime/manga fans**: People familiar with Sun Wukong through Dragon Ball
+3. **Gamers**: Black Myth: Wukong community in Poland
+4. **Alternative theater lovers**: Audience of Dramatic Theater adaptation
 
-### Bariery w popularyzacji
-1. **Językowe**: Brak nowych tłumaczeń
-2. **Edukacyjne**: Nieobecność w szkołach średnich
-3. **Komercyjne**: Brak nowych wydań po latach 80.
-4. **Kulturowe**: Ograniczona wiedza o kulturze chińskiej
+### Barriers to Popularization
+1. **Linguistic**: Lack of new translations
+2. **Educational**: Absence in secondary schools
+3. **Commercial**: No new editions since the 1980s
+4. **Cultural**: Limited knowledge of Chinese culture
 
-## Akademickie interpretacje polskich badaczy
+## Academic Interpretations by Polish Researchers
 
-### Kierunki badań
-1. **Prof. Tadeusz Żbikowski**: Strukturalizacja gatunków powieści chińskiej
-2. **UW - Wydział Orientalistyczny**: Kontekst polityczny i kulturowy
-3. **UJ - Instytut Orientalistyki**: Problemy międzykulturowe
-4. **UAM - Sinologia**: Aspekty glottodydaktyczne
+### Research Directions
+1. **Prof. Tadeusz Żbikowski**: Structuring Chinese novel genres
+2. **UW - Oriental Faculty**: Political and cultural context
+3. **UJ - Institute of Oriental Studies**: Intercultural problems
+4. **UAM - Sinology**: Glottodidactic aspects
 
-### Współczesne perspektywy
-1. **Kulturowa siła**: Analiza "Black Myth: Wukong" jako narzędzie soft power
-2. **Tłumaczenia literackie**: Porównanie różnych strategii translatorskich
-3. **Recepcja intermedialna**: Od literatury przez anime do gier komputerowych
-4. **Studia postkolonialne**: Percepcja kultury chińskiej w kontekście polskim
+### Contemporary Perspectives
+1. **Cultural power**: Analysis of "Black Myth: Wukong" as soft power tool
+2. **Literary translations**: Comparison of different translation strategies
+3. **Intermedial reception**: From literature through anime to computer games
+4. **Postcolonial studies**: Perception of Chinese culture in Polish context
 
-## Znaczenie dla polskich słuchaczy
+## Significance for Polish Listeners
 
-### Lokalne połączenia
-1. **Kraków-Małopolska**: UJ jako jeden z głównych ośrodków sinologicznych
-2. **Warszawa**: Najstarsza tradycja badań sinologicznych w Polsce
-3. **Poznań**: Rozwijający się ośrodek studiów chińskich
+### Local Connections
+1. **Krakow-Lesser Poland**: UJ as one of the main sinological centers
+2. **Warsaw**: Oldest tradition of sinological research in Poland
+3. **Poznań**: Developing center of Chinese studies
 
-### Możliwości weryfikacji
-1. **Biblioteki uniwersyteckie**: Dostęp do oryginalnych wydań z lat 80.
-2. **Teatr Dramatyczny**: Możliwość obejrzenia współczesnej adaptacji
-3. **Księgarnie specjalistyczne**: Antykwariaty z polskimi wydaniami
-4. **Gaming**: Black Myth: Wukong dostępne na polskich platformach
+### Verification Possibilities
+1. **University libraries**: Access to original editions from the 1980s
+2. **Dramatic Theater**: Possibility to see contemporary adaptation
+3. **Specialized bookstores**: Antique shops with Polish editions
+4. **Gaming**: Black Myth: Wukong available on Polish platforms
 
-## Potencjał dla TikToka i Gen Z
+## Potential for TikTok and Gen Z
 
-### Elementy atrakcyjne dla młodych odbiorców
-1. **Sun Wukong w popkulturze**: Od Dragon Ball po Black Myth: Wukong
-2. **Memeable content**: Postać Małpiego Króla jako meme w kulturze internetowej
-3. **Gaming connection**: Aktualność dzięki popularnej grze
-4. **Visual potential**: Efektowne sceny walk i transformacji
+### Elements Attractive to Young Audiences
+1. **Sun Wukong in pop culture**: From Dragon Ball to Black Myth: Wukong
+2. **Memeable content**: Monkey King character as meme in internet culture
+3. **Gaming connection**: Relevance through popular game
+4. **Visual potential**: Spectacular fight scenes and transformations
 
-### Wyzwania edukacyjne
-1. **Brak kontekstu**: Młodzi odbiorcy nie znają klasycznej literatury chińskiej
-2. **Bariera językowa**: Chińskie nazwy i koncepje
-3. **Długość oryginału**: 100 rozdziałów to zbyt dużo dla współczesnych odbiorców
-4. **Konkurencja**: Nowoczesne adaptacje vs klasyczny tekst
+### Educational Challenges
+1. **Lack of context**: Young audiences don't know classical Chinese literature
+2. **Language barrier**: Chinese names and concepts
+3. **Length of original**: 100 chapters too much for contemporary audiences
+4. **Competition**: Modern adaptations vs classical text
 
 ---
 
-**Podsumowanie**: "Wędrówka na Zachód" w Polsce to historia niekompletnej recepcji klasyka światowej literatury. Mimo pionierskich tłumaczeń prof. Żbikowskiego i obecności w programach sinologicznych, dzieło pozostaje niszowe. Współczesny renesans poprzez gaming (Black Myth: Wukong) i anime (Dragon Ball) otwiera nowe możliwości popularyzacji, ale wymaga przemyślanej strategii kulturowej łączącej tradycję akademicką z nowoczesnymi formami przekazu.
+**Summary**: "Journey to the West" in Poland is a story of incomplete reception of a world literature classic. Despite pioneering translations by Prof. Żbikowski and presence in sinological programs, the work remains niche. Contemporary renaissance through gaming (Black Myth: Wukong) and anime (Dragon Ball) opens new popularization possibilities, but requires a thoughtful cultural strategy combining academic tradition with modern forms of communication.

@@ -1,313 +1,313 @@
-# Analiza Symboliki i Znaczeń - "Księga dżungli" (1894)
+# Symbolism and Meanings Analysis - "The Jungle Book" (1894)
 
-## Informacje podstawowe
-- **Tytuł oryginalny**: The Jungle Book
-- **Autor**: Rudyard Kipling  
-- **Rok wydania**: 1894
-- **Gatunek**: Opowiadania, literatura dziecięca
+## Basic Information
+- **Original Title**: The Jungle Book
+- **Author**: Rudyard Kipling
+- **Publication Year**: 1894
+- **Genre**: Short stories, children's literature
 
 ---
 
-## 1. Główne symbole i ich interpretacje
+## 1. Main Symbols and Their Interpretations
 
-### 🔥 Ogień ("Czerwony Kwiat")
-**Symbolika pierwotna**: Ogień, nazywany przez zwierzęta "czerwonym kwiatem", reprezentuje moc człowieka i jego zdolność manipulowania oraz kontrolowania środowiskiem naturalnym.
+### 🔥 Fire ("The Red Flower")
+**Primary Symbolism**: Fire, called by animals "the red flower," represents human power and the ability to manipulate and control the natural environment.
 
-**Interpretacje wielowarstwowe**:
-- **Cywilizacyjna**: Symbol postępu technicznego i dominacji ludzkości nad naturą
-- **Kolonialny kontekst**: Metafora kolonialnej siły i władzy zachodnich cywilizacji
-- **Psychoanalityczna**: Reprezentuje świadomość i racjonalność w opozycji do pierwotnych instynktów
-- **Feministyczna**: Symbol patriarchalnej władzy i męskiej dominacji nad naturą
+**Multi-layered Interpretations**:
+- **Civilizational**: Symbol of technological progress and humanity's dominance over nature
+- **Colonial Context**: Metaphor for colonial force and Western civilization's power
+- **Psychoanalytical**: Represents consciousness and rationality in opposition to primitive instincts
+- **Feminist**: Symbol of patriarchal power and masculine dominance over nature
 
-### 🗿 Skała Rady (Council Rock)
-**Symbolika pierwotna**: Miejsce, gdzie zbiera się wataha wilków, reprezentuje rządy prawa, strukturę porządku i siedzibę władzy w społeczności dżungli.
+### 🗿 Council Rock
+**Primary Symbolism**: The place where the wolf pack gathers, representing rule of law, order structure, and seat of power in the jungle community.
 
-**Interpretacje współczesne**:
-- **Demokratyczna**: Symbol parlamentu i demokratycznych instytucji
-- **Kolonialny podtekst**: Reprezentacja brytyjskiego systemu sprawiedliwości narzuconego innym kulturom  
-- **Feministyczna krytyka**: Przestrzeń zdominowana przez męskie postacie, wykluczająca kobiecy głos
-- **LGBTQ+ perspektywa**: Miejsce egzekwowania heteronormatywnych zasad społecznych
+**Contemporary Interpretations**:
+- **Democratic**: Symbol of parliament and democratic institutions
+- **Colonial Subtext**: Representation of British justice system imposed on other cultures
+- **Feminist Critique**: Space dominated by male figures, excluding female voices
+- **LGBTQ+ Perspective**: Place for enforcing heteronormative social rules
 
-### 🐅 Shere Khan - Tygrys Bez Prawa
-**Symbolika pierwotna**: Główny antagonista reprezentuje brak cywilizacji, zasad i porządku prawnego.
+### 🐅 Shere Khan - The Lawless Tiger
+**Primary Symbolism**: Main antagonist representing lack of civilization, rules, and legal order.
 
-**Interpretacje postkolonialne**:
-- **Orientalny stereotyp**: Ucieleśnienie zachodnich wyobrażeń o "dzikim Wschodzie"
-- **Opór przeciw kolonializmowi**: Można czytać jako symbol rodzimego oporu wobec obcej władzy
-- **Krytyka imperializmu**: Reprezentuje siły chaosu, które imperium musi "ucywilizować"
-- **Współczesna reinterpretacja**: Symbol systemowego rasizmu i wykluczenia społecznego
+**Postcolonial Interpretations**:
+- **Oriental Stereotype**: Embodiment of Western imaginings about the "wild East"
+- **Anti-colonial Resistance**: Can be read as symbol of native resistance to foreign rule
+- **Imperial Critique**: Represents forces of chaos that empire must "civilize"
+- **Contemporary Reinterpretation**: Symbol of systemic racism and social exclusion
 
-### 👶 Mowgli - Dziecko-Człowiek
-**Symbolika pierwotna**: Człowiek wychowany przez wilki, reprezentuje połączenie natury i cywilizacji.
+### 👶 Mowgli - The Man-Child
+**Primary Symbolism**: Human raised by wolves, representing the connection between nature and civilization.
 
-**Interpretacje wielokulturowe**:
-- **Kolonialna alegoria**: Symbol białego kolonizatora "naturalnie" panującego nad tubylcami
-- **Queer reading**: Postać liminalna, niepasująca do binarnych kategorii społecznych
-- **Non-binary interpretacja**: Mowgli jako symbol płynnej tożsamości, przekraczającej granice gender
-- **Psychoanalityczna**: Archetyp "wiecznego dziecka" (puer aeternus) w ujęciu Jungowskim
+**Multicultural Interpretations**:
+- **Colonial Allegory**: Symbol of white colonizer "naturally" ruling over natives
+- **Queer Reading**: Liminal figure not fitting into binary social categories
+- **Non-binary Interpretation**: Mowgli as symbol of fluid identity transcending gender boundaries
+- **Psychoanalytical**: Archetype of "eternal child" (puer aeternus) in Jungian terms
 
-## 2. Archetypy jungowskie w dziele
+## 2. Jungian Archetypes in the Work
 
-### 🐆 Bagheera - Cień (Shadow)
-**Analiza archetype'owa**: Bagheera reprezentuje jedną połowę archetypu "mądrego starca" - tę część, która jest nierozerwalnie związana z Cieniem.
+### 🐆 Bagheera - The Shadow
+**Archetypal Analysis**: Bagheera represents one half of the "wise old man" archetype - the part inseparably connected with the Shadow.
 
-**Interpretacje psychologiczne**:
-- **Pozytywny przewodnik**: Jungowski "pozytywny doradca lucyferański"
-- **Ciemna strona psyche**: Reprezentuje nieświadome aspekty osobowości służące rozwojowi
-- **Mentor liminalny**: Przeprowadza Mowgli przez granice między światami
-- **Symbol integracji**: Pomaga w integracji świadomych i nieświadomych aspektów tożsamości
+**Psychological Interpretations**:
+- **Positive Guide**: Jungian "positive luciferian advisor"
+- **Dark Side of Psyche**: Represents unconscious aspects of personality serving development
+- **Liminal Mentor**: Guides Mowgli through boundaries between worlds
+- **Symbol of Integration**: Helps integrate conscious and unconscious aspects of identity
 
-### 🐻 Baloo - Mądry Starzec
-**Analiza archetype'owa**: Reprezentuje drugą połowę archetypu "mądrego starca", często pojawiającego się w formie wielkiego niedźwiedzia.
+### 🐻 Baloo - The Wise Old Man
+**Archetypal Analysis**: Represents the other half of the "wise old man" archetype, often appearing in the form of a great bear.
 
-**Współczesne odczytania**:
-- **Przeciwieństwo Disney'a**: W oryginale to surowy nauczyciel, nie komediowy bohater
-- **Symbol tradycyjnej edukacji**: Reprezentuje przekazywanie wiedzy między pokoleniami
-- **Patriarchalna mądrość**: Krytyka feministyczna widzi w nim symbol męskiej dominacji intelektualnej
-- **Inclusive masculinity**: Może być czytany jako pozytywny model alternatywnej męskości
+**Contemporary Readings**:
+- **Opposite of Disney**: In original, a stern teacher, not comedic character
+- **Symbol of Traditional Education**: Represents knowledge transmission between generations
+- **Patriarchal Wisdom**: Feminist critique sees symbol of masculine intellectual dominance
+- **Inclusive Masculinity**: Can be read as positive model of alternative masculinity
 
-### 🐺 Matka Wilczyca - Archetyp Matki
-**Symbolika pierwotna**: Nurturing archetype, która przyjmuje Mowgli i wychowuje go jako własne dziecko.
+### 🐺 Mother Wolf - The Mother Archetype
+**Primary Symbolism**: Nurturing archetype who adopts Mowgli and raises him as her own child.
 
-**Interpretacje feministyczne**:
-- **Matka zastępcza**: Symbol kobiecego poświęcenia dla cudzego dziecka
-- **Siła ochronna**: Reprezentuje pierwotną, instynktowną siłę macierzyńską
-- **Krytyka ograniczeń**: Redukcja kobiecości do funkcji macierzyńskiej
-- **Ecofeminism**: Symboliczne połączenie kobiecości z naturą przeciw męskiej cywilizacji
+**Feminist Interpretations**:
+- **Surrogate Mother**: Symbol of female sacrifice for another's child
+- **Protective Force**: Represents primitive, instinctual maternal strength
+- **Critique of Limitations**: Reduction of femininity to maternal function
+- **Ecofeminism**: Symbolic connection of femininity with nature against masculine civilization
 
-## 3. Tematy uniwersalne i kulturowe interpretacje
+## 3. Universal Themes and Cultural Interpretations
 
-### ⚖️ Prawo Dżungli
-**Interpretacje klasyczne**: System moralny i społeczny regulujący życie w dżungli.
+### ⚖️ The Law of the Jungle
+**Classical Interpretations**: Moral and social system regulating life in the jungle.
 
-**Współczesne odczytania**:
-- **Krytyka kolonialna**: Alegoria brytyjskich rządów w Indiach - "cywilizowani" rządzą "dzikimi"
-- **Kapitalistyczna konkurencja**: Prawo najsilniejszego w neoliberalnym społeczeństwie
-- **Queer theory**: System heteronormatywnych reguł wymuszających konformizm
-- **Anarchistyczna interpretacja**: Przykład samorządności bez państwowej przemocy
+**Contemporary Readings**:
+- **Colonial Critique**: Allegory of British rule in India - "civilized" ruling "savages"
+- **Capitalist Competition**: Law of the strongest in neoliberal society
+- **Queer Theory**: System of heteronormative rules enforcing conformity
+- **Anarchist Interpretation**: Example of self-governance without state violence
 
-### 🏠 Opuszczenie i Adopcja
-**Tema uniwersalna**: Historia Mowgli odzwierciedla doświadczenie opuszczenia i zastępczego rodzicielstwa.
+### 🏠 Abandonment and Adoption
+**Universal Theme**: Mowgli's story reflects experience of abandonment and foster parenting.
 
-**Interpretacje psychologiczne**:
-- **Trauma rozwojowa**: Wpływ wczesnego opuszczenia na kształtowanie tożsamości
-- **Resilience**: Zdolność dzieci do adaptacji w nowych środowiskach
-- **Teoria przywiązania**: Różne style przywiązania w relacjach z zastępczymi opiekunami
-- **LGBTQ+ chosen families**: Metafora dla tworzenia rodzin z wyboru przez osoby queer
+**Psychological Interpretations**:
+- **Developmental Trauma**: Impact of early abandonment on identity formation
+- **Resilience**: Children's ability to adapt in new environments
+- **Attachment Theory**: Different attachment styles in relationships with foster caregivers
+- **LGBTQ+ Chosen Families**: Metaphor for creating families of choice by queer people
 
-### 🌱 Dojrzewanie i Inicjacja
-**Interpretacje rozwojowe**: Mowgli przechodzi przez rytual przejścia z dzieciństwa do dorosłości.
+### 🌱 Coming of Age and Initiation
+**Developmental Interpretations**: Mowgli undergoes ritual passage from childhood to adulthood.
 
-**Kulturowe perspektywy**:
-- **Zachodnia adolescencja**: Proces separacji od rodziny i budowania własnej tożsamości
-- **Tribal initiation**: Nawiązania do rytuałów przejścia w kulturach tradycyjnych
-- **Gender transition**: Może być interpretowane jako metafora tranzycji płciowej
-- **Neurodivergence**: Historia osoby "innej" uczącej się funkcjonować w społeczeństwie
+**Cultural Perspectives**:
+- **Western Adolescence**: Process of separation from family and building own identity
+- **Tribal Initiation**: References to rites of passage in traditional cultures
+- **Gender Transition**: Can be interpreted as metaphor for gender transition
+- **Neurodivergence**: Story of "different" person learning to function in society
 
-## 4. Interpretacje postkolonialne
+## 4. Postcolonial Interpretations
 
-### 🏛️ Orientalizm Edwarda Saida
-**Krytyka akademicka**: Księga Dżungli jako przykład orientalistycznych stereotypów zachodnich.
+### 🏛️ Edward Said's Orientalism
+**Academic Critique**: The Jungle Book as example of Western orientalist stereotypes.
 
-**Analiza władzy**:
-- **Tworzenie "Innego"**: Reprezentacja Indii przez pryzmat zachodnich wyobrażeń
-- **Kulturowa dominacja**: Literatura jako narzędzie utrzymywania kolonialnej hegemonii
-- **Stereotypy rasowe**: Zwierzęta reprezentują różne orientalistyczne tropy
-- **Biały Savior Complex**: Mowgli jako "cywilizator" kierujący "dzikimi" zwierzętami
+**Power Analysis**:
+- **Creating the "Other"**: Representation of India through Western imaginings
+- **Cultural Dominance**: Literature as tool for maintaining colonial hegemony
+- **Racial Stereotypes**: Animals represent different orientalist tropes
+- **White Savior Complex**: Mowgli as "civilizer" directing "wild" animals
 
-### 🔄 Kontrapunktowe Czytanie
-**Metodologia**: Analiza dzieła uwzględniająca perspektywy skolonizowanych.
+### 🔄 Contrapuntal Reading
+**Methodology**: Analysis of work considering perspectives of the colonized.
 
-**Alternatywne interpretacje**:
-- **Opór przeciw kolonializmowi**: Shere Khan jako symbol rodzimego sprzeciwu
-- **Tożsamość hybrydowa**: Mowgli jako reprezentacja skomplikowanej tożsamości kolonialnej
-- **Dekonstrukcja hierarchii**: Kwestionowanie "naturalnej" dominacji człowieka nad naturą
-- **Indigenous perspectives**: Reinterpretacja z punktu widzenia rdzennych ludów Indii
+**Alternative Interpretations**:
+- **Anti-colonial Resistance**: Shere Khan as symbol of native opposition
+- **Hybrid Identity**: Mowgli as representation of complicated colonial identity
+- **Hierarchy Deconstruction**: Questioning "natural" human dominance over nature
+- **Indigenous Perspectives**: Reinterpretation from viewpoint of India's indigenous peoples
 
-## 5. Współczesne reinterpretacje feministyczne
+## 5. Contemporary Feminist Reinterpretations
 
-### 👩‍⚖️ Krytyka Patriarchalnych Struktur
-**Analiza władzy**: Dominacja męskich postaci i marginalizacja kobiecych głosów.
+### 👩‍⚖️ Critique of Patriarchal Structures
+**Power Analysis**: Dominance of male characters and marginalization of female voices.
 
-**Feministyczne perspective**:
-- **Toxic masculinity**: Shere Khan jako przykład destrukcyjnej męskości
-- **Alternative masculinities**: Baloo i Bagheera jako pozytywne modele męskości
-- **Maternal sacrifice**: Krytyka idealizacji macierzyńskiego poświęcenia
-- **Women's agency**: Brak kobiecych postaci o sprawczości i autonomii
+**Feminist Perspectives**:
+- **Toxic Masculinity**: Shere Khan as example of destructive masculinity
+- **Alternative Masculinities**: Baloo and Bagheera as positive models of masculinity
+- **Maternal Sacrifice**: Critique of idealization of maternal sacrifice
+- **Women's Agency**: Lack of female characters with agency and autonomy
 
-### 🌍 Ekofeminizm
-**Teoretyczne podstawy**: Analiza połączeń między dominacją kobiet i natury.
+### 🌍 Ecofeminism
+**Theoretical Foundation**: Analysis of connections between domination of women and nature.
 
-**Interpretacje ekofeminiczne**:
-- **Natura jako kobieca**: Dżungla reprezentowana przez kobiecości archetypy
-- **Męska kolonizacja**: Człowiek-mężczyzna dominuje nad kobiecą naturą
-- **Holistic worldview**: Alternatywna wizja harmonii między człowiekiem a naturą
-- **Environmental justice**: Krytyka eksploatacji zarówno kobiet jak i środowiska
+**Ecofeminist Interpretations**:
+- **Nature as Feminine**: Jungle represented through feminine archetypes
+- **Masculine Colonization**: Man-male dominates over feminine nature
+- **Holistic Worldview**: Alternative vision of harmony between human and nature
+- **Environmental Justice**: Critique of exploitation of both women and environment
 
-## 6. LGBTQ+ i queer interpretacje
+## 6. LGBTQ+ and Queer Interpretations
 
 ### 🌈 Queer Childhood
-**Teoretyczne podstawy**: Jack Halberstam o "essencjalnie queer" doświadczeniu dzieciństwa.
+**Theoretical Foundation**: Jack Halberstam on "essentially queer" experience of childhood.
 
-**Queer readings**:
-- **Liminal identity**: Mowgli jako postać niebinarna, niepasująca do kategorii
-- **Queer kinship**: Alternatywne struktury rodzinne w dżungli
-- **Heteronormative ending**: Krytyka przymusowo heteroseksualnego zakończenia
-- **Gender fluidity**: Interpretacje płynności płciowej w postaciach zwierząt
+**Queer Readings**:
+- **Liminal Identity**: Mowgli as non-binary figure not fitting categories
+- **Queer Kinship**: Alternative family structures in jungle
+- **Heteronormative Ending**: Critique of forced heterosexual conclusion
+- **Gender Fluidity**: Interpretations of gender fluidity in animal characters
 
-### 🏳️‍⚧️ Trans i Non-Binary Interpretacje
-**Współczesne odczytania**: Mowgli jako figura przekraczająca binarne kategorie.
+### 🏳️‍⚧️ Trans and Non-Binary Interpretations
+**Contemporary Readings**: Mowgli as figure transcending binary categories.
 
-**Trans perspectives**:
-- **Species dysphoria**: Metafora dla doświadczenia dysforii płciowej
-- **Transition narrative**: Historia przejścia między różnymi tożsamościami
-- **Chosen family**: Dżungla jako przestrzeń akceptacji dla "innych"
-- **Deadnaming**: "Man-cub" jako poprzednia tożsamość do odrzucenia
+**Trans Perspectives**:
+- **Species Dysphoria**: Metaphor for experience of gender dysphoria
+- **Transition Narrative**: Story of passage between different identities
+- **Chosen Family**: Jungle as space of acceptance for "others"
+- **Deadnaming**: "Man-cub" as previous identity to be rejected
 
-## 7. Różnice kulturowe w interpretacjach
+## 7. Cultural Differences in Interpretations
 
-### 🎭 Disney vs. Kipling - Transformacje Znaczeń
-**Kluczowe różnice**: Walt Disney: "Pierwszą rzeczą do zrobienia jest jej nie czytanie" o książce Kiplinga.
+### 🎭 Disney vs. Kipling - Meaning Transformations
+**Key Differences**: Walt Disney: "The first thing to do is not read it" about Kipling's book.
 
-**Porównawcze analizy**:
-- **Kaa**: Od mądrego sojusznika do komediowego złoczyńcy
-- **Baloo**: Od surowego nauczyciela do leniwego przyjaciela
-- **Shere Khan**: Od słabego antagonisty do groźnego drapieżnika
-- **Ogólny ton**: Od moralnych basni do lekkiej rozrywki familijnej
+**Comparative Analyses**:
+- **Kaa**: From wise ally to comedic villain
+- **Baloo**: From stern teacher to lazy friend
+- **Shere Khan**: From weak antagonist to threatening predator
+- **Overall Tone**: From moral fables to light family entertainment
 
-### 🌏 Międzynarodowe Adaptacje
-**Różnorodne perspektywy**: Jak różne kultury reinterpretują podstawowe symbole.
+### 🌏 International Adaptations
+**Diverse Perspectives**: How different cultures reinterpret basic symbols.
 
-**Kulturowe warianty**:
-- **Japońskie anime** (1989): Kompromis między Kiplingiem a Disney'em
-- **Indyjskie interpretacje**: Krytyka kolonialnych stereotypów
-- **Europejskie czytania**: Fokus na aspekty psychologiczne i symboliczne
-- **Współczesne Hollywood**: Próby balance'u nostalgii z political correctness
+**Cultural Variants**:
+- **Japanese Anime** (1989): Compromise between Kipling and Disney
+- **Indian Interpretations**: Critique of colonial stereotypes
+- **European Readings**: Focus on psychological and symbolic aspects
+- **Contemporary Hollywood**: Attempts to balance nostalgia with political correctness
 
-## 8. Psychoanalityczne głębokie znaczenia
+## 8. Psychoanalytical Deep Meanings
 
-### 🧠 Analiza Lacanowska
-**Struktury językowe**: Rola języka w konstruowaniu tożsamości Mowgli.
+### 🧠 Lacanian Analysis
+**Linguistic Structures**: Role of language in constructing Mowgli's identity.
 
-**Psychoanalityczne interpretacje**:
-- **Symboliczny porządek**: Język jako klucz do przynależności społecznej
-- **Lack i desire**: Mowgli jako podmiot pragnienia przynależności
-- **Mirror stage**: Rozpoznawanie siebie jako "innego" niż zwierzęta
-- **Name-of-the-Father**: Akela jako symboliczny ojciec ustalający prawo
+**Psychoanalytical Interpretations**:
+- **Symbolic Order**: Language as key to social belonging
+- **Lack and Desire**: Mowgli as subject of desire for belonging
+- **Mirror Stage**: Recognizing self as "other" than animals
+- **Name-of-the-Father**: Akela as symbolic father establishing law
 
-### 🌙 Nieświadomość Zbiorowa
-**Jungowskie archetypy**: Uniwersalne wzorce w nieświadomości zbiorowej.
+### 🌙 Collective Unconscious
+**Jungian Archetypes**: Universal patterns in collective unconscious.
 
-**Archetypy w akcji**:
-- **Individuation process**: Droga Mowgli jako proces indywiduacji
-- **Anima i animus**: Brak integracji przeciwstawnych aspektów psyche
-- **Collective shadow**: Shere Khan jako projekcja społecznego cienia
-- **Self**: Ostateczna integracja wszystkich aspektów tożsamości
+**Archetypes in Action**:
+- **Individuation Process**: Mowgli's journey as individuation process
+- **Anima and Animus**: Lack of integration of opposing psyche aspects
+- **Collective Shadow**: Shere Khan as projection of social shadow
+- **Self**: Ultimate integration of all identity aspects
 
-## 9. Współczesne reinterpretacje społeczno-polityczne
+## 9. Contemporary Socio-Political Reinterpretations
 
-### 🌍 Globalizacja i Tożsamość
-**XXI-wieczne czytania**: Mowgli jako symbol dylematów globalnej tożsamości.
+### 🌍 Globalization and Identity
+**21st Century Readings**: Mowgli as symbol of global identity dilemmas.
 
-**Współczesne perspektywy**:
-- **Migration narratives**: Historia migrantów między kulturami
-- **Cultural hybridity**: Tożsamość w zglobalizowanym świecie
-- **Environmental crisis**: Konflikt między cywilizacją a naturą
-- **Digital natives**: Dzieci wychowane w przestrzeni cyfrowej
+**Contemporary Perspectives**:
+- **Migration Narratives**: Story of migrants between cultures
+- **Cultural Hybridity**: Identity in globalized world
+- **Environmental Crisis**: Conflict between civilization and nature
+- **Digital Natives**: Children raised in digital space
 
-### ⚖️ Social Justice Interpretacje
-**Krytyczne czytania**: Analiza struktur władzy i opresji.
+### ⚖️ Social Justice Interpretations
+**Critical Readings**: Analysis of power structures and oppression.
 
-**Aktywistyczne perspective**:
-- **Intersectionality**: Przecinające się systemy opresji
-- **Decolonizing literature**: Odzyskiwanie głosu kolonizowanych
-- **Climate justice**: Prawa natury i zwierząt
-- **Refugee experiences**: Mowgli jako współczesny uchodźca
+**Activist Perspectives**:
+- **Intersectionality**: Intersecting systems of oppression
+- **Decolonizing Literature**: Reclaiming voice of the colonized
+- **Climate Justice**: Rights of nature and animals
+- **Refugee Experiences**: Mowgli as contemporary refugee
 
-## 10. Znaczenia ukryte i przeoczyane
+## 10. Hidden and Overlooked Meanings
 
-### 🔍 Subtelne Symbole
-**Łatwe do przegapienia**: Elementy wymagające głębszej analizy.
+### 🔍 Subtle Symbols
+**Easy to Miss**: Elements requiring deeper analysis.
 
-**Ukryte warstwy**:
-- **Mang the Bat**: Liminalna postać mogąca podróżować między światami
-- **The Red Dog**: Symbol obcej inwazji i zagrożenia dla wspólnoty
-- **Water truce**: Czasowe zawieszenie konfliktów w obliczu kryzysu
-- **The Stranger's Hunting Call**: Prawo gościnności i reciprocity
+**Hidden Layers**:
+- **Mang the Bat**: Liminal figure able to travel between worlds
+- **The Red Dog**: Symbol of foreign invasion and community threat
+- **Water Truce**: Temporary suspension of conflicts in face of crisis
+- **The Stranger's Hunting Call**: Law of hospitality and reciprocity
 
-### 🎭 Ironiczne Znaczenia
-**Podwójne czytania**: Gdy powierzchniowe znaczenie skrywa głębsze.
+### 🎭 Ironic Meanings
+**Double Readings**: When surface meaning hides deeper ones.
 
-**Ironiczne warstwy**:
-- **"Noble savage"**: Krytyka romantyzacji życia pierwotnego
-- **Civilizing mission**: Ironia kolonialnego "cywilizowania"
-- **Natural hierarchy**: Dekonstrukcja "naturalnej" dominacji
-- **Children's innocence**: Podważanie mitu o niewinności dzieciństwa
+**Ironic Layers**:
+- **"Noble Savage"**: Critique of romanticization of primitive life
+- **Civilizing Mission**: Irony of colonial "civilizing"
+- **Natural Hierarchy**: Deconstruction of "natural" dominance
+- **Children's Innocence**: Undermining myth of childhood innocence
 
-## 11. Ewolucja interpretacji na przestrzeni lat
+## 11. Evolution of Interpretations Over Time
 
-### 📚 1894-1950: Era Imperialna
-**Oryginalne czytania**: Księga jako propaganda imperialna i podręcznik moralny.
+### 📚 1894-1950: Imperial Era
+**Original Readings**: Book as imperial propaganda and moral handbook.
 
-**Historyczne interpretacje**:
-- **Boy Scout movement**: Baden-Powell inspiruje się prawem dżungli
-- **Colonial education**: Używana do nauczania "właściwych" wartości
-- **Racial hierarchy**: Akceptacja "naturalnych" hierarchii rasowych
-- **Gender roles**: Umacnianie tradycyjnych ról płciowych
+**Historical Interpretations**:
+- **Boy Scout Movement**: Baden-Powell inspired by jungle law
+- **Colonial Education**: Used to teach "proper" values
+- **Racial Hierarchy**: Acceptance of "natural" racial hierarchies
+- **Gender Roles**: Reinforcement of traditional gender roles
 
-### 🌊 1960-1980: Era Kontrkultury
-**Rewizjonistyczne czytania**: Krytyka kolonialnych założeń i odkrywanie nowych znaczeń.
+### 🌊 1960-1980: Counterculture Era
+**Revisionist Readings**: Critique of colonial assumptions and discovery of new meanings.
 
-**Kontrkuturowe interpretacje**:
-- **Anti-establishment**: Dżungla jako alternatywa dla społeczeństwa
-- **Environmental movement**: Wczesne przesłanie ekologiczne
-- **Psychedelic readings**: Podróż w głąb psyche i świadomości
-- **Children's rights**: Dziecko jako podmiot z własnymi prawami
+**Countercultural Interpretations**:
+- **Anti-establishment**: Jungle as alternative to society
+- **Environmental Movement**: Early ecological message
+- **Psychedelic Readings**: Journey into depths of psyche and consciousness
+- **Children's Rights**: Child as subject with own rights
 
-### 🔄 1990-2010: Era Postkolonialna
-**Akademickie dekonstrukcje**: Systematyczna krytyka kolonialnych założeń.
+### 🔄 1990-2010: Postcolonial Era
+**Academic Deconstructions**: Systematic critique of colonial assumptions.
 
-**Postkolonialne analizy**:
-- **Subaltern studies**: Odzyskiwanie głosów zmarginalizowanych
-- **Orientalism critique**: Dekonstrukcja zachodnich stereotypów
-- **Hybridity theory**: Tożsamość jako płynna i wielowarstwowa
-- **Counter-narratives**: Alternatywne historie i perspektywy
+**Postcolonial Analyses**:
+- **Subaltern Studies**: Reclaiming voices of marginalized
+- **Orientalism Critique**: Deconstruction of Western stereotypes
+- **Hybridity Theory**: Identity as fluid and multi-layered
+- **Counter-narratives**: Alternative histories and perspectives
 
-### 🌐 2010-dziś: Era Cyfrowa i Intersectional
-**Wielowarstwowe interpretacje**: Integracja różnych krytycznych perspektyw.
+### 🌐 2010-Present: Digital and Intersectional Era
+**Multi-layered Interpretations**: Integration of different critical perspectives.
 
-**Współczesne trendy**:
-- **Digital humanities**: Nowe narzędzia analizy tekstów
-- **Intersectional analysis**: Uwzględnienie multiple oppressions
-- **Climate fiction**: Reinterpretacja przez pryzmat kryzysu klimatycznego
-- **Neurodiversity**: Mowgli jako reprezentacja neurodivergent experiences
+**Contemporary Trends**:
+- **Digital Humanities**: New tools for text analysis
+- **Intersectional Analysis**: Consideration of multiple oppressions
+- **Climate Fiction**: Reinterpretation through climate crisis lens
+- **Neurodiversity**: Mowgli as representation of neurodivergent experiences
 
-## 12. Wpływ na współczesną kulturę
+## 12. Impact on Contemporary Culture
 
-### 🎬 Adaptacje i Reinterpretacje
-**Kulturowy impact**: Jak współczesne adaptacje zmieniają znaczenia.
+### 🎬 Adaptations and Reinterpretations
+**Cultural Impact**: How contemporary adaptations change meanings.
 
-**Media transformations**:
-- **Netflix's Mowgli** (2018): Próba powrotu do ciemniejszych tonów Kiplinga
-- **Video games**: Interaktywne eksploracje tematów tożsamości
-- **Graphic novels**: Wizualne reinterpretacje symbolicznych warstw
-- **Stage adaptations**: Teatralne eksperymenty z gender i casting
+**Media Transformations**:
+- **Netflix's Mowgli** (2018): Attempt to return to Kipling's darker tones
+- **Video Games**: Interactive explorations of identity themes
+- **Graphic Novels**: Visual reinterpretations of symbolic layers
+- **Stage Adaptations**: Theatrical experiments with gender and casting
 
-### 📱 Memes i Internet Culture
-**Popkulturowe transformacje**: Jak internet zmienia znaczenia klasycznych symboli.
+### 📱 Memes and Internet Culture
+**Pop Cultural Transformations**: How internet changes meanings of classic symbols.
 
-**Digital reinterpretations**:
-- **"Bare Necessities" memes**: Krytyka kapitalistycznego konsumpcjonizmu
-- **Shere Khan jako Karen**: Reprezentacja entitled behavior
-- **Mowgli wojak**: Symbol outsiderstwa w kultur internetowej
-- **Rule 34 transformations**: Seksualizacja dziecięcych postaci jako problematyczna
+**Digital Reinterpretations**:
+- **"Bare Necessities" Memes**: Critique of capitalist consumerism
+- **Shere Khan as Karen**: Representation of entitled behavior
+- **Mowgli Wojak**: Symbol of outsider status in internet culture
+- **Rule 34 Transformations**: Sexualization of child characters as problematic
 
-## Podsumowanie
+## Summary
 
-"Księga dżungli" Rudyarda Kiplinga pozostaje jednym z najbogatszych symbolicznie dzieł literatury światowej. Pierwotnie stworzona jako zbiór moralnych basni w kontekście imperializmu brytyjskiego, księga ewoluowała w kierunku wielowarstwowego tekstu, który różne kultury i epoki interpretują zgodnie z własnymi wartościami i potrzebami.
+Rudyard Kipling's "The Jungle Book" remains one of the most symbolically rich works in world literature. Originally created as a collection of moral fables in the context of British imperialism, the book has evolved into a multi-layered text that different cultures and eras interpret according to their own values and needs.
 
-Kluczowe symbole - ogień, Skała Rady, Shere Khan, sam Mowgli - funkcjonują jako polityczne, psychologiczne, kulturowe i społeczne metafory, które rezonują z czytelnymi na różnych poziomach świadomości. Od kolonialnych alegorii przez jungowskie archetypy po queer interpretacje, dzieło oferuje bogactwo znaczeń, które czyni je żywym i releventnym dla kolejnych pokoleń.
+Key symbols - fire, Council Rock, Shere Khan, Mowgli himself - function as political, psychological, cultural, and social metaphors that resonate with readers on different levels of consciousness. From colonial allegories through Jungian archetypes to queer interpretations, the work offers a wealth of meanings that makes it living and relevant for successive generations.
 
-Współczesne reinterpretacje - feministyczne, postkolonialne, LGBTQ+, ekologiczne - nie tylko dekonstruują pierwotne imperialne przesłanie, ale tworzą nowe warstwy znaczeń, które odpowiadają na wyzwania XXI wieku. Mowgli staje się symbolem każdego, kto szuka swojego miejsca w świecie - od migrantów przez osoby neurodivergent po członków społeczności LGBTQ+.
+Contemporary reinterpretations - feminist, postcolonial, LGBTQ+, ecological - not only deconstruct the original imperial message but create new layers of meaning that respond to 21st-century challenges. Mowgli becomes a symbol for everyone seeking their place in the world - from migrants through neurodivergent individuals to LGBTQ+ community members.
 
-Ta ewolucja interpretacji pokazuje, że wielkie dzieła literatury żyją właśnie dzięki zdolności do generowania nowych znaczeń w zmieniających się kontekstach kulturowych. "Księga dżungli" pozostaje więc nie tylko historycznym dokumentem imperialnej epoki, ale żywym, transformatywnym tekstem, który nadal ma coś istotnego do powiedzenia współczesnym czytelnikom.
+This evolution of interpretations shows that great works of literature live precisely through their ability to generate new meanings in changing cultural contexts. "The Jungle Book" thus remains not only a historical document of the imperial era but a living, transformative text that still has something essential to say to contemporary readers.

@@ -4,3 +4,174 @@ book_info:
   author: "Bram Stoker"
   year: 1897
   genre: "Gothic,Horror"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T14:30:00Z"
+
+  scores:
+    controversy: 8.0
+    philosophical_depth: 9.0
+    cultural_phenomenon: 10.0
+    contemporary_reception: 8.0
+    relevance: 9.0
+    innovation: 9.0
+    structural_complexity: 8.0
+    social_roles: 8.0
+    total: 69.0
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 8.5
+      category: "high"
+
+  themes:
+    universal:
+      - id: "vampire_archetype"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Created the modern vampire archetype that defines the entire genre - aristocratic, hypnotic, transformative powers"
+        source: "culture_impact"
+      - id: "gothic_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary epistolary polyphonic structure with multiple narrators and documentary realism"
+        source: "writing_innovation"
+      - id: "colonial_anxiety"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Embodies Victorian fears of reverse colonization and Eastern European invasion of Western civilization"
+        source: "symbols_meanings"
+      - id: "sexual_repression"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Vampire bite as metaphor for repressed Victorian sexuality and transgressive desires"
+        source: "symbols_meanings"
+      - id: "anti_semitic_controversy"
+        type: "BOMBSHELL"
+        credibility: 0.85
+        content: "Contains problematic stereotypes and blood libel imagery causing ongoing content warnings"
+        source: "dark_drama"
+      - id: "technological_prophecy"
+        type: "FACT"
+        credibility: 0.90
+        content: "Predicted multimedia storytelling, global collaboration technology, and pandemic anxieties"
+        source: "reality_wisdom"
+      - id: "contemporary_relevance"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Digital vampirism metaphors, mental health symbolism, and 16.4M TikTok #VampCore posts"
+        source: "youth_digital"
+      - id: "academic_scholarship"
+        type: "FACT"
+        credibility: 0.95
+        content: "Extensive academic analysis through multiple critical lenses: psychoanalytic, postcolonial, feminist, Marxist"
+        source: "symbols_meanings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in Western literature with continuous West End and Broadway adaptations"
+        key_editions: ["Norton Critical Edition", "DK Collector's Classics", "Blackstone full-cast audiobook"]
+        reception_notes: "Strong academic tradition with university curricula and Gothic tourism in Whitby"
+        educational_status: "Standard text in Gothic literature courses"
+        local_themes: ["Imperial anxiety", "Scientific rationalism vs. superstition", "Anglican vs. Catholic symbolism"]
+      pl:
+        cultural_impact: "Delayed publication due to Communist censorship, rapid adoption post-1989 transition"
+        key_editions: ["Vesper collector hardcovers", "Zielona Sowa mass paperbacks", "Seven distinct translations"]
+        reception_notes: "Strong theatre presence with Teatr Wielki ballet and Warsaw musical productions"
+        educational_status: "Supplemental reading in Gothic units, not mandatory curriculum"
+        local_themes: ["Post-communist readings", "Religious symbolism in Catholic context", "Slavic vampire folklore contrasts"]
+      de:
+        cultural_impact: "Foundational role in German Expressionist cinema via Nosferatu, continuing with 2025 Eggers remake"
+        key_editions: ["Insel Verlag scholarly editions", "Karl May Publishing adventure line placement"]
+        reception_notes: "Strong theatre tradition with Tanz der Vampire touring productions"
+        educational_status: "Standard in Anglistik Gothic literature seminars"
+        local_themes: ["Expressionist visual influence", "Philosophical interpretations", "Tourism connection to Wismar filming locations"]
+      fr:
+        cultural_impact: "Strong theatrical tradition with Théâtre Mogador productions and Luc Besson film adaptations"
+        key_editions: ["Stage Entertainment merchandising", "Educational platform Lumni classroom guides"]
+        reception_notes: "Integration with French cinephile culture and Gothic tourism"
+        educational_status: "Used in Gothic cinema seminars and adaptation studies"
+        local_themes: ["Romantic Gothic interpretation", "Cinematic auteur treatments", "Gothic opera traditions"]
+      es:
+        cultural_impact: "Strong presence in Spanish publishing with annual Planeta republications and Sitges Film Festival prominence"
+        key_editions: ["Minotauro fresh translations", "RBA Colección Gótica", "Latin American Planeta editions"]
+        reception_notes: "Cross-Atlantic engagement from Spain to Argentina with educational integration"
+        educational_status: "High school literature curricula in Mexico, university Gothic modules"
+        local_themes: ["Franco-era film adaptations", "Iberian Gothic traditions", "Pan-Hispanic educational use"]
+      pt:
+        cultural_impact: "Premium publishing focus with DarkSide Books deluxe editions and theater productions"
+        key_editions: ["DarkSide Dark Deluxe slipcased", "Companhia das Letras annotated", "Porto Editora European Portuguese"]
+        reception_notes: "Strong São Paulo theater scene and Portuguese academic integration"
+        educational_status: "University Gothic seminars and translation workshops"
+        local_themes: ["Lusophone Gothic connections", "Brazilian vs European Portuguese adaptations", "Carnival season theater integration"]
+      ja:
+        cultural_impact: "Takarazuka Revue adaptations and manga reinterpretations with #DRCL midnight children"
+        key_editions: ["Kadokawa mass market", "Shinchosha academic hardbacks", "Bilingual Eiken readers"]
+        reception_notes: "Cross-media presence from Takarazuka to VR attractions and gothic cafés"
+        educational_status: "Gothic seminar coursework and NHK educational programming"
+        local_themes: ["Manga steampunk adaptations", "All-female theater traditions", "Tech-enabled horror experiences"]
+      ko:
+        cultural_impact: "EMK Musical Company blockbuster productions with K-pop idol casting and nationwide cinema releases"
+        key_editions: ["Munhakdongne Penguin Select", "YES24 ebook subscriptions", "Academic commentary editions"]
+        reception_notes: "Hallyu musical exports to Japan and China with robust social media fandom"
+        educational_status: "University Gothic literature and adaptation studies"
+        local_themes: ["K-pop crossover appeal", "Hanok village Gothic tourism", "Comparative Korean modernization themes"]
+      hi:
+        cultural_impact: "Growing digital presence with Hindi audio dramas and regional film parodies"
+        key_editions: ["Rupa Publications affordable classics", "Kobo Plus audiobooks", "Academic distance learning materials"]
+        reception_notes: "Book café communities and literary festival panels on vampire folklore"
+        educational_status: "BA English Gothic modules and postgraduate literature programs"
+        local_themes: ["Colonial discourse analysis", "Subcontinental vampire folklore comparisons", "Empire anxiety parallels"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Revolutionary epistolary polyphonic structure with multiple narrators and documentary realism"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Embodying Victorian fears of reverse colonization and Eastern European invasion"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Vampire bite as metaphor for repressed Victorian sexuality and transgressive desires"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Problematic stereotypes and blood libel imagery causing ongoing content warnings"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "conclusion"
+          lead: "host_a"
+          description: "Extensive academic analysis through multiple critical lenses: psychoanalytic, postcolonial, feminist"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'Dracula' with scholarly depth. Discuss structure, symbolism, literary techniques. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples, connect to literary theories, ensure accessibility."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["anti-Semitic language and imagery", "xenophobic portrayals of Eastern Europeans", "sexual coercion and bodily invasion", "physical violence and torture", "rigid Victorian gender roles"]
+    educational_elements: ["Gothic genre characteristics", "Historical context of 1897", "Epistolary narrative technique", "Victorian anxieties about empire", "Psychological horror methodology"]
+    production_notes:
+      intro_style: "Gothic atmospheric with Victorian scholarly tone"
+      transitions: "subtle musical bridges with period instrumentation"
+      outro_style: "academic synthesis with contemporary relevance"
+
+  overall_confidence: 0.92

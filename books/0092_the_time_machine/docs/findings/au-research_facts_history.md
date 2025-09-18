@@ -1,137 +1,137 @@
-# "Wehikuł czasu" - Fascynujące fakty i historia powstania
+# "The Time Machine" - Fascinating Facts and Creation History
 
-## Okoliczności powstania książki
+## Book Creation Circumstances
 
-**FAKT**: H.G. Wells pracował nad "Wehikułem czasu" przez prawie 8 lat. Pierwszy szkic napisał w 1888 roku jako 22-letni student, publikując opowiadanie "The Chronic Argonauts" w trzech częściach w czasopiśmie uczelnianym "The Science Schools Journal".
+**FACT**: H.G. Wells worked on "The Time Machine" for almost 8 years. He wrote the first draft in 1888 as a 22-year-old student, publishing the story "The Chronic Argonauts" in three parts in the university magazine "The Science Schools Journal".
 
-**FAKT**: Wells przepisał całą historię trzykrotnie! Pierwotny "Chronic Argonauts" z 1888 → siedem esejów w "National Observer" (1894) → finalna wersja w "The New Review" (1895).
+**FACT**: Wells rewrote the entire story three times! Original "Chronic Argonauts" from 1888 → seven essays in "National Observer" (1894) → final version in "The New Review" (1895).
 
-**FAKT**: Tytuł "Wehikuł czasu" został wymyślony przez Wellsa dopiero w 1894 roku. Wcześniej historia nosiła tytuł "The Chronic Argonauts" (Chroniczni Argonauci).
+**FACT**: The title "The Time Machine" was invented by Wells only in 1894. Previously the story was titled "The Chronic Argonauts".
 
-**FAKT**: Wells napisał pierwotną wersję będąc chorym i przebywając u przyjaciół w Stoke-on-Trent od kwietnia do lipca 1888 roku. Przemysłowe krajobrazy tego regionu (The Potteries) zainspirowały go do opisu przyszłości.
+**FACT**: Wells wrote the original version while ill and staying with friends in Stoke-on-Trent from April to July 1888. The industrial landscapes of this region (The Potteries) inspired his descriptions of the future.
 
-**FAKT**: Wells próbował później zniszczyć wszystkie egzemplarze "Chronic Argonauts", kupując je i paląc, bo uważał je za gorsze od finalnej wersji!
+**FACT**: Wells later tried to destroy all copies of "Chronic Argonauts", buying them up and burning them because he considered them inferior to the final version!
 
-## Inspiracje autora
+## Author's Inspirations
 
-**FAKT**: Główną inspiracją Wellsa była teoria ewolucji Darwina, której uczył się od T.H. Huxleya na uniwersytecie. Huxley był znany jako "buldog Darwina" za obronę teorii ewolucji.
+**FACT**: Wells' main inspiration was Darwin's theory of evolution, which he learned from T.H. Huxley at university. Huxley was known as "Darwin's bulldog" for defending the theory of evolution.
 
-**FAKT**: Wells studiował biologię pod kierunkiem T.H. Huxleya w Normal School of Science w Londynie. Później napisał: "Ten rok w klasie Huxleya był bez wątpienia najbardziej edukacyjnym rokiem mojego życia".
+**FACT**: Wells studied biology under T.H. Huxley at the Normal School of Science in London. He later wrote: "That year in Huxley's class was beyond question the most educational year of my life".
 
-**FAKT**: Piecownie żelaza w Stoke-on-Trent, które Wells obserwował w 1888 roku, zainspirowały go do opisów świata Morloków. Pisał do przyjaciela: "Ten rejon zrobił na mnie ogromne wrażenie".
+**FACT**: The iron furnaces in Stoke-on-Trent, which Wells observed in 1888, inspired his descriptions of the Morlocks' world. He wrote to a friend: "This region made a huge impression on me".
 
-**FAKT**: Nazwy Eloi i Morlocks pochodzą z Biblii - od Eliego (biblijny kapłan) i Molocha (starożytne bóstwo wymagające ofiar z dzieci). To symboliczne reprezentacje klas społecznych.
+**FACT**: The names Eloi and Morlocks come from the Bible - from Eli (biblical priest) and Moloch (ancient deity requiring child sacrifices). These are symbolic representations of social classes.
 
-**FAKT**: Wells był socjalistą i członkiem Fabian Society. "Wehikuł czasu" to ostrzeżenie przed niebezpieczeństwami nieograniczonego kapitalizmu i walki klas.
+**FACT**: Wells was a socialist and member of the Fabian Society. "The Time Machine" is a warning against the dangers of unlimited capitalism and class warfare.
 
-## Proces twórczy
+## Creative Process
 
-**FAKT**: Wells ukończył studia z pierwszą klasą z zoologii i drugą z geologii na Uniwersytecie Londyńskim w 1890 roku, a przez 4 lata pracował jako nauczyciel nauk ścisłych.
+**FACT**: Wells graduated with first class honors in zoology and second class in geology from the University of London in 1890, and worked as a science teacher for 4 years.
 
-**FAKT**: Redaktor W.E. Henley chciał, żeby Wells dodał więcej "literackości" do opowieści, ale Wells później wspominał: "Była niewielka walka między pisarzem a W.E. Henleyem (...) ale interpolacje Henleya zostały usunięte".
+**FACT**: Editor W.E. Henley wanted Wells to add more "literariness" to the story, but Wells later recalled: "There was a slight struggle between the writer and W.E. Henley (...) but Henley's interpolations were removed".
 
-**FAKT**: Wells był zaledwie 29 lat gdy opublikował "Wehikuł czasu" - był to jego pierwszy powieść i literacki debiut!
+**FACT**: Wells was only 29 years old when he published "The Time Machine" - it was his first novel and literary debut!
 
-**FAKT**: W 1895 roku Wells przeprowadził się do Woking w Surrey ze swoją studentką Amy Catherine Robbins, którą poślubił w październiku 1895 roku.
+**FACT**: In 1895, Wells moved to Woking in Surrey with his student Amy Catherine Robbins, whom he married in October 1895.
 
-**FAKT**: Wells napisał swoją przełomową powieść w okresie 6 lat (1895-1901), kiedy stworzył również "Wyspę doktora Moreau", "Człowieka niewidzialnego", "Wojnę światów" i "Pierwszych ludzi na Księżycu".
+**FACT**: Wells wrote his breakthrough novel during a 6-year period (1895-1901), when he also created "The Island of Dr. Moreau", "The Invisible Man", "The War of the Worlds" and "The First Men in the Moon".
 
-## Historia publikacji
+## Publication History
 
-**FAKT**: Wells otrzymał 100 funtów (równowartość około 15 000 funtów dzisiaj) za serialową publikację w "The New Review" od stycznia do maja 1895 roku!
+**FACT**: Wells received 100 pounds (equivalent to about 15,000 pounds today) for the serial publication in "The New Review" from January to May 1895!
 
-**FAKT**: Pierwsza edycja książkowa ukazała się w Ameryce 7 maja 1895 roku (wydawnictwo Henry Holt and Company), a brytyjska edycja kilka tygodni później u Heinemanna.
+**FACT**: The first book edition appeared in America on May 7, 1895 (Henry Holt and Company), and the British edition a few weeks later from Heinemann.
 
-**FAKT**: Powieść była anonimowo publikowana w "National Observer" w 1894 roku - Wells nie podpisał się pod pierwszymi fragmentami!
+**FACT**: The novel was published anonymously in "National Observer" in 1894 - Wells didn't sign the first fragments!
 
-**FAKT**: W ciągu pierwszych miesięcy sprzedano ponad 6000 egzemplarzy - był to natychmiastowy sukces literacki.
+**FACT**: Within the first few months, over 6,000 copies were sold - it was an immediate literary success.
 
-**FAKT**: "Wehikuł czasu" nigdy nie był wycofany z druku i jest dostępny nieprzerwanie od 1895 roku!
+**FACT**: "The Time Machine" was never out of print and has been continuously available since 1895!
 
-## Biografia autora w kontekście książki
+## Author Biography in Book Context
 
-**FAKT**: Herbert George Wells urodził się 21 września 1866 roku w Bromley, Kent, w rodzinie robotniczej - jego ojciec był sklepikarzem i profesjonalnym graczem w krykieta.
+**FACT**: Herbert George Wells was born on September 21, 1866, in Bromley, Kent, to a working-class family - his father was a shopkeeper and professional cricket player.
 
-**FAKT**: Wells w wieku 18 lat wygrał stypendium na studia biologiczne w Londynie dzięki wybitnym zdolnościom akademickim.
+**FACT**: Wells at age 18 won a scholarship for biology studies in London thanks to his outstanding academic abilities.
 
-**FAKT**: Jako dziecko Wells doznał kontuzji podczas gry i spędził długie miesiące w łóżku, czytając książki z biblioteki ojca - to wtedy rozwinął swoją wyobraźnię literacką.
+**FACT**: As a child, Wells was injured during play and spent long months in bed, reading books from his father's library - this is when he developed his literary imagination.
 
-**FAKT**: Wells był socjalistą od młodości i członkiem Fabian Society, ale później zerwał z nimi, nazywając ich "nadzwyczaj nieodpowiednim i słabym stowarzyszeniem".
+**FACT**: Wells was a socialist from his youth and a member of the Fabian Society, but later broke with them, calling them an "extraordinarily unsuitable and weak association".
 
-**FAKT**: W 1931 roku, w przedmowie do swojej książki, Wells napisał że "Wehikuł czasu" wydaje mu się "bardzo studencką pracą" dla "obecnie dojrzałego pisarza".
+**FACT**: In 1931, in the preface to his book, Wells wrote that "The Time Machine" seemed to him "very much a student work" for a "now mature writer".
 
-## Anegdoty i ciekawostki
+## Anecdotes and Curiosities
 
-**FAKT**: Wells wymyślił termin "time machine" (wehikuł czasu) - przed nim nie istniało uniwersalne określenie na maszynę do podróży w czasie!
+**FACT**: Wells invented the term "time machine" - before him there was no universal term for a time travel device!
 
-**FAKT**: "Wehikuł czasu" był drugą opowieścią w historii literatury o maszynie do podróży w czasie (pierwsza to "El anacronópete" Enrique Gaspara z 1887 roku).
+**FACT**: "The Time Machine" was the second story in literature history about a time travel machine (the first was "El anacronópete" by Enrique Gaspar from 1887).
 
-**PLOTKA**: Niektórzy badacze sugerują, że Wells mógł spotkać Thomasa Edisona podczas swojego pobytu w Londynie, co mogło zainspirowować go do stworzenia postaci naukowca-wynalazcy.
+**RUMOR**: Some researchers suggest that Wells might have met Thomas Edison during his stay in London, which could have inspired him to create the scientist-inventor character.
 
-**FAKT**: Wells napisał opowiadanie "The Cone" w 1895 roku, zainspirowane tym samym pobytem w Stoke-on-Trent co "Wehikuł czasu".
+**FACT**: Wells wrote the story "The Cone" in 1895, inspired by the same stay in Stoke-on-Trent as "The Time Machine".
 
-**FAKT**: Redaktor Henley przeniósł się z "National Observer" do "The New Review" na końcu 1894 roku i zabrał ze sobą historię Wellsa, co uratowało publikację.
+**FACT**: Editor Henley moved from "National Observer" to "The New Review" at the end of 1894 and took Wells' story with him, which saved the publication.
 
-**FAKT**: Wells studiował u T.H. Huxleya, który zmarł w 1895 roku - tym samym roku gdy ukazał się "Wehikuł czasu". To symboliczne zakończenie ery.
+**FACT**: Wells studied under T.H. Huxley, who died in 1895 - the same year "The Time Machine" was published. A symbolic end of an era.
 
-## Pierwsze reakcje i recenzje
+## First Reactions and Reviews
 
-**FAKT**: W.T. Stead z "The Review" pochwalił Wellsa jako "człowieka geniusza" z "wyobraźnią równie makabryczną jak Edgar Allan Poe".
+**FACT**: W.T. Stead from "The Review" praised Wells as "a man of genius" with "imagination as macabre as Edgar Allan Poe".
 
-**FAKT**: Lipcowy numer "Nature" z 1895 roku argumentował, że "oprócz zalet jako sprytny przykład wyobraźni, historia jest warta uwagi czytelnika naukowego".
+**FACT**: The July 1895 issue of "Nature" argued that "apart from its merits as an ingenious piece of imagination, the story is worth the attention of the scientific reader".
 
-**FAKT**: Krytyk Israel Zangwill napisał recenzję już wkrótce po publikacji w 1895 roku, doceniając nowatorski charakter dzieła.
+**FACT**: Critic Israel Zangwill wrote a review shortly after publication in 1895, appreciating the innovative character of the work.
 
-**FAKT**: Powieść została okrzyknięta "nową rzeczą pod słońcem" - czymś czego według Salomona nie można było już wynaleźć!
+**FACT**: The novel was hailed as "a new thing under the sun" - something that according to Solomon could no longer be invented!
 
-## Liczby, statystyki i rekordy
+## Numbers, Statistics and Records
 
-**FAKT**: Wells miał 22 lata gdy napisał pierwotną wersję, 28 gdy ją przepisywał, i 29 gdy została opublikowana - pełny cykl twórczy trwał 7 lat.
+**FACT**: Wells was 22 when he wrote the original version, 28 when he rewrote it, and 29 when it was published - the complete creative cycle lasted 7 years.
 
-**FAKT**: Książka została przetłumaczona na dziesiątki języków i nie była nigdy wycofana z druku przez 129 lat!
+**FACT**: The book has been translated into dozens of languages and has never been out of print for 129 years!
 
-**FAKT**: "Wehikuł czasu" zainspirowała setki pisarzy science fiction, w tym Ray'a Bradbury'ego, Isaac'a Asimova, Franka Herberta i Ursulę K. Le Guin.
+**FACT**: "The Time Machine" inspired hundreds of science fiction writers, including Ray Bradbury, Isaac Asimov, Frank Herbert and Ursula K. Le Guin.
 
-**FAKT**: Powieść miała wpływ na brytyjskiego naukowca J.B.S. Haldane'a, który pisał eseje o przyszłej ewolucji ludzkości.
+**FACT**: The novel influenced British scientist J.B.S. Haldane, who wrote essays about the future evolution of humanity.
 
-**FAKT**: 100 funtów które otrzymał Wells w 1895 roku to współcześnie około 11-15 tysięcy funtów - znacząca suma dla młodego pisarza!
+**FACT**: The 100 pounds Wells received in 1895 is worth about 11-15 thousand pounds today - a significant sum for a young writer!
 
-**FAKT**: "Chronic Argonauts" miało tylko 3 części w czasopiśmie studenckim, "National Observer" wersja miała 7 esejów, a finalna książka miała 12 rozdziałów.
+**FACT**: "Chronic Argonauts" had only 3 parts in the student magazine, the "National Observer" version had 7 essays, and the final book had 12 chapters.
 
-## Ukryte inspiracje i Easter Eggi
+## Hidden Inspirations and Easter Eggs
 
-**FAKT**: Eloi żyją w komunistycznym raju powierzchni, ale są hodowani jak bydło przez Morloków - to Wells'owska krytyka zarówno kapitalizmu jak i komunizmu.
+**FACT**: The Eloi live in a communist paradise on the surface, but are bred like cattle by the Morlocks - this is Wells' critique of both capitalism and communism.
 
-**FAKT**: Opis białych kwiatów które Time Traveller przynosi z przyszłości może symbolizować czystość i niewinność Weeny, ale także śmierć i przemijanie.
+**FACT**: The description of white flowers that the Time Traveller brings from the future may symbolize Weena's purity and innocence, but also death and transience.
 
-**FAKT**: Rok 802 701 n.e. nie został wybrany przypadkowo - to dokładnie 800 000 lat po epoce Wellsa, symbolizująca nieskończoną przepaść czasową.
+**FACT**: The year 802,701 AD was not chosen randomly - it's exactly 800,000 years after Wells' era, symbolizing an infinite temporal abyss.
 
-**PLOTKA**: Niektórzy interpretują klubową atmosferę początku książki jako krytykę elitarnego towarzystwa wiktoriańskiego, do którego Wells jako człowiek z klasy robotniczej nie miał dostępu.
+**RUMOR**: Some interpret the club atmosphere at the beginning of the book as a critique of Victorian elite society, to which Wells as a working-class man had no access.
 
-**FAKT**: Morloccy mieszkają pod ziemią jak robotnicy w kopalniach i fabrykach epoki Wellsa - to bezpośrednia allegoria warunków przemysłowych XIX wieku.
+**FACT**: The Morlocks live underground like workers in mines and factories of Wells' era - this is a direct allegory of 19th-century industrial conditions.
 
-## Nieznane fakty
+## Unknown Facts
 
-**FAKT**: Wells pierwotnie planował, że Time Traveller spotka więcej ras w przyszłości, ale skrócił narrację na życzenie wydawcy.
+**FACT**: Wells originally planned for the Time Traveller to meet more races in the future, but shortened the narrative at the publisher's request.
 
-**FAKT**: Pierwotny tytuł "The Chronic Argonauts" nawiązywał do mitologicznych Argonautów, którzy podróżowali po złote runo - Wells zamieniał podróż przestrzenną na czasową.
+**FACT**: The original title "The Chronic Argonauts" referred to the mythological Argonauts who traveled for the golden fleece - Wells changed spatial travel to temporal.
 
-**FAKT**: Wells użył doświadczenia z nauczania biologii do stworzenia "naukowej" podstawy dla ewolucji ludzkości w przyszłości.
+**FACT**: Wells used his experience teaching biology to create a "scientific" basis for the evolution of humanity in the future.
 
-**FAKT**: Scena z muzeami przyszłości została zainspirowana wizytami Wellsa w British Museum, gdzie studiował paleontologię.
+**FACT**: The scene with future museums was inspired by Wells' visits to the British Museum, where he studied paleontology.
 
-**FAKT**: Wells'owski opis zaniku cywilizacji technologicznej był rewolucyjny - wcześniej pisarze przewidywali tylko postęp, nie regres.
+**FACT**: Wells' description of technological civilization's decline was revolutionary - previously writers predicted only progress, not regression.
 
-## Wpływ na kulturę
+## Cultural Impact
 
-**FAKT**: "Wehikuł czasu" stworzył cały gatunek literacki - science fiction jako połączenie nauki i fantazji.
+**FACT**: "The Time Machine" created an entire literary genre - science fiction as a combination of science and fantasy.
 
-**FAKT**: Termin "time machine" wszedł do wszystkich języków świata jako uniwersalne określenie maszyny do podróży w czasie.
+**FACT**: The term "time machine" entered all languages of the world as a universal designation for a time travel device.
 
-**FAKT**: Powieść zainspirowała dziesiątki filmów, seriali, gier komputerowych i komiksów przez ponad 125 lat.
+**FACT**: The novel inspired dozens of films, TV series, computer games and comics for over 125 years.
 
-**FAKT**: Koncepcja Morloków i Eloi stała się uniwersalnym symbolem społecznego podziału i walki klas w kulturze popularnej.
+**FACT**: The concept of Morlocks and Eloi became a universal symbol of social division and class struggle in popular culture.
 
 ---
 
-*Dokumentacja przygotowana w ramach projektu 37degrees dla podcastu o klasyce literatury światowej.*
+*Documentation prepared as part of the 37degrees project for a podcast about classic world literature.*

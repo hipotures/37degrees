@@ -1,240 +1,240 @@
-# Lokalny kontekst kulturowy: "Frankenstein" Mary Shelley w Polsce
+# Local Cultural Context: Mary Shelley's "Frankenstein" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Frankenstein, czyli współczesny Prometeusz" (1818) Mary Shelley to dzieło o wyjątkowym znaczeniu dla kultury polskiej i światowej. Ta pionierska powieść gothic i science fiction ma głębokie korzenie w kontekście lokalnym, szczególnie w Polsce, gdzie zyskała status kultowej pozycji literackiej.
+"Frankenstein, or The Modern Prometheus" (1818) by Mary Shelley is a work of exceptional significance for Polish and global culture. This pioneering Gothic and science fiction novel has deep roots in local context, particularly in Poland, where it has gained the status of a cult literary position.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze tłumaczenia i wydania
-- **1958** - Pierwsza polska edycja w tłumaczeniu Henryka Goldmanna, wydawnictwo Poznańskie
-- **1998** - Wznowienie przekładu Goldmanna przez wydawnictwo MUZA SA (oprawa twarda)
-- **2024** - Przełomowe wydanie Vesper w nowym tłumaczeniu Macieja Płazy
+### First Translations and Editions
+- **1958** - First Polish edition translated by Henryk Goldmann, published by Poznańskie
+- **1998** - Reprint of Goldmann's translation by MUZA SA publishing house (hardcover)
+- **2024** - Breakthrough edition by Vesper in a new translation by Maciej Płaza
 
-### Wydanie Vesper - przełom w polskiej recepcji
-Najnowsze wydanie Vesper (2024) to wydarzenie w polskim świecie literackim:
-- Po raz pierwszy "Frankenstein" ukazuje się po polsku w oryginalnej wersji z 1818 roku
-- Tłumaczenie Macieja Płazy zostało uznane za mistrzowskie - "rzadko się zachwycam tłumaczeniami, w tym przypadku widać wiedzę i pasję"
-- Wydanie zawiera także utwory z literackiej zabawy nad jeziorem Genewskim: "Pochówek" Byrona i "Wampir" Polia, oraz opowieści nadprzyrodzone Percy'ego Shelleya
-- Ozdobione linorytami Lynda Warda w stylu ekspresjonizmu
+### Vesper Edition - Breakthrough in Polish Reception
+The latest Vesper edition (2024) is an event in the Polish literary world:
+- For the first time, "Frankenstein" appears in Polish in the original 1818 version
+- Maciej Płaza's translation was recognized as masterful - "I rarely get excited about translations, in this case you can see knowledge and passion"
+- The edition also contains works from the literary game by Lake Geneva: Byron's "The Burial" and Polidori's "The Vampyre," as well as Percy Shelley's supernatural stories
+- Decorated with Lynd Ward's linocuts in expressionist style
 
-### Inne polskie wydawnictwa
-- **PWN** - kilka wydań, w tym wersje elektroniczne
-- **Siedmioróg**, **Zielona Sowa**, **Mediasat**, **Świat Książki** - różne edycje dla szerokiej publiczności
+### Other Polish Publishers
+- **PWN** - several editions, including electronic versions
+- **Siedmioróg**, **Zielona Sowa**, **Mediasat**, **Świat Książki** - various editions for general public
 
-## "Frankenstein" w polskiej edukacji
+## "Frankenstein" in Polish Education
 
-### Status w programie nauczania
-Mimo swojego znaczenia, "Frankenstein" **nie jest obecnie lekturą obowiązkową** w polskich szkołach. Jednak:
-- Dzieło jest często omawianie jako przykład literatury gotyckiej i początek science fiction
-- Nauczyciele wykorzystują je w kontekście romantyzmu i pre-romantyzmu
-- Pojawia się w kontekście bioetyki i odpowiedzialności nauki
+### Status in Curriculum
+Despite its significance, "Frankenstein" **is not currently a mandatory reading** in Polish schools. However:
+- The work is often discussed as an example of Gothic literature and the beginning of science fiction
+- Teachers use it in the context of Romanticism and pre-Romanticism
+- It appears in the context of bioethics and scientific responsibility
 
-### Językoznawcza ciekawostka maturalna
-Interesujący przypadek użycia metafory "Frankenstein" w kontekście edukacyjnym:
-- Artykuł "Maturalny Frankenstein" porównuje źle napisane wypracowania maturalne do stworenia Frankensteina
-- "Wypracowanie maturalne ma się do prawdziwego tekstu jak Frankenstein do biblijnego Adama. Zdeformowana groza wobec ideału"
+### Linguistic Curiosity on High School Exams
+Interesting case of using the "Frankenstein" metaphor in educational context:
+- The article "High School Frankenstein" compares poorly written exam essays to Frankenstein's creature
+- "A high school essay relates to a real text like Frankenstein to biblical Adam. Deformed horror versus ideal"
 
-## Adaptacje teatralne w Polsce
+## Theatrical Adaptations in Poland
 
-### Teatr Rozrywki - "Młody Frankenstein"
-- Musical Mela Brooksa i Thomasa Meehana oparty na filmie z 1974 roku
-- Przekład libretta: Grzegorz Wasowski
-- Polskie teksty piosenek: Jacek Bończyk
-- Reżyseria: Jacek Bończyk
-- **Złota Maska 2017** za scenografię Grzegorza Policińskiego
-- Komediowa parodia horrorów i wcześniejszych adaptacji filmowych
+### Teatr Rozrywki - "Young Frankenstein"
+- Musical by Mel Brooks and Thomas Meehan based on the 1974 film
+- Libretto translation: Grzegorz Wasowski
+- Polish song lyrics: Jacek Bończyk
+- Direction: Jacek Bończyk
+- **Golden Mask 2017** for scenography by Grzegorz Policiński
+- Comedy parody of horrors and earlier film adaptations
 
-### Teatr Dramatyczny w Wałbrzychu
-- Adaptacja powieści Mary Shelley w tłumaczeniu Macieja Płazy
-- Reżyseria: Paweł Sablik
-- Oscylacja między horrorem a stylem dokumentalnym
-- Zachowanie mrocznej, gotyckiej atmosfery
+### Dramatic Theater in Wałbrzych
+- Adaptation of Mary Shelley's novel in Maciej Płaza's translation
+- Direction: Paweł Sablik
+- Oscillation between horror and documentary style
+- Preservation of dark, Gothic atmosphere
 
-### Teatr Powszechny w Kielcach
-- Adaptacja: Hubert Sulima
-- Reżyseria: Jędrzej Piaskowski
-- Próba przedstawienia zarówno tragicznej historii naukowca-filozofa, jak i elementów biograficznych związanych z autorką
+### Powszechny Theater in Kielce
+- Adaptation: Hubert Sulima
+- Direction: Jędrzej Piaskowski
+- Attempt to present both the tragic story of the scientist-philosopher and biographical elements related to the author
 
-### Teatr Współczesny w Szczecinie
-- Współczesne podejście do motywów "Frankensteina"
-- Wpływ powieści na popkulturę i teatr wysokiej jakości
+### Contemporary Theater in Szczecin
+- Contemporary approach to "Frankenstein" themes
+- Influence of the novel on popular culture and high-quality theater
 
-### National Theatre Live - retransmisje
-Polskie kina i teatry pokazywały retransmisje spektaklu National Theatre Live:
-- **Benedict Cumberbatch i Jonny Lee Miller** w rolach głównych
-- Filozoficzne przesłanie gotyckiej powieści Shelley
-- Nawiązanie do afery grabieży grobów z 1606 roku w mieście Frankenstein (dzisiejsze Ząbkowice Śląskie)
+### National Theatre Live - Retransmissions
+Polish cinemas and theaters showed retransmissions of the National Theatre Live performance:
+- **Benedict Cumberbatch and Jonny Lee Miller** in leading roles
+- Philosophical message of Shelley's Gothic novel
+- Reference to the grave robbery scandal from 1606 in the town of Frankenstein (present-day Ząbkowice Śląskie)
 
-## Polski wątek: Ząbkowice Śląskie
+## Polish Connection: Ząbkowice Śląskie
 
-### Historyczne połączenie
-- **Do 1945 roku** Ząbkowice Śląskie nosiły niemiecką nazwę "Frankenstein"
-- Miasto liczące 15 000 mieszkańców w południowej Polsce
-- Po przesunięciu granic w 1945 roku otrzymało polską nazwę
+### Historical Connection
+- **Until 1945** Ząbkowice Śląskie bore the German name "Frankenstein"
+- Town of 15,000 inhabitants in southern Poland
+- After border shifts in 1945, it received its Polish name
 
-### Legenda XVII wieku
-- Historia ośmiu grabarzy oskarżonych o wywoływanie zarazy
-- Nielegalne ekshumacje i sprzedaż ludzkich zwłok do eksperymentów magiczno-naukowych
-- **Wpływ na Mary Shelley**: Legenda głosi, że autorka znała tę historię z początku XVII wieku
-- Grabarze tworzyli proszek z ciał ofiar zarazy i rozsiewali go po okolicy, aby "produkować" więcej zwłok dla zysku
+### 17th Century Legend
+- Story of eight gravediggers accused of causing plague
+- Illegal exhumations and sale of human corpses for magical-scientific experiments
+- **Influence on Mary Shelley**: Legend claims the author knew this early 17th-century story
+- Gravediggers created powder from plague victims' bodies and spread it around the area to "produce" more corpses for profit
 
-### Współczesna recepcja kulturowa
-- **Laboratorium Frankensteina** - lokalna atrakcja turystyczna
-- **Coroczne imprezy Halloween** organizowane przez miasto
-- **Weekend z Frankensteinem** - cykliczny festiwal
-- **Maraton filmowy** z filmami o Frankensteinie
-- Miasto wykorzystuje swoją historyczną nazwę jako atut turystyczny
+### Contemporary Cultural Reception
+- **Frankenstein's Laboratory** - local tourist attraction
+- **Annual Halloween events** organized by the town
+- **Weekend with Frankenstein** - cyclical festival
+- **Film marathon** with Frankenstein movies
+- The town uses its historical name as a tourist asset
 
-### Konkurencja z niemieckim Frankenstein
-- Drugi Frankenstein koło Darmstadt, gdzie słynny alchemik prowadził eksperymenty
-- Mary Shelley mijała zamek podczas podróży po kontynencie
-- Prawdopodobnie ten niemiecki Frankenstein, a nie Ząbkowice, zainspirował powieść
+### Competition with German Frankenstein
+- Second Frankenstein near Darmstadt, where a famous alchemist conducted experiments
+- Mary Shelley passed the castle during her continental journey
+- Probably this German Frankenstein, not Ząbkowice, inspired the novel
 
-## "Frankenstein" w polskim romantyzmie
+## "Frankenstein" in Polish Romanticism
 
-### Podobieństwa do polskich klasyków
-Polscy czytelnicy dostrzegają silne związki z tradycją romantyczną:
-- Paralele do dzieł omawianych w polskich szkołach - od "Wertera" po "Kordiana"
-- Victor Frankenstein jako typowy bohater romantyczny
-- Częste omdlenia, choroby nerwowe, lamentowanie nad losem
-- "Najstraszliwszy ze wszystkich ludzkich losów" - typowa dla romantyków postawa ofiary
+### Similarities to Polish Classics
+Polish readers notice strong connections with the Romantic tradition:
+- Parallels to works discussed in Polish schools - from "Werther" to "Kordian"
+- Victor Frankenstein as a typical Romantic hero
+- Frequent fainting, nervous illnesses, lamenting over fate
+- "The most terrible of all human fates" - typical Romantic victim attitude
 
-### Perspektywa polskich czytelników
-- Rozdziały z perspektywy stwora szczególnie rezonują z polskimi czytelnikami
-- Mistrzowskie oddanie uczuć i myśli "innego", "wyrzutka"
-- Małe szanse na zmianę swojego losu - temat bliski polskiemu doświadczeniu historycznemu
+### Polish Readers' Perspective
+- Chapters from the creature's perspective particularly resonate with Polish readers
+- Masterful rendering of the feelings and thoughts of the "other," the "outcast"
+- Little chance to change one's fate - a theme close to Polish historical experience
 
-## Naukowa recepcja w Polsce
+## Scientific Reception in Poland
 
-### Mary Shelley jako prekursorka
-- **Pierwsza powieść science fiction** - powszechnie uznawana w Polsce
-- Pionierka literatury gotyckiej
-- Córka feministki Mary Wollstonecraft i filozofa Williama Godwina
-- Napisała "Frankensteina" w wieku 19 lat
+### Mary Shelley as Precursor
+- **First science fiction novel** - widely recognized in Poland
+- Pioneer of Gothic literature
+- Daughter of feminist Mary Wollstonecraft and philosopher William Godwin
+- Wrote "Frankenstein" at age 19
 
-### Kontekst bioetyczny
-Współczesna polska recepcja podkreśla:
-- Doskonałe skłanianie do refleksji w obszarze bioetyki
-- Problemy nauki, medycyny i odpowiedzialności naukowej
-- Uprzedzenia społeczne wobec innych ludzi
-- Victor Frankenstein jako tragiczna postać nie tylko z powodu szalonych ambicji, ale także braku odpowiedzialności
+### Bioethical Context
+Contemporary Polish reception emphasizes:
+- Excellent prompting for reflection in bioethics
+- Problems of science, medicine, and scientific responsibility
+- Social prejudices against other people
+- Victor Frankenstein as a tragic figure not only because of mad ambitions but also lack of responsibility
 
-### Galwanizm i nauka
-- Tematyka galwanizmu i idei okultystycznych była przedmiotem rozmów towarzyskich Mary Shelley
-- Połączenie nauki, moralności i horroru w jedno dzieło
-- Wpływ profesora Waldmana - wybitnego chemika i anatoma
-- Fascynacja historią naturalną i metafizyką
+### Galvanism and Science
+- Galvanism themes and occult ideas were the subject of Mary Shelley's social conversations
+- Combination of science, morality, and horror in one work
+- Influence of Professor Waldman - outstanding chemist and anatomist
+- Fascination with natural history and metaphysics
 
-## Kulturowe różnice w interpretacji
+## Cultural Differences in Interpretation
 
-### Polski kontekst vs. świat anglosaski
-1. **Romantyczny wymiar**: Polski czytelnik łatwiej identyfikuje się z romantycznymi cierpieniami bohatera
-2. **Doświadczenie historyczne**: Motyw wyrzutka i outsaidera rezonuje z polskim doświadczeniem narodowym
-3. **Perspektywa katolicka**: Problemy etyczne związane z stworzeniem życia mają inne znaczenie w katolickim kontekście
-4. **Tradycja gotycka**: Mniejsza tradycja literatury gotyckiej w Polsce czyni dzieło bardziej egzotycznym
+### Polish Context vs. Anglo-Saxon World
+1. **Romantic dimension**: Polish readers more easily identify with the hero's Romantic sufferings
+2. **Historical experience**: The outcast and outsider motif resonates with Polish national experience
+3. **Catholic perspective**: Ethical problems related to creating life have different meaning in Catholic context
+4. **Gothic tradition**: Smaller Gothic literature tradition in Poland makes the work more exotic
 
-### Specyfika polskiego tłumaczenia
-- **Maciej Płaza**: Nowe tłumaczenie 2024 roku uznane za mistrzowskie
-- Pierwsza pełna wersja oryginału z 1818 roku w języku polskim
-- Zachowanie atmosfery gotyckiej i romantycznej
-- Problemy z przekładem terminologii naukowej z epoki
+### Polish Translation Specificity
+- **Maciej Płaza**: New 2024 translation recognized as masterful
+- First complete version of the 1818 original in Polish
+- Preservation of Gothic and Romantic atmosphere
+- Problems with translating scientific terminology from the era
 
-## Film i telewizja - recepcja w Polsce
+## Film and Television - Reception in Poland
 
-### Universal Horror - klasyka
-- Frankenstein (1931) z Borisem Karloffem - kultowy status w Polsce
-- Przekazanie mózgu przestępcy - wątek szczególnie omawiany
-- Niemiecki ekspresjonizm jako inspiracja
+### Universal Horror - Classics
+- Frankenstein (1931) with Boris Karloff - cult status in Poland
+- Criminal brain transplant - particularly discussed plot point
+- German expressionism as inspiration
 
-### Współczesne adaptacje
-- Frankenstein (1994) - "być może najbardziej ambitna filmowa adaptacja powieści"
-- Poprzednie filmy o potworze nie trzymały się ściśle źródła literackiego z 1817 roku (sic!)
+### Contemporary Adaptations
+- Frankenstein (1994) - "perhaps the most ambitious film adaptation of the novel"
+- Previous monster films didn't stick closely to the 1817 literary source (sic!)
 
-### Festiwale i wydarzenia kulturalne
-- **Ząbkowice Śląskie**: Coroczne festiwale filmowe
-- **Teatry polskie**: Retrospektywy klasycznych horrorów
-- **Kina studyjne**: Pokazy w kontekście historii kina
+### Festivals and Cultural Events
+- **Ząbkowice Śląskie**: Annual film festivals
+- **Polish theaters**: Retrospectives of classic horrors
+- **Art cinemas**: Screenings in the context of cinema history
 
-## Wpływ na polską popkulturę
+## Impact on Polish Popular Culture
 
-### Literatura
-- Inspiracja dla polskich autorów fantastyki naukowej
-- Motywy frankensteinowskie w prozie współczesnej
-- Bioetyczne dylematy w literaturze popularnej
+### Literature
+- Inspiration for Polish science fiction authors
+- Frankensteinian motifs in contemporary prose
+- Bioethical dilemmas in popular literature
 
-### Język i metafory
-- "Frankenstein" jako metafora dla eksperymentów, które wymykają się spod kontroli
-- Użycie w kontekście politycznym i społecznym
-- "Frankenstein maturalny" - metafora w edukacji
+### Language and Metaphors
+- "Frankenstein" as metaphor for experiments that get out of control
+- Use in political and social context
+- "High school Frankenstein" - metaphor in education
 
-### Media i sztuka
-- Nawiązania w polskiej sztuce współczesnej
-- Motywy w polskim kinie
-- Inspiracje w teatrze eksperymentalnym
+### Media and Art
+- References in contemporary Polish art
+- Motifs in Polish cinema
+- Inspirations in experimental theater
 
-## Lokalni bohaterowie i badacze
+## Local Heroes and Researchers
 
-### Tłumacze
-1. **Henryk Goldmann** (1958, 1998) - pierwszy polski tłumacz
-2. **Maciej Płaza** (2024) - twórca nowego, uznanego tłumaczenia
+### Translators
+1. **Henryk Goldmann** (1958, 1998) - first Polish translator
+2. **Maciej Płaza** (2024) - creator of new, recognized translation
 
-### Reżyserzy teatralni
-1. **Jacek Bończyk** - reżyser musicalu "Młody Frankenstein"
-2. **Paweł Sablik** - Teatr Dramatyczny w Wałbrzychu
-3. **Jędrzej Piaskowski** - Teatr Powszechny w Kielcach
-4. **Wojciech Kościelniak** - scenarzysta i reżyser wrocławskiej premiery
+### Theater Directors
+1. **Jacek Bończyk** - director of "Young Frankenstein" musical
+2. **Paweł Sablik** - Dramatic Theater in Wałbrzych
+3. **Jędrzej Piaskowski** - Powszechny Theater in Kielce
+4. **Wojciech Kościelniak** - screenwriter and director of Wrocław premiere
 
-### Scenografowie i artyści
-1. **Grzegorz Policiński** - Złota Maska 2017 za scenografię
-2. **Lynd Ward** - amerykański artysta, autor linorytów do polskiego wydania Vesper
+### Set Designers and Artists
+1. **Grzegorz Policiński** - Golden Mask 2017 for scenography
+2. **Lynd Ward** - American artist, author of linocuts for Polish Vesper edition
 
-## Ciekawostki lokalne
+## Local Curiosities
 
-### Nazwy miejscowe
-- **Ząbkowice Śląskie** (dawny Frankenstein) - jedyne miasto w Polsce o historycznym związku z nazwą
-- Ulice i miejsca w Polsce nawiązujące do motywów gotyckich
+### Place Names
+- **Ząbkowice Śląskie** (former Frankenstein) - only town in Poland with historical connection to the name
+- Streets and places in Poland referencing Gothic motifs
 
-### Eventos cykliczne
-- **Weekend z Frankensteinem** w Ząbkowicach Śląskich (od 2021, już XVI edycja)
-- **Piątki z Frankensteinem** - maraton filmowy
-- **Halloween** - największa impreza roku w Ząbkowicach
+### Cyclical Events
+- **Weekend with Frankenstein** in Ząbkowice Śląskie (since 2021, already XVI edition)
+- **Fridays with Frankenstein** - film marathon
+- **Halloween** - biggest event of the year in Ząbkowice
 
-### Turystyka literacka
-- **Laboratorium Frankensteina** - atrakcja w Ząbkowicach Śląskich
-- Opowieści o średniowiecznych torturach, zarazie, szalonych naukowcach
-- Punkt na mapie polskiej turystyki gotyckiej
+### Literary Tourism
+- **Frankenstein's Laboratory** - attraction in Ząbkowice Śląskie
+- Stories about medieval torture, plague, mad scientists
+- Point on the map of Polish Gothic tourism
 
-## Współczesna recepcja
+## Contemporary Reception
 
-### W mediach społecznościowych
-- **TikTok**: Młodzi Polacy tworzą contentype o Frankensteinie
-- **Instagram**: Cytaty i memy z kultową postacią
-- **YouTube**: Polskie analizy i streszczenia dla uczniów
+### In Social Media
+- **TikTok**: Young Poles create content about Frankenstein
+- **Instagram**: Quotes and memes with the cult character
+- **YouTube**: Polish analyses and summaries for students
 
-### W bookstagramach
-- Estetyka gotycka w polskich bookstagramach
-- Wydanie Vesper jako "książka roku" w społeczności czytelników
-- Porównania z innymi klasykami world literature
+### In Bookstagram
+- Gothic aesthetics in Polish bookstagram
+- Vesper edition as "book of the year" in reading community
+- Comparisons with other world literature classics
 
-### Współczesne interpretacje
-- **Feminizm**: Mary Shelley jako prekursorka emancypacji
-- **Bioetyka**: Aktualne dylematy medyczne i naukowe
-- **Ekologia**: Frankenstein jako metafora ingerencji w naturę
-- **Sztuczna inteligencja**: Porównania do współczesnych obaw technologicznych
+### Contemporary Interpretations
+- **Feminism**: Mary Shelley as precursor of emancipation
+- **Bioethics**: Current medical and scientific dilemmas
+- **Ecology**: Frankenstein as metaphor for interference with nature
+- **Artificial Intelligence**: Comparisons to contemporary technological fears
 
-## Podsumowanie
+## Summary
 
-"Frankenstein" Mary Shelley zajmuje w Polsce wyjątkowe miejsce jako:
-1. **Pionierka science fiction** - uniwersalnie uznana pozycja
-2. **Klasyk gotyku** - wprowadzenie do światowej literatury mroku
-3. **Symbol miejscowy** - Ząbkowice Śląskie jako jedyny polski akcent
-4. **Inspiracja teatralna** - liczne adaptacje na polskich scenach
-5. **Przedmiot debat naukowych** - bioetyka, odpowiedzialność nauki
-6. **Fenomen przekładowy** - od Goldmanna do Płazy, ewolucja tłumaczeń
+Mary Shelley's "Frankenstein" occupies a unique place in Poland as:
+1. **Pioneer of science fiction** - universally recognized position
+2. **Gothic classic** - introduction to world literature of darkness
+3. **Local symbol** - Ząbkowice Śląskie as the only Polish accent
+4. **Theatrical inspiration** - numerous adaptations on Polish stages
+5. **Subject of scientific debates** - bioethics, scientific responsibility
+6. **Translation phenomenon** - from Goldmann to Płaza, evolution of translations
 
-Mimo że nie jest lekturą szkolną, "Frankenstein" pozostaje żywą częścią polskiej kultury literackiej, inspirując kolejne pokolenia czytelników, twórców teatralnych i badaczy do refleksji nad granicami nauki, naturą człowieczeństwa i odpowiedzialnością za nasze czyny.
+Although it is not school reading, "Frankenstein" remains a living part of Polish literary culture, inspiring successive generations of readers, theater creators, and researchers to reflect on the boundaries of science, the nature of humanity, and responsibility for our actions.
 
 ---
 
-*Opracowanie powstało na podstawie badań internetowych przeprowadzonych 30 sierpnia 2025 roku, uwzględniających polską specyfikę recepcji dzieła Mary Shelley.*
+*This study was based on internet research conducted on August 30, 2025, taking into account the Polish specificity of reception of Mary Shelley's work.*

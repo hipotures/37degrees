@@ -1,156 +1,156 @@
-# Lokalny Kontekst Kulturowy: "Opowieści kanterberyjskie" Geoffrey'a Chaucera w Polsce
+# Local Cultural Context: Geoffrey Chaucer's "The Canterbury Tales" in Poland
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Fragmenty
-1. **Jan Kasprowicz (1907)** - pierwszy tłumacz fragmentów "Opowieści kanterberyjskich" na język polski
-   - Przetłumaczył fragmenty Prologu głównego oraz większą część Opowieści Brata
-   - Publikacja w antologii "Poeci angielscy"
-   - Uznał dzieło za "jeden z najwspanialszych fenomenów poezji średniowiecznej"
+### Early Fragments
+1. **Jan Kasprowicz (1907)** - first translator of "The Canterbury Tales" fragments into Polish
+   - Translated fragments of the General Prologue and most of The Friar's Tale
+   - Published in the anthology "English Poets"
+   - Recognized the work as "one of the most magnificent phenomena of medieval poetry"
 
-2. **Helena Pręczkowska (1963)** - najobszerniejszy wybór przed pełnym tłumaczeniem
-   - Wydanie w serii Biblioteka Narodowa (II, 138)
-   - Głównie fabliaux, czyli opowieści żartobliwe
-   - Wydawnictwo Ossolineum
+2. **Helena Pręczkowska (1963)** - most comprehensive selection before complete translation
+   - Published in the National Library series (II, 138)
+   - Mainly fabliaux, humorous tales
+   - Ossolineum Publishing House
 
-3. **Przemysław Mroczkowski** - tłumacz "Opowieści Rycerza"
+3. **Przemysław Mroczkowski** - translator of "The Knight's Tale"
 
-### Przełomowe Kompletne Tłumaczenie
-**Jarek Zawadzki (2021)** - pierwsze kompletne polskie tłumaczenie
-- Wydane przez Bibliotekę Śląską w serii Bibliotheca Translata
-- Pod redakcją Zbigniewa Kadłubka i Jana Barona
-- Podstawą edycja Waltera Skeata z 1894 roku, ceniona przez badaczy dzieł Chaucera
-- Ilustracje: Maciej Sieńczyk (rysownik i twórca komiksów)
-- Pierwszy nakład wyprzedał się w bardzo krótkim czasie
+### Breakthrough Complete Translation
+**Jarek Zawadzki (2021)** - first complete Polish translation
+- Published by Silesian Library in the Bibliotheca Translata series
+- Edited by Zbigniew Kadłubek and Jan Baron
+- Based on Walter Skeat's 1894 edition, valued by Chaucer scholars
+- Illustrations: Maciej Sieńczyk (illustrator and comic creator)
+- First print run sold out very quickly
 
-## Polscy Tłumacze i ich Podejście
+## Polish Translators and Their Approaches
 
 ### Helena Pręczkowska
-- Pionierka tłumaczeń Chaucera na język polski
-- Skupiała się na opowieściach żartobliwych (fabliaux)
-- Jej przekład był podstawą wielu teatralnych adaptacji
+- Pioneer of Chaucer translations into Polish
+- Focused on humorous tales (fabliaux)
+- Her translation was the basis for many theatrical adaptations
 
-### Jarek Zawadzki - Rewolucjonista Przekładu
-**Kontakt**: jarek.zawadzki@tlumacz-literatury.pl, Gliwice
-- Zastosował radykalnie nowe podejście do tłumaczenia
-- Nie unika wulgaryzmów czy wyrażeń potocznych
-- Wplata słowa zupełnie współczesne jak "hajs" czy "zwyrol"
-- Gra na dwóch klawiaturach: subtelna stylizacja staropolska vs. mowa najdosłowniej dzisiejsza
-- Idealnie oddaje używaną przez Chaucera miarę wierszową
-- Współpracował z zespołem konsultacyjnym złożonym z anglicystów, mediewistów i komparatystów
+### Jarek Zawadzki - Translation Revolutionary
+**Contact**: jarek.zawadzki@tlumacz-literatury.pl, Gliwice
+- Applied radically new approach to translation
+- Does not avoid vulgarisms or colloquial expressions
+- Incorporates completely contemporary words like "hajs" (cash) or "zwyrol" (pervert)
+- Plays on two keyboards: subtle Old Polish stylization vs. literally today's speech
+- Perfectly captures Chaucer's verse meter
+- Collaborated with advisory team of Anglicists, medievalists and comparatists
 
-## Problemy z Tłumaczeniem
+## Translation Challenges
 
-### Wyzwania Językowe
-1. **Język średniowieczny** - dzieło napisane w Middle English
-2. **Ewolucja znaczeń** - tak wiele słów zmieniło znaczenie, że rozwiązanie kompromisowe jest niemożliwe
-3. **Pseudomodernizacje** - wcześniejsze próby zmiany niektórych słów i korekt gramatycznych okazały się nieudane
-4. **Konieczność radykalnego przekładu** - tylko całkowicie nowe tłumaczenie oryginalnych znaczeń Chaucera na współczesny język może spełnić zadanie
+### Linguistic Challenges
+1. **Medieval language** - work written in Middle English
+2. **Evolution of meanings** - so many words changed meaning that compromise solution is impossible
+3. **Pseudo-modernizations** - earlier attempts to change some words and grammatical corrections proved unsuccessful
+4. **Need for radical translation** - only completely new translation of Chaucer's original meanings into contemporary language can fulfill the task
 
-### Unikalne Rozwiązania Zawadzkiego
-- Tłumacz "nie boi się ryzyka, czasem szarżuje"
-- Świetnie oddaje przekład Chaucera, którego Lord Byron nazywał "obscenicznym i odrażającym"
-- Metoda sprawdza się doskonale, sprawiając że poemat powstały ponad 600 lat temu zachowuje całą literacką atrakcyjność
+### Zawadzki's Unique Solutions
+- Translator "is not afraid of risk, sometimes charges ahead"
+- Excellently conveys Chaucer's translation, whom Lord Byron called "obscene and disgusting"
+- Method works perfectly, making the poem written over 600 years ago retain all its literary appeal
 
-## Miejsce w Polskim Systemie Edukacyjnym
+## Place in Polish Educational System
 
-### Status Lektury Szkolnej
-- **NIE jest lekturą obowiązkową** w polskim systemie edukacji (sprawdzone na podstawie listy lektur 2024/2025)
-- Może być używane jako lektura uzupełniająca wybierana przez nauczycieli
-- Uznawane za ważne dzieło literatury angielskiej, ale nie wchodzi w skład podstawowego kanonu
+### School Reading Status
+- **NOT mandatory reading** in Polish education system (verified based on 2024/2025 reading list)
+- Can be used as supplementary reading chosen by teachers
+- Recognized as important work of English literature, but not part of basic canon
 
-### Kontekst Akademicki
-**Piotr Wojcieszuk (UMCS Lublin)** - główny polski badacz Chaucera
-- Badania nad "Rolą kategorii opowieści w kulturze średniowiecza"
-- Analiza alegorycznej interpretacji opowieści średniowiecznych
-- Dowodzi, że rzeczywistości istniejące w "Opowieściach kanterberyjskich" są bardzo złożone
-- Publikacje w czasopiśmie naukowym "Kultura i Historia"
+### Academic Context
+**Piotr Wojcieszuk (UMCS Lublin)** - main Polish Chaucer researcher
+- Research on "The Role of Tale Categories in Medieval Culture"
+- Analysis of allegorical interpretation of medieval tales
+- Proves that realities existing in "The Canterbury Tales" are very complex
+- Publications in academic journal "Culture and History"
 
-## Polskie Adaptacje Teatralne
+## Polish Theatrical Adaptations
 
-### Teatr im. Jana Kochanowskiego w Opolu
-**Premiera: 5 grudnia 1976**
-- **Reżyseria**: Ryszard Major
-- **Tłumaczenie**: Helena Pręczkowska
-- **Adaptacja**: Tadeusz Nyczek
+### Jan Kochanowski Theatre in Opole
+**Premiere: December 5, 1976**
+- **Direction**: Ryszard Major
+- **Translation**: Helena Pręczkowska
+- **Adaptation**: Tadeusz Nyczek
 - **Chaucer**: Kazimierz Zaklukiewicz
-- **Rycerz**: Adolf Chronicki
+- **Knight**: Adolf Chronicki
 
-### Inne Polskie Inscenizacje
-1. **Teatr Maybe w Gdańsku** (23 marca 1993)
-   - Reżyseria: Tomasz P. Krzeszowski
+### Other Polish Stagings
+1. **Maybe Theatre in Gdańsk** (March 23, 1993)
+   - Direction: Tomasz P. Krzeszowski
 
-2. **Teatr Wiejski "Węgajty" w Jonkowie** (17 listopada 1995)
-   - Reżyseria: Wacław Sobaszek
+2. **Rural Theatre "Węgajty" in Jonkowo** (November 17, 1995)
+   - Direction: Wacław Sobaszek
 
-## Adaptacje Filmowe
+## Film Adaptations
 
-### Główna Adaptacja Kinowa
+### Main Cinematic Adaptation
 **"I racconti di Canterbury" (1972)** - Pier Paolo Pasolini
-- Środkowa część "Trylogii Życia" (obok "Dekamerona" i "Baśni z tysiąca i jednej nocy")
-- Z ponad 20 opowieści Pasolini wybrał osiem
-- Skupienie na witalności człowieka i seksualności
-- **Nagroda**: Złoty Niedźwiedź na Festiwalu Filmowym w Berlinie
-- Film dostępny w polskiej dystrybucji
+- Middle part of "Trilogy of Life" (alongside "Decameron" and "Arabian Nights")
+- From over 20 tales Pasolini selected eight
+- Focus on human vitality and sexuality
+- **Award**: Golden Bear at Berlin Film Festival
+- Film available in Polish distribution
 
-## Lokalne Nawiązania dla Polskich Czytelników
+## Local References for Polish Readers
 
-### Kulturowe Połączenia
-1. **Brak bezpośredniego dziedzictwa** - "Czternastowieczna literatura angielska nie jest częścią naszego dziedzictwa kulturowego"
-2. **Znajome historie** - mimo to Polacy rozpoznają wiele wątków dzięki źródłom antycznym (Owidiusz, Liwiusz)
-3. **Podobieństwo do Dekamerona** - współczesne Chaucerowi dzieło Boccaccia, dobrze znane w Polsce
+### Cultural Connections
+1. **Lack of direct heritage** - "Fourteenth-century English literature is not part of our cultural heritage"
+2. **Familiar stories** - nevertheless Poles recognize many motifs thanks to ancient sources (Ovid, Livy)
+3. **Similarity to Decameron** - Boccaccio's work contemporary to Chaucer, well known in Poland
 
-### Współczesne Znaczenie
-- W Polsce często czytana literatura angielska i amerykańska nawiązuje do dzieła Chaucera
-- Dzieło staje się ważne dla zrozumienia współczesnej kultury anglosaskiej
-- Pierwszy raz Polacy mają dostęp do kompletnej wersji tego fundamentalnego tekstu
+### Contemporary Significance
+- In Poland, often-read English and American literature refers to Chaucer's work
+- Work becomes important for understanding contemporary Anglo-Saxon culture
+- For the first time Poles have access to complete version of this fundamental text
 
-## Polski Fan Community
+## Polish Fan Community
 
-### Recepcja Czytelnicza
-- **Niszowa publikacja komentowana w rubrykach kulturalnych tygodników**
-- Pierwszy nakład klasyki światowej literatury wyczerpał się w bardzo krótkim czasie
-- Wysokie oceny na portalach czytelniczych (Lubimyczytac.pl, Goodreads)
-- Uznanie krytyków literackich za wypełnienie istotnej luki w polskim rynku wydawniczym
+### Reader Reception
+- **Niche publication commented in cultural sections of weeklies**
+- First print run of world literature classic sold out in very short time
+- High ratings on reading portals (Lubimyczytac.pl, Goodreads)
+- Recognition from literary critics for filling significant gap in Polish publishing market
 
-### Charakterystyka Polskiego Odbioru
-- **Zaskoczenie dostępnością** - dzieło "pozostawało dotąd poza horyzontem naszej kultury"
-- **Docenianie humoru** - polscy czytelnicy szczególnie cenią żywotność i humor Chaucera
-- **Porównania do polskiej tradycji** - "w literaturze polskiej nie mamy czegoś TAKIEGO"
+### Characteristics of Polish Reception
+- **Surprise at availability** - work "remained so far beyond the horizon of our culture"
+- **Appreciation of humor** - Polish readers particularly value Chaucer's vitality and humor
+- **Comparisons to Polish tradition** - "we don't have something LIKE THIS in Polish literature"
 
-## Kulturowe Różnice w Interpretacji
+## Cultural Differences in Interpretation
 
-### Co Polacy Rozumieją Inaczej
-1. **Kontekst religijny** - pielgrzymka do Canterbury vs. polskie tradycje pielgrzymkowe (Częstochowa, Kalwaria)
-2. **Humor średniowieczny** - inne tradycje komiczne (Rej, literatura staropolska)
-3. **Stosunki społeczne** - różne doświadczenia feudalizmu i rozwoju miast
+### What Poles Understand Differently
+1. **Religious context** - pilgrimage to Canterbury vs. Polish pilgrimage traditions (Częstochowa, Kalwaria)
+2. **Medieval humor** - different comic traditions (Rej, Old Polish literature)
+3. **Social relations** - different experiences of feudalism and urban development
 
-### Polskie Akcenty w Interpretacji
-- Większe zrozumienie dla satyre społecznej ze względu na polskie doświadczenia historyczne
-- Docenianie motywu podróży jako przestrzeni wolności (tradycja szlachecka, kultura sarmacka)
-- Znajomość literatury ramowej z "Pamiątek Soplicy" czy "Krzyżaków"
+### Polish Accents in Interpretation
+- Greater understanding for social satire due to Polish historical experiences
+- Appreciation of travel motif as space of freedom (noble tradition, Sarmatian culture)
+- Knowledge of frame literature from "Soplica's Memoirs" or "The Teutonic Knights"
 
-## Znaczenie dla Małopolski i Krakowa
+## Significance for Lesser Poland and Krakow
 
-### Połączenia z Krakowem
-- **Uniwersytet Jagielloński** - jeden z najstarszych uniwersytetów w Europie, współczesny Chaucerowi
-- **Tradycje średniowieczne** - Kraków jako stolica w czasach Chaucera
-- **Literatura dworska** - podobny kontekst kulturowy do dworu angielskiego
+### Connections with Krakow
+- **Jagiellonian University** - one of oldest universities in Europe, contemporary to Chaucer
+- **Medieval traditions** - Krakow as capital in Chaucer's times
+- **Court literature** - similar cultural context to English court
 
-### Lokalne Odniesienia
-- **Wawel** - porównywalny z dworem angielskim jako centrum władzy i kultury
-- **Tradycje opowiadania** - krakowskie legendy i podania (smok wawelski, Lajkonik)
-- **Kultura mieszczańska** - podobne do chaucerowskich mieszczan z Canterbury
+### Local References
+- **Wawel** - comparable to English court as center of power and culture
+- **Storytelling traditions** - Krakow legends and tales (Wawel Dragon, Lajkonik)
+- **Burgher culture** - similar to Chaucerian burghers from Canterbury
 
-## Ciekawostki dla Polskich Słuchaczy
+## Interesting Facts for Polish Listeners
 
-1. **Pierwszy kompletny przekład** powstał dopiero w 2021 roku - 621 lat po napisaniu oryginału
-2. **Tłumacz używa słowa "hajs"** - średniowieczny tekst w najnowszej polszczyźnie
-3. **Ilustracje komiksu** - Maciej Sieńczyk, znany z polskich komiksów
-4. **Wydawca ze Śląska** - Biblioteka Śląska jako pionier w udostępnianiu klasyki
-5. **Teatr w Opolu** - pierwsza wielka polska adaptacja teatralna w 1976 roku
-6. **Brak lektury szkolnej** - mimo znaczenia, nie jest w kanonie polskiej edukacji
-7. **Pasolini w Polsce** - kultowy włoski film dostępny w polskich kinach
-8. **UMCS jako centrum badań** - Lublin jako główny ośrodek polskich studiów nad Chaucerem
-9. **Kasprowicz jako pionier** - wielki polski poeta jako pierwszy tłumacz fragmentów
-10. **Pełny tytuł po polsku** - "Opowieści kanterberyjskie" brzmi jak polska kronika średniowieczna
+1. **First complete translation** was made only in 2021 - 621 years after writing the original
+2. **Translator uses word "hajs"** - medieval text in newest Polish
+3. **Comic illustrations** - Maciej Sieńczyk, known from Polish comics
+4. **Silesian publisher** - Silesian Library as pioneer in making classics available
+5. **Theatre in Opole** - first great Polish theatrical adaptation in 1976
+6. **No school reading** - despite significance, not in Polish education canon
+7. **Pasolini in Poland** - cult Italian film available in Polish cinemas
+8. **UMCS as research center** - Lublin as main center of Polish Chaucer studies
+9. **Kasprowicz as pioneer** - great Polish poet as first translator of fragments
+10. **Full Polish title** - "Opowieści kanterberyjskie" sounds like Polish medieval chronicle

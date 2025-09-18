@@ -1,178 +1,178 @@
-# Fakty i Historia: "Things Fall Apart" Chinua Achebe (1958)
+# Facts and History: "Things Fall Apart" by Chinua Achebe (1958)
 
-## Podstawowe Informacje
-- **Tytuł oryginalny**: Things Fall Apart
-- **Tytuł polski**: Świat się rozpada / Wszystko się rozpada
-- **Autor**: Chinua Achebe
-- **Rok publikacji**: 1958
-- **Gatunek**: Powieść historyczna, tragedia
+## Basic Information
+- **Original Title**: Things Fall Apart
+- **Polish Title**: Świat się rozpada / Wszystko się rozpada
+- **Author**: Chinua Achebe
+- **Publication Year**: 1958
+- **Genre**: Historical fiction, tragedy
 
-## Okoliczności Powstania
+## Circumstances of Creation
 
-### **FAKT**: Wiek autora podczas pisania
-Chinua Achebe napisał "Things Fall Apart" w 1958 roku, mając zaledwie 28 lat. Urodzony 16 listopada 1930 roku, był młodym człowiekiem u szczytu swoich twórczych możliwości.
+### **FACT**: Author's age during writing
+Chinua Achebe wrote "Things Fall Apart" in 1958 at just 28 years old. Born on November 16, 1930, he was a young man at the peak of his creative abilities.
 
-### **FAKT**: Miejsce pracy podczas pisania
-Achebe pisał powieść pracując w Nigerian Broadcasting Corporation (NBC), gdzie był zatrudniony od 1954 roku. Podczas publikacji książki został awansowany i objął zarząd nad regionem wschodnim sieci.
+### **FACT**: Workplace during writing
+Achebe wrote the novel while working at the Nigerian Broadcasting Corporation (NBC), where he had been employed since 1954. During the book's publication, he was promoted and took charge of the eastern region network.
 
-### **FAKT**: Status cywilny
-Podczas pisania "Things Fall Apart" Achebe był kawalerem. Ożenił się z Christie Chinwe Okoli dopiero w 1961 roku, co oznacza, że tworzył swoje arcydzieło jako singiel skupiony na karierze w radiofonii i ambicjach literackich.
+### **FACT**: Marital status
+While writing "Things Fall Apart," Achebe was a bachelor. He married Christie Chinwe Okoli only in 1961, meaning he created his masterpiece as a single man focused on his career in radio and literary ambitions.
 
-### **FAKT**: Inspiracja tytułu
-Tytuł książki pochodzi z trzeciego wersu wiersza W.B. Yeatsa "The Second Coming" z 1919 roku: "Things fall apart; the centre cannot hold". Achebe używał fragmentu tego wiersza jako motta książki.
+### **FACT**: Title inspiration
+The book's title comes from the third verse of W.B. Yeats' poem "The Second Coming" from 1919: "Things fall apart; the centre cannot hold." Achebe used a fragment of this poem as the book's epigraph.
 
-### **FAKT**: Reakcja na kolonialną literaturę
-Powieść powstała jako bezpośrednia odpowiedź na książki takie jak "Jądro ciemności" Josepha Conrada, które - według Achebe - przedstawiały Afrykę jako "pierwotne i bezkulturowe tło dla Europy".
+### **FACT**: Response to colonial literature
+The novel was created as a direct response to books like Joseph Conrad's "Heart of Darkness," which - according to Achebe - portrayed Africa as a "primitive and cultureless backdrop for Europe."
 
-## Proces Twórczy i Edukacyjny
+## Creative and Educational Process
 
-### **FAKT**: Zmiana kierunku studiów
-W 1948 roku Achebe otrzymał stypendium na studia medyczne na University College (obecnie University of Ibadan), ale po zaledwie roku porzucił medycynę na rzecz literatury angielskiej, tracąc przy tym stypendium.
+### **FACT**: Change of study direction
+In 1948, Achebe received a scholarship for medical studies at University College (now University of Ibadan), but after just one year he abandoned medicine for English literature, losing his scholarship in the process.
 
-### **FAKT**: Zmiana nazwiska
-Podczas studiów odrzucił swoje chrześcijańskie imię "Albert" na rzecz afrykańskiego imienia Chinua (skrót od Chinualumogu, oznaczającego "Bóg będzie za mną walczył").
+### **FACT**: Name change
+During his studies, he rejected his Christian name "Albert" in favor of the African name Chinua (short for Chinualumogu, meaning "God will fight for me").
 
-### **FAKT**: Kształcenie się na BBC
-W 1957 roku Achebe pojechał do Londynu na szkolenie w BBC Staff School, gdzie spotkał powieściopisarza Gilberta Phelpsa, który podziwiał jego rękopis i pomógł mu znaleźć wydawcę.
+### **FACT**: BBC training
+In 1957, Achebe went to London for training at BBC Staff School, where he met novelist Gilbert Phelps, who admired his manuscript and helped him find a publisher.
 
-## Dramatyczna Historia Publikacji
+## Dramatic Publication History
 
-### **FAKT**: Niemal utracony rękopis
-Achebe wysłał swój odręczny rękopis - jedyną istniejącą kopię "Things Fall Apart" - do agencji maszynopisania w Londynie zwykłą pocztą. Agencja przez miesiące nie odpowiadała po otrzymaniu opłaty 22 funty.
+### **FACT**: Nearly lost manuscript
+Achebe sent his handwritten manuscript - the only existing copy of "Things Fall Apart" - to a typing agency in London by regular mail. The agency didn't respond for months after receiving the £22 fee.
 
-### **FAKT**: Heroiczna interwencja
-Angela Beattie, szefowa Achebe w NBC, pojechała do agencji maszynopisania i gniewnie zażądała wyjaśnień, dlaczego rękopis leży zaniedbany w kącie biura. Jej interwencja była kluczowa - bez niej Achebe prawdopodobnie zniechęciłby się i porzucił pisanie.
+### **FACT**: Heroic intervention
+Angela Beattie, Achebe's boss at NBC, went to the typing agency and angrily demanded an explanation for why the manuscript was lying neglected in a corner of the office. Her intervention was crucial - without it, Achebe would probably have become discouraged and abandoned writing.
 
-### **FAKT**: Seria odrzuceń
-Kilka londyńskich domów wydawniczych odrzuciło rękopis, twierdząc, że literatura afrykańska nie ma potencjału komercyjnego. W latach 50. było niemal niemożliwe, żeby afrykański pisarz został poważnie potraktowany przez londyńskiego wydawcę.
+### **FACT**: Series of rejections
+Several London publishing houses rejected the manuscript, claiming that African literature had no commercial potential. In the 1950s, it was almost impossible for an African writer to be taken seriously by a London publisher.
 
-### **FAKT**: Przełomowa recenzja
-Donald MacRae, doradca edukacyjny w Heinemann, przeczytał książkę i raportował firmie: "To najlepsza powieść, jaką przeczytałem od czasu wojny." Ta opinia przekonała Heinemann do publikacji.
+### **FACT**: Breakthrough review
+Donald MacRae, an educational advisor at Heinemann, read the book and reported to the company: "This is the best novel I have read since the war." This opinion convinced Heinemann to publish.
 
-### **FAKT**: Pierwsze wydanie
-Heinemann opublikował 2000 egzemplarzy w twardej oprawie 17 czerwca 1958 roku.
+### **FACT**: First edition
+Heinemann published 2,000 hardcover copies on June 17, 1958.
 
-## Natychmiastowy Sukces
+## Immediate Success
 
-### **FAKT**: Błyskawiczna sława
-Sława przyszła niemal natychmiast po publikacji. Achebe później mówił, że nigdy nie doświadczył życia walczącego pisarza - sukces był od razu.
+### **FACT**: Lightning fame
+Fame came almost immediately after publication. Achebe later said he never experienced the life of a struggling writer - success was immediate.
 
-### **FAKT**: Pierwsze recenzje
-The Times Literary Supplement napisał trzy dni po publikacji, że książka "naprawdę udaje się w przedstawianiu życia plemiennego od wewnątrz", a The Observer nazwał ją "doskonałą powieścią".
+### **FACT**: First reviews
+The Times Literary Supplement wrote three days after publication that the book "really succeeds in presenting tribal life from within," and The Observer called it "an excellent novel."
 
-### **FAKT**: Amerykańska publikacja
-W Stanach Zjednoczonych książka została opublikowana po raz pierwszy w 1969 roku, sprzedając od tego czasu ponad 5 milionów egzemplarzy w USA.
+### **FACT**: American publication
+In the United States, the book was first published in 1969, selling over 5 million copies in the US since then.
 
-## Rekordowe Liczby i Statystyki
+## Record Numbers and Statistics
 
-### **FAKT**: Sprzedaż globalna
-Do dziś sprzedano między 15-20 milionów egzemplarzy na całym świecie w 60 językach. Niektóre źródła podają ponad 20 milionów kopii.
+### **FACT**: Global sales
+To date, between 15-20 million copies have been sold worldwide in 60 languages. Some sources cite over 20 million copies.
 
-### **FAKT**: Roczna sprzedaż
-Książka sprzedaje około 100 000 egzemplarzy rocznie tylko w USA.
+### **FACT**: Annual sales
+The book sells approximately 100,000 copies annually in the US alone.
 
-### **FAKT**: Tłumaczenia
-Przetłumaczona na ponad 57 języków, co czyni Achebe najczęściej tłumaczonym afrykańskim autorem.
+### **FACT**: Translations
+Translated into over 57 languages, making Achebe the most frequently translated African author.
 
-### **FAKT**: Edukacja
-Oferowana w ponad 2000 z 3000 uniwersytetów, college'ów i szkół średnich w Ameryce Północnej.
+### **FACT**: Education
+Offered in over 2,000 of 3,000 universities, colleges, and high schools in North America.
 
-### **FAKT**: Międzynarodowa edukacja
-W Korei Południowej i Japonii "Things Fall Apart" jest rutynowo nauczana studentom literatury angielskiej na uniwersytetach i w szkołach średnich.
+### **FACT**: International education
+In South Korea and Japan, "Things Fall Apart" is routinely taught to English literature students at universities and high schools.
 
-### **FAKT**: Ranking Time Magazine
-Książka znalazła się na liście Time Magazine "100 najlepszych powieści w języku angielskim z lat 1923-2005".
+### **FACT**: Time Magazine ranking
+The book made Time Magazine's list of "100 Best English-Language Novels from 1923-2005."
 
-## Adaptacje i Wpływ Kulturowy
+## Adaptations and Cultural Impact
 
-### **FAKT**: Pierwsza adaptacja filmowa (1970)
-Pierwszą adaptację filmową wyreżyserował niemiecki filmowiec Hansjürgen Pohland w 1970 roku (premiera 1971). Film był także znany jako "Bullfrog in the Sun" i łączył elementy z "Things Fall Apart" oraz "No Longer at Ease".
+### **FACT**: First film adaptation (1970)
+The first film adaptation was directed by German filmmaker Hansjürgen Pohland in 1970 (released 1971). The film was also known as "Bullfrog in the Sun" and combined elements from "Things Fall Apart" and "No Longer at Ease."
 
-### **FAKT**: Reakcja autora na film
-Achebe nie był zadowolony z adaptacji, uważając, że filmowcy wzięli sobie zbyt dużo swobody z materiałem, aby nawiązać do przemocy wojny biafrańskiej (1967-70).
+### **FACT**: Author's reaction to the film
+Achebe was not satisfied with the adaptation, believing the filmmakers took too much liberty with the material to reference the violence of the Biafran War (1967-70).
 
-### **FAKT**: Zagubiony film
-Film był uważany za zaginiony przez dziesięciolecia, aż do 2019 roku, gdy znaleziono ponad 2000 zdjęć, dokumenty produkcyjne i kopię filmu w archiwum Deutsche Kinemathek Berlin.
+### **FACT**: Lost film
+The film was considered lost for decades until 2019, when over 2,000 photographs, production documents, and a copy of the film were found in the Deutsche Kinemathek Berlin archive.
 
-### **FAKT**: Adaptacja radiowa (1961)
-Nigerian Broadcasting Corporation zaadaptowała powieść na drama radiowe "Okonkwo" w kwietniu 1961 roku, z udziałem Wole Soyinki w roli drugoplanowej.
+### **FACT**: Radio adaptation (1961)
+The Nigerian Broadcasting Corporation adapted the novel into a radio drama "Okonkwo" in April 1961, featuring Wole Soyinka in a supporting role.
 
-### **FAKT**: Telewizyjna miniseries (1987)
-David Orere wyreżyserował 13-odcinkowy miniserial dla Nigerian Television Authority z Pete Edochie jako Okonkwo i Justus Esiri jako Obierika.
+### **FACT**: Television miniseries (1987)
+David Orere directed a 13-episode miniseries for Nigerian Television Authority with Pete Edochie as Okonkwo and Justus Esiri as Obierika.
 
-### **FAKT**: Nadchodząca seria A24 (2025)
-A24 rozwija limitowaną serię telewizyjną z Idrisem Elbą w roli głównej. Seria ma być kręcona na początku 2025 roku.
+### **FACT**: Upcoming A24 series (2025)
+A24 is developing a limited television series starring Idris Elba in the lead role. The series is scheduled to begin filming in early 2025.
 
-## Nagrody i Uznanie
+## Awards and Recognition
 
-### **FAKT**: Man Booker International Prize
-W 2007 roku Achebe wygrał Man Booker International Prize za całą swoją twórczość.
+### **FACT**: Man Booker International Prize
+In 2007, Achebe won the Man Booker International Prize for his entire body of work.
 
-### **FAKT**: Brak Nobla
-Pomimo światowej renomy, Achebe nigdy nie otrzymał Nagrody Nobla. W 1988 roku, gdy zapytano go o uczucia związane z tym faktem, odpowiedział: "To nie jest afrykańska nagroda... Literatura to nie mistrzostwa wagi ciężkiej."
+### **FACT**: No Nobel Prize
+Despite worldwide renown, Achebe never received the Nobel Prize. In 1988, when asked about his feelings regarding this fact, he replied: "It's not an African prize... Literature is not heavyweight boxing."
 
-### **FAKT**: Reakcja na Nobla Soyinki
-Gdy Wole Soyinka otrzymał Nagrodę Nobla w 1986 roku, Achebe dołączył do reszty Nigerii w świętowaniu pierwszego Afrykanina, który zdobył tę nagrodę.
+### **FACT**: Reaction to Soyinka's Nobel
+When Wole Soyinka received the Nobel Prize in 1986, Achebe joined the rest of Nigeria in celebrating the first African to win this award.
 
-### **FAKT**: Odrzucenie nigeryjskich nagród
-Achebe dwukrotnie odrzucił nigeryjską nagrodę Commander of the Federal Republic (CFR) w 2004 i 2011 roku z powodu niezadowolenia z sytuacji politycznej Nigerii.
+### **FACT**: Rejection of Nigerian awards
+Achebe twice rejected the Nigerian award Commander of the Federal Republic (CFR) in 2004 and 2011 due to dissatisfaction with Nigeria's political situation.
 
-### **FAKT**: Stopnie honorowe
-Otrzymał ponad 30 honorowych stopni naukowych z uniwersytetów w Nigerii, Kanadzie, RPA, Wielkiej Brytanii i USA, w tym z Dartmouth College, Harvardu i Brown.
+### **FACT**: Honorary degrees
+He received over 30 honorary academic degrees from universities in Nigeria, Canada, South Africa, the UK, and the US, including from Dartmouth College, Harvard, and Brown.
 
-## Kontrowersje i Krytyka
+## Controversies and Criticism
 
-### **FAKT**: Rasa i kolonializm
-W 1977 roku Achebe nazwał Josepha Conrada "pieprzonymi rasistą", którego prace powtarzają kolonialne stereotypy o Afryce.
+### **FACT**: Race and colonialism
+In 1977, Achebe called Joseph Conrad a "bloody racist" whose works perpetuate colonial stereotypes about Africa.
 
-### **FAKT**: Akademicka debata
-Krytyka Achebe otworzyła drzwi dla dalszych postkolonialnych analiz, po których poszły inne perspektywy akademickie, w tym odczyty feministyczne.
+### **FACT**: Academic debate
+Achebe's criticism opened doors for further postcolonial analyses, followed by other academic perspectives, including feminist readings.
 
-### **FAKT**: Trwająca kontrowersja
-Powieściopis Caryl Phillips stwierdził w 2003 roku: "Achebe ma rację; dla afrykańskiego czytelnika ceną Conradowskiego elokwentnego potępienia kolonizacji jest recykling rasistowskich pojęć o 'ciemnym' kontynencie i jej ludziach."
+### **FACT**: Ongoing controversy
+Novelist Caryl Phillips stated in 2003: "Achebe is right; for an African reader, the price of Conrad's eloquent condemnation of colonization is the recycling of racist notions about the 'dark' continent and its people."
 
-## Wpływ na Literaturę Światową
+## Impact on World Literature
 
-### **FAKT**: Pierwszy sukces
-"Things Fall Apart" była pierwszą książką, która zapożyczyła linię z wiersza Yeatsa "The Second Coming", a od czasu Achebe dziesiątki, jeśli nie setki innych autorów poszły w jego ślady.
+### **FACT**: First success
+"Things Fall Apart" was the first book to borrow a line from Yeats' poem "The Second Coming," and since Achebe, dozens if not hundreds of other authors have followed in his footsteps.
 
-### **FAKT**: Rewolucja postkolonialna
-Książka fundamentalnie zmieniła sposób, w jaki afrykańskie historie są opowiadane w literaturze światowej, poprzez humanizację niezachodnich kultur i wyjaśnienie okropności imperializmu.
+### **FACT**: Postcolonial revolution
+The book fundamentally changed how African stories are told in world literature by humanizing non-Western cultures and explaining the horrors of imperialism.
 
-### **FAKT**: "Ojciec literatury afrykańskiej"
-Achebe jest powszechnie uznawany za "ojca literatury afrykańskiej" głównie dzięki tej przełomowej powieści.
+### **FACT**: "Father of African literature"
+Achebe is widely recognized as the "father of African literature" primarily due to this groundbreaking novel.
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-### **PLOTKA**: Język pisania
-Achebe pisał w języku angielskim, ponieważ uważał istniejący standard pisanego języka igbo za sztywny, stworzony przez łączenie różnych dialektów.
+### **RUMOR**: Language of writing
+Achebe wrote in English because he considered the existing standard of written Igbo language rigid, created by combining various dialects.
 
-### **FAKT**: Polityczny wybór języka
-Jego decyzja o pisaniu w języku angielskim była polityczna - chciał odpowiedzieć na kolonialne relacje o Afryce i osiągnąć rewitalizację kulturową w języku angielskim i poprzez niego.
+### **FACT**: Political language choice
+His decision to write in English was political - he wanted to respond to colonial accounts of Africa and achieve cultural revitalization in and through the English language.
 
-### **FAKT**: Natychmiastowy wpływ
-Powieść miała natychmiastowy wpływ na postrzeganie literatury afrykańskiej, pokazując złożoność społeczeństw afrykańskich zamiast prymitywnych stereotypów.
+### **FACT**: Immediate impact
+The novel had an immediate impact on the perception of African literature, showing the complexity of African societies instead of primitive stereotypes.
 
-### **FAKT**: Coroczne święto
-Spuścizna Achebe jest celebrowana corocznie na Chinua Achebe Literary Festival.
+### **FACT**: Annual celebration
+Achebe's legacy is celebrated annually at the Chinua Achebe Literary Festival.
 
-### **FAKT**: Most międzykulturowy
-Książka służy jako most między tradycyjną kulturą igbo a współczesnym światem, pokazując zarówno piękno tradycyjnego społeczeństwa, jak i tragiczne konsekwencje kolonialnego najazdu.
+### **FACT**: Intercultural bridge
+The book serves as a bridge between traditional Igbo culture and the modern world, showing both the beauty of traditional society and the tragic consequences of colonial invasion.
 
-## Znaczenie Historyczne
+## Historical Significance
 
-### **FAKT**: Przełom w reprezentacji
-"Things Fall Apart" była jedną z pierwszych powieści napisanych przez Afrykanina, która zdobyła międzynarodowe uznanie i zmieniła sposób przedstawiania Afryki w literaturze.
+### **FACT**: Breakthrough in representation
+"Things Fall Apart" was one of the first novels written by an African that gained international recognition and changed how Africa was portrayed in literature.
 
-### **FAKT**: Edukacyjny wpływ
-Książka jest obecnie jedną z najczęściej studiowanych pozycji w szkołach i na uniwersytetach na całym świecie, wprowadzając uczniów do perspektywy postkolonialnej.
+### **FACT**: Educational impact
+The book is currently one of the most frequently studied works in schools and universities worldwide, introducing students to postcolonial perspectives.
 
-### **FAKT**: Inspiracja dla innych
-Sukces Achebe zainspirowałi całą generację afrykańskich pisarzy do opowiadania swoich własnych historii we własnych głosach.
+### **FACT**: Inspiration for others
+Achebe's success inspired an entire generation of African writers to tell their own stories in their own voices.
 
-### **FAKT**: Kulturowa rewolucja
-Powieść zapoczątkowała rewolucję w sposobie myślenia o afrykańskiej kulturze, przechodzącą od zewnętrznej egzotyzacji do wewnętrznej humanizacji.
+### **FACT**: Cultural revolution
+The novel initiated a revolution in thinking about African culture, moving from external exoticization to internal humanization.
 
 ---
 
-*Dokument przygotowany na podstawie badań internetowych i źródeł akademickich. Fakty oznaczone jako **FAKT** są potwierdzone w wielu źródłach, podczas gdy **PLOTKA** oznacza informacje wymagające dalszej weryfikacji.*
+*Document prepared based on internet research and academic sources. Facts marked as **FACT** are confirmed in multiple sources, while **RUMOR** indicates information requiring further verification.*

@@ -1,133 +1,133 @@
-# Historia i fascynujące fakty: "Mechaniczna pomarańcza" Anthony'ego Burgessa
+# History and Fascinating Facts: "A Clockwork Orange" by Anthony Burgess
 
-## 1. OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## 1. CIRCUMSTANCES OF THE BOOK'S CREATION
 
-**FAKT**: Burgess rozpoczął pisanie powieści na początku 1961 roku, po powrocie z kolonialnej służby w Malajach i Brunei, gdy zauważył, że Anglia zmieniła się podczas jego nieobecności - pojawiła się nowa kultura młodzieżowa z muzyką pop, kawiarniami mlecznymi i przemocą Teddy Boys.
+**FACT**: Burgess began writing the novel in early 1961, after returning from colonial service in Malaya and Brunei, when he noticed that England had changed during his absence - a new youth culture had emerged with pop music, milk bars, and violence from Teddy Boys.
 
-**FAKT**: Powieść była napisana w Hove, sentymentalnym nadmorskim mieście w Anglii, w okresie od wczesnego 1961 do sierpnia 1961 roku - wbrew późniejszym twierdzeniom Burgessa o trzech tygodniach pracy.
+**FACT**: The novel was written in Hove, a sentimental seaside town in England, from early 1961 to August 1961 - contrary to Burgess's later claims of three weeks of work.
 
-**FAKT**: Burgess planował książkę już w 1960 roku - wczesny notatnik zawiera zarys powieści o około 200 stronach, osadzonej w roku 1980, z roboczym tytułem "The Plank in Your Eye".
+**FACT**: Burgess had been planning the book since 1960 - an early notebook contains an outline for a novel of about 200 pages, set in 1980, with the working title "The Plank in Your Eye".
 
-**FAKT**: Do połowy 1961 roku Burgess napisał 60 stron "Mechanicznej pomarańczy", następnie pojechał z żoną Lynne do Leningradu, a po powrocie dokończył powieść w sierpniu 1961 roku.
+**FACT**: By mid-1961, Burgess had written 60 pages of "A Clockwork Orange", then traveled with his wife Lynne to Leningrad, and completed the novel in August 1961 after their return.
 
-## 2. INSPIRACJE AUTORA
+## 2. AUTHOR'S INSPIRATIONS
 
-**FAKT**: Główną inspiracją była tragedia osobista - podczas londyńskiego Blitzu w II wojnie światowej żona Burgessa, Lynne, została napadnięta, pobita i zgwałcona przez dezerterów z armii amerykańskiej podczas zaciemnienia. To wydarzenie mogło przyczynić się do jej późniejszego poronienia.
+**FACT**: The main inspiration was personal tragedy - during the London Blitz in World War II, Burgess's wife Lynne was attacked, beaten, and raped by American army deserters during a blackout. This event may have contributed to her subsequent miscarriage.
 
-**FAKT**: Kluczową inspiracją była podróż do Leningradu w czerwcu 1961 roku - podczas kolacji w restauracji grupa dziwnie ubranych nastolatków łomotała w drzwi. Burgess myślał, że atakują go jako zachodniego turystę, ale chłopcy uprzejmie ustąpili mu miejsca, a potem wrócili do łomotania.
+**FACT**: A key inspiration was a trip to Leningrad in June 1961 - during dinner at a restaurant, a group of strangely dressed teenagers was banging on the doors. Burgess thought they were attacking him as a Western tourist, but the boys politely gave way to him, then returned to their banging.
 
-**FAKT**: Powrót z kolonii w 1959 roku pozwolił Burgessowi zaobserwować narodziny nowej kultury młodzieżowej opartej na kawiarniach, muzyce pop i młodzieżowych gangach - Anglia była ogarnięta strachem przed przestępczością nieletnich.
+**FACT**: His return from the colonies in 1959 allowed Burgess to observe the birth of a new youth culture based on coffee bars, pop music, and youth gangs - England was gripped by fear of juvenile crime.
 
-**PLOTKA**: Burgess twierdził, że usłyszał wyrażenie "as queer as a clockwork orange" w londyńskim pubie w 1945 roku, ale Kingsley Amis zakwestionował to, twierdząc, że nie ma takiego zwrotu w słownikach slangu.
+**RUMOR**: Burgess claimed he heard the phrase "as queer as a clockwork orange" in a London pub in 1945, but Kingsley Amis questioned this, claiming there was no such expression in slang dictionaries.
 
-## 3. PROCES TWÓRCZY I JĘZYK NADSAT
+## 3. CREATIVE PROCESS AND NADSAT LANGUAGE
 
-**FAKT**: Burgess zmagał się z "nierozwiązywalnym problemem" - jak ustanowić głos nastoletniego narratora książki, aż nauka rosyjskiego przed podróżą do Leningradu dostarczyła rozwiązania.
+**FACT**: Burgess struggled with an "intractable problem" - how to establish the voice of the teenage narrator of the book, until learning Russian before his trip to Leningrad provided the solution.
 
-**FAKT**: Słownictwo "Nadsat" (ros. "nastolatek") składa się w większości ze słów pochodzących z rosyjskiego - dziewięć z dziesięciu najczęściej używanych słów w powieści pochodzi z rosyjskiego.
+**FACT**: The "Nadsat" vocabulary (Russian "teenager") consists mostly of words derived from Russian - nine out of ten most frequently used words in the novel come from Russian.
 
-**FAKT**: Nadsat łączy zmodyfikowane słowiańskie słowa, cockney rhyming slang, gwary złodziejskiej, romskie słowa oraz elementy dialektu Lancashire, elizabetańskiego angielskiego i slangu wojskowego.
+**FACT**: Nadsat combines modified Slavic words, cockney rhyming slang, thieves' cant, Romani words, and elements of Lancashire dialect, Elizabethan English, and military slang.
 
-**FAKT**: Burgess zamierzył, aby "Nadsat był przeznaczony do zamiany Mechanicznej pomarańczy w podręcznik prania mózgu. Powinieneś przeczytać książkę, a na końcu powinieneś znaleźć się w posiadaniu minimalnego słownictwa rosyjskiego - bez wysiłku, ze zdziwieniem".
+**FACT**: Burgess intended that "Nadsat was meant to turn A Clockwork Orange into a brainwashing primer. You should read the book, and at the end you should find yourself in possession of a minimal Russian vocabulary - without effort, with surprise".
 
-**FAKT**: Przykłady słów Nadsat: droog (друг) = przyjaciel; moloko (молоко) = mleko; gulliver (голова) = głowa; horrorshow (хорошо) = dobry.
+**FACT**: Examples of Nadsat words: droog (друг) = friend; moloko (молоко) = milk; gulliver (голова) = head; horrorshow (хорошо) = good.
 
-## 4. PUBLIKACJA I PIERWSZE REAKCJE
+## 4. PUBLICATION AND INITIAL REACTIONS
 
-**FAKT**: Po publikacji w 1962 roku "Mechaniczna pomarańcza" sprzedawała się słabo - większość recenzentów była zmieszana lingwistyczną pomysłowością Burgessa i zszokowana przemocą.
+**FACT**: After publication in 1962, "A Clockwork Orange" sold poorly - most reviewers were confused by Burgess's linguistic inventiveness and shocked by the violence.
 
-**FAKT**: Książka stała się ogromnym sukcesem dopiero po premierze filmowej adaptacji Stanleya Kubricka w 1971 roku, która trzymała się amerykańskiej wersji powieści bez ostatniego, odkupieńczego rozdziału.
+**FACT**: The book only became a huge success after Stanley Kubrick's film adaptation premiered in 1971, which adhered to the American version of the novel without the final, redemptive chapter.
 
-**FAKT**: Pierwsze incydenty cenzury książki miały miejsce w 1973 roku, gdy księgarz został aresztowany za sprzedaż powieści (choć zarzuty później wycofano).
+**FACT**: The first censorship incidents of the book occurred in 1973, when a bookseller was arrested for selling the novel (though charges were later dropped).
 
-**FAKT**: W latach 1976-1982 książka była usuwana z amerykańskich szkół średnich i bibliotek z powodu "nieprzyzwoitego języka" - w Aurora w Colorado (1976), Westport w Massachusetts (1977) i Anniston w Alabamie (1982).
+**FACT**: Between 1976-1982, the book was removed from American high schools and libraries for "indecent language" - in Aurora, Colorado (1976), Westport, Massachusetts (1977), and Anniston, Alabama (1982).
 
-## 5. BIOGRAFIA AUTORA W KONTEKŚCIE KSIĄŻKI
+## 5. AUTHOR'S BIOGRAPHY IN CONTEXT OF THE BOOK
 
-**FAKT**: W 1959 roku Burgess zasłabł w klasie podczas nauczania w Brunei i został zwolniony z brytyjskiej służby kolonialnej z powodu tajemniczej choroby, błędnie zdiagnozowanej jako nieoperacyjny guz mózgu.
+**FACT**: In 1959, Burgess collapsed in class while teaching in Brunei and was dismissed from British colonial service due to a mysterious illness, misdiagnosed as an inoperable brain tumor.
 
-**FAKT**: Otrzymał diagnozę, że ma tylko rok życia, co skłoniło go do szalonego pisania - w 1960 roku napisał pięć powieści, aby zapewnić środki dla żony po swojej śmierci.
+**FACT**: He received a diagnosis that he had only a year to live, which prompted him to write frantically - in 1960 he wrote five novels to provide for his wife after his death.
 
-**FAKT**: Do końca 1962 roku opublikował siedem powieści, w tym "The Doctor is Sick", "The Worm and the Ring", "Devil of a State", "A Clockwork Orange" i "The Wanting Seed".
+**FACT**: By the end of 1962, he had published seven novels, including "The Doctor is Sick", "The Worm and the Ring", "Devil of a State", "A Clockwork Orange", and "The Wanting Seed".
 
-**FAKT**: Diagnoza guza mózgu okazała się błędna - na końcu roku wyrok został wycofany, ale stał się punktem zwrotnym, przekształcając Burgessa z nauczyciela służby kolonialnej w jednego z najbardziej płodnych pisarzy XX wieku.
+**FACT**: The brain tumor diagnosis proved false - at the end of the year the verdict was withdrawn, but it became a turning point, transforming Burgess from a colonial service teacher into one of the most prolific writers of the 20th century.
 
-**FAKT**: Żona Lynne zmarła w marcu 1968 roku na niewydolność wątroby po długiej chorobie, którą Burgess wiązał z incydentem z czasów II wojny światowej.
+**FACT**: His wife Lynne died in March 1968 from liver failure after a long illness, which Burgess linked to the World War II incident.
 
-## 6. FILM KUBRICKA I KONTROWERSJE
+## 6. KUBRICK'S FILM AND CONTROVERSIES
 
-**FAKT**: Film Kubricka z 1971 roku wywołał polaryzację wśród krytyków i kontrowersje z powodu przedstawień graficznej przemocy.
+**FACT**: Kubrick's 1971 film polarized critics and caused controversy due to its graphic depictions of violence.
 
-**FAKT**: W ciągu dwóch tygodni od premiery w Wielkiej Brytanii "prawicowcy i propagandziści parlamentarni zawodzili, aby film został zakazany, zanim przemoc naśladowcza mogłaby się rozprzestrzenić wśród podatnej na wpływy młodzieży kraju".
+**FACT**: Within two weeks of its UK premiere, "right-wingers and parliamentary propagandists were wailing for the film to be banned before copycat violence could spread among the country's impressionable youth".
 
-**FAKT**: Film nie został oficjalnie zakazany przez brytyjskie władze - to sam Kubrick nakazał wycofanie filmu z dystrybucji w Wielkiej Brytanii w 1973 roku i odmówił wszelkich pokazów filmu aż do swojej śmierci w 1999 roku.
+**FACT**: The film was not officially banned by British authorities - Kubrick himself ordered the film withdrawn from UK distribution in 1973 and refused all screenings of the film until his death in 1999.
 
-**FAKT**: Christiane Kubrick mówiła o groźbach śmierci przeciwko rodzinie, gdy kontrowersje wokół filmu nasiliły się w 1972 roku.
+**FACT**: Christiane Kubrick spoke of death threats against the family when controversies around the film intensified in 1972.
 
-**FAKT**: Film był trudny do obejrzenia w Wielkiej Brytanii przez 27 lat - został ponownie wydany dopiero po śmierci Kubricka w marcu 2000 roku.
+**FACT**: The film was difficult to see in the UK for 27 years - it was only re-released after Kubrick's death in March 2000.
 
-**FAKT**: Film był zakazany w Hiszpanii, RPA i Brazylii, a także napotkał trudności z cenzurą w Argentynie, która domagała się cięć.
+**FACT**: The film was banned in Spain, South Africa, and Brazil, and also encountered censorship difficulties in Argentina, which demanded cuts.
 
-## 7. UKRYTE ZNACZENIA I EASTER EGGI
+## 7. HIDDEN MEANINGS AND EASTER EGGS
 
-**FAKT**: W filmie Kubricka gazeta podaje nazwisko Alexa jako "Burgess" zamiast "DeLarge", bezpośrednio nawiązując do autora Anthony'ego Burgessa.
+**FACT**: In Kubrick's film, the newspaper gives Alex's surname as "Burgess" instead of "DeLarge", directly referencing author Anthony Burgess.
 
-**FAKT**: Numer więzienny Alexa to prawdopodobnie 666 (znak bestii), ponieważ znajduje się między więźniami noszącymi numery 665 i 667.
+**FACT**: Alex's prison number is probably 666 (the mark of the beast), as he is placed between prisoners wearing numbers 665 and 667.
 
-**FAKT**: Księgarnia muzyczna w filmie zawiera easter eggi, w tym eksponowany album ze ścieżką dźwiękową "2001: Odyseja kosmiczna".
+**FACT**: The record store in the film contains easter eggs, including a prominently displayed album of the "2001: A Space Odyssey" soundtrack.
 
-**FAKT**: Książka ma 21 rozdziałów - wiek, w którym ludzie zaczynają porzucać swoją młodość. Każda sekcja zaczyna się tak samo ("what's it going to be then"), ale jej znaczenie zmienia się za każdym razem.
+**FACT**: The book has 21 chapters - the age at which people begin to abandon their youth. Each section begins the same way ("what's it going to be then"), but its meaning changes each time.
 
-**PLOTKA**: Brytyjskie źródło w tajnych służbach twierdziło, że "Mechaniczna pomarańcza" była współpracą z brytyjskim wywiadem dotyczącą "eksperymentów kontroli umysłu prowadzonych przez dr. Ewena Camerona w Allen Memorial Institute w Montrealu".
+**RUMOR**: A British intelligence source claimed that "A Clockwork Orange" was a collaboration with British intelligence regarding "mind control experiments conducted by Dr. Ewen Cameron at the Allen Memorial Institute in Montreal".
 
-## 8. ADAPTACJE I WPŁYW KULTUROWY
+## 8. ADAPTATIONS AND CULTURAL IMPACT
 
-**FAKT**: Powieść nigdy nie była wycofana z druku od 1962 roku i jest dostępna w tłumaczeniu na całym świecie - najnowsze tłumaczenia pojawiły się w języku tureckim, chińskim, maltańskim, malajskim i arabskim.
+**FACT**: The novel has never been out of print since 1962 and is available in translation worldwide - the most recent translations have appeared in Turkish, Chinese, Maltese, Malay, and Arabic.
 
-**FAKT**: Pierwszą adaptacją był film Andy'ego Warhola "Vinyl" z 1965 roku.
+**FACT**: The first adaptation was Andy Warhol's 1965 film "Vinyl".
 
-**FAKT**: W 1987 roku Burgess opublikował sztukę teatralną "A Clockwork Orange: A Play with Music" z piosenkami inspirowanymi Beethovenem i slangiem Nadsat.
+**FACT**: In 1987, Burgess published the stage play "A Clockwork Orange: A Play with Music" with songs inspired by Beethoven and Nadsat slang.
 
-**FAKT**: "Mechaniczna pomarańcza" została wybrana przez magazyn Time jako jedna ze 100 najlepszych książek w języku angielskim od 1923 do 2005 roku.
+**FACT**: "A Clockwork Orange" was selected by Time magazine as one of the 100 best English-language books from 1923 to 2005.
 
-**FAKT**: W 2020 roku film został wybrany do przechowania w United States National Film Registry przez Bibliotekę Kongresu jako "kulturowo, historycznie lub estetycznie znaczący".
+**FACT**: In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as "culturally, historically, or aesthetically significant".
 
-**FAKT**: Heath Ledger częściowo inspirował się "Mechaniczną pomarańczą" przy kreowaniu Jokera w "Mrocznym Rycerzu".
+**FACT**: Heath Ledger was partly inspired by "A Clockwork Orange" when creating the Joker in "The Dark Knight".
 
-**FAKT**: Quentin Tarantino twierdził, że słynna scena w "Wściekłych psach", zestawiająca 'Stuck in the Middle With You' z odcinaniem ucha, była inspirowana podobnymi kontrastami w filmie Kubricka.
+**FACT**: Quentin Tarantino claimed that the famous scene in "Reservoir Dogs", juxtaposing 'Stuck in the Middle With You' with ear cutting, was inspired by similar contrasts in Kubrick's film.
 
-## 9. STATYSTYKI I REKORDY
+## 9. STATISTICS AND RECORDS
 
-**FAKT**: W ankiecie British Film Institute's 2012 Sight & Sound film został oceniony na 75. miejscu w ankiecie reżyserów i 235. w ankiecie krytyków wśród najlepszych filmów świata.
+**FACT**: In the British Film Institute's 2012 Sight & Sound poll, the film was ranked 75th in the directors' poll and 235th in the critics' poll among the world's best films.
 
-**FAKT**: "Alex DeLarge" został umieszczony na 12. miejscu w sekcji złoczyńców w AFI's 100 Years... 100 Heroes and Villains.
+**FACT**: "Alex DeLarge" was placed 12th in the villains section of AFI's 100 Years... 100 Heroes and Villains.
 
-**FAKT**: W 2008 roku AFI's 10 Top 10 oceniło "Mechaniczną pomarańczę" jako 4. najlepszy film science fiction w historii.
+**FACT**: In 2008, AFI's 10 Top 10 rated "A Clockwork Orange" as the 4th best science fiction film in history.
 
-**FAKT**: W 1998 roku film został umieszczony na 46. miejscu w AFI's 100 Years... 100 Movies, a w 2007 roku na 70. miejscu w drugiej liście.
+**FACT**: In 1998, the film was placed 46th on AFI's 100 Years... 100 Movies, and in 2007 at 70th on the second list.
 
-**FAKT**: Manga antologia Osamu Tezuki "Tokeijikake no Ringo" (Zegarowa Jabłko) została wydana w 1983 roku.
+**FACT**: Osamu Tezuka's manga anthology "Tokeijikake no Ringo" (Clockwork Apple) was published in 1983.
 
-**FAKT**: W 2012 roku Random House Digital wydało aplikację na iPad zawierającą wideo, muzykę i nagrania audio zsynchronizowane z tekstem powieści.
+**FACT**: In 2012, Random House Digital released an iPad app containing video, music, and audio recordings synchronized with the novel's text.
 
-## 10. ANEGDOTY I CIEKAWOSTKI
+## 10. ANECDOTES AND CURIOSITIES
 
-**FAKT**: Burgess pracował współpracując z żoną Lynne, tłumacząc trzy powieści z francuskiego.
+**FACT**: Burgess worked collaboratively with his wife Lynne, translating three novels from French.
 
-**FAKT**: Malcolm McDowell zasugerował nazwisko "DeLarge" dla Alexa, prawdopodobnie zaczerpnięte z fragmentu powieści, gdzie Alex nazywa siebie "Alex The Large".
+**FACT**: Malcolm McDowell suggested the surname "DeLarge" for Alex, probably taken from a fragment of the novel where Alex calls himself "Alex The Large".
 
-**FAKT**: Burgess starał się zdystansować od filmu Kubricka i wyrażał frustrację, że będzie pamiętany za to "bardzo pomniejsze dzieło", gdy były inne powieści, które cenił wyżej.
+**FACT**: Burgess tried to distance himself from Kubrick's film and expressed frustration that he would be remembered for this "very minor work" when there were other novels he valued more highly.
 
-**FAKT**: W 2021 roku International Anthony Burgess Foundation uruchomiła stronę internetową katalogującą różne produkcje "Mechanicznej pomarańczy" z całego świata.
+**FACT**: In 2021, the International Anthony Burgess Foundation launched a website cataloging various productions of "A Clockwork Orange" from around the world.
 
-**PLOTKA**: Burgess twierdził, że powieść była "jeu d'esprit" napisanym w zaledwie trzy tygodnie, ale dowody wskazują na znacznie dłuższy okres powstawania - około 18 miesięcy.
+**RUMOR**: Burgess claimed the novel was a "jeu d'esprit" written in just three weeks, but evidence suggests a much longer gestation period - about 18 months.
 
-## 11. WSPÓŁCZESNE DZIEDZICTWO
+## 11. CONTEMPORARY LEGACY
 
-**FAKT**: Ponad 60 lat po publikacji książki trudno przecenić wpływ powieści Burgessa na kulturę popularną - wpłynęła na "Simpsonów", "South Park", twórczość Martina Amisa, J.G. Ballarda, Williama Boyda i A.S. Byatt.
+**FACT**: Over 60 years after the book's publication, it's hard to overstate the impact of Burgess's novel on popular culture - it influenced "The Simpsons", "South Park", the work of Martin Amis, J.G. Ballard, William Boyd, and A.S. Byatt.
 
-**FAKT**: W 2012 roku wydano "A Clockwork Orange: The Restored Edition", przedstawiającą nowy tekst zredagowany z manuskryptów Burgessa i zawierającą eseje, artykuły i recenzje.
+**FACT**: In 2012, "A Clockwork Orange: The Restored Edition" was published, presenting a new text edited from Burgess's manuscripts and containing essays, articles, and reviews.
 
-**FAKT**: Film miał budżet 2,2 miliona dolarów i zarobił ponad 26 milionów dolarów na całym świecie, co czyni go jednym z najbardziej dochodowych filmów Kubricka.
+**FACT**: The film had a budget of $2.2 million and earned over $26 million worldwide, making it one of Kubrick's most profitable films.
 
-Ta fascynująca historia pokazuje, jak osobista tragedia, błędna diagnoza medyczna i geniusz lingwistyczny połączyły się, tworząc jedno z najważniejszych i najbardziej kontrowersyjnych dzieł literatury XX wieku.
+This fascinating story shows how personal tragedy, misdiagnosis, and linguistic genius combined to create one of the most important and controversial works of 20th-century literature.

@@ -4,3 +4,173 @@ book_info:
   author: "H.G. Wells"
   year: 1895
   genre: "Science fiction,Dystopian"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-18T16:45:00Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 5
+    social_roles: 8
+    total: 65
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 8.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Wells invented the term 'time machine' and created the entire time travel genre with this pioneering 1895 novel"
+        source: "dark_drama"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Eloi-Morlocks division represents ultimate evolution of Victorian class warfare into biological species separation"
+        source: "symbols_meanings"
+      - id: "culture_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 100 adaptations across all media for 129 years, influencing every major science fiction work since 1895"
+        source: "culture_impact"
+      - id: "youth_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary relevance through digital divide metaphor - Eloi as social media addicts, Morlocks as Big Tech"
+        source: "youth_digital"
+      - id: "reality_4"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Wells accurately predicted AI automation fears, class polarization, and technological addiction 129 years ago"
+        source: "reality_wisdom"
+      - id: "innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary literary techniques: frame narrative, single fantastic assumption rule, scientific romance genre creation"
+        source: "writing_innovation"
+      - id: "facts_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Wells rewrote the story 3 times over 8 years, transforming from 1888 'Chronic Argonauts' to 1895 masterpiece"
+        source: "facts_history"
+      - id: "content_7"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Author's early eugenic views and multiple scandals create content policy risks for some platforms"
+        source: "content_warnings"
+    localized:
+      en:
+        cultural_impact: "Foundational text of English-language science fiction, continuous academic study for 129 years"
+        key_editions: ["Norton Critical Edition", "Oxford World's Classics", "Penguin Classics"]
+        reception_notes: "Canonical status in English literature, influenced Asimov, Bradbury, Orwell"
+        educational_status: "University curriculum standard in SF studies"
+        local_themes: ["Imperial themes", "Colonial exploitation metaphors", "Scientific romance tradition"]
+      pl:
+        cultural_impact: "First Polish edition 1899, strong focus on social criticism and class inequality warnings"
+        key_editions: ["Wolne Lektury platform", "Zenon Gołaszewski translation", "Vesper Publishing illustrated"]
+        reception_notes: "Emphasis on capitalism critique, 'wehikuł czasu' became standard Polish term"
+        educational_status: "Available on educational platforms, used in SF literature teaching"
+        local_themes: ["Class struggle metaphors", "Social inequality warnings", "Technology ethics"]
+      de:
+        cultural_impact: "First German translation 1904, banned by Nazis 1933, modern SF renaissance"
+        key_editions: ["Reclam Universal-Bibliothek", "Bilingual editions", "Hans-Christian Oeser translation"]
+        reception_notes: "Pre-1933 academic dissertations, post-war SF scholarship revival"
+        educational_status: "Academic recognition as modern SF founder"
+        local_themes: ["Time travel concepts", "Scientific romance", "Philosophical implications"]
+      fr:
+        cultural_impact: "French New Wave cinema influence, philosophical interpretations"
+        key_editions: ["Classic French translations", "Academic editions"]
+        reception_notes: "Influenced by existentialist readings"
+        educational_status: "Part of comparative literature studies"
+        local_themes: ["Existential implications", "Social evolution", "Technological critique"]
+      es:
+        cultural_impact: "Latin American magical realism connections, time concept explorations"
+        key_editions: ["Spanish translations", "Educational editions"]
+        reception_notes: "Compared to Borges' time narratives"
+        educational_status: "University literature courses"
+        local_themes: ["Temporal philosophy", "Social criticism", "Scientific speculation"]
+      pt:
+        cultural_impact: "Brazilian and Portuguese literary influence, social themes emphasis"
+        key_editions: ["Portuguese translations", "Academic editions"]
+        reception_notes: "Focus on social inequality themes"
+        educational_status: "Literature curriculum inclusion"
+        local_themes: ["Class analysis", "Social evolution", "Technological impact"]
+      ja:
+        cultural_impact: "Influenced Japanese science fiction development, anime adaptations"
+        key_editions: ["Japanese translations", "Manga adaptations"]
+        reception_notes: "Steampunk aesthetic influence, technological themes"
+        educational_status: "SF studies reference point"
+        local_themes: ["Technological evolution", "Social harmony disruption", "Time concepts"]
+      ko:
+        cultural_impact: "Korean SF development influence, social commentary focus"
+        key_editions: ["Korean translations", "Educational materials"]
+        reception_notes: "Class division themes resonate strongly"
+        educational_status: "Literature and SF studies"
+        local_themes: ["Social hierarchy", "Technological dependence", "Future speculation"]
+      hi:
+        cultural_impact: "Indian postcolonial readings, caste system parallels"
+        key_editions: ["Hindi translations", "Indian academic editions"]
+        reception_notes: "Colonial critique interpretations"
+        educational_status: "Postcolonial studies inclusion"
+        local_themes: ["Colonial metaphors", "Social stratification", "Technological colonialism"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "literary_genesis"
+          lead: "host_a"
+          description: "Wells as father of SF, 8-year creation process, revolutionary concept"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "symbolic_architecture"
+          lead: "host_b"
+          description: "Eloi-Morlocks as ultimate class division, Victorian fears made literal"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "interpretive_layers"
+          lead: "host_a"
+          description: "9+ critical perspectives: Marxist, feminist, postcolonial analysis"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "prophetic_vision"
+          lead: "host_b"
+          description: "Predicting AI fears, social media addiction, tech company control"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "cultural_legacy"
+          lead: "host_a"
+          description: "129 years of influence, 100+ adaptations, founded entire genre"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Time Machine' with scholarly depth. Discuss literary innovations, symbolic layers, theoretical frameworks. Present Wells as both visionary and product of Victorian anxieties. Focus on how this 1895 work created modern science fiction."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex theories, request examples from the text, connect Wells' innovations to modern SF. Help make academic concepts accessible while maintaining intellectual rigor."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical violence", "social inequality themes", "author controversial views"]
+    educational_elements: ["Science fiction genre analysis", "Victorian era social context", "Literary innovation techniques", "Philosophical depth exploration"]
+    production_notes:
+      intro_style: "scholarly_classical"
+      transitions: "subtle musical bridges"
+      outro_style: "academic_summary"
+
+  overall_confidence: 0.89

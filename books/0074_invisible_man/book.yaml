@@ -4,3 +4,177 @@ book_info:
   author: "Ralph Ellison"
   year: 1952
   genre: "Novel,Bildungsroman"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T20:15:00Z"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 9
+    total: 65
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "invisibility_01"
+        type: "FACT"
+        credibility: 0.95
+        content: "Social invisibility as systemic oppression - FBI surveillance, censorship, widespread bans demonstrate institutional fear of the work's power to expose racial dynamics"
+        source: "dark_drama"
+      - id: "identity_02"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Identity crisis and authentic self-discovery - narrator's journey through multiple imposed identities toward underground self-reflection and authentic voice"
+        source: "symbols_meanings"
+      - id: "manipulation_03"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Institutional manipulation across ideologies - university, factory, Brotherhood all exploit the protagonist for their own purposes, revealing systemic nature of oppression"
+        source: "dark_drama"
+      - id: "innovation_04"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary literary innovation - created new 'invisibility novel' subgenre, broke protest literature conventions, influenced generations of writers"
+        source: "writing_innovation"
+      - id: "prophecy_05"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic social commentary - predicted digital age invisibility, algorithmic suppression, contemporary identity crisis with uncanny accuracy"
+        source: "reality_wisdom"
+      - id: "trauma_06"
+        type: "DISPUTE"
+        credibility: 0.85
+        content: "Psychological trauma and racial violence - Battle Royal scene, institutional humiliation, systemic dehumanization documented as both historical fact and literary technique"
+        source: "dark_drama"
+      - id: "universal_07"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Universal marginalization metaphor - invisibility concept resonates across cultures, from Japanese Burakumin to Indian Dalits to contemporary social media"
+        source: "local_contexts"
+      - id: "digital_08"
+        type: "FACT"
+        credibility: 0.85
+        content: "Contemporary digital age parallels - shadow banning, algorithmic invisibility, Gen Z identity crisis mirror narrator's experiences with startling precision"
+        source: "youth_digital"
+
+    localized:
+      en:
+        cultural_impact: "Canonical American literature defining civil rights discourse and existential modernism"
+        key_editions: ["Penguin Modern Classics", "Library of America editions", "Critical editions"]
+        reception_notes: "First African American to win National Book Award, established mainstream literary recognition"
+        educational_status: "Required reading in American literature courses, cornerstone of university curricula"
+        local_themes: ["Civil rights movement", "Existential modernism", "American dream critique"]
+
+      pl:
+        cultural_impact: "Late reception during post-communist period, emphasized universal themes of invisibility and identity"
+        key_editions: ["PIW editions", "Academic translations"]
+        reception_notes: "Delayed translation allowed more objective, less ideologically burdened interpretation"
+        educational_status: "University American studies programs, comparative literature courses"
+        local_themes: ["Universal social invisibility", "Post-communist identity crisis", "Academic literary analysis"]
+
+      de:
+        cultural_impact: "Profound influence on Frankfurt School critical theory, particularly Axel Honneth's recognition theory"
+        key_editions: ["Aufbau Verlag editions", "S. Fischer historical editions"]
+        reception_notes: "Ellison's visits to Germany in 1954 and 1959 established direct cultural connections"
+        educational_status: "Central to German American Studies programs and critical theory curricula"
+        local_themes: ["Recognition theory", "Frankfurt School analysis", "Power structure critique"]
+
+      fr:
+        cultural_impact: "Post-structuralist theoretical framework, Foucaultian power analysis applications"
+        key_editions: ["Grasset 'Les Cahiers rouges' series", "Academic translations"]
+        reception_notes: "Awarded Chevalier de l'Ordre des Arts et Lettres by André Malraux in 1970"
+        educational_status: "University curricula in American literature and post-colonial studies"
+        local_themes: ["Post-structuralist analysis", "Foucaultian power dynamics", "Literary modernism"]
+
+      es:
+        cultural_impact: "Social justice themes resonating with discussions of marginalization across Spanish-speaking countries"
+        key_editions: ["Punto de Lectura editions", "Regional distributors"]
+        reception_notes: "Described as 'fierce vision of American society' connecting to Latin American social realism"
+        educational_status: "University American literature programs, comparative social justice studies"
+        local_themes: ["Social justice discourse", "Marginalization studies", "Magical realism connections"]
+
+      pt:
+        cultural_impact: "Afro-Brazilian literature parallels, critique of racial democracy ideology"
+        key_editions: ["José Olympio/Grupo Record", "Marco Zero historical editions"]
+        reception_notes: "Delayed arrival in Brazil (2020) coincided with Black Lives Matter global impact"
+        educational_status: "Brazilian universities, translation studies, comparative racial discourse"
+        local_themes: ["Afro-Brazilian identity", "Racial democracy critique", "Translation studies"]
+
+      ja:
+        cultural_impact: "Influenced Japanese authors like Kenji Nakagami addressing Burakumin discrimination"
+        key_editions: ["Hayakawa Shobō series", "Hakusuisha U-Books"]
+        reception_notes: "Title translation choice emphasized social rather than physical invisibility"
+        educational_status: "Academic study in comparative literature and social discrimination courses"
+        local_themes: ["Burakumin discrimination parallels", "Social invisibility", "Modernist innovation"]
+
+      ko:
+        cultural_impact: "Academic reception focusing on identity formation and social alienation themes"
+        key_editions: ["Minumsa World Literature Collection", "Munye Publishing"]
+        reception_notes: "Scholarly analysis connecting to Korean rapid modernization experiences"
+        educational_status: "University English literature programs, comparative marginalization studies"
+        local_themes: ["Social alienation", "Identity formation", "Modernization trauma"]
+
+      hi:
+        cultural_impact: "Dalit literature parallels, caste system comparison studies"
+        key_editions: ["Penguin India editions", "Academic study materials"]
+        reception_notes: "Comparative studies linking African American and Dalit experiences of systematic marginalization"
+        educational_status: "Postcolonial studies programs, comparative literature courses"
+        local_themes: ["Dalit literature parallels", "Caste system critique", "Postcolonial identity"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Setting the 1952 context - Jim Crow era, Cold War, and Ellison's break with Communist Party"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Institutional manipulation - university, factory, Brotherhood as systems of control"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "From 1952 prophecy to 2025 reality - algorithmic invisibility and social media parallels"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "global_impact"
+          lead: "host_b"
+          description: "Universal marginalization - how invisible man speaks to Dalits, Burakumin, and global minorities"
+      prompts:
+        host_a: "You are {male_name}, a social historian examining 'Invisible Man' through lens of power, gender, class, and historical context from 1952. Analyze systemic racism, institutional manipulation, and prophetic elements that predicted contemporary social movements and digital age invisibility."
+        host_b: "You are {female_name}, examining contemporary relevance of 'Invisible Man'. Connect 1952 insights to current social justice movements, algorithmic suppression, and global marginalization experiences. Challenge assumptions and explore modern power dynamics."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical racial violence", "discriminatory language from historical period", "institutional manipulation themes", "psychological trauma discussion"]
+    educational_elements: ["Civil rights history", "Literary modernism techniques", "Systemic racism analysis", "Identity formation psychology"]
+    production_notes:
+      intro_style: "Historical context setting with contemporary relevance bridge"
+      transitions: "Subtle transitions between historical analysis and modern parallels"
+      outro_style: "Call to action connecting past insights to present social justice work"
+
+  overall_confidence: 0.91

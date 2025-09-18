@@ -1,64 +1,64 @@
-# Ocena Treści i Content Warnings: "Czy androidy marzą o elektrycznych owcach?"
+# Content Warnings Assessment: "Do Androids Dream of Electric Sheep?"
 
-**Książka**: Do Androids Dream of Electric Sheep? (Philip K. Dick, 1968)  
-**Data oceny**: 1 września 2025  
-**Zakres analizy**: 8 dokumentów research + wytyczne 6 platform społecznościowych  
+**Book**: Do Androids Dream of Electric Sheep? (Philip K. Dick, 1968)
+**Assessment Date**: September 1, 2025
+**Analysis Scope**: 8 research documents + 6 social media platform guidelines
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych platform na 2025 rok, **"Czy androidy marzą o elektrycznych owcach?" przedstawia ŚREDNIE do WYSOKIE ryzyko** dla różnych platform społecznościowych z powodu:
+After analyzing all research materials and current platform guidelines for 2025, **"Do Androids Dream of Electric Sheep?" presents MEDIUM to HIGH risk** for various social media platforms due to:
 
-- **Kontrowersyjnych tematów biograficznych autora** (przemoc domowa, uzależnienia, problemy psychiczne)
-- **Filozoficznych dylematów** mogących być interpretowane jako materiał dla dorosłych
-- **Subtelnych treści związanych z AI consciousness** wymagających edukacyjnego kontekstu
-- **Noir atmosphere i dystopijnych elementów** 
+- **Controversial biographical topics about the author** (domestic violence, addictions, mental health issues)
+- **Philosophical dilemmas** that could be interpreted as adult content
+- **Subtle AI consciousness content** requiring educational context
+- **Noir atmosphere and dystopian elements**
 
-**REKOMENDACJA GŁÓWNA**: Treść wymaga **age-appropriate framing** i **educational context** dla bezpiecznej dystrybucji na wszystkich platformach.
+**MAIN RECOMMENDATION**: Content requires **age-appropriate framing** and **educational context** for safe distribution across all platforms.
 
 ---
 
-## MATRIX RYZYKA: PROBLEMATYCZNY TEMAT vs PLATFORMA
+## RISK MATRIX: PROBLEMATIC TOPIC vs PLATFORM
 
-| Temat | Facebook | YouTube | Instagram | TikTok | Spotify | Kick |
+| Topic | Facebook | YouTube | Instagram | TikTok | Spotify | Kick |
 |-------|----------|----------|-----------|--------|---------|------|
-| **Przemoc domowa autora** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Uzależnienia (amfetamina)** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
-| **Problemy psychiczne/paranoja** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Author's domestic violence** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Addictions (amphetamine)** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
+| **Mental health issues/paranoia** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 | **AI consciousness debate** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Dystopijne/mroczne tematy** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Dystopian/dark themes** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 | **Surveillance themes** | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Egzystencjalne kryzysy** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Existential crises** | 🟡 MEDIUM | 🟢 LOW | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 | **Noir violence references** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🔴 HIGH | 🟡 MEDIUM | 🟢 LOW |
 
-**Legenda**: 🔴 HIGH = Znaczne ryzyko / Age-restrict lub edit; 🟡 MEDIUM = Wymagany educational context; 🟢 LOW = Bezpieczne z proper framing
+**Legend**: 🔴 HIGH = Significant risk / Age-restrict or edit; 🟡 MEDIUM = Educational context required; 🟢 LOW = Safe with proper framing
 
 ---
 
-## KLASYFIKACJA WIEKOWA I PLATFORM COMPLIANCE
+## AGE CLASSIFICATION AND PLATFORM COMPLIANCE
 
-### REKOMENDOWANA KLASYFIKACJA WIEKOWA:
+### RECOMMENDED AGE CLASSIFICATION:
 
-#### 🟢 **13+ Content** (Bezpieczne dla wszystkich platform):
-- **Analiza literacka książki** bez szczegółów biograficznych autora
-- **Science fiction themes** (AI, cyberpunk, przyszłość)
-- **Wpływ kulturowy** (Blade Runner, TikTok trends, gaming connections)
-- **Symbolika i znaczenia** literackie (poziom surface analysis)
+#### 🟢 **13+ Content** (Safe for all platforms):
+- **Literary analysis of the book** without biographical details about the author
+- **Science fiction themes** (AI, cyberpunk, future)
+- **Cultural impact** (Blade Runner, TikTok trends, gaming connections)
+- **Symbolism and meanings** literary (surface-level analysis)
 - **Gen Z connections** (dating apps, AI relationships, digital culture)
 
-#### 🟡 **16+ Content** (Age-restrict recommended):
-- **Głębsza analiza egzystencjalna** (natura człowieczeństwa, consciousness)
-- **Kontekst historyczny lat 60.** (wojna w Wietnamie, kontrkultura)
-- **Philosophical implications** (gnostycyzm, reality vs simulation)
-- **Writing innovation analysis** (warsztat literacki, wpływy)
-- **Moderate biographical context** (bez szczegółów przemocy)
+#### 🟡 **16+ Content** (Age-restriction recommended):
+- **Deeper existential analysis** (nature of humanity, consciousness)
+- **Historical context of the 1960s** (Vietnam War, counterculture)
+- **Philosophical implications** (gnosticism, reality vs simulation)
+- **Writing innovation analysis** (literary craft, influences)
+- **Moderate biographical context** (without violence details)
 
 #### 🔴 **18+ Content** (Adult audience only):
-- **Pełna biografia autora** z detalami przemocy domowej
-- **Conspiracy theories i dark interpretations** (FBI, paranoja, mental health)
-- **Szczegółowe uzależnienia** (amfetamina, self-destruction patterns)
-- **Kontrowersyjne aspekty** (donosicielstwo, government surveillance)
+- **Full author biography** with domestic violence details
+- **Conspiracy theories and dark interpretations** (FBI, paranoia, mental health)
+- **Detailed addictions** (amphetamine, self-destruction patterns)
+- **Controversial aspects** (informing, government surveillance)
 - **Mature philosophical themes** (suicide ideation, existential despair)
 
 ---
@@ -67,21 +67,21 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 ### 📘 **FACEBOOK/Meta Platforms** - 🔴 HIGHEST RISK
 
-**Policy Changes 2025**: Liberalizacja hate speech, Community Notes, unpredictable moderation
+**Policy Changes 2025**: Hate speech liberalization, Community Notes, unpredictable moderation
 
-**RED FLAGS dla content:**
-- **Surveillance themes** - wysokie ryzyko z nowymi liberalnymi zasadami
-- **Mental health discussions** - może być flagowane jako misinformation
-- **Government conspiracy themes** - ryzykowne w kontekście Community Notes
-- **Violence references** (even literary) - nieprzewidywalna moderacja
+**RED FLAGS for content:**
+- **Surveillance themes** - high risk with new liberal policies
+- **Mental health discussions** - may be flagged as misinformation
+- **Government conspiracy themes** - risky in Community Notes context
+- **Violence references** (even literary) - unpredictable moderation
 
 **SAFE APPROACH:**
-- **Fokus na Gen Z connections** (AI relationships, digital culture)
-- **Literature analysis only** - bez biografii autora
+- **Focus on Gen Z connections** (AI relationships, digital culture)
+- **Literature analysis only** - without author biography
 - **Educational framing** - "classic sci-fi analysis"
-- **Avoid political interpretations** - zostań przy literary analysis
+- **Avoid political interpretations** - stick to literary analysis
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 ⚠️ Educational content about classic science fiction
 ⚠️ Discusses themes of AI and technology (historical perspective)
@@ -92,18 +92,18 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 **Policy Changes 2025**: Anti-AI crackdown, "inauthentic content" policy, human narration required
 
-**RED FLAGS dla content:**
+**RED FLAGS for content:**
 - **Text-to-speech AI** - blocked from monetization
 - **Repetitive format** - avoid identical structure for multiple books
 - **Lack of human commentary** - must add original analysis
 
 **SAFE APPROACH:**
-- **Human narration mandatory** - nie używaj AI voice
+- **Human narration mandatory** - do not use AI voice
 - **Original commentary dominates** quoted material
 - **Educational storytelling** approach
-- **Long-form content** (10+ minutes) dla better monetization
+- **Long-form content** (10+ minutes) for better monetization
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 📚 Educational content about classic literature
 🎬 Analysis includes references to Blade Runner film
@@ -115,7 +115,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 **Policy Changes 2025**: Same as Facebook + new ToS, AI content licensing concerns
 
-**RED FLAGS dla content:**
+**RED FLAGS for content:**
 - **Mental health themes** - high risk of account restrictions
 - **Dark biographical details** - likely to be restricted
 - **Conspiracy elements** - may trigger community guidelines
@@ -126,7 +126,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 - **Community engagement** priority over controversial analysis
 - **Stories for deeper discussion** - main posts light and engaging
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 📖 Classic sci-fi book discussion
 🎨 Literary analysis and cultural impact
@@ -138,8 +138,8 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 **Policy Changes 2025**: Only 1+ minute monetizes, original content only, 70% rejection rate
 
-**RED FLAGS dla content:**
-- **Violence references** - nawet literackie mogą być flagowane
+**RED FLAGS for content:**
+- **Violence references** - even literary ones may be flagged
 - **Mental health without resources** - policy violations
 - **Under 1 minute** - no monetization potential
 - **Duets/stitches** excluded from Creator Rewards
@@ -150,7 +150,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 - **Educational storytelling** - "Why this 1968 book predicted 2025"
 - **BookTok crossover** - trending hashtags (#scifi #booktok #cyberpunk)
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 📚 BookTok educational content
 🤖 Classic sci-fi that predicted AI
@@ -162,7 +162,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 **Policy Changes 2025**: Creator-friendly, video preferred, copyright strict
 
-**RED FLAGS dla content:**
+**RED FLAGS for content:**
 - **Copyrighted audiobook clips** - absolute no-go
 - **Background music** without licenses
 - **Long excerpts** from book without permission
@@ -173,7 +173,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 - **Educational discussion** rather than book reading
 - **Cross-platform promotion** encouraged
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 🎧 Educational podcast about classic literature
 📚 Analysis and commentary, not audiobook reading
@@ -185,7 +185,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 **Policy Changes 2025**: Most creator-friendly, 95/5 split, gambling restrictions
 
-**RED FLAGS dla content:**
+**RED FLAGS for content:**
 - **Gambling-related themes** (even metaphorical) - demonetized
 - **Personal info sharing** about real people without consent
 
@@ -195,7 +195,7 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 - **Most freedom** for controversial topics with proper context
 - **Live format** ideal for deep dives
 
-**CONTENT WARNINGS potrzebne:**
+**CONTENT WARNINGS needed:**
 ```
 📖 Live book discussion and analysis
 🎓 Educational content with audience interaction
@@ -205,9 +205,9 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY/WIDZÓW
+## CONTENT WARNINGS FOR LISTENERS/VIEWERS
 
-### 🎯 **UNIWERSALNE CONTENT WARNINGS** (wszystkie platformy):
+### 🎯 **UNIVERSAL CONTENT WARNINGS** (all platforms):
 
 ```
 ⚠️ EDUCATIONAL CONTENT ADVISORY:
@@ -219,15 +219,15 @@ Po przeanalizowaniu wszystkich materiałów research i aktualnych wytycznych pla
 
 MATURE THEMES MENTIONED:
 • Existential questions about human consciousness
-• Dystopian society and technology concerns  
+• Dystopian society and technology concerns
 • Historical context of 1960s counterculture
 • Author's biographical challenges (general terms only)
 • Science fiction violence in literary context
 
-👥 AUDIENCE: Best suited for literature students, sci-fi fans, 
+👥 AUDIENCE: Best suited for literature students, sci-fi fans,
     and viewers interested in academic book analysis
 
-🔍 EDUCATIONAL PURPOSE: Understanding cultural impact of classic 
+🔍 EDUCATIONAL PURPOSE: Understanding cultural impact of classic
     science fiction on modern technology debates
 ```
 
@@ -279,7 +279,7 @@ MATURE THEMES MENTIONED:
 
 #### ❌ **AVOID** (High risk across platforms):
 - "Dick was a violent drug addict who abused his wives"
-- "The author was paranoid and mentally unstable"  
+- "The author was paranoid and mentally unstable"
 - "FBI investigated Dick for communist connections"
 
 #### ✅ **EDUCATION-FRIENDLY ALTERNATIVES**:
@@ -473,27 +473,27 @@ MATURE THEMES MENTIONED:
 
 ## CONCLUSION
 
-**"Czy androidy marzą o elektrycznych owcach?"** może być bezpiecznie prezentowane na wszystkich platformach społecznościowych pod warunkiem **odpowiedniego educational framing** i **age-appropriate content warnings**.
+**"Do Androids Dream of Electric Sheep?"** can be safely presented on all social media platforms provided **appropriate educational framing** and **age-appropriate content warnings**.
 
-**KLUCZOWE ZASADY DLA CREATORS**:
+**KEY PRINCIPLES FOR CREATORS**:
 
-1. **Education First** - zawsze przedstawiaj jako academic analysis
-2. **Age-Appropriate Warnings** - jasno oznaczaj poziom dojrzałości treści  
-3. **Platform-Specific Adaptations** - dostosuj approach do każdej platformy
-4. **Progressive Disclosure** - zacznij od bezpiecznych tematów, pogłębiaj stopniowo
-5. **Community Building** - twórz audience zainteresowaną nauką, nie sensacją
+1. **Education First** - always present as academic analysis
+2. **Age-Appropriate Warnings** - clearly mark content maturity level
+3. **Platform-Specific Adaptations** - adjust approach for each platform
+4. **Progressive Disclosure** - start with safe topics, deepen gradually
+5. **Community Building** - create audience interested in learning, not sensation
 
-**NAJWIĘKSZE MOŻLIWOŚCI**:
-- **Spotify i Kick**: Najwyższy potencjał revenue i najmniejsze ograniczenia
-- **YouTube**: Dobra monetyzacja z proper human narration approach  
-- **TikTok**: Wysoki reach potential z Gen Z audience
-- **Meta Platforms**: Wysokie ryzyko, ale duża audience - wymaga najostroższego podejścia
+**GREATEST OPPORTUNITIES**:
+- **Spotify and Kick**: Highest revenue potential and fewest restrictions
+- **YouTube**: Good monetization with proper human narration approach
+- **TikTok**: High reach potential with Gen Z audience
+- **Meta Platforms**: High risk, but large audience - requires most cautious approach
 
-**BOTTOM LINE**: To jest premium educational content z wysokim potential for success when handled professionally z proper risk mitigation strategies.
+**BOTTOM LINE**: This is premium educational content with high potential for success when handled professionally with proper risk mitigation strategies.
 
 ---
 
-**Assessment completed**: 1 września 2025  
-**Based on**: 8 research documents + 6 platform policy analyses  
-**Risk Level**: MEDIUM with HIGH OPPORTUNITY when properly managed  
+**Assessment completed**: September 1, 2025
+**Based on**: 8 research documents + 6 platform policy analyses
+**Risk Level**: MEDIUM with HIGH OPPORTUNITY when properly managed
 **Recommendation**: PROCEED with tiered, education-focused content strategy

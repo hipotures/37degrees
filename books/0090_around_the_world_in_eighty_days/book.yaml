@@ -4,3 +4,185 @@ book_info:
   author: "Jules Verne"
   year: 1873
   genre: "Adventure,Novel"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-18T20:45:00"
+
+  scores:
+    controversy: 6
+    philosophical_depth: 8
+    cultural_phenomenon: 7
+    contemporary_reception: 3
+    relevance: 8
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 6
+    total: 52
+    percentile: 75
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 5.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "The novel glorifies British imperialism and racism according to contemporary critics. Europe presented as 'civilizing force' vs 'wild, untamed wilderness' of rest of world"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Journey as archetype of transformation - modern Odyssey traveling through various cultures, with each stop symbolizing stage of inner transformation from emotional detachment to ability to love"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Novel inspired journalist Nellie Bly to make actual trip around world in 1889-90, completing in 72 days. Verne met her in Amiens: 'If you do it in 79 days, I'll applaud with both hands'"
+        source: "culture_impact"
+      - id: "innovation_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Created new genre 'scientific romance' - precursor to science fiction through unprecedented combination of meticulously researched scientific facts with adventure fiction"
+        source: "writing_innovation"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Technology predictions came true spectacularly: global communication, transportation revolution, submarines, space travel, helicopters all predicted accurately by Verne"
+        source: "reality_wisdom"
+      - id: "symbols_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Time as central symbol of modernization - Fogg's precise timepieces synchronize entire life with accuracy to the second, symbolizing humanity's obsession with controlling time after industrial revolution"
+        source: "symbols_meanings"
+      - id: "youth_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary travel anxiety paradox: 23% Gen Z experiences travel anxiety despite wanderlust being #1 life aspiration, mirroring Fogg's time pressure stress"
+        source: "youth_digital"
+      - id: "dark_drama_1"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Verne belonged to Freemasons, Golden Dawn, Angelic Society and Rosicrucians. His works contain clues to mystery of Rennes-le-Château and Cathar treasure location"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Novel established steampunk genre foundations and inspired real-world exploration from Nellie Bly to Mark Beaumont"
+        key_editions: ["Oxford World's Classics critical edition", "Penguin Classics with Brian Aldiss introduction"]
+        reception_notes: "Canonical status in Western literature, academic focus on postcolonial readings"
+        educational_status: "Used in Excellence in Literature English I curriculum"
+        local_themes: ["Imperial critique through postcolonial theory", "Hollywood adaptation legacy"]
+
+      pl:
+        cultural_impact: "Lightning-fast 1873 translation by Józef Grajnert, creative name adaptations like 'Obieżyświat' for Passepartout"
+        key_editions: ["Zbigniew Florczak translation (788,620 copies)", "Wolne Lektury free digital access"]
+        reception_notes: "Golden Mask-winning theatrical adaptation at Silesian Theatre, Bolek and Lolek animated film"
+        educational_status: "Required reading across multiple school levels, special ASD student versions"
+        local_themes: ["Polish sympathy themes (Captain Nemo originally Polish)", "Punctuality stereotypes"]
+
+      de:
+        cultural_impact: "First film adaptation in 1919 with Conrad Veidt, strong academic interpretation tradition"
+        key_editions: ["Reclam editions", "Comprehensive scholarly editions"]
+        reception_notes: "Deep philosophical and psychoanalytic readings prevalent"
+        educational_status: "Central to German literary education on technological progress"
+        local_themes: ["German Romantic movement influence", "Systematic precision ideals"]
+
+      fr:
+        cultural_impact: "Original 1873 publication context, serial in Le Temps newspaper creating real-time effect"
+        key_editions: ["Pierre-Jules Hetzel original edition", "Contemporary critical editions"]
+        reception_notes: "Serial publication created real bets on Fogg's outcome"
+        educational_status: "Foundation text in French adventure literature curriculum"
+        local_themes: ["French scientific optimism", "Colonial empire justification themes"]
+
+      es:
+        cultural_impact: "'Willy Fog' animated series cultural phenomenon, strong adventure literature tradition"
+        key_editions: ["Early Spanish translations from 1873", "Contemporary educational editions"]
+        reception_notes: "Popular animated adaptations introduced to new generations"
+        educational_status: "Used in Spanish schools for geography and literature education"
+        local_themes: ["Spanish colonial reflection", "Adventure genre development"]
+
+      pt:
+        cultural_impact: "Colonial encounter themes particularly relevant to Portuguese exploration history"
+        key_editions: ["Portuguese translations emphasizing maritime themes", "Educational editions"]
+        reception_notes: "Resonates with Portuguese age of exploration heritage"
+        educational_status: "Connected to Portuguese maritime history curriculum"
+        local_themes: ["Age of exploration parallels", "Maritime colonial legacy"]
+
+      ja:
+        cultural_impact: "Technology prophecy themes resonate with Japan's modernization experience"
+        key_editions: ["Japanese translations emphasizing technological progress", "Educational manga adaptations"]
+        reception_notes: "Meiji restoration parallels with Victorian technological revolution"
+        educational_status: "Used to teach about technological modernization periods"
+        local_themes: ["Modernization technology adoption", "East-West cultural encounter"]
+
+      ko:
+        cultural_impact: "Precision and methodical achievement values align with cultural work ethic"
+        key_editions: ["Korean translations emphasizing discipline themes", "Educational editions"]
+        reception_notes: "Fogg's methodical approach resonates with Korean achievement culture"
+        educational_status: "Used in Korean schools for character education"
+        local_themes: ["Methodical achievement values", "Time management philosophy"]
+
+      hi:
+        cultural_impact: "British colonial context creates complex postcolonial reading opportunities"
+        key_editions: ["Hindi translations with postcolonial commentary", "Educational editions"]
+        reception_notes: "Complex reception due to colonial representation in India scenes"
+        educational_status: "Used in postcolonial literature studies"
+        local_themes: ["Colonial representation critique", "Indian independence movement parallels"]
+
+  formats:
+    temporal_context:
+      name: "temporal_context"
+      duration: 16
+      hosts:
+        host_a: "classical literature expert explaining origins"
+        host_b: "contemporary reader finding modern relevance"
+      structure:
+        - segment: 1
+          time_range: "00:00-04:00"
+          topic: "original_context"
+          lead: "host_a"
+          description: "1873 technological revolution that made 80-day journey possible for first time"
+        - segment: 2
+          time_range: "04:00-08:00"
+          topic: "technology_prophecies"
+          lead: "host_b"
+          description: "How Verne's predictions about global communication and transportation came true"
+        - segment: 3
+          time_range: "08:00-12:00"
+          topic: "cultural_transformation"
+          lead: "host_a"
+          description: "Victorian imperialism and gender roles vs contemporary social consciousness"
+        - segment: 4
+          time_range: "12:00-16:00"
+          topic: "modern_parallels"
+          lead: "host_b"
+          description: "Travel anxiety, work-life balance, and globalization themes still relevant today"
+      prompts:
+        host_a: "You are {male_name}, a classical literature expert. Explain 'Around the World in Eighty Days' in its original 1873 context. Focus on: the technological breakthrough era (transcontinental railroad 1869, Suez Canal 1869, Indian railways 1870), Victorian attitudes toward empire and 'civilizing missions,' Thomas Cook's first world tour advertisements that inspired Verne, and the serial publication creating real-time suspense. Present the historical context that made this story revolutionary for its time."
+        host_b: "You are {female_name} from 2025. Find modern parallels in 'Around the World in Eighty Days' and connect to current technology and contemporary sensibilities. Focus on: how Verne's predictions about global communication became our internet age, Victorian work obsession vs modern work-life balance struggles, travel anxiety among Gen Z despite wanderlust aspirations, and how colonial attitudes evolved into contemporary cultural sensitivity awareness. Bridge 1873 to 2025 perspectives."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings:
+      - "colonial perspectives and cultural stereotypes"
+      - "orientalist representations from Victorian era"
+      - "imperial attitudes requiring historical context"
+    educational_elements:
+      - "Victorian era technological revolution context"
+      - "Geography of 1873 global transport networks"
+      - "Creation of science fiction as literary genre"
+      - "Evolution of cultural sensitivity awareness"
+      - "Accurate technological predictions analysis"
+    production_notes:
+      intro_style: "historical context setting"
+      transitions: "time-bridge musical cues"
+      outro_style: "contemporary reflection"
+
+  overall_confidence: 0.84

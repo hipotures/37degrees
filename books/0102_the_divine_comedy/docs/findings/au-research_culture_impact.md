@@ -1,140 +1,140 @@
-# Wpływ kulturowy "Boskiej Komedii" - Badania kulturowe
+# Cultural Impact of "The Divine Comedy" - Cultural Research
 
-## Podstawowe informacje o dziele
-- **Tytuł**: "The Divine Comedy" / "Boska Komedia"
-- **Autor**: Dante Alighieri
-- **Rok**: ok. 1320
-- **Gatunek**: Epika, Poezja
+## Basic Work Information
+- **Title**: "The Divine Comedy" / "Divina Commedia"
+- **Author**: Dante Alighieri
+- **Year**: c. 1320
+- **Genre**: Epic, Poetry
 
-## Adaptacje filmowe i telewizyjne
+## Film and Television Adaptations
 
-### Wczesne adaptacje kinowe
-1. **L'Inferno (1911)** - pierwszy pełnometrażowy włoski film fabularny, reż. Giuseppe de Liguoro, Salvatore Papa. Trzyletni projekt trzech artystów, który do dziś uważany jest za "wizualną poezję".
+### Early Cinema Adaptations
+1. **L'Inferno (1911)** - The first Italian feature film, dir. Giuseppe de Liguoro, Salvatore Papa. A three-year project by three artists, still considered "visual poetry" today.
 
-2. **Dante's Inferno (1924)** - film niemy w reżyserii Henry'ego Otto, zawierał 10-minutowy segment z filmu z 1911 roku.
+2. **Dante's Inferno (1924)** - Silent film directed by Henry Otto, included a 10-minute segment from the 1911 film.
 
-3. **Dante's Inferno (1935)** - reż. Harry Lachman, z Spencer Tracy i Claire Trevor. Bardziej nawiązanie niż adaptacja - akcja w wesołym miasteczku z motywami Piekła Dantego.
+3. **Dante's Inferno (1935)** - Dir. Harry Lachman, starring Spencer Tracy and Claire Trevor. More of an homage than adaptation - set in an amusement park with Dante's Hell motifs.
 
-### Współczesne adaptacje animowane
-4. **Dante's Inferno: An Animated Epic (2010)** - reż. Victor Cook, z Markiem Hamilllem w obsadzie głosowej. Oparta na grze wideo EA.
+### Modern Animated Adaptations
+4. **Dante's Inferno: An Animated Epic (2010)** - Dir. Victor Cook, with Mark Hamill in voice cast. Based on EA's video game.
 
-5. **Dante's Inferno (2011)** - reż. Douglas Neff, animowana opowieść o podróży przez Piekło.
+5. **Dante's Inferno (2011)** - Dir. Douglas Neff, animated story of the journey through Hell.
 
-6. **Dante's Hell Animated (2013)** - reż. Boris Acosta, z Erikiem Robertsem, zawiera zarówno angielską jak i oryginalną włoską wersję tekstu.
+6. **Dante's Hell Animated (2013)** - Dir. Boris Acosta, with Eric Roberts, contains both English and original Italian text versions.
 
-### Adaptacje telewizyjne
-7. **A TV Dante (1990-1991)** - BBC, reż. Peter Greenaway i Raoul Ruiz, z Bobem Peckiem i Johnem Gielgudem. Adaptacja Kantów I-VIII dla BBC Two.
+### Television Adaptations
+7. **A TV Dante (1990-1991)** - BBC, dir. Peter Greenaway and Raoul Ruiz, with Bob Peck and John Gielgud. Adaptation of Cantos I-VIII for BBC Two.
 
-8. **The Divine Comedy Radio 4 (2014)** - BBC Radio 4, z Blake'iem Ritsonem i Johnem Hurtem jako młodszą i starszą wersją Dantego.
+8. **The Divine Comedy Radio 4 (2014)** - BBC Radio 4, with Blake Ritson and John Hurt as younger and older versions of Dante.
 
-## Wpływ na gry wideo
+## Impact on Video Games
 
 ### EA's Dante's Inferno (2010)
-9. **Dante's Inferno** - gra akcji EA/Visceral Games (twórców Dead Space). Sprzedała milion kopii, otrzymała pozytywne recenzje za design wizualny. Inspirowana God of War, przedstawia Dantego jako rycerza templariusza ratującego Beatrycze z piekła.
+9. **Dante's Inferno** - Action game by EA/Visceral Games (creators of Dead Space). Sold one million copies, received positive reviews for visual design. Inspired by God of War, depicts Dante as a Templar knight rescuing Beatrice from hell.
 
-10. **Krytyka akademicka** - Prof. Teodolinda Barolini z Columbia University skrytykowała seksualziację Beatrycze: "Beatrycze nie ma być przez niego ratowana, to ona go ratuje".
+10. **Academic Criticism** - Prof. Teodolinda Barolini from Columbia University criticized the sexualization of Beatrice: "Beatrice is not to be saved by him, she saves him."
 
-### Inne gry inspirowane Dantem
-11. **Devil May Cry** - seria gier z demoniczną tematyką inspirowaną Piekłem Dantego
-12. **Saints Row: Gat out of Hell** - parodia z motywami piekielnych kręgów
-13. **Ultrakill** - nowoczesna gra FPS z architekturą piekła inspirowaną Dantem
-14. **Limbus Company** - gra RPG z systemem kręgów piekła
+### Other Dante-Inspired Games
+11. **Devil May Cry** - Game series with demonic themes inspired by Dante's Hell
+12. **Saints Row: Gat out of Hell** - Parody with hellish circle motifs
+13. **Ultrakill** - Modern FPS game with hell architecture inspired by Dante
+14. **Limbus Company** - RPG game with hell circle system
 
-## Wpływ na muzykę
+## Impact on Music
 
-### Hip-hop i rap
-15. **Future - "Draco" (2017)** - nawiązuje do siódmego kręgu piekła reprezentującego przemoc
-16. **Akademickie badania** - Francesco Ciabattoni dokumentuje szerokie nawiązania do Dantego w hip-hopie i rocku
+### Hip-hop and Rap
+15. **Future - "Draco" (2017)** - References the seventh circle of hell representing violence
+16. **Academic Research** - Francesco Ciabattoni documents extensive references to Dante in hip-hop and rock
 
-### Artyści inspirowani Dantem
-17. **Hozier - "Unreal Unearth" (2023)** - cały album inspirowany Piekłem, każdy utwór reprezentuje jeden z dziewięciu kręgów piekła
-18. **Ethel Cain - "Preacher's Daughter" (2022)** - zawiera utwór "Ptolomaea" nazwany od jednego z czterech pierścieni dziewiątego kręgu piekła
-19. **The Divine Comedy** - brytyjski zespół Neil'a Hannona, nazwa inspirowana epopeją Dantego
+### Artists Inspired by Dante
+17. **Hozier - "Unreal Unearth" (2023)** - Entire album inspired by Hell, each track represents one of the nine circles of hell
+18. **Ethel Cain - "Preacher's Daughter" (2022)** - Contains track "Ptolomaea" named after one of the four rings of the ninth circle of hell
+19. **The Divine Comedy** - British band by Neil Hannon, name inspired by Dante's epic
 
-### Rock i metal
-20. **Iced Earth** - 19-minutowy utwór "Inferno" jako hołd dla Dantego
-21. **Nirvana - "Bleach"** - debiutancki album zawiera okładkę inspirowaną Piekłem Dantego
-22. **Accept, Cardi B, Scotty McCreery** - artyści na playliście "Inferno" reprezentującej 9 kręgów piekła
+### Rock and Metal
+20. **Iced Earth** - 19-minute track "Inferno" as tribute to Dante
+21. **Nirvana - "Bleach"** - Debut album contains cover art inspired by Dante's Hell
+22. **Accept, Cardi B, Scotty McCreery** - Artists on "Inferno" playlist representing 9 circles of hell
 
-## Nawiązania filmowe i seriale
+## Film and TV Series References
 
-### Filmy z nawiązaniami do Dantego
-23. **Se7en (1995)** - z Bradem Pittem i Morganem Freemanem, seria morderstw inspirowana siedmioma grzechami głównymi i strukturą piekła Dantego
-24. **What Dreams May Come (1998)** - Robin Williams podróżuje przez piekło wizualnie inspirowane kręgami Dantego
-25. **As Above, So Below (2014)** - horror w katakumbach Paryża, podróż lustrzanie odbijająca zejście Dantego przez dziewięć kręgów piekła
-26. **Salò (1975)** - Pier Paolo Pasolini podzielił film na cztery segmenty inspirowane Boską Komedią
+### Films with Dante References
+23. **Se7en (1995)** - Starring Brad Pitt and Morgan Freeman, murder series inspired by seven deadly sins and Dante's hell structure
+24. **What Dreams May Come (1998)** - Robin Williams travels through hell visually inspired by Dante's circles
+25. **As Above, So Below (2014)** - Horror in Paris catacombs, journey mirroring Dante's descent through nine circles of hell
+26. **Salò (1975)** - Pier Paolo Pasolini divided the film into four segments inspired by The Divine Comedy
 
-### Seriale telewizyjne
-27. **John Wick: Chapter 3** - Ernest cytuje Dantego: "Rozważcie wasze początki. Nie zostaliście stworzeni, by żyć jak zwierzęta"
-28. **John Wick: Chapter 4** - Bowery King otwiera film cytatem z Piekła: "Jam jest bramą miasta boleści"
-29. **Firefly** - Shepherd Book: "jeśli wykorzystasz ją seksualnie, będziesz płonął w bardzo specjalnym kręgu piekła"
-30. **Scott Pilgrim vs. The World** - scena walki z bliźniętami Katayanagi odbywa się na scenie "Ninth Circle"
+### Television Series
+27. **John Wick: Chapter 3** - Ernest quotes Dante: "Consider your origins. You were not made to live like beasts"
+28. **John Wick: Chapter 4** - Bowery King opens film with quote from Hell: "I am the way into the city of woe"
+29. **Firefly** - Shepherd Book: "if you take sexual advantage of her, you're going to burn in a very special level of hell"
+30. **Scott Pilgrim vs. The World** - Fight scene with Katayanagi twins takes place on "Ninth Circle" stage
 
-## Wpływ na sztukę wizualną
+## Impact on Visual Arts
 
-### Wielcy ilustratorzy
-31. **Gustave Doré (1861-1868)** - najsłynniejsze ilustracje do Boskiej Komedii, definiujące naszą wizualną wyobraźnię o dziele przez 150 lat
-32. **William Blake** - stworzył ilustracje na końcu życia, łącząc własną filozofię z wizją Dantego
-33. **Sandro Botticelli** - stworzył jeden rysunek dla każdego ze stu pieśni Komedii
-34. **Salvador Dalí** - sinistralne i sensualnie obrazy do Piekła
+### Great Illustrators
+31. **Gustave Doré (1861-1868)** - Most famous illustrations of The Divine Comedy, defining our visual imagination of the work for 150 years
+32. **William Blake** - Created illustrations at the end of his life, combining his own philosophy with Dante's vision
+33. **Sandro Botticelli** - Created one drawing for each of the hundred cantos of the Comedy
+34. **Salvador Dalí** - Sinister and sensual images for Hell
 
-### Współcześni artyści
-35. **Sandow Birk** - współczesne rysunki do Boskiej Komedii z nowymi mieszkańcami piekła jak Adolf Hitler
-36. **Franz von Bayros (1886-1924)** - interpretacja w stylu Art Nouveau
-37. **Jean-Auguste-Dominique Ingres** - namalował Paolo i Francesca, umieścił Dantego w "Apoteozie Homera" (1827)
+### Contemporary Artists
+35. **Sandow Birk** - Contemporary drawings for The Divine Comedy with new hell inhabitants like Adolf Hitler
+36. **Franz von Bayros (1886-1924)** - Art Nouveau interpretation
+37. **Jean-Auguste-Dominique Ingres** - Painted Paolo and Francesca, placed Dante in "The Apotheosis of Homer" (1827)
 
-## Wpływ na literaturę światową
+## Impact on World Literature
 
-### Wielcy pisarze inspirowani Dantem
-38. **T.S. Eliot** - "Dante i Szekspir dzielą między siebie świat. Nie ma trzeciego." Cytuje Dantego w "Prufrocku" i "The Waste Land"
-39. **James Joyce** - Samuel Beckett porównywał Joyce'a do Dantego w eseju "Dante... Bruno. Vico.. Joyce"
-40. **Jorge Luis Borges** - nazywał Boską Komedię "najlepszą książką jaką osiągnęła literatura". W "Aleph" bohater opłakuje Beatriz Viterbo
+### Great Writers Inspired by Dante
+38. **T.S. Eliot** - "Dante and Shakespeare divide the world between them. There is no third." Quotes Dante in "Prufrock" and "The Waste Land"
+39. **James Joyce** - Samuel Beckett compared Joyce to Dante in essay "Dante... Bruno. Vico.. Joyce"
+40. **Jorge Luis Borges** - Called The Divine Comedy "the best book literature has achieved." In "Aleph" protagonist mourns Beatriz Viterbo
 
-### Współcześni autorzy
-41. **Dan Brown - "Inferno" (2013)** - bestseller z Robertem Langdonem, adaptowany na film z Tomem Hanksem (2016)
-42. **Neil Gaiman - "The Sandman"** - komiks z piekłem inspirowanym Dantem, zawiera Las Samobójców, Malebolge i Miasto Dis
+### Contemporary Authors
+41. **Dan Brown - "Inferno" (2013)** - Bestseller with Robert Langdon, adapted into film with Tom Hanks (2016)
+42. **Neil Gaiman - "The Sandman"** - Comic with hell inspired by Dante, features Wood of Suicides, Malebolge and City of Dis
 
-## Parodie i komiks
+## Parodies and Comics
 
-### Nowoczesne parodie
-43. **"Mickey's Inferno"** - Disney stworzył komiks z Myszką Miki jako Dantem i Goofy jako Wergiliuszem
-44. **Ty Templeton - "Stig's Inferno" (1985-1986)** - parodia komiksowa
-45. **Gary Panter - seria "Jimbo"** - łączy dzieło Dantego z popkulturą
-46. **S.A. Alenthony - "The Infernova" (2009)** - parodia Piekła z perspektywy ateisty, z Markiem Twainem jako przewodnikiem
+### Modern Parodies
+43. **"Mickey's Inferno"** - Disney created comic with Mickey Mouse as Dante and Goofy as Virgil
+44. **Ty Templeton - "Stig's Inferno" (1985-1986)** - Comic parody
+45. **Gary Panter - "Jimbo" series** - Combines Dante's work with pop culture
+46. **S.A. Alenthony - "The Infernova" (2009)** - Hell parody from atheist perspective, with Mark Twain as guide
 
-### Internet i memy
-47. **"Incorrect Divine Comedy" na Tumblr** - społeczność memów porównująca "Dantego Autora" (geniusz) z "Dantem Bohaterem" (zemdla, płacze, potrzebuje przytulania)
-48. **Minecraft** - 50-latek stworzył replikę 7 kręgów piekła Dantego w trybie survival
+### Internet and Memes
+47. **"Incorrect Divine Comedy" on Tumblr** - Meme community comparing "Dante the Author" (genius) with "Dante the Character" (faints, cries, needs hugging)
+48. **Minecraft** - 50-year-old created replica of Dante's 7 circles of hell in survival mode
 
-## Miejsca i atrakcje turystyczne
+## Places and Tourist Attractions
 
-### Muzea i wystawy we Florencji
-49. **Museo Casa di Dante** - muzeum w domu rodzinnym Dantego, z technologią VR, interaktywnymi stołami, kolekcją rysunków Botticellego
-50. **Teatro Niccolini** - immersyjne przedstawienie teatralne "Dante Inferno Florence - The Divine Comedy Show"
-51. **Palazzo Vecchio** - maska pośmiertna Dantego
-52. **Katedra we Florencji** - słynny obraz Dantego z 1465 roku z Boską Komedią i Florencją w tle
+### Museums and Exhibitions in Florence
+49. **Museo Casa di Dante** - Museum in Dante's family home, with VR technology, interactive tables, collection of Botticelli drawings
+50. **Teatro Niccolini** - Immersive theatrical performance "Dante Inferno Florence - The Divine Comedy Show"
+51. **Palazzo Vecchio** - Dante's death mask
+52. **Florence Cathedral** - Famous 1465 painting of Dante with The Divine Comedy and Florence in background
 
-## Słynne cytaty w kulturze popularnej
+## Famous Quotes in Popular Culture
 
-### Najbardziej rozpoznawalny cytat
-53. **"Abandon all hope, ye who enter here"** - napis nad bramą piekła, używany od wieków w niezliczonych kontekstach, od literatury po seriale komediowe jak "The Office" i "South Park"
+### Most Recognizable Quote
+53. **"Abandon all hope, ye who enter here"** - Inscription over hell's gate, used for centuries in countless contexts, from literature to comedy series like "The Office" and "South Park"
 
-## Współczesne trendy medialne
+## Contemporary Media Trends
 
-### Dark Academia i BookTok
-54. **Dark Academia** - estetyka na TikToku z 3,5 miliarda wyświetleń, promująca klasyczną literaturę, w tym Boską Komedię
-55. **BookTok** - twórcy polecają klasyki literatury, w tym dzieło Dantego młodym czytelnikom
+### Dark Academia and BookTok
+54. **Dark Academia** - TikTok aesthetic with 3.5 billion views, promoting classical literature including The Divine Comedy
+55. **BookTok** - Creators recommend literary classics, including Dante's work to young readers
 
-## Kontrowersyjne interpretacje
+## Controversial Interpretations
 
-### Nowoczesne odczytania
-56. **Interpretacje LGBTQ+** - współczesne badania analizują postać Brunetta Latiniego w siódmym kręgu piekła i kwestie seksualności w dziele
-57. **Feministische reinterpretacje** - romantyczni badacze XIX i XX wieku przekształcili Francescę z grzesznicy w symbol kobiecej podmiotowości
+### Modern Readings
+56. **LGBTQ+ Interpretations** - Contemporary research analyzes the character of Brunetto Latini in the seventh circle of hell and sexuality issues in the work
+57. **Feminist Reinterpretations** - 19th and 20th century romantic scholars transformed Francesca from sinner into symbol of female agency
 
-## Podsumowanie wpływu kulturowego
+## Summary of Cultural Impact
 
-Boska Komedia Dantego pozostaje jednym z najbardziej wpływowych dzieł literatury światowej, inspirującym twórców przez ponad 700 lat. Od wczesnych adaptacji filmowych z 1911 roku, przez współczesne gry wideo EA, po viralne memy na TikToku - dzieło Dantego nadal kształtuje kulturę popularną.
+Dante's Divine Comedy remains one of the most influential works of world literature, inspiring creators for over 700 years. From early film adaptations in 1911, through contemporary EA video games, to viral memes on TikTok - Dante's work continues to shape popular culture.
 
-Wpływ obejmuje wszystkie dziedziny sztuki: od ilustracji Gustave'a Dorégo definiujących naszą wizję piekła, przez filmy hollywoodzkie jak "Se7en", po albumy hip-hopowe jak "Unreal Unearth" Hoziera. Każde pokolenie odkrywa na nowo uniwersalne tematy dzieła: podróż przez ciemność do światła, strukturę moralności i siłę ludzkiej wyobraźni.
+The influence spans all art forms: from Gustave Doré's illustrations defining our vision of hell, through Hollywood films like "Se7en," to hip-hop albums like Hozier's "Unreal Unearth." Each generation rediscovers the work's universal themes: the journey through darkness to light, the structure of morality, and the power of human imagination.
 
-Boska Komedia to nie tylko klasyka literatury, ale żywy, oddychający element współczesnej kultury popularnej, który nadal inspiruje, prowokuje i fascynuje nowe pokolenia czytelników i twórców na całym świecie.
+The Divine Comedy is not just a literary classic, but a living, breathing element of contemporary popular culture that continues to inspire, provoke and fascinate new generations of readers and creators worldwide.

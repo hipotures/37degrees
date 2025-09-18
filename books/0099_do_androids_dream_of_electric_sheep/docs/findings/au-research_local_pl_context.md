@@ -1,106 +1,106 @@
-# Lokalny Kontekst Kulturowy: "Czy androidy marzą o elektrycznych owcach?" w Polsce
+# Local Cultural Context: "Do Androids Dream of Electric Sheep?" in Poland
 
-## Wprowadzenie
-Powieść Philipa K. Dicka "Do Androids Dream of Electric Sheep?" (1968) trafiła do polskich czytelników pod tytułem "Czy androidy marzą o elektrycznych owcach?" oraz "Blade Runner. Czy androidy marzą o elektrycznych owcach?" Poniższy raport bada lokalny kontekst kulturowy tego klasyka science fiction w Polsce, analizując jego recepcję, interpretację i wpływ na polską kulturę popularną.
+## Introduction
+Philip K. Dick's novel "Do Androids Dream of Electric Sheep?" (1968) reached Polish readers under the title "Czy androidy marzą o elektrycznych owcach?" and "Blade Runner. Czy androidy marzą o elektrycznych owcach?" This report examines the local cultural context of this science fiction classic in Poland, analyzing its reception, interpretation and impact on Polish popular culture.
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Wydania i Seria Nowa Fantastyka
-1. **Pierwsza publikacja w odcinkach**: Powieść po raz pierwszy ukazała się w Polsce w odcinkach w magazynie "Nowa Fantastyka" w numerach 10-12/1993 i 1/1994, co poprzedzało wydania książkowe.
+### First Editions and Nowa Fantastyka Series
+1. **First serial publication**: The novel first appeared in Poland in serial form in "Nowa Fantastyka" magazine in issues 10-12/1993 and 1/1994, preceding book editions.
 
-2. **Wydawnictwo REBIS**: Głównym wydawcą książki w Polsce jest Dom Wydawniczy REBIS z Poznania, który opublikował trzecie poprawione wydanie w 2012 roku oraz kolejne poprawione wydanie 29 marca 2022 roku.
+2. **REBIS Publishing House**: The main publisher of the book in Poland is Dom Wydawniczy REBIS from Poznan, which published the third corrected edition in 2012 and another corrected edition on March 29, 2022.
 
-3. **Dostępne formaty**: Książka jest dostępna w Polsce w wielu formatach:
-   - Wersje drukowane (miękka i twarda oprawa)
-   - E-booki w formatach EPUB i MOBI (Legimi)
-   - Audiobook wydany przez Audioteka.pl i Rebis 28 listopada 2012 roku
+3. **Available formats**: The book is available in Poland in multiple formats:
+   - Print versions (softcover and hardcover)
+   - E-books in EPUB and MOBI formats (Legimi)
+   - Audiobook published by Audioteka.pl and Rebis on November 28, 2012
 
-### Tłumacz i Oprawa Wizualna
-4. **Tłumacz**: Polskie tłumaczenie wykonał **Sławomir Kędzierski**, doświadczony tłumacz literatury fantastycznej.
+### Translator and Visual Design
+4. **Translator**: The Polish translation was done by **Sławomir Kędzierski**, an experienced translator of fantasy literature.
 
-5. **Grafika**: Projekt graficzny polskich wydań stworzył **Wojciech Siudmak** (ur. 1942 w Wieluniu), polski malarz mieszkający we Francji, uznany za czołowego przedstawiciela realizmu fantastycznego.
+5. **Graphics**: The graphic design for Polish editions was created by **Wojciech Siudmak** (born 1942 in Wieluń), a Polish painter living in France, recognized as a leading representative of fantastic realism.
 
-6. **Tytuł w Polsce**: Konsekwentnie używany jest tytuł "Blade Runner. Czy androidy marzą o elektrycznych owcach?", łączący oryginalny tytuł z nazwą filmowej adaptacji.
+6. **Title in Poland**: The title "Blade Runner. Czy androidy marzą o elektrycznych owcach?" is consistently used, combining the original title with the name of the film adaptation.
 
-## Miejsce w Polskiej Kulturze Science Fiction
+## Place in Polish Science Fiction Culture
 
-### Magazyn "Nowa Fantastyka" jako Centrum SF
-7. **Lech Jęczmyk o Dicku**: Ważny polski krytyk i redaktor nazwał Philipa K. Dicka "Dostojewskim SF", podkreślając jego filozoficzne znaczenie.
+### "Nowa Fantastyka" Magazine as SF Center
+7. **Lech Jęczmyk on Dick**: An important Polish critic and editor called Philip K. Dick the "Dostoyevsky of SF," emphasizing his philosophical significance.
 
-8. **Ekstensywna publikacja**: Dick był jednym z najczęściej publikowanych autorów w "Nowej Fantastyce" w latach 90., co wskazuje na duże zainteresowanie jego twórczością.
+8. **Extensive publication**: Dick was one of the most frequently published authors in "Nowa Fantastyka" in the 1990s, indicating great interest in his work.
 
-9. **Opowiadania Dicka w NF**: Magazyn publikował liczne opowiadania Dicka, w tym "Druga odmiana" (1992), "Zbędny" (1997), "Kolonia" (1997), "Budowniczy" (1998).
+9. **Dick's short stories in NF**: The magazine published numerous Dick stories, including "Second Variety" (1992), "The Redundant" (1997), "Colony" (1997), "The Builder" (1998).
 
-### Status Kultowej Pozycji
-10. **Klasyk literatury**: Powieść jest uznawana za kultowe dzieło fantastyki i jedną z najpopularniejszych pozycji w dorobku Dicka.
+### Cult Status
+10. **Literary classic**: The novel is recognized as a cult work of fantasy and one of the most popular positions in Dick's oeuvre.
 
-11. **Radio dramatyzacja**: Na podstawie polskiego tłumaczenia powstała wybitna słuchowiska radiowego autorstwa Audioteki, co pokazuje kulturowy wpływ polskiej wersji.
+11. **Radio dramatization**: An outstanding radio drama was created based on the Polish translation by Audioteka, showing the cultural impact of the Polish version.
 
-## Badania Akademickie i Interpretacje Polskich Uczonych
+## Academic Research and Interpretations by Polish Scholars
 
-### Uniwersytet Warszawski
-12. **Kurs na UW**: Uniwersytet Warszawski prowadzi kurs "Philip K. Dick: Fake Humans and Global Conspiracies", badający jego twórczość z perspektywy teorii kultury współczesnej.
+### University of Warsaw
+12. **UW course**: The University of Warsaw offers a course "Philip K. Dick: Fake Humans and Global Conspiracies," studying his work from the perspective of contemporary culture theory.
 
-13. **Badania posthumanistyczne**: Polscy badacze analizują Dicka w kontekście teorii posthumanizmu, cyborgów i symulakrów.
+13. **Posthumanist research**: Polish researchers analyze Dick in the context of posthumanism theory, cyborgs and simulacra.
 
-### Filozoficzne i Religijne Interpretacje
-14. **Dr hab. Jan Grzegorz Grygiel**: Polski badacz z czasopisma "Urania" analizuje refleksje filozoficzne i religijne w twórczości Dicka.
+### Philosophical and Religious Interpretations
+14. **Dr hab. Jan Grzegorz Grygiel**: Polish researcher from "Urania" journal analyzes philosophical and religious reflections in Dick's work.
 
-15. **Tolerancja światopoglądowa**: Polscy interpretatorzy podkreślają, że Dick głosi szacunek dla każdego punktu widzenia, nawet jeśli wydaje się nielogiczny.
+15. **Worldview tolerance**: Polish interpreters emphasize that Dick preaches respect for every point of view, even if it seems illogical.
 
-16. **Względność wiary i logiki**: Polski dyskurs akademicki podkreśla, że w twórczości Dicka pewne sprawy nie dają się rozstrzygnąć rozumowo.
+16. **Relativity of faith and logic**: Polish academic discourse emphasizes that in Dick's work certain matters cannot be resolved rationally.
 
-## Recepcja Filmowej Adaptacji "Blade Runner"
+## Reception of Film Adaptation "Blade Runner"
 
-### Polski tytuł filmu
-17. **"Łowca androidów"**: Film Ridleya Scotta (1982) jest znany w Polsce jako "Łowca androidów", co różni się od tytułu książki.
+### Polish Film Title
+17. **"Łowca androidów"**: Ridley Scott's film (1982) is known in Poland as "Łowca androidów" (Android Hunter), which differs from the book title.
 
-18. **Oceny polskich widzów**: Na Filmweb.pl film ma ocenę 7,7/10, z polaryzowaną recepcją - niektórzy nazywają go "kosmosem w sobie", inni znajdują go nudnym.
+18. **Polish viewer ratings**: On Filmweb.pl the film has a rating of 7.7/10, with polarized reception - some call it "cosmic in itself," others find it boring.
 
-### Różnice kulturowe w odbiorze
-19. **Sukces komercyjny**: Film nie osiągnął w Polsce wielkiego sukcesu komercyjnego, podobnie jak w USA, gdzie koszty produkcji (28 mln $) ledwo pokryły się z przychodami (33 mln $).
+### Cultural Differences in Reception
+19. **Commercial success**: The film did not achieve great commercial success in Poland, similar to the USA, where production costs ($28 million) barely covered revenues ($33 million).
 
-20. **"Blade Runner 2049"**: Sequel otrzymał polaryzowane reakcje od polskich widzów - od zachwytu nad pięknem wizualnym po krytykę za nudę i pretensjonalność.
+20. **"Blade Runner 2049"**: The sequel received polarized reactions from Polish viewers - from admiration for visual beauty to criticism for boredom and pretentiousness.
 
-## Kontekst Edukacyjny
+## Educational Context
 
-### Brak w Programie Szkolnym
-21. **Nie jest lekturą obowiązkową**: Pomimo uznania za klasyk, powieść nie znajduje się na żadnej oficjalnej liście lektur szkolnych w Polsce (podstawówka, gimnazjum, liceum).
+### Absent from School Curriculum
+21. **Not mandatory reading**: Despite being recognized as a classic, the novel is not on any official school reading list in Poland (elementary, middle school, high school).
 
-22. **Akademickie zainteresowanie**: Książka jest jednak przedmiotem badań na poziomie uniwersyteckim, szczególnie w kontekście teorii kultury i studiów nad fantastyką.
+22. **Academic interest**: However, the book is the subject of research at university level, particularly in the context of culture theory and fantasy studies.
 
-## Polska Społeczność Fanów
+## Polish Fan Community
 
-### Organizacje i Konwenty
-23. **Ogólnopolski Klub Miłośników Fantastyki**: Pierwsza organizacja fanów fantastyki w Polsce (założona 26 lutego 1976 w Warszawie), organizowała konwenty w latach 1977-1980.
+### Organizations and Conventions
+23. **All-Polish Fantasy Lovers Club**: The first fantasy fan organization in Poland (founded February 26, 1976 in Warsaw), organized conventions in 1977-1980.
 
-24. **Federacja Fantastyki Feniks**: Współczesna społeczność miłośników fantastyki organizująca konwenty (Falkon, Lubelskie Dni Fantastyki) oraz spotkania RPG.
+24. **Feniks Fantasy Federation**: Contemporary fantasy lovers community organizing conventions (Falkon, Lublin Fantasy Days) and RPG meetings.
 
-25. **Pilkon**: Regionalny konwent fantastyki w północnej Wielkopolsce, miejsce spotkań fanów science fiction, w tym dzieł Dicka.
+25. **Pilkon**: Regional fantasy convention in northern Greater Poland, a meeting place for science fiction fans, including Dick's works.
 
-### Portale i Społeczności Online
-26. **Portal POLTERGEIST**: Ważny polski portal fantastyczny z sekcją społecznościową, gdzie można czytać recenzje i dyskusje o dziełach Dicka.
+### Online Portals and Communities
+26. **POLTERGEIST Portal**: Important Polish fantasy portal with community section, where you can read reviews and discussions about Dick's works.
 
-## Kulturowe Różnice w Interpretacji
+## Cultural Differences in Interpretation
 
-### Perspektywa Europejska vs. Amerykańska
-27. **Filozoficzny nacisk**: Polscy krytycy kładą większy nacisk na filozoficzne i egzystencjalne pytania stawiane przez Dicka niż na elementy akcji czy technologii.
+### European vs. American Perspective
+27. **Philosophical emphasis**: Polish critics place greater emphasis on philosophical and existential questions posed by Dick than on action or technology elements.
 
-28. **Porównania z Lemem**: Polscy badacze stawiają Dicka obok Stanisława Lema jako największych wizjonerów science fiction drugiej połowy XX wieku.
+28. **Comparisons with Lem**: Polish researchers place Dick alongside Stanisław Lem as the greatest science fiction visionaries of the second half of the 20th century.
 
-29. **Neo-noir i cyberpunk**: Polscy krytycy doceniają fuzję elementów neo-noir (indywidualistyczny protagonista, narracja voice-over) z cyberpunkową wizją dystopii.
+29. **Neo-noir and cyberpunk**: Polish critics appreciate the fusion of neo-noir elements (individualistic protagonist, voice-over narration) with cyberpunk dystopian vision.
 
-## Lokalny Kontekst i Nawiązania
+## Local Context and References
 
-### Brak Polskich Adaptacji
-30. **Teatr i telewizja**: Badania nie wykazały żadnych polskich adaptacji teatralnych ani telewizyjnych powieści lub innych dzieł Dicka.
+### Lack of Polish Adaptations
+30. **Theater and television**: Research showed no Polish theatrical or television adaptations of the novel or other Dick works.
 
-31. **Potencjał adaptacyjny**: Mimo braku realizacji, filozoficzne tematy Dicka rezonują z polską tradycją literatury egzystencjalnej.
+31. **Adaptation potential**: Despite lack of realization, Dick's philosophical themes resonate with Polish existential literature tradition.
 
-## Podsumowanie
+## Summary
 
-"Czy androidy marzą o elektrycznych owcach?" zajmuje szczególne miejsce w polskiej kulturze science fiction. Choć nie jest lekturą szkolną, ma silną pozycję w akademickich badaniach kulturowych i wśród społeczności fanów fantastyki. Polska recepcja charakteryzuje się naciskiem na aspekty filozoficzne i egzystencjalne dzieła, co odzwierciedla europejską tradycję intelektualną. Książka jest dostępna w wielu formatach dzięki wydawnictwu REBIS i tłumaczeniu Sławomira Kędzierskiego, a jej wpływ na polską fantastykę jest widoczny przez liczne publikacje w "Nowej Fantastyce" oraz obecność w dyskursie akademickim.
+"Do Androids Dream of Electric Sheep?" occupies a special place in Polish science fiction culture. Although not school reading, it has a strong position in academic cultural research and among fantasy fan communities. Polish reception is characterized by emphasis on philosophical and existential aspects of the work, reflecting European intellectual tradition. The book is available in multiple formats thanks to REBIS publishing house and Sławomir Kędzierski's translation, and its influence on Polish fantasy is visible through numerous publications in "Nowa Fantastyka" and presence in academic discourse.
 
 ---
 
-*Raport sporządzony na podstawie badań internetowych przeprowadzonych w 2025 roku. Źródła obejmują polskie portale księgarskie, czasopisma naukowe, platformy edukacyjne oraz społeczności fanów fantastyki.*
+*Report compiled based on internet research conducted in 2025. Sources include Polish bookstore portals, academic journals, educational platforms and fantasy fan communities.*

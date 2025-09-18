@@ -4,3 +4,177 @@ book_info:
   author: "Arundhati Roy"
   year: 1997
   genre: "Novel,Family saga"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T15:42:00"
+
+  scores:
+    controversy: 8
+    philosophical_depth: 9
+    cultural_phenomenon: 2
+    contemporary_reception: 6
+    relevance: 9
+    innovation: 8
+    structural_complexity: 8
+    social_roles: 9
+    total: 69
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.5
+      category: "high"
+    heat:
+      value: 6.2
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Incest between adult twins becomes grotesque final transgression after childhood trauma and social manipulation"
+        source: "dark_drama"
+      - id: "symbols_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "25+ interpretive layers: postcolonial, feminist, psychoanalytic frameworks reveal profound symbolic architecture"
+        source: "symbols_meanings"
+      - id: "culture_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "First Indian woman to win Booker Prize, breaking barriers but generating limited cultural adaptations"
+        source: "culture_impact"
+      - id: "youth_0"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "BookTok generation connects with generational trauma themes through mental health discourse"
+        source: "youth_digital"
+      - id: "reality_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic environmental and social predictions proven accurate after 28 years of observation"
+        source: "reality_wisdom"
+      - id: "innovation_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Architectural narrative method and linguistic subversion created new postcolonial writing template"
+        source: "writing_innovation"
+      - id: "facts_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Record-breaking $1.6 million advance established new benchmark for Indian authors globally"
+        source: "facts_history"
+      - id: "warnings_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "High-risk content requires 18+ age restriction across all platforms due to sensitive themes"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in postcolonial literature, essential text in English-speaking universities"
+        key_editions: ["Random House US edition", "Penguin 20th anniversary edition", "Collins Modern Classics"]
+        reception_notes: "Mixed UK critical reception despite Booker Prize victory, stellar US reviews"
+        educational_status: "Standard postcolonial studies curriculum text"
+        local_themes: ["Commonwealth literature identity", "British colonial legacy", "English language subversion"]
+
+      pl:
+        cultural_impact: "Limited Polish reception, single theater adaptation in Łódź, complex translation challenges"
+        key_editions: ["Zysk i S-ka 2017 edition by Jerzy Łoziński", "Earlier 2010 Tomasz Bieroń translation"]
+        reception_notes: "Polish readers struggle with cultural distance, appreciate poetic language"
+        educational_status: "Academic postcolonial studies only, not in school canon"
+        local_themes: ["Translation of Indian realities", "Family trauma universality", "Social hierarchy parallels"]
+
+      de:
+        cultural_impact: "Strong German academic reception, environmental themes resonate with Green movement"
+        key_editions: ["Karl Blessing Verlag 1997", "S. Fischer Verlage editions", "Comprehensive study guides"]
+        reception_notes: "Praised for 'fine, poetic voice' and 'original metaphors' by German critics"
+        educational_status: "Featured in Gymnasium Oberstufe literature programs"
+        local_themes: ["German Romantic nature connection", "Critical theory applications", "Environmental consciousness"]
+
+      fr:
+        cultural_impact: "Sophisticated French academic analysis, École Normale Supérieure studies, 100K copies sold"
+        key_editions: ["Gallimard 'Du monde entier' series", "Folio paperback edition", "Academic study editions"]
+        reception_notes: "Praised for preserving Roy's poetic style in French translation by Claude Demanuelli"
+        educational_status: "Standard text in French postcolonial studies programs"
+        local_themes: ["Structuralist narrative analysis", "Phenomenological 'small things'", "French committed literature tradition"]
+
+      es:
+        cultural_impact: "30+ Spanish editions, compared to García Márquez, magical realism connections"
+        key_editions: ["Anagrama Spanish edition", "Alfaguara Latin American edition", "Multiple reprints"]
+        reception_notes: "Successfully bridges Indian and Latin American postcolonial experiences"
+        educational_status: "University postcolonial and feminist literature courses"
+        local_themes: ["Magical realism parallels", "Latin American Boom influence", "Social stratification resonance"]
+
+      pt:
+        cultural_impact: "Academic reception in Brazil and Portugal, translation studies focus on linguistic subversion"
+        key_editions: ["Companhia de Bolso Brazilian edition", "ASA Portuguese editions", "Multiple reprints"]
+        reception_notes: "Praised translation work preserving Roy's 'linguistic avalanche' for Portuguese readers"
+        educational_status: "Comparative literature programs, postcolonial studies"
+        local_themes: ["Cultural decolonization through language", "Brazilian experimental literature parallels", "Lusophone postcolonial connections"]
+
+      ja:
+        cultural_impact: "Limited but dedicated readership, environmental themes resonate with Japanese consciousness"
+        key_editions: ["DHC 1998 translation by Kudo Akifumi", "Academic editions for universities"]
+        reception_notes: "Selected as 'Best Book of 2001' by Tsushima Yuko despite limited popular reach"
+        educational_status: "University world literature and postcolonial studies programs"
+        local_themes: ["Buddhist interconnectedness concepts", "Environmental spirituality", "Mindfulness and small details"]
+
+      ko:
+        cultural_impact: "Roy received 2020 Lee Ho-cheol Unification Literature Award, new 2021 translation"
+        key_editions: ["Munhakdongne 2021 new translation", "Earlier Munidang 2006 edition (out of print)"]
+        reception_notes: "Korean critics praise 'tragic beauty' and 'fierce critical consciousness'"
+        educational_status: "Postcolonial and contemporary world literature courses"
+        local_themes: ["Shared colonial experience parallels", "Small vs. Big Things resistance", "Asian women writers solidarity"]
+
+      hi:
+        cultural_impact: "Revolutionary impact as first non-expatriate Indian woman Booker winner, Malayalam translation activism"
+        key_editions: ["Hindi translation 'Mamooli Cheezon Ka Devata'", "Malayalam 'Kunju kaaryangalude odaya thampuran'"]
+        reception_notes: "Mixed Indian reception, Kerala government criticism, obscenity charges for 10 years"
+        educational_status: "Postcolonial studies standard text, controversial in conservative regions"
+        local_themes: ["Caste system critique", "Syrian Christian Kerala culture", "Anti-globalization activism"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:30"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "Kerala caste system and Syrian Christian community dynamics in 1960s India"
+        - segment: 2
+          time_range: "03:30-07:00"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Intersectional oppression through caste, gender, and class hierarchies"
+        - segment: 3
+          time_range: "07:00-10:30"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Roy's prophetic social predictions proven accurate in modern India"
+        - segment: 4
+          time_range: "10:30-14:00"
+          topic: "future"
+          lead: "host_b"
+          description: "Global relevance for understanding systemic inequality and social justice"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'The God of Small Things' through lens of power, gender, class. Historical context: 1997 India. Discuss caste persistence, environmental predictions, and Roy's activist evolution."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates, modern interpretations of social hierarchy, and how Roy's themes resonate with today's justice movements."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["violence against children", "sexual content", "caste discrimination", "family trauma", "physical violence"]
+    educational_elements: ["postcolonial literature", "Indian social history", "caste system analysis", "environmental activism", "feminist narrative techniques"]
+    production_notes:
+      intro_style: "scholarly but accessible"
+      transitions: "subtle musical bridges"
+      outro_style: "reflective conclusion"
+
+  overall_confidence: 0.88

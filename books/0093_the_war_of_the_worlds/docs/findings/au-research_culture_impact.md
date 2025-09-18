@@ -1,414 +1,414 @@
-# Wpływ kulturowy "Wojny światów" H.G. Wellsa
+# Cultural Impact of H.G. Wells' "The War of the Worlds"
 
-**Książka**: The War of the Worlds (Wojna światów)  
-**Autor**: H.G. Wells  
-**Rok wydania**: 1898  
-**Data analizy**: 31 sierpnia 2025
+**Book**: The War of the Worlds
+**Author**: H.G. Wells
+**Publication Year**: 1898
+**Analysis Date**: August 31, 2025
 
-## Wprowadzenie
+## Introduction
 
-"Wojna światów" H.G. Wellsa to nie tylko pionierski utwór science fiction, ale przede wszystkim dzieło, które ukształtowało całą kulturę popularną na ponad 125 lat. Książka ta ustanowiła kanon narracji o inwazji obcych i do dziś pozostaje wzorcem dla twórców na całym świecie.
+H.G. Wells' "The War of the Worlds" is not only a pioneering work of science fiction, but above all a work that has shaped popular culture for over 125 years. This book established the canon of alien invasion narratives and remains a model for creators around the world to this day.
 
-## Adaptacje filmowe i teatralne
+## Film and Theater Adaptations
 
-### Kultowe adaptacje filmowe
+### Iconic Film Adaptations
 
-**1. Film "Wojna światów" (1953) - Byron Haskin**
-- Reżyseria: Byron Haskin, produkcja: George Pal
-- Główne role: Gene Barry
-- Pionierskie efekty specjalne w kolorze Technicolor
-- Nagroda Oscara za najlepsze efekty specjalne
-- Pierwsza wielkobudżetowa adaptacja kinowa klasyka Wellsa
+**1. "The War of the Worlds" (1953) - Byron Haskin**
+- Director: Byron Haskin, Producer: George Pal
+- Starring: Gene Barry
+- Pioneering Technicolor special effects
+- Academy Award for Best Special Effects
+- First major big-budget film adaptation of Wells' classic
 
-**2. "Wojna światów" (2005) - Steven Spielberg**
-- Reżyseria: Steven Spielberg
-- Główne role: Tom Cruise, Dakota Fanning, Tim Robbins
-- Narracja: Morgan Freeman  
-- Budżet: 132 miliony dolarów
-- Box office: 603,9 miliona dolarów na całym świecie
-- Rotten Tomatoes: 76% aprobaty krytyków
-- Współczesna interpretacja lęków post-11 września
-- Czwarta najbardziej kasowa produkcja 2005 roku
+**2. "War of the Worlds" (2005) - Steven Spielberg**
+- Director: Steven Spielberg
+- Starring: Tom Cruise, Dakota Fanning, Tim Robbins
+- Narration: Morgan Freeman
+- Budget: $132 million
+- Box office: $603.9 million worldwide
+- Rotten Tomatoes: 76% critical approval
+- Contemporary interpretation of post-9/11 anxieties
+- Fourth highest-grossing film of 2005
 
-**3. Słynna audycja radiowa Orsona Wellesa (1938)**
-- Data: 30 października 1938 roku, godzina 20:00 ET
-- Stacja: CBS Radio Network
+**3. Famous Orson Welles Radio Broadcast (1938)**
+- Date: October 30, 1938, 8:00 PM ET
+- Station: CBS Radio Network
 - Program: The Mercury Theatre on the Air
-- Reżyseria i narracja: Orson Welles
-- Format: symulacja wiadomości na żywo
-- Skutek: panika wśród słuchaczy, którzy uwierzyli w prawdziwość inwazji
-- Historyczne znaczenie jako pierwsza "fake news" w mass mediach
+- Direction and narration: Orson Welles
+- Format: Live news simulation
+- Effect: Panic among listeners who believed the invasion was real
+- Historical significance as the first "fake news" in mass media
 
-### Inne znaczące adaptacje
+### Other Notable Adaptations
 
-**4. "Wojna światów" (2025) z Ice Cube**
-- Platforma: Amazon Prime Video
-- Premiera: 30 lipca 2025
-- Format: cały film odtwarzany na ekranie komputera
-- Komunikacja: WhatsApp i Teams
-- Rotten Tomatoes: 0% aprobaty
-- Fenomen memów na TikToku (5,2 miliona postów)
+**4. "War of the Worlds" (2025) with Ice Cube**
+- Platform: Amazon Prime Video
+- Release: July 30, 2025
+- Format: Entire film played on computer screen
+- Communication: WhatsApp and Teams
+- Rotten Tomatoes: 0% approval
+- TikTok meme phenomenon (5.2 million posts)
 - Viral marketing through failure
 
-**5. Seriale telewizyjne**
-- "Wojna światów" (1988-1990) - sequel do filmu z 1953
-- "War of the Worlds" (2019-2022) - współczesna interpretacja BBC/EPIX
-- Liczne adaptacje międzynarodowe
+**5. Television Series**
+- "War of the Worlds" (1988-1990) - sequel to the 1953 film
+- "War of the Worlds" (2019-2022) - contemporary BBC/EPIX interpretation
+- Numerous international adaptations
 
-## Wpływ na twórców i innych artystów
+## Influence on Creators and Other Artists
 
-### Autorzy science fiction inspirowani Wellsem
+### Science Fiction Authors Inspired by Wells
 
-**Złoty Wiek Science Fiction (lata 1930-1940)**
-- **Isaac Asimov**: tworzył opowiadania o inwazji obcych
-- **Arthur C. Clarke**: rozwinął tematy pierwszego kontaktu
-- **Robert A. Heinlein**: eksplorował militarne aspekty inwazji
+**Golden Age of Science Fiction (1930s-1940s)**
+- **Isaac Asimov**: Created stories about alien invasions
+- **Arthur C. Clarke**: Developed first contact themes
+- **Robert A. Heinlein**: Explored military aspects of invasion
 
-### Reżyserzy filmowi
+### Film Directors
 
 **1. Tim Burton - "Mars Attacks!" (1996)**
-- Parodia filmów o inwazji z lat 50.
-- Nawiązanie do filmu z 1953 roku
-- Muzyka country jako broń przeciwko obcym (nawiązanie do motywu "przyziemnej" obrony)
+- Parody of 1950s invasion films
+- Reference to the 1953 film
+- Country music as weapon against aliens (reference to "mundane" defense motif)
 
 **2. Roland Emmerich - "Independence Day" (1996)**
-- Bezpośrednie nawiązania do wzorców Wellsa
-- Obcy pokonani przez wirus komputerowy (współczesna wersja bakterii)
-- Will Smith w głównej roli
+- Direct references to Wells' patterns
+- Aliens defeated by computer virus (modern version of bacteria)
+- Will Smith in leading role
 
 **3. Neill Blomkamp - "District 9" (2009)**
-- Odwrócenie narracji: obcy jako uchodźcy
-- Krytyka imperializmu (nawiązanie do pierwotnych intencji Wellsa)
+- Narrative reversal: aliens as refugees
+- Critique of imperialism (reference to Wells' original intentions)
 
-### Muzycy i kompozytorzy
+### Musicians and Composers
 
 **Jeff Wayne's Musical Version (1978)**
-- **Richard Burton** jako narrator
-- **Phil Lynott** (Thin Lizzy) jako pastor Nathaniel
-- **Justin Hayward** (Moody Blues) jako myśli dziennikarza
-- **David Essex** jako artylerzysta
-- 15 milionów sprzedanych egzemplarzy na świecie
-- 9x platyna w Wielkiej Brytanii
+- **Richard Burton** as narrator
+- **Phil Lynott** (Thin Lizzy) as Parson Nathaniel
+- **Justin Hayward** (Moody Blues) as the journalist's thoughts
+- **David Essex** as the artilleryman
+- 15 million copies sold worldwide
+- 9x platinum in the United Kingdom
 
 **Arena Tour (2006-2012)**
-- Sold-out areny w całej Wielkiej Brytanii
-- Holograficzna głowa Richarda Burtona jako narrator
-- "The New Generation" (2012) z **Liam Neeson** i **Gary Barlow**
+- Sold-out arenas throughout the United Kingdom
+- Holographic head of Richard Burton as narrator
+- "The New Generation" (2012) with **Liam Neeson** and **Gary Barlow**
 
-## Fenomen społeczny i wpływ na kulturę
+## Social Phenomenon and Cultural Impact
 
-### Panika z 1938 roku - lekcje dla współczesnych
+### The 1938 Panic - Lessons for Today
 
 **Fake News avant la lettre**
-- Pierwsza udokumentowana "fake news" w historii mass mediów
-- Badania PEW (2016): 24% Amerykanów świadomie udostępniało fałszywe informacje
-- Paralelki z Holocaustem denial, Sandy Hook disinformation
-- Dorothy Thompson ostrzegała przed podatnością na propagandę faszystowską
+- First documented "fake news" in mass media history
+- PEW Research (2016): 24% of Americans knowingly shared false information
+- Parallels with Holocaust denial, Sandy Hook disinformation
+- Dorothy Thompson warned about susceptibility to fascist propaganda
 
 **Media Literacy**
-- Znaczenie krytycznego myślenia wobec mediów
-- Podatność publiczności na dezinformację w czasach niepewności
-- Hooper ratings: tylko 2% słuchaczy słuchało audycji CBS podczas transmisji
+- Importance of critical thinking about media
+- Public susceptibility to disinformation in times of uncertainty
+- Hooper ratings: only 2% of listeners were tuned to CBS during the broadcast
 
-### Polityczne i społeczne interpretacje
+### Political and Social Interpretations
 
-**Krytyka imperializmu**
-- Wells porównał inwazję Marsjan do ludobójstwa Aborygenów w Tasmanii (1820-1830)
-- Odwrócenie perspektywy: co gdyby Brytyjczycy stali się ofiarami?
-- Współczesne interpretacje postkolonialne
+**Critique of Imperialism**
+- Wells compared the Martian invasion to the genocide of Aborigines in Tasmania (1820-1830)
+- Reversed perspective: what if the British became victims?
+- Contemporary postcolonial interpretations
 
-**Post-9/11 anxieties**
-- Film Spielberga (2005) jako odzwierciedlenie lęków terrorystycznych
-- Paranoja miejska i poczucie bezradności
-- Chaos w komunikacji masowej
+**Post-9/11 Anxieties**
+- Spielberg's film (2005) as reflection of terrorist fears
+- Urban paranoia and sense of helplessness
+- Chaos in mass communication
 
-## Społeczności fanów i kultura fandom
+## Fan Communities and Fandom Culture
 
-### Organizacje fanów
+### Fan Organizations
 
 **War of the Worlds Fan Club**
-- Newsletter i działania roleplayowe
-- Darmowe członkostwo dla maksymalnie dwóch postaci
-- Misje roleplayowe (ludzkie lub obce postacie)
+- Newsletter and roleplay activities
+- Free membership for up to two characters
+- Roleplay missions (human or alien characters)
 
-### Internetowe społeczności
+### Online Communities
 
 **DeviantArt**
-- Galeria "The War of the Worlds" z fan artem
-- Artyści jak axelrogue tworzący interpretacje wizualne
-- Aktywna społeczność twórców
+- "The War of the Worlds" gallery with fan art
+- Artists like axelrogue creating visual interpretations
+- Active creator community
 
-**Fora i platformy społecznościowe**
-- Reddit, Twitter, Instagram - globalne społeczności
-- Hashtagi i fanpages
-- TikTok memes (szczególnie po filmie z 2025)
+**Forums and Social Media Platforms**
+- Reddit, Twitter, Instagram - global communities
+- Hashtags and fan pages
+- TikTok memes (especially after the 2025 film)
 
-### Cosplay i konwenty
+### Cosplay and Conventions
 
-- Kostiumy Marsjan na konwentach science fiction
-- Tripod repliki na Comic-Con
-- H.G. Wells cosplay na konwentach literackich
+- Martian costumes at science fiction conventions
+- Tripod replicas at Comic-Con
+- H.G. Wells cosplay at literary conventions
 
-## Merchandise i komercjalizacja
+## Merchandise and Commercialization
 
-### Gry planszowe i wideo
+### Board Games and Video Games
 
-**Gry planszowe**
+**Board Games**
 - "War of the Worlds: US East Coast" (solitaire)
-- "War of the Worlds: France" (solitaire) 
+- "War of the Worlds: France" (solitaire)
 - "War of the Worlds: England" (solitaire)
 - "War of the Worlds: The New Wave" (2-player deck-building)
-- Noble Knight Games - miniatury od Larson Designs
+- Noble Knight Games - miniatures by Larson Designs
 
-**Gry wideo**
+**Video Games**
 - "War of the Worlds" (Steam) - hardcore survival horror
-- Liczne adaptacje i nawiązania w grach strategicznych
+- Numerous adaptations and references in strategy games
 
-### Produkty kolekcjonerskie
+### Collectible Products
 
-**Figurki i modele**
-- Tripod miniatures w różnych skalach
-- Collectible figures z filmów
-- Repliki cylindrów marsjoskich
+**Figures and Models**
+- Tripod miniatures in various scales
+- Collectible figures from films
+- Replicas of Martian cylinders
 
-**Wydania kolekcjonerskie**
-- 18-disc box set Jeff Wayne's Musical Version
-- Madfish Special Editions z dodatkowymi materiałami
-- Limitowane wydania winylowe
+**Collector's Editions**
+- 18-disc box set of Jeff Wayne's Musical Version
+- Madfish Special Editions with additional materials
+- Limited vinyl releases
 
-## Miejsca związane z książką
+## Places Related to the Book
 
-### Woking, Surrey - miejsca akcji powieści
+### Woking, Surrey - Setting of the Novel
 
-**Pomnik Tripoda (1998)**
-- 7-metrowa chromowana stal nierdzewna
-- Projekt: Michael Condron  
-- Lokalizacja: Crown Square, Woking
-- Hasło: "Woking: where modern science fiction took off"
-- Cylindryczny pod i wzory bakterii na placu
+**Tripod Monument (1998)**
+- 7-meter chrome stainless steel
+- Design: Michael Condron
+- Location: Crown Square, Woking
+- Motto: "Woking: where modern science fiction took off"
+- Cylindrical pod and bacteria patterns on the square
 
-**Miejsca z powieści**
-- **Horsell Common**: miejsce pierwszego lądowania cylindra
-- **141 Maybury Road**: dom H.G. Wellsa (1895-1898)
-- **Sandpits**: możliwe miejsce lądowania Marsjan
-- Circular walking trail (3,5 mil, 2 godziny)
+**Novel Locations**
+- **Horsell Common**: site of the first cylinder landing
+- **141 Maybury Road**: H.G. Wells' house (1895-1898)
+- **Sandpits**: possible Martian landing site
+- Circular walking trail (3.5 miles, 2 hours)
 
-### Muzea i wystawy
+### Museums and Exhibitions
 
 **The Lightbox Gallery and Museum**
-- Stała wystawa "Woking's Story"
-- 8 głównych tematów lokalnej historii
-- Ingram Collection (600 dzieł sztuki współczesnej)
-- Joan Hurst Collection (17 współczesnych rzeźb)
+- Permanent exhibition "Woking's Story"
+- 8 main themes of local history
+- Ingram Collection (600 contemporary artworks)
+- Joan Hurst Collection (17 contemporary sculptures)
 
-## Nawiązania i cytaty w innych dziełach
+## References and Quotes in Other Works
 
-### Filmy parodiujące lub nawiązujące
+### Films that Parody or Reference
 
 **1. "Independence Day" (1996)**
-- Wirus komputerowy jako odpowiednik bakterii z powieści
-- Wzorce narracyjne bezpośrednio z Wellsa
-- Will Smith w roli podobnej do dziennikarza-narratora
+- Computer virus as equivalent of bacteria from the novel
+- Narrative patterns directly from Wells
+- Will Smith in role similar to journalist-narrator
 
 **2. "Mars Attacks!" (1996)**
-- Tim Burton parodia filmów lat 50.
-- Muzyka country niszczy obcych (absurdalna wersja "przyziemnej obrony")
-- Nawiązania wizualne do Tripodów
+- Tim Burton parody of 1950s films
+- Country music destroys aliens (absurd version of "mundane defense")
+- Visual references to Tripods
 
-**3. "Signs" (2002) - M. Night Shyamalan**  
-- Obcy pokonani przez wodę (kolejna "przyziemna" słabość)
-- Kontynuacja tropu Wells'a o mundane defeats
+**3. "Signs" (2002) - M. Night Shyamalan**
+- Aliens defeated by water (another "mundane" weakness)
+- Continuation of Wells' motif of mundane defeats
 
 **4. "A Quiet Place" (2018)**
-- Częstotliwość z implantów słuchowych jako broń
-- Współczesna wersja motywu Wells'a o technologicznych słabościach
+- Frequency from hearing implants as weapon
+- Modern version of Wells' motif of technological weaknesses
 
-### Seriale telewizyjne
+### Television Series
 
 **The Simpsons**
-- Parodia audycji radiowej Orsona Wellesa
-- Komisarz Wiggum: "Why don't I just punch you in the nose, bud"
-- Welles powtarza "Nosebud" (nawiązanie do "Rosebud" z "Citizen Kane")
+- Parody of Orson Welles' radio broadcast
+- Commissioner Wiggum: "Why don't I just punch you in the nose, bud"
+- Welles repeats "Nosebud" (reference to "Rosebud" from "Citizen Kane")
 
 **South Park**
-- Liczne nawiązania do tropu alien invasion
-- Wykorzystanie wzorców narracyjnych z Wellsa
+- Numerous references to alien invasion trope
+- Use of narrative patterns from Wells
 
-### Literatura
+### Literature
 
-**Współcześni autorzy SF**
-- Kim Stanley Robinson - sagi marsjańskie
-- Andy Weir - "Marsjanin" (odwrócenie perspektywy)
-- Liu Cixin - trylogia "Remembrance of Earth's Past"
+**Contemporary SF Authors**
+- Kim Stanley Robinson - Martian sagas
+- Andy Weir - "The Martian" (reversed perspective)
+- Liu Cixin - "Remembrance of Earth's Past" trilogy
 
-## Tropes i motywy kulturowe
+## Tropes and Cultural Motifs
 
 ### Alien Invasion Tropes (TV Tropes)
 
-**Wells jako Trope Maker**
-- Pierwszy autor opisujący konflikt ludzkości z pozaziemską rasą
-- Tripod Terror - charakterystyczne trzynożne maszyny
-- Establishmente wzorców dla całego gatunku
+**Wells as Trope Maker**
+- First author to describe humanity's conflict with extraterrestrial race
+- Tripod Terror - characteristic three-legged machines
+- Established patterns for the entire genre
 
 ### Mundane Defeat Pattern
 
-**Klasyczne przykłady**
-- Bakterie (oryginał Wells)  
-- Wirus komputerowy (Independence Day)
-- Woda (Signs)
-- Muzyka country (Mars Attacks!)
-- Częstotliwość dźwięku (A Quiet Place)
+**Classic Examples**
+- Bacteria (Wells' original)
+- Computer virus (Independence Day)
+- Water (Signs)
+- Country music (Mars Attacks!)
+- Sound frequency (A Quiet Place)
 
-**Współczesne wariacje**
-- Media społecznościowe jako broń
-- Memes jako forma oporu kulturowego
+**Contemporary Variations**
+- Social media as weapon
+- Memes as form of cultural resistance
 - Viral content defeating aliens
 
-## Współczesne memy i kultura internetowa
+## Contemporary Memes and Internet Culture
 
-### TikTok phenomenon (2025)
+### TikTok Phenomenon (2025)
 
-**Film Ice Cube (2025)**
-- 5,2 miliona postów z hashtagiem #WarOfTheWorldsMemes
+**Ice Cube Film (2025)**
+- 5.2 million posts with hashtag #WarOfTheWorldsMemes
 - "Ice Cube shows emotion only when Facebook gets deleted"
-- @cuss_creep_llc viral review jako "najgorszy film SF"
-- Found footage approach skrytykowany przez @PoorOldRoloTony
+- @cuss_creep_llc viral review as "worst SF film"
+- Found footage approach criticized by @PoorOldRoloTony
 
 ### Social Media Impact
 
-**Format memes**
-- Desktop screen całego filmu
-- WhatsApp i Teams jako komunikacja
+**Format Memes**
+- Desktop screen of entire film
+- WhatsApp and Teams as communication
 - "Surveillance bad because attracts alien invasion"
 - Unintentional comedy as viral marketing
 
 ### Modern Relevance
 
-**Parallel with current events**
-- Mass surveillance anxieties  
+**Parallel with Current Events**
+- Mass surveillance anxieties
 - Social media dependency
 - Digital communication replacing human contact
 - Data privacy concerns
 
-## Znaczenie edukacyjne i naukowe
+## Educational and Scientific Significance
 
-### Wpływ na naukowców
+### Influence on Scientists
 
 **Robert H. Goddard**
-- Przeczytał książkę w wieku 17 lat
-- Zainspirowany do studiowania fizyki
-- Pionier astronautyki i rakiet
-- Bezpośredni wpływ na rozwój przestrzeni kosmicznej
+- Read the book at age 17
+- Inspired to study physics
+- Pioneer of astronautics and rockets
+- Direct impact on space exploration development
 
 ### Academic Studies
 
 **Media Studies**
-- Analiza propagandy i fake news
-- Historia komunikacji masowej
-- Pierwsze studia nad wpływem radia na społeczeństwo
+- Analysis of propaganda and fake news
+- History of mass communication
+- First studies on radio's impact on society
 
-**Literature Studies**  
+**Literature Studies**
 - Postcolonial criticism
-- Science fiction jako komentarz społeczny
-- Gothic traditions w literaturze fantastycznej
+- Science fiction as social commentary
+- Gothic traditions in fantastic literature
 
-## Wpływ na technologie i science
+## Impact on Technology and Science
 
 ### Aerospace Industry
 
-**NASA i agencje kosmiczne**
-- Inspiracja dla misji marsjańskich
-- SETI program - poszukiwanie życia pozaziemskiego
-- Mars rovers nawiązujące nazwami do klasyki SF
+**NASA and Space Agencies**
+- Inspiration for Mars missions
+- SETI program - search for extraterrestrial life
+- Mars rovers with names referencing SF classics
 
 ### Popular Science
 
-**Astronomy popularization**
-- Carl Sagan i Cosmos nawiązania
+**Astronomy Popularization**
+- Carl Sagan and Cosmos references
 - Neil deGrasse Tyson references
-- Planetaria wykorzystujące motywy inwazji
+- Planetariums using invasion motifs
 
-## Międzynarodowy wpływ
+## International Impact
 
-### Adaptacje w różnych krajach
+### Adaptations in Different Countries
 
-**Wielka Brytania**
+**United Kingdom**
 - BBC productions (1988, 2019)
 - Jeff Wayne's Musical tours
-- Literary heritage sites w Surrey
+- Literary heritage sites in Surrey
 
-**Stany Zjednoczone**
+**United States**
 - Hollywood blockbusters
 - Radio drama reruns
 - Comic book adaptations
 
-**Inne kraje**
-- Japońskie manga adaptations  
-- Europejskie filmy independentne
-- Rosyjskie interpretacje science fiction
+**Other Countries**
+- Japanese manga adaptations
+- European independent films
+- Russian science fiction interpretations
 
-## Kontrowersje i debaty
+## Controversies and Debates
 
 ### Historical Debates
 
-**Skala paniki z 1938**
-- Mit vs rzeczywistość histeryji masowej
+**Scale of 1938 Panic**
+- Myth vs reality of mass hysteria
 - A. Brad Schwartz research: panic was minimal
 - Media amplification of actual events
 - Lessons for modern fake news
 
 ### Cultural Appropriation
 
-**Imperial themes**
+**Imperial Themes**
 - Wells' original anti-imperial message
-- Modern militaristic interpretations  
+- Modern militaristic interpretations
 - Debate over violence vs pacifist readings
 
 ### Scientific Accuracy
 
-**Martian life possibilities**
+**Martian Life Possibilities**
 - 1898 astronomical knowledge vs current
 - Impact on real Mars exploration
 - Scientific literacy through fiction
 
-## Przyszłość dziedzictwa
+## Future of the Legacy
 
 ### Upcoming Projects
 
-**Mars missions influence**
+**Mars Missions Influence**
 - SpaceX Mars colonization plans
 - Cultural references in space exploration
 - Influence on space policy discussions
 
 ### New Media Adaptations
 
-**VR/AR possibilities**
+**VR/AR Possibilities**
 - Immersive War of the Worlds experiences
 - Gaming industry innovations
 - Interactive storytelling formats
 
 ### Climate Change Parallels
 
-**Environmental readings**
+**Environmental Readings**
 - Planetary destruction themes
 - Human vulnerability messages
 - Ecological collapse warnings
 
-## Podsumowanie
+## Summary
 
-"Wojna światów" H.G. Wellsa pozostaje jednym z najbardziej wpływowych dzieł w historii kultury popularnej. Przez ponad 125 lat książka ta:
+H.G. Wells' "The War of the Worlds" remains one of the most influential works in popular culture history. For over 125 years, this book has:
 
-1. **Ukształtowała cały gatunek science fiction** - od Złotego Wieku SF po współczesne blockbustery
-2. **Stworzyła wzorzec narracyjny** alien invasion, wykorzystywany do dziś
-3. **Zapoczątkowała dyskusję o fake news** dzięki audycji Wellesa z 1938 roku
-4. **Inspirowała pokoleń twórców** - od Isaaca Asimova po Stevena Spielberga  
-5. **Stała się fenomenem transmedialnym** - książka, radio, film, teatr, muzyka, gry
-6. **Pozostaje społecznie relevantna** - komentarz do imperializmu, terroryzmu, dezinformacji
-7. **Wywiera wpływ edukacyjny** - inspiracja dla naukowców jak Robert Goddard
-8. **Tworzy aktywne społeczności fanów** - od tradycyjnych klubów po TikTok memes
+1. **Shaped the entire science fiction genre** - from the Golden Age of SF to contemporary blockbusters
+2. **Created the narrative template** for alien invasion, still used today
+3. **Initiated the discussion about fake news** through Welles' 1938 broadcast
+4. **Inspired generations of creators** - from Isaac Asimov to Steven Spielberg
+5. **Become a transmedia phenomenon** - book, radio, film, theater, music, games
+6. **Remained socially relevant** - commentary on imperialism, terrorism, disinformation
+7. **Exerted educational influence** - inspiration for scientists like Robert Goddard
+8. **Created active fan communities** - from traditional clubs to TikTok memes
 
-Dziedzictwo "Wojny światów" wykracza daleko poza literaturę. To dzieło, które nie tylko rozbawiło czytelników, ale dosłownie zmieniło sposób, w jaki myślimy o kontakcie z obcymi, roli technologii w społeczeństwie i sile mediów w kształtowaniu rzeczywistości. W erze social mediów, fake news i globalnych lęków książka Wellsa pozostaje bardziej aktualna niż kiedykolwiek.
+The legacy of "The War of the Worlds" extends far beyond literature. It is a work that not only entertained readers but literally changed the way we think about contact with aliens, the role of technology in society, and the power of media in shaping reality. In the era of social media, fake news, and global fears, Wells' book remains more relevant than ever.
 
 ---
 
-**Źródła**: Badania internetowe przeprowadzone 31 sierpnia 2025, obejmujące analizę adaptacji filmowych, muzeów, społeczności fanów, academic studies, oraz współczesnych memów i kultur internetowych.
+**Sources**: Internet research conducted August 31, 2025, including analysis of film adaptations, museums, fan communities, academic studies, and contemporary memes and internet cultures.

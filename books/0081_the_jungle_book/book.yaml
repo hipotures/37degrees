@@ -4,3 +4,174 @@ book_info:
   author: "Rudyard Kipling"
   year: 1894
   genre: "Short stories,Children"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T20:45:30"
+
+  scores:
+    controversy: 9.0
+    philosophical_depth: 8.0
+    cultural_phenomenon: 9.0
+    contemporary_reception: 5.0
+    relevance: 8.0
+    innovation: 8.0
+    structural_complexity: 6.0
+    social_roles: 7.0
+    total: 60.0
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Kipling described as colonialist, chauvinist, racist, anti-Semite, misogynist, right-wing imperialist warmonger"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Fire as 'Red Flower' represents human power and colonial force, while Mowgli dominates animals as allegory of British dominance over colonized peoples"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Over 75 distinct adaptations including films, TV series, theater, opera, influencing Scout movement and contemporary fantasy genre"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Mowgli becomes metaphor for Gen Z digital alienation, feeling between online/offline worlds, with #feral aesthetic trending"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Universal themes of belonging dilemma, mentorship paradox, and strength vs force distinction remain relevant after 130 years"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "40 revolutionary techniques including indirect exposition, psychological anthropomorphism, creating modern animal fantasy template"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Written in Vermont not India, inspired by ancient Panchatantra and Jataka tales, reflecting author's own abandonment trauma"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "High risk content for social media due to colonial context, racism, author's addictions, requiring careful educational framing"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "First English-language Nobel Prize winner (1907), analyzed through postcolonial lens in universities, Disney adaptations dominate popular culture"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Squid Ink Classics with MLA citations"]
+        reception_notes: "Complex relationship between literary merit and ideological content, academic criticism vs popular culture embrace"
+        educational_status: "University curricula in postcolonial studies, imperial literature courses, children's literature studies"
+        local_themes: ["Imperial nostalgia", "Postcolonial critique", "Scout movement influence", "Disney cultural hegemony"]
+      pl:
+        cultural_impact: "Over 120 years of Polish literary tradition with multiple acclaimed translations, especially Józef Birkenmajer's 1931 edition"
+        key_editions: ["Józef Birkenmajer translation (1931)", "Franciszek Mirandola edition (1922)", "Wolne Lektury digital"]
+        reception_notes: "School reading for grades 4-6, emphasis on tolerance and anti-stereotyping, VHS generation childhood memories"
+        educational_status: "Required reading in elementary schools with special teaching materials and exam preparations"
+        local_themes: ["Educational tolerance values", "Nature vs civilization", "Disney dubbing nostalgia", "Solidarity principles"]
+      de:
+        cultural_impact: "Rich translation tradition since 1898, innovative opera and theater adaptations including Giovanni Sollima's opera in Lübeck"
+        key_editions: ["Reclam Universal-Bibliothek", "Haffmans Verlag", "Suhrkamp bilingual editions"]
+        reception_notes: "Robert Wilson and CocoRosie collaborations, family concert versions at Staatsoper Stuttgart"
+        educational_status: "Academic study with scholarly afterwords by Dieter Hamblock"
+        local_themes: ["Musical theater innovation", "Philosophical depth analysis", "Cross-cultural adaptation"]
+      fr:
+        cultural_impact: "French literary tradition analysis focusing on colonial themes and symbolic interpretations"
+        key_editions: ["Classic French translations", "Academic critical editions"]
+        reception_notes: "Postcolonial analysis predominant in French academic circles"
+        educational_status: "Literature and colonial studies programs"
+        local_themes: ["Colonial criticism", "Symbolic analysis", "Cultural translation"]
+      es:
+        cultural_impact: "Spanish-speaking world adaptations emphasizing universal themes over colonial context"
+        key_editions: ["Traditional Spanish translations", "Latin American editions"]
+        reception_notes: "Focus on adventure and moral lessons rather than political themes"
+        educational_status: "Children's literature and adventure story classification"
+        local_themes: ["Adventure narratives", "Moral education", "Universal values"]
+      pt:
+        cultural_impact: "Portuguese reception emphasizing environmental and ethical themes"
+        key_editions: ["Brazilian and Portuguese translations"]
+        reception_notes: "Environmental consciousness and nature protection themes highlighted"
+        educational_status: "Ecological literature studies"
+        local_themes: ["Environmental ethics", "Nature protection", "Cultural adaptation"]
+      ja:
+        cultural_impact: "Japanese anime tradition with 1989 Nippon Animation series, 52 episodes popular in India after Hindi dubbing"
+        key_editions: ["Japanese manga adaptations", "Anime series editions"]
+        reception_notes: "Visual storytelling tradition with anime interpretation"
+        educational_status: "Media studies and animation programs"
+        local_themes: ["Anime cultural adaptation", "Visual narrative", "Cross-cultural storytelling"]
+      ko:
+        cultural_impact: "Korean reception focusing on coming-of-age and identity themes relevant to contemporary youth"
+        key_editions: ["Korean translations with cultural context"]
+        reception_notes: "Youth identity struggles and belonging themes emphasized"
+        educational_status: "Youth literature and psychology programs"
+        local_themes: ["Identity formation", "Cultural belonging", "Youth alienation"]
+      hi:
+        cultural_impact: "Indian reception complicated by colonial legacy, but appreciation for narrative innovation and animal characters"
+        key_editions: ["Hindi translations and adaptations"]
+        reception_notes: "Mixed reception due to colonial representations but narrative craft appreciated"
+        educational_status: "Postcolonial literature studies with critical context"
+        local_themes: ["Colonial legacy", "Narrative craft", "Cultural representation debates"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking probing questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The mystery of writing The Jungle Book in Vermont snow while depicting Indian jungle never visited"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Kipling's traumatic childhood abandonment and how it shaped Mowgli's story of belonging"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the 40 revolutionary writing techniques and literary innovations hidden in children's stories"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "complications"
+          lead: "host_b"
+          description: "The dark truth about author's racism, addictions, and son's tragic death versus literary genius"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "How innocent animal tales became cultural phenomenon while hiding imperial propaganda"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter uncovering the hidden layers of 'The Jungle Book'. Ask probing questions about how Kipling wrote Indian jungle stories from Vermont snow, the 40 literary innovations disguised as children's tales, and the dark controversies surrounding this beloved classic."
+        host_b: "You are {female_name}, an eyewitness to the story's creation and impact. Describe the emotional journey from Kipling's childhood abandonment trauma to Mowgli's belonging struggles, the revolutionary writing techniques, and how these 'simple' animal stories changed literature forever."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["historical racism and colonialism", "author's personal struggles with addiction", "imperial ideology discussion"]
+    educational_elements: ["Short story genre characteristics", "Historical context of 1894 British imperialism", "Literary symbolism and allegory", "Narrative innovation techniques", "Postcolonial literary criticism"]
+    production_notes:
+      intro_style: "investigative mystery opening with documentary-style facts"
+      transitions: "subtle investigative music bridges with discovery themes"
+      outro_style: "reflective conclusion about separating literary merit from problematic ideology"
+
+  overall_confidence: 0.88

@@ -1,179 +1,179 @@
-# Historia powstania "Frankenstein" Mary Shelley (1818)
+# History of "Frankenstein" by Mary Shelley (1818)
 
-## Okoliczności powstania dzieła
+## Circumstances of Creation
 
-### **FAKT**: Lato 1816 - "Rok bez lata"
-Mary Shelley napisała "Frankenstein" podczas słynnego "roku bez lata" 1816, kiedy erupcja wulkanu Tambora w Indonezji wypełniła atmosferę popiołem, powodując temperatury poniżej zera w maju w Nowym Jorku i ogromne niedobory żywności na całej północnej półkuli.
+### **FACT**: Summer 1816 - "The Year Without a Summer"
+Mary Shelley wrote "Frankenstein" during the infamous "year without a summer" of 1816, when the eruption of Mount Tambora in Indonesia filled the atmosphere with ash, causing below-freezing temperatures in New York in May and massive food shortages throughout the northern hemisphere.
 
-### **FAKT**: Villa Diodati - miejsce narodzin horroru
-Książka powstała w Villa Diodati koło Jeziora Genewskiego w Szwajcarii, wynajętej przez Lorda Byrona od 10 czerwca do 1 listopada 1816. Mary (wtedy jeszcze Mary Godwin), Percy Shelley, Claire Clairmont i dr John Polidori spędzali tam czas z powodu ciągłych deszczy.
+### **FACT**: Villa Diodati - Birthplace of Horror
+The book was created at Villa Diodati near Lake Geneva in Switzerland, rented by Lord Byron from June 10 to November 1, 1816. Mary (then still Mary Godwin), Percy Shelley, Claire Clairmont, and Dr. John Polidori spent time there due to constant rains.
 
-### **FAKT**: Konkurs na opowieść z duchami
-Jednej nocy Lord Byron zaproponował konkurs na najlepszą opowieść z duchami, inspirowany zbiorem niemieckich historii grozy "Fantasmagoriana". Mary była najmłodsza - miała zaledwie 18 lat.
+### **FACT**: Ghost Story Contest
+One night Lord Byron proposed a contest for the best ghost story, inspired by a collection of German horror stories "Fantasmagoriana". Mary was the youngest - only 18 years old.
 
-### **FAKT**: Konkretna data "wizji"
-Według analiz astronoma Donalda Olsona z 2011 roku, sen na jawie Mary Shelley, który zainspirował Frankensteina, miał miejsce "między 2:00 a 3:00 rano" 16 czerwca 1816, kilka dni po propozycji Byrona.
+### **FACT**: Specific Date of the "Vision"
+According to analysis by astronomer Donald Olson from 2011, Mary Shelley's waking dream that inspired Frankenstein took place "between 2:00 and 3:00 AM" on June 16, 1816, several days after Byron's proposal.
 
-### **FAKT**: Pierwotna wizja autorki
-Mary opisała swoją wizję: "Ujrzałam bladego studenta nieświętych sztuk klęczącego obok rzeczy, którą złożył w całość. Zobaczyłam przerażającą postać człowieka rozciągniętą, a potem, pod wpływem potężnej maszyny, ożywiającą się i poruszającą niezgrabnie, półżywotnie."
+### **FACT**: Author's Original Vision
+Mary described her vision: "I saw the pale student of unhallowed arts kneeling beside the thing he had put together. I saw the hideous phantasm of a man stretched out, and then, on the working of some powerful engine, show signs of life and stir with an uneasy, half-vital motion."
 
-## Proces twórczy i inspiracje
+## Creative Process and Inspirations
 
-### **FAKT**: Rozmowy o galwanizmie jako inspiracja
-Mary słuchała rozmów między Shelleyem a Byronem o galwanizmie i możliwościach reanimacji zwłok. To te dyskusje bezpośrednio zainspirowały jej wizję naukowca ożywiającego martwą materię.
+### **FACT**: Galvanism Conversations as Inspiration
+Mary listened to conversations between Shelley and Byron about galvanism and possibilities of reanimating corpses. These discussions directly inspired her vision of a scientist bringing dead matter to life.
 
-### **FAKT**: Luigi Galvani - prawdziwy "dr Frankenstein"
-W 1786 roku włoski fizyk Luigi Galvani odkrył, że martwe żaby zaczęły drgać pod wpływem iskry elektrycznej. Jego eksperymenty z "elektrycznością zwierzęcą" były dobrze znane w kręgach, w których obracała się Mary.
+### **FACT**: Luigi Galvani - The Real "Dr. Frankenstein"
+In 1786, Italian physicist Luigi Galvani discovered that dead frogs began to twitch under the influence of electrical sparks. His experiments with "animal electricity" were well known in the circles where Mary moved.
 
-### **FAKT**: Giovanni Aldini - spektakularne eksperymenty
-Siostrzeniec Galvaniego, Giovanni Aldini, przeprowadzał w całej Europie dramatyczne eksperymenty z prądem elektrycznym na zwłokach ludzi. Jego najsłynniejszy eksperyment miał miejsce w 1803 roku w Royal College of Surgeons w Londynie na ciele powieszanego mordercy George'a Fostera.
+### **FACT**: Giovanni Aldini - Spectacular Experiments
+Galvani's nephew, Giovanni Aldini, conducted dramatic experiments with electric current on human corpses throughout Europe. His most famous experiment took place in 1803 at the Royal College of Surgeons in London on the body of hanged murderer George Foster.
 
-### **FAKT**: Bezpośredni wpływ na tekst
-W przedmowie do wydania z 1831 roku Mary Shelley bezpośrednio wspomina o galwanizmie: "Być może zwłoki mogłyby zostać reanimowane; galwanizm dawał sygnały takich rzeczy."
+### **FACT**: Direct Impact on Text
+In the preface to the 1831 edition, Mary Shelley directly mentions galvanism: "Perhaps a corpse would be reanimated; galvanism had given token of such things."
 
-## Kontekst biograficzny autorki
+## Author's Biographical Context
 
-### **FAKT**: Śmierć matki przy porodzie
-Mary Wollstonecraft, matka Mary Shelley, zmarła 11 dni po jej urodzeniu na gorączkę porodową - częstą przyczynę śmierci w tym okresie z powodu nieznajomości bakterii przez medycynę.
+### **FACT**: Mother's Death in Childbirth
+Mary Wollstonecraft, Mary Shelley's mother, died 11 days after her birth from puerperal fever - a common cause of death in that period due to medicine's ignorance of bacteria.
 
-### **FAKT**: Wpływ traumy na treść książki
-Feministyczne interpretacje sugerują, że "Frankenstein" to "historia grozy macierzyństwa", odzwierciedlająca lęki Mary przed ciążą i porodem: "Czy to może mnie zabić (jak zabiłam moją matkę)?"
+### **FACT**: Trauma's Impact on Book Content
+Feminist interpretations suggest that "Frankenstein" is a "maternal horror story," reflecting Mary's fears about pregnancy and childbirth: "Will this kill me (as I killed my mother)?"
 
-### **FAKT**: Ciągłe ciąże i straty
-Gdy 18-letnia Mary pisała "Frankensteina", była "ciąża w wieku szesnastu lat i niemal ciągle ciężarna przez następne pięć lat; ale nie była bezpieczną matką, gdyż straciła większość swoich dzieci wkrótce po urodzeniu."
+### **FACT**: Continuous Pregnancies and Losses
+When 18-year-old Mary wrote "Frankenstein," she was "pregnant at sixteen and almost continuously pregnant for the next five years; but she was not a safe mother, having lost most of her children shortly after birth."
 
-### **FAKT**: Rodzina intelektualistów
-Mary wychowała się w domu Williama Godwina, filozofa politycznego i pisarza, który zapewnił jej bogate nieformalne wykształcenie, zachęcając do przestrzegania jego anarchistycznych teorii politycznych.
+### **FACT**: Family of Intellectuals
+Mary grew up in the home of William Godwin, political philosopher and writer, who provided her with rich informal education, encouraging her to follow his anarchist political theories.
 
-### **FAKT**: Trudne relacje z macochą
-Gdy Mary miała cztery lata, jej ojciec poślubił sąsiadkę Mary Jane Clairmont. Napięcie między Mary a macochą było tak silne, że w wieku trzynastu lat Mary cierpiała na psychosomatyczne wrzody skórne.
+### **FACT**: Difficult Relations with Stepmother
+When Mary was four, her father married neighbor Mary Jane Clairmont. The tension between Mary and her stepmother was so strong that at age thirteen, Mary suffered from psychosomatic skin ulcers.
 
-## Historia publikacji
+## Publication History
 
-### **FAKT**: Pierwsze odrzucenie przez Olliera
-3 sierpnia 1817 roku Percy Shelley napisał do wydawcy Charlesa Olliera, prosząc o publikację "Frankensteina". Ollier odrzucił manuskrypt już po trzech dniach - 6 sierpnia Percy dodał dopisek do listu Mary: "Biedna książka Mary wróciła z odmową, co mnie raczej... zepsuło humor."
+### **FACT**: First Rejection by Ollier
+On August 3, 1817, Percy Shelley wrote to publisher Charles Ollier, requesting publication of "Frankenstein." Ollier rejected the manuscript after just three days - on August 6, Percy added a postscript to Mary's letter: "Poor Mary's book came back with a refusal, which rather... put me out of humor."
 
-### **FAKT**: Odrzucenie przez wydawcę Byrona
-Manuskrypt został odrzucony nie tylko przez wydawcę Percy'ego Shelleya, ale także przez wydawcę Lorda Byrona, Johna Murraya.
+### **FACT**: Rejection by Byron's Publisher
+The manuscript was rejected not only by Percy Shelley's publisher but also by Lord Byron's publisher, John Murray.
 
-### **FAKT**: Akceptacja przez Lackington
-24 sierpnia Mary zapisała w dzienniku: "List od Lackingtona". Wydawnictwo Lackington było zainteresowane powieścią, ponieważ publikowało książki o okultizmie i alchemii, uważając, że "Frankenstein" wpasuje się w ich katalog.
+### **FACT**: Acceptance by Lackington
+On August 24, Mary wrote in her diary: "Letter from Lackington." Lackington publishing house was interested in the novel because it published books on occultism and alchemy, believing "Frankenstein" would fit their catalog.
 
-### **FAKT**: Pierwsze wydanie anonimowe
-"Frankenstein; or, The Modern Prometheus" został opublikowany anonimowo 1 stycznia 1818 roku przez małe londyńskie wydawnictwo Lackington, Hughes, Harding, Mavor & Jones w nakładzie zaledwie 500 egzemplarzy w trzech tomach.
+### **FACT**: First Anonymous Edition
+"Frankenstein; or, The Modern Prometheus" was published anonymously on January 1, 1818, by the small London publishing house Lackington, Hughes, Harding, Mavor & Jones in a print run of only 500 copies in three volumes.
 
-### **FAKT**: Percy jako "agent"
-Percy Shelley działał jako agent Mary, ale w korespondencji z wydawcą zaprzeczał jakiejkolwiek roli w pisaniu książki, mówiąc, że manuskrypt został "powierzony jego opiece przez przyjaciela".
+### **FACT**: Percy as "Agent"
+Percy Shelley acted as Mary's agent, but in correspondence with the publisher denied any role in writing the book, saying the manuscript was "entrusted to his care by a friend."
 
-### **FAKT**: Pierwsze uznanie autorstwa
-Mary Shelley została po raz pierwszy wymieniona z imienia i nazwiska w francuskim tłumaczeniu z 1821 roku pt. "Frankenstein, ou le Prométhée moderne", przypisanym "M.me Shelly [sic]".
+### **FACT**: First Recognition of Authorship
+Mary Shelley was first mentioned by name in the French translation of 1821 titled "Frankenstein, ou le Prométhée moderne," attributed to "M.me Shelly [sic]."
 
-## Współpraca z Percym Shelleyem
+## Collaboration with Percy Shelley
 
-### **FAKT**: Kontrowersje wokół autorstwa
-Wkład Percy'ego w 72 000-słowną powieść jest szacowany na około 3000-5000 słów, głównie poprawek technicznych i wyjaśnień narracyjnych.
+### **FACT**: Authorship Controversies
+Percy's contribution to the 72,000-word novel is estimated at about 3,000-5,000 words, mainly technical corrections and narrative clarifications.
 
-### **FAKT**: Podobne pismo ręczne
-Pismo ręczne Mary i Percy'ego było tak podobne, że nie zawsze można rozróżnić, co Percy napisał na marginesach, a co Mary sama zredagowała.
+### **FACT**: Similar Handwriting
+Mary and Percy's handwriting was so similar that it's not always possible to distinguish what Percy wrote in the margins from what Mary edited herself.
 
-### **FAKT**: Różne opinie naukowców
-James Rieger uważał Percy'ego za "redaktora lub niewielkiego współautora", podczas gdy Anne K. Mellor twierdziła, że Percy tylko "dokonał wielu poprawek technicznych". Charles E. Robinson konkludował, że wkład Percy'ego "był nie większy niż to, co większość redaktorów wydawców zapewnia nowym autorom."
+### **FACT**: Different Scholarly Opinions
+James Rieger considered Percy an "editor or minor co-author," while Anne K. Mellor claimed Percy only "made many technical corrections." Charles E. Robinson concluded that Percy's contribution "was no greater than what most publishing editors provide to new authors."
 
-## Pierwsze reakcje i recepcja
+## First Reactions and Reception
 
-### **FAKT**: Mieszane recenzje krytyków
-Współczesne recenzje były mieszane. "Monthly Review" z kwietnia 1818 określił nowość filozoficzną książki, ale ostatecznie uznał ją za zbyt ekstrawagancką, aby traktować poważnie.
+### **FACT**: Mixed Critical Reviews
+Contemporary reviews were mixed. "Monthly Review" from April 1818 recognized the book's philosophical novelty but ultimately deemed it too extravagant to take seriously.
 
-### **FAKT**: Recenzje w 1818 roku
-"Frankenstein" otrzymał recenzje w ważnych czasopismach: "The Quarterly Review" (styczeń 1818, John Wilson Croker), "Blackwood's Edinburgh Magazine" (marzec 1818, Walter Scott), "The British Critic" (kwiecień 1818).
+### **FACT**: Reviews in 1818
+"Frankenstein" received reviews in important journals: "The Quarterly Review" (January 1818, John Wilson Croker), "Blackwood's Edinburgh Magazine" (March 1818, Walter Scott), "The British Critic" (April 1818).
 
-### **FAKT**: Sukces teatralny zmienił wszystko
-Prawdziwą sławę przyniosła Mary adaptacja teatralna "Presumption; or, the Fate of Frankenstein" autorstwa Richarda Brinsley Peake'a, która miała premierę 28 lipca 1823 roku.
+### **FACT**: Theatrical Success Changed Everything
+True fame came from the theatrical adaptation "Presumption; or, the Fate of Frankenstein" by Richard Brinsley Peake, which premiered on July 28, 1823.
 
-### **FAKT**: 37 przedstawień w pierwszym sezonie
-Sztuka "Presumption" miała 37 przedstawień podczas oryginalnego sezonu letniego w English Opera House, co było znacznym sukcesem teatralnym.
+### **FACT**: 37 Performances in First Season
+The play "Presumption" had 37 performances during the original summer season at the English Opera House, which was a significant theatrical success.
 
-### **FAKT**: Reakcja Mary na sukces teatralny
-Mary pisała do Leigh Hunta: "Ale oto okazało się, że jestem sławna! — Frankenstein odniósł ogromny sukces jako dramat i miał być powtarzany już po raz 23. w English Opera House."
+### **FACT**: Mary's Reaction to Theatrical Success
+Mary wrote to Leigh Hunt: "But lo & behold! I found myself famous! — Frankenstein had prodigious success as a drama & was about to be repeated for the 23rd time at the English Opera House."
 
-### **FAKT**: Wpływ na sprzedaż książki
-Sukces teatralny doprowadził do wznowienia powieści - Godwin zaaranżował przedruk "Frankensteina" w dwóch tomach z poprawkami swojego autorstwa.
+### **FACT**: Impact on Book Sales
+The theatrical success led to a reprint of the novel - Godwin arranged a reprint of "Frankenstein" in two volumes with corrections of his own authorship.
 
-## Tragiczne następstwa Villa Diodati
+## Tragic Aftermath of Villa Diodati
 
-### **FAKT**: Śmierć wszystkich mężczyzn w ciągu 8 lat
-W ciągu ośmiu lat wszyscy mężczyźni, którzy wzięli udział w konkursie, zmarli: Polidori prawdopodobnie przez samobójstwo, Shelley przez utonięcie po zatonięciu jego jachtu "Ariel" w burzy u wybrzeży Italii, a Byron z choroby podczas przygód w sprawie greckiej wolności.
+### **FACT**: Death of All Men Within 8 Years
+Within eight years, all the men who participated in the contest died: Polidori probably by suicide, Shelley by drowning after his yacht "Ariel" sank in a storm off the coast of Italy, and Byron from illness during adventures in the cause of Greek freedom.
 
-### **FAKT**: John Polidori stworzył "Wampira"
-Polidori, inspirowany fragmentaryczną opowieścią Byrona, stworzył "The Vampyre" (1819), dzieło założycielskie dla romantycznego gatunku wampirów.
+### **FACT**: John Polidori Created "The Vampyre"
+Polidori, inspired by Byron's fragmentary story, created "The Vampyre" (1819), the founding work of the romantic vampire genre.
 
-### **FAKT**: Dwie fundamentalne historie grozy
-Z tego jednego spotkania w Villa Diodati powstały dwie fundamentalne historie grozy: "Frankenstein" Mary Shelley i "The Vampyre" Polidoriego, które ukształtowały nowoczesny horror.
+### **FACT**: Two Fundamental Horror Stories
+From this one meeting at Villa Diodati came two fundamental horror stories: Mary Shelley's "Frankenstein" and Polidori's "The Vampyre," which shaped modern horror.
 
-## Osobiste tragedie Mary Shelley
+## Mary Shelley's Personal Tragedies
 
-### **FAKT**: Śmierć pierwszego dziecka
-Pierwsze dziecko Mary, córka Clara, urodziła się przedwcześnie w 1815 roku i żyła tylko dwa tygodnie. Mary zapisała w dzienniku sny o dziecku: "Śniłam, że moja mała córeczka ożyła ponownie, że była tylko zmarznięta i że pocieraliśmy ją przed ogniem, i że żyła".
+### **FACT**: Death of First Child
+Mary's first child, daughter Clara, was born prematurely in 1815 and lived only two weeks. Mary recorded dreams about the child in her diary: "I dreamt that my little baby came to life again; that it had only been cold, and that we rubbed it before the fire, and it lived."
 
-### **FAKT**: Śmierć Clary Everiny (1818)
-Clara Everina Shelley zachorowała podczas podróży do Byronów w Wenecji i zmarła 24 września 1818 roku. Po śmierci Clary Mary popadła w długi okres depresji.
+### **FACT**: Death of Clara Everina (1818)
+Clara Everina Shelley fell ill during a journey to the Byrons in Venice and died on September 24, 1818. After Clara's death, Mary fell into a long period of depression.
 
-### **FAKT**: Śmierć Williama (1819)
-Trzyletni syn William zmarł w czerwcu 1819 roku, prawdopodobnie na malarię. Mary później pisała, że "powinnam była umrzeć 7 czerwca" razem z Williamem.
+### **FACT**: Death of William (1819)
+Three-year-old son William died in June 1819, probably from malaria. Mary later wrote that she "should have died on June 7" along with William.
 
-### **FAKT**: Samobójstwo Fanny Imlay (1816)
-Przyrodnia siostra Mary, Fanny Imlay, popełniła samobójstwo w październiku 1816 roku, przedawkowując laudanum w hotelu w Walii.
+### **FACT**: Suicide of Fanny Imlay (1816)
+Mary's half-sister, Fanny Imlay, committed suicide in October 1816 by overdosing on laudanum in a hotel in Wales.
 
-### **FAKT**: Samobójstwo Harriet Shelley (1816)
-Pierwsza żona Percy'ego, Harriet Shelley, utopiła się w Serpentine w grudniu 1816 roku, będąc w ciąży i czując się opuszczoną przez nowego kochanka.
+### **FACT**: Suicide of Harriet Shelley (1816)
+Percy's first wife, Harriet Shelley, drowned herself in the Serpentine in December 1816, being pregnant and feeling abandoned by a new lover.
 
-## Rewizje i zmiany w wydaniu z 1831 roku
+## Revisions and Changes in the 1831 Edition
 
-### **FAKT**: Fundamentalne zmiany tematyczne
-W wydaniu z 1818 roku ludzie mają wolną wolę, a w 1831 roku ludzkie działania są zdeterminowane przez los. W 1818 Victor Frankenstein posiadał wolną wolę; w 1831 stał się pionkiem sił poza jego kontrolą.
+### **FACT**: Fundamental Thematic Changes
+In the 1818 edition people have free will, while in 1831 human actions are determined by fate. In 1818 Victor Frankenstein possessed free will; in 1831 he became a pawn of forces beyond his control.
 
-### **FAKT**: Zmiana pochodzenia Elizabeth
-W wydaniu z 1818 Elizabeth jest kuzynką Victora (córką siostry Alphonse'a), w 1831 staje się biedną sierotą adoptowaną przez rodzinę, co czyni ją prototypem wiktoriańskiego "anioła domu".
+### **FACT**: Change in Elizabeth's Origin
+In the 1818 edition Elizabeth is Victor's cousin (daughter of Alphonse's sister), in 1831 she becomes a poor orphan adopted by the family, making her a prototype of the Victorian "angel of the house."
 
-### **FAKT**: Więcej krytyki wobec Victora
-Wydanie z 1831 zawiera więcej komentarzy krytykujących decyzje Victora, ponieważ Shelley próbowała odpowiedzieć konserwatywnym krytykom, którzy sprzeciwiali się jej powieści z moralnych powodów.
+### **FACT**: More Criticism Toward Victor
+The 1831 edition contains more commentary criticizing Victor's decisions, as Shelley tried to respond to conservative critics who opposed her novel on moral grounds.
 
-### **FAKT**: Wpływ osobistych tragedii
-Do 1831 roku Shelley została wdową i była świadkiem śmierci dwójki swoich dzieci, więc miała inną perspektywę na opowieść. Jej poglądy filozoficzne zradykalizowały się głównie w wyniku pesymizmu wywołanego osobistymi okolicznościami.
+### **FACT**: Impact of Personal Tragedies
+By 1831 Shelley had become a widow and witnessed the death of two of her children, so she had a different perspective on the story. Her philosophical views became radicalized mainly due to pessimism caused by personal circumstances.
 
-## Innowacje teatralne i kulturowy wpływ
+## Theatrical Innovations and Cultural Impact
 
-### **FAKT**: Pierwszy asystent "Igor"
-Adaptacja teatralna z 1823 roku wprowadzała pierwszego asystenta Frankensteina o imieniu "Fritz" - prototyp postaci znanej jako Igor, która nie istnieje w oryginalnej powieści.
+### **FACT**: First Assistant "Igor"
+The 1823 theatrical adaptation introduced Frankenstein's first assistant named "Fritz" - the prototype of the character known as Igor, who doesn't exist in the original novel.
 
-### **FAKT**: Niemy potwór w teatrze
-W adaptacji teatralnej potwór był niemy, co wpłynęło na późniejsze wersje, włączając słynny film z 1931 roku.
+### **FACT**: Silent Monster in Theater
+In the theatrical adaptation the monster was mute, which influenced later versions, including the famous 1931 film.
 
-### **FAKT**: T.P. Cooke i 350 występów
-Aktor T.P. Cooke zagrał potwora ponad 350 razy, demonstrując trwałą popularność sztuki, która była wznawiana w English Opera House przynajmniej do 1850 roku.
+### **FACT**: T.P. Cooke and 350 Performances
+Actor T.P. Cooke played the monster over 350 times, demonstrating the play's lasting popularity, which was revived at the English Opera House at least until 1850.
 
-### **FAKT**: Międzynarodowy sukces teatralny
-Sztuka była wystawiana w Nowym Jorku w styczniu 1825 roku i w Porte St. Martin w Paryżu w 1826 roku - za każdym razem z wielkim sukcesem.
+### **FACT**: International Theatrical Success
+The play was performed in New York in January 1825 and at Porte St. Martin in Paris in 1826 - each time with great success.
 
-## Ciekawostki i statystyki
+## Curiosities and Statistics
 
-### **FAKT**: Rekordowa cena pierwszego wydania
-Niedawno pierwsze wydanie z 1818 roku zostało sprzedane na aukcji za rekordową kwotę 1 170 000 dolarów.
+### **FACT**: Record Price for First Edition
+Recently a first edition from 1818 was sold at auction for a record amount of $1,170,000.
 
-### **FAKT**: Wiek autorki przy publikacji
-Mary Shelley miała zaledwie 20 lat, gdy "Frankenstein" został opublikowany 1 stycznia 1818 roku, ale zaczęła pisać go w wieku 18 lat.
+### **FACT**: Author's Age at Publication
+Mary Shelley was only 20 years old when "Frankenstein" was published on January 1, 1818, but she began writing it at age 18.
 
-### **FAKT**: Trzy parodie teatralne w 1823
-Sukces "Presumption" zainspirowała trzy parodie: "Frank-in-Steam" w Adelphi, "Frankenstitch" (krawiec szyje ciała) w Surrey, oraz wersję z karłowatym potworem w David-Royal Amphitheatre.
+### **FACT**: Three Theatrical Parodies in 1823
+The success of "Presumption" inspired three parodies: "Frank-in-Steam" at the Adelphi, "Frankenstitch" (a tailor sewing bodies) at Surrey, and a version with a dwarf monster at David-Royal Amphitheatre.
 
-### **FAKT**: Serce Percy'ego w biurku Mary
-Gdy Mary zmarła w 1851 roku, w szufladzie jej biurka znaleziono serce Percy'ego, owinięte w kartę z jego poezją, wraz z kosmykami włosów Clary i Williama.
+### **FACT**: Percy's Heart in Mary's Desk
+When Mary died in 1851, Percy's heart was found in her desk drawer, wrapped in a sheet with his poetry, along with locks of Clara and William's hair.
 
-### **FAKT**: Jedyna adaptacja oglądana przez autorkę
-"Presumption" była jedyną adaptacją "Frankensteina", którą Mary Shelley oglądała za swojego życia - 29 sierpnia 1823 roku w English Opera House razem z ojcem Williamem Godwinem.
+### **FACT**: Only Adaptation Seen by the Author
+"Presumption" was the only adaptation of "Frankenstein" that Mary Shelley saw during her lifetime - on August 29, 1823, at the English Opera House together with her father William Godwin.
 
-**PLOTKA**: Istnieją niesprawdzone doniesienia, że Mary mogła być zabrana przez swojego ojca na jedno ze spektakularnych pokazów galwanizmu Giovanni Aldiniego, ale brak na to konkretnych dowodów historycznych.
+**RUMOR**: There are unverified reports that Mary might have been taken by her father to one of Giovanni Aldini's spectacular galvanism shows, but there is no concrete historical evidence for this.
 
 ---
 
-*Dokument został przygotowany na podstawie badań historycznych źródeł z epoki oraz współczesnych analiz naukowych. Wszystkie fakty oznaczone jako "FAKT" są potwierdzone przez wiarygodne źródła historyczne.*
+*This document was prepared based on historical research of period sources and contemporary scholarly analysis. All facts marked as "FACT" are confirmed by reliable historical sources.*

@@ -1,265 +1,265 @@
-# Reality Check: Co się sprawdziło w "Podróży do wnętrza Ziemi" (1864) vs Współczesność
+# Reality Check: What Came True in "Journey to the Center of the Earth" (1864) vs Contemporary Times
 
-## Wprowadzenie: Wizjoner czy fantasta?
+## Introduction: Visionary or Fantasist?
 
-Jules Verne pisał "Podróż do wnętrza Ziemi" w 1864 roku, w epoce wielkich odkryć geologicznych i paleontologicznych. Jako prawnik, który stał się pisarzem, prowadził metodyczne badania naukowe, konsultując się z prawdziwymi uczonymi. Po 160 latach możemy sprawdzić: co przewidział trafnie, a co okazało się fantazją?
+Jules Verne wrote "Journey to the Center of the Earth" in 1864, during an era of great geological and paleontological discoveries. As a lawyer who became a writer, he conducted methodical scientific research, consulting with real scholars. After 160 years, we can verify: what did he predict accurately, and what turned out to be fantasy?
 
-## Przewidywania naukowe - co się sprawdziło
+## Scientific Predictions - What Came True
 
-### ✅ TRAFNE PRZEWIDYWANIA:
+### ✅ ACCURATE PREDICTIONS:
 
-**1. Stratyfikacja geologiczna i historie Ziemi** (SPRAWDZIŁ SIĘ W 95%)
-- **Verne przewidział**: Im głębiej się zstępuje, tym starsze formy życia się spotyka
-- **Rzeczywistość 2025**: Paleontologia potwierdza - najstarsze skamieniałości znajdują się w najgłębszych warstwach
-- **Praktyczna lekcja**: Nauka buduje się na systematycznym porządku, nie chaosie
+**1. Geological Stratification and Earth's History** (95% ACCURATE)
+- **Verne predicted**: The deeper you descend, the older life forms you encounter
+- **Reality 2025**: Paleontology confirms - the oldest fossils are found in the deepest layers
+- **Practical lesson**: Science builds on systematic order, not chaos
 
-**2. Elektryczne zjawiska w głębi Ziemi** (SPRAWDZIŁ SIĘ W 80%)
-- **Verne przewidział**: Podziemne aurora borealis i zjawiska elektryczne
-- **Rzeczywistość 2025**: Pole magnetyczne Ziemi rzeczywiście generuje zjawiska elektryczne, które obserwujemy w głębokich kopalniach
-- **Praktyczna lekcja**: Natura działa według praw fizyki wszędzie, nawet tam gdzie ich nie widzimy
+**2. Electrical Phenomena in Earth's Depths** (80% ACCURATE)
+- **Verne predicted**: Underground aurora borealis and electrical phenomena
+- **Reality 2025**: Earth's magnetic field indeed generates electrical phenomena observed in deep mines
+- **Practical lesson**: Nature operates according to physical laws everywhere, even where we can't see them
 
-**3. Wykorzystanie teorii naukowych do rozwiązywania problemów** (SPRAWDZIŁ SIĘ W 100%)
-- **Verne przewidział**: Postaci używają teorii Humphry Davy'ego do przewidywania temperatur
-- **Rzeczywistość 2025**: Nowoczesna geologia faktycznie opiera się na teoriach z XIX wieku, które zostały udoskonalone
-- **Praktyczna lekcja**: Solidne podstawy naukowe wytrzymują próbę czasu
+**3. Using Scientific Theories to Solve Problems** (100% ACCURATE)
+- **Verne predicted**: Characters use Humphry Davy's theories to predict temperatures
+- **Reality 2025**: Modern geology is indeed based on 19th-century theories that have been refined
+- **Practical lesson**: Solid scientific foundations withstand the test of time
 
-### ❌ NIETRAFNE PRZEWIDYWANIA:
+### ❌ INACCURATE PREDICTIONS:
 
-**1. Pusta Ziemia z oceanami** (CAŁKOWICIE BŁĘDNE)
-- **Verne przewidział**: Ziemia jest pusta w środku z morzami i lasami grzybowymi
-- **Rzeczywistość 2025**: Ziemia ma płynne jądro z żelaza i niklu o temperaturze 6000°C
-- **Lekcja dla młodzieży**: Nawet największe autorytety mogą się mylić - ważne jest sprawdzanie źródeł
+**1. Hollow Earth with Oceans** (COMPLETELY WRONG)
+- **Verne predicted**: Earth is hollow inside with seas and mushroom forests
+- **Reality 2025**: Earth has a liquid core of iron and nickel at 6000°C
+- **Lesson for youth**: Even the greatest authorities can be wrong - it's important to verify sources
 
-**2. Przeżycie w wulkanie** (FIZYCZNIE NIEMOŻLIWE)
-- **Verne przewidział**: Można zejść do wnętrza wulkanu i przeżyć
-- **Rzeczywistość 2025**: Temperatura w aktywnym wulkanie sięga 1200°C - natychmiastowa śmierć
-- **Lekcja dla młodzieży**: Science fiction ≠ science fact - rozróżniaj fantazję od rzeczywistości
+**2. Surviving in a Volcano** (PHYSICALLY IMPOSSIBLE)
+- **Verne predicted**: One can descend into a volcano's interior and survive
+- **Reality 2025**: Temperature in an active volcano reaches 1200°C - instant death
+- **Lesson for youth**: Science fiction ≠ science fact - distinguish fantasy from reality
 
-**3. Prehistoryczne stworzenia wciąż żywe** (EWOLUCYJNIE NIEMOŻLIWE)
-- **Verne przewidział**: Dinozaury i pierwotne rośliny nadal egzystują pod ziemią
-- **Rzeczywistość 2025**: Ewolucja nie ustaje - gatunki albo się adaptują, albo wymierają
-- **Lekcja dla młodzieży**: Zmiany są naturalną częścią życia, nie ma "zamrożonych w czasie" rozwiązań
+**3. Prehistoric Creatures Still Alive** (EVOLUTIONARILY IMPOSSIBLE)
+- **Verne predicted**: Dinosaurs and primitive plants still exist underground
+- **Reality 2025**: Evolution never stops - species either adapt or become extinct
+- **Lesson for youth**: Change is a natural part of life, there are no "frozen in time" solutions
 
-## Relacje międzyludzkie - wzorce z 1864 vs 2025
+## Human Relationships - Patterns from 1864 vs 2025
 
-### 👥 PATTERN: Męska dominacja w eksploracji
+### 👥 PATTERN: Male Dominance in Exploration
 
-**W książce Verne'a (1864):**
-- Profesor Lidenbrock: Starszy męski autorytet, który wydaje rozkazy
-- Axel: Młody mężczyzna, który musi "udowodnić swoją męskość" przez odwagę
-- Hans: Praktyczny przewodnik, reprezentuje "prawdziwą męskość"
-- Kobiety: Martha (gospodyni) i Gräuben (narzeczona) zostają w domu, "czekają na powrót bohaterów"
+**In Verne's Book (1864):**
+- Professor Lidenbrock: Older male authority who gives orders
+- Axel: Young man who must "prove his masculinity" through courage
+- Hans: Practical guide, represents "true masculinity"
+- Women: Martha (housekeeper) and Gräuben (fiancée) stay home, "wait for heroes' return"
 
-**Współczesność (2025):**
-- Eksploracja: Zespoły mieszane, kobiety jak Jessica Watkins (NASA), Kathryn D. Sullivan (pierwsza Amerykanka w kosmosie)
-- Nauka: 50% studentów nauk ścisłych to kobiety
-- **RED FLAG 1864**: Kobiety jako "nagroda" za męską odwagę
-- **HEALTHY 2025**: Partnerstwo oparte na wzajemnym wsparciu, nie na "udowadnianiu męskości"
+**Contemporary Times (2025):**
+- Exploration: Mixed teams, women like Jessica Watkins (NASA), Kathryn D. Sullivan (first American woman in space)
+- Science: 50% of STEM students are women
+- **RED FLAG 1864**: Women as "reward" for male courage
+- **HEALTHY 2025**: Partnership based on mutual support, not "proving masculinity"
 
-### 💡 TIMELESS WISDOM: Ciekawość jako motor rozwoju
+### 💡 TIMELESS WISDOM: Curiosity as the Engine of Development
 
-**Co się nie zmieniło:**
-- Młodzi ludzie nadal muszą przezwyciężać strach przed nieznanym
-- Mentorzy (jak profesor Lidenbrock) nadal są kluczowi w rozwoju
-- Przygoda i odkrywanie nadal pociągają młodych
-- **Uniwersalna prawda**: Największe odkrycia wymagają wyjścia ze strefy komfortu
+**What hasn't changed:**
+- Young people still must overcome fear of the unknown
+- Mentors (like Professor Lidenbrock) are still crucial in development
+- Adventure and discovery still attract the young
+- **Universal truth**: The greatest discoveries require stepping out of comfort zones
 
-## Generational Divide: Co się zmieniło vs co zostało
+## Generational Divide: What Changed vs What Remained
 
-### 🔄 ZMIENILO SIĘ FUNDAMENTALNIE:
+### 🔄 FUNDAMENTALLY CHANGED:
 
-**1. Dostęp do informacji**
-- **1864**: Axel musi wierzyć wujowi na słowo, bo nie ma jak sprawdzić
-- **2025**: Gen Z sprawdza fakty w czasie rzeczywistym na telefonach
-- **Lekcja**: Nie wierz ślepo autorytetom - weryfikuj informacje
+**1. Access to Information**
+- **1864**: Axel must believe his uncle on faith because there's no way to verify
+- **2025**: Gen Z checks facts in real-time on their phones
+- **Lesson**: Don't blindly trust authorities - verify information
 
-**2. Rola młodzieży w decyzjach**
-- **1864**: Axel protestuje, ale ostatecznie wykonuje rozkazy starszego
-- **2025**: Młodzi mają prawo głosu w decyzjach dotyczących ich życia
-- **Lekcja**: Twoję zdanie ma wartość, nie bój się go wyrażać
+**2. Youth's Role in Decision-Making**
+- **1864**: Axel protests but ultimately follows elder's orders
+- **2025**: Young people have a voice in decisions affecting their lives
+- **Lesson**: Your opinion has value, don't be afraid to express it
 
-**3. Definicja odwagi**
-- **1864**: Odwaga = ryzyko życia dla sławy i odkrycia
-- **2025**: Odwaga = ustanawianie granic, mówienie "nie", troska o zdrowie psychiczne
-- **Lekcja**: Prawdziwa odwaga to robienie tego, co słuszne, nie tego, co dramatyczne
+**3. Definition of Courage**
+- **1864**: Courage = risking life for fame and discovery
+- **2025**: Courage = setting boundaries, saying "no", caring for mental health
+- **Lesson**: True courage is doing what's right, not what's dramatic
 
-### ♾️ UNIWERSALNE PRAWDY (niezmienne przez 160 lat):
+### ♾️ UNIVERSAL TRUTHS (unchanged for 160 years):
 
-**1. Strach przed porażką paraliżuje**
-- **1864**: Axel ma koszmary o śmierci pod ziemią
-- **2025**: Młodzi mają lęk przed nietrafionymi wyborami kariery
-- **Ponadczasowa mądrość**: Strach jest naturalny, ale nie może cię zatrzymać
+**1. Fear of Failure Paralyzes**
+- **1864**: Axel has nightmares about dying underground
+- **2025**: Young people fear making wrong career choices
+- **Timeless wisdom**: Fear is natural, but it can't stop you
 
-**2. Mentorzy kształtują przyszłość**
-- **1864**: Profesor Lidenbrock inspiruje Axela do nauki
-- **2025**: Dobrzy nauczyciele, trenerzy, szefowie nadal zmieniają życia
-- **Ponadczasowa mądrość**: Znajdź kogoś, kto wierzy w twój potencjał
+**2. Mentors Shape the Future**
+- **1864**: Professor Lidenbrock inspires Axel to learn
+- **2025**: Good teachers, coaches, bosses still change lives
+- **Timeless wisdom**: Find someone who believes in your potential
 
-**3. Zespołowa praca > indywidualne heroizmy**
-- **1864**: Axel, profesor i Hans przeżywają dzięki współpracy
-- **2025**: Najlepsze projekty powstają w zespołach
-- **Ponadczasowa mądrość**: Nikt nie osiąga sukcesu w samotności
+**3. Teamwork > Individual Heroics**
+- **1864**: Axel, professor, and Hans survive through cooperation
+- **2025**: The best projects emerge from teams
+- **Timeless wisdom**: No one achieves success alone
 
-## Ewolucja norm społecznych: Patriarchat vs Równość
+## Evolution of Social Norms: Patriarchy vs Equality
 
-### 📈 PROGRES HUMANITY:
+### 📈 HUMAN PROGRESS:
 
-**1. Od autorytarnej edukacji do współpracy**
-- **1864**: "Rób co każę, bo jestem starszy" (profesor → Axel)
-- **2025**: "Nauczmy się razem, twoja perspektywa też jest ważna"
+**1. From Authoritarian Education to Cooperation**
+- **1864**: "Do as I say because I'm older" (professor → Axel)
+- **2025**: "Let's learn together, your perspective also matters"
 
-**2. Od "udowadniania męskości" do autentyczności**
-- **1864**: Axel musi być "dzielny" aby zasłużyć na miłość Gräuben
-- **2025**: Związki oparte na wzajemnej akceptacji, nie na spełnianiu ról genderowych
+**2. From "Proving Masculinity" to Authenticity**
+- **1864**: Axel must be "brave" to earn Gräuben's love
+- **2025**: Relationships based on mutual acceptance, not fulfilling gender roles
 
-**3. Od hierarchii opartej na wieku do merytocracji**
-- **1864**: Starszy = mądrzejszy (automatycznie)
-- **2025**: Kompetencje > wiek (28-letni CEO może prowadzić 50-latków)
+**3. From Age-Based Hierarchy to Meritocracy**
+- **1864**: Older = wiser (automatically)
+- **2025**: Competence > age (28-year-old CEO can lead 50-year-olds)
 
-### ⚠️ RED FLAGS z 1864, które wciąż widzimy:
+### ⚠️ RED FLAGS from 1864 we still see:
 
-**1. "Męczyzna musi być twardy"**
-- **Książka**: Axel nie może pokazać strachu
-- **Dzisiaj**: Chłopcy nadal słyszą "prawdziwi faceci nie płaczą"
-- **Lekcja dla Gen Z**: Emocje to ludzka cecha, nie słabość
+**1. "Men must be tough"**
+- **Book**: Axel can't show fear
+- **Today**: Boys still hear "real men don't cry"
+- **Lesson for Gen Z**: Emotions are human traits, not weakness
 
-**2. "Kobieta czeka w domu"**
-- **Książka**: Martha i Gräuben nie mają własnych aspiracji
-- **Dzisiaj**: Nadal spotykamy oczekiwanie, że kobieta powinna rezygnować z kariery "dla rodziny"
-- **Lekcja dla Gen Z**: Każdy ma prawo do własnych marzeń, niezależnie od płci
+**2. "Women wait at home"**
+- **Book**: Martha and Gräuben have no personal aspirations
+- **Today**: Still expectations that women should abandon careers "for family"
+- **Lesson for Gen Z**: Everyone has the right to their own dreams, regardless of gender
 
-**3. "Autorytet nie może się pomylić"**
-- **Książka**: Axel nie kwestionuje decyzji profesora, mimo oczywistego ryzyka
-- **Dzisiaj**: Toxic bosses, manipulacyjni politycy, influencerzy bez kompetencji
-- **Lekcja dla Gen Z**: Szanuj wiedzę, ale zawsze myśl krytycznie
+**3. "Authority cannot be wrong"**
+- **Book**: Axel doesn't question professor's decisions despite obvious risk
+- **Today**: Toxic bosses, manipulative politicians, incompetent influencers
+- **Lesson for Gen Z**: Respect knowledge, but always think critically
 
-## Praktyczne lekcje dla współczesnej młodzieży
+## Practical Lessons for Contemporary Youth
 
 ### 🎯 ACTIONABLE WISDOM:
 
-**1. Badaj zanim uwierzysz**
-- **Z książki**: Verne robił skrupulatne notatki z literatury naukowej
-- **Dla Gen Z**: Sprawdzaj fakty z kilku źródeł przed share'owaniem na social mediach
-- **Red flag**: Ktoś mówi "zaufaj mi", ale nie podaje źródeł
+**1. Research Before You Believe**
+- **From the book**: Verne made meticulous notes from scientific literature
+- **For Gen Z**: Check facts from multiple sources before sharing on social media
+- **Red flag**: Someone says "trust me" but provides no sources
 
-**2. Mentorzy to skarb, ale myśl własną głową**
-- **Z książki**: Axel korzysta z wiedzy profesora, ale zadaje pytania
-- **Dla Gen Z**: Znajdź mentora, ale nie kopiuj go ślepo
-- **Healthy sign**: Mentor zachęca do zadawania pytań, nie wymusza posłuszeństwa
+**2. Mentors are treasures, but think for yourself**
+- **From the book**: Axel benefits from professor's knowledge but asks questions
+- **For Gen Z**: Find a mentor, but don't copy them blindly
+- **Healthy sign**: Mentor encourages questions, doesn't demand obedience
 
-**3. Prawdziwa odwaga to przemyślane ryzyko**
-- **Z książki**: Najlepsze odkrycia wymagają wyjścia ze strefy komfortu, ale z przygotowaniem
-- **Dla Gen Z**: Podejmij wyzwania, ale z planem B (i C, i D)
-- **Red flag**: Ktoś mówi "skok na głęboką wodę" bez żadnego przygotowania
+**3. True courage is calculated risk**
+- **From the book**: Best discoveries require leaving comfort zones, but with preparation
+- **For Gen Z**: Take on challenges, but with plan B (and C, and D)
+- **Red flag**: Someone says "jump in the deep end" without any preparation
 
-**4. Zespół > indywidualny heroizm**
-- **Z książki**: Nikt nie przeżyłby sam - każdy wnosi inne umiejętności
-- **Dla Gen Z**: Buduj network, nie competitive'uj wszystkich
-- **Healthy sign**: Ludzie wokół ciebie chcą twojego sukcesu, nie porażki
+**4. Team > individual heroism**
+- **From the book**: No one would survive alone - everyone brings different skills
+- **For Gen Z**: Build networks, don't compete with everyone
+- **Healthy sign**: People around you want your success, not failure
 
-### 💪 ŻYCIOWE HAKI od Verne'a (aktualne po 160 latach):
+### 💪 LIFE HACKS from Verne (relevant after 160 years):
 
-**1. "Dyscyplina bije talent, gdy talent nie ma dyscypliny"**
-- Verne wstawał o 5:00 i pisał każdego dnia
-- **Dla Gen Z**: Consistency > perfectionism
-- 15 minut dziennie przez rok = więcej niż 8 godzin raz na miesiąc
+**1. "Discipline beats talent when talent lacks discipline"**
+- Verne woke up at 5:00 AM and wrote every day
+- **For Gen Z**: Consistency > perfectionism
+- 15 minutes daily for a year = more than 8 hours once a month
 
-**2. "Badaj, ale nie analizuj w nieskończoność"**
-- Verne badał skrupulatnie, ale potem działał
-- **Dla Gen Z**: Analysis paralysis to prawdziwy wróg
-- Zbierz 80% informacji i działaj, nie czekaj na 100%
+**2. "Research, but don't analyze infinitely"**
+- Verne researched meticulously but then acted
+- **For Gen Z**: Analysis paralysis is a real enemy
+- Gather 80% of information and act, don't wait for 100%
 
-**3. "Znajdź swojego Hans'a"**
-- Hans w książce to praktyk, który zna teren
-- **Dla Gen Z**: Znajdź kogoś, kto "był tam, gdzie ty chcesz być"
-- Nie tylko teoretyk, ale praktycy z doświadczeniem
+**3. "Find your Hans"**
+- Hans in the book is a practitioner who knows the terrain
+- **For Gen Z**: Find someone who "has been where you want to be"
+- Not just theorists, but practitioners with experience
 
-## Timeline: Verne's predictions vs Reality
+## Timeline: Verne's Predictions vs Reality
 
-### 📅 CO SIĘ SPRAWDZIŁO, KIEDY:
+### 📅 WHAT CAME TRUE, WHEN:
 
-**1864 - Verne przewiduje**: Elektryczne zjawiska w głębi Ziemi
-**1879 - POTWIERDZENIE**: Edison wynajduje żarówkę, odkrywamy więcej o elektryczności
-**2025**: Rzeczywiście wiemy o polu magnetycznym i prądach w Ziemi
+**1864 - Verne predicts**: Electrical phenomena in Earth's depths
+**1879 - CONFIRMATION**: Edison invents light bulb, we discover more about electricity
+**2025**: We indeed know about magnetic fields and currents in Earth
 
-**1864 - Verne przewiduje**: Systematyczna geologia i stratyfikacja
-**1859**: Teoria ewolucji Darwina (Verne ją znał!)
-**2025**: DNA i radiometryczne datowanie potwierdzają stratyfikację
+**1864 - Verne predicts**: Systematic geology and stratification
+**1859**: Darwin's theory of evolution (Verne knew it!)
+**2025**: DNA and radiometric dating confirm stratification
 
-**1864 - Verne przewiduje**: Współpraca międzynarodowa w nauce (Niemiec + Islandczyk)
-**1957**: Międzynarodowy Rok Geofizyczny
-**2025**: Międzynarodowa Stacja Kosmiczna, CERN, globalna współpraca naukowa
+**1864 - Verne predicts**: International cooperation in science (German + Icelander)
+**1957**: International Geophysical Year
+**2025**: International Space Station, CERN, global scientific cooperation
 
-### ❌ CO SIĘ NIE SPRAWDZIŁO:
+### ❌ WHAT DIDN'T COME TRUE:
 
-**1864 - Verne przewiduje**: Puste wnętrze Ziemi
-**1906**: Trzęsienia ziemi pokazują, że Ziemia ma stałe jądro
-**2025**: Wiemy, że jądro to żelazo/nikiel, 6000°C
+**1864 - Verne predicts**: Hollow Earth interior
+**1906**: Earthquakes show Earth has solid core
+**2025**: We know the core is iron/nickel, 6000°C
 
-## Dating red flags i relationship wisdom z XIX wieku
+## Dating Red Flags and Relationship Wisdom from 19th Century
 
-### 🚩 TOXIC PATTERNS z 1864 (wciąż aktualne!):
+### 🚩 TOXIC PATTERNS from 1864 (still relevant!):
 
-**1. "Nie jesteś wystarczająco dobry/dobra dla mnie"**
-- **W książce**: Axel czuje, że musi "zasłużyć" na miłość Gräuben przez odwagę
-- **Dzisiaj**: Partner wymaga ciągłego "udowadniania" wartości
-- **Healthy alternative**: Miłość to dar, nie nagroda za osiągnięcia
+**1. "You're not good enough for me"**
+- **In the book**: Axel feels he must "earn" Gräuben's love through courage
+- **Today**: Partner demands constant "proof" of worth
+- **Healthy alternative**: Love is a gift, not a reward for achievements
 
-**2. "Zrób to dla mnie, skoro mnie kochasz"**
-- **W książce**: Profesor manipuluje Axelem przez poczucie obowiązku
-- **Dzisiaj**: "Jeśli mnie kochasz, to..." (emotional blackmail)
-- **Healthy alternative**: "Szanuję twoją decyzję, nawet jeśli się nie zgadzam"
+**2. "Do this for me if you love me"**
+- **In the book**: Professor manipulates Axel through sense of duty
+- **Today**: "If you love me, then..." (emotional blackmail)
+- **Healthy alternative**: "I respect your decision, even if I disagree"
 
-**3. "Nie rozumiesz, jestem od myślenia"**
-- **W książce**: Kobiety są od czekania, mężczyźni od decyzji
-- **Dzisiaj**: Partner nie słucha twoich opinii "bo ty się nie znasz"
-- **Healthy alternative**: "Twoja perspektywa pomaga mi zrozumieć więcej"
+**3. "You don't understand, I'm the one who thinks"**
+- **In the book**: Women are for waiting, men for decisions
+- **Today**: Partner doesn't listen to your opinions "because you don't know"
+- **Healthy alternative**: "Your perspective helps me understand more"
 
 ### 💖 TIMELESS RELATIONSHIP TRUTHS:
 
-**1. Wzajemne wsparcie w trudnościach**
-- **W książce**: W kryzysowych momentach postaci wspierają się wzajemnie
-- **Ponadczasowa mądrość**: Prawdziwe relacje poznaje się w trudnościach
+**1. Mutual support in difficulties**
+- **In the book**: In crisis moments, characters support each other
+- **Timeless wisdom**: True relationships are tested in hardship
 
-**2. Każdy wnosi coś wartościowego**
-- **W książce**: Hans - praktyczność, profesor - wiedzę, Axel - pytania
-- **Ponadczasowa mądrość**: W zdrowych relacjach wszyscy są równie ważni
+**2. Everyone brings something valuable**
+- **In the book**: Hans - practicality, professor - knowledge, Axel - questions
+- **Timeless wisdom**: In healthy relationships, everyone is equally important
 
-**3. Komunikacja zapobiega katastrofom**
-- **W książce**: Kiedy przestają komunikować się, gubią się w labiryncie
-- **Ponadczasowa mądrość**: Więcej problemów rozwiązuje rozmowa niż milczenie
+**3. Communication prevents disasters**
+- **In the book**: When they stop communicating, they get lost in the labyrinth
+- **Timeless wisdom**: More problems are solved by conversation than silence
 
-## Podsumowanie: Co Verne nauczył nas o życiu
+## Summary: What Verne Taught Us About Life
 
-### 🎓 NAJWAŻNIEJSZE LEKCJE dla współczesnej młodzieży:
+### 🎓 MOST IMPORTANT LESSONS for contemporary youth:
 
-**1. Naukowy skeptycyzm jest super-mocą**
-- Sprawdzaj źródła, zadawaj pytania, nie wierz ślepo
-- Nawet najlepsi eksperci mogą się mylić (jak Verne z pustą Ziemią)
+**1. Scientific skepticism is a superpower**
+- Check sources, ask questions, don't believe blindly
+- Even the best experts can be wrong (like Verne with hollow Earth)
 
-**2. Odwaga to nie brak strachu, to działanie mimo strachu**
-- Axel bał się przez całą podróż, ale szedł dalej
-- Twoje lęki są naturalne, ale nie mogą cię zatrzymać
+**2. Courage isn't absence of fear, it's action despite fear**
+- Axel was afraid throughout the journey but kept going
+- Your fears are natural, but they can't stop you
 
-**3. Najlepsze przygody dzielisz z innymi**
-- Indywidualni bohaterowie to mit - prawdziwy sukces to praca zespołowa
-- Znajdź swoich ludzi i razem osiągajcie cele
+**3. The best adventures are shared with others**
+- Individual heroes are a myth - real success is teamwork
+- Find your people and achieve goals together
 
 **4. Progress ≠ perfection**
-- Verne pomylił się w szczegółach, ale trafnie przewidział znaczenie nauki
-- Twoję decyzje nie muszą być idealne, żeby były dobre
+- Verne got details wrong but accurately predicted science's importance
+- Your decisions don't have to be perfect to be good
 
-**5. Przyszłość jest lepsza niż przeszłość**
-- 160 lat temu kobiety nie mogły być naukowczyniami
-- Dziś możesz zostać, kim chcesz, niezależnie od płci, pochodzenia czy wieku
-- **Most important**: Każde pokolenie ma szansę zbudować lepszy świat
+**5. The future is better than the past**
+- 160 years ago women couldn't be scientists
+- Today you can become whatever you want, regardless of gender, origin, or age
+- **Most important**: Every generation has a chance to build a better world
 
 ### 📈 EVOLUTIONARY SUCCESS STORY:
 
-Od autorytarnego świata 1864 roku, gdzie młodzi musieli bezwarunkowo słuchać starszych, doszliśmy do społeczeństwa, które wysłucha każdego pomysłu bez względu na wiek jego autora. To jest prawdziwy postęp ludzkości - nie tylko technologiczny, ale i emocjonalny.
+From the authoritarian world of 1864, where young people had to unconditionally obey elders, we've reached a society that will listen to any idea regardless of its author's age. This is true human progress - not just technological, but emotional.
 
-**Jules Verne nie przewidział smartfonów czy Internetu, ale trafnie przewidział najważniejsze: że ciekawość, odwaga i współpraca są kluczem do odkrywania tajemnic świata. To przesłanie jest równie aktualne w 2025 roku jak w 1864.**
+**Jules Verne didn't predict smartphones or the Internet, but he accurately predicted the most important thing: that curiosity, courage, and cooperation are the key to discovering the world's secrets. This message is as relevant in 2025 as it was in 1864.**
 
 ---
 
-*"Podczas gdy science fiction Verne'a nie sprawdziło się dosłownie, jego wiara w moc ludzkiej ciekawości i współpracy okazała się przepowiednią najważniejszą z wszystkich."* 🌍✨
+*"While Verne's science fiction didn't come true literally, his faith in the power of human curiosity and cooperation proved to be the most important prophecy of all."* 🌍✨

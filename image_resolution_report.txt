@@ -1,47 +1,20 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: wto, 16 wrz 2025, 19:59:34 CEST
+Date: czw, 18 wrz 2025, 11:57:37 CEST
 Phases to run: 2
 
 
 === PHASE 2: IMAGE COMPLETENESS CHECK ===
-0144_ficciones - 23
-0145_the_cairo_trilogy - 21
-0146_season_of_migration_to_the_north - 24
-0147_the_house_of_the_spirits - 22
-0148_red_sorghum - 0 (empty directory)
-0149_the_oresteia - 0 (empty directory)
-0150_tartuffe - 0 (empty directory)
-0151_death_of_a_salesman - 0 (empty directory)
-0152_a_streetcar_named_desire - 0 (empty directory)
-0153_long_days_journey_into_night - 0 (empty directory)
-0154_mother_courage_and_her_children - 0 (empty directory)
+0152_a_streetcar_named_desire - 23
+0154_mother_courage_and_her_children - 20
 
 === PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 11
+Books with incomplete/incorrect images: 2
 
 === BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0144_ficciones
-0145_the_cairo_trilogy
-0146_season_of_migration_to_the_north
-0147_the_house_of_the_spirits
-0148_red_sorghum
-0149_the_oresteia
-0150_tartuffe
-0151_death_of_a_salesman
 0152_a_streetcar_named_desire
-0153_long_days_journey_into_night
 0154_mother_courage_and_her_children
 
 === MISSING SCENES TO BE SET TO PENDING ===
-0144_ficciones: 2 missing scenes (0021, 0024)
-0145_the_cairo_trilogy: 4 missing scenes (0008, 0013, 0016, 0021)
-0146_season_of_migration_to_the_north: 1 missing scenes (0016)
-0147_the_house_of_the_spirits: 3 missing scenes (0014, 0020, 0022)
-0148_red_sorghum: 25 missing scenes (0001-0025 (all - completely empty directory))
-0149_the_oresteia: 25 missing scenes (0001-0025 (all - completely empty directory))
-0150_tartuffe: 25 missing scenes (0001-0025 (all - completely empty directory))
-0151_death_of_a_salesman: 25 missing scenes (0001-0025 (all - completely empty directory))
-0152_a_streetcar_named_desire: 25 missing scenes (0001-0025 (all - completely empty directory))
-0153_long_days_journey_into_night: 25 missing scenes (0001-0025 (all - completely empty directory))
-0154_mother_courage_and_her_children: 25 missing scenes (0001-0025 (all - completely empty directory))
+0152_a_streetcar_named_desire: 2 missing scenes (0013, 0017)
+0154_mother_courage_and_her_children: 5 missing scenes (0001, 0007, 0009, 0012, 0017)

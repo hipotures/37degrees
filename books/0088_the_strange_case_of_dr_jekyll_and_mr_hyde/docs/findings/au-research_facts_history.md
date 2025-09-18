@@ -1,131 +1,131 @@
-# FASCYNUJĄCE FAKTY I HISTORIA POWSTANIA
+# FASCINATING FACTS AND CREATION HISTORY
 ## "The Strange Case of Dr Jekyll and Mr Hyde" - Robert Louis Stevenson (1886)
 
 ---
 
-## OKOLICZNOŚCI POWSTANIA
+## CIRCUMSTANCES OF CREATION
 
-### **FAKT**: Koszmar jako źródło inspiracji (jesień 1885)
-Stevenson opisał w eseju "A Chapter on Dreams" (1888): po dniach mozolnego wymyślania fabuły, śnił "trzy sceny i centralną ideę dobrowolnej przemiany stającej się niedobrowolną". Żona Fanny opisała: "Obudziłam się od krzyków przerażenia Louisa. Myśląc, że ma koszmar, obudziłam go. Powiedział ze złością: 'Po co mnie budziłaś? Śniłem wspaniałą historię o duchach.'"
+### **FACT**: Nightmare as source of inspiration (autumn 1885)
+Stevenson described in his essay "A Chapter on Dreams" (1888): after days of struggling to invent a plot, he dreamed "three scenes and the central idea of a voluntary transformation becoming involuntary." His wife Fanny described: "I woke up to Louis's screams of terror. Thinking he was having a nightmare, I woke him up. He said angrily: 'Why did you wake me up? I was dreaming a wonderful ghost story.'"
 
-### **FAKT**: Najszybsze napisanie klasyka literatury w historii (1885)
-Lloyd Osbourne, pasierb Stevensa, opisał: "Nie wierzę, żeby kiedykolwiek wcześniej dokonano takiego literackiego wyczynu jak napisanie Dr Jekylla. Pamiętam pierwsze czytanie jakby to było wczoraj. Louis zszedł na dół w gorączce; przeczytał na głos prawie połowę książki; potem, gdy wciąż dyszeliśmy z wrażenia, pobiegł z powrotem i zajął się pisaniem. Wątpię, czy pierwszy szkic zajął mu więcej niż trzy dni."
+### **FACT**: Fastest writing of a literary classic in history (1885)
+Lloyd Osbourne, Stevenson's stepson, described: "I don't believe such a literary feat as the writing of Dr Jekyll had ever been accomplished before. I remember the first reading as if it were yesterday. Louis came downstairs in a fever; read aloud almost half the book; then, while we were still gasping with amazement, he ran back upstairs and continued writing. I doubt if the first draft took him more than three days."
 
-### **FAKT**: Kompletne przepisanie w ciągu tygodnia (1885)
-Po krytyce żony Fanny, która stwierdziła, że książka powinna być alegorią dobra i zła, a nie zwykłą historią, Stevenson spalił cały rękopis i przepisał całą 30-tysięczną nowelę w ciągu 3-6 dni. "Wskazał na stos popiołów: spalił rękopis ze strachu, że będzie próbował go ratować."
+### **FACT**: Complete rewrite within a week (1885)
+After criticism from his wife Fanny, who argued the book should be an allegory of good and evil rather than just a story, Stevenson burned the entire manuscript and rewrote the entire 30,000-word novella in 3-6 days. "He pointed to a pile of ashes: he had burned the manuscript out of fear that he would try to save it."
 
-### **FAKT**: Pisanie w stanie choroby i być może pod wpływem kokainy (1885)
-Stevenson był przykuty do łóżka z powodu krwotoku płuc (prawdopodobnie gruźlica). Niektórzy biografowie twierdzą, że używał kokainy przepisywanej na jego krwawiące płuca - w latach 80. XIX wieku odkryto, że kokaina zwęża naczynia krwionośne. Jednak standardowa historia mówi, że "był przykuty do łóżka i chory podczas pisania."
-
----
-
-## INSPIRACJE I PRAWDZIWE POSTACI
-
-### **FAKT**: Meble od prawdziwego przestępcy w pokoju dziecięcym
-Stevenson przyznał w wywiadzie: "W pokoju, w którym spałem jako dziecko w Edynburgu, stała szafa - i to bardzo ładny kawałek rzemiosła - z rąk oryginalnego Diakona Brodie'ego." William "Deacon" Brodie (1741-1788) był szanowanym stolarzem i radnym Edynburga za dnia, a nocą włamywaczem i złodziejem.
-
-### **FAKT**: Metoda Brodie'ego - klucze z wosku
-Brodie potajemnie robił woskowe odciski kluczy bogatych klientów (którzy chętnie mu je pożyczali), a następnie używał tych odcisków do tworzenia własnych kluczy. Jedna z technik polegała na wgnieceniu kluczy w kit, aby później móc zrobić kopię.
-
-### **FAKT**: Brodie zostal powieszony na szubienicy, którą sam zbudował
-1 października 1788 roku Brodie został powieszony na szubienicy, którą - jak się uważa - sam zbudował podczas swojej pracy jako szanowany rzemieślnik. Na jego egzekucję przybyło 40,000 widzów.
-
-### **FAKT**: Eugene Chantrelle - nauczyciel-morderca jako druga inspiracja
-Stevenson znał osobiście Eugene'a Chantrelle'a, francuskiego nauczyciela w Edynburgu, który w 1878 roku otruł swoją żonę opium. Jeremy Hodges twierdzi, że Stevenson był obecny podczas całego procesu i "gdy dowody się ujawniały, znalazł się, jak dr Jekyll, 'przerażony czynami Edwarda Hyde'a'."
-
-### **FAKT**: Chantrelle był podejrzewany o seryjne morderstwa
-Zespół prokuratorów poinformował Stevensona, że Chantrelle był podejrzewany o popełnienie innych morderstw we Francji i Anglii, a od czasu jego przyjazdu do Edynburga "więcej niż cztery czy pięć osób padło ofiarą jego małych kolacji i ulubionej potrawy - grillowanego sera z opium."
+### **FACT**: Writing while ill and possibly under the influence of cocaine (1885)
+Stevenson was bedridden with lung hemorrhage (probably tuberculosis). Some biographers claim he used cocaine prescribed for his bleeding lungs - in the 1880s it was discovered that cocaine constricts blood vessels. However, the standard story says he "was bedridden and sick during the writing."
 
 ---
 
-## PROCES PUBLIKACJI
+## INSPIRATIONS AND REAL CHARACTERS
 
-### **FAKT**: Nieudany start świąteczny (grudzień 1885)
-Według wydawcy Charlesa Longmana, książka była gotowa na Boże Narodzenie 1885, ale "kiedy była gotowa, stoiska były już pełne numerów świątecznych itp., a handel nie chciał na nią spojrzeć."
+### **FACT**: Furniture from a real criminal in the nursery
+Stevenson admitted in an interview: "In the room where I slept as a child in Edinburgh, there stood a wardrobe - and a very nice piece of craftsmanship it was - from the hands of the original Deacon Brodie." William "Deacon" Brodie (1741-1788) was a respected carpenter and Edinburgh councilman by day, and a burglar and thief by night.
 
-### **FAKT**: Amerykańskie wydanie 4 dni wcześniej niż brytyjskie (styczeń 1886)
-Amerykański wydawca wydał książkę 5 stycznia 1886, cztery dni przed pierwszym wydaniem brytyjskim Longmans. Scribner wydał 3000 egzemplarzy, z czego tylko 1250 w twardej oprawie.
+### **FACT**: Brodie's method - wax keys
+Brodie secretly made wax impressions of keys from wealthy clients (who readily lent them to him), then used these impressions to create his own keys. One technique involved pressing keys into putty to later make copies.
 
-### **FAKT**: "Shilling shocker" - książka za szyling
-Książka była początkowo sprzedawana jako broszura w papierowych okładkach za szyling w Wielkiej Brytanii i pensa w USA, co kwalifikowało ją jako "shilling shocker" lub "penny dreadful" - tanią sensacyjną literaturę dla klasy robotniczej.
+### **FACT**: Brodie was hanged on gallows he himself built
+On October 1, 1788, Brodie was hanged on gallows which - it is believed - he had built himself during his work as a respected craftsman. 40,000 spectators came to his execution.
 
-### **FAKT**: Recenzja w "The Times" jako przełom (25 stycznia 1886)
-Początkowo sklepy nie chciały książki w magazynie, dopóki nie ukazała się pozytywna recenzja w "The Times" 25 stycznia 1886. W ciągu następnych sześciu miesięcy sprzedano blisko 40,000 egzemplarzy.
+### **FACT**: Eugene Chantrelle - teacher-murderer as second inspiration
+Stevenson personally knew Eugene Chantrelle, a French teacher in Edinburgh, who in 1878 poisoned his wife with opium. Jeremy Hodges claims that Stevenson was present throughout the trial and "as the evidence was revealed, found himself, like Dr Jekyll, 'horrified by the actions of Edward Hyde'."
 
----
-
-## SUKCES KOMERCYJNY I KULTUROWY
-
-### **FAKT**: Pierwszy bestseller Stevensona
-Do 1901 roku sprzedano szacunkowo ponad 250,000 egzemplarzy tylko w Stanach Zjednoczonych. Książka zapewniła Stevensonowi sławę jako pisarzowi.
-
-### **FAKT**: Najczęściej filmowane dzieło literatury w erze kina niemego
-Troy Howarth nazywa nowelę Stevensona "najczęściej filmowanym dziełem literatury w erze kina niemego." Istnieje ponad 123 wersje filmowe, nie licząc adaptacji scenicznych i radiowych.
-
-### **FAKT**: Pierwsza adaptacja teatralna po roku od publikacji (1887)
-Thomas Russell Sullivan wystawił "Dr. Jekyll and Mr. Hyde" w Bostonie w maju 1887 roku. Była to pierwsza poważna adaptacja teatralna, która tournowała po Wielkiej Brytanii i grała przez 20 lat.
+### **FACT**: Chantrelle was suspected of serial murders
+The prosecution team informed Stevenson that Chantrelle was suspected of committing other murders in France and England, and since his arrival in Edinburgh "more than four or five people had fallen victim to his little dinners and favorite dish - grilled cheese with opium."
 
 ---
 
-## STEVENSON - KONTEKST BIOGRAFICZNY
+## PUBLICATION PROCESS
 
-### **FAKT**: Choroba jako stały towarzysz twórczości
-Stevenson opisywał siebie jako żyjącego "jak żuczek w biszkopcie" z powodu choroby. Mimo złego stanu zdrowia, w ciągu trzech lat w Bournemouth napisał większość swoich najpopularniejszych dzieł: "Treasure Island", "Kidnapped", "Jekyll and Hyde", "A Child's Garden of Verses" i "Underwoods".
+### **FACT**: Failed Christmas launch (December 1885)
+According to publisher Charles Longman, the book was ready for Christmas 1885, but "when it was ready, the stalls were already full of Christmas numbers etc., and the trade wouldn't look at it."
 
-### **FAKT**: Wczesna fascynacja podwójną naturą Brodie'ego
-Już jako nastolatek Stevenson napisał szkic sztuki o Williamie Brodiem, którą później przepracował z pomocą W.E. Henleya i po raz pierwszy wystawiono w 1882 roku. Fascynacja dichotomią między szanowaną fasadą Brodie'ego a jego prawdziwą naturą nigdy go nie opuściła.
+### **FACT**: American edition 4 days earlier than British (January 1886)
+The American publisher released the book on January 5, 1886, four days before the first British edition by Longmans. Scribner published 3,000 copies, of which only 1,250 were hardcover.
 
-### **FAKT**: Kontakt z narkotykami i bohemą
-Dekadę przed latami w Bournemouth Stevenson i jego kuzyn Bob "uganiali się za dziewczynami i palili haszysz (kiedy mogli go dostać)." Podczas okresów przykucia do łóżka był leczony kombinacją alkoholu, morfiny i opium.
+### **FACT**: "Shilling shocker" - book for a shilling
+The book was initially sold as a paperback pamphlet for a shilling in Britain and a penny in the USA, qualifying it as a "shilling shocker" or "penny dreadful" - cheap sensational literature for the working class.
 
----
-
-## CIEKAWOSTKI I ANEGDOTY
-
-### **FAKT**: Tytuł bez rodzajnika w pierwszym wydaniu
-Oryginalne wydanie nosiło tytuł "Strange Case of Dr. Jekyll and Mr. Hyde" - rodzajnik "The" pojawił się dopiero w późniejszych wydaniach.
-
-### **PLOTKA**: "Fine bogey tale" - ostatnie słowa przed obudzeniem
-Według relacji żony, kiedy go obudziła z koszmaru, Stevenson wykrzyknął: "Po co mnie budziłaś? Śniłem wspaniałą historię o duchach" ("I was dreaming a fine bogey tale").
-
-### **FAKT**: Ukończenie z poczuciem satysfakcji
-Po ukończeniu przepisanej wersji, przykuty do łóżka Stevenson powiedział swojemu lekarzowi: "Mam mój shilling shocker."
-
-### **FAKT**: Wpływ na psychologię i filozofię
-Nowela znacząco wpłynęła na nasze rozumienie ludzkiej tożsamości i złożoności natury ludzkiej, wpływając na dziedziny psychologii i filozofii.
-
-### **FAKT**: Przyczyna śmierci niezwiązana z gruźlicą
-Stevenson zmarł w Samoa w grudniu 1894 roku w wieku zaledwie 44 lat. Niezwykle - to nie była długoletnia choroba płuc (prawdopodobnie gruźlica), która go zabiła. Doznał masywnego udaru mózgu podczas próby otwarcia butelki wina.
+### **FACT**: Review in "The Times" as breakthrough (January 25, 1886)
+Initially shops didn't want the book in stock until a positive review appeared in "The Times" on January 25, 1886. Within the next six months, nearly 40,000 copies were sold.
 
 ---
 
-## REKORDY I STATYSTYKI
+## COMMERCIAL AND CULTURAL SUCCESS
 
-### **FAKT**: 30,000 słów w 72 godziny
-Pierwszy szkic liczył 30,000 słów napisanych w ciągu trzech dni - wyczyn, który do dziś jest uważany za w dużej mierze bezprecedensowy.
+### **FACT**: Stevenson's first bestseller
+By 1901, an estimated over 250,000 copies had been sold in the United States alone. The book established Stevenson's fame as a writer.
 
-### **FAKT**: Przepisanie w mniej niż tydzień
-Po spaleniu pierwszego rękopisu, Stevenson przepisał całą historię w mniej niż tydzień.
+### **FACT**: Most filmed work of literature in the silent film era
+Troy Howarth calls Stevenson's novella "the most filmed work of literature in the silent film era." There are over 123 film versions, not counting stage and radio adaptations.
 
-### **FAKT**: Od koszmaru do książki w 6 tygodni
-Cały proces od pierwotnego koszmaru do gotowej książki zajął około sześciu tygodni jesienią 1885 roku.
-
-### **FAKT**: 40,000 ludzi na egzekucji Brodie'ego
-Egzekucja Deacona Brodie'ego w 1788 roku przyciągnęła 40,000 widzów, co pokazuje, jak bardzo jego historia fascynowała społeczeństwo.
+### **FACT**: First theatrical adaptation a year after publication (1887)
+Thomas Russell Sullivan staged "Dr. Jekyll and Mr. Hyde" in Boston in May 1887. It was the first major theatrical adaptation, which toured Britain and played for 20 years.
 
 ---
 
-## WPŁYW NA KULTURĘ POPULARNĄ
+## STEVENSON - BIOGRAPHICAL CONTEXT
 
-### **FAKT**: Inspiracja dla komiksowych postaci
-Unikalny łuk narracyjny Stevensona prawdopodobnie zainspirował różne postacie, które od tamtej pory stały się ikonami kultury popularnej, w tym słynnych wrogów Batmana, takich jak Two Face, a nawet sam Joker, ze względu na uderzający kontrast osobowości.
+### **FACT**: Illness as constant companion of creativity
+Stevenson described himself as living "like a weevil in a biscuit" due to illness. Despite poor health, in three years in Bournemouth he wrote most of his most popular works: "Treasure Island," "Kidnapped," "Jekyll and Hyde," "A Child's Garden of Verses," and "Underwoods."
 
-### **FAKT**: Wpływ na gatunki horroru i science fiction
-Nowela miała znaczący wpływ na kulturę popularną, szczególnie w gatunkach horroru i science fiction. Eksploracja podwójnej natury człowieka zainspirowała niezliczone dzieła, w tym filmy takie jak "The Fly" (1958) i "The Thing" (1982).
+### **FACT**: Early fascination with Brodie's dual nature
+As a teenager, Stevenson had already written a sketch of a play about William Brodie, which he later reworked with W.E. Henley's help and first staged in 1882. The fascination with the dichotomy between Brodie's respectable facade and his true nature never left him.
 
-### **FAKT**: Odbicie lęków epoki wiktoriańskiej
-W narracji o szanowanym doktorze, który przemienia się w dzikiego mordercę, "Dr. Jekyll and Mr. Hyde" trafiło bezpośrednio w lęki epoki Stevensona - końca wieku, który był świadkiem zmierzchu kultury zachodniej i rosnącego poczucia pesymizmu.
+### **FACT**: Contact with drugs and bohemia
+A decade before his years in Bournemouth, Stevenson and his cousin Bob "chased girls and smoked hashish (when they could get it)." During periods of being bedridden, he was treated with a combination of alcohol, morphine, and opium.
 
 ---
 
-**PODSUMOWANIE**: Historia powstania "Strange Case of Dr Jekyll and Mr Hyde" to fascynujący sploty takich elementów jak: koszmarny sen, błyskawiczne pisanie w stanie choroby, spalenie rękopisu przez krytyczną żonę, inspiracje prawdziwymi przestępcami z Edynburga, publikacja jako tania sensacyjna literatura, która stała się klasykiem, oraz wpływ na całą kulturę popularną przez kolejne dekady. To jeden z najbarwniejszych przykładów jak życiowe doświadczenia autora, jego choroba i fascynacje połączyły się w dzieło, które do dziś definiuje nasz sposób myślenia o podwójnej naturze człowieka.
+## CURIOSITIES AND ANECDOTES
+
+### **FACT**: Title without article in first edition
+The original edition bore the title "Strange Case of Dr. Jekyll and Mr. Hyde" - the article "The" appeared only in later editions.
+
+### **RUMOR**: "Fine bogey tale" - last words before waking
+According to his wife's account, when she woke him from the nightmare, Stevenson exclaimed: "Why did you wake me up? I was dreaming a fine bogey tale."
+
+### **FACT**: Completion with satisfaction
+After completing the rewritten version, bedridden Stevenson told his doctor: "I have my shilling shocker."
+
+### **FACT**: Impact on psychology and philosophy
+The novella significantly influenced our understanding of human identity and the complexity of human nature, affecting the fields of psychology and philosophy.
+
+### **FACT**: Cause of death unrelated to tuberculosis
+Stevenson died in Samoa in December 1894 at only 44 years old. Remarkably - it wasn't the long-term lung disease (probably tuberculosis) that killed him. He suffered a massive stroke while trying to open a bottle of wine.
+
+---
+
+## RECORDS AND STATISTICS
+
+### **FACT**: 30,000 words in 72 hours
+The first draft consisted of 30,000 words written in three days - a feat that is still considered largely unprecedented today.
+
+### **FACT**: Rewrite in less than a week
+After burning the first manuscript, Stevenson rewrote the entire story in less than a week.
+
+### **FACT**: From nightmare to book in 6 weeks
+The entire process from the original nightmare to the finished book took about six weeks in autumn 1885.
+
+### **FACT**: 40,000 people at Brodie's execution
+Deacon Brodie's execution in 1788 attracted 40,000 spectators, showing how much his story fascinated society.
+
+---
+
+## IMPACT ON POPULAR CULTURE
+
+### **FACT**: Inspiration for comic book characters
+Stevenson's unique narrative arc probably inspired various characters that have since become icons of popular culture, including famous Batman villains like Two-Face, and even the Joker himself, due to the striking personality contrast.
+
+### **FACT**: Impact on horror and science fiction genres
+The novella had a significant impact on popular culture, particularly in horror and science fiction genres. The exploration of human dual nature inspired countless works, including films like "The Fly" (1958) and "The Thing" (1982).
+
+### **FACT**: Reflection of Victorian era fears
+In the narrative of a respected doctor who transforms into a savage murderer, "Dr. Jekyll and Mr. Hyde" struck directly at the fears of Stevenson's era - the end of a century that witnessed the twilight of Western culture and a growing sense of pessimism.
+
+---
+
+**SUMMARY**: The creation story of "Strange Case of Dr Jekyll and Mr Hyde" is a fascinating weaving of elements such as: a nightmarish dream, lightning-fast writing while ill, manuscript burning by a critical wife, inspirations from real Edinburgh criminals, publication as cheap sensational literature that became a classic, and influence on popular culture for decades to come. This is one of the most colorful examples of how an author's life experiences, illness, and fascinations combined into a work that still defines our way of thinking about human dual nature today.

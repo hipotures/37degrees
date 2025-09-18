@@ -1,190 +1,183 @@
-# Lokalny Kontekst Kulturowy: "Dwadzieścia tysięcy mil podmorskiej żeglugi" w Polsce
+# Local Cultural Context: "Twenty Thousand Leagues Under the Sea" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Dwadzieścia tysięcy mil podmorskiej żeglugi" Juliusza Verne'a ma szczególne miejsce w polskiej kulturze, nie tylko jako klasyk literatury młodzieżowej, ale też ze względu na ukryte polskie korzenie głównego bohatera - Kapitana Nemo. Ta powieść, która została opublikowana w Polsce niemal jednocześnie z francuskim oryginałem w 1870 roku, stała się ważnym elementem polskiej edukacji literackiej i kultury popularnej.
+Jules Verne's "Twenty Thousand Leagues Under the Sea" occupies a special place in Polish culture—not only as a classic of youth literature, but also because Captain Nemo originally carried Polish roots. Published in Poland almost simultaneously with the French edition in 1870, the novel became a staple of Polish literary education and popular culture.
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Wydania (XIX wiek)
-1. **1870** - Pierwsza publikacja w Polsce, niemal jednocześnie z wydaniem francuskim
-2. **1897** - Znaczące wydanie polskie dostępne w Wikiźródłach (tłumacz anonimowy)
-3. **1928** - Wydanie Gebethner i Wolff w Warszawie z ilustracjami de Neuville'a
-4. **Różne tytuły**: "Dwadzieścia tysięcy mil podmorskiej żeglugi", "Dwadzieścia tysięcy mil podmorskiej żeglugi około świata", "20 tysięcy mil podmorskiej żeglugi"
+### First Polish Editions (19th Century)
+1. **1870** – First Polish publication, appearing almost simultaneously with the French release.
+2. **1897** – Significant Polish edition now available via Wikisource (translator uncredited).
+3. **1928** – Gebethner i Wolff edition in Warsaw featuring de Neuville's illustrations.
+4. **Variant Titles** – Printed as "Dwadzieścia tysięcy mil podmorskiej żeglugi," "Dwadzieścia tysięcy mil podmorskiej żeglugi około świata," and shorthand "20 tysięcy mil podmorskiej żeglugi."
 
-### Współczesne Wydania
-- **1994** - Wydanie z 384 stronami w tłumaczeniu Bolesława Kielskiego
-- **Wolne Lektury** - Cyfrowa dostępność dzięki projektowi Biblioteki Narodowej
-- Liczne wydania w różnych wydawnictwach (Bellona, Zysk i S-ka, Greg)
+### Modern Polish Editions
+- **1994** – 384-page edition translated by Bolesław Kielski.
+- **Wolne Lektury** – Digitized open-access version provided by the National Library's project.
+- **Multiple Publishers** – Bellona, Zysk i S-ka, Greg, and others keep the title in print.
 
-## Polscy Tłumacze i Interpretacje
+## Polish Translators and Interpretations
 
-### Władysław Ludwik Anczyc (1823-1883)
-- Poet, dramaturg, wydawca, tłumacz i działacz ludowy
-- Tłumaczył inne dzieła Verne'a, w tym "Przygody trzech Rosjan i trzech Anglików w południowej Afryce"
-- Działał w okresie, gdy polska literatura musiała omijać carską cenzurę
+### Władysław Ludwik Anczyc (1823–1883)
+- Poet, playwright, publisher, translator, and social activist.
+- Rendered several Verne titles for Polish readers, including "Adventures of Three Russians and Three Englishmen in Southern Africa."
+- Worked during an era when Polish literature had to navigate Tsarist censorship.
 
-### Problem Tłumaczenia Jednostek
-Charakterystyczny problem polskich tłumaczeń: francuska "lieue marine" (liga morska) = 3 mile morskie (5556 m), więc francuski tytuł odnosi się do dystansu trzy razy dłuższego niż sugeruje polska wersja. To świadczy o adaptacyjnym podejściu polskich tłumaczy.
+### Translating Measurement Units
+A recurring Polish translation puzzle: the French "lieue marine" equals roughly three nautical miles (≈5,556 meters). The literal distance in the French title is three times longer than the Polish phrase suggests, highlighting adaptive decisions made for local readers.
 
-## Edukacja i Szkolnictwo
+## Education and School Use
 
-### Lektury Szkolne
-- **"W 80 dni dookoła świata"** - obowiązkowa lektura w polskich szkołach
-- **"Tajemnicza wyspa"** - jako lektura uzupełniająca z omówieniami edukacyjnymi
-- Wydania szkolne zawierają: odpowiedzi na pytania z podręcznika, szczegółowe streszczenia, plany wydarzeń, omówione wątki, charakterystyki bohaterów
+### Required Reading
+- **"Around the World in Eighty Days"** – Mandatory text in Polish primary schools.
+- **"The Mysterious Island"** – Supplementary reading supported with teaching guides.
+- School editions include workbook answers, detailed summaries, event timelines, character profiles, and thematic notes.
 
-### Wartości Edukacyjne w Polsce
-- Inspirowanie wyobraźni młodych czytelników
-- Promowanie zainteresowania nauką i eksploracją
-- Uczenie o naturze, wynalazkach, ludzkich możliwościach
-- Wartości: wytrwałość, walka z przeciwnościami, prawdziwa przyjaźń
+### Educational Value in Poland
+- Sparks imagination about exploration and technology.
+- Encourages curiosity about science and the natural world.
+- Emphasizes perseverance, friendship, and resilience.
+- Reinforces civic lessons about confronting oppression.
 
-## Adaptacje Teatralne i Filmowe
+## Stage and Screen Adaptations in Poland
 
-### Teatr Lalek we Wrocławiu
-- Spektakl "20 tysięcy mil podmorskiej żeglugi"
-- Reżyseria: Jakub Krofta, scenografia: Robert Smolík
-- Dla widzów od 7 lat
+### Wrocław Puppet Theatre
+- Production "20,000 Leagues Under the Sea."
+- Directed by Jakub Krofta with set design by Robert Smolík.
+- Recommended for audiences aged 7 and up.
 
-### Teatr Miniatura w Gdańsku
-- Wersja dla dzieci od 6 lat
-- Czas trwania: 55 minut
-- Przygody Kapitana Nemo i załogi Nautilusa
+### Teatr Miniatura in Gdańsk
+- Version for children aged 6+.
+- 55-minute staging of Nemo's adventures.
 
-### Teatr Muzyczny Capitol we Wrocławiu
-- Spektakl rodzinny (14-23 października 2022)
-- Tajemniczy Kapitan Nemo i legendarny okręt podwodny Nautilus
+### Teatr Muzyczny Capitol, Wrocław
+- Family production (14–23 October 2022) spotlighting Captain Nemo and the Nautilus.
 
-### Międzynarodowe Adaptacje Filmowe
-- **1954** - Słynna adaptacja Disneya z Kirkiem Douglasem i Jamesem Masonem
-- Wcześniejsze adaptacje: 1905 (Wallace McCutcheon), 1907 (Georges Méliès), 1916 (Stuart Paton)
-- **1997** - Adaptacja telewizyjna z Richardem Crenną
+### International Screen Adaptations Familiar to Poles
+- **1954** – Disney's celebrated film with Kirk Douglas and James Mason.
+- Earlier silent and early cinema versions: 1905 (Wallace McCutcheon), 1907 (Georges Méliès), 1916 (Stuart Paton).
+- **1997** – Television adaptation starring Richard Crenna, widely broadcast in Poland.
 
-### Komiks (2023)
-- Wydawnictwo Egmont, Warszawa
-- Scenariusz: Fabrizio Lo Bianco, ilustracje: Francesco Lo Storto
+### Comic Adaptation (2023)
+- Published by Egmont Poland.
+- Script by Fabrizio Lo Bianco; art by Francesco Lo Storto.
 
-## Polskie Korzenie Kapitana Nemo
+## Captain Nemo's Polish Origins
 
-### Oryginalna Koncepcja Verne'a
-1. **Listy do wydawcy** (kwiecień-maj 1869): "Załóżmy, że Nemo jest Polakiem, a zatopiony statek rosyjskim"
-2. **Charakterystyka**: "Polski arystokrata, którego córki zostały zgwałcone, żona zabita toporem, ojciec zmarł pod bičem, Polak, którego wszyscy przyjaciele zmarli na Syberrii"
-3. **Powstaniec styczniowy**: Miał być uczestnikiem Powstania Styczniowego, polskim szlachcicem i uczonym
+### Verne's Original Concept
+1. **Letters to Hetzel (April–May 1869)** – "Suppose Nemo is Polish, and the ship he sinks is Russian."
+2. **Character Sketch** – "A Polish aristocrat whose daughters were raped, wife killed with an axe, father beaten to death; a Pole whose friends perished in Siberia."
+3. **January Uprising Veteran** – Initially conceived as a Polish nobleman and scholar who fought the 1863 insurrection.
 
-### Przeszkody Wydawnicze
-- Wydawca Pierre-Jules Hetzel sprzeciwił się polskiej tożsamości bohatera
-- Obawa przed zakazem tłumaczenia na język rosyjski
-- W ostatecznej wersji Nemo stał się Hindusem (Księciem Dakkarem)
+### Publisher Roadblocks
+- Pierre-Jules Hetzel opposed emphasizing Nemo's Polish identity.
+- Concerned Russian censors would block translations.
+- Final canon reimagined Nemo as Prince Dakkar of India.
 
-### Dowody w Tekście
-- Portret Tadeusza Kościuszki na pokładzie Nautilusa
-- Modlitwa pod krzyżem podczas pogrzebu członka załogi
-- Walka przeciw tyranii i uciskowi
+### Clues Preserved in the Text
+- Portrait of Tadeusz Kościuszko displayed aboard the Nautilus.
+- Christian funeral prayer during a crewman's burial at sea.
+- Nemo's vendetta against imperial tyranny mirrors Polish resistance narratives.
 
-## Polskie Nawiązania Kulturowe
+## Polish Cultural References
 
-### Kapitan Nemo jako Wokalista
-- **Bogdan Tadeusz Gajkowski** (ur. 1950) - polski wokalista występujący jako "Kapitan Nemo"
-- Hit "Elektroniczna Cywilizacja" - szczyt Listy Przebojów Programu I Polskiego Radia
-- Prekursor nurtu new romantic w Polsce
+### Captain Nemo as Pop Singer
+- **Bogdan Tadeusz Gajkowski** (b. 1950) performed under the stage name "Kapitan Nemo."
+- Synth-pop hit "Elektroniczna cywilizacja" topped Polish Radio Program I charts.
+- Pioneer of the Polish new romantic wave.
 
-### Legenda o Juliuszu Olszewcu
-- **Lata 70. XIX wieku** - plotka, że Jules Verne to żyd z Płocka o nazwisku Julian Olszewiec
-- Verne z humorem nie zaprzeczył, dodając, że wyjeżdżając z Polski "uprowadził bogatą pannę zwaną Krakowianka"
+### The Julius Olszewiec Legend
+- **1870s** – Tabloids joked that Jules Verne was really a Jewish writer from Płock named Julian Olszewiec.
+- Verne playfully let the rumor stand, quipping he eloped with a wealthy woman nicknamed "the Krakowianka."
 
-### Fundacja Nautilus
-- Polska organizacja inspirowana książką "20 tysięcy mil podmorskiej żeglugi"
-- Nazwa NAUTILUS stała się rozpoznawalną marką w Polsce
+### Nautilus Foundation
+- Polish UFO and science-mystery organization founded in the 1990s.
+- Name inspired directly by Verne's submarine, making "Nautilus" a recognizable Polish brand.
 
-## Badania Akademickie i Interpretacje
+## Academic Research and Interpretations
 
-### Profesor Jan Tomkowski
-- Autor książki "Juliusz Verne – tajemnicza wyspa?"
-- Ujawnił wiele tajemnic związanych z postacią Kapitana Nemo
-- Badania nad pierwotną polską tożsamością bohatera
+### Professor Jan Tomkowski
+- Author of "Juliusz Verne – tajemnicza wyspa?"
+- Investigated the hidden Polish identity of Captain Nemo.
+- Highlights how Polish readers interpret the novel through national history.
 
-### Symbolika Nautilusa w Polsce
-1. **Symbol wolności i niepodległości** - szczególnie znaczący dla polskiej historii
-2. **Postęp technologiczny** połączony z oporem przeciw uciskowi
-3. **Statek zemsty** przeciw tyranii i kolonializmowi
-4. **Metafora polskiej walki** o niepodległość
+### Nautilus Symbolism in Poland
+1. **Emblem of Freedom and Independence** – Resonates with Poland's partition-era struggles.
+2. **Technological Progress vs. Oppression** – A fusion of innovation and resistance.
+3. **Vessel of Vengeance** – Revenge narrative against tyranny parallels Polish uprisings.
+4. **Metaphor for Polish Persistence** – Nautilus as an undersea insurgent craft.
 
 ### Jakub Fryderyk Hoffmann
-- Polski wynalazca z 1796 roku
-- Projekt "statku-ryby" do uwolnienia Kościuszki z Petersburga
-- Inspiracja morskim głowonogiem Nautilus Pompilius
+- Polish inventor (1796) who sketched a "fish-ship" to free Kościuszko from Petersburg.
+- Cited as an early inspiration for cephalopod-shaped submersibles such as the Nautilus pompilius.
 
-## Społeczność Fanów i Kluby Miłośników
+## Fan Communities and Reader Clubs
 
-### Polskie Towarzystwo Juliusza Verne'a (PTJV)
-- Prezes: Krzysztof Czubaszek
-- Wystąpienie na Mondial Jules Verne w Amiens (22 marca 2005)
+### Polish Jules Verne Society (PTJV)
+- Led by Krzysztof Czubaszek.
+- Presented at the Mondial Jules Verne in Amiens on 22 March 2005.
 
-### Historia Klubów Miłośników
-1. **1982** - Winicjusz Łachaciński założył Klub Miłośników Juliusza Verne'a w Łodzi
-2. **1987** - Ogólnopolski Klub Miłośników Juliusza Verne'a (z gazetą "Świat Młodych")
-3. **1988** - Klub w Szkole Podstawowej nr 16 w Pabianicach
+### History of Polish Fan Clubs
+1. **1982** – Winicjusz Łachaciński founded the Jules Verne Fan Club in Łódź.
+2. **1987** – Nationwide club launched with "Świat Młodych" youth magazine support.
+3. **1988** – Club chapter opened at Primary School No. 16 in Pabianice.
 
-### Współczesne Społeczności Online
-- **Lubimyczytac.pl** - główne forum dyskusji o książkach Verne'a
-- Dyskusje o jakości wydań, tłumaczeniach, ilustracjach
-- Wymiana opinii i recenzji między czytelnikami
+### Contemporary Online Communities
+- **Lubimyczytac.pl** hosts active forums comparing translations, editions, and illustrations.
+- Readers trade reviews, school notes, and collectible tips.
 
-## Problemy Tłumaczeniowe i Kulturowe Różnice
+## Translation Challenges and Cultural Differences
 
-### Cenzura i Adaptacja
-- Ukrywanie polskich wątków z powodu sytuacji politycznej
-- Dostosowywanie treści do lokalnych warunków
-- Różnice w interpretacji postaci i motywów
+### Censorship and Adaptation
+- Polish editions downplayed Nemo's homeland to survive Tsarist censorship.
+- Editors localized terminology and context for Polish classrooms.
+- Interpretations of characters and motives shift to mirror Polish struggles.
 
-### Jednostki Miary
-- Francuska "lieue marine" vs polska "mila"
-- Różnice w długości dystansu (trzykrotnie dłuższy w oryginale)
-- Adaptacja dla polskiego czytelnika
+### Measurement Units
+- French "lieue marine" vs. Polish "mila" creates distance discrepancies (3× longer in the original).
+- Polish translators often adapt to familiar units for readability.
 
-### Kontekst Historyczny
-- Związek z Powstaniem Styczniowym
-- Rosyjska cenzura i ograniczenia wydawnicze
-- Polskie sympatie w okresie zaborów
+### Historical Context
+- Novel echoes the January Uprising and Polish resistance to Tsarist rule.
+- Russian censorship shaped publication pathways.
+- Polish readers historically sympathized with anti-imperial motifs.
 
-## Znaczenie dla Krakowian i Małopolski
+## Relevance for Kraków and Lesser Poland
 
-### Kościuszko jako Symbol
-- Portret Tadeusza Kościuszki na Nautilusie
-- Krakowskie korzenie bohatera narodowego
-- Związek z polską walką o wolność
+### Kościuszko as Regional Icon
+- Nautilus displays Kościuszko's portrait; the hero is tied to Kraków history.
+- Reinforces local pride in Małopolska's independence legacy.
 
-### Edukacyjne Znaczenie Regionalne
-- Lektura w szkołach małopolskich
-- Teatry regionalne adaptujące dzieło
-- Lokalne inicjatywy kulturalne
+### Educational Impact in the Region
+- Frequently assigned in Lesser Poland schools with dedicated lesson plans.
+- Regional theatres mount adaptations for families and students.
+- Cultural centers host Verne-themed events and exhibitions.
 
-## Easter Eggi dla Polskich Czytelników
+## Easter Eggs for Polish Readers
 
-1. **Portret Kościuszki** - ukryty polski akcent w oryginalnym tekście
-2. **Chrześcijańska modlitwa** - wskazówka na polską tożsamość Nemo
-3. **Walka z rosyjskimi statkami** - pierwotny motyw zemsty za Powstanie Styczniowe
-4. **Język załogi** - miał być pierwotnie polski
-5. **Arystokratyczne pochodzenie** - nawiązanie do polskiego szlachectwa
+1. **Kościuszko's Portrait** – Hidden Polish clue woven into the original narrative.
+2. **Christian Prayer** – Funeral rites hint at Nemo's Catholic-coded background.
+3. **Anti-Russian Vendetta** – Early drafts framed Nemo's mission as payback for the January Uprising.
+4. **Crew Language** – Verne initially imagined Polish spoken aboard the Nautilus.
+5. **Noble Lineage** – Character profile evokes Polish szlachta traditions.
 
-## Współczesna Recepcja
+## Contemporary Reception
 
-### Media i Dyskusja Publiczna
-- Artykuły w "Tygodniku Powszechnym", "Dzienniku", "Rzeczpospolitej"
-- Postulaty przywrócenia polskiej tożsamości Nemo
-- Dyskusje w kontekście polskiego dziedzictwa kulturowego
+### Media and Public Debate
+- Articles in "Tygodnik Powszechny," "Dziennik," and "Rzeczpospolita" argue for reinstating Nemo's Polish identity.
+- Commentators discuss the novel when reflecting on Polish cultural heritage.
 
-### Znaczenie dla Młodych Polskich Czytelników
-- Poczucie dumy narodowej (ukryty polski bohater)
-- Inspiracja do nauki i eksploracji
-- Wartości wolności i oporu przeciw uciskowi
-- Połączenie przygody z patriotyzmem
+### Significance for Young Polish Readers
+- Pride in a covertly Polish literary hero.
+- Motivation to pursue science and exploration.
+- Lessons on freedom, resistance, and moral courage.
+- Blend of adventure storytelling with patriotic undertones.
 
-## Podsumowanie
+## Summary
 
-"Dwadzieścia tysięcy mil podmorskiej żeglugi" ma wyjątkowe miejsce w polskiej kulturze ze względu na ukryte polskie korzenie Kapitana Nemo. Książka nie tylko inspiruje młodych czytelników do nauki i przygody, ale także niesie głębokie przesłanie o walce z uciskiem i tyranii - szczególnie rezonujące z polskim doświadczeniem historycznym. Polscy czytelnicy mogą odczuwać szczególną więź z tym dziełem, wiedząc, że jego główny bohater był pierwotnie zamyślany jako polski powstaniec walczący o wolność swojego narodu.
+"Twenty Thousand Leagues Under the Sea" resonates deeply in Poland because Captain Nemo was originally imagined as a Polish insurgent. The novel inspires young readers to explore science while reflecting on historical struggles against oppression. For Polish audiences, especially in regions like Lesser Poland, Nemo's secret ancestry transforms the story into an enduring tale of national resilience.
 
 ---
-*Opracowanie: System badawczy 37degrees*  
-*Data: 30 sierpnia 2025*
+*Prepared by the 37degrees research system*  
+*Date: 30 August 2025*

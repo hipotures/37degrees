@@ -4,3 +4,169 @@ book_info:
   author: "H.G. Wells"
   year: 1898
   genre: "Science fiction,Alien invasion"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-19T23:15:42Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 10
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 10
+    structural_complexity: 5
+    social_roles: 7
+    total: 66
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 8.2
+      category: "high"
+    heat:
+      value: 8.2
+      category: "high"
+
+  themes:
+    universal:
+      - id: "imperial_critique_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Wells compared Martian invasion to genocide of Aboriginal Tasmanians by British colonists"
+        source: "dark_drama"
+      - id: "technological_prophecy_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted atomic bombs, gas warfare, laser weapons, tanks 30 years before reality"
+        source: "reality_wisdom"
+      - id: "genre_creation_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "First alien invasion novel, established all patterns for science fiction genre"
+        source: "writing_innovation"
+      - id: "media_panic_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "1938 radio broadcast first 'fake news' phenomenon, precursor to social media panic"
+        source: "culture_impact"
+      - id: "evolutionary_philosophy_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Darwinist themes: survival of fittest, adaptation failure, human hubris critique"
+        source: "symbols_meanings"
+      - id: "social_collapse_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Precise depiction of civilization breakdown, class structure collapse"
+        source: "symbols_meanings"
+      - id: "ai_anxiety_7"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Wells predicted AI fears 125 years ago, youth connect to technology anxiety"
+        source: "youth_digital"
+      - id: "author_controversy_8"
+        type: "DISPUTE"
+        credibility: 0.70
+        content: "Wells' eugenic views and racist statements create modern interpretation challenges"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Foundational science fiction text, continuous academic study"
+        key_editions: ["Oxford World's Classics", "Penguin Classics", "Norton Critical Editions"]
+        reception_notes: "Canonical status in Western literature, postcolonial analysis"
+        educational_status: "University syllabi standard, GCSE literature curriculum"
+        local_themes: ["Colonial discourse analysis", "Imperial satire tradition", "British anxiety studies"]
+      pl:
+        cultural_impact: "First SF translation (1899), influenced Polish fantasy development"
+        key_editions: ["Henryk Józefowicz translation (1958)", "Stefan Barszczewski (2023)"]
+        reception_notes: "Safe during communist era, identified with occupation victims"
+        educational_status: "Supplementary reading, not mandatory curriculum"
+        local_themes: ["Anti-occupation resistance", "Foreign invasion fears", "Stanisław Lem connection"]
+      de:
+        cultural_impact: "Early translation (1901), strong educational integration"
+        key_editions: ["Diogenes Zürich", "Fischer Taschenbuch", "Reclam editions"]
+        reception_notes: "Theater adaptations with environmental themes"
+        educational_status: "Gymnasium reading material, Abitur analysis"
+        local_themes: ["Environmental preservation", "Technology criticism", "World War resonances"]
+      fr:
+        cultural_impact: "Henry Durand-Davray translation, philosophical reception"
+        key_editions: ["Mercure de France", "Gallimard Folio collection"]
+        reception_notes: "Immediate philosophical recognition, structuralist themes"
+        educational_status: "Lycée curricula, Sorbonne research"
+        local_themes: ["Colonial discourse critique", "Philosophical meditation", "Structuralist analysis"]
+      es:
+        cultural_impact: "Ramiro de Maeztu translation, educational integration"
+        key_editions: ["Editorial Planeta", "Alianza Editorial"]
+        reception_notes: "Foundation of invasion literature genre"
+        educational_status: "Argentina didactic sequences, SEP distribution"
+        local_themes: ["Science fiction origins", "Human vanity critique", "Technology dangers"]
+      pt:
+        cultural_impact: "Brazilian artistic legacy through Henrique Alvim Corrêa illustrations"
+        key_editions: ["Companhia das Letras", "Nova Fronteira luxury edition"]
+        reception_notes: "1971 Brazilian radio adaptation, academic research"
+        educational_status: "ENEM/Vestibular relevance, university research"
+        local_themes: ["Brazilian artistic heritage", "Colonial experience parallels", "Scientific speculation"]
+      ja:
+        cultural_impact: "Multiple translations, tokusatsu genre influence"
+        key_editions: ["Sōgen SF Bunko", "Kadokawa Bunko", "Hayakawa SF series"]
+        reception_notes: "Influenced post-war anxieties, disaster narrative perspective"
+        educational_status: "University SF research communities"
+        local_themes: ["Post-war technological anxiety", "Natural disaster parallels", "Collective survival"]
+      ko:
+        cultural_impact: "우주전쟁 standard translation, academic analysis"
+        key_editions: ["Minumsa Golden Bough series", "Multiple publishers"]
+        reception_notes: "Anti-imperial reading, technological prediction focus"
+        educational_status: "STEM education connections"
+        local_themes: ["Anti-imperial resistance", "Technology prophecy", "Scientific rationalism"]
+      hi:
+        cultural_impact: "Postcolonial interpretation, Cambridge curriculum integration"
+        key_editions: ["Penguin India", "Bengali translations"]
+        reception_notes: "Reverse colonization theory, Satyajit Ray influence"
+        educational_status: "IGCSE literature syllabus"
+        local_themes: ["Reverse colonization", "Independence discourse", "Technology disparity"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions about the invasion"
+        host_b: "eyewitness describing events vividly"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:45"
+          topic: "initial_investigation"
+          lead: "host_a"
+          description: "Investigating the mysterious 'falling stars' and first cylinder landing"
+        - segment: 2
+          time_range: "03:45-07:30"
+          topic: "invasion_unfolds"
+          lead: "host_b"
+          description: "Witnessing the Heat-Ray attack and tripod emergence"
+        - segment: 3
+          time_range: "07:30-11:15"
+          topic: "discovery_horror"
+          lead: "host_a"
+          description: "Uncovering Martian biology and human farming revelations"
+        - segment: 4
+          time_range: "11:15-15:00"
+          topic: "aftermath_reflection"
+          lead: "host_b"
+          description: "The bacterial victory and civilization's lessons learned"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter. Ask about key events in 'The War of the Worlds', seek details about the Martian invasion, uncover hidden meanings behind Wells' Imperial critique and technological prophecies. Focus on the pseudo-documentary aspects and the author's prophetic vision."
+        host_b: "You are {female_name}, an eyewitness to the invasion story. Describe scenes vividly from the cylinder landing to the Heat-Ray attacks, share emotional impact of civilization's collapse, bring the narrative to life with Wells' precise geographical details and atmospheric descriptions."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["Science fiction violence descriptions", "Historical violence discussion", "Author's controversial views mentioned in critical context"]
+    educational_elements: ["Science fiction genre origins", "Imperial critique analysis", "Technological prophecy study"]
+    production_notes:
+      intro_style: "Mysterious radio transmission opening"
+      transitions: "Subtle mechanical sound bridges"
+      outro_style: "Reflective scientific conclusion"
+
+  overall_confidence: 0.90

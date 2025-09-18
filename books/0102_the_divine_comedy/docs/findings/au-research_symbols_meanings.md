@@ -1,481 +1,481 @@
-# Boska Komedia: Analiza Symboli i Ukrytych Znaczeń
+# The Divine Comedy: Analysis of Symbols and Hidden Meanings
 
-## Wprowadzenie
+## Introduction
 
-"Boska Komedia" Dantego Alighieri to dzieło "niemal przesycone symbolizmem", które można czytać na czterech poziomach interpretacji: dosłownym, alegorycznym, moralnym i anagogicznym. Współczesni czytelnicy często pomijają odniesienia, które czytelnik XIV wieku łatwo rozpoznawał. Ta analiza odkrywa wielowarstwowe znaczenia dzieła, od średniowiecznej mistyki liczbowej po współczesne interpretacje psychologiczne.
+Dante Alighieri's "The Divine Comedy" is a work "almost saturated with symbolism" that can be read on four levels of interpretation: literal, allegorical, moral, and anagogical. Contemporary readers often miss references that a 14th-century reader would easily recognize. This analysis uncovers the multi-layered meanings of the work, from medieval numerical mysticism to contemporary psychological interpretations.
 
-## 1. Struktura Kosmologiczna i Symbolizm Liczbowy
+## 1. Cosmological Structure and Numerical Symbolism
 
-### Święta Trójca w Architekturze Dzieła
+### The Holy Trinity in the Architecture of the Work
 
-**Dominacja liczby 3:**
-- Trzy części dzieła (Piekło, Czyściec, Raj)
-- Każda część składa się z 33 pieśni (lata życia Chrystusa)
-- Tercyna - trzywersowa strofa z rymem aba bcb cdc
-- Trzy przewodników: Wergiliusz, Beatrycze, Święty Bernard
-- Trzy bestie na początku: pantera (zmysłowość), lew (pycha), wilczyca (chciwość)
+**Dominance of the number 3:**
+- Three parts of the work (Hell, Purgatory, Paradise)
+- Each part consists of 33 cantos (years of Christ's life)
+- Terza rima - three-line stanza with aba bcb cdc rhyme scheme
+- Three guides: Virgil, Beatrice, Saint Bernard
+- Three beasts at the beginning: panther (lust), lion (pride), she-wolf (greed)
 
-**Numerologia średniowieczna:**
-Dante wykorzystywał głównie cyfry 3, 7, 9, 10, ponieważ nie przeczyły sobie nawzajem, ale czyniły dzieło kompletnym i doskonałym. Liczba 9 ma szczególne znaczenie w "Vita Nova" i "Boskiej Komedii" - reprezentuje wielokrotność Trójcy Świętej.
+**Medieval numerology:**
+Dante primarily used the numbers 3, 7, 9, 10, because they did not contradict each other but made the work complete and perfect. The number 9 has special significance in "Vita Nova" and "The Divine Comedy" - it represents the multiplicity of the Holy Trinity.
 
-### Pitagorejska Muzyka Sfer
+### Pythagorean Music of the Spheres
 
-Dante oparł kompleksową architekturę Komedii na matematycznej musica universalis inherentnej kosmologii ptolemejskiej. Wykorzystał trzynaście nut z hexachorda dura ułożonych według fundamentalnych pitagorejskich interwałów muzycznych, aby stworzyć projekt poetycko-mimetycznego znaku kosmosu.
+Dante based the complex architecture of the Comedy on the mathematical musica universalis inherent in Ptolemaic cosmology. He used thirteen notes from the hexachord arranged according to fundamental Pythagorean musical intervals to create a poetic-mimetic design of the cosmos.
 
-## 2. Wielopoziomowa Alegoria Duchowa
+## 2. Multi-level Spiritual Allegory
 
-### Podróż Duszy jako Archetyp Uniwersalny
+### The Soul's Journey as Universal Archetype
 
-**Trzy etapy duchowego rozwoju:**
-- **Inferno**: Rozpoznanie i odrzucenie grzechu
-- **Purgatorio**: Życie pokutnicze chrześcijanina
-- **Paradiso**: Wstąpienie duszy do Boga
+**Three stages of spiritual development:**
+- **Inferno**: Recognition and rejection of sin
+- **Purgatorio**: The penitential life of a Christian
+- **Paradiso**: The soul's ascension to God
 
-Ta struktura odpowiada trzystopniowemu procesowi sakramentu pokuty: spowiedź, pokuta i rozgrzeszenie.
+This structure corresponds to the three-stage process of the sacrament of penance: confession, penance, and absolution.
 
-### Contrapasso - Symboliczna Sprawiedliwość
+### Contrapasso - Symbolic Justice
 
-System kar w Piekle opiera się na średniowiecznej zasadzie contrapasso, gdzie kary są dystrybuowane zgodnie z grzechami popełnionymi w życiu. To symboliczne zastosowanie sprawiedliwości poetyckiej, gdzie każda kara koresponduje symbolicznie z popełnionym grzechem.
+The punishment system in Hell is based on the medieval principle of contrapasso, where punishments are distributed according to sins committed in life. This is a symbolic application of poetic justice, where each punishment corresponds symbolically to the committed sin.
 
-## 3. Symbolizm Postaci i Przewodników
+## 3. Symbolism of Characters and Guides
 
-### Wergiliusz - Rozum Ludzki i Mądrość Klasyczna
+### Virgil - Human Reason and Classical Wisdom
 
-Wergiliusz reprezentuje rozum ludzki, wiedzę klasyczną i mądrość filozoficzną. Jako pogański poeta, może prowadzić Dantego tylko do granic ziemskiego poznania - przez Piekło i Czyściec, ale nie może wejść do Raju, gdzie potrzebna jest łaska boska.
+Virgil represents human reason, classical knowledge, and philosophical wisdom. As a pagan poet, he can guide Dante only to the limits of earthly knowledge - through Hell and Purgatory, but cannot enter Paradise, where divine grace is needed.
 
-### Beatrycze - Objawienie Boskie i Łaska
+### Beatrice - Divine Revelation and Grace
 
-Beatrycze symbolizuje objawienie boskie, teologię, łaskę i wiarę. W interpretacji jungowskiej reprezentuje animę - kobiecy aspekt męskiej psyche, który prowadzi duchową transformację. Jej pojawienie się oznacza przejście od rozumu do mistycznego poznania.
+Beatrice symbolizes divine revelation, theology, grace, and faith. In Jungian interpretation, she represents the anima - the feminine aspect of the male psyche that leads spiritual transformation. Her appearance marks the transition from reason to mystical knowledge.
 
-### Święty Bernard - Mistyka Kontemplacyjna
+### Saint Bernard - Contemplative Mysticism
 
-Święty Bernard z Clairvaux reprezentuje mistykę kontemplacyjną i nabożeństwo do Maryi. Prowadzi Dantego w ostatniej fazie podróży do bezpośredniego oglądania Boga (Visio Beatifica).
+Saint Bernard of Clairvaux represents contemplative mysticism and devotion to Mary. He guides Dante in the final phase of the journey to the direct vision of God (Visio Beatifica).
 
-## 4. Ukryte Znaczenia Islamo-Chrześcijańskie
+## 4. Hidden Islamic-Christian Meanings
 
-### Wpływ Filozofii Islamskiej
+### Influence of Islamic Philosophy
 
-W 1919 Miguel Asín Palacios opublikował przełomowe badanie wykazujące, że Dante czerpał wiele elementów z islamskich źródeł duchowych, szczególnie z pism Ibn Arabiego i z tradycji Isra i Mi'raj - nocnej podróży Mahometa do nieba.
+In 1919, Miguel Asín Palacios published groundbreaking research showing that Dante drew many elements from Islamic spiritual sources, particularly from the writings of Ibn Arabi and from the tradition of Isra and Mi'raj - Muhammad's night journey to heaven.
 
-**Dwunastu mędrców w Raju:**
-Tomasz z Akwinu i Siger z Brabantu, których Dante spotyka w X pieśni Paradiso, byli silnie wpływani przez arabskich komentatorów Arystotelesa. Dante umieścił również Awerroesa i Awicennę w Limbusie, okazując szacunek islamskim filozofom.
+**Twelve sages in Paradise:**
+Thomas Aquinas and Siger of Brabant, whom Dante meets in the X canto of Paradiso, were strongly influenced by Arab commentators on Aristotle. Dante also placed Averroes and Avicenna in Limbo, showing respect for Islamic philosophers.
 
-### Synkretyzm Religijny
+### Religious Syncretism
 
-Dzieło reprezentuje niezwykłą syntezę różnych tradycji kulturowych - islamskiej, chrześcijańskiej i żydowskiej - w obrębie średniowiecznej literatury europejskiej. To cross-kulturalne zapylanie pokazuje wymianę intelektualną istniejącą w średniowiecznej Europie.
+The work represents an extraordinary synthesis of different cultural traditions - Islamic, Christian, and Jewish - within medieval European literature. This cross-cultural pollination shows the intellectual exchange existing in medieval Europe.
 
-## 5. Interpretacje Psychologiczne i Jungowskie
+## 5. Psychological and Jungian Interpretations
 
-### Proces Indywiduacji
+### The Process of Individuation
 
-Współczesna analiza jungowska interpretuje podróż Dantego jako archetypalny proces indywiduacji:
+Contemporary Jungian analysis interprets Dante's journey as an archetypal process of individuation:
 
-- **Piekło**: Konfrontacja z cieniem - odpychającymi aspektami psyche
-- **Czyściec**: Praca nad oczyszczeniem i integracją
-- **Raj**: Osiągnięcie całości i jedności z Sobą
+- **Hell**: Confrontation with the shadow - repulsive aspects of the psyche
+- **Purgatory**: Work on purification and integration
+- **Paradise**: Achievement of wholeness and unity with the Self
 
-### Archetypy Kolektywnej Nieświadomości
+### Archetypes of the Collective Unconscious
 
-Robert Assagioli uważał centralne symboliczne znaczenie tego epickiego poematu za "wspaniały obraz kompletnej psychosyntezy". Praca z cieniem w Piekle, integracja anima przez Beatrycze, i ostateczna transformacja reprezentują uniwersalne wzorce rozwoju psychicznego.
+Robert Assagioli considered the central symbolic meaning of this epic poem a "magnificent image of complete psychosynthesis." The work with the shadow in Hell, anima integration through Beatrice, and ultimate transformation represent universal patterns of psychological development.
 
-### Zastosowania Terapeutyczne
+### Therapeutic Applications
 
-Współcześni analitycy jungowscy często wykorzystują Boską Komedię jako ramę terapeutyczną, pomagając klientom w nawigowaniu przez ich własny "ciemny las" psychologicznego kryzysu poprzez kierowaną wyobraźnię i interpretację symboliczną.
+Contemporary Jungian analysts often use The Divine Comedy as a therapeutic framework, helping clients navigate through their own "dark forest" of psychological crisis through guided imagery and symbolic interpretation.
 
-## 6. Ukryte Symbole Astronomiczne i Alchemiczne
+## 6. Hidden Astronomical and Alchemical Symbols
 
-### Astrologia Średniowieczna
+### Medieval Astrology
 
-Dante żył w okresie, gdy "przepowiednia, wróżbiarstwo, magia, alchemia i astrologia były intensywnie cenione i intensywnie debatowane". Włączył do dzieła historycznych astrologów jak Michael Scot i Guido Bonatti, umieszczając ich wśród czarowników w Piekle.
+Dante lived in a period when "prophecy, divination, magic, alchemy, and astrology were intensely valued and intensely debated." He included historical astrologers like Michael Scot and Guido Bonatti in the work, placing them among the sorcerers in Hell.
 
-### Struktura Alchemiczna
+### Alchemical Structure
 
-Dzieło inkorporuje symbolizm alchemiczny:
-- Piekło odpowiada alchemicznemu elementowi Ziemi
-- Czyściec - elementowi Powietrza  
-- Raj - elementowi Ognia
-- Cała podróż reprezentuje alchemiczną transmutację duszy
+The work incorporates alchemical symbolism:
+- Hell corresponds to the alchemical element of Earth
+- Purgatory - to the element of Air
+- Paradise - to the element of Fire
+- The entire journey represents the alchemical transmutation of the soul
 
-### Geometria Sakralna
+### Sacred Geometry
 
-Kosmologia Dantego odzwierciedla średniowieczne rozumienie naukowe oparte na systemie ptolemejskim. Opis równika i ekliptyki w kształcie X z końcami zagiętymi w koła precyzyjnie odpowiada sposobowi, w jaki astrologowie i astronomowie przedstawiali te linie.
+Dante's cosmology reflects medieval scientific understanding based on the Ptolemaic system. The description of the equator and ecliptic in an X shape with ends curved into circles precisely corresponds to how astrologers and astronomers represented these lines.
 
-## 7. Symbolizm Polityczny i Społeczny
+## 7. Political and Social Symbolism
 
-### Alegoria Polityczna
+### Political Allegory
 
-Boska Komedia to równie bardzo dzieło filozofii politycznej (lub teologii politycznej), co alegorii teologicznej. Piekło jest miastem - miastem Dis, reprezentującym nieuporządkowaną, anty-relacyjną polis, kontrastującą z Rajem jako uporządkowanym, relacyjnym, pięknym i kochającym miastem.
+The Divine Comedy is as much a work of political philosophy (or political theology) as it is theological allegory. Hell is a city - the city of Dis, representing a disordered, anti-relational polis, contrasting with Paradise as an ordered, relational, beautiful, and loving city.
 
-### Krytyka Władzy
+### Critique of Power
 
-Dante wykorzystuje dzieło do krytyki współczesnych mu struktur władzy, umieszczając papieży i władców w różnych kręgach Piekła za korupcję i nadużycia. To śmiała krytyka zarówno władzy świeckiej, jak i kościelnej.
+Dante uses the work to critique the power structures of his time, placing popes and rulers in various circles of Hell for corruption and abuse. This is a bold criticism of both secular and ecclesiastical power.
 
-## 8. Interpretacje Feministyczne i Postkolonialne
+## 8. Feminist and Postcolonial Interpretations
 
-### Współczesne Odczytania Feministyczne
+### Contemporary Feminist Readings
 
-**Reinterpretacje kobiecych postaci:**
-Lesya Ukrainka w poemacie "Zapomniano cień" (1898) przedstawia feministyczną reinterpretację relacji Dantego i Beatrycze, koncentrując się na Gemmie Donati, żonie Alighieri. Monique Wittig w "Virgile, Non" tworzy lesbijsko-feministyczną parodię Boskiej Komedii.
+**Reinterpretations of female characters:**
+Lesya Ukrainka in the poem "The Forgotten Shadow" (1898) presents a feminist reinterpretation of Dante and Beatrice's relationship, focusing on Gemma Donati, Alighieri's wife. Monique Wittig in "Virgile, Non" creates a lesbian-feminist parody of The Divine Comedy.
 
-### Odczytania Postkolonialne
+### Postcolonial Readings
 
-Współczesne badania akademickie obejmują "różnorodne podejścia" w tym "queer, post- i dekolonialne oraz feministyczne studia". Autorzy karaibscy jak Edward Kamau Brathwaite i Lorna Goodison wykorzystali Dantego w artykułowaniu koncepcji "języka narodowego" i eksploracji splątanych relacji języka, rasy i władzy w kontekście kolonialnym.
+Contemporary academic studies include "diverse approaches" including "queer, post- and decolonial as well as feminist studies." Caribbean authors like Edward Kamau Brathwaite and Lorna Goodison have used Dante in articulating concepts of "national language" and exploring the entangled relations of language, race, and power in colonial contexts.
 
-## 9. Eschatologia i Mistyka
+## 9. Eschatology and Mysticism
 
-### Wizja Zaświatów
+### Vision of the Afterlife
 
-Wyobraźnia wizji zaświatów reprezentuje średniowieczny światopogląd istniejący w Kościele Zachodnim do XIV wieku. Trzyczęściowa struktura odzwierciedla tradycyjną chrześcijańską eschatologię, ale też inkorporuje elementy z innych tradycji religijnych.
+The imagination of the vision of the afterlife represents the medieval worldview existing in the Western Church until the 14th century. The three-part structure reflects traditional Christian eschatology but also incorporates elements from other religious traditions.
 
-### Symbolizm Przestrzeni
+### Symbolism of Space
 
-**Pionowa oś świata:**
-Podróż z najniższego punktu Piekła (środek Ziemi) przez górę Czyśćca do sfer rajskich reprezentuje oś mundi - kosmiczną oś łączącą wszystkie poziomy rzeczywistości.
+**Vertical axis of the world:**
+The journey from the lowest point of Hell (center of Earth) through the mountain of Purgatory to the celestial spheres represents the axis mundi - the cosmic axis connecting all levels of reality.
 
-## 10. Symbolizm Kolorów i Elementów
+## 10. Color and Element Symbolism
 
-### Symbolika Światła i Ciemności
+### Symbolism of Light and Darkness
 
-**Progresja świetlna:**
-- Piekło: ciemność, cienie, brak światła
-- Czyściec: świt, przejściowe oświetlenie  
-- Raj: czyste światło, blask boskiej łaski
+**Light progression:**
+- Hell: darkness, shadows, absence of light
+- Purgatory: dawn, transitional illumination
+- Paradise: pure light, radiance of divine grace
 
-Ta progresja reprezentuje duchowe oświecenie i poznanie prawdy.
+This progression represents spiritual enlightenment and knowledge of truth.
 
-### Cztery Elementy Klasyczne
+### Four Classical Elements
 
-Struktura dzieła odpowiada klasycznym elementom:
-- Ziemia (Piekło): materialność, ciężkość
-- Woda (rzeki w Piekle i Czyśćcu): oczyszczenie
-- Powietrze (wiatr na górze Czyśćca): duch
-- Ogień (światło w Raju): boska miłość
+The structure of the work corresponds to classical elements:
+- Earth (Hell): materiality, heaviness
+- Water (rivers in Hell and Purgatory): purification
+- Air (wind on Mount Purgatory): spirit
+- Fire (light in Paradise): divine love
 
-## 11. Ukryte Odniesienia Biblijne i Teologiczne
+## 11. Hidden Biblical and Theological References
 
-### Pięćset Cytatów Biblijnych
+### Five Hundred Biblical Quotations
 
-Boska Komedia zawiera około pięćset bezpośrednich cytatów i odniesień wywodzących się z Biblii. Dante traktuje Biblię jako ostateczny autorytet w każdej sprawie, włączając tematy, do których Pismo Święte podchodzi tylko alegorycznie.
+The Divine Comedy contains about five hundred direct quotations and references derived from the Bible. Dante treats the Bible as the ultimate authority in every matter, including topics that Scripture approaches only allegorically.
 
-### Egzegeza Średniowieczna
+### Medieval Exegesis
 
-Zgodnie z tradycją średniowiecznej egzegezy biblijnej, Komedia może być czytana przez wielokrotne sensy alegoryczne poza sensem historycznym, zmuszając czytelników do odkrywania różnych poziomów znaczenia.
+According to the tradition of medieval biblical exegesis, the Comedy can be read through multiple allegorical senses beyond the historical sense, forcing readers to discover different levels of meaning.
 
-## 12. Współczesne Interpretacje Psychoterapeutyczne
+## 12. Contemporary Psychotherapeutic Interpretations
 
-### Trauma i Uzdrowienie
+### Trauma and Healing
 
-Niektóre współczesne podejścia terapeutyczne włączają podróż Dantego jako metaforę odzyskiwania po traumie, gdzie kierowane zejście reprezentuje konieczną konfrontację z bolesnymi doświadczeniami przed rozpoczęciem uzdrowienia.
+Some contemporary therapeutic approaches incorporate Dante's journey as a metaphor for trauma recovery, where the guided descent represents the necessary confrontation with painful experiences before healing can begin.
 
-### Psychosynteza Assagioliego
+### Assagioli's Psychosynthesis
 
-Roberto Assagioli, twórca psychosyntezy, uważał "centralne symboliczne znaczenie" tego epickiego poematu za "wspaniały obraz kompletnej psychosyntezy". Polecał czytanie Boskiej Komedii jako narzędzie rozwoju psychologicznego.
+Roberto Assagioli, creator of psychosynthesis, considered "the central symbolic meaning" of this epic poem a "magnificent image of complete psychosynthesis." He recommended reading The Divine Comedy as a tool for psychological development.
 
-## 13. Wpływ na Współczesną Kulturę Popularną
+## 13. Influence on Contemporary Popular Culture
 
-### Literatura Modernistyczna
+### Modernist Literature
 
-**T.S. Eliot**: "Dante i Szekspir dzielą między siebie świat. Nie ma trzeciego." Eliot wykorzystywał cytaty z Piekła jako epigrafy i szeroko nawiązywał do Dantego w "Pustyni" i innych dziełach.
+**T.S. Eliot**: "Dante and Shakespeare divide the world between them. There is no third." Eliot used quotations from Hell as epigraphs and extensively referenced Dante in "The Waste Land" and other works.
 
-**James Joyce**: W "Portrecie artysty z lat młodzieńczych" protagonist Stephen Dedalus zmaga się z pytaniami wiary, grzechu i odkupienia w kontekście przypominającym duchową podróż Dantego.
+**James Joyce**: In "A Portrait of the Artist as a Young Man," protagonist Stephen Dedalus grapples with questions of faith, sin, and redemption in a context reminiscent of Dante's spiritual journey.
 
-**Jorge Luis Borges**: "Boska Komedia to najlepsza książka, jaką osiągnęła literatura." Borges napisał liczne teksty komentujące i parafrazujące wersy Dantego.
+**Jorge Luis Borges**: "The Divine Comedy is the best book literature has achieved." Borges wrote numerous texts commenting on and paraphrasing Dante's verses.
 
-### Adaptacje Filmowe i Medialne
+### Film and Media Adaptations
 
-Od pierwszej adaptacji filmowej z 1911 roku ("L'Inferno") przez filmy z Tomem Hanksem, po współczesne gry wideo - Boska Komedia nadal inspiruje twórców we wszystkich mediach artystycznych.
+From the first film adaptation in 1911 ("L'Inferno") through films with Tom Hanks to contemporary video games - The Divine Comedy continues to inspire creators in all artistic media.
 
-## 14. Interpretacje Międzykulturowe
+## 14. Intercultural Interpretations
 
-### Recepcja w Kulturach Nieeuropejskich
+### Reception in Non-European Cultures
 
-**Literatura karaibska**: Edward Kamau Brathwaite i Lorna Goodison wykorzystali Dantego w artykułowaniu koncepcji "języka narodowego" i eksploracji relacji języka, rasy i władzy w kontekście kolonialnym i postkolonialnym.
+**Caribbean literature**: Edward Kamau Brathwaite and Lorna Goodison have used Dante in articulating concepts of "national language" and exploring relations of language, race, and power in colonial and postcolonial contexts.
 
-**Interpretacje afroamerykańskie**: Gloria Naylor w "Linden Hills" (1985) wykorzystuje strukturę Piekła Dantego do opowieści o dwóch młodych czarnoskórych poetach w zamożnej społeczności afroamerykańskiej.
+**African American interpretations**: Gloria Naylor in "Linden Hills" (1985) uses the structure of Dante's Hell to tell the story of two young Black poets in an affluent African American community.
 
-## 15. Symbolizm Astronomiczny i Kosmiczny
+## 15. Astronomical and Cosmic Symbolism
 
-### System Ptolemejski
+### Ptolemaic System
 
-Światopogląd Dantego odpowiada systemowi ptolemejskiemu - nieruchomy środek wszechświata to sferyczna Ziemia, z Jerozolimą jako wierzchołkiem. Raj przedstawiony jest jako seria koncentrycznych sfer otaczających Ziemię: Księżyc, Merkury, Wenus, Słońce, Mars, Jowisz, Saturn, Gwiazdy Stałe, Primum Mobile i wreszcie Empyreum.
+Dante's worldview corresponds to the Ptolemaic system - the immobile center of the universe is the spherical Earth, with Jerusalem as its apex. Paradise is presented as a series of concentric spheres surrounding Earth: Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn, Fixed Stars, Primum Mobile, and finally the Empyreum.
 
-### Czas i Przestrzeń Sakralna
+### Sacred Time and Space
 
-Dante inwestuje znaczną energię w ustalenie dat swojej wizji (początek w Wielki Piątek 1300), tworząc sakralną temporalność, która łączy osobistą transformację z kosmicznym porządkiem.
+Dante invests considerable energy in establishing the dates of his vision (beginning on Good Friday 1300), creating a sacred temporality that connects personal transformation with cosmic order.
 
-## 16. Alchemia i Nauki Okultyczne
+## 16. Alchemy and Occult Sciences
 
-### Symbolizm Alchemiczny
+### Alchemical Symbolism
 
-**Transformacja elementów:**
-- Wszystkie 33 pieśni Piekła opisują doświadczenie Dantego w metafizycznym miejscu Ziemi (alchemiczny element Ziemi)
-- Czyściec reprezentuje element Powietrza
-- Raj odpowiada elementowi Ognia
+**Element transformation:**
+- All 33 cantos of Hell describe Dante's experience in the metaphysical place of Earth (alchemical element of Earth)
+- Purgatory represents the element of Air
+- Paradise corresponds to the element of Fire
 
-### Postaci Alchemików
+### Alchemist Characters
 
-W Piekle pojawia się Capocchio, spalony na stosie za alchemię w 1293 roku, umieszczony wśród "fałszerzy" metalu. To pokazuje stosunek Dantego do praktyk okultycznych - potępia je, ale rozumie ich symboliczne znaczenie.
+In Hell appears Capocchio, burned at the stake for alchemy in 1293, placed among the "falsifiers" of metal. This shows Dante's attitude toward occult practices - he condemns them but understands their symbolic meaning.
 
-## 17. Psychologia Głębi i Archetypy
+## 17. Depth Psychology and Archetypes
 
-### Jungowska Analiza Indywiduacji
+### Jungian Analysis of Individuation
 
-Współczesni analitycy jungowscy interpretują podróż Dantego jako archetypalny proces indywiduacji:
-- Konfrontacja z cieniem (temne aspekty psyche w Piekle)
-- Praca oczyszczająca (integracja w Czyśćcu)
-- Osiągnięcie całości (jedność w Raju)
+Contemporary Jungian analysts interpret Dante's journey as an archetypal process of individuation:
+- Confrontation with the shadow (dark aspects of psyche in Hell)
+- Purifying work (integration in Purgatory)
+- Achievement of wholeness (unity in Paradise)
 
-### Kolekcyjna Nieświadomość
+### Collective Unconscious
 
-Postacie spotkane przez Dantego reprezentują archetypy kolektywnej nieświadomości. Każda z nich uosabia uniwersalne wzorce ludzkich doświadczeń, które przekraczają indywidualne historie.
+The characters encountered by Dante represent archetypes of the collective unconscious. Each embodies universal patterns of human experience that transcend individual histories.
 
-## 18. Kabalistyczne i Ezoteryczne Interpretacje
+## 18. Kabbalistic and Esoteric Interpretations
 
-### Drzewo Życia
+### Tree of Life
 
-Niektóre interpretacje sugerują związki z symbolizmem kabalistycznym: 4 klasy pokutników koreluje z 4 Światami kabały; podział 3 + 7 znaków inicjacji odpowiada podziałowi 3 + 7 Drzewa Życia. Liczba 33 (pieśni w Czyśćcu i Raju) może odnosić się do 10 sefirot na Drzewie Życia pomnożonych przez 3 poziomy.
+Some interpretations suggest connections with Kabbalistic symbolism: 4 classes of penitents correlate with 4 Worlds of Kabbalah; the division 3 + 7 signs of initiation corresponds to the division 3 + 7 of the Tree of Life. The number 33 (cantos in Purgatory and Paradise) may refer to the 10 sefirot on the Tree of Life multiplied by 3 levels.
 
-### Gnostyckie Elementy
+### Gnostic Elements
 
-Struktura zejścia do najgłębszych warstw rzeczywistości i następnego wstąpienia przypomina gnostycki schemat upadku i odkupienia duszy, choć w chrześcijańskim kontekście ortodoksyjnym.
+The structure of descent to the deepest layers of reality and subsequent ascension resembles the Gnostic scheme of the soul's fall and redemption, though in an orthodox Christian context.
 
-## 19. Symbolizm Polityczny i Władzy
+## 19. Political Symbolism and Power
 
-### Krytyka Korupcji
+### Critique of Corruption
 
-Umieszczenie papieży w Piekle (jak papież Mikołaj III w otchłani za symonię) to śmiała krytyka korupcji kościelnej. Dante nie oszczędza ani władzy świeckiej, ani duchownej, wskazując na uniwersalne problemy władzy i jej nadużywania.
+Placing popes in Hell (like Pope Nicholas III in the abyss for simony) is a bold critique of ecclesiastical corruption. Dante spares neither secular nor spiritual power, pointing to universal problems of power and its abuse.
 
-### Wizja Idealnego Państwa
+### Vision of the Ideal State
 
-Raj przedstawia model idealnej polis - uporządkowanej, relacyjnej społeczności opartej na sprawiedliwości i miłości, kontrastującej z chaosem ziemskich państw.
+Paradise presents a model of the ideal polis - an ordered, relational community based on justice and love, contrasting with the chaos of earthly states.
 
-## 20. Ewolucja Interpretacji na Przestrzeni Wieków
+## 20. Evolution of Interpretations Across Centuries
 
-### Średniowieczne Rozumienie
+### Medieval Understanding
 
-Pierwotnie dzieło było czytane jako teologia praktyczna i mistyka chrześcijańska. Średniowieczni czytelnicy rozumieli wszystkie odniesienia biblijne, numerologiczne i kosmologiczne bez dodatkowych komentarzy.
+Originally the work was read as practical theology and Christian mysticism. Medieval readers understood all biblical, numerological, and cosmological references without additional commentary.
 
-### Renesansowe Odkrycie
+### Renaissance Discovery
 
-W renesansie zaczęto doceniać literackie walory dzieła, widząc w nim wzór dla poezji narodowej i alegorii politycznej.
+In the Renaissance, the literary values of the work began to be appreciated, seeing it as a model for national poetry and political allegory.
 
-### Romantyczne Prze-odkrycie
+### Romantic Rediscovery
 
-William Blake i pisarze romantyczni XIX wieku "prze-odkryli" Komedię w świecie anglojęzycznym, interpretując ją przez pryzmat indywidualnej wyobraźni i artystycznej wizji.
+William Blake and 19th-century Romantic writers "rediscovered" the Comedy in the English-speaking world, interpreting it through the lens of individual imagination and artistic vision.
 
-### Modernistyczne Reinterpretacje
+### Modernist Reinterpretations
 
-Modernści jak Eliot, Joyce, Pound wykorzystali strukturę i symbolizm Dantego do eksploracji współczesnego kryzysu duchowego i kulturowego.
+Modernists like Eliot, Joyce, Pound used Dante's structure and symbolism to explore contemporary spiritual and cultural crisis.
 
-## 21. Symbolizm Kobiecości i Relacji
+## 21. Symbolism of Femininity and Relationships
 
-### Beatrycze jako Sophia
+### Beatrice as Sophia
 
-W tradycji gnostyckiej i ezoterycznej Beatrycze reprezentuje Sophię - boską mądrość w kobiecej postaci. Jej transformacja z ziemskiej kobiety w przewodniczkę duchową symbolizuje przejście od miłości ludzkiej do boskiej.
+In Gnostic and esoteric tradition, Beatrice represents Sophia - divine wisdom in feminine form. Her transformation from earthly woman to spiritual guide symbolizes the transition from human to divine love.
 
-### Krytyka Patriarchatu
+### Critique of Patriarchy
 
-Współczesne interpretacje feministyczne wskazują, że choć Dante wywyższa kobiecość przez Beatrycze, jednocześnie umieszcza kobiety w tradycyjnych rolach przewodniczek duchowych dla męskiego protagonisty.
+Contemporary feminist interpretations point out that while Dante exalts femininity through Beatrice, he simultaneously places women in traditional roles as spiritual guides for the male protagonist.
 
-## 22. Symbolizm Natury i Krajobrazu
+## 22. Nature and Landscape Symbolism
 
-### Góra Czyśćca
+### Mount Purgatory
 
-Góra jako symbol pokutniczy przyciąga różnorodne postacie i symbole, ale przede wszystkim jest symbolem pokuty. Jej spiralna struktura reprezentuje duchowy wzrost przez stopniowe oczyszczenie.
+The mountain as a penitential symbol attracts diverse characters and symbols, but above all is a symbol of penance. Its spiral structure represents spiritual growth through gradual purification.
 
-### Ogród Eden
+### Garden of Eden
 
-Na szczycie góry Czyśćca znajduje się ziemski raj - symbol pierwotnej niewinności i możliwości powrotu do stanu łaski. Rzeki Lete i Eunoe symbolizują zapomnienie grzechów i przypomnienie dobrych uczynków.
+At the summit of Mount Purgatory is the earthly paradise - a symbol of original innocence and the possibility of returning to a state of grace. The rivers Lethe and Eunoe symbolize forgetting sins and remembering good deeds.
 
-## 23. Ukryte Znaczenia Językowe
+## 23. Hidden Linguistic Meanings
 
-### Rewolucja Językowa
+### Linguistic Revolution
 
-Dante pisał po włosku (volgare), a nie po łacinie, co było rewolucyjne. Samuel Beckett porównywał nowatorskie podejście Joyce'a do języka angielskiego z odejściem Dantego od łaciny i syntezą włoskich dialektów.
+Dante wrote in Italian (volgare), not Latin, which was revolutionary. Samuel Beckett compared Joyce's innovative approach to English with Dante's departure from Latin and synthesis of Italian dialects.
 
-### Teoria Języka
+### Theory of Language
 
-W "De vulgari eloquentia" Dante rozwija teorię języka, która wpłynęła na postkolonialnych pisarzy w eksploracji "splątanych relacji języka, rasy i władzy w kontinuum kolonialnym".
+In "De vulgari eloquentia" Dante develops a theory of language that influenced postcolonial writers in exploring "the entangled relations of language, race, and power in the colonial continuum."
 
-## 24. Współczesna Relevantia i Terapeutyczne Zastosowania
+## 24. Contemporary Relevance and Therapeutic Applications
 
-### Przewodnik przez Kryzys
+### Guide Through Crisis
 
-Współczesna psychologia wykorzystuje strukturę dzieła jako przewodnik przez kryzys. Dante jest najbardziej zainteresowany ludzkim kondycją, a jego eksploracja uniwersalnych tematów sprawia, że dzieło pozostaje aktualne pomimo being produktem średniowiecznej myśli.
+Contemporary psychology uses the structure of the work as a guide through crisis. Dante is most interested in the human condition, and his exploration of universal themes makes the work relevant despite being a product of medieval thought.
 
-### Poszukiwanie Sensu
+### Search for Meaning
 
-Papież Paweł VI, rozwinięty przez Luigi Giussani, wprowadził pojęcie "zmysłu religijnego" jako klucza do relevantności tego średniowiecznego arcydzieła dla współczesnych poszukiwań sensu.
+Pope Paul VI, developed by Luigi Giussani, introduced the concept of "religious sense" as a key to the relevance of this medieval masterpiece for contemporary searches for meaning.
 
-## 25. Symbole Zwierzęce i Ich Psychologiczne Znaczenie
+## 25. Animal Symbols and Their Psychological Meaning
 
-### Bestie z Pierwszej Pieśni
+### Beasts from the First Canto
 
-Trzy dzikie zwierzęta mają wielowarstwowe znaczenie:
-- **Pantera**: Zmysłowość, pożądanie, powierzchowne przyjemności
-- **Lew**: Pycha, ambicja, dążenie do dominacji
-- **Wilczyca**: Chciwość, nienasycone pragnienia materialne
+The three wild beasts have multi-layered meaning:
+- **Panther**: Sensuality, lust, superficial pleasures
+- **Lion**: Pride, ambition, drive for dominance
+- **She-wolf**: Greed, insatiable material desires
 
-Te bestie reprezentują trzy główne kategorie grzechów moralnych i psychologiczne przeszkody w rozwoju duchowym.
+These beasts represent three main categories of moral sins and psychological obstacles in spiritual development.
 
-### Cerber - Trzygłowy Pies
+### Cerberus - Three-Headed Dog
 
-Symbol żarłoczności i brutalnego przyziemnego pragnienia. Trzygłowość nawiązuje do parodii Trójcy Świętej, pokazując jak grzech deformuje boskie struktury.
+Symbol of gluttony and brutal earthly desire. The three-headedness refers to a parody of the Holy Trinity, showing how sin deforms divine structures.
 
-## 26. Numerologia Architektoniczna
+## 26. Architectural Numerology
 
-### Struktura 100 Pieśni
+### Structure of 100 Cantos
 
-Całe dzieło składa się ze 100 pieśni (1 + 33 + 33 + 33), gdzie liczba 100 reprezentuje doskonałość w średniowiecznej numerologii. Pierwsza pieśń Piekła służy jako wprowadzenie do całego dzieła.
+The entire work consists of 100 cantos (1 + 33 + 33 + 33), where the number 100 represents perfection in medieval numerology. The first canto of Hell serves as an introduction to the entire work.
 
-### Symbolizm Siedmiu Grzechów Głównych
+### Symbolism of Seven Deadly Sins
 
-W Czyśćcu siedem tarasów odpowiada siedmiu grzechom głównym, ale też siedmiu planetom, siedmiu sakramentom i siedmiu darów Ducha Świętego - kompleksny system odpowiedniości średniowiecznej.
+In Purgatory, seven terraces correspond to seven deadly sins, but also seven planets, seven sacraments, and seven gifts of the Holy Spirit - a complex system of medieval correspondences.
 
-## 27. Średniowieczna Medycyna i Psychologia
+## 27. Medieval Medicine and Psychology
 
-### Teoria Humorów
+### Theory of Humors
 
-Postacie w Piekle często reprezentują niezrównoważenie humorów (temperamentów) - średniowiecznej teorii psychologii i medycyny. Różne kary odpowiadają różnym dysfunkcjom psychofizycznym.
+Characters in Hell often represent imbalance of humors (temperaments) - medieval theory of psychology and medicine. Different punishments correspond to different psychophysical dysfunctions.
 
-### Fizjognomia
+### Physiognomy
 
-Opisy fizyczne postaci odzwierciedlają średniowieczną fizjognomię - naukę o związku między wyglądem a charakterem. Fizyczne deformacje w Piekle reprezentują duchowe zniekształcenia.
+Physical descriptions of characters reflect medieval physiognomy - the science of the relationship between appearance and character. Physical deformations in Hell represent spiritual distortions.
 
-## 28. Symbolizm Muzyczny i Artystyczny
+## 28. Musical and Artistic Symbolism
 
-### Harmonia Sfer
+### Harmony of the Spheres
 
-W Raju Dante wykorzystuje symbolizm muzyczny oparty na pitagorejskiej harmonii sfer. Każda sfera niebieska wydaje różny ton, a łącznie tworzą kosmiczną symfonię reprezentującą boską harmonię.
+In Paradise, Dante uses musical symbolism based on Pythagorean harmony of the spheres. Each celestial sphere produces a different tone, and together they create a cosmic symphony representing divine harmony.
 
-### Sztuki Wyzwolone
+### Liberal Arts
 
-Siedem sztuk wyzwolonych (trivium i quadrivium) pojawia się symbolicznie w strukturze Czyśćca, reprezentując rodzaj edukacji potrzebnej do duchowego rozwoju.
+The seven liberal arts (trivium and quadrivium) appear symbolically in the structure of Purgatory, representing the kind of education needed for spiritual development.
 
-## 29. Ukryte Odniesienia Historyczne
+## 29. Hidden Historical References
 
-### Współcześni Dantego
+### Dante's Contemporaries
 
-Wiele postaci to współcześni Dantego, co czyni dzieło komentarzem politycznym i społecznym epoki. Umieszczenie konkretnych osób w różnych kręgach to osąd moralny ich działań.
+Many characters are Dante's contemporaries, making the work a political and social commentary of the era. Placing specific people in various circles is a moral judgment of their actions.
 
-### Prorocze Elementy
+### Prophetic Elements
 
-Dzieło zawiera liczne "przepowiednie" dotyczące przyszłości Florencji i Italii, które w rzeczywistości były komentarzami do wydarzeń już znanych Dantego w czasie pisania.
+The work contains numerous "prophecies" about the future of Florence and Italy, which in reality were commentaries on events already known to Dante at the time of writing.
 
-## 30. Interpretacje Mistyczne i Ezoteryczne
+## 30. Mystical and Esoteric Interpretations
 
-### Tradycja Hermetyczna
+### Hermetic Tradition
 
-Niektórzy badacze wskazują na elementy tradycji hermetycznej w opisach transformacji Dantego, szczególnie w ostatnich pieśniach Raju, gdzie protagonista ulega przemianie umożliwiającej oglądanie Boga.
+Some scholars point to elements of hermetic tradition in descriptions of Dante's transformation, particularly in the last cantos of Paradise, where the protagonist undergoes a transformation enabling the vision of God.
 
-### Inicjacja Mistyczna
+### Mystical Initiation
 
-Cała podróż może być interpretowana jako proces inicjacji mistycznej, gdzie kolejne etapy odpowiadają stopniom wtajemniczenia w tradycjach ezoterycznych.
+The entire journey can be interpreted as a process of mystical initiation, where successive stages correspond to degrees of initiation in esoteric traditions.
 
-## 31. Symbolizm Geometryczny i Architektoniczny
+## 31. Geometric and Architectural Symbolism
 
-### Koncentric Structure
+### Concentric Structure
 
-Piekło: lejkowata struktura z dziewięcioma kręgami zwężającymi się ku centrum
-Czyściec: góra z siedmioma tarasami, koronowana Rajem Ziemskim
-Raj: dziewięć sfer koncentrycznych rozszerzających się w kierunku Empyreum
+Hell: funnel-shaped structure with nine circles narrowing toward the center
+Purgatory: mountain with seven terraces, crowned by the Earthly Paradise
+Paradise: nine concentric spheres expanding toward the Empyreum
 
-Ta struktura tworzy kompleksową mandałę kosmiczną reprezentującą porządek wszechświata.
+This structure creates a complex cosmic mandala representing the order of the universe.
 
-### Symbolika Bram i Progów
+### Symbolism of Gates and Thresholds
 
-Każde przejście między światami oznaczone jest bramą z napisem, co wskazuje na symbolizm progów inicjacyjnych w tradycjach ezoterycznych.
+Each transition between worlds is marked by a gate with an inscription, indicating the symbolism of initiatory thresholds in esoteric traditions.
 
-## 32. Transformacja Języka Poetyckiego
+## 32. Transformation of Poetic Language
 
-### Innowacje Stylistyczne
+### Stylistic Innovations
 
-Dante stworzył nowy język poetycki łączący łacinę kościelną, terminologię filozoficzną i dialekty ludowe. To językowa alegoria jedności w różnorodności.
+Dante created a new poetic language combining ecclesiastical Latin, philosophical terminology, and folk dialects. This is a linguistic allegory of unity in diversity.
 
-### Metaforyka Zsyntetyzowana
+### Synthesized Metaphorics
 
-Poeta łączy metafory klasyczne, biblijne i współczesne, tworząc nowy język symboliczny zdolny do wyrażenia zarówno ziemskich, jak i transcendentnych doświadczeń.
+The poet combines classical, biblical, and contemporary metaphors, creating a new symbolic language capable of expressing both earthly and transcendent experiences.
 
-## 33. Współczesne Aplikacje w Edukacji i Terapii
+## 33. Contemporary Applications in Education and Therapy
 
-### Pedagogika Interdyscyplinarna
+### Interdisciplinary Pedagogy
 
-Współczesna pedagogika wykorzystuje Boską Komedię do nauczania o psychologii, historii, teologii i literaturze w sposób zintegrowany, pokazując jak różne dziedziny wiedzy tworzą całość.
+Contemporary pedagogy uses The Divine Comedy to teach about psychology, history, theology, and literature in an integrated way, showing how different fields of knowledge form a whole.
 
-### Arteterapia
+### Art Therapy
 
-Terapeuci wykorzystują symbolikę podróży Dantego w pracy z klientami przechodzącymi przez kryzys, używając kierowanej wyobraźni i interpretacji symbolicznej.
+Therapists use the symbolism of Dante's journey in working with clients going through crisis, using guided imagery and symbolic interpretation.
 
-## 34. Synkretyzm Kulturowy i Religijny
+## 34. Cultural and Religious Syncretism
 
-### Islamsko-Chrześcijańska Synteza
+### Islamic-Christian Synthesis
 
-Dzieło reprezentuje niezwykłą syntezę tradycji islamskiej, chrześcijańskiej i żydowskiej w obrębie średniowiecznej literatury europejskiej. Cross-kulturowe zapylanie pokazuje wymianę intelektualną istniejącą w średniowiecznej Europie.
+The work represents an extraordinary synthesis of Islamic, Christian, and Jewish traditions within medieval European literature. Cross-cultural pollination shows the intellectual exchange existing in medieval Europe.
 
-### Uniwersalny Język Duchowy
+### Universal Spiritual Language
 
-Pomimo chrześcijańskiego kontekstu, symbolizm Dantego przemawia do uniwersalnych doświadczeń duchowych obecnych w różnych tradycjach religijnych i filozoficznych.
+Despite its Christian context, Dante's symbolism speaks to universal spiritual experiences present in different religious and philosophical traditions.
 
-## 35. Wpływ na Psychologię Transpersonalną
+## 35. Influence on Transpersonal Psychology
 
-### Kartografia Świadomości
+### Cartography of Consciousness
 
-Współczesna psychologia transpersonalna wykorzystuje mapę Dantego jako kartografię stanów świadomości - od najciemniejszych aspektów psyche po najwyższe doświadczenia duchowe.
+Contemporary transpersonal psychology uses Dante's map as a cartography of states of consciousness - from the darkest aspects of the psyche to the highest spiritual experiences.
 
-### Integracja Osobowości
+### Personality Integration
 
-Trzyczęściowa podróż służy jako model integracji osobowości, gdzie każdy poziom reprezentuje inny aspekt ludzkiej psyche wymagający uznania i transformacji.
+The three-part journey serves as a model for personality integration, where each level represents a different aspect of the human psyche requiring recognition and transformation.
 
-## 36. Symbolizm Temporalny i Cykliczny
+## 36. Temporal and Cyclical Symbolism
 
-### Czas Liniowy vs Wieczny
+### Linear vs Eternal Time
 
-Podróż Dantego trwa symboliczne trzy dni (od Wielkiego Piątku do Poniedziałku Wielkanocnego), reprezentując przejście od czasu linearnego do wieczności. W Raju czas staje się cykliczny i wieczny.
+Dante's journey lasts a symbolic three days (from Good Friday to Easter Monday), representing the transition from linear time to eternity. In Paradise, time becomes cyclical and eternal.
 
-### Liturgiczny Rytm
+### Liturgical Rhythm
 
-Struktura czasowa dzieła odpowiada liturgicznemu rytmowi Triduum Paschalnego, łącząc osobistą transformację z chrześcijańskim kalendarzem sakralnym.
+The temporal structure of the work corresponds to the liturgical rhythm of the Paschal Triduum, connecting personal transformation with the Christian sacred calendar.
 
-## 37. Interpretacje Ekologiczne i Kosmologiczne
+## 37. Ecological and Cosmological Interpretations
 
-### Średniowieczna Kosmologia
+### Medieval Cosmology
 
-Dante prezentuje zintegrowaną wizję kosmosu, gdzie wszystkie poziomy rzeczywistości są połączone. Ta holistyczna wizja rezonuje ze współczesnymi ruchami ekologicznymi podkreślającymi interconnectedness wszystkich rzeczy.
+Dante presents an integrated vision of the cosmos, where all levels of reality are connected. This holistic vision resonates with contemporary ecological movements emphasizing the interconnectedness of all things.
 
-### Odpowiedzialność za Stworzenie
+### Responsibility for Creation
 
-Symbolizm środowiskowy w dziele - od skalistego Piekła przez kwitnący Czyściec do świetlistego Raju - reprezentuje różne sposoby relacji człowieka z przyrodą i kosmosem.
+Environmental symbolism in the work - from rocky Hell through flowering Purgatory to luminous Paradise - represents different ways of humanity's relationship with nature and cosmos.
 
-## 38. Ukryte Znaczenia Erotyczne i Mistyczne
+## 38. Hidden Erotic and Mystical Meanings
 
-### Miłość Ziemska i Boska
+### Earthly and Divine Love
 
-Przejście od miłości do Beatrycze jako kobiety do miłości jako boskiej siły reprezentuje mistyczną transformację erosa w agape. To jeden z najsubtelniejszych aspektów symbolizmu Dantego.
+The transition from love for Beatrice as a woman to love as divine force represents the mystical transformation of eros into agape. This is one of the most subtle aspects of Dante's symbolism.
 
 ### Unio Mystica
 
-Ostateczna wizja Trójcy Świętej w finale Raju opisana jest w terminach sugerujących mistyczne zjednoczenie, wykorzystujących symbolikę światła i geometrii sakralnej.
+The ultimate vision of the Holy Trinity in the finale of Paradise is described in terms suggesting mystical union, using symbolism of light and sacred geometry.
 
-## 39. Semiotyka i Hermeneutyka
+## 39. Semiotics and Hermeneutics
 
-### Średniowieczna Semiotyka
+### Medieval Semiotics
 
-Dante wykorzystuje średniowieczną teorię znaków, gdzie każdy element świata może funkcjonować jako znak odsyłający do wyższej rzeczywistości. To tworzy kompleksowy system semiotyczny.
+Dante uses medieval theory of signs, where every element of the world can function as a sign referring to higher reality. This creates a complex semiotic system.
 
-### Hermeneutyczne Warstwy
+### Hermeneutic Layers
 
-Dzieło wymaga hermeneutycznego podejścia - rozumienia, że każdy symbol może mieć wielokrotne znaczenia w zależności od kontekstu interpretacyjnego.
+The work requires a hermeneutic approach - understanding that each symbol can have multiple meanings depending on the interpretative context.
 
-## 40. Ponadczasowa Relevantia
+## 40. Timeless Relevance
 
-### Uniwersalne Tematy Psychologiczne
+### Universal Psychological Themes
 
-Chociaż napisane 700 lat temu, Piekło Dantego nadal wpływa na naszą kulturę i społeczeństwo, od przedstawień piekła w grach wideo po sposób, w jaki rozumiemy rzeczywiste cierpienie. To wynika z eksploracji uniwersalnych tematów tożsamości osobistej, moralności i poszukiwania sensu w złożonym świecie.
+Although written 700 years ago, Dante's Hell continues to influence our culture and society, from representations of hell in video games to how we understand real suffering. This stems from the exploration of universal themes of personal identity, morality, and the search for meaning in a complex world.
 
-### Współczesne Poszukiwania Duchowe
+### Contemporary Spiritual Searches
 
-W miarę jak nasza kultura staje się bardziej odległa od spójnego, religijnie zorientowanego światopoglądu, który ją wyprodukował, zainteresowanie Boską Komedią Dantego nadal rośnie. Źródłem tego zainteresowania jest nie tylko podziw dla niezwykłego kompendium średniowiecznej kultury Dantego, ale fakt, że jego Komedia dotyka czegoś specyficznego dla współczesnej kondycji.
+As our culture becomes more distant from the coherent, religiously oriented worldview that produced it, interest in Dante's Divine Comedy continues to grow. The source of this interest is not only admiration for Dante's extraordinary compendium of medieval culture, but the fact that his Comedy touches something specific to the contemporary condition.
 
 ---
 
-*Ta analiza symboli i ukrytych znaczeń w "Boskiej Komedii" pokazuje, jak średniowieczne arcydzieło pozostaje żywym tekstem, który można interpretować na wielu poziomach - od ściśle historycznego po głęboko psychologiczny. Bogactwo symboliczne dzieła sprawia, że każde pokolenie czytelników odkrywa w nim nowe warstwy znaczenia, odpowiadające na współczesne pytania o ludzką kondycję, duchowość i poszukiwanie sensu.*
+*This analysis of symbols and hidden meanings in "The Divine Comedy" shows how the medieval masterpiece remains a living text that can be interpreted on many levels - from strictly historical to deeply psychological. The symbolic richness of the work makes each generation of readers discover new layers of meaning that respond to contemporary questions about the human condition, spirituality, and the search for meaning.*

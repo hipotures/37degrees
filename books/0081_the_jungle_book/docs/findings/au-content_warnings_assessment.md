@@ -1,29 +1,29 @@
-# Content Warnings Assessment - "Księga dżungli" (1894)
+# Content Warnings Assessment - "The Jungle Book" (1894)
 
-*Analiza zgodności z zasadami platform społecznościowych 2025*  
-*Przygotowano: 29 sierpnia 2025*
+*Social Media Platform Compliance Analysis 2025*
+*Prepared: August 29, 2025*
 
 ## Executive Summary
 
-**BOOK**: "The Jungle Book" / "Księga dżungli" - Rudyard Kipling (1894)  
-**GENRE**: Short stories, Children's literature  
-**OVERALL RISK ASSESSMENT**: 🟡 MODERATE - wysokie ryzyko na Meta platforms, średnie na YouTube/TikTok, niskie na Spotify/Kick
+**BOOK**: "The Jungle Book" - Rudyard Kipling (1894)
+**GENRE**: Short stories, Children's literature
+**OVERALL RISK ASSESSMENT**: 🟡 MODERATE - high risk on Meta platforms, medium on YouTube/TikTok, low on Spotify/Kick
 
-**KEY FINDING**: Mimo iż "Księga dżungli" to klasyka literatury dziecięcej, zawiera znaczące problematyczne elementy związane z rasizmem, kolonializmem i osobistymi skandalami autora, które mogą powodować problemy z moderacją na różnych platformach w 2025 roku.
+**KEY FINDING**: Although "The Jungle Book" is a classic of children's literature, it contains significant problematic elements related to racism, colonialism, and the author's personal scandals, which may cause moderation issues across various platforms in 2025.
 
 ---
 
-## Analiza Materiałów Researchu
+## Research Materials Analysis
 
-### Przeanalizowane dokumenty:
-✅ **au-research_culture_impact.md** - wpływ kulturowy i adaptacje  
-✅ **au-research_dark_drama.md** - kontrowersje i mroczne aspekty  
-✅ **au-research_facts_history.md** - okoliczności powstania  
-✅ **au-research_local_context.md** - polska recepcja  
-✅ **au-research_reality_wisdom.md** - uniwersalne mądrości  
-✅ **au-research_symbols_meanings.md** - symbolika i interpretacje  
-✅ **au-research_writing_innovation.md** - techniki pisarskie  
-✅ **au-research_youth_digital.md** - kultura młodzieżowa Gen Z
+### Analyzed documents:
+✅ **au-research_culture_impact.md** - cultural impact and adaptations
+✅ **au-research_dark_drama.md** - controversies and dark aspects
+✅ **au-research_facts_history.md** - circumstances of creation
+✅ **au-research_local_context.md** - Polish reception
+✅ **au-research_reality_wisdom.md** - universal wisdom
+✅ **au-research_symbols_meanings.md** - symbolism and interpretations
+✅ **au-research_writing_innovation.md** - writing techniques
+✅ **au-research_youth_digital.md** - Gen Z youth culture
 
 ---
 
@@ -31,105 +31,105 @@
 
 | Platform | Risk Level | Key Issues | Monetization Impact | Recommended Action |
 |----------|------------|------------|-------------------|-------------------|
-| **Facebook/Instagram** | 🔴 **HIGH** | Kolonialny kontekst, rasizm w źródle | Wysokie ryzyko demonetyzacji | EDIT/OMIT problematyczne tematy |
-| **YouTube** | 🟡 **MEDIUM** | AI content policy, originality requirements | Moderate risk z proper approach | OK z human narration + disclaimer |
-| **TikTok** | 🟡 **MEDIUM** | Długość content, educational framing needed | Tylko 1+ min videos eligible | AGE-RESTRICT + educational context |
-| **Spotify** | 🟢 **LOW** | Creator-friendly environment | High earning potential | OK z content warnings |
+| **Facebook/Instagram** | 🔴 **HIGH** | Colonial context, racism in source | High demonetization risk | EDIT/OMIT problematic topics |
+| **YouTube** | 🟡 **MEDIUM** | AI content policy, originality requirements | Moderate risk with proper approach | OK with human narration + disclaimer |
+| **TikTok** | 🟡 **MEDIUM** | Content length, educational framing needed | Only 1+ min videos eligible | AGE-RESTRICT + educational context |
+| **Spotify** | 🟢 **LOW** | Creator-friendly environment | High earning potential | OK with content warnings |
 | **Kick** | 🟢 **LOW** | Most lenient policies | Highest revenue opportunity | OK - minimal restrictions |
 
 ---
 
-## Problematyczne Tematy - Szczegółowa Analiza
+## Problematic Topics - Detailed Analysis
 
-### 🔴 HIGHEST RISK CONTENT (wszystkie platformy)
+### 🔴 HIGHEST RISK CONTENT (all platforms)
 
-#### 1. **Rasizm i Orientalizm Kiplinga**
-**Źródło**: Research dark_drama, symbols_meanings  
-**Problem**: 
-- "Kipling został określony jako kolonialista, szowinista, rasista, antysemita"
-- Księga jako "kodowana alegoria imperializmu brytyjskiego"
-- Mowgli dominuje nad zwierzętami = alegoria dominacji Brytanii nad skolonizowanymi ludami
+#### 1. **Kipling's Racism and Orientalism**
+**Source**: Research dark_drama, symbols_meanings
+**Problem**:
+- "Kipling was described as a colonialist, chauvinist, racist, anti-Semite"
+- The Book as "coded allegory of British imperialism"
+- Mowgli dominates animals = allegory of British dominance over colonized peoples
 
 **Platform Response**:
-- **Meta**: 🔴 BARDZO WYSOKIE RYZYKO - nowe liberalne definicje hate speech, ale nadal problematyczne
-- **YouTube**: 🟡 Wymaga educational framing i disclaimer
-- **TikTok**: 🟡 Strong moderation, ale educational content może przejść
-- **Spotify**: 🟢 Lower risk z proper contextualization
+- **Meta**: 🔴 VERY HIGH RISK - new liberal hate speech definitions, but still problematic
+- **YouTube**: 🟡 Requires educational framing and disclaimer
+- **TikTok**: 🟡 Strong moderation, but educational content may pass
+- **Spotify**: 🟢 Lower risk with proper contextualization
 - **Kick**: 🟢 Most tolerant for educational purposes
 
-**Mitigation**: Zawsze w kontekście edukacyjnym + historical context disclaimer
+**Mitigation**: Always in educational context + historical context disclaimer
 
-#### 2. **Antysemityzm Autora**
-**Źródło**: Research dark_drama  
+#### 2. **Author's Anti-Semitism**
+**Source**: Research dark_drama
 **Problem**:
-- "Nie mogę 'przekręcić' mojego 'Gehaziego', jest przeznaczony dla tego Żydowskiego Chłopca"
-- Obwinianie "niemiecko-semickich elementów" za niechęć USA do wojny
+- "I can't 'twist' my 'Gehazi', it's intended for that Jewish Boy"
+- Blaming "German-Semitic elements" for US reluctance to war
 
-**Platform Response**: 🔴 WYSOKI POZIOM RYZYKA na wszystkich platformach
-**Mitigation**: OMIT całkowicie lub mocny historical context + condemnation
+**Platform Response**: 🔴 HIGH RISK LEVEL on all platforms
+**Mitigation**: OMIT completely or strong historical context + condemnation
 
-#### 3. **Uzależnienia i Problemy Mentalne Kiplinga**
-**Źródło**: Research dark_drama  
-**Problem**: Szczegółowe opisy uzależnień od opium, morfiny, konopi, depresji
+#### 3. **Kipling's Addictions and Mental Health Issues**
+**Source**: Research dark_drama
+**Problem**: Detailed descriptions of addictions to opium, morphine, cannabis, depression
 
 **Platform Response**:
 - **Meta**: 🟡 Trigger warnings required
 - **YouTube**: 🟡 Educational content policies apply
 - **TikTok**: 🔴 Strict content policies on substance abuse
-- **Spotify**: 🟢 Adult content acceptable z warning
+- **Spotify**: 🟢 Adult content acceptable with warning
 - **Kick**: 🟢 Most lenient approach
 
-### 🟡 MEDIUM RISK CONTENT (platforma-zależny)
+### 🟡 MEDIUM RISK CONTENT (platform-dependent)
 
-#### 4. **Kolonialne Stereotypy w Narratywie**
-**Źródło**: Research symbols_meanings, culture_impact  
-**Problem**: 
-- Orientalistyczne stereotypy
-- "Biały Savior Complex" - Mowgli jako "cywilizator"
-- Hierarchia rasowa jako "naturalna"
+#### 4. **Colonial Stereotypes in Narrative**
+**Source**: Research symbols_meanings, culture_impact
+**Problem**:
+- Orientalist stereotypes
+- "White Savior Complex" - Mowgli as "civilizer"
+- Racial hierarchy as "natural"
 
 **Platform Response**:
-- **Meta**: 🔴 HIGH RISK przez community notes system
-- **YouTube**: 🟡 OK z educational context
-- **TikTok**: 🟡 Wymaga careful framing
+- **Meta**: 🔴 HIGH RISK due to community notes system
+- **YouTube**: 🟡 OK with educational context
+- **TikTok**: 🟡 Requires careful framing
 - **Spotify**: 🟢 Educational discussion OK
 - **Kick**: 🟢 Minimal restrictions
 
-#### 5. **Kontrowersje Disney i Moderacja**
-**Źródło**: Research culture_impact  
-**Problem**: Disney+ umieszcza content warnings o "rasistowskich obrazach"
+#### 5. **Disney Controversies and Moderation**
+**Source**: Research culture_impact
+**Problem**: Disney+ places content warnings about "racist imagery"
 
-**Platform Response**: 🟡 Moderate risk - wymaga transparency o problemach adaptacji
+**Platform Response**: 🟡 Moderate risk - requires transparency about adaptation issues
 
-#### 6. **Masońskie Połączenia (Conspiracy Theories)**
-**Źródło**: Research dark_drama  
-**Problem**: "Czerwony kwiat" jako masońska symbolika, okultystyczne interpretacje
+#### 6. **Masonic Connections (Conspiracy Theories)**
+**Source**: Research dark_drama
+**Problem**: "Red flower" as Masonic symbolism, occult interpretations
 
-**Platform Response**: 🟡 Może trigger conspiracy theory algorithms - uważne podejście
+**Platform Response**: 🟡 May trigger conspiracy theory algorithms - careful approach needed
 
 ---
 
 ## Age Classification Assessment
 
 ### 13+ CONTENT (Safe for most platforms)
-✅ **Podstawowa fabuła Mowgliego**  
-✅ **Przyjaźń ze zwierzętami**  
-✅ **Lekcje o naturze i współpracy**  
-✅ **Przygody w dżungli**  
-✅ **Pozytywne wartości z "Prawa Dżungli"**
+✅ **Basic Mowgli storyline**
+✅ **Friendship with animals**
+✅ **Lessons about nature and cooperation**
+✅ **Jungle adventures**
+✅ **Positive values from "Law of the Jungle"**
 
 ### 16+ CONTENT (Age restriction recommended)
-⚠️ **Tematy kolonializmu w kontekście historycznym**  
-⚠️ **Złożone interpretacje symboliczne**  
-⚠️ **Krytyka postkolonialna**  
-⚠️ **Kontrowersje wokół adaptacji**
+⚠️ **Colonial themes in historical context**
+⚠️ **Complex symbolic interpretations**
+⚠️ **Postcolonial criticism**
+⚠️ **Adaptation controversies**
 
 ### 18+ CONTENT (Adult audience only)
-🔴 **Szczegółowy rasizm i antysemityzm Kiplinga**  
-🔴 **Uzależnienia autora (opium, morfina)**  
-🔴 **Tragedia śmierci syna i poczucie winy**  
-🔴 **Mroczne interpretacje psychoanalityczne**  
-🔴 **Głębokie kontrowersje polityczne**
+🔴 **Detailed racism and anti-Semitism of Kipling**
+🔴 **Author's addictions (opium, morphine)**
+🔴 **Tragedy of son's death and guilt**
+🔴 **Dark psychoanalytic interpretations**
+🔴 **Deep political controversies**
 
 ---
 
@@ -139,16 +139,16 @@
 **RISK LEVEL**: 🔴 HIGH
 
 **AVOID**:
-- Jakiekolwiek dyskusje o rasizmie Kiplinga
-- Kontrowersje antysemickie
-- Polityczne interpretacje kolonializmu
-- Krytyka bez pozytywnego kontekstu
+- Any discussions about Kipling's racism
+- Anti-Semitic controversies
+- Political interpretations of colonialism
+- Criticism without positive context
 
 **SAFE APPROACH**:
-- Focus na pozytywne aspekty fabuły
-- Disney adaptacje jako główny temat
-- Edukacyjne wartości dla dzieci
-- Uniwersalne lekcje o przyjaźni
+- Focus on positive story aspects
+- Disney adaptations as main topic
+- Educational values for children
+- Universal lessons about friendship
 
 **CONTENT WARNINGS**: "Historical context of British colonialism discussed"
 
@@ -156,16 +156,16 @@
 **RISK LEVEL**: 🟡 MEDIUM
 
 **REQUIREMENTS**:
-- Human narration (nie AI text-to-speech)
-- Original commentary dominuje nad quoted material
+- Human narration (not AI text-to-speech)
+- Original commentary dominates quoted material
 - Clear educational framing
 - Historical context disclaimers
 
 **MONETIZATION STRATEGY**:
 - Educational storytelling approach
-- Focus na literary analysis
+- Focus on literary analysis
 - Include positive messages alongside criticism
-- 10+ minutes dla lepszej monetyzacji
+- 10+ minutes for better monetization
 
 **CONTENT WARNINGS**: "Contains discussion of historical racism and colonialism"
 
@@ -173,16 +173,16 @@
 **RISK LEVEL**: 🟡 MEDIUM
 
 **REQUIREMENTS**:
-- Minimum 1 minuta dla monetyzacji
+- Minimum 1 minute for monetization
 - Original educational content only
 - Strong educational framing
-- Avoid conspiracy theories o masońskich połączeniach
+- Avoid conspiracy theories about Masonic connections
 
 **STRATEGY**:
 - "BookTok" educational format
-- Focus na modern relevance dla Gen Z
-- Compare/contrast z contemporary values
-- Use trending sounds z proper context
+- Focus on modern relevance for Gen Z
+- Compare/contrast with contemporary values
+- Use trending sounds with proper context
 
 **CONTENT WARNINGS**: Age-restrict content about author's controversies
 
@@ -190,15 +190,15 @@
 **RISK LEVEL**: 🟢 LOW
 
 **ADVANTAGES**:
-- Most creator-friendly platform dla educational content
-- Video format dla maximum revenue
-- Academic freedom dla complex topics
+- Most creator-friendly platform for educational content
+- Video format for maximum revenue
+- Academic freedom for complex topics
 
 **APPROACH**:
-- Full academic treatment możliwy
-- Include all controversies z proper context
+- Full academic treatment possible
+- Include all controversies with proper context
 - Long-form analysis acceptable
-- Adult audience można handle complex topics
+- Adult audience can handle complex topics
 
 **CONTENT WARNINGS**: "Mature themes including historical racism and colonialism"
 
@@ -211,16 +211,16 @@
 - Context-based moderation decisions
 
 **OPPORTUNITY**:
-- Most freedom dla controversial topics z educational context
-- Live discussion format ideal dla complex topics
+- Most freedom for controversial topics with educational context
+- Live discussion format ideal for complex topics
 - Interactive community building around literature
-- Best revenue potential dla consistent educational streamers
+- Best revenue potential for consistent educational streamers
 
 **MINIMAL WARNINGS**: Basic content advisory sufficient
 
 ---
 
-## Content Warning Recommendations dla Słuchaczy
+## Content Warning Recommendations for Listeners
 
 ### 🚨 MANDATORY WARNINGS
 
@@ -253,7 +253,7 @@
 
 ---
 
-## Education-Friendly Approaches dla Trudnych Tematów
+## Education-Friendly Approaches for Difficult Topics
 
 ### 🎓 CONSTRUCTIVE FRAMEWORK
 
@@ -285,15 +285,15 @@
 
 ---
 
-## Alternative Content Strategies dla Różnych Platform
+## Alternative Content Strategies for Different Platforms
 
 ### 🎯 HIGH-ENGAGEMENT APPROACHES
 
 #### **"Mowgli vs. Modern Kids" (Family-Friendly)**
-- Compare jungle survival skills z modern technology dependence
+- Compare jungle survival skills with modern technology dependence
 - What would Mowgli think of social media?
-- Lessons about nature connection w digital age
-- Universal themes sans political controversy
+- Lessons about nature connection in digital age
+- Universal themes without political controversy
 
 #### **"Behind the Disney Magic" (Nostalgia + Education)**
 - How Disney transformed Kipling's serious story
@@ -302,8 +302,8 @@
 - Cultural impact measurements
 
 #### **"BookTok Meets Classic Lit" (Gen Z Appeal)**
-- Why #WildChild aesthetic connects z Mowgli
-- Mental health interpretations dla modern audiences
+- Why #WildChild aesthetic connects with Mowgli
+- Mental health interpretations for modern audiences
 - Identity struggles between online/offline worlds
 - Survival themes for climate anxiety generation
 
@@ -320,18 +320,18 @@
 ### 🚨 IF CONTENT GETS FLAGGED/REPORTED
 
 #### **IMMEDIATE RESPONSE**:
-1. **Don't panic** - educational content ma strong protections
+1. **Don't panic** - educational content has strong protections
 2. **Document everything** - screenshots, emails, timestamps
-3. **Prepare appeals** z educational justification
-4. **Contact platform education teams** gdzie applicable
+3. **Prepare appeals** with educational justification
+4. **Contact platform education teams** where applicable
 
 #### **APPEAL STRATEGY**:
 > "This content provides critical academic analysis of classic literature, including necessary historical context about the author's documented prejudices. Educational discussion of racism in historical works is essential for media literacy and critical thinking. The content condemns racist views while preserving important literary and cultural knowledge."
 
 #### **BACKUP PLANS**:
-- **Platform diversification** - nie rely only on Meta platforms
-- **Community building** na safer platforms (Spotify, Kick)
-- **Email list** dla direct audience communication
+- **Platform diversification** - don't rely only on Meta platforms
+- **Community building** on safer platforms (Spotify, Kick)
+- **Email list** for direct audience communication
 - **Alternative hosting** for controversial but educational content
 
 ---
@@ -351,9 +351,9 @@
 
 ### 📊 RECOMMENDED STRATEGY MATRIX
 
-**For Maximum Revenue**: Focus content na Spotify i Kick z full academic treatment  
-**For Maximum Reach**: Use Disney-focused angle na YouTube z light disclaimers  
-**For Educational Impact**: Multi-platform approach z tailored content depth per platform  
+**For Maximum Revenue**: Focus content on Spotify and Kick with full academic treatment
+**For Maximum Reach**: Use Disney-focused angle on YouTube with light disclaimers
+**For Educational Impact**: Multi-platform approach with tailored content depth per platform
 **For Brand Safety**: Avoid Meta platforms for controversial academic content
 
 ---
@@ -362,37 +362,37 @@
 
 ### ✅ UNIVERSAL REQUIREMENTS
 
-- [ ] **Original commentary** dominates quoted material (nie copy-paste z research)
+- [ ] **Original commentary** dominates quoted material (not copy-paste from research)
 - [ ] **Educational framing** for all sensitive topics
 - [ ] **Historical context** disclaimers for colonial content
 - [ ] **Age-appropriate** content labeling per platform
 - [ ] **Fact-checking** controversial claims about Kipling
 - [ ] **Content warnings** for mental health/racism discussions
-- [ ] **Copyright compliance** (nie use long audiobook excerpts)
+- [ ] **Copyright compliance** (don't use long audiobook excerpts)
 
 ### ✅ PLATFORM-SPECIFIC CHECKLIST
 
 **Meta Platforms (Facebook/Instagram)**:
-- [ ] Extreme caution z controversial topics
-- [ ] Focus na positive educational aspects only
+- [ ] Extreme caution with controversial topics
+- [ ] Focus on positive educational aspects only
 - [ ] No political discussion of colonialism
 - [ ] Strong community guidelines review
 
 **YouTube**:
-- [ ] Human narration (nie AI text-to-speech)
+- [ ] Human narration (not AI text-to-speech)
 - [ ] Original educational value-add required
-- [ ] 1+ minute content dla monetization consideration
+- [ ] 1+ minute content for monetization consideration
 - [ ] Proper use of educational content disclaimers
 
 **TikTok**:
-- [ ] 1+ minute minimum dla monetization eligibility
-- [ ] Original educational content only (nie duets/stitches)
+- [ ] 1+ minute minimum for monetization eligibility
+- [ ] Original educational content only (no duets/stitches)
 - [ ] Strong educational framing
 - [ ] Age-restriction for author controversy content
 
 **Spotify**:
-- [ ] Video format dla maximum revenue
-- [ ] No copyrighted audiobook clips bez permission
+- [ ] Video format for maximum revenue
+- [ ] No copyrighted audiobook clips without permission
 - [ ] Original analysis over simple book summaries
 - [ ] Academic freedom approach acceptable
 
@@ -406,20 +406,20 @@
 
 ## Conclusion & Strategic Recommendations
 
-**"Księga dżungli"** presents a complex content challenge for 2025 social media landscape. While the basic story remains beloved children's literature, the historical context and author's documented prejudices create significant moderation risks, especially on Meta platforms.
+**"The Jungle Book"** presents a complex content challenge for 2025 social media landscape. While the basic story remains beloved children's literature, the historical context and author's documented prejudices create significant moderation risks, especially on Meta platforms.
 
-### 🎯 **OPTIMAL STRATEGY**: 
+### 🎯 **OPTIMAL STRATEGY**:
 1. **Platform Differentiation** - tailored content depth per platform capabilities
 2. **Educational Excellence** - use academic framing throughout
 3. **Transparency Priority** - address controversies head-on rather than hiding them
-4. **Community Focus** - build engaged audience na creator-friendly platforms (Spotify/Kick)
-5. **Crisis Preparedness** - have appeal strategies ready dla inevitable flags
+4. **Community Focus** - build engaged audience on creator-friendly platforms (Spotify/Kick)
+5. **Crisis Preparedness** - have appeal strategies ready for inevitable flags
 
-### 💡 **KEY INSIGHT**: 
-The book's cultural impact and educational value justify careful treatment of controversial aspects. The goal isn't censorship but rather critical media literacy that acknowledges both literary merit i historical problems.
+### 💡 **KEY INSIGHT**:
+The book's cultural impact and educational value justify careful treatment of controversial aspects. The goal isn't censorship but rather critical media literacy that acknowledges both literary merit and historical problems.
 
-**BOTTOM LINE**: With proper educational framing, content warnings, and platform-specific adaptation, "Księga dżungli" content can be successfully monetized across platforms while maintaining educational integrity and avoiding major moderation issues.
+**BOTTOM LINE**: With proper educational framing, content warnings, and platform-specific adaptation, "The Jungle Book" content can be successfully monetized across platforms while maintaining educational integrity and avoiding major moderation issues.
 
 ---
 
-*Dokument przygotowany na podstawie aktualnych platform guidelines na sierpień 2025 i kompleksowej analizy 8 dokumentów researchu specjalistycznego*
+*Document prepared based on current platform guidelines for August 2025 and comprehensive analysis of 8 specialist research documents*

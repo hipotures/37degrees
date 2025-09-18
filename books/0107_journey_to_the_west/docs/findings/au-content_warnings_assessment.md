@@ -1,261 +1,261 @@
-# Ocena Content Warnings i Zgodności Platform: "Wędrówka na Zachód" (Journey to the West)
+# Content Warnings and Platform Compliance Assessment: "Journey to the West"
 
-**Książka**: Wędrówka na Zachód (Xi You Ji)  
-**Autor**: Wu Cheng'en  
-**Data analizy**: 1 września 2025  
-**Źródła**: 8 dokumentów researchu 37degrees + wytyczne platform 2025
+**Book**: Journey to the West (Xi You Ji)
+**Author**: Wu Cheng'en
+**Analysis Date**: September 18, 2025
+**Sources**: 8 research documents from 37degrees agents + 2025 platform guidelines
 
 ---
 
 ## Executive Summary
 
-**OGÓLNA OCENA RYZYKA**: 🟡 **ŚREDNIE RYZYKO** z elementami wysokiego ryzyka na Meta platformach
+**OVERALL RISK ASSESSMENT**: 🟡 **MEDIUM RISK** with high-risk elements on Meta platforms
 
-"Wędrówka na Zachód" jako klasyk literatury światowej ma potencjał edukacyjny, ale zawiera kilka problematycznych elementów wymagających szczególnej uwagi w kontekście zasad platform społecznościowych 2025. Główne zagrożenia to: polityczne interpretacje, przemoc, kontrowersje religijne i problematyka genderowa.
-
----
-
-## Matrix Content Warnings vs Platformy
-
-### 🔴 WYSOKIE RYZYKO
-
-| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|---------|----------|-----------|---------|---------|---------|------|
-| **Polityczne interpretacje Sun Wukonga** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
-| **Krytyka autorytetu/władzy** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
-| **Przemoc i brutalna natura bohaterów** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
-| **Problematyczne przedstawienie kobiet** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
-
-### 🟡 ŚREDNIE RYZYKO
-
-| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|---------|----------|-----------|---------|---------|---------|------|
-| **Synkretyzm religijny** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
-| **Okultyzm i ezoteryzm taoistyczny** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
-| **Cenzura i prześladowania literackie** | 🟡 | 🟡 | 🟢 | 🟡 | 🟢 | 🟢 |
-| **Moralna dwuznaczność bohaterów** | 🟡 | 🟡 | 🟢 | 🟡 | 🟢 | 🟢 |
-
-### 🟢 NISKIE RYZYKO
-
-| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|---------|----------|-----------|---------|---------|---------|------|
-| **Analiza literacka** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
-| **Wpływ kulturowy** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
-| **Historia literatury** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
-| **Adaptacje w kulturze popularnej** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+"Journey to the West" as a world literature classic has educational potential, but contains several problematic elements requiring special attention in the context of 2025 social media platform policies. Main threats include: political interpretations, violence, religious controversies, and gender issues.
 
 ---
 
-## Szczegółowa Ocena Problemów
+## Content Warnings vs Platforms Matrix
 
-### 1. PROBLEMATYKA POLITYCZNA 🔴
+### 🔴 HIGH RISK
 
-#### Identyfikowane zagrożenia:
-- **Sun Wukong jako symbol rewolucji** - bunt przeciwko Niebu interpretowany jako przeciwko władzy
-- **Chińska animacja "Havoc in Heaven" (1965)** - Król Małp porównywany do Mao Zedonga
-- **Krytyka cesarza Ming Shizonga** - insynuacje polityczne Wu Cheng'ena
-- **Współczesne interpretacje buntu** - alegoria jednostki walczącej z systemem autorytarnym
+| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|---------|----------|-----------|---------|---------|---------|------|
+| **Political interpretations of Sun Wukong** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
+| **Criticism of authority/power** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
+| **Violence and brutal character nature** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
+| **Problematic representation of women** | 🔴 | 🔴 | 🟡 | 🟡 | 🟢 | 🟢 |
 
-#### Ryzyko platformowe:
-- **Meta (Facebook/Instagram)**: 🔴 **WYSOKIE** - nowe liberalne zasady mogą być nieprzewidywalne
-- **YouTube**: 🟡 **ŚREDNIE** - ostrzejsze egzekwowanie politycznych treści
-- **TikTok**: 🟡 **ŚREDNIE** - kontekst edukacyjny może pomóc
-- **Spotify/Kick**: 🟢 **NISKIE** - większa tolerancja dla dyskusji akademickich
+### 🟡 MEDIUM RISK
 
-#### Rekomendacje:
-- **EDIT/FRAME**: Przedstawiaj jako analizę literacką, nie polityczną
-- **AVOID**: Bezpośrednie porównania do współczesnych liderów
-- **CONTEXT**: Podkreślaj historyczny kontekst dynastii Ming
+| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|---------|----------|-----------|---------|---------|---------|------|
+| **Religious syncretism** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
+| **Taoist occultism and esotericism** | 🟡 | 🟡 | 🟡 | 🟡 | 🟢 | 🟢 |
+| **Censorship and literary persecution** | 🟡 | 🟡 | 🟢 | 🟡 | 🟢 | 🟢 |
+| **Moral ambiguity of characters** | 🟡 | 🟡 | 🟢 | 🟡 | 🟢 | 🟢 |
 
-### 2. PRZEMOC I MORALNA DWUZNACZNOŚĆ 🟡
+### 🟢 LOW RISK
 
-#### Identyfikowane elementy:
-- **"Złoczyńczy protagonista"** - Sun Wukong w pierwszych rozdziałach
-- **Brutalna natura** - krótki temperament, skłonność do gniewu
-- **Moralne czyny wątpliwe** - nawet jako uczeń Tang Sanzanga
-- **Zniszczenie niebiańskich struktur** - wandalizm i przemoc
-
-#### Ryzyko platformowe:
-- **Wszystkie platformy**: 🟡 **ŚREDNIE** - przemoc w kontekście literackim
-- **Wyjątek**: Kick ma największą tolerancję
-
-#### Rekomendacje:
-- **FRAME**: Przemoc jako element rozwoju charakteru
-- **CONTEXT**: Wyjaśnij allegoryczne znaczenia
-- **BALANCE**: Pokaż ewolucję morálną bohaterów
-
-### 3. PROBLEMATYKA GENDEROWA 🔴
-
-#### Identyfikowane problemy:
-- **Binarne postrzeganie kobiet** - Guanyin (święta) vs Biała Kość (zagrożenie)
-- **Obiektyfikacja** - Chang'e w spojrzeniu Zhu Bajie
-- **Patriarchalne struktury** - kobiety w ograniczonych rolach dynastii Ming
-- **Lęk przed kobiecą władzą** - "kobiety mogą zakłócić społeczeństwo"
-
-#### Ryzyko platformowe w 2025:
-- **Meta**: 🔴 **WYSOKIE** - nowe zasady mogą wpływać na dyskusje o płci
-- **Pozostałe**: 🟡 **ŚREDNIE** - wymagane kontekstualizowanie historyczne
-
-#### Rekomendacje:
-- **CRITICAL ANALYSIS**: Analizuj problematyczne elementy krytycznie
-- **HISTORICAL CONTEXT**: Tłumacz ograniczenia epoki
-- **MODERN PERSPECTIVE**: Porównaj z współczesnymi standardami
-
-### 4. SYNKRETYZM RELIGIJNY 🟡
-
-#### Potencjalne problemy:
-- **Mieszanie tradycji** - buddyzm, taoizm, konfucjanizm
-- **Ezoteryczne praktyki** - alchemia wewnętrzna, nieśmiertelność
-- **Okulytyzm taoistyczny** - ukryte przepisy, tajemne praktyki
-
-#### Ryzyko platformowe:
-- **Meta**: 🟡 **ŚREDNIE** - religijna wrażliwość
-- **Pozostałe**: 🟢-🟡 **NISKIE-ŚREDNIE** - kontekst edukacyjny pomaga
-
-#### Rekomendacje:
-- **EDUCATIONAL FRAMING**: Przedstaw jako studium kulturowe
-- **RESPECTFUL APPROACH**: Szanuj wszystkie tradycje religijne
-- **ACADEMIC TONE**: Unikaj sensacjonalizowania
+| Element | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|---------|----------|-----------|---------|---------|---------|------|
+| **Literary analysis** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| **Cultural impact** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| **History of literature** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| **Adaptations in popular culture** | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
 
 ---
 
-## Klasyfikacja Wiekowa
+## Detailed Problem Assessment
 
-### 13+ Content (Bezpieczne dla wszystkich platform):
-- **Historia powstania książki**
-- **Wpływ na kulturę popularną** (Dragon Ball, gry)
-- **Podstawowa analiza charakterów**
-- **Adaptacje filmowe i teatralne**
+### 1. POLITICAL ISSUES 🔴
 
-### 16+ Content (Age-restrict zalecane):
-- **Analiza politycznych interpretacji**
-- **Przemoc i moralna dwuznaczność**
-- **Kontrowersje autorskie**
-- **Cenzura i prześladowania literackie**
+#### Identified Threats:
+- **Sun Wukong as symbol of revolution** - rebellion against Heaven interpreted as against authority
+- **Chinese animation "Havoc in Heaven" (1965)** - Monkey King compared to Mao Zedong
+- **Criticism of Emperor Ming Shizong** - Wu Cheng'en's political insinuations
+- **Contemporary interpretations of rebellion** - allegory of individual fighting authoritarian system
+
+#### Platform Risk:
+- **Meta (Facebook/Instagram)**: 🔴 **HIGH** - new liberal policies may be unpredictable
+- **YouTube**: 🟡 **MEDIUM** - stricter enforcement of political content
+- **TikTok**: 🟡 **MEDIUM** - educational context may help
+- **Spotify/Kick**: 🟢 **LOW** - greater tolerance for academic discussions
+
+#### Recommendations:
+- **EDIT/FRAME**: Present as literary analysis, not political
+- **AVOID**: Direct comparisons to contemporary leaders
+- **CONTEXT**: Emphasize historical context of Ming dynasty
+
+### 2. VIOLENCE AND MORAL AMBIGUITY 🟡
+
+#### Identified Elements:
+- **"Villainous protagonist"** - Sun Wukong in early chapters
+- **Brutal nature** - short temper, tendency to anger
+- **Questionable moral acts** - even as Tang Sanzang's disciple
+- **Destruction of heavenly structures** - vandalism and violence
+
+#### Platform Risk:
+- **All platforms**: 🟡 **MEDIUM** - violence in literary context
+- **Exception**: Kick has highest tolerance
+
+#### Recommendations:
+- **FRAME**: Violence as element of character development
+- **CONTEXT**: Explain allegorical meanings
+- **BALANCE**: Show moral evolution of characters
+
+### 3. GENDER ISSUES 🔴
+
+#### Identified Problems:
+- **Binary perception of women** - Guanyin (saint) vs White Bone (threat)
+- **Objectification** - Chang'e in Zhu Bajie's gaze
+- **Patriarchal structures** - women in limited roles of Ming dynasty
+- **Fear of female power** - "women can disrupt society"
+
+#### Platform Risk in 2025:
+- **Meta**: 🔴 **HIGH** - new policies may affect gender discussions
+- **Others**: 🟡 **MEDIUM** - historical contextualization required
+
+#### Recommendations:
+- **CRITICAL ANALYSIS**: Analyze problematic elements critically
+- **HISTORICAL CONTEXT**: Explain limitations of the era
+- **MODERN PERSPECTIVE**: Compare with contemporary standards
+
+### 4. RELIGIOUS SYNCRETISM 🟡
+
+#### Potential Problems:
+- **Mixing traditions** - Buddhism, Taoism, Confucianism
+- **Esoteric practices** - internal alchemy, immortality
+- **Taoist occultism** - hidden recipes, secret practices
+
+#### Platform Risk:
+- **Meta**: 🟡 **MEDIUM** - religious sensitivity
+- **Others**: 🟢-🟡 **LOW-MEDIUM** - educational context helps
+
+#### Recommendations:
+- **EDUCATIONAL FRAMING**: Present as cultural study
+- **RESPECTFUL APPROACH**: Respect all religious traditions
+- **ACADEMIC TONE**: Avoid sensationalizing
+
+---
+
+## Age Classification
+
+### 13+ Content (Safe for all platforms):
+- **History of book creation**
+- **Impact on popular culture** (Dragon Ball, games)
+- **Basic character analysis**
+- **Film and theatrical adaptations**
+
+### 16+ Content (Age-restriction recommended):
+- **Analysis of political interpretations**
+- **Violence and moral ambiguity**
+- **Author controversies**
+- **Censorship and literary persecution**
 
 ### 18+ Content (Adult audience only):
-- **Głębokie analizy ezoteryzmu**
-- **Problematyka genderowa i patriarchalna**
-- **Polityczne porównania współczesne**
-- **Kontrowersyjne interpretacje społeczne**
+- **Deep analysis of esotericism**
+- **Gender and patriarchal issues**
+- **Contemporary political comparisons**
+- **Controversial social interpretations**
 
 ---
 
-## Rekomendacje dla Poszczególnych Platform
+## Platform-Specific Recommendations
 
-### Facebook/Instagram 🔴 **OSTROŻNIE**
-**Status**: Wysokie ryzyko nieprzewidywalnej moderacji w 2025
-
-**DO**:
-- Skup się na aspektach kulturowych i literackich
-- Używaj tagów: #LiteraturaKlasyczna #KulturaChińska #EdukacjaTradycja
-- Podkreślaj wartości edukacyjne
-
-**UNIKAJ**:
-- Politycznych interpretacji Sun Wukonga
-- Kontrowersyjnych dyskusji o władzy/autorytecie
-- Problematycznych elementów genderowych bez kontekstu
-
-**CONTENT WARNING**: "Treść edukacyjna o literaturze klasycznej zawierająca historyczne konteksty społeczne"
-
-### YouTube 🟡 **OSTROŻNIE Z OPTYMIZMEM**
-**Status**: Możliwe z ludzkími narracją i oryginalnym komentarzem
+### Facebook/Instagram 🔴 **CAUTION**
+**Status**: High risk of unpredictable moderation in 2025
 
 **DO**:
-- Używaj własnej narracji (nie text-to-speech)
-- Dodawaj oryginalny komentarz historyczny
-- Twórz storytelling approach
-- Filmy 1+ minuta dla monetyzacji
+- Focus on cultural and literary aspects
+- Use tags: #ClassicalLiterature #ChineseCulture #EducationTradition
+- Emphasize educational values
 
-**UNIKAJ**:
-- AI-generated content bez ludzkiego wkładu
-- Kompilacje bez dodatkowej wartości
+**AVOID**:
+- Political interpretations of Sun Wukong
+- Controversial discussions about power/authority
+- Problematic gender elements without context
+
+**CONTENT WARNING**: "Educational content about classical literature containing historical social contexts"
+
+### YouTube 🟡 **CAUTIOUS OPTIMISM**
+**Status**: Possible with human narration and original commentary
+
+**DO**:
+- Use own narration (not text-to-speech)
+- Add original historical commentary
+- Create storytelling approach
+- 1+ minute videos for monetization
+
+**AVOID**:
+- AI-generated content without human input
+- Compilations without added value
 - Automated voice-over
 
-**CONTENT WARNING**: "Analiza klasyki literatury zawierająca historyczne i kulturowe konteksty"
+**CONTENT WARNING**: "Classical literature analysis containing historical and cultural contexts"
 
-### TikTok 🟡 **ŚREDNIE PERSPEKTYWY**
-**Status**: Możliwe z educational framing i 1+ min content
+### TikTok 🟡 **MEDIUM PROSPECTS**
+**Status**: Possible with educational framing and 1+ min content
 
 **DO**:
-- Twórz originalne video ponad 1 minutę
+- Create original video over 1 minute
 - Educational framing - "Learn about..."
 - Personal storytelling approach
-- Użyj popularnych hashtagów: #BookTok #ChineseCulture
+- Use popular hashtags: #BookTok #ChineseCulture
 
-**UNIKAJ**:
-- Copying summaries z innych źródeł
-- Misinformation o historii
+**AVOID**:
+- Copying summaries from other sources
+- Misinformation about history
 - Under 1-minute content (no monetization)
 
-**CONTENT WARNING**: "Educational content o klasycznej literaturze chińskiej"
+**CONTENT WARNING**: "Educational content about Chinese classical literature"
 
-### Spotify 🟢 **PRZYJAZNE**
-**Status**: Najlepsze perspektywy dla book podcast content
+### Spotify 🟢 **FRIENDLY**
+**Status**: Best prospects for book podcast content
 
 **DO**:
-- Video podcasts dla wyższych zarobków
-- Originalne komentarze i analizy
+- Video podcasts for higher earnings
+- Original comments and analysis
 - Cross-platform promotion
 - Strategic ad breaks
 
-**UNIKAJ**:
+**AVOID**:
 - Copyrighted audiobook clips
-- Background music bez licencji
+- Background music without license
 - Mass-produced identical content
 
-**CONTENT WARNING**: "Podcast edukacyjny o klasycznej literaturze zawierający analizy historyczne"
+**CONTENT WARNING**: "Educational podcast about classical literature containing historical analysis"
 
-### Kick 🟢 **BARDZO PRZYJAZNE**
-**Status**: Największa swoboda dla educational content
+### Kick 🟢 **VERY FRIENDLY**
+**Status**: Greatest freedom for educational content
 
 **DO**:
 - Interactive book discussion streams
-- Live Q&A o literaturze
+- Live Q&A about literature
 - Community building around books
 - 95/5 revenue split - excellent earning potential
 
-**UNIKAJ**:
-- Privacy violations o autorach
+**AVOID**:
+- Privacy violations about authors
 - Extreme controversial takes without context
 
-**CONTENT WARNING**: "Educational literature stream z historical context"
+**CONTENT WARNING**: "Educational literature stream with historical context"
 
 ---
 
-## Content Warnings dla Słuchaczy
+## Content Warnings for Listeners
 
-### Uniwersalne Content Warnings:
+### Universal Content Warnings:
 ```
 ⚠️ CONTENT WARNING ⚠️
-Ten material zawiera dyskusje o:
-• Historycznych systemach władzy i krytyce społecznej
-• Tradycyjnych przedstawieniach ról płciowych (kontekst XVI w.)
-• Przemocy w kontekście literackim
-• Praktyk religijnych i duchowych różnych tradycji
-• Kontrowersyjnych interpretacjach politycznych
+This material contains discussions of:
+• Historical power systems and social criticism
+• Traditional gender role representations (16th century context)
+• Violence in literary context
+• Religious and spiritual practices of various traditions
+• Controversial political interpretations
 
-Materiał ma charakter edukacyjno-analityczny 
-z perspektywy historii literatury.
+Material has educational-analytical character
+from literature history perspective.
 ```
 
-### Platformowe Wersje:
+### Platform-Specific Versions:
 
 **Meta (Facebook/Instagram)**:
 ```
 📚 Educational Content
-Analiza klasycznej literatury chińskiej 
-z uwzględnieniem kontekstu historycznego.
-Materiał może zawierać referencje do 
-historycznych systemów społecznych.
+Analysis of Chinese classical literature
+with consideration of historical context.
+Material may contain references to
+historical social systems.
 ```
 
 **YouTube/TikTok**:
 ```
 🎓 Educational Analysis
-Exploring classic Chinese literature 
+Exploring classic Chinese literature
 with historical and cultural context.
-Content may include discussions of 
+Content may include discussions of
 traditional social structures and beliefs.
 ```
 
@@ -269,65 +269,65 @@ religious practices, and literary analysis.
 
 ---
 
-## Strategie Mitygacji Ryzyka
+## Risk Mitigation Strategies
 
 ### 1. Educational Framing Strategy
-- **Zawsze** rozpoczynaj od kontekstu edukacyjnego
-- Podkreślaj wartość historyczną i literacką
-- Używaj akademickiego tonu, nie sensacyjnego
+- **Always** start with educational context
+- Emphasize historical and literary value
+- Use academic tone, not sensational
 
 ### 2. Historical Context Strategy
-- Wyjaśniaj realia dynastii Ming (XVI wiek)
-- Porównuj z innymi epokami historycznymi
-- Pokazuj ewolucję społeczną od tamtych czasów
+- Explain Ming dynasty realities (16th century)
+- Compare with other historical periods
+- Show social evolution since those times
 
 ### 3. Cultural Appreciation Strategy
-- Szanuj wszystkie przedstawione tradycje religijne
-- Podkreślaj uniwersalne wartości ludzkie
-- Unikaj europocentrycznych osądów
+- Respect all represented religious traditions
+- Emphasize universal human values
+- Avoid Eurocentric judgments
 
 ### 4. Modern Relevance Strategy
-- Łącz z współczesną kulturą popularną (Dragon Ball, gaming)
-- Pokazuj wpływ na dzisiejsze media
-- Podkreślaj ponadczasowe tematy przyjaźni i rozwoju
+- Connect with contemporary popular culture (Dragon Ball, gaming)
+- Show influence on today's media
+- Emphasize timeless themes of friendship and development
 
 ---
 
-## Checkliata Compliance
+## Compliance Checklist
 
 ### Pre-Publication Checklist:
-- [ ] **Sprawdzono aktualnych wytycznych platform** (wrzesień 2025)
-- [ ] **Educational framing** w pierwszych 30 sekundach
-- [ ] **Content warnings** odpowiednie do platformy
-- [ ] **Historical context** dla kontrowersyjnych elementów
-- [ ] **Avoided political comparisons** do współczesności
-- [ ] **Respectful treatment** wszystkich tradycji religijnych
-- [ ] **Age-appropriate content** dla target audience
-- [ ] **Original commentary** dominuje nad cytatami
+- [ ] **Checked current platform guidelines** (September 2025)
+- [ ] **Educational framing** in first 30 seconds
+- [ ] **Content warnings** appropriate to platform
+- [ ] **Historical context** for controversial elements
+- [ ] **Avoided political comparisons** to contemporary times
+- [ ] **Respectful treatment** of all religious traditions
+- [ ] **Age-appropriate content** for target audience
+- [ ] **Original commentary** dominates over quotes
 
 ### Platform-Specific Checklist:
 
 #### Meta (Facebook/Instagram):
-- [ ] **Uniknięto kontrowersyjnych interpretacji** politycznych
-- [ ] **Problematyka genderowa** z kontekstem historycznym
-- [ ] **Focus na pozytywne aspekty** edukacyjne
-- [ ] **Hashtagi edukacyjne** (#Literatura #Historia)
+- [ ] **Avoided controversial political interpretations**
+- [ ] **Gender issues** with historical context
+- [ ] **Focus on positive educational aspects**
+- [ ] **Educational hashtags** (#Literature #History)
 
 #### YouTube:
-- [ ] **Ludzka narracja** (nie AI voice)
-- [ ] **Oryginalny komentarz** do materiałów źródłowych
-- [ ] **1+ minuta** dla monetyzacji
-- [ ] **Value-driven content** z educational purpose
+- [ ] **Human narration** (not AI voice)
+- [ ] **Original commentary** on source materials
+- [ ] **1+ minute** for monetization
+- [ ] **Value-driven content** with educational purpose
 
 #### TikTok:
-- [ ] **Originalne video 1+ minuta**
+- [ ] **Original video 1+ minute**
 - [ ] **Educational hashtags** (#BookTok #Learn)
 - [ ] **Personal storytelling** approach
-- [ ] **Uniknięto copyright violations**
+- [ ] **Avoided copyright violations**
 
 #### Spotify:
-- [ ] **Video format** dla higher earnings
-- [ ] **No copyrighted clips** bez permission
+- [ ] **Video format** for higher earnings
+- [ ] **No copyrighted clips** without permission
 - [ ] **Original analysis** dominates
 - [ ] **Strategic ad breaks** planned
 
@@ -339,18 +339,18 @@ religious practices, and literary analysis.
 
 ---
 
-## Monitoring i Reakcje
+## Monitoring and Responses
 
-### Red Flags wymagające natychmiastowej reakcji:
-- **Community Reports** o politycznej propagandzie
+### Red Flags requiring immediate response:
+- **Community Reports** about political propaganda
 - **Religious sensitivity** concerns
-- **Gender representation** complaints w 2025 context
+- **Gender representation** complaints in 2025 context
 - **Platform policy changes** affecting content
 
 ### Backup Plans:
 1. **Edit Strategy**: Prepare sanitized versions for risky platforms
-2. **Platform Migration**: Miej gotowe alternative platforms
-3. **Context Addition**: Dodaj więcej educational framing
+2. **Platform Migration**: Have alternative platforms ready
+3. **Context Addition**: Add more educational framing
 4. **Content Adjustment**: Modify controversial segments
 
 ---
@@ -360,14 +360,14 @@ religious practices, and literary analysis.
 ### Optimal Platform Strategy:
 1. **Primary**: Spotify (best monetization + lowest risk)
 2. **Secondary**: Kick (creator-friendly + educational freedom)
-3. **Tertiary**: YouTube (z careful human narration)
+3. **Tertiary**: YouTube (with careful human narration)
 4. **Risky but viable**: TikTok (1+ min educational only)
 5. **High risk**: Meta platforms (minimal, safe content only)
 
 ### Content Creation Priority:
-1. Focus on **cultural impact** i **modern adaptations**
-2. Minimize **political interpretations** i **controversial elements**
-3. Maximize **educational value** i **historical context**
+1. Focus on **cultural impact** and **modern adaptations**
+2. Minimize **political interpretations** and **controversial elements**
+3. Maximize **educational value** and **historical context**
 4. Build **positive community** around literature appreciation
 
 ### Success Metrics:
@@ -378,7 +378,7 @@ religious practices, and literary analysis.
 
 ---
 
-**Data compliance**: Ta ocena była aktualna na wrzesień 2025 i wymaga regularnej aktualizacji wraz ze zmianami polityk platform.**
+**Data compliance**: This assessment was current as of September 2025 and requires regular updates with platform policy changes.
 
-**Autor analizy**: 37degrees Content Warnings Assessment Agent
-**Następna aktualizacja zalecana**: Grudzień 2025
+**Analysis author**: 37degrees Content Warnings Assessment Agent
+**Next update recommended**: December 2025

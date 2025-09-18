@@ -1,130 +1,130 @@
-# Wpływ Kulturowy: "Journey to the West" (Wędrówka na Zachód)
+# Cultural Impact: "Journey to the West"
 
-## Wprowadzenie
+## Introduction
 
-"Journey to the West" Wu Cheng'ena to jeden z najbardziej wpływowych tekstów literackich w historii kultury światowej. Napisana w XVI wieku podczas dynastii Ming, powieść nie tylko stała się jedną z Czterech Wielkich Klasycznych Powieści chińskich, ale przez wieki inspirowała niezliczone adaptacje, referencje i reinterpretacje w kulturze popularnej na całym świecie.
+"Journey to the West" by Wu Cheng'en is one of the most influential literary texts in world cultural history. Written in the 16th century during the Ming Dynasty, the novel has not only become one of the Four Great Classical Novels of China, but has inspired countless adaptations, references, and reinterpretations in popular culture worldwide for centuries.
 
-## 1. ADAPTACJE FILMOWE I TELEWIZYJNE
+## 1. FILM AND TELEVISION ADAPTATIONS
 
-### Kultowa Adaptacja Telewizyjna z 1986 roku
-1. **Klasyczna seria CCTV (1986-2000)** - uznawana za definicyjną adaptację, nadal wspominana w chińskiej kulturze popularnej
-2. **Drugi sezon z lat 90.** - uzupełnienie pierwszego sezonu o pominięte fragmenty oryginału
-3. **Międzynarodowe uznanie** - seria wciąż uważana za wzorzec adaptacji klasycznej literatury chińskiej
+### Iconic 1986 Television Adaptation
+1. **Classic CCTV Series (1986-2000)** - considered the definitive adaptation, still remembered in Chinese popular culture
+2. **Second season from the 90s** - supplemented the first season with omitted fragments from the original
+3. **International recognition** - series still considered the standard for adapting Chinese classical literature
 
-### Współczesne Adaptacje Hollywoodzkie
-4. **"The Forbidden Kingdom" (2008)** - pierwszy film angielskojęzyczny w reżyserii amerykańskiej z Jackie'em Chanem i Jet Li
-5. **Budżet 55 milionów dolarów** - wpływy 128 milionów na świecie
-6. **Hołd dla filmów Shaw Brothers** - muzyka i czołówka nawiązujące do klasyki kung-fu
-7. **Reimaginacja dla zachodnich widzów** - amerykański nastolatek jako protagonista
+### Contemporary Hollywood Adaptations
+4. **"The Forbidden Kingdom" (2008)** - first English-language film in American direction with Jackie Chan and Jet Li
+5. **55 million dollar budget** - 128 million worldwide box office
+6. **Tribute to Shaw Brothers films** - music and opening credits referencing kung-fu classics
+7. **Reimagination for Western audiences** - American teenager as protagonist
 
-### Animowane Adaptacje
-8. **"Monkey King: Hero Is Back" (2015)** - najgroszykowy chiński film animowany tamtych czasów
-9. **"The Monkey King" Netflix (2023)** - nowoczesna reinterpretacja dla globalnej publiczności
-10. **"Princess Iron Fan" (1941)** - pierwszy chiński pełnometrażowy film animowany
-11. **"Enoken's Sun Wukong" (1940)** - jedna z najwcześniejszych adaptacji filmowych
+### Animated Adaptations
+8. **"Monkey King: Hero Is Back" (2015)** - highest-grossing Chinese animated film of its time
+9. **"The Monkey King" Netflix (2023)** - modern reinterpretation for global audience
+10. **"Princess Iron Fan" (1941)** - first Chinese feature-length animated film
+11. **"Enoken's Sun Wukong" (1940)** - one of the earliest film adaptations
 
-## 2. WPŁYW NA ANIME I MANGĘ
+## 2. INFLUENCE ON ANIME AND MANGA
 
-### Dragon Ball - Najsłynniejsza Inspiracja
-12. **Son Goku = Sun Wukong** - japońska wymowa chińskiego imienia Król Małp
-13. **Akira Toriyama bezpośrednio inspirowany** - struktura narracyjna, elementy tematyczne
-14. **Chmura Latająca Nimbus** - adaptacja chmury Sun Wukonga
-15. **Rozciągliwy kij Power Pole** - odpowiednik Ruyi Jingu Bang
-16. **Transformacja w Wielkiej Małpy** - nawiązanie do małpich korzeni
-17. **Poszukiwanie Smoczych Kul** - paralelne do poszukiwań sutr buddyjskich
+### Dragon Ball - Most Famous Inspiration
+12. **Son Goku = Sun Wukong** - Japanese pronunciation of the Chinese Monkey King's name
+13. **Akira Toriyama directly inspired** - narrative structure, thematic elements
+14. **Flying Nimbus Cloud** - adaptation of Sun Wukong's cloud
+15. **Extendable Power Pole** - equivalent of Ruyi Jingu Bang
+16. **Great Ape transformation** - reference to monkey origins
+17. **Search for Dragon Balls** - parallel to search for Buddhist sutras
 
-### Inne Znaczące Wpływy w Anime
-18. **One Piece - Monkey D. Luffy** - nazwisko i motyw małpi bezpośrednio od Sun Wukonga
-19. **Bajrang Gun Gear 5** - technika nawiązująca do hinduskiego boga małp Hanumana
-20. **Goku przewyższył źródło** - według Kishimoto, ludzie myślą o Dragon Ball Goku zamiast o oryginalnym
+### Other Significant Anime Influences
+18. **One Piece - Monkey D. Luffy** - surname and monkey motif directly from Sun Wukong
+19. **Bajrang Gun Gear 5** - technique referencing Hindu monkey god Hanuman
+20. **Goku surpassed the source** - according to Kishimoto, people think of Dragon Ball Goku instead of the original
 
-## 3. GAMING I KULTURA CYFROWA 
+## 3. GAMING AND DIGITAL CULTURE
 
-### Black Myth: Wukong - Fenomen 2024
-21. **20 milionów sprzedanych kopii w pierwszy miesiąc** - jeden z najszybciej sprzedających się gier wszech czasów
-22. **2,2 miliona równoczesnych graczy na Steam** - rekord dla gry single-player
-23. **Game Science Studio** - pierwszy chiński Triple-A sukces globalny
-24. **Wzrost sprzedaży książki o 500%** - w 48 godzin po premierze gry
-25. **Boost turystyki** - zwiększenie zainteresowania lokalizacjami z gry
+### Black Myth: Wukong - 2024 Phenomenon
+21. **20 million copies sold in first month** - one of the fastest-selling games of all time
+22. **2.2 million concurrent players on Steam** - record for single-player game
+23. **Game Science Studio** - first Chinese Triple-A global success
+24. **500% increase in book sales** - within 48 hours of game release
+25. **Tourism boost** - increased interest in game locations
 
-### MOBA i MMO Gry
-26. **League of Legends Wukong** - jedyny champion z dwoma skinami Lunar Revel
-27. **Smite, Heroes of Newerth, Dota 2** - wszystkie zawierają postać bazującą na Sun Wukongu
-28. **Honor of Kings** - zawiera Sun Wukonga, Tang Sanzanga i Zhu Bajie jako bohaterów
+### MOBA and MMO Games
+26. **League of Legends Wukong** - only champion with two Lunar Revel skins
+27. **Smite, Heroes of Newerth, Dota 2** - all contain characters based on Sun Wukong
+28. **Honor of Kings** - features Sun Wukong, Tang Sanzang, and Zhu Bajie as heroes
 
-## 4. LITERATURA ZACHODNIA I AUTORZY
+## 4. WESTERN LITERATURE AND AUTHORS
 
-### Bezpośredni Wpływ na Zachodnich Twórców
-29. **Neil Gaiman zatrudniony (2011)** - do napisania scenariusza adaptacji za 100 milionów dolarów
-30. **James Cameron jako konsultant** - nadzór nad technologią 3D w planowanej trylogii
-31. **Guillermo del Toro zainteresowany reżyserią** - pokazuje prestiż projektu w Hollywood
-32. **Gene Luen Yang "American Born Chinese"** - Król Małp jako metafora doświadczenia imigranta
+### Direct Influence on Western Creators
+29. **Neil Gaiman hired (2011)** - to write screenplay for 100 million dollar adaptation
+30. **James Cameron as consultant** - overseeing 3D technology in planned trilogy
+31. **Guillermo del Toro interested in directing** - shows prestige of Hollywood project
+32. **Gene Luen Yang "American Born Chinese"** - Monkey King as metaphor for immigrant experience
 
-### Wpływ na Fantasy Literature
-33. **Philip Pullman i Neil Gaiman** - czerpanie inspiracji z mitów i legend Journey to the West
-34. **Elementy w zachodniej literaturze fantasy** - wyprawy, mityczne stworzenia, podróże bohaterów
+### Influence on Fantasy Literature
+33. **Philip Pullman and Neil Gaiman** - drawing inspiration from Journey to the West myths and legends
+34. **Elements in Western fantasy literature** - quests, mythical creatures, hero journeys
 
-## 5. TEATR I OPERA
+## 5. THEATER AND OPERA
 
-### Beijing Opera - Historyczne Korzenie
-35. **Opera Yuan dynasty "Journey to the West"** - jeden z najdłuższych dzieł operowych dynastii Yuan
-36. **Yang Jingxian jako autor** - 24-aktowa opera będąca źródłem dla powieści Wu Cheng'ena
-37. **Wusheng role** - Sun Wukong jako bohaterska postać skupiona na walce i akrobacjach
-38. **Lingzi (długie pióra)** - symboliczne gesty emocji w przedstawieniach Króla Małp
+### Beijing Opera - Historical Roots
+35. **Yuan dynasty "Journey to the West" opera** - one of the longest operatic works of Yuan dynasty
+36. **Yang Jingxian as author** - 24-act opera serving as source for Wu Cheng'en's novel
+37. **Wusheng role** - Sun Wukong as heroic character focused on combat and acrobatics
+38. **Lingzi (long feathers)** - symbolic emotional gestures in Monkey King performances
 
-### Współczesne Adaptacje Teatralne
-39. **San Francisco Opera "The Monkey King"** - światowa premiera w War Memorial Opera House
-40. **Huang Ruo (muzyka) i David Henry Hwang (libretto)** - nowoczesna opera łącząca tradycję z innowacją
-41. **3D Digital Peking Opera Animation** - współpraca szkół pekińskich z uniwersytetami międzynarodowymi
+### Contemporary Theatrical Adaptations
+39. **San Francisco Opera "The Monkey King"** - world premiere at War Memorial Opera House
+40. **Huang Ruo (music) and David Henry Hwang (libretto)** - modern opera combining tradition with innovation
+41. **3D Digital Peking Opera Animation** - collaboration between Beijing schools and international universities
 
-## 6. PARKI TEMATYCZNE I TURYSTYKA
+## 6. THEME PARKS AND TOURISM
 
-### Dedykowane Atrakcje Turystyczne
-42. **Xiyou World of Adventure w Huai'an** - rodzinne miasto Wu Cheng'ena
-43. **"Battle with the White Bone Spirit"** - sześciominutowa ciemna przejażdżka, jedna z najpopularniejszych atrakcji
-44. **Christie RGB laser projectors** - najnowocześniejsza technologia projekcji
-45. **358 yuan za rodzinę** - mniej niż 1/3 ceny Shanghai Disneyland
+### Dedicated Tourist Attractions
+42. **Xiyou World of Adventure in Huai'an** - Wu Cheng'en's hometown
+43. **"Battle with the White Bone Spirit"** - six-minute dark ride, one of the most popular attractions
+44. **Christie RGB laser projectors** - state-of-the-art projection technology
+45. **358 yuan for family** - less than 1/3 the price of Shanghai Disneyland
 
-### Rzeczywiste Lokalizacje
-46. **Mount Huaguo w Lianyungang** - identyfikowane jako miejsce narodzin Sun Wukonga
-47. **Dongshan Island, Fujian** - lokalizacja zdjęciowa Góry Kwiatów i Owoców z serialu 1986
-48. **Huangguoshu Waterfall, Guizhou** - Jaskinia Wodnej Kurtyny z klasycznej adaptacji
-49. **Yunnan Stone Forest** - magiczna atmosfera powstania Sun Wukonga ze skały
+### Real Locations
+46. **Mount Huaguo in Lianyungang** - identified as Sun Wukong's birthplace
+47. **Dongshan Island, Fujian** - filming location for Flower Fruit Mountain from 1986 series
+48. **Huangguoshu Waterfall, Guizhou** - Water Curtain Cave from classic adaptation
+49. **Yunnan Stone Forest** - magical atmosphere of Sun Wukong's birth from stone
 
-## 7. MERCHANDISING I KOMERCJALIZACJA
+## 7. MERCHANDISING AND COMMERCIALIZATION
 
-### Oficjalne Produkty i Kolekcje
-50. **Queen Studios figurki Black Myth: Wukong** - limitowane do 10 tysięcy sztuk w Collector's Edition
-51. **Numerowane popiersia** - tylko 780 sztuk z certyfikatami Yang Qi i Oliver Liu
-52. **Game Science BLACK MYTH brand (2025)** - oficjalna marka lifestyle dla graczy
-53. **China United Airlines samolot** - tematyczny design z wizerunkiem Sun Wukonga
+### Official Products and Collections
+50. **Queen Studios Black Myth: Wukong figures** - limited to 10,000 units in Collector's Edition
+51. **Numbered busts** - only 780 pieces with Yang Qi and Oliver Liu certificates
+52. **Game Science BLACK MYTH brand (2025)** - official lifestyle brand for gamers
+53. **China United Airlines aircraft** - themed design featuring Sun Wukong
 
-### Globalny Merchandise
-54. **Redbubble i platformy niezależne** - t-shirty, postery, dekoracje inspirowane League of Legends Wukong
-55. **Riot China merch store** - stylowe figurki Wukonga dla społeczności graczy
+### Global Merchandise
+54. **Redbubble and independent platforms** - t-shirts, posters, decorations inspired by League of Legends Wukong
+55. **Riot China merch store** - stylish Wukong figures for gaming community
 
-## 8. MUZYKA I KULTURA POPULARNA
+## 8. MUSIC AND POPULAR CULTURE
 
-### K-Pop i Muzyka Azjatycka
-56. **Seventeen "손오공" (2023)** - południowokoreański zespół z referencjami do mocy Sun Wukonga
-57. **Nawiązania do latania na chmurach** - w tekście i klipie zespołu
+### K-Pop and Asian Music
+56. **Seventeen "손오공" (2023)** - South Korean group with references to Sun Wukong's powers
+57. **References to cloud flying** - in lyrics and music video
 
-## 9. INTERNET I KULTURA MEMÓW
+## 9. INTERNET AND MEME CULTURE
 
-### Cyfrowa Transformacja
-58. **A Chinese Odyssey series** - nonsensowny styl komediowy, głębokie tematy miłosne
-59. **Klasyczne kwestie wciąż cytowane** - wpływ na całe pokolenie widzów
-60. **Tumblr "journey-to-the-west-quotes"** - aktywne społeczności cytatów online
+### Digital Transformation
+58. **A Chinese Odyssey series** - nonsensical comedy style, deep romantic themes
+59. **Classic quotes still cited** - influence on entire generation of viewers
+60. **Tumblr "journey-to-the-west-quotes"** - active online quote communities
 
-## Podsumowanie Kulturowego Wpływu
+## Summary of Cultural Impact
 
-"Journey to the West" transcenduje swoje XVI-wieczne chińskie pochodzenie, stając się globalnym fenomenem kulturowym. Od definicyjnych postaci anime jak Son Goku, przez hollywoodzkie blockbustery, aż po przełomowe gry wideo - opowieść o Sun Wukongu i jego towarzyszach wciąż inspiruje twórców na całym świecie.
+"Journey to the West" transcends its 16th-century Chinese origins to become a global cultural phenomenon. From defining anime characters like Son Goku, through Hollywood blockbusters, to breakthrough video games - the story of Sun Wukong and his companions continues to inspire creators worldwide.
 
-Szczególnie widoczny jest wpływ na:
-- **Kulturę gier wideo** - Black Myth: Wukong jako przełomowy moment 2024 roku
-- **Anime i mangę** - Dragon Ball jako najsłynniejszy przykład adaptacji
-- **Hollywood** - od The Forbidden Kingdom po planowane produkcje Neil Gaimana
-- **Turystykę kulturową** - parki tematyczne i rzeczywiste lokalizacje
-- **Tradycyjne sztuki** - Beijing Opera i współczesne adaptacje teatralne
+The influence is particularly visible in:
+- **Video game culture** - Black Myth: Wukong as a breakthrough moment of 2024
+- **Anime and manga** - Dragon Ball as the most famous adaptation example
+- **Hollywood** - from The Forbidden Kingdom to planned Neil Gaiman productions
+- **Cultural tourism** - theme parks and real locations
+- **Traditional arts** - Beijing Opera and contemporary theatrical adaptations
 
-Powieść Wu Cheng'ena nie tylko zachowuje żywotność po 500 latach, ale w erze cyfrowej zyskuje nowych wielbicieli przez gry, social media i globalne adaptacje, udowadniając uniwersalność swoich tematów przyjaźni, lojalności i duchowej podróży.
+Wu Cheng'en's novel not only maintains vitality after 500 years, but in the digital age gains new fans through games, social media, and global adaptations, proving the universality of its themes of friendship, loyalty, and spiritual journey.

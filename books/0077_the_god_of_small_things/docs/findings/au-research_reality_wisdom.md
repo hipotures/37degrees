@@ -1,301 +1,301 @@
-# Rzeczywistość kontra przewidywania: "Bóg rzeczy małych" (1997-2025)
+# Reality vs Predictions: "The God of Small Things" (1997-2025)
 
-## Wprowadzenie
+## Introduction
 
-"Bóg rzeczy małych" Arundhati Roy (1997) to nie tylko powieść, ale także profetyczna wizja Indii na przełomie tysiącleci. Po 28 latach od publikacji możemy ocenić, które obserwacje autorki się sprawdziły, a które pozostają aktualnymi wyzwaniami. Książka oferuje ponadczasowe lekcje o miłości, systemie kastowym i naturze ludzkiej.
+"The God of Small Things" by Arundhati Roy (1997) is not only a novel but also a prophetic vision of India at the turn of the millennium. After 28 years since publication, we can assess which of the author's observations came true and which remain current challenges. The book offers timeless lessons about love, the caste system, and human nature.
 
-## 1. PRZEWIDYWANIA SPOŁECZNE: CO SIĘ SPRAWDZIŁO
+## 1. SOCIAL PREDICTIONS: WHAT CAME TRUE
 
-### ✅ Trwałość systemu kastowego
+### ✅ Persistence of the Caste System
 
-**Przewidywanie Roy (1997):** System kastowy będzie nadal wpływał na życie Indusów mimo oficjalnego zakazu dyskryminacji.
+**Roy's Prediction (1997):** The caste system would continue to influence Indians' lives despite official prohibition of discrimination.
 
-**Rzeczywistość 2025:**
-- Pomimo Ustawy o Zapobieganiu Okrucieństwom z 1989 roku, przestępczość wobec Dalitów znacznie wzrosła
-- 67% Dalitów w USA raportuje dyskryminację w miejscu pracy (2018)
-- System kastowy określany jako "ukryty apartheid Indii"
-- Prawne ramy same w sobie nie wystarczyły do ochrony marginalizowanych społeczności
+**Reality 2025:**
+- Despite the Prevention of Atrocities Act of 1989, crimes against Dalits have significantly increased
+- 67% of Dalits in the USA report workplace discrimination (2018)
+- The caste system is described as "India's hidden apartheid"
+- Legal frameworks alone were insufficient to protect marginalized communities
 
-**Wniosek:** Roy miała rację - głęboko zakorzenione uprzedzenia społeczne nie znikają przez zmianę prawa.
+**Conclusion:** Roy was right - deeply rooted social prejudices don't disappear through legal changes.
 
-### ✅ Wpływ rozwoju ekonomicznego na środowisko
+### ✅ Impact of Economic Development on Environment
 
-**Przewidywanie Roy (1997):** Szybki rozwój turystyki i przemysłu zniszczy naturalne środowisko Kerala, szczególnie rzeki.
+**Roy's Prediction (1997):** Rapid development of tourism and industry would destroy Kerala's natural environment, especially rivers.
 
-**Rzeczywistość 2025:**
-- Rzeka Meenachal (wzorowana na prawdziwej rzece) rzeczywiście ucierpiała przez rozwój turystyki
-- Roy stała się uznaną aktywistką środowiskową, walcząc przeciwko wielkim projektom infrastrukturalnym
-- Jej krytyka zapór na Narmadzie okazała się prorocza - wielkie projekty rzeczywiście wypierały najuboższych
+**Reality 2025:**
+- The Meenachal River (modeled on a real river) indeed suffered from tourism development
+- Roy became a recognized environmental activist, fighting against major infrastructure projects
+- Her criticism of Narmada dams proved prophetic - large projects indeed displaced the poorest
 
-**Wniosek:** Ekologiczne ostrzeżenia autorki były niezwykle trafne.
+**Conclusion:** The author's ecological warnings were remarkably accurate.
 
-### ✅ Połączenie niesprawiedliwości społecznej z degradacją środowiska
+### ✅ Connection Between Social Injustice and Environmental Degradation
 
-**Przewidywanie Roy (1997):** Najbardziej ucierpi środowisko i ubodzy, którzy są od niego najbardziej zależni.
+**Roy's Prediction (1997):** The environment and the poor, who depend most on it, would suffer the most.
 
-**Rzeczywistość 2025:**
-- Niszczenie środowiska nieproporcjonalnie dotyka biednych, którzy najbardziej bezpośrednio zależą od zasobów naturalnych
-- Roy w "Kapitalizm: Opowieść o duchach" przedstawiła degradację środowiska jako nieodzowną cechę kapitalizmu, nie przypadkowy efekt uboczny
+**Reality 2025:**
+- Environmental destruction disproportionately affects the poor, who most directly depend on natural resources
+- Roy in "Capitalism: A Ghost Story" presented environmental degradation as an inherent feature of capitalism, not an accidental side effect
 
-**Wniosek:** Wizja połączona ekologii z justice społeczną okazała się trafna.
+**Conclusion:** The vision connecting ecology with social justice proved accurate.
 
-## 2. PRZEWIDYWANIA SPOŁECZNE: CO SIĘ NIE SPRAWDZIŁO
+## 2. SOCIAL PREDICTIONS: WHAT DIDN'T COME TRUE
 
-### ❌ Szybki postęp w równości płci
+### ❌ Rapid Progress in Gender Equality
 
-**Przewidywanie Roy (1997):** Rosnąca edukacja kobiet doprowadzi do szybkiej zmiany ról płciowych.
+**Roy's Prediction (1997):** Rising women's education would lead to rapid changes in gender roles.
 
-**Rzeczywistość 2025:**
-- Indie zajmują 131. miejsce na 148 w Global Gender Gap Report 2025 (spadek z 129.)
-- Pomimo osiągnięcia niemal parytetów w edukacji (97,1%), Indie pozostają w ostatniej piątce w udziale ekonomicznym kobiet
-- 60% kobiet w wieku produkcyjnym pozostaje poza siłą roboczą
-- 65% Indusów bez wyższego wykształcenia uważa, że żona musi zawsze słuchać męża
+**Reality 2025:**
+- India ranks 131st out of 148 in the Global Gender Gap Report 2025 (down from 129th)
+- Despite achieving near parity in education (97.1%), India remains in the bottom fifth for women's economic participation
+- 60% of women of working age remain outside the workforce
+- 65% of Indians without higher education believe a wife must always obey her husband
 
-**Wniosek:** Edukacja sama w sobie nie przełożyła się na równość ekonomiczną i społeczną.
+**Conclusion:** Education alone did not translate into economic and social equality.
 
-### ❌ Osłabienie tradycyjnych struktur rodzinnych
+### ❌ Weakening of Traditional Family Structures
 
-**Przewidywanie Roy (1997):** Modernizacja osłabi patriarchalne struktury rodzinne.
+**Roy's Prediction (1997):** Modernization would weaken patriarchal family structures.
 
-**Rzeczywistość 2025:**
-- Małżeństwa w Indiach nadal funkcjonują jako patriarchalne instytucje, które aktywnie podważają ekonomiczną niezależność kobiet
-- 33% indyjskich kobiet (wraz z 34% mężczyzn) uważa, że synowie powinni mieć większe prawa dziedziczenia niż córki
-- Przeważające zwyczaje, gdzie dziedzictwo przechodzi z ojca na syna, a kobiety przeprowadzają się do rodziny męża po ślubie
+**Reality 2025:**
+- Marriages in India still function as patriarchal institutions that actively undermine women's economic independence
+- 33% of Indian women (along with 34% of men) believe sons should have greater inheritance rights than daughters
+- Prevailing customs where inheritance passes from father to son, and women move to their husband's family after marriage
 
-**Wniosek:** Tradycyjne struktury okazały się bardziej odporne na zmiany niż przewidywała Roy.
+**Conclusion:** Traditional structures proved more resistant to change than Roy predicted.
 
-## 3. RELACJE: TOKSYCZNE WZORCE VS. ZDROWE RELACJE
+## 3. RELATIONSHIPS: TOXIC PATTERNS VS. HEALTHY RELATIONSHIPS
 
-### 🚩 Czerwone flagi w relacjach (aktualne w 2025)
+### 🚩 Red Flags in Relationships (Current in 2025)
 
-**Z książki Roy - nadal aktualne:**
-1. **Sekrety rodzinne jako broń** - Ukrywanie prawdy niszczy więzi międzyludzkie
-2. **Zakaz miłości międzykastowej** - Dzieląca społeczeństwo nienawiść oparta na pochodzeniu
-3. **Przemoc jako forma "sprawiedliwości"** - Brutal Veluthy przez policję za przekroczenie granic kastowych
-4. **Hipokryzja moralna** - Różne standardy dla różnych klas społecznych
-5. **Manipulacja dziećmi** - Wykorzystywanie dzieci jako narzędzi w konfliktach dorosłych
+**From Roy's book - still relevant:**
+1. **Family secrets as weapons** - Hiding truth destroys interpersonal bonds
+2. **Prohibition of inter-caste love** - Society-dividing hatred based on origin
+3. **Violence as "justice"** - Velutha's brutal treatment by police for crossing caste boundaries
+4. **Moral hypocrisy** - Different standards for different social classes
+5. **Child manipulation** - Using children as tools in adult conflicts
 
-**Współczesne odpowiedniki 2025:**
-- **Social media toxicity** - Publiczne wywyższanie się kosztem innych
-- **Caste-based discrimination on dating apps** - 67% Dalitów w USA doświadcza dyskryminacji
-- **Economic inequality in relationships** - Klasowe podziały nadal wpływają na związki
+**Contemporary equivalents 2025:**
+- **Social media toxicity** - Public self-aggrandizement at others' expense
+- **Caste-based discrimination on dating apps** - 67% of Dalits in USA experience discrimination
+- **Economic inequality in relationships** - Class divisions still affect relationships
 
-### 💚 Uniwersalna mądrość relacyjna
+### 💚 Universal Relationship Wisdom
 
-**Ponadczasowe prawdy z książki:**
-1. **Autentyczność ponad statusem** - Velutha był kochany za to, kim był, nie za to, czym posiadał
-2. **Dziecięca intuicja** - Dzieci często lepiej odczytują prawdziwe emocje dorosłych
-3. **Miłość przekracza granice** - Prawdziwe uczucia nie znają barier społecznych
-4. **Małe gesty mają wielką moc** - "Bóg rzeczy małych" - drobne czyny budują lub niszczą relacje
-5. **Konsekwencje kłamstw** - Zatajanie prawdy zawsze prowadzi do większych szkód
+**Timeless truths from the book:**
+1. **Authenticity over status** - Velutha was loved for who he was, not what he possessed
+2. **Children's intuition** - Children often better read adults' true emotions
+3. **Love transcends boundaries** - True feelings know no social barriers
+4. **Small gestures have great power** - "God of small things" - tiny acts build or destroy relationships
+5. **Consequences of lies** - Concealing truth always leads to greater harm
 
-## 4. PODZIAŁ POKOLENIOWY: CO SIĘ ZMIENIŁO VS. CO POZOSTAŁO UNIWERSALNE
+## 4. GENERATIONAL DIVIDE: WHAT CHANGED VS. WHAT REMAINED UNIVERSAL
 
-### 📱 Zmiana pokoleniowa: Lata 90. vs. Gen Z 2025
+### 📱 Generational Change: 1990s vs. Gen Z 2025
 
-**Co się radykalnie zmieniło:**
+**What radically changed:**
 
-1. **Komunikacja:**
-   - **1997:** Listy, telefony stacjonarne, bezpośrednie rozmowy
-   - **2025:** Social media, 95% Gen Z ma smartfona, 2h 55min dziennie na social media
+1. **Communication:**
+   - **1997:** Letters, landlines, direct conversations
+   - **2025:** Social media, 95% of Gen Z has smartphones, 2h 55min daily on social media
 
-2. **Dostęp do informacji:**
-   - **1997:** Książki, gazety, radio jako główne źródła
-   - **2025:** 48% Gen Z ufa influencerom bardziej niż tradycyjnym mediom
+2. **Access to information:**
+   - **1997:** Books, newspapers, radio as main sources
+   - **2025:** 48% of Gen Z trusts influencers more than traditional media
 
-3. **Wybory konsumenckie:**
-   - **1997:** Lokalne sklepy, ograniczona oferta
-   - **2025:** 48% Gen Z planuje więcej zakupów przez social media w 2025
+3. **Consumer choices:**
+   - **1997:** Local stores, limited offerings
+   - **2025:** 48% of Gen Z plans more purchases through social media in 2025
 
-4. **Wartości społeczne:**
-   - **1997:** Akceptacja hierarchii, respekt dla starszych
-   - **2025:** Gen Z nie boi się rzucać wyzwań status quo, mocny nacisk na indywidualność i sprawiedliwość społeczną
+4. **Social values:**
+   - **1997:** Acceptance of hierarchy, respect for elders
+   - **2025:** Gen Z isn't afraid to challenge the status quo, strong emphasis on individuality and social justice
 
-### 🔄 Co pozostało uniwersalne
+### 🔄 What Remained Universal
 
-**Niezmienne aspekty ludzkiej natury:**
+**Unchanging aspects of human nature:**
 
-1. **Potrzeba przynależności** - Zarówno w 1997, jak i 2025 ludzie szukają swojego miejsca w społeczności
-2. **Strach przed odrzuceniem** - Lęk przed wykluczeniem społecznym nie zmienił się
-3. **Miłość rodzicielska** - Instynkt ochronny rodziców wobec dzieci pozostaje stały
-4. **Żal za utracone możliwości** - Nostalia za tym, co mogłoby być
-5. **Wpływ traumy dziecińcej** - Doświadczenia z młodości kształtują całe życie
+1. **Need for belonging** - Both in 1997 and 2025, people seek their place in community
+2. **Fear of rejection** - Anxiety about social exclusion hasn't changed
+3. **Parental love** - Protective instinct of parents toward children remains constant
+4. **Regret for lost opportunities** - Nostalgia for what could have been
+5. **Impact of childhood trauma** - Early experiences shape entire lives
 
-## 5. PRAKTYCZNE LEKCJE DLA WSPÓŁCZESNEJ MŁODZIEŻY
+## 5. PRACTICAL LESSONS FOR CONTEMPORARY YOUTH
 
-### 💡 Actionable wisdom dla Gen Z
+### 💡 Actionable Wisdom for Gen Z
 
-**1. O relacjach:**
-- **Red flag:** Jeśli partner/przyjaciel wymaga od ciebie ukrywania waszej relacji
-- **Green flag:** Osoba, która cię wspiera niezależnie od twojego pochodzenia społecznego
-- **Życiowa lekcja:** Małe gesty są ważniejsze niż wielkie deklaracje
+**1. About relationships:**
+- **Red flag:** If a partner/friend requires you to hide your relationship
+- **Green flag:** Someone who supports you regardless of your social background
+- **Life lesson:** Small gestures are more important than grand declarations
 
-**2. O rodzinie:**
-- **Zrozum:** Sekrety rodzinne mogą wpływać na ciebie przez pokolenia
-- **Działaj:** Przerwij toksyczne wzorce zamiast je przekazywać dalej
-- **Pamiętaj:** Możesz kochać rodzinę, nie akceptując jej dysfunkcji
+**2. About family:**
+- **Understand:** Family secrets can affect you through generations
+- **Act:** Break toxic patterns instead of passing them on
+- **Remember:** You can love family without accepting its dysfunction
 
-**3. O społeczności:**
-- **Bądź świadomy:** Twoje przywileje i ich brak u innych
-- **Nie ignoruj:** Niesprawiedliwości społecznej wokół ciebie
-- **Działaj lokalnie:** Zmiany zaczynają się od małych kroków
+**3. About community:**
+- **Be aware:** Of your privileges and others' lack thereof
+- **Don't ignore:** Social injustices around you
+- **Act locally:** Changes start with small steps
 
-**4. O przyszłości:**
-- **Inwestuj w edukację:** Ale pamiętaj, że wiedza bez działania to nic
-- **Buduj mosty:** Między tradycją a nowoczesnością
-- **Zadbaj o środowisko:** Twoje dzieci będą żyć z konsekwencjami twoich wyborów
+**4. About the future:**
+- **Invest in education:** But remember that knowledge without action is nothing
+- **Build bridges:** Between tradition and modernity
+- **Care for environment:** Your children will live with the consequences of your choices
 
-## 6. EWOLUCJA MYŚLENIA W KLUCZOWYCH OBSZARACH
+## 6. EVOLUTION OF THINKING IN KEY AREAS
 
-### 🏛️ System kastowy: Od negacji do uznania
-
-**1997:**
-- Oficjalne istnienie zakończone w 1955
-- Nadzieje na szybkie znikniecie dyskryminacji
-- Koncentracja na prawnych rozwiązaniach
-
-**2025:**
-- Otwarty dyskurs o "ukrytym apartheidzie"
-- Rozpoznanie, że zmiany prawne nie wystarczą
-- Focus na systemowej zmianie mentalności
-
-### 💼 Równość płci: Od optymizmu do realizmu
+### 🏛️ Caste System: From Denial to Recognition
 
 **1997:**
-- Wiara w szybki postęp przez edukację
-- Nadzieje na naturalne zmiany wraz z modernizacją
+- Official existence ended in 1955
+- Hopes for rapid disappearance of discrimination
+- Focus on legal solutions
 
 **2025:**
-- Zrozumienie, że edukacja ≠ równość ekonomiczna
-- Rozpoznanie potrzeby systemowych zmian w kulturze pracy
-- Cierpliwość wobec długotrwałego procesu zmiany
+- Open discourse about "hidden apartheid"
+- Recognition that legal changes aren't enough
+- Focus on systemic mental change
 
-### 🌍 Ekologia: Od lokalnych problemów do globalnego kryzysu
+### 💼 Gender Equality: From Optimism to Realism
 
 **1997:**
-- Skupienie na lokalnych projektach (zapory, turystyka)
-- Nadzieje na równoważenie rozwoju z ochroną środowiska
+- Belief in rapid progress through education
+- Hopes for natural changes with modernization
 
 **2025:**
-- Rozumienie wzajemnych powiązań między lokalnym a globalnym
-- Krytyka kapitalizmu jako systemu niszczącego środowisko
-- Połączenie sprawiedliwości środowiskowej ze społeczną
+- Understanding that education ≠ economic equality
+- Recognition of need for systemic changes in work culture
+- Patience with long-term change process
 
-## 7. UNIWERSALNE PRAWDY TRANSCENDUJĄCE CZAS
+### 🌍 Ecology: From Local Problems to Global Crisis
 
-### 🌟 Timeless wisdom z "Boga rzeczy małych"
+**1997:**
+- Focus on local projects (dams, tourism)
+- Hopes for balancing development with environmental protection
 
-1. **"Rzeczy można zmienić w jeden dzień. Tego dnia wszystkie podoniedziałki History spotkał się w jeden moment"**
-   - *2025 relevance:* W erze social media jeden moment może zmienić życie na zawsze
+**2025:**
+- Understanding interconnections between local and global
+- Criticism of capitalism as a system destroying environment
+- Connecting environmental justice with social justice
 
-2. **"Miłość laws określają, kto może być kochaną, i jak. I jak długo."**
-   - *2025 relevance:* Społeczeństwo wciąż próbuje kontrolować nasze uczucia przez normy i oczekiwania
+## 7. UNIVERSAL TRUTHS TRANSCENDING TIME
 
-3. **"Bóg małych rzeczy. Bóg rzeczy utraconych. Rzeczy nieodwracalnych."**
-   - *2025 relevance:* W szybkim świecie często zapominamy o wartości drobnych momentów
+### 🌟 Timeless Wisdom from "The God of Small Things"
 
-4. **"Historie są tworzą się z konsekwencji."**
-   - *2025 relevance:* Każde działanie w social media ma konsekwencje - nic nie znika naprawdę
+1. **"Things can change in a day. That day when all the History's yesterdays met in a single moment"**
+   - *2025 relevance:* In the social media era, one moment can change life forever
 
-5. **"Zakazy nie robią nic dobrego. Nigdy nie robiły."**
-   - *2025 relevance:* Czy to cenzura internetu czy zakazy społeczne - człowiek zawsze znajdzie drogę do tego, czego pragnie
+2. **"Love laws determine who may be loved, and how. And how much."**
+   - *2025 relevance:* Society still tries to control our feelings through norms and expectations
 
-## 8. PORÓWNANIA PRZESZŁOŚĆ VS. WSPÓŁCZESNOŚĆ
+3. **"God of small things. God of lost things. Of things that cannot be undone."**
+   - *2025 relevance:* In a fast world, we often forget the value of small moments
 
-### 📊 30+ kluczowych porównań (1997 vs 2025)
+4. **"Stories are made from consequences."**
+   - *2025 relevance:* Every action on social media has consequences - nothing truly disappears
 
-| Obszar | 1997 | 2025 | Status |
-|--------|------|------|---------|
-| **System kastowy** | Oficjalnie zakończony | 67% Dalitów doświadcza dyskryminacji w USA | ❌ Przewidywanie Roy się sprawdziło |
-| **Edukacja kobiet** | Kerala i Mizoram blisko parytetów | 97,1% parytet w edukacji | ✅ Postęp |
-| **Udział kobiet w gospodarce** | Bardzo niski | Nadal jeden z najniższych na świecie (21%) | ❌ Brak znaczącego postępu |
-| **Komunikacja** | Listy, telefony | 95% Gen Z ma smartfona | ✅ Rewolucja |
-| **Dostęp do informacji** | Lokalne źródła | Global internet, social media | ✅ Rewolucja |
-| **Małżeństwa międzykastowe** | Bardzo rzadkie, groźne | Wciąż rzadkie, wciąż groźne | ❌ Brak znaczących zmian |
-| **Władza rodzicielska** | Bezwzględna | Gen Z rzuca wyzwania | ✅ Zmiana |
-| **Prawa dziedziczenia** | Synowie faworyzowani | 33% wciąż faworyzuje synów | ❌ Powolne zmiany |
-| **Środowisko naturalne** | Początek degradacji | Kryzys klimatyczny | ❌ Przewidywania Roy się sprawdziły |
-| **Turmiza w Kerala** | Początek boomu | Masowa turystyka, degradacja rzek | ❌ Roy miała rację |
-| **Wielkie projekty infrastrukturalne** | "Świątynie nowoczesnych Indii" | Krytyka jako narzędzia wypierania ubogich | ❌ Roy przewidziała problemy |
-| **Aktywizm społeczny** | Lokalne protesty | Global social media campaigns | ✅ Ewolucja metod |
-| **Literatura postkolonialna** | Początki uznania | Mainstream w edukacji | ✅ Rozwój |
-| **Feminizm indyjski** | Elitarny ruch | Masowy, ale wciąż ograniczony | ✅ Częściowy postęp |
-| **Reprezentacja Dalitów w polityce** | 17,2% stanowisk (1995) | Wzrost, ale wciąż niewystarczający | ✅ Powolny postęp |
-| **Przemoc wobec kobiet** | 5000 śmierci dowry-related (1997) | 8618 śmierci (2011), problem persistuje | ❌ Pogorszenie |
-| **Migracje wewnętrzne** | Głównie zarobkowe | + klimatyczne + technologiczne | ✅ Nowe czynniki |
-| **Język angielski** | Elitarny | Powszechny przez internet | ✅ Demokratyzacja |
-| **Kultura popularna** | Bollywood, lokalne tradycje | Global + local hybrids | ✅ Hibridyzacja |
-| **Dostęp do opieki zdrowotnej** | Bardzo ograniczony | Lepszy w miastach, wciąż problemy | ✅ Częściowy postęp |
-| **Edukacja wyższa** | Dla elit | 59% Gen Z planuje studia | ✅ Masyfikacja |
-| **Przedsiębiorczość** | Rodzinne biznesy | Startup culture, tech entrepreneurs | ✅ Rewolucja |
-| **Religia i spiritualność** | Tradycyjna praktyka | Synkretyzm, yoga globalnie | ✅ Globalizacja tradycji |
-| **Relacje międzypokoleniowe** | Hierarchiczne, respekt | Gen Z kwestionuje autorytety | ✅ Zmiana |
-| **Prywatność** | Domyślna | Nieistniejąca w erze social media | ❌ Utracona |
-| **Konsumpcja mediów** | Bierne odbiór | Interaktywna, user-generated content | ✅ Rewolucja |
-| **Tożsamość płciowa** | Binarna norma | Spektrum, LGBTQ+ visibility | ✅ Postęp |
-| **Ekologia w świadomości** | Lokalne problem | Global consciousness, climate change | ✅ Globalny awareness |
-| **Technologia** | Podstawowa elektronika | AI, smartphones, IoT | ✅ Rewolucja |
-| **Globalizacja** | Początek | Full integration | ✅ Kompletna |
-| **Social media activism** | Nie istniało | Główne narzędzie zmiany | ✅ Nowa rzeczywistość |
-| **Mental health awareness** | Temat tabu | Część mainstreamu (48% milenialsów martwi się zdrowiem) | ✅ Przełom |
-| **Work-life balance** | Praca = życie | Zmiana priority przez Gen Z | ✅ Nowa mentalność |
-| **Międzynarodowe małżeństwa** | Rzadkie, skandal | Częściej akceptowane | ✅ Postęp |
+5. **"Prohibitions don't do any good. They never have."**
+   - *2025 relevance:* Whether internet censorship or social bans - humans always find a way to what they desire
 
-## 9. TIMELESS LESSONS PRAKTYCZNE DLA 2025
+## 8. PAST VS. CONTEMPORARY COMPARISONS
 
-### 🎯 Konkretne wskazówki dla młodzieży
+### 📊 30+ Key Comparisons (1997 vs 2025)
 
-**W relationships:**
-1. **Trust your intuition** - Jeśli coś wydaje się nie tak, prawdopodobnie tak jest
-2. **Don't hide authentic relationships** - Jeśli musisz ukrywać związek, zastanów się czy to właściwa osoba
-3. **Small gestures matter most** - Pamiętaj o szczegółach, nie tylko o wielkich gestach
-4. **Family secrets damage generations** - Nie bój się mówić o trudnych tematach rodzinnych
-5. **Love transcends social boundaries** - Nie pozwól społeczeństwu dyktować, kogo możesz kochać
+| Area | 1997 | 2025 | Status |
+|------|------|------|---------|
+| **Caste system** | Officially ended | 67% of Dalits experience discrimination in USA | ❌ Roy's prediction came true |
+| **Women's education** | Kerala and Mizoram near parity | 97.1% parity in education | ✅ Progress |
+| **Women's economic participation** | Very low | Still one of lowest worldwide (21%) | ❌ No significant progress |
+| **Communication** | Letters, phones | 95% of Gen Z has smartphones | ✅ Revolution |
+| **Access to information** | Local sources | Global internet, social media | ✅ Revolution |
+| **Inter-caste marriages** | Very rare, dangerous | Still rare, still dangerous | ❌ No significant changes |
+| **Parental authority** | Absolute | Gen Z challenges | ✅ Change |
+| **Inheritance rights** | Sons favored | 33% still favor sons | ❌ Slow changes |
+| **Natural environment** | Beginning degradation | Climate crisis | ❌ Roy's predictions came true |
+| **Tourism in Kerala** | Beginning boom | Mass tourism, river degradation | ❌ Roy was right |
+| **Large infrastructure projects** | "Temples of modern India" | Criticized as tools for displacing poor | ❌ Roy predicted problems |
+| **Social activism** | Local protests | Global social media campaigns | ✅ Evolution of methods |
+| **Postcolonial literature** | Beginning recognition | Mainstream in education | ✅ Development |
+| **Indian feminism** | Elite movement | Mass but still limited | ✅ Partial progress |
+| **Dalit representation in politics** | 17.2% positions (1995) | Increased but still insufficient | ✅ Slow progress |
+| **Violence against women** | 5000 dowry-related deaths (1997) | 8618 deaths (2011), problem persists | ❌ Worsening |
+| **Internal migration** | Mainly economic | + climate + technological | ✅ New factors |
+| **English language** | Elite | Common through internet | ✅ Democratization |
+| **Popular culture** | Bollywood, local traditions | Global + local hybrids | ✅ Hybridization |
+| **Healthcare access** | Very limited | Better in cities, still problems | ✅ Partial progress |
+| **Higher education** | For elites | 59% of Gen Z plans university | ✅ Massification |
+| **Entrepreneurship** | Family businesses | Startup culture, tech entrepreneurs | ✅ Revolution |
+| **Religion and spirituality** | Traditional practice | Syncretism, yoga globally | ✅ Globalization of traditions |
+| **Intergenerational relationships** | Hierarchical, respectful | Gen Z questions authorities | ✅ Change |
+| **Privacy** | Default | Non-existent in social media era | ❌ Lost |
+| **Media consumption** | Passive reception | Interactive, user-generated content | ✅ Revolution |
+| **Gender identity** | Binary norm | Spectrum, LGBTQ+ visibility | ✅ Progress |
+| **Ecological consciousness** | Local problem | Global consciousness, climate change | ✅ Global awareness |
+| **Technology** | Basic electronics | AI, smartphones, IoT | ✅ Revolution |
+| **Globalization** | Beginning | Full integration | ✅ Complete |
+| **Social media activism** | Didn't exist | Main tool of change | ✅ New reality |
+| **Mental health awareness** | Taboo topic | Part of mainstream (48% of millennials worry about health) | ✅ Breakthrough |
+| **Work-life balance** | Work = life | Priority change by Gen Z | ✅ New mentality |
+| **International marriages** | Rare, scandal | More often accepted | ✅ Progress |
 
-**W life decisions:**
-1. **Question inherited prejudices** - Zastanawiaj się nad tym, co przyjmujesz bezrefleksyjnie
-2. **環境 actions have consequences** - Myśl o wpływie swoich wyborów na przyszłe pokolenia
-3. **Stand up for the marginalized** - Nie ignoruj niesprawiedliwości, nawet jeśli cię bezpośrednio nie dotyka
-4. **Balance tradition with progress** - Szanuj przeszłość, ale nie bój się zmian
-5. **Invest in education and empathy** - Wiedza bez współczucia to niebezpieczne narzędzie
+## 9. TIMELESS PRACTICAL LESSONS FOR 2025
+
+### 🎯 Concrete Guidance for Youth
+
+**In relationships:**
+1. **Trust your intuition** - If something seems wrong, it probably is
+2. **Don't hide authentic relationships** - If you must hide a relationship, question if it's the right person
+3. **Small gestures matter most** - Remember details, not just grand gestures
+4. **Family secrets damage generations** - Don't be afraid to talk about difficult family topics
+5. **Love transcends social boundaries** - Don't let society dictate who you can love
+
+**In life decisions:**
+1. **Question inherited prejudices** - Think about what you accept without reflection
+2. **Environmental actions have consequences** - Think about your choices' impact on future generations
+3. **Stand up for the marginalized** - Don't ignore injustice, even if it doesn't directly affect you
+4. **Balance tradition with progress** - Respect the past but don't fear change
+5. **Invest in education and empathy** - Knowledge without compassion is a dangerous tool
 
 **In social media age:**
-1. **Remember consequences are real** - Twoje online actions mają offline effects
-2. **Seek authentic connections** - Nie pozwól social media zastąpić prawdziwych relacji
-3. **Use platform for positive change** - Twoja głos może naprawdę coś zmienić
+1. **Remember consequences are real** - Your online actions have offline effects
+2. **Seek authentic connections** - Don't let social media replace real relationships
+3. **Use platforms for positive change** - Your voice can really make a difference
 4. **Don't let algorithms define you** - Actively seek diverse perspectives
-5. **Practice digital empathy** - Pamiętaj, że za każdym profilem jest prawdziwy człowiek
+5. **Practice digital empathy** - Remember there's a real person behind every profile
 
-## 10. KOŃCOWE REFLEKSJE: PROGRESS HUMANITY
+## 10. FINAL REFLECTIONS: HUMAN PROGRESS
 
-### 🌅 Co zmieniło się na lepsze
+### 🌅 What Changed for the Better
 
-1. **Increased awareness** - Młodzież jest bardziej świadoma niesprawiedliwości społecznych
-2. **Global connectivity** - Możliwość nauki od innych kultur i społeczności
-3. **Educational access** - Demokratyzacja wiedzy przez internet
-4. **Voice for marginalized** - Social media dają głos wykluczonym
-5. **Environmental consciousness** - Global awareness kryzysu klimatycznego
+1. **Increased awareness** - Youth are more aware of social injustices
+2. **Global connectivity** - Ability to learn from other cultures and communities
+3. **Educational access** - Democratization of knowledge through internet
+4. **Voice for marginalized** - Social media give voice to the excluded
+5. **Environmental consciousness** - Global awareness of climate crisis
 
-### ⚠️ Co nadal wymaga pracy
+### ⚠️ What Still Needs Work
 
-1. **Systemic inequalities** - System kastowy, gender inequality persistują
-2. **Economic disparity** - Gap między bogatymi a biednymi się zwiększa
-3. **Environmental degradation** - Tempo zniszczeń wyprzedziło świadomość
-4. **Digital divide** - Nowe podziały między mającymi i niemającymi dostęp do technologii
-5. **Mental health crisis** - Nowe problemy w dobie social media
+1. **Systemic inequalities** - Caste system, gender inequality persist
+2. **Economic disparity** - Gap between rich and poor is increasing
+3. **Environmental degradation** - Pace of destruction outpaced awareness
+4. **Digital divide** - New divisions between those with and without technology access
+5. **Mental health crisis** - New problems in the social media age
 
-### 🔮 Lekcje na przyszłość
+### 🔮 Lessons for the Future
 
-"Bóg rzeczy małych" uczy nas, że:
+"The God of Small Things" teaches us that:
 
-- **Zmiany społeczne trwają dłużej niż myślimy** - 28 lat to kropla w oceanies historii
-- **Literatura może być profetyczna** - Roy przewidziała wiele problemów współczesnej Indii
-- **Indywidualne działania mają znaczenie** - Każdy jest odpowiedzialny za małe zmiany
-- **Miłość jest rewolucyjna** - Autentyczne związki wciąż rzucają wyzwanie statusowi quo
-- **Pamięć kształtuje przyszłość** - To, jak pamiętamy przeszłość, wpływa na nasze jutro
+- **Social changes take longer than we think** - 28 years is a drop in the ocean of history
+- **Literature can be prophetic** - Roy predicted many problems of contemporary India
+- **Individual actions matter** - Everyone is responsible for small changes
+- **Love is revolutionary** - Authentic relationships still challenge the status quo
+- **Memory shapes the future** - How we remember the past affects our tomorrow
 
 ---
 
-**Ostateczny wniosek:** "Bóg rzeczy małych" pozostaje niezwykle aktualny w 2025 roku. Roy nie tylko przewidziała wiele problemów społecznych współczesnych Indii, ale także dostarczyła ponadczasowych lekcji o miłości, sprawiedliwości i naturze ludzkiej. Książka przypomina nam, że prawdziwe zmiany zaczynają się od "małych rzeczy" - individual choices, local actions, personal relationships - które łącznie tworzą the fabric of social change.
+**Final Conclusion:** "The God of Small Things" remains remarkably relevant in 2025. Roy not only predicted many social problems of contemporary India but also provided timeless lessons about love, justice, and human nature. The book reminds us that true changes start from "small things" - individual choices, local actions, personal relationships - which together create the fabric of social change.
 
-Dla współczesnej młodzieży książka oferuje both warning i hope: ostrzeżenie przed utratą człowieczeństwa w pogoni za postępem, ale także nadzieję, że autentyczne relacje i small acts of love mogą transcend any social barrier.
+For contemporary youth, the book offers both warning and hope: a warning against losing humanity in pursuit of progress, but also hope that authentic relationships and small acts of love can transcend any social barrier.

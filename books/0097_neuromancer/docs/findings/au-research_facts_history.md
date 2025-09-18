@@ -1,179 +1,179 @@
-# Historia powstania "Neuromancera" Williama Gibsona (1984)
-*Fascynujące fakty, anegdoty i ukryte historie z procesu twórczego kultowej powieści cyberpunk*
+# Creation History of William Gibson's "Neuromancer" (1984)
+*Fascinating facts, anecdotes and hidden stories from the creative process of the iconic cyberpunk novel*
 
 ---
 
-## OKOLICZNOŚCI POWSTANIA KSIĄŻKI
+## CIRCUMSTANCES OF THE BOOK'S CREATION
 
-### **FAKT**: Pisanie z "ślepego zwierzęcego przerażenia"
-William Gibson podjął się pisania "Neuromancera" w stanie "blind animal terror" - ślepego zwierzęcego przerażenia przed obowiązkiem napisania całej powieści, co uważał za zadanie na "4-5 lat przed sobą". Był to jego debiut powieściowy.
+### **FACT**: Writing from "blind animal terror"
+William Gibson undertook writing "Neuromancer" in a state of "blind animal terror" - blind animal terror at the obligation to write an entire novel, which he considered a task "4-5 years ahead of him". This was his debut novel.
 
-### **FAKT**: Komisja od Terry'ego Carra w 1981 roku
-Terry Carr zlecił Gibsonowi napisanie powieści dla drugiej serii "Ace Science Fiction Specials" w 1981 roku, tuż po Denver WorldCon. Seria miała promować debiutanckich autorów. Gibson przyjął propozycję "niemal bez zastanowienia", ale potem był "przerażony" wyzwaniem.
+### **FACT**: Commission from Terry Carr in 1981
+Terry Carr commissioned Gibson to write a novel for the second series of "Ace Science Fiction Specials" in 1981, right after Denver WorldCon. The series was meant to promote debut authors. Gibson accepted the proposal "almost without thinking", but then was "terrified" by the challenge.
 
-### **FAKT**: Rok na napisanie, półtora roku realizacji
-Mimo że dostał rok na ukończenie pracy, Gibson potrzebował półtora roku, przepisując pierwsze dwie trzecie książki dwanaście razy.
+### **FACT**: One year to write, one and a half years to complete
+Although he was given a year to finish the work, Gibson needed a year and a half, rewriting the first two-thirds of the book twelve times.
 
-### **FAKT**: Pierwotny tytuł "Jacked In"
-Gibson złożył zarys powieści pod roboczym tytułem "Jacked In", później zmieniając go na "Neuromancer".
-
----
-
-## PROCES TWÓRCZY I NARZĘDZIA PISARSKIE
-
-### **FAKT**: Pisanie na maszynie do pisania z 1937 roku
-Gibson napisał "Neuromancera" na antycznej ręcznej maszynie do pisania Hermes z 1937 roku - "takiej, jakiej używałby Hemingway w terenie". Maszyna miała zielono-czarną "crackle" lakierowaną obudowę i zielone klawisze z kanarkowiożółtymi literami.
-
-### **FAKT**: Paradoks cyberpunk bez komputera
-Gibson nie posiadał komputera podczas pisania książki o przyszłości cyfrowej. Kupił swój pierwszy komputer dopiero po wpływie tantiem z "Neuromancera". W 1981 roku nie znał nikogo, kto pisałby na komputerze.
-
-### **FAKT**: Incydent z zapaloną papierosem
-Gibson przypadkowo dotknął klawisza shift płonącym papierosem, co drastycznie potwierdziło skrajną łatwopalność celuloidowych klawiszy z wczesnego plastiku.
-
-### **FAKT**: "Clockwork typewriter"
-Gibson później nazywał swoją maszynę "clockwork typewriter" (zegarowy maszyna do pisania), ta sama, którą można było zobaczyć w biurze Julie Deane w Chiba City - meta-odniesienie do samej powieści.
+### **FACT**: Original title "Jacked In"
+Gibson submitted the novel outline under the working title "Jacked In", later changing it to "Neuromancer".
 
 ---
 
-## INSPIRACJE I WPŁYWY LITERACKIE
+## CREATIVE PROCESS AND WRITING TOOLS
 
-### **FAKT**: Trójca głównych inspiracji
-Główne inspiracje to: opowiadania detektywistyczne Raymonda Chandlera, komiks Jean Giraud (Moebius), oraz "Naked Lunch" (1959) Williama S. Burroughsa.
+### **FACT**: Writing on a 1937 typewriter
+Gibson wrote "Neuromancer" on an antique manual Hermes typewriter from 1937 - "the kind Hemingway would use in the field". The machine had a green-black "crackle" lacquered case and green keys with canary-yellow letters.
 
-### **FAKT**: Wpływ francuskiego magazynu "Métal Hurlant"
-Gibson wielokrotnie wspominał grafiki z francuskiego magazynu "Métal Hurlant" z lat 70., szczególnie proto-cyberpunkową estetykę komiksu "The Long Tomorrow" (1976) Jean "Moebius" Giraud, przedrukowanego w amerykańskim "Heavy Metal" w 1977.
+### **FACT**: Cyberpunk paradox without a computer
+Gibson did not own a computer while writing a book about the digital future. He bought his first computer only after receiving royalties from "Neuromancer". In 1981, he didn't know anyone who wrote on a computer.
 
-### **FAKT**: Wspólne inspiracje z Ridley Scottem
-Około dekady po premierze "Blade Runnera", Gibson spotkał się z Ridley Scottem na lunchu w The Ivy. Gdy rozmowa zeszła na inspiracje, okazało się, że obaj mieli "w zasadzie tę samą listę składników" - francuskie komiksy dla dorosłych i ich specjalną odmianę orientalizmu.
+### **FACT**: Incident with a lit cigarette
+Gibson accidentally touched the shift key with a burning cigarette, which drastically confirmed the extreme flammability of celluloid keys made from early plastic.
 
-### **FAKT**: Chandler + Burroughs = Gibson
-Gibson stworzył postacie przypominające bohaterów Burroughsa. Case jest bardzo podobny do Billa Lee, głównego protagonisty "Naked Lunch". Gibson zauważył: "Myślę, że jest sporo Chandlera w Williamie S. Burroughsie."
-
----
-
-## PANIKA PO OBEJRZENIU "BLADE RUNNERA"
-
-### **FAKT**: 20 minut paniki w 1982 roku
-Po obejrzeniu pierwszych 20 minut "Blade Runnera" w 1982 roku, gdy Gibson napisał już jedną trzecią powieści, pomyślał: "koniec, jestem skończony. Wszyscy będą myśleć, że ukradem swoją wizualną fakturę z tego zadziwiająco pięknego filmu."
-
-### **FAKT**: Nie mógł dokończyć oglądania
-Gibson był tak zaniepokojony tym, jak dobrze "Blade Runner" wizualizował tę samą estetykę, nad którą pracował, że nie mógł kontynuować oglądania. Bał się, że film będzie lepszy niż to, co sam potrafił sobie wyobrazić.
-
-### **FAKT**: Ulga po klapie kasowej
-Gdy Gibson dowiedział się, że "Blade Runner" to klapa kasowa, pomyślał "Uh-oh". Wydawało się, że Ridley trafił w punkt, ale nikomu wtedy na tym nie zależało, więc film zniknął, nie pozostawiając niemal żadnych ślad.
+### **FACT**: "Clockwork typewriter"
+Gibson later called his machine a "clockwork typewriter", the same one that could be seen in Julie Deane's office in Chiba City - a meta-reference to the novel itself.
 
 ---
 
-## POWSTANIE TERMINU "CYBERSPACE"
+## INSPIRATIONS AND LITERARY INFLUENCES
 
-### **FAKT**: Pierwsze użycie w "Burning Chrome" (1982)
-Gibson po raz pierwszy użył terminu "cyberspace" w opowiadaniu "Burning Chrome", opublikowanym w magazynie "Omni" w lipcu 1982 roku.
+### **FACT**: Trinity of main inspirations
+Main inspirations were: Raymond Chandler's detective stories, Jean Giraud (Moebius) comics, and William S. Burroughs' "Naked Lunch" (1959).
 
-### **FAKT**: Definicja jako "masowa consensual hallucynacja"
-W "Burning Chrome" Gibson zdefiniował cyberspace jako "masową consensualną halucynację" sieci komputerowych.
+### **FACT**: Influence of French magazine "Métal Hurlant"
+Gibson repeatedly mentioned graphics from the French magazine "Métal Hurlant" from the 70s, particularly the proto-cyberpunk aesthetic of the comic "The Long Tomorrow" (1976) by Jean "Moebius" Giraud, reprinted in American "Heavy Metal" in 1977.
 
-### **FAKT**: Czytanie dla czterech osób
-Gibson po raz pierwszy przeczytał "Burning Chrome" na konwencie science fiction w Denver w Colorado jesienią 1981 roku, przed publicznością składającą się z czterech osób, wśród których był Bruce Sterling, który "całkowicie to zrozumiał".
+### **FACT**: Shared inspirations with Ridley Scott
+About a decade after the premiere of "Blade Runner", Gibson met Ridley Scott for lunch at The Ivy. When the conversation turned to inspirations, it turned out that both had "basically the same list of ingredients" - French comics for adults and their special variety of orientalism.
 
-### **FAKT**: Wpływ na językowo internetowy
-Dzięki użyciu w "Neuromancerze" termin zyskał takie uznanie, że stał się de facto terminem na World Wide Web w latach 90.
-
----
-
-## PUBLIKACJA I PIERWSZE REAKCJE
-
-### **FAKT**: Publikacja bez fanfar
-"Neuromancer" został wydany 1 lipca 1984 roku bez znaczącej promocji, ale stał się underground hitem dzięki pocztą pantoflowej.
-
-### **FAKT**: Pierwsza książka zdobywająca "triple crown"
-"Neuromancer" pozostaje pierwszą i jedyną powieścią, która wygrała wszystkie trzy główne nagrody science fiction: Hugo Award, Nebula Award oraz Philip K. Dick Award - science fiction "triple crown".
-
-### **FAKT**: 6,5 miliona sprzedanych egzemplarzy
-Książka sprzedała się ostatecznie w ponad 6,5 miliona egzemplarzy na całym świecie.
-
-### **FAKT**: Porównanie do triumfu literackiego
-Mail & Guardian nazwał to "sci-fi pisarską wersją wygrania nagród Goncourt, Booker i Pulitzer w tym samym roku".
+### **FACT**: Chandler + Burroughs = Gibson
+Gibson created characters reminiscent of Burroughs' heroes. Case is very similar to Bill Lee, the main protagonist of "Naked Lunch". Gibson noted: "I think there's a lot of Chandler in William S. Burroughs."
 
 ---
 
-## BIOGRAFIA AUTORA W KONTEKŚCIE KSIĄŻKI
+## PANIC AFTER WATCHING "BLADE RUNNER"
 
-### **FAKT**: Życie w Vancouver od 1972 roku
-Gibson poślubił Deborah Jean Thompson i zamieszkał w Vancouver w Kanadzie w 1972 roku, gdzie mieszkał podczas pisania "Neuromancera" w 1983-1984.
+### **FACT**: 20 minutes of panic in 1982
+After watching the first 20 minutes of "Blade Runner" in 1982, when Gibson had already written one-third of the novel, he thought: "it's over, I'm finished. Everyone will think I stole my visual texture from this amazingly beautiful film."
 
-### **FAKT**: Życie z pensji żony
-W latach 70. Gibson opiekował się pierwszym dzieckiem, żyjąc z pensji nauczycielskiej żony.
+### **FACT**: Couldn't finish watching
+Gibson was so concerned about how well "Blade Runner" visualized the same aesthetic he was working on that he couldn't continue watching. He was afraid the film would be better than what he could imagine himself.
 
-### **FAKT**: Zarobki z "Salvation Army"
-W latach 70. Gibson zarabiał głównie przeszukując sklepy Salvation Army w poszukiwaniu niedocenianych artefaktów, które potem sprzedawał specjalistycznym dealerom.
-
-### **FAKT**: 35 lat przy sukcesie
-Sukces "Neuromancera" sprawił, że 35-letni Gibson wynurzył się z bezimienności.
+### **FACT**: Relief after box office flop
+When Gibson learned that "Blade Runner" was a box office flop, he thought "Uh-oh". It seemed Ridley had hit the mark, but no one cared at the time, so the film disappeared, leaving almost no trace.
 
 ---
 
-## HISTORIA CYBERPUNK JAKO RUCHU
+## BIRTH OF THE TERM "CYBERSPACE"
 
-### **FAKT**: "Cyberpunk" nie istniał podczas pisania
-Gdy Gibson pisał "Neuromancer", termin "cyberpunk" nie istniał. Został ukuty przez Bruce'a Bethke dla tytułu opowiadania, a spopularyzowany przez Gardnera Dozois w artykule "Washington Post" z 1984 roku.
+### **FACT**: First use in "Burning Chrome" (1982)
+Gibson first used the term "cyberspace" in the short story "Burning Chrome", published in "Omni" magazine in July 1982.
 
-### **FAKT**: ArmadilloCon 1982 - narodziny ruchu
-W październiku 1982 roku Gibson pojechał do Austin w Teksasie na ArmadilloCon, gdzie pojawił się z Shirley, Sterlingiem i Shinerem na panelu "Behind the Mirrorshades: A Look at Punk SF". Shiner zauważył "poczucie, że ruch się skrystalizował".
+### **FACT**: Definition as "mass consensual hallucination"
+In "Burning Chrome" Gibson defined cyberspace as a "mass consensual hallucination" of computer networks.
 
-### **FAKT**: "Nowa oś została utworzona"
-Po weekendzie dyskusji o rock and rollu, MTV, Japonii, modzie, narkotykach i polityce, Gibson wrócił do Vancouver, żartobliwie oznajmiając, że "została utworzona nowa oś". Sterling, Shiner, Shirley i Gibson wraz z Rudym Ruckerem utworzyli rdzeń radykalnego ruchu cyberpunk.
+### **FACT**: Reading to four people
+Gibson first read "Burning Chrome" at a science fiction convention in Denver, Colorado in fall 1981, to an audience of four people, including Bruce Sterling, who "completely understood it".
 
----
-
-## WPŁYW NA POPRZEDNIE PRACE GIBSONA
-
-### **FAKT**: Głównie opowiadania kontrkulturowe
-Przed "Neuromancerem" Gibson pisał głównie kontrkultury opowiadania dla periodycznych science fiction - noir narracje o bohaterach z marginesu w blisko-przyszłościowych spotkaniach z cyberprzestrzenią.
-
-### **FAKT**: Rozszerzenie "Burning Chrome"
-"Neuromancer" rozszerzył i spopularyzował otoczenie i koncepcje z wcześniejszego opowiadania Gibsona "Burning Chrome" (1981), które wprowadziło cyberprzestrzeń i "jacking in" - bio-mechaniczną metodę interfejsu z komputerami.
+### **FACT**: Impact on internet language
+Thanks to its use in "Neuromancer", the term gained such recognition that it became the de facto term for the World Wide Web in the 1990s.
 
 ---
 
-## ADAPTACJE I PRÓBY FILMOWE
+## PUBLICATION AND FIRST REACTIONS
 
-### **FAKT**: "Neuromancer" nazywany "nienagrywalne"
-Mimo że "Neuromancer" nigdy nie został zaadaptowany na film, było kilka prób; kilku dziennikarzy opisało powieść jako "unfilmable" (niemożliwą do sfilmowania).
+### **FACT**: Publication without fanfare
+"Neuromancer" was published on July 1, 1984 without significant promotion, but became an underground hit through word of mouth.
 
-### **FAKT**: Chris Cunningham i Aphex Twin
-Brytyjski reżyser Chris Cunningham i muzyk Aphex Twin byli przypisani do projektu, dostarczając odpowiednio scenariusz i ścieżkę dźwiękową. Chociaż scenariusz Cunninghama zyskał błogosławieństwo Gibsona, Cunningham ostatecznie się wycofał, nie otrzymując przywileju final cut.
+### **FACT**: First book to win the "triple crown"
+"Neuromancer" remains the first and only novel to win all three major science fiction awards: Hugo Award, Nebula Award, and Philip K. Dick Award - the science fiction "triple crown".
 
-### **FAKT**: Apple TV+ 2024
-W lutym 2024 roku Apple ogłosił, że przekazał zielone światło dla 10-odcinkowej serii dla Apple TV+, współprodukowanej przez Skydance Television, Anonymous Content i DreamCrew Entertainment.
+### **FACT**: 6.5 million copies sold
+The book ultimately sold over 6.5 million copies worldwide.
 
-### **FAKT**: "Johnny Mnemonic" (1995) - jedyna większa adaptacja
-Najbardziej znaczącą adaptacją Gibsona do tej pory jest "Johnny Mnemonic" z 1995 roku. Gibson sam napisał adaptację scenariuszową swojego opowiadania. Film nie odniósł sukcesu, odzyskując tylko 19 milionów dolarów z budżetu.
-
----
-
-## CIEKAWOSTKI I ANEGDOTY
-
-### **FAKT**: Przepisywanie z obsesyjną precyzją
-Gibson przepisał pierwsze dwie trzecie książki dwanaście razy, obawiał się utraty uwagi czytelnika i był przekonany, że zostanie "na stałe zawstydzony" po publikacji.
-
-### **FAKT**: Cytat stawszy się aforzyzmem
-Jedna linijka z "Burning Chrome" - "... ulica znajduje własne zastosowania dla rzeczy" - stała się szeroko cytowanym aforyzem opisującym czasami nieoczekiwane zastosowania, jakie użytkownicy mogą nadać technologiom.
-
-### **FAKT**: Time's All-Time 100 Novels
-W 2005 roku "Neuromancer" został nazwany jedną z 100 najlepszych powieści wszech czasów przez magazyn "Time".
-
-### **FAKT**: Wpływ na język internetowy
-Dzięki powieściom Gibsona takie terminy jak cyberspace, netsurfing, ICE, jacking in, oraz neural implants weszły do powszechnego użytku, podobnie jak koncepcje net consciousness, virtual interaction oraz "the matrix".
-
-### **PLOTKA**: Maszyna do pisania jako meta-odniesienie
-Gibson później nazywał swoją maszynę "clockwork typewriter", co mogło być meta-odniesie do własnej powieści, w której podobna maszyna pojawiła się w biurze Julie Deane w Chiba City.
-
-### **FAKT**: Paradigmat "lowlife and high tech"
-Bruce Sterling opisał charakterystyczną "klasyczną kombinację jeden-dwa Gibsona lowlife i high tech" jako istotę cyberpunk.
-
-### **FAKT**: Przełomowość bez precedensu
-Liczba rzeczy, których Gibson nie przewidział w swoich prognozach, jest znacznie mniejsza niż oczekiwano, szczególnie że stworzył swój cybernetyczny przyszłościowy świat na maszynie do pisania.
+### **FACT**: Comparison to literary triumph
+Mail & Guardian called it "the sci-fi writing equivalent of winning the Goncourt, Booker and Pulitzer prizes in the same year".
 
 ---
 
-*Dokument opracowany na podstawie badań historycznych dla projektu 37degrees (@37stopni) - "gorączka czytania"*
+## AUTHOR'S BIOGRAPHY IN CONTEXT OF THE BOOK
+
+### **FACT**: Living in Vancouver since 1972
+Gibson married Deborah Jean Thompson and moved to Vancouver, Canada in 1972, where he lived while writing "Neuromancer" in 1983-1984.
+
+### **FACT**: Living on wife's salary
+In the 1970s, Gibson took care of his first child, living on his wife's teaching salary.
+
+### **FACT**: Earnings from "Salvation Army"
+In the 1970s, Gibson earned mainly by searching Salvation Army stores for undervalued artifacts, which he then sold to specialist dealers.
+
+### **FACT**: 35 years old at success
+The success of "Neuromancer" meant that 35-year-old Gibson emerged from anonymity.
+
+---
+
+## HISTORY OF CYBERPUNK AS A MOVEMENT
+
+### **FACT**: "Cyberpunk" didn't exist during writing
+When Gibson was writing "Neuromancer", the term "cyberpunk" didn't exist. It was coined by Bruce Bethke for a story title, and popularized by Gardner Dozois in a "Washington Post" article from 1984.
+
+### **FACT**: ArmadilloCon 1982 - birth of the movement
+In October 1982, Gibson went to Austin, Texas for ArmadilloCon, where he appeared with Shirley, Sterling and Shiner on the panel "Behind the Mirrorshades: A Look at Punk SF". Shiner noted "a sense that the movement had crystallized".
+
+### **FACT**: "A new axis was created"
+After a weekend of discussions about rock and roll, MTV, Japan, fashion, drugs and politics, Gibson returned to Vancouver, jokingly announcing that "a new axis had been created". Sterling, Shiner, Shirley and Gibson along with Rudy Rucker formed the core of the radical cyberpunk movement.
+
+---
+
+## IMPACT ON GIBSON'S PREVIOUS WORKS
+
+### **FACT**: Mainly countercultural short stories
+Before "Neuromancer", Gibson wrote mainly countercultural short stories for science fiction periodicals - noir narratives about marginal heroes in near-future encounters with cyberspace.
+
+### **FACT**: Extension of "Burning Chrome"
+"Neuromancer" expanded and popularized the setting and concepts from Gibson's earlier story "Burning Chrome" (1981), which introduced cyberspace and "jacking in" - the bio-mechanical method of interfacing with computers.
+
+---
+
+## ADAPTATIONS AND FILM ATTEMPTS
+
+### **FACT**: "Neuromancer" called "unfilmable"
+Although "Neuromancer" was never adapted to film, there were several attempts; several journalists described the novel as "unfilmable".
+
+### **FACT**: Chris Cunningham and Aphex Twin
+British director Chris Cunningham and musician Aphex Twin were attached to the project, providing screenplay and soundtrack respectively. Although Cunningham's screenplay received Gibson's blessing, Cunningham ultimately withdrew after not receiving final cut privilege.
+
+### **FACT**: Apple TV+ 2024
+In February 2024, Apple announced it had greenlit a 10-episode series for Apple TV+, co-produced by Skydance Television, Anonymous Content and DreamCrew Entertainment.
+
+### **FACT**: "Johnny Mnemonic" (1995) - the only major adaptation
+The most significant Gibson adaptation to date is "Johnny Mnemonic" from 1995. Gibson himself wrote the screenplay adaptation of his short story. The film was unsuccessful, recovering only $19 million from its budget.
+
+---
+
+## CURIOSITIES AND ANECDOTES
+
+### **FACT**: Rewriting with obsessive precision
+Gibson rewrote the first two-thirds of the book twelve times, feared losing the reader's attention and was convinced he would be "permanently embarrassed" after publication.
+
+### **FACT**: Quote became an aphorism
+One line from "Burning Chrome" - "... the street finds its own uses for things" - became a widely quoted aphorism describing the sometimes unexpected uses that users can give to technologies.
+
+### **FACT**: Time's All-Time 100 Novels
+In 2005, "Neuromancer" was named one of the 100 best novels of all time by "Time" magazine.
+
+### **FACT**: Impact on internet language
+Thanks to Gibson's novels, terms like cyberspace, netsurfing, ICE, jacking in, and neural implants entered common usage, as did concepts of net consciousness, virtual interaction and "the matrix".
+
+### **RUMOR**: Typewriter as meta-reference
+Gibson later called his machine a "clockwork typewriter", which could have been a meta-reference to his own novel, in which a similar machine appeared in Julie Deane's office in Chiba City.
+
+### **FACT**: "Lowlife and high tech" paradigm
+Bruce Sterling described Gibson's characteristic "classic one-two combination of lowlife and high tech" as the essence of cyberpunk.
+
+### **FACT**: Unprecedented breakthrough
+The number of things Gibson didn't predict in his forecasts is significantly smaller than expected, especially since he created his cybernetic future world on a typewriter.
+
+---
+
+*Document prepared based on historical research for the 37degrees project (@37stopni) - "reading fever"*

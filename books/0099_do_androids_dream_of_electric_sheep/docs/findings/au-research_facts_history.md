@@ -1,150 +1,149 @@
-# Badania autorskie - Historia i fakty: "Czy androidy marzą o elektrycznych owcach?"
+# Author Research - History and Facts: "Do Androids Dream of Electric Sheep?"
 
-## Podstawowe informacje o książce
-- **Tytuł**: Do Androids Dream of Electric Sheep?
-- **Tytuł polski**: Czy androidy marzą o elektrycznych owcach?
-- **Autor**: Philip K. Dick
-- **Rok wydania**: 1968
-- **Gatunek**: Science fiction, noir
+## Basic Book Information
+- **Title**: Do Androids Dream of Electric Sheep?
+- **Author**: Philip K. Dick
+- **Publication Year**: 1968
+- **Genre**: Science fiction, noir
 
 ---
 
-## FASCYNUJĄCE FAKTY O POWSTANIU KSIĄŻKI
+## FASCINATING FACTS ABOUT THE BOOK'S CREATION
 
-### 1. OKOLICZNOŚCI NAPISANIA
+### 1. WRITING CIRCUMSTANCES
 
-**FAKT**: Dick napisał książkę w latach 1966-1968 w swoim domu przy 57 Meadow Drive w San Rafael, Kalifornia - to tam powstały zarówno "Ubik" jak i "Czy androidy marzą o elektrycznych owcach?"
+**FACT**: Dick wrote the book between 1966-1968 at his home at 57 Meadow Drive in San Rafael, California - the same place where both "Ubik" and "Do Androids Dream of Electric Sheep?" were created.
 
-**FAKT**: Manuskrypt został ukończony 20 czerwca 1966 roku - data gdy trafił do agencji Scott Meredith Literary Agency.
+**FACT**: The manuscript was completed on June 20, 1966 - the date it was submitted to the Scott Meredith Literary Agency.
 
-**FAKT**: Książka miała kilka tytułów roboczych: "THE ELECTRIC TOAD" (Elektryczna ropucha), "DO ANDROIDS DREAM?" (Czy androidy marzą?), "THE ELECTRIC SHEEP" (Elektryczne owce) i "THE KILLERS ARE AMONG US! CRIED RICK DECKARD TO THE SPECIAL MAN" (Zabójcy są wśród nas! krzyczał Rick Deckard do specjalnego człowieka).
+**FACT**: The book had several working titles: "THE ELECTRIC TOAD," "DO ANDROIDS DREAM?," "THE ELECTRIC SHEEP," and "THE KILLERS ARE AMONG US! CRIED RICK DECKARD TO THE SPECIAL MAN."
 
-**FAKT**: Oryginalny tytuł roboczy to "Electric Shepherd" (Elektryczny pasterz) - brzmiał niezręcznie, ale lepiej oddawał treść książki, gdyż główny bohater rzeczywiście jest właścicielem elektrycznej owcy.
+**FACT**: The original working title was "Electric Shepherd" - it sounded awkward but better reflected the book's content, since the main character actually owns an electric sheep.
 
-**FAKT**: Dick potrzebował prawie 2 lata aby znaleźć wydawcę - od czerwca 1966 do publikacji w 1968 roku przez Doubleday.
+**FACT**: Dick needed almost 2 years to find a publisher - from June 1966 to publication in 1968 by Doubleday.
 
-### 2. OKOLICZNOŚCI ŻYCIOWE AUTORA
+### 2. AUTHOR'S LIFE CIRCUMSTANCES
 
-**FAKT**: Dick pisał książkę będąc pod wpływem amfetaminy - w wywiadzie z Rolling Stone z 1975 roku przyznał, że wszystkie książki opublikowane przed 1970 rokiem napisał pod wpływem speed.
+**FACT**: Dick wrote the book while under the influence of amphetamines - in a 1975 Rolling Stone interview he admitted that all books published before 1970 were written while on speed.
 
-**FAKT**: Na speed potrafił napisać 68 stron prozy dziennie i brał do 1000 tabletek tygodniowo!
+**FACT**: On speed, he could write 68 pages of prose per day and took up to 1,000 pills weekly!
 
-**FAKT**: Dick ożenił się z Nancy Hackett 6 lipca 1966 roku (jego czwarta żona), a ich córka Isolde Freya (obecnie Isa Dick Hackett) urodziła się 15 marca 1967 - w trakcie pisania książki został ojcem.
+**FACT**: Dick married Nancy Hackett on July 6, 1966 (his fourth wife), and their daughter Isolde Freya (now Isa Dick Hackett) was born on March 15, 1967 - he became a father while writing the book.
 
-**FAKT**: Lata 1966-1968 to były "najburzliwsze dwa lata, jakie Ameryka przeżyła od II wojny światowej" - zabójstwa, zamieszki, Wietnam, hippisi, narkotyki, kontrkultura były kontekstem dla książki o detektywie w koszmarnnej przyszłości.
+**FACT**: The years 1966-1968 were "the most turbulent two years America had experienced since World War II" - assassinations, riots, Vietnam, hippies, drugs, counterculture provided the context for a book about a detective in a nightmarish future.
 
-**FAKT**: Dick miał poważne problemy finansowe - zarabiał zaledwie 1000-1500 dolarów od wydawnictwa Ace za książkę i nigdy nie widział tantiem ponad zaliczki.
+**FACT**: Dick had serious financial problems - he earned only $1,000-1,500 from Ace Books per novel and never saw royalties beyond advances.
 
-### 3. INSPIRACJE I ŹRÓDŁA
+### 3. INSPIRATIONS AND SOURCES
 
-**FAKT**: Główna inspiracja przyszła podczas badań do "Człowieka z Wysokiego Zamku" - Dick czytał pamiętniki oficerów Gestapo w języku niemieckim w bibliotece UC Berkeley.
+**FACT**: The main inspiration came during research for "The Man in the High Castle" - Dick read Gestapo officers' memoirs in German at UC Berkeley library.
 
-**FAKT**: Dick zaczął myśleć o ludziach pozbawionych empatii jako o "androidach" - to stało się głównym tematem książki.
+**FACT**: Dick began thinking about people lacking empathy as "androids" - this became the book's central theme.
 
-**FAKT**: Wielki wpływ miała książka L. Rona Hubbarda "Fear" - Dick napisał w liście z 1970: "To co piszę to właściwie fantazje psychologiczne na wzór FEAR Hubbarda, które bardzo mnie urzekły i nadal urzekają."
+**FACT**: L. Ron Hubbard's book "Fear" had great influence - Dick wrote in a 1970 letter: "What I write are really psychological fantasies in the manner of Hubbard's FEAR, which fascinated me greatly and still fascinates me."
 
-**FAKT**: Wpływ miały również Theodore Sturgeon ("More Than Human") i konwencje noir fiction - twardy detektyw w brutalnym świecie pełnym korupcji.
+**FACT**: Theodore Sturgeon's "More Than Human" and noir fiction conventions also influenced the work - a hard-boiled detective in a brutal world full of corruption.
 
-### 4. PROCES TWÓRCZY I SZCZEGÓŁY TECHNICZNE
+### 4. CREATIVE PROCESS AND TECHNICAL DETAILS
 
-**FAKT**: Książka liczy około 48,250 słów (według jednych źródeł) lub 79,000 słów (według innych).
+**FACT**: The book contains approximately 48,250 words (according to some sources) or 79,000 words (according to others).
 
-**FAKT**: Wydanie pierwszej książki miało około 193 stron.
+**FACT**: The first edition had approximately 193 pages.
 
-**FAKT**: Test Voight-Kampffa był inspirowany prawdziwymi eksperymentami psychologicznymi, szczególnie testem skojarzeń słów Carla Junga z lat 1904-1907, który mierzył reakcje fizyczne (rozszerzenie źrenic, reakcję skóry) na bodźce emocjonalne.
+**FACT**: The Voight-Kampff test was inspired by real psychological experiments, particularly Carl Jung's word association tests from 1904-1907, which measured physical reactions (pupil dilation, skin response) to emotional stimuli.
 
-**PLOTKA**: Lekarze mówili Dickowi, że amfetamina nie wpływała na niego, ponieważ jego wątroba przetwarzała ją zanim dotarła do mózgu - to przeczy jego wcześniejszym twierdzeń o potrzebie narkotyków do pisania.
+**RUMOR**: Doctors told Dick that amphetamines didn't affect him because his liver processed them before they reached his brain - this contradicts his earlier claims about needing drugs to write.
 
-### 5. PUBLIKACJA I PIERWSZE REAKCJE
+### 5. PUBLICATION AND FIRST REACTIONS
 
-**FAKT**: Pierwsza edycja została wydana przez Doubleday w marcu 1968 roku i jest obecnie rzadka, osiąga ceny w tysiącach dolarów.
+**FACT**: The first edition was published by Doubleday in March 1968 and is now rare, reaching prices in the thousands of dollars.
 
-**FAKT**: Punkt identyfikacyjny pierwszego wydania to "J5" na dole strony 210.
+**FACT**: The identifying point of the first edition is "J5" at the bottom of page 210.
 
-**FAKT**: W sierpniu 1968 roku sprawozdanie z tantiem Doubleday wykazało 671,38 dolara za okres sześciu miesięcy - książka odnosiła sukces komercyjny od początku.
+**FACT**: In August 1968, Doubleday's royalty statement showed $671.38 for the six-month period - the book was a commercial success from the beginning.
 
-**FAKT**: Prawa niemieckie sprzedano za 375 dolarów w maju 1968 roku, co pokazuje wczesne międzynarodowe zainteresowanie.
+**FACT**: German rights were sold for $375 in May 1968, showing early international interest.
 
-**FAKT**: W 1968 roku Dick w eseju "Self Portrait" wymienił tę książkę wśród tych, które jego zdaniem "mogą przetrwać III wojnę światową", wskazując że uważał ją za jedno ze swoich najważniejszych dzieł.
+**FACT**: In 1968, Dick listed this book in his essay "Self Portrait" among those he believed "might survive World War III," indicating he considered it one of his most important works.
 
-### 6. MIĘDZYNARODOWE WYDANIA I RECEPCJA
+### 6. INTERNATIONAL EDITIONS AND RECEPTION
 
-**FAKT**: Książka została przetłumaczona na ponad 25 języków.
+**FACT**: The book has been translated into over 25 languages.
 
-**FAKT**: Tytuł francuski: "Les androïdes rêvent-ils de moutons électriques?"
+**FACT**: French title: "Les androïdes rêvent-ils de moutons électriques?"
 
-**FAKT**: Wydanie jugosłowiańskie z 1984: "SANJAJU LI ANDROIDI ELEKTRICNE OVCE?" (tłumaczenie Alexander Nedelkovich i Branislav Brkic).
+**FACT**: Yugoslav edition from 1984: "SANJAJU LI ANDROIDI ELEKTRICNE OVCE?" (translated by Alexander Nedelkovich and Branislav Brkic).
 
-**FAKT**: Wydanie katalońskie: "ELS ANDROIDES SOMIEN XAIS ELECTRICS?"
+**FACT**: Catalan edition: "ELS ANDROIDES SOMIEN XAIS ELECTRICS?"
 
-**FAKT**: W Japonii książka znalazła szczególny oddźwięk - tłumaczenie Asakura Hisashi.
+**FACT**: The book found particular resonance in Japan - translated by Asakura Hisashi.
 
-**FAKT**: Dick powiedział w połowie lat 60., że gdyby nie francuskie wydawnictwo, które zdecydowało się wydać całą jego twórczość, nie mógłby kontynuować pisania - jego sytuacja finansowa była tak zła.
+**FACT**: Dick said in the mid-1960s that if not for French publishers who decided to publish his entire body of work, he couldn't have continued writing - his financial situation was that dire.
 
-### 7. UKRYTE ZNACZENIA I SYMBOLIKA
+### 7. HIDDEN MEANINGS AND SYMBOLISM
 
-**FAKT**: Tytuł odnosi się do tradycyjnej rady na bezsenność - "liczenie owiec". Dick pytał, czy androidy martwią się o to samo co ludzie.
+**FACT**: The title refers to the traditional advice for insomnia - "counting sheep." Dick was asking whether androids worry about the same things as humans.
 
-**FAKT**: Elektryczne owce symbolizują powierzchowność relacji opartych wyłącznie na pozorach - w świecie post-apokaliptycznym posiadanie prawdziwych zwierząt stało się symbolem statusu.
+**FACT**: Electric sheep symbolize the superficiality of relationships based solely on appearances - in a post-apocalyptic world, owning real animals became a status symbol.
 
-**FAKT**: W książce większość gatunków zwierzęcych wyginęła z powodu radioaktywnego skażenia po wojnie - dlatego posiadanie prawdziwego zwierzęcia było symbolem statusu społecznego.
+**FACT**: In the book, most animal species became extinct due to radioactive contamination after war - therefore owning a real animal was a symbol of social status.
 
-**FAKT**: Wielu ludzi trzymało androidalne zwierzęta, ale były one uważane za kiepski substytut - główny bohater ma na dachu elektryczną owcę i marzy o prawdziwym zwierzęciu.
+**FACT**: Many people kept android animals, but they were considered poor substitutes - the main character has an electric sheep on his roof and dreams of a real animal.
 
-### 8. RÓŻNICE MIĘDZY KSIĄŻKĄ A FILMEM "BLADE RUNNER"
+### 8. DIFFERENCES BETWEEN THE BOOK AND "BLADE RUNNER" FILM
 
-**FAKT**: Książka rozgrywa się w 1992 roku, film w 2019 roku.
+**FACT**: The book is set in 1992, the film in 2019.
 
-**FAKT**: W książce Deckard jest żonaty z Iranem, która jest uzależniona od "empathy box" i musi sztucznie regulować swoje emocje.
+**FACT**: In the book, Deckard is married to Iran, who is addicted to the "empathy box" and must artificially regulate her emotions.
 
-**FAKT**: W książce Deckard to łowca nagród pracujący na komisji - 1000 dolarów za każdego "wycofanego" androida.
+**FACT**: In the book, Deckard is a bounty hunter working on commission - $1,000 for each "retired" android.
 
-**FAKT**: Termin "blade runner" w ogóle nie występuje w książce - tytuł filmu był oparty na noweli Williama S. Burroghsa z 1979.
+**FACT**: The term "blade runner" doesn't appear in the book at all - the film's title was based on a 1979 novella by William S. Burroughs.
 
-**FAKT**: Cały subplot Mercerism - religii opartej na wspólnym doświadczaniu cierpienia świętego Wilbura Mercera przez "empathy box" - został pominięty w filmie.
+**FACT**: The entire Mercerism subplot - a religion based on collectively experiencing the suffering of Saint Wilbur Mercer through "empathy boxes" - was omitted from the film.
 
-### 9. WPŁYW I DZIEDZICTWO
+### 9. IMPACT AND LEGACY
 
-**FAKT**: Po premierze "Blade Runner" w 1982 roku książka stała się bestsellerem Dicka w USA - sprzedano 325,000 kopii.
+**FACT**: After "Blade Runner" premiered in 1982, the book became Dick's bestseller in the USA - 325,000 copies were sold.
 
-**FAKT**: Film sprawił, że Dick stał się sławny na całym świecie - wcześniej był znany głównie w kręgach science fiction.
+**FACT**: The film made Dick famous worldwide - previously he was known mainly in science fiction circles.
 
-**FAKT**: Książka była nominowana do Nagrody Nebula.
+**FACT**: The book was nominated for the Nebula Award.
 
-**FAKT**: Współczesne japońskie roboty-pupile są bezpośrednim nawiązaniem do idei Dicka - w Japonii elektryczne zwierzęta są powszechne, niektórzy traktują robotyczne szczeniaki jak żywe.
+**FACT**: Modern Japanese robot pets are a direct reference to Dick's ideas - in Japan, electric animals are common, with some people treating robotic puppies like living beings.
 
-### 10. ANEGDOTY I CIEKAWOSTKI
+### 10. ANECDOTES AND CURIOSITIES
 
-**FAKT**: Dick mieszkał w San Rafael w domu przy 707 Hacienda Way, który po rozstaniu z żoną stał się domem dla różnych narkomanów i został nazwany "Hermit House" (Dom Pustelnika).
+**FACT**: Dick lived in San Rafael at 707 Hacienda Way, which after his separation from his wife became home to various drug addicts and was called "Hermit House."
 
-**FAKT**: W listopadzie 1971 włamano się do domu Dicka w San Rafael - wysadzono jego sejf ładunkami wybuchowymi i ukradiono osobiste papiery. Dick podejrzewał FBI, CIA, czarnych bojowników lub fanatików religijnych.
+**FACT**: In November 1971, Dick's house in San Rafael was broken into - his safe was blown up with explosives and personal papers were stolen. Dick suspected the FBI, CIA, black militants, or religious fanatics.
 
-**FAKT**: Po włamaniu Dick uciekł do Vancouver - to doświadczenie zainspirowało późniejszą "Scanner Darkly".
+**FACT**: After the break-in, Dick fled to Vancouver - this experience inspired the later "A Scanner Darkly."
 
-**FAKT**: Manuskrypty Dicka, włączając kopie, wersje robocze i pierwsze szkice opublikowanych i nieopublikowanych dzieł, są przechowywane w 24 pudłach w bibliotece California State University, Fullerton.
+**FACT**: Dick's manuscripts, including copies, drafts, and first sketches of published and unpublished works, are stored in 24 boxes at California State University, Fullerton library.
 
-**FAKT**: Dick zajmował się badaniem schizofrenii i był bardzo zainteresowany pytaniem "skąd wiemy, czy widzimy rzeczywistość, czy nie" - to wynikało z jego własnych mistycznych doświadczeń i problemów psychiatrycznych.
+**FACT**: Dick studied schizophrenia and was very interested in the question "how do we know if we're seeing reality or not" - this stemmed from his own mystical experiences and psychiatric problems.
 
-**FAKT**: Dick przyznał, że potrzebował 3 pełne lata od odstawienia amfetaminy, zanim był w stanie ponownie pisać, ale gdy wrócił do klawiatury, okazało się, że potrafi produkować tyle samo co pod wpływem narkotyków.
+**FACT**: Dick admitted he needed 3 full years after quitting amphetamines before he could write again, but when he returned to the keyboard, he found he could produce as much as under the influence of drugs.
 
-**PLOTKA**: Niektórzy twierdzą, że Dick oparł postać Rachaela na swojej żonie Nancy Hackett, ale nie ma na to bezpośrednich dowodów.
+**RUMOR**: Some claim Dick based the character Rachel on his wife Nancy Hackett, but there's no direct evidence for this.
 
-### 11. LICZBY I STATYSTYKI
+### 11. NUMBERS AND STATISTICS
 
-**FAKT**: To była jedna z 21 powieści opublikowanych przez Dicka między 1960 a 1970 rokiem.
+**FACT**: This was one of 21 novels published by Dick between 1960 and 1970.
 
-**FAKT**: Tylko cztery z jego powieści miały pierwsze wydanie w twardej oprawie - reszta wychodziła jako paperbacki dla Ace Books.
+**FACT**: Only four of his novels had first editions in hardcover - the rest came out as paperbacks for Ace Books.
 
-**FAKT**: Dick napisał 16 tytułów dla wydawnictwa Ace, wszystkie we wczesnym okresie kariery (od 1955).
+**FACT**: Dick wrote 16 titles for Ace publishing, all in the early period of his career (from 1955).
 
-**FAKT**: Pierwsza powieść Dicka "Solar Lottery" została opublikowana w 1955 jako połowa Ace Double #D-103 wraz z "The Big Jump" Leigh Brackett.
+**FACT**: Dick's first novel "Solar Lottery" was published in 1955 as half of Ace Double #D-103 along with "The Big Jump" by Leigh Brackett.
 
-**FAKT**: Dick miał trzech dzieci: Laura Archer Dick (ur. 25 lutego 1960), Isolde Freya Dick/Isa Dick Hackett (ur. 15 marca 1967) i Christopher Kenneth Dick (ur. 25 lipca 1973).
+**FACT**: Dick had three children: Laura Archer Dick (born February 25, 1960), Isolde Freya Dick/Isa Dick Hackett (born March 15, 1967), and Christopher Kenneth Dick (born July 25, 1973).
 
 ---
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Czy androidy marzą o elektrycznych owcach?" to książka powstała w wyjątkowo trudnych okolicznościach osobistych i społecznych. Dick, uzależniony od amfetaminy i zmagający się z problemami finansowymi, stworzył dzieło będące refleksją nad naturą człowieczeństwa w czasach społecznych wstrząsów lat 60. XX wieku. Fakt, że książka potrzebowała prawie dwóch lat aby znaleźć wydawcę, a następnie stała się klasykiem literatury science fiction pokazuje, jak często wizjonerskie dzieła wyprzedzają swoje czasy.
+"Do Androids Dream of Electric Sheep?" is a book created under exceptionally difficult personal and social circumstances. Dick, addicted to amphetamines and struggling with financial problems, created a work that reflects on the nature of humanity during the social upheavals of the 1960s. The fact that the book needed almost two years to find a publisher, then became a classic of science fiction literature, shows how often visionary works are ahead of their time.
 
-Największy paradoks? Dick nigdy nie zobaczył prawdziwego sukcesu swojej książki - zmarł w 1982 roku, tuż przed premierą "Blade Runner", filmu który sprawił, że jego dzieło stało się słynne na całym świecie.
+The greatest paradox? Dick never saw the true success of his book - he died in 1982, just before the premiere of "Blade Runner," the film that made his work famous worldwide.

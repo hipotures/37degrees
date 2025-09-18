@@ -1,295 +1,295 @@
-# Wpływ Kulturowy "The Canterbury Tales" - Badania 2025
+# Cultural Impact of "The Canterbury Tales" - Research 2025
 
-## Informacje podstawowe
-- **Tytuł**: The Canterbury Tales (Opowieści kanterberyjskie)
-- **Autor**: Geoffrey Chaucer
-- **Rok powstania**: ok. 1400
-- **Gatunek**: Opowieść ramowa, poezja
-- **Data badań**: 2025-01-09
+## Basic Information
+- **Title**: The Canterbury Tales
+- **Author**: Geoffrey Chaucer
+- **Year of Creation**: c. 1400
+- **Genre**: Frame story, Poetry
+- **Research Date**: 2025-01-09
 
-## ADAPTACJE FILMOWE I TEATRALNE
+## FILM AND THEATER ADAPTATIONS
 
-### Główne Adaptacje Filmowe
+### Major Film Adaptations
 
 #### 1972 - "The Canterbury Tales" (I racconti di Canterbury)
-- **Reżyser**: Pier Paolo Pasolini
-- **Produkcja**: Film włoski, część "Trylogii Życia" Pasoliniego
-- **Nagrody**: Złoty Niedźwiedź na 22. Berlinale
-- **Opis**: Erotyczna czarna komedia przedstawiająca 8 najśmielszych opowieści Chaucera
-- **Wpływ kulturowy**: Kontrowersyjny film, który sprowokował dyskusje o seksualności w literaturze klasycznej
-- **Miejsce w kinematografii**: Część prestiżowej trylogii obok "Decamerona" i "Tysiąca i jednej nocy"
+- **Director**: Pier Paolo Pasolini
+- **Production**: Italian film, part of Pasolini's "Trilogy of Life"
+- **Awards**: Golden Bear at 22nd Berlin International Film Festival
+- **Description**: Erotic black comedy presenting 8 of Chaucer's boldest tales
+- **Cultural Impact**: Controversial film that sparked discussions about sexuality in classical literature
+- **Place in Cinema**: Part of prestigious trilogy alongside "The Decameron" and "Arabian Nights"
 
-#### 2001 - "A Knight's Tale" (Rycerska historia)
-- **Reżyser**: Brian Helgeland
-- **Gwiazdy**: Heath Ledger, Mark Addy
-- **Produkcja**: Amerykańska komedia przygodowa
-- **Podejście**: Luźna adaptacja "The Knight's Tale" z nowoczesną muzyką rockową
-- **Box office**: Sukces komercjalny przyciągający młode pokolenie do tematyki średniowiecznej
-- **Innowacja**: Połączenie klasycznej literatury z nowoczesną estetyką i soundtrackiem
+#### 2001 - "A Knight's Tale"
+- **Director**: Brian Helgeland
+- **Stars**: Heath Ledger, Mark Addy
+- **Production**: American adventure comedy
+- **Approach**: Loose adaptation of "The Knight's Tale" with modern rock music
+- **Box Office**: Commercial success attracting young generation to medieval themes
+- **Innovation**: Combination of classical literature with modern aesthetics and soundtrack
 
 #### 1944 - "A Canterbury Tale"
-- **Reżyserzy**: Michael Powell i Emeric Pressburger
-- **Podejście**: Luźno oparty na strukturze ramowej Chaucera
-- **Znaczenie**: Klasyk brytyjskiego kina wojennego inspirowany duchem pielgrzymki
+- **Directors**: Michael Powell and Emeric Pressburger
+- **Approach**: Loosely based on Chaucer's frame structure
+- **Significance**: British wartime cinema classic inspired by the spirit of pilgrimage
 
-### Adaptacje Teatralne
+### Theater Adaptations
 
 #### "The Two Noble Kinsmen" (1613-1614)
-- **Autorzy**: William Shakespeare i John Fletcher
-- **Podstawa**: Adaptacja "The Knight's Tale"
-- **Znaczenie**: Jedyna bezpośrednia adaptacja Chaucera przez Shakespearea
-- **Wpływ**: Pokazuje jak wielcy dramaturdzy czerpali z Chaucera
+- **Authors**: William Shakespeare and John Fletcher
+- **Source**: Adaptation of "The Knight's Tale"
+- **Significance**: Shakespeare's only direct adaptation of Chaucer
+- **Impact**: Shows how great dramatists drew from Chaucer
 
 #### "The Wife of Willesden" (2021)
-- **Autorka**: Zadie Smith
-- **Podejście**: Współczesna adaptacja "The Wife of Bath's Tale" 
-- **Setting**: Londyńskie puby, akcja przeniesiona do XVII-wiecznej Jamajki
-- **Znaczenie**: Postkolonialna reinterpretacja przez współczesną pisarkę
+- **Author**: Zadie Smith
+- **Approach**: Contemporary adaptation of "The Wife of Bath's Tale"
+- **Setting**: London pubs, action moved to 17th-century Jamaica
+- **Significance**: Postcolonial reinterpretation by contemporary writer
 
 #### Opera "The Canterbury Tales" (1961)
-- **Kompozytor**: Erik Chisholm
-- **Struktura**: Trzy akty: The Wyf of Bath's Tale, The Pardoner's Tale, The Nun's Priest's Tale
-- **Wpływ**: Umuzykalnienie klasycznych opowieści
+- **Composer**: Erik Chisholm
+- **Structure**: Three acts: The Wyf of Bath's Tale, The Pardoner's Tale, The Nun's Priest's Tale
+- **Impact**: Musical adaptation of classical tales
 
-## OBECNOŚĆ W MEDIACH CYFROWYCH
+## PRESENCE IN DIGITAL MEDIA
 
-### TikTok i Trendy Społecznościowe
+### TikTok and Social Media Trends
 
-#### Trendy Językowe i Edukacyjne
-- **Popularność**: Wideo z Middle English pronunciation wśród młodych użytkowników
-- **Twórcy**: @azforeman - wiralowe wideo z czytaniem prologu w średniowiecznej angielszczyźnie
-- **Challenge**: #MiddleEnglishChallenge - próby wymowy tekstu Chaucera
-- **Edukacja**: @throughthesandsoftime - seria o sztuce wymowy Canterbury Tales
+#### Language and Educational Trends
+- **Popularity**: Middle English pronunciation videos among young users
+- **Creators**: @azforeman - viral video reading the prologue in Middle English
+- **Challenge**: #MiddleEnglishChallenge - attempts at pronouncing Chaucer's text
+- **Education**: @throughthesandsoftime - series on the art of Canterbury Tales pronunciation
 
-#### Obecność w BookTok
-- **Status**: Niszowy wobec popularności współczesnych romansów i fantasy
-- **Kontekst**: Część szerszego trendu klasyki jako "ciekawostki historyczne"
-- **Potencjał**: Rosnące zainteresowanie średniowieczną estetyką wśród Gen Z
+#### Presence in BookTok
+- **Status**: Niche compared to popularity of contemporary romance and fantasy
+- **Context**: Part of broader trend of classics as "historical curiosities"
+- **Potential**: Growing interest in medieval aesthetics among Gen Z
 
-### YouTube i Materiały Edukacyjne
+### YouTube and Educational Materials
 
-#### Kanały Edukacyjne
-- **Crash Course Literature**: Analiza postaci i tematów dla studentów
-- **TheyOneThatGuyInLitClass**: Serie o wymowie Middle English
-- **Popularne formaty**: Analiza charakterów, kontekst historyczny, porównania z współczesnością
+#### Educational Channels
+- **Crash Course Literature**: Character and theme analysis for students
+- **TheyOneThatGuyInLitClass**: Middle English pronunciation series
+- **Popular formats**: Character analysis, historical context, contemporary comparisons
 
-#### Projekty Studenckie
-- **TikTok adaptations**: Studenci tworzą nowoczesne wersje opowieści jako projekty szkolne
-- **Character profiles**: Wykorzystanie StoryBoard That do tworzenia profili pielgrzymów
-- **Medieval music projects**: Prezentacje z muzyką epoki jako tło
+#### Student Projects
+- **TikTok adaptations**: Students create modern versions of tales as school projects
+- **Character profiles**: Using StoryBoard That to create pilgrim profiles
+- **Medieval music projects**: Presentations with period music as background
 
-## FANOWSKIE SPOŁECZNOŚCI I TWÓRCZOŚĆ
+## FAN COMMUNITIES AND CREATIVITY
 
-### Fanfiction i Reinterpretacje
+### Fanfiction and Reinterpretations
 
 #### Archive of Our Own (AO3)
-- **Liczba prac**: 12 opowiadań w kategorii Canterbury Tales
-- **Tematy**: Modernizacje, alternatywne zakończenia, dodatkowe opowieści
-- **Popularne podejścia**: Projekty szkolne przekształcone w fanfiction
-- **Charakterystyka**: Średnia długość ~3000 słów, pisane w Contemporary English
+- **Number of works**: 12 stories in Canterbury Tales category
+- **Themes**: Modernizations, alternative endings, additional tales
+- **Popular approaches**: School projects transformed into fanfiction
+- **Characteristics**: Average length ~3000 words, written in Contemporary English
 
 #### FanFiction.Net
-- **Liczba prac**: Ponad 36 opowiadań
-- **Popularne postaci**: Wife of Bath (3 dedykowane opowieści)
-- **Innowacje**: 
-  - Dodatkowe opowieści dla postaci bez własnych historii (Yeoman)
-  - Modernizacje w stylu Middle English iambic pentameter
-  - Opowieści o krucjatach nawiązujące do Knight's Tale
+- **Number of works**: Over 36 stories
+- **Popular characters**: Wife of Bath (3 dedicated stories)
+- **Innovations**:
+  - Additional tales for characters without their own stories (Yeoman)
+  - Modernizations in Middle English iambic pentameter style
+  - Crusade stories referencing Knight's Tale
 
-#### Badania Akademickie Fanfiction
-- **Okres**: 17 prac przez 16 autorów (2008-2022)
-- **Charakterystyka**: Prose, Present Day English, różnorodne crossover
-- **Ograniczenia Wattpad**: Platforma mniej przyjazna dla klasyki literackiej
+#### Academic Fanfiction Research
+- **Period**: 17 works by 16 authors (2008-2022)
+- **Characteristics**: Prose, Present Day English, diverse crossovers
+- **Wattpad Limitations**: Platform less friendly to classical literature
 
-### Fan Art i Twórczość Wizualna
+### Fan Art and Visual Creativity
 
 #### DeviantArt
-- **Wyniki wyszukiwania**: Setki ilustracji inspirowanych Canterbury Tales
-- **Popularne motywy**: Średniowieczne portrety pielgrzymów, sceny z opowieści
-- **Style**: Od tradycyjnych ilustracji po współczesne reinterpretacje
+- **Search results**: Hundreds of illustrations inspired by Canterbury Tales
+- **Popular motifs**: Medieval pilgrim portraits, scenes from tales
+- **Styles**: From traditional illustrations to contemporary reinterpretations
 
-#### Instagram i Pinterest
-- **Hashtagi**: #CanterburyTales, #GeoffreyChaucer, #MedievalLiterature
-- **Popularne obrazy**: Manuskrypty, ilustracje XIX-wieczne, współczesna fan art
-- **Boards Pinterest**: Setki tablic poświęconych średniowiecznej estetyce
+#### Instagram and Pinterest
+- **Hashtags**: #CanterburyTales, #GeoffreyChaucer, #MedievalLiterature
+- **Popular images**: Manuscripts, 19th-century illustrations, contemporary fan art
+- **Pinterest Boards**: Hundreds of boards dedicated to medieval aesthetics
 
-## GRY I MEDIA INTERAKTYWNE
+## GAMES AND INTERACTIVE MEDIA
 
-### Gry Wideo i Aplikacje
+### Video Games and Applications
 
 #### "The Road to Canterbury" (Steam/Mobile)
-- **Twórca**: Kate Heartfield
-- **Format**: 175,000-słowa interaktywna powieść średniowieczna
-- **Platformy**: Steam (PC), Google Play Store
-- **Gameplay**: Wybory gracza wpływają na historię i narrację
-- **Innowacja**: "Your journey, and the stories you tell, will change history"
+- **Creator**: Kate Heartfield
+- **Format**: 175,000-word interactive medieval novel
+- **Platforms**: Steam (PC), Google Play Store
+- **Gameplay**: Player choices influence story and narrative
+- **Innovation**: "Your journey, and the stories you tell, will change history"
 
-#### CantApp - Aplikacja Mobilna
-- **Twórcy**: Współpraca UCL, University of Saskatchewan, National Library of Wales
-- **Funkcjonalność**: Autorytywne wydanie tekstu na telefony i tablety
-- **Grupa docelowa**: Uczniowie szkół średnich i studenci
-- **Innowacje**: Integracja manuskryptów, narracja audio w Middle English
+#### CantApp - Mobile Application
+- **Creators**: Collaboration between UCL, University of Saskatchewan, National Library of Wales
+- **Functionality**: Authoritative text edition for phones and tablets
+- **Target audience**: High school students and university students
+- **Innovations**: Manuscript integration, Middle English audio narration
 
-#### Virtual Chaucer - Doświadczenie VR
-- **Współpraca**: English Faculty Oxford, Creation Theatre, Charisma AI
-- **Gameplay**: Interakcja z postaciami z Tabard Inn przez AI-chat
-- **Czas**: 10-15 minut immersyjnego doświadczenia
-- **Technologia**: AI-powered charakteryzacje pielgrzymów
+#### Virtual Chaucer - VR Experience
+- **Collaboration**: English Faculty Oxford, Creation Theatre, Charisma AI
+- **Gameplay**: Interaction with Tabard Inn characters through AI-chat
+- **Duration**: 10-15 minutes of immersive experience
+- **Technology**: AI-powered pilgrim characterizations
 
-### Minecraft i Edukacyjne Projekty
+### Minecraft and Educational Projects
 
 #### "New Canterbury Tales" Minecraft Project
-- **Współpraca**: Cambridge School of Art × Avans CMD Breda
-- **Czas rozwoju**: Od 2020
-- **Cel**: Immersyjne opowiadanie dla planowania przyszłych miast
-- **Innowacja**: Połączenie literatury klasycznej z world-building
+- **Collaboration**: Cambridge School of Art × Avans CMD Breda
+- **Development time**: Since 2020
+- **Goal**: Immersive storytelling for future city planning
+- **Innovation**: Combination of classical literature with world-building
 
-### Gry Edukacyjne
+### Educational Games
 
 #### "Murder in Canterbury"
-- **Format**: Social deduction game oparty na Mafia/Werewolf
-- **Tematyka**: "Game of conspiracy and paranoia" w uniwersum Canterbury Tales
-- **Grupa docelowa**: Uczniowie i studenci literatury
+- **Format**: Social deduction game based on Mafia/Werewolf
+- **Theme**: "Game of conspiracy and paranoia" in Canterbury Tales universe
+- **Target audience**: Students and literature scholars
 
-## WPŁYW NA LITERATURĘ I JĘZYK ANGIELSKI
+## IMPACT ON LITERATURE AND ENGLISH LANGUAGE
 
-### Historyczny Wpływ Literacki
+### Historical Literary Impact
 
-#### Fundamenty Literatury Angielskiej
-- **Popularyzacja języka**: Pierwszy major work w angielskim vernacular zamiast łaciny/francuskiego
-- **Wpływ na Shakespeare'a**: Psychologiczna głębia postaci wpłynęła na later writers
-- **Pentameter**: Wprowadzenie formy wiersza używanej przez Shakespearea i Miltona
+#### Foundations of English Literature
+- **Language popularization**: First major work in English vernacular instead of Latin/French
+- **Shakespeare influence**: Psychological depth of characters influenced later writers
+- **Pentameter**: Introduction of verse form used by Shakespeare and Milton
 - **Legacy chain**: "All great writers who followed, from Shakespeare to Dryden to Keats to Eliot, owe him a debt"
 
-#### Bezpośredni Wpływ na Klasyków
-- **Shakespeare**: "The Two Noble Kinsmen" jako retelling "The Knight's Tale"
-- **A Midsummer Night's Dream**: Wykorzystanie Theseus i Hippolyta z Knight's Tale
-- **Tradycja narracyjna**: Establishment vernacular narrative tradition w literaturze angielskiej
+#### Direct Influence on Classics
+- **Shakespeare**: "The Two Noble Kinsmen" as retelling of "The Knight's Tale"
+- **A Midsummer Night's Dream**: Use of Theseus and Hippolyta from Knight's Tale
+- **Narrative tradition**: Establishment of vernacular narrative tradition in English literature
 
-### Współczesne Reinterpretacje Literackie
+### Contemporary Literary Reinterpretations
 
-#### Feministyczne Odczyty
-- **Wife of Bath**: Proto-feministyczna bohaterka w nowoczesnych analizach
+#### Feminist Readings
+- **Wife of Bath**: Proto-feminist heroine in modern analyses
 - **Carolyn Dinshaw**: "Chaucer's Sexual Poetics" - feminist values challenging patriarchy
-- **Kontrowersje**: Debaty czy Wife of Bath to genuine feminist agency czy misogynistic stereotypes
+- **Controversies**: Debates whether Wife of Bath represents genuine feminist agency or misogynistic stereotypes
 
-#### Postkolonialne Adaptacje
-- **Jean "Binta" Breeze**: Karaibska reinterpretacja Wife of Bath
-- **Patience Agbabi**: Mrs. Alice Ebi Bafa - nigeryjska imigrantka w Londynie
-- **Windrush Generation**: Alison jako Alvita - Jamajkanka w London borough
+#### Postcolonial Adaptations
+- **Jean "Binta" Breeze**: Caribbean reinterpretation of Wife of Bath
+- **Patience Agbabi**: Mrs. Alice Ebi Bafa - Nigerian immigrant in London
+- **Windrush Generation**: Alison as Alvita - Jamaican woman in London borough
 
-### Paralele z Współczesną Kulturą Popularną
+### Parallels with Contemporary Popular Culture
 
-#### Porównania z Popcultural Icons
-- **"Gone Girl" connections**: Amy Dunne jako "darker version of Wife of Bath"
-- **Manipulative female characters**: Wife of Bath jako archetyp w contemporary media
-- **Power dynamics**: Nowoczesne analizy patriarchal discourse exposure
+#### Comparisons with Pop Cultural Icons
+- **"Gone Girl" connections**: Amy Dunne as "darker version of Wife of Bath"
+- **Manipulative female characters**: Wife of Bath as archetype in contemporary media
+- **Power dynamics**: Modern analyses of patriarchal discourse exposure
 
-## MERCHANDISING I KOMERCJALIZACJA
+## MERCHANDISING AND COMMERCIALIZATION
 
-### Oficjalne Produkty
+### Official Products
 
 #### The Canterbury Tales Experience, Canterbury
-- **Status**: Totalna przebudowa na 2025 rok
-- **Format**: Immersive experience z lights, sounds, smells, special effects
-- **Kickstarter**: Campaign dla "cutting-edge immersive experience for all"
-- **Lokalizacja**: Canterbury, Kent - historyczne miejsce pielgrzymek
+- **Status**: Complete renovation for 2025
+- **Format**: Immersive experience with lights, sounds, smells, special effects
+- **Kickstarter**: Campaign for "cutting-edge immersive experience for all"
+- **Location**: Canterbury, Kent - historic pilgrimage site
 
 #### British Library Products
 - **Canterbury Tales Print**: Beautifully illustrated 14th-century manuscript edition
-- **Format**: Author w illuminated letter jako dekoracyjny element
-- **Grupa docelowa**: Collectors i literatury enthusiasts
+- **Format**: Author in illuminated letter as decorative element
+- **Target audience**: Collectors and literature enthusiasts
 
-### Nieoficjalne Produkty i Fan Economy
+### Unofficial Products and Fan Economy
 
 #### Redbubble Marketplace
-- **Oferta**: T-shirts, posters, stickers, home decor
-- **Twórcy**: Independent artists worldwide
-- **Designsy**: Text-based, character illustrations, quotes
-- **Popularity**: Steady niche market dla literature merchandise
+- **Offering**: T-shirts, posters, stickers, home decor
+- **Creators**: Independent artists worldwide
+- **Designs**: Text-based, character illustrations, quotes
+- **Popularity**: Steady niche market for literature merchandise
 
 #### Litographs Innovation
-- **Produkt**: T-shirt z pełnym tekstem Canterbury Tales
-- **Technologia**: Do 40,000 słów per t-shirt
-- **Concept**: Całe dzieło jako wearable art
+- **Product**: T-shirt with full Canterbury Tales text
+- **Technology**: Up to 40,000 words per t-shirt
+- **Concept**: Entire work as wearable art
 
 #### Etsy Crafts Market
-- **Produkty**: Enamel pins, personalized bookmarks, literature-themed gifts
-- **Crossover**: Często mixed z innymi classics jak Shakespeare
-- **Handmade approach**: Unique crafts od independent creators
+- **Products**: Enamel pins, personalized bookmarks, literature-themed gifts
+- **Crossover**: Often mixed with other classics like Shakespeare
+- **Handmade approach**: Unique crafts from independent creators
 
-## MIEJSCA I DOŚWIADCZENIA TEMATYCZNE
+## THEMED PLACES AND EXPERIENCES
 
-### Historyczne Lokacje
+### Historic Locations
 
-#### Canterbury Cathedral i Heritage Trail
-- **Związek**: Miejsce docelowe pielgrzymki w Canterbury Tales
-- **Współczesność**: Tourist pilgrimage route nawiązujący do Chaucera
-- **Edukacja**: Medieval heritage interpretations
-- **Wpływ**: Literacka turystyka inspirowana tekstem
+#### Canterbury Cathedral and Heritage Trail
+- **Connection**: Pilgrimage destination in Canterbury Tales
+- **Present day**: Tourist pilgrimage route referencing Chaucer
+- **Education**: Medieval heritage interpretations
+- **Impact**: Literary tourism inspired by the text
 
-#### Medieval Festivals i Reenactment
-- **Popularność**: Canterbury Tales jako inspiracja dla medieval fairs
+#### Medieval Festivals and Reenactment
+- **Popularity**: Canterbury Tales as inspiration for medieval fairs
 - **Activities**: Storytelling contests, period costumes, character portrayals
-- **Edukacja**: Living history experiences based on pilgrimage stories
+- **Education**: Living history experiences based on pilgrimage stories
 
-### Nowoczesne Interpretacje
+### Modern Interpretations
 
-#### University Courses i Literary Tourism
+#### University Courses and Literary Tourism
 - **Oxford English Faculty**: Virtual Chaucer projects
-- **Study abroad**: Canterbury jako literary destination
-- **Academic conferences**: Regular scholarly gatherings o Chaucer studies
+- **Study abroad**: Canterbury as literary destination
+- **Academic conferences**: Regular scholarly gatherings on Chaucer studies
 
-## CYTATOWANIA I NAWIĄZANIA W KULTURZE POPULARNEJ
+## QUOTATIONS AND REFERENCES IN POPULAR CULTURE
 
-### Literackie Nawiązania
+### Literary References
 
-#### Struktura Ramowa
-- **Influence**: Frame story technique używana przez countless later works
+#### Frame Structure
+- **Influence**: Frame story technique used by countless later works
 - **Examples**: Anthology collections, interconnected short stories
-- **Modern applications**: TV series z episodic but connected narratives
+- **Modern applications**: TV series with episodic but connected narratives
 
 #### Character Archetypes
-- **Wife of Bath**: Template dla strong, sexually autonomous female characters
-- **Miller, Knight, Pardoner**: Social types wykorzystywane w contemporary fiction
-- **Pilgrimage motif**: Journey as character development w modern literature
+- **Wife of Bath**: Template for strong, sexually autonomous female characters
+- **Miller, Knight, Pardoner**: Social types used in contemporary fiction
+- **Pilgrimage motif**: Journey as character development in modern literature
 
-### Popularne Cytaty i Memy
+### Popular Quotes and Memes
 
 #### Academic Memes
-- **"Whan that Aprille"**: Opening line jako recognizable literary meme
-- **Middle English pronunciation**: TikTok challenges i educational humor
-- **Character descriptions**: General Prologue portraits jako meme templates
+- **"Whan that Aprille"**: Opening line as recognizable literary meme
+- **Middle English pronunciation**: TikTok challenges and educational humor
+- **Character descriptions**: General Prologue portraits as meme templates
 
 #### Educational References
-- **High school curricula**: Standard w AP Literature courses
-- **Cultural literacy**: Część expected knowledge dla educated audiences
+- **High school curricula**: Standard in AP Literature courses
+- **Cultural literacy**: Part of expected knowledge for educated audiences
 - **Standardized tests**: Regular SAT/GRE literature questions
 
-## KONTROWERSJE I DYSKUSJE
+## CONTROVERSIES AND DISCUSSIONS
 
-### Współczesne Problemy
+### Contemporary Issues
 
-#### Gender i Sexuality
-- **Wife of Bath**: Ongoing debates o feminist interpretation
-- **Miller's Tale**: Discussions o sexual content w educational settings
-- **Modern sensitivity**: Balance między historical context a contemporary values
+#### Gender and Sexuality
+- **Wife of Bath**: Ongoing debates about feminist interpretation
+- **Miller's Tale**: Discussions about sexual content in educational settings
+- **Modern sensitivity**: Balance between historical context and contemporary values
 
 #### Religious Content
-- **Pardoner's corruption**: Relevant w discussions o institutional religion
+- **Pardoner's corruption**: Relevant in discussions about institutional religion
 - **Pilgrimage spirituality**: Secular vs religious interpretations
-- **Medieval vs modern**: Context dla understanding religious satire
+- **Medieval vs modern**: Context for understanding religious satire
 
-### Akademickie Kontrowersje
+### Academic Controversies
 
-#### Authorship i Attribution
-- **Scholarly debates**: Ongoing research o text authenticity
+#### Authorship and Attribution
+- **Scholarly debates**: Ongoing research about text authenticity
 - **Manuscript variations**: Different versions leading to interpretation differences
 - **Translation issues**: Middle English accessibility vs authenticity
 
-## WPŁYW NA EDUKACJĘ I PEDAGOGIKĘ
+## IMPACT ON EDUCATION AND PEDAGOGY
 
-### Metody Nauczania
+### Teaching Methods
 
 #### Innovative Approaches
 - **StoryBoard character creation**: Visual learning tools
@@ -298,7 +298,7 @@
 - **Medieval music integration**: Atmospheric learning experiences
 
 #### Technology Integration
-- **CantApp usage**: Mobile learning w classrooms
+- **CantApp usage**: Mobile learning in classrooms
 - **YouTube resources**: Educational video supplements
 - **TikTok projects**: Student-created content adaptations
 - **Virtual reality**: Immersive historical context
@@ -306,44 +306,44 @@
 ### Educational Impact Statistics
 
 #### Curriculum Presence
-- **AP Literature**: Standard curriculum w Advanced Placement courses
-- **University surveys**: Required reading w Medieval Literature courses
-- **International education**: Taught globally jako English literature foundation
+- **AP Literature**: Standard curriculum in Advanced Placement courses
+- **University surveys**: Required reading in Medieval Literature courses
+- **International education**: Taught globally as English literature foundation
 - **Teachers Pay Teachers**: 500+ educational resources available
 
-## KLUCZOWE SPOSTRZEŻENIA
+## KEY INSIGHTS
 
-### Trwały Wpływ Kulturowy
+### Lasting Cultural Impact
 
-1. **Językowy Foundation**: Canterbury Tales jako fundamental text establishing English vernacular w literaturze
-2. **Character Archetypes**: Postaci jak Wife of Bath nadal influencing contemporary character creation
-3. **Narrative Innovation**: Frame story technique wykorzystywana przez centuries of later works
-4. **Educational Staple**: Consistent presence w curricula worldwide for 600+ years
+1. **Language Foundation**: Canterbury Tales as fundamental text establishing English vernacular in literature
+2. **Character Archetypes**: Characters like Wife of Bath still influencing contemporary character creation
+3. **Narrative Innovation**: Frame story technique used throughout centuries of later works
+4. **Educational Staple**: Consistent presence in curricula worldwide for 600+ years
 
-### Współczesna Relevancja
+### Contemporary Relevance
 
-1. **Social Media Evolution**: Middle English pronunciation challenges pokazują how classics find new life online
-2. **Feminist Discourse**: Wife of Bath pozostaje central figure w gender studies discussions
-3. **Technology Integration**: From VR experiences do mobile apps, classics adapting to new media
-4. **Global Reach**: Postcolonial adaptations pokazują universal themes transcending original context
+1. **Social Media Evolution**: Middle English pronunciation challenges show how classics find new life online
+2. **Feminist Discourse**: Wife of Bath remains central figure in gender studies discussions
+3. **Technology Integration**: From VR experiences to mobile apps, classics adapting to new media
+4. **Global Reach**: Postcolonial adaptations show universal themes transcending original context
 
-### Przyszłe Trendy
+### Future Trends
 
-1. **Immersive Experiences**: VR i AR technology creating new ways to experience medieval literature
-2. **Fan Communities**: Growing online communities creating derivative works i discussions
-3. **Educational Innovation**: Interactive apps i games making Middle English accessible
-4. **Cultural Bridging**: Adaptations connecting medieval themes z contemporary social issues
+1. **Immersive Experiences**: VR and AR technology creating new ways to experience medieval literature
+2. **Fan Communities**: Growing online communities creating derivative works and discussions
+3. **Educational Innovation**: Interactive apps and games making Middle English accessible
+4. **Cultural Bridging**: Adaptations connecting medieval themes with contemporary social issues
 
-### Znaczenie dla Polskiej Młodzieży
+### Significance for Polish Youth
 
-1. **Universal Themes**: Tematy jak social hierarchy, gender roles, religious hypocrisy pozostają relevant
-2. **Language Learning**: Middle English jako bridge do understanding English language evolution
-3. **Cultural Literacy**: Canterbury Tales jako essential knowledge w global education
-4. **Creative Inspiration**: Rich source material dla contemporary adaptations i reinterpretations
+1. **Universal Themes**: Themes like social hierarchy, gender roles, religious hypocrisy remain relevant
+2. **Language Learning**: Middle English as bridge to understanding English language evolution
+3. **Cultural Literacy**: Canterbury Tales as essential knowledge in global education
+4. **Creative Inspiration**: Rich source material for contemporary adaptations and reinterpretations
 
 ---
 
-**Podsumowanie**: The Canterbury Tales pozostaje living text, continuously reinterpreted przez każdą generację. Od Pasolini's controversial film adaptations po TikTok pronunciation challenges, Chaucer's work demonstrates remarkable ability to remain culturally relevant across centuries. Digital age has created new opportunities dla engagement, z VR experiences, mobile apps, i fan communities ensuring że medieval pilgrimage story continues inspiring contemporary audiences worldwide.
+**Summary**: The Canterbury Tales remains a living text, continuously reinterpreted by each generation. From Pasolini's controversial film adaptations to TikTok pronunciation challenges, Chaucer's work demonstrates remarkable ability to remain culturally relevant across centuries. Digital age has created new opportunities for engagement, with VR experiences, mobile apps, and fan communities ensuring that medieval pilgrimage story continues inspiring contemporary audiences worldwide.
 
-*Badania przeprowadzone: 9 stycznia 2025*
-*Następna aktualizacja rekomendowana: 2026 (roczny cykl)*
+*Research conducted: January 9, 2025*
+*Next update recommended: 2026 (annual cycle)*

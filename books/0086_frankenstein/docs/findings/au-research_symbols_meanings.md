@@ -1,285 +1,285 @@
-# Analiza Symboliki i Ukrytych Znaczeń: Frankenstein Mary Shelley
+# Symbolism and Hidden Meanings Analysis: Frankenstein by Mary Shelley
 
-## Wprowadzenie
+## Introduction
 
-"Frankenstein" Mary Shelley, opublikowany w 1818 roku, pozostaje jednym z najbardziej wielowarstwowych dzieł w literaturze światowej. Powieść funkcjonuje jednocześnie jako opowieść gotycka, filozoficzna refleksja nad naturą człowieczeństwa oraz ostrzeżenie przed niebezpieczeństwami nieograniczonej ambicji naukowej. Ta analiza odkrywa złożoną siatkę symboli i znaczeń, które sprawiają, że dzieło Shelley pozostaje aktualne po ponad dwustu latach.
+"Frankenstein" by Mary Shelley, published in 1818, remains one of the most multi-layered works in world literature. The novel functions simultaneously as a Gothic tale, philosophical reflection on the nature of humanity, and a warning about the dangers of unlimited scientific ambition. This analysis uncovers the complex web of symbols and meanings that make Shelley's work remain relevant after more than two hundred years.
 
-## I. GŁÓWNE SYMBOLE I ICH INTERPRETACJE
+## I. MAIN SYMBOLS AND THEIR INTERPRETATIONS
 
-### 1. Ogień i Światło: Dwuznaczność Wiedzy
+### 1. Fire and Light: The Ambiguity of Knowledge
 
-**Symbolika Prometeusza**
-Ogień w "Frankensteinie" nawiązuje bezpośrednio do mitu Prometeusza, tytana który wykradł bogom ogień dla ludzkości. Victor Frankenstein staje się "nowoczesnym Prometeuszem", ale jak mityczny poprzednik, ponosi surową karę za swoją zuchwałość. Ogień reprezentuje dar ludzkiego rozumu i jego zdolność zarówno do tworzenia, jak i - przy niewłaściwym użyciu - do niszczenia.
+**Promethean Symbolism**
+Fire in "Frankenstein" directly references the myth of Prometheus, the titan who stole fire from the gods for humanity. Victor Frankenstein becomes the "modern Prometheus," but like his mythical predecessor, pays a harsh price for his audacity. Fire represents the gift of human reason and its capacity both to create and - when misused - to destroy.
 
-**Oświecenie a Destrukcja**
-Victor oświadcza: "Życie i śmierć wydawały mi się idealnymi granicami, które powinienem najpierw przełamać i wlać strumień światła w nasz ciemny świat." Światło symbolizuje tutaj wiedzę oświeceniową i odkrycia naukowe, ale paradoksalnie prowadzi do jeszcze większej ciemności.
+**Enlightenment vs. Destruction**
+Victor declares: "Life and death appeared to me ideal bounds, which I should first break through, and pour a torrent of light into our dark world." Light here symbolizes Enlightenment knowledge and scientific discoveries, but paradoxically leads to even greater darkness.
 
-**Doświadczenie Stwora z Ogniem**
-Potwór uczy się, że ogień może przynieść komfort, ale także spalić i spowodować ból. To symboliczne zrozumienie niebezpiecznej dwoistej natury ognia - elementu, który może zarówno dać życie, jak i je odebrać.
+**The Creature's Experience with Fire**
+The monster learns that fire can bring comfort but also burn and cause pain. This is a symbolic understanding of fire's dangerous dual nature - an element that can both give life and take it away.
 
-### 2. Arktyka: Ostateczna Izolacja
+### 2. The Arctic: Ultimate Isolation
 
-**Krajobrazy Desolacji**
-Opowieść rozpoczyna się i kończy w Oceanie Arktycznym, w pobliżu bieguna północnego. Ta kraina znana jest ze swojej zimnej i niezamieszkanej rozległości. Wybierając to miejsce na otwarcie i zamknięcie historii Frankensteina, Mary Shelley podkreśla jeden z najważniejszych tematów powieści - motyw samotności i izolacji.
+**Landscapes of Desolation**
+The narrative begins and ends in the Arctic Ocean, near the North Pole. This land is known for its cold and uninhabited vastness. By choosing this location to open and close Frankenstein's story, Mary Shelley emphasizes one of the novel's most important themes - the motif of loneliness and isolation.
 
-**Symbolika Emocjonalnego Chłodu**
-Zamrożone krajobrazy reprezentują ostateczną izolację i pustynność, z jaką zmagają się zarówno Victor, jak i Stwór. Zamarznięte krajobrazy symbolizują emocjonalny i psychologiczny chłód wynikający z ich obsesji i porażek.
+**Symbolism of Emotional Coldness**
+The frozen landscapes represent the ultimate isolation and barrenness faced by both Victor and the Creature. The frozen landscapes symbolize the emotional and psychological coldness resulting from their obsessions and failures.
 
-### 3. Natura: Romantyczne Źródło Odnowy
+### 3. Nature: The Romantic Source of Renewal
 
-**Natura jako Siła Uzdrawiająca**
-Wzniosłość naturalnego krajobrazu to typowy romantyczny symbol w całej powieści, działający jako źródło emocjonalnej i duchowej odnowy zarówno dla Frankensteina, jak i jego stworzenia.
+**Nature as Healing Force**
+The sublimity of natural landscape is a typical Romantic symbol throughout the novel, acting as a source of emotional and spiritual renewal for both Frankenstein and his creation.
 
-**Personifikacja Przyrody**
-Shelley używa personifikacji, aby nadać naturze emocje i dostosować ją do tematów powieści. Natura często odzwierciedla wewnętrzne stany postaci, z burzami i burzliwą pogodą symbolizującą wewnętrzny chaos i poczucie winy Victora.
+**Personification of Nature**
+Shelley uses personification to give nature emotions and adapt it to the novel's themes. Nature often reflects the characters' internal states, with storms and turbulent weather symbolizing Victor's inner chaos and guilt.
 
-## II. UNIWERSALNE MOTYWY I ARCHETYPY
+## II. UNIVERSAL MOTIFS AND ARCHETYPES
 
-### 4. Mit Stworzenia i Gra w Boga
+### 4. The Creation Myth and Playing God
 
-**Archetyp Stwórcy**
-Victor Frankenstein ucieleśnia archetyp stwórcy-demiurga, który próbuje uzurpować sobie boską moc kreacji. Ten motyw rezonuje z mitologiami wielu kultur - od greckiego Prometeusza, przez biblijnnego Boga stwarzającego Adama, po golemów żydowskiej kabały.
+**The Creator Archetype**
+Victor Frankenstein embodies the creator-demiurge archetype, who attempts to usurp divine creative power. This motif resonates with mythologies of many cultures - from Greek Prometheus, through the biblical God creating Adam, to the golems of Jewish Kabbalah.
 
-**Tragedia Porzuconego Dziecka**
-Stwór porównuje siebie do Adama, stworzonego przez swojego boga, Victora Frankensteina. Wskazuje, że jako stworzenie powinien być postrzegany jako Adam, osiągnięcie, które Victor powinien była czcić. Jednak ironicznym skutkiem jest wyrzeczenie się go i odrzucenie przez Victora ukochanego dzieła.
+**Tragedy of the Abandoned Child**
+The Creature compares himself to Adam, created by his god, Victor Frankenstein. He points out that as a creation, he should be seen as Adam, an achievement that Victor should have worshipped. However, the ironic result is Victor's renunciation and rejection of his beloved work.
 
-### 5. Kompleks Ojca i Syna
+### 5. Father and Son Complex
 
-**Nieudane Ojcostwo**
-Victor ucieleśnia spełnienie marzeń każdego rodzica: może świadomie, z rozmysłem stworzyć swoje dziecko; może faktycznie wybrać części. Szczególnie ironiczne jest więc to, że nienawidzi tego, co widzi.
+**Failed Parenthood**
+Victor embodies the fulfillment of every parent's dreams: he can consciously, deliberately create his child; he can actually choose the parts. It is therefore particularly ironic that he hates what he sees.
 
-**Psychologia Porzucenia**
-Porażka Victora w przejęciu odpowiedzialności za swoje dzieło można interpretować jako metaforę zaniedbań rodzicielskich. Jego odrzucenie Stwora jest paralelą do psychologicznej traumy doświadczanej przez dzieci porzucone lub maltretowane przez rodziców.
+**Psychology of Abandonment**
+Victor's failure to take responsibility for his work can be interpreted as a metaphor for parental neglect. His rejection of the Creature parallels the psychological trauma experienced by children abandoned or abused by parents.
 
-### 6. Izolacja i Jej Psychologiczne Skutki
+### 6. Isolation and Its Psychological Effects
 
-**Izolacja jako Źródło Zła**
-Frankenstein sugeruje, że alienacja społeczna jest zarówno główną przyczyną zła, jak i karą za nie. Potwór wyraźnie mówi, że jego alienacja od ludzkości sprawiła, że stał się mordercą: "Moi ochronni odeszli i zerwali jedyne ogniwo, które trzymało mnie przy świecie."
+**Isolation as Source of Evil**
+Frankenstein suggests that social alienation is both the main cause of evil and punishment for it. The monster clearly states that his alienation from humanity made him a murderer: "My protectors departed and broke the only link that held me to the world."
 
-**Cykl Przemocy**
-Morderstwa Stwora jednak tylko zwiększają jego alienację, tworząc błędne koło przemocy i izolacji. To pokazuje, jak trauma może być przekazywana i utrwalana w relacjach międzyludzkich.
+**Cycle of Violence**
+The Creature's murders, however, only increase his alienation, creating a vicious circle of violence and isolation. This shows how trauma can be transmitted and perpetuated in interpersonal relationships.
 
-## III. INTERPRETACJE KULTUROWE I HISTORYCZNE
+## III. CULTURAL AND HISTORICAL INTERPRETATIONS
 
-### 7. Oświecenie kontra Romantyzm
+### 7. Enlightenment versus Romanticism
 
-**Krytyka Racjonalizmu**
-Powieść dramatyzuje starcie między oświeceniem XVIII wieku, które celebrowało rozum i naukę, a romantyzmem XIX wieku, który celebrował namiętność i sztukę. Shelley zaatakowała oświeceniową idolatrię rozumu i mechanistycznych sił.
+**Critique of Rationalism**
+The novel dramatizes the clash between 18th-century Enlightenment, which celebrated reason and science, and 19th-century Romanticism, which celebrated passion and art. Shelley attacked the Enlightenment idolatry of reason and mechanistic forces.
 
-**Strach przed Rewolucją Naukową**
-Ta powieść została napisana podczas rewolucji naukowej, jakiej doświadczyły społeczeństwa zachodnie pod koniec XVIII i na początku XIX wieku. Wydarzenia tej powieści są w wielu aspektach odpowiedzią na kulturowy strach, że niekontrolowane postępy naukowe mogą prowadzić do konsekwencji wykraczających poza najśmielsze wyobrażenia ludzi.
+**Fear of Scientific Revolution**
+This novel was written during the scientific revolution experienced by Western societies in the late 18th and early 19th centuries. The events of this novel are in many ways a response to cultural fear that uncontrolled scientific advances could lead to consequences beyond people's wildest imagination.
 
-### 8. Polityczne Podteksty
+### 8. Political Subtexts
 
-**Rewolucja Francuska**
-Kontekstem "Frankensteina" była także Rewolucja Francuska. Niektórzy krytycy spekulują, że stworzenie Shelley jest symbolem samej Rewolucji Francuskiej - pierwotnie stworzonej dla dobra ludzkości, ale nadużycie której doprowadziło ją do niekontrolowanej destrukcji.
+**French Revolution**
+The context of "Frankenstein" was also the French Revolution. Some critics speculate that Shelley's creation is a symbol of the French Revolution itself - originally created for the good of humanity, but whose abuse led it to uncontrolled destruction.
 
-**Trauma Społeczna**
-Zmiana osobowości stworzenia odzwierciedla zwrot w Rewolucji Francuskiej od wczesnych nadziei na wolność, równość i braterstwo do późniejszych ciemnych dni Terroru.
+**Social Trauma**
+The change in the creature's personality reflects the turn in the French Revolution from early hopes for liberty, equality, and fraternity to the later dark days of the Terror.
 
-## IV. WSPÓŁCZESNE REINTERPRETACJE
+## IV. CONTEMPORARY REINTERPRETATIONS
 
-### 9. Interpretacje Feministyczne
+### 9. Feminist Interpretations
 
-**Krytyka Patriarchatu**
-"Frankenstein" był postrzegany przez wielu jako powieść feministyczna, ponieważ słaba reprezentacja kobiet u Shelley działa jako krytyka patriarchalnych ideałów kobiecości. W XVIII wieku najlepsze cechy kobiety zostały opisane przez samego Rousseau: "Pierwszą i najważniejszą cechą kobiety jest dobra natura lub łagodność charakteru."
+**Critique of Patriarchy**
+"Frankenstein" has been seen by many as a feminist novel because Shelley's weak representation of women acts as a critique of patriarchal ideals of femininity. In the 18th century, a woman's best qualities were described by Rousseau himself: "The first and most important quality of a woman is good nature or gentleness of character."
 
-**Wykluczenie Kobiecych Głosów**
-Kobiety w powieści są niemal zawsze postrzegane przez pryzmat męskiej percepcji. Kobiety w powieści są więc wykluczone ze wszystkich sfer; nie mają głosu w opowiadaniu swoich historii, ani nie figurują naprawdę w romantycznym życiu męskich postaci.
+**Exclusion of Female Voices**
+Women in the novel are almost always perceived through the prism of male perception. Women in the novel are thus excluded from all spheres; they have no voice in telling their stories, nor do they really figure in the romantic lives of male characters.
 
-**Mit Narodzin**
-Zarówno Ann Mellor, jak i Ellen Moers argumentowały, że "Frankenstein" to "mit narodzin", a "niechętne włączenie" powieści do gatunku kobiecego gotyku mówi o "szerszym lęku" dotyczącym tego, jak mówić o powieści w "genderowym ujęciu literatury gotyckiej".
+**Birth Myth**
+Both Ann Mellor and Ellen Moers argued that "Frankenstein" is a "birth myth," and the novel's "reluctant inclusion" in the female Gothic genre speaks to "broader anxiety" about how to talk about the novel in a "gendered view of Gothic literature."
 
-### 10. Interpretacje Psychoanalityczne
+### 10. Psychoanalytic Interpretations
 
-**Teoria Freudowska**
-Krytyka Susan Winnett bada "Frankensteina" przez pryzmat freudowskiej teorii zasady przyjemności, argumentując, że działania Victora są zgodne z męską zasadą przyjemności, priorytetowo traktującą intelektualną autostymulację nad konsekwencjami jego dzieła.
+**Freudian Theory**
+Susan Winnett's critique examines "Frankenstein" through the lens of Freudian pleasure principle theory, arguing that Victor's actions align with the male pleasure principle, prioritizing intellectual self-stimulation over the consequences of his work.
 
-**Analiza Lacanowska**
-Psychoanaliza Lacanowska jest szczególnie stosowalna do "Frankensteina". Potwór rodzi się w Wyobrażonym i musi wejść w Symboliczne przez język. W Wyobrażonym jest bezforemny, zagubiony i pragnie matki - kluczowego elementu Wyobrażonego.
+**Lacanian Analysis**
+Lacanian psychoanalysis is particularly applicable to "Frankenstein." The monster is born in the Imaginary and must enter the Symbolic through language. In the Imaginary, he is formless, lost, and desires the mother - a key element of the Imaginary.
 
-### 11. Interpretacje Postkolonialne
+### 11. Postcolonial Interpretations
 
-**"Inny" jako Symbol**
-Stwór w "Frankensteinie" to potężny symbol "Innego", reprezentujący tych, którzy są marginalizowani i dehumanizowani przez społeczeństwo. Jego fizyczny wygląd prowadzi do jego odrzucenia i izolacji, co z kolei napędza jego resentyment i pragnienie zemsty.
+**"Other" as Symbol**
+The Creature in "Frankenstein" is a powerful symbol of the "Other," representing those who are marginalized and dehumanized by society. His physical appearance leads to his rejection and isolation, which in turn fuels his resentment and desire for revenge.
 
-**Dynamika Władzy**
-Ta dynamika odzwierciedla psychologiczny wpływ społecznego ostracyzmu oraz walkę o tożsamość i akceptację, tematy szczególnie istotne w kontekście studiów postkolonialnych.
+**Power Dynamics**
+This dynamic reflects the psychological impact of social ostracism and the struggle for identity and acceptance, themes particularly relevant in the context of postcolonial studies.
 
-## V. EWOLUCJA INTERPRETACJI NA PRZESTRZENI CZASU
+## V. EVOLUTION OF INTERPRETATIONS OVER TIME
 
-### 12. Era Wiktoriańska
+### 12. Victorian Era
 
-**Wiarygodność Naukowa**
-Współcześni czytelnicy, otoczeni przez przełomy naukowe epoki Oświecenia, które zaczęły zmieniać definicję śmierci, czytaliby tę historię jako przerażająco prawdopodobną.
+**Scientific Credibility**
+Contemporary readers, surrounded by the scientific breakthroughs of the Enlightenment era that began to change the definition of death, would read this story as terrifyingly plausible.
 
-**Moralność Wiktoriańska**
-W epoce wiktoriańskiej powieść była interpretowana przez pryzmat moralnych obaw dotyczących granic nauki i roli Bożej opatrzności w życiu ludzkim.
+**Victorian Morality**
+In the Victorian era, the novel was interpreted through the prism of moral concerns about the limits of science and the role of divine providence in human life.
 
-### 13. XX Wiek: Kultura Popularna
+### 13. 20th Century: Popular Culture
 
-**Ewolucja w Kinie**
-Wczesne kino ożywiło postać, utrwalając "Frankensteina" jako potwora w umysłach ludzi, wyrywając postać z kontekstu powieści i wprowadzając ją w nowe sytuacje horroru.
+**Evolution in Cinema**
+Early cinema brought the character to life, cementing "Frankenstein" as a monster in people's minds, tearing the character from the novel's context and introducing it to new horror situations.
 
-**Rozmazanie Granic**
-Już w 1899 roku linia między dr. Frankensteinem a jego potworem zacierała się. Potwór stawał się znany jako Frankenstein, co pokazuje, jak popularna kultura może przekształcać znaczenia literackie.
+**Blurring of Boundaries**
+As early as 1899, the line between Dr. Frankenstein and his monster began to blur. The monster became known as Frankenstein, showing how popular culture can transform literary meanings.
 
-### 14. Współczesne Adaptacje
+### 14. Contemporary Adaptations
 
-**Komiksy i Media**
-W latach 2017 Boom! Studios opublikowało "Victor LaValle's Destroyer" jako limitowaną serię komiksową służącą jako kontynuacja dzieła Shelley, w której potomkini dr. Frankensteina wskrzesza swojego syna po tym, jak został zamordowany przez policję.
+**Comics and Media**
+In 2017, Boom! Studios published "Victor LaValle's Destroyer" as a limited comic series serving as a continuation of Shelley's work, in which Dr. Frankenstein's descendant resurrects her son after he was murdered by police.
 
-**Aplikacja do Współczesnych Problemów**
-Seria przedstawia potwora Frankensteina i stosuje oryginalne tematy powieści dotyczące zemsty, horroru i naukowej pychy do przemocy medycznej i policyjnej wobec czarnych ludzi.
+**Application to Contemporary Problems**
+The series features Frankenstein's monster and applies the original novel's themes of revenge, horror, and scientific hubris to medical and police violence against Black people.
 
-## VI. UKRYTE ZNACZENIA I GŁĘBSZE WARSTWY
+## VI. HIDDEN MEANINGS AND DEEPER LAYERS
 
-### 15. Narcyzm i Ego Stwórcy
+### 15. Narcissism and Creator's Ego
 
-**Narcystyczna Rama**
-Victor wytwarza tak groteskowy model swojego rozmnażania po części jako odpowiedź na własne agresywne uczucia wobec rodziców i poczucie winy, które te emocje wywołują. Te rozczarowania prowadzą nieuchronnie do niespokojnego dzieciństwa Victora.
+**Narcissistic Framework**
+Victor produces such a grotesque model of his reproduction partly as a response to his own aggressive feelings toward parents and the guilt these emotions evoke. These disappointments inevitably lead to Victor's troubled childhood.
 
-**Idealizacja Obronna**
-Obie rekreacje są w efekcie tą samą historią, produktami obronnej idealizacji narcystycznie zranionego dziecka. W obu historiach jest nieobecna matka, ojciec niezdolny utrzymać rodziny w całości i syn, który zakochuje się w osierocone kobiecie.
+**Defensive Idealization**
+Both recreations are effectively the same story, products of defensive idealization of a narcissistically wounded child. In both stories, there is an absent mother, a father unable to keep the family together, and a son who falls in love with an orphaned woman.
 
-### 16. Trauma i Jej Przekazywanie
+### 16. Trauma and Its Transmission
 
-**Cykle Traumy**
-Powieść ujawnia, jak poszukiwanie zrozumienia i towarzysza przez Stwora podkreśla fundamentalną psychologiczną potrzebę więzi i przynależności. Jego powtarzające się odrzucenie przez ludzi pogłębia jego poczucie izolacji i pcha go do przemocy.
+**Cycles of Trauma**
+The novel reveals how the Creature's search for understanding and companionship underscores the fundamental psychological need for connection and belonging. His repeated rejection by humans deepens his sense of isolation and drives him to violence.
 
-**Dziedzictwo Porzucenia**
-To odzwierciedla głęboki wpływ więzi społecznych i rodzinnych na psychiczne dobre samopoczucie oraz cykliczny charakter traumy przekazywanej od stwórcy do stworzenia.
+**Legacy of Abandonment**
+This reflects the profound impact of social and family bonds on mental well-being and the cyclical nature of trauma transmitted from creator to creation.
 
-### 17. Ambiwalencja Moralna
+### 17. Moral Ambivalence
 
-**Relatywizm Dobra i Zła**
-Definicja "Zła" czy "Potwora" jest subiektywna i może zmieniać się w czasie lub gdy jest postrzegana przez pryzmat osobistych motywacji, środowisk kulturowych lub historycznych wydarzeń światowych.
+**Relativism of Good and Evil**
+The definition of "Evil" or "Monster" is subjective and can change over time or when perceived through the prism of personal motivations, cultural environments, or historical world events.
 
-**Złożoność Postaci**
-Chociaż wielu uczonych próbowało oznakować te postacie w kategoriach socjologicznych, ani dr Frankenstein, ani Potwór nie mogą być definitywnie nazwani dobrymi lub złymi.
+**Character Complexity**
+Although many scholars have tried to label these characters in sociological categories, neither Dr. Frankenstein nor the Monster can be definitively called good or evil.
 
-## VII. WSPÓŁCZESNE REZONANSE
+## VII. CONTEMPORARY RESONANCES
 
-### 18. Technologia i Etyka
+### 18. Technology and Ethics
 
-**Współczesne Dylematy**
-W epoce inżynierii genetycznej, sztucznej inteligencji i biotechnologii, ostrzeżenia Shelley wydają się bardziej aktualne niż kiedykolwiek. Pytania o etyczne granice nauki i odpowiedzialność twórców wobec swoich dzieł pozostają kluczowe.
+**Contemporary Dilemmas**
+In the age of genetic engineering, artificial intelligence, and biotechnology, Shelley's warnings seem more relevant than ever. Questions about the ethical limits of science and creators' responsibility for their works remain crucial.
 
-**Bioetyka i Klonowanie**
-Rozwój technik klonowania i edycji genów sprawia, że wizja Victora przestaje być fantastyką, a staje się rzeczywistą możliwością, wraz ze wszystkimi towarzyszącymi jej dylematami etycznymi.
+**Bioethics and Cloning**
+The development of cloning and gene editing techniques makes Victor's vision cease to be fantasy and become a real possibility, along with all its accompanying ethical dilemmas.
 
-### 19. Alienacja w Społeczeństwie Cyfrowym
+### 19. Alienation in Digital Society
 
-**Cyfrowa Izolacja**
-W epoce mediów społecznościowych i cyfrowej komunikacji, tematy izolacji i powierzchownych więzi społecznych nabierają nowego znaczenia. Paradoks większej łączności przy jednoczesnej większej samotności odzwierciedla doświadczenia bohaterów Shelley.
+**Digital Isolation**
+In the age of social media and digital communication, themes of isolation and superficial social bonds take on new meaning. The paradox of greater connectivity with simultaneous greater loneliness reflects the experiences of Shelley's characters.
 
-**Tożsamość i Akceptacja**
-Poszukiwanie tożsamości i akceptacji przez Stwora rezonuje z współczesnymi dyskusjami o różnorodności, inkluzi i marginalizacji społecznej.
+**Identity and Acceptance**
+The Creature's search for identity and acceptance resonates with contemporary discussions about diversity, inclusion, and social marginalization.
 
-### 20. Kryzys Męskości
+### 20. Crisis of Masculinity
 
 **Toxic Masculinity**
-Współczesne interpretacje feministyczne badają, jak Victor ucieleśnia destrukcyjne aspekty tradycyjnej męskości - obsesję na punkcie kontroli, niezdolność do budowania zdrowych relacji oraz skłonność do przemocy jako odpowiedzi na frustrację.
+Contemporary feminist interpretations examine how Victor embodies destructive aspects of traditional masculinity - obsession with control, inability to build healthy relationships, and tendency toward violence as a response to frustration.
 
-**Alternatywne Modele Ojcostwa**
-Porażka Victora jako ojca/stwórcy służy jako ostrzeżenie przed modelem patriarchalnym, sugerując potrzebę bardziej empatycznych i odpowiedzialnych form męskości.
+**Alternative Models of Fatherhood**
+Victor's failure as a father/creator serves as a warning against the patriarchal model, suggesting the need for more empathetic and responsible forms of masculinity.
 
-## VIII. WIELOKULTUROWE PERSPEKTYWY
+## VIII. MULTICULTURAL PERSPECTIVES
 
-### 21. Interpretacje Wschodnie
+### 21. Eastern Interpretations
 
-**Karma i Odpowiedzialność**
-W kontekście filozofii wschodnich, historia Victora może być interpretowana przez pryzmat karmy - jego działania nieuchronnie wracają do niego, demonstrując uniwersalną zasadę odpowiedzialności za skutki swoich czynów.
+**Karma and Responsibility**
+In the context of Eastern philosophies, Victor's story can be interpreted through the prism of karma - his actions inevitably return to him, demonstrating the universal principle of responsibility for the consequences of one's actions.
 
-**Yin i Yang**
-Dualność dobra i zła w postaci Stwora odzwierciedla koncept yin i yang - siły pozornie przeciwstawne, które w rzeczywistości są wzajemnie zależne i tworzą całość.
+**Yin and Yang**
+The duality of good and evil in the Creature's character reflects the concept of yin and yang - forces seemingly opposed but actually interdependent and forming a whole.
 
-### 22. Perspektywy Afrykańskie
+### 22. African Perspectives
 
-**Wspólnotowość vs Indywidualizm**
-Afrykańska filozofia ubuntu, podkreślająca wzajemną zależność i wspólnotowość, kontrastuje z indywidualizmem Victora, sugerując, że jego izolacja i odmowa stworzenia towarzysza dla Stwora naruszają fundamentalne prawa natury ludzkiej.
+**Community vs. Individualism**
+African ubuntu philosophy, emphasizing interdependence and community, contrasts with Victor's individualism, suggesting that his isolation and refusal to create a companion for the Creature violate fundamental laws of human nature.
 
-### 23. Interpretacje Rdzennochamerykańskie**
+### 23. Native American Interpretations
 
-**Równowaga z Naturą**
-Rdzennochamerykańskie tradycje podkreślające harmonię z naturą kontrastują z Victorowym dążeniem do dominacji nad naturą, interpretując jego działania jako naruszenie świętej równowagi.
+**Balance with Nature**
+Native American traditions emphasizing harmony with nature contrast with Victor's drive to dominate nature, interpreting his actions as a violation of sacred balance.
 
-## IX. SYMBOLIKA JĘZYKOWA I NARRACYJNA
+## IX. LINGUISTIC AND NARRATIVE SYMBOLISM
 
-### 24. Struktura Ramowa
+### 24. Framework Structure
 
-**Wielogłosowość**
-Powieść używa struktury ramowej (opowieść w opowieści w opowieści), która symbolizuje wielowarstwowość prawdy i niemożność uchwycenia jednej, obiektywnej wersji wydarzeń.
+**Polyvocality**
+The novel uses a framework structure (story within story within story), which symbolizes the multi-layered nature of truth and the impossibility of capturing one, objective version of events.
 
-**Perspektywy Narracyjne**
-Różne perspektywy narracyjne (Walton, Victor, Stwór) reprezentują różne sposoby rozumienia rzeczywistości, podkreślając względność prawdy i znaczenia.
+**Narrative Perspectives**
+Different narrative perspectives (Walton, Victor, Creature) represent different ways of understanding reality, emphasizing the relativity of truth and meaning.
 
-### 25. Metafory Językowe
+### 25. Linguistic Metaphors
 
-**Język Tworzenia**
-Shelley używa języka związanego z rodzicielstwem i tworzeniem, ale także z alchemią i przemysłem, łącząc organiczne procesy z mechanicznymi, co podkreśla nienatural charakter działań Victora.
+**Language of Creation**
+Shelley uses language related to parenthood and creation, but also to alchemy and industry, connecting organic processes with mechanical ones, emphasizing the unnatural character of Victor's actions.
 
-**Retoryka Mocy**
-Język używany przez różne postacie odzwierciedla ich pozycje społeczne i psychologiczne - Victor używa języka nauki i władzy, podczas gdy Stwór początkowo używa prostego, dziecięcego języka, który ewoluuje w stronę wymowności równej jego stwórcy.
+**Rhetoric of Power**
+The language used by different characters reflects their social and psychological positions - Victor uses the language of science and power, while the Creature initially uses simple, childlike language that evolves toward eloquence equal to his creator's.
 
-## X. GŁĘBSZE WARSTWY FILOZOFICZNE
+## X. DEEPER PHILOSOPHICAL LAYERS
 
-### 26. Pytania o Naturę Człowieczeństwa
+### 26. Questions About the Nature of Humanity
 
-**Co Czyni Nas Ludźmi?**
-Fundamentalne pytanie powieści dotyczy tego, co definiuje człowieczeństwo. Czy to forma fizyczna, inteligencja, empatia, czy zdolność do tworzenia więzi społecznych? Stwór, mimo nienaturalnego pochodzenia, wykazuje wszystkie te cechy.
+**What Makes Us Human?**
+The novel's fundamental question concerns what defines humanity. Is it physical form, intelligence, empathy, or the ability to form social bonds? The Creature, despite his unnatural origin, displays all these traits.
 
-**Hierarchie Bytu**
-Powieść kwestionuje tradycyjne hierarchie bytu, sugerując, że "sztuczne" stworzenie może być bardziej ludzkie niż jego "naturalny" stwórca.
+**Hierarchies of Being**
+The novel questions traditional hierarchies of being, suggesting that an "artificial" creation can be more human than its "natural" creator.
 
-### 27. Dialektyka Władzy i Odpowiedzialności
+### 27. Dialectic of Power and Responsibility
 
-**Władza Twórcy**
-Victor reprezentuje absolutną władzę stwórcy nad stworzeniem, ale jednocześnie pokazuje, jak władza bez odpowiedzialności staje się destrukcyjna zarówno dla władającego, jak i podległego.
+**Creator's Power**
+Victor represents the absolute power of creator over creation, but simultaneously shows how power without responsibility becomes destructive for both the ruler and the subject.
 
-**Emancypacja Stworzenia**
-Ewolucja Stwora od biernego obiektu do aktywnego podmiotu reprezentuje process emancypacji, ale także pokazuje, jak ucisk może prowadzić do przemocy jako formy wyzwolenia.
+**Emancipation of Creation**
+The Creature's evolution from passive object to active subject represents the process of emancipation, but also shows how oppression can lead to violence as a form of liberation.
 
-### 28. Paradoksy Poznania
+### 28. Paradoxes of Knowledge
 
-**Niebezpieczna Wiedza**
-Shelley eksploruje paradoks wiedzy - jej potencjał zarówno do wyzwolenia, jak i zniszczenia. Wiedza sama w sobie nie jest ani dobra, ani zła, ale sposób jej użycia określa jej wartość moralną.
+**Dangerous Knowledge**
+Shelley explores the paradox of knowledge - its potential both for liberation and destruction. Knowledge itself is neither good nor evil, but the way it is used determines its moral value.
 
-**Granice Ludzkiego Poznania**
-Powieść sugeruje, że istnieją granice tego, co ludzie powinni wiedzieć i tworzyć, ale jednocześnie pokazuje niemożność powstrzymania ludzkiej ciekawości i ambicji.
+**Limits of Human Knowledge**
+The novel suggests there are limits to what humans should know and create, but simultaneously shows the impossibility of restraining human curiosity and ambition.
 
-## XI. REZONANSE W LITERATURZE ŚWIATOWEJ
+## XI. RESONANCES IN WORLD LITERATURE
 
-### 29. Związki z Innymi Dziełami
+### 29. Connections with Other Works
 
-**"Raj Utracony" Miltona**
-Stwór porównuje się do Adama z "Raju Utraconego" Miltona, ale także do Szatana, podkreślając swoją dwoistą naturę jako stworzenia zarówno niewinnego, jak i zbuntowanego.
+**Milton's "Paradise Lost"**
+The Creature compares himself to Adam from Milton's "Paradise Lost," but also to Satan, emphasizing his dual nature as both innocent and rebellious creation.
 
-**Golem Żydowski**
-Tradycja golema w kabale żydowskiej dostarcza innego kontekstu dla rozumienia Stwora - sztucznego bytu stworzonego przez człowieka, który może wymknąć się spod kontroli swojego twórcy.
+**Jewish Golem**
+The golem tradition in Jewish Kabbalah provides another context for understanding the Creature - an artificial being created by man that can escape its creator's control.
 
-**"Doktor Faustus"**
-Podobnie jak Faustus Marlowa, Victor zawiera pakt z siłami wykraczającymi poza ludzkie zrozumienie, płacąc ostatecznie najwyższą cenę za swoją pychę.
+**"Doctor Faustus"**
+Like Marlowe's Faustus, Victor makes a pact with forces beyond human understanding, ultimately paying the highest price for his hubris.
 
-### 30. Wpływ na Późniejszą Literaturę
+### 30. Influence on Later Literature
 
-**Fantastyka Naukowa**
-"Frankenstein" ustanowił archetypy i tematy, które definiują gatunek fantastyki naukowej do dziś - od "Doktora Jekyll i Pana Hyde" Stevensona po współczesne historie o sztucznej inteligencji.
+**Science Fiction**
+"Frankenstein" established archetypes and themes that define the science fiction genre to this day - from Stevenson's "Dr. Jekyll and Mr. Hyde" to contemporary stories about artificial intelligence.
 
-**Literatura Gotyckazu**
-Jako kluczowe dzieło gotyku, powieść wpłynęła na rozwój horroru psychologicznego i eksplorację ciemnych stron ludzkiej natury.
+**Gothic Literature**
+As a key Gothic work, the novel influenced the development of psychological horror and exploration of the dark sides of human nature.
 
-## WNIOSKI
+## CONCLUSIONS
 
-"Frankenstein" Mary Shelley pozostaje dziełem o niezwykłej głębi symbolicznej i interpretacyjnej. Jego trwała popularność wynika z zdolności do ciągłej reinterpretacji przez kolejne pokolenia, odzwierciedlającej współczesne lęki dotyczące nauki, technologii, tożsamości i tego, co oznacza bycie człowiekiem.
+Mary Shelley's "Frankenstein" remains a work of extraordinary symbolic and interpretative depth. Its enduring popularity stems from its ability to be continuously reinterpreted by successive generations, reflecting contemporary fears about science, technology, identity, and what it means to be human.
 
-Bogactwo symboli - od ognia i światła po arktyczne pustkowia - tworzy wielowarstwową narrację, która funkcjonuje jednocześnie jako:
-- Ostrzeżenie przed niebezpieczeństwami nieograniczonej ambicji naukowej
-- Medytacja nad naturą człowieczeństwa i społeczną odpowiedzialność
-- Krytyka patriarchalnych struktur i przemocy
-- Eksploracja psychologicznych skutków izolacji i porzucenia
-- Wizja dylematów etycznych w epoce postępu technologicznego
+The richness of symbols - from fire and light to Arctic wastelands - creates a multi-layered narrative that functions simultaneously as:
+- A warning about the dangers of unlimited scientific ambition
+- A meditation on the nature of humanity and social responsibility
+- A critique of patriarchal structures and violence
+- An exploration of the psychological effects of isolation and abandonment
+- A vision of ethical dilemmas in the age of technological progress
 
-W XXI wieku, w obliczu rozwoju sztucznej inteligencji, inżynierii genetycznej i innych przełomowych technologii, ostrzeżenia Shelley nabierają nowej aktualności. Jej pytania o granice ludzkiego poznania, odpowiedzialność twórców wobec swoich dzieł oraz konsekwencje odgrywania roli Boga pozostają tak samo istotne jak ponad dwieście lat temu.
+In the 21st century, facing the development of artificial intelligence, genetic engineering, and other breakthrough technologies, Shelley's warnings take on new relevance. Her questions about the limits of human knowledge, creators' responsibility for their works, and the consequences of playing God remain as relevant as they were over two hundred years ago.
 
-Analiza pokazuje, że "Frankenstein" to więcej niż opowieść grozy - to głęboka refleksja nad kondycją ludzką, która inspiruje i prowokuje do myślenia kolejne pokolenia czytelników na całym świecie. Wielokulturowe interpretacje i ciągłe reinterpretacje dowodzą uniwersalności poruszanych przez Shelley tematów oraz ich zdolności do przemawiania do ludzi różnych kultur i epok, czyniąc z tej powieści prawdziwie ponadczasowe dzieło literatury światowej.
+The analysis shows that "Frankenstein" is more than a horror story - it is a profound reflection on the human condition that inspires and provokes thought in successive generations of readers worldwide. Multicultural interpretations and continuous reinterpretations prove the universality of the themes Shelley addresses and their ability to speak to people of different cultures and eras, making this novel a truly timeless work of world literature.

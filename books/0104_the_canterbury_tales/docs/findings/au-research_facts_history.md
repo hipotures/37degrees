@@ -1,139 +1,139 @@
-# The Canterbury Tales - Historia Powstania i Fascynujące Fakty
+# The Canterbury Tales - Creation History and Fascinating Facts
 
-## Okoliczności Powstania
+## Circumstances of Creation
 
-**FAKT:** Geoffrey Chaucer pisał "Opowieści kanterberyjskie" między 1387 a 1400 rokiem, podczas gdy pracował jako kontroler celny w Londynie (1374-1386). Swoje najważniejsze dzieła napisał w najbardziej płodnym okresie literackim po zakończeniu kariery dyplomatycznej w latach 80. XIV wieku.
+**FACT:** Geoffrey Chaucer wrote "The Canterbury Tales" between 1387 and 1400, while working as customs controller in London (1374-1386). He wrote his most important works during his most productive literary period after ending his diplomatic career in the 1380s.
 
-**FAKT:** Dzieło pozostało nieukończone po śmierci Chaucera w 1400 roku. Planował napisać 120 opowieści (po 4 od każdego z 30 pielgrzymów - 2 w drodze do Canterbury i 2 w drodze powrotnej), ale ukończył tylko 24.
+**FACT:** The work remained unfinished after Chaucer's death in 1400. He planned to write 120 tales (4 from each of 30 pilgrims - 2 on the way to Canterbury and 2 on the return journey), but completed only 24.
 
-**FAKT:** Inspiracją dla struktury ramowej było "Dekameron" Giovanniego Boccaccia - podobne dzieło składające się z krótkich opowieści w większej narracji.
+**FACT:** The inspiration for the frame structure was Giovanni Boccaccio's "Decameron" - a similar work consisting of short stories within a larger narrative.
 
-## Rewolucyjne Decyzje Językowe
+## Revolutionary Language Decisions
 
-**FAKT:** Chaucer zdecydował się pisać w średnioangielskiem (Middle English) zamiast w francuskim lub łacinie, które były normą dla literatury dworskiej i kościelnej. Wielu uważa, że spopularyzował średnioangielski jako język literacki.
+**FACT:** Chaucer decided to write in Middle English instead of French or Latin, which were the norm for courtly and ecclesiastical literature. Many believe he popularized Middle English as a literary language.
 
-**FAKT:** Dla "Opowieści kanterberyjskich" rozwinął linię 10-sylabową z naprzemiennymi akcentami i regularnym rymem końcowym - przodka heroicznej kuplet. Poemat napisany jest pentametrem jambicznym.
+**FACT:** For "The Canterbury Tales" he developed a 10-syllable line with alternating stresses and regular end rhyme - the ancestor of the heroic couplet. The poem is written in iambic pentameter.
 
-## Życiowe Przygody Chaucera
+## Chaucer's Life Adventures
 
-**FAKT:** W 1359 roku Chaucer został schwytany podczas nieudanego oblężenia Reims, służąc w armii Edwarda III. Król Anglia zapłacił 16 funtów za jego wykup (równowartość 14,557 funtów w 2023 roku).
+**FACT:** In 1359, Chaucer was captured during the failed siege of Reims while serving in Edward III's army. The King of England paid 16 pounds for his ransom (equivalent to 14,557 pounds in 2023).
 
-**PLOTKA:** Wykup Chaucera był o "13 szylingów i 4 pensy" mniejszy niż zapłacono za konia jeńca Sir Roberta de Clintona - co pokazuje jego relatywną pozycję społeczną.
+**RUMOR:** Chaucer's ransom was "13 shillings and 4 pence" less than what was paid for prisoner Sir Robert de Clinton's horse - showing his relative social position.
 
-**FAKT:** Chaucer odbył liczne misje dyplomatyczne do Flandrii, Francji i Włoch. W 1366 roku król Nawarry wydał dla niego przepustkę bezpiecznego przejazdu do Hiszpanii jako "szefa misji".
+**FACT:** Chaucer undertook numerous diplomatic missions to Flanders, France, and Italy. In 1366, the King of Navarre issued him a safe-conduct pass to Spain as "head of mission".
 
-**PLOTKA:** XVI-wieczny raport sugeruje, że podczas studiów prawniczych Chaucer został ukarany grzywną za pobicie franciszkańskiego zakonnika na londyńskiej ulicy.
+**RUMOR:** A 16th-century report suggests that during his law studies, Chaucer was fined for beating a Franciscan friar on a London street.
 
-## Wpływy Włoskie i Spotkania Literackie
+## Italian Influences and Literary Encounters
 
-**FAKT:** Podczas misji dyplomatycznych we Włoszech (1372-1373, 1378) Chaucer poznał dzieła Dantego, Petrarki i Boccaccia, które wywarły głęboki wpływ na jego twórczość.
+**FACT:** During diplomatic missions to Italy (1372-1373, 1378), Chaucer discovered the works of Dante, Petrarch, and Boccaccio, which had a profound influence on his writing.
 
-**PLOTKA:** Uczeni sugerują, że Chaucer mógł osobiście spotkać Petrarki lub Boccaccia podczas swoich podróży włoskich.
+**RUMOR:** Scholars suggest that Chaucer may have personally met Petrarch or Boccaccio during his Italian travels.
 
-**FAKT:** "Troilus i Criseyda" Chaucera opiera się na wcześniejszym poemacie Boccaccia "Filostrato", a dla "Parlamentu Ptaków" zapożyczył obszernie od Boccaccia i Dantego.
+**FACT:** Chaucer's "Troilus and Criseyde" is based on Boccaccio's earlier poem "Filostrato", and for "The Parliament of Fowls" he borrowed extensively from Boccaccio and Dante.
 
-## Historia Rękopisów i Publikacji
+## Manuscript and Publication History
 
-**FAKT:** Nie zachował się żaden rękopis "Opowieści kanterberyjskich" w ręce Chaucera. Wszystkie istniejące kopie zostały wykonane przez skrybów.
+**FACT:** No manuscript of "The Canterbury Tales" survives in Chaucer's hand. All existing copies were made by scribes.
 
-**FAKT:** Istnieje 55 średniowiecznych rękopisów zawierających jakąś wersję "Opowieści kanterberyjskich", plus fragmenty rękopisów - to więcej niż dla jakiegokolwiek innego dzieła literatury angielskiej z tamtego okresu, z wyjątkiem "The Prick of Conscience".
+**FACT:** There are 55 medieval manuscripts containing some version of "The Canterbury Tales", plus manuscript fragments - more than for any other work of English literature from that period, except "The Prick of Conscience".
 
-**FAKT:** Najważniejsze wczesne rękopisy to MS Peniarth 392 D (zwany "Hengwrt") i Ellesmere Manuscript - luksusowy, ilustrowany rękopis. Skryba obu rękopisów został zidentyfikowany jako Adam Pinkhurst.
+**FACT:** The most important early manuscripts are MS Peniarth 392 D (called "Hengwrt") and the Ellesmere Manuscript - a luxurious, illustrated manuscript. The scribe of both manuscripts has been identified as Adam Pinkhurst.
 
-## Przełomowa Historia Druku
+## Groundbreaking Printing History
 
-**FAKT:** Pierwsza drukowana wersja "Opowieści kanterberyjskich" została wydana przez Williama Caxtona w 1476 roku w Westminster - była to pierwsza książka wydrukowana w Anglii.
+**FACT:** The first printed version of "The Canterbury Tales" was published by William Caxton in 1476 in Westminster - it was the first book printed in England.
 
-**FAKT:** Zachowało się tylko 10 kopii tego pierwszego wydania, w tym egzemplarze w British Library i Folger Shakespeare Library. W 1999 roku kompletna kopia została sprzedana za 4,5 miliona funtów.
+**FACT:** Only 10 copies of this first edition survive, including copies in the British Library and Folger Shakespeare Library. In 1999, a complete copy was sold for 4.5 million pounds.
 
-**FAKT:** Caxton wydał drugie wydanie w 1483 roku, po tym jak "gentleman" zwrócił mu uwagę na błędy w pierwszym wydaniu.
+**FACT:** Caxton published a second edition in 1483, after a "gentleman" pointed out errors in the first edition.
 
-**FAKT:** Caxton wydrukował łącznie 108 książek, z czego 87 to różne tytuły. 80% swoich dzieł drukował w języku angielskim, a 26 tytułów sam przetłumaczył.
+**FACT:** Caxton printed a total of 108 books, of which 87 are different titles. He printed 80% of his works in English, and translated 26 titles himself.
 
-## Średniowieczny "Bestseller"
+## Medieval "Bestseller"
 
-**FAKT:** "Opowieści kanterberyjskie" były niezwykle popularne w średniowieczu. Istnieje więcej kopii rękopisów tego poematu niż jakiegokolwiek innego poematu z tamtych czasów, co daje mu status średniowiecznego bestsellera.
+**FACT:** "The Canterbury Tales" were extremely popular in the Middle Ages. More manuscript copies of this poem exist than any other poem from that time, giving it the status of a medieval bestseller.
 
-**FAKT:** Kiedy Caxton zakładał pierwszą drukarnię w Anglii w 1476 roku, wybrał "Opowieści kanterberyjskie" prawdopodobnie dlatego, że były już ulubionym tytułem wśród potencjalnych nabywców książek.
+**FACT:** When Caxton established the first printing press in England in 1476, he chose "The Canterbury Tales" probably because they were already a favorite title among potential book buyers.
 
-## Kontekst Pielgrzymkowy i Święty Tomasz Becket
+## Pilgrimage Context and Saint Thomas Becket
 
-**FAKT:** Sanktuarium św. Tomasza Becketa w Canterbury było jednym z najważniejszych miejsc pielgrzymkowych w religii chrześcijańskiej. Pielgrzymi przybywali z całej Europy, włącznie z Francji, Niemiec, Włoch, Islandii i Węgier.
+**FACT:** The shrine of St. Thomas Becket in Canterbury was one of the most important pilgrimage sites in Christianity. Pilgrims came from all over Europe, including France, Germany, Italy, Iceland, and Hungary.
 
-**FAKT:** Są dokumenty o pielgrzymach, którzy przybyli aż z Indii do sanktuarium Becketa.
+**FACT:** There are documents of pilgrims who came from as far as India to Becket's shrine.
 
-**FAKT:** Po translacji relikwii Becketa do nowego sanktuarium 7 lipca 1220 roku, to święto stało się najważniejszym czasem dla pielgrzymów, choć pielgrzymowanie było powszechne w miesiącach od kwietnia do września.
+**FACT:** After the translation of Becket's relics to the new shrine on July 7, 1220, this feast became the most important time for pilgrims, though pilgrimage was common from April to September.
 
-**FAKT:** Droga z Londynu do Canterbury była najpopularniejszym szlakiem. Londyn był ważnym punktem przeprawy przez Tamizę, więc pielgrzymi z całej Anglii zbierali się w Southwark na południu od London Bridge.
+**FACT:** The route from London to Canterbury was the most popular path. London was an important crossing point over the Thames, so pilgrims from all over England gathered in Southwark south of London Bridge.
 
-## Pamiątki Pielgrzymkowe
+## Pilgrimage Souvenirs
 
-**FAKT:** Ampułki - małe flaszki ze stopu cyny - były robione do przechowywania świętej wody z sanktuarium i noszone na szyi jako znak ukończonej pielgrzymki. Duże ich liczby zachowały się, wiele odkryto w Tamizie.
+**FACT:** Ampullae - small tin alloy flasks - were made to store holy water from the shrine and worn around the neck as a sign of completed pilgrimage. Large numbers have survived, many discovered in the Thames.
 
-**FAKT:** Po odwiedzeniu sanktuarium św. Tomasza pielgrzymi kupowali pamiątki w formie małych ołowianych odznak, które przypinali do ubrania.
+**FACT:** After visiting St. Thomas's shrine, pilgrims bought souvenirs in the form of small lead badges that they pinned to their clothing.
 
-## Społeczny i Polityczny Kontekst
+## Social and Political Context
 
-**FAKT:** "Opowieści kanterberyjskie" silnie odzwierciedlają niestabilność polityczną XIV-wiecznej Anglii. Czarna Śmierć (dżuma dymienicza) przetoczyła się przez kraj w latach 40. XIV wieku.
+**FACT:** "The Canterbury Tales" strongly reflect the political instability of 14th-century England. The Black Death (bubonic plague) swept through the country in the 1340s.
 
-**FAKT:** Rosnące ceny podatków i powiększająca się przepaść majątkowa doprowadziły do Powstania Chłopskiego w 1381 roku, tuż przed rozpoczęciem pracy Chaucera nad "Opowieściami".
+**FACT:** Rising tax prices and the widening wealth gap led to the Peasants' Revolt in 1381, just before Chaucer began work on "The Tales".
 
-## Kontrowersje i Cenzura
+## Controversies and Censorship
 
-**FAKT:** "Opowieści kanterberyjskie" były i nadal są przedmiotem wielkiej debaty, będąc cenzurowane, kwestionowane i zakazywane przez stulecia.
+**FACT:** "The Canterbury Tales" were and remain the subject of great debate, being censored, questioned, and banned for centuries.
 
-**FAKT:** Bezpośrednie reakcje w Anglii dotyczyły krytyki Kościoła i seksualnych insynuacji. To jedno z najbardziej zakazywanych i kontrowersyjnych dzieł w historii.
+**FACT:** Immediate reactions in England concerned criticism of the Church and sexual insinuations. It is one of the most banned and controversial works in history.
 
-**FAKT:** Chaucer używa satiry społecznej do obnażenia korupcji i hipokryzji panującej w średniowiecznym społeczeństwie, szczególnie ostro krytykując pierwszy stan - duchowieństwo.
+**FACT:** Chaucer uses social satire to expose the corruption and hypocrisy prevalent in medieval society, particularly sharply criticizing the first estate - the clergy.
 
-## Średniowieczna Kultura Książkowa
+## Medieval Book Culture
 
-**FAKT:** Wbrew popularnej opinii o średniowiecznym analfabetyzmie, nawet przy najbardziej konserwatywnych szacunkach - że tylko 10% męskiej populacji było funkcjonalnie piśmiennych - Anglia miała około 200,000 czytelników przy populacji 2 milionów.
+**FACT:** Contrary to popular opinion about medieval illiteracy, even with the most conservative estimates - that only 10% of the male population was functionally literate - England had about 200,000 readers in a population of 2 million.
 
-**FAKT:** Z wyjątkiem skromnego Oracz, który nigdy nie opowiada żadnej historii w zachowanej wersji, wszyscy pielgrzymi Chaucera byli lub mogli być piśmienni.
+**FACT:** Except for the modest Plowman, who never tells any story in the surviving version, all of Chaucer's pilgrims were or could have been literate.
 
-**FAKT:** Do czasu pisania "Opowieści kanterberyjskich" w Anglii było już dużo książek i dużo ludzi potrafiących je czytać.
+**FACT:** By the time "The Canterbury Tales" was written, there were already many books and many people who could read them in England.
 
-## Wpływ na Literaturę
+## Influence on Literature
 
-**FAKT:** "Opowieści kanterberyjskie" miały ogromny wpływ na literaturę angielską i mogły być odpowiedzialne za popularyzację języka angielskiego w literaturze głównego nurtu, zamiast francuskiego czy łacińskiego.
+**FACT:** "The Canterbury Tales" had enormous influence on English literature and may have been responsible for popularizing the English language in mainstream literature, instead of French or Latin.
 
-**FAKT:** Dzieło inspirowało liczne adaptacje, włącznie z sztuką Zadie Smith z 2021 roku "The Wife of Willesden", adaptującą Prolog i Opowieść Żony z Bath w kontekście współczesnym.
+**FACT:** The work inspired numerous adaptations, including Zadie Smith's 2021 play "The Wife of Willesden", adapting the Prologue and The Wife of Bath's Tale in a contemporary context.
 
-## Struktura Społeczna w Dziele
+## Social Structure in the Work
 
-**FAKT:** Średniowieczne społeczeństwo było podzielone na trzy stany: Kościół (ci którzy się modlą), Szlachta (ci którzy walczą) i Chłopstwo (ci którzy pracują). Sztywna hierarchia średniowiecznych stanów jest często odwracana i podważana w "Opowieściach".
+**FACT:** Medieval society was divided into three estates: the Church (those who pray), the Nobility (those who fight), and the Peasantry (those who work). The rigid hierarchy of medieval estates is often reversed and challenged in "The Tales".
 
-**FAKT:** Pielgrzymka jako rama narracyjna umożliwiła Chaucerowi zebranie ludzi z różnych środowisk: rycerz, przeorysza, mnich; kupiec, prawnik, franklin, uczony kleryk; młynarz, rządca, odpustnik; Żona z Bath i wielu innych.
+**FACT:** Pilgrimage as a narrative framework allowed Chaucer to gather people from different backgrounds: knight, prioress, monk; merchant, lawyer, franklin, learned clerk; miller, steward, pardoner; Wife of Bath and many others.
 
-## Liczby i Statystyki
+## Numbers and Statistics
 
-**FAKT:** British Library posiada największą na świecie kolekcję rękopisów Chaucera - 23 rękopisy "Opowieści kanterberyjskich", najwcześniejszy z których (Lansdowne MS 851) został napisany zaledwie kilka lat po śmierci autora.
+**FACT:** The British Library holds the world's largest collection of Chaucer manuscripts - 23 manuscripts of "The Canterbury Tales", the earliest of which (Lansdowne MS 851) was written just a few years after the author's death.
 
-**FAKT:** Istnieje 84 rękopisy i cztery incunabula (drukowane przed 1500 rokiem) tego dzieła - więcej niż dla jakiegokolwiek innego angielskiego tekstu literatury ludowej z wyjątkiem "Prick of Conscience".
+**FACT:** There are 84 manuscripts and four incunabula (printed before 1500) of this work - more than for any other English folk literature text except "The Prick of Conscience".
 
-**FAKT:** 55 z tych rękopisów uważane jest za pierwotnie kompletne, podczas gdy 28 jest tak fragmentarycznych, że trudno stwierdzić, czy zostały skopiowane indywidualnie czy jako część zestawu.
+**FACT:** 55 of these manuscripts are considered originally complete, while 28 are so fragmentary that it's difficult to determine whether they were copied individually or as part of a set.
 
-**FAKT:** Chaucer żył około 58 lat (c. 1342-1400), co było długim życiem jak na standardy średniowieczne.
+**FACT:** Chaucer lived about 58 years (c. 1342-1400), which was a long life by medieval standards.
 
-## Ciekawostki Językowe i Literackie
+## Linguistic and Literary Curiosities
 
-**FAKT:** Chaucer był pierwszym poetą angielskim przed Szekspirem, a "Opowieści kanterberyjskie" są uważane za jedno z najwspanialszych dzieł poetyckich w języku angielskim.
+**FACT:** Chaucer was the first English poet before Shakespeare, and "The Canterbury Tales" are considered one of the finest poetic works in the English language.
 
-**FAKT:** Jest nazywany "ojcem literatury angielskiej" za swój wkład w rozwój języka angielskiego jako medium literackiego.
+**FACT:** He is called the "father of English literature" for his contribution to developing English as a literary medium.
 
-**PLOTKA:** Fraza "It was Greek to me" mogła pochodzić od Chaucera, który używał podobnego wyrażenia w swoich dziełach.
+**RUMOR:** The phrase "It was Greek to me" may have originated from Chaucer, who used a similar expression in his works.
 
-## Współczesne Dziedzictwo
+## Contemporary Legacy
 
-**FAKT:** Współcześni pielgrzymi nadal podążają Pilgrim's Way, ale teraz jest to wyznaczona trasa - jedna z Southwark i druga z Winchester do Canterbury.
+**FACT:** Contemporary pilgrims still follow the Pilgrim's Way, but now it's a designated route - one from Southwark and another from Winchester to Canterbury.
 
-**FAKT:** "Opowieści kanterberyjskie" stanowią nie tylko literacką podróż, ale żywy obraz średniowiecznej kultury pielgrzymkowej, gdzie przeplatały się pobożność duchowa, interakcje społeczne i rozrywka.
+**FACT:** "The Canterbury Tales" constitute not only a literary journey, but a living picture of medieval pilgrimage culture, where spiritual devotion, social interactions, and entertainment intertwined.
 
-**FAKT:** Dzieło pozostaje jednym z najczęściej studiowanych tekstów literatury średniowiecznej na świecie, tłumaczone na dziesiątki języków i adaptowane w niezliczonych formach artystycznych.
+**FACT:** The work remains one of the most frequently studied texts of medieval literature in the world, translated into dozens of languages and adapted in countless artistic forms.
 
 ---
 
-*Opracowanie: Agent 37d Research System*  
-*Data: 2025-09-01*  
-*Źródła: Britannica, Wikipedia, World History Encyclopedia, The Becket Story, British Library Digital Collections*
+*Compiled by: Agent 37d Research System*
+*Date: 2025-09-01*
+*Sources: Britannica, Wikipedia, World History Encyclopedia, The Becket Story, British Library Digital Collections*

@@ -4,3 +4,184 @@ book_info:
   author: "Margaret Atwood"
   year: 1985
   genre: "Dystopian,Speculative fiction"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-17T15:32:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 9
+    relevance: 10
+    innovation: 8
+    structural_complexity: 8
+    social_roles: 9
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 9.0
+      category: "high"
+
+  themes:
+    universal:
+      - id: "surveillance_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Eye symbol represents fusion of divine and state surveillance - omnipresent paranoia as tool of control"
+        source: "symbols_meanings"
+      - id: "reproductive_2"
+        type: "BOMBSHELL"
+        credibility: 0.95
+        content: "95% prediction accuracy on reproductive rights restrictions - 19 US states banned abortion after Roe overturn"
+        source: "reality_wisdom"
+      - id: "narrative_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "26+ narrative innovations including present tense dystopia, unreliable narrator as resistance tool"
+        source: "writing_innovation"
+      - id: "cultural_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Red robes became universal symbol of women's protest movements globally since 2017"
+        source: "culture_impact"
+      - id: "linguistic_5"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Language control as both theme and narrative technique - Scrabble as act of rebellion"
+        source: "symbols_meanings"
+      - id: "totalitarian_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Every element drawn from real historical precedents - nothing invented that hadn't already happened"
+        source: "facts_history"
+      - id: "prophecy_7"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "7.2M TikTok posts, Project 2025 comparisons, massive post-election sales surges define digital discourse"
+        source: "youth_digital"
+      - id: "social_8"
+        type: "FACT"
+        credibility: 0.95
+        content: "36+ major controversies spanning #MeToo backlash, TERF accusations, global book bans"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Canonical status in English literature, protest symbol, university curriculum staple worldwide"
+        key_editions: ["First edition 1985", "Hulu series tie-in editions", "Graphic novel adaptation"]
+        reception_notes: "Sales tripled after 2016 election, defines resistance movements"
+        educational_status: "Standard in AP Literature, university feminist theory courses"
+        local_themes: ["First Amendment debates", "Supreme Court symbolism", "Americana dystopia"]
+
+      pl:
+        cultural_impact: "Symbol of resistance during Polish women's strikes, political protest icon"
+        key_editions: ["PIW 1992 edition", "Wielka Litera 2017", "Audiobook by Magdalena Cielecka 2024"]
+        reception_notes: "Red cloaks worn during Constitutional Tribunal protests 2020"
+        educational_status: "Not official school reading but popular in book clubs"
+        local_themes: ["Reproductive rights activism", "Post-communist authoritarianism", "EU values defense"]
+
+      de:
+        cultural_impact: "Academic tradition in DACH region, East German surveillance parallels"
+        key_editions: ["Claasen Verlag 1987", "Graphic novel Berlin Verlag 2019", "Fischer reprints"]
+        reception_notes: "East Germans identified with surveillance state: 'This was our life'"
+        educational_status: "IB Diploma Programme curriculum alongside Orwell's 1984"
+        local_themes: ["Stasi parallels", "Reunification trauma", "Hannah Arendt connections"]
+
+      fr:
+        cultural_impact: "The '1984 of women's condition' in French intellectual discourse"
+        key_editions: ["Robert Laffont 1987", "Revised translation 2021", "Academic Presses editions"]
+        reception_notes: "Integrated into Literature of Ideas curriculum at lycée level"
+        educational_status: "Première générale curriculum, university English literature"
+        local_themes: ["French feminist theory", "Philosophical literature tradition", "Belgian protest adoption"]
+
+      es:
+        cultural_impact: "Analysis of reproductive rights and gender equality in Hispanic literary discourse"
+        key_editions: ["Multiple Spanish translations", "Educational editions", "Regional adaptations"]
+        reception_notes: "Strong feminist movement connections across Spanish-speaking countries"
+        educational_status: "University comparative literature and gender studies programs"
+        local_themes: ["Latin American feminism", "Catholic Church critique", "Authoritarian memory"]
+
+      pt:
+        cultural_impact: "Significant reception in Brazil and Portugal, feminist literary canon inclusion"
+        key_editions: ["Brazilian Portuguese editions", "European Portuguese versions", "Academic translations"]
+        reception_notes: "Popular in university gender studies and comparative literature"
+        educational_status: "Graduate literature programs, feminist theory courses"
+        local_themes: ["Brazilian feminist movement", "Religious fundamentalism critique", "Democratic fragility"]
+
+      ja:
+        cultural_impact: "Reception through dystopian literature tradition, academic feminist studies"
+        key_editions: ["Japanese translations", "Academic editions", "Contemporary reprints"]
+        reception_notes: "Study in context of modern Japanese women's rights movements"
+        educational_status: "University English literature and comparative studies programs"
+        local_themes: ["Patriarchal society critique", "Modern Japanese feminism", "Social conformity analysis"]
+
+      ko:
+        cultural_impact: "Analysis within Korean feminist movement context and social transformation"
+        key_editions: ["Korean translations", "Academic study editions", "Contemporary publications"]
+        reception_notes: "Connected to Korean women's rights activism and social movements"
+        educational_status: "University literature and women's studies curricula"
+        local_themes: ["Confucian patriarchy critique", "Korean feminism", "Social transformation analysis"]
+
+      hi:
+        cultural_impact: "Reception in Indian academic and feminist discourse, colonial parallel analysis"
+        key_editions: ["English language editions", "Academic study guides", "University texts"]
+        reception_notes: "Studied in context of postcolonial feminist literature"
+        educational_status: "University English departments and women's studies programs"
+        local_themes: ["Postcolonial feminism", "Religious fundamentalism", "Women's agency traditions"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The mystery of Offred's tapes - investigating a dystopian testimony"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Reconstructing Gilead's rise and the Ceremony rituals"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Uncovering the narrative innovations and unreliable memory"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "resistance_discovery"
+          lead: "host_b"
+          description: "Finding hidden resistance in language and small acts of defiance"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "impact"
+          lead: "host_a"
+          description: "How this testimony became a global phenomenon and protest symbol"
+
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining 'The Handmaid's Tale'. Ask probing questions about Atwood's narrative techniques, the prophecy accuracy, and how a fictional testimony became real-world resistance symbol. Focus on uncovering the layers: How did she create such believable horror? What makes Offred's voice so compelling despite being unreliable?"
+        host_b: "You are {female_name}, an eyewitness to the story's impact. Describe scenes vividly from the novel, share the emotional weight of key moments, bring Gilead to life. Connect the fictional world to real protests with red cloaks. Help listeners feel why this story resonates so powerfully - the Ceremony's horror, the surveillance paranoia, the small acts of rebellion."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["sexual violence discussion", "reproductive coercion themes", "surveillance anxiety", "religious extremism critique"]
+    educational_elements: ["Dystopian genre characteristics", "Narrative innovation techniques", "Speculative fiction methodology", "Contemporary political parallels", "Feminist literary theory"]
+    production_notes:
+      intro_style: "investigative documentary opening with mysterious tape discovery"
+      transitions: "subtle tension-building musical bridges reflecting surveillance paranoia"
+      outro_style: "contemporary relevance emphasis with call to vigilance"
+
+  overall_confidence: 0.91

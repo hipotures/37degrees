@@ -4,3 +4,182 @@ book_info:
   author: "H.G. Wells"
   year: 1897
   genre: "Science fiction,Horror"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-09-18T15:45:00.000Z"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 9
+    cultural_phenomenon: 9
+    contemporary_reception: 7
+    relevance: 9
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 8
+    total: 63
+    percentile: 85
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "invisibility_power"
+        type: "ANALYSIS"
+        credibility: 0.95
+        content: "Invisibility as metaphor for absolute power corrupting moral foundations - Griffin's transformation from scientist to tyrant"
+        source: "symbols_meanings"
+      - id: "surveillance_society"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetic exploration of surveillance culture and privacy concerns in digital age"
+        source: "reality_wisdom"
+      - id: "scientific_ethics"
+        type: "ANALYSIS"
+        credibility: 0.90
+        content: "Unchecked scientific research leading to catastrophic social consequences"
+        source: "writing_innovation"
+      - id: "social_alienation"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Griffin's invisibility representing modern social isolation and digital disconnection"
+        source: "youth_digital"
+      - id: "toxic_masculinity"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Male fantasy of voyeuristic power without accountability or social consequences"
+        source: "symbols_meanings"
+      - id: "class_struggle"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Griffin as product of economic frustration attacking established power structures"
+        source: "dark_drama"
+      - id: "literary_innovation"
+        type: "FACT"
+        credibility: 0.95
+        content: "Revolutionary narrative techniques: objective narrator with epistemic uncertainty"
+        source: "writing_innovation"
+      - id: "cultural_phenomenon"
+        type: "FACT"
+        credibility: 1.0
+        content: "Universal Monster franchise spawning 60+ adaptations across all media"
+        source: "culture_impact"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in Anglo-American science fiction, influencing modernist literature and Hollywood monster traditions"
+        key_editions: ["Oxford World's Classics", "Penguin English Library", "First Universal Pictures adaptation 1933"]
+        reception_notes: "Canonical status in Western literature, National Film Registry preservation"
+        educational_status: "Widely taught in university English literature courses"
+        local_themes: ["Critique of capitalism and invisible hand theory", "Democratic values vs elitist superiority"]
+
+      pl:
+        cultural_impact: "Early translation (1900) established Wells in Polish science fiction tradition alongside Stanisław Lem"
+        key_editions: ["Zysk i S-ka (Eugenia Żmijewska translation)", "Vesper (Krzysztof Sokołowski translation)"]
+        reception_notes: "86% of Polish youth read books, science fiction most popular genre"
+        educational_status: "School readings and educational materials category"
+        local_themes: ["Invisibility as metaphor for historical Polish national struggles", "Alienation resonating with partition experience"]
+
+      de:
+        cultural_impact: "Multiple retranslations demonstrate enduring German academic engagement with Wells as philosopher-writer"
+        key_editions: ["Diogenes Verlag (Zurich)", "Mantikore Frankfurt with Tom Shippey foreword"]
+        reception_notes: "Nazi book burning victim 1933, post-war Frankfurt School critical theory engagement"
+        educational_status: "Advanced secondary education, ethics and science discussions"
+        local_themes: ["Scientific responsibility and Faustian knowledge", "Individual power vs social responsibility"]
+
+      fr:
+        cultural_impact: "French translation tradition recognizing Wells as pioneer of scientific romance genre"
+        key_editions: ["Classic French translations", "Modern academic editions"]
+        reception_notes: "Part of French intellectual discourse on science and society"
+        educational_status: "Philosophy and literature curriculum connections"
+        local_themes: ["Cartesian dualism in body-mind invisibility", "Republican values vs individual tyranny"]
+
+      es:
+        cultural_impact: "Spanish-language reception emphasizing social critique and class consciousness themes"
+        key_editions: ["Hispanic world translations", "Academic Spanish editions"]
+        reception_notes: "Connected to Latin American magical realism traditions"
+        educational_status: "University literature and philosophy programs"
+        local_themes: ["Social invisibility of marginalized populations", "Revolutionary potential of scientific knowledge"]
+
+      pt:
+        cultural_impact: "Portuguese reception emphasizing maritime exploration parallels and colonial critique"
+        key_editions: ["Portuguese and Brazilian editions", "Academic translations"]
+        reception_notes: "Resonance with exploration and discovery narratives"
+        educational_status: "Comparative literature studies"
+        local_themes: ["Imperial power and invisible colonial violence", "Scientific discovery as exploration metaphor"]
+
+      ja:
+        cultural_impact: "Japanese adaptation connecting to oni folklore and technological transformation themes"
+        key_editions: ["Japanese manga adaptations", "Academic translations"]
+        reception_notes: "Anime and manga cultural integration"
+        educational_status: "Science ethics and technology studies"
+        local_themes: ["Technological isolation vs community harmony", "Invisible social hierarchies and conformity"]
+
+      ko:
+        cultural_impact: "Korean reception emphasizing rapid technological change and social alienation"
+        key_editions: ["Korean translations", "Educational editions"]
+        reception_notes: "Relevance to digital transformation society"
+        educational_status: "Technology ethics curriculum"
+        local_themes: ["Digital invisibility and social media isolation", "Technological progress vs traditional values"]
+
+      hi:
+        cultural_impact: "Hindi reception connecting to philosophical traditions of maya (illusion) and social invisibility"
+        key_editions: ["Hindi translations", "Educational materials"]
+        reception_notes: "Integration with philosophical and social studies"
+        educational_status: "Literature and philosophy programs"
+        local_themes: ["Caste-based social invisibility", "Ancient wisdom vs modern scientific hubris"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "scientific_foundations"
+          lead: "host_a"
+          description: "Wells' grounding in Victorian optics and scientific methodology"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "narrative_innovation"
+          lead: "host_b"
+          description: "Revolutionary objective narration and epistemological uncertainty"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "philosophical_depth"
+          lead: "host_a"
+          description: "Multiple interpretive layers: power, alienation, surveillance themes"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "cultural_impact"
+          lead: "host_b"
+          description: "Universal Monster legacy and 60+ adaptations across media"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "Prophetic vision of surveillance society and digital isolation"
+      prompts:
+        host_a: "You are Professor {male_name}, analyzing 'The Invisible Man' with scholarly depth. Discuss Wells' scientific methodology, narrative innovations, and the work's philosophical implications. Explain how Wells grounded fantasy in Victorian science and created new literary techniques. Academic but accessible approach, connecting to modern surveillance and AI ethics debates."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification on complex concepts, request examples of Wells' techniques, and help connect abstract ideas to concrete examples. Ensure accessibility while maintaining scholarly rigor. Bridge academic analysis with contemporary understanding."
+
+  metadata:
+    target_audience: "16+"
+    content_warnings: ["violence and psychological deterioration", "themes of voyeurism and control", "author's controversial historical views", "toxic masculinity discussions"]
+    educational_elements: ["Science fiction genre characteristics", "Victorian scientific context", "Narrative innovation techniques", "Surveillance and privacy ethics", "Power dynamics analysis"]
+    production_notes:
+      intro_style: "scholarly_approach"
+      transitions: "academic musical bridges"
+      outro_style: "thoughtful_synthesis"
+
+  overall_confidence: 0.9

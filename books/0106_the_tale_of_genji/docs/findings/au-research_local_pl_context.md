@@ -1,225 +1,225 @@
-# Lokalny kontekst kulturowy - "Opowieść o księciu Genjim" w Polsce
+# Local Cultural Context - "The Tale of Genji" in Poland
 
-## Podsumowanie wykonawcze
+## Executive Summary
 
-"Opowieść o księciu Genjim" (Genji monogatari) Murasaki Shikibu pozostaje w Polsce dziełem cenionym głównie w kręgach akademickich, bez pełnego polskiego tłumaczenia, ale z rosnącym zainteresowaniem wyrażanym przez wydarzenia kulturalne, wystawy muzealne i projekty tłumaczeniowe. Dzieło jest przedstawiane jako pierwszy na świecie romans psychologiczny, szczególnie istotny dla zrozumienia kultury japońskiej okresu Heian.
-
----
-
-## Historia publikacji w Polsce i krajach sąsiedzkich
-
-### Stan polskich wydań
-
-1. **Brak pełnego tłumaczenia**: Do dziś nie powstało kompletne polskie tłumaczenie dzieła, mimo że został napisany ponad tysiąc lat temu i przełożony na większość języków europejskich.
-
-2. **Fragmentaryczne publikacje**:
-   - **1961/2012**: Fragmenty czterech rozdziałów w antologii Wiesława Kotańskiego "Dziesięć tysięcy liści. Antologia literatury japońskiej" (Państwowe Wydawnictwo Naukowe, PWN)
-   - **2020**: Wydawnictwo Matsumi wydało "Dziennik i pieśni" Murasaki Shikibu (tłum. Monika Szyszka), zawierający fragmenty "Genji monogatari"
-
-3. **Publikacje naukowe**:
-   - **2009**: "Dziesięć wieków Genji monogatari w kulturze Japonii" pod red. Iwony Kordzińskiej-Nawrockiej (Wydawnictwa Uniwersytetu Warszawskiego)
-   - **2022**: Artykuł naukowy o poetyce pierwszego polskiego przekładu w czasopiśmie "Między Oryginałem a Przekładem"
-
-### Porównanie z krajami sąsiadującimi
-
-Dzieło zostało przełożone na większość języków europejskich, podczas gdy Polska pozostaje jednym z nielicznych krajów bez pełnego tłumaczenia tego klasyka literatury światowej.
+"The Tale of Genji" (Genji monogatari) by Murasaki Shikibu remains in Poland a work valued mainly in academic circles, without a complete Polish translation, but with growing interest expressed through cultural events, museum exhibitions and translation projects. The work is presented as the world's first psychological novel, particularly important for understanding Japanese culture of the Heian period.
 
 ---
 
-## Polscy tłumacze i ich interpretacje
+## Publication History in Poland and Neighboring Countries
 
-### Główni tłumacze i badacze
+### Status of Polish Editions
 
-1. **Prof. Wiesław Kotański (1918-2005)**:
-   - Pionier polskiej japonistyki
-   - Autor pierwszych polskich fragmentów "Genji monogatari" w antologii "Dziesięć tysięcy liści"
-   - Tłumaczył bezpośrednio z japońskiego, poprzedzając każdy fragment komentarzem
+1. **No complete translation**: To this day, no complete Polish translation of the work has been created, despite it being written over a thousand years ago and translated into most European languages.
 
-2. **Prof. dr hab. Iwona Kordzińska-Nawrocka**:
-   - Katedra Japonistyki Uniwersytetu Warszawskiego
-   - Autorka pracy nad pierwszym pełnym polskim przekładem
-   - Specjalistka od kultury japońskiej okresu Heian
-   - Jej praca "najlepiej oddaje nastrój oryginału" według ekspertów
+2. **Fragmentary publications**:
+   - **1961/2012**: Fragments of four chapters in Wieslaw Kotanski's anthology "Ten Thousand Leaves. Anthology of Japanese Literature" (State Scientific Publishers, PWN)
+   - **2020**: Matsumi Publishing released "Diary and Songs" by Murasaki Shikibu (trans. Monika Szyszka), containing fragments of "Genji monogatari"
 
-3. **Prof. Mikołaj Melanowicz**:
-   - Autor "Historii literatury japońskiej" (PWN, 2011)
-   - Opisy i analizy wszystkich rozdziałów (1-54) w swojej monumentalnej pracy
+3. **Academic publications**:
+   - **2009**: "Ten Centuries of Genji monogatari in Japanese Culture" edited by Iwona Kordzinska-Nawrocka (University of Warsaw Press)
+   - **2022**: Academic article on the poetics of the first Polish translation in the journal "Between Original and Translation"
 
-### Wyzwania tłumaczeniowe
+### Comparison with Neighboring Countries
 
-- **Język klasyczny**: Wieloznaczność wyrażeń, polisemia leksykalna
-- **System honoryfikatywny**: Skomplikowany japoński język grzecznościowy
-- **Hermetyzm kulturowy**: Wymagana głęboka znajomość kultury okresu Heian
-- **Długość dzieła**: Ponad 1300 stron w przekładach na języki europejskie
+The work has been translated into most European languages, while Poland remains one of the few countries without a complete translation of this classic of world literature.
 
 ---
 
-## Dzieło w polskim systemie edukacji
+## Polish Translators and Their Interpretations
 
-### Studia japonistyczne
+### Main Translators and Researchers
 
-"Genji monogatari" jest podstawową lekturą na kierunkach japonistycznych w Polsce:
+1. **Prof. Wieslaw Kotanski (1918-2005)**:
+   - Pioneer of Polish Japanology
+   - Author of the first Polish fragments of "Genji monogatari" in the anthology "Ten Thousand Leaves"
+   - Translated directly from Japanese, preceding each fragment with commentary
 
-1. **Uniwersytet Warszawski**: Przedmiot "Literatura i kultura Japonii"
-2. **Uniwersytet Jagielloński**: Filologia orientalna - japonistyka
-3. **Uniwersytet im. Adama Mickiewicza w Poznaniu**: Japonistyka
-4. **Uniwersytet Nicolausa Kopernika w Toruniu**: Japonistyka
+2. **Prof. dr hab. Iwona Kordzinska-Nawrocka**:
+   - Department of Japanese Studies, University of Warsaw
+   - Author working on the first complete Polish translation
+   - Specialist in Japanese culture of the Heian period
+   - Her work "best captures the mood of the original" according to experts
 
-### Kontekst akademicki
+3. **Prof. Mikolaj Melanowicz**:
+   - Author of "History of Japanese Literature" (PWN, 2011)
+   - Descriptions and analyses of all chapters (1-54) in his monumental work
 
-- Dzieło jest przedstawiane jako przykład najwcześniejszej powieści psychologicznej na świecie
-- Studenci poznają fragmenty w tłumaczeniu na angielski lub polski (fragmenty Kotańskiego)
-- Nacisk na kontekst kulturowy epoki Heian (794-1185)
+### Translation Challenges
 
----
-
-## Adaptacje teatralne, filmowe i kulturowe
-
-### Wystawy i wydarzenia kulturalne
-
-1. **Muzeum Manggha w Krakowie**:
-   - Wystawa "Opowieść o księciu Genjim" (maj-listopad 2024)
-   - Kurator: Dr hab. Anna Król z ASP
-   - Prezentacja "genji-e" - grafik o księciu Genjim autorstwa Hiroshige i Kunisady
-   - Współczesne interpretacje autorstwa Kai Muchy
-
-2. **Festiwal Sakura**:
-   - Wykłady prof. Iwony Kordzińskiej-Nawrockiej (Wrocław, maj 2024)
-   - Performatywny wykład Takashi Sasaki z udziałem Hisako Tachibana Shihan (maj 2024)
-
-### Adaptacje międzynarodowe dostępne w Polsce
-
-- **Filmowe**: Adaptacje z 1951, 1966, 1987 (anime) dostępne dla polskich odbiorców
-- **Manga**: Adaptacja wydana przez Ksiegarnię Japońską jako "Opowieść o Genjim Murasaki Shikibu - MANGA"
-
-### Brak polskich adaptacji teatralnych
-
-Mimo zainteresowania kulturą japońską, nie powstały dotychczas polskie adaptacje teatralne tego dzieła.
+- **Classical language**: Ambiguity of expressions, lexical polysemy
+- **Honorific system**: Complex Japanese courtesy language
+- **Cultural hermeticism**: Required deep knowledge of Heian period culture
+- **Length of work**: Over 1300 pages in European language translations
 
 ---
 
-## Lokalne nawiązania i kulturowe różnice
+## The Work in Polish Education System
 
-### Porównania z polską literaturą średniowieczną
+### Japanese Studies
 
-1. **Odmienność podejścia**:
-   - **Japonia (1008)**: Pierwsza powieść psychologiczna, koncentracja na wewnętrznym życiu postaci
-   - **Polska (X-XV w.)**: Literatura parenetyczna, propagowanie wzorców moralnych (święty, władca, rycerz)
+"Genji monogatari" is essential reading in Japanese studies programs in Poland:
 
-2. **Status społeczny autorów**:
-   - **Japonia**: Kobiety-poetki na dworze cesarskim jako główne autorki literatury fikcyjnej
-   - **Polska**: Twórczość głównie anonimowa, męska, związana z Kościołem
+1. **University of Warsaw**: Course "Literature and Culture of Japan"
+2. **Jagiellonian University**: Oriental philology - Japanese studies
+3. **Adam Mickiewicz University in Poznan**: Japanese studies
+4. **Nicolaus Copernicus University in Torun**: Japanese studies
 
-3. **Forma i treść**:
-   - **"Genji monogatari"**: 54 księgi o miłości i dworskim życiu, 1300+ stron
-   - **Literatura polska**: Kroniki, żywoty świętych, teksty dydaktyczne
+### Academic Context
 
-### Interpretacja koncepcji "mono no aware"
-
-- Polska kultura interpretuje "mono no aware" jako "smutek rzeczy"
-- Projekt kulturalny "Mono no aware" (2024) w ramach obchodów 100-lecia stosunków polsko-japońskich
-- Polskie rozumienie: świadomość przemijania jako źródło poetyckiej melancholii
+- The work is presented as an example of the world's earliest psychological novel
+- Students learn fragments in English translation or Polish (Kotanski's fragments)
+- Emphasis on cultural context of the Heian era (794-1185)
 
 ---
 
-## Polski fan community i jego specyfika
+## Theatrical, Film and Cultural Adaptations
 
-### Brak dedykowanej społeczności
+### Exhibitions and Cultural Events
 
-W przeciwieństwie do innych klasyków literatury, "Genji monogatari" nie posiada w Polsce wyraźnej społeczności fanowskiej, co wynika głównie z:
-- Braku pełnego polskiego tłumaczenia
-- Ograniczonego dostępu do dzieła (głównie fragmenty)
-- Akademickiego charakteru recepcji
+1. **Manggha Museum in Krakow**:
+   - Exhibition "The Tale of Prince Genji" (May-November 2024)
+   - Curator: Dr hab. Anna Krol from ASP
+   - Presentation of "genji-e" - prints about Prince Genji by Hiroshige and Kunisada
+   - Contemporary interpretations by Kai Mucha
 
-### Społeczność japonistyczna
+2. **Sakura Festival**:
+   - Lectures by Prof. Iwona Kordzinska-Nawrocka (Wroclaw, May 2024)
+   - Performative lecture by Takashi Sasaki with participation of Hisako Tachibana Shihan (May 2024)
 
-1. **Studenci japonistyki**: Główna grupa odbiorców w Polsce
-2. **Miłośnicy kultury japońskiej**: Zainteresowanie mangową adaptacją
-3. **Środowisko akademickie**: Badacze literatury japońskiej
+### International Adaptations Available in Poland
 
-### Recepcja mangowej adaptacji
+- **Film**: Adaptations from 1951, 1966, 1987 (anime) available to Polish audiences
+- **Manga**: Adaptation published by Japanese Bookstore as "The Tale of Genji Murasaki Shikibu - MANGA"
 
-Polscy czytelnicy wyrażają mieszane opinie o dostępnej adaptacji:
-- **Pozytywne**: "Spokojna opowieść, lekki romans, jednak potrafi wywołać silne emocje"
-- **Krytyczne**: "Zaledwie 177 stron w porównaniu do 1300 stron oryginału - okrojona wersja"
+### Lack of Polish Theatrical Adaptations
 
----
-
-## Problemy tłumaczeniowe i kulturowe różnice
-
-### Główne bariery językowe
-
-1. **Klasyczny japoński**: System pisma połączony z klasyczną gramatyką
-2. **Polisemia**: Wieloznaczność wyrażeń charakterystyczna dla poezji okresu Heian
-3. **Honoryfikatywy**: Skomplikowany system grzecznościowy nieobecny w polskim
-4. **Kontekst kulturowy**: Hermetyczne odniesienia do kultury dworskiej
-
-### Strategie tłumaczeniowe
-
-Prof. Kordzińska-Nawrocka identyfikuje kluczowe wyzwania:
-- Zachowanie równowagi między czytelnością a wiernością oryginałowi
-- Wprowadzenie czytelnika w kontekst kulturowy poprzez przypisy
-- Adaptacja systemu honoryfikatywnego na język polski
-
-### Perspektywy wydawnicze
-
-**Wyzwania komercyjne**:
-- "Najbardziej zainteresowani są japoniści - zbyt wąski krąg odbiorców"
-- Książka "musiałaby mieć ponad tysiąc stron"
-- Wysokie koszty produkcji vs. ograniczony rynek
-
-**Obecny stan projektu**:
-- Pierwszy polski przekład jest "w przygotowaniu" (stan na 2024)
-- Brak oficjalnej daty publikacji lub nazwy wydawnictwa
+Despite interest in Japanese culture, no Polish theatrical adaptations of this work have been created to date.
 
 ---
 
-## Akademickie interpretacje polskich badaczy
+## Local References and Cultural Differences
 
-### Główne nurty badawcze
+### Comparisons with Polish Medieval Literature
 
-1. **Uniwersytet Warszawski**:
-   - Badania nad estetyką "Genji monogatari" 
-   - Wpływ na współczesne anime i kulturę popularną
-   - Analiza strategii tłumaczeniowych
+1. **Different approaches**:
+   - **Japan (1008)**: First psychological novel, focus on inner life of characters
+   - **Poland (10th-15th c.)**: Parenetic literature, promoting moral patterns (saint, ruler, knight)
 
-2. **Uniwersytet Jagielloński**:
-   - "Estetyka Genji monogatari oraz jej odzwierciedlenie we współczesnym anime"
-   - Tradycyjna estetyka japońska vs. kultura popularna
+2. **Social status of authors**:
+   - **Japan**: Women-poets at the imperial court as main authors of fictional literature
+   - **Poland**: Mainly anonymous, male creativity associated with the Church
 
-### Konferencje i publikacje naukowe
+3. **Form and content**:
+   - **"Genji monogatari"**: 54 books about love and court life, 1300+ pages
+   - **Polish literature**: Chronicles, saints' lives, didactic texts
 
-1. **Międzynarodowa konferenca**: "Dziesięć wieków Genji monogatari" (2008)
-2. **Instytut Grotowskiego**: Wykłady performatywne o "Genji monogatari"
-3. **Publikacje**: Czasopismo "Między Oryginałem a Przekładem" (2022)
+### Interpretation of "mono no aware" concept
 
-### Perspektywa porównawcza
-
-Polscy badacze podkreślają:
-- Wyjątkową pozycję dzieła jako pierwszej powieści psychologicznej
-- Znaczenie dla zrozumienia mentalności japońskiej
-- Uniwersalne wartości humanistyczne mimo kulturowej specyfiki
+- Polish culture interprets "mono no aware" as "the sadness of things"
+- Cultural project "Mono no aware" (2024) as part of celebrating 100 years of Polish-Japanese relations
+- Polish understanding: awareness of transience as a source of poetic melancholy
 
 ---
 
-## Wnioski dla polskich odbiorców
+## Polish Fan Community and Its Specifics
 
-### Co sprawdzić/pamiętać
+### Lack of Dedicated Community
 
-1. **Wystawa w Manggha**: Najlepszy sposób zobaczenia "genji-e" - tradycyjnych ilustracji do dzieła
-2. **Antologia Kotańskiego**: Jedyne dostępne polskie fragmenty w księgarniach
-3. **Festiwal Sakura**: Regularne wykłady o kulturze japońskiej, w tym o "Genji"
+Unlike other literary classics, "Genji monogatari" does not have a distinct fan community in Poland, mainly due to:
+- Lack of complete Polish translation
+- Limited access to the work (mainly fragments)
+- Academic nature of reception
 
-### Lokalne związki z Krakowem
+### Japanese Studies Community
 
-- Muzeum Manggha jako główny ośrodek kultury japońskiej w Polsce
-- Kolekcja Feliksa "Manggi" Jasieńskiego zawierająca oryginalne grafiki do "Genji"
-- Kraków jako miasto o tradycjach orientalistycznych (UJ)
+1. **Japanese studies students**: Main group of recipients in Poland
+2. **Japanese culture enthusiasts**: Interest in manga adaptation
+3. **Academic community**: Researchers of Japanese literature
 
-### Znaczenie dla polskiej kultury
+### Reception of Manga Adaptation
 
-"Opowieść o księciu Genjim" pozostaje w Polsce dziełem traktowanym z szacunkiem, ale niedostępnym szerszemu kręgowi czytelników. Jego pełne polskie wydanie mogłoby stanowić przełom w recepcji literatury japońskiej, podobnie jak miało to miejsce z innymi klasykami światowymi.
+Polish readers express mixed opinions about the available adaptation:
+- **Positive**: "Calm story, light romance, yet capable of evoking strong emotions"
+- **Critical**: "Only 177 pages compared to 1300 pages of the original - truncated version"
 
 ---
 
-*Dokument opracowany na podstawie badań akademickich, wywiadów z ekspertami i analizy dostępnych źródeł polskojęzycznych (wrzesień 2025)*
+## Translation Problems and Cultural Differences
+
+### Main Language Barriers
+
+1. **Classical Japanese**: Writing system combined with classical grammar
+2. **Polysemy**: Ambiguity of expressions characteristic of Heian period poetry
+3. **Honorifics**: Complex courtesy system absent in Polish
+4. **Cultural context**: Hermetic references to court culture
+
+### Translation Strategies
+
+Prof. Kordzinska-Nawrocka identifies key challenges:
+- Maintaining balance between readability and fidelity to the original
+- Introducing the reader to cultural context through footnotes
+- Adapting the honorific system to Polish language
+
+### Publishing Perspectives
+
+**Commercial challenges**:
+- "Those most interested are Japanologists - too narrow a circle of recipients"
+- The book "would have to be over a thousand pages"
+- High production costs vs. limited market
+
+**Current project status**:
+- First Polish translation is "in preparation" (as of 2024)
+- No official publication date or publisher name
+
+---
+
+## Academic Interpretations by Polish Scholars
+
+### Main Research Trends
+
+1. **University of Warsaw**:
+   - Research on the aesthetics of "Genji monogatari"
+   - Influence on contemporary anime and popular culture
+   - Analysis of translation strategies
+
+2. **Jagiellonian University**:
+   - "Aesthetics of Genji monogatari and its reflection in contemporary anime"
+   - Traditional Japanese aesthetics vs. popular culture
+
+### Conferences and Academic Publications
+
+1. **International conference**: "Ten Centuries of Genji monogatari" (2008)
+2. **Grotowski Institute**: Performative lectures on "Genji monogatari"
+3. **Publications**: Journal "Between Original and Translation" (2022)
+
+### Comparative Perspective
+
+Polish scholars emphasize:
+- The unique position of the work as the first psychological novel
+- Its significance for understanding Japanese mentality
+- Universal humanistic values despite cultural specificity
+
+---
+
+## Conclusions for Polish Recipients
+
+### What to Check/Remember
+
+1. **Exhibition at Manggha**: Best way to see "genji-e" - traditional illustrations for the work
+2. **Kotanski's Anthology**: Only available Polish fragments in bookstores
+3. **Sakura Festival**: Regular lectures on Japanese culture, including "Genji"
+
+### Local Connections with Krakow
+
+- Manggha Museum as the main center of Japanese culture in Poland
+- Feliks "Manggha" Jasienski's collection containing original prints for "Genji"
+- Krakow as a city with orientalist traditions (Jagiellonian University)
+
+### Significance for Polish Culture
+
+"The Tale of Prince Genji" remains in Poland a work treated with respect, but inaccessible to a wider circle of readers. Its complete Polish edition could constitute a breakthrough in the reception of Japanese literature, similar to what happened with other world classics.
+
+---
+
+*Document prepared based on academic research, expert interviews and analysis of available Polish-language sources (September 2025)*

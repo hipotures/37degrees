@@ -1,205 +1,205 @@
-# Mroczne Interpretacje i Kontrowersje: "Niewidzialny człowiek" H.G. Wellsa
+# Dark Interpretations and Controversies: "The Invisible Man" by H.G. Wells
 
-## Wprowadzenie
-"Niewidzialny człowiek" (1897) H.G. Wellsa to znacznie więcej niż klasyczna science fiction - to mroczne studium władzy, korupcji i psychicznego rozkładu. Książka skrywa niepokojące warstwy znaczeniowe, a jej autor był postacią równie kontrowersyjną co jego stworzenia.
+## Introduction
+"The Invisible Man" (1897) by H.G. Wells is much more than classic science fiction - it is a dark study of power, corruption, and psychological breakdown. The book conceals disturbing layers of meaning, and its author was a figure as controversial as his creations.
 
-## CONSPIRACY THEORIES I MROCZNE INTERPRETACJE
+## CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### 1. Niewidzialność jako Metafora Władzy Absolutnej
-**FAKT**: Wells oparł swoją opowieść na legendzie o pierścieniu Gygesa z "Państwa" Platona, gdzie niewidzialny człowiek może działać bezkarnie "z mocą bogów wśród ludzi"
-**TEORIA**: Griffin reprezentuje niebezpieczną fantazję o władzy absolutnej bez odpowiedzialności
+### 1. Invisibility as Metaphor for Absolute Power
+**FACT**: Wells based his story on the legend of Gyges' ring from Plato's "Republic", where the invisible man can act with impunity "with the power of gods among men"
+**THEORY**: Griffin represents a dangerous fantasy of absolute power without responsibility
 
-### 2. Erotyczna Podtekst i Voyeuryzm
-**FAKT**: Niewidzialny człowiek "musi być nagi", co od adaptacji filmowej z 1933 roku z Claude'em Rainsem eksponuje podtekst erotyczny
-**ZARZUT**: Niewidzialność ma "namacalną mroczną stronę" z inherentnymi implikacjami seksualnymi i voyeurystycznymi
+### 2. Erotic Subtext and Voyeurism
+**FACT**: The invisible man "must be naked", which since the 1933 film adaptation with Claude Rains exposes erotic subtext
+**ACCUSATION**: Invisibility has a "tangible dark side" with inherent sexual and voyeuristic implications
 
-### 3. Krytyka Kapitalizmu i "Niewidzialnej Ręki"
-**TEORIA**: Griffin symbolizuje "działanie nieosobistej, zdecentralizowanej i - w opinii Wellsa - niebezpiecznie chaotycznej gospodarki rynkowej"
-**FAKT**: Wells używał niewidzialności jako krytyki teorii "niewidzialnej ręki" Adama Smitha
+### 3. Critique of Capitalism and the "Invisible Hand"
+**THEORY**: Griffin symbolizes "the operation of an impersonal, decentralized, and - in Wells' opinion - dangerously chaotic market economy"
+**FACT**: Wells used invisibility as a critique of Adam Smith's "invisible hand" theory
 
-### 4. Ostrzeżenie Przed Nauką Bez Kontroli
-**FAKT**: Główna alegoria głosi, że "nauka pozostawiona bez kontroli jest niebezpieczna, a natura zawsze zwycięży"
-**TEORIA**: Wells przewidział niebezpieczeństwa eksperymentów genetycznych i biotechnologii
+### 4. Warning Against Uncontrolled Science
+**FACT**: The main allegory states that "science left unchecked is dangerous, and nature always wins"
+**THEORY**: Wells predicted the dangers of genetic experiments and biotechnology
 
-### 5. Psychologiczne Studium Dezintegracji
-**TEORIA**: Brak widocznego ciała oznacza brak obrazu ciała, a bez obrazu ciała nie ma stabilności tożsamości - co wyjaśnia stopniową dezintegrację psychiczną Griffina
+### 5. Psychological Study of Disintegration
+**THEORY**: Lack of visible body means lack of body image, and without body image there is no identity stability - which explains Griffin's gradual psychological disintegration
 
-## SKANDALE I KONTROWERSJE AUTORA
+## AUTHOR SCANDALS AND CONTROVERSIES
 
-### Życie Osobiste H.G. Wellsa
+### H.G. Wells' Personal Life
 
-#### 6. Seria Romansów Pozamałżeńskich
-**FAKT**: Wells miał liczne romanse podczas dwóch małżeństw:
-- Dorothy Richardson (1907) - romans zakończył się ciążą i poronieniem
-- Amber Reeves (1909) - córka Anna-Jane, zaaranżował jej małżeństwo z innym mężczyzną
-- Elizabeth von Arnim (1910-1913) - pisarka, jedna z kochanek
-- Rebecca West (1914) - 26 lat młodsza, syn Anthony West
-- Margaret Sanger (1920-21) - aktywistka kontroli urodzeń
-- Odette Keun (1924-1933) - 22 lata młodsza, mieszkali razem we Francji
-- Moura Budberg (1933-1946) - była kochanka Gorkiego, opiekowała się Wellsem do śmierci
+#### 6. Series of Extramarital Affairs
+**FACT**: Wells had numerous affairs during two marriages:
+- Dorothy Richardson (1907) - affair ended in pregnancy and miscarriage
+- Amber Reeves (1909) - daughter Anna-Jane, arranged her marriage to another man
+- Elizabeth von Arnim (1910-1913) - writer, one of his lovers
+- Rebecca West (1914) - 26 years younger, son Anthony West
+- Margaret Sanger (1920-21) - birth control activist
+- Odette Keun (1924-1933) - 22 years younger, lived together in France
+- Moura Budberg (1933-1946) - former lover of Gorky, cared for Wells until death
 
-#### 7. Publiczne Upokarzanie Żony
-**ZARZUT**: Wells pisał książki o swoich romansach, ledwo ukrywając tożsamość kochanek, i publikował je "dla całego świata"
-**FAKT**: Arbitralnie zmienił imię drugiej żony Amy Catherine na "Jane" dla swojej wygody
+#### 7. Public Humiliation of Wife
+**ACCUSATION**: Wells wrote books about his affairs, barely concealing the identity of his lovers, and published them "for the whole world"
+**FACT**: Arbitrarily changed his second wife Amy Catherine's name to "Jane" for his convenience
 
-### 8. Antysemickie Poglądy
-**FAKT**: Wells był "konsekwentnie antysemicki" - widać to już w "Niewidzialnym człowieku" i "Wojnie światów"
-**FAKT**: W "Wojnie światów" (rozdział 16) opisuje "brodatego mężczyznę z orlim nosem" (sugerując Żyda) z workiem złotych monet
-**FAKT**: Napisał w autobiografii: "Zawsze odmawiałem oświecenia i sympatii w kwestii żydowskiej"
+### 8. Anti-Semitic Views
+**FACT**: Wells was "consistently anti-Semitic" - visible in "The Invisible Man" and "The War of the Worlds"
+**FACT**: In "The War of the Worlds" (chapter 16) describes a "bearded man with an eagle nose" (suggesting a Jew) with a bag of gold coins
+**FACT**: Wrote in his autobiography: "I have always refused enlightenment and sympathy on the Jewish question"
 
-#### 9. Kontrowersyjne Wypowiedzi o Żydach
-**ZARZUT**: "Jeśli Żydzi cierpieli, to dlatego, że uważali się za naród wybrany"
-**ZARZUT**: Żydowscy rzecznicy "starannie i energicznie demonstrowali, że nie obchodzą ich problemy i niebezpieczeństwa" innych narodów
-**FAKT**: Sprzeciwiał się syjonizmowi, widząc w nim "ekskluzywny i separatystyczny ruch"
+#### 9. Controversial Statements About Jews
+**ACCUSATION**: "If the Jews suffered, it was because they considered themselves the chosen people"
+**ACCUSATION**: Jewish advocates "carefully and energetically demonstrated that they don't care about the problems and dangers" of other nations
+**FACT**: Opposed Zionism, seeing it as an "exclusive and separatist movement"
 
-### 10. Zagłada Żydowskiej i Późny Żal
-**FAKT**: Wells "żałował swoich postaw wobec Żydów, gdy stał się bardziej świadomy rozmiarów nazistowskich okrucieństw"
-**FAKT**: Napisał list przepraszający do Chaima Weizmanna za wcześniejsze wypowiedzi
-**FAKT**: Później został "silnym zwolennikiem utworzenia państwa żydowskiego w odpowiedzi na Holokaust"
+### 10. Holocaust and Late Regret
+**FACT**: Wells "regretted his attitudes toward Jews when he became more aware of the scale of Nazi atrocities"
+**FACT**: Wrote an apologetic letter to Chaim Weizmann for his earlier statements
+**FACT**: Later became a "strong supporter of creating a Jewish state in response to the Holocaust"
 
-## LITERACKIE FEUDY I KONFLIKTY
+## LITERARY FEUDS AND CONFLICTS
 
-### 11. Wojna z Henrym Jamesem
-**FAKT**: W 1915 Wells opublikował "Boon", satyrycną powieść wyszydzającą styl pisarski Jamesa
-**FAKT**: Publicznie nazwał Jamesa "nadzwyczaj daremnym i pustym"
-**ZARZUT**: James był "bolesnym hipopotamem" według Wellsa
+### 11. War with Henry James
+**FACT**: In 1915 Wells published "Boon", a satirical novel mocking James' writing style
+**FACT**: Publicly called James "extraordinarily futile and empty"
+**ACCUSATION**: James was a "painful hippopotamus" according to Wells
 
-### 12. Zerwanie z Josephem Conradem
-**FAKT**: Wells i Conrad zerwali przyjaźń z 1898 roku z powodu fundamentalnych różnic w podejściu do literatury
-**KONFLIKT**: Wells uważał, że pisarze powinni pełnić funkcję dydaktyczną, a nie "oddawać się sztuce dla sztuki"
+### 12. Break with Joseph Conrad
+**FACT**: Wells and Conrad broke their friendship from 1898 due to fundamental differences in approach to literature
+**CONFLICT**: Wells believed writers should serve a didactic function, not "devote themselves to art for art's sake"
 
-### 13. Konflikt z Georga Bernardem Shaw
-**FAKT**: Wells zerwał relacje z Towarzystwem Fabian po polemicznej wymianie zdań
-**ZARZUT**: Nazwał Shaw "dzieckiem idiotą krzyczącym w szpitalu"
+### 13. Conflict with George Bernard Shaw
+**FACT**: Wells broke relations with the Fabian Society after a polemical exchange
+**ACCUSATION**: Called Shaw "an idiot child screaming in a hospital"
 
-### 14. Rozłam z Georgem Orwellem
-**FAKT**: Orwell był literackim bohaterem Wellsa, ale od 1937 stał się wysoce krytyczny wobec jego twórczości
-**KONFLIKT**: Ich spotkanie w Londynie podczas II wojny światowej stało się "nielrzeczowe i obraźliwe"
-**ZARZUT**: Wells opisał Orwella jako "angielskiego trockistę pisarza z ogromnymi stopami"
+### 14. Split with George Orwell
+**FACT**: Orwell was Wells' literary hero, but from 1937 became highly critical of his work
+**CONFLICT**: Their meeting in London during WWII became "disagreeable and offensive"
+**ACCUSATION**: Wells described Orwell as "an English Trotskyist writer with enormous feet"
 
-## CENZURA I PRZEŚLADOWANIA POLITYCZNE
+## CENSORSHIP AND POLITICAL PERSECUTION
 
-### 15. Nazistowskie Zakazy i Palenie Książek
-**FAKT**: Wells znalazł się na liście autorów zakazanych w nazistowskich Niemczech
-**FAKT**: "The Outline of History" została spalona podczas nazistowskiego palenia książek 10 maja 1933 roku
-**FAKT**: Do 1933 roku książki Wellsa były zakazane w bibliotekach i księgarniach w Niemczech
+### 15. Nazi Bans and Book Burning
+**FACT**: Wells was placed on the list of banned authors in Nazi Germany
+**FACT**: "The Outline of History" was burned during the Nazi book burning on May 10, 1933
+**FACT**: By 1933, Wells' books were banned in libraries and bookstores in Germany
 
-### 16. Przyczyny Nazistowskiej Represji
-**FAKT**: Wells krytykował sytuację polityczną w Niemczech
-**FAKT**: Był znany jako "bojownik o sprawiedliwość społeczną" zaangażowany w radykalne socjalistyczne Towarzystwo Fabian
-**FAKT**: W latach 20. dołączył do lewicowej Partii Pracy w Wielkiej Brytanii
+### 16. Reasons for Nazi Repression
+**FACT**: Wells criticized the political situation in Germany
+**FACT**: He was known as a "fighter for social justice" involved in the radical socialist Fabian Society
+**FACT**: In the 1920s he joined the left-wing Labour Party in Britain
 
-### 17. Działania Przeciwko Nazistom
-**FAKT**: Jako prezes PEN International nadzorował wykluczenie niemieckiego klubu PEN z organizacji międzynarodowej w 1934
-**FAKT**: Prowadził kampanię przeciwko paleniu książek przez nazistów
-**FAKT**: Na konferencji PEN odmówił ustąpienia nazistowskim sympatykom, którzy żądali, by uchodźca Ernst Toller nie mógł przemówić
+### 17. Actions Against Nazis
+**FACT**: As president of PEN International, he oversaw the exclusion of the German PEN club from the international organization in 1934
+**FACT**: Led a campaign against book burning by Nazis
+**FACT**: At the PEN conference refused to yield to Nazi sympathizers who demanded that refugee Ernst Toller not be allowed to speak
 
-### 18. Inne Przypadki Cenzury
-**PLOTKA**: "Wojna światów" została rzekomo zakazana w Chinach, Wietnamie i Ameryce Północnej z powodu "niewłaściwego języka" i "gwałtownych okoliczności"
+### 18. Other Cases of Censorship
+**RUMOR**: "The War of the Worlds" was allegedly banned in China, Vietnam, and North America for "inappropriate language" and "violent circumstances"
 
-## MROCZNE PROGNOZY I PRZEPOWIEDNIE
+## DARK PROPHECIES AND PREDICTIONS
 
-### Przepowiednie Sprawdzone
-#### 19. Technologia Wojskowa
-**FAKT**: Ponad dekadę przed użyciem czołgów na polach bitew Wells opisał podobne opancerzone pojazdy w "The Land of the Ironclads" (1903)
-**FAKT**: "The World Set Free" (1914) przewidział bombę atomową
+### Fulfilled Prophecies
+#### 19. Military Technology
+**FACT**: More than a decade before tanks were used on battlefields, Wells described similar armored vehicles in "The Land of the Ironclads" (1903)
+**FACT**: "The World Set Free" (1914) predicted the atomic bomb
 
-#### 20. Naloty na Miasta
-**FAKT**: Wells przewidział naloty bombowe na całe miasta w "The Shape of Things to Come"
-**FAKT**: Jego opisy nalotów dywanowych i strachu przed atakami gazowymi okazały się prorocze
+#### 20. City Bombing
+**FACT**: Wells predicted bombing raids on entire cities in "The Shape of Things to Come"
+**FACT**: His descriptions of carpet bombing and fear of gas attacks proved prophetic
 
-#### 21. Technologie Komunikacyjne
-**FAKT**: W "Men Like Gods" (1923) opisał technologie podobne do poczty głosowej i e-maila
-**FAKT**: Przewidział telefony komórkowe - małe urządzenia komunikacyjne, które nie muszą być podłączane
+#### 21. Communication Technologies
+**FACT**: In "Men Like Gods" (1923) described technologies similar to voicemail and email
+**FACT**: Predicted mobile phones - small communication devices that don't need to be plugged in
 
-### Przepowiednie Niespełnione
-#### 22. Rząd Światowy
-**FAKT**: Największym rozczarowaniem Wellsa był brak realizacji jego wyidealizowanej wizji politycznej - rządu światowego
-**FAKT**: Wells umarł w 1946 roku, zdając sobie sprawę, że ta wyobrażona przyszłość prawdopodobnie nigdy się nie ziści
+### Unfulfilled Prophecies
+#### 22. World Government
+**FACT**: Wells' greatest disappointment was the lack of realization of his idealized political vision - world government
+**FACT**: Wells died in 1946, realizing that this imagined future would probably never come to pass
 
-#### 23. Błędne Prognozy Militarne
-**FAKT**: Wells błędnie myślał, że walka lądowa szybko się zatrzyma jak w I wojnie światowej
-**FAKT**: Sądził, że czołgi okażą się całkowicie nieskuteczne
+#### 23. Wrong Military Predictions
+**FACT**: Wells wrongly thought that land warfare would quickly stop as in WWI
+**FACT**: He thought tanks would prove completely ineffective
 
-## FINANCIAL SCANDALS I MONEY DRAMA
+## FINANCIAL SCANDALS AND MONEY DRAMA
 
-### 24. Afera Plagiatowa Florence Deeks
-**ZARZUT**: W 1927 roku kanadyjska nauczycielka Florence Deeks pozwała Wellsa o naruszenie praw autorskich
-**ZARZUT**: Twierdziła, że "The Outline of History" został splagiatowany z jej niepublikowanego manuskryptu "The Web of the World's Romance"
-**FAKT**: Manuskrypt spędził dziewięć miesięcy u kanadyjskiego wydawcy Wellsa, Macmillan Canada
+### 24. Florence Deeks Plagiarism Affair
+**ACCUSATION**: In 1927, Canadian teacher Florence Deeks sued Wells for copyright infringement
+**ACCUSATION**: She claimed "The Outline of History" was plagiarized from her unpublished manuscript "The Web of the World's Romance"
+**FACT**: The manuscript spent nine months at Wells' Canadian publisher, Macmillan Canada
 
-#### 25. Kontrowersje Wokół Procesu
-**FAKT**: Sąd nie znalazł dowodów kopiowania i uznał, że podobieństwa wynikały z podobnej natury książek
-**ZARZUT**: Historyk A.B. McKillop z Uniwersytetu Carleton twierdzi, że "Deeks prawdopodobnie miała rację, Wells prawdopodobnie ukradł jej materiał"
-**ZARZUT**: "Przytłaczająca ilość dowodów tekstowych" sugeruje plagiat
-**FAKT**: Sprawa trafiła do najwyższej instancji odwoławczej Imperium Brytyjskiego, która odrzuciła apelację
+#### 25. Controversies Around the Trial
+**FACT**: The court found no evidence of copying and ruled that similarities resulted from the similar nature of the books
+**ACCUSATION**: Historian A.B. McKillop from Carleton University claims that "Deeks was probably right, Wells probably stole her material"
+**ACCUSATION**: "The overwhelming amount of textual evidence" suggests plagiarism
+**FACT**: The case went to the highest appellate court of the British Empire, which rejected the appeal
 
-### 26. Fabian Society i "Wolna Miłość"
-**SKANDAL**: Wells zachęcał Towarzystwo Fabian do przyjęcia rezolucji odrzucającej monogamiczną rodzinę jako formę własności prywatnej
-**ZARZUT**: Konserwatyści i inni socjaliści atakowali go jako rzecznika "wolnej miłości" i anarchii seksualnej
-**FAKT**: Nie udało mu się przejąć kontroli nad Towarzystwem Fabian, częściowo z powodu reputacji związanej z romansami pozamałżeńskimi
+### 26. Fabian Society and "Free Love"
+**SCANDAL**: Wells encouraged the Fabian Society to adopt a resolution rejecting the monogamous family as a form of private property
+**ACCUSATION**: Conservatives and other socialists attacked him as an advocate of "free love" and sexual anarchy
+**FACT**: He failed to take control of the Fabian Society, partly due to his reputation related to extramarital affairs
 
-## OCCULT SYMBOLISM I UKRYTE ZNACZENIA
+## OCCULT SYMBOLISM AND HIDDEN MEANINGS
 
-### 27. Korzenie w Mitologii Okultystycznej
-**FAKT**: Wells zmodernizował temat okultystyczny o korzeniach w starożytnych mitach i folklorze
-**FAKT**: Nawiązania obejmują opowieść Platona o pierścieniu Gygesa oraz czapki i płaszcze niewidzialności z celtyckich baśni i średniowiecznych romansów
+### 27. Roots in Occult Mythology
+**FACT**: Wells modernized an occult theme rooted in ancient myths and folklore
+**FACT**: References include Plato's tale of Gyges' ring and caps and cloaks of invisibility from Celtic fairy tales and medieval romances
 
-### 28. Współczesne Interpretacje Okultystyczne
-**FAKT**: Ilustrator Florian Bertmer, który stworzył grafikę do współczesnego wydania, "ma talent do makabrycznego i dogłębną znajomość okultyzmu"
+### 28. Contemporary Occult Interpretations
+**FACT**: Illustrator Florian Bertmer, who created graphics for a contemporary edition, "has a talent for the macabre and deep knowledge of the occult"
 
-### 29. Brak Związków z Masonerią
-**PLOTKA**: Chociaż Wells pojawia się na stronie biograficznej o "Słynnych Masonach", brak jest dowodów na jego członkostwo w loży masońskiej
+### 29. Lack of Masonic Connections
+**RUMOR**: Although Wells appears on a biographical page about "Famous Masons", there is no evidence of his membership in a Masonic lodge
 
-## WPŁYW NA KULTURĘ I SPOŁECZEŃSTWO
+## CULTURAL AND SOCIAL IMPACT
 
-### 30. Inspiracja dla Przyszłych Dzieł
-**FAKT**: Wells przewidział i zainspirował wynalazki od lasera po e-mail
-**FAKT**: Jest uznawany nie tylko za ojca science fiction, ale też być może za ojca futurologii
+### 30. Inspiration for Future Works
+**FACT**: Wells predicted and inspired inventions from lasers to email
+**FACT**: He is recognized not only as the father of science fiction, but perhaps also as the father of futurology
 
-### 31. Wpływ na Myślenie o Przyszłości
-**FAKT**: Wells jako pierwszy użył słowa "foresight" do opisania i wezwania do stworzenia dyscypliny studiów nad przyszłością
-**FAKT**: W 1932 roku w BBC Radio mówił o potrzebie badania "przyszłych konsekwencji nowych wynalazków i nowych urządzeń"
+### 31. Impact on Future Thinking
+**FACT**: Wells was the first to use the word "foresight" to describe and call for the creation of a discipline of future studies
+**FACT**: In 1932 on BBC Radio he spoke about the need to study "future consequences of new inventions and new devices"
 
-## PROBLEMATYCZNE ZACHOWANIA I POSTAWY
+## PROBLEMATIC BEHAVIORS AND ATTITUDES
 
-### 32. Poglądy Eugeniczne
-**ZARZUT**: Wells był "rasistą, który również kochał eugenikę"
-**FAKT**: Jego wizja utopijnego państwa światowego zakładała asymilację i eliminację oddzielnych kultur
+### 32. Eugenic Views
+**ACCUSATION**: Wells was "a racist who also loved eugenics"
+**FACT**: His vision of a utopian world state assumed the assimilation and elimination of separate cultures
 
-### 33. Stosunek do Kobiet
-**ZARZUT**: Był "niezwykłym rozpustnikiem, który miał długie romanse (i dzieci) z innymi kobietami, wciąż będąc żonaty"
-**ZARZUT**: "Odnosi się wrażenie, że wszystko to służyło jego emocjonalnemu zaspokojeniu bez większego względu na którekolwiek z kobiet"
+### 33. Attitude Toward Women
+**ACCUSATION**: He was "an extraordinary libertine who had long affairs (and children) with other women while still married"
+**ACCUSATION**: "One gets the impression that all this served his emotional satisfaction without much regard for any of the women"
 
-### 34. Stosunek do Islamu
-**KONTROWERSJA**: Przewidywał "rozpad Islamu" w swoich prognozach przyszłości, co nie ziściło się
+### 34. Attitude Toward Islam
+**CONTROVERSY**: Predicted the "collapse of Islam" in his future projections, which did not come true
 
-## WSPÓŁCZESNE INTERPRETACJE I ADAPTACJE
+## CONTEMPORARY INTERPRETATIONS AND ADAPTATIONS
 
-### 35. Film z 2020 Roku - Przemoc Domowa
-**FAKT**: Wersja filmowa z 2020 roku wykorzystuje koncepcję niewidzialnego człowieka do reprezentowania przemocy domowej
-**FAKT**: Film przedstawia "traumę pozostawioną po związkach przemocowych"
+### 35. 2020 Film - Domestic Violence
+**FACT**: The 2020 film version uses the concept of the invisible man to represent domestic violence
+**FACT**: The film depicts "trauma left by abusive relationships"
 
-### 36. Ostrzeżenie o Korupcji i Nadużyciach
-**FAKT**: Współcześni krytycy interpretują książkę jako "ponadczasowe ostrzeżenie o korupcji i nadużyciach"
-**FAKT**: Przesłanie o tym, że "władza absolutna korumpuje" pozostaje aktualne
+### 36. Warning About Corruption and Abuse
+**FACT**: Contemporary critics interpret the book as a "timeless warning about corruption and abuse"
+**FACT**: The message that "absolute power corrupts" remains relevant
 
-## NIEDOKOŃCZONE SPORY I TEORIE
+## UNFINISHED DISPUTES AND THEORIES
 
-### 37. Wpływ na Rozwój Gatunku Horror
-**TEORIA**: "Niewidzialny człowiek" ustalił wzorzec dla współczesnego horroru science fiction, łącząc naukę z psychologicznym terrorem
+### 37. Impact on Horror Genre Development
+**THEORY**: "The Invisible Man" established a pattern for contemporary science fiction horror, combining science with psychological terror
 
-### 38. Społeczne Komentarze na Temat Alienacji
-**TEORIA**: Niewidzialność Griffina reprezentuje alienację społeczną i izolację jednostki w nowoczesnym świecie
+### 38. Social Commentary on Alienation
+**THEORY**: Griffin's invisibility represents social alienation and individual isolation in the modern world
 
-### 39. Krytyka Indywidualizmu
-**TEORIA**: Wells krytykował skrajny indywidualizm zachodni, pokazując jak prowadzi do destrukcji społecznej
+### 39. Critique of Individualism
+**THEORY**: Wells criticized extreme Western individualism, showing how it leads to social destruction
 
-### 40. Wpływ na Teorie Spisku o Władzy
-**TEORIA**: Motyw niewidzialnego kontrolera wpłynął na późniejsze teorie spisku o ukrytych elitach sprawujących władzę
+### 40. Impact on Power Conspiracy Theories
+**THEORY**: The motif of the invisible controller influenced later conspiracy theories about hidden elites wielding power
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Niewidzialny człowiek" H.G. Wellsa i sam autor reprezentują fascynujący przypadek wielowarstwowego dzieła i kontrowersyjnej osobowości. Książka funkcjonuje jako alegoria władzy, ostrzeżenie przed naukową pychą i studium psychologicznego rozkładu, podczas gdy Wells sam był postacią pełną sprzeczności - wizjonerem i antysemitą, rzecznikiem sprawiedliwości społecznej i niewiernym mężem, futurystą i bigotą.
+"The Invisible Man" by H.G. Wells and the author himself represent a fascinating case of a multi-layered work and controversial personality. The book functions as an allegory of power, a warning against scientific hubris, and a study of psychological breakdown, while Wells himself was a figure full of contradictions - a visionary and anti-Semite, advocate of social justice and unfaithful husband, futurist and bigot.
 
-**Uwaga badawcza**: Wszystkie przedstawione informacje zostały oznaczone jako FAKT (potwierdzone źródłami), ZARZUT (oskarżenia wymagające weryfikacji) lub TEORIA/PLOTKA (spekulacje i niepotwierdzone teorie). Materiał ten służy celom edukacyjnym i nie promuje żadnych destrukcyjnych zachowań ani teorii spiskowych.
+**Research Note**: All presented information has been marked as FACT (confirmed by sources), ACCUSATION (allegations requiring verification), or THEORY/RUMOR (speculation and unconfirmed theories). This material serves educational purposes and does not promote any destructive behaviors or conspiracy theories.

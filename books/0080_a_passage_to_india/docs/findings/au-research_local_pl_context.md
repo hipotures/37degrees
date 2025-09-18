@@ -1,178 +1,178 @@
-# Lokalny kontekst kulturowy: "Podróż do Indii" E.M. Forstera
+# Local Cultural Context: "A Passage to India" by E.M. Forster
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydania
-- **1938** - Pierwsze polskie wydanie
-  - Tytuł: "W słońcu Indyj"
-  - Tłumacz: Helena Mysłakowska
-  - Wydawnictwo: Towarzystwo Wydawnicze "Rój"
+### First Editions
+- **1938** - First Polish edition
+  - Title: "W słońcu Indyj" (In the Sun of India)
+  - Translator: Helena Mysłakowska
+  - Publisher: Towarzystwo Wydawnicze "Rój"
 
-- **1979** - Wydanie powojenne
-  - Tytuł: "Droga do Indii" 
-  - Tłumacze: Krystyna Tarnowska i Andrzej Konarek
-  - Wydawnictwo: Czytelnik
+- **1979** - Post-war edition
+  - Title: "Droga do Indii" (Road to India)
+  - Translators: Krystyna Tarnowska and Andrzej Konarek
+  - Publisher: Czytelnik
 
-### Współczesne wydania
-- Dostępne w wydawnictwach: Empik, TaniaKsiazka.pl, Woblink
-- Format e-book i audiobook dostępne na rynku polskim
-- Regularne wznowienia wskazują na stałe zainteresowanie czytelników
+### Contemporary Editions
+- Available from publishers: Empik, TaniaKsiazka.pl, Woblink
+- E-book and audiobook formats available on Polish market
+- Regular reprints indicate sustained reader interest
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Helena Mysłakowska (1938)
-- Pierwsza tłumaczka dzieła Forstera
-- Zmieniła tytuł na "W słońcu Indyj" - bardziej egzotyczny dla polskich czytelników
-- Tłumaczenie powstało w okresie międzywojnia, kiedy kolonializm był aktualnym tematem
+- First translator of Forster's work
+- Changed title to "W słońcu Indyj" - more exotic for Polish readers
+- Translation created during interwar period when colonialism was a current topic
 
-### Krystyna Tarnowska i Andrzej Konarek (1979)
-- Duet tłumaczy pracujących w okresie PRL
-- Zdecydowali się na tytuł "Droga do Indii" - bardziej dosłowny
-- Tłumaczenie powstawało w kontekście ruchu państw niezaangażowanych
+### Krystyna Tarnowska and Andrzej Konarek (1979)
+- Translation duo working during communist era
+- Chose title "Droga do Indii" - more literal translation
+- Translation created in context of Non-Aligned Movement
 
-## Kontekst akademicki w Polsce
+## Academic Context in Poland
 
-### Uniwersytet Warszawski
-- E.M. Forster studiowany w ramach literatury anglojęzycznej
-- Analiza krytyki kolonializmu wiktoriańskiego jako kluczowego zjawiska literackiego epoki
-- Porównania z Josephem Conradem i Rudyard Kiplingiem
-- Badania nad grupą Bloomsbury i modernizmem brytyjskim
+### University of Warsaw
+- E.M. Forster studied within English-language literature programs
+- Analysis of Victorian colonialism critique as key literary phenomenon of the era
+- Comparisons with Joseph Conrad and Rudyard Kipling
+- Research on Bloomsbury Group and British modernism
 
-### Badania etnograficzne
-- **Projekt "Droga do Indii 2012"** (2012-2014)
-- Realizowany przez Uniwersytet Warszawski i UAM w Poznaniu
-- Badanie praktyk turystycznych i spotkań międzykulturowych
-- Pytanie: czy turystyka to nowa forma kolonializmu?
-- Kierownictwo: Anna Wieczorkiewicz
+### Ethnographic Research
+- **"Road to India 2012" Project** (2012-2014)
+- Conducted by University of Warsaw and UAM in Poznań
+- Study of tourist practices and intercultural encounters
+- Question: Is tourism a new form of colonialism?
+- Leadership: Anna Wieczorkiewicz
 
-### Kraków i Małopolska
-- Uniwersytet Jagielloński - najstarszy instytut anglistyki w Polsce
-- Uniwersytet Pedagogiczny w Krakowie - wykłady otwarte z literatury
-- Dostępne studia indologiczne (filologia orientalna)
-- Konferencje naukowe poświęcone literaturze angielskiej
+### Krakow and Lesser Poland
+- Jagiellonian University - oldest English studies institute in Poland
+- Pedagogical University of Krakow - open lectures on literature
+- Available Indian studies (Oriental philology)
+- Academic conferences dedicated to English literature
 
-## Adaptacje kulturowe
+## Cultural Adaptations
 
-### Film Davida Leana (1984)
-- Polski tytuł: "Podróż do Indii"
-- Dostępny w TVP i na platformach VOD
-- Mieszane recenzje polskich krytyków
-- Jeden z recenzentów: "Najnieudańszy film Leana, jaki widziałem"
-- Inni docenili symbolikę i analizę konfliktu kulturowego
-- Peggy Ashcroft uhonorowana Oscarem za rolę Mrs. Moore
+### David Lean's Film (1984)
+- Polish title: "Podróż do Indii"
+- Available on TVP and VOD platforms
+- Mixed reviews from Polish critics
+- One reviewer: "The most unsuccessful Lean film I've seen"
+- Others appreciated symbolism and analysis of cultural conflict
+- Peggy Ashcroft honored with Oscar for Mrs. Moore role
 
-### Adaptacje teatralne
-- Brak znanych polskich adaptacji scenicznych
-- Potencjał dla teatrów dramatycznych ze względu na psychologiczną głębię
-- Tematyka kolonialna mogłaby rezonować z polskim doświadczeniem zaborów
+### Theater Adaptations
+- No known Polish stage adaptations
+- Potential for dramatic theaters due to psychological depth
+- Colonial themes could resonate with Polish experience of partitions
 
-## Recepcja czytelnicza w Polsce
+## Reader Reception in Poland
 
-### Platforma Lubimyczytac.pl
-- Aktywne dyskusje czytelników
-- Oceny od mieszanych do bardzo pozytywnych
-- Jeden z recenzentów: "Daję powieści 9 gwiazdek, nawet jeśli zawiera pewne wady"
-- Książka w wyzwaniu czytelniczym na lipiec 2025
+### Lubimyczytac.pl Platform
+- Active reader discussions
+- Ratings from mixed to very positive
+- One reviewer: "I give the novel 9 stars, even if it contains certain flaws"
+- Book featured in July 2025 reading challenge
 
-### Krytyczne głosy czytelników
-- "Rozczarowanie - spodziewałem się opisów fascynującej podróży do Indii"
-- "Powieść składa się głównie z obsesyjnych rozważań miejscowych muzułmanów"
-- "Mało tutaj o miejscowych zwyczajach"
+### Critical Reader Voices
+- "Disappointment - I expected descriptions of fascinating journey to India"
+- "Novel consists mainly of obsessive reflections of local Muslims"
+- "Little here about local customs"
 
-### Pozytywne opinie
-- "Piękny przykład prozy zaangażowanej"
-- "Ujawnia postawy przedstawicieli różnych warstw społecznych"
-- "Kolorowe przedstawienie emocji, uprzedzeń i lęków bohaterów"
+### Positive Opinions
+- "Beautiful example of engaged prose"
+- "Reveals attitudes of representatives from different social strata"
+- "Colorful presentation of emotions, prejudices and fears of characters"
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Wyzwania tłumaczeniowe
-- Specyfika języka kolonialnego i terminologia brytyjsko-indyjska
-- Różnice w rozumieniu relacji rasowych w kontekście polskim
-- Brak polskiego doświadczenia kolonialnego jako tło dla czytelników
+### Translation Challenges
+- Specificity of colonial language and British-Indian terminology
+- Differences in understanding racial relations in Polish context
+- Lack of Polish colonial experience as background for readers
 
-### Różnice w interpretacji
-- Polscy czytelnicy postrzegają kolonializm przez pryzmat własnych doświadczeń zaborów
-- Sympatia dla uciskanych może być silniejsza ze względu na historię Polski
-- Krytyka brytyjskiego imperializmu rezonuje z polską tradycją niepodległościową
+### Differences in Interpretation
+- Polish readers perceive colonialism through lens of their own partition experiences
+- Sympathy for the oppressed may be stronger due to Poland's history
+- Criticism of British imperialism resonates with Polish independence tradition
 
-## Kontekst edukacyjny
+## Educational Context
 
-### Status lektury szkolnej
-- E.M. Forster nie jest oficjalnie na liście lektur szkolnych w Polsce
-- Może być omawiany w ramach rozszerzonej anglistyki
-- Potencjał do dyskusji o kolonializmie, rasizmie i kulturze brytyjskiej
+### School Reading Status
+- E.M. Forster not officially on school reading lists in Poland
+- May be discussed within advanced English studies
+- Potential for discussions about colonialism, racism and British culture
 
-### Wykorzystanie akademickie
-- Material do analiz postkolonialnych
-- Przykład modernizmu brytyjskiego
-- Studium psychologii postaci i konfliktu kulturowego
+### Academic Use
+- Material for postcolonial analysis
+- Example of British modernism
+- Study of character psychology and cultural conflict
 
-## Nawiązania w polskiej kulturze
+## References in Polish Culture
 
-### Literatura
-- Porównania z polskimi pisarzami opisującymi "obce" kultury
-- Paralele z literaturą o Kresach Wschodnich
-- Podobieństwa do prozy Józefa Conrada (pochodzenia polskiego)
+### Literature
+- Comparisons with Polish writers describing "foreign" cultures
+- Parallels with literature about Eastern Borderlands
+- Similarities to prose of Joseph Conrad (of Polish origin)
 
-### Współczesne referencje
-- Blog "Przestrzenie tekstu" analizuje aktualność problematyki
-- Dyskusje o neo-kolonializmie w kontekście globalizacji
-- Paralele z współczesnym turystyką masową
+### Contemporary References
+- "Text Spaces" blog analyzes relevance of themes
+- Discussions about neo-colonialism in globalization context
+- Parallels with contemporary mass tourism
 
-## Specyfika małopolska
+## Lesser Poland Specifics
 
-### Uniwersytet Jagielloński
-- Tradycje orientalistyczne i indologiczne
-- Możliwość interdyscyplinarnych badań Forster-Indie
-- Konferencje międzynarodowe poświęcone literaturze angielskiej
+### Jagiellonian University
+- Oriental and Indian studies traditions
+- Possibility for interdisciplinary Forster-India research
+- International conferences dedicated to English literature
 
-### Kraków jako centrum kulturalne
-- Festiwale filmowe prezentujące klasykę brytyjską
-- Kluby książki omawiające literaturę światową
-- Teatry eksperymentalne otwarte na adaptacje klasyki
+### Krakow as Cultural Center
+- Film festivals presenting British classics
+- Book clubs discussing world literature
+- Experimental theaters open to classic adaptations
 
-## Współczesne interpretacje
+## Contemporary Interpretations
 
-### Perspektywa postkolonialna
-- Analiza mechanizmów dominacji kulturowej
-- Krytyka orientalizmu w ujęciu Edwarda Saida
-- Porównania z polskim doświadczeniem bycia "przedmiotem" opisu Zachodu
+### Postcolonial Perspective
+- Analysis of cultural domination mechanisms
+- Critique of orientalism in Edward Said's approach
+- Comparisons with Polish experience of being "object" of Western description
 
-### Aktualne pytania
-- Czy turystyka to nowa forma kolonializmu?
-- Jak rozumieć międzykulturowość w globalizującym się świecie?
-- Jakie mechanizmy wykluczenia działają współcześnie?
+### Current Questions
+- Is tourism a new form of colonialism?
+- How to understand multiculturalism in globalizing world?
+- What exclusion mechanisms operate today?
 
-## Polscy badacze i krytycy
+## Polish Researchers and Critics
 
-### Znani angliści
-- Instytut Filologii Angielskiej UJ - najstarszy w Polsce
-- Badacze specjalizujący się w modernizmie brytyjskim
-- Eksperci od literatury postkolonialnej
+### Notable Anglicists
+- Institute of English Philology UJ - oldest in Poland
+- Researchers specializing in British modernism
+- Experts in postcolonial literature
 
-### Publikacje naukowe
-- Artykuły w czasopismach angloznawczych
-- Rozprawy doktorskie o Forsterze i grupie Bloomsbury
-- Analiz porównawcze z literaturą polską
+### Academic Publications
+- Articles in English studies journals
+- Doctoral dissertations on Forster and Bloomsbury Group
+- Comparative analyses with Polish literature
 
-## Znaczenie dla polskich czytelników
+## Significance for Polish Readers
 
-### Wartości uniwersalne
-- Konflikty międzykulturowe zrozumiałe dla Polaków
-- Doświadczenie bycia między Wschodem a Zachodem
-- Problemy tożsamości w wielokulturowym świecie
+### Universal Values
+- Intercultural conflicts understandable to Poles
+- Experience of being between East and West
+- Identity problems in multicultural world
 
-### Lekcje historyczne
-- Mechanizmy kolonializmu i imperializmu
-- Psychologia dominacji i podporządkowania
-- Możliwość prawdziwej przyjaźni ponad podziałami
+### Historical Lessons
+- Mechanisms of colonialism and imperialism
+- Psychology of domination and subordination
+- Possibility of true friendship across divisions
 
-### Współczesna aktualność
-- Problemy imigracji i integracji
-- Pytania o dialog międzykulturowy
-- Wyzwania globalizacji i różnic cywilizacyjnych
+### Contemporary Relevance
+- Immigration and integration problems
+- Questions about intercultural dialogue
+- Challenges of globalization and civilizational differences
 
 ---
 
-*Badanie przeprowadzone w oparciu o źródła internetowe, bazy danych książek polskich oraz platformy czytelnicze. Pokazuje, jak "Podróż do Indii" E.M. Forstera jest odbierana, tłumaczona i interpretowana w polskim kontekście kulturowym, ze szczególnym uwzględnieniem perspektywy czytelników z Krakowa i Małopolski.*
+*Research conducted based on internet sources, Polish book databases and reading platforms. Shows how "A Passage to India" by E.M. Forster is received, translated and interpreted in Polish cultural context, with particular attention to perspective of readers from Krakow and Lesser Poland.*

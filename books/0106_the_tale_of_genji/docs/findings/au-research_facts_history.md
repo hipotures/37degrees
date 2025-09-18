@@ -1,147 +1,147 @@
-# Fakty Historyczne i Anegdoty: "Opowieść o księciu Genjim"
+# Historical Facts and Anecdotes: "The Tale of Genji"
 
-*Badania historii powstania pierwszej powieści świata autorstwa Murasaki Shikibu*
+*Research on the creation history of the world's first novel by Murasaki Shikibu*
 
-## Okoliczności Powstania Książki
+## Circumstances of Book Creation
 
-### **FAKT**: Tragedia osobista jako katalizator twórczy
-Murasaki Shikibu rozpoczęła pisanie "Opowieści o księciu Genjim" w 1001 roku, zaraz po śmierci męża Fujiwara no Nobutaki. Małżeństwo trwało zaledwie 2 lata (1999-1001), ale było szczęśliwe. Śmierć męża pozostawiła ją samotną matką z córeczką Daini no Sanmi.
+### **FACT**: Personal tragedy as creative catalyst
+Murasaki Shikibu began writing "The Tale of Genji" in 1001 CE, right after the death of her husband Fujiwara no Nobutaki. Their marriage lasted only 2 years (999-1001), but was happy. Her husband's death left her a single mother with daughter Daini no Sanmi.
 
-### **FAKT**: Pisanie jako forma terapii żałoby
-Krytycy uważają, że cała powieść została napisana między 1001 (rok śmierci męża) a 1005 (rok wezwania na dwór), choć bardziej prawdopodobne jest, że praca nad tym monumentalnym dziełem trwała znacznie dłużej, aż do około 1010 roku.
+### **FACT**: Writing as a form of grief therapy
+Critics believe the entire novel was written between 1001 (year of husband's death) and 1005 (year of court summons), though it's more likely that work on this monumental piece lasted much longer, until around 1010 CE.
 
-### **FAKT**: Miejsce inspiracji - świątynia Ishiyama
-Według legendy, Murasaki otrzymała natchnienie do napisania "Opowieści o księciu Genjim" podczas pobytu w świątyni Ishiyama, patrząc na księżyc nocą. To jedna z najbardziej znanych anegdot związanych z genezą powieści.
+### **FACT**: Place of inspiration - Ishiyama Temple
+According to legend, Murasaki received inspiration to write "The Tale of Genji" during her stay at Ishiyama Temple, looking at the moon at night. This is one of the most famous anecdotes related to the novel's genesis.
 
-## Proces Twórczy i Warunki Pisania
+## Creative Process and Writing Conditions
 
-### **FAKT**: Pierwszy serial literacki w historii
-Murasaki dystrybuowała rozdziały swojej powieści stopniowo na dworze. Jej dziennik potwierdza, że pisała podczas służby na dworze, a rozdziały krążyły w formie serialu - najwcześniejszy przykład takiej formy publikacji w historii literatury.
+### **FACT**: First literary serial in history
+Murasaki distributed chapters of her novel gradually at court. Her diary confirms she wrote during her service at court, and chapters circulated in serial form - the earliest example of such publication form in literature history.
 
-### **FAKT**: Ręczne kopiowanie jako marketing
-Murasaki przekazywała ręcznie przepisane kopie swoich rozdziałów przyjaciołom, którzy z kolei kopiowali je i przekazywali dalej. Ten system dystrybucji sprawił, że sława o "zabawnej fikcji" dotarła aż do cesarza.
+### **FACT**: Manual copying as marketing
+Murasaki passed hand-copied versions of her chapters to friends, who in turn copied them and passed them on. This distribution system made the fame of her "amusing fiction" reach even the emperor.
 
-### **FAKT**: Zaproszenie na dwór przez literaturę
-Prawdopodobnie właśnie dzięki rozgłosowi wokół jej pisarstwa, Murasaki została zaproszona około 1005 roku do służby u cesarzowej Shōshi przez potężnego Fujiwara no Michinagę - jeden z najwcześniejszych przypadków "pozyskania talentu" przez mecenasa.
+### **FACT**: Court invitation through literature
+Probably thanks to the buzz around her writing, Murasaki was invited around 1005 CE to serve Empress Shōshi by the powerful Fujiwara no Michinaga - one of the earliest cases of "talent acquisition" by a patron.
 
-## Rewolucja Językowa i Społeczna
+## Linguistic and Social Revolution
 
-### **FAKT**: Pierwszy kobiecy głos w literaturze światowej
-"Opowieść o księciu Genjim" została napisana głównie w hiraganie, japońskim systemie fonetycznym kojarzonym z kobiecym pisarstwem. Mężczyźni używali wtedy niezgrabnej, uczonej formy chińskiego, więc kobiety rozwinęły bardziej naturalny japoński styl.
+### **FACT**: First female voice in world literature
+"The Tale of Genji" was written mainly in hiragana, a Japanese phonetic system associated with women's writing. Men then used clumsy, scholarly forms of Chinese, so women developed a more natural Japanese style.
 
-### **FAKT**: Literatura "drugiej kategorii" która stała się klasykiem
-Ponieważ chiński był językiem naukowym dworu, dzieła pisane po japońsku nie były traktowane poważnie. Cesarz Ichijō kazał sobie jednak czytać powieść na głos - rzadki przypadek, gdyż była napisana po japońsku.
+### **FACT**: "Second-category" literature that became a classic
+Because Chinese was the scholarly language of the court, works written in Japanese weren't taken seriously. However, Emperor Ichijō had the novel read aloud to him - a rare case, since it was written in Japanese.
 
-### **FAKT**: 795 wierszy tanka w tekście
-Powieść zawiera 795 wierszy tanka, z niemal każdej strony emanuje poezja. Wymiana improwizowanych wierszy była codzienną praktyką arystokratów, więc poezja została wpleciona w zapisy życia ludzi.
+### **FACT**: 795 tanka poems in the text
+The novel contains 795 tanka poems, with poetry emanating from almost every page. Exchanging improvised verses was daily practice for aristocrats, so poetry was woven into records of people's lives.
 
-## Tajemnice Tożsamości Autorki
+## Mysteries of the Author's Identity
 
-### **FAKT**: Prawdziwe imię pozostaje zagadką
-Prawdziwe imię Murasaki Shikibu pozostaje nieznane. "Murasaki" (fioletowy/fiołkowy) prawdopodobnie wywodzi się od koloru kwiatu wisterii (fuji), pierwszy znak nazwiska Fujiwara, lub od imienia jednej z bohaterek jej powieści.
+### **FACT**: Real name remains a mystery
+Murasaki Shikibu's real name remains unknown. "Murasaki" (purple/violet) probably derives from the color of wisteria flowers (fuji), the first character of the Fujiwara surname, or from the name of one of her novel's heroines.
 
-### **FAKT**: "Shikibu" to tytuł służbowy ojca
-"Shikibu" to tytuł urzędu jej ojca w Biurze Rytuałów. Ponieważ nazwiska były rzadkie, kobiety często były znane z imion pochodzących od stanowisk braci lub ojców.
+### **FACT**: "Shikibu" is her father's official title
+"Shikibu" is the title of her father's office in the Bureau of Rituals. Since surnames were rare, women were often known by names derived from their brothers' or fathers' positions.
 
-### **FAKT**: Wykształcenie w "męskim" języku chińskim
-Murasaki nauczyła się chińskiego, co było wyłączną domeną mężczyzn. Jej umiejętności w chińskim sprawiły, że ojciec westchnął: "Gdybyś tylko była chłopcem, jakże byłbym dumny i szczęśliwy".
+### **FACT**: Education in "male" Chinese language
+Murasaki learned Chinese, which was exclusively a male domain. Her skills in Chinese made her father sigh: "If only you were a boy, how proud and happy I would be."
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-### **FAKT**: 54 rozdziały, 750,000 słów
-Powieść składa się z 54 rozdziałów i około 750,000 słów, co czyni ją jednym z najdłuższych dzieł prozaicznych swojej epoki.
+### **FACT**: 54 chapters, 750,000 words
+The novel consists of 54 chapters and approximately 750,000 words, making it one of the longest prose works of its era.
 
-### **FAKT**: 400 postaci w narracji
-Dzieło przedstawia około 400 postaci, tworząc niezwykle złożony obraz społeczeństwa dworskiego epoki Heian.
+### **FACT**: 400 characters in the narrative
+The work presents about 400 characters, creating an extraordinarily complex picture of Heian court society.
 
-### **FAKT**: Ponad 1000 razy pojawia się "mono no aware"
-Główny motyw "smutku egzystencji ludzkiej" (mono no aware) pojawia się w tekście ponad tysiąc razy, czyniąc z niego główny motyw filozoficzny powieści.
+### **FACT**: "Mono no aware" appears over 1000 times
+The main motif of "sadness of human existence" (mono no aware) appears in the text over a thousand times, making it the novel's main philosophical theme.
 
-## Pierwsze Reakcje i Publikacja
+## First Reactions and Publication
 
-### **FAKT**: Natychmiastowa popularność na dworze
-Powieść zyskała natychmiastową popularność - cesarz Ichijō kazał sobie ją czytać, pomimo że była napisana po japońsku, co było nietypowe dla męskich dworzan.
+### **FACT**: Immediate popularity at court
+The novel gained immediate popularity - Emperor Ichijō had it read to him, despite it being written in Japanese, which was unusual for male courtiers.
 
-### **FAKT**: Pierwszy kompletny egzemplarz w 1021 roku
-Powszechnie przyjmuje się, że dzieło zostało ukończone w obecnej formie do 1021 roku, kiedy autorka "Dziennika Sarashina" napisała o swojej radości z nabycia kompletnej kopii opowieści.
+### **FACT**: First complete copy in 1021 CE
+It's generally accepted that the work was completed in its present form by 1021 CE, when the author of "The Sarashina Diary" wrote about her joy at acquiring a complete copy of the tale.
 
-### **FAKT**: Pierwsze wydanie drukowane w latach 1596-1615
-Pierwsza wersja drukowana pojawiła się w 54 tomach podczas ery Keichō (1596-1615) i jest jedną z najwcześniejszych książek używających czcionek hiragana.
+### **FACT**: First printed edition in 1596-1615
+The first printed version appeared in 54 volumes during the Keichō era (1596-1615) and is one of the earliest books using hiragana typefaces.
 
-## Przetrwanie i Zachowanie Dzieła
+## Survival and Preservation of the Work
 
-### **FAKT**: Oryginalny rękopis zaginął, 300 kopii ocalało
-Oryginalny rękopis napisany przez Murasaki Shikibu nie istnieje już, ale zachowało się około 300 późniejszych kopii rękopisów z różnicami między każdą z nich.
+### **FACT**: Original manuscript lost, 300 copies survived
+The original manuscript written by Murasaki Shikibu no longer exists, but about 300 later manuscript copies survived with differences between each one.
 
-### **FAKT**: Autorka edytowała wcześniejsze manuskrypty
-Murasaki często wracała i edytowała wcześniejsze manuskrypty, wprowadzając rozbieżności w stosunku do wcześniejszych kopii.
+### **FACT**: Author edited earlier manuscripts
+Murasaki often returned and edited earlier manuscripts, introducing discrepancies compared to earlier copies.
 
-### **FAKT**: Najwcześniejszy fragment z XII wieku
-Najwcześniejsze istniejące fragmenty kompletnego manuskryptu pojawiają się w zwoju z początku XII wieku, "Ilustrowanym zwoju Genji", przepisanym 150 lat po śmierci autorki.
+### **FACT**: Earliest fragment from 12th century
+The earliest existing fragments of the complete manuscript appear in a scroll from the early 12th century, the "Illustrated Genji Scroll," transcribed 150 years after the author's death.
 
-## Anegdoty z Życia na Dworze
+## Anecdotes from Court Life
 
-### **FAKT**: Rywalizacja dwóch cesarzowych
-Dwór cesarza Ichijō był zdominowany przez wpływowy klan Fujiwara i był siedzibą dwóch rywalizujących cesarzowych: Teishi i Shōshi, każda z damami dworu będącymi wykwalifikowanymi pisarkami.
+### **FACT**: Rivalry between two empresses
+Emperor Ichijō's court was dominated by the influential Fujiwara clan and was home to two rival empresses: Teishi and Shōshi, each with ladies-in-waiting who were skilled writers.
 
-### **FAKT**: Obserwacje z dziennika o życiu na dworze
-W swoim dzienniku napisała o życiu na dworze: "Zdałam sobie sprawę, że moja gałąź rodziny była bardzo skromna; ale ta myśl rzadko mnie niepokoiła, a w tamtych czasach byłam daleka od bolesnej świadomości niższości, która czyni życie na dworze nieustanną torturą dla mnie".
+### **FACT**: Diary observations about court life
+In her diary she wrote about court life: "I realized that my branch of the family was very modest; but this thought rarely troubled me, and in those days I was far from the painful awareness of inferiority that makes court life a constant torture for me."
 
-### **FAKT**: Kobiety ukryte za parawinami
-Według opisu Keene'a, powieść daje wgląd w okres Heian; na przykład romanse kwitły, chociaż kobiety zazwyczaj pozostawały niewidoczne za parawinami, zasłonami lub fusumą.
+### **FACT**: Women hidden behind screens
+According to Keene's description, the novel provides insight into the Heian period; for example, romances flourished, although women usually remained invisible behind screens, curtains, or fusuma.
 
-## Wpływ na Literaturę Światową
+## Impact on World Literature
 
-### **FAKT**: Pierwsza powieść psychologiczna świata
-Jorge Luis Borges opisał ją jako "powieść psychologiczną", zauważając jej skupienie na ludzkich pasjach raczej niż egzotyce. To pierwsze dzieło literatury światowej skupiające się na stanach psychologicznych postaci.
+### **FACT**: World's first psychological novel
+Jorge Luis Borges described it as a "psychological novel," noting its focus on human passions rather than exoticism. This is the first work of world literature focusing on characters' psychological states.
 
-### **FAKT**: Yasunari Kawabata nazwał ją "najwyższym szczytem"
-Laureat Nagrody Nobla Yasunari Kawabata nazwał "Opowieść o księciu Genjim" "najwyższym szczytem literatury japońskiej".
+### **FACT**: Yasunari Kawabata called it the "supreme pinnacle"
+Nobel Prize winner Yasunari Kawabata called "The Tale of Genji" the "supreme pinnacle of Japanese literature."
 
-### **FAKT**: Pozycja w kanonie jak Shakespeare
-W dzisiejszej Japonii "Opowieść o księciu Genjim" zajmuje w kanonie przestrzeń mniej więcej równoważną wszystkim dziełom Szekspira w kanonie angielskim.
+### **FACT**: Position in canon like Shakespeare
+In today's Japan, "The Tale of Genji" occupies in the canon a space roughly equivalent to all of Shakespeare's works in the English canon.
 
-## Koniec Życia Autorki - Tajemnica
+## End of Author's Life - Mystery
 
-### **PLOTKA**: Śmierć w klasztorze buddyjskim
-Nie wiadomo, jak Murasaki zakończyła swoje dni. Mogła umrzeć w wieku około trzydziestu kilku lat, choć niektórzy historycy mówią, że żyła do 1025 lub 1030 roku. Według relacji wycofała się do buddyjskiego klasztoru, by zastanowić się nad przemijalnością świata materialnego, jak wielu bohaterów "Opowieści o księciu Genjim".
+### **RUMOR**: Death in a Buddhist monastery
+It's unknown how Murasaki ended her days. She may have died at around thirty-some years old, though some historians say she lived until 1025 or 1030 CE. According to accounts, she withdrew to a Buddhist monastery to contemplate the transience of the material world, like many characters in "The Tale of Genji."
 
-## Adaptacje i Dziedzictwo
+## Adaptations and Legacy
 
-### **FAKT**: Minimum 5 adaptacji manga
-Istnieje co najmniej pięć adaptacji manga dzieła Genji, w tym seria "Genji Monogatari: Sennen no Nazo" dodająca elementy nadprzyrodzone.
+### **FACT**: Minimum 5 manga adaptations
+There are at least five manga adaptations of the Genji work, including the series "Genji Monogatari: Sennen no Nazo" adding supernatural elements.
 
-### **FAKT**: Trzy główne ekranizacje filmowe
-Dzieło zostało przełożone na język cinematografii trzy razy: w 1951 roku przez reżysera Kozaburo Yoshimurę, w 1966 roku przez reżysera Kon Ichikawę, i w 1987 roku przez reżysera Gisaburo Sugii (film animowany).
+### **FACT**: Three major film adaptations
+The work has been translated into cinematography three times: in 1951 by director Kozaburo Yoshimura, in 1966 by director Kon Ichikawa, and in 1987 by director Gisaburo Sugii (animated film).
 
-### **FAKT**: Regularne retranslacje na współczesny japoński
-"Opowieść o księciu Genjim" jest regularnie retłumaczona na współczesny japoński, co pokazuje, że jej uchwyt nad wyobraźnią narodu nie słabnie.
+### **FACT**: Regular retranslations into modern Japanese
+"The Tale of Genji" is regularly retranslated into contemporary Japanese, showing that its grip on the nation's imagination doesn't weaken.
 
-### **FAKT**: Pierwsza próba tłumaczenia na angielski w 1882
-Pierwszą próbę tłumaczenia na angielski podjął w 1882 roku Suematsu Kencho, ale pierwsze kompletne tłumaczenie opublikowano między 1925 a 1933 przez orientalistę Arthura Waleya.
+### **FACT**: First English translation attempt in 1882
+The first attempt at English translation was undertaken in 1882 by Suematsu Kencho, but the first complete translation was published between 1925 and 1933 by orientalist Arthur Waley.
 
-## Aspekt Feministyczny i Społeczny
+## Feminist and Social Aspect
 
-### **FAKT**: Okres Heian jako "złoty wiek" kobiet pisarek
-Okres Heian był wyjątkowym czasem w japońskiej historii literackiej, w którym kobiety pisarki dominowały we wszystkich gatunkach.
+### **FACT**: Heian period as "golden age" of women writers
+The Heian period was an exceptional time in Japanese literary history when women writers dominated all genres.
 
-### **FAKT**: Kobiece dzienniki jako unikalna forma literatury
-Kobiety z arystokracji średniego szczebla służące w żywych dworach skupionych wokół konkubin Fujiwara zwróciły się ku wewnątrz i zbadały siebie, tworząc korpus "pisarstwa o sobie", który jest unikalny w świecie.
+### **FACT**: Women's diaries as unique literary form
+Women from middle-rank aristocracy serving in lively courts centered around Fujiwara concubines turned inward and examined themselves, creating a corpus of "writing about oneself" that is unique in the world.
 
-### **FAKT**: Pierwsza kobieta pisarka o globalnym uznaniu
-"Opowieść o księciu Genjim" jest uważana za pierwszą przez kobietę napisaną powieść, która zyskała globalne uznanie.
+### **FACT**: First woman writer with global recognition
+"The Tale of Genji" is considered the first novel written by a woman that gained global recognition.
 
-## Ciekawostki Liczbowe
+## Numerical Curiosities
 
-### **FAKT**: Tłumaczenie Royall Tylera ma 1216 stron
-Szanowane angielskie tłumaczenie Royall Tylera z 2003 roku ma 1120 stron tekstu, a łącznie z indeksami, bibliografią i komentarzami - 1216 stron.
+### **FACT**: Royall Tyler's translation has 1216 pages
+Respected English translation by Royall Tyler from 2003 has 1120 pages of text, and including indexes, bibliography and commentary - 1216 pages total.
 
-### **FAKT**: 500 lat czytana głównie dla poezji
-Przez ponad pięćset lat w okresie średniowiecza "Opowieść o księciu Genjim" była czytana niemal wyłącznie dla poezji, funkcjonując jako rodzaj podręcznika kompozycji.
+### **FACT**: Read mainly for poetry for 500 years
+For over five hundred years during the medieval period, "The Tale of Genji" was read almost exclusively for its poetry, functioning as a kind of composition handbook.
 
-### **FAKT**: Millennium w 2008 roku
-Tysięczną rocznicę dzieła obchodzono w 2008 roku, demonstrując jego trwałe znaczenie w literaturze światowej.
+### **FACT**: Millennium celebrated in 2008
+The work's thousandth anniversary was celebrated in 2008, demonstrating its enduring significance in world literature.
 
 ---
 
-*Ten dokument zawiera 45 konkretnych faktów i anegdot związanych z historią powstania "Opowieści o księciu Genjim" - pierwszej powieści świata, napisanej przez kobietę, która zrewolucjonizowała literaturę i pozostaje żywa po tysiącu lat.*
+*This document contains 45 specific facts and anecdotes related to the creation history of "The Tale of Genji" - the world's first novel, written by a woman, which revolutionized literature and remains alive after a thousand years.*

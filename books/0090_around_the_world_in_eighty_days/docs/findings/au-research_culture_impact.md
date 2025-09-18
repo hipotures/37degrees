@@ -1,123 +1,123 @@
-# Badanie Wpływu Kulturowego: "W osiemdziesiąt dni dookoła świata" Jules'a Verne'a
+# Cultural Impact Research: "Around the World in Eighty Days" by Jules Verne
 
-## Wprowadzenie
+## Introduction
 
-Książka "W osiemdziesiąt dni dookoła świata" (1873) Jules'a Verne'a jest jednym z najważniejszych dzieł literatury przygodowej, które zrewolucjonizowało sposób myślenia o podróżach i odegrało kluczową rolę w kształtowaniu kultury popularnej przez ponad 150 lat. Niniejsze badanie analizuje konkretne przykłady wpływu tej książki na różne obszary kultury, od adaptacji filmowych po rzeczywiste wyprawy dookoła świata.
+"Around the World in Eighty Days" (1873) by Jules Verne is one of the most important works of adventure literature that revolutionized thinking about travel and played a key role in shaping popular culture for over 150 years. This research analyzes specific examples of this book's influence on various areas of culture, from film adaptations to real expeditions around the world.
 
-## 1. Adaptacje Filmowe i Telewizyjne
+## 1. Film and Television Adaptations
 
-### Klasyczne Adaptacje
-1. **Film niemiecki 1919** - Pierwsza adaptacja z Conradem Veidtem jako Phileasem Foggiem
-2. **"Around the World in 80 Days" (1956)** - Reżyseria Michael Anderson, produkcja Mike Todd, 5 Oscarów w tym za Najlepszy Film
-3. **Sekwencja tytułowa Saula Bassa** - 6-minutowa animowana sekwencja dla filmu z 1956 roku, stworzona przez nagradzanego designera
-4. **"Go Around the World in a Daze" (1963)** - Parodia z The Three Stooges przedstawiająca Phileasa Fogga III
+### Classic Adaptations
+1. **German Film 1919** - First adaptation with Conrad Veidt as Phileas Fogg
+2. **"Around the World in 80 Days" (1956)** - Directed by Michael Anderson, produced by Mike Todd, 5 Oscars including Best Picture
+3. **Saul Bass Title Sequence** - 6-minute animated sequence for the 1956 film, created by the award-winning designer
+4. **"Go Around the World in a Daze" (1963)** - The Three Stooges parody featuring Phileas Fogg III
 
-### Współczesne Adaptacje
-5. **Film Disney (2004)** - Reżyseria Frank Coraci, z Jackie Chanem i Steve Cooganem, luźno oparta na powieści
-6. **Serial BBC/PBS (2021)** - David Tennant jako Phileas Fogg, 8-odcinkowy serial historyczny
-7. **Leonie Benesch jako Abigail "Fix" Fortescue** - Reimaginacja postaci detektywa jako kobiecej dziennikarki
-8. **Ibrahim Koma jako Jean Passepartout** - Współczesna interpretacja słynnego kamerdynera
+### Contemporary Adaptations
+5. **Disney Film (2004)** - Directed by Frank Coraci, with Jackie Chan and Steve Coogan, loosely based on the novel
+6. **BBC/PBS Series (2021)** - David Tennant as Phileas Fogg, 8-episode historical series
+7. **Leonie Benesch as Abigail "Fix" Fortescue** - Reimagining of the detective character as a female journalist
+8. **Ibrahim Koma as Jean Passepartout** - Contemporary interpretation of the famous valet
 
-### Animowane Adaptacje
-9. **"Around the World with Willy Fog" (1980s)** - Hiszpańska seria animowana z antropomorficznymi zwierzętami
-10. **"Willy Fog 2"** - Kontynuacja przygód bazująca na innych powieściach Verne'a
-11. **Film animowany (1999)** - Simon Callow jako głos Phileasa Fogga
-12. **Australijska adaptacja telewizyjna (1972)** - Animowana wersja dla dzieci
+### Animated Adaptations
+9. **"Around the World with Willy Fog" (1980s)** - Spanish animated series with anthropomorphic animals
+10. **"Willy Fog 2"** - Continuation of adventures based on other Verne novels
+11. **Animated Film (1999)** - Simon Callow as the voice of Phileas Fogg
+12. **Australian Television Adaptation (1972)** - Animated version for children
 
-## 2. Wpływ na Prawdziwych Podróżników i Odkrywców
+## 2. Influence on Real Travelers and Explorers
 
-### Nellie Bly - Rewolucja Dziennikarstwa Podróżniczego
-13. **Podróż Nellie Bly (1889-1890)** - 72 dni, 6 godzin i 11 minut - pobicie fikcyjnego rekordu Fogga
-14. **Spotkanie z Jules'em Verne'em** - Bly spotkała się z autorem w Amiens w 1889 roku
-15. **"Jeśli zrobisz to w 79 dni, będę klaskać obiema rękami"** - Słowa zachęty Verne'a dla Bly
-16. **Rywalizacja z Elizabeth Bisland** - Cosmopolitan Magazine wysłał konkurencyjną dziennikarkę w przeciwnym kierunku
+### Nellie Bly - Revolution in Travel Journalism
+13. **Nellie Bly's Journey (1889-1890)** - 72 days, 6 hours and 11 minutes - beating Fogg's fictional record
+14. **Meeting with Jules Verne** - Bly met the author in Amiens in 1889
+15. **"If you do it in 79 days, I'll applaud with both hands"** - Verne's encouraging words to Bly
+16. **Rivalry with Elizabeth Bisland** - Cosmopolitan Magazine sent a competing journalist in the opposite direction
 
-### Współcześni Podróżnicy
-17. **Michael Palin (1988)** - "Around the World in 80 Days with Michael Palin" dla BBC, 79 dni i 7 godzin
-18. **Mark Beaumont (2017)** - Brytyjski kolarz próbował objeć świat rowerem w 80 dni
-19. **Dustin Engels** - "Around the Worlds in 80 Days" - odwiedził wszystkie 14 parków Disney w 80 dni (28,649 mil)
+### Contemporary Travelers
+17. **Michael Palin (1988)** - "Around the World in 80 Days with Michael Palin" for BBC, 79 days and 7 hours
+18. **Mark Beaumont (2017)** - British cyclist attempted to cycle around the world in 80 days
+19. **Dustin Engels** - "Around the Worlds in 80 Days" - visited all 14 Disney parks in 80 days (28,649 miles)
 
-## 3. Wpływ na Innowacje i Technologię
+## 3. Influence on Innovation and Technology
 
-### Inspirowani Naukowcy i Wynalazcy
-20. **Simon Lake** - Twórca nowoczesnego okrętu podwodnego: "Jules Verne był w pewnym sensie dyrektorem generalnym mojego życia"
-21. **Richard E. Byrd, Yuri Gagarin** - Polarnicy i kosmonauci inspirowani wizją Verne'a
-22. **Wernher von Braun** - Pionier astronautyki uznający wpływ Verne'a
-23. **Ray Bradbury**: "Wszyscy jesteśmy w pewien sposób dziećmi Jules'a Verne'a"
+### Inspired Scientists and Inventors
+20. **Simon Lake** - Creator of the modern submarine: "Jules Verne was in a sense the director-general of my life"
+21. **Richard E. Byrd, Yuri Gagarin** - Polar explorers and cosmonauts inspired by Verne's vision
+22. **Wernher von Braun** - Pioneer of astronautics acknowledging Verne's influence
+23. **Ray Bradbury**: "We are all, in some way, children of Jules Verne"
 
-### Steampunk i Retro-futuryzm
-24. **Ruch steampunk** - Verne uznawany za jednego z ojców założycieli estetyki steampunk
-25. **Retrofuturyzm w dizajnie** - Inspiracje wiktoriańską technologią w współczesnym designie
+### Steampunk and Retro-futurism
+24. **Steampunk Movement** - Verne recognized as one of the founding fathers of steampunk aesthetics
+25. **Retrofuturism in Design** - Victorian technology inspirations in contemporary design
 
-## 4. Parodie i Nawiązania w Kulturze Popularnej
+## 4. Parodies and References in Popular Culture
 
-### Telewizyjne Parodie i Nawiązania
-26. **"Count Duckula"** - Odcinek "Around the World in a Total Daze" z postacią Sibellious Smogg
-27. **"Mr. Adams and Eve" (1957)** - David Niven promuje film wcielając się w siebie
-28. **"Have Gun, Will Travel" (1960)** - Odcinek "Fogg Bound"
-29. **Phineas Flynn z "Phineas and Ferb"** - Imię postaci inspirowane Phileasem Foggiem
+### Television Parodies and References
+26. **"Count Duckula"** - Episode "Around the World in a Total Daze" featuring character Sibellious Smogg
+27. **"Mr. Adams and Eve" (1957)** - David Niven promotes the film by playing himself
+28. **"Have Gun, Will Travel" (1960)** - Episode "Fogg Bound"
+29. **Phineas Flynn from "Phineas and Ferb"** - Character name inspired by Phileas Fogg
 
-### Komedyjne Interpretacje
-30. **Alexei Sayle** - Parodia Fogga próbującego dotrzeć na przód kolejki pocztowej w 80 dni
-31. **"League of Extraordinary Gentlemen" (2003)** - Nawiązanie do Fogga przez Allan Quatermain
+### Comedic Interpretations
+30. **Alexei Sayle** - Parody of Fogg trying to reach the front of a postal queue in 80 days
+31. **"League of Extraordinary Gentlemen" (2003)** - Reference to Fogg by Allan Quatermain
 
-## 5. Kultura Gastronomiczna i Komercjalizacja
+## 5. Gastronomic Culture and Commercialization
 
-### Mr Fogg's - Sieć Tematycznych Barów w Londynie
-32. **Mr Fogg's Residence** - Bar wzorowany na opisie domu Fogga przez Verne'a
-33. **Mr Fogg's Tavern (Covent Garden)** - Wiktoriańska tawerna w sercu londyńskiego Teatralnego
-34. **Mr Fogg's Gin Parlour** - Ponad 230 rodzajów ginu z różnych zakątków świata
-35. **Mr Fogg's City Tavern** - Ekscentryczna tawerna w dzielnicy finansowej Londynu
-36. **Mr Fogg's Society of Exploration** - Tematyczny bar inspirowany eksploratorami epoki wiktoriańskiej
+### Mr Fogg's - Themed Bar Chain in London
+32. **Mr Fogg's Residence** - Bar modeled on Verne's description of Fogg's house
+33. **Mr Fogg's Tavern (Covent Garden)** - Victorian tavern in the heart of London's Theatre District
+34. **Mr Fogg's Gin Parlour** - Over 230 types of gin from around the world
+35. **Mr Fogg's City Tavern** - Eccentric tavern in London's financial district
+36. **Mr Fogg's Society of Exploration** - Themed bar inspired by Victorian-era explorers
 
-### Koktajl w Kosmosie
-37. **"From The Earth to The Stars" (2017)** - Pierwszy koktajl wysłany w kosmos przez Mr Fogg's, nawiązujący do innej powieści Verne'a
+### Cocktail in Space
+37. **"From The Earth to The Stars" (2017)** - First cocktail sent to space by Mr Fogg's, referencing another Verne novel
 
-## 6. Gry i Rozrywka
+## 6. Games and Entertainment
 
-### Gry Planszowe
-38. **Piatnik "80 Days"** - Gra wyścigowa z dwustronną planszą
-39. **IELLO "Around The World in 80 Days"** - Strategiczna gra planszowa
-40. **"Le Voyage Autour du Monde en 80 Jours" (1874-1928)** - Co najmniej 8 różnych wydań gier planszowych
+### Board Games
+38. **Piatnik "80 Days"** - Racing game with double-sided board
+39. **IELLO "Around The World in 80 Days"** - Strategic board game
+40. **"Le Voyage Autour du Monde en 80 Jours" (1874-1928)** - At least 8 different editions of board games
 
-### Gry Komputerowe
-41. **"Around the World in 80 Days" (2004)** - Gra mobilna oparta na filmie Disney
-42. **"80 Days" (2005)** - Gra PC od Frogwares
-43. **"80 Days" (2014)** - Gra od Inkle z elementami science fiction
-44. **"Sherlock: Hidden Match-3 Cases" (2020)** - G5 Entertainment, częściowo oparta na powieści
+### Computer Games
+41. **"Around the World in 80 Days" (2004)** - Mobile game based on Disney film
+42. **"80 Days" (2005)** - PC game by Frogwares
+43. **"80 Days" (2014)** - Game by Inkle with science fiction elements
+44. **"Sherlock: Hidden Match-3 Cases" (2020)** - G5 Entertainment, partially based on the novel
 
-## 7. Nagrody i Upamiętnienia Sportowe
+## 7. Sports Awards and Commemorations
 
-### Żeglarstwo
-45. **Jules Verne Trophy** - Nagroda dla najszybszego okrążenia świata żaglówką (od 1993)
-46. **Worlds of Fun** - Park rozrywki w Kansas City inspirowany książką i filmem
+### Sailing
+45. **Jules Verne Trophy** - Award for fastest around-the-world sailing (since 1993)
+46. **Worlds of Fun** - Amusement park in Kansas City inspired by the book and film
 
-## 8. Edukacja i Geografia
+## 8. Education and Geography
 
-### Wykorzystanie Edukacyjne
-47. **Standardy Geografii Narodowej** - Używanie książki do nauczania geografii w amerykańskich szkołach
-48. **"Disney Learning Adventures: Mickey's Around The World In 80 Days"** - Edukacyjna wersja dla dzieci
-49. **Jean Cocteau** - Uznał książkę za "arcydzieło" i główny wpływ na dzieciństwo
+### Educational Use
+47. **National Geography Standards** - Using the book to teach geography in American schools
+48. **"Disney Learning Adventures: Mickey's Around The World In 80 Days"** - Educational version for children
+49. **Jean Cocteau** - Recognized the book as a "masterpiece" and major influence on childhood
 
-## 9. Literackie Kontynuacje i Adaptacje
+## 9. Literary Continuations and Adaptations
 
-### Rozszerzenia Literackie
-50. **"The Other Log of Phileas Fogg" (1973)** - Philip José Farmer przedstawia Fogga jako członka frakcji pozaziemskiej
-51. **Albert Robida "Voyages très extraordinaires de Saturnin Farandoul" (1879)** - Wczesna parodia
-52. **Branislav Nušić "Travel Around the World" (1910)** - Serbska komedia inspirowana Verne'em
-53. **Soja Jovanović (1964)** - Adaptacja filmowa komedii Nušića, jedna z pierwszych reżyserek w Jugosławii
+### Literary Extensions
+50. **"The Other Log of Phileas Fogg" (1973)** - Philip José Farmer presents Fogg as member of an extraterrestrial faction
+51. **Albert Robida "Voyages très extraordinaires de Saturnin Farandoul" (1879)** - Early parody
+52. **Branislav Nušić "Travel Around the World" (1910)** - Serbian comedy inspired by Verne
+53. **Soja Jovanović (1964)** - Film adaptation of Nušić's comedy, one of the first female directors in Yugoslavia
 
-## 10. Cyfrowa Obecność i Media Społecznościowe
+## 10. Digital Presence and Social Media
 
-### Współczesna Recepcja
-54. **TikTok** - Treści związane ze scenami teatralnymi i adaptacjami
-55. **Pinterest memy** - Sporadyczne nawiązania memowe
-56. **Rotten Tomatoes 79%** - Wysoka ocena serialu BBC z 2021 roku
+### Contemporary Reception
+54. **TikTok** - Content related to theatrical scenes and adaptations
+55. **Pinterest Memes** - Sporadic meme references
+56. **Rotten Tomatoes 79%** - High rating for the 2021 BBC series
 
-## Wnioski
+## Conclusions
 
-Książka "W osiemdziesiąt dni dookoła świata" pozostaje żywą i inspirującą siłą w kulturze popularnej ponad 150 lat po publikacji. Jej wpływ jest widoczny w każdej dekadzie - od pionierskich adaptacji filmowych przez prawdziwe podróże rekordowe, po współczesne seriale telewizyjne i tematyczne bary w Londynie.
+"Around the World in Eighty Days" remains a living and inspiring force in popular culture over 150 years after publication. Its influence is visible in every decade - from pioneering film adaptations through real record-breaking journeys, to contemporary television series and themed bars in London.
 
-Szczególnie znaczący jest wpływ książki na rzeczywiste podróże - od przełomowej wyprawy Nellie Bly w 1889 roku po współczesnych adventurerów jak Michael Palin czy Mark Beaumont. Dzieło Verne'a nie tylko przewidziało możliwości technologiczne swojej epoki, ale stało się katalizatorem rzeczywistych osiągnięć w dziedzinie transportu i eksploracji.
+Particularly significant is the book's influence on real travel - from Nellie Bly's groundbreaking expedition in 1889 to contemporary adventurers like Michael Palin or Mark Beaumont. Verne's work not only predicted the technological possibilities of its era, but became a catalyst for real achievements in transportation and exploration.
 
-W erze mediów społecznościowych i globalnej komunikacji, historia Phileasa Fogga nadal rezonuje jako symbol ludzkiej determinacji, precyzji i odkrywczości - wartości, które pozostają aktualne w XXI wieku.
+In the era of social media and global communication, the story of Phileas Fogg still resonates as a symbol of human determination, precision and discovery - values that remain relevant in the 21st century.

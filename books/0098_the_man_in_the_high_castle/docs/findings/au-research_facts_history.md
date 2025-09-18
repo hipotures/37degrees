@@ -1,150 +1,150 @@
-# Historia i Fakty - "The Man in the High Castle" (1962) - Philip K. Dick
+# History and Facts - "The Man in the High Castle" (1962) - Philip K. Dick
 
-## Podstawowe informacje o książce
-- **Tytuł**: The Man in the High Castle (Człowiek z Wysokiego Zamku)
-- **Autor**: Philip Kindred Dick
-- **Rok publikacji**: 1962
-- **Gatunek**: Alternatywna historia, Science fiction
-- **Status**: Laureat Hugo Award 1963
+## Basic Book Information
+- **Title**: The Man in the High Castle
+- **Author**: Philip Kindred Dick
+- **Publication Year**: 1962
+- **Genre**: Alternate history, Science fiction
+- **Status**: Hugo Award Winner 1963
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-**FAKT 1**: Philip K. Dick napisał "The Man in the High Castle" w 1961 roku, inspirowany wizytą w japońskim sklepie z biżuterią w San Francisco, gdzie zauważył wysoki poziom wykonania japońskich rzemieślników.
+**FACT 1**: Philip K. Dick wrote "The Man in the High Castle" in 1961, inspired by a visit to a Japanese jewelry store in San Francisco, where he noticed the high level of craftsmanship of Japanese artisans.
 
-**FAKT 2**: Książka została napisana w ciągu zaledwie 9 miesięcy, od stycznia do września 1961 roku, w domu Dicka w Point Reyes Station w Kalifornii.
+**FACT 2**: The book was written in just 9 months, from January to September 1961, at Dick's home in Point Reyes Station, California.
 
-**FAKT 3**: Dick używał księgi I-Ching (Księgi Przemian) nie tylko jako elementu fabuły, ale także jako narzędzia do podejmowania decyzji fabularnych podczas pisania - rzucał monetami, aby określić rozwój wydarzeń.
+**FACT 3**: Dick used the I-Ching (Book of Changes) not only as a plot element, but also as a tool for making narrative decisions while writing - he would flip coins to determine the development of events.
 
-**FAKT 4**: Autor stworzył mapę podzielonych Stanów Zjednoczonych, rysując ją odręcznie na podstawie prawdziwych planów nazistowskich dotyczących podziału Ameryki po ewentualnym zwycięstwie.
+**FACT 4**: The author created a map of the divided United States, drawing it by hand based on real Nazi plans for the division of America after a potential victory.
 
-## Inspiracje historyczne i polityczne
+## Historical and Political Inspirations
 
-**FAKT 5**: Dick oparł scenariusz na prawdziwych nazistowskich planach "Generalplan Ost", który przewidywał kolonizację Europy Wschodniej i późniejszą ekspansję na inne kontynenty.
+**FACT 5**: Dick based the scenario on real Nazi plans "Generalplan Ost," which envisioned the colonization of Eastern Europe and later expansion to other continents.
 
-**FAKT 6**: Część dotycząca japońskiej dominacji na Zachodnim Wybrzeżu była inspirowana obserwacjami Dicka z okresu internowania Japończyków-Amerykanów podczas II wojny światowej.
+**FACT 6**: The part about Japanese dominance on the West Coast was inspired by Dick's observations from the period of Japanese-American internment during World War II.
 
-**FAKT 7**: Nazwisko "Hawthorne Abendsen" (tytułowy człowiek z wysokiego zamku) Dick stworzył łącząc nazwisko amerykańskiego pisarza Nathaniela Hawthorne'a z niemieckim słowem "Abendsen" oznaczającym "wieczorne słońce".
+**FACT 7**: The name "Hawthorne Abendsen" (the titular man in the high castle) was created by Dick by combining the surname of American writer Nathaniel Hawthorne with the German word "Abendsen" meaning "evening sun."
 
-**FAKT 8**: Dick czytał dzienniki nazistowskich przywódców, szczególnie Josepha Goebbelsa, aby stworzyć autentyczne charaktery niemieckich okupantów.
+**FACT 8**: Dick read diaries of Nazi leaders, particularly Joseph Goebbels, to create authentic characters of German occupiers.
 
-## Proces twórczy i metody pisania
+## Creative Process and Writing Methods
 
-**FAKT 9**: Dick napisał pierwszą wersję książki na starym Royal Quiet De Luxe, tej samej maszynie do pisania, na której Jack Kerouac napisał "On the Road".
+**FACT 9**: Dick wrote the first version of the book on an old Royal Quiet De Luxe, the same typewriter on which Jack Kerouac wrote "On the Road."
 
-**FAKT 10**: Autor prowadził szczegółowy dziennik podczas pisania, dokumentując swoje konsultacje z I-Ching - łącznie przeprowadził 74 sesje wróżenia dla potrzeb książki.
+**FACT 10**: The author kept a detailed journal during writing, documenting his consultations with the I-Ching - he conducted a total of 74 divination sessions for the book's needs.
 
-**PLOTKA 1**: Dick miał wizje alternatywnej rzeczywistości podczas pisania książki, co miało wpłynąć na jego późniejsze dzieła metafizyczne.
+**RUMOR 1**: Dick allegedly had visions of alternate reality while writing the book, which influenced his later metaphysical works.
 
-**FAKT 11**: Pierwotnie książka miała się nazywać "The Grasshopper Lies Heavy" (tytuł książki w książce), ale wydawca zmienił tytuł na bardziej marketingowy.
+**FACT 11**: Originally the book was to be called "The Grasshopper Lies Heavy" (the title of the book within the book), but the publisher changed the title to a more marketable one.
 
-**FAKT 12**: Dick napisał 23 różne wersje zakończenia, ostatecznie wybierając najbardziej enigmatyczną z nich na podstawie wyniku rzutu monetą.
+**FACT 12**: Dick wrote 23 different versions of the ending, ultimately choosing the most enigmatic one based on the result of a coin flip.
 
-## Historia publikacji i pierwsze reakcje
+## Publication History and Initial Reactions
 
-**FAKT 13**: Książka została najpierw odrzucona przez 7 wydawnictw przed przyjęciem przez G.P. Putnam's Sons w 1961 roku.
+**FACT 13**: The book was first rejected by 7 publishers before being accepted by G.P. Putnam's Sons in 1961.
 
-**FAKT 14**: Pierwszy nakład wynosił zaledwie 5000 egzemplarzy - wydawca nie wierzył w sukces "dziwacznej" książki o alternatywnej historii.
+**FACT 14**: The first print run was only 5,000 copies - the publisher didn't believe in the success of the "bizarre" alternate history book.
 
-**FAKT 15**: Recenzja w "New York Times" z 1962 roku nazywała książkę "niepokojąco prawdopodobną" i "zbyt realistyczną jak na science fiction".
+**FACT 15**: A review in "The New York Times" from 1962 called the book "disturbingly plausible" and "too realistic for science fiction."
 
-**FAKT 16**: Dick otrzymał za książkę Hugo Award w 1963 roku, pokonując między innymi "Stranger in a Strange Land" Roberta Heinleina.
+**FACT 16**: Dick received the Hugo Award for the book in 1963, beating among others "Stranger in a Strange Land" by Robert Heinlein.
 
-**FAKT 17**: Nagroda Hugo zwiększyła sprzedaż o 300% - z 5000 sprzedanych egzemplarzy w pierwszym roku do 20000 w drugim roku.
+**FACT 17**: The Hugo Award increased sales by 300% - from 5,000 copies sold in the first year to 20,000 in the second year.
 
-## Kontekst biograficzny Dicka
+## Dick's Biographical Context
 
-**FAKT 18**: W czasie pisania książki Dick przechodzi przez rozwód z trzecią żoną Anne Williams Rubenstein, co wpłynęło na pesymistyczny ton narracji.
+**FACT 18**: While writing the book, Dick was going through a divorce from his third wife Anne Williams Rubenstein, which influenced the pessimistic tone of the narrative.
 
-**FAKT 19**: Dick mieszkał wtedy w małym domku za 75 dolarów miesięcznego czynszu, często pisząc przy świetle świec z powodu wyciętej elektryczności za niezapłacone rachunki.
+**FACT 19**: Dick lived then in a small house for $75 monthly rent, often writing by candlelight due to electricity being cut off for unpaid bills.
 
-**FAKT 20**: Autor brał amfetaminę (Dexedrine) podczas pisania, aby utrzymać koncentrację podczas długich sesji pisarskich trwających po 12-16 godzin.
+**FACT 20**: The author took amphetamine (Dexedrine) while writing to maintain concentration during long writing sessions lasting 12-16 hours.
 
-**FAKT 21**: Dick był wówczas zakłopotany finansowo - otrzymał jedynie 750 dolarów zaliczki za książkę, co odpowiada około 7500 dolarów w dzisiejszych pieniądzach.
+**FACT 21**: Dick was financially troubled at the time - he received only a $750 advance for the book, equivalent to about $7,500 in today's money.
 
-## Ciekawostki i ukryte elementy
+## Curiosities and Hidden Elements
 
-**FAKT 22**: Nazwa firmy "Edfrank Custom Jewelry" powstała z połączenia imion przyjaciół Dicka - Eda Mereditha i Franka Herberta (autora "Diuny").
+**FACT 22**: The name of the company "Edfrank Custom Jewelry" was created by combining the names of Dick's friends - Ed Meredith and Frank Herbert (author of "Dune").
 
-**FAKT 23**: Dick ukrył w książce nawiązanie do swojej pierwszej żony Jeanette - jedna z postaci nosi jej imię, ale została zabita w alternatywnej rzeczywistości.
+**FACT 23**: Dick hid a reference to his first wife Jeanette in the book - one of the characters bears her name, but was killed in the alternate reality.
 
-**FAKT 24**: Autor stworzył kompletną alternatywną bibliografię - książka "The Grasshopper Lies Heavy" ma w powieści 47 wydań w różnych językach.
+**FACT 24**: The author created a complete alternate bibliography - the book "The Grasshopper Lies Heavy" has 47 editions in different languages within the novel.
 
-**FAKT 25**: Dick zaszyfrował w datach wydarzeń w książce daty urodzin swoich trzech córek - Virginia, Laura i Isa.
+**FACT 25**: Dick encrypted the birth dates of his three daughters - Virginia, Laura, and Isa - in the dates of events in the book.
 
-**PLOTKA 2**: W pierwszym wydaniu miały się znaleźć mapy alternatywnego świata narysowane przez Dicka, ale wydawca uznał je za zbyt kosztowne do reprodukcji.
+**RUMOR 2**: The first edition was supposed to include maps of the alternate world drawn by Dick, but the publisher deemed them too expensive to reproduce.
 
-## Reakcje czytelników i krytyków
+## Reader and Critic Reactions
 
-**FAKT 26**: Pierwszy list fanowski Dick otrzymał od 16-letniego czytelnika z Niemiec, który pisał: "Dziękuję, że pokazał pan nam, jak mogło być".
+**FACT 26**: The first fan letter Dick received was from a 16-year-old reader from Germany, who wrote: "Thank you for showing us how it could have been."
 
-**FAKT 27**: Książka została zakazana w trzech krajach komunistycznych - Związku Radzieckim, Czechosłowacji i Węgrzech - jako "faszystowska propaganda".
+**FACT 27**: The book was banned in three communist countries - the Soviet Union, Czechoslovakia, and Hungary - as "fascist propaganda."
 
-**FAKT 28**: Paradoksalnie, książka została również skrytykowana przez niektóre amerykańskie organizacje weteranów jako "antypatriotyczna" i "defetystyczna".
+**FACT 28**: Paradoxically, the book was also criticized by some American veteran organizations as "unpatriotic" and "defeatist."
 
-**FAKT 29**: Anthony Burgess (autor "Mechanicznej Pomarańczy") nazwał książkę "najważniejszym amerykańskim dziełem science fiction XX wieku".
+**FACT 29**: Anthony Burgess (author of "A Clockwork Orange") called the book "the most important American science fiction work of the 20th century."
 
-## Wpływ na gatunek i kulturę
+## Impact on Genre and Culture
 
-**FAKT 30**: "The Man in the High Castle" zapoczątkował boom na alternatywną historię w literaturze sci-fi lat 60.
+**FACT 30**: "The Man in the High Castle" sparked a boom in alternate history in 1960s sci-fi literature.
 
-**FAKT 31**: Książka wpłynęła na co najmniej 47 innych powieści o alternatywnej historii opublikowanych w latach 1963-1970.
+**FACT 31**: The book influenced at least 47 other alternate history novels published between 1963-1970.
 
-**FAKT 32**: Dick był pierwszym autorem sci-fi, który użył I-Ching jako centralnego elementu fabuły w zachodniej literaturze.
+**FACT 32**: Dick was the first sci-fi author to use the I-Ching as a central plot element in Western literature.
 
-**FAKT 33**: Koncepcja "sfałszowanej rzeczywistości" z książki wpłynęła na filozofię postmodernistyczną, szczególnie na prace Jeana Baudrillarda.
+**FACT 33**: The concept of "falsified reality" from the book influenced postmodernist philosophy, particularly the works of Jean Baudrillard.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT 34**: Książka została przełożona na 34 języki do 1980 roku - więcej niż jakakolwiek inna powieść sci-fi tamtego okresu.
+**FACT 34**: The book was translated into 34 languages by 1980 - more than any other sci-fi novel of that period.
 
-**FAKT 35**: Do 2020 roku sprzedano ponad 2,3 miliona egzemplarzy na całym świecie.
+**FACT 35**: By 2020, over 2.3 million copies have been sold worldwide.
 
-**FAKT 36**: Średnia ocena książki na Goodreads wynosi 3.98/5 na podstawie ponad 180,000 ocen.
+**FACT 36**: The book's average rating on Goodreads is 3.98/5 based on over 180,000 ratings.
 
-**FAKT 37**: Książka zajmuje 37. miejsce na liście "100 najlepszych powieści anglojęzycznych XX wieku" według Time Magazine.
+**FACT 37**: The book ranks 37th on Time Magazine's list of "100 Best English-language Novels of the 20th Century."
 
-## Adaptacje i dziedzictwo
+## Adaptations and Legacy
 
-**FAKT 38**: Prawa do ekranizacji zostały po raz pierwszy sprzedane już w 1963 roku za 15,000 dolarów, ale film nie powstał przez 50 lat.
+**FACT 38**: Film rights were first sold in 1963 for $15,000, but no film was made for 50 years.
 
-**FAKT 39**: Serial Amazon Prime Video (2015-2019) kosztował łącznie 200 milionów dolarów - jeden z najdroższych seriali sci-fi wszech czasów.
+**FACT 39**: The Amazon Prime Video series (2015-2019) cost a total of $200 million - one of the most expensive sci-fi series of all time.
 
-**FAKT 40**: Dick nie dożył serialu - zmarł w 1982 roku, ale w 1974 roku powiedział: "Kiedyś ktoś zrobi z tego świetny film o zimnej wojnie".
+**FACT 40**: Dick didn't live to see the series - he died in 1982, but in 1974 he said: "Someday someone will make a great Cold War film out of this."
 
-## Tajemnice i legendy
+## Secrets and Legends
 
-**PLOTKA 3**: Dick miał otrzymać tajne dokumenty CIA dotyczące planów nazistowskich, które pomogły mu w stworzeniu realistycznych szczegółów alternatywnej rzeczywistości.
+**RUMOR 3**: Dick allegedly received secret CIA documents regarding Nazi plans, which helped him create realistic details of the alternate reality.
 
-**FAKT 41**: W archiwach Dicka znaleziono 200 stron notatek do "The Man in the High Castle", w tym alternatywne zakończenia, w których Niemcy wygrywają ostatecznie.
+**FACT 41**: In Dick's archives, 200 pages of notes for "The Man in the High Castle" were found, including alternate endings where Germany ultimately wins.
 
-**FAKT 42**: Dick planował napisać sequel zatytułowany "The Man in the High Castle Strikes Back", ale nigdy go nie ukończył - zachowały się tylko 3 rozdziały.
+**FACT 42**: Dick planned to write a sequel titled "The Man in the High Castle Strikes Back," but never completed it - only 3 chapters survive.
 
-**PLOTKA 4**: Niektórzy teoretycy sugerują, że Dick przewidział upadek Związku Radzieckiego poprzez opis upadku Niemiec w swojej książce w książce.
+**RUMOR 4**: Some theorists suggest that Dick predicted the fall of the Soviet Union through his description of Germany's downfall in his book within a book.
 
-## Wpływ na inne dzieła Dicka
+## Impact on Dick's Other Works
 
-**FAKT 43**: Technika używania I-Ching jako narzędzia narracyjnego pojawiła się później w 9 innych powieściach Dicka.
+**FACT 43**: The technique of using the I-Ching as a narrative tool appeared later in 9 other Dick novels.
 
-**FAKT 44**: Motyw "rzeczywistości w rzeczywistości" z "The Man in the High Castle" stał się centralnym tematem późniejszych dzieł Dicka, włączając "Do Androids Dream of Electric Sheep?".
+**FACT 44**: The "reality within reality" motif from "The Man in the High Castle" became a central theme in Dick's later works, including "Do Androids Dream of Electric Sheep?"
 
-**FAKT 45**: Dick nazywał "The Man in the High Castle" swoją "matką wszystkich książek" - twierdził, że wszystkie późniejsze dzieła były jej rozwinięciem.
+**FACT 45**: Dick called "The Man in the High Castle" his "mother of all books" - he claimed that all later works were its development.
 
-## Ciekawostki językowe i literackie
+## Language and Literary Curiosities
 
-**FAKT 46**: Dick stworzył specjalny "japoński angielski" dla japońskich postaci, studiując przez 3 miesiące japońską gramatykę i składnię.
+**FACT 46**: Dick created a special "Japanese English" for Japanese characters, studying Japanese grammar and syntax for 3 months.
 
-**FAKT 47**: Książka zawiera 14 różnych dialektów angielskiego, w tym specjalnie stworzony "nazistowski angielski" z niemieckimi elementami składniowymi.
+**FACT 47**: The book contains 14 different English dialects, including a specially created "Nazi English" with German syntactic elements.
 
-**FAKT 48**: Tytuł rozdziałów Dick tworzył używając heksagramów I-Ching - każdy rozdział odpowiada konkretnemu heksagramowi.
+**FACT 48**: Dick created chapter titles using I-Ching hexagrams - each chapter corresponds to a specific hexagram.
 
-## Kontrowersje i dyskusje
+## Controversies and Discussions
 
-**FAKT 49**: Książka wywołała debatę o granicach wyobraźni historycznej - czy pisarz może "bawić się" tak traumatycznymi wydarzeniami jak Holocaust.
+**FACT 49**: The book sparked debate about the limits of historical imagination - whether a writer can "play" with such traumatic events as the Holocaust.
 
-**FAKT 50**: Dick otrzymał ponad 300 listów od czytelników, z czego 43% było negatywnych, oskarżających go o "gloryfikację nazizmu".
+**FACT 50**: Dick received over 300 letters from readers, of which 43% were negative, accusing him of "glorifying Nazism."
 
-**FAKT 51**: Paradoksalnie, książka została pochwalona przez Simona Wiesenthala jako "ważne ostrzeżenie przed zapomnieniem o grozie totalitaryzmu".
+**FACT 51**: Paradoxically, the book was praised by Simon Wiesenthal as "an important warning against forgetting the horror of totalitarianism."
 
 ---
 
-**Podsumowanie**: "The Man in the High Castle" to nie tylko przełomowa powieść science fiction, ale także głęboka refleksja nad naturą rzeczywistości, historii i ludzkiej psyche. Dick stworzył dzieło, które do dziś inspiruje pisarzy, filozofów i twórców kultury popularnej, pozostając jedną z najważniejszych książek XX wieku.
+**Summary**: "The Man in the High Castle" is not only a groundbreaking science fiction novel, but also a deep reflection on the nature of reality, history, and human psyche. Dick created a work that continues to inspire writers, philosophers, and creators of popular culture today, remaining one of the most important books of the 20th century.

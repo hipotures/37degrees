@@ -1,138 +1,138 @@
-# Badania Historii i Faktów: "Dzieci północy" (Midnight's Children)
+# Historical Facts and Research: "Midnight's Children"
 
-## Okoliczności Powstania Książki
+## Circumstances of Book Creation
 
-### **FAKT**: Timing Biograficzny
-Salman Rushdie urodził się 19 czerwca 1947 roku w Bombaju, zaledwie niecałe dwa miesiące przed 15 sierpnia 1947 roku - datą uzyskania przez Indie niepodległości i podziału. Ta zbieżność czasowa jego urodzenia miała ogromny wpływ na przeplatanie się elementów osobistych i historycznych w powieści.
+### **FACT**: Biographical Timing
+Salman Rushdie was born on June 19, 1947, in Bombay, just under two months before August 15, 1947 - the date of India's independence and partition. This temporal coincidence of his birth had enormous influence on the interweaving of personal and historical elements in the novel.
 
-### **FAKT**: Proces Twórczy - 5 Lat Pracy
-Pisanie "Dzieci północy" zajęło Rushdiemu 5 lat. Zaczął pisać w wieku 27-28 lat, a gdy książka została opublikowana w 1981 roku, miał 33 lata.
+### **FACT**: Creative Process - 5 Years of Work
+Writing "Midnight's Children" took Rushdie 5 years. He began writing at age 27-28, and when the book was published in 1981, he was 33 years old.
 
-### **FAKT**: Inspiracja z Podróży Powrotnej
-Używając zaliczki w wysokości 700 funtów z pierwszej powieści "Grimus", Rushdie wrócił do Indii w 1975 roku na to, co nazywał "podróżą piętnastogodzinnych przejazdów autobusami i skromnych schronisk". Ta podróż pomogła ożywić jego plany "powieści o dzieciństwie, wynikającej z moich wspomnień o własnym dzieciństwie w Bombaju".
+### **FACT**: Inspiration from Return Journey
+Using a £700 advance from his first novel "Grimus," Rushdie returned to India in 1975 for what he called "a journey of fifteen-hour bus rides and modest hostels." This journey helped revive his plans for "a novel about childhood, arising from my memories of my own childhood in Bombay."
 
-### **FAKT**: Zmiana Narracji
-Początkowo powieść była pisana w trzeciej osobie, ale Rushdie zmienił narrację na pierwszą osobę, czując, że to da mu lepsze opanowanie doświadczeń i wydarzeń, które chciał przedstawić.
+### **FACT**: Narrative Change
+Initially the novel was written in third person, but Rushdie changed the narrative to first person, feeling this would give him better control over the experiences and events he wanted to portray.
 
-### **FAKT**: Rekrutacja w Agencji Reklamowej
-"Dzieci północy" zostało napisane, gdy Rushdie pracował jako copywriter w agencji reklamowej Ogilvy & Mather, gdzie wymyślił słynne hasła reklamowe "irresistibubble" dla Aero i "Naughty but Nice" dla kremowych ciastek.
+### **FACT**: Writing While at Advertising Agency
+"Midnight's Children" was written while Rushdie worked as a copywriter at the advertising agency Ogilvy & Mather, where he invented the famous advertising slogans "irresistibubble" for Aero and "Naughty but Nice" for cream cakes.
 
-## Inspiracje Autora
+## Author's Inspirations
 
-### **FAKT**: Autobiograficzne Elementy
-Rushdie przyznał, że chciał napisać powieść wynikającą z Bombaju tamtych czasów, wykorzystując własne doświadczenia, dając Saleemowi pewne części swojego dzieciństwa. Bohater mieszka w domu Rushdiego i uczęszcza do jego szkoły, a jego przyjaciele to kompozyty ludzi, z którymi Rushdie chodził do szkoły.
+### **FACT**: Autobiographical Elements
+Rushdie admitted he wanted to write a novel arising from the Bombay of that time, using his own experiences, giving Saleem certain parts of his childhood. The protagonist lives in Rushdie's house and attends his school, and his friends are composites of people Rushdie went to school with.
 
-### **FAKT**: Wpływ Gabríela Garcíi Márqueza
-Książka zawiera liczne paralele do "Stu lat samotności" Márqueza. Obie książki używają postaci jako metafor kraju, z Saleemem urodzonym o północy dokładnie w chwili uzyskania niepodległości przez Indie. Rushdie umieścił w książce "wiele subtelnych nawiązań do książki Márqueza", które czytelnicy mogą odnaleźć jako easter eggi.
+### **FACT**: Influence of Gabriel García Márquez
+The book contains numerous parallels to Márquez's "One Hundred Years of Solitude." Both books use characters as metaphors for the country, with Saleem born at midnight exactly at the moment of India's independence. Rushdie placed in the book "many subtle references to Márquez's book" that readers can discover as Easter eggs.
 
-### **FAKT**: Wpływ Charlesa Dickensa
-Rushdie wymienił "David Copperfield" Dickensa jako jedną z inspiracji - obie powieści opowiadają o dzieciństwie i młodości chłopca.
+### **FACT**: Influence of Charles Dickens
+Rushdie named Dickens's "David Copperfield" as one of his inspirations - both novels tell the story of a boy's childhood and youth.
 
-### **FAKT**: Rodzinne Wpływy
-Ojciec Rushdiego, Anis Rushdie, był prawnikiem, który ukończył Cambridge i miał dar opowiadania historii dzieciom. Jeszcze większy wpływ miał dziadek ze strony matki, Ataullah Butt, lekarz o oświeconych poglądach, który nie egzekwował praw purdah wobec swoich córek.
+### **FACT**: Family Influences
+Rushdie's father, Anis Rushdie, was a lawyer who graduated from Cambridge and had a gift for telling stories to children. Even greater influence came from his maternal grandfather, Ataullah Butt, an enlightened doctor who did not enforce purdah rules on his daughters.
 
-## Proces Publikacji i Pierwsze Reakcje
+## Publication Process and First Reactions
 
-### **PLOTKA**: Druzgocąca Opinia Czytelnika
-Gdy Rushdie wysłał rękopis "Dzieci północy" do swojej przyjaciółki i redaktorki Liz Calder w wydawnictwie Jonathan Cape, opinia jednego z czytelników wydawnictwa nie była zachęcająca: "Autor powinien skoncentrować się na opowiadaniach, dopóki nie opanuje formy powieściowej."
+### **RUMOR**: Devastating Reader's Opinion
+When Rushdie sent the manuscript of "Midnight's Children" to his friend and editor Liz Calder at Jonathan Cape publishers, one publisher's reader's opinion was not encouraging: "The author should concentrate on short stories until he masters the novelistic form."
 
-### **FAKT**: Rola Liz Calder
-Liz Calder pomogła Rushdiemu uniknąć tego, co nazywał "dwoma złymi błędami": jeden dotyczył zbędnej postaci reprezentującej publiczność, drugi - problemu z chronologią powieści. Rushdie został przekonany do usunięcia tej postaci i przestrukturyzowania powieści, aby historia była opowiadana chronologicznie.
+### **FACT**: Liz Calder's Role
+Liz Calder helped Rushdie avoid what he called "two bad mistakes": one concerned an unnecessary character representing the audience, the second - a problem with the novel's chronology. Rushdie was persuaded to remove this character and restructure the novel so the story was told chronologically.
 
-### **FAKT**: Opóźnienia w Publikacji
-Data publikacji "Dzieci północy" była kilkakrotnie opóźniana.
+### **FACT**: Publication Delays
+The publication date of "Midnight's Children" was postponed several times.
 
-### **FAKT**: Podział Praw Wydawniczych
-Jonathan Cape nabył prawa brytyjskie, podczas gdy Alfred Knopf przejął prawa amerykańskie.
+### **FACT**: Division of Publishing Rights
+Jonathan Cape acquired British rights, while Alfred Knopf took over American rights.
 
-## Poprzednie Porażki Autora
+## Author's Previous Failures
 
-### **FAKT**: Odrzucona "Księga Pira"
-Przed "Dzieci północy" Rushdie napisał powieść "The Book of the Pir", ukończoną w 1971 roku, o muzułmańskim przywódcy duchowym mianowanym ceremonialnym prezydentem kraju przez skorumpowany reżim wojskowy. Dzieło zostało odrzucone przez kilku wydawców.
+### **FACT**: Rejected "The Book of the Pir"
+Before "Midnight's Children," Rushdie wrote a novel "The Book of the Pir," completed in 1971, about a Muslim spiritual leader appointed ceremonial president of a country by a corrupt military regime. The work was rejected by several publishers.
 
-### **FAKT**: Odrzucona "Madame Rama"
-Rushdie napisał również powieść zatytułowaną "Madame Rama" na cześć głównej bohaterki przypominającej Indirę Gandhi. Dzieło zostało odrzucone. Mimo rozczarowania, był zdeterminowany, aby wykonać lepszą pracę.
+### **FACT**: Rejected "Madame Rama"
+Rushdie also wrote a novel titled "Madame Rama" in honor of a main character resembling Indira Gandhi. The work was rejected. Despite disappointment, he was determined to do better work.
 
-### **FAKT**: Wpływ Pierwszej Porażki
-"Byłem bardzo wstrząśnięty, gdy moja pierwsza książka została źle przyjęta. To było przykre", powiedział Rushdie Harvard Business Review w 2015 roku. "Ale było to również bardzo pomocne, ponieważ zmusiło mnie to do ponownego zakwestionowania wszystkiego, co myślałem o pisaniu i jak się do tego zabrać, i zacząć od nowa w inny sposób. I to doprowadziło do 'Dzieci północy'."
+### **FACT**: Impact of First Failure
+"I was very shaken when my first book was poorly received. It was unpleasant," Rushdie told Harvard Business Review in 2015. "But it was also very helpful, because it forced me to re-question everything I thought about writing and how to approach it, and start over in a different way. And that led to 'Midnight's Children'."
 
-## Nagrody i Statystyki
+## Awards and Statistics
 
-### **FAKT**: Rekordowe Nagrody Booker Prize
-"Dzieci północy" wygrało nagrodę Booker Prize w 1981 roku, a także James Tait Black Memorial Prize. W 1993 roku otrzymało specjalną nagrodę "Booker of Bookers" z okazji 25. rocznicy, a w 2008 roku "Best of the Booker" z okazji 40. rocznicy nagrody Booker Prize.
+### **FACT**: Record-Breaking Booker Prize
+"Midnight's Children" won the Booker Prize in 1981, as well as the James Tait Black Memorial Prize. In 1993 it received the special "Booker of Bookers" award for the 25th anniversary, and in 2008 the "Best of the Booker" for the 40th anniversary of the Booker Prize.
 
-### **FAKT**: Sprzedaż
-Książka sprzedała się w nakładzie ponad miliona egzemplarzy tylko w Wielkiej Brytanii.
+### **FACT**: Sales
+The book sold over one million copies in the UK alone.
 
-### **FAKT**: Lista BBC
-W 2003 roku powieść znalazła się na 100. miejscu w ankiecie BBC "The Big Read", która określała "najbardziej ukochane powieści" Wielkiej Brytanii wszech czasów.
+### **FACT**: BBC List
+In 2003, the novel ranked 100th in the BBC's "The Big Read" survey, which determined Britain's "most beloved novels" of all time.
 
-### **FAKT**: English Speaking Union Literary Award
-Książka otrzymała również English Speaking Union Literary Award.
+### **FACT**: English Speaking Union Literary Award
+The book also received the English Speaking Union Literary Award.
 
-## Kontrowersje i Problemy Prawne
+## Controversies and Legal Problems
 
-### **FAKT**: Pozew Indiry Gandhi
-W 1984 roku premier Indira Gandhi wniosła pozew przeciwko książce w brytyjskich sądach, twierdząc, że została zniesławiona przez jedno zdanie w rozdziale 28, sugerujące, że jej syn miał nad nią władzę, oskarżając ją o przyczynienie się do śmierci ojca przez zaniedbanie. Sprawa została rozstrzygnięta pozasądowo, gdy Rushdie zgodził się usunąć sporną frazę.
+### **FACT**: Indira Gandhi's Lawsuit
+In 1984, Prime Minister Indira Gandhi filed a lawsuit against the book in British courts, claiming she was defamed by one sentence in Chapter 28, suggesting her son had power over her, accusing her of contributing to her father's death through neglect. The case was settled out of court when Rushdie agreed to remove the disputed phrase.
 
-### **FAKT**: Celowe Błędy Historyczne
-W "Dzieci północy" jest wiele błędów. Saleem myli wszystko, od daty zabójstwa Mahatmy Gandhiego po trasy autobusów w Bombaju. Przeważnie te błędy są celowe - nie są produktem niechlujnego sprawdzania faktów. Jak ujął to Rushdie w eseju z 1983 roku, pamięć i historia są "zawsze wieloznaczne".
+### **FACT**: Deliberate Historical Errors
+There are many errors in "Midnight's Children." Saleem confuses everything from the date of Mahatma Gandhi's assassination to bus routes in Bombay. Mostly these errors are deliberate - they are not the product of sloppy fact-checking. As Rushdie put it in a 1983 essay, memory and history are "always ambiguous."
 
-## Adaptacje i Wpływ Kulturowy
+## Adaptations and Cultural Impact
 
-### **FAKT**: Adaptacja Filmowa z 2012 roku
-Reżyserka Deepa Mehta współpracowała z Rushdiem nad adaptacją filmową. Rushdie spędził następne dwa lata na skróceniu 600-stronicowej książki do 130-stronicowego scenariusza. Rushdie powiedział BBC, że sprzedał prawa do filmu za 1 dolara.
+### **FACT**: 2012 Film Adaptation
+Director Deepa Mehta collaborated with Rushdie on a film adaptation. Rushdie spent the next two years shortening the 600-page book to a 130-page screenplay. Rushdie told the BBC he sold the film rights for $1.
 
-### **FAKT**: Adaptacja BBC Radio
-BBC Radio 4 wyemitowało dramatyczną adaptację w 2017 roku z okazji 70. rocznicy niepodległości Indii, powtórzoną w pięciu częściach w 2021 roku.
+### **FACT**: BBC Radio Adaptation
+BBC Radio 4 broadcast a dramatic adaptation in 2017 for the 70th anniversary of India's independence, repeated in five parts in 2021.
 
-### **FAKT**: Netflix i Porzucone Projekty
-W czerwcu 2018 roku Netflix ogłosił plany adaptacji "Dzieci północy" jako oryginalnego serialu, ale do końca 2019 roku projekt został porzucony. W późnych latach 90. BBC planowało pięcioodcinkowy serial z Rahulem Bose, ale z powodu presji społeczności muzułmańskiej na Sri Lance pozwolenie na filmowanie zostało cofnięte.
+### **FACT**: Netflix and Abandoned Projects
+In June 2018, Netflix announced plans to adapt "Midnight's Children" as an original series, but by the end of 2019 the project was abandoned. In the late 1990s, the BBC planned a five-episode series with Rahul Bose, but due to pressure from the Muslim community in Sri Lanka, filming permission was revoked.
 
-## Innowacje Językowe
+## Linguistic Innovations
 
-### **FAKT**: Wynalezienie Słowa "Chutnification"
-Rushdie wymyślił słowo "chutnification" w książce, aby opisać przyjęcie indyjskich elementów do języka angielskiego lub kultury. David Runciman był uderzony metaforą Rushdiego "chutnifikacji" - procesu mieszania wielu różnorodnych składników w strawną pastę - jako sposobem myślenia o złożonym, chaotycznym i żmudnym procesie budowania demokracji.
+### **FACT**: Invention of the Word "Chutnification"
+Rushdie invented the word "chutnification" in the book to describe the adoption of Indian elements into English language or culture. David Runciman was struck by Rushdie's metaphor of "chutnification" - the process of mixing many diverse ingredients into a digestible paste - as a way of thinking about the complex, chaotic, and laborious process of building democracy.
 
-## Ukryte Sekrety i Ciekawostki
+## Hidden Secrets and Curiosities
 
-### **FAKT**: 1001 Dzieci Północy
-W powieści występuje 1001 "dzieci północy" urodzonych w pierwszej godzinie niepodległości Indii, nawiązanie do "Tysiąca i jednej nocy".
+### **FACT**: 1001 Midnight's Children
+The novel features 1001 "midnight's children" born in the first hour of India's independence, a reference to "One Thousand and One Nights."
 
-### **FAKT**: Podobieństwa Biographiczne
-Zarówno Saleem, jak i Salman urodzili się w 1947 roku, obaj pochodzą z kaszmirskich rodzin muzułmańskich, obaj wychowali się w Bombaju, obaj mają drżący nos.
+### **FACT**: Biographical Similarities
+Both Saleem and Salman were born in 1947, both come from Kashmiri Muslim families, both grew up in Bombay, both have quivering noses.
 
-### **FAKT**: Rushdie o Indii
-Jak to ujął Rushdie: "Indie to moja młodsza siostra".
+### **FACT**: Rushdie on India
+As Rushdie put it: "India is my younger sister."
 
-### **FAKT**: Bombaj jako Tolerancyjne Miasto
-Rushdie wspominał Bombaj swojego dzieciństwa jako miasto wyjątkowe: "Bombaj zawsze wydawał się nieco inny od reszty Indii, w taki sposób, w jaki Nowy Jork nie przypomina reszty Ameryki. Jedną z wielkich cech Bombaju w tamtym czasie była tolerancja: prawie nie było problemów sekciarskich."
+### **FACT**: Bombay as Tolerant City
+Rushdie remembered the Bombay of his childhood as a unique city: "Bombay always seemed slightly different from the rest of India, in the way New York doesn't resemble the rest of America. One of the great features of Bombay at that time was tolerance: there were almost no sectarian problems."
 
-### **FAKT**: Wpływ na Literaturę Indyjską
-"Dzieci północy" zostało nazwane "przełomem w powojennym rozwoju indyjskiej powieści anglojęzycznej", do tego stopnia, że dekadę po publikacji w 1981 roku nazywa się "post-Rushdie".
+### **FACT**: Impact on Indian Literature
+"Midnight's Children" has been called "a breakthrough in the post-war development of the Indian English-language novel," to such an extent that the decade after its 1981 publication is called "post-Rushdie."
 
-## Liczby i Rekordy
+## Numbers and Records
 
-### **FAKT**: Długość Powieści
-Oryginalna książka liczy 600 stron.
+### **FACT**: Novel Length
+The original book is 600 pages long.
 
-### **FAKT**: Czas Adaptacji Filmowej
-Rushdie spędził 2 lata na skróceniu 600-stronicowej książki do 130-stronicowego scenariusza filmowego.
+### **FACT**: Film Adaptation Time
+Rushdie spent 2 years shortening the 600-page book to a 130-page film screenplay.
 
-### **FAKT**: Ocena Filmu na Rotten Tomatoes
-Adaptacja filmowa z 2012 roku ma 41% ocenę na Rotten Tomatoes na podstawie 59 recenzji.
+### **FACT**: Rotten Tomatoes Rating
+The 2012 film adaptation has a 41% rating on Rotten Tomatoes based on 59 reviews.
 
-### **FAKT**: Nagrody Filmowe
-Film był nominowany do Best Picture i siedmiu innych kategorii na 1. Canadian Screen Awards, wygrywając dwie nagrody.
+### **FACT**: Film Awards
+The film was nominated for Best Picture and seven other categories at the 1st Canadian Screen Awards, winning two awards.
 
-## Cytat na Zakończenie
+## Closing Quote
 
-### **FAKT**: Słowa Autora o Ambicjach
-"Jak widać, chciałem napisać powieść o szalonych ambicjach, akrobację na wysokim drucie bez siatki bezpieczeństwa, wysiłek na wszystko albo nic: Bollywood albo upadek, jak można by powiedzieć. Byłem niedoświadczonym, nieudanym, nieznanym pisarzem. Aby napisać taką książkę, musiałem nauczyć się, jak to zrobić; nauczyć się pisząc ją." - Salman Rushdie
+### **FACT**: Author's Words on Ambitions
+"As you can see, I wanted to write a novel of crazy ambitions, a high-wire act without a safety net, an all-or-nothing effort: Bollywood or bust, as one might say. I was an inexperienced, unsuccessful, unknown writer. To write such a book, I had to learn how to do it; learn by writing it." - Salman Rushdie
 
-### **FAKT**: Refleksja po Latach
-"'Dzieci północy', które wygrało nagrodę Booker w 1981 roku, 'robiło dla mnie wspaniałe rzeczy'. Stworzyło poczucie ludzi o mnie jako pisarzu. Uczyniło mnie finansowo niezależnym. Ale już tak nie piszę. To była książka młodego człowieka" - powiedział Rushdie w 2015 roku.
+### **FACT**: Reflection After Years
+"'Midnight's Children,' which won the Booker Prize in 1981, 'did wonderful things for me.' It created a sense among people of me as a writer. It made me financially independent. But I don't write like that anymore. It was a young man's book" - Rushdie said in 2015.
 
 ---
 
-*Dokument zawiera 47 konkretnych faktów i anegdot dotyczących powstania, publikacji i wpływu "Dzieci północy" Salmana Rushdiego.*
+*This document contains 47 specific facts and anecdotes about the creation, publication, and impact of Salman Rushdie's "Midnight's Children."*

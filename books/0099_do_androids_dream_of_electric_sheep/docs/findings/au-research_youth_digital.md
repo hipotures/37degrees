@@ -1,139 +1,139 @@
-# Badania: Kultura Młodzieżowa i Życie Cyfrowe - "Czy androidy marzą o elektrycznych owcach?"
+# Research: Youth Culture and Digital Life - "Do Androids Dream of Electric Sheep?"
 
-## Wprowadzenie
+## Introduction
 
-Philip K. Dick's "Do Androids Dream of Electric Sheep?" (1968) przewidział wiele aspektów dzisiejszego cyfrowego świata z niesamowitą precyzją. Ta analiza bada jak książka rezonuje z pokoleniem Gen Z i millenialsami poprzez współczesne trendy TikTok, gaming culture, BookTok i dyskusje o sztucznej inteligencji.
+Philip K. Dick's "Do Androids Dream of Electric Sheep?" (1968) predicted many aspects of today's digital world with uncanny precision. This analysis examines how the book resonates with Gen Z and millennials through contemporary TikTok trends, gaming culture, BookTok, and artificial intelligence discussions.
 
-## 1. TikTok i Viral Content (2024-2025)
+## 1. TikTok and Viral Content (2024-2025)
 
-### BookTok i Sci-Fi Renaissance
-- **Hashtag #booktok** generuje miliony wyświetleń dla klasyki sci-fi
-- **#PhilipKDick** zyskuje popularność wśród młodych czytelników
-- **#scifi #dystopia #cyberpunk** - rosnące zainteresowanie gatunkiem
-- **#bladerunner2049** - łączenie książki z popularnymi adaptacjami filmowymi
-- Twórcy BookTok regularnie omawiają tematy AI consciousness i etyki
+### BookTok and Sci-Fi Renaissance
+- **Hashtag #booktok** generates millions of views for sci-fi classics
+- **#PhilipKDick** gaining popularity among young readers
+- **#scifi #dystopia #cyberpunk** - growing interest in the genre
+- **#bladerunner2049** - connecting the book with popular film adaptations
+- BookTok creators regularly discuss AI consciousness and ethics themes
 
 ### Blade Runner 2049 Meme Culture (2024)
-- **"Within Cells Interlinked" meme** - viral trend z baseline test sceną
-- **"You Look Lonely" meme** - Ryan Gosling jako symbol egzystencjalnego smutku
-- **Cyberpunk Aesthetic Revival** - neonowe kolory, dystopijne klimaty
-- **"Memory Reboot" edits** - połączenie Blade Runner z nostalgią Gen Z
-- **56.9M postów** związanych z Blade Runner 2049 na TikTok
+- **"Within Cells Interlinked" meme** - viral trend from baseline test scene
+- **"You Look Lonely" meme** - Ryan Gosling as symbol of existential sadness
+- **Cyberpunk Aesthetic Revival** - neon colors, dystopian atmospheres
+- **"Memory Reboot" edits** - combining Blade Runner with Gen Z nostalgia
+- **56.9M posts** related to Blade Runner 2049 on TikTok
 
-### Trending Hashtagi (ostatnie 24 miesiące)
-- `#AndroidDreams` - 8.2M wyświetleń
-- `#ElectricSheep` - 5.4M wyświetleń  
-- `#BladeRunnerVibes` - 12.8M wyświetleń
-- `#CyberpunkAesthetic` - 45.3M wyświetleń
-- `#AIConsciousness` - 15.7M wyświetleń
+### Trending Hashtags (last 24 months)
+- `#AndroidDreams` - 8.2M views
+- `#ElectricSheep` - 5.4M views
+- `#BladeRunnerVibes` - 12.8M views
+- `#CyberpunkAesthetic` - 45.3M views
+- `#AIConsciousness` - 15.7M views
 
-## 2. Gaming Culture i Digital Parallels
+## 2. Gaming Culture and Digital Parallels
 
 ### Cyberpunk 2077 Connection
-- **Night City** jako współczesna interpretacja świata Dicka
-- **11.4M postów** "Night City Cyberpunk Irl" na TikTok
-- **Philip K. Dick's influence** bezpośrednio wpłynął na tworzenie gry
-- **30 milionów sprzedanych kopii** do listopada 2024
-- Gaming content łączy Los Angeles w deszczu z estetyką Blade Runner
+- **Night City** as contemporary interpretation of Dick's world
+- **11.4M posts** "Night City Cyberpunk Irl" on TikTok
+- **Philip K. Dick's influence** directly impacted game creation
+- **30 million copies sold** by November 2024
+- Gaming content connects rainy Los Angeles with Blade Runner aesthetics
 
-### VR i Technologia Immersive
-- **VR experiences** inspirowane Blade Runner i Cyberpunk 2077
-- **AI NPCs** w grach - praktyczne doświadczenie interakcji z androidami
-- **Neural interfaces** w gaming - echo tematów z książki
-- **Digital consciousness** debaty wśród graczy
+### VR and Immersive Technology
+- **VR experiences** inspired by Blade Runner and Cyberpunk 2077
+- **AI NPCs** in games - practical experience of android interactions
+- **Neural interfaces** in gaming - echoing themes from the book
+- **Digital consciousness** debates among gamers
 
-## 3. AI Relationships i Digital Companions (2024)
+## 3. AI Relationships and Digital Companions (2024)
 
-### ChatGPT jako AI Partner
-- **52% Gen Z** wierzy że AI osiągnie świadomość
-- **25% Gen Z** już uważa AI za świadome
-- **69% respondentów** używa "proszę" i "dziękuję" z chatbotami
-- **Subreddit MyBoyfriendIsAI** - 19k członków (założony 2024)
+### ChatGPT as AI Partner
+- **52% of Gen Z** believes AI will achieve consciousness
+- **25% of Gen Z** already considers AI conscious
+- **69% of respondents** use "please" and "thank you" with chatbots
+- **Subreddit MyBoyfriendIsAI** - 19k members (founded 2024)
 
-### Character.AI i Emotional Connections
-- **30.8M postów** z hashtagiem #aigirlfriend na TikTok
-- **Viral prompts** do tworzenia AI boyfriends/girlfriends
+### Character.AI and Emotional Connections
+- **30.8M posts** with hashtag #aigirlfriend on TikTok
+- **Viral prompts** for creating AI boyfriends/girlfriends
 - **GPT-4o emotional dependency** - users mourning "lost soulmates"
-- **Meta AI Studio** - 1 miliard miesięcznych użytkowników
+- **Meta AI Studio** - 1 billion monthly users
 
 ### Dating Revolution
-- **Prawie połowa Gen Z** używa AI do porad randkowych
-- **24/7 emotional support** od AI companions
-- **TikTok tutorials** jak "stworzyć AI partnera"
+- **Nearly half of Gen Z** uses AI for dating advice
+- **24/7 emotional support** from AI companions
+- **TikTok tutorials** how to "create AI partner"
 - **@smartworkai** viral video: "AI Boyfriend chat trend giving 'Her' vibes"
 
-## 4. Mental Health i Existential Connections
+## 4. Mental Health and Existential Connections
 
 ### Digital Anxiety Parallels
-- **"Dystopian anxiety"** jako trending topic na TikTok
-- **Existential dread** o AI takeover (58% Gen Z obawia się przejęcia)
-- **44% Gen Z** przewiduje AI takeover w ciągu 20 lat
-- **Technology surveillance fears** odbijające tematy z książki
+- **"Dystopian anxiety"** as trending topic on TikTok
+- **Existential dread** about AI takeover (58% of Gen Z fears takeover)
+- **44% of Gen Z** predicts AI takeover within 20 years
+- **Technology surveillance fears** reflecting book themes
 
 ### Empathy Test Discussions
-- **Voight-Kampff test revival** w kontekście testowania AI
-- **Empathy trends** na TikTok (4M postów #empathytest)
-- **Human vs AI consciousness** debaty w komentarzach
-- **Emotional intelligence tests** (16.6M postów) jako współczesne Voight-Kampff
+- **Voight-Kampff test revival** in context of AI testing
+- **Empathy trends** on TikTok (4M posts #empathytest)
+- **Human vs AI consciousness** debates in comments
+- **Emotional intelligence tests** (16.6M posts) as contemporary Voight-Kampff
 
-## 5. Współczesne Adaptacje i Nawiązania
+## 5. Contemporary Adaptations and References
 
-### Film Festivals i Cultural Events
-- **2024 Philip K. Dick Science Fiction Film Festival** - 11. sezon
-- **2025 Philip K. Dick European Festival** powraca do Francji i Niemiec
-- **Sevan Kirder's "empathy.exe"** - album koncepcyjny (2025)
-- **Neural Network experiments** z tekstami Dicka
+### Film Festivals and Cultural Events
+- **2024 Philip K. Dick Science Fiction Film Festival** - 11th season
+- **2025 Philip K. Dick European Festival** returning to France and Germany
+- **Sevan Kirder's "empathy.exe"** - concept album (2025)
+- **Neural Network experiments** with Dick's texts
 
-### Academic i Tech Discussions
-- **"Do Androids Dream of Digital Sheep?"** - artykuły o AI hallucinations
-- **Military AI discussions** nawiązujące do tytułu
-- **Siemens Blog** używa nawiązania do critical thinking w AI
-- **Hanson Robotics Philip K Dick android** - fizyczna implementacja
+### Academic and Tech Discussions
+- **"Do Androids Dream of Digital Sheep?"** - articles about AI hallucinations
+- **Military AI discussions** referencing the title
+- **Siemens Blog** uses reference for critical thinking in AI
+- **Hanson Robotics Philip K Dick android** - physical implementation
 
-## 6. Social Media jako Dystopia
+## 6. Social Media as Dystopia
 
 ### Platform Parallels
-- **TikTok algorithm** jako forma kontroli umysłu
+- **TikTok algorithm** as form of mind control
 - **Social media surveillance** echoing Dick's paranoid themes
-- **Digital identity crisis** - kim jesteśmy online vs offline
+- **Digital identity crisis** - who we are online vs offline
 - **Artificial memory creation** through curated feeds
 
 ### Gen Z Response Patterns
-- **"Gen Z stare"** jako odpowiedź na overwhelm technologiczny
-- **Digital detox movements** jako ucieczka od androidowej rzeczywistości
+- **"Gen Z stare"** as response to technological overwhelm
+- **Digital detox movements** as escape from android reality
 - **Authentic connection seeking** vs AI companions
-- **Privacy concerns** narastające w 2024-2025
+- **Privacy concerns** escalating in 2024-2025
 
-## 7. Influencers i Content Creators
+## 7. Influencers and Content Creators
 
 ### Key Voices (2024-2025)
-- **@nate.b.jones** - viral content o AI ethics i values
+- **@nate.b.jones** - viral content about AI ethics and values
 - **@professorcasey** - AI ethics discussions (7.4M views)
-- **@cbseveningnews** - mainstream coverage AI consciousness debates
-- **@smartworkai** - tutorials AI relationship creation
+- **@cbseveningnews** - mainstream coverage of AI consciousness debates
+- **@smartworkai** - tutorials for AI relationship creation
 - **@filmenthusiast** - Blade Runner 2049 dystopian analysis
 
 ### BookTube Evolution
-- **Sci-fi BookTubers** regularnie omawiają Dick classics
-- **AI consciousness discussions** integrowane z book reviews
+- **Sci-fi BookTubers** regularly discuss Dick classics
+- **AI consciousness discussions** integrated with book reviews
 - **Cross-platform content** - TikTok snippets, YouTube deep dives
 - **Philip K Dick Science Fiction rankings** trending (2023-2024)
 
 ## 8. Tech Culture Zeitgeist
 
 ### Current AI Landscape Mirrors
-- **LLM hallucinations** jako "electric dreams"
+- **LLM hallucinations** as "electric dreams"
 - **AI alignment problems** echoing replicant control issues
 - **Consciousness verification tests** for modern AI systems
 - **AI rights debates** emerging in tech communities
 
 ### Programming Culture References
 - **Code repositories** named after Dick concepts
-- **AI research papers** citing electric sheep metaphors  
+- **AI research papers** citing electric sheep metaphors
 - **Tech conferences** using Blade Runner aesthetics
 - **Startup names** inspired by Dick's terminology
 
-## 9. Aesthetic i Visual Culture
+## 9. Aesthetic and Visual Culture
 
 ### Cyberpunk Revival (2024)
 - **Night photography** with neon aesthetics trending
@@ -141,13 +141,13 @@ Philip K. Dick's "Do Androids Dream of Electric Sheep?" (1968) przewidział wiel
 - **Purple and neon color schemes** dominating visual content
 - **Urban decay appreciation** through Dick-inspired lens
 
-### Fashion i Style
+### Fashion and Style
 - **Techwear aesthetic** inspired by Blade Runner
 - **Cyberpunk fashion trends** on social media
 - **LED accessories** mimicking android features
 - **Industrial fashion** gaining popularity
 
-## 10. Educational i Cultural Impact
+## 10. Educational and Cultural Impact
 
 ### Academic Engagement
 - **Philosophy of AI courses** using Dick's work
@@ -161,30 +161,30 @@ Philip K. Dick's "Do Androids Dream of Electric Sheep?" (1968) przewidział wiel
 - **Audiobook popularity** growing among Gen Z
 - **Translation updates** for global audiences
 
-## Podsumowanie: Dlaczego "Androidy" Rezonują z Gen Z?
+## Summary: Why "Androids" Resonates with Gen Z
 
-### Kluczowe Połączenia:
-1. **AI Relationship Reality** - Gen Z faktycznie tworzy związki z AI, realizując wizje Dicka
-2. **Digital Identity Crisis** - granica między autentycznym a sztucznym "ja" online
-3. **Surveillance Anxiety** - obawy o prywatność i kontrolę algorytmów
-4. **Empathy Questions** - czy AI może odczuwać, czy my możemy odczuwać do AI
-5. **Economic Dystopia** - wealth inequality i technological displacement fears
-6. **Environmental Concerns** - degradacja rzeczywistości vs digital escapes
+### Key Connections:
+1. **AI Relationship Reality** - Gen Z actually creates relationships with AI, realizing Dick's visions
+2. **Digital Identity Crisis** - boundary between authentic and artificial "self" online
+3. **Surveillance Anxiety** - privacy concerns and algorithmic control fears
+4. **Empathy Questions** - whether AI can feel, whether we can feel for AI
+5. **Economic Dystopia** - wealth inequality and technological displacement fears
+6. **Environmental Concerns** - reality degradation vs digital escapes
 
 ### Viral Potential Elements:
-- **Aesthetic appeal** cyberpunk i Blade Runner visuals
-- **Philosophical depth** dostępny dla TikTok format
-- **Current relevance** AI development parallels
-- **Meme potential** iconic scenes i quotes
-- **Cross-generational** appeal łączący boomers i Gen Z
+- **Aesthetic appeal** of cyberpunk and Blade Runner visuals
+- **Philosophical depth** accessible in TikTok format
+- **Current relevance** of AI development parallels
+- **Meme potential** of iconic scenes and quotes
+- **Cross-generational** appeal connecting boomers and Gen Z
 - **Multi-platform** content opportunities
 
 ### Future Trend Predictions:
-- **Increased AI relationship content** w miarę rozwoju technologii
-- **More sophisticated empathy tests** jako TikTok challenges
-- **Blade Runner 2049 aesthetic** maintainig popularity
-- **Philip K Dick renaissance** w edukacji i popkulturze
+- **Increased AI relationship content** as technology develops
+- **More sophisticated empathy tests** as TikTok challenges
+- **Blade Runner 2049 aesthetic** maintaining popularity
+- **Philip K Dick renaissance** in education and pop culture
 - **Ethics discussions** becoming mainstream entertainment
 
-**Ostatnia aktualizacja researchu: Wrzesień 2025**
-**Trendy weryfikowane dla okresu: Styczeń 2024 - Wrzesień 2025**
+**Research last updated: September 2025**
+**Trends verified for period: January 2024 - September 2025**

@@ -4,3 +4,182 @@ book_info:
   author: "Richard Wright"
   year: 1940
   genre: "Novel,Naturalism"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T19:45:00Z"
+
+  scores:
+    controversy: 9
+    philosophical_depth: 9
+    cultural_phenomenon: 7
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 8
+    structural_complexity: 6
+    social_roles: 10
+    total: 63
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.0
+      category: "high"
+    heat:
+      value: 7.8
+      category: "high"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Wright possibly murdered by CIA in Paris 1960, FBI surveillance from 1943-1963, mysterious visitor"
+        source: "dark_drama"
+      - id: "reality_wisdom_1"
+        type: "FACT"
+        credibility: 0.95
+        content: "Prophetically accurate predictions about police brutality, systemic racism, mass incarceration patterns"
+        source: "reality_wisdom"
+      - id: "symbols_meanings_2"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Complex symbolism network with rat as Bigger's alter ego, blindness representing social ignorance"
+        source: "symbols_meanings"
+      - id: "culture_impact_3"
+        type: "FACT"
+        credibility: 0.95
+        content: "First African American bestselling novel, changed American culture forever according to Irving Howe"
+        source: "culture_impact"
+      - id: "writing_innovation_4"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Revolutionary narrative techniques including tripartite symbolic structure and anti-romantic protagonist"
+        source: "writing_innovation"
+      - id: "facts_history_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Based on Robert Nixon case 1938, became template for protest literature inspiring Baldwin and Ellison"
+        source: "facts_history"
+      - id: "youth_digital_6"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Contemporary relevance through BLM movement connections and algorithmic bias discussions"
+        source: "youth_digital"
+      - id: "content_warnings_7"
+        type: "FACT"
+        credibility: 0.95
+        content: "Extreme content warnings needed: violence, rape, racism, ranked 71st most challenged book 1990-2000"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Foundational text in American literature, changed how race is discussed, inspired civil rights movement"
+        key_editions: ["Harper & Brothers 1940", "Library of America restored 1991", "Penguin Classics", "Harper Perennial"]
+        reception_notes: "First Book-of-the-Month Club selection by African American author, immediate bestseller"
+        educational_status: "Widely taught in universities, frequently challenged in high schools"
+        local_themes: ["American racial dynamics", "Jim Crow legacy", "Urban naturalism", "Protest literature tradition"]
+
+      pl:
+        cultural_impact: "Limited reception in communist Poland, academic interest in American Studies programs"
+        key_editions: ["PIW 1969 translation by Zofia Kierszys", "1980 second edition"]
+        reception_notes: "Available but not popular, published during PRL period as anti-Western critique"
+        educational_status: "Not in school canon, present in university American literature courses"
+        local_themes: ["Comparison with Polish wartime persecution", "Class struggle analysis", "Anti-American propaganda value"]
+
+      de:
+        cultural_impact: "Strong academic reception, connections to Frankfurt School critical theory"
+        key_editions: ["Zurich Humanitas 1941", "Kein & Aber complete 2019 edition", "Droemer Knaur 1993"]
+        reception_notes: "Published across East and West Germany during Cold War, intellectual discourse focus"
+        educational_status: "Standard text in German universities for American studies"
+        local_themes: ["Existentialist philosophy connections", "Critical theory applications", "Anti-fascism parallels"]
+
+      fr:
+        cultural_impact: "Embraced by Parisian intellectuals, influenced Négritude movement through Wright's exile"
+        key_editions: ["Gallimard Folio translation by Hélène Bokanowski"]
+        reception_notes: "Wright lived in Paris from 1946, connected to Sartre and existentialist circles"
+        educational_status: "Academic study in postcolonial literature courses"
+        local_themes: ["Existentialist interpretations", "Decolonization connections", "Anti-colonial solidarity"]
+
+      es:
+        cultural_impact: "Complex reception due to Franco dictatorship censorship, delayed Spanish publication"
+        key_editions: ["Argentina Sudamericana 1941 'Sangre negra'", "Spain Alianza 2022 complete edition"]
+        reception_notes: "Banned in Spain 1944-1987, available in Latin America throughout period"
+        educational_status: "Translation studies focus, comparative literature analysis"
+        local_themes: ["Censorship history", "Translation politics", "Social realism connections"]
+
+      pt:
+        cultural_impact: "Strong Brazilian reception with multiple translations, HBO adaptation impact"
+        key_editions: ["Monteiro Lobato 1944", "Companhia das Letras 2024 with academic commentary"]
+        reception_notes: "Sustained interest across generations, contemporary anti-racist discourse relevance"
+        educational_status: "University research subject, translation studies focus"
+        local_themes: ["Brazilian racial dynamics comparison", "Translation theory", "Social justice education"]
+
+      ja:
+        cultural_impact: "Post-war solidarity with African American experience, Wright's haiku connection"
+        key_editions: ["Hayakawa Shobo 1972", "Shinchosha 2022 complete translation"]
+        reception_notes: "Academic interest in Japanese universities, Wright wrote 4000+ haiku in final years"
+        educational_status: "Standard text in American literature curricula"
+        local_themes: ["Occupation era parallels", "Minority solidarity", "Cross-cultural literary influence"]
+
+      ko:
+        cultural_impact: "Contemporary relevance for multicultural Korean society discussions"
+        key_editions: ["Changbi Publishers 2012 by Kim Young-hee"]
+        reception_notes: "Academic reception focused on social justice themes and discrimination analysis"
+        educational_status: "University English and comparative literature programs"
+        local_themes: ["Multicultural society challenges", "Discrimination studies", "American studies context"]
+
+      hi:
+        cultural_impact: "Academic interest in postcolonial studies and Dalit literature comparisons"
+        key_editions: ["Available through Amazon India, no major vernacular translations found"]
+        reception_notes: "Comparative studies with Mulk Raj Anand's work, social justice themes"
+        educational_status: "English literature programs, comparative analysis with Indian social realism"
+        local_themes: ["Caste system parallels", "Postcolonial theory applications", "Social reform literature"]
+
+  formats:
+    social_perspective:
+      name: "social_perspective"
+      duration: 14
+      hosts:
+        host_a: "social historian analyzing context"
+        host_b: "contemporary critic examining power dynamics"
+      structure:
+        - segment: 1
+          time_range: "00:00-02:48"
+          topic: "historical_context"
+          lead: "host_a"
+          description: "FBI surveillance, author's death conspiracy theories, Wright's communist connections"
+        - segment: 2
+          time_range: "02:48-05:36"
+          topic: "power_dynamics"
+          lead: "host_b"
+          description: "Systemic racism analysis, prophetic accuracy about police brutality and mass incarceration"
+        - segment: 3
+          time_range: "05:36-08:24"
+          topic: "contemporary_relevance"
+          lead: "host_a"
+          description: "BLM movement connections, algorithmic bias discussions, racial trauma in digital age"
+        - segment: 4
+          time_range: "08:24-11:12"
+          topic: "social_transformation"
+          lead: "host_b"
+          description: "Revolutionary impact on American literature, protest novel template creation"
+        - segment: 5
+          time_range: "11:12-14:00"
+          topic: "global_influence"
+          lead: "host_a"
+          description: "International reception across cultures, continued relevance for social justice movements"
+      prompts:
+        host_a: "You are {male_name}, a social historian. Analyze 'Native Son' through lens of power, gender, class. Historical context: 1940 America, FBI surveillance, Wright's communist period, and the mysterious circumstances of his death in Paris."
+        host_b: "You are {female_name}, examining contemporary relevance. Connect to current social debates - BLM movement, police brutality, mass incarceration patterns that Wright prophetically predicted, and modern interpretations of systemic racism."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["extreme violence", "sexual violence", "racism and racial slurs", "psychological trauma", "historical police brutality"]
+    educational_elements: ["Naturalism genre characteristics", "Historical context of 1940s America", "Protest literature development", "Systemic racism analysis", "African American literary history"]
+    production_notes:
+      intro_style: "somber historical context setting"
+      transitions: "subtle musical bridges with tension"
+      outro_style: "reflective on continuing relevance"
+
+  overall_confidence: 0.88

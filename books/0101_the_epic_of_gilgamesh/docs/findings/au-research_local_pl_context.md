@@ -1,207 +1,207 @@
-# Lokalny kontekst kulturowy "Eposu o Gilgameszu" w Polsce
+# Local Cultural Context of "The Epic of Gilgamesh" in Poland
 
-## Streszczenie
-"Epos o Gilgameszu" - najstarszy znany epos świata z XVIII wieku p.n.e. - ma w Polsce bogatą tradycję recepcji, tłumaczeń i adaptacji. Ten najbardziej archaiczny z wielkich eposów światowych, opowiadający o przyjaźni, śmiertelności i poszukiwaniu nieśmiertelności przez mezopotamskiego króla, znalazł w polskiej kulturze miejsce zarówno w środowiskach akademickich, jak i w teatrze alternatywnym.
+## Summary
+"The Epic of Gilgamesh" - the world's oldest known epic from the 18th century BCE - has a rich tradition of reception, translations, and adaptations in Poland. This most archaic of the world's great epics, telling of friendship, mortality, and the quest for immortality by a Mesopotamian king, has found its place in Polish culture both in academic circles and alternative theater.
 
-## 1. POLSKIE TŁUMACZENIA I TŁUMACZE
+## 1. POLISH TRANSLATIONS AND TRANSLATORS
 
-### Antoni Lange - pierwszy polski tłumacz
-- **Antoni Lange** (1861-1929) - poeta, filozof, poliglota znający 15 języków
-- Autor pierwszego polskiego przekładu "Eposu o Gilgameszu"
-- Wydanie współczesne przez Wydawnictwo Armoryka (ISBN 978-83-62173-40-2)
-- Format: broszura, 62 strony (14,50 x 20,50 cm)
-- Tłumaczenie uznawane za bardziej tradycyjne i wierniejsze oryginałowi
+### Antoni Lange - first Polish translator
+- **Antoni Lange** (1861-1929) - poet, philosopher, polyglot knowing 15 languages
+- Author of the first Polish translation of "The Epic of Gilgamesh"
+- Contemporary edition by Armoryka Publishing (ISBN 978-83-62173-40-2)
+- Format: paperback, 62 pages (14.50 x 20.50 cm)
+- Translation considered more traditional and faithful to the original
 
-### Robert Stiller - twórcza interpretacja
-- **Robert Stiller** (1910-1973) - wybitny poeta, dramaturg i tłumacz
-- Pierwsze wydanie: 1967, drugie wydanie: 1980
-- Wydanie najnowsze: Etiuda 2015 (ISBN 978-83-7998-045-1, 160 stron)
-- Ilustracje: Roman Opałka
-- Podejście: "swobodna parafraza" a nie dosłowne tłumaczenie
-- Krytyka: "polonizacja eposu" oskarżana o grafomanię
-- Bazował na źródłach rosyjskich, angielskich, niemieckich, czeskich, francuskich i holenderskich
+### Robert Stiller - creative interpretation
+- **Robert Stiller** (1910-1973) - distinguished poet, playwright and translator
+- First edition: 1967, second edition: 1980
+- Latest edition: Etiuda 2015 (ISBN 978-83-7998-045-1, 160 pages)
+- Illustrations: Roman Opałka
+- Approach: "free paraphrase" rather than literal translation
+- Criticism: "polonization of the epic" accused of graphomania
+- Based on Russian, English, German, Czech, French and Dutch sources
 
-### Współczesne wydania akademickie
-- **Krystyna Łyczkowska i Piotr Puchta** - tłumaczenie z akadyjskiego (2002)
-- **Magdalena Kapełuś** - fragmenty z hetyckiego
-- Wydawnictwo Agade - "Antologia Literatury Mezopotamskiej"
-- Wersja "surowa bez wygładzania literackiego" dla badaczy
-- Przypisy i obszerne komentarze
-- Przedstawienie różnic między wersjami eposu z różnych regionów
+### Contemporary academic editions
+- **Krystyna Łyczkowska and Piotr Puchta** - translation from Akkadian (2002)
+- **Magdalena Kapełuś** - fragments from Hittite
+- Agade Publishing - "Anthology of Mesopotamian Literature"
+- "Raw version without literary smoothing" for researchers
+- Footnotes and extensive commentary
+- Presentation of differences between epic versions from different regions
 
-## 2. RECEPCJA AKADEMICKA I BADANIA NAUKOWE
+## 2. ACADEMIC RECEPTION AND SCIENTIFIC RESEARCH
 
-### Uniwersytet Warszawski
-- **Jan M. Kozłowski** - Katedra Literatury i Języków Klasycznych
-- Badania porównawcze: "Akadyjski Epos o Gilgameszu i Odyseja"
-- Roczniki Humanistyczne, Tom 63, 2015 - Filologia Klasyczna
-- Analiza wpływu mezopotamskiego eposu na literaturę grecką
+### University of Warsaw
+- **Jan M. Kozłowski** - Department of Classical Literature and Languages
+- Comparative studies: "Akkadian Epic of Gilgamesh and the Odyssey"
+- Humanities Yearbooks, Volume 63, 2015 - Classical Philology
+- Analysis of Mesopotamian epic's influence on Greek literature
 
-### Katolicki Uniwersytet Lubelski
-- Towarzystwo Naukowe KUL zaangażowane w studia gilgameszowe
-- Badania nad wpływem literatury bliskowschodniej na tradycję biblijną
+### Catholic University of Lublin
+- KUL Scientific Society engaged in Gilgamesh studies
+- Research on Near Eastern literature's influence on biblical tradition
 
-### Tradycja orientalistyczna
-- Od 1902 roku polscy uczeni włączają się w debatę nad związkami Odysei z eposem
-- Silna tradycja filologii klasycznej i orientalistyki
-- Przekłady bezpośrednio z języków starożytnych (akadyjski, hetycki)
+### Orientalist tradition
+- Since 1902, Polish scholars have joined the debate on Odyssey's connections to the epic
+- Strong tradition of classical philology and oriental studies
+- Translations directly from ancient languages (Akkadian, Hittite)
 
-## 3. TEATR I ADAPTACJE SCENICZNE
+## 3. THEATER AND STAGE ADAPTATIONS
 
 ### Song of the Goat Theatre (Teatr Pieśń Kozła)
-- **"Kroniki - obyczaj lamentacyjny"** (Chronicles - a lamentation)
-- Spektakl oparty na 5000-letniej historii Gilgamesza
-- Reżyser: Grzegorz Bral
-- Połączenie pieśni polifonicznych z precyzyjną ekspresją fizyczną
+- **"Chronicles - a lamentation"** (Kroniki - obyczaj lamentacyjny)
+- Performance based on Gilgamesh's 5000-year history
+- Director: Grzegorz Bral
+- Combination of polyphonic songs with precise physical expression
 
-#### Międzynarodowy sukces
-- **Festiwal w Edynburgu 2004**:
+#### International success
+- **Edinburgh Festival 2004**:
   - Best International Show
   - Scotsman Fringe First
   - Herald Angel
-- **Grand Prix** - Kaliskie Spotkania Teatralne 2003
-- Cała obsada aktorska nagrodzona za sztukę aktorską
+- **Grand Prix** - Kalisz Theater Meetings 2003
+- Entire cast awarded for acting performance
 
-#### Badania kulturowe
-- Zespół Teatru Pieśń Kozła badał kulturę żałoby
-- Podróże do regionu Epiru (granica Grecji i Albanii)
-- Odkryli żywą tradycję lamentów i pieśni polifonicznych
-- Fokus na lamencie Gilgamesza nad ciałem zmarłego przyjaciela
+#### Cultural research
+- Song of the Goat Theatre team researched mourning culture
+- Journeys to Epirus region (Greece-Albania border)
+- Discovered living tradition of laments and polyphonic songs
+- Focus on Gilgamesh's lament over his dead friend's body
 
-### Tematyka teatralna
-- Koncentracja na najsilniejszym wątku eposu
-- Żałoba po Enkidu jako uniwersalne doświadczenie
-- Refleksja nad własną śmiertelnością
-- Tradycyjne formy opłakiwania w kulturach śródziemnomorskich
+### Theatrical themes
+- Concentration on the epic's strongest thread
+- Mourning for Enkidu as universal experience
+- Reflection on one's own mortality
+- Traditional forms of mourning in Mediterranean cultures
 
-## 4. KONTEKST EDUKACYJNY
+## 4. EDUCATIONAL CONTEXT
 
-### Materiały dydaktyczne
-- Obecność na portalu Bryk.pl - ściągi i wypracowania dla uczniów
-- Dostępność w formatach PDF dla celów edukacyjnych
-- Wykorzystywanie w szkołach wyższych jako materiał pomocniczy
+### Teaching materials
+- Presence on Bryk.pl portal - study aids and essays for students
+- Availability in PDF formats for educational purposes
+- Use in higher education as supplementary material
 
-### Status w kanonie lektury
-- Nie wchodzi w skład obowiązkowego kanonu lektury szkolnej
-- Dostępny jako lektura uzupełniająca w liceum
-- Częściej studiowany na poziomie uniwersyteckim
-- Uznawany za jeden z najważniejszych pomników literatury światowej
+### Status in reading canon
+- Not part of mandatory school reading canon
+- Available as supplementary reading in high school
+- More often studied at university level
+- Recognized as one of the most important monuments of world literature
 
-### Trudności recepcji młodzieżowej
-- Początkowo trudny dla młodych czytelników
-- Lepiej odbierany przez dojrzałych czytelników
-- Problemy uniwersalne: przyjaźń, śmierć, sens życia
-- Wpływ na późniejszą literaturę europejską
+### Youth reception difficulties
+- Initially difficult for young readers
+- Better received by mature readers
+- Universal problems: friendship, death, meaning of life
+- Influence on later European literature
 
-## 5. KULTURA POPULARNA I WSPÓŁCZESNE NAWIĄZANIA
+## 5. POPULAR CULTURE AND CONTEMPORARY REFERENCES
 
-### Literatura współczesna
-- **Joan London** - powieść "Gilgamesz" (2001) przetłumaczona na polski
-- Wpływ na polskich pisarzy zajmujących się mitologią
-- Nawiązania w literaturze fantasy i popularnej
+### Contemporary literature
+- **Joan London** - novel "Gilgamesh" (2001) translated into Polish
+- Influence on Polish writers dealing with mythology
+- References in fantasy and popular literature
 
-### Media i internet
-- Aktywne dyskusje na portalach literackich (LubimyCzytac.pl)
-- Grupy dyskusyjne o literaturze starożytnej
-- Materiały edukacyjne w bibliotekach cyfrowych
-- Zainteresowanie w kontekście literatury światowej
+### Media and internet
+- Active discussions on literary portals (LubimyCzytac.pl)
+- Discussion groups about ancient literature
+- Educational materials in digital libraries
+- Interest in the context of world literature
 
-## 6. KRAKÓW I MAŁOPOLSKA - KONTEKST REGIONALNY
+## 6. KRAKÓW AND LESSER POLAND - REGIONAL CONTEXT
 
-### Muzeum Archeologiczne w Krakowie
-- Najstarsze muzeum w Krakowie
-- Jedno z największych instytucji tego typu w tej części Europy
-- Ekspozycja "Prehistoria i średniowiecze Małopolski"
-- Zbiory egipskie: sarkofagi, mumie - kontekst bliskowschodni
+### Archaeological Museum in Kraków
+- Oldest museum in Kraków
+- One of the largest institutions of this type in this part of Europe
+- Exhibition "Prehistory and Middle Ages of Lesser Poland"
+- Egyptian collections: sarcophagi, mummies - Near Eastern context
 
-### Możliwości wystawiennicze
-- Zremodernizowane przestrzenie wystawiennicze (do grudnia 2026)
-- 700 m² nowej przestrzeni ekspozycyjnej
-- Nowoczesna sala konferencyjna
-- Potencjał dla wystaw kultury mezopotamskiej
+### Exhibition possibilities
+- Renovated exhibition spaces (until December 2026)
+- 700 m² of new exhibition space
+- Modern conference hall
+- Potential for Mesopotamian culture exhibitions
 
-### Dziedzictwo orientalistyczne
-- Tradycja badań nad Bliskim Wschodem w Uniwersytecie Jagiellońskim
-- Kolekcje orientalne w bibliotekach krakowskich
-- Kontekst historyczny badań nad cywilizacjami starożytnymi
+### Orientalist heritage
+- Tradition of Near Eastern studies at Jagiellonian University
+- Oriental collections in Kraków libraries
+- Historical context of ancient civilization research
 
-## 7. PROBLEMY KULTUROWE I JĘZYKOWE W TŁUMACZENIU
+## 7. CULTURAL AND LINGUISTIC TRANSLATION PROBLEMS
 
-### Wyzwania translatorskie
-- Przekład z języków zmarłych (akadyjski, sumeryjski)
-- Luki w tekście - konieczność rekonstrukcji
-- Różne wersje w różnych regionach starożytnej Mezopotamii
-- Kulturowe pojęcia nieznane współczesnym czytelnikom
+### Translation challenges
+- Translation from dead languages (Akkadian, Sumerian)
+- Text gaps - necessity of reconstruction
+- Different versions in different regions of ancient Mesopotamia
+- Cultural concepts unknown to contemporary readers
 
-### Strategie adaptacyjne
-- **Stiller**: polonizacja i adaptacja kulturowa
-- **Lange**: wierność oryginałowi
-- **Łyczkowska/Puchta**: akademicka precyzja z komentarzami
-- Różne podejścia do imion własnych i realiów kulturowych
+### Adaptation strategies
+- **Stiller**: polonization and cultural adaptation
+- **Lange**: fidelity to the original
+- **Łyczkowska/Puchta**: academic precision with commentary
+- Different approaches to proper names and cultural realities
 
-### Recepcja krytyczna
-- Dyskusje o granicach wolności translatorskiej
-- Problem przedstawienia kultur starożytnych współczesnemu czytelnikowi
-- Balans między dostępnością a wiernością historyczną
+### Critical reception
+- Discussions about the limits of translational freedom
+- Problem of presenting ancient cultures to contemporary readers
+- Balance between accessibility and historical fidelity
 
-## 8. KONTEKST RELIGIJNY I FILOZOFICZNY
+## 8. RELIGIOUS AND PHILOSOPHICAL CONTEXT
 
-### Podobieństwa biblijne
-- Historia potopu - analogie z opowieścią o Noem
-- Tematyka odkupienia i sądu boskiego
-- Zainteresowanie w środowiskach teologicznych
-- Badania nad wpływem na tradycję judeochrześcijańską
+### Biblical similarities
+- Flood story - analogies with Noah's account
+- Themes of redemption and divine judgment
+- Interest in theological circles
+- Research on influence on Judeo-Christian tradition
 
-### Filozoficzna recepcja
-- Uniwersalne pytania o śmierć i nieśmiertelność
-- Problem władzy i jej korupcji
-- Tema przyjaźni jako fundamentu ludzkości
-- Stosunek do natury i cywilizacji
+### Philosophical reception
+- Universal questions about death and immortality
+- Problem of power and its corruption
+- Theme of friendship as humanity's foundation
+- Relationship to nature and civilization
 
-## 9. PERSPEKTYWY ROZWOJU
+## 9. DEVELOPMENT PERSPECTIVES
 
-### Potencjał teatralny
-- Sukces "Kronik" Teatru Pieśń Kozła otwiera możliwości
-- Inne teatry eksperymentalne mogą się zainteresować
-- Potencjał dla adaptacji operowych i muzycznych
-- Międzykulturowy dialog z tradycjami śródziemnomorskimi
+### Theatrical potential
+- Success of Song of the Goat Theatre's "Chronicles" opens possibilities
+- Other experimental theaters may become interested
+- Potential for operatic and musical adaptations
+- Intercultural dialogue with Mediterranean traditions
 
-### Kontekst akademicki
-- Rosnące zainteresowanie literaturą bliskowschodnią
-- Rozwój orientalistyki i assyriologii
-- Możliwości współpracy z instytucjami archeologicznymi
-- Potencjał badań interdyscyplinarnych
+### Academic context
+- Growing interest in Near Eastern literature
+- Development of oriental studies and Assyriology
+- Possibilities for cooperation with archaeological institutions
+- Potential for interdisciplinary research
 
-### Edukacja kulturalna
-- Miejsce w programach uniwersyteckich
-- Warsztat dla nauczycieli literatury światowej
-- Kontekst historii cywilizacji i kultur
-- Możliwości wykorzystania w edukacji humanistycznej
+### Cultural education
+- Place in university programs
+- Workshops for world literature teachers
+- Context of civilization and culture history
+- Possibilities for use in humanistic education
 
-## 10. UNIKALNE POLSKIE PERSPEKTYWY
+## 10. UNIQUE POLISH PERSPECTIVES
 
-### Doświadczenie historyczne
-- Polskie doświadczenie utraty i odbudowy kultury
-- Rozumienie dla tematyki zniszczenia i przetrwania
-- Wrażliwość na kwestie tożsamości kulturowej
-- Historyczne parallele z losami starożytnych cywilizacji
+### Historical experience
+- Polish experience of cultural loss and reconstruction
+- Understanding for themes of destruction and survival
+- Sensitivity to cultural identity issues
+- Historical parallels with ancient civilizations' fates
 
-### Tradycja lamentacyjna
-- Bogate tradycje żałobne w kulturze polskiej
-- Zrozumienie dla rytuałów opłakiwania
-- Pieśni żałobne i tradycja oral history
-- Wrażliwość na ekspresję żałoby w teatrze
+### Lamentational tradition
+- Rich mourning traditions in Polish culture
+- Understanding for mourning rituals
+- Funeral songs and oral history tradition
+- Sensitivity to grief expression in theater
 
-### Kontekst filozoficzny
-- Polski romantyzm i poszukiwanie nieśmiertelności
-- Tradycja mesjaniczna i heroiczna
-- Rozumienie dla dylematów władzy i odpowiedzialności
-- Uniwersalne pytania o sens ludzkiego istnienia
+### Philosophical context
+- Polish Romanticism and quest for immortality
+- Messianic and heroic tradition
+- Understanding for dilemmas of power and responsibility
+- Universal questions about human existence's meaning
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Epos o Gilgameszu" w Polsce to nie tylko przekłady literackie, ale bogata tradycja interpretacji akademickich, artystycznych i kulturowych. Od pionierskich tłumaczeń Antoniego Lange, przez twórczą adaptację Roberta Stillera, po współczesne badania filologiczne i wybitną adaptację teatralną Song of the Goat Theatre - polska recepcja tego najstarszego eposu świata pokazuje głębokie zrozumienie uniwersalnych ludzkich problemów.
+"The Epic of Gilgamesh" in Poland is not only literary translations, but a rich tradition of academic, artistic and cultural interpretations. From Antoni Lange's pioneering translations, through Robert Stiller's creative adaptation, to contemporary philological research and Song of the Goat Theatre's outstanding theatrical adaptation - Polish reception of this world's oldest epic shows deep understanding of universal human problems.
 
-Szczególnie godna uwagi jest teatralna interpretacja "Kronik" Teatru Pieśń Kozła, która zyskała międzynarodowe uznanie i pokazała, jak starożytne formy opłakiwania mogą przemówić do współczesnej publiczności. To polskie odkrycie żywych tradycji lamentacyjnych w regionie śródziemnomorskim i ich wykorzystanie w teatralnej interpretacji mezopotamskiego eposu stanowi unikalny wkład w światową recepcję tego dzieła.
+Particularly noteworthy is the theatrical interpretation "Chronicles" by Song of the Goat Theatre, which gained international recognition and showed how ancient forms of mourning can speak to contemporary audiences. This Polish discovery of living lamentational traditions in the Mediterranean region and their use in theatrical interpretation of the Mesopotamian epic constitutes a unique contribution to the world reception of this work.
 
-Akademicka tradycja polskich orientalistów i filologów klasycznych, tworząca przekłady bezpośrednio z języków starożytnych, zapewnia wysoki poziom polonskich wydań eposu i jego naukową interpretację. To połączenie głębokiej wiedzy filologicznej z artystyczną wrażliwością czyni polską recepcję "Eposu o Gilgameszu" szczególnie bogatą i wielowymiarową.
+The academic tradition of Polish orientalists and classical philologists, creating translations directly from ancient languages, ensures high quality of Polish editions of the epic and its scholarly interpretation. This combination of deep philological knowledge with artistic sensitivity makes Polish reception of "The Epic of Gilgamesh" particularly rich and multidimensional.

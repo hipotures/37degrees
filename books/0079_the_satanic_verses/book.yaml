@@ -4,3 +4,182 @@ book_info:
   author: "Salman Rushdie"
   year: 1988
   genre: "Magical realism,Fantasy"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T15:45:00Z"
+
+  scores:
+    controversy: 10
+    philosophical_depth: 9
+    cultural_phenomenon: 2
+    contemporary_reception: 5
+    relevance: 9
+    innovation: 9
+    structural_complexity: 8
+    social_roles: 9
+    total: 71
+    percentile: 95
+
+  composite_scores:
+    depth:
+      value: 8.8
+      category: "high"
+    heat:
+      value: 6.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "dark_drama_0"
+        type: "FACT"
+        credibility: 0.95
+        content: "Global fatwa issued by Ayatollah Khomeini calling for author's death, still active after 35 years"
+        source: "dark_drama"
+      - id: "symbols_meanings_1"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Multiple interpretive layers: postcolonial, religious, identity, transformation as metaphor"
+        source: "symbols_meanings"
+      - id: "culture_impact_2"
+        type: "FACT"
+        credibility: 0.95
+        content: "Book became symbol of free speech vs religious sensitivity clash"
+        source: "culture_impact"
+      - id: "youth_digital_3"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Themes resonate with Gen Z identity crisis and digital culture debates"
+        source: "youth_digital"
+      - id: "reality_wisdom_4"
+        type: "FACT"
+        credibility: 0.95
+        content: "Predicted clash of civilizations, cancel culture, and religious fundamentalism"
+        source: "reality_wisdom"
+      - id: "writing_innovation_5"
+        type: "FACT"
+        credibility: 0.95
+        content: "Created chutnification technique and new postcolonial narrative form"
+        source: "writing_innovation"
+      - id: "facts_history_6"
+        type: "FACT"
+        credibility: 0.95
+        content: "Multiple translators murdered or attacked; bookstores bombed worldwide"
+        source: "facts_history"
+      - id: "content_warnings_7"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Most controversial book in world literature history with extreme content warnings"
+        source: "content_warnings"
+
+    localized:
+      en:
+        cultural_impact: "Became foundational text of free speech debates in English-speaking democracies"
+        key_editions: ["Viking first edition (1988)", "Vintage paperback", "Academic editions"]
+        reception_notes: "Strong critical acclaim despite controversy; banned from many bookstores"
+        educational_status: "Essential reading in postcolonial literature courses"
+        local_themes: ["Free speech absolutism", "Postcolonial criticism", "Immigration literature"]
+
+      pl:
+        cultural_impact: "Symbol of free speech in post-transformation Poland; compared to Bulgakov"
+        key_editions: ["Anonymous 1992 edition", "Dom Wydawniczy Rebis 2013 translation"]
+        reception_notes: "Publication marked democratic values transition"
+        educational_status: "University-level study only, not in school curriculum"
+        local_themes: ["Post-communist freedom", "Magical realism tradition", "Democratic values"]
+
+      de:
+        cultural_impact: "Unique collective publishing solution; 100+ publishers united for freedom"
+        key_editions: ["Artikel 19 Verlag collective edition (1989)", "Penguin Munich (2017)"]
+        reception_notes: "Innovative risk-sharing publishing model created"
+        educational_status: "Studied in postcolonial and comparative literature"
+        local_themes: ["Collective responsibility", "Publishing courage", "Cultural memory"]
+
+      fr:
+        cultural_impact: "Examination of laïcité and religious tolerance in French context"
+        key_editions: ["French translations available", "Academic study editions"]
+        reception_notes: "Analyzed through French intellectual tradition"
+        educational_status: "Part of comparative literature studies"
+        local_themes: ["Secular values", "Religious dialogue", "Cultural integration"]
+
+      es:
+        cultural_impact: "Connected to Spanish colonial history and cultural dialogue"
+        key_editions: ["Spanish translations", "Latin American editions"]
+        reception_notes: "Studied in context of magical realism tradition"
+        educational_status: "University postcolonial literature programs"
+        local_themes: ["Colonial legacy", "Magical realism roots", "Cultural hybridity"]
+
+      pt:
+        cultural_impact: "Resonance with Portuguese colonial experience and migration"
+        key_editions: ["Portuguese translations", "Brazilian academic editions"]
+        reception_notes: "Examined in context of Lusophone literature"
+        educational_status: "Comparative literature and postcolonial studies"
+        local_themes: ["Colonial memory", "Migration narratives", "Cultural mixing"]
+
+      ja:
+        cultural_impact: "Tragic connection through murder of Japanese translator Hitoshi Igarashi"
+        key_editions: ["Japanese translation (translator murdered)", "Memorial editions"]
+        reception_notes: "Symbol of dangers faced by translators and publishers"
+        educational_status: "Studied as case of literary persecution"
+        local_themes: ["Translator martyrdom", "Cultural bridge-building", "Literary courage"]
+
+      ko:
+        cultural_impact: "Examined in context of Korea's own struggles with censorship"
+        key_editions: ["Korean translations", "Academic study materials"]
+        reception_notes: "Connected to Korea's democratization experience"
+        educational_status: "Comparative literature and censorship studies"
+        local_themes: ["Censorship resistance", "Democratic transition", "Cultural freedom"]
+
+      hi:
+        cultural_impact: "Complex reception in India - banned but culturally significant"
+        key_editions: ["Import ban (lifted 2024)", "Underground circulation"]
+        reception_notes: "Paradox of Indian author banned in India"
+        educational_status: "Academic study despite official restrictions"
+        local_themes: ["National identity", "Religious sensitivity", "Cultural authenticity"]
+
+  formats:
+    narrative_reconstruction:
+      name: "narrative_reconstruction"
+      duration: 15
+      hosts:
+        host_a: "investigative reporter asking questions"
+        host_b: "eyewitness describing events and emotions"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:00"
+          topic: "setup"
+          lead: "host_a"
+          description: "The fall from grace - examining the explosive controversy that defined an era"
+        - segment: 2
+          time_range: "03:00-06:00"
+          topic: "key_events"
+          lead: "host_b"
+          description: "Inside the literary innovation - magical realism meets postcolonial identity"
+        - segment: 3
+          time_range: "06:00-09:00"
+          topic: "revelations"
+          lead: "host_a"
+          description: "Prophetic vision - how the book predicted 21st century cultural conflicts"
+        - segment: 4
+          time_range: "09:00-12:00"
+          topic: "impact"
+          lead: "host_b"
+          description: "Global consequences - from fatwa to freedom of speech symbol"
+        - segment: 5
+          time_range: "12:00-15:00"
+          topic: "synthesis"
+          lead: "host_a"
+          description: "Legacy and relevance - why this controversial masterpiece still matters"
+      prompts:
+        host_a: "You are {male_name}, an investigative reporter examining the most controversial book in world literature. Ask probing questions about the fatwa, the literary innovations, and the ongoing relevance of 'The Satanic Verses'. Seek to understand how one book changed global debates about free speech and religious tolerance."
+        host_b: "You are {female_name}, someone who has deeply studied this landmark work. Describe the emotional impact of Rushdie's magical realism, the revolutionary narrative techniques, and the human cost of literary courage. Bring to life the transformative power and tragic consequences of this extraordinary novel."
+
+  metadata:
+    target_audience: "18+"
+    content_warnings: ["historical violence", "religious controversy", "blasphemy discussions", "death threats", "terrorism references"]
+    educational_elements: ["postcolonial literature techniques", "magical realism analysis", "free speech history", "religious tolerance debates", "narrative innovation", "cultural hybridity concepts"]
+    production_notes:
+      intro_style: "mysterious and contemplative"
+      transitions: "subtle musical bridges with Middle Eastern influences"
+      outro_style: "reflective with emphasis on ongoing relevance"
+
+  overall_confidence: 0.91

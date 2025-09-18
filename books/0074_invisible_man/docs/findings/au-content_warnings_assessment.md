@@ -1,193 +1,193 @@
-# Ocena Content Warnings: "Niewidzialny człowiek" (Invisible Man) - Ralph Ellison
+# Content Warnings Assessment: "Invisible Man" - Ralph Ellison
 
-**Data analizy**: 29 sierpnia 2025  
-**Książka**: "Invisible Man" (1952) - Ralph Ellison  
-**Status**: Kompleksowa analiza 8 agentów specjalistycznych  
+**Analysis Date**: August 29, 2025
+**Book**: "Invisible Man" (1952) - Ralph Ellison
+**Status**: Comprehensive analysis of 8 specialist agents
 
 ## Executive Summary
 
-Po przeanalizowaniu wszystkich dokumentów researchu od 8 agentów specjalistycznych i porównaniu z aktualnymi wytycznymi platform społecznościowych na 2025 rok, "Invisible Man" Ralpha Ellisona przedstawia **ŚREDNIE RYZYKO** dla większości platform z **WYSOKIM RYZYKIEM** dla Facebook/Instagram ze względu na liberalizację polityk hate speech w 2025 roku.
+After analyzing all research documents from 8 specialist agents and comparing them with current social media platform guidelines for 2025, Ralph Ellison's "Invisible Man" presents **MEDIUM RISK** for most platforms with **HIGH RISK** for Facebook/Instagram due to liberalized hate speech policies in 2025.
 
-## 🎯 Macierz Problemowych Tematów vs Platformy
+## 🎯 Problematic Topics vs Platform Matrix
 
-| **Problematyczny Temat** | **Facebook** | **Instagram** | **YouTube** | **TikTok** | **Spotify** | **Kick** |
+| **Problematic Topic** | **Facebook** | **Instagram** | **YouTube** | **TikTok** | **Spotify** | **Kick** |
 |-------------------------|--------------|---------------|-------------|------------|-------------|----------|
-| **Przemoc rasowa (Battle Royal)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Treści seksualne (scena z białą kobietą)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
-| **Krytyka komunizmu (Bractwo)** | 🔴 HIGH | 🔴 HIGH | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Język wulgarny i rasistowski** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Manipulacja polityczna** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Samobójcze myśli/przemieszanie** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Kontrowersje historyczne** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Racial violence (Battle Royal)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Sexual content (white woman scene)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🔴 HIGH | 🟢 LOW | 🟢 LOW |
+| **Criticism of communism (Brotherhood)** | 🔴 HIGH | 🔴 HIGH | 🟢 LOW | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Vulgar and racist language** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Political manipulation** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Suicidal thoughts/displacement** | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Historical controversies** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
 
-## 🔥 Najgorszsze Content Hazards
+## 🔥 Worst Content Hazards
 
-### 1. BATTLE ROYAL - Scena Przemocy Rasowej
-**Ryzyko**: 🔴 WYSOKIE na Facebook/Instagram, 🟡 ŚREDNIE pozostałe
-- **Problem**: Graficzny opis przemocy wobec młodych czarnoskórych mężczyzn
-- **Cytat**: "Wszyscy walczyli histerycznie [...] krew spływała z nosa i z ust"
-- **Meta Platform Risk**: Nowe zasady 2025 pozwalają na więcej kontrowersji, ale przemoc rasowa pozostaje zakazana
-- **Rozwiązanie**: Content warning + kontekst edukacyjny + focus na historycznym znaczeniu
+### 1. BATTLE ROYAL - Racial Violence Scene
+**Risk**: 🔴 HIGH on Facebook/Instagram, 🟡 MEDIUM others
+- **Problem**: Graphic description of violence against young Black men
+- **Quote**: "Everyone fought hysterically [...] blood flowed from nose and mouth"
+- **Meta Platform Risk**: New 2025 rules allow more controversy, but racial violence remains banned
+- **Solution**: Content warning + educational context + focus on historical significance
 
-### 2. Treści Seksualne - Scena z Nagą Białą Kobietą
-**Ryzyko**: 🔴 WYSOKIE na Facebook/Instagram/TikTok
-- **Problem**: Opisana scena przymusowego oglądania nagiej białej kobiety przez czarnoskórych studentów
-- **Kontekst**: Symbol rasistowskiej emaskulacji i upokorzenia
-- **TikTok Risk**: Bardzo restrykcyjne zasady dot. treści seksualnych
-- **Rozwiązanie**: POMINĄĆ w audio albo MOCNE content warnings
+### 2. Sexual Content - Nude White Woman Scene
+**Risk**: 🔴 HIGH on Facebook/Instagram/TikTok
+- **Problem**: Described scene of forced viewing of naked white woman by Black students
+- **Context**: Symbol of racist emasculation and humiliation
+- **TikTok Risk**: Very restrictive rules regarding sexual content
+- **Solution**: OMIT in audio or STRONG content warnings
 
-### 3. Język N-word i Inne Slurs
-**Ryzyko**: 🔴 EKSTREMALNE na wszystkich platformach
-- **Problem**: Książka zawiera historyczne rasistowskie słowa używane w kontekście okresu
-- **YouTube**: Automatyczne flagi, nawet w kontekście edukacyjnym
-- **Rozwiązanie**: ZASTĄPIĆ przez "n-word" lub "rasistowskie określenie"
+### 3. N-word and Other Slurs
+**Risk**: 🔴 EXTREME on all platforms
+- **Problem**: Book contains historical racist words used in period context
+- **YouTube**: Automatic flags, even in educational context
+- **Solution**: REPLACE with "n-word" or "racist term"
 
-## 📱 Rekomendacje Platform-Specific
+## 📱 Platform-Specific Recommendations
 
 ### 🔵 FACEBOOK/INSTAGRAM (🔴 HIGH RISK)
-**Status**: BARDZO WYSOKIE RYZYKO ze względu na zmiany policy 2025
+**Status**: VERY HIGH RISK due to 2025 policy changes
 
-#### ❌ NIE PUBLIKUJ:
-- Bezpośrednich cytatów zawierających słowa rasistowskie
-- Szczegółowych opisów przemocy z battle royal
-- Treści seksualnych nawet w kontekście edukacyjnym
-- Krytyki komunizmu (może być odebrana jako polityczna)
+#### ❌ DO NOT POST:
+- Direct quotes containing racist words
+- Detailed descriptions of battle royal violence
+- Sexual content even in educational context
+- Criticism of communism (may be perceived as political)
 
-#### ✅ BEZPIECZNE PODEJŚCIE:
-- Focus na uniwersalne tematy tożsamości
-- "Książka o poszukiwaniu własnej tożsamości w trudnym okresie amerykańskiej historii"
-- Użyj Community Notes system jako buffer
-- **AGE RATING**: 18+ obowiązkowo
+#### ✅ SAFE APPROACH:
+- Focus on universal themes of identity
+- "A book about searching for one's identity in a difficult period of American history"
+- Use Community Notes system as buffer
+- **AGE RATING**: 18+ mandatory
 
-#### 🎯 PRZYKŁADOWY BEZPIECZNY POST:
-*"Ralph Ellison w 'Niewidzialnym człowieku' (1952) eksploruje uniwersalne tematy tożsamości i niewidzialności społecznej. Ta nagrodzona National Book Award powieść pozostaje aktualna w dyskusjach o tym, jak jednostki mogą czuć się niezauważone w społeczeństwie. #LiteraturaKlasyczna #Tożsamość"*
+#### 🎯 EXAMPLE SAFE POST:
+*"Ralph Ellison in 'Invisible Man' (1952) explores universal themes of identity and social invisibility. This National Book Award-winning novel remains relevant in discussions about how individuals can feel unnoticed in society. #ClassicLiterature #Identity"*
 
-### 🎥 YOUTUBE (🟡 MEDIUM RISK) 
-**Status**: ŚREDNIE RYZYKO przy zachowaniu zasad 2025
+### 🎥 YOUTUBE (🟡 MEDIUM RISK)
+**Status**: MEDIUM RISK following 2025 rules
 
-#### ✅ WYMAGANIA OBOWIĄZKOWE (2025 Policy):
-- **LUDZKA NARRACJA** - żadnego text-to-speech
-- **ORYGINALNE KOMENTARZE** - nie tylko streszczenie
-- **STORYTELLING APPROACH** - opowiadaj historie, nie recytuj fakty
-- **EDUCATIONAL FRAMING** - jasno edukacyjny kontekst
+#### ✅ MANDATORY REQUIREMENTS (2025 Policy):
+- **HUMAN NARRATION** - no text-to-speech
+- **ORIGINAL COMMENTARY** - not just summary
+- **STORYTELLING APPROACH** - tell stories, don't recite facts
+- **EDUCATIONAL FRAMING** - clearly educational context
 
-#### 🟡 OSTROŻNOŚĆ WYMAGANA:
-- Unikaj n-word - zastąp przez "rasistowskie określenie"
-- Battle royal scene: opisuj jako "scena przemocy historycznej"
-- Treści seksualne: "niewłaściwe zachowanie wobec kobiet"
-- **Dodaj content warning** na początku video
+#### 🟡 CAUTION REQUIRED:
+- Avoid n-word - replace with "racist term"
+- Battle royal scene: describe as "historical violence scene"
+- Sexual content: "inappropriate behavior toward women"
+- **Add content warning** at beginning of video
 
-#### 💡 BEZPIECZNA STRATEGIA:
-1. **Intro z warning**: "Ta książka zawiera trudne tematy historyczne związane z rasizmem w Ameryce lat 30-50"
-2. **Focus na literackie znaczenie**: "Ellison używa tych scen jako krytyki społecznej"
-3. **Współczesne connections**: "Te tematy rezonują z dzisiejszymi dyskusjami o równości"
-4. **LUDZKI GŁOS**: Obowiązkowo twoja narracja
+#### 💡 SAFE STRATEGY:
+1. **Intro with warning**: "This book contains difficult historical topics related to racism in 1930s-50s America"
+2. **Focus on literary significance**: "Ellison uses these scenes as social criticism"
+3. **Contemporary connections**: "These themes resonate with today's equality discussions"
+4. **HUMAN VOICE**: Mandatory your narration
 
 ### 📱 TIKTOK (🟡 MEDIUM RISK)
-**Status**: ŚREDNIE RYZYKO przy zachowaniu 1+ minuty dla monetyzacji
+**Status**: MEDIUM RISK maintaining 1+ minutes for monetization
 
-#### ✅ BEZPIECZNE PODEJŚCIE:
-- **MINIMUM 60 SEKUND** dla monetizacji
-- Focus na "academic weapon" trend
-- Połącz z BookTok i #DarkAcademia
-- Używaj tylko uniwersalnych tematów
+#### ✅ SAFE APPROACH:
+- **MINIMUM 60 SECONDS** for monetization
+- Focus on "academic weapon" trend
+- Connect with BookTok and #DarkAcademia
+- Use only universal themes
 
 #### 🎯 VIRAL CONTENT IDEAS:
-1. **"Academic Weapon Books That Hit Different"** - pokaz "Invisible Man" jako sophisticated choice
-2. **"Books That Predicted Modern Problems"** - niewidzialność w social media era
-3. **"Dark Academia Vibes: Classic Literature"** - estetyczne prezentowanie
+1. **"Academic Weapon Books That Hit Different"** - show "Invisible Man" as sophisticated choice
+2. **"Books That Predicted Modern Problems"** - invisibility in social media era
+3. **"Dark Academia Vibes: Classic Literature"** - aesthetic presentation
 4. **"This 1952 Book Explains Gen Z Identity Crisis"** - modern parallels
 
-#### ❌ UNIKAJ NA TIKTOK:
-- Jakichkolwiek rasistowskich słów (natychmiastowy ban)
-- Szczegółów scen przemocy lub seksualnych
-- Politycznych interpretacji
+#### ❌ AVOID ON TIKTOK:
+- Any racist words (instant ban)
+- Details of violence or sexual scenes
+- Political interpretations
 
 ### 🎵 SPOTIFY (🟢 LOW RISK)
-**Status**: NAJNIŻSZE RYZYKO - najbardziej creator-friendly
+**Status**: LOWEST RISK - most creator-friendly
 
-#### ✅ ZALECANE:
-- **VIDEO PODCAST FORMAT** dla maksymalnego revenue
-- Pełna swoboda tematyczna (z content warnings)
-- Możliwość głębokiej analizy bez cenzury
+#### ✅ RECOMMENDED:
+- **VIDEO PODCAST FORMAT** for maximum revenue
+- Full thematic freedom (with content warnings)
+- Ability for deep analysis without censorship
 - Cross-platform promotion
 
-#### 💡 STRATEGIA ZAWARTOŚCI:
-- Odcinki po 45-60 minut z deep dive
-- Content warning na początku
-- Contextual discussions o historii USA
-- **Najlepsza platforma dla kompletnej analizy**
+#### 💡 CONTENT STRATEGY:
+- 45-60 minute episodes with deep dive
+- Content warning at beginning
+- Contextual discussions about US history
+- **Best platform for complete analysis**
 
 ### 📺 KICK (🟢 LOW RISK)
-**Status**: BARDZO NISKIE RYZYKO - creator-first platform
+**Status**: VERY LOW RISK - creator-first platform
 
-#### ✅ MAKSYMALNA WOLNOŚĆ:
+#### ✅ MAXIMUM FREEDOM:
 - 95/5 revenue split
-- Najmniej restrykcyjna polityka content
-- Możliwość live discussions bez cenzury
-- Najlepsze monetization potential
+- Least restrictive content policy
+- Ability for live discussions without censorship
+- Best monetization potential
 
-#### 💡 ZALECENIA:
+#### 💡 RECOMMENDATIONS:
 - **LIVE STREAM** book discussions
 - Interactive community building
-- Real-time Q&A z widzami
-- **Idealny dla controversial discussions**
+- Real-time Q&A with viewers
+- **Ideal for controversial discussions**
 
-## 🎯 Klasyfikacja Wiekowa - Platform Matrix
+## 🎯 Age Classification - Platform Matrix
 
-| **Grupa Wiekowa** | **Facebook** | **Instagram** | **YouTube** | **TikTok** | **Spotify** | **Kick** |
+| **Age Group** | **Facebook** | **Instagram** | **YouTube** | **TikTok** | **Spotify** | **Kick** |
 |------------------|--------------|---------------|-------------|------------|-------------|----------|
-| **13-15 lat** | ❌ NO | ❌ NO | ⚠️ Z RODZICAMI | ❌ NO | ✅ Z WARNING | ✅ Z WARNING |
-| **16-17 lat** | ⚠️ RESTRICTED | ⚠️ RESTRICTED | ✅ Z WARNING | ⚠️ SELECTIVE | ✅ OK | ✅ OK |
-| **18+ lat** | ⚠️ Z OSTROŻNOŚCIĄ | ⚠️ Z OSTROŻNOŚCIĄ | ✅ OK | ✅ OK | ✅ FULL OK | ✅ FULL OK |
+| **13-15 years** | ❌ NO | ❌ NO | ⚠️ WITH PARENTS | ❌ NO | ✅ WITH WARNING | ✅ WITH WARNING |
+| **16-17 years** | ⚠️ RESTRICTED | ⚠️ RESTRICTED | ✅ WITH WARNING | ⚠️ SELECTIVE | ✅ OK | ✅ OK |
+| **18+ years** | ⚠️ WITH CAUTION | ⚠️ WITH CAUTION | ✅ OK | ✅ OK | ✅ FULL OK | ✅ FULL OK |
 
-## 🚨 Obowiązkowe Content Warnings
+## 🚨 Mandatory Content Warnings
 
-### UNIWERSALNE OSTRZEŻENIA (wszystkie platformy):
+### UNIVERSAL WARNINGS (all platforms):
 ```
-⚠️ UWAGA: Ta książka zawiera:
-• Historyczne sceny przemocy rasowej
-• Język i opisywanie dyskryminacji z lat 30-50.
-• Tematy manipulacji politycznej i społecznej
-• Dyskusje o tożsamości i wykluczeniu społecznym
-• Treści wymagające dojrzałego podejścia historycznego
+⚠️ WARNING: This book contains:
+• Historical scenes of racial violence
+• Language and descriptions of discrimination from the 1930s-50s
+• Themes of political and social manipulation
+• Discussions of identity and social exclusion
+• Content requiring mature historical approach
 
-Książka jest analizowana w kontekście edukacyjnym 
-jako ważne dzieło literatury amerykańskiej.
+The book is analyzed in educational context
+as an important work of American literature.
 ```
 
-### WERSJA SKRÓCONA (social media):
+### SHORT VERSION (social media):
 ```
-📚 "Invisible Man" - content warning: 
-Książka zawiera trudne tematy historyczne. 
-Dyskusja w kontekście edukacyjnym. 18+
+📚 "Invisible Man" - content warning:
+Book contains difficult historical topics.
+Discussion in educational context. 18+
 ```
 
 ## 💡 Education-Friendly Approaches
 
 ### 1. REFRAMING DIFFICULT TOPICS
 
-#### ZAMIAST: "W battle royal czarni studenci są zmuszani do walki"
-#### POWIEDZ: "Ellison używa metafory sportowej do krytyki systemów, które stawiają ludzi przeciw sobie nawzajem"
+#### INSTEAD OF: "In battle royal Black students are forced to fight"
+#### SAY: "Ellison uses a sports metaphor to critique systems that pit people against each other"
 
-#### ZAMIAST: "Scena z nagą białą kobietą"
-#### POWIEDZ: "Autor przedstawia scenę demonstrujący manipulację i upokorzenie jako narzędzia kontroli społecznej"
+#### INSTEAD OF: "Scene with naked white woman"
+#### SAY: "Author presents a scene demonstrating manipulation and humiliation as tools of social control"
 
-#### ZAMIAST: "Komuniści manipulowali"
-#### POWIEDZ: "Powieść pokazuje jak organizacje polityczne mogą wykorzystywać jednostki dla własnych celów"
+#### INSTEAD OF: "Communists manipulated"
+#### SAY: "Novel shows how political organizations can exploit individuals for their own purposes"
 
-### 2. FOCUS NA UNIVERSAL THEMES
-- **Poszukiwanie tożsamości** w nowoczesnym świecie
-- **Niewidzialność społeczna** - feeling unseen and unheard
-- **Manipulacja przez instytucje** - uniwersalny problem
-- **Coming of age** w trudnych okolicznościach
-- **Artystyczna transformacja** traumy w sztukę
+### 2. FOCUS ON UNIVERSAL THEMES
+- **Identity search** in the modern world
+- **Social invisibility** - feeling unseen and unheard
+- **Institutional manipulation** - universal problem
+- **Coming of age** in difficult circumstances
+- **Artistic transformation** of trauma into art
 
 ### 3. CONTEMPORARY CONNECTIONS
 - **Social media invisibility** - algorithmic suppression
-- **Identity crisis** - Gen Z struggles  
+- **Identity crisis** - Gen Z struggles
 - **Institutional manipulation** - modern politics
-- **Code switching** - changing identity między contexts
+- **Code switching** - changing identity between contexts
 - **Imposter syndrome** - feeling fake or invisible
 
 ## 🎬 Concrete Content Strategies
@@ -195,7 +195,7 @@ Dyskusja w kontekście edukacyjnym. 18+
 ### YOUTUBE VIDEO STRUCTURE (18+ AGE RESTRICTION):
 ```
 0:00-0:30 Content Warning + Educational Context
-0:30-2:00 Author Background & Historical Context  
+0:30-2:00 Author Background & Historical Context
 2:00-8:00 Plot Summary (sanitized versions)
 8:00-12:00 Literary Analysis & Symbolism
 12:00-15:00 Modern Relevance & Connections
@@ -204,7 +204,7 @@ Dyskusja w kontekście edukacyjnym. 18+
 
 ### TIKTOK SERIES (16+ recommendation):
 ```
-Part 1: "This 1952 Book Predicted Social Media Problems" 
+Part 1: "This 1952 Book Predicted Social Media Problems"
 Part 2: "Academic Weapon Alert: Dark Literature That Hits Different"
 Part 3: "Books That Explain Identity Crisis Better Than Therapy"
 Part 4: "Classic Literature For The Chronically Online"
@@ -213,69 +213,69 @@ Part 4: "Classic Literature For The Chronically Online"
 ### SPOTIFY PODCAST EPISODES (18+ with warnings):
 ```
 Episode 1: "Context & Historical Background" (45 min)
-Episode 2: "Literary Analysis & Symbolism" (60 min) 
+Episode 2: "Literary Analysis & Symbolism" (60 min)
 Episode 3: "Contemporary Relevance" (45 min)
 Episode 4: "Community Discussion & Q&A" (90 min)
 ```
 
-## ⚠️ RED FLAGS - Absolutnie Unikaj
+## ⚠️ RED FLAGS - Absolutely Avoid
 
-### 🚫 NIGDY NIE RÓB:
-1. **Nie cytuj rasistowskich słów** nawet w kontekście historycznym
-2. **Nie opisuj szczegółowo** scen przemocy lub seksualnych
-3. **Nie używaj battle royal** jako clickbait content
-4. **Nie twórz controversy** dla engagement
-5. **Nie publikuj bez content warnings** na żadnej platformie
+### 🚫 NEVER DO:
+1. **Don't quote racist words** even in historical context
+2. **Don't describe in detail** violence or sexual scenes
+3. **Don't use battle royal** as clickbait content
+4. **Don't create controversy** for engagement
+5. **Don't publish without content warnings** on any platform
 
 ### 🚫 FORBIDDEN PHRASES:
-- Jakiekolwiek rasistowskie słowa (nawet z cenzurą)
-- "Brutalna przemoc rasowa"
-- "Sceny seksualne" 
-- "Komunistyczna propaganda"
-- Sensacyjne tytuły bez kontekstu
+- Any racist words (even with censorship)
+- "Brutal racial violence"
+- "Sexual scenes"
+- "Communist propaganda"
+- Sensational titles without context
 
 ## ✅ Platform Compliance Checklist
 
 ### PRE-PUBLICATION CHECKLIST:
-- [ ] **Content warning** umieszczone na początku
-- [ ] **Age appropriate rating** zastosowane
-- [ ] **Educational context** jasno określony
-- [ ] **Historical framing** podkreślone
-- [ ] **Rasistowskie słowa** zastąpione lub pominięte
-- [ ] **Przemoc** opisana w sposób akademicki, nie graficzny
-- [ ] **Treści seksualne** pominięte lub bardzo zawoalowane
-- [ ] **Modern relevance** podkreślone
-- [ ] **Author credentials** i sources podane
-- [ ] **Community guidelines** każdej platformy sprawdzone
+- [ ] **Content warning** placed at beginning
+- [ ] **Age appropriate rating** applied
+- [ ] **Educational context** clearly defined
+- [ ] **Historical framing** emphasized
+- [ ] **Racist words** replaced or omitted
+- [ ] **Violence** described academically, not graphically
+- [ ] **Sexual content** omitted or heavily veiled
+- [ ] **Modern relevance** emphasized
+- [ ] **Author credentials** and sources provided
+- [ ] **Community guidelines** of each platform checked
 
 ### PLATFORM-SPECIFIC CHECKS:
-- [ ] **Meta Platforms**: Extreme caution, focus na positive educational aspects
+- [ ] **Meta Platforms**: Extreme caution, focus on positive educational aspects
 - [ ] **YouTube**: Human narration, original commentary, educational framing
 - [ ] **TikTok**: 60+ seconds, no controversial language, positive academic framing
 - [ ] **Spotify**: Video format preferred, full creative freedom with warnings
-- [ ] **Kick**: Maximum freedom, great dla deep discussions
+- [ ] **Kick**: Maximum freedom, great for deep discussions
 
 ## 🎯 Final Recommendations
 
-### NAJLEPSZE PLATFORMY DLA TEGO CONTENTU:
-1. **KICK** - 95/5 split, najmniejsze restrykcje, idealne dla controversial topics
-2. **SPOTIFY** - Video podcasts, długi format, creator-friendly
-3. **YOUTUBE** - Strong educational framing required, ale duży potencjał
-4. **TIKTOK** - Selective approach, focus na academic/BookTok trends
+### BEST PLATFORMS FOR THIS CONTENT:
+1. **KICK** - 95/5 split, fewest restrictions, ideal for controversial topics
+2. **SPOTIFY** - Video podcasts, long format, creator-friendly
+3. **YOUTUBE** - Strong educational framing required, but good potential
+4. **TIKTOK** - Selective approach, focus on academic/BookTok trends
 
-### NAJGORSZE PLATFORMY:
-1. **FACEBOOK/INSTAGRAM** - Bardzo wysokie ryzyko, unpredictable moderation w 2025
+### WORST PLATFORMS:
+1. **FACEBOOK/INSTAGRAM** - Very high risk, unpredictable moderation in 2025
 
-### OGÓLNA STRATEGIA:
-- **START WITH KICK/SPOTIFY** - przetestuj reakcje audience
-- **EXPAND TO YOUTUBE** - z educational framing i proper warnings
-- **CAREFUL TIKTOK** - tylko positive academic content
-- **AVOID META** - albo extreme caution with sanitized content only
+### OVERALL STRATEGY:
+- **START WITH KICK/SPOTIFY** - test audience reactions
+- **EXPAND TO YOUTUBE** - with educational framing and proper warnings
+- **CAREFUL TIKTOK** - only positive academic content
+- **AVOID META** - or extreme caution with sanitized content only
 
-**WNIOSEK**: "Invisible Man" jest wartościowym educational content, ale wymaga sophisticated approach i platform-specific strategies. Najlepsze rezultaty będą na creator-friendly platforms (Kick, Spotify) z możliwością expansion na YouTube przy zachowaniu educational standards.
+**CONCLUSION**: "Invisible Man" is valuable educational content, but requires sophisticated approach and platform-specific strategies. Best results will be on creator-friendly platforms (Kick, Spotify) with possibility of expansion to YouTube while maintaining educational standards.
 
 ---
 
-*Analiza przeprowadzona przez 37degrees Content Assessment Team*  
-*Oparta na aktualnych wytycznych platform społecznościowych z sierpnia 2025*  
-*Przeanalizowano 8 dokumentów researchu i current policy updates*
+*Analysis conducted by 37degrees Content Assessment Team*
+*Based on current social media platform guidelines from August 2025*
+*Analyzed 8 research documents and current policy updates*

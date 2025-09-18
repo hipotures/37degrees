@@ -1,199 +1,199 @@
-# Lokalny kontekst kulturowy: "Opowieść wigilijna" Charlesa Dickensa w Polsce
+# Local Cultural Context: Charles Dickens' "A Christmas Carol" in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Opowieść wigilijna" (ang. "A Christmas Carol") Charlesa Dickensa, opublikowana po raz pierwszy 19 grudnia 1843 roku, stała się jednym z najbardziej rozpoznawalnych utworów świątecznych na świecie. W Polsce dzieło to znalazło wyjątkowe miejsce w kulturze i edukacji, tworząc fascynujące połączenie brytyjskich tradycji wiktoriańskich z polskimi obyczajami wigilijnymi.
+"A Christmas Carol" by Charles Dickens, first published on December 19, 1843, has become one of the most recognizable Christmas works worldwide. In Poland, this work has found a unique place in culture and education, creating a fascinating blend of Victorian British traditions with Polish Christmas Eve customs.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze tłumaczenia i wydania
+### Early Translations and Editions
 
-1. **Wczesna recepcja (XIX wiek)**
-   - Utwór został przetłumaczony na język polski stosunkowo szybko po publikacji oryginalnej
-   - Pierwsze polskie wydania pojawiły się w drugiej połowie XIX wieku
-   - Nazwa autora była początkowo polonizowana jako "Karol Dickens" zamiast "Charles Dickens"
+1. **Early Reception (19th century)**
+   - The work was translated into Polish relatively quickly after the original publication
+   - The first Polish editions appeared in the second half of the 19th century
+   - The author's name was initially polonized as "Karol Dickens" instead of "Charles Dickens"
 
-2. **Współczesne wydania**
-   - Obecnie dostępne pod tytułem "Opowieść wigilijna" lub "Kolęda prozą"
-   - Popularne wydanie w serii "Klasyka z Feniksem" (Wydawnictwo Skrzat) z ilustracjami Alicji Rybickiej
-   - Wydanie Znak z ilustracjami Roberta Konrada
-   - Dostępność w domenie publicznej na platformie Wolne Lektury
+2. **Contemporary Editions**
+   - Currently available under the title "Opowieść wigilijna" or "Kolęda prozą"
+   - Popular edition in the "Klasyka z Feniksem" series (Wydawnictwo Skrzat) with illustrations by Alicja Rybicka
+   - Znak publishing house edition with illustrations by Robert Konrad
+   - Available in the public domain on the Wolne Lektury platform
 
-### Polscy tłumacze
+### Polish Translators
 
-1. **Magdalena Machay** - autorka współczesnego tłumaczenia wydanego przez Wydawnictwo Skrzat
-2. **Historyczne tłumaczenia** - różni tłumacze w XIX i XX wieku, często anonimowe
-3. **Różne wersje tytułu**: "Opowieść wigilijna", "Kolęda prozą", "Kolęda prozą, czyli opowieść wigilijna o duchu"
+1. **Magdalena Machay** - author of the contemporary translation published by Wydawnictwo Skrzat
+2. **Historical translations** - various translators in the 19th and 20th centuries, often anonymous
+3. **Different title versions**: "Opowieść wigilijna", "Kolęda prozą", "Kolęda prozą, czyli opowieść wigilijna o duchu"
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Status jako lektury obowiązkowej
+### Status as Required Reading
 
-1. **Szkoła podstawowa**
-   - Lektura obowiązkowa dla klas VII-VIII szkoły podstawowej
-   - Wprowadzona jako lektura na egzamin ósmoklasisty w 2017 roku
-   - Jedna z nielicznych pozycji literatury zagranicznej na liście lektur obowiązkowych
+1. **Primary School**
+   - Required reading for grades VII-VIII of primary school
+   - Introduced as reading for the eighth-grade exam in 2017
+   - One of the few foreign literature positions on the required reading list
 
-2. **Motywy omawiane w nauczaniu**
-   - Motyw przemiany bohatera (transformacja Scrooge'a)
-   - Motyw miłości (nieszczęśliwa miłość Scrooge'a i Belli vs. szczęśliwy związek Cratchitów)
-   - Motyw wędrówki wewnętrznej (podróż przez różne etapy życia)
-   - Motyw cierpienia (sytuacja Boba Cratchita i chorego syna Tima)
-   - Motyw chciwości i jej przezwyciężenia
+2. **Themes Discussed in Teaching**
+   - Character transformation motif (Scrooge's transformation)
+   - Love motif (Scrooge and Bella's unhappy love vs. the Cratchits' happy relationship)
+   - Inner journey motif (journey through different life stages)
+   - Suffering motif (Bob Cratchit's situation and sick son Tim)
+   - Greed motif and its overcoming
 
-3. **Materiały edukacyjne**
-   - Liczne konspekty lekcji, np. "Podróż ponad czasem i przestrzenią – wewnętrzna przemiana Ebenezera Scrooge'a"
-   - Testy sprawdzające znajomość lektury
-   - Wydania z omówieniem zawierające wskazówki do egzaminów
+3. **Educational Materials**
+   - Numerous lesson plans, e.g., "Journey Through Time and Space – Ebenezer Scrooge's Inner Transformation"
+   - Reading comprehension tests
+   - Editions with commentary containing exam guidance
 
-## Polskie adaptacje kulturowe
+## Polish Cultural Adaptations
 
-### Teatr
+### Theater
 
-1. **Teatr Polski w Warszawie**
-   - Spektakl "Opowieść Wigilijna" w reżyserii Wojciecha Czerwińskiego
-   - Oryginalna, metafizyczna interpretacja w stylu Tarantino
-   - Innovative scenografia Marty Zając wykorzystująca obrotową scenę teatru
-   - Kostiumy Jany Krynickiej łączące "dawne i nowe czasy"
+1. **Teatr Polski in Warsaw**
+   - Spectacle "Opowieść Wigilijna" directed by Wojciech Czerwiński
+   - Original, metaphysical interpretation in Tarantino style
+   - Innovative set design by Marta Zając using the theater's revolving stage
+   - Costumes by Jana Krynicka combining "old and new times"
 
-2. **Charakterystyka polskiej adaptacji teatralnej**
-   - Odstępstwo od klasycznej interpretacji
-   - Świat demonów dręczących Scrooge'a zamiast tradycyjnej historii nawrócenia
-   - Podkreślenie aspektu duchowej podróży w poszukiwaniu jasności w skorumpowanym świecie
+2. **Characteristics of Polish Theatrical Adaptation**
+   - Departure from classical interpretation
+   - World of demons tormenting Scrooge instead of traditional conversion story
+   - Emphasis on spiritual journey aspect seeking clarity in a corrupt world
 
-### Telewizja
+### Television
 
-1. **TVP - Teatr Telewizji**
-   - 45-minutowa produkcja telewizyjna dostępna na TVP VOD
-   - Akcja umiejscowiona podczas szkolnego przedstawienia charytatywnego
-   - Udział uczniów liceum liczbących głównie na lepsze oceny
+1. **TVP - Television Theater**
+   - 45-minute television production available on TVP VOD
+   - Action set during a school charity performance
+   - Participation of high school students mainly counting on better grades
 
-2. **Obsada polskiej adaptacji telewizyjnej**
-   - Gustaw Holoubek jako Scrooge
+2. **Polish Television Adaptation Cast**
+   - Gustaw Holoubek as Scrooge
    - Alfred Łodziński
    - Wojciech Siemion
-   - Produkcja Telewizji Polskiej dla Młodzieżowego Teatru Telewizji
+   - Production by Polish Television for Youth Television Theater
 
-## Aspekty językowe i kulturowe
+## Linguistic and Cultural Aspects
 
-### Polonizacja nazw
+### Polonization of Names
 
-1. **Imię głównego bohatera**
-   - Poprawna polska pisownia: "Skrudż" (zgodnie z wytycznymi językowymi)
-   - Odmiana przez przypadki: Ebenezera Scrooge'a, Ebenezerem Scrooge'em
-   - W tłumaczeniach używane jest imię "Ebenezer Scrooge"
+1. **Main Character's Name**
+   - Correct Polish spelling: "Skrudż" (according to language guidelines)
+   - Declension through cases: Ebenezera Scrooge'a, Ebenezerem Scrooge'em
+   - In translations, the name "Ebenezer Scrooge" is used
 
-2. **Opis charakteru w polskiej kulturze**
-   - "Stary wyłudzacz" - popularne określenie charakteru Scrooge'a
-   - "Wielki sknera, który każde zdarzenie przeliczał na pieniądze"
-   - Opis fizyczny: "zimno od niego bijące zamieniło jego uczucia w lód, zamroziło czubek spiczastego nosa"
+2. **Character Description in Polish Culture**
+   - "Stary wyłudzacz" (old swindler) - popular description of Scrooge's character
+   - "Wielki sknera, który każde zdarzenie przeliczał na pieniądze" (great miser who calculated every event in money)
+   - Physical description: "the cold emanating from him turned his feelings to ice, froze the tip of his pointed nose"
 
-### Integracja z polskimi tradycjami
+### Integration with Polish Traditions
 
 1. **Wigilia vs. Christmas Eve**
-   - Polska Wigilia (24 grudnia) vs. brytyjski Christmas Eve
-   - Dwanaście potraw wigilijnych vs. brytyjskie tradycje świąteczne
-   - Siano pod obrusem symbolizujące ubóstwo stajenki
-   - Post wigilijny vs. brytyjskie przygotowania świąteczne
+   - Polish Wigilia (December 24th) vs. British Christmas Eve
+   - Twelve Christmas Eve dishes vs. British Christmas traditions
+   - Hay under the tablecloth symbolizing the poverty of the stable
+   - Christmas Eve fasting vs. British Christmas preparations
 
-2. **Różnice w tradycjach obdarowywania**
-   - Polscy darczyńcy: Św. Mikołaj, Gwiazdor, Dzieciątko, Aniołek (regionalne różnice)
-   - Brytyjski Father Christmas/Santa Claus w oryginale
+2. **Differences in Gift-Giving Traditions**
+   - Polish gift-bringers: St. Nicholas, Gwiazdor, Dzieciątko, Aniołek (regional differences)
+   - British Father Christmas/Santa Claus in the original
 
-## Współczesny odbiór i kultura popularna
+## Contemporary Reception and Popular Culture
 
-### Obecność w mediach społecznościowych
+### Social Media Presence
 
-1. **TikTok i młodzież (Gen Z)**
-   - Popularne streszczenia "Opowieści wigilijnej" w slangu Gen Z
-   - Viral content autorstwa Richarda Franksa z 6373 polubień
-   - 2 miliony postów na TikTok pod tagiem "Christmas Carol Quotes and Analysis"
+1. **TikTok and Youth (Gen Z)**
+   - Popular summaries of "A Christmas Carol" in Gen Z slang
+   - Viral content by Richard Franks with 6,373 likes
+   - 2 million posts on TikTok under the tag "Christmas Carol Quotes and Analysis"
 
-2. **Memy i współczesne nawiązania**
-   - "Dickensowski" - określenie stosowane w polskiej kulturze
-   - Nawiązania do skąpstwa i transformacji charakteru w memach internetowych
-   - Wykorzystanie postaci Scrooge'a w popkulturze jako archetypu skąpca
+2. **Memes and Contemporary References**
+   - "Dickensowski" (Dickensian) - term used in Polish culture
+   - References to miserliness and character transformation in internet memes
+   - Use of Scrooge's character in pop culture as the archetype of a miser
 
-### Sekularna tradycja świąteczna
+### Secular Christmas Tradition
 
-1. **Nowa świecka tradycja**
-   - "Opowieść wigilijna" jako "mit założycielski nowoczesnego świętowania nie narodzin Boga, lecz społecznego dobrostanu uczuć"
-   - Oglądanie adaptacji jako rodzaj świeckiej tradycji świątecznej
-   - Integracja z polskimi tradycjami opowiadania historii podczas Wigilii
+1. **New Secular Tradition**
+   - "A Christmas Carol" as "founding myth of modern celebration not of God's birth, but of social well-being of feelings"
+   - Watching adaptations as a kind of secular Christmas tradition
+   - Integration with Polish traditions of storytelling during Wigilia
 
-## Akademickie badania polskich uczonych
+## Academic Research by Polish Scholars
 
-### Najważniejsze publikacje
+### Most Important Publications
 
-1. **"Dickens w Polsce. Pierwsze stulecie"**
-   - Publikacja Uniwersytetu Pedagogicznego w Krakowie
-   - Analiza recepcji Charlesa Dickensa w Polsce
-   - Cytowani badacze: Zofia Sinko, Marta Skwara, Mirosława Ziai-Buchholtz, Marcin Cieński, Sylwia Kucharuk
+1. **"Dickens in Poland. The First Century"**
+   - Publication by Pedagogical University in Krakow
+   - Analysis of Charles Dickens' reception in Poland
+   - Cited researchers: Zofia Sinko, Marta Skwara, Mirosława Ziai-Buchholtz, Marcin Cieński, Sylwia Kucharuk
 
-2. **Kursy uniwersyteckie**
-   - Uniwersytet Warszawski: kurs "Dickens i zbrodnia"
-   - Analiza związków prawa i literatury
-   - Badania nad wpływem Dickensa na polską prozę realistyczną XIX i XX wieku
+2. **University Courses**
+   - University of Warsaw: "Dickens and Crime" course
+   - Analysis of law and literature connections
+   - Research on Dickens' influence on Polish realistic prose of the 19th and 20th centuries
 
-### Wpływ na polską literaturę
+### Influence on Polish Literature
 
 1. **Bolesław Prus**
-   - Znaczący wpływ powieściopisarstwa Dickensa na twórczość Prusa
-   - Rozwój polskiej prozy realistycznej pod wpływem dzieł brytyjskiego pisarza
+   - Significant influence of Dickens' novel-writing on Prus's work
+   - Development of Polish realistic prose under the influence of the British writer's works
 
-2. **Badania porównawcze**
-   - Analiza recepcji w różnych kręgach kulturowych
-   - Podkreślanie różnych aspektów problemowych w zależności od kontekstu narodowego
+2. **Comparative Studies**
+   - Analysis of reception in different cultural circles
+   - Emphasis on different problematic aspects depending on national context
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Wyzwania językowe
+### Linguistic Challenges
 
-1. **Realia kulturowe**
-   - Tłumaczenie brytyjskich tradycji świątecznych na język polski
-   - Adaptacja opisów jedzenia, zwyczajów, społecznej hierarchii wiktoriańskiej Anglii
+1. **Cultural Realia**
+   - Translation of British Christmas traditions into Polish
+   - Adaptation of descriptions of food, customs, social hierarchy of Victorian England
 
-2. **Różnice religijne**
-   - Protestantyzm vs. katolicyzm w kontekście świątecznym
-   - Różne podejście do celebracji świąt w kulturze brytyjskiej i polskiej
+2. **Religious Differences**
+   - Protestantism vs. Catholicism in Christmas context
+   - Different approaches to holiday celebration in British and Polish culture
 
-### Czasowe i społeczne konteksty
+### Temporal and Social Contexts
 
-1. **XIX-wieczna Anglia vs. Polska**
-   - Industrializacja w Anglii vs. sytuacja zaborów w Polsce
-   - Różne systemy społeczne i ekonomiczne
-   - Problem ubóstwa miejskiego vs. wiejskiego
+1. **19th Century England vs. Poland**
+   - Industrialization in England vs. partition situation in Poland
+   - Different social and economic systems
+   - Urban vs. rural poverty problem
 
-2. **Współczesne interpretacje**
-   - Kapitalizm i nierówności społeczne w polskim kontekście
-   - Krytyka społeczna Dickensa w realiach polskich
+2. **Contemporary Interpretations**
+   - Capitalism and social inequalities in Polish context
+   - Dickens' social criticism in Polish realities
 
-## Lokalne nawiązania i easter eggi dla polskich czytelników
+## Local References and Easter Eggs for Polish Readers
 
-### Edukacyjne nawiązania
+### Educational References
 
-1. **Materiały dydaktyczne**
-   - Porównania z polskimi pisarzami społecznymi (Prus, Orzeszkowa)
-   - Zestawienia z polskimi opowiadaniami świątecznymi
-   - Analiza uniwersalności przesłania moralnego
+1. **Didactic Materials**
+   - Comparisons with Polish social writers (Prus, Orzeszkowa)
+   - Juxtapositions with Polish Christmas stories
+   - Analysis of universal moral message
 
-2. **Regionalne konteksty**
-   - **Małopolska**: Tradycje gwiazdkowe i kolędnicze
-   - **Kraków**: Akademickie badania nad Dickensem na UJ i UP
-   - Lokalne teatry prezentujące adaptacje utworu
+2. **Regional Contexts**
+   - **Lesser Poland**: Christmas and caroling traditions
+   - **Krakow**: Academic research on Dickens at UJ and UP
+   - Local theaters presenting adaptations of the work
 
-### Fan community w Polsce
+### Fan Community in Poland
 
-1. **Społeczności czytelnicze**
-   - Grupy na portalach społecznościowych omawiające klasyki literatury
-   - Fora edukacyjne dla uczniów przygotowujących się do egzaminów
+1. **Reading Communities**
+   - Groups on social media platforms discussing literary classics
+   - Educational forums for students preparing for exams
 
-2. **Społeczności tłumaczy i literaturoznawców**
-   - Dyskusje o różnych wersjach tłumaczeń
-   - Analiza porównawcza z innymi dziełami Dickensa
+2. **Translator and Literary Scholar Communities**
+   - Discussions about different translation versions
+   - Comparative analysis with other Dickens works
 
-## Podsumowanie
+## Summary
 
-"Opowieść wigilijna" Charlesa Dickensa znalazła w Polsce wyjątkowe miejsce, łącząc uniwersalne przesłanie o ludzkiej transformacji z lokalnymi tradycjami świątecznymi. Dzieło to funkcjonuje jednocześnie jako lektura obowiązkowa kształtująca młode pokolenia, teatralna inspiracja dla współczesnych reżyserów oraz element świeckiej tradycji świątecznej. Polska recepcja utworu charakteryzuje się głębokim zrozumieniem społecznego przesłania dzieła, co wynika z podobnych doświadczeń historycznych związanych z nierównościami społecznymi i potrzebą solidarności ludzkiej.
+Charles Dickens' "A Christmas Carol" has found a unique place in Poland, combining the universal message of human transformation with local Christmas traditions. This work functions simultaneously as required reading shaping young generations, theatrical inspiration for contemporary directors, and an element of secular Christmas tradition. Polish reception of the work is characterized by deep understanding of the work's social message, which stems from similar historical experiences related to social inequalities and the need for human solidarity.
 
-Najważniejszym aspektem polskiej recepcji jest sposób, w jaki "Opowieść wigilijna" została zintegrowana z rodzimymi tradycjami wigilijnymi, tworząc unikalną syntezę brytyjskiej literatury wiktoriańskiej z polskim duchem świąt Bożego Narodzenia.
+The most important aspect of Polish reception is how "A Christmas Carol" has been integrated with native Christmas Eve traditions, creating a unique synthesis of Victorian British literature with the Polish spirit of Christmas.

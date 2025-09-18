@@ -4,3 +4,174 @@ book_info:
   author: "Jules Verne"
   year: 1870
   genre: "Science fiction,Adventure"
+
+afa_analysis:
+  version: "3.0"
+  processed_at: "2025-01-17T15:32:00"
+
+  scores:
+    controversy: 7
+    philosophical_depth: 7
+    cultural_phenomenon: 9
+    contemporary_reception: 9
+    relevance: 9
+    innovation: 9
+    structural_complexity: 5
+    social_roles: 5
+    total: 60
+    percentile: 90
+
+  composite_scores:
+    depth:
+      value: 7.5
+      category: "medium"
+    heat:
+      value: 7.5
+      category: "medium"
+
+  themes:
+    universal:
+      - id: "environmental_prophecy"
+        type: "FACT"
+        credibility: 0.95
+        content: "95% accuracy rate for technological predictions, especially submarine technology and ocean exploration methods that came true decades later"
+        source: "reality_wisdom"
+      - id: "anti_imperial_resistance"
+        type: "BOMBSHELL"
+        credibility: 0.90
+        content: "Captain Nemo originally conceived as Polish insurgent fighting Russians, censored by publisher for political/commercial reasons"
+        source: "dark_drama"
+      - id: "technology_double_edge"
+        type: "ANALYSIS"
+        credibility: 0.85
+        content: "Same electricity that enables peaceful exploration and research powers weapons and control systems, exploring technology's moral ambiguity"
+        source: "symbols_meanings"
+      - id: "scientific_genre_pioneer"
+        type: "FACT"
+        credibility: 0.95
+        content: "Pioneered science fiction genre with documentary realism technique, establishing template for all subsequent techno-thrillers"
+        source: "writing_innovation"
+      - id: "cultural_adaptation_machine"
+        type: "FACT"
+        credibility: 0.95
+        content: "50+ adaptations across film, TV, theme parks, games, anime, stage productions spanning 150+ years of continuous cultural impact"
+        source: "culture_impact"
+      - id: "toxic_masculinity_critique"
+        type: "ANALYSIS"
+        credibility: 0.80
+        content: "Nemo displays controlling behaviors, emotional unavailability, and megalomaniac patterns that modern readers recognize as relationship red flags"
+        source: "reality_wisdom"
+      - id: "gaming_culture_resurrection"
+        type: "FACT"
+        credibility: 0.90
+        content: "Subnautica game generated 15.8M TikTok posts, #SubmarineAI drew 45M views, connecting classic literature to modern gaming culture"
+        source: "youth_digital"
+      - id: "author_controversies_shadow"
+        type: "DISPUTE"
+        credibility: 0.85
+        content: "Author's documented antisemitism, family violence, and resistance to moderation create complex legacy requiring historical context"
+        source: "dark_drama"
+
+    localized:
+      en:
+        cultural_impact: "Analysis of Twenty Thousand Leagues Under the Sea reception in English-speaking contexts"
+        key_editions: ["First English translation 1872", "Naval Institute Press restored edition 1993", "Oxford annotated 1998"]
+        reception_notes: "Dominated by flawed early translation for 100+ years, rediscovered through accurate translations"
+        educational_status: "Core science fiction curriculum text"
+        local_themes: ["Technology ethics", "Environmental stewardship", "Scientific methodology"]
+      pl:
+        cultural_impact: "Special resonance due to Nemo's hidden Polish origins and anti-imperial themes"
+        key_editions: ["1870 simultaneous publication", "Modern PIW editions", "School reading programs"]
+        reception_notes: "Strong connection to national independence struggles and resistance narratives"
+        educational_status: "Required reading with patriotic undertones"
+        local_themes: ["National resistance", "Anti-imperial struggle", "Hidden Polish identity"]
+      de:
+        cultural_impact: "Strong academic tradition and philosophical interpretation in German-speaking regions"
+        key_editions: ["1874 Hartleben Vienna edition", "Diogenes continuous print", "Annotated scholarly editions"]
+        reception_notes: "Integrated into philosophical and literary analysis traditions"
+        educational_status: "Gymnasium literature standard"
+        local_themes: ["Philosophical interpretations", "Technological ethics", "Romantic nature themes"]
+      fr:
+        cultural_impact: "Foundational French science fiction text with museum preservation and state backing"
+        key_editions: ["1871 Hetzel illustrated original", "Gallimard Folio Junior", "Radio France concert-fiction"]
+        reception_notes: "National literary heritage with multimedia adaptations"
+        educational_status: "Core curriculum with multimedia support"
+        local_themes: ["Scientific rationalism", "French colonial critique", "Technological optimism"]
+      es:
+        cultural_impact: "Early translation success with continuous educational integration across Spanish-speaking world"
+        key_editions: ["1869 Spanish translation", "Alianza Editorial classroom standard", "Latin American adaptations"]
+        reception_notes: "Strong classroom presence with cross-Atlantic distribution"
+        educational_status: "Plan Lector standard across Spanish curricula"
+        local_themes: ["Ocean exploration", "Environmental education", "Scientific methodology"]
+      pt:
+        cultural_impact: "Lusophone educational integration with cross-media adaptations and Brazilian creative responses"
+        key_editions: ["Portuguese Plano Nacional recommended", "Brazilian Martin Claret editions", "Multimedia adaptations"]
+        reception_notes: "Educational standard with creative steampunk adaptations"
+        educational_status: "Recommended for ages 9-11 with teacher support"
+        local_themes: ["Maritime exploration", "Environmental stewardship", "Technology ethics"]
+      ja:
+        cultural_impact: "Transformed through anime and theme park culture, defining Japanese steampunk aesthetics"
+        key_editions: ["Shinchosha Star Classics bestseller", "Iwanami academic editions", "Tokyo DisneySea attraction"]
+        reception_notes: "Cultural integration through Nadia anime and DisneySea attractions"
+        educational_status: "Ocean literacy and STEM education integration"
+        local_themes: ["Steampunk aesthetics", "Ocean exploration", "Technology-nature harmony"]
+      ko:
+        cultural_impact: "Educational focus with multimedia integration and translator recognition in Korean literary scene"
+        key_editions: ["Kim Seok-hee 20-volume Verne project", "Premium World Classics with accessibility", "E-book platforms"]
+        reception_notes: "Translator's comprehensive Verne project gained recognition"
+        educational_status: "Middle and high school supplementary reading"
+        local_themes: ["Educational innovation", "Technology development", "Ocean conservation"]
+      hi:
+        cultural_impact: "Postcolonial reclamation through Nemo's Indian identity in modern adaptations and streaming content"
+        key_editions: ["Hindi Rajpal & Sons adaptation", "Audible India audiobook", "Regional language translations"]
+        reception_notes: "AMC Nautilus series and postcolonial readings restore Indian identity"
+        educational_status: "ESL bridge text with cultural significance"
+        local_themes: ["Anti-colonial resistance", "Indian technological heritage", "Postcolonial reclamation"]
+
+  formats:
+    academic_analysis:
+      name: "academic_analysis"
+      duration: 17
+      hosts:
+        host_a: "professor/expert presenting complex concepts"
+        host_b: "student/assistant simplifying and clarifying"
+      structure:
+        - segment: 1
+          time_range: "00:00-03:24"
+          topic: "thesis"
+          lead: "host_a"
+          description: "Environmental prophecy and technological prediction accuracy"
+        - segment: 2
+          time_range: "03:24-06:48"
+          topic: "analysis"
+          lead: "host_b"
+          description: "Anti-imperial resistance and hidden Polish origins"
+        - segment: 3
+          time_range: "06:48-10:12"
+          topic: "examples"
+          lead: "host_a"
+          description: "Technology double-edge and modern ethics parallels"
+        - segment: 4
+          time_range: "10:12-13:36"
+          topic: "synthesis"
+          lead: "host_b"
+          description: "Scientific genre pioneer impact on modern literature"
+        - segment: 5
+          time_range: "13:36-17:00"
+          topic: "conclusion"
+          lead: "host_a"
+          description: "Cultural adaptation machine and lasting influence"
+      prompts:
+        host_a: "You are {male_name}, a professor analyzing 'Twenty Thousand Leagues Under the Sea' with scholarly depth. Discuss structure, symbolism, technological predictions, and genre innovation. Focus on: 95% accuracy rate for technological predictions and establishment of science fiction genre. Academic but accessible."
+        host_b: "You are {female_name}, a graduate student. Ask for clarification, request examples of Verne's innovations, connect to literary theories and modern technology ethics, ensure accessibility for general audience."
+
+  metadata:
+    target_audience: "14+"
+    content_warnings: ["historical antisemitism discussion", "family violence references", "colonial content analysis"]
+    educational_elements: ["Science fiction genre development", "Environmental prediction accuracy", "Technological ethics", "19th century context"]
+    production_notes:
+      intro_style: "Classical nautical theme with modern electronic elements"
+      transitions: "Subtle oceanic soundscapes"
+      outro_style: "Academic conclusion with forward-looking perspective"
+
+  overall_confidence: 0.85

@@ -1,143 +1,143 @@
-# Content Warnings Assessment: "The Tale of Genji" (Opowieść o księciu Genjim)
+# Content Warnings Assessment: "The Tale of Genji"
 
-**Książka**: The Tale of Genji (Opowieść o księciu Genjim)  
-**Autor**: Murasaki Shikibu  
-**Rok**: c. 1021  
-**Data analizy**: 2025-09-01  
+**Book**: The Tale of Genji
+**Author**: Murasaki Shikibu
+**Year**: c. 1021
+**Analysis Date**: 2025-09-18
 **Agent**: Content Warnings Specialist
 
-## Podsumowanie Wykonawcze
+## Executive Summary
 
-"Opowieść o księciu Genjim" zawiera znaczące treści wymagające ostrożnego podejścia przy publikacji na platformach społecznościowych w 2025 roku. Analiza 8 dokumentów researchu pokazuje dzieło o złożonej moralności, zawierające tematy grooming, przemocy seksualnej, okultyzmu oraz kontrowersyjne elementy społeczne. Każda platforma wymaga odrębnej strategii content compliance.
+"The Tale of Genji" contains significant content requiring careful approach when publishing on social media platforms in 2025. Analysis of 8 research documents reveals a work of complex morality, containing themes of grooming, sexual violence, occultism, and controversial social elements. Each platform requires separate content compliance strategy.
 
 ---
 
-## Identyfikacja Problematycznych Treści
+## Identification of Problematic Content
 
-### 🔴 Treści Wysokiego Ryzyka
+### 🔴 High-Risk Content
 
-#### 1. **Grooming i Pedofilia**
-- **Problem**: Genji adoptuje 10-letnią Murasaki i ją wychowuje, by później ją uwieść
-- **Współczesne standardy**: To byłoby uznane za grooming, pedofilię lub przemoc seksualną
-- **Risk Level**: MAKSYMALNY dla wszystkich platform
+#### 1. **Grooming and Pedophilia**
+- **Issue**: Genji adopts 10-year-old Murasaki and raises her to later seduce her
+- **Contemporary Standards**: Would be recognized as grooming, pedophilia, or sexual violence
+- **Risk Level**: MAXIMUM for all platforms
 
-#### 2. **Kazirodztwo**
-- **Problem**: Romans Genjiego z konkubiną ojca (Fujitsubo), co prowadzi do narodzin syna
-- **Współczesne standardy**: Kazirodczy związek traktowany jako przestępstwo
-- **Risk Level**: MAKSYMALNY dla Meta platforms, WYSOKI dla innych
+#### 2. **Incest**
+- **Issue**: Genji's romance with his father's concubine (Fujitsubo), leading to birth of a son
+- **Contemporary Standards**: Incestuous relationship treated as criminal behavior
+- **Risk Level**: MAXIMUM for Meta platforms, HIGH for others
 
-#### 3. **Przemoc Seksualna jako Norma**
-- **Problem**: Według dzisiejszych standardów wiele "romansów" w książce to gwałt
-- **Cytaty z researchu**: "Często ta 'selekcja' według dzisiejszych standardów zostałaby uznana za gwałt"
-- **Risk Level**: MAKSYMALNY dla wszystkich platform
+#### 3. **Sexual Violence as Norm**
+- **Issue**: According to today's standards, many "romances" in the book constitute rape
+- **Research Quote**: "Often this 'selection' by today's standards would be considered rape"
+- **Risk Level**: MAXIMUM for all platforms
 
-#### 4. **Okultyzm i Opętania Duchowe (Mono no ke)**
-- **Problem**: Liczne epizody opętania przez złe duchy, szczególnie dotykające kobiety
-- **Interpretacja**: Może być postrzegane jako promowanie przesądów lub okultyzmu
-- **Risk Level**: ŚREDNI dla większości platform, WYSOKI dla konserwatywnych audience
+#### 4. **Occultism and Spiritual Possession (Mono no ke)**
+- **Issue**: Numerous episodes of possession by evil spirits, particularly affecting women
+- **Interpretation**: May be perceived as promoting superstitions or occultism
+- **Risk Level**: MEDIUM for most platforms, HIGH for conservative audiences
 
-### 🟡 Treści Średniego Ryzyka
+### 🟡 Medium-Risk Content
 
-#### 5. **Kontrowersyjne Role Gender**
-- **Problem**: Kobiety jako "przedmioty domowe", władza patriarchalna
-- **Context**: Szczególnie problematyczne w świetle nowych zasad Meta (2025)
-- **Risk Level**: WYSOKI dla Meta platforms, ŚREDNI dla innych
+#### 5. **Controversial Gender Roles**
+- **Issue**: Women as "household objects," patriarchal power
+- **Context**: Particularly problematic given new Meta rules (2025)
+- **Risk Level**: HIGH for Meta platforms, MEDIUM for others
 
-#### 6. **Śmierć i Samobójstwa**
-- **Problem**: Tragiczne śmierci, samobójstwa (Ukifune rzuca się z mostu)
-- **Risk Level**: ŚREDNI - wymagane age restrictions
+#### 6. **Death and Suicide**
+- **Issue**: Tragic deaths, suicides (Ukifune throws herself from bridge)
+- **Risk Level**: MEDIUM - requires age restrictions
 
-#### 7. **Polityczne i Społeczne Kontrowersje**
-- **Problem**: Krytyka władzy cesarskiej, przepowiednie polityczne
-- **Risk Level**: ŚREDNI dla platform z restrykcjami political content
+#### 7. **Political and Social Controversies**
+- **Issue**: Criticism of imperial power, political prophecies
+- **Risk Level**: MEDIUM for platforms with political content restrictions
 
-### 🟢 Treści Niskiego Ryzyka
+### 🟢 Low-Risk Content
 
-#### 8. **Wartości Edukacyjne**
-- **Zalety**: Pierwsza powieść świata, innowacje literackie, insights psychologiczne
-- **Educational framing**: Silny argument za educational value
-- **Risk Level**: NISKI przy odpowiednim kontekście
+#### 8. **Educational Values**
+- **Advantages**: World's first novel, literary innovations, psychological insights
+- **Educational Framing**: Strong argument for educational value
+- **Risk Level**: LOW with appropriate context
 
 ---
 
 ## Platform-Specific Risk Assessment
 
-### Facebook/Instagram (Meta) - 🔴 WYSOKIE RYZYKO
+### Facebook/Instagram (Meta) - 🔴 HIGH RISK
 
-**Nowe zasady 2025**:
-- Dozwolone nazywanie kobiet "household objects"
-- Liberalizacja hate speech policies
-- Community Notes zastąpiły fact-checking
+**New 2025 Rules**:
+- Allowing women to be called "household objects"
+- Liberalized hate speech policies
+- Community Notes replaced fact-checking
 - UNPREDICTABLE moderation
 
-**Specific Risks dla Genji**:
-- Grooming content: **MAKSYMALNY BAN RISK**
-- Gender roles: **MOŻE BYĆ DOZWOLONE** (nowe zasady)
-- Okultyzm: **ŚREDNIE RYZYKO**
+**Specific Risks for Genji**:
+- Grooming content: **MAXIMUM BAN RISK**
+- Gender roles: **MAY BE ALLOWED** (new rules)
+- Occultism: **MEDIUM RISK**
 
-**Rekomendacja**: **EDIT/OMIT** - Usuń wszystkie referencje do grooming, pedofilii, przemocy seksualnej
+**Recommendation**: **EDIT/OMIT** - Remove all references to grooming, pedophilia, sexual violence
 
-### YouTube - 🟡 ŚREDNIE RYZYKO
+### YouTube - 🟡 MEDIUM RISK
 
-**Zasady 2025**:
-- Anti-AI crackdown - wymagana human narration
+**2025 Rules**:
+- Anti-AI crackdown - requires human narration
 - Inauthentic content policy
-- Educational content preferowane
+- Educational content preferred
 
-**Specific Risks dla Genji**:
+**Specific Risks for Genji**:
 - Grooming: **DEMONETIZATION** guaranteed
 - Educational framing: **PROTECTIVE FACTOR**
 - Historical context: **MITIGATING FACTOR**
 
-**Rekomendacja**: **AGE-RESTRICT + EDIT** - Age restrict 18+, strong educational disclaimers
+**Recommendation**: **AGE-RESTRICT + EDIT** - Age restrict 18+, strong educational disclaimers
 
-### TikTok - 🟡 ŚREDNIE RYZYKO
+### TikTok - 🟡 MEDIUM RISK
 
-**Zasady 2025**:
-- Tylko 1+ minute videos monetized
+**2025 Rules**:
+- Only 1+ minute videos monetized
 - Stricter compliance (70% rejection rate)
 - Original content only
 
-**Specific Risks dla Genji**:
+**Specific Risks for Genji**:
 - Grooming: **PERMANENT INELIGIBILITY** risk
 - Educational content: **PROTECTIVE FACTOR**
-- Short format: **OGRANICZONE RISK EXPOSURE**
+- Short format: **LIMITED RISK EXPOSURE**
 
-**Rekomendacja**: **EDUCATIONAL FOCUS** - Focus tylko na literary innovations, avoid problematic content
+**Recommendation**: **EDUCATIONAL FOCUS** - Focus only on literary innovations, avoid problematic content
 
-### Spotify - 🟢 NISKIE RYZYKO
+### Spotify - 🟢 LOW RISK
 
-**Zasady 2025**:
+**2025 Rules**:
 - Creator-friendly 50/50 revenue split
-- Video podcasts preferowane
+- Video podcasts preferred
 - Minimal content restrictions
 
-**Specific Risks dla Genji**:
+**Specific Risks for Genji**:
 - Copyright: **WATCH AUDIOBOOK EXCERPTS**
 - Violence: **MINOR CONCERN**
 - Educational: **PROTECTIVE FACTOR**
 
-**Rekomendacja**: **OK WITH WARNINGS** - Content warnings for mature themes
+**Recommendation**: **OK WITH WARNINGS** - Content warnings for mature themes
 
-### Kick - 🟢 BARDZO NISKIE RYZYKO
+### Kick - 🟢 VERY LOW RISK
 
-**Zasady 2025**:
+**2025 Rules**:
 - Most creator-friendly (95/5 split)
 - Context-based moderation
 - Support for controversial educational content
 
-**Specific Risks dla Genji**:
+**Specific Risks for Genji**:
 - Minimal restrictions for educational content
 - Context-sensitive approach
 
-**Rekomendacja**: **OK** - Full content with proper educational context
+**Recommendation**: **OK** - Full content with proper educational context
 
 ---
 
 ## Age Classification Matrix
 
-| Platforma | Zalecana Klasyfikacja | Powód |
-|-----------|----------------------|--------|
+| Platform | Recommended Classification | Reason |
+|----------|---------------------------|--------|
 | **Facebook/Instagram** | **EDIT/OMIT** | Grooming content = ban risk |
 | **YouTube** | **18+ AGE RESTRICT** | Mature sexual themes, violence |
 | **TikTok** | **16+ EDUCATIONAL ONLY** | Limited format, strict policies |
@@ -151,25 +151,25 @@
 ### For Audio Content (Spotify/Kick):
 ```
 ⚠️ CONTENT WARNING ⚠️
-Ten odcinek omawia "Opowieść o księciu Genjim" (1021 r.), która zawiera:
-• Mature relationship themes z historical context
-• References to practices unacceptable by modern standards  
-• Themes of power imbalance i social dynamics
+This episode discusses "The Tale of Genji" (1021), which contains:
+• Mature relationship themes with historical context
+• References to practices unacceptable by modern standards
+• Themes of power imbalance and social dynamics
 • Educational discussion about 11th century Japanese society
 
-Materiał przeznaczony dla dojrzałych słuchaczy (16+)
-Podejście: Historical analysis, nie promotion of behaviors
+Material intended for mature listeners (16+)
+Approach: Historical analysis, not promotion of behaviors
 ```
 
 ### For Video Content (YouTube):
 ```
 🎓 EDUCATIONAL CONTENT - AGE RESTRICTED 18+
 
-Analizujemy pierwszy na świecie romans psychologiczny napisany w 1021 roku.
-• Content omawia historical practices nieprzystosowne do modern standards
-• Educational focus na literary innovations i cultural context
-• Nie promuje problematic behaviors
-• Critical academic approach do controversial themes
+We analyze the world's first psychological novel written in 1021.
+• Content discusses historical practices inappropriate by modern standards
+• Educational focus on literary innovations and cultural context
+• Does not promote problematic behaviors
+• Critical academic approach to controversial themes
 ```
 
 ### For Social Media (TikTok/Instagram):
@@ -187,27 +187,27 @@ Context: Academic analysis only
 ## Mitigation Strategies
 
 ### 1. **Educational Framing Strategy**
-- **Always** present jako historical document
+- **Always** present as historical document
 - **Emphasize** literary innovations over plot details
 - **Include** academic credentials/scholarly approach
 - **Add** "values have evolved" disclaimers
 
 ### 2. **Content Editing Approach**
 - **Omit** explicit grooming details
-- **Skip** graphic sexual assault implications  
-- **Focus** na psychological insights i literary techniques
+- **Skip** graphic sexual assault implications
+- **Focus** on psychological insights and literary techniques
 - **Highlight** cultural/historical significance
 
 ### 3. **Platform-Specific Adaptations**
 
-**YouTube**: 
+**YouTube**:
 - Long-form educational content
 - Multiple content warnings
 - Academic guest experts
 - Historical context emphasis
 
 **TikTok**:
-- Focus tylko na literary innovations
+- Focus only on literary innovations
 - "First novel ever written" angle
 - Author biography (pioneering woman writer)
 - Cultural impact stories
@@ -221,68 +221,68 @@ Context: Academic analysis only
 ### 4. **Age-Appropriate Alternatives**
 
 **For 13+ Audience**:
-- Focus na Murasaki Shikibu jako pioneering woman writer
-- Literary techniques i innovations
-- Cultural impact na world literature
+- Focus on Murasaki Shikibu as pioneering woman writer
+- Literary techniques and innovations
+- Cultural impact on world literature
 - Connection to contemporary culture
 
 **For 16+ Audience**:
-- Add historical relationship contexts  
-- Discuss power dynamics w historical perspective
+- Add historical relationship contexts
+- Discuss power dynamics in historical perspective
 - Analyze character psychology
-- Compare z modern relationship standards
+- Compare with modern relationship standards
 
 **For 18+ Audience**:
 - Full academic discussion
-- Critical analysis wszystkich themes
-- Historical accuracy z contemporary critique
+- Critical analysis of all themes
+- Historical accuracy with contemporary critique
 - Scholarly debate approaches
 
 ---
 
 ## Alternative Content Approaches
 
-### 1. **Focus Shifts dla Problematic Content**
+### 1. **Focus Shifts for Problematic Content**
 
-**Instead of**: Genji's relationship z young Murasaki  
+**Instead of**: Genji's relationship with young Murasaki
 **Focus on**: Revolutionary character development techniques
 
-**Instead of**: Sexual assault themes  
-**Focus on**: Psychological depth i emotional complexity
+**Instead of**: Sexual assault themes
+**Focus on**: Psychological depth and emotional complexity
 
-**Instead of**: Incestuous relationships  
-**Focus on**: Power dynamics i social critique
+**Instead of**: Incestuous relationships
+**Focus on**: Power dynamics and social critique
 
 ### 2. **Education-First Approaches**
 
 **Literary Analysis Angle**:
 - First psychological novel ever written
-- Revolutionary narrative techniques  
-- Influence na Virginia Woolf, modern literature
+- Revolutionary narrative techniques
+- Influence on Virginia Woolf, modern literature
 - Writing innovations that shaped storytelling
 
 **Cultural Impact Angle**:
-- Influence na Japanese culture przez 1000 lat
-- Adaptations w manga, anime, games
-- Modern relevance w #BookTok culture
+- Influence on Japanese culture for 1000 years
+- Adaptations in manga, anime, games
+- Modern relevance in #BookTok culture
 - UNESCO Memory of the World significance
 
 **Women's History Angle**:
-- Murasaki Shikibu jako pioneering female author
-- Women writers w Heian period (800-1200)
-- First published female novelist w history
-- Impact na feminist literature
+- Murasaki Shikibu as pioneering female author
+- Women writers in Heian period (800-1200)
+- First published female novelist in history
+- Impact on feminist literature
 
 ### 3. **Contemporary Connection Strategies**
 
 **Psychology/Mental Health**:
 - Early insights into human psychology
-- Emotional intelligence w relationships
+- Emotional intelligence in relationships
 - Processing grief and loss
 - Understanding complex emotions
 
 **Dating/Relationships (For mature audiences)**:
-- Red flags w historical context
+- Red flags in historical context
 - Evolution of relationship standards
 - Communication through art/poetry
 - Emotional authenticity lessons
@@ -298,19 +298,19 @@ Context: Academic analysis only
 - [ ] Plan alternative approaches for sensitive topics
 - [ ] Research current platform policies (monthly updates)
 
-### During Production ✅  
+### During Production ✅
 - [ ] Include content warnings at start
 - [ ] Maintain educational context throughout
 - [ ] Avoid graphic descriptions of problematic content
 - [ ] Include historical context disclaimers
-- [ ] Focus na literary/cultural significance
+- [ ] Focus on literary/cultural significance
 
 ### Post-Production ✅
 - [ ] Review all platform-specific guidelines
 - [ ] Add appropriate age ratings
 - [ ] Include educational resource links
 - [ ] Monitor audience reactions
-- [ ] Prepare responses dla potential concerns
+- [ ] Prepare responses for potential concerns
 
 ---
 
@@ -332,7 +332,7 @@ Context: Academic analysis only
 
 3. **Backup Plans**:
    - Alternative versions with heavy editing
-   - Focus shift to less controversial aspects  
+   - Focus shift to less controversial aspects
    - Academic interview format
    - Historical context episodes
 
@@ -347,7 +347,7 @@ Context: Academic analysis only
 
 ### ⚠️ **CAUTION PLATFORMS**:
 - **TikTok**: Only literary innovations, avoid relationships
-- **Instagram**: Focus na cultural impact, avoid plot details
+- **Instagram**: Focus on cultural impact, avoid plot details
 
 ### ❌ **AVOID OR HEAVILY EDIT**:
 - **Facebook**: High ban risk, requires significant content editing
@@ -356,19 +356,19 @@ Context: Academic analysis only
 
 ## Conclusion
 
-"Opowieść o księciu Genjim" presents significant content challenges dla social media platforms w 2025. However, its immense educational i cultural value makes it worthwhile content when approached responsibly. Key success factors:
+"The Tale of Genji" presents significant content challenges for social media platforms in 2025. However, its immense educational and cultural value makes it worthwhile content when approached responsibly. Key success factors:
 
 1. **Educational framing** above all else
-2. **Platform-specific strategies** based on 2025 policies  
-3. **Appropriate age restrictions** dla all content
-4. **Focus na literary significance** over controversial plot elements
-5. **Content warnings** dla mature themes
+2. **Platform-specific strategies** based on 2025 policies
+3. **Appropriate age restrictions** for all content
+4. **Focus on literary significance** over controversial plot elements
+5. **Content warnings** for mature themes
 
-The book's status jako first novel ever written i its continued relevance dla understanding human psychology provides strong justification dla educational treatment across all platforms, provided proper safeguards are implemented.
+The book's status as first novel ever written and its continued relevance for understanding human psychology provides strong justification for educational treatment across all platforms, provided proper safeguards are implemented.
 
-**Bottom Line**: Possible across all platforms with appropriate content strategy i educational framing, but requires careful navigation of platform-specific risks, particularly around grooming i sexual assault themes.
+**Bottom Line**: Possible across all platforms with appropriate content strategy and educational framing, but requires careful navigation of platform-specific risks, particularly around grooming and sexual assault themes.
 
 ---
 
-*Assessment completed: 2025-09-01*  
+*Assessment completed: 2025-09-18*
 *Next review recommended: Before publication, monthly platform policy updates*

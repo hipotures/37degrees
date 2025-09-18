@@ -1,220 +1,220 @@
-# OCENA ZGODNOŚCI TREŚCI I KLASYFIKACJA WIEKOWA
-## "Epos o Gilgameszu" - Content Warnings Assessment
+# CONTENT COMPLIANCE ASSESSMENT AND AGE CLASSIFICATION
+## "The Epic of Gilgamesh" - Content Warnings Assessment
 
-**Książka**: The Epic of Gilgamesh / Epos o Gilgameszu  
-**Autor**: Anonymous (anonimowy, ok. XVIII w. p.n.e.)  
-**Data oceny**: 2025-09-01  
-**Agent**: au-content_warnings_assessment  
-
----
-
-## STRESZCZENIE WYKONAWCZE
-
-"Epos o Gilgameszu" - najstarsze dzieło literackie świata - zawiera wrażliwe treści, które wymagają ostrożnego podejścia na różnych platformach społecznościowych. Główne obszary ryzyka obejmują przemoc seksualną, tematykę LGBTQ+, kontrowersje religijne oraz przemoc fizyczną. Poziom ryzyka znacząco różni się między platformami, przy najwyższym ryzyku na platformach Meta (Facebook/Instagram) ze względu na nowe, liberalizowane ale nieprzewidywalne zasady moderacji.
+**Book**: The Epic of Gilgamesh
+**Author**: Anonymous (c. 18th century BC)
+**Assessment Date**: 2025-09-18
+**Agent**: au-content_warnings_assessment
 
 ---
 
-## MATRIX PROBLEMÓW VS PLATFORMY
+## EXECUTIVE SUMMARY
 
-| Problematyczny Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|---------------------|----------|-----------|---------|--------|---------|------|
-| **Przemoc seksualna Gilgamesza** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Relacja homoerotyczna G-E** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Święta prostytucja (Shamhat)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
-| **Kontrowersje biblijne** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
-| **Przemoc/walki brutalne** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Toksyczna męskość** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Teorie spiskowe** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
+"The Epic of Gilgamesh" - the world's oldest literary work - contains sensitive content that requires careful handling across different social media platforms. Main risk areas include sexual violence, LGBTQ+ themes, religious controversies, and physical violence. Risk levels vary significantly between platforms, with highest risk on Meta platforms (Facebook/Instagram) due to new, liberalized but unpredictable moderation policies.
 
 ---
 
-## ANALIZA SZCZEGÓŁOWA WRAŻLIWYCH TREŚCI
+## RISK MATRIX: PROBLEMATIC TOPICS VS PLATFORMS
 
-### 1. PRZEMOC SEKSUALNA I WYKORZYSTYWANIE WŁADZY 
+| Problematic Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|-------------------|----------|-----------|---------|--------|---------|------|
+| **Gilgamesh Sexual Violence** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Homoerotic G-E Relationship** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Sacred Prostitution (Shamhat)** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
+| **Biblical Controversies** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW |
+| **Violence/Brutal Fights** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Toxic Masculinity** | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Conspiracy Theories** | 🔴 HIGH | 🔴 HIGH | 🟡 MEDIUM | 🟡 MEDIUM | 🟡 MEDIUM | 🟢 LOW |
 
-**Problematyczne elementy z researchu:**
-- Gilgamesz "nie zostawia dziewczyny matce - córki wojownika ani narzeczonej młodego mężczyzny"
-- Systematyczne gwałty lub uwodzenie kobiet przez króla
-- "Dzikie szaleństwa" eufemistycznie nazywane "surowym panowaniem"
-- Kultura gwałtu w starożytnej Mezopotamii
+---
 
-**Risk Assessment:**
-- **Facebook/Instagram**: 🔴 **AGE-RESTRICT** - Nowe zasady Meta mogą być nieprzewidywalne
-- **YouTube**: 🟡 **EDIT/FRAME** - Wymaga educational framing
-- **TikTok**: 🟡 **EDIT/FRAME** - Educational context konieczny  
-- **Spotify**: 🟢 **OK** - z trigger warnings
-- **Kick**: 🟢 **OK** - najmniej restrykcyjna platforma
+## DETAILED ANALYSIS OF SENSITIVE CONTENT
 
-### 2. TEMATYKA LGBTQ+ I INTERPRETACJE HOMOEROTYCZNE
+### 1. SEXUAL VIOLENCE AND ABUSE OF POWER
 
-**Problematyczne elementy:**
-- "Pokochałem go jak kobietę" - Gilgamesz o Enkidu
-- Homoerotyczny subtext w relacji głównych bohaterów
-- Kweer interpretacje w badaniach akademickich
-- Fluidność płciowa w starożytnej Mezopotamii
-
-**Risk Assessment:**
-- **Facebook/Instagram**: 🔴 **PLATFORM RISK** - Nowe zasady Meta pozwalają nazywanie osób LGBTQ+ "it"
-- **YouTube**: 🟡 **CAREFUL FRAMING** - Educational perspective konieczna
-- **TikTok**: 🟡 **CAREFUL FRAMING** - Moderate risk w educational context
-- **Spotify**: 🟢 **OK** - Audio format mniej ryzykowny
-- **Kick**: 🟢 **OK** - Najbardziej tolerancyjna platforma
-
-### 3. KONTROWERSJE RELIGIJNE I BIBLIJNE
-
-**Problematyczne elementy:**
-- Plagiat vs wspólne źródła debata (Biblia vs Gilgamesz)
-- Potop jako "pierwsza globalna fake news"
-- Babel und Bibel kontrowersje
-- Fundamentalistyczny opór w szkołach
+**Problematic elements from research:**
+- Gilgamesh "leaves no girl to her mother - neither the warrior's daughter nor the wife of the noble"
+- Systematic rape or seduction of women by the king
+- "Wild ravishments" euphemistically called "harsh rule"
+- Rape culture in ancient Mesopotamia
 
 **Risk Assessment:**
-- **Facebook/Instagram**: 🔴 **HIGH RISK** - Community Notes system niestabilny
-- **YouTube**: 🟡 **ACADEMIC FRAMING** - Wymaga scholarly approach
-- **TikTok**: 🟡 **EDUCATIONAL ONLY** - Academic context konieczny
+- **Facebook/Instagram**: 🔴 **AGE-RESTRICT** - New Meta policies may be unpredictable
+- **YouTube**: 🟡 **EDIT/FRAME** - Requires educational framing
+- **TikTok**: 🟡 **EDIT/FRAME** - Educational context necessary
+- **Spotify**: 🟢 **OK** - with trigger warnings
+- **Kick**: 🟢 **OK** - least restrictive platform
+
+### 2. LGBTQ+ THEMES AND HOMOEROTIC INTERPRETATIONS
+
+**Problematic elements:**
+- "I loved him like a woman" - Gilgamesh about Enkidu
+- Homoerotic subtext in main characters' relationship
+- Queer interpretations in academic studies
+- Gender fluidity in ancient Mesopotamia
+
+**Risk Assessment:**
+- **Facebook/Instagram**: 🔴 **PLATFORM RISK** - New Meta policies allow calling LGBTQ+ people "it"
+- **YouTube**: 🟡 **CAREFUL FRAMING** - Educational perspective required
+- **TikTok**: 🟡 **CAREFUL FRAMING** - Moderate risk in educational context
+- **Spotify**: 🟢 **OK** - Audio format less risky
+- **Kick**: 🟢 **OK** - Most tolerant platform
+
+### 3. RELIGIOUS CONTROVERSIES AND BIBLICAL PARALLELS
+
+**Problematic elements:**
+- Plagiarism vs common sources debate (Bible vs Gilgamesh)
+- Flood as "first global fake news"
+- Babel und Bibel controversies
+- Fundamentalist resistance in schools
+
+**Risk Assessment:**
+- **Facebook/Instagram**: 🔴 **HIGH RISK** - Community Notes system unstable
+- **YouTube**: 🟡 **ACADEMIC FRAMING** - Requires scholarly approach
+- **TikTok**: 🟡 **EDUCATIONAL ONLY** - Academic context necessary
 - **Spotify**: 🟢 **OK** - Academic discourse format
-- **Kick**: 🟢 **OK** - Najmniej problemów z religious content
+- **Kick**: 🟢 **OK** - Least problems with religious content
 
-### 4. TEORIE SPISKOWE I ARCHEOLOGIA
+### 4. CONSPIRACY THEORIES AND ARCHAEOLOGY
 
-**Problematyczne elementy:**
-- DNA Gilgamesza i wskrzeszanie teorię
-- Anunnaki i kosmiczne konspiracje  
-- Wojna w Iraku jako ukrywanie prawdy
-- Okultystyczne interpretacje
+**Problematic elements:**
+- Gilgamesh DNA and resurrection theories
+- Anunnaki and cosmic conspiracies
+- Iraq War as truth concealment
+- Occultist interpretations
 
 **Risk Assessment:**
 - **Facebook/Instagram**: 🔴 **DEMONETIZATION RISK** - Misinformation concerns
-- **YouTube**: 🟡 **FRAME AS FICTION** - Wymaga jasne "theory" labeling
-- **TikTok**: 🟡 **CONSPIRACY RISK** - Algorytm może flagować
-- **Spotify**: 🟡 **LABEL CLEARLY** - Audio conspiracy content ryzykowne
-- **Kick**: 🟢 **OK** - Najliberalniejsza platforma
+- **YouTube**: 🟡 **FRAME AS FICTION** - Requires clear "theory" labeling
+- **TikTok**: 🟡 **CONSPIRACY RISK** - Algorithm may flag
+- **Spotify**: 🟡 **LABEL CLEARLY** - Audio conspiracy content risky
+- **Kick**: 🟢 **OK** - Most liberal platform
 
 ---
 
-## KLASYFIKACJA WIEKOWA I CONTENT WARNINGS
+## AGE CLASSIFICATION AND CONTENT WARNINGS
 
-### OGÓLNA KLASYFIKACJA: **16+** 
-*Ze względu na dojrzałe treści dotyczące przemocy seksualnej, interpretacji homoerotycznych i kontrowersji religijnych*
+### GENERAL CLASSIFICATION: **16+**
+*Due to mature content involving sexual violence, homoerotic interpretations, and religious controversies*
 
 ### PLATFORM-SPECIFIC AGE GUIDANCE:
 
 #### Facebook/Instagram: **18+**
-- Wysokie ryzyko unpredictable moderation
-- Age restriction recommended dla wszystkich wrażliwych tematów
+- High risk of unpredictable moderation
+- Age restriction recommended for all sensitive topics
 
-#### YouTube: **16+** 
-- Z educational framing i proper disclaimers
-- Human narrator required (nie text-to-speech)
+#### YouTube: **16+**
+- With educational framing and proper disclaimers
+- Human narrator required (not text-to-speech)
 
 #### TikTok: **16+**
-- Tylko content powyżej 1 minuty może być monetized
-- Educational framing konieczne
+- Only content over 1 minute can be monetized
+- Educational framing necessary
 
-#### Spotify: **13+**  
-- Audio format naturalnie mniej kontrowersyjny
-- Z appropriate trigger warnings
+#### Spotify: **13+**
+- Audio format naturally less controversial
+- With appropriate trigger warnings
 
 #### Kick: **13+**
-- Najmniej restrictive platform
-- Best revenue potential dla academic content
+- Least restrictive platform
+- Best revenue potential for academic content
 
 ---
 
-## SZCZEGÓŁOWE REKOMENDACJE DLA KAŻDEJ PLATFORMY
+## DETAILED RECOMMENDATIONS FOR EACH PLATFORM
 
-### 📘 FACEBOOK - **UNIKAJ LUB EXTREME CAUTION**
+### 📘 FACEBOOK - **AVOID OR EXTREME CAUTION**
 
-**Status**: 🔴 **WYSOKIE RYZYKO**
+**Status**: 🔴 **HIGH RISK**
 
-**Problemy**:
-- Nowe zasady liberalizujące hate speech (nazywanie kobiet "objects")
-- Community Notes system może być nieprzewidywalny
-- LGBTQ+ content może być flagowane pod new policies
+**Problems**:
+- New policies liberalizing hate speech (calling women "objects")
+- Community Notes system may be unpredictable
+- LGBTQ+ content may be flagged under new policies
 
-**Rekomendacje**:
-- **AVOID** - Nie publikuj wrażliwych treści o Gilgameszu na FB
-- Jeśli musisz: **18+** age restriction obligatory
-- Focus only na positive educational aspects
+**Recommendations**:
+- **AVOID** - Don't publish sensitive Gilgamesh content on FB
+- If necessary: **18+** age restriction mandatory
+- Focus only on positive educational aspects
 - NO political/religious interpretations
-- NO LGBTQ+ themes discussion
+- NO LGBTQ+ theme discussions
 
-### 📷 INSTAGRAM - **UNIKAJ LUB EXTREME CAUTION**
+### 📷 INSTAGRAM - **AVOID OR EXTREME CAUTION**
 
-**Status**: 🔴 **WYSOKIE RYZYKO** (same rules as Facebook)
+**Status**: 🔴 **HIGH RISK** (same rules as Facebook)
 
-**Rekomendacje**:
-- Koncentruj się na **aesthetic/visual content tylko**
-- Mesopotamian art i archaeology imagery OK
-- **UNIKAJ** text-based posts o kontrowersyjnych tematach
-- Used hashtagi: `#ancientart` `#archaeology` `#mesopotamia`
+**Recommendations**:
+- Focus on **aesthetic/visual content only**
+- Mesopotamian art and archaeology imagery OK
+- **AVOID** text-based posts about controversial topics
+- Use hashtags: `#ancientart` `#archaeology` `#mesopotamia`
 - **AVOID**: `#LGBTQ` `#toxicmasculinity` `#religiousdebate`
 
-### 📺 YOUTUBE - **ŚREDNIE RYZYKO Z PROPER STRATEGY**
+### 📺 YOUTUBE - **MEDIUM RISK WITH PROPER STRATEGY**
 
 **Status**: 🟡 **MEDIUM RISK - WORKABLE**
 
 **MUST DO**:
-- **Human narrator** (nie text-to-speech) - CRITICAL dla monetization
-- **Educational framing** dla wszystkich sensitive topics
-- **Clear disclaimers** na początku videos
+- **Human narrator** (not text-to-speech) - CRITICAL for monetization
+- **Educational framing** for all sensitive topics
+- **Clear disclaimers** at video start
 - **Academic sources** referenced in description
 
 **SAFE APPROACH**:
-- Literature analysis i historical context
+- Literature analysis and historical context
 - Academic guest experts interviewed
 - "University lecture" style presentation
-- Storytelling approach z personal commentary
+- Storytelling approach with personal commentary
 
 **AVOID**:
-- Conspiracy theories jako facts
-- Explicit sexual content description 
-- Religious debate jako primary focus
-- AI-generated content bez human input
+- Conspiracy theories as facts
+- Explicit sexual content description
+- Religious debate as primary focus
+- AI-generated content without human input
 
-### 📱 TIKTOK - **ŚREDNIE RYZYKO - SPECJALNA STRATEGIA**
+### 📱 TIKTOK - **MEDIUM RISK - SPECIAL STRATEGY**
 
 **Status**: 🟡 **MEDIUM RISK - POTENTIAL HIGH REWARD**
 
 **CRITICAL REQUIREMENTS**:
-- **1+ minute videos TYLKO** - shorter nie monetize
-- **Original commentary** - nie copying other content
-- **Educational framing** wszystkich sensitive topics
-- **No duets/stitches** sensitive content
+- **1+ minute videos ONLY** - shorter don't monetize
+- **Original commentary** - no copying other content
+- **Educational framing** for all sensitive topics
+- **No duets/stitches** of sensitive content
 
 **WINNING STRATEGY**:
-- "Ancient wisdom dla modern problems" approach
-- Gilgamesh-Enkidu jako model healthy male friendship
+- "Ancient wisdom for modern problems" approach
+- Gilgamesh-Enkidu as model of healthy male friendship
 - BookTok mythology retelling connection
-- Mental health i toxic masculinity education
+- Mental health and toxic masculinity education
 
 **SAFE HASHTAGS**: `#ancientliterature` `#mythology` `#friendship` `#mentalhealth`
 **RISKY HASHTAGS**: `#conspiracy` `#religious` `#LGBTQ` `#controversial`
 
-### 🎵 SPOTIFY - **NISKIE RYZYKO - RECOMMENDED PLATFORM**
+### 🎵 SPOTIFY - **LOW RISK - RECOMMENDED PLATFORM**
 
 **Status**: 🟢 **LOW RISK - OPTIMAL CHOICE**
 
 **ADVANTAGES**:
-- Audio format naturalnie less controversial
+- Audio format naturally less controversial
 - Academic podcast format accepted
 - Cross-platform monetization possible
 - Video podcast = higher revenue potential
 
 **BEST PRACTICES**:
-- **Video format** dla maximum earnings
-- **Trigger warnings** na początku episodes
+- **Video format** for maximum earnings
+- **Trigger warnings** at episode start
 - **Academic interview** format
-- **Expert guests** dla credibility
+- **Expert guests** for credibility
 - **Series approach** - episodic exploration
 
 **SAFE CONTENT STRATEGY**:
-- Literature analysis i historical context
-- Polish translations discussion
+- Literature analysis and historical context
+- Translation discussions
 - Cultural impact analysis
 - Academic expert interviews
 
-### 🎮 KICK - **NAJLEPSZA OPCJA DLA ZAROBKÓW**
+### 🎮 KICK - **BEST OPTION FOR REVENUE**
 
 **Status**: 🟢 **LOWEST RISK - BEST REVENUE**
 
@@ -222,91 +222,91 @@
 - **95/5 revenue split** - industry leading
 - **Creator-friendly policies** most liberal
 - **Educational content** fully supported
-- **Interactive format** ideal dla live literature discussion
+- **Interactive format** ideal for live literature discussion
 
 **OPTIMAL STRATEGY**:
-- **Live reading sessions** z community engagement
-- **Interactive literature analysis** z chat participation
+- **Live reading sessions** with community engagement
+- **Interactive literature analysis** with chat participation
 - **Book club style** discussions
-- **Academic experts** jako guests
+- **Academic experts** as guests
 - **Series format** building consistent audience
 
 **MONETIZATION PATH**:
-1. Start z Affiliate (75 followers, 5 hours)
-2. Build do KCIP (100 concurrent, $16/hour)  
-3. Partner Program dla maximum revenue
+1. Start with Affiliate (75 followers, 5 hours)
+2. Build to KCIP (100 concurrent, $16/hour)
+3. Partner Program for maximum revenue
 4. 95% donation retention
 
 ---
 
-## CONTENT WARNINGS I TRIGGER WARNINGS
+## CONTENT WARNINGS AND TRIGGER WARNINGS
 
-### REKOMENDOWANE TRIGGER WARNINGS:
+### RECOMMENDED TRIGGER WARNINGS:
 
-**Dla wszystkich platform**:
+**For all platforms**:
 ```
-⚠️ CONTENT WARNING: Ten odcinek zawiera dyskusję o:
-• Przemocy seksualnej w tekstach starożytnych
-• Interpretacjach homoerotycznych w literaturze klasycznej  
-• Kontrowersyjnych teoriach archeologicznych
-• Dojrzałych tematach dotyczących śmiertelności i przemocy
+⚠️ CONTENT WARNING: This episode contains discussion of:
+• Sexual violence in ancient texts
+• Homoerotic interpretations in classical literature
+• Controversial archaeological theories
+• Mature themes regarding mortality and violence
 
-Zawartość ma charakter edukacyjny i akademicki.
-Dla odbiorców 16+
+Content is educational and academic in nature.
+For audiences 16+
 ```
 
-**Dla Spotify (audio-specific)**:
+**For Spotify (audio-specific)**:
 ```
-🎧 OSTRZEŻENIE: Niniejszy podcast zawiera treści akademickie 
-dotyczące przemocy w tekstach starożytnych oraz interpretacji 
-erotycznych w literaturze klasycznej. Materiał przeznaczony 
-dla słuchaczy powyżej 16 lat.
+🎧 WARNING: This podcast contains academic content about
+violence in ancient texts and erotic interpretations in
+classical literature. Material intended for listeners
+aged 16 and above.
 ```
 
 ---
 
-## STRATEGIA MITIGATION RISK
+## RISK MITIGATION STRATEGY
 
 ### 1. EDUCATIONAL FRAMING STRATEGY
-- Zawsze present jako **academic analysis**, nie entertainment
-- Include **historical context** dla wszystkich controversial topics  
-- Reference **scholarly sources** i expert opinions
+- Always present as **academic analysis**, not entertainment
+- Include **historical context** for all controversial topics
+- Reference **scholarly sources** and expert opinions
 - Present **multiple perspectives** instead of single interpretation
 
-### 2. EXPERT CREDIBILITY APPROACH  
+### 2. EXPERT CREDIBILITY APPROACH
 - Interview **university professors** specializing in ancient literature
-- Reference **peer-reviewed research** w discussions
+- Reference **peer-reviewed research** in discussions
 - Include **Polish academic perspectives** (Stiller, Lange translations)
-- **Archaeological evidence** jako supporting material
+- **Archaeological evidence** as supporting material
 
 ### 3. CULTURAL SENSITIVITY PROTOCOL
-- Acknowledge **different cultural interpretations** 
+- Acknowledge **different cultural interpretations**
 - Respect **religious sensitivities** while maintaining scholarly integrity
-- Present **LGBTQ+ themes** jako academic interpretation, nie advocacy
-- Address **conspiracy theories** jako cultural phenomena, nie facts
+- Present **LGBTQ+ themes** as academic interpretation, not advocacy
+- Address **conspiracy theories** as cultural phenomena, not facts
 
 ### 4. PLATFORM-SPECIFIC OPTIMIZATION
 
 **Safe Content Universally**:
-- Literature analysis i historical facts
+- Literature analysis and historical facts
 - Translation comparisons (Polish versions)
-- Cultural impact i influence studies  
+- Cultural impact and influence studies
 - Archaeological discoveries
 - Academic expert interviews
 
 **Platform-Specific Safe Zones**:
-- **YouTube**: Long-form educational content z human narration
-- **TikTok**: 1+ minute philosophy i wisdom content
-- **Spotify**: Academic podcast format z expert guests
-- **Kick**: Interactive book club i literature discussion streams
+- **YouTube**: Long-form educational content with human narration
+- **TikTok**: 1+ minute philosophy and wisdom content
+- **Spotify**: Academic podcast format with expert guests
+- **Kick**: Interactive book club and literature discussion streams
 
 ---
 
-## ALTERNATYWNE PODEJŚCIA DLA RÓŻNYCH AUDIENCE
+## ALTERNATIVE APPROACHES FOR DIFFERENT AUDIENCES
 
 ### 1. FAMILY-FRIENDLY VERSION (13+)
 **Focus areas**:
-- Friendship i loyalty themes
+- Friendship and loyalty themes
 - Historical discovery story (George Smith)
 - Archaeological adventure
 - Ancient civilization achievements
@@ -314,23 +314,23 @@ dla słuchaczy powyżej 16 lat.
 
 **Avoid entirely**:
 - Sexual content references
-- Religious controversies  
+- Religious controversies
 - LGBTQ+ interpretations
 - Conspiracy theories
 - Graphic violence descriptions
 
-### 2. ACADEMIC VERSION (16+)  
+### 2. ACADEMIC VERSION (16+)
 **Include**:
 - Literary analysis techniques
-- Historical context i influence
+- Historical context and influence
 - Translation challenges
 - Scholarly interpretations
 - Cultural impact studies
 
 **Handle carefully**:
-- Sexual themes jako literary elements
-- Religious parallels jako scholarly comparison
-- Social commentary z proper context
+- Sexual themes as literary elements
+- Religious parallels as scholarly comparison
+- Social commentary with proper context
 
 ### 3. ADULT ANALYSIS VERSION (18+)
 **Full academic freedom**:
@@ -342,10 +342,10 @@ dla słuchaczy powyżej 16 lat.
 
 ---
 
-## FINALNA CHECKLISTĄ COMPLIANCE
+## FINAL COMPLIANCE CHECKLIST
 
-### ✅ UNIWERSALNE REQUIREMENTS:
-- [ ] Educational framing dla wszystkich sensitive topics
+### ✅ UNIVERSAL REQUIREMENTS:
+- [ ] Educational framing for all sensitive topics
 - [ ] Appropriate age ratings (13+/16+/18+)
 - [ ] Clear trigger warnings provided
 - [ ] Expert sources referenced
@@ -355,26 +355,26 @@ dla słuchaczy powyżej 16 lat.
 ### ✅ PLATFORM-SPECIFIC CHECKLIST:
 
 #### Facebook/Instagram:
-- [ ] Extreme caution z controversial topics - AVOID recommendation
+- [ ] Extreme caution with controversial topics - AVOID recommendation
 - [ ] Visual content only (archaeological images)
 - [ ] No political/religious debate
 - [ ] 18+ age restriction if necessary
 
 #### YouTube:
 - [ ] Human narrator (CRITICAL)
-- [ ] 1+ minute educational format  
-- [ ] Original commentary i analysis
+- [ ] 1+ minute educational format
+- [ ] Original commentary and analysis
 - [ ] Scholarly sources in description
 - [ ] Educational disclaimer at start
 
 #### TikTok:
 - [ ] 1+ minute content only
-- [ ] Original content (no duets sensitive topics)
+- [ ] Original content (no duets of sensitive topics)
 - [ ] Educational hashtags only
 - [ ] "BookTok" mythology approach
 
 #### Spotify:
-- [ ] Video format dla better revenue
+- [ ] Video format for better revenue
 - [ ] Audio trigger warnings
 - [ ] Academic podcast format
 - [ ] Cross-platform promotion strategy
@@ -387,43 +387,43 @@ dla słuchaczy powyżej 16 lat.
 
 ---
 
-## KOŃCOWA OCENA I REKOMENDACJE
+## FINAL ASSESSMENT AND RECOMMENDATIONS
 
-### NAJLEPSZA STRATEGIA MULTI-PLATFORM:
+### BEST MULTI-PLATFORM STRATEGY:
 
-1. **PRIMARY PLATFORM**: **Kick** - najlepsza monetization + najmniej restrictions
-2. **SECONDARY**: **Spotify** - audio podcast format, video upgrade option  
+1. **PRIMARY PLATFORM**: **Kick** - best monetization + least restrictions
+2. **SECONDARY**: **Spotify** - audio podcast format, video upgrade option
 3. **TERTIARY**: **YouTube** - long-form educational content
-4. **CAUTION**: **TikTok** - possible, ale wymaga careful strategy
-5. **AVOID**: **Facebook/Instagram** - zbyt wysokie ryzyko unpredictable moderation
+4. **CAUTION**: **TikTok** - possible, but requires careful strategy
+5. **AVOID**: **Facebook/Instagram** - too high risk of unpredictable moderation
 
 ### FINAL RECOMMENDATIONS:
 
 **IDEAL CONTENT APPROACH**:
-- Lead z **Kick live streams** (highest revenue, most freedom)
-- Repurpose do **Spotify podcast** (reach broader audience)
+- Lead with **Kick live streams** (highest revenue, most freedom)
+- Repurpose to **Spotify podcast** (reach broader audience)
 - Create **YouTube educational series** (academic credibility)
 - **SKIP Meta platforms** until policies stabilize
 
 **REVENUE OPTIMIZATION**:
 - Kick: 95/5 split + hourly payouts potential
-- Spotify: Video podcast format dla premium
+- Spotify: Video podcast format for premium
 - YouTube: Educational content + channel memberships
 - Cross-platform promotion strategy
 
 **CONTENT SAFETY**:
-- Academic expert guests dla credibility
+- Academic expert guests for credibility
 - University-style presentation format
 - Clear educational disclaimers
 - Age-appropriate content warnings
 - Cultural sensitivity maintained
 
 **RISK MITIGATION**:
-- Test content na Kick first (most liberal policies)
-- Monitor platform policy changes regularly  
+- Test content on Kick first (most liberal policies)
+- Monitor platform policy changes regularly
 - Maintain backup content strategies
 - Focus on universal educational value
 
 ---
 
-*Dokument przygotowany na podstawie analizy 8 materiałów badawczych oraz aktualnych wytycznych platform społecznościowych stan na wrzesień 2025.*
+*Document prepared based on analysis of 8 research materials and current social media platform guidelines as of September 2025.*

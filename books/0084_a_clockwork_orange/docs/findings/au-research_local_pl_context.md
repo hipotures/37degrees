@@ -1,113 +1,113 @@
-# Lokalny kontekst kulturowy: "Mechaniczna pomarańcza" w Polsce
+# Local Cultural Context: "A Clockwork Orange" in Poland
 
-*Badanie przeprowadzone: 30 sierpnia 2025*
+*Research conducted: August 30, 2025*
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Cenzura w PRL (1962-1989)
-1. **Blokada cenzorska**: "Mechanicznej pomarańczy" ma w Polsce nie być! I przez 15 lat cenzura prowadziła z nią wojnę
-2. **Główny Urząd Kontroli Publikacji i Widowisk** systematycznie blokował dostęp do książki
-3. **Powody cenzury**: Tematyka przemocy, eksperyment językowy, krytyka systemów autorytarnych
-4. **Film Kubricka**: Również zakazany do 1989 roku jako "deprawacja i pornografia"
-5. **Koniec cenzury**: Dopiero po 11 kwietnia 1990 roku książka mogła być swobodnie wydawana
+### Censorship in People's Republic of Poland (1962-1989)
+1. **Censorship blockade**: "A Clockwork Orange" should not exist in Poland! For 15 years, censorship waged war against it
+2. **Main Office for Control of Publications and Entertainment** systematically blocked access to the book
+3. **Reasons for censorship**: Violence themes, linguistic experiment, criticism of authoritarian systems
+4. **Kubrick's film**: Also banned until 1989 as "depravity and pornography"
+5. **End of censorship**: Only after April 11, 1990, could the book be freely published
 
-### Pierwsze wydania polskie
-6. **Lata 90. XX wieku**: Pierwsze legalne wydania po upadku komunizmu
-7. **Dwie wersje równocześnie**: Unikalna sytuacja - dwa tłumaczenia tego samego dzieła
-8. **Sukces sprzedażowy**: Ponad 50-60 tysięcy egzemplarzy sprzedanych w Polsce
-9. **Kultowy status**: Książka stała się symbolem wolności po cenzurze
+### First Polish Editions
+6. **1990s**: First legal editions after the fall of communism
+7. **Two versions simultaneously**: Unique situation - two translations of the same work
+8. **Commercial success**: Over 50-60 thousand copies sold in Poland
+9. **Cult status**: The book became a symbol of freedom after censorship
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
-### Robert Stiller - mistrz przekładu
-10. **Biografia**: Robert Reuven Stiller (1928-2016), poliglota znający ponad 60 języków
-11. **Wielojęzyczność**: Aktywnie posługiwał się 30 językami
-12. **Wersja R**: "Mechaniczna pomarańcza" - nadsat oparty na wpływach rosyjskich
-13. **Wersja A**: "Nakręcana pomarańcza" - nadsat oparty na wpływach angielskich
-14. **Zapowiedź wersji N**: Planowana "Sprężynowa pomarańcza" z wpływami niemieckimi
-15. **Kontrowersje**: Stiller był postacią kontrowersyjną, współpracował z SB przez 25 lat
-16. **Innowacja językowa**: "To nie tylko błyskotliwy popis językowej inwencji. To coś przerażająco realnego"
+### Robert Stiller - Translation Master
+10. **Biography**: Robert Reuven Stiller (1928-2016), polyglot knowing over 60 languages
+11. **Multilingualism**: Actively used 30 languages
+12. **Version R**: "Mechaniczna pomarańcza" - nadsat based on Russian influences
+13. **Version A**: "Nakręcana pomarańcza" - nadsat based on English influences
+14. **Planned Version N**: Intended "Sprężynowa pomarańcza" with German influences
+15. **Controversies**: Stiller was a controversial figure, collaborated with secret police for 25 years
+16. **Linguistic innovation**: "This is not just a brilliant display of linguistic invention. This is something terrifyingly real"
 
-### Wyzwania tłumaczeniowe
-17. **Problem kognatów**: Polski jako język słowiański dzieli wiele wspólnych słów z rosyjskim
-18. **Utrata egzotyczności**: Rosyjskie słowa w nadsacie traciły swój obcy charakter w polskim
-19. **Kreacja nowego slangu**: Stiller musiał stworzyć sztuczny język zachowujący efekt alienacji
-20. **Krytyka akademicka**: Badacze zauważali problemy z "przezroczystością" tłumaczenia
+### Translation Challenges
+17. **Cognate problem**: Polish as a Slavic language shares many common words with Russian
+18. **Loss of exoticism**: Russian words in nadsat lost their foreign character in Polish
+19. **Creating new slang**: Stiller had to create artificial language preserving the alienation effect
+20. **Academic criticism**: Researchers noted problems with translation "transparency"
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Status w szkołach
-21. **Nie jest lekturą obowiązkową**: Dzieło nie wchodzi w skład kanonu szkolnego
-22. **Lektura dla zaawansowanych**: Rekomendowana dla starszych uczniów i studentów
-23. **Wartość edukacyjna**: "Lektura obowiązkowa dla każdego miłośnika literatury antyutopijnej"
-24. **Porównania literackie**: Stawiana obok "1984" Orwella i "Nowego wspaniałego świata" Huxleya
-25. **Dyskusje uniwersyteckie**: Przedmiot badań na uczelniach filologicznych i filozoficznych
+### Status in Schools
+21. **Not mandatory reading**: The work is not part of the school canon
+22. **Advanced reading**: Recommended for older students and university students
+23. **Educational value**: "Mandatory reading for every lover of dystopian literature"
+24. **Literary comparisons**: Placed alongside Orwell's "1984" and Huxley's "Brave New World"
+25. **University discussions**: Subject of research at philological and philosophical universities
 
-## Adaptacje teatralne i filmowe
+## Theatrical and Film Adaptations
 
-### Teatr Ludowy, Kraków (2011)
-26. **Reżyser**: Jacek Bunsch
-27. **Premiera**: 18 lutego 2011 w Teatrze Ludowym w Krakowie-Nowej Hucie
-28. **Muzyka**: Janusz Grzywacz skomponował "niemal brechtowskie pieśni"
-29. **Adaptacja**: Wykorzystano wersję sceniczną Burgessa z 1987 roku z dodanymi piosenkami
+### Ludowy Theater, Krakow (2011)
+26. **Director**: Jacek Bunsch
+27. **Premiere**: February 18, 2011, at Ludowy Theater in Krakow-Nowa Huta
+28. **Music**: Janusz Grzywacz composed "almost Brechtian songs"
+29. **Adaptation**: Used Burgess's 1987 stage version with added songs
 
-### Inne adaptacje teatralne
-30. **Teatr im. Stefana Jaracza**: Przedstawienie z 2 grudnia 1991 roku
-31. **Podejście reżyserskie**: Bunsch widział w sztuce "parabolę o losie młodego człowieka"
+### Other Theatrical Adaptations
+30. **Stefan Jaracz Theater**: Performance on December 2, 1991
+31. **Directorial approach**: Bunsch saw the play as "a parable about a young man's fate"
 
-## Nawiązania w kulturze popularnej
+## References in Popular Culture
 
-### Muzyczne inspiracje
-32. **Myslovitz**: Album i piosenka "Korova Milky Bar" nawiązują do baru mlecznego z książki
-33. **Paktofonika**: Grupa hip-hopowa stworzyła utwór zatytułowany "Mechaniczna pomarańcza"
-34. **Die Toten Hosen**: Niemiecki zespół punk-rockowy nawiązuje w "Hier kommt Alex"
+### Musical Inspirations
+32. **Myslovitz**: Album and song "Korova Milky Bar" reference the milk bar from the book
+33. **Paktofonika**: Hip-hop group created a track titled "Mechaniczna pomarańcza"
+34. **Die Toten Hosen**: German punk-rock band references in "Hier kommt Alex"
 
-### Sport i kultura masowa
-35. **Reprezentacja Holandii**: Podczas MŚ 1974 nazywana "Clockwork Orange" od pomarańczowych strojów
+### Sports and Mass Culture
+35. **Netherlands National Team**: During 1974 World Cup called "Clockwork Orange" for their orange uniforms
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specifics
 
-### Społeczność czytelników
-36. **Entuzjazm językowy**: Polscy czytelnicy doceniają eksperyment translatorski Stillera
-37. **Dwie wersje**: Unikalna sytuacja - fani mogą porównać różne podejścia tłumaczeniowe
-38. **Goodreads Poland**: "Mamy dwa arcydzieła w polskich bibliotekach" - komentarz polskiego czytelnika
+### Reader Community
+36. **Linguistic enthusiasm**: Polish readers appreciate Stiller's translational experiment
+37. **Two versions**: Unique situation - fans can compare different translation approaches
+38. **Goodreads Poland**: "We have two masterpieces in Polish libraries" - Polish reader comment
 
-### Dyskusje akademickie
-39. **Badania przekładoznawcze**: Praca "Slang as the Third Language" analizuje polskie tłumaczenia
-40. **Uniwersytet im. Adama Mickiewicza**: Dysertacje doktorskie o przekładzie nadsatu
-41. **Centrum Sztuki Współczesnej**: Ujazdowski organizuje dyskusje z ekspertami
+### Academic Discussions
+39. **Translation studies**: Work "Slang as the Third Language" analyzes Polish translations
+40. **Adam Mickiewicz University**: Doctoral dissertations on nadsat translation
+41. **Contemporary Art Center**: Ujazdowski organizes discussions with experts
 
-## Problemy kulturowe i różnice interpretacyjne
+## Cultural Problems and Interpretational Differences
 
-### Kontekst polityczny
-42. **Trauma komunizmu**: Polacy inaczej odbierają tematy kontroli umysłu i autorytaryzmu
-43. **Doświadczenie cenzury**: 15 lat walki z cenzurą nadaje książce szczególny wymiar
-44. **Terapia Ludovico**: Kojarzona z metodami komunistycznego prania mózgu
-45. **Wolność wyboru**: Szczególnie rezonuje w społeczeństwie postkomunistycznym
+### Political Context
+42. **Communist trauma**: Poles differently perceive themes of mind control and authoritarianism
+43. **Censorship experience**: 15 years of fighting censorship gives the book special dimension
+44. **Ludovico Technique**: Associated with communist brainwashing methods
+45. **Freedom of choice**: Particularly resonates in post-communist society
 
-### Różnice językowe i kulturowe
-46. **Slang młodzieżowy**: Nadsat lepiej pasuje do polskiego kontekstu niż do brytyjskiego
-47. **Przemoc młodzieżowa**: Problem bardziej egzotyczny w Polsce niż w Wielkiej Brytanii lat 60.
-48. **Autorytaryzm**: Polscy czytelnicy mają świeże doświadczenia z systemami totalitarnymi
+### Linguistic and Cultural Differences
+46. **Youth slang**: Nadsat fits Polish context better than British context
+47. **Youth violence**: Problem more exotic in Poland than in 1960s Britain
+48. **Authoritarianism**: Polish readers have fresh experiences with totalitarian systems
 
-## Współczesna recepcja
+## Contemporary Reception
 
-### Festiwale filmowe
-49. **Timeless Film Festival**: Regularne pokazy filmu z dyskusjami
-50. **Splat!FilmFest**: "Mechaniczna pomarańcza" jako klasyk kultowy
-51. **Muzeum Kinematografii w Łodzi**: Stałe miejsce w kolekcji klasyki światowej
+### Film Festivals
+49. **Timeless Film Festival**: Regular screenings of the film with discussions
+50. **Splat!FilmFest**: "A Clockwork Orange" as cult classic
+51. **Museum of Cinematography in Łódź**: Permanent place in world classics collection
 
-### Krytyka współczesna
-52. **Ponadczasowość**: "Wciąż aktualna" w kontekście współczesnej przemocy i manipulacji
-53. **Pytania filozoficzne**: O sprawiedliwość, karę śmierci, tortury w walce z terroryzmem
-54. **Relevance**: Dzieło rezonuje z młodym pokoleniem Polski
+### Contemporary Criticism
+52. **Timelessness**: "Still relevant" in context of contemporary violence and manipulation
+53. **Philosophical questions**: About justice, death penalty, torture in fighting terrorism
+54. **Relevance**: Work resonates with young generation of Poland
 
-## Wnioski dla polskich słuchaczy
+## Conclusions for Polish Listeners
 
-"Mechaniczna pomarańcza" ma w Polsce szczególny status jako dzieło, które przez 15 lat było zakazane przez komunistyczną cenzurę. Dwujęzyczny eksperyment translatorski Roberta Stillera sprawił, że polscy czytelnicy mają unikalną możliwość porównania różnych interpretacji tego samego dzieła. Książka rezonuje szczególnie mocno w społeczeństwie, które ma świeże doświadczenia z systemami autorytarnymi i cenzurą.
+"A Clockwork Orange" has special status in Poland as a work that was banned by communist censorship for 15 years. Robert Stiller's bilingual translation experiment meant that Polish readers have a unique opportunity to compare different interpretations of the same work. The book resonates particularly strongly in a society that has fresh experiences with authoritarian systems and censorship.
 
-Dla polskich czytelników "Mechaniczna pomarańcza" to nie tylko literatura - to symbol wolności słowa i artystycznej ekspresji, który zyskał jeszcze większą wartość przez lata zakazów i ograniczeń.
+For Polish readers, "A Clockwork Orange" is not just literature - it's a symbol of freedom of speech and artistic expression, which gained even greater value through years of bans and restrictions.
 
 ---
 
-*Źródła: Badania internetowe, archiwia kulturalne, wywiady z krytykami, analiza recepcji czytelniczej*
+*Sources: Internet research, cultural archives, interviews with critics, analysis of reader reception*

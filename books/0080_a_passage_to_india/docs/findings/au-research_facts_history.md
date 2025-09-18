@@ -1,131 +1,131 @@
-# Historia powstania "A Passage to India" E.M. Forstera
+# Creation History of "A Passage to India" by E.M. Forster
 
-## Okoliczności powstania książki
+## Circumstances of Book Creation
 
-**FAKT**: E.M. Forster rozpoczął pisanie "A Passage to India" w 1913 roku, bezpośrednio po swojej pierwszej podróży do Indii w latach 1912-1913.
+**FACT**: E.M. Forster began writing "A Passage to India" in 1913, directly after his first journey to India in 1912-1913.
 
-**FAKT**: Pierwsze 7 rozdziałów zostało napisanych zielonym atramentem podczas pierwszego pobytu Forstera w Indiach w 1912-1913 roku, co pozwala na fizyczne rozróżnienie wczesnych szkiców od późniejszych wersji.
+**FACT**: The first 7 chapters were written in green ink during Forster's first stay in India in 1912-1913, allowing for physical distinction between early drafts and later versions.
 
-**FAKT**: Forster przerwał pracę nad powieścią na ponad dekadę i wrócił do pisania dopiero po drugiej podróży do Indii w 1921-1922 roku, kiedy służył jako prywatny sekretarz Maharadży Dewas Senior.
+**FACT**: Forster interrupted work on the novel for over a decade and returned to writing only after his second journey to India in 1921-1922, when he served as private secretary to the Maharajah of Dewas Senior.
 
-**FAKT**: Książka została ostatecznie opublikowana w 1924 roku przez wydawnictwo Edward Arnold & Co., 11 lat po rozpoczęciu pracy nad nią.
+**FACT**: The book was finally published in 1924 by Edward Arnold & Co., 11 years after beginning work on it.
 
-**FAKT**: Ograniczona edycja 200 egzemplarzy została wydana z osobistym podpisem autora w tym samym roku co pierwsze wydanie handlowe.
+**FACT**: A limited edition of 200 copies was published with the author's personal signature in the same year as the first commercial edition.
 
-## Inspiracje autora
+## Author's Inspirations
 
-**FAKT**: Główną inspiracją była przyjaźń Forstera z Syed Ross Masood, indyjskim muzułmaninem, którego Forster uczył w Anglii od 1906 roku. Forster zadedykował mu książkę "z wdzięczności i miłości".
+**FACT**: The main inspiration was Forster's friendship with Syed Ross Masood, an Indian Muslim whom Forster taught in England from 1906. Forster dedicated the book to him "with gratitude and love".
 
-**FAKT**: Forster powiedział o Masood: "Bez niego możliwe, że nigdy nie pojechałbym do Indii. Obudził mnie z mojego podmiejskiego i akademickiego życia, pokazał nowe horyzonty i nową cywilizację".
+**FACT**: Forster said about Masood: "Without him I might never have gone to India. He awakened me from my suburban and academic life, showed me new horizons and a new civilization".
 
-**FAKT**: Prawdziwe jaskinie Barabar w Bihar, które Forster odwiedził, stały się inspiracją dla fikcyjnych jaskiń Marabar - centralnego miejsca akcji powieści.
+**FACT**: The real Barabar caves in Bihar, which Forster visited, became the inspiration for the fictional Marabar caves - the central location of the novel's action.
 
-**FAKT**: Bankipore w regionie Bengalu, które Forster odwiedził, zostało podstawą dla fikcyjnego Chandrapore z powieści.
+**FACT**: Bankipore in the Bengal region, which Forster visited, became the basis for the fictional Chandrapore in the novel.
 
-**FAKT**: Relacja między Fielding i Aziz w powieści odzwierciedla przyjaźń między Forsterem a Masood.
+**FACT**: The relationship between Fielding and Aziz in the novel reflects the friendship between Forster and Masood.
 
-## Proces twórczy i przeszkody
+## Creative Process and Obstacles
 
-**FAKT**: Forster zmagał się przez lata z napisaniem sceny w jaskiniach Marabar, nie wiedząc jak rozwiązać centralny konflikt. Testował różne wersje fabuły w szkicach, ale nie mógł wybrać jednej.
+**FACT**: Forster struggled for years with writing the scene in the Marabar caves, not knowing how to resolve the central conflict. He tested different plot versions in drafts but couldn't choose one.
 
-**FAKT**: Dopiero po drugiej wizycie w Indiach w 1922 roku Forster w końcu rozwiązał swoje twórcze problemy i ukończył książkę.
+**FACT**: Only after his second visit to India in 1922 did Forster finally resolve his creative problems and complete the book.
 
-**FAKT**: Ostatecznie Forster przyznał publicznie, że sam nie wie, co dokładnie stało się miss Quested w jaskiniach Marabar - ta deliberatna dwuznaczność stała się jedną z najważniejszych cech powieści.
+**FACT**: Ultimately, Forster publicly admitted that he himself didn't know exactly what happened to Miss Quested in the Marabar caves - this deliberate ambiguity became one of the novel's most important features.
 
-**FAKT**: Gabriel Josipovici, profesor literatury porównawczej z Oxfordu, stwierdził, że długie opóźnienie w ukończeniu "A Passage to India" jest symptomatyczne dla większości prawdziwie modernistycznych dzieł.
+**FACT**: Gabriel Josipovici, professor of comparative literature at Oxford, stated that the long delay in completing "A Passage to India" is symptomatic of most truly modernist works.
 
-## Kontekst biograficzny autora
+## Author's Biographical Context
 
-**FAKT**: Forster był członkiem tajnego towarzystwa dyskusyjnego Cambridge Apostles (formalnie Cambridge Conversazione Society) na King's College w latach 1897-1901.
+**FACT**: Forster was a member of the secret discussion society Cambridge Apostles (formally Cambridge Conversazione Society) at King's College from 1897-1901.
 
-**FAKT**: W Cambridge Forster po raz pierwszy zaakceptował swoją homoseksualność, choć utrzymywał to w tajemnicy przez całe życie.
+**FACT**: At Cambridge, Forster first accepted his homosexuality, though he kept it secret throughout his life.
 
-**FAKT**: Jego najbliższy przyjaciel na studiach, H.O. Meredith, pomógł mu uświadomić sobie homoseksualne skłonności i stał się prototypem Clive Durham w powieści "Maurice".
+**FACT**: His closest friend at university, H.O. Meredith, helped him realize his homosexual inclinations and became the prototype for Clive Durham in the novel "Maurice".
 
-**FAKT**: Forster napisał homoseksualną powieść "Maurice" w latach 1913-1914, ale została ona opublikowana dopiero pośmiertnie w 1971 roku.
+**FACT**: Forster wrote the homosexual novel "Maurice" in 1913-1914, but it was published only posthumously in 1971.
 
-**FAKT**: W 1946 roku jego stary college dał mu honorowe stypendium, które umożliwiło mu zamieszkanie w Cambridge do końca życia.
+**FACT**: In 1946, his old college gave him an honorary fellowship that enabled him to live in Cambridge until the end of his life.
 
-## Reakcje na manuskrypt
+## Reactions to the Manuscript
 
-**FAKT**: Podczas pierwszego pobytu w Indiach Forster spędził czas zarówno z Anglikami, jak i Hindusami, ale szybko stwierdził, że woli towarzystwo tych drugich.
+**FACT**: During his first stay in India, Forster spent time with both English and Indians, but quickly found he preferred the company of the latter.
 
-**FAKT**: Forster pisał: "Miałem angielskich przyjaciół w służbie cywilnej i mogłem przechodzić z jednego obozu do drugiego z wynikami, które były interesujące, ale bolesne".
+**FACT**: Forster wrote: "I had English friends in the civil service and could pass from one camp to another with results that were interesting but painful".
 
-**FAKT**: Sytuacja polityczna podczas jego drugiej wizyty była znacznie bardziej napięta niż podczas pierwszej, po masakrze w Amritsar w 1919 roku i rosnących dążeniach niepodległościowych.
+**FACT**: The political situation during his second visit was much more tense than during the first, after the Amritsar massacre in 1919 and growing independence movements.
 
-## Historia publikacji
+## Publication History
 
-**FAKT**: Książka została natychmiast uznana za arcydzieło Forstera po publikacji w 1924 roku.
+**FACT**: The book was immediately recognized as Forster's masterpiece after publication in 1924.
 
-**FAKT**: "A Passage to India" zdobyło nagrodę James Tait Black Memorial Prize for Fiction w 1924 roku.
+**FACT**: "A Passage to India" won the James Tait Black Memorial Prize for Fiction in 1924.
 
-**FAKT**: Czasopismo Time umieściło powieść na liście "All Time 100 Novels".
+**FACT**: Time magazine placed the novel on its "All Time 100 Novels" list.
 
-**FAKT**: Modern Library wybrało ją jako jedno ze 100 wielkich dzieł literatury angielskiej XX wieku.
+**FACT**: Modern Library selected it as one of the 100 great works of 20th-century English literature.
 
-**FAKT**: Virginia Woolf uważała to za Forstera w jego prime, nazywając fragmenty książki "klarownymi i triumfującymi w pięknie".
+**FACT**: Virginia Woolf considered this Forster in his prime, calling passages of the book "lucid and triumphant in beauty".
 
-## Kontrowersje i krytyka
+## Controversies and Criticism
 
-**FAKT**: Już pierwsze recenzje kwestionowały szczegóły i postawy zawarte w książce, które Forster zaczerpnął ze swojego czasu w Indiach.
+**FACT**: The first reviews already questioned the details and attitudes contained in the book that Forster drew from his time in India.
 
-**FAKT**: Pierwsi krytycy wyrażali również obawy dotyczące międzyrasowej przyjaźni między Aziz i Fieldingiem w książce.
+**FACT**: Early critics also expressed concerns about the interracial friendship between Aziz and Fielding in the book.
 
-**FAKT**: E.A. Home w The New Statesman krytykował Forstera za niesympatyczne przedstawienie anglo-indyjskich (brytyjskich) postaci i wskazał na niektóre nieścisłości w opisie Indii.
+**FACT**: E.A. Home in The New Statesman criticized Forster for his unsympathetic portrayal of Anglo-Indian (British) characters and pointed out some inaccuracies in the description of India.
 
-**FAKT**: Edward Said w "Orientalizmie" argumentował, że struktura powieści "pozwalała czuć sympatię i nawet intymność z niektórymi Hindusami i Indiami ogólnie, ale sprawiała, że politykę indyjską postrzegano jako odpowiedzialność Brytyjczyków".
+**FACT**: Edward Said in "Orientalism" argued that the novel's structure "allowed one to feel sympathy and even intimacy with some Indians and India generally, but made Indian politics seem like the responsibility of the British".
 
-## Adaptacje i wpływ kulturowy
+## Adaptations and Cultural Impact
 
-**FAKT**: David Lean wyreżyserował adaptację filmową w 1984 roku, która została nominowana do 11 Oscarów i wygrała 2 (Najlepsza Aktorka Drugoplanowa - Peggy Ashcroft i Najlepsza Muzyka).
+**FACT**: David Lean directed the 1984 film adaptation, which was nominated for 11 Oscars and won 2 (Best Supporting Actress - Peggy Ashcroft and Best Music).
 
-**FAKT**: Vincent Canby z The New York Times nazwał film Leana "najlepszą jego pracą od 'The Bridge on the River Kwai' i 'Lawrence of Arabia'".
+**FACT**: Vincent Canby of The New York Times called Lean's film "his best work since 'The Bridge on the River Kwai' and 'Lawrence of Arabia'".
 
-**FAKT**: Roger Ebert nazwał to "jedną z najlepszych adaptacji ekranowych, jakie kiedykolwiek widział".
+**FACT**: Roger Ebert called it "one of the best screen adaptations he had ever seen".
 
-**FAKT**: Forster odrzucał wszystkie wcześniejsze oferty praw filmowych, wierząc, że każdy film byłby trawestacją i obawiając się, że filmowcy będą faworyzować albo Anglików, albo Hindusów.
+**FACT**: Forster rejected all earlier offers for film rights, believing that any film would be a travesty and fearing that filmmakers would favor either the English or the Indians.
 
-**FAKT**: David Lean próbował kupić prawa już w 1960 roku po obejrzeniu sztuki teatralnej w Londynie, ale Forster odmówił.
+**FACT**: David Lean tried to buy the rights as early as 1960 after seeing the stage play in London, but Forster refused.
 
-## Znaczenie manuskryptu
+## Manuscript Significance
 
-**FAKT**: W 1960 roku manuskrypt "A Passage to India" został podarowany przez Forstera Rupertowi Hart-Davisowi i sprzedany, aby zebrać pieniądze dla London Library za rekordową wówczas sumę 6500 funtów za nowoczesny angielski manuskrypt.
+**FACT**: In 1960, the manuscript of "A Passage to India" was donated by Forster to Rupert Hart-Davis and sold to raise money for the London Library for a then-record sum of £6,500 for a modern English manuscript.
 
-**FAKT**: Archiwa Forstera w King's College Cambridge zawierają faktyczne relacje z wizyt, w tym półpubliczne i poufne listy, dzienniki oraz serie manuskryptów.
+**FACT**: Forster's archives at King's College Cambridge contain actual accounts from visits, including semi-public and confidential letters, diaries, and manuscript series.
 
-**FAKT**: Manuskrypt jest podzielony na Text A (opublikowana wersja), Text B (różne niezdatowane wczesne szkice) i grupę C (różne materiały pomocnicze).
+**FACT**: The manuscript is divided into Text A (published version), Text B (various undated early drafts), and group C (various supporting materials).
 
-## Ciekawostki i anegdoty
+## Curiosities and Anecdotes
 
-**FAKT**: To była ostatnia duża powieść Forstera opublikowana za jego życia - obawiał się słusznie, że będzie to jego ostatnia powieść.
+**FACT**: This was the last major novel Forster published in his lifetime - he rightly feared it would be his last novel.
 
-**FAKT**: Wszystkie sześć powieści Forstera zostało ukończonych w Weybridge, Surrey.
+**FACT**: All six of Forster's novels were completed in Weybridge, Surrey.
 
-**FAKT**: Forster służył jako prywatny sekretarz Maharadży Dewas Senior podczas swojej drugiej wizyty w Indiach w 1921-1922.
+**FACT**: Forster served as private secretary to the Maharajah of Dewas Senior during his second visit to India in 1921-1922.
 
-**FAKT**: Przyjaciele i znajomi przyczynili się do stworzenia postaci w dziełach, chociaż zostali zaadaptowani do potrzeb historii, a nie oferowali dokładne portrety.
+**FACT**: Friends and acquaintances contributed to the creation of characters in the works, though they were adapted to story needs rather than offering exact portraits.
 
-**PLOTKA**: Niektóre źródła sugerują, że Forster mógł być zakochany w Syed Ross Masood, choć to pozostaje niepotwierdzonym przypuszczeniem biografów.
+**RUMOR**: Some sources suggest that Forster might have been in love with Syed Ross Masood, though this remains an unconfirmed assumption by biographers.
 
-**FAKT**: Forster był pierwszym artystą-rezydentem w King's College, co wniosło "powiew pikanterii" do ugruntowanej tradycji homoseksualności na uczelni.
+**FACT**: Forster was the first artist-in-residence at King's College, bringing "a whiff of spice" to the university's established tradition of homosexuality.
 
-**FAKT**: W college'u było "półtajemnicą", że Forster był homoseksualistą.
+**FACT**: It was an "open secret" at the college that Forster was homosexual.
 
-**FAKT**: Forster zmarł na skutek udaru 7 czerwca 1970 roku w wieku 91 lat w Cambridge.
+**FACT**: Forster died of a stroke on June 7, 1970, at age 91 in Cambridge.
 
-## Statystyki i rekordy
+## Statistics and Records
 
-**FAKT**: Manuskrypt pobił rekord sprzedaży za 6500 funtów w 1960 roku jako najdroższy nowoczesny angielski manuskrypt.
+**FACT**: The manuscript broke sales records at £6,500 in 1960 as the most expensive modern English manuscript.
 
-**FAKT**: Film z 1984 roku miał budżet około 16 milionów dolarów i zarobił ponad 27 milionów dolarów na całym świecie.
+**FACT**: The 1984 film had a budget of about $16 million and earned over $27 million worldwide.
 
-**FAKT**: Książka została przełożona na dziesiątki języków na całym świecie.
+**FACT**: The book has been translated into dozens of languages around the world.
 
-**FAKT**: Zdjęcia do filmu trwały od listopada 1983 do czerwca 1984.
+**FACT**: Film shooting lasted from November 1983 to June 1984.
 
-**FAKT**: Film był realizowany w różnych lokacjach, w tym w okolicach Bangalore, Ramanagaram (Karnataka), Udhagamandalam (Tamil Nadu) i Srinagar (Jammu i Kaszmir).
+**FACT**: The film was shot in various locations, including around Bangalore, Ramanagaram (Karnataka), Udhagamandalam (Tamil Nadu), and Srinagar (Jammu and Kashmir).
 
 ---
 
-*Badania przeprowadzone w oparciu o źródła internetowe, archiwa Cambridge i materiały biograficzne. Wszystkie fakty zostały zweryfikowane w multiple źródłach.*
+*Research conducted based on internet sources, Cambridge archives, and biographical materials. All facts have been verified across multiple sources.*
