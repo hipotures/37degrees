@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: August 1, 1943, evening 9:05
+    location: Braddock Hotel lobby, moment of violence
+    weather: Oppressive heat inside
+  characters:
+  - appearance: Young Black man, early 20s, athletic build, clean-shaven, short military haircut
+    clothing: US Army uniform - olive drab wool field jacket M1941, matching pants, brown leather service shoes
+    position: Stumbling backward, hand clutching shoulder
+    action: Face shocked, beginning to fall, blood seeping through fingers
+  - appearance: White police officer, mid-30s, average height, clean-shaven, hard features
+    clothing: NYPD uniform - navy blue wool coat, matching pants with black stripe, eight-point police cap
+    position: Arm extended with smoking revolver
+    action: Eyes wide, realizing what happened, gun still pointed
+  - appearance: Older Black woman, 50s, gray streaks in hair, worried expression
+    clothing: Simple dark dress, sensible flat shoes, small hat with pin
+    position: Rushing forward from stairs
+    action: Arms outstretched toward falling son, mouth open in scream
+  scene:
+    mainElements: Moment frozen after gunshot, smoke from revolver hanging in air, soldier falling
+    details: Garrison cap on floor, blood beginning to spread on uniform, nightstick dropped, cordite smell, echo of shot,
+      plaster dust from ceiling where bullet lodged
+    background: Faces in doorway frozen in shock, clerk's head barely visible above desk
+    atmosphere: Sudden violence shattering tension, smoke in light beam, everything stopped for one second
+  composition:
+    cameraAngle: Side angle capturing all three figures
+    focus: Soldier falling with officer's extended arm
+    depth: Sharp focus on violence, background figures frozen in shock
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

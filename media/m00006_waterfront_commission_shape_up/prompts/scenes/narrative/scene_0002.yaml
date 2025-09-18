@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Shape-Up Begins"
+  setting:
+    time: "1953, winter morning 6:00 AM"
+    location: "Open area before pier gates, cobblestone ground, warehouse walls"
+    weather: "Dawn breaking, fog lifting slightly, cold wind off river"
+  characters:
+    - appearance: "Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar always in mouth"
+      clothing: "Long wool overcoat, fedora, leather gloves, expensive shoes incongruous on dock"
+      position: "Standing on wooden crate above crowd"
+      action: "Looking down at desperate crowd, pointing at chosen men"
+    - appearance: "Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence"
+      clothing: "Black leather jacket, dark pants, heavy boots, brass knuckles visible in pocket"
+      position: "Standing beside crate, arms crossed"
+      action: "Pushing back men who get too close"
+    - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+      clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+      position: "In middle of pressing crowd"
+      action: "Pushing forward, hand raised, calling out for work"
+  scene:
+    mainElements: "Hiring boss elevated on platform, semicircle of 200+ desperate men, pier gates behind"
+    details: "Chrome whistle in boss's hand, men shoving for position, some holding up union cards, others offering bribes, cargo ships visible through gates"
+    background: "Dawn light breaking over warehouse roofs, seagulls circling, steam from ships"
+    atmosphere: "Controlled chaos, desperation, arbitrary power on display, humiliation of begging for work"
+  composition:
+    cameraAngle: "Low angle looking up at hiring boss"
+    focus: "Boss pointing down at crowd imperiously"
+    depth: "Reaching hands in foreground, boss on platform mid-ground, pier cranes in background"

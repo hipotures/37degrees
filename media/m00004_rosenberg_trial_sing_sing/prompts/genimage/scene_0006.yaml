@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: June 19, 1953, evening 7:00
+    location: Visiting room adjacent to death row, Sing Sing Prison
+    weather: Overcast evening, humid air
+  characters:
+  - appearance: Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build
+    clothing: Gray prison uniform, white undershirt visible at collar, prison-issue slippers
+    position: Sitting on one side of wire mesh partition
+    action: Pressing palm against mesh where her hand meets his
+  - appearance: Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features
+    clothing: Gray prison dress, no jewelry, flat prison shoes
+    position: Sitting on opposite side of partition
+    action: Other hand wiping tears, trying to maintain composure
+  - appearance: Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck
+    clothing: Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots
+    position: Standing in corner watching clock on wall
+    action: Arms crossed, shifting weight uncomfortably
+  scene:
+    mainElements: Small concrete room, wire mesh partition dividing space, single overhead bulb, metal chairs bolted to floor
+    details: Hands touching through mesh creating shadow pattern, clock showing 7:00, guard's keys catching light, condensation
+      on small window, paint peeling from humidity
+    background: Bare concrete walls, single door with reinforced window, echo of distant prison sounds
+    atmosphere: Desperate intimacy through barrier, harsh fluorescent light, heavy humid air, time visibly passing on wall
+      clock
+  composition:
+    cameraAngle: Profile view showing both through mesh
+    focus: Hands touching through wire partition
+    depth: Hands in sharp focus, faces slightly soft, guard and room blurred
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

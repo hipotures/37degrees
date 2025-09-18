@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Prison Transport in Rain"
+  setting:
+    time: "April 5, 1951, afternoon 2:00"
+    location: "Rear entrance of federal courthouse, loading into prison van"
+    weather: "Heavy rain, gray skies, puddles on pavement"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Dark gray single-breasted suit now rumpled, white shirt, thin dark tie, black oxford shoes"
+      position: "Being led in handcuffs toward black prison van"
+      action: "Walking with head down, rain streaming off glasses"
+    - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+      clothing: "Conservative dark blue dress with small white polka dots, modest neckline, dark pumps"
+      position: "Following behind in separate handcuffs"
+      action: "Looking back over shoulder toward courthouse"
+    - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+      clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+      position: "Holding van door open"
+      action: "One hand on prisoner's elbow, other on van door"
+  scene:
+    mainElements: "Black armored prison transport van, narrow alley behind courthouse, high stone walls"
+    details: "Rain bouncing off van roof, chains between handcuffs clinking, photographers with umbrellas at alley entrance, water streaming down stone walls, exhaust from van mixing with rain"
+    background: "Dark courthouse walls rising into gray sky, iron-barred windows looking down"
+    atmosphere: "Rain creating curtain between scene and world, heavy drops drumming on metal van roof, isolation and finality"
+  composition:
+    cameraAngle: "Eye level from across alley"
+    focus: "Prisoners being loaded into van"
+    depth: "Rain in foreground, prisoners and van mid-ground, courthouse wall background"

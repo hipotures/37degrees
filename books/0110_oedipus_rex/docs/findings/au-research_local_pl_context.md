@@ -1,188 +1,188 @@
-# Król Edyp Sofoklesa - Polski Kontekst Kulturowy i Recepcja
+# Sophocles' Oedipus Rex - Polish Cultural Context and Reception
 
-*Badanie lokalnej recepcji tragedii antycznej w Polsce i krajach Europy Środkowo-Wschodniej*
+*Research on local reception of ancient tragedy in Poland and Central-Eastern European countries*
 
-## Tłumaczenia i Interpretacje Polskie
+## Polish Translations and Interpretations
 
-### Klasyczne Przekłady
-1. **Alfons Walicki** (Wilno 1844) - pierwszy polski przekład
-2. **Franciszek Wężyk** (Kraków 1878) - wydanie pośmiertne
-3. **Jan Czubek** (Kraków 1890) - trzeci historyczny przekład
-4. **Kazimierz Morawski** - wydanie współczesne
+### Classical Translations
+1. **Alfons Walicki** (Vilnius 1844) - first Polish translation
+2. **Franciszek Wężyk** (Kraków 1878) - posthumous edition
+3. **Jan Czubek** (Kraków 1890) - third historical translation
+4. **Kazimierz Morawski** - contemporary edition
 
-### Antoni Libera - Rewolucyjny Przekład (2014)
-- **Cel**: Modernizacja języka bez utraty powagi tekstu
-- **Metoda**: Kombinacja wysokiego i potocznego języka
-- **Innowacja**: Eliminacja patosu i archaizmów z wcześniejszych tłumaczeń
-- **Forma**: Regularny 11-zgłoskowiec odpowiadający rytmowi greckiej tragedii
-- **Przeznaczenie**: Przede wszystkim dla potrzeb teatralnych
-- **Wydawca**: Wydawnictwo Sic! (premiera 23 września 2014)
+### Antoni Libera - Revolutionary Translation (2014)
+- **Goal**: Modernization of language without losing text dignity
+- **Method**: Combination of high and colloquial language
+- **Innovation**: Elimination of pathos and archaisms from earlier translations
+- **Form**: Regular 11-syllable verse corresponding to Greek tragedy rhythm
+- **Purpose**: Primarily for theatrical needs
+- **Publisher**: Sic! Publishing House (premiere September 23, 2014)
 
-### Charakterystyka Przekładu Libery
-- Naturalność drykcji dostosowana do współczesnych standardów
-- Brzmi doskonale ze sceny
-- Wolny od nadmiernego patosu starszych tłumaczeń
-- Część cyklu tebańskiego: "Król Edyp", "Edyp w Kolonos", "Antygona"
+### Characteristics of Libera's Translation
+- Natural diction adapted to contemporary standards
+- Sounds excellent from the stage
+- Free from excessive pathos of older translations
+- Part of Theban cycle: "Oedipus Rex", "Oedipus at Colonus", "Antigone"
 
-## Recepcja Teatralna w Polsce
+## Theatrical Reception in Poland
 
-### Historyczne Produkcje
-**Teatr Dramatyczny w Warszawie (1961)**
-- Premiera: 25 maja 1961
-- **Oedyp**: Gustaw Holoubek
-- Nowoczesna realizacja z symboliczną scenografią
-- Temat ludzkich namiętności i żądzy władzy
+### Historical Productions
+**Dramatic Theater in Warsaw (1961)**
+- Premiere: May 25, 1961
+- **Oedipus**: Gustaw Holoubek
+- Modern realization with symbolic scenography
+- Theme of human passions and lust for power
 
-### Przełomowa Produkcja Holoubka (2004-2005)
-**Teatr Ateneum w Warszawie**
-- **Reżyseria**: Gustaw Holoubek
-- **Premiera teatralna**: Marzec 2004 (75-lecie teatru)
-- **Premiera telewizyjna**: Grudzień 2005
+### Breakthrough Production by Holoubek (2004-2005)
+**Ateneum Theater in Warsaw**
+- **Direction**: Gustaw Holoubek
+- **Theater premiere**: March 2004 (theater's 75th anniversary)
+- **Television premiere**: December 2005
 
-**Obsada gwiazdorska:**
-- **Piotr Fronczewski** - Król Edyp
-- **Teresa Budzisz-Krzyżanowska** - Jokasta
-- **Jerzy Trela** - Kreon
-- **Krzysztof Gosztyła** - Tirezjasz
-- **Gustaw Holoubek** - recytacja
-- **Jerzy Kamas** - Kapłan
-- **Jan Kociniak** - Posłaniec z Koryntu
-- **Marian Kociniak** - Sługa
+**Star cast:**
+- **Piotr Fronczewski** - King Oedipus
+- **Teresa Budzisz-Krzyżanowska** - Jocasta
+- **Jerzy Trela** - Creon
+- **Krzysztof Gosztyła** - Tiresias
+- **Gustaw Holoubek** - recitation
+- **Jerzy Kamas** - Priest
+- **Jan Kociniak** - Messenger from Corinth
+- **Marian Kociniak** - Servant
 - **Grzegorz Damięcki** - Eon
 
-### Współczesne Realizacje
-**Teatr Zagłębia w Sosnowcu (2022)**
-- **Reżyseria**: Radosław Rychcik
-- Wykorzystanie przekładu Antoniego Libery
-- Współczesna interpretacja klasycznego tekstu
+### Contemporary Productions
+**Zagłębie Theater in Sosnowiec (2022)**
+- **Direction**: Radosław Rychcik
+- Use of Antoni Libera's translation
+- Contemporary interpretation of classical text
 
-## Edukacyjny Kontekst Polski
+## Polish Educational Context
 
-### Król Edyp jako Lektura Szkolna
-- **Status**: Obowiązkowa lektura w polskich szkołach średnich
-- **Kontekst**: Przykład tragedii antycznej
-- **Egzaminy**: Część materiału maturalnego z języka polskiego
-- **Wydania szkolne**: Specjalne edycje z przypisami i opracowaniami
+### Oedipus Rex as School Reading
+- **Status**: Mandatory reading in Polish high schools
+- **Context**: Example of ancient tragedy
+- **Exams**: Part of Polish language graduation exam material
+- **School editions**: Special editions with footnotes and studies
 
-### Cechy Edukacyjnych Wydań
-- Czcionka ułatwiająca czytanie młodzieży
-- Wygodne marginesy zapobiegające zmęczeniu wzroku
-- Przypisy wyjaśniające archaiczne zwroty
-- Biogram autora i streszczenie
-- Kluczowa problematyka literacka
-- Pojęcia literaturoznawcze epoki antycznej
-- Materiał pomocniczy do matury
+### Features of Educational Editions
+- Font facilitating youth reading
+- Comfortable margins preventing eye fatigue
+- Footnotes explaining archaic expressions
+- Author's biography and summary
+- Key literary problems
+- Literary concepts of ancient era
+- Auxiliary material for graduation exams
 
-### Gimnazjalne i Licealne Omówienia
-- **Gatunek**: Tragedia antyczna spełniająca kryteria Arystotelesa
-- **Struktura**: Jedność czasu, akcji i miejsca
-- **Części**: Prolog, epizody, stasimony, exodos
-- **Tematyka**: Bezsilność człowieka wobec fatum
-- **Wartości**: Studium ludzkiej natury i przeznaczenia
+### Middle School and High School Studies
+- **Genre**: Ancient tragedy meeting Aristotelian criteria
+- **Structure**: Unity of time, action, and place
+- **Parts**: Prologue, episodes, stasimons, exodus
+- **Theme**: Human helplessness against fate
+- **Values**: Study of human nature and destiny
 
-## Psychoanalityczny Wymiar w Polsce
+## Psychoanalytical Dimension in Poland
 
-### Kompleks Edypa - Polska Recepcja
-- **Źródło**: Sigmund Freud wprowadził termin "kompleks Edypa"
-- **Popularność**: Nazwa Edypa znana dzięki psychoanalizie
-- **Edukacja**: Nauczanie w kontekście psychologii i literatury
-- **Krytyka**: Współczesna psychologia kwestionuje uniwersalność teorii
-- **Kultura popularna**: Memy i odniesienia internetowe
+### Oedipus Complex - Polish Reception
+- **Source**: Sigmund Freud introduced the term "Oedipus complex"
+- **Popularity**: Oedipus name known through psychoanalysis
+- **Education**: Teaching in psychology and literature context
+- **Criticism**: Contemporary psychology questions theory's universality
+- **Popular culture**: Memes and internet references
 
-### Akademickie Podejście
-- Debata nad uniwersalnością kompleksu w różnych kulturach
-- Różnice między psychoanalizą a antropologią kulturową
-- Znaczenie dla zrozumienia natury ludzkiej
-- Wpływ na literaturoznawstwo i kulturoznawstwo
+### Academic Approach
+- Debate over complex's universality in different cultures
+- Differences between psychoanalysis and cultural anthropology
+- Significance for understanding human nature
+- Impact on literary and cultural studies
 
-## Współczesne Adaptacje i Kultura Młodzieżowa
+## Contemporary Adaptations and Youth Culture
 
-### Obecność w Mediach Cyfrowych
-- **TikTok**: Memy edukacyjne o Królu Edypie
-- **Nauczyciele**: Tworzą humorystyczne treści dla uczniów
-- **Przykład**: "Pitbull Solves Greek Tragedy: Oedipus Rex Meme"
-- **BookTok**: Odniesienia do klasyki w kontekście młodzieżowym
+### Presence in Digital Media
+- **TikTok**: Educational memes about Oedipus Rex
+- **Teachers**: Create humorous content for students
+- **Example**: "Pitbull Solves Greek Tragedy: Oedipus Rex Meme"
+- **BookTok**: References to classics in youth context
 
-### Nowoczesne Interpretacje
-- **Thriller psychologiczny**: Współczesne odczytania jako kryminał
-- **Tajemnica morderstwa**: Elementy detektywistyczne
-- **Polityczny thriller**: Aspekty władzy i korupcji
-- **Uniwersalne tematy**: Przeznaczenie, prawda, ślepota
+### Modern Interpretations
+- **Psychological thriller**: Contemporary readings as crime story
+- **Murder mystery**: Detective elements
+- **Political thriller**: Aspects of power and corruption
+- **Universal themes**: Destiny, truth, blindness
 
-### Międzynarodowe Adaptacje Znane w Polsce
-- **Pier Paolo Pasolini** (1967): Włoska adaptacja filmowa
-- **Rita Dove**: "The Darker Face of the Earth" - wersja amerykańska
-- **Współczesne teatry**: Regularne powroty na sceny światowe
+### International Adaptations Known in Poland
+- **Pier Paolo Pasolini** (1967): Italian film adaptation
+- **Rita Dove**: "The Darker Face of the Earth" - American version
+- **Contemporary theaters**: Regular returns to world stages
 
-## Kontekst Europy Środkowo-Wschodniej
+## Central-Eastern European Context
 
-### Okres Komunistyczny
-- **Cenzura**: Różne poziomy ograniczeń w krajach bloku wschodniego
-- **Kontrola kultury**: Ministerstwa kultury nadzorujące treści
-- **Klasyka grecka**: Względnie bezpieczna ze względu na antyczny rodowód
-- **Jugosławia**: Brak instytucjonalnej cenzury, większa swoboda
+### Communist Period
+- **Censorship**: Different levels of restrictions in Eastern Bloc countries
+- **Cultural control**: Culture ministries supervising content
+- **Greek classics**: Relatively safe due to ancient origin
+- **Yugoslavia**: No institutional censorship, greater freedom
 
-### Tematyka Uniwersalna
-- **Władza i korupcja**: Rezonowała w krajach autorytarnych
-- **Przeznaczenie vs. wybór**: Dylematów jednostki w systemie
-- **Prawda i ślepota**: Metafory polityczne i społeczne
-- **Tragedia władzy**: Aktualna w kontekście komunistycznych przywódców
+### Universal Themes
+- **Power and corruption**: Resonated in authoritarian countries
+- **Destiny vs. choice**: Individual dilemmas in the system
+- **Truth and blindness**: Political and social metaphors
+- **Tragedy of power**: Current in context of communist leaders
 
-## Kulturowe Różnice w Interpretacji
+## Cultural Differences in Interpretation
 
-### Specyfika Polska
-1. **Katolicki kontekst**: Interpretacja grzechu i odkupienia
-2. **Historia martyrologii**: Paralele z polskim losem narodowym
-3. **Tradycja teatralna**: Silna kultura teatru jako miejsca debaty społecznej
-4. **Romantyczne dziedzictwo**: Wpływ na odczytanie tragedii
+### Polish Specificity
+1. **Catholic context**: Interpretation of sin and redemption
+2. **History of martyrology**: Parallels with Polish national fate
+3. **Theatrical tradition**: Strong theater culture as place of social debate
+4. **Romantic heritage**: Influence on tragedy reading
 
-### Różnice Pokoleniowe
-- **Starsze pokolenia**: Pamięć o spektaklach Holoubka i Fronczewskiego
-- **Współczesna młodzież**: Znajomość głównie przez szkołę i memy
-- **Nauczyciele**: Używają nowoczesnych narzędzi (TikTok) do nauczania klasyki
-- **Studenci**: Analiza w kontekście gender studies i psychologii
+### Generational Differences
+- **Older generations**: Memory of Holoubek and Fronczewski performances
+- **Contemporary youth**: Knowledge mainly through school and memes
+- **Teachers**: Use modern tools (TikTok) to teach classics
+- **Students**: Analysis in context of gender studies and psychology
 
-## Regionalne Nawiązania - Kraków i Małopolska
+## Regional References - Kraków and Lesser Poland
 
-### Historyczne Związki
-- **Uniwersytet Jagielloński**: Tradycja studiów klasycznych
-- **Kraków 1878**: Pośmiertne wydanie przekładu Wężyka
-- **Kraków 1890**: Przekład Jana Czubka
-- **Teatr im. Juliusza Słowackiego**: Regularne spektakle klasyki greckiej
+### Historical Connections
+- **Jagiellonian University**: Classical studies tradition
+- **Kraków 1878**: Posthumous edition of Wężyk's translation
+- **Kraków 1890**: Jan Czubek's translation
+- **Juliusz Słowacki Theater**: Regular Greek classics performances
 
-### Współczesny Kraków
-- **Festiwale teatralne**: Prezentacje współczesnych interpretacji
-- **Uniwersytety**: Badania nad recepcją literatury antycznej
-- **Młodzieżowa publiczność**: Znajomość przez media społecznościowe
-- **Edukacja**: Innowacyjne metody nauczania klasyki
+### Contemporary Kraków
+- **Theater festivals**: Presentations of contemporary interpretations
+- **Universities**: Research on ancient literature reception
+- **Youth audience**: Knowledge through social media
+- **Education**: Innovative methods of teaching classics
 
-## Ciekawostki i Lokalne Połączenia
+## Curiosities and Local Connections
 
-### Polscy Artyści i Edyp
-1. **Gustaw Holoubek**: Zarówno aktor (1961) jak i reżyser (2004)
-2. **Piotr Fronczewski**: Kultowa rola w wersji telewizyjnej
-3. **Teresa Budzisz-Krzyżanowska**: Wybitna interpretacja Jokasty
-4. **Antoni Libera**: Przełomowy tłumacz-interpretator
+### Polish Artists and Oedipus
+1. **Gustaw Holoubek**: Both actor (1961) and director (2004)
+2. **Piotr Fronczewski**: Iconic role in television version
+3. **Teresa Budzisz-Krzyżanowska**: Outstanding interpretation of Jocasta
+4. **Antoni Libera**: Breakthrough translator-interpreter
 
-### Fakty do Zapamiętania
-- Król Edyp jest jedną z najczęściej wystawianych tragedii w polskich teatrach
-- Przekład Libery zrewolucjonizował sposób odczytywania klasyki greckiej
-- Produkcja Holoubka z 2004 roku to ostatnia wielka realizacja tego tekstu
-- TikTok wprowadził Edypa do kultury młodzieżowej XXI wieku
-- Spektakl z Fronczewskim można oglądać w TVP Kultura
+### Facts to Remember
+- Oedipus Rex is one of the most frequently staged tragedies in Polish theaters
+- Libera's translation revolutionized the way of reading Greek classics
+- Holoubek's 2004 production is the last great realization of this text
+- TikTok introduced Oedipus to 21st-century youth culture
+- Performance with Fronczewski can be watched on TVP Kultura
 
-### Wpływ na Kulturę Popularną
-- **Memy internetowe**: "Kompleks Edypa" jako temat żartów
-- **Psychologia popularna**: Znane pojęcie bez czytania oryginału
-- **Edukacja**: Nowoczesne metody nauczania przez humor
-- **Teatr szkolny**: Popularne adaptacje w szkołach średnich
+### Impact on Popular Culture
+- **Internet memes**: "Oedipus complex" as joke topic
+- **Popular psychology**: Known concept without reading original
+- **Education**: Modern teaching methods through humor
+- **School theater**: Popular adaptations in high schools
 
-## Podsumowanie - Żywa Klasyka
+## Summary - Living Classic
 
-Król Edyp w polskiej kulturze to żywy organizm, który ewoluuje wraz z kolejnymi pokoleniami. Od pierwszych tłumaczeń XIX wieku, przez kultowe realizacje teatralne XX wieku, po współczesne memy i adaptacje cyfrowe - Sofoklesowa tragedia pozostaje aktualną opowieścią o władzy, prawdzie i ludzkiej naturze. 
+Oedipus Rex in Polish culture is a living organism that evolves with successive generations. From the first 19th-century translations, through iconic 20th-century theatrical realizations, to contemporary memes and digital adaptations - Sophocles' tragedy remains a current story about power, truth, and human nature.
 
-Szczególnie w Polsce, z jej bogatą tradycją teatralną i skomplikowaną historią polityczną, historia Edypa rezonuje jako uniwersalna opowieść o tym, jak jednostka mierzy się z siłami większymi od siebie. Czy to w kontekście komunistycznej cenzury, czy współczesnych mediów społecznościowych - mit Edypa pozostaje narzędziem do zrozumienia kondycji ludzkiej.
+Particularly in Poland, with its rich theatrical tradition and complicated political history, Oedipus' story resonates as a universal tale about how an individual confronts forces greater than themselves. Whether in the context of communist censorship or contemporary social media - the myth of Oedipus remains a tool for understanding the human condition.
 
 ---
 
-*Źródła: TVP Kultura, Encyklopedia Teatru Polskiego, Wolne Lektury, materiały edukacyjne, współczesne adaptacje cyfrowe*
+*Sources: TVP Kultura, Encyclopedia of Polish Theater, Wolne Lektury, educational materials, contemporary digital adaptations*

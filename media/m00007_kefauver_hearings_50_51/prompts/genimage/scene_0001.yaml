@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: March 1951, morning 7:30
+    location: Federal Courthouse hearing room being prepared, Foley Square, Manhattan
+    weather: Early morning light through tall windows
+  characters:
+  - appearance: Middle-aged man, stocky build, rolled-up shirt sleeves, perspiring from hot lights
+    clothing: White dress shirt with sleeves rolled up, dark trousers, suspenders, loosened tie
+    position: Behind large television camera, adjusting position
+    action: Rotating lens turret, checking cables, wiping lens with cloth
+  - appearance: Technician, young man, thin, focused expression
+    clothing: Gray work coveralls, tool belt, white undershirt visible
+    position: On floor running thick cables
+    action: Taping down camera cables with gaffer tape in neat lines
+  scene:
+    mainElements: Empty hearing room being transformed, massive TV cameras being positioned, lights being installed, cables
+      everywhere
+    details: RCA television cameras on wheeled tripods, Fresnel lights on stands creating pools of hot light, thick black
+      cables snaking across floor, committee table being draped with dark cloth, nameplates being placed
+    background: Tall windows showing Manhattan morning, empty gallery benches, portraits on walls
+    atmosphere: Quiet before storm, technical preparation, dawn of television age in politics, methodical setup
+  composition:
+    cameraAngle: Wide establishing shot from gallery entrance
+    focus: Television equipment dominating traditional courtroom
+    depth: Equipment and technicians in foreground, empty committee table mid-ground, windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: March 1951, morning 10:00
+    location: Federal Courthouse hearing room, witness entering
+    weather: Bright light from windows mixing with hot TV lights
+  characters:
+  - appearance: 66 years old, medium build, graying hair slicked back, heavy features, nervous expression
+    clothing: Expensive charcoal pinstripe suit, white silk shirt, dark tie with small pattern, gold cufflinks
+    position: Walking toward witness table
+    action: Adjusting tie nervously, avoiding eye contact with cameras
+  - appearance: Distinguished man, late 50s, silver hair, thin mustache, alert eyes
+    clothing: Three-piece gray suit, white shirt, conservative blue tie, pocket watch chain visible
+    position: Walking beside witness
+    action: Hand on witness's elbow, whispering last instructions
+  - appearance: Young man, 30s, thin build, fedora pushed back on head, cigarette behind ear
+    clothing: Wrinkled gray suit, white shirt open at collar, no tie, press badge on lapel
+    position: Crouching near witness path
+    action: Raising Speed Graphic camera, flash ready
+  scene:
+    mainElements: Witness entering packed hearing room, all eyes turning, cameras swiveling, flash bulbs beginning to pop
+    details: Cigarette smoke thick in air, hot television lights creating sweat on faces, witness chair prominently empty
+      and waiting, committee members watching arrival, spectators craning necks
+    background: Full gallery, television cameras with red lights on, forest of microphones on tables
+    atmosphere: Electric tension, predator and prey dynamic, witness entering arena, moment of truth approaching
+  composition:
+    cameraAngle: Low angle from photographer's position
+    focus: Witness approaching his seat with lawyer
+    depth: Witness in sharp focus, committee elevated in background, cameras visible on sides
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

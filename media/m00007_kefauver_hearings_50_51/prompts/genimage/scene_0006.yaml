@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: March 1951, afternoon 2:15
+    location: Witness table during brief recess
+    weather: Afternoon light mixing with television lights
+  characters:
+  - appearance: 66 years old, medium build, graying hair slicked back, heavy features, nervous expression
+    clothing: Expensive charcoal pinstripe suit now wrinkled, white silk shirt damp with sweat, loosened tie
+    position: Leaning toward his attorney
+    action: Whispering urgently, hand covering mouth from cameras
+  - appearance: Distinguished man, late 50s, silver hair, thin mustache, alert eyes
+    clothing: Three-piece gray suit, white shirt, conservative blue tie, pocket watch chain visible
+    position: Leaning close to witness
+    action: Hand on witness's arm, whispering back, glancing at committee
+  - appearance: Young man, 24 years old, dark hair slicked with pomade, sharp features, intense eyes
+    clothing: Navy blue suit perfectly pressed, crisp white shirt, burgundy tie, shiny black shoes
+    position: At committee table watching
+    action: Making notes while observing whispered conference
+  scene:
+    mainElements: Intimate moment of legal consultation under public scrutiny, heads close together, hands shielding mouths
+    details: Papers spread on table with pencil marks, water glasses empty, ashtrays full, lawyer's briefcase open showing
+      documents, witness's handkerchief crumpled on table, committee members conferring at their table
+    background: Gallery spectators stretching during break, photographers reloading cameras, television cameras still running
+    atmosphere: Brief respite in battle, strategy being adjusted, sense of siege mentality at witness table
+  composition:
+    cameraAngle: Medium shot from side angle
+    focus: Witness and lawyer in urgent consultation
+    depth: Conference in focus, committee table visible beyond, gallery in soft background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

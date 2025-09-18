@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Long Walk"
+  setting:
+    time: "June 19, 1953, evening 8:00"
+    location: "Corridor from death row to execution chamber, Sing Sing Prison"
+    weather: "Indoor fluorescent lighting"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Gray prison uniform, white undershirt visible at collar, prison-issue slippers"
+      position: "Walking down center of corridor"
+      action: "Walking steadily, eyes forward, hands at sides"
+    - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+      clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+      position: "Walking beside prisoner on right"
+      action: "Hand lightly on prisoner's elbow, looking straight ahead"
+    - appearance: "Heavy-set prison chaplain, 50s, balding, round face, somber expression"
+      clothing: "Black suit, white clerical collar, black shoes"
+      position: "Walking on prisoner's left"
+      action: "Reading from small prayer book while walking"
+  scene:
+    mainElements: "Long concrete corridor, green painted walls, overhead cage lights creating pools of light, metal doors at far end"
+    details: "Footsteps echoing in unison, shadows stretching and contracting under lights, keys jangling rhythmically, paint peeling from moisture, drain grate in floor"
+    background: "Series of cage lights receding into distance, closed cell doors along walls, end of corridor in shadow"
+    atmosphere: "Mechanical progression toward inevitable, fluorescent lights humming, footsteps marking time, clinical institutional setting"
+  composition:
+    cameraAngle: "Following from behind the group"
+    focus: "Three figures walking in formation"
+    depth: "Figures in mid-ground, corridor stretching ahead, vanishing point at dark doorway"

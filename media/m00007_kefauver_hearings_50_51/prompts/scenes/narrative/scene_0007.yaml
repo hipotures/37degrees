@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Flash Bulbs and Chaos"
+  setting:
+    time: "March 1951, afternoon 3:30"
+    location: "Hearing room during dramatic testimony moment"
+    weather: "Bright artificial lighting"
+  characters:
+    - appearance: "Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, serious demeanor"
+      clothing: "Conservative dark gray suit, white shirt, narrow dark tie, polished black oxfords"
+      position: "Standing at committee table, leaning forward"
+      action: "Pointing accusingly at witness, speaking forcefully into microphone"
+    - appearance: "Young man, 30s, thin build, fedora pushed back on head, cigarette behind ear"
+      clothing: "Wrinkled gray suit, white shirt open at collar, no tie, press badge on lapel"
+      position: "Crouching in press area"
+      action: "Firing flash bulb, immediately ejecting spent bulb and inserting new one"
+    - appearance: "Multiple press photographers"
+      clothing: "Various suits and rolled sleeves"
+      position: "Crowding press area"
+      action: "Simultaneous flash photography creating lightning storm effect"
+  scene:
+    mainElements: "Explosive moment with multiple flash bulbs firing simultaneously, creating strobe effect"
+    details: "Spent flash bulbs on floor still smoking, photographers jostling for position, senator's fist hitting table, water glasses jumping, papers scattered, cigarette smoke swirling in flash illumination, spectators gasping"
+    background: "Television cameras panning to catch action, gallery on feet, court officers moving forward"
+    atmosphere: "Climactic confrontation, chaos of media circus, theatrical political drama, democracy as spectacle"
+  composition:
+    cameraAngle: "Wide shot capturing entire room's energy"
+    focus: "Multiple flash explosions creating dramatic lighting"
+    depth: "Layered action throughout room, flashes in foreground, drama at tables, crowd reaction in back"

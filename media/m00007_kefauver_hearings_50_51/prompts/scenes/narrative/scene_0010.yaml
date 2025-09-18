@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "America Watches at Home"
+  setting:
+    time: "March 1951, evening 7:00"
+    location: "Television store window display, Manhattan street"
+    weather: "Evening, streetlights coming on"
+  characters:
+    - appearance: "Working man, 40s, tired from day's work, lunch pail in hand"
+      clothing: "Work jacket, cap, heavy boots"
+      position: "Standing on sidewalk looking at TV display"
+      action: "Watching hearing replay on television through window"
+    - appearance: "Well-dressed woman, 30s, shopping bags in hand"
+      clothing: "Coat with fur collar, hat with small veil, heels"
+      position: "Stopped beside worker"
+      action: "Also transfixed by television broadcast"
+    - appearance: "Group of teenagers"
+      clothing: "School clothes, sweaters, saddle shoes"
+      position: "Gathered at window"
+      action: "Pointing at screen, discussing what they see"
+  scene:
+    mainElements: "Television store window with multiple TV sets all showing same hearing footage, crowd gathered on sidewalk"
+    details: "Multiple television screens showing witness's nervous hands in close-up, price tags on TVs, store's neon sign reflecting on window, newspapers in trash can with hearing headlines, city bus passing with more hearing advertisements"
+    background: "Manhattan street at dusk, other stores closing, traffic passing, city transitioning to evening"
+    atmosphere: "Democracy broadcast to masses, new medium creating shared national experience, history witnessed in real-time"
+  composition:
+    cameraAngle: "From inside store looking out through window"
+    focus: "Silhouettes of crowd watching TVs through glass"
+    depth: "TV screens in foreground, mesmerized crowd mid-ground, city street in background"

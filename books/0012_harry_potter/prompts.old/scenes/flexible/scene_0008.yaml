@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Friendship on the Express"
+  setting:
+    time: "1991 afternoon, September 1st"
+    location: "Scarlet steam train traveling through British countryside to Scotland"
+    weather: "Sunny afternoon with scattered clouds"
+  characters:
+    - appearance: "Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar on forehead"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, white shirt, gray trousers"
+      position: "Sitting by window in train compartment"
+      action: "Sharing sweets with new friends, looking excited and happy for first time"
+    - appearance: "Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age"
+      clothing: "Patched and faded Hogwarts robes with red and gold Gryffindor trim, hand-me-down robes slightly too short"
+      position: "Sitting across from Harry, relaxed posture"
+      action: "Eating chocolate frogs enthusiastically, telling stories about his brothers"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, white shirt, carrying thick books"
+      position: "Sitting between the boys, leaning forward"
+      action: "Demonstrating simple magic spell, looking pleased with herself"
+  scene:
+    mainElements: "Narrow corridor, compartments with bench seats, window showing rolling countryside, snack trolley"
+    details: "Magical sweets scattered on seat between friends, chocolate frog wrappers, rolling green countryside visible through window, comfortable compartment with plush seating, overhead luggage racks with trunks and owl cage"
+    background: "Other students passing in corridor, countryside rolling past window, steam from engine visible"
+    atmosphere: "Cozy train compartment warmth, anticipation of arrival, gentle rocking motion, friendship forming, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from corridor looking into compartment"
+    focus: "Three children bonding over shared adventure and magical sweets"
+    depth: "Friends in compartment in foreground, countryside through window in middle ground, suggestion of other compartments in background"

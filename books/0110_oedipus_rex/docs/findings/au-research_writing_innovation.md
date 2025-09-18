@@ -1,273 +1,273 @@
-# Rewolucyjne Techniki Pisarskie w "Królu Edypie" Sofoklesa
+# Revolutionary Writing Techniques in Sophocles' "Oedipus Rex"
 
-## Wprowadzenie
+## Introduction
 
-"Król Edyp" (Oedipus Rex) Sofoklesa, wystawiony około 429 p.n.e., to nie tylko szczyt klasycznego dramatu greckiego, ale także dzieło, które zrewolucjonizowało techniki pisarskie i wywarło niezatarty wpływ na rozwój literatury światowej. Sofokles wprowadził innowacje, które definiują dramat po dziś dzień, a jego warsztat stał się wzorcem dla pokoleń pisarzy.
+"Oedipus Rex" by Sophocles, performed around 429 BCE, is not only the pinnacle of classical Greek drama but also a work that revolutionized writing techniques and left an indelible impact on the development of world literature. Sophocles introduced innovations that define drama to this day, and his craft became a model for generations of writers.
 
-## Strukturalne Rewolucje Dramatyczne
+## Structural Dramatic Revolutions
 
-### 1. Wprowadzenie Trzeciego Aktora
-**Przełomowa Innowacja**: Sofokles jako pierwszy wprowadził trzeciego aktora na scenę teatralną.
+### 1. Introduction of the Third Actor
+**Breakthrough Innovation**: Sophocles was the first to introduce a third actor to the theatrical stage.
 
-- **Wcześniej**: Dramat grecki używał tylko dwóch aktorów
-- **Rewolucja**: Trzeci aktor umożliwił tworzenie znacznie bardziej złożonych fabuł
-- **Wpływ**: Pozwoliło na bogatsze interakcje między postaciami i rozszerzenie zakresu konfliktu dramatycznego
+- **Previously**: Greek drama used only two actors
+- **Revolution**: The third actor enabled the creation of significantly more complex plots
+- **Impact**: Allowed for richer interactions between characters and expansion of dramatic conflict scope
 
-**Autorzy Inspirowani**: Ta innowacja wpłynęła na wszystkich późniejszych dramaturgów, od Eurypidesa po Shakespeare'a.
+**Inspired Authors**: This innovation influenced all subsequent playwrights, from Euripides to Shakespeare.
 
-### 2. Zwiększenie Składu Chóru
-**Innowacja**: Zwiększył liczbę członków chóru z 12 do 15.
-- **Efekt**: Chór stał się pełnoprawnym uczestnikiem akcji, nie tylko komentatorem
-- **Funkcja**: Chór jednocześnie jako protagonista i komentator wydarzeń
+### 2. Increasing the Chorus Size
+**Innovation**: Increased the number of chorus members from 12 to 15.
+- **Effect**: The chorus became a full participant in the action, not just a commentator
+- **Function**: Chorus simultaneously as protagonist and commentator of events
 
-### 3. Malowane Dekoracje Teatralne
-**Pierwszeństwo**: Sofokles jako pierwszy używał malowanych dekoracji scenicznych.
-- **Cel**: Ustanawianie miejsca akcji i atmosfery
-- **Rozwój**: Zmieniał dekoracje podczas przedstawienia
+### 3. Painted Theatrical Decorations
+**Pioneering**: Sophocles was the first to use painted stage decorations.
+- **Purpose**: Establishing the setting and atmosphere of action
+- **Development**: Changed decorations during the performance
 
-## Rewolucyjne Techniki Narracyjne
+## Revolutionary Narrative Techniques
 
-### 4. Perfekcyjna Jedność Akcji
-**Arystotelesowski Wzorzec**: "Król Edyp" stał się idealnym przykładem jedności akcji.
+### 4. Perfect Unity of Action
+**Aristotelian Model**: "Oedipus Rex" became the ideal example of unity of action.
 
-- **Zasada**: Całe działanie dramatyczne koncentruje się wokół jednego dylемату Edypa
-- **Brak**: Żadnych wątków pobocznych czy rozpraszających elementów
-- **Rezultat**: Maksymalne napięcie dramatyczne
+- **Principle**: All dramatic action concentrates around Oedipus' single dilemma
+- **Absence**: No subplots or distracting elements
+- **Result**: Maximum dramatic tension
 
-**Wpływ na Pisarzy**: Zasada jedności akcji została przyjęta przez francuskich klasyków (Corneille, Racine) i wpłynęła na strukturę dramatów przez wieki.
+**Influence on Writers**: The principle of unity of action was adopted by French classicists (Corneille, Racine) and influenced dramatic structure for centuries.
 
-### 5. Mistrzowska Ironia Dramatyczna
-**Definicja Gatunku**: Sofokles udoskonalił technikę ironii dramatycznej do perfekcji.
+### 5. Masterful Dramatic Irony
+**Genre Definition**: Sophocles perfected the technique of dramatic irony to perfection.
 
-**Mechanizm**:
-- Widzowie znają prawdę, której nie znają bohaterowie
-- Każdy krok Edypa, mający go uratować, przybliża go do zguby
-- Wielopoziomowa struktura ironii
+**Mechanism**:
+- Audience knows the truth that the characters don't know
+- Every step Oedipus takes to save himself brings him closer to doom
+- Multi-layered ironic structure
 
-**Wpływ na Literatura**:
-- **Shakespeare**: "Romeo i Julia", "Otello" - struktury ironiczne inspirowane Sofoklesem
-- **Współczesność**: Alfred Hitchcock, Gillian Flynn używają podobnych technik
+**Literary Influence**:
+- **Shakespeare**: "Romeo and Juliet", "Othello" - ironic structures inspired by Sophocles
+- **Contemporary**: Alfred Hitchcock, Gillian Flynn use similar techniques
 
-### 6. Perypetia i Anagnorisis
-**Podwójna Rewolucja**: Sofokles opracował idealną kombinację odwrócenia sytuacji (perypetia) i rozpoznania (anagnorisis).
+### 6. Peripeteia and Anagnorisis
+**Double Revolution**: Sophocles developed the ideal combination of reversal (peripeteia) and recognition (anagnorisis).
 
-- **Perypetia**: Moment, gdy król-zbawca staje się przyczyna plagi
-- **Anagnorisis**: Edyp odkrywa prawdę o sobie
-- **Geniusz**: Oba elementy następują jednocześnie dla maksymalnego wpływu
+- **Peripeteia**: The moment when the king-savior becomes the cause of the plague
+- **Anagnorisis**: Oedipus discovers the truth about himself
+- **Genius**: Both elements occur simultaneously for maximum impact
 
-**Arystoteles o Technice**: "Najlepsza fabuła ta, w której perypetia i anagnorisis występują jednocześnie".
+**Aristotle on the Technique**: "The best plot is one in which peripeteia and anagnorisis occur simultaneously".
 
-### 7. Technika Retrospektywnej Narracji
-**Innowacyjne Podejście**: Sofokles nie opowiada historii chronologicznie.
+### 7. Retrospective Narrative Technique
+**Innovative Approach**: Sophocles doesn't tell the story chronologically.
 
-- **Metoda**: Akcja biegnie wstecz w odkrywaniu prawdy
-- **Flashback**: Dominuje zarówno ilościowo, jak i znaczeniowo
-- **Efekt**: Publiczność odkrywa prawdę razem z bohaterem
+- **Method**: Action runs backward in discovering the truth
+- **Flashback**: Dominates both quantitatively and meaningfully
+- **Effect**: Audience discovers truth alongside the hero
 
-**Współczesny Wpływ**: Technika influencer na kryminały, thrillery psychologiczne i narracje retrospektywne.
+**Contemporary Influence**: Technique influences crime novels, psychological thrillers, and retrospective narratives.
 
-## Innowacje w Charakteryzacji
+## Characterization Innovations
 
-### 8. Psychologiczna Głębia Postaci
-**Przełom**: Sofokles stworzył pierwszego prawdziwie psychologicznie złożonego bohatera.
+### 8. Psychological Depth of Characters
+**Breakthrough**: Sophocles created the first truly psychologically complex hero.
 
-- **Tradycja**: Edyp jako świadomy złoczyńca
-- **Innowacja Sofoklesa**: Edyp nieświadomy prawdy, próbujący czynić dobro
-- **Rezultat**: Tragiczny bohater wzbudzający współczucie
+- **Tradition**: Oedipus as conscious villain
+- **Sophocles' Innovation**: Oedipus unaware of truth, trying to do good
+- **Result**: Tragic hero evoking compassion
 
-**Wpływ**: Model dla wszystkich późniejszych tragicznych bohaterów literatury.
+**Influence**: Model for all subsequent tragic heroes in literature.
 
-### 9. Technika Charakteryzacji Pośredniej
-**Metoda**: Charakter ujawnia się przez działania i reakcje, nie przez bezpośredni opis.
+### 9. Indirect Characterization Technique
+**Method**: Character is revealed through actions and reactions, not direct description.
 
-- **Edyp**: Jego uporczywość w dochodzeniu do prawdy charakteryzuje go lepiej niż jakikolwiek opis
-- **Jokasta**: Jej próby powstrzymania Edypa ujawniają jej wiedzę i strach
+- **Oedipus**: His persistence in seeking truth characterizes him better than any description
+- **Jocasta**: Her attempts to stop Oedipus reveal her knowledge and fear
 
-## Językowe i Stylistyczne Innowacje
+## Linguistic and Stylistic Innovations
 
-### 10. Ekonomia Dialogu
-**Cecha Charakterystyczna**: Nadzwyczajna zwięzłość i poetyckość dialogów.
+### 10. Dialogue Economy
+**Characteristic Feature**: Extraordinary conciseness and poeticism of dialogues.
 
-- **Efekt**: Każde słowo niesie wielokrotne znaczenia
-- **Technika**: Pozorna prostota ukrywa głębokie warstwy znaczeniowe
-- **Rezultat**: Dialogi trzymają uwagę od początku do końca
+- **Effect**: Every word carries multiple meanings
+- **Technique**: Apparent simplicity hides deep layers of meaning
+- **Result**: Dialogues hold attention from beginning to end
 
-### 11. Metafory Teatralne
-**Użycie Symboli**: Sofokles wprowadził metafory wizualne jako element narracji.
+### 11. Theatrical Metaphors
+**Use of Symbols**: Sophocles introduced visual metaphors as narrative elements.
 
-- **Ślepota**: Metafora niewiedzy i poznania
-- **Przykłady**: Tiresjasz fizycznie ślepy, ale widzący prawdę; Edyp widzący, ale ślepy na prawdę
+- **Blindness**: Metaphor of ignorance and knowledge
+- **Examples**: Tiresias physically blind but seeing truth; Oedipus seeing but blind to truth
 
-**Wpływ**: Symbolika wizualna stała się standardem w dramacie.
+**Influence**: Visual symbolism became standard in drama.
 
-### 12. Dramatyczne Wejścia i Wyjścia
-**Technika**: Precyzyjne kontrolowanie momentów pojawienia się postaci.
+### 12. Dramatic Entrances and Exits
+**Technique**: Precise control of character appearance moments.
 
-- **Cel**: Maksymalizacja dramatycznego wpływu
-- **Przykład**: Pojawienie się pasterza w kluczowym momencie odkrywania prawdy
+- **Purpose**: Maximizing dramatic impact
+- **Example**: Shepherd's appearance at the crucial moment of truth discovery
 
-## Strukturalne Mistrzostwo
+## Structural Mastery
 
-### 13. Kompresja Czasowa
-**Innowacja**: Skondensowanie mitycznej historii do 24 godzin.
+### 13. Time Compression
+**Innovation**: Condensing mythical history into 24 hours.
 
-- **Tradycja**: Mit Edypa rozciągnięty na lata
-- **Sofokles**: Cała akcja w jednym dniu
-- **Efekt**: Intensyfikacja napięcia dramatycznego
+- **Tradition**: Oedipus myth stretched over years
+- **Sophocles**: Entire action in one day
+- **Effect**: Intensification of dramatic tension
 
-### 14. Technika Crescendo
-**Metoda**: Stopniowe budowanie napięcia do kulminacji.
+### 14. Crescendo Technique
+**Method**: Gradual building of tension to climax.
 
-- **Struktura**: Każde odkrycie prowadzi do większego napięcia
-- **Rytm**: Kontrola tempa dla maksymalnego wpływu emocjonalnego
+- **Structure**: Each discovery leads to greater tension
+- **Rhythm**: Tempo control for maximum emotional impact
 
-### 15. Wykorzystanie Prolepsji
-**Technika**: Zapowiadanie przyszłych wydarzeń przez przepowiednie.
+### 15. Use of Prolepsis
+**Technique**: Foreshadowing future events through prophecies.
 
-- **Funkcja**: Tiresjasz zapowiada tragedię
-- **Efekt**: Publikum wie, co się stanie, ale nie wie jak
+- **Function**: Tiresias foretells tragedy
+- **Effect**: Audience knows what will happen but not how
 
-## Wpływ na Rozwój Gatunków Literackich
+## Influence on Literary Genre Development
 
-### 16. Stworzenie Wzorca Tragedii Psychologicznej
-**Definicja Gatunku**: "Król Edyp" określił standardy tragedii na wieki.
+### 16. Creating the Psychological Tragedy Model
+**Genre Definition**: "Oedipus Rex" set tragedy standards for centuries.
 
-**Elementy Wzorca**:
-- Tragiczny bohater z hamartia (błąd tragiczny)
-- Hubris (pycha) prowadząca do zguby
-- Katharsis (oczyszczenie) u widzów
+**Model Elements**:
+- Tragic hero with hamartia (tragic flaw)
+- Hubris (pride) leading to downfall
+- Catharsis (purification) in viewers
 
-**Autorzy Naśladujący**: Corneille, Racine, Schiller, O'Neill.
+**Imitating Authors**: Corneille, Racine, Schiller, O'Neill.
 
-### 17. Wpływ na Teorię Dramatyczną
-**Arystoteles**: Użył "Króla Edypa" jako głównego przykładu w "Poetyce".
+### 17. Influence on Dramatic Theory
+**Aristotle**: Used "Oedipus Rex" as the main example in "Poetics".
 
-- **Znaczenie**: Dzieło stało się wzorcem teoretycznym
-- **Wpływ**: Teoria Arystotelesa dominowała dramatem europejskim przez wieki
-- **XVII-XIX wiek**: Główny wzorzec dla francuskiego i europejskiego dramatu
+- **Significance**: The work became a theoretical model
+- **Impact**: Aristotle's theory dominated European drama for centuries
+- **17th-19th Century**: Main model for French and European drama
 
-## Wpływ na Psychoanalityczną Analizę Literatury
+## Influence on Psychoanalytic Literary Analysis
 
-### 18. Kompleks Edypa Freuda
-**Rewolucja Psychoanalityczna**: Freud użył mitu jako podstawy teorii psychoanalizy.
+### 18. Freud's Oedipus Complex
+**Psychoanalytic Revolution**: Freud used the myth as the basis for psychoanalytic theory.
 
-- **Data**: 1899 - "Objaśnianie snów"
-- **Teoria**: Nieświadome pragnienie dziecka wobec rodzica przeciwnej płci
-- **Wpływ**: Stało się podstawą psychoanalitycznej krytyki literackiej
+- **Date**: 1899 - "The Interpretation of Dreams"
+- **Theory**: Child's unconscious desire toward opposite-sex parent
+- **Impact**: Became the foundation of psychoanalytic literary criticism
 
-**Pisarze Inspirowani**: D.H. Lawrence ("Synowie i kochankowie"), Harold Bloom (teoria wpływu między poetami).
+**Inspired Writers**: D.H. Lawrence ("Sons and Lovers"), Harold Bloom (theory of influence between poets).
 
-### 19. Psychoanalityczna Krytyka Literacka
-**Nowa Szkoła**: Postaci literackie analizowane jako case studies psychoanalityczne.
+### 19. Psychoanalytic Literary Criticism
+**New School**: Literary characters analyzed as psychoanalytic case studies.
 
-- **Metoda**: Poszukiwanie podświadomych motywacji
-- **Wpływ**: Nowy sposób interpretacji literatury
-- **Przykłady**: Analiza Hamleta przez Freuda
+- **Method**: Searching for subconscious motivations
+- **Impact**: New way of interpreting literature
+- **Examples**: Freud's analysis of Hamlet
 
-## Wpływ na Współczesną Narrację
+## Influence on Contemporary Narrative
 
-### 20. Techniki Kryminalne i Thrillery
-**Detective Story**: Struktura odkrywania prawdy wpłynęła na gatunek kryminalny.
+### 20. Crime and Thriller Techniques
+**Detective Story**: Truth discovery structure influenced the crime genre.
 
-- **Podobieństwa**: Bohater prowadzi śledztwo, które go kompromituje
-- **Współczesni Autorzy**: Gillian Flynn, Thomas Harris używają podobnych struktur
+- **Similarities**: Hero conducts investigation that compromises him
+- **Contemporary Authors**: Gillian Flynn, Thomas Harris use similar structures
 
-### 21. Narracje Retrospektywne
-**Film i Literatura**: Technika odkrywania przeszłości przez teraźniejszość.
+### 21. Retrospective Narratives
+**Film and Literature**: Technique of discovering past through present.
 
-- **Przykłady**: "Obywatel Kane", "Memento"
-- **Literatura**: Powieści z nieliniową narracją
+- **Examples**: "Citizen Kane", "Memento"
+- **Literature**: Novels with non-linear narration
 
-### 22. Antybohater w Literaturze
-**Ewolucja Postaci**: Od Edypa do współczesnego antybohatera.
+### 22. Antihero in Literature
+**Character Evolution**: From Oedipus to contemporary antihero.
 
-- **Cecha**: Bohater będący przyczyną własnej zguby
-- **Wpływ**: Literatura współczesna pełna jest Edypalnych bohaterów
+- **Trait**: Hero being the cause of his own downfall
+- **Influence**: Contemporary literature full of Oedipal heroes
 
-## Innowacje w Technice Dialogowej
+## Dialogue Technique Innovations
 
-### 23. Stychomythia
-**Technika**: Szybka wymiana krótkich replik między postaciami.
+### 23. Stichomythia
+**Technique**: Rapid exchange of short lines between characters.
 
-- **Funkcja**: Intensyfikacja napięcia dramatycznego
-- **Przykład**: Dialog między Edypem a Tireasem
-- **Wpływ**: Przejęta przez dramaturgów współczesnych
+- **Function**: Intensifying dramatic tension
+- **Example**: Dialogue between Oedipus and Tiresias
+- **Influence**: Adopted by contemporary playwrights
 
-### 24. Technika Dwuznaczności
-**Mistrzostwo**: Każde wypowiedzenie może mieć podwójne znaczenie.
+### 24. Ambiguity Technique
+**Mastery**: Every statement can have double meaning.
 
-- **Przykład**: Edyp przysięga znaleźć morderczy Lajosa
-- **Ironia**: Nie wie, że szuka siebie
-- **Efekt**: Każda scena ma dodatkowy poziom znaczenia
+- **Example**: Oedipus swears to find Laius' murderer
+- **Irony**: Doesn't know he's seeking himself
+- **Effect**: Every scene has additional meaning level
 
-### 25. Gradacja Emocjonalna w Dialogu
-**Technika**: Systematyczne budowanie intensywności emocjonalnej.
+### 25. Emotional Gradation in Dialogue
+**Technique**: Systematic building of emotional intensity.
 
-- **Struktura**: Od spokojnej konwersacji do emocjonalnej eksplozji
-- **Efekt**: Kontrolowanie reakcji emocjonalnych publiczności
+- **Structure**: From calm conversation to emotional explosion
+- **Effect**: Controlling audience emotional reactions
 
-## Wpływ na Dramaturgię Światową
+## Influence on World Drama
 
-### 26. Francuska Tragedia Klasyczna
-**XVII wiek**: Corneille i Racine bezpośrednio inspirowani Sofoklesem.
+### 26. French Classical Tragedy
+**17th Century**: Corneille and Racine directly inspired by Sophocles.
 
-- **Zasady**: Trzy jedności (miejsca, czasu, akcji)
-- **Struktura**: Pięcioaktowa zgodnie z wzorcami greckimi
-- **Język**: Podniosły styl poetycki
+- **Principles**: Three unities (place, time, action)
+- **Structure**: Five acts according to Greek models
+- **Language**: Elevated poetic style
 
-### 27. Angielski Dramat Elżbietański
-**Shakespeare**: Wykorzystanie ironii dramatycznej i charakteryzacji psychologicznej.
+### 27. Elizabethan English Drama
+**Shakespeare**: Use of dramatic irony and psychological characterization.
 
-- **Przykłady**: "Hamlet" (bohater prowadzący śledztwo), "Król Lear" (ironia tragiczna)
-- **Techniki**: Soliloquy jako rozwinięcie technik Sofoklesa
+- **Examples**: "Hamlet" (hero conducting investigation), "King Lear" (tragic irony)
+- **Techniques**: Soliloquy as development of Sophoclean techniques
 
-### 28. Niemiecki Sturm und Drang
-**XVIII wiek**: Schiller i Goethe nawiązywali do wzorców greckich.
+### 28. German Sturm und Drang
+**18th Century**: Schiller and Goethe referenced Greek models.
 
-- **Adaptacje**: "Maria Stuart" Schillera używa struktur Sofoklejskich
-- **Innowacje**: Połączenie klasycznej formy z romantyczną treścią
+- **Adaptations**: Schiller's "Mary Stuart" uses Sophoclean structures
+- **Innovations**: Combining classical form with romantic content
 
-## Współczesne Adaptacje i Innowacje
+## Contemporary Adaptations and Innovations
 
-### 29. Teatr Współczesny
-**XX i XXI wiek**: Reinterpretacje klasycznej struktury.
+### 29. Contemporary Theater
+**20th and 21st Century**: Reinterpretations of classical structure.
 
-- **Eksperyment**: Różne sposoby przedstawienia klasycznej historii
-- **Przykłady**: Adaptacje w różnych kontekstach kulturowych i czasowych
-- **Techniki**: Wykorzystanie multimediów przy zachowaniu klasycznej struktury
+- **Experiment**: Different ways of presenting classical story
+- **Examples**: Adaptations in various cultural and temporal contexts
+- **Techniques**: Using multimedia while maintaining classical structure
 
-### 30. Literatura Światowa
-**Globalne Oddziaływanie**: Techniki Sofoklesa w różnych kulturach literackich.
+### 30. World Literature
+**Global Impact**: Sophoclean techniques in different literary cultures.
 
-**Przykłady Wpływu**:
-- **Literatura japońska**: Podobne struktury w klasycznych sztukach No
-- **Literatura arabska**: Techniki ironii w współczesnym dramacie
-- **Literatura latynoamerykańska**: Realizm magiczny wykorzystuje podobne struktury odkrywania prawdy
+**Influence Examples**:
+- **Japanese Literature**: Similar structures in classical No plays
+- **Arabic Literature**: Irony techniques in contemporary drama
+- **Latin American Literature**: Magical realism uses similar truth-discovery structures
 
-## Dlaczego Te Techniki Były Rewolucyjne
+## Why These Techniques Were Revolutionary
 
-### Kontekst Historyczny
-W czasach Sofoklesa teatr był stosunkowo młodą formą artystyczną. Jego innowacje:
+### Historical Context
+In Sophocles' time, theater was a relatively young art form. His innovations:
 
-1. **Zwiększyły Możliwości Dramatyczne**: Trzeci aktor pozwolił na znacznie bardziej skomplikowane intrygi
-2. **Stworzyły Psychologiczną Głębię**: Pierwszy raz w literaturze światowej bohater był tak psychologicznie złożony
-3. **Zdefiniowały Strukturę Dramatyczną**: Wzorce, które stworzył, są używane po dziś dzień
-4. **Wprowadzi Metafizyczną Głębię**: Dramat nie tylko opowiadał historię, ale zadawał fundamentalne pytania o naturę człowieka
+1. **Increased Dramatic Possibilities**: Third actor allowed for much more complicated plots
+2. **Created Psychological Depth**: First time in world literature a hero was so psychologically complex
+3. **Defined Dramatic Structure**: Patterns he created are used to this day
+4. **Introduced Metaphysical Depth**: Drama not only told story but asked fundamental questions about human nature
 
-### Znaczenie dla Nauki Pisania
+### Significance for Writing Education
 
-**Dla Współczesnych Pisarzy** techniki Sofoklesa oferują:
+**For Contemporary Writers** Sophoclean techniques offer:
 
-1. **Strukturę Narracyjną**: Jak budować napięcie przez odkrywanie prawdy
-2. **Charakteryzację**: Jak tworzyć postaci przez działania, nie opisy
-3. **Ironię Dramatyczną**: Jak wykorzystać wiedzę czytelnika dla budowania napięcia
-4. **Ekonomię Środków**: Jak każde słowo może nieść wielokrotne znaczenia
-5. **Jedność Akcji**: Jak koncentrować narrację wokół jednego centralnego konfliktu
+1. **Narrative Structure**: How to build tension through truth discovery
+2. **Characterization**: How to create characters through actions, not descriptions
+3. **Dramatic Irony**: How to use reader knowledge for building tension
+4. **Economy of Means**: How every word can carry multiple meanings
+5. **Unity of Action**: How to concentrate narrative around one central conflict
 
-## Podsumowanie
+## Summary
 
-"Król Edyp" Sofoklesa pozostaje jednym z najbardziej wpływowych dzieł w historii literatury światowej. Jego innowacje techniczne - od wprowadzenia trzeciego aktora po mistrzostwo ironii dramatycznej - nie tylko zrewolucjonizowały teatr starożytny, ale także określiły standardy dramaturgii na wieki.
+Sophocles' "Oedipus Rex" remains one of the most influential works in world literature history. His technical innovations - from introducing the third actor to mastering dramatic irony - not only revolutionized ancient theater but also set dramaturgy standards for centuries.
 
-Dzieło to dowodzi, jak pojedyncze dzieło literackie może zmienić całą tradycję pisarską. Techniki opracowane przez Sofoklesa 2500 lat temu wciąż są używane w najnowszej literaturze, filmie i telewizji, czyniąc "Króla Edypa" nie tylko klasykiem, ale wciąż żywym wzorcem mistrzowskiego rzemiosła pisarskiego.
+This work proves how a single literary work can change an entire writing tradition. Techniques developed by Sophocles 2,500 years ago are still used in the latest literature, film, and television, making "Oedipus Rex" not only a classic but still a living model of masterful writing craft.
 
-Dla każdego pisarza studiowanie technik Sofoklesa to lekcja tego, jak prostota może skrywać głębię, jak struktura może służyć emocjom, a jak doskonałe rzemiosło może tworzyć sztukę ponadczasową.
+For every writer, studying Sophoclean techniques is a lesson in how simplicity can hide depth, how structure can serve emotions, and how perfect craftsmanship can create timeless art.

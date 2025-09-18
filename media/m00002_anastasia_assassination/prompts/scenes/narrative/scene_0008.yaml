@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Crime Scene Discovery"
+  setting:
+    time: "1957 October morning, 10:28"
+    location: "Hotel barbershop, now crime scene"
+    weather: "Morning fog lifting, brighter light through windows"
+  characters:
+    - appearance: "Late 40s, Irish features, ruddy complexion, gray hair at temples, tired eyes"
+      clothing: "Brown wool suit slightly rumpled, white shirt, brown striped tie loosened, tan fedora in hand"
+      position: "Crouching beside barber chair examining floor"
+      action: "Writing in small notepad, not looking at body"
+    - appearance: "Younger uniformed officer, fresh-faced, pale with shock"
+      clothing: "Dark blue NYPD uniform, badge number visible, peaked cap"
+      position: "Standing by doorway maintaining perimeter"
+      action: "Keeping curious hotel guests from entering"
+  scene:
+    mainElements: "Body covered with white barber sheet on floor between chairs, chalk outline being drawn, numbered evidence markers"
+    details: "Spent shell casings marked with small numbered cards, blood pooling on checkered linoleum, photographer's flash popping"
+    background: "Broken mirrors still in place, Barbicide slowly dripping from overturned jar, radio turned off finally"
+    atmosphere: "Clinical police work atmosphere, harsh camera flashes, murmur of voices from lobby"
+  composition:
+    cameraAngle: "High angle looking down at scene"
+    focus: "Detective taking notes, covered form on floor"
+    depth: "Crime scene in foreground, curious faces visible through doorway in background"

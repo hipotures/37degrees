@@ -1,0 +1,111 @@
+canon:
+  characters:
+    - id: "character_AA"
+      name: "Boss A.A."
+      description_block: |
+        characters:
+          - appearance: "Heavy-set man, 55 years old, thick neck, broad shoulders, receding hairline with slicked-back dark hair, heavy jowls, thick eyebrows"
+            clothing: "Dark double-breasted suit with wide lapels, white dress shirt, dark silk tie with small pattern, polished black oxford shoes, gold pinky ring"
+            posture: "Relaxed but authoritative, shoulders back, walks with confident swagger"
+
+    - id: "character_gunman_1"
+      name: "First Masked Man"
+      description_block: |
+        characters:
+          - appearance: "Medium height, athletic build, face completely obscured by dark scarf wrapped around lower face"
+            clothing: "Dark gray overcoat reaching mid-thigh, black fedora pulled low over eyes, black leather gloves, dark trousers"
+            posture: "Tense, coiled like spring, moves quickly and purposefully"
+
+    - id: "character_gunman_2"
+      name: "Second Masked Man"
+      description_block: |
+        characters:
+          - appearance: "Taller, lean build, face hidden behind checkered scarf covering nose and mouth"
+            clothing: "Black trench coat, dark brown fedora, brown leather gloves, black trousers, scuffed black shoes"
+            posture: "Alert, head constantly swiveling, stands guard position"
+
+    - id: "character_AG"
+      name: "Barber A.G."
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, thin build, clean-shaven, dark hair neatly combed with pomade, worried expression"
+            clothing: "White barber's smock over white shirt and thin black tie, black trousers, black leather shoes"
+            posture: "Professional stance while working, hands trembling after incident"
+
+    - id: "character_detective_M"
+      name: "Detective M"
+      description_block: |
+        characters:
+          - appearance: "Late 40s, Irish features, ruddy complexion, gray hair at temples, clean-shaven, tired eyes with deep crow's feet"
+            clothing: "Brown wool suit slightly rumpled, white shirt, brown striped tie loosened at collar, tan fedora, brown oxford shoes"
+            posture: "Weary but alert, notepad always in hand"
+
+    - id: "character_AC"
+      name: "Driver A.C."
+      description_block: |
+        characters:
+          - appearance: "Early 40s, medium build, dark hair, nervous demeanor, shifty eyes"
+            clothing: "Black chauffeur's uniform with cap, white shirt, black tie, polished black shoes"
+            posture: "Fidgety, keeps checking wristwatch, walks with hurried steps"
+
+  locations:
+    - id: "luxury_hotel_exterior"
+      name: "Luxury Hotel Exterior"
+      description_block: |
+        setting:
+          location: "Corner of major avenue and cross street, Midtown Manhattan, 25-story brick and stone hotel building"
+        mainElements: "Wide sidewalk with street vendors, brass revolving doors under burgundy canvas awning, doorman's station"
+        atmosphere: "Dense morning fog limiting visibility to half block, moisture beading on all surfaces, muffled city sounds"
+
+    - id: "hotel_barbershop"
+      name: "Hotel Barber Shop"
+      description_block: |
+        setting:
+          location: "Ground floor of luxury hotel, accessed through hotel lobby"
+        mainElements: "Eight barber chairs with porcelain bases and chrome fixtures, wall of mirrors opposite chairs, black and white checkered linoleum floor"
+        atmosphere: "Bright fluorescent lighting, antiseptic smell of blue disinfectant, steam from hot towels, morning radio playing softly"
+
+    - id: "hotel_main_lobby"
+      name: "Hotel Main Lobby"
+      description_block: |
+        setting:
+          location: "Main lobby of luxury midtown hotel, marble columns and terrazzo floors"
+        mainElements: "Reception desk in dark wood, leather club chairs, brass standing ashtrays, potted palms"
+        atmosphere: "Subdued lighting from crystal chandeliers, cigarette smoke hanging in air, echoing footsteps on marble"
+
+    - id: "underground_garage"
+      name: "Hotel Underground Garage"
+      description_block: |
+        setting:
+          location: "Basement parking garage beneath luxury hotel"
+        mainElements: "Concrete pillars, oil-stained floor, dim overhead bulbs creating pools of light, parked luxury cars"
+        atmosphere: "Dank, echo of dripping water, exhaust fumes, deep shadows between vehicles"
+
+    - id: "city_street_fog"
+      name: "Foggy City Street"
+      description_block: |
+        setting:
+          location: "Midtown Manhattan street corner, October morning"
+        mainElements: "Wet asphalt reflecting streetlights, parked cars along curb, newsstand on corner, trash cans"
+        atmosphere: "Thick fog reducing visibility, halos around streetlights, muffled traffic sounds"
+
+  items:
+    - id: "barber_chair_four"
+      name: "Barber Chair Number 4"
+      description_block: |
+        details: "Heavy chrome and porcelain barber chair, dark burgundy leather upholstery, hydraulic base, adjustable headrest, chrome footrest, white barber cloth draped over armrests"
+
+    - id: "snub_nose_revolver"
+      name: "Snub-Nose Revolver"
+      description_block: |
+        details: "Short-barrel revolver, blued steel finish, wooden grip, four-inch barrel, six-shot cylinder, smell of cordite"
+
+    - id: "wall_mirrors"
+      name: "Barbershop Wall Mirrors"
+      description_block: |
+        details: "Floor-to-ceiling mirrors covering entire wall, slight green tint, some age spots, chrome frame, multiple bullet holes with spider-web cracks"
+
+    - id: "black_sedan"
+      name: "Black Luxury Sedan"
+      description_block: |
+        details: "1957 black four-door sedan, chrome bumpers and trim, whitewall tires, tinted windows, engine idling with exhaust visible in cold air"

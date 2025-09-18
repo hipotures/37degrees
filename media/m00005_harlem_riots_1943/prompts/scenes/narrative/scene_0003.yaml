@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Shot"
+  setting:
+    time: "August 1, 1943, evening 9:05"
+    location: "Braddock Hotel lobby, moment of violence"
+    weather: "Oppressive heat inside"
+  characters:
+    - appearance: "Young Black man, early 20s, athletic build, clean-shaven, short military haircut"
+      clothing: "US Army uniform - olive drab wool field jacket M1941, matching pants, brown leather service shoes"
+      position: "Stumbling backward, hand clutching shoulder"
+      action: "Face shocked, beginning to fall, blood seeping through fingers"
+    - appearance: "White police officer, mid-30s, average height, clean-shaven, hard features"
+      clothing: "NYPD uniform - navy blue wool coat, matching pants with black stripe, eight-point police cap"
+      position: "Arm extended with smoking revolver"
+      action: "Eyes wide, realizing what happened, gun still pointed"
+    - appearance: "Older Black woman, 50s, gray streaks in hair, worried expression"
+      clothing: "Simple dark dress, sensible flat shoes, small hat with pin"
+      position: "Rushing forward from stairs"
+      action: "Arms outstretched toward falling son, mouth open in scream"
+  scene:
+    mainElements: "Moment frozen after gunshot, smoke from revolver hanging in air, soldier falling"
+    details: "Garrison cap on floor, blood beginning to spread on uniform, nightstick dropped, cordite smell, echo of shot, plaster dust from ceiling where bullet lodged"
+    background: "Faces in doorway frozen in shock, clerk's head barely visible above desk"
+    atmosphere: "Sudden violence shattering tension, smoke in light beam, everything stopped for one second"
+  composition:
+    cameraAngle: "Side angle capturing all three figures"
+    focus: "Soldier falling with officer's extended arm"
+    depth: "Sharp focus on violence, background figures frozen in shock"

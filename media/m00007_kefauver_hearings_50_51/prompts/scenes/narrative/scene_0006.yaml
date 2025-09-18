@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Whispered Conference"
+  setting:
+    time: "March 1951, afternoon 2:15"
+    location: "Witness table during brief recess"
+    weather: "Afternoon light mixing with television lights"
+  characters:
+    - appearance: "66 years old, medium build, graying hair slicked back, heavy features, nervous expression"
+      clothing: "Expensive charcoal pinstripe suit now wrinkled, white silk shirt damp with sweat, loosened tie"
+      position: "Leaning toward his attorney"
+      action: "Whispering urgently, hand covering mouth from cameras"
+    - appearance: "Distinguished man, late 50s, silver hair, thin mustache, alert eyes"
+      clothing: "Three-piece gray suit, white shirt, conservative blue tie, pocket watch chain visible"
+      position: "Leaning close to witness"
+      action: "Hand on witness's arm, whispering back, glancing at committee"
+    - appearance: "Young man, 24 years old, dark hair slicked with pomade, sharp features, intense eyes"
+      clothing: "Navy blue suit perfectly pressed, crisp white shirt, burgundy tie, shiny black shoes"
+      position: "At committee table watching"
+      action: "Making notes while observing whispered conference"
+  scene:
+    mainElements: "Intimate moment of legal consultation under public scrutiny, heads close together, hands shielding mouths"
+    details: "Papers spread on table with pencil marks, water glasses empty, ashtrays full, lawyer's briefcase open showing documents, witness's handkerchief crumpled on table, committee members conferring at their table"
+    background: "Gallery spectators stretching during break, photographers reloading cameras, television cameras still running"
+    atmosphere: "Brief respite in battle, strategy being adjusted, sense of siege mentality at witness table"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Witness and lawyer in urgent consultation"
+    depth: "Conference in focus, committee table visible beyond, gallery in soft background"

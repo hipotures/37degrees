@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1991 late night, October
+    location: Stone corridors of Hogwarts at night, torch-lit passageways
+    weather: Clear cold night
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes with red and gold Gryffindor trim, moving stealthily
+    position: Creeping through darkened corridor, pressed against stone wall
+    action: Moving carefully through shadows, checking around corners, carrying something silvery
+  - appearance: Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age
+    clothing: Hogwarts robes, disheveled from sneaking around
+    position: Following behind Harry, equally nervous
+    action: Looking over shoulder nervously, whispering warnings about getting caught
+  - appearance: Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression
+    clothing: Hogwarts robes over nightdress, bare feet
+    position: Catching up to the boys in corridor
+    action: Trying to convince them to return to dormitory, gesturing urgently
+  scene:
+    mainElements: Stone corridor with flickering torches in wall sconces, suits of armor standing guard, tapestries hanging
+      from walls
+    details: Torch flames casting dancing shadows on ancient stone walls, suits of armor gleaming in firelight, thick tapestries
+      depicting medieval scenes, cold stone floor beneath feet, mysterious silvery fabric partially visible in Harry's hands
+    background: Corridor extending into darkness, staircases leading to other floors, distant sound of footsteps
+    atmosphere: Dangerous adventure in forbidden hours, torch-lit medieval atmosphere, tension of breaking rules, no text
+      or letters visible
+  composition:
+    cameraAngle: Low angle from floor level showing vulnerability of students
+    focus: Three friends breaking rules together in dangerous nighttime adventure
+    depth: Students creeping in foreground, torch-lit corridor in middle ground, mysterious darkness beyond
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

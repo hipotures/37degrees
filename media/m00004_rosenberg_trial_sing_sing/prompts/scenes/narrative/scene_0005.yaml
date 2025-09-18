@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Death Row Cell at Dawn"
+  setting:
+    time: "June 19, 1953, dawn 5:30"
+    location: "Death row cell, Sing Sing Prison, Ossining, New York"
+    weather: "Early morning light filtering through barred window"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Gray prison uniform, white undershirt visible at collar, prison-issue slippers"
+      position: "Sitting on edge of narrow cot"
+      action: "Writing letter with pencil on yellow legal pad, hand steady"
+    - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+      clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+      position: "Standing outside cell bars"
+      action: "Watching through bars, keys hanging from belt"
+  scene:
+    mainElements: "Narrow cell with metal bars, single cot with thin mattress, small metal sink, high barred window"
+    details: "Shaft of dawn light cutting across cell floor, shadows of bars creating grid pattern, stack of letters on small shelf, photograph tucked into wall crack, untouched breakfast tray"
+    background: "Stone corridor beyond bars, other cells visible across hallway, distant sound of footsteps echoing"
+    atmosphere: "Quiet before storm, golden dawn light contrasting with cold gray stone, sense of time running out"
+  composition:
+    cameraAngle: "Through bars from corridor perspective"
+    focus: "Prisoner writing final letters"
+    depth: "Bars in sharp foreground, prisoner in cell mid-ground, window with dawn light in background"

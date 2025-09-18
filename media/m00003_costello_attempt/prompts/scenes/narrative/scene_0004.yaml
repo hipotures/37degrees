@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Warning Shout"
+  setting:
+    time: "May 2, 1957, night 11:01"
+    location: "Art Deco lobby of The Majestic apartment building"
+    weather: "Interior artificial lighting"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat, polished black oxfords"
+      position: "Three steps into lobby, near leather couch"
+      action: "Beginning to turn head at sound of shout"
+    - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+      clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+      position: "Just inside revolving door"
+      action: "Arm extended with revolver, mouth open shouting"
+    - appearance: "Middle-aged man, professional bearing, clean-shaven, alert eyes"
+      clothing: "Formal doorman uniform - long dark wool coat with brass buttons and gold braiding, matching peaked cap with brass badge, white gloves"
+      position: "Frozen near his station"
+      action: "Eyes wide in shock, hand halfway to mouth"
+  scene:
+    mainElements: "Art Deco lobby with terrazzo floors, geometric patterns, white metal walls, leather furniture"
+    details: "Uplighting creating dramatic shadows on ceiling, brass fixtures reflecting light, doorman's desk with sign-in book, mail slots on wall, potted palm in corner"
+    background: "Elevator doors visible, hallway leading deeper into building, geometric ceiling design"
+    atmosphere: "Split second of warning before violence, echo of shout in marble space, time seeming to slow"
+  composition:
+    cameraAngle: "From elevator area looking toward entrance"
+    focus: "Gunman shouting with weapon raised"
+    depth: "Victim turning in foreground, gunman in sharp focus mid-ground, revolving door and street beyond"

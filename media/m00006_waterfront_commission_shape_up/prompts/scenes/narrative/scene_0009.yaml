@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "End of an Era"
+  setting:
+    time: "1955, early morning 5:45 AM"
+    location: "Empty shape-up ground, same location as old system"
+    weather: "Clear dawn, no fog, spring morning"
+  characters:
+    - appearance: "Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar stub in mouth"
+      clothing: "Same long wool overcoat now shabby, fedora, scuffed shoes"
+      position: "Standing alone where his platform used to be"
+      action: "Looking at empty ground, no workers waiting for him"
+    - appearance: "Former hiring boss's enforcer, massive man, 30s, cauliflower ears"
+      clothing: "Black leather jacket worn at elbows, dark pants, heavy boots"
+      position: "Leaning against warehouse wall"
+      action: "Smoking cigarette, nowhere to go"
+  scene:
+    mainElements: "Empty cobblestone area where hundreds once gathered, abandoned wooden crate, closed pier gates"
+    details: "Old oil drum rusted and tipped over, faded chalk marks on warehouse wall, scattered old newspapers, weeds growing between cobblestones"
+    background: "New hiring hall visible in distance with line of workers, ships still at pier but different system"
+    atmosphere: "End of corrupt era, empty power, progress leaving some behind, quiet victory"
+  composition:
+    cameraAngle: "Wide establishing shot"
+    focus: "Solitary former boss in empty space"
+    depth: "Empty ground in foreground, lone figure middle, new hiring hall in distant background"

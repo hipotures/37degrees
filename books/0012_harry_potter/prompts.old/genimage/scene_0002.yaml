@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1991 early morning, dawn light
+    location: Harry's bedroom at 4 Privet Drive, cramped space beneath staircase
+    weather: Clear morning
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Oversized pajamas, too big hand-me-downs
+    position: Lying on narrow cot, just waking up
+    action: Rubbing scar unconsciously, sitting up carefully in low-ceiling space
+  scene:
+    mainElements: Tiny space with sloping ceiling, single cot, few belongings on shelves, spiders in corners
+    details: Dust motes in morning light filtering through crack under door, worn blanket, small pile of broken toys, coat
+      hangers above bed, water stains on walls showing years of neglect
+    background: Wooden stairs visible above, sound of footsteps from family getting ready upstairs
+    atmosphere: Cramped, dark, neglected space showing Harry's mistreatment by the Dursleys, no text or letters visible
+  composition:
+    cameraAngle: Low angle from corner of cupboard
+    focus: Harry's face showing resilience despite circumstances
+    depth: Harry in foreground, cramped cupboard space in middle ground, suggestion of house beyond
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1991 late evening, stormy night
+    location: Small wooden hut on edge of Hogwarts grounds near Forbidden Forest
+    weather: Heavy rain and wind
+  characters:
+  - appearance: Giant of a man, nearly twice normal height, wild tangled black hair, beetle-black eyes, massive hands
+    clothing: Large moleskin overcoat, massive boots, pink umbrella occasionally visible
+    position: Standing in doorway of hut, welcoming gesture
+    action: Greeting visitors with warm smile despite intimidating size, ushering them inside
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes with red and gold Gryffindor trim, damp from rain
+    position: Standing outside hut in rain
+    action: Looking up at giant man with mixture of fear and curiosity, accepting invitation inside
+  scene:
+    mainElements: Single-room hut with oversized furniture, fireplace, kettle, large table, crossbow on wall
+    details: Warm firelight spilling from open doorway into stormy night, steam rising from kettle on fire, enormous chairs
+      and table built for giant occupant, hunting tools and magical creature care equipment visible, cozy atmosphere despite
+      primitive conditions
+    background: Dark Forbidden Forest visible through rain, wind bending trees, Hogwarts castle lights in distance
+    atmosphere: Cozy but cramped, welcoming warmth, smell of cooking, safe haven despite dangerous surroundings, no text or
+      letters visible
+  composition:
+    cameraAngle: Low angle looking up at giant figure in doorway
+    focus: Contrast between Hagrid's imposing size and gentle nature
+    depth: Harry in foreground approaching hut, Hagrid filling doorway in middle ground, stormy forest in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

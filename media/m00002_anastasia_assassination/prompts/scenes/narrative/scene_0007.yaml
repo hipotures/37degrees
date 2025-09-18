@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Escape"
+  setting:
+    time: "1957 October morning, 10:23"
+    location: "Main lobby of luxury midtown hotel"
+    weather: "Fog still thick outside glass doors"
+  characters:
+    - appearance: "Medium height, athletic build, face completely obscured by dark scarf"
+      clothing: "Dark gray overcoat, black fedora, black leather gloves holding revolver"
+      position: "Running through marble lobby"
+      action: "Pushing past startled hotel guest, gun still in hand"
+    - appearance: "Taller, lean build, face hidden behind checkered scarf"
+      clothing: "Black trench coat flapping open, dark brown fedora"
+      position: "Few steps behind first man"
+      action: "Looking back over shoulder while running"
+  scene:
+    mainElements: "Reception desk in dark wood, leather club chairs knocked over, brass standing ashtray overturned"
+    details: "Cigarette butts scattered on marble floor, newspaper pages floating in air from disturbed table, brass revolving door spinning"
+    background: "Hotel staff frozen behind desk, elderly couple pressed against wall, bellhop dropping luggage"
+    atmosphere: "Subdued lighting from crystal chandeliers, cigarette smoke swirling in disturbed air, echoing footsteps on marble"
+  composition:
+    cameraAngle: "Wide shot from behind reception desk"
+    focus: "Two running figures silhouetted against bright revolving door"
+    depth: "Lobby furniture in foreground, figures in middle, foggy street visible through doors"

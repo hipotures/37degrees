@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "First Window Breaks"
+  setting:
+    time: "August 1, 1943, night 10:30"
+    location: "125th Street between 7th and 8th Avenues, commercial district"
+    weather: "Hot night, no breeze"
+  characters:
+    - appearance: "Young Black man in work clothes, 20s"
+      clothing: "Dirty work shirt, suspenders, worn pants"
+      position: "Mid-throw with brick"
+      action: "Releasing brick toward store window"
+    - appearance: "White man, 40s, stocky build, panicked expression"
+      clothing: "White apron over shirt and tie, rolled sleeves"
+      position: "Inside store behind counter"
+      action: "Ducking, arms over head"
+    - appearance: "Group of young Black men"
+      clothing: "Mix of work clothes and zoot suits"
+      position: "Surrounding store entrance"
+      action: "Waiting to rush in when window breaks"
+  scene:
+    mainElements: "Row of storefronts, large grocery store window about to shatter, streetlights, parked cars"
+    details: "Brick in mid-flight, window reflecting street scene about to explode, painted prices on glass, goods visible on shelves inside, other stores still intact"
+    background: "More people running down street, smoke beginning to rise from direction of precinct"
+    atmosphere: "Moment before chaos fully erupts, anticipation of breaking glass, crowd energy turning destructive"
+  composition:
+    cameraAngle: "Street level diagonal view"
+    focus: "Brick about to hit window"
+    depth: "Brick and window sharp, crowd and street stretching into smoky distance"

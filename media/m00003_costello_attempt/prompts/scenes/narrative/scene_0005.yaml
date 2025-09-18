@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Shot"
+  setting:
+    time: "May 2, 1957, night 11:01:30"
+    location: "Art Deco lobby of The Majestic"
+    weather: "Interior lighting with muzzle flash"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat falling off, polished black oxfords"
+      position: "Head turned, beginning to fall toward leather couch"
+      action: "Hand going to head, blood beginning to show, hat falling"
+    - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+      clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+      position: "Standing with gun extended"
+      action: "Trigger pulled, muzzle flash illuminating face, smoke from barrel"
+  scene:
+    mainElements: "Muzzle flash lighting geometric lobby, victim falling, hat in mid-air"
+    details: "Spent shell casing in air catching light, blood spray pattern beginning, doorman ducking, sound reverberating off marble, shadow of gunman stretched across floor by muzzle flash"
+    background: "Art Deco patterns on walls lit by flash, mirrors reflecting the moment from multiple angles"
+    atmosphere: "Violence exploding in elegant space, single moment of impact, pristine lobby violated"
+  composition:
+    cameraAngle: "Low angle from floor level"
+    focus: "Muzzle flash and victim's reaction"
+    depth: "Gun and flash in foreground, victim mid-ground, geometric ceiling patterns above"

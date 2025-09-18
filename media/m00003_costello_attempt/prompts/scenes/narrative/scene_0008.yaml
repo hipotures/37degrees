@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Police Arrive"
+  setting:
+    time: "May 2, 1957, night 11:10"
+    location: "The Majestic lobby and entrance"
+    weather: "Clear night, emergency lights flashing"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit with blood stains, white shirt soaked at collar, burgundy silk tie loosened, polished black oxfords"
+      position: "Sitting upright on lobby couch"
+      action: "Holding white handkerchief to head wound, talking to detective"
+    - appearance: "Veteran cop, late 40s, weathered face, gray at temples, thick mustache"
+      clothing: "Brown tweed suit, white shirt, striped tie, tan trench coat, brown fedora"
+      position: "Kneeling beside wounded man"
+      action: "Taking notes, asking questions"
+    - appearance: "Younger detective, mid-30s, clean-cut, sharp eyes"
+      clothing: "Navy blue suit, white shirt, dark tie, gray overcoat, black fedora"
+      position: "Examining blood trail on floor"
+      action: "Following blood drops with flashlight"
+  scene:
+    mainElements: "Police cars outside with red lights rotating, lobby now crime scene, wounded man being interviewed"
+    details: "Borsalino hat being placed in evidence bag, chalk marking blood spots, photographer's flash popping, doorman giving statement, ambulance attendants waiting with stretcher"
+    background: "Curious residents peering from elevator, more police arriving, reporters beginning to gather outside"
+    atmosphere: "Official response to violence, methodical investigation beginning, elegant lobby transformed to crime scene"
+  composition:
+    cameraAngle: "From entrance looking into lobby"
+    focus: "Wounded man with detective questioning him"
+    depth: "Police cars and lights in foreground, investigation in mid-ground, Art Deco lobby stretching back"

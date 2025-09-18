@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Working the Cargo"
+  setting:
+    time: "1953, winter morning 9:00 AM"
+    location: "Active loading dock, Brooklyn Red Hook terminal"
+    weather: "Overcast, cold wind off water"
+  characters:
+    - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+      clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+      position: "On dock hauling cargo net"
+      action: "Straining with cargo hook to guide heavy load, sweat despite cold"
+    - appearance: "Another longshoreman, 40s, powerful build, Italian features, gold tooth"
+      clothing: "Canvas work jacket, wool sweater, heavy gloves with fingers cut off"
+      position: "Working opposite side of cargo net"
+      action: "Shouting directions over crane noise"
+    - appearance: "Young docker from earlier, now working"
+      clothing: "Same army surplus jacket now soaked with sweat, work gloves"
+      position: "Stacking crates on pallet"
+      action: "Moving fast to prove himself worthy of selection"
+  scene:
+    mainElements: "Cargo ship with nets full of crates being lowered, dock cranes, teams of men working, stacked containers"
+    details: "Steel cargo hooks flashing, hemp ropes straining, foreman with clipboard watching, coffee break whistle mounted on pole, seagulls diving for scraps"
+    background: "Manhattan skyline across river, other ships waiting to dock, trucks lined up for loading"
+    atmosphere: "Intense physical labor, danger of falling cargo, coordination of experienced teams, industrial symphony"
+  composition:
+    cameraAngle: "Low angle showing scale of cargo operation"
+    focus: "Workers guiding massive cargo net"
+    depth: "Workers and net in foreground, ship's hull rising like wall behind, sky and cranes above"

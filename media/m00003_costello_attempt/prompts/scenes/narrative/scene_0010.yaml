@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Press Conference Dawn"
+  setting:
+    time: "May 3, 1957, dawn 6:00"
+    location: "Outside Roosevelt Hospital, Manhattan"
+    weather: "Early morning light, cool and clear"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Fresh dark suit, white shirt, dark tie, white bandage visible on head"
+      position: "Standing at hospital entrance"
+      action: "Speaking to cluster of reporters, hand raised dismissively"
+    - appearance: "Police captain, 50s, authoritative bearing, square jaw"
+      clothing: "Dress uniform with badge and insignia, peaked cap"
+      position: "Standing to the side"
+      action: "Watching crowd, maintaining order"
+  scene:
+    mainElements: "Hospital entrance, crowd of reporters with notepads, photographers with large cameras, police maintaining perimeter"
+    details: "Flash bulbs popping, reporters shouting questions, microphones extended, bandage clearly visible on survivor's head, taxi waiting at curb, morning newspapers with early edition headlines visible"
+    background: "Hospital facade in dawn light, city waking up, early morning traffic beginning"
+    atmosphere: "Media frenzy after failed assassination, survivor showing defiance, new day after night of violence"
+  composition:
+    cameraAngle: "From among the press crowd"
+    focus: "Bandaged survivor addressing media"
+    depth: "Reporters and cameras in foreground, survivor at entrance mid-ground, hospital and dawn sky background"

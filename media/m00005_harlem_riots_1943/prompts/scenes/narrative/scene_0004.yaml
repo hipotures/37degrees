@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Crowd Gathers Outside"
+  setting:
+    time: "August 1, 1943, night 9:30"
+    location: "Outside 28th Police Precinct, West 123rd Street"
+    weather: "Hot night, humidity like a blanket"
+  characters:
+    - appearance: "Black teenage boy, 17-18, lanky build, intense expression"
+      clothing: "Zoot suit with wide-shouldered jacket, high-waisted pants, fedora"
+      position: "Front of crowd, arm raised"
+      action: "Shouting at police line, fist clenched"
+    - appearance: "Group of Black women, various ages"
+      clothing: "Summer dresses, some in work uniforms"
+      position: "Pressing forward in crowd"
+      action: "Angry gestures, shouting, some crying"
+    - appearance: "Line of white police officers"
+      clothing: "NYPD uniforms, some with helmets"
+      position: "Forming barrier at precinct steps"
+      action: "Nightsticks raised, nervous expressions"
+  scene:
+    mainElements: "Three-story brick precinct building, green globe lights at entrance, crowd of hundreds pressing forward"
+    details: "Police cars parked as barriers, street lamps casting yellow light, faces angry and scared, someone throwing bottle from back, reporters with cameras arriving"
+    background: "Harlem tenements rising into darkness, more people streaming in from side streets"
+    atmosphere: "Powder keg about to explode, crowd energy building, police outnumbered, rumor spreading through crowd"
+  composition:
+    cameraAngle: "Elevated view from building across street"
+    focus: "Crowd pressing against police line"
+    depth: "Mass of people filling street, precinct building looming behind police"

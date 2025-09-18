@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Rejected"
+  setting:
+    time: "1953, winter morning 6:30 AM"
+    location: "Outside pier gates after shape-up, empty cobblestone area"
+    weather: "Gray morning light, wind picking up"
+  characters:
+    - appearance: "Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor"
+      clothing: "Patched wool coat, work cap, worn boots with newspaper stuffed inside, fingerless gloves"
+      position: "Slumped against warehouse wall"
+      action: "Staring at ground, empty hands hanging between knees"
+    - appearance: "Young man, early 20s, eager face not yet hardened, strong build, hopeful eyes"
+      clothing: "Hand-me-down work clothes too big, army surplus jacket, worn cap"
+      position: "Standing looking at closed pier gates"
+      action: "Kicking at loose cobblestone in frustration"
+    - appearance: "Middle-aged docker, thin from hunger, hollow cheeks, desperate eyes"
+      clothing: "Threadbare coat held closed with rope, cracked work boots, dirty cap"
+      position: "Walking away slowly"
+      action: "Counting few coins in palm, not enough for family"
+  scene:
+    mainElements: "Closed pier gates, empty shape-up ground littered with cigarette butts, rejected workers dispersing"
+    details: "Brass work tokens visible on chosen men entering pier, oil drum fire dying out, abandoned coffee cups, chalk marks on wall counting days without work"
+    background: "Sounds of work beginning inside pier, ship horns, crane engines starting"
+    atmosphere: "Defeat and humiliation, empty day stretching ahead, hunger awaiting at home"
+  composition:
+    cameraAngle: "Wide shot of empty ground"
+    focus: "Scattered rejected men against industrial landscape"
+    depth: "Men in foreground, empty shape-up area mid-ground, working pier visible through fence"

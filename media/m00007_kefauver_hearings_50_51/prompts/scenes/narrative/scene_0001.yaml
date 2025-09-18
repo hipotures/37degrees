@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Setting Up the Television Era"
+  setting:
+    time: "March 1951, morning 7:30"
+    location: "Federal Courthouse hearing room being prepared, Foley Square, Manhattan"
+    weather: "Early morning light through tall windows"
+  characters:
+    - appearance: "Middle-aged man, stocky build, rolled-up shirt sleeves, perspiring from hot lights"
+      clothing: "White dress shirt with sleeves rolled up, dark trousers, suspenders, loosened tie"
+      position: "Behind large television camera, adjusting position"
+      action: "Rotating lens turret, checking cables, wiping lens with cloth"
+    - appearance: "Technician, young man, thin, focused expression"
+      clothing: "Gray work coveralls, tool belt, white undershirt visible"
+      position: "On floor running thick cables"
+      action: "Taping down camera cables with gaffer tape in neat lines"
+  scene:
+    mainElements: "Empty hearing room being transformed, massive TV cameras being positioned, lights being installed, cables everywhere"
+    details: "RCA television cameras on wheeled tripods, Fresnel lights on stands creating pools of hot light, thick black cables snaking across floor, committee table being draped with dark cloth, nameplates being placed"
+    background: "Tall windows showing Manhattan morning, empty gallery benches, portraits on walls"
+    atmosphere: "Quiet before storm, technical preparation, dawn of television age in politics, methodical setup"
+  composition:
+    cameraAngle: "Wide establishing shot from gallery entrance"
+    focus: "Television equipment dominating traditional courtroom"
+    depth: "Equipment and technicians in foreground, empty committee table mid-ground, windows in background"

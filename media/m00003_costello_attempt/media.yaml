@@ -1,0 +1,12 @@
+media_info:
+  title: "Frank Costello Assassination Attempt - May 2, 1957"
+  author: "Historical Documentation"
+  year: 1957
+  genre: "True Crime Documentary"
+  description: "The failed assassination attempt on mob boss Frank Costello in an Art Deco Manhattan apartment lobby"
+  target_audience: "General public, students, crime history enthusiasts"
+  duration: "~3 minutes"
+  objective: "Recreate the dramatic near-miss that changed New York's underworld power structure"
+  scene_count: 10
+  graphics_style: "film-noir-1950s-melodrama"
+  scene_generator: "narrative"

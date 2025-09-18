@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Morning Arrival at the Garage"
+  setting:
+    time: "1957 October morning, 10:10"
+    location: "Basement parking garage beneath luxury hotel"
+    weather: "Dense fog seeping into garage entrance, humid and warm for October"
+  characters:
+    - appearance: "Heavy-set man, 55 years old, thick neck, broad shoulders, receding hairline with slicked-back dark hair, heavy jowls, thick eyebrows"
+      clothing: "Dark double-breasted suit with wide lapels, white dress shirt, dark silk tie with small pattern, polished black oxford shoes, gold pinky ring"
+      position: "Sitting in rear passenger seat of black sedan"
+      action: "Checking gold pocket watch while waiting"
+    - appearance: "Early 40s, medium build, dark hair, nervous demeanor, shifty eyes"
+      clothing: "Black chauffeur's uniform with cap, white shirt, black tie, polished black shoes"
+      position: "Driver's seat, hands on steering wheel"
+      action: "Looking in rearview mirror, drumming fingers nervously on wheel"
+  scene:
+    mainElements: "Concrete pillars, oil-stained floor, dim overhead bulbs creating pools of light, parked luxury cars"
+    details: "Black sedan's engine ticking as it cools, condensation on concrete walls, distant echo of footsteps from upper levels, single fluorescent light flickering intermittently"
+    background: "Row of expensive cars parked in shadows, exit ramp leading up to street level visible in distance"
+    atmosphere: "Dank, echo of dripping water, exhaust fumes, deep shadows between vehicles, oppressive silence broken only by distant city sounds"
+  composition:
+    cameraAngle: "Low angle from behind concrete pillar, partially obscuring view"
+    focus: "Interior of sedan through rear window, two figures in silhouette"
+    depth: "Car in foreground, rows of pillars receding into darkness"

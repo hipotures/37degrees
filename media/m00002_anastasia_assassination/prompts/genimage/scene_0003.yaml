@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: 1957 October morning, 10:15
+    location: Ground floor of luxury hotel, accessed through hotel lobby
+    weather: Fog visible through windows, diffused morning light
+  characters:
+  - appearance: Heavy-set man, 55 years old, thick neck, broad shoulders, receding hairline with slicked-back dark hair, heavy
+      jowls, thick eyebrows
+    clothing: Dark double-breasted suit with wide lapels, white dress shirt, dark silk tie with small pattern, polished black
+      oxford shoes, gold pinky ring
+    position: Standing in doorway of barbershop
+    action: Removing fedora hat, nodding to barber
+  - appearance: Middle-aged man, thin build, clean-shaven, dark hair neatly combed with pomade, worried expression
+    clothing: White barber's smock over white shirt and thin black tie, black trousers, black leather shoes
+    position: Standing beside empty barber chair number 4
+    action: Gesturing welcomingly toward chair, holding white barber cape
+  scene:
+    mainElements: Eight barber chairs with porcelain bases and chrome fixtures, wall of mirrors opposite chairs, black and
+      white checkered linoleum floor
+    details: Steam rising from hot towel cabinet, blue Barbicide jars on each station, scattered newspapers on waiting chairs,
+      radio playing soft music
+    background: Other barber stations empty at this early hour, coat rack near entrance with single coat
+    atmosphere: Bright fluorescent lighting, antiseptic smell of blue disinfectant, steam from hot towels, morning radio playing
+      softly
+  composition:
+    cameraAngle: Wide shot from corner of barbershop
+    focus: Two figures framed by doorway, empty chairs waiting
+    depth: Doorway in foreground, row of chairs and mirrors creating infinite regression
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

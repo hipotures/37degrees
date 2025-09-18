@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: 1955, morning 7:00 AM
+    location: Waterfront Commission Hiring Hall, converted warehouse
+    weather: Clear morning, sunlight through windows
+  characters:
+  - appearance: Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features
+    clothing: Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit
+      cap
+    position: Sitting on wooden bench with other workers
+    action: Holding new registration card, looking at number board
+  - appearance: Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor
+    clothing: Patched wool coat, work cap, worn boots with newspaper stuffed inside, fingerless gloves
+    position: Standing at registration window
+    action: Showing his new ID card to clerk
+  - appearance: Commission clerk, woman, 30s, professional appearance
+    clothing: White blouse, dark skirt, glasses on chain
+    position: Behind window with brass bars
+    action: Stamping work assignments, calling out numbers
+  scene:
+    mainElements: Rows of wooden benches filled with waiting men, registration window, large number board, wall clock
+    details: Laminated ID cards in hands, work assignment board with pier locations, coffee urn in corner, no smoking signs,
+      fluorescent lights humming
+    background: Other workers reading newspapers while waiting, orderly lines, institutional green walls
+    atmosphere: Orderly but tense, new system replacing chaos, dignity of fair selection, some skepticism about change
+  composition:
+    cameraAngle: Wide shot of hall interior
+    focus: Workers on benches looking at number board
+    depth: Benches and men in foreground, registration window mid-ground, number board on far wall
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

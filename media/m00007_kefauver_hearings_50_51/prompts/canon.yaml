@@ -1,0 +1,129 @@
+canon:
+  characters:
+    - id: "senator_EK"
+      name: "Senator EK"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, serious demeanor"
+            clothing: "Conservative dark gray suit, white shirt, narrow dark tie, polished black oxfords"
+            posture: "Sits upright behind committee table, leans forward when questioning, gestures with glasses in hand"
+
+    - id: "witness_FC"
+      name: "Witness FC"
+      description_block: |
+        characters:
+          - appearance: "66 years old, medium build, graying hair slicked back, heavy features, nervous expression"
+            clothing: "Expensive charcoal pinstripe suit, white silk shirt, dark tie with small pattern, gold cufflinks"
+            posture: "Sits rigidly at witness table, hands clasped tightly, occasionally wiping forehead with handkerchief"
+
+    - id: "counsel_RC"
+      name: "Committee Counsel RC"
+      description_block: |
+        characters:
+          - appearance: "Young man, 24 years old, dark hair slicked with pomade, sharp features, intense eyes"
+            clothing: "Navy blue suit perfectly pressed, crisp white shirt, burgundy tie, shiny black shoes"
+            posture: "Sits next to chairman, constantly taking notes, whispers frequently to senator"
+
+    - id: "tv_cameraman"
+      name: "Television Camera Operator"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, stocky build, rolled-up shirt sleeves, perspiring from hot lights"
+            clothing: "White dress shirt with sleeves rolled up, dark trousers, suspenders, loosened tie"
+            posture: "Hunched behind large television camera, adjusting focus wheels"
+
+    - id: "press_photographer"
+      name: "Press Photographer"
+      description_block: |
+        characters:
+          - appearance: "Young man, 30s, thin build, fedora pushed back on head, cigarette behind ear"
+            clothing: "Wrinkled gray suit, white shirt open at collar, no tie, press badge on lapel"
+            posture: "Crouching for angle, holding large Speed Graphic camera with flash"
+
+    - id: "committee_member_2"
+      name: "Committee Senator 2"
+      description_block: |
+        characters:
+          - appearance: "Heavy-set man, 50s, round face, thinning hair, skeptical expression"
+            clothing: "Dark brown suit, white shirt, striped tie, reading glasses on chain"
+            posture: "Leans back in chair, arms crossed, occasionally makes notes"
+
+    - id: "witness_lawyer"
+      name: "Witness Attorney"
+      description_block: |
+        characters:
+          - appearance: "Distinguished man, late 50s, silver hair, thin mustache, alert eyes"
+            clothing: "Three-piece gray suit, white shirt, conservative blue tie, pocket watch chain visible"
+            posture: "Sits beside witness, frequently leans in to whisper advice, hand ready to object"
+
+  locations:
+    - id: "hearing_room"
+      name: "Federal Courthouse Hearing Room"
+      description_block: |
+        setting:
+          location: "Large courtroom adapted for congressional hearing, Foley Square Federal Courthouse, Manhattan"
+        mainElements: "Long elevated committee table with dark cloth, witness table below, press area with cameras, public gallery"
+        atmosphere: "Thick cigarette smoke in air, hot television lights, constant flash of cameras, tense formal atmosphere"
+
+    - id: "committee_table"
+      name: "Senate Committee Dais"
+      description_block: |
+        setting:
+          location: "Elevated platform where senators sit, draped in dark cloth"
+        mainElements: "Long table with microphones, water pitchers, nameplates, stacks of documents, American flag behind"
+        atmosphere: "Position of authority, bright lights focused here, formal government setting"
+
+    - id: "witness_table"
+      name: "Witness Testimony Table"
+      description_block: |
+        setting:
+          location: "Small table facing committee, center of room"
+        mainElements: "Simple wooden table, two chairs, single microphone, glass of water, ashtray"
+        atmosphere: "Isolated spot under harsh lights, all eyes focused here, hot and uncomfortable"
+
+    - id: "press_section"
+      name: "Media and Camera Area"
+      description_block: |
+        setting:
+          location: "Side area of hearing room designated for television and press"
+        mainElements: "Large RCA television cameras on wheeled tripods, cables everywhere, press photographers with Speed Graphics"
+        atmosphere: "Chaotic activity, constant movement, whir of cameras, flash bulbs popping"
+
+    - id: "hallway_outside"
+      name: "Courthouse Hallway"
+      description_block: |
+        setting:
+          location: "Marble hallway outside hearing room"
+        mainElements: "High ceilings, marble columns, benches along walls, water fountains, phone booths"
+        atmosphere: "Echo of footsteps, reporters waiting for breaks, witnesses smoking nervously"
+
+  items:
+    - id: "tv_camera_rca"
+      name: "RCA Television Camera"
+      description_block: |
+        details: "Large box-shaped camera on massive wheeled tripod, rotating turret with three lenses, thick cables running to control room, operator viewfinder on side"
+
+    - id: "speed_graphic"
+      name: "Press Camera"
+      description_block: |
+        details: "Graflex Speed Graphic 4x5, accordion bellows, large chrome flash reflector with bulbs, dark focusing cloth"
+
+    - id: "committee_gavel"
+      name: "Chairman's Gavel"
+      description_block: |
+        details: "Dark wood gavel with worn handle, matching sound block, sits prominently at center of committee table"
+
+    - id: "microphones"
+      name: "Hearing Microphones"
+      description_block: |
+        details: "Large chrome RCA 44-BX ribbon microphones on desktop stands, thick black cables, impressive vintage appearance"
+
+    - id: "witness_hands"
+      name: "Nervous Hands"
+      description_block: |
+        details: "Witness's hands in constant motion - fidgeting with glasses, drumming fingers, clasping and unclasping, wiping sweat with handkerchief"
+
+    - id: "fresnel_lights"
+      name: "Television Lights"
+      description_block: |
+        details: "Large metal Fresnel spotlights on stands, generating intense heat, creating harsh shadows, barn doors to control beam"

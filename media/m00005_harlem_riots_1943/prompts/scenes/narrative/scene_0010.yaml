@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Hospital Vigil"
+  setting:
+    time: "August 2, 1943, morning 8:00"
+    location: "Sydenham Hospital, Harlem"
+    weather: "Overcast, smoke smell in air"
+  characters:
+    - appearance: "Young Black man, early 20s, athletic build, clean-shaven, short military haircut"
+      clothing: "Hospital gown, bandaged shoulder visible"
+      position: "Lying in hospital bed"
+      action: "Eyes closed, breathing steady, alive"
+    - appearance: "Older Black woman, 50s, gray streaks in hair, exhausted"
+      clothing: "Same dark dress from night before, now wrinkled"
+      position: "Sitting in chair beside bed"
+      action: "Holding his hand, head bowed in prayer or exhaustion"
+    - appearance: "Black nurse, 30s, professional demeanor"
+      clothing: "White nurse uniform, cap"
+      position: "Checking chart at foot of bed"
+      action: "Writing notes, glancing sympathetically at mother"
+  scene:
+    mainElements: "Hospital ward, multiple beds with injured, windows showing damaged city"
+    details: "Other riot victims in beds, police guard at ward door, medical equipment, morning light through windows, folded uniform on chair, newspaper with riot headlines on nightstand"
+    background: "Through window: Harlem rooftops, some still smoking, normal morning life slowly resuming"
+    atmosphere: "Quiet relief mixed with trauma, survival after violence, personal drama within larger tragedy"
+  composition:
+    cameraAngle: "Intimate medium shot of bed area"
+    focus: "Mother holding son's hand"
+    depth: "Bed scene in focus, ward extending behind, window view of Harlem"

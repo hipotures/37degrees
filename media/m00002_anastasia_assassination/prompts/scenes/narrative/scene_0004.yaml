@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Calm Before"
+  setting:
+    time: "1957 October morning, 10:18"
+    location: "Ground floor barbershop of luxury hotel"
+    weather: "Fog still thick outside windows"
+  characters:
+    - appearance: "Heavy-set man, 55 years old, thick neck, broad shoulders, receding hairline with slicked-back dark hair, heavy jowls, thick eyebrows"
+      clothing: "White barber cape over dress shirt and tie, suit jacket hanging on nearby hook, shoes removed"
+      position: "Reclined in barber chair number 4"
+      action: "Eyes closed, relaxed, hands folded on stomach under cape"
+    - appearance: "Middle-aged man, thin build, clean-shaven, dark hair neatly combed with pomade"
+      clothing: "White barber's smock over white shirt and thin black tie, black trousers, black leather shoes"
+      position: "Standing behind chair, working"
+      action: "Applying hot towel to customer's face, steam rising"
+  scene:
+    mainElements: "Heavy chrome and porcelain barber chair, dark burgundy leather upholstery, hydraulic base, wall of mirrors"
+    details: "Straight razor laid out on white cloth, shaving mug with brush, chrome clippers hanging on hook, hot towel steamer hissing softly"
+    background: "Empty barbershop, morning light filtering through foggy windows, other chairs standing like sentinels"
+    atmosphere: "Peaceful morning routine, soft radio music, ticking wall clock showing 10:18, steam creating soft focus effect"
+  composition:
+    cameraAngle: "Medium shot from side angle"
+    focus: "Man in chair with towel on face, barber's hands adjusting towel"
+    depth: "Chair in center, infinite reflections in opposing mirrors"

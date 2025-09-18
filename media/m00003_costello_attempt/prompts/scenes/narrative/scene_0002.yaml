@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Shadow Follows"
+  setting:
+    time: "May 2, 1957, evening 10:52"
+    location: "Streets of Manhattan, taxi moving through traffic"
+    weather: "Clear night, street lights creating long shadows"
+  characters:
+    - appearance: "Working man, 50s, tired face, stubbled jaw, newsboy cap"
+      clothing: "Worn brown jacket, plaid shirt, dark pants, scuffed shoes"
+      position: "Driving yellow Checker taxi"
+      action: "Eyes on road, occasionally checking rearview mirror"
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat, polished black oxfords"
+      position: "Sitting in back seat of taxi"
+      action: "Looking out window, unaware of following car"
+  scene:
+    mainElements: "Interior of taxi, city lights passing by windows, black Cadillac visible in rear window"
+    details: "Meter clicking, driver's cigarette smoke, newspapers on front seat, black Cadillac maintaining steady distance behind, street lights creating moving shadows inside cab"
+    background: "Manhattan streets at night, other cars, pedestrians on sidewalks, store windows lit"
+    atmosphere: "Routine ride home with underlying menace, pursuer keeping pace, target unaware"
+  composition:
+    cameraAngle: "From front passenger seat looking back"
+    focus: "Passenger in back seat with following car visible through rear window"
+    depth: "Taxi interior in foreground, passenger mid-ground, following Cadillac in background through window"

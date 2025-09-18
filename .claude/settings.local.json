@@ -42,7 +42,8 @@
       "mcp__playwright-show-browser__browser_press_key",
       "mcp__playwright-cdp__browser_hover",
       "Bash(python scripts/afa/afa-prompt-generator.py:*)",
-      "mcp__playwright-cdp__browser_wait_for"
+      "mcp__playwright-cdp__browser_wait_for",
+      "Read(//tmp/**)"
     ],
     "deny": [],
     "additionalDirectories": [

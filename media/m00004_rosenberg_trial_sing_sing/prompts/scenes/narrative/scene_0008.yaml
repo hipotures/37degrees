@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Chamber"
+  setting:
+    time: "June 19, 1953, evening 8:04"
+    location: "Execution chamber, Sing Sing Prison"
+    weather: "Indoor artificial lighting"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Gray prison uniform with right trouser leg rolled up, white undershirt visible"
+      position: "Seated in wooden chair"
+      action: "Sitting rigid, hands gripping armrests, looking forward"
+    - appearance: "Prison executioner, face obscured by shadow, average build"
+      clothing: "Dark suit, white shirt, dark tie"
+      position: "Standing beside electrical control panel"
+      action: "Hand on large switch, waiting"
+    - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+      clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+      position: "Standing at door"
+      action: "Back against wall, looking at floor"
+  scene:
+    mainElements: "Heavy oak electric chair with leather straps, electrical cables, control panel with gauges, observation window"
+    details: "Metal helmet with chin strap on prisoner's head, electrode attached to calf, leather straps across chest and arms, single bright overhead light, electrical cables snaking across floor"
+    background: "Bare concrete walls, observation window with witnesses visible as shadows, heavy metal door"
+    atmosphere: "Stark finality, harsh overhead light creating deep shadows, mechanical preparation, deadly quiet except electrical hum"
+  composition:
+    cameraAngle: "Three-quarter view from witness area angle"
+    focus: "Figure in chair under harsh light"
+    depth: "Chair and occupant in sharp focus center, executioner in shadow, witnesses behind glass"

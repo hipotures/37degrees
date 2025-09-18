@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "End of Day Exhaustion"
+  setting:
+    time: "March 1951, evening 6:30"
+    location: "Hearing room after day's testimony concluded"
+    weather: "Evening light fading outside windows"
+  characters:
+    - appearance: "66 years old, medium build, graying hair slicked back, heavy features, exhausted expression"
+      clothing: "Expensive charcoal pinstripe suit completely disheveled, shirt soaked with sweat, tie completely undone"
+      position: "Slumped at witness table"
+      action: "Gathering papers slowly, hands shaking slightly from exhaustion"
+    - appearance: "Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, tired but satisfied"
+      clothing: "Conservative dark gray suit, white shirt, narrow dark tie now loosened"
+      position: "At committee table organizing documents"
+      action: "Removing glasses, rubbing bridge of nose, conferring with aide"
+    - appearance: "Janitor, elderly Black man, patient expression"
+      clothing: "Gray uniform, work boots"
+      position: "Beginning to clean gallery area"
+      action: "Sweeping up flash bulbs and cigarette butts"
+  scene:
+    mainElements: "Aftermath of intense day, people slowly dispersing, equipment being shut down, exhaustion palpable"
+    details: "Television lights being turned off one by one, cameras being wheeled away, full ashtrays, empty water pitchers, crumpled papers, discarded flash bulbs littering floor, janitor's broom scraping, shadows lengthening"
+    background: "Empty gallery seats, evening light through windows, Manhattan skyline beginning to light up"
+    atmosphere: "End of theatrical day, physical and emotional exhaustion, quiet after storm, democracy's grinding work"
+  composition:
+    cameraAngle: "Wide shot from back of room"
+    focus: "Exhausted witness gathering himself to leave"
+    depth: "Witness in foreground, committee wrapping up mid-ground, empty gallery and windows in background"

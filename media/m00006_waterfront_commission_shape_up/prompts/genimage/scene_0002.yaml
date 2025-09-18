@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: 1953, winter morning 6:00 AM
+    location: Open area before pier gates, cobblestone ground, warehouse walls
+    weather: Dawn breaking, fog lifting slightly, cold wind off river
+  characters:
+  - appearance: Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar always in mouth
+    clothing: Long wool overcoat, fedora, leather gloves, expensive shoes incongruous on dock
+    position: Standing on wooden crate above crowd
+    action: Looking down at desperate crowd, pointing at chosen men
+  - appearance: Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence
+    clothing: Black leather jacket, dark pants, heavy boots, brass knuckles visible in pocket
+    position: Standing beside crate, arms crossed
+    action: Pushing back men who get too close
+  - appearance: Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features
+    clothing: Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit
+      cap
+    position: In middle of pressing crowd
+    action: Pushing forward, hand raised, calling out for work
+  scene:
+    mainElements: Hiring boss elevated on platform, semicircle of 200+ desperate men, pier gates behind
+    details: Chrome whistle in boss's hand, men shoving for position, some holding up union cards, others offering bribes,
+      cargo ships visible through gates
+    background: Dawn light breaking over warehouse roofs, seagulls circling, steam from ships
+    atmosphere: Controlled chaos, desperation, arbitrary power on display, humiliation of begging for work
+  composition:
+    cameraAngle: Low angle looking up at hiring boss
+    focus: Boss pointing down at crowd imperiously
+    depth: Reaching hands in foreground, boss on platform mid-ground, pier cranes in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Fatal Moment"
+  setting:
+    time: "1957 October morning, 10:21"
+    location: "Interior of hotel barbershop"
+    weather: "Morning light through windows mixing with fluorescent overhead"
+  characters:
+    - appearance: "Heavy-set man, 55 years old, eyes wide with shock"
+      clothing: "White barber cape, dress shirt visible at collar, hot towel falling from face"
+      position: "Half-rising from barber chair, turning toward mirrors"
+      action: "Lunging toward mirror reflections, hands grasping at glass"
+    - appearance: "Medium height, athletic build, face obscured by dark scarf"
+      clothing: "Dark gray overcoat, black fedora, black leather gloves"
+      position: "Standing three feet from chair, arm extended"
+      action: "Holding smoking revolver pointed at chair"
+    - appearance: "Middle-aged barber, thin build, terrified expression"
+      clothing: "White barber's smock over white shirt and thin black tie"
+      position: "Pressed against wall beside hot towel cabinet"
+      action: "Hands raised, mouth open in silent scream"
+  scene:
+    mainElements: "Floor-to-ceiling mirrors with bullet holes and spider-web cracks, overturned bottle of blue Barbicide spilling"
+    details: "Smoke from revolver hanging in air, hot towel on floor, straight razor fallen beside chair, newspapers scattered"
+    background: "Multiple reflections in cracked mirrors creating kaleidoscope effect, fluorescent light flickering"
+    atmosphere: "Chaos frozen in single moment, acrid smell of gunpowder, radio still playing incongruously"
+  composition:
+    cameraAngle: "Dutch angle from corner, tilted dramatically"
+    focus: "Man reaching toward mirror, his reflection multiplied in broken glass"
+    depth: "Action in center, infinite fractured reflections surrounding"

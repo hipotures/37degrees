@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Death Sentence Pronouncement"
+  setting:
+    time: "April 5, 1951, morning 10:00"
+    location: "Federal Courtroom 110, same courtroom for sentencing"
+    weather: "Bright spring morning light through windows"
+  characters:
+    - appearance: "Stocky man, 40 years old, dark hair, stern expression, heavy eyebrows, clean-shaven"
+      clothing: "Black judicial robes over dark suit, white shirt, dark tie"
+      position: "Standing behind bench, gavel in hand"
+      action: "Speaking solemnly while looking directly at defendants, raising gavel"
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Dark gray single-breasted suit, white shirt, thin dark tie, black oxford shoes"
+      position: "Standing at defense table, shoulders sagging"
+      action: "Staring straight ahead, hands clasped in front"
+    - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+      clothing: "Conservative dark blue dress with small white polka dots, modest neckline, dark pumps"
+      position: "Standing beside him, hand on table for support"
+      action: "Closing eyes as sentence is pronounced"
+  scene:
+    mainElements: "Formal courtroom setting, elevated judge's bench dominating scene, packed spectator gallery"
+    details: "Gavel raised in judge's hand, court officers standing ready, woman in gallery covering her mouth in shock, reporters writing frantically, bailiff's hand moving toward handcuffs"
+    background: "Morning sunlight creating stark shadows through window blinds, American flag standing rigid beside bench"
+    atmosphere: "Crushing weight of moment, absolute silence except judge's voice, harsh contrast of bright light and deep shadows"
+  composition:
+    cameraAngle: "Medium shot from jury box angle"
+    focus: "Judge pronouncing sentence with raised gavel"
+    depth: "Judge in sharp focus, defendants slightly soft, gallery blurred in background"

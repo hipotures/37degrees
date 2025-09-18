@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Pre-Dawn Gathering"
+  setting:
+    time: "1953, winter morning 5:30 AM"
+    location: "Street corner near Pier 45, Hudson River waterfront, Manhattan West Side"
+    weather: "Freezing cold, river fog, pre-dawn darkness"
+  characters:
+    - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+      clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+      position: "Standing with group of men around oil drum fire"
+      action: "Warming hands over flames, breath visible in cold air"
+    - appearance: "Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor"
+      clothing: "Patched wool coat, work cap, worn boots with newspaper stuffed inside, fingerless gloves"
+      position: "Sitting on wooden crate near fire"
+      action: "Sharing cigarette butt with another worker, coughing"
+    - appearance: "Young man, early 20s, eager face not yet hardened, strong build, hopeful eyes"
+      clothing: "Hand-me-down work clothes too big, army surplus jacket, worn cap"
+      position: "Standing at edge of group"
+      action: "Stomping feet to keep warm, checking cheap watch"
+  scene:
+    mainElements: "Oil drum with fire, crowd of fifty men gathering, warehouse walls, distant ship masts visible in fog"
+    details: "Steam from coffee vendor cart, men passing flask, cargo hook hanging from every belt, newspapers stuffed in boots for warmth, dice game in corner"
+    background: "Pier gates still closed, dock lights creating halos in fog, East River barely visible"
+    atmosphere: "Desperate hope mixed with resignation, men conserving energy for shape-up, brotherhood of shared hardship"
+  composition:
+    cameraAngle: "Eye level among the waiting men"
+    focus: "Group around fire barrel"
+    depth: "Fire and men in foreground, more workers arriving in fog, pier gates in misty background"

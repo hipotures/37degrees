@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: 1957 October morning, 10:23
+    location: Main lobby of luxury midtown hotel
+    weather: Fog still thick outside glass doors
+  characters:
+  - appearance: Medium height, athletic build, face completely obscured by dark scarf
+    clothing: Dark gray overcoat, black fedora, black leather gloves holding revolver
+    position: Running through marble lobby
+    action: Pushing past startled hotel guest, gun still in hand
+  - appearance: Taller, lean build, face hidden behind checkered scarf
+    clothing: Black trench coat flapping open, dark brown fedora
+    position: Few steps behind first man
+    action: Looking back over shoulder while running
+  scene:
+    mainElements: Reception desk in dark wood, leather club chairs knocked over, brass standing ashtray overturned
+    details: Cigarette butts scattered on marble floor, newspaper pages floating in air from disturbed table, brass revolving
+      door spinning
+    background: Hotel staff frozen behind desk, elderly couple pressed against wall, bellhop dropping luggage
+    atmosphere: Subdued lighting from crystal chandeliers, cigarette smoke swirling in disturbed air, echoing footsteps on
+      marble
+  composition:
+    cameraAngle: Wide shot from behind reception desk
+    focus: Two running figures silhouetted against bright revolving door
+    depth: Lobby furniture in foreground, figures in middle, foggy street visible through doors
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

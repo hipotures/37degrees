@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Violent Resistance"
+  setting:
+    time: "1954, night 10:00 PM"
+    location: "Dark street near waterfront, between warehouses"
+    weather: "Foggy night, wet pavement, poor visibility"
+  characters:
+    - appearance: "Clean-shaven man, 40s, sharp features, observant eyes, medium build"
+      clothing: "Dark gray suit under tan trench coat now torn, fedora knocked off, plain black shoes"
+      position: "Backed against warehouse wall"
+      action: "Holding briefcase protectively, blood from cut on forehead"
+    - appearance: "Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence"
+      clothing: "Black leather jacket, dark pants, heavy boots, brass knuckles on fist"
+      position: "Advancing menacingly"
+      action: "Fist raised with brass knuckles catching street light"
+    - appearance: "Second thug, thin wiry build, scarred face"
+      clothing: "Longshoreman's jacket, dark cap, work boots"
+      position: "Blocking escape route"
+      action: "Holding wooden club, tapping it against palm"
+  scene:
+    mainElements: "Narrow street between warehouses, single street lamp creating pool of light, fog obscuring both ends"
+    details: "Scattered papers from briefcase, broken glasses on wet pavement, trash cans overturned, investigator's notebook in puddle, distant sound of police siren"
+    background: "Dark warehouse windows, fog-shrouded street, distant pier lights barely visible"
+    atmosphere: "Violence and intimidation, corruption fighting back against reform, danger in shadows"
+  composition:
+    cameraAngle: "Low angle emphasizing threat"
+    focus: "Brass knuckles advancing toward investigator"
+    depth: "Attacker's fist in foreground, investigator against wall, fog obscuring escape"

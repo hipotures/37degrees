@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: 1957 October morning, 10:18
+    location: Ground floor barbershop of luxury hotel
+    weather: Fog still thick outside windows
+  characters:
+  - appearance: Heavy-set man, 55 years old, thick neck, broad shoulders, receding hairline with slicked-back dark hair, heavy
+      jowls, thick eyebrows
+    clothing: White barber cape over dress shirt and tie, suit jacket hanging on nearby hook, shoes removed
+    position: Reclined in barber chair number 4
+    action: Eyes closed, relaxed, hands folded on stomach under cape
+  - appearance: Middle-aged man, thin build, clean-shaven, dark hair neatly combed with pomade
+    clothing: White barber's smock over white shirt and thin black tie, black trousers, black leather shoes
+    position: Standing behind chair, working
+    action: Applying hot towel to customer's face, steam rising
+  scene:
+    mainElements: Heavy chrome and porcelain barber chair, dark burgundy leather upholstery, hydraulic base, wall of mirrors
+    details: Straight razor laid out on white cloth, shaving mug with brush, chrome clippers hanging on hook, hot towel steamer
+      hissing softly
+    background: Empty barbershop, morning light filtering through foggy windows, other chairs standing like sentinels
+    atmosphere: Peaceful morning routine, soft radio music, ticking wall clock showing 10:18, steam creating soft focus effect
+  composition:
+    cameraAngle: Medium shot from side angle
+    focus: Man in chair with towel on face, barber's hands adjusting towel
+    depth: Chair in center, infinite reflections in opposing mirrors
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

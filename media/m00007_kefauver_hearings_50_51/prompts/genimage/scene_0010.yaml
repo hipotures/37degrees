@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: March 1951, evening 7:00
+    location: Television store window display, Manhattan street
+    weather: Evening, streetlights coming on
+  characters:
+  - appearance: Working man, 40s, tired from day's work, lunch pail in hand
+    clothing: Work jacket, cap, heavy boots
+    position: Standing on sidewalk looking at TV display
+    action: Watching hearing replay on television through window
+  - appearance: Well-dressed woman, 30s, shopping bags in hand
+    clothing: Coat with fur collar, hat with small veil, heels
+    position: Stopped beside worker
+    action: Also transfixed by television broadcast
+  - appearance: Group of teenagers
+    clothing: School clothes, sweaters, saddle shoes
+    position: Gathered at window
+    action: Pointing at screen, discussing what they see
+  scene:
+    mainElements: Television store window with multiple TV sets all showing same hearing footage, crowd gathered on sidewalk
+    details: Multiple television screens showing witness's nervous hands in close-up, price tags on TVs, store's neon sign
+      reflecting on window, newspapers in trash can with hearing headlines, city bus passing with more hearing advertisements
+    background: Manhattan street at dusk, other stores closing, traffic passing, city transitioning to evening
+    atmosphere: Democracy broadcast to masses, new medium creating shared national experience, history witnessed in real-time
+  composition:
+    cameraAngle: From inside store looking out through window
+    focus: Silhouettes of crowd watching TVs through glass
+    depth: TV screens in foreground, mesmerized crowd mid-ground, city street in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

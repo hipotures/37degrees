@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: August 2, 1943, dawn 5:30
+    location: 125th Street, morning after riots
+    weather: Hazy dawn, smoke still hanging in air
+  characters:
+  - appearance: Black shopkeeper, elderly man, 60s, defeated expression
+    clothing: Rumpled shirt, suspenders, old pants
+    position: Standing in his destroyed store doorway
+    action: Surveying damage, holding broken picture frame
+  - appearance: Young Black woman with child
+    clothing: Simple dress, child in worn clothes
+    position: Walking carefully through debris
+    action: Holding child's hand, stepping over broken glass
+  - appearance: Police officer on patrol
+    clothing: Disheveled uniform from night duty
+    position: Walking beat along destroyed street
+    action: Writing in notebook, tired expression
+  scene:
+    mainElements: Devastated commercial street, broken windows entire block, debris everywhere, some buildings still smoldering
+    details: Mannequins lying in street, cash registers smashed on sidewalk, inventory scattered like trash, broken glass
+      glittering in dawn light, 'Negro Owned' sign intact on one shop
+    background: Fire trucks still working on hot spots, Red Cross vehicle arriving, sun rising through smoke
+    atmosphere: Morning after catastrophe, exhaustion and regret, counting cost of rage, quiet after storm
+  composition:
+    cameraAngle: Long shot down devastated street
+    focus: Shopkeeper in doorway with destruction stretching behind
+    depth: Foreground debris, destroyed shops middle, smoky sunrise background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

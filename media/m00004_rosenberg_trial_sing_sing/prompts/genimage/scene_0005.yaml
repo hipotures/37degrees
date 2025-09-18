@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: June 19, 1953, dawn 5:30
+    location: Death row cell, Sing Sing Prison, Ossining, New York
+    weather: Early morning light filtering through barred window
+  characters:
+  - appearance: Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build
+    clothing: Gray prison uniform, white undershirt visible at collar, prison-issue slippers
+    position: Sitting on edge of narrow cot
+    action: Writing letter with pencil on yellow legal pad, hand steady
+  - appearance: Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck
+    clothing: Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots
+    position: Standing outside cell bars
+    action: Watching through bars, keys hanging from belt
+  scene:
+    mainElements: Narrow cell with metal bars, single cot with thin mattress, small metal sink, high barred window
+    details: Shaft of dawn light cutting across cell floor, shadows of bars creating grid pattern, stack of letters on small
+      shelf, photograph tucked into wall crack, untouched breakfast tray
+    background: Stone corridor beyond bars, other cells visible across hallway, distant sound of footsteps echoing
+    atmosphere: Quiet before storm, golden dawn light contrasting with cold gray stone, sense of time running out
+  composition:
+    cameraAngle: Through bars from corridor perspective
+    focus: Prisoner writing final letters
+    depth: Bars in sharp foreground, prisoner in cell mid-ground, window with dawn light in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,112 @@
+sceneDescription:
+  setting:
+    time: May 2, 1957, night 11:10
+    location: The Majestic lobby and entrance
+    weather: Clear night, emergency lights flashing
+  characters:
+  - appearance: Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features,
+      hooded eyes
+    clothing: Expensive dark charcoal suit with blood stains, white shirt soaked at collar, burgundy silk tie loosened, polished
+      black oxfords
+    position: Sitting upright on lobby couch
+    action: Holding white handkerchief to head wound, talking to detective
+  - appearance: Veteran cop, late 40s, weathered face, gray at temples, thick mustache
+    clothing: Brown tweed suit, white shirt, striped tie, tan trench coat, brown fedora
+    position: Kneeling beside wounded man
+    action: Taking notes, asking questions
+  - appearance: Younger detective, mid-30s, clean-cut, sharp eyes
+    clothing: Navy blue suit, white shirt, dark tie, gray overcoat, black fedora
+    position: Examining blood trail on floor
+    action: Following blood drops with flashlight
+  scene:
+    mainElements: Police cars outside with red lights rotating, lobby now crime scene, wounded man being interviewed
+    details: Borsalino hat being placed in evidence bag, chalk marking blood spots, photographer's flash popping, doorman
+      giving statement, ambulance attendants waiting with stretcher
+    background: Curious residents peering from elevator, more police arriving, reporters beginning to gather outside
+    atmosphere: Official response to violence, methodical investigation beginning, elegant lobby transformed to crime scene
+  composition:
+    cameraAngle: From entrance looking into lobby
+    focus: Wounded man with detective questioning him
+    depth: Police cars and lights in foreground, investigation in mid-ground, Art Deco lobby stretching back
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

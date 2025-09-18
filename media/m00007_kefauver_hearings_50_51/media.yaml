@@ -1,0 +1,12 @@
+media_info:
+  title: "Kefauver Committee Hearings - 1950-1951"
+  author: "Historical Documentation"
+  year: 1951
+  genre: "Political Historical Documentary"
+  description: "The groundbreaking televised Senate hearings that exposed organized crime to the American public for the first time"
+  target_audience: "General public, students, political history enthusiasts"
+  duration: "~3 minutes"
+  objective: "Recreate the historic moment when organized crime was first exposed on live television to millions of viewers"
+  scene_count: 10
+  graphics_style: "film-noir-1950s-melodrama"
+  scene_generator: "narrative"

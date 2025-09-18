@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brother's Arrival"
+  setting:
+    time: "1957 October morning, 11:15"
+    location: "Hotel entrance, police cars blocking street"
+    weather: "Overcast, fog completely lifted, gray October day"
+  characters:
+    - appearance: "Stocky man in his 50s, grim expression, similar features to victim but harder"
+      clothing: "Dark overcoat over longshoreman's work clothes, wool cap in hand"
+      position: "Standing at hotel entrance between two detectives"
+      action: "Staring straight ahead, jaw clenched, hands in fists"
+    - appearance: "Reporter with eager expression, young, ambitious"
+      clothing: "Gray suit, press card in hatband, notebook visible"
+      position: "Pushing forward trying to get closer"
+      action: "Shouting questions while being held back by police"
+  scene:
+    mainElements: "Police cars with flashing lights, wooden barricades, crowd of onlookers, news photographers"
+    details: "Press cameras with large flash bulbs going off, police radio crackling from cars, hotel doorman looking shaken"
+    background: "Growing crowd behind police lines, office workers on lunch break stopping to stare, traffic backed up"
+    atmosphere: "Tense public scene, mixture of official procedure and public spectacle, cold October air"
+  composition:
+    cameraAngle: "Medium shot from street level"
+    focus: "Brother's stoic face amid chaos of press and police"
+    depth: "Figure in center, press and police surrounding, hotel facade rising above"

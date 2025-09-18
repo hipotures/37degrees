@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Desperate Protection"
+  setting:
+    time: "August 2, 1943, early morning 1:00"
+    location: "Small Black-owned barbershop on 126th Street"
+    weather: "Smoke-filled air, orange glow from fires"
+  characters:
+    - appearance: "Middle-aged Black man, barber, worried face"
+      clothing: "White shirt, dark pants, suspenders"
+      position: "Inside shop by window"
+      action: "Taping handwritten sign to window"
+    - appearance: "His wife, 40s, Black woman"
+      clothing: "Night robe, slippers"
+      position: "Beside him holding candle"
+      action: "Looking out fearfully at street"
+    - appearance: "Group of rioters passing"
+      clothing: "Mixed clothing, some carrying looted goods"
+      position: "Moving past on street"
+      action: "Reading sign, continuing past without breaking window"
+  scene:
+    mainElements: "Small barbershop, striped pole, chairs visible inside, cardboard sign reading 'Negro Owned' in window"
+    details: "Other shops on block destroyed, broken glass everywhere, smoke drifting past, distant sirens, makeshift signs appearing in other windows, barber tools neatly arranged inside"
+    background: "Fires glowing several blocks away, smoke obscuring stars, silhouettes running past"
+    atmosphere: "Desperate attempt at protection, fear of destruction, racial solidarity being tested"
+  composition:
+    cameraAngle: "From street looking at storefront"
+    focus: "Barber taping sign while crowd passes"
+    depth: "Shop interior lit by candle, dark street with fires in distance"

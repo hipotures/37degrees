@@ -1,333 +1,333 @@
-# Wpływ Kulturowy "Króla Edypa" Sofoklesa
+# Cultural Impact of Sophocles' "Oedipus Rex"
 
-## Wprowadzenie
+## Introduction
 
-"Król Edyp" (ok. 429 p.n.e.) Sofoklesa to jedno z najważniejszych dzieł literatury światowej, które przez ponad 2400 lat nieustannie inspiruje twórców i wpływa na kulturę popularną. Ta tragedia o królu Teb, który nieświadomie zabił ojca i poślubił matkę, stała się fundamentem zachodniego myślenia o przeznaczeniu, winie i ludzkiej kondycji.
+"Oedipus Rex" (c. 429 BC) by Sophocles is one of the most important works of world literature, which has continuously inspired creators and influenced popular culture for over 2,400 years. This tragedy about the king of Thebes who unknowingly killed his father and married his mother has become the foundation of Western thinking about fate, guilt, and the human condition.
 
-## I. ADAPTACJE FILMOWE I TELEWIZYJNE
+## I. FILM AND TELEVISION ADAPTATIONS
 
-### Znaczące Adaptacje Kinowe
+### Notable Cinema Adaptations
 
-1. **Pier Paolo Pasolini - "Edipo Re" (1967)**
-   - Autobiograficzna interpretacja reżysera kręcona w Maroku
-   - Franco Citti w roli tytułowej, Julian Beck jako Kreon
-   - Film zaczyna i kończy się we Włoszech lat 20., nawiązując do życia Pasoliniego
-   - Pasolini: "W Edypie opowiadam historię mojego kompleksu Edypa"
-   - Uznany za arcydzieło współczesnego kina adaptującego klasykę
+1. **Pier Paolo Pasolini - "Oedipus Rex" (1967)**
+   - Autobiographical interpretation by the director filmed in Morocco
+   - Franco Citti in the title role, Julian Beck as Creon
+   - Film begins and ends in 1920s Italy, referencing Pasolini's life
+   - Pasolini: "In Oedipus I tell the story of my Oedipus complex"
+   - Recognized as a masterpiece of contemporary cinema adapting classics
 
 2. **Tyrone Guthrie - "Oedipus Rex" (1957)**
-   - Adaptacja z udziałem Douglasa Campbella i Eleonor Stuart
-   - Tłumaczenie Williama Butlera Yeatsa
-   - Jedna z pierwszych znaczących filmowych adaptacji tragedii
+   - Adaptation featuring Douglas Campbell and Eleanor Stuart
+   - Translation by William Butler Yeats
+   - One of the first significant film adaptations of the tragedy
 
 3. **Philip Saville - "Oedipus the King" (1968)**
-   - Obsada: Christopher Plummer, Orson Welles, Donald Sutherland
-   - Produkcja Universal Studios z gwiazdorską obsadą
-   - Współczesne podejście do antycznej tragedii
+   - Cast: Christopher Plummer, Orson Welles, Donald Sutherland
+   - Universal Studios production with star-studded cast
+   - Contemporary approach to ancient tragedy
 
-### Współczesne Produkcje TV i Streaming
+### Contemporary TV and Streaming Productions
 
 4. **The Oedipus Project (2020-2024)**
-   - Projekt Theatre of War przedstawiający spektakl podczas COVID-19
-   - Wykorzystanie tragedii jako metafory współczesnych kryzysów
-   - Spektakl pod Błękitnym Wielorybem w American Museum of Natural History podczas Climate Week NYC
+   - Theatre of War project presenting the play during COVID-19
+   - Using tragedy as metaphor for contemporary crises
+   - Performance under the Blue Whale at American Museum of Natural History during Climate Week NYC
 
-## II. TEATR I ADAPTACJE SCENICZNE
+## II. THEATER AND STAGE ADAPTATIONS
 
-### Broadway i West End
+### Broadway and West End
 
 5. **Robert Icke - "Oedipus" (2024)**
-   - Polityczny thriller przeniesiony z West Endu na Broadway
-   - Nagrodzony Olivier Award, rekordowe wpływy w Londynie
-   - Transformacja antycznej tragedii w eksplozywny thriller polityczny
+   - Political thriller transferred from West End to Broadway
+   - Olivier Award winner, record box office in London
+   - Transformation of ancient tragedy into explosive political thriller
 
-6. **Mark Strong i Lesley Manville - Wyndham's Theatre (2024)**
-   - West End, październik 2024 - styczeń 2025
-   - Jedna z najważniejszych londyńskich produkcji roku
+6. **Mark Strong and Lesley Manville - Wyndham's Theatre (2024)**
+   - West End, October 2024 - January 2025
+   - One of London's most important productions of the year
 
-7. **Rami Malek i Indira Varma - Old Vic Theatre (2025)**
-   - Styczeń-marzec 2025
-   - Adaptacja Elli Hickson, reżyseria Matthew Warchus i Hofesh Shechter
-   - Laureat Oscara Rami Malek w głównej roli
+7. **Rami Malek and Indira Varma - Old Vic Theatre (2025)**
+   - January-March 2025
+   - Adaptation by Ella Hickson, directed by Matthew Warchus and Hofesh Shechter
+   - Oscar winner Rami Malek in the lead role
 
-### Polskie Adaptacje Teatralne
+### Polish Theatrical Adaptations
 
-8. **Teatr Dramatyczny w Warszawie (1961)**
-   - Plakat autorstwa Henryka Tomaszewskiego
-   - Pionierski projekt graficzny teatralny w Polsce
+8. **Teatr Dramatyczny in Warsaw (1961)**
+   - Poster by Henryk Tomaszewski
+   - Pioneer theatrical graphic design project in Poland
 
-9. **Gustaw Holoubek - "Król Edyp" (2004)**
-   - 75. rocznica teatru i 80. urodziny reżysera
-   - Jedna z najważniejszych polskich interpretacji
+9. **Gustaw Holoubek - "King Oedipus" (2004)**
+   - 75th anniversary of the theater and 80th birthday of the director
+   - One of the most important Polish interpretations
 
-10. **Opera Poznańska - "Król Edyp" (2013)**
-    - Premiera 27 kwietnia 2013, 8. Festiwal Wiosenny
-    - Nagranie dla telewizji ARTE
-    - Libretto Jean Cocteau na podstawie Sofoklesa
+10. **Opera Poznańska - "King Oedipus" (2013)**
+    - Premiere April 27, 2013, 8th Spring Festival
+    - Recording for ARTE television
+    - Libretto by Jean Cocteau based on Sophocles
 
-## III. MUZYKA I OPERA
+## III. MUSIC AND OPERA
 
-### Klasyczne Adaptacje Operowe
+### Classical Opera Adaptations
 
 11. **Igor Stravinsky - "Oedipus Rex" (1927)**
-    - Opera-oratorium z librettem Jean Cocteau w języku łacińskim
-    - Premiera w Théâtre Sarah Bernhardt w Paryżu
-    - Jeden z najważniejszych dzieł okresu neoklasycznego Strawińskiego
-    - Tekst łaciński wybrany jako "medium nie martwe, ale skamieniałe"
+    - Opera-oratorio with libretto by Jean Cocteau in Latin
+    - Premiere at Théâtre Sarah Bernhardt in Paris
+    - One of the most important works of Stravinsky's neoclassical period
+    - Latin text chosen as "a medium not dead but petrified"
 
-12. **Wpływ na Verdiego i operę włoską**
-    - Stravinsky czerpał z tradycji Verdiego w ariach Jocasty
-    - Leonard Bernstein wskazuje na wpływy "Aidy" w motywach otwierających
+12. **Influence on Verdi and Italian opera**
+    - Stravinsky drew from Verdi tradition in Jocasta's arias
+    - Leonard Bernstein points to influences of "Aida" in opening motifs
 
-### Współczesne Interpretacje Muzyczne
+### Contemporary Musical Interpretations
 
 13. **Blanche Davidian - "Oedipal Complexions"**
-    - Zespół glam-punk nawiązujący tytułem do kompleksu Edypa
-    - Przykład wpływu na współczesną muzykę alternatywną
+    - Glam-punk band referencing Oedipus complex in title
+    - Example of influence on contemporary alternative music
 
-## IV. PSYCHOLOGIA I NAUKA - KOMPLEKS EDYPA
+## IV. PSYCHOLOGY AND SCIENCE - OEDIPUS COMPLEX
 
-### Freudowska Rewolucja
+### Freudian Revolution
 
-14. **Sigmund Freud - "Interpretacja snów" (1899)**
-    - Teoria kompleksu Edypa nazwana od Sofoklesa
-    - Podstawa psychoanalizy i teorii rozwoju psychoseksualnego
-    - "Uniwersalny fenomen psychologiczny wrodny ludzkości"
+14. **Sigmund Freud - "The Interpretation of Dreams" (1899)**
+    - Oedipus complex theory named after Sophocles
+    - Foundation of psychoanalysis and psychosexual development theory
+    - "Universal psychological phenomenon inherent to humanity"
 
-15. **Wpływ na język potoczny**
-    - "Kompleks Edypa" - powszechnie używane pojęcie
-    - Jedyna teoria psychologiczna znana szerokiej publiczności
-    - Freud jedynym psychologiem rozpoznawanym globalnie
+15. **Influence on everyday language**
+    - "Oedipus complex" - commonly used concept
+    - Only psychological theory known to general public
+    - Freud the only psychologist globally recognized
 
-### Współczesne Interpretacje Naukowe
+### Contemporary Scientific Interpretations
 
-16. **Era #MeToo - nowe interpretacje (2020-2024)**
-    - Przegląd teorii psychoanalitycznych w świetle współczesnych badań
-    - Dyskusja o patriarchalnych aspektach teorii Freuda
-    - Reinterpretacja w kontekście dynamiki rodzinnej, nie popędu seksualnego
+16. **#MeToo Era - new interpretations (2020-2024)**
+    - Review of psychoanalytic theories in light of contemporary research
+    - Discussion of patriarchal aspects of Freud's theory
+    - Reinterpretation in context of family dynamics, not sexual drive
 
-## V. LITERATURA I WPŁYW NA PISARZY
+## V. LITERATURE AND INFLUENCE ON WRITERS
 
-### Modernistyczne Reinterpretacje
+### Modernist Reinterpretations
 
-17. **Jean Anouilh - "Antygona" (1942)**
-    - Adaptacja podczas okupacji nazistowskiej Francji
-    - Wykorzystanie mitu Edypa do komentarza politycznego
-    - "Traveller Without Luggage" - bezpośrednia inspiracja legendą edypalną
+17. **Jean Anouilh - "Antigone" (1942)**
+    - Adaptation during Nazi occupation of France
+    - Using Oedipus myth for political commentary
+    - "Traveller Without Luggage" - direct inspiration from Oedipal legend
 
 18. **Eugene O'Neill - "Desire Under the Elms" (1924)**
-    - Pierwszy amerykański dramaturg nagrodzony Noblem
-    - Eksploracja kompleksu Edypa w postaci Ebena
-    - "Mourning Becomes Electra" - analiza kompleksu Elektry
+    - First American playwright to win Nobel Prize
+    - Exploration of Oedipus complex in character of Eben
+    - "Mourning Becomes Electra" - analysis of Electra complex
 
-19. **André Gide - modernizacja tragedii**
-    - Transformacja mitu w lekcję świeckiego humanizmu
-    - Przejście od religijnego fatalizmu do psychologicznej analizy
+19. **André Gide - modernization of tragedy**
+    - Transformation of myth into lesson of secular humanism
+    - Transition from religious fatalism to psychological analysis
 
-### Literatura Współczesna
+### Contemporary Literature
 
-20. **D.H. Lawrence i pisarze XX wieku**
-    - Wpływ teorii Freuda na prozę i dramat początku XX wieku
-    - Wykorzystanie motywów edypalnych w literaturze psychologicznej
+20. **D.H. Lawrence and 20th century writers**
+    - Influence of Freud's theory on early 20th century prose and drama
+    - Use of Oedipal motifs in psychological literature
 
-## VI. KULTURA POPULARNA I MEDIA
+## VI. POPULAR CULTURE AND MEDIA
 
-### Animowane Seriale TV
+### Animated TV Series
 
 21. **The Simpsons - "Oedipus Rx"**
-    - Apteka o nazwie będącej grą słów z "Oedipus Rex"
-    - Sofistykowane podejście do odniesień kulturowych
-    - Homer jako postać z cechami kompleksu Edypa w analizie Freudowskiej
+    - Pharmacy named as pun on "Oedipus Rex"
+    - Sophisticated approach to cultural references
+    - Homer as character with Oedipus complex traits in Freudian analysis
 
 22. **The Simpsons - "Tales from the Public Domain" (2002)**
-    - 7-minutowa parodia Odysei wprowadzająca młodych widzów w mitologię grecką
-    - Wykorzystanie mieszkańców Springfield do ról mitologicznych
+    - 7-minute Odyssey parody introducing young viewers to Greek mythology
+    - Using Springfield residents in mythological roles
 
-23. **Family Guy - kompleks Stewie'go**
-    - "Reverse Oedipus Complex" jako element charakterystyki postaci
-    - Seth MacFarlane świadomie wykorzystuje terminologię psychoanalityczną
+23. **Family Guy - Stewie's complex**
+    - "Reverse Oedipus Complex" as character trait element
+    - Seth MacFarlane consciously uses psychoanalytic terminology
 
-### Analiza Satiryczna
+### Satirical Analysis
 
-24. **South Park, Family Guy, The Simpsons - religia i humor**
-    - Wykorzystanie odniesień klasycznych do komentarza religijnego i społecznego
-    - Akademickie analizy "Drawn to the Gods: Religion and Humor"
+24. **South Park, Family Guy, The Simpsons - religion and humor**
+    - Using classical references for religious and social commentary
+    - Academic analyses "Drawn to the Gods: Religion and Humor"
 
-## VII. GRY WIDEO I KULTURA CYFROWA
+## VII. VIDEO GAMES AND DIGITAL CULTURE
 
-### Mitologia Grecka w Gaming
+### Greek Mythology in Gaming
 
 25. **God of War Ragnarök (2022)**
-    - Kratos wspomina historię Edypa jako przykład samospełniającej się przepowiedni
-    - "Edyp nie wiedział, że był adoptowany i opuszczając adoptowanych rodziców nieumyślnie wprawił w ruch wydarzenia"
+    - Kratos recalls Oedipus story as example of self-fulfilling prophecy
+    - "Oedipus didn't know he was adopted and leaving his adoptive parents inadvertently set events in motion"
 
-26. **Renesans mitologii greckiej w grach**
-    - Gry jako narzędzia edukacyjne wprowadzające młode pokolenie w mitologię
-    - "Grecki renesans mitologiczny" podobny do wpływu serii "Percy Jackson"
+26. **Renaissance of Greek mythology in games**
+    - Games as educational tools introducing young generation to mythology
+    - "Greek mythological renaissance" similar to "Percy Jackson" series influence
 
-27. **Xenogears - postać Fei**
-    - Główny bohater gry RPG cierpiący na kompleks Edypa
-    - Jeden z wielu przykładów wykorzystania konceptów Freuda w grach wideo
+27. **Xenogears - character Fei**
+    - Main character of RPG game suffering from Oedipus complex
+    - One of many examples using Freudian concepts in video games
 
-## VIII. FILM I KINO WSPÓŁCZESNE
+## VIII. FILM AND CONTEMPORARY CINEMA
 
-### Wpływy na Hollywood
+### Hollywood Influences
 
 28. **"Psycho" (1960) - Norman Bates**
-    - Alfred Hitchcock wykorzystał motywy edypalne w postaci Normana
-    - Morderstwo matki i jej partnera jako przejaw kompleksu Edypa
-    - Film powstał w okresie największej popularności teorii Freuda
+    - Alfred Hitchcock used Oedipal motifs in Norman's character
+    - Murder of mother and her partner as manifestation of Oedipus complex
+    - Film created during peak popularity of Freud's theories
 
-29. **"Hamlet" jako edypalny archetyp**
-    - Szekspirowski Hamlet jako "najważniejszy przykład kompleksu Edypa"
-    - Wpływ na interpretacje filmowe tragedii duńskiego księcia
+29. **"Hamlet" as Oedipal archetype**
+    - Shakespeare's Hamlet as "most important example of Oedipus complex"
+    - Influence on film interpretations of the Danish prince's tragedy
 
-### Współczesne Analizy Filmowe
+### Contemporary Film Analysis
 
-30. **Kino europejskie lat 60.**
-    - Nowa fala francuska i jej fascynacja psychoanalizą
-    - Wpływ teorii Edypa na filmowców pokoju '68
+30. **European cinema of the 1960s**
+    - French New Wave and its fascination with psychoanalysis
+    - Influence of Oedipus theory on '68 generation filmmakers
 
-## IX. SZTUKI WIZUALNE I DESIGN
+## IX. VISUAL ARTS AND DESIGN
 
-### Plakat Teatralny
+### Theater Poster
 
-31. **Henryk Tomaszewski - plakat "Król Edyp" (1961)**
-    - Polski pionier plakatu ręcznie literowanego
-    - Uznany za jednego z mistrzów tego medium w historii
-    - Wzorcowy przykład polskiej szkoły plakatu
+31. **Henryk Tomaszewski - "King Oedipus" poster (1961)**
+    - Polish pioneer of hand-lettered poster
+    - Recognized as one of the masters of this medium in history
+    - Exemplary example of Polish poster school
 
-32. **Współczesny Design i Typografia**
-    - "Król Edyp poster" jako przykład w Fonts In Use
-    - Wpływ na graficzne interpretacje klasyki
+32. **Contemporary Design and Typography**
+    - "King Oedipus poster" as example in Fonts In Use
+    - Influence on graphic interpretations of classics
 
-## X. EDUKACJA I KULTURA AKADEMICKA
+## X. EDUCATION AND ACADEMIC CULTURE
 
-### Kanon Edukacyjny
+### Educational Canon
 
-33. **Podstawa programowa na świecie**
-    - Obecność w programach literatury w szkołach średnich
-    - Jeden z najczęściej czytanych tekstów antycznych
+33. **Curriculum worldwide**
+    - Presence in high school literature programs
+    - One of the most frequently read ancient texts
 
-34. **Badania Akademickie**
-    - Tysiące prac naukowych analizujących różne aspekty tragedii
-    - Ciągłe reinterpretacje w kontekście współczesnych teorii
+34. **Academic Research**
+    - Thousands of scholarly papers analyzing various aspects of the tragedy
+    - Continuous reinterpretations in context of contemporary theories
 
-### Tłumaczenia i Wydania
+### Translations and Editions
 
-35. **Robert R. Chodkowski - polskie tłumaczenie**
-    - Najnowsze polskie tłumaczenie i adaptacja
-    - Ekspert teatru i tragedii greckiej
+35. **Robert R. Chodkowski - Polish translation**
+    - Latest Polish translation and adaptation
+    - Expert on theater and Greek tragedy
 
-36. **Wydania szkolne i popularyzatorskie**
-    - Liczne wydania w Polsce i na świecie
-    - Adaptacje dla różnych grup wiekowych
+36. **School and popular editions**
+    - Numerous editions in Poland and worldwide
+    - Adaptations for different age groups
 
-## XI. SPOŁECZNO-POLITYCZNE INTERPRETACJE
+## XI. SOCIO-POLITICAL INTERPRETATIONS
 
-### Współczesne Konteksty
+### Contemporary Contexts
 
-37. **Kryzys klimatyczny i pandemia**
-    - The Oedipus Project wykorzystuje tragedię jako metaforę współczesnych katastrof
-    - Podobieństwa do zarazy w starożytnych Tebach i COVID-19
+37. **Climate crisis and pandemic**
+    - The Oedipus Project uses tragedy as metaphor for contemporary disasters
+    - Similarities between plague in ancient Thebes and COVID-19
 
-38. **Krytyka przywództwa politycznego**
-    - Robert Icke adaptuje sztukę jako thriller polityczny
-    - Motyw aroganckich przywódców ignorujących ostrzeżenia
+38. **Criticism of political leadership**
+    - Robert Icke adapts play as political thriller
+    - Motif of arrogant leaders ignoring warnings
 
-39. **Międzypokoleniowe przekleństwa**
-    - Interpretacje w kontekście dziedziczenia traumy
-    - Wpływ na dyskusje o odpowiedzialności pokoleniowej
+39. **Intergenerational curses**
+    - Interpretations in context of trauma inheritance
+    - Influence on discussions about generational responsibility
 
-## XII. MERCHANDISING I KOMERCJALIZACJA
+## XII. MERCHANDISING AND COMMERCIALIZATION
 
-### Wydawnictwa Komercyjne
+### Commercial Publications
 
-40. **Amazon - "Król Edyp" (wyd. polskie)**
-    - Ciągła dostępność komercyjna klasyki
-    - Różne formaty: audiobook, e-book, wydanie papierowe
+40. **Amazon - "King Oedipus" (Polish edition)**
+    - Continuous commercial availability of classics
+    - Various formats: audiobook, e-book, paperback
 
 41. **Criterion Collection - "Oedipus Rex" Pasolini**
-    - Prestiżowe wydanie filmu na Blu-ray
-    - Część kanonu filmowego dla koneserów
+    - Prestigious Blu-ray film release
+    - Part of film canon for connoisseurs
 
-### Pamiątki Teatralne
+### Theater Memorabilia
 
-42. **Plakaty kolekcjonerskie**
-    - Cracow Poster Gallery - handel plakatami teatralnymi
-    - "Król Edyp" jako obiekt kolekcjonerski
+42. **Collectible posters**
+    - Cracow Poster Gallery - theatrical poster trade
+    - "King Oedipus" as collectible object
 
-## XIII. KONTROWERSJE I KRYTYKA
+## XIII. CONTROVERSIES AND CRITICISM
 
-### Dyskusje Feministyczne
+### Feminist Discussions
 
-43. **Krytyka patriarchalnego przekazu**
-    - Współczesne interpretacje kwestionujące tradycyjne odczytania
-    - Rola Jocasty jako ofiary systemu patriarchalnego
+43. **Criticism of patriarchal message**
+    - Contemporary interpretations questioning traditional readings
+    - Jocasta's role as victim of patriarchal system
 
-44. **Reinterpretacje postkolonialne**
-    - Analiza władzy i dominacji w tragedii
-    - Wpływ na literatury postkolonialne
+44. **Postcolonial reinterpretations**
+    - Analysis of power and domination in tragedy
+    - Influence on postcolonial literatures
 
-### Psychoanaliza pod Ostrzałem
+### Psychoanalysis Under Fire
 
-45. **Współczesna krytyka teorii Freuda**
-    - Kwestionowanie uniwersalności kompleksu Edypa
-    - Alternatywne teorie rozwoju psychicznego
+45. **Contemporary criticism of Freud's theories**
+    - Questioning universality of Oedipus complex
+    - Alternative theories of psychological development
 
-## XIV. WPŁYW NA INNE MEDIA
+## XIV. INFLUENCE ON OTHER MEDIA
 
-### Taniec i Performance
+### Dance and Performance
 
-46. **Współczesne adaptacje taneczne**
-    - Hofesh Shechter i współczesne interpretacje ruchu
-    - Performance art wykorzystujący motywy edypalne
+46. **Contemporary dance adaptations**
+    - Hofesh Shechter and contemporary movement interpretations
+    - Performance art using Oedipal motifs
 
-47. **Teatr eksperymentalny**
-    - Avant-gardowe interpretacje mitu
-    - Interdyscyplinarne podejście do klasyki
+47. **Experimental theater**
+    - Avant-garde interpretations of myth
+    - Interdisciplinary approach to classics
 
-### Radio i Podcasty
+### Radio and Podcasts
 
-48. **Adaptacje radiowe**
-    - BBC i inne stacje produkujące słuchowiska
-    - Podcasty edukacyjne analizujące tragedię
+48. **Radio adaptations**
+    - BBC and other stations producing radio dramas
+    - Educational podcasts analyzing tragedy
 
-## XV. PERSPEKTYWĄ MIĘDZYNARODOWA
+## XV. INTERNATIONAL PERSPECTIVE
 
-### Różne Tradycje Kulturowe
+### Different Cultural Traditions
 
-49. **Interpretacje azjatyckie**
-    - Adaptacje w teatrze Noh i Kabuki
-    - Reinterpretacje w kontekście kultur konfucjańskich
+49. **Asian interpretations**
+    - Adaptations in Noh and Kabuki theater
+    - Reinterpretations in context of Confucian cultures
 
-50. **Wpływ na literatury narodowe**
-    - Inspiracje w literaturach afrykańskich, latynoamerykańskich
-    - Uniwersalność tematów rodzinnych i przeznaczenia
+50. **Influence on national literatures**
+    - Inspirations in African, Latin American literatures
+    - Universality of family themes and destiny
 
-### Globalna Recepcja
+### Global Reception
 
-51. **UNESCO i dziedzictwo kulturowe**
-    - Uznanie znaczenia dla światowego dziedzictwa
-    - Programy promocji klasyki antycznej
+51. **UNESCO and cultural heritage**
+    - Recognition of significance for world heritage
+    - Programs promoting ancient classics
 
-## Podsumowanie Wpływu Kulturowego
+## Summary of Cultural Impact
 
-"Król Edyp" Sofoklesa pozostaje jednym z najwpływowszych dzieł w historii kultury zachodniej. Jego wpływ widoczny jest w:
+Sophocles' "Oedipus Rex" remains one of the most influential works in the history of Western culture. Its impact is visible in:
 
-- **Psychologii**: Fundamentalne znaczenie dla psychoanalizy i teorii rozwoju osobowości
-- **Teatrze**: Ciągłe adaptacje sceniczne na najważniejszych scenach świata
-- **Filmie**: Od Pasoliniego po współczesne hollywoodzkie interpretacje
-- **Literaturze**: Inspiracja dla pokoleń pisarzy od O'Neilla po współczesnych autorów
-- **Kulturze popularnej**: Obecność w animowanych serialach, grach wideo, muzyce
-- **Edukacji**: Fundamentalny tekst w programach szkolnych na całym świecie
-- **Językoznawstwie**: Wprowadzenie terminów do codziennego języka
-- **Polityce**: Metafora arogancji władzy i niebezpieczeństw ignorowania ostrzeżeń
+- **Psychology**: Fundamental significance for psychoanalysis and personality development theory
+- **Theater**: Continuous stage adaptations on the world's most important stages
+- **Film**: From Pasolini to contemporary Hollywood interpretations
+- **Literature**: Inspiration for generations of writers from O'Neill to contemporary authors
+- **Popular Culture**: Presence in animated series, video games, music
+- **Education**: Fundamental text in school curricula worldwide
+- **Linguistics**: Introduction of terms into everyday language
+- **Politics**: Metaphor for arrogance of power and dangers of ignoring warnings
 
-Tragedia napisana 2400 lat temu nadal resonuje współczesną publicznością, udowadniając uniwersalność ludzkich dylematów dotyczących winy, odpowiedzialności, przeznaczenia i granic ludzkiej wiedzy. Każde pokolenie odkrywa w niej nowe znaczenia, dostosowując starożytne przesłanie do współczesnych wyzwań i problemów.
+The tragedy written 2,400 years ago still resonates with contemporary audiences, proving the universality of human dilemmas concerning guilt, responsibility, fate, and limits of human knowledge. Each generation discovers new meanings in it, adapting the ancient message to contemporary challenges and problems.
 
-Wpływ "Króla Edypa" wykracza daleko poza literaturę, przenikając do nauki, polityki, psychologii i kultury popularnej, czyniąc z tej tragedii jeden z najważniejszych tekstów w dziejach ludzkości.
+The influence of "Oedipus Rex" extends far beyond literature, penetrating science, politics, psychology, and popular culture, making this tragedy one of the most important texts in human history.
 
 ---
-*Raport przygotowany: 2025-09-01*  
-*Źródła: Badania internetowe, bazy danych teatralne, filmowe i literackie*
+*Report prepared: 2025-09-18*
+*Sources: Internet research, theater, film, and literary databases*

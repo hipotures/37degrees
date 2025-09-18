@@ -1,0 +1,116 @@
+canon:
+  characters:
+    - id: "longshoreman_TM"
+      name: "Longshoreman TM"
+      description_block: |
+        characters:
+          - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+            clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+            posture: "Shoulders hunched against cold, hands in pockets, weight shifting nervously"
+
+    - id: "hiring_boss_JC"
+      name: "Hiring Boss JC"
+      description_block: |
+        characters:
+          - appearance: "Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar always in mouth"
+            clothing: "Long wool overcoat, fedora, leather gloves, expensive shoes incongruous on dock"
+            posture: "Stands elevated on platform or crate, looking down at crowd with disdain"
+
+    - id: "longshoreman_PS"
+      name: "Longshoreman PS"
+      description_block: |
+        characters:
+          - appearance: "Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor"
+            clothing: "Patched wool coat, work cap, worn boots with newspaper stuffed inside, fingerless gloves"
+            posture: "Desperate lean forward, hand raised hoping to be picked"
+
+    - id: "commission_investigator_RH"
+      name: "Commission Investigator RH"
+      description_block: |
+        characters:
+          - appearance: "Clean-shaven man, 40s, sharp features, observant eyes, medium build"
+            clothing: "Dark gray suit under tan trench coat, fedora, notebook visible in pocket, plain black shoes"
+            posture: "Standing apart, taking notes, trying to blend in while observing"
+
+    - id: "union_thug_VG"
+      name: "Union Enforcer VG"
+      description_block: |
+        characters:
+          - appearance: "Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence"
+            clothing: "Black leather jacket, dark pants, heavy boots, brass knuckles visible in pocket"
+            posture: "Arms crossed, blocking access, ready for violence"
+
+    - id: "dock_worker_young"
+      name: "Young Docker"
+      description_block: |
+        characters:
+          - appearance: "Young man, early 20s, eager face not yet hardened, strong build, hopeful eyes"
+            clothing: "Hand-me-down work clothes too big, army surplus jacket, worn cap"
+            posture: "Pushing forward through crowd, desperate for first day's work"
+
+  locations:
+    - id: "pier_entrance_dawn"
+      name: "Pier Entrance at Dawn"
+      description_block: |
+        setting:
+          location: "Entrance to Pier 45, Hudson River waterfront, Manhattan's West Side"
+        mainElements: "Chain-link gate, wooden platform for hiring boss, crowd of workers pressed against fence, cargo ships visible beyond"
+        atmosphere: "Pre-dawn darkness, fog off river, breath visible in cold air, desperate energy of waiting men"
+
+    - id: "shape_up_area"
+      name: "Shape-Up Ground"
+      description_block: |
+        setting:
+          location: "Open area before pier gates, cobblestone ground, warehouse walls on three sides"
+        mainElements: "Elevated platform or wooden crate, crowd of 200+ men in semicircle, oil drums with fires for warmth"
+        atmosphere: "Harsh dock lights cutting through morning fog, cigarette smoke mixing with river mist, tense anticipation"
+
+    - id: "hiring_hall_interior"
+      name: "Commission Hiring Hall"
+      description_block: |
+        setting:
+          location: "Converted warehouse now serving as state-run hiring center"
+        mainElements: "Rows of wooden benches, registration window with brass bars, bulletin board with work assignments, clock on wall"
+        atmosphere: "Institutional fluorescent lighting, echo of footsteps, orderly but tense waiting"
+
+    - id: "brooklyn_docks"
+      name: "Brooklyn Docks Loading Area"
+      description_block: |
+        setting:
+          location: "Red Hook terminal, Brooklyn waterfront, active loading zone"
+        mainElements: "Cargo nets full of crates, dock cranes, stacked shipping containers, gangplanks to freighters"
+        atmosphere: "Industrial noise, steam from ships, smell of tar and salt water, constant motion"
+
+    - id: "waterfront_bar"
+      name: "Dockworker's Tavern"
+      description_block: |
+        setting:
+          location: "Corner bar near piers, Haven for longshoremen after shifts"
+        mainElements: "Long wooden bar, cracked leather stools, yellowed mirror behind bottles, sawdust on floor"
+        atmosphere: "Dim light through grimy windows, cigarette smoke thick, sound of arguments and glasses"
+
+  items:
+    - id: "longshoreman_hook"
+      name: "Cargo Hook"
+      description_block: |
+        details: "Steel hook with wooden handle, worn smooth from use, essential tool hung from belt, sharp point for grabbing cargo bales"
+
+    - id: "brass_check"
+      name: "Brass Work Token"
+      description_block: |
+        details: "Round brass disc with number stamped on it, given to chosen workers, determines who gets paid, worn shiny from handling"
+
+    - id: "shape_up_whistle"
+      name: "Hiring Boss Whistle"
+      description_block: |
+        details: "Chrome whistle on chain, sharp piercing sound to start shape-up, symbol of arbitrary power"
+
+    - id: "registration_card"
+      name: "Waterfront Commission Card"
+      description_block: |
+        details: "Laminated identification card with photo, registration number, official stamp, new system replacing shape-up"
+
+    - id: "cargo_net"
+      name: "Loading Net"
+      description_block: |
+        details: "Heavy rope net for lifting cargo, frayed edges, stained with tar and salt, suspended from crane hook"

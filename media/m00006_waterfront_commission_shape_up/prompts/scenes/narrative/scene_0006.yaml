@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Commission Investigator Observing"
+  setting:
+    time: "1953, morning 6:15 AM"
+    location: "Warehouse rooftop overlooking shape-up area"
+    weather: "Dawn, fog clearing, cold wind"
+  characters:
+    - appearance: "Clean-shaven man, 40s, sharp features, observant eyes, medium build"
+      clothing: "Dark gray suit under tan trench coat, fedora, notebook visible in pocket, plain black shoes"
+      position: "Crouched behind rooftop ventilation unit"
+      action: "Writing in notebook, occasionally raising binoculars"
+    - appearance: "Second investigator, younger, 30s, earnest expression"
+      clothing: "Brown suit, dark overcoat, felt hat"
+      position: "Beside first investigator with camera"
+      action: "Photographing shape-up below with telephoto lens"
+  scene:
+    mainElements: "Rooftop view of shape-up ground, ventilation units providing cover, morning light improving visibility"
+    details: "Notebook pages fluttering in wind, camera with long lens, thermos of coffee, cigarette butts from long surveillance, pigeons cooing nearby"
+    background: "Shape-up visible below with hiring boss on crate, crowd of workers, Manhattan skyline in distance"
+    atmosphere: "Covert observation, gathering evidence, documenting corruption from above"
+  composition:
+    cameraAngle: "Over investigator's shoulder looking down"
+    focus: "Shape-up scene below through binocular view"
+    depth: "Binoculars in foreground, shape-up in middle distance, city beyond"

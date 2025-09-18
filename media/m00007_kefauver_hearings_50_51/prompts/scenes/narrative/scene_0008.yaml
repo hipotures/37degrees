@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Television Control Room"
+  setting:
+    time: "March 1951, afternoon 4:00"
+    location: "Makeshift TV control room adjacent to hearing room"
+    weather: "No windows, artificial light only"
+  characters:
+    - appearance: "Television director, 40s, thin, cigarette dangling from lips, intense concentration"
+      clothing: "White shirt with rolled sleeves, loose tie, dark trousers"
+      position: "Seated at control board"
+      action: "Switching between camera feeds, calling shots through headset"
+    - appearance: "Technical engineer, young, focused"
+      clothing: "White shirt, bow tie, thick glasses"
+      position: "Standing at equipment rack"
+      action: "Adjusting signal levels on oscilloscope"
+  scene:
+    mainElements: "Banks of monitors showing different camera angles, switching board with dozens of buttons, oscilloscopes"
+    details: "Multiple TV monitors showing committee, witness, hands close-up, wide shot, cables everywhere, cooling fans humming, clipboard with shot list, coffee cups and full ashtrays, technical manuals open"
+    background: "Equipment racks with vacuum tubes glowing, spare parts on shelves, doorway showing glimpse of hearing room"
+    atmosphere: "Hidden nerve center of broadcast, technical precision behind public drama, new technology documenting history"
+  composition:
+    cameraAngle: "Over shoulder of director at control board"
+    focus: "Multiple monitors showing different angles of hearing"
+    depth: "Monitors in focus, control room equipment surrounding, glimpse of hearing room through door"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Arrival at The Majestic"
+  setting:
+    time: "May 2, 1957, night 11:00"
+    location: "115 Central Park West, outside The Majestic apartment building"
+    weather: "Clear cool night, light breeze from park"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat, polished black oxfords"
+      position: "Stepping out of taxi onto sidewalk"
+      action: "Paying driver through window, looking toward building entrance"
+    - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+      clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+      position: "Exiting black Cadillac parked behind taxi"
+      action: "Moving quickly toward building entrance, hand reaching inside coat"
+    - appearance: "Middle-aged man, professional bearing, clean-shaven, alert eyes"
+      clothing: "Formal doorman uniform - long dark wool coat with brass buttons and gold braiding, matching peaked cap with brass badge, white gloves"
+      position: "Standing at building entrance"
+      action: "Holding door, nodding greeting to resident"
+  scene:
+    mainElements: "Art Deco building entrance lit from within, taxi at curb with dome light on, black Cadillac behind with door open"
+    details: "Brass fixtures gleaming, doorman's breath visible in cool air, taxi pulling away, Cadillac's engine still running, tree shadows moving in breeze"
+    background: "Central Park across street in darkness, other buildings along avenue, sparse late-night traffic"
+    atmosphere: "Moment before violence, convergence of hunter and prey, doorman unaware of danger approaching"
+  composition:
+    cameraAngle: "Wide shot from park side of street"
+    focus: "Three figures converging on building entrance"
+    depth: "Street and vehicles in foreground, entrance and figures mid-ground, building facade rising into night"

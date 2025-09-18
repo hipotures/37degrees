@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dinner Departure"
+  setting:
+    time: "May 2, 1957, evening 10:50"
+    location: "Outside upscale restaurant on East Side, Manhattan"
+    weather: "Clear cool spring night, temperature around 55°F"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat, polished black oxfords"
+      position: "Standing on sidewalk next to yellow taxi"
+      action: "Adjusting hat brim, reaching for taxi door handle"
+    - appearance: "Well-dressed woman, 60s, elegant bearing, silver hair"
+      clothing: "Dark evening dress, fur stole, pearl necklace"
+      position: "Standing in restaurant doorway"
+      action: "Waving goodbye from doorway"
+  scene:
+    mainElements: "Restaurant with awning and warm light spilling out, taxi at curb, quiet upscale street"
+    details: "Valet holding restaurant door, other couples departing, street lamps creating pools of light, doorman's whistle echoing, taxi meter already running"
+    background: "Row of brownstones, parked luxury cars, trees beginning to leaf out in spring"
+    atmosphere: "Comfortable end to social evening, warm restaurant light contrasting with cool night, sense of routine normalcy"
+  composition:
+    cameraAngle: "Street level from across the street"
+    focus: "Man entering taxi"
+    depth: "Taxi in foreground, restaurant entrance mid-ground, street receding into darkness"

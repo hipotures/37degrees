@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: 1953, evening 5:00 PM
+    location: Alley behind waterfront bar near piers
+    weather: Dusk, light rain beginning
+  characters:
+  - appearance: Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar always in mouth
+    clothing: Long wool overcoat, fedora, leather gloves, expensive shoes incongruous on dock
+    position: Standing in doorway counting money
+    action: Thumbing through bills, cigar smoke curling up
+  - appearance: Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features
+    clothing: Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit
+      cap
+    position: Standing in alley, hand extended
+    action: Reluctantly handing over portion of day's pay
+  - appearance: Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence
+    clothing: Black leather jacket, dark pants, heavy boots, brass knuckles visible in pocket
+    position: Blocking alley exit
+    action: Watching transaction, ready to enforce payment
+  scene:
+    mainElements: Narrow alley between buildings, trash cans, puddles forming, back door to bar
+    details: Stack of bills changing hands, other workers waiting their turn to pay, rain beginning to spot coats, garbage
+      and broken bottles in corners
+    background: Sounds from bar inside, distant foghorn, end of workday traffic
+    atmosphere: Corruption and fear, system of exploitation, trapped between hunger and extortion
+  composition:
+    cameraAngle: From alley entrance looking in
+    focus: Money changing hands in doorway light
+    depth: Dark alley foreground, lit doorway transaction, enforcer blocking escape
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

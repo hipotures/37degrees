@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: March 1951, afternoon 3:30
+    location: Hearing room during dramatic testimony moment
+    weather: Bright artificial lighting
+  characters:
+  - appearance: Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, serious demeanor
+    clothing: Conservative dark gray suit, white shirt, narrow dark tie, polished black oxfords
+    position: Standing at committee table, leaning forward
+    action: Pointing accusingly at witness, speaking forcefully into microphone
+  - appearance: Young man, 30s, thin build, fedora pushed back on head, cigarette behind ear
+    clothing: Wrinkled gray suit, white shirt open at collar, no tie, press badge on lapel
+    position: Crouching in press area
+    action: Firing flash bulb, immediately ejecting spent bulb and inserting new one
+  - appearance: Multiple press photographers
+    clothing: Various suits and rolled sleeves
+    position: Crowding press area
+    action: Simultaneous flash photography creating lightning storm effect
+  scene:
+    mainElements: Explosive moment with multiple flash bulbs firing simultaneously, creating strobe effect
+    details: Spent flash bulbs on floor still smoking, photographers jostling for position, senator's fist hitting table,
+      water glasses jumping, papers scattered, cigarette smoke swirling in flash illumination, spectators gasping
+    background: Television cameras panning to catch action, gallery on feet, court officers moving forward
+    atmosphere: Climactic confrontation, chaos of media circus, theatrical political drama, democracy as spectacle
+  composition:
+    cameraAngle: Wide shot capturing entire room's energy
+    focus: Multiple flash explosions creating dramatic lighting
+    depth: Layered action throughout room, flashes in foreground, drama at tables, crowd reaction in back
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

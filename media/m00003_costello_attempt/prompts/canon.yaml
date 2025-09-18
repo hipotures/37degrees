@@ -1,0 +1,113 @@
+canon:
+  characters:
+    - id: "character_FC"
+      name: "Character FC"
+      description_block: |
+        characters:
+          - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+            clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt, burgundy silk tie, black Borsalino hat, polished black oxfords"
+            posture: "Confident walk, shoulders back, one hand in pocket"
+
+    - id: "character_VG"
+      name: "Character VG"
+      description_block: |
+        characters:
+          - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+            clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+            posture: "Coiled tension, moves quickly, head down"
+
+    - id: "doorman_NK"
+      name: "Doorman NK"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, professional bearing, clean-shaven, alert eyes"
+            clothing: "Formal doorman uniform - long dark wool coat with brass buttons and gold braiding, matching peaked cap with brass badge, white gloves"
+            posture: "Standing at attention, then rushing to help"
+
+    - id: "detective_one"
+      name: "Detective One"
+      description_block: |
+        characters:
+          - appearance: "Veteran cop, late 40s, weathered face, gray at temples, thick mustache"
+            clothing: "Brown tweed suit, white shirt, striped tie, tan trench coat, brown fedora"
+            posture: "Notepad in hand, questioning stance"
+
+    - id: "detective_two"
+      name: "Detective Two"
+      description_block: |
+        characters:
+          - appearance: "Younger detective, mid-30s, clean-cut, sharp eyes"
+            clothing: "Navy blue suit, white shirt, dark tie, gray overcoat, black fedora"
+            posture: "Examining evidence, crouched or leaning"
+
+    - id: "taxi_driver"
+      name: "Taxi Driver"
+      description_block: |
+        characters:
+          - appearance: "Working man, 50s, tired face, stubbled jaw, newsboy cap"
+            clothing: "Worn brown jacket, plaid shirt, dark pants, scuffed shoes"
+            posture: "Leaning against cab, smoking cigarette"
+
+  locations:
+    - id: "majestic_exterior"
+      name: "The Majestic Building Exterior"
+      description_block: |
+        setting:
+          location: "115 Central Park West, between 71st and 72nd Streets, Manhattan, Art Deco twin-tower building"
+        mainElements: "Yellowish brick facade, cast stone base, monumental entrance with brass fixtures, wide sidewalk"
+        atmosphere: "Night street lighting, clear sky creating deep shadows, elegant Upper West Side ambiance"
+
+    - id: "majestic_lobby"
+      name: "The Majestic Lobby"
+      description_block: |
+        setting:
+          location: "Interior lobby of The Majestic apartment building"
+        mainElements: "Art Deco design, terrazzo floors with geometric patterns, white metal wall panels, leather couches, indirect lighting"
+        atmosphere: "Dramatic uplighting creating geometric shadows, polished surfaces reflecting light, austere elegance"
+
+    - id: "central_park_west"
+      name: "Central Park West Street"
+      description_block: |
+        setting:
+          location: "Wide avenue outside The Majestic, tree-lined with park across street"
+        mainElements: "Wide sidewalk, ornate street lamps, parked cars along curb, trees casting shadows"
+        atmosphere: "Night traffic, headlights sweeping past, deep shadows from clear night sky"
+
+    - id: "lobby_entrance"
+      name: "Building Entrance"
+      description_block: |
+        setting:
+          location: "Revolving door entrance to The Majestic"
+        mainElements: "Brass-framed revolving doors, marble steps, brass mailboxes visible inside, doorman's station"
+        atmosphere: "Transition from street to interior, lights from both environments mixing"
+
+  items:
+    - id: "snubnose_revolver"
+      name: "Snub-nose Revolver"
+      description_block: |
+        details: ".38 caliber revolver, blued steel, wooden grip, short barrel, recently fired, smell of cordite"
+
+    - id: "borsalino_hat"
+      name: "Borsalino Hat"
+      description_block: |
+        details: "Expensive black felt fedora, silk band, slight blood stain on brim, fallen on terrazzo floor"
+
+    - id: "leather_couch"
+      name: "Lobby Leather Couch"
+      description_block: |
+        details: "Art Deco style leather couch, dark brown, geometric metal frame, blood droplets on arm"
+
+    - id: "brass_fixtures"
+      name: "Brass Door Fixtures"
+      description_block: |
+        details: "Polished brass door handles and frames, Art Deco geometric design, reflecting lobby lights"
+
+    - id: "cadillac_sedan"
+      name: "Black Cadillac"
+      description_block: |
+        details: "1957 black Cadillac sedan, chrome bumpers gleaming, engine running, exhaust visible in night air"
+
+    - id: "taxi_cab"
+      name: "Checker Taxi"
+      description_block: |
+        details: "Yellow Checker taxi cab, dome light off, meter still running, driver's cigarette in ashtray"

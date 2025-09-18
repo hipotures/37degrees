@@ -1,0 +1,119 @@
+canon:
+  characters:
+    - id: "character_JR"
+      name: "Character JR"
+      description_block: |
+        characters:
+          - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+            clothing: "Dark gray single-breasted suit, white shirt, thin dark tie, black oxford shoes"
+            posture: "Sits very straight, hands folded on table, jaw clenched"
+
+    - id: "character_ER"
+      name: "Character ER"
+      description_block: |
+        characters:
+          - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+            clothing: "Conservative dark blue dress with small white polka dots, modest neckline, dark pumps"
+            posture: "Composed, hands in lap, chin slightly raised"
+
+    - id: "judge_IK"
+      name: "Judge IK"
+      description_block: |
+        characters:
+          - appearance: "Stocky man, 40 years old, dark hair, stern expression, heavy eyebrows, clean-shaven"
+            clothing: "Black judicial robes over dark suit, white shirt, dark tie"
+            posture: "Authoritative, leaning forward when speaking, gavel in hand"
+
+    - id: "prosecutor_IS"
+      name: "Prosecutor IS"
+      description_block: |
+        characters:
+          - appearance: "Sharp-featured man, 45 years old, receding hairline, intense eyes, thin lips"
+            clothing: "Well-tailored charcoal suit, crisp white shirt, burgundy tie, polished black shoes"
+            posture: "Confident, gestures while speaking, stands with weight on one hip"
+
+    - id: "defense_EB"
+      name: "Defense Attorney EB"
+      description_block: |
+        characters:
+          - appearance: "Tired-looking man, 49 years old, thinning gray hair, glasses, worried expression"
+            clothing: "Slightly rumpled brown suit, white shirt, dark green tie, worn brown shoes"
+            posture: "Hunched over papers, removes glasses frequently to rub eyes"
+
+    - id: "assistant_RC"
+      name: "Assistant Prosecutor RC"
+      description_block: |
+        characters:
+          - appearance: "Young man, 24 years old, dark slicked-back hair, sharp features, intense gaze"
+            clothing: "Navy blue suit perfectly pressed, white shirt, red tie, shiny black shoes"
+            posture: "Alert, always taking notes, leans in to whisper to senior prosecutor"
+
+    - id: "guard_SS1"
+      name: "Prison Guard SS1"
+      description_block: |
+        characters:
+          - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+            clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+            posture: "Rigid military stance, hands clasped behind back"
+
+  locations:
+    - id: "courtroom_110"
+      name: "Federal Courtroom 110"
+      description_block: |
+        setting:
+          location: "Thurgood Marshall U.S. Courthouse, 40 Foley Square, Manhattan, largest courtroom in building"
+        mainElements: "Dark wood paneling, high ceiling, judge's elevated bench, jury box, prosecution and defense tables, public gallery benches"
+        atmosphere: "Formal and austere, filtered daylight through tall arched windows, heavy silence broken only by proceedings"
+
+    - id: "execution_chamber"
+      name: "Execution Chamber"
+      description_block: |
+        setting:
+          location: "Death House, Sing Sing Correctional Facility, Ossining, New York"
+        mainElements: "Small concrete room, wooden electric chair with leather straps, single overhead bulb, witness observation area"
+        atmosphere: "Claustrophobic, harsh fluorescent lighting, smell of disinfectant and fear, deadly quiet"
+
+    - id: "death_row_cell"
+      name: "Death Row Cell"
+      description_block: |
+        setting:
+          location: "Death House cell block, Sing Sing Prison"
+        mainElements: "Narrow cell with metal bars, single cot, small sink, toilet, barred window high on wall"
+        atmosphere: "Cold, echoing footsteps in corridor, distant sounds of prison, shaft of light through window"
+
+    - id: "prison_corridor"
+      name: "Last Walk Corridor"
+      description_block: |
+        setting:
+          location: "Hallway from death row cells to execution chamber"
+        mainElements: "Long concrete corridor, green painted walls, overhead cage lights, metal doors at each end"
+        atmosphere: "Footsteps echoing, keys jangling, fluorescent lights humming, deathly quiet"
+
+    - id: "foley_square"
+      name: "Foley Square Exterior"
+      description_block: |
+        setting:
+          location: "Plaza outside federal courthouse, Manhattan"
+        mainElements: "Wide stone steps, granite columns, protesters with signs, police barriers, news trucks"
+        atmosphere: "Tense crowd energy, shouting voices, camera flashes, overcast sky"
+
+  items:
+    - id: "electric_chair"
+      name: "Electric Chair"
+      description_block: |
+        details: "Heavy oak construction, thick leather straps for arms, legs and torso, metal helmet with chin strap, copper electrodes, thick electrical cables"
+
+    - id: "gavel"
+      name: "Judge's Gavel"
+      description_block: |
+        details: "Polished dark wood gavel, worn handle from use, matching sound block, sits prominently on bench"
+
+    - id: "evidence_documents"
+      name: "Evidence Documents"
+      description_block: |
+        details: "Stacks of typed papers, manila folders marked 'CLASSIFIED', photographs, diagrams, all stamped with official seals"
+
+    - id: "protest_signs"
+      name: "Protest Signs"
+      description_block: |
+        details: "Hand-painted cardboard signs on wooden sticks, black letters on white, rain-spotted and worn"

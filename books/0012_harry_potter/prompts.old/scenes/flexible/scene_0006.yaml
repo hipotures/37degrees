@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Stern Professor's Domain"
+  setting:
+    time: "1991 morning, first day of classes"
+    location: "Transfiguration classroom at Hogwarts, high-ceilinged stone room"
+    weather: "Clear morning"
+  characters:
+    - appearance: "Middle-aged woman, stern expression, black hair pulled back in tight bun, square spectacles, thin lips"
+      clothing: "Dark green tartan robes, pointed black hat, emerald green cloak"
+      position: "Standing behind teacher's desk at front of classroom"
+      action: "Demonstrating transfiguration magic by changing from tabby cat back to human form, commanding attention"
+    - appearance: "Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression"
+      clothing: "Hogwarts black robes with red and gold Gryffindor trim, white shirt, carrying thick books"
+      position: "Sitting in front row, leaning forward"
+      action: "Taking careful notes, raising hand eagerly to answer questions, completely focused"
+  scene:
+    mainElements: "Stone classroom with high windows, rows of desks with transformation practice materials, blackboard with magical equations"
+    details: "Tall Gothic windows letting in morning light, practice objects scattered on student desks waiting to be transformed, magical teaching tools and demonstration materials, stern portraits of former professors watching from walls"
+    background: "Other students at desks looking intimidated, stone walls with educational charts and magical theory diagrams"
+    atmosphere: "Academic rigor and high expectations, morning light through tall windows, intellectual challenge and discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from middle of classroom"
+    focus: "McGonagall's commanding presence and Hermione's eager attention"
+    depth: "Students at desks in foreground, McGonagall at front in middle ground, classroom extending upward to high ceiling"

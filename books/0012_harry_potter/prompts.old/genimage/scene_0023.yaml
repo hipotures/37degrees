@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1991 morning, end of term
+    location: Circular dormitory room in Gryffindor Tower, five four-poster beds
+    weather: Bright summer morning
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Casual muggle clothes for return journey, Dursley hand-me-downs
+    position: Sitting on bed packing trunk slowly
+    action: Carefully folding Hogwarts robes, looking reluctant to leave magical world behind
+  - appearance: Boy, 11 years old, flaming red hair, freckles, blue eyes, tall and lanky for his age
+    clothing: Casual clothes for journey home, still wearing Gryffindor scarf
+    position: Stuffing belongings hastily into trunk
+    action: Talking excitedly about summer plans, inviting Harry to visit family home
+  - appearance: Beautiful snowy owl with amber eyes, loyal and intelligent messenger
+    clothing: Natural white feathers
+    position: Perched in cage ready for journey
+    action: Looking alert and ready to accompany Harry home, eyes bright with intelligence
+  scene:
+    mainElements: Five four-poster beds with red hangings, trunks being packed, summer morning light
+    details: Scattered belongings being packed away, magical textbooks and robes folded carefully, owl cage prepared for journey,
+      trunks nearly full with year's accumulation, summer sunlight streaming through tall windows showing year's end
+    background: Other beds with departing students, views of Hogwarts grounds in summer, sense of dormitory being abandoned
+      for holidays
+    atmosphere: Bittersweet departure from magical home, summer morning warmth, friendship's promises, reluctance to return
+      to mundane world, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from center of dormitory room
+    focus: Friends reluctantly packing to leave magical school home
+    depth: Students packing in foreground, dormitory room in middle ground, summer landscape through windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

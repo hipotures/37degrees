@@ -1,20 +1,11 @@
 === IMAGE RESOLUTION CHECK & COMPLETENESS REPORT ===
 Expected resolution: 1024x1536
-Date: czw, 18 wrz 2025, 11:57:37 CEST
-Phases to run: 2
+Date: czw, 18 wrz 2025, 15:09:41 CEST
+Phases to run: 3
 
 
-=== PHASE 2: IMAGE COMPLETENESS CHECK ===
-0152_a_streetcar_named_desire - 23
-0154_mother_courage_and_her_children - 20
+=== PHASE 3: DUPLICATE IMAGE DETECTION ===
 
-=== PHASE 2 SUMMARY ===
-Books with incomplete/incorrect images: 2
-
-=== BOOKS WITH INCOMPLETE/INCORRECT IMAGES ===
-0152_a_streetcar_named_desire
-0154_mother_courage_and_her_children
-
-=== MISSING SCENES TO BE SET TO PENDING ===
-0152_a_streetcar_named_desire: 2 missing scenes (0013, 0017)
-0154_mother_courage_and_her_children: 5 missing scenes (0001, 0007, 0009, 0012, 0017)
+=== PHASE 3 SUMMARY ===
+Duplicate sets found: 0
+Total duplicate files found: 0

@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: August 1, 1943, night 10:30
+    location: 125th Street between 7th and 8th Avenues, commercial district
+    weather: Hot night, no breeze
+  characters:
+  - appearance: Young Black man in work clothes, 20s
+    clothing: Dirty work shirt, suspenders, worn pants
+    position: Mid-throw with brick
+    action: Releasing brick toward store window
+  - appearance: White man, 40s, stocky build, panicked expression
+    clothing: White apron over shirt and tie, rolled sleeves
+    position: Inside store behind counter
+    action: Ducking, arms over head
+  - appearance: Group of young Black men
+    clothing: Mix of work clothes and zoot suits
+    position: Surrounding store entrance
+    action: Waiting to rush in when window breaks
+  scene:
+    mainElements: Row of storefronts, large grocery store window about to shatter, streetlights, parked cars
+    details: Brick in mid-flight, window reflecting street scene about to explode, painted prices on glass, goods visible
+      on shelves inside, other stores still intact
+    background: More people running down street, smoke beginning to rise from direction of precinct
+    atmosphere: Moment before chaos fully erupts, anticipation of breaking glass, crowd energy turning destructive
+  composition:
+    cameraAngle: Street level diagonal view
+    focus: Brick about to hit window
+    depth: Brick and window sharp, crowd and street stretching into smoky distance
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

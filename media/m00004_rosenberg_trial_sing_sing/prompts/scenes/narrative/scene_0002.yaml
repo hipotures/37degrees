@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Verdict Moment"
+  setting:
+    time: "March 29, 1951, afternoon 3:45"
+    location: "Federal Courtroom 110, Thurgood Marshall U.S. Courthouse, Manhattan"
+    weather: "Gray daylight filtering through tall windows"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Dark gray single-breasted suit, white shirt, thin dark tie, black oxford shoes"
+      position: "Standing at defense table, hands gripping table edge"
+      action: "Face draining of color as verdict is read, knuckles white"
+    - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+      clothing: "Conservative dark blue dress with small white polka dots, modest neckline, dark pumps"
+      position: "Standing beside him at defense table"
+      action: "Reaching for his hand, lips pressed together tightly"
+    - appearance: "Stocky man, 40 years old, dark hair, stern expression, heavy eyebrows, clean-shaven"
+      clothing: "Black judicial robes over dark suit, white shirt, dark tie"
+      position: "Elevated on judge's bench"
+      action: "Reading verdict from paper, looking over reading glasses"
+  scene:
+    mainElements: "Dark wood-paneled courtroom, American flag beside judge's bench, packed public gallery, jury box"
+    details: "Court stenographer typing, bailiff standing at attention, defense attorney slumped in chair, prosecutor standing triumphant, reporters scribbling in notebooks, spectators leaning forward"
+    background: "Tall arched windows casting long shadows across courtroom floor, portraits of past judges on walls"
+    atmosphere: "Heavy silence except for judge's voice, tension thick in air, harsh overhead lighting mixing with gray daylight"
+  composition:
+    cameraAngle: "Wide shot from public gallery perspective"
+    focus: "Defendants standing as verdict is delivered"
+    depth: "Gallery viewers in foreground silhouette, defendants and lawyers mid-ground, judge elevated in background"

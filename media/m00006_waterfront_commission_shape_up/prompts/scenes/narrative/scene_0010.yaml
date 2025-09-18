@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Honest Day's Work"
+  setting:
+    time: "1955, evening 5:30 PM"
+    location: "Pier exit, end of work day"
+    weather: "Golden hour sunlight, clear evening"
+  characters:
+    - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+      clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+      position: "Walking out pier gates with other workers"
+      action: "Full pay envelope in pocket, head held high, tired but dignified"
+    - appearance: "Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor"
+      clothing: "Patched wool coat, work cap, worn boots, fingerless gloves"
+      position: "Walking alongside younger man"
+      action: "Counting full day's wages, small smile of relief"
+    - appearance: "Young man, early 20s, eager face not yet hardened, strong build, hopeful eyes"
+      clothing: "Hand-me-down work clothes, army surplus jacket, worn cap"
+      position: "Part of group leaving pier"
+      action: "Talking animatedly about tomorrow's guaranteed work"
+  scene:
+    mainElements: "Pier gates open, stream of workers leaving after honest day's work, no thugs waiting"
+    details: "Registration cards visible in pockets, cargo hooks on belts, sunset reflecting off water, families waiting at gates, food vendor serving hot meals"
+    background: "Ships secured for night, cranes at rest, Manhattan skyline golden in sunset, seagulls settling"
+    atmosphere: "Dignity restored, honest labor honestly paid, new beginning, cautious optimism"
+  composition:
+    cameraAngle: "Eye level with workers"
+    focus: "Group of workers walking into sunset"
+    depth: "Workers in foreground, pier gates middle, sunset over river in background"

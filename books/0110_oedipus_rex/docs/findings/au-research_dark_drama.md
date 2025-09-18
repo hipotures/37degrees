@@ -1,286 +1,286 @@
-# Dark Drama Research: Oedipus Rex - Mroczne interpretacje i kontrowersje
+# Dark Drama Research: Oedipus Rex - Dark Interpretations and Controversies
 
-## Informacje podstawowe
-**Książka**: Oedipus Rex (Król Edyp)  
-**Autor**: Sophocles (ok. 496-406 p.n.e.)  
-**Data powstania**: ok. 429 p.n.e.  
-**Gatunek**: Tragedia grecka  
-
----
-
-## 1. CONSPIRACY THEORIES I DARK INTERPRETATIONS
-
-### Teorie spiskowe dotyczące ukrytych znaczeń
-
-1. **TEORIA**: Oedipus Rex jako maska dla krytyki demokracji ateńskiej
-   - **STATUS**: **ZARZUT** - Niektórzy badacze twierdzą, że Sofokles ukrył w tragedii krytykę systemu demokratycznego Aten
-   - **DOWODY**: Sztuka wystawiona w 429 p.n.e., w okresie wzrostu napięć politycznych w Atenach
-
-2. **TEORIA**: Prophecy jako metafora manipulacji politycznej
-   - **STATUS**: **PLOTKA** - Przepowiednia Wyroczni Delfickiej interpretowana jako symbol kontroli religijnej nad władzą świecką
-   - **KONTEKST**: Wyrocznia Delficha historycznie wpływała na decyzje polityczne w Grecji
-
-3. **TEORIA**: Plaga w Tebach jako predykcja pandemii
-   - **STATUS**: **FAKT** - Sztuka napisana tuż po wybuchu rzeczywistej dżumy w Atenach (430 p.n.e.)
-   - **SZCZEGÓŁY**: Epidemia zabiła 1/4-1/3 populacji Aten, włącznie z Peryklesem
-
-### Occult symbolism i ukryte znaczenia
-
-4. **SYMBOLIKA**: Ślepota jako inicjacja okultystyczna
-   - **STATUS**: **ZARZUT** - Samooślepienie Edypa interpretowane jako rytuał osiągnięcia "wewnętrznego wzroku"
-   - **PORÓWNANIE**: Podobieństwa do praktyk mistycznych różnych kultur
-
-5. **TEORIA**: Skrzyżowanie dróg jako miejsce siły okultystycznej
-   - **STATUS**: **PLOTKA** - Miejsce zabicia Lajosa interpretowane jako punkt energetyczny
-   - **KONTEKST**: W wielu kulturach skrzyżowania uznawane za miejsca magiczne
-
-6. **SYMBOLIKA**: Sfinks jako strażnik tajemnej wiedzy
-   - **STATUS**: **ZARZUT** - Zagadka Sfinksa interpretowana jako test wtajemniczenia ezoterycznego
-   - **ANALIZA**: Tradycja sfinksów w egipskich kultach misteryjnych
+## Basic Information
+**Book**: Oedipus Rex (King Oedipus)
+**Author**: Sophocles (c. 496-406 BCE)
+**Date of Creation**: c. 429 BCE
+**Genre**: Greek Tragedy
 
 ---
 
-## 2. SKANDALE I DRAMATY SOFOKLESA
+## 1. CONSPIRACY THEORIES AND DARK INTERPRETATIONS
 
-### Osobiste kontrowersje autora
+### Conspiracy Theories Regarding Hidden Meanings
 
-7. **SKANDAL**: Próba uznania za niepoczytalnego przez synów
-   - **STATUS**: **FAKT** - Synowie Sofoklesa próbowali udowodnić w sądzie jego niepoczytalność pod koniec życia
-   - **ROZWIĄZANIE**: Sofokles obronił się, recytując fragmenty z "Edypa w Kolonie"
+1. **THEORY**: Oedipus Rex as a mask for criticism of Athenian democracy
+   - **STATUS**: **ACCUSATION** - Some scholars claim that Sophocles hid criticism of Athens' democratic system in the tragedy
+   - **EVIDENCE**: Play performed in 429 BCE, during a period of rising political tensions in Athens
 
-8. **KONTROWERSJA**: Związki z młodymi mężczyznami
-   - **STATUS**: **FAKT** - Atenajusz w "Deipnosofistach" opisuje zainteresowanie Sofoklesa młodzieńcami
-   - **SZCZEGÓŁY**: Współczesny poeta Ion z Chios opisywał romantyczne przygody Sofoklesa
+2. **THEORY**: Prophecy as metaphor for political manipulation
+   - **STATUS**: **RUMOR** - The Oracle at Delphi's prophecy interpreted as symbol of religious control over secular power
+   - **CONTEXT**: Oracle at Delphi historically influenced political decisions in Greece
 
-9. **DRAMA**: Literacka wojna z Eurypidesem
-   - **STATUS**: **FAKT** - Poetycka wymiana ciosów między dramaturgami
-   - **CYTATY**: Sofokles: "To słońce, Eurypidesie, nie chłopak, rozgrzało mnie i rozebrało"
+3. **THEORY**: Plague in Thebes as pandemic prediction
+   - **STATUS**: **FACT** - Play written just after the outbreak of actual plague in Athens (430 BCE)
+   - **DETAILS**: Epidemic killed 1/4-1/3 of Athens' population, including Pericles
 
-### Problematyczne zachowania i wypowiedzi
+### Occult Symbolism and Hidden Meanings
 
-10. **ZARZUT**: Wykorzystanie pozycji do romansów
-    - **STATUS**: **ZARZUT** - Oskarżenia o wykorzystywanie sławy do zdobywania kochanków
-    - **KONTEKST**: Normalne w kulturze starożytnej Grecji
+4. **SYMBOLISM**: Blindness as occult initiation
+   - **STATUS**: **ACCUSATION** - Oedipus' self-blinding interpreted as ritual for achieving "inner sight"
+   - **COMPARISON**: Similarities to mystical practices of various cultures
 
-11. **KONTROWERSJA**: Stosunek do kobiet w sztukach
-    - **STATUS**: **ZARZUT** - Współczesne feministyczne interpretacje krytykują przedstawienie postaci kobiecych
-    - **PRZYKŁADY**: Jokasta jako pasywna ofiara, Antygona jako buntowniczka ukarana śmiercią
+5. **THEORY**: Crossroads as place of occult power
+   - **STATUS**: **RUMOR** - Location of Laius' murder interpreted as energy point
+   - **CONTEXT**: In many cultures crossroads considered magical places
 
----
-
-## 3. CENZURA I ZAKAZY HISTORYCZNE
-
-### Ograniczenia religijne i polityczne
-
-12. **FAKT**: Brak bezpośrednich zakazów w starożytności
-    - **STATUS**: **FAKT** - Nie ma dowodów na cenzurę "Oedipus Rex" w starożytnej Grecji
-    - **POWÓD**: Sztuka była częścią religijnych festiwali ku czci Dionizosa
-
-13. **TEORIA**: Ukryta krytyka w Index Librorum Prohibitorum
-    - **STATUS**: **PLOTKA** - Spekulacje o włączeniu dzieł pogańskich do indeksu ksiąg zakazanych
-    - **KONTEKST**: Index obowiązywał 1560-1966, skupiając się głównie na chrześcijańskich herezjach
-
-14. **WSPÓŁCZESNOŚĆ**: Kontrowersje w edukacji religijnej
-    - **STATUS**: **FAKT** - Niektóre szkoły religijne unikają omawiania motywów kazirodczych
-    - **SZCZEGÓŁY**: Szczególnie w społecznościach konserwatywnych USA i Bliskiego Wschodu
-
-### Islamskie i chrześcijańskie obiekcje
-
-15. **PROBLEM**: Tematy kazirodcze w islamie
-    - **STATUS**: **FAKT** - Islam kategorycznie zakazuje przedstawienia kazirodztwa, nawet w kontekście literackim
-    - **EFEKT**: Ograniczona dystrybucja w krajach islamskich
-
-16. **CHRZEŚCIJAŃSTWO**: Problemy z tematyką przeznaczenia
-    - **STATUS**: **ZARZUT** - Konflikt między grecką koncepcją losu a chrześcijańską wolną wolą
-    - **TEOLOGIA**: Niektórzy teologowie widzą w sztuce propagowanie fatalizmu
+6. **SYMBOLISM**: Sphinx as guardian of secret knowledge
+   - **STATUS**: **ACCUSATION** - Sphinx's riddle interpreted as test of esoteric initiation
+   - **ANALYSIS**: Tradition of sphinxes in Egyptian mystery cults
 
 ---
 
-## 4. FREUDOWSKIE KONTROWERSJE
+## 2. SOPHOCLES' SCANDALS AND DRAMAS
 
-### Kompleks Edypa i jego krytycy
+### Author's Personal Controversies
 
-17. **SKANDAL**: Teorię Freuda oskarża się o ukrywanie molestowania
-    - **STATUS**: **ZARZUT** - Florence Rush twierdzi, że Freud wymyślił kompleks Edypa, by ukryć rzeczywiste przypadki molestowania
-    - **SZCZEGÓŁY**: Freud porzucił wcześniejszą "teorię uwodzenia" na rzecz kompleksu Edypa
+7. **SCANDAL**: Attempt by sons to declare him incompetent
+   - **STATUS**: **FACT** - Sophocles' sons tried to prove his incompetence in court at the end of his life
+   - **RESOLUTION**: Sophocles defended himself by reciting passages from "Oedipus at Colonus"
 
-18. **KRYTYKA**: Feministyczne obiekcje wobec "zazdrości o penisa"
-    - **STATUS**: **FAKT** - Luce Irigaray i Nancy Chodorow ostro krytykują męskocentryczne założenia teorii
-    - **CYTATY**: Irigaray: "Jak możemy zaakceptować, że całą kobiecą seksualność kontroluje brak i zazdrość penisa?"
+8. **CONTROVERSY**: Relationships with young men
+   - **STATUS**: **FACT** - Athenaeus in "Deipnosophistae" describes Sophocles' interest in young men
+   - **DETAILS**: Contemporary poet Ion of Chios described Sophocles' romantic adventures
 
-19. **PROBLEM**: Brak dowodów empirycznych
-    - **STATUS**: **FAKT** - Współczesna psychologia odrzuca kompleks Edypa z powodu braku dowodów naukowych
-    - **BADANIA**: Oparte głównie na jednym przypadku "Małego Hansa"
+9. **DRAMA**: Literary war with Euripides
+   - **STATUS**: **FACT** - Poetic exchange of blows between dramatists
+   - **QUOTES**: Sophocles: "It was the sun, Euripides, not a boy, that warmed me and undressed me"
 
-20. **KONTROWERSJA**: Niezgodność z badaniami nad molestowaniem
-    - **STATUS**: **FAKT** - Współczesne badania pokazują niszczące skutki rzeczywistego molestowania dzieci
-    - **PROBLEM**: Teoria Freuda może minimalizować rzeczywiste krzywdy
+### Problematic Behaviors and Statements
 
----
+10. **ACCUSATION**: Using position for romantic affairs
+    - **STATUS**: **ACCUSATION** - Accusations of using fame to acquire lovers
+    - **CONTEXT**: Normal in ancient Greek culture
 
-## 5. PROBLEMATYCZNE ASPEKTY KULTUROWE
-
-### Kazirodztwo i trauma psychologiczna
-
-21. **FAKT**: Uniwersalne tabu kazirodztwa
-    - **STATUS**: **FAKT** - We wszystkich kulturach kazirodztwo uważane za jeden z najcięższych grzechów
-    - **WYJĄTEK**: Starożytny Egipt - małżeństwa królewskie między rodzeństwem
-
-22. **PSYCHOLOGIA**: Trauma w rzeczywistych przypadkach
-    - **STATUS**: **FAKT** - Ofiary kazirodztwa cierpią na depresję, dysfunkcje seksualne i skłonności do przemocy
-    - **STATYSTYKI**: Problem występuje na wszystkich poziomach społecznych
-
-23. **PROBLEM**: Romantyzacja w kulturze popularnej
-    - **STATUS**: **ZARZUT** - Niektóre interpretacje sztuki mogą nieświadomie romantyzować patologiczne związki
-    - **RYZYKO**: Potencjalne normalizowanie destrukcyjnych wzorców
-
-### Władza i wykorzystywanie
-
-24. **ANALIZA**: Dynamika władzy w związku Edyp-Jokasta
-    - **STATUS**: **ZARZUT** - Król wykorzystuje swoją pozycję władzy w związku z królową-matką
-    - **KONTEKST**: Współczesne rozumienie consent w relacjach władzy
-
-25. **TEORIA**: Infantycyd jako forma przemocy wobec dzieci
-    - **STATUS**: **FAKT** - Próba zabicia niemowlęcia Edypa przez rodziców jest formą przemocy domowej
-    - **SYMBOLIKA**: Rodzice jako sprawcy przemocy, nie ochrona
+11. **CONTROVERSY**: Attitude toward women in plays
+    - **STATUS**: **ACCUSATION** - Contemporary feminist interpretations criticize representation of female characters
+    - **EXAMPLES**: Jocasta as passive victim, Antigone as rebel punished by death
 
 ---
 
-## 6. PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## 3. CENSORSHIP AND HISTORICAL BANS
 
-### Predykcje Sofoklesa o ludzkiej naturze
+### Religious and Political Restrictions
 
-26. **PRZEWIDZIANE**: Psychologia traumy i wypierania
-    - **STATUS**: **FAKT** - Sofokles przewidział współczesne rozumienie mechanizmów obronnych psychiki
-    - **PRZYKŁAD**: Jokasta wypiera prawdę do końca
+12. **FACT**: No direct bans in antiquity
+    - **STATUS**: **FACT** - No evidence of "Oedipus Rex" censorship in ancient Greece
+    - **REASON**: Play was part of religious festivals honoring Dionysus
 
-27. **PRZEWIDZIANE**: Destrukcyjność poszukiwania prawdy
-    - **STATUS**: **FAKT** - Współczesna psychologia potwierdza, że niektóre prawdy mogą być traumatyczne
-    - **APLIKACJA**: Terapia musi być ostrożna w odkrywaniu przeszłości
+13. **THEORY**: Hidden criticism in Index Librorum Prohibitorum
+    - **STATUS**: **RUMOR** - Speculation about inclusion of pagan works in the index of forbidden books
+    - **CONTEXT**: Index was in effect 1560-1966, focusing mainly on Christian heresies
 
-28. **PRZEWIDZIANE**: Epidemie jako kary za społeczne grzechy
-    - **STATUS**: **FAKT** - COVID-19 interpretowany przez niektórych jako kara za degradację środowiska
-    - **PODOBIEŃSTWO**: Plaga w Tebach jako rezultat społecznej korupcji
+14. **CONTEMPORARY**: Controversies in religious education
+    - **STATUS**: **FACT** - Some religious schools avoid discussing incestuous themes
+    - **DETAILS**: Particularly in conservative communities of USA and Middle East
 
-29. **PRZEWIDZIANE**: Autodestrukcyjność władzy
-    - **STATUS**: **FAKT** - Historia pełna jest przywódców niszczących się przez własną arogancję
-    - **PRZYKŁADY**: Napoleon, Hitler, współcześni dyktatorzy
+### Islamic and Christian Objections
 
-### Czego nie przewidział
+15. **PROBLEM**: Incestuous themes in Islam
+    - **STATUS**: **FACT** - Islam categorically forbids depiction of incest, even in literary context
+    - **EFFECT**: Limited distribution in Islamic countries
 
-30. **NIEPRZEWIDZIANE**: Współczesne rozumienie consent
-    - **STATUS**: **FAKT** - Starożytni Grecy nie mieli koncepcji świadomej zgody w dzisiejszym rozumieniu
-    - **PROBLEM**: To czyni niektóre interpretacje przestarzałymi
-
-31. **NIEPRZEWIDZIANE**: Psychiatria i leczenie chorób psychicznych
-    - **STATUS**: **FAKT** - Sofokles nie mógł przewidzieć rozwoju współczesnej psychiatrii
-    - **KONTEKST**: Szaleństwo interpretowane jako kara bogów, nie choroba
+16. **CHRISTIANITY**: Problems with destiny themes
+    - **STATUS**: **ACCUSATION** - Conflict between Greek concept of fate and Christian free will
+    - **THEOLOGY**: Some theologians see the play as promoting fatalism
 
 ---
 
-## 7. FINANCIAL SCANDALS I MONEY DRAMA
+## 4. FREUDIAN CONTROVERSIES
 
-### Komercjalizacja tragedii
+### Oedipus Complex and Its Critics
 
-32. **WSPÓŁCZESNOŚĆ**: Exploitation motywów w Hollywood
-    - **STATUS**: **FAKT** - Liczne adaptacje filmowe często banalizują poważne tematy
-    - **PRZYKŁADY**: "Oedipus Wrecks" Woody'ego Allena jako komedia
+17. **SCANDAL**: Freud's theory accused of concealing molestation
+    - **STATUS**: **ACCUSATION** - Florence Rush claims Freud invented Oedipus complex to hide real cases of molestation
+    - **DETAILS**: Freud abandoned earlier "seduction theory" in favor of Oedipus complex
 
-33. **PROBLEM**: Merchandising mitologii greckiej
-    - **STATUS**: **ZARZUT** - Komercjalizacja tragicznych postaci w grach, komiksach, gadżetach
-    - **EFEKT**: Trywializacja głębokich problemów psychologicznych
+18. **CRITICISM**: Feminist objections to "penis envy"
+    - **STATUS**: **FACT** - Luce Irigaray and Nancy Chodorow sharply criticize male-centric assumptions of theory
+    - **QUOTES**: Irigaray: "How can we accept that all female sexuality is controlled by lack and penis envy?"
 
-### Konkurencja między dramaturgami
+19. **PROBLEM**: Lack of empirical evidence
+    - **STATUS**: **FACT** - Contemporary psychology rejects Oedipus complex due to lack of scientific evidence
+    - **RESEARCH**: Based mainly on single case of "Little Hans"
 
-34. **HISTORYCZNY**: Finansowe aspekty konkursów teatralnych
-    - **STATUS**: **FAKT** - Dramaturdzy walczyli o nagrody finansowe w festiwalach dionizyjskich
-    - **SOFOKLES**: Wygrał 24 z 30 konkursów, co gwarantowało mu bogactwo
+20. **CONTROVERSY**: Inconsistency with molestation research
+    - **STATUS**: **FACT** - Contemporary research shows devastating effects of actual child molestation
+    - **PROBLEM**: Freud's theory may minimize real harm
 
-35. **DRAMA**: Spory o prawa autorskie w starożytności
-    - **STATUS**: **PLOTKA** - Prawdopodobne konflikty o adaptacje i kopie sztuk
-    - **BRAK DOWODÓW**: Starożytny system prawny nie chronił praw autorskich
+---
+
+## 5. PROBLEMATIC CULTURAL ASPECTS
+
+### Incest and Psychological Trauma
+
+21. **FACT**: Universal taboo of incest
+    - **STATUS**: **FACT** - In all cultures incest considered one of the gravest sins
+    - **EXCEPTION**: Ancient Egypt - royal marriages between siblings
+
+22. **PSYCHOLOGY**: Trauma in real cases
+    - **STATUS**: **FACT** - Incest victims suffer from depression, sexual dysfunction and tendency toward violence
+    - **STATISTICS**: Problem occurs at all social levels
+
+23. **PROBLEM**: Romanticization in popular culture
+    - **STATUS**: **ACCUSATION** - Some interpretations of the play may unconsciously romanticize pathological relationships
+    - **RISK**: Potential normalization of destructive patterns
+
+### Power and Exploitation
+
+24. **ANALYSIS**: Power dynamics in Oedipus-Jocasta relationship
+    - **STATUS**: **ACCUSATION** - King exploits his position of power in relationship with queen-mother
+    - **CONTEXT**: Contemporary understanding of consent in power relations
+
+25. **THEORY**: Infanticide as form of child violence
+    - **STATUS**: **FACT** - Attempt to kill baby Oedipus by parents is form of domestic violence
+    - **SYMBOLISM**: Parents as perpetrators of violence, not protection
+
+---
+
+## 6. PROPHECY CHECK - WHAT CAME TRUE
+
+### Sophocles' Predictions About Human Nature
+
+26. **PREDICTED**: Psychology of trauma and repression
+    - **STATUS**: **FACT** - Sophocles predicted contemporary understanding of psyche's defense mechanisms
+    - **EXAMPLE**: Jocasta represses truth until the end
+
+27. **PREDICTED**: Destructiveness of seeking truth
+    - **STATUS**: **FACT** - Contemporary psychology confirms that some truths can be traumatic
+    - **APPLICATION**: Therapy must be careful in uncovering the past
+
+28. **PREDICTED**: Epidemics as punishment for social sins
+    - **STATUS**: **FACT** - COVID-19 interpreted by some as punishment for environmental degradation
+    - **SIMILARITY**: Plague in Thebes as result of social corruption
+
+29. **PREDICTED**: Self-destructiveness of power
+    - **STATUS**: **FACT** - History is full of leaders destroying themselves through their own arrogance
+    - **EXAMPLES**: Napoleon, Hitler, contemporary dictators
+
+### What He Didn't Predict
+
+30. **UNPREDICTED**: Contemporary understanding of consent
+    - **STATUS**: **FACT** - Ancient Greeks had no concept of informed consent in today's understanding
+    - **PROBLEM**: This makes some interpretations outdated
+
+31. **UNPREDICTED**: Psychiatry and treatment of mental illness
+    - **STATUS**: **FACT** - Sophocles could not predict development of contemporary psychiatry
+    - **CONTEXT**: Madness interpreted as punishment of gods, not illness
+
+---
+
+## 7. FINANCIAL SCANDALS AND MONEY DRAMA
+
+### Commercialization of Tragedy
+
+32. **CONTEMPORARY**: Exploitation of themes in Hollywood
+    - **STATUS**: **FACT** - Numerous film adaptations often trivialize serious themes
+    - **EXAMPLES**: "Oedipus Wrecks" by Woody Allen as comedy
+
+33. **PROBLEM**: Merchandising of Greek mythology
+    - **STATUS**: **ACCUSATION** - Commercialization of tragic characters in games, comics, gadgets
+    - **EFFECT**: Trivialization of deep psychological problems
+
+### Competition Between Dramatists
+
+34. **HISTORICAL**: Financial aspects of theatrical competitions
+    - **STATUS**: **FACT** - Dramatists fought for financial prizes in Dionysiac festivals
+    - **SOPHOCLES**: Won 24 out of 30 competitions, guaranteeing him wealth
+
+35. **DRAMA**: Copyright disputes in antiquity
+    - **STATUS**: **RUMOR** - Probable conflicts over adaptations and copies of plays
+    - **LACK OF EVIDENCE**: Ancient legal system did not protect copyright
 
 ---
 
 ## 8. GOVERNMENT CENSORSHIP THEORIES
 
-### Polityczne interpretacje
+### Political Interpretations
 
-36. **TEORIA**: Krytyka Peryklesa ukryta w sztuce
-    - **STATUS**: **ZARZUT** - Ślepota Edypa interpretowana jako metafora śmierci Peryklesa w czasie zarazy
-    - **KONTEKST**: Perykles zmarł na zarazę w 429 p.n.e., gdy wystawiano sztukę
+36. **THEORY**: Criticism of Pericles hidden in the play
+    - **STATUS**: **ACCUSATION** - Oedipus' blindness interpreted as metaphor for Pericles' death during plague
+    - **CONTEXT**: Pericles died of plague in 429 BCE, when the play was performed
 
-37. **WSPÓŁCZESNOŚĆ**: Zakazy w systemach totalitarnych
-    - **STATUS**: **FAKT** - Sztuki greckie często zakazywane w krajach o reżimach autorytarnych
-    - **POWÓD**: Tematy buntu przeciwko władzy i kwestionowania autorytetu
+37. **CONTEMPORARY**: Bans in totalitarian systems
+    - **STATUS**: **FACT** - Greek plays often banned in countries with authoritarian regimes
+    - **REASON**: Themes of rebellion against authority and questioning power
 
-38. **PROBLEM**: Cenzura w systemach edukacyjnych
-    - **STATUS**: **FAKT** - Niektóre szkoły unikają omawiania sztuki z powodu "niewłaściwych" tematów
-    - **SZCZEGÓŁY**: Szczególnie w stanach amerykańskich o profilu konserwatywnym
+38. **PROBLEM**: Censorship in educational systems
+    - **STATUS**: **FACT** - Some schools avoid discussing the play due to "inappropriate" themes
+    - **DETAILS**: Particularly in American states with conservative profile
 
 ---
 
-## 9. INDUSTRY DRAMA I RIVALRIES
+## 9. INDUSTRY DRAMA AND RIVALRIES
 
-### Konflikty z krytykami i pisarzami
+### Conflicts with Critics and Writers
 
-39. **STAROŻYTNOŚĆ**: Rywalizacja z Ajschylosem i Eurypidesem
-    - **STATUS**: **FAKT** - Intensywna konkurencja między trzema wielkimi tragików greckimi
-    - **RÓŻNICE**: Różne podejścia do mitologii i stylu dramaturgicznego
+39. **ANTIQUITY**: Rivalry with Aeschylus and Euripides
+    - **STATUS**: **FACT** - Intense competition between the three great Greek tragedians
+    - **DIFFERENCES**: Different approaches to mythology and dramatic style
 
-40. **WSPÓŁCZESNOŚĆ**: Akademickie wojny o interpretację
-    - **STATUS**: **FAKT** - Ostry spór między freudowskimi psychoanalitykami a krytykami feministycznymi
-    - **EFEKT**: Polaryzacja w interpretacji klasycznych tekstów
+40. **CONTEMPORARY**: Academic wars over interpretation
+    - **STATUS**: **FACT** - Sharp dispute between Freudian psychoanalysts and feminist critics
+    - **EFFECT**: Polarization in interpretation of classical texts
 
-### Plagiat i adaptacje
+### Plagiarism and Adaptations
 
 41. **PROBLEM**: Accusations of borrowing from earlier sources
-    - **STATUS**: **FAKT** - Sofokles adaptował starsze mity, ale dodawał własne innowacje
-    - **PRECEDENS**: Normalная praktyka w literaturze starożytnej
+    - **STATUS**: **FACT** - Sophocles adapted older myths but added his own innovations
+    - **PRECEDENT**: Normal practice in ancient literature
 
-42. **WSPÓŁCZESNOŚĆ**: Unauthorized adaptations and translations
-    - **STATUS**: **ZARZUT** - Liczne adaptacje bez szacunku dla oryginału
-    - **PRZYKŁADY**: Współczesne "remiksy" zmieniające podstawowe przesłanie
+42. **CONTEMPORARY**: Unauthorized adaptations and translations
+    - **STATUS**: **ACCUSATION** - Numerous adaptations without respect for original
+    - **EXAMPLES**: Contemporary "remixes" changing fundamental message
 
 ---
 
 ## 10. DARK PSYCHOLOGICAL INTERPRETATIONS
 
-### Analiza zaburzeń psychicznych
+### Analysis of Mental Disorders
 
-43. **DIAGNOZA**: Edyp jako przypadek narcissistic personality disorder
-    - **STATUS**: **ZARZUT** - Współczesni psychologowie diagnozują Edypa jako narcyza
-    - **OBJAWY**: Megalomania, brak empatii, potrzeba bycia adorowanym
+43. **DIAGNOSIS**: Oedipus as case of narcissistic personality disorder
+    - **STATUS**: **ACCUSATION** - Contemporary psychologists diagnose Oedipus as narcissist
+    - **SYMPTOMS**: Megalomania, lack of empathy, need to be adored
 
-44. **PROBLEM**: Jokasta jako przykład learned helplessness
-    - **STATUS**: **ZARZUT** - Postać królowej interpretowana przez pryzmat psychologii kobiet w związkach przemocy
-    - **TEORIA**: Syndrome wyученной беспомощности w patriarchalnym systemie
+44. **PROBLEM**: Jocasta as example of learned helplessness
+    - **STATUS**: **ACCUSATION** - Queen's character interpreted through psychology of women in abusive relationships
+    - **THEORY**: Learned helplessness syndrome in patriarchal system
 
-45. **ANALIZA**: Tyresias jako manipulacyjny guru
-    - **STATUS**: **PLOTKA** - Ślepy prorok interpretowany jako prototype manipulacyjnych przywódców religijnych
-    - **PORÓWNANIE**: Podobieństwa do współczesnych kultów osobowości
+45. **ANALYSIS**: Tiresias as manipulative guru
+    - **STATUS**: **RUMOR** - Blind prophet interpreted as prototype of manipulative religious leaders
+    - **COMPARISON**: Similarities to contemporary personality cults
 
-### Społeczno-patologiczne aspekty
+### Socio-pathological Aspects
 
-46. **TEORIA**: Teban society jako dysfunctional family system
-    - **STATUS**: **ZARZUT** - Całe społeczeństwo Teb interpretowane jako large-scale dysfunctional family
-    - **MECHANIZMY**: Secrets, denial, enabling behaviors
+46. **THEORY**: Theban society as dysfunctional family system
+    - **STATUS**: **ACCUSATION** - Entire Theban society interpreted as large-scale dysfunctional family
+    - **MECHANISMS**: Secrets, denial, enabling behaviors
 
 47. **PROBLEM**: Chorus as enabler of toxic leadership
-    - **STATUS**: **ZARZUT** - Chór starców krytykowany za pasywność wobec autodestrukcyjnych decyzji króla
-    - **WSPÓŁCZESNOŚĆ**: Parallels z corporate governance failures
+    - **STATUS**: **ACCUSATION** - Chorus of elders criticized for passivity toward king's self-destructive decisions
+    - **CONTEMPORARY**: Parallels with corporate governance failures
 
 ---
 
-## PODSUMOWANIE
+## SUMMARY
 
-"Oedipus Rex" pozostaje jednym z najbardziej kontrowersyjnych i problematycznych dzieł literatury światowej. Podczas gdy samo dzieło Sofoklesa zachowało artystyczną wartość i głębię psychologiczną, jego późniejsze interpretacje - szczególnie przez Freuda - stały się źródłem licznych kontrowersji.
+"Oedipus Rex" remains one of the most controversial and problematic works of world literature. While Sophocles' work itself has retained its artistic value and psychological depth, its later interpretations - particularly by Freud - have become the source of numerous controversies.
 
-Najciemniejsze aspekty związane z tą tragedią dotyczą nie tyle samego tekstu, co sposobów jego wykorzystania do rationalizowania destrukcyjnych teorii psychologicznych i gesellschafowych. Kompleks Edypa stał się narzędziem marginalizacji kobiet i potentially ukrywania rzeczywistych przypadków molestowania dzieci.
+The darkest aspects associated with this tragedy concern not so much the text itself, but the ways it has been used to rationalize destructive psychological and social theories. The Oedipus complex became a tool for marginalizing women and potentially concealing real cases of child molestation.
 
-Współcześnie dzieło wymaga ostrożnej analizy kontekstualnej, by uniknąć reprodukowania harmful stereotypes przy jednoczesnym preservation jego wartości artystycznej i psychological insights.
+Contemporarily, the work requires careful contextual analysis to avoid reproducing harmful stereotypes while preserving its artistic value and psychological insights.
 
-**OSTRZEŻENIE**: Ten research ma charakter edukacyjny. Przedstawione teorie i interpretacje nie są promocją problematycznych zachowań ani gloryfikacją destrukcyjnych psychologicznych patterns.
+**WARNING**: This research is educational in nature. The theories and interpretations presented are not promotion of problematic behaviors nor glorification of destructive psychological patterns.
 
 ---
-*Dokument stworzony: 2025-01-09 w ramach projektu 37degrees - research findings dla "Oedipus Rex" Sofoklesa*
+*Document created: 2025-01-18 within 37degrees project - research findings for "Oedipus Rex" by Sophocles*

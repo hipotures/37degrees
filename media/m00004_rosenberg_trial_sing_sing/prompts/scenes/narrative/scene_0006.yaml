@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Last Meeting"
+  setting:
+    time: "June 19, 1953, evening 7:00"
+    location: "Visiting room adjacent to death row, Sing Sing Prison"
+    weather: "Overcast evening, humid air"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Gray prison uniform, white undershirt visible at collar, prison-issue slippers"
+      position: "Sitting on one side of wire mesh partition"
+      action: "Pressing palm against mesh where her hand meets his"
+    - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+      clothing: "Gray prison dress, no jewelry, flat prison shoes"
+      position: "Sitting on opposite side of partition"
+      action: "Other hand wiping tears, trying to maintain composure"
+    - appearance: "Broad-shouldered man, late 40s, graying hair, expressionless face, thick neck"
+      clothing: "Dark blue prison guard uniform, peaked cap, black leather belt with keys, black boots"
+      position: "Standing in corner watching clock on wall"
+      action: "Arms crossed, shifting weight uncomfortably"
+  scene:
+    mainElements: "Small concrete room, wire mesh partition dividing space, single overhead bulb, metal chairs bolted to floor"
+    details: "Hands touching through mesh creating shadow pattern, clock showing 7:00, guard's keys catching light, condensation on small window, paint peeling from humidity"
+    background: "Bare concrete walls, single door with reinforced window, echo of distant prison sounds"
+    atmosphere: "Desperate intimacy through barrier, harsh fluorescent light, heavy humid air, time visibly passing on wall clock"
+  composition:
+    cameraAngle: "Profile view showing both through mesh"
+    focus: "Hands touching through wire partition"
+    depth: "Hands in sharp focus, faces slightly soft, guard and room blurred"

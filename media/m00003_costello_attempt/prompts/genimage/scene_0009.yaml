@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: May 2, 1957, night 11:45
+    location: Roosevelt Hospital emergency room, Manhattan
+    weather: Interior fluorescent lighting
+  characters:
+  - appearance: Distinguished man, 66 years old, medium height and build, graying hair slicked back with blood, sharp facial
+      features, hooded eyes
+    clothing: Hospital gown, suit jacket draped on chair, blood-stained white shirt on exam table
+    position: Sitting on examination table
+    action: Doctor examining head wound, wincing slightly
+  - appearance: Doctor, 40s, thin build, glasses, focused expression
+    clothing: White coat over shirt and tie, stethoscope around neck
+    position: Standing beside patient
+    action: Cleaning and examining scalp wound with gauze
+  - appearance: Veteran cop, late 40s, weathered face, gray at temples, thick mustache
+    clothing: Brown tweed suit, white shirt, striped tie, tan trench coat over arm, brown fedora in hand
+    position: Standing in corner watching
+    action: Still taking notes, waiting to continue questioning
+  scene:
+    mainElements: Sterile emergency room, examination table, medical equipment, overhead surgical light
+    details: Bloody gauze in metal tray, nurse preparing sutures, blood pressure cuff on wall, emergency equipment, curtained
+      areas with other patients, shoes and bloody clothing in paper bags
+    background: Hospital corridor visible through door, other medical staff passing, emergency entrance signs
+    atmosphere: Clinical efficiency after violence, antiseptic smell mixing with blood, harsh medical lighting revealing injury
+  composition:
+    cameraAngle: From foot of examination table
+    focus: Doctor treating head wound
+    depth: Medical procedure in foreground, detective observing in mid-ground, hospital activity in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

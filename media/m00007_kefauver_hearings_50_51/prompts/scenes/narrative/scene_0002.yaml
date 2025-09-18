@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Committee Assembles"
+  setting:
+    time: "March 1951, morning 9:45"
+    location: "Federal Courthouse hearing room, committee taking positions"
+    weather: "Bright morning light streaming through windows"
+  characters:
+    - appearance: "Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, serious demeanor"
+      clothing: "Conservative dark gray suit, white shirt, narrow dark tie, polished black oxfords"
+      position: "Center seat at elevated committee table"
+      action: "Arranging papers, putting on reading glasses, checking microphone"
+    - appearance: "Heavy-set man, 50s, round face, thinning hair, skeptical expression"
+      clothing: "Dark brown suit, white shirt, striped tie, reading glasses on chain"
+      position: "Seated to chairman's right"
+      action: "Reviewing documents, making notes with fountain pen"
+    - appearance: "Young man, 24 years old, dark hair slicked with pomade, sharp features, intense eyes"
+      clothing: "Navy blue suit perfectly pressed, crisp white shirt, burgundy tie, shiny black shoes"
+      position: "Seated to chairman's left"
+      action: "Leaning over to whisper to chairman, pointing at document"
+  scene:
+    mainElements: "Senators taking seats at draped committee table, staff arranging documents, photographers positioning themselves"
+    details: "Water pitchers being filled, microphones tested with tapping, American flag prominently displayed, nameplates perfectly aligned, press photographers checking equipment, gallery beginning to fill with spectators"
+    background: "Television cameras now in position with red tally lights, packed press section, anticipation building"
+    atmosphere: "Formal government ritual beginning, sense of historic moment, mixture of routine and extraordinary"
+  composition:
+    cameraAngle: "Medium shot from press section angle"
+    focus: "Committee members settling into position of authority"
+    depth: "Committee table in focus, witness chair empty in foreground, gallery filling in background"

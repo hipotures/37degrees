@@ -1,208 +1,208 @@
-# Historia powstania "Króla Edypa" - Fakty i Anegdoty
+# Creation History of "Oedipus Rex" - Facts and Anecdotes
 
-## Podstawowe dane
-- **Tytuł oryginalny**: Oἰδίπους τύραννος (Oidipous Tyrannos)
-- **Autor**: Sofokles (496-406 p.n.e.)
-- **Data powstania**: ok. 429 p.n.e.
-- **Miejsce pierwszego wystawienia**: Teatr Dionizosa w Atenach
-- **Status w konkursie**: Drugie miejsce w konkursie City Dionysia
-
----
-
-## Historia powstania i kontekst historyczny
-
-### **FAKT 1**: Powstanie podczas zarazy ateńskiej
-Sofokles napisał "Króla Edypa" w 429 r. p.n.e., podczas gdy Ateny były ogarnięte straszliwą zarazą, która rozpoczęła się w 430 r. p.n.e. na początku wojny peloponeskiej. Opis zarazy w Tebach na początku sztuki to bezpośrednie nawiązanie do prawdziwej tragedii, która dotknęła Ateny.
-
-### **FAKT 2**: Drugie miejsce w prestiżowym konkursie
-Co zaskakujące, ta sztuka - dziś uważana za jedno z największych dzieł teatru antycznego - zajęła tylko drugie miejsce w konkursie City Dionysia. Pierwsze miejsce przypadło Filoklesowi, siostrzeńcowi Aeschylosa. To jeden z największych paradoksów historii teatru.
-
-### **FAKT 3**: Sofokles nigdy nie był ostatni
-W przeciwieństwie do dzisiejszej recepcji, Sofokles miał niesamowity rekord w konkursach teatralnych: uczestniczył w około 30 konkursach, wygrał 24 razy i nigdy - ani razu! - nie zajął ostatniego (trzeciego) miejsca. Gdy nie wygrywał, zawsze był drugi.
-
-### **FAKT 4**: Reakcja na współczesne wydarzenia
-Otwarcie sztuki z opisem zarazy tebańskiej było tak realistyczne i bolesne dla publiczności, która właśnie przeżywała prawdziwą zarazę, że prawdopodobnie to właśnie ten aspekt spowodował, że Sofokles zajął tylko drugie miejsce.
+## Basic Information
+- **Original Title**: Oἰδίπους τύραννος (Oidipous Tyrannos)
+- **Author**: Sophocles (496-406 BCE)
+- **Date of Creation**: c. 429 BCE
+- **First Performance Venue**: Theater of Dionysus in Athens
+- **Competition Status**: Second place in the City Dionysia contest
 
 ---
 
-## Biografia Sofoklesa w czasie pisania
+## Creation History and Historical Context
 
-### **FAKT 5**: Bogaty arystokrata z Kolonos
-Sofokles urodził się w 496 r. p.n.e. w Kolonos (przedmieściu Aten) jako syn Sofillosa, bogatego producenta broni. Od urodzenia należał do ateńskiej elity i miał dostęp do najlepszego wykształcenia.
+### **FACT 1**: Written during the Athenian plague
+Sophocles wrote "Oedipus Rex" in 429 BCE, while Athens was ravaged by a terrible plague that began in 430 BCE at the start of the Peloponnesian War. The description of the plague in Thebes at the beginning of the play is a direct reference to the real tragedy that struck Athens.
 
-### **FAKT 6**: Młodzieńcza sława za piękno
-W wieku 16 lat, w 480 r. p.n.e., został wybrany do prowadzenia peanu (hymnu chóralnego) celebrującego zwycięstwo nad Persami w bitwie pod Salaminą - ze względu na swoją niezwykłą urodę, sprawność atletyczną i talent muzyczny.
+### **FACT 2**: Second place in a prestigious contest
+Surprisingly, this play - now considered one of the greatest works of ancient theater - only took second place in the City Dionysia competition. First place went to Philocles, nephew of Aeschylus. This is one of the greatest paradoxes in theater history.
 
-### **FAKT 7**: "Atycka Pszczoła"
-Współcześni nazywali Sofoklesa "Atycką Pszczołą" z powodu jego niezwykłej pracowitości. Napisał ponad 120 sztuk, z których do dziś zachowało się tylko 7 kompletnych tragedii.
+### **FACT 3**: Sophocles never came last
+Unlike modern reception, Sophocles had an incredible record in theatrical competitions: he participated in about 30 contests, won 24 times, and never - not once! - took last (third) place. When he didn't win, he was always second.
 
-### **FAKT 8**: Polityk i dowódca wojskowy
-Pisząc "Króla Edypa", Sofokles był nie tylko dramaturgiem, ale także aktywnym politykiem. W 442 r. p.n.e. pełnił funkcję skarbnika odpowiedzialnego za zarządzanie podatkami od sojuszników Aten. W 440 r. p.n.e. został wybrany strategiem (najwyższym dowódcą wojskowym) u boku Peryklesa.
-
----
-
-## Proces twórczy i adaptacja mitu
-
-### **FAKT 9**: Mit nie był oryginalny
-Sofokles nie wymyślił historii Edypa. Najwcześniejsza wersja mitu pojawia się w "Odysei" Homera, ale tam Edyp pozostaje królem Teb nawet po odkryciu prawdy i nie oślepia się.
-
-### **FAKT 10**: Rewolucyjna zmiana w charakterze
-Największą innowacją Sofoklesa było przekształcenie Edypa z świadomego złoczyńcy (w starszych wersjach) w niewinną ofiarę losu. Ta zmiana uczyniła go postacią tragiczną i współczującą.
-
-### **FAKT 11**: Wprowadzenie trzeciego aktora
-To właśnie Sofokles wprowadził trzeciego aktora na grecką scenę (wcześniej Ajschylos dodał drugiego). Ta innowacja pozwoliła na bardziej złożone dialogi i dramatyczne konfrontacje.
-
-### **FAKT 12**: Ślepota jako autorski pomysł
-Samooślepienie Edypa nie pojawia się w źródłach wcześniejszych niż Ajschylos. To była twórcza decyzja Sofoklesa, która miała ogromną siłę symboliczną.
+### **FACT 4**: Response to contemporary events
+The opening of the play with the description of the Theban plague was so realistic and painful for the audience, who were experiencing a real plague, that this aspect probably caused Sophocles to only take second place.
 
 ---
 
-## Pierwsze wystawienie i reakcje
+## Sophocles' Biography During Writing
 
-### **FAKT 13**: Teatr dla 15 000 widzów
-Pierwszego wystawienia w Teatrze Dionizosa oglądało jednocześnie około 15 000 widzów - praktycznie cała populacja Aten była obecna na tym przedstawieniu.
+### **FACT 5**: Wealthy aristocrat from Colonus
+Sophocles was born in 496 BCE in Colonus (a suburb of Athens) as the son of Sophillus, a wealthy weapons manufacturer. From birth, he belonged to the Athenian elite and had access to the best education.
 
-### **FAKT 14**: Maski i kostiumy
-Wszyscy aktorzy występowali w maskach (prosopon) i koturnach (wysokie buty sceniczne). Tradycja ta była tak silna, że jeszcze w 1957 roku pierwsza angielskojęzyczna adaptacja filmowa zachowała maski.
+### **FACT 6**: Youthful fame for beauty
+At age 16, in 480 BCE, he was chosen to lead the paean (choral hymn) celebrating victory over the Persians at the Battle of Salamis - because of his extraordinary beauty, athletic prowess, and musical talent.
 
-### **FAKT 15**: Konkurencja gigantów
-W roku konkursu (prawdopodobnie 431 p.n.e.) rywalizowali również Eurypides z "Medeą" i syn Ajschylosa - Euforion. To był rok wyjątkowej konkurencji teatralnej.
+### **FACT 7**: "The Attic Bee"
+Contemporaries called Sophocles "The Attic Bee" because of his extraordinary industriousness. He wrote over 120 plays, of which only 7 complete tragedies survive today.
 
-### **FAKT 16**: Chór jako główny element
-Chór składający się z 15 osób był integralną częścią przedstawienia, nie tylko komentując akcję, ale także uczestnicząc w niej przez śpiew i taniec w okrągłej orchestrze.
-
----
-
-## Wpływ na kulturę i statystyki
-
-### **FAKT 17**: Podstawa psychoanalizy
-Zygmunt Freud oparł swoją teorię "kompleksu Edypa" właśnie na tej sztuce Sofoklesa, twierdząc, że uniwersalna skuteczność tej tragedii na publiczności starożytnej i nowoczesnej potwierdza jego hipotezę o ukrytych pragnieniach.
-
-### **FAKT 18**: Pierwsza historia detektywistyczna
-"Król Edyp" jest uznawany za pierwszą historię detektywistyczną w literaturze zachodniej - Edyp prowadzi śledztwo, które prowadzi do odkrycia, że sam jest poszukiwanym mordercą.
-
-### **FAKT 19**: Aristoteles o ideale tragedii
-Arystoteles w swojej "Poetyce" używał właśnie "Króla Edypa" jako najdoskonalszego przykładu tragedii, definiując zasady dramatu, które obowiązują do dziś.
-
-### **FAKT 20**: Opera Strawińskiego
-W 1927 roku Igor Strawiński skomponował operę-oratorium "Oedipus Rex" z librettem napisanym przez Jeana Cocteau w języku francuskim, a następnie przetłumaczonym na łacinę. Premiera odbyła się w Théâtre Sarah Bernhardt w Paryżu.
+### **FACT 8**: Politician and military commander
+While writing "Oedipus Rex," Sophocles was not only a playwright but also an active politician. In 442 BCE he served as treasurer responsible for managing taxes from Athens' allies. In 440 BCE he was elected strategos (supreme military commander) alongside Pericles.
 
 ---
 
-## Rekordy i liczby
+## Creative Process and Myth Adaptation
 
-### **FAKT 21**: 2450 lat na scenach
-Sztuka jest wystawiana nieprzerwanie od ponad 2450 lat, co czyni ją prawdopodobnie najdłużej grywaną sztuką teatralną w historii świata.
+### **FACT 9**: The myth was not original
+Sophocles did not invent the story of Oedipus. The earliest version of the myth appears in Homer's "Odyssey," but there Oedipus remains king of Thebes even after discovering the truth and does not blind himself.
 
-### **FAKT 22**: Setki tłumaczeń
-"Król Edyp" został przetłumaczony na praktycznie wszystkie języki świata. Tylko w języku angielskim istnieje ponad 100 różnych tłumaczeń.
+### **FACT 10**: Revolutionary character change
+Sophocles' greatest innovation was transforming Oedipus from a conscious villain (in older versions) into an innocent victim of fate. This change made him a tragic and sympathetic character.
 
-### **FAKT 23**: Rekord uniwersytetów
-Sztuka jest obecnie wykładana w programach studiów klasycznych, literackich i teatralnych na ponad 1000 uniwersytetach na całym świecie.
+### **FACT 11**: Introduction of the third actor
+It was Sophocles who introduced the third actor to the Greek stage (earlier Aeschylus had added the second). This innovation allowed for more complex dialogues and dramatic confrontations.
 
-### **FAKT 24**: Adaptacje filmowe od 1957
-Pierwsza angielskojęzyczna adaptacja filmowa powstała w 1957 roku w reżyserii Tyrone'a Guthriego z Douglasem Campbellem w roli tytułowej. Wszystkie postaci występowały w tradycyjnych greckich maskach.
-
----
-
-## Ukryte fakty i anegdoty
-
-### **FAKT 25**: Sofokles jako kapłan
-W późniejszym życiu Sofokles pełnił funkcję kapłana rodzimego herosa Halona, a po śmierci sam został uhonorowany kultem herosa pod imieniem "Deksion" (Przyjmujący).
-
-### **FAKT 26**: Proces o niepoczytalność
-**PLOTKA**: Pod koniec życia synowie Sofoklesa próbowali uznać go za niepoczytalnego, aby przejąć majątek. Sofokles obronił się w sądzie, recytując fragment ze swojego nowego "Edypa w Kolonos", mówiąc: "Jeśli jestem Sofoklesem, to nie jestem przy zdrowych zmysłach; a jeśli nie jestem przy zdrowych zmysłach, to nie jestem Sofoklesem".
-
-### **FAKT 27**: Legenda o śmierci
-**PLOTKA**: Istnieje kilka legend o śmierci Sofoklesa. Jedna mówi, że zadławił się winogronami, inna - że zmarł z przejęcia radością po wygranej w konkursie dramatycznym, jeszcze inna - że zmarł podczas publicznego wykonywania "Antygony".
-
-### **FAKT 28**: Przyjaźń z Peryksem
-Sofokles był osobistym przyjacielem Peryklesa, najważniejszego polityka Aten w V wieku p.n.e. Ta znajomość dawała mu dostęp do najwyższych kręgów władzy i wpływała na jego kariery polityczną.
+### **FACT 12**: Blindness as an authorial invention
+Oedipus' self-blinding does not appear in sources earlier than Aeschylus. This was Sophocles' creative decision, which had enormous symbolic power.
 
 ---
 
-## Innowacje teatralne
+## First Performance and Reactions
 
-### **FAKT 29**: Zerwanie z trylogiami
-W przeciwieństwie do Ajschylosa, który pisał połączone trylogie, Sofokles tworzył samodzielne sztuki. "Król Edyp" nie był częścią trylogii, choć później napisał inne sztuki o tej samej postaci.
+### **FACT 13**: Theater for 15,000 spectators
+The first performance at the Theater of Dionysus was watched simultaneously by about 15,000 viewers - practically the entire population of Athens was present at this performance.
 
-### **FAKT 30**: Zwiększenie chóru
-Sofokles zwiększył liczbę członków chóru z 12 (jak u Ajschylosa) do 15, co pozwoliło na bogatsze efekty muzyczne i choreograficzne.
+### **FACT 14**: Masks and costumes
+All actors performed in masks (prosopon) and cothurni (high stage boots). This tradition was so strong that even in 1957, the first English-language film adaptation retained the masks.
 
-### **FAKT 31**: Scenografia i dekoracje
-Sofokles był pionierem w używaniu dekoracji teatralnych (skene) i efektów specjalnych. Do "Króla Edypa" wprowadził prawdopodobnie pierwsze użycie ekkyklemy (ruchomej platformy) do pokazania wnętrza pałacu.
+### **FACT 15**: Competition of giants
+In the year of the competition (probably 431 BCE), Euripides with "Medea" and Aeschylus's son - Euphorion - also competed. It was a year of exceptional theatrical competition.
 
----
-
-## Wpływ na współczesność
-
-### **FAKT 32**: Freudowska interpretacja
-**FAKT**: Freud po raz pierwszy publicznie omówił to, co później nazwał "kompleksem Edypa" w 1899 roku, bazując na uniwersalnej skuteczności sztuki Sofoklesa na publiczności antycznej i współczesnej.
-
-### **FAKT 33**: Współczesne adaptacje
-Sztuka została zaadaptowana w różnorodnych kontekstach kulturowych, od "The Darker Face of the Earth" Rity Dove (gdzie Edyp to syn niewolnicy i właściciela plantacji) po koreański film "Oldboy" (2003) Parka Chan-wooka.
-
-### **FAKT 34**: Martha Graham i balet
-W 1947 roku słynna choreografka Martha Graham stworzyła balet "Night Journey" oparty na "Królu Edypie", ale z perspektywy Jokasty, nie Edypa.
-
-### **FAKT 35**: Status w kanonie
-Sztuka zajmuje w literaturze podobne miejsce jak "Mona Lisa" w sztuce - każdy zna historię, wszyscy którzy ją czytali lub widzieli są wciągani w jej zagadki i dylematy moralne.
+### **FACT 16**: Chorus as main element
+The chorus consisting of 15 people was an integral part of the performance, not only commenting on the action but also participating in it through singing and dancing in the circular orchestra.
 
 ---
 
-## Ciekawostki językowe i tekstowe
+## Cultural Impact and Statistics
 
-### **FAKT 36**: Tytuł po grecku
-Oryginalny grecki tytuł "Οἰδίπους τύραννος" (Oidipous Tyrannos) nie oznacza "króla" w dzisiejszym sensie, ale "tyrana" - władcę, który doszedł do władzy własnymi siłami, nie przez dziedziczenie.
+### **FACT 17**: Foundation of psychoanalysis
+Sigmund Freud based his theory of the "Oedipus complex" precisely on this play by Sophocles, claiming that the universal effectiveness of this tragedy on ancient and modern audiences confirms his hypothesis about hidden desires.
 
-### **FAKT 37**: Dwuznaczność w dialogi
-Sofokles mistrzosko wykorzystał dwuznaczność językową (dramatic irony) - publiczność znała mit, więc rozumiała podwójne znaczenia wypowiedzi Edypa, które sam bohater odkrywa dopiero na koniec.
+### **FACT 18**: First detective story
+"Oedipus Rex" is recognized as the first detective story in Western literature - Oedipus conducts an investigation that leads to the discovery that he himself is the sought-after murderer.
 
-### **FAKT 38**: Pierwszy manuskrypt
-**PLOTKA**: Najstarsze zachowane manuskrypty "Króla Edypa" pochodzą z X wieku n.e., co oznacza, że tekst przetrwał ponad 1300 lat tylko w odpisach.
+### **FACT 19**: Aristotle on the ideal of tragedy
+Aristotle in his "Poetics" used precisely "Oedipus Rex" as the most perfect example of tragedy, defining the rules of drama that are still valid today.
 
----
-
-## Kontekst religijny i społeczny
-
-### **FAKT 39**: Kult Asklepiosa
-Po zarazie w Atenach (ok. 420 p.n.e.) sprowadzono kult Asklepiosa, boga medycyny. Sofokles prawdopodobnie uczestniczył w tym procesie i później sam został kapłanem tego kultu.
-
-### **FAKT 40**: Edyp jako scapegoat
-W strukturze społecznej starożytnej Grecji Edyp pełni funkcję "kozła ofiarnego" (pharmakos) - jego wygnanie ma oczyścić społeczność z skazy, co było znanym rytuałem religijnym.
+### **FACT 20**: Stravinsky's opera
+In 1927, Igor Stravinsky composed the opera-oratorio "Oedipus Rex" with a libretto written by Jean Cocteau in French and then translated into Latin. The premiere took place at the Théâtre Sarah Bernhardt in Paris.
 
 ---
 
-## Wpływ na teatr światowy
+## Records and Numbers
 
-### **FAKT 41**: Model tragedii klasycznej
-"Król Edyp" stał się modelem tragedii klasycznej z jednością czasu, miejsca i akcji. Wszystkie wydarzenia rozgrywają się w ciągu jednego dnia, w jednym miejscu, wokół jednej akcji.
+### **FACT 21**: 2450 years on stages
+The play has been performed continuously for over 2450 years, making it probably the longest-running theatrical play in world history.
 
-### **FAKT 42**: Katharsis Arystotelesa
-To właśnie analizując "Króla Edypa" Arystoteles sformułował teorię katharsis - oczyszczenia emocjonalnego przez przeżycie litości i trwogi.
+### **FACT 22**: Hundreds of translations
+"Oedipus Rex" has been translated into practically all world languages. In English alone, there are over 100 different translations.
 
-### **FAKT 43**: Wzór dla Szekspira
-William Szekspir znał "Króla Edypa" i wykorzystał podobną strukturę w "Królu Learze" i "Hamlecie" - bohater poszukuje prawdy, która go zniszczy.
+### **FACT 23**: University record
+The play is currently taught in classical, literary, and theatrical studies programs at over 1000 universities worldwide.
 
-### **FAKT 44**: Współczesne inscenizacje
-Sztuka jest wystawiana średnio 200-300 razy rocznie na scenach całego świata, co czyni ją jedną z najczęściej grywanych antycznych sztuk.
-
----
-
-## Ostateczne rekordy
-
-### **FAKT 45**: Miejsce w "wielkiej czwórce"
-"Król Edyp" wraz z "Księgą Hioba", "Hamletem" i "Królem Learem" tworzy "wielką czwórkę" najważniejszych dzieł literatury światowej badających problem ludzkiego cierpienia.
-
-### **FAKT 46**: Zespół uniwersalnych postaci
-Edyp dołączył do grona uniwersalnych postaci fikcyjnych - obok Odyseusza, Fausta, Don Juana i Don Kichota - które stały się paradygmatami ludzkiej kondycji.
-
-### **FAKT 47**: 24 zwycięstwa Sofoklesa
-Z 30 konkursów, w których uczestniczył Sofokles, wygrał aż 24 - rekord, którego nie pobił żaden inny antyczny dramaturg. Ajschylos wygrał 13, Eurypides tylko 4 konkursy.
-
-### **FAKT 48**: Ostatni akt życia
-Ostatnim publicznym wystąpieniem Sofoklesa było prowadzenie chóru żałobnego po śmierci swojego rywala Eurypidesa w 406 r. p.n.e. Sam zmarł w tym samym roku w wieku 90 lat.
+### **FACT 24**: Film adaptations since 1957
+The first English-language film adaptation was made in 1957, directed by Tyrone Guthrie with Douglas Campbell in the title role. All characters appeared in traditional Greek masks.
 
 ---
 
-*Ten dokument został stworzony na podstawie źródeł historycznych i badań naukowych. Fakty oznaczone jako "PLOTKA" są anegdotami przekazywanymi przez starożytnych autorów, których wiarygodność historyczna jest niepewna, ale które są częścią legendy otaczającej Sofoklesa i jego dzieło.*
+## Hidden Facts and Anecdotes
+
+### **FACT 25**: Sophocles as priest
+In later life, Sophocles served as priest of the native hero Halon, and after death he himself was honored with hero worship under the name "Dexion" (The Receiver).
+
+### **RUMOR 26**: Trial for incompetence
+Late in life, Sophocles' sons tried to declare him mentally incompetent to seize his fortune. Sophocles defended himself in court by reciting a fragment from his new "Oedipus at Colonus," saying: "If I am Sophocles, then I am not of sound mind; and if I am not of sound mind, then I am not Sophocles."
+
+### **RUMOR 27**: Legend of death
+There are several legends about Sophocles' death. One says he choked on grapes, another - that he died from joy after winning a dramatic competition, yet another - that he died while publicly performing "Antigone."
+
+### **FACT 28**: Friendship with Pericles
+Sophocles was a personal friend of Pericles, the most important politician of Athens in the 5th century BCE. This acquaintance gave him access to the highest circles of power and influenced his political career.
+
+---
+
+## Theatrical Innovations
+
+### **FACT 29**: Breaking with trilogies
+Unlike Aeschylus, who wrote connected trilogies, Sophocles created independent plays. "Oedipus Rex" was not part of a trilogy, although he later wrote other plays about the same character.
+
+### **FACT 30**: Increasing the chorus
+Sophocles increased the number of chorus members from 12 (as with Aeschylus) to 15, which allowed for richer musical and choreographic effects.
+
+### **FACT 31**: Scenography and decorations
+Sophocles was a pioneer in using theatrical decorations (skene) and special effects. For "Oedipus Rex" he probably introduced the first use of ekkyklema (movable platform) to show the palace interior.
+
+---
+
+## Impact on Modernity
+
+### **FACT 32**: Freudian interpretation
+Freud first publicly discussed what he later called the "Oedipus complex" in 1899, based on the universal effectiveness of Sophocles' play on ancient and contemporary audiences.
+
+### **FACT 33**: Contemporary adaptations
+The play has been adapted in various cultural contexts, from Rita Dove's "The Darker Face of the Earth" (where Oedipus is the son of a slave and plantation owner) to the Korean film "Oldboy" (2003) by Park Chan-wook.
+
+### **FACT 34**: Martha Graham and ballet
+In 1947, famous choreographer Martha Graham created the ballet "Night Journey" based on "Oedipus Rex," but from Jocasta's perspective, not Oedipus'.
+
+### **FACT 35**: Status in canon
+The play occupies a similar place in literature as the "Mona Lisa" in art - everyone knows the story, all who have read or seen it are drawn into its puzzles and moral dilemmas.
+
+---
+
+## Linguistic and Textual Curiosities
+
+### **FACT 36**: Title in Greek
+The original Greek title "Οἰδίπους τύραννος" (Oidipous Tyrannos) does not mean "king" in today's sense, but "tyrant" - a ruler who came to power by his own efforts, not through inheritance.
+
+### **FACT 37**: Ambiguity in dialogue
+Sophocles masterfully used linguistic ambiguity (dramatic irony) - the audience knew the myth, so they understood the double meanings of Oedipus' statements, which the hero himself only discovers at the end.
+
+### **RUMOR 38**: First manuscript
+The oldest surviving manuscripts of "Oedipus Rex" date from the 10th century CE, meaning the text survived over 1300 years only in copies.
+
+---
+
+## Religious and Social Context
+
+### **FACT 39**: Cult of Asclepius
+After the plague in Athens (c. 420 BCE), the cult of Asclepius, god of medicine, was introduced. Sophocles probably participated in this process and later became a priest of this cult himself.
+
+### **FACT 40**: Oedipus as scapegoat
+In the social structure of ancient Greece, Oedipus serves the function of a "scapegoat" (pharmakos) - his exile is meant to cleanse the community of pollution, which was a known religious ritual.
+
+---
+
+## Impact on World Theater
+
+### **FACT 41**: Model of classical tragedy
+"Oedipus Rex" became the model of classical tragedy with unity of time, place, and action. All events take place within one day, in one place, around one action.
+
+### **FACT 42**: Aristotle's catharsis
+It was precisely by analyzing "Oedipus Rex" that Aristotle formulated the theory of catharsis - emotional purification through experiencing pity and fear.
+
+### **FACT 43**: Model for Shakespeare
+William Shakespeare knew "Oedipus Rex" and used a similar structure in "King Lear" and "Hamlet" - the hero seeks truth that will destroy him.
+
+### **FACT 44**: Contemporary productions
+The play is performed an average of 200-300 times annually on stages worldwide, making it one of the most frequently performed ancient plays.
+
+---
+
+## Final Records
+
+### **FACT 45**: Place in the "great four"
+"Oedipus Rex" along with the "Book of Job," "Hamlet," and "King Lear" forms the "great four" of the most important works of world literature examining the problem of human suffering.
+
+### **FACT 46**: Group of universal characters
+Oedipus joined the group of universal fictional characters - alongside Odysseus, Faust, Don Juan, and Don Quixote - who became paradigms of the human condition.
+
+### **FACT 47**: Sophocles' 24 victories
+Of the 30 competitions in which Sophocles participated, he won as many as 24 - a record that no other ancient playwright has beaten. Aeschylus won 13, Euripides only 4 competitions.
+
+### **FACT 48**: Last act of life
+Sophocles' last public appearance was leading the mourning chorus after the death of his rival Euripides in 406 BCE. He himself died the same year at age 90.
+
+---
+
+*This document was created based on historical sources and scholarly research. Facts marked as "RUMOR" are anecdotes passed down by ancient authors whose historical reliability is uncertain, but which are part of the legend surrounding Sophocles and his work.*

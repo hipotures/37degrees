@@ -1,0 +1,124 @@
+canon:
+  characters:
+    - id: "soldier_RB"
+      name: "Soldier RB"
+      description_block: |
+        characters:
+          - appearance: "Young Black man, early 20s, athletic build, clean-shaven, short military haircut"
+            clothing: "US Army uniform - olive drab wool field jacket M1941, matching pants, brown leather service shoes, garrison cap"
+            posture: "Military bearing even when wounded, protective stance near his mother"
+
+    - id: "officer_JC"
+      name: "Officer JC"
+      description_block: |
+        characters:
+          - appearance: "White police officer, mid-30s, average height, clean-shaven, hard features"
+            clothing: "NYPD uniform - navy blue wool coat, matching pants with black stripe, eight-point police cap, black leather shoes"
+            posture: "Aggressive stance, hand near holster, weight forward"
+
+    - id: "woman_MP"
+      name: "Woman MP"
+      description_block: |
+        characters:
+          - appearance: "Black woman, late 20s, medium build, hair in victory rolls style"
+            clothing: "Floral print dress to knee, worn pumps, small handbag"
+            posture: "Defiant, chin raised, hands on hips when arguing"
+
+    - id: "mother_FB"
+      name: "Mother FB"
+      description_block: |
+        characters:
+          - appearance: "Older Black woman, 50s, gray streaks in hair, worried expression"
+            clothing: "Simple dark dress, sensible flat shoes, small hat with pin"
+            posture: "Protective of son, reaching toward him"
+
+    - id: "hotel_clerk"
+      name: "Hotel Desk Clerk"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged white man, thin, receding hairline, nervous demeanor"
+            clothing: "Worn vest over white shirt, black bow tie, sleeve garters"
+            posture: "Backing away from confrontation, hands raised"
+
+    - id: "protester_1"
+      name: "Young Protester"
+      description_block: |
+        characters:
+          - appearance: "Black teenage boy, 17-18, lanky build, intense expression"
+            clothing: "Zoot suit with wide-shouldered jacket, high-waisted pants, fedora"
+            posture: "Aggressive, arm cocked to throw"
+
+    - id: "store_owner"
+      name: "Store Owner"
+      description_block: |
+        characters:
+          - appearance: "White man, 40s, stocky build, panicked expression"
+            clothing: "White apron over shirt and tie, rolled sleeves"
+            posture: "Defensive, arms protecting face"
+
+  locations:
+    - id: "braddock_hotel_lobby"
+      name: "Braddock Hotel Lobby"
+      description_block: |
+        setting:
+          location: "Ground floor lobby of Braddock Hotel, corner of West 126th Street and 8th Avenue, Harlem"
+        mainElements: "Worn reception desk, peeling wallpaper, cracked linoleum floor in faded pattern, dim ceiling fixtures, narrow staircase"
+        atmosphere: "Seedy, run-down, cigarette smoke in air, single fan turning slowly"
+
+    - id: "hotel_entrance"
+      name: "Hotel Street Entrance"
+      description_block: |
+        setting:
+          location: "Street entrance to Braddock Hotel, 126th and 8th Avenue corner"
+        mainElements: "Glass door with painted hotel name, small awning, sidewalk with gathering crowd"
+        atmosphere: "Tense, crowd pressing forward, hot August evening"
+
+    - id: "125th_street"
+      name: "125th Street Commercial Strip"
+      description_block: |
+        setting:
+          location: "Main commercial thoroughfare of Harlem, between 7th and 8th Avenues"
+        mainElements: "Row of storefronts with large windows, sidewalks, parked cars, street lamps"
+        atmosphere: "Chaos erupting, broken glass, smoke beginning to rise"
+
+    - id: "28th_precinct"
+      name: "28th Police Precinct"
+      description_block: |
+        setting:
+          location: "NYPD 28th Precinct building, West 123rd Street"
+        mainElements: "Three-story brick building, green globes flanking entrance, steps up to doors"
+        atmosphere: "Surrounded by angry crowd, police forming defensive line"
+
+    - id: "grocery_store"
+      name: "Corner Grocery Store"
+      description_block: |
+        setting:
+          location: "Small grocery on 125th Street"
+        mainElements: "Large front window with painted prices, wooden shelves visible inside, cash register at counter"
+        atmosphere: "Windows smashed, goods being pulled from shelves"
+
+  items:
+    - id: "police_revolver"
+      name: "Police Service Revolver"
+      description_block: |
+        details: "Colt Official Police or Smith & Wesson Model 10, .38 caliber, blued steel, wooden grip, leather holster on belt"
+
+    - id: "nightstick"
+      name: "Police Nightstick"
+      description_block: |
+        details: "Wooden baton, dark stained wood, leather strap, approximately 24 inches long"
+
+    - id: "broken_bottle"
+      name: "Thrown Bottle"
+      description_block: |
+        details: "Empty beer or soda bottle, brown or green glass, used as projectile"
+
+    - id: "store_sign"
+      name: "Handwritten Sign"
+      description_block: |
+        details: "Cardboard sign hastily written in black paint: 'Negro Owned' taped inside store window"
+
+    - id: "brick"
+      name: "Thrown Brick"
+      description_block: |
+        details: "Red brick pried from building or street, used as weapon"

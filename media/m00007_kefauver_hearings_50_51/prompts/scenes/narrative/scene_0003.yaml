@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Witness Arrives"
+  setting:
+    time: "March 1951, morning 10:00"
+    location: "Federal Courthouse hearing room, witness entering"
+    weather: "Bright light from windows mixing with hot TV lights"
+  characters:
+    - appearance: "66 years old, medium build, graying hair slicked back, heavy features, nervous expression"
+      clothing: "Expensive charcoal pinstripe suit, white silk shirt, dark tie with small pattern, gold cufflinks"
+      position: "Walking toward witness table"
+      action: "Adjusting tie nervously, avoiding eye contact with cameras"
+    - appearance: "Distinguished man, late 50s, silver hair, thin mustache, alert eyes"
+      clothing: "Three-piece gray suit, white shirt, conservative blue tie, pocket watch chain visible"
+      position: "Walking beside witness"
+      action: "Hand on witness's elbow, whispering last instructions"
+    - appearance: "Young man, 30s, thin build, fedora pushed back on head, cigarette behind ear"
+      clothing: "Wrinkled gray suit, white shirt open at collar, no tie, press badge on lapel"
+      position: "Crouching near witness path"
+      action: "Raising Speed Graphic camera, flash ready"
+  scene:
+    mainElements: "Witness entering packed hearing room, all eyes turning, cameras swiveling, flash bulbs beginning to pop"
+    details: "Cigarette smoke thick in air, hot television lights creating sweat on faces, witness chair prominently empty and waiting, committee members watching arrival, spectators craning necks"
+    background: "Full gallery, television cameras with red lights on, forest of microphones on tables"
+    atmosphere: "Electric tension, predator and prey dynamic, witness entering arena, moment of truth approaching"
+  composition:
+    cameraAngle: "Low angle from photographer's position"
+    focus: "Witness approaching his seat with lawyer"
+    depth: "Witness in sharp focus, committee elevated in background, cameras visible on sides"

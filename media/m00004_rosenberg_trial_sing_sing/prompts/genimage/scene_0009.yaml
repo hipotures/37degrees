@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: June 19, 1953, night 8:15
+    location: Outside gates of Sing Sing Prison, Ossining, New York
+    weather: Humid night, light rain beginning
+  characters:
+  - appearance: Young woman protestor, 20s, long dark hair, passionate expression
+    clothing: Rain-soaked cotton dress, cardigan, flat shoes
+    position: Standing at prison gates holding sign
+    action: Holding candle in one hand, sign in other, rain mixing with tears
+  - appearance: Middle-aged man, priest, gray hair, solemn face
+    clothing: Black cassock, white collar, dark coat against rain
+    position: Leading prayer circle near gates
+    action: Holding prayer book over candle to shield from rain
+  - appearance: Police officer, 30s, stern expression, tall build
+    clothing: Dark blue uniform, rain slicker, peaked cap with plastic cover
+    position: Standing between protesters and gate
+    action: Arms crossed, watching crowd carefully
+  scene:
+    mainElements: High prison walls with guard towers, iron gates, crowd of protesters with candles, police barriers
+    details: Candles flickering in rain, handmade signs getting soggy, news photographers with flash cameras, police car headlights
+      cutting through darkness, puddles reflecting candle flames
+    background: Prison walls disappearing into dark sky, lit windows in guard towers, distant lights of town below
+    atmosphere: Vigil in rain, mix of hope and despair, candles struggling against weather, collective grief
+  composition:
+    cameraAngle: Wide shot from across street
+    focus: Protesters at gates with candles
+    depth: Protesters in foreground, gates and walls mid-ground, prison looming in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

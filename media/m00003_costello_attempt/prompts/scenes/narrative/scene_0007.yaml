@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Getaway Car"
+  setting:
+    time: "May 2, 1957, night 11:02:30"
+    location: "Central Park West outside The Majestic"
+    weather: "Clear night, cool air"
+  characters:
+    - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+      clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+      position: "Diving into waiting black Cadillac"
+      action: "Slamming door, gun still in hand"
+    - appearance: "Thin man, nervous expression, pale complexion"
+      clothing: "Dark suit, white shirt, no tie, driving cap"
+      position: "Behind wheel of Cadillac"
+      action: "Gunning engine, hands gripping wheel"
+  scene:
+    mainElements: "Black Cadillac pulling away from curb with squealing tires, doorman visible through building entrance, empty street"
+    details: "Tire marks on asphalt, exhaust smoke in cold air, headlights sweeping across park trees, brass door of building still swinging, few witnesses on sidewalk pointing"
+    background: "The Majestic's Art Deco facade lit from within, Central Park dark across street, other buildings with few lit windows"
+    atmosphere: "Desperate escape, tires screaming, engine roaring in night quiet, violence departing elegant neighborhood"
+  composition:
+    cameraAngle: "Street level from building entrance"
+    focus: "Cadillac speeding away with door just closed"
+    depth: "Building entrance in foreground, car in middle distance, street disappearing into darkness"

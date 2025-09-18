@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1991 late night, June
+    location: Forbidden corridor on third floor of Hogwarts, stone passageway with locked door
+    weather: Still night inside castle
+  characters:
+  - appearance: Massive three-headed dog, each head size of large bear, guards trapdoor
+    clothing: Natural fur, no clothing
+    position: Standing over trapdoor, all three heads alert and menacing
+    action: Snarling and growling at intruders, baring enormous fangs, blocking access to trapdoor
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes, disheveled from adventure
+    position: Pressed against stone wall in terror
+    action: Staring up at enormous three-headed beast, calculating how to get past
+  - appearance: Girl, 11 years old, bushy brown hair, brown eyes, slightly large front teeth, earnest expression
+    clothing: Hogwarts black robes, dust on knees
+    position: Crouching beside Harry against wall
+    action: Remembering something important about the creature's weakness, preparing to act
+  scene:
+    mainElements: Stone corridor with torch sconces, heavy wooden door behind them, trapdoor beneath massive dog
+    details: Enormous three-headed dog filling most of chamber, each head with glowing red eyes and dripping fangs, claws
+      scratching against stone floor, wooden trapdoor partially visible beneath creature's massive paws, torches flickering
+      from beast's movements, ancient stone walls showing claw marks
+    background: Forbidden corridor stretching behind them, heavy door they came through, suggestion of deeper chambers below
+      trapdoor
+    atmosphere: Forbidden and dangerous, shadows from flickering torches, sense of hidden secrets and immediate peril, no
+      text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing enormous size of three-headed guardian
+    focus: Terrifying magical guardian protecting hidden secrets from small intruders
+    depth: Children cowering in foreground, massive three-headed dog in middle ground, mysterious chamber extending into darkness
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

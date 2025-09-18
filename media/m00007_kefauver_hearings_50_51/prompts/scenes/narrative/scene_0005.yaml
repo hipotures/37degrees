@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Famous Hands"
+  setting:
+    time: "March 1951, morning 11:00"
+    location: "Witness table, camera focused on hands only"
+    weather: "Indoor television lighting"
+  characters:
+    - appearance: "Only hands visible - manicured, slight age spots, gold pinky ring on right hand"
+      clothing: "French cuffs with gold cufflinks visible, expensive suit sleeves"
+      position: "Hands on table surface"
+      action: "Fingers drumming nervously, then clasping and unclasping, occasionally reaching for water glass"
+    - appearance: "Middle-aged man, stocky build, rolled-up shirt sleeves, perspiring from hot lights"
+      clothing: "White dress shirt with sleeves rolled up, dark trousers, suspenders, loosened tie"
+      position: "Behind television camera"
+      action: "Adjusting camera angle to frame only hands, following their movement"
+  scene:
+    mainElements: "Extreme close-up of witness's hands on wooden table, no face visible, just nervous hand movements"
+    details: "Hands fidgeting with glasses, drumming fingers creating rhythm, interlocking fingers showing white knuckles, reaching for water glass with slight tremor, gold ring catching light, French cuffs with monogrammed cufflinks, cigarette burns on table surface"
+    background: "Blurred committee table, microphone base visible, ashtray with smoking cigarette"
+    atmosphere: "Intimate revelation through gesture, hands betraying nervousness that face might hide, involuntary telegraph of anxiety"
+  composition:
+    cameraAngle: "Extreme close-up from above angle"
+    focus: "Only hands in frame, everything else excluded"
+    depth: "Hands in sharp focus filling frame, table texture visible, everything else soft"

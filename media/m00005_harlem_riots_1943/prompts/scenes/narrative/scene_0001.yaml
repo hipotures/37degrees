@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Hotel Lobby Confrontation"
+  setting:
+    time: "August 1, 1943, evening 9:00"
+    location: "Lobby of Braddock Hotel, corner of West 126th Street and 8th Avenue, Harlem"
+    weather: "Hot, humid August evening"
+  characters:
+    - appearance: "Black woman, late 20s, medium build, hair in victory rolls style"
+      clothing: "Floral print dress to knee, worn pumps, small handbag"
+      position: "Standing at reception desk, leaning forward"
+      action: "Arguing with desk clerk, pointing finger accusingly"
+    - appearance: "Middle-aged white man, thin, receding hairline, nervous demeanor"
+      clothing: "Worn vest over white shirt, black bow tie, sleeve garters"
+      position: "Behind reception desk"
+      action: "Backing away, hands raised defensively"
+    - appearance: "White police officer, mid-30s, average height, clean-shaven, hard features"
+      clothing: "NYPD uniform - navy blue wool coat, matching pants with black stripe, eight-point police cap, black leather shoes"
+      position: "Entering through lobby door"
+      action: "Hand moving to nightstick on belt, striding toward desk"
+  scene:
+    mainElements: "Shabby hotel lobby, peeling wallpaper with water stains, cracked linoleum floor, dim overhead bulb, narrow wooden staircase"
+    details: "Ceiling fan turning slowly, cigarette butts in standing ashtray, faded armchair in corner, mail slots behind desk, calendar showing August 1943, bell on counter"
+    background: "Open door to street showing people gathering, sounds of city filtering in"
+    atmosphere: "Tension building, stuffy heat, single bulb casting harsh shadows, argument escalating"
+  composition:
+    cameraAngle: "Wide shot from staircase perspective"
+    focus: "Three-way confrontation at reception desk"
+    depth: "Desk confrontation in center, lobby details surrounding, street visible through door"

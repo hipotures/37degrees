@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Killers Arrive"
+  setting:
+    time: "1957 October morning, 10:20"
+    location: "Hotel barbershop entrance"
+    weather: "Fog beginning to lift slightly outside"
+  characters:
+    - appearance: "Medium height, athletic build, face completely obscured by dark scarf wrapped around lower face"
+      clothing: "Dark gray overcoat reaching mid-thigh, black fedora pulled low over eyes, black leather gloves, dark trousers"
+      position: "Stepping through barbershop doorway"
+      action: "Right hand reaching inside coat, eyes scanning room quickly"
+    - appearance: "Taller, lean build, face hidden behind checkered scarf covering nose and mouth"
+      clothing: "Black trench coat, dark brown fedora, brown leather gloves, black trousers, scuffed black shoes"
+      position: "Following close behind first man"
+      action: "Closing door behind them, hand on door handle"
+  scene:
+    mainElements: "Doorway with frosted glass panel reading 'Barber Shop', coat rack, waiting area chairs"
+    details: "Door closing slowly with soft click, bell above door tinkling, shadows of two figures falling across checkered floor"
+    background: "Barber and customer visible in reflection of mirrors, unaware of new arrivals"
+    atmosphere: "Sudden tension, radio still playing but seeming quieter, fluorescent light buzzing overhead"
+  composition:
+    cameraAngle: "Low angle from floor level looking up"
+    focus: "Two dark silhouettes filling doorway, backlit by lobby light"
+    depth: "Doorway sharp in foreground, barbershop interior slightly out of focus beyond"

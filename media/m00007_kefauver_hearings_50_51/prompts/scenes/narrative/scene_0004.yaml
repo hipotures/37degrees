@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Under the Hot Lights"
+  setting:
+    time: "March 1951, morning 10:30"
+    location: "Witness table under intense television lighting"
+    weather: "Indoor artificial lighting overwhelming natural light"
+  characters:
+    - appearance: "66 years old, medium build, graying hair slicked back, heavy features, nervous expression"
+      clothing: "Expensive charcoal pinstripe suit, white silk shirt, dark tie with small pattern, gold cufflinks"
+      position: "Seated at witness table, facing committee"
+      action: "Wiping forehead with white handkerchief, squinting under lights, loosening collar slightly"
+    - appearance: "Middle-aged man, tall and lanky, distinctive horn-rimmed glasses, receding hairline, serious demeanor"
+      clothing: "Conservative dark gray suit, white shirt, narrow dark tie, polished black oxfords"
+      position: "Leaning forward at committee table"
+      action: "Holding papers, peering over glasses at witness, preparing to speak into microphone"
+  scene:
+    mainElements: "Witness sweating profusely under multiple Fresnel spotlights, face glistening, harsh shadows"
+    details: "Beads of perspiration on forehead and upper lip, handkerchief already damp, water glass with condensation, cigarette smoke swirling in light beams, makeup running slightly, white shirt collar darkening with sweat"
+    background: "Television cameras with operators adjusting focus, committee in cooler shadows, packed gallery watching"
+    atmosphere: "Interrogation under laboratory conditions, witness isolated in pool of blinding light, physical discomfort adding to psychological pressure"
+  composition:
+    cameraAngle: "Close-up from television camera angle"
+    focus: "Witness's sweating face under harsh lights"
+    depth: "Face in extreme close-up, committee slightly out of focus behind, lights visible creating halation"

@@ -1,154 +1,154 @@
-# Ocena Content Warnings: "Król Edyp" Sofoklesa
-## Analiza Zgodności z Zasadami Platform Społecznościowych 2025
+# Content Warnings Assessment: "Oedipus Rex" by Sophocles
+## Social Media Platform Compliance Analysis 2025
 
-**Data analizy:** 2025-09-01  
-**Książka:** Oedipus Rex (Król Edyp)  
-**Autor:** Sofokles (ok. 496-406 p.n.e.)  
-**Rok powstania:** ok. 429 p.n.e.  
-**Status:** ANALIZA KOMPLETNA - 8/8 dokumentów researchu przeanalizowanych  
+**Analysis Date:** 2025-09-18
+**Book:** Oedipus Rex
+**Author:** Sophocles (c. 496-406 BCE)
+**Year Written:** c. 429 BCE
+**Status:** COMPLETE ANALYSIS - 8/8 research documents analyzed
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-"Król Edyp" prezentuje **WYSOKIE RYZYKO** dla platform Meta (Facebook/Instagram) ze względu na tematy kazirodztwa i przemocy rodzinnej. **ŚREDNIE RYZYKO** dla YouTube i TikTok wymaga odpowiedniego framingu edukacyjnego. **NISKIE RYZYKO** dla Spotify i Kick ze względu na educational nature content.
+"Oedipus Rex" presents **HIGH RISK** for Meta platforms (Facebook/Instagram) due to incest and family violence themes. **MEDIUM RISK** for YouTube and TikTok requires proper educational framing. **LOW RISK** for Spotify and Kick due to educational nature of content.
 
-### NAJKRYTYCZNIEJSZE TEMATY:
-- **Kazirodztwo** (niezamierzone) - problematyczne dla wszystkich platform
-- **Przemoc rodzinna** i infantycyd  
-- **Freudowska teoria** - kontrowersyjna w erze #MeToo
-- **Samookaleczenie** i samobójstwo
-- **Graficzne opisy przemocy**
-
----
-
-## ANALIZA MATERIAŁÓW RESEARCHU
-
-### Przeanalizowane dokumenty:
-1. ✅ **au-research_dark_drama.md** - mroczne interpretacje i kontrowersje
-2. ✅ **au-research_culture_impact.md** - wpływ kulturowy i adaptacje  
-3. ✅ **au-research_local_context.md** - polski kontekst kulturowy
-4. ✅ **au-research_facts_history.md** - historia powstania i fakty
-5. ✅ **au-research_reality_wisdom.md** - współczesne lekcje
-6. ✅ **au-research_symbols_meanings.md** - symbolika i interpretacje
-7. ✅ **au-research_writing_innovation.md** - techniki pisarskie
-8. ✅ **au-research_youth_digital.md** - kultura młodzieżowa
+### MOST CRITICAL TOPICS:
+- **Incest** (unintentional) - problematic for all platforms
+- **Family violence** and infanticide
+- **Freudian theory** - controversial in #MeToo era
+- **Self-harm** and suicide
+- **Graphic descriptions of violence**
 
 ---
 
-## MATRIX PROBLEMATYCZNYCH TEMATÓW vs PLATFORMY
+## RESEARCH MATERIALS ANALYSIS
 
-| Temat Problematyczny | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+### Analyzed Documents:
+1. ✅ **au-research_dark_drama.md** - dark interpretations and controversies
+2. ✅ **au-research_culture_impact.md** - cultural impact and adaptations
+3. ✅ **au-research_local_pl_context.md** - Polish cultural context
+4. ✅ **au-research_facts_history.md** - historical facts and origins
+5. ✅ **au-research_reality_wisdom.md** - contemporary lessons
+6. ✅ **au-research_symbols_meanings.md** - symbolism and interpretations
+7. ✅ **au-research_writing_innovation.md** - writing techniques
+8. ✅ **au-research_youth_digital.md** - youth and digital culture
+
+---
+
+## PROBLEMATIC TOPICS vs PLATFORMS MATRIX
+
+| Problematic Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
 |---------------------|----------|-----------|---------|---------|---------|------|
-| **Kazirodztwo (edukacyjne)** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Przemoc rodzinna** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
-| **Freudowska teoria** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Samobójstwo/Samookaleczenie** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
-| **Infantycyd** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
-| **Kompleksy psychosexualne** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Antyczne religie** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
-| **Klasyczna literatura** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Incest (educational)** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Family violence** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+| **Freudian theory** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Suicide/Self-harm** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+| **Infanticide** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+| **Psychosexual complexes** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Ancient religions** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
+| **Classical literature** | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW | 🟢 LOW |
 
-**LEGENDA:**
-- 🔴 **HIGH RISK** - Wysokie ryzyko demonetyzacji/usunięcia
-- 🟡 **MEDIUM RISK** - Ryzyko ograniczeń, wymagany educational framing  
-- 🟢 **LOW RISK** - Akceptowalny content z proper presentation
-
----
-
-## SZCZEGÓŁOWA ANALIZA PLATFORM
-
-### 🔴 FACEBOOK/META (Facebook + Instagram) - WYSOKIE RYZYKO
-
-**NOWE ZASADY 2025:**
-- Liberalizacja hate speech - dozwolone nazywanie kobiet "przedmiotami domowymi"
-- Community Notes zamiast fact-checkingu
-- Zwiększona tolerancja dla controversial content
-- **PROBLEM:** Nieprzewidywalna moderacja
-
-#### Problematyczne aspekty dla Edypa:
-- **Kazirodztwo** - nawet w kontekście edukacyjnym może być flagowane
-- **Przemoc domowa** - Lajos próbuje zabić Edypa jako niemowlę
-- **Samobójstwo Jokasty** - problematyczne dla algorithmu mental health
-- **Graficzne opisy** - śmierć, przemoc, samokaleczenie
-
-#### **REKOMENDACJA: AGE-RESTRICT + HEAVY EDITING**
-- Unikaj bezpośrednich odniesień do kazirodztwa
-- Skup się na aspektach: przeznaczenie vs wolna wola
-- Użyj educational disclaimers na początku
-- Pomiń graficzne szczegóły przemocy
-- Framuuj jako "ancient wisdom for modern problems"
+**LEGEND:**
+- 🔴 **HIGH RISK** - High risk of demonetization/removal
+- 🟡 **MEDIUM RISK** - Risk of restrictions, requires educational framing
+- 🟢 **LOW RISK** - Acceptable content with proper presentation
 
 ---
 
-### 📹 YOUTUBE - ŚREDNIE RYZYKO
+## DETAILED PLATFORM ANALYSIS
 
-**POLITYKA 2025:**
-- Anty-AI crackdown - wymagana human narration
-- "Inauthentic content" policy - trzeba dodać jasną wartość
-- Zaostrzone kryteria monetyzacji
-- Priorytet dla storytelling approach
+### 🔴 FACEBOOK/META (Facebook + Instagram) - HIGH RISK
 
-#### Możliwości:
-- **Educational content** ma szansę na monetyzację
-- **Storytelling approach** pasuje do tragedii
-- **Historical context** ułatwia acceptance
+**NEW 2025 POLICIES:**
+- Liberalization of hate speech - allows calling women "household objects"
+- Community Notes replacing fact-checking
+- Increased tolerance for controversial content
+- **PROBLEM:** Unpredictable moderation
 
-#### **REKOMENDACJA: EDUCATIONAL FRAMING + ORIGINAL COMMENTARY**
-- Użyj human narration (nie text-to-speech)
-- Dodaj historical context (starożytna Grecja)
-- Skup się na literary techniques Sofoklesa
-- Omów contemporary relevance for leadership
-- Minimum 1 minuta dla lepszej monetyzacji
+#### Problematic aspects for Oedipus:
+- **Incest** - even in educational context may be flagged
+- **Domestic violence** - Laius attempts to kill baby Oedipus
+- **Jocasta's suicide** - problematic for mental health algorithms
+- **Graphic descriptions** - death, violence, self-harm
+
+#### **RECOMMENDATION: AGE-RESTRICT + HEAVY EDITING**
+- Avoid direct references to incest
+- Focus on aspects: fate vs free will
+- Use educational disclaimers at beginning
+- Omit graphic details of violence
+- Frame as "ancient wisdom for modern problems"
 
 ---
 
-### 📱 TIKTOK - ŚREDNIE RYZYKO  
+### 📹 YOUTUBE - MEDIUM RISK
 
-**ZMIANY 2025:**
-- Tylko 1+ minuty content eligible for monetization
+**2025 POLICY:**
+- Anti-AI crackdown - requires human narration
+- "Inauthentic content" policy - must add clear value
+- Stricter monetization criteria
+- Priority for storytelling approach
+
+#### Opportunities:
+- **Educational content** has chance for monetization
+- **Storytelling approach** fits tragedies well
+- **Historical context** facilitates acceptance
+
+#### **RECOMMENDATION: EDUCATIONAL FRAMING + ORIGINAL COMMENTARY**
+- Use human narration (not text-to-speech)
+- Add historical context (ancient Greece)
+- Focus on Sophocles' literary techniques
+- Discuss contemporary relevance for leadership
+- Minimum 1 minute for better monetization
+
+---
+
+### 📱 TIKTOK - MEDIUM RISK
+
+**2025 CHANGES:**
+- Only 1+ minute content eligible for monetization
 - Strict originality requirements
 - 70% rejection rate for creator applications
 - Enhanced enforcement systems
 
-#### Zalety dla Edypa:
-- **Educational content** favoryzowany przez algoritm
+#### Benefits for Oedipus:
+- **Educational content** favored by algorithm
 - **BookTok** community appreciates classics
-- **Greek mythology** trending dzięki Percy Jackson
+- **Greek mythology** trending thanks to Percy Jackson
 
-#### **REKOMENDACJA: EDUCATIONAL LONG-FORM + MILLENNIAL APPEAL**
-- Minimum 1 minuta for monetization eligibility
-- Użyj BookTok aesthetic i hashtags
-- Connect z Percy Jackson renaissance
-- Frame jako "ancient wisdom for Gen Z"
+#### **RECOMMENDATION: EDUCATIONAL LONG-FORM + MILLENNIAL APPEAL**
+- Minimum 1 minute for monetization eligibility
+- Use BookTok aesthetic and hashtags
+- Connect with Percy Jackson renaissance
+- Frame as "ancient wisdom for Gen Z"
 - Avoid explicit descriptions
 
 ---
 
-### 🎵 SPOTIFY - NISKIE RYZYKO
+### 🎵 SPOTIFY - LOW RISK
 
-**ZALETY 2025:**
+**2025 ADVANTAGES:**
 - Creator-friendly approach
 - Video podcasts prioritized
 - 95% content retention for creators
 - Enhanced cross-platform monetization
 
-#### Idealne dopasowanie:
+#### Perfect match:
 - **Educational podcasting** perfect for classical literature
 - **Academic discussions** welcomed
-- **No copyright issues** z public domain content
+- **No copyright issues** with public domain content
 - **Long-form analysis** preferred
 
-#### **REKOMENDACJA: FULL EDUCATIONAL TREATMENT**
+#### **RECOMMENDATION: FULL EDUCATIONAL TREATMENT**
 - Video podcast format for maximum revenue
-- Deep literary analysis możliwy
-- Historical context i cultural impact
+- Deep literary analysis possible
+- Historical context and cultural impact
 - Modern psychological interpretations OK
 - Cross-platform promotion encouraged
 
 ---
 
-### 📺 KICK - NAJNIŻSZE RYZYKO
+### 📺 KICK - LOWEST RISK
 
 **ADVANTAGES 2025:**
 - 95/5 revenue split (industry leading)
@@ -157,29 +157,29 @@
 - Support for emerging creators
 
 #### Perfect match:
-- **Interactive book discussions** możliwe
+- **Interactive book discussions** possible
 - **Academic content** freedom
 - **Live Q&A** about literature
 - **Community building** around classics
 
-#### **REKOMENDACJA: FULL CREATIVE FREEDOM**
-- Live reading sessions możliwe
+#### **RECOMMENDATION: FULL CREATIVE FREEDOM**
+- Live reading sessions possible
 - Interactive literary analysis
 - Q&A about difficult themes
-- Academic discourse bez ograniczeń
+- Academic discourse without restrictions
 - Best monetization potential
 
 ---
 
-## KLASYFIKACJA WIEKOWA
+## AGE CLASSIFICATION
 
 ### 📚 EDUCATIONAL CONTENT CLASSIFICATION
 
 **13+ CONTENT (Safe for most platforms):**
-- Historia powstania tragedii
-- Literary techniques Sofoklesa
-- Historical context starożytnej Grecji
-- Influence on later literatura
+- History of tragedy creation
+- Sophocles' literary techniques
+- Historical context of ancient Greece
+- Influence on later literature
 - Academic significance
 
 **16+ CONTENT (Age-restrict recommended):**
@@ -187,12 +187,12 @@
 - Family dysfunction patterns
 - Leadership lessons from tragedy
 - Complex moral questions
-- Historical context violence
+- Historical context of violence
 
 **18+ CONTENT (Adult audience only):**
 - Detailed Freudian analysis
 - Explicit discussion of incest theme
-- Graphic violence descriptions  
+- Graphic violence descriptions
 - Psychological trauma analysis
 - Complex sexual psychology
 
@@ -205,16 +205,16 @@
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## CONTENT WARNINGS FOR LISTENERS
 
-### ⚠️ UNIWERSALNE OSTRZEŻENIA
+### ⚠️ UNIVERSAL WARNINGS
 
-**Na początku każdego odcinka:**
-> "Ta analiza literatury klasycznej omawia dojrzałe tematy w kontekście edukacyjnym i historycznym. Zawiera dyskusje o przemocy domowej, problemach zdrowia psychicznego i skomplikowanych dynamikach rodzinnych. Materiał przeznaczony dla odbiorców 16+."
+**At the beginning of each episode:**
+> "This classical literature analysis discusses mature themes in educational and historical context. Contains discussions of domestic violence, mental health issues, and complex family dynamics. Material intended for audiences 16+."
 
-### 📝 SZCZEGÓŁOWE CONTENT WARNINGS
+### 📝 DETAILED CONTENT WARNINGS
 
-**Dla Różnych Platform:**
+**For Different Platforms:**
 
 **Facebook/Instagram:**
 - "Educational literature discussion"
@@ -236,52 +236,52 @@
 
 ---
 
-## EDUCATION-FRIENDLY SPOSOBY OMÓWIENIA
+## EDUCATION-FRIENDLY DISCUSSION APPROACHES
 
-### 🎓 RAMOWANIE TRUDNYCH TEMATÓW
+### 🎓 FRAMING DIFFICULT TOPICS
 
-#### 1. **Kazirodztwo → "Nieprzewidziane konsekwencje"**
-- Focus na tragic irony, nie na sexual aspects
-- "Edyp nieświadomie łamie social taboos"
+#### 1. **Incest → "Unintended consequences"**
+- Focus on tragic irony, not sexual aspects
+- "Oedipus unknowingly breaks social taboos"
 - "Ancient Greeks exploring limits of human knowledge"
 - "Symbolical representation of human blindness"
 
-#### 2. **Przemoc rodzinna → "Ancient family dynamics"**  
-- Historical context o infant exposure w starożytności
+#### 2. **Family violence → "Ancient family dynamics"**
+- Historical context of infant exposure in antiquity
 - "Different social norms in ancient world"
 - "Literary device showing character desperation"
 - Modern parallel - difficult family decisions
 
-#### 3. **Samobójstwo → "Tragic consequences of discovery"**
-- Focus na literary function, nie graphic details
+#### 3. **Suicide → "Tragic consequences of discovery"**
+- Focus on literary function, not graphic details
 - "Character unable to live with truth"
 - "Ancient Greek concept of honor and shame"
 - "Dramatic device for showing ultimate cost"
 
-#### 4. **Kompleks Edypa → "Historical psychology theories"**
+#### 4. **Oedipus Complex → "Historical psychology theories"**
 - "Freudian theory based on this story"
 - "Modern psychology has moved beyond these concepts"
-- "Interesting historical perspective na human development"
+- "Interesting historical perspective on human development"
 - "Academic discussion of outdated theories"
 
 ---
 
-## REKOMENDACJE DLA KAŻDEJ PLATFORMY
+## RECOMMENDATIONS FOR EACH PLATFORM
 
 ### 🎯 FACEBOOK/INSTAGRAM STRATEGY
 
 **AVOID:**
-- Bezpośrednie mention "incest" czy "patricide"
-- Graphic descriptions violence
+- Direct mention of "incest" or "patricide"
+- Graphic descriptions of violence
 - Detailed Freudian analysis
 - Controversial interpretations
 
 **FOCUS ON:**
-- Ancient Greek culture i literature
+- Ancient Greek culture and literature
 - Storytelling techniques
 - Historical significance
 - Modern leadership lessons
-- Literary influence przez wieki
+- Literary influence through the ages
 
 **SAMPLE POSTS:**
 - "Ancient Greek wisdom about leadership blindness"
@@ -295,9 +295,9 @@
 **STRUCTURE:**
 1. **Hook** (0-15s): "Ancient story that predicted modern psychology"
 2. **Historical Context** (15-60s): Ancient Greece, theater, culture
-3. **Story Summary** (1-3 min): Focus na dramatic irony, nie details
+3. **Story Summary** (1-3 min): Focus on dramatic irony, not details
 4. **Modern Relevance** (3-5 min): Leadership, decision-making, hubris
-5. **Literary Impact** (5-7 min): Influence na later writers
+5. **Literary Impact** (5-7 min): Influence on later writers
 6. **Conclusion** (7-8 min): Timeless lessons for viewers
 
 **SEO KEYWORDS:** 
@@ -312,8 +312,8 @@
 ### 📱 TIKTOK STRATEGY
 
 **CONTENT SERIES IDEAS:**
-1. "Ancient Greek theater w 60 seconds"
-2. "Plot twists że Shakespeare jealous"
+1. "Ancient Greek theater in 60 seconds"
+2. "Plot twists that made Shakespeare jealous"
 3. "Psychology theories born from this story"
 4. "Why every politician should read Sophocles"
 5. "Ancient wisdom for modern problems"
@@ -329,7 +329,7 @@
 ### 🎵 SPOTIFY PODCAST STRATEGY
 
 **EPISODE STRUCTURE (45-60 min):**
-1. **Introduction** (5 min): Context i warnings
+1. **Introduction** (5 min): Context and warnings
 2. **Historical Background** (10 min): Ancient Greece detailed
 3. **Story Analysis** (15 min): Complete plot examination
 4. **Character Study** (10 min): Psychological depth
@@ -346,13 +346,13 @@
 ### 📺 KICK STREAMING STRATEGY  
 
 **LIVE SHOW FORMAT:**
-- **Reading Sessions**: Live analysis podczas czytania
-- **Q&A Segments**: Interactive discussion z audience
+- **Reading Sessions**: Live analysis during reading
+- **Q&A Segments**: Interactive discussion with audience
 - **Academic Discussions**: Deep literary analysis
 - **Modern Parallels**: Current events connections
 
 **COMMUNITY BUILDING:**
-- Book club dla classics
+- Book club for classics
 - Educational discussion groups
 - Academic philosophy talks
 - Literature appreciation society
@@ -372,18 +372,18 @@
 - [ ] Modern relevance explained
 
 **Platform-Specific:**
-- [ ] **Meta**: Extreme caution z controversial topics
+- [ ] **Meta**: Extreme caution with controversial topics
 - [ ] **YouTube**: Human narration, original commentary added
 - [ ] **TikTok**: 1+ minute original content, proper hashtags
 - [ ] **Spotify**: Video format preferred, educational focus
 - [ ] **Kick**: Interactive community elements planned
 
 **Legal/Safety:**
-- [ ] No copyrighted content used bez permission
-- [ ] Educational fair use properly applied  
-- [ ] Content warnings appropriate dla age groups
+- [ ] No copyrighted content used without permission
+- [ ] Educational fair use properly applied
+- [ ] Content warnings appropriate for age groups
 - [ ] Platform community guidelines reviewed
-- [ ] Fact-checking completed dla historical claims
+- [ ] Fact-checking completed for historical claims
 
 ---
 
@@ -391,34 +391,34 @@
 
 ### 🚨 POTENTIAL ISSUES & RESPONSES
 
-**Jeśli Content Flagowany:**
+**If Content Flagged:**
 
 **Facebook/Instagram:**
 1. Immediately add more educational disclaimers
 2. Edit out any potentially problematic phrasing
-3. Appeal z educational context emphasis
+3. Appeal with educational context emphasis
 4. Consider age-restricting content
 
 **YouTube:**
 1. Review monetization guidelines compliance
 2. Add more educational value/commentary
-3. Update title/description z clear educational framing
+3. Update title/description with clear educational framing
 4. Consider community post explaining educational intent
 
 **TikTok:**
 1. Ensure content meets originality requirements
 2. Add more educational hashtags
 3. Create longer version meeting time requirements
-4. Appeal z academic content classification
+4. Appeal with academic content classification
 
 ### 📊 SUCCESS METRICS
 
-**KPI dla Educational Content:**
+**KPI for Educational Content:**
 - Educational engagement vs entertainment metrics
 - Positive comments about learning value
 - Academic community reception
 - Teacher/educator shares and recommendations
-- Long-term audience retention (nie just viral spikes)
+- Long-term audience retention (not just viral spikes)
 
 ---
 
@@ -427,7 +427,7 @@
 ### 🎯 OVERALL STRATEGY
 
 **TIER 1 PLATFORMS (Safest):**
-- **Kick**: Full creative freedom dla academic content
+- **Kick**: Full creative freedom for academic content
 - **Spotify**: Video podcast format, complete educational treatment
 
 **TIER 2 PLATFORMS (Moderate Risk):**
@@ -435,14 +435,14 @@
 - **TikTok**: Educational long-form approach needed
 
 **TIER 3 PLATFORMS (High Risk):**
-- **Facebook/Instagram**: Heavy editing required, focus na positive aspects
+- **Facebook/Instagram**: Heavy editing required, focus on positive aspects
 
 ### 💡 CREATIVE ALTERNATIVES
 
 **Alternative Approaches:**
 1. **Historical Focus**: Emphasize ancient Greek culture over dramatic content
-2. **Literary Analysis**: Focus na writing techniques, nie controversial themes  
-3. **Modern Lessons**: Contemporary applications w leadership/psychology
+2. **Literary Analysis**: Focus on writing techniques, not controversial themes
+3. **Modern Lessons**: Contemporary applications in leadership/psychology
 4. **Educational Series**: Part of broader classics education initiative
 5. **Cultural Impact**: How story influenced art/literature through centuries
 
@@ -452,13 +452,13 @@
 - Track audience reception for educational vs entertainment balance
 - Consider regional content restrictions
 - Evaluate educator community response
-- Plan crisis communication dla content moderation issues
+- Plan crisis communication for content moderation issues
 
 ---
 
 **CONCLUSION:**
 
-"Król Edyp" można bezpiecznie prezentować na wszystkich platformach z odpowiednim educational framing i age-appropriate content warnings. Kluczem jest emphasizing historical/literary significance over controversial elements i maintaining academic approach throughout production.
+"Oedipus Rex" can be safely presented on all platforms with appropriate educational framing and age-appropriate content warnings. The key is emphasizing historical/literary significance over controversial elements and maintaining academic approach throughout production.
 
 **RECOMMENDED OVERALL AGE RATING: 16+**  
 **PRIMARY EDUCATIONAL FOCUS: Ancient literature, leadership lessons, cultural history**  
@@ -466,5 +466,5 @@
 
 ---
 
-*Dokument stworzony: 2025-09-01*  
-*Analiza bazowana na aktualnych zasadach platform społecznościowych 2025 oraz kompletnym materiale researchu z 8 dokumentów specjalistycznych*
+*Document created: 2025-09-18*
+*Analysis based on current social media platform guidelines 2025 and complete research material from 8 specialist documents*

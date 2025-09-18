@@ -1,0 +1,106 @@
+sceneDescription:
+  setting:
+    time: 1955, early morning 5:45 AM
+    location: Empty shape-up ground, same location as old system
+    weather: Clear dawn, no fog, spring morning
+  characters:
+  - appearance: Heavy-set man, 45 years old, florid face, thick jowls, small cruel eyes, cigar stub in mouth
+    clothing: Same long wool overcoat now shabby, fedora, scuffed shoes
+    position: Standing alone where his platform used to be
+    action: Looking at empty ground, no workers waiting for him
+  - appearance: Former hiring boss's enforcer, massive man, 30s, cauliflower ears
+    clothing: Black leather jacket worn at elbows, dark pants, heavy boots
+    position: Leaning against warehouse wall
+    action: Smoking cigarette, nowhere to go
+  scene:
+    mainElements: Empty cobblestone area where hundreds once gathered, abandoned wooden crate, closed pier gates
+    details: Old oil drum rusted and tipped over, faded chalk marks on warehouse wall, scattered old newspapers, weeds growing
+      between cobblestones
+    background: New hiring hall visible in distance with line of workers, ships still at pier but different system
+    atmosphere: End of corrupt era, empty power, progress leaving some behind, quiet victory
+  composition:
+    cameraAngle: Wide establishing shot
+    focus: Solitary former boss in empty space
+    depth: Empty ground in foreground, lone figure middle, new hiring hall in distant background
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

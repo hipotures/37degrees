@@ -1,0 +1,154 @@
+styleName: 1950s Film-Noir Melodrama B&W
+description: Monochromatic realism capturing the stark drama of 1940s-50s film noir with low-key tungsten lighting, hard shadows, tight interior framing, and authentic film grain
+
+aiPrompts:
+  basePrompt: film noir, true black-and-white photography, low-key hard light from single tungsten practical lamp, dramatic chiaroscuro lighting, tight interior composition, 40-50mm lens perspective, shallow depth of field, visible film grain texture, selenium toning, subtle halation around lights, strong S-curve contrast, 1950s interior setting
+  negativePrompt: color, neon lights, LED lighting, wide-angle distortion, clean digital look, smooth plastic skin, HDR glow, modern elements, outdoor scenes, soft lighting, flat contrast
+  styleKeywords:
+  - film noir
+  - monochrome
+  - tungsten lighting
+  - chiaroscuro
+  - film grain
+  - halation
+  - vignette
+  - 1950s
+  - interior
+  - portrait
+  - dramatic shadows
+  - high contrast
+
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+
+postProcessing:
+  effects:
+  - authentic film grain texture
+  - subtle halation near light bulbs
+  - strong vignetting at frame edges
+  - mild bloom on highlights
+  - venetian blind shadow patterns (optional)
+  filters: selenium-like split toning for subtle warm highlights and cool shadows
+  adjustments:
+    curve: strong S-curve for punchy contrast
+    localDodgeBurn: selective brightening on faces (cheeks, collarbones, hands)
+    grain: medium to heavy film grain
+    vignette: 20-30% darkening at edges
+
+stylePrecedents:
+- 1940s-1950s film noir cinematography
+- Silver gelatin darkroom prints
+- Directors: Billy Wilder, Otto Preminger, Robert Siodmak
+- Cinematographers: John Alton, Nicholas Musuraca
+- Films: Double Indemnity, Out of the Past, The Third Man
+
+useCases:
+- Detective stories and crime narratives
+- Urban night scenes
+- Dramatic character portraits
+- Interior dialogue scenes
+- Moral ambiguity themes
+- Period piece illustrations
+- Book covers for noir fiction
+
+environmentElements:
+  interiors:
+    materials: worn plaster walls, wooden window frames, metal filing cabinets
+    lighting: single bare bulb, desk lamp, neon sign through window
+    props: rotary phone, glass ashtrays, venetian blinds, ceiling fan
+    atmosphere: cigarette smoke haze, dust motes in light beams
+
+  exteriors:
+    weather: always night or overcast, wet streets reflecting light
+    architecture: brick buildings, fire escapes, narrow alleys
+    lighting: street lamps, neon signs, car headlights
+    atmosphere: fog, rain, urban grime
+
+technicalNotes:
+  focalLengths:
+    wideShot: 40mm for interiors
+    standard: 50mm for general scenes
+    closeup: 80mm for portraits
+  depthOfField: shallow f/2.8-4 for subject isolation
+  shutter: implied motion blur minimal, sharp frozen moments
+  filmStock: high contrast black and white, 400-800 ISO equivalent grain

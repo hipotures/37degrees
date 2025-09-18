@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Morning Arrival at Courthouse"
+  setting:
+    time: "March 6, 1951, morning 8:30"
+    location: "Wide stone steps outside federal courthouse at Foley Square, Manhattan"
+    weather: "Overcast sky, cold March morning, light drizzle beginning"
+  characters:
+    - appearance: "Thin man, 33 years old, dark hair combed back, round wire-rim glasses, narrow face, slight build"
+      clothing: "Dark gray single-breasted suit, white shirt, thin dark tie, black oxford shoes"
+      position: "Walking up courthouse steps flanked by federal marshals"
+      action: "Looking straight ahead, jaw set, hands cuffed in front"
+    - appearance: "Small woman, 35 years old, dark wavy hair pinned up, serious expression, delicate features"
+      clothing: "Conservative dark blue dress with small white polka dots, modest neckline, dark pumps"
+      position: "Walking beside the man, also flanked by marshals"
+      action: "Head held high, looking at crowd of photographers"
+  scene:
+    mainElements: "Granite courthouse facade, wide steps wet from drizzle, crowd of reporters and photographers, police barriers"
+    details: "Flash bulbs popping, reporters shouting questions, uniformed police maintaining order, other defendants' supporters holding signs in background, puddles reflecting gray sky"
+    background: "Imposing 33-story courthouse tower disappearing into low clouds, American flag hanging limp in rain"
+    atmosphere: "Tense anticipation, camera flashes cutting through gray morning, crowd pressing against barriers, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from bottom of steps looking up"
+    focus: "Defendants ascending steps between marshals"
+    depth: "Reporters in foreground, defendants mid-ground, courthouse entrance in background"

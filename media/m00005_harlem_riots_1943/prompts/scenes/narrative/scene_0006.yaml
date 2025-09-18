@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Looting Erupts"
+  setting:
+    time: "August 1, 1943, night 11:00"
+    location: "Clothing store on 125th Street, windows smashed"
+    weather: "Hot, smoke beginning to mix with humidity"
+  characters:
+    - appearance: "Black woman, 30s, determined expression"
+      clothing: "House dress, head scarf"
+      position: "Climbing through broken window"
+      action: "Pulling dress from window display"
+    - appearance: "Black teenage boys, group of three"
+      clothing: "Various casual clothes"
+      position: "Inside store"
+      action: "Grabbing armfuls of clothes from racks"
+    - appearance: "Older Black man, 50s"
+      clothing: "Work overalls"
+      position: "Standing on sidewalk"
+      action: "Shaking head disapprovingly but not intervening"
+  scene:
+    mainElements: "Shattered storefront, mannequins knocked over, clothes scattered, glass covering sidewalk"
+    details: "Cash register smashed open, hangers on floor, shoes being passed out window, mannequin missing head, price tags floating like confetti, distant fire glow"
+    background: "Multiple stores being looted simultaneously, people running with goods, first flames visible down block"
+    atmosphere: "Controlled chaos becoming free-for-all, excitement mixed with anger, sound of more breaking glass"
+  composition:
+    cameraAngle: "Inside store looking out through broken window"
+    focus: "Woman climbing through with stolen dress"
+    depth: "Interior chaos in foreground, street mayhem visible through window frame"

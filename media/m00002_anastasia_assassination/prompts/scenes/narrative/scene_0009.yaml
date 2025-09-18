@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evidence in the Alley"
+  setting:
+    time: "1957 October morning, 10:45"
+    location: "Alley beside luxury hotel, service entrance area"
+    weather: "Fog lifted, overcast sky, damp pavement"
+  characters:
+    - appearance: "Late 40s detective, gray at temples, weary expression"
+      clothing: "Brown wool suit, white shirt, loosened tie, tan fedora pushed back"
+      position: "Kneeling beside metal trash can"
+      action: "Using pencil to lift revolver from garbage without touching it"
+    - appearance: "Police photographer, middle-aged, focused expression"
+      clothing: "Dark suit, press badge on lapel, fedora with press card"
+      position: "Standing over detective with large camera"
+      action: "Preparing to photograph evidence, adjusting flash bulb"
+  scene:
+    mainElements: "Dented metal trash cans, brick wall with water stains, service door propped open"
+    details: "Snub-nose revolver among coffee grounds and crumpled newspapers, wet newspapers with visible date, cigarette butts"
+    background: "Kitchen staff peering from service door, delivery truck parked at alley mouth, pigeons on fire escape above"
+    atmosphere: "Gritty urban alley, smell of garbage and wet brick, distant city traffic sounds"
+  composition:
+    cameraAngle: "Low angle from ground level"
+    focus: "Revolver being lifted on pencil tip, detective's concentrated face"
+    depth: "Trash can in foreground, detective middle ground, alley receding to street"

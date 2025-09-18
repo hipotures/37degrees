@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Soldier Intervenes"
+  setting:
+    time: "August 1, 1943, evening 9:02"
+    location: "Braddock Hotel lobby, escalating situation"
+    weather: "Hot humid night, no air movement"
+  characters:
+    - appearance: "Young Black man, early 20s, athletic build, clean-shaven, short military haircut"
+      clothing: "US Army uniform - olive drab wool field jacket M1941, matching pants, brown leather service shoes, garrison cap"
+      position: "Stepping between woman and officer"
+      action: "Protective stance, one hand extended toward officer, other reaching back toward woman"
+    - appearance: "White police officer, mid-30s, average height, clean-shaven, hard features"
+      clothing: "NYPD uniform - navy blue wool coat, matching pants with black stripe, eight-point police cap, black leather shoes"
+      position: "Facing soldier, aggressive stance"
+      action: "Grabbing nightstick, face reddening with anger"
+    - appearance: "Older Black woman, 50s, gray streaks in hair, worried expression"
+      clothing: "Simple dark dress, sensible flat shoes, small hat with pin"
+      position: "By staircase, hand on banister"
+      action: "Reaching toward soldier, mouth open calling out"
+  scene:
+    mainElements: "Cramped lobby space, confrontation in center, reception desk to side, staircase behind"
+    details: "Nightstick being drawn from belt, soldier's garrison cap falling to floor, woman backing toward wall, clerk ducking behind desk, overhead light swaying from movement"
+    background: "More faces appearing in doorway, curious hotel residents on stairs"
+    atmosphere: "Explosive tension, bodies too close together, sweat on faces, harsh light creating stark shadows"
+  composition:
+    cameraAngle: "Low angle emphasizing confrontation"
+    focus: "Officer and soldier face to face"
+    depth: "Confrontation sharp focus, worried mother and others slightly blurred"

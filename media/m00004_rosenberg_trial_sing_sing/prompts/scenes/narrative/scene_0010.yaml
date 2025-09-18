@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Empty Courtroom at Night"
+  setting:
+    time: "June 19, 1953, night 11:00"
+    location: "Federal Courtroom 110, now empty, Foley Square Manhattan"
+    weather: "Rain on windows, city lights beyond"
+  characters: []
+  scene:
+    mainElements: "Empty courtroom, judge's bench abandoned, defense and prosecution tables bare, rows of empty gallery benches"
+    details: "Single janitor's light on, mop bucket in aisle, rain streaking tall windows, shadows from street lights moving across walls, American flag hanging still, gavel left on bench"
+    background: "City lights through rain-streaked windows, empty hallway visible through open door"
+    atmosphere: "Aftermath of tragedy, silent testimony to what occurred, rain tapping on windows, ghostly emptiness where drama unfolded"
+  composition:
+    cameraAngle: "Wide shot from back of gallery"
+    focus: "Empty judge's bench and counsel tables"
+    depth: "Gallery seats in dark foreground, lit courtroom center, windows and night beyond"

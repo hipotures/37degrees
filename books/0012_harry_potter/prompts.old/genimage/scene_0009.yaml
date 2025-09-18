@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1991 evening, September 1st
+    location: Main dining hall of Hogwarts Castle, four long house tables beneath enchanted ceiling
+    weather: Clear starry night reflected in ceiling
+  characters:
+  - appearance: Boy, 11 years old, black messy hair, bright green eyes behind round glasses, thin frame, lightning bolt scar
+      on forehead
+    clothing: Hogwarts black robes, no house colors yet
+    position: Standing nervously in line with other first years
+    action: Waiting for his turn to be sorted, touching scar unconsciously, looking around in wonder
+  - appearance: Middle-aged woman, stern expression, black hair pulled back in tight bun, square spectacles, thin lips
+    clothing: Dark green tartan robes, emerald green cloak
+    position: Standing beside wooden stool with ancient hat
+    action: Calling names from parchment list, placing Sorting Hat on students' heads
+  scene:
+    mainElements: Four house tables with benches, High Table for professors, thousands of floating candles, ghost presence
+    details: Ancient pointed wizard hat sitting on three-legged stool, enchanted ceiling showing star-filled night sky, floating
+      candles casting warm golden light, four house tables filled with eager students wearing their colors, ghosts drifting
+      between tables
+    background: Professors at High Table watching ceremony, older students cheering for their houses, Great Hall's soaring
+      architecture
+    atmosphere: Grand and welcoming, magical ceiling showing night sky, warmth of countless candles, communal anticipation,
+      no text or letters visible
+  composition:
+    cameraAngle: Wide shot from back of Great Hall
+    focus: First years waiting to be sorted with Sorting Hat ceremony in progress
+    depth: First years in foreground, Sorting Hat ceremony in middle ground, entire Great Hall stretching into background
+visualElements:
+  colorPalette:
+    primary:
+    - rich fantasy colors
+    - jewel tones
+    secondary:
+    - atmospheric colors
+    - magical glows
+    background: atmospheric, often dark or misty
+    usageNotes: Rich, layered colors with magical atmosphere
+    saturation: medium to high
+    contrast: medium to high
+  lineArt:
+    style: painterly, loose
+    weight: varied, often hidden
+    color: integrated into painting
+    texture: organic brushstrokes
+    edgeTreatment: soft, painterly edges
+  lighting:
+    type: dramatic, magical
+    direction: varied for atmosphere
+    intensity: high contrast areas
+    shadows:
+      style: painted, atmospheric
+      color: cool or warm depending on scene
+      opacity: varied
+    highlights: magical glows, rim lighting
+  rendering:
+    technique: digital painting with textured brushes
+    texture: dry media brush texture
+    detailLevel: moderate to high
+    finish: glazed, painterly
+  perspective: cinematic, dynamic
+  mood:
+    overall: mythological, otherworldly, epic
+    emotion: wonder, mystery, adventure
+    tempo: varies from calm to dramatic
+    keywords:
+    - epic
+    - mystical
+    - otherworldly
+    - fantasy
+    - mythological
+  stylePrecedents:
+  - Craig Mullins digital concept art
+  - Frank Frazetta fantasy paintings
+  - Boris Vallejo fantasy illustrations
+  - Magic: The Gathering card art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

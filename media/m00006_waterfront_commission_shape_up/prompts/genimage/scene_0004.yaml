@@ -1,0 +1,111 @@
+sceneDescription:
+  setting:
+    time: 1953, winter morning 9:00 AM
+    location: Active loading dock, Brooklyn Red Hook terminal
+    weather: Overcast, cold wind off water
+  characters:
+  - appearance: Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features
+    clothing: Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit
+      cap
+    position: On dock hauling cargo net
+    action: Straining with cargo hook to guide heavy load, sweat despite cold
+  - appearance: Another longshoreman, 40s, powerful build, Italian features, gold tooth
+    clothing: Canvas work jacket, wool sweater, heavy gloves with fingers cut off
+    position: Working opposite side of cargo net
+    action: Shouting directions over crane noise
+  - appearance: Young docker from earlier, now working
+    clothing: Same army surplus jacket now soaked with sweat, work gloves
+    position: Stacking crates on pallet
+    action: Moving fast to prove himself worthy of selection
+  scene:
+    mainElements: Cargo ship with nets full of crates being lowered, dock cranes, teams of men working, stacked containers
+    details: Steel cargo hooks flashing, hemp ropes straining, foreman with clipboard watching, coffee break whistle mounted
+      on pole, seagulls diving for scraps
+    background: Manhattan skyline across river, other ships waiting to dock, trucks lined up for loading
+    atmosphere: Intense physical labor, danger of falling cargo, coordination of experienced teams, industrial symphony
+  composition:
+    cameraAngle: Low angle showing scale of cargo operation
+    focus: Workers guiding massive cargo net
+    depth: Workers and net in foreground, ship's hull rising like wall behind, sky and cranes above
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

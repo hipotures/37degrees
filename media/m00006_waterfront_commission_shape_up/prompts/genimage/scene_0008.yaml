@@ -1,0 +1,110 @@
+sceneDescription:
+  setting:
+    time: 1954, night 10:00 PM
+    location: Dark street near waterfront, between warehouses
+    weather: Foggy night, wet pavement, poor visibility
+  characters:
+  - appearance: Clean-shaven man, 40s, sharp features, observant eyes, medium build
+    clothing: Dark gray suit under tan trench coat now torn, fedora knocked off, plain black shoes
+    position: Backed against warehouse wall
+    action: Holding briefcase protectively, blood from cut on forehead
+  - appearance: Massive man, 30s, cauliflower ears from boxing, thick hands, intimidating presence
+    clothing: Black leather jacket, dark pants, heavy boots, brass knuckles on fist
+    position: Advancing menacingly
+    action: Fist raised with brass knuckles catching street light
+  - appearance: Second thug, thin wiry build, scarred face
+    clothing: Longshoreman's jacket, dark cap, work boots
+    position: Blocking escape route
+    action: Holding wooden club, tapping it against palm
+  scene:
+    mainElements: Narrow street between warehouses, single street lamp creating pool of light, fog obscuring both ends
+    details: Scattered papers from briefcase, broken glasses on wet pavement, trash cans overturned, investigator's notebook
+      in puddle, distant sound of police siren
+    background: Dark warehouse windows, fog-shrouded street, distant pier lights barely visible
+    atmosphere: Violence and intimidation, corruption fighting back against reform, danger in shadows
+  composition:
+    cameraAngle: Low angle emphasizing threat
+    focus: Brass knuckles advancing toward investigator
+    depth: Attacker's fist in foreground, investigator against wall, fog obscuring escape
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - pearl white
+    - charcoal gray
+    - silver gray
+    secondary:
+    - shadow black
+    - highlight white
+    background: dim interior gray with deep shadows
+    usageNotes: True monochrome only, no color information whatsoever
+    saturation: none (pure grayscale)
+    contrast: high (strong blacks and whites with limited midtones)
+  lineArt:
+    style: photographic realism, no drawn outlines
+    weight: none (photographic approach)
+    color: none
+    texture: film grain micro-contrast creates edge definition
+    edgeTreatment: natural photographic edges
+  lighting:
+    type: low-key tungsten practical or Fresnel spot
+    direction: single source from above or 30-60 degrees off axis
+    intensity: high contrast with key to fill ratio approximately 8:1
+    shadows:
+      style: hard-edged dramatic shadows
+      color: deep black
+      opacity: 90-95%
+      offset: sharp and directional based on single light source
+    highlights: narrow rim light +0.5 to +1 EV for edge separation
+  rendering:
+    technique: photographic black and white film aesthetic
+    texture: visible film grain, worn surfaces, fabric textures
+    detailLevel: high in lit areas, obscured in shadows
+    finish: matte film print quality
+    printEffects: selenium toning for slight warm-cool split
+  perspective:
+    type: rectilinear standard lens perspective
+    vanishingPoints: natural perspective, no distortion
+    distortion: minimal, true to lens focal length
+    depth: shallow depth of field at f/2.8-4
+  composition:
+    layout: tight interior framing with little headroom
+    hierarchy: light draws attention to key elements
+    gridSystem: rule of thirds composition
+    whitespace: filled with dark shadows and negative space
+  mood:
+    overall: dramatic, mysterious, tense
+    emotion: paranoia, desire, danger
+    tempo: static but charged with tension
+    energy: suppressed, coiled
+    keywords:
+    - noir atmosphere
+    - urban decay
+    - moral ambiguity
+    - femme fatale
+    - hard-boiled
+    - venetian blind shadows
+  symbolism:
+    common:
+    - venetian blind light patterns
+    - cigarette smoke
+    - rain on windows
+    - mirror reflections
+    figures:
+    - detective in fedora
+    - woman in evening dress
+    - shadowy figure in doorway
+    abstract:
+    - light versus dark moral conflicts
+    - urban isolation
+    architectural:
+    - narrow corridors
+    - dimly lit offices
+    - seedy hotel rooms
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

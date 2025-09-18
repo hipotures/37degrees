@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "New Hiring Hall System"
+  setting:
+    time: "1955, morning 7:00 AM"
+    location: "Waterfront Commission Hiring Hall, converted warehouse"
+    weather: "Clear morning, sunlight through windows"
+  characters:
+    - appearance: "Burly man, 35 years old, weathered face, broken nose, scarred hands, thick neck, Irish features"
+      clothing: "Worn denim work jacket, flannel plaid shirt, canvas work pants with suspenders, heavy leather work boots, knit cap"
+      position: "Sitting on wooden bench with other workers"
+      action: "Holding new registration card, looking at number board"
+    - appearance: "Lean older man, 50s, gray stubble, deep-set eyes, calloused hands, stooped from years of labor"
+      clothing: "Patched wool coat, work cap, worn boots with newspaper stuffed inside, fingerless gloves"
+      position: "Standing at registration window"
+      action: "Showing his new ID card to clerk"
+    - appearance: "Commission clerk, woman, 30s, professional appearance"
+      clothing: "White blouse, dark skirt, glasses on chain"
+      position: "Behind window with brass bars"
+      action: "Stamping work assignments, calling out numbers"
+  scene:
+    mainElements: "Rows of wooden benches filled with waiting men, registration window, large number board, wall clock"
+    details: "Laminated ID cards in hands, work assignment board with pier locations, coffee urn in corner, no smoking signs, fluorescent lights humming"
+    background: "Other workers reading newspapers while waiting, orderly lines, institutional green walls"
+    atmosphere: "Orderly but tense, new system replacing chaos, dignity of fair selection, some skepticism about change"
+  composition:
+    cameraAngle: "Wide shot of hall interior"
+    focus: "Workers on benches looking at number board"
+    depth: "Benches and men in foreground, registration window mid-ground, number board on far wall"

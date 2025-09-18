@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Collapse and Escape"
+  setting:
+    time: "May 2, 1957, night 11:02"
+    location: "The Majestic lobby"
+    weather: "Interior, gun smoke in air"
+  characters:
+    - appearance: "Distinguished man, 66 years old, medium height and build, graying hair slicked back, sharp facial features, hooded eyes"
+      clothing: "Expensive dark charcoal suit perfectly tailored, crisp white shirt showing blood, burgundy silk tie, polished black oxfords"
+      position: "Collapsed on leather couch"
+      action: "Hand pressed to bleeding head wound, dazed but conscious"
+    - appearance: "Powerfully built man, 29 years old, six feet tall, broad shoulders, wide face, dark hair, former boxer's physique"
+      clothing: "Dark gray suit under black overcoat, dark fedora pulled low, black leather gloves, dark shoes"
+      position: "Running toward revolving door"
+      action: "Gun still in hand, coat flapping, pushing through door"
+    - appearance: "Middle-aged man, professional bearing, clean-shaven, alert eyes"
+      clothing: "Formal doorman uniform - long dark wool coat with brass buttons and gold braiding, matching peaked cap with brass badge, white gloves"
+      position: "Crouched behind his desk"
+      action: "Reaching for telephone, hands shaking"
+  scene:
+    mainElements: "Victim on couch with blood on shirt, gunman fleeing through revolving door, doorman calling for help"
+    details: "Black Borsalino hat on terrazzo floor, blood drops leading to couch, gun smoke still hanging in air, revolving door spinning, brass fixtures reflecting chaos"
+    background: "Geometric Art Deco patterns now witness to violence, elevator doors closed, lobby mirrors showing multiple angles"
+    atmosphere: "Aftermath of violence, sudden quiet after gunshot, escape in progress, shock setting in"
+  composition:
+    cameraAngle: "Wide shot from elevator area"
+    focus: "Wounded man on couch with fleeing gunman in background"
+    depth: "Victim in foreground, lobby space mid-ground, gunman at door in background"

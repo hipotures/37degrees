@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Dawn After Destruction"
+  setting:
+    time: "August 2, 1943, dawn 5:30"
+    location: "125th Street, morning after riots"
+    weather: "Hazy dawn, smoke still hanging in air"
+  characters:
+    - appearance: "Black shopkeeper, elderly man, 60s, defeated expression"
+      clothing: "Rumpled shirt, suspenders, old pants"
+      position: "Standing in his destroyed store doorway"
+      action: "Surveying damage, holding broken picture frame"
+    - appearance: "Young Black woman with child"
+      clothing: "Simple dress, child in worn clothes"
+      position: "Walking carefully through debris"
+      action: "Holding child's hand, stepping over broken glass"
+    - appearance: "Police officer on patrol"
+      clothing: "Disheveled uniform from night duty"
+      position: "Walking beat along destroyed street"
+      action: "Writing in notebook, tired expression"
+  scene:
+    mainElements: "Devastated commercial street, broken windows entire block, debris everywhere, some buildings still smoldering"
+    details: "Mannequins lying in street, cash registers smashed on sidewalk, inventory scattered like trash, broken glass glittering in dawn light, 'Negro Owned' sign intact on one shop"
+    background: "Fire trucks still working on hot spots, Red Cross vehicle arriving, sun rising through smoke"
+    atmosphere: "Morning after catastrophe, exhaustion and regret, counting cost of rage, quiet after storm"
+  composition:
+    cameraAngle: "Long shot down devastated street"
+    focus: "Shopkeeper in doorway with destruction stretching behind"
+    depth: "Foreground debris, destroyed shops middle, smoky sunrise background"
