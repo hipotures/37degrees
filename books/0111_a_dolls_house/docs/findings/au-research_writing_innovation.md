@@ -1,278 +1,278 @@
-# Rewolucyjne Innowacje Literackie Henrik Ibsena w "Domu Lalki"
+# Revolutionary Literary Innovations by Henrik Ibsen in "A Doll's House"
 
-## Wprowadzenie
-Henrik Ibsen (1828-1906) wraz z "Domem lalki" (1879) stworzył moment zerowy nowoczesnego dramatu. Data 4 grudnia 1879 (publikacja) lub 21 grudnia 1879 (premiera w Kopenhadze) są uznawane przez historyków literatury za narodziny nowoczesnego dramatu realistycznego. Ibsen nie tylko rewolucjonizował teatr - stworzył fundamenty, na których opiera się współczesne pisarstwo dramatyczne.
+## Introduction
+Henrik Ibsen (1828-1906) with "A Doll's House" (1879) created ground zero for modern drama. The dates December 4, 1879 (publication) or December 21, 1879 (premiere in Copenhagen) are recognized by literary historians as the birth of modern realistic drama. Ibsen not only revolutionized theater - he created the foundations upon which contemporary dramatic writing rests.
 
-## 1. Fundamentalne Przemiany Strukturalne
+## 1. Fundamental Structural Transformations
 
-### 1.1. Transformacja "Dobrze Skrojonej Sztuki"
-**Innowacja**: Ibsen przejął konwencje francuskiej "pièce bien faite" (dobrze skrojonej sztuki) Eugène'a Scribe'a, ale całkowicie je przekształcił.
+### 1.1. Transformation of the "Well-Made Play"
+**Innovation**: Ibsen adopted the conventions of Eugène Scribe's French "pièce bien faite" (well-made play) but completely transformed them.
 
-**Klasyczna forma**:
-- Sztuczne, skomplikowane fabuły oparte na tajemnicach
-- Mechaniczne budowanie napięcia
-- Efektowne rozwikłania
+**Classical form**:
+- Artificial, complicated plots based on secrets
+- Mechanical tension building
+- Spectacular resolutions
 
-**Ibsenowska transformacja**:
-- **Przyczynowo-skutkowe działania**: Każda scena logicznie wynika z poprzedniej
-- **Progresywna logika**: Systematyczne budowanie dramatu do kulminacji
-- **Ekspozycja retrospektywna**: Historia postaci ujawniana stopniowo przez dialog
-- **Motywowana ekspozycja**: Żadna informacja nie jest podana sztucznie
+**Ibsen's transformation**:
+- **Cause-and-effect actions**: Each scene logically follows from the previous one
+- **Progressive logic**: Systematic building of drama to climax
+- **Retrospective exposition**: Character history revealed gradually through dialogue
+- **Motivated exposition**: No information is given artificially
 
-**Autorzy inspirowani**: George Bernard Shaw przejął tę strukturę w "Pigmalionie", Arthur Miller w "Śmierci komiwojażera" zastosował retrospektywną ekspozycję.
+**Inspired authors**: George Bernard Shaw adopted this structure in "Pygmalion", Arthur Miller used retrospective exposition in "Death of a Salesman".
 
-### 1.2. Rewolucja Prozatorska (1869)
-**Innowacja**: Ibsen jako pierwszy całkowicie porzucił wiersze na rzecz prozy w dramacie poważnym.
+### 1.2. Prose Revolution (1869)
+**Innovation**: Ibsen was the first to completely abandon verse in favor of prose in serious drama.
 
-**Przełom**:
-- Porzucenie rymowanych wersetów
-- Wprowadzenie naturalnego, potocznego dialogu
-- Język bohaterów odpowiadający ich klasie społecznej
-- Dialogi pełne podtekstów i niedopowiedzeń
+**Breakthrough**:
+- Abandonment of rhymed verses
+- Introduction of natural, colloquial dialogue
+- Character language corresponding to their social class
+- Dialogues full of subtexts and implications
 
-**Znaczenie**: Ta decyzja otworzyła drzwi dramatowi realistycznemu i sprawiła, że postaci zaczęły mówić jak prawdziwi ludzie, nie jak figury teatralne.
+**Significance**: This decision opened the door to realistic drama and made characters speak like real people, not theatrical figures.
 
-**Wpływ**: Wszyscy późniejsi realiści - od Czechowa po Williamsa - pisali już prozą dramatyczną.
+**Influence**: All later realists - from Chekhov to Williams - wrote in dramatic prose.
 
-## 2. Innowacje w Charakteryzacji i Psychologii
+## 2. Innovations in Characterization and Psychology
 
-### 2.1. Psychologia Kobiet - Przełom w Charakteryzacji
-**Innowacja**: Ibsen jako pierwszy stworzył psychologicznie złożone postacie kobiece o własnej wewnętrznej logice.
+### 2.1. Female Psychology - Breakthrough in Characterization
+**Innovation**: Ibsen was the first to create psychologically complex female characters with their own internal logic.
 
-**Nowe podejście do kobiet**:
-- **Nora Helmer**: Pierwsza kobieta w dramacie, która rozwija się psychologicznie w trakcie akcji
-- **Wewnętrzna metamorfoza**: Od lalki do świadomej jednostki
-- **Realistyczna psychologia**: Motywacje oparte na prawdziwych konfliktach wewnętrznych
-- **Bunt przeciwko stereotypom**: Odrzucenie ról żony-matki-ozdoby
+**New approach to women**:
+- **Nora Helmer**: First woman in drama who develops psychologically during the action
+- **Internal metamorphosis**: From doll to conscious individual
+- **Realistic psychology**: Motivations based on real internal conflicts
+- **Rebellion against stereotypes**: Rejection of wife-mother-ornament roles
 
-**Autorzy inspirowani**:
-- **George Bernard Shaw**: Eliza Doolittle w "Pigmalionie" przechodzi podobną emancypację
-- **Henrik Ibsen sam**: Hedda Gabler, Pani Alving - kolejne psychologicznie złożone kobiety
-- **Tennessee Williams**: Blanche DuBois jako kontynuacja ibsenowskiej analizy kobiecej psychiki
+**Inspired authors**:
+- **George Bernard Shaw**: Eliza Doolittle in "Pygmalion" undergoes similar emancipation
+- **Henrik Ibsen himself**: Hedda Gabler, Mrs. Alving - more psychologically complex women
+- **Tennessee Williams**: Blanche DuBois as continuation of Ibsen's analysis of female psyche
 
-### 2.2. Technika Podtekstu
-**Innowacja**: Ibsen stworzył teatralny język podtekstów - to, co nie zostaje wypowiedziane, jest równie ważne jak dialog.
+### 2.2. Subtext Technique
+**Innovation**: Ibsen created a theatrical language of subtexts - what is not said is as important as dialogue.
 
-**Mechanizmy**:
-- **Kompresja języka**: Każde słowo ma konkretną funkcję, często więcej niż jedną
-- **Dramatyczna stenografia**: Dialogi pełne niedopowiedzeń
-- **Implikacje**: Złożone stany emocjonalne przekazywane przez sugestie
-- **Symboliczne przedmioty**: Makaroniki, kostium na bal, drzwi - wszystko ma znaczenie
+**Mechanisms**:
+- **Language compression**: Every word has a specific function, often more than one
+- **Dramatic shorthand**: Dialogues full of implications
+- **Implications**: Complex emotional states conveyed through suggestions
+- **Symbolic objects**: Macaroons, ball costume, doors - everything has meaning
 
-**Wpływ**: Czechow rozwinął tę technikę w swoich sztukach, Tennessee Williams używał jej w "Tramwaju zwanym pożądaniem".
+**Influence**: Chekhov developed this technique in his plays, Tennessee Williams used it in "A Streetcar Named Desire".
 
-## 3. Rewolucja Realistyczna
+## 3. Realistic Revolution
 
-### 3.1. Narodziny Nowoczesnego Realizmu Teatralnego
-**Innowacja**: Ibsen stworzył nowy typ teatralnej rzeczywistości - scenę jako przedłużenie prawdziwego życia.
+### 3.1. Birth of Modern Theatrical Realism
+**Innovation**: Ibsen created a new type of theatrical reality - the stage as an extension of real life.
 
-**Elementy realistyczne**:
-- **"Box set"**: Trzy ściany i niewidzialna "czwarta ściana" od strony publiczności
-- **Naturalistyczne scenografie**: Bogactwo szczegółów z życia codziennego
-- **Prawdziwe rekwizyty**: Każdy przedmiot ma uzasadnienie w życiu bohaterów
-- **Kostiumy oddające status społeczny**: Ubrania jako charakterystyka postaci
+**Realistic elements**:
+- **"Box set"**: Three walls and invisible "fourth wall" from the audience side
+- **Naturalistic scenography**: Wealth of details from daily life
+- **Real props**: Every object has justification in characters' lives
+- **Costumes reflecting social status**: Clothing as character characterization
 
-**Znaczenie**: Po raz pierwszy teatr stał się wierne odbicie rzeczywistości mieszczańskiej.
+**Significance**: For the first time, theater became a faithful reflection of bourgeois reality.
 
-### 3.2. Zwyczajni Ludzie jako Bohaterowie Dramatyczni
-**Innowacja**: Ibsen wprowadził na scenę przeciętnych mieszczan z ich codziennymi problemami.
+### 3.2. Ordinary People as Dramatic Heroes
+**Innovation**: Ibsen brought ordinary bourgeois people with their everyday problems to the stage.
 
-**Nowe podejście**:
-- **Porzucenie bohaterów wysokiego urodzenia**: Król, książęta zastąpieni przez bankierów, lekarzy
-- **Prawdziwe problemy społeczne**: Małżeństwo, pieniądze, reputacja społeczna
-- **Psychologia klasy średniej**: Analiza mieszczańskich wartości i hipokryzji
-- **Konflikty realne**: Problemy, które mogą spotkać każdego widza
+**New approach**:
+- **Abandonment of high-born heroes**: Kings, princes replaced by bankers, doctors
+- **Real social problems**: Marriage, money, social reputation
+- **Middle-class psychology**: Analysis of bourgeois values and hypocrisy
+- **Real conflicts**: Problems that could affect any viewer
 
-**Autorzy inspirowani**: Anton Czechow ("Wiśniowy sad"), Arthur Miller ("Śmierć komiwojażera"), August Strindberg ("Ojciec").
+**Inspired authors**: Anton Chekhov ("The Cherry Orchard"), Arthur Miller ("Death of a Salesman"), August Strindberg ("The Father").
 
-## 4. Innowacje w Strukturze Dramatycznej
+## 4. Innovations in Dramatic Structure
 
-### 4.1. Analityczna Struktura Dramatyczna
-**Innowacja**: Ibsen stworzył nowy typ struktury, w której akcja główna wydarzyła się przed początkiem sztuki.
+### 4.1. Analytical Dramatic Structure
+**Innovation**: Ibsen created a new type of structure where the main action happened before the play begins.
 
-**Mechanizm**:
-- **Przeszłość jako teraźniejszość**: Wydarzenia sprzed lat determinują akcję obecną
-- **Odkrywanie prawdy**: Bohaterowie (i widzowie) stopniowo poznają faktyczne wydarzenia
-- **Psychologiczna detekcja**: Nora odkrywa prawdę o sobie i swoim małżeństwie
-- **Kryzys jako rewelacja**: Kulminacja to moment uświadomienia, nie zewnętrznego konfliktu
+**Mechanism**:
+- **Past as present**: Events from years ago determine current action
+- **Discovering truth**: Characters (and viewers) gradually learn actual events
+- **Psychological detection**: Nora discovers the truth about herself and her marriage
+- **Crisis as revelation**: Climax is a moment of realization, not external conflict
 
-**Wpływ**: Ta struktura stała się podstawą współczesnego dramatu psychologicznego.
+**Influence**: This structure became the foundation of contemporary psychological drama.
 
-### 4.2. Otwarte Zakończenia
-**Innowacja**: Ibsen jako pierwszy w dramacie poważnym pozostawił widzów z pytaniami zamiast odpowiedzi.
+### 4.2. Open Endings
+**Innovation**: Ibsen was the first in serious drama to leave viewers with questions instead of answers.
 
-**"Dom lalki"**:
-- **Trzaśnięcie drzwiami**: Nora wychodzi, ale nie wiemy, co dalej
-- **Brak moralnego pouczenia**: Autor nie ocenia decyzji bohaterki
-- **Pytania bez odpowiedzi**: Co stanie się z dziećmi? Czy małżeństwo się odbuduje?
-- **Dyskusja zamiast katharsis**: Widzowie opuszczają teatr, dyskutując
+**"A Doll's House"**:
+- **Door slamming**: Nora leaves, but we don't know what happens next
+- **No moral instruction**: Author doesn't judge the heroine's decision
+- **Questions without answers**: What will happen to the children? Will the marriage rebuild?
+- **Discussion instead of catharsis**: Viewers leave theater discussing
 
-**Znaczenie**: To zakończenie spowodowało rewolucję w funkcji teatru - przestał być rozrywką, stał się forum dyskusji społecznej.
+**Significance**: This ending caused a revolution in theater's function - it stopped being entertainment and became a forum for social discussion.
 
-## 5. Innowacje Językowe i Stylistyczne
+## 5. Linguistic and Stylistic Innovations
 
-### 5.1. Symbolika Przedmiotów
-**Innowacja**: Ibsen stworzył system, w którym każdy przedmiot na scenie ma symboliczne znaczenie.
+### 5.1. Object Symbolism
+**Innovation**: Ibsen created a system where every object on stage has symbolic meaning.
 
-**"Dom lalki" - symbole**:
-- **Makaroniki**: Tajemnice i kłamstwa w małżeństwie
-- **Choinka**: Pozornie piękna fasada ukrywająca problemy
-- **Kostium na bal**: Maska społeczna, którą nosi Nora
-- **Drzwi**: Granica między więzieniem a wolnością
-- **Dom**: Metafora teatru społecznych konwencji
+**"A Doll's House" - symbols**:
+- **Macaroons**: Secrets and lies in marriage
+- **Christmas tree**: Seemingly beautiful facade hiding problems
+- **Ball costume**: Social mask worn by Nora
+- **Doors**: Boundary between prison and freedom
+- **House**: Metaphor for theater of social conventions
 
-**Wpływ**: Symbolika przedmiotów stała się standardowym narzędziem współczesnego dramatu.
+**Influence**: Object symbolism became a standard tool of contemporary drama.
 
-### 5.2. Dialog jako Charakterystyka
-**Innowacja**: Ibsen jako pierwszy uczynił sposób mówienia głównym narzędziem charakteryzacji.
+### 5.2. Dialogue as Characterization
+**Innovation**: Ibsen was the first to make speech patterns the main tool of characterization.
 
-**Techniki**:
-- **Idiolekt postaci**: Każda postać ma charakterystyczny sposób mówienia
-- **Język jako status**: Sposób wyrażania się odzwierciedla pozycję społeczną
-- **Ewolucja języka**: Nora mówi inaczej na początku i na końcu sztuki
-- **Milczenie jako wypowiedź**: Pauzy i przerwy są częścią charakteryzacji
+**Techniques**:
+- **Character idiolect**: Each character has a distinctive way of speaking
+- **Language as status**: Way of expression reflects social position
+- **Language evolution**: Nora speaks differently at the beginning and end of the play
+- **Silence as speech**: Pauses and breaks are part of characterization
 
-## 6. Wpływ na Rozwój Literatury
+## 6. Influence on Literature Development
 
-### 6.1. Stworzenie Dramatu Problemowego
-**Innowacja**: Ibsen stworzył nowy gatunek - "problem play" (dramat problemowy).
+### 6.1. Creation of Problem Play
+**Innovation**: Ibsen created a new genre - the "problem play".
 
-**Charakterystyka**:
-- **Społeczne tabu jako temat**: Rozwód, choroba psychiczna, prostytucja
-- **Analiza problemów współczesnych**: Nie historia, ale aktualne zagadnienia
-- **Brak jednoznacznych rozwiązań**: Pokazywanie złożoności problemów
-- **Teatr jako forum społeczne**: Scena jako miejsce debaty publicznej
+**Characteristics**:
+- **Social taboos as subject**: Divorce, mental illness, prostitution
+- **Analysis of contemporary problems**: Not history, but current issues
+- **No clear solutions**: Showing complexity of problems
+- **Theater as social forum**: Stage as place of public debate
 
-**Kontynuatorzy**:
-- **George Bernard Shaw**: "Zawód pani Warren" (prostytucja)
-- **John Galsworthy**: "Sprawiedliwość" (system prawny)
-- **Harley Granville-Barker**: "Odpady" (problemy społeczne)
+**Continuators**:
+- **George Bernard Shaw**: "Mrs. Warren's Profession" (prostitution)
+- **John Galsworthy**: "Justice" (legal system)
+- **Harley Granville-Barker**: "Waste" (social problems)
 
-### 6.2. Wpływ na Pisarzy Światowej Klasy
+### 6.2. Influence on World-Class Writers
 
 **George Bernard Shaw**:
-- Napisał "The Quintessence of Ibsenism" (1891) - klasyczne studium
-- Przejął strukturę analityczną w "Pigmalionie"
-- Używał teatru jako platform społecznych idei
+- Wrote "The Quintessence of Ibsenism" (1891) - classic study
+- Adopted analytical structure in "Pygmalion"
+- Used theater as platform for social ideas
 
 **Eugene O'Neill**:
-- W wieku 17 lat przeczytał "Kwintesencję ibsenizmu" Shaw'a
-- Zastosował ibsenowską psychologię w "Long Day's Journey Into Night"
-- Użył retrospektywnej ekspozycji w trylogii "Mourning Becomes Electra"
+- At age 17 read Shaw's "The Quintessence of Ibsenism"
+- Applied Ibsen's psychology in "Long Day's Journey Into Night"
+- Used retrospective exposition in trilogy "Mourning Becomes Electra"
 
 **Arthur Miller**:
-- "Śmierć komiwojażera" - ibsenowska analiza społeczeństwa amerykańskiego
-- Struktura analityczna w "All My Sons"
-- Psychologia jednostki w konflikcie ze społeczeństwem
+- "Death of a Salesman" - Ibsen's analysis of American society
+- Analytical structure in "All My Sons"
+- Psychology of individual in conflict with society
 
 **Tennessee Williams**:
-- Podteksty w "Tramwaju zwanym pożądaniem"
-- Symbolika przedmiotów w "Szklanej menażerii"
-- Psychologiczne portrety kobiet
+- Subtexts in "A Streetcar Named Desire"
+- Object symbolism in "The Glass Menagerie"
+- Psychological portraits of women
 
-**Anton Czechow**:
-- Rozwinął ibsenowską technikę podtekstów
-- Stworzył własną wersję codziennego realizmu
-- Użył otwartych zakończeń
+**Anton Chekhov**:
+- Developed Ibsen's subtext technique
+- Created his own version of everyday realism
+- Used open endings
 
-## 7. Rewolucje w Konstrukcji Postaci
+## 7. Revolutions in Character Construction
 
-### 7.1. Postaci Jako Procesy, Nie Typy
-**Innowacja**: Bohaterowie Ibsena nie są statycznymi typami, ale rozwijającymi się osobowościami.
+### 7.1. Characters as Processes, Not Types
+**Innovation**: Ibsen's heroes are not static types but developing personalities.
 
-**Nora Helmer - analiza procesu**:
-- **Akt I**: Beztroskaj lalka, żona-dziecko
-- **Akt II**: Przebudzenie świadomości, lęk przed konsekwencjami
-- **Akt III**: Pełne uświadomienie, decyzja o samostanowieniu
+**Nora Helmer - process analysis**:
+- **Act I**: Carefree doll, child-wife
+- **Act II**: Awakening consciousness, fear of consequences
+- **Act III**: Full realization, decision for self-determination
 
-**Znaczenie**: Ta technika stała się podstawą psychologicznego realizmu.
+**Significance**: This technique became the foundation of psychological realism.
 
-### 7.2. Motivacja Wewnętrzna Zamiast Zewnętrznych Zdarzeń
-**Innowacja**: Akcja w sztukach Ibsena jest napędzana przez wewnętrzne konflikty postaci, nie zewnętrzne przygody.
+### 7.2. Internal Motivation Instead of External Events
+**Innovation**: Action in Ibsen's plays is driven by characters' internal conflicts, not external adventures.
 
-**Mechanizm w "Domu lalki"**:
-- **Kryzys wewnętrzny**: Nora odkrywa, kim naprawdę jest
-- **Konfrontacja z prawdą**: O sobie, mężu, małżeństwie
-- **Wybór egzystencjalny**: Pozostanie lalką czy stanie się człowiekiem
+**Mechanism in "A Doll's House"**:
+- **Internal crisis**: Nora discovers who she really is
+- **Confrontation with truth**: About herself, husband, marriage
+- **Existential choice**: Remain a doll or become a human being
 
-## 8. Innowacje w Technikach Scenicznych
+## 8. Innovations in Scenic Techniques
 
-### 8.1. Naturalistyczna Reżyseria
-**Innowacja**: Ibsen wymagał nowego stylu gry aktorskiej - naturalnego, nie deklamacyjnego.
+### 8.1. Naturalistic Direction
+**Innovation**: Ibsen required a new style of acting - natural, not declamatory.
 
-**Nowe wymagania**:
-- **Psychologiczna intensywność**: Aktorzy musieli odgrywać złożone stany emocjonalne
-- **Naturalne zachowanie**: Koniec z teatralnym pozowaniem
-- **Koncentracja na szczegółach**: Każdy gest ma znaczenie
-- **Prawdziwe emocje**: Nie zewnętrzne efekty, ale autentyczne przeżycia
+**New requirements**:
+- **Psychological intensity**: Actors had to portray complex emotional states
+- **Natural behavior**: End of theatrical posing
+- **Focus on details**: Every gesture has meaning
+- **Real emotions**: Not external effects, but authentic experiences
 
-### 8.2. Wykorzystanie Obrazowości Wizualnej
-**Innowacja**: Ibsen nadał poezję dramacie prozatorskiemu przez scenografię, kostiumy i reżyserię.
+### 8.2. Use of Visual Imagery
+**Innovation**: Ibsen gave poetry to prose drama through scenography, costumes and direction.
 
-**Elementy wizualne**:
-- **Scenografia jako metafora**: Dom jako klatka
-- **Kostiumy jako charakterystyka**: Strój odzwierciedlający osobowość
-- **Rekwizyty symboliczne**: Każdy przedmiot ma znaczenie
-- **Oświetlenie nastrojowe**: Światło wspierające psychologię scen
+**Visual elements**:
+- **Scenography as metaphor**: House as cage
+- **Costumes as characterization**: Attire reflecting personality
+- **Symbolic props**: Every object has meaning
+- **Mood lighting**: Light supporting psychology of scenes
 
-## 9. Stworzenie Nowych Konwencji Teatralnych
+## 9. Creation of New Theatrical Conventions
 
-### 9.1. Czwarta Ściana
-**Innowacja**: Ibsen udoskonalił konwencję "czwartej ściany" - niewidzialnej granicy między sceną a widownią.
+### 9.1. Fourth Wall
+**Innovation**: Ibsen perfected the convention of the "fourth wall" - invisible boundary between stage and audience.
 
-**Znaczenie**:
-- **Illuzja rzeczywistości**: Widzowie jako obserwatorzy prawdziwego życia
-- **Intymność**: Wgląd w prywatne życie bohaterów
-- **Podglądanie**: Publiczność jako świadkowie sekretów
+**Significance**:
+- **Illusion of reality**: Viewers as observers of real life
+- **Intimacy**: Insight into characters' private lives
+- **Voyeurism**: Audience as witnesses to secrets
 
-**Przełamanie**: Już w "Domu lalki" Nora przemawia jak gdyby do całej publiczności, tworząc pęknięcia w czwartej ścianie.
+**Breaking**: Already in "A Doll's House" Nora speaks as if to the entire audience, creating cracks in the fourth wall.
 
-### 9.2. Eliminacja Sztucznych Konwencji
-**Innowacja**: Ibsen usunął z dramatu wszystkie sztuczne elementy teatralne.
+### 9.2. Elimination of Artificial Conventions
+**Innovation**: Ibsen removed all artificial theatrical elements from drama.
 
-**Co usunął**:
-- **Solilokwia**: Monologi do publiczności
-- **Asides**: Uwagi na stronie
-- **Deus ex machina**: Sztuczne rozwikłania
-- **Chóry**: Komentarze zewnętrzne
-- **Wierszowane dialogi**: Nienaturalne sposoby mówienia
+**What he removed**:
+- **Soliloquies**: Monologues to the audience
+- **Asides**: Side comments
+- **Deus ex machina**: Artificial resolutions
+- **Choruses**: External commentary
+- **Versified dialogues**: Unnatural ways of speaking
 
-**Co wprowadził**:
-- **Naturalne dialogi**: Rozmowy jak w prawdziwym życiu
-- **Organiczne rozwikłania**: Wynikające z logiki zdarzeń
-- **Psychologiczna motywacja**: Wszystko ma uzasadnienie w charakterach
+**What he introduced**:
+- **Natural dialogues**: Conversations like in real life
+- **Organic resolutions**: Resulting from logic of events
+- **Psychological motivation**: Everything has justification in characters
 
-## 10. Wpływ na Nowoczesne Pisarstwo
+## 10. Influence on Modern Writing
 
-### 10.1. Dramat Jako Literatura
-**Innowacja**: Ibsen udowodnił, że dramat może być równie wartościowy literacko jak poezja czy proza.
+### 10.1. Drama as Literature
+**Innovation**: Ibsen proved that drama can be as literarily valuable as poetry or prose.
 
-**Osiągnięcia**:
-- **Głębia psychologiczna**: Porównywalna z najlepszymi powieściami
-- **Społeczna waga**: Sztuki stały się wydarzeniami społecznymi
-- **Trwałość**: Teksty czytane niezależnie od wystawień
-- **Wpływ kulturowy**: Kształtowanie opinii publicznej
+**Achievements**:
+- **Psychological depth**: Comparable to the best novels
+- **Social weight**: Plays became social events
+- **Permanence**: Texts read independently of performances
+- **Cultural influence**: Shaping public opinion
 
-### 10.2. Międzynarodowy Zasięg Oddziaływania
-**Innowacja**: Po raz pierwszy w historii dramat norweski wpłynął na teatr światowy.
+### 10.2. International Reach of Influence
+**Innovation**: For the first time in history, Norwegian drama influenced world theater.
 
-**Rozprzestrzenienie**:
-- **Europa**: Shaw w Anglii, Hauptmann w Niemczech
-- **Rosja**: Czechow, Stanisławski i Moskiewski Teatr Artystyczny
-- **Ameryka**: O'Neill, Miller, Williams
-- **Azja i Trzeci Świat**: W XX wieku forma ibsenowska stała się symbolem nowoczesnego zachodniego dramatu
+**Spread**:
+- **Europe**: Shaw in England, Hauptmann in Germany
+- **Russia**: Chekhov, Stanislavski and Moscow Art Theatre
+- **America**: O'Neill, Miller, Williams
+- **Asia and Third World**: In the 20th century, Ibsen's form became a symbol of modern Western drama
 
-## Podsumowanie: Rewolucja Która Trwa
+## Summary: The Revolution That Continues
 
-Henrik Ibsen w "Domu lalki" nie tylko stworzył rewolucyjną sztukę - stworzył nowy język teatru. Jego innowacje:
+Henrik Ibsen in "A Doll's House" not only created a revolutionary play - he created a new language of theater. His innovations:
 
-1. **Strukturalne**: Analityczna dramaturgia, otwarte zakończenia
-2. **Językowe**: Prozy realistyczna, dialogi z podtekstami
-3. **Psychologiczne**: Złożone charakteryzacje, rozwój postaci
-4. **Społeczne**: Dramat problemowy, teatr jako forum
-5. **Sceniczne**: Naturalizm, symbolika wizualna
-6. **Gatunkowe**: Nowy typ realizmu teatralnego
+1. **Structural**: Analytical dramaturgy, open endings
+2. **Linguistic**: Realistic prose, dialogues with subtexts
+3. **Psychological**: Complex characterizations, character development
+4. **Social**: Problem play, theater as forum
+5. **Scenic**: Naturalism, visual symbolism
+6. **Generic**: New type of theatrical realism
 
-Te techniki stały się fundamentem współczesnego pisarstwa dramatycznego. Każdy poważny dramaturg XX i XXI wieku - świadomie czy nie - korzysta z warsztatowych odkryć Ibsena. "Dom lalki" pozostaje nie tylko arcydziełem, ale podręcznikiem rewolucyjnych technik pisarskich, które zmieniły literaturę światową.
+These techniques became the foundation of contemporary dramatic writing. Every serious dramatist of the 20th and 21st centuries - consciously or not - uses Ibsen's technical discoveries. "A Doll's House" remains not only a masterpiece but a handbook of revolutionary writing techniques that changed world literature.
 
-**Data przemyślenia tego wszystkiego**: 4 grudnia 1879 - dzień, kiedy trzaśnięcie drzwiami Nory otworzyło drzwi nowoczesnej literaturze.
+**The date when all this was conceived**: December 4, 1879 - the day when Nora's door slam opened the door to modern literature.

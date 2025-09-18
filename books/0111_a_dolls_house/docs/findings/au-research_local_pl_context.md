@@ -1,160 +1,160 @@
-# Lokalny Kontekst Kulturowy: "Dom lalki" Henrika Ibsena w Polsce
+# Local Cultural Context: Henrik Ibsen's "A Doll's House" in Poland
 
-## Wprowadzenie
-"Dom lalki" (Et dukkehjem) Henrika Ibsena z 1879 roku to jedno z najważniejszych dzieł teatru światowego, które wywołało rewolucję w postrzeganiu ról kobiecych i społecznych konwenansów. W polskim kontekście kulturowym sztuka ta zyskała szczególną recepcję, związaną ze specyfiką polskiej sytuacji historycznej, tradycji katolickiej oraz procesów emancypacji kobiet.
+## Introduction
+"A Doll's House" (Et dukkehjem) by Henrik Ibsen from 1879 is one of the most important works of world theater, which caused a revolution in the perception of women's roles and social conventions. In the Polish cultural context, this play gained special reception, related to the specificity of the Polish historical situation, Catholic tradition and women's emancipation processes.
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Wczesne Wydania Polskie
-- **"Nora czyli dom lalki"** - pierwsze polskie wydanie z 1882 roku, zaledwie 3 lata po norweskim oryginale
-- W Polsce w latach 1875-1968 ukazało się kilkadziesiąt przekładów dzieł Ibsena
-- Dzieła Ibsena były ogromnie popularne w Polsce na przełomie XIX i XX wieku
-- W porównaniu z przyjęciem na Zachodzie, Polska może wydawać się ostoją liberalizmu i awangardy artystycznej
+### Early Polish Editions
+- **"Nora or A Doll's House"** - first Polish edition from 1882, only 3 years after the Norwegian original
+- In Poland between 1875-1968, several dozen translations of Ibsen's works were published
+- Ibsen's works were enormously popular in Poland at the turn of the 19th and 20th centuries
+- Compared to the reception in the West, Poland might seem like a stronghold of liberalism and artistic avant-garde
 
-### Współczesne Tłumaczenia
-- **Anna Marciniakówna** - autorka pierwszego polskiego tłumaczenia bezpośrednio z języka norweskiego (wcześniejsze były z języków pośrednich)
-- To tłumaczenie jest używane w najważniejszych współczesnych inscenizacjach teatralnych
+### Contemporary Translations
+- **Anna Marciniakówna** - author of the first Polish translation directly from Norwegian (earlier ones were from intermediate languages)
+- This translation is used in the most important contemporary theatrical productions
 
-## Polscy Teatr i Inscenizacje
+## Polish Theater and Productions
 
-### Teatr Narodowy w Warszawie
-- **Premiera:** 21 kwietnia 2006 roku
-- **Reżyseria:** Agnieszka Olsten
-- **Tłumaczenie:** Anna Marciniakówna
+### National Theater in Warsaw
+- **Premiere:** April 21, 2006
+- **Director:** Agnieszka Olsten
+- **Translation:** Anna Marciniakówna
 
-### Teatr Polski im. Arnolda Szyfmana w Warszawie
-- **Premiera:** 6 października 2017 roku
-- **Reżyseria:** Agnieszka Lipiec-Wróblewska
-- **Obsada:** Eliza Borowska (Nora), Krystian Modzelewski (Torwald), Piotr Bajtlik (Krogstad)
-- **Interpretacja:** "Ta sztuka jest wciąż aktualna, bo mówi o tym, że nie podejmujemy wolnych wyborów ze względu na umowę społeczną i kulturowe nawyki"
+### Arnold Szyfman Polish Theater in Warsaw
+- **Premiere:** October 6, 2017
+- **Director:** Agnieszka Lipiec-Wróblewska
+- **Cast:** Eliza Borowska (Nora), Krystian Modzelewski (Torwald), Piotr Bajtlik (Krogstad)
+- **Interpretation:** "This play is still relevant because it talks about how we don't make free choices due to social contract and cultural habits"
 
-### Teatr Nowy w Poznaniu
-- **Premiera:** 14 września 2012 roku
-- **Reżyseria:** Michał Siegoczyński
-- **Adaptacja:** Szymon Adamczak, Michał Siegoczyński, Kuba Mokrosiński
-- **Koncepcja:** Współczesna adaptacja, gdzie Nora staje się gwiazdą sceny muzycznej, produktem popkultury wykreowanym przez męża-menedżera
+### New Theater in Poznań
+- **Premiere:** September 14, 2012
+- **Director:** Michał Siegoczyński
+- **Adaptation:** Szymon Adamczak, Michał Siegoczyński, Kuba Mokrosiński
+- **Concept:** Contemporary adaptation where Nora becomes a music scene star, a pop culture product created by her husband-manager
 
-### Teatr Polski w Warszawie (historyczna produkcja)
-- **Premiera:** 3 maja 1958 roku
-- **Reżyseria:** Maria Wiercińska
+### Polish Theater in Warsaw (historical production)
+- **Premiere:** May 3, 1958
+- **Director:** Maria Wiercińska
 
-## Recepcja Akademicka w Polsce
+## Academic Reception in Poland
 
-### Wczesna Recepcja Naukowa
-- "W Polsce jego talent dostrzeżono i doceniono wyjątkowo szybko"
-- Ibsen nie wywołał w Polsce takiego oburzenia jak w ojczyźnie czy Anglii
-- Polski teatr po lekcji romantycznego dramatu był lepiej przygotowany na radykalne sztuki Ibsena
+### Early Academic Reception
+- "In Poland his talent was recognized and appreciated exceptionally quickly"
+- Ibsen did not cause such outrage in Poland as in his homeland or England
+- Polish theater, after the lesson of romantic drama, was better prepared for Ibsen's radical plays
 
-### Współczesne Badania Akademickie
-- **"Ibsen w Polsce 1879-2006"** autorstwa Katarzyny Maćkały - kompleksowe studium recepcji
-- Artykuł "Max Stirner i Henrik Ibsen: dalecy i bliscy" w "Folia Scandinavica Posnaniensia"
-- Powojenna recepcja naukowa twórczości Norwega opisywana jako "mizerna"
+### Contemporary Academic Research
+- **"Ibsen in Poland 1879-2006"** by Katarzyna Maćkała - comprehensive reception study
+- Article "Max Stirner and Henrik Ibsen: distant and close" in "Folia Scandinavica Posnaniensia"
+- Post-war academic reception of the Norwegian's work described as "meager"
 
-### Materiały Edukacyjne
-- Dostępne materiały do analizy "Nora. Dom lalki" na poziomie licealnym
-- Wykorzystywane w przygotowaniach do rozszerzonej matury z języka polskiego
-- **Nie ma na oficjalnej liście lektur szkolnych** polskiego Ministerstwa Edukacji
+### Educational Materials
+- Available materials for analyzing "Nora. A Doll's House" at high school level
+- Used in preparations for extended Polish language final exams
+- **Not on the official school reading list** of the Polish Ministry of Education
 
-## Kontekst Kulturowy i Społeczny
+## Cultural and Social Context
 
-### Różnice w Recepcji
-Polska recepcja "Domu lalki" różniła się znacząco od zachodnioeuropejskiej ze względu na:
-- **Sytuację polityczną:** W Polsce brak było silnego mieszczaństwa, które Ibsen krytykował
-- **Doświadczenie romantyczne:** Polski teatr był przygotowany na radykalne treści po tradycji dramatu romantycznego
-- **Sytuacja narodowa:** Losy Norwega podległej Szwecji i Danii wydawały się Polakom szczególnie bliskie
+### Differences in Reception
+Polish reception of "A Doll's House" differed significantly from Western European due to:
+- **Political situation:** Poland lacked the strong bourgeoisie that Ibsen criticized
+- **Romantic experience:** Polish theater was prepared for radical content after the tradition of romantic drama
+- **National situation:** The fate of Norway subjugated to Sweden and Denmark seemed particularly close to Poles
 
-### Emancypacja Kobiet w Polsce vs. Nora Helmer
-Polska emancypacja kobiet miała specyfikę różną od zachodniej:
-- **Główne postulaty:** Nie były to prawa wyborcze, ale walka o niepodległość, tożsamość narodową, poprawę warunków materialnych i prawo do wyższego wykształcenia
-- **Kontekst religijny:** Silna tradycja katolicka wpłynęła na inne postrzeganie ról kobiecych
-- **Osiągnięcia:** Polki otrzymały prawa wyborcze w 1918 roku, wcześniej niż Amerykanki (1920)
-- **Różnica w podejściu:** Polskie ruchy kobiece były bardziej zorientowane społecznie i patriotycznie niż indywidualistycznie
+### Women's Emancipation in Poland vs. Nora Helmer
+Polish women's emancipation had a specificity different from the Western one:
+- **Main demands:** These were not voting rights, but the fight for independence, national identity, improvement of material conditions and the right to higher education
+- **Religious context:** Strong Catholic tradition influenced different perception of women's roles
+- **Achievements:** Polish women received voting rights in 1918, earlier than American women (1920)
+- **Difference in approach:** Polish women's movements were more socially and patriotically oriented than individualistically
 
-## Interpretacje w Kontekście Polskim
+## Interpretations in Polish Context
 
-### Tradycja vs. Rewolucja
-- Ibsen podejmował tematy zderzające się z tradycyjnymi wartościami
-- "Dom lalki" rozbijał mit idealnego społeczeństwa i rodzinnej idylli
-- Gest Nory - odejście od rodziny - był rewolucyjny, ale w Polsce nie wywołał takiego skandalu jak gdzie indziej
+### Tradition vs. Revolution
+- Ibsen addressed topics clashing with traditional values
+- "A Doll's House" shattered the myth of ideal society and family idyll
+- Nora's gesture - leaving the family - was revolutionary, but in Poland it didn't cause such scandal as elsewhere
 
-### Katolicki Kontekst Kulturowy
-- Tradycja protestancka Ibsena zderzała się z polskim katolicyzmem
-- Mimo to recepcja była łagodniejsza niż w krajach protestanckich
-- Polski kontekst społeczno-kulturowy złagodził radykalizm przesłania
+### Catholic Cultural Context
+- Ibsen's Protestant tradition clashed with Polish Catholicism
+- Despite this, reception was milder than in Protestant countries
+- Polish socio-cultural context softened the radicalism of the message
 
-## Współczesne Adaptacje i Interpretacje
+## Contemporary Adaptations and Interpretations
 
-### Filmowe Adaptacje
-- **2015:** "A Doll's House" - produkcja odnotowana na Filmweb.pl
-- Brak większych polskich adaptacji filmowych czy telewizyjnych "Domu lalki" Ibsena
-- Często mylone z adaptacjami "Lalki" Bolesława Prusa
+### Film Adaptations
+- **2015:** "A Doll's House" - production noted on Filmweb.pl
+- Lack of major Polish film or television adaptations of Ibsen's "A Doll's House"
+- Often confused with adaptations of "The Doll" by Bolesław Prus
 
-### Teatralne Reinterpretacje
-- **Poznańska adaptacja (2012):** Przeniesienie akcji do świata muzyki pop, Nora jako gwiazda kontrolowana przez męża-menedżera
-- **Współczesne inscenizacje:** Akcentują aktualność problematyki w kontekście współczesnych ról społecznych
+### Theatrical Reinterpretations
+- **Poznań adaptation (2012):** Transferring action to the pop music world, Nora as a star controlled by her husband-manager
+- **Contemporary productions:** Emphasize the relevance of the issues in the context of contemporary social roles
 
-## Polskie Nazwiska i Osobistości
+## Polish Names and Personalities
 
-### Tłumacze
-- **Anna Marciniakówna** - pierwsza tłumaczka z oryginału norweskiego
-- **J. Frühling, J. Giebułtowicz** - autorzy wcześniejszych przekładów (1983)
+### Translators
+- **Anna Marciniakówna** - first translator from Norwegian original
+- **J. Frühling, J. Giebułtowicz** - authors of earlier translations (1983)
 
-### Reżyserzy i Aktorzy
-- **Agnieszka Lipiec-Wróblewska** - reżyserka współczesnej inscenizacji w Teatrze Polskim
-- **Agnieszka Olsten** - reżyserka inscenizacji w Teatrze Narodowym
-- **Michał Siegoczyński** - autor nowoczesnej adaptacji poznańskiej
-- **Eliza Borowska** - odtwórczyni roli Nory w Teatrze Polskim (2017)
+### Directors and Actors
+- **Agnieszka Lipiec-Wróblewska** - director of contemporary production at Polish Theater
+- **Agnieszka Olsten** - director of production at National Theater
+- **Michał Siegoczyński** - author of modern Poznań adaptation
+- **Eliza Borowska** - performer of Nora's role at Polish Theater (2017)
 
-### Badacze i Krytycy
-- **Katarzyna Maćkała** - autorka monografii "Ibsen w Polsce 1879-2006"
-- **O. Dobijanka-Witczakowa** - redaktor wydania dramatów Ibsena (1983)
+### Researchers and Critics
+- **Katarzyna Maćkała** - author of monograph "Ibsen in Poland 1879-2006"
+- **O. Dobijanka-Witczakowa** - editor of Ibsen's dramas edition (1983)
 
-## Lokalne Nawiązania Kulturowe
+## Local Cultural References
 
-### Połączenia z Polską Historią
-- Recepcja "Domu lalki" w okresie zaborów - problem utraty suwerenności narodowej
-- Okres międzywojenny - odzyskana niepodległość i nowe role społeczne
-- PRL - problematyka indywidualności vs. system społeczny
-- Transformacja ustrojowa - nowe rozumienie wolności osobistej
+### Connections with Polish History
+- Reception of "A Doll's House" during partitions - problem of loss of national sovereignty
+- Interwar period - regained independence and new social roles
+- PRL period - issues of individuality vs. social system
+- Political transformation - new understanding of personal freedom
 
-### Związki z Regionem (Kraków, Małopolska)
-- Krakowski kontekst akademicki - studia nad dramatem skandynawskim
-- Małopolska tradycja teatralna i recepcja dramatów europejskich
-- Lokalne inscenizacje w teatrach regionalnych
+### Regional Connections (Kraków, Lesser Poland)
+- Kraków academic context - studies on Scandinavian drama
+- Lesser Poland theatrical tradition and reception of European dramas
+- Local productions in regional theaters
 
-## Wpływ na Polską Kulturę
+## Impact on Polish Culture
 
-### Teatr Polski
-- Przygotowanie publiczności na nowatorstwo dramaturgiczne
-- Wpływ na rozwój realizmu w teatrze polskim
-- Inspiracja dla polskich dramatopisarzy (np. Gabriela Zapolska)
+### Polish Theater
+- Preparing audiences for dramaturgical innovation
+- Influence on the development of realism in Polish theater
+- Inspiration for Polish playwrights (e.g., Gabriela Zapolska)
 
-### Ruchy Społeczne
-- Wpływ na polskie ruchy kobiece, choć w innym kontekście niż na Zachodzie
-- Inspiracja dla dyskusji o tradycyjnych rolach społecznych
-- Influence na debaty o modernizacji społeczeństwa
+### Social Movements
+- Impact on Polish women's movements, though in different context than in the West
+- Inspiration for discussions about traditional social roles
+- Influence on debates about society modernization
 
-## Współczesna Społeczność i Recepcja
+## Contemporary Community and Reception
 
-### Internet i Kultura Popularna
-- Brak wyraźnej społeczności fanowskiej "Domu lalki" w polskim internecie
-- Obecność w materiałach edukacyjnych online
-- Wykorzystywanie w dyskusjach o współczesnych prawach kobiet
+### Internet and Popular Culture
+- Lack of distinct fan community of "A Doll's House" in Polish internet
+- Presence in online educational materials
+- Use in discussions about contemporary women's rights
 
-### Obecność w Edukacji
-- Materiały dostępne w serwisie "Wolne Lektury"
-- Księgarnie oferują wydania ze szczegółowymi opracowaniami
-- Wykorzystywanie w programach studiów teatrologicznych i filologicznych
+### Presence in Education
+- Materials available on "Wolne Lektury" (Free Readings) website
+- Bookstores offer editions with detailed studies
+- Use in theater studies and philological programs
 
-## Wnioski
+## Conclusions
 
-"Dom lalki" Henrika Ibsena w polskim kontekście kulturowym prezentuje fascynujący przykład adaptacji dzieła światowego do lokalnych warunków społeczno-kulturowych. Polska recepcja charakteryzowała się:
+Henrik Ibsen's "A Doll's House" in Polish cultural context presents a fascinating example of adapting a world work to local socio-cultural conditions. Polish reception was characterized by:
 
-1. **Wczesnym i pozytywnym przyjęciem** - szybsze niż w krajach zachodnich
-2. **Łagodniejszą reakcją** niż w krajach protestanckich
-3. **Kontekstem narodowowyzwoleńczym** - problemy indywidualne w kontekście narodowym
-4. **Specyfiką polskiej emancypacji** - odmienną od zachodniego feminizmu
-5. **Trwałą obecnością w teatrze** - regularne wznowienia przez ponad 140 lat
-6. **Brakiem oficjalnego statusu lektury szkolnej** mimo znaczenia kulturowego
+1. **Early and positive acceptance** - faster than in Western countries
+2. **Milder reaction** than in Protestant countries
+3. **National liberation context** - individual problems in national context
+4. **Specificity of Polish emancipation** - different from Western feminism
+5. **Lasting presence in theater** - regular revivals for over 140 years
+6. **Lack of official school reading status** despite cultural significance
 
-Sztuka pozostaje żywa w polskim teatrze współczesnym, znajdując nowe interpretacje dostosowane do aktualnych wyzwań społecznych, jednocześnie zachowując uniwersalny charakter przesłania o potrzebie autentyczności i wolności jednostki.
+The play remains alive in contemporary Polish theater, finding new interpretations adapted to current social challenges, while maintaining the universal character of the message about the need for authenticity and individual freedom.

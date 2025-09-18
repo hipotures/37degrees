@@ -1,0 +1,12 @@
+media_info:
+  title: "Dyatlov Pass Incident - February 1-2, 1959"
+  author: "Historical Documentation"
+  year: 1959
+  genre: "Mystery Documentary"
+  description: "Nine experienced hikers die mysteriously in the Ural Mountains after fleeing their tent into freezing conditions"
+  target_audience: "General public, students, mystery enthusiasts, outdoor adventure community"
+  duration: "~3 minutes"
+  objective: "Recreate the enigmatic deaths that spawned theories from avalanche to military testing to unknown natural forces"
+  scene_count: 10
+  graphics_style: "stark-survival-horror"
+  scene_generator: "narrative"

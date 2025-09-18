@@ -1,0 +1,12 @@
+media_info:
+  title: "Rendlesham Forest Incident - December 1980"
+  author: "Historical Documentation"
+  year: 1980
+  genre: "Unexplained Phenomena Documentary"
+  description: "The mysterious lights and alleged UFO landing witnessed by US military personnel at RAF Woodbridge in Suffolk, England"
+  target_audience: "General public, students, UFO researchers, military history enthusiasts"
+  duration: "~3 minutes"
+  objective: "Recreate the atmospheric forest encounters and military investigation documented in the Halt Memo and audio recordings"
+  scene_count: 10
+  graphics_style: "cinematic-documentary-realism"
+  scene_generator: "narrative"

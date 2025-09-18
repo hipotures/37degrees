@@ -1,0 +1,12 @@
+media_info:
+  title: "Belgian UFO Wave - 1989-1990"
+  author: "Historical Documentation"
+  year: 1990
+  genre: "Unexplained Phenomena Documentary"
+  description: "Mass sightings of triangular UFOs across Belgium culminating in F-16 fighter jet intercept attempts on March 30-31, 1990"
+  target_audience: "General public, students, UFO researchers, aviation enthusiasts"
+  duration: "~3 minutes"
+  objective: "Recreate the unprecedented wave of UFO sightings that involved thousands of witnesses and official military response"
+  scene_count: 10
+  graphics_style: "cinematic-documentary-realism"
+  scene_generator: "narrative"

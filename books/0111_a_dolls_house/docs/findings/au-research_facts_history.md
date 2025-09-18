@@ -1,206 +1,206 @@
-# Fascynujące fakty z historii powstania "Dom lalki" (A Doll's House)
+# Fascinating Facts from the Creation History of "A Doll's House"
 
-## Podstawowe informacje
-- **Tytuł**: "Dom lalki" (Et dukkehjem)
-- **Autor**: Henrik Ibsen
-- **Rok publikacji**: 1879
-- **Miejsce powstania**: Rzym, Włochy / Monachium, Niemcy
-
----
-
-## 🎭 Historia powstania i proces twórczy
-
-### **FAKT**: Ibsen pisał sztukę przez cały rok - od maja 1878 do września 1879
-Henrik Ibsen rozpoczął myślenie o sztuce około maja 1878 roku, ale pierwszą wersję szkicu napisał dopiero rok później, dając sobie ogromną ilość czasu na rozwinięcie tematów i postaci.
-
-### **FAKT**: Pierwsze notatki powstały 19 października 1878 roku w Rzymie
-Ibsen naszkicował swoją koncepcję sztuki jako "nowożytnej tragedii" w notatce napisanej w Rzymie 19 października 1878 roku, która reprezentuje pierwszy znany szkic sztuki zatytułowany "Notatki o tragedii współczesnej epoki".
-
-### **FAKT**: Manuskrypt został ukończony 15 września 1879 roku
-Ibsen wysłał przepisaną na czysto wersję ukończonej sztuki do swojego wydawcy 15 września 1879 roku, dokładnie po roku intensywnej pracy.
-
-### **FAKT**: Ibsen miał 51 lat, gdy pisał "Dom lalki"
-W 1879 roku, kiedy publikował swoje arcydzieło, Ibsen był już dojrzałym dramaturgiem w średnim wieku, żyjącym z żoną Suzannah Thoresen (pobrali się w 1858) i 20-letnim synem Sigurdem.
-
-### **FAKT**: Sztuka powstała podczas dobrowolnego wygnania w Europie
-Ibsen opuścił Norwegię w 1864 roku i spędził następne 27 lat we Włoszech i Niemczech. "Dom lalki" napisał podczas pobytu we Włoszech, głównie w Amalfi.
+## Basic Information
+- **Title**: "A Doll's House" (Et dukkehjem)
+- **Author**: Henrik Ibsen
+- **Publication Year**: 1879
+- **Place of Creation**: Rome, Italy / Munich, Germany
 
 ---
 
-## 📚 Inspiracje i prawdziwe historie
+## 🎭 Creation History and Creative Process
 
-### **FAKT**: Laura Kieler - prawdziwa Nora, która została zamknięta w zakładzie psychiatrycznym
-Sztuka została oparta na życiu Laury Kieler (1849-1932), przyjaciółki rodziny Ibsenów. W rzeczywistości nie sfałszowała podpisu, ale gdy jej mąż Victor odkrył jej sekret, rozwiódł się z nią i zmusił do umieszczenia w zakładzie psychiatrycznym.
+### **FACT**: Ibsen wrote the play for an entire year - from May 1878 to September 1879
+Henrik Ibsen began thinking about the play around May 1878, but wrote the first draft only a year later, giving himself enormous time to develop themes and characters.
 
-### **PLOTKA**: Ibsen napisał sztukę w obronie Laury Kieler
-Ibsen, zbulwersowany umieszczeniem Kieler w zakładzie, napisał "Dom lalki" częściowo jako sposób obrony swojej przyjaciółki przed społecznym potępieniem.
+### **FACT**: First notes were written on October 19, 1878 in Rome
+Ibsen sketched his concept for the play as a "modern tragedy" in a note written in Rome on October 19, 1878, which represents the first known sketch of the play titled "Notes on a Tragedy of Modern Times."
 
-### **FAKT**: Laura Kieler najpierw napisała odpowiedź na "Branda" Ibsena
-Gdy Kieler miała 19 lat, napisała odpowiedź na sztukę Ibsena "Brand", zatytułowaną "Brand's Døtre", co zjednało jej przychylność Ibsena i jego żony oraz zapoczątkowało ich przyjaźń.
+### **FACT**: The manuscript was completed on September 15, 1879
+Ibsen sent the clean copy of the finished play to his publisher on September 15, 1879, exactly after a year of intensive work.
 
-### **FAKT**: Prawdziwa Laura nigdy nie opuściła domu jak Nora
-W przeciwieństwie do wzmacniającego finału sztuki, prawdziwa historia Laury Kieler miała znacznie ciemniejszy koniec - została zmuszona do pozostania w małżeństwie i poniosła konsekwencje swojego działania.
+### **FACT**: Ibsen was 51 years old when he wrote "A Doll's House"
+In 1879, when he published his masterpiece, Ibsen was already a mature playwright in middle age, living with his wife Suzannah Thoresen (married in 1858) and their 20-year-old son Sigurd.
 
-### **FAKT**: Laura Kieler została traumatycznie zaskoczona, widząc swoją historię na scenie
-Wykorzystanie jej prywatnych problemów jako materiału na sztukę bez jej wiedzy lub pozwolenia spowodowało u Laury trauma na całe życie, choć udało jej się później zrobić karierę jako pisarka.
-
----
-
-## 🎨 Filozofia i inspiracje autorskie
-
-### **FAKT**: Ibsen wierzył, że "kobieta nie może być sobą w nowoczesnym społeczeństwie"
-W swoich notatkach przygotowawczych Ibsen napisał: "Kobieta nie może być sobą we współczesnym społeczeństwie, ponieważ jest to wyłącznie męskie społeczestwo, z prawami stworzonymi przez mężczyzn".
-
-### **FAKT**: Ibsen uważał, że małżonkowie powinni żyć jako równi sobie
-Ibsen czuł, że zamiast po prostu mieszkać razem, mąż i żona powinni żyć jako równi sobie, wolni, by stać się własnymi ludzkimi istotami - to przekonanie widać wyraźnie w "Domu lalki".
-
-### **FAKT**: To była pierwsza sztuka Ibsena napisana prozą, nie wierszem
-W przeciwieństwie do "Peer Gynta" i "Branda", "Dom lalki" został napisany prozą, co oznaczało przełom w stylu pisania Ibsena i początek jego okresu realistycznego.
+### **FACT**: The play was written during voluntary exile in Europe
+Ibsen left Norway in 1864 and spent the next 27 years in Italy and Germany. "A Doll's House" was written during his stay in Italy, mainly in Amalfi.
 
 ---
 
-## 📖 Publikacja i pierwsze reakcje
+## 📚 Inspirations and True Stories
 
-### **FAKT**: Pierwszy nakład wynosił rekordowe 8000 egzemplarzy
-"Dom lalki" został opublikowany 4 grudnia 1879 roku w Kopenhadze w nakładzie 8000 egzemplarzy - największym jak dotąd z dzieł Ibsena.
+### **FACT**: Laura Kieler - the real Nora, who was locked in a psychiatric institution
+The play was based on the life of Laura Kieler (1849-1932), a family friend of the Ibsens. In reality, she did not forge a signature, but when her husband Victor discovered her secret, he divorced her and forced her into a psychiatric institution.
 
-### **FAKT**: Książka wyprzedała się w mniej niż miesiąc
-Pierwszy nakład wyprzedał się w ciągu mniej niż miesiąca, co było sensacyjnym sukcesem wydawniczym.
+### **RUMOR**: Ibsen wrote the play in defense of Laura Kieler
+Ibsen, outraged by Kieler's placement in the institution, wrote "A Doll's House" partly as a way to defend his friend against social condemnation.
 
-### **FAKT**: Drugie wydanie 3000 egzemplarzy ukazało się 4 stycznia 1880 roku
-Ze względu na ogromne powodzenie, drugie wydanie 3000 kopii zostało wydane już 4 stycznia 1880 roku, a trzecie 2500 kopii 8 marca tego samego roku.
+### **FACT**: Laura Kieler first wrote a response to Ibsen's "Brand"
+When Kieler was 19, she wrote a response to Ibsen's play "Brand," titled "Brand's Døtre," which won her the favor of Ibsen and his wife and began their friendship.
 
-### **FAKT**: Premiera odbyła się 21 grudnia 1879 w Królewskim Teatrze Duńskim w Kopenhadze
-Światowa premiera miała miejsce 21 grudnia 1879 roku z Betty Hennings jako Norą, Emilem Poulsenem jako Torvaldem i Peterem Jerndorffem jako dr. Rankiem.
+### **FACT**: The real Laura never left home like Nora
+Unlike the empowering ending of the play, the real story of Laura Kieler had a much darker ending - she was forced to remain in marriage and suffered the consequences of her actions.
 
-### **FAKT**: Wszystkie spektakle pierwszej serii były wyprzedane
-Każde przedstawienie z pierwszej serii spektakli było wyprzedane, pokazując ogromne zainteresowanie publiczności.
-
----
-
-## 💥 Skandal i kontrowersje
-
-### **FAKT**: Sztuka została nazwana "barbarzyńskim gwałtem" przez niektórych krytyków
-Radykalne zakończenie sztuki i odejście od klasycznych reguł tragedii rozgniewało krytyków i zbulwersowało publiczność.
-
-### **FAKT**: Niektóre teatry odmówiły wystawienia sztuki ze względu na moralny skandal
-Moralne oburzenie nad lekceważeniem przez Norę obowiązków żony i matki było tak wielkie, że niektóre teatry odmówiły wystawienia sztuki.
-
-### **FAKT**: George Bernard Shaw nazwał trzaśnięcie drzwiami "slamem słyszanym na całym świecie"
-Współczesny dramaturg George Bernard Shaw określił kulminacyjny moment sztuki jako "trzaśnięcie drzwiami słyszane na całym świecie", podkreślając rewolucyjny wpływ sztuki.
-
-### **FAKT**: Sztuka była uważana za początek nowoczesnej literatury feministycznej
-Uczeni sugerują, że kiedy Nora zatrzasnęła drzwi, natychmiast wprowadziła światowy dramat w nowoczesną erę, a sztuka jest uważana przez wielu za początek nowoczesnej literatury feministycznej.
+### **FACT**: Laura Kieler was traumatically shocked to see her story on stage
+The use of her private problems as material for a play without her knowledge or consent caused Laura lifelong trauma, though she later managed to make a career as a writer.
 
 ---
 
-## 🇩🇪 Niemiecka cenzura i alternatywne zakończenie
+## 🎨 Philosophy and Authorial Inspirations
 
-### **FAKT**: Niemiecka aktorka Hedwig Niemann-Raabe odmówiła grania oryginalnego zakończenia
-Aktorka oświadczyła: "Nigdy nie opuściłabym swoich dzieci!" i odmówiła wykonania sztuki zgodnie z oryginalnym tekstem.
+### **FACT**: Ibsen believed that "a woman cannot be herself in modern society"
+In his preparatory notes, Ibsen wrote: "A woman cannot be herself in contemporary society, because it is exclusively a male society, with laws created by men."
 
-### **FAKT**: Ibsen został zmuszony do napisania alternatywnego zakończenia
-Aby uniknąć ryzyka przerobienia jego dzieła przez gorszego dramatopisarza, Ibsen napisał alternatywne zakończenie, w którym Nora zostaje w domu.
+### **FACT**: Ibsen believed that spouses should live as equals
+Ibsen felt that instead of simply living together, husband and wife should live as equals, free to become their own human beings - this conviction is clearly visible in "A Doll's House."
 
-### **FAKT**: Ibsen nazwał alternatywne zakończenie "barbarzyńskim gwałtem"
-Mimo zgody na zmianę, Ibsen głośno sprzeciwiał się temu, nazywając alternatywne zakończenie "barbarzyńskim gwałtem na sztuce".
-
-### **FAKT**: Alternatywne zakończenie zostało ostatecznie odrzucone po protestach
-Po protestach w Residenztheater w Berlinie przeciwko "zniekształceniu sztuki", Niemann-Raabe powróciła do oryginalnego scenariusza.
+### **FACT**: This was Ibsen's first play written in prose, not verse
+Unlike "Peer Gynt" and "Brand," "A Doll's House" was written in prose, marking a breakthrough in Ibsen's writing style and the beginning of his realistic period.
 
 ---
 
-## 🎯 Zaprzeczenie intencji feministycznych
+## 📖 Publication and First Reactions
 
-### **FAKT**: Ibsen zaprzeczał, że miał świadome intencje feministyczne
-Ibsen stwierdził: "Cokolwiek napisałem, było bez świadomej myśli o robieniu propagandy" i "Nie jestem nawet całkiem pewny, czym naprawdę jest ten ruch praw kobiet".
+### **FACT**: The first print run was a record 8,000 copies
+"A Doll's House" was published on December 4, 1879, in Copenhagen with a print run of 8,000 copies - the largest to date for Ibsen's works.
 
-### **FAKT**: W 1898 roku Ibsen publicznie odrzucił tytuł feministy
-W przemówieniu do Norweskiego Stowarzyszenia Praw Kobiet Ibsen powiedział, że "musi odrzucić honor świadomej pracy dla ruchu praw kobiet".
+### **FACT**: The book sold out in less than a month
+The first print run sold out in less than a month, which was a sensational publishing success.
 
-### **FAKT**: Ibsen twierdził, że pisał o całej ludzkości, nie tylko o kobietach
-Dramatopisarz zawsze starał się oddzielić od feministek, twierdząc, że jego intencją pisania nie była intencja feministyczna, ale dotyczyła całej ludzkości.
+### **FACT**: The second edition of 3,000 copies was published on January 4, 1880
+Due to enormous success, the second edition of 3,000 copies was published on January 4, 1880, and the third of 2,500 copies on March 8 of the same year.
 
----
+### **FACT**: The premiere took place on December 21, 1879, at the Royal Danish Theatre in Copenhagen
+The world premiere took place on December 21, 1879, with Betty Hennings as Nora, Emil Poulsen as Torvald, and Peter Jerndorff as Dr. Rank.
 
-## 🌍 Międzynarodowy wpływ i adaptacje
-
-### **FAKT**: Sztuka została przetłumaczona na dziesiątki języków
-Ze względu na swój międzynarodowy urok, XIX-wieczna sztuka została przetłumaczona na wiele języków na świecie.
-
-### **FAKT**: Versja tamilska została wystawiona w Toronto w 2018 roku
-"Manaveli' Toronto wystawiło tamilską wersję "Domu lalki" (ஒரு பொம்மையின் வீடு) 30 czerwca 2018 roku.
-
-### **FAKT**: Powstały liczne adaptacje filmowe od 1922 roku
-Sztuka została zaadaptowana na film wielokrotnie, w tym w produkcjach z 1922, 1923, 1943, 1944, 1954 roku oraz w irańskiej adaptacji "Sara" z 1992 roku.
-
-### **FAKT**: UNESCO wpisało rękopisy Ibsena na Listę Pamięci Świata w 2001 roku
-Autograficzne rękopisy "Domu lalki" zostały wpisane na Listę Pamięci Świata UNESCO w uznaniu ich wartości historycznej.
+### **FACT**: All performances of the first series were sold out
+Every performance of the first series of shows was sold out, showing enormous public interest.
 
 ---
 
-## 📊 Liczby i rekordy
+## 💥 Scandal and Controversies
 
-### **FAKT**: Pierwszy nakład - 8000 egzemplarzy (rekord dla dzieł Ibsena)
-### **FAKT**: Czas wyprzedania pierwszego nakładu - mniej niż miesiąc
-### **FAKT**: Drugi nakład - 3000 egzemplarzy (4 stycznia 1880)
-### **FAKT**: Trzeci nakład - 2500 egzemplarzy (8 marca 1880)
-### **FAKT**: Data ukończenia manuskryptu - 15 września 1879
-### **FAKT**: Data publikacji - 4 grudnia 1879
-### **FAKT**: Data premiery - 21 grudnia 1879
-### **FAKT**: Wiek Ibsena podczas pisania - 51 lat
-### **FAKT**: Wiek syna Sigurda - 20 lat (przyszły premier Norwegii)
-### **FAKT**: Czas na wygnaniu - 27 lat (1864-1891)
+### **FACT**: The play was called a "barbarous assault" by some critics
+The radical ending of the play and departure from classical tragedy rules angered critics and outraged the public.
 
----
+### **FACT**: Some theaters refused to stage the play due to moral scandal
+The moral outrage over Nora's disregard for the duties of wife and mother was so great that some theaters refused to stage the play.
 
-## 🎪 Ciekawostki teatralne i kulturowe
+### **FACT**: George Bernard Shaw called the door slam "the slam heard around the world"
+Contemporary playwright George Bernard Shaw described the climactic moment of the play as "the slam heard around the world," emphasizing the revolutionary impact of the play.
 
-### **FAKT**: Pierwsze przedstawienia były wyprzedane przed premierą
-Zainteresowanie było tak wielkie, że bilety na wszystkie przedstawienia pierwszej serii zostały wyprzedane jeszcze przed premierą.
-
-### **PLOTKA**: Ibsen obserwował reakcje publiczności z ukrycia
-Podobno dramatopisarz przyglądał się reakcjom publiczności na pierwsze przedstawienia, aby ocenić wpływ swojego dzieła.
-
-### **FAKT**: Krityka Erik Bøgh pochwalił oryginalność i mistrzostwo techniczne Ibsena
-Pisząc dla norweskiej gazety Folkets Avis, krytyk Erik Bøgh pochwalił oryginalność i techniczne mistrzostwo Ibsena.
-
-### **FAKT**: Sztuka zapoczątkowała erę realizmu teatralnego
-"Dom lalki" jest powszechnie uważany za kamień milowy w rozwoju realizmu teatralnego, który dąży do dokładnego portretowania życia.
+### **FACT**: The play was considered the beginning of modern feminist literature
+Scholars suggest that when Nora slammed the door, she immediately brought world drama into the modern era, and the play is considered by many to be the beginning of modern feminist literature.
 
 ---
 
-## 💡 Ukryte znaczenia i symbolika
+## 🇩🇪 German Censorship and Alternative Ending
 
-### **FAKT**: Tytuł ma różne tłumaczenia w różnych językach
-W języku angielskim sztuka znana jest jako "A Doll's House", "A Doll House", "The Doll House" lub "The Doll's House".
+### **FACT**: German actress Hedwig Niemann-Raabe refused to perform the original ending
+The actress declared: "I would never leave my children!" and refused to perform the play according to the original text.
 
-### **FAKT**: Trzaśnięcie drzwiami stało się symbolem wyzwolenia kobiet
-Moment, gdy Nora trzaska drzwiami, został symbolem deklaracji niepodległości kobiet i początkiem ich walki o równouprawnienie.
+### **FACT**: Ibsen was forced to write an alternative ending
+To avoid the risk of having his work reworked by a lesser playwright, Ibsen wrote an alternative ending in which Nora stays home.
 
-### **FAKT**: Sztuka została napisana w okresie pierwszej fali feminizmu
-"Dom lalki" uchwycił pierwszą falę feminizmu w europejskiej historii, choć sam Ibsen zaprzeczał feministycznym intencjom.
+### **FACT**: Ibsen called the alternative ending a "barbarous assault"
+Despite agreeing to the change, Ibsen loudly opposed it, calling the alternative ending a "barbarous assault on the play."
 
-### **PLOTKA**: Dom lalki reprezentuje społeczeństwo patriarchalne
-Metafora "domu lalki" miała reprezentować sposób, w jaki patriarchalne społeczeństwo kontroluje i manipuluje kobietami.
-
----
-
-## 🏆 Wpływ na kulturę i społeczeństwo
-
-### **FAKT**: Sztuka wpłynęła na ruch praw kobiet mimo zaprzeczeń autora
-Mimo że Ibsen zaprzeczał feministycznym intencjom, sztuka stała się kluczowym tekstem dla ruchu praw kobiet.
-
-### **FAKT**: W latach 60. XX wieku odrodziło się zainteresowanie sztuką
-Wraz z pojawieniem się drugiej fali feminizmu w latach 60., pojawiło się odnowione zainteresowanie "Domem lalki".
-
-### **FAKT**: Sztuka była kontrowersyjna przez dekady po premierze
-Przez dziesięciolecia po premierze sztuka pozostawała kontrowersyjna ze względu na radykalne podejście do małżeństwa i ról płciowych.
-
-### **FAKT**: Współczesne ruchy jak #MeToo nadal czerpią inspirację z Nory
-Uczeni zauważają, że drzwi zatrzaśnięte przez Norę nadal rezonują we współczesnych ruchach równouprawnienia.
+### **FACT**: The alternative ending was eventually rejected after protests
+After protests at the Residenztheater in Berlin against the "distortion of the play," Niemann-Raabe returned to the original script.
 
 ---
 
-*Opracowanie: Agent 37degrees Research System*  
-*Data: 2025-01-09*
+## 🎯 Denial of Feminist Intentions
+
+### **FACT**: Ibsen denied having conscious feminist intentions
+Ibsen stated: "Whatever I have written has been without conscious thought of making propaganda" and "I am not even quite sure what this women's rights movement really is."
+
+### **FACT**: In 1898, Ibsen publicly rejected the title of feminist
+In a speech to the Norwegian Women's Rights Association, Ibsen said he "must reject the honor of conscious work for the women's rights movement."
+
+### **FACT**: Ibsen claimed he wrote about all humanity, not just women
+The playwright always tried to separate himself from feminists, claiming that his intention in writing was not feminist but concerned all humanity.
+
+---
+
+## 🌍 International Impact and Adaptations
+
+### **FACT**: The play was translated into dozens of languages
+Due to its international appeal, the 19th-century play has been translated into many languages worldwide.
+
+### **FACT**: A Tamil version was staged in Toronto in 2018
+"Manaveli' Toronto staged a Tamil version of "A Doll's House" (ஒரு பொம்மையின் வீடு) on June 30, 2018.
+
+### **FACT**: Numerous film adaptations have been made since 1922
+The play has been adapted for film multiple times, including productions from 1922, 1923, 1943, 1944, 1954, and the Iranian adaptation "Sara" from 1992.
+
+### **FACT**: UNESCO inscribed Ibsen's manuscripts on the Memory of the World List in 2001
+The autographic manuscripts of "A Doll's House" were inscribed on UNESCO's Memory of the World List in recognition of their historical value.
+
+---
+
+## 📊 Numbers and Records
+
+### **FACT**: First print run - 8,000 copies (record for Ibsen's works)
+### **FACT**: Time to sell out first print run - less than a month
+### **FACT**: Second print run - 3,000 copies (January 4, 1880)
+### **FACT**: Third print run - 2,500 copies (March 8, 1880)
+### **FACT**: Manuscript completion date - September 15, 1879
+### **FACT**: Publication date - December 4, 1879
+### **FACT**: Premiere date - December 21, 1879
+### **FACT**: Ibsen's age during writing - 51 years
+### **FACT**: Son Sigurd's age - 20 years (future Prime Minister of Norway)
+### **FACT**: Time in exile - 27 years (1864-1891)
+
+---
+
+## 🎪 Theatrical and Cultural Curiosities
+
+### **FACT**: First performances were sold out before the premiere
+Interest was so great that tickets for all performances of the first series were sold out even before the premiere.
+
+### **RUMOR**: Ibsen observed audience reactions from hiding
+The playwright supposedly watched audience reactions to the first performances to assess the impact of his work.
+
+### **FACT**: Critic Erik Bøgh praised Ibsen's originality and technical mastery
+Writing for the Norwegian newspaper Folkets Avis, critic Erik Bøgh praised Ibsen's originality and technical mastery.
+
+### **FACT**: The play initiated the era of theatrical realism
+"A Doll's House" is widely considered a milestone in the development of theatrical realism, which strives for accurate portrayal of life.
+
+---
+
+## 💡 Hidden Meanings and Symbolism
+
+### **FACT**: The title has different translations in different languages
+In English, the play is known as "A Doll's House," "A Doll House," "The Doll House," or "The Doll's House."
+
+### **FACT**: The door slam became a symbol of women's liberation
+The moment when Nora slams the door became a symbol of women's declaration of independence and the beginning of their fight for equality.
+
+### **FACT**: The play was written during the first wave of feminism
+"A Doll's House" captured the first wave of feminism in European history, though Ibsen himself denied feminist intentions.
+
+### **RUMOR**: The doll house represents patriarchal society
+The metaphor of the "doll house" was meant to represent the way patriarchal society controls and manipulates women.
+
+---
+
+## 🏆 Impact on Culture and Society
+
+### **FACT**: The play influenced the women's rights movement despite the author's denials
+Despite Ibsen's denial of feminist intentions, the play became a key text for the women's rights movement.
+
+### **FACT**: Interest in the play revived in the 1960s
+With the emergence of second-wave feminism in the 1960s, renewed interest in "A Doll's House" appeared.
+
+### **FACT**: The play remained controversial for decades after its premiere
+For decades after its premiere, the play remained controversial due to its radical approach to marriage and gender roles.
+
+### **FACT**: Contemporary movements like #MeToo still draw inspiration from Nora
+Scholars note that the door slammed by Nora still resonates in contemporary equality movements.
+
+---
+
+*Compiled by: 37degrees Research System Agent*
+*Date: 2025-09-18*

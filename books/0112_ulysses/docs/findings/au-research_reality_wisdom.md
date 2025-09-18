@@ -1,248 +1,248 @@
-# "Ulysses" Jamesa Joyce'a - Analiza Trafności Przewidywań i Uniwersalnej Mądrości
+# "Ulysses" by James Joyce - Analysis of Prediction Accuracy and Universal Wisdom
 
-## Wprowadzenie
+## Introduction
 
-James Joyce opublikował "Ulissesa" w 1922 roku, w przełomowym momencie historii - tuż po I wojnie światowej, gdy tradycyjne struktury społeczne się rozpadały, a modernizm zrewolucjonizował sposób myślenia o literaturze i życiu. Analizując dzieło po ponad 100 latach, możemy ocenić, które z jego obserwacji i "przewidywań" dotyczących ludzkiej natury, relacji i społeczeństwa okazały się trafne, a które nie.
-
----
-
-## I. PRZEWIDYWANIA KTÓRE SIĘ SPRAWDZIŁY
-
-### 1. **Psychologia Strumienia Świadomości**
-**1922**: Joyce jako pionier techniki strumienia świadomości przedstawił chaotyczne, skojarzeniowe myślenie jako normę ludzkiej psychiki.
-**DZIŚ**: Neuropsychologia potwierdza, że myślenie rzeczywiście jest fragmentaryczne, skojarzeniowe i nieliniowe - dokładnie jak to przedstawił Joyce.
-
-### 2. **Kultura Konsumpcyjna i Reklama**
-**1922**: Leopold Bloom pracuje w reklamie, a Joyce szczegółowo opisuje wpływ reklam na codzienne myślenie.
-**DZIŚ**: Żyjemy w społeczeństwie całkowicie nasyconym reklamą - Joyce genialnie przewidział, jak marketing będzie przenikał naszą świadomość.
-
-### 3. **Wyzwolenie Seksualne Kobiet**
-**1922**: Molly Bloom jest seksualnie aktywna, ma własne pragnienia i nie wstydzi się swojej seksualności.
-**DZIŚ**: To, co w 1922 było skandalem, dzisiaj to norma - kobiety mają prawo do własnej seksualności i wyrażania potrzeb.
-
-### 4. **Płynność Ról Płciowych**
-**1922**: Leopold Bloom to "nowy kobieco-męski mężczyzna" - wrażliwy, empatyczny, nieatrakcyjnie męski według ówczesnych standardów.
-**DZIŚ**: Współczesna masculinity obejmuje dokładnie takie cechy - wrażliwość i empatiajuż nie są postrzegane jako "niemęskie".
-
-### 5. **Psychologia Miejska**
-**1922**: Joyce pokazał, że epickość znajdziemy "nie u bogów czy bohaterów, ale w szczegółach codziennego miejskiego życia".
-**DZIŚ**: Social media i kultura influencerów doskonale to potwierdzają - każdy może być bohaterem swojej codzienności.
-
-### 6. **Media i Komunikacja Masowa**
-**1922**: Joyce przewidział wpływ mediów masowych na świadomość społeczną.
-**DZIŚ**: Internet, social media i masowa komunikacja zrewolucjonizowały sposób, w jaki myślimy i komunikujemy się.
-
-### 7. **Fragmentacja Tożsamości**
-**1922**: Postacie Joyce'a mają złożone, sprzeczne tożsamości zamiast jednolitych charakterów.
-**DZIŚ**: Psychologia potwierdza, że nie mamy jednej "prawdziwej" tożsamości - jesteśmy złożeni i wielowymiarowi.
+James Joyce published "Ulysses" in 1922, at a pivotal moment in history - just after World War I, when traditional social structures were collapsing and modernism revolutionized how we think about literature and life. Analyzing the work after more than 100 years, we can evaluate which of his observations and "predictions" about human nature, relationships, and society proved accurate, and which did not.
 
 ---
 
-## II. PRZEWIDYWANIA KTÓRE SIĘ NIE SPRAWDZIŁY
+## I. PREDICTIONS THAT CAME TRUE
 
-### 1. **Przepowiednia Blooma z 1886 roku**
-**W POWIEŚCI**: Leopold Bloom napisał "zapieczętowaną przepowiednię" dotyczącą skutków ustawy Home Rule Williama Gladstone'a.
-**RZECZYWISTOŚĆ**: Ustawa nigdy nie weszła w życie, więc przepowiednia okazała się bezpodstawna.
+### 1. **Stream of Consciousness Psychology**
+**1922**: Joyce as pioneer of stream of consciousness technique presented chaotic, associative thinking as the norm of human psyche.
+**TODAY**: Neuropsychology confirms that thinking is indeed fragmentary, associative and non-linear - exactly as Joyce portrayed it.
 
-### 2. **Idealizm Polityczny**
-**1922**: Joyce sugerował, że można osiągnąć społeczną sprawiedliwość poprzez indywidualną empatię i zrozumienie.
-**DZIŚ**: Historia XX wieku pokazała, że systemy polityczne i ekonomiczne są bardziej złożone i odporne na indywidualne zmiany moralne.
+### 2. **Consumer Culture and Advertising**
+**1922**: Leopold Bloom works in advertising, and Joyce describes in detail the influence of ads on daily thinking.
+**TODAY**: We live in a society completely saturated with advertising - Joyce brilliantly predicted how marketing would permeate our consciousness.
 
-### 3. **Rola Religii**
-**1922**: Joyce przewidywał rychły upadek katolickiego dogmatyzmu w Irlandii.
-**RZECZYWISTOŚĆ**: Choć wpływ Kościoła zmalał, proces był znacznie wolniejszy i bardziej skomplikowany niż sugerował Joyce.
+### 3. **Sexual Liberation of Women**
+**1922**: Molly Bloom is sexually active, has her own desires and isn't ashamed of her sexuality.
+**TODAY**: What was scandalous in 1922 is now the norm - women have the right to their own sexuality and expressing needs.
 
-### 4. **Elitarność Kultury**
-**1922**: Joyce zakładał, że eksperymentalna literatura będzie kształtować kulturę wysoką.
-**DZIŚ**: Kultura masowa i popularna mają większy wpływ na społeczeństwo niż awangardowa literatura.
+### 4. **Gender Role Fluidity**
+**1922**: Leopold Bloom is a "new feminine-masculine man" - sensitive, empathetic, unattractively masculine by contemporary standards.
+**TODAY**: Contemporary masculinity embraces exactly such traits - sensitivity and empathy are no longer perceived as "unmanly."
 
----
+### 5. **Urban Psychology**
+**1922**: Joyce showed that we'll find the epic "not in gods or heroes, but in details of everyday urban life."
+**TODAY**: Social media and influencer culture perfectly confirm this - anyone can be the hero of their daily life.
 
-## III. GENERATIONAL DIVIDE - CO SIĘ ZMIENIŁO VS CO POZOSTAŁO
+### 6. **Media and Mass Communication**
+**1922**: Joyce predicted the influence of mass media on social consciousness.
+**TODAY**: Internet, social media and mass communication revolutionized how we think and communicate.
 
-### CO SIĘ RADYKALNIE ZMIENIŁO:
-
-#### **1. Stosunek do Autorytetu**
-- **1922**: Stephen Dedalus buntuje się przeciwko Kościołowi, rodzinie i państwu
-- **DZIŚ**: Gen Z kwestionuje wszystkie instytucje - rząd, korporacje, media, często skuteczniej niż pokolenie Joyce'a
-
-#### **2. Komunikacja w Związkach**
-- **1922**: Leopold i Molly Bloom nie rozmawiają o swoich problemach, żyją w emocjonalnej izolacji
-- **DZIŚ**: Młode pokolenie promuje otwartą komunikację, terapię par, wyrażanie emocji
-
-#### **3. Podejście do Zdrowia Psychicznego**
-- **1922**: Depresja i lęk Stephena są pokazane jako "artystyczne cierpienie"
-- **DZIŚ**: Problemy psychiczne to medyczne kwestie wymagające profesjonalnej pomocy
-
-#### **4. Równość w Związkach**
-- **1922**: Molly jest ekonomicznie zależna od Leopolda mimo swojej silniejszej osobowości
-- **DZIŚ**: Młode kobiety mają niezależność finansową i nie tolerują takich układów
-
-### CO POZOSTAŁO UNIWERSALNE:
-
-#### **1. Lęk przed Intymością**
-- **UNIWERSALNE**: Leopold i Molly unikają prawdziwej bliskości po stracie dziecka
-- **DZIŚ**: Młodzi ludzie również często uciekają przed głęboką intymością, używając technologii jako bariery
-
-#### **2. Kryzys Tożsamości w Młodości**
-- **UNIWERSALNE**: Stephen Dedalus szuka swojego miejsca w świecie, czuje się wyobcowany
-- **DZIŚ**: Crisis of identity u Gen Z to jeden z najczęstszych problemów psychicznych
-
-#### **3. Pragnienie Znaczenia**
-- **UNIWERSALNE**: Bohaterowie Joyce'a szukają sensu w codzienności
-- **DZIŚ**: Młodzi ludzie również potrzebują poczucia, że ich życie ma znaczenie
+### 7. **Identity Fragmentation**
+**1922**: Joyce's characters have complex, contradictory identities instead of unified characters.
+**TODAY**: Psychology confirms we don't have one "true" identity - we are complex and multidimensional.
 
 ---
 
-## IV. TOXIC RELATIONSHIPS - RED FLAGS JOYCE'A NADAL AKTUALNE
+## II. PREDICTIONS THAT DIDN'T COME TRUE
 
-### **1. Emocjonalny Dystans jako Mechanizm Obronny**
-- **U JOYCE'A**: Leopold i Molly nie rozmawiają o śmierci syna, żyją obok siebie
-- **RED FLAG DZIŚ**: Unikanie trudnych rozmów, "ghosting", powierzchowne relacje
+### 1. **Bloom's 1886 Prophecy**
+**IN THE NOVEL**: Leopold Bloom wrote a "sealed prophecy" regarding the effects of William Gladstone's Home Rule bill.
+**REALITY**: The bill never came into effect, so the prophecy proved groundless.
 
-### **2. Seksualna Niekompatybilność jako Symptom Większych Problemów**
-- **U JOYCE'A**: Brak intymności między Bloomami przez 10 lat
-- **RED FLAG DZIŚ**: Gdy seks staje się "obowiązkiem" zamiast wyrażania bliskości
+### 2. **Political Idealism**
+**1922**: Joyce suggested that social justice could be achieved through individual empathy and understanding.
+**TODAY**: 20th century history showed that political and economic systems are more complex and resistant to individual moral changes.
 
-### **3. Zdrady jako Ucieczka od Problemów**
-- **U JOYCE'A**: Molly ma romans z Blazes Boylanem, Leopold fantazjuje o innych kobietach
-- **RED FLAG DZIŚ**: Szukanie walidacji na zewnątrz zamiast pracy nad związkiem
+### 3. **Role of Religion**
+**1922**: Joyce predicted the quick downfall of Catholic dogmatism in Ireland.
+**REALITY**: Although Church influence declined, the process was much slower and more complicated than Joyce suggested.
 
-### **4. Pasywno-Agresywne Zachowania**
-- **U JOYCE'A**: Leopold "kuli się" przed Molly, pozwala się źle traktować
-- **RED FLAG DZIŚ**: Pasywna agresja, manipulation, unikanie konfliktów
+### 4. **Cultural Elitism**
+**1922**: Joyce assumed that experimental literature would shape high culture.
+**TODAY**: Mass and popular culture have greater influence on society than avant-garde literature.
 
-### **5. Brak Wsparcia w Traumie**
-- **U JOYCE'A**: Para nie przetwarza razem straty dziecka
-- **RED FLAG DZIŚ**: Brak wsparcia emocjonalnego w trudnych chwilach
+---
+
+## III. GENERATIONAL DIVIDE - WHAT CHANGED VS WHAT REMAINED
+
+### WHAT RADICALLY CHANGED:
+
+#### **1. Attitude Toward Authority**
+- **1922**: Stephen Dedalus rebels against Church, family and state
+- **TODAY**: Gen Z questions all institutions - government, corporations, media, often more effectively than Joyce's generation
+
+#### **2. Communication in Relationships**
+- **1922**: Leopold and Molly Bloom don't talk about their problems, live in emotional isolation
+- **TODAY**: Young generation promotes open communication, couples therapy, expressing emotions
+
+#### **3. Approach to Mental Health**
+- **1922**: Stephen's depression and anxiety are shown as "artistic suffering"
+- **TODAY**: Mental health issues are medical matters requiring professional help
+
+#### **4. Equality in Relationships**
+- **1922**: Molly is economically dependent on Leopold despite her stronger personality
+- **TODAY**: Young women have financial independence and don't tolerate such arrangements
+
+### WHAT REMAINED UNIVERSAL:
+
+#### **1. Fear of Intimacy**
+- **UNIVERSAL**: Leopold and Molly avoid true closeness after losing their child
+- **TODAY**: Young people also often flee from deep intimacy, using technology as barriers
+
+#### **2. Identity Crisis in Youth**
+- **UNIVERSAL**: Stephen Dedalus seeks his place in the world, feels alienated
+- **TODAY**: Identity crisis in Gen Z is one of the most common mental health problems
+
+#### **3. Desire for Meaning**
+- **UNIVERSAL**: Joyce's heroes seek meaning in everyday life
+- **TODAY**: Young people also need a sense that their lives have meaning
+
+---
+
+## IV. TOXIC RELATIONSHIPS - JOYCE'S RED FLAGS STILL RELEVANT
+
+### **1. Emotional Distance as Defense Mechanism**
+- **IN JOYCE**: Leopold and Molly don't talk about their son's death, live alongside each other
+- **RED FLAG TODAY**: Avoiding difficult conversations, "ghosting," superficial relationships
+
+### **2. Sexual Incompatibility as Symptom of Bigger Problems**
+- **IN JOYCE**: Lack of intimacy between the Blooms for 10 years
+- **RED FLAG TODAY**: When sex becomes "duty" instead of expressing closeness
+
+### **3. Infidelity as Escape from Problems**
+- **IN JOYCE**: Molly has an affair with Blazes Boylan, Leopold fantasizes about other women
+- **RED FLAG TODAY**: Seeking validation outside instead of working on the relationship
+
+### **4. Passive-Aggressive Behaviors**
+- **IN JOYCE**: Leopold "cowers" before Molly, allows himself to be mistreated
+- **RED FLAG TODAY**: Passive aggression, manipulation, avoiding conflicts
+
+### **5. Lack of Support in Trauma**
+- **IN JOYCE**: The couple doesn't process the loss of their child together
+- **RED FLAG TODAY**: Lack of emotional support in difficult moments
 
 ---
 
 ## V. UNIVERSAL HUMAN TRUTHS - TIMELESS WISDOM
 
-### **1. "Historia to koszmar, z którego próbuję się obudzić" (Stephen)**
-**MĄDROŚĆ**: Nie możemy uciec od przeszłości, ale możemy zmienić nasze relacje z nią.
-**PRAKTYCZNA LEKCJA**: Terapia, mindfulness, praca nad traumami.
+### **1. "History is a nightmare from which I am trying to awake" (Stephen)**
+**WISDOM**: We cannot escape the past, but we can change our relationship with it.
+**PRACTICAL LESSON**: Therapy, mindfulness, working through trauma.
 
-### **2. Epickość Zwyczajności**
-**MĄDROŚĆ**: Joyce pokazał, że każde życie może być epickie - nie potrzebujemy być bohaterami.
-**PRAKTYCZNA LEKCJA**: Znajdź znaczenie w małych momentach, codziennych rytuałach, zwykłych chwilach.
+### **2. Epic Nature of Ordinariness**
+**WISDOM**: Joyce showed that every life can be epic - we don't need to be heroes.
+**PRACTICAL LESSON**: Find meaning in small moments, daily rituals, ordinary times.
 
-### **3. Strumień Świadomości jako Prawda**
-**MĄDROŚĆ**: Nasze myśli są chaotyczne i to normalne - nie musimy być zawsze logiczni.
-**PRAKTYCZNA LEKCJA**: Akceptacja własnego sposobu myślenia, journaling, medytacja.
+### **3. Stream of Consciousness as Truth**
+**WISDOM**: Our thoughts are chaotic and that's normal - we don't have to be always logical.
+**PRACTICAL LESSON**: Accepting your own way of thinking, journaling, meditation.
 
-### **4. Empatia ponad Sądzenie**
-**MĄDROŚĆ**: Joyce nie osądza swoich postaci, pokazuje je ze współczuciem.
-**PRAKTYCZNA LEKCJA**: Spróbuj zrozumieć innych zamiast ich osądzać.
+### **4. Empathy over Judgment**
+**WISDOM**: Joyce doesn't judge his characters, shows them with compassion.
+**PRACTICAL LESSON**: Try to understand others instead of judging them.
 
-### **5. Samotność w Tłumie**
-**MĄDROŚĆ**: Można być samotnym nawet w związku lub w wielkim mieście.
-**PRAKTYCZNA LEKCJA**: Prawdziwa bliskość wymaga wysiłku i odwagi bycia wytrywnym.
-
----
-
-## VI. RELATIONSHIP WISDOM DLA WSPÓŁCZESNEJ MŁODZIEŻY
-
-### **CZEGO NAUCZY NAS NIEPOWODZENIE BLOOMÓW:**
-
-#### **1. Komunikacja is Key**
-- **BŁĄD BLOOMÓW**: Nie rozmawiają o swoich potrzebach i traumach
-- **LEKCJA**: Otwarta, uczciwa komunikacja to podstawa zdrowego związku
-
-#### **2. Przetwarzanie Traumy Razem**
-- **BŁĄD BLOOMÓW**: Każde przetwarza stratę dziecka osobno
-- **LEKCJA**: Trudne doświadczenia można przezwyciężyć tylko razem, z pomocą terapeuty
-
-#### **3. Finansowa Niezależność**
-- **BŁĄD BLOOMÓW**: Molly jest ekonomicznie uzależniona mimo silnej osobowości
-- **LEKCJA**: Każda osoba w związku powinna mieć własną niezależność finansową
-
-#### **4. Aktywne Słuchanie**
-- **BŁĄD BLOOMÓW**: Nie słuchają się nawzajem, żyją w swoich światach
-- **LEKCJA**: Aktywne słuchanie i empatia to fundament dobrych relacji
-
-#### **5. Praca nad Sobą**
-- **BŁĄD BLOOMÓW**: Każde oczekuje, że partner rozwiąże ich problemy
-- **LEKCJA**: Musisz najpierw pracować nad sobą, żeby mieć zdrowy związek
+### **5. Loneliness in a Crowd**
+**WISDOM**: You can be lonely even in a relationship or in a big city.
+**PRACTICAL LESSON**: True closeness requires effort and courage to be vulnerable.
 
 ---
 
-## VII. EVOLUTION OF SOCIAL NORMS - PORÓWNANIE EPOK
+## VI. RELATIONSHIP WISDOM FOR CONTEMPORARY YOUTH
+
+### **WHAT THE BLOOMS' FAILURE TEACHES US:**
+
+#### **1. Communication is Key**
+- **BLOOMS' MISTAKE**: They don't talk about their needs and traumas
+- **LESSON**: Open, honest communication is the foundation of a healthy relationship
+
+#### **2. Processing Trauma Together**
+- **BLOOMS' MISTAKE**: Each processes the loss of their child separately
+- **LESSON**: Difficult experiences can only be overcome together, with a therapist's help
+
+#### **3. Financial Independence**
+- **BLOOMS' MISTAKE**: Molly is economically dependent despite her strong personality
+- **LESSON**: Every person in a relationship should have their own financial independence
+
+#### **4. Active Listening**
+- **BLOOMS' MISTAKE**: They don't listen to each other, live in their own worlds
+- **LESSON**: Active listening and empathy are the foundation of good relationships
+
+#### **5. Working on Yourself**
+- **BLOOMS' MISTAKE**: Each expects the partner to solve their problems
+- **LESSON**: You must first work on yourself to have a healthy relationship
+
+---
+
+## VII. EVOLUTION OF SOCIAL NORMS - COMPARING ERAS
 
 ### **GENDER ROLES:**
 
-| ASPEKT | 1922 | DZIŚ |
-|--------|------|------|
-| **Rola Kobiet** | Głównie żony i matki, ekonomicznie uzależnione | Niezależne finansowo, wybierają kariery |
-| **Męskość** | Twarda, dominująca, bez emocji | Wrażliwa, empatyczna, emocjonalnie dostępna |
-| **Małżeństwo** | "Do śmierci nas nie rozłączy" | Partnership oparty na wzajemnym rozwoju |
-| **Seksualność** | Tabu, wstyd, potajemność | Otwartość, edukacja, consent |
+| ASPECT | 1922 | TODAY |
+|--------|------|-------|
+| **Women's Role** | Mainly wives and mothers, economically dependent | Financially independent, choose careers |
+| **Masculinity** | Hard, dominant, without emotions | Sensitive, empathetic, emotionally available |
+| **Marriage** | "Till death do us part" | Partnership based on mutual growth |
+| **Sexuality** | Taboo, shame, secrecy | Openness, education, consent |
 
 ### **COMMUNICATION:**
 
-| ASPEKT | 1922 | DZIŚ |
-|--------|------|------|
-| **Konflikty** | Unikanie, pasywna agresja | Otwarte rozmowy, mediacja |
-| **Emocje** | Tłumienie, "męskość" bez łez | Wyrażanie uczuć jako zdrowie |
-| **Trauma** | Cierpienie w samotności | Terapia, support groups |
-| **Potrzeby** | Niewyarticulowane oczekiwania | Jasne komunikowanie potrzeb |
+| ASPECT | 1922 | TODAY |
+|--------|------|-------|
+| **Conflicts** | Avoidance, passive aggression | Open conversations, mediation |
+| **Emotions** | Suppression, "masculinity" without tears | Expressing feelings as health |
+| **Trauma** | Suffering in solitude | Therapy, support groups |
+| **Needs** | Unarticulated expectations | Clear communication of needs |
 
 ---
 
-## VIII. PRACTICAL TAKEAWAYS DLA GEN Z
+## VIII. PRACTICAL TAKEAWAYS FOR GEN Z
 
-### **1. Dating Red Flags Według Joyce'a (NADAL AKTUALNE):**
-- Partner unika trudnych rozmów
-- Brak empatii w momentach kryzysu
-- Pasywno-agresywne zachowania
-- Szukanie winnego zamiast rozwiązań
-- Emocjonalny dystans po traumatycznych wydarzeniach
+### **1. Dating Red Flags According to Joyce (STILL RELEVANT):**
+- Partner avoids difficult conversations
+- Lack of empathy in crisis moments
+- Passive-aggressive behaviors
+- Looking for blame instead of solutions
+- Emotional distance after traumatic events
 
-### **2. Green Flags dla Zdrowych Relacji:**
-- Otwarta komunikacja o potrzebach i lękach
-- Wzajemne wspieranie się w rozwoju
-- Razem przetwarzanie trudnych doświadczeń
-- Respektowanie granic i niezależności
-- Aktywne słuchanie bez osądzania
+### **2. Green Flags for Healthy Relationships:**
+- Open communication about needs and fears
+- Mutual support in development
+- Processing difficult experiences together
+- Respecting boundaries and independence
+- Active listening without judgment
 
 ### **3. Personal Development Insights:**
-- Akceptuj chaotyczność swoich myśli (strumień świadomości to norma)
-- Znajdź znaczenie w codziennych chwilach, nie tylko w wielkich sukcesach
-- Empatia wobec siebie i innych to klucz do szczęścia
-- Przeszłość kształtuje nas, ale nie musi nas definiować
-- Samotność to część ludzkiego doświadczenia - nie uciekaj od niej
+- Accept the chaos of your thoughts (stream of consciousness is normal)
+- Find meaning in daily moments, not just big successes
+- Empathy toward yourself and others is key to happiness
+- The past shapes us but doesn't have to define us
+- Loneliness is part of human experience - don't run from it
 
 ### **4. Modern Relationship Skills:**
-- **Emotional Intelligence**: Rozpoznawaj i komunikuj swoje emocje
-- **Conflict Resolution**: Konflikt to okazja do wzrostu, nie wojna
-- **Independence in Togetherness**: Bądź kompletny jako osoba, nie połowa
-- **Shared Growth**: Związek to partnership w rozwoju, nie codependency
-- **Professional Help**: Terapia to narzędzie, nie ostateczność
+- **Emotional Intelligence**: Recognize and communicate your emotions
+- **Conflict Resolution**: Conflict is an opportunity for growth, not war
+- **Independence in Togetherness**: Be complete as a person, not half
+- **Shared Growth**: Relationship is partnership in development, not codependency
+- **Professional Help**: Therapy is a tool, not a last resort
 
 ---
 
-## IX. WNIOSKI - CO JOYCE MOŻE NAUCZYĆ WSPÓŁCZESNĄ MŁODZIEŻ
+## IX. CONCLUSIONS - WHAT JOYCE CAN TEACH CONTEMPORARY YOUTH
 
 ### **TIMELESS TRUTHS:**
-1. **Ludzka natura jest złożona** - Nie ma "dobrych" i "złych" ludzi, jesteśmy wszyscy skomplikowani
-2. **Codzienność ma znaczenie** - Nie musisz być sławny, żeby twoje życie było ważne
-3. **Samotność jest uniwersalna** - Wszyscy się czujemy osamotnieni, to część ludzkiego doświadczenia
-4. **Komunikacja jest kluczowa** - Większość problemów w relacjach wynika z braku komunikacji
-5. **Empatia uzdrawia** - Zrozumienie innych (i siebie) to najlepsza droga do szczęścia
+1. **Human nature is complex** - There are no "good" and "bad" people, we're all complicated
+2. **Daily life has meaning** - You don't have to be famous for your life to matter
+3. **Loneliness is universal** - We all feel lonely, it's part of human experience
+4. **Communication is crucial** - Most relationship problems stem from lack of communication
+5. **Empathy heals** - Understanding others (and yourself) is the best path to happiness
 
 ### **WARNINGS THAT REMAIN RELEVANT:**
-- Unikanie trudnych rozmów niszczy związki
-- Trauma niewyleczona się powtarza
-- Pasywność w relacjach prowadzi do resentymentu
-- Idealizacja partnera to droga do rozczarowania
-- Brak niezależności osobistej tworzy toxic dynamics
+- Avoiding difficult conversations destroys relationships
+- Unhealed trauma repeats itself
+- Passivity in relationships leads to resentment
+- Idealizing your partner is a path to disappointment
+- Lack of personal independence creates toxic dynamics
 
 ### **FINAL WISDOM:**
-Joyce pokazał nam w 1922 roku prawdę, która jest nadal aktualna: **Nie ma prostych odpowiedzi na ludzkie problemy, ale możemy się nauczyć żyć z większą empatią, zrozumieniem i autentycznością**. 
+Joyce showed us in 1922 a truth that remains current: **There are no simple answers to human problems, but we can learn to live with greater empathy, understanding and authenticity**.
 
-Jego "Ulisses" pozostaje ponadczasowym przewodnikiem po tym, jak być człowiekiem w skomplikowanym świecie - lekcja równie aktualna dziś, co 100 lat temu.
+His "Ulysses" remains a timeless guide on how to be human in a complicated world - a lesson as relevant today as it was 100 years ago.
 
 ---
 
-*Ostateczna lekcja od Joyce'a: "Prawdziwy bohateryzm nie polega na wielkich czynach, ale na tym, jak traktujemy ludzi w zwykłe, niezauważalne dni."*
+*Ultimate lesson from Joyce: "True heroism doesn't consist of great deeds, but in how we treat people on ordinary, unnoticed days."*

@@ -1,414 +1,414 @@
-# Wpływ Kulturowy "Ulysses" Jamesa Joyce'a na Społeczeństwo i Kulturę Popularną
+# Cultural Impact of James Joyce's "Ulysses" on Society and Popular Culture
 
-## Wprowadzenie
+## Introduction
 
-"Ulysses" Jamesa Joyce'a (1922) to jedno z najważniejszych i najbardziej kontrowersyjnych dzieł literatury modernistycznej, które fundamentalnie zmieniło sposób pisania i myślenia o literaturze. Książka wywarła ogromny wpływ na kulturę światową, stając się jednocześnie obiektem cenzury, przedmiotem studium akademickiego i źródłem inspiracji dla niezliczonych twórców.
+James Joyce's "Ulysses" (1922) is one of the most important and controversial works of modernist literature that fundamentally changed the way of writing and thinking about literature. The book has had an enormous impact on world culture, becoming simultaneously an object of censorship, a subject of academic study, and a source of inspiration for countless creators.
 
 ---
 
-## 1. Media Adaptations - Adaptacje Filmowe, Teatralne i Medialne
+## 1. Media Adaptations - Film, Theater, and Media Adaptations
 
-### Adaptacje Filmowe
+### Film Adaptations
 
-**"Ulysses" (1967)** - Pierwsza kinowa adaptacja powieści Joyce'a
-- Reżyser: Joseph Strick
-- Obsada: Milo O'Shea (Leopold Bloom), Maurice Roëves (Stephen Dedalus), Barbara Jefford (Molly Bloom)
-- Nominacja do Oscara za najlepszy scenariusz adaptowany
-- Akcja przeniesiona z 1904 na 1966 rok w Dublinie
+**"Ulysses" (1967)** - First cinematic adaptation of Joyce's novel
+- Director: Joseph Strick
+- Cast: Milo O'Shea (Leopold Bloom), Maurice Roëves (Stephen Dedalus), Barbara Jefford (Molly Bloom)
+- Oscar nomination for Best Adapted Screenplay
+- Action moved from 1904 to 1966 in Dublin
 
-**"Bloom" (2003)** - Współczesna interpretacja dzieła Joyce'a
-- Reżyser: Sean Walsh
-- Stephen Rea jako Leopold Bloom
-- Angeline Ball w roli Molly Bloom
-- Bardziej kameralna interpretacja niż poprzednia adaptacja
+**"Bloom" (2003)** - Contemporary interpretation of Joyce's work
+- Director: Sean Walsh
+- Stephen Rea as Leopold Bloom
+- Angeline Ball as Molly Bloom
+- More intimate interpretation than the previous adaptation
 
-**"The Dead" (1987)** - Adaptacja opowiadania z "Dubliners"
-- Ostatni film Johna Hustona
-- Jedyna adaptacja dzieł Joyce'a która zyskała szerokie uznanie krytyczne
-- Donal McCann i Anjelica Huston w rolach głównych
-- Uznawana za mistrzowskie dzieło kinematografii
+**"The Dead" (1987)** - Adaptation of the story from "Dubliners"
+- John Huston's final film
+- The only adaptation of Joyce's works that gained wide critical acclaim
+- Donal McCann and Anjelica Huston in lead roles
+- Considered a masterpiece of cinematography
 
-### Adaptacje Teatralne
+### Theater Adaptations
 
 **"Ulysses in Nighttown" (1958)**
-- Adaptacja rozdziału "Circe" z Ulyssesa
-- Adaptacja: Marjorie Barkentine pod nadzorem Padraic Columa
-- Premiera: Off-Broadway w Rooftop Theatre
-- Reżyseria: Burgess Meredith
-- Zero Mostel jako Leopold Bloom
-- Przeniesienie na Broadway w 1974 roku
+- Adaptation of the "Circe" chapter from Ulysses
+- Adaptation: Marjorie Barkentine under supervision of Padraic Colum
+- Premiere: Off-Broadway at Rooftop Theatre
+- Direction: Burgess Meredith
+- Zero Mostel as Leopold Bloom
+- Broadway transfer in 1974
 
 **"Dead City" (2006)**
-- Współczesna adaptacja sceniczna Sheili Callaghan
-- Akcja przeniesiona do Nowego Jorku
-- Postaci Bloom i Dedalus jako kobiety: Samantha Blossom i Jewel Jupiter
-- Nowatorska reinterpretacja klasycznych postaci
+- Contemporary stage adaptation by Shelia Callaghan
+- Action moved to New York
+- Characters Bloom and Dedalus as women: Samantha Blossom and Jewel Jupiter
+- Innovative reinterpretation of classic characters
 
-### Adaptacje Radiowe
+### Radio Adaptations
 
 **RTÉ Radio Drama (1982)**
-- Pełna, nieokrojona dramatyzacja radiowa na Bloomsday
-- Czas trwania: 29 godzin i 45 minut bez przerwy
-- Pierwsza kompletna adaptacja radiowa w historii
-- Realizacja przez irlandzką telewizję publiczną RTÉ
+- Complete, unabridged radio dramatization on Bloomsday
+- Duration: 29 hours and 45 minutes without interruption
+- First complete radio adaptation in history
+- Produced by Irish public television RTÉ
 
 **BBC Radio 4 (2012)**
-- 9-częściowa adaptacja na Bloomsday 2012
-- Dramatyzacja: Robin Brooks
-- Producent/Reżyser: Jeremy Mortimer
-- Obsada: Stephen Rea (Narrator), Henry Goodman (Bloom), Niamh Cusack (Molly), Andrew Scott (Dedalus)
+- 9-part adaptation on Bloomsday 2012
+- Dramatization: Robin Brooks
+- Producer/Director: Jeremy Mortimer
+- Cast: Stephen Rea (Narrator), Henry Goodman (Bloom), Niamh Cusack (Molly), Andrew Scott (Dedalus)
 
 ---
 
-## 2. Creative Influence - Wpływ na Innych Twórców
+## 2. Creative Influence - Impact on Other Creators
 
-### Pisarze Bezpośrednio Inspirowani Joyce'em
+### Writers Directly Inspired by Joyce
 
 **Virginia Woolf**
-- Technika strumienia świadomości w "Mrs. Dalloway" (1925)
-- "To the Lighthouse" (1927) - rozwój psychologicznego realizmu
-- Konkurencja i wzajemne inspiracje między Woolf a Joyce'em
-- Woolf określała Ulyssesa jako "niedocooked book of a self-taught working man"
+- Stream of consciousness technique in "Mrs. Dalloway" (1925)
+- "To the Lighthouse" (1927) - development of psychological realism
+- Competition and mutual inspirations between Woolf and Joyce
+- Woolf described Ulysses as "underbred book of a self-taught working man"
 
 **Samuel Beckett**
-- Sekretarz Joyce'a w latach 20. XX wieku
-- Inspiracja eksperymentalnymi technikami językowymi
-- "Waiting for Godot" zawiera echa technik narracyjnych Joyce'a
-- Kontynuacja eksperymentów z językiem w teatrze absurdu
+- Joyce's secretary in the 1920s
+- Inspiration from experimental language techniques
+- "Waiting for Godot" contains echoes of Joyce's narrative techniques
+- Continuation of language experiments in theater of the absurd
 
 **William Faulkner**
-- "The Sound and the Fury" (1929) wykorzystuje strumień świadomości
-- Fragmentaryczna i nieliniowa narracja inspirowana Ulyssesem
-- Głęboka eksploracja różnych poziomów świadomości postaci
-- Faulkner przyznawał się do wpływu Joyce'a na swoją twórczość
+- "The Sound and the Fury" (1929) uses stream of consciousness
+- Fragmentary and non-linear narrative inspired by Ulysses
+- Deep exploration of different levels of character consciousness
+- Faulkner acknowledged Joyce's influence on his work
 
 **T.S. Eliot**
-- Obrońca Joyce'a podczas procesów o cenzurę
-- Wzajemne wpływy w eksperymentach z formą poetycką
-- Eliot argumentował, że cenzura modernistycznych książek była błędem kategorycznym
+- Defender of Joyce during censorship trials
+- Mutual influences in poetic form experiments
+- Eliot argued that censorship of modernist books was a categorical error
 
 **Italo Svevo**
-- "La coscienza di Zeno" (1923) napisana pod wpływem Ulyssesa
-- Przyjaciel Joyce'a z okresu triestańskiego
-- Pomógł w przetransportowaniu pierwszych rozdziałów Ulyssesa do Paryża
+- "La coscienza di Zeno" (1923) written under influence of Ulysses
+- Joyce's friend from the Trieste period
+- Helped transport the first chapters of Ulysses to Paris
 
-### Współcześni Pisarze Inspirowani Joyce'em
+### Contemporary Writers Inspired by Joyce
 
 **David Foster Wallace**
-- "Infinite Jest" zawiera nawiązania do technik Joyce'a
-- Eksperymentalna narracja i językowe innowacje
+- "Infinite Jest" contains references to Joyce's techniques
+- Experimental narrative and linguistic innovations
 
 **Don DeLillo**
-- Wpływ technik strumienia świadomości w "White Noise"
-- Eksploracja świadomości w kontekście mediów masowych
+- Influence of stream of consciousness techniques in "White Noise"
+- Exploration of consciousness in the context of mass media
 
 **Jennifer Egan**
-- "A Visit from the Goon Squad" wykorzystuje modernistyczne techniki
-- Fragmentaryczna struktura narratywna
+- "A Visit from the Goon Squad" uses modernist techniques
+- Fragmentary narrative structure
 
 ---
 
-## 3. Social Phenomenon - Fenomen Społeczny i Zmiana Kultury
+## 3. Social Phenomenon - Social Phenomenon and Cultural Change
 
-### Rewolucja w Sposobie Czytania
+### Revolution in Reading Methods
 
-**Nowe Standardy Literackie**
-- Wprowadzenie techniki strumienia świadomości do mainstreamu
-- Redefinicja tego, co może być literaturą
-- Wpływ na sposób przedstawiania świadomości w literaturze
-- Otwarcie nowych możliwości ekspresji dla autorów, malarzy i filmowców
+**New Literary Standards**
+- Introduction of stream of consciousness technique to mainstream
+- Redefinition of what literature can be
+- Impact on the way consciousness is presented in literature
+- Opening new possibilities of expression for authors, painters, and filmmakers
 
-**Akademickie Uznanie**
-- Ponad 15,000 artykułów, monografii, tez, tłumaczeń i wydań
-- Centrum studiów nad modernizmem w uniwersytetach na całym świecie
-- Obowiązkowa lektura na kursach literatury nowoczesnej
-- Źródło inspiracji dla francuskiego poststrukturalizmu
+**Academic Recognition**
+- Over 15,000 articles, monographs, theses, translations, and editions
+- Center of modernism studies at universities worldwide
+- Required reading in modern literature courses
+- Source of inspiration for French poststructuralism
 
-### Wpływ na Świadomość Kulturową
+### Impact on Cultural Consciousness
 
-**Świętowanie Bloomsday (16 czerwca)**
-- Międzynarodowe święto literackie od lat 90. XX wieku
-- Organizowane w Dublinie przez James Joyce Centre od 1994
-- Prawie 100 wydarzeń rocznie w Dublinie
-- Obchody na całym świecie: USA, Kanada, Wielka Brytania, Australia, Chorwacja, Monako
+**Bloomsday Celebration (June 16)**
+- International literary holiday since the 1990s
+- Organized in Dublin by James Joyce Centre since 1994
+- Nearly 100 events annually in Dublin
+- Celebrations worldwide: USA, Canada, UK, Australia, Croatia, Monaco
 
-**Fenomen Dubliński**
-- "Niemożliwe wyobrazić sobie, żeby inne arcydzieło modernizmu miało podobny wpływ na życie miasta"
-- Setki dublinczyków przebierają się corocznie za postaci z książki
-- Turyści podążają szlakiem Blooma przez Dublin
-- Stałe miejsca związane z książką: Davy Byrne's pub, Martello Tower
+**Dublin Phenomenon**
+- "Impossible to imagine another modernist masterpiece having similar impact on city life"
+- Hundreds of Dubliners dress up annually as characters from the book
+- Tourists follow Bloom's trail through Dublin
+- Permanent places connected to the book: Davy Byrne's pub, Martello Tower
 
 ---
 
-## 4. Fan Culture - Społeczności Fanów i Kultura Fandomu
+## 4. Fan Culture - Fan Communities and Fandom Culture
 
-### Międzynarodowe Społeczności Joycean
+### International Joycean Communities
 
 **James Joyce Quarterly**
-- Czasopismo akademickie poświęcone studiom nad Joyce'em
-- Publikowane od 1963 roku przez University of Tulsa
-- Centralne forum dla badaczy Joyce'a na całym świecie
+- Academic journal devoted to Joyce studies
+- Published since 1963 by University of Tulsa
+- Central forum for Joyce scholars worldwide
 
 **James Joyce Society**
-- Międzynarodowe stowarzyszenie miłośników Joyce'a
-- Organizuje konferencje, odczyty i wydarzenia kulturalne
-- Oddziały w głównych miastach światowych
+- International association of Joyce lovers
+- Organizes conferences, lectures, and cultural events
+- Branches in major world cities
 
-### Podcasting i Media Społecznościowe
+### Podcasting and Social Media
 
 **Re:Joyce Podcast (2010-2017)**
-- Frank Delaney prowadził cotygodniowy podcast
-- Strona po stronie przez Ulyssesa
-- Wyjaśnienia aluzji, kontekstu historycznego i odniesień
-- Trwał do śmierci prowadzącego w 2017
+- Frank Delaney hosted weekly podcast
+- Page by page through Ulysses
+- Explanations of allusions, historical context, and references
+- Continued until host's death in 2017
 
-**Współczesne Fandomy Online**
-- Grupy na Facebook, Reddit poświęcone Joyce'owi
-- Wirtualne obchody Bloomsday podczas pandemii
-- Memy i internetowe interpretacje dzieł Joyce'a
+**Contemporary Online Fandoms**
+- Facebook, Reddit groups devoted to Joyce
+- Virtual Bloomsday celebrations during pandemic
+- Memes and internet interpretations of Joyce's works
 
 ---
 
-## 5. Merchandise, Komercjalizacja i Branded Content
+## 5. Merchandise, Commercialization and Branded Content
 
-### Wydania Specjalne i Kolekcjonerskie
+### Special and Collector's Editions
 
-**Shakespeare and Company (Paryż)**
-- Pierwsze wydanie (1922) przez Sylvia Beach
-- Kolekcjonerskie wydania za tysiące dolarów
-- Muzeum i księgarnia jako miejsca kultu
+**Shakespeare and Company (Paris)**
+- First edition (1922) by Sylvia Beach
+- Collector's editions worth thousands of dollars
+- Museum and bookstore as places of worship
 
 **Random House Editions**
-- Pierwsze legalne amerykańskie wydanie (1934)
-- Różne wydania po procesie sądowym 1933
-- Ciągłe wznowienia i nowe edycje
+- First legal American edition (1934)
+- Various editions after the 1933 court case
+- Continuous reprints and new editions
 
-### Produkty Komercyjne
+### Commercial Products
 
-**Turysta Literacka w Dublinie**
-- James Joyce Centre - muzeum i centrum edukacyjne
-- James Joyce Tower & Museum w Sandycove
-- Przewodniki, mapy, pamiątki związane z Joyce'em
-- "Ulysses Dublin Walk" - komercyjne wycieczki po mieście
+**Literary Tourism in Dublin**
+- James Joyce Centre - museum and educational center
+- James Joyce Tower & Museum in Sandycove
+- Guides, maps, souvenirs related to Joyce
+- "Ulysses Dublin Walk" - commercial city tours
 
-**Irlandzkie Produkty Tematyczne**
-- Irlandzka whiskey marki "Ulysses"
-- T-shirty, kubki, plakaty z cytatami z książki
-- Pamiątki sprzedawane w irlandzkich sklepach turystycznych
+**Irish Themed Products**
+- Irish whiskey brand "Ulysses"
+- T-shirts, mugs, posters with book quotes
+- Souvenirs sold in Irish tourist shops
 
 ---
 
-## 6. Miejsca Związane z Książką - Muzea, Ścieżki Tematyczne, Parki
+## 6. Places Related to the Book - Museums, Thematic Trails, Parks
 
-### Dublin, Irlandia
+### Dublin, Ireland
 
 **James Joyce Centre**
-- Muzeum w georgiańskiej kamienicy w północnej części Dublina
-- Oryginalne drzwi z No. 7 Eccles Street z Ulyssesa
-- Wystawy, warsztaty, wykłady dla uczonych i turystów
-- Organizator głównych obchodów Bloomsday
+- Museum in Georgian townhouse in north Dublin
+- Original doors from No. 7 Eccles Street from Ulysses
+- Exhibitions, workshops, lectures for scholars and tourists
+- Organizer of main Bloomsday celebrations
 
 **James Joyce Tower & Museum (Sandycove)**
-- Wieża Martello, gdzie Joyce krótko mieszkał
-- Miejsce akcji pierwszego rozdziału Ulyssesa
-- 30 minut od centrum Dublina
-- Listy, fotografie, pierwsze wydania, przedmioty osobiste Joyce'a
+- Martello Tower where Joyce briefly lived
+- Setting of first chapter of Ulysses
+- 30 minutes from Dublin center
+- Letters, photographs, first editions, Joyce's personal items
 
 **Ulysses Dublin Walk**
-- Szlak turystyczny śladami Leopold Blooma
-- 16 czerwca 1904 - dzień akcji powieści
-- Kluczowe lokacje: Trinity College, National Library, Davy Byrne's pub
-- Przewodnicy w kostiumach edwardiańskich
+- Tourist trail following Leopold Bloom's footsteps
+- June 16, 1904 - day of novel's action
+- Key locations: Trinity College, National Library, Davy Byrne's pub
+- Guides in Edwardian costumes
 
-### Zurich, Szwajcaria
+### Zurich, Switzerland
 
-**Grób Jamesa Joyce'a (Friedhof Fluntern)**
-- Cmentarz Fluntern przy zoo i siedzibie FIFA
-- Pochowany z żoną Norą i synem Giorgio
-- Miejsce pielgrzymek miłośników literatury
-- Joyce zmarł w Zurychu w 1941 po operacji
+**James Joyce's Grave (Friedhof Fluntern)**
+- Fluntern Cemetery near zoo and FIFA headquarters
+- Buried with wife Nora and son Giorgio
+- Pilgrimage site for literature lovers
+- Joyce died in Zurich in 1941 after surgery
 
 **Zurich James Joyce Foundation**
-- Instytucja o międzynarodowej renomie
-- Biblioteka, pierwsze wydania, zasoby badawcze
-- Otwarta dla publiczności
-- Utrzymuje pamięć i dzieło irlandzkiego autora
+- Institution of international renown
+- Library, first editions, research resources
+- Open to the public
+- Maintains memory and work of Irish author
 
 **Platzspitz**
-- Ulubione miejsce Joyce'a w Zurychu
-- Miejsce zbiegu rzek Limmat i Sihl
-- W 2004 umieszczono metalowe napisy "Ljmmat" i "Sjhl"
-- Inicjały Joyce'a wbudowane w nazwy rzek
+- Joyce's favorite place in Zurich
+- Meeting point of Limmat and Sihl rivers
+- In 2004, metal inscriptions "Ljmmat" and "Sjhl" were placed
+- Joyce's initials built into river names
 
-### Trieste, Włochy
+### Trieste, Italy
 
 **Museo Joyce**
-- Muzeum poświęcone prawie 11 letom Joyce'a w mieście
-- Informacje o mieszkaniach, miejscach, rodzinie
-- Tutaj narodziły się dzieci: Giorgio i Lucia
-- Napisał "Portrait of the Artist", "Exiles", "Giacomo Joyce"
-- Pierwsze trzy rozdziały Ulyssesa powstały w Trieście
+- Museum dedicated to Joyce's almost 11 years in the city
+- Information about apartments, places, family
+- Here his children were born: Giorgio and Lucia
+- Wrote "Portrait of the Artist", "Exiles", "Giacomo Joyce"
+- First three chapters of Ulysses were written in Trieste
 
-**Pomnik Joyce'a na Ponterosso**
-- Pomnik autorstwa Nino Spagnoli (2004)
-- Przedstawia pisarza idącego po moście
-- Napis z listu do Nory: "moja dusza jest w Trieście"
-- Umieszczony na setną rocznicę przybycia Joyce'a do miasta
+**Joyce Monument on Ponterosso**
+- Monument by Nino Spagnoli (2004)
+- Depicts the writer walking across the bridge
+- Inscription from letter to Nora: "my soul is in Trieste"
+- Placed on centenary of Joyce's arrival in the city
 
 ---
 
-## 7. Cytaty i Nawiązania w Innych Dziełach Kultury
+## 7. Quotes and References in Other Cultural Works
 
-### Muzyka
+### Music
 
 **Kate Bush - "The Sensual World" (1989)**
-- Próba zmuzycznowania solilokwiu Molly Bloom
-- Brak zgody spadkobierców Joyce'a na użycie tekstu
-- Bush napisała własne słowa "w duchu Molly"
-- Jeden z najbardziej znanych hołdów muzycznych dla Joyce'a
+- Attempt to set Molly Bloom's soliloquy to music
+- Joyce's heirs refused permission to use text
+- Bush wrote her own words "in Molly's spirit"
+- One of the most famous musical tributes to Joyce
 
 **Van Morrison**
-- Wspomina Joyce'a w co najmniej dwóch utworach
-- Irlandzki artysta nawiązujący do literackiego dziedzictwa
+- Mentions Joyce in at least two songs
+- Irish artist referencing literary heritage
 
 **The Firesign Theatre (1969)**
 - Album "How Can You Be in Two Places at Once When You're Not Anywhere at All?"
-- Kończy się recytacją ostatnich linijek solilokwiu Molly Bloom
-- Przykład wpływu na kulturę alternatywną lat 60.
+- Ends with recitation of final lines of Molly Bloom's soliloquy
+- Example of influence on 1960s alternative culture
 
-### Film i Kino
+### Film and Cinema
 
-**Wpływ na Technykę Cinematograficzną**
-- Filmy strukturyzowane według skojarzeń między wspomnieniami a fantazjami
-- Technika strumienia świadomości w kinie
-- Joyce otworzył pierwsze kino w Dublinie (Volta, 1909)
-- Dyskusje z Sergiejem Eizenstein o filmowaniu Ulyssesa
+**Impact on Cinematographic Technique**
+- Films structured according to associations between memories and fantasies
+- Stream of consciousness technique in cinema
+- Joyce opened first cinema in Dublin (Volta, 1909)
+- Discussions with Sergei Eisenstein about filming Ulysses
 
-**Kino Europejskie Nowej Fali**
-- Francuska Nouvelle Vague inspirowana technikami Joyce'a
-- Jean-Luc Godard i eksperymentalna narracja
-- Włoskie neorealistyczne wpływy strumienia świadomości
+**European New Wave Cinema**
+- French Nouvelle Vague inspired by Joyce's techniques
+- Jean-Luc Godard and experimental narrative
+- Italian neorealist influences of stream of consciousness
 
-### Literatura Współczesna
+### Contemporary Literature
 
-**Postmodernistyczne Nawiązania**
-- Thomas Pynchon w "Gravity's Rainbow"
-- Zachariah Wells nawiązania do "Finnegans Wake"
-- Dave Eggers w "A Heartbreaking Work of Staggering Genius"
+**Postmodernist References**
+- Thomas Pynchon in "Gravity's Rainbow"
+- Zachariah Wells references to "Finnegans Wake"
+- Dave Eggers in "A Heartbreaking Work of Staggering Genius"
 
 ---
 
-## 8. Parodie, Hołdy i Reimaginacje
+## 8. Parodies, Tributes and Reimaginings
 
-### Parodie Literackie
+### Literary Parodies
 
-**"Ulysses" jako Wzorzec Parodii**
-- Sama książka zawiera liczne parodie stylistyczne
-- Rozdział "Cyclops" parodiuje różne style pisarstwa popularnego
-- "Nausicaa" parodiuje literaturę romansową
-- Wzorzec dla późniejszych eksperymentów literackich
+**"Ulysses" as Parody Model**
+- The book itself contains numerous stylistic parodies
+- "Cyclops" chapter parodies various popular writing styles
+- "Nausicaa" parodies romantic literature
+- Model for later literary experiments
 
-**Współczesne Parodie**
-- "Bored of the Rings" - parodia Tolkiena w stylu Joyce'a
-- Internetowe memy i parodie online
-- Saturday Night Live skecze nawiązujące do modernizmu
+**Contemporary Parodies**
+- "Bored of the Rings" - Tolkien parody in Joyce's style
+- Internet memes and online parodies
+- Saturday Night Live sketches referencing modernism
 
-### Adaptacje i Reimaginacje
+### Adaptations and Reimaginings
 
 **"Dead City" (2006)**
-- Sheila Callaghan przepisała postaci jako kobiety
-- Współczesna Nowy Jork zamiast dublińskiego 1904
-- Feministyczna reinterpretacja klasycznych motywów
+- Sheila Callaghan rewrote characters as women
+- Contemporary New York instead of 1904 Dublin
+- Feminist reinterpretation of classic motifs
 
-**Graficzne Powieści**
-- Adaptacje komiksowe fragmentów Ulyssesa
-- Robert Crumb ilustracje do "Molly Bloom's Soliloquy"
-- Współczesne interpretacje wizualne
+**Graphic Novels**
+- Comic adaptations of Ulysses fragments
+- Robert Crumb illustrations for "Molly Bloom's Soliloquy"
+- Contemporary visual interpretations
 
 ---
 
-## 9. Kontrowersje i Cenzura - Wpływ na Wolność Słowa
+## 9. Controversies and Censorship - Impact on Freedom of Speech
 
-### Historyczne Procesy Sądowe
+### Historical Court Cases
 
 **The Little Review Trial (1920)**
-- Rozdział "Nausicaa" uznany za obsceniczny
-- Redaktorzy Margaret Anderson i Jane Heap ukarani grzywną
-- Pierwszy proces o treści seksualne w Ulyssesie
-- Precedens dla późniejszych batalii prawnych
+- "Nausicaa" chapter deemed obscene
+- Editors Margaret Anderson and Jane Heap fined
+- First trial for sexual content in Ulysses
+- Precedent for later legal battles
 
 **United States v. One Book Called Ulysses (1933)**
-- Sędzia John M. Woolsey uznał książkę za nie-pornograficzną
-- Przełomowe orzeczenie: książka oceniana jako całość
-- Random House mogło legalnie publikować w USA
-- Pierwszy kraj anglojęzyczny z legalną dostępnością
+- Judge John M. Woolsey ruled book non-pornographic
+- Groundbreaking ruling: book judged as whole
+- Random House could legally publish in USA
+- First English-speaking country with legal availability
 
-**Wpływ na Prawo**
-- Precedens dla wolności artystycznej wypowiedzi
-- Pierwsza poprawka konstytucji USA
-- Zmiany w prawie dotyczącym obscenicznych materiałów
-- Wpływ na późniejsze sprawy cenzury literackiej
+**Impact on Law**
+- Precedent for artistic freedom of speech
+- First Amendment to US Constitution
+- Changes in law regarding obscene materials
+- Impact on later literary censorship cases
 
-### Międzynarodowa Cenzura
+### International Censorship
 
-**Wielka Brytania**
-- Zakaz do lat 30. XX wieku
-- Podziemny obieg wśród intelektualistów
-- Obrona ze strony T.S. Eliota, W.B. Yeatsa, Ezra Pounda
+**Great Britain**
+- Banned until 1930s
+- Underground circulation among intellectuals
+- Defense by T.S. Eliot, W.B. Yeats, Ezra Pound
 
-**Pozostałe Kraje**
-- Australia - zakaz do lat 50.
-- Kanada - ograniczenia importu
-- Irlandia - ironicznie, długi zakaz w ojczyźnie Joyce'a
+**Other Countries**
+- Australia - banned until 1950s
+- Canada - import restrictions
+- Ireland - ironically, long ban in Joyce's homeland
 
 ---
 
-## 10. Akademicki Wpływ i Edukacja
+## 10. Academic Impact and Education
 
-### Uniwersyteckie Kursy
+### University Courses
 
-**Prestiżowe Uniwersytety**
-- Yale University - kursy modernizmu z Joyce'em
-- University of Chicago - 3-częściowy kurs tylko o Ulyssesie
+**Prestigious Universities**
+- Yale University - modernism courses featuring Joyce
+- University of Chicago - 3-part course only on Ulysses
 - Cambridge - Institute of Continuing Education
-- Harvard, Oxford, Trinity College Dublin - stałe kursy
+- Harvard, Oxford, Trinity College Dublin - regular courses
 
-**Zasoby Dydaktyczne**
+**Educational Resources**
 - Modern Language Association - "Approaches to Teaching Joyce's Ulysses"
-- The Great Courses - seria wykładów profesora Jamesa Heffernana
-- SparkNotes, CliffsNotes - przewodniki studenckie
-- OpenLearn - darmowe kursy online
+- The Great Courses - lecture series by Professor James Heffernan
+- SparkNotes, CliffsNotes - student guides
+- OpenLearn - free online courses
 
-### Badania Akademickie
+### Academic Research
 
-**Przemysł Badawczy**
-- Ponad 15,000 publikacji akademickich o Joyce'u
-- Specializowane czasopisma: James Joyce Quarterly
-- Międzynarodowe konferencje Joyce'owskie
-- Studia doktoranckie poświęcone modernizmowi
+**Research Industry**
+- Over 15,000 academic publications on Joyce
+- Specialized journals: James Joyce Quarterly
+- International Joyce conferences
+- Doctoral studies devoted to modernism
 
-**Wpływ na Teorię Literacką**
-- Kluczowy tekst dla francuskiego poststrukturalizmu
-- Roland Barthes i Jacques Derrida analizowali Joyce'a
-- Psychoanalityczna krytyka literacka
-- Feministyczne odczytania postaci Molly Bloom
-
----
-
-## Podsumowanie: Trwały Wpływ na Kulturę XXI wieku
-
-"Ulysses" Jamesa Joyce'a pozostaje jednym z najbardziej wpływowych dzieł literatury światowej, które:
-
-1. **Zrewolucjonizowało literaturę** - wprowadzenie techniki strumienia świadomości do mainstreamu
-2. **Zmieniło prawo** - precedensy w zakresie wolności artystycznej wypowiedzi
-3. **Stworzyło nowy model celebracji literackiej** - Bloomsday jako unikalne święto światowej literatury
-4. **Wpłynęło na wszystkie formy sztuki** - od muzyki po film, teatr i sztuki wizualne
-5. **Etablowało Dublin jako miasto literackie** - UNESCO City of Literature
-6. **Zdefiniowało modernizm** - uznawane za najważniejsze dzieło modernistyczne
-7. **Kontynuuje inspirowanie** - nowe adaptacje, interpretacje i nawiązania powstają do dziś
-
-Książka, która zaczęła się od cenzury i kontrowersji, stała się fundamentem nowoczesnej kultury literackiej i przykładem tego, jak dzieło sztuki może na trwałe zmienić sposób myślenia o literaturze, sztuce i wolności wypowiedzi.
+**Impact on Literary Theory**
+- Key text for French poststructuralism
+- Roland Barthes and Jacques Derrida analyzed Joyce
+- Psychoanalytic literary criticism
+- Feminist readings of Molly Bloom character
 
 ---
 
-*Dokument opracowany na podstawie kompleksowych badań źródeł internetowych, materiałów akademickich i zasobów kulturalnych dotyczących wpływu "Ulysses" Jamesa Joyce'a na kulturę światową.*
+## Summary: Lasting Impact on 21st Century Culture
+
+James Joyce's "Ulysses" remains one of the most influential works of world literature, which:
+
+1. **Revolutionized literature** - introduction of stream of consciousness technique to mainstream
+2. **Changed the law** - precedents in artistic freedom of speech
+3. **Created new model of literary celebration** - Bloomsday as unique world literature holiday
+4. **Influenced all forms of art** - from music to film, theater and visual arts
+5. **Established Dublin as literary city** - UNESCO City of Literature
+6. **Defined modernism** - recognized as most important modernist work
+7. **Continues to inspire** - new adaptations, interpretations and references emerge to this day
+
+The book that began with censorship and controversy became the foundation of modern literary culture and an example of how a work of art can permanently change the way of thinking about literature, art, and freedom of speech.
+
+---
+
+*Document compiled based on comprehensive research of internet sources, academic materials, and cultural resources regarding the impact of James Joyce's "Ulysses" on world culture.*

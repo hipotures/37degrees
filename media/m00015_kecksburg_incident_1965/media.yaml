@@ -1,0 +1,12 @@
+media_info:
+  title: "Kecksburg Incident - December 9, 1965"
+  author: "Historical Documentation"
+  year: 1965
+  genre: "Unexplained Phenomena Documentary"
+  description: "A fireball crosses six states before allegedly crashing in Pennsylvania woods, followed by rapid military response and recovery"
+  target_audience: "General public, students, UFO researchers, conspiracy theorists"
+  duration: "~3 minutes"
+  objective: "Recreate the mysterious crash and military recovery operation that sparked decades of FOIA battles with NASA"
+  scene_count: 10
+  graphics_style: "cinematic-conspiracy-thriller"
+  scene_generator: "narrative"
