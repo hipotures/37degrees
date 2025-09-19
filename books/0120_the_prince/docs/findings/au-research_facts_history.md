@@ -1,147 +1,147 @@
-# Historia Powstania "Księcia" Niccolò Machiavellego - Fakty i Anegdoty
+# Creation History of "The Prince" by Niccolò Machiavelli - Facts and Anecdotes
 
-## Okoliczności Powstania Książki
+## Circumstances of Book Creation
 
-**FAKT** - Machiavelli napisał "Księcia" w 1513 roku podczas wygnania z Florencji, po upadku Republiki Florenckiej i powrocie rodu Medyceuszy do władzy w 1512 roku.
+**FACT** - Machiavelli wrote "The Prince" in 1513 during his exile from Florence, after the fall of the Florentine Republic and the return of the Medici family to power in 1512.
 
-**FAKT** - Książka została napisana w zaledwie kilka miesięcy, między wiosną a jesienią 1513 roku, w posiadłości rodzinnej Sant'Andrea in Percussina pod Florencją.
+**FACT** - The book was written in just a few months, between spring and autumn 1513, at the family estate Sant'Andrea in Percussina near Florence.
 
-**FAKT** - Machiavelli ukończył dzieło przed Bożym Narodzeniem 1513 roku - w liście do Francesco Vettori z 10 grudnia 1513 roku opisywał swoją "małą pracę" zatytułowaną "De Principatibus" (O Księstwach).
+**FACT** - Machiavelli completed the work before Christmas 1513 - in a letter to Francesco Vettori dated December 10, 1513, he described his "little work" titled "De Principatibus" (On Principalities).
 
-**FAKT** - Pierwotnie książka miała być zadedykowana Giuliano de' Medici, ale po jego śmierci dedykacja została zmieniona na Lorenzo de' Medici, wnuka Lorenza Wspaniałego.
+**FACT** - Originally the book was to be dedicated to Giuliano de' Medici, but after his death the dedication was changed to Lorenzo de' Medici, grandson of Lorenzo the Magnificent.
 
-**PLOTKA** - Lorenzo de' Medici prawdopodobnie nigdy nie przeczytał książki, gdy trafiła do jego rąk w 1516 roku - był opisywany jako próżny i nieudolny władca.
+**RUMOR** - Lorenzo de' Medici probably never read the book when it reached his hands in 1516 - he was described as a vain and incompetent ruler.
 
-## Dramatyczne Okoliczności Przed Napisaniem
+## Dramatic Circumstances Before Writing
 
-**FAKT** - W lutym 1513 roku odkryto spisek anty-medycejski, a Machiavelli został aresztowany pod zarzutem udziału w konspiracji.
+**FACT** - In February 1513, an anti-Medici conspiracy was discovered, and Machiavelli was arrested on charges of participating in the plot.
 
-**FAKT** - Przez 22 dni był więziony w Bargello i torturowany metodą zwaną "strappado" - wieszano go za związane ręce, powodując zwichnięcie barków.
+**FACT** - For 22 days he was imprisoned in the Bargello and tortured using a method called "strappado" - he was hung by his tied hands, causing shoulder dislocation.
 
-**FAKT** - Pomimo sześciu "zrzutów na strappado" Machiavelli zachowywał się dzielnie i nawet napisał zabawne sonety o swoim doświadczeniu tortur.
+**FACT** - Despite six "drops on the strappado," Machiavelli behaved bravely and even wrote humorous sonnets about his torture experience.
 
-**FAKT** - Został zwolniony w marcu 1513 roku dzięki wybranki Giovanni de' Medici na papieża oraz swoim dowcipnym sonetom błagalnym skierowanym do Medyceuszy.
+**FACT** - He was released in March 1513 thanks to Giovanni de' Medici's election as pope and his witty pleading sonnets addressed to the Medicis.
 
-**FAKT** - Po zwolnieniu był ograniczony do swojej małej posiadłości z kaucją 1000 złotych florenów i zakazem poruszania się po mieście.
+**FACT** - After release, he was confined to his small estate with a bail of 1,000 gold florins and forbidden from moving around the city.
 
-## Życie W Wygnaniu i Proces Twórczy
+## Life in Exile and Creative Process
 
-**FAKT** - W słynnym liście do Francesco Vettori z 10 grudnia 1513 roku Machiavelli opisał swoją codzienną rutynę: rano spacery po lesie, popołudnie picie i gra w karty z przyjaciółmi w gospodzie, wieczorem czytanie i pisanie w gabinecie.
+**FACT** - In his famous letter to Francesco Vettori dated December 10, 1513, Machiavelli described his daily routine: morning walks in the forest, afternoon drinking and card games with friends at the inn, evening reading and writing in his study.
 
-**FAKT** - Wieczorem przebierał się ze zwykłych, zabłoconych ubrań roboczych w "szaty królewskie i dworskie", by "wejść do starożytnych salonów starożytnych ludzi".
+**FACT** - In the evening, he changed from ordinary, muddy work clothes into "royal and courtly robes" to "enter the ancient courts of ancient men."
 
-**FAKT** - W gabinecie "rozmawiał" z wielkimi myślicielami przeszłości, którzy "w swojej dobroci odpowiadali mu", co wykorzystywał do pisania swojego dzieła.
+**FACT** - In his study, he "conversed" with great thinkers of the past, who "in their kindness answered him," which he used to write his work.
 
-**FAKT** - List do Vettori jest uważany za jeden z najsławniejszych w całej literaturze włoskiej i zawiera poetycki opis procesu twórczego Machiavellego.
+**FACT** - The letter to Vettori is considered one of the most famous in all Italian literature and contains a poetic description of Machiavelli's creative process.
 
-**FAKT** - Machiavelli pracował na gospodarstwie rolnym, jednocześnie pisząc wieczorami - łączył pracę fizyczną z intelektualną.
+**FACT** - Machiavelli worked on the farm while writing in the evenings - combining physical labor with intellectual work.
 
-## Inspiracje i Źródła
+## Inspirations and Sources
 
-**FAKT** - Jednym z głównych wzorów był Cesare Borgia, którego Machiavelli obserwował osobiście podczas misji dyplomatycznej.
+**FACT** - One of the main models was Cesare Borgia, whom Machiavelli observed personally during diplomatic missions.
 
-**FAKT** - Machiavelli był świadkiem, jak Borgia zwabił wrogów do Senigallii obietnicami przyjaźni i prezentami, a następnie kazał ich wszystkich zamordować.
+**FACT** - Machiavelli witnessed how Borgia lured enemies to Senigallia with promises of friendship and gifts, then had them all murdered.
 
-**FAKT** - Doświadczenia jako sekretarza drugiej kancelarii Republiki Florenckiej (1498-1512) dostarczyły mu praktycznej wiedzy o polityce.
+**FACT** - His experiences as secretary of the second chancellery of the Florentine Republic (1498-1512) provided him with practical knowledge of politics.
 
-**FAKT** - Dzieło powstało na podstawie "lekcji historii i własnych doświadczeń jako sekretarza spraw zagranicznych we Florencji".
+**FACT** - The work was based on "lessons of history and his own experiences as secretary of foreign affairs in Florence."
 
-## Teorie o Prawdziwych Intencjach
+## Theories About True Intentions
 
-**PLOTKA** - Niektórzy uczeni sugerują, że "Książę" był napisany jako zemsta na Medyceuszach - miał ich zwieść fałszywymi radami, które doprowadzą do ich upadku.
+**RUMOR** - Some scholars suggest that "The Prince" was written as revenge on the Medicis - it was meant to deceive them with false advice that would lead to their downfall.
 
-**FAKT** - "Książę" był prawdopodobnie szczerze oferowany Lorenzo de' Medici jako rodzaj "podania o pracę" - Machiavelli desperacko chciał wrócić do polityki.
+**FACT** - "The Prince" was probably sincerely offered to Lorenzo de' Medici as a kind of "job application" - Machiavelli desperately wanted to return to politics.
 
-**PLOTKA** - Istnieje apokryficzna historia, że Lorenzo wolał sforu psów myśliwskich od prezentu w postaci "Księcia", co sprowadziło na Medyceuszy przysięgę zemsty Machiavellego.
+**RUMOR** - There is an apocryphal story that Lorenzo preferred a pack of hunting dogs to the gift of "The Prince," which brought upon the Medicis Machiavelli's oath of revenge.
 
-**FAKT** - Rousseau w XVIII wieku argumentował, że Machiavelli pod pozorem doradzania książętom w rzeczywistości uczył lud, jak zapewnić republice bezpieczeństwo.
+**FACT** - Rousseau in the 18th century argued that Machiavelli, under the guise of advising princes, was actually teaching the people how to ensure the republic's security.
 
-## Historia Publikacji i Odbiór
+## Publication History and Reception
 
-**FAKT** - "Książę" nie został opublikowany za życia autora - pierwsza edycja ukazała się w 1532 roku, pięć lat po śmierci Machiavellego.
+**FACT** - "The Prince" was not published during the author's lifetime - the first edition appeared in 1532, five years after Machiavelli's death.
 
-**FAKT** - Przed publikacją krążyło co najmniej siedem kopii rękopisu wśród przyjaciół Machiavellego od 1513 roku.
+**FACT** - Before publication, at least seven manuscript copies circulated among Machiavelli's friends from 1513.
 
-**FAKT** - Publikacja odbyła się za zgodą papieża Klemensa VII z rodu Medyceuszy.
+**FACT** - Publication took place with the consent of Pope Clement VII from the Medici family.
 
-**FAKT** - Około piętnastu wydań "Księcia" i dziewiętnastu "Dyskursów" było w obiegu przed umieszczeniem ich na Indeksie Ksiąg Zakazanych w 1559 roku.
+**FACT** - About fifteen editions of "The Prince" and nineteen of the "Discourses" were in circulation before they were placed on the Index of Forbidden Books in 1559.
 
-**FAKT** - W 1559 roku Kościół katolicki umieścił "Księcia" na Index Librorum Prohibitorum - nie był ponownie publikowany we Włoszech aż do 1630 roku.
+**FACT** - In 1559, the Catholic Church placed "The Prince" on the Index Librorum Prohibitorum - it was not republished in Italy until 1630.
 
-**FAKT** - Pierwsze angielskie tłumaczenie zostało opublikowane dopiero w 1640 roku przez Edwarda Dacresa.
+**FACT** - The first English translation was published only in 1640 by Edward Dacres.
 
-**FAKT** - Jedno z wydawnictw odważnie wydało włoską edycję w Londynie w 1584 roku, podając na stronie tytułowej Palermo jako miejsce publikacji, aby ominąć zakaz.
+**FACT** - One publisher boldly issued an Italian edition in London in 1584, listing Palermo as the place of publication on the title page to circumvent the ban.
 
-## Wpływ na Historię Polityki
+## Impact on Political History
 
-**FAKT** - Katarzyna Medycejska, regentka Francji dla swojego syna Karola IX od 1560 roku, była córką Lorenzo de' Medici, któremu Machiavelli zadedykował "Księcia".
+**FACT** - Catherine de' Medici, regent of France for her son Charles IX from 1560, was the daughter of Lorenzo de' Medici, to whom Machiavelli dedicated "The Prince."
 
-**FAKT** - Katarzyna była oskarżana o planowanie rzezi św. Bartłomieja (1572), co uznano za dowód jej "makiawelicznego" charakteru.
+**FACT** - Catherine was accused of planning the St. Bartholomew's Day Massacre (1572), which was considered proof of her "Machiavellian" character.
 
-**FAKT** - Jej syn, król Henryk III, był oskarżany o stałe noszenie przy sobie kopii "Księcia" i konsultowanie się z nią przy każdej decyzji politycznej.
+**FACT** - Her son, King Henry III, was accused of constantly carrying a copy of "The Prince" and consulting it with every political decision.
 
-**FAKT** - Wydarzenia we Francji w latach 70. XVI wieku przyniosły "Księciu" rozgłos w zachodnim świecie, gdzie pozostał do dzisiaj.
+**FACT** - Events in France in the 1570s brought "The Prince" fame in the Western world, where it has remained to this day.
 
-## Biografia Autora w Kontekście Dzieła
+## Author Biography in Context of the Work
 
-**FAKT** - Niccolò Machiavelli urodził się 3 maja 1469 roku we Florencji jako trzecie dziecko i pierwszy syn prawnika Bernardo di Niccolò Machiavellego.
+**FACT** - Niccolò Machiavelli was born on May 3, 1469, in Florence as the third child and first son of lawyer Bernardo di Niccolò Machiavelli.
 
-**FAKT** - Jego ojciec Bernardo był zubożałym prawnikiem, wykluczonym z urzędów publicznych jako niewypłacalny dłużnik.
+**FACT** - His father Bernardo was an impoverished lawyer, excluded from public offices as an insolvent debtor.
 
-**FAKT** - Matka Bartolomea di Stefano Nelli była miłośniczką poezji i prawdopodobnie kierowała wczesnymi studiami syna.
+**FACT** - His mother Bartolomea di Stefano Nelli was a poetry lover and probably directed her son's early studies.
 
-**FAKT** - Rodzina Machiavelli pochodziła od starych markizów Toskanii i wydała trzynastu florenckich Gonfaloniersów Sprawiedliwości.
+**FACT** - The Machiavelli family descended from the old marquises of Tuscany and produced thirteen Florentine Gonfaloniers of Justice.
 
-**FAKT** - Pomimo szlachetnego pochodzenia, rodzina była uboga i żyła głównie ze skromnego wynagrodzenia ojca za praktykę prawniczą.
+**FACT** - Despite noble origins, the family was poor and lived mainly on the father's modest earnings from legal practice.
 
-## Ciekawostki i Anegdoty
+## Curiosities and Anecdotes
 
-**FAKT** - Machiavelli napisał również komedie, pieśni karnawałowe i poezję - nie ograniczał się tylko do traktatów politycznych.
+**FACT** - Machiavelli also wrote comedies, carnival songs, and poetry - he was not limited to political treatises.
 
-**FAKT** - W 1518 roku napisał komedię "Mandragola", uważaną za arcydzieło włoskiego teatru renesansowego.
+**FACT** - In 1518, he wrote the comedy "Mandragola," considered a masterpiece of Italian Renaissance theater.
 
-**FAKT** - Machiavelli umarł 21 czerwca 1527 roku we Florencji, prawdopodobnie na zapalenie otrzewnej.
+**FACT** - Machiavelli died on June 21, 1527, in Florence, probably from peritonitis.
 
-**FAKT** - Jego grób znajduje się w bazylice Santa Croce we Florencji z napisem "Tanto nomini nullum par elogium" (Żadna pochwała nie dorówna tak wielkiemu imieniu).
+**FACT** - His tomb is located in the Santa Croce basilica in Florence with the inscription "Tanto nomini nullum par elogium" (No praise equals such a great name).
 
-**PLOTKA** - Legenda głosi, że na łożu śmierci Machiavelli opowiadał sen, w którym spotkał filozofów w niebie - byli nudni, więc wybrał piekło, gdzie byli królowie i książęta, z którymi mógł dyskutować o polityce.
+**RUMOR** - Legend has it that on his deathbed, Machiavelli told of a dream in which he met philosophers in heaven - they were boring, so he chose hell, where there were kings and princes with whom he could discuss politics.
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-**FAKT** - Według Open Library istnieje 1,407 różnych wydań "Księcia" w różnych językach i formatach.
+**FACT** - According to Open Library, there are 1,407 different editions of "The Prince" in various languages and formats.
 
-**FAKT** - Pierwsze wydanie z 1532 roku jest niezwykle rzadkie - Sotheby's stwierdziło, że był to pierwszy egzemplarz, który trafił na aukcję "z pewnością w ostatnich dekadach".
+**FACT** - The first edition from 1532 is extremely rare - Sotheby's stated it was the first copy to come to auction "certainly in recent decades."
 
-**FAKT** - "Książę" składa się z 26 rozdziałów i ma około 100 stron w standardowym wydaniu.
+**FACT** - "The Prince" consists of 26 chapters and has about 100 pages in a standard edition.
 
-**FAKT** - Najdłuższy rozdział (VI) dotyczy spisków i jest poświęcony analizie niebezpieczeństwa konspiracji dla władców.
+**FACT** - The longest chapter (VI) deals with conspiracies and is devoted to analyzing the danger of plots for rulers.
 
-**FAKT** - Dzieło było innowacyjne, ponieważ zostało napisane w języku włoskim narodowym, a nie po łacinie.
+**FACT** - The work was innovative because it was written in the Italian vernacular, not in Latin.
 
-## Ukryte Aspekty i Interpretacje
+## Hidden Aspects and Interpretations
 
-**FAKT** - Motto "cel uświęca środki" nigdy nie pojawia się w "Księciu", chociaż często jest przypisywane Makiawelemu.
+**FACT** - The motto "the end justifies the means" never appears in "The Prince," although it is often attributed to Machiavelli.
 
-**FAKT** - Prawdziwa maksyma brzmi: "we wszystkich ludzkich działaniach, a szczególnie w działaniach książąt, gdzie nie ma sądu, na który można się odwołać, zwraca się uwagę na końcowy rezultat".
+**FACT** - The true maxim reads: "in all human actions, and especially in the actions of princes, where there is no judgment to which one can appeal, attention is paid to the final result."
 
-**FAKT** - Machiavelli twierdził, że władca musi być jednocześnie "lisem, aby rozpoznać pułapki, i lwem, aby przestraszyć wilki".
+**FACT** - Machiavelli claimed that a ruler must be simultaneously "a fox to recognize traps, and a lion to frighten wolves."
 
-**FAKT** - Koncepcja "virtù" u Machiavellego to nie cnota moralna, ale skuteczność polityczna i zdolność do działania w trudnych sytuacjach.
+**FACT** - The concept of "virtù" in Machiavelli is not moral virtue, but political effectiveness and the ability to act in difficult situations.
 
-**PLOTKA** - Niektórzy uczeni interpretują "Księcia" jako ironiczną parodię tradycyjnych "luster książąt", rodzaj "politycznej czarnej mszy".
+**RUMOR** - Some scholars interpret "The Prince" as an ironic parody of traditional "mirrors for princes," a kind of "political black mass."
 
-## Współczesna Recepcja
+## Contemporary Reception
 
-**FAKT** - "Książę" zmusza czytelników od 500 lat do konfrontacji z najważniejszymi pytaniami o politykę i moralność.
+**FACT** - "The Prince" has forced readers for 500 years to confront the most important questions about politics and morality.
 
-**FAKT** - Dziś uczeni zdają sobie sprawę, że Machiavelli pisał z podwójną ostrością, wyjaśniając, dlaczego rząd ludowy jest lepszy od autorytarnego.
+**FACT** - Today scholars realize that Machiavelli wrote with double-edged sharpness, explaining why popular government is better than authoritarian.
 
-**FAKT** - Nie ma ustalonej opinii naukowej co do niemal żadnego aspektu filozofii Machiavellego - filozofowie nie zgadzają się co do jego intencji, szczerości czy pobożności.
+**FACT** - There is no established scholarly opinion on almost any aspect of Machiavelli's philosophy - philosophers disagree about his intentions, sincerity, or piety.
 
-**FAKT** - "Książę" pozostaje jednym z najbardziej wpływowych dzieł myśli politycznej w historii Zachodu, pomagając kształtować nowoczesne rozumienie polityki jako oddzielnej sfery od moralności.
+**FACT** - "The Prince" remains one of the most influential works of political thought in Western history, helping to shape the modern understanding of politics as a separate sphere from morality.
 
 ---
 
-*Opracowanie: Agent 37degrees - Badania Faktów i Historii*  
-*Data: Wrzesień 2025*  
-*Źródła: Analiza historyczna, biograficzne materiały źródłowe, korespondencja Machiavellego, dokumenty archiwalne*
+*Research: 37degrees Agent - Facts and History Research*
+*Date: September 2025*
+*Sources: Historical analysis, biographical source materials, Machiavelli's correspondence, archival documents*

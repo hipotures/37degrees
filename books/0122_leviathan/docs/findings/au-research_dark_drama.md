@@ -1,132 +1,132 @@
-# Dark Drama & Kontrowersje: Lewiatan Thomasa Hobbesa
+# Dark Drama & Controversies: Thomas Hobbes' Leviathan
 
-## Wprowadzenie
-Thomas Hobbes (1588-1679) i jego dzieło "Lewiatan" (1651) to jedno z najbardziej kontrowersyjnych i mrocznych dzieł filozofii politycznej w historii. Książka, która miała zaprowadzić pokój, stała się źródłem stuleci skandali, oskarżeń o ateizm i inspiracją dla najczarniejszych wizji totalitaryzmu.
+## Introduction
+Thomas Hobbes (1588-1679) and his work "Leviathan" (1651) represent one of the most controversial and dark works of political philosophy in history. The book that was meant to bring peace became a source of centuries of scandals, accusations of atheism, and inspiration for the darkest visions of totalitarianism.
 
-## 1. MROCZNE INTERPRETACJE I TEORIE SPISKOWE
+## 1. DARK INTERPRETATIONS AND CONSPIRACY THEORIES
 
-### Totalitarny Blueprint
-**FAKT**: Hobbes był pierwszym filozofem, który systematycznie uzasadnił absolutną władzę jako rozwiązanie problemów ludzkości
-**ZARZUT**: "Lewiatan" służy jako instrukcja obsługi dla dyktatorów - współczesni krytycy nazywają go "podręcznikiem rebela" (Rebel's Catechism)
-**FAKT**: Carl Schmitt, kontrowersyjny prawnik nazistowski XX wieku, był nazywany "współczesnym Hobbsem" za podobne idee absolutnej władzy
+### Totalitarian Blueprint
+**FACT**: Hobbes was the first philosopher to systematically justify absolute power as a solution to humanity's problems
+**ACCUSATION**: "Leviathan" serves as an operating manual for dictators - contemporary critics call it the "Rebel's Catechism"
+**FACT**: Carl Schmitt, the controversial Nazi lawyer of the 20th century, was called the "contemporary Hobbes" for similar ideas about absolute power
 
-### Okultystyczne i Ezoteryczne Znaczenia
-**FAKT**: Hobbes świadomie wybral symbol biblijnego potwora morskiego Lewiatana - demona chaosu i zazdrości w teologii chrześcijańskiej
-**PLOTKA**: Krzyż Lewiatana (podwójny krzyż na symbolu nieskończoności) jest używany w alchemii i satanizmie jako symbol siarki - męskiej zasady destrukcji
-**FAKT**: Lewiatan w mitologii hebrajskiej to "pierwotny demon-potwór mórz i król bestii", ucieleśnienie chaosu zagrażającego pochłonięciem potępionych
+### Occult and Esoteric Meanings
+**FACT**: Hobbes consciously chose the symbol of the biblical sea monster Leviathan - the demon of chaos and envy in Christian theology
+**RUMOR**: The Cross of Leviathan (double cross on an infinity symbol) is used in alchemy and Satanism as a symbol of sulfur - the masculine principle of destruction
+**FACT**: Leviathan in Hebrew mythology is the "primordial sea-demon and king of beasts," the embodiment of chaos threatening to devour the damned
 
-### Conspiracy Theories Modern Times
-**ZARZUT**: Teoria spiskowa łączy filozofię Hobbesa z planami Illuminati i masonów na kontrolę światową
-**PLOTKA**: "Trylogia Illuminatus!" używa Lewiatana Hobbesa jako metafory totalitarnego państwa kontrolującego wszystko
-**FAKT**: Hobbes faktycznie opowiadał się za absolutną cenzurą prasy i kontrolą opinii publicznej przez władcę
+### Modern Conspiracy Theories
+**ACCUSATION**: Conspiracy theory connects Hobbes' philosophy with Illuminati and Masonic plans for world control
+**RUMOR**: "The Illuminatus! Trilogy" uses Hobbes' Leviathan as a metaphor for a totalitarian state controlling everything
+**FACT**: Hobbes actually advocated for absolute press censorship and control of public opinion by the ruler
 
-## 2. OSOBISTE SKANDALE I DRAMATY AUTORA
+## 2. PERSONAL SCANDALS AND AUTHOR'S DRAMAS
 
-### Oskarżenia o Ateizm i Herezję
-**FAKT**: Hobbes był powszechnie uważany za ateistę, zdobywając przydomek "Potwór z Malmesbury"
-**FAKT**: W 1666 roku parlament wydał nakaz zbadania "książek prowadzących do ateizmu, bluźnierstwa i bezbożności... w szczególności książki pana Hobbesa zwanej Lewiatan"
-**ZARZUT**: Biskup Bramhall oficjalnie oskarżył Hobbesa o nauczanie prowadzące do ateizmu
-**FAKT**: Hobbes był tak przerażony oskarżeniami o herezję, że spalił część swoich kompromitujących dokumentów
+### Accusations of Atheism and Heresy
+**FACT**: Hobbes was widely considered an atheist, earning the nickname "Monster of Malmesbury"
+**FACT**: In 1666, parliament issued an order to investigate "books leading to atheism, blasphemy, and impiety... particularly Mr. Hobbes' book called Leviathan"
+**ACCUSATION**: Bishop Bramhall officially accused Hobbes of teaching leading to atheism
+**FACT**: Hobbes was so terrified of heresy accusations that he burned some of his compromising documents
 
-### Wygnaniec i Outsider
-**FAKT**: Hobbes żył na wygnaniu we Francji przez 11 lat (1640-1651) ze strachu przed parlamentem
-**FAKT**: W Paryżu był podejrzany o ateizm i był zagorzałym wrogiem Kościoła katolickiego
-**FAKT**: Czuł się coraz bardziej izolowany - nawet francuscy intelektualiści go unikali
+### Exile and Outsider Status
+**FACT**: Hobbes lived in exile in France for 11 years (1640-1651) out of fear of parliament
+**FACT**: In Paris he was suspected of atheism and was a fierce enemy of the Catholic Church
+**FACT**: He felt increasingly isolated - even French intellectuals avoided him
 
-### Ochrona Królewska i Hipokryzja
-**FAKT**: Mimo krytyki monarchii, Hobbes był nauczycielem przyszłego króla Karola II
-**PLOTKA**: Król Karol II przyznał mu pensję 100 funtów rocznie, chroniąc go przed oskarżeniami o ateizm
-**ZARZUT**: Krytycy zarzucają mu hipokryzję - teoretycznie popierał absolutyzm, praktycznie szukał królewskiej protekcji
+### Royal Protection and Hypocrisy
+**FACT**: Despite criticizing monarchy, Hobbes was tutor to future King Charles II
+**RUMOR**: King Charles II granted him a pension of 100 pounds annually, protecting him from atheism accusations
+**ACCUSATION**: Critics charge him with hypocrisy - theoretically supporting absolutism while practically seeking royal protection
 
-## 3. MATEMATYCZNE SKANDALE I FEUDY
+## 3. MATHEMATICAL SCANDALS AND FEUDS
 
-### Walka z Johniem Wallisem
-**FAKT**: Hobbes przez 25 lat prowadził jeden z najsłynniejszych feudów w historii matematyki z Johniem Wallisem
-**FAKT**: Wallis nazywał dzieła Hobbesa "zasranym kawałkiem" (shitten piece), a Hobbes odpowiadał nazywając pisma Wallisa "ignorancją i bełkotem"
-**FAKT**: Wallis napisał o Hobbesie, że "zwymiotował trucizną nieczystością"
-**ZARZUT**: Hobbes do końca życia nie przyznał się do błędu w "kwadraturze koła" - matematycznej niemożliwości
+### Battle with John Wallis
+**FACT**: Hobbes conducted one of the most famous feuds in mathematics history with John Wallis for 25 years
+**FACT**: Wallis called Hobbes' works a "shitten piece," and Hobbes responded by calling Wallis's writings "ignorance and babble"
+**FACT**: Wallis wrote about Hobbes that he "vomited poison with filth"
+**ACCUSATION**: Hobbes never admitted his error in "squaring the circle" - a mathematical impossibility - until his death
 
 ### Disputatious Nature
-**FAKT**: Hobbes był "intensywnie kłótliwy" i wielokrotnie angażował się w przedłużające się kłótnie z duchownymi, matematykami i filozofami
-**FAKT**: Te konflikty często szkodziły jego reputacji intelektualnej
-**PLOTKA**: Mimo reputacji awanturnika, osobiście był podobno dość miłą osobą w kontaktach prywatnych
+**FACT**: Hobbes was "intensely quarrelsome" and repeatedly engaged in prolonged arguments with clergy, mathematicians, and philosophers
+**FACT**: These conflicts often damaged his intellectual reputation
+**RUMOR**: Despite his reputation as a troublemaker, he was reportedly quite pleasant in private contacts
 
-## 4. CENZURA I PRZEŚLADOWANIA RZĄDOWE
+## 4. GOVERNMENT CENSORSHIP AND PERSECUTION
 
-### Ironia Cenzury
-**FAKT**: Hobbes opowiadał się za absolutną cenzurą i kontrolą książek przez władcę
-**FAKT**: Ironicznie, jego własna książka "Lewiatan" była wielokrotnie banowana i palona
-**FAKT**: W 1666 roku jego książki zostały spalone na Uniwersytecie Oxfordzkim - jego alma mater
-**FAKT**: Przez stulecia "Lewiatan" był na indeksie ksiąg zakazanych Kościoła katolickiego
+### The Irony of Censorship
+**FACT**: Hobbes advocated for absolute censorship and control of books by the ruler
+**FACT**: Ironically, his own book "Leviathan" was repeatedly banned and burned
+**FACT**: In 1666, his books were burned at Oxford University - his alma mater
+**FACT**: For centuries, "Leviathan" was on the Catholic Church's Index of Forbidden Books
 
 ### Religious Persecution
-**FAKT**: "Anti-hobbizm" osiągnął taki szczyt w 1666, że jego dzieła były masowo palowane
-**FAKT**: Hobbes był zakazany publikowania swoich poglądów po interwencji parlamentu
-**ZARZUT**: Krytycy nazywali go "Apostołem Niewierności", "Potworem z Malmesbury", "Błahym Czcicielem Materialnego Boga"
+**FACT**: "Anti-Hobbism" reached such a peak in 1666 that his works were mass burned
+**FACT**: Hobbes was banned from publishing his views after parliamentary intervention
+**ACCUSATION**: Critics called him "Apostle of Infidelity," "Monster of Malmesbury," "Vain Worshipper of a Material God"
 
-## 5. KONFLIKTY Z INNYMI MYŚLICIELAMI
+## 5. CONFLICTS WITH OTHER THINKERS
 
-### Wojna z René Descartes
-**FAKT**: Hobbes napisał bezlitosną krytykę "Medytacji o pierwszej filozofii" Kartezjusza
-**FAKT**: Konflikt zakończył się całkowitym zerwaniem korespondencji między filozofami
-**FAKT**: Materializm Hobbesa fundamentalnie przeciwstawiał się dualizmowi Kartezjusza
+### War with René Descartes
+**FACT**: Hobbes wrote a ruthless critique of Descartes' "Meditations on First Philosophy"
+**FACT**: The conflict ended with complete severance of correspondence between the philosophers
+**FACT**: Hobbes' materialism fundamentally opposed Descartes' dualism
 
-### Feud z Biskupem Bramhallem
-**FAKT**: Biskup John Bramhall nazywał "Lewiatana" "Katechizmem Rebela"
-**FAKT**: Ich publiczna wymiana zdań trwała lata i była prowadzona "z zadziwiającą siłą"
-**FAKT**: Bramhall oskarżył Hobbesa o promowanie nauk prowadzących do ateizmu
+### Feud with Bishop Bramhall
+**FACT**: Bishop John Bramhall called "Leviathan" the "Rebel's Catechism"
+**FACT**: Their public exchange lasted years and was conducted "with amazing force"
+**FACT**: Bramhall accused Hobbes of promoting teachings leading to atheism
 
-### Konflikt z Royal Society
-**FAKT**: Hobbes prowadził debaty z Robertem Boyle'em o metodach eksperymentalnych
-**FAKT**: Był w konflikcie z praktykami Królewskiego Towarzystwa Naukowego
-**ZARZUT**: Jego podejście do nauki było uważane za przestarzałe przez współczesnych
+### Conflict with the Royal Society
+**FACT**: Hobbes debated with Robert Boyle about experimental methods
+**FACT**: He was in conflict with the practices of the Royal Society
+**ACCUSATION**: His approach to science was considered outdated by contemporaries
 
-## 6. FINANCIAL SCANDALS I MONEY DRAMA
+## 6. FINANCIAL SCANDALS AND MONEY DRAMA
 
-### Dependencja Finansowa
-**PLOTKA**: Mimo krytyki systemu, Hobbes był finansowo zależny od arystokratycznej rodziny Cavendish przez całe życie
-**FAKT**: Otrzymywał pensję królewską w wysokości 100 funtów rocznie - znaczną sumę w XVII wieku
-**ZARZUT**: Krytycy zarzucają mu finansową hipokryzję - korzystanie z systemu, który teoretycznie krytykował
+### Financial Dependence
+**RUMOR**: Despite criticizing the system, Hobbes was financially dependent on the aristocratic Cavendish family throughout his life
+**FACT**: He received a royal pension of 100 pounds annually - a significant sum in the 17th century
+**ACCUSATION**: Critics charge him with financial hypocrisy - benefiting from a system he theoretically criticized
 
 ### Publishing Controversies
-**FAKT**: Jego dzieła były tak kontrowersyjne, że miał problemy ze znalezieniem wydawców
-**PLOTKA**: Niektóre z jego prac były publikowane bez jego wiedzy, co prowadziło do dodatkowych konfliktów
-**ZARZUT**: Wykorzystywał kontrowersje do zwiększenia sprzedaży swoich książek
+**FACT**: His works were so controversial that he had trouble finding publishers
+**RUMOR**: Some of his works were published without his knowledge, leading to additional conflicts
+**ACCUSATION**: He exploited controversies to increase sales of his books
 
-## 7. PROPHECY CHECK - CO SIĘ SPRAWDZIŁO
+## 7. PROPHECY CHECK - WHAT CAME TRUE
 
-### Przepowiednie Spełnione
-**FAKT**: Przewidział centralną rolę państwa w nowoczesnej polityce - sprawdziło się
-**FAKT**: Przewidział potrzebę rozległej inwigilacji do utrzymania porządku - współczesne państwa surveillance
-**FAKT**: Przewidział napięcie między ochroną a wolnością charakteryzującą nowoczesną demokrację
-**FAKT**: Przewidział znaczenie reprezentacji jako fundamentalnej koncepcji politycznej
+### Fulfilled Prophecies
+**FACT**: He predicted the central role of the state in modern politics - came true
+**FACT**: He predicted the need for extensive surveillance to maintain order - modern surveillance states
+**FACT**: He predicted the tension between protection and freedom characterizing modern democracy
+**FACT**: He predicted the importance of representation as a fundamental political concept
 
-### Przepowiednie Nieudane
-**ZARZUT**: Jego preferencja dla monarchii absolutnej nad systemami demokratycznymi okazała się błędna
-**ZARZUT**: Nie potrafił wyobrazić sobie skutecznego egzekwowania prawa bez władzy absolutnej
-**ZARZUT**: Nie docenił stabilności pluralistycznej demokracji
+### Failed Prophecies
+**ACCUSATION**: His preference for absolute monarchy over democratic systems proved wrong
+**ACCUSATION**: He couldn't imagine effective law enforcement without absolute power
+**ACCUSATION**: He underestimated the stability of pluralistic democracy
 
-### Mroczne Spełnienia
-**FAKT**: XX-wieczne totalitaryzmy (nazizm, stalinizm) realizowały jego wizję absolutnej władzy
-**PLOTKA**: Współczesne systemy inwigilacji cyfrowej przekraczają nawet jego najśmielsze wyobrażenia o kontroli
-**ZARZUT**: Jego filozofia została wykorzystana do uzasadnienia dyktatur na całym świecie
+### Dark Fulfillments
+**FACT**: 20th-century totalitarianisms (Nazism, Stalinism) realized his vision of absolute power
+**RUMOR**: Contemporary digital surveillance systems exceed even his boldest imaginings of control
+**ACCUSATION**: His philosophy was used to justify dictatorships worldwide
 
-## 8. PROBLEMATYCZNE DZIEDZICTWO
+## 8. PROBLEMATIC LEGACY
 
 ### Influence on Authoritarianism
-**FAKT**: "Hobbizm" stał się synonimem wszystkiego, co przyzwoite społeczeństwo powinno potępiać
-**FAKT**: Jego idee były wykorzystywane do uzasadnienia reżimów autorytarnych
-**PLOTKA**: Niektórzy współcześni dyktatorzy studiowali jego dzieła jako podręcznik władzy
+**FACT**: "Hobbism" became synonymous with everything decent society should condemn
+**FACT**: His ideas were used to justify authoritarian regimes
+**RUMOR**: Some contemporary dictators studied his works as a manual of power
 
 ### Modern Relevance and Danger
-**FAKT**: Jego insight o napięciu między bezpieczeństwem a wolnością jest wciąż aktualny
-**ZARZUT**: W erze surveillance capitalism jego idee o kontroli państwowej nabierają nowego, mrocznego znaczenia
-**FAKT**: Współczesne debaty o prawach cyfrowych często nawiązują do dylematów opisanych przez Hobbesa
+**FACT**: His insight about the tension between security and freedom remains current
+**ACCUSATION**: In the era of surveillance capitalism, his ideas about state control take on new, dark meaning
+**FACT**: Contemporary debates about digital rights often reference dilemmas described by Hobbes
 
-## PODSUMOWANIE
+## SUMMARY
 
-Thomas Hobbes i jego "Lewiatan" pozostają jednymi z najbardziej kontrowersyjnych postaci i dzieł w historii filozofii. Człowiek, który chciał zaprowadzić pokój poprzez absolutną władzę, stał się symbolem tyranii. Jego osobiste skandale - od oskarżeń o ateizm po mathematyczne feudy - tylko pogłębiły mroczną legendę. Ironia polega na tym, że filozof opowiadający się za cenzurą sam stał się ofiarą cenzury, a jego dzieło o absolutnej władzy zostało zabronione przez władze.
+Thomas Hobbes and his "Leviathan" remain among the most controversial figures and works in the history of philosophy. The man who wanted to bring peace through absolute power became a symbol of tyranny. His personal scandals - from accusations of atheism to mathematical feuds - only deepened his dark legend. The irony lies in the fact that a philosopher advocating for censorship himself became a victim of censorship, and his work on absolute power was banned by authorities.
 
-Najbardziej niepokojący aspekt "Lewiatana" to jego prorocza natura - wiele z jego najczarniejszych przepowiedni o potrzebie inwigilacji i kontroli społecznej sprawdziło się w XX i XXI wieku, czyniąc go nie tylko historycznym curiosum, ale wciąż aktualną i niebezpieczną lekturą.
+The most disturbing aspect of "Leviathan" is its prophetic nature - many of his darkest prophecies about the need for surveillance and social control came true in the 20th and 21st centuries, making it not just a historical curiosity, but still relevant and dangerous reading.
 
-*Dokument zawiera 47 kontrowersyjnych faktów, zarzutów i plotek związanych z Thomasem Hobbesem i jego dziełem "Lewiatan". Wszystkie informacje zostały odpowiednio oznaczone i przedstawione w kontekście edukacyjnym.*
+*This document contains 47 controversial facts, accusations, and rumors related to Thomas Hobbes and his work "Leviathan." All information has been appropriately labeled and presented in an educational context.*

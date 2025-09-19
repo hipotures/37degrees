@@ -1,159 +1,159 @@
-# Historia powstania "Umowy społecznej" - Jean-Jacques Rousseau (1762)
+# Creation History of "The Social Contract" - Jean-Jacques Rousseau (1762)
 
-## Okoliczności powstania
+## Circumstances of Creation
 
-**FAKT**: Rousseau napisał "Umowę społeczną" w latach 1756-1762, podczas pobytu w małej posiadłości L'Ermitage (Pustelnia) w Montmorency koło Paryża, należącej do Madame d'Épinay.
+**FACT**: Rousseau wrote "The Social Contract" between 1756-1762, during his stay at the small estate L'Ermitage (The Hermitage) in Montmorency near Paris, belonging to Madame d'Épinay.
 
-**FAKT**: W 1757 roku Rousseau musiał opuścić L'Ermitage z powodu romansu z Sophie de Lalive de Bellegarde, szwagierką Madame d'Épinay, i zamieszkał w domku Mont-Louis w pobliżu rezydencji księcia Luksemburga w Montmorency.
+**FACT**: In 1757, Rousseau had to leave L'Ermitage due to his affair with Sophie de Lalive de Bellegarde, Madame d'Épinay's sister-in-law, and moved to a cottage at Mont-Louis near the Duke of Luxembourg's residence in Montmorency.
 
-**FAKT**: Rousseau pisał w złym stanie zdrowia - później twierdził, że przez całe ponad 4 lata pobytu w Montmorency "nie miał ani jednego dnia dobrego zdrowia", częściowo z powodu złej jakości wody.
+**FACT**: Rousseau wrote while in poor health - he later claimed that during his entire 4+ years stay in Montmorency he "did not have a single day of good health," partly due to poor water quality.
 
-**FAKT**: Książka została opublikowana w kwietniu 1762 roku w Amsterdamie przez wydawcę Marc-Michel Rey, patrona literatury oświeceniowej, który wspierał pisarzy walczących z tradycyjnym myśleniem.
+**FACT**: The book was published in April 1762 in Amsterdam by publisher Marc-Michel Rey, a patron of Enlightenment literature who supported writers fighting traditional thinking.
 
-**FAKT**: Rousseau mądrze nie wydał książki we Francji, lecz w bardziej liberalnych Niderlandach, przewidując kontrowersje.
+**FACT**: Rousseau wisely did not publish the book in France, but in the more liberal Netherlands, anticipating controversies.
 
-## Geneza i inspiracje filozoficzne
+## Genesis and Philosophical Inspirations
 
-**FAKT**: "Umowa społeczna" wyrosła z wcześniejszej pracy Rousseau "Discourse on Political Economy" z 1755 roku, gdzie po raz pierwszy wprowadził koncepcję "woli powszechnej".
+**FACT**: "The Social Contract" grew out of Rousseau's earlier work "Discourse on Political Economy" from 1755, where he first introduced the concept of "general will."
 
-**FAKT**: Istnieje pierwszy szkic dzieła, znany jako "Geneva Manuscript", który różni się od ostatecznej wersji opublikowanej w 1762 roku.
+**FACT**: There exists a first draft of the work, known as the "Geneva Manuscript," which differs from the final version published in 1762.
 
-**FAKT**: Rousseau był wpływany przez Monteskiusza, Hobbesa, Locke'a, Mandeville'a i Diderota, ale odrzucał koncepcję reprezentatywnej suwerenności Hobbesa.
+**FACT**: Rousseau was influenced by Montesquieu, Hobbes, Locke, Mandeville, and Diderot, but rejected Hobbes' concept of representative sovereignty.
 
-**FAKT**: W przeciwieństwie do Hobbesa (stan natury jako "wojna wszystkich ze wszystkimi") i Locke'a (stan natury jako pokojowy), Rousseau uważał, że pierwotni "dzicy" byli wolni, równi, pokojowi i szczęśliwi, dopóki nie pojawiła się własność prywatna.
+**FACT**: Unlike Hobbes (state of nature as "war of all against all") and Locke (state of nature as peaceful), Rousseau believed that primitive "savages" were free, equal, peaceful, and happy until private property appeared.
 
-**FAKT**: Rousseau twierdził, że umowa społeczna była "oszustwem przeciwko ludowi popełnionym przez bogatych", co radykalnie różniło go od poprzedników.
+**FACT**: Rousseau claimed that the social contract was "a fraud against the people committed by the rich," which radically differentiated him from his predecessors.
 
-## Proces twórczy i szczegóły manuscryptu
+## Creative Process and Manuscript Details
 
-**FAKT**: Podczas pobytu w L'Ermitage Rousseau pracował także nad dziełami opata de Saint Pierre, projektowanymi "Political Institutions" oraz powieścią "Julie ou la Nouvelle Héloïse".
+**FACT**: During his stay at L'Ermitage, Rousseau also worked on the works of Abbé de Saint Pierre, projected "Political Institutions," and the novel "Julie ou la Nouvelle Héloïse."
 
-**FAKT**: W tym samym produktywnym okresie (1760-1762) Rousseau napisał także "Émile ou de l'éducation", opublikowaną w maju 1762 roku.
+**FACT**: In the same productive period (1760-1762), Rousseau also wrote "Émile ou de l'éducation," published in May 1762.
 
-**FAKT**: Pierwsza edycja miała format oktawo (8vo) z dwoma nakładami (typ A i B), a pierwsze wydanie dwunasto (12mo) ukazało się sześć tygodni po pierwszym wydaniu oktawo.
+**FACT**: The first edition was in octavo format (8vo) with two print runs (type A and B), and the first duodecimo (12mo) edition appeared six weeks after the first octavo edition.
 
-**FAKT**: W 1762 roku powstało łącznie 7 edycji tekstu, w tym 4 podróbki, co świadczy o ogromnym zainteresowaniu dziełem.
+**FACT**: In 1762, a total of 7 editions of the text were produced, including 4 counterfeits, which demonstrates the enormous interest in the work.
 
-## Natychmiastowa cenzura i zakazy
+## Immediate Censorship and Bans
 
-**FAKT**: Książka została zakazana w ciągu tygodnia od publikacji we Francji, Genewie, Bernie i paradoksalnie także w Niderlandach, gdzie została wydana.
+**FACT**: The book was banned within a week of publication in France, Geneva, Bern, and paradoxically also in the Netherlands, where it was published.
 
-**FAKT**: Parlament Paryski w czerwcu 1762 roku nakazał spalenie "Umowy społecznej" i "Emila" publicznie oraz wydał nakaz aresztowania Rousseau.
+**FACT**: The Paris Parliament in June 1762 ordered the public burning of "The Social Contract" and "Émile" and issued an arrest warrant for Rousseau.
 
-**FAKT**: W Genewie książka została spalona publicznie, co skłoniło Voltaire'a do komentarza: "Spalenie tej książki było być może tak samo odrażające jak jej napisanie... Spalić książkę argumentacji znaczy powiedzieć: 'Nie mamy dość rozumu, by na nią odpowiedzieć.'"
+**FACT**: In Geneva, the book was burned publicly, prompting Voltaire to comment: "The burning of this book was perhaps as detestable as its writing... To burn a book of argument is to say: 'We do not have enough wit to reply to it.'"
 
-**FAKT**: Kościół katolicki umieścił dzieło na Indeksie Ksiąg Zakazanych.
+**FACT**: The Catholic Church placed the work on the Index of Forbidden Books.
 
-**FAKT**: Z pomocą wpływowych przyjaciół Rousseau uciekł z Montmorency 9 czerwca 1762 roku do Yverdon w Szwajcarii, następnie do Niemiec, gdzie otrzymał azyl od Fryderyka Wielkiego.
+**FACT**: With the help of influential friends, Rousseau fled from Montmorency on June 9, 1762, to Yverdon in Switzerland, then to Germany, where he received asylum from Frederick the Great.
 
-## Wpływ na Rewolucję Francuską
+## Impact on the French Revolution
 
-**FAKT**: Rousseau został określony jako "muza Jakobinów" podczas Rewolucji Francuskiej.
+**FACT**: Rousseau was described as "the muse of the Jacobins" during the French Revolution.
 
-**FAKT**: Robespierre miał głębokie uwielbienie dla Rousseau, nazywając go "boskim" i pisząc w swoim dzienniku z 1789: "Boski człowieku! To ty nauczyłeś mnie poznać siebie samego."
+**FACT**: Robespierre had deep admiration for Rousseau, calling him "divine" and writing in his diary from 1789: "Divine man! It is you who taught me to know myself."
 
-**FAKT**: Na żądanie Robespierre'a Konwent nakazał przeniesienie zwłok Rousseau do Panteonu w 1794 roku.
+**FACT**: At Robespierre's request, the Convention ordered the transfer of Rousseau's remains to the Pantheon in 1794.
 
-**FAKT**: Kluby Jakobińskie w całej Francji regularnie cytowały Rousseau, domagając się radykalnych reform na rzecz równości.
+**FACT**: Jacobin clubs throughout France regularly quoted Rousseau, demanding radical reforms for equality.
 
-**FAKT**: Koncepcja "woli powszechnej" stała się fundamentem politycznej legitymizacji dla rewolucjonistów.
+**FACT**: The concept of "general will" became the foundation of political legitimization for revolutionaries.
 
-## Słynne cytaty i kontrowersje
+## Famous Quotes and Controversies
 
-**FAKT**: Najbardziej znanym cytatem z dzieła jest zdanie otwierające: "Człowiek urodził się wolny, a wszędzie jest w kajdanach" ("L'homme est né libre, et partout il est dans les fers").
+**FACT**: The most famous quote from the work is the opening sentence: "Man is born free, and everywhere he is in chains" ("L'homme est né libre, et partout il est dans les fers").
 
-**FAKT**: Najbardziej kontrowersyjnym fragmentem jest: "Kto odmówi podporządkowania się woli powszechnej, zostanie do tego zmuszony przez całe społeczeństwo; co oznacza jedynie, że zostanie zmuszony do bycia wolnym."
+**FACT**: The most controversial passage is: "Whoever refuses to obey the general will shall be compelled to do so by the whole body; which means nothing else than that he shall be forced to be free."
 
-**FAKT**: Paradoks "zmuszenia do wolności" wywołał krytykę przez wieki - Bertrand Russell nazwał nawet Rousseau ideowym prekursorem nazizmu.
+**FACT**: The paradox of "forcing to be free" has drawn criticism for centuries - Bertrand Russell even called Rousseau an ideological precursor to Nazism.
 
-**FAKT**: Rousseau argumentował, że prawdziwa wolność nie polega na braku ograniczeń, ale na życiu pod prawami, które samemu pomogło się tworzyć poprzez wolę powszechną.
+**FACT**: Rousseau argued that true freedom does not consist in the absence of constraints, but in living under laws that one helped create through the general will.
 
-## Genewskie korzenie i kontekst polityczny
+## Genevan Roots and Political Context
 
-**FAKT**: Rousseau urodził się w 1712 roku w niezależnym kalwińskim państwie-mieście Genewa, a jego ojciec Isaac był jednym z nielicznych obywateli z prawem głosu w zgromadzeniu miejskim.
+**FACT**: Rousseau was born in 1712 in the independent Calvinist city-state of Geneva, and his father Isaac was one of the few citizens with voting rights in the city assembly.
 
-**FAKT**: Edukacja od ojca obejmowała zarówno republikański patriotyzm, jak i czytanie historyków starożytnego republikanizmu, szczególnie Plutarcha.
+**FACT**: His education from his father included both republican patriotism and reading historians of ancient republicanism, particularly Plutarch.
 
-**FAKT**: W "Umowie społecznej" Rousseau argumentuje, że podobnie jak jego rodzinna Genewa, małe państwa-miasta to forma narodu, w której wolność może najlepiej rozkwitać.
+**FACT**: In "The Social Contract," Rousseau argues that like his native Geneva, small city-states are the form of nation in which freedom can best flourish.
 
-**FAKT**: W maju 1763 roku Rousseau zrzekł się genewskiego obywatelstwa po potępieniu jego książek przez władze miasta.
+**FACT**: In May 1763, Rousseau renounced his Genevan citizenship after his books were condemned by the city authorities.
 
-## Statystyki i odbiór
+## Statistics and Reception
 
-**FAKT**: Pomimo zakazu dzieło "wywołało wielkie poruszenie w całej Europie i nie przestało być czytane i debatowane przez 260 lat od publikacji".
+**FACT**: Despite the ban, the work "caused great excitement throughout Europe and has not ceased to be read and debated for 260 years since publication."
 
-**FAKT**: Dzieło zostało przetłumaczone na dziesiątki języków i wciąż jest wydawane w nowych tłumaczeniach.
+**FACT**: The work has been translated into dozens of languages and is still being published in new translations.
 
-**FAKT**: Według współczesnych badaczy, Rousseau jest "jednym z najważniejszych i najbardziej wpływowych myślicieli w historii filosofii politycznej".
+**FACT**: According to contemporary scholars, Rousseau is "one of the most important and influential thinkers in the history of political philosophy."
 
-## Wpływ na amerykańską myśl polityczną
+## Impact on American Political Thought
 
-**FAKT**: Koncepcje Rousseau wpłynęły na amerykańską Deklarację Niepodległości i myśl polityczną Jeffersona.
+**FACT**: Rousseau's concepts influenced the American Declaration of Independence and Jefferson's political thought.
 
-**FAKT**: Pojęcie "consent of the governed" (zgoda rządzonych) ma swoje korzenie w teorii umowy społecznej Rousseau.
+**FACT**: The concept of "consent of the governed" has its roots in Rousseau's social contract theory.
 
-## Osobiste anegdoty i szczegóły
+## Personal Anecdotes and Details
 
-**FAKT**: Rousseau twierdził, że klimat w Montmorency był doskonały, ale zła woda mogła przyczynić się do pogorszenia jego i tak już słabego zdrowia.
+**FACT**: Rousseau claimed that the climate in Montmorency was perfect, but poor water quality may have contributed to the deterioration of his already weak health.
 
-**FAKT**: W okresie pisania "Umowy społecznej" Rousseau był także zajęty przepisywaniem muzyki, co stanowiło jedno z jego źródeł dochodu.
+**FACT**: During the period of writing "The Social Contract," Rousseau was also busy copying music, which was one of his sources of income.
 
-**FAKT**: Rousseau miał obsesję na punkcie prześladowania - wierzył, że istnieje przeciwko niemu szeroki spisek, co wpływało na jego produktywność twórczą.
+**FACT**: Rousseau had an obsession with persecution - he believed there was a wide conspiracy against him, which affected his creative productivity.
 
-## Edytorska historia
+## Editorial History
 
-**FAKT**: Oryginalny tytuł dzieła to "Du contrat social; ou, Principes du droit politique" (O umowie społecznej, czyli zasady prawa politycznego).
+**FACT**: The original title of the work is "Du contrat social; ou, Principes du droit politique" (On the Social Contract, or Principles of Political Right).
 
-**FAKT**: Pierwsze tłumaczenie na język angielski ukazało się już w XVIII wieku, ale współczesne tłumaczenia znacznie różnią się od siebie w interpretacji kluczowych pojęć.
+**FACT**: The first English translation appeared in the 18th century, but modern translations differ significantly from each other in interpreting key concepts.
 
-**FAKT**: Istnieją znaczne różnice między "Geneva Manuscript" a ostateczną wersją - pierwszy szkic zawierał bardziej radykalne sformułowania dotyczące religii.
+**FACT**: There are significant differences between the "Geneva Manuscript" and the final version - the first draft contained more radical formulations regarding religion.
 
-## Wpływ na edukację i pedagogikę
+## Impact on Education and Pedagogy
 
-**FAKT**: Koncepcje z "Umowy społecznej" wpłynęły na rozwój demokratycznego podejścia do edukacji, gdzie uczniowie mają współudział w ustalaniu reguł.
+**FACT**: Concepts from "The Social Contract" influenced the development of democratic approaches to education, where students participate in establishing rules.
 
-**FAKT**: Idea, że "dzieci należą do państwa, nie do rodziców" stała się kontrowersyjnym elementem myśli pedagogicznej Rousseau.
+**FACT**: The idea that "children belong to the state, not to parents" became a controversial element of Rousseau's pedagogical thought.
 
-## Ekonomiczne aspekty
+## Economic Aspects
 
-**FAKT**: Rousseau pisał: "W odniesieniu do bogactw, żaden obywatel nie powinien być na tyle bogaty, aby móc kupić innego, i żaden na tyle biedny, aby być zmuszonym siebie sprzedać."
+**FACT**: Rousseau wrote: "With regard to riches, no citizen ought to be wealthy enough to buy another, and none poor enough to be forced to sell himself."
 
-**FAKT**: Ta ekonomiczna równość była warunkiem koniecznym dla funkcjonowania prawdziwej demokracji według Rousseau.
+**FACT**: This economic equality was a necessary condition for the functioning of true democracy according to Rousseau.
 
-## Religijne kontrowersje
+## Religious Controversies
 
-**FAKT**: Rozdział o "religii obywatelskiej" w Księdze IV był głównym powodem potępienia książki przez władze kościelne.
+**FACT**: The chapter on "civil religion" in Book IV was the main reason for the book's condemnation by church authorities.
 
-**FAKT**: Rousseau argumentował, że państwo potrzebuje "religii obywatelskiej" opartej na prostych dogmatach wspierających społeczną jedność.
+**FACT**: Rousseau argued that the state needs a "civil religion" based on simple dogmas supporting social unity.
 
-**PLOTKA**: Niektórzy historycy sugerują, że Rousseau celowo włączył kontrowersyjne fragmenty religijne, aby zwiększyć zainteresowanie dziełem.
+**RUMOR**: Some historians suggest that Rousseau deliberately included controversial religious passages to increase interest in the work.
 
-## Współczesne interpretacje
+## Contemporary Interpretations
 
-**FAKT**: Współcześni filozofowie polityki nadal debatują nad koncepcją "woli powszechnej" - czy jest możliwa do praktycznej realizacji.
+**FACT**: Contemporary political philosophers still debate the concept of "general will" - whether it is possible to realize practically.
 
-**FAKT**: Krytycy argumentują, że koncepcja "zmuszenia do wolności" stanowi teoretyczne uzasadnienie dla totalitaryzmu.
+**FACT**: Critics argue that the concept of "forcing to be free" provides theoretical justification for totalitarianism.
 
-**FAKT**: Zwolennicy widzą w Rousseau prekursora partycypacyjnej demokracji i zaangażowania obywatelskiego.
+**FACT**: Supporters see Rousseau as a precursor to participatory democracy and civic engagement.
 
-## Nieznane fakty
+## Unknown Facts
 
-**FAKT**: Rousseau nigdy nie widział działania prawdziwej demokracji w praktyce - pisał teorię nie mając doświadczenia demokratycznego rządu.
+**FACT**: Rousseau never saw true democracy in action - he wrote theory without experiencing democratic government.
 
-**FAKT**: Przez większość życia Rousseau był bezpaństwowcem - zrzekł się genewskiego obywatelstwa i nie uzyskał francuskiego.
+**FACT**: For most of his life, Rousseau was stateless - he renounced Genevan citizenship and did not obtain French citizenship.
 
-**FAKT**: "Umowa społeczna" miała być częścią większego dzieła o "Political Institutions", które Rousseau nigdy nie dokończył.
+**FACT**: "The Social Contract" was supposed to be part of a larger work on "Political Institutions," which Rousseau never completed.
 
-**PLOTKA**: Niektórzy biografie sugerują, że Rousseau zniszczył część manuskryptu z powodu obaw o jeszcze większe prześladowania.
+**RUMOR**: Some biographers suggest that Rousseau destroyed part of the manuscript due to fears of even greater persecution.
 
-## Statystyki wydawnicze
+## Publishing Statistics
 
-**FAKT**: W samym 1762 roku ukazało się 7 edycji dzieła w różnych formatach i u różnych wydawców.
+**FACT**: In 1762 alone, 7 editions of the work appeared in various formats and from different publishers.
 
-**FAKT**: Do końca XVIII wieku "Umowa społeczna" została wydana w dziesiątkach edycji we Francji, Anglii, Niemczech i innych krajach europejskich.
+**FACT**: By the end of the 18th century, "The Social Contract" had been published in dozens of editions in France, England, Germany, and other European countries.
 
-**FAKT**: Współcześnie istnieją setki wydań w różnych językach, a dzieło jest obowiązkową lekturą na kierunkach politologicznych na całym świecie.
+**FACT**: Today there are hundreds of editions in various languages, and the work is required reading in political science programs worldwide.
 
 ---
 
-*Ten dokument zawiera 50+ konkretnych faktów i anegdot dotyczących okoliczności powstania, publikacji i wpływu "Umowy społecznej" Rousseau. Każdy fakt został oznaczony jako potwierdzony przez źródła (FAKT) lub niepotwierdzony (PLOTKA).*
+*This document contains 50+ specific facts and anecdotes about the circumstances of creation, publication, and impact of Rousseau's "The Social Contract." Each fact has been marked as confirmed by sources (FACT) or unconfirmed (RUMOR).*

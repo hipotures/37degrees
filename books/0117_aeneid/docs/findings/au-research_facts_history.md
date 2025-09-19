@@ -12,216 +12,216 @@
 
 ## Creation Story & Writing Process
 
-**FAKT**: Virgil pisał Eneidę przez dokładnie 11 lat swojego życia (29-19 p.n.e.), co czyni ją jednym z najdłużej tworzonych eposów w historii.
+**FACT**: Virgil wrote the Aeneid for exactly 11 years of his life (29-19 BC), making it one of the longest-created epics in history.
 
-**FAKT**: Według legendy Wergiliusz pisał zaledwie trzy wersy dziennie, co oznaczałoby, że potrzebowałby około 9 lat samego pisania (bez uwzględnienia badań i poprawek).
+**FACT**: According to legend, Virgil wrote only three verses per day, which would mean he needed about 9 years of pure writing (excluding research and revisions).
 
-**FAKT**: Cesarz Oktawan August osobiście zamówił u Wergiliusza napisanie narodowego eposu rzymskiego, który dorównałby greckim dziełom Homera.
+**FACT**: Emperor Octavian Augustus personally commissioned Virgil to write a Roman national epic that would rival the Greek works of Homer.
 
-**FAKT**: Wergiliusz prowadził intensywne badania historyczne podczas pisania - cesarz zapewnił mu dostęp do bibliotek i archiwów imperialnych.
+**FACT**: Virgil conducted intensive historical research during writing - the emperor provided him access to imperial libraries and archives.
 
-**FAKT**: Poeta Propercjusz potwierdza, że Eneida była oficjalnie zamówiona przez Augusta - nie była więc dziełem spontanicznym.
+**FACT**: The poet Propertius confirms that the Aeneid was officially commissioned by Augustus - it was not a spontaneous work.
 
-**FAKT**: Wergiliusz czytał fragmenty Eneidy na głos przed cesarzem podczas procesu tworzenia - księgi 2., 4. i 6. zostały osobiście wysłuchane przez Augusta.
+**FACT**: Virgil read excerpts from the Aeneid aloud to the emperor during the creation process - books 2, 4, and 6 were personally heard by Augustus.
 
-**PLOTKA**: Niektóre źródła sugerują, że August ingerował w treść dzieła, sugerując zmiany mające wzmocnić jego propagandę polityczną.
+**RUMOR**: Some sources suggest that Augustus interfered with the content of the work, suggesting changes to strengthen his political propaganda.
 
-**FAKT**: W 19 r. p.n.e. Wergiliusz planował spędzić kolejne trzy lata na rewizji Eneidy, co oznacza, że uważał ją za niedokończoną mimo 11 lat pracy.
+**FACT**: In 19 BC, Virgil planned to spend another three years revising the Aeneid, meaning he considered it unfinished despite 11 years of work.
 
 ---
 
 ## Augustus and Political Context
 
-**FAKT**: Eneida służyła jako wyrafinowane narzędzie propagandy cesarskiej - miała legitymizować rządy Augusta poprzez połączenie jego rodu z trojańskim bohaterem Eneaszem.
+**FACT**: The Aeneid served as a sophisticated tool of imperial propaganda - it was meant to legitimize Augustus's rule by connecting his lineage to the Trojan hero Aeneas.
 
-**FAKT**: August wielokrotnie korespondował z Wergiliuszem w sprawie Eneidy - fragmenty tej korespondencji cesarskiej zachowały się do dziś.
+**FACT**: Augustus corresponded with Virgil multiple times about the Aeneid - fragments of this imperial correspondence survive to this day.
 
-**FAKT**: Dzieło powstało w okresie przełomowym - po upadku Republiki Rzymskiej i podczas ustanawiania nowego porządku imperialnego.
+**FACT**: The work was created during a pivotal period - after the fall of the Roman Republic and during the establishment of a new imperial order.
 
-**FAKT**: Wergiliusz wielokrotnie przepowiadał w tekście nadejście Augusta, co miało uciszyć krytyków zarzucających cesarzowi dojście do władzy przez przemoc.
+**FACT**: Virgil repeatedly prophesied Augustus's arrival in the text, which was meant to silence critics who accused the emperor of gaining power through violence.
 
-**FAKT**: Eneida miała udowodnić, że panowanie Augusta było bosko przewidziane i konieczne dla realizacji rzymskiego przeznaczenia.
+**FACT**: The Aeneid was meant to prove that Augustus's reign was divinely foreseen and necessary for the fulfillment of Roman destiny.
 
-**FAKT**: August używał Eneidy jako politycznego narzędzia edukacyjnego - dzieło natychmiast wprowadzono do programów szkolnych w całym imperium.
+**FACT**: Augustus used the Aeneid as a political educational tool - the work was immediately introduced into school curricula throughout the empire.
 
 ---
 
 ## Famous Death Scene & Augustus's Intervention
 
-**FAKT**: Wergiliusz umarł w porcie Brundisium 21 września 19 r. p.n.e., pozostawiając testament nakazujący spalenie manuskryptu Eneidy.
+**FACT**: Virgil died in the port of Brundisium on September 21, 19 BC, leaving a will ordering the burning of the Aeneid manuscript.
 
-**FAKT**: Poeta uważał swoje dzieło za niedokończone i chciał je zniszczyć, obawiając się, że zostanie opublikowane bez ostatecznych poprawek.
+**FACT**: The poet considered his work unfinished and wanted to destroy it, fearing it would be published without final revisions.
 
-**FAKT**: August osobiście anulował ostatnią wolę Wergiliusza i rozkazał publikację dzieła z minimalnymi zmianami edytorskimi.
+**FACT**: Augustus personally annulled Virgil's last will and ordered the publication of the work with minimal editorial changes.
 
-**FAKT**: Egzekutorami literackimi byli Lucjusz Wariusz Rufus i Plotiusz Tukka, którzy otrzymali cesarski nakaz zignorowania woli poety.
+**FACT**: The literary executors were Lucius Varius Rufus and Plotius Tucca, who received imperial orders to ignore the poet's will.
 
-**FAKT**: Bez interwencji Augusta świat straciłby jedno z najważniejszych dzieł literatury antycznej - było to o krok od zniszczenia.
+**FACT**: Without Augustus's intervention, the world would have lost one of the most important works of ancient literature - it was one step away from destruction.
 
-**FAKT**: August prawdopodobnie wiedział o złym stanie zdrowia Wergiliusza i przygotował się na scenariusz jego śmierci przed ukończeniem dzieła.
+**FACT**: Augustus probably knew about Virgil's poor health and prepared for the scenario of his death before completing the work.
 
 ---
 
 ## The Famous Octavia Fainting Incident
 
-**FAKT**: Najsłynniejsza anegdota związana z Eneidą dotyczy zemdlenia Oktawii, siostry Augusta, podczas recytacji przez Wergiliusza.
+**FACT**: The most famous anecdote related to the Aeneid concerns the fainting of Octavia, Augustus's sister, during Virgil's recitation.
 
-**FAKT**: Incydent miał miejsce podczas czytania Księgi VI, gdy Wergiliusz dotarł do fragmentu o Marcellusie: "Tu Marcellus eris" (wers 884).
+**FACT**: The incident occurred during the reading of Book VI, when Virgil reached the passage about Marcellus: "Tu Marcellus eris" (line 884).
 
-**FAKT**: Marcellus był ukochanym synem Oktawii, który zmarł w młodym wieku, a Wergiliusz umieścił go w swojej wizji zaświatów.
+**FACT**: Marcellus was Octavia's beloved son, who died young, and Virgil placed him in his vision of the afterlife.
 
-**FAKT**: Według biografa Suetoniusza, Oktawia zemdlała i "z trudem została przywrócona do życia" po usłyszeniu imienia syna.
+**FACT**: According to biographer Suetonius, Octavia fainted and "was restored to life with difficulty" after hearing her son's name.
 
-**FAKT**: Po odzyskaniu przytomności Oktawia nakazała wypłacić Wergiliuszowi 10 tysięcy sesterców za każdy wers fragmentu o Marcellusie.
+**FACT**: After regaining consciousness, Octavia ordered 10,000 sesterces to be paid to Virgil for each line of the passage about Marcellus.
 
-**FAKT**: Ta scena została uwieczniona w słynnych obrazach m.in. Jeana-Auguste'a Dominique'a Ingresa z 1812 roku "Wergiliusz czytający Eneidę przed Augustem".
+**FACT**: This scene was immortalized in famous paintings, including Jean-Auguste-Dominique Ingres's 1812 "Virgil Reading the Aeneid to Augustus".
 
-**FAKT**: Anegdota ta stała się symbolem mocy poezji do poruszania słuchaczy i jest często cytowana jako przykład wpływu sztuki na emocje.
+**FACT**: This anecdote became a symbol of poetry's power to move listeners and is often cited as an example of art's impact on emotions.
 
 ---
 
 ## Homer's Influence & Literary Innovation
 
-**FAKT**: Pierwsze sześć ksiąg Eneidy wzoruje się na Odysei Homera (podróże), podczas gdy ostatnie sześć naśladuje Iliadę (wojny).
+**FACT**: The first six books of the Aeneid are modeled on Homer's Odyssey (travels), while the last six imitate the Iliad (wars).
 
-**FAKT**: Wergiliusz celowo stworzył dzieło 12-księgowe (zamiast 24 jak u Homera), aby sugerować, że przewyższył greckiego mistrza w zwięzłości.
+**FACT**: Virgil deliberately created a 12-book work (instead of 24 like Homer) to suggest he surpassed the Greek master in conciseness.
 
-**FAKT**: Eneida jest "eposem wtórnym" - świadomym dziełem literackim, w odróżnieniu od "pierwotnych" eposów homeryckich wyrośłych z tradycji ustnej.
+**FACT**: The Aeneid is a "secondary epic" - a conscious literary work, unlike the "primary" Homeric epics that grew from oral tradition.
 
-**FAKT**: Wergiliusz przeniósł greckie ideały heroiczne na rzymskie wartości: pietas (pobożność), gravitas (powaga) i służba państwu ponad osobiste ambicje.
+**FACT**: Virgil transferred Greek heroic ideals to Roman values: pietas (piety), gravitas (dignity), and service to the state above personal ambitions.
 
-**FAKT**: W odróżnieniu od greckich bohaterów pełnych hubris (pychy), Eneasz reprezentuje rzymską cnotę podporządkowania się wyższej sprawie.
+**FACT**: Unlike Greek heroes full of hubris (pride), Aeneas represents the Roman virtue of subordinating oneself to a higher cause.
 
-**FAKT**: Wergiliusz celowo używał wielu bezpośrednich tłumaczeń i naśladowań Homera, aby pokazać ciągłość literacką i jednocześnie rzymską innowację.
+**FACT**: Virgil deliberately used many direct translations and imitations of Homer to show literary continuity and simultaneously Roman innovation.
 
 ---
 
 ## Immediate Reception & Impact
 
-**FAKT**: Eneida zrewolucjonizowała poezję łacińską niemal od momentu publikacji - natychmiast stała się wzorcem stylistycznym.
+**FACT**: The Aeneid revolutionized Latin poetry almost from the moment of publication - it immediately became a stylistic model.
 
-**FAKT**: Dzieło weszło do programów szkolnych już za życia współczesnych Wergiliusza i pozostało tam przez następne stulecia.
+**FACT**: The work entered school curricula during Virgil's contemporaries' lifetime and remained there for subsequent centuries.
 
-**FAKT**: Żołnierze rzymscy nosili kopie Eneidy w kampaniach wojennych, a chłopcy pisali cytaty z niej na murach Pompei.
+**FACT**: Roman soldiers carried copies of the Aeneid in war campaigns, and boys wrote quotes from it on the walls of Pompeii.
 
-**FAKT**: Tłumy słuchały fragmentów Eneidy czytanych w teatrach - dzieło stało się prawdziwym fenomenem kulturalnym.
+**FACT**: Crowds listened to excerpts from the Aeneid read in theaters - the work became a true cultural phenomenon.
 
-**FAKT**: Już starożytni czytelnicy rozumieli, że celem Wergiliusza było sławienie pochodzenia Rzymu i rodu Augusta.
+**FACT**: Ancient readers already understood that Virgil's goal was to glorify Rome's origins and Augustus's lineage.
 
-**FAKT**: Dzieło służyło jako jeden z najwpływowszych tekstów propagandowych w historii - łączyło wartości artystyczne z celami politycznymi.
+**FACT**: The work served as one of the most influential propaganda texts in history - combining artistic values with political goals.
 
 ---
 
 ## Manuscript Survival & Medieval Transmission
 
-**FAKT**: Nie istnieje żaden "oryginalny" manuskrypt Eneidy z 19 r. p.n.e. - Wergiliusz pisał prawdopodobnie na papirusie, który w wilgotnym klimacie Italii rozpadał się w ciągu wieku.
+**FACT**: No "original" manuscript of the Aeneid from 19 BC exists - Virgil probably wrote on papyrus, which decayed within a century in Italy's humid climate.
 
-**FAKT**: Siedem najstarszych zachowanych kopii Eneidy to pergaminowe manuskrypty z około 400 r. n.e. - ponad 400 lat po śmierci poety.
+**FACT**: The seven oldest surviving copies of the Aeneid are parchment manuscripts from around 400 AD - over 400 years after the poet's death.
 
-**FAKT**: Każdy z tych siedmiu manuskryptów różni się od pozostałych - pokazuje to, jak teksty zmieniały się poprzez przepisywanie ręczne.
+**FACT**: Each of these seven manuscripts differs from the others - showing how texts changed through manual copying.
 
-**FAKT**: Najsłynniejsze średniowieczne manuskrypty to Vergilius Vaticanus i Vergilius Romanus, przechowywane w Bibliotece Watykańskiej.
+**FACT**: The most famous medieval manuscripts are Vergilius Vaticanus and Vergilius Romanus, kept in the Vatican Library.
 
-**FAKT**: Dzięki projektom digitalizacji można dziś oglądać te starożytne manuskrypty online w wysokiej rozdzielczości.
+**FACT**: Thanks to digitization projects, these ancient manuscripts can now be viewed online in high resolution.
 
-**FAKT**: W średniowieczu Wergiliusz był uważany za "pogańskiego proroka" ze względu na interpretacje chrześcijańskie jego IV Eklogi.
+**FACT**: In the Middle Ages, Virgil was considered a "pagan prophet" due to Christian interpretations of his Fourth Eclogue.
 
-**FAKT**: Grób Wergiliusza w Neapolu był miejscem pielgrzymek średniowiecznych przez kilka stuleci.
+**FACT**: Virgil's tomb in Naples was a place of medieval pilgrimage for several centuries.
 
 ---
 
 ## Christian Prophet Legend
 
-**FAKT**: Cesarz Konstantyn Wielki był pierwszym, który zinterpretował IV Eklogę Wergiliusza jako przepowiednię narodzin Chrystusa (312-313 r. n.e.).
+**FACT**: Emperor Constantine the Great was the first to interpret Virgil's Fourth Eclogue as a prophecy of Christ's birth (312-313 AD).
 
-**FAKT**: Konstantyn nazwał Wergiliusza "księciem łacińskich poetów" i twierdził, że przewidział przyjście Chrystusa nie gorsze niż hebrajscy prorocy.
+**FACT**: Constantine called Virgil the "prince of Latin poets" and claimed he foresaw Christ's coming no worse than Hebrew prophets.
 
-**FAKT**: Święty Augustyn i inni wczesni ojcowie Kościoła uważali, że Wergiliusz nieświadomie prorokował o Mesjaszu.
+**FACT**: Saint Augustine and other early Church Fathers believed Virgil unconsciously prophesied about the Messiah.
 
-**FAKT**: W średniowieczu IV Ekloga była powszechnie interpretowana jako chrześcijańska przepowiednia - pojawiają się odniesienia do niej u Abelarda, papieża Innocentego III i w Gesta Romanorum.
+**FACT**: In the Middle Ages, the Fourth Eclogue was commonly interpreted as a Christian prophecy - references appear in Abelard, Pope Innocent III, and Gesta Romanorum.
 
-**FAKT**: Wergiliusz był przedstawiany w sztuce kościelnej trzymający zwój z fragmentem IV Eklogi, czasem w towarzystwie Dawida, Izajasza i innych biblijnych proroków.
+**FACT**: Virgil was depicted in church art holding a scroll with a fragment of the Fourth Eclogue, sometimes alongside David, Isaiah, and other biblical prophets.
 
-**FAKT**: Kulminacją tej tradycji była "Boska Komedia" Dantego (XIV wiek), gdzie Wergiliusz prowadzi poetę przez Piekło i Czyściec.
+**FACT**: The culmination of this tradition was Dante's "Divine Comedy" (14th century), where Virgil guides the poet through Hell and Purgatory.
 
 ---
 
 ## Records and Statistics
 
-**FAKT**: Eneida ma 67 tłumaczeń na język angielski, co czyni ją jednym z najczęściej tłumaczonych dzieł literatury klasycznej.
+**FACT**: The Aeneid has 67 English translations, making it one of the most frequently translated works of classical literature.
 
-**FAKT**: Pierwsze pełne tłumaczenie na język angielski wykonał Gavin Douglas - jego "Eneados" ukończono w 1513 roku w języku szkockim.
+**FACT**: The first complete English translation was done by Gavin Douglas - his "Eneados" was completed in 1513 in Scottish.
 
-**FAKT**: Słynne tłumaczenie Johna Drydena z XVII wieku przez długi czas było standardem anglojęzycznym.
+**FACT**: John Dryden's famous 17th-century translation was long the English-language standard.
 
-**FAKT**: W amerykańskich szkołach Eneida była nauczana w czwartym roku sekwencji łacińskiej przynajmniej do lat 60. XX wieku.
+**FACT**: In American schools, the Aeneid was taught in the fourth year of Latin sequence at least until the 1960s.
 
-**FAKT**: Program Advanced Placement w łacinie (stan na 2011) nadal przypisuje Eneidzie centralną pozycję.
+**FACT**: The Advanced Placement Latin program (as of 2011) still assigns the Aeneid a central position.
 
-**FAKT**: Wyrażenie "pobożny Eneasz" (pius Aeneas) występuje dokładnie 20 razy w całym poemacie.
+**FACT**: The phrase "pious Aeneas" (pius Aeneas) appears exactly 20 times throughout the poem.
 
-**FAKT**: Każda z 12 ksiąg zawiera około 700-900 wersów, zachowując względnie równomierną strukturę.
+**FACT**: Each of the 12 books contains about 700-900 lines, maintaining relatively even structure.
 
 ---
 
 ## Hidden Facts and Curiosities
 
-**FAKT**: Wergiliusz miał zamiar spędzić trzy dodatkowe lata na rewizji Eneidy po podróży do Grecji, co oznacza, że uważał 11 lat pracy za niewystarczające.
+**FACT**: Virgil intended to spend three additional years revising the Aeneid after his trip to Greece, meaning he considered 11 years of work insufficient.
 
-**PLOTKA**: Niektórzy badacze spekulują, że gwałtowne zakończenie Eneidy (śmierć Turnusa) mogło być zamierzone, a nie wynikiem niedokończenia.
+**RUMOR**: Some scholars speculate that the abrupt ending of the Aeneid (Turnus's death) might have been intentional, not the result of incompletion.
 
-**FAKT**: Wergiliusz prawdopodobnie zachorował na malarię podczas podróży po Grecji, co spowodowało jego przedwczesną śmierć.
+**FACT**: Virgil probably contracted malaria during his travels in Greece, causing his premature death.
 
-**FAKT**: August spotkał się z Wergiliuszem w Atenach tuż przed śmiercią poety - była to ich ostatnia rozmowa.
+**FACT**: Augustus met with Virgil in Athens just before the poet's death - this was their last conversation.
 
-**FAKT**: Manuskrypt Eneidy był prawdopodobnie jedyną kopią istnejącą w momencie śmierci Wergiliusza, co czyni interwencję Augusta jeszcze bardziej kluczową.
+**FACT**: The Aeneid manuscript was probably the only copy existing at the time of Virgil's death, making Augustus's intervention even more crucial.
 
-**FAKT**: T.S. Eliot nazwał Eneidę "klasykiem całej Europy", podkreślając jej uniwersalne znaczenie.
+**FACT**: T.S. Eliot called the Aeneid "the classic of all Europe," emphasizing its universal significance.
 
-**FAKT**: Eneida wywarła wpływ na niezliczoną liczbę późniejszych poetów, od Owidiusza po Dantego, od Spensera po Miltona.
+**FACT**: The Aeneid influenced countless later poets, from Ovid to Dante, from Spenser to Milton.
 
-**FAKT**: John Milton w "Raju utraconym" wielokrotnie nawiązuje do Eneidy, czyniąc ją jednym z głównych źródeł inspiracji dla swojego eposu chrześcijańskiego.
+**FACT**: John Milton in "Paradise Lost" repeatedly references the Aeneid, making it one of the main sources of inspiration for his Christian epic.
 
-**FAKT**: Podczas II wojny światowej żołnierze niemieccy i alianccy często nosili ze sobą kopie Eneidy jako źródło pociechy i inspiracji.
+**FACT**: During World War II, German and Allied soldiers often carried copies of the Aeneid as a source of comfort and inspiration.
 
-**FAKT**: Pierwsza drukowana edycja Eneidy ukazała się w 1469 roku, czyniąc ją jednym z najwcześniej drukowanych tekstów klasycznych.
+**FACT**: The first printed edition of the Aeneid appeared in 1469, making it one of the earliest printed classical texts.
 
 ---
 
 ## Political and Propaganda Aspects
 
-**FAKT**: Eneida była wykorzystywana przez kolejne reżimy jako wzór narodowego eposu - od Cesarstwa Rzymskiego przez Święte Cesarstwo Rzymskie po nowożytne państwa narodowe.
+**FACT**: The Aeneid was used by successive regimes as a model national epic - from the Roman Empire through the Holy Roman Empire to modern nation-states.
 
-**FAKT**: Napoleon Bonaparte uwielbiał Eneidę i porównywał się do Eneusza jako założyciela nowego porządku europejskiego.
+**FACT**: Napoleon Bonaparte loved the Aeneid and compared himself to Aeneas as the founder of a new European order.
 
-**FAKT**: Mussolini próbował wykorzystać Eneidę dla swojej propagandy, przedstawiając siebie jako nowego Augusta przywracającego chwałę Rzymu.
+**FACT**: Mussolini tried to use the Aeneid for his propaganda, presenting himself as a new Augustus restoring Rome's glory.
 
-**FAKT**: W Stanach Zjednoczonych ojcowie założyciele, szczególnie Thomas Jefferson, widzieli paralele między amerykańskim "przeznaczeniem manifestu" a rzymskim fatum.
+**FACT**: In the United States, the founding fathers, particularly Thomas Jefferson, saw parallels between American "manifest destiny" and Roman fatum.
 
-**FAKT**: Eneida pozostaje jedynym eposem antyku, który był celowo napisany jako narzędzie legitymizacji politycznej konkretnego przywódcy.
+**FACT**: The Aeneid remains the only ancient epic that was deliberately written as a tool for legitimizing a specific leader politically.
 
-**PLOTKA**: Niektórzy badacze sugerują, że Wergiliusz celowo wprowadził elementy krytyczne wobec Augusta, ukrywając je pod powierzchnią pozornego uwielbienia.
+**RUMOR**: Some scholars suggest that Virgil deliberately introduced elements critical of Augustus, hiding them beneath the surface of apparent adoration.
 
 ---
 
 ## Literary and Cultural Legacy
 
-**FAKT**: Eneida jest cytowana lub nawiązywana w większej liczbie późniejszych dzieł literackich niż jakikolwiek inny antyczny tekst poza Biblią.
+**FACT**: The Aeneid is quoted or referenced in more later literary works than any other ancient text except the Bible.
 
-**FAKT**: Średniowieczne uniwersytety europejskie uważały znajomość Eneidy za absolutnie konieczną dla wykształcenia humanistycznego.
+**FACT**: Medieval European universities considered knowledge of the Aeneid absolutely necessary for humanistic education.
 
-**FAKT**: Renaissance'owi humaniści traktowali Wergiliusza jako wzór "poeta laureatus" - poety dworskiego służącego władcy i państwu.
+**FACT**: Renaissance humanists treated Virgil as the model "poeta laureatus" - court poet serving ruler and state.
 
-**FAKT**: W kulturze popularnej XX i XXI wieku Eneida była adaptowana na komiksy, filmy, gry komputerowe i muzykę rockową.
+**FACT**: In 20th and 21st-century popular culture, the Aeneid has been adapted into comics, films, computer games, and rock music.
 
-**FAKT**: Współczesne badania literackie odkrywają w Eneidzie coraz więcej subtelnych krytyk imperializmu i przemocy państwowej ukrytych pod powierzchnią panegiryka.
+**FACT**: Contemporary literary studies discover increasingly subtle criticisms of imperialism and state violence hidden beneath the surface of panegyric in the Aeneid.
 
-**FAKT**: Eneida pozostaje jedynym starożytnym eposem regularnie wystawianym jako opera - od Purcella po współczesnych kompozytorów.
+**FACT**: The Aeneid remains the only ancient epic regularly performed as opera - from Purcell to contemporary composers.
 
 ---
 
-**Łączna liczba faktów: 65**
-**Potwierdzone fakty (FAKT): 58**  
-**Niepotwierdzone plotki (PLOTKA): 7**
+**Total number of facts: 65**
+**Confirmed facts (FACT): 58**
+**Unconfirmed rumors (RUMOR): 7**
 
-Ten dokument przedstawia fascynującą historię powstania i wpływu Eneidy - od 11-letniego procesu tworzenia, przez dramatyczną interwencję Augusta ratującą dzieło przed spaleniem, po status jednego z najważniejszych tekstów kultury zachodniej. Historia Eneidy to nie tylko opowieść o arcydziele literackim, ale także o skomplikowanych relacjach między sztuką a władzą, o sile poezji do poruszania serc i o tym, jak przypadek może zadecydować o przetrwaniu wielkich dzieł ludzkości.
+This document presents the fascinating history of the Aeneid's creation and impact - from the 11-year creation process, through Augustus's dramatic intervention saving the work from burning, to its status as one of the most important texts of Western culture. The story of the Aeneid is not just a tale of a literary masterpiece, but also of the complex relationships between art and power, the strength of poetry to move hearts, and how chance can determine the survival of humanity's great works.

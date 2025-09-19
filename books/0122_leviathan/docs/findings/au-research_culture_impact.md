@@ -1,127 +1,127 @@
-# Wpływ Kulturowy "Lewiatana" Thomasa Hobbesa
+# Cultural Impact of Thomas Hobbes' "Leviathan"
 
-## Wprowadzenie
+## Introduction
 
-"Lewiatan" (1651) Thomasa Hobbesa to jedno z najważniejszych dzieł filozofii politycznej, które wywarło ogromny wpływ na kulturę, literaturę, politykę i rozrywkę. Jego koncepcje stanu natury, umowy społecznej i absolutnej władzy państwowej przenikały do różnych dziedzin kultury popularnej na przestrzeni wieków.
+"Leviathan" (1651) by Thomas Hobbes is one of the most important works of political philosophy that has had enormous influence on culture, literature, politics, and entertainment. His concepts of the state of nature, social contract, and absolute state power have permeated various fields of popular culture over the centuries.
 
-## 1. Adaptacje Filmowe i Teatralne
+## 1. Film and Theater Adaptations
 
-### Bezpośrednie Adaptacje
-1. **"Leviathan" (2014)** - rosyjski film Andrieja Zwiagincewa, nominowany do Oscara, nawiązuje do Hobbesowskiej wizji wszechmocnego państwa
-2. **"The Old City: Leviathan" (2014)** - eksperymentalna gra filozoficzna bezpośrednio inspirowana dziełem Hobbesa
-3. **Inscenizacje teatralne** - różne uniwersytety na świecie wystawiają adaptacje "Lewiatana" jako teatr filozoficzny
+### Direct Adaptations
+1. **"Leviathan" (2014)** - Russian film by Andrey Zvyagintsev, nominated for an Oscar, references Hobbesian vision of omnipotent state
+2. **"The Old City: Leviathan" (2014)** - experimental philosophical game directly inspired by Hobbes' work
+3. **Theater productions** - various universities worldwide stage adaptations of "Leviathan" as philosophical theater
 
-### Nawiązania w Kinie
-4. **"Mad Max" seria filmów** - przedstawia świat bez władzy państwowej, gdzie życie jest "samotne, biedne, podłe, brutalne i krótkie"
-5. **"The Purge" seria (2013-2021)** - eksploruje Hobbesowski stan natury w nowoczesnym społeczeństwie
-6. **"Lord of the Flies" adaptacje filmowe** - wizualizują rozpad porządku społecznego zgodnie z teoriami Hobbesa
+### Cinema References
+4. **"Mad Max" film series** - depicts a world without state authority where life is "solitary, poor, nasty, brutish and short"
+5. **"The Purge" series (2013-2021)** - explores Hobbesian state of nature in modern society
+6. **"Lord of the Flies" film adaptations** - visualize the breakdown of social order according to Hobbes' theories
 
-## 2. Wpływ na Literaturę
+## 2. Impact on Literature
 
-### Klasyki Literatury Dystopijnej
-7. **George Orwell "1984"** - Big Brother jako wcielenie Hobbesowskiego Lewiatana
-8. **Aldous Huxley "Nowy Wspaniały Świat"** - państwo totalitarne zapewniające bezpieczeństwo kosztem wolności
-9. **Ray Bradbury "Fahrenheit 451"** - kontrola myśli przez wszechmocne państwo
+### Dystopian Literature Classics
+7. **George Orwell "1984"** - Big Brother as embodiment of Hobbesian Leviathan
+8. **Aldous Huxley "Brave New World"** - totalitarian state ensuring security at the cost of freedom
+9. **Ray Bradbury "Fahrenheit 451"** - thought control by omnipotent state
 
-### Współczesna Literatura
-10. **Paul Auster "Leviathan" (1992)** - powieść bezpośrednio nawiązująca tytułem do dzieła Hobbesa
-11. **Scott Westerfeld "Leviathan" (2009)** - seria steampunkowa z kapitanem o nazwisku Hobbes
-12. **James S.A. Corey "The Expanse" seria** - "Leviathan Wakes" i "Leviathan Falls" nawiązują do konceptów władzy
-13. **Boris Akunin "Murder on the Leviathan"** - kryminał wykorzystujący metaforę Lewiatana
-14. **Fredy Perlman "Against His-Story, Against Leviathan"** - krytyka cywilizacji zachodniej jako Lewiatana
+### Contemporary Literature
+10. **Paul Auster "Leviathan" (1992)** - novel directly referencing Hobbes' work in its title
+11. **Scott Westerfeld "Leviathan" (2009)** - steampunk series with a captain named Hobbes
+12. **James S.A. Corey "The Expanse" series** - "Leviathan Wakes" and "Leviathan Falls" reference concepts of power
+13. **Boris Akunin "Murder on the Leviathan"** - crime novel using Leviathan metaphor
+14. **Fredy Perlman "Against His-Story, Against Leviathan"** - critique of Western civilization as Leviathan
 
-### Literatura Fantasy i Science Fiction
-15. **"Warhammer 40,000" uniwersum** - Imperium Ludzkości jako przykład Hobbesowskiego państwa autorytarnego
-16. **Mike Carey "The Unwritten"** - komiks przedstawiający Lewiatana jako centralną postać
-17. **Wildbow "Worm"** - webpowieść z potwornym Endbringerem o imieniu Leviathan
+### Fantasy and Science Fiction Literature
+15. **"Warhammer 40,000" universe** - Imperium of Man as example of Hobbesian authoritarian state
+16. **Mike Carey "The Unwritten"** - comic featuring Leviathan as central figure
+17. **Wildbow "Worm"** - web novel with monstrous Endbringer named Leviathan
 
-## 3. Gry i Kultura Gaming
+## 3. Games and Gaming Culture
 
-### Gry Filozoficzne
-18. **"The Old City: Leviathan"** - gra eksploracyjna bezpośrednio inspirowana filozofią Hobbesa
-19. **Gra symulacyjna Victora Asala** - edukacyjna gra ilustrująca stan natury Hobbesa
-20. **"The Hobbes Game" Johna Immerwahara** - klasyczna symulacja umowy społecznej
+### Philosophical Games
+18. **"The Old City: Leviathan"** - exploration game directly inspired by Hobbes' philosophy
+19. **Victor Asal's simulation game** - educational game illustrating Hobbes' state of nature
+20. **"The Hobbes Game" by John Immerwahr** - classic social contract simulation
 
-### Gry Strategiczne i 4X
-21. **Civilization seria** - mechaniki gry odzwierciedlają filozofię władzy Hobbesa
-22. **Europa Universalis** - absolutyzm jako forma rządów inspirowana Hobbesem
-23. **Total War serie** - mechaniki dyplomacji odzwierciedlają stan natury między państwami
+### Strategy and 4X Games
+21. **Civilization series** - game mechanics reflect Hobbes' philosophy of power
+22. **Europa Universalis** - absolutism as form of government inspired by Hobbes
+23. **Total War series** - diplomacy mechanics reflect state of nature between nations
 
-### MMORPG i Gry Online
-24. **League of Legends** - mechaniki gry odzwierciedlają teorię stanu natury Hobbesa
-25. **EVE Online** - anarchiczne przestrzenie jako przykład Hobbesowskiego stanu natury
-26. **Rust** - survival game przedstawiający "wojnę wszystkich przeciw wszystkim"
+### MMORPG and Online Games
+24. **League of Legends** - game mechanics reflect Hobbes' theory of state of nature
+25. **EVE Online** - anarchic spaces as example of Hobbesian state of nature
+26. **Rust** - survival game depicting "war of all against all"
 
-## 4. Wpływ na Filozofię Polityczną
+## 4. Impact on Political Philosophy
 
-### Teoretycy Polityczni
-27. **John Locke** - rozwinął teorię umowy społecznej w odpowiedzi na Hobbesa
-28. **Jean-Jacques Rousseau** - stworzył alternatywną wizję stanu natury
-29. **Immanuel Kant** - wykorzystał koncepcje Hobbesa w swojej filozofii prawa
-30. **John Rawls** - teoria sprawiedliwości nawiązuje do umowy społecznej
+### Political Theorists
+27. **John Locke** - developed social contract theory in response to Hobbes
+28. **Jean-Jacques Rousseau** - created alternative vision of state of nature
+29. **Immanuel Kant** - used Hobbes' concepts in his philosophy of law
+30. **John Rawls** - theory of justice references social contract
 
-### Współczesna Politologia
-31. **John Mearsheimer** - teoria realizmu w stosunkach międzynarodowych inspirowana Hobbesem
-32. **David Runciman** - analizy współczesnej polityki przez pryzmat Lewiatana
-33. **Teoria gier** - modelowanie stanu natury przez współczesnych ekonomistów
+### Contemporary Political Science
+31. **John Mearsheimer** - realist theory in international relations inspired by Hobbes
+32. **David Runciman** - analyses of contemporary politics through Leviathan lens
+33. **Game theory** - modeling state of nature by contemporary economists
 
-## 5. Popkultura i Media
+## 5. Pop Culture and Media
 
-### Tropy Kulturowe
-34. **"Hobbes Was Right" trope** - popularny motyw w TV Tropes, używany w setki razy
-35. **"Rousseau Was Right" trope** - alternatywny motyw powstały w odpowiedzi na Hobbesa
-36. **"War of All Against All"** - fraza używana w komentarzach politycznych
+### Cultural Tropes
+34. **"Hobbes Was Right" trope** - popular motif in TV Tropes, used hundreds of times
+35. **"Rousseau Was Right" trope** - alternative motif created in response to Hobbes
+36. **"War of All Against All"** - phrase used in political commentary
 
-### Muzyka
-37. **Mastodon "Leviathan" (2004)** - album progressive metalowy nawiązujący do morskiego potwora
-38. **Neal Morse "Leviathan"** - utwór z albumu "Lifeline" (2008)
-39. **Różni artyści** - setki piosenek wykorzystujących metaforę Lewiatana
+### Music
+37. **Mastodon "Leviathan" (2004)** - progressive metal album referencing sea monster
+38. **Neal Morse "Leviathan"** - track from album "Lifeline" (2008)
+39. **Various artists** - hundreds of songs using Leviathan metaphor
 
-### Komiksy
-40. **Marvel Comics** - Leviathan jako sowiecka organizacja terrorystyczna
-41. **DC Comics** - Talia al Ghul używa pseudonimu Leviathan
-42. **"Dungeons & Dragons"** - Leviathan jako morski potwór w "Darkwalker on Moonshae"
+### Comics
+40. **Marvel Comics** - Leviathan as Soviet terrorist organization
+41. **DC Comics** - Talia al Ghul uses Leviathan pseudonym
+42. **"Dungeons & Dragons"** - Leviathan as sea monster in "Darkwalker on Moonshae"
 
-## 6. Wpływ na Prawo i Politykę
+## 6. Impact on Law and Politics
 
-### Doktryny Prawne
-43. **Teoria suwerenności państwowej** - bezpośrednie zastosowanie koncepcji Hobbesa
-44. **Doktryna monopolu przemocy** - Max Weber rozwinął idee Hobbesa
-45. **Międzynarodowe prawo morza** - koncepcja Lewiatana jako metafora państwa
+### Legal Doctrines
+43. **Theory of state sovereignty** - direct application of Hobbes' concepts
+44. **Monopoly on violence doctrine** - Max Weber developed Hobbes' ideas
+45. **International law of the sea** - concept of Leviathan as state metaphor
 
-### Współczesna Polityka
-46. **Debaty o surveillance** - Hobbesowski dylemat bezpieczeństwa vs. prywatność
-47. **Polityka antyterrorystyczna** - uzasadnienie silnej władzy państwowej
-48. **Kryzys klimatyczny** - potrzeba globalnego Lewiatana do koordynacji działań
+### Contemporary Politics
+46. **Surveillance debates** - Hobbesian dilemma of security vs. privacy
+47. **Anti-terrorism policy** - justification of strong state power
+48. **Climate crisis** - need for global Leviathan to coordinate action
 
-## 7. Edukacja i Academia
+## 7. Education and Academia
 
-### Programy Edukacyjne
-49. **Uniwersyteckie kursy filozofii politycznej** - Lewiatan jako tekst podstawowy
-50. **Symulacje klasowe** - gry edukacyjne ilustrujące teorię Hobbesa
-51. **European Hobbes Society** - międzynarodowa organizacja badaczy
+### Educational Programs
+49. **University political philosophy courses** - Leviathan as foundational text
+50. **Classroom simulations** - educational games illustrating Hobbes' theory
+51. **European Hobbes Society** - international organization of scholars
 
-### Publikacje Naukowe
-52. **Setki artykułów naukowych** rocznie analizujących Lewiatana
-53. **Konferencje akademickie** poświęcone filozofii Hobbesa
-54. **Tłumaczenia na dziesiątki języków** - globalne rozpowszechnienie idei
+### Academic Publications
+52. **Hundreds of scholarly articles** annually analyzing Leviathan
+53. **Academic conferences** dedicated to Hobbes' philosophy
+54. **Translations into dozens of languages** - global dissemination of ideas
 
-## 8. Kontrowersje i Krytyka
+## 8. Controversies and Criticism
 
-### Oskarżenia Historyczne
-55. **Zarzuty o ateizm** - Hobbes był kontrowersyjny już za życia
-56. **Krytyka absolutyzmu** - oponenci zarzucali mu usprawiedliwianie tyranii
-57. **Debaty z współczesnymi** - spory z Robertem Filmerem i innymi myślicielami
+### Historical Accusations
+55. **Accusations of atheism** - Hobbes was controversial even during his lifetime
+56. **Criticism of absolutism** - opponents accused him of justifying tyranny
+57. **Debates with contemporaries** - disputes with Robert Filmer and other thinkers
 
-### Współczesne Kontrowersje
-58. **Krytyka autorytaryzmu** - współczesni krytycy widzą w Hobbesie prekursora totalitaryzmu
-59. **Feministyczna krytyka** - analiza patriarchalnych aspektów teorii Hobbesa
-60. **Postkolonialna perspektywa** - krytyka eurocentrycznych założeń Lewiatana
+### Contemporary Controversies
+58. **Criticism of authoritarianism** - contemporary critics see Hobbes as precursor to totalitarianism
+59. **Feminist criticism** - analysis of patriarchal aspects of Hobbes' theory
+60. **Postcolonial perspective** - criticism of Eurocentric assumptions in Leviathan
 
-## Podsumowanie
+## Summary
 
-"Lewiatan" Thomasa Hobbesa pozostaje jednym z najbardziej wpływowych dzieł filozofii politycznej w historii. Jego wpływ wykracza daleko poza akademicką filozofię - kształtuje literaturę dystopijną, inspiruje twórców gier, wpływa na współczesne debaty polityczne i pozostaje punktem odniesienia w dyskusjach o naturze państwa i władzy.
+Thomas Hobbes' "Leviathan" remains one of the most influential works of political philosophy in history. Its impact extends far beyond academic philosophy - it shapes dystopian literature, inspires game creators, influences contemporary political debates, and remains a reference point in discussions about the nature of state and power.
 
-Od klasycznych cytatów jak "wojna wszystkich przeciw wszystkim" i opis życia jako "samotnego, biednego, podłego, brutalnego i krótkiego", przez inspiracje dla Orwella w "1984", aż po współczesne gry wideo i debaty o surveillance - Lewiatan nadal kształtuje sposób, w jaki myślimy o władzy, bezpieczeństwie i wolności.
+From classic quotes like "war of all against all" and the description of life as "solitary, poor, nasty, brutish and short," through inspirations for Orwell in "1984," to contemporary video games and surveillance debates - Leviathan continues to shape how we think about power, security, and freedom.
 
-Dzieło Hobbesa pokazuje, jak wielkie idee filozoficzne mogą przenikać do kultury popularnej i wpływać na wyobraźnię kolejnych pokoleń twórców, pozostając aktualne przez prawie 400 lat od pierwszej publikacji.
+Hobbes' work shows how great philosophical ideas can penetrate popular culture and influence the imagination of successive generations of creators, remaining relevant for almost 400 years since its first publication.

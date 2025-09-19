@@ -1,191 +1,191 @@
-# Historia powstania "Sztuki Wojny" Sun Tzu - Fakty i Anegdoty
+# The History of "The Art of War" by Sun Tzu - Facts and Anecdotes
 
-## Wprowadzenie
+## Introduction
 
-"Sztuka Wojny" (孙子兵法, Sunzi Bingfa) to najstarszy traktat wojskowy na świecie, przypisywany chińskiemu strategowi Sun Tzu (zw. także Sun Wu lub Sunzi) z V wieku p.n.e. Ta legenda literatury strategicznej powstała w czasach, gdy Chiny były podzielone na walczące ze sobą państwa, i stała się fundamentem myśli wojskowej oraz współczesnej strategii biznesowej.
+"The Art of War" (孙子兵法, Sunzi Bingfa) is the oldest military treatise in the world, attributed to Chinese strategist Sun Tzu (also known as Sun Wu or Sunzi) from the 5th century BC. This legend of strategic literature was created during times when China was divided into warring states and became the foundation of military thought and modern business strategy.
 
-## Historyczne Okoliczności Powstania
+## Historical Circumstances of Creation
 
-### Kontekst Polityczny
+### Political Context
 
-**FAKT**: Książka powstała pod koniec okresu Wiosna i Jesień (776–471 p.n.e.) i na początku okresu Walczących Królestw (475–221 p.n.e.), gdy Chiny były podzielone na 6-7 walczących ze sobą państw.
+**FACT**: The book was written at the end of the Spring and Autumn period (776–471 BC) and the beginning of the Warring States period (475–221 BC), when China was divided into 6-7 warring states.
 
-**FAKT**: Sun Tzu służył państwu Wu, jednemu z najpotężniejszych królestw południowych Chin, które prowadziło intensywne wojny z sąsiadami.
+**FACT**: Sun Tzu served the state of Wu, one of the most powerful southern Chinese kingdoms, which conducted intensive wars with its neighbors.
 
-**FAKT**: Tradycyjne datowanie na V wiek p.n.e. zostało potwierdzone odkryciem archeologicznym z 1972 roku - najstarsze znane manuskrypty na pasach bambusowych z grobu dynastii Han.
+**FACT**: Traditional dating to the 5th century BC was confirmed by archaeological discovery in 1972 - the oldest known manuscripts on bamboo strips from a Han dynasty tomb.
 
-### Inspiracje i Proces Twórczy
+### Inspirations and Creative Process
 
-**FAKT**: "Sztuka Wojny" składa się z 13 rozdziałów, z których każdy poświęcony jest innemu aspektowi prowadzenia wojny - od planowania przez szpiegostwo po dowodzenie.
+**FACT**: "The Art of War" consists of 13 chapters, each devoted to a different aspect of warfare - from planning through espionage to command.
 
-**FAKT**: Dzieło czerpie z filozofii taoistycznej i konfucjańskiej, co czyni je unikalnym wśród klasycznych traktatów wojskowych - łączy pragmatyzm z poezją.
+**FACT**: The work draws from Taoist and Confucian philosophy, making it unique among classical military treatises - it combines pragmatism with poetry.
 
-**PLOTKA**: Według legendy zapisanej przez Sima Qiana, Sun Tzu napisał traktat na polecenie króla Helu z Wu, który chciał przetestować jego teorie wojskowe.
+**RUMOR**: According to legend recorded by Sima Qian, Sun Tzu wrote the treatise at the command of King Helu of Wu, who wanted to test his military theories.
 
-## Biografia Sun Tzu w Kontekście Dzieła
+## Biography of Sun Tzu in the Context of the Work
 
-### Kim Był Sun Tzu?
+### Who Was Sun Tzu?
 
-**FAKT**: Najwcześniejsza biografia Sun Tzu została napisana około 97 p.n.e. przez Sima Qiana w "Zapiskach Wielkiego Historyka" (Shiji) - prawie 400 lat po jego rzekomej śmierci.
+**FACT**: The earliest biography of Sun Tzu was written around 97 BC by Sima Qian in "Records of the Grand Historian" (Shiji) - almost 400 years after his alleged death.
 
-**FAKT**: Imię "Sun Wu" (孫武) nie pojawia się w żadnym tekście wcześniejszym niż "Zapiski Wielkiego Historyka", co wzbudza wątpliwości co do historyczności postaci.
+**FACT**: The name "Sun Wu" (孫武) does not appear in any text earlier than "Records of the Grand Historian," raising doubts about the historicity of the figure.
 
-**FAKT**: Współcześni badacze podejrzewają, że "Sun Wu" może być opisowym pseudonimem oznaczającym "uciekinier-wojownik".
+**FACT**: Contemporary researchers suspect that "Sun Wu" may be a descriptive pseudonym meaning "fugitive-warrior."
 
-**PLOTKA**: Sun Tzu miał żyć około 500 r. p.n.e., urodzić się w państwie Qi, ale służyć jako dowódca w południowym państwie Wu.
+**RUMOR**: Sun Tzu was supposed to have lived around 500 BC, born in the state of Qi, but served as a commander in the southern state of Wu.
 
-### Sława i Wpływ za Życia
+### Fame and Influence During His Lifetime
 
-**PLOTKA**: Według Sima Qiana, Sun Tzu został wezwany na dwór króla Helu po tym, jak władca usłyszał o jego traktacie wojskowym.
+**RUMOR**: According to Sima Qian, Sun Tzu was summoned to King Helu's court after the ruler heard about his military treatise.
 
-**FAKT**: Żadne współczesne Sun Tzu źródła nie wspominają jego istnienia - "Zuo Zhuan", kronika wymienająca większość ważnych postaci okresu Wiosna i Jesień, milczy o nim całkowicie.
+**FACT**: No sources contemporary to Sun Tzu mention his existence - "Zuo Zhuan," a chronicle listing most important figures of the Spring and Autumn period, is completely silent about him.
 
-## Słynna Anegdota o Konkubinach
+## The Famous Anecdote About Concubines
 
-### Historia z Pałacu
+### The Palace Story
 
-**PLOTKA**: Najsłynniejsza legenda głosi, że król Helu poprosił Sun Tzu o demonstrację umiejętności szkolenia żołnierzy na 180 konkubinach z haremu.
+**RUMOR**: The most famous legend claims that King Helu asked Sun Tzu to demonstrate his ability to train soldiers using 180 concubines from the harem.
 
-**PLOTKA**: Sun Tzu podzielił je na dwa oddziały, mianując dwie ulubione konkubiny króla dowódczyniami, ale gdy te zignorował rozkazy i wybuchły śmiechem, kazał je ściąć pomimo protestów króla.
+**RUMOR**: Sun Tzu divided them into two units, appointing two of the king's favorite concubines as commanders, but when they ignored orders and burst into laughter, he had them beheaded despite the king's protests.
 
-**PLOTKA**: Po egzekucji pozostałe konkubiny zaczęły słuchać rozkazów, a król mianował Sun Tzu generałem.
+**RUMOR**: After the execution, the remaining concubines began obeying orders, and the king appointed Sun Tzu as general.
 
-**FAKT**: Ta historia była już w XI wieku n.e. uważana za fikcję przez uczonych z dynastii Song, a uczony Yeh Cheng-Tse pierwszy zakwestionował historyczność Sun Tzu.
+**FACT**: This story was already considered fiction in the 11th century AD by scholars of the Song dynasty, and scholar Yeh Cheng-Tse was the first to question Sun Tzu's historicity.
 
-**FAKT**: Historia została opisana jako "całkowicie niedorzeczna i niewiarygodna" oraz "nic więcej niż popularna legenda z okresu Walczących Królestw".
+**FACT**: The story was described as "completely absurd and incredible" and "nothing more than a popular legend from the Warring States period."
 
-## Archeologiczne Odkrycia - Rewolucja 1972 Roku
+## Archaeological Discoveries - The 1972 Revolution
 
-### Odkrycie Pasów Bambusowych z Yinqueshan
+### Discovery of Bamboo Strips from Yinqueshan
 
-**FAKT**: 10 kwietnia 1972 roku robotnicy budowlani przypadkowo odkryli groby dynastii Han u stóp Yinqueshan (Góry Srebrnego Wróbla) w prowincji Shandong.
+**FACT**: On April 10, 1972, construction workers accidentally discovered Han dynasty tombs at the foot of Yinqueshan (Silver Sparrow Mountain) in Shandong Province.
 
-**FAKT**: W grobie nr 1 znaleziono 4,942 paski bambusowe pokryte tekstami, w tym fragmenty najstarszej znanej wersji "Sztuki Wojny".
+**FACT**: In tomb number 1, they found 4,942 bamboo strips covered with texts, including fragments of the oldest known version of "The Art of War."
 
-**FAKT**: Paski miały około 28 cm długości, 0,7 cm szerokości i 0,2 cm grubości, a teksty napisano pismem clerical (lishu) z dynastii Han.
+**FACT**: The strips were about 28 cm long, 0.7 cm wide, and 0.2 cm thick, and the texts were written in clerical script (lishu) from the Han dynasty.
 
-**FAKT**: Odkrycie zostało ocenione jako jedno ze 100 najważniejszych odkryć archeologicznych XX wieku i jeden z dziewięciu "skarbów Zhenguo" w Chinach.
+**FACT**: The discovery was rated as one of the 100 most important archaeological discoveries of the 20th century and one of nine "Zhenguo treasures" in China.
 
-### Rozwiązanie Historycznych Zagadek
+### Solving Historical Puzzles
 
-**FAKT**: Odkrycie rozwiązało wielowiekowy spór - znaleziono dwa różne teksty: "Sztukę Wojny" Sun Tzu oraz zaginione przez 1400 lat dzieło "Sztuka Wojny" Sun Bina.
+**FACT**: The discovery solved a centuries-old dispute - two different texts were found: "The Art of War" by Sun Tzu and the work "The Art of War" by Sun Bin, lost for 1,400 years.
 
-**FAKT**: Potwierdziło to, że Sun Tzu i Sun Bin to różne osoby, kończąc stulecia zamieszania między tymi dwiema postaciami.
+**FACT**: This confirmed that Sun Tzu and Sun Bin were different people, ending centuries of confusion between these two figures.
 
-**FAKT**: Sun Bin był prawdziwą postacią historyczną, potomkiem Sun Tzu, rzeczywistym ekspertem od spraw wojskowych, który mógł być inspiracją dla stworzenia legendy o Sun Tzu.
+**FACT**: Sun Bin was a real historical figure, a descendant of Sun Tzu, a true military expert who could have been the inspiration for creating the legend of Sun Tzu.
 
-## Historia Publikacji i Przekładów
+## Publication History and Translations
 
-### Pierwsze Wydania w Chinach
+### First Editions in China
 
-**FAKT**: Przez prawie 1,500 lat "Sztuka Wojny" była głównym tekstem w antologii sformalizowanej jako "Siedem Klasyków Wojskowych" przez cesarza Shenzonga z Song w 1080 roku.
+**FACT**: For nearly 1,500 years, "The Art of War" was the main text in an anthology formalized as the "Seven Military Classics" by Emperor Shenzong of Song in 1080.
 
-**FAKT**: Tradycyjna wersja tekstu została zredagowana przez wojskowego dyktatora Cao Cao w III wieku n.e., który w przedmowie przyznał, że usunął niektóre fragmenty.
+**FACT**: The traditional version of the text was edited by military dictator Cao Cao in the 3rd century AD, who admitted in the preface that he removed some fragments.
 
-### Podbój Zachodu
+### Conquest of the West
 
-**FAKT**: Pierwszym Europejczykiem, który przetłumaczył "Sztukę Wojny", był francuski ksiądz jezuita Jean Joseph Marie Amiot w 1772 roku - poprawione wydanie ukazało się w 1782.
+**FACT**: The first European to translate "The Art of War" was French Jesuit priest Jean Joseph Marie Amiot in 1772 - a corrected edition appeared in 1782.
 
-**FAKT**: Rzekomo Napoleon był jednym z pierwszych europejskich devotees tekstu, chociaż brak na to bezpośrednich dowodów.
+**FACT**: Napoleon was allegedly one of the first European devotees of the text, although there is no direct evidence for this.
 
-**FAKT**: Pierwsza próba tłumaczenia na angielski została podjęta przez brytyjskiego oficera Everarda Ferguson Calthropa w 1905 roku pod tytułem "The Book of War".
+**FACT**: The first attempt at English translation was made by British officer Everard Ferguson Calthrop in 1905 under the title "The Book of War."
 
-**FAKT**: Pierwszy profesjonalny, annotowany przekład angielski został ukończony przez Lionela Gilesa w 1910 roku i pozostaje jednym z najlepszych do dziś.
+**FACT**: The first professional, annotated English translation was completed by Lionel Giles in 1910 and remains one of the best to this day.
 
-**FAKT**: Dopiero w 1963 roku ukazał się dobry przekład angielski autorstwa Samuela B. Griffitha, który dorównywał jakością tłumaczeniu Gilesa.
+**FACT**: It wasn't until 1963 that a good English translation by Samuel B. Griffith appeared, which matched Giles' translation in quality.
 
-## Współczesny Fenomen Kulturowy
+## Contemporary Cultural Phenomenon
 
-### Statystyki Sprzedaży
+### Sales Statistics
 
-**FAKT**: "Sztuka Wojny" stała się bestsellerem w 2001 roku po tym, jak w odcinku serialu "Sopranos" Tony Soprano powiedział swojej terapeutce, że czyta tę książkę.
+**FACT**: "The Art of War" became a bestseller in 2001 after Tony Soprano told his therapist in an episode of "The Sopranos" that he was reading this book.
 
-**FAKT**: Po emisji odcinka Oxford University Press wyczerpał całe zapasy 14,000 egzemplarzy w ciągu miesiąca i musiał dodrukować kolejne 25,000 kopii.
+**FACT**: After the episode aired, Oxford University Press exhausted all stocks of 14,000 copies within a month and had to reprint another 25,000 copies.
 
-**FAKT**: Wydawnictwo nawet wykupiło małą reklamę w The New York Times, wykorzystując darmową promocję z serialu.
+**FACT**: The publisher even bought a small ad in The New York Times, taking advantage of the free promotion from the series.
 
-### Użytkownicy Wojskowi i Polityczni
+### Military and Political Users
 
-**FAKT**: Między 1943 a 1946 Council on Books in Wartime wyprodukował prawie 123 miliony kopii 1,322 tytułów dla żołnierzy II wojny światowej - "Sztuka Wojny" była wśród nich.
+**FACT**: Between 1943 and 1946, the Council on Books in Wartime produced nearly 123 million copies of 1,322 titles for World War II soldiers - "The Art of War" was among them.
 
-**FAKT**: W 2002 program został wznowiony dla amerykańskich żołnierzy służących za granicą - "Sztuka Wojny" została wybrana jako jedna z czterech książek wysyłanych do wojska.
+**FACT**: In 2002, the program was resumed for American soldiers serving abroad - "The Art of War" was chosen as one of four books sent to the military.
 
-**FAKT**: Dowódcy wojskowi i politycy tacy jak Mao Zedong, wietnamski generał Võ Nguyên Giáp, oraz amerykańscy generałowie Douglas MacArthur i Norman Schwarzkopf Jr. czerpali inspirację z książki.
+**FACT**: Military commanders and politicians such as Mao Zedong, Vietnamese General Võ Nguyên Giáp, and American generals Douglas MacArthur and Norman Schwarzkopf Jr. drew inspiration from the book.
 
-### Fenomen w Japonii
+### Phenomenon in Japan
 
-**FAKT**: Japonia ma długą historię fascynacji Sun Tzu, sięgającą co najmniej VIII wieku n.e., kiedy pojawił się pierwszy japoński przekład.
+**FACT**: Japan has a long history of fascination with Sun Tzu, dating back at least to the 8th century AD, when the first Japanese translation appeared.
 
-**FAKT**: Japoński daimyō Takeda Shingen (1521–1573) stał się niemal niepokonany we wszystkich bitwach bez korzystania z broni palnej, studiując "Sztukę Wojny".
+**FACT**: Japanese daimyō Takeda Shingen (1521–1573) became almost unbeatable in all battles without using firearms, studying "The Art of War."
 
-**FAKT**: Książka zainspirowała jego słynny sztandar bojowy "Fūrinkazan" (Wiatr, Las, Ogień i Góra) - "szybki jak wiatr, cichy jak las, zaciekły jak ogień i niezruszony jak góra".
+**FACT**: The book inspired his famous battle banner "Fūrinkazan" (Wind, Forest, Fire and Mountain) - "swift as wind, quiet as forest, fierce as fire and immovable as mountain."
 
-### Rewolucja w Biznesie
+### Business Revolution
 
-**FAKT**: W latach 60., 70. i 80. japońscy biznesmeni zaczęli stosować nauki Sun Tzu w rozwijającej się kulturze korporacyjnej z rzeczywistymi rezultatami.
+**FACT**: In the 60s, 70s and 80s, Japanese businessmen began applying Sun Tzu's teachings in developing corporate culture with real results.
 
-**FAKT**: Wall Street, pod wrażeniem japońskich sukcesów biznesowych, pod koniec lat 80. zaczął adaptować książkę do świata materialnego, wywołując falę publikacji biznesowych.
+**FACT**: Wall Street, impressed by Japanese business successes, began adapting the book to the material world in the late 80s, triggering a wave of business publications.
 
-**FAKT**: Niektóre japońskie firmy czyniły książkę obowiązkową lekturą dla kluczowych menedżerów.
+**FACT**: Some Japanese companies made the book mandatory reading for key managers.
 
-**FAKT**: Trener NFL Bill Belichick, rekordzista pod względem liczby zwycięstw w Super Bowl, wielokrotnie wyrażał podziw dla "Sztuki Wojny".
+**FACT**: NFL coach Bill Belichick, record holder for Super Bowl victories, has repeatedly expressed admiration for "The Art of War."
 
-## Ciekawostki i Rekordy
+## Curiosities and Records
 
-### Błędne Cytaty
+### Misattributed Quotes
 
-**FAKT**: Sun Tzu, jak każda postać historyczna znana z mądrościowych cytatów, cierpi na "Chorobę Pinterest" - błędne przypisywanie mu inspirujących cytatów.
+**FACT**: Sun Tzu, like any historical figure known for wisdom quotes, suffers from "Pinterest Disease" - false attribution of inspiring quotes to him.
 
-**FAKT**: Słynne "Trzymaj przyjaciół blisko, a wrogów jeszcze bliżej" to cytat Michaela Corleone z "Ojca Chrzestnego II", nie Sun Tzu.
+**FACT**: The famous "Keep your friends close, but your enemies closer" is a quote from Michael Corleone in "The Godfather II," not Sun Tzu.
 
-### Różnorodność Zastosowań
+### Diversity of Applications
 
-**FAKT**: Tekst został "przepakowany" dla różnych odbiorców - istnieją wersje dla biznesu, kobiet ("The Art of War for Women"), a nawet laminated reference guide dla biznesu.
+**FACT**: The text has been "repackaged" for various audiences - there are versions for business, women ("The Art of War for Women"), and even a laminated reference guide for business.
 
-**FAKT**: Mimo że wyobrażamy sobie Sun Tzu jako surowego, mieczem władającego wojownika-poetę, nie ma żadnych historycznych dowodów, że osobiście prowadził armie do bitwy.
+**FACT**: Although we imagine Sun Tzu as a stern, sword-wielding warrior-poet, there is no historical evidence that he personally led armies into battle.
 
-### Współczesna Recepcja
+### Contemporary Reception
 
-**FAKT**: "Sztuka Wojny" pozostaje jedną z najczęściej wymaganych lektur w edukacji biznesowej i szkołach wojskowych na całym świecie.
+**FACT**: "The Art of War" remains one of the most frequently required readings in business education and military schools worldwide.
 
-**FAKT**: Gerald Michaelson odnotował, że dzieło Sun Tzu było obowiązkową lekturą na kursach przedsiębiorczości prowadzonych przez venture capitalistę Ashera Edelmana na Columbia University pod koniec lat 80.
+**FACT**: Gerald Michaelson noted that Sun Tzu's work was mandatory reading in entrepreneurship courses taught by venture capitalist Asher Edelman at Columbia University in the late 80s.
 
-## Kontrowersje i Wątpliwości
+## Controversies and Doubts
 
-### Problem Autorstwa
+### The Problem of Authorship
 
-**FAKT**: Począwszy od XII wieku n.e., niektórzy chińscy uczeni zaczęli wątpić w historyczne istnienie Sun Tzu.
+**FACT**: Starting from the 12th century AD, some Chinese scholars began to doubt the historical existence of Sun Tzu.
 
-**FAKT**: Na początku XX wieku chiński pisarz i reformator Liang Qichao wysnuł teorię, że tekst został faktycznie napisany w IV wieku p.n.e. przez rzekowego potomka Sun Tzu - Sun Bina.
+**FACT**: In the early 20th century, Chinese writer and reformer Liang Qichao theorized that the text was actually written in the 4th century BC by Sun Tzu's alleged descendant - Sun Bin.
 
-**FAKT**: Współcześnie wielu ludzi uważa, że nie było żadnego Sun Tzu - zamiast tego książka jest kompilacją pokoleń chińskich teorii i nauk o strategii wojskowej.
+**FACT**: Many people today believe there was no Sun Tzu - instead, the book is a compilation of generations of Chinese military strategy theories and teachings.
 
-### Anachronizmy
+### Anachronisms
 
-**FAKT**: "Sztuka Wojny" zawiera anachronizmy obejmujące terminy, technologie (jak anachroniczne kusze), idee filozoficzne, wydarzenia i techniki wojskowe, które nie powinny być dostępne Sun Wu.
+**FACT**: "The Art of War" contains anachronisms including terms, technologies (like anachronistic crossbows), philosophical ideas, events, and military techniques that should not have been available to Sun Wu.
 
-**FAKT**: Najwcześniejsze części "Sztuki Wojny" prawdopodobnie datują się co najmniej sto lat po rzekomym Sun Tzu.
+**FACT**: The earliest parts of "The Art of War" probably date to at least a hundred years after the alleged Sun Tzu.
 
-## Wpływ na Historię
+## Impact on History
 
-### Wietnam
+### Vietnam
 
-**FAKT**: Generał Võ Nguyên Giáp z sukcesem zastosował taktyki opisane w "Sztuce Wojny" podczas bitwy pod Dien Bien Phu, kończąc główne zaangażowanie francuskie w Indochinach.
+**FACT**: General Võ Nguyên Giáp successfully applied tactics described in "The Art of War" during the Battle of Dien Bien Phu, ending major French involvement in Indochina.
 
-**FAKT**: Generał Giáp, później główny dowódca wojskowy PVA w wojnie wietnamskiej, był zapalonym studentem i praktykiem idei Sun Tzu.
+**FACT**: General Giáp, later the main military commander of the PVA in the Vietnam War, was an ardent student and practitioner of Sun Tzu's ideas.
 
-### Chiny Współczesne
+### Contemporary China
 
-**FAKT**: Mao Zedong czerpał inspirację z "Sztuki Wojny" podczas rewolucji komunistycznej w Chinach.
+**FACT**: Mao Zedong drew inspiration from "The Art of War" during the communist revolution in China.
 
-## Podsumowanie
+## Summary
 
-**FAKT**: "Sztuka Wojny" to dzieło, które przez ponad 2,500 lat kształtuje myślenie strategiczne w Azji Wschodniej i na Zachodzie.
+**FACT**: "The Art of War" is a work that has shaped strategic thinking in East Asia and the West for over 2,500 years.
 
-**FAKT**: Pozostaje jednym z najważniejszych tekstów strategicznych wszech czasów, mimo wątpliwości co do autorstwa i historyczności Sun Tzu.
+**FACT**: It remains one of the most important strategic texts of all time, despite doubts about the authorship and historicity of Sun Tzu.
 
-**FAKT**: Od bambusowych pasków z V wieku p.n.e. po współczesne boardromy, "Sztuka Wojny" udowadnia niezwykłą żywotność i uniwersalność swoich zasad.
+**FACT**: From bamboo strips from the 5th century BC to contemporary boardrooms, "The Art of War" proves the extraordinary vitality and universality of its principles.
 
 ---
 
-*Dokument stworzony na podstawie badań historycznych, źródeł archeologicznych i analiz współczesnych uczonych. Fakty oznaczone jako "FAKT" mają potwierdzone źródła historyczne, podczas gdy te oznaczone jako "PLOTKA" to legendy i tradycje niepotwierzone przez niezależne źródła.*
+*Document created based on historical research, archaeological sources and analyses by contemporary scholars. Facts marked as "FACT" have confirmed historical sources, while those marked as "RUMOR" are legends and traditions unconfirmed by independent sources.*

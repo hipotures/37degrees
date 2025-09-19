@@ -1,128 +1,128 @@
-# "Sztuka wojny" Sun Tzu - Lokalny kontekst kulturowy w Polsce
+# "The Art of War" by Sun Tzu - Local Cultural Context in Poland
 
-## Wprowadzenie
+## Introduction
 
-"Sztuka wojny" (chiń. 孫子兵法, Sunzi Bingfa) Sun Tzu to jeden z najbardziej wpływowych traktatów strategicznych w historii, który w Polsce znalazł szczególnie żywotną recepcję. Ten starożytny chiński tekst z V wieku p.n.e. dotarł do polskiej kultury przez złożoną drogę tłumaczeń i adaptacji, stając się nie tylko lekturą strategów i wojskowych, ale także obowiązkowym podręcznikiem dla współczesnych menedżerów i przedsiębiorców.
+"The Art of War" (Chinese: 孫子兵法, Sunzi Bingfa) by Sun Tzu is one of the most influential strategic treatises in history, which has found particularly vibrant reception in Poland. This ancient Chinese text from the 5th century BC reached Polish culture through a complex path of translations and adaptations, becoming not only reading material for strategists and military personnel, but also a mandatory handbook for contemporary managers and entrepreneurs.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze tłumaczenia (lata 90. XX wieku)
-Pierwsze polskie wydanie "Sztuki wojny" ukazało się w 1994 roku w warszawskim wydawnictwie Przedświt jako przekład z tłumaczenia angielskiego, bez podania nazwiska tłumacza. To wydanie zapoczątkowało polską recepcję dzieła Sun Tzu, choć początkowo miało ograniczony zasięg.
+### First Translations (1990s)
+The first Polish edition of "The Art of War" appeared in 1994 by Warsaw publisher Przedświt as a translation from an English translation, without naming the translator. This edition initiated the Polish reception of Sun Tzu's work, though initially it had limited reach.
 
-### Era profesjonalnych tłumaczeń (1998-2012)
-- **1998**: Krzysztof Gawlikowski opublikował fragmenty bezpośrednio przetłumaczone z chińskiego oryginału w czasopiśmie "Azja – Pacyfik"
-- **2003**: Robert Stiller wydał kompilację różnych tłumaczeń angielskich i rosyjskich pod tytułem "Sun Zi, Sztuka wojenna" (Vis-à-vis Etiuda, Kraków)
-- **2004**: Dariusz Bakałarz przełożył dzieło z angielskiego dla wydawnictwa Helion
-- **2009**: **Przełomowy moment** - Jarosław Zawadzki stworzył pierwsze profesjonalne polskie tłumaczenie bezpośrednio z chińskiego oryginału (Hachette, seria Biblioteka Filozofów, tom 13)
-- **2012**: Monika Wyrwas-Wiśniewska przygotowała kolejne tłumaczenie z angielskiego (Olesiejuk)
+### Era of Professional Translations (1998-2012)
+- **1998**: Krzysztof Gawlikowski published fragments directly translated from the Chinese original in the magazine "Asia – Pacific"
+- **2003**: Robert Stiller published a compilation of various English and Russian translations under the title "Sun Zi, The Art of War" (Vis-à-vis Etiuda, Krakow)
+- **2004**: Dariusz Bakałarz translated the work from English for Helion publishing house
+- **2009**: **Breakthrough moment** - Jarosław Zawadzki created the first professional Polish translation directly from the Chinese original (Hachette, Philosophy Library series, volume 13)
+- **2012**: Monika Wyrwas-Wiśniewska prepared another translation from English (Olesiejuk)
 
-### Współczesne wydania biznesowe
-Od 2010 roku obserwujemy boom wydań ukierunkowanych na świat biznesu:
-- "Sztuka wojny. Sztuka zarządzania" Gary Gagliardi (Onepress)
-- "Sztuka wojny dla kobiet" Chin-Ning Chu (Onepress/Helion)
-- Liczne wydania premium z barwionymi brzegami i twardą oprawą
+### Contemporary Business Editions
+Since 2010, we observe a boom in editions targeted at the business world:
+- "The Art of War. The Art of Management" by Gary Gagliardi (Onepress)
+- "The Art of War for Women" by Chin-Ning Chu (Onepress/Helion)
+- Numerous premium editions with colored edges and hardcover binding
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
-### Jarosław Zawadzki - prekursor polskiej sinologii wojskowej
-Jarosław Zawadzki, specjalista od tłumaczeń chińsko-polskich, stworzył najbardziej autentyczne polskie tłumaczenie. Prowadzi stronę internetową tlumacz-chinskiego.pl, gdzie udostępnia swoje przekłady z komentarzami. W jego tłumaczeniu po raz pierwszy polscy czytelnicy otrzymali bezpośredni dostęp do myśli Sun Tzu, bez "filtra zachodniego brata". Zawadzki podkreśla, że jego tłumaczenie "najlepiej oddaje ducha oryginału" i przedstawia inną perspektywę na starożytną chińską literaturę wojskową.
+### Jarosław Zawadzki - Pioneer of Polish Military Sinology
+Jarosław Zawadzki, specialist in Chinese-Polish translations, created the most authentic Polish translation. He runs the website tlumacz-chinskiego.pl, where he shares his translations with commentary. In his translation, Polish readers received direct access to Sun Tzu's thought for the first time, without the "Western filter." Zawadzki emphasizes that his translation "best captures the spirit of the original" and presents a different perspective on ancient Chinese military literature.
 
-### Krzysztof Gawlikowski - pionier polskiej sinologii akademickiej
-Professor Krzysztof Gawlikowski z Uniwersytetu Warszawskiego jako pierwszy wprowadził Sun Tzu do polskiego dyskursu akademickiego poprzez przekłady fragmentów w czasopiśmie "Azja – Pacyfik", zapoczątkowując naukowe badania nad chińską strategią wojskową w Polsce.
+### Krzysztof Gawlikowski - Pioneer of Polish Academic Sinology
+Professor Krzysztof Gawlikowski from the University of Warsaw was the first to introduce Sun Tzu to Polish academic discourse through fragment translations in the magazine "Asia – Pacific," initiating scientific research on Chinese military strategy in Poland.
 
-## Edukacyjny kontekst w Polsce
+## Educational Context in Poland
 
-### Szkolnictwo wyższe i studia wojskowe
-"Sztuka wojny" jest obecnie wykorzystywana na polskich uczelniach, szczególnie w kontekście:
-- **Uniwersytet Jagielloński**: prowadzi badania "Sztuka Wojny według Sun Tzu – wybrane płaszczyzny rozważań" oraz analizuje dzieło "w kontekście współczesnego zarządzania strategicznego i przywództwa"
-- **Uniwersytet Warszawski**: wykorzystuje dzieło w materiałach dydaktycznych dotyczących zarządzania decyzją i strategii
-- **Uniwersytet Łódzki**: bada "Sztukę wojny Sun Tzu jako podstawę strategii rozwoju personelu"
-- **Studia bezpieczeństwa**: analiza "modelu bezpieczeństwa państwa w Sztuce wojny Sun Tzu"
+### Higher Education and Military Studies
+"The Art of War" is currently used in Polish universities, particularly in the context of:
+- **Jagiellonian University**: conducts research "The Art of War according to Sun Tzu – selected planes of consideration" and analyzes the work "in the context of contemporary strategic management and leadership"
+- **University of Warsaw**: uses the work in didactic materials concerning decision management and strategy
+- **University of Łódź**: studies "Sun Tzu's Art of War as the basis for personnel development strategy"
+- **Security studies**: analysis of "the state security model in Sun Tzu's Art of War"
 
-### Porównania z Clausewitzem
-W polskim szkolnictwie wojskowym "Sztuka wojny" jest często zestawiana z dziełem Carla von Clausewitza "O wojnie" jako dwa fundamentalne teksty teorii wojskowej. Studenci analizują różnice między wschodnią filozofią strategiczną a zachodnią teorią wojny.
+### Comparisons with Clausewitz
+In Polish military education, "The Art of War" is often juxtaposed with Carl von Clausewitz's "On War" as two fundamental texts of military theory. Students analyze differences between Eastern strategic philosophy and Western war theory.
 
-## Adaptacje kulturowe i nawiązania
+## Cultural Adaptations and References
 
-### Brak teatralnych adaptacji scenicznych
-Charakterystyczne dla polskiej recepcji jest to, że "Sztuka wojny" nie doczekała się znaczących adaptacji teatralnych czy filmowych. W przeciwieństwie do innych klasycznych dzieł, Sun Tzu pozostał w sferze tekstualnej i intelektualnej.
+### Absence of Theatrical Stage Adaptations
+Characteristic of Polish reception is that "The Art of War" has not received significant theatrical or film adaptations. Unlike other classical works, Sun Tzu remained in the textual and intellectual sphere.
 
-### Polska kultura biznesowa
-"Sztuka wojny" stała się kultową lekturą polskich menedżerów lat 90. i 2000. W okresie transformacji ustrojowej, kiedy powstawał polski kapitalizm, dzieło Sun Tzu służyło jako przewodnik po realiach konkurencji rynkowej. Polskie korporacje nagminnie zaczęły używać wojennych metafor: "bitwa", "wrogowie", "atak", "manewr".
+### Polish Business Culture
+"The Art of War" became cult reading for Polish managers in the 1990s and 2000s. During the period of systemic transformation, when Polish capitalism was emerging, Sun Tzu's work served as a guide through the realities of market competition. Polish corporations began extensively using military metaphors: "battle," "enemies," "attack," "maneuver."
 
-## Lokalne nawiązania i easter eggi
+## Local References and Easter Eggs
 
-### Cytaty w polskiej kulturze popularnej
-Najbardziej rozpoznawalne polskie cytaty z "Sztuki wojny":
-1. **"Sztuką wojny jest pokonać wroga bez walki"** - stał się mottem polskich negocjatorów biznesowych
-2. **"Uśmiechaj się, ale trzymaj miecz za pazuchą"** - popularne w środowiskach przedsiębiorców
-3. **"Wojna jest Tao wprowadzania w błąd"** - często cytowane w kontekście marketingu i reklamy
+### Quotes in Polish Popular Culture
+The most recognizable Polish quotes from "The Art of War":
+1. **"The art of war is to defeat the enemy without fighting"** - became the motto of Polish business negotiators
+2. **"Smile, but keep a sword behind your back"** - popular in entrepreneurial circles
+3. **"War is the Tao of deception"** - often quoted in marketing and advertising contexts
 
-### Connections do polskiej historii
-Polscy komentatorzy często porównują nauki Sun Tzu do polskich strategii historycznych:
-- **Bitwa pod Grunwaldem (1410)** - jako przykład "wygrania bez frontalnego starcia"
-- **Powstanie Warszawskie (1944)** - analiza pod kątem "znajomości terenu" i "wykorzystania przewagi lokalnej"
-- **Okrągły Stół (1989)** - jako realizacja zasady "pokonania wroga bez walki"
+### Connections to Polish History
+Polish commentators often compare Sun Tzu's teachings to Polish historical strategies:
+- **Battle of Grunwald (1410)** - as an example of "winning without frontal confrontation"
+- **Warsaw Uprising (1944)** - analysis in terms of "terrain knowledge" and "using local advantage"
+- **Round Table (1989)** - as realization of the principle "defeating the enemy without fighting"
 
-## Fan community i specyfika polska
+## Fan Community and Polish Specifics
 
-### Internet i fora dyskusyjne
-Na polskich forach internetowych (Wykop.pl, Reddit Polska) regularnie pojawiają się dyskusje o różnych tłumaczeniach "Sztuki wojny". Użytkownicy debatują, które wydanie jest najlepsze, przy czym tłumaczenie Jarosława Zawadzkiego cieszy się największą estymą wśród znawców.
+### Internet and Discussion Forums
+On Polish internet forums (Wykop.pl, Reddit Poland), discussions about different translations of "The Art of War" regularly appear. Users debate which edition is best, with Jarosław Zawadzki's translation enjoying the greatest esteem among connoisseurs.
 
-### Książka roku dla menedżerów
-W latach 2000-2010 "Sztuka wojny" była de facto obowiązkową lekturą dla każdego menedżera w Polsce. W tym okresie na polskich półkach księgarskich pojawiło się więcej podręczników opartych na wojennym podejściu do biznesu niż w poprzednich 20 latach.
+### Book of the Year for Managers
+In the years 2000-2010, "The Art of War" was de facto mandatory reading for every manager in Poland. During this period, more handbooks based on military approach to business appeared on Polish bookstore shelves than in the previous 20 years.
 
-## Problemy z tłumaczeniem i różnice kulturowe
+## Translation Problems and Cultural Differences
 
-### Challenge wieloznaczności chińskiej
-Jarosław Zawadzki w swoich komentarzach podkreśla główne problemy tłumaczenia:
-- **Kondensacja myśli**: chińskie znaki mają wielorakie znaczenia, które trudno oddać jednym polskim słowem
-- **Filozoficzne konteksty**: pojęcia takie jak "Dao" (道) nie mają bezpośrednich polskich odpowiedników
-- **Kulturowe metafory**: obrazowe porównania do przyrody (woda, ogień, wiatr) wymagają adaptacji do polskiego sposobu myślenia
+### Challenge of Chinese Ambiguity
+Jarosław Zawadzki in his commentaries emphasizes main translation problems:
+- **Thought condensation**: Chinese characters have multiple meanings that are difficult to render with one Polish word
+- **Philosophical contexts**: concepts like "Dao" (道) have no direct Polish equivalents
+- **Cultural metaphors**: figurative comparisons to nature (water, fire, wind) require adaptation to Polish thinking patterns
 
-### Co Polacy rozumieją inaczej
-1. **Unikanie konfrontacji**: Podczas gdy Sun Tzu promuje wygrywanie "bez walki", polska kultura historycznie ceni bohaterstwo i bezpośrednią walkę
-2. **Hierarchia i posłuszeństwo**: Chińskie pojmowanie absolutnego posłuszeństwa żołnierza różni się od polskiego ideału żołnierza-obywatela
-3. **Długoterminowe planowanie**: 2500-letnia perspektywa chińska kontra polska skłonność do działań doraźnych
+### What Poles Understand Differently
+1. **Avoiding confrontation**: While Sun Tzu promotes winning "without fighting," Polish culture historically values heroism and direct combat
+2. **Hierarchy and obedience**: Chinese understanding of absolute soldier obedience differs from the Polish ideal of soldier-citizen
+3. **Long-term planning**: 2500-year Chinese perspective versus Polish tendency toward immediate actions
 
-## Badania polskich akademików
+## Research by Polish Academics
 
-### Warszawska szkoła sinologiczna
-Uniwersytet Warszawski, mający najstarszą w Polsce katedrę sinologii, prowadzi systematyczne badania nad chińską myślą strategiczną. Profesor Krzysztof Gawlikowski jest uznawany za czołowego polskiego eksperta od Sun Tzu.
+### Warsaw School of Sinology
+The University of Warsaw, having Poland's oldest sinology department, conducts systematic research on Chinese strategic thought. Professor Krzysztof Gawlikowski is recognized as Poland's leading Sun Tzu expert.
 
-### Krakowska interpretacja zarządcza
-Uniwersytet Jagielloński rozwija aplikację zasad Sun Tzu do współczesnego zarządzania, tworząc "polską szkołę" interpretacji dzieła w kontekście leadership i rozwoju organizacji.
+### Krakow Management Interpretation
+The Jagiellonian University develops application of Sun Tzu's principles to contemporary management, creating a "Polish school" of interpreting the work in the context of leadership and organizational development.
 
-### Łódzka szkoła HR
-Uniwersytet Łódzki specjalizuje się w aplikacji "Sztuki wojny" do zarządzania zasobami ludzkimi, rozwijając unikatowe metodologie rekrutacji i motywacji oparte na chińskiej filosofii.
+### Łódź HR School
+The University of Łódź specializes in applying "The Art of War" to human resource management, developing unique recruitment and motivation methodologies based on Chinese philosophy.
 
-## Współczesna recepcja (2020-2025)
+## Contemporary Reception (2020-2025)
 
-### Pandemia i nowe interpretacje
-Okres pandemii COVID-19 przyniósł nowe odczytania Sun Tzu w Polsce:
-- **Adaptacja do zmieniających się warunków** jako kluczowa umiejętność biznesowa
-- **Walka bez bezpośredniego kontaktu** (praca zdalna) jako realizacja ideałów Sun Tzu
-- **Informacja jako broń** w kontekście walki z fake newsami
+### Pandemic and New Interpretations
+The COVID-19 pandemic period brought new readings of Sun Tzu in Poland:
+- **Adaptation to changing conditions** as a key business skill
+- **Fighting without direct contact** (remote work) as realization of Sun Tzu's ideals
+- **Information as a weapon** in the context of fighting fake news
 
-### TikTok i młode pokolenie
-Na polskim TikToku pojawiają się krótkie filmy z cytatami Sun Tzu, często w kontekście motywacyjnym dla młodzieży. Hashtag #SztukWojny ma w Polsce tysiące wyświetleń.
+### TikTok and Young Generation
+Short videos with Sun Tzu quotes appear on Polish TikTok, often in motivational contexts for youth. The hashtag #SztukiWojny has thousands of views in Poland.
 
-## Specyfika regionalna (Kraków, Małopolska)
+## Regional Specifics (Krakow, Lesser Poland)
 
-### Krakowski biznes i Sun Tzu
-W Krakowie, będącym centrum polskiego sektora IT i usług, "Sztuka wojny" jest szczególnie popularna wśród start-upowców. Lokalne środowisko przedsiębiorców organizuje "Sun Tzu meetupy", gdzie omawiają aplikację starożytnych zasad do nowoczesnego biznesu.
+### Krakow Business and Sun Tzu
+In Krakow, being the center of Poland's IT and services sector, "The Art of War" is particularly popular among start-up entrepreneurs. The local business community organizes "Sun Tzu meetups," where they discuss application of ancient principles to modern business.
 
-### Małopolska perspektywa
-Region Małopolski, z tradycjami Akademii Krakowskiej i UJ, ma szczególnie rozwiniętą recepcję akademicką dzieła Sun Tzu, łącząc ją z lokalnymi tradycjami intelektualnymi.
+### Lesser Poland Perspective
+The Lesser Poland region, with traditions of the Krakow Academy and Jagiellonian University, has particularly developed academic reception of Sun Tzu's work, combining it with local intellectual traditions.
 
-## Podsumowanie - unikalne cechy polskiej recepcji
+## Summary - Unique Features of Polish Reception
 
-"Sztuka wojny" Sun Tzu w Polsce przeszła specyficzną drogę - od niszowej publikacji lat 90. do kultowej lektury transformacji ustrojowej, by ostatecznie stać się akademickim przedmiotem badań. Charakterystyczne dla polskiej recepcji jest:
+"The Art of War" by Sun Tzu in Poland underwent a specific path - from niche publication of the 1990s to cult reading of systemic transformation, to ultimately become an academic subject of research. Characteristic of Polish reception is:
 
-1. **Dominacja aplikacji biznesowej** nad wojskową
-2. **Brak adaptacji artystycznych** (teatr, film) przy bogatej recepcji tekstualnej
-3. **Silne zakorzenienie w środowisku akademickim** dzięki warszawskiej i krakowskiej sinologii
-4. **Połączenie z polską historią** poprzez analogie do wydarzeń historycznych
-5. **Traktowanie jako praktycznego przewodnika** a nie dzieła filozoficznego
+1. **Dominance of business application** over military
+2. **Absence of artistic adaptations** (theater, film) with rich textual reception
+3. **Strong rooting in academic environment** thanks to Warsaw and Krakow sinology
+4. **Connection with Polish history** through analogies to historical events
+5. **Treatment as practical guide** rather than philosophical work
 
-Dla polskich słuchaczy 37stopni szczególnie interesujące mogą być połączenia z lokalnymi realiami Krakowa oraz fakt, że dzieło to nadal ewoluuje w polskiej kulturze, znajdując nowe interpretacje wśród młodego pokolenia na platformach społecznościowych.
+For Polish listeners of 37degrees, particularly interesting may be connections with local Krakow realities and the fact that this work continues to evolve in Polish culture, finding new interpretations among the young generation on social media platforms.

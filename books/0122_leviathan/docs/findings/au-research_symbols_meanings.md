@@ -1,315 +1,315 @@
-# Badanie Symboli i Znaczeń: "Lewiatan" Thomasa Hobbesa (1651)
+# Symbols and Meanings Research: Thomas Hobbes' "Leviathan" (1651)
 
-## Wprowadzenie
+## Introduction
 
-"Lewiatan" Thomasa Hobbesa to jedno z najważniejszych dzieł filozofii politycznej, które przekształciło biblijny symbol morskiego potwora w metaforę nowoczesnego państwa. Traktat ten, opublikowany w 1651 roku podczas angielskiej wojny domowej, oferuje wielowarstwowe interpretacje symboliczne, które rezonują z różnymi kulturami i epokami historycznymi.
+Thomas Hobbes' "Leviathan" is one of the most important works of political philosophy that transformed the biblical symbol of a sea monster into a metaphor for the modern state. This treatise, published in 1651 during the English Civil War, offers multi-layered symbolic interpretations that resonate with different cultures and historical epochs.
 
-## 1. Główne Symbole i Ich Interpretacje
+## 1. Main Symbols and Their Interpretations
 
-### Lewiatan jako Morski Potwór
-**Symbol pierwotny**: Biblijne stworzenie z Księgi Hioba - gigantyczny krokodyl lub morski wąż przedstawiający chaos i siły pierwotne natury.
+### Leviathan as Sea Monster
+**Primordial symbol**: Biblical creature from the Book of Job - a gigantic crocodile or sea serpent representing chaos and the primordial forces of nature.
 
-**Interpretacje wielokrotne**:
-- **Judaizm**: Potwór chaosu pokonany przez Boga, symbol sił opozycyjnych wobec boskiego porządku
-- **Chrześcijaństwo średniowieczne**: Demon zazdrości, obraz diabła zagrażający stworzeniu Bożemu
-- **Kabała**: Symbol ukrytej wiedzy i pierwotnego chaosu sprzed stworzenia uporządkowanego świata
-- **Islam**: Żeńskie stworzenie w parze z męskim Behemotem, element kosmicznej równowagi
+**Multiple interpretations**:
+- **Judaism**: Monster of chaos defeated by God, symbol of forces opposing divine order
+- **Medieval Christianity**: Demon of envy, image of the devil threatening God's creation
+- **Kabbalah**: Symbol of hidden knowledge and primordial chaos before the creation of ordered world
+- **Islam**: Female creature paired with the male Behemoth, element of cosmic balance
 
-### Lewiatan jako Państwo u Hobbesa
-**Transformacja symboliczna**: Hobbes radykalnie przemienia tradycyjnie groźny symbol w pozytywną metaforę koniecznej władzy politycznej.
+### Leviathan as State in Hobbes
+**Symbolic transformation**: Hobbes radically transforms the traditionally threatening symbol into a positive metaphor for necessary political authority.
 
-**Kluczowe interpretacje**:
-- **"Sztuczny człowiek"**: Państwo jako organizm złożony z ciał obywateli
-- **Jedność w różnorodności**: Wiele jednostek zespolonych w jedno mocarstwo
-- **Suwerenność absolutna**: Władza niepodzielna i niezniszczalna
-- **Ochrona przez podporządkowanie**: Bezpieczeństwo w zamian za rezygnację z wolności
+**Key interpretations**:
+- **"Artificial man"**: State as organism composed of citizens' bodies
+- **Unity in diversity**: Many individuals united into one power
+- **Absolute sovereignty**: Indivisible and indestructible authority
+- **Protection through subordination**: Security in exchange for renouncing freedom
 
-## 2. Uniwersalne Archetypy i Motywy
+## 2. Universal Archetypes and Motifs
 
-### Archetype Chaosu i Porządku
-Lewiatan reprezentuje fundamentalny konflikt między siłami chaosu a potrzebą porządku - motyw pojawiający się w mitologiach całego świata:
-- **Mezopotamia**: Walka Marduka z Tiamat
-- **Kanaan**: Pokonanie Lotana przez Baala
-- **Grecja**: Zeus przeciwko Tyfonie
-- **Nordycka**: Ragnarok i węże światowe
+### Archetype of Chaos and Order
+Leviathan represents the fundamental conflict between forces of chaos and the need for order - a motif appearing in mythologies worldwide:
+- **Mesopotamia**: Marduk's battle with Tiamat
+- **Canaan**: Defeating Lotan by Baal
+- **Greece**: Zeus against Typhon
+- **Nordic**: Ragnarok and world serpents
 
-### Archetype Władzy Absolutnej
-W psychologii Jungowskiej Lewiatan może reprezentować:
-- **Cień kolektywny**: Ukryte aspekty władzy społeczeństwa
-- **Animus/Anima**: Męski aspekt władzy w zbiorowej nieświadomości
-- **Wielki Ojciec**: Archetyp patriarchalnej autorytarnej figury
-- **Self społeczne**: Integracja jednostek w wyższą całość
+### Archetype of Absolute Power
+In Jungian psychology, Leviathan may represent:
+- **Collective Shadow**: Hidden aspects of society's power
+- **Animus/Anima**: Masculine aspect of power in collective unconscious
+- **Great Father**: Archetype of patriarchal authoritarian figure
+- **Social Self**: Integration of individuals into higher whole
 
-### Motyw Ofiary i Ochrony
-Umowa społeczna jako archetypalny handel:
-- Jednostka oferuje wolność w zamian za bezpieczeństwo
-- Rytualne podporządkowanie się większej sile
-- Paradoks wolności przez niewolę
-- Kolektywna odpowiedzialność za indywidualną bezimpotność
+### Motif of Sacrifice and Protection
+Social contract as archetypal bargain:
+- Individual offers freedom in exchange for security
+- Ritual subordination to greater force
+- Paradox of freedom through bondage
+- Collective responsibility for individual impotence
 
-## 3. Interpretacje Kulturowe - Różnice Międzykulturowe
+## 3. Cultural Interpretations - Cross-Cultural Differences
 
-### Kultura Zachodnia
-**17-18 wiek**: Oświeceniowe ideały vs. absolutyzm
-- Voltaire i francuscy encyklopedyści: krytyka despotyzmu
-- Anglia: wpływ na teorię konstytucyjną monarchii
-- Niemcy: inspiracja dla pojęcia Rechtsstaat (państwa prawa)
+### Western Culture
+**17th-18th century**: Enlightenment ideals vs. absolutism
+- Voltaire and French encyclopedists: criticism of despotism
+- England: influence on constitutional monarchy theory
+- Germany: inspiration for concept of Rechtsstaat (rule of law)
 
-**19-20 wiek**: Romantyzm vs. realizm polityczny
-- Rozczarowanie rewolucjami: powrót do Hobbesa jako realisty
-- Wpływ na teorię stosunków międzynarodowych (realizm)
-- Totalitaryzm XX wieku jako zwyrodnienie idei Lewiatana
+**19th-20th century**: Romanticism vs. political realism
+- Disillusionment with revolutions: return to Hobbes as realist
+- Influence on international relations theory (realism)
+- 20th century totalitarianism as degeneration of Leviathan idea
 
-### Kultury Azjatyckie
-**Konfucjanizm**: Państwo jako rozszerzona rodzina
-- Harmonia społeczna ważniejsza od wolności jednostki
-- Władca jako ojciec narodu - analogia do Lewiatana
-- Mandat Niebios jako legitymizacja autorytetu
+### Asian Cultures
+**Confucianism**: State as extended family
+- Social harmony more important than individual freedom
+- Ruler as father of nation - analogy to Leviathan
+- Mandate of Heaven as legitimization of authority
 
-**Legalizm chiński**: Bezpośrednie podobieństwa
-- Han Feizi i absolutna władza państwa
-- Prawo jako narzędzie kontroli społecznej
-- Jednostka podporządkowana kolektywowi
+**Chinese Legalism**: Direct similarities
+- Han Feizi and absolute state power
+- Law as tool of social control
+- Individual subordinated to collective
 
-### Kultury Islamskie
-**Kalifat jako Lewiatan**: Władza religijna i polityczna
-- Umma (wspólnota wiernych) jako ciało polityczne
-- Kalif jako namiestnik Boga na ziemi
-- Szariat jako absolutny system prawny
+### Islamic Cultures
+**Caliphate as Leviathan**: Religious and political authority
+- Ummah (community of believers) as political body
+- Caliph as God's representative on earth
+- Sharia as absolute legal system
 
-## 4. Psychologiczne Aspekty Postaci i Uniwersalne Wymiary
+## 4. Psychological Aspects of Characters and Universal Dimensions
 
-### Psychologia Hobbsowskiego Człowieka
-**Natura ludzka w stanie natury**:
-- **Strach jako motywator**: Podstawowa emocja kształtująca społeczeństwo
-- **Egoizm racjonalny**: Jednostka dąży do samozachowania
-- **Równość w słabości**: Wszyscy są śmiertelni, więc równi
-- **Wojna wszystkich przeciwko wszystkim**: Paranoja społeczna
+### Psychology of Hobbesian Man
+**Human nature in state of nature**:
+- **Fear as motivator**: Basic emotion shaping society
+- **Rational egoism**: Individual strives for self-preservation
+- **Equality in weakness**: All are mortal, therefore equal
+- **War of all against all**: Social paranoia
 
-**Interpretacje psychoanalityczne**:
-- **Freudowska**: Superego społeczne tłumień id jednostki
-- **Jungowska**: Persona kolektywna vs. cień indywidualny
-- **Adlerowska**: Kompensacja poczucia niższości przez władzę
+**Psychoanalytic interpretations**:
+- **Freudian**: Social superego suppressing individual id
+- **Jungian**: Collective persona vs. individual shadow
+- **Adlerian**: Compensation for inferiority feelings through power
 
-### Uniwersalne Lęki i Pragnienia
-Lewiatan adresuje fundamentalne ludzkie potrzeby:
-- **Lęk przed śmiercią**: Państwo jako gwarant przetrwania
-- **Potrzeba przynależności**: Jednostka zyskuje tożsamość przez państwo
-- **Pragnienie bezpieczeństwa**: Rezygnacja z wolności za spokój
-- **Dążenie do sensu**: Państwo jako źródło znaczenia życia
+### Universal Fears and Desires
+Leviathan addresses fundamental human needs:
+- **Fear of death**: State as guarantor of survival
+- **Need for belonging**: Individual gains identity through state
+- **Desire for security**: Renouncing freedom for peace
+- **Pursuit of meaning**: State as source of life's significance
 
-## 5. Współczesne Reinterpretacje
+## 5. Contemporary Reinterpretations
 
-### Interpretacje Feministyczne
-**Carole Pateman i "Kontrakt Seksualny"**:
-- Krityka patriarchalnych założeń umowy społecznej
-- Kobiety jako słuzki mężczyzn mimo równości w stanie natury
-- Państwo jako narzędzie męskiej dominacji
-- Przemilczenie kwestii rodziny i seksualności
+### Feminist Interpretations
+**Carole Pateman and "The Sexual Contract"**:
+- Critique of patriarchal assumptions of social contract
+- Women as servants to men despite equality in state of nature
+- State as tool of male domination
+- Silencing of family and sexuality issues
 
 **Nancy Hirschmann**: Feminist interpretations of Hobbes
-- Możliwość proto-feministycznej lektury Hobbesa
-- Równość płci w stanie natury jako progresywny element
-- Krytyka podporządkowania kobiet w państwie cywilnym
+- Possibility of proto-feminist reading of Hobbes
+- Gender equality in state of nature as progressive element
+- Critique of women's subordination in civil state
 
-### Interpretacje Postkolonialne
-**Nieobecność w dyskursie**: Znaczący brak postkolonialnych analiz Lewiatana wskazuje na eurocentryczny charakter klasycznej filozofii politycznej.
+### Postcolonial Interpretations
+**Absence from discourse**: Significant lack of postcolonial analyses of Leviathan indicates Eurocentric character of classical political philosophy.
 
-**Potencjalne kierunki**:
-- Lewiatan jako metafora imperializmu europejskiego
-- Umowa społeczna jako narzędzie kolonizacji
-- "Stan natury" jako orientalistyczne przedstawienie nieprzymierzymych kultur
+**Potential directions**:
+- Leviathan as metaphor for European imperialism
+- Social contract as tool of colonization
+- "State of nature" as orientalist representation of incommensurable cultures
 
-### Perspektywy LGBTQ+
-**Niezbadane obszary**: Literatura akademicka nie oferuje znaczących analiz queerowych Lewiatana.
+### LGBTQ+ Perspectives
+**Unexplored areas**: Academic literature offers no significant queer analyses of Leviathan.
 
-**Możliwe interpretacje**:
-- Umowa społeczna jako heteronormatywny konstrukt
-- Państwo jako narzędzie normalizacji seksualnej
-- Lewiatan jako symbol sztywnych ról płciowych
+**Possible interpretations**:
+- Social contract as heteronormative construct
+- State as tool of sexual normalization
+- Leviathan as symbol of rigid gender roles
 
-### Interpretacje Ekologiczne (XXI wiek)
-**Antropocen i Lewiatan**:
-- Państwo jako niszczyciel środowiska naturalnego
-- Przemysłowy Lewiatan pożerający planetę
-- Potrzeba nowego kontraktu z naturą
+### Ecological Interpretations (21st century)
+**Anthropocene and Leviathan**:
+- State as destroyer of natural environment
+- Industrial Leviathan devouring planet
+- Need for new contract with nature
 
-## 6. Ewolucja Interpretacji Na Przestrzeni Wieków
+## 6. Evolution of Interpretations Across Centuries
 
-### XVII wiek: Szok i kontrowersje
-- Krytycy religijni: "dzikość i niechrześcijańskość" (Duppa)
-- Royaliści: poparcie dla absolutnej monarchii
-- Republikanie: sprzeciw wobec tyranii
+### 17th century: Shock and controversies
+- Religious critics: "wildness and unchristianness" (Duppa)
+- Royalists: support for absolute monarchy
+- Republicans: opposition to tyranny
 
-### XVIII wiek: Oświeceniowe przepracowanie
-- Wpływ na Monteskiusza i podział władz (jako kontrargument)
-- Rousseau i krytyka pesymistycznej anthropologii
-- Kant i kategoryczny imperatyw jako odpowiedź na Hobbesa
+### 18th century: Enlightenment reworking
+- Influence on Montesquieu and separation of powers (as counterargument)
+- Rousseau and critique of pessimistic anthropology
+- Kant and categorical imperative as response to Hobbes
 
-### XIX wiek: Romantyzm vs. realizm
-- Hegel: państwo jako realizacja ducha absolutnego
-- Marx: krytyka burżuazyjnego państwa Lewiatana
-- Tocqueville: amerykańska demokracja jako alternatywa
+### 19th century: Romanticism vs. realism
+- Hegel: state as realization of absolute spirit
+- Marx: critique of bourgeois Leviathan state
+- Tocqueville: American democracy as alternative
 
-### XX wiek: Totalitaryzm i renesans
-- Carl Schmitt i decyzjonizm
-- Hannah Arendt i krytyka absolutnego państwa
-- John Rawls i nowy kontraktualizm jako odpowiedź
+### 20th century: Totalitarianism and renaissance
+- Carl Schmitt and decisionism
+- Hannah Arendt and critique of absolute state
+- John Rawls and new contractualism as response
 
-### XXI wiek: Globalizacja i kryzys państwa
-- Agamben i stan wyjątkowy jako norma
-- Negri i Hardt: "Imperium" jako globalny Lewiatan
-- Teorie sieci i rozproszenie suwerenności
+### 21st century: Globalization and crisis of state
+- Agamben and state of exception as norm
+- Negri and Hardt: "Empire" as global Leviathan
+- Network theories and dispersal of sovereignty
 
-## 7. Ukryte Symbole - Co Może Umknąć Czytelnikom
+## 7. Hidden Symbols - What Readers Might Miss
 
-### Symbolika Wizualna Frontispisu
-**Gigantyczna postać**: Ciało zbudowane z mniejszych ciał obywateli
-- Symbol jedności przez podporządkowanie
-- Wizualna reprezentacja "corpus mysticum" (mistycznego ciała)
-- Nawiązanie do średniowiecznej koncepcji "królewskiego ciała"
+### Visual Symbolism of Frontispiece
+**Gigantic figure**: Body built from smaller bodies of citizens
+- Symbol of unity through subordination
+- Visual representation of "corpus mysticum" (mystical body)
+- Reference to medieval concept of "king's body"
 
-**Metryzacja atrybutów władzy**:
-- Miecz (władza temporalna) vs. berło biskupie (władza duchowa)
-- Korona jako symbol boskiej sankcji
-- Krajobraz jako przestrzeń kontrolowaną przez władcę
+**Measurement of power attributes**:
+- Sword (temporal power) vs. bishop's staff (spiritual power)
+- Crown as symbol of divine sanction
+- Landscape as space controlled by ruler
 
-### Numerologia i Gematria
-**Biblijne nawiązania liczbowe**:
-- 41 rozdziałów - odniesienie do 41. rozdziału Księgi Hioba
-- Struktura czterodzielna - nawiązanie do średniowiecznej kosmologii
-- Liczba 666 ukryta w strukturze argumentów (kontrowersyjna interpretacja)
+### Numerology and Gematria
+**Biblical numerical references**:
+- 41 chapters - reference to chapter 41 of Book of Job
+- Four-part structure - reference to medieval cosmology
+- Number 666 hidden in argument structure (controversial interpretation)
 
-### Alchemiczne Metafory
-**Transformacja chaosu w porządek**:
-- Państwo jako "magnum opus" alchemiczne
-- Władca jako "lapis philosophicus" (kamień filozoficzny)
-- Obywatele jako prima materia do transformacji
+### Alchemical Metaphors
+**Transformation of chaos into order**:
+- State as alchemical "magnum opus"
+- Ruler as "lapis philosophicus" (philosopher's stone)
+- Citizens as prima materia for transformation
 
-### Kabalistyczne Influences
-**Sefirot i struktura władzy**:
-- Dziesięć sfer boskich jako model hierarkii państwowej
-- Ein Sof (Nieskończoność) jako metafora absolutnej suwerenności
-- Tikkun olam (naprawa świata) przez polityczny porządek
+### Kabbalistic Influences
+**Sefirot and power structure**:
+- Ten divine spheres as model of state hierarchy
+- Ein Sof (Infinity) as metaphor for absolute sovereignty
+- Tikkun olam (repairing the world) through political order
 
-## 8. Połączenia z Innymi Dziełami Kultury
+## 8. Connections with Other Cultural Works
 
-### Literatura Dystoppijna
-**"1984" George'a Orwella**:
-- Wielki Brat jako techno-Lewiatan
-- Totalitarna inwigilacja vs. Hobbsowska ochrona
-- Myślozbrodni jako ewolucja kontroli społecznej
+### Dystopian Literature
+**George Orwell's "1984"**:
+- Big Brother as techno-Leviathan
+- Totalitarian surveillance vs. Hobbesian protection
+- Thoughtcrime as evolution of social control
 
-**"Nowy Wspaniały Świat" Aldousa Huxleya**:
-- Soma jako narkotyk społecznej kontroli
-- Kondycjonowanie vs. strach jako narzędzia władzy
-- Hedonistyczny Lewiatan vs. autorytarny
+**Aldous Huxley's "Brave New World"**:
+- Soma as drug of social control
+- Conditioning vs. fear as tools of power
+- Hedonistic Leviathan vs. authoritarian
 
-### Kino i Telewizja
-**"Matrix" (1999)**:
-- Maszyny jako technologiczny Lewiatan
-- Iluzoryczna rzeczywistość jako umowa społeczna
-- Wybór pomiędzy prawdą a wygodną kontrolą
+### Cinema and Television
+**"The Matrix" (1999)**:
+- Machines as technological Leviathan
+- Illusory reality as social contract
+- Choice between truth and comfortable control
 
 **"The Walking Dead"**:
-- Apokalipsa jako powrót do stanu natury
-- Grupy ocalałych jako mini-Lewiatany
-- Współistnienie współpracy i przemocy
+- Apocalypse as return to state of nature
+- Survivor groups as mini-Leviathans
+- Coexistence of cooperation and violence
 
-### Sztuki Plastyczne
-**Francis Bacon - studia nad Lewiatańskim ciałem**:
-- Deformacja ludzkiego ciała jako polityczna metafora
-- Krzyk jako wyraz sprzeciwu wobec władzy
-- Mięso jako symbol ludzkiej kondycji w państwie
+### Visual Arts
+**Francis Bacon - studies on Leviathan body**:
+- Human body deformation as political metaphor
+- Scream as expression of resistance to power
+- Flesh as symbol of human condition in state
 
 **Anselm Kiefer - "Behemoth"**:
-- Niemiecki artysta przepracowujący totalitarną przeszłość
-- Lewiatan i Behemot jako bliźniacze siły zniszczenia
-- Materia i historia jako narzędzia artystyczne
+- German artist working through totalitarian past
+- Leviathan and Behemoth as twin forces of destruction
+- Matter and history as artistic tools
 
-### Muzyka
-**Metallica - "Leeper Messiah"**:
-- Krytyka ślepego podążania za liderami
-- Metal jako wyraz buntu przeciwko kontroli
+### Music
+**Metallica - "Leper Messiah"**:
+- Critique of blind following of leaders
+- Metal as expression of rebellion against control
 
 **Wagner - "Ring des Nibelungen"**:
-- Wotan jako tragiczny Lewiatan nordyckiej mitologii
-- Władza ostatecznie prowadząca do automniszczenia
-- Cykl zniszczenia i odnowienia
+- Wotan as tragic Leviathan of Nordic mythology
+- Power ultimately leading to self-destruction
+- Cycle of destruction and renewal
 
-### Gry Video
+### Video Games
 **"Bioshock" series**:
-- Rapture jako liberalny anty-Leviatan
-- Columbia jako patriotyczny ultra-Lewiatan
-- Wybór pomiędzy wolnością a bezpieczeństwem
+- Rapture as liberal anti-Leviathan
+- Columbia as patriotic ultra-Leviathan
+- Choice between freedom and security
 
 **"Half-Life 2"**:
-- Combine jako obcy Lewiatan okupujący Ziemię
-- Resist vs. submit jako podstawowy dylemat
-- Gordon Freeman jako symbol indywidualnego sprzeciwu
+- Combine as alien Leviathan occupying Earth
+- Resist vs. submit as basic dilemma
+- Gordon Freeman as symbol of individual resistance
 
-## 9. Współczesne Rezonanse i Znaczenia
+## 9. Contemporary Resonances and Meanings
 
-### Era Surveillance Capitalism
-**Cyfrowy Leviatan**:
-- Korporacje technologiczne jako nowi suwerenni
-- Dane jako nowa waluta władzy
-- Algoritmy jako nierzędne prawo
+### Era of Surveillance Capitalism
+**Digital Leviathan**:
+- Tech corporations as new sovereigns
+- Data as new currency of power
+- Algorithms as invisible law
 
-### Pandemia COVID-19
-**Biopolityczny Lewiatan**:
-- Zdrowie publiczne vs. wolności obywatelskie
-- Lockdowny jako временny totalitaryzm
-- Szczepienia jako nowy kontrakt społeczny
+### COVID-19 Pandemic
+**Biopolitical Leviathan**:
+- Public health vs. civil liberties
+- Lockdowns as temporary totalitarianism
+- Vaccination as new social contract
 
-### Kryzys Klimatyczny
-**Ekologiczny Lewiatan**:
-- Konieczność globalnej władzy dla ratowania planety
-- Green New Deal jako nowa umowa społeczna
-- Extinction Rebellion jako sprzeciw wobec ecocidal state
+### Climate Crisis
+**Ecological Leviathan**:
+- Need for global authority to save planet
+- Green New Deal as new social contract
+- Extinction Rebellion as resistance to ecocidal state
 
-### Migracje i Populizm
-**Ksenofobiczny Leviathan**:
-- "America First" i nacjonalistyczne Lewiatany
-- Brexit jako próba odbudowy sovereign Leviathana
-- Mury graniczne jako fyzyczne manifestacje państwowości
+### Migration and Populism
+**Xenophobic Leviathan**:
+- "America First" and nationalist Leviathans
+- Brexit as attempt to rebuild sovereign Leviathan
+- Border walls as physical manifestations of statehood
 
-### Sztuczna Inteligencja
-**Algorytmiczny Lewiathan**:
-- AI jako potencjalny super-suwerenny
-- Machine learning jako nowa forma społecznego kontraktu
-- Human-AI coexistence jako nowy wyzwanie political theory
+### Artificial Intelligence
+**Algorithmic Leviathan**:
+- AI as potential super-sovereign
+- Machine learning as new form of social contract
+- Human-AI coexistence as new challenge for political theory
 
-## 10. Dlaczego Różne Kultury Widzą Różne Znaczenia
+## 10. Why Different Cultures See Different Meanings
 
-### Różnice w Koncepcjach Władzy
-**Zachód**: Władza jako kontrakt między równymi
-**Wschód**: Władza jako naturalna hierarchia
-**Południe**: Władza jako komunalna odpowiedzialność
-**Północ**: Władza jako egalitarny konsensus
+### Differences in Power Concepts
+**West**: Power as contract between equals
+**East**: Power as natural hierarchy
+**South**: Power as communal responsibility
+**North**: Power as egalitarian consensus
 
-### Różne Relation do Natury
-**Kultury rolnicze**: Natura jako partner do współpracy
-**Kultury nomadyczne**: Natura jako przestrzeń do przemierzania
-**Kultury industrialne**: Natura jako zasób do wyzyskania
-**Kultury post-industrialne**: Natura jako zagrożony ekosystem
+### Different Relations to Nature
+**Agricultural cultures**: Nature as partner for cooperation
+**Nomadic cultures**: Nature as space to traverse
+**Industrial cultures**: Nature as resource to exploit
+**Post-industrial cultures**: Nature as threatened ecosystem
 
-### Różne Pojimowanie Jednostki
-**Individualistische kultury**: Lewiatan jako zagrożenie dla autonomii
-**Kolektywistyczne kultury**: Lewiatan jako naturalna organizacja społeczeństwa
-**Tribal kultury**: Leviathan jako colonizing force
-**Multicultural społeczeństwa**: Leviathan jako mediator między grupami
+### Different Understanding of Individual
+**Individualistic cultures**: Leviathan as threat to autonomy
+**Collectivistic cultures**: Leviathan as natural social organization
+**Tribal cultures**: Leviathan as colonizing force
+**Multicultural societies**: Leviathan as mediator between groups
 
-### Różne Historical Experiences z Staatem
-**Post-colonial nations**: Państwo jako narzędzie opresji
-**Post-communist countries**: Państwo jako failed experiment
-**Etablished democracies**: Państwo jako successful social contract
-**Failed states**: Państwo jako absent Leviathan
+### Different Historical Experiences with State
+**Post-colonial nations**: State as tool of oppression
+**Post-communist countries**: State as failed experiment
+**Established democracies**: State as successful social contract
+**Failed states**: State as absent Leviathan
 
-## Podsumowanie
+## Summary
 
-"Lewiatan" Thomasa Hobbesa pozostaje jednym z najbogacji symbolicznie dzieł filozofii politycznej, oferując wielowarstwowe interpretacje które evolve z czasem i kulturą. Od biblijnego potwora chaosu do nowoczesnej metafory państwa, symbol ten continues to resonate z fundamentalnymi ludzkimi lękami i pragnieniami related do władzy, bezpieczeństwa i wolności.
+Thomas Hobbes' "Leviathan" remains one of the most symbolically rich works of political philosophy, offering multi-layered interpretations that evolve with time and culture. From biblical chaos monster to modern state metaphor, this symbol continues to resonate with fundamental human fears and desires related to power, security, and freedom.
 
-Współczesne reinterpretacje - feministyczne, potencjalnie postkolonialne i queerowe - otwierają nowe perspektywy na classic text, podczas gdy nowe technological i ecological wyzwania demand fresh readings of Hobbesian themes. The Leviathan remains relevant nie tylko jako historyczny dokument, ale jako living symbol który helps us understand contemporary political struggles i social contracts of our time.
+Contemporary reinterpretations - feminist, potentially postcolonial and queer - open new perspectives on the classic text, while new technological and ecological challenges demand fresh readings of Hobbesian themes. The Leviathan remains relevant not only as historical document, but as living symbol that helps us understand contemporary political struggles and social contracts of our time.
 
-Symbol Lewiatana shows us that political meaning jest zawsze contested, i że każda epoca musi re-interpret fundamental questions o power, authority, i human nature według własnych circumstances i values. W tym sensie, Hobbesa masterpiece continues to serve jako powerful lens przez który możemy examine nasze własne political assumptions i aspirations.
+The symbol of Leviathan shows us that political meaning is always contested, and that each epoch must re-interpret fundamental questions about power, authority, and human nature according to its own circumstances and values. In this sense, Hobbes' masterpiece continues to serve as powerful lens through which we can examine our own political assumptions and aspirations.

@@ -1,82 +1,82 @@
-# Lokalny kontekst kulturowy: Dziennik Anne Frank w Polsce
+# Local Cultural Context: The Diary of Anne Frank in Poland
 
-## Wprowadzenie
-"Dziennik Anne Frank" nie jest tylko jedną z najważniejszych książek XX wieku, ale także dziełem które znalazło szczególne miejsce w polskiej kulturze i edukacji. Niniejszy dokument przedstawia lokalny kontekst kulturowy tej książki w Polsce, z uwzględnieniem historii publikacji, tłumaczeń, adaptacji i recepcji wśród polskich czytelników.
+## Introduction
+"The Diary of Anne Frank" is not only one of the most important books of the 20th century, but also a work that has found a special place in Polish culture and education. This document presents the local cultural context of this book in Poland, including publication history, translations, adaptations, and reception among Polish readers.
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydanie polskie
-- **Rok publikacji**: 1957 (dokładnie 10 lat po wydaniu holenderskim)
-- **Wydawnictwo**: PIW (Państwowy Instytut Wydawniczy)
-- **Tłumaczka**: Zofia Jaremko-Pytowska
-- **Źródło tłumaczenia**: Z języka niemieckiego (nie bezpośrednio z holenderskiego)
-- **Wznowienie**: 1960
+### First Polish Edition
+- **Publication year**: 1957 (exactly 10 years after the Dutch edition)
+- **Publisher**: PIW (State Publishing Institute)
+- **Translator**: Zofia Jaremko-Pytowska
+- **Source translation**: From German (not directly from Dutch)
+- **Reprint**: 1960
 
-### Znaczenie tłumaczenia z niemieckiego
-Tłumaczenie z niemieckiego miało zarówno zalety, jak i wady:
-- **Zaleta**: Szybsza dostępność - niemczyzna była bardziej popularnym językiem niż holenderski
-- **Zaleta**: Wersja niemiecka była od początku bogatsza niż holenderska - zawierała fragmenty uznane za nieodpowiednie w Holandii
-- **Rezultat**: Polskie wydanie było bogatsze o kilka listów i fragmentów
+### Significance of German Translation
+The translation from German had both advantages and disadvantages:
+- **Advantage**: Faster availability - German was a more popular language than Dutch
+- **Advantage**: The German version was richer from the beginning than the Dutch - it contained fragments considered inappropriate in Holland
+- **Result**: The Polish edition was enriched with several letters and fragments
 
-## Polscy tłumacze i ich interpretacje
+## Polish Translators and Their Interpretations
 
 ### Zofia Jaremko-Pytowska (1920-2016)
-- **Pochodzenie**: Warszawa
-- **Wykształcenie**: Filologia francuska (Uniwersytet Warszawski, magisterium 1952)
-- **Kariera**: Krytyk literacki, tłumaczka, poetka i dramaturg
-- **Doświadczenie zawodowe**: 
-  - Pracownik polskiej legacji w Bernie (1945-1947)
-  - Kierownik sekcji artystyczno-kulturalnej w Dziale Prasy i Informacji MSZ
-  - Współpracownik czasopisma "Nowe Książki" (1957-67)
-- **Emigracja**: Od 1969 mieszkała za granicą (Rzym, potem USA)
-- **Specjalizacja**: Tłumaczenia z francuskiej i niemieckiej literatury
+- **Origin**: Warsaw
+- **Education**: French philology (University of Warsaw, master's degree 1952)
+- **Career**: Literary critic, translator, poet and playwright
+- **Professional experience**:
+  - Employee of the Polish legation in Bern (1945-1947)
+  - Head of the artistic-cultural section in the Press and Information Department of the Ministry of Foreign Affairs
+  - Collaborator of "Nowe Książki" magazine (1957-67)
+- **Emigration**: From 1969 she lived abroad (Rome, then USA)
+- **Specialization**: Translations from French and German literature
 
-## Kontekst edukacyjny w Polsce
+## Educational Context in Poland
 
-### Dziennik Anne Frank jako lektura szkolna
-- **Poziom edukacyjny**: Koniec szkoły podstawowej i początek gimnazjum/liceum
-- **Zastosowanie**: Głównie na lekcjach etyki w gimnazjum
-- **Potencjał edukacyjny**: 
-  - Lekcje o młodości i dojrzewaniu
-  - Refleksje nad historią i ludzką naturą
-  - Nauka empati i zrozumienia dla innych
-  - Lekcja historii Holocaustu
+### Anne Frank's Diary as School Reading
+- **Educational level**: End of primary school and beginning of middle school/high school
+- **Application**: Mainly in ethics classes in middle school
+- **Educational potential**:
+  - Lessons about youth and growing up
+  - Reflections on history and human nature
+  - Learning empathy and understanding for others
+  - Holocaust history lesson
 
-### Kategorie wydawnicze
-Książka jest klasyfikowana jako:
-- Lektura szkolna dla szkoły podstawowej
-- Lektura dla liceum i technikum
-- Literatura światowa XX wieku
+### Publishing Categories
+The book is classified as:
+- School reading for primary school
+- Reading for high school and technical school
+- 20th century world literature
 
-## Polskie adaptacje teatralne
+## Polish Theatrical Adaptations
 
-### Teatr Lalka w Warszawie (2024)
-- **Adaptacja i reżyseria**: Zbigniew Brzoza
-- **Tłumaczenie**: Alicja Oczko
-- **Scenografia**: Wojciech Żogała
-- **Kostiumy**: Paulina Araszkiewicz
-- **Maski**: Aleksandra Reda
-- **Choreografia**: Wioleta Fiuk
-- **Muzyka**: Mikołaj Trzaska
+### Lalka Theater in Warsaw (2024)
+- **Adaptation and direction**: Zbigniew Brzoza
+- **Translation**: Alicja Oczko
+- **Set design**: Wojciech Żogała
+- **Costumes**: Paulina Araszkiewicz
+- **Masks**: Aleksandra Reda
+- **Choreography**: Wioleta Fiuk
+- **Music**: Mikołaj Trzaska
 
-**Obsada**: Grzegorz Feluś, Roman Holc, Aneta Jucejko-Pałęcka, Bartosz Krawczyk, Magdalena Pamuła, Anna Porusiło-Dużyńska, Hanna Turnau, i inni.
+**Cast**: Grzegorz Feluś, Roman Holc, Aneta Jucejko-Pałęcka, Bartosz Krawczyk, Magdalena Pamuła, Anna Porusiło-Dużyńska, Hanna Turnau, and others.
 
-### Opolski Teatr Lalki i Aktora (2019)
-- **Reżyseria**: Marián Pecko
-- **Tłumaczenie**: Alicja Dehue-Oczko
-- **Premiera**: 9 lutego 2019
-- **Obsada**: Anna Wieczorek, Aleksandra Mikołajczyk, Dorota Nowak, Mariola Ordak-Świątkiewicz, Jakub Mieszała, Andrzej Mikosza
+### Opole Puppet and Actor Theater (2019)
+- **Direction**: Marián Pecko
+- **Translation**: Alicja Dehue-Oczko
+- **Premiere**: February 9, 2019
+- **Cast**: Anna Wieczorek, Aleksandra Mikołajczyk, Dorota Nowak, Mariola Ordak-Świątkiewicz, Jakub Mieszała, Andrzej Mikosza
 
-### Historyczne adaptacje
-- **Teatr Polskiego Radia**: Adaptacja radiowa (premiera 29 października 1957)
-- **Teatr Wojska Polskiego**: Spektakl w reżyserii Jana Świderskiego
+### Historical Adaptations
+- **Polish Radio Theater**: Radio adaptation (premiere October 29, 1957)
+- **Polish Army Theater**: Performance directed by Jan Świderski
 
-## Polskie wersje filmowe i dubbing
+## Polish Film Versions and Dubbing
 
-### "Gdzie jest Anne Frank" (2021)
-Film animowany Ariego Folmana został wydany w Polsce z polskim dubbingiem:
+### "Where is Anne Frank" (2021)
+Ari Folman's animated film was released in Poland with Polish dubbing:
 
-**Obsada dubbingu**:
+**Dubbing cast**:
 - **Maja Ostaszewska**
 - **Maciej Stuhr**
 - Daria Domitz
@@ -86,110 +86,110 @@ Film animowany Ariego Folmana został wydany w Polsce z polskim dubbingiem:
 - Karol Kwiatkowski
 - Katarzyna Mazur
 
-Film opisywany jako "wspaniała opowieść dla dzieci i rodziców z Mają Ostaszewską i Maciejem Stuhrem w polskiej wersji językowej".
+The film was described as "a wonderful story for children and parents with Maja Ostaszewska and Maciej Stuhr in the Polish language version".
 
-## Polscy badacze i interpretacje akademickie
+## Polish Researchers and Academic Interpretations
 
-### Współczesne badania akademickie
-**"Anne Frank i jej towarzysze. Bohaterowie Dziennika w obozach zagłady"** (2022)
-- **Autor**: Bas von Benda-Beckmann
-- **Wydawca**: Wydawnictwo Replika (Poznań)
-- **Instytucja badawcza**: NIOD Institute for War, Holocaust and Genocide Studies (Amsterdam)
-- **Patronat**: TSKŻ (Towarzystwo Społeczno-Kulturalne Żydów)
+### Contemporary Academic Research
+**"Anne Frank and Her Companions. Heroes of the Diary in Death Camps"** (2022)
+- **Author**: Bas von Benda-Beckmann
+- **Publisher**: Replika Publishing House (Poznań)
+- **Research institution**: NIOD Institute for War, Holocaust and Genocide Studies (Amsterdam)
+- **Patronage**: TSKŻ (Social-Cultural Association of Jews)
 
-### Metodologia badawcza
-Bas von Benda-Beckmann, opierając się na szczegółowych badaniach archiwalnych i dostępnych świadectwach, rekonstruuje historie ośmiu osób ukrywających się w "oficynie" po ich aresztowaniu.
+### Research Methodology
+Bas von Benda-Beckmann, based on detailed archival research and available testimonies, reconstructs the stories of eight people hiding in the "annex" after their arrest.
 
-### Polski kontekst badawczy
-Porównanie z podobnymi relacjami tworzonymi przez Dawida Sierakowiaka i Renię Spiegel, którzy żyli w okupowanej Polsce, pokazuje polskie zainteresowanie akademickie literaturą pamiętnikarską Holocaustu.
+### Polish Research Context
+Comparison with similar accounts created by Dawid Sierakowiak and Renia Spiegel, who lived in occupied Poland, shows Polish academic interest in Holocaust memoir literature.
 
-## Edukacja antydyskryminacyjna w Polsce
+## Anti-discrimination Education in Poland
 
-### Anne Frank Polska
-Organizacja pozarządowa działająca od 1993 roku:
-- **Wystawa objazdowa**: "Świat Anne Frank (1929-1944)" (od 1993)
-- **Nowa wersja**: "Anne Frank - Historia na dzień dzisiejszy" (od 1997)
-- **Strona internetowa**: annefrank.org.pl
-- **Materiały**: Aktualne informacje o tournee wystawy, metody edukacyjne, materiały dydaktyczne
+### Anne Frank Poland
+Non-governmental organization operating since 1993:
+- **Traveling exhibition**: "The World of Anne Frank (1929-1944)" (since 1993)
+- **New version**: "Anne Frank - A History for Today" (since 1997)
+- **Website**: annefrank.org.pl
+- **Materials**: Current information about exhibition tours, educational methods, teaching materials
 
-### Organizacje partnerskie
+### Partner Organizations
 
-**Dom Pokoju (Fundacja)**:
-- **Założyciel**: Edward Boudewijn Skubisz (holenderski teolog i edukator polskiego pochodzenia)
-- **Działalność**: Warsztaty w polskich szkołach i instytucjach kulturalno-oświatowych
+**House of Peace (Foundation)**:
+- **Founder**: Edward Boudewijn Skubisz (Dutch theologian and educator of Polish origin)
+- **Activity**: Workshops in Polish schools and cultural-educational institutions
 
-**Fundacja Dom Wolności (Wrocław)**:
-- **Rola**: Prezentacja wystawy objazdowej w Polsce
-- **Zasięg**: Dotarła do szkół w Bolesławcu i innych miastach
+**Freedom House Foundation (Wrocław)**:
+- **Role**: Presentation of traveling exhibition in Poland
+- **Reach**: Reached schools in Bolesławiec and other cities
 
-### Metodologia edukacyjna
-- **Przewodnicy-rówieśnicy**: Uczniowie stają się przewodnikami po wystawie dla swoich rówieśników
-- **Projekty dodatkowe**: Młodzież organizuje dodatkowe projekty, wystawy i działania w swoich szkołach
-- **Moderacja dyskusji**: Młodzi ludzie moderują dyskusje na tematy poruszane w wystawie
+### Educational Methodology
+- **Peer guides**: Students become guides through the exhibition for their peers
+- **Additional projects**: Youth organize additional projects, exhibitions and activities in their schools
+- **Discussion moderation**: Young people moderate discussions on topics raised in the exhibition
 
-## Polskie nawiązania w popkulturze
+## Polish References in Popular Culture
 
-### Adaptacja komiksowa (2017)
-Graficzna adaptacja autorstwa Ariego Folmana i Davida Polonsky'ego:
-- **Cel**: Dotarcie do młodzieży, która czyta coraz mniej literatury
-- **Grupa docelowa**: Młode pokolenie (Gen Z) preferujące multimedia
-- **Wpływ**: Odpowiedź na zagrożenie ze strony kina i prostoty komunikatów w mediach społecznościowych
+### Comic Book Adaptation (2017)
+Graphic adaptation by Ari Folman and David Polonsky:
+- **Goal**: Reaching youth who read less and less literature
+- **Target group**: Young generation (Gen Z) preferring multimedia
+- **Impact**: Response to threats from cinema and simplicity of messages in social media
 
-### Związek z Gen Z i TikTok
-- **Trend społeczny**: Młodzież coraz więcej ogląda, a coraz mniej czyta
-- **Dostępność**: Komiks jako bardziej przystępna forma dla młodego pokolenia
-- **Edukacja**: Może zastąpić tradycyjny Dziennik w klasach szkolnych
+### Connection with Gen Z and TikTok
+- **Social trend**: Youth watch more and read less
+- **Accessibility**: Comics as a more accessible form for the young generation
+- **Education**: May replace the traditional Diary in school classes
 
-### Znaczenie kulturowe
-Dziennik Anne Frank na stałe wpisał się nie tylko w historię literatury, ale w całą kulturę XX wieku. Odwołania do tekstu Frank pojawiały się nawet w produkcjach popkulturowych.
+### Cultural Significance
+Anne Frank's Diary has permanently entered not only the history of literature, but the entire culture of the 20th century. References to Frank's text appeared even in pop culture productions.
 
-## Dom Anne Frank - polscy goście
+## Anne Frank House - Polish Visitors
 
-### Statystyki odwiedzin
-- **Roczna liczba gości**: Ponad milion osób
-- **Międzynarodowy charakter**: Dziesiątki milionów ludzi z całego świata odwiedziły "oficynę"
-- **Pozycja w rankingu**: Jedno z 3 najpopularniejszych muzeów w Amsterdamie
+### Visit Statistics
+- **Annual number of guests**: Over one million people
+- **International character**: Tens of millions of people from around the world have visited the "annex"
+- **Ranking position**: One of the 3 most popular museums in Amsterdam
 
-### Programy dla polskich szkół
-- **Organizacja**: Dom Anne Frank jako organizacja pozarządowa
-- **Cele edukacyjne**: Uświadomienie zagrożeń płynących z antysemityzmu, rasizmu i dyskryminacji
-- **Wartości**: Promowanie wolności, równych praw i demokracji
+### Programs for Polish Schools
+- **Organization**: Anne Frank House as a non-governmental organization
+- **Educational goals**: Raising awareness of threats from anti-Semitism, racism and discrimination
+- **Values**: Promoting freedom, equal rights and democracy
 
-### Praktyczne informacje
-- **Zalecenia**: Wcześniejsza rezerwacja biletów
-- **Kolejki**: W sezonie letnim czas oczekiwania do 2 godzin
-- **Optimum**: Kolejki zmniejszają się po godzinie 18:00
+### Practical Information
+- **Recommendations**: Early ticket booking
+- **Queues**: In summer season waiting time up to 2 hours
+- **Optimum**: Queues decrease after 6:00 PM
 
-## Wystawy objazdowe w Polsce
+## Traveling Exhibitions in Poland
 
-### "Anne Frank - Historia na dzień dzisiejszy"
-- **Historia**: Krąży po świecie od ponad 40 lat
-- **Zasięg**: Ponad 10 milionów osób z ponad 30 krajów
-- **Status**: Jedna z najlepiej znanych wystaw edukacyjnych o Holocauście
+### "Anne Frank - A History for Today"
+- **History**: Has been traveling around the world for over 40 years
+- **Reach**: Over 10 million people from over 30 countries
+- **Status**: One of the best-known educational exhibitions about the Holocaust
 
-### Lokalizacje w Polsce
-Wystawa gościła m.in. w:
-- **Wrocław** (prezentowana przez Fundację Dom Wolności)
-- **Łódź** (Centrum Dialogu)
-- **Bolesławiec** (wielokrotnie w lokalnych szkołach)
+### Locations in Poland
+The exhibition was hosted in:
+- **Wrocław** (presented by Freedom House Foundation)
+- **Łódź** (Dialogue Center)
+- **Bolesławiec** (multiple times in local schools)
 - **Myślenice** (CKZIU)
 - **Lublin** (UMCS)
 
-### Cele edukacyjne
-- Zachęcenie do refleksji nad wartościami: tolerancja, szacunek dla różnorodności kulturowej
-- Prawa człowieka i demokracja w Polsce i współczesnym świecie
-- Zagrożenia wojny i przemocy
-- Przeciwdziałanie wykluczeniu społecznemu
+### Educational Goals
+- Encouraging reflection on values: tolerance, respect for cultural diversity
+- Human rights and democracy in Poland and the contemporary world
+- Threats of war and violence
+- Preventing social exclusion
 
-## Wnioski
+## Conclusions
 
-Dziennik Anne Frank zajmuje wyjątkowe miejsce w polskiej kulturze jako:
+The Diary of Anne Frank occupies a unique place in Polish culture as:
 
-1. **Dzieło literackie**: Jeden z najważniejszych świadectw Holocaustu, wpisany na listę UNESCO
-2. **Narzędzie edukacyjne**: Wykorzystywane w polskich szkołach do nauki o Holocauście, prawach człowieka i przeciwdziałaniu dyskryminacji
-3. **Fenomen teatralny**: Regularnie adaptowane przez polskie teatry, szczególnie teatry lalkowe
-4. **Przedmiot badań akademickich**: Analizowane przez polskich badaczy w kontekście literatury Holocaustu
-5. **Symbol antydyskryminacji**: Podstawa działalności edukacyjnej organizacji pozarządowych w Polsce
-6. **Most międzypokoleniowy**: Adaptowane w formie komiksu dla dotarcia do Gen Z
+1. **Literary work**: One of the most important testimonies of the Holocaust, inscribed on the UNESCO list
+2. **Educational tool**: Used in Polish schools to teach about the Holocaust, human rights and preventing discrimination
+3. **Theatrical phenomenon**: Regularly adapted by Polish theaters, especially puppet theaters
+4. **Subject of academic research**: Analyzed by Polish researchers in the context of Holocaust literature
+5. **Symbol of anti-discrimination**: Foundation of educational activities of non-governmental organizations in Poland
+6. **Intergenerational bridge**: Adapted in comic form to reach Gen Z
 
-Dziennik Anne Frank w Polsce to nie tylko książka, ale całościowy fenomen kulturowy i edukacyjny, który łączy historyczną pamięć z współczesną edukacją o prawach człowieka i tolerancji.
+The Diary of Anne Frank in Poland is not just a book, but a comprehensive cultural and educational phenomenon that connects historical memory with contemporary education about human rights and tolerance.

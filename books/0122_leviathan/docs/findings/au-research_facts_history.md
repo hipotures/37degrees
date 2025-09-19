@@ -1,127 +1,127 @@
-# Fakty Historyczne i Anegdoty: "Lewiatan" Thomasa Hobbesa (1651)
+# Historical Facts and Anecdotes: "Leviathan" by Thomas Hobbes (1651)
 
-## Okoliczności Powstania Książki
+## Circumstances of Book Creation
 
-**FAKT**: Hobbes napisał "Lewiatana" podczas 11-letniego wygnania w Paryżu (1640-1651), uciekając z Anglii gdy przewidział nadchodzącą wojnę domową przeciwko królowi Karolowi I.
+**FACT**: Hobbes wrote "Leviathan" during his 11-year exile in Paris (1640-1651), fleeing England when he foresaw the coming civil war against King Charles I.
 
-**FAKT**: Książka została ukończona w 1650 roku, po tym jak Hobbes w 1647 roku przeszedł niemal śmiertelną chorobę, która go wyłączyła z pracy na 6 miesięcy.
+**FACT**: The book was completed in 1650, after Hobbes in 1647 suffered a near-fatal illness that incapacitated him from work for 6 months.
 
-**FAKT**: "Lewiatan" był napisany jako bezpośrednia odpowiedź na strach, jaki Hobbes odczuwał podczas politycznej zawieruchy angielskich wojen domowych (1642-1651).
+**FACT**: "Leviathan" was written as a direct response to the fear Hobbes felt during the political turmoil of the English Civil Wars (1642-1651).
 
-**FAKT**: Hobbes pracował nad książką w kręgu intelektualnym francuskiego zakonnika Marina Mersenne'a, wraz z takimi myślicielami jak René Descartes i Pierre Gassendi.
+**FACT**: Hobbes worked on the book within the intellectual circle of French monk Marin Mersenne, alongside thinkers like René Descartes and Pierre Gassendi.
 
-**FAKT**: Przez krótki okres podczas pisania książki, Hobbes służył jako tutor matematyki dla księcia Karola (przyszłego króla Karola II).
+**FACT**: For a brief period while writing the book, Hobbes served as mathematics tutor to Prince Charles (future King Charles II).
 
-## Inspiracje i Wpływy
+## Inspirations and Influences
 
-**FAKT**: Tytuł "Lewiatan" pochodzi z Księgi Hioba w Biblii (41:24) - "Non est potestas Super Terram quae Comparetur ei" ("Nie ma na ziemi mocy, która by się z nim równała").
+**FACT**: The title "Leviathan" comes from the Book of Job in the Bible (41:24) - "Non est potestas Super Terram quae Comparetur ei" ("There is no power on earth to be compared to him").
 
-**FAKT**: Hobbes przekształcił biblijnego Lewiatana z symbolu Bożej mocy i nieposkromionego chaosu w metaforę ostatecznej ziemskiej władzy suwerennej.
+**FACT**: Hobbes transformed the biblical Leviathan from a symbol of God's power and untamed chaos into a metaphor for ultimate earthly sovereign authority.
 
-**FAKT**: Słynny frontispis księgi został stworzony przez paryskiego rytownika Abrahama Bosse'a w stylu géometrique, po długich dyskusjach z Hobbesem.
+**FACT**: The famous frontispiece of the book was created by Parisian engraver Abraham Bosse in the géometrique style, after lengthy discussions with Hobbes.
 
-**FAKT**: Hobbes został nazywany "Potworem z Malmesbury" i "Straszydłem Narodu" z powodu kontrowersyjnych poglądów w "Lewiatanie".
+**FACT**: Hobbes was called the "Monster of Malmesbury" and "Bugbear of the Nation" because of the controversial views in "Leviathan".
 
-**FAKT**: Inspiracją dla pracy była również znajomość Hobbesa z Galileuszem Galilei, którego odwiedził we Florencji w 1636 roku, gdy ten był w areszcie domowym.
+**FACT**: An inspiration for the work was also Hobbes' acquaintance with Galileo Galilei, whom he visited in Florence in 1636 when Galileo was under house arrest.
 
-## Biografia Autora w Kontekście Książki
+## Author Biography in Book Context
 
-**FAKT**: Thomas Hobbes urodził się przedwcześnie 5 kwietnia 1588 roku w Malmesbury, gdy jego matka usłyszała o nadciągającej Wielkiej Armadzie Hiszpańskiej. Później pisał: "moja matka urodziła bliźnięta: mnie i strach".
+**FACT**: Thomas Hobbes was born prematurely on April 5, 1588, in Malmesbury, when his mother heard of the approaching Spanish Armada. He later wrote: "my mother gave birth to twins: myself and fear".
 
-**FAKT**: W wieku 7 lat ojciec Hobbesa uciekł po bójce z innym wikariuszem pod drzwiami kościoła, pozostawiając go pod opieką bogatego wuja Francisa.
+**FACT**: At age 7, Hobbes' father fled after a fight with another vicar at the church doors, leaving him in the care of his wealthy uncle Francis.
 
-**FAKT**: Hobbes przed pójściem na Oxford przetłumaczył "Medeę" Eurypidesa z greki na łacinę wierszem, będąc utalentowanym językowo już w młodości.
+**FACT**: Before going to Oxford, Hobbes translated Euripides' "Medea" from Greek to Latin verse, showing linguistic talent from youth.
 
-**FAKT**: Slavną anegdotą jest spotkanie Hobbesa z geometrią w wieku 40 lat - zobaczył otwarte "Elementy" Euklidesa w bibliotece dżentelmena, przeczytał 47. twierdzenie i wykrzyknął: "Na Boga, to niemożliwe!", co rozpoczęło jego fascynację matematyką.
+**FACT**: A famous anecdote is Hobbes' encounter with geometry at age 40 - he saw Euclid's "Elements" open in a gentleman's library, read the 47th theorem and exclaimed: "By God, this is impossible!", which began his fascination with mathematics.
 
-**FAKT**: Pomimo miłości do matematyki, Hobbes był nieudolny w tej dziedzinie i wielokrotnie nieudacznie próbował "kwadraturę koła" - stąd to wyrażenie stało się przysłowiem na problem nierozwiązywalny.
+**FACT**: Despite his love of mathematics, Hobbes was inept in this field and repeatedly failed at "squaring the circle" - hence this expression became a proverb for an unsolvable problem.
 
-## Proces Twórczy
+## Creative Process
 
-**FAKT**: Hobbes pisał "Lewiatana" w atmosferze strachu - jako zwolennik króla obawiał się prześladowań ze strony parlamentarzystów.
+**FACT**: Hobbes wrote "Leviathan" in an atmosphere of fear - as a royalist supporter, he feared persecution from parliamentarians.
 
-**FAKT**: Książka została ukończona podczas pobytu Hobbesa w pobliżu Paryża, gdzie pozostawał w kontakcie z innymi rojalistami na wygnaniu.
+**FACT**: The book was completed during Hobbes' stay near Paris, where he remained in contact with other royalists in exile.
 
-**FAKT**: Hobbes przez całe swoje dorosłe życie pracował dla różnych gałęzi bogatej i arystokratycznej rodziny Cavendish, co dało mu stabilność finansową do pisania.
+**FACT**: Hobbes worked throughout his adult life for various branches of the wealthy and aristocratic Cavendish family, which gave him financial stability for writing.
 
-**FAKT**: W 1647 roku Hobbes zgodził się przyjąć sakramenty na tym, co uważał za swoje łoże śmierci podczas ciężkiej choroby, ale wyzdrowiał i dokończył dzieło.
+**FACT**: In 1647, Hobbes agreed to receive sacraments on what he considered his deathbed during severe illness, but recovered and finished the work.
 
-## Historia Publikacji
+## Publication History
 
-**FAKT**: "Lewiatan" został opublikowany w 1651 roku przez Andrew Crooke'a w Londynie, w drukarni Thomasa Warrena i Richarda Cotesa przy Green Dragon w St Paul's Churchyard.
+**FACT**: "Leviathan" was published in 1651 by Andrew Crooke in London, at the printing house of Thomas Warren and Richard Cotes at Green Dragon in St Paul's Churchyard.
 
-**FAKT**: Istnieją trzy pierwsze wydania z 1651 roku, znane jako wydanie "Head", "Bear" i "Ornaments", nazwane od dekoracji na stronach tytułowych.
+**FACT**: There are three first editions from 1651, known as the "Head", "Bear" and "Ornaments" editions, named after decorations on the title pages.
 
-**FAKT**: Wydanie "Bear" zostało prawdopodobnie wydrukowane nielegalnie w Amsterdamie, co wskazuje na ornamenty używane w Holandii między 1617-1670.
+**FACT**: The "Bear" edition was probably printed illegally in Amsterdam, as indicated by ornaments used in Holland between 1617-1670.
 
-**FAKT**: Natychmiast po publikacji książka wywołała skandal - Kościół Katolicki umieścił "Lewiatana" na Indeksie Ksiąg Zakazanych.
+**FACT**: Immediately after publication, the book caused scandal - the Catholic Church placed "Leviathan" on the Index of Forbidden Books.
 
-**FAKT**: Oxford zwolnił wykładowców sympatyzujących z argumentami Hobbesa, a w 1666 roku książki Hobbesa zostały spalone na dziedzińcu Oxford.
+**FACT**: Oxford dismissed lecturers sympathizing with Hobbes' arguments, and in 1666 Hobbes' books were burned in the Oxford courtyard.
 
-## Pierwsze Reakcje
+## First Reactions
 
-**FAKT**: Publikacja "Lewiatana" zerwała więzi Hobbesa z rojalistami na wygnaniu, którzy mogli go zabić za sekularystycznego ducha książki.
+**FACT**: The publication of "Leviathan" severed Hobbes' ties with royalists in exile, who might have killed him for the book's secularist spirit.
 
-**FAKT**: Książka tak rozgniewała anglikanów i francuskich katolików, że Hobbes zmuszony był uciekać z Paryża z powrotem do Londynu zimą 1651 roku.
+**FACT**: The book so angered Anglicans and French Catholics that Hobbes was forced to flee Paris back to London in winter 1651.
 
-**FAKT**: Mimo zakazu, książka cieszyła się ogromną popularnością - po pierwszym wydaniu z 1651 roku dalsze drukowanie w języku angielskim było zabronione.
+**FACT**: Despite the ban, the book enjoyed enormous popularity - after the first 1651 edition, further printing in English was prohibited.
 
-**FAKT**: Krytycy natychmiast rozpoczęli publikowanie zjadliwych ataków na argumenty Hobbesa, co zapoczątkowało "polowanie na Lewiatana" w XVII wieku.
+**FACT**: Critics immediately began publishing scathing attacks on Hobbes' arguments, initiating the "Leviathan hunt" in the 17th century.
 
-## Ukryte Fakty i Ciekawostki
+## Hidden Facts and Curiosities
 
-**FAKT**: Holenderskie tłumaczenie z około 1667 roku było prawdopodobnie czytane przez Spinozę, który nie znał angielskiego - tłumacz Abraham van Berkel był współpracownikiem Spinozy.
+**FACT**: The Dutch translation from around 1667 was probably read by Spinoza, who didn't know English - translator Abraham van Berkel was Spinoza's collaborator.
 
-**FAKT**: Rząd holenderski stłumił holenderskie wydanie w 1674 roku, a tłumacz musiał się ukrywać.
+**FACT**: The Dutch government suppressed the Dutch edition in 1674, and the translator had to go into hiding.
 
-**FAKT**: Hobbes był bardzo przestraszony oskarżeniami o herezję - spalił niektóre swoje papiery, które mogły przysporzić kłopotów.
+**FACT**: Hobbes was very frightened by accusations of heresy - he burned some of his papers that could cause trouble.
 
-**FAKT**: Król Karol II, były uczeń matematyki Hobbesa, przyznał mu później pensję w wysokości 100 funtów i chronił go w 1666 roku, gdy Izba Gmin wprowadziła ustawę przeciwko ateizmowi.
+**FACT**: King Charles II, Hobbes' former mathematics student, later granted him a pension of 100 pounds and protected him in 1666 when the House of Commons introduced a bill against atheism.
 
-**PLOTKA**: Pożar w Oksfordzie w 1666 roku przy spalaniu książek Hobbesa był nawet obwiniany w Parlamencie za wywołanie Wielkiego Pożaru Londynu.
+**RUMOR**: The Oxford fire in 1666 during the burning of Hobbes' books was even blamed in Parliament for causing the Great Fire of London.
 
-## Statystyki i Rekordy
+## Statistics and Records
 
-**FAKT**: Wydanie "Opera Omnia" Hobbesa z 1668 roku, drukowane w Amsterdamie, było "wielkim sukcesem sprzedażowym".
+**FACT**: Hobbes' "Opera Omnia" edition from 1668, printed in Amsterdam, was a "great commercial success".
 
-**FAKT**: Po 1662 roku, z powodu ustawy licencyjnej wymagającej wcześniejszego zatwierdzenia przez władze religijne, Hobbes został całkowicie wykluczony z publikowania swoich prac politycznych w Anglii.
+**FACT**: After 1662, due to the licensing act requiring prior approval by religious authorities, Hobbes was completely excluded from publishing his political works in England.
 
-**FAKT**: Pierwsze tłumaczenie "Lewiatana" na język holenderski ukazało się już około 1667 roku, zaledwie 16 lat po oryginale.
+**FACT**: The first translation of "Leviathan" into Dutch appeared around 1667, just 16 years after the original.
 
-**FAKT**: "Lewiatan" składa się z 4 części i 47 rozdziałów, zawierając około 150,000 słów.
+**FACT**: "Leviathan" consists of 4 parts and 47 chapters, containing approximately 150,000 words.
 
-**FAKT**: Łacińskie wydanie z 1668 roku zawierało 378-stronicową końcową sekcję z tłumaczeniem "Lewiatana".
+**FACT**: The Latin edition from 1668 contained a 378-page final section with translation of "Leviathan".
 
-## Wpływ na Kulturę i Społeczeństwo
+## Impact on Culture and Society
 
-**FAKT**: "Lewiatan" jest uważany za jeden z najwcześniejszych i najważniejszych przykładów teorii umowy społecznej.
+**FACT**: "Leviathan" is considered one of the earliest and most important examples of social contract theory.
 
-**FAKT**: Dzieło wpłynęło na słynnych następców, w tym Johna Locke'a (1632-1704), Jean-Jacques'a Rousseau (1712-78) i Immanuela Kanta (1724-1804).
+**FACT**: The work influenced famous successors, including John Locke (1632-1704), Jean-Jacques Rousseau (1712-78) and Immanuel Kant (1724-1804).
 
-**FAKT**: Filozofia Hobbesa była bardzo wpływowa w określonych sektorach - hobbesizm był modną pozycją intelektualną aż do XVIII wieku.
+**FACT**: Hobbes' philosophy was very influential in certain sectors - Hobbesianism was a fashionable intellectual position until the 18th century.
 
-**FAKT**: Nawet krytycy Hobbesa byli zmuszani do racjonalnego wyzwania jego argumentów i wielu z nich kończyło ustępując gruntu, często nieświadomie.
+**FACT**: Even Hobbes' critics were forced to rationally challenge his arguments and many ended up conceding ground, often unconsciously.
 
-## Szczegóły Techniczne
+## Technical Details
 
-**FAKT**: Pełny tytuł oryginalnej książki to "Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil".
+**FACT**: The full title of the original book is "Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil".
 
-**FAKT**: Frontispis przedstawia gigantyczną koronowaną postać wynurzającą się z krajobrazu, trzymającą miecz i berło, złożoną z małych ludzkich figur.
+**FACT**: The frontispiece depicts a giant crowned figure emerging from landscape, holding sword and scepter, composed of small human figures.
 
-**FAKT**: Hobbes nazywał państwo "sztucznym człowiekiem", a Lewiatana "wielkim LEWIATAŃEM zwanym RZECZYPOSPOLITĄ lub PAŃSTWEM".
+**FACT**: Hobbes called the state an "artificial man", and Leviathan the "great LEVIATHAN called a COMMONWEALTH or STATE".
 
-**FAKT**: Książka została ukończona przez Hobbesa, gdy miał już 62 lata, po dziesięcioleciach rozwoju swojej filozofii politycznej.
+**FACT**: The book was completed by Hobbes when he was already 62 years old, after decades of developing his political philosophy.
 
-## Słynne Cytaty i Ich Kontekst
+## Famous Quotes and Their Context
 
-**FAKT**: Najsłynniejszy cytat z "Lewiatana" - "samotne, biedne, obrzydliwe, brutalne i krótkie" - opisuje życie w stanie natury.
+**FACT**: The most famous quote from "Leviathan" - "solitary, poor, nasty, brutish and short" - describes life in the state of nature.
 
-**FAKT**: Inny słynny cytat: "Przymierza bez miecza to tylko słowa i nie mają siły zabezpieczenia człowieka" - podkreśla potrzebę siły do egzekwowania umów.
+**FACT**: Another famous quote: "Covenants without the sword are but words and of no strength to secure a man at all" - emphasizes the need for force to enforce agreements.
 
-**FAKT**: "Słowa to żetony mędrców; liczą się tylko nimi; ale są pieniądzem głupców" - odzwierciedla sceptycyzm Hobbesa wobec języka abstrakcyjnego.
+**FACT**: "Words are wise men's counters, they do but reckon by them; but they are the money of fools" - reflects Hobbes' skepticism toward abstract language.
 
-**FAKT**: Epigraf na frontispisie z Księgi Hioba był kluczowy dla zrozumienia metafory Hobbesa - Lewiatan jako nieposkromiona moc ziemska.
+**FACT**: The epigraph on the frontispiece from the Book of Job was key to understanding Hobbes' metaphor - Leviathan as untamed earthly power.
 
 ---
 
-*Dokument zawiera 47 faktów i 1 plotkę o powstaniu "Lewiatana" Thomasa Hobbesa, zebranych z wiarygodnych źródeł historycznych i biograficznych.*
+*Document contains 47 facts and 1 rumor about the creation of Thomas Hobbes' "Leviathan", gathered from reliable historical and biographical sources.*

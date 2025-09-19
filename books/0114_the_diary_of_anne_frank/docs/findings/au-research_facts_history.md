@@ -1,139 +1,139 @@
-# Fascynująca historia powstania "Dziennika Anne Frank"
+# The Fascinating History of "The Diary of Anne Frank"
 
-## Geneza i okoliczności powstania
+## Genesis and Circumstances of Creation
 
-**FAKT 1**: Anne Frank otrzymała swój słynny dziennik w prezencie urodzinowym 12 czerwca 1942 roku, w swoje 13. urodziny. To był czerwono-biały w kratkę pamiętnik z małą kłódką na przodzie.
+**FACT 1**: Anne Frank received her famous diary as a birthday gift on June 12, 1942, for her 13th birthday. It was a red and white checkered diary with a small lock on the front.
 
-**FAKT 2**: Anne sama wybrała sobie ten dziennik w księgarni dzień wcześniej, przeglądając ofertę razem z ojcem. Nie był to więc niespodzianka - był to prezent, którego naprawdę chciała.
+**FACT 2**: Anne herself chose this diary at a bookstore the day before, browsing the selection together with her father. It wasn't a surprise - it was a gift she really wanted.
 
-**FAKT 3**: Pierwszego dnia Anne napisała tylko jedno zdanie: "Mam nadzieję, że będę mogła powierzyć ci wszystko, czego nigdy nie mogłam nikomu powierzyć, i mam nadzieję, że będziesz dla mnie wielkim źródłem pocieszenia i wsparcia."
+**FACT 3**: On the first day, Anne wrote only one sentence: "I hope I will be able to confide everything to you, as I have never been able to confide in anyone, and I hope you will be a great source of comfort and support."
 
-**FAKT 4**: Anne rozpoczęła pisanie właściwie dopiero 14 czerwca 1942 roku - dwa dni po urodzinach. Ostatni wpis datowany jest na 1 sierpnia 1944 roku.
+**FACT 4**: Anne actually began writing properly only on June 14, 1942 - two days after her birthday. The last entry is dated August 1, 1944.
 
-**FAKT 5**: Rodzina Frank ukryła się w tajnej kryjówce 6 lipca 1942 roku, zaledwie 24 dni po otrzymaniu dziennika. Anne zabrała go ze sobą jako jeden z pierwszych przedmiotów.
+**FACT 5**: The Frank family went into hiding in the secret annex on July 6, 1942, just 24 days after receiving the diary. Anne took it with her as one of the first items.
 
-## "Kitty" - imaginaryjny przyjaciel
+## "Kitty" - The Imaginary Friend
 
-**FAKT 6**: Anne nazwała swój dziennik "Kitty" i pisała do niego jak do najlepszej przyjaciółki. Prawie wszystkie wpisy zaczynały się od "Droga Kitty".
+**FACT 6**: Anne named her diary "Kitty" and wrote to it like her best friend. Almost all entries began with "Dear Kitty."
 
-**FAKT 7**: Imię "Kitty" pochodziło z serii książek holenderskiej autorki Cissy van Marxveldt o Joop ter Heul. Anne opisała Kitty jako "wesołą, pogodną i zabawną".
+**FACT 7**: The name "Kitty" came from a series of books by Dutch author Cissy van Marxveldt about Joop ter Heul. Anne described Kitty as "cheerful, bright and funny."
 
-**FAKT 8**: Anne stworzyła również innych fikcyjnych przyjaciół: Pop, Phien, Conny, Lou, Marjan, Jettje i Emmy. Chciała "korespondować z kimś", więc wymyśliła te postacie.
+**FACT 8**: Anne also created other fictional friends: Pop, Phien, Conny, Lou, Marjan, Jettje and Emmy. She wanted to "correspond with someone," so she invented these characters.
 
-**FAKT 9**: W pierwszym półroczu w kryjówce Anne pisała głównie do innych wyimaginowanych przyjaciół. Dopiero później skupiła się wyłącznie na "Kitty".
+**FACT 9**: In the first six months in hiding, Anne wrote mainly to other imaginary friends. Only later did she focus exclusively on "Kitty."
 
-## Proces twórczy i rozwój literacki
+## Creative Process and Literary Development
 
-**FAKT 10**: Anne początkowo pisała w trzech językach - głównie po holendersku, ale czasami używała niemieckich lub angielskich słów.
+**FACT 10**: Anne initially wrote in three languages - mainly Dutch, but sometimes used German or English words.
 
-**FAKT 11**: Dziennik składał się z trzech głównych tomów: pierwszego (czerwono-biały w kratkę) obejmującego okres od 14 czerwca do 5 grudnia 1942 roku, drugiego od 22 grudnia 1943 do 17 kwietnia 1944, i trzeciego od 17 kwietnia do 1 sierpnia 1944.
+**FACT 11**: The diary consisted of three main volumes: the first (red and white checkered) covering the period from June 14 to December 5, 1942, the second from December 22, 1943 to April 17, 1944, and the third from April 17 to August 1, 1944.
 
-**FAKT 12**: 28 marca 1944 roku Anne usłyszała w radiu przemówienie holenderskiego ministra Gerrita Bolkesteina z Londynu, który wzywał Holendrów do prowadzenia dzienników dokumentujących życie pod okupacją niemiecką.
+**FACT 12**: On March 28, 1944, Anne heard on the radio a speech by Dutch Minister Gerrit Bolkestein from London, who called on the Dutch to keep diaries documenting life under German occupation.
 
-**FAKT 13**: Ta audycja radiowa zainspirowała Anne do rozpoczęcia przepisywania i edytowania swojego dziennika z myślą o publikacji po wojnie pod tytułem "Het Achterhuis" (Tajny aneks).
+**FACT 13**: This radio broadcast inspired Anne to begin rewriting and editing her diary with publication in mind after the war under the title "Het Achterhuis" (The Secret Annex).
 
-**FAKT 14**: Od 20 maja 1944 do aresztowania 4 sierpnia 1944 roku Anne intensywnie przepisywała swój dziennik na luźne kartki, rewidując prawie dwie trzecie swoich wcześniejszych wpisów.
+**FACT 14**: From May 20, 1944 until the arrest on August 4, 1944, Anne intensively rewrote her diary on loose sheets, revising almost two-thirds of her earlier entries.
 
-**FAKT 15**: W ciągu tych zaledwie 3 miesięcy 15-letnia Anne napisała około 50 000 słów na ponad 215 arkuszach papieru - to znaczy około 600 słów dziennie.
+**FACT 15**: In just these 3 months, 15-year-old Anne wrote about 50,000 words on over 215 sheets of paper - that's about 600 words per day.
 
-**FAKT 16**: Anne krytycznie oceniała swoje wcześniejsze pisanie. 15-letnia Anne bardzo surowo spojrzała na teksty napisane przez 13-letnią Anne, szczególnie dokładnie przerabiając pierwsze sześć miesięcy ukrywania.
+**FACT 16**: Anne critically evaluated her earlier writing. The 15-year-old Anne looked very harshly at texts written by 13-year-old Anne, particularly thoroughly reworking the first six months of hiding.
 
-## Warunki pisania w kryjówce
+## Writing Conditions in the Secret Annex
 
-**FAKT 17**: Kryjówka mieściła się w budynku przy Prinsengracht 263 w Amsterdamie, za ruchomym regałem na książki, który ukrywał wejście do tajnych pomieszczeń.
+**FACT 17**: The hiding place was located in the building at Prinsengracht 263 in Amsterdam, behind a movable bookcase that concealed the entrance to the secret rooms.
 
-**FAKT 18**: Osiem osób musiało zachowywać absolutną ciszę podczas godzin pracy pracowników magazynu na dole, którzy nic nie wiedzieli o istnieniu tajnej kryjówki.
+**FACT 18**: Eight people had to maintain absolute silence during the working hours of warehouse employees below, who knew nothing about the existence of the secret annex.
 
-**FAKT 19**: Anne pisała często wieczorami przy świetle świecy lub małej lampki, musiała być bardzo cicha, aby nie wzbudzić podejrzeń.
+**FACT 19**: Anne often wrote in the evenings by candlelight or a small lamp, having to be very quiet so as not to arouse suspicion.
 
-**FAKT 20**: Pisanie pomagało Anne przetrwać psychicznie trudne warunki. Napisała: "Najpiękniejsze jest to, że mogę zapisywać wszystkie swoje myśli i uczucia; inaczej absolutnie bym się udusiła."
+**FACT 20**: Writing helped Anne survive psychologically difficult conditions. She wrote: "The nicest part is being able to write down all my thoughts and feelings; otherwise, I'd absolutely suffocate."
 
-## Dramaty odkrycia i ocalenia
+## Discovery and Rescue Drama
 
-**FAKT 21**: 4 sierpnia 1944 roku o godzinie 10:30 rano tajną kryjówkę odkryli SS-Hauptscharführer Karl Josef Silberbauer i holenderscy policjanci.
+**FACT 21**: On August 4, 1944 at 10:30 AM, the secret annex was discovered by SS-Hauptscharführer Karl Josef Silberbauer and Dutch police officers.
 
-**FAKT 22**: Podczas aresztowania Silberbauer wziął teczką Otto Franka, która zawierała papiery dziennika Anne, i wysypał je na podłogę, żeby włożyć tam kosztowności.
+**FACT 22**: During the arrest, Silberbauer took Otto Frank's briefcase, which contained Anne's diary papers, and dumped them on the floor to put valuables inside.
 
-**FAKT 23**: Po aresztowaniu pomocniczki Miep Gies i Bep Voskuijl weszły do tajnej kryjówki i znalazły papiery dziennika rozrzucone po drewnianej podłodze.
+**FACT 23**: After the arrest, helpers Miep Gies and Bep Voskuijl entered the secret annex and found the diary papers scattered on the wooden floor.
 
-**FAKT 24**: Miep Gies schowała wszystkie papiery w szufladzie swojego biurka, obiecując sobie "zachować wszystko bezpiecznie dla Anne, aż wróci".
+**FACT 24**: Miep Gies hid all the papers in her office desk drawer, promising herself to "keep everything safe for Anne until she returns."
 
-**FAKT 25**: Miep nie przeczytała dziennika przed oddaniem go Otto Frankowi. Później przyznała, że gdyby to zrobiła, musiałaby go zniszczyć, ponieważ zawierał nazwiska wszystkich pięciu pomocników oraz dostawców z czarnego rynku.
+**FACT 25**: Miep did not read the diary before giving it to Otto Frank. She later admitted that if she had, she would have had to destroy it because it contained the names of all five helpers and black market suppliers.
 
-## Historia publikacji i odrzucenia
+## Publication History and Rejections
 
-**FAKT 26**: Otto Frank był jedyną osobą z ośmiu ukrywających się, która przeżyła wojnę. Gdy w lipcu 1945 roku dowiedział się o śmierci Anne w Bergen-Belsen, Miep oddała mu papiery słowami: "Oto... dziedzictwo Anne dla ciebie."
+**FACT 26**: Otto Frank was the only person of the eight in hiding who survived the war. When he learned of Anne's death in Bergen-Belsen in July 1945, Miep gave him the papers saying: "Here is... Anne's legacy for you."
 
-**FAKT 27**: Większość wydawców początkowo odrzucała dziennik, nie wierząc, że tekst może zainteresować szeroką publiczność tak krótko po wojnie.
+**FACT 27**: Most publishers initially rejected the diary, not believing that the text could interest a wide audience so soon after the war.
 
-**FAKT 28**: Historycy Jan i Annie Romein pomogli Otto Frankowi znaleźć wydawcę. Jan napisał krótką kolumnę zatytułowaną "Głos dziecka" w holenderskiej gazecie "Het Parool".
+**FACT 28**: Historians Jan and Annie Romein helped Otto Frank find a publisher. Jan wrote a short column titled "A Child's Voice" in the Dutch newspaper "Het Parool."
 
-**FAKT 29**: Dziennik został opublikowany 25 czerwca 1947 roku pod tytułem "Het Achterhuis" (Tajny aneks) - tytuł wybrany przez samą Anne.
+**FACT 29**: The diary was published on June 25, 1947 under the title "Het Achterhuis" (The Secret Annex) - a title chosen by Anne herself.
 
-**FAKT 30**: Pierwszy nakład wynosił 3036 egzemplarzy i został szybko wyprzedany. Drugi nakład (6830 egzemplarzy) ukazał się w grudniu 1947, a trzeci (10 500) w lutym 1948.
+**FACT 30**: The first print run was 3,036 copies and quickly sold out. The second print run (6,830 copies) appeared in December 1947, and the third (10,500) in February 1948.
 
-## Odrzucenia w USA i przełom
+## US Rejections and Breakthrough
 
-**FAKT 31**: W USA dziennik został odrzucony przez 10 wydawców, zanim Doubleday zdecydowało się go wydać.
+**FACT 31**: In the US, the diary was rejected by 10 publishers before Doubleday decided to publish it.
 
-**FAKT 32**: Szczególnie bolesne było odrzucenie przez Alfred Knopf, którego recenzent opisał rękopis jako "dziecinny" i "bardzo nudny", nazywając go "ponurym zapisem typowych rodzinnych kłótni, drobnych irytacji i nastoletnich emocji".
+**FACT 32**: Particularly painful was the rejection by Alfred Knopf, whose reviewer described the manuscript as "childish" and "very boring," calling it "a dreary record of typical family bickering, petty annoyances and adolescent emotions."
 
-**FAKT 33**: Przełomem było odkrycie francuskiego wydania przez edytorkę Judith Jones w stosie odrzuconych rękopisów. Jones czytała dziennik cały dzień i przekonała szefa: "Musimy opublikować tę książkę."
+**FACT 33**: The breakthrough came when editor Judith Jones discovered the French edition in a pile of rejected manuscripts. Jones read the diary all day and convinced her boss: "We have to publish this book."
 
-**FAKT 34**: Amerykańskie wydanie z 1952 roku miało skromny nakład 5000 egzemplarzy. Doubleday nie miało wielkich oczekiwań i prawie nie wydało pieniędzy na reklamę.
+**FACT 34**: The 1952 American edition had a modest print run of 5,000 copies. Doubleday had low expectations and spent almost no money on advertising.
 
-**FAKT 35**: Sprzedaż w USA ruszyła po entuzjastycznej recenzji Meyera Levina w "The New York Times Book Review" z 15 czerwca 1952 roku.
+**FACT 35**: Sales in the US took off after an enthusiastic review by Meyer Levin in "The New York Times Book Review" on June 15, 1952.
 
-## Rekordy i statystyki światowe
+## World Records and Statistics
 
-**FAKT 36**: Dziennik Anne Frank jest najlepiej sprzedającym się dziennikiem w historii według Księgi Rekordów Guinnessa.
+**FACT 36**: Anne Frank's diary is the best-selling diary in history according to the Guinness Book of Records.
 
-**FAKT 37**: Do 2019 roku sprzedano ponad 35 milionów egzemplarzy w 75+ językach, co czyni go jedną z najczęściej tłumaczonych książek na świecie.
+**FACT 37**: By 2019, over 35 million copies had been sold in 75+ languages, making it one of the most translated books in the world.
 
-**FAKT 38**: Dziennik jest najchętniej tłumaczoną holenderską książką w historii.
+**FACT 38**: The diary is the most translated Dutch book in history.
 
-**FAKT 39**: Często nazywany jest "najczęściej czytaną książką na świecie po Biblii".
+**FACT 39**: It is often called "the most widely read book in the world after the Bible."
 
-## Kontrowersje autorskie i prawne
+## Authorship Controversies and Legal Issues
 
-**FAKT 40**: W 2015 roku decyzja o dodaniu Otto Franka jako współautora w celu przedłużenia praw autorskich do 2050 roku (zamiast 2016) wywołała ogromną kontrowersję.
+**FACT 40**: In 2015, the decision to add Otto Frank as co-author to extend copyright to 2050 (instead of 2016) caused enormous controversy.
 
-**FAKT 41**: Dom Anne Frank sprzeciwił się temu, argumentując, że "Otto Frank ani żadna inna osoba nie jest współautorem" i że dziennik "należy do domeny publicznej" jako "część naszej zbiorowej pamięci i dziedzictwa."
+**FACT 41**: The Anne Frank House opposed this, arguing that "Otto Frank or any other person is not a co-author" and that the diary "belongs to the public domain" as "part of our collective memory and heritage."
 
-## Autentyczność i ekspertyzy naukowe
+## Authenticity and Scientific Expertise
 
-**FAKT 42**: W 1986 roku Holenderski Instytut Kryminalistyczny przeprowadził kompleksową analizę forensyczną po śmierci Otto Franka.
+**FACT 42**: In 1986, the Dutch Institute for War Documentation conducted a comprehensive forensic analysis after Otto Frank's death.
 
-**FAKT 43**: Badania obejmowały analizę pisma ręcznego, spektrometrię w podczerwieni do analizy kleju i włókien w oprawie oraz fluorescencję rentgenowską do określenia dat produkcji papieru.
+**FACT 43**: The research included handwriting analysis, infrared spectrometry for glue and fiber analysis in the binding, and X-ray fluorescence to determine paper production dates.
 
-**FAKT 44**: Papier został wyprodukowany między 1939 a 1942 rokiem, co potwierdza autentyczność czasową dziennika.
+**FACT 44**: The paper was produced between 1939 and 1942, confirming the temporal authenticity of the diary.
 
-**FAKT 45**: Eksperci stwierdzili z "prawdopodobieństwem graniczącym z pewnością", że wszystkie teksty zostały napisane tą samą ręką - ręką Anne Frank.
+**FACT 45**: Experts determined with "probability bordering on certainty" that all texts were written by the same hand - Anne Frank's hand.
 
-**FAKT 46**: Mit o długopisie kulkowym został definitywnie obalony - w latach 80. odkryto, że kilka notatek długopisem zostało dodanych około 1960 roku przez grafologia badającego dziennik, nie przez Anne.
+**FACT 46**: The ballpoint pen myth was definitively debunked - in the 1980s it was discovered that several ballpoint pen notes were added around 1960 by a graphologist examining the diary, not by Anne.
 
-## Wpływ kulturowy i adaptacje
+## Cultural Impact and Adaptations
 
-**FAKT 47**: Pierwsza adaptacja teatralna autorstwa Frances Goodrich i Alberta Hacketta została wystawiona 5 października 1955 roku w Cort Theatre w Nowym Jorku i zdobyła Nagrodę Pulitzera.
+**FACT 47**: The first theatrical adaptation by Frances Goodrich and Albert Hackett premiered on October 5, 1955 at the Cort Theatre in New York and won the Pulitzer Prize.
 
-**FAKT 48**: Film z 1959 roku w reżyserii George'a Stevensa zdobył trzy Oscary.
+**FACT 48**: The 1959 film directed by George Stevens won three Academy Awards.
 
-**FAKT 49**: W 2009 roku rękopisy dziennika Anne Frank zostały wpisane na Listę Światowego Dziedzictwa Dokumentowego UNESCO w ramach programu "Pamięć Świata".
+**FACT 49**: In 2009, Anne Frank's diary manuscripts were inscribed on the UNESCO World Heritage Document List as part of the "Memory of the World" program.
 
-**FAKT 50**: W badaniu z 1996 roku na Uniwersytecie Michigan dziennik był nadal głównym źródłem edukacji o Holokauście - ponad połowa badanych uczniów liceów musiała go przeczytać jako lekturę obowiązkową.
+**FACT 50**: In a 1996 study at the University of Michigan, the diary was still the main source of Holocaust education - over half of surveyed high school students had to read it as required reading.
 
-## Ciekawostki i ukryte fakty
+## Curiosities and Hidden Facts
 
-**PLOTKA 1**: Istnieją spekulacje, że Anne mogła ukryć dodatkowe fragmenty dziennika w kryjówce, które nigdy nie zostały odnalezione.
+**RUMOR 1**: There is speculation that Anne may have hidden additional diary fragments in the annex that were never found.
 
-**FAKT 51**: Anne oprócz dziennika pisała również opowiadania, bajki i eseje. We wrześniu 1943 roku zaczęła przepisywać je do zeszytu zatytułowanego "Historie i wydarzenia z aneksu".
+**FACT 51**: In addition to the diary, Anne also wrote stories, fairy tales and essays. In September 1943, she began copying them into a notebook titled "Tales and Events from the Annex."
 
-**FAKT 52**: Anne używała głównie szaro-niebieskiego atramentu z pióra wiecznego, ale także cienki czerwony atrament, zielone i czerwone kredki oraz czarny ołówek.
+**FACT 52**: Anne mainly used gray-blue ink from a fountain pen, but also thin red ink, green and red crayons, and black pencil.
 
-**FAKT 53**: Coraz częściej Anne wyrażała pragnienie zostania autorką lub dziennikarką - jej marzenie spełniło się pośmiertnie w sposób, jakiego nie mogła przewidzieć.
+**FACT 53**: Increasingly, Anne expressed a desire to become a writer or journalist - her dream was fulfilled posthumously in a way she could never have foreseen.
 
-**FAKT 54**: Dom Anne Frank w Amsterdamie zatrudnia 100 pracowników i odwiedza go ponad milion osób rocznie.
+**FACT 54**: The Anne Frank House in Amsterdam employs 100 workers and is visited by over a million people annually.
 
-**FAKT 55**: W 1999 roku Cornelis Suijk ogłosił, że posiada pięć stron usuniętych przez Otto Franka przed publikacją, zawierających krytyczne uwagi o napiętym małżeństwie rodziców Anne.
+**FACT 55**: In 1999, Cornelis Suijk announced that he possessed five pages removed by Otto Frank before publication, containing critical comments about Anne's parents' tense marriage.
 
-Ta historia pokazuje, jak osobisty dziennik 13-letniej dziewczynki stał się jednym z najważniejszych świadectw Holokaustu i jedną z najczęściej czytanych książek w historii ludzkości.
+This story shows how a 13-year-old girl's personal diary became one of the most important testimonies of the Holocaust and one of the most widely read books in human history.

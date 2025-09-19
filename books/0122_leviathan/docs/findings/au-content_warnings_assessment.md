@@ -1,194 +1,194 @@
-# Ocena Bezpieczeństwa Treści: "Lewiatan" Thomas Hobbes (1651)
+# Content Warnings Assessment: "Leviathan" by Thomas Hobbes (1651)
 
-**Data analizy:** 2 września 2025  
-**Analizowane materiały:** 8 raportów badawczych agentów specjalistycznych  
-**Podstawa oceny:** Aktualne zasady platform społecznościowych 2025
-
----
-
-## PODSUMOWANIE WYKONAWCZE
-
-"Lewiatan" Thomasa Hobbesa to fundamentalne dzieło filozofii politycznej z 1651 roku, które WYMAGA SZCZEGÓLNEJ OSTROŻNOŚCI przy adaptacji na treści audio dla platform społecznościowych. Książka zawiera kontrowersyjne tematy polityczne, religijne i filozoficzne, które mogą stanowić ŚREDNIE DO WYSOKIEGO RYZYKA na różnych platformach.
-
-**OGÓLNA KLASYFIKACJA WIEKOWA:** 16+ z elementami wymagającymi 18+  
-**POZIOM RYZYKA PLATFORMOWEGO:** ŚREDNI do WYSOKIEGO (zależnie od platformy)
+**Analysis Date:** September 19, 2025
+**Analyzed Materials:** 8 specialist research agent reports
+**Assessment Basis:** Current social media platform policies 2025
 
 ---
 
-## ANALIZA RYZYKOWNYCH TREŚCI
+## EXECUTIVE SUMMARY
 
-### 🚨 WYSOKIE RYZYKO - Problematyczne Tematy
+"Leviathan" by Thomas Hobbes is a foundational work of political philosophy from 1651 that REQUIRES EXTREME CAUTION when adapting for audio content on social media platforms. The book contains controversial political, religious, and philosophical themes that pose MEDIUM to HIGH RISK across different platforms.
 
-#### 1. **Krytyka Religii i Oskarżenia o Ateizm**
-**Źródło:** Raporty "Dark Drama" i "Fakty Historyczne"
-- **Problem:** Hobbes był nazywany "Potworem z Malmesbury" za ateizm
-- **Szczegóły:** Parlament w 1666 zbadał książki "prowadzące do ateizmu"
-- **Ryzyko platformowe:** Meta (Facebook/Instagram) - WYSOKIE, inne - ŚREDNIE
-- **Rozwiązanie:** Kontekst edukacyjny, unikanie bezpośrednich cytatów antyreligijnych
-
-#### 2. **Teoria Władzy Absolutnej i Totalitaryzm**
-**Źródło:** "Dark Drama", "Reality vs. Wisdom"
-- **Problem:** Hobbes uzasadnia absolutną władzę suwerena
-- **Kontrowersje:** Carl Schmitt (prawnik nazistowski) nazywany "współczesnym Hobbesem"
-- **Współczesne związki:** XX-wieczne totalitaryzmy realizowały wizję Hobbesa
-- **Ryzyko:** Wszystkie platformy - interpretacja jako promocja autorytaryzmu
-
-#### 3. **Kontrowersyjne Wypowiedzi o Naturze Ludzkiej**
-**Źródło:** "Symbols and Meanings", "Reality vs. Wisdom"
-- **Cytat:** Życie jest "samotne, biedne, podłe, brutalne i krótkie"
-- **Problem:** Pesymistyczna wizja człowieka
-- **Dodatkowe:** "Homo homini lupus" - człowiek człowiekowi wilkiem
-- **Ryzyko:** Możliwość interpretacji jako mowa nienawiści wobec ludzkości
-
-### 🟡 ŚREDNIE RYZYKO - Tematy Wymagające Ostrożności
-
-#### 4. **Polityka i Kontrowersje Współczesne**
-**Źródło:** "Reality vs. Wisdom", "Local Context"
-- **Problemy:** Hobbesowskie idee wykorzystywane przez autorytarnych przywódców
-- **Współczesne paralele:** Trump, Brexit, populizm
-- **Polski kontekst:** Wykorzystanie w dyskusjach o PiS (2015-2023)
-- **Ryzyko:** Każda platforma - polityczna polaryzacja
-
-#### 5. **Oskarżenia Personalne i Skandale Autora**
-**Źródło:** "Dark Drama", "Facts History"
-- **Skandale:** 25-letni feud z Johniem Wallisem (nazywanie pism "zasranym kawałkiem")
-- **Kontrowersje:** Podejrzenia o herezję, spalenie dokumentów
-- **Finansowe:** Zależność od arystokracji mimo krytyki systemu
-- **Ryzyko:** Defamation concerns, choć autor zmarł w 1679
-
-#### 6. **Okultystyczne i Ezoteryczne Interpretacje**
-**Źródło:** "Dark Drama", "Symbols and Meanings"  
-- **Problemy:** Lewiatan jako biblijny demon chaosu
-- **Teorie spiskowe:** Związki z Illuminati i masonami
-- **Alchemiczne znaczenia:** Krzyż Lewiatana w satanizmie
-- **Ryzyko:** Platformy mogą interpretować jako promotion of occult
+**OVERALL AGE CLASSIFICATION:** 16+ with elements requiring 18+
+**PLATFORM RISK LEVEL:** MEDIUM to HIGH (platform-dependent)
 
 ---
 
-## MACIERZ RYZYKA PLATFORM (2025)
+## HIGH-RISK CONTENT ANALYSIS
 
-| Problematyczny Temat | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
-|---------------------|----------|-----------|---------|---------|---------|------|
-| **Krytyka religii** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Władza absolutna** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
-| **Pesymizm antropologiczny** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Treści polityczne** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
-| **Skandale osobiste** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
-| **Interpretacje ezoteryczne** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+### 🚨 HIGHEST RISK - Problematic Topics
 
-**Legenda:** 🔴 HIGH = Demonetyzacja/Ban, 🟡 MED = Age-restrict/Review, 🟢 LOW = Minimal risk
+#### 1. **Religious Criticism and Atheism Accusations**
+**Source:** Dark Drama and Historical Facts reports
+- **Issue:** Hobbes was called the "Monster of Malmesbury" for alleged atheism
+- **Details:** Parliament in 1666 investigated books "leading to atheism"
+- **Platform Risk:** Meta (Facebook/Instagram) - HIGH, others - MEDIUM
+- **Solution:** Educational context only, avoid direct anti-religious quotes
 
----
+#### 2. **Absolute Power Theory and Totalitarianism**
+**Source:** Dark Drama, Reality vs. Wisdom reports
+- **Issue:** Hobbes justifies absolute sovereign authority
+- **Controversies:** Carl Schmitt (Nazi lawyer) called "contemporary Hobbes"
+- **Contemporary connections:** 20th-century totalitarianisms realized Hobbes' vision
+- **Risk:** All platforms - interpretation as promoting authoritarianism
 
-## SZCZEGÓŁOWE REKOMENDACJE PLATFORMOWE
+#### 3. **Controversial Statements About Human Nature**
+**Source:** Symbols and Meanings, Reality vs. Wisdom reports
+- **Quote:** Life is "solitary, poor, nasty, brutish, and short"
+- **Issue:** Pessimistic view of humanity
+- **Additional:** "Homo homini lupus" - man is wolf to man
+- **Risk:** Possible interpretation as hate speech toward humanity
 
-### 🔴 **FACEBOOK/META (Wysokie Ryzyko)**
-**Powód:** Nowe liberalne zasady hate speech, brak fact-checkingu
+### 🟡 MEDIUM RISK - Topics Requiring Caution
 
-**ZALECENIA:**
-- **UNIKAJ:** Bezpośrednich cytatów o ateizmie i krytyce religii
-- **UNIKAJ:** Szczegółowych omówień totalitarnych interpretacji
-- **UŻYWAJ:** Wyłącznie kontekstu edukacyjnego "klasyka filozofii"
-- **STRATEGY:** Skup się na historycznych aspektach, nie współczesnych paralel
-- **AGE RESTRICTION:** 18+ obowiązkowy
+#### 4. **Politics and Contemporary Controversies**
+**Source:** Reality vs. Wisdom, Local Context reports
+- **Issues:** Hobbesian ideas used by authoritarian leaders
+- **Contemporary parallels:** Trump, Brexit, populism
+- **Polish context:** Used in PiS discussions (2015-2023)
+- **Risk:** All platforms - political polarization
 
-### 🔴 **INSTAGRAM (Wysokie Ryzyko)**  
-**Powód:** Identyczne zasady z Facebook + nowe ToS
+#### 5. **Personal Accusations and Author Scandals**
+**Source:** Dark Drama, Historical Facts reports
+- **Scandals:** 25-year feud with John Wallis (calling writings "shitten piece")
+- **Controversies:** Suspicions of heresy, burning documents
+- **Financial:** Dependence on aristocracy despite system criticism
+- **Risk:** Defamation concerns, though author died in 1679
 
-**ZALECENIA:**
-- Jak Facebook plus:
-- **VISUAL CONTENT:** Unikaj obrazów z symboliką Lewiatana
-- **STORIES:** Nie używaj kontrowersyjnych cytatów w story highlights
-- **REELS:** Maksimum edukacyjny, minimum kontrowersyjny content
-
-### 🟡 **YOUTUBE (Średnie Ryzyko)**
-**Powód:** Anti-AI crackdown, wymóg ludzkiej narracji
-
-**ZALECENIA:**
-- **WYMAGANE:** Ludzka narracja (nie text-to-speech)
-- **DODAJ:** Oryginalny komentarz do każdego cytatu Hobbesa
-- **FRAMING:** "Analiza historyczna" nie "współczesne zastosowania"
-- **STORYTELLING:** Presentuj jako historię idei, nie polityczny manifest
-- **AGE RESTRICTION:** 16+ dla treści o władzy absolutnej
-
-### 🟡 **TIKTOK (Średnie Ryzyko)**
-**Powód:** Tylko 1+ minuta monetyzowane, strict moderation
-
-**ZALECENIA:**
-- **DŁUGOŚĆ:** Minimum 60 sekund dla monetyzacji
-- **ORIGINAL CONTENT:** Bez duetów/stitches o Hobbesie
-- **EDUCATIONAL:** Wyraźne oznaczenie jako treść edukacyjną
-- **AVOID:** Współczesne paralele polityczne
-- **HASHTAGS:** #philosophy #education #booktok, UNIKAJ #politics
-
-### 🟢 **SPOTIFY (Niskie Ryzyko)**
-**Powód:** Creator-friendly, focus na edukację
-
-**ZALECENIA:**
-- **PREFEROWANE:** Video podcast format (wyższe zarobki)
-- **MUZYKA:** Tylko royalty-free, bez copyrighted clips
-- **DŁUGOŚĆ:** Strategiczne ad breaks dla monetyzacji  
-- **APPROACH:** Academic discussion style najbezpieczniejszy
-- **CONTENT WARNINGS:** Na początku odcinka o kontrowersyjnych tematach
-
-### 🟢 **KICK (Najniższe Ryzyko)**
-**Powód:** Creator-friendly 95/5 split, najmniej restrictive
-
-**ZALECENIA:**
-- **OPTIMAL PLATFORM:** Najlepsze warunki dla edukacyjnej filozofii
-- **INTERACTIVE:** Live discussions o książce z chattem
-- **MONETIZATION:** Najszybsza ścieżka do zarabiania
-- **CONTENT:** Możliwość omawiania wszystkich aspektów z kontekstem edukacyjnym
-- **COMMUNITY:** Budowanie społeczności wokół klasycznej literatury
+#### 6. **Occult and Esoteric Interpretations**
+**Source:** Dark Drama, Symbols and Meanings reports
+- **Issues:** Leviathan as biblical chaos demon
+- **Conspiracy theories:** Connections to Illuminati and Freemasons
+- **Alchemical meanings:** Cross of Leviathan in Satanism
+- **Risk:** Platforms may interpret as occult promotion
 
 ---
 
-## CONTENT WARNINGS DLA SŁUCHACZY
+## PLATFORM RISK MATRIX (2025)
 
-### **Przed Rozpoczęciem Odcinka:**
-> "Uwaga: Dzisiejszy odcinek omawia 'Lewiatana' Thomasa Hobbesa z 1651 roku - dzieło zawierające kontrowersyjne poglądy na religię, politykę i naturę ludzką. Prezentujemy te idee w kontekście historycznym i edukacyjnym. Treści przeznaczone dla dojrzałych słuchaczy 16+."
+| Problematic Topic | Facebook | Instagram | YouTube | TikTok | Spotify | Kick |
+|-------------------|----------|-----------|---------|---------|---------|------|
+| **Religious criticism** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Absolute power** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+| **Anthropological pessimism** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Political content** | 🔴 HIGH | 🔴 HIGH | 🟡 MED | 🟡 MED | 🟡 MED | 🟢 LOW |
+| **Personal scandals** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+| **Esoteric interpretations** | 🟡 MED | 🟡 MED | 🟢 LOW | 🟡 MED | 🟢 LOW | 🟢 LOW |
+
+**Legend:** 🔴 HIGH = Demonetization/Ban, 🟡 MED = Age-restrict/Review, 🟢 LOW = Minimal risk
+
+---
+
+## DETAILED PLATFORM RECOMMENDATIONS
+
+### 🔴 **FACEBOOK/META (High Risk)**
+**Reason:** New liberal hate speech policies, no fact-checking
+
+**RECOMMENDATIONS:**
+- **AVOID:** Direct quotes about atheism and religious criticism
+- **AVOID:** Detailed discussions of totalitarian interpretations
+- **USE:** Exclusively educational context "classical philosophy"
+- **STRATEGY:** Focus on historical aspects, not contemporary parallels
+- **AGE RESTRICTION:** 18+ mandatory
+
+### 🔴 **INSTAGRAM (High Risk)**
+**Reason:** Identical policies with Facebook + new ToS
+
+**RECOMMENDATIONS:**
+- Same as Facebook plus:
+- **VISUAL CONTENT:** Avoid imagery with Leviathan symbolism
+- **STORIES:** Don't use controversial quotes in story highlights
+- **REELS:** Maximum educational, minimum controversial content
+
+### 🟡 **YOUTUBE (Medium Risk)**
+**Reason:** Anti-AI crackdown, requires human narration
+
+**RECOMMENDATIONS:**
+- **REQUIRED:** Human narration (not text-to-speech)
+- **ADD:** Original commentary to every Hobbes quote
+- **FRAMING:** "Historical analysis" not "contemporary applications"
+- **STORYTELLING:** Present as history of ideas, not political manifesto
+- **AGE RESTRICTION:** 16+ for absolute power content
+
+### 🟡 **TIKTOK (Medium Risk)**
+**Reason:** Only 1+ minute monetized, strict moderation
+
+**RECOMMENDATIONS:**
+- **LENGTH:** Minimum 60 seconds for monetization
+- **ORIGINAL CONTENT:** No duets/stitches about Hobbes
+- **EDUCATIONAL:** Clear marking as educational content
+- **AVOID:** Contemporary political parallels
+- **HASHTAGS:** #philosophy #education #booktok, AVOID #politics
+
+### 🟢 **SPOTIFY (Low Risk)**
+**Reason:** Creator-friendly, education focus
+
+**RECOMMENDATIONS:**
+- **PREFERRED:** Video podcast format (higher earnings)
+- **MUSIC:** Only royalty-free, no copyrighted clips
+- **LENGTH:** Strategic ad breaks for monetization
+- **APPROACH:** Academic discussion style safest
+- **CONTENT WARNINGS:** At episode start for controversial topics
+
+### 🟢 **KICK (Lowest Risk)**
+**Reason:** Creator-friendly 95/5 split, least restrictive
+
+**RECOMMENDATIONS:**
+- **OPTIMAL PLATFORM:** Best conditions for educational philosophy
+- **INTERACTIVE:** Live discussions about book with chat
+- **MONETIZATION:** Fastest path to earning
+- **CONTENT:** Possible to discuss all aspects with educational context
+- **COMMUNITY:** Building community around classical literature
+
+---
+
+## CONTENT WARNINGS FOR LISTENERS
+
+### **Before Episode Start:**
+> "Warning: Today's episode discusses Thomas Hobbes' 'Leviathan' from 1651 - a work containing controversial views on religion, politics, and human nature. We present these ideas in historical and educational context. Content intended for mature listeners 16+."
 
 ### **Specific Topic Warnings:**
 
-**Dla fragmentów o ateizmie:**
-> "Następny fragment omawia oskarżenia o ateizm wobec Hobbesa - prezentujemy je w kontekście historii filozofii XVII wieku."
+**For atheism segments:**
+> "The following segment discusses atheism accusations against Hobbes - we present them in the context of 17th-century philosophy history."
 
-**Dla fragmentów o władzy absolutnej:**
-> "Omawiamy teraz Hobbesowską teorię władzy absolutnej - poglądy, które historia pokazała jako problematyczne, ale ważne dla zrozumienia rozwoju myśli politycznej."
+**For absolute power segments:**
+> "We now discuss Hobbes' theory of absolute power - views that history has shown to be problematic, but important for understanding political thought development."
 
-**Dla fragmentów o naturze ludzkiej:**
-> "Hobbes prezentuje bardzo pesymistyczną wizję natury ludzkiej - pamiętajmy, że to tylko jedna z wielu teorii filozoficznych na ten temat."
-
----
-
-## STRATEGIA EDUKACYJNA - BEZPIECZNE PODEJŚCIA
-
-### **Historia vs. Aktualność**
-✅ **GOOD:** "W XVII wieku Hobbes argumentował..."
-❌ **AVOID:** "Hobbes miał rację mówiąc o współczesnej polityce..."
-
-### **Krytyczny Kontekst**  
-✅ **GOOD:** "Ta teoria została później skrytykowana przez..."
-❌ **AVOID:** "Hobbes pokazuje prawdę o..."
-
-### **Wieloperspektywiczność**
-✅ **GOOD:** "Jedna z interpretacji to... ale filozofowie jak X twierdzili..."
-❌ **AVOID:** "Jedyna prawda to..."
-
-### **Akademicki Dystans**
-✅ **GOOD:** "Badacze interpretują to jako..."
-❌ **AVOID:** "Hobbes naucza nas, że..."
+**For human nature segments:**
+> "Hobbes presents a very pessimistic vision of human nature - remember this is just one of many philosophical theories on this topic."
 
 ---
 
-## SZCZEGÓLNE OBSZARY OSTROŻNOŚCI W AUDIO
+## EDUCATIONAL STRATEGY - SAFE APPROACHES
 
-### 🚨 **RED FLAGS - Unikać Bezwzględnie:**
-1. **Bezpośrednie cytaty** o "ateizmie" Hobbesa bez kontekstu
-2. **Enthusiastic endorsement** władzy absolutnej  
-3. **Współczesne paralele** z autorytarnymi liderami
-4. **Uncritical presentation** pesymizmu antropologicznego
-5. **Political applications** do current events
+### **History vs. Current Events**
+✅ **GOOD:** "In the 17th century, Hobbes argued..."
+❌ **AVOID:** "Hobbes was right about contemporary politics..."
+
+### **Critical Context**
+✅ **GOOD:** "This theory was later criticized by..."
+❌ **AVOID:** "Hobbes shows the truth about..."
+
+### **Multi-perspective Approach**
+✅ **GOOD:** "One interpretation is... but philosophers like X argued..."
+❌ **AVOID:** "The only truth is..."
+
+### **Academic Distance**
+✅ **GOOD:** "Researchers interpret this as..."
+❌ **AVOID:** "Hobbes teaches us that..."
+
+---
+
+## SPECIAL CAUTION AREAS IN AUDIO
+
+### 🚨 **RED FLAGS - Avoid Absolutely:**
+1. **Direct quotes** about Hobbes' "atheism" without context
+2. **Enthusiastic endorsement** of absolute power
+3. **Contemporary parallels** with authoritarian leaders
+4. **Uncritical presentation** of anthropological pessimism
+5. **Political applications** to current events
 
 ### ⚠️ **YELLOW FLAGS - Extreme Caution:**
 1. **Historical scandals** - mention briefly, focus on ideas
@@ -199,28 +199,28 @@
 
 ### ✅ **GREEN LIGHTS - Safe to Explore:**
 1. **History of ideas** approach
-2. **Academic interpretations** and debates  
-3. **Literary influence** na późniejszych autorów
-4. **Polish reception** i tłumaczenia
-5. **Educational value** dla understanding political philosophy
+2. **Academic interpretations** and debates
+3. **Literary influence** on later authors
+4. **Polish reception** and translations
+5. **Educational value** for understanding political philosophy
 
 ---
 
-## COMPLIANCE CHECKLIST DLA KAŻDEJ PLATFORMY
+## COMPLIANCE CHECKLIST FOR EACH PLATFORM
 
 ### **Universal Requirements:**
-- [ ] Treści oznaczone jako edukacyjne
-- [ ] Content warnings na początku
-- [ ] Historyczny kontekst dla kontrowersyjnych idei
-- [ ] Balanced presentation z multiple perspectives
-- [ ] No endorsement controversial political ideas
+- [ ] Content marked as educational
+- [ ] Content warnings at start
+- [ ] Historical context for controversial ideas
+- [ ] Balanced presentation with multiple perspectives
+- [ ] No endorsement of controversial political ideas
 - [ ] Academic tone throughout
 
 ### **Platform-Specific:**
 
 **Meta (Facebook/Instagram):**
 - [ ] ❌ No direct religious criticism
-- [ ] ❌ No contemporary political applications  
+- [ ] ❌ No contemporary political applications
 - [ ] ✅ Focus purely on historical value
 - [ ] 🔞 18+ age restriction mandatory
 
@@ -237,7 +237,7 @@
 - [ ] ❌ No political hashtags
 
 **Spotify:**
-- [ ] 📹 Video format preferred  
+- [ ] 📹 Video format preferred
 - [ ] 🎵 Royalty-free music only
 - [ ] ⚠️ Content warnings at start
 - [ ] 💰 Strategic ad placement
@@ -250,27 +250,27 @@
 
 ---
 
-## ALTERNATYWNE PODEJŚCIA DLA RÓŻNYCH ODBIORCÓW
+## ALTERNATIVE APPROACHES FOR DIFFERENT AUDIENCES
 
-### **Dla Młodszej Publiczności (13-15):**
-- **Skip entirely** - za dojrzałe tematy
+### **For Younger Audience (13-15):**
+- **Skip entirely** - too mature topics
 - **Alternative:** Focus on historical context of ideas
-- **Safe topics:** Wpływ na późniejszych filozofów
-- **Avoid:** Wszystkie kontrowersyjne interpretacje
+- **Safe topics:** Influence on later philosophers
+- **Avoid:** All controversial interpretations
 
-### **Dla Starszych Nastolatków (16-17):**  
-- **Educational focus:** Historia idei, nie contemporary applications
-- **Context heavy:** Każda kontrowersja z historical distance
-- **Critical thinking:** "Jakie są problemy z tą teorią?"
+### **For Older Teens (16-17):**
+- **Educational focus:** History of ideas, not contemporary applications
+- **Context heavy:** Every controversy with historical distance
+- **Critical thinking:** "What are the problems with this theory?"
 - **Balanced:** Present criticisms alongside main ideas
 
-### **Dla Dorosłych (18+):**
-- **Full discussion** możliwy z proper disclaimers
+### **For Adults (18+):**
+- **Full discussion** possible with proper disclaimers
 - **Contemporary relevance** - but balanced and critical
-- **Historical nuance** - scandals i konteksty
-- **Academic depth:** Różne interpretacje przez wieki
+- **Historical nuance** - scandals and contexts
+- **Academic depth:** Different interpretations through centuries
 
-### **Dla Fanów Filozofii:**
+### **For Philosophy Fans:**
 - **Deep dive** - all aspects with scholarly approach
 - **Technical language** - philosophical terminology OK
 - **Debates and interpretations** - multiple schools of thought
@@ -278,17 +278,17 @@
 
 ---
 
-## MONITORING I METRICS
+## MONITORING AND METRICS
 
-### **Wskaźniki Bezpieczeństwa:**
+### **Safety Indicators:**
 - **Engagement ratio:** Positive vs negative comments
-- **Age demographics:** Czy słuchają odpowiednie grupy wiekowe
-- **Platform warnings:** Czy algorithms flaggują content
-- **Community feedback:** Czy są complaints o kontrowersyjne treści
+- **Age demographics:** Whether appropriate age groups are listening
+- **Platform warnings:** Whether algorithms flag content
+- **Community feedback:** Whether there are complaints about controversial content
 
-### **Czerwone Flagi w Analytics:**
-- **Unusual age distribution** - młodsi niż 16
-- **High negative engagement** - dislikes, angry reactions  
+### **Red Flags in Analytics:**
+- **Unusual age distribution** - younger than 16
+- **High negative engagement** - dislikes, angry reactions
 - **Platform restrictions** - reduced reach, demonetization
 - **Community reports** - offensive content reports
 
@@ -300,18 +300,18 @@
 
 ---
 
-## KOŃCOWA CHECKLIST BEZPIECZEŃSTWA
+## FINAL SAFETY CHECKLIST
 
-### **PRZED PUBLIKACJĄ:**
+### **BEFORE PUBLICATION:**
 - [ ] Content warnings added
-- [ ] Age restrictions set appropriately  
+- [ ] Age restrictions set appropriately
 - [ ] Educational framing throughout
 - [ ] No enthusiastic endorsement of controversial ideas
 - [ ] Historical context provided for all sensitive topics
 - [ ] Multiple perspectives included
 - [ ] Platform-specific guidelines followed
 
-### **PO PUBLIKACJI:**
+### **AFTER PUBLICATION:**
 - [ ] Monitor comments for concerning interpretations
 - [ ] Respond to questions about controversial aspects
 - [ ] Track platform metrics for warnings
@@ -320,19 +320,19 @@
 
 ---
 
-## PODSUMOWANIE I REKOMENDACJA FINALNA
+## FINAL SUMMARY AND RECOMMENDATION
 
-"Lewiatan" to fascynujące dzieło edukacyjne, ale WYSOKIE RYZYKO na Facebook/Instagram z powodu liberalizacji hate speech policies. **NAJBEZPIECZNIEJSZE** platformy to **Spotify** i **Kick** dla pełnego educational content.
+"Leviathan" is a fascinating educational work, but HIGH RISK on Facebook/Instagram due to liberalized hate speech policies. **SAFEST** platforms are **Spotify** and **Kick** for full educational content.
 
-**STRATEGIA SUKCESU:** 
+**SUCCESS STRATEGY:**
 1. **Start with Spotify** - safest for full discussion
-2. **Cross-promote to Kick** - interactive community building  
+2. **Cross-promote to Kick** - interactive community building
 3. **Carefully adapted versions** for other platforms
 4. **Always 16+ minimum** with educational framing
 5. **Monitor closely** for platform reactions
 
-**REMEMBER:** Hobbes był kontrowersyjny już w 1651 roku - his ideas require careful, scholarly presentation in 2025. The goal is education about history of ideas, not political advocacy.
+**REMEMBER:** Hobbes was controversial already in 1651 - his ideas require careful, scholarly presentation in 2025. The goal is education about history of ideas, not political advocacy.
 
 ---
 
-*Dokument przygotowany na podstawie analizy aktualnych social media policies (wrzesień 2025) oraz comprehensive research z 8 specialized agents. Podlega aktualizacji w miarę zmian platform policies.*
+*Document prepared based on analysis of current social media policies (September 2025) and comprehensive research from 8 specialized agents. Subject to updates as platform policies change.*

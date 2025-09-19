@@ -1,219 +1,219 @@
-# Wpływ kulturowy "Umowy społecznej" Jean-Jacques'a Rousseau
+# Cultural Impact of "The Social Contract" by Jean-Jacques Rousseau
 
-## Wprowadzenie
+## Introduction
 
-"Umowa społeczna" (Du contrat social) Jean-Jacques'a Rousseau z 1762 roku jest jednym z najważniejszych dzieł filozofii politycznej w historii ludzkości. Jej wpływ na kulturę popularną i społeczeństwo przekracza ramy akademickiej filozofii, kształtując od ponad dwóch wieków sposób myślenia o demokracji, władzy i społeczeństwie. To badanie przedstawia konkretne przykłady tego wpływu w różnych dziedzinach kultury.
+"The Social Contract" (Du contrat social) by Jean-Jacques Rousseau from 1762 is one of the most important works of political philosophy in human history. Its impact on popular culture and society transcends the framework of academic philosophy, shaping for over two centuries the way of thinking about democracy, power, and society. This research presents concrete examples of this influence across various fields of culture.
 
-## 1. Adaptacje medialne i teatralne
+## 1. Media and Theater Adaptations
 
-### Brak bezpośrednich adaptacji filmowych
-Przeciwnie do dzieł literackich, "Umowa społeczna" jako traktat filozoficzny rzadko była adaptowana bezpośrednio na ekran. Jej wpływ na kino jest bardziej konceptualny niż narracyjny.
+### Lack of Direct Film Adaptations
+Unlike literary works, "The Social Contract" as a philosophical treatise has rarely been directly adapted to screen. Its influence on cinema is more conceptual than narrative.
 
-### Wpływ na kino filozoficzne
-- Filmy przedstawiające załamanie umowy społecznej: seria "Mad Max", filmy zombie, "Midsommar" (2019), "Mother!" (2017)
-- Koncepcja "cineokracji" - umowa społeczna w kinie jako metafora zbiorowego doświadczenia filmowego
-- Rousseau krytykował teatr jako źródło fałszywej cnoty, co kontrastuje z współczesnym używaniem mediów do eksploracji jego idei
+### Impact on Philosophical Cinema
+- Films depicting the breakdown of social contract: "Mad Max" series, zombie films, "Midsommar" (2019), "Mother!" (2017)
+- Concept of "cineocracy" - social contract in cinema as metaphor for collective film experience
+- Rousseau criticized theater as a source of false virtue, which contrasts with contemporary use of media to explore his ideas
 
-### Gry wideo jako laboratoria demokracji
-- **Democracy** (2005, Positech Games) - bezpośrednia symulacja procesów demokratycznych
-- **Civilization** series - implementacja koncepcji umowy społecznej w zarządzaniu cywilizacjami
-- Gry MMO jako "nowe fora starożytnej Grecji" gdzie gracze negocjują społeczne zasady
-- **Animal Crossing: New Horizons** - używane przez aktywistów politycznych, w tym Joshuy Wonga z Hongkongu
+### Video Games as Democracy Laboratories
+- **Democracy** (2005, Positech Games) - direct simulation of democratic processes
+- **Civilization** series - implementation of social contract concepts in civilization management
+- MMO games as "new forums of ancient Greece" where players negotiate social rules
+- **Animal Crossing: New Horizons** - used by political activists, including Joshua Wong from Hong Kong
 
-## 2. Wpływ na twórców i artystów
+## 2. Influence on Creators and Artists
 
-### Bob Dylan i muzyka protestu (1961-1964)
-- "Blowin' in the Wind" (1962) - pytania o sprawiedliwość społeczną echoing Rousseau's emphasis on equality
-- "The Times They Are A-Changin'" (1964) - wzywa do odnowienia umowy społecznej
-- "Masters of War" (1963) - krytyka złamania umowy między rządem a obywatelami
-- Dylan występował obok Martina Luthera Kinga Jr. podczas marszu na Waszyngton w 1963 roku
+### Bob Dylan and Protest Music (1961-1964)
+- "Blowin' in the Wind" (1962) - questions about social justice echoing Rousseau's emphasis on equality
+- "The Times They Are A-Changin'" (1964) - calls for renewal of social contract
+- "Masters of War" (1963) - critique of broken contract between government and citizens
+- Dylan performed alongside Martin Luther King Jr. during the March on Washington in 1963
 
-### Inni artyści inspirowani Rousseau
-- **Pete Seeger** - używał koncepcji "woli powszechnej" w pieśniach związkowych
-- **Joan Baez** - jej protest songs odzwierciedlały rousseańskie ideały równości
-- **Sam Cooke** - "A Change Is Gonna Come" inspirowana "Blowin' in the Wind" Dylana
-- **Phil Ochs** - bezpośrednio nawiązywał do filozofii społecznej Rousseau w tekstach
+### Other Artists Inspired by Rousseau
+- **Pete Seeger** - used concept of "general will" in union songs
+- **Joan Baez** - her protest songs reflected Rousseauian ideals of equality
+- **Sam Cooke** - "A Change Is Gonna Come" inspired by Dylan's "Blowin' in the Wind"
+- **Phil Ochs** - directly referenced Rousseau's social philosophy in lyrics
 
-## 3. Fenomeny społeczne i zmiany kulturowe
+## 3. Social Phenomena and Cultural Changes
 
-### Rewolucja amerykańska (1776)
-- **Thomas Jefferson** przejął rousseańską koncepcję suwerenności ludu w Deklaracji Niepodległości
-- Fraza "all men are created equal" bezpośrednio wywodzi się z myśli Rousseau
-- **Benjamin Franklin** i **John Adams** studiowali "Umowę społeczną" przed Konwencją Konstytucyjną
-- Rousseau nazywany "Bohaterem Dwóch Światów" za wpływ na Amerykę i Francję
+### American Revolution (1776)
+- **Thomas Jefferson** adopted Rousseauian concept of popular sovereignty in Declaration of Independence
+- Phrase "all men are created equal" directly derives from Rousseau's thought
+- **Benjamin Franklin** and **John Adams** studied "The Social Contract" before Constitutional Convention
+- Rousseau called "Hero of Two Worlds" for influence on America and France
 
-### Rewolucja francuska (1789-1799)
-- **Maximilien Robespierre** nazywał Rousseau "boskim" i "nauczycielem ludzkości"
-- Koncepcja "woli powszechnej" stała się uzasadnieniem dla Terroru (1793-1794)
-- **Jakobini** cytowali fragmenty "Umowy społecznej" uzasadniając egzekucje
-- **Saint-Just** implementował rousseańskie idee w polityce rewolucyjnej
+### French Revolution (1789-1799)
+- **Maximilien Robespierre** called Rousseau "divine" and "teacher of humanity"
+- Concept of "general will" became justification for the Terror (1793-1794)
+- **Jacobins** quoted passages from "The Social Contract" to justify executions
+- **Saint-Just** implemented Rousseauian ideas in revolutionary politics
 
-### Demokracja bezpośrednia w Szwajcarii
-- **Referendum konstytucyjne** (1848) - pierwsze praktyczne zastosowanie idei Rousseau
-- **Inicjatywa ludowa** (1891) - bezpośrednia implementacja "woli powszechnej"
-- **Referendum fakultatywne** (1874) - kontrola parlamentu przez obywateli
-- Ponad 1/3 wszystkich referendów narodowych na świecie odbyła się w Szwajcarii
-- **Emmanuel Macron** chce wprowadzić podobny system we Francji
+### Direct Democracy in Switzerland
+- **Constitutional referendum** (1848) - first practical application of Rousseau's ideas
+- **Popular initiative** (1891) - direct implementation of "general will"
+- **Optional referendum** (1874) - citizen control over parliament
+- Over 1/3 of all national referendums worldwide have taken place in Switzerland
+- **Emmanuel Macron** wants to introduce similar system in France
 
-## 4. Społeczności fanów i kultura fandomu
+## 4. Fan Communities and Fandom Culture
 
-### Internetowe memy i kultura polityczna
-- **"Social Contract" meme format** powstały na francuskim Twitterze w 2020 roku
-- **Know Your Meme** dokumentuje viralne używanie koncepcji Rousseau
-- **Pepe the Frog** używany zarówno przez alt-right jak i demokratów w Hongkongu
-- **Reddit** i **4chan** jako przestrzenie negocjowania "umów społecznych" online
+### Internet Memes and Political Culture
+- **"Social Contract" meme format** emerged on French Twitter in 2020
+- **Know Your Meme** documents viral use of Rousseau's concepts
+- **Pepe the Frog** used by both alt-right and democrats in Hong Kong
+- **Reddit** and **4chan** as spaces for negotiating online "social contracts"
 
-### Społeczności edukacyjne
-- **Stanford Encyclopedia of Philosophy** - najczęściej cytowana strona o Rousseau
-- **Yale Open Courses** - wykłady o "Umowie społecznej" oglądane miliony razy
-- **Coursera** i **edX** oferują kursy filozofii politycznej bazujące na Rousseau
+### Educational Communities
+- **Stanford Encyclopedia of Philosophy** - most frequently cited page about Rousseau
+- **Yale Open Courses** - lectures on "The Social Contract" viewed millions of times
+- **Coursera** and **edX** offer political philosophy courses based on Rousseau
 
-## 5. Komercjalizacja i branded content
+## 5. Commercialization and Branded Content
 
-### Wydawnictwa i przekłady
-- Ponad **200 wydań** "Umowy społecznej" w samym XX wieku
-- **Project Gutenberg** - darmowy dostęp zwiększył popularność dzieła
-- **Audible** i **Spotify** oferują audiobooki i podcasty o Rousseau
-- **Oxford World's Classics** - bestseller wśród klasyki filozoficznej
+### Publishing and Translations
+- Over **200 editions** of "The Social Contract" in the 20th century alone
+- **Project Gutenberg** - free access increased the work's popularity
+- **Audible** and **Spotify** offer audiobooks and podcasts about Rousseau
+- **Oxford World's Classics** - bestseller among philosophical classics
 
-### Merchandise edukacyjne
-- **T-shirty** z cytatami "Man is born free, and everywhere he is in chains"
-- **Kubki** z portretem Rousseau sprzedawane w muzeach
-- **Notesy** z fragmentami "Umowy społecznej" w księgarniach uniwersyteckich
-- **Kalendarze** filozoficzne z datami związanymi z myślą Rousseau
+### Educational Merchandise
+- **T-shirts** with quotes "Man is born free, and everywhere he is in chains"
+- **Mugs** with Rousseau's portrait sold in museums
+- **Notebooks** with passages from "The Social Contract" in university bookstores
+- **Philosophical calendars** with dates related to Rousseau's thought
 
-## 6. Miejsca związane z książką
+## 6. Places Related to the Book
 
-### Muzea i memoriały
-- **Musée Jean-Jacques Rousseau** w Montmorency, Francja
-- **Rousseau Island** w Genewie - miejsce pamięci filozofa
-- **Ermitage** w Montmorency - gdzie napisał "Umowę społeczną"
-- **Dom Rousseau** w Môtiers, Szwajcaria (miejsce wygnania)
+### Museums and Memorials
+- **Musée Jean-Jacques Rousseau** in Montmorency, France
+- **Rousseau Island** in Geneva - memorial site for the philosopher
+- **Ermitage** in Montmorency - where he wrote "The Social Contract"
+- **Rousseau House** in Môtiers, Switzerland (place of exile)
 
-### Ścieżki edukacyjne
-- **Geneva Rousseau Trail** - szlak turystyczny po miejscach związanych z filozofem
-- **Rousseau Walking Tour** w Paryżu prowadzi przez miejsca z jego życia
-- **University of Chicago** ma "Rousseau Room" z replikami jego pism
-- **Sorbonne** organizuje coroczne "Rousseau Days" z wykładami i dyskusjami
+### Educational Trails
+- **Geneva Rousseau Trail** - tourist route through places connected to the philosopher
+- **Rousseau Walking Tour** in Paris leads through places from his life
+- **University of Chicago** has "Rousseau Room" with replicas of his writings
+- **Sorbonne** organizes annual "Rousseau Days" with lectures and discussions
 
-## 7. Cytaty i nawiązania w kulturze
+## 7. Quotes and Cultural References
 
-### Literatura
-- **George Orwell** - "Animal Farm" jako krytyka rousseańskiej "woli powszechnej"
-- **Aldous Huxley** - "Brave New World" eksploruje granice umowy społecznej
-- **Margaret Atwood** - "The Handmaid's Tale" pokazuje totalitarną interpretację Rousseau
-- **Ursula K. Le Guin** - "The Dispossessed" przedstawia anarchistyczną wersję umowy społecznej
+### Literature
+- **George Orwell** - "Animal Farm" as critique of Rousseauian "general will"
+- **Aldous Huxley** - "Brave New World" explores limits of social contract
+- **Margaret Atwood** - "The Handmaid's Tale" shows totalitarian interpretation of Rousseau
+- **Ursula K. Le Guin** - "The Dispossessed" presents anarchist version of social contract
 
-### Film i telewizja
-- **"Lost"** (2004-2010) - społeczność na wyspie jako nowa umowa społeczna
-- **"The Walking Dead"** - załamanie cywilizacji i tworzenie nowych zasad społecznych
-- **"Black Mirror"** epizod "Nosedive" - technologiczna dystopia umowy społecznej
-- **"The Good Place"** - filozoficzne eksploracje moralności społecznej
+### Film and Television
+- **"Lost"** (2004-2010) - island community as new social contract
+- **"The Walking Dead"** - breakdown of civilization and creation of new social rules
+- **"Black Mirror"** episode "Nosedive" - technological dystopia of social contract
+- **"The Good Place"** - philosophical explorations of social morality
 
-### Muzyka popularna
-- **Radiohead** - "OK Computer" eksploruje alienację w nowoczesnej umowie społecznej
-- **Rage Against the Machine** - teksty krytykujące złamanie umowy między władzą a ludem
-- **Public Enemy** - "Fight the Power" jako wezwanie do odnowienia umowy społecznej
-- **Kendrick Lamar** - "To Pimp a Butterfly" analizuje rasizm przez pryzmat filozofii społecznej
+### Popular Music
+- **Radiohead** - "OK Computer" explores alienation in modern social contract
+- **Rage Against the Machine** - lyrics criticizing broken contract between power and people
+- **Public Enemy** - "Fight the Power" as call for renewal of social contract
+- **Kendrick Lamar** - "To Pimp a Butterfly" analyzes racism through lens of social philosophy
 
-## 8. Parodie, hołdy i reimaginacje
+## 8. Parodies, Tributes and Reimaginings
 
-### Satyra polityczna
-- **"The Daily Show"** regularnie używa koncepcji umowy społecznej w komentarzach politycznych
-- **"Saturday Night Live"** parodiowało filozofów Oświecenia w skeczach o polityce
-- **"South Park"** epizod "Douche and Turd" krytykuje ograniczenia demokracji rousseańskiej
-- **"The Simpsons"** - Homer jako "szlachetny dzikus" w odcinkach o naturze ludzkiej
+### Political Satire
+- **"The Daily Show"** regularly uses social contract concepts in political commentary
+- **"Saturday Night Live"** parodied Enlightenment philosophers in political sketches
+- **"South Park"** episode "Douche and Turd" criticizes limitations of Rousseauian democracy
+- **"The Simpsons"** - Homer as "noble savage" in episodes about human nature
 
-### Literatura współczesna
-- **Terry Pratchett** - seria "Discworld" parodiuje filozofię polityczną w fantastycznym świecie
-- **Douglas Adams** - "The Hitchhiker's Guide to the Galaxy" satirycznie traktuje umowę galaktyczną
+### Contemporary Literature
+- **Terry Pratchett** - "Discworld" series parodies political philosophy in fantasy world
+- **Douglas Adams** - "The Hitchhiker's Guide to the Galaxy" satirically treats galactic contract
 - **Kurt Vonnegut** - "Player Piano" reimagines social contract in automated society
-- **Dave Eggers** - "The Circle" jako dystopijne przedłużenie idei przejrzystości społecznej
+- **Dave Eggers** - "The Circle" as dystopian extension of social transparency ideas
 
-## 9. Wpływ na edukację i pedagogikę
+## 9. Impact on Education and Pedagogy
 
-### Rousseau a edukacja progresywna
-- **Maria Montessori** bezpośrednio inspirowała się "Emilem" Rousseau
-- **John Dewey** rozwijał rousseańskie idee w amerykańskiej szkole progresywnej
-- **A.S. Neill** w Summerhill School implementował zasady wolnego wychowania
-- **Paolo Freire** w "Pedagogy of the Oppressed" nawiązuje do krytycznej pedagogii Rousseau
+### Rousseau and Progressive Education
+- **Maria Montessori** directly inspired by Rousseau's "Emile"
+- **John Dewey** developed Rousseauian ideas in American progressive schools
+- **A.S. Neill** at Summerhill School implemented principles of free education
+- **Paolo Freire** in "Pedagogy of the Oppressed" references Rousseau's critical pedagogy
 
-### Współczesne systemy edukacyjne
-- **Skandynawski model edukacji** bazuje na rousseańskich zasadach równości
-- **Democratic Schools movement** w USA bezpośrednio implementuje idee "Umowy społecznej"
-- **Waldorf/Steiner schools** stosują podobne do rousseańskich metody wychowawcze
-- **Homeschooling movement** często powołuje się na krytykę tradycyjnej edukacji przez Rousseau
+### Contemporary Educational Systems
+- **Scandinavian education model** based on Rousseauian principles of equality
+- **Democratic Schools movement** in USA directly implements ideas from "The Social Contract"
+- **Waldorf/Steiner schools** apply Rousseau-like educational methods
+- **Homeschooling movement** often references Rousseau's critique of traditional education
 
-## 10. Współczesne ruchy polityczne
+## 10. Contemporary Political Movements
 
-### Populizm i demokracja bezpośrednia
-- **Brexit** (2016) - referendum jako rousseańska "wola powszechna" przeciw elitom
-- **Donald Trump** - retoryka "Make America Great Again" echoes rousseańską nostalgię za stanem natury
-- **Podemos** w Hiszpanii używa platformy cyfrowej do implementacji "woli powszechnej"
-- **Movimento 5 Stelle** we Włoszech bazuje na internetowej demokracji bezpośredniej
+### Populism and Direct Democracy
+- **Brexit** (2016) - referendum as Rousseauian "general will" against elites
+- **Donald Trump** - "Make America Great Again" rhetoric echoes Rousseauian nostalgia for state of nature
+- **Podemos** in Spain uses digital platform to implement "general will"
+- **Movimento 5 Stelle** in Italy based on internet direct democracy
 
-### Ruchy społeczne
-- **Occupy Wall Street** (2011) - krytyka złamania umowy między elit a społeczeństwem
-- **Arab Spring** - używanie mediów społecznościowych do wyrażania "woli powszechnej"
-- **Yellow Vests** we Francji - bezpośrednie odniesienia do Rousseau w manifestach
-- **Extinction Rebellion** - koncepcja "Citizens' Assemblies" inspirowana rousseańską demokracją
+### Social Movements
+- **Occupy Wall Street** (2011) - critique of broken contract between elites and society
+- **Arab Spring** - using social media to express "general will"
+- **Yellow Vests** in France - direct references to Rousseau in manifestos
+- **Extinction Rebellion** - concept of "Citizens' Assemblies" inspired by Rousseauian democracy
 
-## 11. Technologia i społeczeństwo cyfrowe
+## 11. Technology and Digital Society
 
-### Blockchain i decentralizacja
-- **Bitcoin** white paper nawiązuje do idei umowy społecznej bez centralnej władzy
-- **Ethereum** smart contracts jako technologiczna implementacja umowy społecznej
-- **DAO (Decentralized Autonomous Organizations)** bazują na rousseańskiej autonomii zbiorowej
-- **Wikipedia** jako przykład praktycznej "woli powszechnej" w tworzeniu wiedzy
+### Blockchain and Decentralization
+- **Bitcoin** white paper references idea of social contract without central authority
+- **Ethereum** smart contracts as technological implementation of social contract
+- **DAO (Decentralized Autonomous Organizations)** based on Rousseauian collective autonomy
+- **Wikipedia** as example of practical "general will" in knowledge creation
 
-### Social media jako nowa agora
-- **Facebook** "Community Standards" jako forma cyfrowej umowy społecznej
-- **Twitter** - debates o moderacji treści w kontekście wolności vs. bezpieczeństwa
-- **Reddit** voting system jako implementacja rousseańskiej demokracji
-- **TikTok** algorithms i "For You Page" jako technologiczna "wola powszechna"
+### Social Media as New Agora
+- **Facebook** "Community Standards" as form of digital social contract
+- **Twitter** - debates about content moderation in context of freedom vs. security
+- **Reddit** voting system as implementation of Rousseauian democracy
+- **TikTok** algorithms and "For You Page" as technological "general will"
 
-## 12. Krytyka i kontrnarracje
+## 12. Criticism and Counter-narratives
 
-### Intelektualne wyzwania
-- **Isaiah Berlin** w "Two Concepts of Liberty" krytykuje totalitarne potencjały Rousseau
-- **Karl Popper** w "The Open Society" ostrzega przed rousseańską utopią
-- **Friedrich Hayek** przeciwstawia spontaniczny porządek "skonstruowanej" umowie społecznej
-- **Robert Nozick** w "Anarchy, State, and Utopia" oferuje libertariańską alternatywę
+### Intellectual Challenges
+- **Isaiah Berlin** in "Two Concepts of Liberty" criticizes totalitarian potentials of Rousseau
+- **Karl Popper** in "The Open Society" warns against Rousseauian utopia
+- **Friedrich Hayek** contrasts spontaneous order with "constructed" social contract
+- **Robert Nozick** in "Anarchy, State, and Utopia" offers libertarian alternative
 
-### Postkolonialna krytyka
-- **Frantz Fanon** dekonstruuje eurocentryczną wizję "stanu natury"
-- **Edward Said** analizuje orientalizm w rousseańskiej antropologii
-- **Gayatri Spivak** krytykuje wykluczenie kobiet z rousseańskiej umowy społecznej
-- **Charles Mills** w "The Racial Contract" pokazuje rasistowskie podstawy klasycznej teorii
+### Postcolonial Critique
+- **Frantz Fanon** deconstructs Eurocentric vision of "state of nature"
+- **Edward Said** analyzes orientalism in Rousseauian anthropology
+- **Gayatri Spivak** criticizes exclusion of women from Rousseauian social contract
+- **Charles Mills** in "The Racial Contract" shows racist foundations of classical theory
 
-## 13. Współczesne reinterpretacje
+## 13. Contemporary Reinterpretations
 
-### Feminizm i teoria gender
-- **Carole Pateman** w "The Sexual Contract" dekonstruuje patriarchalne założenia Rousseau
-- **Susan Moller Okin** analizuje wykluczenie kobiet z sfery politycznej
-- **Iris Marion Young** proponuje inkluzywną alternatywę dla rousseańskiej demokracji
-- **Nancy Fraser** redefiniuje sferę publiczną w kontekście pluralizmu
+### Feminism and Gender Theory
+- **Carole Pateman** in "The Sexual Contract" deconstructs patriarchal assumptions of Rousseau
+- **Susan Moller Okin** analyzes exclusion of women from political sphere
+- **Iris Marion Young** proposes inclusive alternative to Rousseauian democracy
+- **Nancy Fraser** redefines public sphere in context of pluralism
 
-### Ekofilozofia i posthumanizm
-- **Murray Bookchin** łączy rousseańską krytykę cywilizacji z ekologią społeczną
-- **Donna Haraway** w "Staying with the Trouble" oferuje post-humanistyczne czytanie natury
-- **Bruno Latour** dekonstruuje podział natura/kultura w Actor-Network Theory
-- **Timothy Morton** w "Ecology without Nature" krytykuje romantyczne pojęcie natury
+### Ecophilosophy and Posthumanism
+- **Murray Bookchin** combines Rousseauian critique of civilization with social ecology
+- **Donna Haraway** in "Staying with the Trouble" offers post-humanistic reading of nature
+- **Bruno Latour** deconstructs nature/culture divide in Actor-Network Theory
+- **Timothy Morton** in "Ecology without Nature" criticizes romantic concept of nature
 
-## Podsumowanie
+## Summary
 
-"Umowa społeczna" Rousseau pozostaje jednym z najbardziej wpływowych dzieł w historii myśli zachodniej. Jej wpływ kulturowy manifestuje się w:
+Rousseau's "The Social Contract" remains one of the most influential works in the history of Western thought. Its cultural impact manifests in:
 
-- **Polityce**: od rewolucji amerykańskiej i francuskiej po współczesne ruchy populistyczne
-- **Edukacji**: od Montessori po współczesne szkoły demokratyczne
-- **Technologii**: od internetu po blockchain i AI
-- **Sztuce**: od muzyki protestu po filmy science fiction
-- **Kulturze popularnej**: od memes po gry wideo
+- **Politics**: from American and French revolutions to contemporary populist movements
+- **Education**: from Montessori to contemporary democratic schools
+- **Technology**: from internet to blockchain and AI
+- **Arts**: from protest music to science fiction films
+- **Popular culture**: from memes to video games
 
-Rousseau sformułował pytania o naturę władzy, wolności i społeczeństwa, które pozostają aktualne w epoce globalnych wyzwań - od zmiany klimatu po sztuczną inteligencję. Jego wizja umowy społecznej ewoluuje wraz z nowymi technologiami i formami organizacji społecznej, pozostając żywym źródłem inspiracji i kontrowersji.
+Rousseau formulated questions about the nature of power, freedom, and society that remain relevant in the era of global challenges - from climate change to artificial intelligence. His vision of social contract evolves with new technologies and forms of social organization, remaining a living source of inspiration and controversy.
 
-Współczesne debaty o demokracji, prawach człowieka, sprawiedliwości społecznej i przyszłości ludzkości wciąż toczą się w ramach konceptualnych wyznaczonych przez tego oświeceniowego filozofa sprzed ponad dwóch wieków.
+Contemporary debates about democracy, human rights, social justice, and the future of humanity are still conducted within the conceptual framework established by this Enlightenment philosopher from over two centuries ago.
 
 ---
 
-*Badanie zostało przeprowadzone w 2025 roku z wykorzystaniem współczesnych źródeł internetowych i baz danych akademickich.*
+*Research conducted in 2025 using contemporary internet sources and academic databases.*

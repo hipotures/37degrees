@@ -1,117 +1,117 @@
-# Lokalny Kontekst Kulturowy "Lewiatana" Thomasa Hobbesa
+# Local Cultural Context of Thomas Hobbes' "Leviathan"
 
-## Wprowadzenie
+## Introduction
 
-"Lewiatan" (1651) Thomasa Hobbesa to fundamentalne dzieło filozofii politycznej, które wywiera znaczący wpływ na polską kulturę intelektualną, edukację i życie społeczno-polityczne. Niniejszy dokument przedstawia lokalny kontekst recepcji tego klasycznego traktatu w Polsce i krajach ościennych, skupiając się na aspektach, które polscy słuchacze mogą sprawdzić i które mają bezpośrednie znaczenie dla ich kulturowego doświadczenia.
+"Leviathan" (1651) by Thomas Hobbes is a fundamental work of political philosophy that exerts significant influence on Polish intellectual culture, education, and socio-political life. This document presents the local reception context of this classic treatise in Poland and neighboring countries, focusing on aspects that Polish listeners can verify and that have direct significance for their cultural experience.
 
-## 1. Historia Publikacji w Polsce
+## 1. Publication History in Poland
 
-### 1.1 Pierwsze Tłumaczenia
-- **Główny tłumacz**: Czesław Znamierowski (1888-1967)
-- **Pierwsze wydanie polskie**: 1954, Państwowe Wydawnictwo Naukowe, Warszawa
-- **Tytuł pełny**: "Lewiatan, czyli materia, forma i władza państwa kościelnego i świeckiego"
-- **Wydanie współczesne**: 2009, Wydawnictwo Aletheia, Warszawa
+### 1.1 First Translations
+- **Main translator**: Czesław Znamierowski (1888-1967)
+- **First Polish edition**: 1954, State Scientific Publishers (PWN), Warsaw
+- **Full title**: "Leviathan, or the Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil"
+- **Contemporary edition**: 2009, Aletheia Publishing House, Warsaw
 
-### 1.2 Profile Głównego Tłumacza
-**Czesław Znamierowski** był wybitną postacią polskiej filozofii i prawoznawstwa:
-- Profesor Uniwersytetu Poznańskiego
-- Kierownik Katedry Teorii i Filozofii Prawa
-- Wykształcenie: studia w Lipsku, Petersburgu, Berlinie i Monachium, doktorat w Bazylei (1911)
-- Inne tłumaczenia: G.E. Moore "Zasady Etyki", oraz dzieła filozoficzne F.H. Bradleya
-- Wpływ na polską myśl prawniczą: jego koncepcje norm prawnych wyprzedziły o 40 lat podobne idee H.L.A. Harta
+### 1.2 Profile of the Main Translator
+**Czesław Znamierowski** was an outstanding figure in Polish philosophy and jurisprudence:
+- Professor at Poznan University
+- Head of the Department of Theory and Philosophy of Law
+- Education: studies in Leipzig, St. Petersburg, Berlin and Munich, doctorate in Basel (1911)
+- Other translations: G.E. Moore's "Principia Ethica" and philosophical works by F.H. Bradley
+- Impact on Polish legal thought: his concepts of legal norms preceded similar ideas by H.L.A. Hart by 40 years
 
-### 1.3 Dostępność w Polsce
-Obecnie "Lewiatan" dostępny jest w polskich księgarniach poprzez:
-- Księgarnia PWN
-- Wydawnictwo Znak
-- Księgarnia Matras
-- Księgarnie internetowe (TaniaKsiazka.pl)
+### 1.3 Availability in Poland
+Currently "Leviathan" is available in Polish bookstores through:
+- PWN Bookstore
+- Znak Publishing House
+- Matras Bookstore
+- Online bookstores (TaniaKsiazka.pl)
 
-## 2. Kontekst Edukacyjny w Polsce
+## 2. Educational Context in Poland
 
-### 2.1 Nauczanie w Szkołach Średnich
-"Lewiatan" stanowi część programu edukacyjnego na poziomie liceum:
-- **Przedmiot**: Wiedza o społeczeństwie, filozofia
-- **Kontekst maturalny**: Materiał egzaminacyjny na maturze
-- **Platforma edukacyjna**: Zintegrowana Platforma Edukacyjna (zpe.gov.pl) zawiera analizy tekstu
-- **MaturaMinds**: Specjalistyczna platforma oferuje kursy przygotowawcze z CKE 2025
+### 2.1 Teaching in Secondary Schools
+"Leviathan" is part of the educational curriculum at the high school level:
+- **Subject**: Social studies, philosophy
+- **Matriculation context**: Examination material for the matura (final exams)
+- **Educational platform**: Integrated Educational Platform (zpe.gov.pl) contains text analyses
+- **MaturaMinds**: Specialized platform offering preparatory courses with CKE 2025
 
-### 2.2 Kluczowe Koncepcje w Polskim Nauczaniu
-Polscy uczniowie poznają Hobbesa przez pryzmat:
-- **Homo homini lupus est** - "człowiek człowiekowi wilkiem"
-- **Bellum omnium contra omnes** - "wojna wszystkich przeciw wszystkim"
-- **Stan natury** vs. **umowa społeczna**
-- **Suwerenność państwowa** i teoria władzy absolutnej
+### 2.2 Key Concepts in Polish Teaching
+Polish students learn about Hobbes through the lens of:
+- **Homo homini lupus est** - "man is a wolf to man"
+- **Bellum omnium contra omnes** - "war of all against all"
+- **State of nature** vs. **social contract**
+- **State sovereignty** and theory of absolute power
 
-## 3. Recepcja w Okresie PRL
+## 3. Reception During the Communist Period (PRL)
 
-### 3.1 Paradoks Ideologiczny
-W czasach PRL "Lewiatan" znajdował się w szczególnej sytuacji:
-- **Dostępność**: Publikowany oficjalnie przez PIW (tłumaczenie Znamierowskiego z 1954)
-- **Kontekst ideologiczny**: Hobbesowska teoria silnego państwa rezonowała z praktyką komunistyczną
-- **Krytyka cenzury**: Hobbesowska aprobata dla cenzury prasowej była problematyczna dla opozycji
-- **Drugi obieg**: Możliwe rozpowszechnianie w "bibule" ze względu na uniwersalne przesłanie o tyranii
+### 3.1 Ideological Paradox
+During the communist era, "Leviathan" found itself in a particular situation:
+- **Availability**: Officially published by PIW (Znamierowski's 1954 translation)
+- **Ideological context**: Hobbes' theory of strong state resonated with communist practice
+- **Censorship critique**: Hobbes' approval of press censorship was problematic for the opposition
+- **Underground circulation**: Possible distribution in "samizdat" due to universal message about tyranny
 
-### 3.2 Bibuła i Samizdat
-W kontekście podziemnego ruchu wydawniczego:
-- **NOWa** (Niezależna Oficyna Wydawnicza) - największe wydawnictwo poza cenzurą (od 1977)
-- **ROPCiO i KOR** - organizacje inspirujące ruch niezależnych publikacji
-- Hobbesowska filozofia władzy mogła służyć jako narzędzie krytyki systemu
+### 3.2 Underground Publishing and Samizdat
+In the context of the underground publishing movement:
+- **NOWa** (Independent Publishing House) - largest publisher outside censorship (from 1977)
+- **ROPCiO and KOR** - organizations inspiring the independent publications movement
+- Hobbes' philosophy of power could serve as a tool for system critique
 
-## 4. Polscy Filozofowie i "Lewiatan"
+## 4. Polish Philosophers and "Leviathan"
 
-### 4.1 Szkoła Lwowsko-Warszawska
-Przedstawiciele tej szkoły, choć skupieni na logice i epistemologii, zetknęli się z problemami egzystencjalnymi człowieka:
-- **Jan Łukasiewicz**: Choć skupiony na logice, jego przekonania religijne i krytyka determinizmu korespondowały z problemami władzy i wolności
-- **Władysław Tatarkiewicz**: W "Historii filozofii" omawia kontekst filozofii politycznej XVII wieku
+### 4.1 Lvov-Warsaw School
+Representatives of this school, though focused on logic and epistemology, encountered existential problems of humanity:
+- **Jan Łukasiewicz**: Though focused on logic, his religious beliefs and critique of determinism corresponded with problems of power and freedom
+- **Władysław Tatarkiewicz**: In "History of Philosophy" discusses the context of 17th-century political philosophy
 
 ### 4.2 Henryk Elzenberg
-- **Rola tłumacza**: Tłumaczył dzieła Rousseau, szczególnie "Trzy rozprawy z filozofii społecznej"
-- **Kontekst filozoficzny**: Uczestniczył w dyskusjach o stanie natury i umowie społecznej
+- **Role as translator**: Translated Rousseau's works, particularly "Three Discourses on Social Philosophy"
+- **Philosophical context**: Participated in discussions about the state of nature and social contract
 
-## 5. Hobbes w Polskiej Kulturze Łacińskiej
+## 5. Hobbes in Polish Latin Culture
 
 ### 5.1 "Homo Homini Lupus"
-Ta łacińska sentencja głęboko zakorzeniła się w polskiej kulturze:
-- **Pochodzenie**: Plautus, komedia "Asinaria"
-- **Popularyzacja przez Hobbesa**: Stała się kluczowym motywem filozofii politycznej
-- **Polski przekład**: "Człowiek człowiekowi wilkiem"
-- **Użycie współczesne**: Często cytowana w polskich mediach, szczególnie w kontekście kryzysów społecznych (np. pandemia COVID-19)
+This Latin maxim has deeply rooted itself in Polish culture:
+- **Origin**: Plautus, comedy "Asinaria"
+- **Popularization by Hobbes**: Became a key motif of political philosophy
+- **Polish translation**: "Man is a wolf to man"
+- **Contemporary usage**: Often quoted in Polish media, especially in the context of social crises (e.g., COVID-19 pandemic)
 
-### 5.2 Kulturowa Recepcja
-W polskiej tradycji łacińskiej fraza funkcjonuje jako:
-- **Ostrzeżenie moralne**: Przed niebezpieczeństwami braku etyki w społeczeństwie
-- **Komentarz społeczny**: Używana w analizie sytuacji kryzysowych
-- **Element edukacji klasycznej**: Część kanonu sentencji łacińskich w polskim szkolnictwie
+### 5.2 Cultural Reception
+In Polish Latin tradition, the phrase functions as:
+- **Moral warning**: Against the dangers of lack of ethics in society
+- **Social commentary**: Used in analysis of crisis situations
+- **Element of classical education**: Part of the canon of Latin maxims in Polish education
 
-## 6. Współczesne Polskie Nawiązania
+## 6. Contemporary Polish References
 
-### 6.1 Konfederacja Lewiatan
-Najbardziej widoczne współczesne nawiązanie do Hobbesa w Polsce:
-- **Organizacja**: Największa polska organizacja biznesowa
-- **Misja**: Reprezentowanie interesów pracodawców w Polsce i UE
-- **Akademia Lewiatana**: Program szkoleniowy z prawa gospodarczego
-- **Eksperci prawni**: Specjaliści z zakresu prawa konstytucyjnego i gospodarczego
+### 6.1 Leviathan Confederation (Konfederacja Lewiatan)
+The most visible contemporary reference to Hobbes in Poland:
+- **Organization**: Poland's largest business organization
+- **Mission**: Representing employers' interests in Poland and the EU
+- **Leviathan Academy**: Training program in business law
+- **Legal experts**: Specialists in constitutional and business law
 
-### 6.2 Symboliczna Ciągłość
-Nazwa "Lewiatan" w kontekście biznesowym nawiązuje do:
-- **Siły organizacyjnej**: Potężny podmiot zdolny do wpływania na politykę gospodarczą
-- **Reprezentacji interesów**: "Sztuczna osoba" w rozumieniu Hobbesa, reprezentująca zbiorowe interesy
-- **Władzy ekonomicznej**: Nowoczesna interpretacja Hobbesowskiej koncepcji suwerenności
+### 6.2 Symbolic Continuity
+The name "Leviathan" in business context refers to:
+- **Organizational strength**: Powerful entity capable of influencing economic policy
+- **Interest representation**: "Artificial person" in Hobbes' understanding, representing collective interests
+- **Economic power**: Modern interpretation of Hobbes' concept of sovereignty
 
-## 7. Carl Schmitt i Polska Recepcja
+## 7. Carl Schmitt and Polish Reception
 
-### 7.1 "Lewiatan w teorii państwa Thomasa Hobbesa"
-Dzieło Carla Schmitta (1938) zostało przetłumaczone na język polski:
-- **Tłumacz**: Mateusz Falkowski
-- **Wydawca**: Prószyński i S-ka (2008)
-- **Wydawca naukowy**: Portal "Teologia Polityczna"
+### 7.1 "The Leviathan in the State Theory of Thomas Hobbes"
+Carl Schmitt's work (1938) has been translated into Polish:
+- **Translator**: Mateusz Falkowski
+- **Publisher**: Prószyński i S-ka (2008)
+- **Academic publisher**: "Political Theology" Portal
 
-### 7.2 Znaczenie dla Polskiej Myśli Politycznej
-Schmittowska interpretacja Hobbesa wpłynęła na polskie rozumienie:
-- **Decyzjonizmu**: Roli decyzji politycznej w sytuacjach kryzysowych
-- **Teologii politycznej**: Związku między sacrum a polityką
-- **Suwerenności**: Jako zdolności do podejmowania decyzji w stanie wyjątkowym
+### 7.2 Significance for Polish Political Thought
+Schmitt's interpretation of Hobbes influenced Polish understanding of:
+- **Decisionism**: The role of political decision in crisis situations
+- **Political theology**: The relationship between the sacred and politics
+- **Sovereignty**: As the ability to make decisions in a state of exception
 
 ## 8. Hobbes w Polskim Filmie i Kulturze Popularnej
 
@@ -127,175 +127,175 @@ Film ten, choć rosyjski, miał znaczący odbiór w Polsce:
 - **Krytyka**: Określana jako "zbrodnia na powieści Akunina"
 - **Obsada**: Piotr Żurawski, Cezary Harasimowicz (adaptacja)
 
-## 9. Problem Tłumaczeń i Interpretacji
+## 9. Translation and Interpretation Problems
 
-### 9.1 Wyzwania Językowe
-Polscy tłumacze musieli zmierzyć się z:
-- **Terminologia filozoficzna**: Tworzenie polskich odpowiedników angielskich terminów XVII wieku
-- **Kontekst religijny**: Przekład argumentów teologiczno-politycznych
-- **Metafory**: Zachowanie siły retorycznej Hobbesowskich obrazów
+### 9.1 Linguistic Challenges
+Polish translators had to deal with:
+- **Philosophical terminology**: Creating Polish equivalents for 17th-century English terms
+- **Religious context**: Translation of theological-political arguments
+- **Metaphors**: Preserving the rhetorical strength of Hobbes' imagery
 
-### 9.2 Kulturowe Różnice
-- **Tradycja katolicka**: Polska tradycja katolicka a Hobbesowska krytyka Kościoła
-- **Doświadczenie autorytaryzmu**: Polski kontekst XX wieku a Hobbesowska obrona władzy absolutnej
-- **Demokratyczne tradycje**: Szlachecka demokracja a filozofia silnego państwa
+### 9.2 Cultural Differences
+- **Catholic tradition**: Polish Catholic tradition vs. Hobbes' critique of the Church
+- **Experience of authoritarianism**: Polish 20th-century context vs. Hobbes' defense of absolute power
+- **Democratic traditions**: Noble democracy vs. philosophy of strong state
 
-## 10. Hobbes w Polskim Prawie Konstytucyjnym
+## 10. Hobbes in Polish Constitutional Law
 
-### 10.1 Teoretyczne Fundamenty
-Polscy konstytucjonaliści odwołują się do Hobbesa w kontekście:
-- **Teorii suwerenności**: Źródeł władzy państwowej
-- **Stosunków państwo-obywatel**: Granic władzy państwowej
-- **Stanu wyjątkowego**: Nadzwyczajnych uprawnień władzy
+### 10.1 Theoretical Foundations
+Polish constitutionalists refer to Hobbes in the context of:
+- **Theory of sovereignty**: Sources of state power
+- **State-citizen relations**: Limits of state power
+- **State of emergency**: Extraordinary powers of authority
 
-### 10.2 Współczesne Zastosowania
-- **Orzecznictwo TK**: Analizy granic władzy suwerennej
-- **Doktryna prawnicza**: Akademickie badania nad podstawami państwa
-- **Politologia**: Analizy kryzysów politycznych przez pryzmat teorii Hobbesa
+### 10.2 Contemporary Applications
+- **Constitutional Tribunal rulings**: Analysis of sovereign power limits
+- **Legal doctrine**: Academic research on state foundations
+- **Political science**: Analysis of political crises through the lens of Hobbes' theory
 
-## 11. Lokalne Związki z Historią Polski
+## 11. Local Connections with Polish History
 
-### 11.1 Paralele Historyczne
-Polscy czytelnicy mogą odnaleźć paralele między filozofią Hobbesa a:
-- **Potopu szwedzkiego (1655-1660)**: Doświadczenie rozpadu państwa
-- **Konfederacji targowickiej**: Kwestie legitymizacji władzy
-- **Rozbiorów**: Konsekwencje słabości władzy centralnej
-- **Okresu międzywojennego**: Dylematy demokratyczne vs. autorytarne
+### 11.1 Historical Parallels
+Polish readers can find parallels between Hobbes' philosophy and:
+- **Swedish Deluge (1655-1660)**: Experience of state collapse
+- **Targowica Confederation**: Questions of power legitimization
+- **Partitions of Poland**: Consequences of weak central authority
+- **Interwar period**: Democratic vs. authoritarian dilemmas
 
-### 11.2 Współczesne Echa
-- **Kryzys COVID-19**: Dyskusje o granicach władzy państwa w stanie zagrożenia
-- **Spór o sądownictwo**: Hobbesowskie dylematy suwerenności vs. rządów prawa
-- **Polityka migracyjna**: Kwestie bezpieczeństwa państwa vs. prawa jednostki
+### 11.2 Contemporary Echoes
+- **COVID-19 crisis**: Discussions about state power limits in times of threat
+- **Judiciary dispute**: Hobbes' dilemmas of sovereignty vs. rule of law
+- **Migration policy**: Questions of state security vs. individual rights
 
-## 12. Edukacyjne Zasoby w Polsce
+## 12. Educational Resources in Poland
 
-### 12.1 Platformy Online
-- **Zintegrowana Platforma Edukacyjna** (zpe.gov.pl): Bezpłatne materiały edukacyjne
-- **MaturaMinds**: Kursy przygotowawcze do matury
-- **Filozofuj.eu**: Popularna platforma filozoficzna z analizami Hobbesa
+### 12.1 Online Platforms
+- **Integrated Educational Platform** (zpe.gov.pl): Free educational materials
+- **MaturaMinds**: Preparatory courses for matriculation exams
+- **Filozofuj.eu**: Popular philosophical platform with Hobbes analyses
 
-### 12.2 Literatura Pomocnicza
-Polscy uczniowie mają dostęp do:
-- **Przewodników maturalnych**: Omówienia dla uczniów liceum
-- **Komentarzy filozoficznych**: Akademickie interpretacje
-- **Materiałów e-learningowych**: Interaktywne kursy filozofii politycznej
+### 12.2 Supplementary Literature
+Polish students have access to:
+- **Matriculation guides**: Overviews for high school students
+- **Philosophical commentaries**: Academic interpretations
+- **E-learning materials**: Interactive courses in political philosophy
 
-## 13. Hobbes w Polskim Dyskursie Politycznym
+## 13. Hobbes in Polish Political Discourse
 
-### 13.1 Metafory Polityczne
-W polskiej publicystyce często pojawiają się nawiązania do:
-- **"Wojny wszystkich przeciw wszystkim"**: Opis polaryzacji politycznej
-- **"Lewiatana"**: Metafora silnego państwa w debacie publicznej
-- **"Stanu natury"**: Opis sytuacji anarchii lub kryzysu
+### 13.1 Political Metaphors
+In Polish journalism, references often appear to:
+- **"War of all against all"**: Description of political polarization
+- **"Leviathan"**: Metaphor for strong state in public debate
+- **"State of nature"**: Description of situations of anarchy or crisis
 
-### 13.2 Współczesne Zastosowania
-Polscy komentatorzy używają kategorii Hobbesa do analizy:
-- **Kryzysu demokratycznego**: Erozja instytucji państwowych
-- **Populizmu**: Odwołania do bezpośredniej woli ludu
-- **Autorytaryzmu**: Uzasadnienia dla silnej władzy wykonawczej
+### 13.2 Contemporary Applications
+Polish commentators use Hobbes' categories to analyze:
+- **Democratic crisis**: Erosion of state institutions
+- **Populism**: Appeals to direct will of the people
+- **Authoritarianism**: Justifications for strong executive power
 
-## 14. Polskie Badania Naukowe nad Hobbesem
+## 14. Polish Scientific Research on Hobbes
 
-### 14.1 Ośrodki Akademickie
-Najważniejsze polskie ośrodki badające filozofię Hobbesa:
-- **Uniwersytet Warszawski**: Wydział Prawa i Administracji, Instytut Filozofii
-- **Uniwersytet Jagielloński**: Katedra Filozofii Politycznej
-- **Uniwersytet im. Adama Mickiewicza**: Zakład Teorii i Filozofii Prawa
-- **Uniwersytet Mikołaja Kopernika**: Studia nad modernością polityczną
+### 14.1 Academic Centers
+The most important Polish centers studying Hobbes' philosophy:
+- **University of Warsaw**: Faculty of Law and Administration, Institute of Philosophy
+- **Jagiellonian University**: Department of Political Philosophy
+- **Adam Mickiewicz University**: Department of Theory and Philosophy of Law
+- **Nicolaus Copernicus University**: Studies on political modernity
 
-### 14.2 Publikacje Naukowe
-Polscy badacze regularnie publikują prace o:
-- **Filozofii politycznej Hobbesa**: "Dialogi Polityczne" (UMK)
-- **Teologii politycznej**: Portal "Teologia Polityczna"
-- **Historii filozofii**: "Studia z Historii Filozofii"
+### 14.2 Scientific Publications
+Polish researchers regularly publish works on:
+- **Hobbes' political philosophy**: "Political Dialogues" (UMK)
+- **Political theology**: "Political Theology" Portal
+- **History of philosophy**: "Studies in the History of Philosophy"
 
-## 15. Wyzwania Interpretacyjne w Kontekście Polskim
+## 15. Interpretive Challenges in Polish Context
 
-### 15.1 Napięcie Religijne
-Dla polskiego czytelnika szczególnie problematyczne są:
-- **Krytyka Kościoła**: Hobbesowska subordinacja religii wobec państwa
-- **Materializm filozoficzny**: Pozorny ateizm w kulturze katolickiej
-- **Sekularyzacja władzy**: Oddzielenie autorytetu politycznego od religijnego
+### 15.1 Religious Tension
+For Polish readers, particularly problematic are:
+- **Critique of the Church**: Hobbes' subordination of religion to the state
+- **Philosophical materialism**: Apparent atheism in Catholic culture
+- **Secularization of power**: Separation of political from religious authority
 
-### 15.2 Demokratyczne Tradycje
-Polskie tradycje konstytucyjne stoją w napięciu z:
-- **Absolutyzmem**: Hobbesowska obrona nieograniczonej władzy
-- **Prawami jednostki**: Pierwszeństwo bezpieczeństwa nad wolnością
-- **Parlamentaryzmem**: Krytyka podziału władzy
+### 15.2 Democratic Traditions
+Polish constitutional traditions stand in tension with:
+- **Absolutism**: Hobbes' defense of unlimited power
+- **Individual rights**: Priority of security over freedom
+- **Parliamentarism**: Critique of separation of powers
 
-## 16. Hobbes a Polskie Doświadczenie XX Wieku
+## 16. Hobbes and Polish 20th Century Experience
 
-### 16.1 Totalitaryzm
-Polskie doświadczenie totalitaryzmu rzuca nowe światło na:
-- **Władztwo absolutne**: Rzeczywiste konsekwencje nieograniczonej władzy
-- **Kontrolę społeczną**: Praktyki nadzoru i represji
-- **Strach jako narzędzie**: Hobbesowski strach przed śmiercią vs. strach przed władzą
+### 16.1 Totalitarianism
+Polish experience of totalitarianism sheds new light on:
+- **Absolute rule**: Real consequences of unlimited power
+- **Social control**: Practices of surveillance and repression
+- **Fear as a tool**: Hobbes' fear of death vs. fear of power
 
-### 16.2 Transformacja Ustrojowa
-Po 1989 roku Polacy mogli na nowo odczytać Hobbesa w kontekście:
-- **Umowy społecznej**: Pokojowej transformacji ustrojowej
-- **Legitymizacji władzy**: Zgody obywateli na nowy porządek
-- **Budowy instytucji**: Tworzenia "sztucznego ciała" państwa demokratycznego
+### 16.2 Political Transformation
+After 1989, Poles could re-read Hobbes in the context of:
+- **Social contract**: Peaceful political transformation
+- **Legitimization of power**: Citizens' consent to new order
+- **Institution building**: Creating the "artificial body" of democratic state
 
-## 17. Współczesne Polskie Nawiązania Literackie
+## 17. Contemporary Polish Literary References
 
-### 17.1 Fantastyka i Science Fiction
-Polscy autorzy fantasy i sci-fi nawiązują do motywów Hobbesowskich:
-- **Andrzej Sapkowski**: W "Wiedźminie" - anarchia wojenna i potrzeba silnej władzy
-- **Jacek Dukaj**: Koncepcje władzy technokratycznej w "Lodzie"
-- **Stanisław Lem**: Problematyka kontroli społecznej w "Powrocie z gwiazd"
+### 17.1 Fantasy and Science Fiction
+Polish fantasy and sci-fi authors reference Hobbes' motifs:
+- **Andrzej Sapkowski**: In "The Witcher" - war anarchy and need for strong authority
+- **Jacek Dukaj**: Concepts of technocratic power in "Ice"
+- **Stanisław Lem**: Problems of social control in "Return from the Stars"
 
-### 17.2 Literatura Polityczna
-Współcześni polscy pisarze eksplorują tematy związane z:
-- **Władza i jednostka**: Napięcie między bezpieczeństwem a wolnością
-- **Kryzys państwa**: Konsekwencje słabości instytucji
-- **Społeczna atomizacja**: Rozpadu więzi społecznych
+### 17.2 Political Literature
+Contemporary Polish writers explore themes related to:
+- **Power and individual**: Tension between security and freedom
+- **State crisis**: Consequences of institutional weakness
+- **Social atomization**: Breakdown of social bonds
 
-## 18. Polskie Tłumaczenia Kluczowych Cytatów
+## 18. Polish Translations of Key Quotes
 
-### 18.1 Słynne Sentencje w Wersji Polskiej
-- **"Wojna wszystkich przeciw wszystkim"** - *Bellum omnium contra omnes*
-- **"Człowiek człowiekowi wilkiem"** - *Homo homini lupus*
-- **"Życie człowieka [w stanie natury] jest samotne, biedne, podłe, brutalne i krótkie"**
-- **"Lewiatan, czyli materia, forma i władza państwa kościelnego i świeckiego"**
+### 18.1 Famous Maxims in Polish Version
+- **"War of all against all"** - *Bellum omnium contra omnes*
+- **"Man is a wolf to man"** - *Homo homini lupus*
+- **"The life of man [in state of nature] is solitary, poor, nasty, brutish, and short"**
+- **"Leviathan, or the Matter, Forme and Power of a Commonwealth Ecclesiasticall and Civil"**
 
-### 18.2 Problemy Terminologiczne
-Polscy tłumacze musieli zmierzyć się z przekładem:
-- **"Commonwealth"** → "Rzeczpospolita"/"Państwo"
-- **"Sovereign"** → "Suweren"/"Władca suwerenny"
-- **"Artificial person"** → "Osoba sztuczna"/"Sztuczny człowiek"
+### 18.2 Terminological Problems
+Polish translators had to deal with translating:
+- **"Commonwealth"** → "Rzeczpospolita"/"State"
+- **"Sovereign"** → "Suweren"/"Sovereign ruler"
+- **"Artificial person"** → "Artificial person"/"Artificial man"
 
-## 19. Hobbes w Polskim Internecie i Social Media
+## 19. Hobbes in Polish Internet and Social Media
 
-### 19.1 Obecność Online
-"Lewiatan" Hobbesa jest obecny w polskim Internecie poprzez:
-- **Memы polityczne**: Używanie cytatów Hobbesa w kontekście politycznym
-- **Fora dyskusyjne**: Debaty na temat filozofii politycznej
-- **Kanały edukacyjne**: YouTube i podcasty filozoficzne
-- **Social media**: Cytowania w kontekście kryzysów społecznych
+### 19.1 Online Presence
+Hobbes' "Leviathan" is present in Polish Internet through:
+- **Political memes**: Using Hobbes' quotes in political context
+- **Discussion forums**: Debates on political philosophy
+- **Educational channels**: YouTube and philosophical podcasts
+- **Social media**: Quotations in context of social crises
 
-### 19.2 Popularne Interpretacje
-W polskim Internecie przeważają interpretacje:
-- **Hobbesa jako prekursora autorytaryzmu**: Krytyczne podejście lewicowe
-- **Hobbesa jako realisty**: Pragmatyczne podejście centroprawicowe
-- **Hobbesa jako teoretyka**: Akademickie analizy neutralne
+### 19.2 Popular Interpretations
+In Polish Internet, interpretations prevail of:
+- **Hobbes as precursor of authoritarianism**: Critical left-wing approach
+- **Hobbes as realist**: Pragmatic center-right approach
+- **Hobbes as theorist**: Academic neutral analyses
 
-## 20. Przyszłość Recepcji Hobbesa w Polsce
+## 20. Future of Hobbes' Reception in Poland
 
-### 20.1 Wyzwania Współczesne
-Polska recepcja "Lewiatana" będzie ewoluować w kontekście:
-- **Kryzysu klimatycznego**: Potrzeby globalnego "Lewiatana" ekologicznego
-- **Digitalizacji**: Nowych form kontroli społecznej
-- **Populizmu**: Erozji demokratycznych instytucji
-- **Migracji**: Redefinicji granic państwa i obywatelstwa
+### 20.1 Contemporary Challenges
+Polish reception of "Leviathan" will evolve in the context of:
+- **Climate crisis**: Need for global ecological "Leviathan"
+- **Digitalization**: New forms of social control
+- **Populism**: Erosion of democratic institutions
+- **Migration**: Redefinition of state boundaries and citizenship
 
-### 20.2 Potencjalne Kierunki
-Przyszłe polskie interpretacje mogą skupić się na:
-- **Cyberbezpieczeństwie**: Hobbesowska władza w erze cyfrowej
-- **Ekologii politycznej**: Środowisko jako wspólne dobro wymagające silnej regulacji
-- **Integracji europejskiej**: UE jako nowoczesny "Lewiatan"
-- **Sztucznej inteligencji**: AI jako nowe wcielenie "sztucznego człowieka"
+### 20.2 Potential Directions
+Future Polish interpretations may focus on:
+- **Cybersecurity**: Hobbes' power in the digital age
+- **Political ecology**: Environment as common good requiring strong regulation
+- **European integration**: EU as modern "Leviathan"
+- **Artificial intelligence**: AI as new incarnation of "artificial man"
 
-## Podsumowanie
+## Summary
 
-"Lewiatan" Thomasa Hobbesa pozostaje żywym elementem polskiej kultury intelektualnej, obecnym w edukacji, prawie, polityce i debacie publicznej. Od fundamentalnego tłumaczenia Czesława Znamierowskiego po współczesną działalność Konfederacji Lewiatan, dzieło to kształtuje polski sposób myślenia o państwie, władzy i społeczeństwie. Polscy czytelnicy, słuchacze i studenci mogą odnaleźć w tym 370-letnim traktacie narzędzia do zrozumienia współczesnych wyzwań - od pandemii po cyfryzację, od populizmu po integrację europejską. "Lewiatan" nie jest tylko klasykiem do odrabiania w liceum, ale żywym elementem polskiego dyskursu publicznego, który wciąż pomaga zrozumieć napięcie między wolnością a bezpieczeństwem, które definiuje nowoczesne społeczeństwa demokratyczne.
+Thomas Hobbes' "Leviathan" remains a living element of Polish intellectual culture, present in education, law, politics, and public debate. From the fundamental translation by Czesław Znamierowski to the contemporary activities of Leviathan Confederation, this work shapes the Polish way of thinking about the state, power, and society. Polish readers, listeners, and students can find in this 370-year-old treatise tools for understanding contemporary challenges - from pandemics to digitization, from populism to European integration. "Leviathan" is not just a classic to be studied in high school, but a living element of Polish public discourse that still helps understand the tension between freedom and security that defines modern democratic societies.

@@ -1,204 +1,204 @@
-# Ocena Content Warnings i Zgodność z Platformami: Ramajana Walmikiego
+# Content Warnings Assessment and Platform Compliance: Valmiki's Ramayana
 
-**Data oceny:** 2 września 2025  
-**Agent:** Content Warnings Assessment  
-**Książka:** Ramajana (Valmiki, V w. p.n.e.)
+**Assessment Date:** September 2, 2025
+**Agent:** Content Warnings Assessment
+**Book:** Ramayana (Valmiki, 5th century BC)
 
-## Streszczenie Wykonawcze
+## Executive Summary
 
-Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform społecznościowych ze względu na obecność kontrowersyjnych tematów społecznych i religijnych, które w oryginalnym kontekście były normalne, ale w 2025 roku wymagają ostrożnej prezentacji. Analiza 8 kompleksowych dokumentów researchu ujawnia mieszaną klasyfikację ryzyka: od bezpiecznych elementów literackich po wysokie ryzyko w obszarach gender politics, dyskryminacji kastowej i przemocy domowej.
+Valmiki's Ramayana presents unique challenges for social media platform content policies due to controversial social and religious themes that were normal in their original context but require careful presentation in 2025. Analysis of 8 comprehensive research documents reveals mixed risk classification: from safe literary elements to high risk in areas of gender politics, caste discrimination, and domestic violence.
 
 ---
 
-## 1. MATRIX PROBLEMATYCZNYCH TEMATÓW vs PLATFORMY
+## 1. PROBLEMATIC TOPICS vs PLATFORMS MATRIX
 
-| Temat | Facebook/Meta | YouTube | Instagram | TikTok | Spotify | Kick |
+| Topic | Facebook/Meta | YouTube | Instagram | TikTok | Spotify | Kick |
 |-------|---------------|---------|-----------|--------|---------|------|
-| **Przemoc domowa (Sita)** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
-| **Dyskryminacja kastowa** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | 🟡 EDIT | ✅ OK |
-| **Mizoginijne wzorce** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
-| **Kontrola kobiet** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
-| **Publiczne upokarzanie** | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK | ✅ OK |
-| **Instrumentalizacja polityczna** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | 🟡 EDIT | ✅ OK |
-| **Treści religijne** | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK | ✅ OK |
-| **Przywództwo/etyka** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
+| **Domestic violence (Sita)** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Caste discrimination** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | 🟡 EDIT | ✅ OK |
+| **Misogynistic patterns** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Control of women** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | ✅ OK | ✅ OK |
+| **Public humiliation** | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK | ✅ OK |
+| **Political instrumentalization** | 🔴 HIGH | 🟡 EDIT | 🔴 HIGH | 🟡 EDIT | 🟡 EDIT | ✅ OK |
+| **Religious content** | 🟡 EDIT | ✅ OK | 🟡 EDIT | ✅ OK | ✅ OK | ✅ OK |
+| **Leadership/ethics** | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK | ✅ OK |
 
-**Legenda:**
-- 🔴 **HIGH RISK** = AGE-RESTRICT lub OMIT
-- 🟡 **EDIT** = Wyjaśnij kontekst/dodaj disclaimers
-- ✅ **OK** = Bezpiecznie do prezentacji
+**Legend:**
+- 🔴 **HIGH RISK** = AGE-RESTRICT or OMIT
+- 🟡 **EDIT** = Explain context/add disclaimers
+- ✅ **OK** = Safe for presentation
 
 ---
 
-## 2. ANALIZA GŁÓWNYCH OBSZARÓW RYZYKA
+## 2. MAJOR RISK AREAS ANALYSIS
 
-### 2.1 PRZEMOC DOMOWA I KONTROLA KOBIET 🔴 KRYTYCZNE
+### 2.1 DOMESTIC VIOLENCE AND CONTROL OF WOMEN 🔴 CRITICAL
 
-**Problematyczne elementy z researchu:**
-- Rama banuje Sitę z powodu plotek społecznych
-- Test ognia (Agnipariksha) jako przymusowe "udowadnianie czystości"
-- Publiczne upokarzanie kobiety dla zachowania męskiej reputacji
-- Sita postrzegana jako własność, nie osoba autonomiczna
+**Problematic elements from research:**
+- Rama banishes Sita due to social gossip
+- Fire test (Agnipariksha) as forced "proof of purity"
+- Public humiliation of woman to preserve male reputation
+- Sita perceived as property, not autonomous person
 
-**Ocena platform 2025:**
-- **Facebook/Meta (🔴 HIGH):** Po zmianach 2025 dozwolone nazywanie kobiet "household objects" - nieprzewidywalne moderowanie
-- **Instagram (🔴 HIGH):** Identyczne zasady jak Facebook
-- **YouTube (🟡 EDIT):** Bezpieczne z kontekstem edukacyjnym i human narration
-- **TikTok (🟡 EDIT):** Wymagane min. 1 minuta + educational framing
-- **Spotify (✅ OK):** Creator-friendly, dozwolone z educational commentary
-- **Kick (✅ OK):** Najmniej restrykcyjne zasady
+**2025 Platform Assessment:**
+- **Facebook/Meta (🔴 HIGH):** After 2025 changes allowing calling women "household objects" - unpredictable moderation
+- **Instagram (🔴 HIGH):** Identical rules as Facebook
+- **YouTube (🟡 EDIT):** Safe with educational context and human narration
+- **TikTok (🟡 EDIT):** Requires min. 1 minute + educational framing
+- **Spotify (✅ OK):** Creator-friendly, allowed with educational commentary
+- **Kick (✅ OK):** Least restrictive policies
 
-**Rekomendacje:**
-- **Meta/Instagram:** UNIKAJ bezpośrednich odniesień do kontroli/test ognia
-- **YouTube/TikTok:** Zawsze dodawaj kontekst "historical context, not modern values"
-- **Spotify/Kick:** Możliwość pełnej analizy krytycznej
+**Recommendations:**
+- **Meta/Instagram:** AVOID direct references to control/fire test
+- **YouTube/TikTok:** Always add context "historical context, not modern values"
+- **Spotify/Kick:** Full critical analysis possible
 
-### 2.2 DYSKRYMINACJA KASTOWA 🔴/🟡 WYSOKIE RYZYKO
+### 2.2 CASTE DISCRIMINATION 🔴/🟡 HIGH RISK
 
-**Problematyczne elementy:**
-- Epizod Sambuki - zabicie ascety z kasty Sudra za wykonywanie pokut
-- Odwołania do hierarchii społecznych opartych na pochodzeniu
-- Współczesna instrumentalizacja przez politykę tożsamości
+**Problematic elements:**
+- Sambuka episode - killing of Sudra caste ascetic for performing penance
+- References to social hierarchies based on birth
+- Contemporary instrumentalization by identity politics
 
-**Ocena platform:**
-- **Facebook/Meta (🔴 HIGH):** Wysokie ryzyko - algorytm może interpretować jako hate speech
-- **YouTube (🟡 EDIT):** Bezpieczne z educational disclaimer
-- **TikTok (🟡 EDIT):** Wymagane careful framing jako historical criticism
-- **Spotify/Kick (✅ OK):** Możliwość krytycznej analizy
+**Platform Assessment:**
+- **Facebook/Meta (🔴 HIGH):** High risk - algorithm may interpret as hate speech
+- **YouTube (🟡 EDIT):** Safe with educational disclaimer
+- **TikTok (🟡 EDIT):** Requires careful framing as historical criticism
+- **Spotify/Kick (✅ OK):** Critical analysis possible
 
-**Rekomendacje:**
-- Zawsze podkreślaj że są to "przestarzałe systemy społeczne"
-- Użyj framing "what we can learn about equality today"
-- NIGDY nie prezentuj systemu kastowego jako pozytywnego
+**Recommendations:**
+- Always emphasize these are "outdated social systems"
+- Use framing "what we can learn about equality today"
+- NEVER present caste system as positive
 
-### 2.3 WSPÓŁCZESNE KONTROWERSJE POLITYCZNE 🔴 MAKSYMALNE RYZYKO
+### 2.3 CONTEMPORARY POLITICAL CONTROVERSIES 🔴 MAXIMUM RISK
 
-**Problematyczne elementy z researchu:**
-- RSS i BJP używają Ramajany do nacjonalizmu hinduskiego
-- Rozbiórka Babri Masjid w Ayodhya (1992)
-- Ram Mandir jako symbol polityczny (2024)
-- Konflikty międzyreligijne
+**Problematic elements from research:**
+- RSS and BJP use Ramayana for Hindu nationalism
+- Babri Masjid demolition in Ayodhya (1992)
+- Ram Mandir as political symbol (2024)
+- Interreligious conflicts
 
-**Ocena ALL PLATFORMS (🔴 HIGH RISK):**
-- Meta platforms = automated flagging dla India-Pakistan content
-- Wszystkie platformy = high sensitivity wo religious-political tensions
+**ALL PLATFORMS Assessment (🔴 HIGH RISK):**
+- Meta platforms = automated flagging for India-Pakistan content
+- All platforms = high sensitivity to religious-political tensions
 
-**Rekomendacje:**
-- **CAŁKOWICIE UNIKAJ** odniesień do Ayodhya dispute
-- **NIE WSPOMINAJ** współczesnych konfliktów religijnych
-- Focus na "uniwersalnych wartościach," nie religious specifics
-- Frame jako "ancient literature," nie religious doctrine
+**Recommendations:**
+- **COMPLETELY AVOID** references to Ayodhya dispute
+- **DON'T MENTION** contemporary religious conflicts
+- Focus on "universal values," not religious specifics
+- Frame as "ancient literature," not religious doctrine
 
-### 2.4 AI CONTENT i AUTENTYCZNOŚĆ 🟡 ROSNĄCE RYZYKO
+### 2.4 AI CONTENT AND AUTHENTICITY 🟡 GROWING RISK
 
-**Specyficzne zagrożenia dla Ramajany:**
-- Text-to-speech narracja = demonetyzacja na YouTube
-- AI-generated visuals wymagają labeling na TikTok
-- Mass-produced content o multiple books = Spotify fraud flagging
+**Specific threats for Ramayana:**
+- Text-to-speech narration = demonetization on YouTube
+- AI-generated visuals require labeling on TikTok
+- Mass-produced content about multiple books = Spotify fraud flagging
 
 **Platform-specific guidelines:**
-- **YouTube:** WYMAGANA human narration dla monetyzacji
-- **TikTok:** Obowiązkowe AI content labeling
-- **Spotify:** Unikaj mass-production identical formats
+- **YouTube:** REQUIRED human narration for monetization
+- **TikTok:** Mandatory AI content labeling
+- **Spotify:** Avoid mass-production identical formats
 
 ---
 
-## 3. KLASYFIKACJA WIEKOWA
+## 3. AGE CLASSIFICATION
 
 ### 3.1 AGE RATINGS PER PLATFORM
 
-#### 13+ CONTENT (Bezpieczne wszystkie platformy):
-- **Bohaterska podróż Ramy** - uniwersalne valores
-- **Przyjaźń Hanuman-Rama** - lojalność i oddanie  
-- **Przywództwo i odpowiedzialność**
-- **Wyzwania i przezwyciężanie trudności**
-- **Znaczenie kulturowe w Azji Południowo-Wschodniej**
+#### 13+ CONTENT (Safe all platforms):
+- **Rama's heroic journey** - universal values
+- **Hanuman-Rama friendship** - loyalty and devotion
+- **Leadership and responsibility**
+- **Challenges and overcoming difficulties**
+- **Cultural significance in Southeast Asia**
 
 #### 16+ CONTENT (Age-restrict recommended):
-- **Dylematy moralne** - złożone decyzje etyczne
-- **Test ognia Sity** - z kontekstem krytycznym
-- **Walka Rama-Ravana** - przemoc w kontekście epickim
-- **Wygnanie z Ayodhya** - family dysfunction
+- **Moral dilemmas** - complex ethical decisions
+- **Sita's fire test** - with critical context
+- **Rama-Ravana battle** - violence in epic context
+- **Exile from Ayodhya** - family dysfunction
 
 #### 18+ CONTENT (Adult audience only):
-- **Analiza mizoginii** - feministyczne interpretacje
-- **Epizod Sambuki** - dyskryminacja kastowa
-- **Współczesna instrumentalizacja polityczna**
-- **Krytyka patriarchalnych struktur**
+- **Misogyny analysis** - feminist interpretations
+- **Sambuka episode** - caste discrimination
+- **Contemporary political instrumentalization**
+- **Critique of patriarchal structures**
 
 ---
 
-## 4. CONTENT WARNINGS DLA SŁUCHACZY
+## 4. CONTENT WARNINGS FOR LISTENERS
 
-### 4.1 OBLIGATORYJNE WARNINGS
+### 4.1 MANDATORY WARNINGS
 
-#### Na początku audio:
-> "**Content Warning:** Ta opowieść pochodzi z V wieku przed naszą erą i zawiera elementy społecznych norm tamtego okresu, które dziś uznajemy za problematyczne, w tym nierówności płci i systemy hierarchiczne. Prezentujemy ją w kontekście historyczno-literackim dla celów edukacyjnych."
+#### At audio beginning:
+> "**Content Warning:** This story originates from the 5th century BC and contains elements of social norms from that period which we now recognize as problematic, including gender inequality and hierarchical systems. We present it in historical-literary context for educational purposes."
 
-#### Dla specific segments:
+#### For specific segments:
 
-**Episode o Teście Ognia:**
-> "**Uwaga:** Następny segment opisuje przymusowe 'testowanie' kobiety przez partnera - zachowanie które dziś uznajemy za formę przemocy domowej. Prezentujemy to jako przykład przestarzałych wzorców, nie współczesnych wartości."
+**Fire Test Episode:**
+> "**Warning:** The following segment describes forced 'testing' of a woman by her partner - behavior we now recognize as a form of domestic violence. We present this as an example of outdated patterns, not contemporary values."
 
-**Episode o Sambuce:**
-> "**Content Warning:** Ten segment zawiera elementy dyskryminacji społecznej i przemocy motywowanej pochodzeniem - systemy które dziś potępiamy. Analizujemy je jako historyczny przykład niesprawiedliwości."
+**Sambuka Episode:**
+> "**Content Warning:** This segment contains elements of social discrimination and violence motivated by origin - systems we condemn today. We analyze them as historical examples of injustice."
 
-### 4.2 POZYTYWNE FRAMOWANIE
+### 4.2 POSITIVE FRAMING
 
-#### Po każdym problematycznym segmencie:
-> "**Co możemy wyciągnąć dla współczesności:** [Konkretne lekcje o równości, szacunku, healthowych relacjach]"
+#### After each problematic segment:
+> "**What we can learn for today:** [Specific lessons about equality, respect, healthy relationships]"
 
-#### Przykłady positive takeaways:
-- Z Sity → siła w adversity, importance autonomii
-- Z Hanumana → loyalność without blind obedience  
-- Z Ramy → leadership through service, nie dominacja
-- Z Ravany → dangers ego i unchecked power
+#### Examples of positive takeaways:
+- From Sita → strength in adversity, importance of autonomy
+- From Hanuman → loyalty without blind obedience
+- From Rama → leadership through service, not dominance
+- From Ravana → dangers of ego and unchecked power
 
 ---
 
-## 5. REKOMENDACJE PER PLATFORMA
+## 5. PLATFORM-SPECIFIC RECOMMENDATIONS
 
 ### 5.1 FACEBOOK/INSTAGRAM 🔴 EXTREME CAUTION
 
 **RECOMMENDED APPROACH:**
-- **Focus na positive lessons** - przywództwo, przyjaźń, odwaga
-- **UNIKAJ completely:**
+- **Focus on positive lessons** - leadership, friendship, courage
+- **COMPLETELY AVOID:**
   - Gender dynamics Rama-Sita
-  - Test ognia
+  - Fire test
   - Contemporary political references
   - Caste system discussions
 
 **SAFE TOPICS:**
-- "5 leadership lessons z Ramajany"
-- "Hanuman jako wzór lojalności"  
-- "Kulturowy wpływ na Azję"
-- "Literatura porównawcza"
+- "5 leadership lessons from Ramayana"
+- "Hanuman as model of loyalty"
+- "Cultural impact on Asia"
+- "Comparative literature"
 
 ### 5.2 YOUTUBE ✅ RECOMMENDED PLATFORM
 
 **BEST PRACTICES:**
 - **Human narration** - no text-to-speech
-- **Educational framing** dla sensitive topics
-- **Add context** przed każdym problematycznym segmentem
+- **Educational framing** for sensitive topics
+- **Add context** before each problematic segment
 - **Storytelling approach** - personal commentary dominates
 
 **CONTENT STRATEGY:**
-- "Ramajana explained: What we can learn today"
+- "Ramayana explained: What we can learn today"
 - "Ancient wisdom, modern lessons"
-- "Kulturowy fenomen przez 2500 lat"
+- "Cultural phenomenon through 2500 years"
 - Include scholarly sources + feminist perspectives
 
 ### 5.3 TIKTOK ⚠️ REQUIRES CAREFUL APPROACH
 
 **CRITICAL REQUIREMENTS:**
-- **Minimum 1+ minuta** dla monetization
+- **Minimum 1+ minute** for monetization
 - **Educational framing** for all content
 - **No duets/stitches** with controversial interpretations
-- **Clear context** w description
+- **Clear context** in description
 
 **RECOMMENDED FORMAT:**
 - "What ancient literature teaches modern relationships"
-- "Red flags we can spot in 2500-year-old story"  
+- "Red flags we can spot in 2500-year-old story"
 - "Why this epic is still relevant today"
 
 ### 5.4 SPOTIFY ✅ HIGHEST RECOMMENDED
@@ -211,12 +211,12 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 
 **OPTIMAL STRATEGY:**
 - Full critical analysis possible
-- Address controversies head-on z context
+- Address controversies head-on with context
 - Include feminist interpretations
 - Multi-episode series format
 
 **BEST FORMAT:**
-- "Ramajana Unpacked: Ancient Story, Modern Lessons"
+- "Ramayana Unpacked: Ancient Story, Modern Lessons"
 - Each episode = one major theme/controversy
 - Include guest expert perspectives
 
@@ -241,19 +241,19 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 ### 6.1 UNIVERSAL GUIDELINES (All Platforms)
 
 #### DO:
-✅ **Start with historical context** - "This story is 2500 years old..."  
-✅ **Use scholarly sources** - cite feminist researchers, academic studies  
-✅ **Include diverse perspectives** - traditional AND critical interpretations  
-✅ **Frame educationally** - "What can we learn..." approach  
-✅ **Add positive takeaways** - modern lessons from ancient wisdom  
-✅ **Use content warnings** - prepare audience dla difficult topics
+✅ **Start with historical context** - "This story is 2500 years old..."
+✅ **Use scholarly sources** - cite feminist researchers, academic studies
+✅ **Include diverse perspectives** - traditional AND critical interpretations
+✅ **Frame educationally** - "What can we learn..." approach
+✅ **Add positive takeaways** - modern lessons from ancient wisdom
+✅ **Use content warnings** - prepare audience for difficult topics
 
 #### DON'T:
-❌ **Present problematic elements** bez krytycznego komentarza  
-❌ **Use text-to-speech** - especially on YouTube  
-❌ **Mass-produce content** - każda platforma penalizuje  
-❌ **Reference contemporary politics** - especially India-Pakistan tensions  
-❌ **Glorify patriarchal elements** - always provide modern context  
+❌ **Present problematic elements** without critical commentary
+❌ **Use text-to-speech** - especially on YouTube
+❌ **Mass-produce content** - each platform penalizes
+❌ **Reference contemporary politics** - especially India-Pakistan tensions
+❌ **Glorify patriarchal elements** - always provide modern context
 ❌ **Copy other creators** - originality required everywhere
 
 ### 6.2 TECHNICAL COMPLIANCE
@@ -265,52 +265,52 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 - **Meta:** Static images OK, positive messaging, no controversial angles
 
 #### Copyright Considerations:
-- **No audiobook excerpts** bez permission (all platforms)
+- **No audiobook excerpts** without permission (all platforms)
 - **Short quotes** with commentary = fair use
-- **Original music** lub licensed tracks tylko
-- **AI content labeling** gdzie wymagane
+- **Original music** or licensed tracks only
+- **AI content labeling** where required
 
 ---
 
-## 7. ALTERNATIVE APPROACHES DLA RÓŻNYCH AUDIENCES
+## 7. ALTERNATIVE APPROACHES FOR DIFFERENT AUDIENCES
 
 ### 7.1 FOR YOUNG ADULT AUDIENCE (16-25)
 
-**Focus na:**
-- Red flags w relationships (Rama-Sita dynamics)
-- Mental health lessons (exile, trauma recovery)  
-- Leadership w adversity (Rama's challenges)
+**Focus on:**
+- Red flags in relationships (Rama-Sita dynamics)
+- Mental health lessons (exile, trauma recovery)
+- Leadership in adversity (Rama's challenges)
 - Toxic friendship patterns (Manthara)
 
 **Platform fit:** TikTok, Instagram, YouTube Shorts
 
 ### 7.2 FOR EDUCATIONAL AUDIENCE (Teachers, Students)
 
-**Focus na:**
-- Literary innovations Walmikiego
-- Cultural transmission w Azji Południowo-Wschodniej
+**Focus on:**
+- Literary innovations of Valmiki
+- Cultural transmission in Southeast Asia
 - Comparative mythology (similarities to Western epics)
-- Historical context rozwoju eposu
+- Historical context of epic development
 
 **Platform fit:** YouTube long-form, Spotify, academic podcasts
 
 ### 7.3 FOR WELLNESS/THERAPY AUDIENCE
 
-**Focus na:**
-- Ramajana jako narrative therapy tool
+**Focus on:**
+- Ramayana as narrative therapy tool
 - Archetypal psychology (Jung's interpretations)
-- Relationship patterns recognition
+- Relationship pattern recognition
 - Resilience building through ancient wisdom
 
 **Platform fit:** Spotify, YouTube wellness channels, Instagram therapy accounts
 
 ### 7.4 FOR CULTURAL/HERITAGE AUDIENCE
 
-**Focus na:**
+**Focus on:**
 - Different regional versions comparison
-- Celebration różnorodności interpretacji
+- Celebrating diversity of interpretations
 - Family tradition passing down
-- Positive aspects traditional values (z modern updates)
+- Positive aspects of traditional values (with modern updates)
 
 **Platform fit:** Facebook groups, Instagram cultural accounts, family-oriented YouTube
 
@@ -322,13 +322,13 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 
 #### Most likely conflicts:
 1. **Religious offense** - Hindu traditionalists vs feminist interpretations
-2. **Political weaponization** - use w India-Pakistan tensions
-3. **Academic criticism** - scholars disputing interpretations  
+2. **Political weaponization** - use in India-Pakistan tensions
+3. **Academic criticism** - scholars disputing interpretations
 4. **Cultural appropriation** - non-Hindu creators discussing Hindu texts
 
 #### Response strategy:
 1. **Acknowledge different perspectives** - "Many interpretations exist..."
-2. **Cite academic sources** - show research-based approach  
+2. **Cite academic sources** - show research-based approach
 3. **Emphasize universal lessons** - not promoting any religion
 4. **Welcome respectful dialogue** - but remove hate speech
 
@@ -340,7 +340,7 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 - Provide academic source citations
 - Consider appealing through partnership contacts
 
-**If demonetized on YouTube:**  
+**If demonetized on YouTube:**
 - Check for "inauthentic content" flags
 - Ensure human narration prominent
 - Add more original commentary
@@ -350,40 +350,40 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 - Document educational nature
 - Gather community support letters
 - Cite academic credentials
-- Consider legal consultation dla systematic targeting
+- Consider legal consultation for systematic targeting
 
 ---
 
-## 9. SUCCESS METRICS I KPIs
+## 9. SUCCESS METRICS AND KPIs
 
 ### 9.1 ENGAGEMENT QUALITY INDICATORS
 
 #### Positive signs:
 - Comments asking thoughtful questions
-- Shares w educational contexts
+- Shares in educational contexts
 - Cross-platform discussions starting
-- Academic citations w papers/thesis
+- Academic citations in papers/thesis
 - Invitations to speak at cultural events
 
 #### Warning signs:
 - Hate comments about specific groups
 - Political hashtags unrelated to content
 - Mass reporting from organized groups
-- Misleading sharing bez context
-- Commercial spam w comments
+- Misleading sharing without context
+- Commercial spam in comments
 
 ### 9.2 PLATFORM-SPECIFIC SUCCESS METRICS
 
 **YouTube:**
 - Watch time completion rate >50%
 - Comments-to-view ratio >1%
-- Educational keywords w comments
+- Educational keywords in comments
 - Subscribers from educational channels
 
 **TikTok:**
 - 1+ minute videos averaging 60%+ completion
 - Saves and shares for "educational" content
-- Comments asking dla more analysis
+- Comments asking for more analysis
 - Cross-platform creator engagement
 
 **Spotify:**
@@ -399,64 +399,64 @@ Ramajana Walmikiego stanowi szczególne wyzwanie dla content policy platform spo
 ### 10.1 PRE-PUBLICATION CHECKLIST
 
 #### Content Review:
-- [ ] **Historical context provided** dla wszystkie controversial elements
-- [ ] **Content warnings** dla sensitive topics
-- [ ] **Positive takeaways** included po każdym difficult segment
-- [ ] **Academic sources cited** dla interpretations
+- [ ] **Historical context provided** for all controversial elements
+- [ ] **Content warnings** for sensitive topics
+- [ ] **Positive takeaways** included after each difficult segment
+- [ ] **Academic sources cited** for interpretations
 - [ ] **Multiple perspectives** represented (traditional + critical)
 - [ ] **Modern relevance explained** clearly
 - [ ] **NO contemporary political references** included
 
 #### Technical Compliance:
-- [ ] **Human narration** na YouTube content
-- [ ] **AI content labeled** gdzie required
-- [ ] **Original visuals** lub properly licensed
-- [ ] **No copyrighted music** bez licenses  
+- [ ] **Human narration** on YouTube content
+- [ ] **AI content labeled** where required
+- [ ] **Original visuals** or properly licensed
+- [ ] **No copyrighted music** without licenses
 - [ ] **Platform-specific format requirements** met
-- [ ] **Monetization policies** reviewed dla each platform
+- [ ] **Monetization policies** reviewed for each platform
 - [ ] **Cross-platform consistency** maintained
 
 #### Risk Assessment:
-- [ ] **Target age group** appropriate dla content level
+- [ ] **Target age group** appropriate for content level
 - [ ] **Cultural sensitivity** reviewed by diverse team
-- [ ] **Legal implications** considered dla each market
+- [ ] **Legal implications** considered for each market
 - [ ] **Community guidelines** triple-checked for each platform
 - [ ] **Crisis response plan** prepared
-- [ ] **Academic backup** available dla controversial interpretations
+- [ ] **Academic backup** available for controversial interpretations
 
 ### 10.2 POST-PUBLICATION MONITORING
 
 #### First 48 hours:
-- Monitor dla automated flags/removals
-- Track comment sentiment analysis  
-- Check dla coordinated reporting campaigns
+- Monitor for automated flags/removals
+- Track comment sentiment analysis
+- Check for coordinated reporting campaigns
 - Respond professionally to legitimate concerns
 - Document any platform actions taken
 
 #### Ongoing (weekly):
-- Review analytics dla engagement patterns
-- Monitor discussions w related communities
+- Review analytics for engagement patterns
+- Monitor discussions in related communities
 - Track academic citations or educational use
-- Adjust strategy based na platform feedback
+- Adjust strategy based on platform feedback
 - Plan follow-up content addressing questions
 
 ---
 
-## PODSUMOWANIE: STRATEGIA PUBLIKACJI
+## SUMMARY: PUBLICATION STRATEGY
 
 ### RECOMMENDED PLATFORM PRIORITY ORDER:
 
-1. **SPOTIFY** (✅ **HIGHEST SAFETY**) - Pełna analiza możliwa, video format, wysokie zarobki
-2. **KICK** (✅ **MAXIMUM FREEDOM**) - Najmniej ograniczeń, interactive format
-3. **YOUTUBE** (🟡 **MEDIUM RISK**) - Dobra dla education, wymaga human narration
-4. **TIKTOK** (🟡 **CAREFUL APPROACH**) - Tylko long-form, educational framing
+1. **SPOTIFY** (✅ **HIGHEST SAFETY**) - Full analysis possible, video format, high earnings
+2. **KICK** (✅ **MAXIMUM FREEDOM**) - Fewest restrictions, interactive format
+3. **YOUTUBE** (🟡 **MEDIUM RISK**) - Good for education, requires human narration
+4. **TIKTOK** (🟡 **CAREFUL APPROACH**) - Only long-form, educational framing
 5. **META PLATFORMS** (🔴 **HIGH RISK**) - Extreme caution, omit controversial topics
 
 ### KEY TAKEAWAY:
-Ramajana jako content oferuje **ogromny potencjał edukacyjny**, ale wymaga **sophisticated approach** do content creation w 2025. Kluczowe jest **balance między akademicką integrity a platform safety**, z constant emphasis na **modern lessons** zamiast gloryfikacji przestarzałych wzorców społecznych.
+Ramayana as content offers **enormous educational potential**, but requires **sophisticated approach** to content creation in 2025. Key is **balance between academic integrity and platform safety**, with constant emphasis on **modern lessons** instead of glorifying outdated social patterns.
 
-**Success formula:** Historical context + Content warnings + Critical analysis + Modern relevance + Platform-specific optimization = Bezpieczna i educational presentation starożytnego arcydzieła dla współczesnej publiczności.
+**Success formula:** Historical context + Content warnings + Critical analysis + Modern relevance + Platform-specific optimization = Safe and educational presentation of ancient masterpiece for contemporary audience.
 
 ---
 
-*Dokument przygotowany na podstawie comprehensive analysis 8 specialized research documents oraz current platform policies z września 2025.*
+*Document prepared based on comprehensive analysis of 8 specialized research documents and current platform policies from September 2025.*

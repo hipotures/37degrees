@@ -1,118 +1,118 @@
-# Badania Lokalnego Kontekstu Kulturowego: "Książę" Niccolò Machiavellego
+# Local Cultural Context Research: "The Prince" by Niccolò Machiavelli
 
-## Historia Publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze Polskie Tłumaczenia
-1. **Antoni Sozański (1868)** - Pierwsze drukowane polskie tłumaczenie "Księcia" pojawiło się dopiero w 1868 roku, autorstwa Antoniego Sozańskiego. Tłumacz był wyraźnie kierowany intencją rehabilitacji Florentczyka i jego dzieł w oczach polskiego czytelnika, aby mógł skorzystać z jego rad w walce o niepodległość. Wydanie opublikowane przez Drukarnię Uniwersytetu Jagiellońskiego w Krakowie.
+### First Polish Translations
+1. **Antoni Sozański (1868)** - The first printed Polish translation of "The Prince" appeared only in 1868, authored by Antoni Sozański. The translator was clearly guided by the intention to rehabilitate the Florentine and his works in the eyes of Polish readers, so they could benefit from his advice in the struggle for independence. Edition published by the Jagiellonian University Press in Krakow.
 
-2. **Wincenty Rzymowski (1917)** - Autor kolejnego tłumaczenia "Księcia" z 1917 roku przyjął podobną postawę. Widać, że starał się złagodzić skutki "czarnej legendy" Machiavellego, postrzeganego jako nauczyciela dwulicowości i podstępu.
+2. **Wincenty Rzymowski (1917)** - The author of the next translation of "The Prince" from 1917 adopted a similar stance. It is evident that he tried to mitigate the effects of Machiavelli's "black legend," perceived as a teacher of duplicity and deceit.
 
-3. **Czesław Nanke (1920)** - Tłumacz, który przetłumaczył "Księcia" trzy lata później. Jego polskie tłumaczenie ściśle odzwierciedla oryginał, dążąc do obiektywizmu w przedstawieniu doktryny Machiavellego kosztem ideologizowania.
+3. **Czesław Nanke (1920)** - The translator who translated "The Prince" three years later. His Polish translation closely reflects the original, striving for objectivity in presenting Machiavelli's doctrine at the cost of ideologizing.
 
-4. **Anna Klimkiewicz (2005)** - Przyciągnęła traktat w 2005 roku z zamiarem przetłumaczenia go nie ze względu na jego praktyczny wymiar, ale ze względu na jego znaczenie dla myśli europejskiej. Wydanie Kraków: Zielona Sowa.
+4. **Anna Klimkiewicz (2005)** - Approached the treatise in 2005 with the intention of translating it not because of its practical dimension, but because of its significance for European thought. Edition Krakow: Zielona Sowa.
 
-5. **Zdzisław Płoski (2010)** - Najnowsze pośrednie tłumaczenie z języka angielskiego (2010) to takie, w którym tłumacz - Zdzisław Płoski - dokonuje przesunięcia ze sfery pisarstwa politycznego do biznesu. Jego "Książę" to przewodnik po tym, jak sprawować kontrolę rozumianą bardziej jako zarządzanie korporacją niż państwem. Tytuł: "Książę: Cel uświęca środki", Gliwice: Onepress.
+5. **Zdzisław Płoski (2010)** - The latest indirect translation from English (2010) is one in which the translator - Zdzisław Płoski - shifts from the sphere of political writing to business. His "Prince" is a guide on how to exercise control understood more as managing a corporation than a state. Title: "The Prince: The End Justifies the Means," Gliwice: Onepress.
 
-## Polscy Badacze i Akademiccy Interpretatorzy
+## Polish Researchers and Academic Interpreters
 
-### Kluczowi Badacze
-- **Igor Kąkolewski** (Instytut Historii UW) - Prowadzi badania nad Machiavellim, argumentując, że popularne interpretacje często zniekształcają idee filozofa i reprezentują interpretacje fragmentów, które wydają się szczególnie aktualne w danych epokach.
+### Key Researchers
+- **Igor Kąkolewski** (Institute of History, University of Warsaw) - Conducts research on Machiavelli, arguing that popular interpretations often distort the philosopher's ideas and represent interpretations of fragments that seem particularly relevant in given epochs.
 
-- **Uniwersytet Mikołaja Kopernika w Toruniu** - W Katedrze Historii Doktryn Polityczno-Prawnych i Prawa Niemieckiego na Wydziale Prawa i Administracji prowadzone są badania, w tym monografie na temat filozofii politycznej Machiavellego.
+- **Nicolaus Copernicus University in Toruń** - Research is conducted at the Department of History of Political-Legal Doctrines and German Law at the Faculty of Law and Administration, including monographs on Machiavelli's political philosophy.
 
-### Badania Akademickie
-- Polscy komparatyści dotychczas nie podjęli badań nad tłumaczeniami. Takie kluczowe kategorie dla myśli Machiavellego jak **virtù**, **fortuna** i **occasione** nie zostały jeszcze przedyskutowane.
-- Recepcja "Księcia" przez Machiavellego w Polsce była sprawą nie tylko złożoną, ale przede wszystkim obciążoną stereotypami. Badały ją: Ulewicz, Barycz, Grzybowski, Malarczyk i Tygielski.
+### Academic Research
+- Polish comparatists have not yet undertaken research on translations. Such key categories for Machiavelli's thought as **virtù**, **fortuna** and **occasione** have not yet been discussed.
+- The reception of "The Prince" by Machiavelli in Poland was not only complex, but primarily burdened with stereotypes. It was studied by: Ulewicz, Barycz, Grzybowski, Malarczyk and Tygielski.
 
-## Kontekst Edukacyjny - Szkolny i Maturalny
+## Educational Context - School and Matriculation
 
-### Obecność w Kanonie Szkolnym
-- **Lektury maturalne**: Machiavelli pojawia się w kontekście polskiej literatury jako źródło motta w dziele Mickiewicza: "Motto zaczerpnął z Machiavellego: Macie bowiem wiedzieć, że są dwa sposoby walczenia. Trzeba być lisem i lwem."
+### Presence in School Canon
+- **Matriculation readings**: Machiavelli appears in the context of Polish literature as a source of motto in Mickiewicz's work: "The motto was taken from Machiavelli: You must know that there are two ways of fighting. One must be a fox and a lion."
 
-- **Definicja makiawelizmu**: W kontekście edukacyjnym makiawelizm definiowany jest jako "doktryna polityczna skupiająca ogół poglądów Machiavelliego na państwo, sposoby jego zarządzania i postępowania polityków", którą "można ją ogólnikowo dobrze opisać hasłem 'Cel uświęca środki'".
+- **Definition of Machiavellianism**: In the educational context, Machiavellianism is defined as "a political doctrine encompassing all of Machiavelli's views on the state, methods of its management and politicians' behavior," which "can be generally well described by the slogan 'The end justifies the means'."
 
-### Materiały Edukacyjne
-- Dzieło dostępne na platformie Wolne Lektury jako darmowa książka dla uczniów
-- Polskie podręczniki i materiały e-textbook opisują go jako "czołowego włoskiego myśliciela społecznego i politycznego epoki Odrodzenia" i "uznawane za założyciela współczesnych nauk politycznych"
+### Educational Materials
+- The work is available on the Wolne Lektury platform as a free book for students
+- Polish textbooks and e-textbook materials describe him as "a leading Italian social and political thinker of the Renaissance" and "considered the founder of modern political science"
 
-## Adaptacje Teatralne i Kulturowe
+## Theatrical and Cultural Adaptations
 
-### "Machia" - Spektakl Juliusza Machulskiego
-- **Reżyseria i scenariusz**: Juliusz Machulski napisał i wyreżyserował sztukę o życiu Niccolò Machiavellego. Premiera odbyła się 4 maja w Teatrze Starym w Lublinie.
-- **Koncepcja**: Machulski wyjaśnił, że "Machiavelli to postać, o której wciąż mało wiemy, mimo że chętnie używamy terminu makiawelizm odnoszący się do jego filozofii. To będzie sztuka nie tylko o tym, jak zdobywać i utrzymywać władzę, ale także o jego życiu prywatnym."
-- **Obsada**: W głównej roli Machiavellego wystąpił Adam Ferency, który mówił: "Interesuje mnie jego błyskotliwa inteligencja. Dość uważnie obserwował polityków swoich czasów i wyciągał wnioski o tym, jak być skutecznym politykiem."
-- **Realizm spektaklu**: Reżyser podkreślił, że spektakl o Machiavellim nie będzie komedią, a z jego biografii starał się wydobyć to, co jest aktualne do dziś, zauważając, że "Machiavelli opisał mechanizmy psychologiczne, które są niezmienne."
+### "Machia" - Juliusz Machulski's Performance
+- **Direction and screenplay**: Juliusz Machulski wrote and directed a play about the life of Niccolò Machiavelli. The premiere took place on May 4th at the Old Theater in Lublin.
+- **Concept**: Machulski explained that "Machiavelli is a figure about whom we still know little, despite our willingness to use the term Machiavellianism referring to his philosophy. This will be a play not only about how to gain and maintain power, but also about his private life."
+- **Cast**: Adam Ferency played the main role of Machiavelli, who said: "I'm interested in his brilliant intelligence. He observed politicians of his time quite carefully and drew conclusions about how to be an effective politician."
+- **Realism of the performance**: The director emphasized that the play about Machiavelli would not be a comedy, and from his biography he tried to extract what is relevant today, noting that "Machiavelli described psychological mechanisms that are unchanging."
 
-### Inne Adaptacje Teatralne
-- **Richard Vetere** - klasycznie skonstruowany dramat, który doskonale przekazuje myśli i poglądy wybitnego filozofa, gdzie losy Machiavellego splatają się z losami innych postaci historycznych.
+### Other Theatrical Adaptations
+- **Richard Vetere** - a classically constructed drama that perfectly conveys the thoughts and views of the outstanding philosopher, where Machiavelli's fate intertwines with the fates of other historical figures.
 
-## Współczesna Recepcja i Kultura Popularna
+## Contemporary Reception and Popular Culture
 
-### Polityka
-- "Aby zrozumieć polską politykę, warto się pochylić nad Machiavellim" - polską demokrację charakteryzuje podobny "polityczny sentymentalizm" jak w czasach Machiavellego.
-- Mickiewiczowska interpretacja: "Macie bowiem wiedzieć, że są dwa sposoby walki… trzeba być lisem i lwem" została utrwalona w polskiej kulturze.
+### Politics
+- "To understand Polish politics, it's worth leaning over Machiavelli" - Polish democracy is characterized by similar "political sentimentalism" as in Machiavelli's times.
+- Mickiewicz's interpretation: "You must know that there are two ways of fighting... one must be a fox and a lion" has been established in Polish culture.
 
-### Biznes i Zarządzanie
-- Świat opisywany przez Machiavellego "pod wieloma względami również współczesny biznes" przypomina.
-- W pracy Macha-Aslanidou udowodniono, że "wiele postulatów zawartych w Księciu przekłada się na skuteczne funkcjonowanie w świecie współczesnego biznesu."
-- Współcześnie "Księcia" postrzega się jako "wciąż aktualną lekcję, która kształtuje myślenie liderów na całym świecie."
+### Business and Management
+- The world described by Machiavelli "in many ways also resembles contemporary business."
+- In Macha-Aslanidou's work it was proven that "many postulates contained in The Prince translate into effective functioning in the world of contemporary business."
+- Contemporary "The Prince" is perceived as "a still relevant lesson that shapes the thinking of leaders around the world."
 
-### Popularne Cytaty i Memy
-- "Cel uświęca środki" - najczęściej cytowane polskie hasło związane z Machiavellim
-- "Ten, kto pragnie być idealnie dobrym i żyje wśród ludzi, którzy tacy nie są, zginie na pewno" - popularne w polskich zbiorach cytatów
-- Aktywna obecność w polskich memach filozoficznych i dyskusjach internetowych
+### Popular Quotes and Memes
+- "The end justifies the means" - the most frequently quoted Polish slogan associated with Machiavelli
+- "He who wishes to be perfectly good and lives among people who are not, will surely perish" - popular in Polish quote collections
+- Active presence in Polish philosophical memes and internet discussions
 
-## Problemy Tłumaczeniowe i Różnice Kulturowe
+## Translation Problems and Cultural Differences
 
-### Kluczowe Pojęcia Nieprzetłumaczalne
-1. **Virtù** - nie oznacza cnoty w klasycznym sensie, ale zbiór cech jednostkowych i grupowych, takich jak siła, umiejętność, aktywność, dyscyplina, odwaga. W polskich kontekstach opisywane jako kompleks skuteczności zarządczo-politycznej.
+### Key Untranslatable Concepts
+1. **Virtù** - does not mean virtue in the classical sense, but a set of individual and group characteristics, such as strength, skill, activity, discipline, courage. In Polish contexts described as a complex of managerial-political effectiveness.
 
-2. **Fortuna** - szczęście/los, który sprzyja zwykle ludziom śmiałym i odważnym, kultywującym cnoty obywatelskie.
+2. **Fortuna** - luck/fate, which usually favors bold and brave people, cultivating civic virtues.
 
-3. **Occasione** - okazja/sposobność, konfigurowana przez Machiavellego jako emanacja "fortuny". Pojęcie nie ma bezpośredniego polskiego odpowiednika.
+3. **Occasione** - opportunity/chance, configured by Machiavelli as an emanation of "fortuna." The concept has no direct Polish equivalent.
 
-### Ewolucja Interpretacji
-- **XIX wiek**: Tłumaczenia motywowane politycznie (walka o niepodległość)
-- **XX wiek**: Dążenie do obiektywizmu i naukowości
-- **XXI wiek**: Przesunięcie w kierunku zastosowań biznesowych i zarządczych
+### Evolution of Interpretation
+- **19th century**: Politically motivated translations (struggle for independence)
+- **20th century**: Striving for objectivity and scientific approach
+- **21st century**: Shift towards business and managerial applications
 
-## Lokalne Nawiązania i Easter Eggi dla Polskich Czytelników
+## Local References and Easter Eggs for Polish Readers
 
-### Historyczne Paralele
-- Walka o niepodległość Polski w XIX wieku jako kontekst dla pierwszych tłumaczeń
-- Porównania do polskich władców i polityków w komentarzach akademickich
-- Użycie przez Mickiewicza jako motta w "Konradzie Wallenrodzie"
+### Historical Parallels
+- Poland's struggle for independence in the 19th century as context for the first translations
+- Comparisons to Polish rulers and politicians in academic commentaries
+- Use by Mickiewicz as a motto in "Konrad Wallenrod"
 
-### Współczesne Odniesienia
-- Analizy polskiej polityki przez pryzmat teorii Machiavellego
-- Zastosowanie w biznesie jako alternatywa dla zachodnich modeli zarządzania
-- Obecność w polskich programach MBA i kursach zarządzania
+### Contemporary References
+- Analyses of Polish politics through the prism of Machiavelli's theory
+- Application in business as an alternative to Western management models
+- Presence in Polish MBA programs and management courses
 
-## Specyfika Polskiego Fan Community
+## Specificity of Polish Fan Community
 
-### Cyfrowa Obecność
-- Aktywne kolekcje cytatów na polskich stronach internetowych
-- Filozoficzne memy i dyskusje w mediach społecznościowych
-- Wykorzystanie w kontekście analiz politycznych w polskich mediach
+### Digital Presence
+- Active quote collections on Polish websites
+- Philosophical memes and discussions on social media
+- Use in the context of political analyses in Polish media
 
-### Edukacyjna Społeczność
-- Materiały pomocnicze dla maturzystów i studentów
-- Dyskusje akademickie w czasopismach naukowych
-- Wykorzystanie w kursach politologii i zarządzania
+### Educational Community
+- Support materials for high school graduates and students
+- Academic discussions in scientific journals
+- Use in political science and management courses
 
-## Różnice w Rozumieniu vs. Inne Kraje
+## Differences in Understanding vs. Other Countries
 
-### Polska Specyfika
-- Silne powiązanie z romantyzmem polskim (Mickiewicz)
-- Kontekst niepodległościowy i powstańczy w XIX wieku
-- Współczesne przesunięcie w kierunku biznesu i zarządzania
-- Brak głębszych badań komparatystycznych nad tłumaczeniami
+### Polish Specificity
+- Strong connection with Polish Romanticism (Mickiewicz)
+- Independence and uprising context in the 19th century
+- Contemporary shift towards business and management
+- Lack of deeper comparative research on translations
 
-### Luki Badawcze
-- Dotychczas tłumaczenia nie były przedmiotem badań wśród polskich komparatystów
-- Kluczowe kategorie myśli Machiavellego pozostają nie przedyskutowane w polskim kontekście
-- Potrzeba systematycznych badań nad recepcją i interpretacją w różnych epokach
+### Research Gaps
+- So far, translations have not been the subject of research among Polish comparatists
+- Key categories of Machiavelli's thought remain undiscussed in the Polish context
+- Need for systematic research on reception and interpretation in different epochs
 
 ---
 
-*Badania przeprowadzone na podstawie polskich źródeł akademickich, teatralnych, edukacyjnych i kulturowych, ze szczególnym uwzględnieniem specyfiki polskiej recepcji "Księcia" Machiavellego na przestrzeni wieków.*
+*Research conducted based on Polish academic, theatrical, educational and cultural sources, with particular emphasis on the specificity of Polish reception of Machiavelli's "The Prince" over the centuries.*

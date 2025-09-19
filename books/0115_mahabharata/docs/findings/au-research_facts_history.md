@@ -1,199 +1,199 @@
-# Historia powstania i fascynujące fakty o Mahabharacie
+# Creation History and Fascinating Facts about the Mahabharata
 
-## Podstawowe informacje
+## Basic Information
 
-**Tytuł**: Mahabharata  
-**Autor**: Vyasa (Krishna Dvaipayana)  
-**Okres powstania**: IV wiek p.n.e. - IV wiek n.e.  
-**Język**: Sanskrit  
-**Status**: Najdłuższy epos w historii literatury światowej  
-
----
-
-## Fakty o powstaniu i procesie twórczym
-
-### 1. Legenda o powstaniu
-**FAKT**: Zgodnie z tradycją hinduską, mędrze Vyasa (Krishna Dvaipayana) dyktował całą Mahabharatę bogowi Ganeszy, który służył jako boski skryba.
-
-**FAKT**: Ganesha postawił warunek - Vyasa musiał dyktować bez przerwy, bez zatrzymania się ani na chwilę. W zamian Vyasa zażądał, aby Ganesha pisał tylko po pełnym zrozumieniu każdego wersu.
-
-**PLOTKA**: Gdy pióro Ganeshy (wykonane z pióra pawia) się złamało podczas pisania, złamał sobie jeden kieł i kontynuował pisanie używając go jako pióra. To dlatego Ganesha jest przedstawiany z jednym złamanym kłem.
-
-### 2. Ewolucja tekstu
-**FAKT**: Mahabharata przeszła przez trzy fazy rozwoju: pierwotnie nazywała się "Jaya" (około 8 750 wersów), następnie "Bharata" (około 24 000 wersów), a ostatecznie "Mahabharata" (około 100 000 wersów).
-
-**FAKT**: Najwcześniejsze komponenty tekstu nie są starsze niż IV wiek p.n.e., co potwierdza odniesienie w gramatyce Paniniego "Ashtadhyayi" z IV wieku p.n.e.
-
-**FAKT**: Tekst osiągnął swoją obecną formę około 350-400 n.e., choć rdzeń eposu powstał znacznie wcześniej.
-
-### 3. Tradycja ustna i zapisanie
-**FAKT**: Przez setki lat Mahabharata była przekazywana wyłącznie ustnie przez wędrownych bardów (sutas) zanim została zapisana.
-
-**FAKT**: W przeciwieństwie do Wed, które musiały być zachowane dosłownie, Mahabharata była dziełem popularnym, którego recytatorzy inevitowaliśnie dostosowywali się do zmian w języku i stylu.
-
-**FAKT**: Pierwszy pełny przekład na język angielski został wykonany przez Kisari Mohan Ganguli między 1883 a 1896 rokiem w epoce wiktoriańskiej.
+**Title**: Mahabharata
+**Author**: Vyasa (Krishna Dvaipayana)
+**Period of Creation**: 4th century BC - 4th century AD
+**Language**: Sanskrit
+**Status**: The longest epic in world literature history
 
 ---
 
-## Statystyki i rekordy
+## Facts about Creation and Creative Process
 
-### 4. Niezwykłe rozmiary
-**FAKT**: Mahabharata składa się z około 100 000 śloków (wersów) lub ponad 200 000 indywidualnych linii.
+### 1. Legend of Origin
+**FACT**: According to Hindu tradition, the sage Vyasa (Krishna Dvaipayana) dictated the entire Mahabharata to the god Ganesha, who served as the divine scribe.
 
-**FAKT**: Całkowita długość wynosi około 1,8 miliona słów, co czyni ją najdłuższym eposem w historii literatury.
+**FACT**: Ganesha set a condition - Vyasa had to dictate continuously, without stopping even for a moment. In return, Vyasa demanded that Ganesha write only after fully understanding each verse.
 
-**FAKT**: Jest około 8 razy dłuższa od "Iliady" i "Odysei" Homera razem wziętych, i około 4 razy dłuższa od "Ramajany".
+**RUMOR**: When Ganesha's quill (made from a peacock feather) broke during writing, he broke off one of his tusks and continued writing using it as a pen. This is why Ganesha is depicted with one broken tusk.
 
-**FAKT**: Gdyby drukować standardową czcionką, zajęłaby około 3000 stron.
+### 2. Text Evolution
+**FACT**: The Mahabharata went through three phases of development: originally called "Jaya" (about 8,750 verses), then "Bharata" (about 24,000 verses), and finally "Mahabharata" (about 100,000 verses).
 
-### 5. Struktura i organizacja
-**FAKT**: Epos składa się z 18 ksiąg (parv), co ma znaczenie symboliczne w hinduizmie (18 dni bitwy na Kurukszetra, 18 rozdziałów Bhagavad Gity).
+**FACT**: The earliest components of the text are no older than the 4th century BC, confirmed by a reference in Panini's grammar "Ashtadhyayi" from the 4th century BC.
 
-**FAKT**: Zawiera słynne powiedzenie: "To, co można znaleźć tutaj, można znaleźć gdzie indziej, ale czego nie ma tutaj, nie można znaleźć nigdzie indziej".
+**FACT**: The text reached its present form around 350-400 AD, though the core of the epic was composed much earlier.
 
----
+### 3. Oral Tradition and Writing
+**FACT**: For hundreds of years, the Mahabharata was transmitted exclusively orally by wandering bards (sutas) before being written down.
 
-## Anegdoty i ciekawostki z procesu powstania
+**FACT**: Unlike the Vedas, which had to be preserved literally, the Mahabharata was a popular work whose reciters inevitably adapted to changes in language and style.
 
-### 6. Wielokulturowa tradycja
-**FAKT**: Vyasa, tradycyjny autor, był również postacią w samym eposie - fenomen meta-literacki rzadko spotykany w literaturze starożytnej.
-
-**PLOTKA**: Imię "Vyasa" oznacza "kompilator" w sanskrycie, co może sugerować, że to był tytuł dla wielu autorów, a nie imię pojedynczej osoby.
-
-### 7. Proces dyktowania
-**FAKT**: Według legendy, Vyasa dyktował 10 milionów wersów, z których tylko część została zachowana w obecnej wersji eposu.
-
-**FAKT**: Vyasa strategicznie wplatał skomplikowane wersy i filozoficzne koncepty wymagające kontemplacji, dając sobie czas na skomponowanie kolejnej części podczas gdy Ganesha rozważał znaczenie.
-
-### 8. Językowe innowacje
-**FAKT**: Sanskrit użyty w Mahabharacie jest znacznie prostszy niż język Wed, co czyniło epos bardziej dostępnym dla szerszej publiczności.
-
-**FAKT**: Tekst zawiera liczne dialogi i dramatyczne sceny, co sugeruje, że był przystosowany do publicznych recytacji.
+**FACT**: The first complete translation into English was done by Kisari Mohan Ganguli between 1883 and 1896 during the Victorian era.
 
 ---
 
-## Wpływ kulturowy i adaptacje
+## Statistics and Records
 
-### 9. Telewizyjne fenomeny
-**FAKT**: Serial B.R. Chopry "Mahabharat" z 1988 roku składał się z 94 odcinków i był emitowany w niedzielne poranki, wywierając ogromny wpływ na indyjską publiczność.
+### 4. Extraordinary Size
+**FACT**: The Mahabharata consists of about 100,000 shlokas (verses) or over 200,000 individual lines.
 
-**FAKT**: Podczas emisji serialu ulice Indii pustoszały - ludzie masowo zbierali się przed telewizorami, traktując oglądanie jako rytuał religijny.
+**FACT**: The total length is about 1.8 million words, making it the longest epic in literature history.
 
-### 10. Międzynarodowe adaptacje
-**FAKT**: Peter Brook stworzył teatralną adaptację Mahabharaty w 1985 roku, która trwała 9 godzin i była wystawiana na całym świecie przez 4 lata.
+**FACT**: It is about 8 times longer than Homer's "Iliad" and "Odyssey" combined, and about 4 times longer than the "Ramayana."
 
-**FAKT**: Filmowa wersja Brooka z 1989 roku trwała 6 godzin i wykorzystywała wielorasową obsadę 21 aktorów z 16 różnych krajów.
+**FACT**: If printed in standard font, it would occupy about 3,000 pages.
 
-**FAKT**: Mallika Sarabhai z Indii zagrała kluczową rolę Draupadi w produkcji Brooka, łącząc tradycyjne indyjskie techniki taneczne z międzynarodowym teatrem.
+### 5. Structure and Organization
+**FACT**: The epic consists of 18 books (parvas), which has symbolic significance in Hinduism (18 days of battle at Kurukshetra, 18 chapters of the Bhagavad Gita).
 
----
-
-## Bhagavad Gita - klejnot w eposie
-
-### 11. Filozoficzna perła
-**FAKT**: Bhagavad Gita, stanowiąca rozdziały 23-40 księgi VI Mahabharaty, została skomponowana prawdopodobnie w I lub II wieku n.e.
-
-**FAKT**: Dialog między Krishną a Ardżuną przed bitwą na Kurukszetra jest uważany za jeden z najważniejszych tekstów religijnych hinduizmu.
-
-**FAKT**: Mahatma Gandhi napisał komentarz do Bhagavad Gity i uważał ją za swój duchowy przewodnik.
-
-### 12. Nowoczesne zastosowania
-**FAKT**: Współczesni psycholodzy sugerują, że Bhagavad Gita zawiera jedną z najwcześniejszych udokumentowanych sesji terapii kognitywno-behawioralnej, gdzie Krishna pełni rolę terapeuty, a Ardżuna klienta.
-
-**FAKT**: Tekst jest studiowany nie tylko przez hinduistów, ale również przez dżinistów, sikhów i przedstawicieli innych tradycji religijnych.
+**FACT**: It contains the famous saying: "What can be found here can be found elsewhere, but what is not here cannot be found anywhere else."
 
 ---
 
-## Archeologiczne i historyczne poszlaki
+## Anecdotes and Curiosities from the Creation Process
 
-### 13. Kurukszetra - realne miejsce
-**FAKT**: Archaeological Survey of India kontynuuje wykopaliska w rejonie Kurukszetra, znajdując ślady starożytnych osiedli datowanych na okres Mahabharaty.
+### 6. Multicultural Tradition
+**FACT**: Vyasa, the traditional author, was also a character in the epic itself - a meta-literary phenomenon rarely seen in ancient literature.
 
-**FAKT**: Znaleziono garncarstwo, broń i inne artefakty sugerujące konflikty na dużą skalę w regionie.
+**RUMOR**: The name "Vyasa" means "compiler" in Sanskrit, which may suggest it was a title for multiple authors rather than the name of a single person.
 
-**PLOTKA**: Większość uczonych umieszcza wojnę na Kurukszetra między 3000-1000 p.n.e., przy czym niektórzy sugerują około 1400 p.n.e. na podstawie odniesień astronomicznych w eposie.
+### 7. Dictation Process
+**FACT**: According to legend, Vyasa dictated 10 million verses, of which only a portion was preserved in the current version of the epic.
 
-### 14. 18-dniowa bitwa - fakty czy symbol?
-**FAKT**: Podczas gdy Mahabharata opisuje 18-dniową bitwę, historycy debatują, czy reprezentuje to dosłowne dni, czy okresy symboliczne.
+**FACT**: Vyasa strategically wove complex verses and philosophical concepts requiring contemplation, giving himself time to compose the next part while Ganesha pondered the meaning.
 
-**FAKT**: Dowody archeologiczne sugerują raczej przedłużony konflikt w regionie niż pojedynczą koncentrowaną bitwę.
+### 8. Linguistic Innovations
+**FACT**: The Sanskrit used in the Mahabharata is much simpler than the language of the Vedas, making the epic more accessible to a broader audience.
 
----
-
-## Polskie związki i europejski wpływ
-
-### 15. Polskie przekłady
-**FAKT**: Barbara Mikołajewska, była profesor socjologii na Uniwersytecie Warszawskim, stworzyła polskie opracowania kilku ksiąg Mahabharaty (księgi I, II, III, IV i V).
-
-**FAKT**: W Polsce informacje o Mahabharacie są głównie zawarte w książkach skierowanych do specjalistów, a fragmenty bezpośrednich przekładów na język polski pozostają niezwykle rzadkie.
-
-### 16. Europejska recepcja
-**FAKT**: Pierwsze fragmenty i historie Mahabharaty były już szeroko znane w innych krajach europejskich, krążąc ze względu na sławę ich znaczenia i niezwykłego piękna.
-
-**FAKT**: Pierwszy europejski przekład jakiejkolwiek części Mahabharaty to Bhagavad Gita autorstwa Charlesa Wilkinsa, która została szybko przetłumaczona na niemiecki, francuski i rosyjski.
+**FACT**: The text contains numerous dialogues and dramatic scenes, suggesting it was adapted for public recitations.
 
 ---
 
-## Niezwykłe szczegóły i ukryte historie
+## Cultural Impact and Adaptations
 
-### 17. Fantastyczne elementy
-**PLOTKA**: Epos zawiera opisy tego, co niektórzy interpretują jako starożytną zaawansowaną technologię, w tym latające pojazdy (vimanas) i potężną broń.
+### 9. Television Phenomena
+**FACT**: B.R. Chopra's "Mahabharat" series from 1988 consisted of 94 episodes and was broadcast on Sunday mornings, having an enormous impact on the Indian audience.
 
-**PLOTKA**: Są odniesienia do podróży w czasie i wymiarów równoległych w niektórych historiach zawartych w eposie.
+**FACT**: During the series broadcast, India's streets would empty - people would mass around televisions, treating the viewing as a religious ritual.
 
-### 18. Nietypowe narodziny bohaterów
-**FAKT**: Draupadi narodziła się z ognia podczas yajna (ofiary), nie z łona matki.
+### 10. International Adaptations
+**FACT**: Peter Brook created a theatrical adaptation of the Mahabharata in 1985, which lasted 9 hours and was performed worldwide for 4 years.
 
-**FAKT**: Pandawowie urodzili się dzięki boskiej interwencji, a nie w naturalny sposób.
+**FACT**: Brook's 1989 film version lasted 6 hours and used a multiracial cast of 21 actors from 16 different countries.
 
-**FAKT**: Epos zawiera wiele postaci, które mogły zmieniać płeć, żyć przez stulecia lub posiadać nadprzyrodzone zdolności.
-
-### 19. Moralny kompleks
-**FAKT**: W przeciwieństwie do wielu eposów z wyraźną narracją dobra przeciwko złu, Mahabharata przedstawia moralnie niejednoznaczne postacie i sytuacje, gdzie nawet bohaterowie podejmują wątpliwe wybory.
-
-**FAKT**: Tekst zawiera szczegółowe opisy technik hazardu, strategii wojskowych, a nawet metod gotowania.
-
-### 20. Współczesne interpretacje
-**FAKT**: Współcześni autorzy zaczęli przewidywać Mahabharatę w różnych formach, w tym "The Palace of Illusions" Chitry Banerjee Divakaruni, która opowiada historię z perspektywy Draupadi.
-
-**FAKT**: "Ajaya" Anand Neelakantan oferuje punkt widzenia strony Kaurawów, ukazując alternatywną perspektywę konfliktu.
+**FACT**: Mallika Sarabhai from India played the key role of Draupadi in Brook's production, combining traditional Indian dance techniques with international theater.
 
 ---
 
-## Techniczne aspekty zachowania
+## Bhagavad Gita - The Jewel in the Epic
 
-### 21. Krytyczne wydanie
-**FAKT**: Pierwsza krytyczna edycja Mahabharaty została przygotowana pod kierunkiem V.S. Sukthankara, obejmująca około 82 000 wersów z około 50 000 przypisanych pojedynczemu autorowi.
+### 11. Philosophical Pearl
+**FACT**: The Bhagavad Gita, comprising chapters 23-40 of Book VI of the Mahabharata, was probably composed in the 1st or 2nd century AD.
 
-**FAKT**: Redaktorzy tych dodatków byli prawdopodobnie uczeni Pancharatra, którzy według Oberliesa (1998) prawdopodobnie zachowali kontrolę nad tekstem do jego ostatecznej redakcji.
+**FACT**: The dialogue between Krishna and Arjuna before the battle of Kurukshetra is considered one of the most important religious texts of Hinduism.
 
-### 22. Międzynarodowe dziedzictwo
-**FAKT**: Historia Mahabharaty została opowiedziana w pisemnych i ustnych wersjach w sanskrycie i językach narodowych w całej Azji Południowej i Południowo-Wschodniej.
+**FACT**: Mahatma Gandhi wrote a commentary on the Bhagavad Gita and considered it his spiritual guide.
 
-**FAKT**: Wielokrotne adaptacje i przekłady Mahabharaty przełamują bariery językowe, czyniąc ją opowieścią, z którą mogą się połączyć ludzie ze wszystkich środowisk.
+### 12. Modern Applications
+**FACT**: Contemporary psychologists suggest that the Bhagavad Gita contains one of the earliest documented sessions of cognitive-behavioral therapy, where Krishna plays the role of therapist and Arjuna the client.
 
-**FAKT**: Przepych Mahabharaty jest na zawsze uchwycony w płaskorzeźbach Angkor Wat w Azji Południowo-Wschodniej.
-
----
-
-## Nowoczesne media i zainteresowanie akademickie
-
-### 23. Adaptacje medialne
-**FAKT**: BBC zaadaptowała Mahabharatę w dziewięcioczęściowy dramat radiowy zatytułowany "Mahabharata Now".
-
-**FAKT**: Mahabharata znalazła również miejsce w powieściach graficznych, czyniąc epos dostępnym dla młodszej publiczności poprzez wizualnie angażujące opowiadanie.
-
-**FAKT**: Wydawcy tacy jak Campfire i Amar Chitra Katha wyprodukowali adaptacje, które upraszczają złożone narracje.
-
-### 24. Współczesna akademia
-**FAKT**: Mahabharata nadal inspiruje współczesną literaturę, teatr i film, demonstrując swoją trwałą aktualność i uniwersalne tematy, które przekraczają granice kulturowe.
-
-**FAKT**: Adaptacje wahają się od wiernych przekładów po kreatywne reinterpretacje, które odnoszą się do nowoczesnych problemów dotyczących płci, etyki i sprawiedliwości społecznej.
+**FACT**: The text is studied not only by Hindus but also by Jains, Sikhs, and representatives of other religious traditions.
 
 ---
 
-## Podsumowanie
+## Archaeological and Historical Evidence
 
-Mahabharata to więcej niż epos - to encyklopedia ludzkiej natury, filozofii i etyki. Jej powstanie w ciągu wieków, od ustnej tradycji do monumentalnego tekstu pisanego, odzwierciedla ewolucję cywilizacji indyjskiej i uniwersalnych wartości ludzkich. Historia jej tworzenia, pełna legend o boskich skrybach i mędrca-kompilatorach, jest równie fascynująca jak sama treść eposu.
+### 13. Kurukshetra - Real Place
+**FACT**: The Archaeological Survey of India continues excavations in the Kurukshetra region, finding traces of ancient settlements dated to the Mahabharata period.
 
-Dzieło to, które przeszło przez tysiąclecia i kultury, pozostaje żywym dokumentem ludzkiej mądrości, inspirując kolejne pokolenia czytelników, widzów i twórców na całym świecie. Jego wpływ na kulturę światową - od starożytnych świątyń Angkor Wat po współczesne seriale telewizyjne - świadczy o niestarzejącej się mocy tej monumentalnej opowieści o wojnie, miłości, obowiązku i poszukiwaniu sensu życia.
+**FACT**: Pottery, weapons, and other artifacts have been found suggesting large-scale conflicts in the region.
+
+**RUMOR**: Most scholars place the war at Kurukshetra between 3000-1000 BC, with some suggesting around 1400 BC based on astronomical references in the epic.
+
+### 14. 18-Day Battle - Fact or Symbol?
+**FACT**: While the Mahabharata describes an 18-day battle, historians debate whether this represents literal days or symbolic periods.
+
+**FACT**: Archaeological evidence suggests rather a prolonged conflict in the region than a single concentrated battle.
+
+---
+
+## Polish Connections and European Influence
+
+### 15. Polish Translations
+**FACT**: Barbara Mikołajewska, former professor of sociology at the University of Warsaw, created Polish studies of several books of the Mahabharata (books I, II, III, IV, and V).
+
+**FACT**: In Poland, information about the Mahabharata is mainly contained in books aimed at specialists, and fragments of direct translations into Polish remain extremely rare.
+
+### 16. European Reception
+**FACT**: The first fragments and stories of the Mahabharata were already widely known in other European countries, circulating due to the fame of their significance and extraordinary beauty.
+
+**FACT**: The first European translation of any part of the Mahabharata was the Bhagavad Gita by Charles Wilkins, which was quickly translated into German, French, and Russian.
+
+---
+
+## Extraordinary Details and Hidden Stories
+
+### 17. Fantastic Elements
+**RUMOR**: The epic contains descriptions of what some interpret as ancient advanced technology, including flying vehicles (vimanas) and powerful weapons.
+
+**RUMOR**: There are references to time travel and parallel dimensions in some stories contained in the epic.
+
+### 18. Unusual Birth of Heroes
+**FACT**: Draupadi was born from fire during a yajna (sacrifice), not from a mother's womb.
+
+**FACT**: The Pandavas were born through divine intervention, not naturally.
+
+**FACT**: The epic contains many characters who could change gender, live for centuries, or possess supernatural abilities.
+
+### 19. Moral Complexity
+**FACT**: Unlike many epics with clear good versus evil narratives, the Mahabharata presents morally ambiguous characters and situations where even heroes make questionable choices.
+
+**FACT**: The text contains detailed descriptions of gambling techniques, military strategies, and even cooking methods.
+
+### 20. Contemporary Interpretations
+**FACT**: Contemporary authors have begun to retell the Mahabharata in various forms, including "The Palace of Illusions" by Chitra Banerjee Divakaruni, which tells the story from Draupadi's perspective.
+
+**FACT**: "Ajaya" by Anand Neelakantan offers the Kauravas' point of view, showing an alternative perspective of the conflict.
+
+---
+
+## Technical Aspects of Preservation
+
+### 21. Critical Edition
+**FACT**: The first critical edition of the Mahabharata was prepared under the direction of V.S. Sukthankar, comprising about 82,000 verses with about 50,000 attributed to a single author.
+
+**FACT**: The editors of these additions were probably Pancharatra scholars who, according to Oberlies (1998), probably maintained control over the text until its final redaction.
+
+### 22. International Heritage
+**FACT**: The story of the Mahabharata has been told in written and oral versions in Sanskrit and national languages throughout South and Southeast Asia.
+
+**FACT**: Multiple adaptations and translations of the Mahabharata break language barriers, making it a story that people from all backgrounds can connect with.
+
+**FACT**: The splendor of the Mahabharata is forever captured in the bas-reliefs of Angkor Wat in Southeast Asia.
+
+---
+
+## Modern Media and Academic Interest
+
+### 23. Media Adaptations
+**FACT**: The BBC adapted the Mahabharata into a nine-part radio drama titled "Mahabharata Now."
+
+**FACT**: The Mahabharata has also found a place in graphic novels, making the epic accessible to younger audiences through visually engaging storytelling.
+
+**FACT**: Publishers such as Campfire and Amar Chitra Katha have produced adaptations that simplify complex narratives.
+
+### 24. Contemporary Academia
+**FACT**: The Mahabharata continues to inspire contemporary literature, theater, and film, demonstrating its enduring relevance and universal themes that transcend cultural boundaries.
+
+**FACT**: Adaptations range from faithful translations to creative reinterpretations that address modern issues concerning gender, ethics, and social justice.
+
+---
+
+## Summary
+
+The Mahabharata is more than an epic - it is an encyclopedia of human nature, philosophy, and ethics. Its creation over centuries, from oral tradition to monumental written text, reflects the evolution of Indian civilization and universal human values. The story of its creation, full of legends about divine scribes and sage-compilers, is as fascinating as the content of the epic itself.
+
+This work, which has passed through millennia and cultures, remains a living document of human wisdom, inspiring successive generations of readers, viewers, and creators worldwide. Its impact on world culture - from the ancient temples of Angkor Wat to contemporary television series - testifies to the timeless power of this monumental story about war, love, duty, and the search for the meaning of life.
