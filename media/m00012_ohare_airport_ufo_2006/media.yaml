@@ -1,12 +1,15 @@
 media_info:
-  title: "O'Hare Airport UFO Sighting - November 7, 2006"
-  author: "Historical Documentation"
+  title: O'Hare Airport UFO Sighting - November 7, 2006
+  author: Historical Documentation
   year: 2006
-  genre: "Unexplained Phenomena Documentary"
-  description: "A metallic disc hovering over Gate C-17 witnessed by multiple airline employees before shooting upward through clouds"
-  target_audience: "General public, students, UFO researchers, aviation professionals"
-  duration: "~3 minutes"
-  objective: "Recreate the daylight UFO sighting at one of the world's busiest airports and the subsequent FAA response"
+  genre: Unexplained Phenomena Documentary
+  description: A metallic disc hovering over Gate C-17 witnessed by multiple airline
+    employees before shooting upward through clouds
+  target_audience: General public, students, UFO researchers, aviation professionals
+  duration: ~3 minutes
+  objective: Recreate the daylight UFO sighting at one of the world's busiest airports
+    and the subsequent FAA response
   scene_count: 10
-  graphics_style: "cinematic-documentary-realism"
-  scene_generator: "narrative"
+  graphics_style: cinematic-documentary-realism
+  scene_generator: narrative
+  nb_audio_format: brief

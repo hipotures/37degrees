@@ -17,7 +17,8 @@ Process scene_style subtasks systematically using the hierarchical TODOIT struct
 Style is automatically retrieved from media.yaml configuration.
 
 ## Input Parameters
-1. MEDIA_FOLDER - media path media/[MEDIA_FOLDER] (e.g. for "m00001_atomic_bomb", full media path will be media/m00001_atomic_bomb)
+1. MEDIA_FOLDER - media folder name (e.g. "m00001_atomic_bomb")
+   All other parameters are read from media/[MEDIA_FOLDER]/media.yaml
 
 ## Process Steps
 
@@ -57,12 +58,19 @@ console.log(`Found ${readyStyleTasks.items.length} scenes ready for style applic
 
 ### 3. Apply Style Using Batch Script
 
-Apply style to all scenes at once using the bash script (don't use folders paths):
+Apply style to all scenes at once using the bash script.
+All required parameters (scene_generator, graphics_style) are read from media.yaml automatically:
+
+```bash
+./scripts/internal/37d-m2-02.sh [MEDIA_FOLDER]
 ```
-./scripts/internal/37d-m2-02.sh [MEDIA_FOLDER] [SCENE_GENERATOR] [GRAPHICS_STYLE]
-```
-Usage: ./37d-m2-02.sh <media_folder> <scene_generator> <graphics_style>
-Example: ./37d-m2-02.sh m00001_atomic_bomb narrative film-noir-1950s-melodrama
+
+The script will:
+1. Read scene_generator from media/[MEDIA_FOLDER]/media.yaml
+2. Read graphics_style from media/[MEDIA_FOLDER]/media.yaml
+3. Apply the style to all scenes automatically
+
+Example: `./scripts/internal/37d-m2-02.sh m00001_atomic_bomb`
 
 
 ### 4. Verification Process

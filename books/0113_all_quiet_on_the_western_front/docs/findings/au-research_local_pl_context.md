@@ -1,140 +1,140 @@
-# Lokalny kontekst kulturowy: "Na Zachodzie bez zmian" Ericha Marii Remarque'a w Polsce
+# Local Cultural Context: "All Quiet on the Western Front" by Erich Maria Remarque in Poland
 
-## Historia publikacji w Polsce
+## Publication History in Poland
 
-### Pierwsze wydanie polskie (1930)
-- **Tłumacz**: Stefan Napierski - przetłumaczył książkę z upoważnienia autora już w 1930 roku, zaledwie rok po niemieckiej premiecie w 1929 roku
-- **Tragiczny los tłumacza**: Stefan Napierski został aresztowany na początku 1940 roku i osadzony w więzieniu Pawiak. Jednym z możliwych powodów aresztowania było tłumaczenie tej pacyfistycznej powieści Remarque'a. Prawdopodobnie został rozstrzelany 2 kwietnia 1940 roku w Palmirach pod Warszawą
-- **Kontekst historyczny**: Przekład Napierskiego stał się symbolem tragicznych losów polskich intelektualistów podczas II wojny światowej
+### First Polish Edition (1930)
+- **Translator**: Stefan Napierski - translated the book with the author's authorization as early as 1930, just one year after the German premiere in 1929
+- **Tragic fate of the translator**: Stefan Napierski was arrested in early 1940 and imprisoned in Pawiak prison. One of the possible reasons for his arrest was translating this pacifist novel by Remarque. He was probably shot on April 2, 1940, in Palmiry near Warsaw
+- **Historical context**: Napierski's translation became a symbol of the tragic fate of Polish intellectuals during World War II
 
-### Współczesne wydania polskie
-- **Ryszard Wojnakowski** - nowy tłumacz, germanista z UJ (ur. 1956, krakowianin)
-- **Wykształcenie**: Filologia germańska (1974-1978) i skandynawistyka (1977-1979) na UJ
-- **Doświadczenie**: Pracował jako redaktor w Wydawnictwie Literackim (1983-1993), od 1993 zajmuje się wyłącznie tłumaczeniami literackimi
-- **Wydania**: Dom Wydawniczy REBIS - nowe tłumaczenie, wydanie 2022 (192 strony)
-- **Inne wydania**: Czytelnik (1996), Wydawnictwo Literackie (1974), PIW (1960)
+### Contemporary Polish Editions
+- **Ryszard Wojnakowski** - new translator, Germanist from Jagiellonian University (born 1956, Krakow native)
+- **Education**: Germanic philology (1974-1978) and Scandinavian studies (1977-1979) at Jagiellonian University
+- **Experience**: Worked as an editor at Literary Publishing House (1983-1993), since 1993 exclusively engaged in literary translations
+- **Editions**: REBIS Publishing House - new translation, 2022 edition (192 pages)
+- **Other editions**: Czytelnik (1996), Literary Publishing House (1974), PIW (1960)
 
-## Tłumacze i ich interpretacje
+## Translators and Their Interpretations
 
 ### Stefan Napierski (1930)
-- Pierwsze autoryzowane tłumaczenie na język polski
-- Tłumacz zwracał uwagę na jakość wydania w liście do redakcji "Wiadomości Literackich" w 1929 roku
-- Przekład powstał w czasach międzywojennych, gdy pacyfistyczne przesłanie książki miało szczególną wagę
-- Tragiczna śmierć tłumacza podczas okupacji hitlerowskiej nadała tłumaczeniu dodatkowy wymiar symboliczny
+- First authorized translation into Polish
+- The translator emphasized the quality of the edition in a letter to "Literary News" editorial in 1929
+- The translation was created during the interwar period when the book's pacifist message had particular significance
+- The tragic death of the translator during the Nazi occupation gave the translation additional symbolic dimension
 
-### Ryszard Wojnakowski (współczesność)
-- Nowe tłumaczenie uwzględniające współczesną znajomość języka niemieckiego
-- Szczególnie ceni Remarque'a wśród tłumaczonych przez siebie autorów
-- Tłumaczenie dostosowane do współczesnych polskich czytelników
+### Ryszard Wojnakowski (Contemporary)
+- New translation taking into account contemporary knowledge of German language
+- Particularly appreciates Remarque among the authors he translates
+- Translation adapted to contemporary Polish readers
 
-## Książka w polskiej edukacji
+## The Book in Polish Education
 
-### Status lektury szkolnej
-- **Debata edukacyjna**: Istnieje ożywiona dyskusja, czy książka powinna być obowiązkową lekturą szkolną
-- **Argumenty za**: "Tytuł nie do ominięcia przy wszelkich tematach dotyczących literackich protestów przeciw wojnie, obrazów wpływu kataklizmu wojennego na psychikę młodego człowieka, wreszcie okrucieństwa i zła wojny"
-- **Znaczenie pedagogiczne**: "Pozostała lekturą pouczającą, przydatną i frapującą", "obnaża zło wojny bez względu na stronę barykady, narodowości i oficjalną ideologię"
+### Status as School Reading
+- **Educational debate**: There is a lively discussion whether the book should be mandatory school reading
+- **Arguments for**: "A title not to be missed when dealing with literary protests against war, images of war's impact on young people's psyche, and finally the cruelty and evil of war"
+- **Pedagogical significance**: "Remains instructive, useful and intriguing reading", "exposes the evil of war regardless of which side of the barricade, nationality and official ideology"
 
-### Tematyka edukacyjna
-- **"Stracone pokolenie"**: Bohaterowie należą do pokolenia, którego młodość przepadła w okopach I wojny światowej
-- **Realizm wojenny**: "Oryginalna, bo mamy do czynienia z wojenną relacją 'z pierwszej ręki', i to – co ważne – ze strony Niemca"
-- **Przesłanie antywojenne**: Pokazanie bezsensu toczonych zmagań i wpływu konfliktu na psychikę młodych ludzi
+### Educational Themes
+- **"Lost Generation"**: Characters belong to the generation whose youth was lost in WWI trenches
+- **War realism**: "Original, because we're dealing with a war account 'first-hand', and importantly - from a German perspective"
+- **Anti-war message**: Showing the senselessness of the struggle and the conflict's impact on young people's psyche
 
-## Polskie adaptacje kulturowe
+## Polish Cultural Adaptations
 
-### Teatr WARSawy (2019)
-- **Premiera**: 26 lipca 2019 roku
-- **Reżyserka i scenariuszka**: Karolina Kirsz
-- **Scenografia i kostiumy**: Ola Sempruch
-- **Muzyka**: Jacek Mazurkiewicz
-- **Obsada**: Rafał Gorczyca, Filip Krupa, Aleksandra Matlingiewicz, Jolanta Olszewska, Karol Olszewski, Radomir Respondek
+### WARSawa Theater (2019)
+- **Premiere**: July 26, 2019
+- **Director and screenwriter**: Karolina Kirsz
+- **Scenography and costumes**: Ola Sempruch
+- **Music**: Jacek Mazurkiewicz
+- **Cast**: Rafał Gorczyca, Filip Krupa, Aleksandra Matlingiewicz, Jolanta Olszewska, Karol Olszewski, Radomir Respondek
 
-### Nowatorskie podejście teatralne
-- **Dwupoziomowa konstrukcja**: Pierwszy poziom - świat powieści Remarque'a, drugi poziom - współczesna grupa rekonstrukcyjna grająca w wojnę
-- **Konceptualizacja**: "Co fascynuje mnie najbardziej, to jak można zmienić młodego, wrażliwego człowieka w maszynę do zabijania"
-- **Styl**: "Ironiczny hołd dla głupoty i chciwości, które są właściwie czymś przerażającym"
-- **Program**: Realizacja w ramach "Sceny Społecznej Debiutów"
+### Innovative Theatrical Approach
+- **Two-level construction**: First level - world of Remarque's novel, second level - contemporary reenactment group playing war
+- **Conceptualization**: "What fascinates me most is how you can turn a young, sensitive person into a killing machine"
+- **Style**: "Ironic tribute to stupidity and greed, which are actually something terrifying"
+- **Program**: Realized within "Social Scene of Debuts"
 
-## Problemy tłumaczeniowe i kulturowe różnice
+## Translation Problems and Cultural Differences
 
-### Tytuł w języku polskim
-- **Niemiecki oryginał**: "Im Westen nichts Neues" (Na Zachodzie nic nowego)
-- **Polski tytuł**: "Na Zachodzie bez zmian" - subtelna różnica w interpretacji
-- Polska wersja podkreśla stagnację, podczas gdy niemiecki oryginał akcentuje brak nowości
+### Title in Polish
+- **German original**: "Im Westen nichts Neues" (Nothing New in the West)
+- **Polish title**: "Na Zachodzie bez zmian" (No Changes in the West) - subtle difference in interpretation
+- Polish version emphasizes stagnation, while German original accents lack of novelty
 
-### Kontekst historyczny recepcji
-- **Międzywojnie**: W Polsce książka była uważana za pro-niemiecką, w Niemczech za anty-niemiecką
-- **Cenzura**: Film z 1930 roku był zakazywany w wielu krajach, w tym początkowo w Polsce
-- **Współczesność**: Współczesne polskie wydania uwzględniają zmienioną perspektywę historyczną
+### Historical Context of Reception
+- **Interwar period**: In Poland the book was considered pro-German, in Germany anti-German
+- **Censorship**: The 1930 film was banned in many countries, initially including Poland
+- **Contemporary**: Modern Polish editions take into account changed historical perspective
 
-### Różnice w interpretacji kulturowej
-- **Perspektywa polska**: Nacisk na uniwersalną tragędię wojny, niezależnie od narodowości
-- **Kontekst I wojny światowej**: Dla Polski wojna oznaczała odzyskanie niepodległości, co komplikuje recepcję niemieckiej perspektywy antywojennej
-- **Współczesna recepcja**: Książka postrzegana jako uniwersalne ostrzeżenie przed militaryzmem
+### Differences in Cultural Interpretation
+- **Polish perspective**: Emphasis on universal tragedy of war, regardless of nationality
+- **WWI context**: For Poland, the war meant regaining independence, which complicates reception of German anti-war perspective
+- **Contemporary reception**: Book perceived as universal warning against militarism
 
-## Polscy badacze i interpretacje akademickie
+## Polish Scholars and Academic Interpretations
 
-### Główne nurty interpretacji
-- **Literatura pokolenia straconego**: Analiza w kontekście literatury międzywojennej i motywu "straconej generacji"
-- **Realizm wojenny**: Porównania z polską literaturą wojenną (Pokolenie Kolumbów)
-- **Pacyfizm jako bestseller**: Badania nad komercyjnym sukcesem literatury antywojennej
+### Main Interpretive Currents
+- **Lost generation literature**: Analysis in context of interwar literature and "lost generation" motif
+- **War realism**: Comparisons with Polish war literature (Columbus Generation)
+- **Pacifism as bestseller**: Research on commercial success of anti-war literature
 
-### Kluczowe elementy analizy
-- **Demitologizacja wojny**: "Brutal reality of war stripped of propagandistic and mythologizing wrapper"
-- **Psychologizm**: Analiza wpływu traumy wojennej na młodych żołnierzy
-- **Krytyka instytucji militarnych**: Głos sprzeciwu wobec militarnego systemu wyszkolenia
+### Key Elements of Analysis
+- **War demythologization**: "Brutal reality of war stripped of propagandistic and mythologizing wrapper"
+- **Psychologism**: Analysis of war trauma's impact on young soldiers
+- **Critique of military institutions**: Voice of opposition to military training system
 
-### Porównania z polską literaturą
-- **Pokolenie Kolumbów**: Polscy pisarze urodzeni ok. 1920 roku (Borowski, Gajcy, Herling-Grudziński, Baczyński)
-- **Wspólne tematy**: Kryzys wartości, załamanie humanitaryzmu, jednostkowy los w okrutnych czasach
-- **Różnice**: Polska perspektywa obejmuje walkę o niepodległość i okupację
+### Comparisons with Polish Literature
+- **Columbus Generation**: Polish writers born around 1920 (Borowski, Gajcy, Herling-Grudziński, Baczyński)
+- **Common themes**: Crisis of values, collapse of humanitarianism, individual fate in cruel times
+- **Differences**: Polish perspective includes struggle for independence and occupation
 
-## Współczesna recepcja i fan community
+## Contemporary Reception and Fan Community
 
-### Platforma Netflix (2022)
-- Niemiecka adaptacja filmowa dostępna z polskim dubbingiem i napisami
-- Wzmożone zainteresowanie książką po premierze filmu
-- Dyskusje w polskich mediach społecznościowych o wierności adaptacji
+### Netflix Platform (2022)
+- German film adaptation available with Polish dubbing and subtitles
+- Increased interest in the book after film premiere
+- Discussions in Polish social media about adaptation's faithfulness
 
-### Polskie społeczności czytelnicze
-- **Lubimyczytac.pl**: Aktywne recenzje i dyskusje polskich czytelników
-- **Opinie współczesnych**: "Powinna być to pozycja obowiązkowa do przeczytania dla każdego świadomego czytelnika"
-- **Młodzi czytelnicy**: Szczególnie doceniany realizm i autentyczność przekazu
+### Polish Reading Communities
+- **Lubimyczytac.pl**: Active reviews and discussions by Polish readers
+- **Contemporary opinions**: "Should be mandatory reading for every conscious reader"
+- **Young readers**: Particularly appreciate realism and authenticity of message
 
-### Media społecznościowe i TikTok
-- Rosnąca popularność klasyki wojennej wśród młodzieży
-- #BookTok: Polscy tiktokerzy polecają jako "must-read" literatury wojennej
-- Cytaty z książki jako memy o absurdalności wojny
+### Social Media and TikTok
+- Growing popularity of war classics among youth
+- #BookTok: Polish TikTokers recommend as "must-read" war literature
+- Book quotes as memes about war's absurdity
 
-## Nawiązania w polskiej kulturze
+## References in Polish Culture
 
-### Literatura współczesna
-- Wpływ na polską prozę wojenną po 1945 roku
-- Porównania z "Nagim rokiem" Pawła Huelle i innymi współczesnymi powieściami o wojnie
+### Contemporary Literature
+- Influence on Polish war prose after 1945
+- Comparisons with "The Naked Year" by Paweł Huelle and other contemporary war novels
 
-### Film i telewizja
-- Odniesienia w polskich produkcjach wojennych
-- Dyskusje o polskich adaptacjach (brak bezpośrednich adaptacji)
+### Film and Television
+- References in Polish war productions
+- Discussions about Polish adaptations (no direct adaptations exist)
 
-### Pamięć historyczna
-- Książka jako punkt odniesienia w dyskusjach o I wojnie światowej
-- Wykorzystywanie w kontekście edukacji historycznej o militaryzmie
+### Historical Memory
+- Book as reference point in discussions about WWI
+- Use in historical education about militarism
 
-## Lokalne easter eggi dla polskich czytelników
+## Local Easter Eggs for Polish Readers
 
-### Krakowskie nawiązania
-- Ryszard Wojnakowski, współczesny tłumacz, to krakowianin i absolwent UJ
-- Małopolska tradycja literacka w tłumaczeniu niemieckiej literatury wojennej
+### Krakow References
+- Ryszard Wojnakowski, contemporary translator, is a Krakow native and Jagiellonian University graduate
+- Lesser Poland tradition in translating German war literature
 
-### Historyczne paralele
-- Polscy czytelnicy dostrzegają podobieństwa do doświadczeń Polaków w okopach I wojny światowej
-- Nawiązania do polskich powstań i walk niepodległościowych
+### Historical Parallels
+- Polish readers notice similarities to Polish experiences in WWI trenches
+- References to Polish uprisings and independence struggles
 
-### Współczesne odniesienia
-- Teatr WARSawy jako część warszawskiej sceny kulturalnej
-- Wydawnictwo REBIS z siedzibą w Poznaniu - regionalne wydanie
+### Contemporary References
+- WARSawa Theater as part of Warsaw cultural scene
+- REBIS Publishing House based in Poznań - regional edition
 
-## Wnioski: Specyfika polskiej recepcji
+## Conclusions: Specificity of Polish Reception
 
-"Na Zachodzie bez zmian" w Polsce to nie tylko klasyka światowej literatury, ale także książka o tragicznych losach. Pierwszy tłumacz zginął za swoją pracę, co nadało polskiej recepcji szczególny wymiar martyrologiczny. Współczesne polskie wydania łączą uniwersalne przesłanie antyvojenne z lokalną świadomością historyczną, czyniąc z tej niemieckiej powieści część polskiego kanonu literatury o wojnie i jej konsekwencjach.
+"All Quiet on the Western Front" in Poland is not only a classic of world literature, but also a book about tragic fates. The first translator died for his work, which gave Polish reception a special martyrological dimension. Contemporary Polish editions combine the universal anti-war message with local historical awareness, making this German novel part of the Polish canon of literature about war and its consequences.
 
-Książka pozostaje żywa w polskiej kulturze - od szkolnych dyskusji przez teatralne adaptacje po współczesne social media, dowodząc uniwersalności swojego przesłania i trwałości w polskiej świadomości kulturowej.
+The book remains alive in Polish culture - from school discussions through theatrical adaptations to contemporary social media, proving the universality of its message and permanence in Polish cultural consciousness.

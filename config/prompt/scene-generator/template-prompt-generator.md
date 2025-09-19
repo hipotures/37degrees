@@ -1,35 +1,35 @@
 # podcast-image-prompt-generator-expanded.md
 
-Create 25 scene descriptions for illustration generation specifically designed for podcast episode imagery. Each description should depict a specific scene or moment from the book, creating a visual narrative that complements audio storytelling.
+Create scene descriptions for illustration generation specifically designed for podcast episode imagery. Each description should depict a specific scene or moment from the book, creating a visual narrative that complements audio storytelling. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the four categories based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Episode Structure (Proportional Distribution):
 
 **Note**: These images will be used as episode artwork, chapter markers, and social media promotion for podcast episodes. Each must work independently while contributing to the overall narrative.
 
-### Prompts 1-5: Places and Atmosphere (Setting the Scene)
+### Part I: Places and Atmosphere - Setting the Scene (First 20% of total scene_count)
 **Purpose**: Establish the world without relying on text or narration
-- **1-2**: Wide atmospheric shots of primary locations - the haunted manor shrouded in mist, the bustling Victorian street market, the empty battlefield at dawn. Focus on mood through lighting, weather, and environmental details that speak without words
-- **3-4**: Interior spaces that define the story - cluttered detective's office with case files and magnifying glass visible but unreadable, sparse monastery cell with single candle and prayer beads, opulent ballroom with dancers frozen mid-waltz. Architecture and objects tell the story
-- **5**: Transitional or journey scene - winding mountain path disappearing into clouds, steam train emerging from tunnel in countryside, sailing ship battling stormy seas. Show movement between states or locations
+- **Wide atmospheric shots**: Primary locations - the haunted manor shrouded in mist, the bustling Victorian street market, the empty battlefield at dawn. Focus on mood through lighting, weather, and environmental details that speak without words
+- **Interior spaces**: Spaces that define the story - cluttered detective's office with case files and magnifying glass visible but unreadable, sparse monastery cell with single candle and prayer beads, opulent ballroom with dancers frozen mid-waltz. Architecture and objects tell the story
+- **Transitional scenes**: Winding mountain path disappearing into clouds, steam train emerging from tunnel in countryside, sailing ship battling stormy seas. Show movement between states or locations
 
-### Prompts 6-13: Character Scenes (Daily Moments and Interactions)
+### Part II: Character Scenes - Daily Moments and Interactions (Next 30% of total scene_count)
 **Purpose**: Introduce characters through actions and relationships
-- **6-8**: Individual character portraits in defining activities - blacksmith at forge with sparks flying, scholar surrounded by towering books, mother mending clothes by firelight. Show profession, status, personality through visual cues
-- **9-11**: Two-character interactions revealing relationships - mentor teaching apprentice through gesture, rivals facing across chessboard, friends sharing meal. Body language tells the relationship story
-- **12-13**: Group dynamics - family gathered around dinner table with empty chair, soldiers huddled in trenches sharing cigarette, children playing while adults watch anxiously. Show social structures and tensions
+- **Individual portraits**: Character portraits in defining activities - blacksmith at forge with sparks flying, scholar surrounded by towering books, mother mending clothes by firelight. Show profession, status, personality through visual cues
+- **Two-character interactions**: Relationships revealed - mentor teaching apprentice through gesture, rivals facing across chessboard, friends sharing meal. Body language tells the relationship story
+- **Group dynamics**: Family gathered around dinner table with empty chair, soldiers huddled in trenches sharing cigarette, children playing while adults watch anxiously. Show social structures and tensions
 
-### Prompts 14-20: Key Plot Events
+### Part III: Key Plot Events (Next 30% of total scene_count)
 **Purpose**: Capture narrative turning points without written exposition
-- **14-15**: The inciting incident - the letter arriving on doorstep, the stranger approaching through fog, the discovery in the attic. Make viewers ask "what happens next?"
-- **16-17**: Rising action - chase through narrow alleyways, heated argument with pointing fingers, packing belongings in haste. Movement and urgency without words
-- **18-19**: Climactic moments - swords crossed in final duel, hands reaching across chasm, revelation dawning on character's face. Peak visual drama
-- **20**: Immediate aftermath - battlefield strewn with remnants, embracing figures silhouetted against sunrise, empty throne room with crown on floor
+- **The inciting incident**: The letter arriving on doorstep, the stranger approaching through fog, the discovery in the attic. Make viewers ask "what happens next?"
+- **Rising action**: Chase through narrow alleyways, heated argument with pointing fingers, packing belongings in haste. Movement and urgency without words
+- **Climactic moments**: Swords crossed in final duel, hands reaching across chasm, revelation dawning on character's face. Peak visual drama
+- **Immediate aftermath**: Battlefield strewn with remnants, embracing figures silhouetted against sunrise, empty throne room with crown on floor
 
-### Prompts 21-25: Symbolic Imagery and Conclusion
+### Part IV: Symbolic Imagery and Conclusion (Final 20% of total scene_count)
 **Purpose**: Provide thematic resonance and closure
-- **21-22**: Symbolic objects or moments - withered rose on fresh grave, key turning in long-locked door, butterfly emerging from chrysalis. Visual metaphors for transformation
-- **23-24**: Epilogue scenes - next generation in familiar setting, seasons changed from opening, rebuilt structure where ruins once stood. Show time passage and consequences
-- **25**: Final lasting image - silhouette walking into sunset, closed book on table, light through window onto empty chair. Leave viewers with feeling, not information
+- **Symbolic objects or moments**: Withered rose on fresh grave, key turning in long-locked door, butterfly emerging from chrysalis. Visual metaphors for transformation
+- **Epilogue scenes**: Next generation in familiar setting, seasons changed from opening, rebuilt structure where ruins once stood. Show time passage and consequences
+- **Final lasting image**: Silhouette walking into sunset, closed book on table, light through window onto empty chair. Leave viewers with feeling, not information
 
 ## Requirements:
 
@@ -43,15 +43,15 @@ Create 25 scene descriptions for illustration generation specifically designed f
 ## Scene Distribution:
 
 ### By Purpose:
-- **20%** (5 scenes) - Atmospheric establishment shots
-- **32%** (8 scenes) - Character development moments  
-- **28%** (7 scenes) - Plot advancement scenes
-- **20%** (5 scenes) - Symbolic/thematic images
+- **20%** - Atmospheric establishment shots
+- **32%** - Character development moments
+- **28%** - Plot advancement scenes
+- **20%** - Symbolic/thematic images
 
 ### By Composition Distance:
-- **Wide shots**: 8-10 scenes (establish scope and setting)
-- **Medium shots**: 10-12 scenes (character interactions)
-- **Close-ups**: 3-5 scenes (emotional moments, important objects)
+- **Wide shots**: 30-40% (establish scope and setting)
+- **Medium shots**: 40-50% (character interactions)
+- **Close-ups**: 10-20% (emotional moments, important objects)
 
 ## What to Avoid:
 

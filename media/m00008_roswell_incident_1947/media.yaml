@@ -1,12 +1,15 @@
 media_info:
-  title: "Roswell Incident - July 1947"
-  author: "Historical Documentation"
+  title: Roswell Incident - July 1947
+  author: Historical Documentation
   year: 1947
-  genre: "Unexplained Phenomena Documentary"
-  description: "The alleged UFO crash near Roswell, New Mexico that sparked decades of conspiracy theories and government investigations"
-  target_audience: "General public, students, UFO researchers, history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Recreate the mysterious events and subsequent military response at the Foster Ranch through atmospheric historical reconstruction"
+  genre: Unexplained Phenomena Documentary
+  description: The alleged UFO crash near Roswell, New Mexico that sparked decades
+    of conspiracy theories and government investigations
+  target_audience: General public, students, UFO researchers, history enthusiasts
+  duration: ~3 minutes
+  objective: Recreate the mysterious events and subsequent military response at the
+    Foster Ranch through atmospheric historical reconstruction
   scene_count: 10
-  graphics_style: "cinematic-documentary-realism"
-  scene_generator: "narrative"
+  graphics_style: feature-animation-2d-classical
+  scene_generator: narrative
+  nb_audio_format: brief

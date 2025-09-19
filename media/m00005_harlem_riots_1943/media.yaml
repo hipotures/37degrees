@@ -1,12 +1,15 @@
 media_info:
-  title: "Harlem Riots - August 1, 1943"
-  author: "Historical Documentation"
+  title: Harlem Riots - August 1, 1943
+  author: Historical Documentation
   year: 1943
-  genre: "Civil Rights Historical Documentary"
-  description: "The explosive racial confrontation in Harlem that erupted after a police shooting of a Black soldier"
-  target_audience: "General public, students, civil rights history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Document a pivotal moment in wartime racial tensions with historical context and sensitivity"
+  genre: Civil Rights Historical Documentary
+  description: The explosive racial confrontation in Harlem that erupted after a police
+    shooting of a Black soldier
+  target_audience: General public, students, civil rights history enthusiasts
+  duration: ~3 minutes
+  objective: Document a pivotal moment in wartime racial tensions with historical
+    context and sensitivity
   scene_count: 10
-  graphics_style: "film-noir-1950s-melodrama"
-  scene_generator: "narrative"
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

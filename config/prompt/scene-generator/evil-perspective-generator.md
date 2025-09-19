@@ -1,33 +1,33 @@
 # Evil-Perspective-Generator
 
-Create 25 scene descriptions for podcast illustration generation exploring the perspective of characters considered "evil," examining their motivations, worldview, and the philosophical relationship between evil and good.
+Create scene descriptions for podcast illustration generation exploring the perspective of characters considered "evil," examining their motivations, worldview, and the philosophical relationship between evil and good. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the three acts based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Shadow Philosophy Structure (Proportional Distribution):
 
-### Act I - The Shadow's Origin (Scenes 1-8)
+### Act I - The Shadow's Origin (First 30-35% of total scene_count)
 **Purpose**: Establish the character's worldview and how they came to be perceived as evil
 
-- **1-3**: Formative experiences - childhood moments that planted seeds of resentment, witnessing injustice without recourse, feeling powerless against systems that favored others. Show through environment and body language
-- **4-5**: First choices - morally ambiguous decisions made with justifiable reasons from their perspective, small betrayals that grew into larger patterns
-- **6-7**: Rationalization - internal monologue made visual through symbolic environments, mirrors showing fragmented reflections, shadows that seem to have their own agency
-- **8**: The breaking point - moment when they embraced their path, final rejection of societal norms, crossing an irreversible threshold
+- **Formative experiences**: Childhood moments that planted seeds of resentment, witnessing injustice without recourse, feeling powerless against systems that favored others. Show through environment and body language
+- **First choices**: Morally ambiguous decisions made with justifiable reasons from their perspective, small betrayals that grew into larger patterns
+- **Rationalization**: Internal monologue made visual through symbolic environments, mirrors showing fragmented reflections, shadows that seem to have their own agency
+- **The breaking point**: Moment when they embraced their path, final rejection of societal norms, crossing an irreversible threshold
 
-### Act II - The Shadow's Perspective (Scenes 9-17)
+### Act II - The Shadow's Perspective (Middle 35-40% of total scene_count)
 **Purpose**: Show how the character perceives the world and those they oppose
 
-- **9-11**: The "good" characters - not as heroes but as naive hypocrites, privileged beneficiaries of broken systems, those who preach ideals they don't live by
-- **12-14**: Their methods - calculated actions with purpose, destruction as creation, chaos as order from their viewpoint. Show careful planning and deliberate symbolism
-- **15-16**: The cost - personal sacrifices made, relationships destroyed, inner turmoil visible only through subtle cues
-- **17**: The justification - moments where their actions seem to achieve something positive in their twisted worldview, unintended benefits
+- **The "good" characters**: Not as heroes but as naive hypocrites, privileged beneficiaries of broken systems, those who preach ideals they don't live by
+- **Their methods**: Calculated actions with purpose, destruction as creation, chaos as order from their viewpoint. Show careful planning and deliberate symbolism
+- **The cost**: Personal sacrifices made, relationships destroyed, inner turmoil visible only through subtle cues
+- **The justification**: Moments where their actions seem to achieve something positive in their twisted worldview, unintended benefits
 
-### Act III - The Complementary Nature (Scenes 18-25)
+### Act III - The Complementary Nature (Final 30-35% of total scene_count)
 **Purpose**: Explore the philosophical balance between evil and good
 
-- **18-19**: Mirroring - characters showing opposite behaviors but similar motivations, heroes making compromises that mirror the villain's actions
-- **20-21**: The necessary darkness - moments where their actions create space for growth, force others to confront uncomfortable truths
-- **22-23**: The absence question - What would happen if they vanished? Would society grow complacent? Would progress stop without opposition?
-- **24**: The duality - scenes showing the same event from both perspectives, highlighting how both sides see themselves as righteous
-- **25**: The balance - visual representations of yin and yang, light and darkness in harmony, the understanding that neither can exist without the other
+- **Mirroring**: Characters showing opposite behaviors but similar motivations, heroes making compromises that mirror the villain's actions
+- **The necessary darkness**: Moments where their actions create space for growth, force others to confront uncomfortable truths
+- **The absence question**: What would happen if they vanished? Would society grow complacent? Would progress stop without opposition?
+- **The duality**: Scenes showing the same event from both perspectives, highlighting how both sides see themselves as righteous
+- **The balance**: Visual representations of yin and yang, light and darkness in harmony, the understanding that neither can exist without the other
 
 ## Philosophical Framework:
 
@@ -66,10 +66,10 @@ Create 25 scene descriptions for podcast illustration generation exploring the p
 ## Scene Distribution:
 
 ### By Emotional Tone:
-- **30% (7-8 scenes)** - Resentment and bitterness
-- **25% (6-7 scenes)** - Cold calculation and purpose
-- **20% (5 scenes)** - Doubt and vulnerability
-- **25% (6-7 scenes)** - Philosophical reflection
+- **30%** - Resentment and bitterness
+- **25%** - Cold calculation and purpose
+- **20%** - Doubt and vulnerability
+- **25%** - Philosophical reflection
 
 ### By Visual Approach:
 - **Atmospheric: 40%** - Weather and lighting reflecting inner state

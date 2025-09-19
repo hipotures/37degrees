@@ -16,7 +16,7 @@
 # - Ustaw liczby aby ograniczyć zakres (np. od 1 do 7)
 
 MEDIA_START_RANGE="2"      # Początek zakresu (np. 1 dla m00001_xxx)
-MEDIA_END_RANGE="7"        # Koniec zakresu (np. 7 dla m00007_xxx)
+MEDIA_END_RANGE="8"        # Koniec zakresu (np. 7 dla m00007_xxx)
 
 # =============================================================================
 # ŁADOWANIE BIBLIOTEKI I INICJALIZACJA

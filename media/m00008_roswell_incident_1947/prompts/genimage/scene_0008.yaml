@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: July 10, 1947, morning
+    location: Newspaper office, downtown Roswell, New Mexico
+    weather: Bright morning light through large windows
+  characters:
+  - appearance: Caucasian man, 30s, thin build, ink-stained fingers
+    clothing: White dress shirt with rolled sleeves, dark vest, loosened tie, suspenders
+    position: Standing at printing press
+    action: Holding two different newspaper editions, comparing them with furrowed brow
+  - appearance: Caucasian woman, 20s, neat appearance
+    clothing: 1940s office attire - knee-length skirt, white blouse, low heels
+    position: At nearby desk
+    action: On telephone, taking notes rapidly
+  scene:
+    mainElements: 1940s newsroom with printing press, desks, typewriters
+    details: Large printing press with fresh newspapers, stacks of different editions on tables, rotary telephones ringing,
+      typewriter keys clacking, wall clock, filing cabinets, wastepaper baskets full of crumpled drafts, ink smell in air,
+      no text or letters visible
+    background: Busy newspaper office atmosphere, other workers at desks, large windows showing street view
+    atmosphere: Confusion, urgency, conflicting information, professional journalism under pressure
+  composition:
+    cameraAngle: Interior wide shot of newsroom
+    focus: Editor comparing different newspaper versions
+    depth: Foreground shows newspapers and printing equipment, middle ground has main characters, background shows busy newsroom
+      activity
+visualElements:
+  colorPalette:
+    primary:
+    - grays
+    - broken browns
+    - delicate pinks
+    - ochres
+    - caramels
+    - warm grays
+    secondary:
+    - blues
+    - graphites
+    - muted greens
+    background: gradient based backgrounds with atmospheric perspective
+    usageNotes: Controlled palette with medium contrast, colors support scene without dominating
+    saturation: medium (balanced for narrative)
+    contrast: medium (clear without harshness)
+  lineArt:
+    style: clean closed lineart with tapering, varied line weight (outline > details)
+    weight: outer stroke 20-40% thicker than inner, 1.0-3.5px at 2K resolution
+    color: matching or darker than base colors
+    texture: smooth vector-like quality
+    edgeTreatment: rare breaks only in highlights to let form breathe
+  composition:
+    layout: clear staging with rule of thirds and leading lines
+    hierarchy: hero has highest contrast and line weight
+    gridSystem: foreground-midground-background layers
+    whitespace: breathing room between silhouettes, avoid tangencies
+  lighting:
+    type: soft single source, simplified animation lighting
+    direction: key light soft from front, weak fill, minimal rim
+    intensity: medium, narrative-driven
+    shadows:
+      style: soft 1-2 gradient steps
+      color: cooler than base color
+      opacity: 60-80%
+      offset: very subtle ambient occlusion at form contacts
+    highlights: single soft highlight on materials
+  rendering:
+    technique: digital 2D animation, feature film quality
+    texture: smooth without pores, suggested textures not realistic
+    detailLevel: medium-high, optimized for readability
+    finish: clean animation finish, no noise
+    printEffects: none, clean digital output
+  perspective:
+    type: 35-50mm lens equivalent, no extreme distortions
+    vanishingPoints: standard perspective rules
+    distortion: minimal, only for dramatic effect
+    depth: foreground-midground-background with overlapping planes and atmospheric haze
+  typography:
+    integration: clear separation from artwork
+    style: readable, animation-friendly fonts
+    weight: varied for hierarchy
+    layout: follows animation composition rules
+    effects: minimal, no interference with art
+  mood:
+    overall: narrative-driven, emotion-focused
+    emotion: varies by scene requirements
+    tempo: dynamic based on action
+    energy: controlled for storytelling
+    keywords:
+    - storytelling
+    - emotional
+    - readable
+    - dynamic
+    - universal
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

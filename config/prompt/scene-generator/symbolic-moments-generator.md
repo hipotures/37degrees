@@ -1,38 +1,38 @@
 # Symbolic Moments Generator
 
-Create 25 scene descriptions focusing on symbolic objects and visual metaphors that represent core themes, transformations, and abstract concepts through powerful visual language.
+Create scene descriptions focusing on symbolic objects and visual metaphors that represent core themes, transformations, and abstract concepts through powerful visual language. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five symbolic stages based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Symbolic Structure (Proportional Distribution):
 
-### Part I - Foundational Symbols (Scenes 1-5)
+### Part I - Foundational Symbols (First 20% of total scene_count)
 **Purpose**: Establish objects that carry the book's central metaphoric weight
-- **1-2**: Primary symbols introduced naturally - key objects appearing in mundane contexts before their significance is revealed (a simple compass, an ordinary mirror, a child's toy)
-- **3-4**: Secondary symbols emerging - supporting objects that complement or contrast with primary symbols (broken chains alongside locked doors, wilted flowers near fresh seeds)
-- **5**: Symbol constellation - multiple symbols appearing together, creating visual relationships that suggest deeper meanings
+- **Primary symbols introduced naturally**: Key objects appearing in mundane contexts before their significance is revealed (a simple compass, an ordinary mirror, a child's toy)
+- **Secondary symbols emerging**: Supporting objects that complement or contrast with primary symbols (broken chains alongside locked doors, wilted flowers near fresh seeds)
+- **Symbol constellation**: Multiple symbols appearing together, creating visual relationships that suggest deeper meanings
 
-### Part II - Transforming Symbols (Scenes 6-10)
+### Part II - Transforming Symbols (Next 20% of total scene_count)
 **Purpose**: Show how the same objects evolve to reflect character and story development
-- **6-7**: Physical transformation - symbols changing through weathering, breaking, mending, or growth (rusted key becoming polished, seedling becoming tree)
-- **8-9**: Contextual transformation - same object in different settings changing meaning (crown in throne room vs. crown in mud, book in library vs. book burning)
-- **10**: Perspective transformation - symbol viewed from different angles revealing new aspects (mirror showing different reflections based on viewer)
+- **Physical transformation**: Symbols changing through weathering, breaking, mending, or growth (rusted key becoming polished, seedling becoming tree)
+- **Contextual transformation**: Same object in different settings changing meaning (crown in throne room vs. crown in mud, book in library vs. book burning)
+- **Perspective transformation**: Symbol viewed from different angles revealing new aspects (mirror showing different reflections based on viewer)
 
-### Part III - Conflicting Symbols (Scenes 11-15)
+### Part III - Conflicting Symbols (Middle 20% of total scene_count)
 **Purpose**: Visual metaphors representing moral dilemmas and opposing forces
-- **11-12**: Binary opposition - symbols of opposing concepts in same frame (sword and olive branch, cage and wings, wall and bridge)
-- **13-14**: Hybrid symbols - objects combining contradictory elements (thorned roses, chained wings, burning ice)
-- **15**: Choice symbols - crossroads, scales, or moments where character must choose between symbolic paths
+- **Binary opposition**: Symbols of opposing concepts in same frame (sword and olive branch, cage and wings, wall and bridge)
+- **Hybrid symbols**: Objects combining contradictory elements (thorned roses, chained wings, burning ice)
+- **Choice symbols**: Crossroads, scales, or moments where character must choose between symbolic paths
 
-### Part IV - Abstract Symbols (Scenes 16-20)
+### Part IV - Abstract Symbols (Next 20% of total scene_count)
 **Purpose**: Non-literal representations of emotions, ideas, and internal states
-- **16-17**: Emotional landscapes - environments that embody feelings (maze for confusion, storm for turmoil, still water for peace)
-- **18-19**: Conceptual objects - impossible or surreal items representing abstract ideas (stairs leading nowhere for futility, clock with no hands for timelessness)
-- **20**: Metamorphic moment - ordinary objects transforming into abstract representations (shadows becoming creatures, reflections showing different realities)
+- **Emotional landscapes**: Environments that embody feelings (maze for confusion, storm for turmoil, still water for peace)
+- **Conceptual objects**: Impossible or surreal items representing abstract ideas (stairs leading nowhere for futility, clock with no hands for timelessness)
+- **Metamorphic moment**: Ordinary objects transforming into abstract representations (shadows becoming creatures, reflections showing different realities)
 
-### Part V - Resolving Symbols (Scenes 21-25)
+### Part V - Resolving Symbols (Final 20% of total scene_count)
 **Purpose**: Symbols finding their ultimate meaning or purpose in the narrative
-- **21-22**: Symbol fulfillment - objects finally used for their intended or revealed purpose (key opening the crucial door, seed finally sprouting)
-- **23-24**: Symbol integration - previously separate symbols combining or interacting meaningfully (broken pieces forming new whole)
-- **25**: Eternal symbol - final image that encapsulates the entire symbolic journey (circle closing, cycle beginning anew)
+- **Symbol fulfillment**: Objects finally used for their intended or revealed purpose (key opening the crucial door, seed finally sprouting)
+- **Symbol integration**: Previously separate symbols combining or interacting meaningfully (broken pieces forming new whole)
+- **Eternal symbol**: Final image that encapsulates the entire symbolic journey (circle closing, cycle beginning anew)
 
 ## Visual Symbol Language:
 
@@ -124,4 +124,4 @@ Ask yourself for each symbol:
 - ✓ Fresh interpretation of familiar symbols
 - ✓ Appropriate to story's time period and setting
 - ✓ Can be understood at both literal and symbolic levels
-- ✓ Contributes to overall symbolic arc across 25 scenes
+- ✓ Contributes to overall symbolic arc across all scenes

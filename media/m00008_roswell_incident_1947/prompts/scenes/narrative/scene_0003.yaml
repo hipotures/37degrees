@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rancher reports findings at sheriff's office"
+  setting:
+    time: "July 7, 1947, morning"
+    location: "Roswell Sheriff's Office, downtown Roswell, New Mexico"
+    weather: "Sunny day visible through windows"
+  characters:
+    - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
+      clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
+      position: "Standing at sheriff's desk"
+      action: "Placing debris samples on desk, gesturing while explaining, hat in hand"
+    - appearance: "Caucasian man, 40s, mustache, sturdy build, sheriff's weathered face"
+      clothing: "1940s sheriff uniform - khaki shirt with badge, dark trousers, leather gun belt, wide-brimmed hat"
+      position: "Seated behind desk"
+      action: "Leaning forward examining debris pieces, picking up phone receiver"
+  scene:
+    mainElements: "1940s small-town law enforcement office - wooden desks, filing cabinets, bulletin boards with wanted posters"
+    details: "Debris samples spread on desk surface, black rotary telephone, paperwork stacks, ceiling fan rotating slowly, American flag in corner stand, wall clock showing morning time, venetian blinds casting striped shadows, no text or letters visible"
+    background: "Functional government office, fluorescent lighting, institutional green walls, American flag in corner"
+    atmosphere: "Tense curiosity, official concern beginning, professional law enforcement environment"
+  composition:
+    cameraAngle: "Three-quarter view of office interior"
+    focus: "Two men examining unusual debris on sheriff's desk"
+    depth: "Foreground shows desk with debris, middle has the two men in discussion, background shows office details and flag"

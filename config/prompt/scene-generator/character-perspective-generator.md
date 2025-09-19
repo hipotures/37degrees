@@ -1,38 +1,38 @@
 # Character Perspective Generator
 
-Create 25 scene descriptions showing the world through individual character viewpoints, psychological states, and subjective experiences that reveal how perspective shapes reality.
+Create scene descriptions showing the world through individual character viewpoints, psychological states, and subjective experiences that reveal how perspective shapes reality. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five acts based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Perspective Structure (Proportional Distribution):
 
-### Act I - Protagonist's Lens (Scenes 1-5)
+### Act I - Protagonist's Lens (First 20% of total scene_count)
 **Purpose**: Establish how the main character's background, desires, and fears color their world
-- **1-2**: Environmental perception - familiar spaces seen through protagonist's emotional filter (home feeling like sanctuary or prison, workplace as battlefield or playground)
-- **3-4**: People perception - how protagonist sees other characters (allies glowing with warmth, enemies casting long shadows, loved ones surrounded by soft light)
-- **5**: Self-perception - protagonist's reflection or shadow revealing their self-image (heroic pose vs. slouched defeat, clear reflection vs. distorted image)
+- **Environmental perception**: Familiar spaces seen through protagonist's emotional filter (home feeling like sanctuary or prison, workplace as battlefield or playground)
+- **People perception**: How protagonist sees other characters (allies glowing with warmth, enemies casting long shadows, loved ones surrounded by soft light)
+- **Self-perception**: Protagonist's reflection or shadow revealing their self-image (heroic pose vs. slouched defeat, clear reflection vs. distorted image)
 
-### Act II - Antagonist's Truth (Scenes 6-10)
+### Act II - Antagonist's Truth (Next 20% of total scene_count)
 **Purpose**: Reveal how the same world looks completely different through opposing eyes
-- **6-7**: Reframed spaces - locations from Act I seen through antagonist's logic (protagonist's sanctuary as a fortress of ignorance, their battlefield as necessary order)
-- **8-9**: Inverted relationships - same people appearing differently (protagonist's allies as deluded followers, enemies as misunderstood reformers)
-- **10**: Mirror moment - antagonist seeing themselves as the hero of their story (noble bearing, righteous stance, burden of knowledge)
+- **Reframed spaces**: Locations from Act I seen through antagonist's logic (protagonist's sanctuary as a fortress of ignorance, their battlefield as necessary order)
+- **Inverted relationships**: Same people appearing differently (protagonist's allies as deluded followers, enemies as misunderstood reformers)
+- **Mirror moment**: Antagonist seeing themselves as the hero of their story (noble bearing, righteous stance, burden of knowledge)
 
-### Act III - Supporting Voices (Scenes 11-15)
+### Act III - Supporting Voices (Middle 20% of total scene_count)
 **Purpose**: Show the world through the eyes of those often overlooked
-- **11-12**: Child's perspective - world appearing larger, more magical or frightening (furniture like mountains, adults as giants, shadows as monsters)
-- **13-14**: Elder's perspective - same scenes layered with memory and experience (present overlapping with past, young faces echoing ancestors)
-- **15**: Outsider's perspective - stranger or servant seeing what others miss (hidden tensions, unnoticed details, invisible labor)
+- **Child's perspective**: World appearing larger, more magical or frightening (furniture like mountains, adults as giants, shadows as monsters)
+- **Elder's perspective**: Same scenes layered with memory and experience (present overlapping with past, young faces echoing ancestors)
+- **Outsider's perspective**: Stranger or servant seeing what others miss (hidden tensions, unnoticed details, invisible labor)
 
-### Act IV - Objective Reality (Scenes 16-20)
+### Act IV - Objective Reality (Next 20% of total scene_count)
 **Purpose**: Contrast subjective views with neutral observation
-- **16-17**: Documentary view - scenes without emotional filter, showing raw reality (room's actual size, people's true positions, real time of day)
-- **18-19**: Multiple angles - same moment from different physical positions revealing hidden elements (what's behind the door, who's listening, what's in the shadows)
-- **20**: Time-lapse truth - objective passage of time showing what really happened vs. what characters remember
+- **Documentary view**: Scenes without emotional filter, showing raw reality (room's actual size, people's true positions, real time of day)
+- **Multiple angles**: Same moment from different physical positions revealing hidden elements (what's behind the door, who's listening, what's in the shadows)
+- **Time-lapse truth**: Objective passage of time showing what really happened vs. what characters remember
 
-### Act V - Collective Consciousness (Scenes 21-25)
+### Act V - Collective Consciousness (Final 20% of total scene_count)
 **Purpose**: Explore shared experiences and conflicting interpretations
-- **21-22**: Crowd perspective - group experiences of celebration, panic, or mourning (festival through many eyes, disaster's chaos, collective grief)
-- **23-24**: Split reality - same event interpreted differently by different groups (victory/defeat, liberation/invasion, miracle/catastrophe)
-- **25**: Universal moment - experience that transcends individual perspective (sunrise, death, birth, natural disaster affecting all equally)
+- **Crowd perspective**: Group experiences of celebration, panic, or mourning (festival through many eyes, disaster's chaos, collective grief)
+- **Split reality**: Same event interpreted differently by different groups (victory/defeat, liberation/invasion, miracle/catastrophe)
+- **Universal moment**: Experience that transcends individual perspective (sunrise, death, birth, natural disaster affecting all equally)
 
 ## Visual Techniques for Perspective:
 

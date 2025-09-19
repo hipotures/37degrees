@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Press conference with weather balloon debris"
+  setting:
+    time: "July 9, 1947, afternoon"
+    location: "General's office, Fort Worth Army Air Field, Texas"
+    weather: "Indoor scene, bright afternoon light through windows"
+  characters:
+    - appearance: "Caucasian man, 50s, distinguished features, graying hair, commanding presence"
+      clothing: "USAAF general's uniform - same style as other officers but with silver star general's insignia, service cap with rank insignia"
+      position: "Kneeling beside debris on floor"
+      action: "Holding up weather balloon material for photographers, confident expression"
+    - appearance: "Caucasian man, 39, clean-shaven, dark hair neatly combed, average build"
+      clothing: "USAAF Pinks and Greens Class A uniform - olive drab gabardine wool jacket with light taupe trousers, khaki shirt with black tie, gold oak leaf insignia on shoulders"
+      position: "Crouching beside general"
+      action: "Pointing at radar target debris, appearing uncomfortable"
+  scene:
+    mainElements: "Military office with wood-paneled walls, large wall map, wooden desk, leather chairs, American flag"
+    details: "ML-307/AP radar target remnants - balsa wood sticks in triangular frames, paper-backed aluminum foil similar to candy wrapper, reinforced tape with flower patterns, degraded neoprene rubber balloon pieces spread on floor, multiple photographers with flash equipment, bright flash illumination, no text or letters visible"
+    background: "Formal military command office, mixed fluorescent and natural light from windows, polished surfaces"
+    atmosphere: "Staged presentation, bright camera flashes, official military explanation, controlled media event"
+  composition:
+    cameraAngle: "Eye level shot capturing the demonstration"
+    focus: "Officers displaying weather balloon debris to press"
+    depth: "Foreground shows debris pieces clearly, middle ground has officers posing, background shows office details and photographers"

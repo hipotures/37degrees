@@ -1,38 +1,38 @@
 # Cinematic Composition Generator
 
-Create 25 scene descriptions using deliberate camera angles, framing, and visual storytelling techniques drawn from cinematography to create powerful, film-like imagery.
+Create scene descriptions using deliberate camera angles, framing, and visual storytelling techniques drawn from cinematography to create powerful, film-like imagery. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five reels based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Cinematic Structure (Proportional Distribution):
 
-### Reel I - Establishing the World (Scenes 1-5)
+### Reel I - Establishing the World (First 20% of total scene_count)
 **Purpose**: Set scope, scale, and context through wide establishing shots
-- **1-2**: Extreme wide shots - vast landscapes with tiny human figures showing scale (person against mountain range, ship on endless ocean, caravan crossing desert)
-- **3-4**: Wide architectural shots - buildings revealing society and era (castle on cliff, tenement rows, futuristic skyline) with weather and time of day setting mood
-- **5**: Master shot - entire scene geography visible, showing all players' positions before drama begins (ballroom before dance, battlefield before charge, courtroom before trial)
+- **Extreme wide shots**: Vast landscapes with tiny human figures showing scale (person against mountain range, ship on endless ocean, caravan crossing desert)
+- **Wide architectural shots**: Buildings revealing society and era (castle on cliff, tenement rows, futuristic skyline) with weather and time of day setting mood
+- **Master shot**: Entire scene geography visible, showing all players' positions before drama begins (ballroom before dance, battlefield before charge, courtroom before trial)
 
-### Reel II - Character Studies (Scenes 6-10)
+### Reel II - Character Studies (Next 20% of total scene_count)
 **Purpose**: Reveal emotional states and relationships through careful framing
-- **6-7**: Close-ups - faces filling frame to show micro-expressions (tear forming, jaw clenching, eye twitching, slight smile) with shallow depth of field
-- **8-9**: Medium shots - waist-up framing showing body language and immediate environment (hands gripping table, shoulders hunched over desk, reaching toward someone)
-- **10**: Two-shot dynamics - two characters in frame showing relationship (facing off, one turning away, height differences emphasized, space between them telling story)
+- **Close-ups**: Faces filling frame to show micro-expressions (tear forming, jaw clenching, eye twitching, slight smile) with shallow depth of field
+- **Medium shots**: Waist-up framing showing body language and immediate environment (hands gripping table, shoulders hunched over desk, reaching toward someone)
+- **Two-shot dynamics**: Two characters in frame showing relationship (facing off, one turning away, height differences emphasized, space between them telling story)
 
-### Reel III - Subjective Camera (Scenes 11-15)
+### Reel III - Subjective Camera (Middle 20% of total scene_count)
 **Purpose**: Immerse viewer in character's direct experience
-- **11-12**: POV shots - seeing exactly what character sees (hands in frame, partial view through keyhole, looking up from ground, peering through foliage)
-- **13-14**: Over-the-shoulder - following character's gaze while keeping them partially in frame (reading letter over shoulder, watching another character, aiming weapon)
-- **15**: Mirror/reflection POV - character seeing themselves as others might (preparation in mirror, shocked at own appearance, multiple reflections showing different angles)
+- **POV shots**: Seeing exactly what character sees (hands in frame, partial view through keyhole, looking up from ground, peering through foliage)
+- **Over-the-shoulder**: Following character's gaze while keeping them partially in frame (reading letter over shoulder, watching another character, aiming weapon)
+- **Mirror/reflection POV**: Character seeing themselves as others might (preparation in mirror, shocked at own appearance, multiple reflections showing different angles)
 
-### Reel IV - Tension Through Angles (Scenes 16-20)
+### Reel IV - Tension Through Angles (Next 20% of total scene_count)
 **Purpose**: Create unease, power dynamics, and psychological states through camera placement
-- **16-17**: Dutch angles - tilted frame suggesting imbalance (collapsing world, drunkenness, nightmare, psychological break) with increasing tilt for growing tension
-- **18-19**: Extreme angles - low angle making subject monumental and threatening, high angle making them vulnerable and small, bird's eye showing patterns invisible from ground
-- **20**: Rack focus moment - shifting focus between foreground and background to reveal threats, connections, or redirect attention dramatically
+- **Dutch angles**: Tilted frame suggesting imbalance (collapsing world, drunkenness, nightmare, psychological break) with increasing tilt for growing tension
+- **Extreme angles**: Low angle making subject monumental and threatening, high angle making them vulnerable and small, bird's eye showing patterns invisible from ground
+- **Rack focus moment**: Shifting focus between foreground and background to reveal threats, connections, or redirect attention dramatically
 
-### Reel V - Frames Within Frames (Scenes 21-25)
+### Reel V - Frames Within Frames (Final 20% of total scene_count)
 **Purpose**: Use environmental elements to create additional meaning layers
-- **21-22**: Natural frames - doorways, windows, arches containing subjects (prisoner through bars, bride through church door, child through playground equipment)
-- **23-24**: Shadow frames - light and shadow creating frames (figure in spotlight surrounded by darkness, shadow bars across face, silhouette in bright doorway)
-- **25**: Symbolic frame - final image where framing element adds meaning (empty picture frame where person once was, broken window looking onto new world, circular frame suggesting cycle)
+- **Natural frames**: Doorways, windows, arches containing subjects (prisoner through bars, bride through church door, child through playground equipment)
+- **Shadow frames**: Light and shadow creating frames (figure in spotlight surrounded by darkness, shadow bars across face, silhouette in bright doorway)
+- **Symbolic frame**: Final image where framing element adds meaning (empty picture frame where person once was, broken window looking onto new world, circular frame suggesting cycle)
 
 ## Cinematographic Language:
 

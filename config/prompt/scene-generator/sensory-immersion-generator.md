@@ -1,38 +1,38 @@
 # Sensory Immersion Generator
 
-Create 25 scene descriptions that evoke sensory experiences through visual representation, translating touch, sound, smell, taste, and combined sensations into powerful imagery.
+Create scene descriptions that evoke sensory experiences through visual representation, translating touch, sound, smell, taste, and combined sensations into powerful imagery. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five sensory categories based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Sensory Structure (Proportional Distribution):
 
-### Sense I - Touch Manifested (Scenes 1-5)
+### Sense I - Touch Manifested (First 20% of total scene_count)
 **Purpose**: Make tactile sensations visible through texture, temperature, and physical interaction
-- **1-2**: Temperature extremes - frost forming on windows while hands press against glass, desert sand shimmering with heat waves while feet sink deep, steam rising from hot springs in snow
-- **3-4**: Texture contrasts - rough bark against smooth silk, calloused hands holding baby's soft skin, thorns piercing through delicate fabric
-- **5**: Pressure and weight - heavy wool blankets compressing bed, wind pushing against bodies, water's embrace underwater
+- **Temperature extremes**: Frost forming on windows while hands press against glass, desert sand shimmering with heat waves while feet sink deep, steam rising from hot springs in snow
+- **Texture contrasts**: Rough bark against smooth silk, calloused hands holding baby's soft skin, thorns piercing through delicate fabric
+- **Pressure and weight**: Heavy wool blankets compressing bed, wind pushing against bodies, water's embrace underwater
 
-### Sense II - Sound Visualized (Scenes 6-10)
+### Sense II - Sound Visualized (Next 20% of total scene_count)
 **Purpose**: Represent auditory experiences through movement, vibration, and visual rhythm
-- **6-7**: Music made visible - dancers' movements echoing violin strings, church bells creating ripples in puddles, drums shown through dust jumping on surfaces
-- **8-9**: Silence depicted - snow muffling all movement, empty theater with dust motes floating undisturbed, library where even shadows seem hushed
-- **10**: Cacophony illustrated - marketplace with overlapping motion blur, battlefield with explosive clouds and flying debris, storm with everything in chaotic movement
+- **Music made visible**: Dancers' movements echoing violin strings, church bells creating ripples in puddles, drums shown through dust jumping on surfaces
+- **Silence depicted**: Snow muffling all movement, empty theater with dust motes floating undisturbed, library where even shadows seem hushed
+- **Cacophony illustrated**: Marketplace with overlapping motion blur, battlefield with explosive clouds and flying debris, storm with everything in chaotic movement
 
-### Sense III - Scent Suggested (Scenes 11-15)
+### Sense III - Scent Suggested (Middle 20% of total scene_count)
 **Purpose**: Evoke olfactory memories through visual associations
-- **11-12**: Natural aromas - bread cooling with steam curling up, flowers in full bloom with bees hovering, rain on hot pavement with vapor rising
-- **13-14**: Memory scents - grandmother's kitchen with spices visible on shelves, old books with dust particles in light beams, sea salt crystallizing on weathered wood
-- **15**: Warning smells - smoke tendrils before fire visible, food spoiling with subtle color changes, approaching storm with particular cloud formations
+- **Natural aromas**: Bread cooling with steam curling up, flowers in full bloom with bees hovering, rain on hot pavement with vapor rising
+- **Memory scents**: Grandmother's kitchen with spices visible on shelves, old books with dust particles in light beams, sea salt crystallizing on weathered wood
+- **Warning smells**: Smoke tendrils before fire visible, food spoiling with subtle color changes, approaching storm with particular cloud formations
 
-### Sense IV - Taste Implied (Scenes 16-20)
+### Sense IV - Taste Implied (Next 20% of total scene_count)
 **Purpose**: Suggest flavors through visual cues and associations
-- **16-17**: Sweet moments - honey dripping in golden streams, fruit so ripe juice runs down fingers, sugar crystals catching light like diamonds
-- **18-19**: Bitter experiences - medicine bottles with dark liquids, coffee grounds scattered, burnt edges on forgotten toast
-- **20**: Complex flavors - feast table with steam from different dishes mingling, wine swirling in glass catching light, spices being ground with powder clouds
+- **Sweet moments**: Honey dripping in golden streams, fruit so ripe juice runs down fingers, sugar crystals catching light like diamonds
+- **Bitter experiences**: Medicine bottles with dark liquids, coffee grounds scattered, burnt edges on forgotten toast
+- **Complex flavors**: Feast table with steam from different dishes mingling, wine swirling in glass catching light, spices being ground with powder clouds
 
-### Sense V - Synesthetic Symphony (Scenes 21-25)
+### Sense V - Synesthetic Symphony (Final 20% of total scene_count)
 **Purpose**: Combine multiple sensory experiences in single powerful scenes
-- **21-22**: Comfort synthesis - fireplace with crackling logs (sound), warm glow (touch/sight), pine scent suggested by nearby branches, cocoa steaming in mug
-- **23-24**: Overwhelming sensation - festival with colored powder in air (sight/smell), drums vibrating ground (sound/touch), food vendors with rising steam (taste/smell)
-- **25**: Memory trigger - single scene evoking complete sensory memory (mother's embrace with perfume lingering, familiar fabric texture, hummed lullaby suggested by rocking motion)
+- **Comfort synthesis**: Fireplace with crackling logs (sound), warm glow (touch/sight), pine scent suggested by nearby branches, cocoa steaming in mug
+- **Overwhelming sensation**: Festival with colored powder in air (sight/smell), drums vibrating ground (sound/touch), food vendors with rising steam (taste/smell)
+- **Memory trigger**: Single scene evoking complete sensory memory (mother's embrace with perfume lingering, familiar fabric texture, hummed lullaby suggested by rocking motion)
 
 ## Visual Language for Senses:
 

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Secret transport under cover of darkness"
+  setting:
+    time: "July 9, 1947, night"
+    location: "Roswell Army Air Field runway, New Mexico"
+    weather: "Clear night, stars visible, cool desert air"
+  characters:
+    - appearance: "Multiple military personnel silhouettes"
+      clothing: "Military uniforms, some in flight gear"
+      position: "Around C-54 transport aircraft"
+      action: "Loading sealed crates under floodlights, moving with urgency"
+    - appearance: "Armed guards, young men in uniform"
+      clothing: "Military police uniforms with white helmets, web belts"
+      position: "Perimeter positions around aircraft"
+      action: "Standing guard with rifles, scanning darkness"
+  scene:
+    mainElements: "Military transport aircraft on runway at night, loading operation"
+    details: "C-54 Skymaster with cargo doors open, sealed wooden crates on dollies, portable floodlights creating harsh shadows, red runway lights, control tower in distance with lit windows, fuel bowser nearby, guards with M1 rifles, exhaust from idling engines, no text or letters visible"
+    background: "Dark airfield with distant hangar silhouettes, star-filled desert sky"
+    atmosphere: "Secretive night operation, high security, mysterious urgency, cold desert night"
+  composition:
+    cameraAngle: "Low angle emphasizing drama"
+    focus: "Clandestine loading operation under floodlights"
+    depth: "Foreground shows guard silhouette, middle ground has loading activity in light pools, background shows dark aircraft against starry sky"

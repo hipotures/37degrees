@@ -1,12 +1,13 @@
 media_info:
-  title: "The Atomic Bomb: A Historical Retrospective"
-  author: "Historical Documentation"
+  title: 'The Atomic Bomb: A Historical Retrospective'
+  author: Historical Documentation
   year: 1945
-  genre: "Historical Documentary"
-  description: "Chronological account of atomic bomb development and first use"
-  target_audience: "General public, students, history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Present factual history without bias or moral judgment"
+  genre: Historical Documentary
+  description: Chronological account of atomic bomb development and first use
+  target_audience: General public, students, history enthusiasts
+  duration: ~3 minutes
+  objective: Present factual history without bias or moral judgment
   scene_count: 10
-  graphics_style: "film-noir-1950s-melodrama"
-  scene_generator: "narrative"
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

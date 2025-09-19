@@ -1,12 +1,15 @@
 media_info:
-  title: "The Rosenberg Case - Trial and Execution 1951-1953"
-  author: "Historical Documentation"
+  title: The Rosenberg Case - Trial and Execution 1951-1953
+  author: Historical Documentation
   year: 1953
-  genre: "Cold War Historical Documentary"
-  description: "The controversial espionage trial and execution of Julius and Ethel Rosenberg during the Cold War era"
-  target_audience: "General public, students, Cold War history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Document one of the most controversial cases in American legal history with historical accuracy"
+  genre: Cold War Historical Documentary
+  description: The controversial espionage trial and execution of Julius and Ethel
+    Rosenberg during the Cold War era
+  target_audience: General public, students, Cold War history enthusiasts
+  duration: ~3 minutes
+  objective: Document one of the most controversial cases in American legal history
+    with historical accuracy
   scene_count: 10
-  graphics_style: "film-noir-1950s-melodrama"
-  scene_generator: "narrative"
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

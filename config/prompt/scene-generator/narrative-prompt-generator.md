@@ -1,26 +1,26 @@
 # narrative-prompt-generator.md
 
-Create 25 scene descriptions for podcast illustration generation. Each description should focus on WHAT happens, WHO participates, and WHERE the action takes place, optimized for audio storytelling visuals.
+Create scene descriptions for podcast illustration generation. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the three parts based on the percentages indicated below. Each description should focus on WHAT happens, WHO participates, and WHERE the action takes place, optimized for audio storytelling visuals.
 
-## Structure of 25 Scenes:
+## Narrative Structure (Proportional Distribution):
 
-### Act I - Exposition (Scenes 1-8)
+### Part I - Exposition (First 30-35% of total scene_count)
 **Purpose**: Establish the world, introduce characters, set the tone
-- **1-2**: Wide establishing shots - geography, architecture, time period. Show scale and context through landscapes, cityscapes, or intimate neighborhood views. Include weather, time of day, season
-- **3-5**: Character introductions - capture protagonists through revealing actions, not just appearance. Show them at work, at home, in relationships. Their movements, tools, and surroundings tell their story
-- **6-8**: Relationship dynamics and daily rhythms - characters interacting in ways that reveal bonds, tensions, hierarchies. Period-specific activities, customs, social structures made visual
+- **Opening scenes**: Wide establishing shots - geography, architecture, time period. Show scale and context through landscapes, cityscapes, or intimate neighborhood views. Include weather, time of day, season
+- **Early development**: Character introductions - capture protagonists through revealing actions, not just appearance. Show them at work, at home, in relationships. Their movements, tools, and surroundings tell their story
+- **Foundation building**: Relationship dynamics and daily rhythms - characters interacting in ways that reveal bonds, tensions, hierarchies. Period-specific activities, customs, social structures made visual
 
-### Act II - Development (Scenes 9-18)
+### Part II - Development (Middle 40-45% of total scene_count)
 **Purpose**: Deepen exploration, show changes or journeys, develop themes
-- **9-12**: New elements emerge - strangers arriving, letters delivered, seasons changing, journeys beginning. Show through concrete visual changes: packed bags, new faces, altered routines
-- **13-15**: Significant moments - decisions shown through actions (burning letters, choosing paths, exchanging rings), revelations through expressions and body language, not abstract concepts
-- **16-18**: Intensification - weather worsening, crowds gathering, distances growing, tensions visible in postures, spaces between characters, environmental pressures mounting
+- **Transition phase**: New elements emerge - strangers arriving, letters delivered, seasons changing, journeys beginning. Show through concrete visual changes: packed bags, new faces, altered routines
+- **Core moments**: Significant moments - decisions shown through actions (burning letters, choosing paths, exchanging rings), revelations through expressions and body language, not abstract concepts
+- **Rising tension**: Intensification - weather worsening, crowds gathering, distances growing, tensions visible in postures, spaces between characters, environmental pressures mounting
 
-### Act III - Finale (Scenes 19-25)
+### Part III - Resolution (Final 25-30% of total scene_count)
 **Purpose**: Bring threads together, show outcomes, provide closure
-- **19-21**: Peak moments - physical confrontations, emotional reunions, arrival at destinations. Maximum visual drama through composition, contrast, movement. All without readable text
-- **22-24**: Resolution - visible consequences: bandaged wounds, rebuilt homes, empty chairs, new configurations of characters. Show what has changed through concrete visual details
-- **25**: Final image - a visual metaphor or callback to opening: door closing/opening, season changed, next generation in familiar space, symbolic object passed on or left behind. No text or letters visible
+- **Climax**: Peak moments - physical confrontations, emotional reunions, arrival at destinations. Maximum visual drama through composition, contrast, movement. All without readable text
+- **Aftermath**: Resolution - visible consequences: bandaged wounds, rebuilt homes, empty chairs, new configurations of characters. Show what has changed through concrete visual details
+- **Denouement**: Closing moments showing the new equilibrium: transformed characters, changed world, visual callback to opening. Could be door closing/opening, season changed, next generation in familiar space, or symbolic object passed on. No text or letters visible
 
 ## Scene Creation Guidelines:
 
@@ -73,7 +73,7 @@ Think like a film director adapting the book for a silent film. For each scene a
 - Which visual elements will stick in viewer's memory?
 - How to convey information without any text or signs?
 
-Remember: You're creating a wordless graphic novel that tells the complete story through 25 carefully chosen moments.
+Remember: You're creating a wordless graphic novel that tells the complete story through carefully chosen moments, with the exact number determined by scene_count.
 
 ## Final Checklist for Each Scene:
 

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm aftermath over New Mexico desert ranch"
+  setting:
+    time: "June 14, 1947, early morning after storm"
+    location: "Foster Ranch near Corona, New Mexico - remote cattle ranch 75 miles northwest of Roswell"
+    weather: "Clear sky after severe thunderstorm, puddles on ground, wet soil"
+  characters:
+    - appearance: "Caucasian man, 50s, weathered sun-worn face with deep lines, graying hair, lean build"
+      clothing: "1940s ranch attire - worn denim jeans, cotton long-sleeve shirt, brown felt cowboy hat with wide brim, leather belt with simple buckle, worn leather work boots"
+      position: "Standing at ranch house porch, looking out at pasture"
+      action: "Surveying storm damage, holding coffee mug, squinting at distant debris scatter"
+  scene:
+    mainElements: "Single-story wood frame ranch house with front porch, weathered barn, corrals, outbuildings"
+    details: "Wet ground reflecting morning sun, scattered tree branches from storm, fence posts askew, distant glint of metallic debris catching sunlight across pasture land, muddy tire tracks, water dripping from roof edges, no text or letters visible"
+    background: "Arid semi-desert landscape with low scrub vegetation, sagebrush, yucca plants, sandy soil with rocky outcrops, vast open sky"
+    atmosphere: "Post-storm quietness, fresh desert air, sense of something unusual in the landscape, harsh morning light creating long shadows"
+  composition:
+    cameraAngle: "Wide establishing shot from slight elevation"
+    focus: "Ranch foreman surveying his land with debris field visible in distance"
+    depth: "Foreground shows wet porch boards, middle ground has ranch buildings, background reveals vast desert with scattered reflective debris"

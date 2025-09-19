@@ -1,38 +1,38 @@
 # Temporal Shift Generator
 
-Create 25 scene descriptions emphasizing time passage, aging, evolution, and the relentless or cyclical nature of time through powerful visual storytelling.
+Create scene descriptions emphasizing time passage, aging, evolution, and the relentless or cyclical nature of time through powerful visual storytelling. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five temporal chapters based on the percentages indicated below.
 
-## Structure of 25 Scenes:
+## Temporal Structure (Proportional Distribution):
 
-### Chapter I - Before/After Revelations (Scenes 1-5)
+### Chapter I - Before/After Revelations (First 20% of total scene_count)
 **Purpose**: Establish the power of time through direct comparisons
-- **1-2**: Single location decades apart - same room/building showing accumulation or loss (nursery becoming study, mansion becoming ruins, battlefield becoming meadow)
-- **3-4**: Human transformation - same person at different life stages in identical pose/location (child's hand planting tree, elderly hand touching grown trunk)
-- **5**: Object journey - single item through its lifetime (new sword to museum piece, seed to wooden chair, wedding dress to christening gown)
+- **Single location decades apart**: Same room/building showing accumulation or loss (nursery becoming study, mansion becoming ruins, battlefield becoming meadow)
+- **Human transformation**: Same person at different life stages in identical pose/location (child's hand planting tree, elderly hand touching grown trunk)
+- **Object journey**: Single item through its lifetime (new sword to museum piece, seed to wooden chair, wedding dress to christening gown)
 
-### Chapter II - Seasonal Metamorphosis (Scenes 6-10)
+### Chapter II - Seasonal Metamorphosis (Next 20% of total scene_count)
 **Purpose**: Show time's passage through nature's cycles
-- **6-7**: Spring to summer - budding life to full bloom (orchard flowering to heavy with fruit, frozen pond to swimming children)
-- **8-9**: Autumn to winter - abundance to dormancy (harvest feast table to empty snow-covered field, full trees to bare branches against gray sky)
-- **10**: Full cycle moment - all four seasons visible in single frame (tree with budding, green, golden, and bare branches, path showing footprints in mud, grass, leaves, and snow)
+- **Spring to summer**: Budding life to full bloom (orchard flowering to heavy with fruit, frozen pond to swimming children)
+- **Autumn to winter**: Abundance to dormancy (harvest feast table to empty snow-covered field, full trees to bare branches against gray sky)
+- **Full cycle moment**: All four seasons visible in single frame (tree with budding, green, golden, and bare branches, path showing footprints in mud, grass, leaves, and snow)
 
-### Chapter III - Generational Echoes (Scenes 11-15)
+### Chapter III - Generational Echoes (Middle 20% of total scene_count)
 **Purpose**: Explore how different generations inhabit the same spaces
-- **11-12**: Family traditions - same ritual across generations (grandmother's, mother's, daughter's wedding in same church, three generations fishing same spot)
-- **13-14**: Technological evolution - same task, different eras (letters to telegrams to phones to screens, horse to car to spacecraft in same garage)
-- **15**: Memory layers - space showing ghostly overlays of different time periods simultaneously (ballroom with dancers from multiple decades visible as transparencies)
+- **Family traditions**: Same ritual across generations (grandmother's, mother's, daughter's wedding in same church, three generations fishing same spot)
+- **Technological evolution**: Same task, different eras (letters to telegrams to phones to screens, horse to car to spacecraft in same garage)
+- **Memory layers**: Space showing ghostly overlays of different time periods simultaneously (ballroom with dancers from multiple decades visible as transparencies)
 
-### Chapter IV - Time Distortion (Scenes 16-20)
+### Chapter IV - Time Distortion (Next 20% of total scene_count)
 **Purpose**: Manipulate visual time to show psychological or dramatic effects
-- **16-17**: Frozen moments - critical instant suspended while world moves around it (falling glass mid-shatter while party continues, bullet path visible while runner freezes)
-- **18-19**: Accelerated decay - rapid aging/growth compressed into single image (flower blooming and wilting simultaneously, building construction and demolition overlapped)
-- **20**: Time bleeding - past and present occurring in same space (modern street with historical figures walking through, old photograph coming alive in frame)
+- **Frozen moments**: Critical instant suspended while world moves around it (falling glass mid-shatter while party continues, bullet path visible while runner freezes)
+- **Accelerated decay**: Rapid aging/growth compressed into single image (flower blooming and wilting simultaneously, building construction and demolition overlapped)
+- **Time bleeding**: Past and present occurring in same space (modern street with historical figures walking through, old photograph coming alive in frame)
 
-### Chapter V - Eternal Cycles (Scenes 21-25)
+### Chapter V - Eternal Cycles (Final 20% of total scene_count)
 **Purpose**: Show time as circular rather than linear
-- **21-22**: Daily rituals - sunrise/sunset in same location showing life's continuity (fisherman's silhouette at dawn and dusk, cafe opening and closing)
-- **23-24**: Historical repetition - different eras, same human patterns (protests across centuries in same square, different wars in same valley)
-- **25**: Cosmic perspective - human time vs. geological/cosmic time (ancient tree with civilizations rising and falling in background, stars wheeling over changing landscape)
+- **Daily rituals**: Sunrise/sunset in same location showing life's continuity (fisherman's silhouette at dawn and dusk, cafe opening and closing)
+- **Historical repetition**: Different eras, same human patterns (protests across centuries in same square, different wars in same valley)
+- **Cosmic perspective**: Human time vs. geological/cosmic time (ancient tree with civilizations rising and falling in background, stars wheeling over changing landscape)
 
 ## Visual Language of Time:
 

@@ -1,40 +1,40 @@
 # emotional-journey-generator.md
 
-Create 25 scene descriptions for podcast illustration generation focusing on the emotional arc of the story. Each description should convey mood and feeling through visual elements, creating an emotional journey independent of plot details.
+Create scene descriptions for podcast illustration generation focusing on the emotional arc of the story. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five emotional phases based on the percentages indicated below. Each description should convey mood and feeling through visual elements, creating an emotional journey independent of plot details.
 
-## Structure of 25 Scenes:
+## Emotional Arc Structure (Proportional Distribution):
 
 **Note**: These images create an ambient visual experience tracking emotional shifts throughout the narrative, suitable for podcast background visuals.
 
-### Scenes 1-5: Emotional Baseline - Starting State
+### Phase 1: Emotional Baseline - Starting State (First 20% of total scene_count)
 **Purpose**: Establish the initial emotional atmosphere
-- **1-2**: Opening mood through environment - peaceful morning mist over village, busy market with warm interactions, or isolated mansion under gray skies. Weather and lighting set emotional tone
-- **3-4**: Characters in their emotional comfort zones - relaxed postures, familiar routines, neutral or content expressions. Show emotional state through body language and spatial relationships
-- **5**: Baseline interpersonal dynamics - comfortable distances between characters, harmonious group activities, or established patterns of isolation. Visual representation of relationship temperatures
+- **Opening mood through environment**: Peaceful morning mist over village, busy market with warm interactions, or isolated mansion under gray skies. Weather and lighting set emotional tone
+- **Characters in emotional comfort zones**: Relaxed postures, familiar routines, neutral or content expressions. Show emotional state through body language and spatial relationships
+- **Baseline interpersonal dynamics**: Comfortable distances between characters, harmonious group activities, or established patterns of isolation. Visual representation of relationship temperatures
 
-### Scenes 6-10: First Emotional Shifts
+### Phase 2: First Emotional Shifts (Next 20% of total scene_count)
 **Purpose**: Introduce subtle changes in emotional climate
-- **6-7**: Environmental changes reflecting mood - storm clouds gathering on horizon, shadows lengthening in previously bright spaces, flowers wilting in garden. Nature mirrors emotional shifts
-- **8-9**: Body language transitions - characters turning away from each other, hands clenching, shoulders tensing, or conversely moving closer. Micro-expressions and gestures tell emotional story
-- **10**: Disrupted patterns - empty chair at dinner table, closed door previously open, character in unexpected location. Visual breaks in established rhythms
+- **Environmental changes reflecting mood**: Storm clouds gathering on horizon, shadows lengthening in previously bright spaces, flowers wilting in garden. Nature mirrors emotional shifts
+- **Body language transitions**: Characters turning away from each other, hands clenching, shoulders tensing, or conversely moving closer. Micro-expressions and gestures tell emotional story
+- **Disrupted patterns**: Empty chair at dinner table, closed door previously open, character in unexpected location. Visual breaks in established rhythms
 
-### Scenes 11-15: Emotional Peaks and Valleys
+### Phase 3: Emotional Peaks and Valleys (Middle 20% of total scene_count)
 **Purpose**: Capture intense emotional swings through contrast
-- **11-12**: Joy or hope moments - characters with arms raised in triumph, sunlight breaking through clouds, embraces with genuine smiles, children playing. Maximum visual warmth
-- **13-14**: Despair or conflict scenes - hunched figures in rain, faces turned away in shadows, clenched fists or protective postures, harsh angular compositions
-- **15**: Emotional whiplash moment - split compositions showing before/after, character caught between light and shadow, environment reflecting internal conflict
+- **Joy or hope moments**: Characters with arms raised in triumph, sunlight breaking through clouds, embraces with genuine smiles, children playing. Maximum visual warmth
+- **Despair or conflict scenes**: Hunched figures in rain, faces turned away in shadows, clenched fists or protective postures, harsh angular compositions
+- **Emotional whiplash moment**: Split compositions showing before/after, character caught between light and shadow, environment reflecting internal conflict
 
-### Scenes 16-20: Building Emotional Crescendo
+### Phase 4: Building Emotional Crescendo (Next 20% of total scene_count)
 **Purpose**: Intensify toward emotional climax
-- **16-17**: Pressure mounting - crowds closing in, walls seeming to press closer, multiple characters in states of visible stress, environment becoming more chaotic or oppressive
-- **18-19**: Emotional breaking points - tears visible on faces, collapsed postures, explosive gestures, or profound stillness. Peak vulnerability or rage captured visually
-- **20**: Moment before resolution - held breath feeling, characters on precipice, storm at its worst, darkest before dawn composition. Maximum emotional tension
+- **Pressure mounting**: Crowds closing in, walls seeming to press closer, multiple characters in states of visible stress, environment becoming more chaotic or oppressive
+- **Emotional breaking points**: Tears visible on faces, collapsed postures, explosive gestures, or profound stillness. Peak vulnerability or rage captured visually
+- **Moment before resolution**: Held breath feeling, characters on precipice, storm at its worst, darkest before dawn composition. Maximum emotional tension
 
-### Scenes 21-25: Emotional Resolution and New Equilibrium
+### Phase 5: Emotional Resolution and New Equilibrium (Final 20% of total scene_count)
 **Purpose**: Show emotional transformation and final state
-- **21-22**: Catharsis and release - rain washing over relieved faces, exhausted but peaceful postures, gentle physical contact after conflict, breathing spaces opening up
-- **23-24**: New emotional baseline - changed relationships shown through new spatial configurations, different expressions on familiar faces, environmental healing or permanent change
-- **25**: Final emotional note - contemplative figure in transformed landscape, group in new formation, symbolic weather change, door opening to different light. Lasting feeling
+- **Catharsis and release**: Rain washing over relieved faces, exhausted but peaceful postures, gentle physical contact after conflict, breathing spaces opening up
+- **New emotional baseline**: Changed relationships shown through new spatial configurations, different expressions on familiar faces, environmental healing or permanent change
+- **Final emotional note**: Contemplative figure in transformed landscape, group in new formation, symbolic weather change, door opening to different light. Lasting feeling
 
 ## Emotional Expression Guidelines:
 
@@ -60,10 +60,10 @@ Create 25 scene descriptions for podcast illustration generation focusing on the
 ## Scene Distribution:
 
 ### By Emotional Intensity:
-- **20%** (5 scenes) - Neutral/calm baseline
-- **30%** (7-8 scenes) - Building tension/change
-- **30%** (7-8 scenes) - High emotional peaks
-- **20%** (5 scenes) - Resolution/new calm
+- **20%** - Neutral/calm baseline
+- **30%** - Building tension/change
+- **30%** - High emotional peaks
+- **20%** - Resolution/new calm
 
 ### By Emotional Tone:
 - Balance positive and negative emotions
@@ -105,7 +105,7 @@ Create 25 scene descriptions for podcast illustration generation focusing on the
 
 1. **Emotional Truth**: Prioritize feeling over plot accuracy
 2. **Visual Subtlety**: Layer multiple emotional cues
-3. **Progressive Arc**: Build emotional journey across 25 scenes
+3. **Progressive Arc**: Build emotional journey across all scenes
 4. **Universal Language**: Use cross-cultural emotional expressions
 5. **Atmospheric Immersion**: Environment reflects internal states
 6. **Podcast Optimization**: Clear emotions readable at thumbnail size

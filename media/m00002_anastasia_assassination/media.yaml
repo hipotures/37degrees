@@ -1,12 +1,15 @@
 media_info:
-  title: "Albert Anastasia Assassination - October 25, 1957"
-  author: "Historical Documentation"
+  title: Albert Anastasia Assassination - October 25, 1957
+  author: Historical Documentation
   year: 1957
-  genre: "True Crime Documentary"
-  description: "The brutal assassination of mob boss Albert Anastasia in a Manhattan barbershop that changed the American underworld"
-  target_audience: "General public, students, crime history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Document one of the most notorious mob hits in American history with atmospheric recreation"
+  genre: True Crime Documentary
+  description: The brutal assassination of mob boss Albert Anastasia in a Manhattan
+    barbershop that changed the American underworld
+  target_audience: General public, students, crime history enthusiasts
+  duration: ~3 minutes
+  objective: Document one of the most notorious mob hits in American history with
+    atmospheric recreation
   scene_count: 10
-  graphics_style: "film-noir-1950s-melodrama"
-  scene_generator: "narrative"
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

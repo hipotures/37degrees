@@ -1,41 +1,41 @@
 # atmospheric-moments-generator.md
 
-Create 25 scene descriptions for podcast illustration generation focusing on atmospheric moments and environmental storytelling. Each description should emphasize mood through weather, lighting, time of day, and environmental details.
+Create scene descriptions for podcast illustration generation focusing on atmospheric moments and environmental storytelling. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the time periods based on the percentages indicated below. Each description should emphasize mood through weather, lighting, time of day, and environmental details.
 
-## Structure of 25 Scenes:
+## Atmospheric Structure (Proportional Distribution):
 
 **Note**: These images create a visual tone poem of changing atmospheres, perfect for ambient podcast visuals that work independently of narration.
 
-### Scenes 1-5: Dawn to Morning - Awakening
+### Phase 1: Dawn to Morning - Awakening (First 20% of total scene_count)
 **Purpose**: Establish the world through morning atmospheres
-- **1**: Pre-dawn darkness - last stars fading, silhouetted landscape against deep blue sky, mist rising from valleys, first bird on branch. The world holding its breath
-- **2-3**: First light moments - golden rays through windows casting long shadows, dew on spider webs, smoke from chimneys catching early sun, empty streets with puddles reflecting pink sky
-- **4-5**: Morning activity beginning - fog lifting to reveal landscape, breakfast preparations with steam rising, morning routines in soft light, shadows shortening as sun climbs
+- **Pre-dawn darkness**: Last stars fading, silhouetted landscape against deep blue sky, mist rising from valleys, first bird on branch. The world holding its breath
+- **First light moments**: Golden rays through windows casting long shadows, dew on spider webs, smoke from chimneys catching early sun, empty streets with puddles reflecting pink sky
+- **Morning activity beginning**: Fog lifting to reveal landscape, breakfast preparations with steam rising, morning routines in soft light, shadows shortening as sun climbs
 
-### Scenes 6-10: Midday Variations - Full Light
+### Phase 2: Midday Variations - Full Light (Next 20% of total scene_count)
 **Purpose**: Show different qualities of daylight and weather
-- **6-7**: Bright sunshine scenarios - harsh shadows at noon, bleached colors in summer heat, shimmering air over hot pavement, seeking shade under trees, squinting against brightness
-- **8-9**: Overcast variations - flat gray light eliminating shadows, colors muted but rich, approaching storm fronts, heavy air before rain, birds flying low
-- **10**: Sudden weather change - first raindrops on dusty ground, wind picking up papers, umbrellas blooming, people running for cover, dramatic sky transformation
+- **Bright sunshine scenarios**: Harsh shadows at noon, bleached colors in summer heat, shimmering air over hot pavement, seeking shade under trees, squinting against brightness
+- **Overcast variations**: Flat gray light eliminating shadows, colors muted but rich, approaching storm fronts, heavy air before rain, birds flying low
+- **Sudden weather change**: First raindrops on dusty ground, wind picking up papers, umbrellas blooming, people running for cover, dramatic sky transformation
 
-### Scenes 11-15: Afternoon to Golden Hour - Transformation
+### Phase 3: Afternoon to Golden Hour - Transformation (Middle 20% of total scene_count)
 **Purpose**: Capture the magic of changing light
-- **11-12**: Afternoon atmospheres - slanted light through trees creating patterns, dust motes in sunbeams, afternoon thunderstorm with dramatic clouds, post-rain clarity with gleaming surfaces
-- **13-14**: Golden hour magic - everything bathed in warm light, long shadows creating drama, silhouettes against burning sky, windows reflecting fire of sunset, peaceful end-of-day feeling
-- **15**: Blue hour transition - deep blue sky with last orange on horizon, first lights appearing in windows, street lamps beginning to glow, magical in-between time
+- **Afternoon atmospheres**: Slanted light through trees creating patterns, dust motes in sunbeams, afternoon thunderstorm with dramatic clouds, post-rain clarity with gleaming surfaces
+- **Golden hour magic**: Everything bathed in warm light, long shadows creating drama, silhouettes against burning sky, windows reflecting fire of sunset, peaceful end-of-day feeling
+- **Blue hour transition**: Deep blue sky with last orange on horizon, first lights appearing in windows, street lamps beginning to glow, magical in-between time
 
-### Scenes 16-20: Night Variations - Mystery and Rest
+### Phase 4: Night Variations - Mystery and Rest (Next 20% of total scene_count)
 **Purpose**: Explore different qualities of darkness
-- **16-17**: Early evening - dinner tables lit by candles, cozy interiors against dark windows, street life under artificial lights, mix of natural and human-made illumination
-- **18-19**: Deep night - moonlight creating silver landscapes, shadows within shadows, lit windows as beacons in darkness, night fog creating halos around lights, sleeping world
-- **20**: Special night conditions - starry sky over landscape, northern lights, night storm with lightning, snow falling in lamplight, unusual nocturnal atmosphere
+- **Early evening**: Dinner tables lit by candles, cozy interiors against dark windows, street life under artificial lights, mix of natural and human-made illumination
+- **Deep night**: Moonlight creating silver landscapes, shadows within shadows, lit windows as beacons in darkness, night fog creating halos around lights, sleeping world
+- **Special night conditions**: Starry sky over landscape, northern lights, night storm with lightning, snow falling in lamplight, unusual nocturnal atmosphere
 
-### Scenes 21-25: Full Cycle and Seasons
+### Phase 5: Full Cycle and Seasons (Final 20% of total scene_count)
 **Purpose**: Show time passage through atmospheric changes
-- **21**: Seasonal transition - leaves changing color, first snow, spring buds, summer drought. Same location showing dramatic seasonal shift
-- **22-23**: Weather extremes - blizzard conditions, torrential rain, scorching heat waves, dense fog. Nature at its most dramatic
-- **24**: Return to calm - after storm clearing, rainbow appearing, sun breaking through, puddles reflecting blue sky, fresh-washed world
-- **25**: Full circle moment - dawn again but changed, familiar location in different season, cyclical but transformed, time passage made visible
+- **Seasonal transition**: Leaves changing color, first snow, spring buds, summer drought. Same location showing dramatic seasonal shift
+- **Weather extremes**: Blizzard conditions, torrential rain, scorching heat waves, dense fog. Nature at its most dramatic
+- **Return to calm**: After storm clearing, rainbow appearing, sun breaking through, puddles reflecting blue sky, fresh-washed world
+- **Full circle moment**: Dawn again but changed, familiar location in different season, cyclical but transformed, time passage made visible
 
 ## Atmospheric Elements Toolbox:
 
@@ -83,11 +83,12 @@ Create 25 scene descriptions for podcast illustration generation focusing on atm
 
 ## Scene Distribution:
 
-### By Time of Day:
-- **25%** Dawn/morning scenes
-- **25%** Daylight variations  
-- **25%** Evening/dusk scenes
-- **25%** Night scenes
+### By Time of Day (matching the 5 phases above):
+- **20%** Dawn/morning scenes
+- **20%** Midday variations
+- **20%** Afternoon/golden hour
+- **20%** Night scenes
+- **20%** Full cycle/seasonal changes
 
 ### By Weather:
 - **40%** Clear conditions

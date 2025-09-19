@@ -1,12 +1,15 @@
 media_info:
-  title: "NYC Waterfront Commission and the Shape-Up System - 1953"
-  author: "Historical Documentation"
+  title: NYC Waterfront Commission and the Shape-Up System - 1953
+  author: Historical Documentation
   year: 1953
-  genre: "Labor History Documentary"
-  description: "The corruption and reform of New York's waterfront labor system and the elimination of the brutal shape-up hiring practices"
-  target_audience: "General public, students, labor history enthusiasts"
-  duration: "~3 minutes"
-  objective: "Document the transformation of corrupt waterfront labor practices into organized, transparent hiring systems"
+  genre: Labor History Documentary
+  description: The corruption and reform of New York's waterfront labor system and
+    the elimination of the brutal shape-up hiring practices
+  target_audience: General public, students, labor history enthusiasts
+  duration: ~3 minutes
+  objective: Document the transformation of corrupt waterfront labor practices into
+    organized, transparent hiring systems
   scene_count: 10
-  graphics_style: "film-noir-1950s-melodrama"
-  scene_generator: "narrative"
+  graphics_style: film-noir-1950s-melodrama
+  scene_generator: narrative
+  nb_audio_format: brief

@@ -1,38 +1,38 @@
 # flexible-prompt-generator-expanded.md
 
-Create 25 scene descriptions for podcast illustration generation. Each description should depict a specific scene or moment from the book, creating a visual narrative that works for audio storytelling.
+Create scene descriptions for podcast illustration generation. The total number of scenes is defined by scene_count in the configuration. Distribute scenes proportionally across the five narrative sections based on the percentages indicated below. Each description should depict a specific scene or moment from the book, creating a visual narrative that works for audio storytelling.
 
-## Structure of 25 Scenes:
+## Flexible Narrative Structure (Proportional Distribution):
 
-### Prompts 1-3: Opening - Setting the Stage
+### Section 1: Opening - Setting the Stage (First 10-15% of total scene_count)
 **Purpose**: Immerse the viewer in the book's world
 - Establishing shots showing geography and scale - the isolated mansion on the moor, the bustling city street, the small village nestled in valley
 - Architectural details that set period and mood - Gothic windows, art deco facades, thatched roofs, industrial smokestacks
 - Interiors that reveal social status and personality - cluttered studies with books and curiosities, stark modern offices, cozy kitchens with herbs hanging
 - Environmental storytelling through details - weather-worn signs, patched clothing on lines, fresh flowers or dead plants, pristine or crumbling walls
 
-### Prompts 4-8: Character Introduction in Daily Life
+### Section 2: Character Introduction in Daily Life (Next 20% of total scene_count)
 **Purpose**: Reveal characters through actions and environment
 - Protagonists engaged in characteristic activities - show personality through what they do, how they move, their expressions and gestures in routine moments
 - Supporting characters captured in moments that define their role - the stern teacher at blackboard, the kind neighbor tending garden, the antagonist in position of power
 - Relationships demonstrated through physical proximity, body language, shared activities - not just who they are but how they relate to each other
 - Period details in clothing, tools, and surroundings that ground characters in their time and place - make every prop count
 
-### Prompts 9-15: Story Development - Mix of Calm and Tension
+### Section 3: Story Development - Mix of Calm and Tension (Middle 25-30% of total scene_count)
 **Purpose**: Build narrative momentum through variety
 - Quiet moments of reflection or daily routine alternating with scenes of growing unease or excitement - create rhythm through contrast
 - Conversations and interactions that deepen understanding - show how relationships evolve through gesture, proximity, shared objects or activities
 - Journey or transition scenes showing movement through space or time - characters walking, traveling, or environments changing with seasons
 - Visual hints of what's to come - storm clouds gathering, letters arriving, meaningful glances, objects that will matter later
 
-### Prompts 16-20: Climax and Key Moments
+### Section 4: Climax and Key Moments (Next 20% of total scene_count)
 **Purpose**: Capture peak dramatic or emotional scenes
 - Confrontations where conflicts come to a head - characters facing each other across rooms, dramatic gestures, decisive actions being taken
 - Emotional peaks rendered visually - tears, embraces, moments of triumph with raised arms, devastation shown through collapsed postures
 - Action sequences broken into key frames - the sword raised before battle, the chase through narrow streets, the moment before the fall
 - Transformative instants - the character seeing truth in a mirror, the revelation dawning on a face, the choice being made at a crossroads
 
-### Prompts 21-25: Resolution and Epilogue
+### Section 5: Resolution and Epilogue (Final 20-25% of total scene_count)
 **Purpose**: Provide closure and lasting impressions
 - Aftermath scenes showing consequences - damaged buildings being rebuilt, characters bearing scars or new confidence, empty chairs where someone once sat. Visual storytelling only
 - Changed dynamics between characters - former enemies shaking hands, lovers reunited, children grown, roles reversed from opening scenes. Express through gesture and position

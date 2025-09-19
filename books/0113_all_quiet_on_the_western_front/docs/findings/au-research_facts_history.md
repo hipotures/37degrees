@@ -1,195 +1,195 @@
-# Historia powstania "Na zachodzie bez zmian" - Fakty i anegdoty
+# Creation History of "All Quiet on the Western Front" - Facts and Anecdotes
 
-## Podstawowe informacje o książce
-- **Tytuł oryginalny**: "Im Westen nichts Neues" 
-- **Tytuł polski**: "Na zachodzie bez zmian"
-- **Autor**: Erich Maria Remarque (ur. jako Erich Paul Remark)
-- **Rok publikacji**: 1929
-- **Gatunek**: Powieść antywojenna
-
----
-
-## CZĘŚĆ I: BIOGRAFIA AUTORA W KONTEKŚCIE KSIĄŻKI
-
-### Wczesne życie i pochodzenie
-
-**FAKT 1**: Erich Maria Remarque urodził się 22 czerwca 1898 roku jako Erich Paul Remark w Osnabrück w rodzinie katolickich robotników.
-
-**FAKT 2**: Jego rodzice, Peter Franz Remark (introligator) i Anna Maria (z domu Stallknecht), byli potomkami francuskich katolików, którzy emigrowali nad Ren po Rewolucji Francuskiej.
-
-**FAKT 3**: Rodzina Remarków była bardzo biedna - podczas dzieciństwa pisarza przeprowadzali się co najmniej 11 razy, mieszkając nawet w pokojach nad firmą wydawniczą Prelle, gdzie pracował ojciec.
-
-**FAKT 4**: Remarque był trzecim z czworga dzieci - miał starszą siostrę Ernę, starszego brata Theodora Arthura (który zmarł w wieku 5-6 lat) i młodszą siostrę Elfriede.
-
-**FAKT 5**: Zmienił swoje drugie imię z "Paul" na "Maria" na cześć matki, która zmarła w 1917 roku podczas jego rekonwalescencji po ranach wojennych.
-
-### Kształcenie i aspiracje
-
-**FAKT 6**: Ze względu na pochodzenie z klasy robotniczej, Remarque nie został przyjęty na kursy przygotowawcze do uniwersytetu, przeznaczone dla młodzieży z klasy średniej.
-
-**FAKT 7**: Był utalentowanym pianistą i organistą - dawał prywatne lekcje gry na pianinie młodym dziewczętom i miał aspiracje zostać pianistą koncertowym.
-
-**FAKT 8**: Już w wieku 16 lat podjął pierwsze próby pisarskie - pisał eseje, wiersze i rozpoczął powieść, którą ukończył później i opublikował w 1920 roku jako "Pokój marzeń" (The Dream Room).
+## Basic Information About the Book
+- **Original Title**: "Im Westen nichts Neues"
+- **English Title**: "All Quiet on the Western Front"
+- **Author**: Erich Maria Remarque (born as Erich Paul Remark)
+- **Publication Year**: 1929
+- **Genre**: Anti-war novel
 
 ---
 
-## CZĘŚĆ II: DOŚWIADCZENIA WOJENNE - FUNDAMENT KSIĄŻKI
+## PART I: AUTHOR'S BIOGRAPHY IN BOOK CONTEXT
 
-### Mobilizacja i służba
+### Early Life and Origins
 
-**FAKT 9**: 26 listopada 1916 roku, krótko po wygraniu 30 marek w konkursie esejistycznym, Remarque został powołany do wojska jako muszkieter (piechur) w wieku 18 lat.
+**FACT 1**: Erich Maria Remarque was born on June 22, 1898, as Erich Paul Remark in Osnabrück to a Catholic working-class family.
 
-**FAKT 10**: Podstawowe szkolenie odbył w obozie Westerberg w Osnabrück, a 12 czerwca 1917 roku został przeniesiony na Front Zachodni.
+**FACT 2**: His parents, Peter Franz Remark (bookbinder) and Anna Maria (née Stallknecht), were descendants of French Catholics who emigrated to the Rhine region after the French Revolution.
 
-**FAKT 11**: Służył jako "saper" (saperka) w jednostce inżynieryjnej, budując bunkry, schrony i okopy za frontem pod Arras, na wschód od Lasu Houthulst i na południe od Handzaeme.
+**FACT 3**: The Remark family was very poor - during the writer's childhood they moved at least 11 times, even living in rooms above the Prelle publishing company where his father worked.
 
-**FAKT 12**: Często pracował nocą, aby uniknąć ognia snajperów, co później znalazło odbicie w realistycznych opisach wojny w jego powieści.
+**FACT 4**: Remarque was the third of four children - he had an older sister Erna, an older brother Theodor Arthur (who died at age 5-6), and a younger sister Elfriede.
 
-### Rany i trauma
+**FACT 5**: He changed his middle name from "Paul" to "Maria" in honor of his mother, who died in 1917 during his convalescence from war wounds.
 
-**FAKT 13**: 31 lipca 1917 roku został ranny odłamkami pocisków artyleryjskich w lewą nogę, prawą rękę i szyję podczas intensywnego brytyjskiego ostrzału artyleryjskiego.
+### Education and Aspirations
 
-**FAKT 14**: Według niektórych relacji, został ranny, niosąc rannego towarzysza do bezpieczeństwa - przyjaciel mimo to zmarł, co stało się jednym z traumatycznych wspomnień, które później włączył do swojego dzieła.
+**FACT 6**: Due to his working-class background, Remarque was not accepted into university preparatory courses, which were intended for middle-class youth.
 
-**FAKT 15**: Po ewakuacji medycznej spędził resztę wojny w szpitalu w Duisburgu, oddalonym od frontu, gdzie miał czas na przemyślenia i obserwację innych rannych żołnierzy.
+**FACT 7**: He was a talented pianist and organist - he gave private piano lessons to young girls and aspired to become a concert pianist.
 
-**FAKT 16**: Podczas rekonwalescencji, 9 września 1917 roku, zmarła jego matka na raka - wydarzenie to pogłębiło jego traumę wojenną i żałobę.
-
----
-
-## CZĘŚĆ III: PROCES TWÓRCZY - POWSTANIE ARCYDZIEŁA
-
-### Długa droga do pisania
-
-**FAKT 17**: Przez dekadę po wojnie Remarque cierpiał na depresję i poczucie zagubienia, które początkowo nie łączył ze swoimi przeżyciami wojennymi.
-
-**FAKT 18**: Dopiero w 1928 roku, niemal 10 lat po wojnie, świadomie połączył swój stan psychiczny z traumą wojenną, mówiąc: "Podobne zjawisko obserwowałem u wielu moich przyjaciół i znajomych. Cień wojny wisiał nad nami, szczególnie gdy próbowaliśmy o tym nie myśleć."
-
-**FAKT 19**: Moment olśnienia nadszedł nagle - jak sam mówił w wywiadzie z 1929 roku: "Tego samego dnia, gdy przyszła mi ta myśl do głowy, wziąłem pióro do ręki, bez większego namysłu."
-
-### Niesamowita szybkość pisania
-
-**FAKT 20**: Całą powieść napisał w zaledwie 5-6 tygodni w 1927 roku, utrzymując się przy życiu mocną kawą i cygarami.
-
-**FAKT 21**: Książka została ukończona w 1927 roku, ale publikacja nastąpiła dopiero w 1928-1929 roku.
-
-**FAKT 22**: Remarque celowo użył prostego, potocznego stylu, pisząc w pierwszej osobie przez narratora Paula Bäumera, aby oddać autentyczne doświadczenie zwykłego żołnierza.
-
-### Motywacja pisarska
-
-**FAKT 23**: Remarque napisał na początku książki: "Ta książka nie ma być ani oskarżeniem, ani wyznaniem, a już najmniej przygodą, bo śmierć nie jest przygodą dla tych, którzy stoją z nią oko w oko. Spróbuje po prostu opowiedzieć o pokoleniu ludzi, którzy zostali zniszczeni przez wojnę, nawet jeśli uniknęli jej pocisków."
-
-**FAKT 24**: Jego deklarowanym celem było "zdawanie sprawy z pokolenia, które zostało zniszczone przez wojnę - nawet wtedy, gdy uniknęło pocisków."
+**FACT 8**: At age 16, he made his first attempts at writing - he wrote essays, poems, and began a novel which he later completed and published in 1920 as "The Dream Room."
 
 ---
 
-## CZĘŚĆ IV: HISTORIA PUBLIKACJI - DROGA DO SUKCESU
+## PART II: WAR EXPERIENCES - FOUNDATION OF THE BOOK
 
-### Poszukiwanie wydawcy
+### Mobilization and Service
 
-**FAKT 25**: Wbrew niektórym mitom, Remarque nie napotkał poważnych trudności ze znalezieniem wydawcy - latem 1928 roku demokratyczne wydawnictwo Ullstein Verlag przyjęło książkę do publikacji.
+**FACT 9**: On November 26, 1916, shortly after winning 30 marks in an essay contest, Remarque was drafted into the army as a musketeer (infantryman) at age 18.
 
-**FAKT 26**: Cyrill Soschka, kierownik działu produkcji wydawnictwa Ullstein, przeczytał książkę i uwierzył, że odniesie sukces - podobno groził założeniem własnej firmy, żeby ją opublikować, jeśli nikt inny tego nie zrobi.
+**FACT 10**: He underwent basic training at Camp Westerberg in Osnabrück, and on June 12, 1917, was transferred to the Western Front.
 
-**FAKT 27**: W przypadku wydania amerykańskiego, Remarque miał trudności ze znalezieniem amerykańskiego wydawcy - dwóch wydawców odrzuciło powieść (jeden z powodu obcenności, drugi niedawno wydał niemiecką książkę o wojnie), zanim Little, Brown & Company ją przyjęło.
+**FACT 11**: He served as a "sapper" in an engineering unit, building bunkers, shelters, and trenches behind the front near Arras, east of Houthulst Forest and south of Handzaeme.
 
-### Serializacja w prasie
+**FACT 12**: He often worked at night to avoid sniper fire, which later found reflection in the realistic descriptions of war in his novel.
 
-**FAKT 28**: Książka została po raz pierwszy opublikowana w odcinkach w niemieckiej gazecie "Vossische Zeitung" od 10 listopada do 9 grudnia 1928 roku.
+### Wounds and Trauma
 
-**FAKT 29**: Już przed wydaniem książkowym złożono 30 000 zamówień przedpremierowych, co było niespotykane jak na tamte czasy.
+**FACT 13**: On July 31, 1917, he was wounded by artillery shell fragments in his left leg, right arm, and neck during intense British artillery bombardment.
 
-**FAKT 30**: Wydanie książkowe ukazało się pod koniec stycznia 1929 roku z ogromną kampanią marketingową wydawnictwa Ullstein.
+**FACT 14**: According to some accounts, he was wounded while carrying an injured comrade to safety - the friend died despite this, becoming one of the traumatic memories he later incorporated into his work.
 
----
+**FACT 15**: After medical evacuation, he spent the rest of the war in a hospital in Duisburg, away from the front, where he had time for reflection and observation of other wounded soldiers.
 
-## CZĘŚĆ V: FENOMENALNY SUKCES - LICZBY I REKORDY
-
-### Sprzedaż i tłumaczenia
-
-**FAKT 31**: W ciągu pierwszych 18 miesięcy książka sprzedała się w nakładzie 2,5 miliona egzemplarzy w 22 językach.
-
-**FAKT 32**: W pierwszych tygodniach sprzedano 450 000 egzemplarzy, a wkrótce opublikowano 26 tłumaczeń na różne języki.
-
-**FAKT 33**: Do kwietnia 1930 roku sprzedaż 12 z 20 wydań osiągnęła 2,5 miliona egzemplarzy, co czyniło z Remarque'a pisarza o największej czytelnictwie na świecie.
-
-**FAKT 34**: Pierwszym tłumaczem na język angielski był Arthur Wesley Wheen w 1929 roku, a wydawcą w USA było Little, Brown and Company.
-
-### Adaptacje filmowe
-
-**FAKT 35**: Już w 1930 roku powstała hollywoodzka adaptacja filmowa w reżyserii Lewisa Milestone'a, która zdobyła Oscary za Najlepszy Film i Najlepszą Reżyserię.
-
-**FAKT 36**: Film "Na zachodzie bez zmian" z 1930 roku był pierwszym filmem, który wygrał Oscary zarówno za Najlepszy Film, jak i Najlepszą Reżyserię, i pierwszym zwycięzcą Najlepszego Filmu opartym na gotowej powieści.
-
-**FAKT 37**: Film otrzymał 98% pozytywnych recenzji na Rotten Tomatoes i średnią 9,2/10, a w 1990 roku został włączony do National Film Registry jako "kulturowo, historycznie lub estetycznie znaczący".
+**FACT 16**: During his convalescence, on September 9, 1917, his mother died of cancer - this event deepened his war trauma and grief.
 
 ---
 
-## CZĘŚĆ VI: PRZEŚLADOWANIA NAZI I TRAGEDIA RODZINNA
+## PART III: CREATIVE PROCESS - BIRTH OF A MASTERPIECE
 
-### Spalanie książek
+### Long Road to Writing
 
-**FAKT 38**: 10 maja 1933 roku książka "Na zachodzie bez zmian" była jedną z pierwszych "zdegenerowanych książek", które zostały publicznie spalone przez nazistów.
+**FACT 17**: For a decade after the war, Remarque suffered from depression and a sense of displacement, which he initially didn't connect to his war experiences.
 
-**FAKT 39**: Posiadanie egzemplarza "Na zachodzie bez zmian" stało się przestępstwem w III Rzeszy.
+**FACT 18**: Only in 1928, almost 10 years after the war, did he consciously connect his psychological state to war trauma, saying: "I observed a similar phenomenon in many of my friends and acquaintances. The shadow of war hung over us, especially when we tried not to think about it."
 
-**FAKT 40**: W 1938 roku nazistowski reżim odebrał Remarque'owi obywatelstwo niemieckie, czyniąc go bezpaństwowcem do 1947 roku, gdy otrzymał obywatelstwo amerykańskie.
+**FACT 19**: The moment of inspiration came suddenly - as he said in a 1929 interview: "The same day this thought came to my head, I took pen in hand, without much deliberation."
 
-### Tragedia siostry Elfriede
+### Incredible Writing Speed
 
-**FAKT 41**: 16 grudnia 1943 roku młodsza siostra Remarque'a, Elfriede Scholz (z domu Remark), została ścięta gilotyną w więzieniu Plötzensee w Berlinie.
+**FACT 20**: He wrote the entire novel in just 5-6 weeks in 1927, sustaining himself on strong coffee and cigars.
 
-**FAKT 42**: Elfriede była 40-letnią krawcową i matką dwójki dzieci, aresztowaną we wrześniu 1943 roku za "defetystyczne wypowiedzi" - powiedziała swojej gospodyni, że wojna jest dla Niemiec przegrana.
+**FACT 21**: The book was completed in 1927, but publication didn't occur until 1928-1929.
 
-**FAKT 43**: Proces trwał tylko godzinę, a przewodniczący sądu Roland Freisler ogłosił wyrok ze słowami: "Ihr Bruder ist uns leider entwischt—Sie aber werden uns nicht entwischen" ("Wasz brat niestety wymknął się nam - ale wy nam się nie wymkniecie").
+**FACT 22**: Remarque deliberately used a simple, colloquial style, writing in first person through narrator Paul Bäumer, to convey the authentic experience of an ordinary soldier.
 
-**FAKT 44**: Naziści wysłali rachunek za proces, więzienie i egzekucję Elfriede - w wysokości 49 580 marek reichsmarkowych - do innej siostry Remarque'a do zapłacenia.
+### Writing Motivation
 
-**FAKT 45**: W 1968 roku w Osnabrück nazwano ulicę "Elfriede Scholz Straße" na jej cześć, a Remarque poświęcił jej swoją powieść "Iskra życia" (1952).
+**FACT 23**: Remarque wrote at the beginning of the book: "This book is to be neither an accusation nor a confession, and least of all an adventure, for death is not an adventure to those who stand face to face with it. It will try simply to tell of a generation of men who, even though they may have escaped shells, were destroyed by the war."
 
----
-
-## CZĘŚĆ VII: WPŁYW I DZIEDZICTWO LITERACKIE
-
-### Rewolucja w literaturze wojennej
-
-**FAKT 46**: Książka zrewolucjonizowała literaturę wojenną - wcześniej dominowały relacje generałów i oficerów, którzy mieli skłonność do romantyzowania wojny.
-
-**FAKT 47**: Remarque jako pierwszy przedstawił wojnę z perspektywy zwykłego żołnierza, używając prostego, nieromantycznego języka i technik strumienia świadomości.
-
-**FAKT 48**: Fragmentaryczna, nieskoordynowana składnia i użycie czasu teraźniejszego przekazywały bezpośredniość, ucieleśniając słynną "żabią perspektywę" wojny.
-
-### Międzynarodowe uznanie
-
-**FAKT 49**: American Film Institute umieścił książkę na liście "100 Years...100 Movies" w 1997 roku, a dekadę później uznał ją za siódmy najlepszy amerykański film epicki.
-
-**FAKT 50**: "Na zachodzie bez zmian" jest powszechnie uznawane za jedno z najbardziej skutecznych dzieł antywojennych w historii i często nazywane "największym filmem antywojennym wszech czasów" (adaptacja z 1930 roku).
+**FACT 24**: His declared goal was to "give an account of a generation that was destroyed by war - even when it escaped the shells."
 
 ---
 
-## WOW MOMENTS - NAJCIEKAWSZE ANEGDOTY
+## PART IV: PUBLICATION HISTORY - PATH TO SUCCESS
 
-**ANEGDOTA 1**: Remarque przez lata używał pseudonimu literackiego, odwracając litery w nazwisku z "Remark" na "Remarque" - powrócił do francuskiej pisowni nazwiska swoich przodków.
+### Finding a Publisher
 
-**ANEGDOTA 2**: Moment rozpoczęcia pisania książki był dramatyczny - autor mówił, że "tego samego dnia, gdy przyszła mi ta myśl do głowy, wziąłem pióro do ręki, bez większego namysłu", i w 6 tygodni stworzył arcydzieło.
+**FACT 25**: Contrary to some myths, Remarque didn't encounter serious difficulties finding a publisher - in summer 1928, the democratic publishing house Ullstein Verlag accepted the book for publication.
 
-**ANEGDOTA 3**: Remarque utrzymywał, że książka była "raczej ćwiczeniem wyobraźni niż pamięci" - "namiętnym przywołaniem" ogólnego nastroju "niezadowolenia, zamieszania i tęsknoty" lat 20. XX wieku.
+**FACT 26**: Cyrill Soschka, production manager at Ullstein publishing house, read the book and believed it would be successful - he reportedly threatened to start his own company to publish it if no one else would.
 
-**ANEGDOTA 4**: Nazistowski sędzia Roland Freisler, który skazał siostrę Remarque'a na śmierć, został zabity w 1945 roku przez aliancką bombę, która trafiła w budynek Sądu Ludowego w Berlinie podczas procesu.
+**FACT 27**: For the American edition, Remarque had difficulties finding an American publisher - two publishers rejected the novel (one for obscenity, another had recently published a German war book), before Little, Brown & Company accepted it.
 
-**ANEGDOTA 5**: Remarque był tak zdenerwowany sukcesem swojej książki, że przez lata unikał wywiadów i publicznych wystąpień, czując się przytłoczony sławą.
+### Press Serialization
+
+**FACT 28**: The book was first published in installments in the German newspaper "Vossische Zeitung" from November 10 to December 9, 1928.
+
+**FACT 29**: Even before the book edition, 30,000 pre-orders were placed, which was unprecedented for those times.
+
+**FACT 30**: The book edition appeared at the end of January 1929 with a massive marketing campaign by Ullstein publishing house.
 
 ---
 
-## STATYSTYKI I REKORDY
+## PART V: PHENOMENAL SUCCESS - NUMBERS AND RECORDS
 
-- **Czas pisania**: 5-6 tygodni (1927)
-- **Sprzedaż w pierwszych 18 miesiącach**: 2,5 miliona egzemplarzy
-- **Liczba języków tłumaczeń (1930)**: 22-26
-- **Zamówienia przedpremierowe**: 30 000 egzemplarzy
-- **Koszt egzekucji siostry**: 49 580 marek reichsmarkowych
-- **Oscary za film (1930)**: 2 (Najlepszy Film i Najlepszy Reżyser)
-- **Ocena na Rotten Tomatoes**: 98% (film z 1930)
-- **Pozycja w rankingu AFI**: 7. miejsce wśród najlepszych amerykańskich filmów epicznych
+### Sales and Translations
 
-Ten dokument przedstawia 50 kluczowych faktów i anegdot dotyczących powstania jednego z najważniejszych dzieł antywojennych w historii literatury światowej.
+**FACT 31**: In the first 18 months, the book sold 2.5 million copies in 22 languages.
+
+**FACT 32**: In the first weeks, 450,000 copies were sold, and soon 26 translations into various languages were published.
+
+**FACT 33**: By April 1930, sales of 12 out of 20 editions reached 2.5 million copies, making Remarque the most widely read author in the world.
+
+**FACT 34**: The first English translator was Arthur Wesley Wheen in 1929, and the US publisher was Little, Brown and Company.
+
+### Film Adaptations
+
+**FACT 35**: As early as 1930, a Hollywood film adaptation was made, directed by Lewis Milestone, which won Oscars for Best Picture and Best Director.
+
+**FACT 36**: The 1930 film "All Quiet on the Western Front" was the first film to win Oscars for both Best Picture and Best Director, and the first Best Picture winner based on an existing novel.
+
+**FACT 37**: The film received 98% positive reviews on Rotten Tomatoes and an average of 9.2/10, and in 1990 was inducted into the National Film Registry as "culturally, historically, or aesthetically significant."
+
+---
+
+## PART VI: NAZI PERSECUTION AND FAMILY TRAGEDY
+
+### Book Burning
+
+**FACT 38**: On May 10, 1933, "All Quiet on the Western Front" was one of the first "degenerate books" publicly burned by the Nazis.
+
+**FACT 39**: Possessing a copy of "All Quiet on the Western Front" became a crime in the Third Reich.
+
+**FACT 40**: In 1938, the Nazi regime stripped Remarque of German citizenship, making him stateless until 1947, when he received American citizenship.
+
+### Tragedy of Sister Elfriede
+
+**FACT 41**: On December 16, 1943, Remarque's younger sister, Elfriede Scholz (née Remark), was beheaded by guillotine at Plötzensee prison in Berlin.
+
+**FACT 42**: Elfriede was a 40-year-old seamstress and mother of two children, arrested in September 1943 for "defeatist statements" - she told her landlady that the war was lost for Germany.
+
+**FACT 43**: The trial lasted only one hour, and presiding judge Roland Freisler announced the verdict with the words: "Ihr Bruder ist uns leider entwischt—Sie aber werden uns nicht entwischen" ("Your brother unfortunately escaped us - but you will not escape us").
+
+**FACT 44**: The Nazis sent a bill for the trial, imprisonment, and execution of Elfriede - amounting to 49,580 Reichsmarks - to another of Remarque's sisters for payment.
+
+**FACT 45**: In 1968, a street in Osnabrück was named "Elfriede Scholz Straße" in her honor, and Remarque dedicated his novel "Spark of Life" (1952) to her.
+
+---
+
+## PART VII: LITERARY IMPACT AND LEGACY
+
+### Revolution in War Literature
+
+**FACT 46**: The book revolutionized war literature - previously, accounts by generals and officers dominated, who tended to romanticize war.
+
+**FACT 47**: Remarque was the first to present war from the perspective of an ordinary soldier, using simple, unromantic language and stream-of-consciousness techniques.
+
+**FACT 48**: The fragmentary, uncoordinated syntax and use of present tense conveyed immediacy, embodying the famous "frog's perspective" of war.
+
+### International Recognition
+
+**FACT 49**: The American Film Institute placed the book on its "100 Years...100 Movies" list in 1997, and a decade later recognized it as the seventh best American epic film.
+
+**FACT 50**: "All Quiet on the Western Front" is widely recognized as one of the most effective anti-war works in history and is often called "the greatest anti-war film of all time" (1930 adaptation).
+
+---
+
+## WOW MOMENTS - MOST INTERESTING ANECDOTES
+
+**ANECDOTE 1**: Remarque used a literary pseudonym for years, reversing the letters in his surname from "Remark" to "Remarque" - he returned to the French spelling of his ancestors' name.
+
+**ANECDOTE 2**: The moment of beginning to write the book was dramatic - the author said that "the same day this thought came to my head, I took pen in hand, without much deliberation," and in 6 weeks created a masterpiece.
+
+**ANECDOTE 3**: Remarque maintained that the book was "rather an exercise of imagination than memory" - "a passionate evocation" of the general mood of "dissatisfaction, confusion, and longing" of the 1920s.
+
+**ANECDOTE 4**: Nazi judge Roland Freisler, who sentenced Remarque's sister to death, was killed in 1945 by an Allied bomb that hit the People's Court building in Berlin during a trial.
+
+**ANECDOTE 5**: Remarque was so nervous about his book's success that for years he avoided interviews and public appearances, feeling overwhelmed by fame.
+
+---
+
+## STATISTICS AND RECORDS
+
+- **Writing time**: 5-6 weeks (1927)
+- **Sales in first 18 months**: 2.5 million copies
+- **Number of translation languages (1930)**: 22-26
+- **Pre-orders**: 30,000 copies
+- **Cost of sister's execution**: 49,580 Reichsmarks
+- **Oscars for film (1930)**: 2 (Best Picture and Best Director)
+- **Rotten Tomatoes rating**: 98% (1930 film)
+- **AFI ranking position**: 7th place among best American epic films
+
+This document presents 50 key facts and anecdotes about the creation of one of the most important anti-war works in world literature history.
